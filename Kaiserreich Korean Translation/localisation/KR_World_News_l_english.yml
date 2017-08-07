@@ -219,7 +219,7 @@ worldnews.54.t:0 "폴란드의 공화국 선언"
 worldnews.54.d:0 "폴란드에서 몇 건의 대규모 테러가 발생하고 경제가 거의 붕괴 된 후 폴란드 고위 관리들이 새로운 '폴란드 공화국'의 창설을 선언했습니다. 이 선언은 많은 정부 부처의 즉각적인 지원 선언을 받았으며, 공화국은 유혈 사태 없이 대부분의 국가를 장악하고 있는것으로 보입니다. \n\n폴란드의 전 통치 기관인 섭정 위원회는 해산되었고, 다음 폴란드 왕이 누가 될가라는 질문은 영원히 답을 못한채로 남겨졌습니다. 사람들은 새로운 공화국을 중심으로 다시 모여 들었고 나라의 새로운 미래가 밝아졌습니다."
 worldnews.54.a:0 "구 질서가 사라지고 있는건가?"
 
-worldnews.55.t:0 "폴란드 군부가 장악하다"
+worldnews.55.t:0 "폴란드 군부가 권력을 장악하다"
 worldnews.55.d:0 "폴란드 정부의 붕괴를 막기 위해 어제, Sejm은 군부를 초청하여 경제 및 정치 상황이 안정될 때까지 새로운 정부를 창설하도록 했습니다. 폴란드 군대는 이 갑작스런 군대 인수의 여파로 국가 통행 금지령을 선언한 [POL.GetLeader]의 지도 아래 신속히 움직였습니다. \n\n폴란드 군대가 바르샤바의 거리를 순찰하고 있고, 상황이 안정된 이후에도 군부가 떠나지 않고 동유럽에서 또 하나의 군사 독재 정권을 창출할지 많은이들이 경우 궁금해하고 있습니다."
 worldnews.55.a:0 "폴란드는 스스로 선택할 수 없는 것으로 보인다. 군대는 그들을 위해 선택했다."
 
@@ -236,21 +236,21 @@ worldnews.58.d:0 "필리핀은 이제 막 미국으로부터 독립을 얻었으
 worldnews.58.a:0 "One day they shall join the fold."
 worldnews.58.b:0 "미국은 그들을 잘 가르쳤다."
 
-worldnews.59.t:0 "The Army Takes Power in the Philippines"
-worldnews.59.d:0 "Having just achieved independence from the United States, the Philippines faced today perhaps one of the most serious challenges any new country could face. Inspired by the Combined States of America and the Bharatiya Commune, disgruntled army officers marched on Manila to support rebelling peasants and workers.\n\nLuckily, their attempt was quickly thwarted as army units intervened in and drove the rebellious army out of the capital and many key points. However, the army decided to seize the power for themselves, with a cabinet of military commanders put in place to ensure the safety of the Philippines 'for the foreseeable future'."
-worldnews.59.a:0 "Concerning."
+worldnews.59.t:0 "필리핀 군부가 권력을 장악하다"
+worldnews.59.d:0 "필리핀은 이제 막 미국으로부터 독립을 얻었으며, 새로운 나라가 직면 할 수있는 가장 심각할 수 있는 도전 중 하나에 직면했습니다. 아메리카 노동 연맹과 바르티야 코뮌에서 영향을 받은 불만이 있는 육군 장교들은 마닐라를 행진하여 농민과 노동자를 반란을 일으켰습니다. \n\n운좋게도, 군대의 충신들이 합법적이고 민주적인 필리핀 정부에 대한 지지를 재확인하고 반정부 군대를 수도에서 몰아냈습니다. 그러나 군은 정권을 장악하기로 결정했고, 가까운 장래에 필리핀의 안전을 보장하기 위해 군 지휘관들이 배치되었습니다."
+worldnews.59.a:0 "걱정스럽군."
 
-worldnews.60.t:0 "Syndicalism Spreads to the Philippines"
-worldnews.60.d:0 "Having just achieved independence from the United States, the Philippines faced today perhaps one of the most serious challenges any new country could face. Inspired by the Combined States of America and the Bharatiya Commune, disgruntled army officers marched on Manila to support rebelling peasants and workers.\n\nSadly, it seems the army's support for Syndicalism was more widespread then expected, and the army rapidly declared support for the Syndicalist movement. Now left with no army outside of a few loyalist divisions and not wanting to see the archipelago descend into another bloody civil war, the government signed power over to the Syndicalist movement's leader."
-worldnews.60.a:0 "Even in Asia, liberalism isn't safe!"
+worldnews.60.t:0 "필리핀에 생디칼리즘이 퍼지다."
+worldnews.60.d:0 "필리핀은 이제 막 미국으로부터 독립을 얻었으며, 새로운 나라가 직면 할 수있는 가장 심각할 수 있는 도전 중 하나에 직면했습니다. 아메리카 노동 연맹과 바르티야 코뮌에서 영향을 받은 불만이 있는 육군 장교들은 마닐라를 행진하여 농민과 노동자를 반란을 일으켰습니다. \n\n슬프게도, 생디칼리즘에 대한 육군의 지지가 널리 확산된 것으로 보이며 군은 신속하게 생디칼리즘 운동의 지지를 선언했습니다. 이제는 소수의 충성스런 부대만이 군대를 떠나지 않고, 군도가 또 다른 피 묻은 내전에 빠지기를 바라지 않는 정부는 생디칼리즘 운동 지도자에게 권력을 이양했습니다."
+worldnews.60.a:0 "아시아에서도 자유주의는 안전하지 않군!"
 
-worldnews.61.t:0 "Syndicalism Spreads to Burma"
-worldnews.61.d:0 "Following a string of poor decisions by the Burmese government, culminating in an order to the Royal Burmese Army to open fire on protesting students and workers, the entire country turned against the royalty. The newly founded National Council is now forming a new Syndicalist government and is reportedly already considering looking outwards for strong, like-minded allies."
+worldnews.61.t:0 "버마에 생디칼리즘이 퍼지다."
+worldnews.61.d:0 "버마 정부의 왕립 버마 군대가 학생들과 노동자들에게 발포하라는 명령을 내리는 형편없는 결정을 내림에 따라 전국이 왕가에 대항하기 시작했습니다. 새롭게 설립된 국가 의회는 현재 생디칼리즘 정부를 구성하고 있으며, 이미 생각이 같은, 강한 동맹국을 찾고 있다고 합니다."
 worldnews.61.a:0 "Country after country, the revolution progresses."
 
-worldnews.62.t:0 "The South African Civil War"
-worldnews.62.d:0 "One of the old colonial possessions of the British Empire, South Africa strayed away from its British allegiance during the United Kingdom's downfall just two decades ago. Where other colonies stayed in the Entente, South Africa declared the independent Union of South Africa, a state that has since been dominated by Afrikaner politicians.\n\nThe 1938 elections, however, had the pro-British Dominionists face off the pro-Republic Afrikaners in perhaps the most politically charged election in the country's history. It seems that the ballot will not be the deciding factor here however, as both sides have risen up to take on each other."
-worldnews.62.a:0 "The stakes for those elections were high. Perhaps too high even."
+worldnews.62.t:0 "남아프리카 내전"
+worldnews.62.d:0 "대영 제국의 오래된 식민지중 하나인 남아프리카 공화국은 20 년 전 영국의 몰락으로 영국의 지배에서 벗어났습니다. 다른 식민지가 협상국에 남아있는 와중에, 남아프리카 공화국은 백인계 정치가가 지배해온 남아프리카 연합의 독립을 선언했습니다. \n\n그러나 1938년 열린, 이 나라의 역사상 가장 정치적으로 중요한 선거에서 영국의 지배에 동의하는 사람들이 공화국을 찬성하는 백인계 사람들과 대결하고있습니다. 그러나 양측이 서로를 꺽기위해 들고 일어났기 때문에, 투표 용지가 결정적인 요인이 되지는 않을 것같습니다."
+worldnews.62.a:0 "그 선거에 걸린것이 크다. 어쩌면 너무 클지도 모른다."
 
 worldnews.63.t:0 "Dominionists Win in South Africa"
 worldnews.63.d:0 "The civil war that has been ravaging South Africa has been bloody and bitter, dividing across ethnicities, political ideology and ancestry. The Dominionists fought to defend the Cape, while the isolated South Rhodesia protected Salisbury with every man they had and the Afrikaners fought furiously on two fronts.\n\nAs the dust settles, the Dominionists seem to have come ahead, with the troops of Rhodesia and the Federation finally reuniting after a decisive push on Pretoria. If South Rhodesia may soon rejoin the Federation, their bravery will probably further inspire the Rhodesian people. The Federation, on the other hand, is soon looking outwards to the Entente."
