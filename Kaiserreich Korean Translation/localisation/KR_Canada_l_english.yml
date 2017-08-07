@@ -426,13 +426,13 @@ CAN_ireland_treaty_desc:0 "The Irish might have an ugly history with the Empire,
 CAN_ireland_ally:0 "원조를 위한 동맹"
 CAN_ireland_ally_desc:0 "The Irish have agreed to accept our protection but have sadly stopped short of committing fully to an alliance. Perhaps if we sweeten the pot even more, we could entice them to join the Entente? There are surely a few things we can still offer other than words."
 
-CAN_claim_greenland:0 "덴마크의 대서양 영토 요구"
+CAN_claim_greenland:0 "덴마크의 대서양 영토를 요구하자"
 CAN_claim_greenland_desc:0 "The Danes may be no threat now, but their possessions in the Atlantic could be easily be occupied and turned against us. We should move first, and gain a foothold from which we can get within striking distance of the Union of Britain."
 
-CAN_war_uob:0 "영국 연방 공격"
+CAN_war_uob:0 "영국 연방을 공격하자"
 CAN_war_uob_desc:0 "The Union of Britain is embroiled in another Weltkrieg, and with their attention and resources diverted we will never have a better shot at a successful invasion. The time has come for war! The British Isles await us, boys!"
 
-CAN_war_ger:0 "독일 제국 공격"
+CAN_war_ger:0 "독일 제국을 공격하자"
 CAN_war_ger_desc:0 "We have not forgiven nor forgotten the humiliation of 1921. If the Germans think they can usurp the greatest Empire in history, they are sorely mistaken. Now they are embroiled in war against the Syndicalists, the time is ripe for revenge! We will get the peace we wanted!"
 
 CAN_scheme_1:0 "제 1호 방위계획"
