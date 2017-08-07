@@ -1,7 +1,7 @@
 ﻿l_english:
 
 ### Loading Messages ###
-LOADING_GUI:0 "명예로운 평화를 노래하는 중"
+LOADING_GUI:0 "명예로운 평화에 서명하는 중"
 #"Loading GUI"
 LOADING_HISTORY:0 "트로츠키는 숨기는 중"
 #"Loading History"
@@ -9,7 +9,7 @@ LOADING_SAVEGAME:0 "역사를 다시 쓰는 중: $NAME$"
 #"Loading savegame: $NAME$"
 LOADING_SAVEGAME_NO_NAME:0 "역사를 다시 쓰는 중"
 #"Loading savegame"
-LOADING_DATABASES:0 "노동조합주의자들을 숙청하는 중"
+LOADING_DATABASES:0 "생디칼리스트들을 숙청하는 중"
 #"Loading databases"
 LOADING_MAP_SPRITES:0 "왕당파들을 비난하는 중"
 #"Loading sprites"
