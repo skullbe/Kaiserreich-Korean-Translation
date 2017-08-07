@@ -240,7 +240,7 @@ CAN_cbc_desc:0 "A proposal has been put forward to expand the Canadian Radio Bro
 CAN_production:0 "생산 현대화"
 CAN_production_desc:0 "Investing in the development of new production techniques will make our industry more efficient and productive. This, in turn will help revive and revitalise our fledgling economy and ensure its long term prosperity."
 
-CAN_polycorp:0 "중합체 주식회사"
+CAN_polycorp:0 " 주식회사"
 CAN_polycorp_desc:0 "The Polymer Corporation, or Polycorp, is a crown corporation tasked with the development and production of new materials like nylon and synthetic rubber. These new materials will allow us to discover new ways to produce equipment that has until then proved a problem for our industry, making them cheaper and faster to output."
 
 CAN_factory:0 "왕실 주식회사"
