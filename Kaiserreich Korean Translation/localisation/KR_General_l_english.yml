@@ -168,7 +168,7 @@ political_powerhouse:0 "정치적 수완가"
 expansive_imperialist:0 "배를 탄 제국주의자"
 totalist_promoter:0 "전체주의의 우상"
 radical_socialist_promoter:0 "사회주의 혁명가"
-syndicalist_promoter:0 "노동조합주의 연방 지도자"
+syndicalist_promoter:0 " 지도자"
 social_democrat_promoter:0 "사회주의 개혁가"
 social_liberal_promoter:0 "급진주의 영웅"
 market_liberal_promoter:0 "사업가의 옹호자"
@@ -180,7 +180,7 @@ great_compromiser:0 "대타협가"
 
 ### Ideologies ###
 totalist:0 "전체주의자"
-syndicalist:0 "노동조합주의자"
+syndicalist:0 "생디칼리스트"
 radical_socialist:0 "곱진사회주의자"
 social_democrat:0 "사회민주주의자"
 market_liberal:0 "시장자유주의자"
@@ -400,10 +400,10 @@ motorized_theorist:0 "Motorised Equipment Theorist"
 marine_theorist:0 "Marine Equipment Theorist"
 
 ### General ###
-fighter_techs:0 "Fighter Tech"
-fighter_techs_research:0 "Fighter Tech Research Time"
-support_tech:0 "Support Tech"
-support_tech_research:0 "Support Tech Research Time"
+fighter_techs:0 "전투기 장비"
+fighter_techs_research:0 "전투기 장비 연구 시간"
+support_tech:0 "지원장비"
+support_tech_research:0 "지원장비 연구 시간"
 
 ### Army Command Traits ###
 
@@ -600,12 +600,12 @@ navy_carrier_1:0 "Carrier Strike Doctrine"
 navy_carrier_2:0 "Carrier Strike Doctrine"
 navy_carrier_3:0 "Carrier Strike Doctrine"
 
-black_monday:0 "Black Monday"
+black_monday:0 "검은 월요일"
 
 jet_aircraft_manufacturer:0 "Jet Aircraft Manufacturer"
 
-independent_war:0 "Independent War"
-independent_war_desc:0 "This country is currently in a independent war. It does not want other countries to get involved directly in the war."
+independent_war:0 "독립 전쟁"
+independent_war_desc:0 "현재 이 국가는 독립전쟁 중입니다. 따라서 다른 국가들이 전쟁에 참여하는 것을 원하지 않습니다."
 
 ### Generic Focuses ###
 generic_army_effort:0 "Modern Warfare"
