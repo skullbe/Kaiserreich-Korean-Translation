@@ -3,33 +3,33 @@
 ### Events ###
 
 ### Kickoff Event ###
-ausgleich.1.t:0 "The 1937 Ausgleich"
-ausgleich.1.d:0 "The Ausgleich was a constitutional compromise between Austria and Hungary, negotiated in 1867 after the disastrous results of the war with Prussia, which established the dual monarchy of Austria-Hungary. Every ten years when the compromise was renegotiated an internal crisis was triggered. After the dismal 1927 renegotiation of the compromise, the Hungarians have been emboldened. They have escalated their demands since the previous Ausgleich, seeking more influence within the central government. It is now time for the 1937 renegotiation of the Ausgleich."
-ausgleich.1.a:0 "Centralise the Dual Monarchy."
-ausgleich.1.b:0 "Reform the Dual Monarchy."
-ausgleich.1.c:0 "Move to Federalism."
+ausgleich.1.t:0 "1937년 대타협"
+ausgleich.1.d:0 "대타협은 오스트리아와 헝가리 사이의 입헌적 타협을 일컫습니다. 1867년 프로이센과의 전쟁이 낳은 끔찍한 결과로 인한 협상 끝에 오스트리아-헝가리 이중 왕조가 세워졌습니다. 국내에 위기가 닥쳐올 때면 10년마다 재협상을 해왔습니다. 1927년의 협상은 야무지지 못했고 헝가리인들은 대담해졌습니다. 지난 대타협 이후 그들의 요구는 더 불어나고 있습니다. 중앙 정부의 영향력을 강화할 방안을 생각해야 합니다. 이제 1937년 대타협 재협상이 다가옵니다."
+ausgleich.1.a:0 "이중 왕조를 중앙 집권화한다."
+ausgleich.1.b:0 "이중 왕조를 개혁한다."
+ausgleich.1.c:0 "연방제로 가자."
 
 ### Hungarian Response ###
-ausgleich.2.t:0 "The Austrians want to centralise the Dual Monarchy"
-ausgleich.2.d:0 "The Ausgleich was the compromise between Austria and Hungary in 1867. Every 10 years the terms of the compromise were renegotiated. This time Austria wants to centralise the monarchy resulting in a large loss of power for the Hungarians."
-ausgleich.2.a:0 "Submit to Vienna."
-ausgleich.2.b:0 "Never."
+ausgleich.2.t:0 "오스트리아는 이중 왕조의 중앙 집권화를 원한다"
+ausgleich.2.d:0 "대타협은 1867년에 있었던 오스트리아와 헝가리 사이의 타협을 일컫습니다. 10년마다 타협에 대한 재협상을 하게 됩니다. 이번에 오스트리아는 왕조의 중앙 집권화를 원하고 있으며 헝가리인의 힘은 크게 약해질 것입니다."
+ausgleich.2.a:0 "빈에 답신을 보내자."
+ausgleich.2.b:0 "절대 안 돼."
 
 ### Hungary Submits ###
-ausgleich.3.t:0 "Hungary submits to Vienna"
-ausgleich.3.d:0 "Hungary has agreed to centralise the monarchy! Although many of our neighbours, as well as semi-independent parts of the Empire, oppose the centralisation, we should celebrate, for no longer will we face the internal power struggles between Austria and Hungary."
-ausgleich.3.a:0 "Centralise the rest of the Empire."
+ausgleich.3.t:0 "헝가리가 빈으로 보낸 답신"
+ausgleich.3.d:0 "헝가리가 왕조의 중앙 집권화를 수락했습니다! 아직 중앙 집권에 반대하는 준자치 제후국들이 남아있긴 하지만 당장은 축배를 듭시다. 오스트리아와 헝가리의 권력 다툼은 이제 안녕입니다."
+ausgleich.3.a:0 "제국의 나머지 제후들도 모이게 할 것이다."
 
 ### News Event About Centralised Austria ###
-ausgleich.4.t:0 "Austria Reunified!"
-ausgleich.4.d:0 "Despite the victory in the Weltkrieg, the Austro-Hungarian Empire appeared to be bound to collapse. The Ausgleich of 1927, negotiated when Emperor Otto was still a child, managed to preserve it, though, via granting extensive rights to most of the minorities in the Empire. However, the Hungarians were angered by this fact and sought to establish a domineering position in the Empire, while the Habsburgs were still interested in retaining that role. \n\nThe Ausgleich of 1937, however, has favoured the Austrians. After negotiations, the Hungarians surprisingly agreed to fold to the Habsburgs and join the Empire directly. Austria is now undergoing a centralisation process that might result in a new superpower being born..."
-ausgleich.4.a:0 "Troubling."
+ausgleich.4.t:0 "오스트리아 재통일!"
+ausgleich.4.d:0 "세계 대전의 승리 이후, 오스트리아-헝가리 제국은 붕괴 위기에 내몰렸습니다. 1927년 대타협, 오토 황제는 어렸지만 왕조를 보존해야 했습니다. 그 결과 제국의 소수 민족들에게 많은 권리가 허락됐습니다. 헝가리인들은 이 사실에 분노했고, 합스부르크 왕실이 제 역할을 다 하는 동안 제국 내에서 자치권을 확립할 길을 모색했습니다. \n\n1937년 대타협은 오스트리아인의 입맛에 맞춰졌습니다. 놀랍게도 헝가리인들은 안건을 수락해 제국에 즉시 편입되었습니다. 이제 오스트리아는 중앙 집권화를 거치며 새로운 초강대국의 탄생을 준비하고 있습니다..."
+ausgleich.4.a:0 "골치 아프군."
 
 ### Bohemia Annexation ###
-ausgleich.5.t:0 "Centralisation of the Empire"
-ausgleich.5.d:0 "After the Hungarians have submitted to Vienna a formal request has been sent to our government requesting that we also centralise into the empire. We now have the option to submit or fight. What will we do?"
-ausgleich.5.a:0 "We shall submit. Lang lebe der Kaiser!"
-ausgleich.5.b:0 "We shall fight! Declare independence."
+ausgleich.5.t:0 "제국의 중앙 집권화"
+ausgleich.5.d:0 "헝가리인들이 빈을 향해 정중히 답한 이후 우리 정부도 제국의 중앙 집권화에 대답해야 할 때가 왔습니다. 응답과 싸움 두 선택지가 주어졌습니다. 어쩌면 좋겠습니까?"
+ausgleich.5.a:0 "반드시 답해야 한다. 황제 폐하 만세!"
+ausgleich.5.b:0 "반드시 싸워야 한다! 독립을 선언한다."
 
 ausgleich.6.t:0 "A country accepted to centralise"
 ausgleich.6.d:0 "Today a country has has agreed to abolish its autonomous status and directly be part of the Empire. Lang lebe der Kaiser!"
