@@ -102,69 +102,69 @@ ausgleich.19.d:0 "헝가리인들과 오스트리아 정부 사이의 긴 협상
 ausgleich.19.a:0 "좋아."
 
 ### Offer Bosnia ###
-ausgleich.20.t:0 "The second round of negotiations"
-ausgleich.20.d:0 "The second round of negotiations have begun and the Austrians have offered us Bosnia to join our half of the Empire. While this is an insulting offer we may have to accept it since rejection could mean that the Germans interfere again. What should we do?"
-ausgleich.20.a:0 "Accept the offer."
-ausgleich.20.b:0 "This is a paltry offer!"
+ausgleich.20.t:0 "두 번째 협상석"
+ausgleich.20.d:0 "두 번째 협상석이 마련되었고 오스트리아인들은 보스니아를 이양하는 대신 제국의 절반이 되어달라 제안해왔습니다. 받아들이기에는 모욕적이긴 하지만 거절한다면 독일인들이 다시 간섭할 것입니다. 어쩌시겠습니까?"
+ausgleich.20.a:0 "제안을 수락한다."
+ausgleich.20.b:0 "하찮은 제안이다!"
 
-ausgleich.21.t:0 "What to do with Bosnia"
-ausgleich.21.d:0 "Now that we control Bosnia the question as to what to do with it has surfaced. Many ministers wish to give it to the Croatian government to placate them. However many other ministers wish to merely keep Bosnia under its current government. A small minority wish to end Bosnia's autonomy and directly add it to our Kingdom. What shall we do?"
-ausgleich.21.a:0 "Give it to Croatia."
-ausgleich.21.b:0 "Keep Bosnia as it is."
-ausgleich.21.c:0 "Annex it."
+ausgleich.21.t:0 "보스니아에서 할 일"
+ausgleich.21.d:0 "보스니아를 관리하게 되었지만 이 곳을 어떻게 처분할지 결정해야 합니다. 많은 장관들이 크로아티아 정부에게 주어서 여론을 달래자고 말합니다. 한편 일각에서는 현 정부에서 맡기를 바라고 있지요. 몇몇은 보스니아의 자치를 끝내고 즉시 우리 왕국에 편입하기를 원하고 있습니다. 어쩌시겠습니까?"
+ausgleich.21.a:0 "크로아티아에게 준다."
+ausgleich.21.b:0 "보스니아는 그대로 보스니아다."
+ausgleich.21.c:0 "합병한다."
 
-ausgleich.22.t:0 "Bosnia is now ours"
-ausgleich.22.d:0 "The Magyars, after gaining Bosnia from the Austrians, have given it to us. While the majority of our ministers wish to add it directly to our nation a dissenting minority wish to make it an autonomous state. What shall we do?"
-ausgleich.22.a:0 "Welcome home brothers!"
-ausgleich.22.b:0 "The second round of negotiations."
+ausgleich.22.t:0 "보스니아는 우리의 것"
+ausgleich.22.d:0 "오스트리아로부터 보스니아를 받은 마자르인들이 그 땅을 다시 우리에게 넘겼습니다. 장관 중 대다수가 우리나라에 즉각 편입시키길 바라고 있고, 반대하는 소수는 자치 정부를 수립하자고 말합니다. 어쩌시겠습니까?"
+ausgleich.22.a:0 "귀향을 환영하네, 형제들!"
+ausgleich.22.b:0 "두 번째 협상석을 준비한다."
 
-ausgleich.23.t:0 "Ausgleich Keeps the Status Quo"
-ausgleich.23.d:0 "Despite the victory in the Weltkrieg, the Austro-Hungarian Empire appeared to be bound to collapse. The Ausgleich of 1927, negotiated when Emperor Otto was still a child, managed to preserve it, though, via granting extensive rights to most of the minorities in the Empire. However, the Hungarians were angered by this fact and sought to establish a domineering position in the Empire, while the Habsburgs were still interested in retaining that role. \n\nDespite high hopes placed towards it, the Ausgleich of 1937 failed to achieve a reconciliation. The Hungarians declined any Austrian offers of unification, and Bosnia had to be offered to them to keep the Magyars in the Empire. The sick giant of the Balkans lives on for another day, at least."
-ausgleich.23.a:0 "Will see what the future holds."
+ausgleich.23.t:0 "현상 유지를 위한 대타협"
+ausgleich.23.d:0 "세계 대전의 승리 이후, 오스트리아-헝가리 제국은 붕괴 위기에 내몰렸습니다. 1927년 대타협, 오토 황제는 어렸지만 왕조를 보존해야 했습니다. 그 결과 제국의 소수 민족들에게 많은 권리가 허락됐습니다. 헝가리인들은 이 사실에 분노했고, 합스부르크 왕실이 제 역할을 다 하는 동안 제국 내에서 자치권을 확립할 길을 모색했습니다. \n\n높아지는 희망이 있었음에도 불구하고, 1937년 대타협에서 화해를 모색하는 데는 실패했습니다. 헝가리인들은 오스트리아가 제안한 모든 통일안을 거부했습니다. 그리고 보스니아를 제국에 잔류하는 조건으로 주고 말았습니다. 발칸의 병든 거인은 또 하루를 살아남았습니다. 또 하루를."
+ausgleich.23.a:0 "훗날을 도모하면 된다."
 
 ### Reform the Dual Monarchy ###
-ausgleich.24.t:0 "Austria wants to reform the Dual Monarchy"
-ausgleich.24.d:0 "The Ausgleich was the compromise between Austria and Hungary in 1867. Every 10 years the terms of the compromise were renegotiated. Austria has chosen to maintain the dual-monarchy of Austria-Hungary. They proposal is tied to a number of reforms for all parts of the Empire. Most of them sound reasonable. What should we decide on?"
-ausgleich.24.a:0 "Dualism has been good to us."
-ausgleich.24.b:0 "Its time to break free!"
+ausgleich.24.t:0 "오스트리아는 이중 왕조의 개혁을 원한다"
+ausgleich.24.d:0 "대타협은 1867년에 있었던 오스트리아와 헝가리 사이의 타협을 일컫습니다. 10년마다 타협에 대한 재협상을 하게 됩니다. 오스트리아는 현재 오스트리아-헝가리의 이중 왕조를 유지하고자 합니다. 그에 맞춰 제국의 전 분야에 걸친 많은 개혁을 제안했습니다. 듣기에 합리적입니다. 어떤 결정을 내리시겠습니까?"
+ausgleich.24.a:0 "이중 체제가 우리에게 이롭다."
+ausgleich.24.b:0 "자유를 찾을 때가 왔다!"
 
-ausgleich.25.t:0 "Hungarians agree to reform"
-ausgleich.25.d:0 "The Hungarian government has agreed on reforming the Dual-Monarchy. A great future lies before us."
-ausgleich.25.a:0 "Lang lebe der Kaiser."
+ausgleich.25.t:0 "헝가리인들이 개혁을 수락하다"
+ausgleich.25.d:0 "헝가리 정부가 이중 왕조의 개혁에 동의했습니다. 위대한 미래가 우리를 기다립니다."
+ausgleich.25.a:0 "황제 폐하 만세."
 
-ausgleich.26.t:0 "Dual Monarchy Reformed!"
-ausgleich.26.d:0 "Despite the victory in the Weltkrieg, the Austro-Hungarian Empire appeared to be bound to collapse. The Ausgleich of 1927, negotiated when Emperor Otto was still a child, managed to preserve it, though, via granting extensive rights to most of the minorities in the Empire. However, the Hungarians were angered by this fact and sought to establish a domineering position in the Empire, while the Habsburgs were still interested in retaining that role. \n\nMany placed their hopes on the Ausgleich of 1937 to restore the Empire, and it appears that those hopes were fulfilled. Austria and Hungary have reunited under the Austro-Hungarian banner and declared the reformation of the Dual Monarchy."
-ausgleich.26.a:0 "Good for them."
+ausgleich.26.t:0 "이중 왕조 개혁!"
+ausgleich.26.d:0 "세계 대전의 승리 이후, 오스트리아-헝가리 제국은 붕괴 위기에 내몰렸습니다. 1927년 대타협, 오토 황제는 어렸지만 왕조를 보존해야 했습니다. 그 결과 제국의 소수 민족들에게 많은 권리가 허락됐습니다. 헝가리인들은 이 사실에 분노했고, 합스부르크 왕실이 제 역할을 다 하는 동안 제국 내에서 자치권을 확립할 길을 모색했습니다. \n\n많은 이들의 희망이 보살핀 것인지, 1937년 대타협에서 제국은 복원되었습니다. 그렇게 모두의 희망이 실현된 것입니다. 오스트리아와 헝가리는 오스트리아-헝가리의 깃발 아래 다시 하나되었으며 이중 왕조는 개혁을 선언했습니다."
+ausgleich.26.a:0 "저들에게는 좋겠지."
 
 ### Federate the Empire ###
-ausgleich.27.t:0 "The Austrians want to federate the Dual Monarchy"
-ausgleich.27.d:0 "The Ausgleich was the compromise between Austria and Hungary in 1867. Every 10 years the terms of the compromise were renegotiated. Austria wants to federate Austria-Hungary resulting in a loss of power for us and for more regions of the empire to gain semi-autonomy."
-ausgleich.27.a:0 "Agree and federate the Kingdom."
-ausgleich.27.b:0 "Never."
+ausgleich.27.t:0 "오스트리아인들은 이중 왕조에 연방제 도입을 원한다"
+ausgleich.27.d:0 "대타협은 1867년에 있었던 오스트리아와 헝가리 사이의 타협을 일컫습니다. 10년마다 타협에 대한 재협상을 하게 됩니다. 이번에 오스트리아는 중앙의 힘을 내려두고 제국의 각 지역에 반 자치권을 주어, 오스트리아-헝가리에 연방제를 도입하길 원하고 있습니다."
+ausgleich.27.a:0 "수락, 왕국을 연방의 일부로 만든다."
+ausgleich.27.b:0 "절대 안 돼."
 
-ausgleich.28.t:0 "The Magyars agree to federate"
-ausgleich.28.d:0 "The Magyars have agreed to federate; in effect dissolving the empire in favour of a federal government."
-ausgleich.28.a:0 "Federate the Empire."
+ausgleich.28.t:0 "마자르인들이 연방제를 수락했다"
+ausgleich.28.d:0 "마자르인들이연방제를수락했습니다.연방 정부의 요구에 따라 제국은 점차 뒤섞이게 될 것입니다."
+ausgleich.28.a:0 "제국에 연방제를 도입한다"
 
-ausgleich.29.t:0 "The Birth of the Danubian Federation"
-ausgleich.29.d:0 "Despite the victory in the Weltkrieg, the Austro-Hungarian Empire appeared to be bound to collapse. The Ausgleich of 1927, negotiated when Emperor Otto was still a child, managed to preserve it, though, via granting extensive rights to most of the minorities in the Empire. However, the Hungarians were angered by this fact and sought to establish a domineering position in the Empire, while the Habsburgs were still interested in retaining that role. \n\nThe Ausgleich of 1937, however, brought about an unexpected result. Hungary and Austria accepted a reform plan in the Empire, abolishing the Monarchy and declaring the beginning of the democratic Danubian Federation."
-ausgleich.29.a:0 "Interesting."
+ausgleich.29.t:0 "도나우 연방의 탄생"
+ausgleich.29.d:0 "세계 대전의 승리 이후, 오스트리아-헝가리 제국은 붕괴 위기에 내몰렸습니다. 1927년 대타협, 오토 황제는 어렸지만 왕조를 보존해야 했습니다. 그 결과 제국의 소수 민족들에게 많은 권리가 허락됐습니다. 헝가리인들은 이 사실에 분노했고, 합스부르크 왕실이 제 역할을 다 하는 동안 제국 내에서 자치권을 확립할 길을 모색했습니다. \n\n1937년 대타협은 예상치 못한 결과를 불러왔습니다. 제국에 대한 개혁안을 헝가리와 오스트리아가 수락한 것입니다. 군주제는 사라지고 민주주의가 도입된 도나우 연방의 탄생이 선포되었습니다."
+ausgleich.29.a:0 "흥미롭군."
 
 ### Crisis on the Danube ###
 
 ### Road to war ###
 
 ### Kickoff Event ###
-ausgleich.30.t:0 "Crisis on the Danube"
-ausgleich.30.d:0 "Today our ambassador returned from Hungary. He informed us that negotiations have been stopped and that no agreements could have been made. The Kaiser has to make a decision. We can fight to maintain the empire or dissolve the Dual Monarchy. While a war would possibly unite the Empire it comes at a great risk. Dissolving the empire would abolish all our power in foreign lands but save our homeland. What will be the Kaisers decision?"
-ausgleich.30.a:0 "Fight to maintain unity!"
-ausgleich.30.b:0 "The empire has fallen."
+ausgleich.30.t:0 "도나우의 위기"
+ausgleich.30.d:0 "우리 대사가 헝가리에서 오늘 돌아왔습니다. 그는 협상은 중단됐으며 일체의 사안도 이루지 못했다고 밝혔습니다. 황제께옵서는 결단을 내리소서. 제국을 위해 싸울 수도, 이중 왕조를 해체할 수도 있습니다. 전쟁으로 제국을 통합시킬 수 있지만 큰 대가가 따를 것입니다. 제국 해체는 나라 밖에 미친 모든 권세를 거두어들여야 할 테지만, 이 땅만은 지킬 수 있습니다. 황제께옵서 내리실 결단은 무엇이옵니까?"
+ausgleich.30.a:0 "통합을 위한 싸움이다!"
+ausgleich.30.b:0 "제국은 무너질 것이다."
 
-ausgleich.31.t:0 "Crisis on the Danube"
-ausgleich.31.d:0 "Austria and Hungary have broken off negotiations with each other! We should probably intervene in order to prevent another war in Europe. It's clear the status quo will not solve this so we have to favour one side over the other."
-ausgleich.31.a:0 "Favour Austria."
-ausgleich.31.b:0 "Stay neutral."
-ausgleich.31.c:0 "Favour Hungary."
+ausgleich.31.t:0 "도나우의 위기"
+ausgleich.31.d:0 "오스트리아와 헝가리 간의 협상이 파탄났습니다! 유럽에 다시 전쟁이 벌어지는 걸 막으려면 한시 바삐 개입해야 합니다. 명백한 사실은 현상 유지로는 문제를 해결할 수 없으며, 우리는 어느 한 쪽의 편을 들어야 합니다."
+ausgleich.31.a:0 "오스트리아의 편을 든다."
+ausgleich.31.b:0 "중립을 유지한다."
+ausgleich.31.c:0 "헝가리의 편을 든다."
 
 ### Germany Favour Austria ###
 ausgleich.32.t:0 "The Germans favour Austria"
