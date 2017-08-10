@@ -3,29 +3,29 @@
 #Orthodoxy localisation at the end
 
 ### Ideas ###
-rus_negot_peasants:0 "Negotiated with the Peasants"
-rus_minor_strike:0 "Minor Workers' Strike
-rus_fulfilled_strike:0 "Fulfilled Strikers' Demands"
-rus_general_strike:0 "General Strike"
-rus_general_strike_big:0 "General Strike"
-rus_fulfilled_strike_general:0 "Fulfilled Strikers' Demands"
-rus_fulfilled_strike_general_malus:0 "Expanded worker's rights"
-zemstvo_support:0 "Support of a Zemstvo"
-village_surplus:0 "Communal Production Surplus"
-project_exeeded:0 "Projected Limits Exceeded"
+rus_negot_peasants:0 "농민들과의 협상"
+rus_minor_strike:0 "소규모 노동자 파업"
+rus_fulfilled_strike:0 "파업자들의 요구가 실현되었다."
+rus_general_strike:0 "총파업"
+rus_general_strike_big:0 "총파업"
+rus_fulfilled_strike_general:0 "파업자들의 요구가 실현되었다."
+rus_fulfilled_strike_general_malus:0 "노동자의 권익이 확대되었다."
+zemstvo_support:0 "젬스트보의 지원"
+village_surplus:0 "공동생산잉여"
+project_exeeded:0 "예상된 제한을 넘어서다."
 
 ### Events ###
-rusd.1.t:0 "Political Bombings"
-rusd.1.d:0 "The Anarchists, Socialists, Syndicalists and Bolsheviks are weakening the stability of our Motherland. Recently, one of them assassinated a famous General. God only knows who they will kill next time!"
-rusd.1.a:0 "I want the head of the bomber on my desk!"
+rusd.1.t:0 "정치적 폭탄"
+rusd.1.d:0 "무정부주의자, 사회주의자, 생디칼리스트, 볼셰비키들은 우리 조국의 안보를 약화시키고 있습니다. 최근에는 그들 중 하나가 유명한 장군을 암살하였습니다. 오직 주님만이 그들의 다음 목표를 아실 것이다!"
+rusd.1.a:0 "나는 그 폭탄범의 머리를 내 책상에 둘 것이다!"
 
-rusd.2.t:0 "Assault on a General"
-rusd.2.d:0 "The Anarchists, Socialists, Syndicalists and Bolsheviks are weakening the stability of our Motherland. Recently, one of them assassinated a famous General. God only knows who they will kill next time!"
+rusd.2.t:0 "장군에 대한 공격"
+rusd.2.d:0 "무정부주의자, 사회주의자, 생디칼리스트, 볼셰비키들은 우리 조국의 안보를 약화시키고 있습니다. 최근에는 그들 중 하나가 유명한 장군을 암살하였습니다. 오직 주님만이 그들의 다음 목표를 아실 것이다!"
 
-rusd.3.t:0 "Failure of a Bombing Plot"
-rusd.3.d:0 "The Anarchists, Socialists, Syndicalists and Bolsheviks are weakening the stability of our Motherland. Recently, they caused a panic in one of the major Russian cities when an assassin tried to kill a famous government representative. Thankfully the bomb went off too early, killing only a few people."
+rusd.3.t:0 "폭탄 테러의 실패"
+rusd.3.d:0 "무정부주의자, 사회주의자, 생디칼리스트, 볼셰비키들은 우리 조국의 안보를 약화시키고 있습니다. 최근에 그들은 러시아의 주요 도시 중 한 곳에 암살자를 보내 저명한 정부 대리인을 암살하려하여 도시에 혼란을 일으켰습니다. 다행히 폭탄을 일찍 터져 적은 수의 사람만이 사망하였습니다."
 
-rusd.4.t:0 "Peasant Unrest"
+rusd.4.t:0 "농민들의 불안"
 rusd.4.d:0 "Throughout Russian history the peasants' living conditions has always been hard, even during periods of peace and prosperity. Even the emancipation reforms of 1861, which led to the abolition of serfdom, did not improve the situation all that much. Local peasant protests against their grim position, as well as landowners' illegal actions, were common."
 rusd.4.a:0 "Oh well..."
 
