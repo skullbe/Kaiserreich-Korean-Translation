@@ -76,7 +76,7 @@ GER_foreign_aid:0 "동맹 지원"
 GER_foreign_aid_desc:0 "If we want to preserve our Hegemony we must ensure our allies and protectorates throughout the world are strong and loyal. Let us invest in our puppets and colonies."
 GER_IRE_deal:0 "아일랜드와 조약"
 GER_IRE_deal_desc:0 "The Irish have turned to Germany for protection. We should offer them an aid treaty so that we'll have a loyal ally in the fight against the Union of Britain."
-GER_DKB_deal:0 "코사크에 대한 군사 사절"
+GER_DKB_deal:0 "코사크에 대한 군사 사절단"
 GER_DKB_deal_desc:0 "If we are to keep the Russians in check we must ensure we can combat them on all fronts. Let us send aid to our allies in the Don-Kuban union and help them build their army."
 GER_BUR_ALLY:0 "버마 초청"
 GER_BUR_ALLY_desc:0 "The recent invitation of Siam into the Japanese Co-prosperity sphere poses a threat to our large Pacific colonial empire. We can try to counter expansion of Japanese influence through Indochina by allying with Burma, a state threatened from one side by syndicalists and from another by the expansionist Siam. This way we can threaten Siam from the west should a conflict arise."
@@ -290,257 +290,272 @@ GER_WILHELM_DESC:0 "Considered by some to be a sort of 'Male Victoria' (an ironi
 
 ### Domestic Events ###
 
-gerdom.1.t:0 "The Constitution of the German Kaiserreich"
+
+gerdom.1.t:0 "독일 제국 헌법"
 gerdom.1.d:0 "After the crushing defeat of the Second French Empire by forces of the North German Federation, our constitution was signed in 1871 by representatives of the North German Federation and of four Southern German states. This constitution put the Southern German states under the influence of the North German Federation, thus giving the enlarged entity a new identity as the Deutsches Reich. \n\nAccording to the constitution, the empire was a federation of 25 German states. The Bundesprasidium was held by the King of Prussia, who had the title of German Emperor. The Emperor appointed the Chancellor, the head of government and chairman of the Bundesrat, the council of representatives of the German states. Laws were enacted by the Bundesrat and the Reichstag, the Imperial Diet elected by male Germans above the age of 25 years. \n\nHowever, it is the Emperor, not the Bundesrat or the Reichstag, who leads the power in the German Empire. With an option to dissolve the Reichstag on a whim, it is clear that the main political power in the German Empire rests not in Reichstag, elected by the people, but in the hands of the non-elected German Emperor. Another issue is the Prussian three-class voting system, which has remained unchanged since 1849. \n\nOver sixty years after the founding of the Kaiserreich, the liberals and social democrats are growing increasingly disgruntled with this status of things and our constitution may see large revisions in the next few years..."
-gerdom.1.a:0 "A constitution guarantees stability, at least."
+gerdom.1.a:0 "헌법은 안정을 보장한다, 최소한"
 
-gerdom.2.t:0 "Hans von Seeckt dies"
+
+
+gerdom.2.t:0 "한스 폰 젝트 작고"
 gerdom.2.d:0 "Our Chief of General Staff, Hans von Seeckt, has died today in Berlin. The hero of the Intervention in China passed away peacefully in his sleep. \n\nOur nation is mourning the loss of a true German hero, and all important dignitaries were in attendance at his funeral in Berlin. Afterwards, the Chief of the Army, August von Mackensen, could be seen whispering something to the Kaiser."
-gerdom.2.a:0 "I wonder what he is up to?"
+gerdom.2.a:0 "그 자는 무엇을 했는지 궁금하군?"
 
-gerdom.4.t:0 "Problems with Grain Supply"
+gerdom.4.t:0 "공물 공급 문제"
 gerdom.4.d:0 "With parts of our grain supply in the Baltic and the Ukraine no longer under our control, we have encountered severe problems. Let's hope this does not escalate as far as the horrible hunger winter of 1916/17..."
-gerdom.4.a:0 "Scheisse!"
+gerdom.4.a:0 "제기랄!"
 
 ### Sale of Ceylon ###
 
-gerdom.7.t:0 "The Status of Ceylon"
+gerdom.7.t:0 "실론의 상태"
 gerdom.7.d:0 "-"
-gerdom.7.a:0 "Keep Ceylon under our control"
-gerdom.7.b:0 "Grant natives autonomous status within German Empire"
-gerdom.7.c:0 "Offer Ceylon to the Princely Federation"
+gerdom.7.a:0 "실론은 통제하에 둔다"
+gerdom.7.b:0 "독일 제국의 아래에서 원주민에게 자치권을 부여한다"
+gerdom.7.c:0 "번왕 연합에 실론을 제공한다"
 
-gerdom.8.t:0 "The Sale of Ceylon"
+gerdom.8.t:0 "실론 매각"
 gerdom.8.d:0 "The Germans have come to us offering us the sale of Ceylon. While it would obviously cost us a sizeable amount of money, having the island once more would greatly strengthen our position in Indian Ocean. What shall our reply be?"
-gerdom.8.a:0 "Welcome home, Ceylon!"
-gerdom.8.b:0 "We do not need that rock"
+gerdom.8.a:0 "집에 어서오라, 실론!"
+gerdom.8.b:0 "우리는 그 바위덩이가 필요하지 않다"
 
-gerdom.9.t:0 "The Sale of Ceylon"
+gerdom.9.t:0 "실론 매각"
 gerdom.9.d:0 "Ambassador of the Princely Federation has sent a message to us declaring that government has agreed to buy Ceylon. We have begun to transfer control over island to them."
-gerdom.9.a:0 "Great"
+gerdom.9.a:0 "대단하군"
 
-gerdom.10.t:0 "The Princely Federation refused our offer"
+gerdom.10.t:0 "번왕 연합이 우리의 제안을 거부하다"
 gerdom.10.d:0 "The Princely Federation has replied to our offer flatly stating that they do not want Ceylon. We can now only keep things as they are or allow natives more autonomy. What shall we do?"
 
 ### Agricultural crisis in Mitteleuropa ###
 
-gerdom.11.t:0 "Agricultural Crisis in Mitteleuropa"
+gerdom.11.t:0 "미텔오이로파의 농업 위기"
 gerdom.11.d:0 "During this time of great crisis, the agricultural sector of German economy is one of the most vulnerable to turmoil. With this in mind, several Junkers, representing the landed nobility of the Kingdom of Prussia, have asked for protectionist legislation and subsidies to their production. By imposing tariffs on foreign produce, we will strengthen this important sector of the Reich's economy. Such a measure is likely to cause further damage to the economy of our neighbours, however, as they are greatly dependant in trade with Germany. The wheat crops in the Ukraine are particularly vulnerable."
-gerdom.11.a:0 "We must protect our own peasants."
-gerdom.11.b:0 "Promise help..."
+gerdom.11.a:0 "우리는 우리 농민을 보호해야 한다"
+gerdom.11.b:0 "도움을 약속한다..."
 
-gerdom.12.t:0 "The increasing activity of the suffragist movement"
+gerdom.12.t:0 "여정 참정권 운동 증가"
 gerdom.12.d:0 "Lately there has been a rise in activity of the supporters of women's suffrage, that is those who want to grant women the right to vote and to run for office. In this troubled times for the German Empire, it is not easy to choose the best solution. Granting them what they ask would anger the more conservative elements of our government, especially the members of the Reichstag (currently elected by universal male suffrage). On the other hand, a stern refusal followed by reprisals may lead to riots and more protests, especially in the more liberal states (that already permitted female voting in regional assemblies)..."
-gerdom.12.a:0 "A cause worth supporting!"
-gerdom.12.b:0 "Promise something, do nothing."
-gerdom.12.c:0 "Don't they have enough already?!"
+gerdom.12.a:0 "지원할 만한 이유다"
+gerdom.12.b:0 "무언가 약속하고, 무엇도 하지 마라"
+gerdom.12.c:0 "그녀들은 이미 충분히 가지지 않았나?!"
 
-gerdom.13.t:0 "German women demand recognition for their war effort"
+gerdom.13.t:0 "독일 여성들이 전쟁에 들인 노고에 대한 인정을 요구하다"
 gerdom.13.d:0 "In the great war against the French syndicalist, German women have proven their loyalty and support for the Empire. Some of them proved fundamental for our propaganda efforts and many of them started working in factories to relieve the men that had to leave and fight the enemy at the front. Their contribution has been invaluable and they have proven their ability and independence. For these reason, the suffragist movement is stronger than ever and asking once again the government to grant women the right to vote and to run for office."
-gerdom.13.a:0 "Will they never stop?"
+gerdom.13.a:0 "그녀들이 절대로 멈추지지 않을까?"
 
-gerdom.14.t:0 "Halbstarke terrorise the cities"
+gerdom.14.t:0 "불량 청소년이 도시를 공포에 떨게 하다"
 gerdom.14.d:0 "With the devastating economic situation, many families struggle to earn their daily bread and the social security net is strained beyond the breaking point. Now in the last weeks, the streets of many German cities have been increasingly terrorised by gangs of teenagers. These 'Halbstarke' steal products from the markets and shops, and often money from innocent pedestrians, or commit acts of vandalism, to escape boredom and frustration. More and more citizens do not feel safe anymore on the streets."
-gerdom.14.a:0 "Mein Gott! Shocking!"
+gerdom.14.a:0 "오 신이시여! 충격적이군!"
 
 ### Tirpitzprogramm ###
 
-gerdom.15.t:0 "The 1934 Navy Program"
+gerdom.15.t:0 "1934년 해군 계획"
 gerdom.15.d:0 "The Kaiserliche Marine stands as the strongest Navy in the world in the year 1936, but many challenges will face it in the coming years. The expansionist Empire of Japan and resurgent Commune of France both are key future enemies to unseat German naval superiority across the world. \n\nIn 1934, we have begun a large naval construction plan, and the ships begun then are slowly begin finished. However, with our naval industry still limited, we will have to limit ourselves to one area of production. What should we focus on the next six months?"
-gerdom.15.a:0 "Battleships!"
-gerdom.15.b:0 "Carriers!"
-gerdom.15.c:0 "Destroyers!"
-gerdom.15.e:0 "U-Boats!"
+gerdom.15.a:0 "전함!"
+gerdom.15.b:0 "항공모함!"
+gerdom.15.c:0 "구축함!"
+gerdom.15.e:0 "유보트!"
 
-gerdom.16.t:0 "Reviewing the 1934 Navy Program"
+gerdom.16.t:0 "1934년 해군 계획 검토"
 gerdom.16.d:0 "In 1934, we have begun a large naval construction plan, and the ships begun then are slowly begin finished. However, with our naval industry still limited, we will have to limit ourselves to one area of production. What should we focus on the next six months?"
-gerdom.16.a:0 "Begin the construction of a pair of Battleships!"
-gerdom.16.b:0 "Begin the construction of a pair of Carriers!"
-gerdom.16.c:0 "A squadron of destroyers!"
-gerdom.16.e:0 "Some U-Boats!"
-gerdom.16.f:0 "Continue battleship construction."
-gerdom.16.g:0 "Continue carrier construction."
-gerdom.16.h:0 "More destroyers."
-gerdom.16.i:0 "More U-Boats."
-gerdom.16.j:0 "The program has been fulfilled!"
+gerdom.16.a:0 "한 쌍의 전함을 건조해라!"
+gerdom.16.b:0 "한 쌍의 항공모함을 건조해라!"
+gerdom.16.c:0 "구축함 전대!"
+gerdom.16.e:0 "몇척의 유보트!"
+gerdom.16.f:0 "전함 건조를 속행한다."
+gerdom.16.g:0 "항공모함 건조를 속행한다."
+gerdom.16.h:0 "더 많은 구축함."
+gerdom.16.i:0 "더 많은 유보트."
+gerdom.16.j:0 "이 계획은 달성되었다!"
 
 ### Schleicher and the GVLP ###
 
-gerdom.17.t:0 "Kurt von Schleicher and the DVLP"
+
+gerdom.17.t:0 "쿠르프 폰 슐라이허와 DVLP"
 gerdom.17.d:0 "'Scandal! Scandal! Reichskanzler von Schleicher observed dining with Alfred von Hugenberg! Scandal!' cry the newspaper boys today. The prestigious Berliner Tagblatt, already responsible for the publication of the infamous Osthilfeskandal in 1923 that led to the end of the Ludendorff regime, has landed another coup. \n\nA reporter was able to observe and even partially overhear a conversation between Reichskanzler Kurt von Schleicher and the leader of the reactionary Junker party DVLP, Alfred von Hugenberg, at a Berlin variete. The lower standing of the establishment only adds to the scandal. \n\nAnd while crowds come together to discuss the news, one topic is the most interesting; What will be the Kaisers reaction once he opens his morning newspaper?"
-gerdom.17.a:0 "JOHANN! GET VON PAPEN!"
-gerdom.17.b:0 "THE SOCIAL DEMOCRATS CAN'T BE WORSE!"
-gerdom.17.c:0 "TIME FOR BRUNING!"
-gerdom.17.e:0 "Damn faked news..."
+gerdom.17.a:0 "요한! 폰 파펜을 데려오라!"
+gerdom.17.b:0 "사회 민주당은 더 이상 나빠질 수 없다!"
+gerdom.17.c:0 "브뤼닝의 때이다!"
+gerdom.17.e:0 "망할 가짜 뉴스..."
+
 
 ### Election of 1937 ###
 
-gerdom.27.t:0 "Elections of 1937"
+gerdom.27.t:0 "1937년 총선"
 gerdom.27.d:0 "Today, the German people will elect their representative to the Reichstag! The elections have been tightly fought, and the results are awaited with much anticipation. The fate of several parties and, of course, the Kaiserreich itself could be decided today. \n\nIf the Social Democrats manage to secure enough votes, the 'realist' wing of the Social Liberal FVP - led by a woman, no less! - will form a coalition with them. Another possibility would be a coalition of nearly all liberal and burgeois parties - NLP, FVP and Bavarian splinter party BVP - against the predominance of the DKP, led by the beloved Lion of Africa, Paul von Lettow-Vorbeck. Or the DKP could just continue their comfortable majority. \n\nWho shall win?"
-gerdom.27.a:0 "SPD and 'realist' FVP!"
-gerdom.27.b:0 "The lion roars! The Neue grosse Koalition!"
-gerdom.27.c:0 "Change? Who needs change?"
+gerdom.27.a:0 "SPD와 '현실주의자' FVP!"
+gerdom.27.b:0 "사자의 포효! 새로운 대연정!"
+gerdom.27.c:0 "변화? 누가 변화를 필요로 하지?"
 
-gerdom.28.t:0 "A new Reichskanzler?"
+gerdom.28.t:0 "새로운 제국 재상?"
 gerdom.28.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the SPD won the most Reichstag posts in the elections, this does not mean the Kaiser has to even consider appointing a new chancellor. However, following the Ludendorff regime, this gesture of goodwill has become the modus operandi, and abandoning it could lead to public unrest. What shall we do?"
-gerdom.28.a:0 "Appoint Otto Wels, the first SPD Reichskanzler!"
-gerdom.28.b:0 "Keep the current Reichskanzler."
-gerdom.28.c:0 "Appoint Kurt von Schleicher, the kaisertreue alternative!"
+gerdom.28.a:0 "오토 벨스를 임명한다. 최초의 SPD 제국 재상이로군!"
+gerdom.28.b:0 "현 제국 재상을 연임하게 하라."
+gerdom.28.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
 
-gerdom.29.t:0 "A new Reichskanzler?"
+gerdom.29.t:0 "새로운 제국 재상?"
 gerdom.29.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though NLP, FVP and BVP won the most Reichstag posts in the elections, this does not mean the Kaiser has to even consider appointing a new chancellor. However, following the Ludendorff regime, this gesture of goodwill has become the modus operandi, and abandoning it could lead to public unrest. What shall we do?"
-gerdom.29.a:0 "Appoint Paul von Lettow-Vorbeck, the Lion of Afrika!"
-gerdom.29.b:0 "Appoint Paul von Lettow-Vorbeck - but demand concessions."
-gerdom.29.c:0 "Keep the current Reichskanzler."
-gerdom.29.e:0 "Appoint Kurt von Schleicher, the kaisertreue alternative!"
+gerdom.29.a:0 "아프리카의 사자, 파울 폰 레토프-포어벡을 임명한다!"
+gerdom.29.b:0 "파울 폰 레토프-포어벡을 임명한다. - 허나 양해를 요구한다."
+gerdom.29.c:0 "현 제국 재상을 연임하게 하라."
+gerdom.29.e:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
 
-gerdom.30.t:0 "A new Reichskanzler?"
+gerdom.30.t:0 "새로운 제국 재상?"
 gerdom.30.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the DKP defended their Reichstag majority in the elections, this does not mean the Kaiser has to keep Franz von Papen. What shall we do?"
-gerdom.30.a:0 "Von Papen is doing a fine job."
-gerdom.30.b:0 "Appoint Heinrich Bruning - it's time for fresh wind!"
-gerdom.30.c:0 "Appoint Kurt von Schleicher, the kaisertreue alternative!"
 
-gerdom.32.t:0 "It's war!"
+gerdom.30.a:0 "폰 파펜은 잘 하고 있다."
+gerdom.30.b:0 "하인리히 브뤼닝을 임명한다 - 새로운 바람을 불러올 때다!"
+gerdom.30.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
+
+
+gerdom.32.t:0 "전쟁이다!"
 gerdom.32.d:0 "There can be no distractions! We are at war with the Syndicalist forces! It's a battle for the very soul of our great empire and we must focus on winning it!"
-gerdom.32.a:0 "No elections until we stand in Paris!"
+gerdom.32.a:0 "우리가 파리에 입성할 때까지 선거는 없다!"
 
 ### Election of 1937 ###
 
-gerdom.33.t:0 "Elections of 1942"
+gerdom.33.t:0 "1942년 총선"
 gerdom.33.d:0 "Today, the German people will elect their representative to the Reichstag! The elections have been tightly fought, and the results are awaited with much anticipation. The fate of several parties and, of course, the Kaiserreich itself could be decided today. \n\nIf the Social Democrats manage to secure enough votes, the 'realist' wing of the Social Liberal FVP - led by a woman, no less! - will form a coalition with them. Another possibility would be a coalition of nearly all liberal and burgeois parties - NLP, FVP and Bavarian splinter party BVP - against the old DKP, led by the beloved Lion of Africa, Paul von Lettow-Vorbeck. Or the DKP could once again get a comfortable majority. \n\nWho shall win?"
-gerdom.33.a:0 "SPD and 'realist' FVP!"
-gerdom.33.b:0 "The lion roars! The Neue grosse Koalition!"
-gerdom.33.c:0 "The good old DKP."
+gerdom.33.a:0 "SPD와 '현실주의자' FVP!"
+gerdom.33.b:0 "사자의 포효! 새로운 대연정!"
+gerdom.33.c:0 "오랜 벗 DKP."
 
-gerdom.34.t:0 "A new Reichskanzler?"
+gerdom.34.t:0 "새로운 제국 재상?"
 gerdom.34.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the SPD won the most Reichstag posts in the elections, this does not mean the Kaiser has to even take this into consideration when choosing his chancellor. However, following the Ludendorff regime, this gesture of goodwill has become the modus operandi, and abandoning it could lead to public unrest. What will the Kaiser do?"
-gerdom.34.a:0 "Appoint Otto Wels, the first SPD Reichskanzler!"
-gerdom.34.b:0 "Keep the current Reichskanzler."
-gerdom.34.c:0 "Appoint Kurt von Schleicher, the kaisertreue alternative!"
+gerdom.34.a:0 "오토 벨스를 임명한다. 최초의 SPD 제국 재상이로군!"
+gerdom.34.b:0 "현 제국 재상을 연임하게 하라."
+gerdom.34.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
 
-gerdom.35.t:0 "A new Reichskanzler?"
+gerdom.35.t:0 "새로운 제국 재상?"
 gerdom.35.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though NLP, FVP and BVP won the most Reichstag posts in the elections, this does not mean the Kaiser has to even take this into consideration when choosing his chancellor. However, following the Ludendorff regime, this gesture of goodwill has become the modus operandi, and abandoning it could lead to public unrest. What will the Kaiser do?"
-gerdom.35.a:0 "Appoint Paul von Lettow-Vorbeck, the Lion of Afrika!"
-gerdom.35.b:0 "Appoint Paul von Lettow-Vorbeck - but demand concessions."
-gerdom.35.c:0 "Keep the current Reichskanzler."
-gerdom.35.e:0 "Appoint Kurt von Schleicher, the kaisertreue alternative!"
+gerdom.35.a:0 "아프리카의 사자, 파울 폰 레토프-포어벡을 임명한다!"
+gerdom.35.b:0 "파울 폰 레토프-포어벡을 임명한다. - 허나 양해를 요구한다."
+gerdom.35.c:0 "현 제국 재상을 연임하게 하라."
+gerdom.35.e:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
 
-gerdom.36.t:0 "A new Reichskanzler?"
+gerdom.36.t:0 "새로운 제국 재상?"
 gerdom.36.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the DKP once again won a Reichstag majority in the elections, this does not mean the Kaiser has to even take this into consideration when choosing his chancellor. What will the Kaiser do?"
-gerdom.36.a:0 "Von Papen is doing a fine job."
-gerdom.36.b:0 "Appoint Heinrich Bruning - it's time for fresh wind!"
-gerdom.36.c:0 "Appoint Kurt von Schleicher, the kaisertreue alternative!"
 
-gerdom.37.t:0 "It's war!"
+gerdom.36.a:0 "폰 파펜은 잘 하고 있다.."
+gerdom.36.b:0 "하인리히 브뤼닝을 임명한다 - 새로운 바람을 불러올 때다!"
+gerdom.36.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
+
+
+gerdom.37.t:0 "전쟁이다!"
 gerdom.37.d:0 "There can be no distractions! We are at war with the Syndicalist forces! It's a battle for the very soul of our great empire and we must focus on winning it!"
-gerdom.37.a:0 "No elections until we stand in Paris!"
+gerdom.37.a:0 "우리가 파리에 입성할 때까지 선거는 없다!"
 
 # ### Election of 1947 ###
 
-# gerdom.36.t:0 "1947 German Elections"
+# gerdom.36.t:0 "1947년 독일 총선"
 # gerdom.36.d:0 "Today the German people will elect their representative to the Reichstag! A tightly fought election this 1947 election might yet bring surprising results for the Kaiserreich. Will the coalition of centre-left parties emerge victorious or will the more hard-line parties win the election?"
-# gerdom.36.a:0 "The Grand Reform Coalition, SPD, FVP, and NLP wins!"
-# gerdom.36.b:0 "The Moderate Reform coalition, Zentrum, NLP, and FVP wins!"
-# gerdom.36.c:0 "The Hardline Conservative Coaltion, DKP, AV, and Zentrum"
+# gerdom.36.a:0 "대 개혁 연정, SPD, FVP, NLP가 승리하다!"
+# gerdom.36.b:0 "온건 개혁 연정, Zentrum, NLP, FVP가 승리하다!"
+# gerdom.36.c:0 "강경 보수 연정, DKP, AV, Zentrum"
 
-# gerdom.37.t:0 "SPD led coalition victory!"
+# gerdom.37.t:0 "SPD가 연정 승리를 이끌었다!"
 # gerdom.37.d:0 "Following a victory of the SPD, FVP, and NLP coalition in the elections the Kaiser must appoint a new Reichkanzler"
-# gerdom.37.a:0 "The Kaiser appoints Kurt Schumacher of the SPD"
-# gerdom.37.b:0 "The Kaiser appoints War Hero and NLP leader Paul von Lettow-Vorbeck"
-# gerdom.37.c:0 "The Kaiser appoints FVP leader, Walther von Rathenau"
+# gerdom.37.a:0 "황제는 SPD의 쿠르트 슈마허를 임명한다"
+# gerdom.37.b:0 "황제는 전쟁 영웅이자 NLP의 당수 파울 폰 레토프-포어벡을 임명한다"
+# gerdom.37.c:0 "황제는 FVP의 당수 발터 폰 라테나우를 임명한다"
 
-# gerdom.38.t:0 "DKP led coalition Victory!"
+# gerdom.38.t:0 "DKP가 연정 승리를 이끌었다!"
 # gerdom.38.d:0 "Following a victory of the DKP, AV, and Zentrum coalition in the elections the Kaiser must appoint a new Reichkanzler"
-# gerdom.38.a:0 "The Kaiser appoints Johann Schwerin von Krosigk"
-# gerdom.38.b:0 "The Kaiser appoints Carl Goerdeler"
-# gerdom.38.c:0 "The Kaiser appoints leader of the Zentrum- Heinrich Bruning"
-# gerdom.38.e:0 "The Kaiser appoints AV leader- Gregor Strasser"
 
-gerdom.40.t:0 "The first SPD Reichskanzler dies"
+# gerdom.38.a:0 "황제는 요한 슈베린 폰 크로지크를 임명한다"
+# gerdom.38.b:0 "황제는 칼 괴르델러를 임명한다"
+# gerdom.38.c:0 "황제는 Zentrum의 당수 하인리히 브뤼닝을 임명한다"
+# gerdom.38.e:0 "황제는 AV의 당수 그레고어 슈트라서를 임명한다"
+
+
+gerdom.40.t:0 "첫 SPD 제국 재상 작고"
 gerdom.40.d:0 "Reichskanzler Otto Wels has passed away in office today. His health had not been the best for a long time, and the stress of the office did not prolong his life either, most likely. The Kaiser will need to appoint a new Reichskanzler as soon as possible. \n\nIn his long career, he also held - among many other titles - the office of chairman of the SPD. Now he is dead, and it remains to be seen who will lead the Social Democrats from now on."
-gerdom.40.a:0 "Appoint Hans Vogel, SPD chairman candidate, as Reichskanzler."
-gerdom.40.b:0 "Appoint Heinrich Bruning, for stability."
-gerdom.40.c:0 "Another chance for Franz von Papen!"
-gerdom.40.e:0 "Enough of this! Kurt von Schleicher!"
 
-gerdom.41.t:0 "Otto Wels dies"
+gerdom.40.a:0 "SPD 의장 후보 한스 포겔을 제국 재상으로 임명한다"
+gerdom.40.b:0 "안정을 위해 하인리히 브뤼닝을 임명한다"
+gerdom.40.c:0 "프란츠 폰 파펜에게 다시 기회를 준다!"
+gerdom.40.e:0 "충분하다! 쿠르프 폰 슐라이허!"
+
+gerdom.41.t:0 "오토 벨스 작고"
 gerdom.41.d:0 "The chairman of the SPD, Otto Wels, has passed away today. It remains to be seen who will lead the Social Democrats from now on."
-gerdom.41.a:0 "He has been a worthy opponent."
+gerdom.41.a:0 "그는 훌륭한 상대였다."
 
-gerdom.43.t:0 "Germany and the Italian Federation"
+gerdom.43.t:0 "독일과 이탈리아 연방"
 gerdom.43.d:0 "With a catholic as our new Reichskanzler we can embark on a new relation with the Italian Federation and the Catholic world in general"
-gerdom.43.a:0 "A cordial relation"
-gerdom.43.b:0 "Announce our support for the pope!"
-gerdom.43.c:0 "Support the Catholic Church and invest more in the catholic dominated regions of the Kaiserreich"
+gerdom.43.a:0 "다정한 관계"
+gerdom.43.b:0 "교황을 위한 우리의 지원을 공표하라!"
+gerdom.43.c:0 "천주교 성당을 지원하고 제국내 천주교 지배 지역에 더 투자한다"
 
 
 
-gerdom.47.t:0 "The Death of Wilhelm II"
+
+gerdom.47.t:0 "빌헬름 2세의 죽음"
 gerdom.47.d:0 "Our Kaiser Wilhelm II has died of a pulmonary embolism in the charite hospital in Berlin today. It is the end of an age. Wilhelm II was the last European monarch who reigned during the 19th century, and his whole life he tried to uphold - sometimes succeeding, often failing - the values he identified with that era. With his death, the 20th century will, at last, be fully upon us. \n\nAll over the Empire, flags are flying at half-mast, and public ceremonies are being organised to honour the Weltkriegskaiser, the Kaiser who won the world for Germany. One of the onlookers in Berlin is Kronprinz Friedrich Wilhelm, who will now have to uphold the honour of the Kaiserreich in the world."
-gerdom.47.a:0 "The Kaiser is dead! Long live Kaiser Wilhelm III!"
+gerdom.47.a:0 "황제 폐하는 붕허하셨다! 빌헬름 3세 황제 폐하 만세!"
 
-gerdom.49.t:0 "Reichskanzler Vogel dies"
+
+gerdom.49.t:0 "제국 재상 포겔 작고"
 gerdom.49.d:0 "Reichskanzler Vogel has passed away in office today. It is up to the Kaiser now to appoint a new Reichskanzler."
-gerdom.49.a:0 "Appoint Kurt Schumacher, from the SPD"
-gerdom.49.b:0 "Appoint Heinrich Bruning, for stability."
-gerdom.49.c:0 "A new face from the DKP - Carl Friedrich Gordeler!"
 
-gerdom.50.t:0 "Hans Vogel dies"
+gerdom.49.a:0 "SPD의 쿠르트 슈마허를 임명한다"
+gerdom.49.b:0 "안정을 위해 하인리히 브뤼닝을 임명한다."
+gerdom.49.c:0 "DKP의 새로운 얼굴 - 칼 프레드릭 괴르델러!"
+
+gerdom.50.t:0 "한스 포겔 작고"
 gerdom.50.d:0 "The leader of the SPD, Hans Vogel, passed away today due to poor health."
 
-gerdom.51.t:0 "The security of the Kaiserreich"
+gerdom.51.t:0 "제국의 안전"
 gerdom.51.d:0 "Now with our Vaterland at war with the Commune of France, the prime minister has put forward a regulation to disband all openly dangerous elements within our society, which include leading elements of the SPD leadership! It is now up to the Kaiser to decide on this controversial subject!"
-gerdom.51.a:0 "Disband the leftists organisation and arrest the top ringleaders."
-gerdom.51.b:0 "Ich sehe keine Parteien mehr, sondern nur noch Deutsche!"
+gerdom.51.a:0 "좌파 조직을 해산하고 최고 주모자를 구속한다."
+gerdom.51.b:0 "나는 독일의 당파 이외에는 용인할 수 없다!"
 
 ### General Strike ###
 
-gerdom.52.t:0 "The FAUD"
+gerdom.52.t:0 "FAUD"
 gerdom.52.d:0 "The Freie Arbeiterunion Deutschlands (Free Worker's union of Germany) is a roof organisation of several trade unions founded in 1927. They have denounced the Syndicalist underground terror repeatedly and therefore been allowed to operate until now, but the Verdeckte Reichspolizei has produced definite proof that their leaders are in contact with syndicalist organisations in other nations, such as the CNT-FAI in Spain. We also suspect they may be plotting against the Kaiser!"
-gerdom.52.a:0 "Jail the leaders and ban the party, force them to go underground!"
-gerdom.52.b:0 "Continue to allow the FAUD to operate but watch them closely."
+gerdom.52.a:0 "지도자를 구금하고 단체를 금지하라. 지하로 쫓아버려라!"
+gerdom.52.b:0 "계속해서 FAUD에 운영을 허락하라. 단 엄중히 감시하라."
 
-gerdom.53.t:0 "Germany bans the FAUD"
+gerdom.53.t:0 "독일이 FAUD를 금지하다"
 gerdom.53.d:0 "The Free Workers' Union of Germany (German: Freie Arbeiter Union Deutschlands; FAUD) is an anarcho-syndicalist trade union operating in Germany since its creation on September 15, 1919. They had been free to operate but the German government has just decided to arrest its leaders and ban the organisation. How should we react?"
-gerdom.53.a:0 "Its too early to confront Germany."
-gerdom.53.b:0 "We must defend our brothers in Germany! Solidarity!"
+gerdom.53.a:0 "독일에 맞서는 것은 너무 이르다."
+gerdom.53.b:0 "우리는 독일에 있는 우리 형제들을 지켜야 한다! 연대하자!"
 
-gerdom.54.t:0 "Unrest in the Rhineland!"
+gerdom.54.t:0 "라인란트에서 불안 사태 발생"
 gerdom.54.d:0 "Workers in the Rhineland are protesting against the recent anti-leftist actions of our government, especially the well-known 'FAUD scandal'!"
-gerdom.54.a:0 "Hopefully this will not cause tragedy!"
+gerdom.54.a:0 "잘 하면 비극은 일어나지 않을 것이다!"
 
-gerdom.55.t:0 "Worker's Unrest in the Rhineland!"
+gerdom.55.t:0 "라인란트의 노동자 불온 사태 발생!"
 gerdom.55.d:0 "Workers in western Germany are protesting against their oppressive government! This might be chance to weaken our mortal enemy if we are prepared for the possible consequences of such a choice."
-gerdom.55.a:0 "We must help them!"
-gerdom.55.b:0 "We are not ready for this."
+gerdom.55.a:0 "우리는 그들을 도와야 한다!"
+gerdom.55.b:0 "우리는 준비가 되지 않았다."
 
-gerdom.56.t:0 "General Strike in the Rhineland!"
+gerdom.56.t:0 "라인란트 총파업!"
 gerdom.56.d:0 "Angered by our previous actions aimed against labour fronts the workers have launched massive demonstrations throughout the Rhineland. These demonstrations are seriously undermining our war effort and endangering the stability of our western front."
-gerdom.56.a:0 "Send in the army to deal with the strike!"
-gerdom.56.b:0 "Negotiate with the workers."
+gerdom.56.a:0 "파업을 처리하기 위해 군을 보내라!"
+gerdom.56.b:0 "노동자와 협상한다."
 
-gerdom.57.t:0 "The Rhineland Strikers Cave In!"
+gerdom.57.t:0 "라인란트 파업 참가자가 항복하다!"
 gerdom.57.d:0 "The slow war of attrition between us and the strikers has been won by the government. The strikers, seeing little success of their efforts, are about to call off the strike."
-gerdom.57.a:0 "Great!"
+gerdom.57.a:0 "엄청나군!"
 
-gerdom.58.t:0 "Negotiating with the strikers"
+gerdom.58.t:0 "파업 중인 노동자와 협상"
 gerdom.58.d:0 "An attempt to negotiate with the striking workers has been made. All political forces in the country closely watch the meeting, some are even hoping that the strike will set a precedent for further reforms in the German Empire."
-gerdom.58.a:0 "Stall the negotiations and send in the army!"
-gerdom.58.b:0 "Reach partial agreement."
-gerdom.58.c:0 "Reach a complete agreement."
+gerdom.58.a:0 "협상을 지연시키고 군을 보내라!"
+gerdom.58.b:0 "부분적인 타협을 보다."
+gerdom.58.c:0 "완전한 타협을 보다."
 
-gerdom.59.t:0 "The Factories Return to Work"
+gerdom.59.t:0 "공장 재가동"
 gerdom.59.d:0 "With the crisis resolved the factories may return to their previous efficiency."
-gerdom.59.a:0 "Splendid!"
+gerdom.59.a:0 "좋았어!"
 
-gerdom.60.t:0 "The Factories Return to Work"
+gerdom.60.t:0 "공장 재가동"
 gerdom.60.d:0 "Thankfully, our armed forces were able to suppress the revolting workers, forcing them to abandon their hopeless struggle."
-gerdom.60.a:0 "Splendid!"
+gerdom.60.a:0 "좋았어!"
 
-gerdom.61.t:0 "Syndicalist Involvement in the General Strike"
+gerdom.61.t:0 "총파업에 생디칼리스트 가담"
 gerdom.61.d:0 "Although the general strike in the Rhineland is finally over our investigations suggest that rebellious workers were supplied from abroad, probably from France. How shall we react to this insolence?"
-gerdom.61.a:0 "Such insolence shan't be tolerated!"
-gerdom.61.b:0 "We need solid proof of syndicalist involvement!"
+gerdom.61.a:0 "그러한 오만은 용인될 수 없다!"
+gerdom.61.b:0 "우리는 생디칼리스트 가담의 확실한 증거가 필요하다!"
 
 ### Death Events ###
 
@@ -699,7 +714,7 @@ gerdom.106.c:0 "This plan was madness from the beginning, abandon it..."
 
 ### Rhenish Syndicalist Volunteers ###
 
-gerdom.200.t:0 "Bertolt Brecht asks for visa"
+gerdom.200.t:0 "베르톨트 브레히트가 비자를 요청하다"
 gerdom.200.d:0 "For some time now, Syndicalists sympathisers from the Rhineland have been going abroad to help their 'comrades' in their various conflicts around the world. Today, the famous underground writer Bertolt Brecht has announced his intent to join these 'International Divisions'. \n\n We could let him go, which would most likely inspire quite another few Syndicalists to go abroad after him, or we could confiscate his passport and prohibit him from leaving the country. It would maybe weaken the Syndicalist cause, but also cause tremendous outrage..."
 gerdom.200.aa:0 "Let him go to wild America..."
 gerdom.200.ab:0 "He can go to Brazil if he wants..."
@@ -1086,9 +1101,9 @@ gerfor.80.a:0 "We'll see about that."
 
 ### Flavour Events ###
 
-gerdom.101.t:0 "The Great Crusade"
+gerdom.101.t:0 "대 성전"
 gerdom.101.d:0 "Right-wing circles have been calling for a crusade against Commune of France ever since communards managed to oust legal French government from mainland France. Now their wishes have finally come true, as state of war exist between our glorious Vaterland and the nest of syndicalist vipers. After Kaiser Wilhelm II explained in a special radio address reasons for Germany's involvement in another war with France and called for eradication of final obstacle to achieving "A Place in the Sun" thousands of young Germans rushed to enlist in the military, following the example of Kaiser's grandsons, and civilians began gathering on streets manifesting their support for war. After catastrophic crisis, German nation is united once again. Long live Germany! Long live the Kaiser!"
-gerdom.101.a:0 "Gott erhalte Kaiser! Sieg wird unser sein!"
+gerdom.101.a:0 "신이시여 카이저를 수호하소서! 우리는 승리한다!"
 
 gerdom.102.t:0 "Von Hammerstein-Equord Affair"
 gerdom.102.d:0 "A month before the elections, yet another scandal was revealed by the media. Die Gartenlaube, one of the newspapers owned by the DVLP chairman Alfred Hugenberg, reported that two daughters of Freiherr Kurt von Hammerstein-Equord, general and friend of influential Reichskriegsminister von Schleicher, were involved in shady dealings with syndicalist intelligence. Shortly afterwards, the Reichstag member Franz Seldte fanned the flames by asking why the Abwehr, run by von Schleicher's friend Ferdinand von Bredow, was not able to find out that the family of an associate of the state secretary on war was infiltrated by hostile intelligence. While general von Hammerstein-Equord resigned and publicly apologised for his daughter's doings, the real question for von Schleicher was - should he pull strings to replace von Bredow and remove any further threats to his political career from that direction, and if yes - by whom?"
@@ -1150,7 +1165,9 @@ germit.2.a:0 "대단하군!"
 
 germit.3.t:0 "[From.GetName], 마르크 사용 거부"
 germit.3.d:0 "[From.GetName] has not agreed to our proposal of a common currency for Mitteleuropa and will continue to use their own currency, albeit still connected to the Reichsmark."
-germit.3.a:0 "쉬아이서(Scheiße, 제기랄)!"
+germit.3.a:0 "제기랄!"
+
+
 
 germit.4.t:0 "마르크 폐지"
 germit.4.d:0 "In light of the recent developments, the Mark is no longer our official currency. This will cause some economic upheaval, but will ultimately be to our best."
@@ -1248,7 +1265,7 @@ give_holl:0 "홀란드 상"
 occupy_mor:0 "모로코 점령"
 polish_deal_op:0 "경제적 거래"
 GER_trondheim_yes_op:0 "트론헤임 조차"
-GER_trondheim_no_op:0 "트론헤임 조차하지 않음"
+GER_trondheim_no_op:0 "트론헤임 조차 거부"
 
 ### Parties ###
 GER_totalist_party:0 "RAM"
