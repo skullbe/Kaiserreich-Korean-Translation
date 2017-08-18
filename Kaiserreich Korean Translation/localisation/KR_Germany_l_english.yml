@@ -290,9 +290,12 @@ GER_WILHELM_DESC:0 "Considered by some to be a sort of 'Male Victoria' (an ironi
 
 ### Domestic Events ###
 
+
 gerdom.1.t:0 "독일 제국 헌법"
 gerdom.1.d:0 "After the crushing defeat of the Second French Empire by forces of the North German Federation, our constitution was signed in 1871 by representatives of the North German Federation and of four Southern German states. This constitution put the Southern German states under the influence of the North German Federation, thus giving the enlarged entity a new identity as the Deutsches Reich. \n\nAccording to the constitution, the empire was a federation of 25 German states. The Bundesprasidium was held by the King of Prussia, who had the title of German Emperor. The Emperor appointed the Chancellor, the head of government and chairman of the Bundesrat, the council of representatives of the German states. Laws were enacted by the Bundesrat and the Reichstag, the Imperial Diet elected by male Germans above the age of 25 years. \n\nHowever, it is the Emperor, not the Bundesrat or the Reichstag, who leads the power in the German Empire. With an option to dissolve the Reichstag on a whim, it is clear that the main political power in the German Empire rests not in Reichstag, elected by the people, but in the hands of the non-elected German Emperor. Another issue is the Prussian three-class voting system, which has remained unchanged since 1849. \n\nOver sixty years after the founding of the Kaiserreich, the liberals and social democrats are growing increasingly disgruntled with this status of things and our constitution may see large revisions in the next few years..."
 gerdom.1.a:0 "헌법은 안정을 보장한다, 최소한"
+
+
 
 gerdom.2.t:0 "한스 폰 젝트 작고"
 gerdom.2.d:0 "Our Chief of General Staff, Hans von Seeckt, has died today in Berlin. The hero of the Intervention in China passed away peacefully in his sleep. \n\nOur nation is mourning the loss of a true German hero, and all important dignitaries were in attendance at his funeral in Berlin. Afterwards, the Chief of the Army, August von Mackensen, could be seen whispering something to the Kaiser."
@@ -366,12 +369,14 @@ gerdom.16.j:0 "이 계획은 달성되었다!"
 
 ### Schleicher and the GVLP ###
 
+
 gerdom.17.t:0 "쿠르프 폰 슐라이허와 DVLP"
 gerdom.17.d:0 "'Scandal! Scandal! Reichskanzler von Schleicher observed dining with Alfred von Hugenberg! Scandal!' cry the newspaper boys today. The prestigious Berliner Tagblatt, already responsible for the publication of the infamous Osthilfeskandal in 1923 that led to the end of the Ludendorff regime, has landed another coup. \n\nA reporter was able to observe and even partially overhear a conversation between Reichskanzler Kurt von Schleicher and the leader of the reactionary Junker party DVLP, Alfred von Hugenberg, at a Berlin variete. The lower standing of the establishment only adds to the scandal. \n\nAnd while crowds come together to discuss the news, one topic is the most interesting; What will be the Kaisers reaction once he opens his morning newspaper?"
 gerdom.17.a:0 "요한! 폰 파펜을 데려오라!"
 gerdom.17.b:0 "사회 민주당은 더 이상 나빠질 수 없다!"
 gerdom.17.c:0 "브뤼닝의 때이다!"
 gerdom.17.e:0 "망할 가짜 뉴스..."
+
 
 ### Election of 1937 ###
 
@@ -396,9 +401,11 @@ gerdom.29.e:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하�
 
 gerdom.30.t:0 "새로운 제국 재상?"
 gerdom.30.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the DKP defended their Reichstag majority in the elections, this does not mean the Kaiser has to keep Franz von Papen. What shall we do?"
+
 gerdom.30.a:0 "폰 파펜은 잘 하고 있다."
 gerdom.30.b:0 "하인리히 브뤼닝을 임명한다 - 새로운 바람을 불러올 때다!"
 gerdom.30.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
+
 
 gerdom.32.t:0 "전쟁이다!"
 gerdom.32.d:0 "There can be no distractions! We are at war with the Syndicalist forces! It's a battle for the very soul of our great empire and we must focus on winning it!"
@@ -427,9 +434,11 @@ gerdom.35.e:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하�
 
 gerdom.36.t:0 "새로운 제국 재상?"
 gerdom.36.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the DKP once again won a Reichstag majority in the elections, this does not mean the Kaiser has to even take this into consideration when choosing his chancellor. What will the Kaiser do?"
+
 gerdom.36.a:0 "폰 파펜은 잘 하고 있다.."
 gerdom.36.b:0 "하인리히 브뤼닝을 임명한다 - 새로운 바람을 불러올 때다!"
 gerdom.36.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
+
 
 gerdom.37.t:0 "전쟁이다!"
 gerdom.37.d:0 "There can be no distractions! We are at war with the Syndicalist forces! It's a battle for the very soul of our great empire and we must focus on winning it!"
@@ -451,13 +460,16 @@ gerdom.37.a:0 "우리가 파리에 입성할 때까지 선거는 없다!"
 
 # gerdom.38.t:0 "DKP가 연정 승리를 이끌었다!"
 # gerdom.38.d:0 "Following a victory of the DKP, AV, and Zentrum coalition in the elections the Kaiser must appoint a new Reichkanzler"
+
 # gerdom.38.a:0 "황제는 요한 슈베린 폰 크로지크를 임명한다"
 # gerdom.38.b:0 "황제는 칼 괴르델러를 임명한다"
 # gerdom.38.c:0 "황제는 Zentrum의 당수 하인리히 브뤼닝을 임명한다"
 # gerdom.38.e:0 "황제는 AV의 당수 그레고어 슈트라서를 임명한다"
 
+
 gerdom.40.t:0 "첫 SPD 제국 재상 작고"
 gerdom.40.d:0 "Reichskanzler Otto Wels has passed away in office today. His health had not been the best for a long time, and the stress of the office did not prolong his life either, most likely. The Kaiser will need to appoint a new Reichskanzler as soon as possible. \n\nIn his long career, he also held - among many other titles - the office of chairman of the SPD. Now he is dead, and it remains to be seen who will lead the Social Democrats from now on."
+
 gerdom.40.a:0 "SPD 의장 후보 한스 포겔을 제국 재상으로 임명한다"
 gerdom.40.b:0 "안정을 위해 하인리히 브뤼닝을 임명한다"
 gerdom.40.c:0 "프란츠 폰 파펜에게 다시 기회를 준다!"
@@ -475,12 +487,15 @@ gerdom.43.c:0 "천주교 성당을 지원하고 제국내 천주교 지배 지�
 
 
 
+
 gerdom.47.t:0 "빌헬름 2세의 죽음"
 gerdom.47.d:0 "Our Kaiser Wilhelm II has died of a pulmonary embolism in the charite hospital in Berlin today. It is the end of an age. Wilhelm II was the last European monarch who reigned during the 19th century, and his whole life he tried to uphold - sometimes succeeding, often failing - the values he identified with that era. With his death, the 20th century will, at last, be fully upon us. \n\nAll over the Empire, flags are flying at half-mast, and public ceremonies are being organised to honour the Weltkriegskaiser, the Kaiser who won the world for Germany. One of the onlookers in Berlin is Kronprinz Friedrich Wilhelm, who will now have to uphold the honour of the Kaiserreich in the world."
 gerdom.47.a:0 "황제 폐하는 붕허하셨다! 빌헬름 3세 황제 폐하 만세!"
 
+
 gerdom.49.t:0 "제국 재상 포겔 작고"
 gerdom.49.d:0 "Reichskanzler Vogel has passed away in office today. It is up to the Kaiser now to appoint a new Reichskanzler."
+
 gerdom.49.a:0 "SPD의 쿠르트 슈마허를 임명한다"
 gerdom.49.b:0 "안정을 위해 하인리히 브뤼닝을 임명한다."
 gerdom.49.c:0 "DKP의 새로운 얼굴 - 칼 프레드릭 괴르델러!"
@@ -1151,6 +1166,8 @@ germit.2.a:0 "대단하군!"
 germit.3.t:0 "[From.GetName], 마르크 사용 거부"
 germit.3.d:0 "[From.GetName] has not agreed to our proposal of a common currency for Mitteleuropa and will continue to use their own currency, albeit still connected to the Reichsmark."
 germit.3.a:0 "제기랄!"
+
+
 
 germit.4.t:0 "마르크 폐지"
 germit.4.d:0 "In light of the recent developments, the Mark is no longer our official currency. This will cause some economic upheaval, but will ultimately be to our best."
