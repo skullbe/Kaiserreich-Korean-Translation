@@ -66,14 +66,14 @@ BHC_surrender_to_agrarians:0 "Surrender to the Agrarians!\n"
 BHC_gandhi_assassinated:0 "§YMohandas Karamchand Gandhi§! is assassinated\n"
 
 ### Parties ###
-BHC_totalist_party:0 "Maximists"
-BHC_radical_socialist_party:0 "Agrarians"
-BHC_syndicalist_party:0 "Moderates"
-BHC_totalist_party_long:0 "Maximist Faction of Bharatiya"
-BHC_radical_socialist_party_long:0 "Agrarian Faction of Bharatiya"
-BHC_syndicalist_party_long:0 "Moderate Faction of Bharatiya"
-BHC_anarcho_syndicalist_party:0 "Anarcho-Syndicalists"
-BHC_anarcho_syndicalist_party_long:0 "Self-Culture Association of Bharatiya"
+BHC_totalist_party:0 "극단주의자"
+BHC_radical_socialist_party:0 "농업파"
+BHC_syndicalist_party:0 "중도파"
+BHC_totalist_party_long:0 "바르티야 극단주의자"
+BHC_radical_socialist_party_long:0 "바르티야 농업파"
+BHC_syndicalist_party_long:0 "바르티야 중도파"
+BHC_anarcho_syndicalist_party:0 "아나코 생디칼리스트"
+BHC_anarcho_syndicalist_party_long:0 "바르티야 자기수양 협회"
 
 ### Focuses ###
 BHC_INC_Meeting_1:0 "Special Meeting of the INC"
