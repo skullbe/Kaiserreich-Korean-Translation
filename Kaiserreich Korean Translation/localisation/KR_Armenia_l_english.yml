@@ -1,10 +1,10 @@
 ﻿l_english:
 
 ###Parties###
-ARM_paternal_autocrat_party:0 "Puppet Government"
-ARM_national_populist_party:0 "NAG"
-ARM_paternal_autocrat_party_long:0 "Puppet Government"
-ARM_national_populist_party_long:0 "National Armenian Government"
+ARM_paternal_autocrat_party:0 "괴뢰정부"
+ARM_national_populist_party:0 "아르메니아 국민 정부"
+ARM_paternal_autocrat_party_long:0 "괴뢰정부"
+ARM_national_populist_party_long:0 "아르메니아 국민 정부"
 
 ###Events###
 arm.2.t:0 "The Claims of Armenian Archaeology"
