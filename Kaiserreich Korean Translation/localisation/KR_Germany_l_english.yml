@@ -7,21 +7,21 @@ GER_doctrine_great_war:0 "분대 전술"
 GER_doctrine_great_war_desc:0 "무질서한 중국 내전에 대한 개입이 우리에게 가르쳐 준 하나는 직접 대면한 수준에서 보병간 협동을 높게 평가할 수는 없다는 점입니다. 그렇지만 현재 우리 장병에게 그루펜타틱켄(Gruppentaktiken), 즉 집단 전술이 교육되고 있기 때문에, 장병들은 부적합한 장비만을 통탄할 뿐입니다..."
 
 GER_doctrine_great_war_2:0 "현대 전술"
-GER_doctrine_great_war_2_desc:0 "여기 한 제국군에 장교가 되고자 하는 사람이라면 누구나 읽고자 하는 책이 있다 - 클라우제비츠' '손자병법'. 최고의 군사 이론가들에게 그 주제에 대해서 논의하게 한다면, 그들은 수 세기는 더 된 이 책에서부터 현대전의 요건에 적용할 수 있는 원리를 채택할 것이다."
+GER_doctrine_great_war_2_desc:0 "여기 제국군의 장교가 되고자 하는 사람이라면 누구나 읽고자 하는 책 한 권이 있다 - 클라우제비츠' '손자병법'. 최고의 군사 이론가들에게 그 주제에 대해서 논의하게 한다면, 그들은 수 세기는 더 된 이 책에서부터 현대전의 요건에 적용할 수 있는 원리를 채택할 것이다."
 GER_doctrine_mobile:0 "차량화 침투"
-GER_doctrine_mobile_desc:0 "While our military high command is divided on many subjects, they are united on one topic: They say that the possibilities that mass motorisation offers to infantry in warfare can to be exploited to win fast and decisive victories on an operational scale, hearkening back to the victory of 1870/71."
+GER_doctrine_mobile_desc:0 "우리 군 고위 지휘부는 여러 사안에 대해 하나된 의견을 도출하지 못하였으나, 하나의 사안에는 의견을 모으고 있습니다: 1870년과 1871년 승리를 되돌아봤을 때, 작전 규모에서 신속하고 결정적인 승리는 보병을 집단적으로 차량화함으로써 달성할 수 있다는 것입니다."
 GER_doctrine_mobile_2:0 "새로운 교리"
-GER_doctrine_mobile_2_desc:0 "Some of the more radical innovators - Heinz von Guderian and Erich von Manstein, with others - in our military high command are lobbying for research into a totally new doctrine. They want to focus on the fast movement of armoured spearheads to break up solid fronts."
+GER_doctrine_mobile_2_desc:0 "군 고위 지휘부의 하인츠 폰 구데리안과 에리히 폰 만슈타인 등과 같은 급직전인 혁신가의 일부는 완전히 새로운 교리에 대한 연구를 도입하기 위해 영향력을 행사하고 있습니다. 견고한 전선을 돌파하기 위해 기갑 선봉대의 신속한 기동에 초점을 맞추고자 합니다."
 GER_doctrine_mobile_3:0 "전차 생산공장에 투자"
-GER_doctrine_mobile_3_desc:0 "With a little directed investment, we could raise productivity of our armour factories by quite a lot. Some of our more conservative-minded generals will not approve of this investment, though."
+GER_doctrine_mobile_3_desc:0 "적지만 직접적인 투자를 통해 전차 생산공장의 생산량을 향상할 수 있습니다. 다만 보수적인 장군의 일부는 이 투자에 동의하지 않을 것입니다."
 GER_mil_expansion_naval_1:0 "1934 해군 계획 종결"
-GER_mil_expansion_naval_1_desc:0 "The Kaiserliche Marine stands unchallenged in any sea on the planet. For now. The Union of Britain, The French, The Americans and the Japanese will all jealously try to outdo us. If left unchecked, our naval domination will end. We should continue the large navy modernisation project initiated back in 1934."
+GER_mil_expansion_naval_1_desc:0 "카이저리헤 마리네(Kaiserliche Marine), 황제 해군은 지구상 어느 바다에서도 무적입니다. 지금으로는 브리튼 연방, 프랑스, 미국, 일본 모두 이를 시샘하며 우리를 뛰어넘으려고 합니다. 하지만 이를 내버려 둔다면, 우리는 해상 지배력은 다하고 말 것입니다. 1934년에 시작한 해군 근대화 계획을 계속해야 합니다."
 GER_global1:0 "싱가포르 보급로"
-GER_global1_desc:0 "Having a Empire across the globe has the small disadvantage of having to actually exert control over those areas, and that means sending not only soldiers, but also tax collectors and other vermin - and they need tax collection forms, and those need to be sent all the way from Germany. Better prepare for that."
+GER_global1_desc:0 "세계 제국의 보유에는 바다를 넘어 지배력을 행사해야 한다는 작은 단점이 있습니다. 이 문제는 우리가 병사뿐만이 아니라 세금 징수관과 여타 해충을 내보내야 한다는 것을 의미합니다. 거기에 세금 징수 양식 또한 필요하며, 이 모든 것은 독일로부터의 머나먼 길을 거쳐 보내져야 합니다. 그렇기 때문에 준비가 필요합니다. "
 GER_global2:0 "싱가포르 항구 확장"
-GER_global2_desc:0 "Now that we have the capabilities to send tax collection forms, we need a harbour with the capabilities required. The harbour of Singapur is the busiest in the eastern hemisphere, with German ships on their way to the AOG, Australasians Delhi-bound and the occasional American or Russian. Commerce is good; We should expand the harbour."
+GER_global2_desc:0 "이제 우리가 세금 징수 양식을 보낼 능력을 가지고 있으니, 그에 맞춘 수용력을 가진 항구가 필요합니다. 싱가포르 항구는 AOG로 향하는 독일 선박, 델리행 오스트랄라시아 선박, 그리고 때때로 미국이나 러시아의 선박으로 붐비는 동반구에서 가장 바쁜 곳입니다. 무역은 번성합니다. 이에 우리는 항구를 확장해야 합니다.."
 GER_global3:0 "하와이와 조약"
-GER_global3_desc:0 "Singapur is currently our easternmost port, and the pacific is vast. Should we ever come into a position where we want to strike against the western coasts of America, we need a closer base. And one is especially promising; The independent islands of Hawai'i. We should approach their government to ask for basing rights."
+GER_global3_desc:0 "현재 싱가포르는 우리의 극동 항구이며, 태평양은 광대합니다. 우리는 타격하고자 하는 미국 서쪽 해안 어느 곳이든 들어가야 하지 않을까요? 더 가까운 기지가 필요합니다. 그렇다면 한 곳이 특히 유망합니다. 바로 하와이의 독립된 섬입니다. 정박권을 요청하기 하와이 정부에 접근해야 합니다. "
 GER_global4:0 "파나마 운하 공격"
 GER_global4_desc:0 "-"
 GER_north_sea1:0 "빌헬름스하펜 확장"
@@ -37,13 +37,13 @@ GER_generic_navy1_desc:0 "-"
 GER_generic_navy2:0 "해군 기지 요새화"
 GER_generic_navy2_desc:0 "-"
 GER_doctrine_fleet_in_beeing:0 "되니츠의 말에 주의를 기울이다"
-GER_doctrine_fleet_in_beeing_desc:0 "The highly respected and talented Karl Donitz reminds us that the success of ocean-going navies is dependent on them actively controlling the seas. Our fleets should strive for large, decisive battles and destroy our opposition before they get a chance to intercept our supply routes. This doctrine has been dubbed Prasenzflotte."
+GER_doctrine_fleet_in_beeing_desc:0 "정대하고 유능한 카를 되니츠는 대양해군의 성군은 활발하게 바다를 통제하는 것에 달려있다는 점을 상기시켰습니다. 우리 해군은 거대한 결전을 추구해야 하며, 우리 보급로를 약탈할 기회를 확보하기 전에 적을 격멸해야 합니다. 우리말로 이 교리는 프라젠츠플로테(PräsenzFlotte), 현존 함대라고 합니다."
 GER_doctrine_fleet_in_beeing2:0 "유보트 전"
 GER_doctrine_fleet_in_beeing2_desc:0 "
 GER_doctrine_fleet_in_beeing3:0 "더 크고, 빠르며, 무겁게"
 GER_doctrine_fleet_in_beeing3_desc:0 "-"
 GER_doctrine_base_strike:0 "파치크와 레더에게 귀를 기울이다"
-GER_doctrine_base_strike_desc:0 "Patzig and Raeder have, in close communication with Sperrle of the Luftwaffe, devised a type of naval strategy reliant on mobile air-bases through Aircraft carriers. These men are convinced that on the open sea, where there help can take days to arrive, ships can only be risked if they fight together as one group, called Operative Manovergruppen."
+GER_doctrine_base_strike_desc:0 "파치크와 레더는 루프트바페의 슈페를레와 긴밀하게 이야기를 나눈 뒤, 항공모함이라는 움직이는 공군기지에 의존하는 해군 전략을 창안했습니다. 이들은 원군이 도착할 때까지 수일이 걸리는 공해상에서 함선이 한 집단으로 함께 싸울 때만 위기에서 벗아날 수 있다고 확신합니다. 이 집단을 그들은 마뇌베르그루펜(Manövergruppen), 기동집단이라 이름 붙였습니다.”
 GER_doctrine_base_strike2:0 "해군 항공대 연구"
 GER_doctrine_base_strike2_desc:0 "-"
 GER_doctrine_base_strike3:0 "항공모함 연구 확대"
@@ -61,11 +61,11 @@ GER_marines1_desc:0 "-"
 GER_marines2:0 "해병 수송선"
 GER_marines2_desc:0 "-"
 GER_doctrine_last:0 "새로운 교재"
-GER_doctrine_last_desc:0 "The famous Prussian Academy of War has since 1810 been the most prestigious higher school for our officers. However, prestigious does not mean up to date. Our military doctrine has thoroughly changed in the last few years, and while some classics never get old - Clausewitz still saves stressed students - others have fallen out of date. Time to replace them."
+GER_doctrine_last_desc:0 "그 유명한 프로이센 전쟁 대학은 1810년 이래 우리 장교를 육성하기 위한 최고의 고등 교육 기관입니다. 하지만, 이 이름은 지금의 것이 아닙니다. 우리 군사 교리는 지난 수년간 완전히 변했습니다. 클라우제비츠가 스트레스에 가득 찬 학생들을 지금도 남겨두고 있는 것처럼, 몇몇 고전은 여전히 중요합니다. 하지만 다른 서적들은 시대에 맞지 않습니다. 이제 그 책들을 바꿀 때입니다."
 GER_security:0 "비밀 제국 경찰 도입"
-GER_security_desc:0 "The Syndicalist terror is nearly as bad again as back in 1928, when Karl von Helfferich, president of the Reichsbank, was shot by a lone gunman. Back then, a countrywide crackdown on terror cells brought some peace, but now the security forces seem unable to do that. There have been propositions to found a new police force, the Verdeckte Reichspolizei, short Verpo, which would act from the shadows."
+GER_security_desc:0 "생디칼리스트의 테러는 제국 은행 총재 카를 폰 헬펜리히가 암살당한 1928년만큼이나 심각해졌습니다. 그 당시 테러 조직에 대한 전국적인 강력 단속이 작은 평화를 가져왔습니다만, 현재 치안 부대가 그리할 수는 없는 것처럼 보입니다. 이에 새로운 경찰 조직을 창설하자는 제안이 제기되었습니다. 퍼덱트 라이히폴리차이(Verdeckte Reichspolizei), 비밀경찰, 줄여서 페르포(Verpo)가 그림자에서 필요한 역할을 할 수 있을 겁니다. "
 GER_kaiserbund:0 "황제 연방"
-GER_kaiserbund_desc:0 "In light of the ongoing economic stagnation, the Reichstag representatives of the FVP and the NLP have proposed a plan dubbed the Kaiserbund project. It promises to greatly cut expenses of our colonial administration by handing over administration of our colonial empire to local governments in a more loose federation with our home administration..."
+GER_kaiserbund_desc:0 "계속되는 경기 침체를 고려하여, 제국 의회의 FVP와 NLP 의원들이 카이저분트(Kaiserbund), 황제 연방이라고 하는 계획을 제안했습니다. 그 내용은 우리 조국과 느슨한 형태의 연방을 창설하여 식민지의 관리를 식민 제국 행정부에서 지방정부로 이관하는 것입니다. 해당 의원들은 이를 통해 엄청난 경비 절감을 달성할 수 있으리라고 전망하고 있습니다…"
 GER_security_2:0 "프랑스 조직 금지"
 GER_security_2_desc:0 "The formerly French-controlled regions in the Western parts of Germany have been unruly for a long time. French nationalism is widespread in the population, and French cultural and political organisations exist a plenty. Banning them could suppress French nationalism. Or it could radicalise it. The French will not be happy either way."
 GER_security_3:0 "알자스-로트링겐 기동"
@@ -76,7 +76,7 @@ GER_foreign_aid:0 "동맹 지원"
 GER_foreign_aid_desc:0 "If we want to preserve our Hegemony we must ensure our allies and protectorates throughout the world are strong and loyal. Let us invest in our puppets and colonies."
 GER_IRE_deal:0 "아일랜드와 조약"
 GER_IRE_deal_desc:0 "The Irish have turned to Germany for protection. We should offer them an aid treaty so that we'll have a loyal ally in the fight against the Union of Britain."
-GER_DKB_deal:0 "코사크에 대한 군사 사절단"
+GER_DKB_deal:0 "코자크에 대한 군사 사절단"
 GER_DKB_deal_desc:0 "If we are to keep the Russians in check we must ensure we can combat them on all fronts. Let us send aid to our allies in the Don-Kuban union and help them build their army."
 GER_BUR_ALLY:0 "버마 초청"
 GER_BUR_ALLY_desc:0 "The recent invitation of Siam into the Japanese Co-prosperity sphere poses a threat to our large Pacific colonial empire. We can try to counter expansion of Japanese influence through Indochina by allying with Burma, a state threatened from one side by syndicalists and from another by the expansionist Siam. This way we can threaten Siam from the west should a conflict arise."
@@ -96,7 +96,7 @@ GER_Henschel_Albatros:0 "해군 항공대"
 GER_Henschel_Albatros_desc:0 "Another result of the untangling of air warfare from ground warfare has been the founding of a group of aviators focused on naval aviation. These pilots, trained in special courses, are now demanding aircraft to fit their special requirements."
 GER_Junkers_Fogger:0 "장거리 전투기"
 GER_Junkers_Fogger_desc:0 "As a result of the Bombergruppen doctrine, the demands on range of operations has multiplied. Theorists and researchers are demanding new aircraft models to keep up with their increasingly aggressive bombardment plans. After the Paris bomber comes the London bomber, after that the Moscow bomber - and there doesn't seem to be an end!"
-GER_air_doc:0 "세계대전의 교훈"
+GER_air_doc:0 "세계 대전의 교훈"
 GER_air_doc_desc:0 "The tactics of some twenty years ago, have become severely outdated, in particular in the use of bomber aircraft and how to protect them."
 GER_air_doc_2:0 "현대 공군 교리"
 GER_air_doc_2_desc:0 "By relying on the youngest and brightest minds of the Luftwaffe we can make sure that our air force does not only have the weight of industry behind it, but also the finesse of modern tactics."
@@ -153,7 +153,7 @@ GER_schacht2:0 "투자 계획"
 GER_schacht2_desc:0 "The next part of the Schachtplan would be a massive program aiming to encourage private investion, both into businesses as into consumer products. While this will be hard to achieve, it should enable producers to find a market for their products again, which will hopefully restart the economy."
 GER_schacht3:0 "폴란드 접근"
 GER_schacht3_desc:0 "With the economy slowly finding its track again, the time has maybe come to finally include Poland into the customs-free zone formed by Mitteleuropa. There has been some enthusiasm about this proposal in some circles; Especially the Zentrum politician Heinrich von Brentano has been a leading proposer of the idea."
-GER_mitteleuropa:0 "미텔오이로파 단일 통화"
+GER_mitteleuropa:0 "중부 유럽 단일 통화"
 GER_mitteleuropa_desc:0 "Now that Heinrich von Brentano and his friends of the European Friendship association have found their way into upper government circles, he has proposed another of his ideas: A common currency, shared by all Mitteleuropean countries. This would, of course, never work. European friendship? What a silly idea."
 GER_synthetic:0 "합성 화학 연구"
 GER_synthetic_desc:0 "The IG Farben researchers have, in cooperation with members ofthe Kaiser Wilhelm society, been able to make astounding breakthroughs on the area of synthetic production already. By giving them access to some more funds, we might be able to make their research ready for mass implementation."
@@ -290,14 +290,11 @@ GER_WILHELM_DESC:0 "Considered by some to be a sort of 'Male Victoria' (an ironi
 
 ### Domestic Events ###
 
-
 gerdom.1.t:0 "독일 제국 헌법"
 gerdom.1.d:0 "After the crushing defeat of the Second French Empire by forces of the North German Federation, our constitution was signed in 1871 by representatives of the North German Federation and of four Southern German states. This constitution put the Southern German states under the influence of the North German Federation, thus giving the enlarged entity a new identity as the Deutsches Reich. \n\nAccording to the constitution, the empire was a federation of 25 German states. The Bundesprasidium was held by the King of Prussia, who had the title of German Emperor. The Emperor appointed the Chancellor, the head of government and chairman of the Bundesrat, the council of representatives of the German states. Laws were enacted by the Bundesrat and the Reichstag, the Imperial Diet elected by male Germans above the age of 25 years. \n\nHowever, it is the Emperor, not the Bundesrat or the Reichstag, who leads the power in the German Empire. With an option to dissolve the Reichstag on a whim, it is clear that the main political power in the German Empire rests not in Reichstag, elected by the people, but in the hands of the non-elected German Emperor. Another issue is the Prussian three-class voting system, which has remained unchanged since 1849. \n\nOver sixty years after the founding of the Kaiserreich, the liberals and social democrats are growing increasingly disgruntled with this status of things and our constitution may see large revisions in the next few years..."
 gerdom.1.a:0 "헌법은 안정을 보장한다, 최소한"
 
-
-
-gerdom.2.t:0 "한스 폰 젝트 작고"
+gerdom.2.t:0 "한스 폰 젝트 사망"
 gerdom.2.d:0 "Our Chief of General Staff, Hans von Seeckt, has died today in Berlin. The hero of the Intervention in China passed away peacefully in his sleep. \n\nOur nation is mourning the loss of a true German hero, and all important dignitaries were in attendance at his funeral in Berlin. Afterwards, the Chief of the Army, August von Mackensen, could be seen whispering something to the Kaiser."
 gerdom.2.a:0 "그 자는 무엇을 했는지 궁금하군?"
 
@@ -327,9 +324,9 @@ gerdom.10.d:0 "The Princely Federation has replied to our offer flatly stating t
 
 ### Agricultural crisis in Mitteleuropa ###
 
-gerdom.11.t:0 "미텔오이로파의 농업 위기"
+gerdom.11.t:0 "중부 유럽의 농업 위기"
 gerdom.11.d:0 "During this time of great crisis, the agricultural sector of German economy is one of the most vulnerable to turmoil. With this in mind, several Junkers, representing the landed nobility of the Kingdom of Prussia, have asked for protectionist legislation and subsidies to their production. By imposing tariffs on foreign produce, we will strengthen this important sector of the Reich's economy. Such a measure is likely to cause further damage to the economy of our neighbours, however, as they are greatly dependant in trade with Germany. The wheat crops in the Ukraine are particularly vulnerable."
-gerdom.11.a:0 "우리는 우리 농민을 보호해야 한다"
+gerdom.11.a:0 "우리 농민을 보호해야 한다"
 gerdom.11.b:0 "도움을 약속한다..."
 
 gerdom.12.t:0 "여정 참정권 운동 증가"
@@ -369,14 +366,12 @@ gerdom.16.j:0 "이 계획은 달성되었다!"
 
 ### Schleicher and the GVLP ###
 
-
 gerdom.17.t:0 "쿠르프 폰 슐라이허와 DVLP"
 gerdom.17.d:0 "'Scandal! Scandal! Reichskanzler von Schleicher observed dining with Alfred von Hugenberg! Scandal!' cry the newspaper boys today. The prestigious Berliner Tagblatt, already responsible for the publication of the infamous Osthilfeskandal in 1923 that led to the end of the Ludendorff regime, has landed another coup. \n\nA reporter was able to observe and even partially overhear a conversation between Reichskanzler Kurt von Schleicher and the leader of the reactionary Junker party DVLP, Alfred von Hugenberg, at a Berlin variete. The lower standing of the establishment only adds to the scandal. \n\nAnd while crowds come together to discuss the news, one topic is the most interesting; What will be the Kaisers reaction once he opens his morning newspaper?"
 gerdom.17.a:0 "요한! 폰 파펜을 데려오라!"
 gerdom.17.b:0 "사회 민주당은 더 이상 나빠질 수 없다!"
 gerdom.17.c:0 "브뤼닝의 때이다!"
 gerdom.17.e:0 "망할 가짜 뉴스..."
-
 
 ### Election of 1937 ###
 
@@ -390,22 +385,20 @@ gerdom.28.t:0 "새로운 제국 재상?"
 gerdom.28.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the SPD won the most Reichstag posts in the elections, this does not mean the Kaiser has to even consider appointing a new chancellor. However, following the Ludendorff regime, this gesture of goodwill has become the modus operandi, and abandoning it could lead to public unrest. What shall we do?"
 gerdom.28.a:0 "오토 벨스를 임명한다. 최초의 SPD 제국 재상이로군!"
 gerdom.28.b:0 "현 제국 재상을 연임하게 하라."
-gerdom.28.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
+gerdom.28.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
 
 gerdom.29.t:0 "새로운 제국 재상?"
 gerdom.29.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though NLP, FVP and BVP won the most Reichstag posts in the elections, this does not mean the Kaiser has to even consider appointing a new chancellor. However, following the Ludendorff regime, this gesture of goodwill has become the modus operandi, and abandoning it could lead to public unrest. What shall we do?"
 gerdom.29.a:0 "아프리카의 사자, 파울 폰 레토프-포어벡을 임명한다!"
 gerdom.29.b:0 "파울 폰 레토프-포어벡을 임명한다. - 허나 양해를 요구한다."
 gerdom.29.c:0 "현 제국 재상을 연임하게 하라."
-gerdom.29.e:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
+gerdom.29.e:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
 
 gerdom.30.t:0 "새로운 제국 재상?"
 gerdom.30.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the DKP defended their Reichstag majority in the elections, this does not mean the Kaiser has to keep Franz von Papen. What shall we do?"
-
 gerdom.30.a:0 "폰 파펜은 잘 하고 있다."
 gerdom.30.b:0 "하인리히 브뤼닝을 임명한다 - 새로운 바람을 불러올 때다!"
-gerdom.30.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
-
+gerdom.30.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
 
 gerdom.32.t:0 "전쟁이다!"
 gerdom.32.d:0 "There can be no distractions! We are at war with the Syndicalist forces! It's a battle for the very soul of our great empire and we must focus on winning it!"
@@ -423,22 +416,20 @@ gerdom.34.t:0 "새로운 제국 재상?"
 gerdom.34.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the SPD won the most Reichstag posts in the elections, this does not mean the Kaiser has to even take this into consideration when choosing his chancellor. However, following the Ludendorff regime, this gesture of goodwill has become the modus operandi, and abandoning it could lead to public unrest. What will the Kaiser do?"
 gerdom.34.a:0 "오토 벨스를 임명한다. 최초의 SPD 제국 재상이로군!"
 gerdom.34.b:0 "현 제국 재상을 연임하게 하라."
-gerdom.34.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
+gerdom.34.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
 
 gerdom.35.t:0 "새로운 제국 재상?"
 gerdom.35.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though NLP, FVP and BVP won the most Reichstag posts in the elections, this does not mean the Kaiser has to even take this into consideration when choosing his chancellor. However, following the Ludendorff regime, this gesture of goodwill has become the modus operandi, and abandoning it could lead to public unrest. What will the Kaiser do?"
 gerdom.35.a:0 "아프리카의 사자, 파울 폰 레토프-포어벡을 임명한다!"
 gerdom.35.b:0 "파울 폰 레토프-포어벡을 임명한다. - 허나 양해를 요구한다."
 gerdom.35.c:0 "현 제국 재상을 연임하게 하라."
-gerdom.35.e:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
+gerdom.35.e:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
 
 gerdom.36.t:0 "새로운 제국 재상?"
 gerdom.36.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the DKP once again won a Reichstag majority in the elections, this does not mean the Kaiser has to even take this into consideration when choosing his chancellor. What will the Kaiser do?"
-
 gerdom.36.a:0 "폰 파펜은 잘 하고 있다.."
 gerdom.36.b:0 "하인리히 브뤼닝을 임명한다 - 새로운 바람을 불러올 때다!"
-gerdom.36.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대안이로군!"
-
+gerdom.36.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
 
 gerdom.37.t:0 "전쟁이다!"
 gerdom.37.d:0 "There can be no distractions! We are at war with the Syndicalist forces! It's a battle for the very soul of our great empire and we must focus on winning it!"
@@ -460,22 +451,19 @@ gerdom.37.a:0 "우리가 파리에 입성할 때까지 선거는 없다!"
 
 # gerdom.38.t:0 "DKP가 연정 승리를 이끌었다!"
 # gerdom.38.d:0 "Following a victory of the DKP, AV, and Zentrum coalition in the elections the Kaiser must appoint a new Reichkanzler"
-
 # gerdom.38.a:0 "황제는 요한 슈베린 폰 크로지크를 임명한다"
 # gerdom.38.b:0 "황제는 칼 괴르델러를 임명한다"
 # gerdom.38.c:0 "황제는 Zentrum의 당수 하인리히 브뤼닝을 임명한다"
 # gerdom.38.e:0 "황제는 AV의 당수 그레고어 슈트라서를 임명한다"
 
-
-gerdom.40.t:0 "첫 SPD 제국 재상 작고"
+gerdom.40.t:0 "첫 SPD 제국 재상 사망"
 gerdom.40.d:0 "Reichskanzler Otto Wels has passed away in office today. His health had not been the best for a long time, and the stress of the office did not prolong his life either, most likely. The Kaiser will need to appoint a new Reichskanzler as soon as possible. \n\nIn his long career, he also held - among many other titles - the office of chairman of the SPD. Now he is dead, and it remains to be seen who will lead the Social Democrats from now on."
-
 gerdom.40.a:0 "SPD 의장 후보 한스 포겔을 제국 재상으로 임명한다"
 gerdom.40.b:0 "안정을 위해 하인리히 브뤼닝을 임명한다"
 gerdom.40.c:0 "프란츠 폰 파펜에게 다시 기회를 준다!"
 gerdom.40.e:0 "충분하다! 쿠르프 폰 슐라이허!"
 
-gerdom.41.t:0 "오토 벨스 작고"
+gerdom.41.t:0 "오토 벨스 사망"
 gerdom.41.d:0 "The chairman of the SPD, Otto Wels, has passed away today. It remains to be seen who will lead the Social Democrats from now on."
 gerdom.41.a:0 "그는 훌륭한 상대였다."
 
@@ -487,20 +475,17 @@ gerdom.43.c:0 "천주교 성당을 지원하고 제국내 천주교 지배 지�
 
 
 
-
 gerdom.47.t:0 "빌헬름 2세의 죽음"
 gerdom.47.d:0 "Our Kaiser Wilhelm II has died of a pulmonary embolism in the charite hospital in Berlin today. It is the end of an age. Wilhelm II was the last European monarch who reigned during the 19th century, and his whole life he tried to uphold - sometimes succeeding, often failing - the values he identified with that era. With his death, the 20th century will, at last, be fully upon us. \n\nAll over the Empire, flags are flying at half-mast, and public ceremonies are being organised to honour the Weltkriegskaiser, the Kaiser who won the world for Germany. One of the onlookers in Berlin is Kronprinz Friedrich Wilhelm, who will now have to uphold the honour of the Kaiserreich in the world."
 gerdom.47.a:0 "황제 폐하는 붕허하셨다! 빌헬름 3세 황제 폐하 만세!"
 
-
-gerdom.49.t:0 "제국 재상 포겔 작고"
+gerdom.49.t:0 "제국 재상 포겔 사망"
 gerdom.49.d:0 "Reichskanzler Vogel has passed away in office today. It is up to the Kaiser now to appoint a new Reichskanzler."
-
 gerdom.49.a:0 "SPD의 쿠르트 슈마허를 임명한다"
 gerdom.49.b:0 "안정을 위해 하인리히 브뤼닝을 임명한다."
 gerdom.49.c:0 "DKP의 새로운 얼굴 - 칼 프레드릭 괴르델러!"
 
-gerdom.50.t:0 "한스 포겔 작고"
+gerdom.50.t:0 "한스 포겔 사망"
 gerdom.50.d:0 "The leader of the SPD, Hans Vogel, passed away today due to poor health."
 
 gerdom.51.t:0 "제국의 안전"
@@ -555,60 +540,60 @@ gerdom.60.a:0 "좋았어!"
 gerdom.61.t:0 "총파업에 생디칼리스트 가담"
 gerdom.61.d:0 "Although the general strike in the Rhineland is finally over our investigations suggest that rebellious workers were supplied from abroad, probably from France. How shall we react to this insolence?"
 gerdom.61.a:0 "그러한 오만은 용인될 수 없다!"
-gerdom.61.b:0 "우리는 생디칼리스트 가담의 확실한 증거가 필요하다!"
+gerdom.61.b:0 "우리는 생디칼리스트 가담에 대한 확실한 증거가 필요하다!"
 
 ### Death Events ###
 
-gerdom.62.t:0 "Johann von Bernstorff dies"
-gerdom.62.d:0 "Former ambassador to the USA and the Ottoman Empire and former State Secretary for the Interior, Johann von Bernstroff has died today."
-gerdom.62.a:0 "Ruhe in Frieden"
-gerdom.63.t:0 "Wilhelm Groener dies"
-gerdom.63.d:0 "One of the heroes of the Weltkrieg and the victor over the Bolsheviks, Feldmarschall Wilhelm Groener has passed away today."
+gerdom.62.t:0 "요한 폰 베른슈토프 사망"
+gerdom.62.d:0 "미국 대사와 오토만 제국 대사, 내무장관을 역임한 요한 폰 베른슈토프가 오늘 사망했습니다."
+gerdom.62.a:0 "평화롭게 잠들라"
+gerdom.63.t:0 "빌헬름 그뢰너 사망"
+gerdom.63.d:0 "세계 대전의 영웅 중 한 사람이자 볼세비키 정복자, 빌헬름 그뢰너 원수가 오늘 세상을 떠났습니다.
 
-gerdom.64.t:0 "Ludwig von Reuter dies"
-gerdom.64.d:0 "A hero of the Weltkrieg and commander of the Kaiserliche Marine, Ludwig von Reuter has died today."
+gerdom.64.t:0 "루트빅 폰 로이터 사망”
+gerdom.64.d:0 "세계 대전의 영웅 중 한 사람이자 카이저리헤 마리네의 사령관, 루트빅 폰 로이터가 오늘 사망했습니다."
 
-gerdom.65.t:0 "Wilhelm Souchon dies"
-gerdom.65.d:0 "Admiral Wilhelm Souchon, a hero of the Weltkrieg and a Großadmiral in both our fleet and the Ottoman fleet, has passed away today."
+gerdom.65.t:0 "빌헬름 수숑 사망 "
+gerdom.65.d:0 "세계 대전의 영웅 중 한 사람이자 독일 제국 함대와 오토만 제국 함대의 대제독 빌헬름 수숑 제독이 오늘 세상을 떠났습니다. "
 
-gerdom.66.t:0 "Georg Bruchmuller dies"
-gerdom.66.d:0 "Feldmarschall Bruchmuller a hero of the Weltkrieg and developer of modern artillery tactics, has passed away today."
+gerdom.66.t:0 "게오르그 브루흐뮐러 사망 "
+gerdom.66.d:0 "세계 대전의 영웅이자 현대 포병 전술의 고안자 브루흐뭘러 원수가 오늘 세상을 떠났습니다. "
 
 ### The Kaiserbund ###
 
-gerdom.72.t:0 "Status of Indonesia"
+gerdom.72.t:0 "인도네시아 상황 "
 gerdom.72.d:0 "As part of our Kaiserbund program we have decided to make our Indonesian holdings a semi-autonomous state in our empire. How would we like to divide the lands?"
-gerdom.72.a:0 "Create a pan-Malayan state."
-gerdom.72.b:0 "Divide the lands between Sarawak and Malaysia"
+gerdom.72.a:0 "범-말레이시아 국가를 만든다."
+gerdom.72.b:0 "사라와크와 말레이시아를 분리한다"
 
-gerdom.73.t:0 "Status of Indochina"
+gerdom.73.t:0 "인도차이나 상황 "
 gerdom.73.d:0 "As part of our Kaiserbund program we have decided to make our Indochinese holdings a semi-autonomous state in our empire. How would we like to divide the lands?"
-gerdom.73.a:0 "Create a pan-Indochinese state."
-gerdom.73.b:0 "Divide it into states."
+gerdom.73.a:0 "범-인도차이나 국가를 만든다."
+gerdom.73.b:0 "여러 국가로 나눈다."
 
-gerdom.74.t:0 "The Division of Mittelafrika"
+gerdom.74.t:0 "중앙 아프리카 분할"
 gerdom.74.d:0 "With our decision to implement Kaiserbund project we still have to decide extent of its implementation on various regions under our control. One such territory is the Mittelafrika. While conservative members of Reichstag are arguing for keeping it as it is, majority of politicians have already realised that Freistaat of Mittelafrika is more burden for German armed forces and economy and except for prestige it brings only limited benefits. Therefore, drastic reorganisation of this area is needed if we want to retain our presence here with as limited costs as possible."
-gerdom.74.a:0 "Divide Mittelafrika into states"
-gerdom.74.b:0 "Federalise it!"
-gerdom.74.c:0 "Keep everything as it is!"
+gerdom.74.a:0 "중앙 아프리카를 여러 국가로 나눈다 "
+gerdom.74.b:0 "연방화하라! "
+gerdom.74.c:0 "모든 것을 그대로 유지하라! "
 
-gerdom.75.t:0 "Status of Malta"
+gerdom.75.t:0 "몰타 상황 "
 gerdom.75.d:0 "With our decision to implement the Kaiserbund project we still have to decide extent of its implementation on various strategical points under our control. One such point is the island of Malta. Almost all important members of the general staff and many conservative politicians are arguing for keeping this island under direct control as Malta is crucial for security of our shipping lanes running through the Mediterranean and to function as our 'unsinkable aircraft carrier'"
-gerdom.75.a:0 "Grant them limited autonomy"
-gerdom.75.b:0 "Keep them under our direct control"
+gerdom.75.a:0 "제한적 자치권을 부여하라"
+gerdom.75.b:0 "직접 통치하에 두어라”
 
-#gerdom.76.t:0 "Status of Somaliland"
+#gerdom.76.t:0 "소말리랜드 상황"
 #gerdom.76.d:0 "With our decision to implement Kaiserbund project we still have to decide extent of its implementation on various fringe regions under our control. One such region is the German Somaliland. While admirals of Kaiserliche Marine are arguing for keeping this territory under our direct control as a way to keep Gulf of Aden under our control, the most of politicians would rather cut down our expenses with administration of this territory even at cost of diminishing our presence in this area."
 
-gerdom.77.t:0 "The Re-organisation of Mittelafrika"
+gerdom.77.t:0 "중앙 아프리카 개편"
 gerdom.77.d:0 "We will have to reorganise our internal structure in accordance with the new orders from Germany..."
-gerdom.77.a:0 "A new order for Africa!"
-gerdom.77.b:0 "Oh, I don't think so."
+gerdom.77.a:0 "아프리카에 새로운 질서!"
+gerdom.77.b:0 "오, 나는 그렇게 생각하지 않는데."
 
-gerdom.78.t:0 "The Re-organisation of Mittelafrika"
+gerdom.78.t:0 "중앙 아프리카 개편"
 gerdom.78.d:0 "We will have to reorganise our internal structure in accordance with the new orders from Germany..."
-gerdom.78.a:0 "A new order for Africa!"
-gerdom.78.b:0 "Oh, I don't think so."
+gerdom.78.a:0 "아프리카에 새로운 질서!"
+gerdom.78.b:0 "오, 나는 그렇게 생각하지 않는데."
 
 gerdom.79.t:0 "The Re-organisation of the AlgOstAsien GmbH"
 gerdom.79.d:0 "With our decision to implement Kaiserbund project we still have to decide extent of its implementation on various strategical territories under our administration. One such territory is the Southern China, currently administered by AOG. While conservative members of Reichstag are arguing for keeping it as it is, majority of politicians have already realised that administrative an economic model represented by AOG is no longer effective and keeping it intact will result in massive dissent of Chinese population, which our armed forces will not be able to contain."
@@ -723,21 +708,21 @@ gerdom.200.ad:0 "Let's hope he freezes in Russia!"
 gerdom.200.ae:0 "He can sweat in Spain..."
 gerdom.200.af:0 "He will reconsider."
 
-gerdom.201.t:0 "German Volunteers arrive!"
+gerdom.201.t:0 "독일 자원병 도착!"
 gerdom.201.d:0 "Two German volunteer divisions, headed by the writer Bertolt Brecht and other figures of the German Syndicalist scene, have arrived to support us in our struggle!"
-gerdom.201.a:0 "Die Internationale erkampft das Menschenrecht!"
+gerdom.201.a:0 "인터내셔널은 인권의 권리를 위해 싸운다!"
 
-gerdom.202.t:0 "German Volunteers arrive!"
+gerdom.202.t:0 " 독일 자원병 도착!"
 gerdom.202.d:0 "Two German volunteer divisions, headed by the writer Bertolt Brecht and other figures of the German Syndicalist scene, have arrived to support us in our struggle!"
-gerdom.202.a:0 "Die Internationale erkampft das Menschenrecht!"
+gerdom.202.a:0 "인터내셔널은 인권의 권리를 위해 싸운다!"
 
-gerdom.203.t:0 "German Volunteers arrive!"
+gerdom.203.t:0 " 독일 자원병 도착!"
 gerdom.203.d:0 "Two German volunteer divisions, headed by the writer Bertolt Brecht and other figures of the German Syndicalist scene, have arrived to support us in our struggle!"
-gerdom.203.a:0 "Die Internationale erkampft das Menschenrecht!"
+gerdom.203.a:0 "인터내셔널은 인권의 권리를 위해 싸운다!”
 
 gerdom.204.t:0 "German Volunteers arrive!"
 gerdom.204.d:0 "Two German volunteer divisions, headed by the writer Bertolt Brecht and other figures of the German Syndicalist scene, have arrived to support us in our struggle!"
-gerdom.204.a:0 "Die Internationale erkampft das Menschenrecht!"
+gerdom.204.a:0 " 인터내셔널은 인권의 권리를 위해 싸운다!"
 
 gerdom.205.t:0 "The Rhineland is silent"
 gerdom.205.d:0 "With many of the worst troublemakers abroad to fight and hopefully die, the Rhineland, for many years the region were Syndicalist unrest was the worst, is finally seeing some peace and quiet."
@@ -749,9 +734,9 @@ gerdom.206.a:0 "They'll have to serve their term in the Heer!"
 gerdom.206.b:0 "They can return to their families."
 gerdom.206.c:0 "Close the borders!"
 
-gerdom.207.t:0 "Bertolt Brecht is dead"
+gerdom.207.t:0 "베르톨트 브레히트 사망"
 gerdom.207.d:0 "After assumptions had already been made for weeks, we now have the official confirmation: Our German Syndicalist writer Bertolt Brecht has died in some rotten cellar, most likely in the hands of a policeman. After serving in as Syndicalist volunteer, Brecht was captured some time after the end of the war. \n\n His family, together with other Syndicalist elements, staged large-scale demonstrations centred around Berlin in his support, blaming our policy of not letting the veterans return home for his death."
-gerdom.207.a:0 "It seems we created a martyr."
+gerdom.207.a:0 "우리가 순교자를 만든 것 같군."
 
 gerdom.208.t:0 "Bertolt Brecht has returned home"
 gerdom.208.d:0 "Despite our best efforts, it seems like the Syndicalist writer Bertolt Brecht has somehow managed to smuggle himself over the border. He and his family have gone underground and are openly practicing the battle against the Capitalist system..."
@@ -1167,8 +1152,6 @@ germit.3.t:0 "[From.GetName], 마르크 사용 거부"
 germit.3.d:0 "[From.GetName] has not agreed to our proposal of a common currency for Mitteleuropa and will continue to use their own currency, albeit still connected to the Reichsmark."
 germit.3.a:0 "제기랄!"
 
-
-
 germit.4.t:0 "마르크 폐지"
 germit.4.d:0 "In light of the recent developments, the Mark is no longer our official currency. This will cause some economic upheaval, but will ultimately be to our best."
 germit.4.a:0 "그러길 바라지..."
@@ -1189,7 +1172,7 @@ GER_mil_mis:0 "독일 군사 사절단"
 GER_quenched_militarism:0 "사그러든 군국주의"
 GER_renwed_militarism:0 "일신된 군국주의"
 GER_research_boost:0 "연구 기금"
-GER_victors_of_wwi:0 "세계대전의 승리자"
+GER_victors_of_wwi:0 "세계 대전의 승리자"
 GER_tank_idea:0 "장갑 투자"
 GER_tirpitz_idea:0 "티르피츠 계획"
 GER_junkers_lost_idea:0 "곡물 공급 문제"
@@ -1286,9 +1269,9 @@ GER_authoritarian_democrat_party:0 "DKP"
 GER_authoritarian_democrat_party_long:0 "독일 보수당"
 GER_paternal_autocrat_party:0 "DVLP"
 GER_KAI_paternal_autocrat_party:0 "황제 충성당"
-GER_AFR_paternal_autocrat_party:0 "비상 정부"
+GER_AFR_paternal_autocrat_party:0 "비상 정권"
 GER_paternal_autocrat_party_long:0 "독일 조국당"
-GER_KAI_paternal_autocrat_party_long:0 "황제 충성 도당"
+GER_KAI_paternal_autocrat_party_long:0 "황제 충성 궁정당"
 GER_AFR_paternal_autocrat_party_long:0 "비상 정부"
 GER_national_populist_party:0 "AV"
 GER_national_populist_party_long:0 "범 독일 연맹"
