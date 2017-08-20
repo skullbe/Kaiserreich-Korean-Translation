@@ -2,22 +2,22 @@
 
 ### Ideas ###
 
-CAN_nrc_idea:0 "National Research Council"
-CAN_nrc_idea_desc:0 "The National Research Council is critical to all the research efforts in our country. With expanded funding and some political support, this allows us to boost our entire scientific community and secure the loyalty of a few important research teams."
+CAN_nrc_idea:0 "국가 연구위원회"
+CAN_nrc_idea_desc:0 "국가 연구위원회는 우리나라의 모든 연구 노력에 결정적인 역할을합니다. 자금 지원 확대와 일부 정치적 지원으로 우리는 과학 공동체 전체를 활성화시키고 일부 중요한 연구팀의 충성도를 확보 할 수 있게 됩니다."
 
-CAN_work_camps:0 "Work Relief Camps"
-CAN_work_camps_desc:0 "While the concept of a work camp might not be very attractive to the average citizen, it is simply better than unemployment. By providing plentiful and meaningful work, we can begin ambitious infrastructure projects while letting our people benefit directly."
+CAN_work_camps:0 "직업 구호 캠프"
+CAN_work_camps_desc:0 "노동 캠프의 개념은 일반 시민들에게는 그리 매력적이지 않을 수도 있지만 단순히 실업보다 낫습니다. 풍부하고 의미있는 일을 제공함으로써 우리는 야심찬 인프라 프로젝트를 시작할 수 있으며 사람들에게 직접 혜택을 줄 수 있습니다."
 
-CAN_howes_conversion:0 "Howe's Plan"
-CAN_howes_conversion_desc:0 "The issues of our military industry in the Weltkrieg has made it patently obvious that we must promote government intervention in the arms industry. As according to C.D Howe, we will subsidise most of these factories to ensure a full economic mobilisation on the eve of another conflict and maximised production even in peacetime."
+CAN_howes_conversion:0 "하우의 계획"
+CAN_howes_conversion_desc:0 "세계대전에서 우리의 군수 산업의 문제는 무기 산업에 대한 정부의 개입을 촉진해야한다는 것을 분명히 보여주었습니다. C.D 하우에 따르면, 우리는 다른 충돌이 일어나기 전날 완전한 경제 동원을 가능하게 하고 평시에도 생산력을 극대화하기 위해 대부분의 공장에 보조금을 지급 할 것입니다."
 
-CAN_bill_c_7_debate:0 "The Bill C-7 Debate"
-CAN_bill_c_7_debate_desc:0 "Certainly more than the average parliamentary debate, the Bill C-7 Debate might very well change the path of Canada for the future to come. All of the energy and influence of the political sphere is being spent in this single debate, preventing us from attending to other matters"
+CAN_bill_c_7_debate:0 "C-7 법안 논쟁"
+CAN_bill_c_7_debate_desc:0 "C-7 법안 논쟁은 평범한 의회 논쟁보다 확실히 미래의 캐나다 길을 바꿀 것입니다. 정치적 영역의 모든 에너지와 영향력은이 단일 토론에서 소비되고 있으며, 우리가 다른 문제에 관여하는것을 방해합니다."
 
-CAN_divided_nation:0 "Divided Government"
-CAN_divided_nation_desc:0 "Our government is deeply divided on many levels and there is constant bickering between the major parties. Even outside of that, there is also a clear split between English exiles, aiming to make Canada the springboard of their reconquest of the mainland, and Canadian nationals, tired of their antics and anti-parliamentarism. This is completely paralysing our current government."
+CAN_divided_nation:0 "분열된 정부"
+CAN_divided_nation_desc:0 "우리 정부는 여러 입장으로 나뉘어져 있으며, 주요 정당들 사이에선 끊임없는 언쟁이 벌어지고 있습니다. 그 밖에, 캐나다를 본토 재정복의 발판으로 삼고 싶어하는 영국의 망명자들과 그들의 기행과 반공주의에 지친 캐나다 국민들 사이에 분명한 분열도 있습니다. 이는 현 정부를 완전히 마비시키고 있습니다."
 
-CAN_country_united:0 "Unified Government"
+CAN_country_united:0 "통일된 정부"
 CAN_country_united_desc:0 "While the democratic process is alive and well, we have finally reached some sort of agreement on a common course for our country. With the fever dreams of an all-powerful English monarch doused, Canadian politicians are finally willing to support our cause."
 
 CAN_mounties:0 "The Mounties"
@@ -26,11 +26,11 @@ CAN_mounties_desc:0 "In accordance with the Tories, the Royal Canadian Mounted P
 king_new_companies:0 "New Crown Corporations"
 king_new_companies_desc:0 "Strategic state investments in our country's industry allows us to rapidly and efficiently industrialise the vast Canadian lands without having to bear the responsibility of a nationalised industry. However, as the funds allocated dry up, the effects of this policy will eventually fade."
 
-quebec_riots:0 "Riots in Quebec"
-quebec_riots_desc:0 "The people of Quebec, confronted with the news of our patriotic war, have refused to defend their nation and instead have taken to the streets to protest. While some of them merely state that Canada, especially a Canada ruled by English elites, is not their nation, we know better than to believe those deserters and cowards."
+quebec_riots:0 "퀘벡의 폭동"
+quebec_riots_desc:0 "우리의 애국 전쟁의 뉴스을 접한 퀘벡 사람들은 자국을 지키기를 거부하고 거리에 항의하기로했습니다. 그들 중 일부는 캐나다, 특히 영국인 엘리트가 통치하는 캐나다는 그들의 나라가 아니라고 말하고 있지만, 우리는 그 탈영자와 겁쟁이를 믿을만큼 어리석지 않습니다."
 
-anglo_french_tensions:0 "Anglo-French Tensions"
-anglo_french_tensions_desc:0 "Tensions are high in Quebec as the old rivalries between Anglo-Canadians and French-Canadians continue to flare due to the exile of the English government and the generally pitious international situation of the French and English peoples. Unpopular measures like mass conscription could provoke riots, or worse."
+anglo_french_tensions:0 "영국계-프랑스계 긴장"
+anglo_french_tensions_desc:0 "영국 정부의 망명과 전반적으로 좋지 않은 프랑스, 영국의 국제 정세로 인해, 영국계 캐나다인과 프랑스계 캐나다인의 오랜 경쟁 의식이 계속 확산함에 따라, 퀘벡 주의 긴장도가 높아지고 있습니다. 대규모 징병과 같이 인망 없는 조치는 폭동, 아니면 그보다 더 심한 사태를 유발할 수 있습니다."
 
 CAN_winter_soldiers:0 "Cold Weather Training"
 CAN_winter_soldiers_desc:0 "There are few places on earth with as harsh an environment as Northern Canada. We should establish barracks in the outback to serve as training utilities to accustom our soldiers to harsher climates. While this might upset new recruits, they will thank us when they see their enemies freeze to death before them without firing a shot."
