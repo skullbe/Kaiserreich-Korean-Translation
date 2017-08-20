@@ -1,5 +1,5 @@
 ﻿l_english:
- FACTION_LEADER:0 "세력 대표: §Y$COUNTRY$§!"
+ FACTION_LEADER:0 "세력 지도자: §Y$COUNTRY$§!"
  FACTION_MEMBER:0 "세력 구성원: §Y$COUNTRY$§!"
  FACTION_NAME_GER_fascism:0 "추축국"
  FACTION_NAME_GER_none:0 "추축국"
