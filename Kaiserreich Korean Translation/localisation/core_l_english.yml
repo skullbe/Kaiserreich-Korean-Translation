@@ -1118,7 +1118,7 @@ l_english:
  AIR_WING_NAME_ROM_FALLBACK:0 "$NUMBER$ 공군 전투 전대"
  AIR_WING_NAME_ROM_GENERIC:0 "$NR$ $NAME$"
  AIR_WING_NAME_HUN_GENERIC:0 "$NR$. $NAME$"
- AIR_WING_NAME_HUN_FALLBACK:0 "$NUMBER$. Repülöszázad"                                                         
+ AIR_WING_NAME_HUN_FALLBACK:0 "$NUMBER$. 비행대대"                                                         
  AIR_WING_NAME_YUG_GENERIC:0 "$NR$. $NAME$"
  AIR_WING_NAME_YUG_FALLBACK:0 "$NUMBER$. Puk"                                             
  AIR_WING_NAME_CZE_GENERIC:0 "$NR$. $NAME$"
