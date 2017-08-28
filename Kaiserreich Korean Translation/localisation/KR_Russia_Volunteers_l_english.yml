@@ -1,72 +1,73 @@
-﻿l_english:
+l_english:
 
 ### Events ###
-rcwv.1.t:0 "Civil War in Russia"
-rcwv.1.d:0 "The crisis in Russia has reached a frightening level of intensity, and now Russian workers have risen to struggle for freedom against capitalist oppression once more. Should we help them, even though the Bolshevik methods are rather extreme?"
-rcwv.1.a:0 "Help the Russian workers!"
-rcwv.1.b:0 "We can only spare some supplies."
-rcwv.1.c:0 "No. The Bolsheviks' methods are too extreme."
+rcwv.1.t:0 "러시아 내전"
+rcwv.1.d:0 "러시아의 위기는 극한으로 치달았고, 이제는 러시아 노동자들이 자본주의의 억압에 대항하여 자유를 위해 투쟁하기 시작했습니다. 볼셰비키 방법이 극단적이기는 하지만, 우리가 그들을 도와야할까요?"
+rcwv.1.a:0 "러시아 노동자들을 지원하라!"
+rcwv.1.b:0 "우리는 몇가지 물자만을 지원할것이다."
+rcwv.1.c:0 "아니. 볼셰비키의 방법은 너무 극단적이다."
 
-rcwv.2.t:0 "Aid from France!"
-rcwv.2.d:0 "The French send us significant numbers of volunteers and military material that will help us considerably in our struggle against the decadent Russian government!"
-rcwv.2.a:0 "Good!"
+rcwv.2.t:0 "프랑스로부터의 원조!"
+rcwv.2.d:0 "프랑스는 타락한 러시아 정부와의 투쟁에서 우리를 도울 수있는 많은 지원병들과 군사 물자를 우리에게 보내고 있습니다!"
+rcwv.2.a:0 "좋아!"
 
-rcwv.3.t:0 "Aid from France!"
-rcwv.3.d:0 "The French send us significant amount of military material that will help us considerably in our struggle against the decadent Russian government!"
+rcwv.3.t:0 "프랑스로부터의 원조!"
+rcwv.3.d:0 "프랑스는 타락한 러시아 정부와의 투쟁에서 우리를 도울 수있는 군사 물자를 우리에게 보내고 있습니다!"
 
-rcwv.5.t:0 "Aid from Britain!"
-rcwv.5.d:0 "The British send us a significant numbers of volunteers and military material that will help us considerably in our struggle against the decadent Russian government!"
+rcwv.5.t:0 "영국으로부터의 원조!"
+rcwv.5.d:0 "영국은 타락한 러시아 정부와의 투쟁에서 우리를 도울 수있는 많은 지원병들과 군사 물자를 우리에게 보내고 있습니다!"
 
-rcwv.6.t:0 "Aid from Britain!"
-rcwv.6.d:0 "The British send us a significant amount of military material that will help us considerably in our struggle against the decadent Russian government!"
+rcwv.6.t:0 "영국으로부터의 원조!"
+rcwv.6.d:0 "영국은 타락한 러시아 정부와의 투쟁에서 우리를 도울 수있는 군사 물자를 우리에게 보내고 있습니다!"
 
-rcwv.7.t:0 "Civil War in Russia"
-rcwv.7.d:0 "The crisis in Russia has reached a frightening level of intensity: once more, Red and White forces are at war. We have seen the horrors of Bolshevism once before, and though our own workers may not like it, it is probably in our best interests to help the legitimate Russian government."
-rcwv.7.a:0 "Send them volunteers!"
-rcwv.7.b:0 "We can only spare some supplies."
-rcwv.7.c:0 "We cannot spare anything."
+rcwv.7.t:0 "러시아 내전"
+rcwv.7.d:0 "러시아의 위기는 극한으로 치달았습니다 : 다시 한 번, 적군과 백군이 전쟁 중에 있습니다. 우리는 이전에 볼셰비키의 공포를 보았고, 우리의 노동자들이 그것을 좋아하지는 않을지 모르지만 합법적인 러시아 정부를 돕는 것이 우리의 최선의 이익일것입니다."
+rcwv.7.a:0 "지원병들을 보내라!"
+rcwv.7.b:0 "우리는 몇가지 물자만을 지원할것이다."
+rcwv.7.c:0 "우리는 아무것도 나누어줄 수 없다."
 
-rcwv.8.t:0 "Aid from Finland!"
-rcwv.8.d:0 "The Finns send us significant numbers of volunteers and military material that will help us considerably in our struggle against the dangerous Bolshevik menace threatening to rip Russia apart!"
+rcwv.8.t:0 "핀란드로부터의 지원!"
+rcwv.8.d:0 "핀란드는 상당한 수의 지원병들과 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.9.t:0 "Aid from Finland!"
-rcwv.9.d:0 "The Finns send us a significant amount of military material that will help us considerably in our struggle against the dangerous Bolshevik menace threatening to rip Russia apart!"
+rcwv.9.t:0 "핀란드로부터의 원조!"
+rcwv.9.d:0 "핀란드는 상당한 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.11.t:0 "Aid from Germany!"
-rcwv.11.d:0 "The Germans send us significant numbers of volunteers and military material that will help us considerably in our struggle against the dangerous Bolshevik menace threatening to rip Russia apart!"
+rcwv.11.t:0 "독일로부터의 원조!"
+rcwv.11.d:0 "독일은 상당한 수의 지원병들과 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.12.t:0 "Aid from Germany!"
-rcwv.12.d:0 "The Germans send us a significant amount of military material that will help us considerably in our struggle against the dangerous Bolshevik menace threatening to rip Russia apart!"
+rcwv.12.t:0 "독일로부터의 원조!"
+rcwv.12.d:0 "독일은 상당한 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.14.t:0 "Aid from Japan!"
-rcwv.14.d:0 "The Japanese send us significant numbers of volunteers and military material that will help us considerably in our struggle against the dangerous Bolshevik menace threatening to rip Russia apart!"
+rcwv.14.t:0 "일본의 원조!"
+rcwv.14.d:0 "일본은 상당한 수의 지원병들과 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.15.t:0 "Aid from Japan!"
-rcwv.15.d:0 "The Japanese send us a significant amount of military material that will help us considerably in our struggle against the dangerous Bolshevik menace threatening to rip Russia apart!"
+rcwv.15.t:0 "일본의 원조!"
+rcwv.15.d:0 "일본은 상당한 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.17.t:0 "Aid from America!"
-rcwv.17.d:0 "The Americans send us significant numbers of volunteers and military material that will help us considerably in our struggle against the decadent Russian government!"
+rcwv.17.t:0 "미국의 원조!"
+rcwv.17.d:0 "미국은 상당한 수의 지원병들과 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.18.t:0 "Aid from America!"
-rcwv.18.d:0 "The Americans send us a significant amount of military material that will help us considerably in our struggle against the decadent Russian government!"
+rcwv.18.t:0 "미국의 원조!"
+rcwv.18.d:0 "미국은 상당한 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.20.t:0 "Aid from Spain!"
+rcwv.20.t:0 "스페인의 원조!"
+rcwv.20.d:0 "스페인은 상당한 수의 지원병들과 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.21.t:0 "Aid from Spain!"
-rcwv.21.d:0 "The Spaniards send us a significant amount of military material that will help us considerably in our struggle against the decadent Russian government!"
+rcwv.21.t:0 "스페인의 원조!"
+rcwv.21.d:0 "스페인은 상당한 사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.24.t:0 "Aid from Canada!"
-rcwv.24.d:0 "The Canadians send us significant numbers of volunteers and military material that will help us considerably in our struggle against the dangerous Bolshevik menace threatening to rip Russia apart!"
+rcwv.24.t:0 "캐나다의 원조!"
+rcwv.24.d:0 "프랑스는 상당한 수의 지원병들과 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.25.t:0 "Aid from Canada!"
-rcwv.25.d:0 "The Canadians send us a significant amount of military material that will help us considerably in our struggle against the dangerous Bolshevik menace threatening to rip Russia apart!"
+rcwv.25.t:0 "캐나다의 원조!"
+rcwv.25.d:0 "캐나다는 상당한 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.27.t:0 "Aid from National France!"
-rcwv.27.d:0 "The French send us significant numbers of volunteers and military material that will help us considerably in our struggle against the dangerous Bolshevik menace threatening to rip Russia apart!"
+rcwv.27.t:0 "프랑스로부터의 원조!"
+rcwv.27.d:0 "프랑스는 상당한 수의 지원병들과 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.28.t:0 "Aid from National France!"
-rcwv.28.d:0 "The French send us a significant amount of military material that will help us considerably in our struggle against the dangerous Bolshevik menace threatening to rip Russia apart!"
+rcwv.28.t:0 "프랑스로부터의 원조!"
+rcwv.28.d:0 "프랑스는 상당한 군사 물자를 보내 러시아와의 분열을 위협하는 위험한 볼셰비키 위협에 대항하는 우리의 투쟁을 돕고있습니다!"
 
-rcwv.22.t:0 "End of the Russian Civil War"
-rcwv.22.d:0 "For good or ill, the Russian civil war is now over. The General Staff have reported that they have learnt many valuable lessons regarding the nature of modern warfare over the course of the conflict."
-rcwv.22.a:0 "Fascinating."
+rcwv.22.t:0 "러시아 내전의 종결"
+rcwv.22.d:0 "좋든 나쁘든, 러시아 내전은 이제 끝났습니다. 참모진들은 내전의 과정에서 현대 전쟁의 본질에 관한 많은 가치있는 교훈을 배웠다고 보고했습니다."
+rcwv.22.a:0 "매우 흥미롭군."
