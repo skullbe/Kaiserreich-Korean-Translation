@@ -1,33 +1,33 @@
 ﻿l_english:
 
 ### Stability ###
-disaster:0 "Disaster"
+disaster:0 "재앙"
 disaster_desc:0 "You'll end up in a disaster if you let your political power go under §Y-500§!, you'll have to pass above §Y-500§! to go up to very low stability."
-very_low_stability:0 "Very Low Stability"
+very_low_stability:0 "매우 낮은 안정도"
 very_low_stability_desc:0 "You'll end up at very low stability if you let your political power go under §Y-250§!, you'll have to pass above §Y-250§! to go up to low stability."
-low_stability:0 "Low Stability"
+low_stability:0 "낮은 안정도"
 low_stability_desc:0 "You'll end up at low stability if you let your political power go under §Y-50§!, you'll have to pass above §Y-50§! to go up to average stability."
-normal_stability:0 "Average Stability"
-normal_stability_desc:0 "The basic level of stability."
-good_stability:0 "Good Stability"
+normal_stability:0 "보통 안정도"
+normal_stability_desc:0 "안정도의 기본 단계."
+good_stability:0 "높은 안정도"
 good_stability_desc:0 "If your political power is above §Y150§! you will be able to go up to Good Stability. You'll go down to average stability if you let your political power go under §Y0§!."
-very_good_stability:0 "Very Good Stability"
+very_good_stability:0 "매우 높은 안정도"
 very_good_stability_desc:0 "If your political power is above §Y150§! and you are at Good Stability you will be able to go up to Very Good Stability. You'll go straight down to average stability if you let your political power go under §Y0§!."
-stability:0 "Stability"
+stability:0 "안정도"
 EFFECT_CHANGE_LAW_stability:0 "Change our country's stability to '$NAME|Y$' which grants ($DESC$)."
 
 ### Popularity ###
-very_low_popularity:0 "Very Low Popularity"
+very_low_popularity:0 "매우 낮은 인기도"
 very_low_popularity_desc:0 "You'll be at Very Low Popularity if your ruling party is under §Y20%§! popularity."
-low_popularity:0 "Low Popularity"
+low_popularity:0 "낮은 인기도"
 low_popularity_desc:0 "You'll be at Low Popularity if your ruling party is between §Y20%§! and §Y40%§! popularity."
-normal_popularity:0 "Medium Popularity"
+normal_popularity:0 "보통 인기도"
 normal_popularity_desc:0 "You'll be at Medium Popularity if your ruling party is between §Y40%§! and §Y60%§! popularity."
-high_popularity:0 "High Popularity"
+high_popularity:0 "높은 인기도"
 high_popularity_desc:0 "You'll be at High Popularity if your ruling party is between §Y60%§! and §Y80%§! popularity."
-very_high_popularity:0 "Very High Popularity"
+very_high_popularity:0 "매우 높은 인기도"
 very_high_popularity_desc:0 "You'll be at Very High Popularity if your ruling party is above §Y80%§! popularity."
-popularity:0 "Popularity"
+popularity:0 "인기도"
 
 ### Economic Health ###
 boom_economy:0 "WIP" #Boom Economy WIP!!!
@@ -39,60 +39,60 @@ crash_economy:0 "WIP" #Crash Economy WIP!!!
 economic_health:0 "Work in progress, don't worry about this" #Economic Health WIP!!!
 
 ### Stability Events ###
-kr.political.1.t:0 "Downfall in Stability!"
+kr.political.1.t:0 "안정도 하락!"
 kr.political.1.d:0 "With our recent lack of political power, our country's stability has been weakened, no longer are we very stable. Once again doubt starts to seep into the political discourse."
 kr.political.1.a:0 "All good things must come to an end."
 
-kr.political.2.t:0 "Downfall in Stability!"
+kr.political.2.t:0 "안정도 하락!"
 kr.political.2.d:0 "With our recent lack of political power, our country's stability has been weakened, we're now on the brink of instability. Few are those who are still perfectly content with our policy."
 kr.political.2.a:0 "This is concerning."
 
-kr.political.3.t:0 "Downfall in Stability!"
+kr.political.3.t:0 "안정도 하락!"
 kr.political.3.d:0 "With our recent lack of political power, our country's stability has been weakened, we are now widely considered to be unstable. Fears about the future of our country are starting to be widespread."
 kr.political.3.a:0 "This is only a temporary situation."
 
-kr.political.4.t:0 "Downfall in Stability!"
+kr.political.4.t:0 "안정도 하락!"
 kr.political.4.d:0 "With our recent lack of political power, our country's stability has been weakened even more. Riots and strikes are now common place and our government is struggling to assert its authority."
 kr.political.4.a:0 "This doesn't bode well."
 
-kr.political.5.t:0 "Downfall in Stability!"
+kr.political.5.t:0 "안정도 하락!"
 kr.political.5.d:0 "With our recent lack of political power, our country has plunged into a disaster. The situation is, by any measure, catastrophic. There is talk of revolution and coups on the streets and people have lost faith in our government. We are struggling to keep our grasp on the country."
 kr.political.5.a:0 "This is a disaster!"
 
-kr.political.6.t:0 "Increase in Stability!"
+kr.political.6.t:0 "안정도 상승!"
 kr.political.6.d:0 "With our recent increase of political power, we are finally beginning to regain control on the situation. However, we are still far from safe. At least the major riots and talk of revolution have turned back into civil strikes."
 kr.political.6.a:0 "The worst is over!"
 
-kr.political.7.t:0 "Increase in Stability!"
+kr.political.7.t:0 "안정도 상승!"
 kr.political.7.d:0 "With our recent increase of political power, the end is in sight; we are nearly a stable nation. If the people still don't trust us fully, at least they don't feel compelled to violence and anger anymore."
 kr.political.7.a:0 "We are almost back to normal."
 
-kr.political.8.t:0 "Increase in Stability!"
+kr.political.8.t:0 "안정도 상승!"
 kr.political.8.d:0 "With our recent increase of political power, we are finally stable once more. The people trust us to run daily business again, and calm returns to the streets, hopefully this won't happen again."
 kr.political.8.a:0 "The [Root.GetAdjective] nation is strong."
 
-kr.political.9.t:0 "Potential Increase in Stability"
+kr.political.9.t:0 "안정도 잠재적 상승"
 kr.political.9.d:0 "With our recent increase in political power, we now have the chance to improve our stability. However, we must do so manually.\n\nTo go up to Good Stability or Very Good Stability, you will need to take the corresponding law in the Stability Tab under Laws & Government in the Political Screen, the cost is displayed under the option.\n\nDo note that you risk rapidly losing all your positive Stability levels if you ever go under 0 Political Power, so make sure that your country is actually going to stay stable on the short to medium term being making the investment.\n\nThis message won't fire again, so don't forget."
 kr.political.9.a:0 "I understand how to raise my stability."
 
 ### Popularity Events ###
-kr.political.11.t:0 "Very High Popularity"
+kr.political.11.t:0 "매우 높은 인기도"
 kr.political.11.d:0 "The civilian support for the ruling party has reached a very high level, which influences our political power. Our political opposition is nearly nonexistent and we stand in position to push any reform we please."
 kr.political.11.a:0 "Great!"
 
-kr.political.12.t:0 "High Popularity"
+kr.political.12.t:0 "높은 인기도"
 kr.political.12.d:0 "The civilian support for the ruling party has reached a high level, which influences our political power. Our political opposition is entrenched and only the most divisive reforms need our personal investment."
 kr.political.12.a:0 "Nice!"
 
-kr.political.13.t:0 "Average Popularity"
+kr.political.13.t:0 "보통 인기도"
 kr.political.13.d:0 "The civilian support for the ruling party has reached an average level, which influences our political power. While we may need to consult our opposition for some reforms, we can still govern well."
 kr.political.13.a:0 "Good."
 
-kr.political.14.t:0 "Low Popularity"
+kr.political.14.t:0 "낮은 인기도"
 kr.political.14.d:0 "The civilian support for the ruling party has reached a low level, which influences our political power. Our opposition is strong enough to form coalitions against us, forcing us to consult and compromise with them often."
 kr.political.14.a:0 "This is bad."
 
-kr.political.15.t:0 "Very Low Popularity"
+kr.political.15.t:0 "매우 낮은 인기도"
 kr.political.15.d:0 "The civilian support for the ruling party has reached a very low level, which influences our political power. Our party is nearly nonexistent, and our reforms live or die on the whims of the opposition."
 kr.political.15.a:0 "It's a catastrophe!"
 
