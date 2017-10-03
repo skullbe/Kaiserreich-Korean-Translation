@@ -6,6 +6,8 @@ IronRiceBowl:0 "철밥통 연습"
 DeGermanise_AOG:0 "회사 탈독일화"
 Reforms_stop:0 "개혁 중단"
 Reforms_Abandoned:0 "개혁 철회"
+AOG_Colonial_Nation:0 "식민지 정부"
+AOG_Colonial_Nation_desc:0 "Despite its limited autonomy in dealings with its neighbours, the AOG is effectively a colonial government; its entire state apparatus hinging on and mantained by German power, with a budget prepared in Berlin, and its currency pegged to the German Mark."
 
 ### Opinion Modifiers ###
 GER_FAC_SHUT_DOWN:0 "독일계 공장 가동 중단"
