@@ -1,6 +1,8 @@
 ﻿l_english:
 
+### WIP ### (Isn't this whole file WIP...)
 brotherhood_of_slavs:0 "슬라브 형제단"
+austrian_sphere:0 "Austrian Sphere"
 
 ### Flags and Tooltips ###
 AUS_economy_ready_tooltip:0 "우리의 경제는 선진적 준비해야합니다. \n\n 이는 당연히 진행중인 경제 위기를 극복해야한다는 것을 의미합니다."
@@ -31,7 +33,6 @@ AUS_unlock_pintsch:0 "이론가로 §YPintsch§W의 잠금을 해제합니다. \
 AUS_unlock_bayer:0 "§YBayer§W 합성 회사의 잠금을 해제합니다. \n\n"
 AUS_italy_friend_planned:0 "이탈리아를 정복하지 않기로 결정했다."
 AUS_stops_italian_revolts:0 "§YItalian Revolts§W가 앞으로 너무 많은 문제를 일으키는 것을 막을 것입니다."
-AUS_unlock_bayer:0 "§YBayer§W 합성 회사의 잠금을 해제합니다. \n\n"
 
 ### Ideas ###
 AUS_part_of_the_Empire:0 "오스트리아 제국의 일부"
@@ -41,7 +42,6 @@ AUS_financial_ties_broken_desc:0 "헝가리의 왕가는 공동 정부의 금고
 
 HUN_financial_ties_broken:0 "오스트리아-헝가리의 관계가 깨졌습니다"
 HUN_financial_ties:0 "오스트리아-헝가리의 관계를 회복합니다"
-
 
 AUS_paid_reparations:0 "헝가리의 전쟁 배상금"
 
@@ -54,14 +54,13 @@ AUS_vienna_circle-1_desc:0 "비엔나 서클은 1924 년 이래 비엔나 대학
 austrian_research_name:0 "비엔나 서클"
 austrian_research_desc:0 "비엔나 서클은 1924 년 이래 비엔나 대학교에서 정기적으로 만난 자연 및 사회 과학, 논리 및 수학에서 파생 된 철학자 및 과학자 그룹입니다. \n\n 그들의 활동 뒤에 숨겨진 핵심 생각은 "종에 대한 정확한 사고(Exact Thinking on the Edge of Doom)"입니다."
 
-AUS_elections:0 "진행중인 선거"
 AUS_socialist_promises:0 "사회주의자들의 약속"
 
 AUS_divided_society:0 "분할 된 사회"
 AUS_divided_society_desc:0 "인구의 거의 절반이 선거 결과에 만족하지 않는다."
 
-AUS_augleich_success:0 "7차 대타협에서의 성공"
-AUS_augleich_failure:0 "7차 대타협에서의 실패"
+AUS_ausgleich_success:0 "7차 대타협에서의 성공"
+AUS_ausgleich_failure:0 "7차 대타협에서의 실패"
 
 AUS_black_monday:0 "검은 월요일(Black Monday)의 여파"
 AUS_black_monday_cs-1:0 "검은 월요일(Black Monday)의 여파"
@@ -97,7 +96,6 @@ AUS_DNF_political_instability-1_desc:0 "국가 개인 자치 원칙이 자리를
 AUS_DNF_political_instability-2:0 "정치적 불안정"
 AUS_DNF_political_instability-2_desc:0 "국가 개인 자치 원칙이 자리를 잡고 있습니다. 오스트리아의 많은 민족들은 현재 정치적 배경을 혼란으로 남겨 채 민족 정당으로 재조직화하고 있습니다. 그런 급진적인 변화는 많은 불안정성을 가져 왔지만 회의론자들조차도 그렇게 나쁘지는 않을 것이라고 예상했다."
 
-
 AUS_modern_army:0 "현대화된 군대"
 Pola_Naval_Mutiny:0 "Pola Naval Mutiny"
 
@@ -107,7 +105,7 @@ Industrial_Reorganisation_DNF:0 "산업 재구성"
 AUS_racial_tensions:0 "민족간 갈등"
 AUS_racial_tensions_desc:0 "새로 태어난 오스트리아 제국에서 민족간 갈등이 고조되고 있습니다. 이러한 긴장을 관리하지 않으면 심각한 문제가 될 수 있습니다."
 AUS_racial_revolts:0 "민족간 반란"
-AUS_racial_revolts:0 "민족간 갈등이 확대되고 공개 반란을 꾀했다. 오스트리아의 암울한 시기다."
+AUS_racial_revolts_desc:0 "민족간 갈등이 확대되고 공개 반란을 꾀했다. 오스트리아의 암울한 시기다."
 
 ### Foci ###
 AUS_eco_council:0 "경제 부흥 계획"
@@ -248,9 +246,13 @@ AUS_capital_ships_effort_desc:0 "해군은 전투에 더 많은 화력을 불어
 AUS_small_ships_effort:0 "오스트리아 소형 선박 계획"
 AUS_small_ships_effort_desc:0 "우리는 잠수함은 훌륭하지만 육상 작전을 지원할 수 있고 적 함선을 마무리할 수 있는, 잠수함이 가지지 못한 화력을 가진 더 큰 함선이 필요합니다. 이에 따라 우리는 적의 잠수함과 수면위의 적과 대치할 수 있는 경순양함과 구축함의 새로운 모델을 개발하기로 결정했습니다."
 
+AUS_cattaro:0 "The Cattaro Airbase"
+AUS_cattaro_desc:0 "First built in 1914 as a base from which reconnaisance flights over the Adria were flown during the Weltkrieg, the k.k. airbase in the Bay of Cattaro, or Kotor, has fallen in disuse after the end of the war. However, its position close to the entry of the Adria might still prove strategically important."
+
 ### Ausgleich 1937
 
 AUS_ausgleich:0 "1937년 대타협의 재협상"
+AUS_ausgleich_desc:0 "-"
 
 ### Occupation branch
 
@@ -449,6 +451,16 @@ AUS_us_united_desc:0 "이름뿐이 아닌 연합"
 AUS_us_looking_outwards:0 "바깥을 바라보다"
 AUS_us_looking_outwards_desc:0 "바깥을 바라보다"
 
+### Foreign Branch
+
+AUS_protector_of_the_balkans:0 "Protector of the Balkans"
+AUS_potb_help_romania:0 "Intervention in Romania"
+AUS_potb_invite_romania:0 "Approaching Romania"
+AUS_potb_albania:0 "Approaching Albania"
+AUS_potb_greece:0 "Approaching Greece"
+AUS_potb_serbia:0 "Dealing with Serbia"
+AUS_potb_serbia_2:0 "The Southern Slavic Question"
+AUS_potb_take_down_bulgaria:0 "The Bulgarian Problem"
 
 ### Parties ###
 AUS_totalist_party:0 "전체주의 인민 회의"
@@ -516,6 +528,18 @@ aus.elections.10.a:0 "오스트리아는 기독교 사회당(CS)이 통치합니
 aus.elections.11.t:0 "SDAP 선거 승리"
 aus.elections.11.d:0 "선거에 대한 최종 완료되었습니다. 매우 작은 차이 였지만 빈에서의 승리로 SDAP가 승리자가 되었습니다.선거에 대한 최종 집계가있다. 매우 작은 차이 였지만 빈에서의 득표로 SDAP가 승리자가 되었습다."
 aus.elections.11.a:0 "오스트리아는 사회 민주당(SDAP)이 통치합니다."
+
+aus.elections.100.t:0 "The Elections"
+aus.elections.100.d:0 "After this hard thought election campaign we shall now find out the winner!."
+aus.elections.100.a:0 "Isn't this exciting!."
+
+aus.elections.101.t:0 "CS win the Elections"
+aus.elections.101.d:0 "The final counts for the elections are in. While it was a close call, the overwhelming majority of the countryside votes have made the CS come first."
+aus.elections.101.a:0 "Austria is Christlich-Sozial."
+
+aus.elections.102.t:0 "SDAP win the Elections"
+aus.elections.102.d:0 "The final counts for the elections are in. While it was a close call, the votes of the City of Vienna have made the SDAP the clear winner."
+aus.elections.102.a:0 "Austria is Social-Democrat."
 
 austria.3.t:0 "칼 황제의 죽음"
 austria.3.d:0 "기관지염으로 고통받던 칼 황제가 오늘 죽었습니다."
@@ -891,6 +915,40 @@ ausgleich.new.336.d:0 "일릴리아 정부가 "일릴리아의 정당한 영토�
 ausgleich.new.336.a:0 "이것은 미친짓이다."
 ausgleich.new.336.b:0 "약속을 행동에 옮길 시간이다."
 ausgleich.new.336.c:0 "그들의 일은 그들에게 맡겨라."
+ausgleich.new.336.e:0 "It's happening."
+
+#WIP
+ausgleich.new.337.t:0 "Austro-Hungarian split of former Illyria"    
+ausgleich.new.337.d:0 "We must choose what to do with the occupied Illyrian lands."
+ausgleich.new.337.a:0 "Restore the 1921 borders."
+ausgleich.new.337.b:0 "Give Croatia-Slavonia to Hungary and restore Illyria in the rest of the land."
+ausgleich.new.337.c:0 "Occupy the whole thing for now."
+
+#WIP
+ausgleich.new.338.t:0 "Austria occupies all of Illyria"
+ausgleich.new.338.d:0 "Austria has chosen not respect their promise. How should we respond?"
+ausgleich.new.338.a:0 "They'll pay for this."
+ausgleich.new.338.b:0 "There is nothing we can do."
+
+#WIP
+ausgleich.new.339.t:0 "Austria declares war on Illyria"
+ausgleich.new.339.d:0 "The treacherous Kaiser has chosen not to respect minority rights"
+ausgleich.new.339.a:0 "For our Slavic brothers!"
+
+#WIP
+ausgleich.new.3391.t:0 "Austria declares war on Illyria"
+ausgleich.new.3391.d:0 "The treacherous Kaiser has chosen not to respect minority rights"
+ausgleich.new.3391.a:0 "For our Slavic brothers!"
+
+#WIP
+ausgleich.new.3310.t:0 "Austria declares war on Illyria"
+ausgleich.new.3310.d:0 "The treacherous Kaiser has chosen not to respect minority rights"
+ausgleich.new.3310.a:0 "How dare they!"
+
+#WIP
+ausgleich.new.3311.t:0 "Austria declares war on Illyria"
+ausgleich.new.3311.d:0 "The treacherous Kaiser has chosen not to respect minority rights"
+ausgleich.new.3311.a:0 "How dare they!"
 
 ausgleich.new.340.t:0 "대타협의 재협상은 끝났습니다."
 ausgleich.new.340.d:0 "대타협은 어제 끝났습니다. 모든 대표단은 오늘 집으로 돌아갔습니다."
@@ -966,7 +1024,7 @@ ausgleich.new.368.t:0 "오스트리아는 우리 당국에 트란실바니아에
 
 ausgleich.new.370.t:0 "헝가리는 우리의 최후 통첩에 동의했습니다."
 ausgleich.new.370.d:0 "헝가리는 분쟁 지역을 떠났으며 우리 군대가 자유롭게 행군하고 질서를 회복 할 수 있게했습니다. 물론 우리가 원하는 질서입니다."
-ausgleich.new.370.t:0 "멋지군."
+ausgleich.new.370.a:0 "멋지군."
 
 ausgleich.new.371.t:0 "헝가리 거절"
 ausgleich.new.371.d:0 "헝가리는 우리의 최후 통첩을 거절하고 분쟁 지역을 떠나기를 거절합니다."
@@ -991,6 +1049,7 @@ ausgleich.new.375.a:0 "헝가리는 재건되어야한다."
 ausgleich.new.375.b:0 "왜 우리는 우리와 싸운 사람들을 해방시켜야하지?"
 
 
+
 ausgleich.new.380.t:0 "오스트리아의 압정"
 ausgleich.new.380.d:0 "오스트리아는 헝가리 국민을 해방시키기를 거부하고 대신 스스로 군주의 역할을 맡았습니다."
 ausgleich.new.380.a:0 "우리는 이것에 대해 무언가를 해야한다."
@@ -1002,6 +1061,7 @@ ausgleich.new.381.a:0 "우리는 이것에 대해 무언가를 해야한다."
 ausgleich.new.381.b:0 "빈에 대항해 우리는 무엇을 할 수 있지?"
 
 
+
 ausgleich.new.700.t:0 "오스트리아의 재통합 요청"
 ausgleich.new.700.d:0 "그들은 우리가 다시 빈에서 통치되야한다고 말합니다."
 ausgleich.new.700.a:0 "빈에 대항해 우리는 무엇을 할 수 있지?"
@@ -1011,3 +1071,48 @@ ausgleich.new.700.c:0 "우리가 반기를 든 곳이 아닌가?"
 ausgleich.new.701.t:0 "[From.GetNameDef]는 재통합에 동의합니다"
 ausgleich.new.701.d:0 "[From.GetAdjective]정부는보다 중앙 집권적인 국가의 제안에 동의했습니다."
 ausgleich.new.701.a:0 "멋지군."
+
+
+
+
+#########################################################################################################################
+### TREE EVENTS
+#########################################################################################################################
+
+aus.tree.4010.t:0 "The German War Effort"
+aus.tree.4011.t:0 "Austria wishes to join the War"
+aus.tree.4011.a:0 "Let them."
+aus.tree.4011.b:0 "We're doing good on our own."
+
+aus.tree.4012.t:0 "Germany declines our Offer"
+aus.tree.4012.a:0 "What a pity."
+aus.tree.4012.b:0 "Does [From.GetLeader] think he can decide this on his own?"
+
+aus.tree.4013.t:0 "Germany allows us to join their War"
+
+
+aus.tree.4020.t:0 "The Albanian Question"
+aus.tree.4021.t:0 "Austria invites us to their Faction"
+aus.tree.4021.a:0 "It's good to have protection."
+aus.tree.4021.b:0 "We're doing well on our own."
+
+aus.tree.4022.t:0 "[From.GetNameDef] declines."
+aus.tree.4023.t:0 "[From.GetNameDef] agrees to join our Sphere."
+
+
+aus.tree.4030.t:0 "The Greek Question"
+aus.tree.4031.t:0 "Austria invites us to their Faction"
+aus.tree.4031.a:0 "It's good to have protection."
+aus.tree.4031.b:0 "We're doing well on our own."
+
+aus.tree.4032.t:0 "[From.GetNameDef] declines."
+aus.tree.4033.t:0 "[From.GetNameDef] agrees to join our Sphere."
+
+
+aus.tree.4040.t:0 "The Romanian Question"
+aus.tree.4041.t:0 "Austria invites us to their Faction"
+aus.tree.4041.a:0 "It's good to have protection."
+aus.tree.4041.b:0 "We're doing well on our own."
+
+aus.tree.4042.t:0 "[From.GetNameDef] declines."
+aus.tree.4043.t:0 "[From.GetNameDef] agrees to join our Sphere."
