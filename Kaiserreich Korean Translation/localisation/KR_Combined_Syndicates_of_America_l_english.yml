@@ -1,6 +1,7 @@
-﻿l_english:
+l_english:
 
 ### Ideas ###
+CSA_militia_idea:0 "혁명군"
 CSA_max_pm:0 "맥스 샤흐트먼"
 detroid_revolt:0 "클리블랜드 반란"
 year_plan_5:0 "5개년 계획"
@@ -10,8 +11,6 @@ CSA_BANKS:0 "CSA의 은행 국영화"
 CSA_PURGED_PSA:0 "PSA 지도자들을 숙청하다"
 CSA_NO_PURGED_PSA:0 "PSA 지도자들이 우리를 위해 일하다."
 CSA_RUSTBELT:0 "러스트밸트의 자원"
-CSA_fighting_women:0 "싸우는 여성"
-CSA_fighting_women_desc:0 "That's the Rebel Girl, that's the Rebel Girl! / To the working class she's a precious pearl. / She brings courage, pride and joy / To the fighting Rebel Boy. / We've had girls before, but we need some more / In the Industrial Workers of the World. For it's great to fight for freedom / With a Rebel Girl"
 CSA_milita_army:0 "민병대에 기초된 군대"
 CSA_milita_army2:0 "민병대에 기초된 군대"
 CSA_organized_army:0 "미국 붉은 군대"
@@ -229,7 +228,7 @@ CSA_syndicalism_desc:0 “우리는 자본주의의 흔적을 치워버리고, �
 CSA_second_convention:0 "두 번째 헌법 제정 회의 "
 CSA_second_convention_desc:0 "일단 혁명을 승리로 이끌었기 때문에, 두 번째 헌법 제정 회의가 열렸습니다. 이 회의는 첫 번째 헌법 제정이 만들어진 도시, 필라델피아에 개최될 예정입니다. 국가의 형태에 대한 많은 의견들이 이 회의에서 다뤄질 것이고 이미 이 회의로 인한 파벌들이 형성되기 시작했습니다."
 CSA_confedration:0 "연합주의자의 승리"
-CSA_confedration_desc:0 "CSA_confedration_desc:0 "필라델피아에서 대표자들이 뜨거운 논쟁을 몇 일간 벌어진 뒤에, 연합주의자들이 승리 했습니다. 그들이 생각하는 미래의 미국은 권력이 주로 연방정부에서보다 주에서 기인하는 상향식 연방 정부입니다.  
+CSA_confedration_desc:0 "필라델피아에서 대표자들이 뜨거운 논쟁을 몇 일간 벌어진 뒤에, 연합주의자들이 승리 했습니다. 그들이 생각하는 미래의 미국은 권력이 주로 연방정부에서보다 주에서 기인하는 상향식 연방 정부입니다."
 CSA_unionist_victory_tooltip:0 "The Unionists will need to be victorious in the convention"
 CSA_checks_balances:0 "견제와 균형"
 CSA_checks_balances_desc:0 "선동자의 위협과 부패한 반동주의자의 영향력으로부터 노동자들의 연합을 보호하기 위해서는, 우리는 반드시 일련의 견제와 균형을 만들어야 합니다. 그리고 우리는 과거 연방의 실패를 기억하고, 반드시 그런 일을 피할 것입니다."
