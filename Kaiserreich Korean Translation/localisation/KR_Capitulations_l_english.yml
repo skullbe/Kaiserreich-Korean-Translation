@@ -1,47 +1,47 @@
 ﻿l_english:
 
 ### Events ###
-capt.1.t:0 "The German Capitulation"
-capt.1.d:0 "We have been beaten by our wretched enemies. They have taken the Fatherland, but the war is far from over!"
-capt.1.a:0 "Annex Mittelafrika and Capitulate to the African Continent."
-capt.1.b:0 "Capitulate to Marokko."
-capt.1.c:0 "Capitulate to Vietnam."
-capt.1.e:0 "Capitulate to New Guinea."
-capt.1.f:0 "Capitulate to Sri Lanka."
-capt.1.g:0 "There is nowhere to run. Surrender!"
+capt.1.t:0 "독일의 무조건 항복"
+capt.1.d:0 "우리는 비열한 적들에게 패배했습니다. 그들이 우리의 조국을 점령했지만, 전쟁은 아직 끝나지 않았습니다!"
+capt.1.a:0 "미텔아프리카를 합병하고 아프리카 대륙으로 수도를 옮긴다."
+capt.1.b:0 "모로코로 수도를 옮긴다."
+capt.1.c:0 "베트남으로 수도를 옮긴다."
+capt.1.e:0 "뉴 기니로 수도를 옮긴다."
+capt.1.f:0 "스리 랑카로 수도를 옮긴다."
+capt.1.g:0 "도망칠 곳은 없다. 항복한다!"
 
-capt.2.t:0 "The German Empire surrenders!"
-capt.2.d:0 "The German Empire, having nowhere to run, chose to submit before our glorious armed forces. Truly, this is a great day for the fatherland!"
-capt.2.a:0 "We are victorious!"
+capt.2.t:0 "독일 제국이 항복하다!"
+capt.2.d:0 "도망칠 곳이 없는 독일 제국은 우리의 영광스러운 군대에 항복하기로 결정했습니다. 오늘은 조국의 가장 위대한 날입니다!"
+capt.2.a:0 "우리는 승리했다!"
 
-capt.3.t:0 "The German Capitulation"
-capt.3.d_MAF:0 "The Kaiser has decreed that Göring is to step down as Statthalter of Mittelafrika. Mittelafrika is to be absorbed back into Germany."
-capt.3.d_TNZ:0 "The Kaiser has decreed that we have to step down as Statthalter of Tanzania. Tanzania is to be absorbed back into Germany with its neighbour countries."
-capt.3.a:0 "Lapdogs no longer! Declare the independence of the Mittelafrikan Empire!"
-capt.3.b:0 "Welcome the exiled government and give in to their demands."
+capt.3.t:0 "독일의 무조건 항복"
+capt.3.d_MAF:0 "카이저는 괴링이 미텔아프리카의 총독에서 물러나도록 명령했습니다. 미텔아프리카는 다시 독일에 흡수될 것입니다."
+capt.3.d_TNZ:0 "카이저는 우리가 탄자니아의 총독에서 물러나도록 명령했습니다. 탄자니아는 이웃 국가들과 함께 다시 독일에 흡수될 것입니다."
+capt.3.a:0 "우리는 더 이상 애완견이 아니다! 미텔아프리카 제국의 독립을 선언한다!"
+capt.3.b:0 "망명 정부를 환영하고 그들의 요구를 들어준다."
 
-capt.4.t:0 "Mittelafrika Declares Independence"
-capt.4.d:0 "The Colonial Administrators in Afrika have gone mad! They have declared independence from the German Government, forcing us to find another capital."
-capt.4.a:0 "Capitulate to Marokko."
-capt.4.b:0 "Capitulate to Vietnam."
-capt.4.c:0 "Capitulate to New Guinea, we have nowhere else left to go."
-capt.4.e:0 "Capitulate to Colombo."
+capt.4.t:0 "미텔아프리카가 독립을 선언하다"
+capt.4.d:0 "아프리카 식민지 관료들이 제정신이 아닙니다! 그들은 독일 정부로부터 독립을 선언했고, 우리가 다른 수도를 찾도록 만들었습니다."
+capt.4.a:0 "모로코로 수도를 옮긴다."
+capt.4.b:0 "베트남으로 수도를 옮긴다."
+capt.4.c:0 "뉴 기니로 수도를 옮긴다, 우리는 더 이상 갈 곳이 없다."
+capt.4.e:0 "콜롬보로 수도를 옮긴다."
 
-capt.5.t:0 "The Reinstatement of Mittelafrika"
-capt.5.d:0 "The Colonial Administrators in Afrika have ceded full control over to the Government."
-capt.5.a:0 "We now rule from Afrika."
+capt.5.t:0 "미텔아프리카의 복권"
+capt.5.d:0 "아프리카 식민지 관료들은 정부에 대한 완전한 통제권을 양도했습니다."
+capt.5.a:0 "우리가 이제 아프리카를 지배한다."
 
-capt.6.t:0 "The New Capital"
-capt.6.d:0 "Berlin is no longer the capital of Germany, we had to relocate to Dar es Salaam."
-capt.6.a:0 "It's just not the same."
+capt.6.t:0 "새로운 수도"
+capt.6.d:0 "베를린은 더 이상 독일의 수도가 아닙니다, 우리는 다르 에스 살람으로 수도를 옮겨야 했습니다."
+capt.6.a:0 "똑같지는 않군."
 
-capt.7.t:0 "The Capitulation of Germany"
-capt.7.d:0 "The German empire capitulated today in the morning under the advance of our and our allies's armies. The German empire couldn't continue the struggle and the Kaiser, his cabinet, the whole apparatus of state and some of the most important generals embarked on a ship to the colonies still in the hand of the Germans and is planning to continue the fight from his new capital."
-capt.7.a:0 "The Kaiserreich has fallen..." #Generic
-capt.7.b:0 "L'Internationale sera le genre humain..." #Commune of France
-capt.7.c:0 "Raise the scarlet standard high!" #Union of Britain
-capt.7.e:0 "Austria is the only German power." #Austria
-capt.7.f:0 "The humiliation of Brest-Litovsk has been reversed!" #Russia
-capt.7.g:0 "The workers did what the Tsar could not!" #Soviets
-capt.7.h:0 "Germany finally paid for the devastation of the Weltkrieg." #Canada
-capt.7.i:0 "The massacres of the Weltkrieg has been avenged" #Nat France
+capt.7.t:0 "독일의 무조건 항복"
+capt.7.d:0 "독일 제국은 오늘 아침 우리와 동맹국들의 군대의 진격 앞에 무조건 항복했습니다. 독일 제국은 더 이상 싸울 수 없었고 카이저와 그의 내각, 국가의 모든 기구와 가장 중요한 장군들 중 일부는 배에 올라 여전히 독일의 수중에 남아있는 식민지들로 도망쳤고 새 수도에서 전쟁을 계속해 나가기 위한 계획을 짜고 있습니다."
+capt.7.a:0 "카이저의 제국(Kaiserreich)은 무너졌다..." #Generic
+capt.7.b:0 "인터내셔널은 인류의 미래가 되리라(L'Internationale sera le genre humain)..." #Commune of France
+capt.7.c:0 "붉은 기를 높이 들어라!" #Union of Britain
+capt.7.e:0 "오스트리아만이 유일한 독일 세력이다." #Austria
+capt.7.f:0 "브레스트-리토프스크 조약의 굴욕은 뒤집혔다!" #Russia
+capt.7.g:0 "차르가 할 수 없었던 일을 노동자들이 해냈다!" #Soviets
+capt.7.h:0 "독일은 마침내 대전쟁의 참상에 대한 대가를 치뤘다." #Canada
+capt.7.i:0 "대전쟁의 대학살은 복수되었다" #Nat France
