@@ -12,9 +12,9 @@ ott_hejaz3:0 "헤자즈 진압"
 ott_hejaz4:0 "헤자즈 반환"
 ott_egy_intervention:0 "이집트 개입"
 ott_egy_coward:0 "불명예스러운"
-egy_suez:0 "수에즈 소유"
+egy_suez:0 "수에즈 장악"
 egy_suez1:0 "우리의 주권을 되찾았다"
-yem_aden:0 "수에즈 소유"
+yem_aden:0 "수에즈 "
 yem_aden1:0 "우리의 주권을 되찾았다"
 ott_cyprus:0 "키프로스 지원"
 ott_cyprus1:0 "키프로스 포기"
@@ -330,307 +330,307 @@ ott.3.t:0 "초기 안정화"
 ott.3.d:0 "위기의 첫번째 물결이 서서히 지나가면서, 덜 영향 받은 경제의 일부가 밑바닥에서부터 되살아나고 있다. 여전히, 우리 경제의 전반적인 상태는 낙관적이지는 않다."
 ott.3.a:0 "곧 안정화가 이루어지기를 바란다"
 
-ott.4.t:0 "Government intervention"
-ott.4.d:0 "With at least partial political stabilisation finally in place, we are prepared to enact a series of intensive reforms, aimed at restoring pre-crisis industrial power."
-ott.4.a:0 "Excellent!"
-
-ott.5.t:0 "Further stabilisation"
-ott.5.d:0 "Thanks to renewed interest of foreign companies, our economy continues to regain pre-crisis efficiency."
-ott.5.a:0 "Keep it up!"
-
-ott.6.t:0 "Request of the International Jewish Lobby"
-ott.6.d:0 "The Ottoman authorities have always welcomed the Jews. Since the reign of Sultan Bayezid II, who allowed the settlement of the Iberian Jews in his lands after their expulsion from Spain, they have been an integral part of the empire. However, since the rise of Zionism, laws have been passed to prevent the mass settlement of foreign Jews in Palestine, while avoiding restriction on their pilgrimages. Recently we have been approached by an international Jewish lobby, asking for less constricting laws."
-ott.6.a:0 "Very well, allow limited settlement of foreign Jews in Palestine"
-ott.6.b:0 "Grant complete freedom of settlement to all non-Ottoman Jews"
-ott.6.c:0 "We will not jeopardise the stability of Palestine!"
-
-ott.7.t:0 "Settlers in Palestine"
-ott.7.d:0 "The incredible number of Jews who flocked towards Palestine after the passage of new Settlement Laws caused a drastic demographic change in the region. Since their settlement in Jerusalem and the environs, it has become clear that Hebrew is rapidly becoming the second, and some might even argue first language of Palestine. The ideals of Zionism have also entered our lands, and several Judaic factions have already requested increasing amounts of autonomy, even verging on demands for independence."
-ott.7.a:0 "Our greatness came from centralised government, not giving away power!"
-ott.7.b:0 "Grant them local autonomy"
-
-ott.8.t:0 "The Great Arabian Revolt!"
-ott.8.d:0 "In the middle of 1944, faced with mounting oppression from their Turkish masters, several Arab cities erupted in open revolt. Mobs began burning down Ottoman institutions and raided police and military bases. From Baghdad to Jerusalem, Arabs have risen up against the Ottoman Empire."
-ott.8.a:0 "We will crush them!"
-
-ott.9.t:0 "Second Arabian Revolt!"
-ott.9.d:0 "In the middle of 1946 several Arabian tribes united their efforts to destabilise the Ottoman Empire again. Will it succeed this time?"
-ott.9.a:0 "We will crush them again!"
-
-ott.10.t:0 "Arabian Revolt Crushed"
-ott.10.d:0 "Rejoice! Our invincible armies have successfully defeated the Bedouin rabble. Once again their uprising was futile."
-ott.10.a:0 "Those ungrateful rebels will never learn from the past!"
-
-ott.11.t:0 "Arabian Revolt successful!"
-ott.11.d:0 "The Syrian and Iraqi nationalist movements have defeated our armies and even begun to occupy our lands! Shall we offer them peace?"
-ott.11.a:0 "Accept their independence, we have been beaten..."
-ott.11.b:0 "Keep fighting!"
-
-ott.12.t:0 "Nationalist Rebels Successful"
-ott.12.d:0 "This is a great victory and all, but why are you reading through the localisation file entries of a hidden event in an obscure wehraboo mod that nobody actually plays?"
-ott.12.a:0 "Oh shid you caught me :DDDD"
-
-ott.13.t:0 "Status Quo Ante Bellum"
-ott.13.d:0 "After narrowly escaping defeat and destruction in the Weltkrieg, the Ottomans found that they had lost much for little gain. Suffering through 12 years of war, disease and poverty, the Ottoman Empire had gained nothing to show for it. Following the gloomy conclusion of the disastrous war, Enver, Talat and Cemal Pashas attempted to reinforce their authority, but the Committee of Union and Progress government had lost all credibility by then. Added to this was the immense pressure from various groups to prosecute the Young Turks responsible for dragging the Empire into war. This quickly led to the downfall of the triumvirate, who escaped abroad. With German support the Ottoman Sultan had regained a semblance of authority, albeit weak. Unfortunately the Germans had an interest in maintaining the status quo and so consistently backed the monarchy in any clashes with opposition groups, while at the same time letting Sultan Mehmed VI know that noncompliance on his part would lead to a withdrawal of their support. In 1936 then the Empire is staggering and slipping. More and more groups demanding reforms are appearing, to be joined by various nationalist groups intent on achieving independence. Economically too it is reliant on German support, especially the oil trade from the Middle East. In other words the Ottoman Empire is now the 'terminally ill man of Europe'."
-ott.13.a:0 "Calm before the storm..."
-
-ott.14.t:0 "Our lands expand"
-ott.14.d:0 "Following years of contention involving domestic Arab nationalists, the Ottoman Empire has released several of its provinces to our control."
-ott.14.a:0 "Good for them!"
-
-ott.15.t:0 "Nawruz Day Riots"
-ott.15.d:0 "Dissatisfaction in the Kurdish parts of our empire has reached a boiling point, with many demanding greater autonomy and some going as far as to demand outright independence. The March 21st is an important date for these separatists, as it marks the day of traditional spring festivities and the Persian New Year. During this year's Nawruz celebrations, a seemingly small incident in Diyarbakır quickly got out of hand and turned into large-scale revolt. Protests and riots are erupting across our Kurdish provinces, and while we have reason to suspect the syndicalists are behind it all, many Kurdish landowners and tribes have declared their support for the movement as well."
-ott.15.a:0 "This does not look good..."
-
-ott.16.t:0 "Kurdish Uprising"
-ott.16.d:0 "As the Ottoman Gendarmerie failed to defuse the situation, Kurdish riots grew day by day. The rebellious Kurdish subjects of the Sultan had grown tired of the repression and lack of autonomy. Open uprisings were reported in all Kurdish majority areas of the Empire. Could this be the final blow to Sick man of Europe?"
-ott.16.a:0 "We'll See..."
-
-ott.17.t:0 "Report from the East"
-ott.17.d:0 "With regions inhabited by Kurds in open rebellion, the stability of the Ottoman Empire is on the verge of collapse since one successful uprising can cause a Domino effect in our Arabian provinces and subject states. We must crush this uprising quickly."
-ott.17.a:0 "Crush the enemies of the Devlet-i Aliye!"
-ott.17.b:0 "Perhaps they deserve independence..."
-
-ott.18.t:0 "Kurdish uprising crushed!"
-ott.18.d:0 "Our military has successfully taken control of all Kurdish national territory. Once again their uprising was futile."
-ott.18.a:0 "These Kurds will never learn from the past!"
-
-ott.19.t:0 "Kurdistan still exists!"
-ott.19.d:0 "Even the concentration of our elite armed forces could not break apart the rebellious state of Kurdistan. Some members of the general staff suggest that continuing with this fruitless effort greatly weakens our forces facing the hostile Arabian states of Hejaz and Egypt. Shall we recognise the independence of Kurdistan?"
-ott.19.a:0 "Accept their independence..."
-ott.19.b:0 "Never!"
-
-ott.20.t:0 "Kurds leaving to join uprising"
-ott.20.d:0 "The eruption of the Kurdish uprising in the Ottoman Empire convinced part of our Kurdish population to leave the country to join the uprising. Shall we allow them to leave our country to join the uprising?"
-ott.20.a:0 "Well, who cares?"
-ott.20.b:0 "Prevent them from leaving"
-
-ott.21.t:0 "Kurdish volunteers from Persia"
-ott.21.d:0 "Our fight for the freedom of the Kurdish nation has attracted the attention of all Kurds. Many have decided to leave their homelands to join our fight for freedom!"
-ott.21.a:0 "We need all the help we can get!"
-
-ott.22.t:0 "The Future of Kurdistan"
-ott.22.d:0 "After the bloody liberation war against the Ottomans it is now time to decide the fate of Kurdistan, shall we introduce democracy based on the people's will to Kurdistan, or do we need the stability offered by a monarch to lead us to prosperity?"
-ott.22.a:0 "Introduce democracy to Kurdistan!"
-ott.22.b:0 "A Kurdish King shall bring stability!"
-
-ott.23.t:0 "General Elections in Kurdistan!"
-ott.23.d:0 "Since the beginning of the struggle for freedom many different parties have claimed that they are the one true ruler of Kurdistan. Four big parties have a chance of winning, Partiya Sosyalisti, a radical socialistic party. The second party is the Partiya Demokrate Kurdistan, a social conservative party. The third option is the Partiya Azadi, a social democratic party! The last choice is the radical Partiya Serbokho, a nationalist party."
-ott.23.a:0 "Solidarity, Brotherhood and Freedom! Partiya Sosyalisti"
-ott.23.b:0 "Democracy and Freedom! Partiya Demokrate Kurdistan!"
-ott.23.c:0 "Farms, Industries and Development! Partiya Azadi!"
-ott.23.e:0 "Our People, Our Land, Our Future! Partiya Serbokho!"
-
-ott.24.t:0 "Foreign Affairs"
-ott.24.d:0 "During the election Partiya Sosyalisti said that if they would win they would seek protection and cooperation from the Internationale, now it is time to decide if we should do so or remain in isolation."
-ott.24.a:0 "Try to join the Internationale"
-ott.24.b:0 "Isolationism will protect Kurdistan"
-
-ott.25.t:0 "Kurdistan wants to join the Internationale"
-ott.25.d:0 "Our Socialist friends in Kurdistan want to join the Internationale, hoping that membership in our alliance will protect the independence of their newborn state. Although some eager officers are arguing for the immediate acceptance of Kurdistan into the Internationale, most of them are against such a drastic move, and opt for a simple guarantee of their independence."
-ott.25.a:0 "Invite Kurdistan into the Internationale!"
-ott.25.b:0 "Just guarantee their independence."
-ott.25.c:0 "No, we have no interests there."
-
-ott.26.t:0 "Kurdistan joins the Internationale"
-ott.26.d:0 "France accepted our offer and now we are a member of the Internationale! Membership in such a powerful military alliance will definitely ensure our independence. Viva la Internationale!"
-ott.26.a:0 "Biji Biji!"
-
-ott.27.t:0 "Kurdistan receives formal guarantee"
-ott.27.d:0 "Our French comrades are reluctant to make us a full member of the Internationale, for now they have decided to guarantee our independence instead."
-ott.27.a:0 "That's something, at least..."
-
-ott.28.t:0 "Kurdistan receives formal rejection!"
-ott.28.d:0 "Unbelievable! Those traitors in the Commune of France have rejected our request to join the Internationale!"
-ott.28.a:0 "Fransa bize bohmir"
-
-ott.29.t:0 "The Ottoman Public Debt Administration"
-ott.29.d:0 "Founded in 1881 the Ottoman Public Debt Administration (OPDA) was an European-controlled organisation that monitored and collected debt owed by the Ottoman State to European creditors in the private and public sectors. Most of the debt had been owed to French and British government as well as private institutions and had, as a consequence, been unilaterally defaulted by the Ottoman government when revolution swept away the regimes in London and Paris. However, the OPDA is still in existence and is now fully controlled by German and Austrian administrators, mainly concerned with regaining the capital loaned to Kostantiniyye during the Weltkrieg."
-ott.29.a:0 "With friends such as these..."
-
-ott.30.t:0 "Dissatisfaction in Hejaz"
-ott.30.d:0 "Increasing levels of Arab nationalism is spreading dissatisfaction among our subjects. The independent state of Hejaz is a constant symbol of freedom from control of Kostantiniyye. How shall we deal with these dissenting elements in our diverse Empire?"
-ott.30.a:0 "Ignore the problem and hope it goes away."
-ott.30.b:0 "Grant more autonomy to local governments."
-ott.30.c:0 "Crackdown on the dissidents!"
-
-ott.31.t:0 "Arab nationalists threaten revolt"
-ott.31.d:0 "The 25th anniversary of our entry into the Weltkrieg is approaching on October 28th and Arab nationalists are using the event as an excuse to protest the government. This time angry crowds risk the outbreak of violence and open rebellion. How shall we respond?"
-ott.31.a:0 "C'mon guys, I thought we are all Muslims in here?"
-ott.31.b:0 "Send in the Gendarmerie and local inzibat units."
-ott.31.c:0 "Declare martial law and send in the army"
-
-ott.32.t:0 "25th Anniversary of War Sparks Riots"
-ott.32.d:0 "The 25th anniversary of our entry into the Weltkrieg has sparked angry riots as Arab nationalists take to the streets to show their discontent with the Ottoman government. Police are having a hard time keeping control of the situation and many local officers have joined the rioters."
-ott.32.a:0 "Fine, let them join Hejaz if that's what they want."
-ott.32.b:0 "Put down the revolt, but let it end there."
-ott.32.c:0 "Put down the revolt, and declare war on Hejaz."
-
-ott.33.t:0 "Our lands expand!"
-ott.33.d:0 "Following years of contention involving domestic Arab nationalists, the Ottoman Empire has released several of its provinces to our control."
-ott.33.a:0 "Good for them!"
-
-ott.34.t:0 "Ottoman Aggression Demands a Response!"
-ott.34.d:0 "Following years of contention involving domestic Arab nationalists, the Ottoman Empire has declared war on the independent kingdom of Hejaz. Arab solidarity demands a response!"
-ott.34.a:0 "We shall aid our brothers."
-ott.34.b:0 "That sounds too dangerous!"
-
-ott.35.t:0 "Egypt comes to our aid!"
-ott.35.d:0 "Our brothers in Cairo decided to help us in our fight against the Ottomans."
-ott.35.a:0 "Ya Ka3 Trabch!" #Ka3??? #it's an arab meme
-
-ott.36.t:0 "Egypt intervenes!"
-ott.36.d:0 "Cairo has decided to intervene in our conflict against the Hashemites!"
-ott.36.a:0 "We will crush them both!"
-
-ott.37.t:0 "German Empire in disarray"
-ott.37.d:0 "With the German Empire in turmoil, we have a great opportunity to seize control of the Suez canal. There is very little that the German Empire can do to stop us at this point."
-ott.37.a:0 "Seize control of the Suez!"
-ott.37.b:0 "Rather not"
-
-ott.38.t:0 "Egypt takes control over Suez Canal!"
-ott.38.d:0 "With our empire in chaos Egypt used this opportunity to seize control of the Suez canal. Currently there is very little that we can do to stop Egypt at this point."
-ott.38.a:0 "There is nothing we can do"
-ott.38.b:0 "This means WAR!"
-
-ott.39.t:0 "Cypriot Uprising"
-ott.39.d:0 "With the weakness of our empire clearly exposed by the latest series of revolts against the central power in Kostantiniyye, it is no surprise that dissatisfied Greek inhabitants of Cyprus used this opportunity to revolt against our rule..."
-ott.39.a:0 "Another revolt!"
-
-ott.40.t:0 "Cypriot Uprising!"
-ott.40.d:0 "With regions inhabited by Cypriot Greeks declaring independence from us, the stability of our empire is further endangered. Turkish Cypriots are organising in the north, and this could give us the opportunity to send reinforcements before the Greek forces manage overrun the whole island. We must crush this uprising quickly."
-ott.40.a:0 "Very well, commence Operation Atilla."
-ott.40.b:0 "Let them have their independence..."
-
-ott.41.t:0 "Cypriot uprising crushed!"
-ott.41.d:0 "Our military has successfully taken control of Cyprus. Once again their uprising was futile."
-ott.41.a:0 "These Greeks will never learn from the past!"
-
-ott.42.t:0 "Destroying the Cypriot fortifications"
-ott.42.d:0 "The Cypriot uprising was crushed by our invincible army, but in some parts of their territory, the forts remained. These are useless for us but future rebels could use them - against us. What shall we do?"
-ott.42.a:0 "Destroy them! And carve the Ottoman flag into the mountain while you are at it..."
-
-ott.43.t:0 "Greek Cypriots successfully resist!"
-ott.43.d:0 "Our armed forces could not break apart the rebellious state of Cyprus. Some members of the general staff suggest that continuing with this fruitless effort greatly weakens our forces facing the hostile Arabian states of Hashemite Arabia and Egypt. Shall we recognise the independence of Cyprus?"
-ott.43.a:0 "Accept their independence..."
-ott.43.b:0 "Never!"
-
-ott.44.t:0 "Send aid to our brothers in Cyprus?"
-ott.44.d:0 "The Greek inhabitants of Cyprus people have risen against their Ottoman overlords, wanting to finally break free from them. This presents us with the option to significantly weaken the Ottoman Empire via supporting the Cypriot independence movement..."
-ott.44.a:0 "Send aid to Cyprus!"
-ott.44.b:0 "We cannot do anything..."
-
-ott.45.t:0 "Aid from Greece"
-ott.45.d:0 "Greece has sent us large amounts of supplies and volunteers eager to help us prevail against the Ottoman Empire!"
-ott.45.a:0 "Great!"
-
-ott.46.t:0 "End of the Cypriot war"
-ott.46.d:0 "For good or ill, the Cypriot war is now over. The General Staff has reported that they learned many valuable lessons regarding the nature of modern warfare over the course of the conflict."
-ott.46.a:0 "Great!"
-
-ott.47.t:0 "Foreign policy"
-ott.47.d:0 "With our independence secured, it is now time to decide our foreign orientation. Currently we can try to reunite with Greece as we tried in past, or maintain our independence and remain in isolation."
-ott.47.a:0 "We must reunite with Greece!"
-ott.47.b:0 "Cyprus shall stand alone!"
-
-ott.48.t:0 "Cyprus wishes unification"
-ott.48.d:0 "After years of Ottoman occupation, the people of Cyprus have decided to throw off the shackles of Ottoman oppression and unify with us."
-ott.48.a:0 "Annex Cyprus!"
-ott.48.b:0 "It is too risky"
-
-ott.49.t:0 "Status of Armenia"
-ott.49.d:0 "For many years, the Ottomans have been free to impose their tyrannical will over us. Today, problems have arisen for the Ottomans, and this presents as with a chance to free ourselves from Ottoman dominance once and for all and establish a free and independent Armenia."
-ott.49.a:0 "Declare complete independence from the Ottomans!"
-ott.49.b:0 "The time is not right!"
-
-ott.50.t:0 "Armenia declares independence!"
-ott.50.d:0 "For many years, we have ruled over Armenia. But today, with our country engaged in a lengthy conflict, Armenia has decided to use this opportunity to break from our dominance, inciting riots in the eastern parts of our empire inhabited by Armenian minorities in the process. How should we react to this mess?"
-ott.50.a:0 "Crush this upstart!"
-ott.50.b:0 "Let them go"
-
-ott.51.t:0 "Armenia still exists!"
-ott.51.d:0 "Even the concentration of our elite armed forces could not break apart the rebellious state of Armenia. Some members of the general staff suggest that continuing with this fruitless effort greatly weakens our forces facing the hostile Arabian states of Hashemite Arabia and Egypt. Shall we recognise the independence of Armenia?"
-ott.51.a:0 "Accept their independence..."
-ott.51.b:0 "Never!"
-
-ott.52.t:0 "German Empire in disarray"
-ott.52.d:0 "With the German Empire in turmoil, we have a great opportunity to seize control of Aden. There is very little that the German Empire can do to stop us at this point."
-ott.52.a:0 "Seize control of Aden!"
-ott.52.b:0 "Rather not"
-
-ott.53.t:0 "Yemen takes control of Aden!"
-ott.53.d:0 "With our empire in chaos, Yemen used this opportunity to seize control of Aden. There is very little that we can do to stop Yemen at this point."
-ott.53.a:0 "There is nothing we can do"
-ott.53.b:0 "This means WAR!"
-
-ott.54.t:0 "The Treaty of Jerusalem"
-ott.54.d:0 "We've been beaten by the armed forces of the Arabian states. How did this happen? They've captured the majority of our Arabian territory! We should offer peace to them while we can!"
-ott.54.a:0 "Offer peace treaty, recognising Arabian territorial gains."
-ott.54.b:0 "No, the war will continue until we march through Cairo!"
-
-ott.55.t:0 "The Treaty of Jerusalem"
-ott.55.d:0 "We've successfully beaten the armed forces of the Ottoman Empire and conquered large parts of their empire. Now the humiliated Ottoman leadership offers us peace in which they promise to recognise our territorial gains and withdraw from the disputed territory. How shall we react?"
-ott.55.a:0 "Accept the proposal, this is more than we hoped!"
-ott.55.b:0 "No, the war will continue until our army marches through Kostantiniyye!"
-
-ott.56.t:0 "The Treaty of Jerusalem"
-ott.56.d:0 "According to the Treaty of Jerusalem we must withdraw our force from the remaining parts of our Arabian provinces..."
-ott.56.a:0 "How humiliating!"
-
-ott.57.t:0 "The Arabs refused to sign the treaty!"
-ott.57.d:0 "The Arabian states refused our generous peace offer and renewed military actions..."
-ott.57.a:0 "They will pay for this..."
-
-ott.58.t:0 "Dividends from the Treaty of Jerusalem"
-ott.58.d:0 "The Arabian bloc was successful in its conflict with the Ottoman Empire and we were able to gain large swathes of Ottoman territory. Now comes the time for honouring the plans made at the Arab Congress in Cairo."
-ott.58.a:0 "Honour the Pact!"
-ott.58.b:0 "Honour the Pact!"
-ott.58.c:0 "We shall keep our conquests!"
-
-ott.59.t:0 "The Treaty of Damascus"
-ott.59.d:0 "We've been beaten by the armed forces of the Arabian states. How did this happen? They've captured all our Arabian territory and even occupied parts of Anatolia! We should offer peace to them while we can!"
-ott.59.a:0 "Offer peace treaty, recognising Arabian territorial gains."
-ott.59.b:0 "No, the war will continue until we march through Cairo!"
-
-ott.60.t:0 "The Treaty of Damascus"
-ott.60.d:0 "We've successfully beaten the armed forces of the Ottoman Empire and conquered large parts of their empire. Now the humiliated Ottoman leadership offers us peace in which they promise to recognise our territorial gains and withdraw from the disputed territory. How shall we react?"
-ott.60.a:0 "Accept the proposal, this is more than we hoped!"
-ott.60.b:0 "No, the war will continue until our army marches through Kostantiniyye!"
-
-ott.61.t:0 "The Treaty of Damascus"
-ott.61.d:0 "According to the Treaty of Damascus we must withdraw our force from the remaining parts of our Arabian provinces..."
-ott.61.a:0 "How humiliating!"
-
-ott.62.t:0 "Arabs refused to sign the treaty!"
-ott.62.d:0 "The Arabian states refused our generous peace offer and renewed military actions..."
-ott.62.a:0 "They will pay for this..."
-
-ott.63.t:0 "New Territories"
-ott.63.d:0 "The Arabian bloc was successful in its conflict with the Ottoman Empire and we were able to gain large swathes of Ottoman territory."
-ott.63.a:0 "Great!"
-
-ott.64.t:0 "The Treaty of Beyrut"
-ott.64.d:0 "Our attempt to crush Ottoman Empire together with our allies from the Arabian bloc failed miserably! After our initial advance the armed forces of the Ottoman Empire counter-attacked and have driven us from all our captured territory. We should offer peace to them while we can!"
-ott.64.a:0 "Beg the Ottomans for peace!"
-ott.64.b:0 "No, the war will continue until we march through Kostantiniyye!"
-
-ott.65.t:0 "The Treaty of Beyrut"
-ott.65.d:0 "We've successfully beaten the armed forces of the Arabian bloc and captured large parts of their countries. Now the humiliated Egyptian leadership offers us peace in which they promise to recognise our territorial integrity and withdraw from the disputed territory. How shall we react?"
-ott.65.a:0 "Accept the proposal, force harsh terms upon them!"
-ott.65.b:0 "No, we do not negotiate with our eyalets!"
-
-ott.66.t:0 "The Treaty of Beyrut"
-ott.66.d:0 "According to the Treaty of Beyrut we must withdraw our forces from the remaining parts of occupied Ottoman territory..."
-ott.66.a:0 "How humiliating!"
-
-ott.67.t:0 "Ottomans refused to sign peace treaty!"
-ott.67.d:0 "The Ottoman Empire refused our peace offer and renewed military actions! They seek to annex our kingdom!"
-ott.67.a:0 "May Allah have mercy on our souls..."
-
-ott.68.t:0 "The Treaty of Damascus"
-ott.68.d:0 "We've been beaten by the armed forces of the Arabian states. How did this happen? They've captured all our Arabian territory and even occupied parts of Anatolia! We should offer peace to them while we can!"
-ott.68.a:0 "Offer peace treaty, recognise Arabian territorial gains"
-ott.68.b:0 "No, the war will continue until we march through Cairo!"
+ott.4.t:0 "정부 개입"
+ott.4.d:0 "최소한 부분적인 정치적 안정을 위해, 우리는 위기 이전 산업을 회복하기 위한 일련의 집중적인 개혁을 단행할 준비가 되어 있다."
+ott.4.a:0 "훌륭해!"
+
+ott.5.t:0 "추가 안정화"
+ott.5.d:0 "외국 기업의 새로운 관심으로 인해 우리 경제는 위기 이전의 효율성을 되찾고 있습니다."
+ott.5.a:0 "계속해!"
+
+ott.6.t:0 "국제 유대인 로비 단체의 요청"
+ott.6.d:0 "오스만 제국 당국은 언제나 유대인들을 환영했다. 그들이 스페인에서 추방당한 후 이베리아 유대인의 정착을 허용했던 술탄 Bayezid 2세의 통치 이후, 그들은 제국의 필수적인 부분이었다. 하지만, 시오니즘의 출현 이래로 팔레스타인에 있는 외국인 유대인들의 대량 학살을 막는 한편, 그들의 순례 행위에 대한 제한을 하는 법이 통과되었습니다. 최근에 국제 유대인 로비 단체는 우리에게 덜 엄격한 법률을 요구했습니다."
+ott.6.a:0 "아주 좋아,팔레스타인에 외국인 유대인들의 제한적 정착을 허용한다."
+ott.6.b:0 "모든 비 오스만 유태인에게 완전한 정착의 자유를 부여한다"
+ott.6.c:0 "우리는 팔레스타인의 안정을 위태롭게하지 않을 것이다!"
+
+ott.7.t:0 "팔레스타인 정착민들"
+ott.7.d:0 "새로운 정착 법 통과 이후 팔레스타인으로 몰려든 유대인 수는 이 지역에서 인구 변화가 급격히 일어났습니다. 예루살렘과 그 주변에 정착 한 이래로 히브리어가 급속히 두 번째가 되고, 심지어 일부는 팔레스타인의 제1 언어를 될 수도 있다고 주장합니다. 시오니즘의 이상 또한 우리 땅으로 들어왔고 몇몇 유대인 당국은 이미 독립 요구에 대해 더욱더 자치권을 요구했습니다."
+ott.7.a:0 "우리의 위대함은 권력을 포기하지 않는 중앙 집권적 정부로부터 나온 것이다."
+ott.7.b:0 "그들에게 지방 자치권을 부여하라."
+
+ott.8.t:0 "위대한 아라비아 반란!"
+ott.8.d:0 "1944년 중반에 터키의 주인들로부터 억압을 받자, 몇몇 아랍 도시들은 폭동을 일으켰다. 폭도들은 오스만 제도를 타도하고 경찰과 군사 기지를 급습하기 시작했다. 바그다드에서 예루살렘까지, 아랍인들은 오스만 제국에 대항하여 봉기했다."
+ott.8.a:0 "우리는 그것들을 부숴 버릴 거야!"
+
+ott.9.t:0 "2차 아라비아 반란!"
+ott.9.d:0 "1946년에 몇몇 아라비아 부족들은 오스만 제국을 다시 파괴하기 위해 그들의 노력을 통합했다. 이번에는 성공할까?"
+ott.9.a:0 "우리는 그것들을 다시 부숴 버릴 거야!"
+
+ott.10.t:0 "아라비아 반란 진압"
+ott.10.d:0 "축하합니다! 우리의 무적의 군대는 베두인군을 성공적으로 패배시켰다. 다시 한번 그들의 반란은 헛된 것이었다."
+ott.10.a:0 "배은망덕한 반역자들은 결코 과거로부터 배우지 못할 것이다!"
+
+ott.11.t:0 "아라비아 반란 성공!"
+ott.11.d:0 "시리아와 이라크 민족주의 운동은 우리의 군대를 패배시켰고 심지어 우리의 영토를 차지하기 시작했습니다! 우리가 그들에게 평화를 제안할까요?"
+ott.11.a:0 "그들의 독립을 인정하자 우리는 이미 패배했다..."
+ott.11.b:0 "계속 싸워라!"
+
+ott.12.t:0 "민족 주의자 반군 성공"
+ott.12.d:0 "이것은 대단한 승리입니다만, 왜 아무도 실제로 연주하지 않는 애매한 wehraboo 모드에서 숨겨진 이벤트의 현지화 파일 항목을 읽는 중입니까?"
+ott.12.a:0 "오, 네가 날 잡았구나 :DDDD"
+
+ott.13.t:0 "전쟁 전의 현상 유지"
+ott.13.d:0 "세계 대전급의 패배와 파괴를 가까스로 모면한 후, 오스만 투르크는 그들이 거의 이익을 얻지 못한 것을 깨달았다. 12년간의 전쟁, 질병, 빈곤을 겪으면서 오스만 제국은 그것에 대한 아무런 성과도 얻지 못 했다. 비참한 전쟁의 어두운 종결에 뒤이어 엔베르, 탈라트, 케말 파샤는 그들의 권위를 강화하려 했으나, 그 당시의 위원회는 그때까지의 모든 신뢰를 잃었다. 이에 더해, 이 단체는 이 제국을 전쟁으로 이끈 청년 투르크들을 기소하기 위한 다양한 집단들로부터 엄청난 압박감을 받았다. 이로 인해 외국으로 탈출한 삼두 정치의 몰락이 순식간에 일어났다. 독일의 지원으로 오스만 술탄은 약했지만 권위 있는 모습을 되찾았습니다. 불행하게도, 독일군은 현 상황을 유지하는 것에 관심을 갖고 있었고, 야당들과 반대로 군주제를 지지하는 동시에, 술탄 Mehmed 6세는 자신의 역할에 대한 불복종이 그들의 지지를 철회할 것이라는 것을 알고 있다. 1936년에 제국은 충격적이었고 흔들렸다. 개혁을 요구하는 다양한 민족주의 단체들이 참여하였는데, 이는 독립을 쟁취하려는 다양한 민족주의 단체들이 참여하고 있기 때문이다. 경제적으로는 독일의 지원에 의존하고 있다. 특히 중동에서의 석유 무역에 의존하고 있다. 다른 말로 하자면, 오스만 제국은 이제 유럽의 불치병 걸린 사람이다."
+ott.13.a:0 "폭풍 전야 로군..."
+
+ott.14.t:0 "우리 땅이 넓어진다"
+ott.14.d:0 "수년 간의 아랍 민족주의자들과 관련된 수년 간의 논쟁 끝에, 오스만 제국은 몇개의 지방 자치 단체들을 우리의 통제 하에 놓았다."
+ott.14.a:0 "잘했어!"
+
+ott.15.t:0 "나우르즈 날의 폭동"
+ott.15.d:0 "우리 제국의 쿠르드족 지역에 대한 불만족은 많은 자치권을 요구하고 있으며, 많은 사람들이 더 많은 자치권을 요구하고 있으며, 일부는 명백한 독립을 요구하고 있다. 3월 21일은 분리 주의자들에게 중요한 날이며, 이는 전통적인 봄 축제와 페르시아의 새해를 기념하는 날이다. 올해 나우루즈 기념일 동안, Diyarbakır에서의 작은 사건이 곧바로 대규모 폭동으로 변했다. 쿠르드 지방에서 시위와 폭동이 발생하고 있는 와중에, 우리는 생디칼리스트가 배후에 있다고 의심하고 있는 반면, 많은 쿠르드족들과 부족들은 이 운동에 대한 지지를 표명했습니다."
+ott.15.a:0 "이건 좋지 않아 보이는데..."
+
+ott.16.t:0 "쿠르드족 반란"
+ott.16.d:0 "오스만 헌병대가 사태를 진정시키지 못했기 때문에, 쿠르드 족의 폭동은 하루 종일 계속되었다. 술탄에 반항적인 쿠르드 족들은 억압과 자치권 부족에 질려 있었다. 제국의 모든 쿠르드 지역에 걸쳐 열린 폭동이 보도되었다. 이것이 유럽의 병자에게 최후의 일격이 될 수 있을까?"
+ott.16.a:0 "나중에 보자..."
+
+ott.17.t:0 "동쪽으로의 보고서"
+ott.17.d:0 "공개 반란으로 쿠르드족이 살고있는 지역에서 오스만 제국의 안정은 한 번의 성공적인 반란이 아라비아의 주와 주에서 도미노 효과를 일으킬 수 있기 때문에 붕괴 직전에 있습니다. 우리는 이 폭동을 빨리 진압해야 한다."
+ott.17.a:0 "Devlet-i Aliye의 적들을 쳐부숴라!"
+ott.17.b:0 "아마도 그들은 독립을 누릴 자격이 있을지도 모른다..."
+
+ott.18.t:0 "쿠르드족 폭동이 진압되었다!"
+ott.18.d:0 "우리 군은 쿠르드족의 모든 영토를 장악했다 다시 한번 그들의 반란은 헛된 것이었다."
+ott.18.a:0 "이 쿠르드 족들은 결코 과거로부터 배우지 못할 것이다!"
+
+ott.19.t:0 "쿠르디스탄이 여전히 존재한다!"
+ott.19.d:0 "우리 정예 부대의 집중으로도 쿠르드족의 반란을 진압할 수 없었다. 일부 참모들은 이러한 성과를 계속해서 감내하고 있는 것은 헤자즈와 이집트의 적대적인 아라비아 국가들 직면하고 있는 우리의 힘을 약화시키는 것이라고 주장한다. 쿠르디스탄의 독립을 인정할까요?"
+ott.19.a:0 "그들의 독립을 받아들여라..."
+ott.19.b:0 "절대!"
+
+ott.20.t:0 "반란에 가담하는 쿠르드족"
+ott.20.d:0 "오스만 제국에서의 쿠르드족 봉기의 발발은 쿠르드족 인구의 일부가 반란에 가담하도록 우리의 쿠르드족 인구를 설득시켰다. 우리는 그들이 우리 나라를 떠나 폭동에 가담하도록 허락할까요?"
+ott.20.a:0 "뭐, 누가 상관하겠어?"
+ott.20.b:0 "그들이 떠나는 것을 막는다."
+
+ott.21.t:0 "페르시아 출신의 쿠르드족 자원병"
+ott.21.d:0 "쿠르드족의 자유를 위한 우리의 투쟁은 모든 쿠르드 족들의 관심을 끌었다. 많은 사람들이 자유를 위해 싸우기 위해 고향을 떠나기로 결정했다!"
+ott.21.a:0 "어떤 도움이든 받고 싶어!"
+
+ott.22.t:0 "쿠르디스탄의 미래"
+ott.22.d:0 "오스만 투르크와의 유혈 전쟁이 이제 쿠르드족의 운명을 결정할 때 이제는 쿠르디스탄인들의 의지를 바탕으로 민주주의를 도입할 것인가, 아니면 우리를 번영으로 이끌 군주의 안정성이 필요한가?"
+ott.22.a:0 "쿠르디스탄에 민주주의를 도입하라!"
+ott.22.b:0 "쿠르드족의 왕은 안정을 가져다 줄것이다!"
+
+ott.23.t:0 "쿠르디스탄 총선거!"
+ott.23.d:0 "자유를 위한 투쟁이 시작된 이래로 많은 다른 당들은 그들이 쿠르드 족의 진정한 통치자라고 주장했다. 네명의 큰 정당들이 승리할 가능성이 있다. Partiya Sosyalisti는 급진적 사회주의 정당이다. 제2당은 사회 민주당인 Partiya Demokrate이다. 세 번째는 사회 민주당인 Partiya Azadi이다. 마지막 선택은 민족주의 정당인 Partiya Serbokho이다."
+ott.23.a:0 "연대, 형제애, 자유! Partiya Sosyalisti"
+ott.23.b:0 "민주주의와 자유! Partiya Demokrate Kurdistan!"
+ott.23.c:0 "농장, 산업, 개발! Partiya Azadi!"
+ott.23.e:0 "우리의 국민, 우리의 땅, 우리의 미래! Partiya Serbokho!"
+
+ott.24.t:0 "외교 문제"
+ott.24.d:0 "선거 기간 동안 Partiya Sosyalisti는 만약 그들이 승리한다면 국제 사회로부터 보호와 협력을 구할 것이라고 말했다, 우리가 그렇게 해야 할지 아니면 고립되어야 할지 결정할 때라고 말했다."
+ott.24.a:0 "국제 연합에 가입하도록 노력한다"
+ott.24.b:0 "고립주의는 쿠르디스탄을 보호할 것이다."
+
+ott.25.t:0 "쿠르드인들은 국제 연합에 가입하고 싶어 한다."
+ott.25.d:0 "쿠르드족의 사회주의 친구들은 우리의 동맹국들이 신생아의 독립을 지키기를 바라고 있기를 바라며 국제 사회에 동참하고자 합니다. 비록 일부 고위 간부들이 국제적으로 쿠르드 족들의 즉각적인 수용을 주장하고 있지만, 그들 대부분은 그러한 급격한 움직임에 반대하고 있으며, 그들의 독립에 대한 간단한 보증을 선택하려 한다."
+ott.25.a:0 "쿠르디스탄을 국제 연합으로 초대한다!"
+ott.25.b:0 "그들의 독립을 보장하라."
+ott.25.c:0 "아니, 거기엔 관심 없다."
+
+ott.26.t:0 "쿠르디스탄은 국제 연합에 가입했다."
+ott.26.d:0 "프랑스는 우리의 제의를 받아들였고 이제 우리는 국제 연합의 일원이 되었다! 그러한 강력한 군사 동맹의 회원국들은 확실히 우리의 독립을 보장할 것이다. 국제 연합 만세!"
+ott.26.a:0 "만세 만세!"
+
+ott.27.t:0 "쿠르드인들은 공식적인 보증을 받는다."
+ott.27.d:0 "우리의 프랑스 동료들은 우리를 대신하여 우리의 독립을 보장하기를 꺼려 한다."
+ott.27.a:0 "적어도 뭔가는 ..."
+
+ott.28.t:0 "쿠르드족은 공식적인 거절을 받았다!"
+ott.28.d:0 "믿겨지지 않는다! 프랑스의 공산 당원들은 국제 연합에 가입하자는 우리의 요구를 거절했다!"
+ott.28.a:0 "프랑스는 우리를 보호해야 된다!"
+
+ott.29.t:0 "오스만 행정 자치부"
+ott.29.d:0 "1881년에 설립된 오스만 국채 관리국(OPDA)는 오스만 정부가 민간 및 공공 부문의 유럽 채권자들에게 빚진 채무를 감시하고 징수하는 유럽 관리 조직이었습니다. 대부분의 부채는 프랑스와 영국 정부뿐만 아니라 민간 기관들에게도 빚을 져 왔으며, 그 결과, 혁명이 런던과 파리의 정권을 휩쓸었을 때 오스만 정부에 의해 일방적으로 훼손되었습니다. 하지만, OPDA는 아직도 존재하고 있으며, 세계 대전 기간 동안 Kostantiniyye에 대출 된 자본을 되찾기 위해 주로 독일 및 오스트리아 행정관에 의해 완전히 통제됩니다."
+ott.29.a:0 "이런 친구들과..."
+
+ott.30.t:0 "헤자즈의 분열"
+ott.30.d:0 "점점 더 많은 아랍 민족주의가 우리의 주제에 대한 불만을 확산시키고 있다. 헤자즈의 독립적인 상태는 Kostantiniyye를 통제하는 자유의 지속적인 상징이다. 우리는 어떻게 우리의 다양한 제국에서 이러한 반대 분자들을 다룰 수 있을까?"
+ott.30.a:0 "문제를 무시하고 사라지길 바란다."
+ott.30.b:0 "지방 자치 단체에 더 많은 자치권을 부여하라."
+ott.30.c:0 "반체제 인사들을 탄압!"
+
+ott.31.t:0 "아랍 민족주의자들이 반란을 일으키다"
+ott.31.d:0 "10월 28일에 세계 대전 25주년 기념일이 다가오고 있고 아랍 민족주의자들은 정부에 항의하기 위한 구실로 이 행사를 이용하고 있다. 이번에 분노한 군중들은 폭동과 공공연한 반란의 발발로 위험에 빠뜨리고 있다. 어떻게 대응해야 할까요?"
+ott.31.a:0 "친구들, 우리가 이슬람교도라고 생각 했어?"
+ott.31.b:0 "헌병대를 현지 주 단위로 보낸다."
+ott.31.c:0 "계엄령을 선포하고 군대를 파견하라."
+
+ott.32.t:0 "전쟁 발발 25주년 기념 폭동."
+ott.32.d:0 "세계 대전 25주년 기념일은 아랍인들이 오스만 정부에 대한 불만을 나타내기 위해 거리를 행진하면서 분노한 폭동을 촉발시켰다. 경찰은 상황을 통제하는 데 어려움을 겪고 있으며 많은 현지 경찰관들이 폭도들에 합류하고 있다."
+ott.32.a:0 "좋아, 그들이 원한다면 헤자즈에 가입시켜 줘."
+ott.32.b:0 "반란을 진압하라, 하지만 거기서 끝내라."
+ott.32.c:0 "반란을 진압하고 헤자즈에 선전포고한다."
+
+ott.33.t:0 "우리 땅이 넓어진다!"
+ott.33.d:0 "수년 간의 아랍 민족주의자들과 관련된 수년 간의 논쟁 끝에, 오스만 제국은 몇개의 지방 자치 단체들을 우리의 통제 하에 놓았다."
+ott.33.a:0 "잘했어!"
+
+ott.34.t:0 "오스만 침략의 응답을 요구"
+ott.34.d:0 "수년 간의 아랍 민족주의자들과 관련된 수년 간의 논쟁 끝에, 오스만 제국은 독립국인 헤자즈의 독립 왕국에 전쟁을 선포했다. 아랍의 연대는 대응을 요구한다."
+ott.34.a:0 "우리는 형제들을 도울 것이다."
+ott.34.b:0 "그건 너무 위험하다!"
+
+ott.35.t:0 "이집트는 우리의 원조를 왔다!"
+ott.35.d:0 "카이로에 있는 우리 형제들은 오스만 제국과의 싸움에서 우리를 도와 주기로 결정했다."
+ott.35.a:0 "바닥에 함정이 있어!" #Ka3??? #it's an arab meme
+
+ott.36.t:0 "이집트가 개입했습니다!"
+ott.36.d:0 "카이로는 하시미테에 대항하는 우리의 분쟁에 개입하기로 결정했다!"
+ott.36.a:0 "우리는 그들을 둘 다 분쇄할 것이다!"
+
+ott.37.t:0 "독일 제국의 혼란"
+ott.37.d:0 "독일 제국의 혼란과 함께 우리는 수에즈 운하를 장악할 수 있는 좋은 기회를 가지고 있다. 독일 제국이 이 시점에서 우리를 저지할 수 있는 것은 거의 없다."
+ott.37.a:0 "수에즈 운하를 장악하라!"
+ott.37.b:0 "하지 말자"
+
+ott.38.t:0 "이집트는 수에즈 운하를 장악하고 있습니다!"
+ott.38.d:0 "우리 제국의 혼돈 속에서 이집트는 이 기회를 이용해 수에즈 운하를 장악할 수 있었다. 현재 우리가 이집트를 막기 위해 할 수 있는 일은 거의 없다."
+ott.38.a:0 "우리가 할 수 있는 일은 아무것도 없다."
+ott.38.b:0 "이것은 전쟁을 의미한다!"
+
+ott.39.t:0 "키프로스 폭동"
+ott.39.d:0 "Kostantiniyye의 중앙 권력에 대항 한 일련의 반란으로 우리 제국의 약점이 분명히 드러났다, 키프로스의 불만족스러운 그리스 주민들이 이 기회를 우리의 통치에 반기로 사용했다는 사실은 놀라운 일이 아닙니다 ..."
+ott.39.a:0 "또 다른 반란인가!"
+
+ott.40.t:0 "키프로스 폭동!"
+ott.40.d:0 "키프로스인들이 우리에게서 독립을 선언한 지역들이 독립을 선언하면서, 우리 제국의 안정성은 더욱 위태롭다. 터키 키프로스인은 북부 지방에서 조직되고 있으며, 이것은 그리스군이 섬 전체를 다스리기 전에 지원군을 보낼 수 있는 기회를 제공할 수 있다. 우리는 이 폭동을 빨리 진압해야 한다."
+ott.40.a:0 "Atilla 작전을 개시하라"
+ott.40.b:0 "그들을 독립시켜 줘..."
+
+ott.41.t:0 "키프로스 폭동이 진압!"
+ott.41.d:0 "우리 군은 성공적으로 키프로스를 장악했다. 다시 한번 그들의 반란은 헛된 것이었다."
+ott.41.a:0 "이러한 그리스인들은 결코 과거로부터 배우지 못할 것이다!"
+
+ott.42.t:0 "키프로스 요새 파괴"
+ott.42.d:0 "키프로스의 반란은 우리의 압도적인 군대에 의해 좌절되었지만, 그들의 영토 일부는 여전히 남아 있었다. 이것들은 우리에게 쓸모가 없지만, 미래의 반란군들은 그것들을 사용할 수 있다. 어떡하지"
+ott.42.a:0 "그것들을 파괴하라! 그리고 오스만 깃발을 산에 새겨 넣어라."
+
+ott.43.t:0 "그리스 키프로스인들은 성공적으로 저항했다!"
+ott.43.d:0 "우리 군대는 키프로스의 반항적인 상태를 와해시킬 수 없었다. 일부 참모들은 이러한 성과를 계속해서 감내하고 있는 것이 하시미테 아라비아와 이집트의 적대적인 아라비아 국가들에 맞서는 우리의 힘을 약화시키고 있다고 주장한다. 키프로스의 독립을 인정할까요?"
+ott.43.a:0 "그들의 독립을 받아들여라..."
+ott.43.b:0 "절대!"
+
+ott.44.t:0 "키프로스에 있는 우리 형제들에게 원조를 보내겠습니까?"
+ott.44.d:0 "키프로스의 그리스 주민들은 오스만 군주에 대항하여 마침내 그들로부터 자유롭게되기를 바라고 있습니다. 이것은 우리에게 키프로스 독립 운동을 지원함으로써 오스만 제국을 크게 약화시킬 수있는 선택권을 제공합니다..."
+ott.44.a:0 "키프로스에 원조를 보낸다!"
+ott.44.b:0 "우린 아무것도 할 수 없다..."
+
+ott.45.t:0 "그리스로부터의 원조"
+ott.45.d:0 "그리스는 우리에게 많은 양의 공급품과 자원 봉사자들을 보내 우리가 오스만 제국에 대항하는 것을 도와 주었다!"
+ott.45.a:0 "훌륭해!"
+
+ott.46.t:0 "키프로스 최후의 전쟁"
+ott.46.d:0 "좋든 나쁘든 간에, 키프로스의 전쟁은 이제 끝났다. 육군 참모 총장은 분쟁 과정에서 현대적인 전쟁의 성격에 관한 많은 귀중한 교훈을 배웠다고 보도했다."
+ott.46.a:0 "훌륭해!"
+
+ott.47.t:0 "외교 정책"
+ott.47.d:0 "우리의 독립을 확보함으로써 이제는 우리의 대외적인 방향을 결정할 때다. 우리가 과거에 시도했던 것처럼 그리스와 재결합할 수 있고 독립을 유지할 수 있다."
+ott.47.a:0 "우리는 그리스와 재결합해야 한다!"
+ott.47.b:0 "키프로스는 혼자 서야 한다!"
+
+ott.48.t:0 "키프로스는 통일을 기원한다"
+ott.48.d:0 "수년 간의 오스만 제국의 점령 후, 키프로스 사람들은 오스만의 압제의 족쇄를 벗고 우리와 화합하기로 결정했다."
+ott.48.a:0 "키프로스 합병!"
+ott.48.b:0 "그것은 너무 위험하다"
+
+ott.49.t:0 "아르메니아의 지위"
+ott.49.d:0 "수년 간, 오스만은 그들의 압제적인 의지를 우리에게 강요할 자유가 있었다. 오늘날 오스만 사람들에게는 문제가 발생했으며, 이는 오스만 제국의 지배력에서 벗어나 자유롭고 독립적인 아르메니아를 설립 할수있는 기회를 제공한다."
+ott.49.a:0 "오스만 제국으로부터의 완전한 독립을 선언하라!"
+ott.49.b:0 "지금은 아니다!"
+
+ott.50.t:0 "아르메니아의 독립 선언!"
+ott.50.d:0 "수년 간 우리는 아르메니아를 지배해 왔습니다. 하지만 오늘날, 우리 나라가 오랜 분쟁을 겪고 있는 가운데, 아르메니아는 이 기회를 이용해 아르메니아의 소수 민족들이 거주하는 우리 제국의 동부 지역에서 벌어진 폭동을 촉발시키기로 결정했습니다. 우리가 이 난장판에 어떻게 대응해야 할까요?"
+ott.50.a:0 "이 건방진 놈들을 쳐부셔라!"
+ott.50.b:0 "그들을 풀어줘"
+
+ott.51.t:0 "아르메니아가 여전히 존재한다!"
+ott.51.d:0 "우리 정예 부대의 집중으로도 아르메니아의 반란을 진압할 수 없었다. 일부 참모들은 이러한 성과를 계속해서 감내하고 있는 것은 헤자즈와 이집트의 적대적인 아라비아 국가들 직면하고 있는 우리의 힘을 약화시키는 것이라고 주장한다. 아르메니아의 독립을 인정할까요?"
+ott.51.a:0 "그들의 독립을 받아들여라..."
+ott.51.b:0 "절대!"
+
+ott.52.t:0 "독일 제국의 혼란"
+ott.52.d:0 "독일 제국의 혼란과 함께, 우리는 아덴을 장악할 수 있는 좋은 기회를 가지고 있다. 독일 제국이 이 시점에서 우리를 저지할 수 있는 것은 거의 없다."
+ott.52.a:0 "아덴을 장악하라!"
+ott.52.b:0 "하지 마라"
+
+ott.53.t:0 "예멘은 아덴을 장악하고 있다!"
+ott.53.d:0 "우리 제국은 혼돈에 휩싸여 있었고, 예멘은 아덴만 장악을 장악하기 위해 이 기회를 이용했다. 우리가 이 시점에서 예멘을 막기 위해 할 수 있는 일은 거의 없다."
+ott.53.a:0 "우리가 할 수 있는 일은 아무것도 없다"
+ott.53.b:0 "이것은 전쟁을 의미한다!"
+
+ott.54.t:0 "예루살렘 조약"
+ott.54.d:0 "우리는 아라비아 제국의 군대에 의해 패배당했다. 어쩌다가 이렇게 됐지? 그들은 아라비아 영토의 대부분을 점령했다! 우리가 할 수 있는 한 그들에게 평화를 제공해야 해!"
+ott.54.a:0 "아라비아의 영토 획득을 인정하고 평화 협정을 제의한다."
+ott.54.b:0 "아니, 우리가 카이로를 행진할 때까지 전쟁은 계속될 거야!"
+
+ott.55.t:0 "예루살렘 조약"
+ott.55.d:0 "우리는 오스만 제국의 군대를 성공적으로 물리쳤고 그들 제국의 상당 부분을 정복했다. 이제 오스만 제국의 지도력은 우리에게 우리의 영토 이득을 인정하고 분쟁 지역에서 철수할 것을 약속하는 평화를 제공한다. 어떻게 반응할까요?"
+ott.55.a:0 "이 제안을 받아들여라, 이것은 우리가 기대했던 것 이상이다!"
+ott.55.b:0 "아니, 우리 군대가 Kostantiniyye로 행진할 때까지 전쟁은 계속될 거야!"
+
+ott.56.t:0 "예루살렘 조약"
+ott.56.d:0 "예루살렘 조약에 따르면, 우리는 아라비아 지방의 나머지 부분에서 우리의 군대를 철수시켜야 한다..."
+ott.56.a:0 "쪽팔리는군!"
+
+ott.57.t:0 "아랍인들은 조약에 서명하는 것을 거부했습니다!"
+ott.57.d:0 "아랍 국가들은 우리의 관대한 평화 제의를 거절하고 군사적인 행동을 재개했다..."
+ott.57.a:0 "그들은 이것에 대해 대가를 치룰 것이다..."
+
+ott.58.t:0 "예루살렘 조약에서 얻은 배당금"
+ott.58.d:0 "아라비아 연합은 오스만 제국의 군대를 성공적으로 물리쳤고 그들 제국의 상당 부분을 정복했다. 이제 카이로에 있는 아랍 의회에서 만들어진 계획들을 재검토할 시간이 왔다."
+ott.58.a:0 "그 협정에 찬성하시오!"
+ott.58.b:0 "그 협정에 찬성하시오!"
+ott.58.c:0 "우리는 우리의 정복지를 지킬 것이다!"
+
+ott.59.t:0 "다마스쿠스 조약"
+ott.59.d:0 "우리는 아라비아 제국의 군대에 의해 패배당했다. 어쩌다가 이렇게 됐지? 그들은 우리의 아라비아 영토를 점령했고 심지어 아나톨리아의 일부를 점령했다! 우리가 할 수 있는 한 그들에게 평화를 제공해야 해!"
+ott.59.a:0 "아라비아의 영토 획득을 인정하고 평화 협정을 제의한다."
+ott.59.b:0 "아니, 우리가 카이로를 행진할 때까지 전쟁은 계속될 거야!"
+
+ott.60.t:0 "다마스쿠스 조약"
+ott.60.d:0 "우리는 오스만 제국의 군대를 성공적으로 물리쳤고 그들 제국의 상당 부분을 정복했다. 이제 오스만 제국의 지도력은 우리에게 우리의 영토 획득을 인정하고 분쟁 지역에서 철수할 것을 약속하는 평화를 제공한다. 어떻게 반응할까요?"
+ott.60.a:0 "이 제안을 받아들여라, 이것은 우리가 기대했던 것 이상이다!"
+ott.60.b:0 "아니, 우리 군대가 Kostantiniyye로 행진할 때까지 전쟁은 계속될 거야!"
+
+ott.61.t:0 "다마스쿠스 조약"
+ott.61.d:0 "다마스쿠스 조약에 따르면, 우리는 아라비아 지방의 나머지 부분에서 우리의 군대를 철수시켜야 한다..."
+ott.61.a:0 "쪽팔리는군!"
+
+ott.62.t:0 "아랍인들은 조약에 서명하기를 거부했다!"
+ott.62.d:0 "아랍 국가들은 우리의 관대한 평화 제의를 거절하고 군사적인 행동을 재개했다..."
+ott.62.a:0 "그들은 이것에 대해 대가를 치룰 것이다..."
+
+ott.63.t:0 "새로운 영토"
+ott.63.d:0 "아라비아 연합은 오스만 제국과의 충돌에서 성공적이었고 우리는 오스만 제국으로 영토를 넓힐 수 있었다."
+ott.63.a:0 "훌륭해!"
+
+ott.64.t:0 "베이루트 조약"
+ott.64.d:0 "아라비아 연합에서 우리 동맹국들과 함께 오스만 제국을 붕괴하려는 우리의 시도는 비참하게 실패했습니다! 우리의 초기 진출 이후 오스만 제국의 군대는 반격했고 우리의 모든 점령지에서 우리를 몰아 냈습니다. 우리가 할 수있는 동안 우리는 그들에게 평화를 제공해야합니다!"
+ott.64.a:0 "오스만에게 평화를 구걸한다!"
+ott.64.b:0 "아니, 우리 군대가 Kostantiniyye로 행진할 때까지 전쟁은 계속될 거야!"
+
+ott.65.t:0 "베이루트 조약"
+ott.65.d:0 "우리는 아랍 제국의 군대를 성공적으로 물리쳤고 그들의 나라의 많은 부분을 차지했다. 이제 굴욕적인 이집트 지도부는 우리의 영토 보전을 인정하고 분쟁 지역에서 철수할 것을 약속하는 평화를 제공한다. 어떻게 반응할까요?"
+ott.65.a:0 "그 제안을 받아들여라. 그들에게 가혹한 조건을 강요 해라!"
+ott.65.b:0 "아니, 우리는 우리의 빌라예트와 협상하지 않는다!"
+
+ott.66.t:0 "베이루트 조약"
+ott.66.d:0 "베이어트 조약에 따르면 우리는 점령지 점령 지역의 나머지 부분에서 우리의 군대를 철수시켜야 한다..."
+ott.66.a:0 "쪽팔리는군!"
+
+ott.67.t:0 "오스만은 평화 조약에 서명하는 것을 거부했다!"
+ott.67.d:0 "오스만 제국은 우리의 평화 제의를 거부하고 군사 행동을 재개했다! 그들은 우리 왕국을 합병하려고 한다!"
+ott.67.a:0 "알라신께서 우리의 영혼에 자비를 베푸소서..."
+
+ott.68.t:0 "다마스쿠스 조약"
+ott.68.d:0 "우리는 아라비아 제국의 군대에 의해 패배당했다. 어쩌다가 이렇게 됐지? 그들은 우리의 아라비아 영토를 점령했고 심지어 아나톨리아의 일부를 점령했다! 우리가 할 수 있는 한 그들에게 평화를 제공해야 해!"
+ott.68.a:0 "평화 조약을 제안하고, 아라비아의 영토 획득을 인정한다."
+ott.68.b:0 "아니, 우리가 카이로를 행진할 때까지 전쟁은 계속될 거야!"
 
 ott.69.t:0 "The Treaty of Damascus"
 ott.69.d:0 "We've successfully beaten the armed forces of Turkey and conquered large parts of their state. Now the humiliated Turkish leadership offers us peace in which they promise to recognise our territorial gains and withdraw from the disputed territory. How shall we react?"
