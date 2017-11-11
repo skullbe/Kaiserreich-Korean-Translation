@@ -702,7 +702,7 @@ ott.84.d:0 "현재 바스라와 쿠웨이트에 있는 우리의 해군 시설�
 ott.84.a:0 "석유를 지배하는 자는 세계를 지배한다."
 
 ott.85.t:0 "술탄의 연설"
-ott.85.d:0 "술탄 폐하께서는 [Root.GetLeader] 오늘 오스만 제국의 하원 의회에서 칙허를 전달했다, 지난 10년간의 사건들을 회상하고 미래를 위한 그의 위대한 계획을 윤곽을 그려 냈다. 짧고 유창한 연설은 술탄의 연설을 듣기 위해 모여든 수많은 공무원들에게 극적인 효과를 가져다 주었다. 보스포러스 전역에서 들려오는 찬사와 박수 소리가 몇 분 동안 이어졌다, 그의 장엄한 'Nutk-ı Hümayun'에서 황제 폐하는 민주주의와 의회와 같은 많은 중요한 주제에 대해 얘기했지만, 아무도 정확히 무엇이 술탄의 마음에 있었는지 몰랐다."
+ott.85.d:0 "술탄 폐하 [Root.GetLeader]는 오늘 오스만 제국의 하원 의회에서 칙허를 전달했다, 지난 10년간의 사건들을 회상하고 미래를 위한 그의 위대한 계획을 윤곽을 그려 냈다. 짧고 유창한 연설은 술탄의 연설을 듣기 위해 모여든 수많은 공무원들에게 극적인 효과를 가져다 주었다. 보스포러스 전역에서 들려오는 찬사와 박수 소리가 몇 분 동안 이어졌다, 그의 장엄한 'Nutk-ı Hümayun'에서 황제 폐하는 민주주의와 의회와 같은 많은 중요한 주제에 대해 얘기했지만, 아무도 정확히 무엇이 술탄의 마음에 있었는지 몰랐다."
 ott.85.a:0 "장차 중대한 일이 닥쳐올 것이다."
 
 ott.86.t:0 "오스만 의회 해산"
@@ -826,11 +826,11 @@ ott.112.d:0 "오늘날 우리는 Yalova의 불법 토지 사용에 관한 매우
 ott.112.a:0 "이것에 대해 조치를 취하라!"
 ott.112.b:0 "그냥 내버려 둬, 이건 너무 위험해"
 
-ott.113.t:0 "Head of Police murdered!"
-ott.113.d1:0 "Terrible news! Muharrem Arif Paşa, head of Emniyet-i Umumiye, was murdered outside his house this morning! On Sultan's orders, Muharrem Arif Paşa was leading the 'Royal Investigation into Corruption' concerning the embezzlement of Yalova crown land revenues. Several witnesses reported seeing two assassins firing at Muharrem Paşa from an unmarked white car before driving away. There is no doubt that the assassination is linked to the Yalova case, and the search for the white car is already underway."
-ott.113.d2:0 "Terrible news! Muharrem Arif Paşa, head of Emniyet-i Umumiye, was murdered outside his house this morning! On the Parliament's orders, Muharrem Arif Paşa was leading the 'Royal Investigation into Corruption' concerning the embezzlement of Yalova crown land revenues. Several witnesses reported seeing two assassins firing at Muharrem Paşa from an unmarked white car before driving away. There is no doubt that the assassination is linked to the Yalova case, and the search for the white car is already underway."
-ott.113.a:0 "We will get to the bottom of this!"
-ott.113.b:0 "This is clearly a hornet's nest, end the investigation"
+ott.113.t:0 "경찰 서장이 살해되다!"
+ott.113.d1:0 "끔찍한 소식이다! Emniyet-i Umumiye의 대표 Muharrem Arif Paşa는 오늘 아침에 그의 집 밖에서 살해당했다! 술탄의 명령에 따라 Muharrem Arif Paşa는 횡령에 관한 '부패로의 조사'를 이끌고 있었다. 몇몇 목격자들은 출발하기 전에 표식없는 하얀 차에서 Muharrem Paşa에게 두 명의 암살자가 총격을 가하는 것을 보고했다고 보도했다. 그 암살 사건이 야로바 사건과 연관되어 있다는 것은 의심의 여지가 없으며, 하얀 자동차 수색은 이미 진행 중이다."
+ott.113.d2:0 "끔찍한 소식이다! Emniyet-i Umumiye의 대표 Muharrem Arif Paşa는 오늘 아침에 그의 집 밖에서 살해당했다! 의회의 명령에 따라 Muharrem Arif Paşa는 횡령에 관한 '부패로의 조사'를 이끌고 있었다. 몇몇 목격자들은 출발하기 전에 표식없는 하얀 차에서 Muharrem Paşa에게 두 명의 암살자가 총격을 가하는 것을 보고했다고 보도했다. 그 암살 사건이 야로바 사건과 연관되어 있다는 것은 의심의 여지가 없으며, 하얀 자동차 수색은 이미 진행 중이다."
+ott.113.a:0 "우리는 이것의 진상을 규명할 것이다!"
+ott.113.b:0 "이것은 분명히 말벌의 둥지다. 수사를 끝내라."
 
 ott.114.t:0 "Arrests lead to high officials"
 ott.114.d1:0 "Following the trail of paperwork from the crown lands, our detective inspectors were able to uncover how the crown revenues were embezzled. Eight officials from the Treasury, three administrators from Yalova and the Undersecretary of Interior were found to be stealing the funds through a series of transactions. The police are ready to make the arrests, but arresting such high officials could lead to other unforeseen complications. Shall we issue the arrests?"
