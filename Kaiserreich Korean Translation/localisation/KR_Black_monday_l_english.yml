@@ -1,9 +1,9 @@
 ﻿l_english:
 
 ### Black Monday General Events ###
-black.1.t:0 "This is not meant to be here!"
-black.1.d:0 "If you see this please report on the paradox forums!"
-black.1.a:0 "I'm serious REPORT IT!"
+black.1.t:0 "이것은 여기에 있는 것이 아닙니다!"
+black.1.d:0 "이것을 보시면, 파라독스 포럼에 보고해 주세요!"
+black.1.a:0 "진지하게 보고해주세요!"
 black.2.t:0 "검은 월요일"
 black.2.d:0 "1936 년 2 월 3 일, 베를린 증권 거래소는 하락세를 멈췄습니다. - 그리고 침몰했습니다. 시장 공포의 불안정으로 인해 주식 시장이 월요일 아침에 개장하자마자 파산했습니다. \n\n 인쇄전신기는 검은 월요일의 결과를 밤새도록 출력해냈습니다. 결과가 분석되었을 때 상황이 더욱 악화되었다는 것이 분명했습니다. \n\n이 전례없는 경제적 재앙의 충격은 전 세계에서 느껴질 것입니다. 독일 황금기가 끝났습니다. 적어도 지금은 .."
 black.2.a:0 "하느님 맙소사."
