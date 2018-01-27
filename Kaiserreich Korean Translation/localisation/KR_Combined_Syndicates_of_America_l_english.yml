@@ -118,6 +118,7 @@ CSA_war_is_a_racket:0 "전쟁은 화력이다."
 CSA_war_is_a_racket_desc:0 "전쟁은 화력이다. 이 말은 항상 있어왔고, 우리는 동의하지 않습니다. 전쟁은 역사속에서 자본가들의 탐욕을 위해 싸웠습니다. 그러나 새로운 혁명 군대는 그러지 않을 겁니다. 혁명 군대는 인민들을 위해 싸울겁니다. 그리고 끝에서는, 우리의 군대는 병사들의 생명을 보호하기 위해 조직될겁니다. 우리를 대신하여 압도적인 화력이 자본주의들을 파괴할겁니다. 탄환은 싸지만, 인민은 그렇지 않으니깐요." 
 CSA_peoples_artilary:0 "대포들을 발사하라"
 CSA_peoples_artilary_desc:0 "군대의 힘은 이제 압도적인 화력에 달려 있습니다. 가능한 많은 탄약을 생산해야 하고, 많은 전차화 대포들을 우리가 할 수 있는 만큼 만들어야 합니다. 그리고 그 대포와 총들이 자본가들과 반동주의자들을 단번에 파괴시킬겁니다."
+CSA_peoples_rangers:0 "인민의 군대"
 CSA_peoples_rangers_desc:0 "우리는 군대의 특수 작전 부대를 조직해야 합니다. 이러한 인민 해방군 레인저들은 최고 중에 최고들로 구성 될 것이고, 이 레인저들은 우리 군대가 필요하는 것과 혁명과 전쟁 최 전방에서 벌어질 문제들을 다루는데 도움이 되도록 훈련 받을 것 입니다." 
 CSA_civil_war_lessons:0 "혁명에서부터 학습"
 CSA_civil_war_lessons_desc:0 "우리는 노동 계급을 위한 혁명에서 승리했습니다. 그러나 새로운 전쟁이 지평선 위에 있습니다. 우리는 반동적인 자본가들을 분쇄했지만, 이직 적들은 전 세계에 분포하고 있습니다. 따라서 우리들의 무기를 현대화 하고 미래에 벌어질 갈등에 대해 대비하는 것이 좋을 것 입니다." 
@@ -413,6 +414,8 @@ CSA_federalist_victory:0 "The Federalists have come out on top in the Second Con
 CSA_centralists_victory:0 "The Centralists have come out on top in the Second Convention"
 CSA_mexican_csa_freindship:0 "Has signed a treaty of friendship with our Mexican Comrades"
 scientific_phalanstere:0 "The scientific wing of the Phalanstere organisation has been formed"
+csa_convention_civil_service:0 "New Civil Service"
+csa_convention_state_bureaucracy:0 "State Bureaucracy"
 
 ### Events ###
 combinedsyndicates.1.t:0 "두 번째 미국 혁명"
@@ -429,9 +432,9 @@ combinedsyndicates.3.t:0 "혁명 미국을 재건하자"
 combinedsyndicates.2.c:0 "대신에 우리는 뉴욕으로 수도를 옮길 것이다!"
 combinedsyndicates.2.e:0 "대신에 우리는 필라델피아로 수도를 옮길 것이다!"
 combinedsyndicates.3.d:0 "The civil war had caused great damage throughout the country and there was much that needed to be done to ensure that the US would be great again. Reed believed that a strong industrial base would not only help the country rebuild but also help with unemployment. The rebuilding of the country would not be easy and would require a great deal of planning."
-combinedsyndicates.3.a:0 "5 Year Plan"
-combinedsyndicates.3.b:0 "3 Year Plan"
-combinedsyndicates.3.c:0 "1 Year Plan"
+combinedsyndicates.3.a:0 "5 개년 계획"
+combinedsyndicates.3.b:0 "3 개년 계획"
+combinedsyndicates.3.c:0 "1 개년 계획"
 combinedsyndicates.4.t:0 "토지와 농업 개혁"
 combinedsyndicates.4.d:0 "지역과 농업 개혁은 생디칼리스트에게 뜨거운 감자입니다. 농민들에게 중앙 정부에 의한 직접적인 냉혹한 집단화 계획을 실행해야 할까요? 아니면 지역 생디칼리트에게 농민을 운영해야 할까요? 다른 방안으로는 농민에게 일정한 가격을 보장하고, 제한된 시장에서 자신의 농작물을 판매하도록 허용 할 수 있을 겁니다."
 combinedsyndicates.4.a:0 "집단화를 시작한다."
@@ -583,6 +586,12 @@ combinedsyndicates.109.b:0 "줄무늬형 국기를 채택하다"
 combinedsyndicates.109.c:0 "독수리형 국기를 채택하다"
 combinedsyndicates.109.e:0 "지금의 국기를 유지하기로 한다."
 
+combinedsyndicates.110.t:0 "The Convention results in a compromise"
+combinedsyndicates.110.d:0 "With no out right winner, the various factions are forced into a compromise between the Federalist and Unionist factions. Elizabeth Gurley Flynn has been elected as General Secretary and Carlo Tresca has been elected deputy secretary. "
+combinedsyndicates.110.a:0 "Well at least the deadlock is over. "
+
+
+
 combinedsyndicates.43.t:0 "뉴잉글랜드 총파업"
 combinedsyndicates.43.d:0 "도시 안의 많은 노동자들이 총파업에 동조하여 뉴잉글랜드 전역에서 노동자들의 처우 개선을 조건으로 파업을 하고 있습니다. 뉴잉글랜드 지도자들은 이 문제를 해결하기 위해 토론하고 있습니다. 일부는 사람들은 파업에 대해서 근로자들이 스스로 지칠 것이라고 하면서, 아무것도 하지 않아도 된다고 합니다. 다른 사람들은 CSA가 뉴잉글랜드를 차지할 음모라고 주장하면서 그들을 강경 진압해야 한다고 주장합니다. 마지막으로 파업자들이 요구하는 조건을 모두 수용하자는 제안을 했습니다."
 combinedsyndicates.43.a:0 "파업에 대해 대응하지 않으면 곧 끝날 것이다."
@@ -598,12 +607,11 @@ combinedsyndicates.32.a:0 "우리는 미국에 다시 재가입 할 것이다.�
 combinedsyndicates.33.t:0 "뉴잉글랜드가 재가입을 하다.!"
 combinedsyndicates.33.d:0 "시간이 좀 걸렸지만, 우리의 뉴잉글랜드 요원들은 뉴잉글랜드에 혁명을 가져왔습니다. 지금 그들은 미국에 재가입하기를 원합니다. 뉴잉글랜드의 우리 형제와 자매를 환영합시다. 붉은 태양이 뉴잉글랜드에서 떠오릅니다.!"
 combinedsyndicates.33.a:0 "고향에 온 것을 환영하네!"
+
 combinedsyndicates.34.t:0 "뉴잉글랜드 혁명이 실패했습니다!"
 combinedsyndicates.34.d:0 "뉴잉글랜드에 우리의 요원들은 뉴잉글랜드 전역의 총파업에도 불구하고, 몇 요원들의 체포와 함께 혁명을 가져오지 못했습니다. 많은 사람들은 전쟁만이 우리의 형제자매들에게 해방시킬 수 있다고 주장합니다!"
 combinedsyndicates.34.a:0 "그들은 이 날을 후회하게 될 것이다."
 combinedsyndicates.34.b:0 "전쟁은 항상 좋은 대안만이 아닙니다."
-
-
 
 
 
@@ -639,7 +647,7 @@ combinedsyndicates.51.d:0 "마침내 켈리포니아를 점령했기 때문에, 
 combinedsyndicates.51.a:0 "할리우드를 그냥 냅두어라, 우리는 할리우드를 통제 할 수있다."
 combinedsyndicates.51.b:0 "할리우드는 노동자에게 소속되어야 한다!"
 combinedsyndicates.51.c:0 "그 지역을 정리하고, 유용한 건물들을 지어라!"
-CSA_FEDERAL_IFFICIER_CORPS:0 "Old USA leaders will be added to our army."
+CSA_FEDERAL_IFFICIER_CORPS:0 "구 USA의 장군들은 우리군에 추가될 것입니다."
 
 ### The Paris Summit ###
 combinedsyndicates.200.t:0 "The Paris Summit Invitation"
