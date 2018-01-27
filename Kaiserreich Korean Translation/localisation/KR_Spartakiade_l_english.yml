@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 ### Spartakiade Opinion Modifiers ###
 spartikade_bomb:0 "Loyalist Bombings"
 
@@ -77,8 +77,8 @@ Spartakiade.24.e:0 "Marseille"
 
 Spartakiade.25.t:0 "Which British City will host the Spartakiade?"
 Spartakiade.25.d:0 "Several beautiful cities of our great Union have declared their willingness to host the Spartakiade. Which one shall have honour of hosting the greatest Syndicalist sport event of 1937?"
-Spartakiade.25.a:0 "London!"
-Spartakiade.25.b:0 "Edinburgh!"
-Spartakiade.25.c:0 "Manchester"
+Spartakiade.25.a:0 "런던!"
+Spartakiade.25.b:0 "에든버러!"
+Spartakiade.25.c:0 "맨체스터r"
 Spartakiade.25.e:0 "Carlisle"
-Spartakiade.25.f:0 "Cardiff"
+Spartakiade.25.f:0 "카디프"
