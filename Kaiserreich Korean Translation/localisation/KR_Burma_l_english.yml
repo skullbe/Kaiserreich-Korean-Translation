@@ -1,10 +1,10 @@
-﻿l_english:
+l_english:
 
 ### Parties ###
-BUR_totalist_party:0 "Communist Party of Burma"
-BUR_totalist_party_long:0 "Communist Party of Burma"
-BUR_radical_socialist_party:0 "People's Party of Burma Farmers and Workers"
-BUR_radical_socialist_party_long:0 "People's Party of Burma Farmers and Workers"
+BUR_totalist_party:0 "버마 공산당"
+BUR_totalist_party_long:0 "버마 공산당"
+BUR_radical_socialist_party:0 "버마 농민과 노동자 인민당"
+BUR_radical_socialist_party_long:0 "버마 농민과 노동자 인민당"
 BUR_syndicalist_party:0 "Burma Syndicalist Party"
 BUR_syndicalist_party_long:0 "Burma Syndicalist Party"
 BUR_social_democrat_party:0 "Sinyetha"
