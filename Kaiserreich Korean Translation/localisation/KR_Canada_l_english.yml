@@ -39,7 +39,7 @@ CAN_mounties_desc:0 "In accordance with the Tories, the Royal Canadian Mounted P
 king_new_companies:0 "New Crown Corporations"
 king_new_companies_desc:0 "Strategic state investments in our country's industry allows us to rapidly and efficiently industrialise the vast Canadian lands without having to bear the responsibility of a nationalised industry. However, as the funds allocated dry up, the effects of this policy will eventually fade."
 
-quebec_riots:0 "퀘벡의 폭동"
+quebec_riots:0 "퀘벡에서의 폭동"
 quebec_riots_desc:0 "우리의 애국 전쟁의 뉴스을 접한 퀘벡 사람들은 자국을 지키기를 거부하고 거리에 항의하기로했습니다. 그들 중 일부는 캐나다, 특히 영국인 엘리트가 통치하는 캐나다는 그들의 나라가 아니라고 말하고 있지만, 우리는 그 탈영자와 겁쟁이를 믿을만큼 어리석지 않습니다."
 
 anglo_french_tensions:0 "영국계-프랑스계 긴장"
@@ -140,6 +140,8 @@ entente_research_desc:0 "제국 과학 학술 위원회는 대영제국과 협�
 SCHEME_1_BYPASS:0 "제 1호 방위계획이 만료되다."
 END_ACW:0 "2차 미국 내전이 끝나다."
 imperial_conference_36_over:0 "The 1936 Imperial Conference is over"
+CAN_supports_usa:0 "We shall support the United States."
+CAN_acw_intervention:0 "We shall protect our own interests."
 
 ### Parties ###
 CAN_totalist_party:0 "CCP"
@@ -156,16 +158,16 @@ CAN_market_liberal_party:0 "자유주의자"
 CAN_market_liberal_party_long:0 "자유당"
 CAN_social_conservative_party:0 "보수주의자"
 CAN_social_conservative_party_long:0 "보수당"
-CAN_authoritarian_democrat_party:0 "국수주의자"
-CAN_authoritarian_democrat_party_long:0 "국민통합당"
-CAN_paternal_autocrat_party:0 "국왕지지자"
-CAN_paternal_autocrat_party_long:0 "왕실충성당"
-CAN_national_populist_party:0 "사회신용지지자"
-CAN_national_populist_party_long:0 "사회신용당"
+CAN_authoritarian_democrat_party:0 "Nationalists"
+CAN_authoritarian_democrat_party_long:0 "National Unity Party"
+CAN_paternal_autocrat_party:0 "Loyalists"
+CAN_paternal_autocrat_party_long:0 "Monarchist-Loyalist Party"
+CAN_national_populist_party:0 "United Empire League"
+CAN_national_populist_party_long:0 "United Empire League"
 
 ### Traits ###
 vickers_armstrong_industries:0 "비커스-암스트롱 공업"
-minister_of_everything:0 "모든 것의 장관"
+minister_of_everything:0 "Minister of Everything"
 
 ### Tooltips ###
 unlock_orenda_tt:0 "Unlocks Orenda Engines.\n"
@@ -192,8 +194,20 @@ C7_trigger_election_tt:0 "Failure to pass Bill C-7 will trigger an election.\n"
 anglo_french_tensions_tt:0 "Tensions are high in Quebec. Unpopular measures like conscription could provoke riots, or worse.\n"
 bilingualism_tt:0 "Will significantly reduce the likelihood of unrest or riots in Quebec.\n"
 CAN_intervene_acw:0 "Canada will intervene in the civil war and try to seize territory for her own interests."
+CAN_empire_goal_next:0 "The Dominion of India will speak next at the Imperial Confrence"
+CAN_empire_india_next:0 "The Carribbean Federation will speak next at the Imperial Confrence"
+CAN_empire_caf_next:0 "Australasia will speak next at the Imperial Confrence"
+CAN_empire_done:0 "The Conference will be concluded"
 
 ### Opinion Modifiers ###
+CAN_BROADCAST_ENG:0 "Anger at Canadian Propaganda"
+CAN_BROADCAST_FRA:0 "Anger at Canadian Propaganda"
+CAN_BROADCAST_SRI:0 "Anger at Canadian Propaganda"
+CAN_BROADCAST_SOV:0 "Anger at Canadian Propaganda"
+CAN_BROADCAST_CSA:0 "Anger at Canadian Propaganda"
+
+CAN_supports_them:0 "Canada Supports the United Provinces"
+CAN_support_vs_gua:0 " Canada Supports the United Provinces"
 CAN_GER_treaty_accept:0 "Germany accepted our treaty"
 CAN_GER_treaty_reject:0 "Germany rejects our treaty"
 CAN_personal_rule_continued:0 "Personal Rule of King Edward Continues"
@@ -251,7 +265,7 @@ CAN_attack_DEN:0 "Canada declared war on Denmark"
 CAN_threaten_DEN:0 "Canada claims Danish overseas territory"
 
 ### Focuses ###
-CAN_kings_speech:0 "왕의 연설"
+CAN_kings_speech:0 "The King's Speech"
 CAN_kings_speech_desc:0 "Edward, Prince of Wales will be coronated King-Emperor as the Canadian political landscape consists of two main factions. One led by Liberal Prime Minister Mackenzie King, the other led by Conservative R.B. Bennett and the exiled British aristocracy. For now, Edward is popular in all of Canada and his endorsement could prove decisive for either faction."
 
 ### Economic Focuses ###
@@ -316,10 +330,10 @@ CAN_military_youth_desc:0 "Today's youth are tomorrow's fighting men and officer
 CAN_social_credit:0 "Social Credit"
 CAN_social_credit_desc:0 "Social Credit is an economic philosophy that was developed by Clifford Hugh Douglas during the Weltkrieg. Now that we are in power, we can work to implement these ideas throughout the nation. However critics have accused Social Credit of being 'syndicalistic' and as such it would perhaps be wise to moderate our plans lest they draw anger."
 CAN_god_save_the_king:0 "God Save the King"
-CAN_god_save_the_king_desc:0 "God save our gracious King! / Long live our noble King! / God save the King! / Send him victorious, / Happy and glorious, / Long to reign over us: / God save the King! "
+CAN_god_save_the_king_desc:0 "God save our gracious King! / Long live our noble King! / God save the King! / Send him victorious, / Happy and glorious, / Long to reign over us: / God save the King!"
 
 ### Military - Air Focuses ###
-CAN_rcaf_focus:0 "Expand the Air Force"
+CAN_rcaf_focus:0 "공군 확장"
 CAN_rcaf_focus_desc:0 "The Royal Canadian Air force fought with distinction during the Weltkrieg, but has long since suffered from serious neglect. We can no longer afford to fall behind in this critical area of warfare, lest we cede control the sky to our foes, a terrifying prospect for sure."
 CAN_national_airspace_defense:0 "National Airspace Defence"
 CAN_national_airspace_defense_desc:0 "The main purpose of the air force should be to protect our land and armies from enemy aircraft and provide direct fire support for our troops on the ground. Our skies are now more than a great sight, they are new territory to defend, every single last meter of it"
@@ -361,13 +375,13 @@ CAN_light_tank:0 "순항 전차 중점"
 CAN_light_tank_desc:0 "The 'Cruiser Tank' is a fast, relatively lightly armed and armoured vehicle designed to exploit breakthroughs in the enemy line and achieve rapid advances and encirclement. In a way, it is the spiritual successor of the cavalry charge, which certainly seems to appeal to our generals."
 CAN_motorized_infantry:0 "차량화 보병"
 CAN_motorized_infantry_desc:0 "Automobile technology has come a long way since the Weltkrieg. By harnessing the opportunity of mass produced vehicles, we can field whole divisions capable of deploying rapidly and supporting fast armoured advances. Speed on foot is no longer a limiting factor in warfare, horsepower now rules."
-CAN_support_tech:0 "Organic Support Elements"
-CAN_support_tech_desc:0 "The modern industrialised army is increasingly in need of specialised support elements, like engineers and scouts, to achieve the best results in the field. We should focus effort on developing these capabilities, and ensure that they receive the best equipment we can produce."
+CAN_organic_support_tech:0 "Organic Support Elements"
+CAN_organic_support_tech_desc:0 "The modern industrialised army is increasingly in need of specialised support elements, like engineers and scouts, to achieve the best results in the field. We should focus effort on developing these capabilities, and ensure that they receive the best equipment we can produce."
 CAN_spg:0 "Self-Propelled Guns"
 CAN_spg_desc:0 "A mobile army requires mobile fire support. By mounting an artillery weapon on the same platforms as tanks we can economically provide a full range of capabilities to our mechanised divisions and provide the kind of on-point fire support that will seal the deal on most armoured pushes."
-CAN_mech_infantry:0 "Mechanised Infantry"
+CAN_mech_infantry:0 "기계화 보병"
 CAN_mech_infantry_desc:0 "Developing on our experiences with motorised infantry comes proposals to build a frontline armoured troop transport, one which carries its own light armament, to support mechanised advances. This ensures our infantry can not only be deployed on the front, but keep their vehicle for fighting."
-CAN_winter_soliders:0 "Winter Weather Training"
+CAN_winter_soliders:0 "겨울 날씨 훈련"
 CAN_winter_soliders_desc:0 "-"
 
 ### Military - Navy Focuses ###
@@ -401,7 +415,7 @@ CAN_navy_cv2:0 "Modern Carrier Effort"
 CAN_navy_cv2_desc:0 "The aircraft carrier has proven itself the supreme weapon of the seas. It is critical that we maintain research and design efforts to maintain this supremacy, and consider massively expanding our fleet of carriers to ensure that our planes reach every corner of the world."
 
 ### Imperialism Focuses ###
-CAN_reenforce_the_empire:0 "Re-Enforce the Empire"
+CAN_reenforce_the_empire:0 "Re-enforce the Empire"
 CAN_reenforce_the_empire_desc:0 "In order to take back Great Britain from the Godless Syndicalists we need to re-enforce the dominions of the British Empire. The empire may be shattered but it can be stitched back together again. Thankfully the plans at the 1936 Imperial conference should help with that plan."
 CAN_idec:0 "Create the IEDC"
 CAN_idec_desc:0 "Suggestions have been made to form an Imperial Economic Development Corporation, to expand the industrial strength of the Empire. Funded by Canada, home of the Royal Family and the strongest remaining member of the Empire, the IEDC would serve to improve the economic power of the Empire for the challenges that remain."
@@ -415,7 +429,7 @@ CAN_raac:0 "Royal Atlantic Aeronautics Corporation"
 CAN_raac_desc:0 "Aviation industry leaders have put forward a proposal to form a new corporation to establish regular air links between Canada and the Caribbean Federation. Through the use of long-range float planes, it is proposed to begin regular passenger and cargo transportation from Halifax to Bermuda, the Bahamas, Jamaica, and Georgetown. Such air links will not only bring the two countries closer together, but also spark aeronautics research and development."
 CAN_imperial_training:0 "Imperial Air Training Plan"
 CAN_imperial_training_desc:0 "No matter how well designed, an aeroplane is ultimately only as good as its pilot. A large and dedicated training program will help ensure we have a healthy supply, and its extension to other members of the Entente will allow us to pool knowledge and help our allies reach our level of greatness."
-CAN_isac:0 "ISAC 창립"
+CAN_isac:0 "Create the ISAC"
 CAN_isac_desc:0 "A number of university presidents and scientific leaders meeting in Toronto have called for the formation of a new organisation to co-ordinate research among the member states of the British Empire. The work of co-coordinating these links is to be carried out by the Imperial Scientific and Academic Council, located and funded by Canada, with contributions from the rest of the Entente"
 
 ### Canadian Defence Focuses ###
@@ -496,7 +510,7 @@ CAN_canadian_nobility_desc:0 "When the Royal Family fled Britain during the Gene
 CAN_canadian_day:0 "Canadian Day"
 CAN_canadian_day_desc:0 "While the United Kingdom is celebrating Liberty Day, we should celebrate Canadian Day to honour the men and women who died for Canada and the British Empire. Let today be a day to celebrate Canada!"
 CAN_god_save_canada:0 "God Save Canada"
-CAN_god_save_the_empire_desc:0 "O Canada! / Our home and native land!/ True patriot love in all thy sons command./ With glowing hearts we see thee rise,/ The True North strong and free!/ From far and wide, / O Canada, we stand on guard for thee. / God keep our land glorious and free! / O Canada, we stand on guard for thee. / O Canada, we stand on guard for thee."
+CAN_god_save_canada_desc:0 "O Canada! / Our home and native land!/ True patriot love in all thy sons command./ With glowing hearts we see thee rise,/ The True North strong and free!/ From far and wide, / O Canada, we stand on guard for thee. / God keep our land glorious and free! / O Canada, we stand on guard for thee. / O Canada, we stand on guard for thee."
 
 ### Events ###
 
@@ -509,7 +523,7 @@ canada.2.d:0 "Ever since the Radical Union's victory in Britain King George V ha
 canada.2.a:0 "The Entente enters a state of mourning..."
 
 canada.3.t:0 "The Heir Apparent"
-canada.3.d:0 "With his father dead, Edward the Prince of Wales will be coronated King-Emperor of the British Empire. Two large factions within the Canadian political sphere has coalesced, one led by the Prime Minister who seek to develop and refine Canada's industrial strength and harvest its resources over foreign policy, and the other led by R.B. Bennett and his supporters in the British diaspora who wish to mobilise the Canadian economy to launch an invasion of the Union of Britain in the near future, even if that means accelerating arms production at the expense of civil liberties. The Prince of Wales is popular in both French and English Canada and his views may very well sway the opinions of others. He could prove to be vulnerable to the arguments of either group depending on how well they make their case to him…"
+canada.3.d:0 "With his father dead, Edward the Prince of Wales will be coronated King-Emperor of the British Empire. Two large factions within the Canadian political sphere have coalesced, one led by the Prime Minister who seeks to develop and refine Canada's industrial strength and harvest its resources over foreign policy, and the other led by R.B. Bennett and his supporters in the British diaspora who wish to mobilise the Canadian economy to launch an invasion of the Union of Britain in the near future, even if that means accelerating arms production at the expense of civil liberties. The Prince of Wales is popular in both Anglo-Canada and French-Canada and his views may very well sway the opinions of our citizens. He could prove to be vulnerable to the arguments of either group depending on how well they make their case..."
 canada.3.a:0 "The Prince endorses Bennett and the Exiles."
 canada.3.b:0 "The Prince listens to his elected privy councillors"
 canada.3.c:0 "The Prince announces his support for the Prime Minister."
@@ -670,7 +684,7 @@ canada.40.b:0 "We Stand on Guard for Thee!"
 
 canada.41.t:0 "The Queen Mary Way"
 canada.41.d:0 "King Edward VII today officially opened the Queen Mary Way, a limited-access highway connecting Toronto to Niagara Falls via Hamilton. Named for the Queen Mother the QMW is the first limited-access highway in North America."
-canada.41.a:0 "Okay"
+canada.41.a:0 "Splendid!"
 
 canada.42.t:0 "Old Guard Retires"
 canada.42.d:0 "Our officer corps is getting quite old and many younger officers are afraid these men aren't able to keep up with the rigours and routines of modern warfare. Should we gently ask some of these men to enjoy a well-deserved retirement?"
@@ -1124,7 +1138,7 @@ canada.660.a:0 "Now we can prepare for retaking the Home Isles"
 
 canada.661.t:0 "Canada Seizes the North Atlantic Islands"
 canada.661.d:0 "Canadian troops entered Reykjavik in Iceland today as the Canadians took control of Greenland and Iceland. Without many shots being fired, Canada has taken control of our Islands. Some suggest that we go to war with Canada though many argue that we can't fight the Canadians."
-canada.661.a:0 "Damn you Canada"
+canada.661.a:0 "Damn you, Canada!"
 canada.661.b:0 "You have gone to far Canada. War!"
 
 canada.700.t:0 "The Imperial Scientific and Academic Council"
@@ -1144,7 +1158,7 @@ canada.703.d:0 "Canada has invited us to the Imperial Conference of 1936 to disc
 canada.703.a:0 "Let us go to Ottawa"
 
 canada.704.t:0 "Invitation to the Imperial Conference of 1936"
-canada.704.d:0 "Canada has invited us to the Imperial Conference of 1936 to discuss matters relating to the matters of the British empire. It would not do if we did not go to represent the interest of the 'Crown Jewel of the Empire.' "
+canada.704.d:0 "Canada has invited us to the Imperial Conference of 1936 to discuss matters relating to the matters of the British empire. It would not do if we did not go to represent the interest of the 'Crown Jewel of the Empire.'"
 canada.704.a:0 "Let us go to Ottawa"
 
 canada.705.t:0 "Invitation to the Imperial Conference of 1936"
@@ -1186,7 +1200,7 @@ canada.712.t:0 "The Empire's Research"
 canada.712.d:0 "The final speaker of the day, our delegate from Australasia stands up and speaks on the need for scientific investment. The economy needs modern science in order to keep up to pace and not stagnate. While the military to take back India and Great Britain need the most modern weapons."
 canada.712.a:0 "Research Investment for the Empire"
 
-canada.713.t:0 "The empire's Research"
+canada.713.t:0 "The Empire's Research"
 canada.713.d:0 "The final speaker of the day, the delegate from Australasia stands up and speaks on the need for scientific investment. The economy needs modern science in order to keep up to pace and not stagnate. While the military to take back India and Great Britain need the most modern weapons."
 canada.713.a:0 "Research Investment for the empire"
 canada.713.b:0 "It is not in our interests."
@@ -1253,7 +1267,7 @@ canada.304.a:0 "Long live Anglo-Portugese Friendship"
 
 canada.305.t:0 "No Anglo-Portugal Treaty"
 canada.305.d:0 "Terrible news, the Portuguese have refused to reactivate the Anglo-Portugal Alliance. We will need to find other allies for the Entente."
-canada.305.a:0 "Damn you Portugal"
+canada.305.a:0 "Damn you, Portugal!"
 
 
 
@@ -1326,11 +1340,11 @@ canada.800.d:0 "With the King in Buckingham Palace overseeing the restoration of
 canada.800.a:0 "Personal Rule"
 canada.800.b:0 "Appoint the king's Brother Albert"
 canada.800.c:0 "Appoint Robert Brooke-Popham"
-canada.800.e:0 "Leave the Choice to the Canadians"
+canada.800.e:0 "Leave it up to the Canadians"
 
 canada.801.t:0 "The King Retains Personal Rule"
 canada.801.d:0 "After the liberation of the United Kingdom, there were suggestions that the office of Governor-General might be revived, considering that the attention of the King would naturally be focussed on reconstruction in the United Kingdom. However, Edward VIII has decided to retain personal rule in Canada, suggesting that the eternal link between the two countries is embodied in his person."
-canada.801.a:0 "Hopefully the King Does Not Ignore Canada"
+canada.801.a:0 "Hopefully the King does not ignore Canada"
 
 canada.802.t:0 "The King Appoints His Brother Albert"
 canada.802.d:0 "After the liberation of the United Kingdom, there were suggestions that the office of Governor-General might be revived, considering that the attention of the King would naturally be focussed on reconstruction in the United Kingdom. After due consideration, the King has appointed his brother Albert as a permanent Governor-General. This appoint has been received reasonably well - though there was some hope a Canadian might fill the post, the Prince made a good impression in Canada during the Exile, particularly among Liberal politicians."
@@ -1347,9 +1361,9 @@ canada.804.b:0 "The War Hero, Georges Vanier"
 
 canada.805.t:0 "Investing in Britain"
 canada.805.d:0 "With reconstruction going ahead in the United Kingdom a number of leaders have gathered in Parliament Hill to discuss how Canada should help invest in the mother country. We can invest a small, medium or large amount of Canadian talent and economy into helping to rebuild the United Kingdom. The larger the investment the better things will be for the mother country, though it also means diverging industry away from Canada which might ruffle feathers."
-canada.805.a:0 "Small Investment"
-canada.805.b:0 "Medium Investment"
-canada.805.c:0 "Large Investment"
+canada.805.a:0 "A small investment should do."
+canada.805.b:0 "A moderate investment should do."
+canada.805.c:0 "A large investment should do."
 
 canada.806.t:0 "Canadian Investment"
 canada.806.d:0 "News has reached us that Canada is investing a small portion of their economy into helping to rebuild the country. While we would have liked more, every bit helps to rebuild the country and make Britain once again a green and pleasant land without syndicalism in the country."
@@ -1357,30 +1371,29 @@ canada.806.a:0 "Three cheers for Canada!"
 
 canada.807.t:0 "Investing in Britain"
 canada.807.d:0 "News has reached us that Canada is investing a portion of their economy into helping to rebuild the country. It is a respectable and we couldn't have asked for more in our hour of need. This will be of great help in getting the country back on her feet after Syndicalist Rule."
-canada.807.a:0 "Small Investment"
+canada.807.a:0 "Three cheers for Canada!"
 
 canada.808.t:0 "Investing in Britain"
 canada.808.d:0 "News has reached us that Canada is investing a Large portion of their economy into helping to rebuild the country. This is more then we could have asked for. This will help greatly in bouncing back from the destruction the Syndicalist rule of the country."
-canada.808.a:0 "Small Investment"
+canada.808.a:0 "Three cheers for Canada!"
 
 canada.809.t:0 "Fate of the House of Lords"
 canada.809.d:0 "When the British Revolution happened the Canadian Senate was replaced by the House of Lords. Now however with the liberation of the British Isles, many nobles and aristocrats are moving back to the British Isles. This however has left the upper house of Canada rather empty. Two proposals have emerged as to what to do about the upper house. The first is that we should just abolish the House of Lords and become a unicameral government. The second is that we should elevate a number of new men and women to the nobility."
 canada.809.a:0 "Abolish the House of Lords"
-canada.809.b:0 "Create new nobility"
+canada.809.b:0 "Create a new, Canadian upper class"
 
 canada.810.t:0 "Food from Canada"
 canada.810.d:0 "As we rebuild Britain from the syndicalist rule, one thing that has come to our attention is the need for Food. While British farms and fisheries produce enough, adjusting away from syndicalism is causing problems. However, thankfully the Canadians have stepped in to provide us with food to feed our population."
 canada.810.a:0 "Thank you Canadians"
 
 canada.811.t:0 "Canadian Merchant Marine"
-canada.811.d:0 "As partial reparation for the repatriation of the British Merchant Navy and given the extraordinary efforts showed by Canada in the reconquest of Great Britain, the British government decided to offer some subsidies to Canadian merchant seafarers, to help them expand their own Merchant Navy. After some months, we can already see some results, with new Canadian vessels riding the waves of the open seas"
-canada.811.a:0 "Ready Aye Ready"
+canada.811.d:0 "As partial reparation for the repatriation of the British Merchant Navy and given the extraordinary efforts showed by Canada in the reconquest of Great Britain, the British government decided to offer some subsidies to Canadian merchant seafarers, to help them expand their own Merchant Navy. After some months, we can already see some results, with new Canadian vessels riding the waves of the open seas."
+canada.811.a:0 "Aye aye!"
 
 canada.812.t:0 "A new generations of Canadian officers"
 canada.812.d:0 "Many young Canadian officers proved their value during the reconquest of Great Britain, showing their valor and their tactical and commanding abilities. Now that many British officers decided to repatriate, the Armed Forces Council decided to promote many of them to higher command posts. Some of them have also been given important roles in military academies so that their experience will help shape new tacticians, strategists and leaders."
 canada.812.a:0 "Excellent"
 
 canada.360.t:0 "Princess Elizabeth's radio Speech"
-canada.360.d:0 "Today Princess Elizabeth, daughter of King Edward's brother Prince Albert, gave a speech on the radio to children across the empire. She expresses her sympathy and compassion to the children throughout the empire who will not see their parents again for sometime as they go out to reclaim the home islands from the Syndicalists. "
+canada.360.d:0 "Today Princess Elizabeth, daughter of King Edward's brother Prince Albert, gave a speech on the radio to children across the empire. She expresses her sympathy and compassion to the children throughout the empire who will not see their parents again for sometime as they go out to reclaim the home islands from the Syndicalists."
 canada.360.a:0 "Thank you Princess Elizabeth"
-
