@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 ### Flags and Tooltips ###
 chamberofprinces:0 "Chamber of Princes"
@@ -22,6 +22,38 @@ PRF_DEH_convert_slower:0 "Cores will be gained on the §Y[DEH.GetName]§!'s stat
 PRF_DEH_cores_1:0 "May now gain cores on §Y[DEH.GetName]§!'s northern states\n"
 PRF_DEH_cores_2:0 "May now gain cores on §Y[DEH.GetName]§!'s southern states\n"
 PRF_exiles_come:0 "Two units of infantry arrive in Hyderabad as exiles from the lost territory\n"
+PRF_receive_mysore_force:0 "Mysore's princely forces will be added to the national army\n"
+PRF_receive_trv_force:0 "Travancore's princely forces will be added to the national army\n"
+PRF_kashmir_forces:0 "Kashmir's princely forces will join the war!\n"
+PRF_baroda_forces:0 "Baroda's princely forces will join the war!\n"
+PRF_orissa_forces:0 "Rebels forces in Orissa will join the war!\n"
+
+### Parties ###
+PRF_totalist_party:0 "Maximists"
+PRF_totalist_party_long:0 "Maximists"
+PRF_syndicalist_party:0 "Syndicalists"
+PRF_syndicalist_party_long:0 "Syndicalists"
+PRF_radical_socialist_party:0 "Agrarians"
+PRF_radical_socialist_party_long:0 "Agrarians"
+PRF_social_democrat_party:0 "Westernisers"
+PRF_social_democrat_party_long:0 "Westernisers"
+PRF_social_liberal_party:0 "Westernisers"
+PRF_social_liberal_party_long:0 "Westernisers"
+PRF_market_liberal_party:0 "Westernisers"
+PRF_market_liberal_party_long:0 "Westernisers"
+PRF_social_conservative_party:0 "Council of Princes"
+PRF_social_conservative_party_long:0 "Council of Princes"
+PRF_authoritarian_democrat_party:0 "Council of Princes"
+PRF_authoritarian_democrat_party_long:0 "Council of Princes"
+PRF_paternal_autocrat_party:0 "Council of Princes"
+PRF_paternal_autocrat_party_long:0 "Council of Princes"
+PRF_national_populist_party:0 "Ittehad-ul Muslimeen"
+PRF_national_populist_party_long:0 "Ittehad-ul Muslimeen"
+
+### Leader Descriptions ###
+POLITICS_OSMAN_ALI_KHAN_DESC:0 "Prince Osman Ali Khan, once but a subject of the mighty British Empire, united the southern Princely States in the chaos following the dissolution of the British Raj. Under his leadership, the fledgling Princely Federation routed socialist invaders and internal fifth-columnists alike, and thus prevented Domionist attack. As the Federation has matured, however, difficulties have arisen regarding the very nature of the nation's government. Osman Ali Khan must now guide the Federation from the deadly grasp of its many encumbrances, and into a more stable tomorrow."
+POLITICS_KRISHNA_WADIYAR_IV_DESC:0 "Krishna Raja Wadiyar IV, Prince of Mysore, is a scholar at heart. Renowned for his great collections of music and literature, and singular amongst Indian lords for his patronage of higher-learning, Krishna Raja Wadiyar yearns for enlightenment. His vision of an Indian 'city-on-a-hill' however, was nearly dashed with the end of the British Empire and turmoil that followed. Now, as leader of the Princely Federation, he strives to illuminate southern India, and perhaps one day, the entire sub-continent."
+POLITICS_JAYACHAMARAJENDRA_WADIYAR_V_DESC:0 "Jayachamarajendra Raja Wadiyar V, Prince of Mysore, has succeeded his erudite uncle to the throne of Mysore, and now, the Princely Federation itself. Jayachamarajendra, much like his uncle, is a academic, unlike his patron predecessor, however, he is himself a noteworthy artist. Jayachamarajendra seeks to paint in all of India, not just the Federation, a harmonious mosaic incorporating the sub-continent's many peoples and ways of life; through skillful policy, his idealic fantasies may yet be in reach."
 
 ### Ideas ###
 PRF_rule_of_princes_1:0 "Decentralised Rule"
@@ -377,8 +409,8 @@ prf.145.a:0 "Hari Singh of Kashmir is a good reactionary, court him!"
 prf.145.b:0 "Court both the powerful princes of Baroda and Kashmir!"
 prf.145.c:0 "Abandon this scheming and declare war!"
 prf.146.t:0 "Treason and Sedition Amongst our Princes!"
-prf.146.kashmir:0 "Although the current cabinet has reformed much of the apparatus of state and addressed the issue of the Diarchy, some maharajas remain staunchly opposed to the central government in Delhi. The young maharaja in Jammu and Kashmir to the North looks on our government with mistrust and hate, harbouring secret affections for the feudal regime in Hyderabad. We have received discomforting reports that the prince is in clandestine communication with [From.GetNameDef] about the possibility of secession from our state - opening an internal front against our army once the princes march North again. Something must be done!"
-prf.146.baroda:0 "Although the current cabinet has reformed much of the apparatus of state and addressed the issue of the Diarchy, some maharajas remain staunchly opposed to the central government in Delhi. Both the young maharajas of Baroda in Gjurat and Jammu and Kashmir to the North look on our government with mistrust and hate, harbouring secret affections for the feudal regime in Hyderabad. We have received discomforting reports that both of these princes are in clandestine communication with [From.GetNameDef] about the possibility of secession from our state - opening an internal front against our army once the princes march North again. Something must be done!"
+prf.146.d.kashmir:0 "Although the current cabinet has reformed much of the apparatus of state and addressed the issue of the Diarchy, some maharajas remain staunchly opposed to the central government in Delhi. The young maharaja in Jammu and Kashmir to the North looks on our government with mistrust and hate, harbouring secret affections for the feudal regime in Hyderabad. We have received discomforting reports that the prince is in clandestine communication with [From.GetNameDef] about the possibility of secession from our state - opening an internal front against our army once the princes march North again. Something must be done!"
+prf.146.d.baroda:0 "Although the current cabinet has reformed much of the apparatus of state and addressed the issue of the Diarchy, some maharajas remain staunchly opposed to the central government in Delhi. Both the young maharajas of Baroda in Gjurat and Jammu and Kashmir to the North look on our government with mistrust and hate, harbouring secret affections for the feudal regime in Hyderabad. We have received discomforting reports that both of these princes are in clandestine communication with [From.GetNameDef] about the possibility of secession from our state - opening an internal front against our army once the princes march North again. Something must be done!"
 prf.146.a:0 "Rush troops to Kashmir and arrest the Maharaja!"
 prf.146.b:0 "Declare martial law in Baroda and Kashmir and arrest the princes!"
 prf.147.t:0 "The Princely Plot Succeeds!"
