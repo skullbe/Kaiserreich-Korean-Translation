@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 ### Loading Messages ###
 LOADING_GUI:0 "명예로운 평화에 서명하는 중"
@@ -55,6 +55,20 @@ CREATING_CHKSUM:0 "런던에 대한 직접 통치를 준비하는 중"
 GENERATING_GRADIENT_BORDERS:0 "혁명을 배반하는 중"
 #"Generating Gradient Borders"
 
+### Difficulty ### 
+custom_diff_strong_ger:0 "독일 제국 강화"
+custom_diff_strong_frasri:0 "인터네셔널 강화"
+custom_diff_strong_eng:0 "브리튼 연방 강화"
+custom_diff_strong_can:0 "캐나다 강화"
+custom_diff_strong_rus:0 "러시아 강화"
+custom_diff_strong_sov:0 "소비에트 강화"
+custom_diff_strong_aus:0 "오스트리아 강화"
+custom_diff_strong_usa:0 "미국 강화"
+custom_diff_strong_nfa:0 "국가주의 프랑스 강화"
+custom_diff_strong_ita:0 "이탈리아 강화"
+custom_diff_strong_jap:0 "일본 강화"
+custom_diff_strong_qie:0 "청나라 강화"
+
 ### Autonomy ###
 autonomy_colony:1 "자치 괴뢰국"
 autonomy_dominion:1 "자치 종속국"
@@ -71,22 +85,27 @@ weapons_manufacturer:0 "무기 제조사"
 tank_manufacturer:1 "중장비 제조사"
 air_naval_manufacturer:0 "항공/선박 제조사"
 POLITICS_NOELECTIONS:0 "선거는 이벤트에 따라 열림."
-can_replace_hog:0 "총리 재임명 가능"
+can_replace_hog:0 "정부 수반 재임명 가능"
+for_cannot_be_replaced:0 "외교 장관 재임명 불가"
+eco_cannot_be_replaced:0 "경제 장관 재임명 불가"
+sec_cannot_be_replaced:0 "내무부 장관 재임명 불가"
 ministers_cannot_be_replaced:0 "장관 재임명 불가"
 
 ### Factions ###
 Mittelmacht:0 "중앙유럽공동체"
 Entente:0 "협상국"
-Belgrade_Pact:0 "베오그라드 조약"
-Third_International:0 "제3인터내셔널"
+Belgrade_Pact:0 "베오그라드 조약 기구"
+Third_International:0 "제 3인터내셔널"
 Mongolian_Alliance:0 "대칸국"
-Scandinavian_Pact:0 "스칸디나비아 조약"
+Scandinavian_Pact:0 "스칸디나비아 조약 기구"
 Mediterranean_Bloc:0 "지중해 연합"
 
 ### Name and Description ###
 BM_HISTORY_TITLE:0 "역사 되짚어보기"
 KR_SCENARIO_NAME:0 "세계 대전의 유산"
 KR_SCENARIO_DESC:0 "1936년은 세계사의 전환점이 될 것입니다. 거대한 기회와 위험이 다가오는 때입니다. 독일 제국과 프랑스 코뮌 사이의 긴장이 거세지고 있습니다. 러시아와 미합중국은 내부적으로 불안정해지고 있으며 쇠락한 제국 오스트리아와 오스만은 쇠퇴하고 있습니다. 한편 노동조합주의, 전체주의 그리고 급진사회주의는 전 세계에 뿌리내리고 있습니다. 세계 대전 종전 후 15년. 옛 적국들이 고개를 들고 있습니다. 단 하나의 불씨가 이 화약고를 폭발시키고 말 것입니다..."
+
+### Major Nations ###
 
 ### Germany ###
 GER_KR_GATHERING_STORM_DESC:0 "1919년, 5년의 전쟁 끝에 독일군은 프랑스에서 협상국의 방어선을 무너뜨렸습니다. 그리고 1921년, 영국의 항복이 뒤따랐습니다. 대전쟁은 독일을 유일무이한 강대국으로 만들어 주었지만, 1930년대 이후로 독일은 내리막길을 걷고 있습니다. 후퇴하는 세계 경제로 인해 독일의 산업 생산량이 약화된 반면 다른 국가들의 제조업은 회복했고, 독일의 동부 위성국들에서는 민족주의가 자라나 제국에서 떠나가려고 하고 있습니다. 1936년, 독일은 갈림길에 서있고, 우리는 과거의 적들이 예전의 힘을 되찾는 동안 강대한 제국이 이미 금이 나고 있는 것을 볼 수 있습니다..."
@@ -109,6 +128,38 @@ RUS_KR_GATHERING_STORM_DESC:0 "러시아 내전 동안, 백군은 가진 모든 
 ### United States ###
 USA_KR_GATHERING_STORM_DESC:0 "미합중국은 대전쟁에서 고립에서 개입으로 정책을 변경할뻔 했지만, 결국에는 전쟁에서 벗어나 있었습니다. 이것은 동맹국의 승리로 이어졌습니다. 그 이후로, 미합중국은 유럽 무역 기회에 있어서 경제적으로 어려움을 겪어왔고 협상국의 빚 상환은 독일의 승리로 인해 불가능해졌습니다. 여전히 국제적으로 '아무 것도 아닌 곳'으로 여겨지는 미합중국은 커져가는 내부의 반대를 마주쳤는데, 공화당-민주당 헤게모니가 두 단체에게 도전받았습니다 - 바로 생디칼리스트들과 미국우선연합입니다. 본국의 커져가는 위협과 해외에서의 높지않은 평판으로 인해, 상황은 미합중국에게 좋지 않습니다..."
 
+### Japan ###
+JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일본의 권리를 보장해줬지만, 욱일제국에서 모든 것이 잘 풀린 것은 아닙니다. 경제적 동요 이후 1926년 생디칼리스트의 히로히토 섭정-왕자 암살 시도로 그 극에 이르렀고, 불안정한 정부는 또다른 위기의 해를 보냈습니다; 첫 문제는 다나카 장군이었고, 다음은 민주 연립 내각이었으며 그 다음은 북동부 중국에 대한 개입이었습니다. 1936년, 일본은 제국을 확장할 태세를 취했습니다. 독일의 지배가 쇠퇴하고 있는것으로 보이는 가운데, 일본인들은 남은 청나라의 영토와 독일의 태평양 지역들을 탐내고 있습니다..."
+
+### Minor Nations ###
+
+### Ethiopia ###
+ETH_KR_GATHERING_STORM_DESC:0 "Abyssinia was one of the only countries in Africa to remain independent during the Scramble for Africa after successfully defeated an Italian invasion in 1896 in the Battle of Adwa. An ally of Germany in the last stages of the Weltkrieg, it seized Eritrea back from Italy at a great cost, while proving to observers it's army was incapable of modern war. The massive debt contracted in the war and the years shortly after still cripples the Empire and the reformist goals of the new Emperor, Halie Selassie. Slavery and other backwards institutions stand in the way of a modern, reborn Ethiopia. The King of Kings has difficult choices ahead of him."
+
+#### Liberia ###
+LBR_KR_GATHERING_STORM_DESC:0 "Liberia is an independent West African nation under the protection of the United States of America. Secret Societies, such as Poro for the lower classes and the Masonic Order of Liberia at the top ensure that the rich stay rich, and the poor can govern themselves from behind a mask of secrecy. During the Revolution in Britain, Sierra Leone was occupied and then annexed by France. The wave of Leonese refugees was exceeded by the Ivorian refugees later. Now Liberia is engulfed by debt from failed projects, and her future uncertain. Will President Edwin Barclay, a legitimist in the TWP, be able to save Liberia from disaster?."
+
+### Mittelafrika ###
+MAF_KR_GATHERING_STORM_DESC:0 "Born after the absorption of French and Belgian colonies, the Freistadt Mittelafrika is a massive swath of land, composed of Cities, Chiefdoms, Kingdoms, Farmlands, Jungles, Savannahs, Deserts and more; for it covers half of the Dark Continent. A complex web weave of treaties, agreements and tacit understandings, the Colony, while stable, is remarkably unprofitable; something that the new man in charge, Hermann von Göring, and his men wish to change, no matter the cost. But could that cost be too great for Mittelafrika to pay? And will the Kaiser allow Göring to take such a risk?"
+
+### Norway ###
+NOR_KR_GATHERING_STORM_DESC:0 "The Kingdom of Norway pursued a policy of neutrality during the Weltkrieg and remained in the British sphere of influence after peace was signed in 1921. Its dependence on the United Kingdom would prove to be disastrous when the British revolution of 1925 threw the Norwegian economy into chaos. Unlike its neighbours, Norway is not a member of the German 'Zollverein' and the resulting lack of continental trade has prevented an economic recovery. As the public is slowly losing confidence in democracy, both syndicalists and nationalists are calling for radical solutions and the election of 1936 is rapidly approaching..."
+
+### Portugal ###
+POR_KR_GATHERING_STORM_DESC:0 "The Kingdom of Portugal was restructured in 1922, after the disaster that was the Republic and the great shame it brought to the nation. Under the political control of the Intgralists since 1926, the Year of the Second Ultimatum, tense border incidents with Mittelafrika are commonplace, and three different offers to buy Angola and Mozambique were refused, for the King and his government consider every inch of overseas land a proper part of the Realm. While close to the Entente, Portugal still needs to renew its treaties with Great Britain, for the Syndicalist threat looms over Europe, and dark clouds gather over Spain..."
+
+### Serbia ###
+SER_KR_GATHERING_STORM_DESC:0 "Being the catalyst for the Weltkrieg, the war proved disastrous for Serbia. Until the 1920s the country was under Austrian military occupation, when it was reestablished as a rump state. The country has kept a low profile, knowing that trying to retake any of the lost land would result in the wrath of Austria-Hungary. While officially a kingdom, Petar Bojovic has ruled Serbia for almost two decades as regent. Now though, the situation is changing. Romania and Greece are looking to regain their lost territory from Bulgaria, and with the 1937 Ausgleich negotiations in Austria, Serbia might be able to finally reassert herself as an independent power..."
+
+### Somalia ###
+SOM_KR_GATHERING_STORM_DESC:0 "Somalia was born out of the Weltkrieg, as the different protectorates of Italy rallied under the flag of Warsangali by the war's end. While nominally a federation with its capital at Mogadishu, much power emanates from Las Khorey. The legal limbo of the federation is unnerving and meet with criticism from the youth and army officers. The transformations in the economy that independence brought, such as railroads and factories and well armed military forces, contrast with famines and the traditional way of the rural areas. But this prosperity might not last, for Abyssinia's gaze turns towards the Ogaden, and war fast approaches... "
+
+### South Africa ###
+SAF_KR_GATHERING_STORM_DESC:0 "Formed in 1910 as a merger of the various British possessions in South Africa, the Union of South Africa is currently a parliamentary republic, having seceded from the British Empire during the crisis of 1925. The National Party's victory in the last election has them poised to increase restrictions on the country's black majority, amidst rising tensions and a growing opposition from the Dominion Party which advocates a return to the British Empire. It is expected the issue will finally be resolved come the 1938 elections - though many fear the result will almost inevitably be violence, if not civil war."
+
+### Switzerland ###
+SWI_KR_GATHERING_STORM_DESC:0 "Something something neutrality something something"
+
 ### Federation of Italy ###
 ITA_KR_GATHERING_STORM_DESC:0 "1919년, 이탈리아는 동맹국의 공격에 무너졌고, 이탈리아의 배신에 대한 분노와 이탈리아 반도를 분단시키려는 오스트리아의 요구가 합쳐져 명목상으로 교황이 지배하는 자치 공국들의 연방이 만들어졌습니다. 비오 11세 교황의 도움을 받는 급진파 추기경 단체는 최근에 교황 권력의 확장과 중앙집권화를 밀어붙였고 연방의 권력을 장악했습니다. 하지만, 교황청은 새 권력에 대한 여러 도전들을 맞닥뜨려야만 합니다 - 연방의 남부와 서부에 있는 악마같은 생디칼리스트 정권들부터 화가난 북쪽의 오스트리아까지 말입니다."
 
@@ -116,28 +167,31 @@ ITA_KR_GATHERING_STORM_DESC:0 "1919년, 이탈리아는 동맹국의 공격에 �
 NFA_KR_GATHERING_STORM_DESC:0 "1919년, 프랑스 국가 조직 전부와 프랑스군은 프랑스 코뮌을 피해 해군과 함께 알제리로 달아났습니다. 이곳에서, 정치인들은 다시 처음부터 시작하기로 결정했고 망명 제4 공화국을 선포하고 본토의 권리를 주장하며 영국과 동맹을 유지했었습니다. 곧이어, 대부분의 망명자들은 민족주의자나 권위주의자가 되거나 둘 모두로 되었고 군대는 페르디낭 포슈의 지도 아래에서 권력을 장악했고 뒤이어 베르됭의 승장 필리프 페텡이 그를 이었습니다. 국민 프랑스는 원주민들의 불만에도 불구하고 본토를 되찾을 준비를 할 수 있을까요? - 드골의 청년 근위대의 도움을 받을 수 있을지도 모릅니다..."
 
 ### Japan ###
-JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일본의 권리를 보장해줬지만, 욱일제국에서 모든 것이 잘 풀린 것은 아닙니다. 경제적 동요 이후 1926년 생디칼리스트의 히로히토 섭정-왕자 암살 시도로 그 극에 이르렀고, 불안정한 정부는 또다른 위기의 해를 보냈습니다; 첫 문제는 다나카 장군이었고, 다음은 민주 연립 내각이었으며 그 다음은 북동부 중국에 대한 개입이었습니다. 1936년, 일본은 제국을 확장할 태세를 취했습니다. 독일의 지배가 쇠퇴하고 있는것으로 보이는 가운데, 일본인들은 남은 청나라의 영토와 독일의 태평양 지역들을 탐내고 있습니다..."
-
+#JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일본의 권리를 보장해줬지만, 욱일제국에서 모든 것이 잘 풀린 것은 아닙니다. 경제적 동요 이후 1926년 생디칼리스트의 히로히토 섭정-왕자 암살 시도로 그 극에 이르렀고, 불안정한 정부는 또다른 위기의 해를 보냈습니다; 첫 문제는 다나카 장군이었고, 다음은 민주 연립 내각이었으며 그 다음은 북동부 중국에 대한 개입이었습니다. 1936년, 일본은 제국을 확장할 태세를 취했습니다. 독일의 지배가 쇠퇴하고 있는것으로 보이는 가운데, 일본인들은 남은 청나라의 영토와 독일의 태평양 지역들을 탐내고 있습니다..."
+#
 ### Ottoman Empire ###
-OTT_KR_GATHERING_STORM_DESC:0 "오스만 군대는 1918년 붕괴하기 시작했고 항복할 것처럼 보였습니다. 하지만 프랑스가 무너지자, 독일은 마침내 무너지는 오스만 전선에 자유롭게 병력들을 보낼 수 있었습니다. 영국은 바그다드와 예루살렘에서 빠르게 쫓겨났고, 동맹국은 곧이어 수에즈 운하에 도달할 수 있었습니다. 크게 승리해, 오스만은 1921년 평화조약에서 키프로스와 여러 괴뢰정부들을 얻었습니다; 하지만 여전히 제국은 산업화되지 않은 상태였고 개혁이 절박히 필요했습니다. 하지만, 모든 것을 잃은 것은 아닙니다. 유럽의 정치 상황은 빠르게 변하고 있고, 많은 기회가 남아 있습니다. '유럽의 병자'는 마침내 회복할 수 있을까요?"
-
+#OTT_KR_GATHERING_STORM_DESC:0 "오스만 군대는 1918년 붕괴하기 시작했고 항복할 것처럼 보였습니다. 하지만 프랑스가 무너지자, 독일은 마침내 무너지는 오스만 전선에 자유롭게 병력들을 보낼 수 있었습니다. 영국은 바그다드와 예루살렘에서 빠르게 쫓겨났고, 동맹국은 곧이어 수에즈 운하에 도달할 수 있었습니다. 크게 승리해, 오스만은 1921년 평화조약에서 키프로스와 여러 괴뢰정부들을 얻었습니다; 하지만 여전히 제국은 산업화되지 않은 상태였고 개혁이 절박히 필요했습니다. 하지만, 모든 것을 잃은 것은 아닙니다. 유럽의 정치 상황은 빠르게 변하고 있고, 많은 기회가 남아 있습니다. '유럽의 병자'는 마침내 회복할 수 있을까요?"
+#
 ### Netherlands ###
-HOL_KR_GATHERING_STORM_DESC:0 "유럽에서 중립을 유지했지만, 네덜란드는 자신의 식민지들에서 치열한 도전을 맞닥뜨렸습니다. 인도네시아 독립 운동은 날이 갈수록 커졌고, 네덜란드 해군의 위대한 날은 오래전에 사라졌습니다. 그리고 유럽에서도 상황이 더 나빠질 수도 있습니다; 네덜란드는 독일과 항상 특별한 관계를 가져왔으며 특히 경제적으로 그러했습니다 - 이것은 독일에서 커지는 경제 문제가 저지대에도 확대될 수도 있다는 것을 의미합니다. 그리고 이 모든 것들은 점차 더 많은 네덜란드인들이 프랑스의 생디칼리즘에 불안해하고 위대한 네덜란드의 꿈이 흔들리는 순간에 다가왔습니다..."
-
+#HOL_KR_GATHERING_STORM_DESC:0 "유럽에서 중립을 유지했지만, 네덜란드는 자신의 식민지들에서 치열한 도전을 맞닥뜨렸습니다. 인도네시아 독립 운동은 날이 갈수록 커졌고, 네덜란드 해군의 위대한 날은 오래전에 사라졌습니다. 그리고 유럽에서도 상황이 더 나빠질 수도 있습니다; 네덜란드는 독일과 항상 특별한 관계를 가져왔으며 특히 경제적으로 그러했습니다 - 이것은 독일에서 커지는 경제 문제가 저지대에도 확대될 수도 있다는 것을 의미합니다. 그리고 이 모든 것들은 점차 더 많은 네덜란드인들이 프랑스의 생디칼리즘에 불안해하고 위대한 네덜란드의 꿈이 흔들리는 순간에 다가왔습니다..."
+#
 ### Mexico ###
-MEX_KR_GATHERING_STORM_DESC:0 "멕시코는 예전에 서로 적이었던 알바로 오브레곤과 에밀리아노 사파타의 연합이 지난 몇 년동안 지배하고 있습니다. 오브레곤은 내전의 피해를 회복하기 위해 대규모 재건 계획을 시작했으며, 사파타의 토지 계혁은 거의 4500만 에이커의 경작지를 소작농들에게 재분배했습니다. 그리고 1932년 사파타가 대통령으로 선출되었지만, 지금까의 큰 진전에도 불구하고 다음 대선은 불확실합니다. 사파타의 지원을 받는 판초 비야가 가장 가능성이 크지만, 전체주의자인 플루타르코 카예스가 의외의 결과를 보여줄지도 모릅니다. 그리고 외국인 소유물의 사회화에 대한 의문이 남아있는 가운데, 미합중국은 혼란에 빠져들고 있습니다..."
-
+#MEX_KR_GATHERING_STORM_DESC:0 "멕시코는 예전에 서로 적이었던 알바로 오브레곤과 에밀리아노 사파타의 연합이 지난 몇 년동안 지배하고 있습니다. 오브레곤은 내전의 피해를 회복하기 위해 대규모 재건 계획을 시작했으며, 사파타의 토지 계혁은 거의 4500만 에이커의 경작지를 소작농들에게 재분배했습니다. 그리고 1932년 사파타가 대통령으로 선출되었지만, 지금까의 큰 진전에도 불구하고 다음 대선은 불확실합니다. 사파타의 지원을 받는 판초 비야가 가장 가능성이 크지만, 전체주의자인 플루타르코 카예스가 의외의 결과를 보여줄지도 모릅니다. 그리고 외국인 소유물의 사회화에 대한 의문이 남아있는 가운데, 미합중국은 혼란에 빠져들고 있습니다..."
+#
 ### Delhi ###
-DEH_KR_GATHERING_STORM_DESC:0 "너무 늦게도, 1925년의 앵글로-인도 조약은 보석을 제국에 묶어둘 수 없게 만들었습니다. 본토의 혁명 이후, 인도 국민 회의의 지도부는 캘커타에서 지역 정부를 소집했습니다. 뒤이어 일어난 내전의 혼란 속에서, 남부의 왕후들은 델리 정부로부터 반란을 일으켰고, 내전은 1928년까지 지속되었습니다. 세 인도 - 생디칼리스트 바라트 코뮌, 남부 왕후 연맹 그리고 협상국에 충성하는 델리 정부 - 사이의 불안한 편화는 그 이후로 지속되었지만, 세 국가 모두 최후를 맞은 영국령 인도 제국의 유산을 둘러싼 새로운 갈등을 가속화하고 있습니다..."
-
+#DEH_KR_GATHERING_STORM_DESC:0 "너무 늦게도, 1925년의 앵글로-인도 조약은 보석을 제국에 묶어둘 수 없게 만들었습니다. 본토의 혁명 이후, 인도 국민 회의의 지도부는 캘커타에서 지역 정부를 소집했습니다. 뒤이어 일어난 내전의 혼란 속에서, 남부의 왕후들은 델리 정부로부터 반란을 일으켰고, 내전은 1928년까지 지속되었습니다. 세 인도 - 생디칼리스트 바라트 코뮌, 남부 왕후 연맹 그리고 협상국에 충성하는 델리 정부 - 사이의 불안한 편화는 그 이후로 지속되었지만, 세 국가 모두 최후를 맞은 영국령 인도 제국의 유산을 둘러싼 새로운 갈등을 가속화하고 있습니다..."
+#
 ### Brazil ###
-BRA_KR_GATHERING_STORM_DESC:0 "브라질의 취약한 제1 공화국은 작년 아르헨티나에게 굴욕적인 패전을 당한 후 죽음의 위기에 처했습니다. 생디칼리스틀의 연합 조직인 브라질 노동자 연합은 남동부에서 심각한 노동 파업을 주도하고 있습니다. 한편 민족주의적 사상이 중산층에서 점차 인기를 얻고 있습니다. 군대 역시 더 이상 신뢰할 수가 없습니다: 전쟁 기간에 이미 반란을 조직했었던 장교 단체인 '소장파'는 어떤 정치 세력이든 상관없이 동원될 수 있습니다. 8월에 긴급 선거가 필요했고, 일부 사람들은 오직 기적만이 브라질의 민주주의를 구할 수 있다고 말합니다..."
-
+#BRA_KR_GATHERING_STORM_DESC:0 "브라질의 취약한 제1 공화국은 작년 아르헨티나에게 굴욕적인 패전을 당한 후 죽음의 위기에 처했습니다. 생디칼리스틀의 연합 조직인 브라질 노동자 연합은 남동부에서 심각한 노동 파업을 주도하고 있습니다. 한편 민족주의적 사상이 중산층에서 점차 인기를 얻고 있습니다. 군대 역시 더 이상 신뢰할 수가 없습니다: 전쟁 기간에 이미 반란을 조직했었던 장교 단체인 '소장파'는 어떤 정치 세력이든 상관없이 동원될 수 있습니다. 8월에 긴급 선거가 필요했고, 일부 사람들은 오직 기적만이 브라질의 민주주의를 구할 수 있다고 말합니다..."
+#
 ### Romanian ###
-ROM_KR_GATHERING_STORM_DESC:0 "루마니아는 대전쟁에서 패배한 이후 1918년 부쿠레슈티 조약에 서명할 수 밖에 없었습니다. 도브로제아의 남부 지방은 불가리아에게 반환되었고, 올테니아는 비무장화되었으며 유전은 독일에게 2012년까지 임대되었습니다. 전쟁이 끝난 후 국왕이 서거하자, 군대가 국가를 장악했습니다. 결국 군대와 극우파 정당 사이의 협력은 1935년 민족주의 철위대가 폭력적으로 정권을 차지하는 결과를 낳았습니다. 카리스마 있는 코르넬리우 젤레아 코드레아누가 이끄는 새 정부는 과거의 루마니아의 영광을 회복하는 한편, 새 정권을 축출하기를 원하는 왕정지지자들을 처리해야만 합니다..."
-
+#ROM_KR_GATHERING_STORM_DESC:0 "루마니아는 대전쟁에서 패배한 이후 1918년 부쿠레슈티 조약에 서명할 수 밖에 없었습니다. 도브로제아의 남부 지방은 불가리아에게 반환되었고, 올테니아는 비무장화되었으며 유전은 독일에게 2012년까지 임대되었습니다. 전쟁이 끝난 후 국왕이 서거하자, 군대가 국가를 장악했습니다. 결국 군대와 극우파 정당 사이의 협력은 1935년 민족주의 철위대가 폭력적으로 정권을 차지하는 결과를 낳았습니다. 카리스마 있는 코르넬리우 젤레아 코드레아누가 이끄는 새 정부는 과거의 루마니아의 영광을 회복하는 한편, 새 정권을 축출하기를 원하는 왕정지지자들을 처리해야만 합니다..."
+#
 ### History ###
 OTHER_KR_GATHERING_STORM_DESC:0 "세계의 크고 작은 국가들은 세계에서 주요한 역할로 등장할 기회를 기다리고 있습니다. 자신의 제국을 유지하려는 주요 국가들부터 대전쟁에서 잃은 자신의 것들을 되찾으려는 많은 국가들까지, 모든 국가들은 어려운 결정들을 내려야만 할 것이고 현실과 이상 사이의 균형을 잘 맞춰 세계의 미래에 영향을 미쳐야 할 것 입니다..."
+
+### Custom Triggers ###
+had_war:0 "(이)가 전쟁에서 싸움"
 
 ### Skill Level ###
 unskilled:0 "" #(unskilled)
@@ -146,11 +200,12 @@ expert:0 "" #(expert)
 blank:0 "" #\n
 
 ### Ministers ###
-head_of_government:0 "총리"
-foreign_minister:0 "외교부 장관"
-economy_minister:0 "경제부 장관"
-security_minister:0 "안보부 장관"
-intel_minister:0 "정보부 장관"
+head_of_government:0 "정부 수반"
+foreign_minister:0 "외교 장관"
+economy_minister:0 "경제 장관"
+security_minister:0 "내무부 장관"
+head_of_intel:0 "정보부 장관"
+
 decisions:0 "결단"
 naive_optimist:0 "순진한 낙관주의자"
 resource_industrialist:0 "자원 산업가"
@@ -176,7 +231,7 @@ social_conservative_promoter:0 "확고한 전통주의자"
 authoritarian_democrat_promoter:0 "권위적인 입헌주의자"
 paternal_autocrat_promoter:0 "매력적인 독재자"
 national_populist_promoter:0 "국가주의 선동가"
-great_compromiser:0 "대타협가"
+great_compromiser:0 "대협상가"
 
 ### Ideologies ###
 totalist:0 "전체주의자"
@@ -191,28 +246,28 @@ national_populist:0 "국가대중주의자"
 social_liberal:0 "사회자유주의자"
 
 ### Drift ###
-totalist_drift:0 "매일 전체주의자 지원"
-syndicalist_drift:0 "매일 노동조합주의자 지원"
-radical_socialist_drift:0 "매일 급진사회주의자 지원"
-social_democrat_drift:0 "매일 사회민주주의자 지원"
-market_liberal_drift:0 "매일 시장자유주의자 지원"
-social_conservative_drift:0 "매일 사회보수주의자 지원"
-authoritarian_democrat_drift:0 "매일 권위민주주의자 지원"
-paternal_autocrat_drift:0 "매일 세습전제주의자 지원"
-national_populist_drift:0 "매일 국가대중주의자 지원"
-social_liberal_drift:0 "매일 사회자유주의자 지원"
+totalist_drift:0 "매일 전체주의 지원"
+syndicalist_drift:0 "매일 생디칼리즘 지원"
+radical_socialist_drift:0 "매일 급진사회주의 지원"
+social_democrat_drift:0 "매일 사회민주주의 지원"
+market_liberal_drift:0 "매일 시장자유주의 지원"
+social_conservative_drift:0 "매일 사회보수주의 지원"
+authoritarian_democrat_drift:0 "매일 권위민주주의 지원"
+paternal_autocrat_drift:0 "매일 세습전제주의 지원"
+national_populist_drift:0 "매일 국가대중주의 지원"
+social_liberal_drift:0 "매일 사회자유주의 지원"
 
 ### Banned ###
-totalist_banned:0 "Banned Totalists"
-syndicalist_banned:0 "Banned Syndicalists"
-radical_socialist_banned:0 "Banned Radical Socialists"
-social_democrat_banned:0 "Banned Social Democrats"
-market_liberal_banned:0 "Banned Market Liberals"
-social_conservative_banned:0 "Banned Social Conservatives"
-authoritarian_democrat_banned:0 "Banned Authoritarian Democrats"
-paternal_autocrat_banned:0 "Banned Paternal Autocrats"
-national_populist_banned:0 "Banned National Populists"
-social_liberal_banned:0 "Banned Social Liberals"
+totalist_banned:0 "전체주의 금지됨"
+syndicalist_banned:0 "생디칼리즘 금지됨"
+radical_socialist_banned:0 "급잔사회주의 금지됨"
+social_democrat_banned:0 "사회민주주의 금지됨"
+market_liberal_banned:0 "시장자유주의 금지됨"
+social_conservative_banned:0 "사회보수주의 금지됨"
+authoritarian_democrat_banned:0 "권위민주주의 금지됨"
+paternal_autocrat_banned:0 "세습전제주의 금지됨"
+national_populist_banned:0 "국가대중주의 금지됨"
+social_liberal_banned:0 "사회자유주의 금지됨"
 
 ### Company Traits ###
 
@@ -404,6 +459,8 @@ fighter_techs:0 "전투기 장비"
 fighter_techs_research:0 "전투기 장비 연구 시간"
 support_tech:0 "지원장비"
 support_tech_research:0 "지원장비 연구 시간"
+cat_strategic_destruction:0 "Strategic Destruction Tech"
+marine_tech_research:0 "Marines Tech Research Time"
 
 ### Army Command Traits ###
 
@@ -614,7 +671,7 @@ generic_equipment_effort:0 "장비 현대화"
 generic_equipment_effort_desc:0 "For a long time, military breakthroughs were slow, and having a good bolt-action rifle was enough. However, these rifles of the 19th Century are completely out of place on post-Weltkrieg battlefield. We must stop being complacent and get new equipment."
 generic_motorization_effort:0 "육군 자동화"
 generic_motorization_effort_desc:0 "The cavalry charges of the Weltkrieg were probably the last. The truck is no longer just a transport tool and rapidly integrates to mobile warfare tactics. We must shake off outdated thinking and use motorisation to speed up our offensives and reinforcements."
-generic_doctrine_effort:0 "대전쟁 연구"
+generic_doctrine_effort:0 "1차대전 연구"
 generic_doctrine_effort_desc:0 "We know about the Weltkrieg, but what have we learned from it? In just five years of conflict, countless soldiers died to teach us the new dynamics of warfare. If we do not learn about them, then our soldiers will meet the same fate on the battlefield."
 generic_equipment_effort_2:0 "장비 연구"
 generic_equipment_effort_2_desc:0 "We might have caught up to modern equipment, but new designs are already making ours obsolete. Regardless, we must persevere, and make sure that we never fall a single year behind in equipment. This means we will have to start developing our own designs."
@@ -699,11 +756,11 @@ generic_collectivist_ethos_kr:0 "국가 통합"
 generic_collectivist_ethos_kr_desc:0 "This era is a strange one, with the rise of Syndicalism, the fragile position of Democracy and the maintained Authoritarian old order. We must protect our country from outside influences by ensuring our people believe in the founding values of our country, least we are washed away by opposing views."
 generic_militarism:0 "군국주의"
 generic_militarism_desc:0 "Those who view the military as a necessary evil are doomed to hesitate in the face of war. We will ingrain militarism into our culture to become a people of soldiers, if not an army with a state. If one thing is certain since the Weltkrieg, it is that it might very well not have been The War To End War."
-generic_military_youth:0 "청소년 군인"
+generic_military_youth:0 "유소년 군사조직"
 generic_military_youth_desc:0 "Organisations to promote discipline and political education of young people in our nation will foster loyalty and self-sacrifice early in a citizen's life. These core values must be learned from the most tender age, so that the next generations are ready to fight for our country."
-generic_ideological_fanaticism:0 "이념 광신주의"
+generic_ideological_fanaticism:0 "이념적 광신"
 generic_ideological_fanaticism_desc:0 "Our politically established values and goals are worth dying for as much as any ancient faith. Any follower should be prepared to face death, and those who stray better be prepared to face death. There is no middle ground in this ideological struggle of the great and small powers alike."
-generic_liberty_ethos_kr:0 "자유의 정신"
+generic_liberty_ethos_kr:0 "자유 정신"
 generic_liberty_ethos_kr_desc:0 "Freedom is not just a happy happenstance, it is something that must be preserved against tyranny. The Weltkrieg and the rise of Syndicalism has to many put this spirit in doubt, but no nation is too small to rekindle its flame in their governments and populaces and ward against those trying to extinguish it."
 generic_rights_of_man:0 "인간의 권리"
 generic_rights_of_man_desc:0 "The Rights Of Man is perhaps the founding act of the modern Democracy, doing away with the feudal order and ensuring equal rights for all. There have always been the odd doubts about our stance on those essential rights, and we will dispel them without ambiguity. We only stand to benefit from it."
