@@ -1,13 +1,37 @@
-﻿l_english:
+l_english:
 
 ### Parties ###
-FIN_market_liberal_party:0 "AP"
-FIN_market_liberal_party_long:0 "농민당"
-FIN_social_conservative_party:0 "YFP"
-FIN_social_conservative_party_long:0 "핀란드청년당"
+FIN_totalist_party:0 "SSP"
+FIN_totalist_party_long:0 "Suomalaissosialistinen Puolue"
+FIN_social_democrat_party:0 "SPD"
+FIN_social_democrat_party_long:0 "Suomen Sosialidemokraattinen Puolue"
+FIN_social_liberal_party:0 "ML"
+FIN_social_liberal_party_long:0 "Maalaisliitto"
+FIN_market_liberal_party:0 "Ed."
+FIN_market_liberal_party_long:0 "Kansallinen Edistyspuolue"
+FIN_social_conservative_party:0 "Kok."
+FIN_social_conservative_party_long:0 "Kansallinen Kokoomuspuolue"
+FIN_paternal_autocrat_party:0 "IKL"
+FIN_paternal_autocrat_party_long:0 "Isänmaallinen Kansanliike"
+FIN_national_populist_party:0 "SR"
+FIN_national_populist_party_long:0 "Siniristi"
 
 ### Events ###
-findom.1.t:0 "프레드리크 카를레 1세의 훙"
-findom.1.d:0 "Place holder"
-findom.1.a:0 "Place holder"
+finland.1.t:0 "프레드리크 카를레 1세의 사망"
+finland.1.d:0 "Placeholder"
+finland.1.a:0 "Placeholder"
+
+finland.2.t:0 "The Fate of Norway"
+finland.2.d:0 "The Norwegian Army has surrendered, and we have annexed Norway. Our flag waives over the former Capitol building in Oslo as our military campaign comes to an end. Now we must begin a campaign to destroy the Norwegian partisans."
+finland.2.a:0 "Liberate Norway."
+finland.2.b:0 "Annex Varangerhalvøya."
+finland.2.c:0 "Annex Varangerhalvøya and Finnmarksvidda."
+finland.2.e:0 "Continue the military occupation."
+
+finland.3.t:0 "The Fate of Sweden"
+finland.3.d:0 "Today, the Swedish Chief of Army has announced the surrender of the Army. Supplies and equipment were captured after the surrender and have been shipped back to our country. Total victory has been achieved."
+finland.3.a:0 "Liberate Sweden."
+finland.3.b:0 "Annex Tornedalen."
+finland.3.c:0 "Annex Tornedalen and Kiruna."
+finland.3.e:0 "Continue the military occupation."
 
