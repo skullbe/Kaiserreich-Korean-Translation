@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 ### Opinion modifiers ###
 ROM_supported_us_in_civil_war:0 "Supported us during the civil war"
@@ -84,8 +84,8 @@ ROM_extra_research_slot_ii:0 "Recruit New Scientists"
 ROM_extra_research_slot_ii_desc:0 "Our new territories have some large cities and house very smart people. We need to recruit among the population, especially among Romanians, to fuel our advances in R&D."
 
 ### Party ###
-ROM_cuib:0 "Establish Cuib"
-ROM_cuib_desc:0 "The Iron Guard is organised in chapters called cuib, or \"nest\", which are organised around the virtues of discipline, work, silence, education, mutual aid, and honour. We can expand these chapters so every working men knows his duty to his country."
+ROM_cuib:0 "Establish Cuiburi"
+ROM_cuib_desc:0 "The Iron Guard is organised in chapters called cuiburi, or \"nests\", which are organised around the virtues of discipline, work, silence, education, mutual aid, and honour. We can expand these chapters so every working men knows his duty to his country."
 ROM_entrench_party:0 "Entrench Party"
 ROM_entrench_party_desc:0 "The Iron Guard only took over in 1935 and while it is currently the most popular party of the country, there are many supporters for other parties and the monarchists. We need to promote membership of the Iron Guard and firmly entrench it in the Romanian political scene."
 ROM_echipa_mortii:0 "Echipa Mortii"
@@ -213,7 +213,7 @@ ROM_totul_pentru_tara:0 "TPT"
 ROM_totul_pentru_tara_long:0 "Totul Pentru Ţară"
 
 ### Leader Descriptions ###
-POLITICS_CORNELIU_ZELEA_CODREANU_DESC:0 "The Conducător of Romania is the undisputed leader of the Iron Guard. A fanatic nationalist, he wants to restore Romania to its former greatness."
+POLITICS_CORNELIU_ZELEA_CODREANU_DESC:0 "The Conducător, Corneliu Zelea Codreanu, is the undisputed leader of the populist Iron Guard and leader of Romania. A fanatic nationalist, he seeks to unite all lands inhabited by Romanians, from Transylvania to Dobrogea, and throw off the German yoke once and for all."
 
 ### Events ###
 romania.0.t:0 "[From.GetName]"
@@ -509,32 +509,25 @@ romania.63.t:0 "[From.GetName] rejects our peace offer!"
 romania.63.d:0 "The [From.GetAdjective] leadership refuses to recognise the dire situation they're in and have refused our fair peace offer."
 romania.63.a:0 "Then we'll march to Kiev!"
 
-romania.64.t:0 "The oil of Ploesti"
-romania.64.d:0 "After Romania's defeat in the Weltkrieg, we were promised control over the rich oilfields of Ploesti. The former leader of Romania, Codreanu, nationalised the oilfields a few years ago with much fanfare, yet even he didn't dare stop the oil shipments. Now with the monarchists back in power it is time to remind them to honour their commitments."
-romania.64.a:0 "Remind the Romanians to ship their oil."
+romania.70.t:0 "The end of oil shipments from Romania!"
+romania.70.d:0 "Alarming news has just reached Berlin from our ambassadors in Bucharest. The Romanian oil fields are no longer available meaning that we no longer posses a steady supply of oil. Oil is one of the, if not the most, most vital resources to the German economy. If we do not remedy this situation quick, we could see a decline in industrial output and other nations within Europe may perceive us as weak for being unable to secure what is rightfully ours."
+romania.70.a:0 "Verdammt!"
 
-romania.65.t:0 "The Germans demand their oil shipments"
-romania.65.d:0 "After our defeat in the Weltkrieg, we were forced to cede control over the rich oilfields of Ploesti to Germany. The former leader, Corneliu Zelea Codreanu, nationalised the oilfields a few years ago, yet continued the oil shipments. Now that we have won the civil war, the Germans want us to continue the shipments."
-romania.65.a:0 "We will keep sending the oil, for now."
-romania.65.b:0 "Refuse outright!"
+romania.100.t:0 "The Creation of Wallachia"
+romania.100.d:0 "Our recent territorial losses have reduced us to our core territory in Muntenia. As such we can no longer claim to be a nation of all Romanians, and in the eyes of other nations don't have the right to the name of 'Romania'. To not disturb our neighbours and fragile foreign relations, the government has decided to officially adopt the name of the country that was previously centered around this area, Wallachia. This should remind all Romanians of our humble past and encourage them. While our current situation does not look very well, we have prevailed against the odds in the past, and will do so again."
+romania.100.a:0 "We will prevail."
 
-romania.66.t:0 "[From.GetName] continues their oil shipments"
-romania.66.d:0 "As expected, the Romanians didn't dare to defy our mighty empire."
-romania.66.a:0 "Great!"
+romania.101.t:0 "The Creation of Moldovia"
+romania.101.d:0 "Our recent territorial losses have reduced us to our territory in Moldova. As such we can no longer claim to be a nation of all Romanians, and in the eyes of other nations don't have the right to the name of 'Romania'. To not disturb our neighbours and fragile foreign relations, the government has decided to officially adopt the name of the country that was previously centered around this area, Moldovia. This should remind all Romanians of our humble past and encourage them. While our current situation does not look very well, we have prevailed against the odds in the past, and will do so again."
+romania.101.a:0 "We will prevail."
 
-romania.67.t:0 "[From.GetName] refuses to renew their oil shipments"
-romania.67.d:0 "The Romanians refused our rightful demand to renew the oil shipments to us. What shall we do?"
-romania.67.a:0 "We will not forget this."
-romania.67.b:0 "War will solve this!"
+romania.102.t:0 "The Recreation of Romania"
+romania.102.d:0 "We have regained our core territories and now own all of Muntenia and Moldovia. This has redeemed us in the eyes of the world, and while this nation may not be as great as before, we can finally put our past behind us and be proud of our country, Romania!"
+romania.102.a:0 "Finally!"
 
-romania.68.t:0 "The Military Provisional government and the approaching election"
-romania.68.d:0 "The time has come to begin the preparations for the first free general election after the civil war. However, some have suggested that perhaps it would be better if the election was postponed and the military remained in control of the country, in the interest of stability of course."
-romania.68.a:0 "Continue with the preparations for the election."
-romania.68.b:0 "Cancel the election and make the military government permanent."
-
-romania.69.t:0 "First free elections"
-romania.69.d:0 "After several months of preparations, the provisional government has completed the arrangements for the first free election in the Kingdom of Romania since the civil war. There are 300 seats available in the national assembly and various political parties have begun their campaigns. But currently only three parties have a chance of gaining a majority and thus forming a new government. Which one shall prevail?"
-romania.69.a:0 "National Renaissance Front wins elections."
-romania.69.b:0 "Social Democratic Party wins elections."
-romania.69.c:0 "National Liberal Party wins elections."
-romania.69.e:0 "The army shall put an end to this chaotic democracy."
+romania.103.t:0 "The new Romanian regime"
+romania.103.d:0 "Now that Romania is a nominally independent nation again, we need to decide on their government form. Ministers in our cabinet argue for either of two options. The first options is to invite the well-known socialite Antoine Bibesco to rule Romania. He is the grandson of the last ruler of Wallachia and as such bears the title of Prince. Since he lacks a real power base, he would be a loyal ally, but still give some legitimacy to the new regime due to his royal heritage.\n\nThe other option is to invite the former Regent of Romania, Prince Nicholas to form a government. He is the younger brother of the former Crown Prince Carol, who has refused to rule as a puppet king. Under the former military regime Nicholas' position as Regent was already nothing more than a puppet, so it is expected he won't cause trouble, while still nominally continue the rule of the Hohenzollern dynasty."
+romania.103.a:0 "Create a Republic."
+romania.103.tta:0 "§YAnton Bibescu§! becomes the ruler of a Romanian Republic."
+romania.103.b:0 "Set up a puppet Kingdom."
+romania.103.ttb:0 "§YPrince Nicholas§! becomes the King of Romania."
