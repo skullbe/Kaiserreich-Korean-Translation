@@ -495,6 +495,10 @@ AUS_paternal_autocrat_party_long:0 "대독일인민당"
 AUS_national_populist_party:0 "보국당"
 AUS_national_populist_party_long:0 "보국당"
 
+### Leader Descriptions ###
+POLITICS_KARL_DESC:0 "After his uncle Franz Ferdinand was assassinated in 1914, Karl von Habsburg-Lothringen became the designated successor of Kaiser Franz Josef, upon whose death Karl inherited the many thrones of the Habsburg Empire in late 1916. In spite of victory in the Weltkrieg, Austria remained burdened by an archaic political system and unrest. Emperor Karl now has the arduous task of reforming the ailing Empire despite numerous internal and external threats."
+POLITICS_OTTO_DESC:0 "Emperor Otto von Habsburg-Lothringen has succeeded his father, Karl, as monarch of Austria. Otto, despite his young age, has grand ambitions of an Empire whose disparate peoples share but one national identity. His laconic speech, perhaps slightly scandalous love-life, and youthful charm have culminated in Otto garnering frequent media attention."
+
 ### Traits ###
 ganz_danubius_submarine:0 "Ganz Danubius Submarine Facilities"
 steyr_arms_facility:0 "Steyr Arms Facility"
@@ -752,7 +756,6 @@ ausgleich.new.202.a:0 "영광이다."
 ausgleich.new.203.t:0 "대타협 초대장"
 ausgleich.new.203.d:0 "우리 지방 정부의 구성원들 사이에서 돌고있는 소문이 사실로 밝혀졌습니다. 대타협 협상 초청장을 들고있는 편지가 크라코프에 도착했습니다. 우리는 보헤미안 대표단을 협상에 파견해야합니다. 황제는 우리에게 헝가리가 시슬레타니아(오스트리아)와의 차이점을 논의에 대해 우리의 입장을 협상장에 가져올 수있는 기회를 준 것으로 보인다."
 ausgleich.new.203.a:0 "영광이다."
-
 ausgleich.new.204.t:0 "대타협 초대장"
 ausgleich.new.204.d:0 "우리 지방 정부의 구성원들 사이에서 돌고있는 소문이 사실로 밝혀졌습니다. 대타협 협상 초청장을 들고있는 편지가 자그레브에 도착했습니다. 우리는 보헤미안 대표단을 협상에 파견해야합니다. 황제는 우리에게 헝가리가 시슬레타니아(오스트리아)와의 차이점을 논의에 대해 우리의 입장을 협상장에 가져올 수있는 기회를 준 것으로 보인다."
 ausgleich.new.204.a:0 "영광이다."
