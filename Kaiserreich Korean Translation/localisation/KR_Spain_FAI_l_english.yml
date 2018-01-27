@@ -1,10 +1,10 @@
-﻿l_english:
+l_english:
 
 ### Ideas ###
-CNT_advisors_france:0 "French Assistance"
-CNT_advisors_england:0 "English Assistance"
-CNT_advisors_italysoc:0 "Italian Assistance"
-CNT_advisors_soviet:0 "Soviet Assistance"
+CNT_advisors_france:0 "프랑스의 도움"
+CNT_advisors_england:0 "영국의 도움"
+CNT_advisors_italysoc:0 "이탈리아의 도움"
+CNT_advisors_soviet:0 "소련의 도움"
 
 ### Tooltips ###
 CNT_won_election:0 "CNT-FAI won a fair national election\n"
