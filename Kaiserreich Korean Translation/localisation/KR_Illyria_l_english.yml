@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 ### Parties ###
 ILL_totalist_party:0 "SRT"
@@ -21,6 +21,13 @@ ILL_paternal_autocrat_party:0 "SP"
 ILL_paternal_autocrat_party_long:0 "Stranka prava"
 ILL_national_populist_party:0 "Ustaše"
 ILL_national_populist_party_long:0 "Ustaše"
+
+### Ideas ###
+ILL_croatian_command:0 "Croatian Officers"
+ILL_croatian_command_desc:0 "The Croatian people fought to make an Illyria free of Austria a reality, while the rest of the so called Illyrians hid in their cities and did nothing. It is for this reason that we must restrict all officer position to Croatians at the cost of alienating the rest of our countrymen."
+
+ILL_federated_army:0 "United Officer Corp"
+ILL_federated_army_desc:0 "Despite all odds, we have managed to win against all who sought to destroy our fledgling nation, but there is much still left to do. All the military officers of Illyria must be pooled into a single and united Illyrian Officer Corp."
 
 ### Events ###
 illyria.1.t:0 "Kingdom of Illyria"
