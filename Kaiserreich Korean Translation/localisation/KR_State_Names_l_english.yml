@@ -1,4 +1,5 @@
 l_english:
+
  STATE_1:0 "코르시카"
  STATE_2:0 "라티움"
  STATE_3:0 "미텔란트"
@@ -751,7 +752,7 @@ l_english:
  STATE_750:1 "프놈펜"
  STATE_751:0 "시라트말레이"
  STATE_752:0 "하이드라마우"
- STATE_753:0 "수에즈카날"
+ STATE_753:0 "수에즈 운하"
  STATE_754:0 "메디나"
  STATE_755:0 "토로페츠"
  STATE_756:1 "하부 샨"
@@ -981,4 +982,3 @@ l_english:
  STATE_980:0 "킴벌리"
  STATE_981:0 "필바라"
  STATE_982:0 "살로니카"
-
