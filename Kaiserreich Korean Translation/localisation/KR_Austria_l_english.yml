@@ -37,11 +37,11 @@ AUS_stops_italian_revolts:0 "§YItalian Revolts§W가 앞으로 너무 많은 �
 ### Ideas ###
 AUS_part_of_the_Empire:0 "오스트리아 제국의 일부"
 
-AUS_financial_ties_broken:0 "오스트리아-헝가리 관계가 깨졌습니다"
+AUS_financial_ties_broken:0 "오스트리아-헝가리 관계 악화"
 AUS_financial_ties_broken_desc:0 "헝가리의 왕가는 공동 정부의 금고에 세금을 내는 것을 거부합니다. \n\n 그들은 1926 년 사우스 슬라브 반란의 중재안으로 인한 일리리아 왕국의 형성에 여전히 불만을 가지고 있으며 오스트리아 정부에 의해 배신당한 이들은 크로아티아의 토지 손실에 대한 보상을 원합니다."
 
-HUN_financial_ties_broken:0 "오스트리아-헝가리의 관계가 깨졌습니다"
-HUN_financial_ties:0 "오스트리아-헝가리의 관계를 회복합니다"
+HUN_financial_ties_broken:0 "오스트리아-헝가리의 관계 악화"
+HUN_financial_ties:0 "오스트리아-헝가리의 관계 회복"
 
 AUS_paid_reparations:0 "헝가리의 전쟁 배상금"
 
@@ -453,24 +453,24 @@ AUS_us_looking_outwards_desc:0 "바깥을 바라보다"
 
 ### Foreign Branch
 
-AUS_protector_of_the_balkans:0 "Protector of the Balkans"
+AUS_protector_of_the_balkans:0 "발칸반도의 보호자"
 AUS_protector_of_the_balkans_desc:0 "The Weltkrieg has left the Balkans by large as an Austrian zone of influence. Unfortunately, we had to focus on other things during the last few years. We shall now remedy this and once again show who is the master of the house."
 
-AUS_potb_help_romania:0 "Intervention in Romania"
+AUS_potb_help_romania:0 "루마니아에 개입"
 AUS_potb_help_romania_desc:0 "Codreanu's regime is failing, and Romania is being torn by civil war. By intervening on the Romanian side, we might turn the tides in their favour."
 
-AUS_potb_invite_romania:0 "Approaching Romania"
+AUS_potb_invite_romania:0 "루마니아에 접근a"
 AUS_potb_invite_romania_desc:0 "The Romanian Kingdom, now secure again, must be brought into the fold."
 
-AUS_potb_albania:0 "Approaching Albania"
-AUS_potb_greece:0 "Approaching Greece"
-AUS_potb_serbia:0 "Dealing with Serbia"
-AUS_potb_serbia_2:0 "The Southern Slavic Question"
+AUS_potb_albania:0 "알바니아에 접근"
+AUS_potb_greece:0 "그리스에 접근"
+AUS_potb_serbia:0 "세르비아 처리"
+AUS_potb_serbia_2:0 "남부 슬라브인 문제"
 
-AUS_potb_take_down_bulgaria:0 "The Bulgarian Problem"
+AUS_potb_take_down_bulgaria:0 "불가리아 문제"
 AUS_potb_take_down_bulgaria_desc:0 "We have almost restored balance in the Balkans, were there not the decrepit Tsardom of Bulgaria clinging onto a good portion of it - we shall remedy this as soon as possible."
 
-AUS_syndie_threat:0 "The Syndicalist Menace"
+AUS_syndie_threat:0 "생디칼리스트의 위협"
 AUS_syndie_threat_desc:0 "The French and the Italians have a joint cause - of bringing utter chaos to the world. We might despise it, but we have to fight on Germany's side once more."
 
 ### Parties ###
@@ -507,11 +507,11 @@ phoenix_fighters:0 "Phönix Fighter Works"
 
 ### Events ###
 austria.1.t:0 "1936년 오스트리아의 상황"
-austria.1.d:0 "세계 대전의 승리자들 사이에 서 있었음에도 불구하고, 전쟁은 제국 내에서 문화, 계급 및 이데올로기의 분단이 분명하게 드러나게 했으며 전쟁이 끝난이후에도 내면의 불안은 계속되었습니다. \n\n칼 황제는 다민족 오스트리아 - 헝가리 제국을 20 세기에 생존 할 수 있도록 개혁하려는 시도에서 암살 된 프란츠 퍼디난드의 발자취를 따라 일련의 대규모 개혁을 시작했다. however, his efforts were largely blocked by nobility of the Hungarian side of the Empire - leading to his plans of federalisation progressing only slowly, and only on the Cisleithanian side of the Empire. \n\n그러나 많은 사람들이 오스트리아에 아직 희망이 있다고 생각합니다. 지난 수십 년간 제국에 열심 이었지만 노력은 시작되었습니다. 시슬레타니아(오스트리아)은 진정되었다. 그러나 트란실레타니아(제국의 동쪽)에 대해서도 같은 말은 할 수 없다. 그러나 헝가리 사람들은 Leitha 전역의 자치권을 원하고 있기 때문에 Carpathian 분지가 마자르족 손에 계속 남아있을 가능성은 희박합니다. 개혁이 헝가리로가는 길을 찾을 수 있는지 여부는 황제만이 알고 있습니다."
-austria.1.a:0 "Austria erit in orbe ultima."
+austria.1.d:0 "세계 대전의 승리자들 사이에 서 있었음에도 불구하고, 전쟁은 제국 내에서 문화, 계급 및 이념의 분열이 분명하게 드러나게 했으며 전쟁이 끝난이후에도 내부의 불안은 계속되었습니다. \n\n카를 황제는 다민족 오스트리아 - 헝가리 제국을 20 세기에 생존할 수 있도록 개혁을 시도하다가 암살된 프란츠 페르디난트의 발자취를 따라 일련의 대규모 개혁을 시작했습니다. 하지만, 그의 노력은 제국의 헝가리 쪽 귀족들에 의해 크게 방해 받았고, 이로 인해 그의 연방화 계획들은 제국의 시스라이타니아(제국의 오스트리아 영토) 쪽에서만 천천히 진행되었습니다. \n\n그러나 많은 사람들은 오스트리아에 아직 희망이 있다고 생각합니다. 지난 수십년동안 제국은 힘들었지만, 그 노력은 보상받기 시작했습니다. 이제 연방국인 시스라이타니아 오스트리아는 진정되었습니다. 하지만 트란스라이타니아(제국의 헝가리 영토)는 그렇지 않습니다. 헝가리 들이 라이타강을 넘어 자유를 바라보며 자신들도 그러한 자치를 누리기를 원하고 있기 때문에, 카르파티아 분지가 계속해서 마자르의 손에 남아있을 가능성은 없습니다. 개혁이 헝가리에서 이뤄질지의 여부는 오직 황제만이 분명히 알고 있습니다."
+austria.1.a:0 "오스트리아는 세계의 마지막이 될 것이다 (Austria erit in orbe ultima)."
 
 aus.elections.1.t:0 "1936년 오스트리아 선거"
-aus.elections.1.d:0 "연방 선거가 시작되고 "오스트리아 선거"가 제국의 독일어권 부분으로 축소 되었기 때문에 두 개의 주요 정당이 오스트리아 정치를 지배했습니다 : CS(기독교 사회당)와 SDAP(사회민주당). \n\n이번 선거 역시 치열합니다. SDAP와 CS는 현재 진행중인 경제 위기를 다루기위한 대책이 매우 다릅니다. SDAP의 대책은 실업 수당과 정부 개입에 초점을 맞추어 노동자의 곤경을 완화하는 데 중점을 둡니다. 반면에 CS는 엄격한 긴축에 초점을 맞추었습니다."
+aus.elections.1.d:0 "연방 선거가 시작되고 "오스트리아 선거"가 제국의 독일어권 부분으로 축소 되었기 때문에 두 개의 주요 정당이 오스트리아 정치를 지배했습니다 : CS(기독교 사회당)와 SDAP(사회민주당)이 그 두 정당입니다. \n\n이번 선거 역시 치열합니다. SDAP와 CS는 현재 진행중인 경제 위기를 다루기위한 대책이 매우 다릅니다. SDAP의 대책은 실업 수당과 정부 개입에 초점을 맞추어 노동자의 곤경을 완화하는 데 중점을 둡니다. 반면에 CS는 엄격한 긴축에 초점을 맞추었습니다."
 aus.elections.1.a:0 "국민들이 결정할것이다."
 
 aus.elections.2.t:0 "학교 설립 & SDAP 집회"
@@ -556,16 +556,16 @@ aus.elections.102.t:0 "SDAP win the Elections"
 aus.elections.102.d:0 "The final counts for the elections are in. While it was a close call, the votes of the City of Vienna have made the SDAP the clear winner."
 aus.elections.102.a:0 "Austria is Social-Democrat."
 
-austria.3.t:0 "칼 황제의 죽음"
-austria.3.d:0 "기관지염으로 고통받던 칼 황제가 오늘 죽었습니다."
-austria.3.a:0 "Long Live Kaiser Otto!"
+austria.3.t:0 "카를 황제의 죽음"
+austria.3.d:0 "기관지염으로 고통받던 카를 황제가 오늘 죽었습니다."
+austria.3.a:0 "오토 황제 만세!"
 
-austria.7.t:0 "신디칼리스트 반란"
+austria.7.t:0 "생디칼리스트 반란"
 austria.7.d:0 "오스트리아 - 헝가리 제국의 붕괴 이후 오스트리아의 금지된 신디칼주의 당 운동가들은 주요 도시에 여러 반란을 일으켰으며 지역 수비대가 그들을 막기 위해 파견되었지만 우리 군대에까지도 침투했을 가능성이 있기 때문에 긍정적인 결과는 확실하지 않습니다."
 austria.7.a:0 "반란은 성공했습니다."
 austria.7.b:0 "우리 군대는 충성스러운 상태로 남아 있습니다. 혁명은 무너졌습니다."
 
-austria.8.t:0 "오스트리아의 신디칼리즘"
+austria.8.t:0 "오스트리아의 생디칼리즘"
 austria.8.d:0 "끔찍한 소식입니다. 오스트리아 - 헝가리 제국이 내에서 패배 한 후, 오스트리아 국민은 오스트리아 제국 황제 오토와 오스트리아 제국의 현상태에 환멸을 느끼고 있습니다. 야비한 생디칼리스트들은 이를 이용해 대중의 지지를 얻었고, 군의 일부와 대중의 도움으로 기존 정부를 전복 시켰습니다.  오스트리아의 생디칼리스트 존재만으로 우리 서부 국경의 통합성을 심각하게 저해하기 때문에 이러한 전개가 계속해서는 안됩니다. 우리는 새로운 생디칼리즘 정부에 우리의 마음에 드는대로 개혁을 강요햐고 우리 군대가 수도를 점령하도록 허용하도록 하는 최후 통첩을 보내거나 즉시 전쟁을 선포하고 위협을 종식시킬 수 있습니다. 우리는 무엇을 해야할까요?"
 austria.8.a:0 "생디칼리즘 쓰레기즘들에게 최후 통첩을 보내."
 austria.8.b:0 "전쟁으로 해결할 수있다."
@@ -576,21 +576,21 @@ austria.9.d:0 "독일 자본가 개들은 그들의 광기에 미쳐, 일련의 
 austria.9.a:0 "프랑스의 코뮌이 우리를 도울 것입니다."
 austria.9.b:0 "우리는 선택의 여지가 없다."
 
-austria.10.t:0 "오스트리아 신디칼리즘은 위험에 처해있다"
+austria.10.t:0 "오스트리아 생디칼리즘은 위험에 처해있다"
 austria.10.d:0 "신생 오스트리아 신디칼리즘 국가는 독일 제국의 위협을 받고있다. 대부분의 자코뱅인들은  독일군과의 조기 전쟁을 감수하더라도 즉각적인 행동을 요구하고 있습니다. 군대의 많은 구성원들과 많은 온건한 Sorelians들은 독일 제국에 맞설때가 아니라고 주장합니다."
 austria.10.a:0 "베를린에 최후 통첩을 보낸다."
 austria.10.b:0 "우리는 독일과의 전쟁의 위험을 감수 할 수 없다."
 
-austria.11.t:0 "신디컬리즘이 확립되었다."
+austria.11.t:0 "생디칼리즘이 확립되었다."
 austria.11.d:0 "마침내 자본주의의 억압이 없어지면서, 오스트리아는 마침내 진정한 신디칼리 국가가 될 수 있지만 미래는 어떻게 될까요?"
 austria.11.a:0 "우리는 끝까지갈것이다."
 
-austria.12.t:0 "오스트리아 신디칼리즘의 항복"
+austria.12.t:0 "오스트리아 생디칼리즘의 항복"
 austria.12.d:0 "약화된 오스트리아의 주들 우리의 모든 경제적, 정치적 요구를 받아 들여야했으며, 그 과정에서 독일 제국의 주가 되었습니다."
 austria.12.a:0 "그대에게 승리의 왕관을.\n"
 
 austria.13.t:0 "프랑스의 최후 통첩"
-austria.13.d:0 "프랑스 코뮌은 우리에게 최후 통첩을 보냈다. 오스트리아의 신생 신디칼리즘주에 대한 우리의 정책을 계속 추진한다면 그들은 신생주들를 원조할 의무가 있다고 밝혔다. 우리는 어떻게이 무례한 것에 반응해야 합니까?"
+austria.13.d:0 "프랑스 코뮌은 우리에게 최후 통첩을 보냈다. 오스트리아의 신생 생디칼리즘주에 대한 우리의 정책을 계속 추진한다면 그들은 신생주들를 원조할 의무가 있다고 밝혔다. 우리는 어떻게 이 무례한 것에 반응해야 합니까?"
 austria.13.a:0 "우리는 프랑스와 전쟁하기를 원하지 않는다."
 austria.13.b:0 "무시해."
 
@@ -741,7 +741,7 @@ ausgleich.new.102.a:0 "당연한 일이다."
 ausgleich.new.200.t:0 "다른 사람들을 대타협에 초대 하시겠습니까?"
 ausgleich.new.200.d:0 "대타협은 항상 오스트리아와 헝가리 엘리트간의 회의로 진행되었습니다. 우리는 올해 제국의 모든 구성 국가 대표단과 함께보다 개방적이고 다민족적인 협상을 원하 보헤미아, 갈리시아, 일리리아 정치인들의 탄원서를 받았습니다. \n\n또한 오스트리아 - 헝가리 전역의 대표단을 모으는 것은 세계대전이 끝난 이후 진행되고있는 내부 긴장을 중재하는 데 도움이 될 수 있습니다."
 ausgleich.new.200.a:0 "안돼. 이것은 우리와 마자르인들 사이에 관한것이다."
-ausgleich.new.200.b:0 "당신 말이 맞다. 보헤미안, 갈리시아인, 일릴리안을 초대하라."
+ausgleich.new.200.b:0 "당신 말이 맞다. 보헤미아인, 갈리시아인, 일리리아인을 초대하라."
 ausgleich.new.200.c:0 "우리는 더 크게 생각할 필요가 있다. 이중 제국의 모든 사람들을 초대하라."
 
 ausgleich.new.201.t:0 "대타협의 다른 국가들"
@@ -859,8 +859,8 @@ ausgleich.new.313.a:0 "대타협 협상은 영토 양보를 요청하는 장소�
 ausgleich.new.313.b:0 "우리는 헝가리인들에게 지금 이것을 물을 수 없다."
 ausgleich.new.313.c:0 "그것은 수행되어야한다. 그것을 향해 노력하도록하지."
 
-ausgleich.new.314.t:0 "일릴리아는 바칠카를 요구합니다."
-ausgleich.new.314.d:0 "헝가리의 땅을 요구하는 최근 추세에 합류하면서, 일릴리아는 지금도 바칠카 영토의 점령을 요구합니다. 헝가리의 최남단 지역에있는 이 지역은 많은 일릴리안들에게 고향이지만, 헝가리가 아직 남쪽의 슬라브 국가를 공식적으로 인정하지 않는다는 점을 고려할 때 일릴리아 대표단이 다소 대담한 조치가 아닐다 수 없습니다."
+ausgleich.new.314.t:0 "일리리아는 바칠카를 요구합니다."
+ausgleich.new.314.d:0 "헝가리의 땅을 요구하는 최근 추세에 합류하면서, 일리리아는 지금도 바칠카 영토의 점령을 요구합니다. 헝가리의 최남단 지역에있는 이 지역은 많은 일리리아인들에게 고향이지만, 헝가리가 아직 남쪽의 슬라브 국가를 공식적으로 인정하지 않는다는 점을 고려할 때 일리리아 대표단이 다소 대담한 조치가 아닐다 수 없습니다."
 ausgleich.new.314.a:0 "대타협 협상은 영토 양보를 요청하는 장소가 아니다."
 ausgleich.new.314.b:0 "우리는 헝가리인들에게 지금 이것을 물을 수 없다."
 ausgleich.new.314.c:0 "그것은 수행되어야한다. 그것을 향해 노력하도록하지."
@@ -880,8 +880,8 @@ ausgleich.new.317.d:0 "루테니아 대표단은 카르파티아에 있는 그�
 ausgleich.new.317.a:0 "헝가리 대표단은 이것을 고려해야한다."
 ausgleich.new.317.b:0 "그것은 일어날 일이다..."
 
-ausgleich.new.318.t:0 "일릴리아인 : 바칠카 분지를 요구"
-ausgleich.new.318.d:0 "일릴리아인 대표단은 세르비아 사람이 주로 거주하는 바칠카 분지 (Bačka Basin)를 양도받아야한다고 요청했다. or so it was reported to be the last time we checked."
+ausgleich.new.318.t:0 "일리리아인 : 바칠카 분지를 요구"
+ausgleich.new.318.d:0 "일리리아인 대표단은 세르비아 사람이 주로 거주하는 바칠카 분지 (Bačka Basin)를 양도받아야한다고 요청했다. or so it was reported to be the last time we checked."
 ausgleich.new.318.a:0 "헝가리 대표단은 이것을 고려해야한다."
 ausgleich.new.318.b:0 "그것은 일어날 일이다..."
 ausgleich.new.318.c:0 "... 그리고 그것은 바칠카전역을 포함해야한다."
@@ -924,12 +924,12 @@ ausgleich.new.333.t:0 "일 리아는 지불에 동의한다."
 ausgleich.new.334.t:0 "일 리리아는 지불을 거부한다."
 ausgleich.new.335.t:0 "헝가리는 우리에게 전쟁을 선포합니다."
 
-ausgleich.new.336.t:0 "일릴리아 분쟁"
-ausgleich.new.336.d:0 "일릴리아 정부가 "일릴리아의 정당한 영토에 대한 터무니없는 배상금 요구"라고 묘사 한 것을 지불하는 것을 거부 한 이후, 헝가리 정부는 일릴리아 왕국에 대한 전쟁을 선언했다. 이미 그들의 군대가 슬라베니로 행진하기 시작했고, 실효성있는 방식으로 이 갈등에 개입하기에는 너무 늦은 것 같습니다."
+ausgleich.new.336.t:0 "일리리아 분쟁"
+ausgleich.new.336.d:0 "일리리아 정부가 "일리리아의 정당한 영토에 대한 터무니없는 배상금 요구"라고 묘사 한 것을 지불하는 것을 거부 한 이후, 헝가리 정부는 일리리아 왕국에 대한 전쟁을 선언했다. 이미 그들의 군대가 슬라베니로 행진하기 시작했고, 실효성있는 방식으로 이 갈등에 개입하기에는 너무 늦은 것 같습니다."
 ausgleich.new.336.a:0 "이것은 미친짓이다."
 ausgleich.new.336.b:0 "약속을 행동에 옮길 시간이다."
 ausgleich.new.336.c:0 "그들의 일은 그들에게 맡겨라."
-ausgleich.new.336.e:0 "It's happening."
+ausgleich.new.336.e:0 "일어나버렸군."
 
 #WIP
 ausgleich.new.337.t:0 "Austro-Hungarian split of former Illyria"    
