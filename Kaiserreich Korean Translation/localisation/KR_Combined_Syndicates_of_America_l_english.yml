@@ -97,7 +97,7 @@ CSA_milita_desc:0 "우리는 우리의 군대가 민병대 같아야 한다고 �
 CSA_elected_officers:0 "장교를 선거로 선출한다."
 CSA_elected_officers_desc:0 "많은 CSA 민병대들이 선거로 장교를 선출했습니다. 이러한 선출은 그들이 믿을수 있는 지휘관를 기꺼이 따르게 하여 우리 군의 높은 사기를 유지 시킬겁니다. 우리와 합류한 구 미군 장교들은 이런 장교가 되도록 노력해야 할겁니다."  
 CSA_mass_mobilization:0 "대규모 동원"
-CSA_mass_mobilization_desc:0 혁명을 위해서는 가능한 많은 민병대가 필요 할겁니다. 미국 노동자들의 자유를 위하여 모든 남녀들이 손을 잡고 싸울 것을 요구 할 때 입니다. 우리는 민병대에 많이 지원하도록 할 것입니다." 
+CSA_mass_mobilization_desc:0 "혁명을 위해서는 가능한 많은 민병대가 필요 할겁니다. 미국 노동자들의 자유를 위하여 모든 남녀들이 손을 잡고 싸울 것을 요구 할 때 입니다. 우리는 민병대에 많이 지원하도록 할 것입니다." 
 CSA_a_gun_in_every_hand:0 "모든 노동자들의 손에 총을"
 CSA_military_auto_unions:0 "군사용 자동차 노조"
 CSA_a_gun_in_every_hand_desc:0 "우리들은 반드시 민병대 소속의 모든 군인들이 반동 세력에 대항하는 전쟁을 수행하기 위해 무기를 가져야만 합니다. 우리들의 공장은 모든 군인들이 그들의 손에 무기를 쥘때까지 가능한 많은 무기들을 만들어야합니다. 모든 노동자들의 손에 무기를!"  
@@ -179,7 +179,7 @@ CSA_war_syndicalism_desc:0 "혁명은 무력만 가지고는 실현 할 수 없�
 CSA_nationalization:0 "국유화"
 CSA_nationalization_desc:0 "효과적으로 혁명을 수행하기 위해서는, 우리는 국유화 계획을 진행할겁니다. 모든 산업은 혁명 정부에 의해 국유화 될 것이며, 노동자들이 자신의 생산수단을 가지게 할 겁니다.."
 CSA_central_planning:0 "중앙 계획"
-CSA_central_planning_desc:0 노동자 혁명을 완전하게 실현 하기 위해서, 시카고에서 전쟁을 계획하고 조직하는데 도움이 되는 위원회를 창설해야 합니다. 이 것은 경제 정책을 합리화하고, 혁명을 실현하는데 도움이 될겁니다.
+CSA_central_planning_desc:0 "노동자 혁명을 완전하게 실현 하기 위해서, 시카고에서 전쟁을 계획하고 조직하는데 도움이 되는 위원회를 창설해야 합니다. 이 것은 경제 정책을 합리화하고, 혁명을 실현하는데 도움이 될겁니다.
 CSA_state_farms:0 "주 농장"
 CSA_state_farms_desc:0 "혁명과 인민들을 위해 부르주아들의 땅을 차지해야 합니다. 그 땅들은 다양한 주 농장으로 조직될 것이며, 그 주 농장들은 혁명을 유지하기 위해 식량을 제공할 겁니다."
 CSA_control_unions:0 "노동조합에 대한 통제"
@@ -205,25 +205,25 @@ CSA_industrial_democracy_desc:0 "미국은 민주주의 국가였지만, 오랫�
 CSA_market_socialism:0 "시장 사회주의"
 CSA_market_socialism_desc:0 "우리는 우리의 경제를 자본주의 경제에서 전환시켜, 시장 사회주의로 대체했습니다. 미국의 기업가과 정신과 혁명의 이상이 결합되어 미국을 새 시대로 이끌게 할 것 입니다."
 CSA_unions_take_over:0 "노동조합이 장악하다."
-CSA_unions_take_over_desc:0 "혁명이 발발하자, 노동조합들이 공장들을 장악하기 시작했습니다. 그들이 러스트 벨트의 산업을 차지한 것이죠. 상부의 지시 없이 자발적으로 이런 일을 실행 한 것입니다, 따라서 우리는 이것을 승인하고 생디칼리즘을 미국에 불러와야 합니다.“
+CSA_unions_take_over_desc:0 "혁명이 발발하자, 노동조합들이 공장들을 장악하기 시작했습니다. 그들이 러스트 벨트의 산업을 차지한 것이죠. 상부의 지시 없이 자발적으로 이런 일을 실행 한 것입니다, 따라서 우리는 이것을 승인하고 생디칼리즘을 미국에 불러와야 합니다."
 CSA_working_women:0 "일하는 여성"
 CSA_working_women_desc:0 "혁명이 한참인 와중에, 여성들이 공장에서 남자들과 함께 배치되어서 일을 못할 이유는 없습니다. 게다가 이 것은 공장 안에서 일하는 남성들이 공장에서 벗어나 인민들을 위해 싸우는 것을 도와줄 것입니다!"
 CSA_wartime_industry:0 "전시 경제"
-CSA_wartime_industry_desc:0 "우리는 우리의 경제를 혁명의 승리를 위해 필요한 군수 공장을 만드는 단 한 가지 일에 반드시 집중시켜야 합니다. 그러므로 우리는 반드시 우리의 승리를 보장하기 위해 군수 공장을 건설하는데 집중해야 합니다.“ 
+CSA_wartime_industry_desc:0 "우리는 우리의 경제를 혁명의 승리를 위해 필요한 군수 공장을 만드는 단 한 가지 일에 반드시 집중시켜야 합니다. 그러므로 우리는 반드시 우리의 승리를 보장하기 위해 군수 공장을 건설하는데 집중해야 합니다." 
 CSA_syndicalist_propaganda:0 "생디칼리즘 프로파간다"
-CSA_syndicalist_propaganda_desc:0 "혁명은 오직 총만 필요 한 것이 아니라 글 역시도 필요 합니다. 우리는 반드시 인민들을 위해 프로파간다를 지원해야 합니다. 그것은 우리 군인의 사기를 높게 유지하게 하고 위험하고 전복적인 반혁명 사상을 쫒아 낼 겁니다.“
+CSA_syndicalist_propaganda_desc:0 "혁명은 오직 총만 필요 한 것이 아니라 글 역시도 필요 합니다. 우리는 반드시 인민들을 위해 프로파간다를 지원해야 합니다. 그것은 우리 군인의 사기를 높게 유지하게 하고 위험하고 전복적인 반혁명 사상을 쫒아 낼 겁니다."
 CSA_workers_management:0 "노동자 자주 관리"
-CSA_workers_management_desc:0 "노동조합이 사업장과 공장을 통제하고 있습니다. 따라서 우리는 노동자 자주 관리를 밀어줘야 합니다. 공장은 그들 자신에 의해서 운영되고 지역의 생산품 수요를 더 잘 처리 할 수 있을 겁니다.“
+CSA_workers_management_desc:0 "노동조합이 사업장과 공장을 통제하고 있습니다. 따라서 우리는 노동자 자주 관리를 밀어줘야 합니다. 공장은 그들 자신에 의해서 운영되고 지역의 생산품 수요를 더 잘 처리 할 수 있을 겁니다."
 CSA_military_unions:0 "군수 노동조합"
-CSA_military_unions_desc:0 "우리는 우리의 노동조합이 군수 물품에 생산 하도록 해야 합니다. 우리는 반동주의자와 자본가들과 전쟁 중입니다. 이 전쟁에서 승리하기 위해서는 우리는 군수 공장에서 일하는 노동조합을 민수 공장에서 일하는 노동조합보다 더 밀어줘야 합니다.  이것은 자본주의를 부수고 혁명을 이기기 위한 힘을 키울 수 있을 겁니다.“
+CSA_military_unions_desc:0 "우리는 우리의 노동조합이 군수 물품에 생산 하도록 해야 합니다. 우리는 반동주의자와 자본가들과 전쟁 중입니다. 이 전쟁에서 승리하기 위해서는 우리는 군수 공장에서 일하는 노동조합을 민수 공장에서 일하는 노동조합보다 더 밀어줘야 합니다.  이것은 자본주의를 부수고 혁명을 이기기 위한 힘을 키울 수 있을 겁니다."
 CSA_resource_nationalization:0 "자원 국유화"
-CSA_resource_nationalization_desc:0 “혁명은 인민을 위해 모든 자원을 국유화 할 것을 요구합니다. 최종적으로 이 자원들은 인민에게 속하게 될 겁니다. 자원들이 인민의 손에 들어감으로써, 우리는 그 자원들을 더 잘 사용 할 겁니다.”
+CSA_resource_nationalization_desc:0 "혁명은 인민을 위해 모든 자원을 국유화 할 것을 요구합니다. 최종적으로 이 자원들은 인민에게 속하게 될 겁니다. 자원들이 인민의 손에 들어감으로써, 우리는 그 자원들을 더 잘 사용 할 겁니다.”
 CSA_collectization:0 "자발적 집산화"
-CSA_collectization_desc:0 “여러 농민들이 스스로 자발적인 집산화를 하기 시작했습니다.  그들의 자원을 함께 모아서, 우리들의 농부들을 위해 그들이 고 품질의 수확을 생산 할 수 있게 할 겁니다. 이 것은 자발적으로 이루어질 것이고, 그들에게 강요되지 않을 것이며 그럼으로써 농민들의 높은 사기를 유지하도록 도와 줄 것입니다.”
+CSA_collectization_desc:0 "여러 농민들이 스스로 자발적인 집산화를 하기 시작했습니다.  그들의 자원을 함께 모아서, 우리들의 농부들을 위해 그들이 고 품질의 수확을 생산 할 수 있게 할 겁니다. 이 것은 자발적으로 이루어질 것이고, 그들에게 강요되지 않을 것이며 그럼으로써 농민들의 높은 사기를 유지하도록 도와 줄 것입니다.”
 CSA_workplace_democracy:0 "직장 민주주의"
-CSA_workplace_democracy_desc:0 “혁명은 계속되어야하며 직장으로 확대되어야 합니다. 우리는 나은 세상을 위해 계속 싸우고 따라서 우리는 반드시 작장에 민주주의를 실행 할 것입니다. 이 것은 전쟁에서 승리 한 후, 평화의 시기에 대비하여 노동자들이 준비 하는걸 도와 줄 겁니다.”   
+CSA_workplace_democracy_desc:0 "혁명은 계속되어야하며 직장으로 확대되어야 합니다. 우리는 나은 세상을 위해 계속 싸우고 따라서 우리는 반드시 작장에 민주주의를 실행 할 것입니다. 이 것은 전쟁에서 승리 한 후, 평화의 시기에 대비하여 노동자들이 준비 하는걸 도와 줄 겁니다.”   
 CSA_syndicalism:0 "생디칼리즘 경제"
-CSA_syndicalism_desc:0 “우리는 자본주의의 흔적을 치워버리고, 인민에 의해 지시되는 노동자들의 경제로 바꾸었습니다. 노동 조합을 통해서, 민주주의와 자주 경영으로 우리는 미국에 생디칼리즘을 가져왔습니다. 새로운 시대의 여명이 우리에게 옵니다. 족쇄는 부셔졌습니다!”
+CSA_syndicalism_desc:0 "우리는 자본주의의 흔적을 치워버리고, 인민에 의해 지시되는 노동자들의 경제로 바꾸었습니다. 노동 조합을 통해서, 민주주의와 자주 경영으로 우리는 미국에 생디칼리즘을 가져왔습니다. 새로운 시대의 여명이 우리에게 옵니다. 족쇄는 부셔졌습니다!”
 
 ### Second Constitutional Convention Focuses ###
 CSA_second_convention:0 "두 번째 헌법 제정 회의 "
@@ -278,7 +278,7 @@ CSA_reactionary_purge_desc:0 "우리의 공화국을 위험할 수 있는 어떤
 CSA_ussa:0 "U.S.S.A"
 CSA_ussa_desc:0 "미국은 부르주아의 자본주의 독재로부터 미 사회주의 합중국 (U.S.S.A)으로 전환했습니다. 비록 혁명이 사회 전반에 완전히 영향을 주는데 시간이 걸리겠지만, 우리의 공화국은 더 밝고 좋은 미래로 이끌 것입니다.
 CSA_red_constitution:0 "붉은 헌법"
-CSA_red_constitution_desc:0 "정부의 형태가 완성되었기 때문에, 우리는 두 번째 미국 헌법을 작성 할 때입니다. 이것은 진정한 인민의, 인민을 위한, 인민에 의한 헌법입니다. 혁명 만세!“
+CSA_red_constitution_desc:0 "정부의 형태가 완성되었기 때문에, 우리는 두 번째 미국 헌법을 작성 할 때입니다. 이것은 진정한 인민의, 인민을 위한, 인민에 의한 헌법입니다. 혁명 만세!"
 CSA_red_constitution_tooltip:0 "You will get a National Idea depending on which path you go down"
 
 ### Reconstruction Focuses ###
@@ -301,9 +301,9 @@ CSA_the_south_desc:0 "지금은 남부를 재건할 때입니다. 우리는 미�
 CSA_the_midwest:0 "중부 재건"
 CSA_the_midwest_desc:0 "러스트 벨트는 혁명의 심장부이고 우리는 이 지역을 재건하는 것이 필요합니다. 재건과정을 통하여 우리는 반동분자들이 그 지역에서 저지른 파괴를 복구하고, 혁명전쟁이 끝난 지역에 새로운 활력을 줄 겁니다."
 CSA_the_west:0 "서부 재건"
-CSA_the_west_desc:0 "지금은 미국의 농업 중심지인 서부를 재건 할 시간입니다. 서부는 혁명전쟁과 구 공화국 때문에 파괴되었습니다. 우리는 서부를 개혁하고 그 곳 농민에게 사회주의를 전달 할 것입니다.“
+CSA_the_west_desc:0 "지금은 미국의 농업 중심지인 서부를 재건 할 시간입니다. 서부는 혁명전쟁과 구 공화국 때문에 파괴되었습니다. 우리는 서부를 개혁하고 그 곳 농민에게 사회주의를 전달 할 것입니다."
 CSA_new_england:0 "뉴 잉글랜드 재건"
-CSA_new_england_desc:0 "지금은 뉴 잉글랜드를 재건 할 시간입니다. 뉴 잉글랜드는 첫 번째 혁명과 고향이었고, 생디칼리즘의 두 번째 미국 혁명을 포옹 한 곳입니다. 이 지역은 우리들의 재건을 통해서 크게 항상 될 것입니다.“
+CSA_new_england_desc:0 "지금은 뉴 잉글랜드를 재건 할 시간입니다. 뉴 잉글랜드는 첫 번째 혁명과 고향이었고, 생디칼리즘의 두 번째 미국 혁명을 포옹 한 곳입니다. 이 지역은 우리들의 재건을 통해서 크게 항상 될 것입니다."
 CSA_the_pacific_coast:0 "서부 해안 재건"
 CSA_the_pacific_coast_desc:0 "It is time to rebuild New England. New England was home of the first revolution and it shall embrace the syndicalism of the Second American Revolution. The region shall be vastly improved through our reconstructions efforts."
 CSA_recovery_from_the_war:0 "혁명적 회복"
@@ -329,7 +329,7 @@ CSA_reed_doctrine_desc:0 "이제 혁명을 실현함에 따라서, 우리는 외
 CSA_paris_summet:0 "파리 회담"
 CSA_paris_summet_desc:0 "멕시코가 혁명에 개입했을 때, 그것은 혁명 정부에 혼란을 발생시켰습니다. 일부는 맥시코인들이 미국 동무들을 자유롭게 하기 위해 도와주었다고 생각했고,  그러나 다른 사람들은 그들이 우리의 땅을 혁명을 틈타서 빼앗아 간다고 생각합니다. 그러므로 우리는 맥시코 동무들과의 분쟁을 해결하기 위해서 파리에서 협정을 소집해야 합니다."
 CSA_second_mexican_war:0 "두 번째 멕시코-미국 전쟁"
-CSA_second_mexican_war_desc:0 “파리 협정을 실패했습니다. 맥시코는 우리의 동무지만 그들의 정부는 아닙니다. 지금은 우리들의 땅을 자유롭게 하고, 진정한 생디칼리즘을 우리 맥시코 동무에게 배달할 차례입니다. 동무들 무장하십죠! 우리는 전진 할 겁니다!"
+CSA_second_mexican_war_desc:0 "파리 협정을 실패했습니다. 맥시코는 우리의 동무지만 그들의 정부는 아닙니다. 지금은 우리들의 땅을 자유롭게 하고, 진정한 생디칼리즘을 우리 맥시코 동무에게 배달할 차례입니다. 동무들 무장하십죠! 우리는 전진 할 겁니다!"
 CSA_fate_of_mexico:0 "멕시코의 운명"
 CSA_fate_of_mexico_desc:0 "두번째 맥시코-아메리카 전쟁이 끝나기 때문에, 지금은 맥시코롤 어떻게 해야 할지 결정할 차례입니다. 일부는 이러한 사건이 다시 반복되는 것을 막기 위해서 그들을 위성국화 시켜야 한다고 봅니다. 다른 사람들은 적당히 친 미국적 정부만 수립하면 될 것이라고 생각합니다. 또 다른 사람들은 멕시코를 합병시켜서 혁명을 그들에게 전파해야 할거라고 생각합니다."
 CSA_mexican_freindship:0 "멕시코-아메리카 친선"
@@ -352,13 +352,13 @@ CSA_war_plan_black:0 "흑색 전쟁 계획"
 CSA_war_plan_black_desc:0 "지금은 거대한 반동 제국인 카이저라이히를 공격할 시간입니다. 더 이상 독일 제국이 세계가 그들의 족쇄에 묶이게 할 수 없습니다. 더 이상 그들의 자본주의적 노예제를 오래 지속시키도록 할 수 없습니다. 우리는 싸울 것입니다. 우리는 카이저라이히의 족쇄를 부셔버릴 겁니다!"
 CSA_join_phalanstere:0 "팔랑스테르 가입"
 CSA_join_phalanstere_desc:0 "우리는 지금 인터네셔널에 가입했기 때문에, 우리는 또한 팔랑스테르에 가입해야 합니다. 미국의 과학적 지식은 영국과 프랑스와 결합되면서 세계의 자본주의를 파괴시키는데 도움을 줄 것입니다."
-CSA_war_plan_red:0 “적색 전쟁 계획"
+CSA_war_plan_red:0 "적색 전쟁 계획"
 CSA_war_plan_red_desc:0 "캐나다 안의영국 왕실은 미국 인민들의 매우 위험한 적이 되었습니다. 우리는 반드시 어떻게 그들의 동맹과 캐나다인을 상대로 싸울지 계획해야 합니다."
-CSA_great_northern_wall:0 "대규모 북부 장벽“
+CSA_great_northern_wall:0 "대규모 북부 장벽"
 CSA_great_northern_wall_desc:0 "우리는 CSA와 캐나다 사이의 국경에 건설을 해야 합니다. 그리고 우리는 북부의 독재자에 대항해서 국경의 벽 사이에 요새를 배치해야 합니다."
 CSA_entente_embargo:0 "협상국을 배어버려라!"
 CSA_entente_embargo_desc:0 "협상국에 대항하는 전쟁을 준비하기 위해 우리는 반드시 그들의 전쟁 수행능력을 배어버려야 합니다. 우리는 협상국에 대한 앰바고를 실행하여 그들이 사격을 하기도 전에 파괴시켜 버릴 것 입니다."
-CSA_liberate_canada:0 "캐나다 해방“
+CSA_liberate_canada:0 "캐나다 해방"
 CSA_liberate_canada_desc:0 "모든 준비는 끝났습니다. 지금은 그 괴물을 처치할 시간입니다. 독재적인 영국 왕실로부터 캐나다인을 해방시킬 시간입니다."
 CSA_fate_of_the_empire:0 "Fate of the British Empire"
 CSA_fate_of_the_empire_desc:0 "Now that the British Empire and their so called Entente has been dealt with the question of what shall become of their empire is being brought. What shall we do with Canada and the Caribbean federation? What shall become of the Dominion of India? It is time to decide the fate of the British Empire once and for all."
@@ -387,7 +387,7 @@ CSA_dominican_interventiom_desc:0 "우리는 아이티의 동무들을 해방 �
 CSA_brazilian_intervention:0 "Intervention in Brazil"
 CSA_brazilian_intervention_desc:0 "Brazil is a hot bed of Syndicalism and with their own revolution coming, it would not do if we do not do our part and ignore the plight of our comrades in the Brazil. We should do everything that we can to help the revolution there and if it fails there, we should do our part to continue it."
 CSA_red_pax_american:0 "팍스 아메리카"
-CSA_red_pax_american_desc:0 “팍스 아메리카 또는 미국에 의한 평화는 북과 남아메리카 전역에 설립되었습니다. 아직까지 일부 지역에 약간의 반동분자들이 남아있지만 우리는 이 지역에 평화를 가져다 놓았고, 자본주의로부터 노동자를 해방 시켰습니다. 지금은 노동자의 평화 체제입니다!"
+CSA_red_pax_american_desc:0 "팍스 아메리카 또는 미국에 의한 평화는 북과 남아메리카 전역에 설립되었습니다. 아직까지 일부 지역에 약간의 반동분자들이 남아있지만 우리는 이 지역에 평화를 가져다 놓았고, 자본주의로부터 노동자를 해방 시켰습니다. 지금은 노동자의 평화 체제입니다!"
 
 ### Opinion Modifiers ###
 CSA_IN_USA:0 "USA have a Syndicalist Government"
@@ -445,7 +445,7 @@ combinedsyndicates.5.d:0 "프랑스 코뮌은 우리가 인터네셔널에 가�
 combinedsyndicates.5.a:0 "우리는 가입해서 프랑스와 함께 싸워야 한다."
 combinedsyndicates.5.b:0 "우리는 우리 국가를 재조직해야 한다."
 combinedsyndicates.6.t:0 "CSA가 인터네셔널에 가입하기 원합니다."
-combinedsyndicates.6.d:0 "결집된 미국의 생디칼리즘은 우리 동맹에 가입할 그들의 의도를 나타냈습니다. 혁명을 위해서요!“
+combinedsyndicates.6.d:0 "결집된 미국의 생디칼리즘은 우리 동맹에 가입할 그들의 의도를 나타냈습니다. 혁명을 위해서요!"
 combinedsyndicates.6.a:0 "환영한다."
 combinedsyndicates.7.t:0 "이주"
 combinedsyndicates.7.d:0 "오대호에 사는 일부 엘리트와 상위 계급들이 그들의 집을 버리고 가족과 함께 왕실 캐나다를 향하여 떠나고 있습니다."
@@ -469,7 +469,7 @@ combinedsyndicates.12.t:0 "시민으로부터 자원"
 combinedsyndicates.12.d:0 "노동조합들과 CSA의 노동자들이 러스트 벨트의 많은 자원들을 인민의 정부에게 주었습니다."
 combinedsyndicates.12.a:0 "충분하군"
 combinedsyndicates.13.t:0 "분기점"
-combinedsyndicates.13.d:0 "CSA의 분열이 시작되었습니다. 사회주의자들의 연합은 외각지대부터 느슨해졌죠. 전체주의자들은 워싱턴에서 정부 체제를 구축하고 국가의 권력을 행사하는 시도를 할려고 합니다. 생디칼리스트들은 노동조합과 함께 지역의회를 구성하고 최근 정복된 지역을 운영하면서 중앙 정부의 권위에 대항하고 있습니다. 아나키스트는 이 체제에 흥미를 가지지 않고 국가 전역에 문제를 일으키고 있습니다.“
+combinedsyndicates.13.d:0 "CSA의 분열이 시작되었습니다. 사회주의자들의 연합은 외각지대부터 느슨해졌죠. 전체주의자들은 워싱턴에서 정부 체제를 구축하고 국가의 권력을 행사하는 시도를 할려고 합니다. 생디칼리스트들은 노동조합과 함께 지역의회를 구성하고 최근 정복된 지역을 운영하면서 중앙 정부의 권위에 대항하고 있습니다. 아나키스트는 이 체제에 흥미를 가지지 않고 국가 전역에 문제를 일으키고 있습니다."
 combinedsyndicates.13.a:0 "전체주의자 편에 든다."
 combinedsyndicates.13.b:0 "무정부-생디칼리스트 편에 든다."
 combinedsyndicates.13.c:0 "노동조합 편에 든다."
@@ -483,7 +483,7 @@ combinedsyndicates.17.t:0 "남부에 평화가 오다"
 combinedsyndicates.17.d:0 "인민 해방군이 남부 전역에 배치되고, 혁명을 남부에 혁명을 정착시키도록 도움에 따라서, 평화와 질서가 마침내 남부에 도착했습니다. 미국에서 모든 사람들을 위한 평등이라는 혁명적 이상은 남부에 도착한 겁니다."
 combinedsyndicates.17.a:0 "마침내!!"
 
-combinedsyndicates.18.t:0 “보니와 클라이드가 세상을 떠난지 10년이 되었습니다."
+combinedsyndicates.18.t:0 "보니와 클라이드가 세상을 떠난지 10년이 되었습니다."
 combinedsyndicates.18.d:0 "이 주 영웅들은 자본주의 정부에 맞서 싸움으로써 우리 국가에 많은 도움이 되었습니다! 그들은 기념할만한 자격이 있습니다!"
 combinedsyndicates.19.t:0 "잭 리드가 병에 들다."
 combinedsyndicates.19.d:0 "중앙 위원회의 수장인 잭 리드의 신체적 건강은 약화되고 있습니다. 이것을 더 이상 숨길 수 없기 때문에, 대중들에게 발표해야 했죠. 이 질병의 원인에 대해서 알 수 없습니다. 그러나 이 질병의 영향으로 그의 생명이 줄어드는 것은 분명합니다. 물론 그의 혁명에 대한 열정은 시들지 않았지만, 그의 신체는 혁명을 이끌기 어렵습니다."
@@ -595,7 +595,7 @@ combinedsyndicates.110.a:0 "Well at least the deadlock is over. "
 combinedsyndicates.43.t:0 "뉴잉글랜드 총파업"
 combinedsyndicates.43.d:0 "도시 안의 많은 노동자들이 총파업에 동조하여 뉴잉글랜드 전역에서 노동자들의 처우 개선을 조건으로 파업을 하고 있습니다. 뉴잉글랜드 지도자들은 이 문제를 해결하기 위해 토론하고 있습니다. 일부는 사람들은 파업에 대해서 근로자들이 스스로 지칠 것이라고 하면서, 아무것도 하지 않아도 된다고 합니다. 다른 사람들은 CSA가 뉴잉글랜드를 차지할 음모라고 주장하면서 그들을 강경 진압해야 한다고 주장합니다. 마지막으로 파업자들이 요구하는 조건을 모두 수용하자는 제안을 했습니다."
 combinedsyndicates.43.a:0 "파업에 대해 대응하지 않으면 곧 끝날 것이다."
-combinedsyndicates.43.b:0 "생디칼리즘 파업자들을 모두 진압해라!“
+combinedsyndicates.43.b:0 "생디칼리즘 파업자들을 모두 진압해라!"
 combinedsyndicates.43.c:0 "그들의 요구 조건을 받아드린다."
 combinedsyndicates.31.t:0 "총 파업은 더 최악의 사태로 접어들었습니다!"
 combinedsyndicates.31.d:0 "총파업은 국가 전역에서 파업자와 경찰들 간 폭력사태가 벌어지면서 더 최악의 사태로 치닫고 국가 전역의 많은 파업자들이 시청으로 전진하고 있습니다. 많은 정부 관련자들이 CSA가 이 사건의 배후 아니냐는 생각하며, 만약 이 보스턴을 향한 행진이 성공하거나 혹은 평화와 질서가 복구되면 어떻게 반응 할지 궁금해 합니다."
@@ -603,7 +603,7 @@ combinedsyndicates.31.a:0 "정부는 시위자에 의해 전복되다!"
 combinedsyndicates.31.b:0 "평화와 질서는 복구되었다!"
 combinedsyndicates.32.t:0 "생디칼리즘 뉴잉글랜드!"
 combinedsyndicates.32.d:0 "정부는 시위자에 의해 전복되었고 생디칼리즘 정부가 수립되었습니다. 생디칼리스트들이 뉴잉글랜드를 통제한 뒤, 처음으로 해야 할 일은 미국에 재 가입하는 것입니다. 그러므로 우리는 CSA에 혁명이 성공했다는 것을 알리고 우리 동무들과 함께 할 시간입니다."
-combinedsyndicates.32.a:0 "우리는 미국에 다시 재가입 할 것이다.“
+combinedsyndicates.32.a:0 "우리는 미국에 다시 재가입 할 것이다."
 combinedsyndicates.33.t:0 "뉴잉글랜드가 재가입을 하다.!"
 combinedsyndicates.33.d:0 "시간이 좀 걸렸지만, 우리의 뉴잉글랜드 요원들은 뉴잉글랜드에 혁명을 가져왔습니다. 지금 그들은 미국에 재가입하기를 원합니다. 뉴잉글랜드의 우리 형제와 자매를 환영합시다. 붉은 태양이 뉴잉글랜드에서 떠오릅니다.!"
 combinedsyndicates.33.a:0 "고향에 온 것을 환영하네!"
@@ -635,7 +635,7 @@ combinedsyndicates.39.d:0 "PSA에 우리의 요원들은 서부해안 전역의 
 combinedsyndicates.39.a:0 "그들은 이 날을 후회하게 될 것이다."
 combinedsyndicates.39.b:0 "전쟁은 항상 좋은 대안만이 아닙니다."
 combinedsyndicates.40.t:0 "리드 독트린"
-combinedsyndicates.40.d:0 "아메리카 노동 연맹이 확실히 장악했음으로, 아메리카 중부와 남부의 자본주의 압제자들을 무너트리고, 새 국가의 안전을 보장할 차례이다! 그러한 자본가들이 서반구에 자신의 입지를 구축하기 전에 반드시 개입할 것입니다. 하지만 일부는 일단 내부 문제부터 해결하는 것이 우선시 되어야 한다고 우려하고 있습니다.“
+combinedsyndicates.40.d:0 "아메리카 노동 연맹이 확실히 장악했음으로, 아메리카 중부와 남부의 자본주의 압제자들을 무너트리고, 새 국가의 안전을 보장할 차례이다! 그러한 자본가들이 서반구에 자신의 입지를 구축하기 전에 반드시 개입할 것입니다. 하지만 일부는 일단 내부 문제부터 해결하는 것이 우선시 되어야 한다고 우려하고 있습니다."
 combinedsyndicates.40.a:0 "반동분자들은 반드시 멈출 것이다."
 combinedsyndicates.40.b:0 "미국이 우선이다."
 combinedsyndicates.50.t:0 "반동주의자 장교 집단에 대한 합병"
