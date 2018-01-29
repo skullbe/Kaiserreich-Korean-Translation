@@ -1,18 +1,18 @@
 l_english:
 
 ### Post War Events ###
-postwar.5.t:0 "Western Poland Regained"
-postwar.5.d:0 "Territories which our proud nation was forced to cede during the first and second partition of Poland to the Kingdom of Prussia have been regained."
-postwar.5.a:0 "A great day for the fatherland"
+postwar.5.t:0 "서부 폴란드 재획득"
+postwar.5.d:0 "제1차, 제2차 폴란드 분할 때 우리가 프로이센 왕국에 강제로 내줘야 했던 영토의 통제권을 다시 얻었다."
+postwar.5.a:0 "조국의 위대한 날이다."
 
-postwar.6.t:0 "Brest Litovsk Voivodeship Regained"
-postwar.6.d:0 "Our ground forces have successfully regained control over provinces we were forced to cede to the Russian Empire after the third partition of Poland."
-postwar.6.a:0 "A great day for the fatherland"
+postwar.6.t:0 "브레스트 리토프스크 주 재획득"
+postwar.6.d:0 "우리 군대는 제3차 폴란드 분할 때 우리가 러시아 제국에 강제로 내줘야 했던 영토의 통제권을 성공적으로 얻었다."
+postwar.6.a:0 "조국의 위대한 날이다."
 
-postwar.7.t:0 "Wolyn Voivodeship Regained"
-postwar.7.d:0 "Our ground forces have successfully regained control over provinces we were forced to cede to the Russian Empire after the third partition of Poland."
-postwar.7.a:0 "A great day for the fatherland"
+postwar.7.t:0 "보윈 주 재획득"
+postwar.7.d:0 "우리 군대는 제3차 폴란드 분할 때 우리가 러시아 제국에 강제로 내줘야 했던 영토의 통제권을 성공적으로 얻었다."
+postwar.7.a:0 "조국의 위대한 날이다."
 
-postwar.8.t:0 "Galicia and Lodomeria Regained"
-postwar.8.d:0 "Territories which our proud nation was forced to cede during the first partition of Poland to the Habsburg Monarchy have been regained."
-postwar.8.a:0 "Galicia and Lodomeria are ours!"
+postwar.8.t:0 "갈리치아와 로도메리아 재획득"
+postwar.8.d:0 "제1차 폴란드 분할 때 우리가 합스부르크 왕가에 강제로 내줘야 했던 영토의 통제권을 다시 얻었다."
+postwar.8.a:0 "갈리치아와 로도메리아는 우리 것이다!"
