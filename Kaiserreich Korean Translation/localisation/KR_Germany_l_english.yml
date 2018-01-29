@@ -122,7 +122,7 @@ DKB_said_yes_to_GER_has_oil_2:0 "The Don-Kuban Union accepted our military missi
 VEN_said_yes_to_GER_has_oil:0 "Venezuela has agreed to our deal"
 supported_bulgaria:0 "We have offered Bulgaria assistance"
 FAUD_allow:0 "We allowed the FAUD to operate"
-FAUD_ban:0 "We have banned the FAUD"
+FAUD_ban:0 "FAUD 금지"
 Axis_yes_to_GER:0 "추축국이 우리의 제안을 받아들임"
 OTT_yes_to_GER:0 "오스만이 우리의 제안을 받아들임"
 
@@ -182,7 +182,7 @@ GER_national_populist_party_long:0 "범 독일 연맹"
 
 ### Focuses ###
 GER_doctrine_new:0 "육군 개혁"
-GER_doctrine_new_desc:0 "With the death of Hans von Seeckt and the retirement of August von Mackensen, the Chief of General Staff has been embroiled in heated debate as to which military doctrine should be adopted. We should establish an impartial committee of military officers to oversee the adoption of new doctrine."
+GER_doctrine_new_desc:0 "한스 폰 젝트의 사망과 아우구스트 폰 마켄젠의 사임으로 참모 총장은 어떤 군사 교리를 채택해야 할 것인가에 대한 뜨거운 논쟁에 휩싸여 왔다. 새 교리를 채택하는 것을 감독할 군 장교들의 공정한 위원회를 만들어야 한다."
 GER_doctrine_great_war:0 "분대 전술"
 GER_doctrine_great_war_desc:0 "The intervention in the chaotic Chinese Civil War has reinforced among our officers, the importance of coordination within individual squads. We should integrate so called 'Gruppentaktiken' into our infantry training regime."
 GER_doctrine_great_war_2:0 "현대 전쟁의 멋"
@@ -191,7 +191,7 @@ GER_doctrine_mobile:0 "차량화 침투"
 GER_doctrine_mobile_desc:0 "우리 군 고위 지휘부는 여러 사안에 대해 하나된 의견을 도출하지 못하였으나, 하나의 사안에는 의견을 모으고 있습니다: 1870년과 1871년 승리를 되돌아봤을 때, 작전 규모에서 신속하고 결정적인 승리는 보병을 집단적으로 차량화함으로써 달성할 수 있다는 것입니다."
 GER_doctrine_mobile_2:0 "새로운 교리"
 GER_doctrine_mobile_2_desc:0 "군 고위 지휘부의 하인츠 폰 구데리안과 에리히 폰 만슈타인 등과 같은 급직전인 혁신가의 일부는 완전히 새로운 교리에 대한 연구를 도입하기 위해 영향력을 행사하고 있습니다. 견고한 전선을 돌파하기 위해 기갑 선봉대의 신속한 기동에 초점을 맞추고자 합니다."
-GER_doctrine_mobile_2_prerequisite:0 "Either §YHeinz Guderian§! or §YErich von Manstein§! is the chief of staff."
+GER_doctrine_mobile_2_prerequisite:0 "§Y하인츠 구데리안§! 또는 §Y에리히 폰 만슈타인§!이 참모총장으로 있어야 합니다."
 GER_doctrine_mobile_3:0 "기갑 생산공장에 투자"
 GER_doctrine_mobile_3_desc:0 "적지만 직접적인 투자를 통해 기갑 생산공장의 생산량을 향상할 수 있습니다. 다만 보수적인 장군의 일부는 이 투자에 동의하지 않을 것입니다."
 
@@ -214,7 +214,7 @@ GER_north_sea3_desc:0 "노르웨이로부터 트론헤임 항구를 조차하고
 GER_north_sea4:0 "스카게라크 해협 확보"
 GER_north_sea4_desc:0 "스카게라크 해협은 덴마크, 노르웨이, 스웨덴 사이에 있는 중요한 해협입니다. 우리는 함대가 발트 해 안에 고립되는 것을 막기 위해 해협을 확보해야 합니다."
 GER_generic_navy1:0 "북해 해안 요새화"
-GER_generic_navy1_desc:0 "The North Sea Coast must be defended. If our fleet is lost then our flanks are dangerously exposed, we must begin fortifying the coastline at once."
+GER_generic_navy1_desc:0 "북해 연안은 반드시 방어해야 합니다. 만약 우리 함대가 무너지면 우리의 측면이 노출됩니다. 따라서 우리는 즉시 해안선을 강화하기 시작해야 합니다."
 GER_generic_navy2:0 "해군 기지 요새화"
 GER_generic_navy2_desc:0 "In line with the Coastline fortifications we should seek to better defend our vital Naval Bases from Amphibious invasion."
 GER_doctrine_fleet_in_beeing:0 "되니츠의 말에 주의를 기울이다"
@@ -253,7 +253,7 @@ GER_security_2_desc:0 "과거 프랑스가 통치하였으나 지금은 독일�
 GER_security_3:0 "엘자스-로트링겐 기동 훈련"
 GER_security_3_desc:0 "비열한 파리놈들은 우리 통치를 거역하기 충분할만큼 뻔뻔하며, 로트링겐의 반란분자를 지원하고 있습니다! 황제 폐하 그리고 군 수뇌부와의 긴 토의 이후, 재상은 예비 병력의 부분 동원에 승인했으며, 엘자스-로트링겐에서의 대규모 군사 훈련을 고려하고 있습니다. 이 훈련에는 공군과 장갑 파견대 그리고 중부 유럽 회원국의 관전 무관이 참가할 것입니다. "
 GER_security_4:0 "생디칼리스트를 제자리로 되돌리다"
-GER_security_4_desc:0 "세계에서 평화와 안정에 가장 큰 위협은 단연코 생디칼리트입니다. 그리고 그들에게 프랑스보다 더 큰 거점을 가지고 있지 않습니다. 우리 군 최고 사령부는 수년에 걸쳐 유럽의 질서를 되찾기 위해 다시금 파리로 군을 이끌길 꿈꿔왔습니다. 우리는 확실히 준비해야 합니다. 프랑스는 지난 세계 대전에서 그랬던 것보다 더 사납게 싸울 것이기 때문입니다. 확실히 말이지요…"
+GER_security_4_desc:0 "세계에서 평화와 안정에 가장 큰 위협은 단연코 생디칼리스트입니다. 그리고 그들에게 프랑스보다 더 큰 거점을 가지고 있지 않습니다. 우리 군 최고 사령부는 수년에 걸쳐 유럽의 질서를 되찾기 위해 다시금 파리로 군을 이끌길 꿈꿔왔습니다. 우리는 확실히 준비해야 합니다. 프랑스는 지난 세계 대전에서 그랬던 것보다 더 사납게 싸울 것이기 때문입니다. 확실히 말이지요…"
 GER_foreign_aid:0 "동맹 지원"
 GER_foreign_aid_desc:0 "패권을 유지하길 원한다면, 전세계의 우리 동맹과 보호령이 강하고 충성스럽도록 지켜야 합니다. 괴뢰국과 식민지에 투자를 합시다."
 GER_IRE_deal:0 "아일랜드와의 조약"
@@ -277,19 +277,19 @@ GER_Luftwaffe_airbases_1_desc:0 "하늘에서의 공격과 방어를 위한 기�
 GER_Henschel_Albatros:0 "해군 항공대"
 GER_Henschel_Albatros_desc:0 "Another result of the untangling of air warfare from ground warfare has been the founding of a group of aviators focused on naval aviation. These pilots, trained in special courses, are now demanding aircraft to fit their special requirements."
 GER_Junkers_Fogger:0 "장거리 전투기"
-GER_Junkers_Fogger_desc:0 "As a result of the Bombergruppen doctrine, the demands on range of operations has multiplied. Theorists and researchers are demanding new aircraft models to keep up with their increasingly aggressive bombardment plans. After the Paris bomber comes the London bomber, after that the Moscow bomber - and there doesn't seem to be an end!"
+GER_Junkers_Fogger_desc:0 "봄버그루펜 교리의 결과, 작전 거리가 긴 비행기를 바라는 목소리가 높아졌습니다. 점점 더 공격적으로 진행되는 폭격 계획을 따라 잡기 위해 이론가와 연구원들은 새로운 비행기 설계를 요구하고 있습니다. 파리 폭격이 가능한 폭격기가 만들어진 후에는 런던 폭격이 가능한 폭격기가 요구됐고, 그 뒤로도 모스크바 폭격이 가능한 폭격기 요구가 잇따랐습니다. 이 요구에는 끝이 없어 보입니다!"
 GER_air_doc:0 "세계 대전의 교훈"
 GER_air_doc_desc:0 "The tactics of some twenty years ago, have become severely outdated, in particular in the use of bomber aircraft and how to protect them."
 GER_air_doc_2:0 "현대 공군 교리"
 GER_air_doc_2_desc:0 "루프트바페의 젊고 뛰어난 생각에 받아들이면, 독일 공군은 군을 떠받치고 있는 산업계의 힘 뿐만 아니라 현대 전술의 교묘함도 얻게 될 것입니다."
 GER_mil_expansion_land_1:0 "군국주의 부활"
-GER_mil_expansion_land_1_desc:0 "After our victory in the Weltkrieg, the German people grew tired of war and conquest and are feeling content with our power. It is time for us to revive the militaristic spirit of the German people, in the name of the Reich and the Kaiser!"
+GER_mil_expansion_land_1_desc:0 "세계 대전의 승리 이후, 독일인들은 전쟁과 정복에 싫증을 느끼게 되었고, 현재에 만족을 느끼고 있습니다. 이제 제국과 황제의 이름으로 독일 국민의 군국주의 정신을 되살려야 할 때가 왔습니다!"
 GER_Infantry_divs:0 "신무기"
 GER_Infantry_divs_desc:0 "독일은 세계에서 가장 훌륭한 병사를 가지고 있지만, 결코 장비가 뒤떨어져서는 안됩니다. 아무리 훌륭한 병사라도 장비를 잘 갖춘 적을 무찌르기란 쉽지 않을 겁니다."
 GER_political_1:0 "제국 개혁"
 GER_political_1_desc:0 "독일 제국이 역사의 한 페이지를 장식하는 가장 위대한 국가임은 부인할 수 없지만, 언제나 개선의 여지는 있습니다. 최근 정책의 '결점'을 미루어 볼 때, 우리는 더 나은 미래를 위해 다양한 변화와 개혁을 시도해야 합니다."
 GER_black_monday_aftermath:0 "검은 월요일의 여파"
-GER_black_monday_aftermath_desc:0 "The great stock market crash of 1936, widely known as 'Black Monday', has already had a massive impact on German politics, culture, and society. While the damage might never be fixed, we should enact reforms and recovery policies to regain some of our lost capacity."
+GER_black_monday_aftermath_desc:0 "'검은 월요일'로 알려진 1936년 주식 시장의 대붕괴는 이미 독일의 정치, 사회, 문화에 큰 영향을 끼쳤습니다. 이 피해가 사라지지 않을 지도 모르지만, 우리는 우리가 잃은 역량을 되찾기 위해 개혁과 회복 정책을 실시해야 합니다."
 GER_mil_industry_2:0 "PEkI I"
 GER_mil_industry_2_desc:0 "검은 월요일로 인해 민간 산업이 타격을 받았지만, 군수 산업은 더 큰 타격을 받았습니다. 보급 전문가들은 독일군에게 충분한 총탄을 지급하기 위해 전쟁 관련 산업 확장 프로그램 (Programm für die Erweiterung kriegswichtiger Industrien) 을 시행할 것을 요구하고 있습니다."
 GER_mil_industry_3:0 "PEkI II"
@@ -303,7 +303,7 @@ GER_civ_industry_3_desc:0 "우리 민간 산업은 다시 한번 강력한 기�
 GER_industry_finished:0 "경제 활성화"
 GER_industry_finished_desc:0 "검은 월요일 이후 경제 정책이 성공을 거두면서, 민간 투자자들이 활발하게 활동하고 있습니다. 경제는 안정적일 뿐만 아니라 폭발적인 호황을 누리고 있습니다. 이는 오래 지속되지는 않겠지만, 잠시 다른 문제에 집중할 수 있을 것입니다."
 GER_economy:0 "경제 상태"
-GER_economy_desc:0 "현재 경제는 매우 좋습니다. 산업은 활기를 띠고 있고, 수많은 시민들이 일하고 있는 중부유럽의 동쪽 위성국에서는 곡물이 들어오고 있습니다. 카이저라이히를 아무리 둘러봐도, 티르피츠 재상의 황금기를 멈출 수 있는 것은 아무 것도 없어 보입니다..."
+GER_economy_desc:0 "현재 경제는 매우 좋습니다. 산업은 활기를 띠고 있고, 수많은 시민들이 일하고 있는 중부 유럽의 동쪽 위성국에서는 곡물이 들어오고 있습니다. 카이저라이히를 아무리 둘러봐도, 티르피츠 재상의 황금기를 멈출 수 있는 것은 아무 것도 없어 보입니다..."
 GER_research_expansion:0 "추가 연구 기금"
 GER_research_expansion_desc:0 "군사 및 민간 문제 해결을 위해 과학 기술에 투자한다. 그거 엄청 좋은 거 아닌가요? 아무 말도 하지 않았지만, 어쨌든 정말 좋은 것 같습니다. 아무튼, 실험실은 저쪽에 있습니다..."
 GER_ig_farben:0 "IG 파르펜에 투자"
@@ -414,13 +414,13 @@ GER_gibraltar_desc:0 "The Rock is the key gateway into the Mediterranean from th
 GER_spain:0 "스페인 평화 종용"
 GER_spain_desc:0 "Why should we let Spain decide their own fate? They are either with us or against us and if they have chosen the latter then they deserve everything we shall deliver unto them."
 GER_europakammer:0 "유럽 의회"
-GER_europakammer_desc:0 "We shall Establish the Europarat to regulate and monitor our European trade and deliver better efficiency."
+GER_europakammer_desc:0 "유럽의 무역을 통제, 감시하고 효율을 더 높이기 위해 유럽 의회를 설립해야 합니다."
 GER_europakommission:0 "유럽 위원회"
 GER_europakommission_desc:0 "With the resounding success of the Europamark program we shall expand and extend it to include further currency measures under a Europakommission."
 GER_erasmus:0 "유럽 교환 계획"
 GER_erasmus_desc:0 "The Europarat has provided sufficient returns to expand it's overall control to include matters of our research programs too."
 GER_grain_and_steel:0 "곡물과 강철"
-GER_grain_and_steel_desc:0 "Grain and Steel are the lifeblood of our great nation and we should make sure it stays as such."
+GER_grain_and_steel_desc:0 "곡물과 철강은 독일의 생명줄과도 같으며, 우리는 반드시 곡물과 강철이 충분히 공급되도록 해야합니다."
 GER_border_regions:0 "국경 지역 개발"
 GER_border_regions_desc:0 "The Border Regions currently lack infrastructure and investment, we shall rectify both."
 GER_mitteleuropa_brigades:0 "유럽 여단"
@@ -506,7 +506,7 @@ gerdom.7.b:0 "독일 제국의 아래에서 원주민에게 자치권을 부여�
 gerdom.7.c:0 "번왕 연합에 실론을 제공한다"
 
 gerdom.8.t:0 "실론 매각"
-gerdom.8.d:0 "The Germans have come to us offering us the sale of Ceylon. While it would obviously cost us a sizeable amount of money, having the island once more would greatly strengthen our position in Indian Ocean. What shall our reply be?"
+gerdom.8.d:0 "독일이 우리에게 실론을 팔기 위해 왔습니다. 분명 상당한 비용이 들겠지만, 이 섬을 다시 갖게 되면 인도양에서 우리의 위치를 강화하게 될 것입니다. 어떻게 응답하겠습니까?"
 gerdom.8.a:0 "고향에 어서오라, 실론!"
 gerdom.8.b:0 "우리는 그 암초덩어리가 필요하지 않다"
 
@@ -515,7 +515,7 @@ gerdom.9.d:0 "인도 번왕 연합의 대사는 정부가 실론을 사들이기
 gerdom.9.a:0 "좋았어"
 
 gerdom.10.t:0 "번왕 연합이 우리의 제안을 거부하다"
-gerdom.10.d:0 "The Princely Federation has replied to our offer flatly stating that they do not want Ceylon. We can now only keep things as they are or allow natives more autonomy. What shall we do?"
+gerdom.10.d:0 "번왕 연합은 우리의 제안에 대해 실론을 원하지 않는다고 단호하게 대답했습니다. 우리는 이제 실론을 그대로 두거나 원주민들에게 더 많은 자치권을 줄 수 있을 뿐입니다."
 
 ### Agricultural crisis in Mitteleuropa ###
 
@@ -541,7 +541,7 @@ gerdom.14.a:0 "오 신이시여! 충격적이군요!"
 ### Tirpitzprogramm ###
 
 gerdom.15.t:0 "1934년 해군 계획"
-gerdom.15.d:0 "카이저리헤 마리네는 1936년 세계에서 가장 강력한 해군으로 우뚝 서 있지만, 시간이 지나면서 많은 도전들이 직면하게 될 것입니다. 일본의 팽창주의적인 제국과 부활하는 프랑스 코뮌은 둘 다 독일의 해군 우위를 전 세계적으로 빼앗으려고 하는 주요한 미래의 적들입니다. \n\n1934년에 우리는 대규모 해군 건설 계획을 시작했고, 배들은 서서히 완성되고 있습니다. 하지만 해군 산업이 여전히 제한적인 상황이므로, 우리는 생산의 한 분야에만 국한해야 할 것입니다. 앞으로 6개월 동안 무엇에 주력해야 할까요?"
+gerdom.15.d:0 "카이저리헤 마리네, 황제 해군은 1936년 세계에서 가장 강력한 해군으로 우뚝 서 있지만, 시간이 지나면서 많은 도전들이 직면하게 될 것입니다. 일본의 팽창주의적인 제국과 부활하는 프랑스 코뮌은 둘 다 독일의 해군 우위를 전 세계적으로 빼앗으려고 하는 주요한 미래의 적들입니다. \n\n1934년에 우리는 대규모 해군 건설 계획을 시작했고, 배들은 서서히 완성되고 있습니다. 하지만 해군 산업이 여전히 제한적인 상황이므로, 우리는 생산의 한 분야에만 국한해야 할 것입니다. 앞으로 6개월 동안 무엇에 주력해야 할까요?"
 gerdom.15.a:0 "전함!"
 gerdom.15.b:0 "항공모함!"
 gerdom.15.c:0 "구축함!"
@@ -563,6 +563,7 @@ gerdom.16.j:0 "이 계획은 달성되었다!"
 
 gerdom.17.t:0 "쿠르프 폰 슐라이허와 DVLP"
 gerdom.17.d:0 "'Scandal! Scandal! Reichskanzler von Schleicher observed dining with Alfred von Hugenberg! Scandal!' cry the newspaper boys today. The prestigious Berliner Tagblatt, already responsible for the publication of the infamous Osthilfeskandal in 1923 that led to the end of the Ludendorff regime, has landed another coup. \n\nA reporter was able to observe and even partially overhear a conversation between Reichskanzler Kurt von Schleicher and the leader of the reactionary Junker party DVLP, Alfred von Hugenberg, at a Berlin variete. The lower standing of the establishment only adds to the scandal. \n\nAnd while crowds come together to discuss the news, one topic is the most interesting; What will be the Kaisers reaction once he opens his morning newspaper?"
+"'스캔! 스캔이다! 재상 폰 슐라이허가 알프레드 폰 후겐베르크와 만찬 중에 했던 말의 내용이 드러났다!' 오늘 신문사의 소년들이 소리쳤습니다. 루덴도르프 정권의 멸망을 야기한 1923년 악명 높은 동부 지원 스캔(Osthilfeskandal)을 공개했던 것으로 유명한 베를리너 태그블래트가 또 한번의 폭탄을 터트렸습니다. \n\n한 기자가 베를린 극장에서 재상 폰 슐라이허와 반동 융커당 DVLP의 지도자인 알프레드 폰 후겐베르크 사이의 대화를 부분적으로 들었습니다. 그 건물이 낮은 것은 스캔들을 부추길 뿐입니다. \n\n그리고 많은 사람들이 모여 이 소식에 대해 토론했는데, 한 주제가 가장 흥미로웠습니다. 조간 신문을 펼쳤을 때 황제의 반응은 어떨까요?"
 gerdom.17.a:0 "요한! 폰 파펜을 데려오라!"
 gerdom.17.b:0 "사회 민주당은 더 이상 나빠질 수 없다!"
 gerdom.17.c:0 "브뤼닝의 때이다!"
@@ -577,20 +578,20 @@ gerdom.27.b:0 "사자의 포효! 새로운 대연정!"
 gerdom.27.c:0 "변화? 누가 변화를 필요로 하지?"
 
 gerdom.28.t:0 "새로운 제국 재상?"
-gerdom.28.d:0 "1871년 헌법 하에서는 카이저라이히에는 공식적인 정부가 존재하지 않습니다. 대신 카이저는 자신이 선호하는 인물을 제국 재상 자리에 임명하고, 그는 '국가지휘자'라는 뜻인 '라이히슬라이터'의 국무장관 자리를 채우게 됩니다. \n\nSPD가 이번 선거에서 제국 의회 직을 가장 많이 따냈지만, 이는 황제가 새 재상을 임명하는 것을 고려해야 한다는 것을 의미하지 않습니다. 그러나 루덴도르프 체제에 이어, 이러한 선의의 제스처를 내보이는 것은 하나의 방식이 되었고, 이를 포기하는 것을 대중들을 불안하게 할 수도 있습니다. 어쩌면 좋을까요?"
+gerdom.28.d:0 "1871년 헌법 하에서는 카이저라이히에는 공식적인 정부가 존재하지 않습니다. 대신 황제는 자신이 선호하는 인물을 제국 재상 자리에 임명하고, 그는 '국가지휘자'라는 뜻인 '라이히슬라이터'의 장관 자리를 채우게 됩니다. \n\nSPD가 이번 선거에서 제국 의회 직을 가장 많이 따냈지만, 이는 황제가 새 재상을 임명하는 데에 이를 고려해야 한다는 것을 의미하지 않습니다. 그러나 루덴도르프 체제에 이어, 이러한 선의의 제스처를 내보이는 것은 하나의 방식이 되었고, 이를 포기하는 것을 대중들을 불안하게 할 수도 있습니다. 황제는 어떤 행동을 취할까요?"
 gerdom.28.a:0 "오토 벨스를 임명한다. 최초의 SPD 제국 재상이로군!"
 gerdom.28.b:0 "현 제국 재상을 연임하게 하라."
 gerdom.28.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
 
 gerdom.29.t:0 "새로운 제국 재상?"
-gerdom.29.d:0 "1871년 헌법 하에서는 카이저라이히에는 공식적인 정부가 존재하지 않습니다. 대신 카이저는 자신이 선호하는 인물을 제국 재상 자리에 임명하고, 그는 '국가지휘자'라는 뜻인 '라이히슬라이터'의 국무장관 자리를 채우게 됩니다. \n\nNLP, FVP, 그리고 BVP가 이번 선거에서 제국 의회 직을 가장 많이 따냈지만, 이는 황제가 새 재상을 임명하는 것을 고려해야 한다는 것을 의미하지 않습니다. 그러나 루덴도르프 체제에 이어, 이러한 선의의 제스처를 내보이는 것은 하나의 방식이 되었고, 이를 포기하는 것을 대중들을 불안하게 할 수도 있습니다. 어쩌면 좋을까요?"
+gerdom.29.d:0 "1871년 헌법 하에서는 카이저라이히에는 공식적인 정부가 존재하지 않습니다. 대신 황제는 자신이 선호하는 인물을 제국 재상 자리에 임명하고, 그는 '국가지휘자'라는 뜻인 '라이히슬라이터'의 장관 자리를 채우게 됩니다. \n\nNLP, FVP, 그리고 BVP가 이번 선거에서 제국 의회 직을 가장 많이 따냈지만, 이는 황제가 새 재상을 임명하는 데에 이를 고려해야 한다는 것을 의미하지 않습니다. 그러나 루덴도르프 체제에 이어, 이러한 선의의 제스처를 내보이는 것은 하나의 방식이 되었고, 이를 포기하는 것을 대중들을 불안하게 할 수도 있습니다. 황제는 어떤 행동을 취할까요?"
 gerdom.29.a:0 "아프리카의 사자, 파울 폰 레토프-포어벡을 임명한다!"
 gerdom.29.b:0 "파울 폰 레토프-포어벡을 임명한다. - 허나 양해를 요구한다."
 gerdom.29.c:0 "현 제국 재상을 연임하게 하라."
 gerdom.29.e:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
 
 gerdom.30.t:0 "새로운 제국 재상?"
-gerdom.30.d:0 "1871년 헌법 하에서는 카이저라이히에는 공식적인 정부가 존재하지 않습니다. 대신 카이저는 자신이 선호하는 인물을 제국 재상 자리에 임명하고, 그는 '국가지휘자'라는 뜻인 '라이히슬라이터'의 국무장관 자리를 채우게 됩니다. \n\nDKP가 이번 선거에서 제국 의회 직을 가장 많이 따냈지만, 이는 황제가 프란츠 폰 파펜을 재상으로 유지해야 한다는 것을 의미하지 않습니다. 그러나 루덴도르프 체제에 이어, 이러한 선의의 제스처를 내보이는 것은 하나의 방식이 되었고, 이를 포기하는 것을 대중들을 불안하게 할 수도 있습니다. 어쩌면 좋을까요?"
+gerdom.30.d:0 "1871년 헌법 하에서는 카이저라이히에는 공식적인 정부가 존재하지 않습니다. 대신 황제는 자신이 선호하는 인물을 제국 재상 자리에 임명하고, 그는 '국가지휘자'라는 뜻인 '라이히슬라이터'의 장관 자리를 채우게 됩니다. \n\nDKP가 이번 선거에서 제국 의회 직을 가장 많이 따냈지만, 이는 황제가 프란츠 폰 파펜을 재상으로 유지해야 한다는 것을 의미하지 않습니다. 그러나 루덴도르프 체제에 이어, 이러한 선의의 제스처를 내보이는 것은 하나의 방식이 되었고, 이를 포기하는 것을 대중들을 불안하게 할 수도 있습니다. 황제는 어떤 행동을 취할까요?"
 gerdom.30.a:0 "폰 파펜은 잘 하고 있다."
 gerdom.30.b:0 "하인리히 브뤼닝을 임명한다 - 새로운 바람을 불러올 때다!"
 gerdom.30.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
@@ -608,20 +609,20 @@ gerdom.33.b:0 "사자의 포효! 새로운 대연정!"
 gerdom.33.c:0 "오랜 벗 DKP."
 
 gerdom.34.t:0 "새로운 제국 재상?"
-gerdom.34.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the SPD won the most Reichstag posts in the elections, this does not mean the Kaiser has to even take this into consideration when choosing his chancellor. However, following the Ludendorff regime, this gesture of goodwill has become the modus operandi, and abandoning it could lead to public unrest. What will the Kaiser do?"
+gerdom.34.d:0 "1871년 헌법 하에서는 카이저라이히에는 공식적인 정부가 존재하지 않습니다. 대신 황제는 자신이 선호하는 인물을 제국 재상 자리에 임명하고, 그는 '국가지휘부'라는 뜻인 '라이히슬라이퉁'의 장관 자리를 채우게 됩니다. \n\nSPD가 이번 선거에서 제국 의회 직을 가장 많이 따냈지만, 이는 황제가 새 재상을 임명하는 데에 이를 고려해야 한다는 것을 의미하지 않습니다. 그러나 루덴도르프 체제에 이어, 이러한 선의의 제스처를 내보이는 것은 하나의 방식이 되었고, 이를 포기하는 것을 대중들을 불안하게 할 수도 있습니다. 황제는 어떤 행동을 취할까요?"
 gerdom.34.a:0 "오토 벨스를 임명한다. 최초의 SPD 제국 재상이로군!"
 gerdom.34.b:0 "현 제국 재상을 연임하게 하라."
 gerdom.34.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
 
 gerdom.35.t:0 "새로운 제국 재상?"
-gerdom.35.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though NLP, FVP and BVP won the most Reichstag posts in the elections, this does not mean the Kaiser has to even take this into consideration when choosing his chancellor. However, following the Ludendorff regime, this gesture of goodwill has become the modus operandi, and abandoning it could lead to public unrest. What will the Kaiser do?"
+gerdom.35.d:0 "1871년 헌법 하에서는 카이저라이히에는 공식적인 정부가 존재하지 않습니다. 대신 황제는 자신이 선호하는 인물을 제국 재상 자리에 임명하고, 그는 '국가지휘부'라는 뜻인 '라이히슬라이퉁'의 장관 자리를 채우게 됩니다. \n\nNLP, FVP, 그리고 BVP가 이번 선거에서 제국 의회 직을 가장 많이 따냈지만, 이는 황제가 새 재상을 임명하는 데에 이를 고려해야 한다는 것을 의미하지 않습니다. 그러나 루덴도르프 체제에 이어, 이러한 선의의 제스처를 내보이는 것은 하나의 방식이 되었고, 이를 포기하는 것을 대중들을 불안하게 할 수도 있습니다. 황제는 어떤 행동을 취할까요?"
 gerdom.35.a:0 "아프리카의 사자, 파울 폰 레토프-포어벡을 임명한다!"
 gerdom.35.b:0 "파울 폰 레토프-포어벡을 임명한다. - 허나 양해를 요구한다."
 gerdom.35.c:0 "현 제국 재상을 연임하게 하라."
 gerdom.35.e:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
 
 gerdom.36.t:0 "새로운 제국 재상?"
-gerdom.36.d:0 "Under the constitution of 1871, there is no formal government in the Kaiserreich. Instead, the Kaiser appoints a person of his liking to the post of Reichskanzler, who then fills the state secretary posts of the 'Reichsleitung' - the 'Reich administration'. \n\nEven though the DKP once again won a Reichstag majority in the elections, this does not mean the Kaiser has to even take this into consideration when choosing his chancellor. What will the Kaiser do?"
+gerdom.36.d:0 "1871년 헌법 하에서는 카이저라이히에는 공식적인 정부가 존재하지 않습니다. 대신 황제는 자신이 선호하는 인물을 제국 재상 자리에 임명하고, 그는 '국가지휘부'라는 뜻인 '라이히슬라이퉁'의 장관 자리를 채우게 됩니다. \n\nDKP가 이번 선거에서 제국 의회 직을 가장 많이 따냈지만, 이는 황제가 새 재상을 임명하는 데에 이를 고려해야 한다는 것을 의미하지 않습니다. 그러나 루덴도르프 체제에 이어, 이러한 선의의 제스처를 내보이는 것은 하나의 방식이 되었고, 이를 포기하는 것을 대중들을 불안하게 할 수도 있습니다. 황제는 어떤 행동을 취할까요?"
 gerdom.36.a:0 "폰 파펜은 잘 하고 있다.."
 gerdom.36.b:0 "하인리히 브뤼닝을 임명한다 - 새로운 바람을 불러올 때다!"
 gerdom.36.c:0 "쿠르트 폰 슐라이허를 임명한다. 황제에 충성하는 대리인이로군!"
@@ -672,7 +673,7 @@ gerdom.43.c:0 "천주교 성당을 지원하고 제국내 천주교 지배 지�
 
 gerdom.47.t:0 "빌헬름 2세의 죽음"
 gerdom.47.d:0 "황제 빌헬름 2세가 오늘 베를린에 있는 샤리테 병원에서 폐색전증으로 붕어하셨습니다. 한 시대의 끝입니다. 빌헬름 2세는 19세기를 통치했던 마지막 유럽 군주였습니다. 성공과 실패를 반복하면서도 그는 그가 인정한 가치를 유지하기 위해 평생을 노력해왔습니다. 그의 죽음으로, 20세기는 우리에게 성큼 다가올 것입니다. \n\n독일 전역에서 조기가 게양됐고 세계 대전 황제를 기리기 위한 공식 의식도 준비되고 있습니다. 그 행사의 구경꾼들 중 한명은 황태자 프리드리히 빌헬름인데, 그는 이제 카이저라이히의 영광을 유지해야 할 것입니다."
-gerdom.47.a:0 "황제 폐하는 붕허하셨다! 빌헬름 3세 황제 폐하 만세!"
+gerdom.47.a:0 "황제 폐하께서 붕허하셨다! 빌헬름 3세 황제 폐하 만세!"
 
 gerdom.49.t:0 "제국 재상 보겔 사망"
 gerdom.49.d:0 "제국 재상 보겔이 오늘 집무실에서 숨졌습니다. 이제 황제는 새로운 제국 재상을 선택해야 합니다."
@@ -743,7 +744,7 @@ gerdom.63.t:0 "빌헬름 그뢰너 사망"
 gerdom.63.d:0 "세계 대전의 영웅 중 한 사람이자 볼세비키 정복자, 빌헬름 그뢰너 원수가 오늘 세상을 떠났습니다.
 
 gerdom.64.t:0 "루트빅 폰 로이터 사망”
-gerdom.64.d:0 "세계 대전의 영웅 중 한 사람이자 카이저리헤 마리네의 사령관, 루트빅 폰 로이터가 오늘 사망했습니다."
+gerdom.64.d:0 "세계 대전의 영웅 중 한 사람이자 황제 해군의 사령관, 루트빅 폰 로이터가 오늘 사망했습니다."
 
 gerdom.65.t:0 "빌헬름 수숑 사망 "
 gerdom.65.d:0 "세계 대전의 영웅 중 한 사람이자 독일 제국 함대와 오스만 제국 함대의 대제독 빌헬름 수숑 제독이 오늘 세상을 떠났습니다. "
@@ -800,7 +801,7 @@ gerdom.80.d:0 "독일의 새로운 식민지 정책의 일환으로, 일반 동�
 gerdom.80.a:0 "훌륭하군!"
 
 gerdom.81.t:0 "남 예멘 상황"
-gerdom.81.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계획을 독일 통제 하에 있는 여러 주변 지역에 얼마나 적용할 것인지 결정해야 합니다. 남 예멘이 그러한 지역 중 하나입니다. 카이저리헤 마리네의 제독들은 이 지역을 직접 지배하면 아덴 만을 통제할 수 있다고 주장했지만, 대부분의 정치인들은 차라리 지배력이 약해지는 것을 감수하면서 이 지역에 대한 지출을 깎을 것을 주장하고 있습니다."
+gerdom.81.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계획을 독일 통제 하에 있는 여러 주변 지역에 얼마나 적용할 것인지 결정해야 합니다. 남 예멘이 그러한 지역 중 하나입니다. 황제 해군의 제독들은 이 지역을 직접 지배하면 아덴 만을 통제할 수 있다고 주장했지만, 대부분의 정치인들은 차라리 지배력이 약해지는 것을 감수하면서 이 지역에 대한 지출을 깎을 것을 주장하고 있습니다."
 gerdom.81.a:0 "제한적 자치권 부여하라"
 gerdom.81.b:0 "예멘에게 남 예멘을 양도하라"
 gerdom.81.c:0 "직접 통치하에 두어라”
@@ -947,7 +948,7 @@ gerfor.1.a:0 "그들에게 돌아가지 않으면 독일산 무기에 맞서야 
 gerfor.1.b:0 "물려라! 짐은 마음을 바꾸었다! "
 
 gerfor.2.t:0 "독일이 최후통첩을 보내다"
-gerfor.2.d:0 "The Second Reich has Sent an Ultimatum to London. We are to either pull out of Denmark and declare a cease fire or Germany will come to Denmark's aid."
+gerfor.2.d:0 "제 2제국이 런던에 최후통첩을 보냈습니다. 우리가 덴마크에서 물러나고 사격을 중지하지 않는다면 독일은 덴마크를 도울 것입니다."
 gerfor.2.a:0 "우리는 독일과의 전쟁을 각오할 수 없다, 짐을 싸라!"
 gerfor.2.b:0 "군주 정치에 답할 바는 없다! 수도로 진격을 계속하라!"
 
@@ -993,7 +994,7 @@ gerfor.13.t:0 "생디칼리스트가 스페인을 침공하다"
 gerfor.13.d:0 "Armed forces of the French Commune have launched an invasion of the Spanish state. This invasion threatens to disrupt the balance of power in favour of the syndicalist alliance. Shall we warn the syndicalists about the foolishness of their actions or let Spain fall?"
 
 gerfor.14.t:0 "독일이 최후통첩을 보내다"
-gerfor.14.d:0 "The Second Reich has Sent an Ultimatum to Paris. We are to either pull out of Spain and declare a cease fire or Germany will aid Spain via direct military intervention."
+gerfor.14.d:0 "제 2제국이 파리에 최후통첩을 보냈습니다. 우리가 스페인에서 물러나고 사격을 중지하지 않는다면 독일은 스페인에 직접적인 군사 간섭을 할 것입니다."
 
 gerfor.16.t:0 "생디칼리스트가 스페인에서 철수하다"
 gerfor.16.d:0 "After the ultimatum was received by Paris they quickly sent orders to all of their commanders on the ground to cease fire and return to the their homeland. The independence of Spain will be kept and our pride remains intact."
@@ -1008,7 +1009,7 @@ gerfor.18.b:0 "플란데른-발로비엔을 분할하라!"
 gerfor.18.c:0 "적어도 지금은 점령한다"
 
 gerfor.19.t:0 "남부 발로니에의 운명"
-gerfor.19.d:0 "Now that we have nothing to fear from the western front should we give the provinces of Southern Wallonia to their rightful owner or shall we fully integrate this province into the German Empire?"
+gerfor.19.d:0 "이제 서부 전선에는 아무런 위협이 없습니다. 우리는 남부 발로니에를 적법한 소유자에게 넘겨야 할까요? 아니면 이 지역을 독일 제국에 완전히 통합해야 할까요?"
 gerfor.19.a:0 "적법한 소유자에게 돌려주어라"
 gerfor.19.b:0 "남부 발로니에를 통합하라!"
 
@@ -1023,7 +1024,7 @@ gerfor.22.b:0 "독립된 네덜란드를 복구하라"
 gerfor.22.c:0 "아니, 우리의 통제하에 두는 것이 더 낫다!"
 
 gerfor.23.t:0 "네덜란드 분할"
-gerfor.23.d:0 "The Germans are giving us our rightfully owned part of the Netherlands."
+gerfor.23.d:0 "독일은 우리에게 적법한 네덜란드의 일부를 넘겼습니다."
 gerfor.23.a:0 "고맙군"
 
 gerfor.24.t:0 "눈앞의 적"
@@ -1035,12 +1036,12 @@ gerfor.25.d:0 "프랑스군이 라인강에 도달했습니다. 베를린의 누
 gerfor.25.a:0 "그들을 저지해야만 한다!"
 
 gerfor.26.t:0 "스페인령 모로코의 운명"
-gerfor.26.d:0 "With syndicalism taking control of Spain our colonial possessions in Northern Africa might be endangered. As a preventive measure our general staff suggests to occupy Spanish Morocco before syndicalists stabilise their rule and spread their foul influence into our colonies."
+gerfor.26.d:0 "스페인이 생디칼리즘에 물들었으니 독일의 북아프리카 식민지가 위협을 받을 지도 모릅니다. 작전 참모들은 이를 예방하는 차원에서 생디칼리스트들이 지배를 공고히 하고 우리 식민지에 영향을 주기 전에 스페인령 모로코를 점령해야 한다고 제안했습니다."
 gerfor.26.a:0 "스페인령 모로코를 점거하라!"
 gerfor.26.b:0 "무시하라..."
 
 gerfor.27.t:0 "독일 제국이 스페인령 모로코를 점거하다!"
-gerfor.27.d:0 "The German Empire in a show of absolute arrogance and disrespect towards our state has occupied remaining parts of Morocco."
+gerfor.27.d:0 "독일 제국이 엄청난 오만과 무례를 보여주며 모로코의 나머지 지역을 점령했습니다."
 gerfor.27.a:0 "우리가 할 수 있는 일은 아무것도 없다..."
 gerfor.27.b:0 "그러한 폭거는 용인될 수 없다!"
 
@@ -1063,12 +1064,12 @@ gerfor.31.d:0 "With no end in site to the rising unemployment on Madagascar, the
 gerfor.31.a:0 "망할!"
 
 gerfor.32.t:0 "명예로운 강화"
-gerfor.32.d:0 "Since the fall of France our armed forces unsuccessfully tried to gain control over the British isles and decisively end the war in our favour. Unfortunately, british resistance proved to be too strong to break. We can now either continue in armed struggle or try to end this futile conflict..."
+gerfor.32.d:0 "프랑스가 항복한 이후 우리 군을 브리튼 제도를 장악하여 했지만, 이제는 종전을 바라고 있습니다. 브리튼 연방의 저항이 너무 강해서 깨뜨릴 수가 없습니다. 이제 우리는 무력 분쟁을 계속할 수도 있고, 이 무익한 분쟁을 끝내려고 할 수도 있습니다..."
 gerfor.32.a:0 "명예로운 강화를 제의하라"
 gerfor.32.b:0 "안된다. 우리가 런던에 진군할 때까지 전쟁은 계속될 것이다!"
 
 gerfor.33.t:0 "명예로운 강화"
-gerfor.33.d:0 "Attempts from Mitteleuropa to gain a foothold on our island and decisively end the war in their favour have failed miserably. Now the leadership of the German Empire is offering us a proposal to terminate conflict between Mitteleuropa and the remaining members of Internationale. How shall we react?"
+gerfor.33.d:0 "중부 유럽이 우리 섬에 발판을 마련하고 원하는 대로 전쟁을 끝내려고 했던 시도는 모두 물거품으로 돌아갔습니다. 현재 독일 제국의 지도부는 중부 유럽과 남은 인터네셔널 회원국 간의 전쟁을 멈추자는 제안을 보내왔습니다. 어떻게 해야 할까요?"
 gerfor.33.a:0 "독일의 제안을 수락하라!"
 gerfor.33.b:0 "안된다. 우리가 베를린에 진군할 때까지 전쟁은 계속될 것이다!
 
@@ -1088,10 +1089,10 @@ gerfor.37.t:0 "브리튼 연방이 노르웨이를 침공하다"
 gerfor.37.d:0 "Combined forces of the Union of Britain have launched an invasion of Norway. This invasion threatens to disrupt the balance of power in favour of the syndicalist alliance. Shall we warn the syndicalistsg about foolishness of their actions or let Norway fall?"
 
 gerfor.38.t:0 "독일이 최후통첩을 보내다"
-gerfor.38.d:0 "The Second Reich has Sent an Ultimatum to London. We are to either pull out of Norway and declare a cease fire or Germany will come to Norway's aid."
+gerfor.38.d:0 "제 2제국이 런던에 최후통첩을 보냈습니다. 우리가 노르웨이에서 후퇴하고 사격을 중지하지 않는다면 독일은 노르웨이를 도울 것입니다."
 
 gerfor.39.t:0 "최후통첩, 베를린이 런던을 위협하다"
-gerfor.39.d:0 "Germany has come to our aid! They have sent an ultimatum to the Union of Britain, either fall back to their home islands or risk annihilation."
+gerfor.39.d:0 "독일이 우리를 도우러 왔습니다! 독일은 브리튼 연방에 고국으로 돌아가거나 전멸의 위험을 감수하라고 최후 통첩을 보냈습니다."
 
 gerfor.40.t:0 "브리튼 연방이 물러서다"
 gerfor.40.d:0 "After the ultimatum was received by London they quickly sent orders to all of their commanders on the ground to cease fire and return to the coast. We have achieved a diplomatic victory today, we have shown the world we will stand up to Socialist and Syndicalist aggression. We will protect any nation under threat from Britain or France."
@@ -1210,16 +1211,18 @@ gerfor.66.a:0 "협상국에 가입한다."
 gerfor.66.b:0 "아니, 우리는 혼자 싸울 것이다!"
 
 gerfor.67.t:0 "독일이 대화를 원합니다!"
-gerfor.67.d:0 "The Germans have been defeated by the Syndicalist usurpers. While it was their fault that the Syndicalists have taken control of Europe they are now in the same position as we are. Surprisingly, the Germans have sent a delegate to Ottawa asking for an alliance. What will be our terms?"
+gerfor.67.d:0 
+"독일은 생디칼리스트 찬탈자들에게 패배했습니다. 생디칼리스트가 유럽을 차지한 것은 독일의 잘못이지만, 현재 독일은 우리와 같은 입장입니다. 놀랍게도 독일은 오타와에 사절단을 보내 동맹을 요청했습니다. 어떤 조건을 달겠습니까?"
 gerfor.67.a:0 "Allow them into the Entente without concessions."
 gerfor.67.b:0 "Allow them into the Entente with concessions."
 gerfor.67.c:0 "We will regain our homeland without the German swines!"
 
 gerfor.68.t:0 "독일이 대화를 원합니다!"
-gerfor.68.d:0 "The Germans have been defeated by the Syndicalist usurpers. While it was their fault that the Syndicalists have taken over Europe they are now in the same position as we are. Surprisingly, the Germans have sent a delegate to Ottawa asking for an alliance which the Canadians have accepted. Should we demand anything from the Germans in exchange for the alliance?"
-gerfor.68.a:0 "Demand Alsace-Lorraine!"
-gerfor.68.b:0 "Demand Alsace-Lorraine and part of their colonies!"
-gerfor.68.c:0 "Demand nothing from the Germans."
+gerfor.68.d:0 
+"독일은 생디칼리스트 찬탈자들에게 패배했습니다. 생디칼리스트가 유럽을 차지한 것은 독일의 잘못이지만, 현재 독일은 우리와 같은 입장입니다. 놀랍게도 독일은 오타와에 사절단을 보내 동맹을 요청했고 캐나다는 수락했습니다. 우리는 독일에 동맹에 대한 대가로 무엇을 요구해야 할까요?"
+gerfor.68.a:0 "알자스-로렌을 요구한다!"
+gerfor.68.b:0 "알자스-로렌과 식민지 일부를 요구한다!"
+gerfor.68.c:0 "아무 것도 요구하지 않는다."
 
 gerfor.69.t:0 "협상국이 받아들였습니다"
 gerfor.69.d:0 "The Entente has accepted our alliance proposal and they haven't requested anything in return! This is the best offer we could hope for!"
@@ -1255,13 +1258,13 @@ gerfor.75.t:0 "협상국이 거부했습니다"
 gerfor.75.d:0 "The Canadians have refused our offer to ally with them. They blame us for this whole mess and claim that they don't need any help to defeat the Syndicalists!"
 gerfor.75.a:0 "Verdammt!"
 
-gerfor.76.t:0 "Enlargement of the Entente"
-gerfor.76.d:0 "The former members of the Mitteleuropa alliance have followed the example of the German Empire and they are now members of our alliance."
-gerfor.76.a:0 "Great!"
+gerfor.76.t:0 "협상국의 확대"
+gerfor.76.d:0 "중부 유럽의 회원국들은 독일 제국의 선례를 따랐고 이제 우리 동맹입니다."
+gerfor.76.a:0 "훌륭하군!"
 
-gerfor.77.t:0 "The end of Mitteleuropa"
-gerfor.77.d:0 "With the German Empire uniting Mitteleuropa with the Entente to save the world from the Syndicalist threat it is time to follow suit or we will be conquered."
-gerfor.77.a:0 "Sign the treaty!"
+gerfor.77.t:0 "중부 유럽의 해체"
+gerfor.77.d:0 "독일 제국이 세계를 생디칼리즘의 위협으로부터 구하기 위해 협상국에 가입했습니다. 함께하지 않는다면 우리는 정복당할 것입니다."
+gerfor.77.a:0 "조약에 서명한다!"
 
 gerfor.78.t:0 "Germany wants basing rights"
 gerfor.78.d:0 "The Kaiserreich has approached our ambassador with a somewhat strange offer: We have been offered a substantial sum of money if we allow them access to the port of Honolulu. There has never been German military presence east of New Zealand so far, and German intentions are nebulous...\n\nWhat shall we do?"
@@ -1301,7 +1304,7 @@ gerfor.86.t:0 "The Romanians have lost control of Their Oil!"
 gerfor.86.d:0 "The Romanians have been sending us oil shipments to keep our civilian and war economies healthy. However, they have recently lost control of their oil supplies, already the government and businesses are preparing for another oil shortage."
 gerfor.86.a:0 "Damn, why is it always the oil."
 
-gerfor.87.t:0 "The Romanian Restoration and Mitteleuropa."
+gerfor.87.t:0 "루마니아 왕정복고와 중부 유럽"
 gerfor.87.d:0 "With the King back in control and the Iron Guard ousted we can now ask for a place in Mitteleuropa"
 gerfor.87.a:0 "Join Mitteleuropa."
 gerfor.87.b:0 "We will not be the next Poland."
@@ -1323,11 +1326,11 @@ gerfor.112.d:0 "Germany has approached our government offering military aid to u
 gerfor.112.a:0 "German Military aid is crucial."
 gerfor.112.b:0 "That Oil belongs to us."
 
-gerfor.91.t:0 "The Arab Axis Agreed!"
+gerfor.91.t:0 "아랍 추축국이 수락하다!"
 gerfor.91.d:0 "After recieving our offer the Arabs seemed excited about having their forces trained by ours."
 gerfor.91.a:0 "It all works out in the end."
 
-gerfor.92.t:0 "The Arab Axis turn us down."
+gerfor.92.t:0 "아랍 추축국이 거절하다."
 gerfor.92.d:0 "Despite our more than generous offer to train their inexperienced forces they have denied our offer for oil access."
 gerfor.92.a:0 "I hope they lose."
 
@@ -1779,7 +1782,7 @@ gerfla.9.d:0 "프로필렌 출판사는 오늘 세계 대전 당시 독일 병�
 gerfla.9.a:0 "좋은 읽을거리군!"
 
 gerfla.10.t:0 "우리의 투쟁 : 더 무비"
-gerfla.10.d:0 "Following the widespread popularity of the bestselling series produced by Propylaen, film director wunderkind Leni Riefenstahl resolved to turn the material into a movie based on the accounts given. 'Unser Kampf' boasts the highest production values hitherto seen - made possible by state investments into the Babelsberg studios - and offers a frighteningly real depiction of the war. Starring Heinz Ruhmann, Hans Albers and Theodor Loos, the story focuses on the heroism and dedication of the 'small people' in the Weltkrieg, such as the valiant corporal Adolf Hitler, who sacrificed everything for his Kaiser and the Reich."
+gerfla.10.d:0 "프로필렌 사가 만든 베스트셀러 시리즈의 광범위한 인기에 힘업어, 신동 영화 감독 레니 리펜슈탈이 이 시리즈를 원작으로 영화를 제작하겠다고 밝혔습니다. '우리의 투쟁'은 바벨스베르크에 대한 정부 투자로 지금까지의 영화들 중 제작비가 가장 많이 쓰였으며, 전쟁 묘사가 무서울 정도로 사실적입니다. 하인즈 뤼만, 한스 알버스, 테오도르 루스 등이 출연한 이 영화는 황제와 제국을 위해 모든 것을 희생하는 용맹한 아돌프 히틀러 상병과 같이, '작은 사람'들의 영웅주의와 헌신에 대한 이야기를 다루었습니다."
 gerfla.10.a:0 "대단한 영화로군!"
 
 ### Mitteleuropa Events ###
