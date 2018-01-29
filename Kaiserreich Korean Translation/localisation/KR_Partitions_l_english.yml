@@ -34,27 +34,27 @@ part.15.a:0 "Form up the Troops!"
 
 part.16.t:0 "Choosing the new German Head of State."
 part.16.d:0 "We have the opportunity to install a member of the house of Romanov as the new Emperor of Germany. It may, however, be wise to let the Germans choose their own government."
-part.16.a:0 "Grand Duke Boris will be Wilhelm V!"
+part.16.a:0 "보리스 대공이 빌헬름 5세로 추대될 것이다!"
 part.16.b:0 "Let the Germans decide, as long as they stay loyal."
 
 part.17.t:0 "새로운 황제!"
-part.17.d:0 "러시아 제국이 보리스 대공을 새로운 독일 황제로 추대했다. 우리가 할 수 있는 일은 없으며, 독일은 다시 제국이 되었다."
+part.17.d:0 "러시아 제국이 보리스 대공을 새로운 독일 황제로 추대했습니다. 우리가 할 수 있는 일은 없으며, 독일은 다시 제국이 되었습니다."
 part.17.a:0 "빌헬름 5세 만세!"
 
 part.18.t:0 "남독일 연방의 독립"
-part.18.d:0 "...아무도 보지 못할 것이다..."
+part.18.d:0 "...아무도 보지 못할 것입니다..."
 part.18.a:0 "The South German Federation is once again fully independent!"
 
 part.19.t:0 "프러시아의 독립"
-part.19.d:0 "...아무도 보지 못할 것이다..."
+part.19.d:0 "...아무도 보지 못할 것입니다..."
 part.19.a:0 "새로운 시작."
 
 part.20.t:0 "라인란트의 독립"
-part.20.d:0 "...아무도 보지 못할 것이다..."
+part.20.d:0 "...아무도 보지 못할 것입니다..."
 part.20.a:0 "Of course we're happy to be taking orders from Moscow!"
 
 part.21.t:0 "북독일의 독립"
-part.21.d:0 "...아무도 보지 못할 것이다..."
+part.21.d:0 "...아무도 보지 못할 것입니다..."
 part.21.a:0 "마침내 노르드도이칠란드가 독립했다!"
 
 part.22.t:0 "Choosing the new Prussian Head of State"
@@ -63,7 +63,7 @@ part.22.a:0 "Grand Duke Boris will be Wilhelm V!"
 part.22.b:0 "Let the Prussians decide, as long as they stay loyal"
 
 part.23.t:0 "새로운 국왕!"
-part.23.d:0 "The Russian Empire has imposed Grand Duke Boris as the new King of Prussia. There's nothing we can do, we have to fold and become a kingdom again."
+part.23.d:0 "러시아 제국이 보리스 대공을 새로운 프로이센 왕으로 추대했습니다. 우리가 할 수 있는 일은 없으며, 독일은 다시 왕국이 되었습니다."
 part.23.a:0 "빌헬름 5세 만세!"
 
 part.24.t:0 "독일 제국의 가장 어두운 시기"
@@ -75,7 +75,7 @@ part.25.d:0 "According to the second Brest-Litovsk treaty we have signed with Ru
 part.25.a:0 "Capitulate."
 
 part.26.t:0 "제네바의 운명"
-part.26.d:0 "프랑스 코뮌을 이긴 후 우리는 제네바를 장악했다. 우리는 제네바의 정당한 소유자인 스위스 연방에 제네바를 반환해야 할까?"
+part.26.d:0 "프랑스 코뮌을 이긴 후 우리는 제네바를 장악했습니다. 우리는 제네바의 정당한 소유국인 스위스 연방에 제네바를 반환해야 할까요?"
 part.26.a:0 "스위스에게 반환한다."
 part.26.b:0 "안돼, 제네바는 이제 독일의 것이다!"
 
@@ -104,7 +104,7 @@ part.31.a:0 "Eupen-Malmedy is German!"
 part.31.b:0 "Eupen-Malmedy is Belgian!"
 
 part.32.t:0 "알자스-로렌"
-part.32.d:0 "현재 독일은 역사적으로 항상 프랑스에 속해 왔던 알자스-로렌을 통치하고 있다. 만약 알자스-로렌의 통치권을 주장하고 싶다면 러시아에 도움을 청해야 한다."
+part.32.d:0 "현재 독일은 역사적으로 항상 프랑스에 속해 왔던 알자스-로렌을 통치하고 있습니다. 만약 알자스-로렌의 통치권을 주장하고 싶다면 러시아에 도움을 청해야 다."
 part.32.a:0 "알자스-로렌을 요구한다!"
 part.32.b:0 "Our resources are overstretched as they are."
 
@@ -145,7 +145,7 @@ part.39.b:0 "Give Luxembourg partial freedom, they must remain loyal to us!"
 part.39.c:0 "We will occupy them for now at least!"
 
 part.40.t:0 "러시아의 최후 통첩"
-part.40.d:0 "러시아인들은 우리에게 룩셈부르크 대공국을 석방하라는 최후 통첩을 보냈다."
+part.40.d:0 "러시아인들은 우리에게 룩셈부르크 대공국을 석방하라는 최후 통첩을 보냈습니다."
 part.40.a:0 "뭐, 그들이 원한다면야."
 
 part.41.t:0 "록셈부르크 독립"
@@ -163,7 +163,7 @@ part.43.b:0 "룩셈부르크는 독립국이다!"
 
 part.44.t:0 "북부 슐레스비히"
 part.44.d:0 "The Germans control Northern Schleswig which has historically always belonged to the Danish state. If we want to claim it from the Germans we must turn to Russia for support."
-part.44.a:0 "Claim Northern Schleswig!"
+part.44.a:0 "북부 슐레스비히를 요구한다!"
 part.44.b:0 "Our resources are overstretched as they are."
 
 part.45.t:0 "덴마크가 북부 슐레스비히를 요구하다."
@@ -217,7 +217,7 @@ part.3.f:0 "Move the border to the Rhine, create the German Union."
 part.3.g:0 "We can't trust the Germans, total occupation is preferable."
 
 part.54.t:0 "뮌헨의 충성스러운 정부"
-part.54.d:0 "뮌헨의 새 정부는 우리 통제 하에 있으며, 남독일은 현재 인터네셔널의 일원이다. 프랑스인들과 바이에른인들이 피를 더 이상 흘리지 않기를 바란다."
+part.54.d:0 "뮌헨의 새 정부는 우리 통제 하에 있으며, 남독일은 현재 인터네셔널의 일원입니다. 프랑스인들과 바이에른인들이 피를 더 이상 흘리지 않기를 바랍니다."
 part.54.a:0 "인터네셔널 만세! 자유 만세!"
 
 part.55.t:0 "A loyal puppet in Prussia"
@@ -225,11 +225,11 @@ part.55.d:0 "The new government in Berlin is firmly under our control and northe
 part.55.a:0 "Prussia shall threaten France no more!"
 
 part.56.t:0 "라인란트의 충성스러운 정부"
-part.56.d:0 "에센의 새 정부는 우리 통제 하에 있으며, 서독은 현재 인터네셔널의 충실한 회원국이다. 마침내 루르의 일꾼들은 그들 자신의 운명을 통제할 수 있고 노동의 열매를 즐길 수 있다!"
+part.56.d:0 "에센의 새 정부는 우리 통제 하에 있으며, 서독은 현재 인터네셔널의 충실한 회원국입니다. 마침내 루르의 일꾼들은 그들 자신의 운명을 통제할 수 있고 노동의 열매를 즐길 수 있습니다!"
 part.56.a:0 "생디칼리즘의 새로운 근거지다! 인터네셔널 만세!"
 
 part.57.t:0 "북독일의 충성스러운 정부"
-part.57.d:0 "함부르크의 새 정부는 우리 통제 하에 있으며, 서독은 현재 인터네셔널의 충실한 회원국이다. 선원, 농부, 어부, 조선소 노동자들이 부르주아의 억압으로부터 자유로워졌다!"
+part.57.d:0 "함부르크의 새 정부는 우리 통제 하에 있으며, 서독은 현재 인터네셔널의 충실한 회원국입니다. 선원, 농부, 어부, 조선소 노동자들이 부르주아의 억압으로부터 자유로워졌습니다!"
 part.57.a:0 "생디칼리즘의 새로운 근거지다! 인터네셔널 만세!"
 
 part.58.t:0 "튀링겐"
@@ -255,7 +255,7 @@ part.4.e:0 "스코틀랜드와 웨일스 만을 해방한다."
 part.4.f:0 "완전히 점령한다!"
 
 part.61.t:0 "런던의 괴뢰 정부"
-part.61.d:0 "런던의 새 정부는 우리 통제 하에 있다."
+part.61.d:0 "런던의 새 정부는 우리 통제 하에 있습니다."
 part.61.a:0 "팍스 유로파!"
 
 part.62.t:0 "Should Britain become a monarchy?"
@@ -276,7 +276,7 @@ part.65.d:0 "...아무도 보지 못할 것이다..."
 part.65.a:0 "Independence at Last!"
 
 part.66.t:0 "에든버러의 괴뢰 정부"
-part.66.d:0 "스코틀랜드의 새 정부는 우리의 통제 하에 있으며, 스코틀랜드는 현재 중부 유럽의 일원이다. 이로인해 유럽에서는 평화의 시대가 새롭게 시작될 것이다."
+part.66.d:0 "스코틀랜드의 새 정부는 우리의 통제 하에 있으며, 스코틀랜드는 현재 중부 유럽의 일원입니다. 이로인해 유럽에서는 평화의 시대가 새롭게 시작될 것입니다."
 part.66.a:0 "팍스 유로파!"
 
 part.67.t:0 "웨일스"
@@ -284,7 +284,7 @@ part.67.d:0 "...아무도 보지 못할 것이다..."
 part.67.a:0 "And its all Thanks to the friendly Germans!"
 
 part.68.t:0 "카디프의 괴뢰 정부"
-part.68.d:0 "웨일스의 새 정부는 우리의 통제 하에 있으며, 웨일스는 이제 중부 유럽의 일원이다. 웨일즈는 마침내 수세기에 걸친 영국의 압제로부터 자유롭게 되었다. 이제 그들은 카이저의 보호를 받고 있다!"
+part.68.d:0 "웨일스의 새 정부는 우리의 통제 하에 있으며, 웨일스는 이제 중부 유럽의 일원입니다. 웨일즈는 마침내 수세기에 걸친 영국의 압제로부터 자유롭게 되었습니다. 이제 그들은 황제의 보호를 받고 있습니다!"
 part.68.a:0 "팍스 유로파!"
 
 part.69.t:0 "잉글랜드"
@@ -292,15 +292,15 @@ part.69.d:0 "...아무도 보지 못할 것이다..."
 part.69.a:0 "Hurrah!"
 
 part.70.t:0 "런던의 괴뢰 정부"
-part.70.d:0 "런던의 새 정부는 우리의 통제 하에 있으며, 잉글랜드는 현재 중부 유럽의 일원이다. 마침내 호엔촐레른 왕가 출신이 참회왕 에드워드의 왕좌에 앉았다! 잉글랜드는 더 이상 독일을 도발할 수 없을 것이다!"
+part.70.d:0 "런던의 새 정부는 우리의 통제 하에 있으며, 잉글랜드는 현재 중부 유럽의 일원입니다. 마침내 호엔촐레른 왕가 출신이 참회왕 에드워드의 왕좌에 앉았습니다! 잉글랜드는 더 이상 독일을 도발할 수 없을 것입니다!"
 part.70.a:0 "팍스 유로파!"
 
 part.5.t:0 "파리 함락"
-part.5.d:0 "프랑스의 수도이자 생디칼리즘 운동의 중심지, 파리가 함락되었다. 민간인들의 저항이 거세지만, 우리 군은 곧 시 전체를 장악할 것이다."
+part.5.d:0 "프랑스의 수도이자 생디칼리즘 운동의 중심지, 파리가 함락되었습니다. 민간인들의 저항이 거세지만, 우리 군은 곧 시 전체를 장악할 것입니다."
 part.5.a:0 "It won't be long now!"
 
 part.6.t:0 "프랑스가 패배하다."
-part.6.d:0 "파리는 함락되었고 프랑스는 패배했다. 우리는 혁명의 심장을 분쇄했고, 점령당한 프랑스를 어떻게 처리할 것인지 결정해야 한다."
+part.6.d:0 "파리는 함락되었고 프랑스는 패배했습니다. 우리는 혁명의 심장을 분쇄했고, 점령당한 프랑스를 어떻게 처리할 것인지 결정해야 합니다."
 part.6.a:0 "프랑스 괴뢰 정부를 세운다."
 part.6.b:0 "프랑스 본토를 분할한다!"
 part.6.c:0 "브르타뉴와 프랑스를 해방한다."
@@ -313,19 +313,19 @@ part.8.d:0 "In accordance with our agreement, we are now giving the French provi
 part.8.a:0 "We have to obey."
 
 part.71.t:0 "파리의 괴뢰 정부"
-part.71.d:0 "프랑스의 새 정부는 우리의 통제 하에 있으며, 프랑스는 이제 중부 유럽의 일원이다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바란다."
+part.71.d:0 "프랑스의 새 정부는 우리의 통제 하에 있으며, 프랑스는 이제 중부 유럽의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
 part.71.a:0 "팍스 유로파!"
 
 part.72.t:0 "프랑스의 충성스러운 정부"
-part.72.d:0 "프랑스의 새 정부는 우리 통제 하에 있으며, 그 국가는 이제 중부 유럽의 일원이다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바란다."
+part.72.d:0 "프랑스의 새 정부는 우리 통제 하에 있으며, 그 국가는 이제 중부 유럽의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
 part.72.a:0 "팍스 유로파!"
 
 part.73.t:0 "프랑스의 충성스러운 정부"
-part.73.d:0 "프랑스의 새 정부는 우리 통제 하에 있으며, 그 국가는 이제 우리 동맹의 일원이다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바란다."
+part.73.d:0 "프랑스의 새 정부는 우리 통제 하에 있으며, 그 국가는 이제 우리 동맹의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
 part.73.a:0 "팍스 유로파!"
 
 part.74.t:0 "파리의 괴뢰 정부"
-part.74.d:0 "프랑스의 새 정부는 우리 통제 하에 있으며, 프랑스는 이제 우리 동맹의 일원이다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바란다."
+part.74.d:0 "프랑스의 새 정부는 우리 통제 하에 있으며, 프랑스는 이제 우리 동맹의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
 part.74.a:0 "팍스 유로파!"
 
 part.75.t:0 "파리의 괴뢰 정부?"
@@ -335,7 +335,7 @@ part.75.b:0 "Further divide the French lands between the new countries!"
 part.75.c:0 "Total conquest is preferable."
 
 part.76.t:0 "파리의 괴뢰 정부"
-part.76.d:0 "프랑스의 새 정부는 우리의 통제 하에 있으며, 프랑스는 이제 중부 유럽의 일원이다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바란다."
+part.76.d:0 "프랑스의 새 정부는 우리의 통제 하에 있으며, 프랑스는 이제 중부 유럽의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
 part.76.a:0 "팍스 유로파!"
 
 part.77.t:0 "France renounces her claims"
@@ -355,12 +355,12 @@ part.80.d:0 "We will renounce our claims on the lands rightfully owned by German
 part.80.a:0 "We have to obey."
 
 part.81.t:0 "An alliance with Germany in exchange for our land"
-part.81.d:0"프랑스는 독일에게 패배했다. 독일은 우리가 알자스-로렌에 대한 주장을 포기하고 중부 유럽에 가입한다면 우리 지역을 되돌려 주겠다고 말했다."
+part.81.d:0"프랑스는 독일에게 패배했습니다. 독일은 우리가 알자스-로렌에 대한 주장을 포기하고 중부 유럽에 가입한다면 우리 지역을 되돌려 주겠다고 말했습니다."
 part.81.a:0 "A great deal!"
 part.81.b:0 "We will never accept your proposal!"
 
 part.82.t:0 "An alliance with Germany in exchange for our land"
-part.82.d:0 "프랑스는 독일에게 패배했다. 독일은 우리가 알자스-로렌에 대한 주장을 포기하고 중부 유럽에 가입한다면 우리 지역을 되돌려 주겠다고 말했다."
+part.82.d:0 "프랑스는 독일에게 패배했습니다. 독일은 우리가 알자스-로렌에 대한 주장을 포기하고 중부 유럽에 가입한다면 우리 지역을 되돌려 주겠다고 말했습니다."
 part.82.a:0 "A great deal!"
 part.82.b:0 "We will never accept your proposal!"
 
@@ -449,7 +449,7 @@ part.101.d:0 "Form up the Active Defence!"
 part.101.a:0 "Form Up the Troops!"
 
 part.102.t:0 "프랑스의 충성스러운 정부"
-part.102.d:0 "새로운 프랑스 정부는 우리 통제 하에 있으며, 그 국가는 현재 우리 동맹의 일원이다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바란다."
+part.102.d:0 "새로운 프랑스 정부는 우리 통제 하에 있으며, 그 국가는 현재 우리 동맹의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바란다."
 part.102.a:0 "팍스 유로파!"
 
 part.103.t:0 "파리의 괴뢰 정부?"
@@ -476,7 +476,7 @@ part.107.d:0 "We have the opportunity to install a member of the house of Romano
 part.107.a:0 "Princess Tatiana Konstantinovna will be new Grand Duchess!"
 part.107.b:0 "Let the Normans decide, as long as they stay loyal"
 
-part.108.t:0 "새로운 대공국"
+part.108.t:0 "새로운 대공"
 part.108.d:0 "Russian Empire has imposed Princess Tatiana Konstantinovna as new Grand Duchess of Normandy. There's nothing we can do, we have to fold and become a Grand Duchy."
 part.108.a:0 "Long live Grand Duchess Tatiana!"
 
@@ -490,7 +490,7 @@ part.110.d:0 "Russian Empire has imposed Prince Vladimir Pavlovich as the new Gr
 part.110.a:0 "Long live Charles XI!"
 
 part.111.t:0 "프랑스의 충성스러운 정부"
-part.111.d:0 "새로운 프랑스 정부는 우리 통제 하에 있으며, 그 국가는 현재 우리 동맹의 일원이다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바란다."
+part.111.d:0 "새로운 프랑스 정부는 우리 통제 하에 있으며, 그 국가는 현재 우리 동맹의 일원이다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
 part.111.a:0 "팍스 유로파!"
 
 part.112.t:0 "파리의 괴뢰 정부"
@@ -521,8 +521,8 @@ part.10.a:0 "Create a loyal Britain."
 part.10.b:0 "Our loyal allies from Canada will return to Britain!"
 part.10.e:0 "Total occupation of Great Britain!"
 
-part.117.t:0 "A loyal government in London"
-part.117.d:0 "The new government of Britain is firmly under our control."
+part.117.t:0 "런던의 괴뢰 정부"
+part.117.d:0 "런던의 새 정부는 우리 통제 하에 있다."
 part.117.a:0 "팍스 유로파!"
 
 part.118.t:0 "Should Britain become a monarchy?"
@@ -541,7 +541,7 @@ part.120.a:0 "All hail our new president!"
 part.121.t:0 "잉글랜드"
 part.121.d:0 "England is the industrial and overall economic heartland of Great Britian. An occupied England would be a logistical nightmare because of the immense size of the London metropolitan area. Instead, we can establish a puppet state in England. What should we do?"
 part.121.a:0 "Establish a friendly England."
-part.121.b:0 "Total occupation of England!"
+part.121.b:0 "잉글랜드를 완전히 점령한다!"
 
 part.122.t:0 "자유다!"
 part.122.d:0 "We are once again free. Under Russian supervision."
@@ -552,7 +552,7 @@ part.123.d:0 "We are once again free. Under Russian supervision."
 part.123.a:0 "What happened to the Union of 1707?"
 
 part.124.t:0 "런던의 괴뢰 정부"
-part.124.d:0 "The new government of England is under our control!"
+part.124.d:0 "런던의 새 정부는 우리 통제 하에 있다!"
 part.124.a:0 "팍스 유로파!"
 
 part.125.t:0 "웨일스"
@@ -583,9 +583,9 @@ part.130.t:0 "자유다!"
 part.130.d:0 "Thanks to Russian liberators we are once again free!"
 part.130.a:0 "We will never be the tools of the English again!"
 
-part.131.t:0 "A loyal puppet in Edinburgh"
-part.131.d:0 "The new government of Scotland is under our control! May this be the beginning of a new age of peace for Europe."
-part.131.a:0 "Pax Europa!"
+part.131.t:0 "에든버러의 괴뢰 정부"
+part.131.d:0 "새로운 스코틀랜드 정부는 우리 통제 하에 있습니다! 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
+part.131.a:0 "팍스 유로파!"
 
 part.132.t:0 "언어 문제"
 part.132.d:0 "Our policy on the official language of the Wales has to be formed. While varying areas speak Welsh or English, we need to decide the working language of our government. Welsh is the obvious choice, as we have just received independence after hundreds years of English tyranny and we need to solidify our national identity if we are to survive. But majority of our population, even if they consider themselves Welsh continues to use English language as their primary language and establishment of Welsh as primary language would greatly upset them. What shall we do ?"
