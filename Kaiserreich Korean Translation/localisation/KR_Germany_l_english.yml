@@ -400,7 +400,7 @@ GER_schleicher_prerequisite:0 "§Y쿠르트 폰 슐라이허§!가 정부 수반
 GER_restore_country_rights:0 "연방 참의원 복원"
 GER_restore_country_rights_desc:0 "루덴도르프 정권에서 많은 독일 내 구성국가들의 특권이 폐지되었습니다. 이 중 가장 큰 모욕은 모든 국가의 대표들이 모여 우려로 표하고 제국 입법부에 투표할 수 있는 분데스라트 (연방 참의원) 의 공식 해산입니다. 이 조직을 다시 설립하면 우리는 구성국가들에게 강력한 신호를 보낼 수 있을 것입니다."
 GER_babelsberg:0 "바벨스베르크 확장"
-GER_babelsberg_desc:0 "바벨스베르그의 영화 스튜디오는 오랫동안 세계에서 가장 영향력 있는 영화 산업으로 할리우드를 대체해 왔습니다. 하지만 정치에서 매우 동떨어져 있는 영화라 할지라도, 그 영화가 반드시 정부를 지지하는 것은 아닙니다. 레니 리펜슈탈을 포함한 일부 영화 제작자들이 우리가 금전적인 지원을 해준다면 독일인들의 빛나는 과거와 미래를 보여주는 영화를 만들 수 있다고 제안했습니다."
+GER_babelsberg_desc:0 "바벨스베르크의 영화 스튜디오는 오랫동안 세계에서 가장 영향력 있는 영화 산업으로 할리우드를 대체해 왔습니다. 하지만 정치에서 매우 동떨어져 있는 영화라 할지라도, 그 영화가 반드시 정부를 지지하는 것은 아닙니다. 레니 리펜슈탈을 포함한 일부 영화 제작자들이 우리가 금전적인 지원을 해준다면 독일인들의 빛나는 과거와 미래를 보여주는 영화를 만들 수 있다고 제안했습니다."
 GER_siemens:0 "지멘스에 대한 보조금"
 GER_siemens_desc:0 "Siemens is one of the many middle-to-larger sized businesses that form the heart of the German economy. By making contracts with them - and some other smaller industry companies - we could both prohibit a potentially damaging rise of influence of the already influential Krupp AG as well as boost competition within our contractors for railway and other infrastructure."
 GER_infra_1:0 "새로운 기관차"
@@ -1897,9 +1897,4 @@ gerdom.278.a:0 "에노시스 형제들이 정부를 전복시켰다!"
 
 gerdom.279.t:0 "크레타는 또 다시 그리스로!"
 gerdom.279.d:0 "독일인들은 생디칼리스트들과의 전쟁에 또 휘말렸습니다. 크레타의 우리 형제들이 독일에 맞서 일어날 기회입니다!"
-gerdom.279.a:0 "두번째 에노시스를 찬미하라!"
-
-gerdom.284.t:0 "크레타 상황"
-gerdom.284.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계획을 독일 통제 하에 있는 여러 요충지에 얼마나 적용할 것인지 결정해야 합니다. 그 중 하나는 크레테 섬입니다. 이 섬은 혼란스러운 역사를 가졌고, 많은 외국 세력들이 이 섬을 눈독들이고 있습니다. 우리는 이 섬을 더 잘 방어할 수 있을 지도 모르며, 한편으로는 '가라앉지 않는 항공 모함' 은 일을 그르칠 일이 없을 입니다."
-gerdom.284.a:0 "제한적인 자치권을 부여한다"
-gerdom.284.b:0 "직할통치를 유지한다"
+gerdom.27
