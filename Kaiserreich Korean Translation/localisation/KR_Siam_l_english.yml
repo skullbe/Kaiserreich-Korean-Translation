@@ -180,8 +180,8 @@ SIA_syndicalist_party_TH:0 "타이 조합주의당"
 SIA_syndicalist_party_TH_long:0 "타이 조합주의당(Khana Sahakarn Thai)"
 SIA_social_democrat_party:0 "사회주의 정당"
 SIA_social_democrat_party_long:0 "사회주의 정당(Pak Sangkhomniyom)"
-SIA_social_liberal_party:0 "Pak Kijsangkhom"
-SIA_social_liberal_party_long:0 "Pak Kijsangkhom(Social Action Party)"
+SIA_social_liberal_party:0 "사회행동당"
+SIA_social_liberal_party_long:0 "사회행동당(Pak Kijsangkhom)"
 SIA_market_liberal_party:0 "자유당"
 SIA_market_liberal_party_long:0 "자유당(Pak Prachathipat)"
 SIA_social_conservative_party:0 "민주당"
@@ -327,7 +327,7 @@ siamn.2.a:0 "그를 불쌍히 여기라"
 
 siamn.3.t:0 "시암 왕국의 전반적인 상황"
 siamn.3.d:0 "While looking quite prosperous from the inside - Siam is pretty reliant on investments and trade ties with Germany. Its industry in general is pretty fragile with products such as rice, sugar and timber being the main exports. The nationalism among ethnic minorities is also on the rise which might result in troublesome separatist movements in the future. The inflated Bureaucratic system from the Rama VI era siphoned off much needed taxes while bandits still run wild in the fringe areas."
-siamn.3.a:0 "나는 필리핀을 선택하려고한다."
+siamn.3.a:0 "나는 차라리 필리핀을 선택할란다."
 
 ## Black Monday and Early political chaos # Max Reform 7 - Lowest 0: 0-2 = Khana Ratsadon coup, 3-4 = Civil War with Prajadhipok Bias (based on Boworadet Rebellion), 5-6 = success, 7 = Reactionary coup with Paribatra as HoS
 siamn.4.t:0 "검은 월요일이 시암을 강타하다!"
@@ -425,13 +425,13 @@ siamn.21.d:0 "This event isn't meant to fire for Human players - please report t
 siamn.21.a:0 "They surrendered (Parliamentarians)"
 
 siamn.22.t:0 "루앙 피분송크람의 쿠데타" 
-siamn.22.d:0 "The situation has stabilised a little bit since we took power - Maybe it's time..."
+siamn.22.d:0 "우리가 권력을 잡은 이래로 상황은 조금 안정되었다. 어쩌면 지금은 ..."
 siamn.22.a:0 "... 계엄령을 해제하고 평시상태로 돌아온다."
 siamn.22.b:0 "... 우리 자신을 위해 정권을 잡는다."
 
 siamn.23.t:0 "[GetYear] 총선거"
-siamn.23.d.syn:0 "With the conservetives being essentially purged from power- the election result is pretty clear here."
-siamn.23.d.con:0 "With the socialists being essentially purged from power - the election result is pretty clear here."
+siamn.23.d.syn:0 "보수주의자들이 본질적으로 권력에서 제거됨에 따라 선거 결과는 여기서 분명히 드러날 것이다."
+siamn.23.d.con:0 "사회주의자들이 본질적으로 권력에서 제거됨에 따라 선거 결과는 여기서 분명히 드러날 것이다."
 siamn.23.d.norm:0 "While the election polls have been pretty close so far - there's a rumour that someone gained an unexpected majority in parliament."
 siamn.23.a:0 "자유주의 정당 우세"
 siamn.23.b:0 "사회주의 정당 우세"
@@ -472,7 +472,7 @@ siamn.29.d:0 "While the British retreated back toward Australasia during the Bri
 siamn.30.t:0 "우리는 일본인 소유의 철광들을 어떻게 할 것인가??"
 siamn.30.d:0 "The Japanese do own some iron mines in Yala and Nakhon Si Thammarat that continuously feed these resourves back to their home island. Seizing these mines could alienated one of our possible allies against German hegemony in the region. What should we do?"
 
-siamn.31.t:0 "피분 송크란의 약한 외교 정책"
+siamn.31.t:0 "피분 송크람의 약한 외교 정책"
 siamn.31.d:0 "Due to our decisions regarding the National Industrialisation scheme bringing in little to no change. Our opponents and newspaper alike are accusing us of being cowards..."
 siamn.31.a:0 "제기랄!"
 
