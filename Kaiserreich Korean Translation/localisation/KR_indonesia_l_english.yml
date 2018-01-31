@@ -1,8 +1,8 @@
 l_english:
 
 ### Ideas ###
-ins_exile:0 "Dutch Government in Exile"
-ins_exile_desc:0 "The Dutch government has successfully escaped from the mainland and set up an government in exile in the Indies."
+ins_exile:0 "네덜란드 망명정부"
+ins_exile_desc:0 "네덜란드 정부가 본토에서 성공적으로 탈출하여 이곳에 망명정부를 꾸렸습니다."
 
 ### Parties ###
 ins_totalist_party:0 "Patriotten"
@@ -27,9 +27,9 @@ ins_national_populist_party:0 "VNH Extremists"
 ins_national_populist_party_long:0 "Verbond voor Nationaal Herstel"
 
 ### Events ###
-ins.1.t:0 "Netherlands exile government"
+ins.1.t:0 "네덜란드 망명정부"
 ins.1.d:0 "After narrowly escaping capture by Syndicalist militia the royal family, together with many senior leaders, arrived in Java, declaring the creation of the Kingdom of Netherlands in exile which will one day liberate our homeland from Syndicalism!"
-ins.1.a:0 "A new beginning!"
+ins.1.a:0 "새 시작이군!"
 ins.2.t:0 "Netherlands in exile foreign policy"
 ins.2.d:0 "The recent takeover by Syndicalist scum left remnants of the once proud Dutch colonial Empire in precarious positions. In order to liberate our homeland from the Syndicalist usurpers we need to join one of major alliances. Which alliance shall we try to join?"
 ins.2.a:0 "We have special bonds with the Entente"
