@@ -2,12 +2,12 @@ l_english:
 
 ### Events ###
 part.1.t:0 "독일의 운명"
-part.1.d:0 "독일 제국이 패배했니다! 우리 용감한 병사들은 러시아 군대가 독일 제국과 목숨을 건 투쟁을 벌였다는 것을 운터덴린덴에서의 행진으로 확실히 보여주고 있습니다! 이제 우리는 과거 적들의 땅을 어떻게 처리할 것인지 결정해야 합니다."
-part.1.a:0 "라인란트, 북독일, 남독일, 프러시아를 해방한다."
+part.1.d:0 "독일 제국이 패배했습니다! 우리 용감한 병사들은 러시아 군대가 독일 제국과 목숨을 건 투쟁을 벌였다는 것을 운터덴린덴에서의 행진으로 확실히 보여주고 있습니다! 이제 우리는 과거 적들의 땅을 어떻게 처리할 것인지 결정해야 합니다."
+part.1.a:0 "라인란트, 북독일, 남독일, 프로이센을 해방한다."
 part.1.b:0 "프로이센을 점령하고 나머지를 해방한다."
 part.1.c:0 "독일 연방을 새로 만든다!"
 part.1.e:0 "독일 제국을 부활시킨다."
-part.1.f:0 "프러시아를 해방한다."
+part.1.f:0 "프로이센을 해방한다."
 part.1.g:0 "독일 제국이 우리와 함께 한다면, 그들은 땅을 되찾을 것이다!"
 part.1.h:0 "독일인들은 믿을 수 없다. 완전히 점령하는 것이 더 좋다."
 
@@ -28,7 +28,7 @@ part.14.t:0 "베를린의 괴뢰 정부"
 part.14.d:0 "베를린의 새 정부는 우리의 통제 하에 있으며, 독일은 현재 우리 동맹의 일원입니다. 이를 통해 앞으로 양국 간의 분쟁이 방지되기를 바랍니다."
 part.14.a:0 "팍스 유로파!"
 
-part.15.t:0 "The Kaiserliches Heer"
+part.15.t:0 "제국 육군"
 part.15.d:0 "Form up the Active Defence!"
 part.15.a:0 "Form up the Troops!"
 
@@ -43,9 +43,9 @@ part.17.a:0 "빌헬름 5세 만세!"
 
 part.18.t:0 "남독일 연방의 독립"
 part.18.d:0 "...아무도 보지 못할 것입니다..."
-part.18.a:0 "The South German Federation is once again fully independent!"
+part.18.a:0 "남독일 연방은 또다시 독립하였다!"
 
-part.19.t:0 "프러시아의 독립"
+part.19.t:0 "프로이센의 독립"
 part.19.d:0 "...아무도 보지 못할 것입니다..."
 part.19.a:0 "새로운 시작."
 
@@ -67,12 +67,12 @@ part.23.d:0 "러시아 제국이 보리스 대공을 새로운 프로이센 왕�
 part.23.a:0 "빌헬름 5세 만세!"
 
 part.24.t:0 "독일 제국의 가장 어두운 시기"
-part.24.d:0 "According to the second Brest-Litovsk treaty we have signed with Russia we are forced to settle matters in Asia with Japan. From the very start of the negotiations it was clear that the only thing that will fully satisfy the Japanese empire is the transfer of all our remaining territories in Asia to them."
-part.24.a:0 "Capitulate."
+part.24.d:0 "우리가 러시아와 맺은 제2차 브레스트-리토프스크 조약에 따르면 우리는 아시아에서의 문제를 일본과 해결해야 합니다. 협상을 시작하면서, 일본 제국에게 아시아에 남아있는 우리 영토를 모두 넘겨야만 일본 제국이 만족할 것이라는 것이 분명해졌습니다."
+part.24.a:0 "굴복한다."
 
 part.25.t:0 "독일 제국의 가장 어두운 시기"
-part.25.d:0 "According to the second Brest-Litovsk treaty we have signed with Russia we are forced to settle matters with the Commune of France. From the very start of the negotiations it was clear that the only thing that will fully satisfy the Commune of France is the immediate return of the occupied French territory to them."
-part.25.a:0 "Capitulate."
+part.25.d:0 "우리가 러시아와 맺은 제2차 브레스트-리토프스크 조약에 따르면 우리는 문제를 프랑스 코뮌과 해결해야 합니다. 협상을 시작하면서, 프랑스 코뮌에게 우리가 점령한 프랑스 영토를 모두 넘겨야만 프랑스 코뮌이 만족할 것이라는 것이 분명해졌습니다."
+part.25.a:0 "굴복한다."
 
 part.26.t:0 "제네바의 운명"
 part.26.d:0 "프랑스 코뮌을 이긴 후 우리는 제네바를 장악했습니다. 우리는 제네바의 정당한 소유국인 스위스 연방에 제네바를 반환해야 할까요?"
@@ -84,7 +84,7 @@ part.27.d:0 "The Germans control Eupen-Malmedy, a group of cantons on our easter
 part.27.a:0 "오이펜-말메디 주를 요구한다!"
 part.27.b:0 "Our resources are overstretched as they are."
 
-part.28.t:0 "Belgium claims the Eupen-Malmedy cantons"
+part.28.t:0 "벨기에가 오이펜-말메디를 요구하다."
 part.28.d:0 "The puppet government of Belgium has claimed the cantons of Eupen and Malmedy which are controlled by Germany."
 part.28.a:0 "독일이 오이펜-말메디를 벨기에에게 넘기도록 강압한다."
 part.28.b:0 "Who is drawing the map here!?"
@@ -96,12 +96,12 @@ part.29.a:0 "We'll cede the territory, but only because we have no choice."
 
 part.30.t:0 "오이펜-말메디에서의 국민 투표"
 part.30.d:0 "The Russian state, acting as mediator in the territorial dispute between Belgium and the German empire, has decided that a plebiscite must be held in Eupen-Malmedy."
-part.30.a:0 "We shall await the results."
+part.30.a:0 "결과를 기다리자."
 
 part.30.t:0 "오이펜-말메디에서의 국민 투표"
-part.31.d:0 "The people flocked to the polling stations and have made their decision."
-part.31.a:0 "Eupen-Malmedy is German!"
-part.31.b:0 "Eupen-Malmedy is Belgian!"
+part.31.d:0 "사람들이 투표소로 몰려가 결정을 내렸습니다."
+part.31.a:0 "오이펜-말메디는 독일의 것이다!"
+part.31.b:0 "오이펜-말메디는 벨기에의 것이다!"
 
 part.32.t:0 "알자스-로렌"
 part.32.d:0 "현재 독일은 역사적으로 항상 프랑스에 속해 왔던 알자스-로렌을 통치하고 있습니다. 만약 알자스-로렌의 통치권을 주장하고 싶다면 러시아에 도움을 청해야 다."
@@ -117,10 +117,10 @@ part.33.e:0 "Let the people decide."
 
 part.34.t:0 "엘자스-로트링겐에서의 국민 투표"
 part.34.d:0 "The Russian state, acting as mediator in the territorial dispute between France and the German empire, has decided that a plebiscite must be held in Elsass-Lothringen."
-part.34.a:0 "We shall await the results."
+part.34.a:0 "결과를 기다리자."
 
 part.35.t:0 "엘자스-로트링겐에서의 국민 투표"
-part.35.d:0 "The people flocked to the polling stations and have made their decision."
+part.35.d:0 "사람들이 투표소로 몰려가 결정을 내렸습니다."
 part.35.a:0 "엘자스-로트링겐은 독일의 것이다!"
 part.35.b:0 "알자스-로렌은 프랑스의 것이다!"
 
@@ -154,10 +154,10 @@ part.41.a:0 "Huzzah!"
 
 part.42.t:0 "룩셈부르크에서의 국민 투표"
 part.42.d:0 "The Russian state is trying to weaken us! They even forced us to organise a plebiscite concerning the future of the Grand Duchy of Luxembourg."
-part.42.a:0 "We shall await the results."
+part.42.a:0 "결과를 기다리자."
 
 part.43.t:0 "룩셈부르크에서의 국민 투표"
-part.43.d:0 "The people flocked to the polling stations and have made their decision."
+part.43.d:0 "사람들이 투표소로 몰려가 결정을 내렸습니다."
 part.43.a:0 "룩셈부르크는 독일의 것이다!"
 part.43.b:0 "룩셈부르크는 독립국이다!"
 
@@ -178,14 +178,14 @@ part.46.a:0 "We'll cede the territory, but only because we have no choice."
 
 part.47.t:0 "북부 슐레스비히에서의 국민 투표"
 part.47.d:0 "The Russian state, acting as mediator in the territorial dispute between Denmark and the German empire, has decided that a plebiscite must be held in Northern Schleswig."
-part.47.a:0 "We shall await the results."
+part.47.a:0 "결과를 기다리자."
 
 part.48.t:0 "북부 슐레스비히에서의 국민 투표"
-part.48.d:0 "The people flocked to the polling stations and have made their decision."
+part.48.d:0 "사람들이 투표소로 몰려가 결정을 내렸습니다."
 part.48.a:0 "북부 슐레스비히는 독일의 것이다!"
 part.48.b:0 "북부 슐레스비히는 덴마크의 것이다!"
 
-part.2.d:0 "The German Empire is defeated! Our brave soldiers proudly march through Unter den Linden, displaying without doubt, that Soviet armed forces prevailed in mortal struggle against the German Empire! We now have to decide what to do with the lands of our enemies."
+part.2.d:0 "독일 제국이 패배했습니다! 우리 용감한 병사들은 소련 군대가 독일 제국과 목숨을 건 투쟁을 벌였다는 것을 운터덴린덴에서의 행진으로 확실히 보여주고 있습니다! 이제 우리는 과거 적들의 땅을 어떻게 처리할 것인지 결정해야 합니다."
 
 part.49.t:0 "The Red Army Rises!"
 part.49.d:0 "Rise Kameraden!"
@@ -195,7 +195,7 @@ part.50.t:0 "남독일 코뮌"
 part.50.d:0 "...아무도 보지 못할 것이다..."
 part.50.a:0 "The South German monarchies are abolished, its time for the Trade Unions to rule!"
 
-part.51.t:0 "프러시아 코뮌"
+part.51.t:0 "프로이센 코뮌"
 part.51.d:0 "...아무도 보지 못할 것이다..."
 part.51.a:0 "Prussia will regain its virtues under the Red Flag!"
 
@@ -205,7 +205,7 @@ part.52.a:0 "Of course we're happy to be taking orders from abroad!"
 
 part.53.t:0 "북독일 코뮌"
 part.53.d:0 "...아무도 보지 못할 것이다..."
-part.53.a:0 "Norddeutschland is Independent at Last!"
+part.53.a:0 "마침내 노르드도이칠란드가 독립했다!"
 
 part.3.t:0 "독일 분할"
 part.3.d:0 "Our armies have defeated Germany, we now have to decide what to do with the lands of our former enemies!"
@@ -216,19 +216,19 @@ part.3.e:0 "Create a new German Union, but split off the Rhineland."
 part.3.f:0 "Move the border to the Rhine, create the German Union."
 part.3.g:0 "We can't trust the Germans, total occupation is preferable."
 
-part.54.t:0 "뮌헨의 충성스러운 정부"
+part.54.t:0 "뮌헨의 괴뢰 정부"
 part.54.d:0 "뮌헨의 새 정부는 우리 통제 하에 있으며, 남독일은 현재 인터네셔널의 일원입니다. 프랑스인들과 바이에른인들이 피를 더 이상 흘리지 않기를 바랍니다."
 part.54.a:0 "인터네셔널 만세! 자유 만세!"
 
-part.55.t:0 "A loyal puppet in Prussia"
+part.55.t:0 "프로이센의 괴뢰 정부"
 part.55.d:0 "The new government in Berlin is firmly under our control and northeast Germany is now a loyal member of the Internationale. Many Junker have found their just punishment in the people's court. May their bodies, now hanging from the trees and telegraph poles, be a warning to all reactionaries!"
 part.55.a:0 "Prussia shall threaten France no more!"
 
-part.56.t:0 "라인란트의 충성스러운 정부"
+part.56.t:0 "라인란트의 괴뢰 정부"
 part.56.d:0 "에센의 새 정부는 우리 통제 하에 있으며, 서독은 현재 인터네셔널의 충실한 회원국입니다. 마침내 루르의 일꾼들은 그들 자신의 운명을 통제할 수 있고 노동의 열매를 즐길 수 있습니다!"
 part.56.a:0 "생디칼리즘의 새로운 근거지다! 인터네셔널 만세!"
 
-part.57.t:0 "북독일의 충성스러운 정부"
+part.57.t:0 "북독일의 괴뢰 정부"
 part.57.d:0 "함부르크의 새 정부는 우리 통제 하에 있으며, 서독은 현재 인터네셔널의 충실한 회원국입니다. 선원, 농부, 어부, 조선소 노동자들이 부르주아의 억압으로부터 자유로워졌습니다!"
 part.57.a:0 "생디칼리즘의 새로운 근거지다! 인터네셔널 만세!"
 
@@ -250,8 +250,8 @@ part.4.t:0 "브리튼 분할"
 part.4.d:0 "After defeating the Union of Britain we now control Great Britain. We can partition these lands and create new countries with loyal governments."
 part.4.a:0 "섬을 잉글랜드, 스코틀랜드, 웨일스로 나눈다."
 part.4.b:0 "Create a loyal Britain."
-part.4.c:0 "Only the Scots are deserving of independence!"
-part.4.e:0 "스코틀랜드와 웨일스 만을 해방한다."
+part.4.c:0 "스코틀랜드만이 독립을 누릴 만하다!"
+part.4.e:0 "스코틀랜드와 웨일스를 해방한다."
 part.4.f:0 "완전히 점령한다!"
 
 part.61.t:0 "런던의 괴뢰 정부"
@@ -268,7 +268,7 @@ part.63.d:0 "We will become a monarchy again."
 part.63.a:0 "Long live Charles III!"
 
 part.64.t:0 "Germany let us choose our new President"
-part.64.d:0 "We are a Republic once again."
+part.64.d:0 "우린 다시 공화국이 되었다."
 part.64.a:0 "All hail our new president!"
 
 part.65.t:0 "스코틀랜드"
@@ -310,7 +310,7 @@ part.6.f:0 "완전히 정복하는 것이 더욱 좋다."
 
 part.8.t:0 "약속을 지키다"
 part.8.d:0 "In accordance with our agreement, we are now giving the French provinces we conquered back to the French government."
-part.8.a:0 "We have to obey."
+part.8.a:0 "우린 따라야 한다."
 
 part.71.t:0 "파리의 괴뢰 정부"
 part.71.d:0 "프랑스의 새 정부는 우리의 통제 하에 있으며, 프랑스는 이제 중부 유럽의 일원입니다. 이로써 유럽에서의 유혈 사태를 완전히 종식되기를 바랍니다."
@@ -340,19 +340,19 @@ part.76.a:0 "팍스 유로파!"
 
 part.77.t:0 "France renounces her claims"
 part.77.d:0 "We will renounce our claims on the lands rightfully owned by Germany and Flanders-Wallonien."
-part.77.a:0 "We have to obey."
+part.77.a:0 "우린 따라야 한다."
 
 part.78.t:0 "France renounces her claims"
 part.78.d:0 "We will renounce our claims on the lands rightfully owned by Germany and Brittany"
-part.78.a:0 "We have to obey."
+part.78.a:0 "우린 따라야 한다."
 
-part.79.t:0 "Forces armées françaises"
+part.79.t:0 "프랑스군"
 part.79.d:0 "Form up the Active Defence!"
 part.79.a:0 "Form Up the Troops!"
 
 part.80.t:0 "France renounces her claims"
 part.80.d:0 "We will renounce our claims on the lands rightfully owned by Germany, Brittany, Normandy and Occitania."
-part.80.a:0 "We have to obey."
+part.80.a:0 "우린 따라야 한다."
 
 part.81.t:0 "An alliance with Germany in exchange for our land"
 part.81.d:0"프랑스는 독일에게 패배했습니다. 독일은 우리가 알자스-로렌에 대한 주장을 포기하고 중부 유럽에 가입한다면 우리 지역을 되돌려 주겠다고 말했습니다."
@@ -386,15 +386,15 @@ part.87.d:0 "Germany decided to let us choose our new President. The only one wh
 part.87.a:0 "Albert Lebrun will guide our nation!"
 
 part.88.t:0 "새로운 정부"
-part.88.d:0 "We have a new government thanks to our German friends!"
+part.88.d:0 "독일 덕분에 새로운 정부가 생겼습니다!"
 part.88.a:0 "새로운 시작."
 
 part.89.t:0 "새로운 정부"
-part.89.d:0 "We have a new government thanks to our German friends!"
+part.89.d:0 "독일 덕분에 새로운 정부가 생겼습니다!"
 part.89.a:0 "새로운 시작."
 
 part.90.t:0 "새로운 정부"
-part.90.d:0 "We have a new government thanks to our German friends!"
+part.90.d:0 "독일 덕분에 새로운 정부가 생겼습니다!"
 part.90.a:0 "새로운 시작."
 
 part.91.t:0 "제네바의 운명"
@@ -424,12 +424,12 @@ part.95.a:0 "완벽하군!"
 
 part.96.t:0 "서부 플랑드르-왈로니아에서의 국민 투표"
 part.96.d:0 "The German Empire, acting as mediator in the territorial dispute regarding western Flanders-Wallonia, has decided that a plebiscite must be held in western Flanders-Wallonia to determine its future..."
-part.96.a:0 "We shall await the results."
+part.96.a:0 "결과를 기다리자."
 
 part.97.t:0 "서부 플랑드르-왈로니아에서의 국민 투표"
-part.97.d:0 "The people flocked to the polling stations and have made their decision...."
-part.97.a:0 "Western Flanders-Wallonia belongs to us!"
-part.97.b:0 "Western Flanders-Wallonia belongs to Flanders-Wallonia!"
+part.97.d:0 "사람들이 투표소로 몰려가 결정을 내렸습니다."
+part.97.a:0 "서부 플랑드르-왈로니아는 우리 것이다!"
+part.97.b:0 "서부 플랑드르-왈로니아는 플랑드르-왈로니아의 것이다!"
 
 part.98.t:0 "파리의 괴뢰 정부"
 part.98.d:0 "The new government of France is firmly under our control and continental France is now a loyal member of our alliance. Hopefully this will end the bloodshed in Europe once and for all."
@@ -444,7 +444,7 @@ part.100.t:0 "새로운 왕"
 part.100.d:0 "Russian Empire has imposed Prince Ioann Konstantinovich as the new French King. There's nothing we can do, we have to fold and become kingdom again."
 part.100.a:0 "Long live Charles XI!"
 
-part.101.t:0 "Forces armées françaises"
+part.101.t:0 "프랑스군"
 part.101.d:0 "Form up the Active Defence!"
 part.101.a:0 "Form Up the Troops!"
 
@@ -460,7 +460,7 @@ part.103.c:0 "Total conquest is preferable."
 
 part.104.t:0 "France renounces her claims"
 part.104.d:0 "We will renounce our claims on the lands rightfully owned by Brittany, Normandy and Occitania."
-part.104.a:0 "We have to obey."
+part.104.a:0 "우린 따라야 한다."
 
 part.105.t:0 "Choosing the new Head of State of Bretagne"
 part.105.d:0 "We have the opportunity to install a member of the house of Romanov as the new Grand Duke of Bretagne. It may be wise, however, to let the Bretons choose their own government."
@@ -499,7 +499,7 @@ part.112.a:0 "팍스 유로파!"
 
 part.113.t:0 "France renounces her claims"
 part.113.d:0 "We will renounce our claims on the lands rightfully owned by Brittany."
-part.113.a:0 "We have to obey."
+part.113.a:0 "우린 따라야 한다."
 
 part.114.t:0 "An alliance with Russia in exchange for our lands"
 part.114.d:0 "Russia defeated the Commune of France and they said they will give us back our provinces if we join their alliance."
@@ -508,7 +508,7 @@ part.114.b:0 "We will never accept your proposal!"
 
 part.115.t:0 "약속을 지키다"
 part.115.d:0 "In accordance with our agreement we are now giving the French provinces we conquered back to the French government."
-part.115.a:0 "We have to obey."
+part.115.a:0 "우린 따라야 한다."
 
 part.116.t:0 "약속을 지키다"
 part.116.d:0 "We will now honour the deal and enter an alliance with Germany."
@@ -519,7 +519,7 @@ part.10.d:0 "After defeating the Union of Britain, we now control Great Britain.
 part.10.c:0 "Let us consider a partition."
 part.10.a:0 "Create a loyal Britain."
 part.10.b:0 "Our loyal allies from Canada will return to Britain!"
-part.10.e:0 "Total occupation of Great Britain!"
+part.10.e:0 "브리튼 섬을 완전히 점령한다!"
 
 part.117.t:0 "런던의 괴뢰 정부"
 part.117.d:0 "런던의 새 정부는 우리 통제 하에 있다."
@@ -535,7 +535,7 @@ part.119.d:0 "We will become a monarchy again."
 part.119.a:0 "빌헬름 5세 만세!"
 
 part.120.t:0 "Russia let us choose our new President"
-part.120.d:0 "We are a Republic once again."
+part.120.d:0 "우린 다시 공화국이 되었다."
 part.120.a:0 "All hail our new president!"
 
 part.121.t:0 "잉글랜드"
@@ -560,13 +560,13 @@ part.125.d.england:0 "The Welsh people have been under direct English rule for s
 part.125.d.no_england:0 "The Welsh people have been under direct English rule for several centuries but because of its extensive coal deposits we have kept it detached from England and several magnates wish to keep it this way. Since we're now occupying the English lands it would make sense to continue occupying the coal deposits of Wales too but we could also thank them for their loyalty by installing a local puppet government there. What should we do?"
 part.125.a:0 "Freedom for the Welsh!"
 part.125.b:0 "잉글랜드에게 반환한다."
-part.125.c:0 "Total occupation of Wales!"
+part.125.c:0 "웨일즈를 완전히 점령한다!"
 
 part.126.t:0 "자유다!"
 part.126.d:0 "Wales is finally free from English tyranny !"
 part.126.a:0 "And it's all thanks to the Russians!"
 
-part.127.t:0 "A loyal puppet in Cardiff"
+part.127.t:0 "카디프의 괴뢰 정부"
 part.127.d:0 "The new government of Wales is under our control! Wales is finally free after centuries of English oppression and is now under the protection of the Russian state!"
 part.127.a:0 "팍스 유로파!"
 
@@ -577,7 +577,7 @@ part.128.a:0 "Welcome back!"
 part.129.t:0 "스코틀랜드"
 part.129.d:0 "Scotland is the remaining area of Great Britain that we have to decide what to do with. Economically it is much weaker than England and the population is more rural. Some regional separatists wish independence under our protection. An occupation is being called upon by hardliners but there seems to be little to gain in doing so. What should we do?"
 part.129.a:0 "Establish a friendly Scotland."
-part.129.b:0 "Total occupation of Scotland!"
+part.129.b:0 "스코틀랜드를 완전히 점령한다!"
 
 part.130.t:0 "자유다!"
 part.130.d:0 "Thanks to Russian liberators we are once again free!"
