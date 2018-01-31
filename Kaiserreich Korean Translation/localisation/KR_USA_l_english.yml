@@ -497,7 +497,7 @@ civil_war_avoided:0 "찰스 커티스가 내전 발발을 막아내다."
 ### Leader descriptions ###
 POLITICS_JACK_REED_DESC:0 "A writer, a trade union leader, a Senator, a journalist and a Syndicalist - John 'Jack' Reed is many things. After the death of his predecessor, Alexander Berkman, this fiery radical socialist took the reins of the American syndicalist movement, and he has led this organisation to great success. While this long path from journalist to President has brought him many enemies, it also brought him many allies. He is determined to become the American version of Sebastian Faure, the founder of the Commune of France - a charismatic, unifying Syndicalist demagogue who shall turn his country into what he perceives to be a perfect society."
 POLITICS_JOHN_NANCE_GARNER_DESC:0 "John Nance Garner IV, known by his peers as 'Cactus Jack', is a lawyer and long-serving Representative from Texas and the new President of the United States. He is a man of the Democratic establishment, a mildly conservative politician, and, most importantly, a fervent supporter of democracy. This Texan judge sees no reason in compromise with either the left or the right."
-POLITICS_HERBERT_HOOVER_DESC:0 "전 미국 상무부 장관이자 현재 미국의 대통령인 하버트 후버는 미국 역사상 가장 미움받는 사람 중 한 사람으로서 그 자리를 굳혔습니다. 첫 임기 동안 대공황을 더 심각하게 만들기만 했던 것에도 불구하고, 1932년 하원을 통해 재선된 것은 광범위한 분노를 불러일으켰습니다. 대통령에게 있어서 슬픈 현실입니다. - 경제를 회복시키려는 그의 모든 시도는 실패했고, 상황을 진정시키려는 노력은 상황을 더 악화시킬 뿐이며, 그의 당마저 그를 외면하고 있습니다."
+POLITICS_HERBERT_HOOVER_DESC:0 "전 미국 상무부 장관이자 현재 미국의 대통령인 허버트 후버는 미국 역사상 가장 미움받는 사람 중 한 사람으로서 그 자리를 굳혔습니다. 첫 임기 동안 대공황을 더 심각하게 만들기만 했던 것에도 불구하고, 1932년 하원을 통해 재선된 것은 광범위한 분노를 불러일으켰습니다. 대통령에게 있어서 슬픈 현실입니다. - 경제를 회복시키려는 그의 모든 시도는 실패했고, 상황을 진정시키려는 노력은 상황을 더 악화시킬 뿐이며, 그의 당마저 그를 외면하고 있습니다."
 POLITICS_DOUGLAS_MACARTHUR_DESC:0 "외국 정부들과 자신의 국민들에게 미움받는, 미합중국의 첫번째 독재자인 총사령관 맥아더는 약하지 않습니다. 급진주의 국가들을 제거하기 위해 미국 지배층의 부름을 받아서 온 이 장군은 국가를 자신의 연대를 지휘하듯이 다스립니다 - 질서와 엄격한 규율 그리고 그에게 반대하는 모두에 대한 강력한 처벌을 통해서 말입니다. 그는 자신이 진정으로 미합중국을 구하기 위해 이곳에 왔다고 믿고 있지만, 건국의 아버지들은 그의 행동을 지지할까요?"
 POLITICS_HUEY_LONG_DESC:0 "It's hard to say what the Governor of Louisiana, Huey Long exactly stands for. Some would say that his 'Share Our Wealth' program is clearly just Syndicalism in new clothing, while others would point at his undemocratic, nepotist style of rule, topped by the usage of the 'Minutemen' paramilitary to harass rivals, as a sign of his National Populist stance. Whatever may be the case, President Long is liked by the common classes, his charisma is exceptional, even if he can get arrogant at times, and his foothold over the south is not to be underestimated."
 
@@ -1630,18 +1630,18 @@ ustates.401.b:0 "Sacco and Vanzetti are guilty"
 
 ### Foreign Policy ###
 usforeign.1.t:0 "먼로 독트린"
-usforeign.1.d:0 "America has now been thrown into civil war, brother fighting brother, and it doesn't look good for the United States. Perhaps it is time to revoke the Monroe Doctrine as we cannot afford war with another until we solve our own problems and end this civil war."
+usforeign.1.d:0 "미국은 이제 동족상잔의 내전에 돌입했고, 미합중국에게 이 상황은 좋아 보이지 않습니다. 우리의 문제들을 해결하고 내전을 종식시킬 때까지 외국과 전쟁을 할 여유가 없기 때문에, 아마도 먼로 독트린을 철회해야할 때인것 같습니다."
 usforeign.1.a:0 "우리는 더 이상 남아메리카를 보호할 수 없다"
 usforeign.1.b:0 "독트린을 철회하는 것은 선택지가 아니다"
 usforeign.2.t:0 "먼로 독트린의 부활"
-usforeign.2.d:0 "We should rethink Latin American policy as the most horrible conflict in North American history has just ended. Other powers installed Syndicalist and German friendly governments while we were fighting ourselves. Now it's time to go and make South America our playground again."
+usforeign.2.d:0 "북아메리카 역사상 가장 끔찍한 충돌이 이제 끝났기 때문에 우리는 라틴 아메리카 정책을 재고해봐야 합니다. 우리가 내부에서 싸우는 동안 다른 세력들이 생디칼리스트와 독일 우호 정권들을 수립했습니다. 이제 남아메리카를 다시 우리의 활동 영역으로 만들 시간입니다."
 usforeign.2.a:0 "엉클 샘이 되살아났다!"
 usforeign.2.b:0 "여전히 선택지가 아니다"
 
 ### Getting Our Stuff Back ###
 usforeign.3.t:0 "캐나다가 알래스카를 점령하다"
 usforeign.3.d:0 "The Canadians had seized Alaska during the American Civil War and were still in control of it. MacArthur had no interest in reclaiming Alaska by force but hoped that Canada would be willing to hand Alaska back."
-usforeign.3.a:0 "알래스카 반환을 요청하다"
+usforeign.3.a:0 "알래스카 반환을 요청다"
 usforeign.3.b:0 "Canada's friendship is more important than Alaska"
 usforeign.4.t:0 "맥아더가 알래스카의 반환을 요청하다"
 usforeign.4.d:0 "MacArthur requested the return of Alaska and the Canadian government was disposed to this. The Prime Minister would like to keep MacArthur as happy as possible."
