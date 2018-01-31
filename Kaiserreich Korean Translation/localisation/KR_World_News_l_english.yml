@@ -522,9 +522,10 @@ worldnews.120.e:0 "The people of Africa long for freedom from Imperialism!"
 worldnews.250.t:0 "-"
 
 worldnews.251.t:0 "런던 함락"
-worldnews.251.d:0 "런던에서의 보고서에 따르면 템즈 강을 가로 지르는 기나긴 전투 이후 독일 군대의 진격에 영국의 수도가 점령되었습니다. 연합군은 가능한 한 오랫동안 독일 군대를 지연시키려고 노력했고 거센 저항을 했지만 결국 패배했습니다. \n\n정복자 윌리엄 이후 처음으로 런던은 외국의 침략자의 손에 떨어졌습니다. 런던의 분위기는 무겁고, 연합군이 떠난 가운데 홀로 남은 저항군과 독일군 경찰이 거리에서 싸우면서 여전히 거리에는 총소리가 들리고 있습니다."worldnews.251.a:0 "This is only a temporary setback!"
+worldnews.251.d:0 "런던에서의 보고서에 따르면 템즈 강을 가로 지르는 기나긴 전투 이후 독일 군대의 진격에 영국의 수도가 점령되었습니다. 연합군은 가능한 한 오랫동안 독일 군대를 지연시키려고 노력했고 거센 저항을 했지만 결국 패배했습니다. \n\n정복자 윌리엄 이후 처음으로 런던은 외국의 침략자의 손에 떨어졌습니다. 런던의 분위기는 무겁고, 연합군이 떠난 가운데 홀로 남은 저항군과 독일군 경찰이 거리에서 싸우면서 여전히 거리에는 총소리가 들리고 있습니다."
+worldnews.251.a:0 "이건 일시적인 후퇴일 뿐이다!"
 worldnews.251.b:0 "이것은 종말의 시작이다."
-worldnews.251.c:0 "런던이 [new_controller.GetAdjective] 수중에 있다면, [old_controller.GetAdjective] 의 패배는 불가피하겠군"
+worldnews.251.c:0 "런던이 [new_controller.GetAdjective] 수중에 있다면, [old_controller.GetAdjective]의 패배는 불가피하겠군"
 
 worldnews.252.t:0 "The Fall of Paris"
 worldnews.252.d.germany:0 "Reports from Paris confirm that the [old_controller.GetAdjective] capital has been captured by advancing German troops after furious fighting across its large avenues and the Seine. [old_controller.GetAdjective] forces put up stiff resistance, hoping to delay the German forces for as long as possible, but were eventually beaten back.\n\nAs shocked Parisians looked on, the German army once more paraded through the same path they had during the Weltkrieg, down the Champs-Elysées and towards the Eiffel Tower. This festive atmosphere finally descended into vicious urban combat with [old_controller.GetAdjective] resistance in the dead of the night, as [GER.GetAdjective] tanks easily ploughed through inefficient barricades in the large Parisian avenues."
