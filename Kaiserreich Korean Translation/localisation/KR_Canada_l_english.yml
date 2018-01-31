@@ -478,9 +478,9 @@ CAN_iceland_demands_desc:0 "덴마크 사람들은 이제 아무런 위협이 �
 CAN_german_treaty:0 "독일과의 조약"
 CAN_german_treaty_desc:0 "우리가 독일 제국과 다른 점이 있기는 하지만, 지금 당장은 오래된 상처에 대해서는 걱정할 수 없습니다. 중요한 것은 영국을 되찾는 것입니다. 따라서 우리의 정치 지도자들은 적어도 당분간은 독일과의 불가침 조약을 제안했습니다."
 CAN_portugal_treaty:0 "포르투갈과의 조약"
-CAN_portugal_treaty_desc:0 "앵글로-포르투갈 동맹은 깊고 낡아서, 우리가 포르투갈과의 관계를 개선함으로써 그것을 복원하는 과정을 시작해야 한다고 주장되어 왔습니다."
+CAN_portugal_treaty_desc:0 "영국-포르투갈 동맹은 깊고 낡아서, 우리가 포르투갈과의 관계를 개선함으로써 그것을 복원하는 과정을 시작해야 한다고 주장되어 왔습니다."
 CAN_portugal_ally:0 "포르투갈과 동맹"
-CAN_portugal_ally_desc:0 "이제는 앵글로-포르투갈 동맹을 완전히 재개할 때입니다. 우리는 그들에게 협상국에 참여하라는 제의를 할 것입니다. 포르투갈인들이 우리 편에 선다면, 국제 사회는 떨 것입니다."
+CAN_portugal_ally_desc:0 "이제는 영국-포르투갈 동맹을 완전히 재개할 때입니다. 우리는 그들에게 협상국에 참여하라는 제의를 할 것입니다. 포르투갈인들이 우리 편에 선다면, 국제 사회는 떨 것입니다."
 CAN_attack_uob:0 "브리튼 연방 공격"
 CAN_attack_uob_desc:0 브리튼 연방은 또 다른 세계대전에 휩쓸려 들고 있으며, 그들의 관심과 자원을 유용하게 쓰고 있어, 우리는 결코 성공적인 침략을 위한 좋은 기회를 얻지 못할 것입니다. 전쟁을 할 때가 왔습니다! 영국 제도가 우릴 기다리고 있어요, 여러분!"
 CAN_united_kingdom:0 "왕의 귀환"
@@ -492,7 +492,7 @@ CAN_governor_general_desc:0 "이제 영국의 해방이 끝나고 왕이 런던�
 CAN_british_loyality:0 "영국에 충성"
 CAN_british_loyality_desc:0 "대영 제국의 재건이 한창 진행 중입니다. 우리는 영국에 대한 우리의 충성심을 보여 주고, 생디칼리즘 재해로부터 대영 제국을 재건하는 데 도움을 주어야 합니다."
 CAN_british_investments:0 "영국 투자회사"
-CAN_british_investments_desc:0 "대영 제국 재건을 돕기 위해 캐나다가 나라를 세우는 것을 돕는데 고국의 섬에 캐나다 투자회사를 제공하는 것에 대해 알아야 합니다. 물론 우리는 모국에 얼마나 큰 투자를 할 것인지를 결정할 필요가 있을 것입니다. 그러나 캐나다는 재건을 지원할 것입니다."
+CAN_british_investments_desc:0 "대영 제국 재건을 돕기 위해 캐나다가 고국의 섬에 캐나다 투자회사를 제공하는 것에 대해 알아야 합니다. 물론 우리는 모국에 얼마나 큰 투자를 할 것인지를 결정할 필요가 있을 것입니다. 그러나 캐나다는 재건을 지원할 것입니다."
 CAN_imperial_breadbasket:0 "제국 곡창 지대"
 CAN_imperial_breadbasket_desc:0 "캐나다 서부의 대초원은 대영 제국에게 농작물을 재배하기에 좋은 곳입니다. 캐나다의 식량은 본토에 공급하는 데 도움이 될 것이며, 해방으로 인해 전출된 모든 사람들로 인해 고국 섬에서 인도주의적 위기가 발생하는 것을 예방합니다."
 CAN_improve_social_credit:0 "사회 복지"
@@ -510,7 +510,7 @@ CAN_canadian_nobility_desc:0 "영국 왕실이 총파업 기간 동안에 영국
 CAN_canadian_day:0 "캐나다의 날"
 CAN_canadian_day_desc:0 "영국이 자유의 날을 기념하는 동안, 우리는 캐나다와 대영 제국을 위해 죽은 사람들을 기리기 위한 캐나다의 날을 기념해야 합니다. 오늘을 캐나다를 기념하는 날로 해 보죠!"
 CAN_god_save_canada:0 "신이시여 캐나다를 구하소서(God Save Canada)"
-CAN_god_save_canada_desc:0 "오 캐나다!(O Canada!) / 우리의 집과 조국!(Our home and native land!)/ 그대의 모든 아들들의 사령부 안의 진정한 애국심.(True patriot love in all thy sons command.)/ 타오르는 가슴으로 조국의 비상을 바라보리,(With glowing hearts we see thee rise,)/ 진정한 북쪽의 강력함과 자유로움이여!(The True North strong and free!)/ 저 광활하고 넓은,(From far and wide,) / 오 캐나다, 우리는 그대를 수호하러 일어서리라.(O Canada, we stand on guard for thee.) / 하나님이 우리 땅을 영광스롭고 자유롭게 하시리!(God keep our land glorious and free!) / 오 캐나다, 우리는 그대를 수호하러 일어서리라.(O Canada, we stand on guard for thee.) / 오 캐나다, 우리는 그대를 수호하러 일어서리라.(O Canada, we stand on guard for thee.)"
+CAN_god_save_canada_desc:0 "오 캐나다! / 우리의 집과 조국!/ 그대의 모든 아들들의 사령부 안의 진정한 애국심./ 타오르는 가슴으로 조국의 비상을 바라보리,/ 진정한 북쪽의 강력함과 자유로움이여!/ 저 광활하고 넓은,/ 오 캐나다, 우리는 그대를 수호하러 일어서리라. / 하나님이 우리 땅을 영광스롭고 자유롭게 하시리! / 오 캐나다, 우리는 그대를 수호하러 일어서리라. / 오 캐나다, 우리는 그대를 수호하러 일어서리라."
 
 ### Events ###
 
