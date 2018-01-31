@@ -63,7 +63,7 @@ worldnews.15.t:0 "케렌스키 대통령 암살"
 worldnews.15.d:0 "케렌스키는 상원에가는 길에 총에 맞아 죽었습니다! 가해자는 경찰에 의해 체포됬지만 공격자의 목표와 의도는 알 수 없습니다. 케렌스키가 어설픈 토지 개혁과 비효율적인 통치로 인해 러시아 국민들에게 인기를 얻지 못했음에도 불구하고 수년간 이 나라를 하나로 이끌었으며, 그의 죽음은 러시아를 혼란에 빠뜨렸습니다. 상원 의원은 케린스키의 대체자에 대해 이미 논의하고 있으며, 좌파와 우파 양측 모두 새로운 연합이 형성되고있는 반면, Denikin, Wrangel, Kornilov 같은 군인들은 민주주의를 해산하고 'Mother Russia'를 지키기위해 위해 개입을 준비하고 있습니다..."
 worldnews.15.a:0 "야만적이군!"
 
-worldnews.16.t:0 "Platinean 전쟁"
+worldnews.16.t:0 "플라타 전쟁"
 worldnews.16.d:0 "1930년대의 대 남미 전쟁이 끝나고 남아메리카에는 브라질과 아르헨티나라는 두 지역 강대국이 생겨났고, 후자는 라 플라 타 연맹으로 진화했습니다. 이 두 거인들과, 이제 남미 지배를 위한 경쟁자로 바뀐 이전 전쟁의 적들과 긴장감은 지난 수년동안 상승해왔고, 파라과이와 볼리비아에 대한 라 플라타의 승리는 긴장을 완화시키는데 별로 도움이 되지 못했습니다. \n\n남아메리카의 불안한 평화는 약화된 미국이 멈추지 못하는, 양국간의 명백한 전쟁의 시작으로 마침내 무너졌습니다. 라 플라타는 두 번째 승리에 자신감을 가지고 있지만, 브라질은 지난번의 패배를 복수 할 준비가 되어 있습니다 ..."
 worldnews.16.a:0 "골치 아픈 사건이 터졌군.."
 
@@ -522,9 +522,10 @@ worldnews.120.e:0 "The people of Africa long for freedom from Imperialism!"
 worldnews.250.t:0 "-"
 
 worldnews.251.t:0 "런던 함락"
-worldnews.251.d:0 "런던에서의 보고서에 따르면 템즈 강을 가로 지르는 기나긴 전투 이후 독일 군대의 진격에 영국의 수도가 점령되었습니다. 연합군은 가능한 한 오랫동안 독일 군대를 지연시키려고 노력했고 거센 저항을 했지만 결국 패배했습니다. \n\n정복자 윌리엄 이후 처음으로 런던은 외국의 침략자의 손에 떨어졌습니다. 런던의 분위기는 무겁고, 연합군이 떠난 가운데 홀로 남은 저항군과 독일군 경찰이 거리에서 싸우면서 여전히 거리에는 총소리가 들리고 있습니다."worldnews.251.a:0 "This is only a temporary setback!"
+worldnews.251.d:0 "런던에서의 보고서에 따르면 템즈 강을 가로 지르는 기나긴 전투 이후 독일 군대의 진격에 영국의 수도가 점령되었습니다. 연합군은 가능한 한 오랫동안 독일 군대를 지연시키려고 노력했고 거센 저항을 했지만 결국 패배했습니다. \n\n정복자 윌리엄 이후 처음으로 런던은 외국의 침략자의 손에 떨어졌습니다. 런던의 분위기는 무겁고, 연합군이 떠난 가운데 홀로 남은 저항군과 독일군 경찰이 거리에서 싸우면서 여전히 거리에는 총소리가 들리고 있습니다."
+worldnews.251.a:0 "이건 일시적인 후퇴일 뿐이다!"
 worldnews.251.b:0 "이것은 종말의 시작이다."
-worldnews.251.c:0 "런던이 [new_controller.GetAdjective] 수중에 있다면, [old_controller.GetAdjective] 의 패배는 불가피하겠군"
+worldnews.251.c:0 "런던이 [new_controller.GetAdjective] 수중에 있다면, [old_controller.GetAdjective]의 패배는 불가피하겠군"
 
 worldnews.252.t:0 "The Fall of Paris"
 worldnews.252.d.germany:0 "Reports from Paris confirm that the [old_controller.GetAdjective] capital has been captured by advancing German troops after furious fighting across its large avenues and the Seine. [old_controller.GetAdjective] forces put up stiff resistance, hoping to delay the German forces for as long as possible, but were eventually beaten back.\n\nAs shocked Parisians looked on, the German army once more paraded through the same path they had during the Weltkrieg, down the Champs-Elysées and towards the Eiffel Tower. This festive atmosphere finally descended into vicious urban combat with [old_controller.GetAdjective] resistance in the dead of the night, as [GER.GetAdjective] tanks easily ploughed through inefficient barricades in the large Parisian avenues."
