@@ -109,7 +109,7 @@ CAN_stlaurent_police:0 "생 로랑(St. Laurent) 위원회"
 CAN_stlaurent_police_desc:0 "생 로랑 위원회는 반체제 인사들과 소요 사태를 조사하여 우리 나라의 안보를 감독하고 있습니다. 자유 주의자들이 비밀 경찰 위원회라는 비판을 제기했지만, 우리는 생디칼리스트들이 우리나라를 전복시키는 것과 기마 경찰대 휘하에 비밀경찰 수립에 대한 토리당의 계획과 타협하는 것이라고 봅니다."
 
 bishop_chief_air:0 "공군 참모 총장 비숍"
-bishop_chief_air_desc:0 "Willian Avery 비숍는 공군 현대화 계획에 대한 감독을 받았다. 그가 항공 엔지니어는 아니지만, 그의 계획은 연구와 사회 기반 시설에 대한 증가된 자금을 결합하는 것이다. 우리 과학자들은 이미 새로운 비행기 프로젝트에 우리의 자금을 사용하기 시작했고, 이제 우리는 우리의 비행장을 확장하고 현대화하기 시작할 필요가 있습니다."
+bishop_chief_air_desc:0 "윌리엄 에이버리 비숍은 공군 현대화 계획에 대한 감독을 받았다. 그가 항공 엔지니어는 아니지만, 그의 계획은 연구와 사회 기반 시설에 대한 증가된 자금을 결합하는 것이다. 우리 과학자들은 이미 새로운 비행기 프로젝트에 우리의 자금을 사용하기 시작했고, 이제 우리는 우리의 비행장을 확장하고 현대화하기 시작할 필요가 있습니다."
 
 CAN_nylon_idea:0 "중합체 기업"
 CAN_nylon_idea_desc:0 "중합체 기업은 나일론과 합성 고무 같은 신소재 개발의 선두 주자이다. 이를 통해 우리는 그 전까지 우리의 산업이 생산하기에 악몽이었던 전자 제품, 의료품 또는 광학과 같은 전문적인 장비를 생산하는 새롭고 효율적인 방법을 발견할 수 있습니다."
@@ -756,26 +756,26 @@ canada.52.d:0 "모리스 뒤플레시스 퀘벡 수상은 정부의 경제 계�
 canada.52.a:0 "루이스 에반과 사회 신용당"
 canada.52.b:0 "뒤플레시스와 민족 연합"
 
-canada.53.t:0 "Naval Exercises in the Atlantic"
-canada.53.d:0 "With the international situation deteriorating it is imperative that we demonstrate our strength and exercise our right to free passage in the Atlantic. To this end the Admiralty have scheduled an extensive array of fleet manoeuvres and war-games in the North Atlantic. How shall we proceed?"
-canada.53.a:0 "Show our Strength! Conduct a large exercise off the coast of Britain and Ireland."
-canada.53.b:0 "Show our Strength! Conduct a large exercise in the North Sea."
-canada.53.c:0 "Show our Strength! Conduct a large exercise off the American Coast."
-canada.53.e:0 "We do not need to rattle sabres. Conduct normal exercises in Canadian territorial waters."
+canada.53.t:0 "대서양 해군 훈련"
+canada.53.d:0 "국제적인 상황이 악화되고 있는 상황에서, 우리가 우리의 힘을 보여 주고 대서양에서 자유로운 통행권을 행사하는 것이 반드시 필요합니다. 이를 위해 해군 본부는 북 대서양에서 광범위한 함대의 기동과 군사 훈련을 계획해 왔습니다. 어떻게 진행할까요?"
+canada.53.a:0 "우리의 힘을 보여줘라! 영국과 아일랜드 해안에서 대규모 훈련을 하세요."
+canada.53.b:0 "우리의 힘을 보여줘라! 북해에서 대규모 훈련을 하세요."
+canada.53.c:0 "우리의 힘을 보여줘라! 아메리카 해안에서 대규모 훈련을 하세요."
+canada.53.e:0 "딴말하지 말고. 캐나다 영해에서 정상적인 연습을 하시오."
 
-canada.54.t:0 "The Irish-Canadian Treaty"
-canada.54.d:0 "The Canadians have approached us with the offer of a defence co-operation treaty. They will guarantee our sovereignty against the syndicalists in exchange for military basing rights. This could secure us against the syndicalists and open the door to economic aid from the Canadians but runs the risk of antagonising the Union of Britain. Rejecting, however, could provoke the Canadians to act first. How should we proceed?"
-canada.54.a:0 "Sign the treaty. This will be the start of a beautiful friendship."
-canada.54.b:0 "Reject the treaty. We cannot trust the English on any side of the Atlantic."
+canada.54.t:0 "아일랜드-캐나다 조약"
+canada.54.d:0 "캐나다 사람들은 우리에게 방위 협력 조약을 제안하였습니다. 그들은 군사 기본권에 대한 대가로 생디칼리즘에 대한 우리의 주권을 보장해 줄 것입니다. 이것은 우리를 생디칼리즘에 맞서 안전하게 해 주고 캐나다 사람들의 경제적 도움에 문을 열어 줄 수는 있지만, 브리튼 연방을 적대시하게 만들 위험이 있습니다. 하지만, 거절하는 것은 캐나다인들이 먼저 행동을 취하게 만들 수도 있습니다. 어떻게 진행해야 할까요?"
+canada.54.a:0 "조약에 서명하다. 이것이 아름다운 우정의 시작이 될 것이다."
+canada.54.b:0 "조약을 거부하다. 대서양의 어느 한쪽에 있는 영국을 믿을 수 없다."
 
-canada.55.t:0 "Ireland Signs Treaty"
-canada.55.d:0 "The Irish have agreed to the terms of our treaty giving us a foothold in Europe and opening the door to further co-operation with the Irish. With time and assistance, they may persuaded to become full members of the Entente."
-canada.55.a:0 "Time to celebrate! A pint of Guinness, anyone?"
+canada.55.t:0 "아일랜드가 조약을 승인하다"
+canada.55.d:0 "아일랜드 사람들은 우리가 유럽에 발을 들여놓고 아일랜드 사람들과 더 협력할 수 있는 기회를 제공하는 조약의 조건에 동의했습니다. 시간이 도움된다면, 그들이 협상국의 정식 회원이 되는 것을 설득할 수도 있습니다."
+canada.55.a:0 "축하할 시간이야! 기네스 맥주 1파인트 드실 분?"
 
-canada.56.t:0 "Ireland Rejects Treaty"
-canada.56.d:0 "The government of Ireland has rejected treaty negations preferring to go it on their own. Military High Command fears they will soon be annexed to the Union of Britain extending their reach and denying us a foothold in Europe."
-canada.56.a:0 "So be it. They will live with the consequences."
-canada.56.b:0 "Ireland is critical to our strategic interests. If they won't co-operate, then they leave us no choice."
+canada.56.t:0 "아일랜드가 조약을 거부하다"
+canada.56.d:0 "아일랜드 정부는 조약의 부정적인 측면에 대해 스스로 해결하는 것을 선호하여 조약을 거부하였습니다. 군사령부는 그들이 곧 그들의 영향력을 확대하고 우리가 유럽에 발 디디는 것을 거부하는 브리튼 연방에 합병될 것을 두려워하고 있습니다."
+canada.56.a:0 "그럴 수도 있지. 그들은 그 결과를 감수하고 살것이다."
+canada.56.b:0 "아일랜드는 우리의 전략적 이득에 중요하다. 그들이 협력하지 않으려고 한다면 우리에게 선택의 여지를 남기지 않을 것이다."
 
 #Events 57-63 where Ireland-Canada events that are no longer needed.
 
