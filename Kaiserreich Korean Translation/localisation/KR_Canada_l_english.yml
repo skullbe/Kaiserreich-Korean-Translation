@@ -756,52 +756,52 @@ canada.52.d:0 "모리스 뒤플레시스 퀘벡 수상은 정부의 경제 계�
 canada.52.a:0 "루이스 에반과 사회 신용당"
 canada.52.b:0 "뒤플레시스와 민족 연합"
 
-canada.53.t:0 "Naval Exercises in the Atlantic"
-canada.53.d:0 "With the international situation deteriorating it is imperative that we demonstrate our strength and exercise our right to free passage in the Atlantic. To this end the Admiralty have scheduled an extensive array of fleet manoeuvres and war-games in the North Atlantic. How shall we proceed?"
-canada.53.a:0 "Show our Strength! Conduct a large exercise off the coast of Britain and Ireland."
-canada.53.b:0 "Show our Strength! Conduct a large exercise in the North Sea."
-canada.53.c:0 "Show our Strength! Conduct a large exercise off the American Coast."
-canada.53.e:0 "We do not need to rattle sabres. Conduct normal exercises in Canadian territorial waters."
+canada.53.t:0 "대서양에서의 해군 훈련"
+canada.53.d:0 "국제적인 상황이 험악해지고 있는 지금, 우리는 우리의 힘을 보여 주고 대서양에서 자유로운 통행권을 행사하는 것이 필수적입니다. 이를 위해 해군 본부는 북 대서양에서의 광범위한 함대 기동과 워 게임 모델을 계획해 왔습니다. 어떻게 진행할까요?
+canada.53.a:0 "우리의 힘을 보여 줘라! 영국과 아일랜드 연안에서 대규모 훈련을 개시한다."
+canada.53.b:0 "우리의 힘을 보여 줘라! 북해에서 대규모 훈련을 개시한다."
+canada.53.c:0 "우리의 힘을 보여 줘라! 미국 연안에서 대규모 훈련을 개시한다."
+canada.53.e:0 "굳이 위험을 감수할 필요는 없다. 캐나다 영해에서 정상적으로 훈련을 개시한다."
 
-canada.54.t:0 "The Irish-Canadian Treaty"
-canada.54.d:0 "The Canadians have approached us with the offer of a defence co-operation treaty. They will guarantee our sovereignty against the syndicalists in exchange for military basing rights. This could secure us against the syndicalists and open the door to economic aid from the Canadians but runs the risk of antagonising the Union of Britain. Rejecting, however, could provoke the Canadians to act first. How should we proceed?"
-canada.54.a:0 "Sign the treaty. This will be the start of a beautiful friendship."
-canada.54.b:0 "Reject the treaty. We cannot trust the English on any side of the Atlantic."
+canada.54.t:0 "아일랜드-캐나다 조약"
+canada.54.d:0 "캐나다인들은 우리에게 방위 협력 조약을 제안하였습니다. 그들은 군사 기본권에 대한 대가로 생디칼리즘에 대한 우리의 주권을 보장해 주겠다고 약속했습니다. 이것은 우리를 생디칼리즘에 맞서 보다 안전하게 해 주고 캐나다의 경제 향상에 문을 열어 줄 수는 있지만, 브리튼 연방을 분노하게 만들 위험이 있습니다. 하지만, 우리가 거절한다면 캐나다인들이 먼저 행동을 취해 버릴수도 있습니다. 어떻게 해야 할까요?
+canada.54.a:0 "조약에 서명해라. 아름다운 우정의 첫걸음이 될 것이다."
+canada.54.b:0 "조약을 거부해라. 그들이 대서양의 어느 쪽에 있든 영국인은 믿을 수 없는 족속들이다."
 
-canada.55.t:0 "Ireland Signs Treaty"
-canada.55.d:0 "The Irish have agreed to the terms of our treaty giving us a foothold in Europe and opening the door to further co-operation with the Irish. With time and assistance, they may persuaded to become full members of the Entente."
-canada.55.a:0 "Time to celebrate! A pint of Guinness, anyone?"
+canada.55.t:0 "아일랜드가 조약에 서명했습니다"
+canada.55.d:0 "아일랜드인들은 우리가 유럽에 쉽게 접근할 수 있고 동시에 아일랜드인들과 더욱 협력할 수 있는 기회를 제공하는 조약의 조건에 동의했습니다. 시간과 협력을 통해, 그들이 협상국의 정식 회원이 되도록 설득할 수도 있을 것입니다.
+canada.55.a:0 "이런 게 바로 협상이지! 누구 기네스 한잔 더 할 사람?" 
 
-canada.56.t:0 "Ireland Rejects Treaty"
-canada.56.d:0 "The government of Ireland has rejected treaty negations preferring to go it on their own. Military High Command fears they will soon be annexed to the Union of Britain extending their reach and denying us a foothold in Europe."
-canada.56.a:0 "So be it. They will live with the consequences."
-canada.56.b:0 "Ireland is critical to our strategic interests. If they won't co-operate, then they leave us no choice."
+canada.56.t:0 "아일랜드는 조약을 거부했습니다"
+canada.56.d:0 "아일랜드는 자력으로 자기 자신들을 지킬 수 있다며 우리 제안을 거부했습니다. 군 사령부는 이들이 곧 브리튼 연방에 합병되어 브리튼 연방의 영향력이 확대되고 우리가 유럽에 접근하는 것이 더욱 어려워질 가능성을 우려하고 있습니다."
+canada.56.a:0 "마음대로 하게 두어라. 이로써 일어나는 결과 역시 그들 책임이다."
+canada.56.b:0 "아일랜드는 우리에게 전략적으로 매우 중요하다. 그들이 협력하지 않는다면, 우리에게는 선택의 여지가 없다."
 
 #Events 57-63 where Ireland-Canada events that are no longer needed.
 
-canada.57.t:0 "The Canadians Make an Offer"
-canada.57.d:0 "Building on the relationship established with the Canadian-Irish Treaty the Canadian government is offering a generous aid and development package on the condition that Ireland joints the Entente. The government is divided on the issue; welcoming aid and security but fearing a retaliation form the Union of Britain. Should we accept this deal? And if so, how shall we best make use of their aid?"
-canada.57.a:0 "Join the Entente, and use the aid to stimulate our economy."
-canada.57.b:0 "Join the Entente, and use the aid to strengthen our army."
-canada.57.c:0 "Join the Entente, and use the aid to strengthen our navy."
-canada.57.e:0 "Refuse the deal. We do not need their help or their war."
+canada.57.t:0 "캐나다인들의 제안"
+canada.57.d:0 "캐나다 정부는 캐나다-아일랜드 조약으로 맺은 관계를 토대로 아일랜드가 긴장 완화에 동참한다는 조건으로 관대한 지원과 개발 계획을 제시하고 있습니다. 정부는 원조와 안보를 환영하는 한편, 브리튼 연방의 보복을 두려워하며 이 문제에 대해 의견이 나뉘어 있는 상태입니다. 이 거래를 수락할까요? 수락한다면, 어떻게 하면 그들의 도움을 가장 잘 활용할 수 있겠습니까?
+canada.57.a:0 "협상국에 가입하고, 그들에게 받는 원조로 경제를 성장시킨다."
+canada.57.b:0 "협상국에 가입하고, 그들에게 받는 원조로 육군력을 강화한다."
+canada.57.c:0 "협상국에 가입하고, 그들에게 받는 원조로 해군력을 강화한다."
+canada.57.e:0 "거래를 거절한다. 우리는 전쟁도 원하지 않고 그들의 도움도 필요 없다."
 
-canada.58.t:0 "Ireland Joins the Entente!"
-canada.58.d:0 "Grateful for our benevolent assistance and protection, the Irish government has chosen to ratify our aid agreement and formalised their membership in the Entente."
-canada.58.a:0 "Three Cheers for Canada, Ireland, and the Entente!"
+canada.58.t:0 "아일랜드가 협상국에 가입했습니다!"
+canada.58.d:0 "우리의 자선 지원과 보호를 위해, 아일랜드 정부는 우리의 지원 협정을 비준하고 그들의 협상국 가입을 공식화하기로 결정했습니다."
+canada.58.a:0 "캐나다,아일랜드,그리고 협상국을 위해 건배!"
 
-canada.59.t:0 "Ireland Rejects Aid!"
-canada.59.d:0 "Ireland has rejected our aid and alliance offer preferring to keep the Canadian-Irish relationship at a comfortable distance."
-canada.59.a:0 "How disappointing!"
+canada.59.t:0 "아일랜드는 우리 원조를 거부했습니다!"
+canada.59.d:0 "아일랜드는 양국의 관계를 적당한 거리로 유지하는 것이 낫다며 우리의 지원과 보호 제안을 거부했습니다."
+canada.59.a:0 "정말 실망스럽군!"
 
-canada.64.t:0 "Denmark Concedes!"
-canada.64.d:0 "Unable or unwilling to muster a defence, Denmark has conceded our claims to their North Atlantic possessions Iceland and Greenland. Already forces are being deployed to pacify and integrate the new territories."
-canada.64.a:0 "They're better off with us anyways."
+canada.64.t:0 "덴마크가 양보했습니다!"
+canada.64.d:0 "우리와 적대할 여력도 마음도 없었기에, 덴마크 정부는 북대서양의 그린란드 및 아이슬란드 영유권을 포기했습니다. 이미 새로운 영토의 행정 통합을 위해 군대가 배치되는 중입니다."
+canada.64.a:0 "어차피 그들은 우리가 필요하겠지."
 
-canada.65.t:0 "Denmark Rejects our Claims"
-canada.65.d:0 "The Danes have rejected our claims in the North Atlantic. They think they can keep their territories secure from the Syndicalist threat, the fools. Their time will come."
-canada.65.a:0 "We will bide our time until an opportunity presents itself."
-canada.65.b:0 "The Danes have given us no other choice. Take the Islands anyways!"
+canada.65.t:0 "덴마크는 우리 주장을 거부했습니다"
+canada.65.d:0 "덴마크인들은 북대서양에 대한 우리 주장을 거부했습니다. 그들은 자신들의 영토를 그들 스스로 생디칼리스트들의 위협으로부터 안전하게 지킬 수 있다고 생각하는 모양입니다. 멍청하기 이를 데 없군요."
+canada.65.a:0 "우리는 기회가 찾아올 때까지 기다릴 것이다."
+canada.65.b:0 "우리에게 선택권을 주지 않는군. 상관말고 섬을 점령해라!"
 
 canada.66.t:0 "Canada Claims our Atlantic Possessions"
 canada.66.d:0 "Canada has unjustly laid claims to our possessions Iceland and Greenland. They say that we cannot adequately defend or administer these territories, and for their own security they must take up this responsibility. A flimsy pretext if we ever heard one. How should we proceed?"
