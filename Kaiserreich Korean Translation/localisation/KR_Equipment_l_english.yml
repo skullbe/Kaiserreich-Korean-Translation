@@ -2945,13 +2945,13 @@ ENG_modern_tank_equipment_1_short:0 "센츄리온"
 
 ### Sea ###
 ENG_submarine_1:0 "L급"
-ENG_submarine_1_desc:0 "The L-class were medium sized boats originally planned under the Republican Admiralty shipbuilding program of 1938-1943 as an improved version of the previous submarine classes. They were built in the late stages of the first Weltkrieg and were equipped with new, larger 21 in. torpedoes. They were used even after the modernization project of the 1930s and 1940s."
+ENG_submarine_1_desc:0 "L급은 중형함으로서 1938-1943년 공화국 해군성 조선 프로그램에 이전 잠수함 함급의 개선된 모습으로 설계되었습니다. 대전 말기에 건조되어 신형의 대구경인 21인치 어뢰를 장착했습니다. 이는 1930년대와 1940년대의 현대화 계획 이후로도 운용되었습니다."
 ENG_submarine_2:0 "T급"
-ENG_submarine_2_desc:0 "The To-class or Triton-class boats were designed to replace the O, P, and R class large submarines. They were moderately large submarines with long range well-suited for the Atlantic and Pacific Ocean. These boats were well-armed, stable platforms and were used extensively during the conflicts throughout this time period."
+ENG_submarine_2_desc:0 "토급 혹은 트리턴급은 O, P 그리고 R급 대형 잠수함을 대체하기 위해 설계되었습니다. 적당한 크기를 가진 이 잠수함은 대서양과 태평양의 장거리 항해에 적합했습니다. 이 함선은 잘 무장되고, 안정적인 플랫폼을 가지고 있었으며 현 시기의 전반적인 충돌에 광범위하게 사용되었습니다."
 ENG_submarine_3:0 "U급"
-ENG_submarine_3_desc:0 "The U class were small-sized submarines built under the Republican Admiralty shipbuilding programs of 1938-1943. Originally designed as training submarines as the war broke out, the design changed, allowing these submarines to prove useful in the confined waters of the North Sea and the Mediterranean. Due to their smaller size, their range and the weaponry were limited. Three subclasses made up the class: Undine, Umpire and Uproar."
+ENG_submarine_3_desc:0 "U급은 소형 잠수함으로 1938-1943년 공화국 해군성 조선 프로그램 때 건조되었습니다. 본래는 훈련용 잠수함으로 설계되었지만 전쟁이 발발함에 따라, 설계가 변경되어, 이 잠수함이 북해와 지중해같은 제한된 수역에서 유용함을 증명했습니다. 작은 크기로 인해, 작전 거리와 무장는 제한되었습니다. Undine, Umpire와 Uproar라는 세 개의 하위 함급이 하나의 함급을 이뤘습니다."
 ENG_submarine_4:0 "V급"
-ENG_submarine_4_desc:0 "The V-class or Vampire-class submarines were based on the previous U-class smaller sized boats. They were larger but still relatively small, with better seagoing ability but limited operational range and weaponry."
+ENG_submarine_4_desc:0 "V급 또는 뱀파이어급은 이전의 U급 소형함을 기반으로 하였습니다. 이는 함체를 키웠지만 상대적으로는 작았으며, 좋은 항해 능력을 가졌지만 제한된 작전 범위와 무장을 가졌습니다."
 
 ### Destroyers ####
 ENG_destroyer_1:0 "V/W급"
