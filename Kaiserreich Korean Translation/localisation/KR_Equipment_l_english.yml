@@ -2955,13 +2955,13 @@ ENG_submarine_4_desc:0 "The V-class or Vampire-class submarines were based on th
 
 ### Destroyers ####
 ENG_destroyer_1:0 "V/W급"
-ENG_destroyer_1_desc:0 "These destroyers included the Admiralty and Thornycroft V and W classes. They were built under the Republican Admiralty shipbuilding programs of 1938-1943. They were the ultimate evolution of British destroyer design during the First Weltkrieg, embodying the improvements of their predecessors as well as new technological advances. Large numbers of these ships were built during the late stages of WK1 and became the backbone of the Republican Navy's destroyer flotillas after the 1925 revolution. Beginning in the 1930s, they were placed into reserve fleets, used eventually relegated to convoy escort duties. They were adequately-armed, fast vessels with good range."
-ENG_destroyer_2:0 "G/H/I급"
-ENG_destroyer_2_desc:0 "The G, H, and I class destroyers were ordered as part of the 1933 and 1934 Naval Construction Programs. They were generally repeats of the preceding F class, with a slight reduction in size. Armament in the G and H classes is the same as in the F class, with both using the 4.7 in. guns. These ships had long range, were adequately armed, and had a strong torpedo complement. They were used extensively during the war and suffered numerous losses."
-ENG_destroyer_3:0 "J/K/N급"
-ENG_destroyer_3_desc:0 "The J, K, and N classes were similar to the earlier Tribal class but rather than emphasising gun armament, the designers returned to a more standard heavy torpedo and lighter gun setup. The ships were modified throughout their wartime service. Upgrades included improved anti-aircraft guns and radar. They were fast, long-ranged and well-armed vessels ideal for fleet escorts."
-ENG_destroyer_4:0 "사크급"
-ENG_destroyer_4_desc:0 "The Sark-class destroyers built upon the evolution of British destroyers used throughout the war. The ships were ordered as part of the 1942 and 1943 Naval Programs. They were well-armed in terms of both their guns and their torpedoes. Their AA armament ASW capabilities, speed, and range made them versatile vessels."
+ENG_submarine_1_desc:0 "L급은 중형함으로서 1938-1943년 공화국 해군성 조선 프로그램에 이전 잠수함 함급의 개선된 모습으로 설계되었습니다. 대전 말기에 건조되어 신형의 대구경인 21인치 어뢰를 장착했습니다. 이는 1930년대와 1940년대의 현대화 계획 이후로도 운용되었습니다."
+ENG_submarine_2:0 "T급"
+ENG_submarine_2_desc:0 "토급 혹은 트리턴급은 O, P 그리고 R급 대형 잠수함을 대체하기 위해 설계되었습니다. 적당한 크기를 가진 이 잠수함은 대서양과 태평양의 장거리 항해에 적합했습니다. 이 함선은 잘 무장되고, 안정적인 플랫폼을 가지고 있었으며 현 시기의 전반적인 충돌에 광범위하게 사용되었습니다."
+ENG_submarine_3:0 "U급"
+ENG_submarine_3_desc:0 "U급은 소형 잠수함으로 1938-1943년 공화국 해군성 조선 프로그램 때 건조되었습니다. 본래는 훈련용 잠수함으로 설계되었지만 전쟁이 발발함에 따라, 설계가 변경되어, 이 잠수함이 북해와 지중해같은 제한된 수역에서 유용함을 증명했습니다. 작은 크기로 인해, 작전 거리와 무장는 제한되었습니다. Undine, Umpire와 Uproar라는 세 개의 하위 함급이 하나의 함급을 이뤘습니다."
+ENG_submarine_4:0 "V급"
+ENG_submarine_4_desc:0 "V급 또는 뱀파이어급은 이전의 U급 소형함을 기반으로 하였습니다. 이는 함체를 키웠지만 상대적으로는 작았으며, 좋은 항해 능력을 가졌지만 제한된 작전 범위와 무장을 가졌습니다."
 
 ### Light Cruisers ###
 ENG_light_cruiser_1:0 "C급"
