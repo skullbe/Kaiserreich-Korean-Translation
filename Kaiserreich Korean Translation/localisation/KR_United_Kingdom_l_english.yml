@@ -24,7 +24,7 @@ GBR_suspend_desc:0 "임시정부의 첫 책무들 중 하나는 영국 사회 �
 GBR_spying:0 "영원한 감시 계획"
 GBR_spying_desc:0 "MI5, 우리의 국내 담당 정보기관은, 우리에게 예산의 증가를 지속적으로 요청해 왔고 지원을 받았다. 최근 그들의 지원에 대한 약속은 잠재된 생디칼리즘 동조자들에 대한 광범위하고 정밀한 감청 계획 - 영원한 감시 계획으로 정당화되었다. 이 계획에 대한 투자는 우리가 대중 여론을 더욱 효율적인 통제를 가능하게 할 것이다."
 GBR_god_save_the_king:0 "신이여 왕을 보우하소서"
-GBR_god_save_the_king_desc:0 "God save our gracious King! / Long live our noble King! / God save the King! / Send his victorious, / Happy and glorious, / Long to reign over us: / God save the King! / O Lord our God arise, / Scatter his enemies, / And make them fall: / Confound their politics, / Frustrate their knavish tricks, / On Thee our hopes we fix: / God save us all. / Thy choicest gifts in store, / On he be pleased to pour; / Long may he reign: / May he defend our laws, / And ever give us cause, / To sing with heart and voice, / God save the King!"
+GBR_god_save_the_king_desc:0 "<신께서는 자비로우신 국왕 폐하를 보우하소서, 고귀한 국왕 폐하 만세! 신께서는 국왕 폐하를 보우하소서! 그에게 승리와 행복과 영광을 주시고, 오랫동안 우리를 다스리시게 하소서. 신께서는 국왕 폐하를 보우하소서!> - God save the king (영국 국가) 1절
 GBR_overcome_syndicalism:0 "생디칼리즘을 극복하다"
 GBR_overcome_syndicalism_desc:0 "망명귀족과 노동자간의 분열은 평화적으로 해결될 것이다. 영국은 다시 한번 통합될 것이다."
 GBR_root_out_syndicalism:0 "생디칼리즘을 뿌리뽑다"
@@ -175,19 +175,15 @@ GBR_expand_raac_desc:0 "망명 기간동안 설립된 왕립 항공비행 기업
 GBR_imperial_war_cabinet:0 "제국 전시 내각"
 GBR_imperial_war_cabinet_desc:0 "제국 전시 내각은 제국 내 군 전력을 조율하기 위해 대전기에 설립되었다. 제국을 재건하는 동안 전쟁이 발발했을 때 제국의 전시 생산을 조율하기 위해 소환될 항구적 제국 전시 내각의 수립을 진행하도록 한다."
 GBR_naval_exercises:0 "해군 훈련"
-GBR_naval_exercises_desc:0 "왕립 해군은 대영제국의 주축이이며 제국을 보호하고 강화하기 위해 우리는 자치령들과 함께하는 일련의 해군 훈련을 진
-행해야 하는데 이는 왕립 해군과 다양한 자치령들 내의 자녀해군을 강화하기 위해서이다."
+GBR_naval_exercises_desc:0 "왕립 해군은 대영제국의 주축이이며 제국을 보호하고 강화하기 위해 우리는 자치령들과 함께하는 일련의 해군 훈련을 진행해야 하는데 이는 왕립 해군과 다양한 자치령들 내의 자녀해군을 강화하기 위해서이다."
 GBR_join_isac:0 "ISAC를 이끌다"
-GBR_join_isac_desc:0 "우리의 망명 기간동안 설립되었던 제국 과학 및 학술 협의회는 영국 정부의 최대한의 지원을 받아야 할 것이다. 추가적으
-로 우리는 대영제국의 정당한 중심부로써 이 협의회를 이끌고 지도해야 한다."
+GBR_join_isac_desc:0 "우리의 망명 기간동안 설립되었던 제국 과학 및 학술 협의회는 영국 정부의 최대한의 지원을 받아야 할 것이다. 추가적으로 우리는 대영제국의 정당한 중심부로써 이 협의회를 이끌고 지도해야 한다."
 GBR_iedc_control:0 "IEDC를 이끌다"
-GBR_iedc_control_desc:0 "제국 경제 및 개발 협의회 혹은 IEDC는 우리의 망명 기간동안 설립되었다. 이제 우리가 본토에 돌아왔고 협의회는 우리의 
-통제 하에 있으며 따라서 우리는 제국의 경제 개발을 위해 IEDC의 운영과 지도에 도움을 줄 수 있다."
+GBR_iedc_control_desc:0 "제국 경제 및 개발 협의회 혹은 IEDC는 우리의 망명 기간동안 설립되었다. 이제 우리가 본토에 돌아왔고 협의회는 우리의 통제 하에 있으며 따라서 우리는 제국의 경제 개발을 위해 IEDC의 운영과 지도에 도움을 줄 수 있다."
 GBR_imperial_preference:0 "제국 내 특혜"
 GBR_imperial_preference_desc:0 "제국 내 특혜 정책은 제국내, 그리고 자치령간의 자유 무역을 촉진할 것이다. 이는 제국 내에서의 자유 무역 지대를 구성하는데 도움을 줄 것이다."
 GBR_sterling_area:0 "스털링 지역"
-GBR_sterling_area_desc:0 "무역을 촉진시키기 위해 제국 구성원들은 모두 파운드 스털링으로 화폐를 통일해야 한다. 이는 제국 내에서 경제적 성장과 
-무역을 촉진시킬 것이다."
+GBR_sterling_area_desc:0 "무역을 촉진시키기 위해 제국 구성원들은 모두 파운드 스털링으로 화폐를 통일해야 한다. 이는 제국 내에서 경제적 성장과 무역을 촉진시킬 것이다."
 GBR_south_africa:0 "남아프리카 자치령"
 GBR_south_africa_desc:0 "남아프리카는 한때 우리 제국의 일원이였으며 1925년의 망명 이후로 그들 스스로 제국에서 이탈하였으며, 이제 우리는 그들을 다시 제국의 품으로 돌아오도록 노력을 쏟아야 한다."
 GBR_support_dominionists:0 "Dominonists를 지원하다"
@@ -203,7 +199,7 @@ GBR_empire_act_desc:0 "올해의 제국 회담은 제국 연합에 대한 이상
 
 ### Rule the Seas Focuses ###
 GBR_securing_the_seas:0 "바다를 지배하다"
-GBR_securing_the_seas_desc:0 "The nations, not so blest as thee, / Must, in their turns, to tyrants fall; / While thou shalt flourish great and free, / The dread and envy of them all. / 'Rule, Britannia! rule the waves: / 'Britons never will be slaves.'"
+GBR_securing_the_seas_desc:0 "<그대만큼 축복받지 못한 국가들은 반드시 그들의 폭군의 파멸로 끝나리니 , 그대가 위대하고 자유롭게 번영할 동안 , 모두에게 두려움과 선망의 대상이 되리라! 지배하라,브리타니아여! 파도를 지배하라! 영국인들은 결코 노예가 되지 않으리라!> - Rule,Britannia! 2절
 GBR_crush_egypt:0 "이집트를 제압하다"
 GBR_crush_egypt_desc:0 "수에즈 운하를 장악하기 위해 우리는 이집트로부터 그것을 점령해야 한다. 말로써 이뤄질 수 없는 이 상황은 전쟁으로 해결될 수 있다."
 GBR_treaty_with_egypt:0 "이집트와의 협약"
@@ -211,11 +207,9 @@ GBR_treaty_with_egypt_desc:0 "우리는 수에즈 운하를 장악해야 하지�
 GBR_secure_the_suez:0 "수에즈의 확보
 GBR_secure_the_suez_desc:0 "이제 수에즈를 확보할 방법을 알아냈고 이제 우리는 그것이 안전함을 확실히 해야 한다. 독일이나 지역의 다른 강국들이 우리로부터 운하를 빼앗는 시도를 할 것이고 우리는 그것을 확실히 보호해야 한다."
 GBR_status_of_singapore:0 "싱가포르의 상황"
-GBR_status_of_singapore_desc:0 "
-수에즈가 우리의 통제 하에 있고 몇몇 정부 기관은 싱가포르,또는 사자의 도시에 관해 질문하고 있다. 싱가포르는 한때 영국의 소유였으나 대전과 1925년의 망명 후 독일의 손 안에 떨어졌다. 이제 우리는 그것을 돌려달라고 요구할 때이다."
+GBR_status_of_singapore_desc:0 "수에즈가 우리의 통제 하에 있고 몇몇 정부 기관은 싱가포르,또는 사자의 도시에 관해 질문하고 있다. 싱가포르는 한때 영국의 소유였으나 대전과 1925년의 망명 후 독일의 손 안에 떨어졌다. 이제 우리는 그것을 돌려달라고 요구할 때이다."
 GBR_hong_kong_treaty:0 "홍콩 협약"
-GBR_hong_kong_treaty_desc:0 "
-싱가포르가 다시 한번 우리의 통제 하에 있고, 몇몇은 우린 동방의 진주인, 홍콩을 찾아야 한다고 주장한다. 그러므로 우리는 공사관 도시에 제국의 왕관에 존재했던 진주를 돌려받기를 원한다는 제안을 보내야 한다."
+GBR_hong_kong_treaty_desc:0 "싱가포르가 다시 한번 우리의 통제 하에 있고, 몇몇은 우린 동방의 진주인, 홍콩을 찾아야 한다고 주장한다. 그러므로 우리는 공사관 도시에 제국의 왕관에 존재했던 진주를 돌려받기를 원한다는 제안을 보내야 한다."
 GBR_treaty_for_gibraltar:0 "지브롤터에 대한 협약"
 GBR_treaty_for_gibraltar_desc:0 "지브롤터는 오랫동안 제국의 일부분이였고 다시 일부분이 되어야 한다. 그러므로 우리는 스페인과 그 지역에 관한 협약을 맺어야 한다. "
 GBR_take_the_rock:0 "지브롤터를 탈환하다"
@@ -392,13 +386,13 @@ uk.4.d:0 "과정이 어쨌든, 결국 왕당파들은 브리튼 연방을 패배
 uk.4.a:0 "환영한다, 동지들!"
 
 uk.1000.t:0 "해방의 날"
-uk.1000.d:0 "오늘 영국은 국가 전역에 걸쳐 상점과 공장들이 문을 닫았는데, 이는 오늘이 생디칼리즘에 맞선 지난 투쟁에서 목숨을 잃은 사람들을 기리기 위한 추모의 날이기 때문입니다. 이 날의 주요 일정은 웨스트민스터 성당에서 에드워드 8세와 그 가족의 참석하에 조지 5세의 유해가 다시 안치되는 것이었습니다. 이것은 고인이 된 선왕의 영국에 돌아가고 싶다는 임종 시의 유언을 충족시켜 주었습니다. 식이 끝난 후, 왕은 엄숙한 행렬을 추모 공원의 동쪽 끝으로 이끌었고, 그곳에서 조지 5세를 위한 기념비가 모습을 드러냈습니다. 공개 기간 동안, 왕은 그 기념비가 옛 생디칼리즘 정권의 희생자였던 모든 사람들과, 왕에서부터 가장 낮은 노동자에 이르기까지 모든 고통을 겪은 사람들을 추모했다고 말했습니다. 국왕은 다시는, 전통적으로 전해 내려온 영국인들의 자유를 생디칼리즘이 위협하지 못할 것이라고 맹세했습니다. 생디칼리즘의 희생자들에게 애도와 경의를 표하고,[GetDateText]의 일환으로 매년 자유의 날로 칭송 받을 이날은 우리가 잃어버린 것들과 또한 새로이 얻은 교훈에 대해 생각할 기회를 주었습니다."
-uk.1000.a:0 "국왕 폐하와 조국을 위하여!"
+uk.1000.d:0 "오늘 영국은 국가 전역에 걸쳐 상점과 공장들이 문을 닫았는데, 이는 오늘이 생디칼리즘에 맞선 지난 투쟁에서 목숨을 잃은 사람들을 기리기 위한 추모의 날이기 때문입니다. 웨스트민스터에서 거행하는 이 날의 주요 일정은 에드워드 8세와 왕실 구성원들의 참석하에 조지 5세의 유해가 다시 안치되는 것이었습니다. 이것은 고인이 된 선왕의 영국에 돌아가고 싶다는 임종 시의 유언을 충족시켜 주었습니다. 식이 끝난 후, 왕은 엄숙한 행렬을 추모 공원의 동쪽 끝으로 이끌었고, 그곳에서 조지 5세를 위한 기념비가 모습을 드러냈습니다. 공개 기간 동안, 왕은 그 기념비가 옛 생디칼리즘 정권의 희생자였던 모든 사람들과, 왕에서부터 가장 낮은 노동자에 이르기까지 모든 고통을 겪은 사람들을 추모하는 의미를 지녔다고 언급했습니다. 국왕은 다시는, 전통적으로 전해 내려온 영국인들의 자유를 생디칼리즘이 위협하지 못할 것이라고 맹세했습니다. 생디칼리즘의 희생자들에게 애도와 경의를 표하며, 해방의 날인 [GetDateText] 오늘, 우리는 우리가 잃은 소중한 것들과, 동시에 우리가 얻은 소중한 교훈들을 다시금 돌아보고 있습니다."
+uk.1000.a:0 "조국과 국왕 폐하를 위하여!"
 
 ### Liberty Day 2-100 ###
-uk.1001.t:0 "Liberty Day"
-uk.1001.d:0 "Across Britain, stores and factories are closed, as Britons gather in a national day of remembrance, in honour of those who lost their lives in the struggle against Syndicalism. The central activities of the day occur in the Imperial capital where, attended by Edward VIII, the royal family, and leading political and military figures, the Royal Guard parades through the city. Never again, the King then pledged in speech in front of the Masses assembled on the Mall, would Syndicalism threaten the liberties of Britons, which had been passed down through the ages. To honour the victims of Syndicalism, and keep fresh the memory of what had been so nearly lost and so dearly gained on this Liberty day."
-uk.1001.a:0 "For King and Country!"
+uk.1001.t:0 "해방의 날"
+uk.1001.d:0 "오늘 영국은 국가 전역에 걸쳐 상점과 공장들이 문을 닫았는데, 이는 오늘이 생디칼리즘에 맞선 지난 투쟁에서 목숨을 잃은 사람들을 기리기 위한 추모의 날이기 때문입니다. 런던에 있는 왕궁에서 열린 이 날의 주요 행사에 에드워드 8세와 왕실 구성원, 정치와 군사계의 주요 인사들이 참석했고, 근위대가 거리를 행진했습니다. 두 번 다시 공원에서 왕이 침통한 표정으로 모여있는 사람들에게 연설할 일도, 생디칼리즘이 수 세기에 걸쳐 내려온 영국인들의 자유를 위협할 일도 없을 것을 것입니다. 생디칼리즘의 희생자들을 애도하며, 해방의 날인 오늘 우리는 우리가 소중한 것들을 너무나도 많이 잃었다는 것과, 동시에 우리가 무엇과도 바꿀 수 없는 교훈들을 얻었다는 것을 다시금 돌아보고 있습니다."
+uk.1001.a:0 "조국과 국왕 폐하를 위하여!"
 
 uk.1700.t:0 "Canadian technology for Britain"
 uk.1700.d:0 "Now that the United Kingdom has been restored, Canadian technical expertise is flowing onto the island. Many technology companies have already set up shop across the pond again."
