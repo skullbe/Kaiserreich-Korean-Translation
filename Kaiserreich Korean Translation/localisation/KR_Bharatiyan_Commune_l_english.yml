@@ -1,29 +1,29 @@
 l_english:
 
 ### Ideas ###
-BHC_backwards_economy_1:0 "Underdeveloped Economy"
+BHC_backwards_economy_1:0 "미개발된 경제"
 BHC_backwards_economy_1_desc:0 "The nation is largely agrarian in nature, with many of its agricultural methods long outdated."
-BHC_backwards_economy_2:0 "Recovering Economy"
+BHC_backwards_economy_2:0 "회복중인 경제"
 BHC_backwards_economy_2_desc:0 "The nation is largely agrarian in nature, with many of its agricultural methods long outdated. Things have slowly started to change, however, with industrialisation becoming more common in urban areas."
-BHC_divided_government:0 "Divided Government"
+BHC_divided_government:0 "분열된 정부"
 BHC_divided_government_desc:0 "There are three factions within the Calcutta government: the Maximists, the Moderates, and the Agrarians. Each fought together during the civil war, but each has their own goals and their own vision of what a socialist India will become, even if they are all part of the same government. The in-fighting can, at times, become extreme, and there are worries that the division may eventually lead to open conflict."
-BHC_army_purged:0 "Effects of the Purge"BHC
-BHC_army_loyal:0 "The Maximist Army"
-BHC_rouse_the_masses:0 "Rouse the Masses"
+BHC_army_purged:0 "숙청의 효과"BHC
+BHC_army_loyal:0 "마르크스주의 군대"
+BHC_rouse_the_masses:0 "대중을 깨우다"
 BHC_raw_founded:0 "Research and Analysis Wing"
 BHC_arm_the_soldiers:0 "Soldier Armament Focus"
 BHC_foreign_tech:0 "Foreign Research Aid"
-BHC_army_reformed:0 "The Agrarian Army"
-BHC_elite_resistance:0 "Resistance of the Elites"
+BHC_army_reformed:0 "농본주의 군대"
+BHC_elite_resistance:0 "엘리트들의 저항"
 BHC_elite_incentive:0 "Incentive to the Elites"
-BHC_elite_promotion:0 "Promotion of the Elites"
+BHC_elite_promotion:0 "엘리트들의 진급"
 BHC_army_training:0 "Army Training Academies"
 BHC_army_production:0 "National Army Supply"
 BHC_navy_production:0 "National Naval Supply"
-BHC_army_focus:0 "Rule the Ground"
-BHC_air_focus:0 "Rule the Skies"
-BHC_navy_focus:0 "Rule the Seas"
-BHC_unitedindia:0 "India United!"
+BHC_army_focus:0 "지상을 지배하다"
+BHC_air_focus:0 "하늘을 지배하다"
+BHC_navy_focus:0 "바다를 지배하다"
+BHC_unitedindia:0 "통일된 인도!"
 
 ### Opinion Modifiers ###
 BHC_Ho_is_here_50:0 "Supported Ho Chi Minh's revolutionary activities in Indochina"
@@ -100,11 +100,11 @@ POLITICS_NIRMAL_KUMAR_BOSE_DESC:0 "Nirmal Kumar Bose, protégé of the famous Mo
 POLITICS_SHRIPAD_AMRIT_DANGE_DESC:0 "Shripad Amrit Dange is perhaps the most radical syndicalist within the Indian National Congress. Much like Nestor Makhno of the French Anarchistes, he advocates the eventual disestablishment of the very state itself. Unlike the Anarchistes however, rather than promoting rural collectivisation, Dange advocates industrialisation and the assumption by trade unions of the entire economic apparatus."
 
 ### Focuses ###
-BHC_INC_Meeting_1:0 "Special Meeting of the INC"
+BHC_INC_Meeting_1:0 "INC의 특별회의"
 BHC_INC_Meeting_1_desc:0 "With Lala Lajpat Rai's term coming to an end, all of Calcutta is buzzing with excitement prior to the convening of the Indian National Congress. There it is expected a new head of state will be appointed, determining the direction of the Bharatiya Commune over the next few critical years."
-BHC_totalist_1:0 "Subhas Chandra Bose"
+BHC_totalist_1:0 "수바스 찬드라 보스"
 BHC_totalist_1_desc:0 "Subhas Chandra Bose, leader of the Maximist faction, has won the appointment as the head of the Calcutta government."
-BHC_speech_war:0 "'We Will Not Be Defeated'"
+BHC_speech_war:0 "'우리는 패배하지 않을 것이다'"
 BHC_speech_war_desc:0 "The first order of business for Bose will be to address the nation - the Totalists are expected to take a harsh line when it comes to the Commune's advancement over the next several years. To Bose, the Bharatiya Commune has the capability of advancing its own interests and modernising its military, without dependence on outside forces, but only at incredible cost."
 BHC_revoke_landlords:0 "Revoke the Landlords"
 BHC_revoke_landlords_desc:0 "Not all the landlords common to India before the revolution are gone. Indeed, many of the smaller farms are still held by wealthy members of the upper castes who believe themselves untouchable by the Calcutta government. The Maximists intend to prove to them this is not so, and all of the nation's farmlands must come under a common rule and administration by the people who work on them."
