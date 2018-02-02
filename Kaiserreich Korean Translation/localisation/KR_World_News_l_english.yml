@@ -510,7 +510,7 @@ worldnews.119.t:0 "Serbia forms Yugoslavia"
 worldnews.119.d:0 "The resurgent Serbian state has won stunning victories against the Bulgarian and Austrian empires. Today, a new State of Serbs, Croats and Slovenes has been declared in Belgrade, formally uniting all Southern Slavs into one, unity state. The concept for this country has been known as 'Yugoslavia' for quite some time, and it is expected that this name will become the de facto name for the new state.\n\nThe nation of Illyria was a previous attempt at creating such a nation but under Croatian leadership. It remains to be seen how viable Yugoslavia is as a country."
 worldnews.119.a:0 "Let's hope this will bring peace on the Balkans."
 
-worldnews.120.t:0 "The Collapse of Mittelafrika"
+worldnews.120.t:0 "중앙아프리카의 붕괴"
 worldnews.120.d:0 "독일의 지배 하에 있는 아프리카의 여러 곳에서 불안한 보고서들이 쏟아져 나오고 있습니다;중앙아프리카 정부가 완전히 붕괴한 듯 합니다! 왜 무너졌는지, 어떻게 무너졌는지는 불분명하지만, 중앙아프리카 정부는 더는 효율적인 해외 자치령으로 여겨지거나 과도한 지출로 유명하지 않습니다. 지휘 계통은 카드 탑이 무너지듯이 쓰러졌고, 황제가 아직 아프리카를 보호하고 있다는 막연한 생각 외에는 더 이상 이 지역에 족장, 관리자, 왕은 없습니다. 중앙 정부가 움직일 수 없게 되면서, 이제 대륙 전역에서 왕국, 부족, 보호국들이 영토 주장과 오래된 원한을 두고 전쟁을 벌이고 있고, 원주민 군벌과 독일 식민지 관리들은 아직 정상적인 것처럼 보이려고 합니다. 이 상황이 그저 지나가는 것인지, 아프리카에서 어두운 폭력의 시대의 진정한 시작을 알리는 것인지 확실하지 않습니다. 하지만, 독일 제국의 식민지 사업은 실패했다고 봐도 과언이 아닙니다."
 worldnews.120.a:0 "독일의 아프리카 지배력은 우리 생각보다 훨씬 약한 것 같다..."
 worldnews.120.b:0 "헤르만, 내 부대를 다시 내놔!"
@@ -635,34 +635,34 @@ worldnews.263.common:0 "Whoever controls Washington, controls America...for now"
 
 # City falls from the Siamese files
 
-worldnews.264.t:0 "The Fall of Singapore" #Siam
+worldnews.264.t:0 "싱가포르 함락" #Siam
 worldnews.264.d:0 "Singapore, the 'Gibraltar of the East,' has been seized by Royal [SIA.GetAdjective] forces despite having been considered an impregnable fortress by its former British owners and its new German overlords.\n\nThe [SIA.GetAdjective] Military Administration of Singapore has chosen the Fullerton Building as its headquarters, and the city has been renamed Singhanakhon, which roughly translates to 'Lion City'. The Sarawat Taharn can be seen patrolling the streets en masse to hammer in the message that the [SIA.GetAdjective] are there to stay."
 worldnews.264.a:0 "German dominance in the East Indies is heavily shaken by Siam."
 worldnews.264.b:0 "Singhanakhon and its surrounding regions are an integral part of Siam!"
 worldnews.264.c:0 "They will regret this petty colonial theft when the Kriegsmarine arrives!"
 worldnews.264.e:0 "Singapore is a rightful British colony. Let us watch this development closely."
 
-worldnews.265.t:0 "The Fall of Sydney" #Siam
+worldnews.265.t:0 "시드니 함락" #Siam
 worldnews.265.d:0 "Further expanding on its conquests in the south, [SIA.GetNameDef] has seized Sydney in Australasia. Local defenders were forced to retreat across the Sydney Harbour Bridge to new positions on Observatory Hill, but attempts to demolish the bridge were thwarted by advancing [SIA.GetAdjective] forces.\n\nThe [SIA.GetAdjective] war flag can now be seen hanging from the Sydney Town Hall, which serves as the headquarters of the city's new military administration, and the Sarawat Taharn military police are maintaining a watchful eye on the streets."
 worldnews.265.a:0 "With Sydney in their hands, a new Siamese Empire has risen in the ruins of the British Empire."
 worldnews.265.b:0 "Let the world know that Siam lays claim to the whole of Australasia!"
 worldnews.265.c:0 "We will not surrender until every ranch in the outback is torched!"
 worldnews.265.e:0 "Siam will regret prowling on the Commonwealth when the Royal Navy arrives."
 
-worldnews.266.t:0 "The Fall of Hong Kong" #Siam
+worldnews.266.t:0 "홍콩 함락" #Siam
 worldnews.266.d:0 "Troops from [SIA.GetNameDef] have captured the former British Crown Colony of Hong Kong after breaking through the Gin Drinkers Line and landing on Hong Kong Island itself. The situation soon became untenable for the defenders, and the Governor surrendered in person at the Peninsula Hong Kong hotel where the [SIA.GetAdjective] had established their headquarters.\n\nAfter a brief ceremony, a new [SIA.GetAdjective] governor was installed who announced a 'New Hong Kong' to the world, 'free of Western colonialism.'"
 worldnews.266.a:0 "The fall of Hong Kong is a serious blow to the Legation Cities."
 worldnews.266.b:0 "New Hong Kong will prosper, free from Western imperialism!"
 worldnews.266.c:0 "The Legation Cities will not tolerate this aggression."
 worldnews.266.e:0 "Another strike on a former British colony, hopefully not a pattern."
 
-worldnews.267.t:0 "The Fall of Manila" #Siam
+worldnews.267.t:0 "마닐라 함락" #Siam
 worldnews.267.d:0 "Manila, capital of the Philippines, has fallen to the [SIA.GetAdjective] after the withdrawal of its Filipino defenders and her allies. The entrance to the strategically vital Manila Bay remained contested for some time after the city's fall due to the heavy concentration of Filipino coastal artillery on Corregidor Island, but the guns eventually fell silent after a concerted [SIA.GetAdjective] attack.\n\nWith Manila under [SIA.GetAdjective] control, the rest of the Philippines are expected to follow shortly after. This is a stinging defeat for the [From.GetFactionName] forces in Asia and the Pacific."
 worldnews.267.a:0 "The fall of Manila secures Siam's grasp on the East Indies."
 worldnews.267.b:0 "We only claim to secure our hegemony in the East Indies from Western colonies."
 worldnews.267.c:0 "Retreat to the jungles, we will not let the Philippines fall!"
 
-worldnews.268.t:0 "The Fall of Calcutta" #Siam
+worldnews.268.t:0 "캘커타 함락" #Siam
 worldnews.268.d:0 "After a period of heavy bombardment, it has now been confirmed that the city of Calcutta in Bengal has fallen to advancing [SIA.GetAdjective] forces. Following heavy fighting across Chowringhee avenue, silence once again fell across the city as the sounds of gunfire and artillery muted.\n\nClaims arise of [SIA.GetAdjective] troops patrolling the streets to maintain order in the populous Indian city as unverified claims of mass arrests and atrocities slowly trickle down to Asian newspapers. With the fall of Calcutta, many predict that all of India will inevitably follow."
 worldnews.268.a:0 "Calcutta, regional capital of Bengal, was clearly the last gate to India Proper."
 worldnews.268.b:0 "The people of Bengal and Assam have too long suffered under Indian rule."
@@ -670,7 +670,7 @@ worldnews.268.c:0 "We have been bled but not defeated. Workers, resist the royal
 worldnews.268.e:0 "Siam has no business in India. Should they fail to stop them, we must intervene."
 worldnews.268.f:0 "This is extremely concerning. Siam has no business in India, the old British Crown Jewel."
 
-worldnews.269.t:0 "The Fall of New Delhi" #Siam
+worldnews.269.t:0 "뉴델리 함락" #Siam
 worldnews.269.d:0 "[SIA.GetAdjective] offensives continue across the Indian subcontinent, and the fall of New Delhi recently crowned this campaign. As the capital of a potential united India, this city is of immense strategic importance and its loss may prove to be a decisive factor in the ongoing Indian campaign.\n\nThe Viceroy himself was reportedly captured by [SIA.GetAdjective] forward units while he was supervising the transfer of his belongings from the Viceroy's House to a truck caravan, but this has not yet been confirmed."
 worldnews.269.a:0 "New Delhi still was the capital of a divided India. And divided it falls."
 worldnews.269.b:0 "With New Delhi in our hands, we promise the Indian people freedom from Western influence."
@@ -678,7 +678,7 @@ worldnews.269.c:0 "This is an absolute disaster, we must consult with our Entent
 worldnews.269.e:0 "Are Siamese Imperialists really any better than British Imperialists?"
 worldnews.269.f:0 "We cannot afford to lose our last bastion in Asia. Let us hold an emergency meeting."
 
-worldnews.270.t:0 "The Fall of Bangkok"
+worldnews.270.t:0 "방콕 함락"
 worldnews.270.d.can:0 "Earlier today, the victorious [new_controller.GetAdjective] soldiers march through the streets of Bangkok after fierce fighting for most of the day. Most building along the Ratchadamnoen road were ruined by the artillery barrage, and the Union Jack is now raised over what is left of the old Ananta Samakhom throne hall that was used by the [old_controller.GetAdjective] government as their parliament.\n\nThe [old_controller.GetAdjective] government has met to discuss [new_controller.GetAdjective] demands, with many of Seri Thai movement members now taking their pre-arranged provisional government positions, as most old cabinet members are now presumed to be dead. Outside the city, however, fighting still continues, though it is unknown just how long it will last."
 worldnews.270.d.jap:0 "As fighting dies down in Bangkok, the hinomaru already flies from every building across Bangkok, now renamed Bankoku, and [new_controller.GetAdjective] officials have already installed a new transitional administration to handle their conquest.\n\nAlready, dissenters have been gathered up and driven off in the middle of the night, and the [old_controller.GetAdjective] army units who surrendered have begun a march to new camps being built for them in the countryside. Several local [old_controller.GetAdjective] leaders have been offered seppuku, to atone for their failure and due to the possibility of resistance rallying around them. Bangkok's Grand Palace has already begun renovations to be one of the Emperor's new seasonal residences, even though fighting still continues in the countryside."
 worldnews.270.d.other:0 "Earlier today, the victorious [new_controller.GetAdjective] soldiers march through the streets of Bangkok after fierce fighting for most of the day. Most buildings along the Ratchadamnoen road were ruined by the artillery barrage, and the [new_controller.GetAdjective] flag is now raised over the Ananta Samakhom throne hall that was used by the [old_controller.GetAdjective] government as their parliament.\n\nThe [old_controller.GetAdjective] government agreed to meet and discuss [new_controller.GetAdjective] demands. Now, with the last of the [old_controller.GetAdjective] defences stamped out in the city, it seems that further resistance in the surrounding cities will end soon enough."
@@ -686,25 +686,25 @@ worldnews.270.a:0 "We shall fight to the last!"
 worldnews.270.b:0 "Finally Bangkok is ours!"
 worldnews.270.c:0 "I see..."
 
-worldnews.271.t:0 "The Fall of Moscow"
+worldnews.271.t:0 "모스크바 함락"
 worldnews.271.d:0 "The last time Moscow was taken by a foreign power, a vast fire wiped out large portions of the city. Not so today, when [new_controller.GetAdjective] forces broke through the siege lines in multiple places and converged on the Kremlin. [old_controller.GetAdjective] soldiers continue to snipe the enemy from highrises, but the main defences have broken and are filtering out through the suburbs into the surrounding forest.\n\nRed square, long the centre of [old_controller.GetAdjective] life in the city, has been turned into a makeshift POW camp, and burning debris was seen falling from the Kremlin windows, no doubt a last ditch effort to prevent [old_controller.GetAdjective] intelligence from falling into [new_controller.GetAdjective] hands. This is a dark day for [old_controller.GetNameDef]."
 worldnews.271.a:0 "We shall fight on to the bitter end"
 worldnews.271.b:0 "The heart of [old_controller.GetNameDef] is now ours!"
 worldnews.271.c:0 "The situation in [old_controller.GetNameDef] appears dire, indeed"
 
-worldnews.272.t:0 "The Fall of Petrograd"
+worldnews.272.t:0 "페트로그라드 함락"
 worldnews.272.d:0 "The great [old_controller.GetAdjective] city built by Peter the Great was captured today. [old_controller.GetAdjective] defenders initially held back the [new_controller.GetAdjective] army across the Neva river, but a few days ago those positions finally fell. Now, sustained cannon fire on Vasilyevsky island has put the last defenders out of their misery. Some military tacticians say that, with proper defence, the city could have held out for years, but the [new_controller.GetAdjective] momentum carried them through the city far faster than that.\n\nThe [new_controller.GetAdjective] army's soldiers are using the Palace Square as a staging ground for moving throughout the rest of the city, and there are rumours of [new_controller.GetAdjective] soldiers taking celebratory tours through the great Museum of Artillery, confident they will put their own mark on the military history of [old_controller.GetNameDef]."
 worldnews.272.a:0 "The glorious jewel of the north has fallen"
 worldnews.272.b:0 "The blow to [old_controller.GetAdjective] morale will be severe"
 worldnews.272.c:0 "Terrible!"
 
-worldnews.273.t:0 "The Fall of Kiev"
+worldnews.273.t:0 "키예프 "
 worldnews.273.d:0 "Bad news for [old_controller.GetNameDef] today as the [new_controller.GetAdjective] army has just completed its assault upon the ancient capital. While initial reports suggested the [old_controller.GetAdjective] defenders would be able to hold them at the bridges in a protracted siege, the many avenues over the river proved too much to hold. With [new_controller.GetAdjective] troops on either side of the river and scattered defenders surrendering on the isles, Kiev has fallen to the invaders.\n\nWith the thriving hub now in [new_controller.GetAdjective] hands, the rest of [old_controller.GetAdjective] lands are in jeopardy. While [new_controller.GetNameDef] has promised to respect the 700 years of history built up since the Mongols destroyed it in 1204, Kievan memory is long. Invasions have never been kind to them, and they fear the worst."
 worldnews.273.a:0 "This does not end here"
 worldnews.273.b:0 "Finally Kiev is ours!"
 worldnews.273.c:0 "The [old_controller.GetAdjective] situation appears dire"
 
-worldnews.274.t:0 "The Fall of Rio de Janeiro"
+worldnews.274.t:0 "리우데자네이루 함락"
 worldnews.274.d:0 "The fighting in Rio de Janeiro seems to have stopped for now, after days of gruesome assault by [new_controller.GetAdjective] forces. Despite the city's immensely defensible position, the [old_controller.GetAdjective] garrison could not prevent the Catete Palace and most of the city proper from falling into [new_controller.GetAdjective] hands. While fighting lingers in the hills and forests, regular [old_controller.GetAdjective] forces have been driven out, and the battle is over.\n\nMuch of Rio was damaged by the fighting, with [new_controller.GetAdjective] shells destroying the dome of Candelária Church, and the Real Grandeza Tunnel being collapsed by desperate [old_controller.GetAdjective] soldiers to halt the [new_controller.GetAdjective] advance. With [new_controller.GetAdjective] soldiers garrisoning almost every street, and columns parading on the city centre, it's clear that [new_controller.GetNameDef] has taken a major step in its war against [old_controller.GetNameDef]."
 worldnews.274.a:0 "No! How can this be?!"
 worldnews.274.b:0 "Our commanders have done well"
@@ -736,7 +736,7 @@ worldnews.278.a:0 "Beijing has fallen? How can this be?!"
 worldnews.278.b:0 "The Forbidden City is ours!"
 worldnews.278.c:0 "It seems the [old_controller.GetAdjective] situation has grown dire indeed"
 
-worldnews.279.t:0 "상하이함락"
+worldnews.279.t:0 "상하이 함락"
 worldnews.279.d.china:0 "It has been over seventy years since a Chinese person could stand on the Bund and truly call it their own, but thanks to the efforts of [new_controller.GetAdjective] troops, a new flag flies proudly from the top of the Customs Building. Despite the city's international protections, the victory came somewhat easily, as Shanghai's police forces and limited garrison could put up little resistance against a real army. The general population barely resisted themselves, and their non-cooperation cannot have aided already bare-bones defences.\n\nThe international city's future now seems unclear, as while unification will undoubtedly solve a great many social concerns, its prosperity has always been built on the backs of trade and foreign investment. Uncertainty reigns, and the futures of the city's foreign residents are also in doubt."
 worldnews.279.d.other:0 "Despite the city's nominal international protections, [new_controller.GetAdjective] troops seized Shanghai today, rapidly overwhelming the local police and garrison forces, and raising their banners across the Bund. Only a few years ago, such an action would almost certainly be met by international outrage, but rising tensions and outright conflict elsewhere have left few able to offer meaningful protection to the [old_controller.GetNameDef] people.\n\n[new_controller.GetAdjective] soldiers have already begun the process of looting the areas outside the old International Settlement, and taking other liberties with the residents, while most foreigners are thus far left unscathed but not without worry. Uncertainty reigns, as the city's prosperity has long been built upon its reputation as a safe and stable centre for commerce."
 worldnews.279.a:0 "We will retake the city, no matter what"
