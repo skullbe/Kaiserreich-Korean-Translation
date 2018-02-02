@@ -15,8 +15,8 @@ very_good_stability:0 "매우 좋은 안정도"
 very_good_stability_desc:0 "정치력이 §Y150§!보다 높고 높은 안정도 상태를 가졌다면, 국가는 매우 높은 안정도 상태로 올라갈 수 있습니다. 정치력이 §Y0§!보다 낮다면 보통 안정도로 떨어질 것입니다."
 stability:0 "안정도"
 EFFECT_CHANGE_LAW_stability:0 "Change our country's stability to '$NAME|Y$' which grants ($DESC$)."
-tooltip_stability_good:0 "Countries that are at average stability may upgrade to good stability"
-tooltip_stability_very_good:0 "Countries that are at good stability may upgrade to very good stability"
+tooltip_stability_good:0 "보통 안정도의 국가는 좋은 안정도로 업그레이드 할 수 있습니다"
+tooltip_stability_very_good:0 "좋은 안정도의 국가는 매우 좋은 안정도로 업그레이드 할 수 있습니다"
 
 ### Popularity ###
 very_low_popularity:0 "매우 낮은 인기도"
@@ -80,23 +80,23 @@ kr.political.9.a:0 "I understand how to raise my stability."
 ### Popularity Events ###
 kr.political.11.t:0 "매우 높은 인기도"
 kr.political.11.d:0 "집권당에 대한 민간의 지지도가 매우 높은 수준에 이르러 우리의 정치력에 긍정적인 영향을 미쳤습니다. 야당은 거의 존재하지 않으며 우리는 우리가 원하는 어떤 개혁도 통과시킬 수 있는 위치에 있습니다."
-kr.political.11.a:0 "Great!"
+kr.political.11.a:0 "대단하군!"
 
 kr.political.12.t:0 "높은 인기도"
 kr.political.12.d:0 "집권당에 대한 민간의 지지도가 높은 수준에 이르러 우리의 정치력에 긍정적인 영향을 미쳤습니다. 우리의 정치적 반대는 확고부동하고 국가의 분열을 초래하는 개혁만이 우리의 개인적인 투자를 필요로 할 것입니다."
-kr.political.12.a:0 "Nice!"
+kr.political.12.a:0 "멋지군!"
 
 kr.political.13.t:0 "보통 인기도"
 kr.political.13.d:0 "집권당에 대한 민간의 지지도가 보통 수준에 이르러 우리의 정치력에 영향을 미쳤습니다. 어떤 개혁에 대해 반대 세력과 협상을 할 필요가 있을지도 모르지만, 우리는 여전히 잘, 그리고 효과적으로 통치할 수 있습니다."
-kr.political.13.a:0 "Good."
+kr.political.13.a:0 "좋군."
 
 kr.political.14.t:0 "낮은 인기도"
 kr.political.14.d:0 "집권당에 대한 민간의 지지도가 낮은 수준으로 떨어져 우리의 정치력에 부정적인 영향을 미쳤습니다. 반대 세력이 충분히 강력해서, 우리는 그들과 상의하고 타협해야 합니다."
-kr.political.14.a:0 "This is bad."
+kr.political.14.a:0 "나쁘군."
 
 kr.political.15.t:0 "매우 낮은 인기도"
 kr.political.15.d:0 "집권당에 대한 민간의 지지도가 매우 낮은 수준으로 떨어져 우리의 정치력에 부정적인 영향을 미쳤습니다. 우리 정당은 거의 존재하지 않으며, 우리의 개혁은 야당의 변덕에 좌우될 것입니다."
-kr.political.15.a:0 "This is a catastrophe!"
+kr.political.15.a:0 "재앙이군!"
 
 ### Minister Influences Ruling Party Events ###
 kr.political.16.t:0 "장관이 자신의 이념을 지원하다"
