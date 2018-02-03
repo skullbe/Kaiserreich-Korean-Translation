@@ -1,14 +1,14 @@
 l_english:
 
 ### Ideas ###
-SER_reparation_payments:0 "War reparations to Bulgaria"
+SER_reparation_payments:0 "불가리아에게의 전쟁 배상금 지불"
 SER_reparation_payments_desc:0 "Because Serbia has lost the Fourth Balkan War, it needs to pay war reparations to Bulgaria."
-BUL_reparation_payments_from_serbia:0 "War reparations from Serbia"
+BUL_reparation_payments_from_serbia:0 "세르비아로부터의 전쟁 배상금"
 BUL_reparation_payments_from_serbia_desc:0 "Serbia pays war reparations to Bulgaria."
-GRE_reparation_payments:0 "War reparations to the Ottomans"
+GRE_reparation_payments:0 "오스만에게의 전쟁 배상금 지불"
 GRE_reparation_payments_desc:0 "Because Greece has lost the Fourth Balkan War, it needs to pay war reparations to the Ottomans."
-OTT_reparation_payments_from_greece:0 "War reparations from Greece"
-OTT_reparation_payments_from_greece_desc:0 "Greece pays war reparations to the Ottomans."
+OTT_reparation_payments_from_greece:0 "그리스로부터의 전쟁 배상금"
+OTT_reparation_payments_from_greece_desc:0 "그리스가 오스만에게 전쟁 배상금을 지불하고 있습니다."
 
 ### Opinion Modifiers ###
 Balkans_hates_bulgaria:0 "반불가리아 정서"
@@ -44,28 +44,28 @@ pact.2.d:0 "Serbia has invited us to send a diplomat to Belgrade to take part in
 pact.2.a:0 "Announce our support for the Belgrade Pact."
 pact.2.b:0 "We have no interest in expanding in this direction."
 
-pact.3.t:0 "[From.GetName] joins the Belgrade Pact"
+pact.3.t:0 "[From.GetName]가 베오그라드 협약에 가입하다"
 pact.3.d:0 "The [From.GetAdjective] government has announced they will attend the congress in Belgrade and formally join the Belgrade Pact."
 pact.3.a:0 "Together for peace!"
 
-pact.4.t:0 "[From.GetName] won't join the Belgrade Pact"
+pact.4.t:0 "[From.GetName]가 베오그라드 협약에 가입하지 않다"
 pact.4.d:0 "The [From.GetAdjective] government has announced they will, for the time being, not be part of any formal alliance aimed at Bulgaria."
 pact.4.a:0 "We don't need them."
 
 pact.5.t:0 "A second front"
 pact.5.d:0 "Without the Greeks creating another front, we may not be able to win against the Bulgarians. Because of this, it has been suggested that we ask the Ottomans to join the Pact. However, this move could also result in the Ottomans supporting Bulgaria to prevent a weak northern neighbour."
-pact.5.a:0 "Invite the Ottoman Empire."
-pact.5.b:0 "We'll be fine without them."
+pact.5.a:0 "오스만 제국을 초청하자."
+pact.5.b:0 "우리는 그들 없이도 괜찮을 것이다."
 
-pact.6.t:0 "Serbia invites us to the Belgrade Pact"
+pact.6.t:0 "세르비아가 우리를 베오그라드 협약에 초청하다"
 pact.6.d:0 "In a surprising turn of events, the Serbian government has invited us to join the Belgrade Pact, an alliance clearly aimed at Bulgaria. Joining this Pact against our former ally would result in deteriorated relations with Germany and Austria. However, we may have a chance of claiming some land from Bulgaria or even expand in the direction of the Greeks, who decided not to join."
 pact.6.a:0 "Announce our support for the Belgrade Pact."
 pact.6.b:0 "Support Bulgaria instead!"
 pact.6.c:0 "We shouldn't focus on the Balkans."
 
-pact.7.t:0 "The Ottoman Empire supports Bulgaria!"
+pact.7.t:0 "오스만 제국이 불가리아를 지원하다!"
 pact.7.d:0 "As some people predicted, the Ottoman government has decided to support the Bulgarians! Their foreign minister stated they will not cooperate with enemies of it's former Central Power ally. Though the agreement hasn't yet been formalised in a real alliance, the Ottomans might come to the aid of the Bulgarians if we decide to attack them."
-pact.7.a:0 "Horrible."
+pact.7.a:0 "끔찍하군."
 
 pact.8.t:0 "Belgrade Congress argues for a new order on the Balkans"
 pact.8.d:0 "On the initiative of Serbia, several countries have convened in Belgrade to discuss the political and military situation on the Balkans. During this congress a new military alliance was founded, the so-called Belgrade Pact. This is clearly aimed against us, out of revenge of their loss in the Weltkrieg. We can only hope our former Central Power allies will support us in this crisis."
