@@ -49,46 +49,46 @@ ire.ieaa.tt:0 "\nPass the IEAA and begin considering the economic direction of t
 ire.debtscheme.tt:0 "\nWill reduce the national debt by a §Osignificant§! amount every year in addition to the usual."
 
 # IEAA event - Collins in charge
-ire.9.t:0 "The Dáil Considers the Economy"
-ire.9.d:0 "With the passing of the Irish Economic Advancement Act (IEAA), a commitment by the Irish government to a rapid and complete overhaul of the economy has been made. As stipulated in the act, the government must now decide on an annual focus to improve the economy. Michael Collins, President of the Republic and leader of Fine Gael as well as Frank MacDermot of the National Centre Party believe that Ireland should focus on building up it's industry as quickly as possible. A Syndicalist coalition led by Jim Larkin argue that giving power to the workers' unions is the best way to increase our nations productivity. Lastly Sinn Féin suggest a focus on mainstream industrial research and development."
-ire.9.a:0 "Collins and the NCP have the right idea."
-ire.9.b:0 "Side with the Democrats and Liberals."
-ire.9.c:0 "The Syndicalists are on to something."
+ire.9.t:0 "의회가 상업에 대해 고려하다. "
+ire.9.d:0 "아일랜드 경제 진보 정책(IEAA)의 통과 이후, 아일랜드 정부의 신속하고 완벽히 경제를 재정비하겠다는 약조가 이뤄졌습니다. 법안에 규정된 대로, 정부는 지금부터 매 년 경제 발전에 중점을 두는 결정을 해야 합니다. 피너 게일의 지도자이자 아일랜드의 대통령인 마이클 콜린스 뿐만 아니라, 국민중앙당의 프랭크 맥더멋도 경제를 가능한 한 빠르게 발전시키는걸 집중해야 한다고 합니다. 생디칼리스트 연합을 이끄는 짐 라킨은 노조에게 힘을 주는 것이 우리 산업의 생산성을 늘리는 길이라고 주장합니다. 마지막으로 신페인은 주요 산업을 연구하고 개발하자고 제안했습니다."
+ire.9.a:0 "콜린스와 NCP의 생각이 옳다."
+ire.9.b:0 "민주주의자들과 자유주의자들을 따라라."
+ire.9.c:0 "생디칼리스트들이 중요한 것을 알고 있다."
 
 # IEAA repeat event - Collins still in charge
 ire.10.t:0 "The Dáil Considers the Economy"
 ire.10.d:0 "As in previous years, the Dáil are meeting to decide the annual economic focus for the nation. The positions of the main power players in Irish politics has not changed. President Collins advocates for rapid industrialisation supported by the NCP, the Syndicalists demand more recognition and better treatment for the workers while the Liberal Democratic coalition believe that Ireland is best served by industrial research and development."
-ire.10.a:0 "Collins is always right."
+ire.10.a:0 "콜린스가 언제나 옳다."
 ire.10.b:0 "Sinn Féin and Fianna Fáil are correct."
-ire.10.c:0 "The reds might have a good idea for once.."
+ire.10.c:0 "이번에는 빨갱이들의 아이디어가 좋은 것 같다..."
 
 # IEAA event - Collins ousted
 ire.11.t:0 "The Dáil Considers the Economy"
 ire.11.d:0 "With the passing of the Irish Economic Advancement Act (IEAA), a commitment by the Irish government to a rapid and complete overhaul of the economy has been made. As stipulated in the act, the government must now decide on an annual focus to improve the economy. The authoritarian former government, Fine Gael, as well as their moderate partners the National Centre Party, believe that Ireland should focus on building up it's industry as quickly as possible. A Syndicalist coalition led by Jim Larkin argue that giving power to the workers' unions is the best way to increase our nations productivity. Finally, Sinn Féin suggest a focus on mainstream industrial research and development."
 ire.11.a:0 "Side with the Democrats and Liberals."
 ire.11.b:0 "Fine Gael and the NCP have the right idea."
-ire.11.c:0 "The Syndicalists are on to something."
+ire.11.c:0 "생디칼리스트들이 중요한 것을 알고 있다."
 
 # IEAA repeat event - Collins ousted
 ire.12.t:0 "The Dáil Considers the Economy"
 ire.12.d:0 "As in previous years, the Dáil are meeting to decide the annual economic focus for the nation. The positions of the main power players in Irish politics has not changed. Fine Gael and the NCP advocate for rapid industrialisation, whilst the Syndicalists demand more recognition and better treatment for the workers. The Liberal-Democratic coalition believe that Ireland is best served by industrial research and development."
 ire.12.a:0 "Sinn Féin and Fianna Fáil are correct."
 ire.12.b:0 "Fine Gael and the NCP have a point."
-ire.12.c:0 "The reds might have a good idea for once.."
+ire.12.c:0 "이번에는 빨갱이들의 아이디어가 좋은 것 같다..."
 
 # IEAA event - Collins ousted (syndicalist)
 ire.13.t:0 "The Dáil Considers the Economy"
 ire.13.d:0 "With the passing of the Irish Economic Advancement Act (IEAA), a commitment by the Irish government to a rapid and complete overhaul of the economy has been made. As stipulated in the act, the government must now decide on an annual focus to improve the economy. The Revolutionary Workers Group believe that Ireland should focus on building up it's industry as quickly as possible. The Irish Worker League argue that encouraging the workers' unions is the best way to increase our nations productivity. Finally, Saor Éire suggest a focus on mainstream industrial research and development."
 ire.13.a:0 "Side with Saor Éire."
 ire.13.b:0 "The Revolutionary Workers Group has the right idea."
-ire.13.c:0 "The Irish Worker League are on to something."
+ire.13.c:0 "아일랜드 노동자 동맹이 중요한 것을 알고 있다."
 
 # IEAA repeat event - Collins ousted (syndicalist)
 ire.242.t:0 "The Dáil Considers the Economy"
 ire.242.d:0 "As in previous years, the Dáil are meeting to decide the annual economic focus for the nation. The positions of the main power players in Irish politics has not changed. The Revolutionary Workers Group advocates for rapid industrialisation, whilst the Irish Worker League demand more recognition of the workers' collectives. Saor Éire believe that Ireland is best served by industrial research and development."
 ire.242.a:0 "Saor Éire is correct."
 ire.242.b:0 "The Revolutionary Workers Group have a point."
-ire.242.c:0 "The Irish Worker League have a good idea."
+ire.242.c:0 "아일랜드 노동자 동맹이 좋은 생각을 갖고 있다."
 
 # Agri/Infra Wing
 IRE_ARD:0 "Agricultural Reform Drive"
@@ -1194,8 +1194,8 @@ ire.1.b:0 "A half company will do."
 ire.1.c:0 "Call up only the infantry reserves."
 
 # Introduction Events
-ire.2.t:0 "The State of the Republic, 1936"
-ire.2.d:0 "After countless years of arduous rebellion and weathering oppressive British rule, the Irish people have won their freedom, and their country back. But as one enemy was vanquished, another rose in her place, perhaps yet more dangerous still. Michael Collins sits a reluctant dictator, eager to defend the independence of his nation at any cost, yet his political enemies are many as the 1937 election approaches. Ireland is a powder keg, and it's only a matter of time until it explodes."
+ire.2.t:0 "1936년 공화국의 상황"
+ire.2.d:0 "셀 수 없이 많은 저항과 영국 법의 압제적인 풍화 후에, 아일랜드의 사람들은 승리를 쟁취했고, 나라를 돌려받았습니다. 허나 적이 타파된 후, 아직 위험하진 않지만 다른 장미가 그의 무덤에서 피어났습니다. 어떤 댓가를 치루고서라도 독립을 지키겠다는 열망 하에, 마이클 콜린스는 내키지 않는 독재자의 자리에 앉았으나, 여전히 그의 정치적 적수들은 1937년 총선을 기다리고 있습니다. 아일랜드는 화약고이고, 중요한 것은 그게 언제 폭발하느냐 입니다."
 ire.2.a:0 "These are turbulent times."
 
 ire.53.t:0 "Problems Up North"
@@ -1613,13 +1613,13 @@ ire.164.a:0 "All hail Britannia!"
 ##########################
 
 #Easter Rising Anniversary
-ire.55.t:0 "20th Anniversary of the 1916 Easter Rising!"
-ire.55.d:0 "On Monday, the 24th of April 1916, members of the Irish Volunteers, Irish Citizen Army and Cumann na mBan seized key locations in Dublin and declared a free Irish republic. Surrounded by the vastly superior numbers and artillery of the British Army, they fought on for six days before eventually surrendering. Most of the leaders of the Rising were executed. Although a loss at the time, it would subsequently lead to Ireland's war of independence and freedom after seven hundred years under British rule. Today is the 20th anniversary, and celebrations and parades have taken place all across Ireland, including a thundering speech from President Collins emphasising the need to protect the freedom that Patrick Pearse and his comrades died for."
-ire.55.a:0 "For slavery fled, O glorious dead, when you fell in the foggy dew."
+ire.55.t:0 "1916년 부활절 봉기 20주년!"
+ire.55.d:0 "1916년 4월 24일 월요일, 아일랜드의 자원자들, 아일랜드 시민군과 쿠먼 나 음반(여성 위원회)은 더블린의 주요 지점을 장악하고 자유 아일랜드 공화국을 선포했습니다. 우수하고 강력한 영국 포병들에 의해 포위되어 최종적으로 항복하기 전까지, 그들은 6일 간 저항했습니다. 봉기의 지도자 대다수는 처형당했습니다. 비록 당시에는 패배했지만, 그 후에 영국 법 아래의 700년에서 자유와 독립을 쟁취한 아일랜드의 전쟁으로 이끌었습니다. 오늘은 20주년 기념일이고, 아일랜드 전역에서 행진과 축하가 이뤄졌고, 콜린스 대통령의 우레를 수반하는 연설은 패트릭 피어스와 그의 동지들이 쟁취하기 위해 쓰러진 자유를 보호해야 한다고 강조했습니다."
+ire.55.a:0 "달아난 노예들을 위하여, 숭고한 죽음이여, 자네가 안개 이슬 속에 빠져 있을때."
 
 ire.56.t:0 "Anniversary of the 1916 Easter Rising!"
 ire.56.d:0 "On Monday, the 24th of April 1916, members of the Irish Volunteers, Irish Citizen Army and Cumann na mBan seized key locations in Dublin and declared a free Irish republic. Surrounded by the vastly superior numbers and artillery of the British Army, they fought on for six days before eventually surrendering. Most of the leaders of the Rising were executed. Although a loss at the time, it would subsequently lead to Ireland's war of independence and freedom after seven hundred years under British rule."
-ire.56.a:0 "For slavery fled, O glorious dead, when you fell in the foggy dew."
+ire.56.a:0 "달아난 노예들을 위하여, 숭고한 죽음이여, 자네가 안개 이슬 속에 빠져 있을때."
 
 #Other
 ire.54.t:0 "Ireland's National Flag"
@@ -1632,8 +1632,8 @@ ire.57.d:0 "The famous poet and one of the founders of Dublin's Abbey Theatre, W
 ire.57.a:0 "Ireland mourns a great poet."
 
 # Black Monday
-ire.228.t:0 "Black Monday hits Ireland!"
-ire.228.d:0 "On the 3rd of February, the German stock market collapsed, plunging the world into depression. Ireland has relied on trade with Germany and its sphere of influence since the British Revolution when we declared ourselves a republic and cut ties with the British Empire. The crisis has had a severe effect on the Irish economy as Germany and our other European trading partners have been hit by the crisis. Many scramble to find solutions, most parties proposing either Irish economic development or maintaining stability while the German economy recovers. More radically the anglophile National Centre Party advocate abandoning trade with continental Europe and opening ties with the Entente, often making speeches tinged with anti-German rhetoric. The syndicalists have also begun to advocate revolution, claiming that this crisis is proof of the failures of capitalism."
+ire.228.t:0 "아일랜드에 검은 월요일이 닥치다!"
+ire.228.d:0 "2월 3일, 독일 증권시장이 무너졌고, 세계를 대공황 속으로 깊숙히 밀어넣었습니다. 아일랜드는 영국 혁명으로 우리가 공화국을 선포함과 동시에 대영제국과 관계를 끊은 후, 독일과 그 영향권에 있는 국가들의 깊은 영향을 받았습니다. 독일과 다른 유럽의 교역 협력국들의 경제가 타격을 입었듯이, 위기는 아일랜드의 경제에 심각한 영향을 끼쳤습니다. 많은 해결책을 찾기 위한 다툼이 있으며, 대다수의 정당들은 아일랜드의 경제 개발 혹은 독일의 경제가 회복되는 동안 안정을 유지하는 것을 제안했습니다. 더 급진적인 친영 국민중심당은 반독일적 미사여구를 늘어놓으며 대륙 유럽을 버리고 협상국에게 문을 여는 것을 옹호합니다. 또한 생디칼리스트들은 혁명을 옹호하며, 이 문제는 자본주의의 실패에 의해 일어났다고 주장하고 있습니다."
 ire.228.a:0 "This could be bad.."
 ire.229.t:0 "German economy improves"
 ire.229.d:0 "The German government has begun to reform their economy to cope with Black Monday. With their economy improving, trade between our two nations has begun to resume, helping return our economy back to normal."
