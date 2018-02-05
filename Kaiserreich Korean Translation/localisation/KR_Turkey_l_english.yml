@@ -1,31 +1,31 @@
 l_english:
 
 ### Opinion Modifiers ###
-tur_syndie:0 "Syndicalist diplomacy"
-tur_irredentism:0 "Turkish Belligerence"
-tur_peaceful:0 "Peace in the world"
+tur_syndie:0 "생디칼리즘 외교"
+tur_irredentism:0 "터키의 투쟁"
+tur_peaceful:0 "세계 평화"
 
 ### Parties ###
 TUR_totalist_party:0 "DHP"
-TUR_totalist_party_long:0 "Devrimci Halk Partisi"
+TUR_totalist_party_long:0 "인민혁명당"
 TUR_syndicalist_party:0 "TSP"
-TUR_syndicalist_party_long:0 "Türkiye Sendikalist Partisi"
+TUR_syndicalist_party_long:0 "터키 생디칼리스트당"
 TUR_radical_socialist_party:0 "HKP"
-TUR_radical_socialist_party_long:0 "Halkın Kurtuluş Partisi"
+TUR_radical_socialist_party_long:0 "인민해방당"
 TUR_social_democrat_party:0 "SDP"
-TUR_social_democrat_party_long:0 "Sosyal Demokrat Parti"
+TUR_social_democrat_party_long:0 "사회민주당"
 TUR_social_liberal_party:0 "SCP"
-TUR_social_liberal_party_long:0 "Serbest Cumhuriyet Partisi"
+TUR_social_liberal_party_long:0 "자유공화당"
 TUR_market_liberal_party:0 "DP"
-TUR_market_liberal_party_long:0 "Demokrat Parti"
+TUR_market_liberal_party_long:0 "민주당"
 TUR_social_conservative_party:0 "MP"
-TUR_social_conservative_party_long:0 "Millet Partisi"
+TUR_social_conservative_party_long:0 "국민당"
 TUR_authoritarian_democrat_party:0 "CHP"
-TUR_authoritarian_democrat_party_long:0 "Cumhuriyet Halk Partisi"
+TUR_authoritarian_democrat_party_long:0 "공화인민당"
 TUR_paternal_autocrat_party:0 "MNP"
-TUR_paternal_autocrat_party_long:0 "Millî Nizam Partisi"
-TUR_national_populist_party:0 "Bozkurtlar"
-TUR_national_populist_party_long:0 "Bozkurtlar Grubu"
+TUR_paternal_autocrat_party_long:0 "국가니잠당"
+TUR_national_populist_party:0 "회색 늑대"
+TUR_national_populist_party_long:0 "회색 늑대 무리"
 
 ### Events ###
 
