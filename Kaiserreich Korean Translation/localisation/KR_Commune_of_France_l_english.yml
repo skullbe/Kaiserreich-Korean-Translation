@@ -182,8 +182,8 @@ Revolutionary_spirit_desc:0 "생디칼리즘의 번영과 성공은 최후의 �
 FRA_socialist_education_idea:0 "사회주의 교육"
 FRA_socialist_education_idea_desc:0 "아이들에 대한 교육은 코뮌 같은 국가들이 가진 가장 중요한 문제입니다. 운이 좋게도, 과거 공화국 교육 시스템은 지금 시점에서도 혁명적입니다. 이러한 교육 시스템은 과학과 예술에 집중한 사회주의 교육 위한 좋은 기반을 제공 할 것입니다."
 
-FRA_phalanstere_NOR:0 "Aid to Norway"
-FRA_phalanstere_NOR_desc:0 "We are currently providing industrial aid to our Norwegian brothers."
+FRA_phalanstere_NOR:0 "노르웨이 원조"
+FRA_phalanstere_NOR_desc:0 "우리는 현재 노르웨이의 형제들에게 산업 원조를 제공하고 있습니다."
 
 ### Parties ###
 
@@ -258,7 +258,7 @@ FRA_scientific_coop_flag:0 "캠브리지 회의가 열리다.\n"
 phalanstere_research_name:0 "팔랑스테르 인터네셔널"
 phalanstere_research_desc:0 "케임브리지 대학의 회의에서 생디칼리즘 국가들의 기술 발전을 결합하기위한 전 세계 계획의 수립이 결정되었다. 이 계획은 이후 세계의 신디칼주의 정권을 돕는 것을 목표로 한 더 야심찬 계획 인 팔랑스테르 인터내셔널(Phalanstère International)로 진화했다."
 FRA_wip:0 "This focus is not yet implemented. This will never unlock and will have no effect."
-latin_american_union:0 "Latin American Union" #??"
+latin_american_union:0 "라틴 아메리카 연방" #??"
 FRA_sorelian_economy_tooltip:0 "§YYou will receive 4 infantry divisions in Paris§!\n"
 
 ### Focuses ###
