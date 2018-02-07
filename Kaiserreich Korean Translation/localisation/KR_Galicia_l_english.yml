@@ -1,22 +1,22 @@
 l_english:
 
 ### Events ###
-gal.1.t:0 "Galicia-Lodomeria becomes independent"
-gal.1.d:0 "After centuries under Habsburg rule that began with the first partition of the Polish-Lithuanian Commonwealth in 1772, Galicia Lodomeria sees herself independent. But we are a weak state surrounded by impressive neighbours - and maybe we would do good seeking protection from Poland, the nation our territory has been taken from all these years ago."
-gal.1.a:0 "Ask to formally join Poland. (This means Game Over if you are a player.)"
-gal.1.b:0 "Galicia shall remain independent."
+gal.1.t:0 "갈리치아-로도메리아가 독립하다"
+gal.1.d:0 "1772년 제1차 폴란드-리투아니아 연방 분할로 시작된 합스부르크 통치 하에서 갈리치아-로도메리아는 자신을 독립적이라고 봅니다. 하지만 우리는 이웃 중견 국가들로 둘러 싸여 있는 약한 국가입니다. 어쩌면 요 근래에 우리 영토를 빼앗은 폴란드에게 보호를 청하는 것이 좋을지도 모릅니다."
+gal.1.a:0 "폴란드에 정식으로 가입할 것을 요청하자. (당신이 플레이어라면 이는 게임 오버를 의미한다.)"
+gal.1.b:0 "갈리치아는 독립을 유지할 것이다."
 
-gal.2.t:0 "Galicia seeks to join our Nation"
-gal.2.d:0 "After centuries under Habsburg rule that began with the first partition of the Polish-Lithuanian Commonwealth in 1772, Galicia Lodomeria sees herself independent. But being a weak state surrounded by impressive neighbours, the newly independent nation feels her very existence threatened. A diplomatic envoy arrived today to discuss an incorporation of Galicia into Polish territory."
-gal.2.a:0 "Welcome home, brothers."
+gal.2.t:0 "갈리치아가 우리 나라에 들어오려고 하다"
+gal.2.d:0 "1772년 제1차 폴란드-리투아니아 연방 분할로 시작된 합스부르크 통치 하에서 갈리치아-로도메리아는 자신을 독립적이라고 봅니다. 하지만 신생국은 자신을 이웃 중견 국가들로 둘러 싸여 있는 약한 국가로 여기며 그 존재가 매우 위협 받고 있다고 느낍니다. 한 외교 사절이 갈리치아를 폴란드 영토에 편입시키는 문제를 논의하기 위해 오늘 도착했습니다."
+gal.2.a:0 "형제여, 집에 온 것을 환영한다."
 
-gal.3.t:0 "Claiming the Bucovina"
-gal.3.d:0 "Being independent for only a handful of days, the Galician nation, formerly a vassal state to the Crown of Austria, has been incorporated into the Polish state. However, amongst the ethnically diverse population of Galicia, its southernmost province, the Bucovina, is home to many Romanians. Given the current confusion within the territory, we could relatively easily seize it in a swift manoeuvre."
+gal.3.t:0 "부코비나 요구"
+gal.3.d:0 "며칠 간의 독립 기간을 거친 후, 예전에 오스트리아 왕실의 속국이었던 갈리치아는 폴란드로 편입되었습니다. 하지만, 인종적으로 다양한 갈리치아의 최남단 지방인 부코비나는 많은 루마니아인들의 고향입니다. 현재 이 지역의 혼란을 감안하면, 우리는 상대적으로 신속하게 대처할 수 있을 것입니다."
 gal.3.a:0 "Let us free our brothers."
 gal.3.b:0 "Provoking the Poles is not wise."
 
-gal.4.t:0 "Claming East Galicia"
-gal.4.d:0 "Being independent for only a handful of days, the Galician nation, formerly a vassal state to the Crown of Austria, has been incorporated into the Polish state. However, amongst the ethnically diverse population of Galicia, the East is home to mostly Ukrainians. Given the current confusion within the territory, we could relatively easily seize it in a swift manoeuvre."
+gal.4.t:0 "동부 갈리치아 요구"
+gal.4.d:0 "며칠 간의 독립 기간을 거친 후, 예전에 오스트리아 왕실의 속국이었던 갈리치아는 폴란드로 편입되었습니다. 하지만, 인종적으로 다양한 갈리치아의 동부는 많은 우크라니아인들의 고향입니다. 현재 이 지역의 혼란을 감안하면, 우리는 상대적으로 신속하게 대처할 수 있을 것입니다."
 gal.4.a:0 "Let us free our brothers."
 gal.4.b:0 "Provoking the Poles is not wise."
 
