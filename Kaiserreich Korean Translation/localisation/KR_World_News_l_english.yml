@@ -687,7 +687,7 @@ worldnews.270.b:0 "Finally Bangkok is ours!"
 worldnews.270.c:0 "I see..."
 
 worldnews.271.t:0 "모스크바 함락"
-worldnews.271.d:0 "가장 마지막으로 모스크바가 외세에 의해 점령당했을 때는, 엄청난 화재에 의해 도시에 거의 남아나는 것이 없었습니다. 하지만 이번엔 아닙니다. 오늘 [new_controller.GetAdjective]군이 여러 겹의 방어선을 뚫고 크렘린 궁을 확보했습니다. [old_controller.GetAdjective] 병사들이 높은 곳에서 계속해서 우리 병사들을 저격했지만, 주력 방어선이 뚫린 이상 그들이 할 수 있는 일은 교외에서 숲으로 도주하는 것 뿐이었습니다.\n\n도시의 중심부이자 [old_controller.GetAdjective]의 상징이나 다름 없던 붉은 광장은 임시 포로 수용소로 변했고, [old_controller.GetAdjective]의 기밀 정보가 [new_controller.GetAdjective]의 수중에 떨어지는 사태만은 막기 위한 최후의 노력이 분명한 불타는 종이 파편이 크렘린 궁의 창문 밖으로 버려졌습니다. [old_controller.GetNameDef]에게 암울한 남입니다."
+worldnews.271.d:0 "가장 마지막으로 모스크바가 외세에 의해 점령당했을 때는, 엄청난 화재에 의해 도시에 거의 남아나는 것이 없었습니다. 하지만 이번엔 아닙니다. 오늘 [new_controller.GetAdjective]군이 여러 겹의 방어선을 뚫고 크렘린 궁을 확보했습니다. [old_controller.GetAdjective] 병사들이 높은 곳에서 계속해서 우리 병사들을 저격했지만, 주력 방어선이 뚫린 이상 그들이 할 수 있는 일은 교외에서 숲으로 도주하는 것 뿐이었습니다.\n\n도시의 중심부이자 [old_controller.GetAdjective]의 상징이나 다름 없던 붉은 광장은 임시 포로 수용소로 변했고, [old_controller.GetAdjective]의 기밀 정보가 [new_controller.GetAdjective]의 수중에 떨어지는 사태만은 막기 위한 최후의 노력이 분명한 불타는 종이 파편이 크렘린 궁의 창문 밖으로 버려졌습니다. [old_controller.GetNameDef]에게 암울한 날입니다."
 worldnews.271.a:0 "우리는 마지막의 마지막까지 싸울 것이다"
 worldnews.271.b:0 "[old_controller.GetNameDef]의 심장은 우리 것이다!"
 worldnews.271.c:0 "[old_controller.GetNameDef]의 상황은 진정으로 심각해 보인다."
