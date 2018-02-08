@@ -593,16 +593,16 @@ worldnews.260.b:0 "연합의 거점이 함락되었다!"
 worldnews.260.c:0 "아마도 내전이 곧 끝나지 않을까?"
 
 worldnews.261.t:0 "덴버 함락"
-worldnews.261.d.csa:0 "Syndicate militias have been fighting sparse skirmishes with the Federal government across the Great Plains. Today, their efforts culminated as they finally descended on the city of Denver after a large-scale assault across the South Platte Valley, Denver being the capital of Colorado and the main Federal stronghold in the Great Plains.\n\nThe fall of the Queen City of the Plains indeed seems to be a major upset for the future of the United States, and as fighting dies down in the South Platte valley, many experts agree that the Federal government is now almost certain to capitulate to the Syndicate."
-worldnews.261.d.psa:0 "[new_controller.GetAdjective] conscripts have been fighting long, difficult skirmishes with the Federal Government across the Rockies. Today, their efforts came to a close as they finally descended on the city of Denver after a large-scale assault across the South Platte River, Denver being the capital of Colorado and the main Federal stronghold in the Great Plains.\n\nThe fall of the Queen City of the Plains indeed seems to be a major upset for the future of the United States, and as fighting dies down in the South Platte valley, many experts agree that the Federal government is now almost certain to come to terms with [new_controller.GetNameDef]."
-worldnews.261.d.aus:0 "Minutemen militias have been fighting sparse skirmishes with the Federal Government across the Great Plains. Today, their efforts came to a close as they finally descended on the city of Denver after a large-scale assault across the South Platte Valley, Denver being the capital of Colorado and the main Federal stronghold in the Great Plains.\n\nThe fall of the Queen City of the Plains indeed seems to be a major upset for the future of the United States, and as fighting dies down in the South Platte valley, many experts agree that the Federal government is now almost certain to capitulate to the Minutemen."
-worldnews.261.d.other:0 "[new_controller.GetAdjective] forces have been pushing across the Great Plains for a while now. Today, their efforts came to a close as they finally descended on the city of Denver after a large-scale assault across the South Platte Valley, Denver being the capital of Colorado and the main remaining Federal stronghold.\n\nThe fall of the Queen City of the Plains indeed seems to be a major upset for the future of the United States, and as fighting dies down in the South Platte valley, it appears almost certain that [new_controller.GetNameDef] has a definite advantage."
+worldnews.261.d.csa:0 "생디칼리스트 민병대는 그레이트플레인스를 가로지르며 연방 정부와의 자잘한 교전을 치뤄 왔습니다. 오늘, 그들의 기세는 남부 고원을 가로지르는 대공세 이후 마침내 콜로라도 주의 주도이자 그레이트플레인스 지역의 연방 거점인 덴버 시를 함락시키며 절정에 달했습니다.\n\n'퀸 시티'의 함락은 내전의 주도권 균형에 커다란 영향을 끼칠 것으로 보이며 남부 고원 지대의 전투가 끝남에 따라, 많은 전문가들은 연방 정부가 얼마 지나지 않아 항복할 것이 확실하다는 데 동의합니다."
+worldnews.261.d.psa:0 "[new_controller.GetAdjective]의 징집병들은 로키 산맥을 넘으며 연방 정부와의 길고 힘겨운 싸움을 치뤄 왔습니다. 오늘, 그들의 기세는 사우스플랫 강을 건너는 대공세 이후 마침내 콜로라도 주의 주도이자 그레이트플레인스 지역의 연방 거점인 덴버 시를 함락시키며 절정에 달했습니다.\n\n'퀸 시티'의 함락은 내전의 주도권 균형의 커다란 영향을 끼칠 것으로 보이며 남부 고원 지대의 전투가 끝남에 따라, 많은 전문가들은 연방 정부가 이제 [new_controller.GetNameDef]와 협상을 하려 나설 것이 확실하다는 데 동의합니다."
+worldnews.261.d.aus:0 "미니트맨들은 그레이트플레인스를 가로지르며 연방 정부와의 자잘한 교전을 치뤄 왔습니다. 오늘, 그들의 기세는 남부 고원을 가로지르는 대공세 이후 마침내 콜로라도 주의 주도이자 그레이트플레인스 지역의 연방 거점인 덴버 시를 함락시키며 절정에 달했습니다.\n\n'퀸 시티'의 함락은 내전의 주도권 균형에 커다란 영향을 끼칠 것으로 보이며 남부 고원 지대의 전투가 끝남에 따라, 많은 전문가들은 연방 정부가 얼마 지나지 않아 항복할 것이 확실하다는 데 동의합니다."
+worldnews.261.d.other:0 "[new_controller.GetAdjective]군은 계속해서 전선의 적군을 압박해왔습니다. 오늘, 그들의 기세는 남부 고원을 가로지르는 대공세 이후 마침내 콜로라도 주의 주도이자 그레이트플레인스 지역의 연방 거점인 덴버 시를 함락시키며 절정에 달했습니다.\n\n'퀸 시티'의 함락은 내전의 주도권 균형에 커다란 영향을 끼칠 것으로 보이며 남부 고원 지대의 전투가 끝남에 따라, [new_controller.GetNameDef]가 내전에서 유리한 위치에 있음이 확실해 보입니다."
 worldnews.261.a:0 "아직 싸움은 끝나지 않았다!"
 worldnews.261.b:0 "연방의 거점이 함락되었다!"
-worldnews.261.c:0 "미합중국은 더 이상 참지 않을 것이다. 그렇지 않은가?"
+worldnews.261.c:0 "아마도 내전이 곧 끝나지 않을까?"
 
 worldnews.262.t:0 "새크라멘토 함락"
-worldnews.262.d:0 "[new_controller.GetAdjective] forces have been fighting long, difficult skirmishes with Californian conscripts across the Rockies. Today, their efforts came to an end as they finally descended on the city of Sacramento after a large-scale assault across the American River, it being the capital of California and the seat of the Californian State Capitol.\n\nWhile not a strategically important city, it signifies a secure [new_controller.GetAdjective] hold over the Rockies, and as the entire Central Valley now opens up to [new_controller.GetAdjective] soldiers, many experts agree that [old_controller.GetNameDef] would be wise to come to terms with [new_controller.GetNameDef]."
+worldnews.262.d:0 "[new_controller.GetAdjective]군은 로키 산맥을 넘으며 캘리포니아 징집병들과의 길고 힘겨운 싸움을 치뤄 왔습니다. 오늘, 그들의 기세는 아메리칸 강을 건너는 대공세 이후 마침내 캘리포니아 주의 주도이자 캘리포니아 주 의회가 있는 새크라멘토 시를 함락시키며 절정에 달했습니다.\n\n새크라멘토가 전략적으로 크게 중요한 도시는 아니지만, 이 도시의 함락은 [new_controller.GetAdjective]가 로키 산맥을 완전히 장악했다는 것을 의미하며, [new_controller.GetAdjective]의 병사들에게 센트럴 밸리가 완전히 뚫려있기 때문에, 많은 전문가들은 [old_controller.GetNameDef]가 하루라도 빨리 [new_controller.GetNameDef]와 협상하는 것이 현명하다는 데 동의합니다."
 worldnews.262.a:0 "아직 싸움은 끝나지 않았다!"
 worldnews.262.b:0 "캘리포니아의 거점이 함락되었다!"
 worldnews.262.c:0 "아마도 내전이 곧 끝나지 않을까?"
@@ -644,10 +644,10 @@ worldnews.264.e:0 "Singapore is a rightful British colony. Let us watch this dev
 
 worldnews.265.t:0 "시드니 함락" #Siam
 worldnews.265.d:0 "Further expanding on its conquests in the south, [SIA.GetNameDef] has seized Sydney in Australasia. Local defenders were forced to retreat across the Sydney Harbour Bridge to new positions on Observatory Hill, but attempts to demolish the bridge were thwarted by advancing [SIA.GetAdjective] forces.\n\nThe [SIA.GetAdjective] war flag can now be seen hanging from the Sydney Town Hall, which serves as the headquarters of the city's new military administration, and the Sarawat Taharn military police are maintaining a watchful eye on the streets."
-worldnews.265.a:0 "With Sydney in their hands, a new Siamese Empire has risen in the ruins of the British Empire."
-worldnews.265.b:0 "Let the world know that Siam lays claim to the whole of Australasia!"
-worldnews.265.c:0 "We will not surrender until every ranch in the outback is torched!"
-worldnews.265.e:0 "Siam will regret prowling on the Commonwealth when the Royal Navy arrives."
+worldnews.265.a:0 "시드니를 손에 쥔 채로, 새로운 시암 제국이 대영 제국의 폐허에 세워졌다."
+worldnews.265.b:0 "세계에 오스트랄라시아 전 국토에 대한 시암의 권리를 주장해라!"
+worldnews.265.c:0 "아웃백 평원의 모든 목장이 함락될 때까지 우리는 절대 항복하지 않을 것이다!"
+worldnews.265.e:0 "왕립 해군이 도착하면 시암은 영연방을 건드린 것을 후회할 것이다."
 
 worldnews.266.t:0 "홍콩 함락" #Siam
 worldnews.266.d:0 "Troops from [SIA.GetNameDef] have captured the former British Crown Colony of Hong Kong after breaking through the Gin Drinkers Line and landing on Hong Kong Island itself. The situation soon became untenable for the defenders, and the Governor surrendered in person at the Peninsula Hong Kong hotel where the [SIA.GetAdjective] had established their headquarters.\n\nAfter a brief ceremony, a new [SIA.GetAdjective] governor was installed who announced a 'New Hong Kong' to the world, 'free of Western colonialism.'"
