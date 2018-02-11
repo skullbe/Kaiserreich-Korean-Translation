@@ -191,8 +191,8 @@ FRA_totalist_party:0 "자코뱅/소렐리안"
 FRA_totalist_party_long:0 "자코뱅과 소렐리안들"
 FRA_radical_socialist_party:0 "아나키스트"
 FRA_radical_socialist_party_long:0 "아나키스트"
-FRA_syndicalist_party:0 "노동당"
-FRA_syndicalist_party_long:0 "노동당"
+FRA_syndicalist_party:0 "노동파"
+FRA_syndicalist_party_long:0 "노동파"
 FRA_social_democrat_party:0 "사회 민주주의자"
 FRA_social_democrat_party_long:0 "사회 민주주의자"
 FRA_social_liberal_party:0 "사회 자유주의자"
@@ -209,8 +209,8 @@ FRA_national_populist_party:0 "표퓰리스트들"
 FRA_national_populist_party_long:0 "표퓰리스트들"
 FRA_sorelians:0 "소렐리안"
 FRA_jacobins:0 "자코뱅"
-FRA_parti_communiste:0 "PCF"
-FRA_parti_communiste_long:0 "프랑스 공산주의 정당"
+FRA_parti_communiste:0 "공산당"
+FRA_parti_communiste_long:0 "프랑스 공산당"
 
 ### Leader Descriptions ###
 POLITICS_SEBASTIEN_FAURE_DESC:0 "Sébastien Faure is the first Anarchiste to serve as Chairman of the Bourse Générale du Travail. Originally empowered to chairman in a compromise between the Travailleurs and Anarchistes, factionalism has grown considerably during his time in office, and the apparatus of the state has weakened. If any faction manages to gain a clear majority in the Comité de Salut Public and the Bourse Générale du Travail, Faure is likely to be ousted."
@@ -557,7 +557,7 @@ comfrance.14.d:0 "노동 총위원회에서 공안위원회의 새로운 창단�
 comfrance.14.a:0 "혁명이여, 영원하라!"
 
 comfrance.15.t:0 "선거 결과: 소렐주의 우세"
-comfrance.15.d:0 "선거는 마침내 조르주 소렐(Georges Sorel)의 혁명 이론의 충성스런 지지자들인 프랑스 코뮌의 군부 정당에게 권력을 주었고, 지금 전국적인 피의 숙청의 희생자이자 그들의 오랜 적인 자코뱅을 패배시켰다. 노동당 시대의 유약함 뒤에, 프랑스 정치의 새로운 시대가 시작되었다... 이제 프랑스 국민의 지도자를 결정할 때이다..."
+comfrance.15.d:0 "선거는 마침내 조르주 소렐(Georges Sorel)의 혁명 이론의 충성스런 지지자들인 프랑스 코뮌의 군부 정당에게 권력을 주었고, 지금 전국적인 피의 숙청의 희생자이자 그들의 오랜 적인 자코뱅을 패배시켰다. 노동파 시대의 유약함 뒤에, 프랑스 정치의 새로운 시대가 시작되었다... 이제 프랑스 국민의 지도자를 결정할 때이다..."
 comfrance.15.a:0 "발루아는 노동 총위원회, 부카르는 공안위원회의 대표가 될 것이고, 이들이 프랑스의 새 얼굴이 될것이다! "
 comfrance.15.b:0 "축하하오, 발루아 동지"
 
@@ -582,7 +582,7 @@ comfrance.19.b:0 "베누아 프라숑이 노동 총위원회의 의장이 될것
 
 comfrance.20.t:0 "선거에서 아무도 과반수를 차지하지 못하다"
 comfrance.20.d:0 "3일에 걸친 검증 이후, 결과가 공표되었다. 최근의 선거에서 확고한 과반수는 없었다. 노동 총위원회의 의장인 세바스티앙 포르(Sebastien Faure)는 자코뱅파와 소렐주의파 간의 내부적인 싸움을 피하기 위해, 그와 의회가 타협 내각을 이끌 새로운 의장을 선출하겠다고 밝혔다."
-comfrance.20.a:0 "노동당의 조호와 블룸이 중도파를 단결시켰다!"
+comfrance.20.a:0 "노동파의 조호와 블룸이 중도파를 단결시켰다!"
 comfrance.20.b:0 "프라숑이 아나키스트와 타협하였다!"
 comfrance.20.c:0 "피베르를 다시 부른다."
 
@@ -1183,7 +1183,7 @@ comfrance.148.c:0 "소렐주의: 전시경제에 집중해야 한다!"
 comfrance.148.e:0 "아나키스트: 협동조합에 더 많은 힘을!"
 
 comfrance.149.t:0 "1941년도 코뮌 선거 - 외교 정책"
-comfrance.149.d:0 "다음 위원회에서 가장 중요한 이슈 중 하나는 의심할 여지 없이 급변하는 세계 정세에 대한 대응책이다. 노동당은 인터내셔널과 더 많은 협력을 원하고 있지만, 아나키스트는 구 질서를 모두 쓸어버릴 해방의 물결을 시작하기를 원한다. 소렐주의자들과 자코뱅은 강경한 외교관을 가지고 있다."
+comfrance.149.d:0 "다음 위원회에서 가장 중요한 이슈 중 하나는 의심할 여지 없이 급변하는 세계 정세에 대한 대응책이다. 노동파는 인터내셔널과 더 많은 협력을 원하고 있지만, 아나키스트는 구 질서를 모두 쓸어버릴 해방의 물결을 시작하기를 원한다. 소렐주의자들과 자코뱅은 강경한 외교관을 가지고 있다."
 comfrance.149.a:0 "생디칼리스트: 인터내셔널이 평화를 보증해야 한다!"
 comfrance.149.b:0 "자코뱅: 붉은 깃발은 세계 만방에서 휘날릴 것이다!"
 comfrance.149.c:0 "소렐주의: 반동분자들은 완벽하게 제거되어야 한다!"
