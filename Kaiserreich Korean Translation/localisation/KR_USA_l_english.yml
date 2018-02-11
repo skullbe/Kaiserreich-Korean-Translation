@@ -12,12 +12,12 @@ USA_reed_victory_tooltip:0 "§G존 실라스, 잭, 리드가 미국 대선에서
 USA_presidential_election_tooltip:0 "§G대선이 진행되고 있습니다...§!"
 USA_reconstruction_tooltip:0 "내전은 끝났고, 미국을 재건할 시간입니다."
 USA_civil_economy_tooltip:0 "내전을 대비해 경제를 준비시키자!"
-USA_united_provinces_invitation_tooltip:0 "We must make sure that the United Provinces is loyal and remains friendly to our interests and doesn't get overrun by syndicalism from Centroamérica."
-USA_panaman_invention_tooltip:0 "We must make sure that Panamá is loyal and remains friendly to our interests and doesn't get overrun by syndicalism from Centroamérica."
-USA_cuban_invitation_tooltip:0 "Cuba lies within the American Pond of the Caribbean. It is in our interests to make sure that Cuba remains friendly to the United States and our interests."
-USA_haitian_invitation_tooltip:0 "Haiti lies within the American Pond of the Caribbean. It is in our interests to make sure that Haiti remains friendly to the United States and our interests."
-USA_dominican_invitation_tooltip:0 "The Dominican Republic lies within the American Pond of the Caribbean. It is in our interests to make sure that The Dominican Republic remains friendly to the United States and our interests."
-USA_peruvian_invitation_tooltip:0 "The government of Peru stands as a bulwark against syndicalism in the Andes. We should make sure that they remain friendly to American Businesses and of course the American government."
+USA_united_provinces_invitation_tooltip:0 "우리는 아메리카 연합주가 충성하고 우리의 관심사에 호의적이며 중앙아메리카(Centroamérica)의 생디칼리즘에 의해 무너지지 않도록 해야합니다."
+USA_panaman_invention_tooltip:0 "우리는 파나마가 충성하고 우리의 관심사에 호의적이며 중앙아메리카(Centroamérica)의 생디칼리즘에 의해 무너지지 않도록 해야합니다."
+USA_cuban_invitation_tooltip:0 "쿠바는 카리브해의 아메리카의 연못에 있습니다. 쿠바가 미합중국과 우리의 이익에 호의적이도록 확실히 하는 것이 우리의 관심사입니다."
+USA_haitian_invitation_tooltip:0 "아이티는 카리브해의 아메리카의 연못에 있습니다. 아이티가 미합중국과 우리의 이익에 호의적이도록 확실히 하는 것이 우리의 관심사입니다."
+USA_dominican_invitation_tooltip:0 "도미니카 공화국은 카리브해의 아메리카의 연못에 있습니다. 도미니카 공화국이 미합중국과 우리의 이익에 호의적이도록 확실히 하는 것이 우리의 관심사입니다."
+USA_peruvian_invitation_tooltip:0 "페루 정부는 안데스 산맥에서 생디칼리즘에 맞선 방벽 역할을 하고 있습니다. 우리는 그들이 미국 기업과 미국 정부에 호의적이도록 확실히 해야합니다."
 
 ### Focuses - Presidents ###
 USA_1936_election:0 "1936년 대선"
@@ -58,7 +58,7 @@ USA_support_aclu:0 "시민자유법 통과"
 USA_support_aclu_desc:0 "As President Curtis takes office he gives a stirring speech over the radio to the whole nation. Addressing the political conflict he says that the guiding ideal for his administration will be malice towards none and charity towards all. To that end he passes the Civil Liberties act to help safeguard Freedom and Liberty in America. A token gesture for the most part, but one that might just save America."
 USA_banking_act:0 "공공기반시설 법안 통과"
 USA_banking_act_desc:0 "To help get Americans back to work and improve the economy, Curtis has put forth to Congress an Infrastructure bill that would greatly improve the infrastructure throughout the country. It will take time to complete but the work will help America get back on her feet."
-USA_wagner_act:0 "리드와 타협"
+USA_wagner_act:0 "리드와의 타협"
 USA_wagner_act_desc:0 "Curtis has sat down with Reed and has hashed out a compromise with Reed. A set of laws will thus be proposed to Congress to make sure that what was agreed to at the negotiations are implemented. Hopefully these reforms are enough to keep the tinderbox from exploding."
 
 ### Focuses - MacArthur ###
