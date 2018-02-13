@@ -1,8 +1,8 @@
 l_english:
 
 ### Tooltips ###
-MAD_receive_one_regiment:0 "Will receive one infantry regiments in the capital\n"
-MAD_receive_two_regiments:0 "Will receive two infantry regiments in the capital\n"
+MAD_receive_one_regiment:0 "수도에서 보병 사단 하나를 얻게 될 것입니다.\n"
+MAD_receive_two_regiments:0 "수도에서 보병 사단 둘을 얻게 될 것입니다.\n"
 
 ### Events ###
 madras.1.t:0 "National Elections - 1936"

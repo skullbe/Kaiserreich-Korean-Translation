@@ -376,7 +376,7 @@ AUS_still_their_king:0 "우리는 아직도 그들의 왕이다"
 AUS_still_their_king_desc:0 "헝가리는 그들이 원하는 것을 주장 할 수 있고, 우리는 여전히 그들의 종주국이며, 현재 우리는 전쟁과 외부 위협에 처해있다. 어떻게 끝날지라도, 우리는 지금 당장은 이 차이점은 내버려둘 필요가있다."
 
 AUS_cisleithania_centralised:0 "시슬라이타니아(오스트리아)의 중앙 집권화"
-AUS_cisleithania_centralised_desc:0 "우리의 계속되는 개혁으로 제국이한데 모이고 있습니다. 물론 헝가리는 여전히 저항하고 있지만 오스트리아는 그 어느 때보 다 더 연합되어 있다는 것을 부정 할 수는 없습니다."
+AUS_cisleithania_centralised_desc:0 "우리의 계속되는 개혁으로 제국이 한데 모이고 있습니다. 물론 헝가리는 여전히 저항하고 있지만 오스트리아는 그 어느 때보 다 더 연합되어 있다는 것을 부정 할 수는 없습니다."
 
 AUS_ausgleich_1947:0 "1947 년의 대타협 재협상"
 AUS_ausgleich_1947_desc:0 "대타협이 다시 한 번 재협상 될 예정이며, 이번에는 오스트리아 제국의 절반이 지난 협상보다 훨씬 더 우위에 있습니다. 우리는 지금 우리의 의지를 그들에게 강요할 것입니다."
@@ -1082,7 +1082,7 @@ ausgleich.new.700.b:0 "아니."
 ausgleich.new.700.c:0 "우리가 반기를 든 곳이 아닌가?"
 
 ausgleich.new.701.t:0 "[From.GetNameDef]는 재통합에 동의합니다"
-ausgleich.new.701.d:0 "[From.GetAdjective]정부는보다 중앙 집권적인 국가의 제안에 동의했습니다."
+ausgleich.new.701.d:0 "[From.GetAdjective]정부는 보다 중앙 집권적인 국가의 제안에 동의했습니다."
 ausgleich.new.701.a:0 "멋지군."
 
 
