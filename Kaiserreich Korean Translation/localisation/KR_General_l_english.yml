@@ -126,10 +126,10 @@ CAN_KR_GATHERING_STORM_DESC:0 "1925년 혁명 이후, 왕실과 영국인 망명
 RUS_KR_GATHERING_STORM_DESC:0 "러시아 내전 동안, 백군은 가진 모든 것을 가지고 싸웠지만, 적군은 여전히 국가의 산업 중심부를 장악했었습니다. 하지만 독일 제국이 붉은 러시아를 두려워해 백군을 지원하며 개입하기로 결정했습니다. 2년 후, 모스크바와 페트로그라드는 백군에게 넘어갔고 새로운 러시아 공화국이 설립되었습니다. 지난 15년 동안, 여당인 S-R과 카데츠의 불안한 연합은 케렌스키 대통령의 밑에서 러시아를 다스려왔지만, 러시아는 점차 불안정해지고 있습니다. 다른 정치 세력들이 성장하고 있으며, 그들은 세계에 러시아의 힘을 다시 보여주기 위해 변화할 시간이 지금이라고 생각하고 있습니다..."
 
 ### United States ###
-USA_KR_GATHERING_STORM_DESC:0 "미합중국은 대전쟁에서 고립에서 개입으로 정책을 변경할뻔 했지만, 결국에는 전쟁에서 벗어나 있었습니다. 이것은 동맹국의 승리로 이어졌습니다. 그 이후로, 미합중국은 유럽 무역 기회에 있어서 경제적으로 어려움을 겪어왔고 협상국의 빚 상환은 독일의 승리로 인해 불가능해졌습니다. 여전히 국제적으로 '아무 것도 아닌 곳'으로 여겨지는 미합중국은 커져가는 내부의 반대를 마주쳤는데, 공화당-민주당의 독주 체제가 두 단체에게 도전받았습니다 - 바로 생디칼리스트들과 미국제일당입니다. 커져만 가는 본국에서의 위기와 해외에서의 긴장감은, 미합중국에게 좋지 않은 상황입니다..."
+USA_KR_GATHERING_STORM_DESC:0 "미합중국은 대전쟁에서 고립에서 개입으로 정책을 변경할뻔 했지만, 결국에는 전쟁에서 벗어나 있었습니다. 이것은 동맹국의 승리로 이어졌습니다. 그 이후로, 미합중국은 유럽 무역 기회에 있어서 경제적으로 어려움을 겪어왔고 협상국의 빚 상환은 독일의 승리로 인해 불가능해졌습니다. 여전히 국제적으로 '아무 것도 아닌 곳'으로 여겨지는 미합중국은 커져가는 내부의 반대를 마주쳤는데, 공화당-민주당의 독주 체제가 두 단체에게 도전받았습니다 - 바로 생디칼리스트들과 아메리카 우선당입니다. 커져만 가는 본국에서의 위기와 해외에서의 긴장감은, 미합중국에게 좋지 않은 상황입니다..."
 
 ### Japan ###
-JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일본의 권리를 보장해줬지만, 욱일제국에서 모든 것이 잘 풀린 것은 아닙니다. 경제적 동요 이후 1926년 생디칼리스트의 히로히토 섭정-왕자 암살 시도로 그 극에 이르렀고, 불안정한 정부는 또다른 위기의 해를 보냈습니다; 첫 문제는 다나카 장군이었고, 다음은 민주 연립 내각이었으며 그 다음은 북동부 중국에 대한 개입이었습니다. 1936년, 일본은 제국을 확장할 태세를 취했습니다. 독일의 지배가 쇠퇴하고 있는것으로 보이는 가운데, 일본인들은 남은 청나라의 영토와 독일의 태평양 지역들을 탐내고 있습니다..."
+JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일본의 권리를 보장해줬지만, 욱일제국에서 모든 것이 잘 풀린 것은 아닙니다. 경제적 동요 이후 1926년 생디칼리스트의 히로히토 섭정-왕자 암살 시도로 그 극에 이르렀고, 불안정한 정부는 또다른 위기의 해를 보냈습니다; 첫 문제는 다나카 장군이었고, 다음은 민주 연립 내각이었으며 그 다음은 북동부 중국에 대한 개입이었습니다. 1936년, 일본은 제국을 확장할 태세를 취했습니다. 독일의 지배가 쇠퇴하고 있는 것으로 보이는 가운데, 일본인들은 남은 청나라의 영토와 독일의 태평양 지역들을 탐내고 있습니다..."
 
 ### Minor Nations ###
 
@@ -140,7 +140,7 @@ ETH_KR_GATHERING_STORM_DESC:0 "Abyssinia was one of the only countries in Africa
 LBR_KR_GATHERING_STORM_DESC:0 "Liberia is an independent West African nation under the protection of the United States of America. Secret Societies, such as Poro for the lower classes and the Masonic Order of Liberia at the top ensure that the rich stay rich, and the poor can govern themselves from behind a mask of secrecy. During the Revolution in Britain, Sierra Leone was occupied and then annexed by France. The wave of Leonese refugees was exceeded by the Ivorian refugees later. Now Liberia is engulfed by debt from failed projects, and her future uncertain. Will President Edwin Barclay, a legitimist in the TWP, be able to save Liberia from disaster?."
 
 ### Mittelafrika ###
-MAF_KR_GATHERING_STORM_DESC:0 "Born after the absorption of French and Belgian colonies, the Freistadt Mittelafrika is a massive swath of land, composed of Cities, Chiefdoms, Kingdoms, Farmlands, Jungles, Savannahs, Deserts and more; for it covers half of the Dark Continent. A complex web weave of treaties, agreements and tacit understandings, the Colony, while stable, is remarkably unprofitable; something that the new man in charge, Hermann von Göring, and his men wish to change, no matter the cost. But could that cost be too great for Mittelafrika to pay? And will the Kaiser allow Göring to take such a risk?"
+MAF_KR_GATHERING_STORM_DESC:0 "프랑스와 벨기에의 식민지를 흡수한 후에 태어난 자유주 중앙아프리카는 도시, 군장국가, 왕국, 농지, 정글, 사바나, 사막 등으로 구성된 거대한 땅이며 검은 대륙의 절반을 뒤덮고 있습니다. 식민지는 복잡하고 거미줄처럼 얽힌 조약과 협정, 묵약으로 이루어져 있으며 안정적이지만 수익성은 놀랄 정도로 없습니다. 새 총독인 헤르만 폰 괴링과 그의 부하들은 이를 어떤 비용을 들여서라도 바꾸고 싶어합니다. 하지만 그 비용은 중앙아프리카가 지불하기에는 너무 크지 않을까요? 그리고 황제께서 괴링이 그런 위험을 감수하는 것을 허락할까요?"
 
 ### Norway ###
 NOR_KR_GATHERING_STORM_DESC:0 "노르웨이 왕국은 대전쟁 동안 중립 정책을 추구했고 1921년 평화 조약 이후에도 여전히 영국의 영향력 하에 있었지만, 1925년 영국 혁명이 노르웨이 경제를 수렁에 빠뜨렸을 때 영국에 대한 의존을 끝내야 한다는 의견이 힘을 얻었습니다. 이웃 국가들과는 달리, 노르웨이는 독일의 '관세 동맹'에 가입하지 않았고, 결과적으로 대륙 무역의 부족으로 인해 경제 회복의 전망은 어두워졌습니다. 대중들이 민주주의에 대한 자신감을 점점 잃어 가는 상황에서, 생디칼리스트들과 국가주의자들은 급진적인 해결책을 요구하고 있고 1936년 선거는 빠르게 다가오고 있습니다..."
@@ -149,7 +149,7 @@ NOR_KR_GATHERING_STORM_DESC:0 "노르웨이 왕국은 대전쟁 동안 중립 �
 POR_KR_GATHERING_STORM_DESC:0 "1922년 공화국에 닥쳐온 재앙과 그것으로 인한 국민들의 정부에 대한 반발은 결국 포르투갈 왕국을 복원시켰습니다. 여러 정보 기관들의 정치적 통제 하에 있는 왕국은 1926년, 두 번째 최후 통첩이 이루어졌던 해 이래로 미틀아프리카와의 팽팽한 국경 분쟁은 흔한 일로 받아들이게 되었고, 앙골라와 모잠비크의 왕에게 보낸 합리적인 세 가지 제안은 거절되었습니다. 포르투갈이 대륙 끝자락에서 유럽의 일에 무관심해 있는 동안에, 생디칼리즘의 위협이 유럽을 뒤덮고, 스페인에는 내전의 먹구름이 드리우고 있는 지금, 대영 제국과 체결했던 조약을 재검토할 때가 왔습니다..."
 
 ### Serbia ###
-SER_KR_GATHERING_STORM_DESC:0 "Being the catalyst for the Weltkrieg, the war proved disastrous for Serbia. Until the 1920s the country was under Austrian military occupation, when it was reestablished as a rump state. The country has kept a low profile, knowing that trying to retake any of the lost land would result in the wrath of Austria-Hungary. While officially a kingdom, Petar Bojovic has ruled Serbia for almost two decades as regent. Now though, the situation is changing. Romania and Greece are looking to regain their lost territory from Bulgaria, and with the 1937 Ausgleich negotiations in Austria, Serbia might be able to finally reassert herself as an independent power..."
+SER_KR_GATHERING_STORM_DESC:0 "세계 대전의 촉매가 된 이 전쟁은 세르비아에게 재앙이었습니다. 1920년대까지 이 나라는 오스트리아의 군사 점령 하에 있었으며, 잔재국으로 다시 세워졌습니다. 잃어버린 땅을 탈환하려고 하면 오스트리아와 헝가리의 노여움을 살 것이 분명했기 때문에, 세르비아는 이를 주목하지 않았습니다. 공식적으로 왕국을 유지하는 동안, 페타르 보조비치는 섭정으로 거의 20년 동안 세르비아를 통치했습니다. 하지만 상황이 바뀌고 있습니다. 루마니아와 그리스는 불가리아에 빼앗긴 땅을 다시 되찾고자 하고 있으며, 1937년 오스트리아의 대타협 협상으로 세르비아가 마침내 독립국으로 다시 나설 수 있을지도 모릅니다..."
 
 ### Somalia ###
 SOM_KR_GATHERING_STORM_DESC:0 "Somalia was born out of the Weltkrieg, as the different protectorates of Italy rallied under the flag of Warsangali by the war's end. While nominally a federation with its capital at Mogadishu, much power emanates from Las Khorey. The legal limbo of the federation is unnerving and meet with criticism from the youth and army officers. The transformations in the economy that independence brought, such as railroads and factories and well armed military forces, contrast with famines and the traditional way of the rural areas. But this prosperity might not last, for Abyssinia's gaze turns towards the Ogaden, and war fast approaches... "
