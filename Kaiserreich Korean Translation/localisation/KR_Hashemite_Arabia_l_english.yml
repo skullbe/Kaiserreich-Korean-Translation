@@ -1,8 +1,8 @@
 ﻿l_english:
 
 ### Opinion Modifiers ###
-ott_jabalshammar:0 "Treason"
-sau_rebuild:0 "Respected our sovereignty"
+ott_jabalshammar:0 "반역죄"
+sau_rebuild:0 "우리의 주권을 존중함"
 
 ### Tooltips ###
 
@@ -14,15 +14,15 @@ sau_rebuild:0 "Respected our sovereignty"
 
 ### Events ###
 
-arabia.1.t:0 "Hashemite Arabia introduction"
+arabia.1.t:0 "하심가 아라비아 소개"
 arabia.1.d:0 "Under the control of regional powers such as Egypt and the Ottoman Empire through most of its history, the Kingdom of Hejaz gained political independence in the early 20th century. It was one of several regions of the Ottoman Empire provoked into rebellion by T. E. Lawrence (""of Arabia"") of the British during the Weltkrieg. In 1916, its independence was proclaimed by Hussein bin Ali, the Sharif of Mecca. Their hopes of freeing the Arabs north of them were curtailed by Britain's diversion of forces from the region and Ottoman propaganda campaigns after the Sykes-Pycot agreement was publicized by the Bolsheviks. When the British fell back past the Sinai and Mesopotamia after the Peace with Honour, the Arab revolters decided to make their stand in the region of Nejd and its capital, Riyadh. The Ottoman forces, strained after many years of war, were unable to overcome the Arab fighters and in the end a separate armistice was signed where the Kingdoms of Nejd and Hejaz were recognized as independent states. Soon after that, bin Ali was able to gain control over Nejd, annexing it to Hejaz in 1922. Thanks to the protection of Egypt, Hejaz has been able to survive until the present, and the decline of the Ottoman Empire may allow another attempt to free the Arabs still living under the Ottoman rule."
-arabia.1.a:0 "We shall unite all Arabs under our rule!"
+arabia.1.a:0 "우린 모든 아랍국가를 통합시킬 것이다!"
 
-arabia.2.t:0 "Refugees from the Ottoman Empire"
+arabia.2.t:0 "오스만 제국으로부터의 망명자들"
 arabia.2.d:0 "Ever since the Arab Congress in Cairo fleshed out the ambitions of the Arab Bloc, the Arabian vilayets of the Ottoman Empire have been in turmoil. Now Bedouins as well as Levantines cross the border to the Hedjaz, hoping to join the Shariffian forces in taking up arms against the Turkish menace."
 arabia.2.a:0 "With the help of God and Cairo, we shall prevail!"
 
-arabia.3.t:0 "Refugees from the Ottoman Empire"
+arabia.3.t:0 "오스만 제국으로부터의 망명자들"
 arabia.3.d:0 "Ever since the Arab Congress in Cairo fleshed out the ambitions of the Arab Bloc, the Arabian vilayets of the Ottoman Empire have been in turmoil. Now Bedouins as well as Levantines cross the border to the Hedjaz, hoping to join the Shariffian forces in taking up arms against the Turkish menace."
 arabia.3.a:0 "Our army grows ever larger!"
 
