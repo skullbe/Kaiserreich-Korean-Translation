@@ -242,7 +242,7 @@ market_liberal:0 "시장자유주의자"
 social_conservative:0 "사회보수주의자"
 authoritarian_democrat:0 "권위민주주의자"
 paternal_autocrat:0 "세습전제주의자"
-national_populist:0 "국가대중주의자"
+national_populist:0 "국가인민주의자"
 social_liberal:0 "사회자유주의자"
 
 ### Drift ###
@@ -254,7 +254,7 @@ market_liberal_drift:0 "매일 시장자유주의 지원"
 social_conservative_drift:0 "매일 사회보수주의 지원"
 authoritarian_democrat_drift:0 "매일 권위민주주의 지원"
 paternal_autocrat_drift:0 "매일 세습전제주의 지원"
-national_populist_drift:0 "매일 국가대중주의 지원"
+national_populist_drift:0 "매일 국가인민주의 지원"
 social_liberal_drift:0 "매일 사회자유주의 지원"
 
 ### Banned ###
@@ -266,7 +266,7 @@ market_liberal_banned:0 "시장자유주의 금지됨"
 social_conservative_banned:0 "사회보수주의 금지됨"
 authoritarian_democrat_banned:0 "권위민주주의 금지됨"
 paternal_autocrat_banned:0 "세습전제주의 금지됨"
-national_populist_banned:0 "국가대중주의 금지됨"
+national_populist_banned:0 "국가주의 금지됨"
 social_liberal_banned:0 "사회자유주의 금지됨"
 
 ### Company Traits ###
@@ -459,8 +459,8 @@ fighter_techs:0 "전투기 장비"
 fighter_techs_research:0 "전투기 장비 연구 시간"
 support_tech:0 "지원장비"
 support_tech_research:0 "지원장비 연구 시간"
-cat_strategic_destruction:0 "Strategic Destruction Tech"
-marine_tech_research:0 "Marines Tech Research Time"
+cat_strategic_destruction:0 "전략 파괴 기술"
+marine_tech_research:0 "해병대 기술 연구 시간"
 
 ### Army Command Traits ###
 
