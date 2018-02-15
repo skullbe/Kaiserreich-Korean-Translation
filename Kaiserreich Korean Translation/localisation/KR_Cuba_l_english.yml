@@ -5,7 +5,7 @@ CUB_no_int_CAN:0 "쿠바가 카리브해 연방에 합병되는 것을 거부"
 CUB_CAF_Cuban_Minster_no:0 "장관들은 선거를 기다릴 것입니다"
 
 ### Ideas ###
-havana_general_strike:0 "Havana General Strike"
+havana_general_strike:0 "아바나 총파업"
 
 ### Parties ###
 CUB_totalist_party:0 "URC"
@@ -17,9 +17,9 @@ CUB_syndicalist_party_long:0 "대중사회주의당"
 CUB_social_democrat_party:0 "CSD"
 CUB_social_democrat_party_long:0 "사회민주주의 연합"
 CUB_social_liberal_party:0 "PLC"
-CUB_social_liberal_party_long:0 "쿠바 진보당"
+CUB_social_liberal_party_long:0 "쿠바 자유당"
 CUB_market_liberal_party:0 "PLC"
-CUB_market_liberal_party_long:0 "쿠바 진보당"
+CUB_market_liberal_party_long:0 "쿠바 자유당"
 CUB_social_conservative_party:0 "PUC"
 CUB_social_conservative_party_long:0 "헌법연합당"
 CUB_authoritarian_democrat_party:0 "CNP"
