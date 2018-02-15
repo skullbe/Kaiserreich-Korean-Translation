@@ -1,27 +1,27 @@
 l_english:
 
 ### Ideas ###
-DKB_black_monday_1:0 "Berlin Stock Crisis"
-DKB_black_monday_2:0 "Initial stabilisation"
-DKB_workers_unions:0 "Agreement with the trade-union"
-DKB_Internal_crisis:0 "Internal crisis"
+DKB_black_monday_1:0 "베를린 주식시장 붕괴"
+DKB_black_monday_2:0 "초기 안정화"
+DKB_workers_unions:0 "노동조합과의 협약"
+DKB_Internal_crisis:0 "내부 위협"
 
 ### Events ###
-dkb.1.t:0 "Don-Kuban Union"
+dkb.1.t:0 "돈쿠반 연합"
 dkb.1.d:0 "Don-Kuban Union was proclaimed by Pyotr Krasnov on the 18th of May 1918, when he was elected as the 'Ataman' ('Leader') of the Don Cossacks. Since then Krasnov, who used to be a connecting link between the leadership of the White Army and the Germans, started to strengthen his regime in South Russia, by improving his relations with the separatist leaders of the Kuban and Terek Cossacks. With the German help Don-Kuban Union could finally break away from Russia, which Krasnov as the Ataman of the Union condemned for its new republican system, using the conservative and pro-monarchist feelings of the South Russian population. But the new established Union still have to face with lots of problems. The lack of the modern industry weakens the army of the Union, the people want the land redistribution and reunification with Russia, the separatist tensions in the various parts of the Caucasus grow. If Pyotr Krasnov wants to stay as the Ataman of the Don-Kuban Union, he will have to deal with all these problems in his country."
 dkb.1.a:0 "Krasnov should bring an order to the Union."
 
-dkb.2.t:0 "Cossack Circle"
+dkb.2.t:0 "코삭 지역구"
 dkb.2.d:0 "'Kazachiy Krug' ('Cossack Circle') is the main legislative and executive state authority in Don-Kuban Union. The member of this 'Krug' represents the Russians, Don, Kuban and Terek Cossacks, the Kalmyks, the Chechens and other minorities in our country. This authority has a right to discuss almost every significant question, which has relation to the life in the country. Though Krasnov can promulgate his orders even without the approval of the 'Krug', but he has to consider its opinion in every case, if he wants to remain control over the Union."
 dkb.2.a:0 "This 'Krug' is very important."
 
-dkb.3.t:0 "Berlin Stock Crisis comes to the Don-Kuban Union"
+dkb.3.t:0 "돈쿠반 연합에 베를린 주식시장 붕괴 여파가 강타했다"
 dkb.3.d:0 "As predicted the Union's finances and economy are in deep crisis. The average Cossack faces problems selling his products and a number of factories are closing. This means that various dangerous elements will have a greater impact upon the political landscape of the Cossack country."
-dkb.3.a:0 "God save us from the worst."
+dkb.3.a:0 "신이시여 이 상황을 벗어나게 해주소서."
 
-dkb.4.t:0 "Initial stabilisation"
+dkb.4.t:0 "초기 안정화"
 dkb.4.d:0 "With the first wave of the crisis slowly passing by, some less affected branches of the economy have bounced off the bottom. Still, the overall state of our economy does not look optimistic..."
-dkb.4.a:0 "Let's hope stabilisation will come soon."
+dkb.4.a:0 "빨리 안정화가 되기를 바란다."
 
 dkb.5.t:0 "Further stabilisation"
 dkb.5.d:0 "The economy continues to regain pre-crisis efficiency."
