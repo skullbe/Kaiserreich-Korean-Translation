@@ -29,9 +29,9 @@ GEX_national_populist_party_long:0 "범 독일 연맹"
 ### Focuses ###
 GEX_darkest_hour:0 "가장 암울한 시기"
 GEX_darkest_hour_desc:0 "우리의 국토에서 쫓겨나 생디칼리스트 떼거리에 쥐떼처럼 도망쳤다. 이는 참으로 우리 국가가 겪은 것 중 가장 암울한 시기이다."
-GEX_kili:0 "Der Schuss am Kilimandscharo(킬리만자로에서의 탄환)"
+GEX_kili:0 "킬리만자로에서의 탄환"
 GEX_kili_desc:0 "국토에서 패주할 때 우리는 많은 기반시설이나 장비들을 가지고 오지 못하였다. 우리가 겨우 가지고 나온 것은 핵심적인 핵 기술이다. 우리는 킬리만자로에서 실험을 진행하여 고향에 돌아가는 데 도움을 줄 병기의 잠재력을 극대화해야 한다."
-GEX_air:0 "Fünf Wochen in der Luft(하늘에서의 5주간)"
+GEX_air:0 하늘에서의 5주간"
 GEX_air_desc:0 "놀랍지 않게도 우리의 공군력은 아프리카로의 비행동안 거의 다 소실되었다. 우리는 재훈련이 필요하고 이전의 MAF 공군을 우리 제국의 기준으로 훈련시켜야만 하며 그렇지 않다면 본토를 회복하는 것은 거의 불가능한 것으로 드러날 것이다."
 GEX_exiled_eco:0 "우리가 가진 것이 얼마나 약소한가..."
 GEX_exiled_eco_desc:0 "우리가 보유한 것이 적으므로 우리는 극대화하고 그것을 최대한의 효율성으로 활용해야 한다. 우리의 노동력에 대한 110%의 생산 쿼터와 효율성을 최대한 짜 내는 것이 최대화와 극대화의 달성이라는 긴 여정의 시작이 될 것이다."
@@ -78,4 +78,4 @@ GEX_askari4:0 "타협은 없다!"
 GEX_way_home:0 "조국으로의 접근"
 
 ### Tooltips ###
-GEX_fled_europe:0 "Germany has fled Europe\n"
+GEX_fled_europe:0 "독일이 유럽에서 탈출함\n"
