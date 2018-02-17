@@ -454,13 +454,13 @@ AUS_us_looking_outwards_desc:0 "바깥을 바라보다"
 ### Foreign Branch
 
 AUS_protector_of_the_balkans:0 "발칸 반도의 보호자"
-AUS_protector_of_the_balkans_desc:0 "The Weltkrieg has left the Balkans by large as an Austrian zone of influence. Unfortunately, we had to focus on other things during the last few years. We shall now remedy this and once again show who is the master of the house."
+AUS_protector_of_the_balkans_desc:0 "세계대전은 방대한 오스트리아의 영향권에서 발칸 반도를 떠나게 했습니다. 안타깝게도, 우리는 지난 몇년 동안 다른 것들에 주력해야 했습니다. 우리는 이제 이것을 바로잡고 다시 한번 누가 이 땅의 주인인지 보여 줄 것입니다."
 
 AUS_potb_help_romania:0 "루마니아에 개입"
-AUS_potb_help_romania_desc:0 "Codreanu's regime is failing, and Romania is being torn by civil war. By intervening on the Romanian side, we might turn the tides in their favour."
+AUS_potb_help_romania_desc:0 "코드레아누의 정권은 무너지는 중이고 루마니아는 내전으로 찢어지고 있습니다. 하지만 우리가 루마니아에 개입한다면 전세를 역전시킬 수도 있을 것입니다."
 
 AUS_potb_invite_romania:0 "루마니아에 접근"
-AUS_potb_invite_romania_desc:0 "The Romanian Kingdom, now secure again, must be brought into the fold."
+AUS_potb_invite_romania_desc:0 "이제 다시 안전해진 루마니아 왕국은 반드시 우리 편으로 끌어들여야 합니다."
 
 AUS_potb_albania:0 "알바니아에 접근"
 AUS_potb_greece:0 "그리스에 접근"
@@ -468,10 +468,10 @@ AUS_potb_serbia:0 "세르비아 처리"
 AUS_potb_serbia_2:0 "남부 슬라브인 문제"
 
 AUS_potb_take_down_bulgaria:0 "불가리아 문제"
-AUS_potb_take_down_bulgaria_desc:0 "We have almost restored balance in the Balkans, were there not the decrepit Tsardom of Bulgaria clinging onto a good portion of it - we shall remedy this as soon as possible."
+AUS_potb_take_down_bulgaria_desc:0 "우리는 발칸 반도의 균형을 거의 되찾았습니다. 만약 불가리아의 낡은 황제가 계속 버티고 있지 못하게 한다면 - 우리는 이것을 더욱 빠르게 완수할 것입니다."
 
 AUS_syndie_threat:0 "생디칼리스트의 위협"
-AUS_syndie_threat_desc:0 "오토 폰 합스부르크 로스링겐 황제가 오스트리아의 군주인 그의 아버지 칼의 뒤를 이었다. 오토는 젊은 나이에도 불구하고, 다른 민족들이 하나의 국가 정체성만을 공유하는 한 제국의 원대한 야망을 가지고 있다. 그의 간결한 연설, 아마도 약간 수치스러운 사랑스러운 삶, 그리고 젊은 매력은 오토에서 언론의 관심을 끌면서 절정에 달했다."
+AUS_syndie_threat_desc:0 "프랑스와 이탈리아인들은 세계에 혼란을 가져오는 공동의 적입니다. 비록 우리가 독일을 싫어할지 몰라도, 우리는 독일 편에 서서 다시 한번 싸워야 합니다."
 
 ### Parties ###
 AUS_totalist_party:0 "전체주의 인민 회의"
