@@ -94,10 +94,10 @@ ministers_cannot_be_replaced:0 "장관 재임명 불가"
 ### Factions ###
 Mittelmacht:0 "미틀오이로파"
 Entente:0 "협상국"
-Belgrade_Pact:0 "베오그라드 조약 기구"
-Third_International:0 "제3인터내셔널"
-Mongolian_Alliance:0 "대칸국"
-Scandinavian_Pact:0 "스칸디나비아 조약 기구"
+Belgrade_Pact:0 "베오그라드 조약기구"
+Third_International:0 "제 3인터내셔널"
+Mongolian_Alliance:0 "대 칸국"
+Scandinavian_Pact:0 "스칸디나비아 조약기구"
 Mediterranean_Bloc:0 "지중해 연합"
 
 ### Name and Description ###
