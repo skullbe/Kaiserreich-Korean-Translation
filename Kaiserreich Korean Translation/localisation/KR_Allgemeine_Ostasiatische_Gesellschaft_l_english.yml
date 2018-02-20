@@ -2,16 +2,16 @@
 
 ### Ideas ###
 GER_COMP_BUY:0 "독일계 회사 인수"
-IronRiceBowl:0 "철밥통 연습"
+IronRiceBowl:0 "철밥통 음모"
 DeGermanise_AOG:0 "회사 탈독일화"
 Reforms_stop:0 "개혁 중단"
 Reforms_Abandoned:0 "개혁 철회"
 AOG_Colonial_Nation:0 "식민지 정부"
-AOG_Colonial_Nation_desc:0 "이웃 국가들과 거래하는 데 있어서 제한적인 자치권에도 불구하고, AOG는 사실상 식민지 정부입니다; 모든 정부 조직은 독일의 힘에 달려있고 그 힘에 의해 유지되며, 예산은 베를린에서 집행됩니다. 또한 통화는 독일 마르크화로 정해져 있습니다."
+AOG_Colonial_Nation_desc:0 "이웃 국가들과 거래하는 데 있어서 제한적인 자치권에도 불구하고, 동아시아 회사는 사실상 식민지 정부입니다. 모든 정부 조직은 독일의 손안에 있고  힘에 의해 유지되며, 예산은 베를린에서 집행됩니다. 또한 통화는 독일 마르크화로 정해져 있습니다."
 
 ### Opinion Modifiers ###
 GER_FAC_SHUT_DOWN:0 "독일계 공장 가동 중단"
-AOG_IronRiceBowl:0 "철밥통 연습"
+AOG_IronRiceBowl:0 "철밥통 음모"
 AOG_REFORMS:0 "회사 개혁"
 AOG_DE_GERMANIZE:0 "회사 탈독일화"
 AOG_LIBERATES:0 "동아시아 회사 독립 선언"
@@ -19,7 +19,7 @@ CHI_exist_YUN:0 "중국 독립 선언"
 CHI_exist_GER:0 "중국 독립 선언"
 CHI_exist_JAP:0 "중국 독립 선언"
 CHI_exist_XSM:0 "중국 독립 선언"
-PROTECT_AOG:0 "동아시아 회사 방위"
+PROTECT_AOG:0 "동아시아 회사 보호"
 PROTECT_AOG_QIE:0 "독일이 동아시아 회사를 지킨다"
 REFUSE_PROTECT_AOG:0 "동아시아 회사 방위 거절"
 REFUSE_PROTECT_AOG_QIE:0 "독일이 동아시아 회사의 방위 요청을 거절했다"
