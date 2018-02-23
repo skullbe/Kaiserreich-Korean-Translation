@@ -2,20 +2,20 @@ l_english:
 
 ### Opinions ###
 
-support_sop:0 "Supporting SOP Nationalists"
-reb_in_ubd:0 "Disrupted Stability in our Puppet"
-accept_help:0 "Germany Helped Us"
-reject_help:0 "Germany Abandoned Us"
-german_are_not_expeled:0 "Disobeyed our Orders"
-traitors:0 "Filthy Traitors"
-reject_ultimatum:0 "Rejected our Ultimatum"
+support_sop:0 "SOP 국가주의자들을 지원함"
+reb_in_ubd:0 "우리 괴뢰국의 안정성이 파괴됨"
+accept_help:0 "독일이 우리를 도움"
+reject_help:0 "독일이 우리를 버림"
+german_are_not_expeled:0 "우리의 요청을 거부함"
+traitors:0 "더러운 배신자"
+reject_ultimatum:0 "최후통첩을 거절함"
 
 ### Events ###
 
-balticduchy.1.t:0 "The United Baltic Duchy"
+balticduchy.1.t:0 "발트 연합 공국"
 balticduchy.1.d:0 "Der ostliche Schutzwall des Kaiserreichs, is how the United Baltic Duchy has came to be known. In this rather small client state of the German Empire, the full spectrum of political powers is concentrated within the tiny Baltic German minority, who live mainly in the cities of Riga, Revel, and the islands of Osel and Dago. The rest of the country is populated mainly by Latvians and Estonians."
-balticduchy.1.a:0 "Interesting, tell me more!"
-balticduchy.1.b:0 "Yada, yada, just let me play!"
+balticduchy.1.a:0 "흥미롭네요, 더 알려주세요!"
+balticduchy.1.b:0 "야다, 야다, 그냥 플레이하게 해줘요!"
 
 balticduchy.2.t:0 "The Duchy's Interior Situation"
 balticduchy.2.d:0 "Administratively, the Duchy is subdivided into two Stadte, Riga and Revel, and four Länder, which are Oselland, Estland, Livland, and Kurland. The country is very centralised, with the regions having very little power. Moreover, recent tensions with rural Estonian and Latvian populations has prompted the formation of two specialised security commands for Livland and Estland."
@@ -54,7 +54,7 @@ balticduchy.29.t:0 "Baltic Germans and their Duchy"
 balticduchy.29.d:0 "As economic stagnation and recession nears, old feuds between largely urban Germans and rural non-Germans gain new strength. Some propose we should further encourage Germans to settle the land, others wish to integrate the local population fully into the political life. In the end, the choice is in between fully integrating into the Empire or partially emancipating ourselves from Imperial authority."
 balticduchy.29.a:0 "Interesting"
 
-balticduchy.30.t:0 "Black Monday hits the United Baltic Duchy!"
+balticduchy.30.t:0 "발트 연합 공국에 검은 월요일이 강타하다!"
 balticduchy.30.d:0 "Almost two weeks ago, the Berlin Stock Exchange plunged into bottomless depths, throwing Germany's economy into an unprecedented crisis. Now the crash's shock waves have reached the United Baltic Duchy. German-owned companies have closed down or laid-off their workers, the Papiermark is losing value, and agricultural exports are shrinking..."
 balticduchy.30.a:0 "Let's hope the government will save us from the worst..."
 
@@ -107,18 +107,18 @@ balticduchy.75.d:0 "The united SOP movement is gaining popularity at alarming ra
 balticduchy.75.a:0 "Demand Russia to cease all support"
 balticduchy.75.b:0 "Ignore the UBD pleas!"
 
-balticduchy.76.t:0 "German Demands!"
-balticduchy.76.d:0 "Our actions have angered the Germans and the demand we stop immediately or face the consequences!"
-balticduchy.76.a:0 "Ignore their feeble threats"
-balticduchy.76.b:0 "Accept their demands!"
+balticduchy.76.t:0 "독일이 요구함!"
+balticduchy.76.d:0 "우리의 행동은 독일인들을 화나게 했으며 즉각 중단하지 않는다면 대가를 치루게 될 것입니다!"
+balticduchy.76.a:0 "그런 요구 따윈 거절한다"
+balticduchy.76.b:0 "그들의 제안을 수락해라!"
 
-balticduchy.77.t:0 "Russia accepted our demands"
+balticduchy.77.t:0 "러시아가 우리의 요구를 받아들였습니다"
 balticduchy.77.d:0 "Russia accepted our demands and ceased all activity which was aimed against the territorial integrity of the United Baltic Duchy."
-balticduchy.77.a:0 "Another victory for our diplomacy"
+balticduchy.77.a:0 "우리 외교의 또다른 승리로군"
 
-balticduchy.78.t:0 "Germany will not help us"
+balticduchy.78.t:0 "독일이 우리를 돕지않을 것입니다"
 balticduchy.78.d:0 "Our beloved Kaiser betrayed us. There nothing we can do against SOP. Sooner or later, they will start an open revolt against us."
-balticduchy.78.a:0 "Mein gott"
+balticduchy.78.a:0 "이럴수가"
 
 balticduchy.79.t:0 "Russia accepted our demands"
 balticduchy.79.d:0 "Russia accepted our demands and ceased all activity which was aimed against the territorial integrity of the United Baltic Duchy."
@@ -187,28 +187,28 @@ balticduchy.95.d:0 "Due to rising tensions with Estonians, Latvians, and other m
 balticduchy.95.a:0 "The Parliament approves of this move!"
 balticduchy.95.b:0 "The Kaiser is angry at the Duke!"
 
-balticduchy.96.t:0 "The Kaiser is angry!"
+balticduchy.96.t:0 "독일 황제가 분노했습니다!"
 balticduchy.96.d:0 "After the Kaiser has expressed his disagreement over the type of administration in the United Baltic Duchy, the majority of Germans feel that the UBD must stay on its democratic course and friendship with Germany. Many of them however think of this is a good excuse to revert everything which has been done."
-balticduchy.96.a:0 "Revert everything!"
-balticduchy.96.b:0 "Tell Kaiser that this is needed for a better future for the United Baltic Duchy!"
+balticduchy.96.a:0 "모든걸 원상복귀 시켜!"
+balticduchy.96.b:0 "독일 황제에게 이것이 발트 연합 공국의 더 나은 미래를 위함이라고 전해드려라!"
 
-balticduchy.97.t:0 "The Kaiser agrees!"
-balticduchy.97.d:0 "Now, we are free. Glory to our proud people. Three hurrah's for them."
-balticduchy.97.a:0 "Hurrah! Hurrah! Hurrah!"
+balticduchy.97.t:0 "독일 황제가 수락했습니다!"
+balticduchy.97.d:0 "이제부터 우리는 자유입니다. 자랑스런 인민들에게 영광과 만세삼창을 합시다!"
+balticduchy.97.a:0 "만세! 만세! 만세!"
 
-balticduchy.98.t:0 "Break the Chains"
+balticduchy.98.t:0 "사슬을 끊어라"
 balticduchy.98.d:0 "We are proud people of Baltic Federation. Too long were we the lesser minion of the Greater German Empire. Now, it's time for us to break free from our masters..."
-balticduchy.98.a:0 "We must wait..."
+balticduchy.98.a:0 "우린 기다려야한다..."
 
 balticduchy.99.t:0 "Baltic Federation wants to be more independent from Berlin!"
 balticduchy.99.d:0 "Due to rising tensions with Estonians, Latvians, and other minorities deprived of their political rights, Duke Adolf Friederich decided to accept their demands. This means that his lands won't be an easy target for German colonisation anymore, but it will also mean one less source of instability for Mitteleuropa. What is our stance on this?"
 balticduchy.99.a:0 "The Parliament approves of this move!"
 balticduchy.99.b:0 "The Kaiser is angry at the Duke!"
 
-balticduchy.100.t:0 "The Kaiser is angry!"
+balticduchy.100.t:0 "독일 황제가 분노했습니다!"
 balticduchy.100.d:0 "After the Kaiser has expressed his disagreement over the type of administration in the Baltic Federation, the majority of Germans feel that the Baltic Federation must stay on its democratic course and friendship with Germany. Many of them however think of this is a good excuse to revert everything which has been done."
-balticduchy.100.a:0 "Revert everything!"
-balticduchy.100.b:0 "Tell Kaiser that this is needed for a better future for the Baltic Federation!"
+balticduchy.100.a:0 "모든걸 원상복귀 시켜!"
+balticduchy.100.b:0 "독일 황제에게 이것이 발트 연방의 더 나은 미래를 위함이라고 전해드려라!"
 
 balticduchy.120.t:0 "Improving Ostwall"
 balticduchy.120.d:0 "Our diligent engineers and soldiers have completed another part of the fortification line along the borders of United Baltic Duchy and Russia. Shall we continue with its expansion or are such fortifications sufficient?"
@@ -701,43 +701,43 @@ BAT_Education_Ger_desc:0 "With more power to the Duke, the time has come for us 
 
 ### Ideas ###
 
-BAT_multi_ling:0 "Political Instability"
+BAT_multi_ling:0 "정치 불안정"
 BAT_multi_ling_desc:0 "Our country is an union of multiple cultures. The Native Balts, the Germanised Balts and the Russian minorities all vie for political influence, causing regular conflict and difficulty to set a common policy. This is only made much worse by the German dominance caused by the Kaiser's policies of Germanisation, crushing minority rights and forcing cultural conversion of the 'Native Balts'."
 
-BAT_start_crisis:0 "Conscription Crisis"
+BAT_start_crisis:0 "징병 사태"
 BAT_start_crisis_desc:0 "Only people of German descent or having sufficiently Germanised are allowed into the armed forces. Naturally, as the majority of the people in our country are Native Balts and resistance to Germanisation is still high, this poses massive conscription issues. However, due to significant unrest and the ever present risk of a revolt, this is currently seen as a necessary evil."
 
-BAT_multi_ling_aut:0 "Minor Autonomy"
+BAT_multi_ling_aut:0 "미약한 자치"
 BAT_multi_ling_aut_desc:0 "Following some diplomatic manoeuvring, we have successfully put an end to the Kaiser's plans of Germanisation. Our country is still shattered, but our people are grateful that we saved our minorities from cultural indoctrination. These wounds will take time to heal, but at least they will be able to heal."
 
-BAT_german_majority:0 "German Majority"
+BAT_german_majority:0 "과반수 독일인"
 BAT_german_majority_desc:0 "Following a recent push for Germanisation, we have finally achieved a significant milestone. The majority of our country is now considered German, and as such our position in the country as the majority culture is secure. This not only allows us to finally end the recent instability, but also to enforce the will of the German people on those Native and Russian rebels."
 
-BAT_schools:0 "New Education System"
+BAT_schools:0 "새로운 교육 시스템"
 BAT_schools_desc:0 "Reforming our education system is easier said than done. But with some improvements made to our curriculum, we expect that our country's literacy will increase, and higher education will eventually become a reality to a larger part of our youth, with benefits all across our society."
 
-BAT_factory:0 "Economic Boom"
+BAT_factory:0 "경제 호황"
 BAT_factory_desc:0 "The liberalisation of our economy has had the effect that we hoped, with construction and production once again roaring through our lands. This allows us to contract our newly-recovered economy to peform major infrastructure works, faster and cheaper."
 
-BAT_militia:0 "Baltic Militia"
+BAT_militia:0 "발트 민병대"
 BAT_militia_desc:0 "With the mighty German army promising to defend our country against aggression, the organisation of our country's military from its very inception has been relaxed, to say the least. We need to remedy to this, wherever we are to still benefit of Germany's protection, or especially if we are to lose it."
 
-BAT_Black_Monday:0 "Aftermath of Black Monday"
+BAT_Black_Monday:0 "검은 월요일의 여파"
 BAT_Black_Monday_desc:0 "As a country deeply within the Kaiserreich's sphere of influence, the impact of the Black Monday has been brutal to our economy. However, we cannot wait for Germany to fix her own economy, there is work to be done at home. The unrest cannot be ignored, and might be costly if left to boil."
 
-BAT_gov_goods:0 "Social Investments"
+BAT_gov_goods:0 "사회 투자"
 BAT_gov_goods_desc:0 "Welfare is turning out to be one of the most important policies we have to help our people cope with this crisis. This also creates a situation where the poorest of our society can now prosper in our country, allowing us to slowly scale down the emergency programs."
 
-BAT_heavy_industry:0 "Baltic Workers"
+BAT_heavy_industry:0 "발트 노동자들"
 BAT_heavy_industry_desc:0 "With the effort of some of our people redirected to military factories, we have finally managed to improve our production of military hardware. This will create a skilled and dedicated military workforce on the long run. If some are to be believed, one that will come handy sooner than desired."
 
-BAT_scientists:0 "New Scientists"
+BAT_scientists:0 "새로운 과학자들"
 BAT_scientists_desc:0 "Scientific discoveries don't just magically appear out of thin air. By investing heavily in scientific pursuits even in times of trouble, we encourage our scientists and research teams to give the best for our country, and merely give them the means to do so."
 
-BAT_pol:0 "Political Establishment"
+BAT_pol:0 "정치적 설립"
 BAT_pol_desc:0 "There might be those who decry the new influence of some capitalists on our economy, but this direct connection of the political and economic worlds allow us to strengthen our decision-making and help influence our nation's economy, for the better."
 
-BAT_drill:0 "Modern Training System"
+BAT_drill:0 "현대 훈련 시스템"
 BAT_drill_desc:0 "Training a soldier is more complex than teaching him how to shoot his rifle and throw his hand grenades. By perfecting our drill system, we make boot camp faster, more efficient at turning the average citizen into a competent soldier, and thus capable of more rapidly mobilising new divisions, even those of a new concept to us."
 
 BAT_fort:0 "Ostwall Fortifications Network"
@@ -748,17 +748,17 @@ BAT_balts_rebellion_desc:0 "Our policy of colonisation caused an uprising of Nat
 
 ### Flags ###
 
-BAT_politic:0 "Political Path"
-BAT_economy:0 "Economic Recovery Plan"
-BAT_progerman:0 "Pro-German Policy"
-BAT_fed:0 "Pro-Baltic Policy"
-BAT_red:0 "Left Wing Seizes Power"
-BAT_RUS_PRI:0 "Russophile Coup"
-BAT_RUS_PUP3:0 "Forced Russian Language"
+BAT_politic:0 "정치 경로"
+BAT_economy:0 "경제 복구 계획"
+BAT_progerman:0 "친독일 정책"
+BAT_fed:0 "친발트 정책"
+BAT_red:0 "좌파가 권력을 장악"
+BAT_RUS_PRI:0 "루소필리 쿠데타"
+BAT_RUS_PUP3:0 "강압된 러시아어"
 BAT_COL_KUR:0 "German Majority in Kurland"
 BAT_COL_LIV:0 "German Majority in Livland"
 BAT_COL_EST:0 "German Majority in Estland"
-BAT_autonomy:0 "Wants to be more autonomous"
+BAT_autonomy:0 "더 많은 자치를 원함"
 
 ### Tooltips ###
 
@@ -766,6 +766,6 @@ BAT_election_tooltip:0 "This focus will enable elections event. The first electi
 BAT_election_aut_tooltip:0 "This focus will enable elections event. Due to our semi-authoritarian government, elections will be held only once."
 
 ### OOB ###
-LAT_rebellion:0 "Latvian Rebels"
-LAT_volunteers:0 "Volunteer Army"
-EST_rebellion:0 "Estonian Rebels"
+LAT_rebellion:0 "라트비아 반란군"
+LAT_volunteers:0 "지원병"
+EST_rebellion:0 "에스토니아 반란군"
