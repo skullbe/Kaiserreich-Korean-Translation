@@ -11,10 +11,10 @@ DEN_new_generals_tooltip:0 "A §Y1 Skill General§! named §YGustaf Petri§! wil
 
 ### Ideas ###
 DEN_nordic_council:0 "북유럽 의회"
-DEN_common_mil_purchases:0 "Defence Acquisition Board"
-DEN_passport_union_idea:0 "Nordic Passport Convention"
-DEN_monetary_union_idea:0 "Scandinavian Monetary Union"
-DEN_custom_union_idea:0 "Nordic Single Market"
+DEN_common_mil_purchases:0 "국방 조달 위원회"
+DEN_passport_union_idea:0 "북유럽 여권 협약"
+DEN_monetary_union_idea:0 "스칸디나비아 화폐 동맹"
+DEN_custom_union_idea:0 "북유럽 단일 시장"
 
 ### Focuses ###
 DEN_industry_expansion1:0 "산업 개발"
@@ -147,16 +147,16 @@ den.2.t:0 "Austerity Measures fail"
 den.2.d:0 "The economy has collapsed and the reduction in spending has not helped. Unemployment is rising and trade has almost come to a halt. Our government members are now being caricatured as black zeroes in the press."
 den.2.a:0 "Terrible news!"
 
-den.3.t:0 "Iceland demands Independence"
-den.3.d:0 "The Icelandic government has voted to petition for independence. Many in the Danish government believe that this may by the best option as it would alleviate many of the responsibilities they have in the North Atlantic. The King also seems to be favourable to this as he believes that Denmark's future is on the continent and not in the North Atlantic."
-den.3.a:0 "Grant them independence!"
-den.3.b:0 "Keep the island. We need it."
+den.3.t:0 "아이슬란드가 독립을 요구합니다"
+den.3.d:0 "아이슬란드 정부는 독립을 청원했습니다. 덴마크 정부의 많은 사람들은 이것이 북 대서양에서 덴마크가 가지고 있는 많은 부담을 완화시킬 것이기 때문에 최선의 선택일 것이라고 믿고 있습니다. 왕 또한 덴마크의 미래는 북 대서양이 아닌 유럽에 있다고 믿고 있기 때문에 이것에 호의적인 듯 보입니다."
+den.3.a:0 "독립을 승인하라!"
+den.3.b:0 "아이슬란드 소유를 유지하라. 우리는 그 땅이 필요하다"
 
-den.25.t:0 "The Fate of Sweden"
-den.25.d:0 "Today, the Swedish Chief of Army has announced the surrender of the Army. Supplies and equipment were captured after the surrender and have been shipped back to our country. Total victory has been achieved."
-den.25.a:0 "Liberate Sweden."
-den.25.b:0 "Annex Skåneland."
-den.25.c:0 "Continue the military occupation."
+den.25.t:0 "스웨덴의 운명"
+den.25.d:0 "오늘, 스웨덴 육군 참모 총장이 스웨덴 육군의 항복을 선언했습니다. 항복 후에 보급품과 장비가 압수되어 우리 나라에 반환되었으며, 완전한 승리가 이루어졌습니다."
+den.25.a:0 "스웨덴을 해방시켜라."
+den.25.b:0 "스코네 지역을 합병하라."
+den.25.c:0 "군사 점령을 계속한다."
 
 den.50.t:0 "The Nord Brand Party"
 den.50.d:0 "-"
@@ -202,9 +202,9 @@ den.108.t:0 "Creation of the Nordic Federation"
 den.108.d:0 "-"
 den.108.a:0 "Great!"
 
-den.109.t:0 "Scandinavian Federation Fail"
+den.109.t:0 "스칸디나비아 연방 결성 실패"
 den.109.d:0 "Our attempts at creating a Nordic Federation have failed... It seems that Nordic Integration have reached it peak."
-den.109.a:0 "Damn you, stupid Scandinavians!"
+den.109.a:0 "멍청한 스칸디나비아 개자식들!"
 
 ### Parties ###
 DEN_totalist_party:0 "DKP"
