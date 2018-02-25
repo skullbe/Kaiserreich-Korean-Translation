@@ -119,7 +119,7 @@ SCA_domestic_finland:0 "핀란드 산업 지원"
 ### Events ###
 
 scandinavia.1.t:0 "북유럽 연방의 형성"
-scandinavia.1.d:0 "스칸디나비아 조약에 서명한 후에, 각국 정부는 우리의 통합 정부 구성이 끝날 때까지 임시로 유지되어 왔습니다.\n §R북유럽 연방은 완전하지 못합니다. The focus tree is only a placeholder and will be expanded upon for 0.6§!"
+scandinavia.1.d:0 "스칸디나비아 조약에 서명한 후에, 각국 정부는 우리의 통합 정부 구성이 끝날 때까지 임시로 유지되어 왔습니다.\n §R북유럽 연방은 아직 완전하지 못합니다. The focus tree is only a placeholder and will be expanded upon for 0.6§!"
 scandinavia.1.a:0 "연방 선거를 준비하라"
 
 scandinavia.2.t:0 "제 1차 연방 선거"
@@ -203,4 +203,4 @@ scandinavia.110.a:0 "슐레스비히-홀슈타인 공국을 복원하라"
 scandinavia.110.b:0 "군사 점령을 유지하라"
 
 ### Leader descriptions ###
-SCA_FEDERAL_COUNCIL_DESC:0 "북유럽 연방의 최고위 기관은 연방 의회입니다. 의회는 주로 연방 가입국의 군주로 구성되어 있지만, 연방 정부의 권고에 따라 행동하게 되어 있기 때문에 상징적인 기관입니다."
+SCA_FEDERAL_COUNCIL_DESC:0 "북유럽 연방의 최고위 기관은 연방 의회입니다. 의회의 구성원은 연방 가입국의 군주들이지만, 연방 정부의 권고에 따라 행동하게 되어 있기 때문에 사실상 상징적인 기관입니다."
