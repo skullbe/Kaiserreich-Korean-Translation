@@ -2,13 +2,13 @@
 
 ### Events ###
 
-april.1.t:0 "The Rise of the Modders"
+april.1.t:0 "모더들의 기상"
 april.1.d:0 "Today at dawn, a strange vessel descended from the skies onto Helsinki, emitting strange light and sounds. When it landed, to the surprise of the inhabitants of the city, numerous men in futuristic clothes came out and claimed that they were visitors from another world, that this world belonged to them and that they even created it. \nTheir claims were met with heavy resistance from Finns but it was all in vain. With their superior technology, they soon took over all off south-western Finland. Meanwhile, strange lights have been seen in the skies of Korea, most agree it is just mass hysteria…\nThe 'Modders' as they call themselves are ever growing and no one seems to be able to stop them, is this world condemned?" 
-april.1.a:0 "Let's see how this goes..."
-april.1.b:0 "But - I am one of them! (Fight in the war)"
+april.1.a:0 "어떻게 되나 봅시다..."
+april.1.b:0 "하지만 난 모더 중 하나인걸! (전쟁에서 싸운다)"
 how_to_switch:0 "§RTo switch, either open the console and type "tag EMP" or restart the game with a major and take this option again.§!\n\n"
-no_april:0 "The Modders won't come in your timeline again."
-april.1.e:0 "Oh no!"
+no_april:0 "모더들이 당신의 타임라인에 다시는 등장하지 않을 것입니다."
+april.1.e:0 "오 안돼!"
 
 april.2.t:0 "A New Threat"
 april.2.d:0 "Following the establishment of the Great Old Modders a new, similar, phenomenon happened in Korea. This second landing unleashed new 'Modders' and various new species previously unknown to us. They claim to be from the same universe as this 'empire' and that their mission is to bring it down for the good of humanity.\nThey soon also occupied the neighbouring provinces and are now expanding in order to chase their supposed enemies. Our high command is confused over their identity, are they with us or against us?"
