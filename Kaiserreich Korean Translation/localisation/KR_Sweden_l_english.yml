@@ -603,11 +603,11 @@ SWE_national_populist_party_long:0 "Sveriges Nationella Förbund"
 
 ### Intro events ###
 
-swe.65.t:0 "DO NOT PLAY SWEDEN!"
+swe.65.t:0 "스웨덴을 플레이하지 마십시오!"
 #swe.65.t:0 "The Political Situation"
-swe.65.d:0 "Sweden is being completely reworked. Therefore, it has less content in 0.5 then in earlier versions. If you want to play Sweden in KR, either revert to 0.4 (link on PDX forum) or wait for 0.6. If you still want to play, the Nordic Federation branch is WIP and most other content is placeholder."
+swe.65.d:0 "스웨덴은 완전히 개편되고 있습니다. 따라서, 0.5 버전에서는 이전 버전보다 내용이 훨씬 적습니다. 당신이 카이저라이히에서 스웨덴을 플레이하고 싶으시다면, 0.4 버전으로 되돌리거나(PDX 포럼에 링크가 있습니다) 0.6 버전을 기다려 주세요. 그래도 정 플레이하고 싶으시다면, 북유럽 연방 명령어는 WIP이지만 다른 대부분의 내용은 비어있습니다."
 #swe.65.d:0 "In the last few elections a coalition of the Conservative party and the market liberals repeatedly defeated a split social democratic and syndicalist movement. Currently governed by Gösta Bagge the nation struggles with balancing the needs of the people and the needs of the government. While Sweden has industrialised, the violent revolutions of Russia, France and Britain have all intimidated the moderate Swedish electorate away from the generally strong left... Until now. \n\nThe charismatic Per Albin Hansson has managed to rush ahead in the polls with his Social democratic party. Sweden's next election will be mid-September 1936."
-swe.65.a:0 "I'll play some other country then..."
+swe.65.a:0 "그럼 다른 나라로 플레이할게요..."
 
 swe.66.t:0 "The military situation"
 swe.66.d:0 "The army staff has gained a decent base of political power with a seemingly ever dangerous world around them. Axel Rappe and Olof Thörnell, big names in the military staff, are known as staunch supporters of Germany and want Sweden to abandon their neutrality politics while several key members of the fleet, including prolific Erik Palmstierna, are big admirers of the British royal house and classic British liberalism. \n\nIn both fleet and army circles there is a strong support for 'liberating' the Swedish-speaking people's of Western Finland and Åland. For now they are both content at mumbling to each other in the officer's mess but should the elected government seem weak, or should war come to Sweden's borders, things could change very quickly."
@@ -668,17 +668,17 @@ swe.61.d:0 "The barracks of Stockholm are ablaze after workers heard of plans to
 swe.61.a:0 "The coup is successful!"
 swe.61.b:0 "Thousands join the workers militias! The revolution is saved!"
 
-swe.62.t:0 "Rappe saves us from the reds!"
-swe.62.d:0 "When the dust finally settled in Stockholm, Malmö and Göteborg, workers and other rabble had been cleared from the streets. Some fifty socialists lay dead and hundreds of others wounded. Ring leaders sit in military custody as Axel Rappe appears to the public as the head of the coup. \n\nWith a steady voice he explains to military approved journalists that the situation is under control but that temporary martial law is necessary. The King has given his approval."
-swe.62.a:0 "Thank you Rappe!"
+swe.62.t:0 "라페가 우리를 빨갱이들로부터 구했습니다!"
+swe.62.d:0 "마침내 자욱한 먼지가 스톡홀름, 말뫼와 예테보리에서 사라졌을 때, 노동자들과 기타 폭도들은 거리에서 치워졌습니다. 50여명의 사회주의자들이 죽은 채 누워 있었고 수백명의 사람들이 부상을 입었습니다. 악셀 라페가 폭동 진압의 주역으로 보이는 가운데 폭동의 주동자들은 현재 군사 시설에 감금되어 있습니다. \n\n그는 군 당국이 승인한 기자들에게 단호한 목소리로 상황이 통제 하에 있지만 임시 계엄령은 필요하다고 설명했으며, 왕은 이를 승인했습니다."
+swe.62.a:0 "감사하오 라페!"
 
 swe.63.t:0 "The revolution lives!"
 swe.63.d:0 "When the dust finally settled in Stockholm, Malmö and Göteborg, the noble workers have defeated the reactionary military. Many lay dead, and Riksdagshuset is burned to the ground. Preparations are already being made for building the Assembly Hall of the Revolution in its place. \n\nThe King prepares to leave the country while the Social Democrats see themselves almost completely sidelined by the more radical elements of Sweden."
-swe.63.a:0 "Long live the revolution!"
+swe.63.a:0 "혁명 만세!"
 
 swe.64.t:0 "Good old Sweden"
 swe.64.d:0 "Although there have been reports in the media about election fraud, the minor strikes arranged by the opposition have either died out on their own or been dispersed by our brave military and police. With this election behind us, Sweden can finally continue to grow under our safe, traditional leadership."
-swe.64.a:0 "Three Hurra's for King and country!"
+swe.64.a:0 "국왕 폐하와 조국 만세!"
 
 ### 1940 Election ###
 
@@ -772,36 +772,36 @@ swe.115.g:0 "Nils Flyg of the Totalists win."
 
 ### Fire Once Events ###
 
-swe.24.t:0 "Foundation of the Nordic Council"
-swe.24.d:0 "The Nordic Council have been founded as an instrument for Nordic cooperation and integration."
-swe.24.a:0 "Join the Nordic Council"
+swe.24.t:0 "북유럽 평의회의 창설"
+swe.24.d:0 "북유럽 평의회는 북유럽 국가들간의 협력 및 통합을 위한 도구로 설립되었습니다."
+swe.24.a:0 "북유럽 평의회에 가입"
 
-swe.25.t:0 "Establishment of the Scandinavian Defence Union"
-swe.25.d:0 "We have decided to sign a defensive military alliance together with our partners."
-swe.25.a:0 "Join the Scandinavian Defence Union"
+swe.25.t:0 "스칸디나비아 방위 연합체의 설립"
+swe.25.d:0 "우리는 우리의 동료들과 함께 방위 동맹을 맺기로 결정했습니다."
+swe.25.a:0 "스칸디나비아 방위 연합체에 가입"
 
 swe.26.t:0 "북유럽 여권 협약"
 swe.26.d:0 "-"
 swe.26.a:0 "협약에 서명"
 
-swe.27.t:0 "Reestablishment of the Scandinavian Monetary Union"
+swe.27.t:0 "스칸디나비아 화폐 동맹의 재건"
 swe.27.d:0 "-"
-swe.27.a:0 "A new currency union for a new era!"
+swe.27.a:0 "새 시대를 위한 새로운 화폐 동맹이다!"
 
 swe.28.t:0 "북유럽 단일 시장"
 swe.28.d:0 "-"
 swe.28.a:0 "단일 시장에 참여"
 
-swe.29.t:0 "The Scandinavian Scientist Conference"
+swe.29.t:0 "스칸디나비아 과학자 협회"
 swe.29.d:0 "-"
 swe.29.a:0 "아는 것이 힘이다"
 
-swe.30.t:0 "노르웨이가 스칸디나비아 연합 결성을 요청하다"
+swe.30.t:0 "노르웨이가 스칸디나비아 연합 결성을 요청합니다"
 swe.30.d:0 "-"
 swe.30.a:0 "연방에 찬성 (게임 종료)"
 swe.30.b:0 "연방에 반대"
 
-swe.31.t:0 "덴마크가 스칸디나비아 연합 결성을 요청하다"
+swe.31.t:0 "덴마크가 스칸디나비아 연합 결성을 요청합니다"
 swe.31.d:0 "-"
 swe.31.a:0 "연방에 찬성 (게임 종료)"
 swe.31.b:0 "연방에 반대"
@@ -811,22 +811,22 @@ swe.32.d:0 "-"
 swe.32.a:0 "좋았어!"
 
 swe.33.t:0 "스칸디나비아 연합 결성의 실패"
-swe.33.d:0 "Our attempts at creating a Nordic Federation have failed... It seems that Nordic Integration have reached it peak."
+swe.33.d:0 "북유럽 연방을 건설하려는 우리의 시도는 실패했습니다... 북유럽의 통합은 한계에 다다른 것으로 보입니다."
 swe.33.a:0 "멍청한 스칸디나비아 개자식들!"
 
-swe.200.t:0 "The Norwegian Question"
-swe.200.d:0 "After our successful conquest of Norway, we must now decide what to do with the country. What shall our policy towards our western neighbours be?"
-swe.200.a:0 "Restore the Union of 1814!"
-swe.200.b:0 "Restore the legitimate king, but keep them under our influence"
-swe.200.c:0 "Give Norway Independence"
-swe.200.e:0 "Continue with Military Occupation"
+swe.200.t:0 "노르웨이의 문제"
+swe.200.d:0 "우리의 노르웨이 정복이 성공한 지금, 우리는 이제 노르웨이를 어떻게 할 것인지를 결정해야 합니다. 우리 서쪽의 이웃에 대한 정책은 어떻게 될까요?"
+swe.200.a:0 "1814년의 연방을 복원하라!"
+swe.200.b:0 "합법적인 왕을 복권시키되, 그를 우리의 영향력 하에 두어라"
+swe.200.c:0 "노르웨이에게 독립을 주어라"
+swe.200.e:0 "군사 점령을 계속하라"
 
-swe.201.t:0 "The Union of 1814 is Restored"
-swe.201.d:0 "Nobody see this."
-swe.201.a:0 "We have no other choice than to comply."
+swe.201.t:0 "1814년의 연방이 복원되었습니다"
+swe.201.d:0 "아무도 보지 못했을 것입니다."
+swe.201.a:0 "우리에게 따르는 것 외에는 선택지가 없다."
 
 ### Tooltips ###
 SWE_new_generals_tooltip:0 "A §Y2 Skill General§! named §YFrode Lund Hvalkof§! will appear.\nA §Y1 Skill General§! named §YErland Frisvold§! will appear.\n"
 
 ### Leader descriptions ###
-SWE_ARCHIBALD_DOUGLAS_DESC:0 "Count Archibald Douglas is the leader of the Swedish nation. A conservative nobleman and career officer, Douglas has to balance Swedish interests against those of foreign powers."
+SWE_ARCHIBALD_DOUGLAS_DESC:0 "아치볼드 더글라스 백작은 현 스웨덴의 지도자입니다. 보수적인 귀족이자 직업 관료인 더글라스는 스웨덴의 이익과 외국과의 관계 사이에서 균형을 이루고자 합니다."
