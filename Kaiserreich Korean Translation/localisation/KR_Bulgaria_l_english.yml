@@ -1,45 +1,45 @@
 l_english:
 
 ### Ideas ###
-BUL_black_monday_1:0 "Black Monday Crash"
-BUL_black_monday_1_desc:0 "The effects of Black Monday are felt heavily in Bulgaria."
+BUL_black_monday_1:0 "검은 월요일 강타"
+BUL_black_monday_1_desc:0 "검은 월요일의 여파가 불가리아에 깊이 강타했습니다."
 
-BUL_black_monday_2:0 "Black Monday Crash Weakens"
-BUL_black_monday_2_desc:0 "The effects of Black Monday are subsiding due to government intervention."
+BUL_black_monday_2:0 "검은 월요일 강타 약화됨"
+BUL_black_monday_2_desc:0 "검은 월요일의 여파가 정부의 개입으로 서서히 가라앉고 있습니다."
 
-BUL_black_monday_3:0 "Black Monday Crash Recovery"
-BUL_black_monday_3_desc:0 "The effects of Black Monday are nearly gone in Bulgaria."
+BUL_black_monday_3:0 "검은 월요일 강타 복구됨"
+BUL_black_monday_3_desc:0 "검은 월요일의 여파가 불가리아에서 거의 사라졌습니다."
 
-BUL_tsar_pensions:0 "Tsar's Pensions"
-BUL_tsar_pensions_desc:0 "The abdicated Tsar Ferdinand has rather high state pensions..."
+BUL_tsar_pensions:0 "차르의 연금"
+BUL_tsar_pensions_desc:0 "퇴위 한 차르 페르디난트는 다소 높은 연금을 받고 있습니다..."
 
-BUL_economic_revival:0 "Economic Revival"
-BUL_economic_revival_desc:0 "War came to Bulgaria, and with it the economy has was kicked into life."
+BUL_economic_revival:0 "경제 부흥"
+BUL_economic_revival_desc:0 "불가리아에 전쟁이 닥쳤고, 경제가 삶에서 중요하지 않게 되었습니다."
 
-BUL_bulgarian_militarism:0 "Bulgarian Militarism"
-BUL_bulgarian_militarism_desc:0 "The Fourth Balkan War re-awoke within the Bulgarians their militaristic vigour."
+BUL_bulgarian_militarism:0 "불가리아 군국주의
+BUL_bulgarian_militarism_desc:0 "제 4차 발칸전쟁은 불가리아인들의 군국주의적 활력을 다시금 일깨웠습니다."
 
 ### Parties ###
-BUL_totalist_party:0 "T"
-BUL_totalist_party_long:0 "Totalists"
-BUL_radical_socialist_party:0 "RS"
-BUL_radical_socialist_party_long:0 "Radical Socialists"
-BUL_syndicalist_party:0 "BSP"
-BUL_syndicalist_party_long:0 "Bulgarian Syndicalist Party"
-BUL_social_democrat_party:0 "SDWP"
-BUL_social_democrat_party_long:0 "Social Democratic Workers Party"
-BUL_social_liberal_party:0 "SL"
-BUL_social_liberal_party_long:0 "Social Liberals"
-BUL_market_liberal_party:0 "APP"
-BUL_market_liberal_party_long:0 "Agrarian People's Party"
-BUL_social_conservative_party:0 "DA"
-BUL_social_conservative_party_long:0 "Democratic Alliance"
-BUL_authoritarian_democrat_party:0 "TL"
-BUL_authoritarian_democrat_party_long:0 "Tsar's Loyalists"
-BUL_paternal_autocrat_party:0 "TL"
-BUL_paternal_autocrat_party_long:0 "Tsar's Loyalists"
+BUL_totalist_party:0 "전체주의자"
+BUL_totalist_party_long:0 "전체주의자"
+BUL_radical_socialist_party:0 "급진사회주의자"
+BUL_radical_socialist_party_long:0 "급진사회주의자"
+BUL_syndicalist_party:0 "불가리아 생디칼리스트당"
+BUL_syndicalist_party_long:0 "불가리아 생디칼리스트당"
+BUL_social_democrat_party:0 "사회민주노동당"
+BUL_social_democrat_party_long:0 "사회민주노동당"
+BUL_social_liberal_party:0 "사회자유당"
+BUL_social_liberal_party_long:0 "사회자유당"
+BUL_market_liberal_party:0 "농민당"
+BUL_market_liberal_party_long:0 "농민당"
+BUL_social_conservative_party:0 "민주동맹"
+BUL_social_conservative_party_long:0 "민주동맹"
+BUL_authoritarian_democrat_party:0 "차르의 충신들"
+BUL_authoritarian_democrat_party_long:0 "차르의 충신들"
+BUL_paternal_autocrat_party:0 "차르의 충신들"
+BUL_paternal_autocrat_party_long:0 "차르의 충신들"
 BUL_national_populist_party:0 "NSM"
-BUL_national_populist_party_long:0 "National Social Movement"
+BUL_national_populist_party_long:0 "국가사회운동"
 
 ### Opinion Modifiers ###
 claimed_adrianople_GER:0 "Bulgarians claimed Adrianople"
@@ -57,21 +57,21 @@ ottoman_aggression_bulgaria_GER:0 "Ottoman aggression in the Balkans"
 bulgaria_ottoman_puppet_BUL:0 "Installed a friendly Bulgarian government"
 
 ### Flags ###
-balkan_war_ended:0 "Balkan War Has Ended"
+balkan_war_ended:0 "발칸전쟁 종전"
 
 ### Events ###
 
-bulgaria.0.t:0 "The Tsardom of Bulgaria"
+bulgaria.0.t:0 "불가리아 왕국"
 bulgaria.0.d:0 "Bulgaria won her independence from the Ottoman Empire in 1878 with the Treaty of San Stefano, but was even then cut down by the Berlin Congress. Becoming the driving force behind the Balkan League and carrying much of the burden in the First Balkan War, Bulgaria was once more betrayed and cut down by her former allies, Greece and Serbia. It was only in the Weltkrieg that the Bulgarian state came to control all that which was rightfully hers; King Ferdinand had chosen right and his vision finally seemed to be reality. All was not truly perfect however; unrest in the newly conquered provinces, subversive nationalist propaganda campaigns by neighbours and a stagnant economy caused Bulgaria to falter and fail to make full use of their newfound power, even despite German industrial assistance. Tsar Ferdinand abdicated earlier this decade, leaving the throne to his son Tsar Boris the Third."
-bulgaria.0.a:0 "Glory to Bulgaria and the Tsar!"
+bulgaria.0.a:0 "불가리아와 차르께 영광을!"
 
-bulgaria.1.t:0 "Liberation Day"
+bulgaria.1.t:0 "광복절"
 bulgaria.1.d:0 "The Third of March marks Liberation Day - when years ago at the Treaty of San Stefano we won our independence from the Ottoman Turks. The whole country celebrates and the streets of Sofia fill with waving flags!"
-bulgaria.1.a:0 "God is with us!"
+bulgaria.1.a:0 "신은 우리곁에 있다!"
 
-bulgaria.2.t:0 "Liberation Day"
+bulgaria.2.t:0 "광복절"
 
-bulgaria.3.t:0 "Black Monday hits Bulgaria!"
+bulgaria.3.t:0 "검은 월요일이 불가리아를 강타하다!"
 bulgaria.3.d:0 "Almost a month ago, the Berlin Stock Exchange plunged into bottomless depths, throwing the economy of the German Empire into an unprecedented crisis. Now the crash's shock waves have reached the Tsardom of Bulgaria. German and Austrian-owned companies have closed down or laid-off their workers, the Bulgarian lev is losing value, and resource exports are shrinking. Our own export orientated economy is on the verge of collapse..."
 bulgaria.3.a:0 "Intervene to aid economic recovery"
 
@@ -159,10 +159,10 @@ bulgaria.44.t:0 "The 1954 National Assembly Elections"
 bulgaria.45.t:0 "The 1958 National Assembly Elections"
 bulgaria.46.t:0 "The 1962 National Assembly Elections"
 bulgaria.40.d:0 "The election of the National Assembly has begun and will decide who will form the next governmental cabinet. The four parties with a chance of winning are the Democratic Alliance, the Agrarian People's Union, the National Social Movement and the Social Democratic Workers Party. Who shall win?"
-bulgaria.40.a:0 "The Democratic Alliance!"
-bulgaria.40.b:0 "The Agrarian People's Union!"
-bulgaria.40.c:0 "The Tsar's Loyalists!"
-bulgaria.40.e:0 "The Social Democratic Workers Party!"
+bulgaria.40.a:0 "민주동맹!"
+bulgaria.40.b:0 "농민연합!"
+bulgaria.40.c:0 "차르의 충신들!"
+bulgaria.40.e:0 "사회민주노동당!"
 
 ### Focuses ###
 
