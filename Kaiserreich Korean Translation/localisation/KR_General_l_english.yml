@@ -723,7 +723,7 @@ generic_industrial_effort_desc:0 "To construct a large industrial base, we will 
 generic_construction_effort:0 "산업 보조금"
 generic_construction_effort_tt:0 "Not enough building slots for §YCivilian Factories§!"
 generic_construction_effort_desc:0 "A healthy and strong industry doesn't just appear out of nowhere. While we may have to start more ambitious projects later, we must start by ensuring that those with good management skills can start healthy, successful companies that may later grow into giants."
-generic_production_effort:0 "국가 병기창
+generic_production_effort:0 "국가 병기창"
 generic_production_effort_tt:0 "Not enough building slots for §YMilitary Factory§!"
 generic_production_effort_desc:0 "Until we are able to produce our own military equipment, we should create modern armouries for our army. Their goal is quite modest, procuring the gear our army needs using state funds, civilian production and simple production, but it is better than not getting any new rifles."
 generic_construction_effort_2:0 "산업 센터"
