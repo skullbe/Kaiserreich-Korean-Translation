@@ -1,8 +1,8 @@
 ﻿l_english:
- ST:0 "차"
- ND:0 "차"
- RD:0 "차"
- TH:0 "차"
+ ST:0 "등"
+ ND:0 "등"
+ RD:0 "등"
+ TH:0 "등"
  WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
  CIVIL_WAR_NAME:0 "$ORDER$$SECOND$ 내전"
  WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$의 $STATE$ 탈환전쟁"
@@ -51,7 +51,7 @@
  WAR_TAKE_CORE_MEX_USA:0 "$ORDER$$FIRST$의 $STATE$ 재탈환전쟁"
 
  ### Entente-Internationale Wars ###
- WAR_NAME_CAN_ENG:0 "홈 제도 탈환"
+ WAR_NAME_CAN_ENG:0 "영국 본토 탈환 전쟁"
  WAR_NAME_ENG_CAN:0 "협상국-인터네셔널 전쟁"
  WAR_NAME_NFA_FRA:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
  WAR_NAME_FRA_NFA:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
@@ -85,12 +85,12 @@
  WAR_NAME_LIT_GER:0 "$ORDER$$FIRST$ 독립전쟁"
 
  ### Indian Wars ###
- WAR_NAME_DEH_PRF:0 "Entente Reclamation of Hyderabad"
- WAR_NAME_DEH_BHC:0 "Entente Reclamation of Bengal"
- WAR_NAME_BHC_PRF:0 "Bharatiya Liberation of Dehli"
- WAR_NAME_BHC_DEH:0 "Bharatiya Liberation of Hyderabad"
- WAR_NAME_PRF_BHC:0 "Princely Order Restoration of Bengal"
- WAR_NAME_PRF_DEH:0 "Princely Order Restoration of Dehli"
+ WAR_NAME_DEH_PRF:0 "협상국 하이데라바드 수복"
+ WAR_NAME_DEH_BHC:0 "협상국 벵갈 수복"
+ WAR_NAME_BHC_PRF:0 "바라티야 델리 해방"
+ WAR_NAME_BHC_DEH:0 "바라티야 하이데라바드 해방"
+ WAR_NAME_PRF_BHC:0 "왕후의 벵갈 수복"
+ WAR_NAME_PRF_DEH:0 "왕후의 델리 수복"
 
  ### 37th Siamese-Burma War ###
  WAR_NAME_BUR_SIA:0 "37차 시암-버마 전쟁"
