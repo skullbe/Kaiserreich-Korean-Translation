@@ -142,9 +142,9 @@ GER_foreign_missions:0 "독일의 지원"
 DEN_position_plus:0 "전쟁 상태"
 DEN_position_minus:0 "전쟁 상태"
 DEN_thank:0 "감사함"
-return_wll:0 "돌려받은 발로니에"
+return_wll:0 "발로니에 반환"
 wll_int:0 "우리를 비난함"
-give_holl:0 "홀란드 상"
+give_holl:0 "홀란트 상"
 occupy_mor:0 "모로코 점령"
 polish_deal_op:0 "경제적 거래"
 GER_trondheim_yes_op:0 "트론헤임 조차"
@@ -156,7 +156,7 @@ financial_help_denied:0 "재정적 도움 거부"
 
 ### Parties ###
 GER_totalist_party:0 "RAM"
-GER_totalist_party_long:0 "적군 민병대"
+GER_totalist_party_long:0 "적위 민병대"
 GER_radical_socialist_party:0 "BGB"
 GER_radical_socialist_party_long:0 "무장 노동조합 총연맹"
 GER_syndicalist_party:0 "DOI/SP"
@@ -217,7 +217,7 @@ GER_generic_navy1:0 "북해 해안 요새화"
 GER_generic_navy1_desc:0 "북해 연안은 반드시 방어해야 합니다. 만약 우리 함대가 무너지면 우리의 측면이 노출됩니다. 따라서 우리는 즉시 해안선을 강화하기 시작해야 합니다."
 GER_generic_navy2:0 "해군 기지 요새화"
 GER_generic_navy2_desc:0 "우리는 해안 요새와 우리의 주요 해군 기지를 적의 상륙으로부터 더 잘 방어하기 위한 방법을 찾아야 합니다."
-GER_doctrine_fleet_in_beeing:0 "되니츠의 말에 주의를 기울이다"
+GER_doctrine_fleet_in_beeing:0 "되니츠에게 귀를 기울이다"
 GER_doctrine_fleet_in_beeing_desc:0 "정대하고 유능한 카를 되니츠는 대양해군의 힘은 활발하게 바다를 통제하는 것에 달려있다는 점을 상기시켰습니다. 우리 해군은 거대한 결전을 추구해야 하며, 우리 보급로를 약탈할 기회를 확보하기 전에 적을 격멸해야 합니다. 우리는 이 교리를 프라젠츠플로테(PräsenzFlotte), 현존 함대라고 부릅니다."
 GER_doctrine_fleet_in_beeing2:0 "잠수함(U-boat) 작전"
 GER_doctrine_fleet_in_beeing2_desc:0 "우리는 1차 세계 대전 동안 잠수함 전투를 수행했지만 우리의 공격은 제한되어 있었습니다. 이 작전은 앞으로도 계속될 것이지만 새로운 잠수함 모델 개발을 진행해야 합니다."
@@ -481,7 +481,7 @@ GER_oil_increase:0 "투자 증대"
 
 ### Leader descriptions ###
 
-GER_WILHELM_DESC:0 "빌헬름 2세 폰 호엔촐레른, '미틀오이로파의 아버지'는 독일 제국을 거의 50년 동안 통치했다. 그의 통치 아래에서 독일 제국은 세계 최고의 강대국으로 부상했으며, 이는 '독일의 황금 시대'로 불리고 있다. 세계 대전 이후 독일은 경쟁국들 사이에서도 독보적이었고, 태양이 비치는 곳을 얻으려는 노력은 실현되었다. 지평선 너머로 먹구름이 몰려온다 해도, 빌헬름 황제는 국민과 군대, 그리고 이 둘을 지배하는 귀족들의 지지를 받고 있다."
+GER_WILHELM_DESC:0 "빌헬름 2세 폰 호엔촐레른, '미틀오이로파의 아버지'는 독일 제국을 거의 50년간 통치했습니다. 그의 통치 아래에서 독일 제국은 세계 최고의 강대국으로 부상했으며, 이는 '독일의 황금 시대'로 불리고 있습니다. 세계 대전 이후 독일은 경쟁국들 사이에서도 독보적이었고, 태양이 비치는 곳을 얻으려는 노력은 실현되었습니다. 지평선 너머로 먹구름이 몰려온다 해도, 빌헬름 황제는 국민과 군대, 그리고 이 둘을 지배하는 귀족들의 지지를 받고 있습니다."
 
 ### Domestic Events ###
 
@@ -736,29 +736,29 @@ gerdom.61.b:0 "우리는 생디칼리스트 가담에 대한 확실한 증거가
 
 ### Death Events ###
 
-gerdom.62.t:0 "요한 폰 베른슈토프 사망"
-gerdom.62.d:0 "미국 대사와 오스만 제국 대사, 내무장관을 역임한 요한 폰 베른슈토프가 오늘 사망했습니다."
+gerdom.62.t:0 "요한 폰 베른슈토프의 서거"
+gerdom.62.d:0 "미국 대사와 오스만 제국 대사, 내무장관을 역임한 요한 폰 베른슈토프가 오늘 세상을 떠났습니다."
 gerdom.62.a:0 "평화롭게 잠들라"
-gerdom.63.t:0 "빌헬름 그뢰너 사망"
+gerdom.63.t:0 "빌헬름 그뢰너의 서거"
 gerdom.63.d:0 "세계 대전의 영웅 중 한 사람이자 볼세비키 정복자, 빌헬름 그뢰너 원수가 오늘 세상을 떠났습니다."
 
-gerdom.64.t:0 "루트빅 폰 로이터 사망”
-gerdom.64.d:0 "세계 대전의 영웅 중 한 사람이자 황제 해군의 사령관, 루트빅 폰 로이터가 오늘 사망했습니다."
+gerdom.64.t:0 "루트빅 폰 로이터의 서거"
+gerdom.64.d:0 "세계 대전의 영웅 중 한 사람이자 황제 해군의 사령관, 루트빅 폰 로이터가 오늘 세상을 떠났습니다."
 
-gerdom.65.t:0 "빌헬름 수숑 사망 "
+gerdom.65.t:0 "빌헬름 수숑의 서거"
 gerdom.65.d:0 "세계 대전의 영웅 중 한 사람이자 독일 제국 함대와 오스만 제국 함대의 대제독 빌헬름 수숑 제독이 오늘 세상을 떠났습니다. "
 
-gerdom.66.t:0 "게오르크 브루흐뮐러 사망 "
+gerdom.66.t:0 "게오르크 브루흐뮐러의 서거"
 gerdom.66.d:0 "세계 대전의 영웅이자 현대 포병 전술의 고안자 브루흐뭘러 원수가 오늘 세상을 떠났습니다. "
 
 ### The Kaiserbund ###
 
-gerdom.72.t:0 "인도네시아 상황 "
+gerdom.72.t:0 "인도네시아의 상황"
 gerdom.72.d:0 "황제 연방 계획의 일환으로 우리는 인도네시아에 반자유 국가를 만들기로 결졍했습니다. 영토를 어떻게 나누겠습니까?"
 gerdom.72.a:0 "범-말레이시아 국가를 만든다."
 gerdom.72.b:0 "사라와크와 말레이시아를 분리한다"
 
-gerdom.73.t:0 "인도차이나 상황 "
+gerdom.73.t:0 "인도차이나의 상황"
 gerdom.73.d:0 "황제 연방 계획의 일환으로 우리는 인도차이나에 반자유 국가를 만들기로 결졍했습니다. 영토를 어떻게 나누겠습니까?"
 gerdom.73.a:0 "범-인도차이나 국가를 만든다."
 gerdom.73.b:0 "여러 국가로 나눈다."
@@ -766,10 +766,10 @@ gerdom.73.b:0 "여러 국가로 나눈다."
 gerdom.74.t:0 "중앙 아프리카 분할"
 gerdom.74.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계획을 독일 통제 하에 있는 여러 지역에 얼마나 적용할 것인지 결정해야 합니다. 그러한 영토 중 하나가 바로 중앙아프리카입니다. 제국 의회의 보수당 의원들은 현상 유지를 주장하고 있는 반면, 대부분의 정치인들은 중앙아프리카가 독일군과 경제에 큰 부담을 안겨주고 이익은 적다는 사실을 깨달았습니다. 따라서, 가능한 한 적은 비용으로 중앙아프리카를 계속 다스리기를 원한다면, 이 지역에 대해 과감한 개편이 필요합니다."
 gerdom.74.a:0 "중앙 아프리카를 여러 국가로 나눈다 "
-gerdom.74.b:0 "연방화하라! "
+gerdom.74.b:0 "연방화하라!"
 gerdom.74.c:0 "모든 것을 그대로 유지하라! "
 
-gerdom.75.t:0 "몰타 상황 "
+gerdom.75.t:0 "몰타의 상황"
 gerdom.75.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계획을 독일 통제 하에 있는 여러 요충지에 얼마나 적용할 것인지 결정해야 합니다. 그 중 하나는 몰타 섬입니다. 몰타는 지중해를 통과하는 항로의 안전을 위해 중요하고 '가라앉지 않는 항공 모함' 역할을 하기 때문에 거의 모든 주요 참모들과 많은 보수 정치인들은 이 섬을 직접 통제하자고 주장하고 있습니다."
 gerdom.75.a:0 "제한적 자치권을 부여하라"
 gerdom.75.b:0 "직접 통치하에 두어라”
@@ -943,13 +943,13 @@ gerdom.209.b:0 "흐음… 하지만 대가가 크겠군..."
 
 gerfor.1.t:0 "브리튼 연방이 덴마크를 침공하다"
 gerfor.1.d:0 "The combined forces of the Union of Britain have launched an invasion of Denmark. This invasion threatens to disrupt the balance of power in favour of the syndicalist alliance, and the Danish government has asked for our help. Shall we warn the syndicalists about the foolishness of their actions or let Denmark fall?"
-gerfor.1.a:0 "그들에게 돌아가지 않으면 독일산 무기에 맞서야 할 것이라고 경고하라!"
+gerfor.1.a:0 "그들에게 돌아가지 않으면 독일군과 맞서야 할 것이라고 경고하라!"
 gerfor.1.b:0 "물려라! 짐은 마음을 바꾸었다! "
 
 gerfor.2.t:0 "독일이 최후통첩을 보내다"
-gerfor.2.d:0 "제 2제국이 런던에 최후통첩을 보냈습니다. 우리가 덴마크에서 물러나고 사격을 중지하지 않는다면 독일은 덴마크를 도울 것입니다."
-gerfor.2.a:0 "우리는 독일과의 전쟁을 각오할 수 없다, 짐을 싸라!"
-gerfor.2.b:0 "군주 정치에 답할 바는 없다! 수도로 진격을 계속하라!"
+gerfor.2.d:0 "제 2제국이 런던에 최후 통첩을 보냈습니다. 우리가 덴마크에서 물러나고 사격을 중지하지 않는다면 독일은 덴마크를 도울 것입니다."
+gerfor.2.a:0 "우리는 독일과의 전쟁을 감수할 수 없다, 철수하라!"
+gerfor.2.b:0 "군주제에 해줄 대답 따위는 없다! 수도로 진격을 계속하라!"
 
 gerfor.3.t:0 "독일이 도움을 요청하다"
 gerfor.3.d:0 "We are in a state of war with the Union of Britain. Our military, while proud, will not be able to withstand the Syndicalist onslaught. Some influential figures of daily life are petitioning us to ask the Germans for help, even if it might mean having to accept some German influence after the invasion is repelled. What shall we do?"
@@ -967,8 +967,8 @@ gerfor.5.b:0 "물러서라! 우리 시대에는 평화가 있을 것이다!"
 
 gerfor.6.t:0 "영국이 덴마크에서 철수하다"
 gerfor.6.d:0 "After the ultimatum was received by London they quickly sent orders to all of their commanders on the ground to cease fire and return to the coast. Denmark's independence will be kept and our pride will remain intact."
-gerfor.6.a:0 "독일이 아니었다면 이렇게 되지 않았을 것이다!"
-gerfor.6.b:0 "참 의지할 만한 동맹이로군 "
+gerfor.6.a:0 "독일이 아니었다면 불가능했을 것이다!"
+gerfor.6.b:0 "참 의지할 만한 동맹이로군"
 
 gerfor.7.t:0 "생디칼리스트가 이탈리아를 침공하다"
 gerfor.7.d:0 "프랑스 코뮌과 이탈리아 사회주의 공화국이 이탈리아 연방을 침략하기 시작했습니다. 이는 생디칼리즘 동맹에 유리한 쪽으로 세력 균형을 무너트릴 것입니다. 생디칼리스트들에게 이는 세계 평화를 위협하는 짓이라고 말할까요, 아니면 이탈리아가 무너지도록 놔둘까요?"
@@ -1096,13 +1096,13 @@ gerfor.39.d:0 "독일이 우리를 도우러 왔습니다! 독일은 브리튼 �
 gerfor.40.t:0 "브리튼 연방이 물러서다"
 gerfor.40.d:0 "After the ultimatum was received by London they quickly sent orders to all of their commanders on the ground to cease fire and return to the coast. We have achieved a diplomatic victory today, we have shown the world we will stand up to Socialist and Syndicalist aggression. We will protect any nation under threat from Britain or France."
 
-gerfor.41.t:0 "영국놈들이 우리의 최후통첩을 무시하다"
+gerfor.41.t:0 "브리튼 연방이 우리의 최후통첩을 무시하다"
 gerfor.41.d:0 "Despite the ultimatum being received by London their soldiers continue to march towards the Norwegian capital of Oslo clearly ignoring our demands. We can either declare war and bring Norway into our alliance or we can stand down and let Norway fall."
 
-gerfor.42.t:0 "영국이 노르웨이에서 철수하다"
+gerfor.42.t:0 "브리튼 연방이 노르웨이에서 철수하다"
 gerfor.42.d:0 "After the ultimatum was received by London they quickly sent orders to all of their commanders on the ground to cease fire and return to the coast. The independence of Norway will be kept and our pride will remain intact."
 
-gerfor.43.t:0 "아일랜드와 조약"
+gerfor.43.t:0 "아일랜드와의 조약"
 gerfor.43.d:0 "전세계적으로 생디칼리스트들이 생겨나고 있는 가운데, 잠재적인 동맹국을 미틀오이로파가 가능한 한 도와주는 것이 매우 중요합니다. 아일랜드가 독일을 지지한다면 사회주의자들 바로 코 앞에 확고한 기반을 다질 수 있을 것입니다."
 gerfor.43.a:0 "미틀오이로파에 가입한다면 지원을 제공한다고 아일랜드에 제안하라"
 
@@ -1124,17 +1124,17 @@ gerfor.47.d:0 "아일랜드가 주문한 모든 물자의 준비가 끝났습니
 gerfor.47.a:0 "좋아"
 
 gerfor.48.t:0 "독일의 원조가 도착하다"
-gerfor.48.d:0 "총, 기갑 장비, 비행기 등 우리가 독일에 주문한 물품이 우리 항구에 도착했습니다. 각각 한 전대를 구성할 전투기와 폭격기, 여러 대의 전차와 많은 포 그리고 새로운 독일제 기관총을 받았습니다."
+gerfor.48.d:0 "총기, 기갑 장비, 항공기 등 우리가 독일에 주문한 물품이 우리 항구에 도착했습니다. 각각 한 전대를 구성할 만큼의 전투기와 폭격기, 여러 대의 전차와 다수의 야포 그리고 최신 독일제 기관총을 받았습니다."
 gerfor.48.a:0 "대단하군!"
 
 gerfor.49.t:0 "아일랜드에 대한 물품 원조가 불가능하다"
 gerfor.49.d:0 "불운하게도 우리의 지원을 수용할 아일랜드의 의지 또는 능력의 부재로 인하여 모든 계획을 중단하야 합니다. 그나마 다행인 것은 이미 생산한 장비가 우리 수중에 있으며 이를 사용할 수 있다는 점입니다."
-gerfor.49.a:0 "없는 것보다 낫지."
+gerfor.49.a:0 "없는 것보단 낫지."
 
 gerfor.50.t:0 "오랜 벗에 대한 호소?"
 gerfor.50.d:0 "우리에게 등을 돌린 전쟁으로 인해서 동맹이 필요하다는 사실은 분명해지고 있습니다, 아마도 지원을 위해 우리의 오랜 동맹에 의지하는 편이 현명하지 않을까요? 분명히 그들이 우리를 홀로 두지는 않을 것입니다…"
 gerfor.50.a:0 "우리는 받을 수 있는 모든 도움이 필요하다!"
-gerfor.50.b:0 "오직 오스트리아와 접촉하다, 다른 것들은 골칫거리다."
+gerfor.50.b:0 "오직 오스트리아와만 접촉한다, 다른 놈들은 골칫거리다."
 gerfor.50.c:0 "독일과 미틀오이로파는 그들이 없이도 충분히 강하다!"
 
 gerfor.51.t:0 "생디칼리스트에 대항하는 독일에 지원?"
@@ -1144,7 +1144,7 @@ gerfor.51.b:0 "이번에 독일인들은 홀로 헤쳐 나가야 할 것이다!"
 gerfor.51.c:0 "물자와 자원병을 보내라"
 
 gerfor.52.t:0 "생디칼리스트에 대항하는 독일에 지원?"
-gerfor.52.d:0 " 독일이 생디칼리즘에 대항하는 그들의 전쟁에 가담하길 요청하고 있습니다. 나라 안의 보수파는 생디칼리즘으로부터 유럽을 지키기 위한 신성한 의무를 이야기하고 있습니다만, 다른 이들은 독일의 전쟁에서 억지로 싸워서는 안된다고 말하고 있습니다."
+gerfor.52.d:0 "독일이 생디칼리즘에 대항하는 그들의 전쟁에 가담하길 요청하고 있습니다. 나라 안의 보수파는 생디칼리즘으로부터 유럽을 지키기 위한 신성한 의무를 이야기하고 있습니다만, 다른 이들은 독일의 전쟁에서 억지로 싸워서는 안된다고 말하고 있습니다."
 gerfor.52.a:0 "황제 연방이 돌아왔다! 술탄은 독일인들을 지원해야 한다!"
 gerfor.52.b:0 "이번에 독일인들은 홀로 헤쳐 나가야 할 것이다!"
 gerfor.52.c:0 "물자와 자원병을 보내라"
@@ -1194,14 +1194,14 @@ gerfor.62.a:0 "없는 것보단 낫지!"
 gerfor.63.t:0 "독일이 트론헤임을 원합니다"
 gerfor.63.d:0 "독일이 우리 대사에 접근해 다소 이상한 제안을 했습니다. 트론헤임 항을 25년 동안 조차하고 브리튼 연방에 맞서기 위한 전진기지로 만드는 대신 상당한 금액을 제공하겠다고 말이지요. 원래 거주하던 노르웨이인들은 계속 머물 수 있을 것이고, 트론헤임에서 노르웨이의 민간 행정도 유지될 것입니다. 그 지역에서 상업이 엄청나게 활성화 되겠지만, 이 제안에 동의한다면 브리튼 연방이 우리에게 보복할지도 모릅니다...\n\n어떻게 할까요?"
 gerfor.63.a:0 "돈은 정말 좋다!"
-gerfor.63.b:0 "우리는 영국을 화나게 할 수 없다!"
+gerfor.63.b:0 "우리는 브리튼 연방을 분노케 할 수 없다!"
 
 gerfor.64.t:0 "노르웨이가 트론헤임 조차를 수락하다"
 gerfor.64.d:0 "노르웨이 정부는 다음 25년 동안 트론헤임을 조차하겠다는 우리 제안에 동의하기로 결정했습니다. 트론헤임을 생디칼리즘에 대한 방패에 필수적인 부분으로 만들기 위해 필요한 투자를 평가하는 작은 위원회가 이미 열려있습니다."
 gerfor.64.a:0 "정말 좋군."
 
 gerfor.65.t:0 "노르웨이가 트론헤임 조차를 거부하다"
-gerfor.65.d:0 "노르웨이 정부는 영국의 보복 위협을 언급하며 다음 25년 동안 트론헤임을 조차하겠다는 우리 제안에 동의하지 않기로 결정했습니다. 이해 할 수 있고 예기치 못한 일도 아니지만, 그래도 유감스럽습니다."
+gerfor.65.d:0 "노르웨이 정부는 브리튼 연방의 보복 위협을 언급하며 다음 25년 동안 트론헤임을 조차하겠다는 우리 제안에 동의하지 않기로 결정했습니다. 이해 할 수 있고 예기치 못한 일도 아니지만, 그래도 유감스럽습니다."
 gerfor.65.a:0 "키엘로도 충분할거야"
 
 gerfor.66.t:0 "악마와 거래하시겠습니까?"
@@ -1899,7 +1899,7 @@ gerdom.279.t:0 "크레타는 또 다시 그리스로!"
 gerdom.279.d:0 "독일인들은 생디칼리스트들과의 전쟁에 또 휘말렸습니다. 크레타의 우리 형제들이 독일에 맞서 일어날 기회입니다!"
 gerdom.279.a:0 "두번째 에노시스를 찬미하라!"
 
-gerdom.284.t:0 "크레타 상황"
+gerdom.284.t:0 "크레타의 상황"
 gerdom.284.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계획을 독일 통제 하에 있는 여러 요충지에 얼마나 적용할 것인지 결정해야 합니다. 그 중 하나는 크레테 섬입니다. 이 섬은 혼란스러운 역사를 가졌고, 많은 외국 세력들이 이 섬을 눈독들이고 있습니다. 우리는 이 섬을 더 잘 방어할 수 있을 지도 모르며, 한편으로는 '가라앉지 않는 항공 모함' 은 일을 그르칠 일이 없을 입니다."
 gerdom.284.a:0 "제한적인 자치권을 부여한다"
 gerdom.284.b:0 "직할통치를 유지한다"
