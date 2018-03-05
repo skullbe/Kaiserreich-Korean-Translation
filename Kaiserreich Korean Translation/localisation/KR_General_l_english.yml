@@ -155,7 +155,7 @@ SER_KR_GATHERING_STORM_DESC:0 "세계 대전의 촉매가 된 이 전쟁은 세�
 SOM_KR_GATHERING_STORM_DESC:0 "소말리아는 세계대전을 통해 태어난 국가입니다. 종전까지 왈랑가리의 국기아래 이탈리아의 다른 보호령들이 뭉쳤습니다. 명목상으로는 모가디슈가 수도인 연방이지만, 대부분의 권력은 라스 코리로 부터 나옵니다. 연방은 있으나마나한 법으로 어려움을 겪고 있으며, 청년들과 육군 장교들의 비난을 받고 있습니다. 철도와 공장, 말끔히 무장된 군대는 기근과 농촌 지역의 전통방식과는 대조적으로 보입니다. 그러나 이 번영은 아바시니아의 관심이 오가덴으로 향하고 있기 때문에 오래가지 않을 것이며, 전쟁이 곧 닥칠 것으로 보입니다..."
 
 ### South Africa ###
-SAF_KR_GATHERING_STORM_DESC:0 "Formed in 1910 as a merger of the various British possessions in South Africa, the Union of South Africa is currently a parliamentary republic, having seceded from the British Empire during the crisis of 1925. The National Party's victory in the last election has them poised to increase restrictions on the country's black majority, amidst rising tensions and a growing opposition from the Dominion Party which advocates a return to the British Empire. It is expected the issue will finally be resolved come the 1938 elections - though many fear the result will almost inevitably be violence, if not civil war."
+SAF_KR_GATHERING_STORM_DESC:0 "1910년에 영국의 남아프리카 식민지 다수를 통합하여 건국되었습니다. 남아프리카 연방은 현재 의회주의 공화국이며, 1925년 사건 때, 대영제국에서 탈퇴했습니다. 지난선거에서 국민당의 승리를 통해 흑인 다수당에 대한 제한이 강화 될 전망이며, 긴장감이 감도는 가운데, 대영제국으로의 복귀를 지지하는 야당인 자치당이 지지세력을 넓히고 있습니다. 1938년 선거에서 이 문제가 완화될 것으로 보이지만 많은 이들이 내전까지는 아니더라도 불가피한 유혈사태가 발생하는 것을 걱정하고 있습니다."
 
 ### Switzerland ###
 SWI_KR_GATHERING_STORM_DESC:0 "뭔가 중립적이고 중립적인 국가입니다."
@@ -772,15 +772,15 @@ generic_national_identity:0 "국가 정체성"
 generic_national_identity_desc:0 "While the ideological debate is one we could get lost in for ages, we must not forget who we are at our core. We are unique, we know our history, our culture and we hope that our destiny is even more brilliant. If we have shaped a better society today, we will shape an even better country tomorrow."
 
 ### Generic Ideas ###
-generic_liberty_idea:0 "자유의 정신"
+generic_liberty_idea:0 "자유 정신"
 generic_liberty_idea_desc:0 "Freedom is something we have pledged to preserve, and this inspires our population to support us even if they may not always agree with our policies or the state of the country in the present moment."
 generic_militarism_focus:0 "군국주의"
 generic_militarism_focus_desc:0 "Our people have come to see the army as an integral part of our nation, and every conscript plays his part. This allows us to mobilise reserves, militia and other paramilitary forces in a pinch."
-generic_military_youth_focus:0 "청소년 군인"
+generic_military_youth_focus:0 "유소년 군사조직"
 generic_military_youth_focus_desc:0 "From the youngest age, our citizens learn military values and integrate them as a part of their life. This obviously increases the amount of vocations for the army as they reach adulthood."
-generic_ideological_fanaticism_focus:0 "이념 광신주의"
+generic_ideological_fanaticism_focus:0 "이념적 광신주의"
 generic_ideological_fanaticism_focus_desc:0 "Our country is the centre of our ideology, and our ideology is the fabric of country. Many are ready to die for its survival when others would easily retreat to new positions."
 generic_liberty_research_idea:0 "대학 보조금"
 generic_liberty_research_idea_desc:0 "We are paying modest but still relatively decent university grants to ensure any aspiring student has a shot at higher education. This is bound to increase the size of our intelligentsia"
-generic_welfare_idea:0 "복지 프로그램"
+generic_welfare_idea:0 "복지 "
 generic_welfare_idea_desc:0 "We are ensuring that the poorest in our society receive the help they need to survive, so that they do not have to fend for themselves and may work for our economy one day."
