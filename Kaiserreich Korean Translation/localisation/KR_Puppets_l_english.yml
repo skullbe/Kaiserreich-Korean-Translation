@@ -9,18 +9,18 @@ kr_nominal_puppet:0 "명목상 괴뢰국"
 kr_special_autonomous_dependency:0 "자치도"
 
 ### Tooltips ###
-can_lower_autonomy_level:0 "Can lower autonomy level\n"
-can_raise_autonomy_level:0 "Can raise autonomy level\n"
-puppet_can_become_free:0 "May become independent\n"
-puppet_can_be_annexed:0 "May be annexed by the overlord\n"
-may_raise_autonomy:0 "§Y[Root.GetNameDef]§! may now raise autonomy level\n"
-may_become_free:0 "§Y[Root.GetNameDef]§! may now work towards independence\n"
+can_lower_autonomy_level:0 "자치도를 낮출 수 있습니다\n"
+can_raise_autonomy_level:0 "자치도를 높일 수 있습니다\n"
+puppet_can_become_free:0 "독립 할 수 있습니다\n"
+puppet_can_be_annexed:0 "종주국에게 합병될 수 있습니다\n"
+may_raise_autonomy:0 "§Y[Root.GetNameDef]§!의 자치도가 올라가고 있습니다\n"
+may_become_free:0 "§Y[Root.GetNameDef]§!(이)가 독립을 향해가고 있습니다\n"
 
 ### Events ###
 kr.political.100.t:0 "Order Restored in [Root.GetNameDef]"
 kr.political.100.d:0 "While [Root.GetNameDef] still labours under [overlord_name.GetAdjective] control, the [Root.GetAdjective] military has asserted enough control over our own borders that a semblance of greater autonomy is now possible to exert. This is not independence - far from it - but it does mean we no longer have to rely on [overlord_name.GetAdjective] troops to secure our borders."
-kr.political.100.a:0 "Excellent"
+kr.political.100.a:0 "훌륭해"
 
-kr.political.101.t:0 "Greater [Root.GetAdjective] Autonomy?"
+kr.political.101.t:0 "대 [Root.GetAdjective] 자치국?"
 kr.political.101.d:0 "[Root.GetNameDef] remains under the control of the [overlord_name.GetAdjective] government, but that control is beginning to surely lessen as our strength reasserts itself. [Root.GetAdjective] power is not something to be easily contained, and already our leaders are clamoring for more control over our own affairs. Surely our [overlord_name.GetAdjective] will not be able to resist us for long."
-kr.political.101.a:0 "Long live [Root.GetNameDef]!"
+kr.political.101.a:0 "[Root.GetNameDef]여 만수무강하기를!"
