@@ -57,17 +57,17 @@ ottoman_aggression_bulgaria_GER:0 "Ottoman aggression in the Balkans"
 bulgaria_ottoman_puppet_BUL:0 "Installed a friendly Bulgarian government"
 
 ### Flags ###
-balkan_war_ended:0 "발칸전쟁 종전"
+balkan_war_ended:0 "발칸 전쟁의 종식"
 
 ### Events ###
 
 bulgaria.0.t:0 "불가리아 왕국"
 bulgaria.0.d:0 "Bulgaria won her independence from the Ottoman Empire in 1878 with the Treaty of San Stefano, but was even then cut down by the Berlin Congress. Becoming the driving force behind the Balkan League and carrying much of the burden in the First Balkan War, Bulgaria was once more betrayed and cut down by her former allies, Greece and Serbia. It was only in the Weltkrieg that the Bulgarian state came to control all that which was rightfully hers; King Ferdinand had chosen right and his vision finally seemed to be reality. All was not truly perfect however; unrest in the newly conquered provinces, subversive nationalist propaganda campaigns by neighbours and a stagnant economy caused Bulgaria to falter and fail to make full use of their newfound power, even despite German industrial assistance. Tsar Ferdinand abdicated earlier this decade, leaving the throne to his son Tsar Boris the Third."
-bulgaria.0.a:0 "불가리아와 차르께 영광을!"
+bulgaria.0.a:0 "불가리아와 차르에게 영광을!"
 
 bulgaria.1.t:0 "독립 기념일"
 bulgaria.1.d:0 "The Third of March marks Liberation Day - when years ago at the Treaty of San Stefano we won our independence from the Ottoman Turks. The whole country celebrates and the streets of Sofia fill with waving flags!"
-bulgaria.1.a:0 "신은 우리곁에 있다!"
+bulgaria.1.a:0 "신께서 우리와 함께 하신다!"
 
 bulgaria.2.t:0 "독립 기념일"
 
@@ -185,7 +185,7 @@ BUL_equipment_effort_3:0 "육군을 완벽화하다"
 BUL_equipment_effort_3_desc:0 "Every misfire or slight fault with any of our equipment could lead to casualties. By paying attention to the minute, we can save lives and win any war."
 BUL_armour_effort:0 "전차 자체 개발"
 BUL_armour_effort_desc:0 "The Panzer is one of the major developments as a result of the Weltkrieg, but our own supply of them is lacking. We should develop a new model of Panzer that will revolutionise the"
-BUL_special_forces:0 ""
+BUL_special_forces:0 "육군 개혁"
 BUL_special_forces_desc:0 "The Balkans are a manic terrain of soaring mountains and wild rivers. If we adapt certain elements of our Land Forces to deal with these extremes, then we shall have an obvious advantage."
 
 ### Air Focuses ###
@@ -224,13 +224,13 @@ BUL_secret_weapons_desc:0 "There are many advances in science and engineering wh
 BUL_political_effort:0 "Political Direction"
 BUL_political_effort_desc:0 "Bulgaria finds itself often torn between the interests of the Tsar and state. We should resolve this, in one way or another."
 
-BUL_collectivist_ethos_kr:0 "United Under the Tsar"
+BUL_collectivist_ethos_kr:0 "차르 아래 연합하다"
 BUL_collectivist_ethos_kr_desc:0 "Every man, woman and child on Bulgarian soil, regardless of what language they speak, is and always will be a Bulgarian. We are united under the reign of the Tsar."
-BUL_militarism:0 "Prussia of the Balkans"
-BUL_militarism_desc:0 "We are the Prussia of the Balkans - an army with a state. This aspect of our people has fallen to the wayside in the aftermath of the Weltkrieg but we can once again bring it to the fore."
-BUL_military_youth:0 "To Serve is Bulgarian"
+BUL_militarism:0 "발칸의 프로이센"
+BUL_militarism_desc:0 "우리는 군국주의 국가 - 발칸의 프로이센입니다. 우리 국민의 이러한 성향은 세계 대전 이후 사라졌지만 우리는 다시 한번 그것을 일깨울 수 있습니다."
+BUL_military_youth:0 "불가리아인 복무"
 BUL_military_youth_desc:0 "During the Weltkrieg, one quarter of our people fought to protect the Tsardom. This national spirit remains, and the people of Bulgaria are all willing to fight."
-BUL_ideological_fanaticism:0 "For the Tsardom!"
+BUL_ideological_fanaticism:0 "차르를 위하여!"
 BUL_ideological_fanaticism_desc:0 "As much as faith, family and love should drive a man so should loyalty to his country. All Bulgarians should follow the Tsar wherever he may lead."
 
 BUL_liberty_ethos_kr:0 "Democratise the Government"
