@@ -1,23 +1,23 @@
 l_english:
 
 ### Ideas ###
-BUL_black_monday_1:0 "검은 월요일 강타"
-BUL_black_monday_1_desc:0 "검은 월요일의 여파가 불가리아에 깊이 강타했습니다."
+BUL_black_monday_1:0 "검은 월요일의 여파"
+BUL_black_monday_1_desc:0 "검은 월요일의 여파가 불가리아를 강타했습니다."
 
-BUL_black_monday_2:0 "검은 월요일 강타 약화됨"
+BUL_black_monday_2:0 "검은 월요일의 여파 진정 중"
 BUL_black_monday_2_desc:0 "검은 월요일의 여파가 정부의 개입으로 서서히 가라앉고 있습니다."
 
-BUL_black_monday_3:0 "검은 월요일 강타 복구됨"
-BUL_black_monday_3_desc:0 "검은 월요일의 여파가 불가리아에서 거의 사라졌습니다."
+BUL_black_monday_3:0 "검은 월요일의 여파 복구"
+BUL_black_monday_3_desc:0 "검은 월요일의 여파가 불가리아에서 거의 수습되었습니다."
 
 BUL_tsar_pensions:0 "차르의 연금"
-BUL_tsar_pensions_desc:0 "퇴위 한 차르 페르디난트는 다소 높은 연금을 받고 있습니다..."
+BUL_tsar_pensions_desc:0 "퇴위한 차르 페르디난트는 다소 높은 연금을 받고 있습니다..."
 
 BUL_economic_revival:0 "경제 부흥"
-BUL_economic_revival_desc:0 "불가리아에 전쟁이 닥쳤고, 경제가 삶에서 중요하지 않게 되었습니다."
+BUL_economic_revival_desc:0 "불가리아에 전쟁이 닥쳤고, 경제는 당분간 중요하지 않게 되었습니다."
 
-BUL_bulgarian_militarism:0 "불가리아 군국주의
-BUL_bulgarian_militarism_desc:0 "제 4차 발칸전쟁은 불가리아인들의 군국주의적 활력을 다시금 일깨웠습니다."
+BUL_bulgarian_militarism:0 "불가리아의 군국주의"
+BUL_bulgarian_militarism_desc:0 "제 4차 발칸 전쟁은 불가리아인들의 군국주의적 성향을 다시금 일깨웠습니다."
 
 ### Parties ###
 BUL_totalist_party:0 "전체주의자"
@@ -65,11 +65,11 @@ bulgaria.0.t:0 "불가리아 왕국"
 bulgaria.0.d:0 "Bulgaria won her independence from the Ottoman Empire in 1878 with the Treaty of San Stefano, but was even then cut down by the Berlin Congress. Becoming the driving force behind the Balkan League and carrying much of the burden in the First Balkan War, Bulgaria was once more betrayed and cut down by her former allies, Greece and Serbia. It was only in the Weltkrieg that the Bulgarian state came to control all that which was rightfully hers; King Ferdinand had chosen right and his vision finally seemed to be reality. All was not truly perfect however; unrest in the newly conquered provinces, subversive nationalist propaganda campaigns by neighbours and a stagnant economy caused Bulgaria to falter and fail to make full use of their newfound power, even despite German industrial assistance. Tsar Ferdinand abdicated earlier this decade, leaving the throne to his son Tsar Boris the Third."
 bulgaria.0.a:0 "불가리아와 차르께 영광을!"
 
-bulgaria.1.t:0 "광복절"
+bulgaria.1.t:0 "독립 기념일"
 bulgaria.1.d:0 "The Third of March marks Liberation Day - when years ago at the Treaty of San Stefano we won our independence from the Ottoman Turks. The whole country celebrates and the streets of Sofia fill with waving flags!"
 bulgaria.1.a:0 "신은 우리곁에 있다!"
 
-bulgaria.2.t:0 "광복절"
+bulgaria.2.t:0 "독립 기념일"
 
 bulgaria.3.t:0 "검은 월요일이 불가리아를 강타하다!"
 bulgaria.3.d:0 "Almost a month ago, the Berlin Stock Exchange plunged into bottomless depths, throwing the economy of the German Empire into an unprecedented crisis. Now the crash's shock waves have reached the Tsardom of Bulgaria. German and Austrian-owned companies have closed down or laid-off their workers, the Bulgarian lev is losing value, and resource exports are shrinking. Our own export orientated economy is on the verge of collapse..."
@@ -91,12 +91,12 @@ bulgaria.6.d:0 "With our empire in chaos, Bulgaria has taken the opportunity to 
 bulgaria.6.a:0 "There is nothing we can do..."
 bulgaria.6.b:0 "This means WAR!"
 
-bulgaria.7.t:0 "Bulgarian advance on Konstantinyye"
-bulgaria.7.d:0 "With our empire in chaos, Bulgaria has decided to use this opportunity to seize control of the entire European part of our Empire, including Konstantinyye! Despite critical situations on other fronts, our population is steadfast that we must defend our capital and resist the Bulgarian invaders!"
-bulgaria.7.a:0 "There is nothing we can do..."
-bulgaria.7.b:0 "This means WAR!"
+bulgaria.7.t:0 "불가리아가 콘스탄티니예로 진격하다"
+bulgaria.7.d:0 "우리의 제국이 혼란에 사로잡힌 가운데, 불가리아는 이 기회를 이용해 콘스탄티니예를 포함한 우리 제국의 유럽 영토 전역의 지배권을 탈취하기로 결정했습니다. 비록 우리에게 다른 심각한 상황이 많기는 하지만, 우리의 대다수는 우리의 수도를 지키고 불가리아 침략자들에게 맞서야 한다는 점에서 확고합니다!"
+bulgaria.7.a:0 "우리가 할 수 있는 건 없다..."
+bulgaria.7.b:0 "그건 전쟁을 뜻한다!"
 
-bulgaria.8.t:0 "Political Scandal"
+bulgaria.8.t:0 "정치적 스캔들"
 bulgaria.8.d:0 "The eccentric and outspoken former Tsar Ferdinand has complained that his already considerable 'pensions' are insufficient for a man of his stature. Prime Minister Filov refused Ferdinand's demands outright, claiming that such extravagance was tasteless in a country suffering from economic depression. Tsar Boris has the ungrateful task of choosing between his father and his Prime Minister. Who will the Tsar support?"
 bulgaria.8.a:0 "Support Ferdinand, Bulgaria will honour its heroes"
 bulgaria.8.b:0 "Support Filov, Ferdinand demands too much"
@@ -115,18 +115,18 @@ bulgaria.11.d:0 "While the recent economic prosperity has increased the wage of 
 bulgaria.11.a:0 "Cave into their demands"
 bulgaria.11.b:0 "Round up the demonstrators!"
 
-bulgaria.12.t:0 "Peace with Bulgaria?"
+bulgaria.12.t:0 "불가리아와의 평화?"
 bulgaria.12.d:0 "We have liberated Eastern Rumelia and decisively defeated Bulgaria! Because of the weak position of the Bulgarian state, they probably have no chance of taking it back and will likely accept a peace offer."
 bulgaria.12.a:0 "Demand Eastern Rumelia"
 bulgaria.12.b:0 "Demand Eastern Rumelia and Impose a Friendly Government"
 bulgaria.12.c:0 "No, we want more!"
 
-bulgaria.13.t:0 "Ottoman Empire offers Peace"
+bulgaria.13.t:0 "오스만 제국이 평화를 제안하다"
 bulgaria.13.d:0 "After decisively defeating our armed forces and seizing Eastern Rumelia, the Ottoman Empire has offered peace. We must, however, cede Eastern Rumelia and relinquish all claims to it."
 bulgaria.13.a:0 "Those damn Ottomans!"
 bulgaria.13.b:0 "Never!"
 
-bulgaria.14.t:0 "Ottoman Empire offers Peace"
+bulgaria.14.t:0 "오스만 제국이 평화를 제안하다"
 bulgaria.14.d:0 "After decisively defeating our armed forces and seizing Eastern Rumelia, the Ottoman Empire has offered peace. We must, however, cede Eastern Rumelia, relinquish all claims to it and form a government friendly to the Ottomans."
 bulgaria.14.a:0 "Those damn Ottomans!"
 bulgaria.14.b:0 "Never!"
@@ -143,11 +143,11 @@ bulgaria.17.t:0 "Our Rule in Southern Macedonia"
 bulgaria.17.d:0 "Since we annexed it after the Weltkrieg, the Greek inhabitants of Southwest Macedonia have hoped to secede and reunite with the Kingdom of Greece. Recently however, they seem to have seen reason and we are receiving fewer reports of Greeks resisting our rule than usual. It appears we have finally cemented control over the entirety of Macedonia!"
 bulgaria.17.a:0 "Unity makes strength!"
 
-bulgaria.18.t:0 "A Choice in Albania"
+bulgaria.18.t:0 "알바니아에 대한 선택"
 bulgaria.18.d:0 "Public lobbying by the Tsar's war ministers and aggressive movements in Macedonia have assured that the Albanians know their place. Now is the time, if any, to make demands upon their government. We can chose to replace it with a friendlier cabinet, replace the cabinet and annex a stretch of land giving us a port on Adriatic or we can seize control of their entire nation."
-bulgaria.18.a:0 "Puppet them, secure our west!"
-bulgaria.18.b:0 "We need an Adriatic port!"
-bulgaria.18.c:0 "The Balkans are all ours! Annex them!"
+bulgaria.18.a:0 "괴뢰화시켜, 서쪽을 방비하라!"
+bulgaria.18.b:0 "우리는 아드리아의 항구가 필요하다!"
+bulgaria.18.c:0 "발칸 전역은 우리 것이다! 합병하라!"
 
 ### Election Events ###
 
@@ -159,33 +159,33 @@ bulgaria.44.t:0 "The 1954 National Assembly Elections"
 bulgaria.45.t:0 "The 1958 National Assembly Elections"
 bulgaria.46.t:0 "The 1962 National Assembly Elections"
 bulgaria.40.d:0 "The election of the National Assembly has begun and will decide who will form the next governmental cabinet. The four parties with a chance of winning are the Democratic Alliance, the Agrarian People's Union, the National Social Movement and the Social Democratic Workers Party. Who shall win?"
-bulgaria.40.a:0 "민주동맹!"
-bulgaria.40.b:0 "농민연합!"
+bulgaria.40.a:0 "민주 동맹!"
+bulgaria.40.b:0 "농민 연합!"
 bulgaria.40.c:0 "차르의 충신들!"
 bulgaria.40.e:0 "사회민주노동당!"
 
 ### Focuses ###
 
 ### Army Focuses ###
-BUL_army_effort:0 "Bulgarian Land Forces"
-BUL_army_effort_desc:0 "The Bulgarian Land Forces are the finest army on the Balkan Peninsula, but our doctrines are looking to become sorely outdated. We must update them and train our troops in order to solidify our position."
-BUL_equipment_effort:0 "Develop New Equipment"
+BUL_army_effort:0 "불가리아 지상군"
+BUL_army_effort_desc:0 "불가리아 지상군은 발칸 반도에서 가장 강한 육군이지만, 우리의 교리는 점점 구식이 되어 가고 있습니다. 우리의 입지를 확고히 하기 위해서는 육군을 재정비하고 병사들을 훈련시켜야 합니다."
+BUL_equipment_effort:0 "장비 개발"
 BUL_equipment_effort_desc:0 "Even slight changes to a rifle can save a man's life in war - by making large changes for the better we should be able to save many Bulgarians."
-BUL_motorisation_effort:0 "Motorise Our Army"
+BUL_motorisation_effort:0 "육군 차량화"
 BUL_motorisation_effort_desc:0 "The static trench lines that defined the Weltkrieg will not serve us well anymore. We must look to ensure our men can attack and redeploy with speed."
-BUL_doctrine_effort:0 "Lessons of the Weltkrieg"
+BUL_doctrine_effort:0 "세계 대전의 교훈"
 BUL_doctrine_effort_desc:0 "The lessons that the Weltkrieg taught us still apply today, we just need to adapt them to the modern day and change what the troops have learnt."
-BUL_equipment_effort_2:0 "Engineering Standards"
+BUL_equipment_effort_2:0 "공학 표준"
 BUL_equipment_effort_2_desc:0 "Our small-arms and artillery are made in factories across Bulgaria - by setting engineering standards for our factories, we ensure quality."
-BUL_mechanisation_effort:0 "Mechanise Our Army"
+BUL_mechanisation_effort:0 "육군 기계화"
 BUL_mechanisation_effort_desc:0 "Ensuring our troops can rapidly move is a start - but they must have force of arms behind them when they arrive to battle. By mechanising our Land Forces, we shall ensure that every battle is a victory."
-BUL_doctrine_effort_2:0 "Investigate New Tactics"
+BUL_doctrine_effort_2:0 "새로운 전술을 연구"
 BUL_doctrine_effort_2_desc:0 "The war of tomorrow is not likely to be the same war that the Weltkrieg was. Our military command should take this into account and consider developing new tactics."
-BUL_equipment_effort_3:0 "Perfecting Our Arms"
+BUL_equipment_effort_3:0 "육군을 완벽화하다"
 BUL_equipment_effort_3_desc:0 "Every misfire or slight fault with any of our equipment could lead to casualties. By paying attention to the minute, we can save lives and win any war."
-BUL_armour_effort:0 "Native Panzers"
+BUL_armour_effort:0 "전차 자체 개발"
 BUL_armour_effort_desc:0 "The Panzer is one of the major developments as a result of the Weltkrieg, but our own supply of them is lacking. We should develop a new model of Panzer that will revolutionise the"
-BUL_special_forces:0 "Adapt Our Army"
+BUL_special_forces:0 ""
 BUL_special_forces_desc:0 "The Balkans are a manic terrain of soaring mountains and wild rivers. If we adapt certain elements of our Land Forces to deal with these extremes, then we shall have an obvious advantage."
 
 ### Air Focuses ###
