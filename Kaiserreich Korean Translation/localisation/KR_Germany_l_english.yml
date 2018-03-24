@@ -293,7 +293,7 @@ GER_black_monday_aftermath_desc:0 "'검은 월요일'로 알려진 1936년 주�
 GER_mil_industry_2:0 "PEkI I"
 GER_mil_industry_2_desc:0 "검은 월요일로 인해 민간 산업이 타격을 받았지만, 군수 산업은 더 큰 타격을 받았습니다. 보급 전문가들은 독일군에게 충분한 총탄을 지급하기 위해 전쟁 관련 산업 확장 프로그램 (Programm für die Erweiterung kriegswichtiger Industrien) 을 시행할 것을 요구하고 있습니다."
 GER_mil_industry_3:0 "PEkI II"
-GER_mil_industry_3_desc:0 "전쟁 관련 산업 확장 프로그램 (Programm für die Erweiterung kriegswichtiger Industrien)는 줄여서 PEkI라고 하지만 누가 그런 좋은 것을 줄여 말하고 싶어하겠습니까? 이제는 부대가 움직일 때마다 병기창에서 마지막 비축물을 꺼내지 않아도 됩니다. 아직 갈 길은 멀지만, 적어도 우리는 맞는 길을 가고 있습니다."
+GER_mil_industry_3_desc:0 "전쟁 관련 산업 확장 프로그램 (Programm für die Erweiterung kriegswichtiger Industrien)은 줄여서 PEkI라고 하지만 누가 그런 좋은 것을 줄여 말하고 싶어하겠습니까? 이제는 부대가 움직일 때마다 병기창에서 마지막 비축물을 꺼내지 않아도 됩니다. 아직 갈 길은 멀지만, 적어도 우리는 맞는 길을 가고 있습니다."
 GER_civ_industry_1:0 "ZIP I"
 GER_civ_industry_1_desc:0 "공장주들이 위기 속에서 무너졌고 많은 노동자들이 일자리를 잃었으며 독일의 중공업은 엉망진창이 되었습니다. 국내 주요 경제학자들 중 일부는 민간 산업 분야를 활성화하기 위해 민간 산업화 계획 (Zivilindustrialisierungsplan) 을 시행할 것을 제안했습니다."
 GER_civ_industry_2:0 "ZIP II"
@@ -1695,39 +1695,39 @@ gerfor.173.d:0 "Despite our efforts to maintain peace and stability in the regio
 gerfor.173.a:0 "Continue to appease the locals."
 gerfor.173.b:0 "A stronger crackdown is needed."
 
-gerfor.174.t:0 "An Invitation to Mitteleuropa"
+gerfor.174.t:0 "미틀오이로파로의 초대"
 gerfor.174.d:0 "Building upon their previous showings of goodwill and the signing of a pact of non-aggression between our two countries, Germany today has offered an official invitation to Mitteleuropa, Germany's economic and military alliance. Joining would bring great benefits to our nation, but put us under strong German influence. How should we respond to the invitation?"
 gerfor.174.a:0 "We graciously accept."
 gerfor.174.b:0 "We must decline."
 
-gerfor.175.t:0 "Poland Joins Mitteleuropa"
+gerfor.175.t:0 "폴란드가 미틀오이로파에 합류하다."
 gerfor.175.d:0 "Poland has responded favourably to our invitation to Mitteleuropa, and has officially accepted our offer. Mitteleuropa grows stronger!"
-gerfor.175.a:0 "Wonderful!"
+gerfor.175.a:0 "훌륭하군!"
 
-gerfor.176.t:0 "Poland Declines our Invitation"
+gerfor.176.t:0 "폴란드가 우리의 초대를 거절하다."
 gerfor.176.d:0 "Despite our best efforts to woo Poland diplomatically, they have refused our official offer to join Mitteleuropa. All signs were pointing to them accepting our offer, what has gone wrong?"
-gerfor.176.a:0 "How could this happen?"
+gerfor.176.a:0 "어떻게 이런 일이 일어날 수 있지?"
 
-gerfor.177.t:0 "A Re-Invitation into Mitteleuropa"
+gerfor.177.t:0 "미틀오이로파로의 재초대"
 gerfor.177.d:0 "Building upon their previous showings of goodwill and the signing of a pact of non-aggression between our two countries, Germany today has offered an official invitation to Mitteleuropa, Germany's economic and military alliance. We were once a part of this alliance ourselves, but chose to leave it, as we saw little benefit in staying under Germany's thumb. How should we respond to the invitation?"
-gerfor.177.a:0 "We made a mistake."
-gerfor.177.b:0 "We are stronger alone."
+gerfor.177.a:0 "우리가 실수를 했군."
+gerfor.177.b:0 "우린 혼자일 때 더 강하다."
 
-gerfor.178.t:0 "Poland-Lithuania Rejoins Mitteleuropa"
+gerfor.178.t:0 "폴란드-리투아니아가 미틀오이로파에 재합류하다."
 gerfor.178.d:0 "The Polish-Lithuanian Commonwealth has responded favourably to our invitation to rejoin Mitteleuropa, and has officially accepted our offer. They have seen the error of their ways and now rejoin the alliance where they belong."
-gerfor.178.a:0 "Wonderful!"
+gerfor.178.a:0 "훌륭하군!"
 
-gerfor.179.t:0 "Poland-Lithuania Declines our Invitation"
+gerfor.179.t:0 "폴란드-리투아니아가 우리의 초대를 거절하다."
 gerfor.179.d:0 "Despite our best efforts to woo the Polish-Lithuanian Commonwealth into rejoining Mitteleuropa, they have refused all of our offers. It seems that the stubborn fools are intent on leaving the alliance for good."
-gerfor.179.a:0 "Those idiots!"
+gerfor.179.a:0 "멍청한 것들!"
 
 gerfor.180.t:0 "The German Diplomatic Mission"
 gerfor.180.d:0 "Today marked a historic day for Germany, as our diplomatic envoys arrived back in Berline after days in the Polish capital. Our diplomatic mission was a great success, and relations with the Polish government are at an all-time high. The diplomatic envoys we sent met with top Polish officials, had extravagant dinners, and most importantly, signed a pact of non-aggression between our two great nations. This pact marks the beginning of new, warmer relations between our two nations, and it seems that it is only a matter of time before we sign an official alliance with Poland, cementing our futures together."
-gerfor.180.a:0 "A historic day."
+gerfor.180.a:0 "역사적인 날이다."
 
 gerfor.181.t:0 "The German Diplomatic Mission"
 gerfor.181.d:0 "Today marked a historic day for Poland, as German diplomatic envoys arrived back in Berline after days in the Polish capital. The German diplomatic mission was widely seen as a great success, and our relations with the German government are at an all-time high. The German diplomatic envoys that were sent met with top Polish officials, had extravagant dinners, and most importantly, signed a pact of non-aggression between our two great nations. This pact marks the beginning of new, warmer relations between our two nations, and it seems that it is only a matter of time before we sign an official alliance with the German Empire, cementing our futures together."
-gerfor.181.a:0 "A historic day."
+gerfor.181.a:0 "역사적인 날이다."
 
 
 ### Flavour Events ###
