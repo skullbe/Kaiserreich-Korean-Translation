@@ -22,13 +22,13 @@ AUS_prowlers_apeared:0 "§YProwlers§W들이 Transylvanian Woods에 모이고 �
 AUS_tensions_calm_down:0 "§Y Ethnic Tensions§W 이 진정되었으며 제국은 다시 안전합니다."
 AUS_tensions_nothing:0 "아무 일도 일어나지 않을 것입니다."
 AUS_unlock_daimler:0 "§YAustro Daimler§W 회사의 잠금을 해제합니다. \n\n"
-AUS_unlock_skoda:0 "§YŠkoda§W 회사의 잠금을 해제합니다. \n\n"
+AUS_unlock_skoda:0 "§Y스코다§W 회사의 잠금을 해제합니다. \n\n"
 AUS_italy_friend:0 "우리는 이탈리아와 친구가 되기로 결정했고 이탈리아는 이 제안을 받아 들였습니다."
 AUS_italy_force:0 "이탈리아는 우리의 채권을 받아들이지 않았습니다."
 AUS_italy_bond:0 "오스트리아 - 이탈리아 우호"
 AUS_italy_rival:0 "오스트리아 - 이탈리아 경쟁"
 AUS_not_fully_implemented:0 "§RThis path is not yet fully implemented. Use with caution.§W \n\n"
-AUS_unlock_phoenix:0 "§YPhönix§W 항공기 제조사의 잠금을 해제합니다. \n\n"
+AUS_unlock_phoenix:0 "§Y푀닉스§W 항공기 제조사의 잠금을 해제합니다. \n\n"
 AUS_unlock_pintsch:0 "이론가로 §YPintsch§W의 잠금을 해제합니다. \n\n"
 AUS_unlock_bayer:0 "§YBayer§W 합성 회사의 잠금을 해제합니다. \n\n"
 AUS_italy_friend_planned:0 "이탈리아를 정복하지 않기로 결정했습니다."
@@ -225,8 +225,8 @@ AUS_fighter_focus_desc:0 "공군은 하늘에서 적기를 파괴하고 적의 �
 AUS_bomber_focus:0 "폭격기 초점"
 AUS_bomber_focus_desc:0 "공군은 우리의 폭격기 크기를 확장하고 강화하기로 결정하였습니다. 이는 전선을 훨씬 넘어선 요새와 도시에서 적을 공격 할 수있는 능력을 향상 시켰습니다. 전쟁터를 통제하는 새로운 큰 폭장량의 금속 폭격기가 현대의 전쟁의 방식이 될것입니다."
 
-AUS_phoenix:0 "Phönix"
-AUS_phoenix_desc:0 "세계 대전동안 Phönix 라는 이름을 가진 빈의 한 작은 회사는 독일 라이센스 비행기를 생산해 우리 공군에 공급했습니다. 그 이후로 이 회사는 다양한 디자인을 실험 해 왔으며 그 중 일부는 공군 현대화의 열쇠가 될 것입니다. "
+AUS_phoenix:0 "푀닉스"
+AUS_phoenix_desc:0 "세계 대전동안 푀닉스라는 이름을 가진 빈의 한 작은 회사는 독일 라이센스 비행기를 생산해 우리 공군에 공급했습니다. 그 이후로 이 회사는 다양한 디자인을 실험 해 왔으며 그 중 일부는 공군 현대화의 열쇠가 될 것입니다. "
 
 AUS_mil_expanded:0 "새로운 제국 군대"
 AUS_mil_expanded_desc:0 "우리 군대의 개혁은 길고 비용이 많이 드는 과정이었지만 마침내 완료되었습니다. 새로운 탱크, 총기, 선박 및 비행기가 조립 라인에서 대기중인 군대로 옮겨지고 개혁되어 제국의 적들과의 전투에 대비할 준비가 된 것입니다! "
@@ -503,7 +503,7 @@ POLITICS_OTTO_DESC:0 "오토 폰 합스부르크-로트링겐 황제가 오스�
 ganz_danubius_submarine:0 "Ganz Danubius Submarine Facilities"
 steyr_arms_facility:0 "Steyr Arms Facility"
 skoda_tank_factories:0 "스코다 전차 공장"
-phoenix_fighters:0 "Phönix Fighter Works"
+phoenix_fighters:0 "푀닉스 전투기 공장"
 
 ### Events ###
 austria.1.t:0 "1936년 오스트리아의 상황"
