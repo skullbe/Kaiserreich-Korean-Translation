@@ -183,7 +183,7 @@ balticduchy.94.d:0 "We are proud people of Baltic State. Too long were we the le
 balticduchy.94.a:0 "We must wait..."
 
 balticduchy.95.t:0 "Baltic Duchy wants to be more independent from Berlin!"
-balticduchy.95.d:0 "Due to rising tensions with Estonians, Latvians, and other minorities deprived of their political rights, Duke Adolf Friederich decided to accept their demands. This means that his lands won't be an easy target for German colonisation anymore, but it will also mean one less source of instability for Mitteleuropa. What is our stance on this?"
+balticduchy.95.d:0 "Due to rising tensions with Estonians, Latvians, and other minorities deprived of their political rights, Duke Adolf Friederich decided to accept their demands. This means that his lands won't be an easy target for German colonisation anymore, but it will also mean one less source of instability for the Reichspakt. What is our stance on this?"
 balticduchy.95.a:0 "The Parliament approves of this move!"
 balticduchy.95.b:0 "The Kaiser is angry at the Duke!"
 
@@ -201,7 +201,7 @@ balticduchy.98.d:0 "We are proud people of Baltic Federation. Too long were we t
 balticduchy.98.a:0 "우린 기다려야한다..."
 
 balticduchy.99.t:0 "Baltic Federation wants to be more independent from Berlin!"
-balticduchy.99.d:0 "Due to rising tensions with Estonians, Latvians, and other minorities deprived of their political rights, Duke Adolf Friederich decided to accept their demands. This means that his lands won't be an easy target for German colonisation anymore, but it will also mean one less source of instability for Mitteleuropa. What is our stance on this?"
+balticduchy.99.d:0 "Due to rising tensions with Estonians, Latvians, and other minorities deprived of their political rights, Duke Adolf Friederich decided to accept their demands. This means that his lands won't be an easy target for German colonisation anymore, but it will also mean one less source of instability for the Reichspakt. What is our stance on this?"
 balticduchy.99.a:0 "The Parliament approves of this move!"
 balticduchy.99.b:0 "The Kaiser is angry at the Duke!"
 
@@ -291,16 +291,16 @@ balticduchy.175.c:0 "Social-democratic Party"
 
 balticduchy.180.t:0 "Russia ignored our demands"
 balticduchy.180.d:0 "Russia refused our reasonable demands regarding our national integrity. How shall we react to this insolence?"
-balticduchy.180.a:0 "Cease all contacts between Mitteleuropa and Russia!"
+balticduchy.180.a:0 "Cease all contacts between the Reichspakt and Russia!"
 balticduchy.180.b:0 "Back down. We cannot afford conflict with Russia."
 
-balticduchy.181.t:0 "Mitteleuropa ceases all contacts with us"
+balticduchy.181.t:0 "The Reichspakt ceases all contacts with us"
 balticduchy.181.d:0 "The German Empire reacted badly to our refusal, they ordered the cessation of all trade and diplomatic contacts between our state and Mitteleuropa. Parts of our industry is already feeling the consequences of such drastic actions. Shall we continue with the support of UBD nationalists or cease it to try to appease the German Empire?"
 balticduchy.181.a:0 "Continue the support of UBD nationalists"
 balticduchy.181.b:0 "Cease their support!"
 
 balticduchy.182.t:0 "Russian nationalists control the UBD!"
-balticduchy.182.d:0 "Russia has managed to establish its control over the United Baltic Duchy. Can we accept this attack on Mitteleuropa?"
+balticduchy.182.d:0 "Russia has managed to establish its control over the United Baltic Duchy. Can we accept this attack on the Reichspakt?"
 balticduchy.182.a:0 "Keep an eye on the UBD and sever all ties with Russia!"
 balticduchy.182.b:0 "Keep an eye on the UBD."
 balticduchy.182.c:0 "There is nothing we can do..."
@@ -332,7 +332,7 @@ balticduchy.187.a:0 "Here come the Russians..."
 
 balticduchy.188.t:0 "Latvia rejects"
 balticduchy.188.d:0 "Latvian rebels have rejected our deal. They will not renounce their claims on Dvinsk."
-balticduchy.188.a:0 "Good luck to fight on their own..."
+balticduchy.188.a:0 "Good luck fighting on your own..."
 
 balticduchy.189.t:0 "Volunteers have arrived"
 balticduchy.189.d:0 "Foreign country sent us a division of volunteers to fight the Germans."
@@ -371,10 +371,10 @@ balticduchy.197.d:0 "We have successfully defeated the vile Germans and now our 
 balticduchy.197.a:0 "No more German yoke."
 
 balticduchy.198.t:0 "The Baltic Duchy is no more"
-balticduchy.198.d:0 "A rebellion in one of our colonies turn out to be a war of independence. The Duke of Baltic Duchy failed to crush the rebels, so we lost control over the region. The newborn countries are weak and we surely can defeat them without any resistance. But some of our ministers offered an idea to offer them a place into Mitteleuropa instead."
+balticduchy.198.d:0 "A rebellion in one of our colonies turn out to be a war of independence. The Duke of Baltic Duchy failed to crush the rebels, so we lost control over the region. The newborn countries are weak and we surely can defeat them without any resistance. But some of our ministers offered an idea to offer them a place into the Reichspakt instead."
 balticduchy.198.a:0 "The Duchy must be restored."
 balticduchy.198.b:0 "The Duchy is obsolete but we must pressure them."
-balticduchy.198.c:0 "Offer them to join Mitteleuropa."
+balticduchy.198.c:0 "Offer them to join the Reichspakt."
 balticduchy.198.e:0 "We have no interest in this region."
 
 balticduchy.199.t:0 "Germans wants us to be their puppet"
@@ -408,12 +408,12 @@ balticduchy.204.a:0 "We have no other option but war"
 balticduchy.204.b:0 "Leave them be!"
 
 balticduchy.205.t:0 "Latvia don't want to be part of our alliance"
-balticduchy.205.d:0 "Latvia has refused our deal to join Mitteleuropa. What shall we do?"
+balticduchy.205.d:0 "Latvia has refused our deal to join the Reichspakt. What shall we do?"
 balticduchy.205.a:0 "We have no other option but war"
 balticduchy.205.b:0 "Leave them be!"
 
 balticduchy.206.t:0 "Estonia don't want to be part of our alliance"
-balticduchy.206.d:0 "Estonia has refused our deal to join Mitteleuropa. What shall we do?"
+balticduchy.206.d:0 "Estonia has refused our deal to join the Reichspakt. What shall we do?"
 balticduchy.206.a:0 "We have no other option but war"
 balticduchy.206.b:0 "Leave them be!"
 
@@ -480,67 +480,67 @@ BAT_RUS_paternal_autocrat_party_long:0 "Soyuz Osvobozdeniya Pribaltiki (Moderate
 
 ### Focuses ###
 
-BAT_Germanization:0 "Germanisation"
+BAT_Germanization:0 "독일화"
 BAT_Germanization_desc:0 "Almost two decades have passed since we achieved our status as a German protectorate. These decades have turned our nation into a German-dominated state, and we must respect their wishes. The Kaiser calls for Germanisation, and we shall follow suit. Drang Nach Osten!"
 
-BAT_Emancipation:0 "Emancipation"
+BAT_Emancipation:0 "해방"
 BAT_Emancipation_desc:0 "Almost two decades have passed since we achieved our status as a German protectorate. The Germans dominate our industry, our politics, and our military. We may be Germans too, but the Vaterland is growing weak, it is perhaps our chance to break those ties."
 
-BAT_Ger_Kurland1:0 "Colonize Kurland"
+BAT_Ger_Kurland1:0 "쿠를란트 식민화"
 BAT_Ger_Kurland1_desc:0 "Kurland, or Kursas as the locals call it, shall be the first step towards the full Germanisation of our Duchy. It will be easy to turn this region into a German-dominated one, despite some native resistance."
 
-BAT_Ger_Livland1:0 "Colonize Livland"
+BAT_Ger_Livland1:0 "리빌란트 식민화"
 BAT_Ger_Livland1_desc:0 "Livland, referred to by the locals as Latgale, is the heart of our very Duchy, and yet the countryside of this region is still mostly Latvian. Hopefully, not for long."
 
-BAT_Ger_Estland1:0 "Colonize Estland"
+BAT_Ger_Estland1:0 "이스틀란트 식민화"
 BAT_Ger_Estland1_desc:0 "Estland, or Estonia according to the locals, is the final step towards the full Germanisation of our Duchy. We already have experience in strategic immigrant settling and fighting local language usage, so this will be an easy task."
 
-BAT_Ger_Kurland2:0 "Deutsch-Kurland"
+BAT_Ger_Kurland2:0 "독일령 쿠를란트"
 BAT_Ger_Kurland2_desc:0 "The Germanisation project has yielded exactly the results we needed. The percentage of Germans in Kurland is growing every day, and despite native resistance, the ideal of Drang nach Osten grows stronger every day."
 
-BAT_Ger_Livland2:0 "Deutsch-Livland"
+BAT_Ger_Livland2:0 "독일령 리빌란트"
 BAT_Ger_Livland2_desc:0 "The Germanisation project has yielded exactly the results we needed. The percentage of Germans in Livland is growing every day, and despite native resistance, the ideal of Drang nach Osten grows stronger every day."
 
-BAT_Ger_Estland2:0 "Deutsch-Estland"
+BAT_Ger_Estland2:0 "독일령 이스틀란트"
 BAT_Ger_Estland2_desc:0 "The Germanisation project has yielded exactly the results we needed. The percentage of Germans in Estland is growing every day, and despite native resistance, the ideal of Drang nach Osten grows stronger every day."
 
-BAT_Ger_Baltic:0 "Deutsch-Baltika"
+BAT_Ger_Baltic:0 "독일령 발트국"
 BAT_Ger_Baltic_desc:0 "The process of Germanisation has been successful. The Baltic Germans are now the dominant nation in population as well as in politics. We are finally eligible to apply to become an Imperial State, if that's is what we want, of course."
 
-BAT_Ger_Integration:0 "Integration"
+BAT_Ger_Integration:0 "합병"
 BAT_Ger_Integration_desc:0 "The Vaterland calls! We are Germans, and our Duchy shall become the 29th Imperial State! A glorious future awaits us under the full protection and oversight of the German Vaterland."
 
-BAT_Ger_Puppet:0 "Status Quo"
+BAT_Ger_Puppet:0 "현상 유지"
 BAT_Ger_Puppet_desc:0 "Reuniting with the Vaterland is important, but not the top priority. While we may be Germans, we are Baltic Germans, and we must receive special treatment. Reunification can wait, we must deal with local matters first."
 
-BAT_Ger_Indep:0 "Independence"
+BAT_Ger_Indep:0 "독립"
 BAT_Ger_Indep_desc:0 "The valley between Vaterland Germans and Baltic Germans will never, and we do mean never, be treaded over by the Empire. We, the Germans of Livland, Kurland and Estland, must cease all dealings with the mainland, and declare independence!"
 
-BAT_Ger_Autonomy1:0 "Autonomy under the Germans"
+BAT_Ger_Autonomy1:0 "독일인 자치권"
 BAT_Ger_Autonomy1_desc:0 "It is time for us to reform. The conservatives within the Baltic Landtag want to turn the nation into a parliamentary monarchy and abandon the nigh-absolutist practices of Adolf Friedrich I. Should we listen?"
 
-BAT_Ger_Autonomy2:0 "Confronting the Kaiser"
+BAT_Ger_Autonomy2:0 "카이저와 대면하다"
 BAT_Ger_Autonomy2_desc:0 "The Vaterland is disappointed. To them, a strong parliamentary Baltic Duchy means a more autonomous and resistant Baltic Duchy. Our relations with the Kaiser have been damaged. It is time we finally confront the Kaiser about our increased political autonomy instead of leaving the resolution of this conflict to chance."
 
-BAT_Ger_Autonomy3:0 "Centralise the Government"
+BAT_Ger_Autonomy3:0 "정부 중앙 집권화"
 BAT_Ger_Autonomy3_desc:0 "The apparatus of the Ducal government is weak, rife with corruption and heavily decentralised, we must enact substantial governmental reforms before advancing forward, so that our country may prosper even without the help of the Kaiser."
 
-BAT_Ger_Autonomy4:0 "Break the Chains"
+BAT_Ger_Autonomy4:0 "사슬을 끊어라"
 BAT_Ger_Autonomy4_desc:0 "The rift between Baltic Germans and the government of the Kaiserreich is growing deeper every day, and we can use this as an opportunity to finally increase our autonomy and maybe even finally obtain free elections for all."
 
-BAT_Ger_Autonomy5:0 "Promises of Democracy"
+BAT_Ger_Autonomy5:0 "민주주의 약속"
 BAT_Ger_Autonomy5_desc:0 "We have promised the people of the Duchy that the first free elections to the Baltic Landtag are coming soon. The people rejoice that they may finally choose the fate of their country, at least for once."
 
-BAT_Fed1:0 "The Multicultural State"
+BAT_Fed1:0 "다문화 국가"
 BAT_Fed1_desc:0 "The Germans are not the only people living in the United Baltic Duchy. Latvians, Estonians and Russians all make up significant portions of the population, too, and they demand to be recognised and represented in the government. We shall consider it."
 
-BAT_Fed2:0 "The Baltic Federation"
+BAT_Fed2:0 "발틱 연방"
 BAT_Fed2_desc:0 "Andrevs Niedra, a puppet head of government we placed to pacify the locals, has proposed a seemingly radical idea, reforming the Duchy into a democratic Baltic Federation, where not only Germans, but also the local Balts can have a say in how they are ruled. It seems like a good idea after all."
 
-BAT_Fed3:0 "First Landtag Elections"
+BAT_Fed3:0 "첫번째 총선"
 BAT_Fed3_desc:0 "We have promised free elections as part of the future of our newly founded Federation, and it is high time for us to fulfil this promise. The Baltic peoples will now finally decide the fate of their country."
 
-BAT_Fed4:0 "Baltic Trade"
+BAT_Fed4:0 "발트 무역"
 BAT_Fed4_desc:0 "The new democratic Baltic state is rife for trade dominance in the Baltic Sea. Our new political course will be beneficial to our trading centres and our port cities, so we must develop them to use this advantage to its fullest."
 
 BAT_Fed5:0 "Independence Referendum"
