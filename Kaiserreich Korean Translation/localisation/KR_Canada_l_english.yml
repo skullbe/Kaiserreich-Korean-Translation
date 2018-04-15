@@ -142,6 +142,10 @@ END_ACW:0 "2차 미국 내전이 끝나다."
 imperial_conference_36_over:0 "1936년 제국 회의가 끝났습니다"
 CAN_supports_usa:0 "우리는 미합중국을 지지할 것입니다."
 CAN_acw_intervention:0 "우리는 우리 자신의 이익을 바라볼 것입니다."
+CAN_puppet_ENG_or_all_cores:0 "All [ENG.GetAdjective] cores are owned and controlled by §Y[CAN.GetNameDef]§! or a subject nation"
+CAN_puppet_SCT_or_all_cores:0 "All [SCT.GetAdjective] cores are owned and controlled by §Y[CAN.GetNameDef]§! or a subject nation"
+CAN_puppet_WAL_or_all_cores:0 "All [WAL.GetAdjective] cores are owned and controlled by §Y[CAN.GetNameDef]§! or a subject nation"
+CAN_release_GBR:0 "§Y[GBR.GetNameDefCap]§! will be created"
 
 ### Parties ###
 CAN_totalist_party:0 "CCP"
@@ -251,6 +255,11 @@ CAN_RAD_AST_NEG:0 "유명한 캐나다의 강점"
 
 ### Leadership Descriptions ###
 POLITICS_GEORGE_DESC:0 "왕 겸 황제(The King-Emperor)는 자신의 칭호 아래에서, 1910년부터 '해가 지지않는 제국'인 광대한 대영 제국을 26년 동안 지배해 왔습니다, 그러나 지난 26년 동안의 비극은 왕 겸 황제에게 그의 사촌과의 전쟁에서의 패배와 막내 아들 존의 죽음, 그리고 영국 왕실의 캐나다 망명을 겪게 했고, 영국 왕실이 피신한 캐나다 자치령을 왕 겸 황제는 '냉동 감옥'으로 불렀습니다. 마침내, 대영 제국의 해가 진 것처럼 보였고, 조지 왕의 금욕적인 성격에는 절망감이 가득 찼습니다. 1925 년 이래로 왕 겸 황제의 건강은 스트레스와 우울증의 혼합을 통해 꾸준히 악화되었고, 병든 왕을 대신해 에드워드 왕자가 더 많은 업무를 수행하게 되었습니다(원통하게도)."
+POLITICS_EDWARD_DESC:0 "Edward of Windsor, with the passing of his father, ‘King-Emperor’, George V, was coronated in a lavish ceremony in Ottawa. The young monarch, notably solemn upon his enthronement, inherited an Empire undoubtedly a shadow of its former glory, and a kingdom occupied by syndicalist revolutionaries. Undeterred, King Edward maintains, above all else, the desire that the banner of the United Kingdom again proudly fly above the British Isles."
+POLITICS_ALBERT_WINDSOR_DESC:0 "Prince Albert of Windsor, younger Brother of King British king Edward VIII, has been appointed Governor-General of Canada. Though ridiculed as a child for his noticeable stammer, Albert grew into a collected and dutiful man. While Canadians appreciate Albert’s virtue, the expectation among many in its government was that appointment to the post of Governor-General would be restored to the discretion of the Canadian parliament. Regardless of the disappointment of some, however, Albert is well liked. With Edward occupied with the reconstruction of the recently reconquered Britain, Albert toils diligently to ensure that Canada is properly governed."
+POLITICS_ROBERT_POPHAM_DESC:0 "Robert Brooke-Popham, a general of the royal flying core during the Weltkrieg, has been appointed Governor-General of Canada. Brooke-Popham has always been an administrator above all else, and was essential in the establishment of the Royal Air Force as an independent branch of the British, and later Canadian, armed forces. With his appointment to Quartermaster General of the Canadian armed forces, materiel shortages fell and efficiency rose greatly. It was on this basis that king Edward, too occupied overseeing the reconstruction of the United Kingdom to govern Canada, appointed Brooke-Popham as Canada’s first Governor-General since the British Revolution."
+POLITICS_FREDERICK_BANTING_DESC:0 "Frederick Banting, renowned scientist, and the first man to identify insulin and its function, has been appointed Governor-General of Canada. While a researcher may see an odd choice for Governor-General, Banting has been of great importance to Canada. With the turmoil wrought by the British Revolution, Banting was instrumental in facilitating the immigration of thousands of British intellectuals to Canada, and the subsequent reorganisation of Canada’s military research apparatus. With king Edward’s, busy supervising the reconstruction of Britain, decision to delegate the choice of Governor-General to the Canadian parliament, appointing such a public figure and veteran administrator as Banting was a sound choice."
+POLITICS_GEORGES_VANIER_DESC:0 "Georges Vanier, French-Canadian general responsible for the mitigation of Anglo-Quebecois tensions following the British Revolution, has been appointed Governor-General of Canada. Vanier is a grizzled veteran of both the battlefields of the Weltkrieg, where he lost his right leg, and the challenges of military administration alike. Vanier is an iconic symbol of duty to many Canadians, and as a French-Canadian himself, especially the Quebecois. Fluent in both French and English, and loyal to Canada foremost, Vanier was the logical choice for the Canadian parliament for the position of Governer-General when king Edward, busy with the reconstruction of Britain, chose to delegate the decision to to them."
 
 ### World Tension ###
 CAN_IRE_treaty_t:0 "캐나다-아일랜드 조약"
@@ -423,10 +432,10 @@ CAN_australasia_investment:0 "오스트랄라시아 투자"
 CAN_australasia_investment_desc:0 "IEDC를 구축한 경우 오스트랄라시아에 투자해야 할 시기가 되었습니다. 태평양을 장악하는 것은 제국에 큰 도움이 될 것이고 그 지역에 있는 우리의 친구들은 원조에 감사할 것입니다."
 CAN_delhi_investment:0 "인도 투자"
 CAN_delhi_investment_desc:0 "IEDC를 구축한 경우 인도에 투자해야 할 시기가 되었습니다. 인도의 통치권은 제국에 큰 혜택이 될 것이고 그 지역에 있는 우리의 친구들은 원조에 감사할 것입니다."
-CAN_caribbean_investment:0 "카리브 투자"
-CAN_caribbean_investment_desc:0 "IEDC를 구축한 경우 카리브해 연방에 투자해야 할 시기가 되었습니다. 카리브 해를 통치하는 것은 제국에 큰 도움이 될 것이고 그 지역에 있는 우리의 친구들은 원조에 감사할 것입니다."
+CAN_caribbean_investment:0 "서인도 제도 투자"
+CAN_caribbean_investment_desc:0 "IEDC를 구축한 경우 서인도 제도에 투자해야 할 시기가 되었습니다. 서인도 제도를 통치하는 것은 제국에 큰 도움이 될 것이고 그 지역에 있는 우리의 친구들은 원조에 감사할 것입니다."
 CAN_raac:0 "왕립 아틀란틱 항공사"
-CAN_raac_desc:0 "항공 업계 지도자들은 캐나다와 카리브 해 연안 국가 연합 사이의 정기적인 항공 노선을 구축하기 위해 새로운 회사를 설립하자는 제안을 내놓았습니다. 장거리 수상 비행기의 사용을 통해, 핼리팩스에서 버뮤다, 바하마, 자메이카, 조지 타운까지 정기적인 승객과 화물 수송을 시작하는 것이 제안되었습니다. 그러한 항공 연결은 두 나라를 좀 더 가깝게 해 줄 뿐만 아니라 항공학적 연구와 개발을 촉발시킬 것입니다."
+CAN_raac_desc:0 "항공 업계 지도자들은 캐나다와 서인도 제도 사이의 정기적인 항공 노선을 구축하기 위해 새로운 회사를 설립하자는 제안을 내놓았습니다. 장거리 수상 비행기의 사용을 통해, 핼리팩스에서 버뮤다, 바하마, 자메이카, 조지 타운까지 정기적인 승객과 화물 수송을 시작하는 것이 제안되었습니다. 그러한 항공 연결은 두 나라를 좀 더 가깝게 해 줄 뿐만 아니라 항공학적 연구와 개발을 촉발시킬 것입니다."
 CAN_imperial_training:0 "제국 항공 훈련 계획"
 CAN_imperial_training_desc:0 "아무리 잘 설계되어도 비행기는 궁극적으로 조종사만큼만 좋을 뿐입니다. 대규모의 전념적인 훈련 프로그램은 우리가 원활한 공급을 확보하는 데 도움이 될 것이며, 협상국의 다른 회원국으로의 확장은 우리가 지식을 모으고 우리가 위대한 수준에 도달하도록 도울 것입니다."
 CAN_isac:0 "ISAC 설립"
@@ -763,6 +772,11 @@ canada.53.b:0 "우리의 힘을 보여 줘라! 북해에서 대규모 훈련을 
 canada.53.c:0 "우리의 힘을 보여 줘라! 미국 연안에서 대규모 훈련을 개시한다." 
 canada.53.e:0 "굳이 위험을 감수할 필요는 없다. 캐나다 영해에서 정상적으로 훈련을 개시한다." 
 
+canada.54.t:0 "아일랜드-캐나다 조약"
+canada.54.d:0 "The Canadians have approached us with the offer of a defence co-operation treaty. They will guarantee our sovereignty against the syndicalists in exchange for military basing rights. This could secure us against the syndicalists and open the door to economic aid from the Canadians but runs the risk of antagonising the Union of Britain. Rejecting, however, could provoke the Canadians to act first. How should we proceed?"
+canada.54.a:0 "Sign the treaty. This will be the start of a beautiful friendship."
+canada.54.b:0 "Reject the treaty. We cannot trust the English on any side of the Atlantic."
+
 canada.55.t:0 "아일랜드가 조약에 서명했습니다"
 canada.55.d:0 "아일랜드인들은 우리가 유럽에 쉽게 접근할 수 있고 동시에 아일랜드인들과 더욱 협력할 수 있는 기회를 제공하는 조약의 조건에 동의했습니다. 시간과 협력을 통해, 그들이 협상국의 정식 회원이 되도록 설득할 수도 있을 것입니다."
 canada.55.a:0 "이런 게 바로 협상이지! 누구 기네스 한잔 더 할 사람?"
@@ -840,6 +854,14 @@ canada.75.t:0 "중앙 아메리카 전쟁 - 반 생디칼리즘 국가들을 위
 canada.75.d:0 "중앙 아메리카 전쟁은 중앙 아메리카의 생디칼리스트 지원 체제에 맞서 싸울 수 있는 새로운 가능성을 열어 주고 있습니다. 우리가 온두라스와 다른 나라들을 돕지 않는다면, 이 지역 전체가 신앙 없는 공산주의자들에게 도미노처럼 떨어질 것입니다. 우리는 그들이 오타와로 행진하기 전에 생디칼리스트를 멈춰야 합니다!"
 canada.75.a:0 "멕시코, 온두라스, 그리고 중앙 아메리카에 대항하는 연합 주들을 지원하시오"
 canada.75.b:0 "중립을 선언한다"
+
+canada.77.t:0 "Canada Sends us Supplies"
+canada.77.d:0 "It appears that somebody is smiling on us. The Canadians and the Entente view our struggle against the forces of Centroamérica as just one part of a massive global war against the darkness of Syndicalism, and as such they have decided to send us material support. Already stocks of rifles and equipment are being unloaded in La Ceiba, ready to be put to use by our brave soldiers."
+canada.77.a:0 "Muchas gracias!"
+
+canada.79.t:0 "Canada Sends us Supplies"
+canada.79.d:0 "It appears that somebody is smiling on us. The Canadians and the Entente view our struggle against the forces of Centroamérica as just one part of a massive global war against the darkness of Syndicalism, and as such they have decided to send us material support. Already stocks of rifles and equipment are being unloaded in La Ceiba, ready to be put to use by our brave soldiers."
+canada.79.a:0 "Muchas gracias!"
 
 canada.80.t:0 "중앙 아메리카 전쟁 종식"
 canada.80.d:0 "좋건 나쁘건 간에 중앙 아메리카 전쟁은 이제 끝났습니다. 참모들은 분쟁의 과정을 통해 현대 전쟁의 본질에 관한 많은 귀중한 교훈을 배웠다고 보고했습니다."
@@ -923,10 +945,10 @@ canada.98.d:0 "웨일즈뿐 아니라 영국의 모든 서부 지역 군인들�
 canada.98.a:0 "배신자들이다! 그놈들 모두가!"
 
 canada.99.t:0 "아일랜드 내각"
-canada.99.d:0 "아일랜드가 모두 영국의 통제하에 있는 지금, 그 섬의 관리에 관한 문제가 제기되고 있습니다. 두 가지 선택권은 직접 통치하는 것이거나 영국 정부가 외교 정책에 대한 지배권을 유지하는 제한적 자치입니다. 최근 우리와 함께 싸운 충성파의 강력한 선호도는 아일랜드가 영국과 통일하는 것이지만 이것은 분명 북부 외에서는 인기 없는 조치가 될 것입니다."
+canada.99.d:0 "아일랜드가 모두 영국의 통제하에 있는 지금, 그 섬의 관리에 관한 문제가 제기되고 있습니다. 선택지는 직접 통치하는 것이거나 영국 정부가 외교 정책에 대한 지배권을 유지하는 제한적 자치입니다. 최근 우리와 함께 싸운 충성파의 강력한 선호도는 아일랜드가 영국과 통일하는 것이지만 이것은 분명 북부 외에서는 인기 없는 조치가 될 것입니다."
 canada.99.a:0 "직접 통치"
 canada.99.b:0 "제한적 자치"
-canada.99.c:0 "자율 통치 (Play As)"
+canada.99.c:0 "자율 통치"
 
 canada.110.t:0 "얼스터 문제"
 canada.110.d:0 "제한적인 아일랜드 자치의 원칙과 함께 다음 문제는 얼스터가 영국의 일부로 남아 있어야 하는가, 아니면 새로운 아일랜드로 이전되어야 하는가 하는 것입니다."
@@ -935,10 +957,100 @@ canada.110.b:0 "얼스터의 과반수의 개신교 자치주를 합병한다"
 canada.110.c:0 "아일랜드로 모두 합병한다"
 
 canada.111.t:0 "아일랜드 내각"
-canada.111.d:0 "아일랜드가 모두 영국의 통제하에 있는 지금, 그 섬의 관리에 관한 문제가 제기되고 있습니다. 두 가지 선택권은 직접 통치하는 것이거나 영국 정부가 외교 정책에 대한 지배권을 유지하는 제한적 자치입니다. 최근 우리와 함께 싸운 충성파의 강력한 선호도는 아일랜드가 영국과 통일하는 것이지만 이것은 분명 북부 외에서는 인기 없는 조치가 될 것입니다."
-canada.111.a:0 "직접 통치"
-canada.111.b:0 "제한적 자치"
-canada.111.c:0 "아일랜드 임시 정부와 협상을 시작한다."
+canada.111.d:0 "아일랜드가 모두 영국의 통제하에 있는 지금, 그 섬의 관리에 관한 문제가 제기되고 있습니다. 선택지는 직접 통치하는 것이거나 영국 정부가 외교 정책에 대한 지배권을 유지하는 제한적 자치입니다. 최근 우리와 함께 싸운 충성파의 강력한 선호도는 아일랜드가 영국과 통일하는 것이지만 이것은 분명 북부 외에서는 인기 없는 조치가 될 것입니다. On the other hand, we could negotiate a settlement with the Irish provisional government and finally solve the Irish Question once and for all."
+canada.111.a:0 "직접 통치."
+canada.111.b:0 "제한적 자치."
+canada.111.c:0 "아일랜드 임시 정부와 협상."
+
+### Negotiations with a Provisional Irish Government ###
+GBR_IRE_ENT_NO:0 "Rejected a diplomatic proposal"
+IRE_GBR_ENT_ENTER:0 "Joined the Entente"
+GBR_IRE_ENT_NO_NIR:0 "Took Northern Ireland"
+GBR_IRE_FRE:0 "Freed the country"
+
+canada.112.t:0 "Formation of an Irish Provisional Government"
+canada.112.d:0 "It has been two decades since British boots stood on Irish soil, but now all that has changed with the Canadian reconquest of the Home Islands. Instead of seizing outright control of Ireland or establishing a pliant puppet regime, it appears that the restored British leadership has decided to offer us the chance to choose our own fate through a set of negotiations. A provisional government overseen by Frank McDermott has been established in Dublin, and talks with the United Kingdom look set to begin soon."
+canada.112.a:0 "A chance for peace!"
+
+canada.113.t:0 "Negotiations with Ireland"
+canada.113.d:0 "As we have decided to negotiate a settlement on the Irish Question with the provisional government in Dublin, and acting from a superior negotiating position, the onus is decidedly on the restored British government to make demands. The question is, should we pursue our own interests in Ireland or propose a fair and equitable settlement with the Irish people?"
+canada.113.a:0 "Demand Ulster and Ireland in the Entente."
+canada.113.b:0 "Demand only that Ireland join the Entente."
+canada.113.c:0 "Offer a free Irish Republic but demand Ulster."
+canada.113.e:0 "Offer a completely independent Irish Republic."
+
+canada.114.t:0 "Britain Demands Ireland Joins the Entente"
+canada.114.d:0 "The Crown's negotiators have laid out the British position: they want Ireland to immediately join the Entente and assist them militarily. While this could offer us the benefit of military protection and continuing rule over Ulster, indirect British control of our foreign policy would be an unfortunate outcome. Furthermore, there is no guarantee of a restored Irish Republic."
+canada.114.a:0 "If they invest in our industry, it could be acceptable."
+canada.114.b:0 "You people are joking, right? No way."
+
+canada.115.t:0 "Irish Accept the Offer - with Caveats"
+canada.115.d:0 "The Irish provisional administration appears to consider our offer somewhat acceptable. While it does not offer them any guarantee of a Republican restoration and would force them to join our military struggles, the offer would allow them to retain Northern Ireland and it forces us to support them. The Irish negotiators have said they will accept, so long as we sign a contract stating that we will invest in Dublin's military-industrial sector."
+canada.115.a:0 "A no-brainer really. Accept the deal."
+canada.115.b:0 "We have been reconsidering our position..."
+
+canada.116.t:0 "Irish Refuse the Offer"
+canada.116.d:0 "It appears that our offer was not acceptable to the Irish. Angered at the prospect of continuing British influence over aspects of their foreign policy and without guarantees of a Republican restoration, the Irish negotiators rejected our offer out of hand. It appears letting them retain Ulster was insufficient, and so we have to go back to the negotiating table with a new proposal."
+canada.116.a:0 "Can't they just tell us what they want?"
+
+canada.117.t:0 "Ireland Joins the Entente"
+canada.117.d:0 "It appears that the UK government was willing to agree to our modified terms, and now the time has come for both sides to fulfill their sides of the bargain. With the negotiations over, it appears that we at least managed to get something reasonable out of the whole affair."
+canada.117.a:0 "At least we keep Ulster."
+
+canada.118.t:0 "Britain Rescinds its Offer"
+canada.118.d:0 "Shockingly, it appears that our minor counter-offer was enough to irritate the British. They have rescinded their original proposal and now the negotiations are back to square one. It might be possible that the British have re-evaluated their position and are now willing to see exploit their obvious dominance in the talks."
+canada.118.a:0 "Irritating."
+
+canada.119.t:0 "Britain Demands Entente Membership and Ulster"
+canada.119.d:0 "It seems that the negotiators on behalf of the British Crown are aware of their strong position in these talks, and their canny lawyers and spokespeople are proving increasingly irritating. The British are not only demanding that we join the Entente, but also that we hand over Ulster to them. While we would benefit from Entente military support, the loss of Ulster and no guarantee of a restored Irish Republic mean that this proposal is rather onerous, to say the least."
+canada.119.a:0 "Military factories could make this 'deal' palatable."
+canada.119.b:0 "Are the British mad? We can't accept this!"
+
+canada.120.t:0 "Irish Accept the Offer - with Caveats"
+canada.120.d:0 "While this deal is hardly fair to the Irish, they appear willing to consider it in exchange for financial investment in Dublin. It appears that even the loss of Ulster, the continuing role of the UK in their foreign affairs and a refusal to countenance an Irish Republic, were not enough to dissuade them completely. But then again, woe to the vanquished."
+canada.120.a:0 "Let them have their factories."
+canada.120.b:0 "Actually... let's try and extract more."
+
+canada.121.t:0 "Irish Refuse the Offer"
+canada.121.d:0 "Perhaps unsurprisingly, the Irish refused the proposal completely. Outraged at the prospect of British rule in Ulster as well as the implication that no Irish Republic is on the table and that they will have to join foreign wars, Ireland told our negotiators to come back to the talks with something reasonable next time."
+canada.121.a:0 "Oh well, it was worth a shot."
+
+canada.122.t:0 "Ireland Joins the Entente and Gives Up Northern Ireland"
+canada.122.d:0 "t appears that the UK government was willing to agree to our modified terms, and now the time has come for both sides to fulfill their sides of the bargain. With the negotiations over, the harshness of the terms imposed on us has become incredibly stark to everyone involved. Ulster's loss will certainly be mourned, and some foreign industrial investment hardly makes up for the humiliating loss of prestige felt by our nation."
+canada.122.a:0 "At least we are independent now."
+
+canada.123.t:0 "Britain Rescinds its Offer"
+canada.123.d:0 "Despite operating from an incredibly powerful position it seems that the British have turned around and rejected our counter-offer. Even with the acceptance of continuing British dominance of Ulster it seems that the Sassenach were not satisified. This is absolutely staggering news, and the next stage of the negotiations hardly look promising for the Irish people."
+canada.123.a:0 "How else can they humiliate us?"
+
+canada.124.t:0 "Britain Offers an Irish Republic for Ulster"
+canada.124.d:0 "The British have come to us with an offer that, while politically toxic to a number of prominent Irish Republicans and nationalists, given the circumstances, is not completely absurd. The UK negotiators have stated that they will liberate the Irish state completely so long as we hand over Ulster to them in perpetuity. We would not have to join the Entente, and could hopefully look forward to reasonable relations with the British in the future."
+canada.124.a:0 "A reasonable offer. We accept!"
+canada.124.b:0 "Ulster is Irish."
+
+canada.125.t:0 "Irish Accept the Offer"
+canada.125.d:0 "Wisely, it appears that the Irish have accepted our offer without demanding any concessions in exchange. So long as we grant them the right to form an independent Irish Republic, free of any British influence, they will hand Ulster over to us so that we may safeguard its loyalist population within our borders. All in all, the deal is sufficient for both sides to claim that they have achieved victory. The press spin battle has already begun."
+canada.125.a:0 "Northern Ireland is ours!"
+
+canada.126.t:0 "Irish Refuse the Offer"
+canada.126.d:0 "It seems that the Irish have boldly refused our offer. While they did appear keen for us to leave them to conduct their Irish Republican experiment in peace, the loss of Ulster was seemingly a step beyond what they are willing to stomach as a people. The Irish negotiators are holding out for more, and it seems that we have yet to reach an agreement."
+canada.126.a:0 "Those silly Paddies."
+
+canada.127.t:0 "Britain Unconditionally Offers an Irish Republic"
+canada.127.d:0 "Absolutely staggeringly, it appears that the British negotiators have come to us with an earth-shattering proposal. Stating that they are ending the negotiations early, the British Crown has offered us complete and total independence, with no strings attached. They are not even demanding Ulster for themselves, nor Irish membership of the Entente. Walking out of the meeting to scattered applause and excited, yet hushed whispers, the British delegation have returned to their hotel. The Government can hardly believe its good luck, and already mass-celebrations are erupting across Ireland. While this could be part of a stratagem, perhaps the Empire truly has changed its tune?"
+canada.127.a:0 "How could we refuse this!?"
+
+canada.128.t:0 "A Free Irish Republic"
+canada.128.d:0 "Though we could scarcely believe it, it appears that the British have shown us a level of clemency and respect we have hitherto never seen before. Already British garrisons stationed on the island to protect the Provisional Government are evacuating the country from the southern ports. While we can hardly see what realpolitik goal the British have in mind, Ireland is now once again truly free!"
+canada.128.a:0 "Tá ár lá linn!"
+
+canada.129.t:0 "The Irish Happily Accept the Offer"
+canada.129.d:0 "Unsurprisingly, the Irish were elated at the proposal we made. Our negotiators were very theatrical and publicly walked out of the negotiations, stating that the Irish were free to enjoy their liberty in front of the cameras, before returning to their Dublin hotel. Although many Irishmen are trying to figure out the catch, they are thrilled with the outcome, and much the same can be said for the exhausted people of the United Kingdom."
+canada.129.a:0 "It's up to them now."
+
+canada.130.t:0 "Irish Negotiations Over"
+canada.130.d:0 "With negotiations complete the job of our distinguished team in Dublin is now finished, and they are returning home to a well-earned rest. While not everyone might have got what they wanted, the Irish Question has been settled - for now at least."
+canada.130.a:0 "Good talks, gentlemen."
 
 canada.100.t:0 "C-7 법안: 캐나다 산업의 미래"
 canada.100.d:0 "대전쟁이 시작되었을 때, 영국 수상 허버트 애스퀴스는 산업이 '평소와 같은 산업'으로 발전할 것이라고 말했습니다. 뒤이어 일어나는 포탄 위기와 영국 군대 장비의 어려움은 만약 또 다른 전쟁이 시작된다면, 우리가 전시경제 동원체계가 필요할 것이라는 것을 보여 주었습니다. 그러나 대부분의 기업인들은 그러한 경제에 필요한 중공업 공장과 같은 전문 시설에 투자하고 싶어 하지 않습니다. 일부 보수당 의원들은, 보안 법의 일부로, 그러한 주요 전쟁 산업을 즉시 국유화하기 위한 조항을 포함할 것을 제안하고 있습니다. 이렇게 해서 우리의 산업 생산 능력이 늘어나는 것은 아니지만, 그것은 많은 관료주의를 줄이게 될 것입니다. 군수 산업 장관인 C.D. 하우는 정부가 매우 바람직한 금리로 임대할 산업의 창설을 보조하고 공장의 수를 늘리고 노동력을 제공하지만 민간 부문과 협력하여 효율성을 제한해야 한다고 주장했습니다. 일부 국회 의원들은 정부가 이미 마련된 보다 근본적인 업종에 보조금을 지급하는 한편, 상당한 수준의 정교함을 필요로 하는 전문 산업을 국영화하는 타협점을 주장하고 있습니다."
@@ -947,16 +1059,16 @@ canada.100.b:0 "타협은 정치 그 자체만큼이나 오래 된 기술이다"
 canada.100.c:0 "토리당 편에 서서, 경제를 국유화하자"
 
 canada.101.t:0 "C-7 법안: 군대 재편성"
-canada.101.d:0 "혁명이 영국에서 성공했을 때, 캐나다는 제국의 고위 회원이었습니다. 캐나다가 카리브 해를 점령할 수 있었지만, 우리는 나머지 제국을 확보할 수 없어서 오스트랄라시아인들에게 그들의 영토 주변의 경계선을 확보하도록 의존해야만 했습니다. 많은 사람들은 이것을 그 당시 우리의 작은 군대의 결과로 간주했고, 많은 사람들은 징병 법안을 부활시키고 싶어 할 것입니다. 그러나 수상 윌프리드 로리에 경은 자유주의자이며 심각한 논쟁 없이 그러한 분열을 초래하는 법이 공포되는 것을 가볍게 허락하지 않을 것입니다. 보수주의자들은 보편적인 징병제도를 원하고 있는 반면, 자유당 내의 진보주의자들은 정부가 계속 진행한다면 떠나겠다고 위협해 왔습니다. 징병 제도는 특히 퀘벡에서 매우 인기가 없습니다. 수상은 "필요하다면 징병제도를 선포하겠으나, 반드시 징집할 필요는 없다!"고 선언했습니다. 많은 이들은 이 사실을 그가 합의를 이루기 위해 노력하고 있다는 신호로 삼고있습니다."
+canada.101.d:0 "혁명이 영국에서 성공했을 때, 캐나다는 제국의 고위 회원이었습니다. 캐나다가 서인도 제도를 점령할 수 있었지만, 우리는 나머지 제국을 확보할 수 없어서 오스트랄라시아인들에게 그들의 영토 주변의 경계선을 확보하도록 의존해야만 했습니다. 많은 사람들은 이것을 그 당시 우리의 작은 군대의 결과로 간주했고, 많은 사람들은 징병 법안을 부활시키고 싶어 할 것입니다. 그러나 수상 윌프리드 로리에 경은 자유주의자이며 심각한 논쟁 없이 그러한 분열을 초래하는 법이 공포되는 것을 가볍게 허락하지 않을 것입니다. 보수주의자들은 보편적인 징병제도를 원하고 있는 반면, 자유당 내의 진보주의자들은 정부가 계속 진행한다면 떠나겠다고 위협해 왔습니다. 징병 제도는 특히 퀘벡에서 매우 인기가 없습니다. 수상은 "필요하다면 징병제도를 선포하겠으나, 반드시 징집할 필요는 없다!"고 선언했습니다. 많은 이들은 이 사실을 그가 합의를 이루기 위해 노력하고 있다는 신호로 삼고있습니다."
 canada.101.a:0 "B급 이상의 모든 남자를 징병하라."
 canada.101.b:0 "토리당이 이번만은 설득력 있는 주장을 하고 있다!"
 canada.101.c:0 "징병 금지! 군인들에게 더 좋은 조건을 제공한다."
 
 canada.102.t:0 "C-7 법안: 국내 안보"
-canada.102.d_nobinoprogress:0 "캐나다는 제1차 대전 이후 영국을 뒤덮은 쓰라린 계급 투쟁을 피할 수 있었지만, 영국계 캐나다인과 영국 망명자들 사이의 갈등이 커지고 있습니다. 이로 인해 몇몇 단체들은 브리튼 연방과의 화해를 요구하는 여러 단체들이 생겨나게 되었습니다. 토리당은 이들 단체들을 단속하기를 원하고 있으며, 보수당인 로버트 매니온을 의장으로 하는, 캐나다 기마 경찰과 새로운 민간 정보 기관에 대한 행정권을 지닌 새 위원회가 결성되어야 한다고 제안했습니다. 그러한 위원회는 캐나다에서 처음으로 열리는 것이며, 많은 시민의 자유와 노조의 권리를 줄일 것입니다. 법무 장관인 어니스트 라포인테는 토리당을 일부 편으로 끌어들이기 위한 상징적인 법들을 통과했으며, 루이 생 로랑을 회장으로 임명하는, 더 약한 위원회를 창설하는 것을 제안하였습니다. 그러나, 문제는 분명합니다, 캐나다는 지나치게 관료적인 보안군을 조직하고 재편성해야 합니다."
-canada.102.d_binoprogress:0 "캐나다는 제1차 대전 이후 영국을 뒤덮은 쓰라린 계급 투쟁을 피할 수 있었지만, 영국계 캐나다인과 영국 망명자들 사이의 갈등이 커지고 있습니다. 이로 인해 몇몇 단체들은 브리튼 연방과의 화해를 요구하는 여러 단체들이 생겨나게 되었습니다. 토리당은 이들 단체들을 단속하기를 원하고 있으며, 보수당인 로버트 매니온을 의장으로 하는, 캐나다 기마 경찰과 새로운 민간 정보 기관에 대한 행정권을 지닌 새 위원회가 결성되어야 한다고 제안했습니다. 그러한 위원회는 캐나다에서 처음으로 열리는 것이며, 많은 시민의 자유와 노조의 권리를 줄일 것입니다. 법무 장관인 어니스트 라포인테는 토리당을 일부 편으로 끌어들이기 위한 상징적인 법들을 통과했으며, 루이 생 로랑을 회장으로 임명하는, 더 약한 위원회를 창설하는 것을 제안하였습니다. 그러나, 문제는 분명합니다, 캐나다는 지나치게 관료적인 보안군을 조직하고 재편성해야 합니다."
-canada.102.d_biprogress:0 "캐나다는 제1차 대전 이후 영국을 뒤덮은 쓰라린 계급 투쟁을 피할 수 있었지만, 영국계 캐나다인과 영국 망명자들 사이의 갈등이 커지고 있습니다. 이로 인해 몇몇 단체들은 브리튼 연방과의 화해를 요구하는 여러 단체들이 생겨나게 되었습니다. 토리당은 이들 단체들을 단속하기를 원하고 있으며, 보수당인 로버트 매니온을 의장으로 하는, 캐나다 기마 경찰과 새로운 민간 정보 기관에 대한 행정권을 지닌 새 위원회가 결성되어야 한다고 제안했습니다. 그러한 위원회는 캐나다에서 처음으로 열리는 것이며, 많은 시민의 자유와 노조의 권리를 줄일 것입니다. 법무 장관인 어니스트 라포인테는 토리당을 일부 편으로 끌어들이기 위한 상징적인 법들을 통과했으며, 루이 생 로랑을 회장으로 임명하는, 더 약한 위원회를 창설하는 것을 제안하였습니다. 그러나, 문제는 분명합니다, 캐나다는 지나치게 관료적인 보안군을 조직하고 재편성해야 합니다."
-canada.102.d_nobiprogress:0 "캐나다는 제1차 대전 이후 영국을 뒤덮은 쓰라린 계급 투쟁을 피할 수 있었지만, 영국계 캐나다인과 영국 망명자들 사이의 갈등이 커지고 있습니다. 이로 인해 몇몇 단체들은 브리튼 연방과의 화해를 요구하는 여러 단체들이 생겨나게 되었습니다. 토리당은 이들 단체들을 단속하기를 원하고 있으며, 보수당인 로버트 매니온을 의장으로 하는, 캐나다 기마 경찰과 새로운 민간 정보 기관에 대한 행정권을 지닌 새 위원회가 결성되어야 한다고 제안했습니다. 그러한 위원회는 캐나다에서 처음으로 열리는 것이며, 많은 시민의 자유와 노조의 권리를 줄일 것입니다. 법무 장관인 어니스트 라포인테는 토리당을 일부 편으로 끌어들이기 위한 상징적인 법들을 통과했으며, 루이 생 로랑을 회장으로 임명하는, 더 약한 위원회를 창설하는 것을 제안하였습니다. 그러나, 문제는 분명합니다, 캐나다는 지나치게 관료적인 보안군을 조직하고 재편성해야 합니다."
+canada.102.d_nobinoprogress:0 "캐나다는 세계대전 이후 영국을 뒤덮은 쓰라린 계급 투쟁을 피할 수 있었지만, 영국계 캐나다인과 영국 망명자들 사이의 갈등이 커지고 있습니다. 이로 인해 몇몇 단체들은 브리튼 연방과의 화해를 요구하는 여러 단체들이 생겨나게 되었습니다. 토리당은 이들 단체들을 단속하기를 원하고 있으며, 보수당인 로버트 매니온을 의장으로 하는, 캐나다 기마 경찰과 새로운 민간 정보 기관에 대한 행정권을 지닌 새 위원회가 결성되어야 한다고 제안했습니다. 그러한 위원회는 캐나다에서 처음으로 열리는 것이며, 많은 시민의 자유와 노조의 권리를 줄일 것입니다. 법무 장관인 어니스트 라포인테는 토리당을 일부 편으로 끌어들이기 위한 상징적인 법들을 통과했으며, 루이 생 로랑을 회장으로 임명하는, 더 약한 위원회를 창설하는 것을 제안하였습니다. 그러나, 문제는 분명합니다, 캐나다는 지나치게 관료적인 보안군을 조직하고 재편성해야 합니다."
+canada.102.d_binoprogress:0 "캐나다는 세계대전 이후 영국을 뒤덮은 쓰라린 계급 투쟁을 피할 수 있었지만, 영국계 캐나다인과 영국 망명자들 사이의 갈등이 커지고 있습니다. 이로 인해 몇몇 단체들은 브리튼 연방과의 화해를 요구하는 여러 단체들이 생겨나게 되었습니다. 토리당은 이들 단체들을 단속하기를 원하고 있으며, 보수당인 로버트 매니온을 의장으로 하는, 캐나다 기마 경찰과 새로운 민간 정보 기관에 대한 행정권을 지닌 새 위원회가 결성되어야 한다고 제안했습니다. 그러한 위원회는 캐나다에서 처음으로 열리는 것이며, 많은 시민의 자유와 노조의 권리를 줄일 것입니다. 법무 장관인 어니스트 라포인테는 토리당을 일부 편으로 끌어들이기 위한 상징적인 법들을 통과했으며, 루이 생 로랑을 회장으로 임명하는, 더 약한 위원회를 창설하는 것을 제안하였습니다. 그러나, 문제는 분명합니다, 캐나다는 지나치게 관료적인 보안군을 조직하고 재편성해야 합니다."
+canada.102.d_biprogress:0 "캐나다는 세계대전 이후 영국을 뒤덮은 쓰라린 계급 투쟁을 피할 수 있었지만, 영국계 캐나다인과 영국 망명자들 사이의 갈등이 커지고 있습니다. 이로 인해 몇몇 단체들은 브리튼 연방과의 화해를 요구하는 여러 단체들이 생겨나게 되었습니다. 토리당은 이들 단체들을 단속하기를 원하고 있으며, 보수당인 로버트 매니온을 의장으로 하는, 캐나다 기마 경찰과 새로운 민간 정보 기관에 대한 행정권을 지닌 새 위원회가 결성되어야 한다고 제안했습니다. 그러한 위원회는 캐나다에서 처음으로 열리는 것이며, 많은 시민의 자유와 노조의 권리를 줄일 것입니다. 법무 장관인 어니스트 라포인테는 토리당을 일부 편으로 끌어들이기 위한 상징적인 법들을 통과했으며, 루이 생 로랑을 회장으로 임명하는, 더 약한 위원회를 창설하는 것을 제안하였습니다. 그러나, 문제는 분명합니다, 캐나다는 지나치게 관료적인 보안군을 조직하고 재편성해야 합니다."
+canada.102.d_nobiprogress:0 "캐나다는 세계대전 이후 영국을 뒤덮은 쓰라린 계급 투쟁을 피할 수 있었지만, 영국계 캐나다인과 영국 망명자들 사이의 갈등이 커지고 있습니다. 이로 인해 몇몇 단체들은 브리튼 연방과의 화해를 요구하는 여러 단체들이 생겨나게 되었습니다. 토리당은 이들 단체들을 단속하기를 원하고 있으며, 보수당인 로버트 매니온을 의장으로 하는, 캐나다 기마 경찰과 새로운 민간 정보 기관에 대한 행정권을 지닌 새 위원회가 결성되어야 한다고 제안했습니다. 그러한 위원회는 캐나다에서 처음으로 열리는 것이며, 많은 시민의 자유와 노조의 권리를 줄일 것입니다. 법무 장관인 어니스트 라포인테는 토리당을 일부 편으로 끌어들이기 위한 상징적인 법들을 통과했으며, 루이 생 로랑을 회장으로 임명하는, 더 약한 위원회를 창설하는 것을 제안하였습니다. 그러나, 문제는 분명합니다, 캐나다는 지나치게 관료적인 보안군을 조직하고 재편성해야 합니다."
 canada.102.a:0 "비밀 경찰은 안된다! 우리는 모두 캐나다인이고 함께 할 것이다!"
 canada.102.b:0 "생 로랑은 좋은 사람이다, 그가 감독하도록 내버려 둬라."
 canada.102.c:0 "기마 경찰은 언제나 사람을 잡아오지, 쉽게 가자고"
@@ -1087,7 +1199,7 @@ canada.226.d:0 "오늘 영국 정계의 혁명 전 영향력 있는 인물이자
 canada.226.a:0 "진정한 권력은 여전히 왕과 수상의 손에 달려 있다"
 
 canada.227.t:0 "왕실 결혼"
-canada.227.d:0 "오랜 준비 끝에, 폐하는 오타와에서 열린 호화로운 결혼식을 올려 마침내 오늘날 오를레앙의 이사벨 공주와 결혼했습니다, 후버 대통령과 페탱 대통령, 노르웨이의 하콘 7세, 덴마크의 크리스찬 10세, 그리스의 조지 2세, 오스트리아의 펠릭스 대공, 러시아의 블라디미르 키릴로비치 대공을 포함한 여러 국가 수반들이 동행했습니다. 오를레아니스트의 딸인 이사벨 공주는 영국 혁명 직전 웨일즈의 왕자가 영국 혁명이 발생하기 직전 알제를 방문했을 때 국왕을 만났고, 그녀는 그녀의 언어 능력으로 그의 관심을 끌었습니다, 그리고 그녀는 간호사로 근무하는 동안 대전을 직접 경험했습니다. 1927년에 왕자와 공주는 다시 만났고, 그리고 얼마 지나지 않아 그들의 잘 숨겨지지 않은 외도가 시작되었는데, 이사벨이 곧 결혼하고 이미 엄마가 되었음에도 불구하고 말이죠. 폐하가 1930년 첫 남편이 죽은 후에 이사벨을 결혼시키도록 허락한 것에 대해 아버지 조지 5세를 납득시키지 못했지만, 그는 그녀가 1930년 말 캐나다로 이사한 후 여러번 그녀와 함께 나타났습니다. 그 기간 동안, 특히 퀘벡 지역에서, 공주는 사람들의 지지를 얻는데, 이는 군주제의 이미지를 향상시키기 위해 끊임없이 싸우는 군주에게 매우 귀중한 것으로 판명되었습니다. 결혼식은 군주제를 위한 지지를 새로운 국면으로 몰고 갔고, 이제 모든 사람들은 그 계승자의 출산을 기대하고 있습니다!"
+canada.227.d:0 "오랜 준비 끝에, 폐하는 오타와에서 열린 호화로운 결혼식을 올려 마침내 오늘날 오를레앙의 이사벨 공주와 결혼했습니다, 후버 대통령과 페탱 대통령, 노르웨이의 하콘 7세, 덴마크의 크리스찬 10세, 그리스의 조지 2세, 오스트리아의 펠릭스 대공, 러시아의 블라디미르 키릴로비치 대공을 포함한 여러 국가 수반들이 동행했습니다. 오를레아니스트의 딸인 이사벨 공주는 영국 혁명 직전 웨일즈의 왕자가 영국 혁명이 발생하기 직전 알제를 방문했을 때 국왕을 만났고, 그녀는 그녀의 언어 능력으로 그의 관심을 끌었습니다, 그리고 그녀는 간호사로 근무하는 동안 대전쟁을 직접 경험했습니다. 1927년에 왕자와 공주는 다시 만났고, 그리고 얼마 지나지 않아 그들의 잘 숨겨지지 않은 외도가 시작되었는데, 이사벨이 곧 결혼하고 이미 엄마가 되었음에도 불구하고 말이죠. 폐하가 1930년 첫 남편이 죽은 후에 이사벨을 결혼시키도록 허락한 것에 대해 아버지 조지 5세를 납득시키지 못했지만, 그는 그녀가 1930년 말 캐나다로 이사한 후 여러번 그녀와 함께 나타났습니다. 그 기간 동안, 특히 퀘벡 지역에서, 공주는 사람들의 지지를 얻는데, 이는 군주제의 이미지를 향상시키기 위해 끊임없이 싸우는 군주에게 매우 귀중한 것으로 판명되었습니다. 결혼식은 군주제를 위한 지지를 새로운 국면으로 몰고 갔고, 이제 모든 사람들은 그 계승자의 출산을 기대하고 있습니다!"
 canada.227.a:0 "왕실 결혼식을 좋아하지 않는 사람이 어디 있겠어?"
 
 canada.228.t:0 "새로운 후계자"
@@ -1127,8 +1239,8 @@ canada.236.t:0 "먼스터에서의 IRA 봉기"
 canada.236.d:0 "아일랜드 남부의 주에서 게일어 민족주의자이자 반동주의자인 게롤드 Ó 커닝햄이 이끄는 축출된 아일랜드 독재자 마이클 콜린스에 충성하는 세력이 공격을 개시했으며 우리의 부하들이 이를 진압하고 있습니다."
 canada.236.a:0 "젠장!"
 
-canada.660.t:0 "그린란드와 아이슬란드가 점령되었습니다!"
-canada.660.d:0 "우리가 그린란드와 아이슬란드를 장악하고 있을 때, 우리 군대는 오늘 아이슬란드에 있는 레이캬비크로 진입했습니다. 북대서양의 섬들은 현재 우리의 통제 하에 있습니다. 이것은 우리의 본토를 탈환하기 위한 교두보를 제공할 것입니다."
+canada.660.t:0 "덴마크령 북해제도가 점령되었습니다!"
+canada.660.d:0 "우리가 덴마크령 북해제도를 장악하고 있을 때, 우리 군대는 바다건너 진입했습니다. 북대서양의 섬들은 현재 우리의 통제 하에 있습니다. 이것은 우리의 본토를 탈환하기 위한 교두보를 제공할 것입니다."
 canada.660.a:0 "이제 우린 본토를 탈환할 준비를 할 수 있다"
 
 canada.661.t:0 "캐나다가 북대서양 제도를 장악하다"
@@ -1145,11 +1257,11 @@ canada.701.d:0 "[Root.GetNameDef]는 더 이상 [CAN.GetNameDef]의 협상국 �
 canada.701.a:0 "그러던지"
 
 canada.702.t:0 "1936년 제국 회의"
-canada.702.d:0 "에드워드 8세의 대관식과 함께, 정부는 이제 제8차 제국 회의를 소집할 준비가 되었습니다. 이는 오타와에 있는 오스트랄라시아, 델리, 카리브 해 연방, 캐나다 정부의 수반들을 모아 대영 제국의 산발적인 지배층의 목표와 미래에 대해 논의할 것입니다."
+canada.702.d:0 "에드워드 8세의 대관식과 함께, 정부는 이제 제8차 제국 회의를 소집할 준비가 되었습니다. 이는 오타와에 있는 오스트랄라시아, 델리, 서인도 제도, 캐나다 정부의 수반들을 모아 대영 제국의 산발적인 지배층의 목표와 미래에 대해 논의할 것입니다."
 canada.702.a:0 "초대장을 보내다"
 
 canada.703.t:0 "1936년 제국 회의 초청"
-canada.703.d:0 "캐나다는 1936년의 제국 회의에 우리를 초대해서 영국 제국의 문제와 관련된 문제들을 토의하도록 했습니다. 카리브 해 연방이 회의에서 발언권을 가지고 있지 않다면 그렇게 하지 못할 것입니다."
+canada.703.d:0 "캐나다는 1936년의 제국 회의에 우리를 초대해서 영국 제국의 문제와 관련된 문제들을 토의하도록 했습니다. 서인도 제도가 회의에서 발언권을 가지고 있지 않다면 그렇게 하지 못할 것입니다."
 canada.703.a:0 "오타와로 가자"
 
 canada.704.t:0 "1936년 제국 회의 초청"
@@ -1160,6 +1272,7 @@ canada.705.t:0 "1936년 제국 회의 초청"
 canada.705.d:0 "캐나다는 1936년의 제국 회의에 우리를 초대해서 영국 제국의 문제와 관련된 문제들을 토의하도록 했습니다. 만약 오스트랄라시아 연맹이 그 회의에서 발언권을 가지고 있지 않았다면 그렇게 하지 못할 것입니다."
 canada.705.a:0 "오타와로 가자"
 canada.705.b:0 "우리는 제국의 자치령을 향상시키고 개선하기 위해 일해야만 한다!"
+
 
 canada.706.t:0 "제국의 목표"
 canada.706.d:0 "회의 첫날 이제 우리는 제국의 목표를 정할 것입니다. 캐나다 수상은 몇년 안에 대영 제국의 주된 목표는... 하는 것이라고 열변을 토했습니다."
@@ -1186,7 +1299,7 @@ canada.710.d:0 "우리 대표단은 특히 지배력에 대한 투자의 필요�
 canada.710.a:0 "제국은 투자를 필요로 한다"
 
 canada.711.t:0 "제국의 투자"
-canada.711.d:0 "카리브 해 연방의 대표는 오늘 여러 부문에 투자할 필요가 있다고 말했습니다. 영국 지배층은 국가를 장악한 무정부주의적 반역자들로부터 영국을 되찾기 위해서 강력한 경제가 필요하다고 주장합니다."
+canada.711.d:0 "서인도 제도의 대표는 오늘 여러 부문에 투자할 필요가 있다고 말했습니다. 영국 지배층은 국가를 장악한 무정부주의적 반역자들로부터 영국을 되찾기 위해서 강력한 경제가 필요하다고 주장합니다."
 canada.711.a:0 "제국은 투자를 필요로 한다"
 canada.711.b:0 "그것은 우리의 관심사가 아니다."
 
@@ -1204,29 +1317,29 @@ canada.714.d:0 "1936년의 제국 회의는 이제 끝났습니다. 그것이 �
 canada.714.a:0 "국왕 폐하 만세(God Save the King)"
 
 canada.715.t:0 "왕립 아틀란틱 항공사 창립"
-canada.715.d:0 "캐나다 정부는 장거리 수상 비행기를 통해 우리 나라와 미국 사이의 항공 연결을 구축할 새로운 회사의 설립에 자금을 지원하기로 결정했습니다. 왕립 아틀란틱 항공사인 RAAC는 버뮤다, 안드로스, 자메이카, 조지 타운의 비행장에서 운항하며 승객과 화물을 수송하게 됩니다. 캐나다와 카리브 해 연방을 더욱 가깝게 만드는 것 외에도, 이것은 의심할 여지 없이 우리 나라에서 항공학적인 연구를 촉발할 것입니다."
+canada.715.d:0 "캐나다 정부는 장거리 수상 비행기를 통해 우리 나라와 미국 사이의 항공 연결을 구축할 새로운 회사의 설립에 자금을 지원하기로 결정했습니다. 왕립 아틀란틱 항공사인 RAAC는 버뮤다, 안드로스, 자메이카, 조지 타운의 비행장에서 운항하며 승객과 화물을 수송하게 됩니다. 캐나다와 서인도 제도를 더욱 가깝게 만드는 것 외에도, 이것은 의심할 여지 없이 우리 나라에서 항공학적인 연구를 촉발할 것입니다."
 canada.715.a:0 "우리는 우리의 캐나다 동맹국들에게 감사한다"
 
 canada.716.t:0 "RAAC가 직면한 재정적 어려움"
 canada.716.d:0 "미국의 여러 파벌 간 계속되는 전쟁은 왕립 아틀란틱 항공사의 승객 수송을 급격히 감소시켰습니다. 그 회사는 영업 적자를 메우기 위해 추가 자금을 필요로 할 것입니다, 그렇지 않으면 파산에 직면할 것입니다."
 canada.716.a:0 "자금을 지원하라"
-canada.716.b:0 "아마도 카리브 해 연방이 도와 줄 수 있을 것이다"
+canada.716.b:0 "아마도 서인도 제도가 도와 줄 수 있을 것이다"
 
 canada.717.t:0 "RAAC가 직면한 재정적 어려움"
-canada.717.d:0 "미국의 여러 파벌 간 계속되는 전쟁은 왕립 아틀란틱 항공사의 승객 수송을 급격히 감소시켰습니다. 그 회사는 영업 적자를 메우기 위해 추가 자금을 필요로 할 것입니다, 그렇지 않으면 파산에 직면할 것입니다. 캐나다 정부는 도움을 거절했고, 그래서 RAAC을 구하는 것은 카리브 해 연방에 달려 있습니다."
+canada.717.d:0 "미국의 여러 파벌 간 계속되는 전쟁은 왕립 아틀란틱 항공사의 승객 수송을 급격히 감소시켰습니다. 그 회사는 영업 적자를 메우기 위해 추가 자금을 필요로 할 것입니다, 그렇지 않으면 파산에 직면할 것입니다. 캐나다 정부는 도움을 거절했고, 그래서 RAAC을 구하는 것은 서인도 제도에 달려 있습니다."
 canada.717.a:0 "자금을 지원하라"
 canada.717.b:0 "RAAC는 파산할 것이다"
 
 canada.718.t:0 "RAAC 파산"
-canada.718.d:0 "왕립 아틀란틱 항공사는 미국의 내전과 캐나다와 카리브 해 연방 둘 다 그것을 지지하지 않는다는 사실 때문에 파산했습니다."
+canada.718.d:0 "왕립 아틀란틱 항공사는 미국의 내전과 캐나다와 서인도 제도 둘 다 그것을 지지하지 않는다는 사실 때문에 파산했습니다."
 canada.718.a:0 "젠장."
 
 canada.719.t:0 "인도 경제에 대한 IEDC 투자"
 canada.719.d:0 "캐나다의 도움으로, 제국 경제 개발 공사는 인도의 경제에 투자했고 새로운 제국 공장을 여는 것을 도왔습니다."
 canada.719.a:0 "캐나다, 인도, 그리고 대영 제국 만세!"
 
-canada.720.t:0 "카리브 해 연방에 경제에 대한 IEDC 투자"
-canada.720.d:0 "캐나다의 도움으로, 제국 경제 개발 공사는 카리브 해 연방의 경제에 투자했고 새로운 제국 공장을 여는 것을 도왔습니다."
+canada.720.t:0 "서인도 제도 경제에 대한 IEDC 투자"
+canada.720.d:0 "캐나다의 도움으로, 제국 경제 개발 공사는 서인도 제도의 경제에 투자했고 새로운 제국 공장을 여는 것을 도왔습니다."
 canada.720.a:0 "캐나다, 인도, 그리고 대영 제국 만세!"
 
 canada.721.t:0 "오스트랄라시아에 경제에 대한 IEDC 투자"
@@ -1278,6 +1391,10 @@ canada.308.t:0 "독일이 조약에 서명하지 않았다"
 canada.308.d:0 "독일은 우리의 조약에 서명하기를 거부했습니다. 독일인들이 우리를 뒤쫓아오는 것을 항상 경계해야 합니다."
 canada.308.a:0 "불쾌한 독일놈들"
 
+canada.309.t:0 "Fullfilling the Treaty"
+canada.309.d:0 "We have won against the godless syndicalist in the Union of Britain with our victory however, the ambassador from Canada has reminded us of the treaty we signed with them about restoring Canada to them should the Union of Britain be defeated. Now that they are should we honour our treaty or go with our own plans?"
+canada.309.a:0 "Honour the Treaty"
+canada.309.b:0 "We have our own plans"
 
 
 canada.400.t:0 "왕실 특권"
