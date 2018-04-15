@@ -2,10 +2,18 @@
 
 ### WIP ### (Isn't this whole file WIP...)
 brotherhood_of_slavs:0 "슬라브 형제단"
-austrian_sphere:0 "오스트리아 영역권"
+austrian_sphere:0 "도나우-아드리아 연맹"
+austrian_sphere_sued:0 "Südosteuropa"
 
 ### Flags and Tooltips ###
 AUS_economy_ready_tooltip:0 "우리는 경제의 선진화를 준비해야 합니다. \n\n 이는 당연히 현재 우리에게 닥친 경제 위기를 극복해야 한다는 것을 의미합니다."
+AUS_potb_albania_tooltip:0 "Albania borders our Sphere of Influence."
+AUS_potb_greece_tooltip:0 "Greece borders our Sphere of Influence."
+AUS_potb_romanian_civil_war_tooltip:0 "The Romanian Civil War is raging on our borders."
+AUS_potb_romania_tooltip:0 "The restored Kingdom of Romania borders our Sphere of Influence."
+AUS_potb_claims_on_bulgaria_tooltip:0 "The Bulgarians hold territory that rightfully belong to our Spherelings."
+
+AUS_syndicalist_menace_tooltip:0 "The Fires of War burn once more, and our interests in Italy are threatened by an emboldened Internationale."
 
 AUS_military_occupation_tooltip:0 "계속해서 헝가리 땅을 점령하게 될 것이지만, 모든 속국들이 이에 만족하지는 않을 것입니다. \n\n"
 AUS_danubian_federation_tooltip:0 "다뉴브, 알프스 및 아드리아 연맹"이 형성 될 것입니다. \n\n"
@@ -33,9 +41,12 @@ AUS_unlock_pintsch:0 "이론가로 §YPintsch§W의 잠금을 해제합니다. \
 AUS_unlock_bayer:0 "§YBayer§W 합성 회사의 잠금을 해제합니다. \n\n"
 AUS_italy_friend_planned:0 "이탈리아를 정복하지 않기로 결정했습니다."
 AUS_stops_italian_revolts:0 "§YItalian Revolts§W가 앞으로 너무 많은 문제를 일으키는 것을 막을 것입니다."
+ausgleich_all_kingdoms:0 "모든 왕국이 오스트리아에 초청됩니다."
+ausgleich_all_peoples:0 "All nationalities invited to the Ausgleich."
 
 ### Ideas ###
-AUS_part_of_the_Empire:0 "오스트리아 제국의 일부"
+AUS_part_of_the_Empire:0 "오스트리아 제국 구성국"
+AUS_part_of_the_Empire_desc:0 "This nation or royal holding is a constituent part of the Austro-Hungarian Empire, at least in name."
 
 AUS_financial_ties_broken:0 "오스트리아-헝가리 관계 악화"
 AUS_financial_ties_broken_desc:0 "헝가리의 왕가는 공동 정부의 금고에 세금을 내는 것을 거부합니다. \n\n 그들은 1926 년 남부 슬라브인 반란의 중재안으로 인한 일리리아 왕국의 형성에 여전히 불만을 가지고 있으며 오스트리아 정부에 의해 배신당한 이들은 크로아티아의 토지 손실에 대한 보상을 원합니다."
@@ -84,9 +95,9 @@ AUS_invest_in_eco_desc:0 "검은 월요일로 인한 최근의 사건들로 인�
 AUS_kaiser_faith:0 "황제에 대한 믿음"
 AUS_kaiser_faith_desc:0 "사람들은 새로운 왕국을 신뢰하게 되었습니다. 신이시여 황제 폐하를 수호하소서!"
 
-AUS_k_u_k_armee_bonus:0 "오스트리아-헝가리 제국군 징병"
+AUS_k_u_k_armee_bonus:0 "Common Army Recruitment"
 AUS_k_u_k_armee_bonus_desc:0 "1867 년 3 월 15 일에 설립된 오스트리아와 헝가리의 공동 군대는 이중제국 군대의 주요 부분이 되었습니다."
-AUS_k_u_k_armee_bonus_2:0 "오스트리아-헝가리 제국군 징병"
+AUS_k_u_k_armee_bonus_2:0 "Common Army Recruitment"
 AUS_k_u_k_armee_bonus_2_desc:0 "1867 년 3 월 15 일에 설립된 오스트리아와 헝가리의 공동 군대는 이중제국 군대의 주요 부분이 되었습니다."
 
 AUS_DNF_political_instability:0 "정치적 불안정"
@@ -136,7 +147,7 @@ AUS_homeland_mil:0 "오스트리아 군수 산업"
 AUS_homeland_mil_desc:0 "오스트리아 군대는 형편없는 장비와 관리 부족으로 어려움을 겪어 왔으며 우리는 더 이상 안심할 수 없는 시대에 살고 있습니다. 헝가리의 '자유 주의자들'과 우리의 파괴를 맹세한 근처의 생디칼리스트 국가들의 위협이 날로 커지고 있습니다. 우리는 생존을 위해 우리의 용맹한 군대를 적절히 무장시켜야 합니다."
 
 AUS_airbase_expansion:0 "오스트리아 공군기지 확장"
-AUS_airbase_expansion_desc:0 "장거리 단엽기의 신기술은 군대와 경제 모두에게 큰 기회를 제공합니다 . Luftfahrtruppen 공군 기지에서 사용되면 이탈리아 국경 너머의 공중 우세를 확보하고 수천 명의 사람들을 잃지 않고 위협 할 수있게 될 것입니다. 또한 신형 비행기로 비행하는것에 익숙해질 수 있고 지역 경제를 활성화 시킬 수 있습니다."
+AUS_airbase_expansion_desc:0 "장거리 단엽기의 신기술은 군대와 경제 모두에게 큰 기회를 제공합니다 . Fliegerkorps 공군 기지에서 사용되면 이탈리아 국경 너머의 공중 우세를 확보하고 수천 명의 사람들을 잃지 않고 위협 할 수있게 될 것입니다. 또한 신형 비행기로 비행하는것에 익숙해질 수 있고 지역 경제를 활성화 시킬 수 있습니다."
 
 AUS_istria_ports:0 "이스트리아 요새화"
 AUS_istria_ports_desc:0 "트리에스테와 플라움은 우리의 두 개의 주요한 해군 기지이며 해외 무역에 있어서 매우 중요합니다. 전통적으로 황제에 의해 무시되어왔던 해군은 이스트리아에서 산업 작업과 해군 기지에 대한 지출을 늘려달라고 요청했으며, 무역 수입 증가에 대한 그들의 주장에 황제는 귀를 기울였습니다."
@@ -182,48 +193,108 @@ AUS_cs_national_austerity_council:0 "국가 긴축위원회"
 AUS_cs_national_austerity_council_desc:0 "현재 진행중인 경제 위기에 대처할 때 우리가 기억해야 할 가장 중요한 사실은 이미 존재하는 국가 부채가 더 이상 발생하지 않도록 해야 한다는 것입니다. 오스트리아의 금고는 다음 해에 완전히 채워져야 합니다. 이를 달성하는 유일한 방법은 지출을 대폭 줄이는 것입니다."
 
 AUS_cs_fill_the_coffers:0 "국고를 채워라"
-AUS_cs_fill_the_coffers_desc:0 "-"
+AUS_cs_fill_the_coffers_desc:0 "What little we have, we must spend carefully - such was the creed of the CSP during the elections. Having in the last six years been involved in a major banking scandal, it was not sure that the people would trust us with their money. Now, we show them that they can."
 
 AUS_cs_2:0 "국가의 통제하에 있는 인플레이션"
-AUS_cs_2_desc:0 "-"
+AUS_cs_2_desc:0 "A nice bit of inflation is not a bad thing, hyperinflation is. We have to get rid of all that money circulating the market, and fast. The prices of bonds have been lowered and interest rates cranked up to the maximum; now we wait to see the effects of these measures."
 
 AUS_cs_3:0 "조심스러운 개발"
-AUS_cs_3_desc:0 "-"
+AUS_cs_3_desc:0 "With our currency's value secured, we should take care that the little money we dare to spend goes to places that will return the investment. That of course means we have to look carefully at where our money can work the most. Thankfully, we have the assistance of a group of Austria's best economists."
 
 AUS_cs_4:0 "SDAP와 타협하다"
-AUS_cs_4_desc:0 "-"
+AUS_cs_4_desc:0 "The Socialists have done quite the job stuffing their nonsense into the heads of the lowly cityfolk. Now that we are in power, we have to deal with that. We are meeting with the SDAP people to discuss the institution of some of the reforms they were marching for."
 
 AUS_cs_5:0 "농부들을 위한 지원금"
-AUS_cs_5_desc:0 "-"
+AUS_cs_5_desc:0 "The CSP has always been the party of the countryfolk. Socialists concern themselves only with the workers, and the farmers are too often forgotten. We are making this up for them by offering development grants."
 
-AUS_cs_6:0 "사회 갈등을 봉합하다."
-AUS_cs_6_desc:0 "-"
+AUS_cs_6:0 "사회 갈등 봉합"
+AUS_cs_6_desc:0 "All kinds of social classes are blaming each other for the disappearance of wealth, be it monetary or in goods. The Citizen blames the Farmer that he has no food, and the Farmer blames the Citizen that he has no money. Society is split, and only through careful discourse shall it be mended. This is where that arduous journey begins."
 
 AUS_cs_7:0 "우리가 필요로 하는 것"
-AUS_cs_7_desc:0 "-"
+AUS_cs_7_desc:0 "Colonial Empires and the Reichspakt Labour are all fine and dandy, but it is luxury we do not need. You can not live from consuming ivory and cast steel. Germany can go get sunburnt, the man in Vienna knows his place, and want what he truly needs - a functioning economy and society, free from oustside influences."
 
 ### Military Tree
 
 AUS_military_expansion:0 "오스트리아 군대 확장"
-AUS_military_expansion_desc:0 "독일 통일 이후, 군대는 적어도 독일이나 프랑스, 러시아의 영토에 비해 합스부르크가의 우선 순위가 아니었습니다. 그러나 이제는 안팎의 새로운 위협으로 이러한 상태에 머물러있을 여유가 없습니다 황제는 육군, 해군, 공군에 대한 대규모 자금 조달을 발표했으며 미래에는 더 많은 것을 제공 할 것이라 했습니다."
+AUS_military_expansion_desc:0 "The economic woes of the Monarchy since the Weltkrieg has made it difficult for funds to reach the military. With the economic stiuation improving and tensions growing across the continent, military funding has significantly increased, allowing us to finally modernise our forces."
 
-AUS_military_inf:0 "제국 보병 현대화"
-AUS_military_inf_desc:0 "선사시대 이전부터 보병은 전쟁의 가장 기본적인 부분이었습니다. 이 단순한 진리는 조만간 바뀔 것으로 보이지 않습니다. 세계가 혼란으로 빠져 나가기 시작하면 국가가 혼란과 맞설 수 있는 유일한 방법인 보병을 강화하는 것이 중요합니다. "
+AUS_military_tech:0 "k.u.k. Technisches Militärkomitee"
+AUS_military_tech_desc:0 "The Imperial & Royal Technical Military Committee, or TMK, with its origins dating from 1717, is an institution of the k.u.k. War Ministry tasked with the observation, development and application of military technology. Their role in modernising our armies is absolutely essential, ensuring that the Monarchy does not fall behind in terms of technological developments and that our troops remain well-equiped."
 
-AUS_military_tank:0 "제국 기갑(Panzer) 사단"
-AUS_military_tank_desc:0 "이전에 전차는 보병의 진군을 지원하고 적의 기갑 부대와 싸우기 위해 예비 배치되어 임시로 육군에 사용되었습니다. 이제 전차를 이용해 공격을 주도하고 적의 전선을 파고드는 기동전이라는 새로운 아이디어가 일반 참모진들에게 퍼졌습니다. 독립적인 전차 대대 (panzer corps)를 설립하는 것이 이러한 아이디어를 실현하는 첫 걸음입니다. "
+AUS_rifle_trials:0 "Rifle Trials"
+AUS_rifle_trials_desc:0 "While the TMK was able to keep the Empire from falling too far behind despite limited resources, the War Ministry has yet to adopt a self-loading rifle for our forces. The committee wishes to rectify this and the Empire's numerous arms company are eager to compete for government contracts. In order to ensure that the best rifle is adopted, the TMK is organising new rifle trials."
 
-AUS_military_mountaineers:0 "제국 산악부대 강화"
-AUS_military_mountaineers_desc:0 "산악부대들은 알프스 산맥보다도 더 강력한 장벽을 형성하고 있습니다. 이 용감한 군대는 정부의 적은 지원에도 불구하고 오랜시간동안 이탈리아 침공에 대해 맞서왔으며, 앞으로도 그렇게 할 것입니다."
+AUS_artillery_modernisation:0 "Artillery Modernisation"
+AUS_artillery_modernisation_desc:0 "While companies like Škoda and Böhler have been able to keep up with artillery development throughout the world thanks to foreign contracts, most of our artillery dates from the Weltkrieg. With the artillery being one of the most important pieces of military technology, the TMK is eager to replacing the military's ageing guns with modern ones as we expand our arsenal."
 
-AUS_aviation_effort:0 "제국 공군 강화"
-AUS_aviation_effort_desc:0 "세계 대전 동안 작은 오스트리아 공군은 거의 독일군의 지휘하에 있었습니다. 조종사와 비행기는 우리 해군보다도 우선 순위가 낮아서 끔찍한 상태에 놓여 있었고 우리를 위협하는 실질적인 힘에 대해 거의 쓸모가 없었습니다. 현 상황의 변화와 공군의 개혁은 피할 수 없습니다."
+AUS_military_mountaineers:0 "Expand the Gebirgstruppe"
+AUS_military_mountaineers_desc:0 "The Gebirgstruppe (Mountain Troops) includes some of the Monarchy's most decorated and respected units that repeatedly fought off Italian invasions. As they are essential to the Empire's defence and there are plenty of potential recruits in the Alpine and Carpathian regions, expanding and improving these units are a priority."
 
-AUS_fighter_focus:0 "공격기 중점"
-AUS_fighter_focus_desc:0 "공군은 하늘에서 적기를 파괴하고 적의 공군 보다 뛰어난 우위를 점할 수 있는 저익 금속 단엽기의 디자인의 통합 및 개발에 초점을 맞추기로 결정했습니다."
+AUS_motorisation:0 "Militär-Automobilwesen Expansion"
+AUS_motorisation_desc:0 "While the Austro-Hungarian Empire were pioneers in adopting automobiles for the military, they were always limited in numbers. The k.u.k. Militär-Automobilwesen is the section of the TMK responsible for the development and deployment of military vehicles. The importance of trucks is already clear to the General Staff and they made the motorisation of the army a priority."
 
-AUS_bomber_focus:0 "폭격기 초점"
-AUS_bomber_focus_desc:0 "공군은 우리의 폭격기 크기를 확장하고 강화하기로 결정하였습니다. 이는 전선을 훨씬 넘어선 요새와 도시에서 적을 공격 할 수있는 능력을 향상 시켰습니다. 전쟁터를 통제하는 새로운 큰 폭장량의 금속 폭격기가 현대의 전쟁의 방식이 될것입니다."
+AUS_tank_trials:0 "Tank Trials"
+AUS_tank_trials_desc:0 "With the trauma of the Weltkrieg still fresh for many, tanks were eagerly embraced in the Austro-Hungarian military as their use were proven during the war, with companies such as Škoda and ČKD developing some of the most advanced tank designs in the world. As tank development rapidly advances, the TMK wants to hold trials for new tanks for different purposes."
+
+AUS_radar:0 "Funkgestützte Flugzeugortung"
+AUS_radar_desc:0 "The Hungarian mathematician Zoltán Lajos Bay's work on radars has caught the attention of the TMK and the Fliegerkorps, eager to put the invention into practice in order to improve the Empire's defences against threats from the skies. Experiments on the Funkgestützte Flugzeugortung (Radio-based Aircraft Locator) are proving fruitful and the Monarchy should have a working radar soon."
+
+AUS_rockets:0 "Raketenflugtechnik"
+AUS_rockets_desc:0 "There are a number of rocket scientists throughout the Empire, such as Eugen Sänger and Theodore von Kármán. While there are doubt about rocketry and its military applications, the Committee wants to develop rockets further, believing that their potential is too great to ignore."
+
+AUS_reform_AOK:0 "Reform the Armeeoberkommando"
+AUS_reform_AOK_desc:0 "The Armeeoberkommando (AOK), or Army High Command, was first formed in 1914. Its task was to unite the different commands of the Common Army, the Navy, the Austrian Landwehr and the Hungarian Honvéd to direct the war effort. Shortly after the war, however, the AOK was disbanded and our forces were divided once more. Recreating the AOK is deemed necessary to reunite the different forces."
+
+AUS_doctrine_Jansa:0 "Janša's Central Planning"
+AUS_doctrine_Jansa_desc:0 "Feldmarschall-Leutnant Alfred Janša von Tannenau, one of the possible candidates for the next Chief of Staff, believes in a defensive strategy for the Empire after the traumatic losses of the Weltkrieg. He believes that thorough planning and preparation are the best way to conduct a war, wanting to improve communications between commanders in order to limit casualties as much as possible."
+
+AUS_doctrine_Hickmann:0 "Hickmann's Superior Firepower"
+AUS_doctrine_Hickmann_desc:0 "Generalmajor-Ingenieur Emil Hickmann, a member of the General Staff, believes that the army should be focused on gaining a technical edge against the Monarchy's enemies. As the Weltkrieg remains a traumatic experience, limiting casualties is of utmost importance and Hickmann believes that improved fire support and equipment is key in modern warfare."
+
+AUS_doctrine_von_Hubicki:0 "Von Hubicki's Mobile Warfare"
+AUS_doctrine_von_Hubicki_desc:0 "General der Kavallerie Alfred von Hubicki, currently the commander of the Austro-Hungarian Cavalry, believes that the future of warfare are tanks and trucks. Mobility is key, with tanks being the new Hussars and Cuirassiers of the battlefield. This new cavalry must outmanoeuvre and overwhelm its enemies before they can react."
+
+AUS_communications:0 "Improved Communications"
+AUS_communications_desc:0 "Since the Weltkrieg began, inventions such as the radio has made communications between commanders and troops far easier. With better communications, high command can react to unforseen events far more quickly, limit the damage they can cause, and counter."
+
+AUS_support_equipment:0 "Maximise Fire Support"
+AUS_support_equipment_desc:0 "Units must be properly equiped to be effective. The more support they have, the better they will perform with less casualties. This not only includes artillery, but trucks to evacuate the wounded, proper reconnaisance and maintenance units, and so on."
+
+AUS_mech_cavalry:0 "Mechanised Cavalry"
+AUS_mech_cavalry_desc:0 "While tanks are strong and all, they require support from the infantry or else they become extremely vulnerable. The infantry must be able to keep up with the tanks, and while trucks are good on roads, a tracked transport vehicle would be idea. Fortunately, a Hungarian unit has rebuilt obsolete tanks and artillery tractors into improvised armoured troop transports, which would fill the gap perfectly."
+
+AUS_kavalleriepanzer:0 "Kavalleriepanzer Project"
+AUS_kavalleriepanzer_desc:0 "As their name implies, Cavalry tanks effectively fill the role cavalry used to. Austria-Hungary has successfully developed and adopted several designs already and there is little impetus to change this. Since mobility is a key part of our new doctrine, development of new cavalry tanks must be prioritised."
+
+AUS_infanteriepanzer:0 "Infanteriepanzer Project"
+AUS_infanteriepanzer_desc:0 "While the military already has numerous successful cavalry tank designs, the Infantry tank project has been, thus far, unable to provide results. This must be rectified as infantry support is prioritised in our new doctrine and the project should be pushed further. The upcoming designs are becoming heavier and more expensive, but powerful and better protected."
+
+AUS_auftragstaktik:0 "Modern Auftragstaktik"
+AUS_auftragstaktik_desc:0 "Auftragstaktik, or Mission-type tactics, have been successfully adopted during the Weltkrieg. These tactics involve high command giving clearly-definied missions that subordinates work independently to accomplish, giving the latter great flexibility and encouraging initiative. Auftragstaktik can be adapted for modern war and applied to the new doctrine."
+
+AUS_aviation_effort:0 "k.u.k. Fliegerkorps"
+AUS_aviation_effort_desc:0 "Formerly known as the k.u.k. Luftfahrtruppen, the Fliegerkorps is the air service of Austria-Hungary. It was stretched thin during the Weltkrieg and had a limited number of aircraft at its disposal. Since the end of the war, little was done to rectify this as funding became scarce. With the military receiving substantial funds once more, modernising and expanding the Fliegerkorps is finally possible."
+
+AUS_uzelac-plan:0 "Uzelac's Ground Support Plan"
+AUS_uzelac-plan_desc:0 "Milan Emil Uzelac is the first commander of the Luftfahrtruppen and remains influential within the General Staff and the Fliegerkorps. He believes that the Fliegerkorps exists mainly to support the army in its operations. Therefore, the air force must focus on fighter aircrafts to maintain air superiority and light bombers to attack enemy positions on the front."
+
+AUS_loehr-plan:0 "Löhr's Offensive Air Plan"
+AUS_loehr-plan_desc:0 "Generalmajor Alexander Löhr is a proponent of strategic bombing and granting the Fliegerkorps further independence from the Army. With heavy bombers, the Fliegerkorps could bring the fight to any enemies of the Monarchy and destroy and military capabilities and morale."
+
+AUS_flugschule:0 "Found the k.u.k. Flugschule"
+AUS_flugschule_desc:0 "While there are numerous flying schools across Austria-Hungary, there has never been a centralised academy to coordinate the training of pilots and officers for the Fliegerkorps. The creation of such an institution is essential to the reforms as it will create a new generation of officers and pilots, while also streamlining the Korps into something less ad-hoc."
+
+AUS_fighter_trials:0 "Fighter Trials"
+AUS_fighter_trials_desc:0 "Aircraft development is advancing at an amazing pace. In order to keep up, trials are to be held to adopt a new fighter aircraft for the Fliegerkorps. After all, fighters are arguably the backbone of the air force and will help ensure the safety of our skies."
+
+AUS_light_bomber_trials:0 "Light Bomber Trials"
+AUS_light_bomber_trials_desc:0 "Since supporting operations of the army is a priority for the Fliegerkorps, the adoption of a light bomber aircraft for this role is necessary. Potential designs vary from relatively \"heavy\" two-engine bombers to fighters converted to dive bombers."
+
+AUS_heavy_bomber_trials:0 "Heavy Bomber Trials"
+AUS_heavy_bomber_trials_desc:0 "Heavy bombers are a relatively recent development in aircraft technology and proponents of strategic bombing see their potential. Their long range and large bomb loads make them perfect for the role. Thus, trials are being held and aircraft companies are eager to win such a lucrative contract."
+
+AUS_medium_bomber_trials:0 "Medium Bomber Trials"
+AUS_medium_bomber_trials_desc:0 "The potential of a versatile medium two-engine bombers for a variety of different missions has caught the attention of high command. Since a tactical bomber would be very useful for the Fliegerkorps, aircraft manufacturers are, once again, competing in trials for the next generation of bombers."
 
 AUS_phoenix:0 "푀닉스"
 AUS_phoenix_desc:0 "세계 대전동안 푀닉스라는 이름을 가진 빈의 한 작은 회사는 독일 라이센스 비행기를 생산해 우리 공군에 공급했습니다. 그 이후로 이 회사는 다양한 디자인을 실험 해 왔으며 그 중 일부는 공군 현대화의 열쇠가 될 것입니다. "
@@ -278,9 +349,9 @@ AUS_italy_military:0 "이탈리아 점령"
 AUS_italy_military_desc:0 "수년간의 민족주의와 생디칼리즘의 새로운 움직임에 휩쓸린 이탈리아인이 외교적으로 우리의 점령을 받아 들일리가 없습니다. 프랑스의 위협으로부터 이탈리아 반도를 안전하게 지키는 유일한 방법은 군대 점령을 통해서이며, 이는 지금의 제국은 세계 대전 동안의 오스트리아와는 동일하지 않다는 것을 이탈리아인들에게 알려줄 것입니다. "
 
 AUS_unify_italy:0 "이탈리아 통일"
-AUS_unify_italy_desc:0 "나폴리에서의 이탈리아 생디칼리스트의 부상은 프랑스의 지원을 받는 남부의 이탈리아의 사회주의 공화국과, 북부의 교황 절대주의의 이탈리아 연방으로 분열을 일으켰습니다. 독일과 프랑스가 공개적으로 적대적인 태도를 유지하는 가운데, 카톨릭 형제들을 돕는 것은 우리에 대한 그들의 우호를 얻을 뿐만 아니라, 프랑스와 전쟁에 대비해 우리의 측면을 안전하게 보호할 수 있습니다."
+AUS_unify_italy_desc:0 "토리노에서의 이탈리아 생디칼리스트의 부상은 프랑스의 지원을 받는 서부의 이탈리아의 사회주의 공화국과, 우리 국경과 접해있는 이탈리아 공화국으로 나누게 하였습니다. 독일과 프랑스가 공개적으로 적대적인 태도를 유지하는 가운데, 후자를 돕는 것은 우리에 대한 그들의 우호를 얻을 뿐만 아니라, 프랑스와 전쟁에 대비해 우리의 측면을 안전하게 보호할 수 있습니다."
 
-AUS_strong_italy:0 "이탈리아 제국 강화"
+AUS_strong_italy:0 "이탈리아 공화국 강화"
 AUS_strong_italy_desc:0 "정치적으로 분열된 가운데, 검은 월요일(Black Monday)의 지속적인 영향에 시달린 이탈리아는 민간 부문에 오스트리아 자본의 주입을 요구해왔습니다. 이탈리아와 오스트리아의 경제학자들에 따르면 이것은 양측 모두에게 도움이 될 것이며 나약한 이탈리아를 도와 그들이 알프스에서 프랑스와 맞서게할 수 있고, 이는 우리의 방어에 필수적인 것입니다."
 
 AUS_italy_secure:0 "이탈리아 영토 보호"
@@ -397,59 +468,59 @@ AUS_austro-marxism_desc:0 "제국의 옛 국경과 옛 행정부는 불합리하
 AUS_united_states:0 "동등한 동맹"
 AUS_united_states_desc:0 "대 오스트리아 합중국(Vereinigte Staaten von Groß-Österreich)은 오스트리아의 프란츠 페르디난트 대공을 둘러싼 한 그룹의 학자들에 의해 고안된 제안이었습니다. 이  제안은 1906 년 변호사이자 정치가인 Aurel Popovici에 의해 고안되었고, 오스트리아와 헝가리를 연방 정부화하여 광범위한 민족적, 민족주의적인 긴장을 해결할 수 있는데에 집중했습니다."
 
-AUS_decentralised_development_scheme:0 "분산 개발 계획"
-AUS_decentralised_development_scheme_desc:0 "분산 개발 계획"
+AUS_decentralised_development_scheme:0 "분산된 개발 계획"
+AUS_decentralised_development_scheme_desc:0 "We can no longer pretend that the benefits of our rule are self-evident. We must secure the loyalty of all constituent parts of our state with a new programme to assist development. The fruits of our wealth must be shared by all."
 
-AUS_decentralised_infrastructure:0 "생산 기반 시설 점검 실시"
-AUS_decentralised_infrastructure_desc:0 "생산 기반 시설 점검 실시"
+AUS_decentralised_infrastructure:0 "기반시설 구조 개혁"
+AUS_decentralised_infrastructure_desc:0 "If we are to foster a common identity between our nations, it would be wise to overhaul and link up our creaking infrastructure so that no matter where in our lands one travels, they will never be far from civilisation."
 
 AUS_decentralised_military_factories:0 "군비 증강 계획"
-AUS_decentralised_military_factories_desc:0 "군비 증강 계획"
+AUS_decentralised_military_factories_desc:0 "For too long we have centred far too much of our arms manufacturing efforts in a small area to discourage rebellion and abuse. This situation must change, and the natural benefits that these major job creators bring to a region must be available to all."
 
 AUS_decentralised_docks:0 "해군 증강 계획"
-AUS_decentralised_docks_desc:0 "해군 증강 계획"
+AUS_decentralised_docks_desc:0 "Everybody knows that a strong navy is the sign of a truly significant power. Our federalising efforts can only work if they are tied into the prestigious naval arms race, and expanding our shipbuilding capability will go a long way to supporting them."
 
 AUS_decentralised_factories:0 "산업 단지"
-AUS_decentralised_factories_desc:0 "산업 단지"
+AUS_decentralised_factories_desc:0 "As part of our Scheme it is imperative that we do not ignore the civilian sector, no matter the state of current geopolitics. Workers need goods, and we must of course be in a position to export and import consumer products and natural resources."
 
-AUS_decentralised_more_factories:0 "산업 단지 확장"
-AUS_decentralised_more_factories_desc:0 "산업 단지 확장"
+AUS_decentralised_more_factories:0 "산업 구역"
+AUS_decentralised_more_factories_desc:0 "We need to go further. By going beyond merely incentivising the growth of industrial parks and centres, we must foster development by any means necessary - including through the creation of quasi-independent regional manufacturing bodies."
 
-AUS_transformation_of_nature:0 "자연 개발"
-AUS_transformation_of_nature_desc:0 "자연 개발"
+AUS_transformation_of_nature:0 "Transformation of Nature"
+AUS_transformation_of_nature_desc:0 "Our efforts have to go beyond merely the matter of mankind, it must go into the very fabric of nature itself. If we are to develop our newly reinvigorated state further we have to do whatever it takes, even despoiling some of our beautiful wilderness."
 
-AUS_decentralised_resources:0 "자원 채굴"
-AUS_decentralised_resources_desc:0 "자원 채굴"
+AUS_decentralised_resources:0 "Dig for Resources"
+AUS_decentralised_resources_desc:0 "Our nation is hungry, and it must be sated with the blood of the land. Galicia may be relatively backward, but it is blessed with an abundant supply of oil which can help power our nation into the future. All that it takes to reach it is will."
 
 AUS_am_stabilising_the_country:0 "국가 안정화"
-AUS_am_stabilising_the_country_desc:0 "국가 안정화"
+AUS_am_stabilising_the_country_desc:0 "For too long our 'nation' has been an unwieldly collection of peoples worthy of the greatest of Vienna's menageries. With our attempts to federalise still raw, we must ensure that all of our government's efforts are focussed on keeping this union together."
 
-AUS_am_followup_2:0 "최악은 끝났다"
-AUS_am_followup_2_desc:0 "최악은 끝났다"
+AUS_am_followup_2:0 "최악은 끝났다."
+AUS_am_followup_2_desc:0 "Though it has been a struggle, our nation has demonstrably shown its resilience in recent months. It has surprised even our most optimistic of leaders how quickly our nation has recovered from the trauma of sudden federalisation. All the same, there is still some way to go before the instability ebbs."
 
-AUS_am_followup_3:0 "대타협을 끝내다"
-AUS_am_followup_3_desc:0 "대타협을 끝내다"
+AUS_am_followup_3:0 "End the Ausgleich"
+AUS_am_followup_3_desc:0 "For too long we have endured this farce known as the Ausgleich. It must end if we are to soldier on into the future as a strong and unified nation. Though it may be a leap into the dark, this arcane process must be stopped no matter the consequences."
 
-AUS_am_followup_4:0 "헝가리의 생산량"
-AUS_am_followup_4_desc:0 "헝가리의 생산량"
+AUS_am_followup_4:0 "Hungary Yields"
+AUS_am_followup_4_desc:0 "The united front that has arrayed itself against the stubborn Hungarians has finally succeeded. No longer can they hold out against the inevitable, for our nation's greatness has increasingly become clear to all. Even proud Hungary has fallen into line to reap the benefits."
 
-AUS_am_followup_5:0 "세계로"
-AUS_am_followup_5_desc:0 "세계로"
+AUS_am_followup_5:0 "세계속으로"
+AUS_am_followup_5_desc:0 "Our nation has finally overcome its internal divisions after decades of chaos and internicine bickering. What we have accomplished in only a few short years beggars belief, and it is finally time to enjoy the fruits of peace and harmony."
 
-AUS_us_approaching_the_autonomies:0 "자치권 부여를 시작하다."
-AUS_us_approaching_the_autonomies_desc:0 "자치권 부여를 시작하다."
+AUS_us_approaching_the_autonomies:0 "Approaching the Autonomies"
+AUS_us_approaching_the_autonomies_desc:0 "If we are to overcome the divisions of the past, it is essential that we set about treating them, no longer as mere subjects, but members of a true union of states."
 
-AUS_us_deal_with_Cisleithania:0 "시슬라이타니아(오스트리아령) 통합"
-AUS_us_deal_with_Cisleithania_desc:0 "시슬라이타니아(오스트리아령) 통합"
+AUS_us_deal_with_Cisleithania:0 "Integrating Cisleithania"
+AUS_us_deal_with_Cisleithania_desc:0 "The Cisleithanian lands are ripe for unification. We must break down the internal boundaries in our section of the Empire if we are to implement truly radical reform."
 
 AUS_us_deal_with_Hungary:0 "헝가리와의 거래"
-AUS_us_deal_with_Hungary_desc:0 "헝가리라는 가시는 어떻게든 제거되어야 합니다. 우리는 그들이 지금 10 년 동안 요구하고있는 배상을 준비했습니다."
+AUS_us_deal_with_Hungary_desc:0 "The thorn that is Hungary has to be removed from our side, no matter what. We have prepared the reparations they have been asking for over a decade now."
 
-AUS_us_united:0 "이름뿐이 아닌 연합"
-AUS_us_united_desc:0 "이름뿐이 아닌 연합"
+AUS_us_united:0 "A Union No Longer in Name Only"
+AUS_us_united_desc:0 "There is no longer a pretence to unity in Austria, there is true unity. Where once there was squabbling and infighting, there now exists concord. We are now a true United States."
 
-AUS_us_looking_outwards:0 "바깥을 바라보다"
-AUS_us_looking_outwards_desc:0 "바깥을 바라보다"
+AUS_us_looking_outwards:0 "외부를 향하여"
+AUS_us_looking_outwards_desc:0 "With the divisions of the past cast aside, the United States can now turn its attention to greater matters of state. No longer will we remain saddled with the burden of internal politicking, but instead we shall face the world - together."
 
 ### Foreign Branch
 
@@ -463,8 +534,12 @@ AUS_potb_invite_romania:0 "루마니아에 접근"
 AUS_potb_invite_romania_desc:0 "이제 다시 안전해진 루마니아 왕국은 반드시 우리 편으로 끌어들여야 합니다."
 
 AUS_potb_albania:0 "알바니아에 접근"
+AUS_potb_albania_desc:0 "We can no longer sit idly by as Albania sits to our south free of our influence. It is time to settle the question of where they stand."
+
 AUS_potb_greece:0 "그리스에 접근"
-AUS_potb_serbia:0 "세르비아 처리"
+AUS_potb_greece_desc:0 "There yet remains a lingering question over Greece's position. We should seek to drag her kicking and screaming into our sphere of influence."
+
+AUS_potb_serbia:0 "세르비아와의 "
 AUS_potb_serbia_2:0 "남부 슬라브인 문제"
 
 AUS_potb_take_down_bulgaria:0 "불가리아 문제"
@@ -523,7 +598,7 @@ aus.elections.3.t:0 "애들러는 SDAP를 비난합니다"
 aus.elections.3.d:0 "SDAP의 전임 당 대표의 아들이자 대타협에 대한 항의 시위로 Graf Stürgkh에게 총격을 가한 것으로 유명한 급진사회주의자의 아들인 프리드리히 애들러는 SDAP를 '낡은 권력 체제에 의존하는 짝퉁 사회주의'라고 비난했습니다."
 aus.elections.3.a:0 "급진파는 더욱 급진적이 될 것이다."
 
-aus.elections.4.t:0 "CS(기독교 사회당)의 사냥 모임으로의 초대"
+aus.elections.4.t:0 "기독사회당이 오토 황태자를 사냥모임에 초대했습니다"
 aus.elections.4.d:0 "소규모 자본, 카톨릭 교회, 보수적인 시골 사람들의 당인 CS는 적어도 빈에서는 많은 공공 행사를 개최하지 않으며, 소규모의 사적인 회의에 그들의 노력을 집중시키는 경향이있습니다. 이 회의는 Wienerwald에서 사냥의 형태로 곧 개최 될 예정입니다. \n\n 황태자 오토 (Franklin Otto)는 공식적으로 행사에 초대되었습니다. 외교 교육을 즐기는 이 합스부르크 후계자는 그러한 사교 모임에 상당히 익숙합니다."
 aus.elections.4.a:0 "그가 원한다면 ..."
 aus.elections.4.b:0 "제국 황가는 그런 사소한 것들에 참혀하지 않는다."
@@ -676,6 +751,7 @@ austria.32.b:0 "그들은 우리를 해칠 수 없다."
 austria.33.t:0 "헝가리 폭동"
 austria.33.d:0 "부다페스트에서의 봉기로부터 며칠 후 헝가리의 몇몇 주들이 오스트리아에서 독립을 선언했습니다. 그들은 무장했고 우리를 공격할 준비가 되었습니다! 우리는 행동해야만 합니다."
 austria.33.a:0 "황제가 우리를 승리로 이끌 것입니다."
+
 austria.50.t:0 "민족 분쟁이 격렬해지다"
 austria.50.d:0 "우리는 이 반란에 부주의했습니다. 여러 그룹이 우리 정부를 공격하기 시작했습니다. 우리는 군대와 민간인에 대한 여러 가지 침략 행위로 고통 받고 있습니다."
 austria.50.a:0 "이것은 매우 좋지 않게 끝날 것이다..."
@@ -689,8 +765,8 @@ austria.100.t:0 "이탈리아 문제"
 austria.100.d:0 "우리가 세계대전에서 우승했지만, 우리는 이전의 적 이탈리아에 대해 완전한 통치를 시행 할 수 없었습니다. 이제, 대타협이 우리에게 유리하게 되었기 때문에, 우리는 이탈리아와의 유대를 원할 것인지 아니면 그들과의 또 다른 전쟁을 시작할 것인지 결정할 수 있습니다."
 austria.100.a:0 "황제의 결정을 기다리고 있습니다."
 
-austria.101.t:0 "오스트리아 대사"
-austria.101.d:0 "오늘 오스트리아 대사가 로마에 도착했습니다. 그는 오스트리아 - 이탈리아 동맹을 제안합니다. 그는 미래의 군사 원조에 동의한다면 오스트리아가 우리 나라를 단결시키는 것을 도울 것이라고 약속했습니다."
+austria.101.t:0 "오스트리아의 제안"
+austria.101.d:0 "오늘 오스트리아 대사가 수도에 도착했습니다. 그는 사회주의자들에 대항하는 오스트리아 - 이탈리아 동맹을 제안합니다. 그는 미래의 군사 원조에 동의한다면 오스트리아가 우리 나라를 단결시키는 것을 도울 것이라고 약속했습니다."
 austria.101.a:0 "이것은 좋은 생각처럼 들린다."
 austria.101.b:0 "오스트리아는 우리의 천적이다."
 
@@ -901,7 +977,7 @@ ausgleich.new.321.t:0 "대타협의 끝"
 ausgleich.new.321.d:0 "헝가리가 조기에 떠나기로 결정했습니다 - 대타협은 어제부로 끝났습니다."
 ausgleich.new.321.a:0 "끔직하군."
 
-ausgleich.new.322.t:0 "헝가리는 대타협을 떠나다."
+ausgleich.new.322.t:0 "헝가리는 대타협을 포기하다."
 ausgleich.new.322.d:0 "헝가리 대표단이 올해의 협상을 부르는 "오랜 전통의 얼간이짓"은 끝났고 그들은 협의를 떠났습니다."
 ausgleich.new.322.a:0 "이것은 나쁜 일이다."
 
@@ -1073,6 +1149,14 @@ ausgleich.new.381.d:0 "오스트리아는 헝가리 국민을 해방시키기를
 ausgleich.new.381.a:0 "우리는 여기에 대항해야 한다."
 ausgleich.new.381.b:0 "빈에 대항해 우리가 무엇을 할 수 있지?"
 
+ausgleich.new.382.t:0 "오스트리아와의 전쟁"
+ausgleich.new.382.d:0 "Austrian submission to the unjust demands of Hungary has left us with not choice but to unite with fellow opponents of the Ausgleich's outcome. Now it appears that war with Austria is upon us."
+ausgleich.new.382.a:0 "제국의 모든 이들은 자유의 몸이 되어야한다."
+
+ausgleich.new.383.t:0 "보헤미아와의 전쟁"
+ausgleich.new.383.d:0 "Disgruntled with the outcome of the Ausgleich, a coalition of separtists led by Bohemia, has become increasingly unruly. Now, it seems, the tensions that have long plagued our empire shall be resolved through bloodshed."
+ausgleich.new.383.a:0 "우린 이 배신자들을 쳐부술 것이다!"
+
 
 
 ausgleich.new.700.t:0 "오스트리아의 재통합 요구"
@@ -1081,7 +1165,7 @@ ausgleich.new.700.a:0 "빈에 대항해 우리는 무엇을 할 수 있지?"
 ausgleich.new.700.b:0 "아니."
 ausgleich.new.700.c:0 "우리가 반기를 든 곳이 아닌가?"
 
-ausgleich.new.701.t:0 "[From.GetNameDef]는 재통합에 동의합니다"
+ausgleich.new.701.t:0 "[From.GetNameDefCap]는 재통합에 동의합니다"
 ausgleich.new.701.d:0 "[From.GetAdjective]정부는 보다 중앙 집권적인 국가의 제안에 동의했습니다."
 ausgleich.new.701.a:0 "멋지군."
 
@@ -1120,16 +1204,16 @@ aus.tree.4021.d:0 "오스트리아는 "발칸 반도의 수호자" 역할을 자
 aus.tree.4021.a:0 "보호받는 것은 좋은 일이다."
 aus.tree.4021.b:0 "우리는 우리만의 힘으로 잘 해나가고 있다."
 
-aus.tree.4022.t:0 "[From.GetNameDef]은(는) 거절했습니다."
+aus.tree.4022.t:0 "[From.GetNameDefCap]은(는) 거절했습니다."
 aus.tree.4022.d:0 "[From.GetLeader]는 그들이 우리의 보호에 관심이 없다는 것을 알려왔습니다. [From.GetNameDef]는 우리 영역권에 들어오지 않을 것입니다."
 aus.tree.4022.a:0 "훌륭하기도 해라."
 
-aus.tree.4023.t:0 "[From.GetNameDef]은(는) 우리의 영역권에 들어오는 것에 동의했습니다."
+aus.tree.4023.t:0 "[From.GetNameDefCap]은(는) 우리의 영역권에 들어오는 것에 동의했습니다."
 aus.tree.4023.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
 aus.tree.4023.a:0 "훌륭해."
 
 
-aus.tree.4030.t:0 "Our Interests in Greece"
+aus.tree.4030.t:0 "그리스에 대한 우리의 관심"
 aus.tree.4030.d:0 "The Kingdom of Greece - in antiquity, the pyre of civilisation. Today, a humiliated country, with most of her territory occupied by our old allies. Greece has been romancing with Serbia, who shares a similar fate - an alliance that might become dangerous to us. It is argued that us backing their interests might put us into conflict with Bulgaria, but that it would be favourable over them throwing their lot with Serbia."
 aus.tree.4030.a:0 "To Athens once more."
 
@@ -1138,28 +1222,28 @@ aus.tree.4031.d:0 "Austria has rekindled her policy of acting as a "Protector of
 aus.tree.4031.a:0 "It's good to have protection."
 aus.tree.4031.b:0 "We're doing well on our own."
 
-aus.tree.4032.t:0 "[From.GetNameDef] declines."
+aus.tree.4032.t:0 "[From.GetNameDefCap] declines."
 aus.tree.4032.d:0 "[From.GetLeader] has let us know that his country has no interest in our offer of protection. [From.GetNameDef] will not be part of our sphere."
 aus.tree.4032.a:0 "Well then."
 
-aus.tree.4033.t:0 "[From.GetNameDef] agrees to join our Sphere."
+aus.tree.4033.t:0 "[From.GetNameDefCap] agrees to join our Sphere."
 aus.tree.4033.d:0 "[From.GetLeader] has let us know that his country is looking forward to closer coopertaion. [Root.GetAdjective]-[From.GetAdjective] Relationships are off to a good start."
 aus.tree.4033.a:0 "Splendid."
 
 
-aus.tree.4040.t:0 "Our Interests in Romania"
+aus.tree.4040.t:0 "루마니아에 대한 우리의 관심"
 aus.tree.4040.d:0 "Having helped the Romanian King re-gain control of his country, asking them to formally join our sphere of protection is a mere formality. May this alliance lead to more."
-aus.tree.4040.a:0 "An eternal friendship."
+aus.tree.4040.a:0 "영원한 우방이다."
 
 aus.tree.4041.t:0 "A Facsimile from Vienna"
 aus.tree.4041.d:0 "Austria has rekindled her policy of acting as a "Protector of the Balkans", formally invites us to their faction. As such, we would be under their protection."
 aus.tree.4041.a:0 "It's good to have protection."
 aus.tree.4041.b:0 "We're doing well on our own."
 
-aus.tree.4042.t:0 "[From.GetNameDef] declines."
+aus.tree.4042.t:0 "[From.GetNameDefCap] declines."
 aus.tree.4042.d:0 "[From.GetLeader] has let us know that his country has no interest in our offer of protection. [From.GetNameDef] will not be part of our sphere."
 aus.tree.4042.a:0 "Well then."
 
-aus.tree.4043.t:0 "[From.GetNameDef] agrees to join our Sphere."
+aus.tree.4043.t:0 "[From.GetNameDefCap] agrees to join our Sphere."
 aus.tree.4043.d:0 "[From.GetLeader] has let us know that his country is looking forward to closer coopertaion. [Root.GetAdjective]-[From.GetAdjective] Relationships are off to a good start."
 aus.tree.4043.a:0 "Splendid."
