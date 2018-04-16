@@ -255,16 +255,16 @@ CAN_RAD_AST_NEG:0 "유명한 캐나다의 강점"
 
 ### Leadership Descriptions ###
 POLITICS_GEORGE_DESC:0 "왕 겸 황제(The King-Emperor)는 자신의 칭호 아래에서, 1910년부터 '해가 지지않는 제국'인 광대한 대영 제국을 26년 동안 지배해 왔습니다, 그러나 지난 26년 동안의 비극은 왕 겸 황제에게 그의 사촌과의 전쟁에서의 패배와 막내 아들 존의 죽음, 그리고 영국 왕실의 캐나다 망명을 겪게 했고, 영국 왕실이 피신한 캐나다 자치령을 왕 겸 황제는 '냉동 감옥'으로 불렀습니다. 마침내, 대영 제국의 해가 진 것처럼 보였고, 조지 왕의 금욕적인 성격에는 절망감이 가득 찼습니다. 1925 년 이래로 왕 겸 황제의 건강은 스트레스와 우울증의 혼합을 통해 꾸준히 악화되었고, 병든 왕을 대신해 에드워드 왕자가 더 많은 업무를 수행하게 되었습니다(원통하게도)."
-POLITICS_EDWARD_DESC:0 "Edward of Windsor, with the passing of his father, ‘King-Emperor’, George V, was coronated in a lavish ceremony in Ottawa. The young monarch, notably solemn upon his enthronement, inherited an Empire undoubtedly a shadow of its former glory, and a kingdom occupied by syndicalist revolutionaries. Undeterred, King Edward maintains, above all else, the desire that the banner of the United Kingdom again proudly fly above the British Isles."
-POLITICS_ALBERT_WINDSOR_DESC:0 "Prince Albert of Windsor, younger Brother of King British king Edward VIII, has been appointed Governor-General of Canada. Though ridiculed as a child for his noticeable stammer, Albert grew into a collected and dutiful man. While Canadians appreciate Albert’s virtue, the expectation among many in its government was that appointment to the post of Governor-General would be restored to the discretion of the Canadian parliament. Regardless of the disappointment of some, however, Albert is well liked. With Edward occupied with the reconstruction of the recently reconquered Britain, Albert toils diligently to ensure that Canada is properly governed."
-POLITICS_ROBERT_POPHAM_DESC:0 "Robert Brooke-Popham, a general of the royal flying core during the Weltkrieg, has been appointed Governor-General of Canada. Brooke-Popham has always been an administrator above all else, and was essential in the establishment of the Royal Air Force as an independent branch of the British, and later Canadian, armed forces. With his appointment to Quartermaster General of the Canadian armed forces, materiel shortages fell and efficiency rose greatly. It was on this basis that king Edward, too occupied overseeing the reconstruction of the United Kingdom to govern Canada, appointed Brooke-Popham as Canada’s first Governor-General since the British Revolution."
+POLITICS_EDWARD_DESC:0 "에드워드 윈저는 그의 아버지, 조지 5세의 죽음과 함께 오타와에서 왕위를 계승했습니다. 엄숙히 즉위한 이 젊은 왕은 흔적만 남은 제국의 옛 영광과 생디칼리스트 혁명가들에게 점거당한 왕국을 물려받았습니다. 의심할 여지 없이 에드워드 왕은, 무엇보다도 유니온 잭이 다시 브리튼 제도 위를 당당하게 날아 오르기를 희망하고 있습니다."
+POLITICS_ALBERT_WINDSOR_DESC:0 "영국 왕 에드워드 8세의 동생인 앨버트 윈저 공이 캐나다의 총독으로 임명되었습니다. 어린 시절 그는 눈에 띄는 말더듬이 때문에 조롱을 받았지만, 알버트는 현명하고 또한 근면한 사람이 되었습니다. 캐나다인들은 앨버트 총독의 인품을 높이 평가하고 있지만, 캐나다 정부의 많은 사람들 사이에서는 총독 임명이 캐나다 의회의 재량에 위임될 것이라는 기대가 있었기에 실망한 사람도 많았습니다. 하지만 일부 사람들의 실망에도 불구하고 앨버트는 좋은 평판을 받고 있습니다. 에드워드가 최근에 수복한 영국의 재건에 몰두하는 가운데, 앨버트는 캐나다가 적절하게 통치되도록 하기 위해 부지런히 고민해왔습니다."
+POLITICS_ROBERT_POPHAM_DESC:0 "세계 대전기에 왕립 공군 장성이었던 로버트 브룩-폽햄이 캐나다의 총독으로 임명되었습니다. 브룩-폽햄은 항상 철저한 인물이었고 왕립 공군을 영국군의 독립된 군으로서, 그리고 이후에 캐나다의 군대로서 설립하는데 필수적인 인물이었습니다. 캐나다 총독에 그가 임명되면서, 자재 부족이 줄어들고 효율이 크게 증가했습니다. 이것은 명백히 에드워드 왕이 임명한, 영국 혁명 이후 캐나다의 첫번째 총독인 브룩-폽햄의 업적입니다."
 POLITICS_FREDERICK_BANTING_DESC:0 "Frederick Banting, renowned scientist, and the first man to identify insulin and its function, has been appointed Governor-General of Canada. While a researcher may see an odd choice for Governor-General, Banting has been of great importance to Canada. With the turmoil wrought by the British Revolution, Banting was instrumental in facilitating the immigration of thousands of British intellectuals to Canada, and the subsequent reorganisation of Canada’s military research apparatus. With king Edward’s, busy supervising the reconstruction of Britain, decision to delegate the choice of Governor-General to the Canadian parliament, appointing such a public figure and veteran administrator as Banting was a sound choice."
 POLITICS_GEORGES_VANIER_DESC:0 "Georges Vanier, French-Canadian general responsible for the mitigation of Anglo-Quebecois tensions following the British Revolution, has been appointed Governor-General of Canada. Vanier is a grizzled veteran of both the battlefields of the Weltkrieg, where he lost his right leg, and the challenges of military administration alike. Vanier is an iconic symbol of duty to many Canadians, and as a French-Canadian himself, especially the Quebecois. Fluent in both French and English, and loyal to Canada foremost, Vanier was the logical choice for the Canadian parliament for the position of Governer-General when king Edward, busy with the reconstruction of Britain, chose to delegate the decision to to them."
 
 ### World Tension ###
 CAN_IRE_treaty_t:0 "캐나다-아일랜드 조약"
 CAN_IRE_war_t:0 "캐나다가 아일랜드를 침공했습니다"
-CAN_PSA_war_t:0 "캐나다가 태평양 합중국을 침략했습니다"
+CAN_PSA_war_t:0 "캐나다가 태평양 합중국을 침공했습니다"
 CAN_ACW_intervene:0 "캐나다가 미국에 개입할 계획을 세우고 있습니다"
 CAN_attack_ENG:0 "캐나다가 브리튼 연방에 선전 포고했습니다"
 CAN_attack_GER:0 "캐나다가 독일 제국에 선전 포고했습니다"
@@ -845,14 +845,14 @@ canada.72.d:0 "수 십만 명의 프랑스 코뮌 지지자들과 독일 제국 
 canada.72.a:0 "제2차 세계대전이 우리에게 온다!"
 canada.72.c:0 "지금은 때가 아니야."
 
-canada.73.t:0 "온두라스가 내전에 빠지다!"
+canada.73.t:0 "온두라스가 내전에 휩쓸리다!"
 canada.73.d:0 "급진적인 사회주의자들, 생디칼리스트들, 공산주의자들이 온두라스의 합법적인 정부를 공격하기 시작했습니다. 우리의 정보 요원은 그들이 중앙 아메리카에 의해 지원 받고 있다는 것을 확신합니다. 만약 우리가 그들을 억제하지 않는다면, 미국의 다른 중부 지역 국가들도 공산주의 국가로 돌아서서 미국에 대한 우리의 영향력을 전복시킬 것입니다."
-canada.73.a:0 "온두라스는 몰락하지 않는다!"
-canada.73.b:0 "아무것도 하지마"
+canada.73.a:0 "온두라스가 무너져선 안된다!"
+canada.73.b:0 "아무것도 하지 마라"
 
 canada.75.t:0 "중앙 아메리카 전쟁 - 반 생디칼리즘 국가들을 위한 도움?"
 canada.75.d:0 "중앙 아메리카 전쟁은 중앙 아메리카의 생디칼리스트 지원 체제에 맞서 싸울 수 있는 새로운 가능성을 열어 주고 있습니다. 우리가 온두라스와 다른 나라들을 돕지 않는다면, 이 지역 전체가 신앙 없는 공산주의자들에게 도미노처럼 떨어질 것입니다. 우리는 그들이 오타와로 행진하기 전에 생디칼리스트를 멈춰야 합니다!"
-canada.75.a:0 "멕시코, 온두라스, 그리고 중앙 아메리카에 대항하는 연합 주들을 지원하시오"
+canada.75.a:0 "멕시코, 온두라스, 그리고 중앙 아메리카에 대항하는 연합 주들을 지원하라"
 canada.75.b:0 "중립을 선언한다"
 
 canada.77.t:0 "Canada Sends us Supplies"
@@ -1133,10 +1133,10 @@ canada.210.d:0 "오늘 캐나다의 왕 에드워드 8세는 1848년 오리건 �
 canada.210.a:0 "그들이 침략한다면 견딜 수 없을 것이다!"
 
 canada.211.t:0 "캐나다가 오리건 주의 영토를 요구합니다"
-canada.211.d:0 "캐나다는 이전의 위협에 이어, 오리건 전체 지역 (워싱턴, 오리건 및 아이다호)에 대한 통제권을 양도하고 평화적으로 캘리포니아로 퇴각할 것을 요구했습니다. 우리 어떻게 해야 되죠?"
+canada.211.d:0 "캐나다는 이전의 위협에 이어, 오리건 전체 지역 (워싱턴, 오리건 및 아이다호)에 대한 통제권을 양도하고 평화적으로 캘리포니아로 퇴각할 것을 요구했습니다. 어떻게 해야 할까요?"
 canada.211.a:0 "그 무엇도 캐나다의 힘에 맞설 수 없다. 그들의 요구에 응해서 그들이 우리를 평화롭게 떠나기를 바라자."
 canada.211.b:0 "타협할 수 있을까? 워싱턴과 아이다 호의 팬핸들을 양보하라."
-canada.211.c:0 "어떤 캐나다인이 이런 생각을 한 거지? 전쟁에 대비하라!"
+canada.211.c:0 "어떤 캐나다놈이 이런 생각을 한 거지? 전쟁에 대비하라!"
 
 canada.212.t:0 "태평양 합중국에서 우리의 요구를 수락했습니다"
 canada.212.d:0 "태평양 합중국 정부는 현명하게도 우리의 요구에 동의해 왔습니다. 그들의 군대는 새로운 국경을 가로질러 남쪽으로 철수했고, 우리는 이미 그 영토를 차지했으며 행정 통합을 위해 움직이고 있습니다."
@@ -1387,8 +1387,8 @@ canada.307.t:0 "독일이 조약에 서명하다"
 canada.307.d:0 "독일은 우리의 조약에 서명하기로 동의했습니다. 이제 우리는 그들의 항구에 접근해서 우리의 고향 섬에 대한 탈환 계획을 계획하는 것을 도울 수 있습니다."
 canada.307.a:0 "훌륭해!"
 
-canada.308.t:0 "독일이 조약에 서명하지 않았다"
-canada.308.d:0 "독일은 우리의 조약에 서명하기를 거부했습니다. 독일인들이 우리를 뒤쫓아오는 것을 항상 경계해야 합니다."
+canada.308.t:0 "독일이 조약에 서명하지 않다"
+canada.308.d:0 "독일은 우리의 조약에 서명하기를 거부했습니다. 독일인들이 우리 뒤를 노리고 있을지 모르니 항상 경계해야 합니다."
 canada.308.a:0 "불쾌한 독일놈들"
 
 canada.309.t:0 "Fullfilling the Treaty"
@@ -1495,7 +1495,7 @@ canada.809.b:0 "새로운 캐나다 상원을 만든다"
 
 canada.810.t:0 "캐나다 음식"
 canada.810.d:0 "우리가 생디칼리즘의 지배에서 영국을 재건하면서 주목하게 된 한가지는 식량의 필요성입니다. 영국의 농장과 어업이 충분히 생산을 하는 반면에, 생디칼리즘에서 벗어나는 것이 문제를 일으키고 있습니다. 하지만, 감사하게도 캐나다인들이 우리의 인구를 먹여 살릴 수 있는 음식을 제공하기 위해 개입했습니다."
-canada.810.a:0 "캐나다인들에게 감사드립니다"
+canada.810.a:0 "고맙다, 캐나다인들"
 
 canada.811.t:0 "캐나다 상선 선원"
 canada.811.d:0 "영국 상선 선원을 본국으로 송환한데 대한 보상의 일환으로 또 영국의 재정복에서 캐나다가 보여 준 특별한 노력에 대한 보상으로, 영국 정부는 캐나다 상선 선원들이 그들 자신의 상선을 확장하는 것을 돕기 위해 그들에게 약간의 보조금을 제공하기로 결정했습니다. 몇달 후에, 우리는 새로운 캐나다 선박들이 외해의 파도를 타는 것과 함께 몇가지 결과를 볼 수 있습니다."
