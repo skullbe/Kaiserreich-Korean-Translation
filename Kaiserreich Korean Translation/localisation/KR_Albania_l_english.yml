@@ -3,14 +3,14 @@ l_english:
 ### Events ###
 albania.1.t:0 "알바니아 공화국"
 albania.1.d:0 "1912년 제 1차 발칸 전쟁 중, 블로러에 있는 알바니아 민족 회의는 알바니아의 독립을 선언했고, 주요 강대국들은 1913년에 비드의 빌헬름이 공작에 올라 알바니아를 통치하는 조건으로 독립을 받아들였습니다.\n\n세계대전이 일어나면서 오스트리아-헝가리가 알바니아에 함께 싸울 것을 요구해 알바니아는 새로운 문제를 겪게 되었습니다. 런던 조약에 따른 알바니아의 중립을 이유로 빌헬름 공작이 이를 거절한 후, 그가 지금까지 받아왔던 급료가 갑작스럽게 끊겼습니다. 정권은 무너졌고, 빌헬름 공작은 공식적으로 알바니아의 정부 수반으로 있었음에도 불구하고 1914년 9월 3일 독일 제국 군대에 입대하기 위해 나라를 떠났습니다. 1921년, 명예로운 평화로 알바니아의 지위가 결정되었습니다: 오스트리아의 영향을 받는 빌헬름 공작의 권력 아래에 놓인 공국으로 말입니다.\n\n하지만 오스트리아의 발전 덕분에, 1924년 알바니아는 오스트리아의 영향을 없애고 비드를 쫒아낸 아흐메트 조구, 셰프톄트 버를라치, 알리 켈멘디, 술레이만 델비나, 판 놀리, 아브니 루스테미 같은 수많은 알바니아 민족주의자들의 도움으로 자유를 쟁취할 수 있었습니다. 익히 알려진 것과 같이, 1924년 알바니아 혁명으로 아브니 루스테미가 이끄는 통합당과 셰프톄트 버를라치가 이끄는 진보당이 생겨났습니다. \n\n알바니아에서 가장 넓은 땅을 가진 버를라치와 다른 귀족들의 도움으로, 조구와 진보당은 1924년과 1928년, 1932년 선거에서 승리를 거둘 수 있었습니다. 하지만 알바니아와 통합당의 민주주의자들은 토지개혁을 하고 하층민들에게 권력을 분배하자고 주장해왔습니다. 이러한 개혁은 진보당에 의해 모두 거부되었고, 현재 알바니아는 매우 양극화된 국가로 힘든 시간을 보내야 합니다..."
-albania.1.a:0 "Ne do të mbizotërojmë, pa marrë parasysh rrethanat..."
+albania.1.a:0 "상황에 관계없이 우리는 승리할 것입니다..."
 
 albania.2.t:0 "검은 월요일이 알바니아를 강타하다!"
 albania.2.d:0 "1936년 2월 3일 베를린 증권 거래소가 급락하면서, 다른 국가들도 모두 추락했습니다. 알바니아는 새로운 농업 국가로, 국제적인 위상을 찾기 위해 노력했습니다. 농지 개혁의 부재, 산업화의 부재, 귀족들로의 권력 집중 때문에 알바니아의 민주주의자들, 특히 통합당을 제외한 다른 정당들, 은 자유화와 산업화를 요구하고 있습니다. 실업률이 치솟고 경제가 무너지면서 국민들은 등을 돌리기 시작했고 루스테미와 놀리의 말에 귀를 기울이고 있습니다. 게다가 알바니아 국립 은행에 자금을 대 온 귀족들은 은행의 실패와 폐쇄로 그렇게 할 수 없게 되었습니다. 여기에 1936년 알바니아 선거가 다가오고 있으며, 경제 발전으로 권력의 균형이 통합당에 유리해진 것 같습니다."
 albania.2.a:0 "젠장!"
 
 albania.3.t:0 "[GetYear]년 알바니아 선거"
-albania.3.d:0 "The most anticipated elections in a long time, the [GetYear] Albanian Elections have every Albanian on the edge of his or her seat. In addition, the increased polarisation within the nation has had both the Progressive Party and the Unity Party, and their supporters, at each others’ throats. The Progressive Party have campaigned upon a platform of minor industrialisation, banking reform, balancing of the budget, deflation measures to counteract the effects of Black Monday, and better conditions for sharecroppers. The Unity Party, meanwhile, have advocated for land reform, agrarian reform, the industrialisation of Albania, the liberalisation and westernisation of Albania, and the improvement of the condition of the people. This election shall decide the fate of Albania for years to come. The votes have been officially counted and the winner of the election is..."
+albania.3.d:0 "오랜 세월에 걸쳐 가장 기대되는 선거인 [GetYear]년 알바니아의 선거는 모든 알바니아 국민들을 긴장되게 하고 있습니다. 또한 국내에서 양극화가 심화되면서 진보당과 통합당 그리고 그들의 지지자들은 서로를 심하게 비난해 왔습니다. 진보당은 소규모 산업화, 은행 개혁, 예산의 균형, 검은 월요일의 효과를 상쇄하기 위한 통화 수축 조치 그리고 소작인들을 위한 더 나은 조건이라는 공약으로 선거 운동을 벌여 왔습니다. 한편, 통합당은 토지 개혁, 농지 개혁, 알바니아의 산업화, 알바니아의 자유화와 서구화 그리고 국민의 상태 개선을 지지해 왔습니다. 이번 선거는 알바니아의 운명을 몇 년 동안 결정하게 될 것입니다. 개표가 끝나고 선거의 승자는..."
 albania.3.a:0 "통합당이다!"
 albania.3.b:0 "진보당이다!"
 
