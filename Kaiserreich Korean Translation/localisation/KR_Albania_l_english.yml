@@ -11,11 +11,11 @@ albania.2.a:0 "젠장!"
 
 albania.3.t:0 "[GetYear]년 알바니아 선거"
 albania.3.d:0 "오랜 세월에 걸쳐 가장 기대되는 선거인 [GetYear]년 알바니아의 선거는 모든 알바니아 국민들을 긴장되게 하고 있습니다. 또한 국내에서 양극화가 심화되면서 진보당과 통합당 그리고 그들의 지지자들은 서로를 심하게 비난해 왔습니다. 진보당은 소규모 산업화, 은행 개혁, 예산의 균형, 검은 월요일의 효과를 상쇄하기 위한 통화 수축 조치 그리고 소작인들을 위한 더 나은 조건이라는 공약으로 선거 운동을 벌여 왔습니다. 한편, 통합당은 토지 개혁, 농지 개혁, 알바니아의 산업화, 알바니아의 자유화와 서구화 그리고 국민의 상태 개선을 지지해 왔습니다. 이번 선거는 알바니아의 운명을 몇 년 동안 결정하게 될 것입니다. 개표가 끝나고 선거의 승자는..."
-albania.3.a:0 "통합당!"
-albania.3.b:0 "진보당!"
+albania.3.a:0 "통합당이다!"
+albania.3.b:0 "진보당이다!"
 
 albania.4.t:0 "예산 균형 맞추기"
-albania.4.d:0 "By investing more into the creation of a robust social system alongside increasing taxes on the aristocrats, we have slowly, yet surely, managed to balance the budget and allow for the government to operate on some sort of surplus. In addition, the money that we have managed to save up is useful in that it will allow us to carry out some of the extensive programmes that we had originally advocated for."
+albania.4.d:0 "강력한 사회 시스템 구축에 더 많은 투자를 하고 귀족들에게서 세금을 더 많이 거둬드림으로써, 우리는 느리지만 확실히 예산의 균형을 맞출 수 있었으며 정부는 일종의 흑자를 누리고 있습니다. 게다가, 가까스로 모인 돈으로 우리가 원래 지지했던 광범위한 계획들 중 일부를 실행할 수 있을 것입니다."
 albania.4.a:0 "계속하라!"
 
 albania.5.t:0 "예산 균형 맞추기"
@@ -23,15 +23,15 @@ albania.5.d:0 "Through convincing our fellow aristocrats and landowners to help 
 albania.5.a:0 "계속하라!"
 
 albania.6.t:0 "은행 개혁"
-albania.6.d:0 "Funding the Albanian National Bank was no easy task. Through the use of foreign loans and help from our wealthier supporters, we have managed to invest in the Albanian National Bank. By doing so, we can continue to better manage currency, promote economic growth, and retain the stability of prices."
+albania.6.d:0 "알바니아 국립 은행에 자금을 대는 것은 쉬운 일이 아니었습니다. 우리는 외국 차관을 활용하고 부유층의 도움을 받아 알바니아 국립 은행에 간신히 투자를 했습니다. 이로써 우리는 통화 관리와 경제 성장 촉진, 물가 안정 유지를 더 잘 해낼 수 있을 것입니다."
 albania.6.a:0 "훌륭하군."
 
 albania.7.t:0 "은행 개혁"
-albania.7.d:0 "We have convinced the aristocrats, landowners, and the rest of the nobility within the nation to continue funding the Albanian National Bank as it is in their best interest to do so. By doing so, we can continue to better manage currency, promote economic growth, and retain the stability of prices."
+albania.7.d:0 "우리는 전국의 귀족들과 지주들에게 최고의 이익을 위해서는 알바니아 국립 은행에 계속 자금을 지원하는 것이 좋다고 설득해왔습니다. 이로써 우리는 통화 관리와 경제 성장 촉진, 물가 안정 유지를 더 잘 해낼 수 있을 것입니다."
 albania.7.a:0 "훌륭하군."
 
 albania.8.t:0 "귀족들이 산업화를 반대하다!"
-albania.8.d:0 "The aristocrats, Vërlaci and his gang of landowners in particular, have come out in opposition to the industrialisation programme undertaken by the party, citing a potential decrease in profits if the programme were to successfully pass. It is clear that the landowners do not want any competition, or for Albania to transition from an agrarian nation to an industrial one, lest they lose profits generated from various sharecroppers."
+albania.8.d:0 "귀족들, 특히 버를라치와 그의 지주 무리들은 이 산업화 계획이 성공적으로 통과하면 자신들의 이익이 감소한다는 이유로 당이 약속한 산업화 계획에 반대하고 있습니다. 지주들은 분명히 어떠한 경쟁도 원하지 않으며, 알바니아가 농업 국가에서 산업 국가로 바뀌면 여러 소작농들로부터 나오는 이익을 잃을 수도 있기 때문입니다."
 albania.8.a:0 "Who cares what they think?"
 
 albania.9.t:0 "진보당이 토지 재분배를 반대하다!"
@@ -39,11 +39,11 @@ albania.9.d:0 "Shefqet Vërlaci, Ahmet Zogu, and the rest of the Progressives, a
 albania.9.a:0 "Damn them!"
 
 albania.10.t:0 "아브니 루스테미 암살 시도에 대한 소문"
-albania.10.d:0 "The Progressives, now extremely unhappy with the land redistribution efforts and coming to the conclusion that the Unity Party has no intention to stop their extensive reforms, they have begun to take matters into their own hands. Rumours of an assassination attempt on Rrustemi and other ways to undermine the Unity Party have been surfacing..."
-albania.10.a:0 "God help us."
+albania.10.d:0 "진보당은 현 토지 재분배 정책에 매우 강한 불만을 가지고 있으며 통합당이 그들의 광범위한 개혁을 멈출 의도가 없다는 결론에 도달하였습니다. 그 결과 진보당은 스스로 문제를 처리하기 시작했습니다. 루스테미 암살 시도와 통합당을 약화하려는 다른 방법들에 대한 소문이 무성해지고 있습니다..."
+albania.10.a:0 "신께서 도와주시길."
 
 albania.11.t:0 "아브니 루스테미 암살 시도!"
-albania.11.d:0 "The Progressives have made their move and have hired an assassin to take out Rrustemi and end his and the rest of the Unity Party’s reforms."
+albania.11.d:0 "진보당은 조치를 취했으며 루스테미를 제거하여 그와 통합당의 개혁을 끝내기 위해 암살자를 고용했습니다."
 albania.11.a:0 "The assassin has just taken the shot and..."
 
 albania.12.t:0 "암살 미수"
@@ -108,11 +108,11 @@ albania.25.d:0 "Avni Rrustemi, Fan Noli, and the rest of the Unity Party, alongs
 albania.25.a:0 "Damn them!"
 
 albania.26.t:0 "버를라치 암살 시도에 대한 소문"
-albania.26.d:0 "The Unity Party, now extremely unhappy with the stalling of land redistribution efforts and coming to the conclusion that the Progressive Party has no intention to begin agrarian reform, have begun to take matters into their own hands. Rumours of an assassination attempt on Vërlaci and other ways to undermine the Progressive Party have been surfacing..."
-albania.26.a:0 "God help us."
+albania.26.d:0 "통합당은 토지 재분배가 지연된 현 상황에 매우 강한 불만을 가지고 있으며 진보당이 농지 개혁을 시작할 의도가 없다는 결론에 도달하였습니다. 그 결과 통합당은 스스로 문제를 처리하기 시작했습니다. 버를라치 암살 시도와 진보당을 약화하려는 다른 방법들에 대한 소문이 무성해지고 있습니다..."
+albania.26.a:0 "신께서 도와주시길."
 
 albania.27.t:0 "셰프톄트 버를라치 암살 시도!"
-albania.27.d:0 "The Unity Party have made their move and have hired an assassin to take out Vërlaci and end his and the rest of the Progressive Party’s rule."
+albania.27.d:0 "통합당은 조치를 취했으며 버를라치를 제거하여 그와 진보당의 통치를 끝내기 위해 암살자를 고용했습니다."
 albania.27.a:0 "The assassin has just taken the shot and..."
 
 albania.28.t:0 "암살 미수"
