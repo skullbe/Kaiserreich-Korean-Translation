@@ -33,11 +33,11 @@ LOAD_GFX:0 "아시아에서 지상전을 벌이는 중"
 #"Loading Graphics"
 LOADING_MAIN_MENU:0 "죽어가는 제국을 지탱하는 중"
 #"Loading main menu"
-PRECALC_NAVAL_DIST:0 "제국 해군을 전개시키는 중"
+PRECALC_NAVAL_DIST:0 "상하이에서 밀수하는 중"
 #"Precalculating Naval Distances"
 EXITING_TO_FRONTEND:0 "나폴레옹 왕가를 복원하는 중"
 #"Returning to main menu"
-LOAD_INIT:0 "상하이에서 밀수하는 중"
+LOAD_INIT:0 "제국 해군을 전개시키는 중"
 #"Initialising Game..."
 LOAD_FLAGS:0 "미국의 민주주의를 구원하는 중"
 #"Creating Flags"
@@ -49,7 +49,7 @@ INIT_GAMESTATE:0 "부상병을 치료하는 중"
 #"Initialising game"
 EXECUTE_HISTORY:0 "라인 강을 감시하는 중"
 #"Executing history"
-CREATING_CHKSUM:0 "런던에 대한 직접 통치를 준비하는 중"
+CREATING_CHKSUM:0 "직접 통치를 준비하는 중"
 #CREATING_CHKSUM:0 "Apologising for late patches"
 #"Creating checksum"
 GENERATING_GRADIENT_BORDERS:0 "혁명을 배반하는 중"
@@ -69,9 +69,34 @@ custom_diff_strong_ita:0 "이탈리아 강화"
 custom_diff_strong_jap:0 "일본 강화"
 custom_diff_strong_qie:0 "청나라 강화"
 
-### Autonomy ###
+### Autonomy Levels ###
+kr_integrated_puppet:0 "Integrated Puppet"
+kr_occupied_puppet:0 "Occupied Puppet"
+kr_default_puppet:0 "Puppet"
+kr_autonomous_puppet:0 "Autonomous Puppet"
+kr_nominal_puppet:0 "Nominal Puppet"
+kr_special_autonomous_dependency:0 "Autonomous Dependency"
+kr_african_colony:0 "African Colony"
+kr_african_tributary:0 "African Tributary"
 autonomy_colony:1 "식민지"
 autonomy_dominion:1 "자치령"
+
+### Autonomy Tooltips ###
+can_lower_autonomy_level:0 "Can lower autonomy level\n"
+can_raise_autonomy_level:0 "Can raise autonomy level\n"
+puppet_can_become_free:0 "May become independent\n"
+puppet_can_be_annexed:0 "May be annexed by the overlord\n"
+may_raise_autonomy:0 "§Y[Root.GetNameDefCap]§! may now raise autonomy level\n"
+may_become_free:0 "§Y[Root.GetNameDefCap]§! may now work towards independence\n"
+
+### Autonomy Events ###
+kr.political.100.t:0 "Order Restored in [Root.GetNameDef]"
+kr.political.100.d:0 "While [Root.GetNameDef] still labours under [overlord_name.GetAdjective] control, the [Root.GetAdjective] military has asserted enough control over our own borders that a semblance of greater autonomy is now possible to exert. This is not independence - far from it - but it does mean we no longer have to rely on [overlord_name.GetAdjective] troops to secure our borders."
+kr.political.100.a:0 "Excellent"
+
+kr.political.101.t:0 "Greater [Root.GetAdjective] Autonomy?"
+kr.political.101.d:0 "[Root.GetNameDefCap] remains under the control of the [overlord_name.GetAdjective] government, but that control is beginning to surely lessen as our strength reasserts itself. [Root.GetAdjective] power is not something to be easily contained, and already our leaders are clamouring for more control over our own affairs. Surely our [overlord_name.GetAdjective] will not be able to resist us for long."
+kr.political.101.a:0 "Long live [Root.GetNameDef]!"
 
 ### Land Units ###
 garrison:0 "주둔군"
@@ -92,13 +117,37 @@ sec_cannot_be_replaced:0 "내무부 장관 재임명 불가"
 ministers_cannot_be_replaced:0 "장관 재임명 불가"
 
 ### Factions ###
-Mittelmacht:0 "미틀오이로파"
+Mittelmacht:0 "Reichspakt"
 Entente:0 "협상국"
 Belgrade_Pact:0 "베오그라드 조약기구"
 Third_International:0 "제 3인터내셔널"
 Mongolian_Alliance:0 "대 칸국"
 Scandinavian_Pact:0 "스칸디나비아 조약기구"
 Mediterranean_Bloc:0 "지중해 연합"
+
+### Other ###
+tooltip_add_idea_closed_economy:0 "Change Trade Law to '§YClosed Economy§!'.\n"
+tooltip_add_idea_command_economy:0 "Change Trade Law to '§YCommand Economy§!'.\n"
+
+### World Tension ###
+second_american_civil_war_threat:0 "Start of the Second American Civil War"
+second_russian_civil_war_threat:0 "Start of the Second Russian Civil War"
+spanish_civil_war_threat:0 "Start of the Spanish Civil War"
+second_weltkrieg_threat:0 "Start of the Second Weltkrieg"
+rise_mongol_empire_threat:0 "Rise of the Mongol Empire"
+fourth_balkan_war_threat:0 "Start of the Fourth Balkan War"
+remilitarize_oltenia_threat:0 "Manoeuvres in the Carpathians"
+romandy_crisis_threat:0 "The Romandie Crisis has begun"
+russian_expansionism_threat:0 "Russia has started an expansionist path"
+kerensky_assassinated_threat:0 "Kerensky has been assassinated"
+macarthur_threat:0 "American Democracy is over"
+japanese_expansionism_threat:0 "Japan has started an expansionist path"
+mittelafrika_collapse_threat:0 "Mittelafrika has collapsed"
+democratic_win_acw_threat:0 "Democracy has survived the Second American Civil War"
+macarthur_wins_threat:0 "MacArthur has won the Second American Civil War"
+aus_wins_acw_threat:0 "AUS has won the Second American Civil War"
+csa_wins_acw_threat:0 "CSA has won the Second American Civil War"
+belgrade_pact_threat:0 "The Belgrade Pact has formed"
 
 ### Name and Description ###
 BM_HISTORY_TITLE:0 "간단한 역사"
@@ -133,39 +182,63 @@ JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일�
 
 ### Minor Nations ###
 
-### Ethiopia ###
-ETH_KR_GATHERING_STORM_DESC:0 "아비시니아는 1896년 아두와 전투에서 이탈리아의 공격을 막아내고 독립을 지켜온 아프리카 국가 중 하나입니다. 세계대전의 막바지에 독일의 동맹으로 뛰어든 아비시니아는 에리트레아를 막대한 비용으로 이탈리아로부터 얻어냈으며, 관측자들에 의하면 현대 전쟁은 힘들 것으로 보입니다. 몇 차례의 전쟁과 몇 년동안 떠안고 있던 부채는 새로운 제국의 황제인 하일레 셀라시의 제국과 개혁의 발목을 붙잡고 있습니다. 노예 제도 및 시대를 역행하는 제도들은 현대에 다시 태어난 에티오파아의 길에 서있습니다. 황제는 개혁을 앞두고 어려운 결단을 내립니다."
+### Australasia ###
+AST_KR_GATHERING_STORM_DESC:0 "Nearly two decades after the Weltkrieg, Australasia still hasn’t healed. Unbelievable, catastrophic manpower losses and sacrifices in the Weltkrieg all for naught have led to an atmosphere of cynicism and hopelessness as the once-great British Empire crumbled to pieces. The economy is a complete dumpster fire, a natural consequence of the fall of the United Kingdom and the ensuing loss of exports that followed. The shadow of the syndicalist Melbourne Commune still haunts the continent, but there are still plenty who haven’t forgotten the Empire and are ready to reclaim its birthright..."
 
-#### Liberia ###
-LBR_KR_GATHERING_STORM_DESC:0 "라이베리아는 미국의 보호하래 건국된 서아프리카 국가입니다. 비밀 결사가 존재하는데, 하위 계층의 모임인 포로와 상류층의 모임인 라이베리아 프리메이슨 그리고 빈민들은 비밀의 가면뒤에 숨어있습니다. 영국에서 혁명이 일어나고 있을 동안, 시에라리온은 프랑스에 의해 점령되고 합병되었습니다. 나중에 시에라리온 난민들의 행렬이 코트디아브르 난민들에 의해 포화상태가 되었습니다. 현재 라이베리아는 실패한 계획으로 인한 부채와 불확실한 미래로 가득차있습니다. TWP의 정통주의자인 에드윈 바클레이 대통령은 라이베이라를 재앙으로 부터 구할 수 있을까요? ."
+### Bulgaria ###
+BUL_KR_GATHERING_STORM_DESC:0 "Upon the conclusion of the Weltkrieg, the Tsardom of Bulgaria had found itself standing amongst the victors of the war in relatively good shape. Having proved its military skill and secured all of its territorial ambitions, Bulgaria had found herself in a golden age with a hegemony over the Balkans. Following Malinov’s rise to power as Prime Minister in 1927, the nation had begun to distance itself from Germany and had been forced to rely on itself and what few allies it had. Despite all of this, issues within Bulgaria are still largely prevalent, with the nation having an ailing economy due to a lack of outside trade alongside costly military pensions..."
 
-### Mittelafrika ###
-MAF_KR_GATHERING_STORM_DESC:0 "프랑스와 벨기에의 식민지를 흡수한 후에 태어난 자유주 중앙아프리카는 도시, 군장국가, 왕국, 농지, 정글, 사바나, 사막 등으로 구성된 거대한 땅이며 검은 대륙의 절반을 뒤덮고 있습니다. 식민지는 복잡하고 거미줄처럼 얽힌 조약과 협정, 묵약으로 이루어져 있으며 안정적이지만 수익성은 놀랄 정도로 없습니다. 새 총독인 헤르만 폰 괴링과 그의 부하들은 이를 어떤 비용을 들여서라도 바꾸고 싶어합니다. 하지만 그 비용은 중앙아프리카가 지불하기에는 너무 크지 않을까요? 그리고 황제께서 괴링이 그런 위험을 감수하는 것을 허락할까요?"
+### Egypt ###
+EGY_KR_GATHERING_STORM_DESC:0 "As a protectorate of the British Empire, Egypt was forced to side with the Entente in the Weltkrieg. Yet with the signing of the Peace with Honour, the anger of the Egyptians would simmer until the British Revolution in 1925 erupted. In the Chaos, the Egyptian people launched their own liberal revolution to throw out the British, lead by the Sultan of Egypt. As 1936 arrives, the Sultanate's eyes fall increasingly upon the Young Farouk, the young heir being groomed for the throne, and with the decline of Ottoman power, members of all political parties began to wonder and plan to restore the might of Egypt; dreaming of an Ottoman Free Middle-East..."
 
-### Norway ###
-NOR_KR_GATHERING_STORM_DESC:0 "노르웨이 왕국은 대전쟁 동안 중립 정책을 추구했고 1921년 평화 조약 이후에도 여전히 영국의 영향력 하에 있었지만, 1925년 영국 혁명이 노르웨이 경제를 수렁에 빠뜨렸을 때 영국에 대한 의존을 끝내야 한다는 의견이 힘을 얻었습니다. 이웃 국가들과는 달리, 노르웨이는 독일의 '관세 동맹'에 가입하지 않았고, 결과적으로 대륙 무역의 부족으로 인해 경제 회복의 전망은 어두워졌습니다. 대중들이 민주주의에 대한 자신감을 점점 잃어 가는 상황에서, 생디칼리스트들과 국가주의자들은 급진적인 해결책을 요구하고 있고 1936년 선거는 빠르게 다가오고 있습니다..."
+### Greece ###
+GRE_KR_GATHERING_STORM_DESC:0 "Stuff..."
 
-### Portugal ###
-POR_KR_GATHERING_STORM_DESC:0 "1922년 공화국에 닥쳐온 재앙과 그것으로 인한 국민들의 정부에 대한 반발은 결국 포르투갈 왕국을 복원시켰습니다. 여러 정보 기관들의 정치적 통제 하에 있는 왕국은 1926년, 두 번째 최후 통첩이 이루어졌던 해 이래로 미틀아프리카와의 팽팽한 국경 분쟁은 흔한 일로 받아들이게 되었고, 앙골라와 모잠비크의 왕에게 보낸 합리적인 세 가지 제안은 거절되었습니다. 포르투갈이 대륙 끝자락에서 유럽의 일에 무관심해 있는 동안에, 생디칼리즘의 위협이 유럽을 뒤덮고, 스페인에는 내전의 먹구름이 드리우고 있는 지금, 대영 제국과 체결했던 조약을 재검토할 때가 왔습니다..."
+### The Netherlands ###
+HOL_KR_GATHERING_STORM_DESC:0 "While preserving neutrality in Europe, the Netherlands faced all the fiercer challenges in their colonies. The Insulindian Independence movement grows bolder by the day, and the grand days of the Dutch Navy are long gone. And even in Europe, things could be better; the Netherlands have always had a special relationship with Germany, particularly economically – which means the rising economic problems in Germany could extend to the Low Countries. And all of this comes at a time in which a rising number of the Dutch people falter over French syndicalism or the dreams of a Greater Netherlands..."
 
-### Serbia ###
-SER_KR_GATHERING_STORM_DESC:0 "세계 대전의 촉매가 된 이 전쟁은 세르비아에게 재앙이었습니다. 1920년대까지 이 나라는 오스트리아의 군사 점령 하에 있었으며, 잔재국으로 다시 세워졌습니다. 잃어버린 땅을 탈환하려고 하면 오스트리아와 헝가리의 노여움을 살 것이 분명했기 때문에, 세르비아는 이를 주목하지 않았습니다. 공식적으로 왕국을 유지하는 동안, 페타르 보조비치는 섭정으로 거의 20년 동안 세르비아를 통치했습니다. 하지만 상황이 바뀌고 있습니다. 루마니아와 그리스는 불가리아에 빼앗긴 땅을 다시 되찾고자 하고 있으며, 1937년 오스트리아의 대타협 협상으로 세르비아가 마침내 독립국으로 다시 나설 수 있을지도 모릅니다..."
+### Persia ###
+PER_KR_GATHERING_STORM_DESC:0 "The Sublime State of Iran, although not directly involved in the Weltkrieg, still bears scars from its past. The Famine of 1919, a product of British and Russian occupation, led to the deaths of millions of Iranian citizens; the years since marred by tribal revolutions and an attempted assassination of the Shah, who survived, but lies on death's doorstep. If his time comes, a power struggle is inevitable, and Republicans, Socialists and Royalists alike may try to seize power for themselves. Whatever the outcome, many look to the future with hope that someday Iran will once again return to regional hegemony..."
 
-### Somalia ###
-SOM_KR_GATHERING_STORM_DESC:0 "소말리아는 세계대전을 통해 태어난 국가입니다. 종전까지 왈랑가리의 국기아래 이탈리아의 다른 보호령들이 뭉쳤습니다. 명목상으로는 모가디슈가 수도인 연방이지만, 대부분의 권력은 라스 코리로 부터 나옵니다. 연방은 있으나마나한 법으로 어려움을 겪고 있으며, 청년들과 육군 장교들의 비난을 받고 있습니다. 철도와 공장, 말끔히 무장된 군대는 기근과 농촌 지역의 전통방식과는 대조적으로 보입니다. 그러나 이 번영은 아바시니아의 관심이 오가덴으로 향하고 있기 때문에 오래가지 않을 것이며, 전쟁이 곧 닥칠 것으로 보입니다..."
+### The Republic of Italy ###
+ITA_KR_GATHERING_STORM_DESC:0 "After Italy lost everything in the Weltkrieg due to what can only be called horrific incompetence, the cowardly Savoyard kings fled the country and allowed the Austrians to impose a 'federation' led by a puppet Archduke in Modena. From the ashes, the Republic was proclaimed; but French lapdogs divided the revolution between Democratic and Syndicalist principles. After much bloodshed, an uneasy border at the Po river was established, but Italy controls very little of the the former Kingdom. Now, as crisis and war loom, so do opportunities for Italy to rise from its ashes like a phoenix, no matter the cost..."
 
-### South Africa ###
-SAF_KR_GATHERING_STORM_DESC:0 "1910년에 영국의 남아프리카 식민지 다수를 통합하여 건국되었습니다. 남아프리카 연방은 현재 의회주의 공화국이며, 1925년 사건 때, 대영제국에서 탈퇴했습니다. 지난선거에서 국민당의 승리를 통해 흑인 다수당에 대한 제한이 강화 될 전망이며, 긴장감이 감도는 가운데, 대영제국으로의 복귀를 지지하는 야당인 자치당이 지지세력을 넓히고 있습니다. 1938년 선거에서 이 문제가 완화될 것으로 보이지만 많은 이들이 내전까지는 아니더라도 불가피한 유혈사태가 발생하는 것을 걱정하고 있습니다."
+### Two Sicilies ###
+SIC_KR_GATHERING_STORM_DESC:0 "The Kingdom of the Two Sicilies was never meant to be independent, but rather a member of the Italian Federation that would supplant the Kingdom. In the chaos of the Civil War, only brave Sicily stood firm against the Syndicalist tide, and its timely help saved the Holy See from a grizzly fate at the hands of anarchists. Over the last 20 years, much has changed, and economic growth and stability have allowed the Kingdom to enjoy a relative state of peace despite the ever-present threat in the North. However, as Germany and Austria weaken and the Syndicalist vultures grow bold, and war again looms over the Mezzogiorno..."
 
-### Switzerland ###
-SWI_KR_GATHERING_STORM_DESC:0 "뭔가 중립적이고 중립적인 국가입니다."
+### German East Asia###
+GEA_KR_GATHERING_STORM_DESC:0 "Since the British collapse in 1926, the Kaiserliche Marine has been an undisputed master of the Eastern Seas, and the guardian of the western order in the Orient. The retreat of the British 'China Station' to Australasia left her Asian colonies and concessions vulnerable to insurrection, and in need of protection only Germany could offer, completing a string of colonies and concessions from Suez to Tsingtau. However, Deutsch-Ostasien exists not as a colony, but instead as a jurisdiction; a stretch of territory in which the admiralty must balance local interests, contend with varying colonial systems, and ensure the protection of it all..."
 
-### Federation of Italy ###
-ITA_KR_GATHERING_STORM_DESC:0 "1919년, 이탈리아는 동맹국의 공격에 무너졌고, 이탈리아의 배신에 대한 분노와 이탈리아 반도를 분단시키려는 오스트리아의 요구가 동시에 받아들여져 명목상으로 교황이 지배하는 자치 공국들의 연방이 만들어졌습니다. 비오 11세 교황의 도움을 받는 급진파 추기경 단체는 최근에 교황 권력의 확장과 중앙집권화를 밀어붙였고 연방의 권력을 장악했습니다. 하지만, 교황청은 새 권력에 대한 여러 도전들을 맞닥뜨려야만 합니다 - 연방의 남부와 서부에 있는 악마같은 생디칼리스트 정권들부터 여전히 분노해있는 북부의 오스트리아까지 말입니다."
-
+#### Ethiopia ###
+#ETH_KR_GATHERING_STORM_DESC:0 "아비시니아는 1896년 아두와 전투에서 이탈리아의 공격을 막아내고 독립을 지켜온 아프리카 국가 중 하나입니다. 세계대전의 막바지에 독일의 동맹으로 뛰어든 아비시니아는 에리트레아를 막대한 비용으로 이탈리아로부터 얻어냈으며, 관측자들에 의하면 현대 전쟁은 힘들 것으로 보입니다. 몇 차례의 전쟁과 몇 년동안 떠안고 있던 부채는 새로운 제국의 황제인 하일레 셀라시의 제국과 개혁의 발목을 붙잡고 있습니다. 노예 제도 및 시대를 역행하는 제도들은 현대에 다시 태어난 에티오파아의 길에 서있습니다. 황제는 개혁을 앞두고 어려운 결단을 내립니다."
+#
+##### Liberia ###
+#LBR_KR_GATHERING_STORM_DESC:0 "라이베리아는 미국의 보호하래 건국된 서아프리카 국가입니다. 비밀 결사가 존재하는데, 하위 계층의 모임인 포로와 상류층의 모임인 라이베리아 프리메이슨 그리고 빈민들은 비밀의 가면뒤에 숨어있습니다. 영국에서 혁명이 일어나고 있을 동안, 시에라리온은 프랑스에 의해 점령되고 합병되었습니다. 나중에 시에라리온 난민들의 행렬이 코트디아브르 난민들에 의해 포화상태가 되었습니다. 현재 라이베리아는 실패한 계획으로 인한 부채와 불확실한 미래로 가득차있습니다. TWP의 정통주의자인 에드윈 바클레이 대통령은 라이베이라를 재앙으로 부터 구할 수 있을까요? ."
+#
+#### Mittelafrika ###
+#MAF_KR_GATHERING_STORM_DESC:0 "프랑스와 벨기에의 식민지를 흡수한 후에 태어난 자유주 중앙아프리카는 도시, 군장국가, 왕국, 농지, 정글, 사바나, 사막 등으로 구성된 거대한 땅이며 검은 대륙의 절반을 뒤덮고 있습니다. 식민지는 복잡하고 거미줄처럼 얽힌 조약과 협정, 묵약으로 이루어져 있으며 안정적이지만 수익성은 놀랄 정도로 없습니다. 새 총독인 헤르만 폰 괴링과 그의 부하들은 이를 어떤 비용을 들여서라도 바꾸고 싶어합니다. 하지만 그 비용은 중앙아프리카가 지불하기에는 너무 크지 않을까요? 그리고 황제께서 괴링이 그런 위험을 감수하는 것을 허락할까요?"
+#
+#### Norway ###
+#NOR_KR_GATHERING_STORM_DESC:0 "노르웨이 왕국은 대전쟁 동안 중립 정책을 추구했고 1921년 평화 조약 이후에도 여전히 영국의 영향력 하에 있었지만, 1925년 영국 혁명이 노르웨이 경제를 수렁에 빠뜨렸을 때 영국에 대한 의존을 끝내야 한다는 의견이 힘을 얻었습니다. 이웃 국가들과는 달리, 노르웨이는 독일의 '관세 동맹'에 가입하지 않았고, 결과적으로 대륙 무역의 부족으로 인해 경제 회복의 전망은 어두워졌습니다. 대중들이 민주주의에 대한 자신감을 점점 잃어 가는 상황에서, 생디칼리스트들과 국가주의자들은 급진적인 해결책을 요구하고 있고 1936년 선거는 빠르게 다가오고 있습니다..."
+#
+#### Portugal ###
+#POR_KR_GATHERING_STORM_DESC:0 "1922년 공화국에 닥쳐온 재앙과 그것으로 인한 국민들의 정부에 대한 반발은 결국 포르투갈 왕국을 복원시켰습니다. 여러 정보 기관들의 정치적 통제 하에 있는 왕국은 1926년, 두 번째 최후 통첩이 이루어졌던 해 이래로 미틀아프리카와의 팽팽한 국경 분쟁은 흔한 일로 받아들이게 되었고, 앙골라와 모잠비크의 왕에게 보낸 합리적인 세 가지 제안은 거절되었습니다. 포르투갈이 대륙 끝자락에서 유럽의 일에 무관심해 있는 동안에, 생디칼리즘의 위협이 유럽을 뒤덮고, 스페인에는 내전의 먹구름이 드리우고 있는 지금, 대영 제국과 체결했던 조약을 재검토할 때가 왔습니다..."
+#
+#### Serbia ###
+#SER_KR_GATHERING_STORM_DESC:0 "세계 대전의 촉매가 된 이 전쟁은 세르비아에게 재앙이었습니다. 1920년대까지 이 나라는 오스트리아의 군사 점령 하에 있었으며, 잔재국으로 다시 세워졌습니다. 잃어버린 땅을 탈환하려고 하면 오스트리아와 헝가리의 노여움을 살 것이 분명했기 때문에, 세르비아는 이를 주목하지 않았습니다. 공식적으로 왕국을 유지하는 동안, 페타르 보조비치는 섭정으로 거의 20년 동안 세르비아를 통치했습니다. 하지만 상황이 바뀌고 있습니다. 루마니아와 그리스는 불가리아에 빼앗긴 땅을 다시 되찾고자 하고 있으며, 1937년 오스트리아의 대타협 협상으로 세르비아가 마침내 독립국으로 다시 나설 수 있을지도 모릅니다..."
+#
+#### Somalia ###
+#SOM_KR_GATHERING_STORM_DESC:0 "소말리아는 세계대전을 통해 태어난 국가입니다. 종전까지 왈랑가리의 국기아래 이탈리아의 다른 보호령들이 뭉쳤습니다. 명목상으로는 모가디슈가 수도인 연방이지만, 대부분의 권력은 라스 코리로 부터 나옵니다. 연방은 있으나마나한 법으로 어려움을 겪고 있으며, 청년들과 육군 장교들의 비난을 받고 있습니다. 철도와 공장, 말끔히 무장된 군대는 기근과 농촌 지역의 전통방식과는 대조적으로 보입니다. 그러나 이 번영은 아바시니아의 관심이 오가덴으로 향하고 있기 때문에 오래가지 않을 것이며, 전쟁이 곧 닥칠 것으로 보입니다..."
+#
+#### South Africa ###
+#SAF_KR_GATHERING_STORM_DESC:0 "1910년에 영국의 남아프리카 식민지 다수를 통합하여 건국되었습니다. 남아프리카 연방은 현재 의회주의 공화국이며, 1925년 사건 때, 대영제국에서 탈퇴했습니다. 지난선거에서 국민당의 승리를 통해 흑인 다수당에 대한 제한이 강화 될 전망이며, 긴장감이 감도는 가운데, 대영제국으로의 복귀를 지지하는 야당인 자치당이 지지세력을 넓히고 있습니다. 1938년 선거에서 이 문제가 완화될 것으로 보이지만 많은 이들이 내전까지는 아니더라도 불가피한 유혈사태가 발생하는 것을 걱정하고 있습니다."
+#
+#### Switzerland ###
+#SWI_KR_GATHERING_STORM_DESC:0 "뭔가 중립적이고 중립적인 국가입니다."
+#
 ### National France ###
-NFA_KR_GATHERING_STORM_DESC:0 "1919년, 프랑스 국가 조직 전부와 프랑스군은 프랑스 코뮌을 피해 해군과 함께 알제리로 달아났습니다. 이곳에서, 정치인들은 다시 처음부터 시작하기로 결정했고 망명 제4 공화국을 선포하고 본토의 권리를 주장하며 영국과 동맹을 유지했었습니다. 곧이어, 대부분의 망명자들은 민족주의자나 권위주의자가 되거나 둘 모두로 되었고 군대는 페르디낭 포슈의 지도 아래에서 권력을 장악했고 뒤이어 베르됭의 승장 필리프 페텡이 그를 이었습니다. 국민 프랑스는 원주민들의 불만에도 불구하고 본토를 되찾을 준비를 할 수 있을까요? - 드골의 청년 근위대의 도움을 받을 수 있을지도 모릅니다..."
-
+#NFA_KR_GATHERING_STORM_DESC:0 "1919년, 프랑스 국가 조직 전부와 프랑스군은 프랑스 코뮌을 피해 해군과 함께 알제리로 달아났습니다. 이곳에서, 정치인들은 다시 처음부터 시작하기로 결정했고 망명 제4 공화국을 선포하고 본토의 권리를 주장하며 영국과 동맹을 유지했었습니다. 곧이어, 대부분의 망명자들은 민족주의자나 권위주의자가 되거나 둘 모두로 되었고 군대는 페르디낭 포슈의 지도 아래에서 권력을 장악했고 뒤이어 베르됭의 승장 필리프 페텡이 그를 이었습니다. 국민 프랑스는 원주민들의 불만에도 불구하고 본토를 되찾을 준비를 할 수 있을까요? - 드골의 청년 근위대의 도움을 받을 수 있을지도 모릅니다..."
+#
 ### Japan ###
 #JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일본의 권리를 보장해줬지만, 욱일제국에서 모든 것이 잘 풀린 것은 아닙니다. 경제적 동요 이후 1926년 생디칼리스트의 히로히토 섭정-왕자 암살 시도로 그 극에 이르렀고, 불안정한 정부는 또다른 위기의 해를 보냈습니다; 첫 문제는 다나카 장군이었고, 다음은 민주 연립 내각이었으며 그 다음은 북동부 중국에 대한 개입이었습니다. 1936년, 일본은 제국을 확장할 태세를 취했습니다. 독일의 지배가 쇠퇴하고 있는것으로 보이는 가운데, 일본인들은 남은 청나라의 영토와 독일의 태평양 지역들을 탐내고 있습니다..."
 #
@@ -182,7 +255,7 @@ NFA_KR_GATHERING_STORM_DESC:0 "1919년, 프랑스 국가 조직 전부와 프랑
 #DEH_KR_GATHERING_STORM_DESC:0 "너무 늦게도, 1925년의 앵글로-인도 조약은 보석을 제국에 묶어둘 수 없게 만들었습니다. 본토의 혁명 이후, 인도 국민 회의의 지도부는 캘커타에서 지역 정부를 소집했습니다. 뒤이어 일어난 내전의 혼란 속에서, 남부의 왕후들은 델리 정부로부터 반란을 일으켰고, 내전은 1928년까지 지속되었습니다. 세 인도 - 생디칼리스트 바라트 코뮌, 남부 왕후 연맹 그리고 협상국에 충성하는 델리 정부 - 사이의 불안한 편화는 그 이후로 지속되었지만, 세 국가 모두 최후를 맞은 영국령 인도 제국의 유산을 둘러싼 새로운 갈등을 가속화하고 있습니다..."
 #
 ### Brazil ###
-#BRA_KR_GATHERING_STORM_DESC:0 "브라질의 취약한 제1 공화국은 작년 아르헨티나에게 굴욕적인 패전을 당한 후 죽음의 위기에 처했습니다. 생디칼리스틀의 연합 조직인 브라질 노동자 연합은 남동부에서 심각한 노동 파업을 주도하고 있습니다. 한편 민족주의적 사상이 중산층에서 점차 인기를 얻고 있습니다. 군대 역시 더 이상 신뢰할 수가 없습니다: 전쟁 기간에 이미 반란을 조직했었던 장교 단체인 '소장파'는 어떤 정치 세력이든 상관없이 동원될 수 있습니다. 8월에 긴급 선거가 필요했고, 일부 사람들은 오직 기적만이 브라질의 민주주의를 구할 수 있다고 말합니다..."
+#BRA_KR_GATHERING_STORM_DESC:0 "The terrible wounds of the 1927 civil war may never heal, but Brazil marches towards progress, even if at it's own pace. Secret Voting and increased state autonomy were the main achievements of the conflict that ensured that true democracy finally reached the people of Brazil, and it's economy finally begins to recover from a decade of downturn. With the game of politics radically changed, came new players; civil unrest brought Syndicalism and Integralism to mainstream politics, as the coalition led by Otávio Mangabeira struggles to keep order in the streets, continue to develop the nation, and keep up on it's expensive dreadnaught race with Argentina and Chile."
 #
 ### Romanian ###
 #ROM_KR_GATHERING_STORM_DESC:0 "루마니아는 대전쟁에서 패배한 이후 1918년 부쿠레슈티 조약에 서명할 수 밖에 없었습니다. 도브로제아의 남부 지방은 불가리아에게 반환되었고, 올테니아는 비무장화되었으며 유전은 독일에게 2012년까지 임대되었습니다. 전쟁이 끝난 후 국왕이 서거하자, 군대가 국가를 장악했습니다. 결국 군대와 극우파 정당 사이의 협력은 1935년 민족주의 철위대가 폭력적으로 정권을 차지하는 결과를 낳았습니다. 카리스마 있는 코르넬리우 젤레아 코드레아누가 이끄는 새 정부는 과거의 루마니아의 영광을 회복하는 한편, 새 정권을 축출하기를 원하는 왕정지지자들을 처리해야만 합니다..."
@@ -205,33 +278,6 @@ foreign_minister:0 "외교 장관"
 economy_minister:0 "경제 장관"
 security_minister:0 "내무부 장관"
 head_of_intel:0 "정보부 장관"
-
-decisions:0 "결단"
-naive_optimist:0 "순진한 낙관주의자"
-resource_industrialist:0 "자원 산업가"
-mass_assault:0 "집단전 훈련가"
-static_defense:0 "정적 방어 교리"
-backstabber:0 "배후의 모략가"
-happy_amateur:0 "낙관적인 초보자"
-corporate_suit:0 "대실업가"
-smiling_oilman:0 "미소짓는 원유사업가"
-silent_workhorse:0 "조용한 일꾼"
-old_general:0 "늙은 장군"
-old_air_marshall:0 "늙은 공군 원수"
-totalist_chairman:0 "전체주의자 의장"
-political_powerhouse:0 "정치적 수완가"
-expansive_imperialist:0 "배를 탄 제국주의자"
-totalist_promoter:0 "전체주의의 우상"
-radical_socialist_promoter:0 "사회주의 혁명가"
-syndicalist_promoter:0 " 지도자"
-social_democrat_promoter:0 "사회주의 개혁가"
-social_liberal_promoter:0 "급진주의 영웅"
-market_liberal_promoter:0 "사업가의 옹호자"
-social_conservative_promoter:0 "확고한 전통주의자"
-authoritarian_democrat_promoter:0 "권위적인 입헌주의자"
-paternal_autocrat_promoter:0 "매력적인 독재자"
-national_populist_promoter:0 "국가주의 선동가"
-great_compromiser:0 "대협상가"
 
 ### Ideologies ###
 totalist:0 "전체주의자"
