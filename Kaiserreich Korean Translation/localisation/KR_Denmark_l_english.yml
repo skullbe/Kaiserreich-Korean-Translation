@@ -206,6 +206,13 @@ den.109.t:0 "스칸디나비아 연방 결성 실패"
 den.109.d:0 "Our attempts at creating a Nordic Federation have failed... It seems that Nordic Integration have reached it peak."
 den.109.a:0 "멍청한 스칸디나비아 개자식들!"
 
+den.110.t:0 "슐레히비히-홀슈타인 해방"
+den.110.d:0 "우리는 독일로부터 슐레히비히-홀슈타인을 해방시켰으며 1884년에 겪었던 패배를 복수했습니다. 슐레히비히-홀슈타인을 어떻게 ?"
+den.110.a:0 "슐레히비히-홀슈타인 공국을 복원한다"
+den.110.b:0 "북부 슐레히비히를 합병하고 슐레히비히-홀슈타인을 복원한다"
+den.110.c:0 "슐레히비히를 합병하고 홀슈타인 공국을 복원한다"
+den.110.e:0 "군사 점령을 유지한다"
+
 ### Parties ###
 DEN_totalist_party:0 "DKP"
 DEN_totalist_party_long:0 "덴마크 공산당"
