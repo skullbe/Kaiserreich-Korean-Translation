@@ -1,12 +1,12 @@
 ﻿l_english:
 
 ### Tooltips ###
-KR_improving_stability:0 "Already improving stability"
+KR_improving_stability:0 "이미 안정도를 올리고 있습니다"
 
 ### Decisions ###
-legislate_more_freedoms:0 "Legislate Freedoms"
-legislate_more_freedoms_desc:0 "Perhaps the easiest way to improve our country's stability is to give the people want they want. It will involve some uncomfortable compromises, but ideally these are measures that are only temporary and designed to placate them until order can properly be restored."
-police_crackdown:0 "Police Crackdown"
-police_crackdown_desc:0 "Disorder has become rampant. We must loosen the restrictions on our police forces, and give them the freedom to do their jobs in arresting the worst of the perpetrators."
-send_in_the_army:0 "Send in the Army"
-send_in_the_army_desc:0 "The way to deal with disorder in our nation is to send in the army and suppress it completely. Not everyone will be happy about it, that's true, but sometimes martial law is the only alternative."
+legislate_more_freedoms:0 "자유 법률 제정"
+legislate_more_freedoms_desc:0 "우리나라의 안정도를 올리는 가장 쉬운 방법은 아마 국민들이 원하는 것을 제공하는 것일 겁니다. 몇가지 불편한 타협을 해야겠지만, 이상적으로는 이러한 조치들은 질서가 적절하게 되찾아질 때까지 국민들을 달래는 용도로 일시적으로 고안된 것입니다."
+police_crackdown:0 "경찰의 엄중 단속"
+police_crackdown_desc:0 "무질서가 걷잡을 수 없이 퍼지고 있습니다. 경찰력의 제한을 풀어 그들에게 최악의 범죄자들을 체포할 수 있는 자유를 줘야합니다."
+send_in_the_army:0 "군대 투입"
+send_in_the_army_desc:0 "우리 나라에서의 무질서를 대하는 방법은 군대를 파견하여 완전히 진압하는 것입니다. 모든 사람들이 이에 행복해 하지는 않을 것입니다. 이는 사실입니다. 하지만 때로는 계엄령만이 유일한 대안입니다."
