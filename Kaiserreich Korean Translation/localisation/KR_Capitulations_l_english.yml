@@ -5,46 +5,46 @@ MAF_player_becomes_GEX:0 "§Y[GEX.GetNameDef]§ (으)로 플레이하게 될 것
 GER_will_capitulate:0 "§Y[GER.GetNameDefCap]§! (은)는 항복할 것입니다!"
 
 ### Events ###
-capt.1.t:0 "Germany is Conquered"
-capt.1.d:0 "We have been beaten by our wretched enemies and our armies are collapsing across Europe. Though they have taken the Fatherland, the war is far from over!"
-capt.1.a:0 "Assume control of Mittelafrika - we shall fight on from there"
-capt.1.b:0 "There is nowhere to run. Surrender!"
+capt.1.t:0 "독일이 정복되다"
+capt.1.d:0 "우리는 비열한 적들에게 패배했고 우리 군대는 유럽 전역에서 무너졌습니다. 그들이 우리의 조국을 점령했지만, 전쟁은 아직 끝나지 않았습니다!"
+capt.1.a:0 "중앙아프리카의 지배권을 갖는다. 우린 거기서 계속 싸울 것이다."
+capt.1.b:0 "도망칠 곳은 없다. 항복한다!"
 
-capt.2.t:0 "Germany Demands Direct Control"
-capt.2.d:0 "As a result of the collapse of the German war effort in mainland Europe, the Kaiser has decreed that [MAF.GetLeader] is to immediately step down as Statthalter of Mittelafrika and transfer administrative duties to Reich officials as they arrive in Africa. Mittelafrika is to be absorbed by Germany directly, with our colonial rule ended."
-capt.2.a:0 "Lapdogs no longer! Declare the independence of the Mittelafrikan Empire!"
-capt.2.b:0 "Welcome the exiled government and give in to their demands"
+capt.2.t:0 "독일이 직접 지배를 원하다"
+capt.2.d:0 "유럽 본토에서 독일의 전쟁 노력이 좌절된 결과, 카이저께서 [MAF.GetLeader]은 중앙아프리카의 총독에서 즉각 퇴진하고, 그들의 행정 업무를 제국의 공무원들이 아프리카에 도착하는 즉시 이양해야 한다고 명했습니다. 중앙아프리카는 독일에 직접 흡수될 것이고, 우리의 식민 통치는 끝날 것입니다."
+capt.2.a:0 "우리는 더 이상 애완견이 아니다! 중앙아프리카 제국의 독립을 선언한다!"
+capt.2.b:0 "망명 정부를 환영하고 그들의 요구를 들어줘라."
 
-capt.3.t:0 "Mittelafrika Declares Independence"
-capt.3.d:0 "The colonial administrators in Afrika have gone mad! They have declared outright independence from the Reich, leaving us no option but to collapse in the face of our enemies!"
-capt.3.a:0 "The ungrateful wretches!"
+capt.3.t:0 "중앙아프리카가 독립을 선언하다"
+capt.3.d:0 "아프리카 식민지 관료들이 제정신이 아닙니다! 그들은 독일 정부로부터 독립을 선언했고, 우리가 적들과 마주하여 무너질 수 밖에 없도록 관망했습니다!"
+capt.3.a:0 "배은망덕한 놈들!"
 
-capt.4.t:0 "Mittelafrika Accepts Reich Control"
-capt.4.d:0 "The colonial administrators wisely decided to cede full control of Mittelafrika back to the Kaiser's officials."
-capt.4.a:0 "We now rule from Afrika"
+capt.4.t:0 "중앙아프리카의 복권"
+capt.4.d:0 "식민지 행정가들은 중앙아프리카에 대한 완전한 통제권을 카이저의 관료들에게 양도했습니다."
+capt.4.a:0 "우리가 이제 아프리카를 지배한다."
 
-capt.5.t:0 "The War with [SIA.GetNameDef]"
-capt.5.d:0 "It appears we need to deal with the continuing war in the Far East, with [SIA.GetAdjective] armies still fighting against our colonial forces in [GEA.GetNameDef]. Should we continue the war, one we almost certainly cannot hope to have much impact on with our scattered and beaten forces, or sue for peace?"
-capt.5.a:0 "Give them whatever they want"
-capt.5.b:0 "We will continue the war, if we must"
+capt.5.t:0 "[SIA.GetNameDef]과의 전쟁"
+capt.5.d:0 "극동에서 계속되는 전쟁을 처리해야 할 필요가 있습니다. [SIA.GetAdjective] 군대는 여전히 [GEA.GetNameDef]의 식민지 군대와 싸우고 있습니다. 전쟁을 계속해야 할까요? 패잔병만이 남은 우리 군으로는 큰 영향을 끼치지 못할 것입니다. 아니면 평화를 제안할까요?"
+capt.5.a:0 "그들이 원하는 것은 무엇이든지 주어라."
+capt.5.b:0 "반드시 전쟁을 계속해야 한다면, 우린 전쟁을 계속할 것이다."
 
-capt.6.t:0 "[From.GetNameDefCap](이)가 휴전을 제안하였습니다"
+capt.6.t:0 "[From.GetNameDefCap](이)가 휴전을 제안하다"
 capt.6.d:0 "The scattered forces of Germany, now fled to Africa, have offered us much of the territory they hold in [GEA.GetNameDef], if we will only end the war now before they are drawn in further."
 capt.6.a:0 "An excellent plan"
 capt.6.b:0 "Much? We want it ALL"
                                                                         
                                     
 
-capt.7.t:0 "[JAP.GetNameDef]과의 전쟁"
+capt.7.t:0 "[JAP.GetNameDef](과)와의 전쟁"
 capt.7.d:0 "It appears we need to deal with the continuing war in the Far East, with [JAP.GetAdjective] armies still fighting against our colonial forces. Should we continue the war, one we almost certainly cannot hope to have much impact on with our scattered and beaten forces, or sue for peace?"
                                      
 
-capt.8.t:0 "[From.GetNameDefCap](이)가 휴전을 제안하였습니다"
+capt.8.t:0 "[From.GetNameDefCap](이)가 휴전을 제안하다"
 capt.8.d:0 "The scattered forces of Germany, now fled to Africa, have offered us much of the colonial territory they hold in Asia, if we will only end the war now before they are drawn in further. Considering that refusing the deal will mean chasing after the Germans in Africa, perhaps we should consider their plan."
 capt.8.a:0 "좋은 생각이군"
-capt.8.b:0 "모든걸 점령할 것이다"
+capt.8.b:0 "모든 걸 점령할 것이다"
 
-capt.9.t:0 "[GEX.GetNameDefCap](이)가 휴전을 제안하였습니다"
+capt.9.t:0 "[GEX.GetNameDefCap](이)가 휴전을 제안하다"
 capt.9.d.siam:0 "The German government, now fled to Africa and in utter disarray, has arranged for a peace with [From.GetNameDef]. This will involve ceding much of our territory, and there seems little hope of continuing the fight on our own with so many Reich officials already abandoning their offices here in [GEA.GetNameDef]. Our government is in complete disarray, and without support from the homeland it seems there is little we can do."
 capt.9.d.japan:0 "The German government, now fled to Africa and in utter disarray, has arranged for a peace with [From.GetNameDef]. This will involve our complete annexation, and there seems little hope of continuing the fight on our own with so many Reich officials already abandoning their offices here in [GEA.GetNameDef]. Our government is in complete disarray, and without support from the homeland it seems there is little we can do."
 capt.9.a:0 "To the lifeboats! We're off to Africa!"
@@ -57,10 +57,10 @@ capt.9.a:0 "To the lifeboats! We're off to Africa!"
 
 capt.12.t:0 "전쟁을 계속해야할까요?"
 capt.12.d:0 "The German government has collapsed and fled to Africa, assuming control over their former colonies here. They still possess much of the colonial territory we claim, however, and are in considerable disarray. Should we demand that they turn over the territories, on threat of continuing the war, or end it now?"
-capt.12.a:0 "식민지를 요구한라"
+capt.12.a:0 "식민지를 요구하라"
 capt.12.b:0 "독일과 싸울만큼 싸웠다"
 
-capt.13.t:0 "The [NFA.GetAdjective] Threat"
+capt.13.t:0 " [NFA.GetAdjective]의 위협"
 capt.13.d:0 "[NFA.GetNameDefCap] has issued a threat - either we turn over the colonies which once belonged to them, or they will continue their war against us. Considering our current state of disarray, it might be wise to accept their demands. If not, we will be fighting them here in Africa."
 capt.13.a:0 "Give them what they want, if it will end this"
 capt.13.b:0 "We face them here in Africa, then"
