@@ -13,72 +13,72 @@ reject_ultimatum:0 "최후통첩을 거절함"
 ### Events ###
 
 balticduchy.1.t:0 "발트 연합 공국"
-balticduchy.1.d:0 "Der ostliche Schutzwall des Kaiserreichs, is how the United Baltic Duchy has came to be known. In this rather small client state of the German Empire, the full spectrum of political powers is concentrated within the tiny Baltic German minority, who live mainly in the cities of Riga, Revel, and the islands of Osel and Dago. The rest of the country is populated mainly by Latvians and Estonians."
+balticduchy.1.d:0 "데어 오스트리히 슈츠발 데스 카이저라이히스, 발트 연합 공국은 이러한 이름으로 알려져 있습니다. 독일 제국의 작은 위성국인 이 나라에서, 정치 권력의 모든 스펙트럼은 리가, 레벨, 오셀 섬과 다고 섬에 거주하는 소수 독일인들에게 집중되어 있습니다. 이 나라의 나머지 인구는 주로 라트비아인과 에스토니아인입니다."
 balticduchy.1.a:0 "흥미롭네요, 더 알려주세요!"
 balticduchy.1.b:0 "야다, 야다, 그냥 플레이하게 해줘요!"
 
 balticduchy.2.t:0 "공국의 내부 상황"
-balticduchy.2.d:0 "Administratively, the Duchy is subdivided into two Stadte, Riga and Revel, and four Länder, which are Oselland, Estland, Livland, and Kurland. The country is very centralised, with the regions having very little power. Moreover, recent tensions with rural Estonian and Latvian populations has prompted the formation of two specialised security commands for Livland and Estland."
+balticduchy.2.d:0 "행정적으로, 공국은 두개의 도시, 리가와 레벨과 네 개의 주, 오셀란드, 에스틀란트, 리블란트와 쿠를란트로 나눠집니다. 국가는 매우 중앙집권화되어 있으며, 지방은 권력이 거의 없습니다. 게다가, 지방의 에스토니아인, 라트비아인과의 최근 긴장으로 인해 리블란트와 에스틀란트에 두 개의 특수 보안 사령부가 세워졌습니다."
 balticduchy.2.a:0 "Just what have I gotten myself into?"
 
 balticduchy.3.t:0 "공국의 전반적인 상황"
-balticduchy.3.d:0 "The tiny little Duchy's position is not exactly stable. Lithuania wants sea access, Russia wants its Baltic provinces back and Finland has pan-Finno-Ugric ideas. In addition, the lack of strong authority over the Land of Estland, Livland, and Kurland severely hampers the economy. Not to mention the outstanding interior problems, which will have to be resolved before future plans can be made."
-balticduchy.3.a:0 "Next game, I'm playing Switzerland."
+balticduchy.3.d:0 "이 작은 공국은 완전히 안정적이지는 앖습니다. 리투아니아는 바다로의 출구를, 러시아는 발트 지방을 가지기를 원하며 핀란드는 범핀란드-우구리아 계획을 가지고 있습니다. 게다가 에스틀란트, 리블란트, 쿠를란트에 온전히 힘이 미치지 못하는 것은 경제에 심각하게 방해가 될 것입니다. 여러 내부 문제는 말할 것도 없습니다. 이러한 문제들은 향후 계획이 수립되기 전에 해결되어야 합니다."
+balticduchy.3.a:0 "다음 게임에서는 스위스를 해야 겠군."
 
 balticduchy.4.t:0 "새로운 제국!"
-balticduchy.4.d:0 "His Highness Adolf Friedrich the First, Duke of Mecklenburg-Schwerin and of the United Baltic Duchy, has requested from the Reichstag and the Deutsche Kaiser the recognition of his Baltic domains as a Constituent State of the German Empire."
+balticduchy.4.d:0 "메클렌부르크슈베린의 공작이자 발트 연합 공국의 공작이신 아돌프 프리드리히 1세 전하께서 연방 의회와 도이체 카이저에 발트 공국을 독일 제국의 구성국으로 인정해 줄 것을 요청했습니다."
 balticduchy.4.a:0 "독일 제국을 위하여 만세삼창을!"
 
 balticduchy.5.t:0 "선거 실시"
-balticduchy.5.d:0 "The new parliamentary elections are coming and thanks to our new national election system only two parties were able to make into parliament. The highly xenophobic 'Nationalist German Party' and the 'Conservative Party'. The Social Democrats, Baltic Nationalists, and Liberal Democrats didn't get the necessary votes to lead a government."
+balticduchy.5.d:0 "새 의회 선거가 다가오고 있는 가운데, 새 총선 제도 때문에 오직 두 정당만이 의회에 들어갈 수 있었습니다. 외국인을 배척하는 '독일인 민족당'과 '보수당'이 그렇습니다. 사회 민주당과 발트 민족당, 그리고 자유 민주당은 정부를 이끄는 데 필요한 표를 확보하지 못했습니다."
 balticduchy.5.a:0 "보수당이지!"
-balticduchy.5.b:0 "민족주의 독일당이지!"
+balticduchy.5.b:0 "독일인 민족당이지!"
 
 balticduchy.6.t:0 "발트 연방의 탄생"
-balticduchy.6.d:0 "Today, Ducal Government of the United Baltic Duchy announced that only together can we survive in this cruel world. The old government have shown their incompetence in ruling our country and so Duke Adolf and his supporters have formed a Provisional Government, until such a time as a new government can be elected. Long live the Federation!"
+balticduchy.6.d:0 "오늘, 발트 연합 공국의 정부는 이 험한 세계에서 살아남으려면 오직 함께해야 한다고 선언했습니다. 구 정부는 이 나라를 통치하는데 무능력하다는 것을 보여 주었으며, 아돌프 공작와 그의 지지자들은 새로운 정부가 선출될 때까지 있을 임시 정부를 구성했습니다. 연방 만세!"
 balticduchy.6.a:0 "우리는 단결한다!"
 
 balticduchy.7.t:0 "연방 선거"
-balticduchy.7.d:0 "The new parliamentary elections are coming and thanks to our new national election system only three parties were able to make into parliament. The 'Prosperity Party', the 'All-Baltic Coalition' and the 'Conservative Party'. The highly xenophobic 'Nationalist German Party' and the Liberal Democrats didn't get the necessary votes to lead a government."
+balticduchy.7.d:0 "새 의회 선거가 다가오고 있는 가운데, 새 총선 제도 때문에 오직 세 정당만이 의회에 들어갈 수 있었습니다. '번영당'과 '전 발트 연합', '보수당'이 그렇습니다. 외국인을 배척하는 '독일인 민족당'과 자유 민주당은 정부를 이끄는 데 필요한 표를 확보하지 못했습니다."
 balticduchy.7.a:0 "번영당"
-balticduchy.7.b:0 "전발트 연합"
+balticduchy.7.b:0 "전 발트 연합"
 balticduchy.7.c:0 "보수당"
 
-balticduchy.8.t:0 "급진좌파가 권력을 장악하다"
-balticduchy.8.d:0 "Radicals, sponsored by the commie bastards, have started an open rebellion against us. The Duke himself and most of his cabinet have been captured. Red flags are waving from top of the Ducal Reichstag. Now it's time to choose, who will lead the comrades of new Baltic Union?"
+balticduchy.8.t:0 "급진좌파가 정권을 장악하다"
+balticduchy.8.d:0 "빨갱이들의 지원을 받은 급진파가 공공연하게 반란을 일으켰습니다. 공작 자신과 내각 대부분이 붙잡혔습니다. 연방 의회의 꼭대기에서는 이제 적기가 펄럭이고 있습니다. 이젠 선택할 시간입니다. 새로운 발트 연방을 이끌 동무들은 누구일까요?"
 balticduchy.8.a:0 "평화적인 개혁가들인 발트 사회주의당!"
 balticduchy.8.b:0 "정통 생디칼리즘 추종자들인 발트 노동조합 연합!"
 balticduchy.8.c:0 "발트 전체주의당이 권력을 잡고 일당제 국가임을 선언한다!"
 
 balticduchy.29.t:0 "발트국의 독일인들과 독일인들의 공국"
-balticduchy.29.d:0 "As economic stagnation and recession nears, old feuds between largely urban Germans and rural non-Germans gain new strength. Some propose we should further encourage Germans to settle the land, others wish to integrate the local population fully into the political life. In the end, the choice is in between fully integrating into the Empire or partially emancipating ourselves from Imperial authority."
+balticduchy.29.d:0 "불경기가 임박함에 따라, 대부분 도시에 있는 독일인과 지방에 있는 비독일인들 간의 오랜 불화가 점점 더 심해지고 있습니다. 어떤 이들은 독일인들이 이 땅에 정착하도록 장려해야 한다고 제안했으며, 또 어떤 이들은 지방 사람들을 정치 생활에 완전히 통합시키는 것을 원합니다. 결국, 이는 제국에 완전히 통합되는가, 아니면 제국의 권위에서 부분적으로 벗어나는 가에 대한 선택입니다."
 balticduchy.29.a:0 "흥미롭군"
 
 balticduchy.30.t:0 "발트 연합 공국에 검은 월요일이 강타하다!"
-balticduchy.30.d:0 "Almost two weeks ago, the Berlin Stock Exchange plunged into bottomless depths, throwing Germany's economy into an unprecedented crisis. Now the crash's shock waves have reached the United Baltic Duchy. German-owned companies have closed down or laid-off their workers, the Papiermark is losing value, and agricultural exports are shrinking..."
+balticduchy.30.d:0 "거의 2주 전, 베를린 증권 거래소는 끝이 보이지 않게 추락을 했으며, 독일 경제는 전례 없는 위기에 빠졌습니다. 이제 이 폭락의 여파가 발트 연합 공국에 까지 도달했습니다. 독일인 소유의 회사들이 노동자들을 일시 해고하거나 문을 닫았고, 파피어마르크의 가치는 떨어지며, 농산물 수출은 줄어들고 있습니다..."
 balticduchy.30.a:0 "정부가 우리를 최악으로부터 벗어나게 해주기를 바라자..."
 
 balticduchy.50.t:0 "군의 위기!"
-balticduchy.50.d:0 "As the reforms go forward, some generals want to introduce the recruitment of 'natives' or, speaking the new language, Latvians and Estonians. The Ministry of War has stated that none of them should be able to be more than low-ranking officers."
+balticduchy.50.d:0 "개혁이 진행됨에 따라, 일부 장군들은 '원주민'이나 라트비아어와 에스토니아어를 쓸 수 있는 자를 신병으로 모집하고 싶어합니다. 전쟁 장관은 그들 중 누구도 하급 장교 이상이 될 수 없다고 말했습니다."
 balticduchy.50.a:0 "모병을 시작해라"
 balticduchy.50.b:0 "멍청한 생각이다"
 
-balticduchy.51.t:0 "Mutiny of Latvian units"
-balticduchy.51.d:0 "As the pessimists predicted, mutiny has started in one of the Latvian-speaking units and now threaten nearly every non-German and non-Estonian unit. Most mutineers want more freedom for the ordinary soldier, better food, higher payment, but radicals speak of 'overthrowing the evil German regime'. We can win over a majority of the mutineers but negotiations will be needed."
-balticduchy.51.a:0 "Start negotiations"
-balticduchy.51.b:0 "They don't deserve anything!"
+balticduchy.51.t:0 "라트비아인 부대의 반란"
+balticduchy.51.d:0 "비관론자들의 예상대로, 라트비아인 부대 중 하나에서 반란이 시작되었고, 이제는 거의 모든 비독일 및 비에스토니아 부대를 위협하고 있습니다. 대부분의 반란자들은 일반 군인들에게 더 많은 자유, 더 나은 음식, 더 많은 급료를 주기를 원하지만, 급진파는 '사악한 독일 정권을 전복하자'라고 말하고 있습니다. 우리가 대다수의 반란자들을 이길 수는 있지만 협상이 필요할 것입니다."
+balticduchy.51.a:0 "협상을 시작하라"
+balticduchy.51.b:0 "그들은 아무것도 받을 자격이 없다!"
 
-balticduchy.52.t:0 "Rebellion in Kurland"
-balticduchy.52.d:0 "The rural population and some city dwellers in Kurland have decided to rise against the German population. Thankfully, the rebellion is limited to only a few provinces and should be easily crushed."
-balticduchy.52.a:0 "Crush the dissenters!"
+balticduchy.52.t:0 "쿠를란트에서의 반란"
+balticduchy.52.d:0 "쿠를란트의 지방민들과 몇몇 도시민들이 독일인들에 맞서 봉기하기로 결정했습니다. 다행히, 반란은 몇몇 지방에서만 일어났으며 쉽게 진압될 것입니다."
+balticduchy.52.a:0 "반대자들을 분쇄하라!"
 
-balticduchy.53.t:0 "Rebellion in Livland"
-balticduchy.53.d:0 "The rural population and some city dwellers in Livland have decided to rise against the German population. Thankfully, the rebellion is limited to only a few provinces and should be easily crushed."
-balticduchy.53.a:0 "Crush the dissenters!"
+balticduchy.53.t:0 "리블란트에서의 반란"
+balticduchy.53.d:0 "리블란트의 지방민들과 몇몇 도시민들이 독일인들에 맞서 봉기하기로 결정했습니다. 다행히, 반란은 몇몇 지방에서만 일어났으며 쉽게 진압될 것입니다."
+balticduchy.53.a:0 "반대자들을 분쇄하라!"
 
-balticduchy.54.t:0 "Rebellion in Estland"
-balticduchy.54.d:0 "The rural population and some city dwellers in Estland have decided to rise against the German population. Thankfully, the rebellion is limited to only a few provinces and should be easily crushed."
-balticduchy.54.a:0 "Crush the dissenters!"
+balticduchy.54.t:0 "에스틀란트에서의 반란"
+balticduchy.54.d:0 "에스틀란트의 지방민들과 몇몇 도시민들이 독일인들에 맞서 봉기하기로 결정했습니다. 다행히, 반란은 몇몇 지방에서만 일어났으며 쉽게 진압될 것입니다."
+balticduchy.54.a:0 "반대자들을 분쇄하라!"
 
 balticduchy.70.t:0 "Nationalist Movements Agitating!"
 balticduchy.70.d:0 "The decision of our German masters to speed up the integration of the entire region into the German Empire was met with stern disapproval from the native Latvian and Estonian population. The fight against waves of German settlers who are intended to destroy both nations various radical nationalist groups were reactivated. Their goal is to attain complete freedom from the German Empire."
@@ -107,20 +107,20 @@ balticduchy.75.d:0 "The united SOP movement is gaining popularity at alarming ra
 balticduchy.75.a:0 "Demand Russia to cease all support"
 balticduchy.75.b:0 "Ignore the UBD pleas!"
 
-balticduchy.76.t:0 "독일이 요구함!"
+balticduchy.76.t:0 "독일이 요구하다!"
 balticduchy.76.d:0 "우리의 행동은 독일인들을 화나게 했으며 즉각 중단하지 않는다면 대가를 치루게 될 것입니다!"
 balticduchy.76.a:0 "그런 요구 따윈 거절한다"
 balticduchy.76.b:0 "그들의 제안을 수락해라!"
 
-balticduchy.77.t:0 "러시아가 우리의 요구를 받아들였습니다"
+balticduchy.77.t:0 "러시아가 우리의 요구를 받아들이다"
 balticduchy.77.d:0 "Russia accepted our demands and ceased all activity which was aimed against the territorial integrity of the United Baltic Duchy."
 balticduchy.77.a:0 "우리 외교의 또다른 승리로군"
 
-balticduchy.78.t:0 "독일이 우리를 돕지않을 것입니다"
+balticduchy.78.t:0 "독일이 우리를 돕지 않을 것이다"
 balticduchy.78.d:0 "Our beloved Kaiser betrayed us. There nothing we can do against SOP. Sooner or later, they will start an open revolt against us."
 balticduchy.78.a:0 "이럴수가"
 
-balticduchy.79.t:0 "러시아가 우리의 요구를 수용함"
+balticduchy.79.t:0 "러시아가 우리의 요구를 수용하다"
 balticduchy.79.d:0 "Russia accepted our demands and ceased all activity which was aimed against the territorial integrity of the United Baltic Duchy."
 balticduchy.79.a:0 "또 다른 외교전의 승리군"
 
@@ -136,10 +136,10 @@ balticduchy.81.b:0 "Force them to join our alliance!"
 balticduchy.81.c:0 "Ignore them..."
 
 balticduchy.82.t:0 "러시아 보호령"
-balticduchy.82.d:0 "우리의 정부는 친러시아 성향으로 재편됬습니다"
+balticduchy.82.d:0 "우리의 정부는 친러시아 성향으로 재편되었습니다"
 balticduchy.82.a:0 "최소한 우리는 존재하고 있다!"
 
-balticduchy.83.t:0 "러시아가 동맹을 강제로 요구함"
+balticduchy.83.t:0 "러시아가 동맹을 강제로 요구하다"
 balticduchy.83.d:0 "우리 정부는 러시아로부터 동맹을 강요받았습니다."
 balticduchy.83.a:0 "강한 동맹만이 우리를 보호해줄 수 있다!"
 
@@ -174,7 +174,7 @@ balticduchy.92.t:0 "발트 연합의 난민들"
 balticduchy.92.d:0 "During existence of United Baltic Duchy, thousands of German settlers moved to the area of today Baltic Federation. Their newly-independent government has decided to expel them..."
 balticduchy.92.a:0 "Oh!"
 
-balticduchy.93.t:0 "발트 3국 난민들"
+balticduchy.93.t:0 "발트 3국의 난민들"
 balticduchy.93.d:0 "During existence of United Baltic Duchy, thousands of German settlers moved to the area of today Pribaltika. Their newly-independent government has decided to expel them..."
 balticduchy.93.a:0 "오!"
 
@@ -187,12 +187,12 @@ balticduchy.95.d:0 "Due to rising tensions with Estonians, Latvians, and other m
 balticduchy.95.a:0 "The Parliament approves of this move!"
 balticduchy.95.b:0 "The Kaiser is angry at the Duke!"
 
-balticduchy.96.t:0 "독일 황제가 분노했습니다!"
+balticduchy.96.t:0 "독일 황제가 분노하다!"
 balticduchy.96.d:0 "After the Kaiser has expressed his disagreement over the type of administration in the United Baltic Duchy, the majority of Germans feel that the UBD must stay on its democratic course and friendship with Germany. Many of them however think of this is a good excuse to revert everything which has been done."
-balticduchy.96.a:0 "모든걸 원상복귀 시켜!"
-balticduchy.96.b:0 "독일 황제에게 이것이 발트 연합 공국의 더 나은 미래를 위함이라고 전해드려라!"
+balticduchy.96.a:0 "모든 걸 원상복귀 시켜라!"
+balticduchy.96.b:0 "독일 황제에게 이는 발트 연합 공국의 더 나은 미래를 위함이라고 전해드려라!"
 
-balticduchy.97.t:0 "독일 황제가 수락했습니다!"
+balticduchy.97.t:0 "독일 황제가 수락하다!"
 balticduchy.97.d:0 "이제부터 우리는 자유입니다. 자랑스런 인민들에게 영광과 만세삼창을 합시다!"
 balticduchy.97.a:0 "만세! 만세! 만세!"
 
@@ -205,21 +205,21 @@ balticduchy.99.d:0 "Due to rising tensions with Estonians, Latvians, and other m
 balticduchy.99.a:0 "The Parliament approves of this move!"
 balticduchy.99.b:0 "The Kaiser is angry at the Duke!"
 
-balticduchy.100.t:0 "독일 황제가 분노했습니다!"
+balticduchy.100.t:0 "독일 황제가 분노하다!"
 balticduchy.100.d:0 "After the Kaiser has expressed his disagreement over the type of administration in the Baltic Federation, the majority of Germans feel that the Baltic Federation must stay on its democratic course and friendship with Germany. Many of them however think of this is a good excuse to revert everything which has been done."
-balticduchy.100.a:0 "모두 원상복귀 시켜!"
-balticduchy.100.b:0 "독일 황제에게 이것이 발트 연방의 더 나은 미래를 위함이라고 전해드려라!"
+balticduchy.100.a:0 "모든 걸 원상복귀 시켜라!"
+balticduchy.100.b:0 "독일 황제에게 이는 발트 연합 공국의 더 나은 미래를 위함이라고 전해드려라!"
 
 balticduchy.120.t:0 "동부 방벽 개선"
 balticduchy.120.d:0 "Our diligent engineers and soldiers have completed another part of the fortification line along the borders of United Baltic Duchy and Russia. Shall we continue with its expansion or are such fortifications sufficient?"
 balticduchy.120.a:0 "방어를 강화하자!"
-balticduchy.120.b:0 "더 이상 필요한게 없다"
+balticduchy.120.b:0 "더 이상 필요한 건 없다"
 
 balticduchy.121.t:0 "동부 방벽의 다른 부분"
 balticduchy.121.d:0 "Our diligent engineers and soldiers have completed another part of the fortification line along the borders of United Baltic Duchy and Russia. Shall we continue with its expansion or are such fortifications sufficient?"
 balticduchy.121.a:0 "Further improve our defences!"
 
-balticduchy.122.t:0 "동부 방벽 요새화 계획이 완료되었습니다"
+balticduchy.122.t:0 "동부 방벽 요새화 계획이 완료되다"
 balticduchy.122.d:0 "Our diligent engineers and soldiers have completed fortification line along the borders of United Baltic Duchy and Russia. With such protections in place, our independence is surly secured."
 balticduchy.122.a:0 "훌륭하군!"
 
@@ -451,7 +451,7 @@ BAT_totalist_party:0 "발트 전체주의자당"
 BAT_radical_socialist_party:0 "발트 사회당"
 BAT_syndicalist_party:0 "발트 노동조합 연합"
 BAT_social_democrat_party:0 "번영당"
-BAT_social_liberal_party:0 "전발트연합"
+BAT_social_liberal_party:0 "전 발트 연합"
 BAT_market_liberal_party:0 " 자유당"
 BAT_social_conservative_party:0 "발트 보수당"
 BAT_authoritarian_democrat_party:0 "독일인 민족당"
@@ -489,19 +489,19 @@ BAT_Emancipation_desc:0 "Almost two decades have passed since we achieved our st
 BAT_Ger_Kurland1:0 "쿠를란트 식민화"
 BAT_Ger_Kurland1_desc:0 "Kurland, or Kursas as the locals call it, shall be the first step towards the full Germanisation of our Duchy. It will be easy to turn this region into a German-dominated one, despite some native resistance."
 
-BAT_Ger_Livland1:0 "리빌란트 식민화"
+BAT_Ger_Livland1:0 "리블란트 식민화"
 BAT_Ger_Livland1_desc:0 "Livland, referred to by the locals as Latgale, is the heart of our very Duchy, and yet the countryside of this region is still mostly Latvian. Hopefully, not for long."
 
-BAT_Ger_Estland1:0 "이스틀란트 식민화"
+BAT_Ger_Estland1:0 "에스틀란트 식민화"
 BAT_Ger_Estland1_desc:0 "Estland, or Estonia according to the locals, is the final step towards the full Germanisation of our Duchy. We already have experience in strategic immigrant settling and fighting local language usage, so this will be an easy task."
 
 BAT_Ger_Kurland2:0 "독일령 쿠를란트"
 BAT_Ger_Kurland2_desc:0 "The Germanisation project has yielded exactly the results we needed. The percentage of Germans in Kurland is growing every day, and despite native resistance, the ideal of Drang nach Osten grows stronger every day."
 
-BAT_Ger_Livland2:0 "독일령 리빌란트"
+BAT_Ger_Livland2:0 "독일령 리블란트"
 BAT_Ger_Livland2_desc:0 "The Germanisation project has yielded exactly the results we needed. The percentage of Germans in Livland is growing every day, and despite native resistance, the ideal of Drang nach Osten grows stronger every day."
 
-BAT_Ger_Estland2:0 "독일령 이스틀란트"
+BAT_Ger_Estland2:0 "독일령 에스틀란트"
 BAT_Ger_Estland2_desc:0 "The Germanisation project has yielded exactly the results we needed. The percentage of Germans in Estland is growing every day, and despite native resistance, the ideal of Drang nach Osten grows stronger every day."
 
 BAT_Ger_Baltic:0 "독일령 발트국"
@@ -534,7 +534,7 @@ BAT_Ger_Autonomy5_desc:0 "We have promised the people of the Duchy that the firs
 BAT_Fed1:0 "다문화 국가"
 BAT_Fed1_desc:0 "The Germans are not the only people living in the United Baltic Duchy. Latvians, Estonians and Russians all make up significant portions of the population, too, and they demand to be recognised and represented in the government. We shall consider it."
 
-BAT_Fed2:0 "발틱 연방"
+BAT_Fed2:0 "발트 연방"
 BAT_Fed2_desc:0 "Andrevs Niedra, a puppet head of government we placed to pacify the locals, has proposed a seemingly radical idea, reforming the Duchy into a democratic Baltic Federation, where not only Germans, but also the local Balts can have a say in how they are ruled. It seems like a good idea after all."
 
 BAT_Fed3:0 "첫번째 총선"
@@ -543,58 +543,58 @@ BAT_Fed3_desc:0 "We have promised free elections as part of the future of our ne
 BAT_Fed4:0 "발트 무역"
 BAT_Fed4_desc:0 "The new democratic Baltic state is rife for trade dominance in the Baltic Sea. Our new political course will be beneficial to our trading centres and our port cities, so we must develop them to use this advantage to its fullest."
 
-BAT_Fed5:0 "Independence Referendum"
+BAT_Fed5:0 "독립 투표"
 BAT_Fed5_desc:0 "We had never truly planned to break our ties with Germany, but more and more people are demanding the Baltic Federation to become an independent state. We have found a compromise, an independence referendum. Of course, even with a majority in favour of independence, there's no telling whether the Kaiser will approve."
 
-BAT_Education:0 "Education Reform"
+BAT_Education:0 "교육 개혁"
 BAT_Education_desc:0 "The large Latvian and Estonian contingent in the Baltic Landtag is demanding a comprehensive education reform. Latvian and Estonian need to be accepted as secondary languages and the discrimination against the local Balts in schools must stop. This seems acceptable."
 
-BAT_Press:0 "A Free Press"
+BAT_Press:0 "언론의 자유"
 BAT_Press_desc:0 "Ever since the foundation of our nation, there have been severe limitations to the freedom of our press. This has come to light in recent events, and our people want profound reforms. The conservatives oppose these changes, while the liberal faction in the Landtag are in favour of them."
 
-BAT_Lib1:0 "A Liberal Duchy"
+BAT_Lib1:0 "자유 공국"
 BAT_Lib1_desc:0 "The Liberal faction has secured a stable majority coalition in the Landtag, and this faction demands for the Duchy to be liberalised and rid of the worst parts of Imperial and Ducal influence imposed to us by the Vaterland."
 
-BAT_Lib2:0 "Ducal Elections"
+BAT_Lib2:0 "공국의 선거"
 BAT_Lib2_desc:0 "The liberals demand a free election to be held for the Landtag! It may seem like a radical proposal, but times are clearly changing. The near absolutism we used to live in may no longer endure as democracy once again shines on the horizon of Europe."
 
-BAT_Lib3:0 "Cultural Equality"
+BAT_Lib3:0 "문화적 평등"
 BAT_Lib3_desc:0 "Germans, Balts, Estonians and Russians, we are all the same. We must follow the principles of equality and extend the rights of cultural autonomy to all nations within the state. Even if the Baltic Germans are to remain dominant, of course."
 
-BAT_Lib4:0 "Economic Liberalisation"
+BAT_Lib4:0 "경제 자유화"
 BAT_Lib4_desc:0 "The liberal faction believes that the state must interfere as little as possible in the affairs of the economy, and this outlook has attracted lots of private investment into our nation. The economy may grow freely, for we will reap the rewards quickly."
 
-BAT_ERP:0 "Economic Recovery Plan"
+BAT_ERP:0 "경제 복구 계획"
 BAT_ERP_desc:0 "The crisis known as the Black Monday has caused many troubles for our economy. More than fifty thousand people had lost their jobs at the end of first day. We have got to do something, and our ministers are already preparing a plan to save our economy."
 
-BAT_ERP_Gov1:0 "Government Intervention"
+BAT_ERP_Gov1:0 "정부의 개입"
 BAT_ERP_Gov1_desc:0 "We cannot allow this stagnation to continue. The government should assume control of all the major facilities. It is a harsh policy that will surely stifle our private sector, but it will steer our economy out of trouble."
 
-BAT_ERP_Gov2:0 "Build Up Our Roads"
+BAT_ERP_Gov2:0 "도로 건설"
 BAT_ERP_Gov2_desc:0 "Many unemployed citizens are trying to find any kind of job. We can help them by sending them on construction works. They will build up our roads and we will pay them. This way we can kill two birds with one stone."
 
-BAT_ERP_Gov3:0 "Social Investments"
+BAT_ERP_Gov3:0 "사회 투자"
 BAT_ERP_Gov3_desc:0 "To solve our economic problems, we need a stable society. Some benefits for the poorest in our Duchy should be established. Everybody deserves at least basic economic security, and this will help maintain order in our population."
 
-BAT_ERP_Gov4:0 "Baltic Arsenals"
+BAT_ERP_Gov4:0 "발트의 병기창"
 BAT_ERP_Gov4_desc:0 "Our country has always had a problem with the military sector. Now, with many free hands available, we can send them to military factories to produce guns, tanks and aircrafts. This again should solve many problems at once."
 
-BAT_Eco_Naval1:0 "Baltic Dockyards"
+BAT_Eco_Naval1:0 "발트 조선소"
 BAT_Eco_Naval1_desc:0 "We are a coastal country, almost half of our lands border the Baltic sea. Now, with many free hands available, we can send them to dockyards to build up our fleet. A large and prosperous Baltic navy will raise."
 
-BAT_Eco_Naval2:0 "Baltic Trade League"
+BAT_Eco_Naval2:0 "발트 무역 연맹"
 BAT_Eco_Naval2_desc:0 "There are many countries around the Baltic sea. We desperately need new trade partners, and they can indeed be very good trade partners to us. We should we establish new trade routes in the Baltic sea."
 
-BAT_Eco_Naval3:0 "Naval Innovations"
+BAT_Eco_Naval3:0 "해군 혁신"
 BAT_Eco_Naval3_desc:0 "Our recent naval activity has shown that our navy should be reorganised. We can learn many new things from major countries and use this knowledge in our projects for both the merchant navy and our growing Baltic fleet."
 
-BAT_ERP_FM1:0 "Rely on Local Businesses"
+BAT_ERP_FM1:0 "현지 기업에 의존"
 BAT_ERP_FM1_desc:0 "We cannot allow this stagnation to continue. If we enact strong laissez-faire policies, it will open many opportunities for local businesses and the private sector. Our capitalists and the free market will save the economy."
 
-BAT_ERP_FM2:0 "Invest in Our Scientists"
+BAT_ERP_FM2:0 "과학자에 투자"
 BAT_ERP_FM2_desc:0 "Every prosperous country has to rely on its scientists. We have to invest in our future now for a brighter tomorrow. Knowledge will always be a powerful weapon, and a source of economic and social prosperity."
 
-BAT_ERP_FM3:0 "Social Investments"
+BAT_ERP_FM3:0 "사회 투자"
 BAT_ERP_FM3_desc:0 "To solve our economic problems, we need a stable society. Some benefits for the poorest in our Duchy should be established. Everybody deserves at least basic economic security, and this will help maintain order in our population."
 
 BAT_ERP_FM4:0 "Political Establishment"
@@ -744,7 +744,7 @@ BAT_fort:0 "동부방벽 요새화 연결망"
 BAT_fort_desc:0 "The Ostwall is more than a few isolated bunkers. A complex and carefully designed network of fortication works, integrating natural chokepoints and artificial constructions alike, it will prove a challenge to any invading forces. Likewise, it will also help us design future expansions, and even brand new fortification lines."
 
 BAT_balts_rebellion:0 "발트인들의 반란"
-BAT_balts_rebellion_desc:0 "우리의 식민화 정책으로 인해 발트 3국 거주민들이 들고 일어났습니다. 우리는 정치적 상황에 따라 독일의 도움없이 우리 스스로 해결할 수 있습니다 (독일을 전쟁에 부르지 않는 것이 습니다)."
+BAT_balts_rebellion_desc:0 "우리의 식민화 정책으로 인해 발트 3국 거주민들이 들고 일어났습니다. 우리는 정치적 상황에 따라 독일의 도움없이 우리 스스로 해결할 수 있습니다 (독일을 전쟁에 부르지 않는 것이 좋습니다)."
 
 ### Flags ###
 
@@ -763,7 +763,7 @@ BAT_autonomy:0 "더 많은 자치를 원함"
 ### Tooltips ###
 
 BAT_election_tooltip:0 "이 중점은 선거를 허용하게 만들 것입니다. 첫 선거는 1937년에 시작될 것이며, 선거는 4년마다 열리게 됩니다."
-BAT_election_aut_tooltip:0 "이 중점은 선거를 허용하게 만들 것입니다. 우리의 준독재정부의 의하여, 선거는 한번만 열릴 ."
+BAT_election_aut_tooltip:0 "이 중점은 선거를 허용하게 만들 것입니다. 우리의 준독재정부의 의하여, 선거는 한번만 열릴 것입니다."
 
 ### OOB ###
 LAT_rebellion:0 "라트비아 반란군"
