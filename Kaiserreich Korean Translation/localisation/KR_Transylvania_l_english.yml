@@ -23,7 +23,7 @@ TRS_national_populist_party:0 "PNR"
 TRS_national_populist_party_long:0 "루마니아 민족당"
 
 ### Leader Descriptions ###
-POLITICS_ALEXANDRU_VAIDAVOEVOD_DESC:0 "Born to a Greek-Catholic family Voevod was supportive of a plan to federalise the domains of the Habsburgs, and was close to Archduke Franz Ferdinand. In 1906, he joined a group of Romanian nationalists in the Budapest Parliament, becoming an important opponent of the Hungarian government, and fought for Transylvania's right for self-determination. Disappointed by the Austrian cause after Franz Ferdinand's assassination in Sarajevo he turned towards an advocacy of Transylvania's union with Romania."
+POLITICS_ALEXANDRU_VAIDAVOEVOD_DESC:0 "그리스 카톨릭 가정에서 태어난 보에보드는 합스부르크의 영토를 연방화하려는 계획을 지지했고 프란츠 페르디난트 대공과 친했습니다. 1906년, 그는 부다페스트 의회에서 루마니아 민족주의자 그룹에 합류해 헝가리 정부의 중요한 반대자가 되었고 트란실바니아의 자결권을 위해 싸웠습니다. 프란츠 페르디난트가 사라예보에서 암살당한 후 오스트리아의 명분에 실망한 그는 루마니아와의 트란실바니아 연합을 지지하는 쪽으로 방향을 돌렸습니다."
 
 ### Event Text ###
 transylvania.1.t:0 "루마니아와의 연합?"
