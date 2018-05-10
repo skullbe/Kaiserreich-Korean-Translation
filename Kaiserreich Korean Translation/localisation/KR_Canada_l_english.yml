@@ -142,10 +142,10 @@ END_ACW:0 "2차 미국 내전이 끝나다."
 imperial_conference_36_over:0 "1936년 제국 회의가 끝났습니다"
 CAN_supports_usa:0 "우리는 미합중국을 지지할 것입니다."
 CAN_acw_intervention:0 "우리는 우리 자신의 이익을 바라볼 것입니다."
-CAN_puppet_ENG_or_all_cores:0 "All [ENG.GetAdjective] cores are owned and controlled by §Y[CAN.GetNameDef]§! or a subject nation"
-CAN_puppet_SCT_or_all_cores:0 "All [SCT.GetAdjective] cores are owned and controlled by §Y[CAN.GetNameDef]§! or a subject nation"
-CAN_puppet_WAL_or_all_cores:0 "All [WAL.GetAdjective] cores are owned and controlled by §Y[CAN.GetNameDef]§! or a subject nation"
-CAN_release_GBR:0 "§Y[GBR.GetNameDefCap]§! will be created"
+CAN_puppet_ENG_or_all_cores:0 "모든 [ENG.GetAdjective]의 코어를 §Y[CAN.GetNameDef]§!나 그 종속국이 소유하고 통제하고 있습니다."
+CAN_puppet_SCT_or_all_cores:0 "모든 [SCT.GetAdjective]의 코어를 §Y[CAN.GetNameDef]§!나 그 종속국이 소유하고 통제하고 있습니다."
+CAN_puppet_WAL_or_all_cores:0 "모든 [WAL.GetAdjective]의 코어를 §Y[CAN.GetNameDef]§!나 그 종속국이 소유하고 통제하고 있습니다."
+CAN_release_GBR:0 "§Y[GBR.GetNameDefCap]§!이 만들어 질 것입니다."
 
 ### Parties ###
 CAN_totalist_party:0 "CCP"
@@ -773,9 +773,9 @@ canada.53.c:0 "우리의 힘을 보여 줘라! 미국 연안에서 대규모 훈
 canada.53.e:0 "굳이 위험을 감수할 필요는 없다. 캐나다 영해에서 정상적으로 훈련을 개시한다." 
 
 canada.54.t:0 "아일랜드-캐나다 조약"
-canada.54.d:0 "The Canadians have approached us with the offer of a defence co-operation treaty. They will guarantee our sovereignty against the syndicalists in exchange for military basing rights. This could secure us against the syndicalists and open the door to economic aid from the Canadians but runs the risk of antagonising the Union of Britain. Rejecting, however, could provoke the Canadians to act first. How should we proceed?"
-canada.54.a:0 "Sign the treaty. This will be the start of a beautiful friendship."
-canada.54.b:0 "Reject the treaty. We cannot trust the English on any side of the Atlantic."
+canada.54.d:0 "캐나다가 우리와 상호 방위 조약을 맺기 위해 왔습니다. 그들은 생디칼리스트에 대항해 우리의 주권을 보장할 것이며, 우리는 그들에게 군기지를 제공할 것입니다. 이는 생디칼리스트로부터 우리를 지키고 캐나다로부터 원조를 받을 길이 열리게 하지만 브리튼 연방과 적대할 위험을 안겨 줍니다. 그러나 거부하는 것은 캐나다인들이 먼저 행동하도록 자극할 수 있습니다. 어떻게 해야 할까요?"
+canada.54.a:0 "조약에 서명하라. 이는 아름다운 우정의 시작이 될 것이다."
+canada.54.b:0 "조약을 거부하라. 우리는 대서양 어느 쪽의 영국도 믿을 수 없다."
 
 canada.55.t:0 "아일랜드가 조약에 서명했습니다"
 canada.55.d:0 "아일랜드인들은 우리가 유럽에 쉽게 접근할 수 있고 동시에 아일랜드인들과 더욱 협력할 수 있는 기회를 제공하는 조약의 조건에 동의했습니다. 시간과 협력을 통해, 그들이 협상국의 정식 회원이 되도록 설득할 수도 있을 것입니다."
