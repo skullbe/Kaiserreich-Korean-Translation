@@ -22,8 +22,8 @@ TEX_pass_the_ammunition_desc:0 "Just as we need the best rifles and infantry equ
 TEX_conscription_law:0 "징집법 개정"
 TEX_conscription_law_desc:0 "The strong military tradition of the south was not to be understated but the lack of manpower was an issue for the AUS. By reducing the age of conscription to 15 the American Union State was able to gain more manpower."
 TEX_army_nurse_corps:0 "여군 창설"
-TEX_army_nurse_corps_desc:0 "The Women Army Corps has been proposed. The WACs as they are being called would take over support roles for the men allowing more men to go to the front. In particular a good number of women wish to enter the Nursing Corps to help save the lives of patriotic Americans."
-TEX_army_rangers_desc:0 "Now that we have the plans finalised for the American Army it is time that we create the army ranger corps. The Army Ranger corps will function as the elite special forces of the American Army."
+TEX_army_nurse_corps_desc:0 "여군 창설이 건의되었습니다. 여군은 지원 임무를 수행하여 보다 많은 남자들이 전선에 향할 수 있게 도울 것입니다. 특히 많은 여성들이 애국심 깊은 미국인들의 생명을 구하기 위해 간호단에 입대하기를 원하고 있습니다."
+TEX_army_rangers_desc:0 "이제 우리는 미군을 위한 계획을 매듭지을 단계가 되었습니다. 이제 우리는 레인저 부대를 창설할 때가 되었습니다. 레인저 부대는 미군의 정예 특수 부대가 될 것입니다."
 
 ### Focuses - Navy ###
 TEX_navy:0 "우리의 해군을 만들자"
