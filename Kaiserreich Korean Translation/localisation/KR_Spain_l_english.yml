@@ -194,7 +194,7 @@ SPR_expand_industry_2:0 "Expand Our Industry Further"
 SPR_expand_industry_2_desc:0 "We must continue our focus on expanding our civilian industry, to increase Spain's trade potential and our place as a powerhouse in Europe."
 SPR_trade_focus:0 "Focus on Trade"
 SPR_trade_focus_desc:0 "We must seek out new markets for Spanish goods, as well as arrange trade treaties to acquire the raw resources we so desperately need."
-SPR_recover_black_monday:0 "Recovery from Black Monday"
+SPR_recover_black_monday:0 "검은 월요일로부터의 회복"
 SPR_recover_black_monday_desc:0 "It has been a long road, and Spain was perhaps harder hit than some. We have weathered the storm, however, and it is time to come out of the other end of it stronger than ever."
 
 SPR_university:0 "Centro de Estudios Universitarios"
