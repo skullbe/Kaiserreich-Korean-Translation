@@ -1,9 +1,15 @@
-﻿l_english:
+l_english:
 
 ### WIP ### (Isn't this whole file WIP...)
 brotherhood_of_slavs:0 "슬라브 형제단"
 austrian_sphere:0 "도나우-아드리아 연맹"
 austrian_sphere_sued:0 "남동유럽"
+
+BOM_ausgleich_slovak_state:0 "슬로바키아 국가 약속"
+ILL_ausgleich_backan_claims:0 "트랜스 카르 파 티아 약속"
+GAL_ausgleich_transcarpathian_claims:0 "바치카 약속"
+
+AUS_new_administration:0 "우리의 행정 재검토"
 
 ### Flags and Tooltips ###
 AUS_economy_ready_tooltip:0 "우리는 경제의 선진화를 준비해야 합니다. \n\n 이는 당연히 현재 우리에게 닥친 경제 위기를 극복해야 한다는 것을 의미합니다."
@@ -12,6 +18,7 @@ AUS_potb_greece_tooltip:0 "Greece borders our Sphere of Influence."
 AUS_potb_romanian_civil_war_tooltip:0 "The Romanian Civil War is raging on our borders."
 AUS_potb_romania_tooltip:0 "The restored Kingdom of Romania borders our Sphere of Influence."
 AUS_potb_claims_on_bulgaria_tooltip:0 "The Bulgarians hold territory that rightfully belong to our Spherelings."
+AUS_potb_bulgarian_hegemony_tooltip:0 "The Bulgarians have a hegemony on the Balkans."
 
 AUS_syndicalist_menace_tooltip:0 "The Fires of War burn once more, and our interests in Italy are threatened by an emboldened Internationale."
 
@@ -118,7 +125,13 @@ AUS_racial_tensions_desc:0 "새로 태어난 오스트리아 제국에서 민족
 AUS_racial_revolts:0 "민족간 반란"
 AUS_racial_revolts_desc:0 "민족간 갈등이 확대되고 공개 반란을 모의했습니다. 오스트리아의 암울한 시기입니다.."
 
-### Foci ###
+### Decisions ###
+AUS_elections_decisions:0 "선거 결정"
+AUS_endorse_CS:0 "Endorse the Christlichsoziale"
+AUS_endorse_SDAP:0 "Endorse the SDAP"
+endorsing_a_party:0 " already endorsing a party"
+
+### Focuses ###
 AUS_eco_council:0 "경제 부흥 계획"
 AUS_eco_council_desc:0 "오스트리아 경제의 부진한 상태에 대해 논의하기 위해 1935년에 설립된 경제 부흥 계획은 지속된 경제 위기로 인해 중단되었습니다. 약간의 변경을 가한 이 계획은 여전히 검은 월요일(Black Monday)의 재앙적인 여파에 대처하고 주요 경쟁자들이 없는 이 기회에 오스트리아 산업을 강화시키는 좋은 방법을 제시합니다."
 
