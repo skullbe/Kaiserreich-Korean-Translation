@@ -4,6 +4,11 @@ l_english:
 albania.1.t:0 "알바니아 공화국"
 albania.1.d:0 "1912년 제 1차 발칸 전쟁 중, 블로러에 있는 알바니아 민족 회의는 알바니아의 독립을 선언했고, 주요 강대국들은 1913년에 비드의 빌헬름이 공작에 올라 알바니아를 통치하는 조건으로 독립을 받아들였습니다.\n\n세계대전이 일어나면서 오스트리아-헝가리가 알바니아에 함께 싸울 것을 요구해 알바니아는 새로운 문제를 겪게 되었습니다. 런던 조약에 따른 알바니아의 중립을 이유로 빌헬름 공작이 이를 거절한 후, 그가 지금까지 받아왔던 급료가 갑작스럽게 끊겼습니다. 정권은 무너졌고, 빌헬름 공작은 공식적으로 알바니아의 정부 수반으로 있었음에도 불구하고 1914년 9월 3일 독일 제국 군대에 입대하기 위해 나라를 떠났습니다. 1921년, 명예로운 평화로 알바니아의 지위가 결정되었습니다: 오스트리아의 영향을 받는 빌헬름 공작의 권력 아래에 놓인 공국으로 말입니다.\n\n하지만 오스트리아의 발전 덕분에, 1924년 알바니아는 오스트리아의 영향을 없애고 비드를 쫒아낸 아흐메트 조구, 셰프톄트 버를라치, 알리 켈멘디, 술레이만 델비나, 판 놀리, 아브니 루스테미 같은 수많은 알바니아 민족주의자들의 도움으로 자유를 쟁취할 수 있었습니다. 익히 알려진 것과 같이, 1924년 알바니아 혁명으로 아브니 루스테미가 이끄는 통합당과 셰프톄트 버를라치가 이끄는 진보당이 생겨났습니다. \n\n알바니아에서 가장 넓은 땅을 가진 버를라치와 다른 귀족들의 도움으로, 조구와 진보당은 1924년과 1928년, 1932년 선거에서 승리를 거둘 수 있었습니다. 하지만 알바니아와 통합당의 민주주의자들은 토지개혁을 하고 하층민들에게 권력을 분배하자고 주장해왔습니다. 이러한 개혁은 진보당에 의해 모두 거부되었고, 현재 알바니아는 매우 양극화된 국가로 힘든 시간을 보내야 합니다..."
 albania.1.a:0 "상황에 관계없이 우리는 승리할 것입니다..."
+albania.1.b:0 "외교 관련 중점트리는 어디있나요?"
+
+albania.1000.t:0 "Decisions"
+albania.1000.d:0 "You may be wondering, where is the [Root.GetAdjective] focus tree? Well, despite having shown [Root.GetName]’s foreign policy tree during the progress report, the tree itself has been entirely converted to decisions.\n\nThe prerequisites for unlocking the tree are as follows:\n\n1. Albania must not have the Black Monday idea.\n\n2. The date must be after the 1st of April, 1936, so as to prevent the player from pursuing any foreign policy decisions prior to the Black Monday event.\n\nHopefully this has cleared up any sort of confusion."
+albania.1000.a:0 "Thank you!"
 
 albania.2.t:0 "검은 월요일이 알바니아를 강타하다!"
 albania.2.d:0 "1936년 2월 3일 베를린 증권 거래소가 급락하면서, 다른 국가들도 모두 추락했습니다. 알바니아는 새로운 농업 국가로, 국제적인 위상을 찾기 위해 노력했습니다. 농지 개혁의 부재, 산업화의 부재, 귀족들로의 권력 집중 때문에 알바니아의 민주주의자들, 특히 통합당을 제외한 다른 정당들, 은 자유화와 산업화를 요구하고 있습니다. 실업률이 치솟고 경제가 무너지면서 국민들은 등을 돌리기 시작했고 루스테미와 놀리의 말에 귀를 기울이고 있습니다. 게다가 알바니아 국립 은행에 자금을 대 온 귀족들은 은행의 실패와 폐쇄로 그렇게 할 수 없게 되었습니다. 여기에 1936년 알바니아 선거가 다가오고 있으며, 경제 발전으로 권력의 균형이 통합당에 유리해진 것 같습니다."
@@ -57,15 +62,15 @@ albania.13.b:0 "Reject the offer; we've no time for them."
 
 albania.14.t:0 "불가리아가 우리 제안을 받아들이다!"
 albania.14.d:0 "We’ve just received great news from the Bulgarians: they’ve accepted our offer of an Albanian-Bulgarian alliance. This will certainly help further our foreign policy goals and ensure that we can protect ourselves from neighbouring countries which eagerly await our downfall."
-albania.14.a:0 "Great!"
+albania.14.a:0 "좋았어!"
 
 albania.15.t:0 "불가리아가 우리 제안을 거절하다!"
 albania.15.d:0 "Bad news has just come from the Bulgarians: apparently, they’ve rejected our offer of an alliance, citing our claims on Macedonia and our precarious position in the Balkans as grounds for rejection."
-albania.15.a:0 "How dare they!"
+albania.15.a:0 "가엾은 자들이여!"
 
 albania.16.t:0 "사법 제도 개혁"
 albania.16.d:0 "While it will certainly be no easy task, we have already begun the reformation of the justice system and have codified our law based on the Swiss Civil Code in order to westernise and modernise our courts. We can now look forward to a brighter, freer, and just Albania."
-albania.16.a:0 "모든 이를 위한 정의!"
+albania.16.a:0 "정의는 모두를 위한 것이다!"
 
 albania.17.t:0 "언론의 자유"
 albania.17.d:0 "By loosing restrictions on the press and abolishing censorship laws, we can begin slowly liberalising the press laws and ensuring the creation and development of a free media. This will, however, open us up to more criticism by our detractors."
@@ -79,10 +84,10 @@ albania.18.c:0 "양 시칠리아!"
 
 albania.19.t:0 "알바니아와의 무역?"
 albania.19.d:0 "Albania has just reached out to us in an attempt to foster relations and help open up trade relations between our two nations. This could certainly help us better fight off the effects of Black Monday while boosting relations between our two nations. With that in mind, we have decided to..."
-albania.19.a:0 "Trade with the Albanians."
-albania.19.b:0 "Not trade with the Albanians."
+albania.19.a:0 "알바니아와 무역한다."
+albania.19.b:0 "알바니아와 무역을 하지 않는다."
 
-albania.20.t:0 "Albanian-Bulgarian Economic Ties!"
+albania.20.t:0 "알바니아-불가리아 경제 협력!"
 albania.20.d:0 "Word has come that the Bulgarians have decided to accept our offer of trade between Albania and Bulgaria, effectively ensuring better relations between our two nations while also helping us better combat the effects of Black Monday. This will surely be a great economic boon for years to come!"
 albania.20.a:0 "A toast to our Bulgarian friends!"
 
@@ -92,10 +97,10 @@ albania.21.a:0 "이런..."
 
 albania.22.t:0 "알바니아와의 무역?"
 albania.22.d:0 "Albania has just reached out to us in an attempt to foster relations and help open up trade relations between our two nations. This could certainly help us better fight off the effects of Black Monday while boosting relations between our two nations. With that in mind, we have decided to..."
-albania.22.a:0 "Trade with the Albanians."
-albania.22.b:0 "Not trade with the Albanians."
+albania.22.a:0 "알바니아와 무역한다."
+albania.22.b:0 "알바니아와 무역을 하지 않는다."
 
-albania.23.t:0 "Albanian-Romanian Economic Ties!"
+albania.23.t:0 "알바니아-루마니아 경제 협력!"
 albania.23.d:0 "Word has come that the Romanians have decided to accept our offer of trade between Albania and Romania, effectively ensuring better relations between our two nations while also helping spur the development of better economic ties. This will surely be a great economic boon for years to come!"
 albania.23.a:0 "A toast to our Romanian friends!"
 
@@ -103,9 +108,9 @@ albania.24.t:0 "루마니아가 거절하다"
 albania.24.d:0 "Romania has refused our offer of economic ties between our two nations, citing the current concentration of resources to build up their nation internally and recover from the effects of the civil war."
 albania.24.a:0 "이런..."
 
-albania.25.t:0 "Riots Within Albania!"
+albania.25.t:0 "알바니아에서 폭동발생!"
 albania.25.d:0 "Avni Rrustemi, Fan Noli, and the rest of the Unity Party, alongside the lower class, have been violently rioting against our resistance towards land redistribution efforts, citing the current government policy of stalling agrarian reform as “unfair” and “disenfranchising towards a portion of the population”. In addition, after bringing an end to the policy, Vërlaci, the leader of the Progressive Party, has already faced more than a few assassination attempts. If we do not bring about and end to the situation quick, we may face collapse!"
-albania.25.a:0 "Damn them!"
+albania.25.a:0 "망할 놈들!"
 
 albania.26.t:0 "버를라치 암살 시도에 대한 소문"
 albania.26.d:0 "통합당은 토지 재분배가 지연된 현 상황에 매우 강한 불만을 가지고 있으며 진보당이 농지 개혁을 시작할 의도가 없다는 결론에 도달하였습니다. 그 결과 통합당은 스스로 문제를 처리하기 시작했습니다. 버를라치 암살 시도와 진보당을 약화하려는 다른 방법들에 대한 소문이 무성해지고 있습니다..."
@@ -161,9 +166,9 @@ albania.38.t:0 "The Reclamation of Kosovo"
 albania.38.d:0 "Kosovo, the home of the Albanian National Awakening, has been in the hands of the treacherous Serbians for far too long. The land itself is rightfully Albanian, with most, if not all, of the inhabitants considering themselves to, rightfully, be ethnically Albanian. For years, we have had to sit idly, allowing the Serbians to hold on to the area. That ends today."
 albania.38.a:0 "Long live Albania!"
 
-albania.39.t:0 "Albania Has Attacked Us!"
+albania.39.t:0 "알바니아가 우리를 공격했습니다!"
 albania.39.d:0 "In a surprising move, the Albanians have declared war against us in an attempt to secure the rightful Serbian territory of Kosovo which they claim is Albanian. The territory has been with us ever since we had secured a victory against the Ottoman Empire following the conclusion of the Balkan Wars. It is only rightful that we retain the land and we shall do so."
-albania.39.a:0 "We shall never surrender!"
+albania.39.a:0 "우린 절대 항복하지 않을 것이다!"
 
 albania.40.t:0 "Partisan Attack on Newly Established German Schools!"
 albania.40.d:0 "In an attempt to oppose, and destroy, the newly established German schools, Albanian nationalist partisans have taken to vandalising and destroying the property, hoping to scare us off and prevent us from building and funding the construction of German schools."
@@ -197,11 +202,11 @@ albania.47.t:0 "Cementing Our Power"
 albania.47.d:0 "It is clear that we must cement our rule if we are to retain control of the ever turbulent and chaotic nation that is known as Albania. To do so, we shall shut down all organised opposition that may, in the short and long term, pose any sort of threat to us. Of course, this will most certainly not please Albanian nationalists and pro-republicans within the nation."
 albania.47.a:0 "So be it."
 
-albania.48.t:0 "Partisan Attacks!"
+albania.48.t:0 "파르티잔들의 공격!"
 albania.48.d:0 "Partisans, who have not taken kindly to the current changes that we’ve made, have begun to attack various important buildings in an attempt to force us to reverse our policies. This does not come as a shock, as we’ve prepared for this eventuality, but it still sets us back."
 albania.48.a:0 "Blasted nationalists."
 
-albania.49.t:0 "More Partisan Attacks!"
+albania.49.t:0 "더 많은 파르티잔들의 공격!"
 albania.49.d:0 "Partisans have continued to mercilessly attack us, this time focusing their efforts on taking out crucial supply lines which better help us equip troops so as to deal with them. This has set us back by quite a bit and will take some time to recover from."
 albania.49.a:0 "Blasted nationalists."
 
@@ -213,7 +218,7 @@ albania.51.t:0 "German Schools Showing Progress"
 albania.51.d:0 "Due to pursuing our policy of instating and running German schools, alongside making sure that education within Albania, specifically with regards to the attendance of these schools, is compulsory, we have managed to lower illiteracy rates by a great amount. This will, of course, greatly assist us in our efforts in that it will help bring about a more educated, and loyal, populace."
 albania.51.a:0 "Rejoice!"
 
-albania.52.t:0 "Albanian Oil Shipments"
+albania.52.t:0 "알바니아 석유 수송"
 albania.52.d:0 "Due to our control over Albania, with the installation of William of Wied, we have managed to procure oil shipments from Albanian which will most certainly assist us economically in that it will boost our overall industrial production."
 albania.52.a:0 "훌륭하군."
 
@@ -248,14 +253,14 @@ albania.59.a:0 "Thankfully, they're now contained."
 
 albania.60.t:0 "알바니아와의 무역?"
 albania.60.d:0 "Albania has just reached out to us in an attempt to foster relations and help open up trade relations between our two nations. This could certainly help us better fight off the effects of Black Monday while boosting relations between our two nations. With that in mind, we have decided to..."
-albania.60.a:0 "Trade with the Albanians."
-albania.60.b:0 "Not trade with the Albanians."
+albania.60.a:0 "알바니아와 무역한다."
+albania.60.b:0 "알바니아와 무역을 하지않는다."
 
-albania.61.t:0 "Albanian-Sicilian Economic Ties!"
+albania.61.t:0 "알바니아 시칠리아 경제 협력!"
 albania.61.d:0 "Word has come that the Sicilians have decided to accept our offer of trade between Albania and the Two Sicilies, effectively ensuring better relations between our two nations while also helping spur the development of better economic ties. This will surely be a great economic boon for years to come!"
 albania.61.a:0 "A toast to our Sicilian friends!"
 
-albania.62.t:0 "Sicilian Refusal"
+albania.62.t:0 "시칠리아가 거절하였습니다"
 albania.62.d:0 "The Two Sicilies have refused our offer of economic ties between our two nations, citing the current concentration of resources to build up their nation internally and the distance between our two nations."
 albania.62.a:0 "이런..."
 
@@ -270,6 +275,16 @@ albania.64.a:0 "This is a necessary measure."
 albania.65.t:0 "Mass Rioting by the Peasantry"
 albania.65.d:0 "Because of our failure to respond to the crisis within the countryside, we have been faced with mass rioting by the peasantry. This has not helped our political position in the slightest, and has only seen the economic situation rapidly deteriorate, as a result."
 albania.65.a:0 "Dammit!"
+
+albania.66.t:0 "Join [ALB.GetName] in Their War against [BUL.GetName]?"
+albania.66.d:0 "It seems as though the [ALB.GetAdjective]s have begun their campaign of retaking Macedonia, a territory that contains a sizable [ALB.GetAdjective] population, from [BUL.GetName] and have requested that we, as their allies, intervene. While this could prove advantageous in that we have our own interests in [BUL.GetName], being on the losing side of a war is the last thing the [Root.GetAdjective] people desire. What shall we do?"
+albania.66.a:0 "We shall join our gallant [ALB.GetAdjective] allies!"
+albania.66.b:0 "We must decline such an offer."
+
+albania.67.t:0 "Join [ALB.GetName] in Their War against [GRE.GetName]?"
+albania.67.d:0 "It seems as though the [ALB.GetAdjective]s have begun their campaign of retaking Chameria, a territory that contains a sizable [ALB.GetAdjective] population, from [GRE.GetName] and have requested that we, as their allies, intervene. While this could prove advantageous in that we have our own interests in [GRE.GetName], being on the losing side of a war is the last thing the [Root.GetAdjective] people desire. What shall we do?"
+albania.67.a:0 "We shall join our gallant [ALB.GetAdjective] allies!"
+albania.67.b:0 "We must decline such an offer."
 
 ### Focuses ###
 ALB_aftermath_of_black_monday:0 "검은 월요일의 여파"
@@ -500,6 +515,7 @@ ALB_elections_of_1936_done:0 "1936년 알바니아 선거가 끝나다"
 ALB_land_reform_resist_flag:0 "진보당이 토지 개혁에 저항하다"
 ALB_gendarmerie_protection:0 "The gendarmerie shall protect Albania from external and internal threats"
 ALB_restoration_of_wied:0 "비드가 알바니아를 통치하다"
+ALB_albanian_romanian_alliance:0 "알바니아-루마니아 동맹"
 
 ### Tooltips ###
 ALB_black_monday_tt:0 "§RBlack Monday is required for this focus to fire.§!"
