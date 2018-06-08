@@ -19,7 +19,7 @@ balticduchy.1.b:0 "야다, 야다, 그냥 플레이하게 해줘요!"
 
 balticduchy.2.t:0 "공국의 내부 상황"
 balticduchy.2.d:0 "행정적으로, 공국은 두개의 도시, 리가와 레벨과 네 개의 주, 오셀란드, 에스틀란트, 리블란트와 쿠를란트로 나눠집니다. 국가는 매우 중앙집권화되어 있으며, 지방은 권력이 거의 없습니다. 게다가, 지방의 에스토니아인, 라트비아인과의 최근 긴장으로 인해 리블란트와 에스틀란트에 두 개의 특수 보안 사령부가 세워졌습니다."
-balticduchy.2.a:0 "Just what have I gotten myself into?"
+balticduchy.2.a:0 "내가 무슨 일에 휘말린 거지?"
 
 balticduchy.3.t:0 "공국의 전반적인 상황"
 balticduchy.3.d:0 "이 작은 공국은 완전히 안정적이지는 앖습니다. 리투아니아는 바다로의 출구를, 러시아는 발트 지방을 가지기를 원하며 핀란드는 범핀란드-우구리아 계획을 가지고 있습니다. 게다가 에스틀란트, 리블란트, 쿠를란트에 온전히 힘이 미치지 못하는 것은 경제에 심각하게 방해가 될 것입니다. 여러 내부 문제는 말할 것도 없습니다. 이러한 문제들은 향후 계획이 수립되기 전에 해결되어야 합니다."
@@ -125,15 +125,15 @@ balticduchy.79.d:0 "러시아가 우리의 요구를 받아들였습니다. 그�
 balticduchy.79.a:0 "또 다른 외교전의 승리군"
 
 balticduchy.80.t:0 "SOP의 쿠데타!"
-balticduchy.80.d:0 "Our large nationalist SOP movement has decided to step up its operations in order to gain control over our state. They even managed to get part of our armed forces on their side and with their help the pro-Russian nationalists entered our capital. Fortunately large parts of our armed forces are still on our side. Will they succeed and save the United Baltic Duchy?"
-balticduchy.80.a:0 "Putschist overthrows the government!"
-balticduchy.80.b:0 "Armed forces defeat the nationalists!"
+balticduchy.80.d:0 "대규모 민족주의인 SOP 운동은 우리 나라를 차지하기 위해 활동을 강화하기로 결정했습니다. 그들은 심지어 군의 일부를 그들 편으로 끌어들였고 친러 민족주의자들의 도움으로 우리 수도에 들어왔습니다. 다행히도 우리 군의 대부분이 여전히 우리 편에 있습니다. 그들은 과연 성공해서 발트 연합 공국을 구할 수 있을까요?"
+balticduchy.80.a:0 "반란으로 정부가 전복됐다!"
+balticduchy.80.b:0 "군대가 민족주의자들을 물리쳤다!"
 
-balticduchy.81.t:0 "발트에서 친러시아 정부가 세워지다."
+balticduchy.81.t:0 "발트에 친러시아 정부가 세워지다."
 balticduchy.81.d:0 "The Russophile and Latvian-Estonian movement SOP in Pribaltika managed to create a new pro-Russian government which immediately gave us an offer of friendly relations between our states which includes signing an alliance treaty and an exclusive trade agreement."
-balticduchy.81.a:0 "Exert our influence over them!"
-balticduchy.81.b:0 "Force them to join our alliance!"
-balticduchy.81.c:0 "Ignore them..."
+balticduchy.81.a:0 "그들에게 우리의 영향력을 행사하라!"
+balticduchy.81.b:0 "그들이 우리 동맹에 가입하도록 강요하라!"
+balticduchy.81.c:0 "무시하라..."
 
 balticduchy.82.t:0 "러시아 보호령"
 balticduchy.82.d:0 "우리의 정부는 친러시아 성향으로 재편되었습니다"
@@ -144,29 +144,29 @@ balticduchy.83.d:0 "우리 정부는 러시아로부터 동맹을 강요받았�
 balticduchy.83.a:0 "강한 동맹만이 우리를 보호해줄 수 있다!"
 
 balticduchy.84.t:0 "발트 3국의 미래"
-balticduchy.84.d:0 "Our decision to keep an independent Pribaltika, even if under our supervision, was met with with stern disapproval from nationalists and social conservatives. They demand the reintegration of Pribaltika into Mother Russia. How shall we react?"
+balticduchy.84.d:0 "우리의 감독 하에서 발트 지방의 독립을 유지하기로 한 우리의 결정은 민족주의자들과 사회보수주의자들의 강력한 반대에 부딪혔다. 그들은 발트 지방이 어머니 러시아의 것이 되기를 요구합니다. 우리는 어떻게 반응할까요?"
 balticduchy.84.a:0 "재합병을 시작해라!"
 balticduchy.84.b:0 "발트 3국은 독립국으로 남는다!"
 
 balticduchy.85.t:0 "러시아 입법부의 재도입"
-balticduchy.85.d:0 "Russia was forced to reevaluate its stance towards our autonomous status. In preparation for the direct reintegration of our state into Russia we were forced to gradually integrate Russian legislature into our legislative system."
+balticduchy.85.d:0 "러시아는 우리의 자치에 대한 입장을 재평가하지 않을 수 없었습니다. 러시아로의 직접적인 재통합을 준비하기 위해 우리는 러시아 입법부를 우리의 입법 체계에 점진적으로 통합할 수 밖에 없었습니다."
 balticduchy.85.a:0 "따라야만 한다."
 
 balticduchy.86.t:0 "러시아어의 재도입"
-balticduchy.86.d:0 "The reintegration of our state into Russia continues with the reintroduction of the Russian language as the third official language beside Latvian and Estonian."
+balticduchy.86.d:0 "라트비아어와 에스토니아어에 이어 러시아어를 제3공용어로 다시 도입함에 따라 러시아로의 재통합이 계속되고 있습니다."
 balticduchy.86.a:0 "따라야만 한다."
 
 balticduchy.87.t:0 "발트 3국 합병"
-balticduchy.87.d:0 "Our integration policies in the puppet Baltic state were successful and Pribaltika is prepared to be directly absorbed into the Russian state."
+balticduchy.87.d:0 "발트 괴뢰국에서 우리의 통합 정책은 성공적이었고 발트 3국은 러시아에 직접 흡수될 준비가 되었습니다."
 balticduchy.87.a:0 "발트 3국을 합병하라!"
 
 balticduchy.90.t:0 "발트 3국에 거주하는 독일 정착민들"
-balticduchy.90.d:0 "During the existence of the United Baltic Duchy, thousands of Germans were settled in our frontiers, founding many new farms and villages. With our independence regained, however, we could very well seize those lands and redistribute them amongst our own people! However, such a populist move could harm our fragile economy, as a good part of our agricultural production comes from these farms."
+balticduchy.90.d:0 "발트 연합 공국이 있었던 동안 수천명의 독일인들이 국경 지역에 정착해 많은 농장과 마을을 새로 건설했습니다. 하지만 우리가 다시 독립함에 따라, 우리는 그 땅들을 점령하고 국민들에게 재분배할 수 있었습니다! 하지만, 그러한 대중 영합적인 움직임은 우리의 취약한 경제에 해를 끼칠 수 있습니다. 왜냐하면 우리의 농업 생산의 좋은 부분이 이러한 농장들에서 나오기 때문입니다."
 balticduchy.90.a:0 "농장을 압류하고 독일인들을 추방하라"
 balticduchy.90.b:0 "독일 정착민들은 경제에 도움이 된다"
 
 balticduchy.91.t:0 "발트 연방에 거주하는 독일 정착민들"
-balticduchy.91.d:0 "During the existence of the United Baltic Duchy, thousands of Germans were settled in our frontiers, founding many new farms and villages. With our independence regained, however, we could very well seize those lands and redistribute them amongst our own people! However, such a populist move could harm our fragile economy, as a good part of our agricultural production comes from these farms."
+balticduchy.91.d:0 "발트 연합 공국이 있었던 동안 수천명의 독일인들이 국경 지역에 정착해 많은 농장과 마을을 새로 건설했습니다. 하지만 우리가 다시 독립함에 따라, 우리는 그 땅들을 점령하고 국민들에게 재분배할 수 있었습니다! 하지만, 그러한 대중 영합적인 움직임은 우리의 취약한 경제에 해를 끼칠 수 있습니다. 왜냐하면 우리의 농업 생산의 좋은 부분이 이러한 농장들에서 나오기 때문입니다."
 balticduchy.91.a:0 "농장을 압류하고 독일인들을 추방하라"
 balticduchy.91.b:0 "독일 정착민들은 경제에 도움이 된다"
 
