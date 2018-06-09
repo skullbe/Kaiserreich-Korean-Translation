@@ -68,3 +68,8 @@ capt.13.b:0 "We face them here in Africa, then"
 capt.23.t:0 "The Germans Are Not Gone"
 capt.23.d:0 "While the last couple of days since the German collapse have been uncertain, fears that [Root.GetNameDef] would be left to its own devices are unfounded. The main German government has moved to Mittelafrika, and we have restored communications to their officials in Tanganyika. Order, at least for the moment, has been restored."
 capt.23.a:0 "That's a relief...?"
+capt.23.b:0 "We've been abandoned?!"
+
+capt.29.t:0 "Resistance in Paris Collapses"
+capt.29.d:0 "The [Root.GetAdjective] occupation of Paris has been solidified, with the various pockets of resistance having been finally been defeated. The Parisian refusal to admit that they have been defeated once again has finally crumbled in the wake of its inevitability."
+capt.29.a:0 "Excellent"
