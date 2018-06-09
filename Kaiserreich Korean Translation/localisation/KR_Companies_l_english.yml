@@ -104,7 +104,7 @@ ganz_danubius_bosnia:0 "Ganz Danubius"
 ### Brazil ###
 companhia_siderurgica_nacional:0 "Companhia Siderúrgica Nacional"
 universidade_federal_rio_de_janeiro:0 "Universidade Federal do Rio de Janeiro"
-ultra_brazil:0 "Ultra"
+ultra_brazil:0 "울트라"
 imbel:0 "IMBEL"
 taurus:0 "Taurus"
 fabrica_nacional_motores:0 "Fábrica Nacional de Motores"
@@ -115,11 +115,11 @@ estrada_ferro_central_brasil:0 "Estrada de Ferro Central do Brasil"
 ### Bulgaria ###
 bdz:0 "BDZ"
 su_kliment_ohridski:0 "SU Kliment Ohridski"
-petrol_ad:0 "Petrol AD"
+petrol_ad:0 "페트롤 AD"
 vmz_sopot:0 "VMZ Sopot"
 darzhavna_voenna_fabrika:0 "Darzhavna Voenna Fabrika"
 darzhavna_aeroplanna_rabotilnitsa:0 "Darzhavna Aeroplanna Rabotilnitsa"
-kaproni_bulgarski:0 "Kaproni Bulgarski"
+kaproni_bulgarski:0 "카프로니 불가스키"
 
 ### Canada ###
 dominion_steel_and_coal:0 "Dominion Steel & Coal Corporation"
@@ -1151,7 +1151,6 @@ agusta:0 "Agusta"
 scuola_aeronautica_pozzuoli:0 "Scuola Aeronautica di Pozzuoli"
 accademia_navale_taranto:0 "Accademia Navale di Taranto"
 
-
 ### Transamur ###
 hino_automobile:0 "Hino Automobile"
 eastern_siberian_railway:0 "Eastern Siberian Railway"
@@ -1215,7 +1214,6 @@ reggiane_aeronautica_emi:0 "Reggiane Aeronautica"
 uni_parma:0 "Università di Parma"
 chiesi:0 "Chiesi Farmaceutici"
 
-
 ### Tuscany ###
 academia_di_firenze:0 "Accademia Militare di Firenze"
 accademia_navale_livorno_tus:0 "Academia Navale di Livorno"
@@ -1252,6 +1250,9 @@ avions_fairey_WLL:0 "Avions Fairey"
 sabca_WLL:0 "SABCA"
 WLL_Jules_Vincotte_mil_th:0 "Jules Vincotte"
 WLL_Andre_Becquet_mil_th:0 "André Becquet"
+
+### Nejd ###
+mitteleuropa_weaponry:0 "Mitteleuropean Weaponry"
 
 
 
