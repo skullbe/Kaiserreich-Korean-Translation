@@ -129,7 +129,7 @@ AUS_racial_revolts_desc:0 "민족간 갈등이 확대되고 공개 반란을 모
 AUS_elections_decisions:0 "선거 결정"
 AUS_endorse_CS:0 "기독사회당을 지지"
 AUS_endorse_SDAP:0 "SDAP를 지지"
-endorsing_a_party:0 " already endorsing a party"
+endorsing_a_party:0 "은(는) 이미 정당을 지지하는 중입니다."
 
 ### Focuses ###
 AUS_eco_council:0 "경제 부흥 계획"
@@ -218,10 +218,10 @@ AUS_cs_4:0 "SDAP와 타협하다"
 AUS_cs_4_desc:0 "The Socialists have done quite the job stuffing their nonsense into the heads of the lowly cityfolk. Now that we are in power, we have to deal with that. We are meeting with the SDAP people to discuss the institution of some of the reforms they were marching for."
 
 AUS_cs_5:0 "농부들을 위한 지원금"
-AUS_cs_5_desc:0 "The CSP has always been the party of the countryfolk. Socialists concern themselves only with the workers, and the farmers are too often forgotten. We are making this up for them by offering development grants."
+AUS_cs_5_desc:0 "CSP는 항상 시골민들의 당이었습니다. 사회주의자들은 노동자들에게만 관심을 갖고, 농부들은 너무 자주 잊혀집니다. 우리는 그들을 위해 개발 보조금을 제공함으로써 이를 보상할 것입니다."
 
 AUS_cs_6:0 "사회 갈등 봉합"
-AUS_cs_6_desc:0 "All kinds of social classes are blaming each other for the disappearance of wealth, be it monetary or in goods. The Citizen blames the Farmer that he has no food, and the Farmer blames the Citizen that he has no money. Society is split, and only through careful discourse shall it be mended. This is where that arduous journey begins."
+AUS_cs_6_desc:0 "모든 사회 계층이 부나 통화, 또는 상품의 소멸에 대해 서로를 비난하고 있습니다. 시민은 식량이 없다고 농부들을 비난하고, 농부들은 돈이 없다고 시민들을 비난합니다. 사회는 분열되어 있고, 신중한 담론을 통해서만 그것이 조정될 수 있습니다. 이것이 힘든 여정의 시작입니다."
 
 AUS_cs_7:0 "우리가 필요로 하는 것"
 AUS_cs_7_desc:0 "Colonial Empires and the Reichspakt Labour are all fine and dandy, but it is luxury we do not need. You can not live from consuming ivory and cast steel. Germany can go get sunburnt, the man in Vienna knows his place, and want what he truly needs - a functioning economy and society, free from oustside influences."
@@ -229,24 +229,24 @@ AUS_cs_7_desc:0 "Colonial Empires and the Reichspakt Labour are all fine and dan
 ### Military Tree
 
 AUS_military_expansion:0 "오스트리아 군대 확장"
-AUS_military_expansion_desc:0 "The economic woes of the Monarchy since the Weltkrieg has made it difficult for funds to reach the military. With the economic stiuation improving and tensions growing across the continent, military funding has significantly increased, allowing us to finally modernise our forces."
+AUS_military_expansion_desc:0 "세계대전 이후 황가의 경제적 어려움으로 인해 군대에 들어가는 자금의 조달이 어려워졌습니다. 경제 상황이 나아지고 대륙 전역의 긴장이 고조됨에 따라 군사비가 크게 증가하여, 마침내 우리 군대를 현대화할 수 있게 되었습니다."
 
-AUS_military_tech:0 "k.u.k. Technisches Militärkomitee"
-AUS_military_tech_desc:0 "The Imperial & Royal Technical Military Committee, or TMK, with its origins dating from 1717, is an institution of the k.u.k. War Ministry tasked with the observation, development and application of military technology. Their role in modernising our armies is absolutely essential, ensuring that the Monarchy does not fall behind in terms of technological developments and that our troops remain well-equiped."
+AUS_military_tech:0 "k.u.k. 군 기술 위원회"
+AUS_military_tech_desc:0 "1717년부터 시작된 황실 & 왕실 군 기술 위원회 (k.u.k. Technisches Militärkomitee;TMK)는 군사 기술의 감독과 개발, 적용을 담당하는 k.u.k. 전쟁부에 속한 기관입니다. 그들의 역할은 황실이 기술 발전 면에서 뒤쳐지지 않도록 하고 우리 군대가 장비를 잘 갖추도록 하는 것으로, 우리 군대를 현대화하는 데 있어 이는 절대적으로 중요합니다."
 
-AUS_rifle_trials:0 "Rifle Trials"
-AUS_rifle_trials_desc:0 "While the TMK was able to keep the Empire from falling too far behind despite limited resources, the War Ministry has yet to adopt a self-loading rifle for our forces. The committee wishes to rectify this and the Empire's numerous arms company are eager to compete for government contracts. In order to ensure that the best rifle is adopted, the TMK is organising new rifle trials."
+AUS_rifle_trials:0 "소총 시험 평가"
+AUS_rifle_trials_desc:0 "TMK는 제한된 자원으로 제국이 너무 뒤쳐지는 것을 막을 수 있었지만, 전쟁부는 우리 군을 위한 자동 장전 소총을 채택하지 않았습니다. 위원회는 이를 바로잡기를 희망하고 있으며 제국의 수많은 무기 회사들은 정부 계약을 위해 열심히 경쟁하고 있습니다. 최고의 소총이 채택되는 것을 확실히 하기 위해, TMK는 새로운 소총 시험 평가를 준비하고 있습니다."
 
 AUS_artillery_modernisation:0 "야포 현대화"
-AUS_artillery_modernisation_desc:0 "While companies like Škoda and Böhler have been able to keep up with artillery development throughout the world thanks to foreign contracts, most of our artillery dates from the Weltkrieg. With the artillery being one of the most important pieces of military technology, the TMK is eager to replacing the military's ageing guns with modern ones as we expand our arsenal."
+AUS_artillery_modernisation_desc:0 "스코다, 베라 같은 회사들의 해외 계약 덕분에 전 세계적인 야포 발전을 따라잡을 수 있었지만, 우리 야포의 대부분은 세계대전 때의 것입니다. TMK는 포병대가 군사 기술의 가장 중요한 부분 중 하나이므로 우리가 무기고를 확장함에 따라 군대의 노후화된 야포를 현대식 야포로 대체하기를 간절히 바라고 있습니다."
 
 AUS_military_mountaineers:0 "산악 부대 확장"
-AUS_military_mountaineers_desc:0 "The Gebirgstruppe (Mountain Troops) includes some of the Monarchy's most decorated and respected units that repeatedly fought off Italian invasions. As they are essential to the Empire's defence and there are plenty of potential recruits in the Alpine and Carpathian regions, expanding and improving these units are a priority."
+AUS_military_mountaineers_desc:0 "산악 부대(Gebirgstruppe)에는 이탈리아의 침략에 거듭 맞서 싸워 온 황실의 가장 훈장을 많이 받고 존경 받는 부대가 있습니다. 그들은 제국의 방위에 필수적이며, 알프스와 카르파티아 지역에는 많은 잠재적인 신병들이 있기 때문에 이 부대들을 확장하고 개선하는 것이 우선입니다.."
 
 AUS_motorisation:0 "Militär-Automobilwesen Expansion"
 AUS_motorisation_desc:0 "While the Austro-Hungarian Empire were pioneers in adopting automobiles for the military, they were always limited in numbers. The k.u.k. Militär-Automobilwesen is the section of the TMK responsible for the development and deployment of military vehicles. The importance of trucks is already clear to the General Staff and they made the motorisation of the army a priority."
 
-AUS_tank_trials:0 "Tank Trials"
+AUS_tank_trials:0 "전차 시험 평가"
 AUS_tank_trials_desc:0 "With the trauma of the Weltkrieg still fresh for many, tanks were eagerly embraced in the Austro-Hungarian military as their use were proven during the war, with companies such as Škoda and ČKD developing some of the most advanced tank designs in the world. As tank development rapidly advances, the TMK wants to hold trials for new tanks for different purposes."
 
 AUS_radar:0 "Funkgestützte Flugzeugortung"
@@ -297,16 +297,16 @@ AUS_loehr-plan_desc:0 "Generalmajor Alexander Löhr is a proponent of strategic 
 AUS_flugschule:0 "k.u.k. 항공학교 설립"
 AUS_flugschule_desc:0 "While there are numerous flying schools across Austria-Hungary, there has never been a centralised academy to coordinate the training of pilots and officers for the Fliegerkorps. The creation of such an institution is essential to the reforms as it will create a new generation of officers and pilots, while also streamlining the Korps into something less ad-hoc."
 
-AUS_fighter_trials:0 "Fighter Trials"
+AUS_fighter_trials:0 "전투기 시험 평가"
 AUS_fighter_trials_desc:0 "Aircraft development is advancing at an amazing pace. In order to keep up, trials are to be held to adopt a new fighter aircraft for the Fliegerkorps. After all, fighters are arguably the backbone of the air force and will help ensure the safety of our skies."
 
-AUS_light_bomber_trials:0 "Light Bomber Trials"
+AUS_light_bomber_trials:0 "경폭격기 시험 평가"
 AUS_light_bomber_trials_desc:0 "Since supporting operations of the army is a priority for the Fliegerkorps, the adoption of a light bomber aircraft for this role is necessary. Potential designs vary from relatively \"heavy\" two-engine bombers to fighters converted to dive bombers."
 
-AUS_heavy_bomber_trials:0 "Heavy Bomber Trials"
+AUS_heavy_bomber_trials:0 "중폭격기 시험 평가"
 AUS_heavy_bomber_trials_desc:0 "Heavy bombers are a relatively recent development in aircraft technology and proponents of strategic bombing see their potential. Their long range and large bomb loads make them perfect for the role. Thus, trials are being held and aircraft companies are eager to win such a lucrative contract."
 
-AUS_medium_bomber_trials:0 "Medium Bomber Trials"
+AUS_medium_bomber_trials:0 "중형 폭격기 시험 평가"
 AUS_medium_bomber_trials_desc:0 "The potential of a versatile medium two-engine bombers for a variety of different missions has caught the attention of high command. Since a tactical bomber would be very useful for the Fliegerkorps, aircraft manufacturers are, once again, competing in trials for the next generation of bombers."
 
 AUS_phoenix:0 "푀닉스"
@@ -383,7 +383,7 @@ AUS_bohemian_resources:0 "프라하 철광산 확장"
 AUS_bohemian_resources_desc:0 "프라하가 새로운 중앙 정부의 통제를 받으면서, 도시의 철강 생산량이 원래의 생산량과는 거리가 멀다는 것이 분명해졌습니다. 프라하 철광산에 보조금을 지원하려는 새로운 계획이 Kaiserrat에 의해 떠돌았으며 황제와 제국 행정부의 주의를 끌었습니다."
 
 AUS_hungarian_lands:0 "헝가리 산업 재건축"
-AUS_hungarian_lands_desc:0 "헝가리는 주로 농촌 국가이지만, 서쪽에는 민간 산업이 많았습니다. 불행히도 대부분의 전쟁이 일어 났으며 파괴되었습니다. 전쟁으로 파괴된 부다페스트는 제국 정부가 전쟁으로 파괴된 지역을 예전의 영광으로 되돌리기 위한 노력의 중심이 될 것입니다." 
+AUS_hungarian_lands_desc:0 "헝가리는 주로 농촌 국가이지만, 서쪽에는 민간 산업이 많았습니다. 불행히도 대부분의 전쟁이 일어 났으며 파괴되었습니다. 전쟁으로 파괴된 부다페스트는 제국 정부가 전쟁으로 파괴된 지역을 예전의 영광으로 되돌리기 위한 노력의 중심이 될 것입니다."
 
 AUS_extend_hungarian_airbases:0 "헝가리의 하늘"
 AUS_extend_hungarian_airbases_desc:0 "헝가리는 광활한 나라입니다. 특히 루마니아와 발칸 지역의 새로운 위협에 신속히 대처하기는 어렵습니다. 전국의 새로운 비행장 건설은 문제를 해결할뿐만 아니라 지역 경제를 지원하고, 전체적인 재건 노력을 지원할 것입니다."
@@ -414,8 +414,8 @@ AUS_cisleithanian_development_scheme_desc:0 "시스라이타니아 개발 계획
 AUS_the_illyrian_suedbahn:0 "일리리아 지역과 쉬드반(Südbahn)철도 연결"
 AUS_the_illyrian_suedbahn_desc:0 "이미 트리에스테를 향해 확장 중이던 쉬드반(Südbahn,오스트리아 남부 철도)철도를 일리리아와 연결하는 것은 쉬운 일이며, 이는 아그람 지역의 통합과 일리리아 해안선의 제국 중공업에 도움을 주는 동시에, 우리 해군 함선 건조를 가속화시켜줄 것입니다."
 
-AUS_agram_industrial_complex:0 "Agram 산업 단지"
-AUS_agram_industrial_complex_desc:0 "Agram, 또는 자그레브는 일리리아의 수도로 불과 10여 년 전 만들어졌으며, 오스트리아 국경에 가까운 도시이기 때문에 편의상 선택한 것이였지만 모든 일리리아인에게 더 큰 가치를 부여하는 대규모 산업 단지 계획이 새로 제안되었습니다."
+AUS_agram_industrial_complex:0 "아그람 산업 단지"
+AUS_agram_industrial_complex_desc:0 "아그람, 또는 자그레브는 일리리아의 수도로 불과 10여 년 전 만들어졌으며, 오스트리아 국경에 가까운 도시이기 때문에 편의상 선택한 것이였지만 모든 일리리아인에게 더 큰 가치를 부여하는 대규모 산업 단지 계획이 새로 제안되었습니다."
 
 AUS_adriatic_ports:0 "아드리아 항구"
 AUS_adriatic_ports_desc:0 "오스트리아의 꿈 중 하나는 항상 아드리아 해를 지배하는 것이 었습니다. 이탈리아가 크게 약화된 현재 일리리아 해안선이 더 많은 부두와 해군 기지를 건설 할 준비가 되면 이 꿈을 실현할 수 있습니다."
@@ -485,7 +485,7 @@ AUS_decentralised_development_scheme:0 "분산된 개발 계획"
 AUS_decentralised_development_scheme_desc:0 "이제 더이상 우리가 지배하면서 얻는 이익이 당연하다고 주장할 수 없습니다. 우리는 개발을 지원하는 새로운 계획으로 국가의 모든 구성원들의 충성을 확보해야 합니다. 우리의 부의 결실은 모두에게 분배되어야 합니다."
 
 AUS_decentralised_infrastructure:0 "기반시설 구조 개혁"
-AUS_decentralised_infrastructure_desc:0 "제국 내에 공통된 정체성이 생기기 위해서는 우리 땅 어디를 여행하든 문명에서 멀어지지 않도록 낡은 기반 시설을 정비하고 연결하는 것이 현명할 것입니다."
+AUS_decentralised_infrastructure_desc:0 "제국 내에 공통된 정체성이 생기게 하기 위해서는 우리 땅 어디를 여행하든 문명에서 멀어지지 않도록 낡은 기반 시설을 정비하고 연결하는 것이 현명할 것입니다."
 
 AUS_decentralised_military_factories:0 "군비 증강 계획"
 AUS_decentralised_military_factories_desc:0 "우리는 반란과 남용을 막기 위해 너무 오랫동안 작은 지역에 무기 제조 산업을 집중했습니다. 이러한 상황은 반드시 바뀌어야 하며, 주요 일자리 창출자들이 지역에 가져오는 자연적인 혜택은 모두에게 제공되어야 합니다."
