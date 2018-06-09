@@ -241,7 +241,7 @@ AUS_artillery_modernisation:0 "야포 현대화"
 AUS_artillery_modernisation_desc:0 "스코다, 베라 같은 회사들의 해외 계약 덕분에 전 세계적인 야포 발전을 따라잡을 수 있었지만, 우리 야포의 대부분은 세계대전 때의 것입니다. TMK는 포병대가 군사 기술의 가장 중요한 부분 중 하나이므로 우리가 무기고를 확장함에 따라 군대의 노후화된 야포를 현대식 야포로 대체하기를 간절히 바라고 있습니다."
 
 AUS_military_mountaineers:0 "산악 부대 확장"
-AUS_military_mountaineers_desc:0 "The Gebirgstruppe (Mountain Troops) includes some of the Monarchy's most decorated and respected units that repeatedly fought off Italian invasions. As they are essential to the Empire's defence and there are plenty of potential recruits in the Alpine and Carpathian regions, expanding and improving these units are a priority."
+AUS_military_mountaineers_desc:0 "산악 부대(Gebirgstruppe)에는 이탈리아의 침략에 거듭 맞서 싸워 온 황실의 가장 훈장을 많이 받고 존경 받는 부대가 있습니다. 그들은 제국의 방위에 필수적이며, 알프스와 카르파티아 지역에는 많은 잠재적인 신병들이 있기 때문에 이 부대들을 확장하고 개선하는 것이 우선입니다.."
 
 AUS_motorisation:0 "Militär-Automobilwesen Expansion"
 AUS_motorisation_desc:0 "While the Austro-Hungarian Empire were pioneers in adopting automobiles for the military, they were always limited in numbers. The k.u.k. Militär-Automobilwesen is the section of the TMK responsible for the development and deployment of military vehicles. The importance of trucks is already clear to the General Staff and they made the motorisation of the army a priority."
@@ -383,7 +383,7 @@ AUS_bohemian_resources:0 "프라하 철광산 확장"
 AUS_bohemian_resources_desc:0 "프라하가 새로운 중앙 정부의 통제를 받으면서, 도시의 철강 생산량이 원래의 생산량과는 거리가 멀다는 것이 분명해졌습니다. 프라하 철광산에 보조금을 지원하려는 새로운 계획이 Kaiserrat에 의해 떠돌았으며 황제와 제국 행정부의 주의를 끌었습니다."
 
 AUS_hungarian_lands:0 "헝가리 산업 재건축"
-AUS_hungarian_lands_desc:0 "헝가리는 주로 농촌 국가이지만, 서쪽에는 민간 산업이 많았습니다. 불행히도 대부분의 전쟁이 일어 났으며 파괴되었습니다. 전쟁으로 파괴된 부다페스트는 제국 정부가 전쟁으로 파괴된 지역을 예전의 영광으로 되돌리기 위한 노력의 중심이 될 것입니다." 
+AUS_hungarian_lands_desc:0 "헝가리는 주로 농촌 국가이지만, 서쪽에는 민간 산업이 많았습니다. 불행히도 대부분의 전쟁이 일어 났으며 파괴되었습니다. 전쟁으로 파괴된 부다페스트는 제국 정부가 전쟁으로 파괴된 지역을 예전의 영광으로 되돌리기 위한 노력의 중심이 될 것입니다."
 
 AUS_extend_hungarian_airbases:0 "헝가리의 하늘"
 AUS_extend_hungarian_airbases_desc:0 "헝가리는 광활한 나라입니다. 특히 루마니아와 발칸 지역의 새로운 위협에 신속히 대처하기는 어렵습니다. 전국의 새로운 비행장 건설은 문제를 해결할뿐만 아니라 지역 경제를 지원하고, 전체적인 재건 노력을 지원할 것입니다."
