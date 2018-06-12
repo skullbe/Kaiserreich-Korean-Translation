@@ -1,26 +1,26 @@
 l_english:
 
 #### Political Parties ###
-EGY_totalist_party:0 "Egyptian Marxist Organisation"
-EGY_totalist_party_long:0 "Egyptian Marxist Organisation"
-EGY_radical_socialist_party:0 "Workers Committee for National Liberation"
-EGY_radical_socialist_party_long:0 "Workers Committee for National Liberation"
-EGY_syndicalist_party:0 "Egyptian Socialist Party"
-EGY_syndicalist_party_long:0 "Egyptian Socialist Party"
-EGY_social_democrat_party:0 "Hizb al-Masri al-Dimuqrati al-Ijtma'i"
-EGY_social_democrat_party_long:0 "Egyptian Social Democratic Party"
-EGY_social_liberal_party:0 "Hizb al-Ahrar al-Dusturiyyin"
-EGY_social_liberal_party_long:0 "Liberal Constitutional Party"
-EGY_market_liberal_party:0 "Hizb al-Wafd"
-EGY_market_liberal_party_long:0 "Wafd Party"
-EGY_social_conservative_party:0 "Hizb al-Watani"
-EGY_social_conservative_party_long:0 "Watani Party"
-EGY_authoritarian_democrat_party:0 "Hizb al-Ittihad"
-EGY_authoritarian_democrat_party_long:0 "Ittihad Party"
-EGY_paternal_autocrat_party:0 "al-Usra al-'Alawiyya"
-EGY_paternal_autocrat_party_long:0 "Alawiyya Dynasty"
-EGY_national_populist_party:0 "Nationalist Islamic Party "
-EGY_national_populist_party_long:0 "Nationalist Islamic Party"
+EGY_totalist_party:0 "이집트 마르크스주의 기구"
+EGY_totalist_party_long:0 "이집트 마르크스주의 기구"
+EGY_radical_socialist_party:0 "국가 해방 노동자 위원회"
+EGY_radical_socialist_party_long:0 "국가 해방 노동자 위원회"
+EGY_syndicalist_party:0 "이집트 사회당"
+EGY_syndicalist_party_long:0 "이집트 사회당"
+EGY_social_democrat_party:0 "이집트 사회민주당"
+EGY_social_democrat_party_long:0 "이집트 사회민주당"
+EGY_social_liberal_party:0 "자유헌법당"
+EGY_social_liberal_party_long:0 "자유헌법당"
+EGY_market_liberal_party:0 "와프드당"
+EGY_market_liberal_party_long:0 "와프드당"
+EGY_social_conservative_party:0 "와타니당"
+EGY_social_conservative_party_long:0 "와타니당"
+EGY_authoritarian_democrat_party:0 "이티하드당"
+EGY_authoritarian_democrat_party_long:0 "이티하드당"
+EGY_paternal_autocrat_party:0 "알라위야 왕조"
+EGY_paternal_autocrat_party_long:0 "알라위야 왕조"
+EGY_national_populist_party:0 "국민이슬람당"
+EGY_national_populist_party_long:0 "국민이슬람당"
 
 ### Tooltips ###
 unlock_focuses:0 "§GThis focus will eventually be automatically bypassed and will unlock the other focuses§! \n"
@@ -1179,23 +1179,3 @@ egy.179.a:0 "Great!"
 egy.180.t:0 "Waddai refuses to join"
 egy.180.d:0 "The Waddai have decided to refuse our offer to join the Cairo Pact."
 egy.180.a:0 "Damn Waddai"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
