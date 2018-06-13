@@ -12,7 +12,7 @@ taiwan.2.a:0 "쳐부술 것이다!"
 
 taiwan.3.t:0 "타이페이 봉기"
 taiwan.3.d:0 "타이완 사람들이 일본 압제자들에게 대항하여 일어났습니다. 만약 우리가 그들에게 무기와 자원자를 보내는 등 약간의 도움을 준다면 그들이 일본군을 무너트릴 지도 모릅니다. 그렇게 된다면 그 후에 그들은 이 은혜를 잊지 않겠지만, 독립은 유지하고 싶어할 것입니다."
-taiwan.3.a:0 "그들이  필요한 모든 것을 보내라!"
+taiwan.3.a:0 "그들이 필요한 모든 것을 보내라!"
 taiwan.3.b:0 "그런 반란을 도울 수는 없다."
 
 taiwan.4.t:0 "청나라의 도움"
@@ -76,8 +76,8 @@ TAI_KOR_bad:0 "타이완-조선 동맹"
 TAI_KOR_good:0 "타이완-조선 동맹"
 taiwan_volunteer_good:0 "우릴 도와줌"
 taiwan_volunteer_bad:0 "배신자를 도와줌"
-refuse_taiwan_volunteer_bad:0 "도움 요청을 거절함"
-refuse_taiwan_volunteer_good:0 "중립을 유지함"
+refuse_taiwan_volunteer_bad:0 "도움 요청을 거절"
+refuse_taiwan_volunteer_good:0 "중립을 유지"
 FNG_JAP_traitor:0 "배신자"
 
 ### Factions ###
