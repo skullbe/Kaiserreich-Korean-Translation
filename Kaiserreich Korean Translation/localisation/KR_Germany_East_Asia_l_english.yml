@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 ### Parties ###
 GEA_totalist_party:0 "동아시아 전체주의당"
@@ -43,8 +43,8 @@ GEA_I_WANT_BB:0 "§YA powerful battleship under construction, SMS Neckar, will b
 GEA_FLATTOP_HERESY:0 "§RYou are deviating from the orthodox doctrine of the Kaiserliche Marine. This might bring you trouble.§!\n"
 GEA_I_WANT_CARRIER:0 "§YA new battlecruiser under construction will be converted to a flat-top ship.§!\n"
 GEA_new_ship_tooltip:0 "§GNew warships arrived in Singapur.§!\n"
-GEA_Tonkin:0 "Tonkin"
-GEA_Cochinchina:0 "Cochinchina"
+GEA_Tonkin:0 "통킨"
+GEA_Cochinchina:0 "코친차이나"
 
 ### Focuses ###
 GEA_mission1:0 "해군성의 지위"
@@ -206,23 +206,23 @@ GEA_railway_desc:0 "With our last series of investments and new rolling stock we
 
 ### Events ###
 # Introduction event
-Ostasien.1.t:0 "Pearl of the Orient"
+Ostasien.1.t:0 "동방의 진주"
 Ostasien.1.d:0 "Ever since the British collapse in 1926, the Kaiserliche Marine has been the undisputed master of the Eastern Seas, and the guardian of the western order in the Orient. The retreat of the British 'China Station' to Australasia left her Asian colonies and concessions vulnerable to native socialist insurrection, and in need of protection only Germany could offer, completing a string of colonies and concessions from Suez to Tsingtau. This glorious achievement came at a cost, however.\n\nOur expansion in the East was unusual in its rapidity and scale, bringing our jurisdiction over a diverse and complicated series of colonies divorced from their metropole; forced to acknowlege our superiority and yet all too byzantine to reconstruct or totally reorder, lest they collapse and bring our administration with them. Thus, German East Asia exists not as a colony, or even formally as an authority, but instead as a jurisdiction; a stretch of territory in which the relatively impartial admiralty must at once balance local interests, contend with varying colonial systems, and ensure the protection of it all.\n\nDespite our dominance, Japan remains a threat, determined as ever to push us out of the East and claim it for itself; our brave soldiers staring theirs down over the Legation Cities, and our glorious battleships vigilant across the seas.\n\nLooking past matters of internal difficulty, there may yet be a reckoning and it is the Admiralty's duty to ensure that when the time comes, it is ready."
 Ostasien.1.a:0 "Sehr Gut!"
 
 # Black Monday
-Ostasien.2.t:0 "Black Monday!"
+Ostasien.2.t:0 "검은 월요일!"
 Ostasien.2.d:0 "The situation in Germany is dire. After a devastating financial crisis, the German economy is in tatters, and the colonies are sure to follow. We must cut back on much of our spending and immediately look for ways to buttress East Asia's already weakening economy. Recovery could take many years..."
 Ostasien.2.a:0 "Disastrous!"
 
-Ostasien.3.t:0 "The End of the Black Week"
+Ostasien.3.t:0 "검은 주간의 끝"
 Ostasien.3.d:0 "A week has passed since the initial Berlin Stock Market Crash. Rubber and Tin, our main export commodities, have already lost more than half of their pre-Black Monday value due to the collapse of tire demand from the automotive industry. Meanwhile, rice exports to the European market have ground to a halt, leaving tens of thousands of tons rotting in the fields and on the docks. Europeans in Singapore, Saigon, and other cities with few savings and no land ownership gambled and lost everything on the market, and now find themselves little better off than their Indochinese neighbours."
 Ostasien.3.a:0 "Something must be done!"
 
 ### Uprising Chain ###
 # Yen Bai Muytiny
-Ostasien.4.t:0 "Instability in Indochina"
-Ostasien.4.d:0 "Since our expeditionary army destroyed Ho Chi Minh and his syndicalist agitators in Guangzhou ten years ago, Indochina has enjoyed a relatively stable period. But the recent Berlin Stock Market Crash, or Black Monday, has had a devastating impact on the highly commercialised Indochinese economy. Strikes and rice riots are spreading in Tonkin, Annam and Cochinchina. Urban students and intellectuals ask for more freedom. What’s worse, our intelligence suggests some underground revolutionaries are secretly spreading their influence."
+Ostasien.4.t:0 "인도차이나의 불안정"
+Ostasien.4.d:0 "Since our expeditionary army destroyed Ho Chi Minh and his syndicalist agitators in Guangzhou ten years ago, Indochina has enjoyed a relatively stable period. But the recent Berlin Stock Market Crash, or Black Monday, has had a devastating impact on the highly commercialised Indochinese economy. Strikes and rice riots are spreading in Tonkin, Annam and Cochinchina. Urban students and intellectuals ask for more freedom. What's worse, our intelligence suggests some underground revolutionaries are secretly spreading their influence."
 Ostasien.4.a:0 "This colony is notorious for insubordination"
 
 Ostasien.5.t:0 "Nationalist Agitation in Tonkin"
@@ -251,12 +251,12 @@ Ostasien.9.a:0 "Welcome, our puppet emperor"
 Ostasien.9.b:0 "Maybe he should continue his studies"
 
 Ostasien.10.t:0 "Bao Dai's Reforms: The First Step"
-Ostasien.10.d:0 "Having ascended to the throne, Bao Dai has recruited several reform-minded figures into his court, including Neo-traditionalist intellectual Pham Quyhn and Catholic administrator Ngo Dinh Diem. Now his ministers have decided to initiate an administrative reform to revitalise the dysfunctional bureaucratic system. Currently the mandarins in the protectorate of Annam only nominally run the country, while their European advisors hold true power. Bao Dai’s reform will certainly damage the European monopolisation of power."
+Ostasien.10.d:0 "Having ascended to the throne, Bao Dai has recruited several reform-minded figures into his court, including Neo-traditionalist intellectual Pham Quyhn and Catholic administrator Ngo Dinh Diem. Now his ministers have decided to initiate an administrative reform to revitalise the dysfunctional bureaucratic system. Currently the mandarins in the protectorate of Annam only nominally run the country, while their European advisors hold true power. Bao Dai's reform will certainly damage the European monopolisation of power."
 Ostasien.10.a:0 "It is necessary"
 Ostasien.10.b:0 "Stop him. He has gone too far"
 
 Ostasien.11.t:0 "Bao Dai's Reforms: The Second Step "
-Ostasien.11.d:0 "After the administrative reform, Bao Dai’s cabinet has begun to further centralise power. The recent turmoil in Indochina offers him a good excuse. He implores us to grant him authority to set up an imperial police force. Bao Dai and his ministers argue that only imperial police carrying order from the imperial court in Hue can effectively pacify the disobedient peasants and restore order in Annam."
+Ostasien.11.d:0 "After the administrative reform, Bao Dai's cabinet has begun to further centralise power. The recent turmoil in Indochina offers him a good excuse. He implores us to grant him authority to set up an imperial police force. Bao Dai and his ministers argue that only imperial police carrying order from the imperial court in Hue can effectively pacify the disobedient peasants and restore order in Annam."
 Ostasien.11.a:0 "It will help"
 Ostasien.11.b:0 "Giving the Annamese power is dangerous"
 
@@ -267,7 +267,7 @@ Ostasien.12.d:0 "With our forces occupied suppressing the nationalists in Tonkin
 Ostasien.12.a:0 "I sense the calm before the storm"
 
 Ostasien.13.t:0 "Jail-break at Poulo Condor"
-Ostasien.13.d:0 "This morning our central prison on Poulo Condor island reported a mass jailbreak! This was clearly a well-organised action; the prisoners escaped through a tunnel under cover of midnight, then embarked on pre-prepared junks and disappeared into the canal networks and marshes of the Mekong Delta. It’s estimated that some 150 out of the total 25,000 prisoners escaped. Most are left-wing agitators."
+Ostasien.13.d:0 "This morning our central prison on Poulo Condor island reported a mass jailbreak! This was clearly a well-organised action; the prisoners escaped through a tunnel under cover of midnight, then embarked on pre-prepared junks and disappeared into the canal networks and marshes of the Mekong Delta. It's estimated that some 150 out of the total 25,000 prisoners escaped. Most are left-wing agitators."
 Ostasien.13.a:0 "This colony has been nothing but trouble!"
 
 Ostasien.14.t:0 "Binh Dinh Commune movement"
@@ -291,18 +291,17 @@ Ostasien.17.a:0 "They can handle this."
 Ostasien.17.b:0 "Send reinforcements!"
 Ostasien.17.c:0 "A land war in Asia? Tally ho!"
 
-Ostasien.18.t:0 "Situation in Indochina"
-Ostasien.18.d:0 "The uprisings in Indochina have worsened. Hanoi and Saigon have fallen to Vietcong bandits and we are struggling to cope. Despite concerns that this will be considered as a humiliation, a wise move might be to give up control of the region."
+Ostasien.18.t:0 "Indochinese Union sends Peace Initiative"
+Ostasien.18.d:0 "The uprisings in Indochina have worsened. Key positions have fallen to Vietcong bandits and we are struggling to cope. Now Indochinese rebels send us an initiative of peace talk. Despite concerns that this will be considered as a humiliation, a wise move might be to give up control of the region."
 Ostasien.18.a:0 "No, we will keep fighting these rebels!"
-Ostasien.18.b:0 "Time to retreat."
+Ostasien.18.b:0 "We can't afford fighting anymore"
 
-Ostasien.19.t:0 "Situation in Indochina"
-Ostasien.19.d:0 "The situation in Indochina have worsened, Vietcong bandits effectively control most of the land. While our forces are tied down in those remote jungles our security is facing greater threats. It maybe time to retreat."
-Ostasien.19.a:0 "No, we will keep fighting these rebels!"
-Ostasien.19.b:0 "Time to retreat."
+Ostasien.19.t:0 "Peace talk failed"
+Ostasien.19.d:0 "German imperialists refused our peace initiative and decided to continue the war."
+Ostasien.19.a:0 "Only guns can talk to the imperialists!"
 
 Ostasien.20.t:0 "Victory in Indochina"
-Ostasien.20.d:0 "We have fulfilled the mission of forcing German imperialists to withdraw. Indochina is now liberated from the German colonial regime! This is a great victory for our people and a major defeat for the German Imperialists and their lackeys."
+Ostasien.20.d:0 "Germany accepted the peace initiative and retreat from the Indochinese peninsula. We have fulfilled the mission of forcing German imperialists to withdraw. Indochina is now liberated from the German colonial regime! This is a great victory for our people and a major defeat for the German Imperialists and their lackeys."
 Ostasien.20.a:0 "Pickelhaube go home!"
 
 Ostasien.21.t:0 "Good News, Bad News"
@@ -313,13 +312,17 @@ Ostasien.22.t:0 "Victory in Indochina"
 Ostasien.22.d:0 "Our glorious army has managed to thwart the Vietcong revolt in Indochina! This is a glorious day for Germany!"
 Ostasien.22.a:0 "Sehr gut, Kameraden!"
 
+Ostasien.23.t:0 "Eascalation of war in Indochina"
+Ostasien.23.d:0 "With German Empire committing its main force to Indochinese peninsula, the resistance war has escalated to an unprecedented level! But we will triumph, for the just cause of liberation is invincible. It's also rumored that other great powers are trying to transform Indochinese peninsula into a quagmire for Germany..."
+Ostasien.23.a:0 "Fight!"
+
 Ostasien.25.t:0 "Bao Dai Solution" # Extra
 Ostasien.25.d:0 "With Cochinchina fallen to the Vietcong and guerrillas rising everywhere, the whole of Indochina is in a state of emergency. Local elites and anti-syndicalist nationalists have rallied behind Emperor Bao Dai and propose a solution: If we honour the protectorate treaty, which means granting Nguyen Dynasty greater autonomy in Annam as well as Tonkin, they will help to pacify the rural areas, mobilise local resources and defeat the rebels. Otherwise, the prevalent anti-colonialist sentiment will give the Vietcong an edge. Bao Dai's missive ends ominously, stating that if Germany doesn't respond to Vietnamese nationalism, 'Every village will be a nest of resistance, each former collaborator an enemy, and your officials and colonists will themselves seek to leave this atmosphere, which will choke them.'"
 Ostasien.25.b:0 "We can handle it ourselves"
 Ostasien.25.a:0 "We need his help."
 #Ostasien.16.c: "Bao Dai will lead Annam to peace and order (Release & switch to VIE)"
 
-Ostasien.30.t:0 "Falling Price"
+Ostasien.30.t:0 "Falling Prices"
 Ostasien.30.d:0 "The prices of rice and rubber are rapidly falling across the colonies. The farmers and plantation owners, relying on rice and rubber exports, have been hit hard, especially in our two major colonies of Indcohina and Malaya. It's possible to control the price in one colony, but our resources are limited, and this will almost certainly come at the cost of the other?"
 Ostasien.30.a:0 "This is not our business"
 Ostasien.30.b:0 "Protect Indochina"
@@ -426,11 +429,19 @@ Ostasien.68.b:0 "But I don't know anything about Burma!"
 
 
 #decisions
-GEA_indochina_war_decisions:0 "The Indochina War"
+GEA_indochina_war_decisions:0 "인도차이나 전쟁"
 GEA_indochina_war_decisions_desc:0 "The Indochinese insurgency has deteriorated into a full-blown war. However, the war against Vietcong insurgents has no concrete front. Everywhere is a frontline and every peasant wearing a rice hat could be a Vietcong. We must do whatever we can to secure the victory of Kaiserreich. \n\nEstimated §YInsurgency Strength§! in Indochina: §R[?INC.guerilla_activity|-0]§!\n"
 reduce_10_guerilla_tooltip:0 "We estimate this will reduce §YInsurgency Strength§! by §R10§!.\n"
-GEA_suppress_Tonkin:0 "Suppress Vietcong in Tonkin"
+GEA_suppress_Tonkin:0 "통킹에 있는 베트콩 진압"
+GEA_maintain_Tonkin_control:0 "Maintain our control in Tonkin"
 GEA_reinforce_police:0 "Reinforce Police Units"
+GEA_Zeppelin_decision:0 "Deploy Zeppelin Airships"
+GEA_Zeppelin_decision_desc:0 "With the development of naval aviation, the Zepplin airships have been gradually replaced by more advanced maritime patrol planes in Ostasien arsenal. naval reconnaissance task. However, the recent war in Indochina has given birth to a daring idea: Using Zeppelin to patrol over the Indochinese peninsula. These airships could also deliver supplies to isolated garrisons. With the poor anti-air firepower of the rebels, this should be a safe bet."
+GEA_Fernspaher_decision:0 "Form Fernspaher Units"
+GEA_Fernspaher_decision_desc:0 "The growingly intense war in Indochina has exposed the weakness of our army. While our infantry units are well equipped to defend their position against enemy, they are too cumbersome to fight aggressively and flexibly. It's advised that we can select elite soldiers from our armed forces, combining the special skills of Gebirgsjäger and Fallschirmjäger to form our own elite Fernspäher unit to better conduct this kind of missions."
+GEA_reintegrate_Cochinchina_decision:0 "코친차이나 재합병"
+GEA_German_vietnamese_reconciliation_decision:0 "German-Vietnamese Reconciliation"
+GEA_German_vietnamese_reconciliation_decision_desc:0 "The flashback of the counter-insurgency actions in Indochina is haunting Admiral Hellmuth von Mücke and now he felt that he has do something to reconcile the brutal killings. He wants to pursue a popular colonial policy by granting greater local autonomy and promoting German-Vietnamese harmony. By doing so, he hopes to regain the hearts and minds of people in Cochinchina."
 #Fleet Exercise
 #With the arrival of new capital ships, our fleet has experimented and exercised new group tactics. Maybe it's time to have a joint exercise with the High Sea Fleet?
 #Fleet Exercise
@@ -470,7 +481,7 @@ GEA_reinforce_police:0 "Reinforce Police Units"
 
 
 ### Misc Events ###
-Ostasien.100.t:0 "The Grand Parade"
+Ostasien.100.t:0 "대 축제"
 Ostasien.100.d:0 "At 09:00 the Grand Ostasienflotte sallied forth from the Singapur harbour to conduct large scale exercises outside of the city limits. Impressive aerial attack drills were demonstrated by our carrier force complimented by large broadside firing exercises by our battleships. After this was concluded the fleet then set forth to Tsingtau to conduct exercises there as a warning to any and all who threaten us."
 Ostasien.100.a:0 "They would be right to fear our Might"
 
@@ -479,7 +490,7 @@ GEA_start_naval_blockade:0 "Start Naval Blockade"
 GEA_start_naval_blockade_desc:0 "The convoys of the Internationale can enter the South China Sea freely and send secret support to the Indochinese rebels, this can't continue"
 GEA_shelling_on_Saigon:0 "Shelling on Saigon"
 ### Ideas ###
-GEA_colonial_question:0 "Colonial Question"
+GEA_colonial_question:0 "식민지 문제"
 GEA_colonial_question_desc:0 "The amount of manpower our land based arm can recruit is severely limited. Strict regulations regarding foreign nationals joining, and a general lack of willingness by the natives, stifles our attempt to build a larger force."
 GEA_prussian_force:0 "Prussian Thought"
 GEA_prussian_force_desc:0 "It has been decided that the locals are not fit to serve the Grand Admiral or the Kaiser, while this will extensively limit our recruitment it will provide a better quality of soldier."
