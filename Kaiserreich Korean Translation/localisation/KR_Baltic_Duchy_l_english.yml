@@ -597,88 +597,88 @@ BAT_ERP_FM2_desc:0 "Every prosperous country has to rely on its scientists. We h
 BAT_ERP_FM3:0 "사회 투자"
 BAT_ERP_FM3_desc:0 "To solve our economic problems, we need a stable society. Some benefits for the poorest in our Duchy should be established. Everybody deserves at least basic economic security, and this will help maintain order in our population."
 
-BAT_ERP_FM4:0 "Political Establishment"
+BAT_ERP_FM4:0 "정치적 기반"
 BAT_ERP_FM4_desc:0 "Our capitalists are becoming more and more powerful, even starting to influence our politics. If we let them capitalise on that political clout, they will become important and trustworthy allies."
 
-BAT_ERP_End:0 "Recovery from Crisis"
+BAT_ERP_End:0 "위기로부터 회복"
 BAT_ERP_End_desc:0 "Hurrah! Under our wise rule, the Duchy has survived this crisis. It seems, at least for us, that the worst of the Black Monday is over. Prosperity is once more the law of the land, and shall stay so!"
 
-BAT_Army_Start:0 "Baltic Army"
+BAT_Army_Start:0 "발트 군대"
 BAT_Army_Start_desc:0 "Officially, we do have an army. But it actually consists of nothing more than a bunch of young boys with rifles. Military doctrine is the first thing we need to modernise. Decades have passed since the end of the Weltkrieg and our current doctrine is now clearly outdated."
 
-BAT_Army_Cons:0 "Conscription Question"
+BAT_Army_Cons:0 "징병 문제"
 BAT_Army_Cons_desc:0 "Native Balts, the majority of our country's population, are not currently allowed to serve in the army. Should we finally lift some of these restrictions, or should we keep the army the sole affair of the Germans?"
 
-BAT_Army_Cons2:0 "Balts for Baltic Army"
+BAT_Army_Cons2:0 "발트 군대의 발트인"
 BAT_Army_Cons2_desc:0 "Native Balts, the majority of our country's population, are not currently allowed to serve in the army. Enough is enough, we will immediately open up the army's rank, but this may take some time to have an effect."
 
-BAT_Army_Inf1:0 "Modern Equipment"
+BAT_Army_Inf1:0 "현대 장비"
 BAT_Army_Inf1_desc:0 "Most of our troops use clearly obsolete equipment. The Weltkrieg is long over, we need to change our equipment so that our brave soldiers fight with the best money and technology has to offer. We are a militia no more!"
 
-BAT_Army_Inf2:0 "Improve our Training System"
+BAT_Army_Inf2:0 "훈련 체계 개선"
 BAT_Army_Inf2_desc:0 "We should reorganise and modernise our training system. New drilling methods will shorten boot camp times and stronger emphasis on actual combat training will increase the combat readiness of our troops."
 
-BAT_Army_Doc1:0 "War Games"
+BAT_Army_Doc1:0 "전쟁 모의"
 BAT_Army_Doc1_desc:0 "Our military staff still push for old tactics and doctrines. We desperately need to change their minds. If we start organising regular war games, we will slowly but surely force them to adapt to the realities of modern warfare."
 
-BAT_Army_Doc2:0 "Modern Doctrine Effort"
+BAT_Army_Doc2:0 "현대적 교리"
 BAT_Army_Doc2_desc:0 "Now our generals are prepared for the realities of today's warfare. But even better, they now seem to have finally adopted a more innovative and forward-thinking mindset. Let us warmly welcome any suggestions from them, to seek new tactics to implement."
 
-BAT_Army_Mot:0 "Mobile Army"
+BAT_Army_Mot:0 "기동군"
 BAT_Army_Mot_desc:0 "We can significantly improve the speed of our troops by simply adopting motorised vehicles as an integral part of our division design. These new troops will be attached to their trucks as cavalry were with their horses, now we just need to figure out the tactical and organisational details."
 
-BAT_Army_Arm:0 "Armour Blueprints"
+BAT_Army_Arm:0 "전차 설계"
 BAT_Army_Arm_desc:0 "It seems that tanks become more and more powerful and practical every day, not that the Weltkrieg had not already showcased their potential by shattering the tactics of trench warfare. Every modern army will come to rely on them, and so should we. We will build our own."
 
-BAT_Army_Def1:0 "Modern Artillery"
+BAT_Army_Def1:0 "현대 야포"
 BAT_Army_Def1_desc:0 "The artillery cannon will always be useful. But as any kind of equipment, we should seek to modernise it. New artillery will be even more powerful than we can yet imagine, with bigger calibers, bigger guns, and bigger payloads."
 
-BAT_Army_Fort1:0 "Ostwall Fortifications"
+BAT_Army_Fort1:0 "동부장벽 요새화"
 BAT_Army_Fort1_desc:0 "The Ostwall is a concept for a line of fortifications along the Russian border. It will take a long time to complete but the results will be impressive, and its tactical advantages obvious."
 
-BAT_Army_Fort2:0 "Improve Ostwall"
+BAT_Army_Fort2:0 "동부장벽 개선"
 BAT_Army_Fort2_desc:0 "The construction of the Ostwall is now under way. Many workers and soldiers work on it every day. Sooner or later, the work will be complete, but we should be ready to invest additional effort to speed up the project should trouble arise."
 
-BAT_Army_FortGer:0 "Forced Labour"
+BAT_Army_FortGer:0 "강제 노동"
 BAT_Army_FortGer_desc:0 "Our workers are simply too slow. Why are these bloody Balts resting while our German boys are ahead of their schedule? We must force them to work, so the Ostwall will be complete even faster than we have predicted."
 
-BAT_Army_FortBal:0 "Invest in Construction Network"
+BAT_Army_FortBal:0 "건설망에 투자"
 BAT_Army_FortBal_desc:0 "Our workers are simply too slow. If we create even more job vacancies, the work might be done even faster than we have predicted. In all cases, we can only get the work done faster by investing into it selflessly."
 
-BAT_Army_FortComplete:0 "New Ostwall Line"
+BAT_Army_FortComplete:0 "새 동부장벽"
 BAT_Army_FortComplete_desc:0 "The new Ostwall Line is finally complete. Now, our borders are safe and strong. We do not need to fear the Russians anymore, let them come to us. See if they can even set a foot into Livland or Estland."
 
-BAT_RUS_INT1:0 "Russification"
+BAT_RUS_INT1:0 "러시아화"
 BAT_RUS_INT1_desc:0 "The vile Germans are no longer our masters. Russia has shown deep interest in the prosperity of our new state. We should strengthen our ties with them by promoting the Russian culture all across our lands."
 
-BAT_RUS_INT2:0 "Baltic German Question"
+BAT_RUS_INT2:0 "발트계 독일인 문제"
 BAT_RUS_INT2_desc:0 "Baltic Germans always were a minority in our states, propped up by aggressive Germanisation policies from Berlin. Now that the Kaiser's hold on our country has been shattered, what should we do with them?"
 
-BAT_RUS_INT3:0 "Introduce Russian Language"
+BAT_RUS_INT3:0 "러시아어 도입"
 BAT_RUS_INT3_desc:0 "Our Russian masters have encouraged us to embrace the Russian language as our only official language. This will take time and cause some issues, as all our official texts are currently in German or Baltic languages, and a majority of our population is still German or Baltic."
 
-BAT_RUS_INT4:0 "Begin Full Integration"
+BAT_RUS_INT4:0 "완전한 통합 시작"
 BAT_RUS_INT4_desc:0 "Russians gain more and more influence over us every day. It seems that soon we will be integrated into their empire. We should send a delegation to their government to negotiate terms and ensure our autonomy is respected, at least for now."
 
-BAT_RUS_INT5:0 "End of Pribaltika"
+BAT_RUS_INT5:0 "프리발티카의 끝"
 BAT_RUS_INT5_desc:0 "We have been ruled by the Russians for a long time. The very existence of our Baltic country no longer makes any sense. We will send another delegation to Russia to push for the annexation of our country and join our Russian brothers!"
 
-BAT_Army_Mil_Navy1:0 "Baltic Fleet"
+BAT_Army_Mil_Navy1:0 "발트 함대"
 BAT_Army_Mil_Navy1_desc:0 "Since Peter the Great, many naval battles have been fought in the Baltic Sea. We are proud of the prestige and legacy of our navy and we will focus on improving our ships even more."
 
-BAT_Army_Mil_Navy_Old:0 "Naval Traditions"
+BAT_Army_Mil_Navy_Old:0 "해군 전통"
 BAT_Army_Mil_Navy_Old_desc:0 "The power of our navy lies in its traditions. Instead of investing endless funds into new hulls, we can always improve and refit our old ships. A battleship shall always be a battleship."
 
-BAT_Army_Mil_Navy_New:0 "New Naval Technologies"
+BAT_Army_Mil_Navy_New:0 "새로운 해군 기술"
 BAT_Army_Mil_Navy_New_desc:0 "Traditions are good, but we can't afford to forget about new technologies. Instead of praising the old ways, we should invest our funds into some brand new naval technologies like submarines."
 
-BAT_Army_Mil_Navy_Doc:0 "Our Brave Officers"
+BAT_Army_Mil_Navy_Doc:0 "우리 용감한 해군 사관"
 BAT_Army_Mil_Navy_Doc_desc:0 "Our naval officers are some of the best officers of Europe. We should encourage them and create more favourable working conditions for them to encourage them to stay and improve our navy."
 
-BAT_Army_Mil_Navy_Transport:0 "Elite Baltic Marines"
+BAT_Army_Mil_Navy_Transport:0 "정예 발트 해병대"
 BAT_Army_Mil_Navy_Transport_desc:0 "With our long coastline, we will always be threatened by naval invasions. We should teach some of our troops to fight in such conditions and even perform autonomous naval landings."
 
-BAT_Air1:0 "Expand Air Bases"
+BAT_Air1:0 "공군 기지 확장"
 BAT_Air1_desc:0 "Aviation never was our forte, ever since the introduction of airplanes during the Weltkrieg we have been struggling to catch up. We should build some airfields now and start training for the future of warfare."
 
 BAT_Air_CAS:0 "CAS Effort"
@@ -690,13 +690,13 @@ BAT_Air_Fighter_desc:0 "We have not seen the last of the dogfights in the Weltkr
 BAT_Air_Nav_Bomber:0 "Naval Bomber Effort"
 BAT_Air_Nav_Bomber_desc:0 "Ships have proven exceptionally vulnerable to aircrafts. We should keep improving on their technology to ensure we stay ahead of any countermeasures and get the edge in large naval confrontations."
 
-BAT_Air_Doc:0 "Air Innovations"
+BAT_Air_Doc:0 "공군 혁신"
 BAT_Air_Doc_desc:0 "Modern wars cannot be won without dominating the skies. We must do everything in our power to develop the air force until we are able to protect our skies as well as we protect our seas and lands!"
 
 BAT_Air_End:0 "Baltic Aviation"
 BAT_Air_End_desc:0 "Now, that is what we call aviation. Our recent efforts have shown very impressive results. Maybe we are not the kings of the sky, but our pilots can fight well enough to give any enemy plane a run for his money."
 
-BAT_Education_Ger:0 "Education Reform"
+BAT_Education_Ger:0 "교육 개혁"
 BAT_Education_Ger_desc:0 "With more power to the Duke, the time has come for us to rethink our system of education. We have made some great strides in educating the younger masses, but our universities are already full. If we invest some money and open more universities, more people will get a higher education."
 
 ### Ideas ###
