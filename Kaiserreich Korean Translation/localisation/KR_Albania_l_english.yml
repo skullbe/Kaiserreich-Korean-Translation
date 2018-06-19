@@ -507,14 +507,14 @@ ALB_hydroelectricity_idea:0 "수력 발전"
 ALB_hydroelectricity_idea_desc:0 "Through harnessing the potential energy of our rivers through the use of dams, we can allow for the production of cheap energy within our nation, thereby providing all Albanians with access to energy."
 
 ### Flags ###
-ALB_black_monday_hit:0 "검은 월요일이 알바니아를 강타하다."
-ALB_bashkimi_victory_flag:0 "통합당이 선거에서 승리하다"
-ALB_progressive_victory_flag:0 "진보당이 선거에서 승리하다"
-ALB_gendarmerie_protection:0 "헌병대가 알바니아를 보호할 것이다"
-ALB_elections_of_1936_done:0 "1936년 알바니아 선거가 끝나다"
-ALB_land_reform_resist_flag:0 "진보당이 토지 개혁에 저항하다"
-ALB_gendarmerie_protection:0 "헌병대가 알바니아를 내외의 위협에서 보호할 것이다"
-ALB_restoration_of_wied:0 "비드가 알바니아를 통치하다"
+ALB_black_monday_hit:0 "검은 월요일이 알바니아를 강타했습니다."
+ALB_bashkimi_victory_flag:0 "통합당이 선거에서 승리했습니다"
+ALB_progressive_victory_flag:0 "진보당이 선거에서 승리했습니다"
+ALB_gendarmerie_protection:0 "헌병대가 알바니아를 보호할 것입니다"
+ALB_elections_of_1936_done:0 "1936년 알바니아 선거가 끝났습니다"
+ALB_land_reform_resist_flag:0 "진보당이 토지 개혁에 저항합니다"
+ALB_gendarmerie_protection:0 "헌병대가 알바니아를 내외의 위협에서 보호할 것입니다"
+ALB_restoration_of_wied:0 "비드가 알바니아를 통치합니다"
 ALB_albanian_romanian_alliance:0 "알바니아-루마니아 동맹"
 
 ### Tooltips ###
