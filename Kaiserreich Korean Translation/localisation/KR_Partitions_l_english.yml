@@ -80,7 +80,7 @@ part.26.a:0 "스위스에게 반환한다."
 part.26.b:0 "안돼, 제네바는 이제 독일의 것이다!"
 
 part.27.t:0 "오이펜과 말메디"
-part.27.d:0 "The Germans control Eupen-Malmedy, a group of cantons on our eastern border, which has historically always belonged to the Belgian state. If we want to claim it from the Germans we must turn to Russia for support."
+part.27.d:0 "현재 독일은 역사적으로 항상 벨기에에 속해 왔던 동부 국경의 주인 오이펜-말메디를 통치하고 있습니다. 만약 오이펜-말메디의 통치권을 주장하고 싶다면 러시아에 도움을 청해야 합니다."
 part.27.a:0 "오이펜-말메디 주를 요구한다!"
 part.27.b:0 "Our resources are overstretched as they are."
 
@@ -104,7 +104,7 @@ part.31.a:0 "오이펜-말메디는 독일의 것이다!"
 part.31.b:0 "오이펜-말메디는 벨기에의 것이다!"
 
 part.32.t:0 "알자스-로렌"
-part.32.d:0 "현재 독일은 역사적으로 항상 프랑스에 속해 왔던 알자스-로렌을 통치하고 있습니다. 만약 알자스-로렌의 통치권을 주장하고 싶다면 러시아에 도움을 청해야 다."
+part.32.d:0 "현재 독일은 역사적으로 항상 프랑스에 속해 왔던 알자스-로렌을 통치하고 있습니다. 만약 알자스-로렌의 통치권을 주장하고 싶다면 러시아에 도움을 청해야 합니다."
 part.32.a:0 "알자스-로렌을 요구한다!"
 part.32.b:0 "Our resources are overstretched as they are."
 
@@ -530,11 +530,11 @@ part.118.d:0 "As we are establishing the new government of Great Britain we have
 part.118.a:0 "영국을 원상복귀 시킨다!"
 part.118.b:0 "영국이 공화국이 되도록 두자."
 
-part.119.t:0 "Russia has imposed a King on us"
-part.119.d:0 "We will become a monarchy again."
+part.119.t:0 "러시아가 새로운 왕을 선택하도록 두었다"
+part.119.d:0 "우린 다시 왕국이 되었습니다."
 part.119.a:0 "빌헬름 5세 만세!"
 
-part.120.t:0 "러시아가 새로운 대통령을 선택하도록 두었습니다"
+part.120.t:0 "러시아가 새로운 대통령을 선택하도록 두었다"
 part.120.d:0 "우린 다시 공화국이 되었습니다."
 part.120.a:0 "새로운 대통령을 향해 충성!"
 
