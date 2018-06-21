@@ -138,6 +138,7 @@ ott_investigation_idea:0 "수사"
 ott_investigation_idea_desc:0 "얄로바의 왕실 토지 수익을 횡령한 것과 관련하여, 일반 보안 이사회가 이끄는 조사가 현재 진행 중이다."
 
 OTT_Fall_Samarra:0 "Loss of Samarra"
+OTT_Mobilisation:0 "Emergency Mobilisation"
 OTT_Ottoman_Stand:0 "Ottoman-Cairo Pact standoff"
 OTT_Ottoman_Stand_desc:0 "§GThe Ottoman Empire will only surrender when victory is proclaimed in the entire Middle East"
 
@@ -360,6 +361,13 @@ ott.8.a:0 "우리는 그것들을 부숴 버릴 거야!"
 ott.9.t:0 "2차 아라비아 반란!"
 ott.9.d:0 "[GetYear]년에 몇몇 아라비아 부족들은 오스만 제국을 다시 파괴하기 위해 그들의 노력을 통합했습니다. 이번에는 성공할까?"
 ott.9.a:0 "우리는 그것들을 다시 부숴 버릴 거야!"
+ott.9.b:0 "Give them our full support"
+ott.9.c:0 "We'll send them what we can spare"
+ott.9.e:0 "We have far more important matters to attend to"
+
+ott.901.t:0 "[From.GetName] sends support!"
+ott.901.d:0 "Convinced by our plea for support, [From.GetName] has decided to accept our call and send us the weapons we desperately need. Whether it is out of opportunism or in an effort to support old friends is unclear but we're happy nonetheless."
+ott.901.a:0 "Very well"
 
 ott.10.t:0 "아라비아 반란 진압"
 ott.10.d:0 "축하합니다! 우리의 무적의 군대는 베두인군을 성공적으로 패배시켰습니다. 다시 한번 그들의 반란은 헛된 것이었습니다."
@@ -1151,6 +1159,17 @@ ott.183.a:0 "페르시아인들은 그들의 무례함에 댓가를 치룰 것�
 
 ##Axis Localisation##
 
+#OTTOMAN DECISIONS
+Ottoman_Axis_decisions:0 "Middle Eastern Campaign"
+Ottoman_Axis_decisions_desc:0 "Beset from all sides and betrayed by those who we believed to be our staunchest allies, we must now fight for everything that we hold dear. Let us remember those who repelled the British forces at Maraş and let us honor the heroes of Antep as we now face yet another threat to our great nation! For the Sultan and the house of Osman!"
+
+OTT_Emergency_Mobilisation:0 "Emergency Mobilisation"
+OTT_Fortify_Aleppo:0 "Fortify Aleppo"
+OTT_Fortify_Bagdhad:0 "Fortify Bagdhad"
+OTT_Flood_the_Euphrates_Plain:0 "Flood the Euphrates and Tigris Plains"
+OTT_Request_arms_from_the_Reichspakt:0 "Request Arms from the Reichspakt"
+
+#AXIS DECISIONS
 Axis_Advances:0 "오스만 캠페인"
 Axis_Advances_desc:0 "이란, 아라비아, 이집트 그리고 심지어 발칸은 무너져버린 거인을 고통에서 벗어나게 해주기 위해 모두 뭉쳤습니다. 카이로 조약이나 이란의 여러 동맹국들 사이에 긴장이 고조되고 있는 중동의 모습이 어떨지는 분명하지 않지만, 지금은 우리의 공통 목표를 달성하기 위해 모든 적대 행위를 제쳐두고 있습니다:바로 오스만 제국의 멸망.
 
@@ -1231,6 +1250,24 @@ ottaxis.4.d:0 "수도 이스탄불의 근처는 사방의 적들과 전진해오
 ottaxis.4.a:0 "우리는 언젠가 돌아올 것이다!"
 ottaxis.4.b:0 "제국은 발칸의 포식자들을 위해 고개를 숙이지 않는다!"
 
+ottaxis.5.t:0 "Treaty of Edirne : Bulgarian Response"
+ottaxis.5.d:0 "Worn down by the war on the Middle Eastern front and aware that they can't resist our forces on top of the Cairo Pact, the Empire has agreed to cede Edirne to us if we leave the war. While it would be wise to accept this offer before they turn the tide and come for us, this could also be our opportunity to seize Tsarigrad."
+ottaxis.5.a:0 "We accept the treaty"
+ottaxis.5.b:0 "Push the Ottomans out of the entire Balkans!"
+
+ottaxis.6.t:0 "Treaty of Edirne : Bulgaria Refuses"
+ottaxis.6.d:0 "Convinced that they have us pinned down and optimistic about their chances to take more land, Bulgaria has refused all our offers and sworn to continue the war for as long as it takes to get all their claims."
+ottaxis.6.a:0 "Come and get it!" 
+
+ottaxis.7.t:0 "End of an Era"
+ottaxis.7.d:0 "As our enemies reach the our final line of defence in Anatolia, where we bravely resisted the British during the Weltkrieg, it has become clear that we are no longer the great military power of old. With hundreds of thousands of our citizens up in arms, dead or displaced by the war, we have no other choice but to surrender to the invaders and bow our head in shame."
+ottaxis.7.a:0 "Surrender at once"
+
+ottaxis.9.t:0 "Treaty of Istanbul"
+ottaxis.9.d:0 "The Iranians have been driven out of our lands and we now stand victorious in their capital. We could now peace out and take Kurdistan for ourselves or continue the war and fully annex their lands."
+ottaxis.9.a:0 "Take Kurdistan"
+ottaxis.9.b:0 "We fight on!"
+
 ottaxis.100.t:0 "카이로 조약"
 ottaxis.100.d:0 "중동의 영토를 상실하고 아나톨리아와 아시아의 소수 민족들의 불안이 고조되자, 오스만 제국은 오늘 아침 디야르바키르시 근처에서 그들의 항복을 발표했습니다. 우리가 지금 제국의 폐허 위에서 승리를 거두고 있는 동안, 우리 동맹의 균열은 모든 아랍인 페르시아인들이 지중해를 향해 앞으로 나아가고 있다는 주장을 표명함에 따라 더욱 가시화되어가고 있습니다. 우리가 중동에 가져올 동맹과 안정을 유지하려면 조심스럽게 대처해야 할 것입니다."
 ottaxis.100.a:0 "레반트를 받고 나머지는 모두 우리의 동맹국에게 나눠주어라"
@@ -1280,6 +1317,8 @@ ottaxis.110.t:0 "카이로 조약 : 이집트가 헤자즈를 얻다"
 ottaxis.110.d:0 "카이로 조약에서 우리의 동맹국인 국가, 이집트가, 헤자즈를 차지했습니다. 이곳은 이집트가 우리에게 약속한 합법적인 아랍인들의 땅입니다. 이집트는 우리를 존중하지 않으며 카이로 조약 자체조차 존중하지 않습니다."  
 ottaxis.110.a:0 "우리는 혼자서는 살아남을 수 없다. 적어도 우린 이라크를 얻을 수 있다."
 ottaxis.110.b:0 "우리는 이 무례함을 참을 수 없다. 이라크를 점령하고 조약을 떠나자."
+ottaxis.110.a.PER:0 "We cannot survive alone how great this insult may be"
+ottaxis.110.b.PER:0 "We can't stand for this insolence. Leave the Pact immediately!"
 
 ottaxis.120.t:0 "이집트가 반-아라비아 협정을 제안했다"
 ottaxis.120.d:0 "이집트는 우리에게 아라비아에 대한 조약을 제안하기 위해 왔고, 우리가 가입하면 이라크와 바레인에 대한 우리의 요구를 받아들이기로 동의했다."
