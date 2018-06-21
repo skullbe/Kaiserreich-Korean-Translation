@@ -273,13 +273,13 @@ AUS_communications_desc:0 "Since the Weltkrieg began, inventions such as the rad
 AUS_better_support_equipment:0 "화력 지원 최대화"
 AUS_better_support_equipment_desc:0 "Units must be properly equiped to be effective. The more support they have, the better they will perform with less casualties. This not only includes artillery, but trucks to evacuate the wounded, proper reconnaisance and maintenance units, and so on."
 
-AUS_mech_cavalry:0 "기계화된 기병"
+AUS_mech_cavalry:0 "기계화 기병"
 AUS_mech_cavalry_desc:0 "While tanks are strong and all, they require support from the infantry or else they become extremely vulnerable. The infantry must be able to keep up with the tanks, and while trucks are good on roads, a tracked transport vehicle would be idea. Fortunately, a Hungarian unit has rebuilt obsolete tanks and artillery tractors into improvised armoured troop transports, which would fill the gap perfectly."
 
-AUS_kavalleriepanzer:0 "Kavalleriepanzer Project"
+AUS_kavalleriepanzer:0 "기병 전차 계획"
 AUS_kavalleriepanzer_desc:0 "As their name implies, Cavalry tanks effectively fill the role cavalry used to. Austria-Hungary has successfully developed and adopted several designs already and there is little impetus to change this. Since mobility is a key part of our new doctrine, development of new cavalry tanks must be prioritised."
 
-AUS_infanteriepanzer:0 "Infanteriepanzer Project"
+AUS_infanteriepanzer:0 "보병 전차"
 AUS_infanteriepanzer_desc:0 "While the military already has numerous successful cavalry tank designs, the Infantry tank project has been, thus far, unable to provide results. This must be rectified as infantry support is prioritised in our new doctrine and the project should be pushed further. The upcoming designs are becoming heavier and more expensive, but powerful and better protected."
 
 AUS_auftragstaktik:0 "현대 임무형 지휘"
@@ -288,10 +288,10 @@ AUS_auftragstaktik_desc:0 "Auftragstaktik, or Mission-type tactics, have been su
 AUS_aviation_effort:0 "k.u.k. 항공부대"
 AUS_aviation_effort_desc:0 "Formerly known as the k.u.k. Luftfahrtruppen, the Fliegerkorps is the air service of Austria-Hungary. It was stretched thin during the Weltkrieg and had a limited number of aircraft at its disposal. Since the end of the war, little was done to rectify this as funding became scarce. With the military receiving substantial funds once more, modernising and expanding the Fliegerkorps is finally possible."
 
-AUS_uzelac-plan:0 "Uzelac's Ground Support Plan"
+AUS_uzelac-plan:0 "Uzelac's 지상 지원 계획"
 AUS_uzelac-plan_desc:0 "Milan Emil Uzelac is the first commander of the Luftfahrtruppen and remains influential within the General Staff and the Fliegerkorps. He believes that the Fliegerkorps exists mainly to support the army in its operations. Therefore, the air force must focus on fighter aircrafts to maintain air superiority and light bombers to attack enemy positions on the front."
 
-AUS_loehr-plan:0 "Löhr's Offensive Air Plan"
+AUS_loehr-plan:0 "Löhr's 공격적인 공중 계획"
 AUS_loehr-plan_desc:0 "Generalmajor Alexander Löhr is a proponent of strategic bombing and granting the Fliegerkorps further independence from the Army. With heavy bombers, the Fliegerkorps could bring the fight to any enemies of the Monarchy and destroy and military capabilities and morale."
 
 AUS_flugschule:0 "k.u.k. 항공학교 설립"
@@ -347,7 +347,7 @@ AUS_status_quo:0 "현상태 유지"
 AUS_status_quo_desc:0 "10 년 전과 마찬가지로, 행정부 통합 제국에 대한 우리의 협상은 실패했습니다. 우리는 헝가리 지역의 개혁을 통해 둘을 더욱 가깝게 묶는 데 이 이상 많은 시간을 할애할 여유가 없습니다."
 
 AUS_pintsch:0 "Pintsch AG"
-AUS_bayer:0 "Bayer Österreich"
+AUS_bayer:0 "바이엘 외스터라이히"
 
 AUS_all_austrian_development_scheme:0 "전 오스트리아 개발 계획"
 AUS_all_austrian_development_scheme_desc:0 "명목상으로 제국은 한 중앙 정부에 의해 재결합되었지만, 현실은 이와 다릅니다. 옛 영토가 제국 정부와 통합되고 제국의 많은 사람들이 우리 규칙을 받아 들일 시간과 노력이 필요합니다."
@@ -411,7 +411,7 @@ AUS_the_new_Empire_desc:0 "오스트리아는 단순히 지리적 영역이나 �
 AUS_cisleithanian_development_scheme:0 "시슬라이타니아(오스트리아령) 개발 계획"
 AUS_cisleithanian_development_scheme_desc:0 "시스라이타니아 개발 계획은 단순히 헝가리가 우리를 추월하는 것을 차단하는것뿐만 아니라, 시스라이타니아의 여러 지역을 서로 더 가깝게 만들고 경제적으로 제국의 발전된 지역과 동등한 수준으로 끌어 올리는 것을 목표로합니다."
 
-AUS_the_illyrian_suedbahn:0 "일리리아 지역과 쉬드반(Südbahn)철도 연결"
+AUS_the_illyrian_suedbahn:0 "일리리아 지역과 쉬드반철도 연결"
 AUS_the_illyrian_suedbahn_desc:0 "이미 트리에스테를 향해 확장 중이던 쉬드반(Südbahn,오스트리아 남부 철도)철도를 일리리아와 연결하는 것은 쉬운 일이며, 이는 아그람 지역의 통합과 일리리아 해안선의 제국 중공업에 도움을 주는 동시에, 우리 해군 함선 건조를 가속화시켜줄 것입니다."
 
 AUS_agram_industrial_complex:0 "아그람 산업 단지"
@@ -514,7 +514,7 @@ AUS_am_followup_2_desc:0 "비록 힘들었지만, 우리 나라는 지난 몇달
 AUS_am_followup_3:0 "대타협의 끝"
 AUS_am_followup_3_desc:0 "우리는 너무 오랫동안 대타협으로 알려진 이 비웃음거리를 견뎌 왔습니다. 강력하고 통일된 국가로서 미래를 위해 싸우려면 이는 끝나야 합니다. 비록 이 일로 어둠 속으로 뛰어들지라도, 이 복잡한 과정은 결과가 어떻든 멈춰야 합니다."
 
-AUS_am_followup_4:0 "Hungary Yields"
+AUS_am_followup_4:0 "헝가리 지위박탈"
 AUS_am_followup_4_desc:0 "The united front that has arrayed itself against the stubborn Hungarians has finally succeeded. No longer can they hold out against the inevitable, for our nation's greatness has increasingly become clear to all. Even proud Hungary has fallen into line to reap the benefits."
 
 AUS_am_followup_5:0 "세계 속으로"
