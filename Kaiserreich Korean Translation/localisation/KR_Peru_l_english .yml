@@ -1,11 +1,11 @@
 l_english:
 
 ### Ideas ###
-PRU_BM_lvl3:0 "검은 월요일이 안데스 산맥을 강타하다"
+PRU_BM_lvl3:0 "Black Monday Hits the Andes"
 PRU_BM_lvl3_desc:0 "Black Monday hit Peru in an incredibly harsh fashion. We need to take steps to heal the economy!"
-PRU_BM_lvl2:0 "최악은 끝났다"
+PRU_BM_lvl2:0 "The Worst is Over"
 PRU_BM_lvl2_desc:0 "The harshest stage of the recession is behind us, but there is still a long road ahead"
-PRU_BM_lvl1:0 "경제 복구"
+PRU_BM_lvl1:0 "Recovering Economy"
 PRU_BM_lvl1_desc:0 "Our Economy is finally recovering from Black Monday"
 PRU_backontrack:0 "Economy Back on Track"
 PRU_backontrack_desc:0 "Our economy is indeed fully recovered from Black Monday, and the incentives we implemented ensure further growth"
@@ -143,7 +143,7 @@ PRU_coastal_operations_desc:0 "The nature of the Pacific Coast of South America 
 PRU_an_army_of_movement:0 "An Army of Movement"
 PRU_an_army_of_movement_desc:0 "Some military experts say that Modern War is going to be about fast encircling actions and mechanised pincers, and full integration between land and air forces. The officers who support this notion have asked us to officially support their plans to revise our strategic and tactical directives"
 PRU_mechanization_moblity:0 "Mechanisation & Mobility"
-PRU_mechanization_moblity_desc:0 "A key aspect of the doctrine we will adopt will be the fast moving forces that will ensure our victory. And no, we cant use horses, so we'll need a fully mechanised, combat ready infantry force"
+PRU_mechanization_moblity_desc:0 "A key aspect of the doctrine we will adopt will be the fast moving forces that will ensure our victory. And no, we can't use horses, so we'll need a fully mechanised, combat ready infantry force"
 PRU_fast_and_furious:0 "Fast Offensives"
 PRU_fast_and_furious_desc:0 "Our armies will strike in quick and decisive fashion; forced march drills and driving shift training are now among the standard army exercises. Only by outmanoeuvring our foes we can truly ensure victory"
 PRU_localized_pushes:0 "Localised Pushes"
