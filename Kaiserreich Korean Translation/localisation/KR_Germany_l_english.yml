@@ -17,7 +17,7 @@ GER_black_monday1:0 "샤흐트 계획"
 GER_black_monday1_desc:0 "독일국가은행 총재 알마르 샤흐트는 논란 속에서 경기 부양책을 추진했습니다. 그의 노력은 검은 월요일 위기를 최소한 완화하는데 성공한 듯 보이며 공개 시장은 서서히 상승세를 타기 시작했습니다."
 GER_black_monday2:0 "그뢰네 계획"
 GER_black_monday2_desc:0 "빌헬름 그뢰너의 제안으로 징집자들은 일년 동안 노동으로 대체복무를 할 수 있게 되었고, 검은 월요일 위기는 완화되었습니다."
-GER_address_reichstag:0 "제국의회 연설"
+GER_address_reichstag:0 "제국 의회 연설"
 GER_address_reichstag_desc:0 "우리는 검은 월요일 위기를 해결하기 위한 예비 수순들을 시행하고 있지만, 상황은 여전히 심각합니다. 그의 불안정한 건강 상태에도 불과하고, 카이저 빌헬름 2세께서는 제국 의회에게 그들의 첫번째 우선 순위는 가능한 빨리 경제를 바로잡는 것이라고 말씀하셨습니다. 어떤 제안이 받아들여질지는 아직 알 수 없습니다..."																																																																																															  
 german_eco_finished:0 "경기 활성"
 german_eco_finished_desc:0 "우리 경제는 새로운 자극을 받아들였고, 자금이 유입되기 시작했습니다. 그러한 흐름이 계속되지 않겠지만, 당분간은 지금 우리 손에 놓인 예기치 않은 선물을 받아들여야 합니다."
@@ -168,8 +168,8 @@ DKB_said_yes_to_GER_has_oil:0 "돈-쿠반 연방이 우리 경제 사절단을 �
 DKB_said_yes_to_GER_has_oil_2:0 "돈-쿠반 연방이 우리 군사 사절단을 받아들이다"
 VEN_said_yes_to_GER_has_oil:0 "베네수엘라는 우리와의 거래에 동의하다"
 supported_bulgaria:0 "우리는 불가리아에 지원을 제안했습니다"
-FAUD_allow:0 "우리는 FAUD의 활동을 승인했습니다"
-FAUD_ban:0 "FAUD 금지"
+FAUD_allow:0 "FAUD 활동 승인"
+FAUD_ban:0 "FAUD 활동 금지"
 Axis_yes_to_GER:0 "카이로 협약이 우리 제안을 받아들임"
 OTT_yes_to_GER:0 "오스만이 우리 제안을 받아들임"
 GER_gulf_oil_obligations:0 "§G우리는 조약의 조항에 따라 의무를 다할 것입니다.§"
@@ -247,23 +247,23 @@ GER_national_populist_party_long:0 "범 독일 연맹"
 ### Decisions ###
 GER_black_monday_decisions:0 "검은 월요일 사태"
 GER_black_monday_tooltip:0 "검은 월요일 사태는 우리 경제에 큰 타격을 주고 있습니다."
-GER_bm_radio:0 "The Kanzler and the Radio"
-GER_bm_radio_desc:0 "The crisis has shaken the Germans' belief in their country. Public faith is key, so starting weekly radio addresses to announce what steps the government has taken to combat the crisis will help avoid panic and keep trust in our administration."
-GER_bm_halbstarke:0 "Mitigating the Halbstarke Terror"
-GER_bm_halbstarke_desc:0 "With juvenile delinquency rampant, Germany's streets have been unsafe. We must enact an extensive programme of activities to rid our disillusioned youth of violent impulses."
-GER_black_monday_reichstag_decisions:0 "Black Monday Policies"
-GER_black_monday_reichstag_decisions_desc:0 "Black Monday has left the once mighty German economy in shambles, and economic experts say that the implications of the crash will lurk with us for years to come. The time has come to take firm, decisive action through wise statesmanship to fight back and bring some life back into the economy. Several proposals put forward by parties within the Reichstag are being debated to this end. The Kaiser has signaled that he expects action, and is likely to accept any feasible proposal that comes from the deliberations--Even one not fielded by a party found in the Cabinet. \n\nWe can only pass a total of four policies.\n\nPolicies Passed: ([?GER.GER_policies_passed|-0])"
-GER_reichstag_in_progress:0 "Policy Being Implemented"
+GER_bm_radio:0 "재상과 라디오"
+GER_bm_radio_desc:0 "위기는 국가에 대한 독일인들의 믿음을 뒤흔들어 놓았습니다. 국민의 믿음은 핵심입니다. 따라서 정부가 위기에 대처하기 위해 어떤 조치를 취하고 있는지 매주 라디오 연설을 통해 발표하기 시작한다면 공황 상태를 피하고 행정부에 대한 믿음을 유지하는 데 도움이 될 것입니다."
+GER_bm_halbstarke:0 "불량 청소년 테러 근절"
+GER_bm_halbstarke_desc:0 "청소년 범죄가 늘어나면서 독일의 길거리는 안전하지 않게 되었습니다. 우리는 젊은이들이 가지는 폭력 충동을 없애기 위해 광범위한 계획을 세워야 합니다."
+GER_black_monday_reichstag_decisions:0 "검은 월요일 정책"
+GER_black_monday_reichstag_decisions_desc:0 "검은 월요일로 한때 강력했던 독일 경제는 혼란에 빠졌고, 경제 전문가들은 붕괴의 영향이 향후 수년 간 미칠 것이라고 말했습니다. 현명한 정치적 수완을 통해 단호하고 결단력 있는 조치를 취해서 경제에 다시 활력을 불어넣을 때가 왔습니다. 이를 위해 제국 의회 내의 정당들이 제기한 몇몇 제안들이 논의되고 있습니다. 카이저는 그가 조치를 기대하고 있으며, 논의에서 나온 어떤 실현 가능한 제안일지라도 -원외정당의 제안일지라도- 받아들이겠다는 것을 암시했습니다.\n\n총 4개의 정책만을 통과시킬 수 있습니다.\n\n통과된 정책: ([?GER.GER_policies_passed|-0])"
+GER_reichstag_in_progress:0 "정책이 시행 중임"
 GER_bmr_SPD1:0 "SPD: 사회 복지"
-GER_bmr_SPD1_desc:0 "With unemployment soaring to record rates, putting food on the table is becoming difficult for many families. No German should go hungry! Offering emergency assistance to help these people get back on their feet is not only a moral imperative of our administration, but a needed measure to prevent radicalization and bring stability."
+GER_bmr_SPD1_desc:0 "실업률이 기록적인 수치까지 올라가면서, 많은 가정에서는 음식을 식탁에 올리는 것이 어려워지고 있습니다. 어떤 독일인도 굶주려서는 안 됩니다! 이런 이들이 다시 일어설 수 있도록 긴급 지원을 제공하는 것은 우리 정부의 도덕적 의무일 뿐만 아니라 급진화를 막고 안정을 가져오는 데 필수적입니다."
 GER_bmr_SPD2:0 "SPD: 혼합 경제"
-GER_bmr_SPD2_desc:0 "Black Monday has shown that the private sector simply cannot be fully trusted to make good, rational choices. The nationalization of several failing industries within the Reich will bring much needed revenue and allow us to keep some people employed, as well."
+GER_bmr_SPD2_desc:0 "검은 월요일은 민간 분야가 전적으로 더 좋고 합리적인 선택을 하지는 않는다는 것을 보여주었습니다. 제국 내 몇몇 부실 산업을 국유화하는 것은 많은 수익을 가져다 줄 것이며, 일부 사람들이 계속 해고되지 않게 할 수도 있을 것입니다."
 GER_bmr_FVP1:0 "FVP: 8시간 근무제"
-GER_bmr_FVP1_desc:0 "While Industry insists that the ten hour workday is unquestionably needed to maximize productivity, the reality is that squeezing their labor to the bone has done little to stop the current economic crisis. Instituting a fourty-hour workweek will make life easier for the average factory worker, and hopefully force our industry to innovate and improve efficiency instead of simply stagnating."
+GER_bmr_FVP1_desc:0 "산업계에서는 생산성을 극대화하기 위해 당연히 10시간 근무가 필요하다고 주장하고 있지만, 사실 노동력을 뼛속까지 쥐어짜내는 것은 현재 경제 위기를 막는 데에 별로 도움이 되지 않습니다. 주 40시간 근무를 도입하면 평균 공장 근로자들의 생활이 더 나아질 것이며, 우리 산업에 단순히 침체 대신 혁신과 효율 향상을 가져올 수 있을 것입니다."
 GER_bmr_NLP1:0 "NLP: 독일 시장 개방"
-GER_bmr_NLP1_desc:0 "Traditionally, the German Empire has taken a protectionist stance, preferring to sell and trade products within the sphere of Mitteleuropa. According to economist Ludwig von Mises, however, opening our market to the rest of the non-Syndicalist world and slashing barriers to trade has the potential to bring serious benefits. While undoubtedly a silly idea, it might just be worth a try." 
+GER_bmr_NLP1_desc:0 "전통적으로 독일 제국은 보호무역주의적 입장을 견지해왔으며, 생산품의 판매와 거래를 미틀오이로파 내에서 하는 것을 더 선호해왔습니다. 하지만 경제학자 루드비히 폰 미제스의 말에 따르면, 우리 시장을 다른 비생디칼리즘 세계에 개방하고 무역 장벽을 없애는 것은 적지않은 이익을 가져올 가능성이 있습니다. 의심할 필요없이 어리석은 생각이지만, 시도해 볼 만한 가치가 있을지도 모릅니다." 
 GER_bmr_NLP2:0 "NLP: 이지머니"
-GER_bmr_NLP2_desc:0 "In the current economic environment, banks are holding back on loaning money. By lowering interest rates and instituting an Easy Money policy, we can encourage our financial institutions to make riskier loans to citizens and increase cash flow."
+GER_bmr_NLP2_desc:0 "현 경제 환경에서는 은행이 대출을 망설이고 있습니다. 금리를 낮추고 이지머니 정책을 시행해 금융 기관이 시민에게 위험이 큰 대출을 해주고 현금 유동성이 증가하게끔 해야 합니다."
 GER_bmr_ZEN1:0 "젠트룸: 예산 억제"
 GER_bmr_ZEN1_desc:0 "We've faced tough times before, and we'll do it again. By cutting our expenses wherever we can and increasing taxes, we can secure the position of the German state in the face of this crisis... Though it's safe to say that very few people will be happy about this course of action."
 GER_bmr_ZEN2:0 "젠트룸: 쉐이크아웃"
@@ -276,13 +276,13 @@ GER_bmr_DVLP1:0 "DVLP: 경제 동원"
 GER_bmr_DVLP1_desc:0 "Alfred Hugenberg's DVLP has been calling for increased military spending in the midst of Black Monday. The Kaiserreich's military is already substantial, and increasing this even further seems absurd, even if more recruitment could technically solve unemployment. Still, the infamous media magnate might just get his wish if he calls in a few favors."
 
 
-GER_black_monday_mitteleuropa_decisions:0 "Black Monday Crisis in Mitteleuropa"
+GER_black_monday_mitteleuropa_decisions:0 "미틀오이로파 내의 검은 월요일 위기"
 GER_bm_polish_nationalisation:0 "폴란드 접근"
 GER_bm_polish_nationalisation_desc:0 "With the economy slowly finding its track again, the time has maybe come to finally improve our economic ties with Poland. There has been some enthusiasm about this proposal in some circles. The Zentrum politician Heinrich von Brentano in particular has been a leading proponent of the idea."
 
 
-GER_black_monday_colonies_decisions:0 "Black Monday Crisis in the Colonies"
-GER_bm_sale_of_ceylon:0 "Sale of Ceylon"
+GER_black_monday_colonies_decisions:0 "식민지 내의 검은 월요일 위기"
+GER_bm_sale_of_ceylon:0 "실론 섬 매각"
 GER_bm_sale_of_ceylon_desc:0 "Despite its natural resources, as a result of administrative inefficiencies the island of Ceylon is a very unprofitable part of our colonial empire, requiring massive investment every year. However, there have been proposals of selling the island to the Princely Federation - undoubtedly a profitable idea."
 
 GER_foreign_policy_decisions:0 "Germany looking outwards"
@@ -432,7 +432,7 @@ GER_zuse_desc:0 "콘라트 추제는 소위 '계산기'라는 것에 대해 몇�
 GER_kaiser_wilhelm_society:0 "카이저 빌헬름 학회"
 GER_kaiser_wilhelm_society_desc:0 "최근 카이저 빌헬름 과학 발전 학회에 투자하여 다양한 분야에서의 연구 능력이 확대되었습니다. 사회를 국가 주도 연구를 위한 장소라고 홍보한다면, 우리는 신세대 최고의 두뇌를 일부 유치할 수 있을 것입니다."
 GER_black_monday_radio:0 "재상과 라디오"
-#GER_black_monday_radio_desc:0 "The crisis has shaken the German's belief in their country. Reichskanzler von Papen hopes to turn the tide with weekly radio addresses in which he will announce what steps the government has taken to combat the crisis."
+#GER_black_monday_radio_desc:0 "위기는 국가에 대한 독일인들의 믿음을 뒤흔들어 놓았습니다. 국민의 믿음은 핵심입니다. 따라서 정부가 위기에 대처하기 위해 어떤 조치를 취하고 있는지 매주 라디오 연설을 통해 발표하기 시작한다면 공황 상태를 피하고 행정부에 대한 믿음을 유지하는 데 도움이 될 것입니다."
 GER_black_monday_radio_desc:0 "검은 월요일은 국민의 국가에 대한 믿음을 흔들어 놓았습니다. 국민의 신뢰는 핵심입니다. 따라서 주간 라디오 방송을 시작하여 정부가 위기를 타개하기 위해 어떠한 조치를 취했는지 보여준다면 공황 상태를 피하고 정부에 대한 신뢰를 유지하는 데 도움이 될 것입니다."
 GER_groener1:0 "수익성 없는 재산 청산"
 GER_groener1_desc:0 "노련한 정치인 빌헬름 그뢰너는 최근 'Black zero:긴축 정책의 필요성'이라는 제목의 에세이를 출판했는데, 이 에세이는 보조금에 의존하는 일부 기업체들을 단호하게 정리해야 한다고 주장합니다. 그 에세이는 대중들에게서 많은 지지를 받았으며, 이익을 보지 못하는 몇몇 회사들을 청산하는 것이 우리의 지출을 줄이기 위해 필요한 일일지도 모릅니다."
@@ -619,7 +619,7 @@ GER_SA_faction:0 "German Heritage in South Africa"
 
 GER_eth_faction:0 "The Abyssinian Agreements"
 
-GER_AUS_ally:0 "Our German Brothers"
+GER_AUS_ally:0 "우리 독일인 동포"
 
 GER_OTT_ally:0 "Middle Eastern Ties"
 
@@ -635,7 +635,7 @@ POLITICS_ALFRED_HUGENBERG_DESC:0 "크루프 AG의 전 회장인 알프레드 후
 ### Domestic Events ###
 
 gerdom.1.t:0 "독일 제국 헌법"
-gerdom.1.d:0 "북독일 연방에 의해 프랑스 제2제국이 패배한 이후, 북독일 연방의 대표자들과 남부 독일의 4개 주가 1871년 헌법에 서명했습니다. 이 헌법은 남부 독일의 주들을 북독일 연방의 영향 하에 두었고, '도이체스 라이히'라는 새로운 정체성을 부여했습니다. \n\n헌법에 따르면, 제국은 25개의 독일 주가 연합한 국가입니다. 독일 황제의 칭호를 가진 프로이센 왕에 의해 연방회의가 열렸습니다. 황제는 독일의 국가 대표 위원회인 연방 참의원의 의장, 정부 수반인 재상을 임명했습니다. 법은 연방 참의원과 25세 이상의 독일 남성이 선출한 국가의회에 의해 제정되었습니다. \n\n하지만 독일 제국에서 권력을 잡고 있는 사람은 연방 참의원이나 국가의회가 아닌 황제입니다. 독일 제국의 주요 정치 권력이 국민에 의해 선출된 국가의회가 아닌, 변덕으로 국가의회를 해산할 수 있는 선출되지 않은 황제의 손에 있다는 사실은 분명합니다. 또 다른 이슈는 1849년 이래로 변화가 없었던 프러시아의 3급 투표 제도입니다. \n\n카이저라이히가 설립된 지 60년이 지난 지금, 자유주의자들과 사회민주주의자들은 점점 더 이런 상황에 불만을 품고 있고, 우리 헌법은 다음 몇년 안에 크게 개정될지도 모릅니다."
+gerdom.1.d:0 "북독일 연방에 의해 프랑스 제2제국이 패배한 이후, 북독일 연방의 대표자들과 남부 독일의 4개 주가 1871년 헌법에 서명했습니다. 이 헌법은 남부 독일의 주들을 북독일 연방의 영향 하에 두었고, '도이체스 라이히'라는 새로운 정체성을 부여했습니다. \n\n헌법에 따르면, 제국은 25개의 독일 주가 연합한 국가입니다. 독일 황제의 칭호를 가진 프로이센 왕에 의해 연방회의가 열렸습니다. 황제는 독일의 국가 대표 위원회인 연방 참의원의 의장, 정부 수반인 재상을 임명했습니다. 법은 연방 참의원과 25세 이상의 독일 남성이 선출한 제국 의회에 의해 제정되었습니다. \n\n하지만 독일 제국에서 권력을 잡고 있는 사람은 연방 참의원이나 제국 의회가 아닌 황제입니다. 독일 제국의 주요 정치 권력이 국민에 의해 선출된 제국 의회가 아닌, 변덕으로 제국 의회를 해산할 수 있는 선출되지 않은 황제의 손에 있다는 사실은 분명합니다. 또 다른 이슈는 1849년 이래로 변화가 없었던 프러시아의 3급 투표 제도입니다. \n\n카이저라이히가 설립된 지 60년이 지난 지금, 자유주의자들과 사회민주주의자들은 점점 더 이런 상황에 불만을 품고 있고, 우리 헌법은 다음 몇년 안에 크게 개정될지도 모릅니다."
 gerdom.1.a:0 "최소한, 헌법의 안정은 보장한다."
 
 gerdom.2.t:0 "한스 폰 젝트 사망"
@@ -674,7 +674,7 @@ gerdom.11.a:0 "우리 농민을 보호해야 한다"
 gerdom.11.b:0 "우리는 제국협정의 유대 관계를 위험에 빠뜨리지 않을 것입니다."
 
 gerdom.12.t:0 "여성 참정권 운동 증가"
-gerdom.12.d:0 "최근 여성에게 투표권과 공직에 출마할 수 있는 권리를 주고자 하는 사람들인 여성 참정권 지지자들의 활동이 늘어나고 있습니다. 독일 제국에 어려운 시기에 최선의 해결책을 선택하는 것은 쉽지 않습니다. 그들이 요구하는 것을 허용하는 것은 우리 정부의 더 보수적인 구성원들, 특히 국가의회의 의원들을 화나게 할 것입니다. 반면에, 보복 조치가 뒤따르는 단호한 거절은 폭동과 더 많은 항의를 야기할 수도 있습니다. 특히 (여성의 참정을 허용하는) 더 진보적인 국가에서는 말입니다..."
+gerdom.12.d:0 "최근 여성에게 투표권과 공직에 출마할 수 있는 권리를 주고자 하는 사람들인 여성 참정권 지지자들의 활동이 늘어나고 있습니다. 독일 제국에 어려운 시기에 최선의 해결책을 선택하는 것은 쉽지 않습니다. 그들이 요구하는 것을 허용하는 것은 우리 정부의 더 보수적인 구성원들, 특히 제국 의회의 의원들을 화나게 할 것입니다. 반면에, 보복 조치가 뒤따르는 단호한 거절은 폭동과 더 많은 항의를 야기할 수도 있습니다. 특히 (여성의 참정을 허용하는) 더 진보적인 국가에서는 말입니다..."
 gerdom.12.a:0 "지원할 만한 이유다"
 gerdom.12.b:0 "무언가 약속하고, 무엇도 하지 마라"
 gerdom.12.c:0 "그녀들은 이미 충분히 가지지 않았나?!"
@@ -707,7 +707,7 @@ gerdom.16.g:0 "항공모함 건조를 속행한다."
 gerdom.16.h:0 "더 많은 구축함."
 gerdom.16.i:0 "더 많은 잠수함."
 gerdom.16.j:0 "계획을 폐기하라!"
-gerdom.16.k:0 "There is nothing we CAN do until Kiel is back under our control..."																				  
+gerdom.16.k:0 "킬이 우리 통제 하에 들어올 때까지 우리가 할 수 있는 일은 아무 것도 없다..."
 
 ### Schleicher and the GVLP ###
 
@@ -752,7 +752,7 @@ gerdom.32.a:0 "우리가 파리에 입성할 때까지 선거는 없다!"
 ### Election of 1937 ###
 
 gerdom.33.t:0 "1942년 총선"
-gerdom.33.d:0 "오늘 독일인들은 대표를 선출해 국가의회로 보낼 것입니다! 선거가 치열하게 치루어졌고, 많은 사람들이 선거 결과를 기대하게 있습니다. 몇몇 정당은 물론 카이저라이히의 운명도 오늘 결정될 것입니다. \n\n만약 사회민주주의자들이 충분한 표를 확보한다면, 자유민주주의자들 중 '현실적인' 자들이 그들과 연합을 이룰 것입니다. 또 다른 가능성은 아프리카의 사랑 받는 사자인 파울 폰 레토프-포어베크가 이끄는 DKP의 우위에 대항하기 위해 거의 모든 자유주의 정당과 부르주아 정당-NVP, FVP, BVP-이 대연정을 하는 것입니다. 아니면 DKP가 안정적으로 대다수를 차지할 것입니다. \n\n어느 정당이 이길까요?"
+gerdom.33.d:0 "오늘 독일인들은 대표를 선출해 제국 의회로 보낼 것입니다! 선거가 치열하게 치루어졌고, 많은 사람들이 선거 결과를 기대하게 있습니다. 몇몇 정당은 물론 카이저라이히의 운명도 오늘 결정될 것입니다. \n\n만약 사회민주주의자들이 충분한 표를 확보한다면, 자유민주주의자들 중 '현실적인' 자들이 그들과 연합을 이룰 것입니다. 또 다른 가능성은 아프리카의 사랑 받는 사자인 파울 폰 레토프-포어베크가 이끄는 DKP의 우위에 대항하기 위해 거의 모든 자유주의 정당과 부르주아 정당-NVP, FVP, BVP-이 대연정을 하는 것입니다. 아니면 DKP가 안정적으로 대다수를 차지할 것입니다. \n\n어느 정당이 이길까요?"
 gerdom.33.a:0 "SPD와 '현실주의자' FVP!"
 gerdom.33.b:0 "사자의 포효! 새로운 대연정!"
 gerdom.33.c:0 "오랜 벗 DKP."
@@ -782,8 +782,8 @@ gerdom.37.a:0 "우리가 파리에 입성할 때까지 선거는 없다!"
 
 # ### Election of 1947 ###
 
-# gerdom.36.t:0 "1947 German Elections"
-# gerdom.36.d:0 "Today the German people will elect their representative to the Reichstag! A tightly fought election this 1947 election might yet bring surprising results for the Kaiserreich. Will the coalition of centre-left parties emerge victorious or will the more hard-line parties win the election?"
+# gerdom.36.t:0 "1947년 독일 선거"
+# gerdom.36.d:0 "오늘 독일인들은 대표를 선출해 제국 의회로 보낼 것입니다! 1947년 선거가 치열하게 치루어졌고, 이는 카이저라이히에 놀라운 결과를 가져올지도 모릅니다. 중도 정당과 좌파 정당의 연합이 이길까요? 아니면 더 강경한 정당들이 선거에서 이길까요?"
 # gerdom.36.a:0 "The Grand Reform Coalition, SPD, FVP, and NLP wins!"
 # gerdom.36.b:0 "The Moderate Reform coalition, Zentrum, NLP, and FVP wins!"
 # gerdom.36.c:0 "The Hardline Conservative Coaltion, DKP, AV, and Zentrum"
@@ -925,8 +925,8 @@ gerdom.75.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계획
 gerdom.75.a:0 "제한적 자치권을 부여하라"
 gerdom.75.b:0 "직접 통치하에 두어라”
 
-#gerdom.76.t:0 "Status of Somaliland"
-#gerdom.76.d:0 "With our decision to implement Kaiserbund project we still have to decide extent of its implementation on various fringe regions under our control. One such region is the German Somaliland. While admirals of Kaiserliche Marine are arguing for keeping this territory under our direct control as a way to keep Gulf of Aden under our control, the most of politicians would rather cut down our expenses with administration of this territory even at cost of diminishing our presence in this area."
+#gerdom.76.t:0 "소말리아의 지위"
+#gerdom.76.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계획을 독일 통제 하에 있는 여러 주변 지역에 얼마나 적용할 것인지 결정해야 합니다. 그 중 하나는 독일령 소말리아입니다. 카이저리헤 마리네의 사령관들은 걸프만을 통제 하에 두기 위해 이 영토를 계속 직접 통치하자고 주장하고 있지만, 대부분의 정치인들은 이 지역에서 독일의 주둔군이 사라짐으로써 생기는 비용을 감수하더라도 소말리아 행정에 쓰이는 비용을 없앨 것입니다."
 
 gerdom.77.t:0 "중앙 아프리카 개편"
 gerdom.77.d:0 "독일로부터 내려온 새로운 질서에 맞추어 우리의 내부 구조를 개편해야 합니다..."
@@ -1592,7 +1592,7 @@ gerfor.118.a:0 "정말 고집불통이군."
 
 gerfor.119.t:0 "유전 지대의 보호를 보장"
 gerfor.119.d:0 "러시아는 소위 검은 황금이 엄청나게 풍부한 바쿠 유전을 통제하는 아제르바이잔을 위협하고 있습니다. 우리는 러시아가 이 유전을 쓰지 않도록 보장해야 하며 가능하다면 유전을 확보해야 합니다. 우리는 아제르바이잔의 생존과 그들이 보유하고 있는 석유를 보장함으로써 아제르바이잔과 최선의 방법을 협상하기 위해 바쿠에서 회의를 가질 예정입니다."
-gerfor.119.a:0 "It's Baku or bust."
+gerfor.119.a:0 "바쿠가 아니면 죽음이다."
 
 gerfor.120.t:0 "독일이 바쿠 회담을 제안하다"
 gerfor.120.d:0 "독일은 바쿠에서 열린 회의에 대한 제안으로 우리에게 왔습니다. 우리와 독일 대표가 유일한 참석자가 될 것이고 우리는 러시아가 더이상 우리를 위협하지 않도록 하기 위한 방법과 유전의 미래를 협상하려고 할 것입니다. 우리는 어떻게 대응해야 할까요?"
