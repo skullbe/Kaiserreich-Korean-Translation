@@ -270,8 +270,8 @@ AUS_doctrine_von_Hubicki_desc:0 "General der Kavallerie Alfred von Hubicki, curr
 AUS_communications:0 "통신 향상"
 AUS_communications_desc:0 "Since the Weltkrieg began, inventions such as the radio has made communications between commanders and troops far easier. With better communications, high command can react to unforseen events far more quickly, limit the damage they can cause, and counter."
 
-AUS_support_equipment:0 "화력 지원 최대화"
-AUS_support_equipment_desc:0 "Units must be properly equiped to be effective. The more support they have, the better they will perform with less casualties. This not only includes artillery, but trucks to evacuate the wounded, proper reconnaisance and maintenance units, and so on."
+AUS_better_support_equipment:0 "화력 지원 최대화"
+AUS_better_support_equipment_desc:0 "Units must be properly equiped to be effective. The more support they have, the better they will perform with less casualties. This not only includes artillery, but trucks to evacuate the wounded, proper reconnaisance and maintenance units, and so on."
 
 AUS_mech_cavalry:0 "기계화된 기병"
 AUS_mech_cavalry_desc:0 "While tanks are strong and all, they require support from the infantry or else they become extremely vulnerable. The infantry must be able to keep up with the tanks, and while trucks are good on roads, a tracked transport vehicle would be idea. Fortunately, a Hungarian unit has rebuilt obsolete tanks and artillery tractors into improvised armoured troop transports, which would fill the gap perfectly."
