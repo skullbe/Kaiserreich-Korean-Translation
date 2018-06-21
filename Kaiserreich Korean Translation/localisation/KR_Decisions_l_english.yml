@@ -2,7 +2,7 @@ l_english:
 
 ### Tooltips ###
 KR_improving_stability:0 "이미 안정도를 올리고 있습니다"
-has_vg_stability:0 "§Y정말 좋은 안정도§를 가지고 있습니다!"
+has_vg_stability:0 "§Y매우 좋은 안정도§를 가지고 있습니다!"
 
 ### Decisions ###
 legislate_more_freedoms:0 "자유 법률 제정"
