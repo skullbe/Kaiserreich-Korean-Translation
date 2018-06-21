@@ -53,7 +53,6 @@ HOL_idea_instability_above_50_desc:0 "극좌 세력과 극우 세력이 거리�
 HOL_idea_mobilisation_timetables:0 "동원 통계"
 HOL_idea_mobilisation_timetables_desc:0 "동원 과정에서 일정 및 계획을 더 효율적으로 짤 수 있도록 함으로써 동원 과정을 더 빠르고 덜 번거롭게 만들 수 있습니다."
 
-
 ### Political ideas ###
 HOL_idea_ambtenarenverbod:0 "공무원 규제령"
 HOL_idea_ambtenarenverbod_desc:0 "공무원 규제령은 민주주의 가치에 반하는 사상의 성장을 중단하려는 의도로 계획되었으며, 정부 관리들이 어떠한 극좌 또는 극우 성향의 단체에도 가입하지 못하도록 합니다."
@@ -147,17 +146,29 @@ HOL_idea_ship_a_day_tactics_desc:0 ""
 HOL_idea_convoy_sailing:0 "Convoy Sailing Tactics"
 HOL_idea_convoy_sailing_desc:0 ""
 
-HOL_destroyer_ASW_design:0 "Anti Submarine Warfare destroyer designs"
 HOL_destroyer_AA_design:0 "Anti Aircraft destroyer designs"
 HOL_rdm_submarines_1:0 "RDM Onderzeebootloods"
 HOL_rdm_submarines_2:0 "RDM Onderzeebootloods"
-HOL_light_cruiser_design_1:0 "Quality Light Cruisers"
-HOL_light_cruiser_design_2:0 "Cheap Light Cruisers"
+HOL_rdm_submarines_1_flotilla_leaders:0 "Rotterdamsche Droogdok Maatschappij"
+HOL_rdm_submarines_2_flotilla_leaders:0 "Rotterdamsche Droogdok Maatschappij"
+HOL_rdm_submarines_1_asw:0 "Rotterdamsche Droogdok Maatschappij"
+HOL_rdm_submarines_2_asw:0 "Rotterdamsche Droogdok Maatschappij"
+HOL_rdm_submarines_1_flotilla_leaders_asw:0 "Rotterdamsche Droogdok Maatschappij"
+HOL_rdm_submarines_2_flotilla_leaders_asw:0 "Rotterdamsche Droogdok Maatschappij"
+HOL_rdm_asw_destroyers:0 "Rotterdamsche Droogdok Maatschappij"
+HOL_rdm_asw_destroyers_flotilla_leaders:0 "Rotterdamsche Droogdok Maatschappij"
+HOL_rdm_flotilla_leader_cruisers:0 "Rotterdamsche Droogdok Maatschappij"
+HOL_wf_expensive_cruisers:0 "Wilton Fijenoord"
+HOL_wf_cheap_cruisers:0 "Wilton Fijenoord"
+HOL_wf_coastal_defence_pantserschip:0 "Wilton Fijenoord"
+HOL_wf_expensive_cruisers_coastal_defence_pantserschip:0 "Wilton Fijenoord"
+HOL_wf_cheap_cruisers_coastal_defence_pantserschip:0 "Wilton Fijenoord"
+HOL_wf_anti_air_pantserschip:0 "Wilton Fijenoord"
+HOL_wf_expensive_cruisers_anti_air_pantserschip:0 "Wilton Fijenoord"
+HOL_wf_cheap_cruisers_anti_air_pantserschip:0 "Wilton Fijenoord"
 HOL_light_cruiser_design_AA:0 "AA cruiser"
 HOL_pantserschip_design_1:0 "Coastal Defence Pantserschip"
 HOL_pantserschip_design_2:0 "AA-oriented Pantserschip"
-HOL_idea_flotilla_leader_design:0 "Flotilla Leader Cruisers"
-
 
 ### Air ideas ###
 HOL_idea_huisje_boompje_beestje:0 "Huisje-Boompje-Beestje Tactics"
@@ -166,6 +177,12 @@ HOL_idea_luchtkruiser_tactics:0 "Luchtkruiser tactics"
 HOL_idea_luchtkruiser_tactics_desc:0 ""
 HOL_idea_luchtvaartacademie:0 "Luchtvaartacademie Established"
 HOL_idea_luchtvaartacademie_desc:0 ""
+
+### Focus Trees ###
+
+HOL_rightwing_focus:0 "Reactionary Netherlands"
+HOL_socdem_focus:0 "Social Democratic Netherlands"
+HOL_syndicalist_focus:0 "Leftist Netherlands"
 
 ### Focuses ###
 HOL_left_list_victorious:0 "좌파의 승리"
@@ -840,10 +857,15 @@ HOL_council_communist_long:0 "네덜란드 공산노동당"
 holst.1.t:0 "1936년 네덜란드"
 holst.1.d:0 "네덜란드는 세계대전 동안 독일 편에 붙자는 논의가 있었음에도 불구하고 중립을 유지한 유럽의 몇 안되는 국가 중 하나입니다. 세계대전이 끝난 후 네덜란드는 경제 호황의 혜택을 맛보았지만, 경제의 상당 부분이 독일 회사의 대규모 투자와 함께 독일인의 손에 놓여 있습니다. 게다가 1920년대에 프랑스가 무너지고 영국이 생디칼리즘에 물드면서 좌익 사상이 네덜란드에서 크게 관심을 끌고 있으며 반동적인 사상에도 점점 탄력이 붙고 있습니다. 국제적 긴장도가 높아지고 경제 번영이 끝나면서 네덜란드의 민주주의는 확실히 시험받을 것입니다."
 holst.1.a:0 "여왕 폐하 만세!"
+holst.1.b:0 "정치관련 중점은 어디있어요?"													
+
+holst.10001.t:0 "유동적인 중점트리"
+holst.10001.d:0 "The Netherlands is making use of a new features in the 1.5 patch; dynamic focus trees! This lets us load parts of a focus tree on the fly enabling us to make larger focuses trees without having to show all of it at once. This can save a lot of scrolling but also preserve surprise about what paths lie ahead. For the Netherlands, the political focuses are hidden until they are available to you, so don't worry about not being able to see them right away, they'll be revealed in time..."
+holst.10001.a:0 "정말 멋지네요!"
 
 holst.2.t:0 "베를린 증권 거래소의 붕괴!"
 holst.2.d:0 "1936년 2월 3일, 베를린 증권 거래소가 붕괴하면서 세계는 공황에 빠졌습니다. 이 일은 이미 '검은 월요일' 붕괴라고 불리고 있습니다. 우리나라는 라이히와 경제적으로 강하게 묶여있으며, 많은 독일 회사들은 이제 네덜란드에 있는 공장을 닫으면서 수십만명을 실업 상태로 내몰고 있습니다. 우리 나라의 은행은 큰 영향을 받았으며 그 영향은 이미 전국적으로 분명해지고 있습니다."
-holst.2.a:0 "This could be bad."
+holst.2.a:0 "이거 좋지 않군."
 
 holst.3.t:0 "요르단 폭동"
 holst.3.d:0 "전통적으로 사회주의의 근거지인 암스테르담의 요르단 지구에서 폭력 사태가 일어났습니다.\n\n현 정부의 실업 대책이 불충분하다는 불만은, 아마 생디칼리즘이나 공산주의 단체들이 자극하고 선동한 후, 대중 시위로 발전했습니다. 이 시위는 검은 제복을 입은 여러 무리의 젊은이들이 골목에서 나와 곤봉, 벽돌, 깨진 병을 들고 사람들을 덮치면서 폭동으로 바뀌었습니다.\n\n경찰이 질서를 회복시키지 못하자 시장은 사람들을 해산시키기 위해 몇몇 부대를 소집해야 했습니다."
@@ -2607,19 +2629,19 @@ hol_likes_govt:0 "Likes Government"
 FLEET_NAME_HOL:0 "Vloot"
 
 ### Netherlands Decisions ###
-HOL_economic_decisions:0 "Economic Decisions"
+HOL_economic_decisions:0 "경제 결단"
 HOL_willemstad_refinery_decision:0 "빌렘스타트에 정유소 건설"
 HOL_willemstad_refinery_decision_desc:0 ""
-HOL_army_decisions:0 "Army Decisions"
+HOL_army_decisions:0 "군사 결단"
 HOL_vesting_holland:0 "홀란드 요새 건설"
-HOL_naval_decisions:0 "Naval Decisions"
+HOL_naval_decisions:0 "해군 결단"
 HOL_batteryships:0 "Ready Batteryships"
 HOL_scrap_capital_ships:0 "주력함 폐기"
-HOL_develop_bauxite_suriname:0 "Improve mining output in Suriname"
+HOL_develop_bauxite_suriname:0 "수리남 자원채취율 향상"
 
 ### OTHER STUFF ###
-radical_socialist_acceptance:0 "§Y급진사회주의§!의 수용"
-syndicalist_acceptance:0 "§Y생디칼리즘§!의 수용"
-totalist_acceptance:0 "§Y전체주의§!의 수용"
-paternal_autocrat_acceptance:0 "§Y세습전제주의§!의 수용"
-national_populist_acceptance:0 "§Y국가인민주의§!의 수용"
+radical_socialist_acceptance:0 "§Y급진사회주의§! 수용"
+syndicalist_acceptance:0 "§Y생디칼리즘§! 수용"
+totalist_acceptance:0 "§Y전체주의§! 수용"
+paternal_autocrat_acceptance:0 "§Y세습전제주의§! 수용"
+national_populist_acceptance:0 "§Y국가포퓰리즘§! 수용"
