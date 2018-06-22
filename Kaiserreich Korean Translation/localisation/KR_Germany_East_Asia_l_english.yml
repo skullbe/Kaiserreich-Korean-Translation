@@ -48,7 +48,7 @@ GEA_Cochinchina:0 "코친차이나"
 
 ### Focuses ###
 GEA_mission1:0 "해군성의 지위"
-GEA_mission1_desc:0 "프랑스 식민지를 합병하고, 영국 영토를 편입하면서 생겨난 독일령 동아시아는 헬무트 폰 뮈케 제독과 그의 휘하에 있는 동아시아 함대가 독보적인 영향력을 지니고 있는 식민지 당국입니다. 우리는 외부 침략자로부터 식민지를 보호하는 우리의 임무와 우리가 이 사명에 어떻게 최선을 다할 수 있는지를 검토해야 합니다."
+GEA_mission1_desc:0 "프랑스 식민지를 합병하고, 영국 영토를 편입하면서 생겨난 독일령 동아시아는 헬무트 폰 뮈케 제독과 그의 휘하에 있는 동아시아 함대가 독보적인 영향력을 지니고 있는 식민 관할령입니다. 우리는 외부 침략자로부터 식민지를 보호하는 우리의 임무와 우리가 이 사명에 어떻게 최선을 다할 수 있는지를 검토해야 합니다."
 GEA_army1:0 "동아시아 육군"
 GEA_army1_desc:0 "동아시아의 지상군은 현재 동아시아 해병대, 향토 수비대 그리고 베를린에서 온 파릇파릇한 신병들로 나뉘어져 있습니다. 우리는 현지인들을 모집하는 데 더 초점을 두어야 할지 아니면 조국으로부터 오는 병력을 더 강화해야 할지에 대해 결정해야 합니다."
 GEA_military1:0 "베를린에 무기 요청"
@@ -98,7 +98,7 @@ GEA_budget11_desc:0 "현재 많은 조약들이 현지 당국과 왕자들이 �
 GEA_budget12:0 "시암 국경 요새"
 GEA_budget12_desc:0 "시암 왕국이 세계대전 기간 동안 독일 제국을 도왔을 때, 그들은 영토 주장에 대한 보상을 받지 못했습니다. 그들이 군사력으로 위협하기로 결정할 경우에 대비하여 국경을 강화해야만 합니다."
 GEA_budget13:0 "미틀아프리카와의 유대 강화"
-GEA_budget13_desc:0 "미틀아프리카는 우리의 자매 프로젝트이며, 둘 다 제국 내에서 비슷한 수준의 자치권을 가지고 있고 가능한 한 서로의 협력과 유대 관계를 증진시키기 위해 노력해야 합니다."
+GEA_budget13_desc:0 "미틀아프리카는 우리의 자매 식민지이며, 둘 다 제국 내에서 비슷한 수준의 자치권을 가지고 있고 가능한 한 서로의 협력과 유대 관계를 증진시키기 위해 노력해야 합니다."
 GEA_budget14:0 "하이난 요새"
 GEA_budget14_desc:0 "하이난은 중국 남부와 인도차이나 연안을 따라 작전을 수행하기 위한 중요한 장소입니다. 우리는 섬을 요새화할 방법을 찾아야 합니다."
 GEA_budget15:0 "대응 교육"
@@ -222,17 +222,17 @@ Ostasien.3.a:0 "어떻게든 해야만 한다!"
 ### Uprising Chain ###
 # Yen Bai Muytiny
 Ostasien.4.t:0 "인도차이나의 불안정"
-Ostasien.4.d:0 "Since our expeditionary army destroyed Ho Chi Minh and his syndicalist agitators in Guangzhou ten years ago, Indochina has enjoyed a relatively stable period. But the recent Berlin Stock Market Crash, or Black Monday, has had a devastating impact on the highly commercialised Indochinese economy. Strikes and rice riots are spreading in Tonkin, Annam and Cochinchina. Urban students and intellectuals ask for more freedom. What's worse, our intelligence suggests some underground revolutionaries are secretly spreading their influence."
-Ostasien.4.a:0 "This colony is notorious for insubordination"
+Ostasien.4.d:0 "10년 전 우리 원정군이 광저우에서 호치민과 그의 생디칼리스트 침략자들을 박살낸 이후, 인도차이나는 비교적 안정된 시기를 누려 왔습니다. 그러나 최근 베를린의 주식 시장 붕괴는 고도로 상업화된 인도차이나 경제에 엄청난 타격을 주었습니다. 동시에 쌀 폭동이 통킹, 안남, 코친차이나 지역에 퍼지고 있습니다. 도시의 학생들과 지식인들은 더 많은 자유를 요구하며, 설상가상으로 일부 지하 혁명가들이 자신들의 영향력을 비밀리에 퍼뜨리고 있다는 정보가 입수되었습니다."
+Ostasien.4.a:0 "이 식민지는 반항적이기로 악명이 높다"
 
 Ostasien.5.t:0 "통킹의 민족주의"
-Ostasien.5.d:0 "We have uncovered a series of nationalist and anti-colonialist movements in Tonkin. In every corner of Hanoi agitators are disseminating pamphlets calling for national unity and independence. The ringleader behind the agitations is a group called the Vietnamese Nationalist Party(VNQDD), and our agents have discovered an insidious plan: these bandits are infiltrating our garrison in Tonkin."
-Ostasien.5.a:0 "We must prepare"
+Ostasien.5.d:0 "우리는 통킹에서 일련의 민족주의와 반식민주의 운동을 발견했습니다. 하노이 곳곳에 국가 통합과 독립을 요구하는 팸플릿이 배포되고 있습니다. 이 선동의 배후에 있는 우두머리는 베트남 국민당이라고 불리는 단체인데, 우리 요원들은 이 도적놈들이 통킹에 있는 우리 현지 수비대에 침투하고 있다는 것을 발견했습니다."
+Ostasien.5.a:0 "우리는 대비해야만 한다"
 
 Ostasien.6.t:0 "옌-바이 무티니"
-Ostasien.6.d:0 "Today some Tonkinese garrisons in Yen-Bai, a military post near the Sino-Indochinese border, organised a mutiny against the colonial officials! Along with them are armed infiltrators of VNQDD. Thanks to our agents, we sabotaged their plan to launch a coordinated uprising. We have fended off the rebels and begun a large-scale crackdown in Tonkin. Now the desperate rebels are fleeing to the mountainous area in Sino-Vietnamese border."
-Ostasien.6.a:0 "Concentrate our force to crush these bandits!"
-Ostasien.6.b:0 "Declare martial law in all Indochina!"
+Ostasien.6.d:0 "오늘, 중국과 인도의 국경 근처에 위치한 전초기지인 옌-바이에 있는 일부 통킹 수비대가 식민지 관리들에 대한 폭동을 일으켰습니다! 그들과 동시에 VNQDD도 무장 침투를 기도하였습니다. 우리의 요원들 덕분에, 우리는 조직화된 반란을 일으키려는 그들의 계획을 방해할 수 있었습니다. 우리는 반군을 격퇴하고 통킹에서 대규모 단속을 시작했습니다. 절망적인 상황에 놓은 반군들은 이제 베트남 국경 산악 지대로 도망치고 있습니다."
+Ostasien.6.a:0 "전력을 다해 도적놈들을 쳐부숴라!"
+Ostasien.6.b:0 "인도차이나 전역에 계엄령을 선포하라!"
 
 Ostasien.7.t:0 "인도 차이나의 비극" # FRA
 Ostasien.7.d:0 "”Viet-Nam! Viet-Nam! Viet-Nam! Homeland of the South! Thirteen times, I heard the outcry in front of the guillotine of Yen-Bai. Thirteen men sentenced to death shouted it, one by one, two metres away from climbing the scaffold.”\n\n— A French journalist Louis Roubaud witnessed the recent brutal German crackdown in Indochina, our former colony and the current bastion of German colonialism in the Far East. Now General Jacques Doriot, a close friend of the late Indochinese revolutionary Ho Chi Minh spoke for an intervention in Indochina. Since the end of the Weltkrieg, thousands of Indochinese students, soldiers and workers have stayed in France and become firm revolutionaries. If we send them back with sufficient arms, they can organise an uprising in Cochinchina. This could destabilise the German colonial empire and serve the world revolution."
@@ -246,9 +246,9 @@ Ostasien.8.b:0 "We are not interested."
 
 # Bao Dai Reform
 Ostasien.9.t:0 "황제 바오 다이의 인도 차이나로의 복귀"
-Ostasien.9.d:0 "Bao Dai, the monarch of Annam, has recently finished his studies in Germany and returned to Indochina. Unfortunately he is not satisfied with a mere ceremonious role, but a carefully controlled monarchy would allow us to mitigate rural instability and win over the support of the people, since Annamese peasants are innately attached to their Emperor. However, the European settlers in Saigon staunchly oppose any attempt to share power with the Annamese."
-Ostasien.9.a:0 "Welcome, our puppet emperor"
-Ostasien.9.b:0 "Maybe he should continue his studies"
+Ostasien.9.d:0 "안남의 군주인 바오 다이는 최근 독일에서 유학을 마치고 인도차이나로 돌아왔습니다. 불행하게도 그는 단지 성직자의 역할에 만족하지 않고 있지만, 신중하게 통제된 군주제는 오히려 우리가 시골의 불안정을 완화하고 국민들의 지지를 얻게 해 줄 것입니다. 그러나 사이공에 정착한 유럽인 정착민들은 안남 현지인과 권력을 공유하려는 어떠한 시도도 단호히 반대하고 있습니다."
+Ostasien.9.a:0 "환영하오, 우리 꼭두각시 황제 폐하"
+Ostasien.9.b:0 "아마도 그는 유학을 계속해야 할 것이다"
 
 Ostasien.10.t:0 "바오 다이의 개혁:첫 걸음"
 Ostasien.10.d:0 "Having ascended to the throne, Bao Dai has recruited several reform-minded figures into his court, including Neo-traditionalist intellectual Pham Quyhn and Catholic administrator Ngo Dinh Diem. Now his ministers have decided to initiate an administrative reform to revitalise the dysfunctional bureaucratic system. Currently the mandarins in the protectorate of Annam only nominally run the country, while their European advisors hold true power. Bao Dai's reform will certainly damage the European monopolisation of power."
