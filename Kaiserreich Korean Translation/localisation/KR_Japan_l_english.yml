@@ -29,11 +29,11 @@ JAP_paternal_autocrat_party_long:0 "국민 동맹"
 JAP_national_populist_party_long:0 "동방회"
 
 ### Leader Descriptions ###
-POLITICS_HIROHITO_DESC:0 "Assuming the Crysanthemum throne after the death of his father, Emperor Taishō, His Imperial Majesty represents a divine dynasty of nearly 2,500 years; his personage seen not only as head of state, but as representative of the very heart, soul, and being of the nation. As both militarists and a resurgent left thrive amidst mounting domestic chaos, the Emperor remains silent, his role unclear and undecided. However, when and if the Emperor does make his move, it will no doubt be decisive."
+POLITICS_HIROHITO_DESC:0 "다이쇼 천황의 사망 이후 2,500년 역사의 신성한 일본의 황좌에 앉게 된 히로히토 천황은, 국가 원수로서의 지위 뿐 아니라 정신적으로 일본 바로 그 자체를 상징합니다. 군국주의자들 그리고 부활한 좌파들이 모두 급성장함에 따라 일본 내의 혼란이 심화되어가는 와중에도 천황은 계속 침묵만을 지켜왔으며 그의 역할은 불확실하고 불분명합니다. 하지만 언제라도 천황이 움직이기 시작한다면, 어느 쪽이든 그것은 의심할 여지 없이 결정적일 것입니다."
 
 ### Ideas ###
-JAP_narrow_rail:0 "Kyōki 철도"
-JAP_narrow_rail_desc:0 "일본의 철도는 메이지 시대 동안 대영 제국으로부터 전승된 이례적으로 좁은 궤간을 사용하여 건설되었습니다. 일본의 산악 지역에서의 건설은 쉬웠지만 그 속도 제한은 우리 산업에 부정적인 영향을 미쳤습니다. 전문가들은 전환이 정부의 시간을 할애할 가치가 있는지에 대해 논하고 있습니다."
+JAP_narrow_rail:0 "협궤 철도"
+JAP_narrow_rail_desc:0 "일본의 철도는 메이지 시대 동안 대영 제국으로부터 전승된 이례적으로 좁은 궤간을 사용하여 건설되었습니다. 일본의 산악 지역에서의 건설은 쉬웠지만 그 속도 제한은 우리 산업에 부정적인 영향을 미쳤습니다. 전문가들은 이를 교체하는 데에 정부의 시간을 할애할 가치가 있는지에 대해 논하고 있습니다."
 japan_NSA_act:0 "국가보안법"
 JAP_COL_PREP:0 "식민화를 준비하라"
 niigata_riots:0 "니가타 민란"
@@ -99,13 +99,13 @@ JAP_no_army_focus:0 "분열된 군대"
 JAP_no_army_focus_desc:0 "일본군은 방향성이 부족하고, 최고 사령부는 내분이 일어나고 있으며, 단일화된 군사 교리도 없습니다. 이러한 문제들은 해결할 때까지 어떠한 전쟁 수행이든지 방해할 것입니다."
 
 ### Tooltips ###
-niigata_focus:0 "The following weeks will determine the course of Japanese history. Choose wisely..."
-JAP_NSA:0 "The National Security Act Passed"
-JAP_NO_NSA:0 "The National Security Act Failed To Pass"
-longest_winter_tool:0 "You can now choose which path Japan will take."
+niigata_focus:0 "다음 결정이 일본 역사의 흐름을 가를 것입니다. 현명히 선택하세요..."
+JAP_NSA:0 "국가보안법의 통과"
+JAP_NO_NSA:0 "국가보안법의 통과 실패"
+longest_winter_tool:0 "당신은 이제 일본이 어떤 길을 걸을지 선택할 수 있습니다."
 JAP_longest_winter:0 "기나긴 겨울"
-JAP_STRONG_SEIYUKAI:0 "The government has kept its majority"
-emperor_support_agree:0 "The Emperor supported the government"
+JAP_STRONG_SEIYUKAI:0 "정부가 과반수를 유지하다"
+emperor_support_agree:0 "천황이 정부를 지지했다"
 emperor_no_support_disagree:0 "The Emperor did not support the government, but political force was used to overcome this"
 emperor_support_disagree:0 "The Emperor did not support the government"
 emperor_no_support_agree:0 "The Emperor supported the government, but political force was used to overcome this"
@@ -130,12 +130,12 @@ colonise_start:0 "§GWe will begin preparations for our colonisation efforts.§!
 small_rail:0 "§RSwitching rail gauges will be a long and difficult process.§!\n"
 
 ### Focuses - Political - Base ###
-JAP_NSA_focus:0 "국가 보안법"
-JAP_NSA_focus_desc:0 "A debate in the Diet regarding the national security act has been raging for the past few weeks, and it is time for us to decide which course our nation will take. Some conservative members of the Diet fear that if the act isn't passed, radical elements in society will try to seize power. The future of Japan is in our hands."
+JAP_NSA_focus:0 "국가보안법"
+JAP_NSA_focus_desc:0 "지난 몇 주 동안 국회에서 국가보안법에 관한 논쟁이 격렬히 벌어졌고, 이제는 우리가 어떤 선택을 할지를 결정할 때입니다. 일부 보수파 의원들은 이 법안이 통과되지 못하면 사회의 과격파들이 권력을 장악하려고 할 것이라고 우려하고 있습니다. 일본의 미래는 우리 손에 달려 있습니다."
 JAP_democratic_path:0 "민주주의를 사수하라!"
-JAP_democratic_path_desc:0 "After receiving the offer from the scheming army officers, General Hayashi Senjuro has rejected to back their coup attempt, citing his responsibility to the established regime. While not actively opposing the putschists, it is unlikely they can win without the support of the central command."
+JAP_democratic_path_desc:0 "특정 육군 장교들의 제안을 받은 한야시 센주로 장군은 현 정권에 대한 자신의 의무를 이유로 쿠데타 시도를 거부했습니다. 본격적으로 적대하는 것은 아닙니다만 중앙 지휘부의 지원 없이는 이길 가능성은 희박합니다."
 JAP_imperialist_path:0 "가장 길었던 날"
-JAP_imperialist_path_desc:0 "General Hayashi Senjuro has agreed to support the scheming army officers in their coup attempt. With support from the army minister, it seems like their attempt will be successful..."
+JAP_imperialist_path_desc:0 "하야시 센주로 장군은 쿠데타 시도에 대한 육군 장교들의 계획을 지원하기로 동의했습니다. 육군 수장의 지원이 생겼으니, 이들의 시도가 성공할 가능성이 상당히 높아졌습니다..."
 
 ### Focuses - Political - Democratic ###
 JAP_elec_reform:0 "선거 개혁"
