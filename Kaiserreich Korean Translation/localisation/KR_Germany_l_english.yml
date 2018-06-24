@@ -219,29 +219,29 @@ financial_help_denied:0 "재정적 도움 거부"
 GER_raised_tarrifs:0 "관세 인상"
 
 ### Parties ###
-GER_totalist_party:0 "RAM"
+GER_totalist_party:0 "적군 민병대"
 GER_totalist_party_long:0 "적군 민병대"
-GER_radical_socialist_party:0 "BGB"
+GER_radical_socialist_party:0 "무장 노동조합 총연맹"
 GER_radical_socialist_party_long:0 "무장 노동조합 총연맹"
-GER_syndicalist_party:0 "DOI/SP"
+GER_syndicalist_party:0 "인터내셔널 독일 지부/생디칼리스트 당"
 GER_syndicalist_party_long:0 "인터내셔널 독일 지부/생디칼리스트 당"
-GER_social_democrat_party:0 "SPD"
+GER_social_democrat_party:0 "독일 사회 민주당"
 GER_social_democrat_party_long:0 "독일 사회 민주당"
-GER_social_liberal_party:0 "FVP"
+GER_social_liberal_party:0 "진보 인민당"
 GER_social_liberal_party_long:0 "진보 인민당"
-GER_market_liberal_party:0 "NLP"
+GER_market_liberal_party:0 "국민 자유당"
 GER_market_liberal_party_long:0 "국민 자유당"
 GER_social_conservative_party:0 "젠트룸"
 GER_social_conservative_party_long:0 "중앙당"
-GER_authoritarian_democrat_party:0 "DKP"
+GER_authoritarian_democrat_party:0 "독일 보수당"
 GER_authoritarian_democrat_party_long:0 "독일 보수당"
-GER_paternal_autocrat_party:0 "DVLP"
+GER_paternal_autocrat_party:0 "황제 충성당"
 GER_KAI_paternal_autocrat_party:0 "황제 충성당"
 GER_AFR_paternal_autocrat_party:0 "비상 정권"
 GER_paternal_autocrat_party_long:0 "독일 조국당"
 GER_KAI_paternal_autocrat_party_long:0 "황제 충성 궁정당"
 GER_AFR_paternal_autocrat_party_long:0 "비상 정부"
-GER_national_populist_party:0 "AV"
+GER_national_populist_party:0 "범 독일 연맹"
 GER_national_populist_party_long:0 "범 독일 연맹"
 
 ### Decisions ###
@@ -285,9 +285,9 @@ GER_black_monday_colonies_decisions:0 "식민지 내의 검은 월요일 위기"
 GER_bm_sale_of_ceylon:0 "실론 섬 매각"
 GER_bm_sale_of_ceylon_desc:0 "Despite its natural resources, as a result of administrative inefficiencies the island of Ceylon is a very unprofitable part of our colonial empire, requiring massive investment every year. However, there have been proposals of selling the island to the Princely Federation - undoubtedly a profitable idea."
 
-GER_foreign_policy_decisions:0 "Germany looking outwards"
+GER_foreign_policy_decisions:0 "독일의 바깥을 살펴보다"
 GER_reichspakt_bulgaria:0 "불가리아를 제국 협정으로 초대"
-GER_reichspakt_bulgaria_desc:0 "~mw~ is making me work in gruesome conditions please send help!"
+GER_reichspakt_bulgaria_desc:0 "~mw~가 오싹한 곳에서 일을 하게 만듭니다. 도움의 손길을 보내세요!"
 
 ### Focuses ###
 GER_doctrine_new:0 "육군 개혁"
@@ -328,7 +328,7 @@ GER_generic_navy2:0 "해군 기지 요새화"
 GER_generic_navy2_desc:0 "우리는 해안 요새와 우리의 주요 해군 기지를 적의 상륙으로부터 더 잘 방어하기 위한 방법을 찾아야 합니다."
 GER_doctrine_fleet_in_beeing:0 "되니츠에게 귀를 기울이다"
 GER_doctrine_fleet_in_beeing_desc:0 "정대하고 유능한 카를 되니츠는 대양해군의 힘은 활발하게 바다를 통제하는 것에 달려있다는 점을 상기시켰습니다. 우리 해군은 거대한 결전을 추구해야 하며, 우리 보급로를 약탈할 기회를 확보하기 전에 적을 격멸해야 합니다. 우리는 이 교리를 프라젠츠플로테(PräsenzFlotte), 현존 함대라고 부릅니다."
-GER_doctrine_fleet_in_beeing2:0 "잠수함(U-boat) 작전"
+GER_doctrine_fleet_in_beeing2:0 "유보트 작전"
 GER_doctrine_fleet_in_beeing2_desc:0 "우리는 1차 세계 대전 동안 잠수함 전투를 수행했지만 우리의 공격은 제한되어 있었습니다. 이 작전은 앞으로도 계속될 것이지만 새로운 잠수함 모델 개발을 진행해야 합니다."
 GER_doctrine_fleet_in_beeing3:0 "더 크고, 빠르며, 무겁게"
 GER_doctrine_fleet_in_beeing3_desc:0 "더 크게, 더 빠르게, 더 무겁게는 우리 해군이 새로운 군함을 설계할 때 꼭 반영해야 하는 단어입니다. 그렇게 만들어야 합니다."
@@ -603,27 +603,27 @@ GER_oil_increase:0 "투자 증대"
 
 GER_faction_expansion:0 "제국 협정 확장" #Großreichspakt
 
-GER_america_faction:0 "Missions to the Americas"
+GER_america_faction:0 "아메리카 대륙 사절 파견"
 
-GER_US_faction:0 "Flirt with the Failed Democracy"
+GER_US_faction:0 "실패한 민주주의에 열광"
 
-GER_dutch_faction:0 "Closer Dutch Cooperation"
+GER_dutch_faction:0 "네덜란드와 긴밀한 협력"
 
-GER_nordic_faction:0 "Look to the Nordics"
+GER_nordic_faction:0 "북유럽 주시"
 
-GER_eastern_europe:0 "Investments in Eastern Europe"
+GER_eastern_europe:0 "동유럽 투자"
 
-GER_anti_russia:0 "Bulwark against Russia"
+GER_anti_russia:0 "러시아에 대항하는 보루"
 
-GER_SA_faction:0 "German Heritage in South Africa"
+GER_SA_faction:0 "남아프리카의 독일재산"
 
-GER_eth_faction:0 "The Abyssinian Agreements"
+GER_eth_faction:0 "아비시니아 협정"
 
 GER_AUS_ally:0 "우리 독일인 동포"
 
-GER_OTT_ally:0 "Middle Eastern Ties"
+GER_OTT_ally:0 "중동 중점"
 
-GER_spain_ally:0 "Court the Bourbons"
+GER_spain_ally:0 "부르봉 왕가 구애"
 
 
 ### Leader Descriptions ###
