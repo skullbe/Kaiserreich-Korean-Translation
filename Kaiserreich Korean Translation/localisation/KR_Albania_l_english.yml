@@ -24,7 +24,7 @@ albania.4.d:0 "강력한 사회 시스템 구축에 더 많은 투자를 하고 
 albania.4.a:0 "계속하라!"
 
 albania.5.t:0 "예산 균형 맞추기"
-albania.5.d:0 "Through convincing our fellow aristocrats and landowners to help support the current government, in return for favours of course, alongside subsidising various crops in Albania, we have managed to slowly, but surely, balance the budget and gain a monetary surplus. With the new money in the state’s coffer, we can now begin to carry out the programmes that we had initially intended to."
+albania.5.d:0 "우리는 귀족과 지주에게 알바니아의 다양한 농작물에 보조금을 제공하겠다는 것과 호의를 댓가로 현 정부를 지지하도록 설득함으로써 예산의 균형을 느리지만 확실하게 유지하고 있으며 약간의 흑자를 보고 있습니다. 국가 재정에 새 자금이 있기 때문에 이제 우리가 처음에 세웠던 계획을 시행할 수 있게 됐습니다."
 albania.5.a:0 "계속하라!"
 
 albania.6.t:0 "은행 개혁"
@@ -37,11 +37,11 @@ albania.7.a:0 "훌륭하군."
 
 albania.8.t:0 "귀족들이 산업화를 반대하다!"
 albania.8.d:0 "귀족들, 특히 버를라치와 그의 지주 무리들은 이 산업화 계획이 성공적으로 통과하면 자신들의 이익이 감소한다는 이유로 당이 약속한 산업화 계획에 반대하고 있습니다. 지주들은 분명히 어떠한 경쟁도 원하지 않으며, 알바니아가 농업 국가에서 산업 국가로 바뀌면 여러 소작농들로부터 나오는 이익을 잃을 수도 있기 때문입니다."
-albania.8.a:0 "Who cares what they think?"
+albania.8.a:0 "걔네가 뭐라하든 누가 신경쓰나?"
 
 albania.9.t:0 "진보당이 토지 재분배를 반대하다!"
-albania.9.d:0 "Shefqet Vërlaci, Ahmet Zogu, and the rest of the Progressives, alongside the aristocratic landowners, have been violently resisting land redistribution efforts, citing the current government policy of agrarian reform as “unfair” and “disenfranchising towards a portion of the population”. In addition, after instituting the policy, Rrustemi, the leader of the Unity Party, has already faced more than a few assassination attempts. If we do not bring about and end to the situation quick, we may face collapse!"
-albania.9.a:0 "Damn them!"
+albania.9.d:0 "셰프톄트 버를라치와 아흐메트 조구, 그리고 나머지 진보당 인사들과 지주 귀족들은 현 정부의 농업 개혁 정책이 "불공평"하고 "일부 사람들의 권리 박탈"이라고 하며 토지 재분배에 격렬하게 저항했습니다. 게다가 정책을 도입한 후에, 통합당의 지도자인 루스테미는 이미 몇 차례 암살 시도를 당했습니다. 만약 우리가 이 상황을 빨리 전환시키고 끝내지 않는다면, 우리는 실패에 직면할지도 모릅니다."
+albania.9.a:0 "망할 놈들!"
 
 albania.10.t:0 "아브니 루스테미 암살 시도에 대한 소문"
 albania.10.d:0 "진보당은 현 토지 재분배 정책에 매우 강한 불만을 가지고 있으며 통합당이 그들의 광범위한 개혁을 멈출 의도가 없다는 결론에 도달하였습니다. 그 결과 진보당은 스스로 문제를 처리하기 시작했습니다. 루스테미 암살 시도와 통합당을 약화하려는 다른 방법들에 대한 소문이 무성해지고 있습니다..."
@@ -49,7 +49,7 @@ albania.10.a:0 "신께서 도와주시길."
 
 albania.11.t:0 "아브니 루스테미 암살 시도!"
 albania.11.d:0 "진보당은 조치를 취했으며 루스테미를 제거하여 그와 통합당의 개혁을 끝내기 위해 암살자를 고용했습니다."
-albania.11.a:0 "The assassin has just taken the shot and..."
+albania.11.a:0 "암살자가 막 총을 쐈다. 그리고..."
 
 albania.12.t:0 "암살 미수"
 albania.12.d:0 "Due to our investment in the Arm of Gendarmerie, we have managed to foil an assassination attempt on Avni Rrustemi by the Progressive Party. The assassin was caught by the gendarmerie and all who were directly involved with the plot have been implicated."
@@ -109,7 +109,7 @@ albania.24.d:0 "Romania has refused our offer of economic ties between our two n
 albania.24.a:0 "이런..."
 
 albania.25.t:0 "알바니아에서 폭동발생!"
-albania.25.d:0 "Avni Rrustemi, Fan Noli, and the rest of the Unity Party, alongside the lower class, have been violently rioting against our resistance towards land redistribution efforts, citing the current government policy of stalling agrarian reform as “unfair” and “disenfranchising towards a portion of the population”. In addition, after bringing an end to the policy, Vërlaci, the leader of the Progressive Party, has already faced more than a few assassination attempts. If we do not bring about and end to the situation quick, we may face collapse!"
+albania.25.d:0 "아브니 루스테미와 판 놀리, 그리고 나머지 통합당 인사들과 하층민들은 현 정부의 농업 개혁 저지 정책이 "불공평"하고 "일부 사람들의 권리 박탈"이라고 하며 토지 재분배를 미루는 것에 격렬하게 저항했습니다. 게다가 정책을 끝낸 후에, 진보당의 지도자인 버를라치는 이미 몇 차례 암살 시도를 당했습니다. 만약 우리가 이 상황을 빨리 전환시키고 끝내지 않는다면, 우리는 실패에 직면할지도 모릅니다."
 albania.25.a:0 "망할 놈들!"
 
 albania.26.t:0 "버를라치 암살 시도에 대한 소문"
@@ -118,7 +118,7 @@ albania.26.a:0 "신께서 도와주시길."
 
 albania.27.t:0 "셰프톄트 버를라치 암살 시도!"
 albania.27.d:0 "통합당은 조치를 취했으며 버를라치를 제거하여 그와 진보당의 통치를 끝내기 위해 암살자를 고용했습니다."
-albania.27.a:0 "The assassin has just taken the shot and..."
+albania.27.a:0 "암살자가 막 총을 쐈다. 그리고..."
 
 albania.28.t:0 "암살 미수"
 albania.28.d:0 "Due to our investment in the Arm of Gendarmerie, we have managed to foil an assassination attempt on Shefqet Vërlaci by the Unity Party. The assassin was caught by the gendarmerie and all who were directly involved with the plot have been implicated."
