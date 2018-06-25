@@ -237,6 +237,17 @@ GBR_non_imperial_preference_opinion:0 "제국내 특혜로부터 이익을 얻�
 GBR_sterling_no:0 "스털링 구역에 참여하지 않는다"
 GBR_sterling_yes:0 "스털링 구역에 참여하다"	
 GBR_attacks_egypt:0 "연합 왕국이 이집트를 침공하다"
+GBR_egypt_refused:0 "Refused British friendship"
+GBR_hong_kong_refused_lec:0 "Refused to hand over Hong Kong"
+GBR_hong_kong_refused_ger:0 "Refused to hand over Singapore"
+GBR_cyprus_refused_cyprus:0 "Refused British overtures"
+GBR_cyprus_refused_ottomans:0 "Refused to hand over Cyprus"
+GBR_malta_refused:0 "Refused to hand over Malta"
+GBR_rock_refused_spanish:0 "Refused to hand over Gibraltar"
+GBR_rock_refused_carlist:0 "Refused to hand over Gibraltar"
+GBR_north_atlantic_islands_returned:0 "Returned our rightful Atlantic territory"
+GBR_north_atlantic_islands_stolen:0 "Stole our rightful Atlantic territory"
+GBR_north_atlantic_islands_given:0 "Gave us the Atlantic Islands"															 
 
 ### Ideas ###
 GBR_ira_idea:0 "IRA 문제"
@@ -307,6 +318,15 @@ UK_election_ade_tp:0 "제국당이 선거에서 이김"
 UK_election_sco_tp:0 "보수당이 선거에서 이김"
 UK_election_mli_tp:0 "자유당이 선거에서 이김"
 UK_election_sli_tp:0 "진보당이 선거에서 이김"
+UK_irish_treaty:0 "Policy efforts directed towards a treaty with Ireland"
+uk_irish_home_rule:0 "Policy efforts directed towards bringing Ireland back into the Empire"
+UK_irish_restoration:0 "Policy efforts directed towards forcing Ireland back directly under the Crown"
+UK_irish_treaty_signed:0 "A treaty was signed with Ireland"
+UK_home_rule_established:0 "Home Rule established in Ireland"
+UK_act_of_union_renewed:0 "The Act of Union was renewed with Ireland"
+UK_has_ireland:0 "Ireland is part of the Empire"
+CAN_idec_created:0 "The IEDC was formed"
+
 ### Parties ###
 GBR_totalist_party:0 "최대주의자"
 GBR_totalist_party_long:0 "최대주의자"
@@ -328,6 +348,10 @@ GBR_paternal_autocrat_party:0 "충성파 연맹"
 GBR_paternal_autocrat_party_long:0 "충성파 연맹"
 GBR_national_populist_party:0 "연합 제국 연맹"
 GBR_national_populist_party_long:0 "연합 제국 연맹"
+
+### Leader Descriptions ###
+POLITICS_POLITICS_EDWARD_BRITAIN_DESC:0 "Edward of Windsor, with the passing of his father, 'King-Emperor', George V, was coronated in a lavish ceremony in Ottawa. The young monarch, notably solemn upon his enthronement, inherited an Empire undoubtedly a shadow of its former glory, and a kingdom occupied by syndicalist revolutionaries. Undeterred, King Edward maintains, above all else, the desire that the banner of the United Kingdom again proudly fly above the British Isles."
+POLITICS_TE_LAWRENCE_UK_DESC:0 "Thomas Edward Lawrence, the famous officer and archaeologist who unsuccessfully led the Arab tribes in rebellion against the Ottoman Empire during the Weltkrieg, has led a coup against the government of the Union of Britain. Rumors abounded that Lawrence harboured monarchist sentiments. and indeed such speculation proved correct. Lawrence proclaimed the re-establishment of the United Kingdom, and invited the Windsors to return to Britain."
 
 ### Cosmetic Tags### 
 GBR_irish_home_rule_social_democrat:0 "아일랜드 자치령"
@@ -375,12 +399,15 @@ uk.1.t:0 "연합왕국의 해방"
 uk.1.d:0 "오랜 세월동안 망명하여 투쟁한 끝에, 브리튼 연방군은 패배했고 그 지도자들은 달아났으며, 영국 왕실이 돌아와 승리감에 한껏 도취되어 있습니다. 이 날은 대영제국 전체의 가장 영광스러운 날로 기록될것 입니다. 국왕 폐하 만세!"
 uk.1.a:0 "연합왕국은 복원될 것이다!"
 uk.1.b:0 "...하지만 여기에 남겠다!"
+
 uk.2.t:0 "로렌스가 연합 왕국을 재건하다"
 uk.2.d:0 "언론들은 그동안 브리타니아에서 지배권을 잡고, 광기어린 폭군처럼 영국을 파괴하려고 했던 모슬리로부터 권력을 다시 빼앗아 온 토머스 에드워드 로렌스 , 더 간단하게 T.E 로렌스가 리도 홀에서 에드워드 8세를 알현했다는 소식을 전했습니다. 로렌스는 왕에게 편지를 보내 그가 다시 연합 왕국의 왕좌에 앉아 책임있는 정부를 다시 영국에 세워주기를 청했습니다. 진정으로 역사에 남을 날입니다."
 uk.2.a:0 "로렌스에게 신의 가호가 있기를."
+
 uk.3.t:0 "복귀"
 uk.3.d:0 "마침내, 에드워드 8세는 과거 모든 영국 왕들이 그랬던 것 처럼 정당하게 왕관을 다시 쓰기 위해 웨스트민스터로 돌아갔습니다. 오늘은 영광스럽기 이를 데 없는 날이며, 연합왕국의 새로운 출발을 알리는 날이기도 합니다. 하지만 에드워드 8세 대관식의 기쁨을 만끽할 틈도 없이 영국이 입은 피해를 복구하는 작업이 시작되었습니다. 우리 군대의 힘을 회복하려면 오랜 시간과 노력이 필요하고, 경제는 재건할 필요가 있으며, 생디칼리스트들의 운명은 반드시 결정되어야 합니다."
 uk.3.a:0 "국왕 폐하 만세!"
+
 uk.4.t:0 "브리튼 연방의 난민들"
 uk.4.d:0 "과정이 어쨌든, 결국 왕당파들은 브리튼 연방을 패배시켰습니다. 결과적으로, 박해받은 생디칼리스트들은 해협을 건너 도망쳐서 우리 해안 지방으로 피신해왔습니다. 거기다가, 브리튼 연방군의 잔존 병력 일부가 우리 나라에 망명해서 언젠가 다시 영국으로 돌아가 왕당파들을 패배시키겠다고 맹세했습니다."
 uk.4.a:0 "환영한다, 동지들!"
@@ -412,6 +439,7 @@ uk.8.t:0 "귀족들의 귀환"
 uk.8.d:0 "왕당파들이 대승을 거둔 이후, 귀족들 역시 영국 본토에 돌아왔지만, 그들은 가문 대대로 내려온 그들의 영지가 생디칼리스트들에게 압류당한 후 소작농과 농부들에게 분배되었다는 사실을 알게 되었습니다. 귀족들은 자신들이 정당히 소유하고 있던 땅과 자산을 돌려받고 싶어하지만, 그렇게 한다면 두 말할 필요도 없이 많은 영국 내의 서민층들이 분노할 것입니다. 무엇이 현명한 선택일까요?"
 uk.8.a:0 "귀족들의 영지를 반환하라."
 uk.8.b:0 "귀족들의 손해를 배상해 줘라."
+#### Lords ###			  
 uk.9.t:0 "상원?"
 uk.9.d:0 "근 10년 만에 이뤄지는 자유 선거에 대비해, 하원의 구조와 권한이 개편되었습니다. 문제는 분열과 내분을 일삼고 있는 상원의 능력에 의문이 제기되고 있으며, 영국이 과연 지금 상태의 상원이 가진 권한을 수용할 것인지에 대한 것입니다."
 uk.9.a:0 "상원은 하원만큼이나 중요하다." 
