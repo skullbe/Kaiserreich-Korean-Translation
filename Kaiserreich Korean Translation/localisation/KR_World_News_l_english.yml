@@ -1,15 +1,17 @@
 l_english:
 
-worldnews.1.t:0 "2차 미국 내전"
+worldnews.1.t:0 "제 2차 미국 내전"
 worldnews.1.d:0 "잘 알지 못하는 외국인들에게는 미국의 위기가 갑자기 발생한 것으로 보일 수도 있겠지만, 전문가들은 지난 수년간 내전 발발의 조짐이 보였다는 것에 동의합니다. 1925 년 뉴욕 증권 거래소가 붕괴한 이래로 미국 경제는 꾸준히 침체기에 접어 들었습니다. \n이제 미국은 기존 정부의 지지자들, 생디칼리즘을 내세운 아메리카 노동 연합, 보수적이고 외국인을 혐오하는 미주 연방간의 3자간 내전으로 돌입했습니다. 이미 유럽에서 온 자원병들이 자신들이 지지하는 진영을 위해 싸운다는 보고가 있었습니다. 어쩌면 2차 아메리카 내전은 인류에게 힘든 시기에 그저 세계의 강대국들간에 벌어질 많은 전쟁 중 하나일 뿐일 수도 있습니다."
 worldnews.1.a:0 "골치 아픈 사건이 터졌군."
 
-worldnews.2.t:0 "로망디 문제가 해결되다"
-worldnews.2.d:0 "'프랑스인 소수 민족 박해'로 인해 로망디 지방이 즉각 양도하라는 프랑스 코뮌의 요구가 있은 후 스위스 정부는 전쟁 위협을 피하기로 결정했습니다. 이것은 이미 로망디 합병이 세계 노동 계급의 또 다른 승리라고 선언한 프랑스 정부의 승리입니다."
-worldnews.2.a:0 "생디칼리즘 확산"
-worldnews.2.b:0 "끔찍하군!"
-worldnews.2.c:0 "혁명이 전파되었다!"
-worldnews.2.e:0 "이것은 아마도 프랑스의 요구 중 첫 번째일 뿐이다."
+worldnews.2.t:0 "The Savoyard Crisis Resolved"
+worldnews.2.surrender:0 "After a demand by the Commune of France that the province of Haute-Savoie be immediately ceded due to 'persecution of the French population', the Swiss government decided to avoid the threat of war and agreed, stating that a peaceful transfer of ownership was preferable to bloodshed.\n\nThis is a victory for the French government, which has already declared the reacquisition of Haute-Savoie another victory of the world's working class."
+worldnews.2.swiwin:0 "After a demand by the Commune of France that the province of Haute-Savoie be immediately ceded due to 'persecution of the French population', the world looked to be on the brink of another conflict in central Europe. However, after tense debates and political discourse, the crisis has been resolved without bloodshed or the concession of Swiss occupied territories.\n\nFor now, the fragile peace in Europe is maintained, although the French willingness to resort to confrontational tactics over territorial disputes has rattled international observers."
+worldnews.2.enemies:0 "After a demand by the Commune of France that the province of Haute-Savoie be immediately ceded due to 'persecution of the French population', the Swiss government decided to avoid the threat of war and agreed. Despite a desperate attempt to find international support for the retention of the region under the Swiss government, no nation seemed willing to risk war over the French demands.\n\nThis is a victory for the French government, which has already declared the reacquisition of Haute-Savoie another victory of the world's working class."
+worldnews.2.austria:0 "Peace reigned supreme today as the Commune of France revoked their demands for the immediate return of the Haute-Savoie region from Swiss control. It is reported that the Commune decided to revoke its claim after a threat of war from the Austrian Empire, who supported Switzerland in the crisis over the region.\n\nFor now the region will remain under the guardianship of the Swiss Confederation, who have promised to return the territory once the 'True French Government' is restored in Paris."
+worldnews.2.germany:0 "Peace reigned supreme today as the Commune of France revoked their demands for the immediate return of the Haute-Savoie region from Swiss control. It is reported that the Commune decided to revoke its claim after a threat of war from the German Empire, who supported Switzerland in the crisis over the region.\n\nFor now the region will remain under the guardianship of the Swiss Confederation, who have promised to return the territory once the 'True French Government' is restored in Paris."
+worldnews.2.a:0 "Syndicalism spreads."
+worldnews.2.b:0 "Swiss neutrality is preserved."										
 
 worldnews.3.t:0 "2차 러시아 내전"
 worldnews.3.d:0 "20 년전, 세계대전의 마지막 몇 년 동안 러시아 제국은 혼란에 빠져 민족주의 운동인 백군과 적군으로 찢어졌습니다. 독일의 개입 이후 공화당 정부는 볼셰비키를 격퇴했지만 러시아의 혁명 정신은 사라지지 않았습니다. \n\n케렌스키 정부의 비효율적인 토지 개혁과 브레스트-리토프스크 배상금 납부를 위한 긴축 조치와 대통령 암살 이후의 정부 위기이후, 서부 지역의 도시들은 다시금 적색 물결에 잠겼습니다. 부하린의 소비에트 러시아가 승리할 것인가 아니면 백군의 충직 한 지지자들이 반대자들을 두번째로 물리칠 것인가는 시간만이 알고 있습니다."
@@ -71,11 +73,13 @@ worldnews.17.t:0 "아랍 회의"
 worldnews.17.d:0 "세계대전 때 아랍 반란은 주로 협상국의 패배로 인해 실패하였고, 레반트와 이라크에 살고있는 수백만의 아랍인들은 오스만 제국의 지배하에 있었습니다. 그럼에도 불구하고 아랍 민족주의는 수년간 퍼져나갔으며 마침내 카이로에서 아랍 회의가 시작됐을 때 마침내 절정에 이르렀습니다. 수많은 아랍 국가 대표들이 이집트 댄서들의 화려한 공연과 대포의 축포로 환영받았으며 협상이 시작되었습니다. \n\n전문가들은 이집트와 하심가 아라비아가 회의를 이끌 것이라고 예상했습니다. 회의는 오스만 제국에 대한 괴로움과 때로는 터키에 대한 아랍의 '추축국'에 대한 토론까지 자유롭게 진행될 것입니다."
 worldnews.17.a:0 "전에 이걸 본 적이 있는거 같은데..."
 
-worldnews.18.t:0 "베오그라드 협약의 비준"
-worldnews.18.d:0 "세르비아, 루마니아, 그리스 등 발칸의 협상국 회원국이 협상에 모여 최근 베오그라드 협약 (Belgrade Pact)의 비준을 발표했습니다. 이 협정은 문화에 관한 토의에 중점을 두고 발칸의 정체성을 보존하는 한편 참가자들간의 군사동맹을 담고있는데, 이는 그들의 국가를 분리시키고 그들의 조상땅을 점령하고 있는 나라를 겨냥한것으로 보입니다.. \n\n이 새로운 전개는 불가리아의 발칸 지배에서 큰 가시지만, 다른 중앙 강대국의 반응만이 이 조약이 어떤 과일을 얻을 것인지 결정할 수 있습니다."
+worldnews.18.t:0 "베오그라드 조약기구의 비준"
+worldnews.18.desc_rom_gre:0 "Serbia, Romania and Greece, the three Balkan members of the Entente, all with revanchist views of their own, have recently gathered to a common table of negotiations and have announced the beginning of the Belgrade Pact. While this pact puts a lot of focus on cultural discussion and preserving Balkan identities, it is also a military alliance between the participants, seemingly directed at the country separating them and holding their 'ancestral lands'. \n\nThis new development is a big thorn in Bulgarian domination of the Balkans, but only the incoming reaction of the other Central Powers can determine whether it will yield any fruit."
+worldnews.18.desc_only_romania:0 "Serbia, Romania and Greece, the three Balkan members of the Entente, all with revanchist views of their own, have recently gathered to a common table of negotiations. While Greece has distantiated itself from creating a military alliance, Serbia and Romania have announced the beginning of the Belgrade Pact. This pact puts a lot of focus on cultural discussion and preserving Balkan identities, but it is also seemingly directed at the country on their southern border holding their 'ancestral lands'. \n\nThis new development is a big thorn in Bulgarian domination of the Balkans, but only the incoming reaction of the other Central Powers can determine whether it will yield any fruit."
+worldnews.18.desc_only_greece:0 "Serbia, Romania and Greece, the three Balkan members of the Entente, all with revanchist views of their own, have recently gathered to a common table of negotiations. While Romania has distantiated itself from creating a military alliance, Serbia and Greece have announced the beginning of the Belgrade Pact. This pact puts a lot of focus on cultural discussion and preserving Balkan identities, but it is also seemingly directed at the country separating them and holding their 'ancestral lands'. \n\nThis new development is a big thorn in Bulgarian domination of the Balkans, but only the incoming reaction of the other Central Powers can determine whether it will yield any fruit."
 worldnews.18.a:0 "발칸 반도에서 또 다른 세계 대전을 시작하지 않기를 바래야겠군."
 worldnews.18.b:0 "모두 불가리아를 배척하자!"
-worldnews.18.c:0 "이거 좋아보이지 않는군..."						
+worldnews.18.c:0 "이거 좋아보이지 않는군..."
 
 worldnews.19.t:0 "5차 앵글로-아프가니스탄 전쟁"
 worldnews.19.d:0 "세계대전 이후 영국령 인도가 혼란과 전쟁으로 무너지면서 이웃인 아프가니스탄 왕국은 이를 자치령의 두 국경 지역인 페샤와르와 퀘타를 탈취 할 수 있는 기회로 활용했습니다. 그러나 지난 수십 년간 근대화하려는 아프가니스탄 정부의 시도는 파키스탄내의 보수적인 요소들의 격렬한 저항에 부딪쳤습니다. 아마눌라 칸은 현재 조지 5세가 타계한 후 델리에서 혼란을 겪기를 바라고 있습니다. 칸은 4차 앵글로-아프간 전쟁의 성공을 반복함으로써 보수 야당을 침묵시키고 왕국에 새로운 땅을 가져 오기를 희망합니다. 그러나 국제 전문가들은 작은 산악 국가가 승리할 것이라고는 생각하지 않습니다."
@@ -128,6 +132,7 @@ worldnews.29.a:0 "무엇이 바뀔까?"
 worldnews.30.t:0 "일본이 야망을 드러내다."
 worldnews.30.d:0 "비록 일본이 1921년 명예로운 강화 이후 수많은 경제 위기와 폭동과, 중국의 타나카 독재 정권을 무너뜨린 독일의 개입에 비효율적인 대응을 보이면서 위기에 처하고 있지만, 동아시아의 맹주로의 일본 제국을 회복하는 데에는 성공했습니다. \n\n그러나 일본인들은 현재의 위상으로도 만족하지 못한 것으로 보이며, 필요하다면 무력으로 세계의 위대한 초강대국들 사이에 속하고 싶은 야망을 드러냈습니다. 하지만 이 야망은 독일의 영향력 하에 있는 중국 지역과의 갈등을 불러일으킬 것입니다..."
 worldnews.30.a:0 "문제로구나."
+worldnews.30.b:0 "훌륭하군."							 
 
 worldnews.31.t:0 "프랑스에서 노동당이 선출되다"
 worldnews.31.d:0 "프랑스 코뮌은 세계 생디칼리스트의 주도 국가이며, 도시 공동체(코뮌)의 연합체로서 공안위원회가 이끌고 있습니다. 그러나 창립 이래로 제 2 코뮌은 그 정책에서 통일된것이 아니었습니다. 많은 진영이 생겨났고, 각 진영마다 프랑스가 취해야 할 경로에 대한 자신만의 아이디어가 있었습니다. 독일에 대한 복수와 세계 혁명의 시간이 다가옴에 따라 1936 년 노동 총의회 선거는 매우 중요하게 되었습니다... \n\n마르소 피베르의 불명예스로운 교체는 그의 당파인 노동당에 의해 발생했습니다. 그들은 현재 CSP의 선두주자이며, 민주주의의 연장을 상징하며 코뮌을 분권화하기 위해 영국인으로부터 영감을 얻었습니다."
@@ -179,8 +184,9 @@ worldnews.42.t:0 "미국 내전의 끝"
 worldnews.42.d:0 "신세계에서 일어난 가장 피비린내 나는 분쟁인 2차 미국 내전은 끝났습니다. 흐느껴 우는 미망인이 그들의 숨진 남편과 아들을 묻으면서, 옛 정권의 마지막 흔적이 아메리카 노조 연맹이 이끄는 미국 혁명에 휩쓸리고 있습니다. 낡은 자본주의 체제가 해체되고 프랑스와 영국과 비슷한 조직으로 바뀌었고 이제는 적색-검정색 국기가 이전 국회에 흔들리고 있고, 곧 신디케이트 의회로 전환 될 것입니다. \n\n 이미 CSA와 캐나다와의 관계가 긴장되고 있으며, 신세계에서 생디칼리즘의 선봉이 되기를 고대하고 있습니다. 미국-그것은 변했습니다. 영원히..."
 worldnews.42.a:0 "세계 혁명은 더욱 확산되고 있다."
 
-worldnews.43.t:0 "미틀오이로파의 반란"
+worldnews.43.t:0 "제국협정의 반란"
 worldnews.43.d:0 "세계대전에서 러시아 제국이 멸망한 후, 독일은 동유럽의 광대한 지역을 차지하고, 괴뢰국을 수립하고 미틀오이로파를 창설했습니다. 그러나 이 동맹국들의 동맹 관계는 지속될 예정이 아니었습니다. 동유럽이 이번 주에 독일 영향력에 대항한 반란으로 다시 행동에 나섰습니다. \n\n A. 볼데마라스가 주도하는 리투아니아는 독일로부터 완전한 독립을 선언했으며, 이로 인해 이웃 국가들에서 연쇄 반응이 촉발되었습니다. 독일은 군사적 방법으로 대응했지만, 민족주의 정신을 붕괴시키기에 충분할까요?"
+worldnews.43.plc:0 "After the fall of the Russian Empire in the Weltkrieg, Germany occupied vast swathes of Eastern Europe, establishing puppet governments across it and creating the Reichspakt military alliance. This tightly knit alliance of countries was not meant to last, it seems, as Eastern Europe roared back to action this week with a revolt in the German sphere.\n\nThe Lithuanians, led by Augistinas Voldemaras, their Vadas - Leader - have declared full independence from their oppressors in the Polish-Lithuanian Commonwealth, and this has sparked a chain reaction in neighbouring countries, pulling in even the German Empire to quell the rebellion. Germany and the PLC have both moved in with a military response, but will it be enough to crush the spirit of nationalism?"																																																																																																																																																																																																				
 worldnews.43.a:0 "리투- 어디?"
 
 worldnews.44.t:0 "쿠르드족의 반란"
@@ -291,7 +297,6 @@ worldnews.69.piusxii:0 "시스티나 예배당의 굴뚝이 흰 연기를 뿜어
 worldnews.69.stephenx:0 "시스티나 예배당의 굴뚝이 흰 연기를 뿜어 내면서 로마의 신실한 가톨릭 신자들은 안도의 한숨을 쉬었습니다. 그것은 새로운 교황 선출을 의미합니다.  얼마 후, 자비로운 추기경 엘리아 달라 코스타가 카톨릭 교회의 지도자이자 [ITA.GetNameDef]의 국가 원수인 스테판 10세 교황 성하가 되었다고 발표되었습니다.많은 사람들은 교황 성하께서 정부에 대한 교회의 통제를 좀더 세속적인 기관에 넘겨주기까지는 오랜 시간이 걸리지 않을 것이라고 추측합니다."
 worldnews.69.johnxxiii:0 "시스티나 예배당의 굴뚝이 흰 연기를 뿜어 내면서 로마의 신실한 가톨릭 신자들은 안도의 한숨을 쉬었습니다. 그것은 새로운 교황 선출을 의미합니다.  얼마 후, 사회주의자 추기경 아실 리에나가 카톨릭 교회의 지도자이자 [ITA.GetNameDef]의 국가 원수인 요한 23세 교황 성하가 되었다고 발표되었습니다. 많은 사람들은 새로운 교황이 생디칼리즘에 대한 교회의 반대를 약화시키고 [SRI.GetNameDef]와의 새로운 관계를 희망한다고 추측합니다."
 worldnews.69.juliusiv:0 "시스티나 예배당의 굴뚝이 흰 연기를 뿜어 내면서 로마의 신실한 가톨릭 신자들은 안도의 한숨을 쉬었습니다. 그것은 새로운 교황 선출을 의미합니다.  얼마 후, 엄격한 추기경인 테오도어 이니처가 카톨릭 교회의 지도자이자 [ITA.GetNameDef]의 국가 원수인 율리우스 6세 교황 성하가 되었다고 발표되었습니다. 그는 진정으로 정치인이며, 생디칼리즘에게 강력하게 반대하는 교황입니다."
-worldnews.69.juliusiv.austria:0 "많은 사람들이 오늘 시스티나 예배당에서 쏟아져 나오는 하얀 연기에 놀랐습니다. 이는 로마에서 새로운 교황이 선출되었음을 의미합니다. 급히 소집된 콘클라베는 정치인이며, 생디칼리즘에게 강력하게 반대하는 추기경 테오도어 이니처가 율리우스 6세 교황 성하가 되었다고 발표했습니다. 그의 선출은 [AUS.GetNameDef]가 이탈리아 군주국을 복원하라는 압력을 넣어 급히 진행된 것이라는 소문이 있으며, 오스트리아뿐만 아니라 남부 사회 주의자들과의 관계도 악화되고 있음을 의미합니다."
 worldnews.69.gregoriusxvii:0 "시스티나 예배당의 굴뚝이 흰 연기를 뿜어 내면서 로마의 신실한 가톨릭 신자들은 안도의 한숨을 쉬었습니다. 그것은 새로운 교황 선출을 의미합니다.  얼마 후, 추기경 알프레도 오타비아니가 카톨릭 교회의 지도자이자 [ITA.GetNameDef]의 국가 원수인 그레고리우스 17세 교황 성하가 되었다고 발표되었습니다. "
 worldnews.69.johnxxiv:0 "시스티나 예배당의 굴뚝이 흰 연기를 뿜어 내면서 로마의 신실한 가톨릭 신자들은 안도의 한숨을 쉬었습니다. 그것은 새로운 교황 선출을 의미합니다.  얼마 후, 사회 민주주의자 추기경인 안젤로 주세페 론칼리가 카톨릭 교회의 지도자이자 [ITA.GetNameDef]의 국가 원수인 요한 24세 교황 성하가 되었다고 발표되었습니다."
 worldnews.69.paulusvi:0 "시스티나 예배당의 굴뚝이 흰 연기를 뿜어 내면서 로마의 신실한 가톨릭 신자들은 안도의 한숨을 쉬었습니다. 그것은 새로운 교황 선출을 의미합니다.  얼마 후, 추기경 조반니 바티스타 몬티니가 카톨릭 교회의 지도자이자 [ITA.GetNameDef]의 국가 원수인 바오로 6세 교황 성하가 되었다고 발표되었습니다."
@@ -337,9 +342,9 @@ worldnews.78.t:0 "바라티야 코뮌에서 간디가 힘을 얻는다."
 worldnews.78.d:0 "바라티야 코뮌의 농촌 사회주의 당의 지도자이자 최근 선출 된 국가 원수인 모한다스 카람찬드 간디(Mohandas Karamchand Gandhi)-그의 국민에 대한 헌신으로 때때로 마하트마 또는 '순수한 영혼'으로 불리는-는 오늘 캘커타의 군중들에게 열정적인 연설을 했습니다.그는 인도의 통일을 위한 '평화의 길'이 있음을 약속했습니다. 그는 이것이 북부의 인도 자치령과 서부의 번왕국 연방에 대한 바라티야 연방의 항복이라는 의미라는 추측을 일축하면서 코뮌은 모든 침략에 대해 스스로를 지킬것이라고 단호하게 주장했습니다. 그는 인도 전역의 사람들에게 더 많은 불행만을 가져오는 파괴적인 전쟁보다는 평화적 수단을 통해 스와라지(자치)의 가능성을 고려할 것을 촉구했습니다. 그의 정부가 이 길을 따라가기 위해 최선을 다할 것이라고 말했습니다."
 worldnews.78.a:0 "흥미롭군."
 
-worldnews.79.t:0 "호치민, 캘커타에 도착"
-worldnews.79.d:0 "호치민이라고도 불리는 응웬 신 콘(Nguyen Sinh Con)의 지도 하에 있는 인도차이나 혁명당은 오늘 아침, 파리에서 캘커타 강 유역에 도착하여 망명 정부를 설립했습니다. 바라티야 코뮌 정부는 동남아시아의 독일 식민 통치에 반대하는 독립 운동을 지지하기로 결정했습니다- 특히 독일 경제가 여전히 검은 월요일의 영향에서 회복하려고 노력하고 있는 지금, 지역의 취약한 안정성을 위협합니다. 호치민의 식민지주의에 대한 투쟁이 성공할 것인가 아닌가는 다음의 문제입니다."
-worldnews.79.a:0 "계속 지켜 봐야한다."
+# worldnews.79
+# has been deleted. It was
+# "Ho Chi Minh Arrives in Calcutta"
 
 worldnews.80.t:0 "인도의 평화로의 길?"
 worldnews.80.d:0 "놀랍게도 바라티야 코뮌과 인도 자치령의 두 대표가 두 나라의 평화로운 재결합 계획을 발표했다. 마하트마(모한다스 카람찬드 간디)가 주창한 계획이지만 델리의 인도 독립 연맹의 동의와 여러 가지 타협안이 필요합니다. 여기에는 [DEH.GetNameDef]의 대영 제국과의 유대관계 청산과 다가오는 선거에서 사회주의 정당의 합법화가 포함됩니다. 공개적으로 협의가 이루어지지 않아 배신감을 느끼는 [DEH.GetNameDef]의 사람들이 많기때문에 선거는 치열한 접전을 벌이고 있습니다만, 더 많은 사람들이 유혈 사태없이 인도 아대륙을 재결합시키는 이 중요한 발걸음을 공개적으로 응원하고 있습니다."
@@ -386,9 +391,13 @@ worldnews.90.d.fuck_it:0 "1936년 영국 노동 조합 총회가 마무리되었
 worldnews.90.d.vote_again:0 "1936년 영국 노동 조합 총회가 마무리되었습니다. 필립 스노덴 TUC 위원장이 사의를 표명함에 따라, 극단주의자, 자치주의자, 연방주의자, 회중론자 등 네 가지 주요 파벌이 그 자리를 두고 경쟁했습니다. \n\n 분란이 가라앉기는 했지만, 이 치열한 선거에서 선두를 차지한 정당은 없었습니다. 불안정이 고조되고 모든 파벌들이 표의 재검 또는 새로운 선거를 요구하자, TUC는 마침내 내년에 선거를 다시 치르기로 결정했습니다. 많은 사람들에게 이것은 브리튼 연방에서의 정치적 타성의 출현으로 받아들여집니다."
 worldnews.90.a:0 "흥미롭군."
 
-worldnews.91.t:0 "인도 차이나에서의 반란"
-worldnews.91.d:0 "오늘날, 코친 차이나에서 통킹에 이르는 지역의 현지 인도차이나 민병대는 독일 식민지 관리들에 대한 무장 봉기를 시작했습니다. 바라티야 코뮌의 혁명가들과 지원병들에 힘 입어 그들은 미래의 독일 인도 차이나와 동남아시아 지역 전체의 안정에 심각한 위협이 되고 있습니다. \n\n독일 외무부은 아무런 반응을 하고 있지 않지만 인도 차이나의 반란가들은 그들의 말을 기다리지 않고 지역을 점령하기 시작했습니다. 따라서 독일은 전쟁을 승인하거나 독일 제국에 엄청난 타격을 줄 것으로 예상되는, 전체 식민지를 포기는 선택을 할것으로 보입니다."
-worldnews.91.a:0 "독일의 점령이 약화되었다."
+worldnews.91.t:0 "인도차이나가 독립을 선언하였습니다"
+worldnews.91.d.a:0 "After the Weltkrieg, Germany seized the former French Indochina, but stability didn't restore until German intervention in 1926 crushed the revolutionaries in South China.\nNow, Indochinese nationalists and leftists under a coalition government called Viet Minh rise up against the colonial regime. Nguyen Anh Ninh, the head of Viet Minh, declared the independence of Indochinese Union. After salute to the Internationale and world revolution, he condemned the brutal German oppression of the proletariats of the world and affirmed the Indochinese workers' commitment to anti-imperialism and the liberation of colonial people.\nMost observers agree with German media that they are just some pompous peasants. German military force or even polices in the Far East can easily suppress the revolts, or so called Vietcong."
+worldnews.91.d.b:0 "After the Weltkrieg, Germany seized the former French Indochina, but stability didn't restore until German intervention in 1926 crushed the revolutionaries in South China.\nNow, Indochinese nationalists and leftists under a coalition government called Viet Minh rise up against the colonial regime. Nguyen Anh Ninh, the head of Viet Minh, declared the independence of Indochinese Union in Saigon. After paying homage to the resistance of Asian people, he condemned the brutal German oppression of Asian people and affirmed the Indochinese people's commitment to the unity of Asia.\nMost observers agree with German media that they are just some pompous peasants. German military force or even polices in the Far East can easily suppress the revolts, or so called Vietcong."
+worldnews.91.d.c:0 "After the Weltkrieg, Germany seized the former French Indochina, but stability didn't restore until German intervention in 1926 crushed the revolutionaries in South China.\nNow, Indochinese nationalists and leftists under a coalition government called Viet Minh rise up against the colonial regime. After quoting the French Declaration of the Rights of Man and the American Declaration of Independence, Nguyen Anh Ninh, the head of Viet Minh condemned the brutal German oppression of free people and affirmed the Indochinese nation's right to independence.\nMost observers agree with German media that they are just some pompous peasants. German military force or even polices in the Far East can easily suppress the revolts, or so called Vietcong."
+worldnews.91.a:0 "Who would win? German Empire or some Vietnamese peasants?"
+worldnews.91.b:0 "They are surely not model colonial subjects."
+worldnews.91.c:0 "Where did they learn the American Declaration of Independence?"																			 
 
 worldnews.92.t:0 "인도 차이나 반란은 성공하다."
 worldnews.92.d:0 "베트민 민병대들은 끈기와 분노로 인도차이나 반도의 거의 모든 전략적 지점에서 독일 군대를 몰아내는데 성공했고, 독일 외무부는 마침내 반란군 지도자들을 만나는 것에 동의했고 그들이 주장하는 전체 지역에서의 완전 독립을 제안했습니다.\n\n오늘, 베트민에 의해 인도차이나 연합이 성립되었고, 이 역사적인 사건을 목격 한 베트남 사람들은 환호했습니다. 이 나라의 미래는 아직 불확실하지만, 세계가 이 사건이 아시아에 미치는 영향을 측정하려고 시도하는 가운데 바라티야 코뮌과의 동맹에 대한 소문이 각국의 외교 경로를 통해 확산되기 시작했습니다."
@@ -517,6 +526,124 @@ worldnews.120.b:0 "헤르만, 내 부대를 돌려 다오!"
 worldnews.120.c:0 "훈족 놈들이 온다"
 worldnews.120.e:0 "아프리카 인민들은 제국주의로부터의 자유를 갈망했다!"
 
+worldnews.121.t:0 "War over Haute-Savoie!"
+worldnews.121.d:0 "The world has watched with looming apprehension as the Commune of France has made increasingly aggressive demands for control of the Swiss-occupied region of Haute-Savoie. The region has been occupied by Swiss forces since the end of the Weltkrieg, and Bern's refusal to recognise the Communal government in Paris as the rightful owner of the territory has inflamed tensions between the two nations ever since.\n\nToday however, instead of continued negotiations and diplomatic action, it was artillery fire that marked the next steps in negotiations as French troops crossed the border into Switzerland. Negotiations have broken down and it seems the French are willing to retake their prize by force if need be."
+worldnews.121.enemies:0 "In response to revolutionary activity in the western Swiss regions of Romandie and Haute-Savoie, Swiss military forces have moved in to quell the uprising. The revolutionaries have requested aid from the neighbouring Commune of France, who issued an ultimatum to the Swiss government in Bern to halt their suppression of Syndicalist elements in the nation. The Swiss government has refused, and the Commune of France has mobilized its forces to support the Swiss revolutionaries."
+worldnews.121.a:0 "So ends the peace."
+worldnews.121.b:0 "A war for our very survival."
+worldnews.121.c:0 "Fight the imperialists!"
+worldnews.121.e:0 "The French will be destroyed."
+
+worldnews.122.t:0 "Syndicalist Revolutionaries in Switzerland"
+worldnews.122.d:0 "Chaotic reports are coming from the small mountain republic of Switzerland stating that Syndicalist revolutionaries have entered the capital of Bern. Switzerland has long had a problem with syndicalist activism in its western French-speaking regions of Haute-Savoie and Romandie, but never have they ever had revolutionary forces act so openly against the government.\n\nWith the speed and effectiveness of the revolutionary forces, many suspect the direct involvement of the French Commune, who have long agitated for the cession of French-speaking land.\n\nWhile there is fighting in and around other parts of the country, it seems that Syndicalist forces hold the capital for now."
+worldnews.122.enemies:0 "Chaotic reports are coming from the small mountain republic of Switzerland stating that Syndicalist revolutionaries have seized the western regions of the Romandie and occupied haute-Savoie following a Swiss military crackdown in the region. Supporting the successful Swiss revolutionaries, French troops have quickly moved in to occupy the region, and the Swiss military has held a defensive posture, unwilling to advance into the French guns. It seems that the speed of the revolutionary action has caught the Swiss government off guard, and they are unwilling to escalate the violenece into a full war with France. It remains to be seen what the Swiss will do next."
+worldnews.122.a:0 "How could this have happened?"
+worldnews.122.b:0 "Break the chains!"
+worldnews.122.c:0 "Wonderful!"
+worldnews.122.e:0 "It's right on our border!"
+
+worldnews.123.t:0 "Syndicalists Take Over Australasia"
+worldnews.123.d:0 "The recent election in the Australasian Confederation saw victory for the Labor Party led by John Curtin, but within days after his victory radical elements within the Labor Party rose up and took control. These radicals are loyal to the Australasian Council of Trade Unions, the ACTU being the most prominent syndicalist faction in the Antipodes, in hiding since the Melbourne Common uprising of 1924 and the subsequent suppression of unions by Governor General William Birdwood's government. The coup has left the nation in shock, with syndicalist loyalists already taking to the streets across Australasia to prevent demonstrations and outbreaks of violence."
+worldnews.123.a:0 "A welcome addition to the world revolution!"
+worldnews.123.b:0 "How alarming."
+worldnews.123.c:0 "Syndicalism returns to our hemisphere..."
+
+worldnews.124.t:0 "The Australasian Guard"
+worldnews.124.d:0 "Surprising news from [AST.GetNameDef] as Eric Campbell's Centre Party managed a come-from-behind victory in the recent elections. The Centre Party is the political front for the Australasian Guard, a paramilitary organisation made up of ex-servicemen who fought in the Weltkrieg. These right-wing authoritarians have long criticised the Australasian government for not going far enough in its suppression of Syndicalism, and gained admiration for their assistance in quelling the Melbourne Commune uprising in 1924. Their popularity only further increased as they maintained order during the recent labour violence following the 1936 election. It's unknown what effect this turn towards authoritarianism will have on the country, though the Entente is relieved at the Guard's fervent dedication to the British Empire."
+worldnews.124.a:0 "Interesting."
+
+worldnews.125.t:0 "The Australasia First Movement"
+worldnews.125.d:0 "Suprising news from [AST.GetNameDef] as Percy Stephensen's AFM managed to gain control of parliament in the recent elections. The Australasia First Movement is an anti-British party which has been capitalizing on anti-war sentiment in Australasia, and now promises to cut all ties to the British crown in addition to an eventual withdrawal from the Entente alliance. The group is renowned for its authoritarian syncretic rhetoric, and expectations are high that Prime Minister Stephensen will quickly take steps to eliminate democratic rule in Australasia in addition to his transformation of the country into a republic. Already demonstrations as well as violent encounters led by the Australasian Guard have broke out across the nation, and it is currently unknown if the Entente intends to intervene."
+worldnews.125.a:0 "Interesting."
+
+worldnews.126.t:0 "Australasian Guard Coup"
+worldnews.126.d:0 "Shocking news from [AST.GetNameDef] as the Australsian Guard, a group of right-wing authoritarians who have long criticised the Australasian government for not going far enough in its suppression of syndicalism, and who lost in their recent electoral bid by a fair margin, have seized control of the government. Led by Field Marshal Thomas Blamey, the new government immediately promised that [AST.GetNameDef] would do whatever it took to stamp out syndicalism within Australasia. Blamey also stated Australasia would dedicate itself fully to the Entente alliance as a proud and loyal member of the British Empire. Demonstrations have already broken out across the nation, and thus Australasia faces an uncertain and likely unstable future."
+worldnews.126.d.nzl:0 "Shocking news from [AST.GetNameDef] as the Australasian Guard, a group of right-wing authoritarians who are vehemently anti-syndicalist and pro-monarchist, have stormed the Australasian parliament in Canberra and seized control of the government. Led by Field Marshal Thomas Blamey, the new government immediately promised [AST.GetNameDef] would do whatever it took to restore order in the nation and would immediately reverse all efforts to transform the nation into a republic outside of the British Empire. Some are viewing this as a restoration of the status quo, though it seems likely that this instability means further trouble ahead for the country."
+worldnews.126.a:0 "How unexpected."
+
+worldnews.127.t:0 "[AST.GetNameDefCap] Becomes a Republic"
+worldnews.127.d.permission:0 "After a contentious parliamentary debate which, at times, threatened to cause a new outbreak of civil violence, the [AST.GetAdjective] government today ratified the so-called Australasian Constitutional Act which sees the country abandon the Westminster parliamentary system in favour of a republic. This was done with the reluctant permission of King Edward VIII, on the condition that [AST.GetNameDef] remain a staunch and loyal overseas ally."
+worldnews.127.d.kicked:0 "After a contentious parliamentary debate which, at times, threatened to cause a new outbreak of civil violence, the [AST.GetAdjective] government today ratified the so-called Australasian Constitutional Act which sees the country abandon the Westminster parliamentary system in favour of a republic. This was done with the reluctant permission of King Edward VIII, though it has meant the withdrawal of [AST.GetNameDef] from the Entente alliance and its status as a member of the Commonwealth."
+worldnews.127.d.rebel:0 "After a contentious parliamentary debate which, at times, threatened to cause a new outbreak of civil violence, the [AST.GetAdjective] government today ratified the so-called Australasian Constitutional Act which sees the country abandon the Westminster parliamentary system in favour of a republic. This was done in defiance of King Edward VIII, who expressed through his Governor General that the bill was an invalid one, and monarchists across the nation have decried the government's act as a treacherous one. So far this has meant ejection of [AST.GetNameDef] from the Entente alliance, and whether the British crown will go further as an act of reprisal remains to be seen."
+worldnews.127.a:0 "Goodness!"
+
+worldnews.128.t:0 "The Second Melbourne Uprising"
+worldnews.128.d:0 "Massive unrest in the [AST.GetAdjective] Confederation has culminated in the Second Melbourne Uprising by syndicalists, mirroring the first such uprising that occurred in 1924 and which was crushed by both the government and paramilitary forces. This time, however, the unpopular Australasian Guard-led government folded under pressure from the public and has turned over control of the government to the Australasian Council of Trade Unions - which has promised the public a restoration of order and a fair deal for the [AST.GetAdjective] working man. The revolution has rippled across the country and led to outbreaks of even more demonstrations, and so far it is unknown whether the Entente will step in to intervene."
+worldnews.128.a:0 "A welcome addition to the world revolution!"
+worldnews.128.b:0 "How alarming."
+
+worldnews.129.t:0 "The Second Melbourne Uprising"
+worldnews.129.d:0 "Massive unrest in the [AST.GetAdjective] Confederation has culminated in the Second Melbourne Uprising by syndicalists, mirroring the first such uprising that occurred in 1924 and which was crushed by both the government and paramilitary forces. The unpopular Australasian Guard-led government ordered [AST.GetAdjective] soldiers to open fire on the protesters, leading to a bloodbath which has left hundreds dead and chaos reigning in the southern city for weeks. While the Guard appears to have the situation under control now and have tried to block any information getting out from Melbourne, the unprecedented violence has led to condemnation for [AST.GetNewsDef] from around the world."
+worldnews.129.a:0 "How alarming."
+
+worldnews.130.t:0 "The Second Melbourne Uprising"
+worldnews.130.d:0 "Massive unrest in the [AST.GetAdjective] Confederation has culminated in the Second Melbourne Uprising by syndicalists, mirroring the first such uprising that occurred in 1924 and which was crushed by both the government and paramilitary forces. Deciding against turning their guns against the crowds, the incredibly unpopular Australasian Guard government has turned to the British for aid. As in 1924, the British have invoked the Emergency Protocols act and taken direct control of [AST.GetNameDef], the Governor General demanding Prime Minister Eric Campbell step down and passing a series of acts to attempt a compromise. The situation in the country has finally quietened, though it finds itself back at the point it was in 1936 when the first elections were called: under authoritarian British rule, with a mandate to protect order at all costs."
+worldnews.130.a:0 "How alarming."
+
+worldnews.131.t:0 "The New Zealand Crisis"
+worldnews.131.d.synd:0 "A crisis appears to be deepening in [AST.GetNameDef] as news organisations report a severing of ties between the [AST.GetAdjective] state of New Zealand and the mainland. Support in New Zealand for the new syndicalist government has never been strong, and reports are that the state offered safe haven to New Guard paramilitary forces fleeing the mainland after failing to overthrow the Canberra government in a recent coup attempt. With portions of the [AST.GetAdjective] navy and army already defecting to New Zealand, the prospect of war looms... one which, it is feared, may even draw the Entente into a final showdown with the [AST.GetAdjective] syndicalists."
+worldnews.131.d.afm:0 "A crisis appears to be deepening in [AST.GetNameDef] as news organisations report a severing of ties between the [AST.GetAdjective] state of New Zealand and the mainland. Support in New Zealand for the new AFM government has never been strong, particularly after its severence of ties with the Entente alliance, and reports are that the state offered safe haven to New Guard paramilitary forces fleeing the mainland after failing to overthrow the Canberra government in a recent coup attempt. With portions of the [AST.GetAdjective] navy and army already defecting to New Zealand, the prospect of war looms... one which, it is feared, may even draw the Entente into a final showdown with the [AST.GetAdjective] republicans."
+worldnews.131.a:0 "How alarming."
+
+worldnews.132.t:0 "New Zealand Votes For Independence"
+worldnews.132.d:0 "After a recent divisive referendum, the Australasian state of New Zealand today voted for independence from the larger confederation. New Zealanders have long resented their annexation by the mainland following the British invocation of the Conservation of Resources Act in 1924, and that resentment boiled over into a campaign for independence following the imposition of conscription by the mainland. The Canberra government has given its reluctant blessing for the state's secession, expected to begin taking effect immediately."
+worldnews.132.a:0 "Interesting."
+
+worldnews.133.t:0 "Restoration of Democracy in Australasia"
+worldnews.133.d:0 "[AST.GetNameDefCap] has been under the authoritarian rule of Governor General William Birdwood since the British invocation of the Emergency Protocols in 1924, considered by many in the nation to have been a heavy-handed response to the Melbourne Common syndicalist uprising. Birdwood finally relented to calls for an open election, leading to the expected result of Stanley Bruce's United Australasia Party achieving a majority government in the Canberra parliament. Bruce is expected to have a tough time ahead of him, with labour unrest on the rise and calls for the revocation of Birdwood's more egregious restrictions on personal liberty."
+worldnews.133.a:0 "Interesting."
+worldnews.134.d:0 "[AST.GetNameDefCap] has been under the authoritarian rule of Governor General William Birdwood since the British invocation of the Emergency Protocols in 1924, considered by many in the nation to have been a heavy-handed response to the Melbourne Common syndicalist uprising. Birdwood finally relented to calls for an open election, leading to the surprise result of Earle Page's Country Party achieving a minority government in the Canberra parliament. Page is expected to have a tough time ahead of him, with labour unrest on the rise and calls for the revocation of Birdwood's more egregious restrictions on personal liberty."
+worldnews.135.d:0 "[AST.GetNameDefCap] has been under the authoritarian rule of Governor General William Birdwood since the British invocation of the Emergency Protocols in 1924, considered by many in the nation to have been a heavy-handed response to the Melbourne Common syndicalist uprising. Birdwood finally relented to calls for an open election, leading to John Curtin's Labour Party achieving a slim majority in parliament. After radicals in the party associated with the Australasian Council of Trade Unions failed to take over the Labour Party and subsequently having been ejected, Curtin is expected to have a tough time ahead with renewed labour unrest and pressure from more hardline members of parliament to immediately suppress syndicalist activism."
+
+worldnews.136.t:0 "Belgian Declaration of Independence"
+worldnews.136.d:0 "Sick of German oppression and the disaster of Black Monday, Belgian independence movements throughout the country have been revolting and performing guerrilla strikes on the German army. Due to their own recovery, the German Empire has been unable to support Adalbert I to the fullest and has let the situation escalate beyond their control. After coordinated strikes by the Independence Army on the cities of Mons and Antwerp, they were finally able to push the Flandern-Wallonian army back to Brussels where after fierce fighting the German king surrendered. With no clear answer yet from the German Empire, many fear that an independent Belgium might be shortlived especially with tensions between the Empire and the Commune of France rising and the strategic location of the country."
+worldnews.136.a:0 "Good luck Belgium!"
+
+worldnews.137.t:0 "Syndicalist Takeover in Wallonia"
+worldnews.137.d:0 "Wallonian syndicalists in the Sillon Industriel and Liège have declared the independence of Wallonia after the Commune of France declared war on the German Empire. Hoping to ride on the successes of the French armies, they plan to liberate Flanders-Wallonia from German oppression and reform Belgium as a syndicalist state following the French model. The Commune of France has expressed their support for the rebellion and has reaffirmed their ties with the Wallonian POB."
+worldnews.137.a:0 "This is a decisive blow to the Meuse Line."
+
+worldnews.138.t:0 "The Agrarians Take Power in Bulgaria"
+worldnews.138.d:0 "Following their overwhelming loss in the Balkan War against the powerful Belgrade Pact, it seems as though the issue of selecting a new government was a hot debate within Bulgaria. As it stood, the Bulgarian people themselves had three candidates who would lead the nation: the liberal Radical Democrat and Broad Socialist parties and the conservative Bulgarian Agrarian National Union, lead by Aleksandar Stamboliyski. In the end, it seems as though the [From.GetRulingParty] were effectively able to seize power and cement their reign in Bulgaria..."
+worldnews.138.a:0 "Interesting..."
+
+worldnews.139.t:0 "Boris III's Coup"
+worldnews.139.d:0 "Apparently, it seems as though the pro-Slavic government under the former Prime Minister Aleksandar Stamboliyski has been ousted from the government, with Ferdinand I's son, who now styles himself as Tsar Boris III, retaking the throne with the backing of influential rightist politicians and loyal officers from the military.\n\nThis comes as a shock to many within the international community and even those living in Bulgaria due to the sheer scope of the conflict. In addition, the state of affairs within Bulgaria is not one to be envied as the nation itself is very much destabilised with mass rioting, looting, and protesting all being common within the once victorious nation. Whatever may come, this is certainly a decisive and watershed moment in Bulgarian history."
+worldnews.139.a:0 "Shocking!"
+
+worldnews.140.t:0 "The [From.GetRulingParty] Has Taken Power in Bulgaria"
+worldnews.140.d:0 "Apparently, it seems as though the conservative government under the former Prime Minister Aleksandar Stamboliyski has been ousted from the government following the refusal of the Serbian government to help the pro-Slavic Stamboliyski realise his dream of a united Yugoslavia. With this in mind, and a general feeling of no confidence from the Bulgarian people themselves, the [From.GetRulingParty] had struck, seizing power for themselves and effectively consoling power under the new regime. Whatever else may happen remains to be seen, though it seems as though Bulgaria certainly has entangled itself in a rather turbulent state of affairs..."
+worldnews.140.a:0 "Another regime change?"
+worldnews.140.b:0 "We will come out of this!"
+
+worldnews.141.t:0 "The [From.GetRulingParty] Has Taken Power in Bulgaria"
+worldnews.141.d:0 "Apparently, it seems as though the conservative government under the former Prime Minister Aleksandar Stamboliyski has been ousted from the government following the refusal of the Yugoslavian government to help the pro-Slavic Stamboliyski realise his dream of a united Yugoslavia. With this in mind, and a general feeling of no confidence from the Bulgarian people themselves, the [From.GetRulingParty] had struck, seizing power for themselves and effectively consoling power under the new regime. Whatever else may happen remains to be seen, though it seems as though Bulgaria certainly has entangled itself in a rather turbulent state of affairs..."
+worldnews.141.a:0 "Another regime change?"
+
+worldnews.142.t:0 "A Freer Bulgaria"
+worldnews.142.d:0 "Today is a rather sombre, yet hopeful, day in Bulgarian history. The death of the late Tsar Ferdinand I has caused the Bulgarian people to come together and mourn the man that had brought them and the nation to its golden age and had successfully maintained that golden age.\n\nThe Tsar's death had saw the ascension of his son, now crowned Tsar Boris III, which was a momentous occasion for Bulgarians around the world. Beloved by many, the new Tsar has promised to bring change within and without, starting with a new regime change. Stating that Bulgaria shall be a freer nation, the [From.GetRulingParty] were able to take power with the blessing of the Tsar. Whatever effect this may have on the nation is yet to be seen..."
+worldnews.142.a:0 "We'll see what happens."
+
+worldnews.143.t:0 "A More Absolute Bulgaria"
+worldnews.143.d:0 "Today is a rather sombre, yet hopeful, day in Bulgarian history. The death of the late Tsar Ferdinand I has caused the Bulgarian people to come together and mourn the man that had brought them and the nation to its golden age and had successfully maintained that golden age.\n\nThe Tsar's death had saw the ascension of his son, now crowned Tsar Boris III, which was a momentous occasion for Bulgarians around the world. Beloved by many, the new Tsar has promised to bring change within and without, starting with a new regime change. Stating that Bulgaria shall be a nation under the guidance of the monarchy, the [From.GetRulingParty] were able to take power with the blessing of the Tsar. Whatever effect this may have on the nation is yet to be seen..."
+worldnews.143.a:0 "We'll see what happens."
+
+worldnews.144.t:0 "Coup by the [From.GetRulingParty] in Bulgaria"
+worldnews.144.d:0 "It seems that not even the status-quo of the democratic parties within Bulgaria were sustainable. Following the election of the new regime, it seemed as though Bulgaria was on the way to normalising relations with its neighbours, and even perhaps bringing about a constitutional monarchy. Unfortunately, this was not the case, as the [From.GetRulingParty] saw the weakness within the democratic regime and managed to exploit it, consolidating their power and beginning to institute their own programmes. What happens next is yet to be seen, though it certainly is a turbulent time for both the Bulgarian people and the Bulgarian nation."
+worldnews.144.a:0 "Again? This is getting out of hand..."
+
+worldnews.145.t:0 "The Conquest of Germany"
+worldnews.145.d.africa:0 "Today the unthinkable has occurred: German Heer forces fighting in Europe have finally collapsed under the weight of invading the armies. The Reich couldn't continue the struggle and so it appears the Kaiser, his cabinet, and a considerable number of state officials and key generals have embarked by sea to the African colonies still in the hand of the Germans. The Kaiser is seemingly committed to continuing the stuggle from his imperial possessions overseas, but for now the war in Europe is over and the worldwide German Empire has been thrown into utter disarray."
+worldnews.145.d.collapse:0 "Today the unthinkable has occurred: German Heer forces fighting in Europe have finally collapsed under the weight of invading the armies. With nowhere left to run, the Kaiser and his cabinet have met with invading leaders and agreed to a complete surrender. German territories across the world have been thrown into immediate disarray. It is clear that the world order which has existed since the end of the first Weltkrieg has now come to a fiery end."
+worldnews.145.a:0 "The Kaiserreich has fallen..." #Generic
+worldnews.145.b:0 "L'Internationale sera bientôt le genre humain..." #Commune of France
+worldnews.145.c:0 "Raise the scarlet standard high!" #Union of Britain
+worldnews.145.e:0 "Austria is now the only German power" #Austria
+worldnews.145.f:0 "The humiliation of Brest-Litovsk has been avenged!" #Russia
+worldnews.145.g:0 "What the Tsar could never achieve..." #Soviets
+worldnews.145.h:0 "Now Germany knows what it feels like, to lose everything" #Canada
+worldnews.145.i:0 "The massacres of the Weltkrieg have been avenged" #Nat France
+
 ### City Fall Events ###
 
 worldnews.250.t:0 "-"
@@ -633,33 +760,35 @@ worldnews.263.other.b:0 "워싱턴은 우리 것이다!"
 worldnews.263.other.c:0 "이건 좋지 않다..."
 worldnews.263.common:0 "워싱턴을 가진 자가 미국을 가진다... 지금은"
 
-# City falls from the Siamese files
-
 worldnews.264.t:0 "싱가포르 함락" #Siam
-worldnews.264.d:0 "'동양의 지브롤터'로 불리는 싱가포르가 이전에 통치하던 영국과 새로운 독일 군주에 의해 난공불락의 요새로 불렸음에도 불구하고, [SIA.GetAdjective] 황실 군대에 의해 점령당했습니다. \n\n싱가포르 통치 [SIA.GetAdjective] 군정은 풀러튼 빌딩을 통치 사령부로 정하였으며, 도시 이름을 '사자의 도시'라는 의미인 싱하나콘으로 바꾸었습니다. 사라와트 타한 헌병대는 거리를 순찰하면서 [SIA.GetAdjective]의 정복을 과시하며 행패를 부리고 있습니다."
-worldnews.264.a:0 "독일의 동인도제도 통치가 시암에 의해 흔들리고 있군."
-worldnews.264.b:0 "싱하나콘과 항복한 지역들은 시암에 흡수될 것이다!"
-worldnews.264.c:0 "제국 해군이 도착하게 되면 저들은 후회하게 될 것이다!"
-worldnews.264.e:0 "싱가포르는 명백한 영국의 식민지다. 이 상황을 면밀히 주시하자."
+worldnews.264.d.sia:0 "'동양의 지브롤터'로 불리는 싱가포르가 이전에 통치하던 영국과 새로운 독일 군주에 의해 난공불락의 요새로 불렸음에도 불구하고, [SIA.GetAdjective] 황실 군대에 의해 점령당했습니다. \n\n싱가포르 통치 [SIA.GetAdjective] 군정은 풀러튼 빌딩을 통치 사령부로 정하였으며, 도시 이름을 '사자의 도시'라는 의미인 싱하나콘으로 바꾸었습니다. 사라와트 타한 헌병대는 거리를 순찰하면서 [SIA.GetAdjective]의 정복을 과시하며 행패를 부리고 있습니다. 이에따라 믈라카 해협은 어느정도 [SIA.GetAdjective]의 통제에 있게 되었습니다."
+worldnews.264.d.jap:0 "Singapore, the 'Gibraltar of the East,' has been seized by Imperial Japanese forces despite having been considered an impregnable fortress by its former British owners and its new German overlords.\n\nThe Japanese Military Administration of Singapore has chosen the Fullerton Building as its headquarters, and the city has been renamed Syonanto, which roughly translates to 'Southern Island gained in the age of Showa.' The Kempeitai can be seen patrolling the streets en masse to hammer in the message that the Japanese are there to stay."
+worldnews.264.d.other:0 "'동양의 지브롤터'로 불리는 싱가포르가 이전에 통치하던 영국과 새로운 독일 군주에 의해 난공불락의 요새로 불렸음에도 불구하고, [SIA.GetAdjective] 황실 군대에 의해 점령당했습니다. \n\n싱가포르 통치 [SIA.GetAdjective] 군정은 풀러튼 빌딩을 통치 사령부로 정하였으며, 도시 이름을 '사자의 도시'라는 의미인 싱하나콘으로 바꾸었습니다. 사라와트 타한 헌병대는 거리를 순찰하면서 [SIA.GetAdjective]의 정복을 과시하며 행패를 부리고 있습니다."
+worldnews.264.a:0 "German dominance in the East Indies is heavily shaken by [new_controller.GetNameDef]."
+worldnews.264.b.sia:0 "Singhanakhon and its surrounding regions are an integral part of Siam!"
+worldnews.264.b.jap:0 "황제폐하를 위하여!"
+worldnews.264.b.other:0 "사자도시는 이제 우리의 손에 들어왔다!"
+worldnews.264.c:0 "They will regret this petty colonial theft when the Kriegsmarine arrives!"
+worldnews.264.e:0 "Singapore is a rightful British colony. Let us watch this development closely."																								  
 
-worldnews.265.t:0 "시드니 함락" #Siam
-worldnews.265.d:0 "남방 정복의 범위가 더욱 넓어지면서, [SIA.GetNameDef]은 오스트랄라시아의 시드니를 점령했습니다. 현지의 수비대는 하버 브릿지를 가로질러 옵저버토리 힐까지 후퇴했으며, 다리를 무너뜨리려는 시도마저 진격하는 [SIA.GetAdjective] 군대에 의해 좌절되고 말았습니다.\n\n이제 [SIA.GetAdjective]의 군기가 시드니의 새 군정 사령부 역할을 하는 시드니 시청에 걸려 있는 것을 볼 수 있고 사라와트 타한 헌병대는 거리를 경계하며 감시하고 있습니다."
-worldnews.265.a:0 "시드니를 손에 쥔 채로, 새로운 시암 제국이 대영 제국의 폐허에 세워졌다."
-worldnews.265.b:0 "세계에 오스트랄라시아 전 국토에 대한 시암의 권리를 주장해라!"
-worldnews.265.c:0 "아웃백 평원의 모든 목장이 함락될 때까지 우리는 절대 항복하지 않을 것이다!"
-worldnews.265.e:0 "왕립 해군이 도착하면 시암은 영연방을 건드린 것을 후회할 것이다."
+# 265 is free
 
-worldnews.266.t:0 "홍콩 함락" #Siam
-worldnews.266.d:0 "Troops from [SIA.GetNameDef] have captured the former British Crown Colony of Hong Kong after breaking through the Gin Drinkers Line and landing on Hong Kong Island itself. The situation soon became untenable for the defenders, and the Governor surrendered in person at the Peninsula Hong Kong hotel where the [SIA.GetAdjective] had established their headquarters.\n\nAfter a brief ceremony, a new [SIA.GetAdjective] governor was installed who announced a 'New Hong Kong' to the world, 'free of Western colonialism.'"
-worldnews.266.a:0 "홍콩의 함락은 공사관 도시들에게 있어 심각한 타격이다."
-worldnews.266.b:0 "서방 제국주의로부터 자유로운, 새로운 홍콩이 번영할 것이다!"
-worldnews.266.c:0 "공사관 도시는 이런 침략 행위를 용인하지 않을 것이다."
-worldnews.266.e:0 "바라건대 다시 없을, 옛 대영 제국 식민지에 대한 또 다른 타격이군."
+worldnews.266.t:0 "홍콩 함락"
+worldnews.266.d.asia:0 "Troops from [new_controller.GetNameDef] have captured the former British Crown Colony of Hong Kong after breaking through the Gin Drinkers Line and landing on Hong Kong Island itself. The situation soon became untenable for the defenders, and the Governor surrendered in person at the Peninsula Hong Kong hotel where the [new_controller.GetAdjective] had established their headquarters.\n\nAfter a brief ceremony, a new [new_controller.GetAdjective] governor was installed who announced a 'New Hong Kong' to the world, 'free of Western colonialism.'"
+worldnews.266.d.legat:0 "Troops from [new_controller.GetNameDef] have captured the former British Crown Colony of Hong Kong after breaking through the Gin Drinkers Line and landing on Hong Kong Island itself. The situation soon became untenable for the defenders, and the Governor surrendered in person at the Peninsula Hong Kong hotel where the [new_controller.GetAdjective] had established their headquarters.\n\nAfter a brief ceremony, a new [new_controller.GetAdjective] governor was installed who announced the 'Old Hong Kong' to the world, with Western control over the city restored."
+worldnews.266.d.other:0 "Troops from [new_controller.GetNameDef] have captured the former British Crown Colony of Hong Kong after breaking through the Gin Drinkers Line and landing on Hong Kong Island itself. The situation soon became untenable for the defenders, and the Governor surrendered in person at the Peninsula Hong Kong hotel where the [new_controller.GetAdjective] had established their headquarters.\n\nWith this, 'The Pearl of the East' is finally secured under [new_controller.GetAdjective] control."
+worldnews.266.a:0 "The fall of Hong Kong is a serious blow to the Legation Cities."
+worldnews.266.b.asia:0 "New Hong Kong will prosper, free from Western imperialism!"
+worldnews.266.b.legat:0 "Hong Kong is now back under our control"
+worldnews.266.b.other:0 "The Pearl of the East is secured"
+worldnews.266.c:0 "The Legation Cities will not tolerate this aggression."
+worldnews.266.e:0 "Another strike on a former British colony, hopefully not a pattern."									   
 
 worldnews.267.t:0 "마닐라 함락" #Siam
 worldnews.267.d:0 "Manila, capital of the Philippines, has fallen to the [SIA.GetAdjective] after the withdrawal of its Filipino defenders and her allies. The entrance to the strategically vital Manila Bay remained contested for some time after the city's fall due to the heavy concentration of Filipino coastal artillery on Corregidor Island, but the guns eventually fell silent after a concerted [SIA.GetAdjective] attack.\n\nWith Manila under [SIA.GetAdjective] control, the rest of the Philippines are expected to follow shortly after. This is a stinging defeat for the [From.GetFactionName] forces in Asia and the Pacific."
 worldnews.267.a:0 "마닐라의 함락으로 시암은 사실상 동인도 전역을 확보했다."
-worldnews.267.b:0 "우리는 서방 식민지로부터 동인도 전역의 패권을 빼앗았다."
+worldnews.267.b.asia:0 "우리는 서방 식민지로부터 동인도 전역의 패권을 빼앗았다."
+worldnews.267.b.other:0 "전 필리핀 지역은 곧 우리의 통제하에 들어갈 것이다."
 worldnews.267.c:0 "정글로 후퇴하라, 우리는 필리핀이 무너지도록 두지 않을 것이다!"
 
 worldnews.268.t:0 "캘커타 함락" #Siam
@@ -680,14 +809,18 @@ worldnews.269.f:0 "우리는 아시아의 마지막 보루를 잃을 여유가 �
 
 worldnews.270.t:0 "방콕 함락"
 worldnews.270.d.can:0 "Earlier today, the victorious [new_controller.GetAdjective] soldiers march through the streets of Bangkok after fierce fighting for most of the day. Most building along the Ratchadamnoen road were ruined by the artillery barrage, and the Union Jack is now raised over what is left of the old Ananta Samakhom throne hall that was used by the [old_controller.GetAdjective] government as their parliament.\n\nThe [old_controller.GetAdjective] government has met to discuss [new_controller.GetAdjective] demands, with many of Seri Thai movement members now taking their pre-arranged provisional government positions, as most old cabinet members are now presumed to be dead. Outside the city, however, fighting still continues, though it is unknown just how long it will last."
-worldnews.270.d.jap:0 "As fighting dies down in Bangkok, the hinomaru already flies from every building across Bangkok, now renamed Bankoku, and [new_controller.GetAdjective] officials have already installed a new transitional administration to handle their conquest.\n\nAlready, dissenters have been gathered up and driven off in the middle of the night, and the [old_controller.GetAdjective] army units who surrendered have begun a march to new camps being built for them in the countryside. Several local [old_controller.GetAdjective] leaders have been offered seppuku, to atone for their failure and due to the possibility of resistance rallying around them. Bangkok's Grand Palace has already begun renovations to be one of the Emperor's new seasonal residences, even though fighting still continues in the countryside."
+worldnews.270.d.jap:0 "As fighting dies down in Bangkok, the Hinomaru already flies from every building across Bangkok, now renamed Bankoku, and [new_controller.GetAdjective] officials have already installed a new transitional administration to handle their conquest.\n\nAlready, dissenters have been gathered up and driven off in the middle of the night, and the [old_controller.GetAdjective] army units who surrendered have begun a march to new camps being built for them in the countryside. Several local [old_controller.GetAdjective] leaders have been offered seppuku, to atone for their failure and due to the possibility of resistance rallying around them. Bangkok's Grand Palace has already begun renovations to be one of the Emperor's new seasonal residences, even though fighting still continues in the countryside."
+worldnews.270.d.gea:0 "Earlier today, the victorious German soldiers march through the streets of Bangkok after fierce fighting for most of the day. Most buildings along the Ratchadamnoen road were ruined by the artillery barrage from Deutsch-Ostasien warships anchored outside the Grand Palace, and the Reichskriegsflagge flag is now raised over the Ananta Samakhom throne hall that was used by the [old_controller.GetAdjective] government as their parliament.\n\nMany Pro-German elements within the Siamese government are rumored to be seen with Admiral [new_controller.GetLeader], discussing post-war position for themselves under the new German order as the remaining [old_controller.GetAdjective] troops retreat toward the countryside."
+worldnews.270.d.inc:0 "Earlier today, the victorious Indochinese soldiers march through the streets of Bangkok after fierce fighting for most of the day. Most buildings along the Ratchadamnoen road were ruined by the artillery barrage, and the cò dò sao vàng flag is now raised over the Ananta Samakhom throne hall that was used by the [old_controller.GetAdjective] government as their parliament.\n\nWith this victory over one of the largest threat to the newly-established nation, Indochinese Union’s destiny is finally secured. Now, with the last of the [old_controller.GetAdjective] defences stamped out in the city, it seems that further resistance in the surrounding cities will end soon enough."
+worldnews.270.d.bur:0 "Earlier today, the victorious Burmese soldiers march through the streets of Bangkok after fierce fighting for most of the day. Similar to Ayutthaya, Bangkok is easily conquered by the seemingly unstoppable Burmese military machine. The Grand Palace was razed to the ground as a symbol of strength with several [old_controller.GetAdjective]  national treasures presumably lost. Large group of refugees had been seen heading to the countryside while most [old_controller.GetAdjective] troops continue to fight to the last men in the few remaining pockets within the city. With this victory, [new_controller.GetLeader]’s name is firmly established along with Bayinnaung and  Alaungpaya in the history books."
 worldnews.270.d.other:0 "Earlier today, the victorious [new_controller.GetAdjective] soldiers march through the streets of Bangkok after fierce fighting for most of the day. Most buildings along the Ratchadamnoen road were ruined by the artillery barrage, and the [new_controller.GetAdjective] flag is now raised over the Ananta Samakhom throne hall that was used by the [old_controller.GetAdjective] government as their parliament.\n\nThe [old_controller.GetAdjective] government agreed to meet and discuss [new_controller.GetAdjective] demands. Now, with the last of the [old_controller.GetAdjective] defences stamped out in the city, it seems that further resistance in the surrounding cities will end soon enough."
 worldnews.270.a:0 "우리는 마지막까지 싸울 것이다!"
 worldnews.270.b:0 "마침내 방콕이 우리 수중에 들어왔다!"
 worldnews.270.c:0 "그렇군..."
 
 worldnews.271.t:0 "모스크바 함락"
-worldnews.271.d:0 "가장 마지막으로 모스크바가 외세에 의해 점령당했을 때는, 엄청난 화재에 의해 도시에 거의 남아나는 것이 없었습니다. 하지만 이번엔 아닙니다. 오늘 [new_controller.GetAdjective]군이 여러 겹의 방어선을 뚫고 크렘린 궁을 확보했습니다. [old_controller.GetAdjective] 병사들이 높은 곳에서 계속해서 우리 병사들을 저격했지만, 주력 방어선이 뚫린 이상 그들이 할 수 있는 일은 교외에서 숲으로 도주하는 것 뿐이었습니다.\n\n도시의 중심부이자 [old_controller.GetAdjective]의 상징이나 다름 없던 붉은 광장은 임시 포로 수용소로 변했고, [old_controller.GetAdjective]의 기밀 정보가 [new_controller.GetAdjective]의 수중에 떨어지는 사태만은 막기 위한 최후의 노력이 분명한 불타는 종이 파편이 크렘린 궁의 창문 밖으로 버려졌습니다. [old_controller.GetNameDef]에게 암울한 날입니다."
+worldnews.271.d.soviet:0 "Today, [new_controller.GetAdjective] forces broke through the siege lines of the capital in multiple places and converged on the Kremlin. It is the second time in a few decades that Moscow falls to the hands of fellow Russians and some are starting to ask if this madness really is worth it. Meanwhile [old_controller.GetAdjective] soldiers continue to snipe the enemy from highrises, but the main defences have broken and are filtering out through the suburbs into the surrounding forest.\n\nRed square, long the centre of [old_controller.GetAdjective] life in the city, has been turned into a makeshift POW camp, and burning debris was seen falling from the Kremlin windows, no doubt a last ditch effort to prevent [old_controller.GetAdjective] intelligence from falling into [new_controller.GetAdjective] hands. This is a dark day for [old_controller.GetNameDef]."
+worldnews.271.d.other:0 "가장 마지막으로 모스크바가 외세에 의해 점령당했을 때는, 엄청난 화재에 의해 도시에 거의 남아나는 것이 없었습니다. 하지만 이번엔 아닙니다. 오늘 [new_controller.GetAdjective]군이 여러 겹의 방어선을 뚫고 크렘린 궁을 확보했습니다. [old_controller.GetAdjective] 병사들이 높은 곳에서 계속해서 우리 병사들을 저격했지만, 주력 방어선이 뚫린 이상 그들이 할 수 있는 일은 교외에서 숲으로 도주하는 것 뿐이었습니다.\n\n도시의 중심부이자 [old_controller.GetAdjective]의 상징이나 다름 없던 붉은 광장은 임시 포로 수용소로 변했고, [old_controller.GetAdjective]의 기밀 정보가 [new_controller.GetAdjective]의 수중에 떨어지는 사태만은 막기 위한 최후의 노력이 분명한 불타는 종이 파편이 크렘린 궁의 창문 밖으로 버려졌습니다. [old_controller.GetNameDef]에게 암울한 날입니다."
 worldnews.271.a:0 "우리는 마지막의 마지막까지 싸울 것이다"
 worldnews.271.b:0 "[old_controller.GetNameDef]의 심장은 우리 것이다!"
 worldnews.271.c:0 "[old_controller.GetNameDef]의 상황은 진정으로 심각해 보인다."
@@ -768,4 +901,8 @@ worldnews.283.a.commune:0 "우리는 코뮌 놈들이 정통 프랑스의 마지
 worldnews.283.a:0 "이것이 우리의 재정복의 꿈의 끝인걸까?"
 worldnews.283.b:0 "알제 지역이 다시는 문제를 일으키지 않겠군"
 worldnews.283.c.commune:0 "코뮌이 혁명을 완수했나 보군"
-worldnews.283.c:0 "[old_controller.GetNameDef]가 죽어가고 있군"
+worldnews.283.c:0 "[old_controller.GetNameDefCap]가 죽어가고 있군"
+
+worldnews.284.t:0 "Stability Returns to the United States of America"
+worldnews.284.d:0 "In the USA, the Combined Syndicates and the reactionary Southern American First Party have both long threatened open revolt against the union.\nHowever, days after President Curtis signed a historic agreement with the leadership of the Combined Syndicates, an unknown assassin has shot and killed AFP leader Huey Long.\nAs union strikes are called off across the country and the National Guard dissolves the remnants of the now-leaderless AFP, people are slowly returning to work. \n\nPolitical commentators are unanimously hailing this as a 'diplomatic miracle' and speculate that many Americans may never know exactly how close they came to disaster."
+worldnews.284.a:0 "Charles Curtis actually managed to pull it off!"
