@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  ST:0 "등"
  ND:0 "등"
  RD:0 "등"
@@ -7,6 +7,7 @@
  CIVIL_WAR_NAME:0 "$ORDER$$SECOND$ 내전"
  WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$의 $STATE$ 탈환전쟁"
  WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$의 $STATE$ 침략전쟁"
+ KR_separate_peace:0 "현재의 모든 전쟁에서 떨어져나갈 것입니다\n"
 
  ### 2nd American Civil War ###
  WAR_NAME_CSA_USA:0 "2차 미국내전: 생디칼-연방 전쟁"
@@ -25,14 +26,6 @@
  ### Romanian Civil War ###
  WAR_NAME_ROM_RRM:0 "$ORDER$$SECOND$ 내전"
  WAR_NAME_RRM_ROM:0 "$ORDER$$SECOND$ 내전"
-
- ### Ottoman-Axis War ###
- WAR_NAME_OTT_EGY:0 "$ORDER$$FIRST$-추축 전쟁"
- WAR_NAME_EGY_OTT:0 "$ORDER$$FIRST$-추축 전쟁"
- WAR_NAME_OTT_SAU:0 "$ORDER$$FIRST$-추축 전쟁"
- WAR_NAME_SAU_OTT:0 "$ORDER$$FIRST$-추축 전쟁"
- WAR_NAME_OTT_PER:0 "$ORDER$$FIRST$-추축 전쟁"
- WAR_NAME_PER_OTT:0 "$ORDER$$FIRST$-추축 전쟁"
 
  ### Spanish Civil War ###
  WAR_NAME_SPR_CAR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
@@ -101,8 +94,8 @@
  WAR_NAME_ECU_PRU:0 "파스탄자 전쟁"
 
  ### Bolivia-Chile War ###
- WAR_NAME_BOL_CHL:0 "태평양 2차 전쟁"
- WAR_NAME_CHL_BOL:0 "태평양 2차 전쟁"
+ WAR_NAME_BOL_CHL:0 "2차 태평양전"
+ WAR_NAME_CHL_BOL:0 "2차 태평양전"
 
  ### Ethiopian Wars ###
  WAR_NAME_ETH_ERT:0 "에리트리아 봉기"
@@ -113,3 +106,4 @@
  ### Ottoman Wars ###
  WAR_NAME_LYB_OTT:0 "트리폴리타니아 독립전쟁"
  WAR_NAME_OTT_LYB:0 "트로폴리타니아 봉기"
+ 
