@@ -35,7 +35,7 @@ POLITICS_DE_VALERA_DESC:0 "Eamon de Valera, born in New York to a Spanish father
 POLITICS_SEAN_MURRAY_DESC:0 "Sean Murray is the leader of the Revolutionary Workers Group, and a believer in Marxist-Leninism akin to the Jacobins of France and the Soviets in Russia. During the War of Independence, he served in the IRA and was detained in the Curragh camp. He disagreed with the Anglo-Irish treaty and participated in the 1923 attempted uprising by the ICA, fleeing to the Commune of France after its failure, meeting with many French Jacobins while there and adopting some of their ideas. He later returned to Ireland to secretly continue agitating against the Irish government."
 
 ### Ideas ###
-IRE_DEFENCE:0 "Defence of the Republic"
+IRE_DEFENCE:0 "공화국 방어"
 IRE_DEFENCE_desc:0 "After 700 years of British rule, the Irish people have finally secured their independence. However, Britain and Canada still threaten Ireland, and if it comes to war the Irish people must be prepared to fight using their superior knowledge of the terrain and determination to protect their freedom."
 IRE_IEAA_INDUSTRY:0 "IEAA Annual Focus: Industrialisation"
 IRE_IEAA_RND:0 "IEAA Annual Focus: Research and Development"
