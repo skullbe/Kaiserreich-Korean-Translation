@@ -246,13 +246,13 @@ JAP_COL_PORT_desc:0 "Although the Kwantung Leased Territory was only officially 
 
 ### Focuses - Economic - Land Reform Act ###
 JAP_NAT_AGR:0 "토지 개혁법 시작"
-JAP_NAT_AGR_desc:0 "The Land Reform Act is designed to limit landlordism and provide farmland for poor farmers. It will enforce redistribution of all land owned by absentee landlords within the next four years. The landlords will receive state bonds in addition to the purchase price as compensation. This will be a great step towards ending the rural poverty that has plagued our nation for generations."
+JAP_NAT_AGR_desc:0 "토지 개혁법은 제한된 지주제도와 가난한 농부들에게 농토를 제공하기 위해 제정되었습니다. 이 법은 향후 4년이내에 부재자 지주가 소유한 모든 땅을 재분배를 시행할 것입니다. 지주는 이에대한 보상으로 토지 매입 값만큼의 국채를 받게 될 것입니다. 이 법으로 세대를 거쳐 우리 민족을 괴롭히는 시골의 빈곤 퇴치를 위한 위대한 발걸음이 될 것입니다."
 JAP_NAT_AGR_1:0 "토지 개혁법 연장"
-JAP_NAT_AGR_1_desc:0 "We must extend the land reform act to even further increase our industrial capacity, but it will still take significant time and political effort."
+JAP_NAT_AGR_1_desc:0 "토지 개혁법을 연장시켜서 우리의 산업 역량을 더욱 늘려야합니다, 하지만 상당한 시간과 정치적 노력이 소요될 것입니다."
 JAP_NAT_AGR_2:0 "토지 개혁법 마무리"
-JAP_NAT_AGR_2_desc:0 "The Land Reform Act is complete, this will substantially increase our industrial capacity."
+JAP_NAT_AGR_2_desc:0 "토지 개혁법이 완료되면, 우리의 산업 역량이 상승할 것입니다."
 JAP_NAT_AGR_3:0 "연장된 토지 개혁법 마무리"
-JAP_NAT_AGR_3_desc:0 "The Extended Land Reform Act is finally complete, this will be a huge increase to our industrial capacity."
+JAP_NAT_AGR_3_desc:0 연장된 토지 개혁법이 완료되면, 우리의 산업 역량을 매우 크게 상승시킬 것입니다."
 
 ### Focuses - Economic - Land Adjustment Act ###
 JAP_BUR_AGR:0 "토지 조정법"
@@ -537,13 +537,13 @@ japdom.39.t:0 "Colonisation of Korea"
 japdom.39.d:0 "With millions of Japanese colonists settling in Korea, the Japanese authority has solidified its rule over the Peninsula."
 japdom.39.a:0 "Banzai Banzai Banzai!"
 
-japdom.40.t:0 "Economic Integration of Korea"
-japdom.40.d:0 "The millions of Japanese colonists in our protectorate of Korea seem to have found a permanent home. Urbanisation and modernisation of the territory is progressing daily, and the local economy has been overtaken and effectively integrated into the Japanese economy."
-japdom.40.a:0 "Banzai Banzai Banzai!"
+japdom.40.t:0 "한국 경제적 합병"
+japdom.40.d:0 "조선총독부하에 있는 수백만의 일본인 식민지 개척자들이 평생 머무를 고향을 찾은 것같습니다. 영토의 도시화와 현대화는 날 마다 진행되고 있으며, 지역 경제가 일본 경제를 뒤따라 잡으며, 효과적으로 일본 경제에 통합되고 있습니다."
+japdom.40.a:0 "반자이 반자이 반자이!"
 
-japdom.41.t:0 "Loss of Korea"
-japdom.41.d:0 "The loss of Korea has destroyed the local Japanese community. Japanese settlers are fleeing en masse to avoid reprisal from Koreans."
-japdom.41.a:0 "Damn!"
+japdom.41.t:0 "한국 상실"
+japdom.41.d:0 "한국의 상실로 인해 일본인 지역 공동체가 파괴되었습니다. 일본인 이주민들은 한국인들의 보복공격을 피하기 위해 단체로 도피하고 있습니다."
+japdom.41.a:0 "젠장!"
 
 japdom.42.t:0 "Colonisation of Taiwan"
 japdom.42.d:0 "With thousands of Japanese colonists settling in Taiwan, the Japanese authority has solidified its rule over the Island."
