@@ -1379,7 +1379,7 @@ ENG_purge_militia_tp:0 "§R민병대의 마지막 잔재까지 없애라!\n§!"
 ENG_dissolve_tuc_tp:0 "§G이행이 끝나면 웨일즈와 스코틀랜드는 독립할 것입니다.§!"
 ENG_new_capital_tp:0 "§G이행이 끝나면 웨일즈와 스코틀랜드는 속국이 될 것입니다.§!"
 ENG_congress_vote:0 "총회에서 논의가 되고 있는 정책들이 투표될 것입니다. 모든 미결 문제는 실제 개혁이 뒤따르기 전에 투표로 처리될 필요가 있습니다."
-ENG_three_armies_tp:0 "§G우니는 현재 보관하고 있는 장비의 절반으로 웨일스와 스코틀랜드 군대를 만드는데 도울 것입니다.§!"
+ENG_three_armies_tp:0 "§G우리는 현재 보관하고 있는 장비의 절반으로 웨일스와 스코틀랜드 군대를 만드는데 도울 것입니다.§!"
 ENG_defecting_officers:0 "Defecting Officers"
 ENG_devolution_tp:0 "조국에 자유를 가져다 줍시다!"
 ENG_revolution_tp:0 "§G이 나라에 질서를 가져오자! 우리의 성공은 우리가 이미 얼마나 많은 개혁을 했는지에 달려있습니다.§!"
@@ -1402,7 +1402,7 @@ ENG_summon_the_home_guard_tp:0 "We shall call forth the Home Guard to defend Bri
 
 ### Decisions ###
 ENG_weltkrieg_decisions:0 "2차 세계대전 결단"
-ENG_weltkrieg_decisions_desc:0 "반동 세력을 향한 대조국전쟁이 지금 여기에 있습니다. 영국은 생디칼리즘이 카이저라이히에 의해 사라지는 것을 막기 위해 역할을 다할 것입니다. 모든 남성과 여성은 이 위대한 전쟁에서 역할을 다할 것이며, 우리는 승리할 것입니다."
+ENG_weltkrieg_decisions_desc:0 "반동 세력을 향한 대조국전쟁이 지금 여기에 일어나고 있습니다. 영국은 생디칼리즘이 카이저라이히에 의해 사라지는 것을 막기 위해 최선을 다할 것입니다. 모든 남성과 여성은 이 위대한 전쟁에서 역할을 다할 것이며, 우리는 승리할 것입니다."
 ENG_internationale_decisions:0 "Internationale Decisions"
 ENG_internationale_decisions_desc:0 "Britain has her role to play within the Third International and we shall make sure that we do our part in helping our comrades across the world."
 ENG_merchant_marine_ships:0 "Conscript Vessels"
@@ -1410,7 +1410,7 @@ ENG_merchant_marine_ships_desc:0 "The fishermen do not dare to go out to sea, so
 ENG_the_home_guard:0 "The British Home Guard"
 ENG_the_home_guard_desc:0 "The defence of Britain is needed. We must rally the people to defend the Islands in case the Germans decide to attack our Great Island. f"
 ENG_never_surrender:0 "항복하지 않는다"
-ENG_never_surrender_desc:0 "우리는 끝까지 갈 것입니다. 우리는 프랑스에서 싸울 것이고, 우리는 연안과 대양에서 싸울 것입니다. 우리는 점점 더 자신감을 가지고 싸울 것입니다. 우리는 우리의 섬을 지킬 것입니다. 어떤 비용을 들이던 간데, 우리는 해변에서 싸울 것이고, 우리는 착륙장에서 싸울 것이고, 우리는 들판과 거리에서 싸울 것이며, 우리는 언덕에서 싸울 것입니다; 우리는 절대 항복하지 않습니다!"
+ENG_never_surrender_desc:0 "우리는 끝까지 갈 것입니다. 우리는 프랑스에서 싸울 것이고, 우리는 연안과 대양에서 싸울 것입니다. 우리는 점점 더 자신감을 가지고 싸울 것입니다. 우리는 우리의 섬을 지킬 것입니다. 어떤 비용을 들이던 간에, 우리는 해변에서 싸울 것이고, 우리는 착륙장에서 싸울 것이고, 우리는 들판과 거리에서 싸울 것이며, 우리는 언덕에서 싸울 것입니다; 우리는 절대 항복하지 않을 것입니다!"
 
 
 ### Leader Descriptions ###
