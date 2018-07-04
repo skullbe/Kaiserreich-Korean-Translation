@@ -82,7 +82,7 @@ CAL_airforce_desc:0 "In order to properly protect the Pacific Coast from the Cha
 CAL_air_supremecy:0 "공중우세"
 CAL_air_supremecy_desc:0 "In the debate over the best way to use our Air Force, we have decided to side with those favouring that we dominate the skies through Air Supremacy. We shall rule the skies and destroy any threat that seeks to fly any where near close to us."
 CAL_fighters:0 "전투기 주력"
-CAL_fighters:0 "The centre of the policy of Air Supremacy will be our fighter planes. Thus in order to put the plan into motion, we must begin production and research of our fighter planes so that we are able to truly dominate the skies."
+CAL_fighters_desc:0 "The centre of the policy of Air Supremacy will be our fighter planes. Thus in order to put the plan into motion, we must begin production and research of our fighter planes so that we are able to truly dominate the skies."
 CAL_air_support:0 "공중지원"
 CAL_air_support_desc:0 "The question of focus for the Air Force has been brought up. Some think that we should focus on the Air Supremacy and dominate the skies. Others think that the Air Force's principal goal is to support the army. We should favour the policy of air support for the new Air Force."
 CAL_women_aviators:0 "WASP 설립"
