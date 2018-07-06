@@ -857,7 +857,7 @@ HOL_council_communist_long:0 "네덜란드 공산노동당"
 holst.1.t:0 "1936년 네덜란드"
 holst.1.d:0 "네덜란드는 세계대전 동안 독일 편에 붙자는 논의가 있었음에도 불구하고 중립을 유지한 유럽의 몇 안되는 국가 중 하나입니다. 세계대전이 끝난 후 네덜란드는 경제 호황의 혜택을 맛보았지만, 경제의 상당 부분이 독일 회사의 대규모 투자와 함께 독일인의 손에 놓여 있습니다. 게다가 1920년대에 프랑스가 무너지고 영국이 생디칼리즘에 물드면서 좌익 사상이 네덜란드에서 크게 관심을 끌고 있으며 반동적인 사상에도 점점 탄력이 붙고 있습니다. 국제적 긴장도가 높아지고 경제 번영이 끝나면서 네덜란드의 민주주의는 확실히 시험받을 것입니다."
 holst.1.a:0 "여왕 폐하 만세!"
-holst.1.b:0 "정치관련 중점은 어디있어요?"													
+holst.1.b:0 "정치관련 중점은 어디있나요?"													
 
 holst.10001.t:0 "유동적인 중점트리"
 holst.10001.d:0 "The Netherlands is making use of a new features in the 1.5 patch; dynamic focus trees! This lets us load parts of a focus tree on the fly enabling us to make larger focuses trees without having to show all of it at once. This can save a lot of scrolling but also preserve surprise about what paths lie ahead. For the Netherlands, the political focuses are hidden until they are available to you, so don't worry about not being able to see them right away, they'll be revealed in time..."
@@ -880,8 +880,8 @@ holst.5.d:0 "Ever since February 3rd, Black Monday, and the collapse of the Berl
 holst.5.a:0 "This does not bode well..."
 
 holst.6.t:0 "기둥의 붕괴"
-holst.6.d:0 "네덜란드 사회는 기둥이라는 오랫동안 분리된 사회 집단으로 고도로 계층화돼 있었습니다. 이 기둥들은 신문사, 방송사, 당, 노조, 농민협회, 은행, 학교, 병원, 대학, 스카우트단, 스포츠 클럽 등 그들만의 사회기관을 가지고 있습니다. 몇몇 회사들은 심지어 특정한 종교나 사상을 가진 사람만을 뽑기도 합니다. 이로 인해 많은 사람들은 그들이 속해있는 기둥 밖의 사람들과 개인적인 접촉을 가지지 않습니다. \n\n하지만 최근 경제 위기로 이 질서를 근본적으로 뒤흔들렸습니다. 경제적인 어려움으로 사회주의 이념이 그 기둥 밖으로 퍼져나가고 있으며, 생디칼리스트와 의회 공산주의자들은 파리에서 흘러나오는 매력에 취해 이를 부추기고 있습니다. 동시에, 전통적으로 극우 기둥에 속해있던 많은 청소년들과 실업자들은 자신들이 빼앗기고 버림받았다고 여기고 있으며, 네덜란드 왕국의 안정과 번영을 되찾기 위해 국가 재건 연합(VNH)과 같은 급진 국가주의 정당으로 눈을 돌리고 있습니다."
-holst.6.a:0 "Dear God, no!"
+holst.6.d:0 "네덜란드 사회는 기둥이라는 오랫동안 분리된 사회 집단으로 고도로 계층화돼 있었습니다. 이 기둥들은 신문사, 방송사, 당, 노조, 농민협회, 은행, 학교, 병원, 대학, 스카우트단, 스포츠 클럽 등 그들만의 사회기관을 가지고 있습니다. 몇몇 회사들은 심지어 특정한 종교나 사상을 가진 사람만을 뽑기도 합니다. 이로 인해 많은 사람들은 그들이 속해있는 기둥 밖의 사람들과 개인적인 접촉을 가지지 않습니다. \n\n하지만 최근 경제 위기로 이 질서가 근본적으로 뒤흔들렸습니다. 경제적인 어려움으로 사회주의 이념이 그 기둥 밖으로 퍼져나가고 있으며, 생디칼리스트와 의회 공산주의자들은 파리에서 흘러나오는 미사여구에 취해 이를 부추기고 있습니다. 동시에, 전통적으로 극우 기둥에 속해있던 많은 청소년들과 실업자들은 자신들이 빼앗기고 버림받았다고 여기고 있으며, 네덜란드 왕국의 안정과 번영을 되찾기 위해 국가 재건 연합(VNH)과 같은 급진 국가주의 정당으로 눈을 돌리고 있습니다."
+holst.6.a:0 "신이시여, 안돼!"
 
 holst.7.t:0 "기독국민동맹의 형성"
 holst.7.d:0 "지난 십여년 동안, 다양한 종교 정당들이 네덜란드 의회의 다수를 차지했습니다. 칼뱅교인 ARP와 CHU, 그리고 가톨릭인 RKSP는 정부에서 대다수를 차지하고 있으며, 대부분의 장관이 여기서 나왔습니다.\n\n하지만 그들은 이제 더이상 그들 각각의 기둥이 무조건적으로 확고한 지지를 보내줄 것이라고 기대할 수 없게 되었습니다. 아직 자신들의 영역에서 우세하기는 하지만, 그들은 극좌와 극우 비주류 운동으로 지지를 잃고 있으며, 심지어 온건한 대중들 사이에서도 좌익자유주의와 사회민주주의에 빠지는 사람들이 늘어나고 있습니다. 이 정당들이 표를 잃으면서, 그들은 이제 그 기둥이 일상생활에서 엄격히 분리되었음에도 불구하고 당의 노선을 지워가면서까지 수십년간 이어진 협동을 이용하려고 하고 있습니다.\n\n기독국민동맹 (CNA)의 설립은 장기적으로 표를 잃을 수도 있지만, 의회 의석의 통합과 대중의 지지로 CNA는 다른 작은 정당보다 훨씬 큰 정치적 힘을 가지고 있습니다.\n\n이것이 지지 기반을 잃는 것을 막기에 충분할지, 아니면 정치에서 신의 우위가 끝날지는 시간만이 말해줄 것입니다..."
@@ -1279,10 +1279,10 @@ holpostel.26.a:0 "Let the rally proceed."
 holpostel.26.b:0 "Shut that red scum gathering down."
 
 holpostel.27.t:0 "2월 파업"
-holpostel.27.d:0 "This morning, the trams stood still in Amsterdam. At the same time, RSAP and NAS followers were spreading the manifesto 'Staakt, staakt, staakt!' - Strike, strike, strike! among Amsterdam companies. By noon, it had become a general strike and by the evening it has spread to all nearby cities, including Haarlem, Hilversum and Utrecht. It is clear that this syndicalist-organised strike is quickly becoming the largest strike the Netherlands has ever seen.\nAn emergency meeting is taking place in The Hague and three options are being considered: accept the demands, which is the preferred approach of the left, wait the strike out, regardless of the potential harm to the economy, or break the strike up, the preferred option of the right."
-holpostel.27.a:0 "Give the Syndies their win."
-holpostel.27.b:0 "They will give up in time."
-holpostel.27.c:0 "Drive them back to where they belong!"
+holpostel.27.d:0 "오늘 아침에, 암스테르담의 전차는 멈춰있습니다. 같은 시각, RSAP와 NAS 지지자들은 암스테르담에 있는 회사에 다음과 같은 성명서를 흩뿌렸습니다 - 파업, 파업, 파업! 오후가 되자 이는 총파업이 되었고, 밤에는 주변 하를렘, 힐베르섬, 위트레흐트 등으로 퍼지기 시작했습니다. 이 생디칼리즘이 조직한 파업이 네덜란드에서 전례가 없는 규모로 매우 빠르게 변하고 있는 것은 명확합니다.\n긴급회의가 헤이그에서 열리고 있고 세가지 선택이 고려되고 있습니다: 그들의 의견을 들어주기 (좌파가 원하는 방법일 것입니다), 파업이 끝나기를 기다리기 (산업에는 큰 해가 될 것입니다), 또는 파업 진압하기 (우파가 원하는 방법일 것입니다)."
+holpostel.27.a:0 "걔네들이 이겼다고 전해라."
+holpostel.27.b:0 "그들은 시간이 지나면 포기할 것이다."
+holpostel.27.c:0 "그놈들을 일터로 돌려보내라!"
 
 holpostel.28.t:0 "2월 파업이 계속되다"
 holpostel.28.d:0 "Our waiting strategy does not seem to be working so far, it has only emboldened the strikers, who have now been holding out for a whopping three months. Meanwhile, our economy remains largely still, and many who were earlier in favour of waiting the strike out are now advocating giving in to their demands. Unfortunately, the respect the syndicalists have gained during these days will only grow if we back down now."
@@ -2389,15 +2389,15 @@ holfocus.402.b:0 "Tactical Bombers will make a nice addition to the LVA."
 
 ### Tasteful flavor ###
 holflavor.1.t:0 "중앙 유럽 표준시로 전환?"
-holflavor.1.d:0 "As early as the end of the Weltkrieg there have existed suggestions that the Netherlands, currently operating under Greenwich Mean Time, should move to Central European Standard Time instead.\n\nSince the British Revolution however, these calls became increasingly virulent, as there are no longer any significant trading partners in the timezone. The British and French syndicalist regimes have yet to be diplomatically recognised by the Dutch authorities and Flanders-Wallonia has already moved to Central European time under German pressure.\n\nThis debate has quietly carried on through the 1930s, raging between the camp arguing that the Netherlands should follow Amsterdam's natural timezone and the faction that believes the Netherlands should move to the Kaiserreich's timezone - they are after all our single most important trading partner. While an accord in favour of the latter was finally reached in 1935, being that the first of February 1936 would be one hour longer to put the nation's clocks on par with those of the Reichspakt, the ultimate decision is up to us."
-holflavor.1.a:0 "Let us go ahead!"
-holflavor.1.b:0 "그리니치 평균시도 괜찮은 것 같으니 그만둬라!"
+holflavor.1.d:0 "세계대전이 끝난 이후 네덜란드에 한가지 제안이 들어왔는데, 그것은 현재 사용중인 그리니치 평균시에서 중앙 유럽 표준시로 옮겨가야 한다는 것이었습니다.\n\n하지만 영국 혁명 이후로, 이러한 요구는 점점 더 거세졌고, 이 시간대에 우리의 무역 상대국은 없게 되었습니다. 네덜란드는 브리튼과 프랑스의 생디칼리즘 정권을 아직 외교적으로 인정하지 않고 있으며, 플랑드르-왈로니아는 독일의 압력으로 이미 중앙 유럽 표준시로 옮겨갔습니다.\n\n이 논쟁은 네덜란드가 암스테르담의 자연적인 시간대를 따라야 한다는 쪽과 네덜란드가 카이저라이히 - 결국 가장 중요한 무역 파트너이다 - 의 시간대로 옮겨가야 한다는 쪽 사이로 급속하게 퍼지면서 1930년대 동안 조용히 진행되었습니다. 마침내 후자를 지지한다는 합의가 1935년에 이루어진 후, 1936년 2월 첫째날부터 국가의 시간대를 늦춰 제국협정과 동일시하는 최종 결정이 우리 손에 달렸습니다."
+holflavor.1.a:0 "가자!"
+holflavor.1.b:0 "그리니치 평균시가 더 익숙하니 취소하라!"
 
 holflavor.2.t:0 "Opening of the Waalbrug"
 holflavor.2.d:0 "The ferry over the Waal river was one of the Netherlands' busiest ferries. Recognising its limited capacity, the municipal authorities of Nijmegen started the construction of the Waalbrug in 1931. On the 16th of June 1936 the finished bridge has finally been officially opened by Her Majesty the Queen."
 holflavor.2.a:0 "Hurrah!"
 
-holflavor.3.t:0 "Princess Juliana Announces Engagement!"
+holflavor.3.t:0 "율리아나 공주가 결혼을 발표하다!"
 holflavor.3.d:0 "It has been observed that Crown Princess Juliana had been seeing Prince Bernhard zur Lippe-Biesterfeld, whom she had met at the Winter Olympics earlier this year, but the announcement of her engagement with him over radio still took the nation by surprise. Despite the hardships the people are enduring in these trying times due to the effects of the Black Monday Crisis, this comes as a welcome cheer and joy is evident throughout the country."
 holflavor.3.a:0 "How sweet!"
 
@@ -2406,23 +2406,23 @@ holflavor.4.d:0 "Today Crown Princess Juliana is marrying her fiancé the Prince
 holflavor.4.a:0 "Congratulations, Juliana!"
 
 holflavor.5.t:0 "네덜란드에서의 부분 일식"
-holflavor.5.d:0 "A solar eclipse appeared today over the Netherlands as expected; civilians and scientists alike went outside to look at the Sun that was partially covered by the Moon, with some even taking a drive as far as the French border for an optimal view of the phenomenon."
-holflavor.5.a:0 "Protect your eyes."
+holflavor.5.d:0 "예상했던 대로 오늘 네덜란드에서 일식이 일어났습니다. 시민들과 과학자들은 달이 태양을 부분적으로 가리는 것을 보기 위해 밖으로 나왔으며, 심지어는 일식을 더 잘 보기 위해 프랑스 인접 지역으로 간 사람도 있었습니다."
+holflavor.5.a:0 "눈을 보호해라."
 
 holflavor.6.t:0 "위트레흐트 중앙역 화재"
-holflavor.6.d:0 "The central station in Utrecht has caught fire, resulting in the destruction of the entire upper floor. An investigation by the authorities has concluded that the tragedy has likely been caused by an electrical failure and thus that it was not the result of foul play. Already the press are demanding an official statement to print in tomorrow's newspapers."
-holflavor.6.a:0 "Tell the press the truth."
-holflavor.6.b:0 "Report that the syndicalists did it."
-holflavor.6.c:0 "Blame reactionary elements."
+holflavor.6.d:0 "위트레흐트 중앙역이 불에 탔고, 그 결과 모든 층이 전소되었습니다. 당국 조사관들은 전기 합선이 이 참사의 원인이며 부패의 결과물은 아니라고 봤습니다. 지금 기자들은 내일 신문에 넣을 정부의 공식 발표를 요구하고 있습니다."
+holflavor.6.a:0 "기자들에게 진실을 밝혀라."
+holflavor.6.b:0 "생디칼리스트들이 방화를 했다고 보고해라."
+holflavor.6.c:0 "반동분자들을 비난하라."
 
 holflavor.7.t:0 "First Großer Preis in Zandvoort"
 holflavor.7.d:0 "The first Dutch Großer Preis, or Grand Prix, has been held on a street track in the town of Zandvoort today. While it does not count for the European championship, it has stirred up much interest and the mayor of Zandvoort has called for support to build a formal circuit in Zandvoort where an official Großer Preis for the Netherlands can be held - one that does formally count towards the European championship."
 holflavor.7.a:0 "One day we will build it!"
 
-holflavor.8.t:0 "Veluwe Sale"
-holflavor.8.d:0 "As a result of the brutal economic crisis, the Kröller-Müller aristocratic family is unable to afford the maintainance of their hunting grounds in the Veluwe. They have announced their intention to sell the hunting ground to a government-supported foundation if possible that will make the area open for visitors in what could become the first national park in continental Holland, heavily populated with game such as deer and wild boar, released in the area by Anton Kröller.\n\nThe only condition placed on the deal is that they are allowed to continue living in their mansion in the area. Word is that Mrs. Müller even intends to found a museum if the plan is executed."
-holflavor.8.a:0 "Support the foundation, purchase the grounds."
-holflavor.8.b:0 "The grounds are sold to a German aristocrat instead."
+holflavor.8.t:0 "벨루어 경매"
+holflavor.8.d:0 "현재의 끔찍한 경제 위기에서, 크뢸러-뮐러 귀족 가문은 벨루어에서 사냥을 계속할 여유가 없습니다. 그들은 만일 안톤 크륄러가 사나운 곰, 사슴 등을 풀어 놓은 이 땅을 홀란드 지역의 첫 국립공원으로 만들어 방문객을 맞이 한다면, 정부가 지원하는 재단에 땅을 팔겠다고 제안했습니다.\n\n유일한 쟁점은 그들이 그 지역에 있는  저택에서 계속 살아도 되는가 하는 문제입니다. 뮐러 부인은 계획이 실행된다면 박물관을 설립하겠다고 밝혔습니다."
+holflavor.8.a:0 "재단을 지원하여 땅을 구매하라."
+holflavor.8.b:0 "대신 그 땅은 독일 귀족에게 팔렸다."
 
 holflavor.9.t:0 "Death of C.J. Snijders"
 holflavor.9.d:0 "Cornelis Jacobus Snijders, commander of the Dutch armed forces during the Weltkrieg, passed away today. Snijders was fairly controversial in that the liberal cabinet ruling the Netherlands at the time wanted to fire him for defeatism as he believed the Netherlands should not resist a German invasion, a move only prevented by the personal intervention of Queen Wilhelmina. After the Weltkrieg Snijders made himself famous again by co-founding the VNH, that makes up the far right of Dutch politics today."
