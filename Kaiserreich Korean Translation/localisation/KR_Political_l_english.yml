@@ -41,7 +41,7 @@ crash_economy:0 "WIP" #Crash Economy WIP!!!
 economic_health:0 "Work in progress, don't worry about this" #Economic Health WIP!!!
 
 ### Stability Events ###
-kr.political.reduction:0 "Downfall in Stability!"
+kr.political.reduction:0 "안정도 하락!"
 kr.political.vgtog:0 "While [Root.GetNameDef] is still considered to be a fairly stable country, we no longer enjoy the rock-solid stability we once possessed. Once again, doubt has begun to seep into the political discourse."
 kr.political.vgtonorm:0 "[Root.GetNameDefCap] has experienced a severe reduction in our overall stability. While we are not near the point of concern, we no longer enjoy the rock-solid stability we once possessed."
 kr.political.vgtolow:0 "[Root.GetNameDefCap] has experienced a severe reduction in our overall stability. Demonstrations across the nation have shown that we have come a long way from the rock-solid stability we recently possessed, and once again doubt has crept into the national political discourse."
@@ -59,7 +59,7 @@ kr.political.lowtodis:0 "[Root.GetNameDefCap]'s situation has gone from bad to n
 kr.political.vlowtodis:0 "[Root.GetNameDefCap]'s situation has gone from bad to near-disaster. Violent riots across the nation have shown just how precarious our stability has become, and many wonder if there is even a way for the country to recover. Many fear that a coup, or worse, is just around the corner."
 kr.political.reduction.a:0 "That's very concerning..."
 
-kr.political.increase:0 "Increase in Stability"
+kr.political.increase:0 "안정도 상승"
 kr.political.distovlow:0 "While [Root.GetNameDef] is still considered to be in an incredibly precarious sitation, the political scene has improved somewhat. Efforts to restore order have shown progress, and we are no longer on the verge of utter disaster. Still, most believe that the nation has a long way to go yet."
 kr.political.distolow:0 "While [Root.GetNameDef] is still considered to be in a poor state, the political scene has definitely improved. Efforts to restore order have shown a great deal of progress, and we are no longer on the verge of utter disaster. Still, many believe that the nation has a long way to go yet to truly stabilize."
 kr.political.distonorm:0 "The situation in [Root.GetNameDef] has gone from near-disaster to an almost-normal state of affairs. Riots and demonstrations have fallen off, and order has been restored in most parts of the nation. Many are very aware that things could still turn around rather quickly, but confidence in the government is quickly improving."
@@ -75,7 +75,7 @@ kr.political.lowtovg:0 "[Root.GetNameDefCap] has experienced a sudden reversal i
 kr.political.normtog:0 "[Root.GetNameDefCap] has experienced an increase in its stability, with confidence in the [Root.GetAdjective] government's ability building and the political discourse turning to more mundane affairs."
 kr.political.normtovg:0 "[Root.GetNameDefCap] has experienced a great increase in its stability, with confidence in the [Root.GetAdjective] government's ability building and the political discourse turning to more mundane affairs. Currently the government is considered to be rock-solid, though there are some who persist in believing that such a rapid improvement could turn around just as quickly."
 kr.political.gtovg:0 "Thing continue to improve in [Root.GetNameDef], with the current government being considered rock-solid and confidence in its ability to deal with problems very high. There is little to no concern across the nation with matters of dissent, and the political discourse is mainly focused around mundane matters. To most, things couldn't be better."
-kr.political.increase.a:0 "Well, that's good..."
+kr.political.increase.a:0 "오호라, 좋은걸..."
 
 ### Popularity Events ###
 kr.political.11.t:0 "매우 높은 인기도"
@@ -201,8 +201,8 @@ kr.political.40.a:0 "Seriously, report it."
 KR_different_ideology:0 "다른 이념"
 KR_similar_ideology:0 "비슷한 이념"
 KR_same_ideology:0 "같은 이념"
-same_ruling_party:0 "Base"
-different_party_types:0 "Base"
+same_ruling_party:0 "기본"
+different_party_types:0 "기본"
 KR_ideology_allowed:0 "장관이 해당국가의 이념을 허락함"
 KR_factional_rivalry:0 "당파 경쟁"
 minister_available:0 "이 정부의 유형에서 장관을 사용할 수 있음"
