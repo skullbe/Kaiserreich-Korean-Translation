@@ -20,6 +20,8 @@ AUS_potb_romania_tooltip:0 "복원된 루마니아 왕국이 우리의 영향권
 AUS_potb_claims_on_bulgaria_tooltip:0 "불가리아가 마땅히 우리 영향권에 속해야 하는 영토를 가지고 있습니다."
 AUS_potb_bulgarian_hegemony_tooltip:0 "불가리아가 발칸 반도의 패권을 쥐고 있습니다."
 
+AUS_a_new_Hungary:0 "헝가리는 오스트리아 제국의 구성국 중 하나입니다."
+
 AUS_syndicalist_menace_tooltip:0 "전쟁의 불길은 다시 한번 타오르고 있으며, 이탈리아에서 우리의 이익은 인터네셔널에 의해 위협받는 중입니다."
 
 AUS_military_occupation_tooltip:0 "계속해서 헝가리 땅을 점령하게 될 것이지만, 모든 속국들이 이에 만족하지는 않을 것입니다. \n\n"
@@ -582,10 +584,6 @@ AUS_paternal_autocrat_party:0 "대독일인민당"
 AUS_paternal_autocrat_party_long:0 "대독일인민당"
 AUS_national_populist_party:0 "보국당"
 AUS_national_populist_party_long:0 "보국당"
-
-### Leader Descriptions ###
-POLITICS_KARL_DESC:0 "1914년 삼촌인 프란츠 페르디난트가 암살당한 뒤 카를 폰 합스부르크-로트링겐이 프란츠 요제프 황제로 지명되었고, 카를은 1916년 말 합스부르크 가문의 많은 작위를 물려받았습니다. 세계대전에서의 승리에도 불구하고 오스트리아는 구식 정치 체제와 불안정에 의해 스러져가고 있으며, 카를 황제는 현재 수많은 대내외적인 위협에도 불구하고 병든 제국을 개혁하는 힘든 과제를 안고 있습니다."
-POLITICS_OTTO_DESC:0 "오토 폰 합스부르크-로트링겐 황제가 오스트리아의 군주인 그의 아버지 카를의 뒤를 이었습니다. 오토는 젊은 나이에도 불구하고, 서로 다른 민족들이 하나의 국가 정체성을 공유하는 통합 제국의 원대한 야망을 가지고 있습니다. 그의 간결한 연설과, 시끌벅적한 연애 관계, 그리고 청년 특유의 매력이 언론의 관심을 끌었고 오토의 인기는 절정에 달했습니다."
 
 ### Traits ###
 ganz_danubius_submarine:0 "간츠 다뉴비우스 잠수함 공장"
