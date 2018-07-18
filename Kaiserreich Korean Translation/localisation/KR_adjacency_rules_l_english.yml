@@ -18,10 +18,8 @@ l_english:
  PANAMA_CANAL:0 "파나마 운하"
  KAISER-WILHELM-KANAL:0 "카이저 빌헬름 운하"
  BOSPHORUS_STRAIT:0 "보스포루스 해협"
+ disable_canal_tt:0 "§R이 운하는 부분적으로 파괴되어서, 선박들이 통과하려면 이 운하를 수리해야만 합니다!§!"
  DARDANELLES:0 "다르다넬스 해협"
  SHIMONOSEKI:0 "시모노세키 해협"
  MALACCA_STRAIT:0 "믈라카 해협"
  MESSINA_STRAIT:0 "메시나 해협"
-
-
- disable_canal_tt:0 "§R이 운하는 부분적으로 파괴되어서, 선박들이 통과하려면 이 운하를 수리해야만 합니다!§!"
