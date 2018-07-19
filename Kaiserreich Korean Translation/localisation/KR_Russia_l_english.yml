@@ -468,8 +468,8 @@ RUS_SOVIET_desc:0 "이제 낡은 엘리트들이 아닌 노동자들에게 충�
 rus_soviet_tooltip:0 "§R당신의 국가는 소비에트 러시아가 될 것입니다 \n15년 전에 안타깝게 사라졌던 것과 비슷한 프롤레타리아 독재 정권을 설립할 것입니다.§! \n"
 rus_unlock_soviet_tt:0 "부하린이 정부를 이끌고 있습니다 §Yor§! 체레텔리가 정부를 이끌고 있습니다 §Yor§! 인민전선 정부가 정권을 장악했습니다"
 
-RUS_DEM_ADM1:0 "공산당 탄압"
-RUS_DEM_ADM1_desc:0 "민주주의의 정신 아래서 우리는 러시아 공산당을 강력히 제재해야 합니다. 러시아는 방대한 국가이고, 이 모든 것이 한 장소에서 관리될 수 있다고 믿는 것은 미친 짓입니다!"
+RUS_DEM_ADM1:0 "시골 공동체에 의존"
+RUS_DEM_ADM1_desc:0 "민주주의의 정신 아래서, 우리 국가의 지역 공동체들의 도움으로 우리는 강해질 수 있습니다. 러시아는 방대한 국가이고, 이 모든 것이 한 장소에서 관리될 수 있다고 믿는 것은 미친 짓입니다!"
 RUS_DEM_ADM2:0 "민프롬"
 RUS_DEM_ADM2_desc:0 "Ministry of Industry or 'MinProm' in Russian is a united ministry, which will reorganise the industry in our country. Its first task will be to delegate industrial investments to several urban centres in order to boost our industry logically."
 RUS_DEM_ADM3:0 "지역 보급 지점"
