@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 #Focuses
 DAH_our_own:0 "On Our Own"
 DAH_our_own_desc:0 "Following the collapse of Mittelafrika, many nations gained their independance.\nWe have taken cover under the wing of our previous overlord, [DAH_Overlord.GetNameDef].\nTogether with them we shall rebuild our nation!"
@@ -42,6 +42,7 @@ DAH_leader_lead_desc:0 "Historically our Leaders stood alongside our generals; t
 DAH_leader_lead_unlock:0 "Gain a spirit granting more experience at war at the cost of daily pp."
 DAH_importing_arms:0 "Import Foreign Arms"
 DAH_importing_arms_desc:0 "We have a history of importing foreign arms.\nShopping around for foreign arms will supplement our small arms production."
+DAH_import_arms_loc:0 "Enable a decision to buy arms from another nation that has enough in stock."
 DAH_agaja:0 "Reinstate Agaja's Dowry"
 DAH_agaja_desc:0 "We shall reinstate the dowry, a monetary bonus for our soldiers that King Agaja created many years ago.\nEven though it will cost us money, our men will be more willing to fight."
 DAH_amazons:0 "Dahomey's Amazons"
@@ -93,12 +94,12 @@ dah.007.a:0 "Succes"
 dah.007.b:0 "Damnit"
 
 #Ideas
-DAH_gold_mining:0 "Gold Mining"
+DAH_gold_mining:0 "금 채굴"
 DAH_toll:0 "Toll Roads"
 DAH_agaja:0 "Agaja's Dowry"
 DAH_leading_leader:0 "Dahomey Leader Traditions"
 DAH_amazons_idea:0 "The Ahosi"
-DAH_salvage:0 "German Salvage"
+DAH_salvage:0 "독일인 구제"
 DAH_french_prod_id:0 "French Engineering Expertise"
 DAH_french_food:0 "French Agricultural Expertise"
 DAH_french_war:0 "French War Expertise"
