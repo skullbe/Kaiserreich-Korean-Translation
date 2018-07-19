@@ -5,6 +5,8 @@ KR_improving_stability:0 "이미 안정도를 올리고 있습니다"
 has_vg_stability:0 "§Y매우 좋은 안정도§를 가지고 있습니다!"
 
 ### Decisions ###
+political_actions:0 "정치 행동"
+annexation_decisions:0 "합병 결단"
 legislate_more_freedoms:0 "자유 법률 제정"
 legislate_more_freedoms_desc:0 "우리나라의 안정도를 올리는 가장 쉬운 방법은 아마 국민들이 원하는 것을 제공하는 것일 겁니다. 몇가지 불편한 타협을 해야겠지만, 이상적으로는 이러한 조치들은 질서가 적절하게 되찾아질 때까지 국민들을 달래는 용도로 일시적으로 고안된 것입니다."
 police_crackdown:0 "경찰의 엄중 단속"
