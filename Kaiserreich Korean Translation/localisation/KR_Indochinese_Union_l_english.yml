@@ -4,11 +4,6 @@ l_english:
 #Indochina Localization By VietcongTrap and Pietrus
 ####################################################
 
-### Leader Descriptions ###
-POLITICS_PHAM_VAN_DONG_DESC:0 "In 1924, Pham Van Dong travelled to southern China. There, he met Ho Chi Minh, and quickly became one of his most trusted confidants and leaders of men. He witnessed the tragic end of Vietnamese syndicalist movement and fled to France. In exile, he developed an interest in the ideology of French Jacobins, Vanguardism. The idea of a vanguard group of disciplined intellectuals leading the revolution captured him. After the split of the League in 1931, he founded Tan Viet party and started infiltrating the colony. Most of his colleagues find him forever diligent and energetic, a reliable and loveable person as well as an ideal organiser and administrator. On the other hand, his enemy fear his ability to run the party and state machine."
-POLITICS_TA_THU_THAO_DESC:0 "This young radical almost shouldn't have been the chairman of the prestigious Indochinese Revolutionary League, but he is and he is well respected by his colleagues. Ta Thu Thau became a prominent activist in Saigon in the mid-1920s and joined the League in its darkest days. After the split in 1931 gave another heavy blow to the League, Ta Thu Thau rose to power. This sharp intellectual has intentionally modelled Ho Chi Minh's leading style since his assuming of the title of Chairman, trying to calm factional tensions and strengthen solidarity. The recovery of the League from the collapse largely credited to his efforts. Now, he is determined to achieve the unfulfilled dream of the martyrs——build syndicalism in Indochina."
-POLITICS_NGUYEN_AN_NINH_DESC:0 "Nguyen An Ninh is respected by most Indochinese intellectuals as the true democratic soul of Indochina. He studied in Sorbonne and participated the French Revolution in 1919. In 1922, Nguyen An Ninh, Nguyen The Truyen and Nguyen Ai Quoc (Ho Chi Minh) met in Marseille and decided to plan the liberation of their motherland. Nguyen An Ninh returned to Indochina in 1924 and was arrested by German police for radical agitation. After witness the crackdown of Indochinese syndicalism, Nguyen An Ninh decided that Indochinese revolution must rely on the spontaneous uprising of peasants. Since then, he started the Aspiration Society, modelling on traditional secret societies. He often personally travels from village to village under the disguise of a monk or herbist, selling his self-made ointment, and secretly recruit members to sow the seeds of revolution. He thus won great popularity among peasants in the Mekong Delta. While his dream of complete transforming the personality of Indochinese people might not realise in the foreseeable future, his emphasis on cultural enlightenment, autonomy and spontaneity will deeply reshape Indochinese society."
-POLITICS_NGUYEN_TAI_HOC_DESC:0 "Nguyen Tai Hoc is the founding leader of the Viet Nam Quo Dan Dang, the Vietnamese Nationalist Party. He was a supporter of colonial reformism, but later dissapointed at the empty promises of the colonial regime and became the leader of revolutionary nationalism. Although the Yen-Bai mutiny failed, his successful escape from German police after that tragedy adds another chapter in his heroic deeds. Influenced by Chinese revolutionary Sun Yat-sen, he envisages a democratic republic truly for people's welfare."
 ### Ideas ###
 INC_vietminh:0 "베트남 독립 동맹(Viet Minh)"
 INC_vietminh_desc:0 "The 'Viet Minh', or 'League for the Independence of Vietnam', is a broad coalition government of groups which seek the immediate independence of Vietnam. The various factions with the Viet Minh all advocate popular unity, but each has its own agenda, which greatly inhibits the organisation's ability to make decisive decisions. Besides, some Khmer and Laotian members voiced their doubt about the name of the organisation..."
@@ -203,7 +198,7 @@ viet.0.a:0 "우리는 이길 것이다!"
 
 viet.1.t:0 "인도차이나 독립 선언"
 viet.1.d:0 "As our national salvation war against German bandits begin, we are going to form an independent sovereign state. While few Cambodians and Laotian have joined us, the revolutionaries agreed that the newly established state should represent the whole Indochina and devoted to the liberation of Indochinese people.\n\nThe revolutionaries decided to draft an Indochinese Declaration of Independence. The radical revolutionaries urge an expression of our solidarity with the Internationale. Meanwhile, VNQDD and other nationalists wanted to declare Pan-Asianist ambition. While strongly devoted to internationalism, syndicalist leader Ta Thu Thau believes in the need for a tactical compromise——A moderate declaration will win the support home and abroad."
-viet.1.a:0 "인터네셔널주의적 선언"
+viet.1.a:0 "인터내셔널주의적 선언"
 viet.1.b:0 "범 아시아주의적 선언"
 viet.1.c:0 "중도적인 선언"
 
@@ -816,8 +811,6 @@ INC_troops_can_be_upgraded:0 "§YThe units formed in this decision can be upgrad
 INC_reorganise_Indochinese_rifles_decision:0 "인도차이나 소총병 재조직화"
 INC_reorganise_Indochinese_rifles_decision_desc:0 "With the help of officers trained in France, including Weltkrieg veterans, we are able to grasp modern military tactics in a short period. However, we still need to know how to organise modern land units. A quick way to learn it is to reorganise the existing Indochinese rifle units(Linh Tap) into model units based on French system. These will also be our main force units. However, the reorganisation will take some time."
 INC_reorganise_Indochinese_rifles_tooltip:0 "Unlock template §YSu doan Bo binh chu luc§!\nForm main force unit §YDivision 308§!\nForm main force unit §YDivision 304§!\nForm main force unit §YDivision 312§!"
-INC_infiltrate_the_north_decision:0 "북쪽으로의 침투"
-INC_infiltrate_the_north_decision_desc:0 "While the frontline is becoming a stalemate, we have open up secret through Annamite Range to the North. Now we can send personnels and arms to support the guerillas in the North."
 INC_negotiate_with_germs_decision:0 "독일과의 협상"
 INC_negotiate_with_germs_tooltip:0 "We will start negotiating with Germany for peace, but stubborn imperialists won't give up easily. Taking initiative in the battlefield, enemy's weariness in homefront or favorable international situation could help our cause."
 #Manpower crisis
@@ -871,7 +864,6 @@ INC_convert_distillery_decision_desc:0 "The Colonialists had started to produce 
 INC_land_reform_decisions:0 "토지개혁"
 INC_land_reform_decisions_desc:0 "A large percentage of agricultural land was owned by large landowners and the majority of the rural population of Indochina owned only small plots of land or was landless. If we can't fix the deep social inequality and rural poverty, then the revolution is just replacing foreign masters with local ones. It's decided that we need a complete land redistribution, but the means to that end vary...\n\nCurrent progress of the §YLand Reform§!: [?INC.land_reform|-0]\n"
 INC_start_land_reform_decision:0 "토지개혁의 시작"
-INC_land_reform_promise_mission:0 "We have to finish Land Reform"
 add_10_land_reform_tooltip:0 "This will increase §YLand Reform Progress§! by §G10§!."
 add_5_land_reform_tooltip:0 "This will increase §YLand Reform Progress§! by §G5§!."
 reduce_5_land_reform_tooltip:0 "This will reduce §YLand Reform Progress§! by §R5§!."
@@ -883,7 +875,6 @@ INC_declare_landholding_limit_decision:0 "Enact the upper-limit of land holding"
 INC_finish_land_reform:0 "100 §YProgress§!"
 INC_finish_land_reform_blocked:0 "100 §RProgress§!"
 INC_collectivization_tooltip:0 "§YThis will push the land reform to a completely different direction§!"
-INC_finish_land_reform_decision:0 "Finish the land reform"
 INC_decrease_cost_traffick_tooltip:0 "This will lower the cost of arms-trafficking"
 INC_Smuggling_Activation:0 "Activate §YArms-Traffick System§!\n"
 #Utopian commune experiment
@@ -893,7 +884,7 @@ INC_encourage_peasant_struggle_decision:0 "Encourage the peasants to struggle"
 INC_encourage_peasant_struggle_decision_desc:0 "The land reform shouldn't be a passive process to our peasants. They should be mobilised to reclaim their own right. This is a chance to invoke the revolutionary spontaneity!"
 INC_expropriate_traitors_land:0 "Expropriate the land of traitors"
 INC_political_instruction_decision:0 "정치적 지시"
-INC_political_instruction_decision:0 "PThe peasants are potatoes in a sack. The land reform must be carefully instructed by our cadres and political comissars along the correct line, that is, the line of socialism."
+INC_political_instruction_decision_desc:0 "PThe peasants are potatoes in a sack. The land reform must be carefully instructed by our cadres and political comissars along the correct line, that is, the line of socialism."
 INC_seize_the_means_of_production_decision:0 "Seize the means of production"
 INC_expand_peasant_associations_decision:0 "Expand the peasant associations"
 INC_struggle_against_landlords_decision:0 "Struggle against landlords"
