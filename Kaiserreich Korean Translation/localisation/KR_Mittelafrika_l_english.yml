@@ -78,9 +78,6 @@ MAF_DEM_authoritarian_democrat_party:0 "KVP"
 MAF_DEM_paternal_autocrat_party:0 "AAP"
 MAF_DEM_paternal_autocrat_party_long:0 "Afrikanische Aktionspartei"
 
-### Leader Descriptions ###
-POLITICS_GOERING_DESC:0 "폰 괴링은 독일에서 대전기의 가장 성공적인 전투기 파일럿으로써, 종전시까지 20회가 넘는 승리를 통해 수많은 훈장을 얻음으로 명성을 얻었습니다. \n\n그의 야망은 곧 정치적으로 변화하였으며 곧 1928년 선거에서 8%의 득표율을 보인 Alldeutsche Verband의 수장이 되었습니다. 이로써,그는 빌헬름 2세의 눈에 괴링 자신이 떠오르는 능력있는 신예로 보이게 하였으며 자신을 중앙아프리카의 관리자로 임명되도록 하였습니다. 폰 괴링은 이를 자신의 도약대로 보았으며, 식민지에서의 임기를 성공적으로 마친 뒤에 수상 자리의 공천권을 요구하는 기회로 여기고 있습니다."
-
 ### Tooltips ###
 MAF_Sov:0 "Souveränisten이 권력을 잡다"
 MAF_NKR:0 "NKR이 권력을 잡다"
