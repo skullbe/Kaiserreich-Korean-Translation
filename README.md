@@ -1,6 +1,6 @@
 ※0.7버전 호환 작업 안내
 
-2018년 7월 21일 20:36기준 'KR_Germany_In_Exile_l_english.yml'까지 마무리되었습니다.
+2018년 7월 26일 08:56기준 'KR_Netherlands_in_Exile_l_english.yml'까지 마무리되었습니다.
 
 호환작업은 파일목록에서 위에서 아래로 차례대로 진행됩니다.
 
