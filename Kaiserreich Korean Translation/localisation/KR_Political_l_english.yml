@@ -1,35 +1,16 @@
 l_english:
 
-### Stability ###
-disaster:0 "재앙"
-disaster_desc:0 "안정도가 §Y0%§!보다 낮다면, 국가는 재앙 상태가 될 것입니다. 안정도가 §Y0%§!를 넘는다면 매우 낮은 안정도로 올라갈 것입니다."
-very_low_stability:0 "매우 낮은 안정도"
-very_low_stability_desc:0 "안정도가 §Y25%§!보다 낮다면 국가는 매우 낮은 안정도 상태가 될 것입니다. 안정도가 §Y25%§!를 넘는다면 낮은 안정도로 올라갈 것입니다."
-low_stability:0 "낮은 안정도"
-low_stability_desc:0 "안정도가 §Y45%§!보다 낮다면, 국가는 낮은 안정도 상태가 될 것입니다. 안정도가 §Y45%§!를 넘는다면 보통 안정도로 올라갈 것입니다."
-normal_stability:0 "보통 안정도"
-normal_stability_desc:0 "기본적인 안정도 상태입니다.\n\n"
-good_stability:0 "좋은 안정도"
-good_stability_desc:0 "안정도가 §Y65%§!보다 높다면, 국가는 높은 안정도 상태로 올라갈 수 있습니다. 안정도가 §Y65%§!보다 낮다면 보통 안정도로 떨어질 것입니다."
-very_good_stability:0 "매우 좋은 안정도"
-very_good_stability_desc:0 "안정도가 §Y85%§!보다 높고 높은 안정도 상태를 가졌다면, 국가는 매우 높은 안정도 상태로 올라갈 수 있습니다. 안정도가 §Y85%§!보다 낮다면 보통 안정도로 떨어질 것입니다."
-stability:0 "안정도"
-EFFECT_CHANGE_LAW_stability:0 "우리 나라의 안정도를 '$NAME|Y$'로 바꿉니다. 다음의 효과를 줍니다: ($DESC$)."
-tooltip_stability_good:0 "보통 안정도의 국가는 좋은 안정도로 업그레이드 할 수 있습니다"
-tooltip_stability_very_good:0 "좋은 안정도의 국가는 매우 좋은 안정도로 업그레이드 할 수 있습니다"
-
 ### Popularity ###
-very_low_popularity:0 "매우 낮은 인기도"
-very_low_popularity_desc:0 "집권당의 인기도가 §Y20%§!보다 낮다면 매우 낮은 인기도 상태에 놓일 것입니다."
-low_popularity:0 "낮은 인기도"
-low_popularity_desc:0 "집권당의 인기도가 §Y20%§!와 §Y40%§! 사이라면 낮은 인기도 상태에 놓일 것입니다."
-normal_popularity:0 "보통 인기도"
-normal_popularity_desc:0 "집권당의 인기도가 §Y40%§!와 §Y60%§! 사이라면 보통 인기도 상태에 놓일 것입니다."
-high_popularity:0 "높은 인기도"
-high_popularity_desc:0 "집권당의 인기도가 §Y60%§!와 §Y80%§! 사이라면 높은 인기도 상태에 놓일 것입니다."
-very_high_popularity:0 "매우 높은 인기도"
-very_high_popularity_desc:0 "집권당의 인기도가 §Y80%§!보다 높다면 매우 높은 인기도 상태에 놓일 것입니다."
-popularity:0 "인기도"
+party_pop_0_00:0 "0-10% 정당 인기도"
+party_pop_0_10:0 "10-20% 정당 인기도"
+party_pop_0_20:0 "20-30% 정당 인기도"
+party_pop_0_30:0 "30-40% 정당 인기도"
+party_pop_0_40:0 "40-50% 정당 인기도"
+party_pop_0_50:0 "50-60% 정당 인기도"
+party_pop_0_60:0 "60-70% 정당 인기도"
+party_pop_0_70:0 "70-80% 정당 인기도"
+party_pop_0_80:0 "80-90% 정당 인기도"
+party_pop_0_90:0 "90-100% 정당 인기도"
 
 ### Economic Health ###
 boom_economy:0 "WIP" #Boom Economy WIP!!!
@@ -39,64 +20,6 @@ bad_economy:0 "WIP" #Bad Economy WIP!!!
 bust_economy:0 "WIP" #Bust Economy WIP!!!
 crash_economy:0 "WIP" #Crash Economy WIP!!!
 economic_health:0 "Work in progress, don't worry about this" #Economic Health WIP!!!
-
-### Stability Events ###
-kr.political.reduction:0 "안정도 하락!"
-kr.political.vgtog:0 "While [Root.GetNameDef] is still considered to be a fairly stable country, we no longer enjoy the rock-solid stability we once possessed. Once again, doubt has begun to seep into the political discourse."
-kr.political.vgtonorm:0 "[Root.GetNameDefCap] has experienced a severe reduction in our overall stability. While we are not near the point of concern, we no longer enjoy the rock-solid stability we once possessed."
-kr.political.vgtolow:0 "[Root.GetNameDefCap] has experienced a severe reduction in our overall stability. Demonstrations across the nation have shown that we have come a long way from the rock-solid stability we recently possessed, and once again doubt has crept into the national political discourse."
-kr.political.vgtovlow:0 "[Root.GetNameDefCap] has experienced a severe reduction in our overall stability. Demonstrations across the nation have shown that we have come a long way from the rock-solid stability we recently possessed, and there are questions raised as to how we could have fallen so far so quickly. Many fear that disaster is imminent."
-kr.political.vgtodis:0 "[Root.GetNameDefCap] has experienced a severe reduction in our overall stability. Riots across the nation have shown that we have come a long way from the rock-solid stability we recently possessed, and many wonder how we could have fallen so far so quickly. Many fear that a coup, or worse, is just around the corner."
-kr.political.gtonorm:0 "[Root.GetNameDefCap] has experienced a reduction in our overall stability. While we are not near the point of concern, we no longer enjoy the relative stability we once possessed."
-kr.political.gtolow:0 "[Root.GetNameDefCap] has experienced a severe reduction in our overall stability. Demonstrations across the nation have shown that we have come a long way from the relative stability we recently possessed, and there is a great deal of doubt across the nation regarding the government's ability to handle the situation."
-kr.political.gtovlow:0 "[Root.GetNameDefCap] has experienced a severe reduction in our overall stability. Demonstrations across the nation have shown that we have come a long way from the relative stability we recently possessed, and there are questions raised as to how we could have fallen so far so quickly. Many fear that disaster is imminent."
-kr.political.gtodis:0 "[Root.GetNameDefCap] has experienced a severe reduction in our overall stability. Riots across the nation have shown that we have come a long way from the relative stability we so recently possessed, and many wonder how we could have fallen so far so quickly. Many fear that a coup, or worse, is just around the corner."
-kr.political.normtolow:0 "[Root.GetNameDefCap]'s stability continues to deteriorate. Frequent demonstrations across the nation have brought things to a standstill, and there is a great deal of doubt regarding the [Root.GetAdjective] government's ability to handle the situation."
-kr.political.normtovlow:0 "[Root.GetNameDefCap]'s stability continues to deteriorate. Frequent demonstrations across the nation have brought things to a standstill, and there are questions raised as to how we could have fallen so far so quickly. Many fear that disaster is imminent."
-kr.political.normtodis:0 "[Root.GetNameDefCap] has experienced a severe reduction in our overall stability. Riots across the nation have shown that we have come a long way from the relatively normal stability we so recently possessed, and many wonder how we could have fallen so far so quickly. Many fear that a coup, or worse, is just around the corner."
-kr.political.lowtovlow:0 "[Root.GetNameDefCap]'s stability has gone from bad to worse. Frequent demonstrations across the nation have brought things to a virtual standstill, with violence on the rise, and there are questions raised as to how we could have fallen so far so quickly. Many fear that disaster is imminent."
-kr.political.lowtodis:0 "[Root.GetNameDefCap]'s situation has gone from bad to near-disaster. Violent riots across the nation have shown just how precarious our stability has become, and many wonder if there is even a way for the country to recover. Many fear that a coup, or worse, is just around the corner."
-kr.political.vlowtodis:0 "[Root.GetNameDefCap]'s situation has gone from bad to near-disaster. Violent riots across the nation have shown just how precarious our stability has become, and many wonder if there is even a way for the country to recover. Many fear that a coup, or worse, is just around the corner."
-kr.political.reduction.a:0 "That's very concerning..."
-
-kr.political.increase:0 "안정도 상승"
-kr.political.distovlow:0 "While [Root.GetNameDef] is still considered to be in an incredibly precarious sitation, the political scene has improved somewhat. Efforts to restore order have shown progress, and we are no longer on the verge of utter disaster. Still, most believe that the nation has a long way to go yet."
-kr.political.distolow:0 "While [Root.GetNameDef] is still considered to be in a poor state, the political scene has definitely improved. Efforts to restore order have shown a great deal of progress, and we are no longer on the verge of utter disaster. Still, many believe that the nation has a long way to go yet to truly stabilize."
-kr.political.distonorm:0 "The situation in [Root.GetNameDef] has gone from near-disaster to an almost-normal state of affairs. Riots and demonstrations have fallen off, and order has been restored in most parts of the nation. Many are very aware that things could still turn around rather quickly, but confidence in the government is quickly improving."
-kr.political.distog:0 "The turn-around in [Root.GetNameDef]'s situation could almost be called miraculous. Riots and demonstrations have all but vanished, and order has been restored in most parts of the nation. Most are very aware that things could still turn around rather quickly, but confidence in the government is quickly improving."
-kr.political.distovg:0 "The turn-around in [Root.GetNameDef]'s situation is nothing short of miraculous. The country has gone from a state of near-collapse to being considered rock-solid and orderly. There is an impending feeling that such a rapid change could also go in the reverse direction, but - even so - the [Root.GetAdjective] government has done the nearly impossible and fixed a situation that was thought to be almost beyond repair."
-kr.political.vlowtolow:0 "While [Root.GetNameDef] is still considered to be in a poor state, the political scene has definitely improved. Efforts to restore order have shown a great deal of progress, and the sense of deteriorating stability has quietly reversed. Still, many believe that the nation has a long way to go yet to truly improve."
-kr.political.vlowtonorm:0 "The situation in [Root.GetNameDef] has gone from poor to an almost-normal state of affairs. Demonstrations have fallen off, and order has slowly been restored in most parts of the nation. Many are very aware that things could still turn around rather quickly, but confidence in the government is quickly improving."
-kr.political.vlowtog:0 "The turn-around in [Root.GetNameDef]'s situation could almost be called miraculous. Violent demonstrations have all but vanished, and order has been restored in most parts of the nation. Most are very aware that things could still turn around rather quickly, but confidence in the government is rapidly improving."
-kr.political.vlowtovg:0 "The turn-around in [Root.GetNameDef]'s situation is nothing short of miraculous. The country has gone from a state of rapid deterioration to being considered rock-solid and orderly. There is an impending feeling that such a rapid change could also go in the reverse direction, but - even so - the [Root.GetAdjective] government has done the nearly impossible and fixed a situation that was thought to be almost beyond repair."
-kr.political.lowtonorm:0 "[Root.GetNameDefCap] has experienced a reversal in its stability, with demonstrations against the government slowly falling off and the situation returning to normal. While things are still far from good, and most are aware that it all could collapse, confidence in the [Root.GetAdjective] government's ability to improve stability is slowly being restored."
-kr.political.lowtog:0 "[Root.GetNameDefCap] has experienced a large reversal in its stability, with demonstrations against the government steadily falling off and the situation returning to normal. While things look to be improving overall, confidence in the [Root.GetAdjective] government's ability to deal with its current problems is increasingly high."
-kr.political.lowtovg:0 "[Root.GetNameDefCap] has experienced a sudden reversal in its stability, with demonstrations against the government having all but vanished and the situation returning to normal. While most are aware that it all could collapse again just as quickly, confidence in the [Root.GetAdjective] government's ability to deal with its current problems is very high."
-kr.political.normtog:0 "[Root.GetNameDefCap] has experienced an increase in its stability, with confidence in the [Root.GetAdjective] government's ability building and the political discourse turning to more mundane affairs."
-kr.political.normtovg:0 "[Root.GetNameDefCap] has experienced a great increase in its stability, with confidence in the [Root.GetAdjective] government's ability building and the political discourse turning to more mundane affairs. Currently the government is considered to be rock-solid, though there are some who persist in believing that such a rapid improvement could turn around just as quickly."
-kr.political.gtovg:0 "Thing continue to improve in [Root.GetNameDef], with the current government being considered rock-solid and confidence in its ability to deal with problems very high. There is little to no concern across the nation with matters of dissent, and the political discourse is mainly focused around mundane matters. To most, things couldn't be better."
-kr.political.increase.a:0 "오호라, 좋은걸..."
-
-### Popularity Events ###
-kr.political.11.t:0 "매우 높은 인기도"
-kr.political.11.d:0 "집권당에 대한 민간의 지지도가 매우 높은 수준에 이르러 우리의 정치력에 긍정적인 영향을 미쳤습니다. 야당은 거의 존재하지 않으며 우리는 우리가 원하는 어떤 개혁도 통과시킬 수 있는 위치에 있습니다."
-kr.political.11.a:0 "대단하군!"
-
-kr.political.12.t:0 "높은 인기도"
-kr.political.12.d:0 "집권당에 대한 민간의 지지도가 높은 수준에 이르러 우리의 정치력에 긍정적인 영향을 미쳤습니다. 우리의 정치적 반대는 확고부동하고 국가의 분열을 초래하는 개혁만이 우리의 개인적인 투자를 필요로 할 것입니다."
-kr.political.12.a:0 "멋지군!"
-
-kr.political.13.t:0 "보통 인기도"
-kr.political.13.d:0 "집권당에 대한 민간의 지지도가 보통 수준에 이르러 우리의 정치력에 영향을 미쳤습니다. 어떤 개혁에 대해 반대 세력과 협상을 할 필요가 있을지도 모르지만, 우리는 여전히 잘, 그리고 효과적으로 통치할 수 있습니다."
-kr.political.13.a:0 "좋군."
-
-kr.political.14.t:0 "낮은 인기도"
-kr.political.14.d:0 "집권당에 대한 민간의 지지도가 낮은 수준으로 떨어져 우리의 정치력에 부정적인 영향을 미쳤습니다. 반대 세력이 충분히 강력해서, 우리는 그들과 상의하고 타협해야 합니다."
-kr.political.14.a:0 "나쁘군."
-
-kr.political.15.t:0 "매우 낮은 인기도"
-kr.political.15.d:0 "집권당에 대한 민간의 지지도가 매우 낮은 수준으로 떨어져 우리의 정치력에 부정적인 영향을 미쳤습니다. 우리 정당은 거의 존재하지 않으며, 우리의 개혁은 야당의 변덕에 좌우될 것입니다."
-kr.political.15.a:0 "재앙이군!"
 
 ### Minister Influences Ruling Party Events ###
 kr.political.16.t:0 "장관이 자신의 이념을 지원하다"
@@ -140,58 +63,27 @@ kr.political.23.a:0 "우리가 할 수 있는건 없다."
 kr.political.23.b:0 "권력을 이용해서 장관의 노력을 수포로 돌려라."
 
 ### Starting Events ###
-kr.political.24.t:0 "카이저라이히 Alpha 0.6.3"
-kr.political.24.d:0 "카이저라이히 개발진이 Alpha 0.6.3버전을 하츠오브아이언4에 선사합니다! 지난 몇 달간 저희 개발진은 세계 구석구석을 모딩하였고, 이 작업물을 여러분에게 선보이게 되었습니다. 저희가 열심히 작업한만큼 여러분이 즐겁게 플레이하시기를 바랍니다. 한가지 알고 계셔야할 것은, 저희는 이 모드를 만들 때, 여러분이 평화회담에서 가능한 모든 지역을 가져간다는 전제하에 개발을 하였습니다, 따라서 그렇게 해주시길 바랍니다! \n\n또한 이 모드가 아직 알파버전인 것을 명심해주세요. 때문에 많은 버그들, 충돌 그 외 골치아픈 문제들이 발생할 수 있습니다. 만약 상기한 문제들을 발견하신다면, 깃허브의 버그트래커에 글을 남겨주세요.  만약 하고 싶은 질문이 있으시다면, 망설이지 마시고 질문해주세요, 다만 질문전에 게임 내에 있는 질의응답란을 먼저 확인해주세요.\n\n즐겁게 플레이하세요! \n                - 카라 개발진 일동, 개발진 목록은 크레딧란에서 보실 수 있습니다."
+kr.political.24.t:0 "카이저라이히 Alpha 0.7.1"
+kr.political.24.d:0 "카이저라이히 개발진이 Alpha 0.7.1버전을 하츠오브아이언4에 선사합니다! 지난 몇 달간 저희 개발진은 세계 구석구석을 모딩하였고, 이 작업물을 여러분에게 선보이게 되었습니다. 저희가 열심히 작업한만큼 여러분이 즐겁게 플레이하시기를 바랍니다. 한가지 알고 계셔야할 것은, 저희는 이 모드를 만들 때, 여러분이 평화회담에서 가능한 모든 지역을 가져간다는 전제하에 개발을 하였습니다, 따라서 그렇게 해주시길 바랍니다! \n\n또한 이 모드가 아직 알파버전인 것을 명심해주세요. 때문에 많은 버그들, 충돌 그 외 골치아픈 문제들이 발생할 수 있습니다. 만약 상기한 문제들을 발견하신다면, 깃허브의 버그트래커에 글을 남겨주세요.  만약 하고 싶은 질문이 있으시다면, 망설이지 마시고 질문해주세요, 다만 질문전에 게임 내에 있는 질의응답란을 먼저 확인해주세요.\n\n즐겁게 플레이하세요! \n                - 카라 개발진 일동, 개발진 목록은 크레딧란에서 보실 수 있습니다."
 kr.political.24.a:0 "카이저라이히 개발진분들 고맙습니다!"
-#kr.political.24.b:0 "Tell me more about this exciting new stability system..."
 kr.political.24.c:0 "궁금증을 풀어줄 만한게 있을까요?"
-kr.political.24.e:0 "진영가입에 제한이 없으면 좋겠다..."
+kr.political.24.e:0 "뭔가 놓친게 있는 것 같아..."
 
-#kr.political.27.t:0 "The Stability System"
-#kr.political.27.d:0 "Kaiserreich for HOI4 introduces a new mechanic: The Stability System. Stability is present in the form of laws which you can see in your political screen next to the trade laws. These are influenced by your political power. Going under -50PP will cause you to go down to low stability, under -250 and you'll go to very low stability and under -500 and you will be in a disaster; you want to avoid that, trust me. On the contrary you'll be able to go up to very low stability if you're above -500, to low stability if you're above -250 and to average stability if you're above -50. \n\nGoing up up to good and very good stability is a bit different, you must get 150PP and then select the corresponding law in the stability screen. You'll get a reminder the first time this is possible. If you ever go under 0PP you'll lose the positive stability levels. \n\nPlease keep in mind that the events adding or removing your stability don't instantly fire and can take several months to fire. Finally, if you happen to forget what you read here you'll be able to see the requirements for each level as tooltips if you hover over the stability ideas in the law screen, but there is no reason that you would forget right?"
-#kr.political.27.a:0 "I wanted that PP..."
+kr.political.25.t:0 "질의응답"
+kr.political.25.d:0 "왜 아무것도 속국화 할 수 없습니까?\n속국화는 평화회담이 아닌, 이벤트나 국가중점을 통해 이루어집니다.\n\n다음 업데이트는 언제 나와요?\n우리는 3달마다 중요 업데이트를 진행합니다, 물론 필요에 따라 핫픽스를 제공합니다.\n\n일부 모델이 검은색으로 나오는데요?\n우리는 DLC에셋을 일부 사용 중입니다, 따라서 DLC가 없으시다면 일부는 검은색 텍스쳐가 나올겁니다. 다만 안심하세요 그저 사소한 오류일뿐입니다. 이 문제를 해결하기 위해 텍스쳐 작업 중에 있으니, 업데이트를 확인해주세요.\n\n카이저라이히의 버그 테스트/아트/음악/코딩 작업을 하고 싶습니다, 어디서 연락을 취할 수 있을까요?\n좋습니다! 우리의 디스코드나 포럼에 글을 쓰시거나, Zankoas에게 메세지를 남겨주세요.\n\n업데이트로 세이브파일이 꺠졌습니다!\n그건 질문대상이 아닙니다. 하지만 그 문제를 겪고 계신다면 세이브파일을 불러오시고 일시중지하지 마시고 다시 저장하신 다음, 다시 그걸 불러와보세요. 철인모드를 켜지 않는 것도 도움이 됩니다. 모두 안먹힌다면, 카이저라이히 포럼에서 이전버전을 받을 수 있다는 것을 명심하세요.\n\n카이저라이히와 관련된 다른게 있나요?\n오직 창작마당에 올려져 있는 음악모드 뿐입니다. 창작마당이나 포럼에서 찾을 수 있으니, 금방 찾을 수 있기를 바래요."
+kr.political.25.a:0 "정치력점수 좀 가져갈 수 있겠어?"
 
-kr.political.33.t:0 "그저 정말 좋지 않은걸요!"
-kr.political.33.d:0 "만약 카이저라이히를 싫한다면, 왜 하시고 계세요?"
-kr.political.33.a:0 "그거 정말 좋은 질문이야..."
-kr.political.33.b:0 "만우절로 돌려줘..."
+kr.political.26.t:0 "뉴스 사건"
+kr.political.26.d:0 "저는 인터내셔널 뉴스 트리뷴의 사장입니다. 카이저라이히는 이벤트, 국가적 초점 그리고 다른 수단들을 통해 전달되는 이야기로 깊이 자리잡혀있는 모드입니다. 하지만, 플레이어인 당신은 이것을 깨닫지 못할 수도 있습니다, 왜냐하면 외국에서 일어나는 사건들은 당신이 알 수 없기 때문입니다. 그래서 우리는 외국에서 일어난 주요 이벤트들에 관해서 전달해주는 뉴스 이벤트 시스템을 만들었습니다. 뉴스 이벤트들은 당신이 세계의 사건들의 의미와 이유를 이해할 수 있도록 도와주는 토막 소식들을 담고 있습니다, 그리고 예쁜데다가 격식있기까지 합니다.\n\n그러나, 당신이 게임 테스터이거나 이 모드에 완전히 중독되서 이번 게임이 이번주에 1000번째 게임이라면, 혹은 눈 앞에 팝업이 계속 나오는 것을 싫어하는 플레이어라면, 이 요소를 완전히 꺼버리거나 중요한 뉴스 이벤트만이 나타나게 하는 선택지도 있습니다. 당신의 선택은..."
+kr.political.26.a:0 "모든걸 알려줘요, 모.든.걸!"
+kr.political.26.b:0 "중요 사건만 알려주세요."
+kr.political.26.c:0 "자잘한 것들도 알고 싶습니다."
 
-kr.political.34.t:0 "질의응답"
-kr.political.34.d:0 "왜 아무것도 속국화 할 수 없습니까?\n속국화는 평화회담이 아닌, 이벤트나 국가중점을 통해 이루어집니다.\n\n다음 업데이트는 언제 나와요?\n우리는 3달마다 중요 업데이트를 진행합니다, 물론 필요에 따라 핫픽스를 제공합니다.\n\n일부 모델이 검은색으로 나오는데요?\n우리는 DLC에셋을 일부 사용 중입니다, 따라서 DLC가 없으시다면 일부는 검은색 텍스쳐가 나올겁니다. 다만 안심하세요 그저 사소한 오류일뿐입니다. 이 문제를 해결하기 위해 텍스쳐 작업 중에 있으니, 업데이트를 확인해주세요.\n\n카이저라이히의 버그 테스트/아트/음악/코딩 작업을 하고 싶습니다, 어디서 연락을 취할 수 있을까요?\n좋습니다! 우리의 디스코드나 포럼에 글을 쓰시거나, Zankoas에게 메세지를 남겨주세요.\n\n업데이트로 세이브파일이 꺠졌습니다!\n그건 질문대상이 아닙니다. 하지만 그 문제를 겪고 계신다면 세이브파일을 불러오시고 일시중지하지 마시고 다시 저장하신 다음, 다시 그걸 불러와보세요. 철인모드를 켜지 않는 것도 도움이 됩니다. 모두 안먹힌다면, 카이저라이히 포럼에서 이전버전을 받을 수 있다는 것을 명심하세요.\n\n카이저라이히와 관련된 다른게 있나요?\n오직 창작마당에 올려져 있는 음악모드 뿐입니다. 창작마당이나 포럼에서 찾을 수 있으니, 금방 찾을 수 있기를 바래요."
-kr.political.34.a:0 "정치력점수 좀 가져갈 수 있겠어?"
+#kr.political.27 moved to _KR_Political_Notice_l_english.yml
 
-#kr.political.35.t:0 "FAQ Part 2"
-#kr.political.35.d:0 "Is any DLC required?\nNo, while we will of course make use of DLC features, we won't make it a requirement to enjoy KR4.\n\nAre there any known bugs I should be aware of?\nNote this isn't an exhaustive list of in game bugs, just ones that we are aware of and haven't been able to fix.\n1. Very rarely, slight changes to mod files can cause all events to refire when loading a save. Making a new save or reverting back to the old version avoids this issue.\n\nI found a bug, how can I make by bug report as helpful as possible?\nReport it only once per patch, we are busy people so don't worry if it takes us a few days to answer. The paradox forums bug report thread, or the steam workshop bug report thread are the best places to report, but please only report it on one of them. Try and check the last few pages to see if someone else has reported it. The more detail the better; screen shots and saves are much appreciated. Also try and check back a few days after reporting, we might have asked a question about your bug or just want to thank you. And as always, we really appreciate you taking the time to make KR4 the best it can be!"
-#kr.political.35.a:0 "Do you have to take that PP away?"
-
-kr.political.28.t:0 "뉴스 이벤트"
-kr.political.28.d:0 "저는 인터내셔널 뉴스 트리뷴의 사장입니다. 카이저라이히는 이벤트, 국가적 초점 그리고 다른 수단들을 통해 전달되는 이야기로 깊이 자리잡혀있는 모드입니다. 하지만, 플레이어인 당신은 이것을 깨닫지 못할 수도 있습니다, 왜냐하면 외국에서 일어나는 사건들은 당신이 알 수 없기 때문입니다. 그래서 우리는 외국에서 일어난 주요 이벤트들에 관해서 전달해주는 뉴스 이벤트 시스템을 만들었습니다. 뉴스 이벤트들은 당신이 세계의 사건들의 의미와 이유를 이해할 수 있도록 도와주는 토막 소식들을 담고 있습니다, 그리고 예쁜데다가 격식있기까지 합니다.\n\n그러나, 당신이 게임 테스터이거나 이 모드에 완전히 중독되서 이번 게임이 이번주에 1000번째 게임이라면, 혹은 눈 앞에 팝업이 계속 나오는 것을 싫어하는 플레이어라면, 이 요소를 완전히 꺼버리거나 중요한 뉴스 이벤트만이 나타나게 하는 선택지도 있습니다. 당신의 선택은..."
-kr.political.28.a:0 "모든걸 알려줘요, 모.든.걸!"
-kr.political.28.b:0 "중요 사건만 알려주세요."
-kr.political.28.c:0 "자잘한 것들도 알고 싶습니다."
-kr.political.28.e:0 "난 이 모드 싫어..."
-
-#Moved to a temp override file: zzz_KR_Temp_Political_l_english.yml
-#kr.political.27.t:0 "Cornflakes and DLC"
-#kr.political.27.d:0 "Do I need Waking the Tiger? What about Death or Dishonour? Will the universe end in vacuum decay?\n\nNo, you do not need Waking the Tiger or any other DLC to play Kaiserreich Alpha 0.6 - 'Garibaldi's Nightmare', though yes the universe will end in vacuum decay.\n\nWe have been thinking and talking a lot about DLC within the team and what our policy should be surrounding it. We have not yet reached a conclusion and thus we may change things for 0.7, we may not. But until then, enjoy Kaiserreich with all, some or no DLC. That being said, if you do have DLC by all means use it and enjoy those shiny unit models and associated features!\n\nPlease also note that work with 1.5 'Cornflakes' is no where near done, so many nations are not yet fully making use of stability, decisions etc. This is something we will be working on for next patch."
-#kr.political.27.a:0 "Thanks for all the info, but can I please play now?"
-
-kr.political.36.t:0 "만우절 장난은 어디에 있습니까?"
-kr.political.36.d:0 "카이저라이히가 멀티플레이 게임을 망치는 것을 막기 위해서, 이 이벤트는 더 이상 자동으로 만우절 장난을 활성화시키지 않습니다. 그 대신, 당신이 해야 할 일은 게임 콘솔을 열고 "event april.1"을 입력하는 것입니다, 간단하죠!\n\n만약 당신이 그것을 멀티플레이에서 사용하고 싶다면, 게임 파일로 이동한 뒤, extra로 이동해서 April Fool's Enabled 로 간 뒤, 그곳에서 KR_Political.txt 를 복사해  events folder로 옮기세요. 당신의 방에 참여하기 위해서는 다른 모든 플레이어들도 이것을 똑같이 해야합니다. 이것을 완료했다면, 이 이벤트로 다시 돌아오시면 만우절 장난이 작동될 것입니다."
-kr.political.36.a:0 "알겠습니다!"
-
-kr.political.37.t:0 "진영 가입 제한을 제거하시겠습니까?"
-kr.political.37.d:0 "You want to ignore the lore of KR? You want to defy hundreds of years of history? You want to break the cosmos? Well we won't stop you... open the in game console and type: "event kr.political.38" and you can join factions to your hearts content. IF YOU USE THIS THERE WILL BE BUGS! Please don't report bugs you find in this mode.\n\nIf you would like to use it in multiplayer, head into the game files, go to extra, and then to No Faction Join Limits, then copy KR_Political_Extra.txt from there to the events folder. All other players must do the same in order to join you. Once you have done this, come back to this event and faction joining limits will be removed."
-kr.political.37.a:0 "난 나쁜 놈이라서 나쁜 기분을 느껴야해"
-
-kr.political.38.t:0 "진영 가입 제한 제거"
-kr.political.38.d:0 "이 이벤트는 모든 플레이어의 진영 가입 제한을 제거합니다, 만약 적용이 되지 않는다면 버그를 제보해주세요. 적용되기까지 며칠정도 소요됩니다."
-kr.political.38.a:0 "야생으로 가자!"
-
-### Remove Independent War Event ###
-kr.political.30.t:0 "독립전쟁의 끝"
-kr.political.30.d:0 "우리의 독립전쟁이 끝났습니다. 이제 동맹을 불러서 다른 전쟁을 할 수 있습니다."
-kr.political.30.a:0 "알겠다"
+kr.political.28.t:0 "뭔가 놓친게 있는 것 같아..."
+kr.political.28.d:0 "만우절 장난을 찾고 계신기요? 진영가입 제한 제거를 찾고 계신가요?\n\n그 2개는 서브모드로 옮겨졌습니다! 창작마당에 있는 카이저라이히 모음집을 들어가시면, 찾으실 수 있습니다!"
+kr.political.28.a:0 "알겠습니다!"
 
 ### Gamestart Opinion Modifiers ###
 kr.political.40.t:0 "Setting Opinion Modifiers"
@@ -206,3 +98,17 @@ different_party_types:0 "기본"
 KR_ideology_allowed:0 "장관이 해당국가의 이념을 허락함"
 KR_factional_rivalry:0 "당파 경쟁"
 minister_available:0 "이 정부의 유형에서 장관을 사용할 수 있음"
+KR_is_socialist:0 "전체주의, 생디칼리즘 또는 급진사회주의 정부임"
+KR_is_not_socialist:0 "전체주의, 생디칼리즘 또는 급진사회주의 정부를 가지고 §R있지 않음§!"
+KR_is_elected:0 "민주주의와 선출된 정부를 가지고 있음"
+KR_is_not_elected:0 "민주주의와 선출된 정부를 가지고 §R있지 않음§!"
+KR_is_democratic:0 "민주주의 정부를 가지고 있음"
+KR_is_not_democratic:0 "민주주의 정부를 §R있지 않음§!"
+KR_is_authoritarian:0 "비 사회주의 권위주의 정부를 가지고 있음"
+KR_is_not_authoritarian:0 "비 사회주의 권위주의 정부를 가지고 §R있지 않음§!"
+KR_is_dictatorship:0 "비 사회주의 독재 정부를 가지고 있음"
+KR_is_not_dictatorship:0 "비 사회주의 독재 정부를 가지고 §R있지 않음§!"
+has_scripted_peace:0 "우리는 전쟁 중입니다"
+has_scripted_peace_desc:0 "국가가 전쟁 중이며, 승리를 목표로 하고 있습니다 - 기회가 있지만 우리의 저항력은 생각보다 조금 더 취약합니다. (Note: this exists for wars where a scripted peace event exists, and chances are the event will fire long before this elevated surrender limit is hit, just so you're aware.)"
+
+
