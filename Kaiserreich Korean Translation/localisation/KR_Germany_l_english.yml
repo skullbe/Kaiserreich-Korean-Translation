@@ -255,6 +255,8 @@ GER_reichsmark_no_op:0 "라이히스마르크화 사용 거절하다"
 financial_help_granted:0 "재정적 도움 기여"
 financial_help_denied:0 "재정적 도움 거부"
 GER_raised_tarrifs:0 "관세 인상"
+Ostraum_more_liberties:0 "Granted Liberties"
+Ostraum_denied_liberties:0 "Denied Liberties"
 
 ### Parties ###
 GER_totalist_party:0 "적군 민병대"
