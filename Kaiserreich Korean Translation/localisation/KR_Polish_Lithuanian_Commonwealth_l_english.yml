@@ -686,11 +686,6 @@ PLC_paternal_autocrat_party_long:0 "Partia Centralistyczna"
 PLC_national_populist_party:0 "ONR"
 PLC_national_populist_party_long:0 "Obóz Narodowo-Radykalna"
 
-### Leader Descriptions ###
-POLITICS_MENDOG_III_PLC_DESC:0 "Born Karl Gero von Urach, the son of Wilhelm Karl, Duke of Urach, Mindaugas III, Mendog in Polish, ascended to the throne of Lithuania with his father's death in 1929. Though he bears the name of the first king of Lithuania, unifier and folk hero, Mindaugas III is not concerned with the people he reigns over at all - they are foreigners to him, and he to them. Despite this, Mindaugas has also been crowned king of Poland, and now a renewed union of his two kingdoms, ending decades of deadlock in what became known as Poland's 'eternal regency'."
-POLITICS_ADAM_DOBOSZYNSKI_PLC_DESC:0 "Adam Doboszynski is a moralist, even the by the standards of his party. Doboszynski argues that both Marxism and capitalism destroy the moral fabric of society. The only way, to Doboszynski, to assure the integrity of human beings is to strengthen the morality of society."
-POLITICS_FELIKS_DZIERZYNSKI_PLC_DESC:0 "Feliks Dzierzynski, former delegate to the Moscow Soviet, returned to Poland bitter from the defeat of the Bolshevik revolution. Undeterred, however, Dzierzynski, together with other Polish socialists, established a clandestine revolutionary movement in Warsaw which quickly spread throughout Poland. Dzierzynski, as head of state, shepherds Poland-Lithuania for the fulfillment of his socialist ideals."
-
 ### Flags ###
 plc_polish_favor:0 "§RThis option will favour Poland in the makeup of the Commonwealth. This will have consequences.§! \n"
 plc_lithuanian_favor:0 "§RThis option will favour Lithuania in the makeup of the Commonwealth. This will have consequences.§! \n"
