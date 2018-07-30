@@ -217,7 +217,7 @@ SRI_streghten_the_chairman_desc:0 "In order for the republic to be Strong, the p
 SRI_state_atheism:0 "State Atheism"
 SRI_state_atheism_desc:0 "Superstition has no place in the Italian Republic. Gods and prophets and made up lives by men to deceive man is not needed in the modern age. Religion is something that keeps men in chains, drugged by the opiate of the masses but we shall break the chains that religion has placed upon us. We shall enforce State Atheism for religion has no place within the republic."
 SRI_rouse_the_people:0 "Rouse the People"
-SRI_rouse_the_people_desc:0 "We must rouse all the people of Italy to build the new Italy and spread the revolution. All of Italia must be united. The people must join together for this fight and the many fights that shall come afterwards!"
+SRI_rouse_the_people_desc:0 "We must rouse all the people of Italy to build the new Italy and spread the revolution. All of Italia must be united. The people must join together in this fight and the many fights that shall come afterwards!"
 SRI_secret_police:0 "Ministry of Public Security"
 SRI_secret_police_desc:0 "Enemies and counter-revolutionaries are all around us and in order to protect the people, the Ministry of Public Security shall be given all the power it needs to destroy the enemies of the republic."
 SRI_permanet_revolution:0 "Permanent Revolution"
@@ -313,7 +313,7 @@ SRI_army_desc:0 "재통일을 위해서 그리고 우리의 승리를 보장하�
 SRI_guardie_rosse:0 "적위대 지원"
 SRI_guardie_rosse_desc:0 "우리는 적위대를 지원하기로 했습니다. 이것은 시간이 걸리는 일이겠지만, 민병대는 우리 원칙의 적합한 군대이기 때문입니다."
 SRI_artillery_effort:0 "Artillery Effort"
-SRI_artillery_effort_desc:0 "No comrade is expendable, no loss without anguish. We must have artillery to soften up the enemy before an engagement."
+SRI_artillery_effort_desc:0 "No comrade is expendable, no loss without anguish. We must have ample artillery to soften up the enemy before an engagement."
 SRI_anti_air:0 "Anti-Air Artillery"
 SRI_anti_air_desc:0 "Our brave comrades in arms have little hope against an enemy aircraft with only a rifle. Towed anti-aircraft guns, however, can do much to keep the men safe and the skies clear of reactionary hawks."
 SRI_anti_tank:0 "Anti-tank Artillery"
@@ -511,7 +511,7 @@ socitaly.17.b:0 "협상을 위한 노력을 계속한다."
 socitaly.18.t:0 프랑스가 민족주의 연맹을 지원하다"
 socitaly.18.d:0 "프랑스 정부에서 민족주의 연맹을 지원하기로 결정했습니다. 우리는 이 말을 들어야 할까요? 아니면 우리만의 해결 방법을 찾아야 할까요?"
 socitaly.18.a:0 "민족주의 연맹이 새로운 정부를 구성하게 될 것이다.!"
-socitaly.18.b:0 “협상을 위한 노력을 계속한다.."
+socitaly.18.b:0 "협상을 위한 노력을 계속한다.."
 
 
 ### Neo Sanfedisti ###
@@ -573,7 +573,7 @@ socitaly.30.b:0 "We must bid our time."
 
 socitaly.31.t:0 "NeoSanfedisti rally to the pope"
 socitaly.31.d:0 "We are now at war with the Socialist Republic of Italy and a number of NeoSanfedisti men have rallied to the Pope's call. These men have quite the experience with fighting the godless syndicalists and will be a boon in defending the holy father."
-socitaly.31.a:0 "Thank you my children"
+socitaly.31.a:0 "Thank you, my children"
 
 
 socitaly.32.t:0 "기독교 사회주의?"
@@ -600,12 +600,12 @@ socitaly.35.c:0 "교리 연구에 집중하라."
 
 socitaly.36.t:0 "사회주의 공화국 대한 선전포고?"
 socitaly.36.d:0 "The Socialist Republic of Italy is at war with the Two Sicilies, Some within the parliament are auguring that this is a golden opportunity to unite the republic, while others suggest bidding our time. What shall we do?"
-socitaly.36.a:0 "Declare War"
-socitaly.36.b:0 "Bide our time"
+socitaly.36.a:0 "전쟁을 선포한다"
+socitaly.36.b:0 "우리의 때를 기다리자"
 
 socitaly.37.t:0 "사회주의 공화국 대한 선전포고?"
 socitaly.37.d:0 "The Socialist Republic of Italy is at war with the Papal States, We should rally to the defence of the Pope. "
-socitaly.37.a:0 "Defend the Pope"
+socitaly.37.a:0 "교황을 보호하라"
 
 socitaly.40.t:0 "이탈리아의 통일"
 socitaly.40.d:0 "마침내 이탈리아는 재통일 되었습니다. 혁명 역시 이탈리아 전역에 도달했죠. 오늘은 위대한 날이자 국경일로 지정될만한 날입니다. 이제 이탈리아인을 이탈리아로 새롭게 통합시킬 시간입니다."
@@ -643,10 +643,10 @@ socitaly.45.e:0 "Congratulations, Comrade Matteotti!"
 
 socitaly.46.t:0 "Unione Sindacalista Victory"
 socitaly.46.d:0 "The Unione Sindacalista has achieved a majority and are now in charge of the government. The Question is whom shall be the Chairman. The leading candidates are Comrade Giuseppe Di Vittorio, Alceste De Ambris, Comrade Palmiro Togliatti, and Comrade Angelo Tasca. Whom shall be elected?"
-socitaly.46.a:0 "Congratulations, Comrade Di Vittorio!"
-socitaly.46.b:0 "Congratulations, Comrade Togliatti!"
-socitaly.46.c:0 "Congratulations, Comrade Tasca!"
-socitaly.46.e:0 "Congratulations, Comrade De Ambris!"
+socitaly.46.c:0 "Congratulations, Comrade Di Vittorio!"
+socitaly.46.e:0 "Congratulations, Comrade Togliatti!"
+socitaly.46.b:0 "Congratulations, Comrade Tasca!"
+socitaly.46.a:0 "Congratulations, Comrade De Ambris!"
 
 socitaly.47.t:0 "Unione Nazionalista Victory"
 socitaly.47.d:0 "The Unione Nazionalista has achieved a majority and are now in charge of the government."
@@ -679,53 +679,52 @@ socitaly.53.d:0 "우리는 교황이 더 이상 우리 사회에 존재 할 수 
 socitaly.53.a:0 "여기서 나가라!"
 
 socitaly.54.t:0 "The Pope arrives in Vienna"
-socitaly.54.d:0 "The Pope has arrived in Vienna today seeking refuge from the Syndicalists within Italy whom have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
-socitaly.54.a:0 "Stay as long you want, holy Father"
+socitaly.54.d:0 "The Pope has arrived in Vienna today seeking refuge from the Syndicalists within Italy who have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
+socitaly.54.a:0 "Stay as long you want, Holy Father"
 
-socitaly.55.t:0 "The Pope arrives in Algires"
-socitaly.55.d:0 "The Pope has arrived in Algires today seeking refuge from the Syndicalists within Italy whom have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
-socitaly.55.a:0 "Stay as long you want, holy Father"
+socitaly.55.t:0 "The Pope arrives in Algiers"
+socitaly.55.d:0 "The Pope has arrived in Algiers today seeking refuge from the Syndicalists within Italy who have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
+socitaly.55.a:0 "Stay as long you want, Holy Father"
 
 socitaly.56.t:0 "The Pope arrives in Madrid"
-socitaly.56.d:0 "The Pope has arrived in Madrid today seeking refuge from the Syndicalists within Italy whom have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
-socitaly.56.a:0 "Stay as long you want, holy Father"
+socitaly.56.d:0 "The Pope has arrived in Madrid today seeking refuge from the Syndicalists within Italy who have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
+socitaly.56.a:0 "Stay as long you want, Holy Father"
 
 socitaly.57.t:0 "The Pope arrives in Madrid"
-socitaly.57.d:0 "The Pope has arrived in Madrid today seeking refuge from the Syndicalists within Italy whom have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
-socitaly.57.a:0 "Stay as long you want, holy Father"
+socitaly.57.d:0 "The Pope has arrived in Madrid today seeking refuge from the Syndicalists within Italy who have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
+socitaly.57.a:0 "Stay as long you want, Holy Father"
 
 socitaly.58.t:0 "The Pope arrives in Lisbon"
-socitaly.58.d:0 "The Pope has arrived in Lisbon today seeking refuge from the Syndicalists within Italy whom have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
-socitaly.58.a:0 "Stay as long you want, holy Father"
+socitaly.58.d:0 "The Pope has arrived in Lisbon today seeking refuge from the Syndicalists within Italy who have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
+socitaly.58.a:0 "Stay as long you want, Holy Father"
 
 socitaly.59.t:0 "The Pope arrives in Dublin"
-socitaly.59.d:0 "The Pope has arrived in Dublin today seeking refuge from the Syndicalists within Italy whom have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
-socitaly.59.a:0 "Stay as long you want, holy Father"
+socitaly.59.d:0 "The Pope has arrived in Dublin today seeking refuge from the Syndicalists within Italy who have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
+socitaly.59.a:0 "Stay as long you want, Holy Father"
 
 socitaly.60.t:0 "The Pope arrives in Munich"
-socitaly.60.d:0 "The Pope has arrived in Munich today seeking refuge from the Syndicalists within Italy whom have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
-socitaly.60.a:0 "Stay as long you want, holy Father"
+socitaly.60.d:0 "The Pope has arrived in Munich today seeking refuge from the Syndicalists within Italy who have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
+socitaly.60.a:0 "Stay as long you want, Holy Father"
 
 socitaly.61.t:0 "The Pope arrives in Rio de Janeiro"
-socitaly.61.d:0 "The Pope has arrived in Rio de Janeiro today seeking refuge from the Syndicalists within Italy whom have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
-socitaly.61.a:0 "Stay as long you want, holy Father"
+socitaly.61.d:0 "The Pope has arrived in Rio de Janeiro today seeking refuge from the Syndicalists within Italy who have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
+socitaly.61.a:0 "Stay as long you want, Holy Father"
 
 socitaly.62.t:0 "The Pope arrives in Mexico City"
-socitaly.62.d:0 "The Pope has arrived in Mexico City today seeking refuge from the Syndicalists within Italy whom have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
-socitaly.62.a:0 "Stay as long you want, holy Father"
+socitaly.62.d:0 "The Pope has arrived in Mexico City today seeking refuge from the Syndicalists within Italy who have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
+socitaly.62.a:0 "Stay as long you want, Holy Father"
 
 socitaly.63.t:0 "The Pope arrives in Lima"
-socitaly.63.d:0 "The Pope has arrived in Lima today seeking refuge from the Syndicalists within Italy whom have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
-socitaly.63.a:0 "Stay as long you want, holy Father"
+socitaly.63.d:0 "The Pope has arrived in Lima today seeking refuge from the Syndicalists within Italy who have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
+socitaly.63.a:0 "Stay as long you want, Holy Father"
 
 socitaly.64.t:0 "The Pope arrives in Buenos Aires"
-socitaly.64.d:0 "The Pope has arrived in Buenos Aires today seeking refuge from the Syndicalists within Italy whom have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
-socitaly.64.a:0 "Stay as long you want, holy Father"
-
+socitaly.64.d:0 "The Pope has arrived in Buenos Aires today seeking refuge from the Syndicalists within Italy who have exiled him from the country. A large crowd has already come out to meet the Holy Father. He shall be allowed to stay as long he likes for he shall be our guest."
+socitaly.64.a:0 "Stay as long you want, Holy Father"
 
 socitaly.65.t:0 "바티칸 코뮌"
 socitaly.65.d:0 "우리는 최근 생산적인 만남을 교황과 함께 가지고 결론을 내렸습니다. 아주 작은 코뮌이 베드로 성당에서 바티칸 코뮌이라는 명칭으로 창설되면서 공화국으로부터 독립 될 것입니다. 또한 그는 우리 공화국의 합법성을 인정하고 다른 카톨릭인들에 그것을 권고했습니다. 오늘은 공화국에게 신성하고 위대한 날입니다."
-socitaly.65.a:0 "교황이시어, 고맙습니다."
+socitaly.65.a:0 "교황이시여, 고맙습니다."
 
 socitaly.66.t:0 "혁명적 실지회복주의"
 socitaly.66.d:0 "우리는 우리 공화국의 정책을 결정해야 합니다. 많은 이탈리아의 땅과 이탈리아 형제자매들이 속박 속에 고통 받고 있죠. 일부는 오스트리아에만 초점을 둘 것을 제안했고. 다른 사람들은 몰타 또한 포함해야 한다고 생각하며, 민족주의 연맹은 대 이탈리아주의를 주장하며 이것이 사회주의의 전파에 도움이 될 것이라고 외치고 있습니다."
@@ -772,7 +771,7 @@ socitaly.74.c:0 "노동자 협동조합에 초점을 두다"
 
 socitaly.75.t:0 "새로운 코뮌"
 socitaly.75.d:0 "우리 통제하의 남은 이탈리아 지역들에서 새로운 혁명적 코뮌이 공화국 전역에서 형성되기 시작했습니다. 롬바르디아와 베네치아에서부터 시실리와 나폴리까지, 이러한 코뮌들은 새로운 사회적 중추이자 지역에 혁명을 전파하는 기반이 될 것입니다."
-socitaly.75.a:0 "Lunga Vita ai Comuni"
+socitaly.75.a:0 "코뮌이여 영원하라"
 
 socitaly.76.t:0 "사회적 변화에 대한 저항"
 socitaly.76.d:0 "우리가 이탈리아를 통일하고 나서부터, 공화국의 창립부터 이루어진 다양한 사회적 변화에 대한 저항이 벌어지고 있습니다. 부분적으로 여성의 권리를 신장 시키는 것이 저항의 원인이라고 지적되고 있습니다. 아마도 변화에 상당한 시간이 걸리겠지만, 최종적으로는 이탈리아의 남은 지역은 이러한 변화를 받아 드리게 될 겁니다.“
@@ -790,7 +789,7 @@ socitaly.79.t:0 "혁명 전시회"
 socitaly.79.d:0 "1919년에 이탈리아 사회주의 공화국은 탄생 되었지만 내전으로 인해 결과적으로 이탈리아는 분열되었습니다. 이러한 문제는 해결 될 것이고 이탈리아는 통일 될 것이며, 혁명은 우리 국가 전역으로 퍼져나갈 겁니다. 이러한 사실을 인민들에게 보여주기 위해서 혁명 전시회가 우리들의 분투를 축하하기 위해 그리고 잃어버린 것을 알리기 위해 로마에서 개최 될 것입니다. 생디칼리즘을 이탈리아 전역에 가져오는 것에 대한 이야기는 대중들에게 혁명적 분투에 대해서 가르칠 때 큰 도움이 될 겁니다."
 socitaly.79.a:0 "공화국이여 영원하라!"
 
-socitaly.80.t:0 "여성이 정치에 참여하다.Women entering politics"
+socitaly.80.t:0 "여성이 정치에 참여하다."
 socitaly.80.d:0 "여성에게 투표에 참가하는 것을 허용하고 국가 평의회에서 정치에 참여하는 것을 우리 공화국이 건설 될 때부터 허용했습니다. 이것이 이제 이탈리아 전역으로 퍼져나갔기 때문에, 여성들은 이러한 이익을 즐길 수 있을 겁니다. 많은 여성들이 이제 그들 인생에서 처음으로 지역 노조나 사회로부터 평의회를 통해 정치에 참여 할 수 있게 되었습니다.“
 socitaly.80.a:0 "좋아!"
 
@@ -925,7 +924,7 @@ socitaly.110.d.ines_promoted:0 "무솔로니와 비앙키의 강력한 정치적
 socitaly.110.a:0 "환영하오. 도나티 동무."
 
 socitaly.111.t:0 "The Grande Rivoluzione Culturale Proletaria Begins"
-socitaly.111.d:0 "Mussolini has spoke in Rome today declaring that Italy must be purged of all elements of reactionary and capitalist elements. Declaring that all forms of reactionary will be purged. The new futurist culture of Italy shall rise from its ashes and rebuild Italy that is the fulfillment of the declaration of revolution in 1919."
+socitaly.111.d:0 "Mussolini has spoken in Rome today declaring that Italy must be purged of all elements of reactionary and capitalist elements. Declaring that all forms of reactionary will be purged. The new futurist culture of Italy shall rise from its ashes and rebuild Italy that is the fulfilment of the declaration of revolution in 1919."
 socitaly.111.a:0 "We must make sure that Italy is uncorrupted"
 
 socitaly.112.t:0 "Destroy the cult of the Past"
@@ -937,7 +936,7 @@ socitaly.113.d:0 "The leader of the Ministry for Public Security has declared th
 socitaly.113.a:0 "Death to the reactionaries"
 
 socitaly.114.t:0 "Bonfire of the Vanities"
-socitaly.114.d:0 "In Florence a massive bonfire was held where all the people threw into the fire all sorts of capitalistic vanities. Artwork from before the creation of the Socialist Republic of Italy were burned. Numerous books were also destroyed. This bonfire has been copied by other cities across the republic as many seek to destroy the culture of the past."
+socitaly.114.d:0 "In Florence, a massive bonfire was held where all the people threw into the fire all sorts of capitalistic vanities. Artwork from before the creation of the Socialist Republic of Italy was burned. Numerous books were also destroyed. This bonfire has been copied by other cities across the republic as many seek to destroy the culture of the past."
 socitaly.114.a:0 "Destroy the capitalist Vanity"
 
 socitaly.115.t:0 "Purging the Reactionaries"
@@ -945,15 +944,15 @@ socitaly.115.d:0 "A number of the ministers in the government hold rather reacti
 socitaly.115.a:0 "We shall not be corrupted!"
 
 socitaly.116.t:0 "Destruction of Churches"
-socitaly.116.d:0 "'God does not exist—religion in science is an absurdity, in practice an immorality and in men a disease.' So proclaims Chairman Mussolini and with that the attention of the cultural revolutionaries was turned towards Christianity and religion. Churches were set upon by the people and transformed into town halls with all sign of them being once a place of worship gone. While even more were destroyed out right. This affected churches from the tiny parish churches to even cathedrals. Superstition was to be destroyed!"
+socitaly.116.d:0 "'God does not exist—religion in science is an absurdity, in practice an immorality and in men a disease.' So proclaims Chairman Mussolini and with that, the attention of the cultural revolutionaries was turned towards Christianity and religion. Churches were set upon by the people and transformed into town halls with all sign of them being once a place of worship gone. While even more were destroyed outright. This affected churches from the tiny parish churches to even cathedrals. Superstition was to be destroyed!"
 socitaly.116.a:0 "Death to Superstition"
 
 socitaly.117.t:0 "Break the Rule of Technicians in Factories"
-socitaly.117.d:0 "The Republic is to not be a bureaucratic republic. However in the years since, that has been changing and bureaucrats have been coming back within the government and within the workplaces. In order to make sure that the republic is not Bureaucratised, the technicians in the factories will spend time in the countryside and the government bureaucrats will spend time within the factories."
+socitaly.117.d:0 "The Republic is to not be a bureaucratic republic. However, in the years since, that has been changing and bureaucrats have been coming back within the government and within the workplaces. In order to make sure that the republic is not Bureaucratised, the technicians in the factories will spend time in the countryside and the government bureaucrats will spend time within the factories."
 socitaly.117.a:0 "Break the Chains!"
 
 socitaly.118.t:0 "Quotations from Chairman Mussolini"
-socitaly.118.d:0 "In order to spur on the Cultural Revolution, the thoughts and quotes of Benito Mussolini has been made into a small little book that has been given to many as they try to follow the footsteps of the Chairman."
+socitaly.118.d:0 "In order to spur on the Cultural Revolution, the thoughts and quotes of Benito Mussolini have been made into a small little book that has been given to many as they try to follow the footsteps of the Chairman."
 socitaly.118.a:0 "From the wise words of Mussolini"
 
 socitaly.119.t:0 "Futurist Food"
@@ -961,66 +960,25 @@ socitaly.119.d:0 "As the cultural revolution continues, the manifesto of futuris
 socitaly.119.a:0 "Food of the future!"
 
 socitaly.120.t:0 "The strength of the Army"
-socitaly.120.d:0 "As the Cultural Revolution continues, the army has become more and more important in keeping order and stability. More over within the upper echelons some have started to wonder if the methods and way the cultural revolution is going on is productive to building a new society and culture for Italy."
+socitaly.120.d:0 "As the Cultural Revolution continues, the army has become more and more important in keeping order and stability. Moreover within the upper echelons, some have started to wonder if the methods and way the cultural revolution is going on is productive to building a new society and culture for Italy."
 socitaly.120.a:0 "The Army will protect the revolution"
 
 socitaly.121.t:0 "Destruction of Estates"
 socitaly.121.d:0 "Many noble estates in the south have been destroyed. The lands of the Kingdom of the Two Sicilies held quite many noble estates and the people in the south have finally decided to destroy these estates and make sure that there is no trace of the relics of the old feudal order."
-socitaly.121.a:0 "Death to Fedualism"
+socitaly.121.a:0 "Death to Feudalism"
 
 socitaly.122.t:0 "Mussolini's Personality Cult"
 socitaly.122.d:0 "A cult of personality has begun to grow around Mussolini. Using his personal charisma as well as the mass media from newspaper to film to make sure that his image is respected and supported. Portraits of Mussolini have popped up throughout the country."
 socitaly.122.a:0 "All for Mussolini"
 
 socitaly.123.t:0 "Revolutionary Films"
-socitaly.123.d:0 "To build a new culture we must destroy the old plays and operas are to stop be performed. Instead using the new film industry a new culture celebrating the revolution and the republic. Mussolini in particular is sponsoring new actors, actresses and directors that will praise the cultural revolution."
+socitaly.123.d:0 "To build a new culture we must destroy the old plays and operas are to stop be performed. Instead, using the new film industry, a new culture celebrating the revolution and the republic will be created. Mussolini, in particular, is sponsoring new actors, actresses and directors that will praise the cultural revolution."
 socitaly.123.a:0 "Film will bring about a new Culture"
 
 socitaly.124.t:0 "End of the Cultural Revolution"
-socitaly.124.d:0 "Tragically Mussolini has died in a plane crash and with his death Michele Bianchi has assumed control of the Republic. With Mussolini's death, Bianchi has declared that the Cultural Revolution has been victorious and as such it should come to an end. With its end, he has begun to slowly scale back some of the 'reforms' that were passed during the Revolution, notably the enforcement of futurist food."
+socitaly.124.d:0 "Tragically Mussolini has died in a plane crash and with his death, Michele Bianchi has assumed control of the Republic. With Mussolini's death, Bianchi has declared that the Cultural Revolution has been victorious and as such, it should come to an end. With its end, he has begun to slowly scale back some of the 'reforms' that were passed during the Revolution, notably the enforcement of futurist food."
 socitaly.124.a:0 "The Revolution is over"
 
-socitaly.125.t:0 "The End of the Revolution"
-socitaly.125.d:0 "Mussolini has declared in Rome that the revolution is now at an end. The reactionary culture that has infected Italy since the Republic was declared is gone. Today the sun shines on a new Italia. With this declaration comes the scaling down of the monotonous violence. Life has been changed but the republic has been made stronger or at least that is what Mussolini says. It is clear though that his grip on power is now absolute."
-socitaly.125.a:0 "The Revolution is Over"
-
-socitaly.126.t:0 ""
-socitaly.126.d:0 ""
-socitaly.126.a:0 ""
-
-socitaly.127.t:0 ""
-socitaly.127.d:0 ""
-socitaly.127.a:0 ""
-
-socitaly.128.t:0 ""
-socitaly.128.d:0 ""
-socitaly.128.a:0 ""
-
-socitaly.129.t:0 ""
-socitaly.129.d:0 ""
-socitaly.129.a:0 ""
-
-socitaly.130.t:0 ""
-socitaly.130.d:0 ""
-socitaly.130.a:0 ""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+socitaly.125.t:0 "혁명의 끝"
+socitaly.125.d:0 "무솔리니가 로마에서 선언한 혁명이 끝났으며, 공화국이 선포된 이래로 이탈리아를 물들인 반동주의적인 문화가 사라지게 됬습니다. 오늘은 이탈리아에 새로운 햇볕이 내리쬐는 날입니다. 이 선언으로 단조로운 폭력들이 점차 사라지게 될 것입니다. 무솔리니는 삶은 바뀔지언정 최소한 국가가 부강하게 될 것이라고 말했습니다. 무솔리니의 권력은 이제 절대적이라는 것이 분명합니다."
+socitaly.125.a:0 "혁명은 끝났다"
