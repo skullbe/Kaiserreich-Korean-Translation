@@ -48,13 +48,13 @@ CNT_helping_hand_focus_desc:0 "We have suffered more than most from Black Monday
 CNT_militia_focus:0 "Worker's Militias"
 CNT_militia_focus_desc:0 "Our first order of business is to look to our army - to ensure that it consists of hard workers, those devoted to the new socialist order. Anyone who still holds to the old ways, or who clings too much to faith as more important than their ideology, must be summarily purged from the ranks."
 CNT_radio_focus:0 "Receptador del Pueblo"
-CNT_radio_focus_desc:0 "The "Receptador del Pueblo", or "People's Receiver", is a radio receiver produced en masse and distributed among the people freely. This has been the start of a Spanish radio culture.\n\n" # why the \n\n at the end?
-CNT_propaganda_focus:0 "National Broadcasts"
+CNT_radio_focus_desc:0 "The "Receptador del Pueblo", or "People's Receiver", is a radio receiver produced en masse and distributed among the people freely. This has been the start of a Spanish radio culture.\n\n" # why the\n\n at the end?
+CNT_propaganda_focus:0 "국립 방송"
 CNT_propaganda_focus_desc:0 "We must continue to spread the syndicalist ideology throughout Spain, to make the goals of the working class the number one priority of every citizen no matter what region of the nation they live in."
 CNT_school_focus:0 "Communal Colleges"
 CNT_school_focus_desc:0 "We have allowed our differences to impede us for too long. It is time to bring fine Spanish minds together in our universities, and to give them free reign in aiding or great leap forward into the modern era."
 
-CNT_military_focus:0 "Defending the Revolution"
+CNT_military_focus:0 "혁명을 보호하라"
 CNT_military_focus_desc:0 "Our new regime sees threats from every corner of Europe and beyond. We must work quickly towards rebuilding and strengthening our revolutionary militias into a full and modern army."
 CNT_standing_army_focus:0 "A Standing Army"
 CNT_standing_army_focus_desc:0 "We must focus on our army's strength and quality, instead of focusing on expanding into areas we cannot truly afford."
