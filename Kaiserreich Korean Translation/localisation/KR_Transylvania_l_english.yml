@@ -22,9 +22,6 @@ TRS_paternal_autocrat_party_long:0 "루마니아 민족당"
 TRS_national_populist_party:0 "PNR"
 TRS_national_populist_party_long:0 "루마니아 민족당"
 
-### Leader Descriptions ###
-POLITICS_ALEXANDRU_VAIDAVOEVOD_DESC:0 "그리스 카톨릭 가정에서 태어난 보에보드는 합스부르크의 영토를 연방화하려는 계획을 지지했고 프란츠 페르디난트 대공과 친했습니다. 1906년, 그는 부다페스트 의회에서 루마니아 민족주의자 그룹에 합류해 헝가리 정부의 중요한 반대자가 되었고 트란실바니아의 자결권을 위해 싸웠습니다. 프란츠 페르디난트가 사라예보에서 암살당한 후 오스트리아의 명분에 실망한 그는 루마니아와의 트란실바니아 연합을 지지하는 쪽으로 방향을 돌렸습니다."
-
 ### Event Text ###
 transylvania.1.t:0 "루마니아와의 연합?"
 transylvania.1.d:0 "마침내 트란실바니아는 헝가리로부터 독립했습니다. 우리는 루마니아 국가이고 국민들은 우리 동포들과 하나의 국가를 함께 이루기위해 오랫동안 루마니아에 들어가기를 원했습니다. 마침내, 대 루마니아의 꿈은 이루어 질 수 있습니다."
