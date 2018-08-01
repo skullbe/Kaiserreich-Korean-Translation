@@ -410,7 +410,7 @@ uob.27.a:0 "브리타니아가 지배하노라!"
 uob.27.b:0 "사회주의 만세!"
 
 uob.28.t:0 "브리튼 연방이 아이슬랜드와 아조레스를 위협하다"
-uob.28.d:0 "리버풀의 해군 기지를 떠난 사회주의 해군은 아이슬랜드와 아조레스로 향했습니다. 이는 위력 행사이지만 무시되어서는 안됩니다. 이는 협상국을 향한 직접적인 위협은 아니지만 많은 고위 공무직에서는 관심을 가지지 않는 것은 현명한 선택이 아니라 믿습니다. 가장 적절한 답은 우리의 대양함대를 보내는 것이지만 이는 연방이 수행할 결정적인 행동 이전에 추가적인 준비를 선호하는 많은 독일인들에게서 반대를 받고 있습니다."
+uob.28.d:0 "리버풀의 해군 기지를 떠난 사회주의 해군은 아이슬랜드와 아조레스로 향했습니다. 이는 위력 행사이지만 무시되어서는 안됩니다. 이는 제국협정을 향한 직접적인 위협은 아니지만 많은 고위 공무직에서는 관심을 가지지 않는 것은 현명한 선택이 아니라 믿습니다. 가장 적절한 답은 우리의 대양함대를 보내는 것이지만 이는 연방이 수행할 결정적인 행동 이전에 추가적인 준비를 선호하는 많은 독일인들에게서 반대를 받고 있습니다."
 uob.28.a:0 "우리의 힘을 보여라"
 uob.28.b:0 "추가적 증강을 위해 자원을 소모해라"
 
@@ -1397,9 +1397,6 @@ ENG_foreign_policy_complete_focus_tp:0 "§Y브리튼 연방의 대외 정책이 
 ENG_economy_complete_focus_tp:0 "§Y브리튼 연방의 경제 정책이 결정됨\n§!"
 ENG_summon_the_home_guard_tp:0 "We shall call forth the Home Guard to defend Britain"
 
-
-
-
 ### Decisions ###
 ENG_weltkrieg_decisions:0 "2차 세계대전 결단"
 ENG_weltkrieg_decisions_desc:0 "반동 세력을 향한 대조국전쟁이 지금 여기에 일어나고 있습니다. 영국은 생디칼리즘이 카이저라이히에 의해 사라지는 것을 막기 위해 최선을 다할 것입니다. 모든 남성과 여성은 이 위대한 전쟁에서 역할을 다할 것이며, 우리는 승리할 것입니다."
@@ -1437,7 +1434,7 @@ ENG_CON_syndicalist_party_long:0 "노동조합총회 회중파"
 ENG_FED_syndicalist_party:0 "연방주의"
 ENG_FED_syndicalist_party_long:0 "노동조합총회 연방파"
 ENG_radical_socialist_party:0 "자치주의"
-ENG_BLR_radical_socialist_party:0 "포퓰리즘"
+ENG_BLR_radical_socialist_party:0 "대중주의"
 ENG_radical_socialist_party_long:0 "노동조합총회 자치파"
 ENG_BLR_radical_socialist_party_long:0 "블레어의 인민주의파"
 ENG_social_democrat_party:0 "사회 민주주의"
@@ -1452,5 +1449,5 @@ ENG_authoritarian_democrat_party:0 "권위민주주의"
 ENG_authoritarian_democrat_party_long:0 "권위민주주의"
 ENG_paternal_autocrat_party:0 "조국 전제군주주의"
 ENG_paternal_autocrat_party_long:0 "조국 전제군주주의"
-ENG_national_populist_party:0 "국가적 포퓰리즘"
-ENG_national_populist_party_long:0 "국가적 포퓰리즘"
+ENG_national_populist_party:0 "민족 대중주의"
+ENG_national_populist_party_long:0 "민족 대중주의"
