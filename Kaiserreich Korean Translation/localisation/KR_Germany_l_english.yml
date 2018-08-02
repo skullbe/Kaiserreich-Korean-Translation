@@ -92,26 +92,26 @@ GER_institut_idea_desc:0 "새로운 항공 연구소로 독일의 공군은 현�
 GER_cult_of_aviation_idea:0 "항공 추종"
 GER_cult_of_aviation_idea_desc:0 "세이버를 휘두르는 전사는 독일의 젊은이들의 우상이 아닙니다. 우리 모두에게 영감을주는 것은 현대의 결투하는 조종사입니다."
 
-ZO_idea:0 "미텔오이로파"
-ZO_idea_desc:0 "우리는 미텔오이로파의 지도국으로, 유럽 뿐만 아니라 세계의 중심입니다."
+ZO_idea:0 "미틀오이로파"
+ZO_idea_desc:0 "우리는 미틀오이로파의 지도국으로, 미틀오이로파는 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
 
-ZO_zollverein_idea:0 "미텔오이로파"
-ZO_zollverein_idea_desc:0 "우리는 미텔오이로파의 지도자로, 제국협정은 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
+ZO_zollverein_idea:0 "미틀오이로파"
+ZO_zollverein_idea_desc:0 "우리는 미틀오이로파의 지도자로, 미틀오이로파는 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
 
-ZO_europarat_idea:0 "미텔오이로파"
-ZO_europarat_idea_desc:0 "우리는 미텔오이로파의 지도자로, 제국협정은 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
+ZO_europarat_idea:0 "미틀오이로파"
+ZO_europarat_idea_desc:0 "우리는 미틀오이로파의 지도자로, 미틀오이로파는 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
 
-ZO_EEP_idea:0 "미텔오이로파"
-ZO_EEP_idea_desc:0 "우리는 미텔오이로파의 지도자로, 미텔오이로파은 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
+ZO_EEP_idea:0 "미틀오이로파"
+ZO_EEP_idea_desc:0 "우리는 미틀오이로파의 지도자로, 미틀오이로파는 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
 
-ZO_europakomm_idea:0 "미텔오이로파"
-ZO_europakomm_idea_desc:0 "우리는 미텔오이로파의 지도자로, 미텔오이로파은 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
+ZO_europakomm_idea:0 "미틀오이로파"
+ZO_europakomm_idea_desc:0 "우리는 미틀오이로파의 지도자로, 미틀오이로파는 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
 
-ZO_europabrigad_idea:0 "미텔오이로파"
-ZO_europabrigad_idea_desc:0 "우리는 미텔오이로파의 지도자로, 제국협정은 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
+ZO_europabrigad_idea:0 "미틀오이로파"
+ZO_europabrigad_idea_desc:0 "우리는 미틀오이로파의 지도자로, 미틀오이로파는 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
 
-ZO_europamark_idea:0 "미텔오이로파"
-ZO_europamark_idea_desc:0 "우리는 미텔오이로파의 리더입니다. 제국협정은 우리에게 힘을 투사하는 데 도움이되는 경제적 협력 협약입니다."
+ZO_europamark_idea:0 "미틀오이로파"
+ZO_europamark_idea_desc:0 "우리는 미틀오이로파의 리더입니다. 미틀오이로파는 독일의 세력투사에 도움을 주는 경제 협력 조약입니다."
 
 GER_mil_support_idea:0 "독일의 군사 지원"
 GER_mil_support_idea_desc:0 "독일 제국과의 강력한 조약에 따라 독일은 전폭적인 군사 지원을 약속했습니다."
@@ -360,7 +360,7 @@ GER_doctrine_mobile_desc:0 "우리 군 고위 지휘부는 여러 사안에 대�
 GER_doctrine_mobile_2:0 "새로운 교리"
 GER_doctrine_mobile_2_desc:0 "군 고위 지휘부의 하인츠 폰 구데리안과 에리히 폰 만슈타인 등과 같은 급직전인 혁신가의 일부는 완전히 새로운 교리에 대한 연구를 도입하기 위해 영향력을 행사하고 있습니다. 견고한 전선을 돌파하기 위해 기갑 선봉대의 신속한 기동에 초점을 맞추고자 합니다."
 
-GER_mil_expansion:0 "Military Expansion"
+GER_mil_expansion:0 "군대 확장"
 GER_mil_expansion_desc:0 "With the death of Hans von Seeckt and the retirement of August von Mackensen, the Chief of General Staff has been embroiled in heated debate as to which military doctrine should be adopted. We should establish an impartial committee of military officers to oversee the adoption of new doctrine."
 
 GER_doctrine_great_war:0 "현대 전쟁론"
@@ -372,8 +372,8 @@ GER_doctrine_great_war_2_desc:0 "The Chinese Intervention and more recent confli
 GER_squad_tactics:0 "분대 전술"
 GER_squad_tactics_desc:0 "The Chinese Intervention and more recent conflicts have convinced our officers of the importance of coordination within individual squads. We should integrate so called 'Gruppentaktiken' into our infantry training regime, and make sure they have the equipment to make the most use of it."
 
-GER_motorized:0 "Motorised Infiltration"
-GER_motorized_desc:0 "While our military high command is divided on many subjects, they are united on one topic: that the possibilities mass motorisation offers to our infantry can be exploited to win decisive and speedy victories on an operational scale, hearkening back to the victory of 1870/71."
+GER_motorized:0 "차량화 침투"
+GER_motorized_desc:0 "우리 군 고위 지휘부는 여러 사안에 대해 하나된 의견을 도출하지 못하였으나, 하나의 사안에는 의견을 모으고 있습니다: 1870년과 1871년 승리를 되돌아봤을 때, 작전 규모에서 신속하고 결정적인 승리는 보병을 집단적으로 차량화함으로써 달성할 수 있다는 것입니다."
 
 GER_doctrine_superior_firepower:0 "Neutralization"
 GER_doctrine_superior_firepower_desc:0 "The phrase 'artillery bombardment' fails to capture the essence of what we plan to do with artillery. We seek the complete neutralization of the enemy through a rain of shells, one that will last days, weeks, or longer--Whatever is needed."
@@ -550,47 +550,47 @@ GER_civ_industry_2_desc:0 "민간 산업화 계획 (Zivilindustrialisierungsplan
 GER_civ_industry_3:0 "ZIP III"
 GER_civ_industry_3_desc:0 "우리 민간 산업은 다시 한번 강력한 기반을 마련했지만, 아직 호황에 이르지는 못 했기에 몇가지 조치를 더 취해야 합니다. 식민지로부터 자원이 꾸준히 들어오고 생산량이 폭발적으로 증가하면서 머지않아 독일의 산업은 다시 한번 세계를 상회할 것입니다."
 
-GER_siemens:0 "Subsidies for Siemens"
-GER_siemens_desc:0 "Siemens is one of the many middle-to-larger sized businesses that form the heart of the German economy. By making contracts with them - and some other smaller industry companies - we can begin treading the slow and steady path to economic recovery."
+GER_siemens:0 "지멘스에 대한 보조금"
+GER_siemens_desc:0 "지멘스는 독일 경제의 심장을 이루는 대기업 중 하나입니다. 지멘스, 그리고 다른 작은 산업 업체들과 계약을 맺어, 우리는 경제 회복을 위한 느리고 꾸준한 길을 나아가기 시작할 수 있습니다."
 
 GER_thyssen:0 "Build up Thyssen"
 GER_thyssen_desc:0 "Thyssen AG, actually a conglomerate of various companies, produce everything; coal, steel, ships, and even some consumer products. By investing into them, we can help build up the civilian sector of our economy to get stronger returns later."
 
-GER_krupp_steel_focus:0 "Krupp Steel"
-GER_krupp_steel_focus_desc:0 "All this talk about infrastructure and helping our citizens is nice, yes, but what about artillery? Tanks? Planes? The world isn't safe, and Friedrich Krupp AG has the solutions we need! They've served Germany for generations, and the time has come to call on them again."
+GER_krupp_steel_focus:0 "크루프 강철"
+GER_krupp_steel_focus_desc:0 "기반시설과 시민들을 돕는 것에 대한 이야기도 좋습니다, 그렇죠, 하지만 야포는요? 탱크, 비행기는요? 세상은 안전하지 않으며, 프리드리히 크루프 AG는 우리가 필요한 해결책을 가지고 있습니다! 그들은 독일에서 여러 세대에 걸쳐 봉사해왔고, 그들을 다시 불러 올 때가 되었습니다."
 
-GER_infra_1:0 "Deutsche Bahn"
-GER_infra_1_desc:0 "Germany is a large, busy nation, and the most practical solution for transporting goods and supplies is definitely locomotives. Funding a quick project to touch up our rail-system and extend it to some more rural parts of the country will stimulate the economy and help connect the nation a bit more."
+GER_infra_1:0 "도이치반"
+GER_infra_1_desc:0 "독일은 크게 바쁜 국가이며 상품과 보급품을 운반하는 가장 실용적인 방법은 단연 철도를 이용하는 것입니다. 철도 시스템을 개선하고 그것을 좀 더 시골 지역으로 확장하기 위한 짧은 프로젝트에 자금을 지원하는 것은 경제를 활성화시키고 나라를 좀 더 연결시키는데 도움을 줄 것입니다."
 
-GER_infra_2:0 "Reichsautobahn"
-GER_infra_2_desc:0 "Trains are now, but cars are the future. Reichskanzler Tirpitz ordered the construction of several highways throughout Germany, but the projects remain uncompleted--Worse, progress has all but stalled in the wake of Black Monday. We need to not only complete this project, but think even bigger..."
+GER_infra_2:0 "라이히스아우토반"
+GER_infra_2_desc:0 "기차는 현재지만, 자동차는 미래입니다. 티르피츠 제국재상은 독일을 관통하는 여러 고속도로를 건설하라고 지시했지만, 그 계획은 아직 끝나지 않았습니다--더 나쁜 점은 검은 월요일의 여파로 그 계획이 거의 진전을 보이지 않고 있다는 점입니다. 우리는 이 계획을 완료해야 할 뿐만 아니라 더 크게 생각해야 합니다..."
 
-GER_infra_3:0 "Europabahn"
-GER_infra_3_desc:0 "Mitteleuropa is large and impressive on paper, but we just aren't making the most of it. Several regions, especially Eastern Europe, are not connected to Germany properly. A main reason for this are the underdeveloped and poorly maintained rail systems that result in constant logistical bottlenecks. We can fix this, and we will."  
+GER_infra_3:0 "오이로파반"
+GER_infra_3_desc:0 "미틀오이로파는 서류 상으로는 크고 인상적이지만, 우리는 이를 최대한 활용하지 못하고 있습니다. 몇몇 지역, 특히 동유럽은 독일과 제대로 연결되어 있지 않습니다. 그 주된 이유는 개발되지 않고 부실하게 유지되는 철도 시스템으로 인해 지속적인 물류 병목 현상이 발생하기 때문입니다. 우리는 이것을 고칠 수 있고, 곧 고칠 것입니다."
 
-GER_risky_industry:0 "Accelerate Recovery"
-GER_risky_industry_desc:0 "This foolish talk of building up a 'strategic rear of industrial production' is not only idiotic, it's borderline treasonous! The Internationale, or anything else that might come from our Western border, for that matter, is not a credible threat. We need to focus on getting the economy up and running as soon as possible, and the best way to do that is by investing in the Rhineland and similar areas."
+GER_risky_industry:0 "회복 가속화"
+GER_risky_industry_desc:0 "'산업 생산의 전략적 후방'을 구축한다는 이 바보 같은 이야기는 어리석을 뿐만 아니라, 거의 반역적입니다! 그 점에 대해서는, 인터네셔널이나 서쪽 국경에서 올 수도 있는 그 어떤 것도, 신뢰성 있는 위협이 아닙니다. 우리는 가능한 한 빨리 경제를 발전시키고 운영하는 데 집중해야 하며, 가장 좋은 방법은 라인란트나 비슷한 지역에 투자하는 것입니다."
 
-GER_risky_industry_1:0 "Revive the Rhineland"
-GER_risky_industry_1_desc:0 "The Rhineland is one of the most productive and industrially prosperous areas in the world. Dealing with the ongoing turbulence the area is experiencing and defending it from the French will have to be a priority, but it's hard to argue that investing here could have serious payoff."
+GER_risky_industry_1:0 "라인란트의 재생"
+GER_risky_industry_1_desc:0 "라인란트는 세계에서 가장 생산적이고 산업적으로 번창하는 지역 가운데 하나입니다. 이 지역이 일어나고 있는 계속되는 혼란을 다루는 것과 이 지역을 프랑스로부터 보호하는 것이 우선이 되어야 할 것입니다. 하지만 여기에 투자하는 것으로 심각한 손해를 입을 수 있다고 주장하기는 어렵습니다."
 
-GER_risky_industry_2:0 "Building up Baden"
-GER_risky_industry_2_desc:0 "Württemberg does not immediately come to mind when considering the industrial landscape of Germany, but this area is right next to the Rhine and the Danube. Making the right moves here could turn out well!"
+GER_risky_industry_2:0 "바덴 개발"
+GER_risky_industry_2_desc:0 "뷔르템부르크는 독일의 산업 경관을 고려할 때 즉각 떠오르지는 않지만, 이 지역은 라인 강과 도나우 강 바로 옆에 있습니다. 여기서 잘 행동하면 잘 될 것입니다!"
 
-GER_output:0 "Fund the Factories"
-GER_output_desc:0 "We must manufacture more guns, planes, and tanks. There's no telling what our many enemies have in store for us, which means we have to be ready for everything. Not through great speeches and majority decisions will the great questions of the day be decided, but by iron and blood!"
+GER_output:0 "공장에 자금 지원"
+GER_output_desc:0 "우리는 더 많은 총, 비행기, 탱크를 만들어야 합니다. 많은 적들이 우리를 위해 무엇을 준비하고 있는지 알 수 없기 때문에 우리는 모든 것을 준비해야 합니다. 당면한 큰 문제는 연설이나 다수결에 의해서가 아니라, 쇠와 피에 의해서만 해결됩니다!"
 
-GER_safe_industry:0 "Emphasize Strategic Rear"
-GER_safe_industry_desc:0 "Black Monday is both a problem and an immense opportunity. For years, the industrial heart of Germany has been extremely close to our unsafe western border. Should worst come to worst and we were to lose these areas, we'd be finished; however, if we were to invest in areas such as Silesia, far from the front, we could guarantee our ability to fight on in even the most terrible, unthinkable circumstances."
+GER_safe_industry:0 "전략적 후방 강조"
+GER_safe_industry_desc:0 "검은 월요일은 문제이자 엄청난 기회입니다. 수년 간 독일의 산업 중심부는 안전하지 못한 서부 국경에 매우 가까이 있었숩나다. 최악의 사태가 닥쳐 이 지역을 잃게 된다면 우리는 끝장이 날 것입니다. 하지만 만약 우리가 전방에서 멀리 떨어진 슐레지엔과 같은 지역에 투자한다면, 심지어 가장 끔찍하고 상상도 할 수 없는 상황을 맞닥뜨려도 우리의 전쟁 능력을 보장됩니다."
 
-GER_safe_industry_1:0 "Silesian Steel"
-GER_safe_industry_1_desc:0 "The Rhineland is a tempting target for investment, but it is important to remember that there's a variety of reasons why it's failing in the first place. The radicalisation of the workers and their wildcat strikes as of late doesn't bode well, and France being right next door could have dangerous implications. Silesia is a safer bet!"
+GER_safe_industry_1:0 "슐레지엔 강철"
+GER_safe_industry_1_desc:0 "라인란트는 투자하기에 솔깃한 곳이지만, 우선 실패하는 이유는 다양하다는 것을 기억하는 것이 중요합니다. 노동자들의 급진화과 최근 일어난 그들의 살쾡이 파업은 좋은 징조가 아니며, 프랑스가 바로 옆에 있다는 것은 위험한 암시를 줄 수 있습니다. 슐레지엔이 더 안전할 것입니다!"
 
-GER_safe_industry_2:0 "Plans for Prussia"
-GER_safe_industry_2_desc:0 "Prussia is the heart of Germany's history and governance, but not the heart of its industry. There's several reasons why this is the case, but no matter! Focusing on industrial buildup in the Kaiser's crownlands is certain to keep those factories as secure as we could hope for."
+GER_safe_industry_2:0 "프로이센을 위한 계획"
+GER_safe_industry_2_desc:0 "프로이센은 독일의 역사와 통치의 중심이지만, 산업의 중심은 아닙니다. 이것이 사실인 데에는 여러가지 이유가 있지만, 중요하지는 않습니다! 카이저의 영지를 발전시키는데에 집중하는 것은 그 공장들을 우리가 기대하는 만큼 안전하게 유지시킬 것입니다."
 
-GER_construction:0 "Concentrate on Construction"
-GER_construction_desc:0 "The economy is beginning to show some signs of life, and now is the time to push the program through to its natural conclusion. Whether through private investment, public funding, or the injection of foreign capital, let us begin building as much as we can as fast as we can."
+GER_construction:0 "건설에 집중"
+GER_construction_desc:0 "경제가 활기를 띠기 시작했고, 이제는 그 계획을 자연스러운 결말로 밀고 나가야 할 때입니다. 민간 투자, 공공 자금 지원, 또는 외국 자본의 투입을 통해서라도 우리가 할 수 있는 한 최대한 빨리 건설을 시작합니다."
 
 GER_industry_finished:0 "경기 회복"
 GER_industry_finished_desc:0 "검은 월요일 이후 경제 정책이 성공을 거두면서, 민간 투자자들이 활발하게 활동하고 있습니다. 경제는 안정적일 뿐만 아니라 폭발적인 호황을 누리고 있습니다. 이는 오래 지속되지는 않겠지만, 잠시 다른 문제에 집중할 수 있을 것입니다."
@@ -619,8 +619,8 @@ GER_ig_farben_desc:0 "우리는 유용할 수도 있는 여러 화합물들의 �
 GER_krupp_focus:0 "크루프 AG 독점"
 GER_krupp_focus_desc:0 "크루프 가문은 약 400년이 된 독일의 산업가 가문으로, 30년 전쟁 때부터 독일의 군수 산업을 떠받쳐왔습니다! 그들의 재능은 세계 대전이 새로 벌어지면 필요할 것이기 때문에, 우리는 이제 그들을 다시 채용해야 합니다."
 
-GER_rearmament:0 "Aufrustung"
-GER_rearmament_desc:0 "The world is getting less and less safe. The Syndicalists in France eye Elsaß-Lothringen greedily, Russia plunges into instability, and the Japanese wait for the right moment to hit us in the back to take Singapur. A focus on rearmament isn't going to be popular, but it's what we need right now if we want to keep our place in the sun."
+GER_rearmament:0 "군비 확장"
+GER_rearmament_desc:0 "세계는 점점 더 위험해지고 있습니다. 프랑스의 생디칼리스트들은 엘자스-로트링겐을 탐욕스럽게 바라보고 있으며, 러시아는 불안정한 상태에 빠지고 있고, 일본은 우리의 후방을 치고 싱가포르를 가져갈 적절한 때를 기다리고 있습니다. 재무장에 집중하는 것은 인기가 없을 것입니다. 하지만 이것은 우리가 양지 바른 곳을 지키고 싶다면 당장 필요한 것입니다."
 
 GER_artillery_research:0 "포병 연구"
 GER_artillery_research_desc:0 "독일 육군은 경 지원 화기 운용에 있어서 전통적으로 낙후되어 왔습니다. '패리스 건'과 같은 거대하고 다루기 힘드며 비효율적인 명품을 만들어내긴 했습니다만, 이제는 좀 더 실용적이고 효율적인 대안에 투자해야 할 때입니다."
@@ -665,11 +665,11 @@ GER_schacht2_desc:0 "샤흐트 계획의 다음 단계는 소비재 분야와 �
 GER_schacht3:0 "폴란드에 접근"
 GER_schacht3_desc:0 "경제가 서서히 제 궤도를 찾아 감에 따라, 마침내 폴란드와 경제적 유대를 향상할 때가 왔습니다. 일부는 이 제안에 약간의 열의를 보였습니다. 특히 중앙당 소속 정치인 하인리히 폰 브렌타노가 이 제안을 주도했습니다."
 
-GER_mitteleuropa:0 "미텔오이로파 단일통화"
-GER_mitteleuropa_desc:0 "하인리히 폰 브렌타노와 그의 유럽 우호 협회 친구들은 고위 관직에 앉자 또 다른 아이디어를 제안했습니다: 모든 미텔오이로파 국가들의 단일 통화. 물론 이는 절대 성공하지 못할 것입니다. 유럽 우호라고? 말도 안 되는 소리."
+GER_mitteleuropa:0 "미틀오이로파 단일통화"
+GER_mitteleuropa_desc:0 "하인리히 폰 브렌타노와 그의 유럽 우호 협회 친구들은 고위 관직에 앉자 또 다른 아이디어를 제안했습니다: 모든 미틀오이로파 국가들의 단일 통화. 물론 이는 절대 성공하지 못할 것입니다. 유럽 우호라고? 말도 안 되는 소리."
 
-GER_zollverein:0 "미텔오이로파 개편"
-GER_zollverein_desc:0 "미텔오이로파는 너무 오랫동안 이름뿐이었기 때문데, 회원들과 우리에게 실제로 이익을 주기 위해 개혁을 시작할 때가 되었습니다... 첫 번째 단계는 단일 관세입니다."
+GER_zollverein:0 "미틀오이로파 개편"
+GER_zollverein_desc:0 "미틀오이로파는 너무 오랫동안 이름뿐이었기 때문데, 회원들과 우리에게 실제로 이익을 주기 위해 개혁을 시작할 때가 되었습니다... 첫 번째 단계는 단일 관세입니다."
 
 GER_synthetic:0 "합성 화학 연구"
 GER_synthetic_desc:0 "IG 파르벤의 연구자들은 카이저 빌헬름 학회 구성원들과 협력하여 이미 합성 생산 분야에서 획기적인 돌파구를 찾을 수 있었습니다. 그들에게 더 많은 자금을 제공함으로써 우리는 그들의 연구가 대중적으로 시행되도록 할 수 있을 것입니다."
@@ -707,8 +707,8 @@ GER_schule_desc:0 "비행사들을 위한 공립 학교를 세우면 현재 다�
 GER_institut:0 "항공 공학 연구원"
 GER_institut_desc:0 "항공 기술을 위한 독립적인 연구 기관인 항공 공학 연구원(Institut für Luftfahrttechnik)은 독일이 땅과 바다 뿐만 아니라 하늘도 지배하기 위한 초석이 될 수 있습니다."
 
-GER_tactical_bombers:0 "Operational Flexibility"
-GER_tactical_bombers_desc:0 "Our domain stretches worldwide, with military operations being possible in the Pacific, Atlantic, or in continental Europe. There's no telling what threats we're going to face, and thusly a focus on tactical bombers that can fulfill any number of tasks would be wise."
+GER_tactical_bombers:0 "작전적 유연성"
+GER_tactical_bombers_desc:0 "태평양, 대서양 또는 유럽 대륙에서 군사 작전이 가능하게 되면서 우리의 영토는 전 세계로 뻗어 있습니다. 우리가 어떤 위협을 마주할 지는 알 수 없으며, 수많은 임무를 수행할 수 있는 전술 폭격기에 초점을 맞추는 것이 현명할 것입니다."
 
 GER_heerflieger:0 "플리거트루페 유지"
 GER_heerflieger_desc:0 "우리 조종사들은 현재 육군 소속으로, 독립적인 공군사령부 없이 조직되어 있습니다. 이는 조종사와 지상군 사이의 협력을 더욱 튼튼하게 하고 있으므로, 공중 지원으로 지상군 우세를 돕는 현 교리가 이어질 것입니다. 이는 좋은 일이고, 유지해야 합니다."
