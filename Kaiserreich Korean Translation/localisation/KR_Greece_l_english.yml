@@ -22,111 +22,113 @@ GRE_paternal_autocrat_party_long:0 "자유 사상가당"
 GRE_national_populist_party:0 "EEL"
 GRE_national_populist_party_long:0 "민족 그리스 군단"
 
+
 ### Ideas ###
 GRE_legacy_of_alexander_idea:0 "알렉산더의 유산"
-GRE_legacy_of_alexander_idea_desc:0 "The Greeks are a people accustomed to war, and nothing stirs them up quite as the thought of their hard-won independence being taken away once more."
+GRE_legacy_of_alexander_idea_desc:0 "그리스 시민들은 전쟁에 익숙합니다. 그리고 그 어떠한 것도 그들이 힘들게 이룩한 독립을 다시 뒤집을 수 없을 것입니다."
 GRE_legacy_of_alexander2_idea:0 "알렉산더의 유산"
-GRE_legacy_of_alexander2_idea_desc:0 "The Greeks are a people accustomed to war, and nothing stirs them up quite as the thought of their hard-won independence being taken away once more."
-GRE_memories_of_king:0 "왕국의 기억"
-GRE_memories_of_king_desc:0 "While the Greek monarchy was officially abolished in 1931 after a tumultuous decade of coups and counter-coups, there are still those within our nation who continue to abide by monarchist principles, and are a major source of unrest within our nation."
-GRE_foreign_industry_GER1:0 "독일인 소유의 산업"
-GRE_foreign_industry_GER1_desc:0 "Thanks to our incredible war debts after the end of the disastrous Weltkrieg, King Constantine signed a deal allowing German investors unfettered access to the Greek economy. As a result, almost half of our industry is owned by foreign creditors and banks - none of whom have our best interests in mind."
-GRE_foreign_industry_GER2:0 "부분적으로 압류된 독일인 소유의 산업"
-GRE_foreign_industry_GER2_desc:0 "Thanks to our incredible war debts after the end of the disastrous Weltkrieg, King Constantine signed a deal allowing German investors unfettered access to the Greek economy. As a result, almost a quarter of our industry is owned by foreign creditors and banks - none of whom have our best interests in mind."
-GRE_foreign_industry_GER3:0 "독일인 소유의 산업 긴급 구제"
-GRE_foreign_industry_GER3_desc:0 "Thanks to our incredible war debts after the end of the disastrous Weltkrieg, King Constantine signed a deal allowing German investors unfettered access to the Greek economy. As a result, almost half of our industry is owned by foreign creditors and banks - though thankfully our having bailed them out during the Black Monday crisis leaves us on far better terms with them."
-GRE_foreign_industry_AUS1:0 "오스트리아인 소유의 산업"
-GRE_foreign_industry_AUS1_desc:0 "Thanks to our incredible war debts after the end of the disastrous Weltkrieg, King Constantine signed a deal allowing Austrian investors unfettered access to the Greek economy. As a result, almost half of our industry is owned by foreign creditors and banks - none of whom have our best interests in mind."
-GRE_foreign_industry_AUS2:0 "부분적으로 압류된 오스트리아인 소유의 산업"
-GRE_foreign_industry_AUS2_desc:0 "Thanks to our incredible war debts after the end of the disastrous Weltkrieg, King Constantine signed a deal allowing Austrian investors unfettered access to the Greek economy. As a result, almost a quarter of our industry is owned by foreign creditors and banks - none of whom have our best interests in mind."
-GRE_foreign_industry_AUS3:0 "오스트리아인 소유의 산업 긴급 구제"
-GRE_foreign_industry_AUS3_desc:0 "Thanks to our incredible war debts after the end of the disastrous Weltkrieg, King Constantine signed a deal allowing Austrian investors unfettered access to the Greek economy. As a result, almost half of our industry is owned by foreign creditors and banks - though thankfully our having bailed them out during the Black Monday crisis leaves us on far better terms with them."
-GRE_black_monday_1:0 "검은 월요일의 여파"
-GRE_black_monday_2:0 "검은 월요일에서의 회복"
-GRE_black_monday_3:0 "검은 월요일에서 거의 회복됨"
+GRE_legacy_of_alexander2_idea_desc:0 "그리스 시민들은 전쟁에 익숙합니다. 그리고 그 어떠한 것도 그들이 힘들게 이룩한 독립을 다시 뒤집을 수 없을 것입니다.."
+GRE_memories_of_king:0 "왕에 대한 기억“
+GRE_memories_of_king_desc:0 "그리스 왕정이 10년간의 군부 독재가 종식된 이후 폐지되었지만, 우리 국민 사이에서는 군주제를 그리워하는 사람들이 존재하며, 이들이 우리 국가의 불안을 유발 시킬 수 있을 것입니다."
+GRE_foreign_industry_GER1:0 "독일에 의해 장악된 산업"
+GRE_foreign_industry_GER1_desc:0 "처참한 1차 대전의 종료 이후 만들어진 믿겨지지 않는 전쟁 부채 덕분에, 콘스탄틴 왕은 독일인 투자자들이 규제 없이 그리스 경제에 접근하는 것을 허용 할 수밖에 없었습니다. 그 결과, 우리 산업의 절반 정도를 외국인 투자자와 은행의 소유로 넘어갔으며, 그들은 그리스의 이익에는 안중에도 없습니다.“
+GRE_foreign_industry_GER2:0 "독일에 의해 부분적으로 장악된 산업"
+GRE_foreign_industry_GER2_desc:0 "처참한 1차 대전의 종료 이후 만들어진 믿겨지지 않는 전쟁 부채 덕분에, 콘스탄틴 왕은 독일인 투자자들이 규제 없이 그리스 경제에 접근하는 것을 허용 할 수밖에 없었습니다. 그 결과, 우리 산업의 사분의 일 정도를 외국인 투자자와 은행의 소유로 넘어갔으며, 그들은 그리스의 이익에는 안중에도 없습니다.“
+GRE_foreign_industry_GER3:0 "구제금융 받은 독일에 의해 장악된 산업"
+GRE_foreign_industry_GER3_desc:0 "처참한 1차 대전의 종료 이후 만들어진 믿겨지지 않는 전쟁 부채 덕분에, 콘스탄틴 왕은 독일인 투자자들이 규제 없이 그리스 경제에 접근하는 것을 허용 할 수밖에 없었습니다. 그 결과, 우리 산업의 사분의 일 정도를 외국인 투자자와 은행의 소유로 넘어갔습니다. 다행이게도 검은 월요일 위키 동안 우리가 그러한 산업을 구제함으로써 그들과 좀 더 나은 관계를 맺을 수 있었지만요.“
+GRE_foreign_industry_AUS1:0 "오스트리아에 의해 장악된 산업"
+GRE_foreign_industry_AUS1_desc:0 "처참한 1차 대전의 종료 이후 만들어진 믿겨지지 않는 전쟁 부채 덕분에, 콘스탄틴 왕은 독일인 투자자들이 규제 없이 그리스 경제에 접근하는 것을 허용 할 수밖에 없었습니다. 그 결과, 우리 산업의 절반 정도를 외국인 투자자와 은행의 소유로 넘어갔으며, 그들은 그리스의 이익에는 안중에도 없습니다.“
+GRE_foreign_industry_AUS2:0 "오스트리아에 의해 부분적으로 장악된 산업"
+GRE_foreign_industry_AUS2_desc:0 "처참한 1차 대전의 종료 이후 만들어진 믿겨지지 않는 전쟁 부채 덕분에, 콘스탄틴 왕은 독일인 투자자들이 규제 없이 그리스 경제에 접근하는 것을 허용 할 수밖에 없었습니다. 그 결과, 우리 산업의 사분의 일 정도를 외국인 투자자와 은행의 소유로 넘어갔으며, 그들은 그리스의 이익에는 안중에도 없습니다.“
+GRE_foreign_industry_AUS3:0 "Bailed Out Austrian-Owned Industry"
+GRE_foreign_industry_AUS3_desc:0 "처참한 1차 대전의 종료 이후 만들어진 믿겨지지 않는 전쟁 부채 덕분에, 콘스탄틴 왕은 독일인 투자자들이 규제 없이 그리스 경제에 접근하는 것을 허용 할 수밖에 없었습니다. 그 결과, 우리 산업의 사분의 일 정도를 외국인 투자자와 은행의 소유로 넘어갔습니다. 다행이게도 검은 월요일 위키 동안 우리가 그러한 산업을 구제함으로써 그들과 좀 더 나은 관계를 맺을 수 있었지만요.“
+GRE_black_monday_1:0 "검은 월요일의 파장"
+GRE_black_monday_2:0 "검은 월요일로부터 회복 중"
+GRE_black_monday_3:0 "검은 월요일로부터 거의 다 회복"
 GRE_german_sanctions:0 "German Sanctions"
 GRE_austrian_sanctions:0 "Austrian Sanctions"
-GRE_privatised_industry:0 "사유화된 산업"
-GRE_nationalised_industry:0 "국유화된 산업"
+GRE_privatised_industry:0 "민영화된 산업"
+GRE_nationalised_industry:0 "국영화된 산업"
 GRE_strong_executive:0 "강력한 행정부"
-GRE_empowered_parliament:0 "의회에 권한 부여"
-GRE_divine_mediator:0 "신성한 중재자"
-GRE_general_staff:0 "작전 참모 확장"
-GRE_aviation_industry:0 "항공 산업"
+GRE_empowered_parliament:0 "강력한 의회"
+GRE_divine_mediator:0 "Divine Mediator"
+GRE_general_staff:0 "총 참모부 확장"
+GRE_aviation_industry:0 "Aviation Industry"
 GRE_efficient_navy_idea:0 "Efficient Navy"
 GRE_efficient_navy2_idea:0 "Efficient Navy"
 GRE_ambitious_navy_idea:0 "Ambitious Navy"
 GRE_ambitious_navy2_idea:0 "Ambitious Navy"
 GRE_research_idea:0 "Research Program"
-GRE_industrialization_program_idea:0 "Industrialization Program"
-GRE_free_trade_idea:0 "Free Trade Policies"
-GRE_export_focus_idea:0 "Export-Oriented Economy"
-GRE_finding_our_own_way_idea:0 "Self-Sufficiency Focus"
-GRE_planned_industry_idea:0 "Industry Planning"
-GRE_new_enterprise_idea:0 "A New Enterprise"
-GRE_liberalization_idea:0 "Political Liberalization"
-GRE_neuter_military_idea:0 "Controlled Military"
+GRE_industrialization_program_idea:0 "산업화 계획"
+GRE_free_trade_idea:0 "자유 무역 정책"
+GRE_export_focus_idea:0 "수출 주도 경제"
+GRE_finding_our_own_way_idea:0 "자급자족 초점"
+GRE_planned_industry_idea:0 "산업 계획"
+GRE_new_enterprise_idea:0 “새로운 기업"
+GRE_liberalization_idea:0 "정치적 자유"
+GRE_neuter_military_idea:0 "군사적 통제"
 GRE_strong_and_free_idea:0 "Strong and Free"
-GRE_reverse_secularisation_idea:0 "Desecularization"
-GRE_full_centralization_idea:0 "Centralized Rule"
-GRE_state_industry_idea:0 "State Industry"
-GRE_foreign_investment_idea:0 "Foreign Investment"
-GRE_christian_democracy_idea:0 "Christian Democracy"
+GRE_reverse_secularisation_idea:0 "비세속화"
+GRE_full_centralization_idea:0 "중앙 집권화 된 통치"
+GRE_state_industry_idea:0 "국영 산업"
+GRE_foreign_investment_idea:0 "외국 투자"
+GRE_christian_democracy_idea:0 "기독교 민주주의"
 GRE_managed_democracy_idea:0 "Managed Democracy"
 GRE_breadbasket_idea:0 "Breadbasket of the Mediterranean"
-GRE_agrarian_socialism_idea:0 "Agrarian Socialism"
-GRE_industrial_socialism_idea:0 "Industrial Socialism"
-GRE_focus_on_economy_idea:0 "Focus on Economy"
-GRE_focus_on_strength_idea:0 "Focus on Strength"
+GRE_agrarian_socialism_idea:0 "농민 사회주의"
+GRE_industrial_socialism_idea:0 "산업적 사회주의"
+GRE_focus_on_economy_idea:0 "경제에 초점“
+GRE_focus_on_strength_idea:0 "힘에 초점"
 GRE_unions_in_charge:0 "Unions in Charge"
-GRE_totalist_industry:0 "Totalist Industry"
+GRE_totalist_industry:0 "전체주의적 산업"
 GRE_secret_police:0 "Ellinikí Stratiotikí Astynomía"
-GRE_the_iron_fist_idea:0 "The Iron Fist"
+GRE_the_iron_fist_idea:0 "철권"
 GRE_the_velvet_glove_idea:0 "The Velvet Glove"
-GRE_war_preparations:0 "War Preparations"
-GRE_diplomacy_focus_idea:0 "Path of Diplomacy"
-GRE_diplomacy_focus2_idea:0 "Path of Diplomacy"
-GRE_new_expansionism_idea:0 "New Expansionism"
-GRE_new_expansionism2_idea:0 "New Expansionism"
+GRE_war_preparations:0 "전쟁 준비"
+GRE_diplomacy_focus_idea:0 "외교적 방안"
+GRE_diplomacy_focus2_idea:0 "외교적 방안"
+GRE_new_expansionism_idea:0 "새로운 확장주의"
+GRE_new_expansionism2_idea:0 "새로운 확장주의"
+
 
 ### Tooltips ###
-GRE_republicans_win_referendum:0 "공화주의자들이 선거에서 이김"
-GRE_monarchists_win_referendum:0 "왕정주의자들이 선거에서 이김"
-GRE_1938_elections_happened:0 "1938년 선거가 열림"
-GRE_increase_monarchist:0 "그리스에서 왕정에 대한 지지가 증가할 것입니다.\n"
-GRE_decrease_monarchist:0 "그리스에서 왕정에 대한 지지가 감소할 것입니다.\n"
-GRE_stole_industry1:0 "Nationalized our Investments"
-GRE_stole_industry2:0 "Nationalized our Investments"
-GRE_aided_industry:0 "Bailed Out our Investments"
-GRE_applied_sanctions:0 "무역 제재"
-GRE_they_applied_sanctions1:0 "They applied Trade Sanctions"
-GRE_they_applied_sanctions2:0 "They applied Trade Sanctions"
-GRE_lost_balkans_war:0 "발칸 전쟁에서 패배함"
-GRE_regained_macedonia:0 "마케도니아를 되찾음"
-GRE_rigged_for_monarchy:0 "국민 투표가 왕정주의자들에게 유리하도록 조작될 것입니다 - 이는 들킬 가능성이 있습니다.\n"
-GRE_rigged_for_republic:0 "국민 투표가 공화주의자들에게 유리하도록 조작될 것입니다 - 이는 들킬 가능성이 있습니다.\n"
+GRE_republicans_win_referendum:0 “국민투표에서 공화주의자 승리"
+GRE_monarchists_win_referendum:0 "국민투표에서 군주주의자 승리"
+GRE_1938_elections_happened:0 "1938년 총선이 개최되다."
+GRE_increase_monarchist:0 "그리스에 군주주의적 성향이 증가된다.\n""
+GRE_decrease_monarchist:0 "그리스에 군주주의적 성향이 감소된다.\n"“
+GRE_stole_industry1:0 "우리 산업의 국영화"
+GRE_stole_industry2:0 "우리 산업의 국영화"
+GRE_aided_industry:0 "우리 투자를 구제하다"
+GRE_applied_sanctions:0 "무역 제재“
+GRE_they_applied_sanctions1:0 "그들이 무역 재재를 실행하다."
+GRE_they_applied_sanctions2:0 "그들이 무역 재재를 실행하다."
+GRE_lost_balkans_war:0 "발칸 전쟁에서 패배하다."
+GRE_regained_macedonia:0 "마케도니아를 되찾다."
+GRE_rigged_for_monarchy:0 "국민 투표에 대한 군주정 승리를 위한 조작 시도를 했습니다. 이것이 발각 될 가능성도 있습니다.\n"
+GRE_rigged_for_republic:0 "국민 투표에 대한 공화정 승리를 위한 조작 시도를 했습니다. 이것이 발각 될 가능성도 있습니다.\n“
 GRE_referendum_is_rigged:0 "The referendum is §Yrigged§! - there is a chance of this being discovered\n"
 GRE_monarchy_guaranteed:0 "The chances of the monarchists winning the referendum is all but §Yguaranteed§!\n"
 GRE_republic_guaranteed:0 "The chances of the republicans winning the referendum is all but §Yguaranteed§!\n"
 GRE_monarchy_likely:0 "The chances of the monarchists winning the referendum is considered §Ylikely§!\n"
 GRE_republic_likely:0 "The chances of the republicans winning the referendum is considered §Ylikely§!\n"
 GRE_referendum_close:0 "The chance of either side winning the referendum is §Ytoo close to call§!\n"
-GRE_alexander_becomes_king:0 "Alexander becomes King Aléxandros I of Greece\n"
-GRE_george_becomes_king:0 "George becomes King Geórgios II of Greece\n"
-GRE_paul_becomes_king:0 "Paul becomes King Pávlos I of Greece\n"
+GRE_alexander_becomes_king:0 "알렉산더가 알렉산더 1세로써 그리스의 왕이 되다.\n""
+GRE_george_becomes_king:0 "조지가 조지 2세로써 그리스의 왕이 되다.\n"“
+GRE_paul_becomes_king:0 "파울이 바오르 1세로써 그리스의 왕이 되다.\n"“
 GRE_marine_spawn:0 "A unit of §Ymarines§! will spawn in the capital state\n"
 GRE_mountaineer_spawn:0 "A unit of §Ymountaineers§! will spawn in the capital state\n"
-GRE_no_black_monday_effect:0 "Not suffering from any effects of Black Monday"
-GRE_ten_destroyers:0 "Ten destroyers will spawn at the port of Athens\n"
-GRE_four_cruisers:0 "Three light cruisers and a heavy cruiser will spawn at the port of Athens\n"
-GRE_gets_battleship:0 "A battleship will spawn at the port of Athens\n"
-GRE_held_first_congress:0 "First Hellenic Congress has been held\n"
-GRE_took_diplomatic_path:0 "Greece takes diplomatic path"
-GRE_took_expansionist_path:0 "Greece takes revanchist path"
-GRE_turks_exist_and_peaceful:0 "a non-puppet Turkish state exists and is at peace\n"
-GRE_diplomatic_mission:0 "Diplomatic Mission"
-GRE_no_peace:0 "Diplomatic Overtures Rejected"
-GRE_has_thaw_with_turks:0 "the Turks have welcomed diplomatic overtures\n"
+GRE_no_black_monday_effect:0 “검은 월요일로부터 더 이상 고통 받지 않을 것입니다."
+GRE_ten_destroyers:0 "10개의 구축함이 이제 아테네에 나타날 것이다."
+GRE_four_cruisers:0 "3대의 경순양함과 한 대의 중순양함이 아테네 항구에 나타날 것이다.“
+GRE_gets_battleship:0 "한대의 전함이 아테네에 나타날 것이다.“
+GRE_held_first_congress:0 "첫 번째 헬레닉 평의회가 개최되다."
+GRE_took_diplomatic_path:0 "그리스가 외교적인 길을 모색하다."
+GRE_took_expansionist_path:0 "그리스가 보복주의 길을 모색하다.“
+GRE_turks_exist_and_peaceful:0 "괴뢰국이 아닌 터키인의 국가가 평화롭게 존재 할 것이다.“
+GRE_diplomatic_mission:0 "외교 미션"
+GRE_no_peace:0 "외교적 접근이 거부되다."
+GRE_has_thaw_with_turks:0 "터키인들이 우리의 외교적 접근을 환영하다\n"
 GRE_turks_own_limited_greece:0 "the Turks own no Greek cores other than Crete or the Aegean Islands\n"
 GRE_population_exchange_one_month:0 "The population exchange will begin in one month\n"
 GRE_total_pops_greekarrive:0 "total population arriving in [GRE.GetNameDef]: §G[?GRE.popmove]§!\n"
@@ -139,6 +141,7 @@ GRE_same_wars_as_intl:0 "Any enemy is also at war with the Internationale"
 GRE_same_wars_as_entente:0 "Any enemy is also at war with the Entente"
 GRE_same_wars_as_germany:0 "Any enemy is also at war with Germany"
 GRE_controls_claimed_states:0 "All non-island claimed states in §Y[From.GetNameDef]§! are controlled by [Root.GetNameDef] or an ally"
+
 GRE_socialists_banned_elections:0 "All syndicalist and socialist parties will be banned from taking part in elections\n"
 GRE_is_kingdom:0 "[GRE.GetNameDef] is a monarchy"
 GRE_neighbor_part_of_intl:0 "Any neighbour is in the Internationale"
@@ -146,331 +149,337 @@ GRE_turks_part_of_faction:0 "The Turks are in a faction and still own claimed la
 GRE_bul_part_of_faction:0 "[BUL.GetNameDef] is in a faction and still owns claimed land of ours"
 GRE_germany_not_still_upset:0 "[GER.GetNameDef] does not have the §YNationalized our Investments§! opinion towards us"
 
+
 ### Focuses ###
 GRE_black_monday_focus:0 "검은 월요일"
-GRE_black_monday_focus_desc:0 "The Black Monday crisis has hit the Greek economy like a bull in a china shop, considering its domination by German businesses. It is time to take drastic action to resolve this crisis before it gets any worse."
+GRE_black_monday_focus_desc:0 "검은 월요일 위기가 그리스 경제를 황소가 박는 것처럼 강타했습니다. 독일 사업이 우리 경제에 미치는 영향을 생각할 때, 이것이 더 악화되기 전에 과감한 조취를 취할 필요가 있습니다. 
 GRE_farming_crisis:0 "농업 위기"
-GRE_farming_crisis_desc:0 "While the Greek economy saw strong industrial growth through the 19th century it remains primarily orientated on agriculture, and thus the sudden drop in agricultural exports has hit the country hard. Farmers are nearly at a point of rioting, and thus addressing the crisis tops our agenda."
-GRE_foreign_industry_question:0 "외국 소유의 산업?"
-GRE_foreign_industry_question_desc:0 "Much of Greece's industry is owned by foreigners, mainly in Germany and Austria. With the financial crisis, many of these factories have begun to shut their doors, expecting Greece to deal with the political fallout until such a time as the economy recovers. With so many industrial workers left unpaid and out on the street, we must do something about this."
-GRE_board_of_industry:0 "산업 이사회"
-GRE_board_of_industry_desc:0 "A new government agency must be created in order to oversee an overhaul of some of Greece's rather outdated industrial laws and practices."
-GRE_greek_mining:0 "광업의 진보"
-GRE_greek_mining_desc:0 "Much of our country's mining equipment and methods are rather old, sometimes dating back to the mid-19th century. We should encourage companies to update their equipment and research, in order to increase production."
+GRE_farming_crisis_desc:0 "19세기동안 공업의 성장이 그리스에 큰 영향을 주었지만, 농업은 우리의 주요한 산업이었습니다. 그리고 농업 수출을 급격한 하락은 국가를 어렵게 만들고 있죠. 농민들은 지금 분노하고 있고, 이러한 위기가 우리의 정책 결정에 우선순위로 둘 것입니다."
+GRE_foreign_industry_question:0 "외국이 장악한 산업?"
+GRE_foreign_industry_question_desc:0 "많은 그리스의 산업이 외국인에 의해 장악되었습니다. 주로 독일인이나 오스트리아인이죠. 금융 위기와 함께, 이러한 많은 공장들은 문을 닫기 시작했고, 이러한 경제적 문제가 해결 될 때까지, 그리스의 정치적 붕괴는 계속 될 것입니다. 우리의 많은 공업 노동자들은 실업자 상태로 도로를 떠돌고 있고, 우리는 이러한 상황을 반드시 해결해야 합니다."
+GRE_board_of_industry:0 "산업 위원회"
+GRE_board_of_industry_desc:0 "새로운 정부의 정책은 그리스의 시대착오적인 산업 법률이나 원칙을 점검하고 새로운 정책을 도입해야 하는 것입니다.“
+GRE_greek_mining:0 "광업 개발"
+GRE_greek_mining_desc:0 "많은 우리의 광산 장비들과 채굴 방식이 너무 낡았습니다. 심지어 일부는 19세기 중엽 수준에서 멈춰 있죠. 생산을 항상시키기 위해서는 우리는 광업 회사들이 장비를 개선하고 연구하는 것을 독려해야 합니다.“
 GRE_greek_rail:0 "그리스 철도"
-GRE_greek_rail_desc:0 "A program to build new railways connecting Athens to the northern part of the country will not only enhance our overall infrastructure, it will create a much-needed employment program for our industrial workers who are currently unemployed."
-GRE_land_reform:0 "토지 개혁 시작"
-GRE_land_reform_desc:0 "Many of the country's agricultural communes are still overseen by wealthy landlords, with the peasants treated practically as serfs. While breaking up these holdings will be costly, it's the only way to see the farms increase their efficiency and bring us into the 20th century."
-GRE_privatize_industry:0 "정부 재산 사유화"
-GRE_privatize_industry_desc:0 "There are a number of government-run businesses and factories which would best work in the hands of private individuals. They should be sold off to Greeks of means and expertise, even on the cheap, in order to diversify their portfolios and ensure that loyal citizens are enriched."
-GRE_nationalize_industry:0 "필수 기업 국유화"
-GRE_nationalize_industry_desc:0 "Too many vital industries are ready to go bankrupt. Only the nation's government is organized and efficient enough to keep them afloat, at least until the crisis is passed and, in the meantime, they can keep the economy afloat and Greeks employed."
+GRE_greek_rail_desc:0 "아테네와 국가 북부지역을 연결시키기 위해 우리는 기반 시설을 확충할 것입니다. 그 과정에서 실업자들을 고용하게 되겠죠.“
+GRE_land_reform:0 "토지 개혁을 시작하다"
+GRE_land_reform_desc:0 "많은 국가의 농업 공동체들이 부유한 지주들에 의해 관리 되고 있고, 농민들은 농노처럼 취급 받습니다. 우리는 이러한 구조를 개선하는 것만이 농업이 20세기에 맞춰 적응할 유일한 방법이라고 봅니다.“
+GRE_privatize_industry:0 "정부 산업 민영화"
+GRE_privatize_industry_desc:0 "민간이 운영한다면 더 효율적으로 바뀔 정부 소유의 수많은 사업과 공장들이 있습니다. 이것들을 그리스의 사업가나 부자들에게 싼 값에라도 팔아야 합니다. 그들의 포트폴리오를 다양화하기 위해 그리고 우리에게 충성스러운 시민들을 부유하게 하기 위해서 말이죠.“
+GRE_nationalize_industry:0 "주요 회사의 국영화"
+GRE_nationalize_industry_desc:0 "너무나 많은 산업들이 파산하고 있습니다. 오직 국가만이 이들을 충분히 보호하고 다시 조직 시킬 수 있을 것입니다. 적어도 이 위기가 끝날 때까지 말이죠. 이렇게 함으로써 회사들은 경제와 그리스인의 고용을 유지할 수 있을 것입니다.“
 GRE_military_conversion:0 "군수 공장 전환"
-GRE_military_conversion_desc:0 "There are a number of military factories which we must consider turning over to commercial use. It means Greece will be less prepared for war in the future, but there will be no Greece if it crumbles around us thanks to the crisis."
-GRE_fund_business:0 "대출"
-GRE_fund_business_desc:0 "We cannot dig any deeper - the only way to bail Greece out of this crisis is to take out as many loans as we can afford, and channel that money into employment programs and funding the most promising companies willing to open new factories in Greece. It will hurt in the long run, but we have little choice."
+GRE_military_conversion_desc:0 "상업적 용도로 사용 가능한 많은 군수 공장들을 민수용으로 바꾸는 것을 고려하고 있습니다. 이것으로 미래에 벌어질 전쟁에 그리스가 취약해질 가능성도 있지만, 검은 월요일 덕분에 그리스를 위협할 세력이 약화되기도 했죠.“
+GRE_fund_business:0 "빚을 인출하다"
+GRE_fund_business_desc:0 "우리는 더 이상의 깊은 상처를 감당할 수 없습니다. 그리스가 이 위기에서 벗어날 유일한 방법은 가능한 우리가 감수 할 수 있는 많은 돈을 빌리는 것뿐입니다. 이러한 돈은 우리의 고용 계획을 가능하게 하고 회사들이 그리스에서 새로운 공장을 만드는 것을 보증 할 것입니다. 이 채무들이 장기적으로 우리에게 해가 되겠지만, 지금은 선택의 여지가 없습니다.“  
 GRE_recovery:0 "완전한 회복"
-GRE_recovery_desc:0 "Our stimulus programs have begun to improve the economic prospects of the country for now, and the crisis is passed. Hopefully, the price we paid does not come back to haunt us."
+GRE_recovery_desc:0 "우리의 여러 경제 계획이 지금 우리 경제를 살리기 위해 시작 되면서, 위기는 극복되었습니다. 이를 위해서 우리가 희생 한 것들이 우리를 다시 해치지 않기 빌 뿐입니다."
 
-GRE_monarchy_referendum:0 "왕정에 대한 투표"
-GRE_monarchy_referendum_desc:0 "The legacy of the Greek monarchy still hangs over the republican government. Calls for a public referendum to determine if a monarchy should be restored for the stability of the nation, or if the republic should instead persist."
-GRE_republican_victory:0 "공화주의의 승리"
-GRE_republican_victory_desc:0 "There is to be no king. The question was settled today, with the vote to maintain the republic and continue into the future untethered to dynasties and successions."
-GRE_strengthen_republic:0 "공화국 강화"
-GRE_strengthen_republic_desc:0 "The republic may have won the day, but monarchists still remain. By taking steps to reform the legal system and remove any and all remnants of monarchy from official proceedings we can move towards the permanent establishment of a republican nation."
-GRE_monarchist_question:0 "남겨진 왕정주의자"
-GRE_monarchist_question_desc:0 "There are still many within the government, and especially the army, who yet hold loyalties to the monarchy. We must consider whether to purge them now, to prevent the possibility of a future coup, or to let them remain and potentially disrupt the republic's operation."
-GRE_empowered_parliament:0 "의회에 권한 부여"
-GRE_empowered_parliament_desc:0 "In order to ensure that strongmen and dictators cannot exploit the system, the Greek nation must have a strong parliament capable of controlling the head of state, if necessary."
+GRE_monarchy_referendum:0 "군주제 복원을 위한 국민 투표"
+GRE_monarchy_referendum_desc:0 "그리스 군주제의 유산은 공화국을 아직도 흔들고 있습니다. 군주제가 복원되느냐 혹은 공화제가 유지되느냐를 결정하는 국민 투표가 시작 될 것입니다."
+GRE_republican_victory:0 "공화주의자 승리"
+GRE_republican_victory_desc:0 "이제 더 이상 왕은 없습니다. 오늘, 이 문제는 해결되었습니다. 투표는 공화국을 유지하고 독재자와 그들의 자손에게 억압받지 않는 미래를 만들었습니다.“
+GRE_strengthen_republic:0 "공화국을 강화하다"
+GRE_strengthen_republic_desc:0 "공화국이 승리했지만, 군주주의자들은 아직 남아있습니다. 토론을 통한 법률 체제의 개혁과 군주제의 남은 잔존 유산을 공식적으로 삭제함으로써, 우리는 이 국가를 공화국으로 남길 수 있을 것입니다.“
+GRE_monarchist_question:0 "잔존하는 군주주의자들"
+GRE_monarchist_question_desc:0 "아직도 군주에게 충성하는 자들이 특히 군대나 정부 전반에 아직 있습니다. 우리는 그들을 모두 숙청하여 미래의 군부 쿠데타를 막을 것인가, 또는 그들이 공화국을 방해하도록 방치할 것인가에 대해 말입니다.“
+GRE_empowered_parliament:0 "강력한 의회"
+GRE_empowered_parliament_desc:0 "우리는 체제 안의 독재자를 막기 위해서,  그리스는 강력한 의회를 가지고 필요하면 정부 수반을 통제하도록 해야 합니다.“
 GRE_strong_executive:0 "강력한 행정부"
-GRE_strong_executive_desc:0 "In order to ensure that political infighting does not bring us down, the Greek nation must have a strong head of state who can overrule parliament, if necessary."
+GRE_strong_executive_desc:0 "우리는 무의미한 정치적 투쟁을 막기 위해서, 그리스는 강력한 필요하다면 의회를 통제 할 수도 있는 행정 수반을 가져야 합니다.“
 GRE_balkan_democracy:0 "발칸 민주주의"
-GRE_balkan_democracy_desc:0 "Greece is a bastion of democracy in the Balkans, and must shine like a beacon of freedom for all to see."
-GRE_monarchist_victory:0 "왕정주의의 승리"
-GRE_monarchist_victory_desc:0 "The kingdom shall be restored! Today the debate was settled, though now talk has turned to which king it should be: the younger Alexander, who was king before his exile, or the older George, who should have been king before Alexander and only was not due to being exiled with his father years before."
+GRE_balkan_democracy_desc:0 "그리스는 발칸에서 민주주의의 상징입니다. 그리고 언젠가 자유의 상징이 되어서 모든 곳을 비추게 될 것입니다.“
+GRE_monarchist_victory:0 “군주주의자 승리 "
+GRE_monarchist_victory_desc:0 "왕국이 복원되었습니다. 그리고 오늘의 문제 역시 해결되었습니다. 물론 지금 새로운 논의가 이루어지고 있습니다. 추방된 전 왕인 젊은 알렉산드로스를 복귀 시킬 것인가 혹은 알렉산더보다 왕위 계승 서열은 높지만, 아버지와 같이 추방된 늙은 게오르기오스인가에 대해서 말이죠.“
 GRE_king_alexandros:0 "알렉산드로스 왕"
-GRE_king_alexandros_desc:0 "First crowned in 1917 and later exiled, King Alexander shall be returned to the throne. A moderate man used to being a figurehead, he shall serve as a constitutional monarch with only the minimum of formal powers."
-GRE_republican_question:0 "남겨진 공화주의자"
-GRE_republican_question_desc:0 "With the king now back on the throne, a question lingers regarding what should be done with those who most oppose him and advocate a return to republican rule. The king advocates mercy, but would that only leave Greece to the possibility of more coups in the future?"
-GRE_empower_the_throne:0 "왕권 강화"
-GRE_empower_the_throne_desc:0 "It seems Alexander has learned a thing or two in his exile and has been exerting his will on parliament more forcefully. He has garnered enough support to gain power enough to overrule the elected leaders when needed, making him far from the figurehead many assumed he would be."
+GRE_king_alexandros_desc:0 "1917에 처음 왕위에 올라서 후에 추방된 알렉산더 왕이 왕좌로 돌아왔습니다. 그는 형식상 왕위에 익숙해있고, 그는 자신의 권한을 최소한으로 하는 입헌 군주제를 동의하고 있습니다.“
+GRE_republican_question:0 "잔존하는 군주주의자들"
+GRE_republican_question_desc:0 "왕이 왕좌로 되돌아왔지만, 그의 반대하고 공화국을 선호하는 사람들이 남아있습니다. 왕은 그들에게 호의를 줄 수 있지만, 미래의 쿠데타의 가능성을 배제 할 수 없습니다.“
+GRE_empower_the_throne:0 "왕좌 강화"
+GRE_empower_the_throne_desc:0 "알렉산더는 그의 망명에서 한 두가지 배운 것이 있습니다. 그래서 그는 자신의 의지를 의회에게 좀 더 강요하기를 원합니다. 적어도 필요하다면 의회에서 선출된 지도자를 바꾸는 것 같이 말이죠. 확실히 이렇게 바뀐다면 그는 단순한 상징이 아니게 되겠죠."
 GRE_king_georgios:0 "게오르기오스 왕"
-GRE_king_georgios_desc:0 "A military man from an early age, Prince George is the eldest son of the late King Constantine and shall create a strong monarchy along German lines, where the King serves as a brake on the powers of parliament."
-GRE_purge_republicans:0 "공화주의자를 처형"
-GRE_purge_republicans_desc:0 "A new king is on the throne, and his wishes are clear: those who yet harbour republican sentiment must be purged from the government and the army, lest the country fall into disorder once again."
-GRE_guide_parliament:0 "Guide Parliament"
-GRE_guide_parliament_desc:0 "We must support the great Greek tradition of democracy, but like Plato's Philosopher King the monarch must always be there to guide the nation towards a more perfect and peaceful society. By granting the monarch significant royal prerogatives to dissolve parliament as he wishes we can ensure that it is always well lead."
+GRE_king_georgios_desc:0 "어릴 때부터 군에서 경험을 쌓은 조지 왕자는 왕 콘스탄틴의 장남이자 독일처럼 강력한 군주제를 꿈꾸고 있습니다. 그의 생각대로라면 왕은 반드시 의회의 힘을 무시할 정도의 권력을 가져야 합니다.“
+GRE_purge_republicans:0 "공화주의자 숙청"
+GRE_purge_republicans_desc:0 "새로운 왕이 왕좌에 올랐고, 그의 소원은 이루어졌습니다. 그러나 정부와 그의 군대에서 남아있는 공화주의자들은 숙청해야 한다고 봅니다. 적어도 국가를 혼란 속으로 밀어 넣지 못할 만큼은 말이죠."
+GRE_guide_parliament:0 "의회 지도"
+GRE_guide_parliament_desc:0 "우리는 위대한 그리스의 민주주의 전통을 지지합니다. 그러나 플라톤의 철학자 왕 같이 군주는 항상 국가를 더 완벽하고 평화로운 사회로 이끌어야 합니다. 이에 따라서 군주는 중요한 왕실 특권인 의회 해산권을 가져야 국가의 안녕이 보장된다고 봅니다.“
 GRE_divine_mediator:0 "신성한 중재자"
-GRE_divine_mediator_desc:0 "The king stands as a divinely anointed ruler, chosen by both God and the people to defend them from radicalism and instability. By mediating between all branches of government he can ensure that his will is followed, the dignity of the state is preserved and the people's needs can be made known to him."
+GRE_divine_mediator_desc:0 "왕은 신성한 선택받은 지도자로써 있어야 합니다. 신에 의해 선택받은 왕은 급진주의와 불안정으로부터 신민들을 보호해야 하고, 정부의 모든 부서들을 중재함으로써 이러한 것들을 실행 할 것입니다. 이로써 국가의 존엄은 유지될 것이고 신민들의 요구는 그가 잘 알 것입니다.“
 
-GRE_elections_1938:0 "1938년 선거"
-GRE_elections_1938_desc:0 "The elections of 1938 are promising to be most interesting, and as is typical for Greece it appears that many outcomes are possible."
-GRE_soc_liberals:0 "Néa Fileléftheri Énosi"
-GRE_soc_liberals_desc:0 "The more socially liberal elements of the Liberal Party have secured their hold, and have begun an extensive programme of social and political reforms designed to make a more just and liberal Greece."
-GRE_equal_rights:0 "Equal Rights"
-GRE_equal_rights_desc:0 "Henceforth we must set out the principle that all people are equal in Greece, regardless of faith or creed."
-GRE_industrialization_program:0 "Industrialisation Program"
-GRE_industrialization_program_desc:0 "By working closely with businesses to target areas most capable of expansion we can grow our industrial economy through sensible and efficient investment. And if we get rich doing it, well, where's the harm?"
-GRE_market_liberals:0 "Fileléfthero Kómma"
-GRE_market_liberals_desc:0 "The more market-oriented elements of the Liberal party have won, and intend to begin at once a programme of economic liberalisation intended to stimulate trade and economic growth."
-GRE_free_market_reforms:0 "Free Market Reforms"
-GRE_free_market_reforms_desc:0 "The Greek economy must be liberalised and unnecessary restrictions on trade and business torn up in order to facilitate social progress in Greece. After all the freer the market..."
-GRE_free_trade:0 "Free Trade"
-GRE_free_trade_desc:0 "We intend to abolish all tariffs and pursue a policy of free trade wherever we can, in order that we might be free to do good business with all the world."
-GRE_liberalization:0 "Political Liberalisation"
-GRE_liberalization_desc:0 "Freedom of speech, the press, and of association are all to be protected more firmly under a raft of reforms we intend to pass in order to improve the lot of the average Greek. A free and open society will be established."
-GRE_education_programs:0 "Educational Programs"
-GRE_education_programs_desc:0 "Improving the literacy rate of the Greek population is of paramount importance, as is broadening the quality of education in general. We intend to found hundreds of new schools for this purpose, where the keen minds of new generations will thrive."
-GRE_neuter_military:0 "Neuter Military"
-GRE_neuter_military_desc:0 "By far the biggest threat to stability in Greece comes from the military, while we accept the need for the armed forces we must take steps to ensure their political neturality and remove overly ambitious demagogues from the ranks."
-GRE_strong_and_free:0 "Strong and Free"
-GRE_strong_and_free_desc:0 "It may not always be wise to give power to the military, lest they abuse it, but without our army's strength we will never truly be independent. We must empower them and keep Greece both strong and free."
-GRE_progressive_greece:0 "A Progressive Greece"
-GRE_progressive_greece_desc:0 "The Greek people have embraced a brighter, more liberal future that believes in social progress and the rights of man. We are Greeks, proud and indivisible as equals."
+GRE_elections_1938:0 "1938 선거"
+GRE_elections_1938_desc:0 "1938년 선거는 매우 흥미 있을 것이라고 보장합니다. 아마 그리스를 위한 가능한 많은 결과물이 나타날 것입니다.“
+GRE_soc_liberals:0 "신 자유연맹"
+GRE_soc_liberals_desc:0 "사회 자유주의적 요소가 있는 자유당은 그들에 의해 보장될 것입니다. 그리고 그들은 더 정의롭고 자유로운 그리스를 위한 광범위한 사회적 정치적 개혁을 시작 할 것입니다."
+GRE_equal_rights:0 "평등권"
+GRE_equal_rights_desc:0 "차후 우리는 믿음이나 신념과 무관하게 그리스의 모든 시민들이 평등하다는 원칙을 재정 할 것입니다."
+GRE_industrialization_program:0 "산업화 계획"
+GRE_industrialization_program_desc:0 "우리는 사업에서 일하는 사람을 상대로 가장 적합한 확장에 의한 가장 효율적이고 적합한 산업 경제를 발전시킬 것입니다. 그리고 부자들이 투자를 하는데 거기서 나쁜 것이 있나요?“
+GRE_market_liberals:0 "자유당"
+GRE_market_liberals_desc:0 "더 시장 원리적 요소를 가진 자유당이 승리를 거두었습니다. 이들은 기업을 자유롭게 하고 무역과 경제 성장을 촉진할 의도를 가지고 있습니다."
+GRE_free_market_reforms:0 "자유 시장 개혁"
+GRE_free_market_reforms_desc:0 "그리스 경제는 반드시 더 자유로워야 하고 사업과 무역에 대한 불필요한 규제를 바꿔야 합니다. 그리스의 사회 진보를 위해서 말이죠. 자유로운 시장은 모두를 자유롭게 한다는 격언처럼....“
+GRE_free_trade:0 "자유 무역"
+GRE_free_trade_desc:0 "우리는 가능한 모든 관세를 철폐하고 자유 무역을 밀어줄 것입니다. 우리가 세계에서 더 좋은 사업을 하면서 더 자유로워지기 위해 말이죠.“
+GRE_liberalization:0 "정치적 자유주의"
+GRE_liberalization_desc:0 "표현의 자유, 언론의 자유, 그리고 집회의 자유는 모두는 보호 받아야 하고 개혁의 목적이 되어야 합니다. 대부분의 그리스인들의 삶을 증진시키기 위해 자유롭고 개방된 사회는 건설 될 것입니다.“ 
+GRE_education_programs:0 "교육 계획"
+GRE_education_programs_desc:0 "그리스인의 독해률을 항상 시키는 것은 매우 중요합니다. 양질의 교육을 대중들에게 전파하기 위해서 우리는 수백 개의 학교를 건설 할 것입니다. 이러한 교육은 아마 새로운 세대를 번영시킬 것입니다.“   
+GRE_neuter_military:0 "군대의 중립화"
+GRE_neuter_military_desc:0 "그리스의 안정을 위협하는 최대 요소는 군대입니다. 우리가 군대의 요구를 일부 받아드리는 대신에, 그들의 정치적 중립성를 확립하고 그들이 정치에 개입하는 야망 자체를 제거해버릴 것입니다.“
+GRE_strong_and_free:0 "강력함과 자유"
+GRE_strong_and_free_desc:0 "이것은 군대에게 항상 힘을 주는 것이 현명하다는 것을 의미하지 않습니다. 적아도 그것이 남용 될 수 있겠죠. 그러나 우리의 군대가 없이는 독립을 유지 할 수 없습니다. 우리는 강력해져야 하고, 그리스의 강력함과 자유는 같이 유지되어야 합니다.“
+GRE_progressive_greece:0 “진보적인 그리스”
+GRE_progressive_greece_desc:0 "사회적 진보와 인간의 권리를 믿을 수 있는 더 자유로운 미래를 통해, 그리스 시민들은 이제 빛나게 되었습니다. 우리 모두가 평등한 개인이자 자랑스러운 그리스인입니다.“
 
-GRE_soc_conservatives:0 "Laïkó Kómma"
-GRE_soc_conservatives_desc:0 "The more moderate Peoples' Party seems to have come out on top in the coalition negotiations. While they are likely to reverse secular reforms, they are not as fervently anti-union and will support those based around Christian principles and leadership."
-GRE_christian_unions:0 "Found Christian Unions"
-GRE_christian_unions_desc:0 "Founding state-endorsed unions under the leadership of priests will allow us to prevent labour disputes from getting out of hand and becoming a threat to the safety of Greece. Workers will be able to express their wants and concerns to the clergy, who will serve as negotiators on their behalf."
-GRE_export_focus:0 "Export-Oriented Economy"
-GRE_export_focus_desc:0 "The Greek economy would be best served with a focus on exports, allowing cash to flow into the country and further develop her industries. To this end, we intend to raise industrial tariffs while seeking free trade arrangements for our agricultural produce."
-GRE_auth_dems:0 "Néo Krátos"
-GRE_auth_dems_desc:0 "The authoritarian, but still republican, New State have taken the lion's share of the influence in the new parliament. Fiercely anti-union and protectionist, their rule promises to take a firm hand to radicals if nothing else."
-GRE_smash_unionism:0 "Smash Unionism"
-GRE_smash_unionism_desc:0 "Unionism is a dangerous element of our society, just look at how it brought low the mighty British Empire. For the good of the people, unions must be suppressed and their leaders rooted out."
-GRE_finding_our_own_way:0 "Finding our own Way"
-GRE_finding_our_own_way_desc:0 "Greece must find its own way towards greater industrialization - somewhere between providing incentives for private corporations, but also not relinquishing the government's right to decide which industries are best to promote and which must remain under our direct control. We will see Greece forge a path to true economic strength... but we shall do it the Greek way."
-GRE_reverse_secularisation:0 "Reverse Secularisation"
-GRE_reverse_secularisation_desc:0 "Greece is, has always been, a Christian nation first and foremost. It was the Church that led us to independence and the attempts by the liberal parties to end the marriage of State and Faith must be reversed."
-GRE_sponsor_church_schools:0 "Sponsor Church Schools"
-GRE_sponsor_church_schools_desc:0 "Official state support given to faith schools of all education tiers, from primary schools all the way to church-run universities, will help to both promote scientific education and to solidify Christian values into our society."
-GRE_christian_democracy:0 "Christian Democracy"
-GRE_christian_democracy_desc:0 "We are fortunate that the will of our people is guided by Christian values and a desire to build a more virtuous society. Stability will come to Greece with the government pairing with the Church to give them a place in parliament where they belong."
-GRE_managed_democracy:0 "Managed Democracy"
-GRE_managed_democracy_desc:0 "Democracy is a proud Hellenic invention that we will continue to preserve. However its myriad dangers mean it must be carefully tended by a strong judiciary and executive, lest it be subverted from within."
-GRE_moral_greece:0 "A Moral Greece"
-GRE_moral_greece_desc:0 "Together in Greece we are building a better future, a more Christian, more moral future. Our economy must thrive but it must also put Christian values of justice, peace and humility first."
+GRE_soc_conservatives:0 "인민당"
+GRE_soc_conservatives_desc:0 "온건한 인민당이 연립 협상에서 우위를 점하면서 정권을 잡을 것입니다. 그들은 세속주의 개혁을 중단하기를 원하고 있습니다. 그들은 일단은 반 노동조합 기조를 자주 표출하지 않을 것이고, 기독교적 원칙과 지도력을 기반으로 한 노동조합을 지원 할 것입니다.“
+GRE_christian_unions:0 "기독교 노동조합 설립“
+GRE_christian_unions_desc:0 "사제들의 지도 아래에서 국가 승인 아래 설립될 노동조합은 그리스의 안정을 위험 할 수 있는 노동 쟁의을 막을 수 있을 겁니다. 노동자들은 그들이 원하는 것을 표출 할 것이고, 그런 불만을 들으면서 교회는 노동자와 사용자간의 중재자가 되어 줄 것입니다.“
+GRE_export_focus:0 "수출 지향적 경제"
+GRE_export_focus_desc:0 "그리스 경제는 수출에 집중하여 돈이 국가 전역으로 흘러와, 조국의 산업을 개발함으로써 최고가 될 수 있습니다. 이렇게 된다면, 우리 농산품을 위해 자유 무역 협정을 하면서, 공업 관세를 올릴 것입니다.“
+GRE_auth_dems:0 "신질서 운동"
+GRE_auth_dems_desc:0 "권위주의적이지만 아직 공화주의적인 신 국가 운동이 새로운 의회의 왕의 영향력을 통해 정권을 잡았습니다. 이들은 노동조합에 적대적이고 보호무역론자입니다. 그들의 통치는 급진주의 세력을 약화를 보증 할 것입니다.“
+GRE_smash_unionism:0 "조합주의 탄압"
+GRE_smash_unionism_desc:0 "조합주의는 우리 사회에 가장 위험한 요소입니다. 대영제국의 몰락을 보면 그 사실을 알 수 있죠. 우리 시민들을 위해서 노동조합들은 반드시 억압되고 그들의 지도자들은 처벌 받아야 합니다.“
+GRE_finding_our_own_way:0 "우리의 자신만의 방법"
+GRE_finding_our_own_way_desc:0 "그리스는 반드시 거대한 산업화를 이룩할 방법을 찾을 것입니다. 사기업을 위한 유인책을 제공하면서, 산업을 촉진하기 위한 정부의 경제 통제적 요소는 반드시 남아있어야 합니다. 우리는 그리스의 경제가 그리스만의 길을 통해 강력해지는 것을 볼 것입니다.“
+GRE_reverse_secularisation:0 "세속주의 변경"
+GRE_reverse_secularisation_desc:0 "그리스는 항상 첫 번째 기독교 국가였고 앞으로도 그럴 것입니다. 국가와 종교 간의 유대 관계는 다시 회복되어야하고, 자유당의 의한 세속주의는 반드시 종료되어야 합니다.“
+GRE_sponsor_church_schools:0 "교회 학교 스폰서"
+GRE_sponsor_church_schools_desc:0 "공식적인 국가의 지원은 초등학교부터 교회가 운영하는 대학교까지의 모든 종교 학교들에게 줄 것입니다. 이것이 과학적 교육을 촉진하고 우리 사회의 기독교적 가치를 단단하게 할 것입니다.“
+GRE_christian_democracy:0 "기독교 민주주의"
+GRE_christian_democracy_desc:0 "우리는 운 좋게도 우리 시민들의 의지가 기독교적 가치와 덕 있는 사회를 건설하려는 열망으로 인도되고 있습니다. 안정은 의회에서 어디에 속하든 교회와 정부가 주는 평화를 통해 올 것입니다.“
+GRE_managed_democracy:0 "관리되는 민주주의"
+GRE_managed_democracy_desc:0 "민주주의는 그리스의 자랑스러운 유산이자 유지하고 보호해야 할 것입니다. 그러나 이에 대한 수많은 위협이 실존하고. 이것은 강력한 사법과 행정부의 주의 깊은 관리가 필요합니다. 적어도 이를 통해 국가 전복 사태는 없을 것이라고 확신 합니다.“ 
+GRE_moral_greece:0 "도덕적인 그리스"
+GRE_moral_greece_desc:0 "모두가 함께라면, 그리스는 더 나은 미래를 건설 할 수 있습니다. 더 많은 기독교적 가치, 더 도덕적인 미래 말이죠. 우리 경제는 번영 할 것이지만 그 이전에 기독교적 정의, 인류애 그리고 평화가 우선입니다.“
 
-GRE_radical_socialists:0 "Agrotikó Dimokratikó Métopos"
-GRE_radical_socialists_desc:0 "The radical agrarians have won through, and now intend to push forth a deeply anti-urban programme of land redistribution and communal farming."
-GRE_abolish_landlordism:0 "Abolish Landlordism"
-GRE_abolish_landlordism_desc:0 "Landlords are one of the primary means via which the peasantry is oppressed in our country. By liquidating all those who do not work the land directly and distributing their land to agricultural communes we can ensure our farmers will no longer suffer under their heel."
-GRE_planned_industry:0 "Planned Industry"
-GRE_planned_industry_desc:0 "Unlike what many believe, agrarianism is not antithetical to a strong industrial state. Quite the opposite, in fact. Industrialization, however, must be carefully planned so it does not disturb the careful balance required by our agricultural sector. This requires heavy government intervention and control: the right industry in the right place, manned by the right people."
-GRE_soc_dems:0 "Ethnikón Enotikón Kómma"
-GRE_soc_dems_desc:0 "The much more moderate agrarians have won. While they intend to primarily support the peasantry through social reforms and subsidies, they are not as dedicated to the abolition of urban society and the bourgeoisie as their counterparts."
-GRE_political_liberties:0 "Political Liberties"
-GRE_political_liberties_desc:0 "Within Greece there is a lack of simple political freedoms for many of the lower classes. By bringing forth a series of reforms dedicated to extending the freedom of speech, association, and expression we can help the people's voice to be heard in politics."
-GRE_new_enterprise:0 "A New Enterprise"
-GRE_new_enterprise_desc:0 "A socialist state cannot truly be successful without creating a partnership with its private entrepreneurs and corporations. We must create a government body to oversee industrialization efforts, to ensure that growth is done responsibly but also remains in the hands of those who will keep it efficient."
-GRE_breadbasket:0 "Breadbasket of the Mediterranean"
-GRE_breadbasket_desc:0 "Every inch of cultivable land must be grown on, Greece shall become the breadbasket of the Mediterranean and prosper as she feeds herself and all of her neighbours."
-GRE_planned_research:0 "Planned Research"
-GRE_planned_research_desc:0 "A government body must be created to oversee research efforts, pushing us in the direction that is of most benefit to all of Greece."
-GRE_agrarian_socialism:0 "Agrarian Socialism"
-GRE_agrarian_socialism_desc:0 "Our major support base is in the countryside, to whom we must devolve significant political powers in order to ensure that cities do not come to dominate our politics. The creation of a true rural democracy based around the communes is our future."
-GRE_industrial_socialism:0 "Industrial Socialism"
-GRE_industrial_socialism_desc:0 "We will be a socialist state with a strong preference for our agrarian roots, it's true, but we will do it while also increasing our industrial strength. A true industrial state has a partnership with its agrarian base - they need not be enemies."
-GRE_socialist_greece:0 "A Socialist Greece"
-GRE_socialist_greece_desc:0 "What's most important to our future as a socialist state is that we focus on what the people need: keep the rural parts of our nation healthy and happy and Greece will be far more stable than it's ever been."
+GRE_radical_socialists:0 "민주 농민 전선"
+GRE_radical_socialists_desc:0 "급진적인 농민주의자들이 승리했습니다. 그리고 그들은 지금 반 도시적 계획과 토지 제한, 그리고 공동 농장을 실행 할 것입니다.“ 
+GRE_abolish_landlordism:0 "지주주의 폐지"
+GRE_abolish_landlordism_desc:0 "지주는 우리 국가가 소작농들을 억압하는 주요한 수단중 하나입니다. 이렇게 토지를 직접 경작하지 않는 지주들을 청산하고 농업 공동체들에게 이 땅들을 분배하는 것이 농민들이 착취에서 벗어나는 유일한 방법입니다.“
+GRE_planned_industry:0 "산업 계획"
+GRE_planned_industry_desc:0 "믿겨지지는 않겠지만, 농민주의는 강력한 산업 국가를 반대하지 않습니다. 따라서 반대편을 조용하게 하기 위해서라도 산업화는 추진 될 것입니다. 그러나 이 산업화는 반드시 우리 농업 부분을 해치지 않고 오히려 그들의 요구에 부흥하도록 조심스럽게 계획적으로 진행되어야 합니다. 그렇기 때문에 중공업은 정부의 개입과 통제가 있을 것이고, 경공업을 좋은 지역에서 올바른 사람에 의해 운영 될 것입니다.“ 
+GRE_soc_dems:0 "민족 통일당“
+GRE_soc_dems_desc:0 "더욱 더 온건한 농민주의자들이 승리했습니다. 그들은 사회 개혁과 보조금을 통해서 농민들을 지원 하고, 도시 사회와 부르주아들을 폐지하는데 헌신할 의향도 없습니다.“
+GRE_political_liberties:0 "정치적 자유"
+GRE_political_liberties_desc:0 "그리스 안에서는 많은 빈민을 위한 정치적 자유가 없습니다. 일련의 개혁을 통해서 언론과 표현 그리고 집회의 자유를 보장할 것입니다. 우리는 정치에서 인민의 목소리를 들어 도와 줄 수 있을 것입니다.“
 
-GRE_old_order_overthrown:0 "The Old Order Overthrown"
-GRE_old_order_overthrown_desc:0 "We have done the impossible and tossed out the old forces of monarchism and staid republicanism. Now the workers of Greece have a real chance to bring the country into the future, unchained from its dismal and unstable past."
-GRE_syndicalist_victory:0 "First Hellenic Congress"
-GRE_syndicalist_victory_desc:0 "The first order of business will be to hold a congress and organize the trade unions - and part of that will be deciding who will be the new chairman. Will it be the leader of the syndicalists, or will Greece veer towards a more hardline and authoritarian government under the totalists?"
-GRE_cooperate_with_agrarians:0 "Cooperate with the Agrarians"
-GRE_cooperate_with_agrarians_desc:0 "The Agrarian Party has a very different vision of socialism to the more orthodox syndicalists, envisioning a more pre-industrial society rooted in agricultural communes. However, they are open to compromise, while extensive support and power must be given to the farmer's unions we will be able to resist calls from their most radical elements to encourage the total dissolution of the cities entirely."
-GRE_establish_communes:0 "Establish Communes"
-GRE_establish_communes_desc:0 "By abolishing the old systems of local governance and establishing local communes in their place we can bring syndicalism to the people of Greece, and pave the way for the first true Congress of the Trade Unions to be held in this island of freedom from capitalist oppression."
-GRE_crush_bourgeoisie:0 "Crush the Bourgeoise"
-GRE_crush_bourgeoisie_desc:0 "The Bourgeoise are the truest enemy of the people, they must be shown that we will not back down from our revolutionary aims. By harnessing the anger of the proletariat towards those that have exploited them we can force them to surrender their property and submit to the new regime upon pain of death."
-GRE_rally_behind_dioitikis:0 "Rally behind the Dioikitis"
-GRE_rally_behind_dioitikis_desc:0 "The Diokitis, a word which means 'leader' in the same sense as the Russian 'Vohzd', is the people's truest friend and guide through the long road to socialism. Under his guidance we will step forward boldly into the 20th century, a strong socialist state ready to crush all foes of the revolution."
-GRE_void_debts:0 "Void Debts"
-GRE_void_debts_desc:0 "Some nations have been clamouring for the new people's government to acknowledge and undertake payment of the old regime's debts. This is unacceptable - those debts belong to the capitalists and thieves who foisted them upon the people to begin with."
-GRE_leap_forward:0 "The Great Leap Forward"
-GRE_leap_forward_desc:0 "Technological progress is the only way a syndicalist Greece will be able to compete with its neighbours. We have much work to do, and we will need to drag our countrymen into the 20th century kicking and screaming."
-GRE_focus_on_economy:0 "Focus on the Economy"
-GRE_focus_on_economy_desc:0 "Military strength is all fine and well, but it does us little good without the resources and industrial base needed to build all those airplanes and guns. We must put our focus first and foremost on making Greece an economic power."
-GRE_focus_on_strength:0 "Focus on our Strength"
-GRE_focus_on_strength_desc:0 "Industry is fine, but if we fall to our hostile neighbours or the anti-syndicalist nations of Europe, all the industry in the world won't do us much good. A strong Greece is an independent Greece."
-GRE_syndicalism_forever:0 "Syndicalism Forever"
-GRE_syndicalism_forever_desc:0 "The Hellenic Commune has made its transformation into a true syndicalist state, ready to join the Internationale in fighting for world revolution!"
+GRE_new_enterprise:0 "새로운 기업"
+GRE_new_enterprise_desc:0 "사회주의 국가는 사기업과 법인의 일자리 창출 없이는 성공 할 수 없습니다. 우리는 산업화에 힘을 기울여야 하고, 성장을 보장해야 합니다. 그러나 또한 그러한 성장의 과실이 효율적으로 남게 해야 합니다."
+GRE_breadbasket:0 "지중해의 곡창지대“
+GRE_breadbasket_desc:0 "경작 할 수 있는 모든 땅들은 반드시 곡식이 자라야 합니다. 그리스는 지중해의 곡창지대가 될 것이며, 그를 통해 조국은 인민들과 이웃 국가들을 먹여 살릴 것입니다.“
+GRE_planned_research:0 "계획 연구"
+GRE_planned_research_desc:0 "정부는 연구에 힘을 기울여야 합니다. 그리스 전체에 이득이 되는 방향으로 과학기술을 이끌기 위해서 말이죠.“
+GRE_agrarian_socialism:0 "농업 사회주의"
+GRE_agrarian_socialism_desc:0 "우리들의 주요한 지지층은 농촌입니다. 도시가 우리의 정치를 지배하는 것을 피하기 위해서, 우리는 중요한 정치적 힘을 농민들에게 양도해야 합니다. 공동체에 기반한 진정한 농촌 민주주의의 시작은 우리의 미래입니다.“
+GRE_industrial_socialism:0 "산업 사회주의"
+GRE_industrial_socialism_desc:0 "우리는 농민의 강력한 지지에 기반을 둔 사회주의 국가가 되어야 합니다. 그러나 우리는 또한 우리의 산업 수준을 증진 시켜야 합니다. 진정한 산업 국가는 농민들과 함께 나아가는 것입니다. 시골과 도시는 서로 적이 아닙니다.“
+GRE_socialist_greece:0 “사회주의 그리스"
+GRE_socialist_greece_desc:0 "사회주의 국가로써 우리의 미래를 위해 가장 중요한 것은 인민들의 요구를 수용하는 것입니다. 시골 농촌을 건강하고 행복하게 한다면 그리스는 다른 국가보다 더욱 가장 안정적인 국가 될 것입니다.“
 
-GRE_autocratic_greece:0 "An Autocratic Greece"
-GRE_autocratic_greece_desc:0 "Democracy was a mistake. The Greek nation cannot afford to be betrayed by weak republican ideas any longer. A new Autokrator shall rise to govern the nation as a wise and able ruler."
-GRE_consolidate_rule:0 "Consolidate Rule"
-GRE_consolidate_rule_desc:0 "The task of centralising all power in the hands of the leadership is an immense one, in some cases requiring that we rebuild institutions from the ground up. We are up to the task, however, and will work ceaselessly for a strong nation."
-GRE_full_centralization:0 "Full Centralisation"
-GRE_full_centralization_desc:0 "We must create an efficient central bureaucracy - by tightly controlling the reigns of the state, we can secure authority remains in the centre where it belongs."
-GRE_state_industry:0 "State Industries"
-GRE_state_industry_desc:0 "Greece's industrial sector requires a revitalisation lead by state power and funding, to this end we have prepared a plan for greatly expanding heavy industry in order to build our resource base."
-GRE_restore_monarchy:0 "Restore the Monarchy"
-GRE_restore_monarchy_desc:0 "Greece is, by right, a kingdom - and the youngest of the three princes has learned a thing or two during his exile that makes him the perfect head of state to help bring the country into the future. Let us restore the kingdom, but with a strong monarch of whom we can be proud."
-GRE_state_orthodoxy:0 "State Orthodoxy"
-GRE_state_orthodoxy_desc:0 "Orthodoxy is Greece's dominant religion, and will be a useful tool in informing people of the divinely appointed nature of their leadership. To that end, we must take steps to curtail the independence of the Greek Orthodox Church and bring it under state control."
-GRE_foreign_investment:0 "Lure Foreign Investment"
-GRE_foreign_investment_desc:0 "One benefit of having a king is that he makes a fine ambassador to send to other nations in order to lure foreign capital into Greece. That investment is the only way we will see real progress."
-GRE_propaganda:0 "The Art of Propaganda"
-GRE_propaganda_desc:0 "Everyone in Greece has opinions. It's what makes this country fine, but it is also what has driven us apart. The time has come to make sure that their opinions have something in common: that they all believe as we do, and that unity will make us stronger."
-GRE_greek_science:0 "Greek Science"
-GRE_greek_science_desc:0 "By supporting the founding of new universities and plumbing previously untouched depths of innovative research, we may show the world that Greece is once again the hub of learning and education in the civilized world."
-GRE_the_iron_fist:0 "The Iron Fist"
-GRE_the_iron_fist_desc:0 "Our people cannot be left to their own devices. Authoritarian rule is the only way we will keep Greece strong and independent."
-GRE_the_velvet_glove:0 "The Velvet Glove"
-GRE_the_velvet_glove_desc:0 "We must take a diplomatic hand towards the various groups in Greece. By working together, we will promote unity and stability. Greece is a dictatorship, it's true, but it can be a benevolent one."
-GRE_national_father:0 "A National Father"
-GRE_national_father_desc:0 "Our benevolent autocrat, our noble king, our just and perfect ruler. Watch evermore over your people as a father over his children, and show that you love them and will make them proud, happy and free."
+GRE_old_order_overthrown:0 "구질서의 몰락"
+GRE_old_order_overthrown_desc:0 "우리는 불가능한 일을 해냈고, 군주제의 군대와 한심한 공화주의를 쫒아냈습니다. 지금 그리스의 노동자들은 암울하고 불안정한 과거에서 벗어나 우리 국가를 미래로 이끌 진정한 기회를 가지게 된 것입니다.“
+GRE_syndicalist_victory:0 "첫 번째 헬레닉 평의회"
+GRE_syndicalist_victory_desc:0 "첫번째로 해야 할 일은 평의회를 개최하고 노동조합을 조직하는 것입니다. 이 과정에서 새로운 의장이 선출 되겠죠. 생디칼리즘 지도자가 새로운 의장이 될까요? 아니면 더 강경하고 권위적인 전체주의적 지도자일까요?“
+GRE_cooperate_with_agrarians:0 "농민주의자들과 협력"
+GRE_cooperate_with_agrarians_desc:0 "농민당은 전통적인 생디칼리즘적 시각과 매우 다르게 사회주의를 바라보고 있습니다. 농민 공동체에 뿌리를 두고 탈 산업 사회를 꿈꾸고 있죠. 그러나 그들과의 협상은 열려 있습니다. 농민 조합을 통해 그들에게 많은 지원과 힘을 주고, 한편으로 도시에 대한 그들의 적대적이고 급진적인 태도를 억제하게 할 수 있습니다.“
+GRE_establish_communes:0 "코뮌 설립"
+GRE_establish_communes_desc:0 "지역 통치와 관련된 낡은 체제를 부수고 그 지역에 코뮌을 건설하는 것은 생디칼리즘을 그리스 인민들을 가져 올 것입니다. 그리고 이를 통해 지방을 자본주의 압제로부터 자유롭게 해서 진정한 첫 번째 노동조합 평의회를 열도록 할 것입니다.“
 
-GRE_prepare_for_war:0 "Prepare for War"
-GRE_prepare_for_war_desc:0 "A war is coming to Greece - that we know to be true. If we attempt to avoid it, we will only be abandoning the millions of Greeks who do not live under Greek rule as they should, and thus we must prepare ourselves for the inevitable."
-GRE_evaluate_army:0 "Ellēnicós Stratós"
-GRE_evaluate_army_desc:0 "Cut off from much of our manpower base thanks to the Weltkreig we are divided between two schools of thought, one favours leveraging a material advantage over the enemy and devastating him with sheer firepower; the other meticulous planning in order to prevent losses by executing operations with the utmost efficiency."
-GRE_firepower:0 "Favor Superior Firepower"
-GRE_firepower_desc:0 "We have ultimately settled on a doctrine of superior firepower. Rather than waste Greek lives we will annihilate the enemy's defences and sweep them away when they are battered and broken."
-GRE_artillery_focus:0 "Increase Artillery Research"
-GRE_artillery_focus_desc:0 "As the British learned during the Weltkreig, there may never be enough shells. Blowing away the enemy requires sustained, concentrated bombardments in order to break down fortifications and open gaps in their defences. Therefore we must drastically ramp up production and research."
-GRE_marines_focus:0 "Hellenic Marines"
-GRE_marines_focus_desc:0 "As part of our doctrine of surgically striking the enemy's weak points with overwhelming firepower we have decided to establish a specialised marine division for amphibious operations. These men will be selected from the finest recruits and serve as elite units conducting naval assaults on enemy shores."
-GRE_bullets_not_men:0 "Bullets not Men"
-GRE_bullets_not_men_desc:0 "When the enemy comes they must meet with a storm of firepower. What we send into the breach must be bullets and not men. This spirit exemplifies our entire doctrine."
-GRE_battleplan:0 "Favor Grand Battleplan"
-GRE_battleplan_desc:0 "We have ultimately settled on a doctrine of grand battleplans. Rather than waste Greek lives, we will coordinate the entire war front so that our attacks arrive in perfect time and overwhelm the enemy with simultaneous well-planned assaults."
-GRE_mountaineers:0 "Hellenic Mountaineers"
-GRE_mountaineers_desc:0 "As part of our doctrine of meticulous planning, we have discovered that altitude training will be very useful for those select men who will operate in mountainous areas. Creating some specialised mountaineers will ensure we always have forces capable of fighting in even the roughest terrain."
-GRE_mobility:0 "Mobile Support"
-GRE_mobility_desc:0 "While our industry, we must admit, prevents us from fielding the tank battalions of larger nations, we are more than capable of producing vehicles to serve as support for our infantry and make them far more mobile than they are now."
-GRE_expand_staff:0 "Expand the General Staff"
-GRE_expand_staff_desc:0 "The general staff is responsible for the studying and application of new methods of warfare on a continuous basis, by increasing their budget and expanding their remit we can ensure that they stay at the cutting edge of military theory."
-GRE_innovation:0 "Military Innovations"
-GRE_innovation_desc:0 "With the Military Research Division up and running we should start a programme to encourage our brightest minds to enlist in it, that they might better apply their skills to the service of the Hellenic Nation."
-GRE_expand_armaments_1:0 "Invest in Armaments"
-GRE_expand_armaments_1_desc:0 "We cannot rely solely on private industry to supply our armies - we need to build armament factories of our own if Greece is to become a true military power."
-GRE_expand_armaments_2:0 "The Pyrkal Deal"
-GRE_expand_armaments_2_desc:0 "The Greek Powder & Cartridge Company is one of the oldest and largest defence companies in Greece. We must partner with them and provide subsidies that will ensure they benefit as well as our army for having a supplier so close to home."
+GRE_crush_bourgeoisie:0 "부르주아를 박멸해라!"
+GRE_crush_bourgeoisie_desc:0 "부르주아는 인민들의 진정한 적입니다. 그들은 절대로 우리 혁명군의 손아귀에서 벗어날 수 없겠죠, 학대 받았던 노동자들의 분노의 힘으로 우리는 그들에게 항복을 강요하여 죽음의 고통과 함께 그들의 재산을 환수할 수 있겠죠.“
+GRE_rally_behind_dioitikis:0 "Dioikitis 아래 집결!"
+GRE_rally_behind_dioitikis_desc:0 "Diokitis는 지도자라는 의미로 러시아의 'Vohzd'라는 의미와 비슷합니다. 지도자는 인민들의 진실 된 친구이자 사회주의를 향한 긴 여정을 인도할 것입니다. 그의 지도력 아래에서 우리는 20세기를 향한 걸음을 할 수 있을 것입니다. 강력한 사회주의 국가는 혁명의 모든 적들을 부셔야 가능합니다!“
+GRE_void_debts:0 "채무 무효화"
+GRE_void_debts_desc:0 "일부 국가들은 새로운 인민 정부에게 구체제의 채무를 인정하고 갚으라고 강력하게 요구합니다. 이건 받아드릴 수 없습니다. 이 채무는 자본가와 인민들을 등 쳐먹은 도둑들에게 속할 것이기 때문이죠.“
+GRE_leap_forward:0 "대약진"
+GRE_leap_forward_desc:0 "기술적 진보는 생디칼리즘 그리스가 이웃처럼 완전하게 될 수 있는 유일한 방법입니다. 따라서 우리는 반드시 기술 진보를 위해 노력하고 차고 소리 질러서라도 우리 모두를 20세기로 끌고 가야합니다.“
+GRE_focus_on_economy:0 "경제에 집중"
+GRE_focus_on_economy_desc:0 "군사적 힘은 크면 클수록 좋습니다. 하지만 산업에 기초된 항공기나 총이 없다면 그것들은 쓸모가 없습니다. 따라서 우리는 그리스의 경제를 키우는 것을 첫 번째로 가장 중요하게 생각해야 합니다.“
+GRE_focus_on_strength:0 "힘에 집중"
+GRE_focus_on_strength_desc:0 "산업적 힘은 크면 클수록 좋습니다. 그러나 적대적인 죽군이나 반 생디칼리즘적 국가에 의해 몰락한다면 그것들은 쓸모가 없습니다. 강력한 그리스는 반드시 독립적인 그리스어야 합니다.“
+GRE_syndicalism_forever:0 "생디칼리즘이여 영원하라!"
+GRE_syndicalism_forever_desc:0 "헬레닉 코뮌은 진정한 생디칼리즘 국가로 바뀌었습니다. 우리는 인터네셔널에 가입하여 세계 혁명에 가담하기 위한 준비를 해야 합니다.“
+
+GRE_autocratic_greece:0 "독재적 그리스"
+GRE_autocratic_greece_desc:0 "민주주의는 실수였습니다. 그리스에서는 더 이상 나약한 공화주의자에 의해 지배당할 형편이 아닙니다. 새로운 독재자는 정부를 지혜롭고 뛰어나게 다스릴 것입니다.“
+GRE_consolidate_rule:0 "통합 지배"
+GRE_consolidate_rule_desc:0 "모든 힘을 한 사람의 지도력 아래 집중시키는 것은 엄청난 일입니다. 어떤 경우에는 처음부터 기관을 새로 만들어야 할지도 모르죠. 그러나 이런 과제는 강력한 국가 건성을 위해서 필요한 일입니다.“
+GRE_full_centralization:0 "완전한 중앙 집권화"
+GRE_full_centralization_desc:0 "우리는 반드시 효율적인 중앙 관료제를 만들어야 합니다. 완전하게 국가의 모든 부분을 통제 할 수 있도록 말이죠. 우리는 또한 이를 통해 모든 지역의 권위가 남도록 보장 할 것입니다.“
+GRE_state_industry:0 "국가 산업"
+GRE_state_industry_desc:0 "그리스 산업 부분은 국가의 힘과 투자에 의한 활력이 필요합니다. 따라서 우리는 우리가 필요로 하는 자원을 조달하기 위해 중공업의 대폭적인 확장이 필요 할 것입니다.“
+GRE_restore_monarchy:0 "군주제 복위"
+GRE_restore_monarchy_desc:0 "그리스는 왕국입니다. 3명의 왕자 중 가장 어린 왕자는 추방기간 동안에 여러 가지를 배웠고 그 경험이 아마 그를 완벽한 국가 원수로 만들어 국가를 나은 미래로 인도 할 것입니다. 이제 우리가 자랑스러워 할 수 있는 강력한 군주를 통해 왕정을 복구할 시간입니다.“
+GRE_state_orthodoxy:0 "국가 정교회"
+GRE_state_orthodoxy_desc:0 "정교회는 그리스의 지배적인 종교이고 그들의 자연스러운 지도력을 통해서 대중들에게 우리를 인정하게 하는 유용한 도구가 될 수 있습니다. 따라서 우리는 그리스 정교회의 독립성을 줄이고 정부의 통제 아래 놓아야 합니다.“
+GRE_foreign_investment:0 "외국인 투자 유인"
+GRE_foreign_investment_desc:0 "왕의 존재로 얻을 수 있는 한 가지 이익이라면, 그들은 외국 자본을 그리스로 끌어들이기 위한 훌륭한 외교관들이라는 것입니다. 투자는 우리의 진정한 진보를 위한 유일한 길입니다.“
+GRE_propaganda:0 "예술 프로파간다“
+GRE_propaganda_desc:0 "모든 그리스인들은 어떻게 국가를 만들어야 하는지에 대한 견해를 가지고 있습니다. 그러나 이러한 견해를 우리를 지지하도록 몰아 갈 수 있습니다. 지금은 그들의 견해를 하나로 묶어야 할 때입니다. 단결이야 말로 우리를 강력하게 만든다는 것을 모든 그리스인들이 믿어야 합니다.“ 
+GRE_greek_science:0 "그리스 과학"
+GRE_greek_science_desc:0 " 새로운 대학에 대한 건립과 지원은 우리의 깊고 혁신적인 연구를 이룩하게 할 것입니다. 우리는 그리스가 다시 한 번 교육과 문명의 중심지가 되었다는 사실을 전 세계에 보여 줄 것입니다.“ 
+GRE_the_iron_fist:0 "철권"
+GRE_the_iron_fist_desc:0 "우리 시민들은 그들이 가진 어리숙한 생각을 버리지 못합니다. 권위주의적 지배만이 그리스를 더 강하고 독립적으로 유자할 수 있습니다.“
+GRE_the_velvet_glove:0 "관용적인 손" 
+GRE_the_velvet_glove_desc:0 "우리는 다양한 그리스 집단을 위해 좀 더 외교적인 선택을 할 수도 있습니다. 같이 일함으로써, 우리는 단결과 안정을 촉진 할 수 있을 것입니다. 그리스는 독재국가입니다. 그러나 어느 정도의 관용은 보여줄 수 있습니다.“
+GRE_national_father:0 "국가의 아버지"
+GRE_national_father_desc:0 "우리의 관용적인 독재자나 우리의 고귀한 왕 혹은 우리의 완벽한 통지자이건 마치 아버지가 그의 자식을 돌보듯이 시민들을 돌보고 있습니다. 따라서 우리도 그를 사랑하고 그것에 자부심을 느끼며 자유와 행복을 만끽하십죠.“
+
+GRE_prepare_for_war:0 "전쟁 준비"
+
+GRE_prepare_for_war_desc:0 "전쟁이 그리스에 다가오고 있습니다. 만약 이러한 전쟁을 피하고 싶다면, 우리가 할 유일한 방법은 수백만 명의 그리스 인들을 그리스인의 통치에서 버리는 것뿐입니다. 그렇기 때문에 우리는 스스로 피할수 없는 준비를 해야 합니다.“
+GRE_evaluate_army:0 "헬레닉 군대"
+GRE_evaluate_army_desc:0 "우리의 수많은 인명이 대전쟁 덕분에 상실하면서, 우리 군대는 두 가지 학파로 나뉘어졌습니다. 하나는 물질적인 우위를 강조하면 강력한 회력을 적을 파괴하는 것을 선호하고, 다른 하나는 극도록 효율적인 작전을 실행하여 손실을 위한 꼼꼼한 계획을 선호합니다.“
+GRE_firepower:0 "화력 우위 선호"
+GRE_firepower_desc:0 "우리는 최종적으로 화력 우위 교리를 결정했습니다. 그리스인의 생명을 버리기 보다는, 우리가 적의 방어선을 돌파하여 파괴하고 박멸하며 청소하는 것이 더 나을 것입니다.“
+GRE_artillery_focus:0 "포병 연구 증대"
+GRE_artillery_focus_desc:0 "영국이 대전쟁 기간 동안 배운 것을 참고하면, 그들은 충분한 포탄이 충분히 강하지 않았습니다. 폭발은 적이 충분히 견딜 수 있는 수준이었죠. 따라서 적의 방어선을 부수고 구멍을 내기 위한 수준으로 포격에 집중하는 것이 필요합니다. 그래서 우리는 포탄의 생산과 연구를 더 증진시켜야 합니다.
+GRE_marines_focus:0 "헬레닉 해병대"
+GRE_marines_focus_desc:0 "우리의 교리에서 적을 압도적인 화력으로 강타한 뒤 적의 취약지대를 공격하는 부대로써, 우리는 수륙에서 활약 할 수 있는 특수한 해병 사단을 설립하기로 결정했습니다. 이들은 가장 우수한 병사들로 선정되었으며, 적의 육지를 해안에서부터 공격 할 것입니다.“
+GRE_bullets_not_men:0 "사람이 아닌 탄약"
+GRE_bullets_not_men_desc:0 "적이 우리의 화력의 폭풍을 뚫고 진입한 순간에도, 우리는 참호에서 사람이 아닌 탄약을 적에게 보낼 것입니다. 이러한 정신이 우리 교리를 전적으로 보여주는 예입니다.“
+GRE_battleplan:0 "대전략 선호"
+GRE_battleplan_desc:0 "우리는 최종적으로 대전략 교리를 결정했습니다. 그리스인의 생명을 버리기 보다는, 우리가 전선에서 완벽한 시간에 공격하여 잘 계획된 돌파로 적을 압도 해버리는 것이 더 나은 편이기 때문이죠.“
+GRE_mountaineers:0 "헬레닉 산악병"
+GRE_mountaineers_desc:0 "우리의 꼼꼼한 계획의 일환으로써, 우리는 신익 지역에서 훈련이 일부 뛰어난 병사들에게 매우 유용하다는 사실을 알게 되었습니다. 전문 특별 산악병을 만든다면, 우리 군은 가혹한 지역에서도 적과 싸울 수 있을 것입니다.“
+GRE_mobility:0 "차량화 지원"
+GRE_mobility_desc:0 "우리의 산업수준을 보았을 때, 기갑 사단은 현실적으로 매우 어렵습니다. 그런 것들은 큰 국가에서나 가능하죠. 따라서 우리는 보병을 위한 차량을 양성하는 것이이 더 빠른 기동력을 군대에게 줄 것이라고 봅니다.“
+GRE_expand_staff:0 "총 참모부 확장“
+GRE_expand_staff_desc:0 "총 참모부는 새로운 전쟁 방법론을 계속 연구하고 적용할 책임이 있습니다. 아마 그들에 대한 예산을 늘리는 것이 우리의 군사 이론을 최고로 만드는걸 보증할 것입니다.
+GRE_innovation:0 "군사 혁신"
+GRE_innovation_desc:0 "군 연구부서가 창설 되면서 우리는 우리의 뛰어난 인재들을 입대를 촉구하는 계획을 시작했고, 그렇게 입대한 인재들은 자신들의 능력을 마음껏 조국 그리스를 위해 활용 할 것입니다.“
+GRE_expand_armaments_1:0 "군사력에 대한 투자"
+GRE_expand_armaments_1_desc:0 "우리는 사기업의 무기 공급에만 의존해서는 안 됩니다. 우리는 우리가 가진 군 공장을 보유해야 합니다. 만약 그리스가 진정한 군사력을 가지게 되기를 원하면요.“
+GRE_expand_armaments_2:0 "Pyrkal과 거래"
+GRE_expand_armaments_2_desc:0 "그리스의 총과 탄약을 생산하는 회사는 가장 오래되고 큰 방위 사업체입니다. 우리는 반드시 그들의 파트너가 되고 우리 군대의 보급품을 그리스가 스스로 생산할 수 있게 하기 위하여 보조금을 주어야 합니다.“
 GRE_legacy_of_alexander:0 "알렉산더의 유산"
-GRE_legacy_of_alexander_desc:0 "Alexander the Great took Greek civilization to the ends of the known world and shaped an age of history with his own two hands. Of course, he couldn't have done it without the finest Greek soldiers, and now we have those too. While we harbour no such lofty ambitions, we will march forward knowing that nowhere in the world can finer soldiers be found."
+GRE_legacy_of_alexander_desc:0 "알렉산더 대왕은 그리스 문명이 알던 세계의 끝까지 정복했으며, 역사를 자신의 두 손으로 썼습니다. 물론 그에게 우수한 그리스 병사가 없었으면 그런 업적을 이룩할 수 없었을 겁니다. 그리고 우리는 그러한 우수한 병사를 보유하고 있습니다. 우리는 열렬한 야망을 품지는 않았지만, 우리는 어디에서도 이렇게 우수한 병사를 보유하지 않음을 알고 전진 할 것입니다.“
 
-GRE_evaluate_air_force:0 "Polemikí Aeroporía"
-GRE_evaluate_air_force_desc:0 "Aviation is a science in which Greece must make significant advances in very little time if she is to catch up. Some say we should instead focus our efforts on defending against an enemy air force, rather than waste precious resources on attempting to expand our own."
-GRE_air_academy:0 "Hellenic Air Force Academy"
-GRE_air_academy_desc:0 "The Military School of Aeronautics has been around for a number of years, now, but the time has come to open up new branches and prepare our pilots for an expansion of the air force itself."
-GRE_salonika_airport:0 "Expand Salonika Airport"
-GRE_salonika_airport_desc:0 "Salonika Airport is our foremost operating base for projecting air power into the southern Balkans, a great expansion of its facilities is needed to accommodate a large modern airforce."
-GRE_fighter_focus:0 "New Fighters"
-GRE_fighter_focus_desc:0 "Our air force may be small, but its fighters can be the envy of other nations if we push their technological advancement."
-GRE_air_production:0 "Expand Air Production"
-GRE_air_production_desc:0 "Greece needs better facilities to both build and house our fighter aircraft. Subsidies are required in order to make this happen."
-GRE_radar_focus:0 "Focus on Radar"
-GRE_radar_focus_desc:0 "If we cannot focus on building a larger air force, then we must focus instead on defending against the air forces or those who would attack us - and most important of that is building a radar network to be our eyes on the sea and in the skies."
-GRE_antiair_focus:0 "Watch the Skies"
-GRE_antiair_focus_desc:0 "Anti-air installations will be our best defence against enemy aircraft. We don't need to shoot them down with our own planes, instead we can shoot them out of the sky."
-GRE_dominate_heights:0 "Aièn Hypsikrateîn"
-GRE_dominate_heights_desc:0 "The motto of our airforce is 'Always dominate the heights', and now the skies are ours to rule! With our modern and updated airforce, we shall go forth in absolute certainty that we dominate the highest heights."
+GRE_evaluate_air_force:0 "헬레닉 공군"
+GRE_evaluate_air_force_desc:0 "항공은 짦은 시간 이내로 그리스가 빠르게 발전시켜야 하는 과학입니다. 일부는 공군을 양성하는데 낭비하기 보다는 적의 항공 세력을 막는데 주력해야 한다고 봅니다.“
+GRE_air_academy:0 "헬레닉 공군 사관학교"
+GRE_air_academy_desc:0 "공군 사관학교는 몇 년 전부터 있었습니다. 그러나 새롭게 확장될 공군의 파일럿 확보를 위해서 우리는 공군 사관학교를 대폭 확대 할 것입니다.“
+GRE_salonika_airport:0 "테살로니카 공항 확장“
+GRE_salonika_airport_desc:0 "테살로니카 공항은 남부 발칸에서 우리 공군이 주로 운용 될 것이라고 예측 되는 군사 항공기지입니다. 거대한 현대 공군에 맞출 수 있도록 이 시설의 대폭적인 확장이 필요합니다.“
+GRE_fighter_focus:0 "새로운 전투기"
+GRE_fighter_focus_desc:0 "우리 공군 전력은 비교적 작습니다. 그러나 우리가 만약 기술적 진보를 밀어준다면, 우리의 전투기는 다른 국가의 전투기보다 훨씬 성능이 우월할 수 있습니다.“
+GRE_air_production:0 "항공기 생산 확장“
+GRE_air_production_desc:0 "그리스는 군용기들이 만들어지고 배치 될 수 있는 더 나은 시설을 필요합니다. 따라서 보조금은 이런 항공 관련 기구에 지급되어야 합니다.“
+GRE_radar_focus:0 "레이더에 집중"
+GRE_radar_focus_desc:0 "만약 우리가 대규모 공군을 만들 수 없다면, 우리는 반드시 우리를 공격하는 적에 대항해서 우리의 영공을 지키는데 집중해야 합니다. 아마 레이더 체계가 우리의 눈이 되어서 그러한 임무를 수행하도록 돕겠죠.“
+GRE_antiair_focus:0 "공중 경계"
+GRE_antiair_focus_desc:0 "데공 시설은 우리가 적 공군에 대항 할 수 있는 최고의 선택일 것입니다. 우리는 우리 항공기를 동원에서 적을 떨어트릴 필요 없이, 우리가 지상에서 적을 쏴서 떨어트릴 수 있으니깐요.“
+GRE_dominate_heights:0 "항상고도를 장악하라!"
+GRE_dominate_heights_desc:0 "우리 공군의 모토는 ‘항상 고도를 장악하라‘입니다. 그리고 지금 하늘은 우리가 지배합니다. 우리의 현대화되고 강화된 공군과 함께라면, 우리는 높은 고도를 항상 완벽하게 장악 할 수 있을 겁니다.“
 
-GRE_evaluate_navy:0 "Polemikó Naftikó"
-GRE_evaluate_navy_desc:0 "The Greek navy is divided over the future of her shipbuilding. Some favour the construction of a large and ambitious navy in order to match the prestige of other powers, while others propose a smaller and more efficient navy built for the purposes of controlling our local waters."
-GRE_efficient_navy:0 "An Efficient Navy"
-GRE_efficient_navy_desc:0 "Our navy must focus on efficiency, controlling the Aegean is more important than making flashy excursions across the world."
-GRE_sub_focus:0 "Mediterranean Subs"
-GRE_sub_focus_desc:0 "Submarines allow us to strike without warning to damage enemy shipping and deal swift blows to warships. Investing in their development is vital to naval success."
-GRE_destroyer_focus:0 "Expand Destroyer Research"
-GRE_destroyer_focus_desc:0 "Screen ships are vital for any navy, as are ships specialised for anti-submarine warfare. Thankfully destroyers suit both purposes just fine and will be just what we need for our naval supremacy."
-GRE_naval_command:0 "Advance Naval Command"
-GRE_naval_command_desc:0 "Our naval commanders are the backbone of our navy. Let us ensure they are the best we have available, trained by the finest academies from across the world."
-GRE_ambitious_navy:0 "An Ambitious Navy"
-GRE_ambitious_navy_desc:0 "Our navy must be the greatest there has ever been. Mighty ships will win battles in the Mediterranean that a smaller navy could only run from."
-GRE_purchase_ships:0 "Shipbuilding Program"
-GRE_purchase_ships_desc:0 "Any navy worth its salt needs more than just subs and destroyers to be truly respected. It's time to dig deep and get our dockyards producing some ships we can be truly proud of."
-GRE_athens_shipyard:0 "Expand Athens Shipyard"
-GRE_athens_shipyard_desc:0 "Greece has a proud history of shipbuilding - let us expand it even further, to allow us to build a navy which far outpaces that which a country our size would normally possess."
-GRE_update_navy:0 "Update Navy Technology"
-GRE_update_navy_desc:0 "It does not help us much to have a larger navy if our ships do not keep pace with modern technology."
-GRE_merchant_marine:0 "Growing the Merchant Marine"
-GRE_merchant_marine_desc:0 "One of the consequences of our new commitment to the navy is the renovation of our dockyards and expansion of the shipbuilding industry. As such we have seen a growth in the merchant navy, which we may call upon if needed in order to aid our war efforts."
-GRE_hellenic_shipyards:0 "Hellenic Shipyards"
-GRE_hellenic_shipyards_desc:0 "A plan has been put in place to build the Royal Hellenic Naval Shipyard in Skaramagas, near Athens. This will be the largest shipyard of its kind in Greece, and truly put us on the naval map."
-GRE_navy_motto:0 "Méga to tis Thalássis Krátos"
-GRE_navy_motto_desc:0 "The motto of our navy means 'Great is he who has command of the sea', and have we ever had more command than we do now? Not since Salamis millennia ago has the Greek navy been so mighty or so feared."
+GRE_evaluate_navy:0 "헬레닉 해군"
+GRE_evaluate_navy_desc:0 "그리스 해군은 건함 계획에 대한 입장 차이로 분열 되어 있습니다. 일부는 거대하고 큰 해군을 건설하기를 원하고, 반대로 다른 이들은 해안가를 방비하기 위한 효율적인 해군을 건설하기 원합니다.“
+GRE_efficient_navy:0 "효율적인 해군"
+GRE_efficient_navy_desc:0 "우리 해군은 효율에 초점을 둘 것입니다. 사치스러운 해외 여행이나 다니는 해군보다 에게해를 지키는 것이 더 중요합니다.“
+GRE_sub_focus:0 "지중해 잠수함"
+GRE_sub_focus_desc:0 "잠수함은 경고 없이 적 함선을 공격 할 수 있고 바다 아래로 잠수하며 다닐 수 있죠. 잠수함에 투자하는 것이 해군의 중요한 열쇠입니다.“
+GRE_destroyer_focus:0 "구축함 연구 확대"
+GRE_destroyer_focus_desc:0 "보조함들은 어느 해군에서도 대 잠수함 작전에서 있어서 중요한 요소입니다. 그리고 구축함은 우리의 목적에도 부합하며 훗날의 우리의 해군 패권 확보에도 필요할 것입니다.“
+GRE_naval_command:0 "진보된 해군 지취 체제"
+GRE_naval_command_desc:0 "우리 해군 지휘관들은 해군의 척추입니다. 따라서 그들이 최고의 선택을 하도록 보장해야 하기 위해 우리는 그들을 전 세계에서도 최고의 사관학교에서 훈련 시켜야 합니다.“
+GRE_ambitious_navy:0 "거대한 해군"
+GRE_ambitious_navy_desc:0 "우리의 해군은 반드시 강력한 해군을 보유해야 합니다. 강력한 배만이 지중해를 장악하는 해전에서 적을 상대로 승리를 거둘 수 있기 때문이죠.“
+GRE_purchase_ships:0 "건함 계획"
+GRE_purchase_ships_desc:0 "어떤 해군도 구축함과 잠수함만 가지고는 상대를 위협 할 수 없습니다. 지금은 진정으로 조선소에서 강력한 전투함을 생산할 시간입니다.“
+GRE_athens_shipyard:0 "아테네 조선소 확장"
+GRE_athens_shipyard_desc:0 "그리스는 역사적으로 자랑스러운 조선소를 가지고 있었습니다. 이제 이러한 역사를 계속 될 것입니다. 이제 해군을 건설하기 위해서 평상시의 조선소가 만드는 것보다 더 큰 배를 만들기 위하여 조선소를 더 확장할 필요가 있습니다.“  
+GRE_update_navy:0 "해군 기술 항상"
+GRE_update_navy_desc:0 "만약 우리 전투함에 현대적 기술이 없다면, 강력하고 큰 해군도 그렇게 도움이 되지 않을 것입니다.“
+GRE_merchant_marine:0 "화물선단 증대"
+GRE_merchant_marine_desc:0 "해군을 위해 우리가 실행 할 한 가지 일은 우리의 항구와 조선 산업을 확장하고 개선하는 것입니다. 이를 위해 필요하면 우리가 호출할 때 해군을 보조할 상선을 늘릴 필요가 있습니다.“
+GRE_hellenic_shipyards:0 "헬레닉 조선소"
+GRE_hellenic_shipyards_desc:0 “헬레닉 해군 조선소를 아테네 근처의 산토리니에 건설하자는 안건이 올라왔습니다. 이것은 그리스의 가장 큰 조선소가 될 것이고 향후 해군 계획에 큰 도움이 될 것입니다.”
+GRE_navy_motto:0 "바다를 통제하는 자가 위대하다"
+GRE_navy_motto_desc:0 "우리 해군의 모토는 바다를 통제하는 자가 위대하다입니다. 그리고 지금 그리스 해군은 마치 수천 년 전의 살라미스 때처럼 강력하고 공포러운 존재가 되었습니다. 누가 이제 바다를 통제 할 수 있을까요?“
 
-GRE_ready_masses:0 "Ready the Masses"
-GRE_ready_masses_desc:0 "A call must go out to the people, to have them ready for the war to come - but we must time this carefully. We can only maintain this level of preparation for a year, so the call must be made as close to the actual war as we can make it."
-GRE_fortify_north:0 "Fortify the North"
-GRE_fortify_north_desc:0 "A good offence is important, but just as important is a good defence: a line of fortifications across our northern border will lessen any chance of our enemies taking the battle into Greece itself."
-GRE_fortify_salonika:0 "Fortify Salonika"
-GRE_fortify_salonika_desc:0 "Salonika is an enclave that we must protect: it is too valuable to leave undefended and unfortified."
-GRE_fight_for_north:0 "The Battle for Macedonia"
-GRE_fight_for_north_desc:0 "We have made contact with Greeks living in the north under foreign rule - the time has come to liberate all of Macedonia!"
-GRE_diplomacy_focus:0 "A Diplomatic Path"
-GRE_diplomacy_focus_desc:0 "We have made attempts before to expand our rule beyond Greece's traditional borders, but each time it has brought us to ruin. It's true that we must liberate Greeks still living under Turkish rule...but we should pursue a path of diplomacy rather than warfare, for all our sakes."
-GRE_turkish_thaw:0 "Turkish Thaw"
-GRE_turkish_thaw_desc:0 "The idea may be anathema to some, but we can work with the Turks. We have to try."
-GRE_turkish_cooperation:0 "Cooperation with the Turks"
-GRE_turkish_cooperation_desc:0 "The Turks have indicated they are willing to talk. Now is the time to pursue a treaty of non-aggression and cooperation, and ideally work towards an exchange of population: let us bring Greeks living under the Turks back to our country, and send the Turks living here back to theirs. It will be difficult in the short term, but in the long term it will be better for us both."
-GRE_balkans_trade:0 "Balkans Cooperation"
-GRE_balkans_trade_desc:0 "We should expand our mutual cooperation with the Balkan neighbours to our north. It is a way to ensure we enjoy greater investment in Greece, but hopefully will also be a way to promote peace in a region that has traditionally seen nothing but warfare."
-GRE_new_markets:0 "Expand into New Markets"
-GRE_new_markets_desc:0 "One benefit of a diplomatic path will be the ability to seek out new markets for Greek goods in places which have not traditionally been receptive to us. Diplomacy is the path to prosperity, and the time has come to prove this true."
-GRE_new_expansionism:0 "New Expansionism"
-GRE_new_expansionism_desc:0 "We have successfully liberated some of the Greeks living under foreign rule, but our job is not yet done. Greece must become stronger yet, and push itself onto a path which will see our ambitions finally realized."
-GRE_reclaiming_greeks:0 "Reclaiming our People"
-GRE_reclaiming_greeks_desc:0 "We were forced to relinquish claims to several parts of Greece after our defeat in the Weltkrieg. Let us now reverse that injustice."
-GRE_megali_idea:0 "Resurrecting Megali"
-GRE_megali_idea_desc:0 "The Megali Idea has been around since the 19th century, and it consists of this: that there are over 2 million Greeks living within Turkish borders, and they rightfully belong under Greek rule. Some may see this as revanchist and dangerous, but we cannot simply abandon our brethren to their fates."
-GRE_motivate_army:0 "Motivate the Army"
-GRE_motivate_army_desc:0 "If we are to retake our claimed land in Anatolia, we must motivate our army and prepare them for the battles surely to come."
-GRE_war_industry:0 "Expanding War Industry"
-GRE_war_industry_desc:0 "It will be costly, but we must push the Greek armament industry further than it was ever thought possible to go. Our army needs weapons and bullets, and Greek factories will provide them."
-GRE_is_whole:0 "Greece is Whole"
-GRE_is_whole_desc:0 "Finally Greece is whole once more. Let all our people rejoice, now that the injustices of the Weltkrieg and our centuries of rule under the Turks has finally been undone."
-GRE_ascendant:0 "Greece Ascendant"
-GRE_ascendant_desc:0 "The Greek nation has become a world power, a dream which was once thought impossible after our war for independence. Truly we have been reborn, our history finally reclaimed!"
+GRE_ready_masses:0 “동원 준비"
+GRE_ready_masses_desc:0 "다가 올 전쟁의 준비를 위해 시민들을 호출해야 합니다. 하지만 신중하게 결정하십죠. 우리는 이런 체제를 몇 년 동안 밖에 유지를 못하기 때문에, 전쟁이 진짜로 다가올 때만 동원 준비를 해야 합니다.“
+GRE_fortify_north:0 "북부 요새화"
+GRE_fortify_north_desc:0 "좋은 공격도 중요하지만, 좋은 방어 역시 중요합니다. 우리 북부 국경선 곳곳을 요새화 하여 그리스로 들어오는 적들에게 큰 교훈을 얻게 할 것입니다.“
+GRE_fortify_salonika:0 "테살로니카 요새화"
+GRE_fortify_salonika_desc:0 "테살로니카는 우리가 보호해야 하는 고립된 도시입니다. 이 도시를 포기하기에는 너무나 가치가 큽니다.“
+GRE_fight_for_north:0 "마케도니아를 위한 전쟁"
+GRE_fight_for_north_desc:0 "우리는 외국의 지배를 받는 북부의 그리스인들을 구원해야 합니다. 지금이 마케도니아를 해방할 시기입니다.“
+GRE_diplomacy_focus:0 "외교적 방법"
+GRE_diplomacy_focus_desc:0 "우리는 이전에 우리의 전통적인 국경선을 넘어서 확장을 시대했지만, 그 때마다 실패했습니다. 우리는 터키에 사는 그리스인들을 해방시켜야 하겠지만..... 그러나 우리 모두를 위해 전쟁보다는 외교적인 방법을 모색할 때입니다.“
+GRE_turkish_thaw:0 "터키와의 관계 개선"
+GRE_turkish_thaw_desc:0 "이 아이디어는 일부 사람들이 혐오할지 모릅니다. 그러나 우리는 터키와 함께 일하도록 노력해야 합니다.“
+GRE_turkish_cooperation:0 "터키와의 협상"
+GRE_turkish_cooperation_desc:0 "터키는 대화를 위해 참석했습니다. 지금은 평화와 협적의 조약을 채결할 시간이고, 그를 위해 우리는 인구를 교환 할 것입니다. 그리스에 사는 터키인은 터키에, 터키에 사는 그리스인들은 그리스에, 이것은 단기간에 끝나지 않겠지만 장기적으로는 서로에게 이득일 될 것입니다."
+GRE_balkans_trade:0 "발칸 공영권"
+GRE_balkans_trade_desc:0 "우리는 발칸에 있는 북부 형제들과 함께 다방면의 협력을 할 필요가 있습니다. 이것만이 그리스에 거대한 투자를 유인 할 수 있을 것입니다. 그러나 그를 위해서는 전통적으로 분쟁 지역인 곳에 지역적 평화를 촉진할 필요가 있을 것입니다.“
+GRE_new_markets:0 "새로운 시장으로 확장"
+GRE_new_markets_desc:0 "외교적인 방법의 한 가지 이익은 평화 속에서 원래 접근할 수 없었던 새로운 시장에 판매하게 해준 다는 것입니다. 외교는 번영의 길이며 우리는 그것을 입증 할 것입니다.“
+GRE_new_expansionism:0 "새로운 확장주의"
+GRE_new_expansionism_desc:0 "우리는 외국의 지배 아래 있는 그리스인들을 해방시켰습니다. 그러나 이것인 끝이 아닙니다. 오직 우리의 야망을 현실화 하는 것만이 우리를 강하게 만들어 줄 것입니다.“
+GRE_reclaiming_greeks:0 "우리의 영토를 재주장하다."
+GRE_reclaiming_greeks_desc:0 "우리는 대 전쟁에서의 패배 이후, 포기했던 몇몇 그리스 지역에 대한 영유권을 포기할 것을 강요 당했습니다. 이제 우리는 우리의 정당한 요구를 다시 주장할 시간입니다.“
+GRE_megali_idea:0 "위대한 이상의 부활"
+GRE_megali_idea_desc:0 "위대한 이상은 19세기부터 시작되었습니다. 200만명이 넘는 그리스인들이 터키 국경 안에서 살고 있으며, 우리는 그 지역을 정당한 그리스의 통치 아래 살게 해야 한다는 것입니다. 일부는 이것이 보복주의고 너무 위험하다고 보지만, 그러나 우리의 형제를 터키인들의 손에 맡길 수는 없습니다.“
+GRE_motivate_army:0 "군대에 동기를 주다"
+GRE_motivate_army_desc:0 "만약 아나톨리아에서의 우리의 영토를 되찾기 원한다면, 우리는 우리 군대에게 동기를 부여하고 다가올 전쟁에 대해 준비해야 합니다.“"
+GRE_war_industry:0 "군수 산업 확장"
+GRE_war_industry_desc:0 "위대한 이상은 가까워졌지만, 그리스의 군수산업은 우리가 원하는 것에 비해 뒤쳐져 있습니다. 우리는 더 많은 무기와 탄약을 원합니다. 따라서 그리스 공장들은 이러한 것들을 제공해야 합니다.“ 
+GRE_is_whole:0 “그리스인이 하나가 되다"
+GRE_is_whole_desc:0 "마침내 그리스인들이 하나가 되었습니다. 이제 불공정한 대 전쟁에서 우리 국가가 벗어났고 터키인의 지배로부터 해방되었기 때문에 우리 민족이 환호하고 있죠.“
+GRE_ascendant:0 "그리스의 승천"
+GRE_ascendant_desc:0 "독립 전쟁 이래로 그리스 민족은 이제 놀랍지만 세계적인 열강이 되었습니다. 진정으로 우리는 새롭게 되었습니다. 우리의 역사를 마침내 되찾을 수 있게 되었습니다.“ 
 
 ### Decisions
-GRE_leave_balkan_pact:0 "Leave the Balkan Pact"
-GRE_leave_balkan_pact_desc:0 "We got what we wanted from this alliance. Now it is time to strike out on our own before they drag us into wars we have no interest in."
-GRE_join_internationale:0 "Join the Internationale"
-GRE_join_internationale_desc:0 "There is only one alliance that can help us find security, and that is the Internationale. The time has come to join the world revolution!"
-GRE_join_entente:0 "Rejoin the Entente"
-GRE_join_entente_desc:0 "The time has come to resurrect the old alliance with the British Empire and join the Entente once again. Hopefully, things go better than in the Weltkrieg."
-GRE_join_reichspakt:0 "Join the Reichspakt"
-GRE_join_reichspakt_desc:0 "While some express reservations about joining the very country who defeated us in the Weltkrieg, others recognize this may be a necessary alliance to ensure our security and survival."
-GRE_regaining_greece:0 "Regaining Greece"
-GRE_megali_war:0 "March for Megali"
+GRE_leave_balkan_pact:0 "발칸 조약에서 탈퇴"
+GRE_leave_balkan_pact_desc:0 "우리는 우리의 동맹으로부터 원하는 것을 얻었습니다. 지금은 우리에게 별 이익이 되지 않는 전쟁에 휘말리기 전에 동맹에서 나와야 합니다.“
+GRE_join_internationale:0 "인터네셔널에 가입"
+GRE_join_internationale_desc:0 "하나의 동맹만이 우리를 안전하게 할 것입니다. 바로 인터네셔널이죠. 지금은 세계 혁명에 동참할 시간입니다.“
+
+GRE_join_entente:0 "협상국에 재가입"
+GRE_join_entente_desc:0 "지금은 오래된 동맹인 대영제국과 그 동맹인 협상국에 가입할 시간입니다. 그들이 전 대전보다는 나아지기를 희망해야 하겠죠.“
+GRE_join_reichspakt:0 "제국 조약에 가입"
+GRE_join_reichspakt_desc:0 "일부 사람들은 우리를 대전쟁때 패배시킨 국가의 동맹에 가입하는 것에 불만을 표출하지만, 다른 사람들은 이것이 우리의 안전과 생존에 꼭 필요하다고 강조하고 있습니다.
+GRE_regaining_greece:0 "그리스를 되찾다"
+GRE_megali_war:0 "위대한 이상을 위한 행진"
 GRE_megali_war_desc:0 "The time to recover the [From.GetAdjective] lands which rightfully belong to [GRE.GetNameDef] has arrived!"
-GRE_megali_make_peace:0 "Sue for Peace with [From.GetNameDef]"
+GRE_megali_make_peace:0 "평화 협정 with [From.GetNameDef]"
 GRE_megali_make_peace_desc:0 "We have humbled the Turks enough. It is time to contact the [From.GetAdjective] government and talk terms of their surrender."
-GRE_non_megali_make_peace:0 "Sue for Peace with [From.GetNameDef]"
+GRE_non_megali_make_peace:0 "평화 협정 with [From.GetNameDef]"
 GRE_non_megali_make_peace_desc:0 "We have humbled the Turks enough. It is time to contact the [From.GetAdjective] government and talk terms of their surrender."
-GRE_core_east_macedonia:0 "Restore Order in Eastern Macedonia"
+GRE_core_east_macedonia:0 "동부 마케도니아의 질서 회복“
 GRE_core_east_macedonia_desc:0 "Now that we have liberated Eastern Macedonia, it is time to restore order to the state and integrate it fully into [GRE.GetNameDef]."
-GRE_core_thrace:0 "Restore Order in Thrace"
+GRE_core_thrace:0 "트라케의 질서 회복"
 GRE_core_thrace_desc:0 "Now that we have liberated Thrace, it is time to restore order to the state and integrate it fully into [GRE.GetNameDef]."
-GRE_core_dodecanese:0 "Restore Order in the Dodecanese Islands"
+GRE_core_dodecanese:0 "도데카니즈 제도의 질서 회복"
 GRE_core_dodecanese_desc:0 "Now that we have liberated the Dodecanese Islands, it is time to restore order to the state and integrate them fully into [GRE.GetNameDef]."
-GRE_core_north_epirus:0 "Restore Order in Northern Epirus"
+GRE_core_north_epirus:0 "북부 에피로스의 질서 회복“
 GRE_core_north_epirus_desc:0 "Now that we have liberated Northern Epirus, it is time to restore order to the state and integrate it fully into [GRE.GetNameDef]."
-GRE_core_cyprus:0 "Restore Order in Cyprus"
+GRE_core_cyprus:0 "키프로스의 질서 회복"
 GRE_core_cyprus_desc:0 "Now that we have liberated Cyprus, it is time to restore order to the state and integrate it fully into [GRE.GetNameDef]."
-GRE_core_gallipoli:0 "Restore Order in Gallipoli"
+GRE_core_gallipoli:0 "갈리폴리의 질서 회복"
 GRE_core_gallipoli_desc:0 "Now that we have liberated Gallipoli, it is time to restore order to the state and integrate it fully into [GRE.GetNameDef]."
-GRE_core_edirne:0 "Restore Order in Eastern Thrace"
+GRE_core_edirne:0 "동부 트라케의 질서 회복"
 GRE_core_edirne_desc:0 "Now that we have liberated Eastern Thrace, it is time to restore order to the state and integrate it fully into [GRE.GetNameDef]."
-GRE_core_constantinople:0 "Restore Order in Constantinople"
+
+GRE_core_constantinople:0 "콘스탄티노플의 질서 회복"
 GRE_core_constantinople_desc:0 "Now that we have liberated Constantinople, it is time to restore order to the state and integrate it fully into [GRE.GetNameDef]."
-GRE_nationalize_german_industry:0 "Nationalize German Industry"
-GRE_nationalize_german_industry_desc:0 "Now that the economic crisis has passed and we are in a better position, it is time to consider buying out the German investors who have a stranglehold on so much of the Greek economy."
-GRE_nationalize_austrian_industry:0 "Nationalize Austrian Industry"
-GRE_nationalize_austrian_industry_desc:0 "Now that the economic crisis has passed and we are in a better position, it is time to consider buying out the Austrian investors who have a stranglehold on so much of the Greek economy."
-GRE_shipbuilding_program_1:0 "Begin Naval Program"
-GRE_shipbuilding_program_1_desc:0 "Through a combination of funding our own dockyards and licensing the dockyards of other countries, we can expand our fleet - a few of the ships might be a bit older, yes, but this is a far quicker way of acquiring this many ships than would otherwise be possible."
-GRE_shipbuilding_program_2:0 "Continue Naval Program"
-GRE_shipbuilding_program_2_desc:0 "Through a combination of funding our own dockyards and licensing the dockyards of other countries, we can expand our fleet - a few of the ships might be a bit older, yes, but this is a far quicker way of acquiring this many ships than would otherwise be possible."
-GRE_shipbuilding_program_3:0 "Complete Naval Program"
-GRE_shipbuilding_program_3_desc:0 "Through a combination of funding our own dockyards and licensing the dockyards of other countries, we can expand our fleet - a few of the ships might be a bit older, yes, but this is a far quicker way of acquiring this many ships than would otherwise be possible."
-GRE_deploy_new_ships:0 "Deploy New Ships"
-GRE_deploy_new_ships_desc:0 "We have brand new ships waiting to be deployed at the port of Athens with a new crew. Méga tó tís thalássis krátos!"
-GRE_balkans_mission:0 "Improve Balkans Co-operation"
+GRE_nationalize_german_industry:0 “독일 산업 국유화"
+GRE_nationalize_german_industry_desc:0 "경제 위기를 넘기고 우리가 나은 위치에 섰기 때문에, 이제 그리스 경제에 큰 영향력을 행사하는 독일 투자자로부터 우리 산업을 구매하는걸 고려할 때입니다.“ 
+GRE_nationalize_austrian_industry:0 "오스트리아 산업 국유화"
+GRE_nationalize_austrian_industry_desc:0 "경제 위기를 넘기고 우리가 나은 위치에 섰기 때문에, 이제 그리스 경제에 큰 영향력을 행사하는 오스트리아 투자자로부터 우리 산업을 구매하는걸 고려할 때입니다.“ 
+GRE_shipbuilding_program_1:0 "건함 계획 시작"
+GRE_shipbuilding_program_1_desc:0 "우리가 가진 조선소와 다른 국가의 조선소의 결합을 통하여, 우리는 우리 해군을 키울 수 있습니다. 물론 배들 중 일부는 문제가 생길지 몰라도, 이것이 빠르게 많은 전투함을 확보 하기 위한 유일한 방법입니다.“
+GRE_shipbuilding_program_2:0 “건함 계획 지속"
+GRE_shipbuilding_program_2_desc:0 "우리가 가진 조선소와 다른 국가의 조선소의 결합을 통하여, 우리는 우리 해군을 키울 수 있습니다. 물론 배들 중 일부는 문제가 생길지 몰라도, 이것이 빠르게 많은 전투함을 확보 하기 위한 유일한 방법입니다.“
+GRE_shipbuilding_program_3:0 "건함 계획 완료“
+GRE_shipbuilding_program_3_desc:0 "우리가 가진 조선소와 다른 국가의 조선소의 결합을 통하여, 우리는 우리 해군을 키울 수 있습니다. 물론 배들 중 일부는 문제가 생길지 몰라도, 이것이 빠르게 많은 전투함을 확보 하기 위한 유일한 방법입니다.“
+GRE_deploy_new_ships:0 "새로운 함선 배치"
+GRE_deploy_new_ships_desc:0 "이제 새로운 배들이 아테네 항구에서 선원들과 함께 배치되기를 기다리고 있습니다. Méga tó tís thalássis krátos!"
+GRE_balkans_mission:0 "발칸 공영권 항상"
 GRE_balkans_mission_desc:0 "Our relations with [From.GetNameDef] are decent enough that we should consider sending a mission to their government to foster greater cooperation between our countries."
 
 ### Events
