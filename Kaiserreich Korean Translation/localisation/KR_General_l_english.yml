@@ -156,7 +156,7 @@ market_liberal:0 "시장자유주의"
 social_conservative:0 "사회보수주의"
 authoritarian_democrat:0 "권위민주주의"
 paternal_autocrat:0 "세습전제주의"
-national_populist:0 "포퓰리즘"
+national_populist:0 "민족대중주의"
 social_liberal:0 "사회자유주의"
 
 ### Drift ###
@@ -168,7 +168,7 @@ market_liberal_drift:0 "매일 시장자유주의 지원"
 social_conservative_drift:0 "매일 사회보수주의 지원"
 authoritarian_democrat_drift:0 "매일 권위민주주의 지원"
 paternal_autocrat_drift:0 "매일 세습전제주의 지원"
-national_populist_drift:0 "매일 포퓰리즘 지원"
+national_populist_drift:0 "매일 민족대중주의 지원"
 social_liberal_drift:0 "매일 사회자유주의 지원"
 
 ### Banned ###
@@ -180,7 +180,7 @@ market_liberal_banned:0 "시장자유주의 금지됨"
 social_conservative_banned:0 "사회보수주의 금지됨"
 authoritarian_democrat_banned:0 "권위민주주의 금지됨"
 paternal_autocrat_banned:0 "세습전제주의 금지됨"
-national_populist_banned:0 "포퓰리즘 금지됨"
+national_populist_banned:0 "민족대중주의 금지됨"
 social_liberal_banned:0 "사회자유주의 금지됨"
 
 ### Company Traits ###
