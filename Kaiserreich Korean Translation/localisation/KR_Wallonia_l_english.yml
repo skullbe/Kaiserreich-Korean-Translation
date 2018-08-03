@@ -1,24 +1,24 @@
-﻿l_english:
+l_english:
 
 ### Parties ###
 WLL_social_conservative_party:0 "DC"
-WLL_social_conservative_party_long:0 "Démocrates Chrétiens"
+WLL_social_conservative_party_long:0 "기독교 민주연합"
 WLL_market_liberal_party:0 "PL"
-WLL_market_liberal_party_long:0 "Parti Liberal"
+WLL_market_liberal_party_long:0 "자유당"
 WLL_social_democrat_party:0 "POB"
-WLL_social_democrat_party_long:0 "Parti Ouvrier Belge"
+WLL_social_democrat_party_long:0 "벨기에 노동당"
 WLL_social_liberal_party:0 "PLP"
-WLL_social_liberal_party_long:0 "Parti Liberal Progressive"
+WLL_social_liberal_party_long:0 "자유진보당"
 WLL_syndicalist_party:0 "POB"
-WLL_syndicalist_party_long:0 "Parti Ouvrier Belge"
+WLL_syndicalist_party_long:0 "벨기에 노동당"
 WLL_totalist_party:0 "PTW"
-WLL_totalist_party_long:0 "Parti Totalitaire de Wallonie"
+WLL_totalist_party_long:0 "발로니에 전체주의당"
 WLL_national_populist_party:0 "REX"
 WLL_national_populist_party_long:0 "REX"
 WLL_paternal_autocrat_party:0 "REX"
 WLL_paternal_autocrat_party_long:0 "REX"
-WLL_authoritarian_democrat_party_long:0 "Royalists"
-WLL_authoritarian_democrat_party:0 "Supporters of the King"
+WLL_authoritarian_democrat_party_long:0 "왕당파"
+WLL_authoritarian_democrat_party:0 "국왕 지지파"
 
 ### Tooltips ###
 
@@ -34,8 +34,8 @@ LIB_VIC:0 "PL Victory"
 SOC_PRES:0 "Fernand Dehousse leads the POB"
 SYND_CHAIR:0 "Lucie Dujardin leads the POB"
 
-wll.CON.tt:0 "\n §GOur choice of Government will directly influence our Constitution §! \n\n"
-wll.GOV.tt:0 "\n §GOur Government will be decided by our choice of Coalition Partner §! \n\n"
+wll.CON.tt:0 "\n §GOur choice of Government will directly influence our Constitution §!\n\n"
+wll.GOV.tt:0 "\n §GOur Government will be decided by our choice of Coalition Partner §!\n\n"
 
 Georges_Prosper_Remi:0 "Georges Prosper Remi"
 
