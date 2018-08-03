@@ -1,109 +1,109 @@
 l_english:
- ST:0 "등"
- ND:0 "등"
- RD:0 "등"
- TH:0 "등"
- WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
- CIVIL_WAR_NAME:0 "$ORDER$$SECOND$ 내전"
- WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$의 $STATE$ 탈환전쟁"
- WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$의 $STATE$ 침략전쟁"
- KR_separate_peace:0 "현재의 모든 전쟁에서 떨어져나갈 것입니다\n"
 
- ### 2nd American Civil War ###
- WAR_NAME_CSA_USA:0 "2차 미국내전: 생디칼-연방 전쟁"
- WAR_NAME_USA_CSA:0 "2차 미국내전: 생디칼-연방 전쟁"
- WAR_NAME_TEX_USA:0 "2차 미국내전: 연방-연합 전쟁"
- WAR_NAME_USA_TEX:0 "2차 미국내전: 연방-연합 전쟁"
- WAR_NAME_CAL_USA:0 "2차 미국내전: 태평양-연방 전쟁"
- WAR_NAME_USA_CAL:0 "2차 미국내전: 태평양-연방 전쟁"
- WAR_NAME_CAL_CSA:0 "2차 미국내전: 태평양-생디칼 전쟁"
- WAR_NAME_CSA_CAL:0 "2차 미국내전: 태평양-생디칼 전쟁"
- WAR_NAME_TEX_CSA:0 "2차 미국내전: 연합-생디칼 전쟁"
- WAR_NAME_CSA_TEX:0 "2차 미국내전: 연합-생디칼 전쟁"
- WAR_NAME_CAL_TEX:0 "2차 미국내전: 태평양-연합 전쟁"
- WAR_NAME_TEX_CAL:0 "2차 미국내전: 태평양-연합 전쟁"
+ST:0 "등"
+ND:0 "등"
+RD:0 "등"
+TH:0 "등"
+WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
+CIVIL_WAR_NAME:0 "$ORDER$$SECOND$ 내전"
+WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$의 $STATE$ 수복 전쟁"
+WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$의 $STATE$ 침략 전쟁"
+KR_separate_peace:0 "모든 전쟁을 내려놓게 될 것입니다\n"
 
- ### Romanian Civil War ###
- WAR_NAME_ROM_RRM:0 "$ORDER$$SECOND$ 내전"
- WAR_NAME_RRM_ROM:0 "$ORDER$$SECOND$ 내전"
+### 2nd American Civil War ###
+WAR_NAME_CSA_USA:0 "2차 미국내전: 생디칼-연방 전쟁"
+WAR_NAME_USA_CSA:0 "2차 미국내전: 생디칼-연방 전쟁"
+WAR_NAME_TEX_USA:0 "2차 미국내전: 연맹-연방 전쟁"
+WAR_NAME_USA_TEX:0 "2차 미국내전: 연맹-연방 전쟁"
+WAR_NAME_CAL_USA:0 "2차 미국내전: 태평양-연방 전쟁"
+WAR_NAME_USA_CAL:0 "2차 미국내전: 태평양-연방 전쟁"
+WAR_NAME_CAL_CSA:0 "2차 미국내전: 태평양-생디칼 전쟁"
+WAR_NAME_CSA_CAL:0 "2차 미국내전: 태평양-생디칼 전쟁"
+WAR_NAME_TEX_CSA:0 "2차 미국내전: 연맹-생디칼 전쟁"
+WAR_NAME_CSA_TEX:0 "2차 미국내전: 연맹-생디칼 전쟁"
+WAR_NAME_CAL_TEX:0 "2차 미국내전: 태평양-연맹 전쟁"
+WAR_NAME_TEX_CAL:0 "2차 미국내전: 태평양-연맹 전쟁"
 
- ### Spanish Civil War ###
- WAR_NAME_SPR_CAR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_CAR_SPR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_SPR_CNT:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_CNT_SPR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_CAR_CNT:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_CNT_CAR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+### Romanian Civil War ###
+WAR_NAME_ROM_RRM:0 "$ORDER$$SECOND$ 내전"
+WAR_NAME_RRM_ROM:0 "$ORDER$$SECOND$ 내전"
 
- ### 2nd Mexican-American War ###
- WAR_NAME_USA_MEX:0 "2차 $ORDER$$SECOND$-$FIRST$ 전쟁"
- WAR_NAME_MEX_USA:0 "2차 $ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_CAL_MEX:0 "$ORDER$$FIRST$-태평양 전쟁"
- WAR_NAME_MEX_CAL:0 "$ORDER$$FIRST$-태평양 전쟁"
- WAR_TAKE_CLAIM_MEX_USA:0 "$ORDER$$FIRST$의 $STATE$ 침략전쟁"
- WAR_TAKE_CORE_MEX_USA:0 "$ORDER$$FIRST$의 $STATE$ 재탈환전쟁"
+### Spanish Civil War ###
+WAR_NAME_SPR_CAR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_CAR_SPR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_SPR_CNT:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_CNT_SPR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_CAR_CNT:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_CNT_CAR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
 
- ### Entente-Internationale Wars ###
- WAR_NAME_CAN_ENG:0 "영국 본토 탈환 전쟁"
- WAR_NAME_ENG_CAN:0 "협상국-인터네셔널 전쟁"
- WAR_NAME_NFA_FRA:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_FRA_NFA:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
+### 2nd Mexican-American War ###
+WAR_NAME_USA_MEX:0 "2차 $ORDER$$SECOND$-$FIRST$ 전쟁"
+WAR_NAME_MEX_USA:0 "2차 $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_CAL_MEX:0 "$ORDER$$FIRST$-태평양 전쟁"
+WAR_NAME_MEX_CAL:0 "$ORDER$$FIRST$-태평양 전쟁"
+WAR_TAKE_CLAIM_MEX_USA:0 "$ORDER$$FIRST$의 $STATE$ 침략 전쟁"
+WAR_TAKE_CORE_MEX_USA:0 "$ORDER$$FIRST$의 $STATE$ 수복 전쟁"
 
- ### 2nd Russian Civil War ###
- WAR_NAME_RUS_SOV:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_SOV_RUS:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_RUS_SIB:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_SIB_RUS:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_SOV_SIB:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
- WAR_NAME_SIB_SOV:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+### Entente-Internationale Wars ###
+WAR_NAME_CAN_ENG:0 "본토 수복"
+WAR_NAME_ENG_CAN:0 "협상국-인터내셔널 전쟁"
+WAR_NAME_NFA_FRA:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_FRA_NFA:0 "$ORDER$$FIRST$-$SECOND$ 전쟁"
 
- ### The Second Weltkrieg ###
- WAR_NAME_GER_FRA:0 "제 2차 세계 대전"
- WAR_NAME_FRA_GER:0 "제 2차 세계 대전"
+### 2nd Russian Civil War ###
+WAR_NAME_RUS_SOV:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_SOV_RUS:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_RUS_SIB:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_SIB_RUS:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_SOV_SIB:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_SIB_SOV:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
 
- ### 2nd Russo-Japanese War ###
- WAR_NAME_RUS_JAP:0 "2차 러시아-$ORDER$$SECOND$ 전쟁"
- WAR_NAME_JAP_RUS:0 "2차 러시아-$ORDER$$FIRST$ 전쟁"
+### The Second Weltkrieg ###
+WAR_NAME_GER_FRA:0 "제 2차 세계대전"
+WAR_NAME_FRA_GER:0 "제 2차 세계대전"
 
- ### Kurdish Uprising ###
- WAR_NAME_OTT_KUR:0 "$ORDER$$SECOND$ 봉기"
- WAR_NAME_KUR_OTT:0 "$ORDER$$FIRST$ 독립전쟁"
+### 2nd Russo-Japanese War ###
+WAR_NAME_RUS_JAP:0 "2차 러일 전쟁"
+WAR_NAME_JAP_RUS:0 "2차 러일 전쟁"
 
- ### Mitteleuropa Revolts ###
- WAR_NAME_GER_UKR:0 "$ORDER$$SECOND$ 봉기"
- WAR_NAME_GER_WHR:0 "$ORDER$$SECOND$ 봉기"
- WAR_NAME_GER_LIT:0 "$ORDER$$SECOND$ 봉기"
- WAR_NAME_UKR_GER:0 "$ORDER$$FIRST$ 독립전쟁"
- WAR_NAME_WHR_GER:0 "$ORDER$$FIRST$ 독립전쟁"
- WAR_NAME_LIT_GER:0 "$ORDER$$FIRST$ 독립전쟁"
+### Kurdish Uprising ###
+WAR_NAME_OTT_KUR:0 "$ORDER$$SECOND$ 반란"
+WAR_NAME_KUR_OTT:0 "$ORDER$$FIRST$ 독립 전쟁"
 
- ### Indian Wars ###
- WAR_NAME_DEH_PRF:0 "협상국 하이데라바드 수복"
- WAR_NAME_DEH_BHC:0 "협상국 벵갈 수복"
- WAR_NAME_BHC_PRF:0 "바라티야 델리 해방"
- WAR_NAME_BHC_DEH:0 "바라티야 하이데라바드 해방"
- WAR_NAME_PRF_BHC:0 "왕후의 벵갈 수복"
- WAR_NAME_PRF_DEH:0 "왕후의 델리 수복"
+### The Reichspakt Revolts ###
+WAR_NAME_GER_UKR:0 "$ORDER$$SECOND$ 봉기"
+WAR_NAME_GER_WHR:0 "$ORDER$$SECOND$ 봉기"
+WAR_NAME_GER_LIT:0 "$ORDER$$SECOND$ 봉기"
+WAR_NAME_UKR_GER:0 "$ORDER$$FIRST$ 독립 전쟁"
+WAR_NAME_WHR_GER:0 "$ORDER$$FIRST$ 독립 전쟁"
+WAR_NAME_LIT_GER:0 "$ORDER$$FIRST$ 독립 전쟁"
 
- ### 37th Siamese-Burma War ###
- WAR_NAME_BUR_SIA:0 "37차 시암-버마 전쟁"
- WAR_NAME_SIA_BUR:0 "37차 시암-버마 전쟁"
+### Indian Wars ###
+WAR_NAME_DEH_PRF:0 "협상국의 하이데라바드 수복"
+WAR_NAME_DEH_BHC:0 "협상국의 벵갈 수복"
+WAR_NAME_BHC_PRF:0 "바라티야의 델리 해방"
+WAR_NAME_BHC_DEH:0 "바라티야의 하이데라바드 해방"
+WAR_NAME_PRF_BHC:0 "토후령 벵갈 수복"
+WAR_NAME_PRF_DEH:0 "토후령 델리수복"
 
- ### Peru-Ecuador War ###
- WAR_NAME_PRU_ECU:0 "파스탄자 전쟁"
- WAR_NAME_ECU_PRU:0 "파스탄자 전쟁"
+### 37th Siamese-Burma War ###
+WAR_NAME_BUR_SIA:0 "37차 시암-버마 전쟁"
+WAR_NAME_SIA_BUR:0 "37차 시암-버마 전쟁"
 
- ### Bolivia-Chile War ###
- WAR_NAME_BOL_CHL:0 "2차 태평양전"
- WAR_NAME_CHL_BOL:0 "2차 태평양전"
+### Peru-Ecuador War ###
+WAR_NAME_PRU_ECU:0 "파스탄사 전쟁"
+WAR_NAME_ECU_PRU:0 "파스탄사 전쟁"
 
- ### Ethiopian Wars ###
- WAR_NAME_ETH_ERT:0 "에리트리아 봉기"
- WAR_NAME_ERT_ETH:0 "에리트리아 독립전쟁"
- WAR_NAME_ETH_SOM:0 "오가덴 전쟁"
- WAR_NAME_SOM_ETH:0 "오가덴 전쟁"
+### Bolivia-Chile War ###
+WAR_NAME_BOL_CHL:0 "태평양 2차전"
+WAR_NAME_CHL_BOL:0 "태평양 2차전"
 
- ### Ottoman Wars ###
- WAR_NAME_LYB_OTT:0 "트리폴리타니아 독립전쟁"
- WAR_NAME_OTT_LYB:0 "트로폴리타니아 봉기"
- 
+### Ethiopian Wars ###
+WAR_NAME_ETH_ERT:0 "에리트리아 반란"
+WAR_NAME_ERT_ETH:0 "에리트리아 독립 전쟁"
+WAR_NAME_ETH_SOM:0 "오가덴 전쟁"
+WAR_NAME_SOM_ETH:0 "오가덴 전쟁"
+
+### Ottoman Wars ###
+WAR_NAME_LYB_OTT:0 "트리폴리타니아 독립 전쟁"
+WAR_NAME_OTT_LYB:0 "트리폴리타니아 봉기"
