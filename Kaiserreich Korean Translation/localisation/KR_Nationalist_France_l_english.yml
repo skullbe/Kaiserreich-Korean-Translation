@@ -1,13 +1,13 @@
 l_english:
 
 ### Parties ###
-NFA_social_democrat_party:0 "RS"
+NFA_social_democrat_party:0 "공화-사회주의당"
 NFA_social_liberal_party:0 "사회연대주의자"
 NFA_market_liberal_party:0 "급진주의자"
-NFA_social_conservative_party:0 "DRA"
+NFA_social_conservative_party:0 "공화-민주 동맹"
 NFA_authoritarian_democrat_party:0 "독립주의자"
 NFA_paternal_autocrat_party:0 "악시옹 프랑세즈"
-NFA_national_populist_party:0 "JP"
+NFA_national_populist_party:0 "청년 애국자단"
 NFA_social_democrat_party_long:0 "공화-사회주의당"
 NFA_social_liberal_party_long:0 "사회연대주의당"
 NFA_market_liberal_party_long:0 "급진당"
