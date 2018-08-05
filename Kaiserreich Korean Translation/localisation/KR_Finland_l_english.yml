@@ -1,19 +1,19 @@
 l_english:
 
 ### Parties ###
-FIN_totalist_party:0 "SSP"
+FIN_totalist_party:0 "핀란드 사회당"
 FIN_totalist_party_long:0 "핀란드 사회당"
-FIN_social_democrat_party:0 "SDP"
+FIN_social_democrat_party:0 "핀란드 사회민주당"
 FIN_social_democrat_party_long:0 "핀란드 사회민주당"
-FIN_social_liberal_party:0 "ML"
+FIN_social_liberal_party:0 "중앙당"
 FIN_social_liberal_party_long:0 "중앙당"
-FIN_market_liberal_party:0 "Ed."
+FIN_market_liberal_party:0 "국민진보당"
 FIN_market_liberal_party_long:0 "국민진보당"
-FIN_social_conservative_party:0 "Kok."
+FIN_social_conservative_party:0 "국민연합당"
 FIN_social_conservative_party_long:0 "국민연합당"
-FIN_paternal_autocrat_party:0 "IKL"
+FIN_paternal_autocrat_party:0 "애국자 운동"
 FIN_paternal_autocrat_party_long:0 "애국자 운동"
-FIN_national_populist_party:0 "SR"
+FIN_national_populist_party:0 "청십자당"
 FIN_national_populist_party_long:0 "청십자당"
 
 ### Events ###
