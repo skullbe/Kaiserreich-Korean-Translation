@@ -1,15 +1,15 @@
 l_english:
 
 ### Parties ###
-CRO_totalist_party:0 "SSH"
-CRO_radical_socialist_party:0 "SPH"
-CRO_syndicalist_party:0 "NRPH"
-CRO_social_democrat_party:0 "SDSH"
-CRO_social_liberal_party:0 "SDS"
-CRO_market_liberal_party:0 "HZ"
-CRO_social_conservative_party:0 "HSS"
-CRO_authoritarian_democrat_party:0 "HPS"
-CRO_paternal_autocrat_party:0 "HSP"
+CRO_totalist_party:0 "크로아티아 생디칼리즘 연맹"
+CRO_radical_socialist_party:0 "크로아티아 생디칼리즘당"
+CRO_syndicalist_party:0 "크로아티아 독립 노동자당"
+CRO_social_democrat_party:0 "크로아티아 사회민주당"
+CRO_social_liberal_party:0 "독립민주당"
+CRO_market_liberal_party:0 "크로아티아 공동체"
+CRO_social_conservative_party:0 "크로아티아 농민당"
+CRO_authoritarian_democrat_party:0 "크로아티아 인민당"
+CRO_paternal_autocrat_party:0 "크로아티아당의 권리"
 CRO_national_populist_party:0 "우스타샤"
 CRO_totalist_party_long:0 "크로아티아 생디칼리즘 연맹"
 CRO_radical_socialist_party_long:0 "크로아티아 생디칼리즘당" #(Syndicalist Party of Croatia)
@@ -20,4 +20,4 @@ CRO_market_liberal_party_long:0 "크로아티아 공동체" #(Croatian Community
 CRO_social_conservative_party_long:0 "크로아티아 농민당" #(Croatian Peasant Party)
 CRO_authoritarian_democrat_party_long:0 "크로아티아 인민당" #(Croatian Popular Party)
 CRO_paternal_autocrat_party_long:0 "크로아티아당의 권리" #(Croatian Party of Rights)
-CRO_national_populist_party_long:0 "크로아티아 혁명 운동" #(Croatian revolutionary movement)
+CRO_national_populist_party_long:0 "우스타샤" #(Croatian revolutionary movement)
