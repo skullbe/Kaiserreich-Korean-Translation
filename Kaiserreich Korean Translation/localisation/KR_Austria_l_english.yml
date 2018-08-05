@@ -5,11 +5,11 @@ brotherhood_of_slavs:0 "슬라브 형제단"
 austrian_sphere:0 "도나우-아드리아 연맹"
 austrian_sphere_sued:0 "남동유럽"
 
-BOM_ausgleich_slovak_state:0 "슬로바키아 국가 약속"
-ILL_ausgleich_backan_claims:0 "트랜스 카르 파 티아 약속"
-GAL_ausgleich_transcarpathian_claims:0 "바치카 약속"
+BOM_ausgleich_slovak_state:0 "슬로바키아 국가를 약속"
+ILL_ausgleich_backan_claims:0 "트란스 카르파티아를 약속"
+GAL_ausgleich_transcarpathian_claims:0 "바치카를 약속"
 
-AUS_new_administration:0 "우리의 행정 재검토"
+AUS_new_administration:0 "행정 개편"
 
 ### Flags and Tooltips ###
 AUS_economy_ready_tooltip:0 "우리는 경제의 선진화를 준비해야 합니다. \n\n 이는 당연히 현재 우리에게 닥친 경제 위기를 극복해야 한다는 것을 의미합니다."
@@ -22,10 +22,10 @@ AUS_potb_bulgarian_hegemony_tooltip:0 "불가리아가 발칸 반도의 패권�
 
 AUS_a_new_Hungary:0 "헝가리는 오스트리아 제국의 구성국 중 하나입니다."
 
-AUS_syndicalist_menace_tooltip:0 "전쟁의 불길은 다시 한번 타오르고 있으며, 이탈리아에서 우리의 이익은 인터네셔널에 의해 위협받는 중입니다."
+AUS_syndicalist_menace_tooltip:0 "전쟁의 불길은 다시 한번 타오르고 있으며, 이탈리아에서 우리의 이익은 인터내셔널에 의해 위협받는 중입니다."
 
-AUS_military_occupation_tooltip:0 "계속해서 헝가리 땅을 점령하게 될 것이지만, 모든 속국들이 이에 만족하지는 않을 것입니다. \n\n"
-AUS_danubian_federation_tooltip:0 "다뉴브, 알프스 및 아드리아 연맹"이 형성될 것입니다. \n\n"
+AUS_military_occupation_tooltip:0 "계속해서 헝가리 영토를 소유하게 될 것이지만, 모든 속국들이 이에 만족하지는 않을 것입니다. \n\n"
+AUS_danubian_federation_tooltip:0 "다뉴브-알프스-아드리아 연방"이 형성될 것입니다. \n\n"
 AUS_united_states_tooltip:0 "'대 오스트리아 합중국'이 형성될 것입니다. \n\n"
 AUS_dualism_restored_tooltip:0 "헝가리는 통합될 것이고, 오스트리아-헝가리 제국이 다시 형성될 것입니다. \n\n"
 
@@ -476,7 +476,7 @@ AUS_embrace_pluralism:0 "다원주의를 받아들이자"
 AUS_embrace_pluralism_desc:0 "제국을 보다 민주적인 정부에 연합시킬 때가 왔습니다. 중앙 집권 연방의 창설은 모든 오스트리아 인들에게 더 밝은 미래를 가져다 줄 것입니다."
 
 AUS_austro-marxism:0 "주(State)로 구성된 국가"
-AUS_austro-marxism_desc:0 "제국의 옛 국경과 옛 행정부는 불합리하게도 우리의 제국이 인종적으로 다양하다는 것을 인정하지 않았습니다. 보헤미아인도 없었고, 독일인과 체코인도 없었습니다. 마찬가지로 갈리시아인도 없고 폴란드인도 루테우스인도 없었습니다. 옛 행정부는 이들이 어떤 혈통인지도 몰랐습니다. 우리는 이것을 끝내야만 합니다."
+AUS_austro-marxism_desc:0 "제국의 옛 국경과 옛 행정부는 불합리하게도 우리의 제국이 인종적으로 다양하다는 것을 인정하지 않았습니다. 보헤미아인도 없었고, 독일인과 체코인도 없었습니다. 마찬가지로 갈리치아인도 없고 폴란드인도 루테우스인도 없었습니다. 옛 행정부는 이들이 어떤 혈통인지도 몰랐습니다. 우리는 이것을 끝내야만 합니다."
 
 #The Austromarxist principle of National Personal Autonomy describes a way of gathering the geographically divided members of the same nation to "organize nations not in territorial bodies but in simple association of persons", thus radically disjoining the nation from the territory and making of the nation a non-territorial association."
 
@@ -516,7 +516,7 @@ AUS_am_followup_2_desc:0 "비록 힘들었지만, 우리 나라는 지난 몇달
 AUS_am_followup_3:0 "대타협의 끝"
 AUS_am_followup_3_desc:0 "우리는 너무 오랫동안 대타협으로 알려진 이 비웃음거리를 견뎌 왔습니다. 강력하고 통일된 국가로서 미래를 위해 싸우려면 이는 끝나야 합니다. 비록 이 일로 어둠 속으로 뛰어들지라도, 이 복잡한 과정은 결과가 어떻든 멈춰야 합니다."
 
-AUS_am_followup_4:0 "헝가리 지위박탈"
+AUS_am_followup_4:0 "헝가리의 지위 박탈"
 AUS_am_followup_4_desc:0 "The united front that has arrayed itself against the stubborn Hungarians has finally succeeded. No longer can they hold out against the inevitable, for our nation's greatness has increasingly become clear to all. Even proud Hungary has fallen into line to reap the benefits."
 
 AUS_am_followup_5:0 "세계 속으로"
@@ -791,12 +791,12 @@ austria.103.a:0 "우리는 응징할 것이다."
 
 ### Austria Suggests War ###
 austria.104.t:0 "오스트리아는 전쟁을 제의했습니다."
-austria.104.d:0 "오스트리아 대사는 오늘 우리가 남부 사회주의 자들에 대한 공격을 준비하기 위해 우리 군대를 준비 할 것을 제안했습니다. 그는 남부를 공격하고 이탈리아를 단결시킬 때가 왔다고 말했습니다."
+austria.104.d:0 "오스트리아 대사는 오늘 우리가 군대를 동원해 남부의 사회주의자들을 공격하는 것을 제안했습니다. 그는 남부를 공격하고 이탈리아를 단결시킬 때가 왔다고 말했습니다."
 austria.104.a:0 "우리는 그들을 쳐부술 것이다!"
 austria.104.b:0 "우리는 그렇게 할 수 없다."
 
 austria.105.t:0 "이탈리아 전쟁"
-austria.105.d:0 "우리의 제안에 따라 이탈리아는 남쪽에서 전쟁을 선포했습니다. 우리는 직접 참여할 수는 없지만 가능한 한 빠른 승리를 위해 가능한 모든 방법으로 지원해야합니다."
+austria.105.d:0 "우리의 제안에 따라 이탈리아는 남쪽에 전쟁을 선포했습니다. 우리는 직접 참여할 수는 없지만 가능한 한 빠른 승리를 위해 가능한 모든 방법으로 지원해야합니다."
 austria.105.a:0 "그들을 지원한다."
 austria.105.b:0 "그들 스스로 할 수 있을 것이다."
 
@@ -831,7 +831,7 @@ ausgleich.new.200.b:0 "그 말이 맞다. 보헤미아인, 갈리시아인, 일�
 ausgleich.new.200.c:0 "우리는 더 크게 생각할 필요가 있다. 이중 제국의 모든 사람들을 초대하라."
 
 ausgleich.new.201.t:0 "대타협의 다른 국가들"
-ausgleich.new.201.d:0 "보도에 따르면 오스트리아는 1937 년 대타협 재협상에 참여하기 위해 제국의 다른 지역 대표단을 파견했습니다. 유력한 정치인들은 대타협에 대한 반대 입장을 표명하면서 협상에서 오스트리아가 우위를 점할 수 있는 정치적 책략이라고 불렀습니다."
+ausgleich.new.201.d:0 "보도에 따르면 오스트리아는 1937년 대타협 재협상에 참여하기 위해 제국의 다른 지역 대표단을 파견했습니다. 유력한 정치인들은 대타협에 대한 반대 입장을 표명하면서 협상에서 오스트리아가 우위를 점할 수 있는 정치적 책략이라고 불렀습니다."
 ausgleich.new.201.a:0 "이것은 미친짓입니다. 공식적으로 그들의 결정에 항의하십시오."
 ausgleich.new.201.b:0 "그냥 항의만으로는 충분하지 않다. 우리는 그러한 대타협에 참여하지 않을 것이다."
 ausgleich.new.201.c:0 "우리는 시대의 흐름에 맞춰가야 한다."
@@ -989,7 +989,7 @@ ausgleich.new.321.d:0 "헝가리가 조기에 떠나기로 결정했습니다 - 
 ausgleich.new.321.a:0 "끔찍하군."
 
 ausgleich.new.322.t:0 "헝가리는 대타협을 포기하다."
-ausgleich.new.322.d:0 "헝가리 대표단이 "오랜 전통의 얼간이짓"라고 부르는 올해의 협상은 끝이 났고 그들은 협의를 떠났습니다."
+ausgleich.new.322.d:0 "헝가리 대표단이 '오랜 전통의 얼간이짓'이라고 부르는 올해의 협상은 끝이 났고 그들은 협의를 떠났습니다."
 ausgleich.new.322.a:0 "이것은 나쁜 일이다."
 
 ausgleich.new.323.t:0 "오스트리아의 배상금 지불 합의"
@@ -1021,7 +1021,7 @@ ausgleich.new.336.e:0 "일어나버렸군."
 ausgleich.new.337.t:0 "오스트리아와 헝가리가 전 일리리아를 분할하다."    
 ausgleich.new.337.d:0 "우리는 점령된 일리리아 땅을 어떻게 해야 할지 결정해야 합니다."
 ausgleich.new.337.a:0 "1921년 국경선을 복원해라."
-ausgleich.new.337.b:0 "크로아티아-슬라보니아를 헝가리에 넘기고 남은 땅에 일리리아를 세워라."
+ausgleich.new.337.b:0 "크로아티아-슬라보니아를 헝가리에 할양하고 남은 영토를 일리리아령으로 하라."
 ausgleich.new.337.c:0 "일단은 전역을 점령해라."
 
 #WIP
@@ -1145,8 +1145,8 @@ ausgleich.new.374.b:0 "이 지역은 지금 당분간 점령 될 것이다."
 
 ausgleich.new.375.t:0 "헝가리 국가 재건"
 ausgleich.new.375.d:0 "헝가리는 준-독립적인 자치 의회 구성이 아니라 제국의 다른 왕관들과 동등한 위치에 서있기를 원합니다."
-ausgleich.new.375.a:0 "헝가리는 재건되어야한다."
-ausgleich.new.375.b:0 "왜 우리는 우리와 싸운 사람들을 해방시켜야하지?"
+ausgleich.new.375.a:0 "헝가리는 재건되어야 한다."
+ausgleich.new.375.b:0 "왜 우리는 우리와 싸운 사람들을 해방시켜야 하지?"
 
 
 
@@ -1197,9 +1197,9 @@ aus.tree.4011.a:0 "우리는 다시 한번 전우로서 선다."
 aus.tree.4011.b:0 "우리는 스스로 잘 해나가는 중이다."
 
 aus.tree.4012.t:0 "독일이 우리 제안을 거절하다"
-aus.tree.4012.d:0 "베를린은 우리의 도움이 필요 없고, 원하지도 않으며, 현재 진행중인 분쟁에 개입하지 말라는 내용의 답신을 보내왔습니다."
+aus.tree.4012.d:0 "베를린은 우리의 도움이 필요 없고, 원하지도 않으므로, 현재 진행중인 분쟁에 개입하지 말라는 내용의 답신을 보내왔습니다."
 aus.tree.4012.a:0 "무례하군."
-aus.tree.4012.b:0 "[From.GetLeader]는 이것을 스스로 결정할 수 있다고 생각하는 건가?"
+aus.tree.4012.b:0 "[From.GetLeader]는 이것을 본인이 결정할 수 있다고 생각하는 건가?"
 
 aus.tree.4013.t:0 "독일이 우리의 전쟁 참여를 허락하다"
 aus.tree.4013.d:0 "독일은 우리 팩스 메일에 호의적인 답신을 보내왔으며, 생디칼리즘의 확산을 저지하기 위한 우리의 지원 제안에 환영의 뜻을 보였습니다. 오늘 부로, 우리는 생디칼리스트들과 전쟁 중입니다."
