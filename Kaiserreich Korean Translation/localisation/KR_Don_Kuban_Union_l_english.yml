@@ -3,40 +3,40 @@ l_english:
 ### Ideas ###
 DKB_black_monday_1:0 "베를린 주식시장 붕괴"
 DKB_black_monday_2:0 "초기 안정화"
-DKB_workers_unions:0 "노동조합과의 협약"
+DKB_workers_unions:0 "노동 조합과의 협약"
 DKB_Internal_crisis:0 "내부 위협"
 
 ### Events ###
 dkb.1.t:0 "돈쿠반 연합"
-dkb.1.d:0 "Don-Kuban Union was proclaimed by Pyotr Krasnov on the 18th of May 1918, when he was elected as the 'Ataman' ('Leader') of the Don Cossacks. Since then Krasnov, who used to be a connecting link between the leadership of the White Army and the Germans, started to strengthen his regime in South Russia, by improving his relations with the separatist leaders of the Kuban and Terek Cossacks. With the German help Don-Kuban Union could finally break away from Russia, which Krasnov as the Ataman of the Union condemned for its new republican system, using the conservative and pro-monarchist feelings of the South Russian population. But the new established Union still have to face with lots of problems. The lack of the modern industry weakens the army of the Union, the people want the land redistribution and reunification with Russia, the separatist tensions in the various parts of the Caucasus grow. If Pyotr Krasnov wants to stay as the Ataman of the Don-Kuban Union, he will have to deal with all these problems in his country."
-dkb.1.a:0 "Krasnov should bring an order to the Union."
+dkb.1.d:0 "돈쿠반 연합은 1918년 5월 18일, 표토르 크라스노프에 의해 선포되었으며, 그는 돈 코카서스의 '아타만' (지도자)으로 선출되었습니다. 그 이후, 백군 지도부와 독일군 간의 연락망이였던 크라스노프는, 쿠반과 테레크 코카서스의 분리주의 지도자들과 관계를 개선함으로써, 남러시아에서 자신의 권력을 강화하기 시작했습니다. 독일의 지원덕분에 돈쿠반 연합은 가까스로 러시아로부터 벗어날 수 있었습니다. 크라스노프는 남러시아인들의 보수적이고 친군주주의적인 감정을 이용하여, 새로운 공화당 체제를 부정하고 아타만으로 등극하였습니다. 하지만 새로 건국된 연합은 아직도 많은 문제들에 직면하고 있습니다. 현대 사업의 부재로 인해 연합의 군대가 약해지게 되었고, 사람들은 러시아와의 토지 재분배와 재통일을 원하고 있으며, 코카서스의 여러 지역에서 분리주의적 긴장이 커지고 있습니다. 만약 표토르 크라스노프가 돈쿠반 연합의 아타만으로 남기를 원한다면, 그는 그의 국가과 이 문제들을 타협봐야할 것입니다."
+dkb.1.a:0 "크라스노프는 연합을 통치 해야한다"
 
-dkb.2.t:0 "코삭 지역구"
-dkb.2.d:0 "'Kazachiy Krug' ('Cossack Circle') is the main legislative and executive state authority in Don-Kuban Union. The member of this 'Krug' represents the Russians, Don, Kuban and Terek Cossacks, the Kalmyks, the Chechens and other minorities in our country. This authority has a right to discuss almost every significant question, which has relation to the life in the country. Though Krasnov can promulgate his orders even without the approval of the 'Krug', but he has to consider its opinion in every case, if he wants to remain control over the Union."
-dkb.2.a:0 "This 'Krug' is very important."
+dkb.2.t:0 "코카서스 구"
+dkb.2.d:0 "'카자키 크루그' ('코카서스 구')는 돈쿠반 연합의 주요 입법기관이자 사법기관입니다. 이 '크루그'의 구성원은 러시아, 돈, 쿠반, 테레크 코카서스, 칼미크, 체첸 그리고 그 외 소수민족 사람들로 구성되어있습니다. 크루그의 권한은 국가에서의 삶에 관해 관련된 모든 중요한 의제들에 대해 의논할 권리가 있습니다. 비록 크라스노프가 '크루크'의 승인없이도 명령을 내릴 수 있지만, 크라스노프가 연합을 장악하기를 원한다면 그는 모든 경우의 수를 고려해야할 것입니다."
+dkb.2.a:0 "'크루그'는 매우 중요해."
 
 dkb.3.t:0 "돈쿠반 연합에 베를린 주식시장 붕괴 여파가 강타했다"
-dkb.3.d:0 "As predicted the Union's finances and economy are in deep crisis. The average Cossack faces problems selling his products and a number of factories are closing. This means that various dangerous elements will have a greater impact upon the political landscape of the Cossack country."
+dkb.3.d:0 "예견된대로, 연합의 재정과 경제가 심각한 위기에 처해있습니다. 평균적으로 코카서스가 직면한 문제는 물건 판매 문제와 다수의 공장이 문을 닫고 있는 문제입니다. 이 즉슨 다양한 위험 요소가 코카서스 국가의 정치적 환경에 변화를 줄 수 있음을 의미합니다."
 dkb.3.a:0 "신이시여 이 상황을 벗어나게 해주소서."
 
 dkb.4.t:0 "초기 안정화"
-dkb.4.d:0 "With the first wave of the crisis slowly passing by, some less affected branches of the economy have bounced off the bottom. Still, the overall state of our economy does not look optimistic..."
+dkb.4.d:0 "첫번째 위기가 서서히 지나가고 나서 영향이 덜한 곳곳들이 경제 위기의 영향을 벗어났습니다. 하지만 아직 우리나라의 전체적인 경기는 좋아보이지 않습니다..."
 dkb.4.a:0 "빨리 안정화가 되기를 바란다."
 
-dkb.5.t:0 "Further stabilisation"
-dkb.5.d:0 "The economy continues to regain pre-crisis efficiency."
-dkb.5.a:0 "Keep it up!"
+dkb.5.t:0 "추가적인 안정화"
+dkb.5.d:0 "경제가 위기 이전의 상태로 변화하고 있습니다."
+dkb.5.a:0 "계속해!"
 
-dkb.6.t:0 "An Illegal trade union was found"
-dkb.6.d:0 "We have found another secret trade union in one of our factories. Workers have united to demand higher wages and better workplaces. We must blame the spread of syndicalist propaganda for this!"
-dkb.6.a:0 "Allow to operate but watch them closely"
-dkb.6.b:0 "Disband the union and arrest the workers!"
+dkb.6.t:0 "불법 노동조합이 발견되었습니다"
+dkb.6.d:0 "우리는 우리의 공장 중 한 곳에서 또 다른 비밀 노동조합을 찾아냈습니다. 노동자들은 연합하여 더 높은 임금과 더 나은 작업환경을 요구하였습니다. 우리는 이것에 대한 생디칼리즘 선전을 막아야합니다!
+dkb.6.a:0 "노조를 허용하지만, 저들을 주시해라"
+dkb.6.b:0 "노조를 해체하고 노동자들을 체포해!"
 
-dkb.7.t:0 "Ukrainian language in the Kuban region"
+dkb.7.t:0 "쿠반 지역의 우크라이나어"
 dkb.7.d:0 "The Ukrainian officials, who once tried to include Kuban region with our capital Yekaterinodar into Ukraine, but were stopped by Krasnov and the local Cossack and White armies, don't stop their attempts to gain an influence in our country. This time the Ukrainians propose us to acknowledge the Ukrainian language as the second official in Kuban. They have support from some members of the Kuban Cossacks in the 'Krug', who hopes that the Ukrainian help will allow them to strengthen their position in the country. On the contrary the Don Cossacks reject any agreement with the Ukrainians, since the Kingdom of Ukraine occupied a large part of the Don lands at the end of the Russian civil war."
-dkb.7.a:0 "The Don Cossacks are right - we should claim our lands!"
-dkb.7.b:0 "Make a compromise - the Ukrainians can fund some schools in the Kuban."
-dkb.7.c:0 "The Ukrainian language the second language in the Kuban region!"
+dkb.7.a:0 "돈 코카서스가 맞다, 우리는 우리의 땅을 주장해야한다!"
+dkb.7.b:0 "타협하여 우크라이나인들이 쿠반의 몇몇 학교들에 투자를 할 수 있게 해라."
+dkb.7.c:0 "우크라이나어는 쿠반지역의 제 2언어다!"
 
 dkb.8.t:0 "Land redistribution in Stavropol"
 dkb.8.d:0 "The Stavropol region has the Russian majority, but the Kalmyks, who live in the Steppes near the Caspian Sea, claim that some of these lands in Stavropol should become a part of the Kalmykia. But the Russians suppose that the Kalmyks took lots of the peasant's lands in Stavropol during the civil war and the government must launch a land redistribution in the northern part of Stavropol region. What should we do?"
