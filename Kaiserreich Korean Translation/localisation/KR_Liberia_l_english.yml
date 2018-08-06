@@ -1,21 +1,21 @@
 l_english:
 
 ### Parties ###
-LIB_radical_socialist_party:0 "LDR"
+LIB_radical_socialist_party:0 "라이베리아 민주 대회"
 LIB_radical_socialist_party_long:0 "라이베리아 민주 대회"
-LIB_totalist_party:0 "LBD"
+LIB_totalist_party:0 "라이베리아 운명당"
 LIB_totalist_party_long:0 "라이베리아 운명당"
-LIB_social_liberal_party:0 "WP"
+LIB_social_liberal_party:0 "휘그당"
 LIB_social_liberal_party_long:0 "휘그당"
-LIB_market_liberal_party:0 "TRP"
-LIB_market_liberal_party_long:0 "진정한 공화당"
-LIB_social_conservative_party:0 "TWP"
-LIB_social_conservative_party_long:0 "진짜휘그당"
-LIB_authoritarian_democrat_party:0 "DLB"
+LIB_market_liberal_party:0 "트루 공화당"
+LIB_market_liberal_party_long:0 "트루 공화당"
+LIB_social_conservative_party:0 "트루 휘그당"
+LIB_social_conservative_party_long:0 "트루 휘그당"
+LIB_authoritarian_democrat_party:0 "독일 라이베리아 연맹"
 LIB_authoritarian_democrat_party_long:0 "독일 라이베리아 연맹"
-LIB_paternal_autocrat_party:0 "MJ"
+LIB_paternal_autocrat_party:0 "군부"
 LIB_paternal_autocrat_party_long:0 "군부"
-LIB_national_populist_party:0 "LBF"
+LIB_national_populist_party:0 "라이베리아 프리메이슨당"
 LIB_national_populist_party_long:0 "라이베리아 프리메이슨당"
 
 ### Ideas ###
