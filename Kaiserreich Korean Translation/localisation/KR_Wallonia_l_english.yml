@@ -1,17 +1,17 @@
 l_english:
 
 ### Parties ###
-WLL_social_conservative_party:0 "DC"
+WLL_social_conservative_party:0 "기독교 민주연합"
 WLL_social_conservative_party_long:0 "기독교 민주연합"
-WLL_market_liberal_party:0 "PL"
+WLL_market_liberal_party:0 "자유당"
 WLL_market_liberal_party_long:0 "자유당"
-WLL_social_democrat_party:0 "POB"
+WLL_social_democrat_party:0 "벨기에 노동당"
 WLL_social_democrat_party_long:0 "벨기에 노동당"
-WLL_social_liberal_party:0 "PLP"
+WLL_social_liberal_party:0 "자유진보당"
 WLL_social_liberal_party_long:0 "자유진보당"
-WLL_syndicalist_party:0 "POB"
+WLL_syndicalist_party:0 "벨기에 노동당"
 WLL_syndicalist_party_long:0 "벨기에 노동당"
-WLL_totalist_party:0 "PTW"
+WLL_totalist_party:0 "발로니에 전체주의당"
 WLL_totalist_party_long:0 "발로니에 전체주의당"
 WLL_national_populist_party:0 "REX"
 WLL_national_populist_party_long:0 "REX"
