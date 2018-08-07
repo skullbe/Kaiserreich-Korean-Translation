@@ -2,25 +2,25 @@
 l_english:
 
 ### Parties ###
-ARG_national_populist_party:0 "LP"
+ARG_national_populist_party:0 "애국당"
 ARG_national_populist_party_long:0 "애국당"
 ARG_authoritarian_democrat_party:0 "6월의 해방자들"
 ARG_authoritarian_democrat_long:0 "6월의 해방자들"
-ARG_paternal_autocrat_party:0 "PJ"
+ARG_paternal_autocrat_party:0 "정의당"
 ARG_paternal_autocrat_party_long:0 "정의당"
-ARG_social_conservative_party:0 "UCRA"
+ARG_social_conservative_party:0 "반개인주의적 급진시민연합"
 ARG_social_conservative_party_long:0 "반개인주의적 급진시민연합"
-ARG_social_democrat_party:0 "PDP"
+ARG_social_democrat_party:0 "민주진보당"
 ARG_social_democrat_party_long:0 "민주진보당"
-ARG_social_liberal_party:0 "UCR"
+ARG_social_liberal_party:0 "급진시민연합"
 ARG_social_liberal_party_long:0 "급진시민연합"
-ARG_totalist_party:0 "TTT"
+ARG_totalist_party:0 "전체주의, 노동, 절제"
 ARG_totalist_party_long:0 "전체주의, 노동, 절제"
 ARG_syndicalist_party:0 "인터내셔널"
 ARG_syndicalist_party_long:0 "인터내셔널"
-ARG_market_liberal_party:0 "PDN"
+ARG_market_liberal_party:0 "민주 국민당"
 ARG_market_liberal_party_long:0 "민주 국민당"
-ARG_radical_socialist_party:0 "PS"
+ARG_radical_socialist_party:0 "사회당"
 ARG_radical_socialist_party_long:0 "사회당"
 
 ### Tooltips ###
