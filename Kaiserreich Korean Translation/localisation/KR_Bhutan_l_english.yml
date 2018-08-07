@@ -1,9 +1,9 @@
-﻿l_english:
-BHU_social_conservative_party:0 "Democrats"
-BHU_social_conservative_party_long:0 "Democrats"
-BHU_authoritarian_democrat_party:0 "Dorji Clan"
-BHU_authoritarian_democrat_party_long:0 "Dorji Clan (Reformists)"
-BHU_paternal_autocrat_party:0 "Wangchuck Clan"
-BHU_paternal_autocrat_party_long:0 "Wangchuck Clan (Royalists)"
-BHU_national_populist_party:0 "Rabden Clan"
-BHU_national_populist_party_long:0 "Rabden Clan (Militarists)"
+l_english:
+BHU_social_conservative_party:0 "민주주의파"
+BHU_social_conservative_party_long:0 "민주주의파"
+BHU_authoritarian_democrat_party:0 "도르지 씨족"
+BHU_authoritarian_democrat_party_long:0 "도르지 씨족 (개혁파)"
+BHU_paternal_autocrat_party:0 "왕축 씨족"
+BHU_paternal_autocrat_party_long:0 "왕축 씨족 (왕당파)"
+BHU_national_populist_party:0 "랍덴 씨족"
+BHU_national_populist_party_long:0 "랍덴 씨족 (군부파)"
