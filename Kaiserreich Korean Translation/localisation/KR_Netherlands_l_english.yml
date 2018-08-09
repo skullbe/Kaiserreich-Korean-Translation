@@ -57,9 +57,9 @@ HOL_idea_mobilisation_timetables_desc:0 "동원 과정에서 일정 및 계획�
 HOL_idea_ambtenarenverbod:0 "공무원 규제령"
 HOL_idea_ambtenarenverbod_desc:0 "공무원 규제령은 민주주의 가치에 반하는 사상의 성장을 중단하려는 의도로 계획되었으며, 정부 관리들이 어떠한 극좌 또는 극우 성향의 단체에도 가입하지 못하도록 합니다."
 HOL_idea_ambtenarenverbod_01:0 "공무원 규제령"
-HOL_idea_ambtenarenverbod_01_desc:0 "The 'Ambtenarenverbod' or Civil Servant Ban, blocks government officials from joining any far-left or far-right groups, in the hopes of halting the momentum of these undemocratic ideologies."
+HOL_idea_ambtenarenverbod_01_desc:0 "'공무원 규제령'은 비민주주의 이념이 유행하는 것을 막기위해 정부 관료들이 극좌나 극우 단체들에 가입하는 것을 막습니다."
 HOL_idea_ambtenarenverbod_02:0 "공무원 규제령"
-HOL_idea_ambtenarenverbod_02_desc:0 "The 'Ambtenarenverbod' or Civil Servant Ban, blocks officials from joining any far-left groups, in the hopes of halting the momentum of these undemocratic ideologies."
+HOL_idea_ambtenarenverbod_02_desc:0 "'공무원 규제령'은 비민주주의 이념이 유행하는 것을 막기위해 정부 관료들이 극좌 단체들에 가입하는 것을 막습니다."
 HOL_idea_transition_to_fair_economy:0 "Transition to a Fair Economy"
 HOL_idea_transition_to_fair_economy_desc:0 "It is difficult to create a system that works for everyone, there is no doubt about that. All the same, the venerable Dutch spirit can manage this intense period of economic transition."
 HOL_idea_market_socialism:0 "시장 생디칼리즘"
@@ -182,9 +182,9 @@ HOL_idea_luchtvaartacademie_desc:0 ""
 
 ### Focus Trees ###
 
-HOL_rightwing_focus:0 "Reactionary Netherlands"
-HOL_socdem_focus:0 "Social Democratic Netherlands"
-HOL_syndicalist_focus:0 "Leftist Netherlands"
+HOL_rightwing_focus:0 "반동주의 네덜란드"
+HOL_socdem_focus:0 "사회민주주의 네덜란드"
+HOL_syndicalist_focus:0 "좌익 네덜란드"
 
 ### Focuses ###
 HOL_left_list_victorious:0 "좌파의 승리"
@@ -976,15 +976,15 @@ holvdb.1.b:0 "Peren."
 ###
 
 hol.4.t:0 "네덜란드의 지도자"
-hol.4.d:0 "It is time to select a ruler to lead the Netherlands, who are now reduced to our puppet state. While it seems obvious that general Reijnders should be put in charge on the local side of things, it depends on whether we trust him: we could install the duchess of Luxembourg as queen of the Netherlands as she has a light claim and will be very motivated to move the Netherlands towards annexation into the empire (as this would expand her domain and thus political power within it), or we could establish the husband of the Dutch crown-princess as regent. Lastly it is of course also possible to just give Reijnders a free hand."
+hol.4.d:0 "이제 괴뢰국으로 전락한 네덜란드를 이끌 통치자를 선택해야 할 때입니다. 레인데르스 장군이 책임을 져야 하는 것은 분명하지만, 이는 우리가 그를 믿느냐에 달려있습니다: 우리는 룩셈부르크의 공작을 네덜란드의 여왕으로 옹립할 수 있습니다. 공작은 왕위에 대한 약한 권리를 가지고 있고 네덜란드를 제국으로 합병하려는 의욕이 아주 많습니다. (이는 그녀의 영토를 넓히고, 따라서 더 큰 정치적 힘을 갖게 될 것입니다.) 또는 네덜란드 왕위 계승자의 남편을 섭정으로 세울 수도 있습니다. 마지막으로 완전히 레인데르스 장군에게 맡기는 것 또한 가능합니다."
 hol.4.a:0 "마리아델라이드 여왕 만세!"
 hol.4.b:0 "베른하르트 공 만세!"
-hol.4.c:0 "No, I can't cheer for Reijnders, sorry..."
+hol.4.c:0 "미안하지만 레인데르스를 응원할 수는 없겠군..."
 
 hol.6.t:0 "노동자 파업"
-hol.6.d:0 "The failure of the government to act has led to a number of labour strikes across the country. Most officials are confident however that they'll blow over once the German economy recovers, though concerns are spreading amongst much of the nation's middle classes."
-hol.6.a:0 "The police will control them."
-hol.6.b:0 "The people are right - we must act!"
+hol.6.d:0 "정부의 실패는 전국적으로 많은 노동자 파업으로 이어졌습니다. 그러나 대부분의 공무원들은 네덜란드의 중산층에 우려가 확산되고 있음에도 불구하고 일단 독일 경제가 회복되면 그들이 사그라들 것이라고 확신합니다."
+hol.6.a:0 "경찰이 통제할 것이다."
+hol.6.b:0 "사람들이 옳다. 조치를 취해야 한다!"
 
 hol.7.t:0 "즈볼러 대학살"
 hol.7.d:0 "A Socialist rally outside Zwolle was met by local police, who moved to disperse it. However, one of the strikers threw a bomb into the midst of the police, who returned fire into the crowd with their pistols. Four policemen and two dozen strikers were left dead, and the next day the local authorities hanged 4 사회민주노동당 leaders, all of whom were on the speaker's podium at the time. There are growing calls to compromise with the 사회민주노동당, as more and more of the population turns against the government."
