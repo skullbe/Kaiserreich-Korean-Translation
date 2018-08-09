@@ -482,57 +482,58 @@ GRE_deploy_new_ships_desc:0 "이제 새로운 배들이 아테네 항구에서 �
 GRE_balkans_mission:0 "발칸 공영권 항상"
 GRE_balkans_mission_desc:0 "Our relations with [From.GetNameDef] are decent enough that we should consider sending a mission to their government to foster greater cooperation between our countries."
 
+
 ### Events
-gre.1.t:0 "제4 헬레네 공화국"
-gre.1.d:0 "The years since Greece's loss in the Weltkrieg have seen little but upheaval and hardship. The loss of Crete and Macedonia to the Treaty of Salonika and crippling war debts to Austria and Germany sent King Alexander fleeing into exile as the Third Republic was declared... only to result in years of failed governments and coups until Georgios Kondylis took control in 1926 and declared himself the permanent Regent of Greece, even though its king remained in exile. Kondylis was finally overthrown and executed in 1931, leading to the Fourth Republic and the coalition government of Geórgios Papandreou which won its first election."
-gre.1.a:0 "Goodness!"
-gre.2.t:0 "The Challenges Ahead"
-gre.2.d:0 "The new republic, which faces its next election in 1938, faces several challenges before then: most prominent is the simmering resentment towards the loss of Greek territory. Most are certain that war is coming again soon, with many groups such as the syndicalist rebels and the looming figure of Ioannis Metaxas waiting for the first moment the government makes the slightest misstep. Monarchist sentiment is also on the rise, with many demanding that another referendum be held soon to determine whether the kingdom should be restored... even if republicans fear that doing so would only plunge the nation into anarchy yet again."
-gre.2.a:0 "We shall not repeat past mistakes"
-gre.3.t:0 "Independence Day"
-gre.3.d:0 "In 1821, Greeks rose up against the oppressive Ottoman Empire, which had occupied Greece for nearly four hundred years. Bishop Germanos of Patras boldly raised the Greek flag at the monastery of Agia Lavras, inciting the Greek revolution. While the exact date probably was not March 25th, it did occur in late March and it was gradually associated with the religious feast of the Annunciation which occurs on the same date. On the day of the Feast of the Annunciation the archangel Gabriel appeared to the maiden Mary and announced the news, she was pregnant with the divine child. Bishop Germanos chose this day to deliver a different but not unrelated message, a new spirit was about to be born in Greece."
-gre.3.a:0 "A new spirit shall be born again!"
-gre.4.d:0 "Independence Day is celebrated once again in [Root.GetNameDef], with crowds lining the streets in Athens and other cities, all waving the Greek flag and singing 'Ýmnos is tin Eleftherían' - the Hymn to Freedom, and the country's national anthem. Despite all the hardship the country has faced, its people are still eager to celebrate their sense of independence from those who would oppress them."
-gre.4.a:0 "Hail, o hail, Liberty!"
-gre.5.t:0 "Black Monday hits Greece!"
-gre.5.d:0 "The rapid German economic collapse has reached our nation! Our reliance on trade with Germany and Mitteleuropean dominance of our economy has exacerbated the crisis, with many German factories being instructed to shut down. Worse, the spread of the crisis has meant a lack of markets for our agricultural exports, and already farmers are facing a crisis where almost none of them can sell their crops. We must quickly work to address this crisis, lest it grow out of hand and sow chaos throughout our nation."
+gre.1.t:0 "제 4 헬레닉 공화국"
+gre.1.d:0 "대 전쟁에서 그리스가 패배한 이래로 대변동과 고난이 닥쳐왔습니다. 크레타와 마케도니아를 테살로니카 조약으로 상실함과 동시에 독일과 오스트리아로 인한 엄청난 전쟁 채무에 의해서 알렉산도로스 왕은 망명을 떠나야했고, 그 뒤에 제 3공화국이 수립되었죠. 하지만 정부의 실패로 인하여 1925년 요르요스 콘딜리스의 쿠데타가 일어났고, 그는 왕이 망명 상태임에도 불구하고 스스로 영구적인 그리스 왕국의 섭정으로 선언했습니다. 콘딜리스는 1931년에 최종적으로 권좌에서 쫓겨나 처형당했죠. 그리고 제 4공화국이 수립되었고, 요르요스 파판드레우가 이끄는 연립정권이 일단 첫 번째 선거 승리하여 정권을 잡은 상태입니다.“
+gre.1.a:0 “빌어먹을!"
+gre.2.t:0 "앞으로 직면할 과제들"
+gre.2.d:0 "1938년에 총선을 하게 될 새로운 공화국은 몇 가지 도전에 직면했습니다. 가장 당면한 문제는 그리스의 잃어버린 영토에 대한 회복입니다. 그리고 대부분의 사람들은 생디칼리즘 반란 세력이나 요안니스 메탁사스 같은 세력이 지금 정부가 실수를 하기를 기다리고 있으며, 그때 대규모 전쟁이 벌어질 것이라고 우려하고 있습니다. 군주제 지지자들 역시 늘어나고 있습니다. 이들은 국민 투표를 통해 왕정의 부활을 요구하고 있죠. 공화주의자들은 이런 요구가 국가를 무정부 상태로 다시 밀어 넣을 것이라고 생각하고 있습니다.“
+gre.2.a:0 "우리는 이전의 실수를 반복해서는 안 된다!"
+gre.3.t:0 "독립 기념일"
+gre.3.d:0 "1821년에 그리스는 오랜 시간 동안 그리스를 지배한 압제적인 오스만 제국에 대항해서 일어났습니다. 파트라의 주교 게르마노스가 아기아스 라브라스 수도원에서 그리스 국기를 들면서 그리스 혁명을 시작했습니다. 아마도 3월 25일에 가까운 3월 말에 시작한 것으로 추측되며, 같은 날에 일어나는 성 수태고지 기념일과 연관이 있었습니다. 이 성 수태고지 기념일은 대천사인 가브리엘이 처녀인 마리아에게 나타나서 그녀가 신성한 아이를 품게 될 것이라는 소식을 전해줄 날입니다. 주교 게르마노스가 이날을 선택한 이유는 다르지만 연관성 있는 메시지를 전달하기 위해서라고 봅니다. 새로운 정신이 그리스에서 탄생되었다는 메시지를 말이죠.“
+gre.3.a:0 "새로운 정신이 다시 한 번 태어날 것이다.“
+gre.4.d:0 "독립 기념일은 [Root.GetNameDef]에서 아테네나 다른 도시의 도로에 있는 대중들과 함께 축하 될 것입니다. 모든 군중들은 그리스 국가를 들고 자유의 찬가라고 명칭되는 그리스의 국가인  'Ýmnos is tin Eleftherían‘를 부를 것입니다. 국가가 위기 상황에 처했음에도 불구하고 국민들은 압제로부터 벗어나 독립의 대한 기쁨을 서로 나누고 있습니다.“
+gre.4.a:0 "만세, 오 만세, 자유여!"
+gre.5.t:0 "그리스에 검은 월요일이 강타하다!"
+gre.5.d:0 "독일 경제의 급격한 붕괴가 우리나라에까지 영향을 주고 있습니다. 우리의 경제와 무역은은 독일과 미텔유로파에게 의존하고 있기 때문에 상황이 심각합니다. 많은 독일 공장들이 문을 닫음에 따라서 우리의 농산품 수출 역시 급격하게 감소했고, 농민들은 더 이상 자신의 작물을 팔 수 없는 상황입니다. 우리는 반드시 이 위기가 국가를 혼란으로 밀어넣기 전에 대비를 해야 합니다.“
 gre.5.a:0 "O Theós na mas voithísei!"
-gre.6.t:0 "Responding to the Crisis"
-gre.6.d:0 "With the number of farmers left holding crops and nowhere to sell them, we are left with a choice: either support them for the current year and encourage them to switch away from their reliance on exports, or dig deep into our pockets and support them fully until the economic crisis has passed."
-gre.6.a:0 "Help them out as much as we can"
-gre.6.b:0 "Dig deep - they're the backbone of Greece"
-gre.7.t:0 "Foreign-Owned Industry"
-gre.7.d:0 "Almost half of our economy is owned by investors in Germany and Austria, but after Black Monday many of their mines and factories have closed down - some because they have become unprofitable but others because the investors are trying to save money or have gone bankrupt. In either case, many thousands of Greeks have been put out of work. The suggestion is that we should seize these assets, or at least the worst cases, despite the Treaty of Salonika stipulating that we cannot. The only way to prevent a backlash from either country, however, is to subsidize the investors out of our own pocket... a deeply unpopular move if we attempted it, to be sure."
-gre.7.a:0 "Seize it all, no matter the repercussions"
-gre.7.b:0 "Deal with the worst cases only"
-gre.7.c:0 "Subsidize the investors ourselves - they'd better be grateful"
-gre.8.t:0 "Greece Seizes [Root.GetAdjective] Assets"
-gre.8.d:0 "Thanks to the rippling effects of Black Monday, [Root.GetAdjective] investors who held majority shares in Greek factories and mines have been closing those businesses down - in some cases because they're unprofitable, but in others because the investors have gone bankrupt. The Greek government has responded by seizing the companies, despite the Treaty of Salonika signed after the war stipulating that our investors have unfettered access to their economy. Many in the government are suggesting we respond harshly, and not only apply sanctions but pull all investment out of [From.GetNameDef] altogether. Others say the country is only trying to stay afloat - Black Monday has hit all of us hard."
-gre.8.a:0 "Apply sanctions and pull all business out at once"
-gre.8.b:0 "Just apply the sanctions and express our outrage"
-gre.8.c:0 "Leave them be - we're all trying to cope"
-gre.9.t:0 "[From.GetNameDefCap] Applies Harsh Sanctions"
-gre.9.d:0 "The [From.GetAdjective] government has applied a range of economic sanctions in response to our contravention of the Treaty of Salonika - including pulling all assets out of the country, including those which were still operational - but thankfully has gone no further. The move will sting for a few years, to be sure, and has seriously soured relations between our countries."
-gre.9.a:0 "It had to be done"
-gre.10.t:0 "[From.GetNameDefCap] Applies Sanctions"
-gre.10.d:0 "The [From.GetAdjective] government has applied a range of economic sanctions in response to our contravention of the Treaty of Salonika, but thankfully has gone no further. The move will sting for a few years, to be sure, and has soured relations between our countries."
-gre.11.t:0 "Greece Seizes [Root.GetAdjective] Assets"
-gre.11.d:0 "Thanks to the rippling effects of Black Monday, [Root.GetAdjective] investors who held majority shares in Greek factories and mines have been closing those businesses down - in some cases because they're unprofitable, but in others because the investors have gone bankrupt. The Greek government has responded by seizing many of the worst cases, despite the Treaty of Salonika signed after the war stipulating that our investors have unfettered access to their economy. Many in the government are suggesting we respond with sanctions, while others say the Greeks are simply doing what they have to in order to survive - they could, after all, have seized all investor assets if they'd wished, and not simply some."
-gre.11.a:0 "Apply sanctions - they must be taught a lesson"
-gre.12.t:0 "Monarchists Demand Referendum"
-gre.12.d:0 "Several prominent aristocrats, led by the influential former general Ioannis Metaxas, today stormed Parliament and demanded the government begin a referendum on the future of the monarchy. They say the question must be settled once and for all, and the government has put it off for too long. Their position has gained considerable support among the people, as well."
-gre.12.a:0 "Perhaps we should consider it?"
-gre.13.t:0 "[From.GetNameDefCap] Leaves the [Root.GetFactionName]"
+gre.6.t:0 "위기에 대한 대응"
+gre.6.d:0 "많은 농민들이 농작물을 창고에 쌓아둔 채 팔지 못하는 상황입니다. 우리는 선택해야 합니다. 우리가 이번년도에 그들의 농산품을 대신하여 사주고 수출에 의존하지 말게 지원하든지, 아니면 경제 위기가 끝날 때까지 그들을 완전히 지원하던지.“
+gre.6.a:0 "그들을 가능한 도와주어라."
+gre.6.b:0 "최대한 많이 도와주어라, 그들이 그리스의 기반이다.“
+gre.7.t:0 "외국이 차지한 산업"
+gre.7.d:0 "대부분의 우리 산업은 오스트리아나 독일인 투자자에 의해 장악되어 있습니다. 그러나 검은 월요일 이후 우리의 광산과 공장은 닫혀져 있습니다. 일부는 수익성이 없어서이지만, 다른 이유는 투자자들이 돈을 아끼기 위해 혹은 파산해서입니다. 일부 제안에 따르면 이러한 자산들을 국가가 차지하거나 혹은 적어도 최악의 경우에만 국유화 시키자고 주장합니다. 테살로니카 조약에 따르면 이런 것은 조약 위배입니다. 하지만 이 방법만이 우리 국가의 자산을 지키는 유일한 방법입니다. 그러나 투자자들을 지원하는 방법도 생각할 수 있습니다. 물론 대중들에게 인기는 없지만 한번 시도는 해볼 수 있겠죠.“ 
+gre.7.a:0 "투자자 자산을 차지해라. 그 여파는 고려하지 말고!“
+gre.7.b:0 "최악의 경우에 처한 자산만 차지하고 교섭해라."
+gre.7.c:0 "투자자들을 지원해라. 그들이 고마워 할 것이다.“
+gre.8.t:0 "그리스가 [Root.GetAdjective]의 자산을 차지하다"
+gre.8.d:0 "검은 월요일의 파장 때문에, 그리스의 공장이나 광산을 소유한 [Root.GetAdjective]의 투자자들은 그들의 사업을 접었습니다. 일부는 그것이 수익성이 없어서 닫았지만, 대부분은 투자자들이 파산하면서 폐쇄 된 것입니다. 그리스 정부는 이에 대해 그러한 회사들을 차지하는 것으로 응답했습니다. 테살로니카 조약에 우리 투자자들이 그리스에 투자하는데 있어서 불공정이 없어야 한다고 명시되어 있고 그에 서명했음에도 불구하고 말이죠. 정부의 많은 사람들이 이에 대해서 강력하게 대응해야 한다고 합니다. 단순히 경제재재만 하는 것이 아니라 [From.GetNameDef]에 대한 모든 투자를 금지해야 한다고 하면서 말이죠. 하지만 다른 일부는 그저 그리스가 최악에 상황에 대처한 것뿐이라고 생각합니다. 검은 월요일에 힘들어 하는 것은 우리에게만 해당되지는 않다고 하면서 말이죠.“
+gre.8.a:0 "경제 재재를 실시하고 모든 투자를 회수해라.“
+gre.8.b:0 "우리의 분노만 알리기 위해 경제재재만 실시해라.“
+gre.8.c:0 "그들을 내버려둬라. 우리도 똑같이 했을 것이다.“
+gre.9.t:0 "[From.GetNameDefCap]가 강력한 경제재재를 실시하다.“
+gre.9.d:0 "[From.GetAdjective] 정부는 광범위한 경제재재와 우리 국가에 대한 투자 회수를 테살로니카 조약에 근거하여 실시했습니다. 그러나 더 이상은 가지 않았습니다. 아마 몇 년 동안 경제재재가 이어질 것이고, 당연하지만 우리 국가와의 관계 매우 나빠질 것입니다.“ 
+gre.9.a:0 "이정도면 감수할만하다."
+gre.10.t:0 "[From.GetNameDefCap]가 경제재재를 실시하다"
+gre.10.d:0 "[From.GetAdjective] 정부는 광범위한 경제재재를 테살로니카 조약에 근거하여 실시했습니다. 그러나 더 이상은 가지 않았습니다. 아마 몇 년 동안 경제재재가 이어질 것이고, 당연하지만 우리 국가와의 관계 매우 나빠질 것입니다.“ 
+gre.11.t:0 "그리스가 [Root.GetAdjective]의 자산을 차지하다."
+gre.11.d:0 ""검은 월요일의 파장 때문에, 그리스의 공장이나 광산을 소유한 [Root.GetAdjective]의 투자자들은 그들의 사업을 접었습니다. 일부는 그것이 수익성이 없어서 닫았지만, 대부분은 투자자들이 파산하면서 폐쇄 된 것입니다. 그리스 정부는 이에 대해 그러한 회사들 중에서 최악의 경우에 처한 것만 차지하는 것으로 응답했습니다. 테살로니카 조약에 우리 투자자들이 그리스에 투자하는데 있어서 불공정이 없어야 한다고 명시되어 있고 그에 서명했음에도 불구하고 말이죠. 정부의 많은 사람들이 이에 대해서 경제재재로 대응해야 한다고 주장합니다. 하지만 다른 일부는 그저 그리스가 최악에 상황에 대처한 것뿐이라고 생각합니다. 검은 월요일에 힘들어 하는 것은 우리에게만 해당되지는 않고 모든 자산을 차지하는 것보다는 나은 편이라고 하면서 말이죠.“
+gre.11.a:0 "경제 재재를 실시해라. 아마 이를 통해 그들이 교훈을 얻겠지.“
+gre.12.t:0 "왕정주의자들이 국민투표를 요구하다."
+gre.12.d:0 "전 요안니스 메탁사스 장군에 영향을 받는 몇몇 유명한 귀족들에 의하여, 오늘 군주제 복위에 대한 국민 투표를 요구하기 시작했습니다. 그들은 이 문제는 반드시 해결되어야 하며, 정부는 이 문제는 너무 오랫동안 방치했다고 말합니다. 그들은 상당수 대중들에게 지원받고 있는 상황입니다.“
+gre.12.a:0 "그래도 고려는 해봐야하겠지?"
+gre.13.t:0 "[From.GetNameDefCap]가 [Root.GetFactionName]를 떠나다."
 gre.13.d:0 "Evidently, the [From.GetAdjective] government has decided it has gotten all it required from their alliance with us, and have informed us that they are leaving the [Root.GetFactionName] effective immediately."
 gre.13.a:0 "It was fun while it lasted"
-gre.14.t:0 "[From.GetNameDefCap] Asks to Join the [Root.GetFactionName]"
+gre.14.t:0 "[From.GetNameDefCap]가 [Root.GetFactionName]에 가입하기를 요청하다"
 gre.14.d:0 "The [From.GetAdjective] has sent a formal request, asking to be admitted into the [Root.GetFactionName]. Are they worth the possibility we might also get dragged into their struggles in the Balkans?"
-gre.14.a:0 "Of course!"
+gre.14.a:0 "당연하지!"
 gre.14.b:0 "They're more trouble than they're worth"
-gre.15.t:0 "We are Part of the [From.GetFactionName]"
+gre.15.t:0 "우리는 이제 [From.GetFactionName]의 일부다."
 gre.15.d:0 "The [From.GetAdjective] government has agreed to admit us into their alliance. We are now officially part of the [From.GetFactionName]."
 gre.15.a:0 "Excellent"
-gre.16.t:0 "[From.GetNameDefCap] Has Refused"
+gre.16.t:0 "[From.GetNameDefCap]가 거부하다."
 gre.16.d:0 "Perhaps deciding we're more trouble than we're worth, the [From.GetAdjective] government has refused to admit us into the [From.GetFactionName]."
 gre.16.a:0 "Ah well"
 gre.17.t:0 "Massive Demonstrations Against the Government"
@@ -545,183 +546,183 @@ gre.18.b:0 "Aris Velouchiotis wrests control in a coup"
 gre.18.c:0 "The army takes control, promising free and democratic elections"
 gre.18.e:0 "The King abdicates the throne, restoring the republic"
 gre.18.f:0 "The government steps down, promising immediate elections"
-gre.19.t:0 "The Death of Ioannis Metaxas"
-gre.19.d.ishos:0 "President Ioannis Metaxas, leader of [Root.GetNameDef], died today of a phlegmon of the pharynx. He has been succeeded by Alexandros Koryzis, his chosen successor, though many fear Koryzis cannto hope to match Metaxas's personal magnetism and military record. While Metaxas was considered a controversial figure by many, people still lined the streets throughout the country to mourn the man's death."
-gre.19.d.nothos:0 "Former general Ioannis Metaxas, a war hero and politician renowned for his strong beliefs, died today of a phlegmon of the pharynx. While Metaxas was considered a controversial figure by many, people still lined the streets throughout the country to mourn the man's death."
-gre.19.a:0 "He shall be remembered"
-gre.20.t:0 "The Death of Alexandros Papanastasiou"
-gre.20.d.ishos:0 "Prime Minister Alexandros Papanastasiou died today of a sudden heart attack. As the nation mourns his passing, former general Nikolaos Plastiras has taken over his duties as well as leadership of the National Unionist Party."
-gre.20.d.nothos:0 "Alexandros Papanastasiou, leader of the National Unionist Party, died today of a sudden heart attack. Former general Nikolaos Plastiras has taken over leadership of the party, and gave a speech in Athens today honouring the man who, in his words, 'served [GRE.GetNameDef] until his last breath'."
-gre.20.a:0 "A fine man"
-gre.21.t:0 "Kostas Gavriilides Steps Down"
-gre.21.d.ishos:0 "Kostas Gavriilides, long-time leader of the radical Rural Democratic Front and president of [Root.GetNameDef], today stepped down from his position to retire. After a debate within the party, leadership has been passed to Gavriilides's chosen successor, Nikos Ploumpidis."
-gre.21.d.nothos:0 "Kostas Gavriilides, long-time leader of the radical Rural Democratic Front, today stepped down from his position to retire. After a debate within the party, leadership has been passed to Gavriilides's chosen successor, Nikos Ploumpidis."
+gre.19.t:0 "요안니스 메탁사스의 죽음."
+gre.19.d.ishos:0 "대통령 요안니스 메탁사스, [Root.GetNameDef]의 지도자가 오늘 인두의  와직염에 의해 서거했습니다. 그의 후임으로는 알렉산도로스 코지스(Koryzis)가 임명되었습니다. 비록 많은 사람들이 메탁사스의 개인적 성향과 군대 경험에 코지스가 일치하지 않음에도 두려워합니다. 그는 수많은 사람들에게 논쟁의 대상이긴 하지만, 상당수의 사람들은 거리에 서서 그의 죽음을 국가 전역에서 애도하고 있습니다.“ 
+gre.19.d.nothos:0 "전쟁 영웅이자 강력한 신념을 가진 정치인으로 알려진 전직 요안니스 메탁사스 장군이 오늘 인두의  봉와직염에 의해 서거했습니다. 그는 수많은 사람들에게 논쟁의 대상이긴 하지만, 상당수의 사람들은 거리에 서서 그의 죽음을 국가 전역에서 애도하고 있습니다.“ 
+gre.19.a:0 "그는 모두가 기억 할 것입니다."
+gre.20.t:0 "알렉산드로스 파파나스타시우의 죽음“
+gre.20.d.ishos:0 "수상 알렉산드로스 파파나스타시우는 갑작스러운 심장마비로 오늘 서거했습니다. 국가 전역에서 그의 사망 소식에 애도를 표하고 있으며, 니콜라오스 플라스티라스가 민족 통일당의 지도자이자 차기 수상으로 임명 될 것입니다.“
+gre.20.d.nothos:0 "알렉산드로스 파파나스타시우, 민족 통일당의 지도자가 갑작스러운 심장마비로 사망했습니다. 전직 장군인 니콜라오스 플라스티라스가 민족 통일당의 지도자가 되었고, 그는 ‘[GRE.GetNameDef]를 마지막까지 걱정했다’다고 말하며 그가 얼마나 명예스러운지에 대하여 이야기 했습니다.“
+gre.20.a:0 "좋은 사람"
+gre.21.t:0 "Kostas Gavriilides가 물러나다"
+gre.21.d.ishos:0 "오랫동안 급진 농민 민주 전선의 지도자이자  [Root.GetNameDef]의 대통령인 Kostas Gavriilides가 오늘 그의 자리에서 내려와 은퇴를 선언했습니다. 그리고 당은 그 후임으로 Nikos Ploumpidis를 지명했습니다.“
+gre.21.d.nothos:0 "오랫동안 급진 농민 민주 전선의 지도자인 Kostas Gavriilides가 오늘 그의 자리에서 내려와 은퇴를 선언했습니다. 그리고 당은 그 후임으로 Nikos Ploumpidis를 지명했습니다"
 gre.21.a:0 "OK"
-gre.22.t:0 "The Papandreou Scandal"
-gre.22.d:0 "A number of government ministers have been caught up in a corruption scandal, revealed by the press, but the nation was shocked today to learn that Prime Minister Georgios Papandreou also stands accused. While it seems there is insufficient evidence for formal charges to be laid, the scandal has been enough for the New Liberal Coalition to consider whether Papandreou should continue as the party leader."
-gre.22.a:0 "Panagiotis Kanellopoulos wrests control of the party"
-gre.22.b:0 "Papandreou holds onto leadership after a narrow vote"
-gre.23.t:0 "The Death of Themistoklis Soufilis"
-gre.23.d.ishos:0 "Prime Minister Themistoklis Soufilis died today, his health having suffered since taking power in the last election. Though most in the government were unsurprised, having expected this for months, the nation was overcome with shock and mourners have lined the streets in Athens. Leadership of his wing of the Liberal Party has fallen to his deputy, Konstantinos Tsatsos."
-gre.23.d.nothos:0 "Themistoklis Soufilis died today, his health having suffered since the last election. Though most in the Liberal Party were unsurprised, having expected this for months, the nation greeted the news with shock and mourners have lined the streets in Athens. Leadership of his wing of the Liberal Party has since fallen to his deputy, Konstantinos Tsatsos."
-gre.23.a:0 "He shall be missed"
-gre.24.t:0 "The Death of Pangalis Tsaldaris"
-gre.24.d:0 "Pangalis Tsaldaris, leader of the Peoples' Party, died today as a result of a degenerative health condition which has plagued him since assuming leadership of the party several years ago. As mourners marked his passing, his leadership role has since fallen to his nephew, Konstantinos Tsaldaris. The new Peoples' Party head declared in a speech that he intended to 'carry on his uncle's legacy with his whole heart'."
-gre.24.a:0 "Hardly unexpected"
-gre.50.t:0 "National Elections of [GetYear]"
-gre.50.d:0 "The time has come for Greeks to head to the polls, with the major parties campaigning hard to win control of the government."
-gre.50.a:0 "The Peoples' Party is victorious"
-gre.50.b:0 "The New Liberal Coalition carries the day"
-gre.50.c:0 "The Liberal Party manages a win"
-gre.50.e:0 "The National Unionist Party surprises with victory"
-gre.51.t:0 "National Elections of [GetYear]"
-gre.51.d.noban:0 "With the socialist agrarians having gained considerable headway, absorbing much of the remaining anti-monarchist sentiment, the traditional political parties may be hard-pressed to win in today's election."
-gre.51.d.ban:0 "The ban on the socialist agrarians taking part in the elections has made some decree it an illegitimate one, yet even so the Greek people have assembled at the polls to select a new government."
-gre.51.a:0 "The Peoples' Party wins"
-gre.51.b:0 "The Rural Democratic Front is victorious"
-gre.51.c:0 "A coalition of liberals and moderate socialists carries the day"
-gre.52.t:0 "National Elections of [GetYear]"
-gre.52.d.noban:0 "The syndicalists have benefited from their coalition with moderate socialists, and now present a real threat as the Greek people go to the polls. The world watches nervously as the election results come in..."
-gre.52.d.ban:0 "The ban on the syndicalists and socialist agrarians taking part in the elections has made some decree it an illegitimate one, yet even so the Greek people have assembled at the polls to select a new government."
-gre.52.a:0 "The Peoples' Party manages a surprise upset"
-gre.52.b:0 "The New Liberal Coalition carries the day"
-gre.52.c:0 "The Liberal Party is victorious"
-gre.52.e:0 "The Social Workers’ Party of Greece takes the election!"
+gre.22.t:0 "파판드레우 스캔들"
+gre.22.d:0 "많은 정부 장관들이 부패 스캔들에 연루된 것이 언론에 의해 밣혀졌습니다. 그러나 진짜로 국민들이 충격 먹은 것은 요르요스 파판드레우 수상이 이 스캔들에 연류 되었다는 것입니다. 그가 이 스캔들에 연류 되었다는 증거가 부족하긴 하지만, 그를 신 자유연맹의 지도자로 남기는 것을 지금 다시 고려하기 시작했습니다.“
+gre.22.a:0 "Panagiotis Kanellopoulos가 신 자유연맹을 통제하다"
+gre.22.b:0 "파판드레우 근소한 차이로 리더쉽을 유지하다.“
+gre.23.t:0 "Themistoklis Soufilis의 죽음"
+gre.23.d.ishos:0 "Themistoklis Soufilis 수상이 오늘 서거했습니다. 그의 건강은 저번 선거에서부터 이상이 있었기 때문에, 대부분 정부 관료들은 몇 개월전에 예상 했으며, 그렇게 놀라워하지 않고 있습니다. 하지만 국민들은 충격을 받고 아테네 도로에서 그의 죽음을 추모하고 있습니다. 자유당에서의 그의 지도력은 이제 사라지고, Konstantinos Tsatsos에게로 계승 될 것입니다.“
+gre.23.d.nothos:0 "Themistoklis Soufilis이 오늘 돌아가셨습니다.  그의 건강은 저번 선거에서부터 이상이 있었기 때문에, 대부분 자유 당원들은 몇 개월전에 예상 했으며, 그렇게 놀라워하지 않고 있습니다. 하지만 국민들은 충격을 받고 아테네 도로에서 그의 죽음을 추모하고 있습니다. 자유당에서의 그의 지도력은 이제 사라지고, Konstantinos Tsatsos에게로 계승 될 것입니다.“ 
+gre.23.a:0 “그가 사라졌군...."
+gre.24.t:0 "Pangalis Tsaldaris의 죽음"
+gre.24.d:0 "인민당의 지도자인 Pangalis Tsaldaris가 오늘 사망했습니다. 그가 인민당의 지도자가 된 이후 시달린 퇴행성 질환으로 인해 사망했습니다. 많은 사람들이 그에 애도했고, 그의 지도자 위치는 그의 조카인 Konstantinos Tsaldaris에게로 넘어갔습니다. 새로운 인민당의 지도자는 추모 연설을 하면서 ‘자신의 온 마음을 다해 그의 유산을 이어 갈 것’이라고 말했습니다."
+gre.24.a:0 "전혀 예상하지 못했군"
+gre.50.t:0 "[GetYear] 총선"
+gre.50.d:0 “지금은 그리스의 이끌 정당을 뽑는 총선의 날입니다. 많은 정당들이 정부의 통제권을 얻기 위해 노력하며 결과를 주시하고 있습니다."
+gre.50.a:0 "인민당이 승리하다"
+gre.50.b:0 "신 자유 연맹이 승리하다“
+gre.50.c:0 "자유당이 승리하다"
+gre.50.e:0 "놀랍게도 민족 통일당이 승리하다.“
+gre.51.t:0 "[GetYear] 총선"
+gre.51.d.noban:0 "사회주의적 농민 정당이 군주제에 반대하는 세력을 흡수하면서, 전통적인 정치 정당들이 이번 선거에서 이길지 장담하지 못하는 상황입니다.“
+gre.51.d.ban:0 "사회주의 농민 정당을 선거 참여에 배제시키는 일환으로 그들을 불법으로 만들었습니다. 그렇지만 그리스 국민들은 새로운 정부를 선출 할 권리는 있습니다.“
+gre.51.a:0 "인민당 승리"
+gre.51.b:0 "농민 민주 전선 승리"
+gre.51.c:0 "자유주의자와 온건 사회주의자간 연립 정권의 승리“
+gre.52.t:0 "[GetYear] 총선"
+gre.52.d.noban:0 "생디칼리즘은 온건한 사회주의자들과 연립하면서 선거에서 이길 가능성을 보여주기 시작했습니다. 그리고 지금 세계는 이 선거의 결과를 긴장하며 보고 있습니다.“
+gre.52.d.ban:0 "사회주의 농민 정당과 생디칼리스트들을 선거 참여에 배제시키는 일환으로 그들을 불법으로 만들었습니다. 그렇지만 그리스 국민들은 새로운 정부를 선출 할 권리는 있습니다.“
+gre.52.a:0 "인민당의 승리"
+gre.52.b:0 "신 자유 연맹의 승리"
+gre.52.c:0 "자유당의 승리"
+gre.52.e:0 "사회 노동당의 승리!“
 gre.53.t:0 "The Restoration of Democracy"
 gre.53.d:0 "The army has maintained its promise, and today Greeks go to the polls to elect a new government."
 gre.54.t:0 "The New Government"
 gre.54.d:0 "While the elections have been contentious, only one outcome is certain: the former Greek government has zero chance of winning. This contest is entirely about who will step up to replace those which the public feel lost the war."
-gre.100.t:0 "The Referendum Begins"
-gre.100.d:0 "Word has been sent out to former King Alexander, currently in exile along with the rest of the royal family, that the referedum on the future of the monarchy has begun. Already lines have been drawn, with the pro-republicans and the pro-monarchists attempting to convince anyone and everyone of how to vote. It will be a difficult couple of months until the vote is actually held, and expectations are high that it will not be a peaceful time for Greece."
-gre.100.a:0 "Let's hope there's no trouble..."
-gre.101.t:0 "Monarchists in the Streets"
-gre.101.d:0 "The pro-monarchist forces are busily campaigning in the streets of Athens and other Greek cities, handing out pamphlets which suggest the government has not done its job and is in need of a king to watch over us. They are gaining considerable traction, and some are suggesting that we should make efforts to shut them down before their actions grow out of hand."
-gre.101.a:0 "Allow them to distribute their pamphlets"
-gre.101.b:0 "We must suppress this nonsense"
-gre.102.t:0 "The Republican Campaign"
-gre.102.d:0 "There are a number of advisors in the government growing nervous at the prospect of a monarchist victory. They are suggesting we should consider funding a campaign of our own, in favour of republicanism - quietly, of course, so not to draw undue suspicion that we are exerting too much influence on the results. This is, however, exactly what they want."
-gre.102.a:0 "Yes, we should fund this effort"
-gre.102.b:0 "No, we should not get involved"
-gre.102.c:0 "Discourage this talk within our government"
-gre.103.t:0 "Aristocratic Lobbying"
-gre.103.d:0 "Reports have it that a large number of wealthy Greek aristocrats are busily buying up influence within the government, what they call 'lobbying'... and, it's said, with the assistance of the influential Ioannis Metaxas, who himself has weighed heavily in favour of the monarchy's restoration. If we allow this influence-peddling to continue, the monarchists will definitely gain an advantage in the upcoming referendum."
-gre.103.a:0 "We'll allow it"
-gre.103.b:0 "Place a moratorium on this 'lobbying'"
-gre.104.t:0 "The Syndicalist Rally"
-gre.104.d:0 "Small rallies have been held throughout the north by the syndicalists, with a huge rally apparently planned for tomorrow in the city of Athens - with the charismatic Nikos Zachariadis, leader of the Kinonikó Ergatikó Kómma, said to be preparing a fiery speech against the monarchy and all it stands for. There are fears that Zachariadis might do more than stir up republican support, however, and also gain plenty of support for his own revolutionary ideas."
-gre.104.a:0 "Allow the rally to proceed"
-gre.104.b:0 "Send in the police to break it up, by force if necessary"
-gre.105.t:0 "Monarchist Riot"
-gre.105.d:0 "Rioting has broken out in Athens after fears by monarchist supporters that they will lose the upcoming referendum were followed by accusations that our government was attempting to rig it. There has been considerable damage, and a large number of assaults on republican supporters and their headquarters. If we don't do something soon, the damage done to the republican cause will be significant."
-gre.105.a:0 "Keep it contained, but use leniency"
-gre.105.b:0 "Shut this down with extreme prejudice"
-gre.106.t:0 "Republican Riot"
-gre.106.d:0 "Rioting has broken out in Athens after fears by republican supporters that they will lose the upcoming referendum were followed by accusations that our government was attempting to rig it. There has been considerable damage, and a large number of assaults on several aristocrats as well as monarchist supporters and their headquarters. If we don't do something soon, the damage done to the monarchist cause will be significant."
-gre.107.t:0 "Monarchists Have the Advantage"
-gre.107.d:0 "The sentiment within Greece in the lead up to the referendum appears to be favouring the monarchists. Some are suggesting that, if the government were to intervene and rig the referendum, now would be the time to begin. The more popular the monarchists become, the less likely the rigging would be successfully kept secret, but advisors say that the alternative is that the monarchists might win."
-gre.107.a:0 "We need to rig the outcome in favour of the republic"
-gre.107.b:0 "Might win? We must rig the referendum to ensure it!"
-gre.107.c:0 "Do nothing - we will accept the legitimate results"
-gre.108.t:0 "Republicans Have the Advantage"
-gre.108.d:0 "The sentiment within Greece in the lead up to the referendum appears to be favouring the republicans. Some are suggesting that, if the government were to intervene and rig the referendum, now would be the time to begin. The more popular the republicans become, the less likely the rigging would be successfully kept secret, but advisors say that the alternative is that the republicans might win."
-gre.108.a:0 "We need to rig the outcome in favour of the monarchy"
-gre.109.t:0 "Voting Begins"
-gre.109.d:0 "Today, all throughout Greece, voting has begun on the referendum to determine the future of the Fourth Republic. King Alexander is on-hand in Athens, having returned to the country for the first time since his exile, though it will be several days until the final results are tallied."
-gre.109.a:0 "We're on pins and needles"
-gre.110.t:0 "Greek Referendum"
+gre.100.t:0 "국민 투표를 시작하다."
+gre.100.d:0 "국민 투표로 군주제가 복원 될 수 있다는 소문이 전 국왕이자 추방된 왕족 일원 중 하나인 알렉산도르스에게 보내졌습니다. 친 공화주의자와 친 왕정주의자가 나뉘어져서 서로가 자신의 진영을 향해 투표하는 것을 설득하고 있습니다. 아마 국민 투표가 이루어지는데 2개월 정도가 필요할 것으로 보이며, 그 동안 아마 평화롭게 보내지는 못할 것 같습니다.“
+gre.100.a:0 "문제가 일어나지 않기를...."
+gre.101.t:0 "왕정주의자들이 도로에서 행진하다"
+gre.101.d:0 "왕정주의지지 세력들 아테나와 다른 그리스 도시에서 도로에서 행진을 하며 팜플렛을 뿌리며 홍보하고 있습니다. 이들은 현 정부를 무능하다고 하며 왕의 통치를 요구하고 있죠. 그들의 주장에 많은 사람들이 동조하고 있고, 일부는 이들이 더 커지기 전에 제한해야 한다고 주장하고 있습니다.“
+gre.101.a:0 "그들이 팜플렛 뿌리는 것을 허락한다.“
+gre.101.b:0 "우리는 반드시 그들을 억제해야 한다."
+gre.102.t:0 “공화주의자 캠페인"
+gre.102.d:0 "정부의 조언자들 상당수가 왕정주의자들의 승리를 우려하고 있습니다. 그들은 공화주의 홍보를 위한 캠페인을 제안하며 자금 지원을 요청했습니다. 물론 이것은 국민 투표 결과에 의문을 품을 할 정도로 지원하지 않겠지만, 충분히 논란의 여지는 있을 것입니다.“
+gre.102.a:0 "그래, 우리는 이것을 지원해야 한다.“
+gre.102.b:0 "아니, 우리는 이것을 지원하지 않을 것이다."
+gre.102.c:0 "우리 정부에서 이런 주장을 하는 것을 막아야 한다.“
+gre.103.t:0 "귀족들의 로비"
+gre.103.d:0 "보고서에 따르면, 많은 부유한 귀족들이 정부 내에 영향력을 행사하고 있습니다. 로비 형식으로 말이죠. 그리고 이들의 배후에는 군주제 복원을 염원하는 요안니스 메탁사스가 있다고 합니다. 만약 우리가 이것을 허용한다면, 왕정주의자들이 다가올 총선에서 유리한 고지를 가지게 될 것입니다."
+gre.103.a:0 “우리는 이것을 허용 할 것이다."
+gre.103.b:0 "이러한 ‘로비 활동’은 중단되어야 한다.“
+gre.104.t:0 "생디칼리스트들의 집회"
+gre.104.d:0 "북부 전역에서 생디칼리즘에 의한 작은 집회들이 열렸습니다. 그리고 내일 아테네에서 대규모 집회가 일어 날 예정입니다. 사회 노동당의 카리스마적 지도자인 니콜라오스 자카디스는 약자들을 대변하고 군주제에 대항한 연설을 그 집회에서 할 것입니다. 그가 단순히 공화주의자를 지원하는 것을 넘는 것이 우려스럽지만, 그러나 우리의 혁명적 이상을 강력하게 지지할 것이라는 사실은 명백합니다.“
+gre.104.a:0 "이들의 집회를 허용해라."
+gre.104.b:0 "경찰을 동원에 해산시켜라, 필요하다면 강제로라도.“
+gre.105.t:0 "왕정주의자 폭동"
+gre.105.d:0 "왕정주의자들은 다가올 국민 투표에서 질 가능성이 커지자, 우리 정부가 조작을 한다고 주장하면서 아테네에서 그들이 폭동을 일으켰습니다. 그들이 공화주의자 지지자와 본부에 준 피해를 생각한다면, 공화주의 진영에 적잖은 타격을 준 것으로 보입니다.“
+gre.105.a:0 "우리는 침착함을 유지하고, 관용을 배풀어야 한다.“
+gre.105.b:0 "그들을 잡아 가두고 엄중히 처벌해야 한다.“
+gre.106.t:0 "공화주의자 폭동“
+gre.106.d:0 "공화주의자들은 다가올 국민 투표에서 질 가능성이 커지자, 우리 정부가 조작을 한다고 주장하면서 아테네에서 그들이 폭동을 일으켰습니다. 그들이 왕정주의자 지지자와 본부에 준 피해를 생각한다면, 왕정주의 진영에 적잖은 타격을 준 것으로 보입니다.
+gre.107.t:0 "군주제 복원이 우세"
+gre.107.d:0 "그리스 내부 상황으로 살펴보면, 왕정주의자들이 우세를 점한 것으로 보입니다. 일부는 정부가 국민 투표에 대한 선거 조작을 해아 한다고 제안했습니다. 군주제가 인기가 많을수록 조작이 들킬 가능성은 높아지며, 많은 조언자들은 왕정주의자들이 아마도 이길 것이라고 예측하고 있습니다.“
+gre.107.a:0 "우리는 공화국이 이기도록 조작해야 한다.“
+gre.107.b:0 "아마도 이긴다고? 군주제는 반드시 복원되어야 한다!"
+gre.107.c:0 "아무것도 하지마라, 우리는 이 선거를 받아드릴 것이다."
+gre.108.t:0 "공화국 유지 우세"
+gre.108.d:0 "그리스 내부 상황으로 살펴보면, 공화주의자들이 우세를 점한 것으로 보입니다. 일부는 정부가 국민 투표에 대한 선거 조작을 해아 한다고 제안했습니다. 공화제가 인기가 많을수록 조작이 들킬 가능성은 높아지며, 많은 조언자들은 공화주의자들이 아마도 이길 것이라고 예측하고 있습니다.“
+gre.108.a:0 “우리는 군주제 복원이 우위가 되도록 조작해야 한다."
+gre.109.t:0 "선거가 시작되었습니다."
+gre.109.d:0 "오늘 그리스 전역에서 네 번째 공화국의 운명을 결정짓는 총선이 열렸습니다. 알렉산도로스 왕은 이미 추방된 이후 처음으로 조국인 아테네에 도착했으며, 몇일 이내로 결과가 나올 것입니다.“ 
+gre.109.a:0 "항상 바늘과 실은 붙어있기 마련이지."
+gre.110.t:0 "그리스 국민 투표"
 gre.110.d:0 "BOUNCE EVENT"
-gre.110.a:0 "Republicans"
-gre.110.b:0 "Monarchists"
-gre.111.t:0 "Republican Victory"
-gre.111.d:0 "The question of the monarchy's future has finally been settled, and the answer is that the Fourth Republic will live on. The king and the rest of the royal family will return to exile, and while it will take some time for the republic's strength to be solidified, for now it seems the debate is finally over."
-gre.111.a:0 "Long live the Republic of Greece!"
-gre.112.t:0 "Monarchist Victory"
-gre.112.d:0 "The question of the republic's future has finally been settled, and it is with celebration throughout the country that its people welcome back the royal family. There is, however, already disagreement on who should assume the throne: should it be King Alexander, the unpopular younger brother who ascended to the throne after his father and brother were originally exiled, or Prince George, the brother who should have been the heir and yet has never been king? Alexander is considered the more moderate and legitimate choice, considering George's autocratic tendencies, but George is clearly the popular favourite."
-gre.112.a:0 "We will need to decide soon"
-gre.113.t:0 "Greek Referendum Rigging"
+gre.110.a:0 "공화주의자"
+gre.110.b:0 "왕정주의자"
+gre.111.t:0 "공화주의자 승리"
+gre.111.d:0 "군주제 문제가 마침내 해결되었습니다. 그리고 제 4 공화국은 살아남았습니다. 왕과 나머지 왕족은 다시 추방될 것입니다. 공화국이 단결하려면 당분간 시간이 필요하지만, 이 논쟁은 마침내 끝난 것으로 보입니다.“
+gre.111.a:0 "그리스 공화국이여 영원하라!"
+gre.112.t:0 "왕정주의자 승리"
+gre.112.d:0 "공화국 문제가 마침내 해결되었습니다. 그리고 국가 전역에서 왕족의 귀환과 군주제의 복원을 환영 하고 있습니다. 아직 논쟁 되어야 할 것이 있습니다. 인기 없는 동생인 알렉산도로스가 왕이 되어야 하느냐? 아니면 오래전에 추방되었던 게오르기오스가 왕이 되어야 하느냐? 누가 왕좌에 오르고 혹은 못오르게 될까요? 알렉산도로스는 온건하고 입헌군주제적 성향이 있지만, 반대로 게오르기오스는 독재적 경향이 있습니다. 하지만 대신 게오르기오스는 비교적 인기가 많습니다.“
+gre.112.a:0 "우리는 결정을 빨리 해야 한다."
+gre.113.t:0 "그리스 선거 조작"
 gre.113.d:0 "BOUNCE EVENT"
-gre.113.a:0 "Discovered"
-gre.113.b:0 "Not Discovered"
-gre.114.t:0 "The Metaxas Coup"
-gre.114.d:0 "Our worst fears have been realized: the attempt to rig the election in favour of the republicans has been discovered, with several government officials having gone public with the proof. Riots have spread throughout the country, and former General Ioannis Metaxas has stepped in to take over. He and numerous army supporters have stormed parliament, arresting government leaders and declaring Metaxas as interim President and dictator."
-gre.114.a:0 "So ends democracy in Greece once again..."
-gre.115.t:0 "The Syndicalist Coup"
-gre.115.d:0 "Our worst fears have been realized: the attempt to rig the election in favor of the monarchy has been discovered, with several government officials having gone public with the proof. Riots have spread throughout the country, and syndicalist leader Athanasios Klaras has stepped in to take control. He and numerous army supporters have stormed parliament, arresting government leaders and declaring Nikos Zachariadis as interim President and dictator. While there is some resistance, the rage at the government's actions has made it so that the syndicalists have more support than they would otherwise have enjoyed."
-gre.116.t:0 "Coup in Greece"
-gre.116.d.metaxas:0 "With confidence in the Greek government having reached a new low, and riots spreading throughout the country, former General Ioannis Metaxas has stepped in to assume control, seizing the Parliament in Athens and declaring himself dictator. He has also declared Greece to be free of [Root.GetAdjective] rule, vowing to fight any reprisal should it come."
-gre.116.d.syndicalist:0 "With confidence in the Greek government having reached a new low, and riots spreading throughout the country, syndicalist strongman Athanasios Klaras has stepped in to assume control, seizing the Parliament in Athens and declaring Nikos Zachariadis and the syndicalist communes as the leaders of the new republic. He has also declared Greece to be free of [Root.GetAdjective] rule, vowing to fight any reprisal should it come."
-gre.116.a:0 "They cannot escape so easily"
-gre.116.b:0 "We have little choice but to let them be"
-gre.117.t:0 "The Monarchist Question"
-gre.117.d:0 "There is no question that the monarchists lost the referendum. It is, however, not the first time - they'll be back eventually, unless we can make sure that this is the last time they'll think of raising the question. Some are suggesting we begin a purge of all remaining or suspected monarchists from the government and army. Others, however, say we should take a softer approach lest our attempt to strengthen the republic weaken it instead."
-gre.117.a:0 "Purging them is the only way"
-gre.117.b:0 "Let them remain - the question is settled"
-gre.118.t:0 "The Republican Question"
-gre.118.d:0 "There is no question that the republicans lost the referendum. It is, however, not the first time - they'll be back eventually, unless we can make sure that this is the last time they'll think of raising the question. Some are suggesting we begin a purge of all remaining or suspected republicans from the government and army. Others, however, say we should take a softer approach lest our attempt to strengthen the republic weaken it instead."
-gre.119.t:0 "Rise of the Agrarians"
-gre.119.d:0 "With the monarchist now solidly in control of the nation, those who remain loyal to republican values have begun turning away from liberal parties - and instead have turned to the socialist agrarians under the Rural Democratic Front. Their fortunes have been especially buoyed by endorsements from Greek syndicalists, who see gathering together under the agrarian banner as the only way of defeating the monarchists and conservatives now in control of the nation. Rural Democratic Front leaders have been courting the moderate left in recent weeks, and if they succeed then the agrarians will pose a potent force in the upcoming election."
-gre.119.a:0 "Rather worrying..."
-gre.119.b:0 "Ban them from the elections"
-gre.120.t:0 "A Liberal and Socialist Coalition"
-gre.120.d:0 "While there were fears that the moderate socialists would agree to ally with the hardline agrarians, those fears appear to have been unfounded. Today the National Unionist Party announced a coalition with the Liberal Party, with Georgios Papandreou and Nikolaos Plastiras reportedly having hashed out a deal to form a united cabinet. This will blunt the efforts of the Rural Democratic Front, and possibly poses a threat to the Peoples' Party in the next election."
-gre.120.a:0 "Interesting"
-gre.121.t:0 "The Left Unites"
-gre.121.d:0 "In response to the republican control over [GRE.GetNameDef], parties across the left of the spectrum have united under syndicalist leader Nikos Zachariadis, who intends to run in the upcoming election - and with support from moderate socialists, stands to pose a serious threat. Already there is talk within the government regarding whether the syndicalists should be banned, although their popularity indicates that would instantly throw the nation into civil war if attempted."
-gre.121.a:0 "They can't win anyhow"
-gre.121.b:0 "Ban them from the elections"
-gre.122.t:0 "The Syndicalists Rise Up"
-gre.122.d:0 "Having been banned from Greek elections, the left has gathered its supporters together in the state of Thessalia and started a campaign to take over [Root.GetNameDef]. The civil war has begun!"
-gre.122.a:0 "They will regret this"
-gre.123.t:0 "The Syndicalists are Victorious"
-gre.123.d:0 "We can no longer resist the syndicalists. Our forces have begun laying down their arms and surrendering en masse. It appears another nation has fallen to tyranny."
-gre.123.a:0 "A sad day..."
-gre.124.t:0 "We Are Alone"
-gre.124.d:0 "[GRE.GetNameDefCap] is no more, and we now stand alone. This is victory, of a sort."
-gre.124.a:0 "We'll take it!"
-gre.150.t:0 "The First Hellenic Congress"
-gre.150.d:0 "Syndicalists and trade union leaders from across the country met in Athens this week to discuss the future of [Root.GetNameDef]. Where does it belong in the international socialist community? How will its economy be restructured? What is to be done about the remaining republicans and monarchists who will surely struggle against the new order? In the end, the congress turned into a struggle between two men: the acting chairman, Nikos Zachariadis, and the charismatic general, Aris Velouchiotis. Velouchiotis's vision for Greece is much less forgiving, and far more geared towards turning the country into a military power, while Zachariadis argues that path will destroy Greece in the end."
-gre.150.a:0 "Zachariadis remains in control"
-gre.150.b:0 "Aris Velouchiotis commands the room, in the end"
-gre.151.t:0 "Establishing the Communes"
-gre.151.d:0 "While the unions are certainly willing, changing the entire [Root.GetAdjective] economy to a socialist model will be a challenge. Some are suggesting that no mercy be shown - swift industrialization is a necessary goal of the communes, and anyone who doesn't comply quickly enough should be punished. Others say that a more diplomatic tactic is needed: work with the capitalists and convince them the communes will benefit them, and use incentives to win them over. Still others say it is the unions who should lead the way - bring them more directly into the government, and prove to the country that the communes are a government by the worker."
-gre.151.a:0 "Expand the industrial base, regardless of the cost"
-gre.151.b:0 "Ease the country into this, with incentives"
-gre.151.c:0 "The unions must drive this change - let them take charge"
-gre.152.t:0 "Rebuilding the Nation"
-gre.152.d:0 "The capitalists of Greece have been beaten into submission, and now all that remains is to rebuild the country's economy from the ground up. For that, the government is turning to the Dioitikis - the leader - for direction on what should be the main priority moving forward."
-gre.152.a:0 "We must build our military power"
-gre.152.b:0 "A strong civilian industry will be our foundation"
-gre.152.c:0 "Unity is more important than the economy"
-gre.153.t:0 "Unions March in Thessalia"
-gre.153.d:0 "The effects of Black Monday are being felt throughout Greece, but the hard-hit industrial workers are now marching in the streets in protest. In Thessalia, the crowds are especially large, spurred on by union leaders as well as the charismatic syndicalist spokesman, Nikos Zachariadis. The syndicalists are gaining a ready audience, and many in the government are suggesting that we crack down on them hard before they have a further chance to spread more sedition."
-gre.153.a:0 "Crack down on these rabble-rousers"
-gre.153.b:0 "Keep them contained, but we want no violence"
-gre.154.t:0 "The Farming Crisis"
-gre.154.d:0 "A great deal of Greece's economy relies on agricultural exports - and thus, with the collapse of European markets following the onset of Black Monday, a huge number of Greek farmers are left with crops they cannot sell. Not only does this put them in an immediate crisis, Greece will feel the effects for years to come if too many of the communes fold now. Thousands of farmers are marching in the streets, with radical agrarian sentiment running high."
-gre.154.a:0 "This isn't good..."
-gre.155.t:0 "The Santos Plot"
-gre.155.d:0 "Greek leader Aris Velouchiotis is many things, but a leader who unites people is not one of them. There has been many conflicts within the government, the most serious one being a growing division between Velouchiotis and party official Georgios Santos. Recently it was revealed that Santos and a cadre of fellows hatched a scheme to have Velouchiotis ousted as leader, though Velouchiotis is unlikely to go quietly..."
-gre.155.a:0 "Georgios Santos takes over party leadership"
-gre.155.b:0 "Santos is executed - Aris Velouchiatis rules"
-gre.156.t:0 "The Second Hellenic Congress"
-gre.156.d:0 "Syndicalists and trade union leaders from across the country met in Athens this week to vote on the chairmanship, with Nikos Zachariadis this time challenged by longtime party member Konstantinos Speras. Speras is said to be a more moderate choice, attracting many of the less radical syndicalists who feel a hard line is no longer necessary in [GRE.GetNameDef]."
-gre.156.a:0 "Zachariadis ushers in a new cabinet and retains control"
-gre.156.b:0 "Konstantinos Speras wins the most votes and becomes chairman"
-gre.157.t:0 "The Third Hellenic Congress"
-gre.157.d.zach:0 "As the third syndicalist congress begins, Nikos Zachariadis announced that he would not be running again for the chairmanship - a surprise to many, considering how popular the man remains. While many consider the congress a sad farewell to their leader, the delegates now must choose his replacement: either the moderate Konstantinos Speras, running once again, or the new and charismatic upstart, Nikos Beloyannis."
-gre.157.d.notzach:0 "Syndicalists and trade union leaders from across the country met in Athens this week to vote on the chairmanship, with Konstantinos Speras challenged by young an charismatic upstart Nikos Beloyannis - who has already won over a large number of delegates despite his age."
-gre.157.a:0 "Konstantinos Speras maintains control"
-gre.157.b:0 "Konstantinos Speras wins the majority of the vote"
-gre.157.c:0 "Upstart Nikos Beloyannis wins over the council"
-gre.158.t:0 "Metaxas Makes his Move"
-gre.158.d:0 "Refusing to accept the conversion of Greece into a socialist state, Ioannis Metaxas has gathered together a large number of loyal soldiers and generals and started a rebellion in the northern province of Thessalia. His intention is to forcibly overthrow the government and return it to its 'natural' state."
-gre.158.a:0 "He must be stopped!"
-gre.159.t:0 "Metaxas Victorious"
-gre.159.d:0 "We can no longer resist Metaxas and his supporters. Our forces have begun laying down their arms and surrendering en masse. It appears another free nation has fallen to tyranny."
-gre.159.a:0 "A sad day for us all"
-gre.160.t:0 "We Are Alone"
-gre.160.d:0 "[GRE.GetNameDefCap] is no more, and we now stand alone. This is victory, of a sort."
-gre.160.a:0 "We'll take it!"
+gre.113.a:0 "발각되다"
+gre.113.b:0 "발각되지 않다."
+gre.114.t:0 "메탁사스의 쿠데타"
+gre.114.d:0 "우리가 생각한 최악의 사태가 벌어졌습니다. 공화국 유지를 위한 선거 조작이 발각된 것입니다. 일부 정부 관료들이 조작의 증거를 대중들에게 공개했고, 폭동이 전 국가를 뒤엎었습니다. 그리고 요안니스 메탁사스가 정부를 전복시켰죠. 그와 수많은 군대가 의회를 덮쳤고, 정부 지도자들을 체포한 다음에, 메탁사스 스스로 대통령이 되었습니다.
+gre.114.a:0 "그리스의 민주주의가 이렇게 종말을 맞는구나.“
+gre.115.t:0 "생디칼리즘 쿠데타"
+gre.115.d:0 "우리가 생각한 최악의 사태가 벌어졌습니다. 왕정제 복원를 위한 선거 조작이 발각된 것입니다. 일부 정부 관료들이 조작의 증거를 대중들에게 공개했고, 폭동이 전 국가를 뒤엎었습니다. 그리고 생디칼리즘 지도자인 Athanasios Klaras가 정부를 전복시켰죠. 그와 수많은 군대가 의회를 덮쳤고, 니콜라오스 자카디스를 대통령으로 추대했습니다. 일부의 저항에도 불구하고 정부의 행동의 행동으로 인해 많은 사람들이 생디칼리즘을 지지하는 상황이 되어버렸습니다.“
+gre.116.t:0 "그리스에서 쿠데타"
+gre.116.d.metaxas:0 "그리스 정부에 대한 신뢰가 하락했고, 폭동이 국가 전역으로 번지고 있습니다. 전 요안니스 메탁사스 장군은 국가를 전복시켰죠. 의회를 차지하고 스스로 독재관으로 선언했습니다. 그는 또한 [Root.GetAdjective]의 통치로부터 자유롭게 하겠다고 선언했죠. 그리고 어떠한 대가를 치루더라도 싸우겠다고 맹세했습니다."
+gre.116.d.syndicalist:0 "W그리스 정부에 대한 신뢰가 하락했고, 폭동이 국가 전역으로 번지고 있습니다. 생디칼리즘적 독재자인 Athanasios Klaras가 정부를 전복시켰죠. 의회를 차지하고 니콜라오스 자카디스를 새로운 생디칼리즘 코뮌 공화국의 리더로써 선언했습니다. 그는 또한 [Root.GetAdjective]의 통치로부터 자유롭게 하겠다고 선언했죠. 그리고 어떠한 대가를 치루더라도 싸우겠다고 맹세했습니다."
+gre.116.a:0 "그들이 이 상황에서 빠져나오는 것은 쉽지 않을 것이다."
+gre.116.b:0 "우리에게 선택의 여지가 없었다.“
+gre.117.t:0 "왕정주의자 문제"
+gre.117.d:0 "왕정주의자들이 국민 투표에서 패배함에 따라서 더 이상 문제는 없습니다. 그러나 이 것이 처음이 아닙니다. 그들은 아마 다시 왕정복고를 노리겠죠. 적어도 우리는 이 문제가 다시 불거지는 것이 이번이 마지막이 되어야 할 필요가 있습니다. 일부는 정부나 군대 내의 왕정주의자들을 모두 쫒아내야 한다고 말하고 있죠. 하지만 우리는 그들에게 온건하게 접근 할 수도 있습니다.“
+gre.117.a:0 "그들을 쫒아내는 것이 유일한 방법이다.“
+gre.117.b:0 "그들을 내버려둬라. 문제는 이미 해결되었다.“
+gre.118.t:0 "공화주의자 문제“
+gre.118.d:0 "공화주의자들이 국민 투표에서 패배함에 따라서 더 이상 문제는 없습니다. 그러나 이 것이 처음이 아닙니다. 그들은 아마 다시 공화국 재건을 노리겠죠. 적어도 우리는 이 문제가 다시 불거지는 것이 이번이 마지막이 되어야 할 필요가 있습니다. 일부는 정부나 군대 내의 공화주의자들을 모두 쫒아내야 한다고 말하고 있죠. 하지만 우리는 그들에게 온건하게 접근 할 수도 있습니다.“
+gre.119.t:0 "농민주의자의 성장"
+gre.119.d:0 "왕정주의자들이 국가를 통제하기 시작함에 따라서, 공화국 가치에 충성하는 사람들이 자유당에서 이탈하기 시작했습니다. 그들은 대신 사회주의적 농민 단체인 농민 민주 전선을 지지하기 시작했죠. 그들은 그리스 생디칼리즘의 지지를 받고 있으며, 이들이 보수주의자들과 왕정주의자들이 통치하는 그리스를 패배시킬 유일한 존재라고 생각합니다. 농민 민주 전선의 지도자는 최근 몇 주동안 온건한 좌파들과 접촉을 하고 있으며, 이들이 만약 성공한다면 농민주의자들은 다가오는 선거에서 강력한 세력이 될 것입니다.“
+gre.119.a:0 "걱정되는군..."
+gre.119.b:0 "그들은 선거에 참여를 못할 것이다.“
+gre.120.t:0 "자유주의자와 사회주의자간 연립"
+gre.120.d:0 "많은 사람들이 온건한 사회주의자들이 강경한 농민주의자들과 동맹을 맺을 것이라는 우려를 표했지만, 지금은 걱정 안 해도 될 것 같습니다. 오늘 민족 통일당은 자유당과의 연립 정권 수립 의향을 밝혔습니다. Georgios Papandreou 와 Nikolaos Plastiras는 연립 내각 구성을 끝냈으며, 이에 따라서 농민 민주 전선의 힘이 약화 될 것으로 보입니다. 그리고 다음 선거에서 인민당을 위협할 수 있는 세력이 될 것으로 보입니다.“
+gre.120.a:0 "흥미롭군"
+gre.121.t:0 "좌파 동맹"
+gre.121.d:0 "공화주의자들이 [GRE.GetNameDef]를 통치함에 따라서, 좌파 스팩트럼의 정당들이 생디칼리즘 리더인 니콜라오스 자카디스을 중심으로 단결하기 시작했습니다. 그리고 온건한 사회주의자들이 이들을 지지함에 따라서, 이들 역시 상당히 위협적인 세력으로 성장했습니다. 비록 그들이 만약 자신들을 금지시킨다면 내전을 불사하겠다는 말을 했지만, 정부 안에서는 생디칼리즘을 금지해야 한다는 주장이 나오기 시작했습니다.“
+gre.121.a:0 "그들이 이길 수는 없을 것이야."
+gre.121.b:0 "그들을 선거에서 제외한다."
+gre.122.t:0 "생디칼리스트 봉기"
+gre.122.d:0 "그리스 선거에서 이들이 금지됨에 따라서, 좌파들은 자신들의 지지자들을 테살로니카에 집결 시키고 [Root.GetNameDef]를 전복시키자고 외치고 있습니다. 내전이 시작되었습니다!“
+gre.122.a:0 "그들은 이것을 후회하게 될 것이다."
+gre.123.t:0 "생디칼리스트들이 승리하다!"
+gre.123.d:0 "우리는 더 이상 생디칼리스트에게 저항 할 수 없습니다. 우리 군대는 저 폭도들에게 투항했습니다. 아마 이 국가는 독재 세력에게 넘어간 것으로 보입니다.“
+gre.123.a:0 "오늘은 슬픈 날이구나...."
+gre.124.t:0 "우리는 살아남았다."
+gre.124.d:0 "[GRE.GetNameDefCap]는 더 이상 없습니다. 우리는 이제 살아남았고 승리했습니다.“
+gre.124.a:0 "우리는 살아남았다!"
+gre.150.t:0 "첫 번째 헬레닉 평의회"
+gre.150.d:0 "국가 전역의 생디칼리스트와 노동조합 지도자들이 아테네에서 [Root.GetNameDef]의 미래를 토론하기 위해 만났습니다. 어떤 인터네셔널 사회주의 공동체에 소속될 것인가? 경제는 어떻게 재건 할 것인가? 공화주의자들이나 군주주의자들을 저항에 어떻게 대항 할 것인가? 등에 대해서 토론이 이루어졌고, 마침내 평의회는 두명의 의장을 선출해야 할 시간이 왔습니다. Nikos Zachariadis와 카리스마적 장군인 Aris Velouchiotis 중에서 말이죠. Velouchiotis'은 더 극단적이고 군사적 힘을 동원해서라도 바꿔야 한다고 생각하죠. 반대로  자카디스는 이런 성향이 그리스를 파괴할거라고 주장하고 있습니다.“
+gre.150.a:0 "Zachariadis가 의장이 되다."
+gre.150.b:0 "Aris Velouchiotis가 의장이 되다."
+gre.151.t:0 "코뮌 수립"
+gre.151.d:0 "노동조합이 부단이 노력함에도 불구하고, [Root.GetAdjective]의 경제를 사회주의 경제 모델로 바꾸는 것은 너무나 힘든 과제입니다. 일부는 산업화에 코뮌이 필수적이라는 것을 강조하며 이에 반대하는 사람은 처벌하는 식으로 자비를 보이지 말아야 한다고 주장합니다. 다른 이들은 좀 더 외교적인 접근이 필요하다고 강조합니다. 자본주의자들과 함께 일하면서 그들이 코뮌과 같이 일하는 것이 이득이라는 것을 증명하면 코뮌 건설이 더 빨라질 것이라고 주장하면서요. 다른 일부는 노동조합이 코뮌을 만드는 주체라는 것을 말합니다. 이 정부는 어디까지나 노동자에 의한 정부라는 것을 강조하면서요.“
+gre.151.a:0 "비용을 고려하지 말고, 산업을 확장하라,“
+gre.151.b:0 "인센티브를 통해 코뮌을 확장시킨다.“
+gre.151.c:0 "노동조합이 이 일을 반드시 끝낼 것이다.“
+gre.152.t:0 "국가 재건"
+gre.152.d:0 "그리스 자본주의자들은 짓밞혀 복종하는 상태이고, 이제 다음 과제는 국가의 경제를 재건하는 것입니다. 지금 정부는 the Dioitikis - 지도자의 지시를 기다리고 있습니다.“
+gre.152.a:0 "우리는 먼저 군사력부터 재건해야 한다."
+gre.152.b:0 "강한 민간 경제가 필요하다“
+gre.152.c:0 "단결이 경제보다 더 중요하다."
+gre.153.t:0 "테살로니아에서 노동조합의 행진"
+gre.153.d:0 "검은 월요일의 파장이 전 그리스를 덮치면서, 산업 노동자들은 테살로니카에서 도로 행진을 시작했습니다. 이 규모는 매우 크고 카리스마적 생디칼리즘 지도자인 니콜라오스 자카디스을 중심으로 뭉쳤습니다. 많은 정부 관료들은 시위대 규모가 더 커지기 전에 전에 해산 시켜야 한다고 제안했습니다.“
+gre.153.a:0 "그 대중 선동가들을 해산시켜라“
+gre.153.b:0 "폭력 없이 그들을 진정시켜라,“
+gre.154.t:0 "농업 문제"
+gre.154.d:0 "그리스의 경제는 상당부분 농업 수출에 의존하고 있습니다. 그리고 검은 월요일로 인한 유럽 시장의 붕괴로 인하여서 많은 수의 그리스 농민들은 농작물을 팔지 못하고 있죠. 이것은 이번년도만의 문제가 아니라, 적어도 수년동안 계속될 농업 공동체 전반의 문제입니다. 수 천명의 농민들이 벌써 도로에 나와 시위하고 있고, 급진적인 농민주의자들이 인기를 얻고 있는 상황입니다.“ 
+gre.154.a:0 "이것은 좋지 않군...."
+gre.155.t:0 "산토스 음모"
+gre.155.d:0 "그리스의 지도자인 Aris Velouchiotis는 많은 능력을 가지고 있지만, 인민들을 하나로 통합시키는 능력은 부족합니다. 정부 안에서는 수많은 분쟁이 있고, 그 중 가장 심각한 것은 Velouchiotis 와 당 관리인 Georgios Santos간 분열입니다. 최근 산토스와 그의 동료들이 Velouchiotis를 쫒아낼 계획을 수립했습니다. 비록 Velouchiotis는 별로 안 좋아 한다고 해도요.“
+gre.155.a:0 "Georgios Santos가 지도자가 되다."
+gre.155.b:0 "Santos는 처형되고 - Aris Velouchiatis가 계속 통치하다."
+gre.156.t:0 "두 번째 헬레닉 평의회“
+gre.156.d:0 “국가 전역의 생디칼리스트들과 노동조합 지도자들이 아테네에서 만나 의장에 대한 투표를 할 예정입니다. 이 투표에서는 현 의장인 Nikos Zachariadis에 대항하여 의장직에 도전한  Konstantinos Speras간 대결이 될 것입니다. Speras는 더 온건한 발언을 하면서 비교적 혁명에 대해 피곤함을 느끼는 덜 강경한 생디칼리스트들에게 지지를 받고 있습니다."
+gre.156.a:0 "Zachariadis가 의장직을 유지하다."
+gre.156.b:0 "Konstantinos Speras 더 많은 득표를 하고 의장이 되다.“
+gre.157.t:0 "세 번째 헬레닉 평의회"
+gre.157.d.zach:0 "세 번째 생디칼리즘 평의회가 시작될 때, Nikos Zachariadis는 더 이상 의장직을 수행하지 않겠다고 밝혀서 그를 좋아한 많은 사람을 놀라게 했습니다. 그가 많은 사람들과 작별 인사를 하는 동안, 의원들은 새로운 의장을 선택해야 합니다. 온건한 Konstantinos Speras이나 혹은 갑작스럽게 떠오르는 젊은 정치가인 Nikos Beloyannis 중에서 말이죠.“
+gre.157.d.notzach:0 "국가 전역의 생디칼리스트들과 노동조합 지도자들이 아테네에서 만나 의장에 대한 투표를 할 예정입니다. Konstantinos Speras에 대항하여 젊고 카리스마 있는 정치가인 Nikos Beloyannis가 그의 나이에도 불구하고 의장 후보에 등록했습니다.“
+gre.157.a:0 "Konstantinos Speras가 계속 의장직을 수행하다."
+gre.157.b:0 "Konstantinos Speras가 과반의 득표를 얻다."
+gre.157.c:0 "신인 정치가인 Nikos Beloyannis가 승리하다."
+gre.158.t:0 "메탁사스가 봉기 하다."
+gre.158.d:0 "그리스가 사회주의 국가로 바뀌는 것에 반대하여, 요안니스 메탁사스는 자신에게 충성하는 병사와 장교들을 모아서 북부 테살로니카에서 반란을 시작했습니다. 그는 지금 정부를 전복시키고 ‘정상’으로 복구하려고 합니다.“
+gre.158.a:0 "그를 반드시 멈춰야 한다."
+gre.159.t:0 "메탁사스가 승리하다."
+gre.159.d:0 "우리는 더 이상 메탁사스에게 저항하고 있습니다. 우리 군대는 그들에게 항복을 하고 있고, 우리의 자유로운 국가는 이제 독재자의 손에 떨어지게 되었습니다.“
+gre.159.a:0 "오늘은 슬픈 날이구나."
+gre.160.t:0 "우리는 살아남았다."
+gre.160.d:0 "[GRE.GetNameDefCap]는 더 이상 없습니다. 그리고 우리는 살아남았습니다. 우리가 이겼습니다.“ 
+gre.160.a:0 "우리는 살아남았다."
 gre.200.t:0 "Diplomatic Overtures from [GRE.GetNameDef]"
 gre.200.d:0 "While our relations with the Greeks have been cool at best since their rebellion from Turkish rule in the 19th century, today we received several emissaries from [GRE.GetNameDef] who are hopeful to start a new era of peace between our nations - perhaps even going so far as to eventually work out an exchange of land and people, without the need to resort to further war. For today, however, they Greeks are looking for an indication that we might be open to such talks int he future."
 gre.200.a:0 "We welcome better relations with the Greeks"
