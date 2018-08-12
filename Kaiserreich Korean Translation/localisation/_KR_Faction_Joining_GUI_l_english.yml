@@ -5,20 +5,20 @@ FACTION_JOINING_ALERT_DESC: "[faction_member.GetFlag] §Y[faction_member.GetName
  
 FACTION_JOINING_CLOSE:0 "닫기"
  
-JF_GENERIC_FLAVOUR:0 "Their aggressive behaviour has marked a change in global balance and could have dire consequences for the stability in Europe and beyond."
+JF_GENERIC_FLAVOUR:0 "그들의 공격적인 행동은 세계 균형의 변화를 초래하었고 유럽과 그 너머의 안정에 심각한 결과를 초래할 수 있습니다."
 
-JF_GENERIC_FLAVOUR_1936:0 "The balance of power has begun to shift, straining the delicate post-Weltkrieg order Germany long struggled to build. The brokering of this alliance may have consequences."
-JF_GENERIC_FLAVOUR_1937_ACW:0 "With the eruption of War in North America the balance of power has suddenly and perhaps irrevocably changed. There will be consequences for the region and beyond."
-JF_GENERIC_FLAVOUR_1937:0 "The balance of power continues to shift. There may be consequences for the region and beyond."
+JF_GENERIC_FLAVOUR_1936:0 "힘의 균형은 변하기 시작하면서, 독일이 오랫동안 구축하려고 애썼던 정교한 세계대전후 질서가 흔들리기 시작했습니다. 이 동맹관계의 중개가 영향을 끼칠 지도 모릅니다."
+JF_GENERIC_FLAVOUR_1937_ACW:0 "북미에서 전쟁이 발발하면서 힘의 균형이 갑자기, 그리고 어쩌면 돌이킬 수 없을 정도로 바뀌었습니다. 이 지역과 그 너머에 영향을 끼칠 것입니다."
+JF_GENERIC_FLAVOUR_1937:0 "힘의 균형이 계속 바뀌고 있습니다. 이 지역과 그 너머에 영향을 끼칠 것입니다."
 JF_GENERIC_FLAVOUR_1938:0 "The geopolitical scales continue to tip, changing the balance, and with them many a strategic calculus. There will be consequences for the region and the world."
-JF_GENERIC_FLAVOUR_1939:0 "With the growth of geopolitical blocs comes rising tension, and many other countries now face difficult choices of alignment. The spectre of war looms over the region, and perhaps the whole world."
-JF_GENERIC_FLAVOUR_WK:0 "Even in times of war there exists a balance of power, changing by the moment. Whether or not this agreement will shift the conflict in either side's favour, only time will tell."   
-JF_GENERIC_FLAVOUR_WK_START:0 "The old world order lies shattered and engulfed by war, its web of alliances now changed almost beyond recognition."
-JF_GENERIC_FLAVOUR_GER_DEFEAT:0 "With German dominance now unquestionably broken, many already look to the future. One agreement at a time, a new world order is being built."
-JF_GENERIC_FLAVOUR_FRA_DEFEAT:0 "Even with German arms yet again victorious in Europe, the world is not as it was before the Second Weltkrieg. One agreement at a time, the future unfolds."
-JF_GENERIC_FLAVOUR_ENT_VICTORY:0 "The Entente's victory, despite all odds, has replaced the new with the old. The dominant powers of last century now overlook a familiar world order, even as new alliances emerge to change it."
-JF_GENERIC_FLAVOUR_OTHER_VICTORY:0 "With the old world order now lying in ruins, new powers are rising from the ashes. One agreement at a time, the world is being rebuilt."
+JF_GENERIC_FLAVOUR_1939:0 "지정학적 블록이 성장하면서 긴장이 고조되고 다른 많은 나라들이 현재 어느 쪽을 지지해야 하는지 어려운 선택에 직면해 있습니다. 전쟁이 이 지역과 아마도 전 세계를 닥칠 것입니다."
+JF_GENERIC_FLAVOUR_WK:0 "심지어 전쟁 중에도 힘의 균형은 존재하며, 순간적으로 변합니다. 이 협정이 어느 쪽을 더 유리하게 만들지는 오직 시간만이 말해줄 것입니다."   
+JF_GENERIC_FLAVOUR_WK_START:0 "구질서가 산산조각이 나고 전쟁에 휩싸여 있습니다. 동맹관계의 거미줄은 이제 거의 알아볼 수 없을 정도로 변했습니다."
+JF_GENERIC_FLAVOUR_GER_DEFEAT:0 "독일의 지배가 이제 의심할 여지 없이 깨지면서, 많은 사람들은 이미 미래를 내다보고 있습니다. 한 번에 하나의 합의를 거쳐, 새로운 세계 질서가 건설되고 있습니다."
+JF_GENERIC_FLAVOUR_FRA_DEFEAT:0 "독일군의 무기가 유럽에서 다시 승리를 거두었음에도 불구하고, 세계는 제2차 세계대전 이전과 같지 않습니다. 한 번에 하나의 합의를 거쳐, 미래가 펼쳐지고 있습니다."
+JF_GENERIC_FLAVOUR_ENT_VICTORY:0 "협상국의 승리는 모든 역경에도 불구하고 새로운 것들을 구식으로 바꾸었습니다. 지난 세기를 지배했던 세력이 이제 새로운 동맹이 이를 바꾸기 위해 일어났음에도 익숙한 세계질서를 바라보고 있습니다."
+JF_GENERIC_FLAVOUR_OTHER_VICTORY:0 "구세계의 질서가 폐허가 되면서, 새로운 열강이 잿더미에서 일어서고 있습니다. 한 번에 하나의 합의를 거쳐, 세계는 재건되고 있습니다."
  
 #ADD YOUR CUSTOM LOC HERE
-JF_ARG_GER_FLAVOUR:0 "Following the successful trade agreement and military cooperation between the two nations, [faction_member.GetLeader] has announced his participation in the [faction_leader.GetFactionName]" 
-JF_ARG_CAN_FLAVOUR:0 "Through shrewd diplomacy [faction_member.GetLeader] and the [faction_leader.GetName] have resolved the Islas Malvinas crisis, setting their differences aside for the common threat." 
+JF_ARG_GER_FLAVOUR:0 "양국간의 성공적인 무역 협정과 군사 협력에 따라, [faction_member.GetLeader]는 [faction_leader.GetFactionName]에 가입한다고 선언했습니다." 
+JF_ARG_CAN_FLAVOUR:0 "빈틈없는 외교를 통해 [faction_member.GetLeader]와(과) [faction_leader.GetName]은(는) 공동의 위협을 위해 그들의 차이점을 제쳐두고 이슬라스 말비나스 위기를 해결했습니다." 
