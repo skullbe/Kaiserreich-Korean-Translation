@@ -107,9 +107,6 @@ KR_SCENARIO_DESC:0 "1936년은 세계사의 전환점이 될 것입니다. 거�
 ### Germany ###
 GER_KR_GATHERING_STORM_DESC:0 "1919년, 5년의 전쟁 끝에 독일군은 프랑스에서 협상국의 방어선을 무너뜨렸습니다. 그리고 1921년, 영국의 항복이 뒤따랐습니다. 세계 대전은 독일을 유일무이한 강대국으로 만들어 주었지만, 1930년대 이후로 독일은 내리막길을 걷고 있습니다. 후퇴하는 세계 경제로 인해 독일의 산업력이 약화된 반면 다른 국가들의 제조업은 회복되었고, 독일의 동부 위성국들에서는 민족주의가 퍼져 제국에서 떠나가기를 원하고 있습니다. 1936년, 독일은 갈림길에 서있고, 우리는 과거의 적들이 예전의 힘을 되찾는 동안 강대한 제국이 이미 금이 가고 있는 것을 보았습니다..."
 
-### Austria ###
-AUS_KR_GATHERING_STORM_DESC:0 "'분리되지도 나누어지지도 않는다' - 세계 대전의 여파는 이중제국이 그렇지 않다는 것을 입증했습니다. 승리했음에도 불구하고, 전쟁은 제국 내의 문화, 계급 그리고 이념의 분열을 드러내었고 전쟁이 끝나고도 내부의 불안은 계속되었습니다. 카를 황제는 다민족 제국이 20세기에서도 살아남을 수 있도록 개혁하기 위해 노력했고 일련의 대규모 개혁들을 실시했습니다. 하지만, 그의 개혁은 제국의 헝가리 측을 배제했었고 일리리아 반란으로 인한 위기는 양 측간의 긴장만을 조장했습니다. 오스트리아가 제국을 유지할 수 있을지 시간이 지나면 알게 될 것입니다..."
-
 ### Commune of France ###
 FRA_KR_GATHERING_STORM_DESC:0 "제3 공화국은 자신이 시작된 것과 같은 방식으로 끝났습니다: 독일군에게 패배했고, 본국에서 혁명을 맞이했습니다. 1919년, CGT에 의해 시작된 총파업은 부르주아 정부의 몰락을 초래했습니다. 15년 동안, 새로운 '프랑스 코뮌'은 공안위원회를 비롯한 생디칼리즘-사회주의 사이의 합의의 발판 위에서 단결할 수 있었습니다. 하지만 1936년, 국가를 재건하고 혁명을 수호해야할 필요성은 많은 비판자들에게 낡아빠진 것으로 여겨지고 있고 보다 급진적인 정책에 대한 요구가 커지고 있습니다. 프랑스는 자신의 사명에 확신을 가지고 있지만, 앞으로 어떤 혁명 분파가 권력을 장악할 지는 불분명합니다..."
 
@@ -128,7 +125,7 @@ USA_KR_GATHERING_STORM_DESC:0 "고립주의를 자처하던 미합중국은 세�
 ### Japan ###
 JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일본의 권리를 보장해줬지만, 욱일제국에서 모든 것이 잘 풀린 것은 아닙니다. 경제적 동요 이후 1926년 생디칼리스트의 히로히토 섭정-왕자 암살 시도로 그 극에 이르렀고, 불안정한 정부는 또다른 위기의 해를 보냈습니다; 첫 문제는 다나카 장군이었고, 다음은 민주 연립 내각이었으며 그 다음은 북동부 중국에 대한 개입이었습니다. 1936년, 일본은 제국을 확장할 태세를 취했습니다. 독일의 지배가 쇠퇴하고 있는 것으로 보이는 가운데, 일본인들은 남은 청나라의 영토와 독일의 태평양 지역들을 탐내고 있습니다..."
 
-### Minor Nations ###
+### Featured Nations ###
 
 ### Argentina ###
 ARG_KR_GATHERING_STORM_DESC:0 "마누엘 카를레스 하의 애국당이 군사 쿠데타를 일으켜 나라를 완전히 장악하고 있는 가운데 혼돈이 아르헨티나를 지배하고 있습니다. 한편 생디칼리스트 지지자들은 파타고니아에서 여전히 그들의 폭력 상태를 고수하고 있으며, 지금까지의 모든 공격들을 좌절시키고 있습니다. 전쟁은 거의 피할 수 없는 것이라는 사실에 압박을 받으며, 산업화는 국가적으로 필요에 따라 시작되었습니다. 초기 보고서는 어느 정도 성공을 나타내지만, 아직 갈 길이 멉니다..."
@@ -140,7 +137,7 @@ BRA_KR_GATHERING_STORM_DESC:0 "Brazil's new republic was forged on the fires of 
 CHL_KR_GATHERING_STORM_DESC:0 "Like a shining path for all of South America to follow, Chile was the first state in the continent to embrace Syndicalism. A revolution brought not by the people, but by elements of the military, the Chilean Syndicalist Republic blends ideological orthodoxy with long standing republican traditions, but with still a great deal of uncertainty regarding what lies ahead. One thing is certain; a confrontation with Argentina is to come soon, and Chile will be ready to meet the challenge."
 
 ### Paraguay ###
-PAR_KR_GATHERING_STORM_DESC:0 "Bolivia and their puppet masters at Standard Oil bit more than they could chew! Paraguay's grandioise victory in the Chaco War has all but erased from public memory the trauma of civil war, and after a brief period of instablity, war hero José Felix Estigarribia has firmly established himself as the most powerful man in Paraguay by a wide margin, and this is sure not to change, as long as he can affort to pay his men, that is... "
+PAR_KR_GATHERING_STORM_DESC:0 "Bolivia and their puppet masters at Standard Oil bit more than they could chew! Paraguay's grandioise victory in the Chaco War has all but erased from public memory the trauma of civil war, and after a brief period of instablity, war hero José Felix Estigarribia has firmly established himself as the most powerful man in Paraguay by a wide margin, and this is sure not to change, as long as he can afford to pay his men, that is... "
 
 ### Peru ###
 PRU_KR_GATHERING_STORM_DESC:0 "As the dictatorship of Benavides reaches its sixth year, the people start to see cracks in the government. As Benavides tries to maintain his rule, but democratic parties seemingly in vain ask for elections to bring Peru to normalcy, while other radical factions continue to pressure the government and attempt to gain influence over it, all the while the Syndicalists, once thought safely away from Peru, not lurk just in Chile, offering asylum and a base of operations for all manner of traitors...."
@@ -401,6 +398,13 @@ support_tech:0 "지원장비"
 support_tech_research:0 "지원장비 연구 시간"
 cat_strategic_destruction:0 "전략 파괴 기술"
 marine_tech_research:0 "해병대 기술 연구 시간"
+early_fighter:0 "전간기 전투기"
+interwar_antiair:0 "초기 대공"
+signal_company_tech:0 "통신 회사"
+cat_anti_air:0 "Stationary Anti-Air Guns"
+cat_light_spg:0 "Light Self-Propelled Guns"
+cat_medium_spg:0 "Medium Self-Propelled Guns"
+efficiency_tech:0 "Production Efficiency Tech"
 
 ### Army Command Traits ###
 
@@ -630,6 +634,7 @@ continuous_boost_freedom_desc:0 "식민지의 관료주의를 재편하고 원�
 continuous_restrict_freedom:0 "속국 탄압"
 continuous_restrict_freedom_desc:0 "우리의 식민지 주체는 "자기 결정"이나 "국가 독립"과 같은 것들에 대해 다소 바보 같은 생각을 갖게 되었습니다. 이제 그들을 이 관념에서 해방시킬 때입니다."
 unlocks_decision:0 "해금된 결정:"
+
 ### Generic Focuses ###
 generic_army_effort:0 "제트 항공기 제조사"
 generic_army_effort_desc:0 "세계대전은 처음부터 끝까지 나폴레옹 전쟁의 군대 사고에 대한 이해를 끝내고 소총, 기관총 및 포병 대포의 극단적이고 치명적인 상황을 확인함으로써 전쟁을 영원히 바꿔 놓았습니다. 우리 군대는 문자 그대로 적응하거나 소멸해야 합니다."
