@@ -63,8 +63,8 @@ kr.political.23.a:0 "우리가 할 수 있는건 없다."
 kr.political.23.b:0 "권력을 이용해서 장관의 노력을 수포로 돌려라."
 
 ### Starting Events ###
-kr.political.24.t:0 "카이저라이히 Alpha 0.7.1"
-kr.political.24.d:0 "카이저라이히 개발진이 Alpha 0.7.1버전을 하츠오브아이언4에 선사합니다! 지난 몇 달간 저희 개발진은 세계 구석구석을 모딩하였고, 이 작업물을 여러분에게 선보이게 되었습니다. 저희가 열심히 작업한만큼 여러분이 즐겁게 플레이하시기를 바랍니다. 한가지 알고 계셔야할 것은, 저희는 이 모드를 만들 때, 여러분이 평화회담에서 가능한 모든 지역을 가져간다는 전제하에 개발을 하였습니다, 따라서 그렇게 해주시길 바랍니다! \n\n또한 이 모드가 아직 알파버전인 것을 명심해주세요. 때문에 많은 버그들, 충돌 그 외 골치아픈 문제들이 발생할 수 있습니다. 만약 상기한 문제들을 발견하신다면, 깃허브의 버그트래커에 글을 남겨주세요.  만약 하고 싶은 질문이 있으시다면, 망설이지 마시고 질문해주세요, 다만 질문전에 게임 내에 있는 질의응답란을 먼저 확인해주세요.\n\n즐겁게 플레이하세요! \n                - 카라 개발진 일동, 개발진 목록은 크레딧란에서 보실 수 있습니다."
+kr.political.24.t:0 "카이저라이히 Alpha 0.7.2"
+kr.political.24.d:0 "카이저라이히 개발진이 Alpha 0.7.2버전을 하츠오브아이언4에 선사합니다! 지난 몇 달간 저희 개발진은 세계 구석구석을 모딩하였고, 이 작업물을 여러분에게 선보이게 되었습니다. 저희가 열심히 작업한만큼 여러분이 즐겁게 플레이하시기를 바랍니다. 한가지 알고 계셔야할 것은, 저희는 이 모드를 만들 때, 여러분이 평화회담에서 가능한 모든 지역을 가져간다는 전제하에 개발을 하였습니다, 따라서 그렇게 해주시길 바랍니다! \n\n또한 이 모드가 아직 알파버전인 것을 명심해주세요. 때문에 많은 버그들, 충돌 그 외 골치아픈 문제들이 발생할 수 있습니다. 만약 상기한 문제들을 발견하신다면, 깃허브의 버그트래커에 글을 남겨주세요.  만약 하고 싶은 질문이 있으시다면, 망설이지 마시고 질문해주세요, 다만 질문전에 게임 내에 있는 질의응답란을 먼저 확인해주세요.\n\n즐겁게 플레이하세요! \n                - 카라 개발진 일동, 개발진 목록은 크레딧란에서 보실 수 있습니다."
 kr.political.24.a:0 "카이저라이히 개발진분들 고맙습니다!"
 kr.political.24.c:0 "궁금증을 풀어줄 만한게 있을까요?"
 kr.political.24.e:0 "뭔가 놓친게 있는 것 같아..."
@@ -86,9 +86,9 @@ kr.political.28.d:0 "만우절 장난을 찾고 계신기요? 진영가입 제�
 kr.political.28.a:0 "알겠습니다!"
 
 ### Gamestart Opinion Modifiers ###
-kr.political.40.t:0 "Setting Opinion Modifiers"
-kr.political.40.d:0 "If you can see this, make a bug report!"
-kr.political.40.a:0 "Seriously, report it."
+kr.political.40.t:0 "관계도 설정"
+kr.political.40.d:0 "이것을 보았다면, 버그를 제보해주세요!"
+kr.political.40.a:0 "진지하게, 신고하세요."
 
 KR_different_ideology:0 "다른 이념"
 KR_similar_ideology:0 "비슷한 이념"
@@ -109,6 +109,6 @@ KR_is_not_authoritarian:0 "비 사회주의 권위주의 정부를 가지고 §R
 KR_is_dictatorship:0 "비 사회주의 독재 정부를 가지고 있음"
 KR_is_not_dictatorship:0 "비 사회주의 독재 정부를 가지고 §R있지 않음§!"
 has_scripted_peace:0 "우리는 전쟁 중입니다"
-has_scripted_peace_desc:0 "국가가 전쟁 중이며, 승리를 목표로 하고 있습니다 - 기회가 있지만 우리의 저항력은 생각보다 조금 더 취약합니다. (Note: this exists for wars where a scripted peace event exists, and chances are the event will fire long before this elevated surrender limit is hit, just so you're aware.)"
+has_scripted_peace_desc:0 "국가가 전쟁 중이며, 승리를 목표로 하고 있습니다 - 기회가 있지만 우리의 저항력은 생각보다 조금 더 취약합니다. (안내: 이것은 평화 이벤트가 존재하는 전쟁을 위한 것이며, 항복율 한계가 거의 도달했을 때 발동됩니다. 이점을 알아두세요.)"
 
 
