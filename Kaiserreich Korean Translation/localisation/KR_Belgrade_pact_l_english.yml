@@ -6,7 +6,7 @@ SER_reparation_payments_desc:0 "세르비아가 4차 발칸전쟁에서 패배�
 BUL_reparation_payments_from_serbia:0 "세르비아로부터의 전쟁 배상금"
 BUL_reparation_payments_from_serbia_desc:0 "세르비아가 불가리아에 전쟁배상금을 지불하였습니다."
 GRE_reparation_payments:0 "오스만에게의 전쟁 배상금 지불"
-GRE_reparation_payments_desc:0 "그리스는4차 발칸전쟁에서 패배했기에 오스만에게 전쟁배상금을 지불해야합니다."
+GRE_reparation_payments_desc:0 "그리스는 4차 발칸전쟁에서 패배했기에 오스만에게 전쟁배상금을 지불해야합니다."
 OTT_reparation_payments_from_greece:0 "그리스로부터의 전쟁 배상금"
 OTT_reparation_payments_from_greece_desc:0 "그리스가 오스만에게 전쟁 배상금을 지불하였습니다."
 
@@ -19,7 +19,7 @@ Belgrade_Pact_Serbia_capture_macedonia_mission_desc:0 "드디어 우리는 불�
 Belgrade_Pact_Greece_capture_southern_macedonia:0 "남부 마케도니아 확보"
 Belgrade_Pact_Greece_capture_southern_macedonia_desc:0 "드디어 우리는 불가리아에게 복수를 할 수 있게 되었습니다. 대전쟁 이후 불가리아가 빼앗아간 우리의 정당한 영토인 마케도니아를 되찾아와야 할 사명이 있습니다."
 Belgrade_Pact_race_to_sofia:0 "소피아 레이스"
-Belgrade_Pact_race_to_sofia_desc:0 "The Bulgarian defences have been breached and the road to Sofia now lays open. It is a matter of time before the Bulgarian captial falls. Capturing this important city would be a great success for our nation."
+Belgrade_Pact_race_to_sofia_desc:0 "불가리아의 방어선이 저지되었으며 소피아로 향하는 길이 뚫렸습니다. 불가리아 수도가 함락되는 것은 시간문제입니다. 이 중요한 도시를 확보한다면 조국에 큰 성공을 가져다줄 것입니다."
 
 ### Opinion Modifiers ###
 Balkans_hates_bulgaria:0 "반불가리아 정서"
@@ -328,12 +328,12 @@ pact.61.b:0 "It will be a part of our occupation zone."
 
 pact.62.t:0 "도브루자의 지위"
 pact.62.d:0 "The Serbians have defeated Bulgaria and have come to us, offering Dobrudzha to us in return for allying with them. Regaining this province would calm the masses and increase our prestige abroad. Shall we accept the offer?"
-pact.62.a:0 "Welcome home, Dobrogea!"
-pact.62.b:0 "We don't want it."
+pact.62.a:0 "도브루자여 어서와라!"
+pact.62.b:0 "우리는 원하지 않아."
 
-pact.63.t:0 "Romania joins the Belgrade Pact"
-pact.63.d:0 "The Romanian government has agreed to our proposal and we have handed over Dobrudzha to them."
-pact.63.a:0 "Great!"
+pact.63.t:0 "루마니아가 베오그라드 협약에 가입했습니다"
+pact.63.d:0 "루마니아가 우리의 제안을 받아들였으며 우리는 루마니아에게 도브루자를 넘겨주었습니다."
+pact.63.a:0 "좋았어!"
 
 pact.64.t:0 "Call for occupation of Bulgaria"
 pact.64.d:0 "The Bulgarians have been defeated and we have redeemed ourselves in the eyes of the world! However, we had not originally thought out what to do with the remaining lands of Bulgaria beyond industrial reparations. The majority of our military officers are calling for at least temporary military occupation of the whole of Bulgaria, while some claim that an occupation might be too costly for our weary nation to handle."
@@ -395,19 +395,19 @@ pact.76.t:0 "Peace with the Belgrade Pact"
 pact.76.d:0 "The Belgrade Pact has accepted our peace offer. We have to cede some disputed land to them but they will retreat their forces."
 pact.76.a:0 "At least we're still a sovereign nation!"
 
-pact.77.t:0 "Albanian has surrendered"
+pact.77.t:0 "알바니아가 항복했습니다"
 pact.77.d:0 "The joined armed forces of the Belgrade Pact have managed to defeat the Ottomans and have occupied Constantinople. The Ottoman Empire has surrendered an ceded some disputed land to the Pact, but we have to give them their capital back. Another enemy of us is defeated."
 pact.77.a:0 "The Belgrade Pact stands triumphant!"
 
-pact.78.t:0 "We're losing the Balkan War"
+pact.78.t:0 "우리는 발칸전쟁에서 지고 있습니다"
 pact.78.d:0 "Though the Balkan War brought us huge success initially as we managed to conquer Bulgaria, the Albanian intervention has turned the tide. Large parts of Bulgaria are now occupied by the Ottomans, and they continue to push. We can offer the Albanians to cede all land we have gained and dismantle the Belgrade Pact. These are harsh terms but otherwise we might lose our independence."
-pact.78.a:0 "Sue for peace."
-pact.78.b:0 "We can still win this!"
+pact.78.a:0 "휴전을 제안한다."
+pact.78.b:0 "아직 우린 이길 수 있어!"
 
-pact.79.t:0 "Serbia asks for peace"
+pact.79.t:0 "세르비아가 휴전을 제안합니다"
 pact.79.d:0 "We have liberated large parts of Bulgaria and the Belgrade Pact is in retreat. Now, Serbia has approached us with a peace offer. The Belgrade Pact will give up all conquered Bulgarian territory and they will disband their alliance, returning to the pre-war state. In return we allow them to keep their independence."
-pact.79.a:0 "Enough bloodshed. End this war."
-pact.79.b:0 "No, they shall be crushed!"
+pact.79.a:0 "충분히 피를 흘렸어. 전쟁을 끝내자."
+pact.79.b:0 "아니다, 세르비아는 박살나야한다!"
 
 pact.80.t:0 "Peace is signed, end of the war"
 pact.80.d:0 "Though the Balkan War brought us huge success initially as we managed to conquer Bulgaria, the Albanian intervention has turned the tide. Large parts of Bulgaria are now occupied by the Albanians. Negotiations between Serbia and the Albanians have resulted in a peace deal. We need to give up all land we gained while the Belgrade Pact will be disbanded."
