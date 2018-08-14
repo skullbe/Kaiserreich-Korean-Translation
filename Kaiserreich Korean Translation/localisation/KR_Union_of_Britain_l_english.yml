@@ -1263,9 +1263,9 @@ uobflavour.40.d:0 "Oswald Mosley of the Union of Britain has invited prominent c
 uobflavour.40.a:0 "Have a safe flight, comrade!"
 
 uobflavour.41.t:0 "전체주의 선언"
-uobflavour.41.d:0 "무솔리니, 발루아, 베리야와 다른 관심있어하는 단체들이 그들의 공통점을 논의하기 위해 오늘 버밍엄에 도착했습니다. 최대주의, 소렐주의, 그리고 국가생디칼리즘이 모두 사회주의 투쟁에서 국가의 우월성과 국가에서 국가 정체성의 역할, 그리고 사회주의를 지키고 발전시키는데 강력한 중앙 권력이 필요하다는 것을 기본 원칙으로 모두 공유한다고 합의되었습니다. 이 선언은 또한 사회주의 국가가 인간 발전의 마지막 단계이며 민주주의는 사회주의를 성취하기 위해 필요하지 않다고 주장했습니다. 다른 사회주의 파벌들은 이러한 발언들을 "전체주의" 또는 전체주의적 사회주의라 부르면서 많은 비판을 가했습니다. 모즐리는 성명서에 그 이름을 추가하며 열렬히 받아들였고, 이를 사회주의에 대한 완전한 헌신으로 돌렸습니다.
+uobflavour.41.d:0 "무솔리니, 발루아, 베리야와 다른 관심있어하는 단체들이 그들의 공통점을 논의하기 위해 오늘 버밍엄에 도착했습니다. 최대주의, 소렐주의, 그리고 국가생디칼리즘이 모두 사회주의 투쟁에서 국가의 우월성과 국가에서 국가 정체성의 역할, 그리고 사회주의를 지키고 발전시키는데 강력한 중앙 권력이 필요하다는 것을 기본 원칙으로 모두 공유한다고 합의되었습니다. 이 선언은 또한 사회주의 국가가 인간 발전의 마지막 단계이며 민주주의는 사회주의를 성취하기 위해 필요하지 않다고 주장했습니다. 다른 사회주의 파벌들은 이러한 발언들을 '전체주의' 또는 전체주의적 사회주의라 부르면서 많은 비판을 가했습니다. 모즐리는 성명서에 그 이름을 추가하며 열렬히 받아들였고, 이를 사회주의에 대한 완전한 헌신으로 돌렸습니다."
 uobflavour.41.a:0 "인민들이 이 미친 짓을 거부하기를 바라자!"
-uobflavour.41.b:0 "사람들은 이 미친 짓을 거부해야 한다!"
+uobflavour.41.b:0 "인민들은 이 미친 짓을 거부해야 한다!"
 
 uobflavour.42.t:0 "예술의 연방"
 uobflavour.42.d:0 "For a few years now, a group of artists led by a German emigrant by the name of Hannes Meyer have pushed for their idea of a unified Union of Arts. They argue that 'all arts need to be brought together to create an actual, total work of art, a Gesamtkunstwerk.' Needless to say, many of the proposers have adapted this view of the arts onto their political life, where they stand for 최대주의자 views. They have also made themselves quite popular with drafts for Unionised Living Space for poorer comrades. \n\nThe artistic world of the Union is divided as sculptors, potters and writers deny having to do anything with those architects, and a clear path must be set. Should we establish one Union for all our artists, or leave things as they are?"
@@ -1400,11 +1400,11 @@ ENG_summon_the_home_guard_tp:0 "We shall call forth the Home Guard to defend Bri
 ### Decisions ###
 ENG_weltkrieg_decisions:0 "2차 세계대전 결단"
 ENG_weltkrieg_decisions_desc:0 "반동 세력을 향한 대조국전쟁이 지금 여기에 일어나고 있습니다. 영국은 생디칼리즘이 카이저라이히에 의해 사라지는 것을 막기 위해 최선을 다할 것입니다. 모든 남성과 여성은 이 위대한 전쟁에서 역할을 다할 것이며, 우리는 승리할 것입니다."
-ENG_internationale_decisions:0 "Internationale Decisions"
+ENG_internationale_decisions:0 "인터내셔널 결단"
 ENG_internationale_decisions_desc:0 "Britain has her role to play within the Third International and we shall make sure that we do our part in helping our comrades across the world."
-ENG_merchant_marine_ships:0 "Conscript Vessels"
+ENG_merchant_marine_ships:0 "선박 징집"
 ENG_merchant_marine_ships_desc:0 "The fishermen do not dare to go out to sea, so we may as well make their vessels serve as their protection. They may even get them back once the war is won."
-ENG_the_home_guard:0 "The British Home Guard"
+ENG_the_home_guard:0 "브리튼 조국 방위대"
 ENG_the_home_guard_desc:0 "The defence of Britain is needed. We must rally the people to defend the Islands in case the Germans decide to attack our Great Island. f"
 ENG_never_surrender:0 "항복하지 않는다"
 ENG_never_surrender_desc:0 "우리는 끝까지 갈 것입니다. 우리는 프랑스에서 싸울 것이고, 우리는 연안과 대양에서 싸울 것입니다. 우리는 점점 더 자신감을 가지고 싸울 것입니다. 우리는 우리의 섬을 지킬 것입니다. 어떤 비용을 들이던 간에, 우리는 해변에서 싸울 것이고, 우리는 착륙장에서 싸울 것이고, 우리는 들판과 거리에서 싸울 것이며, 우리는 언덕에서 싸울 것입니다; 우리는 절대 항복하지 않을 것입니다!"
