@@ -132,7 +132,7 @@ ARG_Expand_the_Gendarmeria_desc:0 "불만 지역을 더 잘 통제하고 사태�
 ARG_Control_the_Judiciaries:0 "사법부 통제"
 ARG_Control_the_Judiciaries_desc:0 "우리나라에서 '반군'과 '생디칼리스트 동조자'의 수가 많기 때문에 사법 제도에 대한 완전한 통제력은 판사들이 범죄자들을 더 빨리 단속하도록 할 수 있습니다."
 ARG_Secure_the_Military_Apparatus:0 "군사 조직 확보"
-ARG_Secure_the_Military_Apparatus_desc:0 "우리는 ARA와 애국당 민병대에 대한 충성심 만 갖고 있기 때문에, 우리는 주둔군과 민병대 전초 기지가 우리 편이 되어 민주주의 세력을 제쳐두고 아르헨티나 군대가 우리를 위해 충분한 영향력을 행사할 수 있을 때까지 설득해야 합니다."
+ARG_Secure_the_Military_Apparatus_desc:0 "우리는 ARA와 애국당 민병대에 대한 충성심만 갖고 있기 때문에, 우리는 주둔군과 민병대 전초 기지가 우리 편이 되어 민주주의 세력을 제쳐두고 아르헨티나 군대가 우리를 위해 충분한 영향력을 행사할 수 있을 때까지 설득해야 합니다."
 ARG_Control_the_Railroads:0 "철도 통제"
 ARG_Control_the_Railroads_desc:0 "아르헨티나의 모든 철도는 부에노스 아이레스로 연결되어 있어 우리가 신속하게 시위를 진압하고 군대를 집결시킬 수 있는 독특한 위치에 있습니다. 하지만 사보타주와 반군은 이 선로를 크게 파손시켰고, 페르가미노, 바이아블랑카, 로사리오의 주요 철도 중심지를 우리가 전진하기 전에 확보해야 합니다."
 ARG_Temporarily_Restrict_Civil_Rights:0 "일시적인 시민권 제한"
