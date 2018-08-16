@@ -375,7 +375,7 @@ GER_squad_tactics_desc:0 "The Chinese Intervention and more recent conflicts hav
 GER_motorized:0 "차량화 침투"
 GER_motorized_desc:0 "우리 군 고위 지휘부는 여러 사안에 대해 하나된 의견을 도출하지 못하였으나, 하나의 사안에는 의견을 모으고 있습니다: 1870년과 1871년 승리를 되돌아봤을 때, 작전 규모에서 신속하고 결정적인 승리는 보병을 집단적으로 차량화함으로써 달성할 수 있다는 것입니다."
 
-GER_doctrine_superior_firepower:0 "Neutralization"
+GER_doctrine_superior_firepower:0 "중립화"
 GER_doctrine_superior_firepower_desc:0 "The phrase 'artillery bombardment' fails to capture the essence of what we plan to do with artillery. We seek the complete neutralization of the enemy through a rain of shells, one that will last days, weeks, or longer--Whatever is needed."
 
 GER_doctrine_superior_firepower_2:0 "크루프 '전술'"
@@ -384,7 +384,7 @@ GER_doctrine_superior_firepower_2_desc:0 "There's nothing quite like a fresh art
 GER_doctrine_mobile:0 "새로운 교리"
 GER_doctrine_mobile_desc:0 "Some of the more radical innovators in our high command including, among others, Heinz von Guderian and Erich von Manstein, are lobbying for research into a totally new doctrine. They want to focus on the fast movement of armoured spearheads to break up solid fronts."
 
-GER_doctrine_mobile_2:0 "Encirclement Emphasis"
+GER_doctrine_mobile_2:0 "포위의 중요성"
 GER_doctrine_mobile_2_desc:0 "Even those who disagree with their theories would say that Guderian and Manstein have interesting ideas. For example, they propose that an enemy can be outmaneuvered and then easily destroyed once they are out of supplies and cut off. We need to encourage this innovative thinking, as it could make the difference."
 
 GER_doctrine_mobile_2_prerequisite:0 "§Y하인츠 구데리안§! 또는 §Y에리히 폰 만슈타인§!이 참모총장으로 있어야 합니다."
@@ -2408,15 +2408,15 @@ gerdom.284.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계�
 gerdom.284.a:0 "제한적인 자치권을 부여한다"
 gerdom.284.b:0 "직할통치를 유지한다"
 
-ostraum.2000.t:0 "Belorussia asks for increased Self-Governance"
-ostraum.2000.d:0 "A communiqué from the government of the Ruthenian King Waldemar I von Hohenzollern has requested more autonomy in their economical policy. They justify this both by claiming it will easen the burden of their still growing economy on the recovering German one, and that it will make their own, shaky government appear more legitimate."
-ostraum.2000.a:0 "Dire times afford sacrifices."
-ostraum.2000.b:0 "In no way, shape or form shall such a thing occur."
+ostraum.2000.t:0 "벨로루시가 더 큰 자치에 대해 물었습니다"
+ostraum.2000.d:0 "벨로루시의 왕 발데마르 폰 호엔촐레른 1세 정부의 성명서에 따르면 경제적인 분야에서 더 많은 자치권을 요구해왔습니다. 그들은 아직도 회복 중에 있는 독일 경제의 경제 성장에 대한 부담을 덜어 줄 수있고, 자신들의 모호한 정부를 보다 정당한 정부로 보이게 할 것이라는 두가지 사유로 자신들의 주장을 정당화하였습니다."
+ostraum.2000.a:0 "희생을 요구할 뿐이다."
+ostraum.2000.b:0 "어떠한 방식으로든, 자치는 필요하다."
 
-ostraum.2001.t:0 "Germany grants us limited Autonomy"
-ostraum.2001.d:0 "The German Government has allowed us self-determination in all things economical."
-ostraum.2001.a:0 "Towards a better Belorussia."
+ostraum.2001.t:0 "독일이 우리에게 제한적인 자치를 허용했습니다"
+ostraum.2001.d:0 "독일정부가 우리에게 모든 경제분야에 대한 자기결정권을 허용했습니다."
+ostraum.2001.a:0 "더 나은 벨로루시를 향하여."
 
-ostraum.2002.t:0 "Germany has denied our Request."
-ostraum.2002.d:0 "The German Government has declined to easen the grip on our economy. In countrary, they seem to be planning to strengthen it."
-ostraum.2002.a:0 "We will have our independence in time."
+ostraum.2002.t:0 "독일이 우리의 요청을 거부했습니다"
+ostraum.2002.d:0 "독일 정부는 우리 경제를 손에서 놓는 것을 거부했습니다. 오히려 독일이 경제간섭을 늘리려고 할 것입니다."
+ostraum.2002.a:0 "우리는 때가 되면 독립을 할 것이다"
