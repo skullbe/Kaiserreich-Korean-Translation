@@ -36,7 +36,7 @@ SER_refused_to_sell_ship:0 "전투순양함 판매를 거부함"
 ### Tooltips ###
 founded_belgradepact:0 "베오그라드 협약 창설"
 joined_belgradepact:0 "베오그라드 협약 가입"
-absolute_monarchy:0 "완전한 군주제를 만듦"
+absolute_monarchy:0 "전제군주제를 만듦"
 constitutional_monarchy:0 "입헌군주제를 만듦"
 SER_heavy_fighter_bonus:0 "중전투기 모델"
 SER_greater_serbia_tooltip:0 "§GWe will work towards strengthening Serbia.§!\n\n"
