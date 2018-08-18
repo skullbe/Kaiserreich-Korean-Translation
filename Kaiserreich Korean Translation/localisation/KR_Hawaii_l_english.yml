@@ -163,10 +163,10 @@ HAW_social_conservative_party:0 "국민당"
 HAW_social_conservative_party_long:0 "하와이 국민당"
 HAW_authoritarian_democrat_party:0 "군사 위원회"
 HAW_authoritarian_democrat_party_long:0 "군사 위원회"
-HAW_paternal_autocrat_party:0 "하와이 우선당"
-HAW_paternal_autocrat_party_long:0 "하와이 우선당"
-HAW_national_populist_party:0 "하와이 우선당"
-HAW_national_populist_party_long:0 "하와이 우선당"
+HAW_paternal_autocrat_party:0 "하와이 제일당"
+HAW_paternal_autocrat_party_long:0 "하와이 제일당"
+HAW_national_populist_party:0 "하와이 제일당"
+HAW_national_populist_party_long:0 "하와이 제일당"
 
 ### Ideas ###
 HAW_people_victory:0 "하와이 혁명"
@@ -216,8 +216,8 @@ HAW_hawaiian_trade:0 "Hawaiian business ties"
 
 ### Flags ###
 HAW_monarchy_restoration:0 "하와이 왕정이 복고될 것입니다!"
-HAW_new_republic:0 "A new Hawaiian republic has been proclaimed!"
-HAW_hawaiian_revolution:0 "The people have seized power in a revolution!"
+HAW_new_republic:0 "새로운 하와이 공화국이 선포되었습니다!"
+HAW_hawaiian_revolution:0 "인민들이 혁명으로 권력을 장악하였습니다!"
 
 
 
