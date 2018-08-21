@@ -253,31 +253,31 @@ JAP_NAT_AGR_3_desc:0 "연장된 토지 개혁법이 완료되면, 우리의 산�
 
 ### Focuses - Economic - Land Adjustment Act ###
 JAP_BUR_AGR:0 "토지 조정법"
-JAP_BUR_AGR_desc:0 "The Agricultural Land Adjustment Act will establish a legal basis for tenant rights and will be the first step for government control of the agricultural sector. The Act will prohibit landlords to cancel or refuse to renew a contract unilaterally without due cause. The Act also grants local authorities the right to cite eminent domain and purchase uncultivated lands from landlords."
+JAP_BUR_AGR_desc:0 "토지 조정법은 소작농의 권리에 대한 법적 근거를 마련할 것이며 농업분야에 대한 정부의 통제의 첫 단계가 될 것입니다. 이 법은 지주들이 정당한 사유 없이 일방적으로 계약을 취소하거나 갱신하기를 거부하는 것을 금지할 것입니다. 이 법은 또한 지방 당국에 수용권을 사용하거나 토지소유자로부터 미개간지를 매입할 수 있는 권한을 부여할 것입니다."
 JAP_BUR_RENT:0 "임대료 관리법"
-JAP_BUR_RENT_desc:0 "The Rent Control Act will be the next step in our takeover of agriculture. It will allow local authorities to implement rent controls and authorise prefecture governors to intervene in cases where the rent has been proven to be unreasonably high."
+JAP_BUR_RENT_desc:0 "임대료 관리법은 정부가 농업을 장악하는데 다음 단계가 될 것입니다. 이 법은 지방 당국이 임대료를 통제하고 임대료가 터무니없이 높은 것으로 판명된 경우에 개입하도록 허가할 것입니다."
 JAP_BUR_LAND:0 "농지 관리법"
-JAP_BUR_LAND_desc:0 "Last year Japan suffered a tremendous drought and our food supply chain was nearly crippled. To prevent another disaster the Diet has created the ALCA which stipulates that conversion or trade of farmland for non-agricultural purposes must be approved by local authorities. This allows us to select what crops are planted, which secures a high production of staple foods."
+JAP_BUR_LAND_desc:0 "작년에 일본은 엄청난 가뭄을 겪었으며 우리의 식량 공급 체계는 거의 마비되었습니다. 또 다른 재난을 막기 위해 의회는 비농업 목적으로 농지를 전환하거나 매매하려면 지방 당국의 승인을 받도록 하는 ALCA를 만들었습니다. 이 법은 우리가 어떤 작물을 심을지 선택할 수 있게 해 주식이 많이 생산되도록 보장해줍니다."
 
 ### Focuses - Military - Base ###
 JAP_MIL_start_1:0 "군의 방향"
-JAP_MIL_start_1_desc:0 "After years of bickering, it is time to make a choice as to the Imperial Army's direction. Strategic planners from Imperial General Headquarters present four promising options."
+JAP_MIL_start_1_desc:0 "수년간의 언쟁 끝에, 제국 육군의 방향을 결정할 때가 왔습니다. 대본영의 전략 기획자들은 네 가지 유망한 선택지를 제시했습니다."
 JAP_MIL_start_2:0 "군대 확장"
-JAP_MIL_start_2_desc:0 "It is not enough for us to just expand the army, the Navy and Airforce will need additional funding as well."
+JAP_MIL_start_2_desc:0 "육군을 확장하는 것만으로는 충분하지 않습니다. 해군과 공군에도 추가 자금이 필요할 것입니다."
 
 ### Focuses - Military - Battleplan ###
 JAP_MIL_DOC_DEF:0 "명령계층 구조 강화"
 JAP_MIL_DOC_DEF_desc:0 "지휘 체계가 명료하고 굳건하다는 것을 보장함으로써 우리는 우리 군대가 총체적 전쟁을 위해, 더욱 중앙 조직화 되게 할 수 있습니다."
 JAP_MIL_DOC_DEF2:0 "전자 통신"
-JAP_MIL_DOC_DEF2_desc:0 "Part of our planning doctrine revolves around fast communication and early detection, which would be immeasurably improved by electronic means."
+JAP_MIL_DOC_DEF2_desc:0 "우리의 계획 교리의 일부는 빠른 통신과 조기 발견에 초점을 맞추고 있습니다. 이는 전자기기를 통해 헤아릴 수 없이 향상될 것입니다."
 JAP_MIL_DOC_DEF3:0 "대 계획"
-JAP_MIL_DOC_DEF3_desc:0 "By giving our military leaders time and resources to devise extensive plans for the wars to come we will guarantee success."
+JAP_MIL_DOC_DEF3_desc:0 "군사 지도자들에게 다가올 전쟁에 대한 포괄적인 계획을 세울 시간과 자원을 줌으로써 우리의 성공은 보장될 것입니다."
 JAP_MIL_DOC_DEF4:0 "향상된 통신"
-JAP_MIL_DOC_DEF4_desc:0 "By improving our communication techniques, we can give our troops an edge in recovery and organisation. Given the great distances and hostile terrain we will be fighting over, this will be significant."
+JAP_MIL_DOC_DEF4_desc:0 "우리의 통신 기술을 향상시킴으로써, 우리 군은 회복도와 조직도 면에서 우위를 확보할 수 있습니다. 긴 거리와 척박한 땅을 고려할 때, 이것은 중요한 의미를 가질 것입니다."
 JAP_MIL_DOC_DEF5:0 "조직된 명령체계"
-JAP_MIL_DOC_DEF5_desc:0 "By ensuring our chain of command is as efficient as possible we can make sure our orders reach the front line almost as soon as we send them."
-JAP_MIL_DOC_DEF6:0 "장군진 개편"
-JAP_MIL_DOC_DEF6_desc:0 "Our general staff have found inefficiencies in our top level command structure, by listening to their concerns, we can improving our planning ability."
+JAP_MIL_DOC_DEF5_desc:0 "명령체계가 최대한 효율적으로 작동하도록 함으로써, 우리의 명령은 보내지는 즉시 전선에 도달할 것입니다."
+JAP_MIL_DOC_DEF6:0 "장교진 개편"
+JAP_MIL_DOC_DEF6_desc:0 "우리의 장교진들이 최고 수준의 명령 구조에서 비효율성을 발견했습니다. 그들의 말을 들어준다면 우리의 계획 능력이 향상될 것입니다."
 
 ### Focuses - Military - Mass Assault ###
 JAP_MIL_DOC_MAS:0 "총력전 태세"
@@ -414,30 +414,30 @@ japdom.11.d:0 "상상할 수도 없는 일이 또 일어났습니다! 스즈키 
 japdom.11.a:0 "Gomeifuku wo inorimasu."
 
 japdom.12.t:0 "비난 받는 정부"
-japdom.12.d:0 "놀랄 것도 없이, 국가보안법 통과의 실패는 수상에 대한 반발을 불러일으켰습니다. 이 법안을 지지했던 보수주의자들과 관료들은 스즈키의 패배에 배신감을 느꼈습니다. 정부가 생디칼리즘에 대한 어떤 조치도 취하지 못한 데 실망한 귀족원과 추밀원은 내각에 대한 인내심을 모두 잃었습니다."
+japdom.12.d:0 "놀랄 것도 없이, 국가보안법 통과의 실패는 총리에 대한 반발을 불러일으켰습니다. 이 법안을 지지했던 보수주의자들과 관료들은 스즈키의 패배에 배신감을 느꼈습니다. 정부가 생디칼리즘에 대한 어떤 조치도 취하지 못한 데 실망한 귀족원과 추밀원은 내각에 대한 인내심을 모두 잃었습니다."
 japdom.12.a:0 "스즈키의 날이 얼마 남지 않았다..."
 
 japdom.13.t:0 "스즈키 기사부로의 사임"
-japdom.13.d:0 "모든 사람들에게 버림받고 굴욕받은 수상은 귀족원이 내각을 비난하는 불신임안을 통과시키면서 사임했으며, 미적지근한 지지와 함께 미즈노 렌타로 전 내무장관이 그의 자리를 대신하게 되었습니다. 유감스럽게도, 추밀원과 추밀원의 초보수적인 의장 히라누마 남작은 '의회적 무능'을 더 안정적인 시스템으로 대체할 필요가 있다고 선언하는 성명을 발표했습니다."
+japdom.13.d:0 "모든 사람들에게 버림받고 굴욕받은 총리는 귀족원이 내각을 비난하는 불신임안을 통과시키면서 사임했으며, 미적지근한 지지와 함께 미즈노 렌타로 전 내무장관이 그의 자리를 대신하게 되었습니다. 유감스럽게도, 추밀원과 추밀원의 초보수적인 의장 히라누마 남작은 '의회적 무능'을 더 안정적인 시스템으로 대체할 필요가 있다고 선언하는 성명을 발표했습니다."
 japdom.13.a:0 "긴급 회의를 소집하라!"
 
 japdom.14.t:0 "미즈노 렌타로의 선거"
-japdom.14.d:0 "The downfall of Suzuki stunned the Rikken Seiyukai, and an emergency convention was called. The bureaucratic Tokonami faction (named after Tokonami Takejiro (1867-1935), chairman of the pro-Tanaka Seiyu Honto during the Tanaka dictatorship and its aftermath) has been crippled by the loss of their leader, leaving the reactionary Nakajima faction to take control of the party. From his new post as Director of General Affairs, Nakajima enjoys decision-making power over the entire party, but has stopped short of crowning himself chairman and instead elected current Prime Minister and Tokonami-aligned Mizuno Rentaro instead."
+japdom.14.d:0 "스즈키의 몰락은 입헌정우회를 놀라게 했으며, 긴급 회의가 소집되었습니다. 관료주의적인 (다나카의 독재시기와 그 이후에 전 다나카 정우본당의 의장이었던 도코나미 다케지로(1867-1935)의 이름을 본딴) 도코나미 파벌은 지도자를 잃은 것으로 무력화되었으며, 반동적인 나카지마 파벌이 당을 장악하게 되었습니다. 나카지마 총재는 새 총재직에서 당 전체에 의사 결정권을 끼칠 수 있다는 것에 기뻐했지만, 자신을 대표로 내세우지 않고 대신 현 총리이자 도코나미 파벌인 미즈노 렌타로를 선출했습니다."
 japdom.14.a:0 "마침내 정치가 어느정도 안정해졌구나."
 
 japdom.15.t:0 "일본의 가장 긴 겨울"
-japdom.15.d:0 "The Japanese government has found itself effectively paralysed. The downfall of two successive Seiyukai Prime Ministers has severely weakened the power of the new Prime Minister, and Hiranuma's open scheme to destroy the parliamentary system has only worsened the political turmoil. Extremist groups are growing by the day, and the military is getting more and more frustrated. Several high-ranking officers within the Army have hatched a plot to overthrow the civilian administration and 'rescue' the Empire. The plotters have approached Army Minister Hayashi Senjuro for his support..."
+japdom.15.d:0 "일본 정부는 스스로가 효과적으로 마비되었음을 알게 되었습니다. 정우회 총리 두 사람의 잇따른 몰락은 새 총리의 권력을 심각하게 약화시켰으며 의원내각제를 무너트리려는 히라누마의 열린 계획은 정치적 혼란을 더 악화시켰을 뿐입니다. 극단주의 단체들은 날이 갈수록 성장하고 있으며 군부는 점점 더 불만스러워하고 있습니다. 육군 내 몇몇 고위 장교들은 민간 정부를 전복하고 제국을 '구호'하려는 음모를 꾸몄습니다. 음모자들은 하야시 센주로 육군대신에게 그의 지지를 호소했습니다."
 japdom.15.a:0 "일본의 미래가 그의 선택에 달렸다."
 
 japdom.16.t:0 "일본의 가장 긴 날"
-japdom.16.d:0 "After ten years of political disgrace, the army has taken power again, this time by a coup d'état. Ultraconservative politician Baron Hiranuma Kiichiro is now Prime Minister, and a state of martial law has been enacted across all of the Greater Japanese Empire."
-japdom.16.a:0 "Banzai!"
+japdom.16.d:0 "10년 간의 정치적 불명예 후에, 군부는 이번에는 쿠데타로 다시 정권을 잡게 되었습니다. 초보수적인 정치가 히라누마 기이치로 남작이 이제 총리가 되었으며, 대일본제국 전체에 계엄령이 내려졌습니다."
+japdom.16.a:0 "만세!"
 
-japdom.17.t:0 "Failed Coup Attempt"
+japdom.17.t:0 "쿠데타 실패"
 japdom.17.d:0 "Even through the Army Minister refused to support the coup, he made no effort to stop the plot. The plotters interpreted this as a signal of permission, and proceeded. This morning, the coup forces seized the Metropolitan Police Headquarters, the Prime Minister's Residence, and the new Imperial Diet Building, but failed to occupy the Imperial Palace. To the surprise of the plotters, the Emperor resisted the coup d'état and issued an imperial command to suppress the rebels, sealing their fate. The coup forces surrendered without resistance and key conspirators were quickly caught, while some took their own lives before they could be arrested. One of them, General Terauchi Hisaichi, committed suicide by seppuku today."
-japdom.17.a:0 "Democracy has prevailed!"
+japdom.17.a:0 "민주주의가 지켜졌다!"
 
-japdom.18.t:0 "The Power Struggle"
+japdom.18.t:0 "권력 투쟁"
 japdom.18.d:0 "Restorationist officers were the main participants of the coup that overthrew the elected government, for they saw the parliamentary system as a plutocratic capitalist institution, however under the successive government the Centralists took the leading role in the new regime and the Restorationists were marginalised from the leadership. The Restorationist leadership has concluded that they were deceived. A new power struggle has begun."
 japdom.18.a:0 "Will this ever end?"
 
@@ -530,11 +530,11 @@ japdom.38.t:0 "Completion of the Extended Land Reform Act"
 japdom.38.d:0 "We have completed what is being internationally recognised as one of the largest land redistribution programs in history. 2.3 million hectares of land have been distributed to farmers during the project, and landlordism as Japan knew it no longer exists."
 japdom.38.a:0 "Banzai Banzai Banzai!"
 
-japdom.39.t:0 "Colonisation of Korea"
+japdom.39.t:0 "한국 식민화"
 japdom.39.d:0 "With millions of Japanese colonists settling in Korea, the Japanese authority has solidified its rule over the Peninsula."
 japdom.39.a:0 "Banzai Banzai Banzai!"
 
-japdom.40.t:0 "한국 경제적 합병"
+japdom.40.t:0 "한국의 경제적 통합"
 japdom.40.d:0 "조선총독부 하에 있는 수백만의 일본인 식민지 개척자들이 평생 머무를 고향을 찾은 것 같습니다. 영토의 도시화와 현대화는 날마다 진행되고 있으며, 지역 경제가 일본 경제를 뒤따라 잡는 등 효과적으로 일본 경제에 통합되고 있습니다."
 japdom.40.a:0 "반자이 반자이 반자이!"
 
@@ -542,29 +542,29 @@ japdom.41.t:0 "한국 상실"
 japdom.41.d:0 "한국의 상실로 인해 일본인 지역 공동체가 파괴되었습니다. 일본인 이주민들은 한국인들의 보복공격을 피하기 위해 단체로 도피하고 있습니다."
 japdom.41.a:0 "젠장!"
 
-japdom.42.t:0 "Colonisation of Taiwan"
+japdom.42.t:0 "타이완 식민화"
 japdom.42.d:0 "With thousands of Japanese colonists settling in Taiwan, the Japanese authority has solidified its rule over the Island."
 japdom.42.a:0 "Very good."
 
-japdom.43.t:0 "Economic Integration of Taiwan"
+japdom.43.t:0 "타이완의 경제적 통합"
 japdom.43.d:0 "The thousands of Japanese colonists in our protectorate of Taiwan seem to have found a permanent home. Urbanisation and modernisation of the territory is progressing daily, and the local economy has been overtaken and effectively integrated into the Japanese economy."
 japdom.43.a:0 "Very Good!"
 
-japdom.44.t:0 "Loss of Taiwan"
+japdom.44.t:0 "타이완 상실"
 japdom.44.d:0 "The loss of Taiwan has destroyed the local Japanese community. Japanese settlers are fleeing en masse to avoid reprisal from the Taiwanese."
 japdom.44.a:0 "Damn!"
 
-japdom.73.t:0 "Colonisation of Dairen"
+japdom.73.t:0 "다롄 식민화"
 japdom.73.d:0 "With thousands of Japanese colonists settling in Dairen, the Japanese authority has solidified its rule over the peninsula."
 japdom.73.a:0 "Very good."
 
-japdom.45.t:0 "The Popular Front Incident"
-japdom.45.d:0 "446 left-wing academics, intellectuals, and politicians (including two incumbent Diet members) were arrested and indicted under the National Security Act today. All were accused of organising a 'popular front' and threatening the Kokutai."
-japdom.45.a:0 "Damn reds!"
+japdom.45.t:0 "인민전선 사건"
+japdom.45.d:0 "오늘 좌익 성향의 학자, 지식인, (두 의원을 포함한) 정치인 등 446명이 국가보안법에 따라 기소되었습니다. 446명 모두 '인민전선'을 조직하고 국체를 위협했다는 혐의를 받고 있습니다."
+japdom.45.a:0 "망할 빨갱이들!"
 
-japdom.46.t:0 "The Second Popular Front Incident"
-japdom.46.d:0 "Additional arrests of intellectuals were made today, when 38 left-wing professors arrested on charges of organising a 'popular front'."
-japdom.46.a:0 "More reds?!"
+japdom.46.t:0 "2차 인민전선 사건"
+japdom.46.d:0 "오늘 38명의 좌익 성향의 교수들이 '인민전선'을 조직한 혐의로 체포되면서, 지식인들의 추가적인 구속이 이루어졌습니다."
+japdom.46.a:0 "빨갱이들이 더 있다고?!"
 
 japdom.47.t:0 "The Keihin Workers' Group Incident"
 japdom.47.d:0 "An underground syndicalist group operating in the Keihin (Tokyo-Yokohama) region has been uncovered and arrested."
