@@ -101,8 +101,8 @@ aided_us_civwar:0 "우리 편에 제공되는 지원"
 
 ### Tooltips ###
 SPR_ban_carlists:0 "카를리스타는 §Y[SPR.GetNameDef]§!로 부터 금지될 것입니다\n"
-SPR_arrest_javier:0 "§YDuke Javier§!와 그의 직접적인 추종자들의 체포를 시도하다\n"
-SPR_encourage_javier:0 "§YDuke Javier§!는 칭찬과 격려를 받을 것이다\n"
+SPR_arrest_javier:0 "§Y하비에르 공작§!과 그의 직접적인 추종자들의 체포를 시도하다\n"
+SPR_encourage_javier:0 "§Y하비에르 공작§!은 칭찬과 격려를 받을 것이다\n"
 SPR_ban_cntfai:0 "§YCNT-FAI§!은 [SPR.GetNameDef]로 부터 금지될 것입니다\n"
 SPR_arrest_cntfai:0 "§YCNT-FAI§!의 지도자를 체포하려는 시도가 있을 것입니다\n"
 SPR_force_cntfai:0 "§YCNT-FAI§!의 지지자들을 분산시키고 그들이 조직하는 것을 막기 위해 무력을 사용한다\n"
