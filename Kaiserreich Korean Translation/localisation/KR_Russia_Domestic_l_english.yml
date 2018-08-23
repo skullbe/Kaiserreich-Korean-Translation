@@ -53,7 +53,7 @@ rusd.8.c:0 "군대를 보내 그들을 진정시켜라!"
 
 rusd.9.t:0 "파업 노동자들과의 협상"
 rusd.9.d:0 "파업중인 노동자들과의 협상시도가 있었습니다. 이 나라의 정치세력들은 모두 이 협상을 예의주시하고 있으며, 그들 중 일부는 이 파업이 러시아의 추가적인 개혁에 대한 촉진제가 되기를 희망하고있습니다."
-rusd.9.a:0 "Stall the negotiations."
+rusd.9.a:0 "협상을 실행해라."
 rusd.9.b:0 "합의에 도달하되 개혁을 최소화해라"
 rusd.9.c:0 "합의를 보라."
 
@@ -113,15 +113,15 @@ rusd.24.d:0 "리가의 노동자들이 민병대를 조직해 군대를 공격�
 rusd.25.t:0 "레벨에서의 충돌"
 rusd.25.d:0 "레벨의 노동자들이 민병대를 조직해 군대를 공격했습니다!"
 
-rusd.28.t:0 "Zemstvo funds a Hospital"
-rusd.28.d:0 "A local self-government, or Zemstvo, has recently collected funds and organised the construction of a hospital in one of our provinces."
-rusd.28.a:0 "Splendid!"
+rusd.28.t:0 "젬스트보가 병원에 투자하다"
+rusd.28.d:0 "지역 자치 정부, 또는 젬스트보라고 하는 기관에서 최근에  최근에 우리 지역주 중 한 곳에서 병원을 건설하기 위해 자금을 조직했습니다."
+rusd.28.a:0 "훌륭해!"
 
-rusd.29.t:0 "Zemstvo funds a Railroad"
-rusd.29.d:0 "A local self-government, or Zemstvo, has recently collected funds and organised the construction of a railroad in one of our provinces."
+rusd.29.t:0 "젬스트보가 철도에 투자하다"
+rusd.29.d:0 "지역 자치 정부, 또는 젬스트보라고 하는 기관에서 최근에  최근에 우리 지역주 중 한 곳에서 철도를 건설하기 위해 자금을 조직했습니다."
 
-rusd.30.t:0 "Zemstvo funds a School"
-rusd.30.d:0 "A local self-government, or Zemstvo, has recently collected funds and organised the construction of a school in one of our provinces."
+rusd.30.t:0 "젬스트보가 학교에 투자하다"
+rusd.30.d:0 "지역 자치 정부, 또는 젬스트보라고 하는 기관에서 최근에  최근에 우리 지역주 중 한 곳에서 학교를 건설하기 위해 자금을 조직했습니다."
 
 rusd.31.t:0 "Zemstvo gather funds for the war effort"
 rusd.31.d:0 "A local self-government, or Zemstvo, has recently collected funds to be donated to our military."
@@ -132,12 +132,12 @@ rusd.32.d:0 "A youth organisation is happy to announce that an extraordinary num
 rusd.33.t:0 "A Patriotic Ceremony"
 rusd.33.d:0 "The mayor of one of our cities has proposed to organise a great patriotic ceremony to help improve morale and to commemorate our nation's heroes and our glorious leader."
 
-rusd.34.t:0 "Investing in the Future"
-rusd.34.d:0 "With the new regime established the central government has been given the means to stimulate economic growth according to our current needs."
-rusd.34.a:0 "Encourage railroad construction."
-rusd.34.b:0 "Encourage hospital and school construction."
-rusd.34.c:0 "Increase military production."
-rusd.34.e:0 "Promote a stable, balanced growth."
+rusd.34.t:0 "미래를 향한 투자"
+rusd.34.d:0 "새로운 정권이 수립되면서 중앙 정부는 현재의 필요에 따라 경제 성장을 촉진 시킬 수있는 수단을 찾고 있습니다."
+rusd.34.a:0 "철도 건설을 장려한다."
+rusd.34.b:0 "병원과 학교 건설을 장려한다."
+rusd.34.c:0 "군수품 생산을 증가시킨다."
+rusd.34.e:0 "안정되고 균형 잡힌 성장을 촉진시킨다."
 
 rusd.35.t:0 "Village Collective reports Production Surplus"
 rusd.35.d:0 "A village collective has reported that they have exceeded their projected production efficiency."
@@ -593,9 +593,9 @@ rusd.161.a:0 "You fought the law and the law won!"
 ### Orthodoxy ###
 
 ### Opinion Modifiers ###
-FAN_ban:0 "신앙과 민족이 금지됨"
-FAN_peace:0 "Promoted Peaceful Groups"
-FAN_support:0 "Supported Faith and Nation"
+FAN_ban:0 "신앙과 민족 금지"
+FAN_peace:0 "평화로운 집단 조장"
+FAN_support:0 "신앙과 민족 지지"
 
 ### Events ###
 orth.1.t:0 "신앙과 민족"
