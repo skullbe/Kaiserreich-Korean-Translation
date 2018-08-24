@@ -49,12 +49,12 @@ CHL_Order:0 "Natural Order"
 CHL_Order_desc:0 "Our Nation must show strength through its military prowess and number to maintain order"
 
 ### Country Flags ###
-CHLelectionshappened:0 "The Elections for the Third Chairman have occurred"
-CHLallende:0 "The Alianza Socialista Nacional have won the elections"
-CHLsynelevib:0 "Orthodox Syndicalists have won the elections"
-CHL_Junta_Formed:0 "Blanche's Junta has been formed"
-CHL_Valderrama:0 "Valderrama has seized control of the state"
-CHLDemocraticElection1:0 "The first democratic elections have taken place"
+CHLelectionshappened:0 "3대 의장 선거가 치뤄짐"
+CHLallende:0 "민족사회주의연합이 선거에서 이김"
+CHLsynelevib:0 "정통 생디칼리스트가 선거에서 이김"
+CHL_Junta_Formed:0 "블란치의 군정이 형성됨"
+CHL_Valderrama:0 "발데라마가 국가를 장악함"
+CHLDemocraticElection1:0 "첫번째 민주 선거가 치뤄짐"
 
 ### Parties ###
 CHL_social_democrat_party:0 "PC-PSC"
