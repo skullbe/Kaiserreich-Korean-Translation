@@ -129,7 +129,7 @@ cnav_base_control_doctrine:0 "기지 타격 교리"
 ### cair Minister
 cair_air_superiority_doctrine:0 "공중 우세 교리"
 cair_naval_aviation_doctrine:0 "해군 항공 교리"
-cair_battlefield_support_doctrine:0 "전장 지원 교라"
+cair_battlefield_support_doctrine:0 "전장 지원 교리"
 cair_carpet_bombing_doctrine:0 "융단 폭격 교리"
 cair_vertical_envelopment_doctrine:0 "수직 포위 교리"
 
