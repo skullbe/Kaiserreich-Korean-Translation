@@ -795,3 +795,8 @@ gre.254.b:0 "No - they will have to fight us to the last man"
 gre.255.t:0 "[From.GetNameDefCap] Refuses Peace"
 gre.255.d:0 "It seems the Turks wish to fight us to the last man. They have turned down our offer of terms."
 gre.255.a:0 "So be it!"
+gre.256.t:0 "A New Capital?"
+gre.256.d:0 "Konstantinoúpolis is once again under our control, and a question has now been risen: should the [Root.GetAdjective] capital be moved? For the sake of stability, some are saying it should not... but there are still others who say it is the greatest city in our nation, perhaps the greatest in our history. With the glory of [Root.GetNameDef] having been achieved, perhaps it should be reflected in our seat of government?"
+gre.256.a:0 "Yes, this is the proper capital of our nation"
+gre.256.b:0 "No, we remain in Athens as always"
+
