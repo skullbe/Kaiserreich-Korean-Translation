@@ -52,11 +52,11 @@ pact.1.b:0 "회의를 폐회한다."
 
 pact.2.t:0 "베오그라드 회의"
 pact.2.d:0 "Serbia has invited us to send a diplomat to Belgrade to take part in the Belgrade Congress to discuss the political and military situation in the Balkans. Since the victory of Bulgaria in the Weltkrieg we have our eyes on land that is rightfully ours, and so does Serbia. They suggest we form a new, formal alliance called the Belgrade Pact, to protect our mutual interests and contain the Bulgarian menace. This could, however, anger Bulgaria's former allies Germany, Austria and the Ottoman Empire."
-pact.2.a:0 "Announce our support for the Belgrade Pact."
-pact.2.b:0 "We have no interest in expanding in this direction."
+pact.2.a:0 "우리의 베오그라드 협약에 대한 지지를 선언한다."
+pact.2.b:0 "우리는 그닥 관심이 없다."
 
 pact.3.t:0 "[From.GetName](이)가 베오그라드 협약에 가입하다"
-pact.3.d:0 "The [From.GetAdjective] government has announced they will attend the congress in Belgrade and formally join the Belgrade Pact."
+pact.3.d:0 "[From.GetAdjective] 정부가 베오그라드 회의에서 추후 베오그라드 협약에 가입할 것을 선언하였습니다."
 pact.3.a:0 "평화를 위해 함께하자!"
 
 pact.4.t:0 "[From.GetName](이)가 베오그라드 협약에 가입하지 않다"
