@@ -263,16 +263,16 @@ ETH_Coffee_desc:0 "Due to the chaotic situation in Brazil, a large demand for co
 ETH_Finish_Modernisation_desc:0 "Our industrialisation efforts have come to fruition at last. The future is now within our reach; we just need to grasp it!"
 
 ### Tooltips ###
-ETH_public_rail:0 "DKAEB는 에티오피아 주 소유입니다."
-ETH_private_rail:0 "DKAEB는 독일 회사 소유입니다."
+ETH_public_rail:0 "독일 범아프리카 철도는 에티오피아 주 소유입니다."
+ETH_private_rail:0 "독일 범아프리카 철도는 독일 회사 소유입니다."
 ETH_Haile_Reforms:0 "하일레 셀라시에는 그의 개혁을 시작할 것 입니다."
 ETH_Constitucion_tt:0 "에티오피아는 통과 된 개혁에 따라 새로운 헌법을 가질 것입니다."
 ETH_Eritrea_tt:0 "§R에리트리아에서 위험 요소를 통합하지 않으면 세금이 많이 부과 될 수 있습니다!§!\n"
 
 ### Events ###
-ethiopia.1.t:0 "에티오피아는 교차로에 서있다"
-ethiopia.1.d:0 "아비시니아(Abyssinia)라고도 알려진 에티오피아는 19세기 아프리카 독립의 날에 독립을 유지했으며 1896년에 이탈리아 침공을 성공적으로 극복한 유일한 아프리카 국가입니다. 이 승리로 에티오피아 제국 내 근대화 과정이 시작되었습니다. 제국은 경제, 군사 및 행정 측면에서 유럽 표준을 최신으로 유지하려고 노력했습니다.  1918년 황후 Zauditu의 아래서, 에티오피아 제국은 세계대전에서 독일측에 들어가고, 성공적으로 소말리아와 에리트레아의 이탈리아 식민지를 점령했습니다. 에티오피아의 근대화에 대한 한 가지 긍정적인 신호는 에티오피아를 연결하는데 필수적인 철도인 DPAEB 철도의 확장이었으며, 이 철도는 재화와 군대를 수송하는 데 도움이되었습니다. 1930년 Zauditu 황후는 후계없이 사망하여 사촌 Ras Tafari Makonnen이 황제 Haile Selassie로 왕위에 올랐습니다. 새로운 군주는 에티오피아를 서구화하기 위해 새로운 일련의 개혁을 착수하겠다는 의사를 발표했습니다. 그러나 이 자주적행동은 이탈리아 식민지 병합과 그 이후의 군대 확장으로 크게 강화된 국가의 보수적인 귀족들이 맹렬히 반대했습니다. 하일레 셀라시에 (Haile Selassie)는 또한 현상 유지에 대한 어떤 방해도 그들의 특권을 종식시킬 것이라고 생각하는 에리트리아 내에서 이탈리아 기업인들의 반대에 직면 해있습니다. 한편 제국 정부는 독일 무역부의 보고서가 에티오피아 경제 전체를 위험에 빠뜨린 DKAEB의 취약한 경제 상황을 발표했을 때 에티오피아의 비효율이 독일의 영역으로 상승했다는 것을 확실히 증명했습니다. 경제 위기가 다가오면서 에티오피아는 현재 독일과의 관계를 지속 할 것인지, 새로운 무역 상대국을 찾을 것인지, 아니면 자신의 독립적인 외교 정책을 추구 할 것인지 결정할 필요가있습니다.
-ethiopia.1.a:0 "우리는 강하게 서 있습니다!"
+ethiopia.1.t:0 "교차로에 선 제국, 에티오피아"
+ethiopia.1.d:0 "아비시니아(Abyssinia)라고도 알려진 에티오피아는 19세기 아프리카 쟁탈전 가운데서 유일하게 독립을 유지한 아프리카 국가이며 1896년에 이탈리아 침공을 성공적으로 막아냈습니다. 이 승리는 경제·군사·행정 면에서 유럽에 발맞추어 나라를 현대화시키고자 하던 에티오피아 제국 내의 현대화 절차에 박차를 가했습니다. 1918년, 자우디투(Zauditu) 여제 치하의 에티오피아 제국은 독일의 편으로 세계대전에 참여했고, 소말리아와 에리트레아의 이탈리아 식민지를 성공적으로 점령했습니다. 에티오피아 현대화의 긍정적인 신호로서, 에티오피아를 연결하고 나라 곳곳에 상품과 병사들을 운송하는데 필수적인 독일 범아프리카 철도(Deutsche Pan-Afrikanisches EisenBahn)의 확장이 있었습니다.  1930년 자우디투(Zauditu) 여제는 후계를 남기지 못하고 승하하였고, 이로 인해 그의 사촌인 라스 타파리 마콘넨(Ras Tafari Makonnen)이 하일레 셀라시에(Haile Selassie)로서 황위를 물려 받았습니다. 새로운 군주는 에티오피아를 서구화시키기 위한 일련의 새로운 계획에 착수할 의사를 밝혔습니다. 하지만 이러한 계획들은 이탈리아 식민지의 합병과 뒤이은 군대 확장 과정에서 강성해진, 귀족 세력의 맹렬한 반대에 부딪혔습니다. 또 에레트레아의 이탈리아 사업가들도 하일레 셀라시에를 반대했는데, 현상황에서 무슨 소란이 일어나든 자신들의 특권이 침해당하리라 여겼기 때문입니다. 그동안 제국 정부는 또다른 충격을 맞게 되는데, 1935년에 독일 통상부가 독일 범아프리카 철도의 취약한 재정 상황을 밝힘에 따라, 독일의 경제권에 의존하는 에티오피아의 비효율성을 확실히 증명했고, 에티오피아 전역의 경제가 위기에 처했기 때문입니다. 다가오는 경제 위기 아래, 현재 독일과의 관계를 유지할지, 새 무역 상대를 찾을지, 독자적인 외교 정책을 혼자 해쳐나갈지, 에티오피아는 결정해야 할지도 모릅니다.
+ethiopia.1.a:0 "우리는 강하게 서 있다!"
 ethiopia.2.t:0 "The DAKEB and its approaching bankruptcy"
 ethiopia.2.d:0 "The Deutsche Kaiserliche Abessinien Eisenbahn (DKAEB) railway was established in the early 20th century, and linked Addis Ababa to Djibouti. After a series of German-backed expansions, it is now used mainly to transport ore from the Congo Basin, in Mittelafrika, to Djibouti. Because of the general economic downturn worldwide, ore is no longer being purchased at the rate it once was, resulting in fewer transports for the DPAEB. The situation has now reached such a level that the railway itself is nearing bankruptcy."
 ethiopia.2.a:0 "Keep it running!"
