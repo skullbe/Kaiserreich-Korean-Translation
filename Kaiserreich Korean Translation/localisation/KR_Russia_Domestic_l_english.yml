@@ -180,13 +180,13 @@ rusd.47.t:0 "Prayers for the Tsar"
 rusd.47.d:0 "A mass dedicated to our beloved ruler has been organised in the capital. The Patriarch has officially invited the Tsar and members of his family to take part in the ceremony."
 rusd.47.a:0 "Bozhe, Tsarya khrani!"
 
-rusd.48.t:0 "The Liberals criticise the Clergy"
+rusd.48.t:0 "자유주의자들이 성직자를 비판하다"
 rusd.48.d:0 "It seems that the liberal elements of our society consider it rather unwise to maintain such strong bonds between the Church and the state. During a small demonstration in the capital, they have demanded more religious pluralism and secularisation of the government."
 rusd.48.a:0 "Let them shout!"
 
-rusd.50.t:0 "The Acting President Addresses the Duma"
-rusd.50.d:0 "After Kerensky's assassination the country is still in chaos. Although the Duma managed to maintain the mantle of legislative and executive power, the government's control of the apparatus of state is still unstable. In an attempt to restore popular faith in parliament, the Acting President today held a speech in a packed Duma, stressing the importance of maintaining both order and the civil liberties of all the Russian Republic's citizens"
-rusd.50.a:0 "The Duma ensures Russian Freedom and Russian Greatness!"
+rusd.50.t:0 "대통령 권한대행이 두마에게 연설하다"
+rusd.50.d:0 "케렌스키가 암살된 후 이 나라는 여전히 혼란에 빠져있습니다. 비록 두마가 입법과 행정의 권력은 유지했지만, 여전히 정부의 국가 조직에 대한 통제는 불안정합니다. 오늘 대통령 권한대행은 의회에 대한 국민의 신뢰를 회복하기 위한 시도로 러시아 모든 시민들의 질서와 시민적 자유를 유지하는 것이 중요하다는 점을 강조하며 사람이 가득찬 두마에서 연설을 했습니다."
+rusd.50.a:0 "두마가 러시아의 자유와 위대함을 보장한다!"
 
 rusd.51.t:0 "Field marshal Wrangel Addresses the Nation"
 rusd.51.d:0 "A few days after seizing power, Field marshal Wrangel went forward to address the troubled Russian people. A man of noble birth, Wrangel will do anything to insure the survival of Russia, even if that means letting go of his dreams of a new Romanov monarchy. In his widely publicised speech, the Field marshal declared his intention to maintain order and stability in Russia by any means necessary - even if it means compromising with the more extreme rightist groups."
@@ -319,9 +319,9 @@ rusd.961.a:0 "Invite Vladimir and restore the Romanovs as autocrats."
 rusd.961.b:0 "Invite Vladimir and restore the Romanovs as constitutional monarchs."
 rusd.961.c:0 "Restore the republic."
 
-rusd.97.t:0 "Boris Stürmer dies"
-rusd.97.d:0 "One of Russia's most experienced politicians, Boris Stürmer, has passed away due to a heart attack upon hearing the news of Kerensky's assassination. Born in 1848, Stürmer was one of the few people in Russia to remember the Crimean War. He was a symbol of Russia's tradition and continuity."
-rusd.97.a:0 "Memento mori."
+rusd.97.t:0 "보리스 스튀르메르가 사망하다"
+rusd.97.d:0 "러시아에서 가장 경험이 많은 정치인 중 한 명인 보리스 스튀르메르가 케렌스키의 암살 소식을 듣고 심장마비로 숨졌습니다. 1848년에 태어난 스튀르메르는 크림 전쟁을 기억하는 러시아에서 몇 안 되는 사람들 중 하나였습니다. 그는 러시아의 전통과 연속성의 상징이었습니다."
+rusd.97.a:0 "죽음을 기억하라."
 
 rusd.98.t:0 "Pyotr Struve dies"
 rusd.98.d:0 "A great liberal and a proponent of the democratic system in Russia, Pyotr B. Struve, has passed away. A member of the Kadet Party and a skilled politician before, during and after the Civil War, Struve shall be remembered as one of the greatest patriots in our history."
@@ -362,8 +362,8 @@ rusd.104.d:0 "Dmitri Pavlovich, who has proven his talents during the turbulent 
 rusd.104.a:0 "Farewell, Dmitri Pavlovich!"
 rusd.104.b:0 "According to the constitution, his duties should be taken over by the Senate until the time for elections comes next year."
 
-rusd.105.t:0 "Ivan Pavlov dies"
-rusd.105.d:0 "Ivan Petrovich Pavlov, the widely known Russian physiologist, died today at 86 in Petrograd. He received the Nobel Prize in Medicine in 1904 for his research on the digestive system but he is mostly known for his works on classical conditioning. The Russian President expressed his sadness and announced that his laboratory would soon become a museum."
+rusd.105.t:0 "이반 파블로프가 사망하다"
+rusd.105.d:0 "러시아 생리학자로 널리 알려진 이반 페트로비치 파블로프가 오늘 86세의 나이로 페트로그라드에서 숨졌습니다. 그는 1904년에 소화계에 대한 연구로 노벨 의학상을 받았지만, 대부분 그는 고전적 조건형성 연구로 알려져 있습니다. 러시아 대통령은 슬픔을 표했으며 그의 연구소가 곧 박물관이 될 것이라고 발표했습니다."
 rusd.105.a:0 "Let's hope that classical conditioning works on humans."
 
 rusd.106.t:0 "Maxim Gorky dies"
@@ -412,9 +412,9 @@ rusd.118.d:0 "A Hero of the Civil War passed away peacefully in his manor near N
 rusd.119.t:0 "General Manshikov dies"
 rusd.119.d:0 "One of the most prominent military figures in the Army has passed away today."
 
-rusd.120.t:0 "Black Monday hits Russia!"
-rusd.120.d:0 "Almost three weeks ago the Berlin Stock Exchange plunged into bottomless depths, throwing Germany's economy into an unprecedented crisis. Now the shock waves of the crash have reached Russia. German and Bohemian-owned companies have closed down or laid off their workers, the Russian ruble is losing value, and resource exports are shrinking."
-rusd.120.a:0 "Let's hope the government will save us from the worst!"
+rusd.120.t:0 "검은 월요일이 러시아를 강타하다!"
+rusd.120.d:0 "거의 3주 전에 베를린 증권거래소는 끝을 알수 없는 깊은 곳으로 추락하여 독일 경제를 전례없는 위기에 빠뜨렸습니다. 이제 그 붕괴의 충격이 러시아에 도달했습니다. 독일과 보헤미아 소유의 기업들은 폐쇄하거나 직원들을 감축했으며, 러시아의 루블화는 가치를 잃고 있고 자원 수출은 감소하고 있습니다."
+rusd.120.a:0 "정부가 우리를 최악에서 구해주기를 바란다!"
 
 rusd.121.t:0 "Initial Stabilisation"
 rusd.121.d:0 "With the first wave of the crisis slowly passing by, some less affected branches of the economy have bounced off the bottom. Still, the overall state of our economy does not look optimistic."
