@@ -775,10 +775,10 @@ russia.7.c:0 "The Kadets and liberals of Pavel Milyukov."
 russia.7.e:0 "Felix Yusupov, the childhood friend of the Grand Duke!"
 
 russia.8.t:0 "총리 지명"
-russia.8.d:0 "The SR-Menshevik coalition out-manoeuvred all of its rivals in the January crisis and have gained an unshakeable Duma majority following the submission of the Kadets. Chernov, chief ideologue of the SRs, has been successful in pulling the strings but it is now the time to appoint a Prime Minister."
-russia.8.a:0 "Stay with the Mensheviks, Iraklij Tsereteliy."
-russia.8.b:0 "Compromise, the Liberal Pavel Milyukov."
-russia.8.c:0 "These are extreme times and we need a shot of Bolshevism, Nikolai Bukharin!"
+russia.8.d:0 "사회혁명당-멘셰비키 연정은 1월 위기 때 모든 경쟁자들을 압도했으며, 입헌민주당의 항복 이후 두마에서 흔들리지 않는 다수를 차지했습니다. 사회혁명당의 최고 이념가인 체르노프는 조율을 성공적으로 이루어냈지만 이제는 수상을 임명할 때입니다."
+russia.8.a:0 "멘셰비키인 이라클리 체레텔리와 함께 하라."
+russia.8.b:0 "자유주의인 파벨 밀류코프로 타협하라."
+russia.8.c:0 "지금은 극단적인 시기이고 우리는 볼셰비즘이 필요하다. 니콜라이 부하린!"
 
 russia.9.t:0 "총리 지명"
 russia.9.d:0 "The Duma has been dissolved and martial law declared. Field marshal Pyotr Wrangel is now nominally of control of the country. A Prime Minister should be appointed for the new regime to broaden its basis of support."
@@ -1288,9 +1288,9 @@ received_equipment_1500:0 "You received §G1500§! infantry equipment from that 
 received_equipment_2000:0 "You received §G2000§! infantry equipment from that country\n"
 received_equipment_5000:0 "You received §G5000§! infantry equipment from that country\n"
 
-russia.25.t:0 "Reorganisation of the Internal police"
-russia.25.d:0 "With the rise of internal dissent, the government has to grant itself an internal police able to actively hunt down the protesters."
-russia.25.a:0 "A good idea!"
+russia.25.t:0 "내부 경찰의 재조직"
+russia.25.d:0 "내부 반대가 커지면서 정부는 시위대를 적극적으로 추적할 수 있는 내부 경찰을 승인했습니다."
+russia.25.a:0 "좋은 생각이군!"
 
 unlock_okhrana_tooltip:0 "The national focus 'Okhranka' has been unlocked in the focus tree!\n"
 russia_must_wait_unlock:0 "You're not allowed to do this yet\n"
