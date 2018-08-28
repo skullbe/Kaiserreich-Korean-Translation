@@ -161,9 +161,9 @@ rusd.39.a:0 "Progress cannot be stopped!"
 rusd.40.t:0 "The Patriarch criticises our Government"
 rusd.40.d:0 "Seeing increased displeasure among the common people, the patriarch has decided to voice his concern about the increasing secularisation of our state. Even if we try to turn a deaf ear on the clergy's demands, we cannot easily ignore a character so influential and powerful such as the patriarch."
 rusd.40.a:0 "Everything shall stay as it is!"
-rusd.40.b:0 "Encourage a national debate on religious matters."
+rusd.40.b:0 "종교문제에 대한 전국적인 토론을 장려하라."
 
-rusd.41.c:0 "He is right, declare Orthodoxy our state religion!"
+rusd.41.c:0 "그가 옳다. 정교회를 국교로 지정해라!"
 
 rusd.43.b:0 "Root out these narrow minded elements!"
 
@@ -180,9 +180,9 @@ rusd.47.t:0 "Prayers for the Tsar"
 rusd.47.d:0 "A mass dedicated to our beloved ruler has been organised in the capital. The Patriarch has officially invited the Tsar and members of his family to take part in the ceremony."
 rusd.47.a:0 "Bozhe, Tsarya khrani!"
 
-rusd.48.t:0 "자유주의자들이 성직자를 비판하다"
-rusd.48.d:0 "It seems that the liberal elements of our society consider it rather unwise to maintain such strong bonds between the Church and the state. During a small demonstration in the capital, they have demanded more religious pluralism and secularisation of the government."
-rusd.48.a:0 "Let them shout!"
+rusd.48.t:0 "진보주의자들이 성직자를 비판하다"
+rusd.48.d:0 "우리 사회의 진보적 요소들은 교회와 국가가 강한 유대관계를 유지하는 것을 오히려 현명하지 못한 것으로 간주하는 것 같습니다. 수도에서의 작은 시위 동안, 그들은 더 많은 종교적 다원주의와 정부의 세속화를 요구해왔습니다."
+rusd.48.a:0 "내버려 둬라!"
 
 rusd.50.t:0 "대통령 권한대행이 두마에게 연설하다"
 rusd.50.d:0 "케렌스키가 암살된 후 이 나라는 여전히 혼란에 빠져있습니다. 비록 두마가 입법과 행정의 권력은 유지했지만, 여전히 정부의 국가 조직에 대한 통제는 불안정합니다. 오늘 대통령 권한대행은 의회에 대한 국민의 신뢰를 회복하기 위한 시도로 러시아 모든 시민들의 질서와 시민적 자유를 유지하는 것이 중요하다는 점을 강조하며 사람이 가득찬 두마에서 연설을 했습니다."
@@ -416,9 +416,9 @@ rusd.120.t:0 "검은 월요일이 러시아를 강타하다!"
 rusd.120.d:0 "거의 3주 전에 베를린 증권거래소는 끝을 알수 없는 깊은 곳으로 추락하여 독일 경제를 전례없는 위기에 빠뜨렸습니다. 이제 그 붕괴의 충격이 러시아에 도달했습니다. 독일과 보헤미아 소유의 기업들은 폐쇄하거나 직원들을 감축했으며, 러시아의 루블화는 가치를 잃고 있고 자원 수출은 감소하고 있습니다."
 rusd.120.a:0 "정부가 우리를 최악에서 구해주기를 바란다!"
 
-rusd.121.t:0 "Initial Stabilisation"
-rusd.121.d:0 "With the first wave of the crisis slowly passing by, some less affected branches of the economy have bounced off the bottom. Still, the overall state of our economy does not look optimistic."
-rusd.121.a:0 "Let's hope stabilisation will come soon!"
+rusd.121.t:0 "안정화 시작"
+rusd.121.d:0 "위기의 첫 번째 물결이 서서히 지나가면서, 영향을 덜 받은 일부 경제 분야들이 바닥을 찍고 다시 올라갔습니다. 그럼에도 불구하고 우리 경제의 전반적인 상태는 낙관적으로 보이지 않습니다."
+rusd.121.a:0 "곧 안정화가 되기를 바란다!"
 
 rusd.122.t:0 "Government intervention"
 rusd.122.d:0 "With political stabilisation finally in place, we are prepared to enact a series of intensive reforms, aimed at restoring pre-crisis industrial power."
