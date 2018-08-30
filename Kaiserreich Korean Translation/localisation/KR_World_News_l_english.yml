@@ -290,7 +290,7 @@ worldnews.68.amadeo:0 "교황 스테판 10세(Stephen X)에 의해 왕관을 쓴
 worldnews.68.giuseppe:0 "교황 스테판 10세(Stephen X)에 의해 왕관을 쓴 주세페 1세는 이탈리아 왕국의 통치자로 그의 자리를 지키며 1920년에 세계대전에서의 패배 이후 없어진 군주제를 복원했습니다. 토스카나의 대공이자 오스트리아의 대공, 요제프 폰 외스터라이히-토스카나였던 주세페 왕은 유럽 전역에 걸쳐 오스트리아와 다른 군주국들과 이탈리아의 관계를 더 가깝게 할 것으로 기대되는 군주입니다."
 worldnews.68.giuseppe.austria:0 "교황 비오 10세의 후계자를 위한 콘클라베는 [AUS.GetAdjective] 정부의 이탈리아 왕위에 대한 주장에 의해 중단되었으며, 이는 토스카나의 대공이자 오스트리아 대공, 요제프 폰 외스터라이히-토스카나에 의한 것으로 보입니다. 로마의 추기경회는 노련한 정치가로 유명한 새로운 교황 율리우스 4세를 서둘러 선출했습니다. 새로운 교황은, 이탈리아가 [AUS.GetAdjective]에서 독립적으로 유지한다는 조건으로, Josef를 주세페 1 세 왕으로 임명하며서 1920년에 세계대전에서의 패배 이후 없어진 군주제를 복원했습니다. - 오스트리아의 그들을 괴뢰국으로 만든다는 확고한 의지에도 불구하고 말입니다."
 worldnews.68.giuseppe.austria.puppet:0 "교황 비오 10세의 후계자를 위한 콘클라베는 [AUS.GetAdjective] 정부의 이탈리아 왕위에 대한 주장에 의해 중단되었으며, 이는 토스카나의 대공이자 오스트리아 대공, 요제프 폰 외스터라이히-토스카나에 의한 것으로 보입니다. 로마의 추기경회는 고민했지만 결국 굴복하여 Josef을 주세페 1세로 이탈리아의 왕위에 올려 놓았으며 1920년에 세계대전에서의 패배 이후 없어진 군주제를 복원했습니다. 쥬세페 왕의 통치로 이탈리아 왕국은 [AUS.GetNameDef] 영향력 아래  [AUS.GetAdjective] 야망을 위한 자치령으로 자리 잡았습니다. "
-worldnews.68.a:0 "또 다른 군주국?"
+worldnews.68.a:0 "또 다른 군주국인가?"
 
 worldnews.69.t:0 "콘클라베"
 worldnews.69.piusxii:0 "시스티나 예배당의 굴뚝이 흰 연기를 뿜어 내면서 로마의 신실한 가톨릭 신자들은 안도의 한숨을 쉬었습니다. 그것은 새로운 교황 선출을 의미합니다. 얼마 후, 경건하고 유명한 추기경 에우지니오 파첼리가 카톨릭 교회의 지도자이자 [ITA.GetNameDef]의 국가 원수인 비오 12세 교황 성하가 되었다고 발표되었습니다."
@@ -328,7 +328,7 @@ worldnews.74.a:0 "너무 허세에 찌들었군!"
 
 worldnews.75.t:0 "바라티야 코뮌의 승리"
 worldnews.75.d:0 "세계대전이 끝난 이래, 인도 대륙은 세 부분으로 나뉘어져 있습니다 : 영국령 인도의 잔재인 왕당파들, 인도 국민 회의파의 사회주의자들, 양측을 거부한 반동주의 인도 토후들. 마침내 분란이 가라앉으면서 사회주의자들이 승리를 거두었으며 바라티야 코뮌은 어떠한 반대세력도 없이 인도 전역을 통치합니다. 그들은 내전으로 파괴된 인도를 복구하고 세계의 강대국으로 부상시키고자 합니다."
-worldnews.75.a:0 "아래로부터의 해방."
+worldnews.75.a:0 "하층민으로부터의 해방이군."
 
 worldnews.76.t:0 "바라티야 코뮌의 전체주의자"
 worldnews.76.d:0 "바라티야 코뮌의 강경파 파벌의 지도자이자 최근 선출된 국가 수반의 지도자인 수바스 찬드라 보세(Subhas Chandra Bose)는 오늘 캘커타의 군중들에게 열정적인 연설을 했습니다. 그의 새 전체주의 정부는 북부의 인도 자치령의 '식민지의 애완견들'과 서부의 번왕국 연방의 '퇴폐적인 억압자들'을 끝내기 위해 무엇이든지 할 것이라고 약속했습니다. 그는 바라티야 코뮌이 자신의 임무를 완수하기 위해 자신의 두발로 설것이며, 인도가 분명 고려할만한, 강한 세력임을 세계에 증명할 것이라고 주장했습니다."
@@ -352,15 +352,15 @@ worldnews.80.a:0 "글쎄,이것은 예상치 못한 일이었는데."
 
 worldnews.81.t:0 "간디에 대항하여 강경파가 들고 일어나다"
 worldnews.81.d:0 "마하트마(모한다스 카람찬드 간디)가 평화적인 재결합을 위해 [DEH.GetNameDef]와 대화를 시작한 지난주에 캘커타 주변에서 소용돌이 치고 소문이 있었습니다. 재결합이 실제로 일어날 지 여부는 말하기가 어렵습니다. 그 확률과 관계없이, [DEH.GetNameDef]의 전체주의자들이 분노하여 들고 일어났고, 수바스 찬드라 보세(Subhas Chandra Bose)는 재결합이 실제로 일어나지 않도록 하기위해 강경파 파벌을 모아 간디와 농민당에 대항하여 파업을 일으켰습니다. 이미 벵골의 시골 지역에서 전투가 벌어졌지만 나머지 인도 지역들은 그 결과를 보고 기다릴 수밖에 없습니다."
-worldnews.81.a:0 "또 다른 내전? 맙소사!"
+worldnews.81.a:0 "또 다른 내전이라니? 맙소사!"
 
 worldnews.82.t:0 "강경파가 켈커타를 점령하다."
 worldnews.82.d:0 "수바스 찬드라 보세의 지휘 하에 있는 강경파가 오늘 캘커타의 심장부로 몰려갔습니다. 그들은 인도 국민 의회 건물을 둘러쌌고, 소문에 의하면 마하트마를 포함한 농민당 지도자들을 포위하고 있다고 합니다. 간디의 소재는 현재 알려지지 않았지만, 보스와 강경파는 정부를 완전히 장악하고 질서를 회복했습니다. 농민당은 불법으로 지정되었으며, 이는 바라티야와의 평화와 나머지 인도인들간의 분쟁을 멈추려는 간디의 꿈이 무너졌다는 것을 의미합니다."
-worldnews.82.a:0 "바라티야 코뮌의 불확실한 미래."
+worldnews.82.a:0 "바라티야 코뮌의 미래가 불확실하구나."
 
 worldnews.83.t:0 "간디가 내전을 시작하다."
 worldnews.83.d:0 "오랫동안 그의 평화주의적 방식으로 오랫동안 명성을 얻었던 마하트마조차도 한계를 느끼고 있는 것으로 보입니다. 수바스 찬드라 보세가 이끄는 인도 국민 의회의 강경파에 대해 그들의 전쟁 도발과 바라티야 코뮌의 군대에 대한 숙청을 중단할것을 여러차례 요청한후, 모한다스 카람찬드 간디는 전체주의 정부를 무력으로 무너뜨리기 위해 고지대에서 광범위한 폭동을 일으켰습니다. 일부는 전쟁이 시작된날 마하트마를 체포하도록 명령하고 이제는 농민당이 패배 할 경우 즉각 처형하도록 명령한 보스가 마하트마에게 이 어색한 입장을 강제했다고 말합니다."
-worldnews.83.a:0 "또 다른 내전? 맙소사!"
+worldnews.83.a:0 "또 다른 내전이라니? 맙소사!"
 
 worldnews.84.t:0 "농민당이 켈커타를 점령하다."
 worldnews.84.d:0 "모한다스 카람찬드 간디의 지휘 하에 있는 농민당이 오늘 캘커타의 심장부로 몰려갔습니다. 그들은 인도 국민 의회 건물을 둘러쌌고, 소문에 의하면 전체주의 지도자들을 포위하고 있다고 합니다. 전체주의자들의 수장인 수바스 찬드라 보세의 소재는 현재 알려지지 않았지만, 간디와 농민당은 정부를 완전히 장악하고 질서를 회복했습니다. 강경파 정당은 불법으로 지정되었으며, 이는 [BEH.GetNameDef]가 인도 전역과의 공개 전쟁을 향한 빠른 행보가 멈추었다는 것을 의미합니다."
@@ -383,7 +383,7 @@ worldnews.88.d:0 "마침내 스페인 내전이 끝났고 카를로스파가 승
 worldnews.88.a:0 "흥미롭군."
 
 worldnews.89.t:0 "포르투갈에서 아나키스트 쿠데타가 일어나다!"
-worldnews.89.d:0 "스페인의 CNT-FAI의 최근 성공에서 고무받은 것으로 알려진 아나키스트-생디칼리스트 운동인 포르투칼 아나키스트 연합(União Anarquista Portuguesa)가 주도한 포르투갈의 수도 리스본의 폭동다음날, 포르투갈 정부에 맞선 깜짝 쿠데타가 성공했습니다. 아나키스트 민병대가 수도의 건물로 이동했고, 혁명의 지도자인 네노 바스코 (Neno Vasco)와 안토니오 핀토 쿼탄(António Pinto Quartin)이 임시 체제를 구축했습니다. 새로운 지도자들은 장래에 [CNT.GetNameDef]와 더 긴밀한 관계를 추구 할 것으로 보입니다."
+worldnews.89.d:0 "스페인의 전국노동자연합의 최근 성공에서 고무받은 것으로 알려진 아나키스트-생디칼리스트 운동인 포르투칼 아나키스트 연합(União Anarquista Portuguesa)가 주도한 포르투갈의 수도 리스본의 폭동다음날, 포르투갈 정부에 맞선 깜짝 쿠데타가 성공했습니다. 아나키스트 민병대가 수도의 건물로 이동했고, 혁명의 지도자인 네노 바스코 (Neno Vasco)와 안토니오 핀토 쿼탄(António Pinto Quartin)이 임시 체제를 구축했습니다. 새로운 지도자들은 장래에 [CNT.GetNameDef]와 더 긴밀한 관계를 추구 할 것으로 보입니다."
 worldnews.89.a:0 "혁명이 퍼지기 시작했다 - 무서운 속도로!"
 
 worldnews.90.t:0 "영국의 선거 교착"
@@ -417,7 +417,7 @@ worldnews.95.d:0 "세계대전 이후, 독일인들은 비록 지역 주민들�
 worldnews.95.a:0 "흥미롭군."
 
 
-worldnews.96.t:0 "리투아니아에서 친러시아 쿠데타"
+worldnews.96.t:0 "리투아니아의 친러시아 쿠데타"
 worldnews.96.d:0 "매우 낮은 확률에도 불구하고 리투아니아 공화국은 미틀오이로파와의 전쟁에서 살아 남았고 강력해졌습니다. - 하지만 그들을 향한 다음 도전은 내부에서 일어났습니다. 억압당하는 러시아, 폴란드, 벨라루스 소수 민족은 반 민족주의 운동으로 뭉쳤고, 그들은 일어났습니다. \n\n 카쉬미르 티스즈키에비츠가 이끄는 소위 '해방 연합'은 빌뉴스를 장악하고 이 지역을 친 러시아 왕국으로 개편했습니다. 전문가들은 인력과 장비의 단점에도 불구하고 러시아가 개입한점이 동맹의 놀라운 승리의 원인이라고 생각합니다."
 worldnews.96.a:0 "군주에서 졸개 중 하나로..."
 
@@ -444,13 +444,13 @@ worldnews.101.t:0 "민족주의 생디칼리즘당이 이탈리아 여당이 되
 worldnews.101.d:0 "\n[SRI.GetNameDef]으로 알려진 대 이탈리아 연합의 제 5 차 조합 회의는 베니토 무솔리니가 이끄는 이탈리아 민족주의 생디칼리즘당이 정부의 과반수 의석을 차지하면서 끝이 났습니다. 정권 교체는 공화국이 더욱 강경하고 군국주의적인 입장으로 나아가는 것을 의미합니다. - 특히 공화국의 적이자 이미 반응하고 있는 [ITA.GetNameDef]에 대해 말입니다."
 worldnews.101.a:0 "흥미롭군"
 
-worldnews.102.t:0 "이탈리아가 재결합하다."
+worldnews.102.t:0 "이탈리아가 재통일하다."
 worldnews.102.d:0 "[SRI.GetNameDef]와 [ITA.GetNameDef]의 정부간의 회담은 오늘 단일 국가로의 연합에 대한 광범위한 합의를 이루었습니다. 두 나라가 피할 수 없는 전쟁의 길을 가고 있다고 생각한 많은 이들에게 놀랄만한 움직이이며, 양국의 비판자가 없는 것도 아닙니다. 오래된 정치 체제들이 하나로 합쳐질 때 재조정 기간이 있을 것으로 예상되지만 [From.GetAdjective]의 리더쉽은 이것이 다시 한번 세계 정세에 강대국으로 부상할 [From.GetName]의 회복을 의미한다는 자신감을 표현하고 있습니다."
 worldnews.102.a:0 "평화로운 연합? 전혀 생각치 못한 일인데?"
 
-worldnews.103.t:0 "[italian.GetNameDef]에서 혁명 발발!"
+worldnews.103.t:0 "[italian.GetNameDef]에서의 혁명 발발!"
 worldnews.103.d:0 "이탈리아 사람들의 분노는 최근 최고조에 달해, 정부 건물을 점령하고 민주주의로 돌아가기를 요구하는 대규모 이탈리아 군중이 [italian.Capital.GetName] 에 몰려들었습니다. 혼란은 수개월 간의 정치적 혼돈을 일으켰으며 임시 정부는 자유 선거가 곧 개최 될 것이라고 발표했습니다. 몇 년 동안 상대적으로 어둠 속에서 활동해온 야당은 이 주장과 캠페인을 확산시키기 위해 분투하고 있으며, 이탈리아를 일부 비평가들은 불공평하다고 비판하는 매우 흥분된 상태로 이끌고 있습니다. [italian.GetNameDef]의 새로운 질서가 어떻게 진행될지는 지켜보아야합니다."
-worldnews.103.a:0 "흥미롭군"
+worldnews.103.a:0 "흥미롭군."
 
 worldnews.104.t:0 "수페르가의 재앙"
 worldnews.104.d:0 "오늘 [SRI.GetNameDef]에서 토리노 인근의 수페르가 언덕에 많은 고위 정치인들과 민족주의 생디칼리즘 연합의 군 관계자들이 탑승한 비행기가 추락했으며, 베니토 무솔리니, 이탈로 발보, 체사레 마리아 데베키와 에밀리오 데 보노를 포함해 31명이 사망했습니다. 항공기는 토리노에 접근하던중 뇌우를 만났고, 낮은 구름과 저시계에 직면했습니다. 그들은 오로지 시각에 의존해 하강하도록 강요당했습니다. 토리노 강에서 하강하던 중, 수페르가 언덕 꼭대기에 있는 바실리카 단지에 추락했습니다. 대규모 군중이 이 비극적 인 사건을 애도하기 위해 이미 수도에 모여 들었지만, 많은 사람들은 민족주의 생디칼리즘주의자 연합이 그토록 많은 지도자들을 잃은 상태로 살아남을 수 없을 것이라고 생각합니다."
@@ -475,15 +475,15 @@ worldnews.108.a:0 "흥미롭군"
 
 worldnews.109.t:0 "보오라데트 반란"
 worldnews.109.d:0 "The recent Siamese Revolution, while outwardly successful, has seen its popularity plummet. Taking advantage of the controversial "Yellow Cover Dossier" -the nickname for a proposed plan to overhaul the nation's economic systems and nationalise many industries- a "red scare" was whipped up.\n\nWhile the Chief of the Army, Luang Phibunsongkhram, declared himself loyal to Parliament Prince Boworadet organised an armed mutiny in northern reaches of the country. Proclaiming himself and his subordinates the 'Khana Gu-barn Gu-muang'(National Reclaimation Party) he began a march towards Bangkok. The swift mobilisation of government forces lead to a two-day standoff that eventually escalated into all-out war between both sides."
-worldnews.109.a:0 "The Siamese Civil War begins..."
+worldnews.109.a:0 "시암 내전이 시작됬군..."
 
 worldnews.110.t:0 "송수라데트 반란"
 worldnews.110.d:0 "The recent Siamese Revolution, while outwardly successful, has seen its popularity plummet. Taking advantage of the controversial "Yellow Cover Dossier" -the nickname for a proposed plan to overhaul the nation's economic systems and nationalise many industries- a "red scare" was whipped up.\n\nWhile the Chief of the Army, Luang Phibunsongkhram, swore allegiance to the king Phraya Songsuradet and some disgruntled naval officers organised an armed mutiny in the south of the country. After proclaiming themselves the 'Khana Pokpong Prachathipatai'(Democracy Protection Party) they marched on Bangkok. The collapse of the military establishment marks the start of all-out civil war in Siam."
-worldnews.110.a:0 "It could not have been helped."
+worldnews.110.a:0 "이건 도움이 될 수 없는걸."
 
 worldnews.111.t:0 "피분송크람의 쿠데타"
 worldnews.111.d:0 "The recent Siamese Revolution, while outwardly successful, has seen its popularity plummet . Taking advantage of the controversial "Yellow Cover Dossier" -the nickname for a proposed plan to overhaul the nation's economic systems and nationalise many industries- a "red scare" was whipped up.\n\nChief of the Army Luang Phibunsongkhram intervened just in time and declared martial law nationwide, widely believed to have dragged the nation back from the brink of civil war. The "Iron Marshall" apparently plans to rule as a dictator himself until such a time as he believes the nation is 'ready' for the responsibility of democracy."
-worldnews.111.a:0 "Concerning."
+worldnews.111.a:0 "걱정되는군."
 
 worldnews.112.t:0 "37차 시암-버마 전쟁"
 worldnews.112.d:0 "The new National-Populist regime of Plaek Phibunsongkhram in Siam has issued a declaration of war to the Burmese government in Yangon today, citing Burmese agitation in Morlamaeng as an act of war.\n\nThe Siamese themselves are clearly the aggressor here, as they had previously occupied lands up to the Salween river, violating the Stresemann treaty dictating the border between them and Burma back in 1929. For the Burmese the situation looks pretty bleak, should Siam emerge victorious it is likely that this will mark the rise of a new Thai hegemony in South East Asia, one European powers will have to be cautious of."
@@ -633,8 +633,8 @@ worldnews.144.d:0 "It seems that not even the status-quo of the democratic parti
 worldnews.144.a:0 "또? 도무지 겉잡을 수가 없는데..."
 
 worldnews.145.t:0 "독일 정복"
-worldnews.145.d.africa:0 "오늘 상상도 할 수 없던 일이 실현되었습니다:유럽의 독일 육군이 마침내 그들을 짓누르는 적들에게 무너졌습니다. 제국은 투쟁을 계속할 수 없었고, 그의 카이저 그리고 독일 내각 상당수의 정부 관료들과 군 고위층들은 여전히 독일의 수중에 있는 아프리카 식민지로 망명을 떠났습니다. 카이저는 공식적으로는 해외의 제국 식민지에서 온 힘을 다해 투쟁을 계속하기로 약속했지만, 현재 유럽에서의 전쟁은 끝났고 전 세계의 독일령 영토들은 엄청난 혼란에 빠져 있습니다."
-worldnews.145.d.collapse:0 "오늘 상상도 할 수 없던 일이 실현되었습니다:유럽의 독일 육군이 마침내 그들을 짓누르는 적들에게 무너졌습니다. 어디에도 도피할 곳이 없는 상태에서, 카이저와 그의 내각은 적국 지도자들과 만나 완전한 항복에 동의했습니다. 전 세계의 독일령 영토들은 즉시 엄청난 혼란에 빠졌습니다. 1차 대전 종전 이후 계속 유지되어 온 세계 질서가 이제 불타는 종말을 맞은 것은 분명합니다."
+worldnews.145.d.africa:0 "오늘 상상도 할 수 없던 일이 실현되었습니다:유럽의 독일 육군이 마침내 그들을 짓누르는 적들로 인해 무너졌습니다. 제국은 투쟁을 계속할 수 없었고, 그의 카이저 그리고 독일 내각 상당수의 정부 관료들과 군 고위층들은 여전히 독일의 수중에 있는 아프리카 식민지로 망명을 떠났습니다. 카이저는 공식적으로는 해외의 제국 식민지에서 온 힘을 다해 투쟁을 계속하기로 약속했지만, 현재 유럽에서의 전쟁은 끝났고 전 세계의 독일령 영토들은 엄청난 혼란에 빠져 있습니다."
+worldnews.145.d.collapse:0 "오늘 상상도 할 수 없던 일이 실현되었습니다:유럽의 독일 육군이 마침내 그들을 짓누르는 적들로 인해 무너졌습니다. 어디에도 도피할 곳이 없는 상태에서, 카이저와 그의 내각은 적국 지도자들과 만나 완전한 항복에 동의했습니다. 전 세계의 독일령 영토들은 즉시 엄청난 혼란에 빠졌습니다. 1차 대전 종전 이후 계속 유지되어 온 세계 질서가 이제 불타는 종말을 맞은 것은 분명합니다."
 worldnews.145.a:0 "제국이 몰락했다..." #Generic
 worldnews.145.b:0 "세계 혁명이 곧 실현될 것이다..." #Commune of France
 worldnews.145.c:0 "붉은 평등이 높이 떠오른다!" #Union of Britain
@@ -649,57 +649,57 @@ worldnews.146.d:0 "겉보기엔 희망이 없어 보이는 [From.GetNameDef]의 
 worldnews.146.a:0 "불안한 소식이로군"
 worldnews.146.b:0 "그는 도망칠 순 있겠지만, 숨을 순 없을 것이다"
 
-worldnews.147.t:0 "Metaxas Overthrows Greek Government"
+worldnews.147.t:0 "메타크사스가 그리스 정부를 전복하다"
 worldnews.147.d:0 "With Greece having been thrown into massive chaos following their loss in the Balkan War against Bulgaria, and the democratic government refusing to step down, former general Ioannis Metaxas stepped in today with a large group of army supporters and overthrew the government in a planned coup. Fighting in Athens is reported between Metaxas's soldiers and syndicalist groups loyal to Nikos Zachariadis, who Metaxas claims was close to overthrowing the government himself and 'steps were required to maintain order'. Syndicalists have vowed to fight back against the dictatorship, but for now it appears Metaxas is in full control."
-worldnews.147.a:0 "Interesting"
+worldnews.147.a:0 "흥미롭군"
 
-worldnews.148.t:0 "Syndicalists Overthrow Greek Government"
+worldnews.148.t:0 "생디칼리스트가 그리스 정부를 전복하다"
 worldnews.148.d:0 "With Greece having been thrown into massive chaos following their loss in the Balkan War against Bulgaria, and the democratic government refusing to step down, syndicalist supporters under leader Nikos Zachariadis today stormed the parliament in Athens and took control. The government's popularity is such that the new syndicalist regime is enjoying far more support than it might have otherwise, though former general Ioannis Metaxas has vowed to 'restore order' in the country by removing the 'syndicalist threat'. While Zachariadis is currently in control, fears are that a new civil war is inevitable."
-worldnews.148.a:0 "Interesting"
+worldnews.148.a:0 "흥미롭군"
 
-worldnews.149.t:0 "Greek Army Overthrows Government"
+worldnews.149.t:0 "그리스군이 정부를 전복하다"
 worldnews.149.d:0 "With Greece having been thrown into massive chaos following their loss in the Balkan War against Bulgaria, and the democratic government refusing to step down, the Greek army today stepped in and overthrew the government in a coup. General Alexandros Papagos said in a statemnet that the measure was temporary, and that new elections would be held as soon as the army restored order in the face of increased syndicalist insurgency. Whether Papagos will relinquish power as he claims remains to be seen, and syndicalist leaders have sworn to fight this 'new dictatorship' with every means at their disposal, raising fears of a new civil war."
-worldnews.149.a:0 "Interesting"
+worldnews.149.a:0 "흥미롭군"
 
-worldnews.150.t:0 "Rural Democratic Front Victorious in Greece"
+worldnews.150.t:0 "농촌민주전선이 그리스 선거에서 승리하다"
 worldnews.150.d:0 "The restoration of the monarchy in Greece caused the country's leftist leaders to consolidate under the umbrella of the Rural Democratic Front, a party which has now seen victory in the country's recent elections under [GRE.GetLeader]. Many within the government had called on the party to be banned, a call which had been refused, and so now Greece faces a transformation into a socialist dictatorship with a mandate from the angry Greek electorate. Even so, portions of the military are already gathering in opposition to the new government, and there are fears that a new civil war will break out in Greece as a result."
-worldnews.150.a:0 "Interesting"
+worldnews.150.a:0 "흥미롭군"
 
-worldnews.151.t:0 "Syndicalists Victorious in Greek Elections"
+worldnews.151.t:0 "생디칼리스트가 그리스 선거에서 승리하다"
 worldnews.151.d:0 "The victory of the republicans in Greece caused the country's leftist leaders to consolidate under the umbrella of the Social Workers’ Party of Greece, a party which has now seen victory in the country's recent elections under [GRE.GetLeader]. Many within the government had called on the party to be banned, a call which had been refused, and so now Greece faces a transformation into a syndicalist dictatorship with a mandate from the angry Greek electorate. Even so, portions of the military are already gathering in opposition to the new government, and there are fears that a new civil war will break out in Greece as a result."
-worldnews.151.a:0 "Interesting"
+worldnews.151.a:0 "흥미롭군"
 
-worldnews.152.t:0 "Metaxas Overthrows Greek Government"
+worldnews.152.t:0 "메타크사스가 그리스 정부를 전복하다"
 worldnews.152.d:0 "The recent revaltions in Greece that the government had rigged the referendum to produce a positive result for republicans has shaken the nation, to the point where former general Ioannis Metaxas has stepped in to take control. With the support of a large number of generals in the army, Metaxas declared that the former government leaders had been arrested and that he would see the nation restored to its 'proper path'. Syndicalists leaders have already declared the Metaxas regime an opportunistic act, and have sworn to take action again him and his new government."
-worldnews.152.a:0 "Interesting"
+worldnews.152.a:0 "흥미롭군"
 
-worldnews.153.t:0 "Syndicalists Overthrow Greek Government"
+worldnews.153.t:0 "생디칼리스트가 그리스 정부를 전복하다"
 worldnews.153.d:0 "The recent revaltions in Greece that the government had rigged the referendum to produce a positive result for the monarchists has shaken the nation, to the point where syndicalist leader Aris Velouchiotis has stepped in to take control. With the support of a large number of militia leaders, Velouchiotis declared that the former government leaders had been arrested and that he would see the nation restored to its 'proper path'. Former general Ioannis Metaxas has already declared the new regime invalid, and has taken to the countryside with several loyalist generals to raise opposition, making a new civil war appear almost certain."
-worldnews.153.a:0 "Interesting"
+worldnews.153.a:0 "흥미롭군"
 
-worldnews.154.t:0 "Syndicalists Win Greek Civil War"
+worldnews.154.t:0 "생디칼리스트가 그리스 내전에서 승리하다"
 worldnews.154.d:0 "After months of fighting, syndicalist forces under Greek leader Aris Velouchiotis today took control of Athens and declared victory in the civil war. Velouchiotis announced that a temporary government under Nikos Zachariadis would be put in place until a proper congress of Greek trade unions and workers could be assembled to decide the nation's future. While fighting is still ongoing in many parts of Greece, it appears that the direction of the country's future has finally been settled."
-worldnews.154.a:0 "Interesting"
+worldnews.154.a:0 "흥미롭군"
 
-worldnews.155.t:0 "Metaxas Wins Greek Civil War"
+worldnews.155.t:0 "메타크사스가 그리스 내전에서 승리하다"
 worldnews.155.d:0 "After months of fighting, forces under former general Ioannis Metaxas today took control of Athens and declared victory in Greece's civil war. Metaxas announced that a temporary government under his control would be put in place until a tribunal could be assembled to decide the nation's future. While fighting is still ongoing in many parts of Greece, it appears that the direction of the country's future has finally been settled."
-worldnews.155.a:0 "Interesting"
+worldnews.155.a:0 "흥미롭군"
 
-worldnews.156.t:0 "Republicans Win Greek Referendum"
+worldnews.156.t:0 "그리스 국민투표에서 공화주의자들이 승리하다"
 worldnews.156.d:0 "The recent referendum on the future of the Greek monarchy has finally ended, with republicans declaring victory. Greek Prime Minister [GRE.GetLeader] announced that King Alexander would not be invited back from exile, and that the country would remain a republic as per the wishes of the public. The referendum caused deep divisions in Greece, and while the matter of the monarchy may be settled, it will still be an uphill battle for the government to heal those divisions in the years to come."
-worldnews.156.a:0 "Interesting"
+worldnews.156.a:0 "흥미롭군"
 
 worldnews.157.t:0 "그리스의 왕정복고"
 worldnews.157.d:0 "After weeks of deliberation, the Greek government has decided to return the crown to King Aléxandros I - who was exiled in 1923 following the establishment of the Third Republic. While many consider Aléxandros unpopular due to the part he played in the surrendering of the economy to Germany and Austria following the first Weltkrieg, it was felt he was still the most legitimate ruler. The king spoke to a massive, cheering crowd in Athens after returning for the first time in many years, saying that Greece had 'finally returned to the path it was meant to be on', and vowed to work with the country's leaders to forge a positive future."
-worldnews.157.a:0 "Interesting"
+worldnews.157.a:0 "흥미롭군"
 
 worldnews.158.t:0 "그리스의 왕정복고"
 worldnews.158.d:0 "After weeks of deliberation, the Greek government has decided to give the crown to King Geórgios II - not to Aléxandros I, who is still alive, but who many feel should have always been the proper heir as Aléxandros's older brother... and who never received the crown in the first place due to his exile following the Weltkrieg. While there are lingering doubts as to his legitimacy, the government has assured the people that this fixes an error which had been made long before. The king spoke to a massive, cheering crowd in Athens after returning for the first time in many years, saying that Greece had 'finally returned to the path it was meant to be on', and vowed to work tirelessly to rebuild the country."
-worldnews.158.a:0 "Interesting"
+worldnews.158.a:0 "흥미롭군"
 
 worldnews.159.t:0 "그리스의 왕정복고"
 worldnews.159.d:0 "The Greek government today announced it would be restoring the monarchy, forgoing the referendum that originally restored the kingdom in 1920 prior to its overthrow in 1923. Rather than restore the crown to Aléxandros I, however, it has instead passed the crown to his younger brother, Pávlos I. The new king, it is said, has much more radical and authoritarian ideas learned during his exile which are more in line with the new Greek government, though the rest of the royal family will be returning to Greece along with him. The king spoke to a massive, cheering crowd in Athens after returning for the first time in many years, saying that Greece had 'finally returned to the path it was meant to be on', and vowed to work tirelessly to rebuild the country."
-worldnews.159.a:0 "Interesting"
+worldnews.159.a:0 "흥미롭군"
 
 worldnews.160.t:0 "아르헨티나의 전권을 통제하는 마누엘 카를레스"
 worldnews.160.d:0 "마누엘 카를레스가 1935년 크리스마스 때 아르헨티나에 대한 쿠데타를 일으켰을 때, 그 나라는 대통령직을 장악하기 위한 잔인한 투쟁으로 분열되었습니다. 애국당과 아르헨티나 해군의 군대는 재빨리 수도를 장악했지만, 전국을 장악하기 시작한 육군에 의해 저지되었고, 유혈투쟁으로 이어졌습니다.\n 내부 지역 철도의 중심지인 로사리오가 함락되면서, 카를레스는 부에노스 아이레스에서 그의 추종자들을 위한 열광적인 연설을 한 후 오늘 오후에 그의 쿠데타의 성공을 선포했습니다. 광대한 영토 확장과 파타고니아를 괴롭히는 붉은 공포의 종식을 약속하면서, 그는 고군분투하는 그의 나라 국민들로부터 열광의 물결을 받았습니다."
@@ -710,9 +710,9 @@ worldnews.161.t:0 "페드로 파블로 라미레즈가 아르헨티나의 질서
 worldnews.161.d:0 "마누엘 카를레스가 1935년 크리스마스 때 아르헨티나에 대한 쿠데타를 일으켰을 때, 그 나라는 대통령직을 장악하기 위한 잔인한 투쟁으로 분열되었습니다. 애국당과 아르헨티나 해군의 군대는 재빨리 수도를 장악했지만, 전국을 장악하기 시작한 육군에 의해 저지되었고, 유혈투쟁으로 이어졌습니다.\n  그러나 육군으로부터의 악의적 저항은 카를레스의 군에게는 너무 강한 것으로 판명되었고 로사리오에서의 굴욕적인 패배 후에 그들은 수도로 밀려났습니다. 마누엘 카를레스 자신은 오늘 아침 일찍 자살했다는 소문이 있지만, 다른 사람들은 그와 그의 측근들이 대통령 영지를 향해 적 탱크가 굴러갈 때 우루과이로 떠나는 강 유역에서 목격되었다고 주장했습니다."
 worldnews.161.a:0 "이것은 민주주의를 위한 승리인가?" 
 
-worldnews.162.t:0 "Counter-Revolution in Chile"
+worldnews.162.t:0 "칠레의 반혁명"
 worldnews.162.d:0 "Though Chile was once viewed as the most successful bastion of syndicalism and socialists values in South America, it appears that its regime stands no more. Clear failings in leadership during the war against Argentina and the dire strategic situation facing the nation today led to a cabal of military officials seizing power in Santiago, and a number of key strongpoints in the city and across the country swiftly fell into their hands.\n\n Where Chile's path now lies remains uncertain, but it appears that another junta rules in Latin America - for now at least."
-worldnews.162.a:0 "The hammer and torch suffers a blow."
+worldnews.162.a:0 "망치화 횃불이 타격을 받았군."
 
 worldnews.163.t:0 "Aprist Revolution in Peru"
 worldnews.163.d:0 "As a result of government crackdowns on socialist and syndicalist institutions and individuals across Peru, the opposition, feeling increasingly persecuted and fearing the worst, today launched a desperate coup attempt. The march against the nation's capital in Lima was overwhelmingly successful, and flimsy national army detachments dissolved ahead of the Red militias, who quickly occupied key strategic points throughout the city and across the nation at large. It seems that Peru has become yet another victim of the ideological conflict engulfing the globe."
@@ -1105,7 +1105,7 @@ worldnews.276.c:0 "[old_controller.GetNameDef]가 로마를 되찾을 수 있을
 worldnews.277.t:0 "빈 함락"
 worldnews.277.d:0 "빈은 500년간 단 한번도 외세에 의해 점령된 적이 없었습니다...오늘까지는요. 며칠 전, [new_controller.GetAdjective] 병력이 다뉴브 강가에 잔존한 마지막 [old_controller.GetAdjective] 병력을 마무리지었으며, 떠도는 소문에 의하면 [old_controller.GetAdjective] 왕실은 이미 가능할 때 피신한 것으로 보입니다. 이제 '유럽 문화의 요새'의 운명에 대한 두려움에 빠진 많은 예술가와 음악가들이 살고 있는 이 도시는 [new_controller.GetNameDef]의 통제 아래에 있습니다.\n\n[new_controller.GetNameDef]는 이 위대한 군사적 업적을 기념하기 위해 링슈트라세 주변에서 군사 퍼레이드를 계획하고 있으며, 점령지를 책임지고 있는 [new_controller.GetAdjective] 장군은 수주일 간의 전투로 피폐해진 빈 시민들의 불안을 덜어주기 위해 노이어부르크의 발코니에서 연설을 할 예정입니다."
 worldnews.277.a:0 "빈이 함락되었다고? 어떻게 이럴 수가 있어?!"
-worldnews.277.b:0 "마침내 빈이 우리 것이다!"
+worldnews.277.b:0 "마침내 빈이 우리 것이 되었다!"
 worldnews.277.c:0 "[old_controller.GetNameDef]가 많이 동요하는 것으로 보인다"
 
 worldnews.278.t:0 "베이징 함락"
@@ -1135,7 +1135,7 @@ worldnews.281.b:0 "마침내 시드니가 우리 것이다!"
 worldnews.281.c:0 "[old_controller.GetAdjective]의 상황은 심각해 보인다"
 
 worldnews.282.t:0 "멕시코 시티 함락"
-worldnews.282.d:0 "Mexico city, the oldest capital in North America and the 5th-largest by population, fell today to invading [new_controller.GetAdjective] forces. They encircled the city and then moved into the lake bed from the west, cutting the major transportation arteries through the lower areas and forcing [old_controller.GetAdjective] defenders to bleed off into the foothills to the east. As of today, the general in charge of the [new_controller.GetAdjective] occupation was sighted entering the National Palace to negotiate with the governor for a ceasefire.\n\nRumours claim [new_controller.GetAdjective] troops are touring the old Aztec ruins and picking up 'free' souvenirs for themselves, and now it looks like the survivors of Spanish tyranny will learn to live under the yoke of [new_controller.GetNameDef] control."
+worldnews.282.d:0 "북아메리카에서 가장 오래된 도시이자 5번째로 인구가 많은 멕시코 시티는 오늘 [new_controller.GetAdjective] 군대에 의해 함락되었습니다. 군대는 도시를 포위하였고 서쪽에서 부터 호수 바닥으로 이동하여, 주요 운송 이동로를 하부에서 차단하였고 [old_controller.GetAdjective] 군대가 동쪽의 산기슭으로 쓸려나가도록 하였습니다. 오늘을 통해, [new_controller.GetAdjective] 점령의 통제권을 지닌 장군이 고궁에 쳐들어가서 통치자와 휴전 협상을 하였습니다.\n\n소문에 의하면 [new_controller.GetAdjective]군은 오래된 아즈텍 유적을 탐험하고 '공짜'로 기념품 명목으로 유물들을 가져갔으며, 이제는 스페인의 억압정치에서 살아남은 이들이 [new_controller.GetNameDef] 통치 아래 사는법을 배울 것으로 보입니다."
 worldnews.282.a:0 "여기서 끝난 것이 아니다"
 worldnews.282.b:0 "멕시코의 심장이 우리 것이다!"
 worldnews.282.c:0 "그렇군..."
@@ -1150,4 +1150,4 @@ worldnews.283.c:0 "[old_controller.GetNameDefCap]가 죽어가고 있군"
 
 worldnews.284.t:0 "미합중국이 안정을 되찾다"
 worldnews.284.d:0 "In the USA, the Combined Syndicates and the reactionary Southern American First Party have both long threatened open revolt against the union.\nHowever, days after President Curtis signed a historic agreement with the leadership of the Combined Syndicates, an unknown assassin has shot and killed AFP leader Huey Long.\nAs union strikes are called off across the country and the National Guard dissolves the remnants of the now-leaderless AFP, people are slowly returning to work. \n\nPolitical commentators are unanimously hailing this as a 'diplomatic miracle' and speculate that many Americans may never know exactly how close they came to disaster."
-worldnews.284.a:0 "찰스 커티스는 이 일을 실제로 해냈다!"
+worldnews.284.a:0 "찰스 커티스는 이 일을 실제로 해냈군!"
