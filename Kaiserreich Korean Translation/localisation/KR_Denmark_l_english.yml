@@ -139,7 +139,7 @@ DEN_DEM_common_tech_2:0 "기술 협력"
 DEN_DEM_form_federation:0 "북유럽 연방"
 
 ### Events ###
-den.1.t:0 "경제 위기
+den.1.t:0 "경제 위기"
 den.1.d:0 "With the financial turmoil currently ongoing in Germany, Denmark is now in a dire economic position. The German trade that has flowed through our ports is now sharply reduced. A strong response is needed to secure the situation."
 den.1.a:0 "소비를 줄여라!"
 den.1.b:0 "개혁만이 답이다."
@@ -161,17 +161,17 @@ den.25.c:0 "군사 점령을 계속한다."
 
 den.50.t:0 "The Nord Brand Party"
 den.50.d:0 "-"
-den.50.a:0 "Sounds wonderful!"
-den.50.b:0 "Watch on carefully."
-den.50.c:0 "Ban the party!"
+den.50.a:0 "반가운 소리군!"
+den.50.b:0 "조심히 지켜보자."
+den.50.c:0 "당을 금지해라!"
 
-den.100.t:0 "Foundation of the Nordic Council"
-den.100.d:0 "The Nordic Council have been founded as an instrument for Nordic cooperation and integration."
-den.100.a:0 "Join the Nordic Council"
+den.100.t:0 "북유럽 평의회 설립"
+den.100.d:0 "북유럽의 협력과 통합을 위한 기구로서 북유럽 평의회가 설립되었습니다."
+den.100.a:0 "북유럽 평의회에 합류한다"
 
-den.101.t:0 "Establishment of the Scandinavian Defence Union"
-den.101.d:0 "We have decided to sign a defensive military alliance together with our partners."
-den.101.a:0 "Join the Scandinavian Defence Union"
+den.101.t:0 "스칸디나비아 방위 연합 설립"
+den.101.d:0 "우리는 동맹들과 함께 방위를 위해 군사 동맹에 서명하기로 결정하였습니다."
+den.101.a:0 "스칸디나비아 방위 연합에 합류한다"
 
 den.102.t:0 "북유럽 여권 협약"
 den.102.d:0 "-"
