@@ -229,7 +229,7 @@ GRE_neuter_military:0 "군대의 중립화"
 GRE_neuter_military_desc:0 "그리스의 안정을 위협하는 최대 요소는 군대입니다. 우리가 군대의 요구를 일부 받아드리는 대신에, 그들의 정치적 중립성를 확립하고 그들이 정치에 개입하는 야망 자체를 제거해버릴 것입니다."
 GRE_strong_and_free:0 "강력함과 자유"
 GRE_strong_and_free_desc:0 "이것은 군대에게 항상 힘을 주는 것이 현명하다는 것을 의미하지 않습니다. 적아도 그것이 남용 될 수 있겠죠. 그러나 우리의 군대가 없이는 독립을 유지 할 수 없습니다. 우리는 강력해져야 하고, 그리스의 강력함과 자유는 같이 유지되어야 합니다."
-GRE_progressive_greece:0 "진보적인 그리스”
+GRE_progressive_greece:0 "진보적인 그리스"
 GRE_progressive_greece_desc:0 "사회적 진보와 인간의 권리를 믿을 수 있는 더 자유로운 미래를 통해, 그리스 시민들은 이제 빛나게 되었습니다. 우리 모두가 평등한 개인이자 자랑스러운 그리스인입니다."
 
 GRE_soc_conservatives:0 "인민당"
@@ -396,7 +396,7 @@ GRE_update_navy_desc:0 "만약 우리 전투함에 현대적 기술이 없다면
 GRE_merchant_marine:0 "화물선단 증대"
 GRE_merchant_marine_desc:0 "해군을 위해 우리가 실행 할 한 가지 일은 우리의 항구와 조선 산업을 확장하고 개선하는 것입니다. 이를 위해 필요하면 우리가 호출할 때 해군을 보조할 상선을 늘릴 필요가 있습니다."
 GRE_hellenic_shipyards:0 "헬레닉 조선소"
-GRE_hellenic_shipyards_desc:0 "헬레닉 해군 조선소를 아테네 근처의 산토리니에 건설하자는 안건이 올라왔습니다. 이것은 그리스의 가장 큰 조선소가 될 것이고 향후 해군 계획에 큰 도움이 될 것입니다.”
+GRE_hellenic_shipyards_desc:0 "헬레닉 해군 조선소를 아테네 근처의 산토리니에 건설하자는 안건이 올라왔습니다. 이것은 그리스의 가장 큰 조선소가 될 것이고 향후 해군 계획에 큰 도움이 될 것입니다."
 GRE_navy_motto:0 "바다를 통제하는 자가 위대하다"
 GRE_navy_motto_desc:0 "우리 해군의 모토는 바다를 통제하는 자가 위대하다입니다. 그리고 지금 그리스 해군은 마치 수천 년 전의 살라미스 때처럼 강력하고 공포러운 존재가 되었습니다. 누가 이제 바다를 통제 할 수 있을까요?"
 
@@ -799,4 +799,3 @@ gre.256.t:0 "A New Capital?"
 gre.256.d:0 "Konstantinoúpolis is once again under our control, and a question has now been risen: should the [Root.GetAdjective] capital be moved? For the sake of stability, some are saying it should not... but there are still others who say it is the greatest city in our nation, perhaps the greatest in our history. With the glory of [Root.GetNameDef] having been achieved, perhaps it should be reflected in our seat of government?"
 gre.256.a:0 "Yes, this is the proper capital of our nation"
 gre.256.b:0 "No, we remain in Athens as always"
-
