@@ -67,10 +67,10 @@ ministers_cannot_be_replaced:0 "장관 재임명 불가"
 ### Factions ###
 Mittelmacht:0 "제국협정"
 Entente:0 "협상국"
-Belgrade_Pact:0 "베오그라드 조약기구"
-Third_International:0 "제 3인터내셔널"
+Belgrade_Pact:0 "베오그라드 조약 기구"
+Third_International:0 "제3인터내셔널"
 Mongolian_Alliance:0 "대 칸국"
-Scandinavian_Pact:0 "스칸디나비아 조약기구"
+Scandinavian_Pact:0 "스칸디나비아 조약 기구"
 Mediterranean_Bloc:0 "지중해 연합"
 
 ### Other ###
@@ -78,11 +78,11 @@ tooltip_add_idea_closed_economy:0 "'§Y폐쇠경제§!'로 무역법을 변경�
 tooltip_add_idea_command_economy:0 "'§Y계획경제§!'로 무역법을 변경합니다.\n"
 
 ### World Tension ###
-second_american_civil_war_threat:0 "제2차 미국내전 발발"
-second_russian_civil_war_threat:0 "제2차 러시아내전 발발"
-spanish_civil_war_threat:0 "스페인내전 발발"
+second_american_civil_war_threat:0 "제2차 미국 내전 발발"
+second_russian_civil_war_threat:0 "제2차 러시아 내전 발발"
+spanish_civil_war_threat:0 "스페인 내전 발발"
 second_weltkrieg_threat:0 "제2차 세계대전 발발"
-rise_mongol_empire_threat:0 "몽골제국의 기상"
+rise_mongol_empire_threat:0 "몽골 제국의 기상"
 fourth_balkan_war_threat:0 "제4차 발칸전쟁 발발"
 remilitarize_oltenia_threat:0 "카르파티아에서의 책동"
 romandy_crisis_threat:0 "사보야드 사태 발생"
@@ -93,9 +93,9 @@ japanese_expansionism_threat:0 "일본의 팽창주의 노선"
 mittelafrika_collapse_threat:0 "중앙아프리카가 붕괴됨"
 democratic_win_acw_threat:0 "제2차 미국 내전에서 민주주의가 살아남음"
 macarthur_wins_threat:0 "맥아더가 2차 미국 내전에서 승리함"
-aus_wins_acw_threat:0 "미주연방이 2차 미국 내전에서 승리함"
-csa_wins_acw_threat:0 "노동연맹이 2차 미국 내전에서 승리함"
-belgrade_pact_threat:0 "베오그라드 조약기구가 창설됨"
+aus_wins_acw_threat:0 "미주 연합이 2차 미국 내전에서 승리함"
+csa_wins_acw_threat:0 "노동 연맹이 2차 미국 내전에서 승리함"
+belgrade_pact_threat:0 "베오그라드 조약 기구가 창설됨"
 
 ### Name and Description ###
 BM_HISTORY_TITLE:0 "간단한 역사"
