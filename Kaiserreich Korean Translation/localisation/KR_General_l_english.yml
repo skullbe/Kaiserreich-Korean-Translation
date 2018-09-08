@@ -5,7 +5,7 @@ PRODUCTION_CIVILIAN_FACTORIES_SENT_TO_OTHERS:0 "Given to other countries: $VAL|R
 
 ### Difficulty ### 
 custom_diff_strong_ger:0 "독일 제국 강화"
-custom_diff_strong_frasri:0 " 강화"
+custom_diff_strong_frasri:0 "인터내셔널 강화"
 custom_diff_strong_eng:0 "브리튼 연방 강화"
 custom_diff_strong_can:0 "캐나다 강화"
 custom_diff_strong_rus:0 "러시아 강화"
