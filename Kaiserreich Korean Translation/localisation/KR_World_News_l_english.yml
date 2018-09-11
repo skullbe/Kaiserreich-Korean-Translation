@@ -1,7 +1,7 @@
 l_english:
 
 worldnews.1.t:0 "제 2차 미국 내전"
-worldnews.1.d:0 "사정을 알지 못하는 이에게는 미국의 위기가 갑자기 발생한 것으로 보일 수도 있겠지만, 전문가들은 지난 수년간 내전 발발의 조짐이 보였다는 것에 동의합니다. 1925 년 뉴욕 증권 거래소가 붕괴한 이래로 미국 경제는 꾸준히 침체기에 접어 들었습니다. \n이제 미국은 기존 정부의 지지자들, 생디칼리즘을 내세운 아메리카 노동 연합, 우파 미주 연방간의 3자간 내전으로 돌입했습니다. 전세계 온 자원병들이 자신들이 지지하는 진영을 위해 싸운다는 보고가 있었습니다. 어쩌면 2차 아메리카 내전은 다양한 이념으로 힘든 시기에 그저 서로 다른 이념간에 벌어질 많은 전쟁 중 하나일 뿐일 수도 있습니다."
+worldnews.1.d:0 "사정을 알지 못하는 이에게는 미국의 위기가 갑자기 발생한 것으로 보일 수도 있겠지만, 전문가들은 지난 수년간 내전 발발의 조짐이 보였다는 것에 동의합니다. 1925년 뉴욕 증권 거래소가 붕괴한 이래로 미국 경제는 꾸준히 침체기에 접어 들었습니다. \n이제 미국은 기존 정부의 지지자들, 생디칼리즘을 내세운 아메리카 노동 연합, 우파 미주 연합의 3자간 내전으로 돌입했습니다. 전세계에서 온 자원병들이 자신들이 지지하는 진영을 위해 싸운다는 보고가 있었습니다. 어쩌면 2차 아메리카 내전은 다양한 이념으로 힘든 시기에 그저 서로 다른 이념간에 벌어질 많은 전쟁 중 하나일 뿐일 수도 있습니다."
 worldnews.1.a:0 "미국의 운명이 위험에 처해있군."
 
 worldnews.2.t:0 "사보이 위기가 해결되다"
@@ -42,7 +42,7 @@ worldnews.9.d:0 "온 세계의 사회주의 국가들과 정치적 운동들의 
 worldnews.9.a:0 "흥미로운 사건이군."
 
 worldnews.10.t:0 "몽골 제국의 부상"
-worldnews.10.d:0 "몽골의 광대한 평야에서 뉴스와 믿을만한 소식통은 드물지만, 몽골의 미친 남작인 로만 폰 운게른 슈테른베르크가 전례없는 성공을 거두었고, 스스로를 운게른 칸이라 부르며 징기스칸의 후계자로 자처하였다고 합니다. \n\n 이제는 이 변화가 수반 할 것으로 알려졌습니다. 몽골 군대는 이미 시베이 싼마(Ma Clique)를 물리 쳤고 폰 슈테른베르크는 모든 몽골인들을 통치 할 자신의 권리를 몇차레나 선언했습니다. 전문가들은 몽골인들이 극동 지역에서 확립된 세력에 위협을 가할 수있는 가능성을 부인하고 있지만, 새로운 칸의 야망은 더 높아질 수밖에 없습니다."
+worldnews.10.d:0 "몽골의 광대한 평야에서 뉴스와 믿을만한 소식통은 드물지만, 몽골의 미친 남작인 로만 폰 운게른 슈테른베르크가 전례없는 성공을 거두었고, 스스로를 운게른 칸이라 부르며 징기스칸의 후계자로 자처하였다고 합니다. \n\n 이제는 이 변화가 수반 할 것으로 알려졌습니다. 몽골 군대는 이미 서북삼마(Ma Clique)를 물리 쳤고 폰 슈테른베르크는 모든 몽골인들을 통치 할 자신의 권리를 몇차레나 선언했습니다. 전문가들은 몽골인들이 극동 지역에서 확립된 세력에 위협을 가할 수있는 가능성을 부인하고 있지만, 새로운 칸의 야망은 더 높아질 수밖에 없습니다."
 worldnews.10.a:0 "그것보다 더 미친 짓을 할 수는 없어."
 
 worldnews.11.t:0 "대서양 전쟁 - 캐나다의 개입"
@@ -126,7 +126,7 @@ worldnews.28.d:0 "조지 5세는 본국을 통치한 대영제국과 아일랜�
 worldnews.28.a:0 "흥미롭군."
 
 worldnews.29.t:0 "프랑스의 군주주의자들이 군주제를 부활시키다"
-worldnews.29.d:0 "짧은 프랑스 내전 이후 프랑스의 옛 정부와 지지자들은 생디칼리즘 지지자들의 분노를 피하기 위해 북아프리카로 도망쳤습니다. 그곳에서, 그 나라는 베르됭의 사자라고 불리우는 Philippe Petain 아래에서 군부의 나라로 바뀌었습니다. 그러나 이 패전국에서 커다란 의문이 제기되었습니다. 미래는 어떻게되어야 할까요? 프랑스를 되찾는것이 우선이지만, 정부는 무엇이 되어야할까요? \n\n프랑스 국민은 프랑스 군주국을 복원하기 위한 합의에 동의했기 때문에 프랑스인 스스로 질문에 대답 한 것처럼 보입니다."
+worldnews.29.d:0 "짧은 프랑스 내전 이후 프랑스의 옛 정부와 지지자들은 생디칼리즘 지지자들의 분노를 피하기 위해 북아프리카로 도망쳤습니다. 그곳에서, 그 나라는 베르덩의 사자라고 불리우는 필리프 페탱 아래에서 군부의 나라로 바뀌었습니다. 그러나 이 패전국에서 커다란 의문이 제기되었습니다. 미래는 어떻게되어야 할까요? 프랑스를 되찾는것이 우선이지만, 정부는 무엇이 되어야할까요? \n\n프랑스 국민은 프랑스 군주국을 복원하기 위한 합의에 동의했기 때문에 프랑스인 스스로 질문에 대답 한 것처럼 보입니다."
 worldnews.29.a:0 "무엇이 바뀔까?"
 
 worldnews.30.t:0 "일본이 야망을 드러내다."
@@ -500,7 +500,7 @@ worldnews.114.a:0 "새로운 공화국이 잿더미에서 일어서는구나"
 
 worldnews.115.t:0 "시암에서 왕당파가 승리하다"
 worldnews.115.d:0 "Sporadic fighting died down on the streets of Bangkok today as the Royalists finally took control of the city, forcing Luang Praditmanutham and other republicans to hastily board a ship bound for Saigon.\n\nWhile prominent members of the royal family who previously dominated government have officially refused to take office this time, they do continue to hold immense power. They are likely to increase their control over King Prajadhipok after the disaster of his failed democratic reform. Prajadhipok and future Siamese monarchs will almost certainly be 'guided' away from democracy in future."
-worldnews.115.a:0 "전제 군주정으로 한 걸음 돌아간 것인가?"
+worldnews.115.a:0 "전제군주정으로 한 걸음 돌아간 것인가?"
 
 worldnews.116.t:0 "시암에서 질서가 회복되다"
 worldnews.116.d:0 "The forces under Luang Phibunsongkhram, nicknamed 'The Iron Marshall' have utterly destroyed the last rebel holdouts in Siam today. After turning the rebels back outside Bangkok, government troops marched swiftly on their strongholds and rounded up everyone they could find.\n\nMany of thse prisoners will find their way to Tarutao Prison, an island surrounded by shark-infested waters, away from the mainland. Meanwhile the temporary Khana Ratsadon has stepped down, declaring the time ripe for business within the nation to return to normal."
@@ -596,7 +596,7 @@ worldnews.134.d:0 "[AST.GetNameDefCap]은 대영제국의 긴급 조치의 발�
 worldnews.135.d:0 "[AST.GetNameDefCap]은 대영제국의 긴급 조치의 발효 이후로 윌리엄 버드우드 총독의 권위주의적인 통치 아래에 있었습니다. 국가의 많은 사람들은 이를 멜버른 생디칼리스트 반란에 대한 대응으로는 너무 가혹한 것으로 여겼습니다. 버드우드는 마침내 공공 선거의 요청을 승인했고 존 커틴의 노동당이 의회에서 아슬아슬하게 다수를 형성하는 결과를 낳았습니다. 오스트랄라시아 노동 조합 협의회와 협력하고 있는 당내 급진파는 노동당을 장악하는데 실패하고 순차적으로 출당되었습니다. 커틴은 앞으로 노동 쟁의의 재개와 즉각적으로 생디칼리즘 활동을 억누르고자 하는 강성파 의원들의 압력을 처리하느라 고된 시간을 보낼 것으로 예측됩니다."
 
 worldnews.136.t:0 "벨기에가 독립을 선포하다"
-worldnews.136.d:0 "독일의 억압과 검은 월요일 재앙을 뒤이어, 벨기에 독립 운동이 벨기에 전역에서 일어났으며 독일군을 상대로 게릴라전을 벌이고 있습니다. 독일 제국의 자신의 회복으로 인해 아달베르트 1세를 완전히 지지하지 못했으며 상황은 독일의 통제를 벗어나 악화되었습니다. 독립군이 몽스와 앤트워프를 공동 공격한 이후 마침내 플랑드르-왈로니아 군은 브뤼셀로 물러났으며, 그곳에서의 격렬한 전투 끝에 독일인 왕이 항복했습니다. 독일 제국에서의 명확한 대답은 아직 없는 가운데, 많은 사람들은 독립 벨기에가 특히 프랑스 코뮌과 제국 사이의 긴장이 고조되고 그 나라의 전략적 위치가 악화되면서 얼마 가지 않을 수도 있다고 우려합니다."
+worldnews.136.d:0 "독일의 억압과 검은 월요일 재앙을 뒤이어, 벨기에 독립 운동이 벨기에 전역에서 일어났으며 독일군을 상대로 게릴라전을 벌이고 있습니다. 독일 제국 자신의 회복으로 인해 아달베르트 1세를 완전히 지지하지 못했으며 상황은 독일의 통제를 벗어나 악화되었습니다. 독립군이 몽스와 앤트워프를 공동 공격한 이후 마침내 플랑드르-왈로니아 군은 브뤼셀로 물러났으며, 그곳에서의 격렬한 전투 끝에 독일인 왕이 항복했습니다. 독일 제국에서의 명확한 대답은 아직 없는 가운데, 많은 사람들은 독립 벨기에가 특히 프랑스 코뮌과 제국 사이의 긴장이 고조되고 그 나라의 전략적 위치가 악화되면서 얼마 가지 않을 수도 있다고 우려합니다."
 worldnews.136.a:0 "행운을 빈다 벨기에!"
 
 worldnews.137.t:0 "생디칼리스트가 왈로니아에서 정권을 잡다"
@@ -913,7 +913,7 @@ worldnews.253.d.france:0 "베를린에서의 보고에 따르면, 제국 협정�
 worldnews.253.d.other:0 "베를린에서의 보고에 따르면, 제국 협정에서 가장 거대한 도시에서의 치열한 전투를 벌인 끝에 [old_controller.GetAdjective]의 수도가 [new_controller.GetAdjective]군에게 점령되었다고 합니다. [old_controller.GetAdjective]군은 가능한 한 오랫동안 [new_controller.GetAdjective]군을 붙잡아두기 위해 안간힘을 쓰며 저항했지만, 결국 격퇴되었습니다.\n\n충격받은 베를린 시민들이 지켜보는 동안, [new_controller.GetAdjective] 군대가 브란덴부르크 문을 지나 행진한 뒤에, 이 유명한 건축물 앞에서 [new_controller.GetLeader]의 연설이 있었습니다만, 세간의 주목과 기억을 사로잡은 것은 [new_controller.GetAdjective] 병사가 심각하게 손상된 제국의회 건물 지붕에서 [new_controller.GetAdjective] 국기를 자랑스럽게 들고 서 있는 강렬한 인상을 주는 사진이었습니다."
 worldnews.253.a.france:0 "[old_controller.GetNameDef]이 이렇게 멸망하도록 놔둘 순 없다. 코뮌 놈들을 도로 밀어내라!"
 worldnews.253.a:0 "이건 말도 안돼! 어떻게 베를린의 함락이 가능하단 말인가?!"
-worldnews.253.b.france:0 "베르됭, 슈멩 데 담, 솜 강. 우리는 모두 되갚아줬다."
+worldnews.253.b.france:0 "베르덩, 슈멩 데 담, 솜 강. 우리는 모두 되갚아줬다."
 worldnews.253.b:0 "[old_controller.GetNameDef]의 종말이 눈 앞이다."
 worldnews.253.c:0 "[new_controller.GetNameDef]의 위대한 승리이다!"
 
