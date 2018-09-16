@@ -408,8 +408,8 @@ EGY_rule_the_skies_desc:0 "Egypt's air force stands ready to enforce her hegemon
 ### Events ###
 
 egy.1.t:0 "이집트 술탄국"
-egy.1.d:0 "The history of modern Egypt conventionally began in 1882 when Egypt joined the British sphere of influence in the region, a situation that conflicted with Egypt's de jure position as part of the Ottoman Empire. In 1914 the Protectorate was made official and the title of the head of state, which had changed from Pasha to Khedive in 1867, was again changed to Sultan. This formally repudiated the vestigial suzerainty of the Ottoman Sultan in Constantinople, who was backing the Central Powers in the Weltkrieg. Abbas II was deposed by the British and replaced as Sultan by his uncle, Husayn Kamil. Upon his death in 1917, his only son, Prince Kamal al-Din Husayn, declined the succession, and Husayn Kamil's brother Ahmed Fuad ascended the throne as Fuad I.\n\nWith the ratification of the Peace with Honour, Egypt remained part of a now weakened British sphere. This would increase anger within the Egyptian populace that exploded in violence in 1925 during the collapse of the British Empire. This would become known as the Egyptian Revolution where Fuad I proved his legitimacy by leading the people in the revolution. The Revolution was largely nationalistic in nature uniting Egyptians of all social classes, faiths, and occupations together to rid Egypt of the foreign British once and for all. The Revolution would also bring about Egypt’s constitution based on the German model. In the chaos of the revolution, the Germans seized the Suez canal, which Egypt reluctantly accepted in order to avoid a conflict with the German Empire.\n\nSince the revolution there has been a conflict between liberals that seek to go further and make the monarchy a true constitutional monarchy and the conservatives that wish to keep the status quo. Moreover as 1936 arrives, the sultanate's eyes go increasingly upon the Young Farouk, the heir to the throne whom is being groomed for the throne. With the decline of the Ottoman empire, members of all political parties began to wonder and plan of restoring the might of Egypt and dreaming of an Ottoman Free Middle-East..."
-egy.1.a:0 "We shall be the masters of our own destiny!"
+egy.1.d:0 "근대 이집트의 역사는 전통적으로 1882년 이집트가 오스만 제국 영토의 일부라고 여겨지던 이집트의 법률적 지위를 놓고 싸우고 있는 상황에서 영국의 지역 내의 영향권에 들면서 시작되었습니다. 1914년 보호령은 공식적인 것이 되었고 1867년 파샤에서 케디브로 바뀐 국가원수의 명칭은 술탄으로 다시 바뀌었습니다. 이것은 콘스탄티노플의 오스만 술탄의 잔류한 영유권을 공식적으로 절연한 것이었습니다. 아바스 2세는 영국에 의해 폐위되었고 그의 삼촌 후세인 카밀이 그를 대체하여 술탄이 되었습니다. 1917년 그가 사망하고 그의 외아들 카말 알 딘 후세인이 상속을 거부하자 후세인 카밀의 동생 아흐메드 푸아드가 푸아드 1세로 왕위에 올랐습니다. 명예로운 평화가 맺어지며 이집트는 이제 약화된 영국 영향권의 일부로 남았습니다. 이는 이집트 대중의 분노를 고조시켰고 1925년 대영제국의 몰락의 와중에 폭력사태로 터져 나오게 되었습니다. 이는 이집트 혁명으로 알려지게 되었고 푸아드 1세는 혁명에서 사람들을 지휘하며 그의 정통성을 입증했습니다. 혁명은 다분히 민족주의적인 것이었고 자연스레 모든 계층, 신앙, 직업의 이집트인들을 연합시켜서 영국계 외국인들을 한번에 몽땅 몰아냈습니다. 혁명은 또한 이집트가 독일의 것을 모델로 하는 의회를 구성하게 했습니다. 혁명의 혼란 가운데 독일은 수에즈 운하를 접수했고 이집트는 독일 제국과의 분쟁을 피하기 위해 마지못해 이를 승인했습니다. 혁명 이래로 현재 이상으로 나가서 군주제를 진정한 입헌군주제로 만드려는 자유주의자들과 현 상태를 유지하려는 보수주의자 가운데 갈등이 있어왔습니다. 게다가 1936년이 오면서 왕위를 위해 양육된 계승자 젊은 파루크에게 이목이 집중되고 있습니다. 오스만 제국이 위축되면서 모든 정치적 정당의 구성원들은 이집트의 패권의 부활과 오스만으로부터 자유로운 중동이라는 꿈에 주목하고 계획을 짜기 시작했습니다..."
+egy.1.a:0 "우리는 우리 운명의 주인이 될 것이다!"
 
 egy.2.t:0 "푸아드 1세의 승하"
 egy.2.d:0 "Today tragic news hits the sultanate, Sultan Fuad is now dead. The people are in mourning. Now though the throne goes to the young sixteen year old Farouk, who will inherit the throne. While he has been trained for the throne, few know how he will govern."
@@ -425,10 +425,10 @@ egy.4.a:0 "Egypt shall be brought into the modern age"
 
 egy.5.t:0 "[GetYear]년 총선거"
 egy.5.d:0 "Today is the long awaited election for the Prime Minister of Egypt. This year’s election is particularly tense as it comes on the heels of the ascension of Farouk to the role of Sultan. The main four parties as before are running their candidates and the question is whom shall the people elect to be the prime minister?"
-egy.5.a:0 "자유 입헌당"
-egy.5.b:0 "와프드 당"
-egy.5.c:0 "와타니 당"
-egy.5.e:0 "이티하드 당"
+egy.5.a:0 "자유입헌당"
+egy.5.b:0 "와프드당"
+egy.5.c:0 "와타니당"
+egy.5.e:0 "이티하드당"
 
 egy.6.t:0 "[GetYear] General Election"
 egy.6.d:0 "Today is another election day for the prime minister of Egypt. Whom shall the people vote for one of the liberal parties or one of the conservative parties?"
