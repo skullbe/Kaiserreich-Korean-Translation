@@ -202,7 +202,7 @@ ITA_federation_national_populist:0 "이탈리아 연방"
 
 ### Republic Path ###
 ITA_social_liberal_victory:0 "공화국은 살아남았다"
-ITA_social_liberal_victory_desc:0 "ANI와 외국의 권모술수에도 불구하고 공화국은 살아남았습니다. ANI는 여전히 존재하지만, 우리는 공화국이 이제 최소한 국내의 적들로부터는 무사하고 안전하다는 것을 아는 데에 위안을 삼을 수 있습니다."
+ITA_social_liberal_victory_desc:0 "이탈리아 민족 연합과 외국의 권모술수에도 불구하고 공화국은 살아남았습니다. 이탈리아 민족 연합은 여전히 존재하지만, 우리는 공화국이 이제 최소한 국내의 적들로부터는 무사하고 안전하다는 것을 아는 데에 위안을 삼을 수 있습니다."
 ITA_protect_democracy:0 "민주주의를 수호하라"
 ITA_protect_democracy_desc:0 "At last, we may breathe a sigh of relief, the election is over, and with it, internal tension has at last begun to dissipate. Our Republic has endured."
 ITA_contain_extermism:0 "극단주의 저지"
@@ -227,7 +227,7 @@ ITA_stable_democracy:0 "안정된 민주주의"
 ITA_stable_democracy_desc:0 "The economic crisis is at an end and extremist political challenges have been defeated. Italian Democracy now functions like never before, and our nation has become noticeable more stable."
 
 ### ANI Path ###
-ITA_ani_elected:0 "ANI가 권력을 잡다"
+ITA_ani_elected:0 "이탈리아 민족 연합이 권력을 잡다"
 ITA_ani_elected_desc:0 "The Associazione Nazionalista Italiana have taken power within the Republic and have begun to transform Italy into a Legionary State as they promise to destroy all of Italy's enemies and restore Italy to greatness."
 ITA_purge_red_meance:0 "공산주의의 위협을 제거"
 ITA_purge_red_meance_desc:0 "Democracy is a sham, and its institutions are incapable of withstanding socialist infiltration. All civil servants must be comprehensively evaluated, and if any association with a socialist organisation of any kind can be found, they must be immediately removed from their post."
@@ -460,9 +460,9 @@ ITA_rule_the_skies_desc:0 "The airforce is no longer a rag-tag collection of vol
 
 ### Events ###
 
-ita.1.t:0 "1936년 이탈리아 공화국"
-ita.1.d:0 "With the French defeat and the fall of Rome in 1919, an exhausted Italy was left at the mercy of the Austrians, seemingly destined to be divided again into her old pre-unification states. Mere hours after the humiliating announcement of capitulation, enraged nationalists proclaimed a new Republic of Italy in Milan, and that all treaties signed by the House of Savoy were to be considered null and void. However, not so far away in Torino, a competing Socialist Republic was proclaimed just days later. Austria's plans for dividing Italy were quickly torn to pieces. \n\nAs civil war erupted and the fighting dragged on, the Austrians and their garrisons came to fight alongside the new nationalist Republic, finding a common enemy in the Socialists and their French supporters. Despite a miraculous victory at the Po, the erstwhile enemies found themselves forced to swallow the bitter pill of prolonged cooperation. Austria would recognise the Republic of Italy as the only legitimate government, while the nationalists had to accept working with the Austrians and the unwelcome influence this came with. \n\nDespite initial concerns, this alliance slowly improved the economic standing of the new Republic, which drew strength from Austria and the German Reichspakt, and as she recovered from the civil war many began to look to the future. Prime Minister Ivanoe Bonomi and his coalition, buoyed by economic success, still claim the rest of Italy as de-jure parts of the Italian Nation, and it is only a matter of time before another Italian War breaks out."
-ita.1.a:0 "Forward Italia!"
+ita.1.t:0 "1936년의 이탈리아 공화국"
+ita.1.d:0 "1919년 프랑스가 패배하고 로마가 함락되자 지친 이탈리아는 오스트리아인들의 수중에 들어갔고 통일 이전의 국가들로 다시 나뉘어질 것처럼 보였습니다. 치욕스러운 항복 선언으로부터 몇 시간 후 분노한 민족주의자들이 밀라노에서 새로운 이탈리아 공화국을 선언했고 사보이 왕가가 맺은 모든 조약은 무효로 취급되었습니다. 하지만 그리 멀지 않은 토리노에서 이에 경쟁하는 사회주의 공화국이 며칠 후 선언되었습니다. 이탈리아를 분할하려던 오스트리아의 계획은 휴지조각이 되고야 말았습니다.\n\n내전이 벌어지고 전투가 계속되자 오스트리아인들과 그들의 주둔군은 사회주의자들과 그들의 프랑스인 후원자들을 공통의 적으로 보고 새로운 민족주의 공화국의 옆에서 싸우게 되었습니다. 포 강에서 기적적인 승리를 거두었지만 이전까지 적들은 협력을 계속해야만한다는 현실을 감내할 수 밖에 없었습니다. 오스트리아는 이탈리아 공화국을 유일한 합법 정부로 인정해야만 했고 민족주의자들은 오스트리아인들과 일하는 것과 그것이 가져올 달갑지 않은 영향력을 받아들여야만 했습니다.\n\n초반의 우려에도 불구하고 오스트리아와 독일의 제국 협정으로부터 힘을 얻으면서 이 동맹은 천천히 새로운 공화국의 경제적 상황을 증진시켰고 내전으로부터 회복되었을 때는 많은 이들이 그 미래를 기대하게 되었습니다. 이바노에 보노미 총리와 그의 동지들은 경제적 성공에 고무되어서 이탈리아의 나머지를 이탈리아의 법률 상의 영토로 주장했고 또 다른 이탈리아 전쟁이 일어나는 것은 시간문제입니다."
+ita.1.a:0 ""이탈리아여 전진하라!(Forward Italia!)"
 
 ita.2.t:0 "검은 월요일이 공화국을 강타하다"
 ita.2.d:0 "The economic crisis that started in Germany has spiralled out of control and has spread to Italy. The Republic of Italy's prosperity has been shattered by Black Monday and the confidence in the government has been shaken."
