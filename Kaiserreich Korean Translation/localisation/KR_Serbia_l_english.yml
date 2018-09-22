@@ -345,15 +345,15 @@ serbia.18.d:0 "Our enemies in [From.GetName] have refused to cede Montenegro, wh
 serbia.18.a:0 "Attack!"
 serbia.18.b:0 "Unfortunately, we have to bide our time."
 
-serbia.19.t:0 "Building the First Ships For Our Navy"
+serbia.19.t:0 "첫 함선 건조"
 serbia.19.d:0 "If we focus our newly gained resources, we will be able to produce destroyers and cruisers, which will form the backbone of our navy."
-serbia.19.a:0 "We have waited long enough!"
-serbia.19.b:0 "This is too expensive, focus on research for now."
+serbia.19.a:0 "우리는 충분히 오래 기다렸어!"
+serbia.19.b:0 "너무 비용이 든다, 지금은 연구에 집중하자."
 
-serbia.20.t:0 "[From.GetName] Wants to Buy the HMS Lion"
+serbia.20.t:0 "[From.GetName]가 HMS 라이언을 구입하기를 원합니다"
 serbia.20.d:0 "[From.GetName], which is in a process of industrialisation and rearmament, has offered to buy the outdated battlecruiser HMS Lion which will become the flagship of their navy. This will surely lead to better relations with the [From.GetAdjective] government and can help them in taking on the navies of their neighbours."
-serbia.20.a:0 "We could profit from selling this old junk."
-serbia.20.b:0 "No, every ship is needed!"
+serbia.20.a:0 "고물을 팔아서 이익을 남길 수 있을 것이다."
+serbia.20.b:0 "아냐, 우리는 모든 함선이 필요해!"
 
 serbia.21.t:0 "[From.GetName] Agrees to Sell Us the HMS Lion"
 serbia.21.d:0 "The [From.GetAdjective] government has agreed to sell us the HMS Lion. They have transferred command over to us, but we need to navigate her to Serbia ourselves. With this addition our navy can reign over the Adriatic Sea."
@@ -397,7 +397,7 @@ serbia.29.d:0 "Our integration process of Albania has not been successful. The l
 serbia.29.a:0 "We do not yield!"
 serbia.29.b:0 "Grant Albania limited autonomy."
 
-serbia.30.t:0 "Revolution in Albania"
+serbia.30.t:0 "알바니아 혁명"
 serbia.30.d:0 "Our integration process of Albania has not been successful. Rebel groups have seized control of Tirana and the surrounding country side. Albania is in open revolt in their struggle for independence."
-serbia.30.a:0 "Attack!"
-serbia.30.b:0 "Let them go."
+serbia.30.a:0 "공격하라!"
+serbia.30.b:0 "그냥 납둬라."
