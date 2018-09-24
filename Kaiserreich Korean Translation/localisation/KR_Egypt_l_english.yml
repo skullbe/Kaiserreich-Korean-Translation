@@ -64,8 +64,8 @@ EGY_conservative_reform_victory:0 "Conservative Reforms have been Implemented"
 EGY_absolutist_reform_victory:0 "Absolutist Reforms have been implemented"
 EGY_status_quo_reforms:0 "Conservative-Liberal Reforms have been implemented"
 EGY_german_investments_flag:0 "독일의 이집트 투자"
-EGY_cairo_pact_founded:0 "카이로 조약이 설립되었다"
-cairo_pact:0 "카이로 조약"
+EGY_cairo_pact_founded:0 "카이로 조약 기구가 설립되었다"
+cairo_pact:0 "카이로 조약 기구"
 EGY_egyptian_ottoman_war:0 "오스만과의 전쟁이 시작되었다"
 EGY_cairo_conference_is_over:0 "카이로 회담이 종료되었다"
 EGY_capital_cairo:0 "수도가 카이로다"
@@ -126,7 +126,7 @@ EGY_merchant_marine_idea:0 "Egyptian Merchant Marine"
 
 #### Decisions ####
 
-EGY_cairo_pact_decisions:0 "카이로 조약 결단"
+EGY_cairo_pact_decisions:0 "카이로 조약 기구 결단"
 EGY_cairo_pact_decisions_desc:0 "The Cairo Pact is to help support the interests of Egypt. To that end we should send out envoys to foreign countries to support our interests."
 EGY_meet_with_the_greeks_decision:0 "그리스와 접촉"
 EGY_meet_with_the_greeks_decision_desc:0 "The Greeks are the enemies of the Ottoman Empire and seek to take down the Turk. Meeting with them might prove fruitful and lead to them supporting our own ambitions against the Ottoman Empire."
@@ -260,7 +260,7 @@ EGY_status_quo_monarchy_desc:0 "The conservaitves and islamists have had their w
 EGY_absolute_monarchy:0 "전제 군주정"
 EGY_absolute_monarchy_desc:0 "An enormous change has been brought to Egypt without a shot being fired. Though he is but a young man the Sultan understands his people's needs like a father understands his children, and he shall embody the new Egypt in his person."
 ### Focus Tree - Foreign Policy ###
-EGY_cairo_pact:0 "카이로 조약"
+EGY_cairo_pact:0 "카이로 조약 기구"
 EGY_cairo_pact_desc:0 "The plans for the Cairo Pact were laid at the Cairo conference, where we decided to form an alliance to counter the ambitions of the Ottomans, lead by Egypt of course. Now the time is ripe to put this plan into motion."
 EGY_meet_with_the_greeks:0 "Meet with the Greeks"
 EGY_meet_with_the_greeks_desc:0 "The Greeks are the enemies of the Ottoman Empire and seek to take down the Turk. Meeting with them might prove fruitful and lead to them supporting our own ambitions against the Ottoman Empire."
