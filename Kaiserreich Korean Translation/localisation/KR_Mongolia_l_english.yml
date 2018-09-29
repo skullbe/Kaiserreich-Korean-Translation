@@ -55,8 +55,8 @@ mon_unification_XSM:0 "몽골은 통일을 추진하고 있다"
 MON_send_evoys_TIB:0 "몽골은 우리에게 사절단을 보냈다"
 TIB_accept_alliance_MON:0 "티베트는 우리의 동맹을 받아들였다"
 TIB_refuse_alliance_MON:0 "티베트는 우리의 동맹을 거절했다"
-XSM_declares_war_on_Mongolia:0 "시베이는 우리에게 전쟁을 선포한다"
-SQI_neutral_vs_XSM_MON:0 "상청은 시베이를 공격하지 않았다"
+XSM_declares_war_on_Mongolia:0 "서북은 우리에게 전쟁을 선포한다"
+SQI_neutral_vs_XSM_MON:0 "상청은 서북을 공격하지 않았다"
 SQI_neutral_vs_XSM:0 "상청은 우리를 공격하지 않았다"
 XSM_accept_state_transfer:0 "간쑤 점령"
 MON_puppet_SIK:0 "우리의 괴뢰국"
@@ -86,9 +86,9 @@ MON_focus_load_oob_2:0 "§G운게른의 근위대를 강화하고, 수를 늘렸
 MON_xibei_cavalry_appears:0 "§G기병 사단이 몽골에 나타날 것입니다.\n§!"
 MON_empire_cavalry_appears:0 "§G두 개의 기병 사단이 몽골에 나타날 것입니다.\n§!"
 mon_xibei_tooltip:0 "상청을 공격하려면 당신은 반드시 §Y우루무치§! 그리고 §Y칭하이§!를 소유하거나 괴뢰국으로 소유하고 있어야 하며 몽골 칸국으로의 개혁이 필요합니다."
-mon_shanqing_tooltip:0 "원난을 공격하려면 당신은 반드시 §Y산시성§!을 소유하거나 괴뢰국으로 소유하고 있어야 합니다."
-mon_shanqing_tooltip_qing:0 "청나라를 공격하려면 당신은 반드시 §Y산시성§!을 소유하거나 괴뢰국으로 소유하고 있어야 합니다."
-mon_shanqing_tooltip_aog:0 "일반 동아시아 회사를 공격하려면 당신은 반드시 §Y산시성§!을 소유하거나 괴뢰국으로 소유하고 있어야 합니다."
+mon_shanqing_tooltip:0 "운남을 공격하려면 당신은 반드시 §Y산서성§!을 소유하거나 괴뢰국으로 소유하고 있어야 합니다."
+mon_shanqing_tooltip_qing:0 "청나라를 공격하려면 당신은 반드시 §Y산서성§!을 소유하거나 괴뢰국으로 소유하고 있어야 합니다."
+mon_shanqing_tooltip_aog:0 "일반 동아시아 회사를 공격하려면 당신은 반드시 §Y산서성§!을 소유하거나 괴뢰국으로 소유하고 있어야 합니다."
 MON_russia_conquest_tooltip:0 "모든 러시아 전역과 트란스아무르에 대한 주장을 한다\n"
 
 ### Focuses ###
@@ -152,28 +152,28 @@ MON_alliance_with_tibet_desc:0 "우리 사람들은 오래 전에 초원을 공�
 MON_no_need_tibetans_anymore:0 "우리는 더 이상 티베트인들이 필요 없다"
 MON_no_need_tibetans_anymore_desc:0 "티베트는 오래 전부터 쓸모 없는 곳으로 여겨져 왔고 지금이 바로 공격할 때입니다! 우리는 그들의 무릎을 꿇리고 그들 나라에 보상금을 지불하라고 요구할겁니다!"
 
-MON_mongol_minority_in_xibei:0 "시베이의 몽골 소수민족"
-MON_mongol_minority_in_xibei_desc:0 "시베이에는 작은 시골 마을과 떠돌이 부족들, 우리 민족의 다양한 주거지가 있습니다. 시베이 민족주의자들이 우리 민족에 대한 폭력을 부추기기 시작했고, 우리는 가만히 서서 중국인들이 다시 지배하는 것을 지켜보지 않을 것입니다!"
+MON_mongol_minority_in_xibei:0 "서북의 몽골 소수민족"
+MON_mongol_minority_in_xibei_desc:0 "서북에는 작은 시골 마을과 떠돌이 부족들, 우리 민족의 다양한 주거지가 있습니다. 서북 민족주의자들이 우리 민족에 대한 폭력을 부추기기 시작했고, 우리는 가만히 서서 중국인들이 다시 지배하는 것을 지켜보지 않을 것입니다!"
 
 MON_form_the_mongolian_empire:0 "몽골의 황제"
 MON_form_the_mongolian_empire_desc:0 "이제 몽골인들의 대부분이 다시 한번 하나의 깃발 아래 모였기 때문에, 현재 상태를 유지할 것인지 아니면 새로운 몽골 제국을 선포할 것인지의 결정이 필요합니다."
 
-MON_puppet_xibei:0 "시베이 괴뢰화"
-MON_puppet_xibei_desc:0 "우리의 제한된 자원으로 인해 시베이 땅을 직접 관리하는 것은 너무 고통스러울 것입니다. 우리는 새로운 국가를 지배하기 위해 괴뢰국을 설치해야 합니다."
+MON_puppet_xibei:0 "서북 괴뢰화"
+MON_puppet_xibei_desc:0 "우리의 제한된 자원으로 인해 서북 땅을 직접 관리하는 것은 너무 고통스러울 것입니다. 우리는 새로운 국가를 지배하기 위해 괴뢰국을 설치해야 합니다."
 
-MON_occupy_xibei:0 "시베이 점령"
-MON_occupy_xibei_desc:0 "괴뢰국과 의존국은 한심한 서구의 구조물입니다. 우리는 시베이를 명예로운 정복자로서 다스릴 것입니다."
+MON_occupy_xibei:0 "서북 점령"
+MON_occupy_xibei_desc:0 "괴뢰국과 의존국은 한심한 서구의 구조물입니다. 우리는 서북을 명예로운 정복자로서 다스릴 것입니다."
 
 MON_bring_down_the_shanquing:0 "상청을 무너뜨리기"
 MON_bring_down_the_shanquing_desc:0 "상청은 종교적 광신자들로 이루어진 약하고 낙후된 집단으로, 우리의 무자비한 전사들은 우리의 계속되는 확장에 어려움을 겪지 않을 것입니다."
 
-MON_bring_down_the_yunnan_warlords:0 "윈난 군벌을 무너뜨리기"
+MON_bring_down_the_yunnan_warlords:0 "운남 군벌을 무너뜨리기"
 MON_bring_down_the_yunnan_warlords_desc:0 "롱 원이 이끄는 원난 군벌는 오랫동안 이웃 사람들로부터 도둑질을 하고 도적질을 하는 중국의 도적이었습니다. 우리 기병대는 그들이 있어야 할 땅으로 그들을 짓밟을 것입니다."
 
-MON_puppet_yunnan:0 "원난 괴뢰화"
+MON_puppet_yunnan:0 "운남 괴뢰화"
 MON_puppet_yunnan_desc:0 "우리의 승리의 유목민들은 군벌을 흙으로 날려 버렸지만, 우리는 새로운 획득을 어떻게 다룰지 결정해야 합니다. 위대한 칸은 괴뢰 정권을 지지합니다."
 
-MON_occupy_yunnan:0 "원난 점령"
+MON_occupy_yunnan:0 "운남 점령"
 MON_occupy_yunnan_desc:0 "우리의 승리의 유목민들은 군벌을 흙으로 날려 버렸지만, 우리는 새로운 획득을 어떻게 다룰지 결정해야 합니다. 위대한 칸은 우리의 새로운 정복에 대한 직접 통치를 지지합니다."
 
 MON_put_an_end_to_qing_rule:0 "청나라의 통치를 종료 할 때"
@@ -221,10 +221,10 @@ MON_try_turkestan_alliance_desc:0 "우리가 전에 카자흐와 함께 실패�
 MON_invest_in_new_arms_factories:0 "우르가 무기 공장 설립"
 MON_invest_in_new_arms_factories_desc:0 "우리의 군사 시설은 지리적 상황에 적합하게 다소 빈약합니다. 만약 우리가 우리의 군대를 무장시키기를 원한다면 우리는 더 많은 무기를 생산해야 하고, 그것은 새로운 공장을 의미합니다."
 
-MON_improve_xibei_inf_I:0 "시베이 사회 기반 시설 개선"
+MON_improve_xibei_inf_I:0 "서북 사회 기반 시설 개선"
 MON_improve_xibei_inf_I_desc:0 "우리의 땅이 초원 지역일지도 모르지만, 우리가 새로 남쪽으로 차지한 지역 또한 불모의 바위와 사막이 되는 것에 대한 추가적인 불만을 가지고 있습니다. 우리는 새로운 정복을 지원하기 위해 지역 기반 시설을 개선해야 합니다."
 
-MON_improve_xibei_industry:0 "시베이 산업 기지 설립"
+MON_improve_xibei_industry:0 "서북 산업 기지 설립"
 MON_improve_xibei_industry_desc:0 "우리의 새로운 남부 영토는 우리의 산업적 노력을 지원하기 위해 만들어져야 합니다. 그 지역의 정책에 직접 개입함으로써 우리는 새로운 공장을 가동할 준비를 시킬 수 있습니다."
 
 MON_improve_infrastructure_in_the_east:0 "동쪽의 새로운 길"
