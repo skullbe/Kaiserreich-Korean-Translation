@@ -1,34 +1,34 @@
 l_english:
 
 ### Ideas ###
-SIA_black_monday:0 "Black Monday"
+SIA_black_monday:0 "검은 월요일"
 SIA_black_monday_desc:0 "Also known as the 1936 Berlin Stock Market Crash. Our industrial exports have suffered as our foremost trading partner, Germany, has fallen into recession."
-SIA_black_monday2:0 "Recovering from Black Monday"
+SIA_black_monday2:0 "검은 월요일로부터의 회복"
 SIA_black_monday2_desc:0 "Our industrial exports have suffered due to the German recession, but we are slowly starting to recover."
-SIA_black_monday3:0 "Economic Stabilisation"
+SIA_black_monday3:0 "경제 안정화"
 SIA_black_monday3_desc:0 "Black Monday's effect on the economy is now receding and our exports have begun to recover."
-SIA_military_expense_cut:0 "Military Budget Cut"
+SIA_military_expense_cut:0 "군 예산 삭감"
 SIA_military_expense_cut_desc:0 "Rama VII has, under pressure from the cabinet, agreed to cut the military budget from around 25% to 10% of our annual budget."
-SIA_military_expense_cut_rifle:0 "Military Budget Cut"
+SIA_military_expense_cut_rifle:0 "군 예산 삭감"
 SIA_military_expense_cut_rifle_desc:0 "Rama VII has, under pressure from the cabinet, agreed to cut the military budget from around 25% to 10% of our annual budget."
-SIA_bloated_bureaucracy:0 "Bloated Bureaucracy"
+SIA_bloated_bureaucracy:0 "지나치게 비대해진 관료체계"
 SIA_bloated_bureaucracy_desc:0 "Ever since modernisation began during Rama V's reign the bureaucracy has expanded at an alarming rate. As a result it is too large and slow to respond to quick changes."
-SIA_bloated_bureaucracy_plebs_purged:0 "Reorganised Bureaucracy"
+SIA_bloated_bureaucracy_plebs_purged:0 "재조직화된 관료체계"
 SIA_bloated_bureaucracy_plebs_purged_desc:0 "Our bloated and over-large bureaucracy has gone through a series of austerity measures aimed at reducing redundancy in low-level positions, bringing greater efficiency."
-SIA_bloated_bureaucracy_manager_purged:0 "Reorganised Bureaucracy"
+SIA_bloated_bureaucracy_manager_purged:0 "재조직화된 관료체계"
 SIA_bloated_bureaucracy_manager_purged_desc:0 "Our bloated and over-large bureaucracy has gone through a series of austerity measures aimed at removing unnecessary high-level management, bringing greater efficiency."
-SIA_conscription_bonus:0 "National Reserves Act"
+SIA_conscription_bonus:0 "국가 자원 법"
 SIA_conscription_bonus_desc:0 "All able-bodied Siamese men must complete two years of compulsory national military service and will remain subject to recall until the age of 55."
-SIA_RPC_good:0 "Bountiful Harvest Year"
-SIA_RPC_neutral:0 "Normal Harvest Year"
-SIA_RPC_bad:0 "Abysmal Harvest Year"
+SIA_RPC_good:0 "풍부한 수확 해"
+SIA_RPC_neutral:0 "일방적인 수확 해"
+SIA_RPC_bad:0 "최악의 수확 해"
 SIA_airport_authority_idea:0 "Airport Authority of Siam"
 SIA_airport_authority_idea_desc:0 "The AAS is responsible for coordinating international and domestic flights within Siamese airspace, in addition to maintaining civilian airports."
 SIA_air_production:0 "Expanded TAI Factories"
 SIA_air_production_desc:0 "Thai Air Industries is an entity seperate from the Royal Siamese Airforce Workshop, it is hoped that their newer and more innovative outlook will produce authentic Siamese aircraft."
 SIA_air_focus:0 "Protector of the Skies"
 SIA_navy_focus:0 "Two-Ocean Navy"
-SIA_salacheepphurchard_idea:0 "For the Motherland!"
+SIA_salacheepphurchard_idea:0 "조국을 위해!"
 SIA_salacheepphurchard_idea_desc:0 "We must ensure the protection of all land under our control. We, the Siamese people, were born and bred on this land and must defend it: for our families and future generations."
 SIA_suranaree_corps_idea:0 "Suranaree Corps"
 SIA_suranaree_corps_idea_desc:0 "The Suranaree Corps is an all-women corps, formed by the RSA in an attempt to replace manpower lost from recent heavy fighting."
@@ -50,23 +50,23 @@ SIA_reorganization_idea:0 "Weapon Standardisation Programme"
 SIA_reorganization_idea_desc:0 "By legally standardising all military firearms for the same ammunition our struggling armaments factories can churn out weapons at a much faster rate."
 SIA_new_construction_method_idea:0 "Prefabrication Method"
 SIA_new_construction_method_idea_desc:0 "Siamese cement researchers have mastered the prefabrication method, which has allowed us to greatly increase our building speed. This will, in turn, further the Siamese war effort."
-SIA_Tiger_Economy_idea:0 "Tiger Economy"
+SIA_Tiger_Economy_idea:0 "호랑이 경제"
 SIA_Tiger_Economy_idea_desc:0 "The fast-growing and emerging economy of Siam, which is oriented towards free trade and free market principles, is now well-known across the globe!"
-SIA_Communal_Farming_idea:0 "Communal Farming"
+SIA_Communal_Farming_idea:0 "공동 농업체계"
 SIA_Communal_Farming_idea_desc:0 "Instead of allowing the unemployed to remain idle we should send them back into the countryside, which will help reduce our reliance on foreign imports."
-SIA_Self_Sufficeincy_idea:0 "Self Sufficiency Economy"
+SIA_Self_Sufficeincy_idea:0 "자급 자족 경제"
 SIA_Self_Sufficeincy_idea_desc:0 "The Sufficiency Economy Philosophy is a philosophy based on the fundamental principles of Thai culture, which are: moderation, prudence, and social immunity. This philosophy uses both knowledge and virtue as guidelines for living."
 SIA_Export_Rice_idea:0 "Export-Orientated Rice Production"
 SIA_Export_Rice_idea_desc:0 "The best way to cope with the disastrous economic situation right now is to increase exports."
 SIA_World_Granary_idea:0 "Granary of the World"
 SIA_World_Granary_idea_desc:0 "Siam has always had a strong tradition of rice production. We have the fifth-largest amount of land globally diverted to rice cultivation efforts and are now aiming to become the world's largest largest exporter of rice."
-SIA_Reformed_Judiciary:0 "Reformed Judiciary"
+SIA_Reformed_Judiciary:0 "개혁된 사법부"
 SIA_Reformed_Judiciary_desc:0 "Our laws are now modernised to better reflect and work with our modern society. Gone are the days of barbaric and draconian Ayutthaya-era laws."
-SIA_Centralized_Police_idea:0 "Centralised Police Command"
+SIA_Centralized_Police_idea:0 "중앙화된 경찰지휘부"
 SIA_Centralized_Police_idea_desc:0 "With the Royal Siamese Police command now under the direct control of the Prime Minister more funding has been diverted towards the organisation to increase its effectiveness."
 SIA_SDSI_idea:0 "SDSI"
 SIA_SDSI_idea_desc:0 "SDSI stands for the \"Siam Department of Secret Intelligence\", an organisation that is in charge of protecting our domestic and international interests."
-SIA_IndNat_Income:0 "Siamese Compensation Money"
+SIA_IndNat_Income:0 "시암의 배상금"
 SIA_IndNat_Income_desc:0 "Premier Plaek Phibunsongkhram has offered monetary compensation for the seizure of our industrial assets in Siam."
 SIA_SocDem_1:0 "Social-Democratic Reforms"
 SIA_SocDem_2:0 "Social-Democratic Reforms"
@@ -77,13 +77,13 @@ SIA_SocCon_3:0 "Prachathipat Reforms"
 SIA_Liberal_1:0 "Kijsangkhom Reforms"
 SIA_Liberal_2:0 "Kijsangkhom Reforms"
 SIA_Liberal_3:0 "Kijsangkhom Reforms"
-SIA_MSN_idea:0 "The Modern Siamese Nation"
+SIA_MSN_idea:0 "현대 시암 국가"
 SIA_MSN_idea_desc:0 "The impact of the blood, sweat, and tears we have spent to revitalise Siam can be clearly seen throughout the nation."
-SIA_MSN_SocDem_idea:0 "The Modern Siamese Nation"
+SIA_MSN_SocDem_idea:0 "현대 시암 국가"
 SIA_MSN_SocDem_idea_desc:0 "The impact of the blood, sweat, and tears we have spent to revitalise Siam can be clearly seen throughout the nation."
-SIA_MSN_SocCon_idea:0 "The Modern Siamese Nation"
+SIA_MSN_SocCon_idea:0 "현대 시암 국가"
 SIA_MSN_SocCon_idea_desc:0 "The impact of the blood, sweat, and tears we have spent to revitalise Siam can be clearly seen throughout the nation."
-SIA_MSN_Liberal_idea:0 "The Modern Siamese Nation"
+SIA_MSN_Liberal_idea:0 "현대 시암 국가"
 SIA_MSN_Liberal_idea_desc:0 "The impact of the blood, sweat, and tears we have spent to revitalise Siam can be clearly seen throughout the nation."
 SIA_Syndie_1:0 "A Socialist Regime Established"
 SIA_Syndie_2:0 "Socialist Reforms"
@@ -288,7 +288,7 @@ siam.29.d_bur:0 "The Mingala Ledaw (also known as the Royal Ploughing Ceremony) 
 siam.29.a:0 "This sounds urgent!"
 
 ## Sucession Line (Paribatra & Mahidol) ##
-siam.13.t:0 "The Death of Rama VII" # Mahidol
+siam.13.t:0 "라마 7세의 승하" # Mahidol
 siam.13.d:0 "King Prajadhipok of the [SIA.GetName], also known as Rama VII—the 7th monarch of the House of Chakri—has died this morning due to a heart failure. The childless monarch will be succeeded by his nephew, Ananda Mahidol, who has taken the regnal name Rama VIII."
 siam.13.d.plaek:0 "King Prajadhipok of the [SIA.GetName], also known as Rama VII—the 7th monarch of the House of Chakri—has died this morning due to pneumonia during his time in exile. The childless monarch will be succeeded by his nephew Ananda Mahidol, who has taken on the regnal name Rama VIII as the pretender to the Siamese throne."
 siam.13.d.rep:0 "Prajadhipok Mahidol, formerly King Prajadhipok of the [SIA.GetName], also known as Rama VII—the 7th monarch of the House of Chakri—has died this morning due to pneumonia during his time in exile. The childless monarch will be succeeded by his nephew Ananda Mahidol, who has taken on the regnal name Rama VIII as the pretender to the Siamese throne."
@@ -299,50 +299,50 @@ siam.14.d:0 "The new king is still young and currently away from home, studying 
 siam.14.a:0 "The throne is vacant for us."
 siam.14.b:0 "We should stay true to the rightful king."
 
-siam.15.t:0 "The Death of Rama VIII" # Mahidol
+siam.15.t:0 "라마 8세의 승하" # Mahidol
 siam.15.d:0 "King Ananda Mahidol of the [SIA.GetName], also known as Rama VIII—the 8th monarch of the House of Chakri—was found in his bed, shot dead. Although at first thought to have been an accident his death was ruled a murder by medical examiners and three royal pages were later executed following irregular and rushed trials. The mysterious circumstances surrounding his death have been the subject of much controversy. The childless monarch will be succeeded by his brother Bhumibol Adulyadej, who has taken the regnal name Rama IX."
 siam.15.d.plaek:0 "Prince Ananda Mahidol of the [SIA.GetName], also known as Rama VIII—who would have been the 8th monarch of the House of Chakri—has died from severe blood loss resulting from a severed radial artery after he crashed his car. The childless prince will be succeeded by his brother Bhumibol Adulyadej, who has taken the regnal name Rama IX as the pretender to the throne of Siam."
 siam.15.d.rep:0 "Ananda Mahidol, formerly Prince of the [SIA.GetName], also known as Rama VIII—who would have been the 8th monarch of the House of Chakri—has died from severe blood loss resulting from a severed radial artery after he crashed his car. The childless prince will be succeeded by his brother Bhumibol Adulyadej, who has taken the regnal name Rama IX as the pretender to the Siamese throne."
 siam.15.a:0 "May he rest in peace."
 
-siam.33.t:0 "The Death of Rama IX" # Boripatr
+siam.33.t:0 "라마 9세의 승하" # Boripatr
 siam.33.d:0 "King Parbatra Sukhumbhand of the [SIA.GetName], also known as Rama IX—the 9th monarch of the House of Chakri—had suffered a heart attack last night while walking around his bedroom in the Grand Palace. A medical team had arrived far too late and had tried in vain to resurrect him. Since Rama IX had died with no male heirs, the position of monarch will be succeeded by his brother Chumbhotbongs Paribatra, who has taken on the regnal name Rama X."
 
-siam.34.t:0 "The Death of Rama X" # Boripatr
+siam.34.t:0 "라마 10세의 승하" # Boripatr
 siam.34.d:0 "King Chumbhotbongs Paribatra of the [SIA.GetName], also known as Rama X—the 10th monarch of the House of Chakri—died peacefully in the Suan Pakkard Palace due to old age. Since he'd died without leaving behind a male heir, the monarchy will be succeeded by his brother, Sukhumabhinanda, who has taken on the regnal name Rama XI."
 
 ## Introduction Events ##
-siamn.1.t:0 "The Kingdom of Siam in 1936"
+siamn.1.t:0 "1936년의 시암 왕국"
 siamn.1.d:0 "One of the countries that benefited from German victory during the Weltkrieg, Siam regained most of its former land which had previously been lost to the western imperialists. While Siam's relationship with the Huns is, in general, cordial; the fact that they thwarted her expansionist ambitions during the 1929 Intervention in Burma has strained diplomatic and military ties between the two. If Siam should reconcile with the Germans or align itself with others powers is a matter to be decided in the coming decade."
-siamn.1.a:0 "Interesting, tell me more!"
-siamn.1.b:0 "I've a good grasp of the general situation."
+siamn.1.a:0 "흥미롭다, 더 말해달라!"
+siamn.1.b:0 "나는 전반적인 상황을 잘 알고 있다."
 
-siamn.2.t:0 "The State of Politics"
+siamn.2.t:0 "정부와 정치상황"
 siamn.2.d:0 "Ever since the coronation of King Rama VII in 1925 most, if not all, of the policies set forth by Siam have been dictated by the Aphiratthamontri Sapha (Council of State). This is a council made up of the King's older siblings, who have continually worked to consolidate their power while the keeping the power of the king over the nation weak. Despite promising the [SIA.GetAdjective] intelligentsia that a codified constitution would be issued any reform has been tough to pass, as it would the interests of the nobility.\n\nSurrounded by enemies, such as the the Konbaung dynasty to the west, Yunnanese bandits to the north, and the German imperialists to the east, Siam is in a dire situation. It will either perish, forever confined to the pages of a history book, or shall reform itself and emerge a modern state, be it by negotiation or through the use of force."
-siamn.2.a:0 "I pity the poor king..."
+siamn.2.a:0 "이 불쌍한 왕에 동정한다..."
 
-siamn.3.t:0 "The Kingdom's Many Other Problems"
+siamn.3.t:0 "왕국의 여러가지의 많은 문제들"
 siamn.3.d:0 "While seemingly economically and industrially prosperous to outside eyes, Siam is actually very reliant on investments made by Germany and must cherish the economic ties it shares with the nation. Industry is a very fragile and small section of the economy, which is mainly built around rice, sugar, and timber exports. Nationalism among ethnic minorities has been rising, which raises the spectre of separatist movements in the near future. On top of all this: the bloated bureaucratic system, which has been present since the reign of Rama VI, has siphoned off much needed taxes and thus allowed for bandits to continually run wild in the fringes of Siam."
-siamn.3.a:0 "I'd rather pick the Philippines."
+siamn.3.a:0 "차라리 필리핀을 택할란다."
 
 ## Black Monday and Early political chaos # Max Reform 7 - Lowest 0: 0-2 = Khana Ratsadon coup, 3-4 = Civil War with Prajadhipok Bias (based on Boworadet Rebellion), 5-6 = success, 7 = Reactionary coup with Paribatra as HoS
-siamn.4.t:0 "Black Monday hits Siam!"
+siamn.4.t:0 "검은 월요일이 시암에 끼치다!"
 siamn.4.d:0 "Due to its heavy reliance on its economic ties with Germany Black Monday has quickly dragged Siam into an economic abyss as demand for her main agricultural exports has fallen sharply and shipments have been left to wither in their warehouses. Clerks working for foreign companies are continually being laid off, while the people have begun to gather around the Grand Palace looking for hope. It is apparent that we must do something about our economic situation lest it worsen and send us spiraling further down."
 siamn.4.a:0 "Khun Prah!"
 
-siamn.5.t:0 "Jasmine Rice Problems"
+siamn.5.t:0 "재스민 쌀 문제"
 siamn.5.d:0 "One of the largest exporters of rice within Siam, the farmers across the Chao Phraya, have asked for government intervention to deal with the excessive supply of rice due to a general fall in demand and fewer export opportunities after Black Monday."
-siamn.5.a:0 "Purchase most of the rice to help stabilise the price." #-200, +2 reform
-siamn.5.b:0 "Agree to buy up some excess rice." #-100, +1 reform
-siamn.5.c:0 "The free market shall resolve the issue!" #0, 0 reform
+siamn.5.a:0 "가격 안정화를 위해 대부분의 쌀을 구매한다." #-200, +2 reform
+siamn.5.b:0 "쌀을 구입하기로 합의한다." #-100, +1 reform
+siamn.5.c:0 "자유시장이 이 문제를 해결할 것이다!" #0, 0 reform
 
-siamn.6.t:0 "Bloated Bureaucracy"
+siamn.6.t:0 "비대한 관료체계"
 siamn.6.d:0 "The modern bureaucratic system was formed during the reign of Rama V and had been greatly expanded by Rama VI. However, it has proved to be too large to effectively serve the state. Firing more people, however, would mean an increase in the unemployment rate at exactly the time when we want it to drop."
-siamn.6.a:0 "Lay off a few of our clerks." # 0 reform
-siamn.6.b:0 "Lay off managers and ministers." #-100, +1 reform
-siamn.6.c:0 "Allow the status-quo for now." #-200, +2 reform
+siamn.6.a:0 "몇몇의 일부 관료들을 해고하게 한다." # 0 reform
+siamn.6.b:0 "관리자와 장관을 해고하게 한다." #-100, +1 reform
+siamn.6.c:0 "당장은 현상 유지케한다." #-200, +2 reform
 
-siamn.7.t:0 "Military Expenditure"
+siamn.7.t:0 "군비 지출"
 siamn.7.d:0 "Siam currently spends up to 25% of her annual revenue on the preservation and maintenance of the military-industrial complex, as she is surrounded by both historical enemies and imperialistic westerners who desire her land. However perhaps slightly cutting our military expenditures wouldn't hurt us too much?"
 siamn.7.a:0 "Cut any and all research funding." #-10 for 3 years, 0 reform
 siamn.7.b:0 "Cut everything bar the development of new rifles." #-10 for 3 years, +1 reform
@@ -355,11 +355,11 @@ siamn.8.b:0 "Double the inheritance tax!" #+10, +1 reform
 siamn.8.c:0 "Lift the ban on gambling." #+30, -5 NP, +1 reform
 
 ## New Governmnet Established for Siam ##
-siamn.10.t:0 "The Khana Ratsadon's Provisional Cabinet"
+siamn.10.t:0 "카나 랏싸던(인민당)의 임시정부"
 siamn.10.d:0 "Following the bloodless revolution we must rebuild the nation from the ground up. Luang Praditmanutham, head of the civilian faction of the provisional government and a prominent leftist, is now working on the creation of a formal constitution while others are beginning to educate the masses about the merits and workings of parliamentary democracy. Alongside all of this Phraya Phahonponpayuhasena has readied his troops. in case of an opportunistic invasion by foreign powers."
 siamn.10.a:0 "This is a great leap forward for Siam!"
 
-siamn.11.t:0 "The Khanagummakarn Ratsadon's Provisional Cabinet"
+siamn.11.t:0 "인민위원회의 임시정부"
 siamn.11.d:0 "Following the ratification of the constitution the People's Committee, a group chosen by Prajadhipok himself, has begun the education of the masses in the ways of proper parliamentary democracy.\n\nHeaded by the [SIA.GetAdjective] Court, the Committee is also responsible for educational, health, and industrialisation reforms. The path ahead for Siam will hardly be a stroll in the park but a bright future does await our great nation."
 siamn.11.a:0 "This a great leap forward for the Siamese people!"
 
