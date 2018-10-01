@@ -283,8 +283,8 @@ BOL_Demand_Acre_desc:0 "아크레는 얼마 전에 브라질인들에게 상실�
 ### Parties ###
 BOL_social_democrat_party:0 "혁명적 민족주의 운동"
 BOL_social_democrat_party_long:0 "혁명적 민족주의 운동"
-BOL_social_conservative_party:0 "공화당 연합당"
-BOL_social_conservative_party_long:0 "공화당 연합당"
+BOL_social_conservative_party:0 "공화연합당"
+BOL_social_conservative_party_long:0 "공화연합당"
 BOL_authoritarian_democrat_party:0 "일치국민당"
 BOL_authoritarian_democrat_party_long:0 "일치국민당"
 BOL_paternal_autocrat_party:0 "민족 구원 위원회"
