@@ -1,10 +1,10 @@
 l_english:
 
 ### Parties ###
-DEH_totalist_party:0 "맥시미스트"
+DEH_totalist_party:0 "최대주의자"
 DEH_radical_socialist_party:0 "사회주의자"
 DEH_syndicalist_party:0 "생디칼리스트"
-DEH_social_democrat_party:0 "IHRP"
+DEH_social_democrat_party:0 "전 인도 자주당"
 DEH_social_liberal_party:0 "스와라지"
 DEH_market_liberal_party:0 "자유주의자"
 DEH_social_conservative_party:0 "통일주의자"
@@ -14,8 +14,8 @@ DEH_national_populist_party:0 "황실 지지자"
 DEH_totalist_party_long:0 "인도 최대주의당"
 DEH_radical_socialist_party_long:0 "인도 사회주의당"
 DEH_syndicalist_party_long:0 "생디칼리스트당"
-DEH_social_democrat_party_long:0 "전인도 자주당"
-DEH_social_liberal_party_long:0 "당"
+DEH_social_democrat_party_long:0 "전 인도 자주당"
+DEH_social_liberal_party_long:0 "스와라지당"
 DEH_market_liberal_party_long:0 "인도 자유당"
 DEH_social_conservative_party_long:0 "통일당"
 DEH_authoritarian_democrat_party_long:0 "토후회의"
