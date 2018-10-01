@@ -23,9 +23,9 @@ ETH_totalist_party:0 "YITMK"
 ETH_totalist_party_long:0 "Ye Ityopia T'ek'ilayi Mīnīsitiri Konifīsheri"
 
 ###flags###
-ETH_People_cons:0 "A Popular Constitution was approved"
-ETH_Sellasie_cons:0 "An Imperial Constitution was approved"
-ETH_Noble_cons:0 "A Noble Constitution was approved"
+ETH_People_cons:0 "민중의 헌법이 승인되었습니다"
+ETH_Sellasie_cons:0 "황제의 헌법이 승인되었습니다"
+ETH_Noble_cons:0 "귀족의 헌법이 승인되었습니다"
 
 ### Ideas ###
 ETH_Debt_idea_1:0 "과도한 부채"
