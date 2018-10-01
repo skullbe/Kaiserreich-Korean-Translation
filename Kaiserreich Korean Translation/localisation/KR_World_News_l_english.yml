@@ -427,11 +427,11 @@ worldnews.97.d:0 "1925년 대공황 이후 미국 전역에 만연한 대규모 
 worldnews.97.a:0 "우리는 지켜보야한다."
 
 
-worldnews.98.t:0 "찰스 커티스가 미국 대통령으로 선출되었습니다."
+worldnews.98.t:0 "찰스 커티스가 미국 대통령으로 선출되다."
 worldnews.98.d:0 "1925년 대공황 이후 미국 전역에 만연한 대규모 불안정에도 불구하고 대통령 선거가 진행되었고 투표 결과가 발표되었습니다. 공화당 후보인 찰스 커티스가 미국의 32대 대통령으로 당선되었습니다. \n\n커티스는 고령에도 불구하고 힘든 시기를 겪고 있는 미국의 대통령이 되기 위해 힘을 쏟았습니다. 그의 계획은 아메리카 노동 연맹 및 미국 제일당과의 협상 및 조정에 초점을 맞추고 있습니다. 그는 이미 그들과 가진 대화를 가졌지만, 즉각적으로 반대하는 2개의 무장 세력을 동시에 만족시킬 수 있는지는 미지수입니다."
 worldnews.98.a:0 "우리는 지켜보야한다."
 
-worldnews.99.t:0 "기독교 사회주의 연맹이 선거에서 승리하였습니다."
+worldnews.99.t:0 "기독교 사회주의 연맹이 선거에서 승리하다."
 worldnews.99.d:0 "\n이탈리아 사회주의 공화국의 5차 평의회는 [SRI.GetLeader]가 이끄는 기독교 사회주의 연맹이 정부의 과반수 의석 수를 달성하며 끝났습니다. 그들의 승리는 공화국 내의 마르크스주의를 명백히 기독교 사회주의로 바꿀 것 입니다."
 worldnews.99.a:0 "기독교 사회주의? 우리는 보게 될 것이다"
 
@@ -806,11 +806,11 @@ worldnews.185.t:0 "연합왕국의 재건"
 worldnews.185.d:0 "확실히 극적인 사건의 전환으로, 브리튼 연방의 공화정 정권은 몰락했고 윈저 가문의 왕정 정부는 마침내 런던으로 돌아왔습니다. 에드워드 8세는 웨스트민스터 성당에서 영국 혁명 기간 동안 아버지의 유배를 속죄하려는 그의 삶의 꿈을 충족시키기 위해 공식적으로 대관식을 치렀고, 이미 국가로부터 생디칼리즘적인 유대관계를 없애려는 노력이 진행 중입니다.\n영국 섬은 단기간 동안만 해도 알아볼 수 없을 정도로 변했고, 좌파의 영향의 뿌리가 국가의 기관과 국민의 정신에 깊이 뿌리박고 있습니다. 전 세계의 많은 사람들은 새롭게 복원된 영국이 세계 무대에서 어떤 조치를 취할 것인지를 보기 위해 숨을 죽이고 기다립니다."
 worldnews.185.a:0 "새로운 질서인가 또는 옛것의 귀환인가?"
 
-worldnews.186.t:0 "Belorussia Falls to Syndicalism"
+worldnews.186.t:0 "벨라루스가 생디칼리즘에 빠지다."
 worldnews.186.d:0 "In a blow to German hegemony in Eastern Europe, Belorussia, a lynchpin of the Reichspakt buffer states against Russia, has fallen to leftism. In the aftermath of Black Monday and years of failed rulership, King Vladimir liberalised the nation's politics and allowed free elections intending for the action to help dissipitate the peasantry's anger. In the end though, the King himself was outmaenouvered and the newly elected left-wing government is considering abolishing the monarchy entirely.\nBelorussia, now publicly brandishing its syndicalist credentials, has demanded its immediate independence from the Reichspakt and Mitteleuropa. Already there have been threatening calls for the German military mission stationed in the country to be thrown out, but the German Empire's next moves are as yet unknown."
 worldnews.186.a:0 "The response will be swift..."
 
-worldnews.187.t:0 "Sigismund's Coup in Belorussia"
+worldnews.187.t:0 "벨라루스에서의 지기문트의 쿠데타"
 worldnews.187.d:0 "Open street battles were reported in the streets of Minsk today, as Belorussian security forces under the control of Prince Sigismund or 'Žyhimont' launched a daring coup against the reigning monarch Vladimir 'Uladizimir'. For years the Hohenzollern monarchy in the kingdom born from the ruins of the People's Republic has been wracked with internal strife, and despite Uladizimir's belated efforts to undermine Sigismund's power base within the intelligence services, his brother has now put an end to the haemophiliac's tenuous rule. The nation is now under the rule of a man well known for paying little heed to his German ancestry, and who is willing to work with Russian and Belorussian nationalists over his own kin."
 worldnews.187.a:0 "Brother against brother. Is this really the way?"
 
@@ -874,7 +874,7 @@ worldnews.198.d.crushed:0 "최근 수십년 동안 일본 제국의 부상은 �
 worldnews.198.d:0 "최근 수십년 동안 일본 제국의 부상은 동아시아의 세력 판도를 크게 뒤엎었고, 1910년 떠오르는 태양의 땅이 한국을 병합한 이후 한반도는 오랫동안 일본 본토의 지배를 받게 되었습니다. 그러나 일본의 통제는 그 한계를 벗어나지 못했고, 한국, 만주, 대만에서의 식민지화 노력은 오히려 점령군에 대한 큰 분노를 불러 일으켜 결국 이 사태가 벌어졌습니다. 한반도에서 봉기가 일어난 것입니다.\n\n 반군이 해외로부터 무기를 공급받는 것을 막기 위해 일본 정부가 행한 트란스아무르의 소수 민족 탄압에도 불구하고, 현재 한국에서는 대규모의 봉기가 일어났습니다. 반군들은 한반도 전역의 전략적 위치를 장악했습니다. 하지만 제국의 대응이 신속할 것이라는 데는 의심의 여지가 없으며, 이에 따라 현지인들의 승리를 주장하는 사람은 거의 없습니다."
 worldnews.198.a:0 "푸른 언덕에 피가 흐를 것이다."
 
-worldnews.199.t:0 "The Congress of Arlon"
+worldnews.199.t:0 "아를롱 회담"
 worldnews.199.d:0 "With the recent independence of Belgium from their former German masters, the inevitable question that arose from this was simple - what next? The two nations sent representatives to the tiny Ardennes city of Arlon in southern Wallonia, near the border with German Luxembourg, and there the future path of Belgium in Europe was decided.\n\n Belgium and the Reich have agreed that in exchange for the Kaiser recognising the formal independence of Brussels and the return of German Wallonia, Belgium would rejoin the Reichspakt allowing the Germans to protect them against the aggression of the Commune of France. It appears that the Belgians are willing to compromise their newly-won independence in order to safeguard their future."
 worldnews.199.d.failed:0 "With the recent independence of Belgium from their former German masters, the inevitable question that arose from this was simple - what next? The two nations sent representatives to the tiny Ardennes city of Arlon in southern Wallonia, near the border with German Luxembourg, and there the future path of Belgium in Europe was decided.\n\n Though the Germans proposed formally recognising Belgian independence and offered to return German-Wallonia in exchange for Brussels returning to the Reichspakt, Belgium was not convinced. Whether or not the negotiators' demand that the Reich also hand over Luxembourg was intended as a slight, negotiations at Arlon quickly broke down and the Germans withdrew. For now at least, Belgium is on its own."
 worldnews.199.a:0 "Belgium returns to the world stage."
