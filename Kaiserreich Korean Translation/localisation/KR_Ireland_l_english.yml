@@ -177,10 +177,10 @@ IRE_befriend_FRA:0 "아일랜드와의 온화한 관계"
 IRE_befriend_trade:0 "아일랜드 무역 파트너"
 
 ### Ideas ###
-IRISH_PROFITS:0 "Irish Profits"
-IRISH_PROFITS_desc:0 "Our businesses are thriving in Dublin and we are reaping the benefits."
-IRE_DUBLIN_SUCCESS:0 "Dublin Reborn"
-IRE_DUBLIN_SUCCESS_desc:0 "Dublin has become one of the major financial centres of the world, allowing us to shift our economic weight and make more advantageous trade deals."
+IRISH_PROFITS:0 "아일랜드에서의 이익"
+IRISH_PROFITS_desc:0 "우리의 사업은 더블린에서 번창하고 있으며 그 이익을 거두고 있습니다."
+IRE_DUBLIN_SUCCESS:0 "더블린의 재탄생"
+IRE_DUBLIN_SUCCESS_desc:0 "더블린은 세계적인 주요 금융 중심지가 되었으며, 경제적 부를 옮기고 무역 거래에서 더 큰 이익을 볼 수 있게 되었습니다."
 
 ### Individual Events ###
 ire.71.t:0 "Irish Flirting with German Businesses"
