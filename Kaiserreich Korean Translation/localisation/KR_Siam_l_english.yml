@@ -365,7 +365,7 @@ siamn.11.a:0 "이것은 시암 민중들에겐 커다란 도약이다!"
 
 ## Khana Ratsadon 1936 Election and subsequent Civil War ##
 
-siamn.12.t:0 "The "Yellow Cover Dossier" Affair"
+siamn.12.t:0 " "국민 경제 계획 초안본"의 문제"
 siamn.12.d:0 "Today Luang Praditmanutham, Minister of State and a member of the People's Party, presented the draft of his "National Economic Development Plan" proposal to the National Assembly.\n\nKnown as the "Yellow Cover Dossier" the plan details the formation of a wellfare state, redistribution of land, state intervention in the private sector, and a system of subsidies for farmers.\n\nSome have compared the proposal to that of a syndicalism while others have agreed that the reforms will greatly improve the lives of the [SIA.GetAdjective] people.\n\nAll that remains is to see what his majesty has to say..."
 siamn.12.a:0 "국왕 전하께선 프리디 파놈용의 제안에 동의하셨다."
 siamn.12.b:0 "국왕 전하께서는 수수한 제안을 지지하신다.."
@@ -494,7 +494,7 @@ siamn.35.d:0 "The [SIA.GetAdjective] dogs have completely overpowered us and we 
 siamn.35.a:0 "We have no other choice..."
 siamn.35.b:0 "They must be joking, Kaba Ma Kyei!"
 
-siamn.36.t:0 "The Burmese Government Refuses!"
+siamn.36.t:0 "버마 정부가 거절하였다!"
 siamn.36.d:0 "The foolish Burmese have refused our generous offer."
 siamn.36.a:0 "The war must continue, it seems..."
 
@@ -548,7 +548,7 @@ siamn.45.e:0 "Can it be called a reform if nothing has been done?"
 
 # siamn.46 is hidden
 
-siamn.47.t:0 "Phibunsongkhram Assassinated!"
+siamn.47.t:0 "피분 송크람 암살사태!"
 siamn.47.d:0 "Premier Phibulsongkram has just been assassinated by a Thai-Chinese gunmen at [GetDateText] during his arrival at the Ananda Samakhom Throne Hall. While riding in his motorcade, he was shot in the heart and had died instantly. What followed was a political vacuum in which both Phao Sriyanond, the Chief of the Secret Police, and Sarit Thanarat, Phibunsongkhram's military strongman, sought to take power and fulfil their own ambitions.\n\nPhao views the monarchy as an archaic symbol and wishes to formally declare a republic, while Sarit views co-operation with the former Chakri Dynasty as the best thing for the nation."
 siamn.47.a:0 "Phao Sriyanond has emerged victorious!"
 siamn.47.b:0 "Sarit Thanarat has emerged victorious!"
@@ -559,7 +559,7 @@ siamn.48.a:0 "He isn't called the Iron Field Marshal for nothing!"
 
 # siamn.49 is hidden
 
-siamn.50.t:0 "Phibunsongkhram Assassinated!"
+siamn.50.t:0 "피분 송크람 암살사태!"
 siamn.50.d:0 "Premier Phibulsongkram was shot in the head while dressing for work- by one of his own servants, no less! He was pronounced dead at the scene. What followed was a political vacuum in which both Phao Sriyanond, the Chief of the Secret Police, and Sarit Thanarat, Phibunsongkhram's military strongman, sought to take power and fulfil their own ambitions.\n\nPhao views the monarchy as an archaic symbol and wishes to formally declare a republic, while Sarit views co-operation with the former Chakri Dynasty as the best thing for the nation."
 siamn.50.a:0 "Phao Sriyanond has emerged victorious!"
 siamn.50.b:0 "Sarit Thanarat has emerged victorious!"
@@ -638,7 +638,7 @@ SIA_royalprojectfoundation:0 "왕실 프로젝트 재단"
 SIA_royalprojectfoundation_desc:0 "A commission, which shall be called the Royal Project Foundation, must be created in order to monitor and receive feedback concerning the issues facing the common people."
 SIA_adevotedmonarchy:0 "A Devoted Monarchy"
 SIA_adevotedmonarchy_desc:0 "By working closely with our subjects towards further agrarian and development we've managed to gain the support of those living in rural areas. This will serve as a deterrent against the red phantom haunting our government."
-SIA_yellowcoverdossier:0 "Yellow Cover Dossier"
+SIA_yellowcoverdossier:0 "국민 경제 계획 초안본"
 SIA_yellowcoverdossier_desc:0 "Luang Praditmanutham (Pridi Panomyong) has drawn up somewhat socialist proposals aiming to resolve the inequality problem within Siamese society, he has so far enjoyed popular support from the peasants. The nobility are vehementaly objecting to this plan. Perhaps a deal with the devil can guarantee the safety of our nation from the syndicalist menace?"
 SIA_nationwidelandreform:0 "Nationwide Land Reform"
 SIA_nationwidelandreform_desc:0 "Much land owned by the nobility lies fallow across the country, serving no purpose. We may be able to rapidly increase productivity by redistributing these lands to unlanded peasantry. This will, however, provoke the land's owners."
@@ -752,15 +752,15 @@ SIA_tigereconomy:0 "Tiger Club Economy"
 SIA_tigereconomy_desc:0 "Through our policy of economic revitalisation via investment into key industries, alongside new research methods, we have managed to massively increase the wealth of our people and the nation."
 
 ### Agricultural Path ###
-SIA_agriculuralmechanisation:0 "Agricultural Mechanisation"
+SIA_agriculuralmechanisation:0 "농업 기계화"
 SIA_agriculuralmechanisation_desc:0 "Rice paddy uses over half of the arable land in [SIA.GetName], yet it consists mainly of peasants farming small areas and producing modest amounts of rice. By providing cheap, low-interest loans for the purchase of tractors and modern equipment we can free some of these farmers from the ricefields and send them to the factories instead, without compromising crop yields."
-SIA_agrarianscoop:0 "Agricultural Co-operatives"
+SIA_agrarianscoop:0 "농업 협업체"
 SIA_agrarianscoop_desc:0 "While the first [SIA.GetAdjective] co-op was created back in 1916, co-ops themselves aren't a common sight among rural communities yet. By persuading rice farmers to pool their savings together and organize into co-ops they will have enough money to buy the badly needed farming equipment in these hard times, and obtain greater bargaining power against the rice merchants."
-SIA_communalapproach:0 "A Communal Approach"
+SIA_communalapproach:0 "공동체에 다가가다."
 SIA_communalapproach_desc:0 "Rice is central to [SIA.GetAdjective] society. As a nation we have long relatively self-sufficient, resistant to government intervention and egalitarian. Most rice farmers owned their own land and exchanged labour with other farmers to cover their needs. By focussing on and enhancing these aspects of [SIA.GetAdjective] society and encouraging further cooperation within the community we can build a better country, while safeguarding it from aristocrats and landlords."
 SIA_newfarmingtheory:0 "Model Farm Initiative"
 SIA_newfarmingtheory_desc:0 "By creating 'Model Farms' throughout the country, where rice farmers can study new farming techniques and crop diversification, farmers can improve how they utilize their lands and thus greatly increase output."
-SIA_selfsufficiencyeconomics:0 "Economic Self-Sufficiency"
+SIA_selfsufficiencyeconomics:0 "경제적 자급자족"
 SIA_selfsufficiencyeconomics_desc:0 "Our plans to boost rice cultivation have worked incredibly well so far, and a dizzying amount agricultural surplus is available. We can now fully focus on our industrialisation plan."
 SIA_exportrice:0 "Export-Oriented Rice Production"
 SIA_exportrice_desc:0 "Rice is central to [SIA.GetAdjective] society. Rice production normally does not ammount to much more than the farmer needs to survive, leaving very little to profit from. If necessary we can colaborate with large rice merchants and mills to supply a market pressure for more production, or we can simply obligate the farmers to produce more by increasing their rice tax."
