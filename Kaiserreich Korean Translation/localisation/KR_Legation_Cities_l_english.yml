@@ -306,7 +306,7 @@ legcities.22.d:0 "1926년 독일의 중국 간섭과 같은 해 11월에 채결�
 legcities.22.a:0 "돈이 흐르도록 두어라..."
 
 legcities.23.t:0 "공사관 도시의 소득이 없음"
-legcities.23.d:0 "1926년 독일의 중국 간섭과 같은 해 11월에 채결된 난징 조약에 따라, 해외 무역은 중국에 이해 관계가 있는 세계 강대국들의 공동 통제 하에 있는 가장 부유한 해안 도시들에 맡겨줬습니다. 오스트랄라시아, 오스트리아, 캐나다, 독일, 일본, 프랑스 공화국, 러시아, 미국은 이러한 도시들의 연합의 독립성을 보장했습니다. 해외 투자와 공사관 도시 그 자체가 해외 무역을 통해서만이 아니라 총 동아시아 회사와 청제국으로의 밀수 때문에 번성했습니다. 그러나 우리ㄴ는 공식적으로 공사관 도시 협의회에 속해 있는 동안 주어진 배당금에 접근할 수 없었습니다."
+legcities.23.d:0 "1926년 독일의 중국 간섭과 같은 해 11월에 채결된 난징 조약에 따라, 해외 무역은 중국에 이해 관계가 있는 세계 강대국들의 공동 통제 하에 있는 가장 부유한 해안 도시들에 맡겨줬습니다. 오스트랄라시아, 오스트리아, 캐나다, 독일, 일본, 프랑스 공화국, 러시아, 미국은 이러한 도시들의 연합의 독립성을 보장했습니다. 해외 투자와 공사관 도시 그 자체가 해외 무역을 통해서만이 아니라 총 동아시아 회사와 청제국으로의 밀수 때문에 번성했습니다. 그러나 우리는 공식적으로 공사관 도시 협의회에 속해 있는 동안 주어진 배당금에 접근할 수 없었습니다."
 legcities.23.a:0 "정말 부끄럽군..."
 
 legcities.28.t:0 "Seize foreign investments?"
@@ -409,15 +409,15 @@ legcities.58.a:0 "We hope he comes again!"
 
 #Triads cease dividend payments
 
-legcities.59.t:0 "Reaction of the Legation Powers"
-legcities.59.d:0 "With the Legation Mandate Council eliminated as an effective power player in the Cities, the payment of dividends to the Legation Powers has ceased, as well. There is a distinct possibility that some of them may take a dim view of this loss and take forceful action."
-legcities.59.a:0 "Surely they know better."
+legcities.59.t:0 "여덟 열강들의 반응"
+legcities.59.d:0 "공사관 도시 협의회가 우리가 도시에서 가지는 권력을 제거하면서, 여덟 열강들에 대한 배당금 지불도 중단되었습니다. 그들 중 일부는 이 손실을 좋지 않고 보고 강력한 조치를 취할 가능성이 있습니다."
+legcities.59.a:0 "확실히 그들이 더 잘 알 것이다."
 
-legcities.60.t:0 "Blood on the Streets of Shanghai"
-legcities.60.d:0 "The authority of the Legation Mandate Council has collapsed in a single night of blood and violence. Street gangs organised by the Chinese criminal organisations have slaughtered many members of the police corps, administrators and even a handful of the more influential delegates from the Legation Powers. The survivors hardly dare to leave their homes. Needless to say, with the Triads in all but complete control of all commercial activities, the payment of dividends from the Cities has ceased."
-legcities.60.no_proff:0 "The authority of the Legation Mandate Council has collapsed in a single night of blood and violence. Street gangs organised by the Chinese criminal organisations have slaughtered many members of the police corps, administrators and even a handful of the more influential delegates from the Legation Powers. Fortunately, since the dividends we are entitled to have not been payed anyway, this has little effect on us."
-legcities.60.a:0 "That's too bad."
-legcities.60.b:0 "This cannot be allowed to stand!"
+legcities.60.t:0 "상하이 거리의 피"
+legcities.60.d:0 "공사관 도시 협의회의 권한은 하룻밤 사이에 피와 폭력으로 무너졌습니다. 중국 범죄 조직이 조직한 길거리 폭력배들이 많은 경찰과 행정관, 심지어 여덟 열강에서 온 영향력있는 대표 중 몇몇을 살해했습니다. 생존자들은 감히 그들의 집을 떠나지 못하고 있습니다. 말할 필요도 없이, 삼합회가 모든 상업 활동을 통제하면서 여덟 열강들에 대한 배당금 지불도 중단되었습니다."
+legcities.60.no_proff:0 "공사관 도시 협의회의 권한은 하룻밤 사이에 피와 폭력으로 무너졌습니다. 중국 범죄 조직이 조직한 길거리 폭력배들이 많은 경찰과 행정관, 심지어 여덟 열강에서 온 영향력있는 대표 중 몇몇을 살해했습니다. 다행히도, 우리가 받을 자격이 있는 배당금은 어쨌든 지불되지 않았기 때문에, 이것은 우리에게 거의 영향을 미치지 않습니다."
+legcities.60.a:0 "유감이군."
+legcities.60.b:0 "이는 허락할 수 없다!"
 
 legcities.61.t:0 "[From.GetNameDefCap] prepares for intervention"
 legcities.61.d:0 "The [From.GetAdjective] government has sent a strongly worded note to the Legation Council, demanding an immediate resumption of the dividends. Should the Council be unwilling or unable to do so, [From.GetNameDef] is fully prepared to used force of arms to ensure compliance. With the Council members either dead or effectively confined to their residences, it seems intervention is inevitable."
