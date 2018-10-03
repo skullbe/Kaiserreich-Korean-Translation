@@ -1,7 +1,7 @@
 l_english:
 
 ### Focuses ###
-CAL_civil_war:0 "제 2차 내전"
+CAL_civil_war:0 "제2차 내전"
 CAL_civil_war_desc:0 "Chaos rages in the eastern part of the United States as the country has exploded into Civil War. However, we out here in the east remain prosperous and wealthy. If we wish to remain so, we need to keep it to ourselves. We shall not follow the dictates of the east when they interfere with our prosperity."
 
 ### Focuses - Political ###
@@ -135,7 +135,7 @@ CAL_australasia_freindship:0 "협상국 번영"
 CAL_australasia_freindship_desc:0 "As we work with our new allies we should work to improve the prosperity of both nations and improve the trade between our countries. This will help ensure that the other nations of the Entente prosper as well ourselves."
 CAL_join_isac:0 "ISAC 가입"
 CAL_join_isac_desc:0 "Now that our campaign to win the rest of the Entente over has succeeded we can work on joining ISAC, the Imperial Scientific and Academic Council. With our research now fully part of the Entente, our safety is ensured."
-CAL_join_mittle_europa:0 "제국협정 가입"
+CAL_join_mittle_europa:0 "제국 조약 가입"
 CAL_join_mittle_europa_desc:0 "The best defence against the ravages of Syndicalism is to side with the Germans. We already do business with their numerous colonies so aligning ourselves should be rather easy."
 CAL_californian_aog_offices:0 "Open AOG offices"
 CAL_californian_aog_offices_desc:0 "Of all the German Companies that we do business with, the one that we work with the most is the AOG. We should work to open up several business offices in the Pacific for the AOG and other German Companies. As well making sure that Pacific Businesses have offices oversees in Germany and the AOG as well."
@@ -237,7 +237,7 @@ REED_ESCAPES:0 "리드가 프랑스로 탈출함"
 cal_want_join_ent:0 "태평양 합중국이 협상국 가입을 원함"
 cal_want_ent:0 "태평양 합중국이 협상국 가입을 원함"
 cal_want_jap:0 "태평양 합중국이 대동아공영권 가입을 원함"
-cal_want_mitt:0 "태평양 합중국이 제국협정 가입을 원함"
+cal_want_mitt:0 "태평양 합중국이 제국 조약 가입을 원함"
 cal_want_sov:0 "태평양 합중국이 러시아와 동맹을 원함"
 cal_joins_ent:0 "태평양 합중국이 협상국에 가입함"
 cal_welcome:0 "태평양 합중국이 협상국에 가입함"
