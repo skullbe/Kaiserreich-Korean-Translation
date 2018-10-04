@@ -2,16 +2,16 @@ l_english:
 
 ### Ideas ###
 SER_reparation_payments:0 "불가리아에게 전쟁 배상금 지불"
-SER_reparation_payments_desc:0 "세르비아가 4차 발칸전쟁에서 패배했기에 불가리아에게 전쟁배상금을 지불해야합니다."
+SER_reparation_payments_desc:0 "세르비아가 제4차 발칸전쟁에서 패배했기에 불가리아에게 전쟁배상금을 지불해야합니다."
 BUL_reparation_payments_from_serbia:0 "세르비아로부터의 전쟁 배상금"
 BUL_reparation_payments_from_serbia_desc:0 "세르비아가 불가리아에 전쟁배상금을 지불하였습니다."
 GRE_reparation_payments:0 "오스만에게의 전쟁 배상금 지불"
-GRE_reparation_payments_desc:0 "그리스는 4차 발칸전쟁에서 패배했기에 오스만에게 전쟁배상금을 지불해야합니다."
+GRE_reparation_payments_desc:0 "그리스는 제4차 발칸전쟁에서 패배했기에 오스만에게 전쟁배상금을 지불해야합니다."
 OTT_reparation_payments_from_greece:0 "그리스로부터의 전쟁 배상금"
 OTT_reparation_payments_from_greece_desc:0 "그리스가 오스만에게 전쟁 배상금을 지불하였습니다."
 
 ### Decisions ###
-Belgrade_Pact_Balkan_War:0 "4차 발칸 전쟁"
+Belgrade_Pact_Balkan_War:0 "제4차 발칸 전쟁"
 Belgrade_Pact_Romania_capture_dobrudzha_mission:0 "도브루자 확보"
 Belgrade_Pact_Romania_capture_dobrudzha_mission_desc:0 "드디어 우리는 불가리아에게 복수를 할 수 있게 되었습니다. 대전쟁 이후 동맹국이 빼앗아간 도브루자를 되찾아와야 할 사명이 있습니다."
 Belgrade_Pact_Serbia_capture_macedonia_mission:0 "마케도니아 확보"
@@ -27,15 +27,15 @@ Balkans_hates_neighbours:0 "발칸반도의 패권국"
 Belgrade_Pact_closed_congress:0 "베오그라드 회의가 종료됨"
 Belgrade_Pact_anti_bulgaria:0 "반불가리아"
 Belgrade_Pact_joined_boo:0 "불가리아에 대항하는 세력에 가입함"
-Belgrade_Pact_did_not_join_yay:0 "베오그라드 협약에 가입하지 않음"
+Belgrade_Pact_did_not_join_yay:0 "베오그라드 조약 기구에 가입하지 않음"
 Belgrade_Pact_refused:0 "우리의 세력에 가입하지 않음"
 Belgrade_Pact_joined_against_us:0 "우리에 대항하는 세력에 가입함"
-Belgrade_Pact_joined_yay:0 "베오그라드 협약에가입함"
+Belgrade_Pact_joined_yay:0 "베오그라드 조약 기구에 가입함"
 Belgrade_Pact_supported_enemy:0 "불가리아를 지원했음"
 Belgrade_Pact_supported_us:0 "우리를 지원했음"
-Belgrade_Pact_refused_us_entry:0 "베오그라드 협약 가입을 거절함"
-Belgrade_Pact_they_withdrew_boo:0 "베오그라드 협약 탈퇴"
-Belgrade_Pact_they_withdrew_yay:0 "베오그라드 협약 탈퇴"
+Belgrade_Pact_refused_us_entry:0 "베오그라드 조약 기구 가입을 거절함"
+Belgrade_Pact_they_withdrew_boo:0 "베오그라드 조약 기구 탈퇴"
+Belgrade_Pact_they_withdrew_yay:0 "베오그라드 조약 기구 탈퇴"
 Belgrade_Pact_didnt_send_promised_aid:0 "약속된 지원을 하지 않음"
 Belgrade_Pact_sent_promised_aid:0 "발칸 전쟁 중에 지원을 보내주었음"
 Belgrade_Pact_serbia_wont_pressure_ottomans:0 "오스만 압박을 거부함"
@@ -52,14 +52,14 @@ pact.1.b:0 "회의를 폐회한다."
 
 pact.2.t:0 "베오그라드 회의"
 pact.2.d:0 "Serbia has invited us to send a diplomat to Belgrade to take part in the Belgrade Congress to discuss the political and military situation in the Balkans. Since the victory of Bulgaria in the Weltkrieg we have our eyes on land that is rightfully ours, and so does Serbia. They suggest we form a new, formal alliance called the Belgrade Pact, to protect our mutual interests and contain the Bulgarian menace. This could, however, anger Bulgaria's former allies Germany, Austria and the Ottoman Empire."
-pact.2.a:0 "우리의 베오그라드 협약에 대한 지지를 선언한다."
+pact.2.a:0 "우리의 베오그라드 조약 기구에 대한 지지를 선언한다."
 pact.2.b:0 "우리는 그닥 관심이 없다."
 
-pact.3.t:0 "[From.GetName](이)가 베오그라드 협약에 가입하다"
+pact.3.t:0 "[From.GetName](이)가 베오그라드 조약 기구에 가입하다"
 pact.3.d:0 "[From.GetAdjective] 정부가 베오그라드 회의에서 추후 베오그라드 협약에 가입할 것을 선언하였습니다."
 pact.3.a:0 "평화를 위해 함께하자!"
 
-pact.4.t:0 "[From.GetName](이)가 베오그라드 협약에 가입하지 않다"
+pact.4.t:0 "[From.GetName](이)가 베오그라드 조약 기구에 가입하지 않다"
 pact.4.d:0 "[From.GetAdjective] 정부는 불가리아를 공략하는 진영에 시간을 할양하지 않을 것이라고 선언하였습니다."
 pact.4.a:0 "저들이 필요하지 않다."
 
@@ -68,10 +68,10 @@ pact.5.d:0 "Without the Greeks creating another front, we may not be able to win
 pact.5.a:0 "오스만 제국을 초청하자."
 pact.5.b:0 "우리는 그들 없이도 괜찮을 것이다."
 
-pact.6.t:0 "세르비아가 베오그라드 협약에 초청하다"
+pact.6.t:0 "세르비아가 베오그라드 조약 기구에 초청하다"
 pact.6.d:0 "In a surprising turn of events, the Serbian government has invited us to join the Belgrade Pact, an alliance clearly aimed at Bulgaria. Joining this Pact against our former ally would result in deteriorated relations with Germany and Austria. However, we may have a chance of claiming some land from Bulgaria or even expand in the direction of the Greeks, who decided not to join."
-pact.6.a:0 "베오그라드 협약에 대해 지지를 표명한다."
-pact.6.b:0 "그대신 불가리아를 지원한다!"
+pact.6.a:0 "베오그라드 조약 기구에 대해 지지를 표명한다."
+pact.6.b:0 "그 대신 불가리아를 지원한다!"
 pact.6.c:0 "발칸반도에 집중 할 필요가 없다."
 
 pact.7.t:0 "오스만 제국이 불가리아를 지원하다!"
@@ -100,12 +100,12 @@ pact.12.d:0 "Our recent victory over the Iron Guard has put us in precarious pos
 pact.12.a:0 "우린 세르비아와 동맹을 맺어야한다!"
 pact.12.b:0 "고립주의는 루마니아를 보호할 것이다"
 
-pact.13.t:0 "루마니아가 베오그라드 협약 가입을 원합니다"
+pact.13.t:0 "루마니아가 베오그라드 조약 기구 가입을 원합니다"
 pact.13.d:0 "After their recent victory over the Iron Guard, the new Romanian government looks over the border. Since we share a long-time friendship and share common goals, they have asked to allow them to join the Belgrade Pact. This will be of great help in the case of the inevitable war."
 pact.13.a:0 "당연히 가입할 수 있다."
 pact.13.b:0 "우린 루마니아가 필요없다."
 
-pact.14.t:0 "루마니아가 베오그라드 협약에 가입하다"
+pact.14.t:0 "루마니아가 베오그라드 조약 기구에 가입하다"
 pact.14.d:0 "Serbia expressed their gratitude that we did not forget old alliances and want to join a common cause. Now we are part of the Belgrade pact."
 pact.14.a:0 "우리의 독립이 보장되었군!"
 
@@ -132,11 +132,11 @@ pact.19.d:0 "The Bulgarian government, seeing the gathered forces of the Belgrad
 pact.19.a:0 "저들은 달리 선택지가 없다."
 pact.19.b:0 "평화의 시간이로군."
 
-pact.20.t:0 "제 4차 발칸전쟁"
+pact.20.t:0 "제4차 발칸전쟁"
 pact.20.d:0 "The Bulgarian government refused an ultimatum of Serbia to hand over all territories they seized from us and our allies during the Weltkrieg. With no other option, the Serbian government has declared war. As we are part of the Belgrade Pact, we need to come to their aid. Though we will face stiff Bulgarian resistance, the Belgrade Pact surely will emerge victorious from this new conflict."
 pact.20.a:0 "Onwards to victory!"
 
-pact.21.t:0 "제 4차 발칸전쟁"
+pact.21.t:0 "제4차 발칸전쟁"
 pact.21.d:0 "The Bulgarian government refused an ultimatum of Serbia to hand over all territories they seized from us and our allies during the Weltkrieg. With no other option, the Serbian government has declared war. As we are part of the Belgrade Pact, we are now obliged to enter the war with Bulgaria in order to reclaim Eastern Rumelia, if our armed forces are sufficient for the task ahead."
 pact.21.a:0 "협약에 영광을."
 pact.21.b:0 "우리가 너무 과대평가했다. 원조를 보내라"
@@ -155,7 +155,7 @@ pact.24.d:0 "Although it was an unlikely alliance, the Ottomans always assured u
 pact.24.a:0 "Of course they altered the deal."
 pact.24.tt:0 "Ottoman troops and equipment arrive."
 
-pact.25.t:0 "제 4차 발칸전쟁"
+pact.25.t:0 "제4차 발칸전쟁"
 pact.25.d:0 "The Serbians have attacked Bulgaria together with their Belgrade Pact allies. We have promised to aid Bulgaria in the event of a conflict. Some argue we should directly intervene in favour of Bulgaria, but others say this will upset the precarious balance in the Middle East and might result in some of our neighbours declaring war on us. We can of course also ignore the conflict completely, but that would mean we don't help our former Central Powers ally."
 pact.25.a:0 "원조를 보내라."
 pact.25.b:0 "불가리아에 동맹을 제안하라!"
@@ -179,7 +179,7 @@ pact.29.t:0 "불가리아가 우리의 제안을 거부했습니다"
 pact.29.d:0 "The Bulgarian government has declined our offer of an alliance. They state they don't need our help against the Belgrade Pact."
 pact.29.a:0 "잘먹고 잘살아라!"
 
-pact.30.t:0 "제 4차 발칸전쟁"
+pact.30.t:0 "제4차 발칸전쟁"
 pact.30.d:0 "The Serbians have attacked Bulgaria together with their Belgrade Pact allies. We have promised to aid Bulgaria in the event of a conflict. Should we send volunteers, or ignore this new conflict? Some are arguing for the last option, seeing the internal problems we face."
 pact.30.a:0 "불가리아에 원조를 보내라."
 pact.30.b:0 "우리가 할 수 있는건 없다."
@@ -188,8 +188,8 @@ pact.31.t:0 "[From.GetName](이)가 우리를 돕는 것을 거부했습니다"
 pact.31.d:0 "Although they had promised to support us in the case of a war between us and Serbia, the [From.GetAdjective] government has declared they cannot help us in the ongoing conflict between Bulgaria and the Belgrade Pact. This is a major outrage, and we will not forget this!"
 pact.31.a:0 "배신자 자식!"
 
-pact.32.t:0 "제 4차 발칸전쟁"
-pact.32.d:0 "발칸반도는 또다시 전쟁의 불길에 휘말렸습니다. 대전쟁에서의 패배를 만회하고자 하는 세르비아는 주변의 베오그라드 협약 동맹들과 함께 불가리아를 공격하고 있습니다. 러시아는 어느쪽에 지원을 보내야할까요?"
+pact.32.t:0 "제4차 발칸전쟁"
+pact.32.d:0 "발칸반도는 또다시 전쟁의 불길에 휘말렸습니다. 대전쟁에서의 패배를 만회하고자 하는 세르비아는 주변의 베오그라드 조약 기구 동맹들과 함께 불가리아를 공격하고 있습니다. 러시아는 어느쪽에 지원을 보내야할까요?"
 pact.32.a:0 "세르비아에 지원을 보내라."
 pact.32.b:0 "불가리아에 지원을 보내라."
 pact.32.c:0 "불행하게도, 우리가 할 수 있는건 없다."
@@ -199,7 +199,7 @@ pact.33.d:0 "The Russian government has decided to support our cause and has sen
 pact.33.a:0 "훌륭해!"
 pact.33.tt:0 "러시아 군대와 장비가 도착합니다."
 
-pact.34.t:0 "제 4차 발칸전쟁 종전"
+pact.34.t:0 "제4차 발칸전쟁 종전"
 pact.34.d:0 "For good or ill, the Balkan War is now over. The General Staff have reported that they learnt many valuable lessons regarding the nature of modern warfare over the course of the conflict."
 pact.34.a:0 "좋았어!"
 
@@ -210,7 +210,7 @@ pact.35.b:0 "아직 이길 수 있다!"
 
 pact.36.t:0 "불가리아가 휴전을 제안했습니다"
 pact.36.d:0 "With a large part of their homeland occupied and their forces in full retreat, Bulgaria has asked us for peace. They will hand over all disputed territories, but we will have to retreat our forces behind these new borders. An independent Bulgarian state will continue to exist, for now."
-pact.36.a:0 "베오그라드 조약기구의 승리를 의미하는군"
+pact.36.a:0 "베오그라드 조약 기구의 승리를 의미하는군"
 pact.36.b:0 "거절한다, 끝까지 파괴하라!"
 
 pact.37.t:0 "베오그라드 협약과의 휴전"
@@ -231,7 +231,7 @@ pact.40.d:0 "With their capital occupied and their forces in full retreat, the O
 pact.40.a:0 "The Belgrade Pact stands triumphant."
 pact.40.b:0 "No, they shall be crushed!"
 
-pact.41.t:0 "베오그라드 조약과의 휴전"
+pact.41.t:0 "베오그라드 조약 기구와의 휴전"
 pact.41.d:0 "The Belgrade Pact has accepted our peace offer. We have to cede some disputed land to them but they will retreat their forces."
 pact.41.a:0 "At least we got Constantinople back!"
 
@@ -391,7 +391,7 @@ pact.75.d:0 "With part of their land occupied and their forces in full retreat, 
 pact.75.a:0 "The Belgrade Pact stands triumphant."
 pact.75.b:0 "No, they shall be crushed!"
 
-pact.76.t:0 "베오그라드 협약과의 휴전"
+pact.76.t:0 "베오그라드 조약 기구와의 휴전"
 pact.76.d:0 "The Belgrade Pact has accepted our peace offer. We have to cede some disputed land to them but they will retreat their forces."
 pact.76.a:0 "최소한 우리는 주권국가로 남아있도다!"
 
