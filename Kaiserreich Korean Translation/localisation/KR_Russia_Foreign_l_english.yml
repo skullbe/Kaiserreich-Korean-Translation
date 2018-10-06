@@ -13,7 +13,7 @@ russia_pick_eastern_europe_direction_tooltip:0 "You have to finish the Caucasus 
 
 RUS_caucasus_focus:0 "코카서스 방향"
 RUS_caucasus_focus_desc:0 "The Caucasus is wealthy and, historically, part of Russia. The people who live there might not think so anymore, but with enough military muscles that shouldn't be a problem. Germany will however keep a close eye on us, and we should tread carefully in the region."
-RUS_don_cossack_status:0 "돈쿠반 연합 문제"
+RUS_don_cossack_status:0 "돈-쿠반 연합 문제"
 RUS_don_cossack_status_desc:0 "The Don-Kuban region is as Russian as Russia, or so our military staff claims. They also claim that while the Cossacks who reside there are hard men, they aren't hard enough to fight from horse-back against our modern, unstoppable armies."
 RUS_azerbaijan_status:0 "바쿠 유전"
 RUS_azerbaijan_status_desc:0 "For a long time, we have been reliant on expensive oil imports to keep our war-machine running. All in between us and a self-sufficient economy is a small, weak, state of Azerbaijan."
@@ -49,7 +49,7 @@ RUS_take_baghdad_desc:0 "Some historians claim that human society as we know it 
 
 RUS_far_east_focus:0 "극동 방향"
 RUS_far_east_focus_desc:0 "Ever since the Russo-Japanese war the true enemy of Russia has, and will always be, the Rising empire in the east. The extremely rich and populous regions of China would also serve us very well."
-RUS_claim_sinkiang:0 "신장 영유권 주장"
+RUS_claim_sinkiang:0 "신강 영유권 주장"
 RUS_claim_sinkiang_desc:0 "The Sinkiang region will act excellently as a staging ground for any further military operations in China and the far east. Alternatively, it will act as a first line of defence to whatever operations of the oriental peoples may have planned."
 RUS_intervene_CHI_JAP_war:0 "중일 전쟁 개입"
 RUS_intervene_CHI_JAP_war_desc:0 "With China and Japan at each others throats it's time we stop and ask ourselves; how can we benefit the most from this?"
