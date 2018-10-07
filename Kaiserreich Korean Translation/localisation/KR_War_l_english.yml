@@ -29,12 +29,12 @@ WAR_NAME_ROM_RRM:0 "$ORDER$$SECOND$ 내전"
 WAR_NAME_RRM_ROM:0 "$ORDER$$SECOND$ 내전"
 
 ### Spanish Civil War ###
-WAR_NAME_SPR_CAR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
-WAR_NAME_CAR_SPR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
-WAR_NAME_SPR_CNT:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
-WAR_NAME_CNT_SPR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
-WAR_NAME_CAR_CNT:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
-WAR_NAME_CNT_CAR:0 "스페인내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_SPR_CAR:0 "스페인 내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_CAR_SPR:0 "스페인 내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_SPR_CNT:0 "스페인 내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_CNT_SPR:0 "스페인 내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_CAR_CNT:0 "스페인 내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
+WAR_NAME_CNT_CAR:0 "스페인 내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
 
 ### 2nd Mexican-American War ###
 WAR_NAME_USA_MEX:0 "2차 $ORDER$$SECOND$-$FIRST$ 전쟁"
@@ -59,8 +59,8 @@ WAR_NAME_SOV_SIB:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
 WAR_NAME_SIB_SOV:0 "2차 러시아내전: $ORDER$$FIRST$-$SECOND$ 전쟁"
 
 ### The Second Weltkrieg ###
-WAR_NAME_GER_FRA:0 "제 2차 세계대전"
-WAR_NAME_FRA_GER:0 "제 2차 세계대전"
+WAR_NAME_GER_FRA:0 "제2차 세계대전"
+WAR_NAME_FRA_GER:0 "제2차 세계대전"
 
 ### 2nd Russo-Japanese War ###
 WAR_NAME_RUS_JAP:0 "2차 러일 전쟁"
