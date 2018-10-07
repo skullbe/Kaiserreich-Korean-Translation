@@ -2,14 +2,14 @@ l_english:
 
 ### Ideas ###
 CNT_advisors_france:0 "프랑스의 도움"
-CNT_advisors_england:0 "영국의 도움"
+CNT_advisors_england:0 "브리튼의 도움"
 CNT_advisors_italysoc:0 "이탈리아의 도움"
 CNT_advisors_soviet:0 "소련의 도움"
 CNT_rally_anarchists_idea:0 "무정부주의자들의 집회!"
 CNT_rally_anarchists_idea_desc:0 "스페인에서 내전이 일어났습니다. CNT-FAI가 승리를 거두기 위해서는 모두가 마음과 목적을 가지고 통합되어야 합니다. 에스파냐 만세!"
 
 ### Tooltips ###
-CNT_won_election:0 "전국노동자연합이 적법한 국가선거에서 승리함\n"
+CNT_won_election:0 "전국노동자연합이 공정한 국가 선거에서 승리함\n"
 CNT_released_after_annexation:0 "전국노동자연합이 타국에 의해 건국됨\n"
 
 ### Focuses ###
@@ -99,5 +99,5 @@ CNT_authoritarian_democrat_party:0 "국민행동당"
 CNT_authoritarian_democrat_party_long:0 "국민행동당 급진파"
 CNT_paternal_autocrat_party:0 "스페인 팔랑헤당"
 CNT_paternal_autocrat_party_long:0 "스페인 팔랑헤당"
-CNT_national_populist_party:0 "국가생디칼리즘 운동연합"
-CNT_national_populist_party_long:0 "국가생디칼리즘 운동연합"
+CNT_national_populist_party:0 "국가조합주의 운동연합"
+CNT_national_populist_party_long:0 "국가조합주의 운동연합"
