@@ -20,5 +20,5 @@ JF_GENERIC_FLAVOUR_ENT_VICTORY:0 "협상국의 승리는 모든 역경에도 불
 JF_GENERIC_FLAVOUR_OTHER_VICTORY:0 "구세계의 질서가 폐허가 되면서, 새로운 열강이 잿더미에서 일어서고 있습니다. 한 번에 하나의 합의를 거쳐, 세계는 재건되고 있습니다."
  
 #ADD YOUR CUSTOM LOC HERE
-JF_ARG_GER_FLAVOUR:0 "양국간의 성공적인 무역 협정과 군사 협력에 따라, [faction_member.GetLeader]는 [faction_leader.GetFactionName]에 가입한다고 선언했습니다." 
+JF_ARG_GER_FLAVOUR:0 "양국 간의 성공적인 무역 협정과 군사 협력에 따라, [faction_member.GetLeader]은(는) [faction_leader.GetFactionName]에 가입한다고 선언했습니다." 
 JF_ARG_CAN_FLAVOUR:0 "빈틈없는 외교를 통해 [faction_member.GetLeader]와(과) [faction_leader.GetName]은(는) 공동의 위협을 위해 그들의 차이점을 제쳐두고 이슬라스 말비나스 위기를 해결했습니다." 
