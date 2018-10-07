@@ -1,7 +1,7 @@
 l_english:
 
 ### Events ###
-tram.intro.t:0 "트란스아무르 - 블라디보스톡 임시 러시아 국가"
+tram.intro.t:0 "트란스아무르 - 블라디보스토크 임시 러시아 국가"
 tram.intro.d:0 "Siberia and the Russian far-east had been a major areas of conflict during the Russian Civil War, as the location of a short-lived democratic republic, the rising of the 'Czech legion' and Japanese intervention. While forced to evacuate their forces due to German pressure (as well as intense resistance from local Cossacks), the Japanese remained eager to extend their influence and in 1922 pushed for the establishment of an independent state in the Transamur region. This motion gained the support of the Vladivostok business community, despite the fact that it left them vulnerable to forming an economic dependency on Japan. The majority of the business community however saw economic and diplomatic relations with the rising power in the East as a significant advantage, especially when compared to the alternative of being sucked further into the disorder besetting the rest of Russia. The new nation gained a prominent figurehead in the form of Admiral Kolchak, one of the more successful White Generals of the civil war and the one-time self-proclaimed 'Supreme Ruler of All Russia', who had been forced to flee Russia following his unsuccessful attempt to seize control in 1925. In 1936, the Transamur Republic has become a corporate and militaristic state, and is politically, economically and militarily under the thumb of the Japanese Empire. And yet Kolchak has ambitions of his own. Could he simply be playing a very dangerous game, using the Japanese protection to establish his own rule, first over Siberia, and then over Russia as a whole?"
 tram.intro.a:0 "흥미롭군..."
 
@@ -723,7 +723,7 @@ TRM_agitation_tooltip:0 "The results of our efforts could be variable, and there
 ### Flags ###
 TRM_control_FE:0 "러시아 극동은 우리의 것"
 TRM_sib_war:0 "시베리아에서의 전쟁"
-TRM_Kolchak_alive:0 "콜차크가 아직 트란아무르를 이끌고 있음"
+TRM_Kolchak_alive:0 "콜차크가 아직 트란스아무르를 이끌고 있음"
 TRM_Mil_coup:0 "A Military Cabinet has taken power"
 TRM_Dem_coup:0 "A Republic has been founded"
 TRM_Yui:0 "Yui Mitsue is in power"
