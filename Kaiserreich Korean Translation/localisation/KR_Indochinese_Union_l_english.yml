@@ -6,7 +6,7 @@ l_english:
 
 ### Ideas ###
 INC_vietminh:0 "베트남 독립 동맹(Viet Minh)"
-INC_vietminh_desc:0 "The 'Viet Minh', or 'League for the Independence of Vietnam', is a broad coalition government of groups which seek the immediate independence of Vietnam. The various factions with the Viet Minh all advocate popular unity, but each has its own agenda, which greatly inhibits the organisation's ability to make decisive decisions. Besides, some Khmer and Laotian members voiced their doubt about the name of the organisation..."
+INC_vietminh_desc:0 " '비엣 민', 또는 '베트남 독립 동맹이라고 불린 이 단체는 베트남의 즉각적인 독립을 외치는 집단들의 연맹입니다.이들은 공통적으로 모든 민중의 통합을 지지하지만 세세한 사상들은 저마다 다르기 때문에 결정을 내리기까지는 매우 까다롭습니다. 또한 크메르인과 라오스인들은 이 단체에 대해서 의심을 품고 있습니다..."
 INC_vietminh_1:0 "조국 전선"
 INC_vietminh_1_desc:0 "Since the end of Viet Minh provisional government, the former Viet Minh has been transformed into Fatherland Front. The front, as the political base of people's power, is intended to have a significant role in society, promoting national solidarity and unity of mind in political and spiritual matters..."
 INC_vietminh_2:0 "조국 전선"
@@ -214,8 +214,8 @@ viet.3.c:0 "적색테러는 우릴 부응케한다."
 
 viet.4.t:0 "토지 정책"
 viet.4.d:0 "If the revolution wants to prevail in Indochina, it must win the hearts and minds of peasants. Nationalists argue for rent reduction for tenants but maintaining our relationship with patriotic landlords. However, radicals want a complete land reform to mobilise the peasants and eliminate the Ancien Régime in every village. The fierce debate on the land policy is splitting the coalition. Ta Thu Thau and Pham Van Dong suggested a compromise by confiscating the land of 'traitors' for now and conduct land reform in the future."
-viet.4.a:0 "Slight Rent reduction"
-viet.4.b:0 "Promise land redistribution in the future"
+viet.4.a:0 "임대료만 내려주도록 하자"
+viet.4.b:0 "나중에 토지 재분배가 이뤄질 것이라고 약속하지"
 viet.4.c:0 "급진적 토지개혁이 시급하다!"
 
 viet.5.t:0 "독일의 봉쇄"
