@@ -145,7 +145,7 @@ JAP_DEM_SCI:0 "학문적 다원론"
 JAP_DEM_SCI_desc:0 "Pluralism is a central part of any democracy. By encouraging Pluralism in our academic institutions, we can improve our research and education!"
 JAP_DEM_EDU:0 "헌법 교육"
 JAP_DEM_EDU_desc:0 "By introducing a new curriculum to the public-school system that includes democratic theory and principles we will raise a new generation of Japanese youth who will enshrine the ideas of humanism and democracy."
-JAP_DEM_CUL:0 "문화 황금시대"
+JAP_DEM_CUL:0 "문화적 황금기"
 JAP_DEM_CUL_desc:0 "The openness and enlightenment of our society have encouraged a golden age in culture, both traditional and modern. Ancient arts of theatre and poetry are flourishing as well as new forms of entertainment such as films and animation. This reflects greatly on us abroad and strengthens Japanese values both in both foreign and domestic markets."
 
 ### Focuses - Political - Centralism ###
@@ -327,7 +327,7 @@ JAP_MIL_BIG_SHIPS_desc:0 "We should focus on big, heavily armed and armoured cap
 JAP_MIL_VERY_BIG_SHIPS:0 "오카미 작전"
 JAP_MIL_VERY_BIG_SHIPS_desc:0 "What sailors of old have often called sea monsters or Leviathans will soon pale before the great wolf-class super heavy battleship, the Okami! May we name the first one after our great God and Emperor, the Okami!"
 JAP_MIL_SMALL_SHIPS:0 "호위함"
-JAP_MIL_SMALL_SHIPS_desc:0 "주력함이 없는 것이 주력함의 약해빠진 구축함보다 낫습니다. 호위 함선의 보호가 없다면, 주력함이 강력하든 아니든간에, 우리의 주력함은 침몰하게 될 것입니다."
+JAP_MIL_SMALL_SHIPS_desc:0 "빌빌거리는 구축함이 보호할 바에야 주력함은 없는 편이 낫습니다. 호위 함선의 보호가 없다면, 강력하든 아니든간에 우리의 주력함은 반드시 수장될 것입니다."
 JAP_MIL_SUBMARINES:0 "잠수함"
 JAP_MIL_SUBMARINES_desc:0 "Hidden, like the ancient ninja, submarines can deliver deadly blows not only to enemy military vessels, but also to their shipping lanes. How to implement them is vocally discussed in the Imperial Navy Headquarters, but all agree that they will serve an important role in any upcoming conflicts."
 JAP_MIL_NAVBOM_FOCUS:0 "해군 폭격기"
@@ -363,7 +363,7 @@ JAP_MIL_ROCKET_desc:0 "Rocket developments can not only provide with rocket weap
 
 ### Events ###
 japdom.1.t:0 "잃어버린 10년에서의 회복"
-japdom.1.d:0 "'잃어버린 10'년으로 불리는 1920년대는 일본의 경기 침체와 정치적 불안정으로 얼룩졌습니다. 이는 특히 농업 부문에서 심각했습니다. 농민들이 침체된 시골을 떠나 도시와 노동 시장에 몰려들면서 대규모 인구통계학적 변화가 일어났고, 이로 인해 임금은 떨어졌습니다. \n\n헌정회가 '입헌주의 연정'을 이끌고 정부에 변화를 일으킨 후, 이누카이와 그의 내각은 일본의 영향권을 만주와 극동 시베리아로 성공적으로 넓히며 일본 경제의 주요 수출 시장을 얻었지만, 만주에서 수입된 값싼 농산물이 시골로 흘러들어가면서 농업 사정은 계속 악화되었습니다. 1936년이 밝아오고 있습니다. 계속되는 재무장과 국가의 투자로 산업 경제는 완전히 재건되었지만, 농촌의 빈곤 문제는 여전히 고질적이며 해결되지 않고 있습니다."
+japdom.1.d:0 "'잃어버린 10년'으로 불리는 1920년대는 일본의 경기 침체와 정치적 불안정으로 얼룩졌습니다. 이는 특히 농업 부문에서 심각했습니다. 농민들이 침체된 시골을 떠나 도시와 노동 시장에 몰려들면서 대규모 인구통계학적 변화가 일어났고, 이로 인해 임금은 떨어졌습니다. \n\n헌정회가 '입헌주의 연정'을 이끌고 정부에 변화를 일으킨 후, 이누카이와 그의 내각은 일본의 영향권을 만주와 극동 시베리아로 성공적으로 넓히며 일본 경제의 주요 수출 시장을 얻었지만, 만주에서 수입된 값싼 농산물이 시골로 흘러들어가면서 농업 사정은 계속 악화되었습니다. 1936년이 밝아오고 있습니다. 계속되는 재무장과 국가의 투자로 산업 경제는 완전히 재건되었지만, 농촌의 빈곤 문제는 여전히 고질적이며 해결되지 않고 있습니다."
 japdom.1.a:0 "알겠다.(Gaman shiyou)"
 
 japdom.2.t:0 "의회 해산"
@@ -413,7 +413,7 @@ japdom.10.a:0 "이 나라가 미쳐가고 있군..."
 
 japdom.11.t:0 "스즈키 기사부로의 암살"
 japdom.11.d:0 "상상할 수도 없는 일이 또 일어났습니다! 스즈키 총리와 그의 법정혈족 형제인 하토야마 이치로는 오늘 가와고에에서 열린 정당 집회에 참석했습니다. 하토야마가 연설을 하기 위해 일어섰을 때, '사이타마 민족 구원 청년 봉사단'의 생디칼리즘 테러리스트가 이누카이 총리의 암살자를 처벌한 것에 대한 보복으로 스즈키와 하토야마를 저격했습니다. 스즈키의 부상은 심각한 것으로 보입니다."
-japdom.11.a:0 "Gomeifuku wo inorimasu."
+japdom.11.a:0 "명복을 빕니다."
 
 japdom.12.t:0 "비난 받는 정부"
 japdom.12.d:0 "놀랄 것도 없이, 국가보안법 통과의 실패는 총리에 대한 반발을 불러일으켰습니다. 이 법안을 지지했던 보수주의자들과 관료들은 스즈키의 패배에 배신감을 느꼈습니다. 정부가 생디칼리즘에 대한 어떤 조치도 취하지 못한 데 실망한 귀족원과 추밀원은 내각에 대한 인내심을 모두 잃었습니다."
@@ -441,15 +441,15 @@ japdom.17.a:0 "민주주의가 지켜졌다!"
 
 japdom.18.t:0 "권력 투쟁"
 japdom.18.d:0 "Restorationist officers were the main participants of the coup that overthrew the elected government, for they saw the parliamentary system as a plutocratic capitalist institution, however under the successive government the Centralists took the leading role in the new regime and the Restorationists were marginalised from the leadership. The Restorationist leadership has concluded that they were deceived. A new power struggle has begun."
-japdom.18.a:0 "Will this ever end?"
+japdom.18.a:0 "끝나기는 할까?"
 
 japdom.19.t:0 "The Ishinha Counter-Coup"
 japdom.19.d:0 "Earlier today Restorationist junior officers from units in the Tokyo area have staged a new coup d'état! In the early morning, 1,400 officers and enlisted soldiers embarked on missions to seize control of key communications and administrative facilities. The Army Ministry, the General Staff Office, the Metropolitan Police Headquarters, the Prime Minister's Official Residence, and the Imperial Diet Building were all quickly captured, and the Imperial Palace went under siege. In the afternoon the emperor himself addressed the soldiers announcing his official support of their revolution."
-japdom.19.a:0 "The coup is successful!"
+japdom.19.a:0 "쿠데타는 성공하는가!"
 
 japdom.20.t:0 "Restorationist Coup Attempt!"
 japdom.20.d:0 "Earlier today Restorationist junior officers from units in the Tokyo area have staged a new coup d'état! In the early morning, 1,400 officers and enlisted soldiers embarked on missions to seize control of key communications and administrative facilities. The Army Ministry, the General Staff Office, the Metropolitan Police Headquarters, the Prime Minister's Official Residence, and the Imperial Diet Building were all quickly captured, and the Imperial Palace went under siege. After the emperor explicitly denounced the putschists the navy mobilised marine divisions to rescue the palace, and by the evening the coup was crushed."
-japdom.20.a:0 "Thank god for the navy!"
+japdom.20.a:0 "해군에게 가호가 있기를!"
 
 japdom.21.t:0 "The Centralists Win!"
 japdom.21.d:0 "The Restorationist coup has been defeated. Branded traitors, the Restorationists are being purged all over the country. There are calls for the Army to assume a greater role in government to help root out both the traitors and the syndicalists."
@@ -518,7 +518,7 @@ japdom.34.e:0 "Appoint Shoda Kazue."
 
 japdom.35.t:0 "The Cabinet Planning Board"
 japdom.35.d:0 "When the Black Monday recession and general economic and political turmoil threatening the Japanese export markets in the Pacific, the Government has begun to review its economic policies. We mainly export raw silk and other consumer goods- our industrial goods are still inadequate compared with most western nations. Various measures to remedy the situation have been suggested and a Cabinet Planning Board (Kikakuin) has been established to study and plan future economic policy."
-japdom.35.a:0 "Good."
+japdom.35.a:0 "좋아."
 
 japdom.36.t:0 "Corruption Scandal"
 japdom.36.d:0 "One of our high-ranking government officials has been accused of corruption. He is now under arrest on allegations of receiving bribes from one of the Zaibatsu."
@@ -526,15 +526,15 @@ japdom.36.a:0 "A shameful display!."
 
 japdom.37.t:0 "Completion of the Land Reform Act"
 japdom.37.d:0 "We have purchased and redistributed tens of thousands of hectares of land to landless or tenant farmers. While it hasn't been total, we are already beginning to see the benefits of our work."
-japdom.37.a:0 "Banzai!"
+japdom.37.a:0 "반자이!"
 
 japdom.38.t:0 "Completion of the Extended Land Reform Act"
 japdom.38.d:0 "We have completed what is being internationally recognised as one of the largest land redistribution programs in history. 2.3 million hectares of land have been distributed to farmers during the project, and landlordism as Japan knew it no longer exists."
-japdom.38.a:0 "Banzai Banzai Banzai!"
+japdom.38.a:0 "반자이 반자이 반자이!"
 
 japdom.39.t:0 "한국 식민화"
 japdom.39.d:0 "With millions of Japanese colonists settling in Korea, the Japanese authority has solidified its rule over the Peninsula."
-japdom.39.a:0 "Banzai Banzai Banzai!"
+japdom.39.a:0 "반자이 반자이 반자이!"
 
 japdom.40.t:0 "한국의 경제적 통합"
 japdom.40.d:0 "조선총독부 하에 있는 수백만의 일본인 식민지 개척자들이 평생 머무를 고향을 찾은 것 같습니다. 영토의 도시화와 현대화는 날마다 진행되고 있으며, 지역 경제가 일본 경제를 뒤따라 잡는 등 효과적으로 일본 경제에 통합되고 있습니다."
@@ -546,19 +546,19 @@ japdom.41.a:0 "젠장!"
 
 japdom.42.t:0 "타이완 식민화"
 japdom.42.d:0 "With thousands of Japanese colonists settling in Taiwan, the Japanese authority has solidified its rule over the Island."
-japdom.42.a:0 "Very good."
+japdom.42.a:0 "아주 좋아."
 
 japdom.43.t:0 "타이완의 경제적 통합"
 japdom.43.d:0 "The thousands of Japanese colonists in our protectorate of Taiwan seem to have found a permanent home. Urbanisation and modernisation of the territory is progressing daily, and the local economy has been overtaken and effectively integrated into the Japanese economy."
-japdom.43.a:0 "Very Good!"
+japdom.43.a:0 "아주 좋아!"
 
 japdom.44.t:0 "타이완 상실"
-japdom.44.d:0 "The loss of Taiwan has destroyed the local Japanese community. Japanese settlers are fleeing en masse to avoid reprisal from the Taiwanese."
-japdom.44.a:0 "Damn!"
+japdom.44.d:0 "타이완의 상실로 인해 일본인 지역 공동체가 파괴되었습니다. 일본인 이주민들은 타이완인들의 보복공격을 피하기 위해 단체로 도피하고 있습니다."
+japdom.44.a:0 "젠장!"
 
 japdom.73.t:0 "다롄 식민화"
 japdom.73.d:0 "With thousands of Japanese colonists settling in Dairen, the Japanese authority has solidified its rule over the peninsula."
-japdom.73.a:0 "Very good."
+japdom.73.a:0 "아주 좋아."
 
 japdom.45.t:0 "인민전선 사건"
 japdom.45.d:0 "오늘 좌익 성향의 학자, 지식인, (두 의원을 포함한) 정치인 등 446명이 국가보안법에 따라 기소되었습니다. 446명 모두 '인민전선'을 조직하고 국체를 위협했다는 혐의를 받고 있습니다."
@@ -603,7 +603,7 @@ japdom.54.b:0 "Elect Minseito (Liberals)."
 japdom.54.c:0 "Elect Kokumin Domei (Nationalists)."
 japdom.54.e:0 "Elect Shakai Taishuto (Socialists)."
 
-japdom.55.t:0 "1945년 총 선거"
+japdom.55.t:0 "1945년 총선"
 
 japdom.56.t:0 "천황 암살미수 사건!"
 japdom.56.d:0 "His Imperial Majesty Hirohito has been shot by a radical Syndicalist who was infuriated by the military takeover of the nation, His Majesty is in critical condition and the doctors are not sure if he will live..."
@@ -612,8 +612,8 @@ japdom.56.b:0 "폐하가 돌아가셨으니, 치치부 친왕이 섭정을 맡�
 
 japdom.57.t:0 "2차 메이지 유신?"
 japdom.57.d:0 "It has been three years since Prince Chichibu became regent for his nephew Akihito, but now many in the radical Restorationist clique, which the regent supports, have now told the regent they would help him in overthrowing his nephew and becoming Emperor himself."
-japdom.57.a:0 "야스히토 천황폐하께 경례!"
-japdom.57.b:0 "틀렸습니다. 그는 진정한 천황입니다."
+japdom.57.a:0 "야스히토 천황 폐하께 경례!"
+japdom.57.b:0 "틀렸다. 그는 진정한 천황 폐하시다."
 
 japdom.58.t:0 "Hayashi Senjuro is dead!"
 japdom.58.d:0 "A member of the Centralists and a general in our army, Hayashi Senjuro has died today."
@@ -621,33 +621,33 @@ japdom.58.a:0 "Appoint Tojo Hideki."
 japdom.58.b:0 "Appoint Nagata Tetsuzan."
 japdom.58.c:0 "Gomeifuku wo inorimasu."
 
-japdom.59.t:0 "A New 1281"
-japdom.59.d:0 "Our mortal enemies have made successful landings on our sacred islands! The nation must fully mobilise in order to stop them!..."
-japdom.59.a:0 "We will stop them!"
+japdom.59.t:0 "1281년의 재림"
+japdom.59.d:0 "우리의 적들이 우리의 신성한 섬에 성공적으로 상륙했습니다! 그들을 저지하기 위해서 국가의 모든 것을 완전히 동원해야만 합니다!..."
+japdom.59.a:0 "우리는 그들을 멈춰세울 것이다!"
 
 japdom.60.t:0 "The Drought Takes its Toll"
 japdom.60.d:0 "With the nation's rural areas already struggling after the lost decade, the drought has served to further impoverish farmers and bankrupt light industries built around agricultural produce. The drought's effects seem likely to continue for some time."
-japdom.60.a:0 "Shou ga nai."
+japdom.60.a:0 "어쩔 수 없군."
 
 japdom.61.t:0 "The Fengtian-Korea-Japan Provisions Proposal"
 japdom.61.d_pervasive:0 "After studying the nature of the ongoing drought, the Ministries of Agriculture and Forestry, Commerce and Industry, and Home Affairs, have concluded that there is little more that can be done to stem the impact of the drought beyond the measures that have already been taken. However, the Ministry of Colonial Affairs has come forward with a proposition in which Fengtian could be coerced into exporting millet and rice to Korea, with Korea then providing its own rice to feed Japan. Manchuria has largely been spared the drought, and while it would have to make do with less food for some time, our political and economic stranglehold over the country should be enough to prevent any dissent."
 japdom.61.d_normal:0 "After studying the nature of the ongoing drought, the Ministries of Agriculture and Forestry, Commerce and Industry, and Home Affairs, have concluded that there is little more that can be done to stem the impact of the drought beyond the measures that have already been taken. However, the Ministry of Colonial Affairs has come forward with a proposition in which Fengtian could be asked to export its millet and rice to Korea, with Korea then providing its own rice to feed Japan. Manchuria has largely been spared the drought, and while it would have to make do with less food for some time, surely the Fengtian Government should be willing to assist their benefactor in its time of need."
-japdom.61.a:0 "They will have no choice."
-japdom.61.b:0 "Send the request."
-japdom.61.c:0 "We will endure."
+japdom.61.a:0 "그들에겐 선택의 여지가 없다."
+japdom.61.b:0 "제안을 보내라."
+japdom.61.c:0 "우리는 인내할 것이다."
 
 japdom.62.t:0 "Fengtian Refuses our Proposal"
 japdom.62.d:0 "In an act of unprecedented impertinence, the Fengtian Government has refused our proposal to ameliorate the impact of the drought. Surely this act of gross and unacceptable disrespect will be met with sound retribution!"
-japdom.62.a:0 "Punish this impertinence!"
-japdom.62.b:0 "Shou ga nai."
+japdom.62.a:0 "이 무례한 자들을 벌하라!"
+japdom.62.b:0 "어쩔 수 없군."
 
 japdom.63.t:0 "The Drought Ends"
 japdom.63.d:0 "After many months of suffering, the drought has finally ended and the country begins its recovery."
-japdom.63.a:0 "Finally!"
+japdom.63.a:0 "마침내!"
 
 japdom.64.t:0 "Fengtian Agrees to Provide Food"
 japdom.64.d:0 "The Fengtian Government has agreed to provide food, and the major negative effects of the drought should subside soon."
-japdom.64.a:0 "Good news!"
+japdom.64.a:0 "좋은 소식이다!"
 
 ### Zankoas's new events japdom.65 onwards ###
 
