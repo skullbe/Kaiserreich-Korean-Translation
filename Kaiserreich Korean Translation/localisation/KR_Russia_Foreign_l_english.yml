@@ -2,10 +2,10 @@ l_english:
 
 ### Focuses ###
 RUS_real_politik:0 "외교 정책: 현실정치"
-RUS_real_politik_desc:0 "Realpolitik is politics or diplomacy based primarily on considerations of given circumstances and factors, rather than explicit ideological notions or moral and ethical premises. The term Realpolitik is sometimes used pejoratively to imply politics that are coercive, amoral, or Machiavellian. We enjoy this notion."
+RUS_real_politik_desc:0 "현실정치는 명백한 이념적 개념이나 도덕, 윤리적 전제가 아니라, 현재 주어진 상황과 요소의 고려에 바탕을 둔 정치나 외교입니다. 현실정치라는 용어는 때때로 강압적이고 비도덕적이며 권모술수적인 정치를 암시하기 위해 주로 사용되기도 합니다. 그리고 우리는 이런 생각을 즐깁니다."
 RUS_expansionism:0 "외교 정책: 팽창주의"
-RUS_expansionism_desc:0 "The theory of expansionism constitutes that Russia's borders are only as safe as they are distant from our heartland. Every neighbouring state which is not a puppet of the Russian state is, as such, a threat or a target, depending on their military and political strength. Needless to say, this adaption of policies will not be well-liked by the rest of the world."
-expansionism_tooltip_russia:0 "§GBy taking Expansionism, you will have more aggressive options in the diplomatic events and focuses, but you will increase world tension and anger the countries around you!§!"
+RUS_expansionism_desc:0 "팽창주의는 러시아의 국경이 우리 국가의 심장부로부터 멀리 떨어져 있는 한 안전하다는 이론입니다. 러시아의 꼭두각시가 아닌 이상 모든 이웃 국가는 그들이 가진 군사력과 정치력에 따라 우리의 위협 또는 목표입니다. 당연하게도, 이러한 정책이 다른 나라에서 환영받을 리는 없습니다."
+expansionism_tooltip_russia:0 "§G팽창주의를 선택한다면 외교적 이벤트나 중점에서 보다 공격적인 선택을 할 수 있게 되지만, 세계의 긴장도와 주변국의 분노를 필연적으로 사게 될 것입니다!§!"
 
 russia_pick_middle_east_direction_tooltip:0 "You have to finish the Caucasus and Central Asian directions before taking this one, the conditions to finish these directions being: §YCaucasus§!: Own or have as a puppet §GYekaterinodar§!, §GVladikavkaz§!, §GGeorgia§! and §GAzerbaijan§!; §YCentral Asia§!: Own or have as a puppet §GUralsk§!, §GVernyi§!, §GUrgench§! and §GTashkent§!"
 russia_pick_far_east_direction_tooltip:0 "You either have to finish the Caucasus and Central Asian directions or have to finish the Central Asian direction and be blocked by Germany in the caucasus before taking this one, the conditions to finish these directions being: §YCaucasus§!: Own or have as a puppet §GYekaterinodar§! and §GVladikavkaz§!; §YCentral Asia§!: Own or have as a puppet §GUralsk§!, §GVernyi§!, §GUrgench§! and §GTashkent§!"
@@ -190,13 +190,13 @@ rusfor.15.t:0 "러시아가 시베리아를 통제합니다"
 rusfor.15.d:0 "Stability comes back to Siberia, where barbaric Mongols and the treacherous admiral Kolchak had been trying to drive Russia in chaos. Now our Siberian border is much more secure and we can strengthen ourselves in Siberia."
 rusfor.15.a:0 "좋았어!"
 
-rus_cooperation_canada:0 "캐나다와 군사협력"
-rus_cooperation_nat_france:0 "국민프랑스와 군사협력"
+rus_cooperation_canada:0 "캐나다와의 군사 협력"
+rus_cooperation_nat_france:0 "국민 프랑스와의 군사 협력"
 
 rusfor.16.t:0 "벨로루시의 운명"
 rusfor.16.d:0 "The former Belorussian state is now under our direct military control. We cannot hope to keep the areas of the former state in line for too long, though. Most politicians are calling for the restoration of Belorussia as a buffer state, with the eastern parts of the country directly integrated into Russia. However, nationalists strongly disagree with this kind of solution and instead they demand that Belorussia be permanently integrated into Russia."
 rusfor.16.a:0 "1936년 벨로루시의 국경을 복원한다!"
-rusfor.16.b:0 "Integrate areas with a Russian majority and restore Belorussia!"
+rusfor.16.b:0 "영토의 대다수를 러시아에 합병하고 벨로루시를 복원시켜라!"
 rusfor.16.c:0 "러시아에 벨로루시를 합병시킨다!"
 
 rusfor.17.t:0 "벨로루시의 독립"
@@ -206,7 +206,7 @@ rusfor.17.b:0 "완전한 독립이다!"
 
 rusfor.18.t:0 "독립된 벨라루스"
 rusfor.18.d:0 "Belarus is once again independent under Russian supervision."
-rusfor.18.a:0 "Form up the troops!"
+rusfor.18.a:0 "군대를 소집하라!"
 
 rusfor.19.t:0 "Minority policies in Belorussia"
 rusfor.19.d:0 "We have decided that it will be in Russia's best interest if Belorussia is absorbed into Russia. Now an important question arises about our minority policies towards our new subjects. Shall we continue with the pre-1914 Russification policies?"
