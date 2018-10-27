@@ -1,7 +1,7 @@
 ﻿l_english:
   
-FACTION_JOINING_ALERT_TITLE: "외교 변화"
-FACTION_JOINING_ALERT_DESC: "[faction_member.GetFlag] §Y[faction_member.GetName]§! 이(가) §Y[faction_leader.GetFactionName]§!에 가입하였습니다."
+FACTION_JOINING_ALERT_TITLE:0 "외교 변화"
+FACTION_JOINING_ALERT_DESC:0 "[faction_member.GetFlag] §Y[faction_member.GetName]§! 이(가) §Y[faction_leader.GetFactionName]§!에 가입하였습니다."
  
 FACTION_JOINING_CLOSE:0 "닫기"
  
@@ -19,6 +19,8 @@ JF_GENERIC_FLAVOUR_FRA_DEFEAT:0 "독일군의 무기가 유럽에서 다시 승�
 JF_GENERIC_FLAVOUR_ENT_VICTORY:0 "협상국의 승리는 모든 역경에도 불구하고 새로운 것들을 구식으로 바꾸었습니다. 지난 세기를 지배했던 세력이 이제 새로운 동맹이 이를 바꾸기 위해 일어났음에도 익숙한 세계질서를 바라보고 있습니다."
 JF_GENERIC_FLAVOUR_OTHER_VICTORY:0 "구세계의 질서가 폐허가 되면서, 새로운 열강이 잿더미에서 일어서고 있습니다. 한 번에 하나의 합의를 거쳐, 세계는 재건되고 있습니다."
  
-#ADD YOUR CUSTOM LOC HERE
+### Add Custom Localisation Here ###
 JF_ARG_GER_FLAVOUR:0 "양국 간의 성공적인 무역 협정과 군사 협력에 따라, [faction_member.GetLeader]은(는) [faction_leader.GetFactionName]에 가입한다고 선언했습니다." 
 JF_ARG_CAN_FLAVOUR:0 "빈틈없는 외교를 통해 [faction_member.GetLeader]와(과) [faction_leader.GetName]은(는) 공동의 위협을 위해 그들의 차이점을 제쳐두고 이슬라스 말비나스 위기를 해결했습니다." 
+JF_SER_GRE_FLAVOUR:0 "Due to a shared hate for Bulgaria's growing power, Greece has decided to enter the Belgrade Pact with Serbia to take down Bulgaria once and for all. This could very well shake the power balance within the Balkans."
+JF_SER_ROM_FLAVOUR:0 "Due to the growing power of Austria and Bulgaria, Romania has accepted the invitation to the Belgrade Pact in order to try and contain their strength. Austria and Bulgaria watch with fear as the powderkeg grows close to exploding once again."
