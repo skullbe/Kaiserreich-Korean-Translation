@@ -663,6 +663,8 @@ BAT_mil_tooltip:0 "§YGerman Officers§! decision is now available"
 BAT_ger_complete_toltip:0 "Germanisation Progress is 100% complete"
 BAT_5_percent_tooltip:0 "Add §Y5%§! to §YGermanisation Progress§!"
 BAT_balts_revolt_tooltip:0 "Add §Y5%§! to §YRevolt Progress§!"
+BAT_oob_tt:0 "A new infantry division will be formed."
+BAT_oob2_tt:0 "Two new infantry divisions will be formed."
 
 ### Decisions ###
 BAT_colonisation:0 "Drang Nach Osten"
