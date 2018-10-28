@@ -1,4 +1,3 @@
-
 l_english:
 
 ### Parties ###
@@ -53,6 +52,7 @@ ACW_CSA_actually_rose_up:0 "잭 리드가 연방에서 탈퇴했다"
 ACW_AUS_actually_rose_up:0 "휴이 롱이 연방에서 탈퇴했다"
 PER_ARG:0 "리마 조약이 발효되었다"
 RIO_NEGRO:0 "§Y우리는 리오 네그로를 가로지르는 탐색적인 공격을 시작할 것입니다 \n§!"
+arg_immiblack:0 "§YFive Year Plan§! has been enacted"
 
 ### Research Group ###
 argentina_research:0 "아르헨티나-페루 연구 조약"
@@ -213,7 +213,7 @@ ARG_TAMET_Steel:0 "TAMET 강철"
 ARG_TAMET_Steel_desc:0 "유럽 철강의 부족은 우리 경제에 심각한 타격을 주고 있고 우리가 전쟁 기계를 계속 가동시키려면 신속한 개입이 필요할 것입니다. 이러한 점을 염두에 두고, 우리는 '야금 작업장(Talleres Metalurgicos)'에 투자하기로 결정했습니다, 그들은 우리에게 강철과 몇몇 지방의 제철소를 더 잘 사용할 수 있는 방법을 제공할 것입니다."
 ARG_Parana_Infrastructure_Plan:0 "파라나 사회기반시설 계획"
 ARG_Parana_Infrastructure_Plan_desc:0 "파라나 강과 우루과이 강은 이 지역의 해상 운송을 방해하고 있으며, 우리가 북부 지방을 추가로 개발하고 도시의 연결을 개선할 수 있도록 하기 위해 제거되어야 합니다."
-ARG_Engines_of_War:0 "병기"
+#ARG_Engines_of_War:0 "병기" already defined above as an idea
 ARG_Engines_of_War_desc:0 "전쟁이 아르헨티나로 오고 있고 우리는 준비를 해야 합니다. 망치가 금속을 치고 공장들이 초과 근무를 할 때, 아르헨티나의 전쟁 기계는 어떤 도전에도 맞설 준비가 되어 있는 상태로 모양을 갖추고 있습니다."
 ARG_FM_Investement_Program:0 "FM 투자 프로그램"
 ARG_FM_Investement_Program_desc:0 "성장하는 우리 군대에 필요한 무기를 더 제공하기 위해, 정부는 '군수 제조사(Fabricaciones Militares)'에 자금을 조달하고, 그들이 필요로 하는 모든 작은 무기들을 우리 군대에 제공할 수 있는 프로그램을 발표했습니다."
@@ -356,7 +356,7 @@ ARG_Doctrinal_Innovation:0 "교리 혁신"
 ARG_Doctrinal_Innovation_desc:0 "우리 산업이 독일 산업과 조화를 이루지 못할 수도 있지만, 그럼에도 불구하고 우리는 상당한 산업 능력을 가지고 있습니다. 우리는 전쟁터에서 우리의 군대를 더 기동하게 하고 더 강력하게 하기 위해 그것을 사용해야 합니다. 우리는 속도와 화력에 초점을 맞춘 교리를 채택해야 합니다." 
 ARG_Fast_and_Furious:0 "빠른 전개"
 ARG_Fast_and_Furious_desc:0 "우리의 새로운 실험적 탱크 설계는 보병과 기병까지 동원하여 상상할 수 없는 속도에 도달할 수 있다는 것을 증명했습니다. 우리가 이 속도를 유리하게 이용한다면, 우리는 전술적 우위를 전장에서 차지할 수 있을 것입니다."
-ARG_Precision_Strikes:0 "정밀 타격"
+#ARG_Precision_Strikes:0 "정밀 타격" already defined above as an idea
 ARG_Precision_Strikes_desc:0 "일반 보병은 적을 정확하고 강하게 공격할 무거운 장비를 갖추고 있지 않지만, 우리의 새로운 장갑차, 탱크, 이동식 대포는 공격할 수 있습니다. 전장에서 적군이 반격하기 전에 결정적인 타격을 줄 수 있다면 큰 이점이 될 것입니다."
 ARG_Concentrated_Fire:0 "집중 포화"
 ARG_Concentrated_Fire_desc:0 "상당한 산업 능력 덕분에, 우리는 더 무겁고 더 강력한 대포를 생산할 수 있습니다. 이 엄청난 화력을 집중시킴으로써, 우리는 그것의 잠재력을 최대한 펼칠 수 있습니다."
@@ -427,7 +427,7 @@ ARG_Fleet_Movements:0 "함대 이동"
 ARG_Fleet_Movements_desc:0 "우리의 관리인들이 그들의 선박 능력을 어떻게 이용하는지를 모른다면, 우리는 빠르고 견고하며 강력한 해군을 보유하는 것만으로는 충분하지 않습니다. 우리는 우리의 장교들을 이 배들과 함께 바다로 데리고 가서 해군 기동 훈련을 할 것입니다."
 ARG_Expand_the_Docks:0 "부두 확장"
 ARG_Expand_the_Docks_desc:0 "우리의 부두는 남미 국가에 대해서는 인상은 강하지만, 우리의 야망으로는 더 이상 충분하지 않습니다! 만약 우리가 세계의 다른 세력들을 능가하고 싶다면, 우리의 부두의 확장이 필요합니다."
-ARG_Merchant_Marine:0 "상선 승무원"
+#ARG_Merchant_Marine:0 "상선 승무원" already defined above as an idea
 ARG_Merchant_Marine_desc:0 "아르헨티나 사람들은 그들의 해군에 자부심을 갖는 것을 좋아하지만, 가장 중요한 점은 해군이 아니라 상선입니다. 그들이 없다면, 우리는 우리의 제품을 두 팔 벌려 기다리는 세계로부터 고립될 것이고 그것이 이 나라를 위대하게 만들었습니다. 상선에 대한 투자가 진행 중입니다."
 ARG_Land_Fortifications:0 "해안을 보호하다"
 ARG_Land_Fortifications_desc:0 "우리의 주요 항구 도시인 부에노스 아이레스, 마르델플라타, 바이아블랑카는 우리의 적들이 우리 함대를 묶거나 파괴할 수 있다면 해군 침략으로부터 보호 받지 못합니다. 이런 만일의 사태로부터 우리를 보호하기 위해, 우리는 도시와 해안선 전체에 걸쳐 강력한 요새화를 하는 데 집중하기로 결정했습니다."
