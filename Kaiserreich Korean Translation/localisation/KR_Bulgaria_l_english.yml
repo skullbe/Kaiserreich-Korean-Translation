@@ -629,6 +629,11 @@ bulgaria.98.t:0 "[From.GetNameDefCap]이(가) 동의하다!"
 bulgaria.98.d:0 "The weak and decrepit [From.GetName] has proved themselves worthy of their moniker, the Sick Man of Europe. It seems as though even they were unable to resist the threat of a [Root.GetAdjective] threat and have begun the transfer of Adrianople to [Root.GetAdjective] hands."
 bulgaria.98.a:0 "훌륭해!"
 
+bulgaria.99.t:0 "[BUL.GetNameDefCap] Has Been Occupied! Should We End the War?"
+bulgaria.99.d:0 "It seems as though the soldiers of our enemies have thoroughly occupied [BUL.GetName], reducing the once powerful nation to naught and quieting major resistance. Public opinion in [Root.GetNameDef] is beginning to turn against the war, with many advocating for peace due to the war dragging on for such an extended period. Shall we seek peace, or can we continue the fight?"
+bulgaria.99.a:0 "Yes, this war has dragged on for far too long."
+bulgaria.99.b:0 "No, we must fight for our [BUL.GetAdjective] brothers!"
+
 bulgariaflavour.1.t:0 "불가리아 농업 연합 피켓!"
 bulgariaflavour.1.d:0 "Following the disastrous effects on Black Monday, it seems as though our economically tenuous position has only caused us harm with the members of the Bulgarian Agrarian National Union picketing and protesting outside of the offices of key Liberal officials, demanding that the government intervene on behalf of the farmers. This has done little more than place greater pressure on us, while also spreading disunity within the nation..."
 bulgariaflavour.1.a:0 "빌어먹을..."
@@ -654,7 +659,7 @@ bulgariaflavour.6.d:0 "Today is the 1st of May, universally known as the Interna
 bulgariaflavour.6.a:0 "알겠다..."
 
 bulgariaflavour.7.t:0 "독립 기념일"
-bulgariaflavour.7.d:0 "On the 5th of October, Tsar Ferdinand I of Bulgaria, who was then Prince Ferdinand, had proclaimed the independence of [Root.GetName] in Tarnovo. This had been a momentous occasion of our great nation, as it allowed for us to gain our de jure independence and fully free ourselves from the grip of the treacherous Ottoman Empire. Following the declaration of independence, we've met much success throughout the years, especially during our time spent fighting in the Weltkrieg."
+bulgariaflavour.7.d:0 "On the 22nd of September, Tsar Ferdinand I of Bulgaria, who was then Prince Ferdinand, had proclaimed the independence of [Root.GetName] in Tarnovo. This had been a momentous occasion of our great nation, as it allowed for us to gain our de jure independence and fully free ourselves from the grip of the treacherous Ottoman Empire. Following the declaration of independence, we've met much success throughout the years, especially during our time spent fighting in the Weltkrieg."
 bulgariaflavour.7.a:0 "차르에게 건배!"
 
 bulgariaflavour.8.t:0 "솔룬 정복!"
