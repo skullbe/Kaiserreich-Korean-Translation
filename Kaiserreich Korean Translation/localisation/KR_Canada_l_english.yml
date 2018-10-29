@@ -141,13 +141,21 @@ entente_research_desc:0 "제국 과학 학술 위원회는 대영제국과 협�
 SCHEME_1_BYPASS:0 "제 1호 방위 계획이 만료되다."
 END_ACW:0 "제 2차 미국 내전이 끝났습니다."
 imperial_conference_36_over:0 "1936년 제국 회의가 끝났습니다"
-CAN_supports_usa:0 "미합중국 정부 지지"
-CAN_acw_intervention:0 "미합중국에 있는 우리의 관심사를 보호"
 CAN_puppet_ENG_or_all_cores:0 "모든 [ENG.GetAdjective]의 코어를 §Y[CAN.GetNameDef]§!나 그 종속국이 소유하고 통제하고 있습니다."
 CAN_puppet_SCT_or_all_cores:0 "모든 [SCT.GetAdjective]의 코어를 §Y[CAN.GetNameDef]§!나 그 종속국이 소유하고 통제하고 있습니다."
 CAN_puppet_WAL_or_all_cores:0 "모든 [WAL.GetAdjective]의 코어를 §Y[CAN.GetNameDef]§!나 그 종속국이 소유하고 통제하고 있습니다."
 CAN_release_GBR:0 "§Y[GBR.GetNameDefCap]§!이 만들어 질 것입니다."
 USA_broke_promise:0 "그들의 약속을 어긴다"
+
+CAN_acw_intervention:0 "We have decided to Support one of the Sides"
+CAN_taking_land:0 "Protecting our Interests in the USA"
+CAN_supports_psa:0 "Canada Supports the PSA"
+CAN_supports_aus:0 "Canada Supports the AUS"
+CAN_supports_usa:0 "Canada Supports the USA"
+
+
+
+
 
 ### Parties ###
 CAN_totalist_party:0 "캐나다 공산당"
@@ -210,6 +218,8 @@ CAN_recognized_USA:0 "캐나다는 미합중국 연방 정부를 인정했다."
 CAN_recognized_PSA:0 "캐나다는 태평양 주 정부를 인정했다."
 CAN_give_connected_to_CAL:0 "연결될 수있는 모든 미국 코어는 §Y[NEE.GetNameDef]§에 제공됩니다!\n"
 CAN_give_connected_to_NEE:0 "연결될 수있는 모든 미국 코어는 §Y[NEE.GetNameDef]§에 제공됩니다!\n"
+CAN_RESERVES_tooltip:0 "We shall call forth Canadian Reserves to defend Canada."
+CAN_lawoob_tt:0 "Several divisions of loyalist volunteers will arise throughout Britain"
 
 ### Opinion Modifiers ###
 CAN_BROADCAST_ENG:0 "캐나다 선전에서의 분노"
@@ -501,18 +511,20 @@ CAN_god_save_canada_desc:0 "오 캐나다! / 우리의 집과 조국!/ 그대의
 ### Decisions ###
 CAN_american_civil_war_decisions:0 "미국 내전"
 CAN_american_civil_war_decisions_desc:0 "상상할 수 없는 일이 일어났고, 우리의 남부 이웃들은 혼란에 빠졌습니다. 설상가상으로, 국경에 있는 주요 생디칼리스트 세력의 위협은 우리가 대서양을 가로지르는 우리의 관심을 돌릴 가능성을 위협합니다. 우리는 무엇인가를, 빠르게 해야 합니다."
-CAN_pact_with_the_USA:0 "미합중국과의 조약을 제안하다"
-CAN_pact_with_the_USA_desc:0 "미국 정부에 대한 우리의 지지를 확인해 온 만큼, 이제는 내전에 손을 댈 때입니다. 불가침 조약, 군사 통행권, 배타적 무역권 등이 시작하기 좋은 곳입니다. 물론, 이것은 우리에게 필요하다면, 우리에게 갈등에 대한 초대장을 열어 주고, 우리가 신중하게 판단할 선택권을 주며, 만약 우리가 개입한다면 우리는 미래에 미국인들이 보답하기를 기대할 것입니다."
-CAN_intervene_in_ACW:0 "내전에 개입"
-CAN_intervene_in_ACW_desc:0 "아메리카 내전에서 우리의 동맹들은 입지를 잃어 가고 있습니다. 만약 우리가 곧바로 행동하지 않는다면, 우리는 미국 국경에서 통일되고 적대적인 미국의 주와 직면하게 될 것입니다. 지금이 개입해야 할 때입니다 - 즉시 미국의 동맹국들과 접촉하여 분쟁에 대한 우리의 입장을 발표해야 됩니다."
-CAN_alliance_with_USA:0 "미국과의 동맹"
-CAN_alliance_with_USA_desc:0 "내전은 끝났고, 이제는 우리가 미국과 맺은 협정을 공식화하고 그들을 공식적으로 협상국으로 가입시켜야 할 때입니다."
-CAN_recognize_the_PSA:0 "미 태평양 합중국 공인"
-CAN_recognize_the_PSA_desc:0 "서부에서 분리된 미합중국의 주들, 이른바 '[CAL.GetName]'는 남쪽에 남은 유일한 위대한 민주주의 국가입니다. 우리는 아마도 그들을 미래에 협상국 동맹에 가입시킬 수 있다는 희망으로 그들에게 우리의 지원을 제공해야 합니다."
-CAN_alliance_with_PSA:0 "미 태평양 합중국과의 동맹 제안"
-CAN_alliance_with_PSA_desc:0 "이제 우리는 태평양 합중국과 관계를 구축했으므로, 우리는 그들을 공식적으로 협상국에 가입시키도록 노력해야 합니다. 대륙에 있는 동맹국은 우리를 공격하는 적을 상대하고 대적할때 엄청난 이점을 제공할 것이고, 우리가 내전에 개입하기로 결정한다면, 그들은 우리에게 합법적인 청구인과 측면을 가져다 줄것입니다."
-CAN_demand_oregon:0 "오리건 주 요구"
-CAN_demand_oregon_desc:0 "현재 오리건, 워싱턴, 아이다 호에 있는 영토는 원래 허드슨 만 회사에 의해 소유되었고 따라서 제국의 일부가 되었습니다. 그것은 어리석게도 1848년에 미국인들에게 양도되었습니다. 그들의 정부가 붕괴되었으니 이제는 마땅히 우리의 것이었던 것을 되찾아야 할 때입니다."
+
+CAN_recognize_the_USA:0 "Recognize the United States as the Legitimate America"
+CAN_recognize_the_USA_desc:0 "The federal government in America is the legitimate America all others are seeking to destroy it. . We should support them and make sure that we have a strong ally in the south against the godless syndicalists. "
+
+CAN_recognize_the_PSA:0 "Recognize the Pacific States as the Legitimate America"
+CAN_recognize_the_PSA_desc:0 "The various American states in the western part of the country that have formed the so called Pacific States are claiming that they are the true and legitimate America. Perhaps we should recognize them as such?"
+
+CAN_recognize_the_AUS:0 "Recognize the American Union State as the Legitimate America"
+CAN_recognize_the_AUS_desc:0 "The so called American Union State lead by Huey Long is the legitimate America. Supporting him and his cause to cleanse America will give us a strong southern friend against godless syndicalism. "
+
+
+
+CAN_intervene_in_ACW_USA:0 "내전에 개입"
+CAN_intervene_in_ACW_USA_desc:0 "아메리카 내전에서 우리의 동맹들은 입지를 잃어 가고 있습니다. 만약 우리가 곧바로 행동하지 않는다면, 우리는 미국 국경에서 통일되고 적대적인 미국의 주와 직면하게 될 것입니다. 지금이 개입해야 할 때입니다 - 즉시 미국의 동맹국들과 접촉하여 분쟁에 대한 우리의 입장을 발표해야 됩니다."
 CAN_declare_war_on_CSA:0 "남부 생디칼리스트를 멈추다"
 CAN_declare_war_on_CSA_desc:0 "[CSA.GetNameDef]가 남쪽에서 내전에서 승리할 위기에 처해 있습니다. 그들은 강하지만, 우리는 지금 그들과 맞서야 합니다... 아니면 나중에 그들이 완전히 회복하고 힘을 모으면 그들과 직면할 위험을 감수해야 합니다. 우리는 인터내셔널이 우리의 남쪽 국경에서 세계적인 힘을 갖게 할 수 없습니다. 하느님께서 우리가 해야 할 일을 용서해 주시기를 바랍니다. 그러나 남쪽을 침략할 때가 왔습니다."
 CAN_declare_war_on_CSA_player:0 "남부 생디칼리스트를 멈추다"
@@ -1375,7 +1387,7 @@ canada.308.d:0 "독일은 우리의 조약에 서명하기를 거부했습니다
 canada.308.a:0 "불쾌한 독일놈들"
 
 canada.309.t:0 "조약 이행"
-canada.309.d:0 "우리는 신을 믿지 않는 브리튼 연방의 생디칼리스트를 상대로 승리를 거뒀습니다. 하지만 캐나다 대사는 브리튼 연방이 패배할 경우 브리튼 제도를 넘기기로 조약을 맺었다고 말했습니다. 이제 그들과 맺은 조약을 존중해야 할까요, 아니면 우리의 계획을 따라야 할까요?"
+canada.309.d:0 "우리는 신을 믿지 않는 브리튼 연방의 생디칼리스트를 상대로 승리를 거뒀습니다. 하지만 영국 대사는 브리튼 연방이 패배할 경우 브리튼 제도를 넘기기로 조약을 맺었다고 말했습니다. 이제 그들과 맺은 조약을 존중해야 할까요, 아니면 우리의 계획을 따라야 할까요?"
 canada.309.a:0 "조약을 존중하라"
 canada.309.b:0 "우린 우리의 계획이 있다"
 
@@ -1520,7 +1532,21 @@ canada.857.d.withusa:0 "아메리카 내전에 대한 우리의 개입은 재앙
 canada.857.d.nousa:0 "아메리카 내전에 대한 우리의 개입은 재앙으로 끝났습니다. 우리가 지금 할 수 있는 것은 평화를 요구하는 것입니다. 이는 의심할 여지없이 나중에 그들의 모든 힘을 회복하게 되면 [TEX.GetNameDef]과 직면하게 되는 것을 의미합니다, 그러나 그들은 현재로서는 우리에게 보복을 하는 것보다 전쟁에서 승리하는 것에 더 관심이 있을 것입니다."
 
 canada.858.t:0 "평화를 요구하는 캐나다"
-canada.858.d:0 "[CAN.GetNameDef]는 아메리카의 일에 간섭해서 감당할 수 없을 만큼의 일을 한 것처럼 보입니다. 이제 우리에게 다가와서, 다리 사이로 꼬리를 내리고, 평화를 구걸하고 있습니다. 우리 정부의 일부는 전쟁을 끝내고 전쟁을 처리하는 데 집중해야 한다고 제안하지만, 다른 이들은 우리가 이 전쟁에서 이길 수 있고 정당하고 명백한 사명을 북 아메리카 전체에 가져올 수 있다고 말합니다."
+canada.858.d:0 "[CAN.GetNameDef]는 아메리카의 일에 간섭해서 감당할 수 없을 만큼의 일을 한 것처럼 보입니다. 이제 우리에게 다가와서, 다리 사이로 꼬리를 내리고, 평화를 구걸하고 있습니다."
+
+canada.870.t:0 "Canada Supports Federal Government"
+canada.870.d:0 "The Canadian government today announced its support of the embattled Federal government. This raises the possibility that the Entente will send military equipment and even volunteers to help [USA.GetNameDef]...and, if it begins to lose the civil war, might even mean direct intervention."
+canada.870.a:0 "They're interfering in American affairs! They dare?!"
+
+canada.871.t:0 "Canada Supports the Pacific States"
+canada.871.d:0 "The Canadian government today announced its support of the embattled [CAL.GetAdjective] government, declaring them the last remnant of true American freedom and democracy. This raises the possibility that the Entente will send military equipment and even volunteers to help [CAL.GetNameDef]...and, if it begins to lose the civil war, might even mean direct intervention."
+
+canada.872.t:0 "Canada Supports the Union"
+canada.872.d:0 "The Canadian government today announced its support of the embattled [TEX.GetAdjective] government under [TEX.GetLeader]. This raises the possibility that the Entente will send military equipment and even volunteers to help [TEX.GetNameDef]...and, if it begins to lose the civil war, might even mean direct intervention."
+
+canada.873.t:0 "Canadian Intervention Looms"
+canada.873.d:0 "Reports from the north indicate the Canadian government has become increasingly nervous of a victory by [Root.GetAdjective] forces in the American civil war. Already they are staging a larger number of forces along our common border, and their government is preparing for direct intervention. We should alert our forces and watch for the order to be given, so we are not taken unawares."
+canada.873.a:0 "If they come, they will pay"
 
 canada.360.t:0 "엘리자베스 공주의 라디오 연설"
 canada.360.d:0 "오늘 에드워드 왕의 동생인 앨버트 왕자의 딸인 엘리자베스 공주가 제국 전역의 아이들에게 라디오로 연설을 했습니다. 그녀는 제국을 통틀어 생디칼리스트로부터 고향 섬을 되찾아 오는 부모님들을 당분간 다시 볼 수 없을 아이들에게 동정과 연민을 표현했습니다."
