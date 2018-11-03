@@ -234,9 +234,9 @@ CSA_destroy_longist_decision:0 "롱주의적 테러리스트들을 파괴하라"
 
 ### Reconstruction Focuses ###
 CSA_rebuilding_the_country:0 "국가 재건"
-CSA_rebuilding_the_country_desc:0 "위대한 미국 혁명은 종료되었습니다. 그러나 내전의 상처는 우리를 계속 출혈시키며 약화시키고 있습니다. 따라서 과거의 폐허로부터 우리는 반드시 평등하고 공정하며 오래가는 미국을 서둘러 만들어야 할 필요가 있습니다.“
+CSA_rebuilding_the_country_desc:0 "위대한 미국 혁명은 끝이 났지만, 우리가 이 나라에 내버린 상처는 손을 쓰지 않는 한 계속 곪아 피를 흘릴 것입니다. 우리는 낡은 폐허에서 평등하고 영속적인 미국을 건설하기 위해 서둘러야만 합니다." 
 CSA_social_revolution:0 "사회 혁명"
-CSA_social_revolution_desc:0 "자유의 땅과 용자들의 고향은 중요합니다. 우리는 미국의 부패와 인종주의 그리고 쇼비니즘을 모두 치우고 절단해야 합니다. 그러나 가장 중요한 것은 이 모든 것의 핵심인 자본주의 체제를 파괴하는 것입니다!"
+CSA_social_revolution_desc:0 "자유의 땅과 용감한 이들의 고향이 무엇이든 간에, 우리는 미국을 부패, 인종주의와 우월주의로부터 해방시키기 위해 노력해야 합니다. 하지만 우선 우리는 이 모든 것의 핵심인 자본주의 체제 자체를 무너뜨려야만 합니다!" 
 CSA_redistribute_wealth:0 "재산 재분배"
 CSA_redistribute_wealth_desc:0 "우리는 수백만 달러를 사용할 수 있으면서도 아무것도 안하는 사람들과 하루 동일 일하면서도 겨우 비참한 삶을 연장하는 수백만의 무산자 계급의 공존을 옹호하는 사회 질서를 더 이상 용인하지 않을 것입니다. 은행과 자본 축적가 그리고 기업가들은 모두 여기서 끝날 것입니다.“
 CSA_homes_for_the_people:0 "인민들에게 집을"
@@ -264,8 +264,8 @@ CSA_reconstruction_is_over_desc:0 "이 국가가 저지른 범죄들은 마침�
 CSA_a_new_america:0 "새로운 미국"
 CSA_a_new_america_desc:0 "세상에서 게으른 벌을 가지고 국가는 우리밖에 없을 겁니다. 우리는 광범위한 토대를 닦아 놓았으며, 하늘을 향한 돌을 쌓아 올렸습니다. 우리는 노예가 아니라 주인으로써 이 모든 것을 소유했습니다. 노동조합은 우리를 강하게 합니다!“ 
 ### American Commonwealth Focuses ###
-CSA_second_convention:0 "Second Constitutional Convention"
-CSA_second_convention_desc:0 "The time has come to decide the next step in our revolutionary struggle, to find a way to unite workers behind a single cause and ideology. Like it was, over a century ago, we shall let Philadelphia be the site of a Constitutional Convention!"
+CSA_second_convention:0 "2차 헌법 제정 회의" 
+CSA_second_convention_desc:0 "우리의 혁명 투쟁의 다음 단계를 결정할 때가 왔습니다. 단 하나의 대의와 이념 아래 노동자들을 통합할 방법을 찾기 위해서 말입니다. 한 세기 전에 그랬듯이, 우리는 필라델피아에서 헌법 제정 회의를 열 것입니다!" 
 CSA_american_commonwealth:0 "Commonwealth of Labor"
 CSA_american_commonwealth_desc:0 "We did not come this far just to fall back into tyranny, our monumental support in the Constitutional Convention has shown that Libertarian Socialism will reign, not just in the form of hypocritical romantic nationalism, but as social and economic freedom for all workers and toilers of our nation! This will cover the first Amendments."
 CSA_protect_the_working_class:0 "Protect the Working Class"
