@@ -19,8 +19,8 @@ TEX_authoritarian_democrat_party:0 "미국제일당"
 TEX_authoritarian_democrat_party_long:0 "미국제일당"
 TEX_paternal_autocrat_party:0 "비상대권위원회"
 TEX_paternal_autocrat_party_long:0 "비상대권위원회"
-TEX_national_populist_party:0 "은빛 군단"
-TEX_national_populist_party_long:0 "은빛 군단"
+TEX_national_populist_party:0 "은색 군단"
+TEX_national_populist_party_long:0 "은색 군단"
 
 ### Cosmetic Tag ###
 TEX_united_states_social_democrat:0 "미합중국"
@@ -99,7 +99,7 @@ TEX_industrial_security_act_idea:0 "산업보장법"
 
 TEX_work_camps_idea:0 "노동 캠프"
 TEX_forced_labor_idea:0 "강제 노동 캠프"
-TEX_the_silver_legion_idea:0 "은빛 군단"
+TEX_the_silver_legion_idea:0 "은색 군단"
 TEX_jim_crows_america_idea:0 "짐 크로의 미국"
 TEX_white_welfare_idea:0 "백인 복지"
 TEX_christian_education_idea:0 "기독교 교육"
@@ -229,8 +229,8 @@ TEX_join_german_tech_desc:0 "우리는 카이저 빌헬름 학회에 참여하�
 
 
 ### Huey Long Path ###
-TEX_new_washington:0 "신 워싱턴"
-TEX_new_washington_desc:0 "미국 신정부의 새 보금자리는 전통적 수도라는 낡은 족쇄를 벗어버리고 세 줄기의 권력(정치, 경제, 군사)을 잡을 수 있는 안전하고 방어적이고 장소로 다시 재건될 것입니다. 바리케이드를 치기에는 현재의 도로는 너무 넓고, 구조물은 현재 비상 전원으로 공급되어야 하며, 주민들의 대피소가 확보되어야 합니다."
+TEX_new_washington:0 "새로운 워싱턴"
+TEX_new_washington_desc:0 "새로운 미국 정부의 새 보금자리는 전통적 수도라는 낡은 족쇄를 벗어버리고 세 줄기의 권력(정치, 경제, 군사)을 잡을 수 있는 안전하고 방어적이고 장소로 다시 재건될 것입니다. 바리케이드를 치기에는 현재의 도로는 너무 넓고, 구조물은 현재 비상 전원으로 공급되어야 하며, 주민들의 대피소가 확보되어야 합니다."
 TEX_root_out_out_traitors:0 "반역자 색출"
 TEX_root_out_out_traitors_desc:0 "유죄 판결을 받은 반역자들의 뒤를 이어, 휴이 각하는 우리를 상대로 음모를 계획했던 기업 중역들과 접촉하고 있는 일련의 의원 모임을 발견했습니다. 비록 그들이 현재는 철창에 있지만, 몇몇은 정치적 수단을 통해서는 붙잡히지 않았습니다. 우리는 체포된 리차드 버틀러가 그의 망명을 대가로 더 많은 반역자를 실토하도록 조사하고 있습니다."
 TEX_expand_the_minute_men:0 "미닛맨 확충"
@@ -309,7 +309,7 @@ TEX_republic_without_democracy_desc:0 "The American public is now in agreement t
 ### Pelley Path ###
 TEX_mine_have_seen_the_glory:0 "영광이 내 눈에 보이네"
 TEX_mine_have_seen_the_glory_desc:0 "It took many Americans by surprise to hear Huey Long's confession of being a syndicalist broadcast that night. The initial backlash could have ended the brief revolution had the Silver Legion faltered. Thankfully, the American Legion and Prohibition Party had deserted Long after his betrayal of his promises. This is the beginning of a new America."
-TEX_the_silver_legion:0 "은빛 군단"
+TEX_the_silver_legion:0 "은색 군단"
 TEX_the_silver_legion_desc:0 "The Silver Legion is currently the unofficial head of the American Legion, with propaganda delivered slowly through agents. This has led to pockets of dissent in some American Legion outposts. We must identify these dissidents and redistribute them to far flung outposts in order to minimize their potential."
 TEX_absorb_the_klan:0 "KKK 흡수"
 TEX_absorb_the_klan_desc:0 "Hiram Wesley Evans has been officially inducted into the Silver Legion at a mass Klan gathering in the capital today. His word carries weight in the KKK and will be essential to reel in the Klan. We will also require that Klansmen no longer conceal their faces. In order to use the influence of members to the fullest extent."
@@ -329,7 +329,7 @@ TEX_segregation_forever:0 "Segregation Forever"
 TEX_segregation_forever_desc:0 "Our inability to stop protesters from returning each day despite the beatings and the bullets proved to be an intriguing challenge. The Silver Legion has decided to employ an overwhelming alliance to out-shout the dissidents by calling up segregationist organizations in the South and inviting them to the Capital."
 TEX_christian_commonwealth:0 "기독교 공동체"
 TEX_christian_commonwealth_desc:0 "Pelley's grand vision of the American Commonwealth is a country free of debt and bonds by turning the entire government into a gigantic corporation. Inalienable rights are given, not promised to native born Americans in the form of stocks that pay annual dividend or 'credits' to citizens that vote on their Silver Legion representative."
-TEX_white_welfare:0 "시민을 위한 공공복지"
+TEX_white_welfare:0 "백인만을 위한 공공복지"
 TEX_white_welfare_desc:0 "First order is to determine who is a true natural citizen and deserving of stock in the Common-wealth. They must be able to trace their ancestry to original voters at the time of the American Revolution, or have sworn a new oath the Silver Legion has prepared to dedicate their lives and they dynasty to Christians Identity forever."
 TEX_christian_education:0 "기독교 교육"
 TEX_christian_education_desc:0 "Harvard's Divinity School should have been the gold standard for education since its inception. The education of Christians is essential to the Silver Legion's long life, and to do that we should fund divinity schools across the nation in the Harvard Model. Introspection into the secrets of Christianity will stop syndicalist thought."
