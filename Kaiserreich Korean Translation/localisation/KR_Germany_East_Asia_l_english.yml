@@ -28,7 +28,7 @@ GEA_Valkyrie_tech_effect:0 "Enables §HRide of the Valkyries§!\n§HField Hospit
 
 ### Tooltips ###
 GEA_valkyrie_tt:0 "§GRide of the Valkyries§! 전투로 인한 우리의 사상자 수를 크게 줄일 것입니다.\n"
-Poliregiment:0 "§G이 중점은 해당 지역 내의 헌병 연대에게 전투 태세를 명령할 것입니다.§!\n"
+Polizeiregiment:0 "§G이 중점은 해당 지역 내의 헌병 연대에게 전투 태세를 명령할 것입니다.§!\n"
 Prussian:0 "§G이 중점은 우리 군대를 지원하기 위해 엘리트 연대를 독일 동아시아 회사에 파견할 것을 요구할 것입니다.§!\n"
 Natives:0 "§G이 중점은 우리 군대를 강화하기 위해 우리의 통치 하에 있는 지역 지도자들에게 허용된 세력을 통합할 것입니다.§!\n"
 Rights:0 "§G이 중점은 우리 군사력을 강화하기 위해 우리의 통치 하에 있는 지역 지도자들에게 허용된 병력을 통합할 것입니다.§!\n"
@@ -37,14 +37,15 @@ Forts:0 "§G이 중점은 원하는 지역에 요새 방어선을 세울 것입�
 GEA_Anti_Invasion_Plan:0 "§G이 중점은 취약한 지역에 반 침략군을 조직할 것입니다.§!\n"
 GEA_Deploy_Local_Guards:0 "§G이제 현지 경비병으로부터 군대를 모집 할 수 있습니다.§!\n"
 GEA_Send_Advisory_Groups:0 "§G당신이 소유한 주에 독일 자문단이 보내집니다.§!\n"
-GEA_Fleet_will_arrive:0 "§YA새로운 함대가 동아시아 함대에 합류하게 될 것입니다.§!\n"
-GEA_I_WANT_BC:0 "§Y두 대의 새로운 전함이 동아시아 함대의 지휘에 놓이게 될 것입니다.§!\n"
-GEA_I_WANT_BB:0 "§YA건설 중인 강력한 전함 SMS Neckar가 우리의 새로운 기함이 될 것입니다.§!\n"
+GEA_Fleet_will_arrive:0 "§YA새로운 함대가 결성되어 동아시아 함대에 합류하게 될 것입니다. 다만, 함대가 도착하기까지 다소 시간이 소요될 것입니다.§!\n"
+GEA_I_WANT_BC:0 "§Y두 대의 새로운 전함이 동아시아 함대의 지휘에 놓이게 될 것입니다. 다만, 전함이 아직 완성되지 않았습니다.§!\n"
+GEA_I_WANT_BB:0 "§YA건설 중인 강력한 전함 SMS Neckar가 우리의 새로운 기함이 될 것입니다. 다만 완성되기까지 다소 시간이 소요될 것입니다.§!\n"
 GEA_FLATTOP_HERESY:0 "§R당신은 카이저리헤 마리네의 전통적인 교리에서 벗어나고 있습니다. 이렇게 하면 문제가 생길 수 있습니다.§!\n"
-GEA_I_WANT_CARRIER:0 "§YA건설중인 새로운 전함은 평상선으로 변경될 것입니다.§!\n"
+GEA_I_WANT_CARRIER:0 "§YA건설중인 새로운 전함은 평상선으로 변경될 것입니다. 다만 시간이 조금 걸릴 것입니다.§!\n"
 GEA_new_ship_tooltip:0 "§G새로운 군함이 싱가포르에 도착합니다.§!\n"
 GEA_Tonkin:0 "통킹"
 GEA_Cochinchina:0 "코친차이나"
+GEA_prusguard_tt:0 "새로운 3개의 프로이센 경비 사단이 생길 것입니다."
 
 ### Focuses ###
 GEA_mission1:0 "해군성의 지위"
