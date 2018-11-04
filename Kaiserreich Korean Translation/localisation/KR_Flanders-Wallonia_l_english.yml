@@ -30,7 +30,7 @@ BEL_Language_Trouble_desc:0 "인구의 대다수가 네덜란드어를 사용하
 BEL_Protest_1936:0 "벨기에 혁명"
 BEL_Protest_1936_desc:0 "시위 운동! 2월 17일 브뤼셀의 공격으로 시작된 저항이 마침내 지상으로 치닫고 있습니다. 파업, 테러 행위, 시위가 전국을 뒤흔들고 있습니다. 그 상황을 조심스럽고 세심하게 다루어야만 재앙을 막을 수 있습니다."
 BEL_German_Immigration:0 "독일 이주민"
-BEL_German_Immigration_desc:0 "왈로니아를 진정시키고 독일 제국에 이 지역을 통합시키기위한 노력의 일환으로, 아달베르트 왕은 독일 시민들이 왈로니아에 정착하도록 권장했습니다."
+BEL_German_Immigration_desc:0 "왈로니아를 진정시키고 독일 제국에 이 지역을 통합시키기위한 노력의 일환으로, 아델베르트 왕은 독일 시민들이 왈로니아에 정착하도록 권장했습니다."
 BEL_Caritas_idea:0 "카리타스"
 BEL_Caritas_idea_desc:0 "플랑드르-왈로니아에 있는 가톨릭 교회는 가난한 사람들을 돕고 "카리타스"라는 이름으로 어려움을 겪고있는 사람들을 돕기 위한 여러 프로그램을 만들었습니다."
 BEL_Flemish_Lion:0 "플라망의 사자"
@@ -96,7 +96,7 @@ BEL_Cement_Export:0 "시멘트 수출"
 BEL_Cement_Export_desc:0 "검은 월요일 위기로 인해 제국 조약의 많은 정부는 복구를 시작하기 위해 대규모 건설 프로젝트에 자금을 지원하기로 결정했습니다. 우리는 시멘트 수출을 확대함으로써 큰 석유 화학, 철강 및 섬유 산업이 회복 될 때까지 우리 경제를 다시 도울 수 있게 도와줌으로써 기꺼이 이익을 얻고 있습니다."
 BEL_Abolish_Flemish_Council_idea:0 "플랑드르 의회 폐지"
 BEL_Abolish_Flemish_Council_idea_desc:0 "군주와 그의 측근 보좌관들을 중심으로 권력을 분산시키려는 노력의 일환으로, 정부는 플랑드르 의회를 폐지했습니다."
-BEL_Flemish_Council_desc:0 "아달베르트의 뒤에 플랑드르 주민들을 정렬시키기 위해, 그는 지역 특권층에게 보다 결정적인 집행 권한을 허용하는 옛 권한을 보장하고 복원했습니다."
+BEL_Flemish_Council_desc:0 "아델베르트의 뒤에 플랑드르 주민들을 정렬시키기 위해, 그는 지역 특권층에게 보다 결정적인 집행 권한을 허용하는 옛 권한을 보장하고 복원했습니다."
 BEL_Flemish_Council:0 "플랑드르 의회의 특권"
 BEL_Create_VRT:0 "NIR"
 BEL_Create_VRT_desc:0 "NIR은 이제부터 독일과 정부 자문 위원단에 의해 관리되는 라디오와 텔레비전 프로그램만을 송신할 것입니다."
@@ -133,6 +133,8 @@ BEL_Air_Defence_Of_Territory:0 "지역 방공"
 BEL_Exempt_Walloons:0 "헌병대 확장"
 BEL_Feldgendarmerie:0 "헌병대 확장"
 BEL_Vlaamse_Wacht:0 "플랑드르 경비대 확장"
+BEL_Flemish_Pride:0 "플랑드르 경비대 확장"
+BEL_Increased_Recruitement:0 "플랑드르 징병 증강"
 
 ### Focus Trees ###
 
@@ -148,15 +150,15 @@ BEL_Investigate_Political_Schandal_desc:0 "독일 위원회에 의한 최근의 
 BEL_Abolish_Flemish_Council:0 "플랑드르 의회 폐지"
 BEL_Abolish_Flemish_Council_desc:0 "플랑드르 의회는 플랑드르가 문제에 대해 발언권을 가졌던 시절의 유물입니다. 이것은 없어져야 하고 우리의 믿을 만한 조언자들로 구성된 내각에 의해 대체되어야 합니다."
 BEL_Strong_Royal_Power:0 "강한 국왕의 권력"
-BEL_Strong_Royal_Power_desc:0 "아달베르트 왕의 통치는 최고이며 그의 권력에 의문을 제기하는 모든 자는 처벌 받을 것입니다!"
+BEL_Strong_Royal_Power_desc:0 "아델베르트 왕의 통치는 최고이며 그의 권력에 의문을 제기하는 모든 자는 처벌 받을 것입니다!"
 BEL_Reintroduce_Census_Voting:0 "선거 시스템 개혁"
 BEL_Reintroduce_Census_Voting_desc:0 "우리의 투표 시스템을 전면 개편함으로써 우리는 정치 불안에 대한 대가로 정치 상황을 더욱 강력하게 통제할 수 있게 될 것입니다."
 BEL_Expand_Feldgendarmerie:0 "헌병대 확장"
 BEL_Expand_Feldgendarmerie_desc:0 "야전 헌병대는 우리의 특별한 독일 경찰 부서이며 가장 충성스러운 지원자입니다. 독일군을 이 병력에 추가로 모집함으로써 우리는 저항에 대해 보다 효과적으로 단속 할 수 있습니다."
 BEL_Increase_Suppression:0 "진압 증가"
 BEL_Increase_Suppression_desc:0 "불안을 줄이는 가장 좋은 방법은 선전을 가능한 한 많이 하는 것입니다. NIR을 설립함으로써 우리는 라디오와 텔레비전에 대한 완전한 통제권을 갖게 될 것이며, 우리 국민이 보고 듣는 것을 결정할 것입니다."
-BEL_Ban_Cooperatives:0 "협동조합 금지"
-BEL_Ban_Cooperatives_desc:0 "더 이상의 반란을 막기 위해서는 협력체로 시작하는 우리나라의 모든 생디칼리스트 조직을 없애야 합니다."
+BEL_Ban_Cooperatives_f:0 "협동조합 금지"
+BEL_Ban_Cooperatives_f_desc:0 "더 이상의 반란을 막기 위해서는 협력체로 시작하는 우리나라의 모든 생디칼리스트 조직을 없애야 합니다."
 BEL_Enforce_German_Education:0 "독일식 교육 강요"
 BEL_Enforce_German_Education_desc:0 "어린 나이때부터 독일식 교육을 더욱 강화함으로써 우리는 우리 국민들을 통제할 수 있습니다."
 BEL_Join_The_Kaiser_Research:0 "카이저 빌헬름 학회에 가입"
@@ -188,7 +190,7 @@ BEL_Rally_Behind_the_Lion_desc:0 "플랑드르를 지원하는 가장 좋은 방
 BEL_Stop_the_Flamenpolitik:0 "플라망 정책 중지"
 BEL_Stop_the_Flamenpolitik_desc:0 "플라망 정책은 원래 세계대전 기간 동안 독일인 거주자들에 의해 설립되었고 왈로니아위의 플랑드르를 밀어냄으로써 내부 분열을 유발하는 정책을 지시했습니다. 내부 분열을 유발하려는 원래 의도는 성공적이었지만, 이것은 독일을 훨씬 덜 안정된 국가로 만들었고 왈로니아 인구의 독일 체제에 대한 강한 혐오감을 가져왔습니다."
 BEL_Restore_the_law_Lejeune:0 "르준 법 복구"
-BEL_Restore_the_law_Lejeune_desc:0 "1914년 독일의 정권 이양 이후, 19세기 벨기에 사람들이 얻었던 많은 자유들이 되돌려 졌습니다. 아달베르트 1세에 의해 계속되어 왔던 언론, 사법 제도, 그리고 집행부에 대한 통제는 모두 중앙 집권 독일 정권으로 모두 이양되었습니다. 이 권리를 서서히 국민에게 돌려주고 진정한 민주주의 체제를 재건함으로써 벨기에 민족주의와 망명한 왕 알버트 1세에 대한 충성을 해야 합니다."
+BEL_Restore_the_law_Lejeune_desc:0 "1914년 독일의 정권 이양 이후, 19세기 벨기에 사람들이 얻었던 많은 자유들이 되돌려 졌습니다. 아델베르트 1세에 의해 계속되어 왔던 언론, 사법 제도, 그리고 집행부에 대한 통제는 모두 중앙 집권 독일 정권으로 모두 이양되었습니다. 이 권리를 서서히 국민에게 돌려주고 진정한 민주주의 체제를 재건함으로써 벨기에 민족주의와 망명한 왕 알버트 1세에 대한 충성을 해야 합니다."
 BEL_Rijkswacht:0 "헌병대 설립"
 BEL_Rijkswacht_desc:0 "Our Crime Figthing network is an absolute mess with the Vlaams Wacht, Feldgendarmerie and normal police forces all handle specific parts of the task leading to great unnecessary expenditure and distrust between the different branches. A new proposal by a coalition of parties in the parliament has now offered the creation of 1 centralised force, the Rijskwacht to take over all other branches except the secret service."
 BEL_BWP_Victory:0 "BWP Victory"
@@ -449,7 +451,7 @@ BEL_Air_Support_for_Germany:0 "Air Support for Germany"
 BEL_Air_Support_for_Germany_desc:0 "Why spend resources on expanding the air force when we can just rely on the German one? Through some clever deals and by reverse engineering some of their designs, our constructors at SABCA and Renard will surely come up with improvements."
 BEL_Cover_The_Fortress_Line:0 "Cover the Fortress Line"
 BEL_Cover_The_Fortress_Line_desc:0 "The German Army has tasked us with guarding the Ludendorfflinie and to stop any French threat right in its heels. Sufficient air cover will of course be a requirement for that."
-BEL_Feldgendarmerie:0 "Expand the Feldgendarmerie"
+#BEL_Feldgendarmerie:0 "Expand the Feldgendarmerie" already defined above as an idea
 BEL_Feldgendarmerie_desc:0 "The Vlaamse Wacht has failed in its duties and can no longer be trusted with securing a loyal nation. To replace them, we have shifted our focus to the German Feldgendarmerie composed of German immigrants and our most loyal followers."
 BEL_Exempt_Walloons_From_the_Army:0 "Exempt Walloons From the Army"
 BEL_Exempt_Walloons_From_the_Army_desc:0 "We cannot trust the Wallonian people in maintaining order nor do they have the loyalty of our Flemish divisions. Should the French attack, they would be a liability and should therefore be removed before disaster strikes."
@@ -467,8 +469,8 @@ BEL_Increase_FN_Funding:0 "Increase FN Funding"
 BEL_Increase_FN_Funding_desc:0 "FN is our major weapons manufacturer and has requested a loan from our government to further innovate and expand their small arms production."
 BEL_Mobilise_the_Reserves:0 "Mobilise the Reserves"
 BEL_Mobilise_the_Reserves_desc:0 "The moment we have feared for many years has finally arrived and war is shortly upon us. Our reserves, over 200.000 strong, are inexperienced and ill equipped but they are our last line of defence in these desperate times."
-BEL_Last_Stand:0 "Last Stand"
-BEL_Last_Stand_desc:0 "Dig in and fight for the motherland! We may have lost once but our people are strong and brave and won't surrender so easily this time."
+#BEL_Last_Stand:0 "Last Stand" already defined above as an idea
+#BEL_Last_Stand_desc:0 "Dig in and fight for the motherland! We may have lost once but our people are strong and brave and won't surrender so easily this time." already defined above as an idea description
 BEL_Push_Forwards:0 "Push Forwards"
 BEL_Push_Forwards_desc:0 "The counter-offensive has finally arrived. All troops, advance at once!"
 
@@ -541,7 +543,7 @@ Choose_Monarchy:0 "We have decided to restore the Monarchy"
 Choose_Republic:0 "We have chosen to reform into a republic"
 A_New_Belgium:0 "A new Belgium"
 BEL_Improved_Relations:0 "Friends of Belgium"
-BEL_Expansion:0 "Belgium looks for Expansion"
+#BEL_Expansion:0 "Belgium looks for Expansion" already defined above as an idea
 Choose_KP:0 "Katholieke Partij wins the election"
 Choose_LP:0 "Liberale Partij wins the election"
 Choose_BWP:0 "Belgische Werkliedenpartij wins the election"
@@ -549,15 +551,16 @@ Choose_NP:0 "Verdinaso wins the election"
 Choose_De_Man:0 "De Man has taken control of the party"
 Choose_Spaak:0 "Spaak has taken control of the party"
 Choose_Syndicalist:0 "Jacquemotte has taken control of the party"
-TOA_Refused:0 "Treaty of Arlon has been refused"
+TOA_Refused:0 "Treaty of Arel has been refused"
 German_Investigation:0 "German investigation"
 Flemish_Council_Chosen:0 "Flemish investigation"
 chasseurs_ardennais.tt:0 "§GRaise an elite forest ranger unit : Chasseurs Ardennais§!"
 BEL.LC.tt:0 "§GNew Light Cruisers will be bought in Germany to bolster our navy§!"
+BEL_reservemob_tt:0 "Twenty reserve divisions will be formed throughout the nation."
 
 ### Opinion Modifiers ###
-BEL_Arlon_Refused:0 "Treaty of Arlon Refused"
-BEL_Arlon:0 "Treaty of Arlon Accepted"
+BEL_Arlon_Refused:0 "Treaty of Arel Refused"
+BEL_Arlon:0 "Treaty of Arel Accepted"
 
 ### Traits ###
 Protest:0 "Great Protest"
@@ -622,26 +625,15 @@ BEL_national_populist_party:0 "렉스"
 BEL_national_populist_party_long:0 "렉스"
 BEL_paternal_autocrat_party:0 "플라망 의회"
 BEL_paternal_autocrat_party_long:0 "플라망 의회"
-BEL_authoritarian_democrat_party_long:0 "아달베르트 왕 지지자"
+BEL_authoritarian_democrat_party_long:0 "아델베르트 왕 지지자"
 BEL_authoritarian_democrat_party:0 "독일 동조자"
 Interim_Governement:0 "임시 정부"
-
-### Leader Descriptions ###
-POLITICS_ADALBERT_I_DESC:0 "Adalbert von Hohenzollern's tenure as king of the Flems and Walloons has been quite peculiar. Inaugurated not by coronation, but by swearing an oath on the constitution, Adalbert, who also converted to Catholicism to align himself with his nation's populace, has long sought the respect, if not admiration, of his people. Years of oppression under the German regime and a tendency for Adalbert to cling on to a more absolutist type of monarchy than the Belgian system have led to great anti-German sentiment among the populace, making Adalbert despised and hated amongst the common folk."
-POLITICS_ALBERT_I_DESC:0 "Albert of Saxe-Coburg and Gotha, the king who trounced the invading Germans at the Yzer, has returned to Belgium from exile in Canada. When his motorcade entered Brussels for the first time since the outbreak of the Weltkrieg, church bells across the nation rang, and many Belgians weeped with joy. German collaborators and syndicalists, however, lament the restored king, and plot to undermine the new Belgian government. Albert must now mend the deep wounds which have marred Belgium, and create a renewed sense of hope among the its people."
-POLITICS_JORIS_SEVEREN_DESC:0 "Joris Van Severen, Flemish leader who begrudgingly cooperated with the occupying Germans, has assumed control of the country. His Verdinaso has a radical vision for the direction of Belgium, including territorial expansion and the promotion of Catholicism in all aspects of society. Under van Severen, a new Belgium will certainly arise; though that new nation may be incredibly different from the one that came before it."
-POLITICS_PAUL_ZEELAND_DESC:0 "Paul van Zeeland and the Catholic Party led Flemish resistance to German control. With electoral victory in the now restored Belgium, van Zeeland endeavours to establish Chistian Democracy in Belgium, and reconcile that which divides Belgium's people, Flems and Walloons alike. Principle among his policy goals is the betterment of working conditions for both farmers and industrial laborers."
-POLITICS_BELGIAN_PARLIMENT_DESC:0 "The Belgian Parliament, successor to the Flemish Council which advised the German controlled government of Flanders-Wallonia, has assumed power in the recently restored Belgium. While the Government is restructured and elections prepared, Parliament acts not just as a legislature, but collectively as interim head of state."
-POLITICS_HENRIK_MAN_DESC:0 "Henrik de Man, a moderate social democrat, has consolidated his leadership of the Belgian Workers' Party, and now achieved victory in Belgium's latest national elections. De Man advocates limited economic nationalisation and the empowerment of union leaders to a governmental advisory role. Belgium, De Man believes, must actively serve its people and promote fair competition; his reforms, though controversial, may yet decrease economic hardship and political radicalisation in Belgium."
-POLITICS_JOSEPH_JACQUEMOTTE_DESC:0 "Joseph Jacquemotte, creator and editor of the leftist pre-Weltkrieg newpaper 'L'Exploité', and his Syndicalist faction of the Belgian Workers' Party have achieved victory both within the party, and now, Belgium itself. Jacquemotte advocates rural industrialisation and the collectvisation of industry and agriculture alike. A Belgium led by Jacquemotte is certain to see drastic societal and economic upheaval."
-POLITICS_PAUL_HENRI_SPAAK_DESC:0 "Paul Henri Spaak, once a prominent lawyer, believes that, above all else, to truely serve the people, government bureaucracy must be efficient. Spaak is now in contol of the Belgian Workers' Party, and the party's subsequent victory in the most recent Belgian national elections has elevated him to head of state. Spaak has already begun to greatly decrease the bloated Belgian civil service and introduced new incentives to prospective entrepreneurs; as a result, optimism seems to be steadily increasing in Belgium."
-POLITICS_PAUL_EMILE_JANSON_DESC:0 "Paul-Émile Janson and his Liberal Party has achieved victory in Belgium's latest national elections. Janson is an advocate of laissez faire economics and free trade; all aspects of society, to Janson, have been far too regulated by past administrations. Belgium, under Janson, is quickly becoming one of the most economically free nations in Europe and the world."
 
 ### Tech Sharing ###
 belgian_research_name:0 "Koninklijke Academie"
 belgian_research_desc:0 "A cooperative academic research group consisting of all Belgian and Dutch Universities sponsored by King Albert I and Queen Wilhelmina"
 belgian_german_joint_research:0 "German Joint Doctrine Group"
-belgian_german_naval_program:0 "Flemish-Wallonian-German Naval Cooperation Program"
+belgian_german_naval_program:0 "Flemish-Walloon-German Naval Cooperation Program"
 
 ### Events ###
 belmil.1.t:0 "Revising the Army Budget"
@@ -699,7 +691,7 @@ belmil.12.d:0 "The Kaiser sees no reason why we should be allowed to expand our 
 belmil.12.a:0 "Very well."
 
 bel.1.t:0 "Disaster of 17 February '36"
-bel.1.d:0 "The 17th of February, which marks the day that Adalbert I was crowned as king of Belgium and took control of the country, has been annually marked with celebrations in the capital. Military parades and fanfares announced the start of the celebrations, and at 12 o'clock Adalbert mounted the balcony of the palace watching over the Warande.\n\nAs he addressed the population and celebrated another peaceful year, a loud bang resounded against the stone walls of the palace. In the midst of the crowd a group of rebels had fired a gun in the direction of the king. They shouted "Vive la Révolution" and "Weg met de mof!". Dozens of men and women placed at tactical locations in the crowd by the combined resistance started rallying the people and prepared to storm the palace.\n\nPolice quickly mobilised and formed a protective circle around the palace gates, and though the crowd dispersed into the surrounding streets revolt quickly became too large for the local police force to handle."
+bel.1.d:0 "The 17th of February, which marks the day that Adelbert I was crowned as king of Belgium and took control of the country, has been annually marked with celebrations in the capital. Military parades and fanfares announced the start of the celebrations, and at 12 o'clock Adelbert mounted the balcony of the palace watching over the Warande.\n\nAs he addressed the population and celebrated another peaceful year, a loud bang resounded against the stone walls of the palace. In the midst of the crowd a group of rebels had fired a gun in the direction of the king. They shouted "Vive la Révolution" and "Weg met de mof!". Dozens of men and women placed at tactical locations in the crowd by the combined resistance started rallying the people and prepared to storm the palace.\n\nPolice quickly mobilised and formed a protective circle around the palace gates, and though the crowd dispersed into the surrounding streets revolt quickly became too large for the local police force to handle."
 bel.1.a:0 "Try to soothe the protesters with small concessions."
 bel.1.b:0 "Send in the army!"
 bel.1.c:0 "We should wait for them to calm down."
@@ -716,7 +708,7 @@ belbla.2.a:0 "Close the banks!"
 belbla.2.b:0 "Let the fools withdraw their cash."
 
 belbla.3.t:0 "Middenkredietkas Declares Bankruptcy"
-belbla.3.d:0 "Bad investments, plummeting stocks and their support of friendly banks all conspired to quickly bring the Middenkredietkas down in a brutal liquidity collapse. As the financial branch of the Boerenbond, the farmer representative body that boomed in influence after the Weltkrieg due to German reliance on Mitteleuropa crops, thousands of farmers who had invested their capital into the organisation now stand with empty pockets. Thousands have been left virtually penniless in a period of ever increasing instability and financial insecurity.\n\nMembers of Parliament have proposed the creation of a CKL, or Centrale Kas voor Landbouwkrediet, to support the troubled farmers by promising to provide generous subsidies to the agricultural sector upon economic recovery. While this would be a tremendous burden for the AVV and ABB, it would greatly help the image of Adalbert and the pro-German regime."
+belbla.3.d:0 "Bad investments, plummeting stocks and their support of friendly banks all conspired to quickly bring the Middenkredietkas down in a brutal liquidity collapse. As the financial branch of the Boerenbond, the farmer representative body that boomed in influence after the Weltkrieg due to German reliance on Mitteleuropa crops, thousands of farmers who had invested their capital into the organisation now stand with empty pockets. Thousands have been left virtually penniless in a period of ever increasing instability and financial insecurity.\n\nMembers of Parliament have proposed the creation of a CKL, or Centrale Kas voor Landbouwkrediet, to support the troubled farmers by promising to provide generous subsidies to the agricultural sector upon economic recovery. While this would be a tremendous burden for the AVV and ABB, it would greatly help the image of Adelbert and the pro-German regime."
 belbla.3.a:0 "Create the CKL."
 belbla.3.b:0 "They'll have to save themselves."
 
@@ -731,7 +723,7 @@ belbla.5.a:0 "Block the proposed split."
 belbla.5.b:0 "An independent bank would be a wise move."
 
 belbla.6.t:0 "Creation of the Banking Committee"
-belbla.6.d:0 "In an effort to stop the catastrophic impact that Black Monday is having on the Flemish-Wallonian banks, the government has proposed the creation of a banking commission to oversee the crisis recovery and stop the economy from imploding. While this is guaranteed to be opposed by German bank managers who see this as an effort by the Flemish-Wallonian government to diminish their influence, desperate times call for desperate measures."
+belbla.6.d:0 "In an effort to stop the catastrophic impact that Black Monday is having on the Flemish-Walloon banks, the government has proposed the creation of a banking commission to oversee the crisis recovery and stop the economy from imploding. While this is guaranteed to be opposed by German bank managers who see this as an effort by the Flemish-Walloon government to diminish their influence, desperate times call for desperate measures."
 belbla.6.a:0 "The king blocks the proposal."
 belbla.6.b:0 "The proposal passes unanimously."
 
@@ -864,11 +856,11 @@ bel.23.a:0 "We will not risk any more German blood."
 bel.23.b:0 "Dig in boys, its gonna be a tough fight!"
 
 bel.24.t:0 "German Forces Evacuate Belgium"
-bel.24.d:0 "On September 13th 1936 at 2:37 PM in the Royal Palace the former King Adalbert signed the formal ceasefire treaty, resulting in his immediate abdication, the withdrawal of all German forces from his former territory and a truce between the reborn nation of Belgium and the German Empire. Hundreds of thousands of men, women and children have come out into the streets waving the Belgian flag, chanting the Brabançonne and celebrating the nation's regained independence. It truly is a great day for Belgium!"
+bel.24.d:0 "On September 13th 1936 at 2:37 PM in the Royal Palace the former King Adelbert signed the formal ceasefire treaty, resulting in his immediate abdication, the withdrawal of all German forces from his former territory and a truce between the reborn nation of Belgium and the German Empire. Hundreds of thousands of men, women and children have come out into the streets waving the Belgian flag, chanting the Brabançonne and celebrating the nation's regained independence. It truly is a great day for Belgium!"
 bel.24.a:0 ""Lang leve België!""Vive la Belgique!""Long live Belgium!""
 
 bel.241.t:0 "German Forces Evacuate Belgium"
-bel.241.d:0 "On September 20th 1936 at 2:37 PM in the Royal Palace the former King Adalbert signed the formal ceasefire treaty, resulting in his immediate abdication, the withdrawal of all German forces from his former territory and a truce between the reborn nation of Belgium and the German Empire. Hundreds of thousands of men, women and children have come out into the streets waving the Belgian flag, chanting the Brabançonne and celebrating the nation's regained independence. It truly is a great day for Belgium!"
+bel.241.d:0 "On September 20th 1936 at 2:37 PM in the Royal Palace the former King Adelbert signed the formal ceasefire treaty, resulting in his immediate abdication, the withdrawal of all German forces from his former territory and a truce between the reborn nation of Belgium and the German Empire. Hundreds of thousands of men, women and children have come out into the streets waving the Belgian flag, chanting the Brabançonne and celebrating the nation's regained independence. It truly is a great day for Belgium!"
 bel.241.a:0 ""Lang leve België!""Vive la Belgique!""Long live Belgium!""
 
 bel.25.t:0 "Germans Forces Pushed Back into Brussels"
@@ -897,8 +889,8 @@ bel.29.a:0 "Surrender to the rebels."
 #French Intervention
 ###########
 
-bel.30.t:0 "Wallonian Syndicalists Request Communard Support"
-bel.30.d:0 "Radio transmissions between the syndicalist cells in Hainaut and the French army fortified behind the border have indicated that Wallonian rebels are establishing contact with the Commune, likely to request support in their struggle. While France is unlikely to support them at this time, it would be wise to keep a close watch on the border."
+bel.30.t:0 "Walloon Syndicalists Request Communard Support"
+bel.30.d:0 "Radio transmissions between the syndicalist cells in Hainaut and the French army fortified behind the border have indicated that Walloon rebels are establishing contact with the Commune, likely to request support in their struggle. While France is unlikely to support them at this time, it would be wise to keep a close watch on the border."
 bel.30.a:0 "Let us hope that France stays out of this."
 
 bel.31.t:0 "Wallonia Calls For Aid"
@@ -907,14 +899,14 @@ bel.31.a:0 "Send volunteers and equipment."
 bel.31.b:0 "We shouldn't anger the Germans."
 
 bel.32.t:0 "French 'Volunteers' Join the Walloon Resistance"
-bel.32.d:0 "Heavy pushes by Wallonian cells and the breakthrough they achieved at Mons are indicating that they have received French support. While we have no proof of this, our ambassador to France has demanded that they not intervene. The Commune bluntly stated that they have not sent any volunteers to Wallonia and that German forces may be confusing French and Walloon soldiers in their defeats."
+bel.32.d:0 "Heavy pushes by Walloon cells and the breakthrough they achieved at Mons are indicating that they have received French support. While we have no proof of this, our ambassador to France has demanded that they not intervene. The Commune bluntly stated that they have not sent any volunteers to Wallonia and that German forces may be confusing French and Walloon soldiers in their defeats."
 bel.32.a:0 "Send further support to Hainaut."
 
 bel.321.t:0 "The Liège Revolution"
-bel.321.d:0 "While our troops have been steadily pushed back by Wallonian-French troops, the workers of Liège have risen up and taken control of the city. Though small pockets of resistance continue to tenaciously fight back against the rebels, the city is as good as lost without reinforcement. With the fall of Liège all but assured, the resistance now controls the industrial capital of Wallonia and its most populous center."
+bel.321.d:0 "While our troops have been steadily pushed back by Walloon-French troops, the workers of Liège have risen up and taken control of the city. Though small pockets of resistance continue to tenaciously fight back against the rebels, the city is as good as lost without reinforcement. With the fall of Liège all but assured, the resistance now controls the industrial capital of Wallonia and its most populous center."
 bel.321.a:0 "Wallonia is escaping our hold."
 
-bel.322.t:0 "The Wallonian Commune Declares Independence"
+bel.322.t:0 "The Walloon Commune Declares Independence"
 bel.322.d:0 "After the fall of Liège and the subsequent capture of Namur, all of Wallonia has fallen firmly under rebel control. They have audaciously raised the Walloon coq hardi flag in Liège town square formally declaring independence for Wallonia. Flemish movements have used this moment to secure their independence as well but have sworn allegiance to Germany. The world's eyes are now squarely focussed on France who will almost certainly be responsible for deciding the outcome of this crisis."
 bel.322.a:0 "Vive La Wallonie!"
 
@@ -923,7 +915,7 @@ bel.323.d:0 "With our hold on Wallonia secure, the German Empire is mobilising r
 bel.323.a:0 "Help us Communards, you're our only hope."
 
 bel.324.t:0 "Wallonia Requests Communard Protection"
-bel.324.d:0 "After our troops successfully assisted the resistance in bringing down the Flemish-Wallonian regime, the new Wallonian government has requested that we protect them in case Germany decides to retaliate."
+bel.324.d:0 "After our troops successfully assisted the resistance in bringing down the Flemish-Walloon regime, the new Walloon government has requested that we protect them in case Germany decides to retaliate."
 bel.324.a:0 "Protect Wallonia."
 bel.324.b:0 "We don't want to anger Germany."
 
@@ -935,8 +927,8 @@ bel.326.t:0 "France Refuses to Guarantee Wallonia"
 bel.326.d:0 "Afraid of possible retaliation by the German Empire, the Commune of France has abandoned their ambitions to secure an independent Wallonia and has left us to die at the hands of a vengeful Reich."
 bel.326.a:0 "The Revolution seems at an end."
 
-bel.3261.t:0 "The Wallonian Counter-Offensive"
-bel.3261.d:0 "Afraid of our military might, the French cowards have abandoned their Wallonian allies, giving us the opportunity to strike and bring them back into our sphere."
+bel.3261.t:0 "The Walloon Counter-Offensive"
+bel.3261.d:0 "Afraid of our military might, the French cowards have abandoned their Walloon allies, giving us the opportunity to strike and bring them back into our sphere."
 bel.3261.a:0 "We'll be home by midnight."
 
 bel.327.t:0 "The Commune Guarantees Wallonia"
@@ -945,7 +937,7 @@ bel.327.a:0 "Wallonia or War!"
 bel.327.b:0 "Back down for now."
 
 bel.3271.t:0 "Germany Backs Down"
-bel.3271.d:0 "At 12 AM, German troops finally agreed to cease all hostilities and withdraw their forces from Wallonian territory. The Pont de Fragnée, built during the Liège Internationale of 1905 to display the power of Belgium, was used to sign the treaty after which all troops fell back to their respective lines. A demilitarised zone was established on the Eastern bank of the Meuse to secure the protection of the industry and people there and to prevent Internationale troops from establishing themselves beyond the Meuse."
+bel.3271.d:0 "At 12 AM, German troops finally agreed to cease all hostilities and withdraw their forces from Walloon territory. The Pont de Fragnée, built during the Liège Internationale of 1905 to display the power of Belgium, was used to sign the treaty after which all troops fell back to their respective lines. A demilitarised zone was established on the Eastern bank of the Meuse to secure the protection of the industry and people there and to prevent Internationale troops from establishing themselves beyond the Meuse."
 bel.3271.a:0 "Peace in our Time."
 
 bel.328.t:0 "Wallonia or War!"
@@ -1001,6 +993,8 @@ bel.362.t:0 "Belgian Elections"
 bel.362.d:0 "As decided on the First Belgian Congress, the Belgian Republic has been founded. To form a strong government however the Belgian people have voted for their first President. As the rebellion was led by many different factions there is no clear winner. The BWP, Belgian Workers Party, has been divided by internal struggles and has not proposed a clear candidate. Three main splinter factions have been created and are each proposing their own agenda. Paul-Henri Spaak, influenced by his liberal heritage has created a social liberal faction and has proposed a clear plan to guide Belgium. Another movement has declared their support for a grand industrial plan, Plan De Man, and have distanced themselves from the main party. The remnants of the party are still struggling to reform the party but have promised to continue their syndicalist agenda. Lastly there is the Liberal party, led by Paul Emile Janson, who will guide the country to the image of our Dutch neighbours."
 bel.362.a:0 "Choose De Man."
 bel.362.b:0 "Vote Social-Liberal for the best of both worlds!"
+bel.362.c:0 "The Liberals Take It"
+bel.362.e:0 "The Radicals Within The BWP Secure Victory"
 ###########
 #Election results in Free Belgium
 ###########
@@ -1058,34 +1052,34 @@ bel.45.a:0 "Very well."
 
 #Treaty of Arlon
 bel.461.t:0 "The Belgian Revolution"
-bel.461.d:0 "While we were busy solving our own problems, Adalbert, king of Flanders-Wallonia, has been deposed and sent packing by his people. Even though this an outrageous event we have to handle the situation carefully as a war will hinder our recovery and may provoke syndicalist aggression. Delegates of the new Belgian state however, have come up with a proposal of their own. They request we sign a treaty guaranteeing their newfound sovereignty, and rebalancing our currently one-sided economic system. In exchange they would rejoin the Reichspakt, expand their army and be our first line of defence against the syndicalist threat. German holdings and companies would remain in charge of large parts of the industry and special programmes would temporarily be kept aiding German citizens in their integration into Belgium, or alternatively their return home."
-bel.461.a:0 "Accept their proposal and organise the Congress of Arlon."
+bel.461.d:0 "While we were busy solving our own problems, Adelbert, king of Flanders-Wallonia, has been deposed and sent packing by his people. Even though this an outrageous event we have to handle the situation carefully as a war will hinder our recovery and may provoke syndicalist aggression. Delegates of the new Belgian state however, have come up with a proposal of their own. They request we sign a treaty guaranteeing their newfound sovereignty, and rebalancing our currently one-sided economic system. In exchange they would rejoin the Reichspakt, expand their army and be our first line of defence against the syndicalist threat. German holdings and companies would remain in charge of large parts of the industry and special programmes would temporarily be kept aiding German citizens in their integration into Belgium, or alternatively their return home."
+bel.461.a:0 "Accept their proposal and organise the Congress of Arel."
 bel.461.b:0 "Germans do not give in, attack at once!"
 
 bel.462.t:0 "Belgium Demands Yet More"
-bel.462.d:0 "Even though we agreed to nearly all of their demands and almost reached an accord, the Belgian Prime Minister suddenly rose up and declared that no treaty would be signed unless we hand over Luxembourg. This was met with protest from our outraged delegates refusing to accept such ridiculous demands. Some see this sudden u-turn however as an excuse to stay out of the Reichspakt and search for other allies."
+bel.462.d:0 "Even though we agreed to nearly all of their demands and almost reached an accord, the Belgian Prime Minister suddenly rose up and declared that no treaty would be signed unless we hand over Luxemburg. This was met with protest from our outraged delegates refusing to accept such ridiculous demands. Some see this sudden u-turn however as an excuse to stay out of the Reichspakt and search for other allies."
 bel.462.a:0 "Leave the Congress."
 bel.462.b:0 "Accept their extra demands."
 
 bel.463.t:0 "The German Empire Accepts"
-bel.463.d:0 "To the immense surprise of all, the German delegation has given in and accepted our claims on Luxembourg. An agreement has been reached and the treaty signed. Only formalities and the evening gala remain."
+bel.463.d:0 "To the immense surprise of all, the German delegation has given in and accepted our claims on Luxemburg. An agreement has been reached and the treaty signed. Only formalities and the evening gala remain."
 bel.463.a:0 "This is fantastic!"
 
-bel.464.t:0 "Treaty of Arlon"
+bel.464.t:0 "Treaty of Arel"
 bel.464.d:0 "With an official ceasefire between the Empire and the Belgian rebels, we have agreed to listen to their demands. They demand full independence from Germany but promise to remain in the Reichspakt military alliance to assist us on the western border. While agreeing to these demands could be seen as a disgrace to the mighty German behemoth and could perhaps even spark resistance in the East, we have to avoid overextending ourselves in these times of crisis."
 bel.464.a:0 "The treaty is signed!"
 bel.464.b:0 "Germany will not bow for these rebels!"
 
-bel.46.t:0 "Treaty of Arlon"
-bel.46.d:0 "Deep in the Ardennes, in the city of Arlon, German and Belgian representatives have gathered to discuss the future relations between the two countries. Multiple proposals have been put on the table by both sides until finally an agreement was reached. Belgium would stay in the Reichspakt and help the German Empire in its wars in exchange for Luxembourg and full recognition of its sovereignty. While the German delegation can be persuaded to recognise our independence, all requests for the return of Belgian Luxemburg have thus far been swept off the table."
+bel.46.t:0 "Treaty of Arel"
+bel.46.d:0 "Deep in the Ardennes, in the city of Arel, German and Belgian representatives have gathered to discuss the future relations between the two countries. Multiple proposals have been put on the table by both sides until finally an agreement was reached. Belgium would stay in the Reichspakt and help the German Empire in its wars in exchange full recognition of its sovereignty. While the German delegation can be persuaded to recognize our independence, all requests for the return of Belgian Luxemburg have thus far been swept off the table."
 bel.46.a:0 "The treaty is fine as is. Sign it."
-bel.46.b:0 "Belgium will only accept in exchange for Luxembourg!"
+bel.46.b:0 "Belgium will only accept in exchange for Luxemburg!"
 
-bel.47.t:0 "Arlon Treaty Talks Fail"
+bel.47.t:0 "Arel Treaty Talks Fail"
 bel.47.d:0 "The German Empire has refused our proposal and decided to leave the summit. There will be no alliance this time and no concessions."
 bel.47.a:0 "We will seek other allies."
 
-bel.48.t:0 "Treaty of Arlon Signed"
+bel.48.t:0 "Treaty of Arel Signed"
 bel.48.d:0 "With the Belgian government agreeing to the German terms, the treaty has been signed. Germany will recognise Belgian independence and in exchange Belgium will remain in the Reichspakt."
 bel.48.a:0 "Together we stand strong."
 #Treaty of Arlon signed
@@ -1094,7 +1088,7 @@ bel.483.d:0 "German Wallonia has finally been recuperated! The last formalities 
 bel.483.a:0 "Very well."
 #
 bel.49.t:0 "Flemish Resistance Calls For Aid"
-bel.49.d:0 "Backed into a corner by superior Flemish-Wallonian forces, the remnants of the Flemish resistance have contacted us to request intervention in the Second Belgian Revolution. They are willing to support reunification with the Netherlands should we assist them and are hoping for a peaceful resolution to the conflict through our influence."
+bel.49.d:0 "Backed into a corner by superior Flemish-Walloon forces, the remnants of the Flemish resistance have contacted us to request intervention in the Second Belgian Revolution. They are willing to support reunification with the Netherlands should we assist them and are hoping for a peaceful resolution to the conflict through our influence."
 bel.49.a:0 "Support the Flemish resistance."
 bel.49.b:0 "Stay out of German affairs."
 
@@ -1103,7 +1097,7 @@ bel.50.d:0 "With no support from the Dutch nor Walloons, the Flemish resistance 
 bel.50.a:0 "We will put a swift end to this rebellion!"
 
 bel.51.t:0 "Dutch Intervention: Treaty of Terneuzen"
-bel.51.d:0 "Dutch officials have agreed to the requests of the Flemish resistance and have sent in Dutch divisions to secure the cities of Antwerpen and Gent. While our Flemish-Wallonian divisions are no match for the numerically stronger Dutch forces, they have taken a big risk by angering the German giant."
+bel.51.d:0 "Dutch officials have agreed to the requests of the Flemish resistance and have sent in Dutch divisions to secure the cities of Antwerpen and Gent. While our Flemish-Walloon divisions are no match for the numerically stronger Dutch forces, they have taken a big risk by angering the German giant."
 bel.51.a:0 "We can only wait for an answer from Berlin."
 
 bel.77.t:0 "Flanders Secedes From the Union"
@@ -1150,16 +1144,16 @@ bel.71.d:0 "At 8.38 May 18 opens the unexpecting aide of Adhemar Hennaut the doo
 bel.71.a:0 "Divided we shall destroy them!"
 
 bel.72.t:0 "Flanders Declares Independence!"
-bel.72.d:0 "The Flemish movement has taken action now that we are at war the French Commune and have declared their independence. Blocking half our resources and factories things are not looking well for our little country. Even the capital of Brussels has been overrun and Adalbert was forced to flee to Liège where he will try to lead the remnants of his kingdom."
+bel.72.d:0 "The Flemish movement has taken action now that we are at war the French Commune and have declared their independence. Blocking half our resources and factories things are not looking well for our little country. Even the capital of Brussels has been overrun and Adelbert was forced to flee to Liège where he will try to lead the remnants of his kingdom."
 bel.72.a:0 "Damn you Flanders!"
 
 bel.73.t:0 "The Belgian Question"
-bel.73.d:0 "Now that our country is recovering we can look into the Belgian Question again. We weren't able to assist Adalbert when a full scale rebellion took place in his country but now we finally have the opportunity to bring Belgium back into the fold."
+bel.73.d:0 "Now that our country is recovering we can look into the Belgian Question again. We weren't able to assist Adelbert when a full scale rebellion took place in his country but now we finally have the opportunity to bring Belgium back into the fold."
 bel.73.a:0 "We demand the submission of Belgium!"
 bel.73.b:0 "There are more important matters to attend to."
 
 bel.74.t:0 "Germany Demands Belgian Submission"
-bel.74.d:0 "The ambassador from the German Empire has presented our government with an ultimatum. Either we accept German demands and become once again part of their empire as a satellite, or we stand and fight to defend Belgium once again. Hardened by the bitter fighting against troops of the old Flanders-Wallonian regime, our stoic populace is ready for another engagement to defend their homeland."
+bel.74.d:0 "The ambassador from the German Empire has presented our government with an ultimatum. Either we accept German demands and become once again part of their empire as a satellite, or we stand and fight to defend Belgium once again. Hardened by the bitter fighting against troops of the old Flanders-Walloon regime, our stoic populace is ready for another engagement to defend their homeland."
 bel.74.a:0 "We have no choice but to give in"
 bel.74.b:0 "Belgium will never surrender to those German Devils!"
 
@@ -1180,11 +1174,11 @@ bel.807.d:0 "We have received shocking reports from the Walloon detachement of t
 bel.807.a:0 "Formulate a plan of action and destroy this resistance!"
 
 bel.808.t:0 "Discovery of Die Rote Kapelle"
-bel.808.d:0 "Die Rote Kapelle or the Red Orchestra, is the largest syndicalist resistance network in Europe. With members spread across the continent and receiving assistance from both Paris and London, this inteligence group is huge threat to our national security. Due to their non-violent nature, they are difficult to track down and previously all attempts at trying to root them out have yielded poor results.\n\nNow, however it appears that Efremov, leader of the Flanders-Wallonian branch has been captured in Oostende while seeking to move between safehouses. He was immediately interrogated and at last he gave up important members of the movement, representing a new breakthrough in our efforts. After a wave of arrests in the following hours, thirty members of Die Rote Kapelle were caught and executed. A heavy blow has been dealt to the organisation."
+bel.808.d:0 "Die Rote Kapelle or the Red Orchestra, is the largest syndicalist resistance network in Europe. With members spread across the continent and receiving assistance from both Paris and London, this inteligence group is huge threat to our national security. Due to their non-violent nature, they are difficult to track down and previously all attempts at trying to root them out have yielded poor results.\n\nNow, however it appears that Efremov, leader of the Flanders-Walloon branch has been captured in Oostende while seeking to move between safehouses. He was immediately interrogated and at last he gave up important members of the movement, representing a new breakthrough in our efforts. After a wave of arrests in the following hours, thirty members of Die Rote Kapelle were caught and executed. A heavy blow has been dealt to the organisation."
 bel.808.a:0 "Finally, results!"
 
 bel.805.t:0 "Feldgendarmerie"
-bel.805.d:0 "News of our difficulties in pacifying Flanders-Wallonia has reached Berlin and apparently greatly troubled the Kaiser. German geopolitical interests in Western Europe, centering on the Ludendorfflinie, are reliant on a secure front in former Belgium. Therefore the Kaiser has given the order to send a specialised division of the Feldgendarmerie to aid the Flemish-Wallonian police force in their struggle. Still, relying on the aid of foreign forces to combat our own citizens may however further alienate the regime and our king from his subjects."
+bel.805.d:0 "News of our difficulties in pacifying Flanders-Wallonia has reached Berlin and apparently greatly troubled the Kaiser. German geopolitical interests in Western Europe, centering on the Ludendorfflinie, are reliant on a secure front in former Belgium. Therefore the Kaiser has given the order to send a specialised division of the Feldgendarmerie to aid the Flemish-Walloon police force in their struggle. Still, relying on the aid of foreign forces to combat our own citizens may however further alienate the regime and our king from his subjects."
 bel.805.a:0 "Accept assistance from Berlin."
 bel.805.b:0 "Politely decline German help."
 
@@ -1201,7 +1195,7 @@ bel.82.b:0 "We should favour neither party."
 bel.82.c:0 "Focus on a Flanders-Wallonia first policy."
 
 bel.83.t:0 "Weapons Production For the German Army"
-bel.83.d:0 "Due to Germany's massive increase in demand for armaments caused by serious border tensions with the French Commune, the German Army is in need of specialised equipment. Flanders-Wallonian expertise concerning small arms and anti-tank cannons is widely appreciated and praised even in the higher echelons of German High Command. Due to this reputation, the Reich has offered us a new deal where we supply them with weapons in exchange for monetary compensation. Still, due to Germany's ravenous appetite for new arms our own forces may suffer supply shortages if we agree to the deal."
+bel.83.d:0 "Due to Germany's massive increase in demand for armaments caused by serious border tensions with the French Commune, the German Army is in need of specialised equipment. Flanders-Walloon expertise concerning small arms and anti-tank cannons is widely appreciated and praised even in the higher echelons of German High Command. Due to this reputation, the Reich has offered us a new deal where we supply them with weapons in exchange for monetary compensation. Still, due to Germany's ravenous appetite for new arms our own forces may suffer supply shortages if we agree to the deal."
 bel.83.a:0 "Export as many weapons as they require."
 bel.83.b:0 "Prioritise our own army."
 
@@ -1216,12 +1210,12 @@ bel.832.a:0 "Nonsense, a king cannot rule without a palace!"
 bel.832.b:0 "We will temporarily retreat to Laken until work can resume."
 
 bel.842.t:0 "German Favouritism"
-bel.842.d:0 "Citizens of Flanders-Wallonia, though theoretically equal before the law, exist alongside another social hierarchy imposed unofficially from above. German immigrants and imperial citizens are far more likely to reach high ranking positions in our society and seem able to exert more influence over the country than Flemish-Wallonian citizens. While this way of handling things is appreciated by the German population, it causes great discontent among the rest of the citizenry.\n\nJoris Van Severen, a leading member of the Flemish Council has proposed combating this favouritism and indirect discrimination through a series of strong new measures. While such moves would be greatly beneficial for social harmony, they would inevitably receive fierce opposition from the Reich."
+bel.842.d:0 "Citizens of Flanders-Wallonia, though theoretically equal before the law, exist alongside another social hierarchy imposed unofficially from above. German immigrants and imperial citizens are far more likely to reach high ranking positions in our society and seem able to exert more influence over the country than Flemish-Walloon citizens. While this way of handling things is appreciated by the German population, it causes great discontent among the rest of the citizenry.\n\nJoris Van Severen, a leading member of the Flemish Council has proposed combating this favouritism and indirect discrimination through a series of strong new measures. While such moves would be greatly beneficial for social harmony, they would inevitably receive fierce opposition from the Reich."
 bel.842.a:0 "We will not change our way of life for these pesky peasants"
 bel.842.b:0 "Allow Van Severen to go ahead."
 
 bel.843.t:0 "German Citizens Protest"
-bel.843.d:0 "Due to recent reforms introduced by Joris Van Severen concerning the status of German citizens, many have marched on the capital today to protest against this sudden u-turn by the Government. Even though their numbers are small, a large outflux of German money caused by their distrust of the Government could be catastrophic for our economy.\n\nVan Severen has proposed a very drastic plan which would allow us to seize the Flemish-Wallonian holdings of Germans in the event of revolt or mass-evacuation. It's clear that such bold plans to combat capital flight would provoke severe hostility from the Fatherland and especially amongst our own German population."
+bel.843.d:0 "Due to recent reforms introduced by Joris Van Severen concerning the status of German citizens, many have marched on the capital today to protest against this sudden u-turn by the Government. Even though their numbers are small, a large outflux of German money caused by their distrust of the Government could be catastrophic for our economy.\n\nVan Severen has proposed a very drastic plan which would allow us to seize the Flemish-Walloon holdings of Germans in the event of revolt or mass-evacuation. It's clear that such bold plans to combat capital flight would provoke severe hostility from the Fatherland and especially amongst our own German population."
 bel.843.a:0 "Let's not do anything rash."
 bel.843.b:0 "Allow Van Severen to go ahead."
 
@@ -1266,15 +1260,15 @@ bel.88.b:0 "Decrease relations"
 bel.88.c:0 "Report relations"
 
 bel.89.t:0 "Terrible Relations with Germany"
-bel.89.d:0 "With the German Empire furious at recent developments in our country we must be cautious and expect repercussions. Flemish-Wallonian unity however has never been better with many seeing the king much more as a benevolent ruler than as a tyrant."
+bel.89.d:0 "With the German Empire furious at recent developments in our country we must be cautious and expect repercussions. Flemish-Walloon unity however has never been better with many seeing the king much more as a benevolent ruler than as a tyrant."
 bel.89.a:0 "We were planning on breaking free anyway."
 
 bel.90.t:0 "Bad Relations with Germany"
-bel.90.d:0 "Our relations with the Kaiser have deteriorated quite badly and the Empire might punish us for our disrespect. Respect for Adalbert however has increased and more people are willing to sign up to defend their country in the name of the king."
+bel.90.d:0 "Our relations with the Kaiser have deteriorated quite badly and the Empire might punish us for our disrespect. Respect for Adelbert however has increased and more people are willing to sign up to defend their country in the name of the king."
 bel.90.a:0 "We must be careful."
 
 bel.91.t:0 "Neutral German Relations"
-bel.91.d:0 "The Empire tolerates our actions but is not quite pleased by recent reforms. There is no real patriotic Flemish-Wallonian national identity but a decent amount of people have decided that if war comes to our country they are willing to defend it."
+bel.91.d:0 "The Empire tolerates our actions but is not quite pleased by recent reforms. There is no real patriotic Flemish-Walloon national identity but a decent amount of people have decided that if war comes to our country they are willing to defend it."
 bel.91.a:0 "I have no strong feelings one way or the other."
 
 bel.92.t:0 "Good Relations with Germany"
@@ -1290,7 +1284,7 @@ bel.94.d:0 "Located on the western border of the German Empire and bordering the
 bel.94.a:0 "Okay."
 
 bel.95.t:0 "Status Report: Economy of Flanders-Wallonia"
-bel.95.d:0 "Occupation and major battles during the first Weltkrieg have clearly marked our country and hefty reparations and general dismantlement of our industrial base imposed on us have left us weak. What was once the eighth greatest industrial power in the world has been greatly humbled. Still, our people are sturdy and managed to rebuild our industrial might to a level approaching its former extent. However as much of our industry is hopelessly reliant on German investment there remains a great deal of work to be done.\n\nIn order to reinvigorate the economy, the Adalbert Canal was dug post-war connecting the important harbour of Antwerp with the steel industries of Liège. Coal mining has been expanded into the province of Limburg further stimulating the steel industry while the Flemish provinces have steadily developed their industrial power to partially replace the old reliance on the agricultural countryside."
+bel.95.d:0 "Occupation and major battles during the first Weltkrieg have clearly marked our country and hefty reparations and general dismantlement of our industrial base imposed on us have left us weak. What was once the eighth greatest industrial power in the world has been greatly humbled. Still, our people are sturdy and managed to rebuild our industrial might to a level approaching its former extent. However as much of our industry is hopelessly reliant on German investment there remains a great deal of work to be done.\n\nIn order to reinvigorate the economy, the Adelbert Canal was dug post-war connecting the important harbour of Antwerp with the steel industries of Liège. Coal mining has been expanded into the province of Limburg further stimulating the steel industry while the Flemish provinces have steadily developed their industrial power to partially replace the old reliance on the agricultural countryside."
 bel.95.a:0 "Okay."
 
 bel.96.t:0 "Status Report: Political Situation in Flanders-Wallonia"
@@ -1342,7 +1336,7 @@ bel.217.d:0 "This day marks the crowning of the first Belgian monarch in 1831. O
 bel.217.a:0 "Force the people to obey the law."
 #News Events
 bel.219.t:0 "Belgium Declares Independence"
-bel.219.d:0 "Sick of German oppression and the disaster of Black Monday, Belgian independence movements throughout the country have been revolting and performing guerrilla strikes on the German army. Due to their own recovery they have been unable to support Adalbert I to the fullest and have made the situation get out of control. After coordinated strikes by The Independence Army on the cities of Mons and Antwerp, they were finally able to push the Flemish-Wallonian army back to Brussels where after fierce fighting the German king surrendered. With no clear answer yet from the German Empire, many fear that an independent Belgium might be shortlived especially with tensions between the Empire and the Commune of France rising and the strategic location of the country."
+bel.219.d:0 "Sick of German oppression and the disaster of Black Monday, Belgian independence movements throughout the country have been revolting and performing guerrilla strikes on the German army. Due to their own recovery they have been unable to support Adelbert I to the fullest and have made the situation get out of control. After coordinated strikes by The Independence Army on the cities of Mons and Antwerp, they were finally able to push the Flemish-Walloon army back to Brussels where after fierce fighting the German king surrendered. With no clear answer yet from the German Empire, many fear that an independent Belgium might be shortlived especially with tensions between the Empire and the Commune of France rising and the strategic location of the country."
 bel.219.a:0 "Good luck Belgium!"
 #Elections
 bel.1000.t:0 "Elections of 1940"
@@ -1397,8 +1391,8 @@ bel.210.t:0 "Rhineland Occupation"
 bel.210.d:0 "The German giant has been pushed back and we have taken control over the western bank of the Rhine. To further facilitate our resistance suppression policy a plan has been proposed to create a Rhineland protectorate."
 bel.210.a:0 "Execute the plan."
 
-bel.211.t:0 "The Luxembourg Question"
-bel.211.d:0 "Lost to the Netherlands with the treaty of London after the independence war, Luxembourg has finally come back under our control. The population, although not Walloon or Flemish in nature, might still be willing to join our country as a full extension of our Luxembourg province. A referendum will be held when peace has been reestablished determining the future of Luxembourg."
+bel.211.t:0 "The Luxemburg Question"
+bel.211.d:0 "Lost to the Netherlands with the treaty of London after the independence war, Luxemburg has finally come back under our control. The population, although not Walloon or Flemish in nature, might still be willing to join our country as a full extension of our Luxemburg province. A referendum will be held when peace has been reestablished determining the future of Luxemburg."
 bel.211.a:0 "Recreate the Duchy for now."
 
 bel.212.t:0 "The Eupen-Malmédy Question"
@@ -1406,24 +1400,24 @@ bel.212.d:0 "As our soldiers march forward into Eupen and hoist the Belgian colo
 bel.212.a:0 "Keep pushing out the Hun!"
 
 bel.213.t:0 "Wallonia Reunited!"
-bel.213.d:0 "With the last German soldiers driven out of Arlon, our entire country has finally been reunited. A great victory for Belgium but only a small step towards the ultimate defeat of the Kaiser."
+bel.213.d:0 "With the last German soldiers driven out of Bastogne, our entire country has finally been reunited. A great victory for Belgium but only a small step towards the ultimate defeat of the Kaiser."
 bel.213.a:0 "The Belgian army is marching onwards."
 #Luxembourg Referendum
-bel.2110.t:0 "The Luxembourg question"
-bel.2110.d:0 "Instead of a full annexation when we marched through Luxembourg, the Grand Duchess was restored and a promise was made to hold a referendum concerning the post-war status of the Duchy. Now that peace has been restored the Grand Duchess has come it is time to hold a referendum deciding the fate of the country. The Luxembourg people will have to decide between remaining an independent nation or attachment to Belgium. Polls at the eve of the referendum are unable to give a clear indication as to which side will win and whether or not Belgium will be a province richer."
+bel.2110.t:0 "The Luxemburg question"
+bel.2110.d:0 "Instead of a full annexation when we marched through Luxemburg, the Grand Duchess was restored and a promise was made to hold a referendum concerning the post-war status of the Duchy. Now that peace has been restored the Grand Duchess has come it is time to hold a referendum deciding the fate of the country. The Luxemburg people will have to decide between remaining an independent nation or attachment to Belgium. Polls at the eve of the referendum are unable to give a clear indication as to which side will win and whether or not Belgium will be a province richer."
 bel.2110.a:0 "Hold the referendum."
-bel.2110.b:0 "Luxembourg has no choice in this matter, annex it!"
+bel.2110.b:0 "Luxemburg has no choice in this matter, annex it!"
 #bel.2111.t:0 "The Luxembourg referendum"
 #bel.2111.d:0 ""
 #bel.2111.a:0 "Join Belgium"
 #bel.2111.b:0 "We will retain our independence!"
-bel.2112.t:0 "Luxembourg Votes to Join Belgium"
-bel.2112.d:0 "The last polling stations have closed noting a record turn-out in the city of Luxembourg itself. First results are coming out indicating a slight majority favouring joining Belgium with 48,631 votes in favour and 42,015 votes against with turnout noted at 72.1%. The Duchess has congratulated the Belgian government on the result and has laid down her power in favour of Brussels."
+bel.2112.t:0 "Luxemburg Votes to Join Belgium"
+bel.2112.d:0 "The last polling stations have closed noting a record turn-out in the city of Luxemburg itself. First results are coming out indicating a slight majority favouring joining Belgium with 48,631 votes in favour and 42,015 votes against with turnout noted at 72.1%. The Duchess has congratulated the Belgian government on the result and has laid down her power in favour of Brussels."
 bel.2112.a:0 "We welcome our new brethren!"
 
-bel.2113.t:0 "Luxembourg Votes For Independence!"
-bel.2113.d:0 "The last polling stations have closed noting a record turn-out in the city of Luxembourg itself. First results are coming out indicating a slight majority favouring retaining independence with 48,631 votes in favour and 42,015 votes against with turnout noted at 72.1%. The Belgian government has congratulated the Duchess on the result and has promised to leave them independent, under our direction..."
-bel.2113.a:0 "Good luck Luxembourg!"
+bel.2113.t:0 "Luxemburg Votes For Independence!"
+bel.2113.d:0 "The last polling stations have closed noting a record turn-out in the city of Luxemburg itself. First results are coming out indicating a slight majority favouring retaining independence with 48,631 votes in favour and 42,015 votes against with turnout noted at 72.1%. The Belgian government has congratulated the Duchess on the result and has promised to leave them independent, under our direction..."
+bel.2113.a:0 "Good luck Luxemburg!"
 
 #Protest Agressive Further reaction
 flawa.2.t:0 "Geuzengroep Uncovered"
@@ -1432,7 +1426,7 @@ flawa.2.a:0 "Slowly increase our safety checks."
 flawa.2.b:0 "Completely overhaul the training process."
 
 flawa.3.t:0 "Geuzengroep Suffers Losses"
-flawa.3.d:0 "Due to the recent increase in background checks and close internal investigation into our police forces, we have been able to capture more than three hundred members of the Geuzengroep, thus greatly disrupting their capacity to damage our regime. King Adalbert himself has personally awarded the commander of the Vlaamse Wacht with a medal, rewarding his loyalty and dedication to defeating the enemies of Flanders-Wallonia."
+flawa.3.d:0 "Due to the recent increase in background checks and close internal investigation into our police forces, we have been able to capture more than three hundred members of the Geuzengroep, thus greatly disrupting their capacity to damage our regime. King Adelbert himself has personally awarded the commander of the Vlaamse Wacht with a medal, rewarding his loyalty and dedication to defeating the enemies of Flanders-Wallonia."
 flawa.3.a:0 "A great success for our repression policy!"
 
 flawa.4.t:0 "Strikes in Ghent"
@@ -1547,16 +1541,16 @@ flawa.28.a:0 "Persuade them to join the Vlaamse Wacht."
 flawa.28.b:0 "Disband the movement by force."
 
 flawa.29.t:0 "Flemish Coup"
-flawa.29.d:0 "Around lunchtime, when Adalbert was enjoying his meal in the royal palace, events suddenly kicked off. Sick of German tyranny, Flemish nationalists have slowly been expanding their influence as of late - and after recent measures by the king they have finally seen an opportunity to execute their plans.\n\nWith orders from Van Severen and other members of the Council, at around 12:47 PM members of the Vlaamse Wacht departed their Brussels barracks in lorries. A first detachment was deployed and rushed towards the federal Parliament which was in session. By quickly overwhelming the security guards the putschists were able to establish a fortified position in the building and hold many parliamentarians hostage.\n\nAnother detachment headed straight for the royal palace, and by ramming the front gate with a special lorry they managed to storm it. Overwhelming the royal guard, they were able to secure the building. With one swift and powerful strike, the Government has been completely paralysed."
+flawa.29.d:0 "Around lunchtime, when Adelbert was enjoying his meal in the royal palace, events suddenly kicked off. Sick of German tyranny, Flemish nationalists have slowly been expanding their influence as of late - and after recent measures by the king they have finally seen an opportunity to execute their plans.\n\nWith orders from Van Severen and other members of the Council, at around 12:47 PM members of the Vlaamse Wacht departed their Brussels barracks in lorries. A first detachment was deployed and rushed towards the federal Parliament which was in session. By quickly overwhelming the security guards the putschists were able to establish a fortified position in the building and hold many parliamentarians hostage.\n\nAnother detachment headed straight for the royal palace, and by ramming the front gate with a special lorry they managed to storm it. Overwhelming the royal guard, they were able to secure the building. With one swift and powerful strike, the Government has been completely paralysed."
 flawa.29.a:0 "Oh..."
 
 flawa.30.t:0 "Regime Forces React"
-flawa.30.d:0 "After the initial shock wore off, German and regime troops from the army barracks situated around the city mobilised and rushed towards the centre. Upon arrival they were met with fierce resistance from elements of the underground movement which saw an opportunity and helped execute the coup. With regime forces unable to reach the palace in time, Vlaamse Wacht quickly managed to breach the last line of defence and poured into the royal dining room. There they met Adalbert, still enjoying his soup and completely unaware of the situation.\n\nHendrik Elias, head of the Vlaamse Wacht has proposed an ultimatum to the king: that either he abdicates voluntarily as ruler of Flanders-Wallonia and stays as a hostage until arrangements with the German Empire have been made, or that alternatively he signs a decree ending his influence in Flemish-Wallonian politics."
+flawa.30.d:0 "After the initial shock wore off, German and regime troops from the army barracks situated around the city mobilised and rushed towards the centre. Upon arrival they were met with fierce resistance from elements of the underground movement which saw an opportunity and helped execute the coup. With regime forces unable to reach the palace in time, Vlaamse Wacht quickly managed to breach the last line of defence and poured into the royal dining room. There they met Adelbert, still enjoying his soup and completely unaware of the situation.\n\nHendrik Elias, head of the Vlaamse Wacht has proposed an ultimatum to the king: that either he abdicates voluntarily as ruler of Flanders-Wallonia and stays as a hostage until arrangements with the German Empire have been made, or that alternatively he signs a decree ending his influence in Flemish-Walloon politics."
 flawa.30.a:0 "Abdicate."
 flawa.30.b:0 "Sign the bill."
 
 flawa.31.t:0 "The Flemish Council Takes Control"
-flawa.31.d:0 "With Adalbert deposed, Joris Van Severen has successfully taken control and declared himself leader of the country until stability has been restored. German citizens, fearing for their lives, are fleeing the country as quickly as they can, leaving much of their wealth behind. We have the opportunity now to right the wrongs of the Weltkrieg and all of the regime's excesses over the past twenty years, inflicting upon the occupiers and their lackeys a brutal humiliation. On the other hand, we could set our nation on a new course - to move beyond the injustices of the past."
+flawa.31.d:0 "With Adelbert deposed, Joris Van Severen has successfully taken control and declared himself leader of the country until stability has been restored. German citizens, fearing for their lives, are fleeing the country as quickly as they can, leaving much of their wealth behind. We have the opportunity now to right the wrongs of the Weltkrieg and all of the regime's excesses over the past twenty years, inflicting upon the occupiers and their lackeys a brutal humiliation. On the other hand, we could set our nation on a new course - to move beyond the injustices of the past."
 flawa.31.a:0 "Take revenge for the Rape of Belgium!"
 flawa.31.b:0 "We are decent men."
 
@@ -1574,7 +1568,7 @@ flawa.34.d:0 "In an effort to restore order to the nation, Deffontaine has seize
 flawa.34.a:0 "We shall schedule new elections within sixty days."
 
 flawa.35.t:0 "The Flemish Council Proclaims the Duchy of Flanders!"
-flawa.35.d:0 "In a last ditch effort to secure their power over the Flemish region before Adalbert finally disbands them, the Council taken the bold step of unanimously declaring Flanders independent from the union. Though they have the backing of the hard-line flamingants and some detachements of the Vlaamse Wacht, they could be fairly easily be crushed by the full might of the German Empire. We could however recognise their decision as legitimate and grant them self-governance in our union."
+flawa.35.d:0 "In a last ditch effort to secure their power over the Flemish region before Adelbert finally disbands them, the Council taken the bold step of unanimously declaring Flanders independent from the union. Though they have the backing of the hard-line flamingants and some detachements of the Vlaamse Wacht, they could be fairly easily be crushed by the full might of the German Empire. We could however recognise their decision as legitimate and grant them self-governance in our union."
 flawa.35.a:0 "Crush the rebellion."
 flawa.35.b:0 "Recognise the Duchy of Flanders."
 
@@ -1583,29 +1577,29 @@ flawa.36.d:0 "The Flemish have suffered a crushing defeat but German High Comman
 flawa.36.a:0 "Take that Flamouches!"
 
 flawa.37.t:0 "Flemish Council Takes Control"
-flawa.37.d:0 "With Adalbert's signature on the bill, he has been rendered constitutionally powerless and incapable of acting as little more than a figurehead for the nation. While the Flemish Council has now secured all but total control over the nation, they still have a long road ahead of them to convince the populace of their good intentions. A good step in that direction would be restoring free elections, allowing all parties to have a say in Parliament. However, fervent nationalists and Dietsland proponents in the Council are opposed to the idea, suggesting that this could lead to a rise in syndicalist popularity which would endanger their positions."
+flawa.37.d:0 "With Adelbert's signature on the bill, he has been rendered constitutionally powerless and incapable of acting as little more than a figurehead for the nation. While the Flemish Council has now secured all but total control over the nation, they still have a long road ahead of them to convince the populace of their good intentions. A good step in that direction would be restoring free elections, allowing all parties to have a say in Parliament. However, fervent nationalists and Dietsland proponents in the Council are opposed to the idea, suggesting that this could lead to a rise in syndicalist popularity which would endanger their positions."
 flawa.37.a:0 "Elections shall go ahead."
 flawa.37.b:0 "The Council rules unopposed."
 
-flawa.38.t:0 "Elections for the Flemish-Wallonian Parliament"
-flawa.38.d:0 "As decreed by the Council which has voluntarily stepped down, elections are to be held throughout the nation. While the restrictions imposed by Adalbert have been severly loosened, German observers are still keeping a keen eye on their puppet and will intervene if necessary."
+flawa.38.t:0 "Elections for the Flemish-Walloon Parliament"
+flawa.38.d:0 "As decreed by the Council which has voluntarily stepped down, elections are to be held throughout the nation. While the restrictions imposed by Adelbert have been severly loosened, German observers are still keeping a keen eye on their puppet and will intervene if necessary."
 flawa.38.a:0 "BWP gains a majority."
 flawa.38.b:0 "KP delivers the PM."
 flawa.38.c:0 "LP achieves the most seats."
 
 flawa.39.t:0 "Socialists Achieve Electoral Victory in Flanders-Wallonia"
-flawa.39.d:0 "After the Flemish Council reduced the power of Wilhelm's son Adalbert in the Government, the socialist BWP party has won the snap election and gained control of the state. While it is unclear yet if they are planning to 'reform' the state into a syndicalist bastion like in the neighbouring Commune of France, or just to pass progressive legislation, we have the possibilty to pre-emptively intervene and restore Adalbert to power using our forces stationed in the country."
+flawa.39.d:0 "After the Flemish Council reduced the power of Wilhelm's son Adelbert in the Government, the socialist BWP party has won the snap election and gained control of the state. While it is unclear yet if they are planning to 'reform' the state into a syndicalist bastion like in the neighbouring Commune of France, or just to pass progressive legislation, we have the possibilty to pre-emptively intervene and restore Adelbert to power using our forces stationed in the country."
 flawa.39.a:0 "The Reich cannot endure another den of leftists!"
 flawa.39.b:0 "We shall not intervene directly..."
 
 flawa.40.t:0 "German Intervention"
-flawa.40.d:0 "In an effort to quell the rise of syndicalist elements in the BWP, the German army has stepped in and restored Adalbert to power. Garrisons across the nation have been bolstered with extra reinforcements and a curfew has been instated in the Flemish cities and the Sillon Industriel to prevent any escalation."
-flawa.40.a:0 "Adalbert rules supreme."
+flawa.40.d:0 "In an effort to quell the rise of syndicalist elements in the BWP, the German army has stepped in and restored Adelbert to power. Garrisons across the nation have been bolstered with extra reinforcements and a curfew has been instated in the Flemish cities and the Sillon Industriel to prevent any escalation."
+flawa.40.a:0 "Adelbert rules supreme."
 
 #Peaceful Belgian Transistion
 
 flawa.41.t:0 "Protests in Ghent and Antwerpen"
-flawa.41.d:0 "Protesting against the dissolution of the Landwacht and the complete eradication of Verdinaso, hundreds have flocked to the streets to raise their voices against the king's decision. While the protests seem nothing more than yet another peaceful attempt at forcing the departure of Adalbert, strong intervention may be necessary to show the rabble who is really in control here."
+flawa.41.d:0 "Protesting against the dissolution of the Landwacht and the complete eradication of Verdinaso, hundreds have flocked to the streets to raise their voices against the king's decision. While the protests seem nothing more than yet another peaceful attempt at forcing the departure of Adelbert, strong intervention may be necessary to show the rabble who is really in control here."
 flawa.41.a:0 "Let them protest."
 flawa.41.b:0 "Send in the cavalry."
 
@@ -1625,10 +1619,10 @@ flawa.44.a:0 "Let Belgium have its independence."
 flawa.44.b:0 "The fools forget their place!"
 
 flawa.45.t:0 "The Commune of Belgium Declares Independence"
-flawa.45.d:0 "Fuelled by revanchism against the German occupiers and the continued oppression by Adalbert and his regime, syndicalists in our nation have finally seized their chance and declared the nation of Belgium part of the Internationale and announced their support for the Communards in the war against the German Empire."
+flawa.45.d:0 "Fuelled by revanchism against the German occupiers and the continued oppression by Adelbert and his regime, syndicalists in our nation have finally seized their chance and declared the nation of Belgium part of the Internationale and announced their support for the Communards in the war against the German Empire."
 flawa.45.a:0 "The Fires of Revolution burn throughout the nation."
 
-#Adalbert starts reforming
+#Adelbert starts reforming
 
 flawa.50.t:0 "Corruption in the Generale Bank"
 flawa.50.d:0 "After the Generale Bank was split off from the Societe Generale de la Belgique after the Black Monday crash last year, Flemish Council representatives were placed into high ranking postions within the organisation. This morning however, the De Standaard newspaper published a front page article detailing high ranking corruption within the institution. A number of major Catholic members and German industrialists are mentioned by name, while Paul Van Zeeland, the head of the Catholic Party, has been publicly accused of being responsible for the corruption infesting the organisation..."
@@ -1639,7 +1633,7 @@ flawa.51.d:0 "Upon Van Zeeland's entry into Parliament, unrest amongst the ranks
 flawa.51.a:0 "Search his home and office."
 
 flawa.52.t:0 "Feldgendarmerie Storms Generale Bank Headquarters"
-flawa.52.d:0 "With a search warrant signed directly by Adalbert I himself, a strike force of the Feldgendarmerie has been ordered to storm the Generale Bank in a dawn raid and secure all documents and key personnel for the investigation. While the Gendarmerie successfully confiscated hundreds of documents, the Bank's ovens were conveniently putting in overtime in an effort to try and destroy as much evidence as possible. By the evening ten large trucks drove out of the building transporting all evidence to the palace."
+flawa.52.d:0 "With a search warrant signed directly by Adelbert I himself, a strike force of the Feldgendarmerie has been ordered to storm the Generale Bank in a dawn raid and secure all documents and key personnel for the investigation. While the Gendarmerie successfully confiscated hundreds of documents, the Bank's ovens were conveniently putting in overtime in an effort to try and destroy as much evidence as possible. By the evening ten large trucks drove out of the building transporting all evidence to the palace."
 flawa.52.a:0 "Appoint an investigation commission."
 
 flawa.53.t:0 "Sap Speaks Out Against Louis Franck"
@@ -1654,16 +1648,16 @@ flawa.55.t:0 "Louis Franck Commits Suicide"
 flawa.55.d:0 "Increasing pressure from all sides and the German investigation into his tenure as director of the Generale Bank have taken their toll on Louis Franck who commiyted suicide yesterday evening. He was found next to his service weapon from the Weltkrieg and dressed in full uniform, with a note on his nightstand detailing the roles of all persons implicated in the scandal. With this last act, he hopes to have done the right thing for his fatherland and that his relatives will be spared from his shame. Already the Feldgendarmerie have been deployed en-masse to imprison the many wretches Franck has implicated."
 flawa.55.a:0 "With this last act, he has regained some measure of honour."
 
-flawa.56.t:0 "Adalbert Accuses the Council"
-flawa.56.d:0 "With the arrests of any prominent members of the Flemish Council, Adalbert has pointed out the widespread corruption and treachery of the body and its danger to the goal of securing a safe and free Flanders-Wallonia. Police forces and the Investigation Committee are following the crisis closely, trying to root out the deeply embedded malfeasance we have now discovered lying beneath the surface of many national institutions."
+flawa.56.t:0 "Adelbert Accuses the Council"
+flawa.56.d:0 "With the arrests of any prominent members of the Flemish Council, Adelbert has pointed out the widespread corruption and treachery of the body and its danger to the goal of securing a safe and free Flanders-Wallonia. Police forces and the Investigation Committee are following the crisis closely, trying to root out the deeply embedded malfeasance we have now discovered lying beneath the surface of many national institutions."
 flawa.56.a:0 "The Council is clearly outliving its usefulness..."
 
 flawa.57.t:0 "Creation of the Rijkswacht"
-flawa.57.d:0 "With the Feldgendarmerie pleading loyalty to Adalbert himself and the Vlaamse Wacht under Council administration, the Government has voted for the creation of the Rijkswacht to fulfil the roles of the Vlaamse Wacht and to secure a more apolitical police force."
+flawa.57.d:0 "With the Feldgendarmerie pleading loyalty to Adelbert himself and the Vlaamse Wacht under Council administration, the Government has voted for the creation of the Rijkswacht to fulfil the roles of the Vlaamse Wacht and to secure a more apolitical police force."
 flawa.57.a:0 "Another the blow to the Council."
 
 flawa.59.t:0 "Cooperative Vooruit Presses for BWP membership"
-flawa.59.d:0 "While the first elections since the Weltkrieg have been planned for 1938 due to Adalbert's recent reforms, the BWP or Belgian Workers Party is still forbidden from partaking due to the fear of socialism spreading amongst the common man. To protest this decision, De Man and the cooperatives are pressing their members to go on the streets and protest against this injustice. They also have been calling for all citizens to vote 'none of the above' if the elections do move ahead without them."
+flawa.59.d:0 "While the first elections since the Weltkrieg have been planned for 1938 due to Adelbert's recent reforms, the BWP or Belgian Workers Party is still forbidden from partaking due to the fear of socialism spreading amongst the common man. To protest this decision, De Man and the cooperatives are pressing their members to go on the streets and protest against this injustice. They also have been calling for all citizens to vote 'none of the above' if the elections do move ahead without them."
 flawa.59.a:0 "The BWP has fed greedily off Black Monday's embers."
 
 flawa.60.t:0 "French Agitators Captured in Charleroi"
@@ -1671,7 +1665,7 @@ flawa.60.d:0 "After a strike in the Charleroi industrial region, multiple French
 flawa.60.a:0 "Arrange an audience with De Man"
 
 flawa.61.t:0 "Royal Audience with De Man"
-flawa.61.d:0 "Due to the Charleroi strikes and the subsequent arrests of multiple French syndicalist agitators, Adalbert has decided to tackle the problem headfirst and has arranged a meeting with leader of the BWP, Hendrik De Man. While the king is reluctant to allow the BWP participation in the upcoming elections, De Man promised has him that only through a strong, centralised social democrat leadershi can be Flanders-Wallonia be saved from falling to extremism."
+flawa.61.d:0 "Due to the Charleroi strikes and the subsequent arrests of multiple French syndicalist agitators, Adelbert has decided to tackle the problem headfirst and has arranged a meeting with leader of the BWP, Hendrik De Man. While the king is reluctant to allow the BWP participation in the upcoming elections, De Man promised has him that only through a strong, centralised social democrat leadershi can be Flanders-Wallonia be saved from falling to extremism."
 flawa.61.a:0 "Only through cooperation can we secure stability."
 flawa.61.b:0 "All Socialists are traitors to the king!"
 
@@ -1713,7 +1707,7 @@ belind.2.a:0 "Create the Language Commission."
 belind.2.b:0 "Belgium has more important issues!"
 
 belind.3.t:0 "Status of the German Minority"
-belind.3.d:0 "German influence in Flanders-Wallonia and the integration plans of Adalbert have dramatically increased the number of German speakers, who have become too large a minority to ignore. On the eastern side of Liège and the city of Brussels especially their influence is extremely tangible and the regions are currently undergoing protests, leading to serious tensions with the Flemish and Walloon populace. The German minority request that German is recognised as an official language and that the German community is granted their own measure of autonomous government. If we give in to their requests, this could lead to tensions in Flanders where separatism is still standing strong."
+belind.3.d:0 "German influence in Flanders-Wallonia and the integration plans of Adelbert have dramatically increased the number of German speakers, who have become too large a minority to ignore. On the eastern side of Liège and the city of Brussels especially their influence is extremely tangible and the regions are currently undergoing protests, leading to serious tensions with the Flemish and Walloon populace. The German minority request that German is recognised as an official language and that the German community is granted their own measure of autonomous government. If we give in to their requests, this could lead to tensions in Flanders where separatism is still standing strong."
 belind.3.a:0 "Ignore the German plea."
 belind.3.b:0 "Look into creating Language Communities."
 
@@ -1794,3 +1788,10 @@ belind.14.c:0 "The KP/DC achieves victory."
 belind.15.t:0 "Volksunie Announces its Victory"
 belind.15.d:0 "Bolstered by the discontent of citizens residing on the language border and attracting voters from the much more radical Verdinaso and VNV, the Volksunie has won the election by a close margin. They claim they seek to act on their election promises and reform Belgium into a confederacy where the Flemish and Walloon governments are freed from the restrictions of Brussels and can act on their own as they see fit."
 belind.15.a:0 "This will be a long and hard process."
+
+### Flags ###
+BEL_NO_STANDING_ARMY:0 "Does not have a standing army"
+BEL_STANDING_ARMY:0 "Has a standing army"
+Small_Vlaamse_Wacht:0 "Has not restored the rights of the Vlaamse Wacht"
+Feldgendarmerie:0 "The Feldgendarmerie have been given the right to operate in Flanders-Wallonia"
+Belgium_Guaranteed_Germ:0 "The Treaty of Arel has been signed"
