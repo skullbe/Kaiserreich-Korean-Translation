@@ -25,6 +25,12 @@ IRE_totalist_party_long:0 "혁명적 노동자 그룹"
 ### Tooltips ###
 IREUOB_DET2:0 "영국이 우리의 제안을 수락함"
 
+### Decisions ###
+IRE_american_civil_war:0 "Reacting to the American Civil War"
+IRE_american_civil_war_desc:0 "Political tensions stemming from America's economic collapse at the end of the Weltkrieg have finally come to a head, and civil war has broken out. Due to our connections with America, Ireland may be affected and must be prepared for any potential consequences."
+IRE_send_ira_syndie:0 "Send the IRA Volunteers"
+IRE_send_ira_syndie_desc:0 "America is embroiled in her own revolution. We should help our comrades across the sea in their own struggle. A number of IRA volunteers are willing to go and support them. "
+
 ### Ideas ###
 IRE_DEFENCE:0 "공화국 방어"
 IRE_DEFENCE_desc:0 "700년 간의 영국의 지배 끝에, 아일랜드 사람들은 마침내 독립을 이뤄냈습니다. 하지만, 브리튼과 캐나다는 여전히 아일랜드를 위협하고 있으며, 만약 이것이 전쟁으로 발전한다면 아일랜드 사람들은 지리를 잘 알고 있다는 점과 자유를 지키겠다는 마음가짐으로 전투를 준비해야 할 것입니다."
@@ -904,14 +910,17 @@ ire.207.t:0 "America declines our proposal"
 ire.207.d:0 "America has declined an alliance, seeing no need for such a thing. Still, we are protected by them in the case of an attack."
 ire.207.a:0 "Oh well.."
 ire.208.t:0 "Ireland supports us!"
-ire.208.d:0 "The Irish government, seeing us as a bulwark against Syndicalism, has sent us volunteers to assist us in our fight!"
+ire.208.d.not_syndie:0 "The Irish government, seeing us as a bulwark against Syndicalism, has sent us volunteers to assist us in our fight!"
+ire.208.d.syndie:0 "Our Comrades in Ireland have sent two volunteers to help us in our struggle in our revolution. "
 ire.208.a:0 "Erin go bragh!"
+
+
 ire.209.t:0 "End of the Second American Civil War"
 ire.209.d:0 "The Second American Civil War has ended, and the IRA volunteers we sent are returning home, with new experience from the fighting."
 ire.209.a:0 "Welcome home!"
 ire.210.t:0 "Immigration and the Economy"
 ire.210.d:0 "The influx of American capital and technical expertise, not to mention cheap labour, has had a positive effect on our economy."
-ire.210.a:0 "훌륭하군!"
+ire.210.a:0 "Great!"
 
 ### Syndicalist Ireland ###
 ire.216.t:0 "Ireland wants to join the Internationale"
@@ -965,8 +974,8 @@ ire.227.a:0 "Maintain the revolutionary government!"
 ### FP Ideas ###
 IRE_FINAL_STRUGGLE:0 "The Final Struggle"
 IRE_FINAL_STRUGGLE_desc:0 "As Ireland openly declares hostility against Britain and prepares for war, the morale of the Irish people has been bolstered, readying themselves for the final battle of Irish freedom with the hope of at last avenging the many centuries of British tyranny over Ireland."
-IRE_AUTARKY:0 "Autarky"
-IRE_AUTARKY_desc:0 "Against all odds, the Irish economy has managed to soar from the ashes of British misrule and Ireland has become in many ways self-sufficient economically. Some of the restrictions on exports that helped to achieve this however were unpopular with Ireland's trading partners, and will affect their opinion of Irish reliability for years to come."
+#IRE_AUTARKY:0 "Autarky"
+#IRE_AUTARKY_desc:0 "Against all odds, the Irish economy has managed to soar from the ashes of British misrule and Ireland has become in many ways self-sufficient economically. Some of the restrictions on exports that helped to achieve this however were unpopular with Ireland's trading partners, and will affect their opinion of Irish reliability for years to come."
 IRE_USA_trade:0 "Irish-American Trade"
 IRE_USA_trade_desc:0 "While Irish-American relations were chilly at first as a result of differing alignments and American economic collapse, negotiations and trade between the two governments has begun and Irish-American relations are warming."
 IRE_USA_tech:0 "Irish-American Research"
@@ -1038,7 +1047,7 @@ ire_dublin_shipyard_desc:0 "We are now able to produce light screen ships at a m
 IRE_CAPITALSHIPDOCKYARD:0 "Belfast Capital Shipwright"
 IRE_CAPITALSHIPDOCKYARD_desc:0 "Small ships and submarines are children's toys in comparison to the mighty visage of a battleship. If we're going to be taken seriously as any sort of naval power, we need to produce big, powerful ships. Belfast is the perfect place to start."
 ire_belfast_shipwright:0 "Belfast Capital Shipwright"
-ire_belfast_shipwright:0 "Belfast is one of the finest shipbuilding cities in the world and it's got even better thanks to a shipyard designed entirely to build battleships for our nation."
+ire_belfast_shipwright_:0 "Belfast is one of the finest shipbuilding cities in the world and it's got even better thanks to a shipyard designed entirely to build battleships for our nation."
 
 # Air force
 IRE_AIRFORCE:0 "An tAerchór"
@@ -1149,12 +1158,12 @@ IRE_OFFICER_SCHOOL:0 "Officer School"
 IRE_OFFICER_SCHOOL_desc:0 "The establishment of an officer school has aided the training of both old officers from the War of Independence and new candidates."
 IRE_BLUESHIRTS:0 "The Army Comrades Association"
 IRE_BLUESHIRTS_desc:0 "The Army Comrades Association, also known by their nickname, the Blueshirts, is a paramilitary organisation under the control of the Taoiseach Eoin O'Duffy, recruiting among only the native Irish who profess the Christian faith. The Irish government has integrated the ACA into their security forces, for the defence of Ireland and hunting down syndicalists and other internal threats."
-IRE_BLUEBLOUSES:0 "The Blueblouses"
-IRE_BLUEBLOUSES_desc:0 "The Blueblouses are the nickname for the women's branch of the Army Comrades Association. Inspired by the Cumann na mBan and to compensate for Ireland's low population in comparison to its enemies, the Blueblouses have been allowed to serve in the Irish Army. This however is not popular among traditionalists."
-IRE_ICA:0 "The Irish Citizen Army"
-IRE_ICA_desc:0 "The Irish Citizen Army played a large part in the Easter Rising, however the organisation was banned and their legacy was covered up after an attempted insurrection in 1923. Having played a part in resisting Collins, they have been integrated by the new government for defending Ireland and hunting reactionaries."
-IRE_CNM:0 "Female Soldiers"
-IRE_CNM_desc:0 "Inspired by the Irish Citizen Army and the Cumann na mBan of 1916, the Irish government has conscripted women into the army alongside men. However, this news is recieved very poorly among traditionalists, and further destabilises the new Irish republic."
+#IRE_BLUEBLOUSES:0 "The Blueblouses" already defined above as a focus
+#IRE_BLUEBLOUSES_desc:0 "The Blueblouses are the nickname for the women's branch of the Army Comrades Association. Inspired by the Cumann na mBan and to compensate for Ireland's low population in comparison to its enemies, the Blueblouses have been allowed to serve in the Irish Army. This however is not popular among traditionalists." already defined above as a focus
+#IRE_ICA:0 "The Irish Citizen Army" already defined above as a focus
+#IRE_ICA_desc:0 "The Irish Citizen Army played a large part in the Easter Rising, however the organisation was banned and their legacy was covered up after an attempted insurrection in 1923. Having played a part in resisting Collins, they have been integrated by the new government for defending Ireland and hunting reactionaries." already defined above as a focus
+#IRE_CNM:0 "Female Soldiers" already defined above as a focus
+#IRE_CNM_desc:0 "Inspired by the Irish Citizen Army and the Cumann na mBan of 1916, the Irish government has conscripted women into the army alongside men. However, this news is recieved very poorly among traditionalists, and further destabilises the new Irish republic." already defined above as a focus
 IRE_LAST_STAND:0 "Come Woe or Weal"
 IRE_LAST_STAND_desc:0 "Ireland is once again alone at war against the British, and the survival of Irish independence looks unlikely. With nothing to lose the Irish people are willing to fight until the end."
 
