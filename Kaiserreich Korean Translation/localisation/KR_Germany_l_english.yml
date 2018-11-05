@@ -222,7 +222,16 @@ ZO_europabrigad_idea_tooltip:0 "§Y유럽 여단§!을 세우면 다음을 얻�
 GER_angry_ukraine:0 "§R이는 우크라이나와의 관계를 해칠 것이며 우크라이나 정부를 약화시킬 것입니다.§!"
 GER_angry_socialists:0 "§G그들은 우리 군대의 일부가 될 것입니다.§!"
 GERfor.25_tooltip:0 "우리는 분쟁에 도움이 될 몇몇 사단을 양성할 것입니다."
-GER_reichstag_in_progress_tooltip:0 "우리는 정책이 실행되는 동안 다른 정책에 대한 토론을 시작할 수 없습니다."																										
+GER_reichstag_in_progress_tooltip:0 "우리는 정책이 실행되는 동안 다른 정책에 대한 토론을 시작할 수 없습니다."
+GER_frapartwll_tt:0 "A Walloon militia will be formed."
+GER_frapartals_tt:0 "Two Alsatian militias will be formed."
+GER_namaskaris_tt:0 "A new division of South West African Askaris will be formed."
+GER_tnzaskaris_tt:0 "Six new divisions of Tanganyikan Askaris will be formed."
+GER_cnraskaris_tt:0 "Four new divisions of Congolese Askaris will be formed."
+GER_ceaaskaris_tt:0 "Three new divisions of Central African Askaris will be formed."
+GER_ngraskaris_tt:0 "Three new divisions of Nigerian and Cameroonian Askaris will be formed."
+GER_ghaaskaris_tt:0 "Three new divisions of Ashantian Askaris will be formed."
+GER_ruswar_tt:0 "Eleven new reserve divisions will be raised."
 
 ### Opinion Modifiers ###
 sri_lanka:0 "제국주의 괴짜"
@@ -363,11 +372,11 @@ GER_doctrine_mobile_2_desc:0 "군 고위 지휘부의 하인츠 폰 구데리안
 GER_mil_expansion:0 "군대 확장"
 GER_mil_expansion_desc:0 "With the death of Hans von Seeckt and the retirement of August von Mackensen, the Chief of General Staff has been embroiled in heated debate as to which military doctrine should be adopted. We should establish an impartial committee of military officers to oversee the adoption of new doctrine."
 
-GER_doctrine_great_war:0 "현대 전쟁론"
-GER_doctrine_great_war_desc:0 "There is one book that every man who wants to become an officer in the army of the Reich must read - Clausewitz's 'On War'. If we put our best military theorists on the subject, they can adapt the still applicable principles from the centuries-old book to the requirements of modern warfare."
+#GER_doctrine_great_war:0 "현대 전쟁론"
+#GER_doctrine_great_war_desc:0 "There is one book that every man who wants to become an officer in the army of the Reich must read - Clausewitz's 'On War'. If we put our best military theorists on the subject, they can adapt the still applicable principles from the centuries-old book to the requirements of modern warfare."
 
-GER_doctrine_great_war_2:0 "분대 전술"
-GER_doctrine_great_war_2_desc:0 "The Chinese Intervention and more recent conflicts have convinced our officers of the importance of coordination within individual squads. We should integrate so called 'Gruppentaktiken' into our infantry training regime."
+#GER_doctrine_great_war_2:0 "분대 전술"
+#GER_doctrine_great_war_2_desc:0 "The Chinese Intervention and more recent conflicts have convinced our officers of the importance of coordination within individual squads. We should integrate so called 'Gruppentaktiken' into our infantry training regime."
 
 GER_squad_tactics:0 "분대 전술"
 GER_squad_tactics_desc:0 "The Chinese Intervention and more recent conflicts have convinced our officers of the importance of coordination within individual squads. We should integrate so called 'Gruppentaktiken' into our infantry training regime, and make sure they have the equipment to make the most use of it."
@@ -381,11 +390,11 @@ GER_doctrine_superior_firepower_desc:0 "The phrase 'artillery bombardment' fails
 GER_doctrine_superior_firepower_2:0 "크루프 '전술'"
 GER_doctrine_superior_firepower_2_desc:0 "There's nothing quite like a fresh artillery piece from Krupp! An order to our patriotic allies in industry is all it'll take, and we'll have the new artillery we need to back our fierce doctrine."
 
-GER_doctrine_mobile:0 "새로운 교리"
-GER_doctrine_mobile_desc:0 "Some of the more radical innovators in our high command including, among others, Heinz von Guderian and Erich von Manstein, are lobbying for research into a totally new doctrine. They want to focus on the fast movement of armoured spearheads to break up solid fronts."
+#GER_doctrine_mobile:0 "새로운 교리"
+#GER_doctrine_mobile_desc:0 "Some of the more radical innovators in our high command including, among others, Heinz von Guderian and Erich von Manstein, are lobbying for research into a totally new doctrine. They want to focus on the fast movement of armoured spearheads to break up solid fronts."
 
-GER_doctrine_mobile_2:0 "포위의 중요성"
-GER_doctrine_mobile_2_desc:0 "Even those who disagree with their theories would say that Guderian and Manstein have interesting ideas. For example, they propose that an enemy can be outmaneuvered and then easily destroyed once they are out of supplies and cut off. We need to encourage this innovative thinking, as it could make the difference."
+#GER_doctrine_mobile_2:0 "포위의 중요성"
+#GER_doctrine_mobile_2_desc:0 "Even those who disagree with their theories would say that Guderian and Manstein have interesting ideas. For example, they propose that an enemy can be outmaneuvered and then easily destroyed once they are out of supplies and cut off. We need to encourage this innovative thinking, as it could make the difference."
 
 GER_doctrine_mobile_2_prerequisite:0 "§Y하인츠 구데리안§! 또는 §Y에리히 폰 만슈타인§!이 참모총장으로 있어야 합니다."
 
@@ -499,8 +508,8 @@ GER_Mauser_werke_desc:0 "마우저 사를 후원함으로써 소화기 생산량
 GER_mil_expansion_air_1:0 "새로운 활주로 건설"
 GER_mil_expansion_air_1_desc:0 "발로니에에 새로운 공항을 건설함으로써 전시에 프랑스 영공에 대한 도달 범위를 넓힐 수 있습니다."
 
-GER_mil_expansion:0 "군비 확장"
-GER_mil_expansion_desc:0 "우위를 확보했습니다만, 이를 유지하고자 한다면 군이 2순위가 되어서는 안됩니다. 군사 연구와 군 확충에 투자를 합시다."
+#GER_mil_expansion:0 "군비 확장"
+#GER_mil_expansion_desc:0 "우위를 확보했습니다만, 이를 유지하고자 한다면 군이 2순위가 되어서는 안됩니다. 군사 연구와 군 확충에 투자를 합시다."
 
 GER_Luftwaffe_fighter:0 "전투기 중점"
 GER_Luftwaffe_fighter_desc:0 "전투기 연구에 초점을 맞춤으로써 루프트바페는 독일 영공에 대한 어떠한 적이든 격퇴할 수 있을 것입니다!"
@@ -592,7 +601,7 @@ GER_safe_industry_2_desc:0 "프로이센은 독일의 역사와 통치의 중심
 GER_construction:0 "건설에 집중"
 GER_construction_desc:0 "경제가 활기를 띠기 시작했고, 이제는 그 계획을 자연스러운 결말로 밀고 나가야 할 때입니다. 민간 투자, 공공 자금 지원, 또는 외국 자본의 투입을 통해서라도 우리가 할 수 있는 한 최대한 빨리 건설을 시작합니다."
 
-GER_industry_finished:0 "경기 회복"
+#GER_industry_finished:0 "경기 회복"
 GER_industry_finished_desc:0 "검은 월요일 이후 경제 정책이 성공을 거두면서, 민간 투자자들이 활발하게 활동하고 있습니다. 경제는 안정적일 뿐만 아니라 폭발적인 호황을 누리고 있습니다. 이는 오래 지속되지는 않겠지만, 잠시 다른 문제에 집중할 수 있을 것입니다."
 
 GER_industry_research:0 "건설 I"
@@ -627,6 +636,9 @@ GER_artillery_research_desc:0 "독일 육군은 경 지원 화기 운용에 있�
 
 GER_doctrine_armor:0 "기갑 돌파"
 GER_doctrine_armor_desc:0 "구데리안과 만슈타인의 새로운 교리가 보여 주는 또 다른 중요한 요점은 소위 '중심 돌파'라는 것입니다. 이들은 기갑 전력에 충분한 지원 병력이 더해진 기동 기갑부대는 어떤 공격도 승리로 이끌 수 있다고 믿고 있습니다. 이제 그들은 이 교리를 위해 새로운 전차를 필요로 합니다."
+
+#GER_doctrine_armor:0 "P" already defined above
+#GER_doctrine_armor_desc:0 "P" already defined above
 
 GER_hahn_meitner:0 "한 & 마이트너 지원"
 GER_hahn_meitner_desc:0 "한과 프로일라인 마이트너는 매우 뛰어난 물리학자입니다. 한은 심지어 생디칼리즘 세계의 학술지에 정기적으로 글을 쓰며, 마이트너는 카이저 빌헬름 학회의 소장입니다! 이 둘이 아주 강력한 무기를 만드는 데에 도움을 줄 수 있다고 믿습니다. 그보다 더 강력한 무기에 대해서도 말이죠."
@@ -734,8 +746,8 @@ GER_bombergruppen_desc:0 "리히트호펜의 루프트바페 설립의 첫 번�
 GER_singapore_airstrips:0 "싱가포르 활주로 확장"
 GER_singapore_airstrips_desc:0 "싱가포르는 독일령 동아시아의 중심지입니다. 이 요새 도시는 군용 활주로 뿐만 아니라 민간용 활주로도 많이 필요합니다. 생각할 필요도 없이, 그냥 만들면 됩니다."
 
-GER_jet:0 "항공 추종"
-GER_jet_desc:0 "현재 일어나는 충돌로 비행사의 이미지가 바뀌었습니다. 그들은 영광스럽고 용감한 전쟁의 이미지로서 기병을 대체했습니다. 모든 아이들은 빛나는 갑옷을 입고 하늘을 가로지르는 비행사가 되기를 열망합니다. 이 이미지를 더욱 발전시킴으로써, 우리는 조종사들이 라이히를 위해 최선을 다하도록 동기를 부여할 수 있습니다."
+#GER_jet:0 "항공 추종"
+#GER_jet_desc:0 "현재 일어나는 충돌로 비행사의 이미지가 바뀌었습니다. 그들은 영광스럽고 용감한 전쟁의 이미지로서 기병을 대체했습니다. 모든 아이들은 빛나는 갑옷을 입고 하늘을 가로지르는 비행사가 되기를 열망합니다. 이 이미지를 더욱 발전시킴으로써, 우리는 조종사들이 라이히를 위해 최선을 다하도록 동기를 부여할 수 있습니다."
 
 GER_finalise_centralisation:0 "중앙집권화 완성"
 GER_finalise_centralisation_desc:0 "남부 독일의 바덴 왕국, 뷔르템베르크 왕국, 바이에른 왕국의 독립적인 우체국은 독일 연방 체제의 마지막 잔재입니다. 독일 우체국이 이들 국가까지 관리하도록 함으로써, 우리는 모든 분권주의적 경향을 없앨 수 있습니다. 독일은 당신이 빠져서는 안 되는 곳입니다!"
@@ -784,16 +796,16 @@ GER_restore_country_rights_desc:0 "루덴도르프 정권에서 많은 독일 �
 GER_babelsberg:0 "바벨스베르크 확장"
 GER_babelsberg_desc:0 "바벨스베르크의 영화 스튜디오는 오랫동안 세계에서 가장 영향력 있는 영화 산업으로 할리우드를 대체해 왔습니다. 하지만 정치에서 매우 동떨어져 있는 영화라 할지라도, 그 영화가 반드시 정부를 지지하는 것은 아닙니다. 레니 리펜슈탈을 포함한 일부 영화 제작자들이 우리가 금전적인 지원을 해준다면 독일인들의 빛나는 과거와 미래를 보여주는 영화를 만들 수 있다고 제안했습니다."
 
-GER_siemens:0 "지멘스에 대한 보조금"
-GER_siemens_desc:0 "지멘스는 독일 경제의 심장을 이루는 대기업 중 하나입니다. 그들 그리고 다른 중소 기업들과 계약을 맺어 이미 영향력을 행사하는 크루프 AG의 잠재적인 영향력 상승을 막고 철도 및 기타 기반시설 관련 협력 업체와의 경쟁을 강화할 수 있습니다."
+#GER_siemens:0 "지멘스에 대한 보조금"
+#GER_siemens_desc:0 "지멘스는 독일 경제의 심장을 이루는 대기업 중 하나입니다. 그들 그리고 다른 중소 기업들과 계약을 맺어 이미 영향력을 행사하는 크루프 AG의 잠재적인 영향력 상승을 막고 철도 및 기타 기반시설 관련 협력 업체와의 경쟁을 강화할 수 있습니다."
 
-GER_infra_1:0 "새로운 기관차"
-GER_infra_1_desc:0 "독일의 기반 시설은 안타깝게도 너무 낡았습니다. 이제 철도 업계의 주요 사업체와 계약을 맺었으니, 제국 철도 회사의 주요 재산을 전반적으로 점검하기 위해 좋은 관계를 맺어야 합니다."
+#GER_infra_1:0 "새로운 기관차"
+#GER_infra_1_desc:0 "독일의 기반 시설은 안타깝게도 너무 낡았습니다. 이제 철도 업계의 주요 사업체와 계약을 맺었으니, 제국 철도 회사의 주요 재산을 전반적으로 점검하기 위해 좋은 관계를 맺어야 합니다."
 
-GER_infra_2:0 "철로 재건"
-GER_infra_2_desc:0 "논리적으로, 기반 시설 정비의 다음 단계는 가장 사용량이 많은 철도 선로의 완전한 교체와 철도를 통해 바다에서 가장 멀리 떨어진 지역에 접근 가능하도록 하는 계획이 될 것입니다. 이는 분명히 민간 경제 발전에 긍정적인 영향을 미칠 것입니다."
+#GER_infra_2:0 "철로 재건"
+#GER_infra_2_desc:0 "논리적으로, 기반 시설 정비의 다음 단계는 가장 사용량이 많은 철도 선로의 완전한 교체와 철도를 통해 바다에서 가장 멀리 떨어진 지역에 접근 가능하도록 하는 계획이 될 것입니다. 이는 분명히 민간 경제 발전에 긍정적인 영향을 미칠 것입니다."
 
-GER_babelsberg_desc:0 "The Babelsberg film studios have long replaced Hollywood as the most influential film industry of the world. However, the content produced within these studios is hardly supportive of the State. Some producers, namely Leni Riefenstahl, have proposed some projects that, with our funding, could help remind the Germans of their glorious past and future."
+#GER_babelsberg_desc:0 "The Babelsberg film studios have long replaced Hollywood as the most influential film industry of the world. However, the content produced within these studios is hardly supportive of the State. Some producers, namely Leni Riefenstahl, have proposed some projects that, with our funding, could help remind the Germans of their glorious past and future."
 
 GER_guard_the_balance:0 "재정수지 보호"
 
@@ -2203,8 +2215,13 @@ gerfor.180.d:0 "오늘 외교 사절들이 폴란드 수도에서 며칠 뒤에 
 gerfor.180.a:0 "역사적인 날이다."
 
 gerfor.181.t:0 "독일 외교 사절"
-gerfor.181.d:0 "오늘 외교 사절들이 폴란드 수도에서 며칠 뒤에 베를린에 도착 했으므로 오늘은 독일의 역사적인 날이었습니다. 외교 사절단은 커다란 성공을 거두었고 폴란드 정부와의 관계는 사상 최고를 기록했습니다. 우리가 보낸 외교 사절은 최고 폴란드 관리와 만났고, 호화로운 저녁 식사를했고, 가장 중요한 것은 우리 두 위대한 국가 간의 비 침략 합의서에 서명했습니다. 이 조약은 우리 사이의 새롭고 따뜻한 관계의 시작을 의미합니다. 폴란드와의 공식 동맹에 서명하기 전에 우리의 미래를 함께 고착시키는 것은 시간 문제 일뿐입니다."
-gerfor.181.a:0 "역사적인 날이다."
+gerfor.181.d:0 "German diplomatic envoys arrived in [Root.GetNameDef] today with the intention of improving relations between our countries. They have met with top [Root.GetAdjective] officials, had extravagant dinners, and floated the offer of signing a pact of non-aggression. [GER.GetNameDefCap], they say, would look to guarantee our independence in return, if they could be assured a peaceful border on their eastern flank. If we agree, it would certainly signal a new era of cooperation between our countries, and possibly even lead to a future alliance."
+gerfor.181.a:0 "Of course we agree!"
+gerfor.181.b:0 "This is not in our interests"
+
+gerfor.182.t:0 "[From.GetNameDefCap] Refuses"
+gerfor.182.d:0 "While German diplomatic envous spent days in the [From.GetAdjective] capital, attempting to convince [From.GetAdjective] officials of our good intentions, they have rebuffed any intentions to warm the relations between [GER.GetNameDef] and [From.GetNameDef]."
+gerfor.182.a:0 "Unfortunate"
 
 gerfor.187.t:0 "포위당한 제국"
 gerfor.187.d:0 "세계 대전 이후, 러시아는 큰 모욕을 당하고 영토를 잃어버렸습니다. 늦게까지 팽창주의 의제에도 불구하고, 독일 내의 대부분의 정책 전문가들은 이반이 결코 우리의 힘에 도전하지 않을 것이라는 데 동의했습니다--이는 오늘 동방에서 들려온 공식적인 선전포고 때문에 끔찍하게 틀린 것으로 판명되었습니다. 러시아군은 국경을 넘었고 전방위적인 공격을 하고 있다는 보고가 있습니다. 우리가 코뮌주의자들과의 전쟁 준비가 되었는지 논쟁의 여지가 있습니다..."
