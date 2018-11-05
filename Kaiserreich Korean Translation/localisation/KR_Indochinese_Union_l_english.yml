@@ -113,18 +113,8 @@ INC_collectivisation_idea:0 "집단농장"
 INC_socialist_reform_idea_a:0 "사회주의 개혁"
 INC_socialist_reform_idea_b:0 "사회주의 개혁"
 INC_Military_Chaos_idea:0 "Military Chaos"
-INC_Songthu:0 "Song Thu Shipyard"
-INC_Bason:0 "Ba Son Naval Factory"
-INC_Dong_Viet:0 "Hang khong Dong Viet"
-INC_NADF:0 "Thong Nhat Aircraft Corporation"
-INC_Chim_Lac:0 "Vien thet kiet Chim Lac"
-INC_TLD:0 "Vien Ky thuat Co gioi Quan su"
-INC_Factorie_Z113:0 "Nha may Z113"
-INC_General_Equipment:0 "Tong Cuc Cong nghiep Quoc Phong"
-INC_Cong_Ty_36:0 "Nha may 36"
-INC_Dong_Bac:0 "Tong cong ty Dong Bac"
 
-INC_Truong_Chinh_hog_syn:0 "Dang Xuan Khu"
+#INC_Truong_Chinh_hog_syn:0 "Dang Xuan Khu" already defined in ministers loc file
 ### Parties ###
 INC_totalist_party:0 "떤 비엣"
 INC_totalist_party_long:0 "신 베트남 혁명당(Tan Viet Cach mang Dang)"
@@ -183,6 +173,9 @@ INC_Purge_Tan_Viet:0 "§YPham Van Dong§! is executed \nMinister §YHoang Van Ho
 INC_Purge_VNQDD:0 "Minister §YNguyen Hai Than§! is executed \nMinister §YNguyen Tuong Tam§! is executed \nMinister §YNhuong Tong§! is executed \nMinister §YTruong Boi Cong§! is executed \nGeneral §YNguyen Binh§! is executed \n"
 INC_Purge_Socialist:0 "§YNguyen An Ninh§! is executed \n§YTa Thu Thau§! is executed \n§YPham Van Dong§! is executed \nMinister §YNgo Van§! is executed \nMinister §YPhan Van Hum§! is executed \nMinister §YPham Van Chanh§! is executed \nMinister §YNguyen Van Cu§! is executed \nMinister §YHoang Van Hoan§! is executed \nMinister §YXuan Thuy§! is executed \nMinister §YTo Huu§! is executed \nMinister §YTran Quoc Hoan§! is executed \nGeneral §Y!Nguyen Chi Thanh§! is executed \n"
 INC_Purge_Syndie:0 "§YTa Thu Thau§! is executed \nMinister §YNgo Van§! is executed \nMinister §YPhan Van Hum§! is executed \nMinister §YPham Van Chanh§! is executed \nMinister §YNguyen Van Cu§! is executed \n"
+INC_tetunits_tt:0 "Five militia divisions will be raised."
+INC_siamupris_tt:0 "Four small militia divisions will be raised."
+
 ### Opinion Modifiers ###
 INC_Liberation:0 "Our Comrades support our revolutionary movement!"
 INC_BHC_Support:0 "Bharatiya Commune chose to continue their support"
