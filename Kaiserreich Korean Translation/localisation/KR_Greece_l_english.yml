@@ -22,7 +22,6 @@ GRE_paternal_autocrat_party_long:0 "자유 사상가당"
 GRE_national_populist_party:0 "민족 그리스 군단"
 GRE_national_populist_party_long:0 "민족 그리스 군단"
 
-
 ### Ideas ###
 GRE_legacy_of_alexander_idea:0 "알렉산더의 유산"
 GRE_legacy_of_alexander_idea_desc:0 "그리스 시민들은 전쟁에 익숙합니다. 그리고 그 어떠한 것도 그들이 힘들게 이룩한 독립을 다시 뒤집을 수 없을 것입니다."
@@ -90,7 +89,6 @@ GRE_diplomacy_focus2_idea:0 "외교적 방안"
 GRE_new_expansionism_idea:0 "새로운 확장주의"
 GRE_new_expansionism2_idea:0 "새로운 확장주의"
 
-
 ### Tooltips ###
 GRE_republicans_win_referendum:0 "공화주의자의 국민 투표 승리"
 GRE_monarchists_win_referendum:0 "군주주의자의 국민 투표 승리"
@@ -141,14 +139,12 @@ GRE_same_wars_as_intl:0 "Any enemy is also at war with the Internationale"
 GRE_same_wars_as_entente:0 "Any enemy is also at war with the Entente"
 GRE_same_wars_as_germany:0 "Any enemy is also at war with Germany"
 GRE_controls_claimed_states:0 "All non-island claimed states in §Y[From.GetNameDef]§! are controlled by [Root.GetNameDef] or an ally"
-
 GRE_socialists_banned_elections:0 "All syndicalist and socialist parties will be banned from taking part in elections\n"
 GRE_is_kingdom:0 "[GRE.GetNameDef] is a monarchy"
 GRE_neighbor_part_of_intl:0 "Any neighbour is in the Internationale"
 GRE_turks_part_of_faction:0 "The Turks are in a faction and still own claimed land of ours"
 GRE_bul_part_of_faction:0 "[BUL.GetNameDef] is in a faction and still owns claimed land of ours"
 GRE_germany_not_still_upset:0 "[GER.GetNameDef] does not have the §YNationalized our Investments§! opinion towards us"
-
 
 ### Focuses ###
 GRE_black_monday_focus:0 "검은 월요일"
@@ -184,9 +180,9 @@ GRE_strengthen_republic:0 "공화국을 강화하다"
 GRE_strengthen_republic_desc:0 "공화국이 승리했지만, 군주주의자들은 아직 남아있습니다. 토론을 통한 법률 체제의 개혁과 군주제의 남은 잔존 유산을 공식적으로 삭제함으로써, 우리는 이 국가를 공화국으로 남길 수 있을 것입니다."
 GRE_monarchist_question:0 "잔존하는 군주주의자들"
 GRE_monarchist_question_desc:0 "아직도 군주에게 충성하는 자들이 특히 군대나 정부 전반에 아직 있습니다. 우리는 그들을 모두 숙청하여 미래의 군부 쿠데타를 막을 것인가, 또는 그들이 공화국을 방해하도록 방치할 것인가에 대해 말입니다."
-GRE_empowered_parliament:0 "강력한 의회"
+#GRE_empowered_parliament:0 "강력한 의회"
 GRE_empowered_parliament_desc:0 "우리는 체제 안의 독재자를 막기 위해서,  그리스는 강력한 의회를 가지고 필요하면 정부 수반을 통제하도록 해야 합니다."
-GRE_strong_executive:0 "강력한 행정부"
+#GRE_strong_executive:0 "강력한 행정부"
 GRE_strong_executive_desc:0 "우리는 무의미한 정치적 투쟁을 막기 위해서, 그리스는 강력한 필요하다면 의회를 통제 할 수도 있는 행정 수반을 가져야 합니다."
 GRE_balkan_democracy:0 "발칸 민주주의"
 GRE_balkan_democracy_desc:0 "그리스는 발칸에서 민주주의의 상징입니다. 그리고 언젠가 자유의 상징이 되어서 모든 곳을 비추게 될 것입니다."
@@ -204,7 +200,7 @@ GRE_purge_republicans:0 "공화주의자 숙청"
 GRE_purge_republicans_desc:0 "새로운 왕이 왕좌에 올랐고, 그의 소원은 이루어졌습니다. 그러나 정부와 그의 군대에서 남아있는 공화주의자들은 숙청해야 한다고 봅니다. 적어도 국가를 혼란 속으로 밀어넣지 못할 만큼은 말입니다."
 GRE_guide_parliament:0 "의회 지도"
 GRE_guide_parliament_desc:0 "우리는 위대한 그리스의 민주주의 전통을 지지합니다. 그러나 플라톤의 철학자 왕 같이 군주는 항상 국가를 더 완벽하고 평화로운 사회로 이끌어야 합니다. 이에 따라서 군주는 중요한 왕실 특권인 의회 해산권을 가져야 국가의 안녕이 보장된다고 봅니다."
-GRE_divine_mediator:0 "신성한 중재자"
+#GRE_divine_mediator:0 "신성한 중재자"
 GRE_divine_mediator_desc:0 "왕은 신성한 선택받은 지도자로써 있어야 합니다. 신에 의해 선택받은 왕은 급진주의와 불안정으로부터 신민들을 보호해야 하고, 정부의 모든 부서들을 중재함으로써 이러한 것들을 실행할 것입니다. 이로써 국가의 존엄은 유지될 것이고 그는 신민들을 돌볼 것입니다."
 
 GRE_elections_1938:0 "1938년 선거"
@@ -265,7 +261,6 @@ GRE_soc_dems:0 "민족 통일당"
 GRE_soc_dems_desc:0 "더욱 더 온건한 농민주의자들이 승리했습니다. 그들은 사회 개혁과 보조금을 통해서 농민들을 지원 하고, 도시 사회와 부르주아들을 폐지하는데 헌신할 의향도 없습니다."
 GRE_political_liberties:0 "정치적 자유"
 GRE_political_liberties_desc:0 "그리스 안에서는 많은 빈민을 위한 정치적 자유가 없습니다. 일련의 개혁을 통해서 언론과 표현 그리고 집회의 자유를 보장할 것입니다. 우리는 정치에서 인민의 목소리를 들어 도와 줄 수 있을 것입니다."
-
 GRE_new_enterprise:0 "새로운 기업"
 GRE_new_enterprise_desc:0 "사회주의 국가는 사기업과 법인의 일자리 창출 없이는 성공 할 수 없습니다. 우리는 산업화에 힘을 기울여야 하고, 성장을 보장해야 합니다. 그러나 또한 그러한 성장의 과실이 효율적으로 남게 해야 합니다."
 GRE_breadbasket:0 "지중해의 곡창지대"
@@ -287,7 +282,6 @@ GRE_cooperate_with_agrarians:0 "농민주의자들과 협력"
 GRE_cooperate_with_agrarians_desc:0 "농민당은 전통적인 생디칼리즘적 시각과 매우 다르게 사회주의를 바라보고 있습니다. 농민 공동체에 뿌리를 두고 탈 산업 사회를 꿈꾸고 있죠. 그러나 그들과의 협상은 열려 있습니다. 농민 조합을 통해 그들에게 많은 지원과 힘을 주고, 한편으로 도시에 대한 그들의 적대적이고 급진적인 태도를 억제하게 할 수 있습니다."
 GRE_establish_communes:0 "코뮌 설립"
 GRE_establish_communes_desc:0 "지역 통치와 관련된 낡은 체제를 부수고 그 지역에 코뮌을 건설하는 것은 생디칼리즘을 그리스 인민들을 가져 올 것입니다. 그리고 이를 통해 지방을 자본주의 압제로부터 자유롭게 해서 진정한 첫 번째 노동조합 평의회를 열도록 할 것입니다."
-
 GRE_crush_bourgeoisie:0 "부르주아를 박멸해라!"
 GRE_crush_bourgeoisie_desc:0 "부르주아는 인민들의 진정한 적입니다. 그들은 절대로 우리 혁명군의 손아귀에서 벗어날 수 없습니다. 학대받아온 노동자들의 분노의 힘으로 우리는 그들을 무릎꿇리고 죽음의 고통을 선사한 뒤 그들이 끌어안은 재물을 되찾고야 말 것입니다."
 GRE_rally_behind_dioitikis:0 "디오이키티스 아래 집결!"
@@ -329,7 +323,6 @@ GRE_national_father:0 "국가의 아버지"
 GRE_national_father_desc:0 "우리의 관용적인 독재자나 우리의 고귀한 왕 혹은 우리의 완벽한 통지자이건 마치 아버지가 그의 자식을 돌보듯이 시민들을 돌보고 있습니다. 따라서 우리도 그를 사랑하고 그것에 자부심을 느끼며 자유와 행복을 만끽하십죠."
 
 GRE_prepare_for_war:0 "전쟁 준비"
-
 GRE_prepare_for_war_desc:0 "전쟁이 그리스에 다가오고 있습니다. 만약 이러한 전쟁을 피하고 싶다면, 우리가 할 유일한 방법은 수백만 명의 그리스 인들을 그리스인의 통치에서 버리는 것뿐입니다. 그렇기 때문에 우리는 스스로 피할수 없는 준비를 해야 합니다."
 GRE_evaluate_army:0 "헬레닉 군대"
 GRE_evaluate_army_desc:0 "우리의 수많은 인명이 대전쟁 덕분에 상실하면서, 우리 군대는 두 가지 학파로 나뉘어졌습니다. 하나는 물질적인 우위를 강조하면 강력한 회력을 적을 파괴하는 것을 선호하고, 다른 하나는 극도록 효율적인 작전을 실행하여 손실을 위한 꼼꼼한 계획을 선호합니다."
@@ -482,7 +475,6 @@ GRE_deploy_new_ships_desc:0 "이제 새로운 배들이 아테네 항구에서 �
 GRE_balkans_mission:0 "발칸 공영권 항상"
 GRE_balkans_mission_desc:0 "Our relations with [From.GetNameDef] are decent enough that we should consider sending a mission to their government to foster greater cooperation between our countries."
 
-
 ### Events
 gre.1.t:0 "헬레닉 제4공화국"
 gre.1.d:0 "대 전쟁에서 그리스가 패배한 이래로 대변동과 고난이 닥쳐왔습니다. 크레타와 마케도니아를 테살로니카 조약으로 상실함과 동시에 독일과 오스트리아로 인한 엄청난 전쟁 채무에 의해서 알렉산도로스 왕은 망명을 떠나야했고, 그 뒤에 제 3공화국이 수립되었죠. 하지만 정부의 실패로 인하여 1925년 요르요스 콘딜리스의 쿠데타가 일어났고, 그는 왕이 망명 상태임에도 불구하고 스스로 영구적인 그리스 왕국의 섭정으로 선언했습니다. 콘딜리스는 1931년에 최종적으로 권좌에서 쫓겨나 처형당했습니다. 그리고 제 4공화국이 수립되었고, 요르요스 파판드레우가 이끄는 연정이 일단 첫 번째 선거에서 승리하여 정권을 잡은 상태입니다."
@@ -566,8 +558,8 @@ gre.23.t:0 "Themistoklis Soufilis의 죽음"
 gre.23.d.ishos:0 "Themistoklis Soufilis 수상이 오늘 서거했습니다. 그의 건강은 저번 선거에서부터 이상이 있었기 때문에, 대부분 정부 관료들은 몇 개월전에 예상 했으며, 그렇게 놀라워하지 않고 있습니다. 하지만 국민들은 충격을 받고 아테네 도로에서 그의 죽음을 추모하고 있습니다. 자유당에서의 그의 지도력은 이제 사라지고, Konstantinos Tsatsos에게로 계승될 것입니다."
 gre.23.d.nothos:0 "Themistoklis Soufilis이 오늘 돌아가셨습니다.  그의 건강은 저번 선거에서부터 이상이 있었기 때문에, 대부분 자유 당원들은 몇 개월전에 예상 했으며, 그렇게 놀라워하지 않고 있습니다. 하지만 국민들은 충격을 받고 아테네 도로에서 그의 죽음을 추모하고 있습니다. 자유당에서의 그의 지도력은 이제 사라지고, Konstantinos Tsatsos에게로 계승될 것입니다." 
 gre.23.a:0 "그가 사라졌군...."
-gre.24.t:0 "Pangalis Tsaldaris의 죽음"
-gre.24.d:0 "인민당의 지도자인 Pangalis Tsaldaris가 오늘 사망했습니다. 그가 인민당의 지도자가 된 이후 시달린 퇴행성 질환으로 인해 사망했습니다. 많은 사람들이 그에 애도했고, 그의 지도자 위치는 그의 조카인 Konstantinos Tsaldaris에게로 넘어갔습니다. 새로운 인민당의 지도자는 추모 연설을 하면서 ‘자신의 온 마음을 다해 그의 유산을 이어 갈 것’이라고 말했습니다."
+gre.24.t:0 "Panagis Tsaldaris의 죽음"
+gre.24.d:0 "인민당의 지도자인 Panagis Tsaldaris가 오늘 사망했습니다. 그가 인민당의 지도자가 된 이후 시달린 퇴행성 질환으로 인해 사망했습니다. 많은 사람들이 그에 애도했고, 그의 지도자 위치는 그의 조카인 Konstantinos Tsaldaris에게로 넘어갔습니다. 새로운 인민당의 지도자는 추모 연설을 하면서 ‘자신의 온 마음을 다해 그의 유산을 이어 갈 것’이라고 말했습니다."
 gre.24.a:0 "전혀 예상하지 못했군"
 gre.50.t:0 "[GetYear] 총선"
 gre.50.d:0 "지금은 그리스의 이끌 정당을 뽑는 총선의 날입니다. 많은 정당들이 정부의 통제권을 얻기 위해 노력하며 결과를 주시하고 있습니다."
