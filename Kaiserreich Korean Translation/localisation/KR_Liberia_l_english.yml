@@ -54,12 +54,12 @@ LIB_military_academy:0 "The Daniel E Howard Military Academy"
 firestone_rubber:0 "Firestone Rubber"
 
 ### Tooltips ###
-LIB_firestone_slaves:0 "노예제도 묵과"
-LIB_freemason_purge_1:0 "외국인 숙청"
-LIB_freemason_purge_2:0 "사회주의자 숙청"
-LIB_freemason_purge_3:0 "공화주의자 숙청"
-LIB_1939_elections_happened:0 "1939 년 선거가 열릴 것입니다\n"
-LIB_receive_militias:0 "민병대 3사단을 받을 것입니다\n"
+LIB_firestone_slaves:0 "Condones Slavery"
+LIB_freemason_purge_1:0 "Purge of Foreigners"
+LIB_freemason_purge_2:0 "Purge of Socialists"
+LIB_freemason_purge_3:0 "Purge of Republicans"
+LIB_1939_elections_happened:0 "1939 elections have been held\n"
+LIB_receive_militias:0 "Receive three divisions of militia\n"
 
 ### Events ###
 LIB.1.t:0 "Liberian Introduction"
@@ -343,7 +343,7 @@ LIB_air_force_desc:0 "We have for too long shirked that most important innovatio
 LIB_tuskegee_desc:0 "We know of an enthusiastic group of men in Alabama who can help us pilot and develop new planes. So sorry about what happened to their College."
 LIB_borrowing_research_desc:0 "Those young men from Alabama are proving invaluable to our Air programme. While abroad, Tuskegee students have uncovered further plans in the US for fantastic new weapons."
 LIB_flying_stars_desc:0 "The young Aces from Tuskeegee have created a plan for a Liberian fighter plane programme. They call in the " Flying Stars" because they are as destructive as shooting stars, but never fall to the ground."
-LIB_secret_societies_desc:0 "Secret Societies, while they are the subject of exaggeration in the US, exist as a parallel legal system in Liberia. At the top, the Americo Liberian exclusive Freemason Order wields unspoken but undeniable influence within the True Whig Party. At the bottom, Poros for the hinterland allow those who cannot vote participate in local government along tribal lines. We must rally the nation by either pushing these forces into the bush forever, or dragging them out."
+LIB_secret_societies_desc:0 "Secret Societies, while the subject of exaggeration in the US, form a parallel legal system in Liberia. The exclusively Americo-Liberian Freemason Order wields undeniable influence within the True Whig Party, and the Poros of the hinterland allow the disenfranchised to participate in local government along tribal lines. We must either push these forces into the bush, or drag them out."
 LIB_1939_elections_desc:0 "Only our oldest statesmen, those alive in 1870, would be able to remember an election as contentious as this. The True Whig Party supremacy is challenged by reformists, syndicalists, and lobbyists. As we hold our American ideals close to heart, we vote with conviction in our system of government."
 LIB_election_soccon_desc:0 "Edwin Barclay win reelection, achieving a third term where his predecessor could not. The True Whig Party secures it's only contested victory since 1869. In his inauguration speech, Barclay vows to turn a new leaf for the party and the nation."
 LIB_election_radsoc_desc:0 "The road to the Presidential Palace was difficult for the Syndicalists. Meeting in the Hinterland, coordinating with the IWW in secret, even selling out Padmore's gang. All done in order to supplant the True Whig regime legally."
@@ -408,7 +408,7 @@ LIB_rubber_plants_desc:0 "Harvey Firestone has agreed to pay $3 million in the f
 LIB_facilitate_lobbying_desc:0 "Trouble within our ministries is erupting due to our deal with Firestone. They have proof that Firestone engages in slave labour and persecutes labour unions. Fortunately there is enough kickback left over to shut them up."
 LIB_repair_railway_desc:0 "This new arrangement with Ford and Firestone requires us to rebuild the Main Line Railway. We will even drill our army along the line. Let's see if our saboteurs are brave enough to try again."
 LIB_bailout_ger_desc:0 "Didn't our German ambassador, Massaquoi, have a plan for Germany to bail us out? We may have had our differences with Germany in the past, but that is history. the future of the world, of Africa, is probably in their hands."
-LIB_join_germany_desc:0 "The deal on the table is the biggest to ever land on our doorstep. Join the German Empire, wipe away the debts. If the alternative is poverty and eventually slavery, we choose freedom."
+LIB_join_germany_desc:0 "The deal on the table is the biggest to ever land on our doorstep. Join the German Empire, wipe away the debts. If the alternative is poverty and eventually slavery, we choose rule by the Germans."
 LIB_german_industry_desc:0 "The German production method emphasises extensive planning in the engineering phase. Labour reducing machinery, cafeterias, and rousing music is sent to the Grain Coast as a gift."
 LIB_german_tech_desc:0 "A second convoy arrives with scientists and schematics. The Kaiser intends for us to become a model colony, like Nigeria used to be for Britain. Let's hope Mittelafrika does not become jealous."
 LIB_economy_direction_desc:0 "Finally, we have recovered from the slump that started with the US Depression. We must now ready our nation for whatever the future will bring."
@@ -421,4 +421,3 @@ LIB_civ_ind_2_desc:0 "We should begin construction on a series of cities across 
 LIB_mil_ind_3_desc:0 "When that German submarine fired warning shots at Monrovia in 1921, we had nowhere to hide. If we control Monrovia, we control Liberia."
 LIB_mil_ind_2_desc:0 "Although Monrovia has preserved us for almost a century, we need to spread our zone of control south. Maryland, on the Ivorian border, provides us with access to French goods."
 LIB_university_desc:0 "Our education system has never befitted our tradition of liberty. We can construct a new university in Montserrado County, and name it after the honourable D.B King"
-
