@@ -103,7 +103,7 @@ LOM_combat_doctrines:0 "Combat Doctrines"
 LOM_combat_doctrines_desc:0 "With our military now largely established and new drill instructors hired, we can further develop our military doctrine."
 
 ### Ideas ###
-LOM_duchy:0 "A Young Duchy"
+LOM_duchy:0 "젊은 대공"
 LOM_duchy_desc:0 "Our Duchy is young, but our people and administration are resilient and driven to build a solid political foundation."
 LOM_constitution:0 "Constitution of the Lombard People"
 LOM_constitution_desc:0 "Our country has begun to establish the constitutional foundation for its government."
@@ -117,8 +117,8 @@ LOM_nationalism:0 "Lombard Nationalism"
 LOM_nationalism_desc:0 "A unique Lombard identity has taken root, and many hold a strong nationalist sentiment."
 LOM_nationalism2:0 "Longobard Revivalism"
 LOM_nationalism2_desc:0 "Renewed interest in the Longobards, for whom Lombardia is named, has further defined our national identity and increased nationalist sentiment."
-LOM_education_reform:0 "Education Reform"
-LOM_education_reform_desc:0 "The Lombardian education system has undergone comprehensive reform."
+#LOM_education_reform:0 "Education Reform" already defined above as a focus
+#LOM_education_reform_desc:0 "The Lombardian education system has undergone comprehensive reform." already defined above as a focus desc
 LOM_recruitment_idea:0 "Mass Recruitment Drive"
 LOM_recruitment_idea_desc:0 "Lombardia has undertaken a massive campaign to encourage military recruitment."
 LOM_renaissance_idea:0 "Lombard Renaissance"
