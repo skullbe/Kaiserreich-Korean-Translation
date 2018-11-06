@@ -1,6 +1,8 @@
 l_english:
 
 ### Ideas ###
+PAP_holy_see:0 "The Holy See"
+PAP_holy_see_desc:0 "[PAP.GetNameDefCap] is the temporal seat of power for the Catholic Church and led by the Pope, the Bishop of Rome and ex officio leader of the Church. With more than 300 million worshippers across the world, the actions and words of the Papacy carry a unique weight that is seen nowhere else on earth."
 PAP_black_monday_1:0 "검은 월요일"
 PAP_blackmonday_1_desc:0 "독일 경제의 붕괴는 전 세계에 파문을 일으켰습니다. 독일과 오스트리아 소유의 기업들이 문을 닫고 국가 채무가 통제 범위를 넘어서고 있는 것은 우리 나라에서도 마찬가지입니다."
 PAP_black_monday_2:0 "검은 월요일"
@@ -47,6 +49,7 @@ PAP_reinforced_temporal_power:0 "교황은 세속 권력을 강화하다\n"
 Pius_XI:0 "비오 11세"
 PAP_full_assistance:0 "양 시칠리아가 교황청의 모든 빚을 떠맡다"
 PAP_syndicalist_resistance:0 "생디칼리스트의 저항과 싸우다"
+PAP_debt_control:0 "§RBy taking on more of our debt, the Two Sicilies can exert greater control over our nation!§\n"
 Pius_XI_desc:0 "교황 비오 11세는 1922년에 교황으로 임명되었으며 교황청의 지도자이기도 합니다. 그는 이탈리아 안팎의 카톨릭 신자들에게 사랑받습니다."
 
 ### Focuses ###
