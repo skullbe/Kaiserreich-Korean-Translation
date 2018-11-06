@@ -43,6 +43,9 @@ congolese_loyalty.tt:0 "§GWe will try to strike a deal with the Manikong or use
 uranium_sharing.tt:0 "\n§GOur master will get the same benefits §!"
 KTG_Naval_Base.tt:0 "§GWe will improve the harbour of our chosen partner§!"
 
+KTG_askaridivs_tt:0 "Two Askari infantry divisions will be raised."
+KTG_beldivs_tt:0 "Two Flemish-Wallonian infantry divisions will be raised."
+
 ### Focuses ###
 
 KTG_Reinforce_The_Mwami_Authority:0 "Reinforce the Mwami Authority"
@@ -224,7 +227,7 @@ KTG_MILITARY_Warrior_Class:0 "Expanded Warrior Class"
 KTG_MILITARY_Glory_Mwami:0 "Glory to the Mwami!"
 
 KTG_Resistance_Colonial_Rule:0 "Memory of the Free State"
-KTG_Dominer_Pour_Servir:0 "Dominer pour Servir"
+#KTG_Dominer_Pour_Servir:0 "Dominer pour Servir" already defined above as a focus
 KTG_Missions:0 "Restoration of the Missions"
 KTG_Mission_To_Civilise:0 "Mission to Civilise"
 KTG_Reward_Evolues:0 "Reward the Evolués"
@@ -246,7 +249,7 @@ KTG_African_Army:0 "Congolese Officers"
 KTG_Restored_FP:0 "Restored Force Publique"
 KTG_Reformed_FP:0 "Reformed Force Publique"
 KTG_Judicial_System:0 "Overhauled Judicial System"
-KTG_FRC_Katanga:0 "FRC Katanga"
+#KTG_FRC_Katanga:0 "FRC Katanga" already defined above as a focus
 KTG_Colonial_Trinity:0 "Colonial Trinity"
 KTG_Total_Control:0 "Total Control"
 
@@ -320,12 +323,12 @@ ktg.28.a:0 "Katanga will be independent!"
 
 #Germany
 ktg.30.t:0 "Envoy from the Garanganze"
-ktg.30.d:0 "An envoy from Herminestadt, deep in the junlges of the Congo has arrived in our capital of Windhoek. They report that a small division of the Force Publique and the remaining colonials were able to hold off the armies of the Mwami. A treaty was thus signed between the citizens of Herminestadt and the Mwami, allowing them to continue their colonial rule with the Mwami as symbolic leader. Even though their situation is stable at the moment, the colonial government under Pierre Ryckmans has requested further support to assure Reichspakt influence over the province."
+ktg.30.d:0 "An envoy from Herminestadt, deep in the junlges of the Congo has arrived in our capital of Windhuk. They report that a small division of the Force Publique and the remaining colonials were able to hold off the armies of the Mwami. A treaty was thus signed between the citizens of Herminestadt and the Mwami, allowing them to continue their colonial rule with the Mwami as symbolic leader. Even though their situation is stable at the moment, the colonial government under Pierre Ryckmans has requested further support to assure Reichspakt influence over the province."
 ktg.30.a:0 "Support their government"
 ktg.30.b:0 "Refuse all aid"
 
 ktg.31.t:0 "Treaty with the Südwestafrika"
-ktg.31.d:0 "Our envoys have returned from Windhoek bringing with them support from the German colony. While they have reluctantly recognised our sovereignty for now, it's clear that once they have become more powerfull, a formal request to rejoin Mittel-Afrika will be made."
+ktg.31.d:0 "Our envoys have returned from Windhuk bringing with them support from the German colony. While they have reluctantly recognised our sovereignty for now, it's clear that once they have become more powerfull, a formal request to rejoin Mittel-Afrika will be made."
 ktg.31.a:0 "Consolidate our power"
 
 ktg.32.t:0 "The Namibians have abandonned us!"
@@ -424,10 +427,10 @@ ktg.58.b:0 "Refuse their offer"
 
 ktg.59.t:0 "Südwestafrika offer aid in exchange for reattachement"
 ktg.59.d:0 "The German colonies have answered our call for aid and Südwestafrika has promised us aid if we join their recreation of Mittel-Afrika project. Without any other way to survive the Portuguese invasion, we have no choice but to accept these harsh demands."
-ktg.59.a:0 "Transfer power to Windhoek"
+ktg.59.a:0 "Transfer power to Windhuk"
 
 ktg.591.t:0 "Südwestafrika refuses to intervene"
-ktg.591.d:0 "To avoid direct confrontation with Portugal, the German government in Windhoek has refused to sent help and has left us all on our own. It shall be a hard fight but with some luck, we may be able to survive behind our fortifications."
+ktg.591.d:0 "To avoid direct confrontation with Portugal, the German government in Windhuk has refused to sent help and has left us all on our own. It shall be a hard fight but with some luck, we may be able to survive behind our fortifications."
 ktg.591.a:0 "Defiance till the end!"
 
 #Resource Leasing
