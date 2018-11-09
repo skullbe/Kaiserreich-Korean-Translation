@@ -39,6 +39,15 @@ BEL_ceded_flanders2:0 "Ceded French Flanders"
 GER_asked_join_entente:0 "독일이 협상국 가입을 원함"
 GER_joined_entente_op:0 "독일이 협상국에 가입함"
 
+### Tooltips ###
+GER_gerindrus_tt:0 "Eighteen infantry divisions will form."
+GER_bavindrus_tt:0 "Six infantry divisions will form."
+GER_ddrindrus_tt:0 "Eight infantry divisions will form."
+GER_wgrindrus_tt:0 "Four infantry divisions will form."
+GER_gruindsov_tt:0 "Twenty infantry divisions will form."
+GER_ddrindsov_tt:0 "Ten infantry divisions will form."
+GBP_gdpindger_tt:0 "A new military will be formed from domestic and German stockpiles and soldiers."
+
 ### Events ###
 part.1.t:0 "독일의 운명"
 part.1.d:0 "독일 제국이 패배했습니다! 우리 용감한 병사들은 러시아 군대가 독일 제국과 목숨을 건 투쟁을 벌였다는 것을 운터덴린덴에서의 행진으로 확실히 보여주고 있습니다! 이제 우리는 과거 적들의 땅을 어떻게 처리할 것인지 결정해야 합니다."
