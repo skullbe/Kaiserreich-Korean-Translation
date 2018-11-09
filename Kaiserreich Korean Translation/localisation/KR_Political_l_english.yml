@@ -12,59 +12,9 @@ party_pop_0_70:0 "70-80% 정당 인기도"
 party_pop_0_80:0 "80-90% 정당 인기도"
 party_pop_0_90:0 "90-100% 정당 인기도"
 
-### Economic Health ###
-boom_economy:0 "WIP" #Boom Economy WIP!!!
-good_economy:0 "WIP" #Good Economy WIP!!!
-medium_economy:0 "WIP" #Medium Economy WIP!!!
-bad_economy:0 "WIP" #Bad Economy WIP!!!
-bust_economy:0 "WIP" #Bust Economy WIP!!!
-crash_economy:0 "WIP" #Crash Economy WIP!!!
-economic_health:0 "Work in progress, don't worry about this" #Economic Health WIP!!!
-
-### Minister Influences Ruling Party Events ###
-kr.political.16.t:0 "장관이 자신의 이념을 지원하다"
-kr.political.16.d:0 "현 정부는 다른 이념을 가진 자를 장관으로 두고 있습니다. 그는 자기자신의 이념을 지원하여 우리 정당의 인기도를 떨어트리고 있습니다. 만약 그를 방해하려면 지금 당장 행동해야 합니다."
-kr.political.16.a:0 "우리가 할 수 있는건 없다."
-kr.political.16.b:0 "권력을 이용해 장관의 노력을 수포로 돌려라."
-
-kr.political.17.t:0 "이념이 성장하다."
-kr.political.17.d:0 "인기 있는 정책 덕분에 장관들 중 하나가 우리 이념을 강화하는 데 성공했습니다. 부가적인 영향력을 이용하여 우리 이념의 인기도를 높일 수 있습니다."
-kr.political.17.a:0 "완벽하군."
-kr.political.17.b:0 "필요없다."
-
-kr.political.18.t:0 "이념이 성장하다."
-kr.political.18.d:0 "인기 있는 정책 덕분에 장관들 중 하나가 우리 이념을 강화하는 데 성공했습니다. 부가적인 영향력을 이용하여 우리 이념의 인기도를 높일 수 있습니다."
-kr.political.18.a:0 "완벽하군."
-kr.political.18.b:0 "필요없다."
-
-kr.political.19.t:0 "이념이 성장하다."
-kr.political.19.d:0 "인기 있는 정책 덕분에 장관들 중 하나가 우리 이념을 강화하는 데 성공했습니다. 부가적인 영향력을 이용하여 우리 이념의 인기도를 높일 수 있습니다."
-kr.political.19.a:0 "완벽하군."
-kr.political.19.b:0 "필요없다."
-
-kr.political.20.t:0 "이념이 성장하다."
-kr.political.20.d:0 "인기 있는 정책 덕분에 장관들 중 하나가 우리 이념을 강화하는 데 성공했습니다. 부가적인 영향력을 이용하여 우리 이념의 인기도를 높일 수 있습니다."
-kr.political.20.a:0 "완벽하군."
-kr.political.20.b:0 "필요없다."
-
-kr.political.21.t:0 "장관이 자신의 이념을 지원하다"
-kr.political.21.d:0 "현 정부는 다른 이념을 가진 자를 장관으로 두고 있습니다. 그는 자기자신의 이념을 지원하여 우리 정당의 인기도를 떨어트리고 있습니다. 만약 그를 막으려면 지금 당장 행동해야 합니다."
-kr.political.21.a:0 "우리가 할 수 있는건 없다."
-kr.political.21.b:0 "권력을 이용해서 장관의 노력을 수포로 돌려라."
-
-kr.political.22.t:0 "장관이 자신의 이념을 지원하다"
-kr.political.22.d:0 "현 정부는 다른 이념을 가진 자를 장관으로 두고 있습니다. 그는 자기자신의 이념을 지원하여 우리 정당의 인기도를 떨어트리고 있습니다. 만약 그를 막으려면 지금 당장 행동해야 합니다."
-kr.political.22.a:0 "우리가 할 수 있는건 없다."
-kr.political.22.b:0 "권력을 이용해서 장관의 노력을 수포로 돌려라."
-
-kr.political.23.t:0 "장관이 자신의 이념을 지원하다"
-kr.political.23.d:0 "현 정부는 다른 이념을 가진 자를 장관으로 두고 있습니다. 그는 자기자신의 이념을 지원하여 우리 정당의 인기도를 떨어트리고 있습니다. 만약 그를 막으려면 지금 당장 행동해야 합니다."
-kr.political.23.a:0 "우리가 할 수 있는건 없다."
-kr.political.23.b:0 "권력을 이용해서 장관의 노력을 수포로 돌려라."
-
 ### Starting Events ###
-kr.political.24.t:0 "카이저라이히 Alpha 0.7.2"
-kr.political.24.d:0 "카이저라이히 개발진이 Alpha 0.7.2버전을 하츠오브아이언4에 선사합니다! 지난 몇 달간 저희 개발진은 세계 구석구석을 모딩하였고, 이 작업물을 여러분에게 선보이게 되었습니다. 저희가 열심히 작업한만큼 여러분이 즐겁게 플레이하시기를 바랍니다. 한가지 알고 계셔야할 것은, 저희는 이 모드를 만들 때, 여러분이 평화회담에서 가능한 모든 지역을 가져간다는 전제하에 개발을 하였습니다, 따라서 그렇게 해주시길 바랍니다! \n\n또한 이 모드가 아직 알파버전인 것을 명심해주세요. 때문에 많은 버그들, 충돌 그 외 골치아픈 문제들이 발생할 수 있습니다. 만약 상기한 문제들을 발견하신다면, 깃허브의 버그트래커에 글을 남겨주세요.  만약 하고 싶은 질문이 있으시다면, 망설이지 마시고 질문해주세요, 다만 질문전에 게임 내에 있는 질의응답란을 먼저 확인해주세요.\n\n즐겁게 플레이하세요! \n                - 카라 개발진 일동, 개발진 목록은 크레딧란에서 보실 수 있습니다."
+kr.political.24.t:0 "카이저라이히 Alpha 0.8.2"
+kr.political.24.d:0 "카이저라이히 개발진이 Alpha 0.8.2버전을 하츠오브아이언4에 선사합니다! 지난 몇 달간 저희 개발진은 세계 구석구석을 모딩하였고, 이 작업물을 여러분에게 선보이게 되었습니다. 저희가 열심히 작업한만큼 여러분이 즐겁게 플레이하시기를 바랍니다. 한가지 알고 계셔야할 것은, 저희는 이 모드를 만들 때, 여러분이 평화회담에서 가능한 모든 지역을 가져간다는 전제하에 개발을 하였습니다, 따라서 그렇게 해주시길 바랍니다! \n\n또한 이 모드가 아직 알파버전인 것을 명심해주세요. 때문에 많은 버그들, 충돌 그 외 골치아픈 문제들이 발생할 수 있습니다. 만약 상기한 문제들을 발견하신다면, 깃허브의 버그트래커에 글을 남겨주세요.  만약 하고 싶은 질문이 있으시다면, 망설이지 마시고 질문해주세요, 다만 질문전에 게임 내에 있는 질의응답란을 먼저 확인해주세요.\n\n즐겁게 플레이하세요! \n                - 카라 개발진 일동, 개발진 목록은 크레딧란에서 보실 수 있습니다."
 kr.political.24.a:0 "카이저라이히 개발진분들 고맙습니다!"
 kr.political.24.c:0 "궁금증을 풀어줄 만한게 있을까요?"
 kr.political.24.e:0 "뭔가 놓친게 있는 것 같아..."
@@ -111,4 +61,33 @@ KR_is_not_dictatorship:0 "비 사회주의 독재 정부를 가지고 §R있지 
 has_scripted_peace:0 "우리는 전쟁 중입니다"
 has_scripted_peace_desc:0 "국가가 전쟁 중이며, 승리를 목표로 하고 있습니다 - 기회가 있지만 우리의 저항력은 생각보다 조금 더 취약합니다. (안내: 이것은 평화 이벤트가 존재하는 전쟁을 위한 것이며, 항복율 한계가 거의 도달했을 때 발동됩니다. 이점을 알아두세요.)"
 
+### Tooltips ###
+KR_improving_stability:0 "이미 안정도를 향상시키고 있습니다"
+KR_improving_popularity:0 "이미 정당 인기도를 향상시키고 있습니다"
+has_vg_stability:0 "§Y매우 좋은 안정도§!를 가지고 있음"
+KR_improving_popularity_tooltip:0 "우리는 우리의 정당 인기도를 b§Y5%§! 만큼 향상킬 것입니다\n"
+KR_party_pop_less_than_50:0 "정당 인기도가 §Y50%§! 보다 낮음"
+KR_party_pop_more_than_75:0 "정당 인기도가 §Y75%§! 보다 많음"
 
+### Decisions ###
+political_actions:0 "정치 행동"
+annexation_decisions:0 "합병 결단"
+legislate_more_freedoms:0 "입법권"
+legislate_more_freedoms_desc:0 "Perhaps the easiest way to improve our country's stability is to give the people what they want. It will involve some uncomfortable compromises, but ideally these are measures that are only temporary and designed to placate them until order can properly be restored."
+police_crackdown:0 "경찰의 탄압"
+police_crackdown_desc:0 "Disorder has become rampant. We must loosen the restrictions on our police forces, and give them the freedom to do their jobs in arresting the worst of the perpetrators."
+send_in_the_army:0 "군대 투입"
+send_in_the_army_desc:0 "The way to deal with disorder in our nation is to send in the army and suppress it completely. Not everyone will be happy about it, that's true, but sometimes martial law is the only alternative."
+rally_public_support:0 "집회 지지"
+rally_public_support_desc:0 "With some political power and some industrial backing, we will rally our supporters to our cause. While this will take time and resources, in the long run this will improve our political standing."
+solidify_control:0 "결속 통제"
+solidify_control_desc:0 "Some tactful use of political power here and some resources there and we will remove our political obstacles; we may not be all to get rid of all of them, but even getting rid of some will clear our path and improve our political power in the long run."
+
+### Economic Health ###
+boom_economy:0 "WIP" #Boom Economy WIP!!!
+good_economy:0 "WIP" #Good Economy WIP!!!
+medium_economy:0 "WIP" #Medium Economy WIP!!!
+bad_economy:0 "WIP" #Bad Economy WIP!!!
+bust_economy:0 "WIP" #Bust Economy WIP!!!
+crash_economy:0 "WIP" #Crash Economy WIP!!!
+economic_health:0 "Work in progress, don't worry about this" #Economic Health WIP!!!
