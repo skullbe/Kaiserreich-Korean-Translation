@@ -213,7 +213,7 @@ amcivwar.27.a:0 "자유의 등불이 사라지지 않았다."
 
 ### CSA Flavor Events ###
 amcivwar.29.t:0 "붉은 해군의 조직"
-amcivwar.29.c:0 "The Admirals of the United States have prevented any of their ships from being liberated by the workers and thus we are deprived of a navy. To solve that, those admirals that joined the revolution and the countless dock workers are planning on building up a new navy. We do have quite a number of ships in New York that we can convert to warships. We can either go with destroyers or cruisers. What shall we go for?"
+amcivwar.29.d:0 "The Admirals of the United States have prevented any of their ships from being liberated by the workers and thus we are deprived of a navy. To solve that, those admirals that joined the revolution and the countless dock workers are planning on building up a new navy. We do have quite a number of ships in New York that we can convert to warships. We can either go with destroyers or cruisers. What shall we go for?"
 amcivwar.29.a:0 "구축함"
 amcivwar.29.b:0 "순양함"
 
@@ -344,7 +344,7 @@ amcivwar.53.c:0 "John Gerhardt Crommelin Jr"
 amcivwar.53.e:0 "Martin James Monti"
 
 amcivwar.54.t:0 "충성스러운 해군의 조직"
-amcivwar.54.c:0 "The Admirals of the United States have prevented any of their ships from being liberated by the true patriots of america and thus we are deprived of a navy. However, we do have a number of Admirals and sailors that are planning on building up a new navy. We do have quite a number of ships in Houston that we can convert to warships. We can either go with destroyers or cruisers. What shall we go for?"
+amcivwar.54.d:0 "The admirals of the United States have prevented any of their ships from being liberated by the true patriots of america and thus we are deprived of a navy. However, we do have a number of Admirals and sailors that are planning on building up a new navy. We do have quite a number of ships in Houston that we can convert to warships. We can either go with destroyers or cruisers. What shall we go for?"
 amcivwar.54.a:0 "구축함"
 amcivwar.54.b:0 "순양함"
 
