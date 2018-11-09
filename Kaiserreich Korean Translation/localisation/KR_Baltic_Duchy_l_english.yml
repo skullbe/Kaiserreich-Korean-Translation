@@ -627,14 +627,17 @@ BAT_fort_desc:0 "The Ostwall is more than a few isolated bunkers. A complex and 
 BAT_balts_rebellion:0 "발트인들의 반란"
 BAT_balts_rebellion_desc:0 "우리의 식민화 정책으로 인해 발트 3국 거주민들이 들고 일어났습니다. 우리는 정치적 상황에 따라 독일의 도움없이 우리 스스로 해결할 수 있습니다 (독일을 전쟁에 부르지 않는 것이 좋습니다)."
 
-BAT_ger_army:0 "Sons of Vaterland"
+BAT_ger_army:0 "조국의 아들"
 BAT_ger_army_desc:0 "Native Balts, the majority of our country's population, are not currently allowed to serve in the army. And we would rather die than allow them to do so. We are proud sons of the Vaterland and our army must be a full German."
 
-BAT_mixed_army:0 "All-Baltic Army"
+BAT_mixed_army:0 "전 발트 육군"
 BAT_mixed_army_desc:0 "Native Balts, the majority of our country's population, were not allowed to serve in the army. But now we need every man on the frontline, no matter who is he: German, Estonian, Latvian or Russian. The people of Baltic Duchy must defend their homes and there is no time for xenophobic bias."
 
 BAT_balts_army:0 "Balts to Serve"
 BAT_balts_army_desc:0 "Native Balts, the majority of our country's population, are not currently allowed to serve in the army. Too many times were Germans used to fight and too many of them have died on the battlefields. We should keep them away from service if we want a new generation of proud sons of the Vaterland."
+
+BAT_truckprod_idea:0 "Focused Truck Production"
+BAT_truckprod_idea_desc:0 ""
 
 ### Flags ###
 
