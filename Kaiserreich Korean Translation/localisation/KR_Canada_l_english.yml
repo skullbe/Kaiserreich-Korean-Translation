@@ -402,7 +402,6 @@ CAN_mech_infantry:0 "기계화 보병"
 CAN_mech_infantry_desc:0 "보병의 기계화 계획은 기계화 발전을 지원하기 위해 자체적으로 가벼운 무장을 갖춘 기갑 수송 부대를 만들자는 제안이 많은 지지를 받고 있습니다. 이는 우리 보병들이 전방에 신속히 배치되도록 할 수 있을 뿐만 아니라, 전투력을 높이기까지 해 줍니다."
 CAN_winter_soliders:0 "혹한기 훈련"
 CAN_winter_soliders_desc:0 "-"
-
 CAN_defense_one:0 "제 1 방위계획"
 CAN_defense_one_desc:0 "몇 년 전에, 군사 계획 입안자들은 아메리카로부터의 잠재적 위협에 대처하기 위해 여러개의 '방어 계획'을 작성했습니다. 이 한가지는 침입에 맞서 국경을 강화하고 우리의 측면을 보호하기 위해 뉴 잉글랜드와 알래스카를 점령하기 위한 계획을 상세히 기술하고 있습니다. 특히 미합중국에서 긴장이 고조되고 있는 가운데, 현재 상황에 맞게 그것을 갱신하는 것이 유용할 수 있습니다."
 CAN_fortify_great_lakes:0 "오대호 요새화"
@@ -523,12 +522,15 @@ CAN_recognize_the_AUS_desc:0 "The so called American Union State lead by Huey Lo
 
 
 
-CAN_intervene_in_ACW_USA:0 "내전에 개입"
-CAN_intervene_in_ACW_USA_desc:0 "아메리카 내전에서 우리의 동맹들은 입지를 잃어 가고 있습니다. 만약 우리가 곧바로 행동하지 않는다면, 우리는 미국 국경에서 통일되고 적대적인 미국의 주와 직면하게 될 것입니다. 지금이 개입해야 할 때입니다 - 즉시 미국의 동맹국들과 접촉하여 분쟁에 대한 우리의 입장을 발표해야 됩니다."
-CAN_declare_war_on_CSA:0 "남부 생디칼리스트를 멈추다"
-CAN_declare_war_on_CSA_desc:0 "[CSA.GetNameDef]가 남쪽에서 내전에서 승리할 위기에 처해 있습니다. 그들은 강하지만, 우리는 지금 그들과 맞서야 합니다... 아니면 나중에 그들이 완전히 회복하고 힘을 모으면 그들과 직면할 위험을 감수해야 합니다. 우리는 인터내셔널이 우리의 남쪽 국경에서 세계적인 힘을 갖게 할 수 없습니다. 하느님께서 우리가 해야 할 일을 용서해 주시기를 바랍니다. 그러나 남쪽을 침략할 때가 왔습니다."
-CAN_declare_war_on_CSA_player:0 "남부 생디칼리스트를 멈추다"
-CAN_declare_war_on_CSA_player_desc:0 "[CSA.GetNameDef]가 남쪽에서 내전에서 승리할 위기에 처해 있습니다. 그들은 강하지만, 우리는 지금 그들과 맞서야 합니다... 아니면 나중에 그들이 완전히 회복하고 힘을 모으면 그들과 직면할 위험을 감수해야 합니다. 우리는 인터내셔널이 우리의 남쪽 국경에서 세계적인 힘을 갖게 할 수 없습니다. 하느님께서 우리가 해야 할 일을 용서해 주시기를 바랍니다. 그러나 남쪽을 침략할 때가 왔습니다."
+CAN_intervene_in_ACW_USA:0 "Intervene in the Civil War"
+CAN_intervene_in_ACW_USA_desc:0 "Our allies in the American Civil War are losing ground. If we do not act soon, we could be facing a unified and hostile American state on our border. Now is the time to intervene - let us immediately contact our American allies and announce our entry in the conflict."
+CAN_intervene_in_ACW_AUS:0 "Intervene in the Civil War"
+CAN_intervene_in_ACW_AUS_desc:0 "Our allies in the American Civil War are losing ground. If we do not act soon, we could be facing a unified and hostile American state on our border. Now is the time to intervene - let us immediately contact our American allies and announce our entry in the conflict."
+CAN_intervene_in_ACW_PSA:0 "Intervene in the Civil War"
+CAN_intervene_in_ACW_PSA_desc:0 "Our allies in the American Civil War are losing ground. If we do not act soon, we could be facing a unified and hostile American state on our border. Now is the time to intervene - let us immediately contact our American allies and announce our entry in the conflict."
+CAN_declare_war_on_CSA:0 "Stop the Southern Syndicalists"
+CAN_declare_war_on_CSA_desc:0 "It appears [CSA.GetNameDef] is on the verge of winning the civil war in the south. While they are strong, we must face them now... or risk facing them later, once they have recovered and gathered their full strength. We cannot afford to let the Internationale have a world power on our southern border. May God forgive us for what we must do, but the time has come to invade the south."
+
 
 ### Events ###
 
@@ -1499,6 +1501,12 @@ canada.811.a:0 "그렇고 말고!"
 canada.812.t:0 "새로운 캐나다 장교들"
 canada.812.d:0 "많은 캐나다의 젊은 장교들이 영국의 재정복 동안 그들의 가치를 증명했는데, 이는 그들의 용맹함과 그들의 전술적이고 명령적인 능력을 보여 줍니다. 이제 많은 영국 장교들이 본국으로 귀환하기로 결정함에 따라, 육군 본부는 그들 중 많은 병사들을 상급 사령부로 진급시키기로 결정했습니다. 그들 중 몇몇은 그들의 경험이 새로운 전술가, 전략가, 지도자들을 형성하는 것을 돕기 위해 사관 학교에서 중요한 역할을 받았습니다."
 canada.812.a:0 "완벽해"
+
+canada.813.t:0 "캐나다는 괴뢰국입니다"
+canada.813.d:0 "캐나다는 이제 괴뢰국입니다"
+canada.813.a:0 "우리는 괴뢰국이다"
+
+
 
 canada.850.t:0 "전투 준비 명령"
 canada.850.d:0 "[invader.GetAdjective]가 캐나다의 영토에 진입하자, 에드워드 8세 국왕은 오늘 라디오를 통해 캐나다 국민들에게 암울한 메시지를 전달했습니다 - 그는 여기가 대영 제국의 마지막 진영이라는 사실을 알고 저항하기 위해서, 캐나다인들이 일어나서 [invader.GetNameDef]와 맞서 싸울 것을 요구했습니다. 자유의 문제는 여기 캐나다에서 결정됩니다. "우리는 떨어져서는 안 됩니다."라고 그는 주장했습니다. 그리고 전국의 캐나다인들은 그들의 가장 절박한 시간을 그의 편으로 몰려 들었습니다."
