@@ -17,8 +17,7 @@ AUS_potb_albania_tooltip:0 "알바니아가 우리의 영향권에 인접해 있
 AUS_potb_greece_tooltip:0 "그리스가 우리의 영향권에 인접해 있습니다."
 AUS_potb_romanian_civil_war_tooltip:0 "루마니아 내전이 국경을 휩쓸고 있습니다."
 AUS_potb_romania_tooltip:0 "복원된 루마니아 왕국이 우리의 영향권에 인접해 있습니다."
-AUS_potb_claims_on_bulgaria_tooltip:0 "불가리아가 마땅히 우리 영향권에 속해야 하는 영토를 가지고 있습니다."
-AUS_potb_bulgarian_hegemony_tooltip:0 "불가리아가 발칸 반도의 패권을 쥐고 있습니다."
+AUS_potb_bulgaria_tooltip:0 "불가리아는 우리의 영향권에 인접해 있습니다."
 
 AUS_a_new_Hungary:0 "헝가리는 개편되어 오스트리아 제국의 핵심 구성국 중 하나가 되었습니다."
 
@@ -557,8 +556,8 @@ AUS_potb_greece_desc:0 "There yet remains a lingering question over Greece's pos
 AUS_potb_serbia:0 "세르비아와의 문제"
 AUS_potb_serbia_2:0 "남부 슬라브인 문제"
 
-AUS_potb_take_down_bulgaria:0 "불가리아 문제"
-AUS_potb_take_down_bulgaria_desc:0 "우리는 발칸 반도의 균형을 거의 되찾았습니다. 만약 불가리아의 낡은 황제가 계속 버티고 있지 못하게 한다면 - 우리는 이것을 더욱 빠르게 완수할 것입니다."
+AUS_potb_invite_bulgaria:0 "Old Friends in Bulgaria"
+AUS_potb_invite_bulgaria_desc:0 "Bulgaria was an essential ally during the Weltkrieg, helping us keep Serbian overambitions in check- or so we thought. The dissolution of the Central Powers after the war enabled the perfidious Serbs to escape our grasp. Once again, Bulgaria is key to restoring peace and stability in the Balkans once and for all."
 
 AUS_syndie_threat:0 "생디칼리스트의 위협"
 AUS_syndie_threat_desc:0 "프랑스와 이탈리아인들은 세계에 혼란을 가져오는 공동의 적입니다. 비록 우리가 독일을 싫어할지 몰라도, 우리는 독일 편에 서서 다시 한번 싸워야 합니다."
@@ -1258,3 +1257,20 @@ aus.tree.4042.a:0 "훌륭하기도 해라."
 aus.tree.4043.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다."
 aus.tree.4043.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
 aus.tree.4043.a:0 "훌륭하군."
+
+aus.tree.4050.t:0 "Our Interests in Bulgaria"
+aus.tree.4050.d:0 "Bulgaria is essential to the balance of power in the Balkans. Especially as a counter to Serbian irredentism. We should push for greater cooperation with the Bulgarians in order to maintain peace and stability in the long-troubled region."
+aus.tree.4050.a:0 "An eternal friendship."
+
+aus.tree.4051.t:0 "A Facsimile from Vienna"
+aus.tree.4051.d:0 "Austria has rekindled her policy of acting as a "Protector of the Balkans", formally invites us to their faction. As such, we would be under their protection."
+aus.tree.4051.a:0 "It's good to have protection."
+aus.tree.4051.b:0 "We're doing well on our own."
+
+aus.tree.4052.t:0 "[From.GetNameDefCap] Declines."
+aus.tree.4052.d:0 "[From.GetLeader] has let us know that his country has no interest in our offer of protection. [From.GetNameDef] will not be part of our sphere."
+aus.tree.4052.a:0 "Well then."
+
+aus.tree.4053.t:0 "[From.GetNameDefCap] Agrees to Join Our Sphere."
+aus.tree.4053.d:0 "[From.GetLeader] has let us know that his country is looking forward to closer coopertaion. [Root.GetAdjective]-[From.GetAdjective] Relationships are off to a good start."
+aus.tree.4053.a:0 "Splendid."
