@@ -85,9 +85,9 @@ PLC_common_currency_idea:0 "단일 화폐"
 PLC_common_currency_idea_desc:0 "폴란드와 리투아니아의 두 경제 체제는 단일 화폐를 통해 결합되었는데, 이것은 우리의 새로운 경제의 근간을 이루게 될 것입니다."
 
 ### Focuses ###
-PLC_poland_first:0 "바르샤바가 수도입니다"
+PLC_poland_first:0 "바르샤바가 수도이다"
 PLC_striking_the_balance:0 "새로운 수도"
-PLC_lithuania_first:0 "빌뉴스가 수도입니다"
+PLC_lithuania_first:0 "빌뉴스가 수도이다"
 PLC_the_new_bureaucracy:0 "관료제 우선"
 PLC_solve_racial_tensions:0 "문화적 갈등 해소"
 PLC_a_unifying_faith:0 "바르샤바 연맹 재결성"
