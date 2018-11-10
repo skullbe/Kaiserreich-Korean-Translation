@@ -50,78 +50,78 @@ occupaied_guam_USA:0 "일본이 괌을 점령하다"
 no_occupaied_guam_USA:0 "일본이 괌을 점령하지 않았다"
 
 ### Tooltips ###
-ACW_liberia_rally:0 "We shall Rally our people to defend Liberia"
-ACW_panama_garrison_tooltip:0 "The Panama Garrison returns to America"
-ACW_chinese_marines_tooltip:0 "The Marines in China return to America"
-PSA_rockies_ceasefire:0 "A ceasefire has been agreed upon at the Rockies"
-ACW_reinforcment_tooltip:0 "Re-enforcements shall arrive"
-ACW_convert_destroyers_tooltip:0 "We shall convert ships to Destroyers"
-ACW_convert_cruisers_tooltip:0 "We shall convert ships to Cruisers"
+ACW_liberia_rally:0 "리비아를 지키기 위해 국민을 소집할 것이다"
+ACW_panama_garrison_tooltip:0 "파나마 주둔군이 미국으로 돌아오다"
+ACW_chinese_marines_tooltip:0 "중국의 해병들이 미국으로 돌아오다"
+PSA_rockies_ceasefire:0 "로키 산맥에서 휴전협정이 체결되다"
+ACW_reinforcment_tooltip:0 "군 강화 작전이 도착할 것이다"
+ACW_convert_destroyers_tooltip:0 "선박을 구축함으로 개장할 것이다"
+ACW_convert_cruisers_tooltip:0 "선박을 순양함으로 개장할 것이다"
 
 ### Decisions ####
 ACW_foreign_volunteer_decisions:0 "외국 자원병"
-ACW_foreign_volunteer_decisions_desc:0 "With the US civil war raging in America, it might be good to send supplies and arms over to the faction that we wish to help have victory in that bloody conflict. "
+ACW_foreign_volunteer_decisions_desc:0 "미국 내전이 격화됨에 따라, 우리가 그 유혈 분쟁에서 승리를 거두는 데 도움을 주고자 하는 파벌들에게 물자와 무기를 보내는 것이 좋을 것이다. "
 ACW_support_csa:0 "아메리카 노동연맹 지원"
-ACW_support_csa_desc:0 "We should support our brothers and sisters in America fighting to break their chains. "
+ACW_support_csa_desc:0 "우리는 미국에 있는 형제 자매들이 그들의 사슬을 끊으려고 싸우는 것을 지지해야 한다. "
 ACW_support_usa:0 "미합중국 지원"
-ACW_support_usa_desc:0 "We should support the federal government of America fighting against syndicalist and traitors alike. "
+ACW_support_usa_desc:0 "우리는 생디칼리스트와 반역자들에 맞서 싸우는 미국 연방 정부를 지원해야 한다. "
 ACW_support_aus:0 "미주연합 지원"
-ACW_support_aus_desc:0 "We should support Huey Long and the American Union State fighting against the corrupt federal government and syndicalist alike. "
+ACW_support_aus_desc:0 "우리는 휴이 롱과 미국 연방 정부가 부패한 연방 정부와 생디칼리스트에 맞서 싸우는 것을 지원해야 한다. "
 ACW_support_psa:0 "태평양합중국 지원"
-ACW_support_psa_desc:0 "We should support the legitimate America on the West Coast fighting against tyranny from all sides in America. "
+ACW_support_psa_desc:0 "우리는 미국 전역의 폭정에 맞서 싸우는 서부 해안의 정당한 미국을 지지해야 한다. "
 
 ACW_csa_decisions:0 "제2차 미국 혁명 결정"
-ACW_csa_decisions_desc:0 "The Second American Revolution is here and we must bring about our victory within it for the working class."
+ACW_csa_decisions_desc:0 "제2차 미국 혁명이 시작됐고 우리는 노동 계급을 위해 승리를 이끌어내야 한다."
 
 ACW_tex_decisions:0 "제2차 미국 내전"
-ACW_tex_decisions_desc:0 "The Second American Civil War is here and we must bring about our victory within it for America."
+ACW_tex_decisions_desc:0 "제2차 미국 내전이 발발했고 우리는 미국을 위해 승리를 이끌어내야 한다."
 
 ACW_psa_decisions:0 "제2차 미국 내전"
-ACW_psa_decisions_desc:0 "The Second American Civil War is here and we must bring about our victory within it for America."
+ACW_psa_decisions_desc:0 "제2차 미국 내전이 발발했고 우리는 미국을 위해 승리를 이끌어내야 한다."
 
 ACW_usa_decisions:0 "제2차 미국 내전"
-ACW_usa_decisions_desc:0 "The Second American Civil War is here and we must bring about our victory within it for America."
+ACW_usa_decisions_desc:0 "제2차 미국 내전이 발발했고 우리는 미국을 위해 승리를 이끌어내야 한다."
 USA_relocate_capital_civil_war:0 "수도 이전"
 
 
 ### Set Up Events - Reed ###
 amcivwar.1.t:0 "리드 대통령이 2차 미국 혁명을 선포하다"
-amcivwar.1.d:0 "President Reed has escaped to Chicago and has declared that MacArthur is a traitor to all the people of America. He and his followers have taken control of the Steel Belt and many are starting to listen to his call for revolution against MacArthur and the bourgeoisie. "
+amcivwar.1.d:0 "리드 대통령은 시카고로 탈출해 맥아더가 미국 국민의 반역자라고 선언했다. 그와 그의 추종자들은 철강 산업 지역을 장악했고 많은 사람들은 맥아더와 부르주아에 대한 그의 혁명 요구에 귀기울이기 시작하고 있다. "
 amcivwar.1.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
 amcivwar.1.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (아메리카 노동 연맹으로 플레이합니다)"
 
 amcivwar.2.t:0 "휴이 롱이 미주 연합을 선포하다"
-amcivwar.2.d:0 "In a fiery speech in New Orleans, Huey Long has spoken about the need to fight both the traitor MacArthur and pretender Reed. Both are tyrants that need to be toppled, and only the AFP, under his guidance, can cleanse America. "
+amcivwar.2.d:0 뉴올리언스에서 열띤 연설을 하면서, 휴이 롱은 배신자 맥아더와 왕위 요구자 리드 둘 다와 싸울 필요성에 대해 말했다. 둘 다 전복될 필요가 있는 폭군이고 오직 미주 연합만이 그의 지도 하에 미국을 정화시킬 수 있다. "
 amcivwar.2.a:0 "공화국을 지켜내자"
 amcivwar.2.b:0 "조국을 지켜내자 (미주 연합으로 플레이합니다)"
 
 amcivwar.3.t:0 "태평양 주지사들이 봉기를 선포하다"
-amcivwar.3.d:0 "The governors of the Pacific states have declared that MacArthur, Huey Long, and Jack Reed are all traitors, tyrants, and enemies of America. They claim that they, and they alone are the legitimate America, and the last bastion of American democracy."
+amcivwar.3.d:0 "태평양의 주지사들은 맥아더, 휴이 롱, 잭 리드 모두 미국의 반역자, 폭군, 적이라고 선언했다. 그들은 자신들만이 정당한 미국이며 미국 민주주의의 마지막 보루라고 주장한다."
 amcivwar.3.a:0 "정부를 지켜내자"
-amcivwar.3.b:0 "Stand by the Republic (Play as the PSA)"
+amcivwar.3.b:0 "공화국을 지켜내자 (미 태평양 합중국으로 플레이합니다)"
 
 amcivwar.4.t:0 "제 2차 내전"
-amcivwar.4.d:0 "Chaos has engulfed the land. Militia are arising all across the country, the flames of war are fanned and as brother fights brother and father fights son, the Second American Civil War begins."
+amcivwar.4.d:0 "혼돈이 그 땅을 집어삼켰다. 미국 전역에서 시민군이 발생하고 있고, 전쟁의 불길이 타오르고, 형제와 아버지가 아들과 싸우면서 제2차 미국 내전이 시작된다."
 amcivwar.4.a:0 "Not again…"
 
 ### Set Up Events - Long ###
 amcivwar.6.t:0 "롱 대통령이 미주 연합을 선포하다"
-amcivwar.6.d:0 "President Long has escaped to New Orleans and has declared that MacArthur is a traitor to the people of America. He and his followers have risen up in the south and southwest, and he has spoken on the radio urging all Americans to support the legitimate President and fight against the tyrannical MacArthur."
+amcivwar.6.d:0 "롱 대통령은 뉴올리언스로 탈출했고 맥아더가 미국 국민의 반역자라고 선언했다. 그와 그의 추종자들은 남부지방과 남서쪽에서 부상했고, 라디오에서 모든 미국인들이 합법적인 대통령을 지지하고 독재적인 맥아더에 맞서 싸우기를 촉구하는 연설을 했다."
 amcivwar.6.a:0 "공화국을 지켜내자"
 amcivwar.6.b:0 "조국을 지켜내자 (미주 연합으로 플레이합니다)"
 
 amcivwar.7.t:0 "리드가 2차 미국 혁명을 선포하다"
-amcivwar.7.d:0 "Jack Reed has given a rousing a radio broadcast in Chicago, urging all his followers to rise up against the twin tyrants of MacArthur and Huey Long. Within the hour, local army barracks are secured by sympathetic elements in the military, or by local militia, and within the day major ports and roads, as well as city halls and state capitols in the Steel Belt are secured by the newly formed Combined Syndicates of America. "
-amcivwar.7.a:0 "The disaster has begun. Stand by the Republic"
-amcivwar.7.b:0 "The rising has begun. Stand by the Workers (Play as the CSA)"
+amcivwar.7.d:0 "잭 리드는 시카고에서 라디오 방송을 통해 모든 추종자들이 맥아더와 휴이 롱이라는 두 독재자들에 맞서기를 촉구했다. 1시간 이내에 지역군 병영들은 군이나 지역 민병대의 호의를 통해 확보되고, 주요 항구와 도로뿐만 아니라 강철 벨트 내의 시청과 국가 전복이 아메리카 노동 연맹에 의해 새로 형성된다. "
+amcivwar.7.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
+amcivwar.7.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (아메리카 노동 연맹으로 플레이합니다)"
 
 amcivwar.8.t:0 "태평양 주지사들이 봉기를 선포하다"
-amcivwar.8.d:0 "The governors of the Pacific states have declared that MacArthur, Huey Long, and Jack Reed are all traitors, tyrants, and enemies of America. They claim that they, and they alone are the legitimate America, and the last bastion of American democracy."
+amcivwar.8.d:0 "태평양의 주지사들은 맥아더, 휴이 롱, 잭 리드 모두 미국의 반역자, 폭군, 적이라고 선언했다. 그들은 자신들만이 정당한 미국이며 미국 민주주의의 마지막 보루라고 주장한다."
 amcivwar.8.a:0 "정부를 지켜내자"
 amcivwar.8.b:0 "공화국을 지켜내자 (미 태평양 합중국으로 플레이합니다)"
 
 amcivwar.9.t:0 "제2차 내전"
-amcivwar.9.d:0 "Chaos has engulfed the land. Militia are arising all across the country, the flames of war are fanned and as brother fights brother and father fights son, the Second American Civil War begins."
+amcivwar.9.d:0 "혼돈이 그 땅을 집어삼켰다. 미국 전역에서 시민군이 발생하고 있고, 전쟁의 불길이 타오르고, 형제와 아버지가 아들과 싸우면서 제2차 미국 내전이 시작된다."
 amcivwar.9.a:0 "Not again…"
 
 ### Set Up Events - Olson ###
