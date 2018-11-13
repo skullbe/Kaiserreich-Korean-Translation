@@ -1,4 +1,5 @@
 l_english:
+
 ### Spartakiade Opinion Modifiers ###
 spartikade_bomb:0 "왕당파의 폭탄"
 
@@ -21,7 +22,7 @@ Spartakiade.2.a:0 "좋지도 않고 나쁘지도 않군."
 
 Spartakiade.3.t:0 "스파르타키아드의 결과"
 Spartakiade.3.d:0 "우리는 많은 금메달을 땄고, 스파르타키아드의 완벽한 승자가 되었습니다!"
-Spartakiade.3.a:0 "가라, $COUNTRYNAME$!"
+Spartakiade.3.a:0 "가라 [ROOT.GetName]!"
 
 Spartakiade.4.t:0 "스파르타키아드의 결과"
 Spartakiade.4.d:0 "놀랍게도 우리 선수들 중 한명이 심판에게 뇌물을 주려다가 결렸습니다! 그 선수는 스파르타키아드에서 쫓겨났고, 경력은 끝났습니다."
@@ -49,7 +50,7 @@ Spartakiade.9.a:0 "좋지도 않고 나쁘지도 않군."
 
 Spartakiade.10.t:0 "스파르타키아드의 결과"
 Spartakiade.10.d:0 "우리는 많은 금메달을 땄고, 스파르타키아드의 완벽한 승자가 되었습니다!"
-Spartakiade.10.a:0 "가라, $COUNTRYNAME$!"
+Spartakiade.10.a:0 "가라 [ROOT.GetName]!"
 
 Spartakiade.11.t:0 "1945년 스파르타키아드가 끝나다!"
 Spartakiade.11.d:0 "스파르타키아드는 끝났고, 많은 사람들이 대회를 즐기면서 우리는 엄청난 성공을 거두었습니다. 노동 계급의 올림픽인 스파르타키아드에 참가한 것은 아주 좋은 변화였습니다!"
