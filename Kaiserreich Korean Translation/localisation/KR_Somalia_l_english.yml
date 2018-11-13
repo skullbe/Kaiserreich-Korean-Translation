@@ -93,7 +93,7 @@ SOM_forthegreatergood:0 "Establish the Hangash"
 SOM_finishgovermentreforms:0 "Finish Government Reforms"
 SOM_economicaldev:0 "Economic Development"
 SOM_basicinfra:0 "Basic Infrastructure Effort"
-SOM_cashcrops:0 "Cash Crops Investment"
+#SOM_cashcrops:0 "Cash Crops Investment" already defined above as an idea
 SOM_endhunger:0 "Tackle Rural Famines"
 SOM_endhunger2:0 "End Rural Famine"
 SOM_blackmonday:0 "Deal With Black Monday Ripples"
@@ -170,7 +170,7 @@ SOM_forthegreatergood_desc:0 "Enemies about at every corner. Knifes in the dark,
 SOM_finishgovermentreforms_desc:0 "With the future of the nation safeguarded, tomorrow is brighter than ever. Now we must begin to plan for it..."
 SOM_economicaldev_desc:0 "While our population has grown prosperous, we need to make sure that this prosperity is not something that will pass, by developing the economy into an industrial one. Our valued partners in the Porte and in Berlin will help us in this endeavour."
 SOM_basicinfra_desc:0 "A nation as young as Somalia will always need investments linking provinces and regions; especially if we are to truly modernise."
-SOM_cashcrops_desc:0 "Hunger is still an issue within Somalia and food reserves are required in order to curb its effects. The best thing we can do is intensify cash crop production for some time."
+#SOM_cashcrops_desc:0 "Hunger is still an issue within Somalia and food reserves are required in order to curb its effects. The best thing we can do is intensify cash crop production for some time." already defined above as an idea
 SOM_endhunger_desc:0 "We must begin to take serious measures to help end famine in Somalia. Our first step will be to increase the amount of arable land within the empire and begin purchasing foreign grain and foodstuffs."
 SOM_endhunger2_desc:0 "We have effectively ended the disaster that was famine. Now, hunger is no longer prevalent within Somalia, with both our rural and urban regions possessing enough food to feed their people. Our future seems bright!"
 SOM_blackmonday_desc:0 "Despite not suffering as poorly from the effects of Black Monday as the nations within the German economic orbit, Somalia is still facing a major economic downturn. This cannot be allowed to happen; we must take action as soon as possible!"
@@ -233,9 +233,9 @@ SOM_airdoc_desc:0 "Perhaps the most important facet of any airborne mission, pla
 
 #events
 
-som.1.t:0 "뭉치면 산다!(United We Stand!)"
-som.1.d:0 "소말리아의 여러 국가들은 식민주의자들에게 손쉬운 먹잇감이었고, 우린 분열되어 쇠락했습니다. 그러나 그때, 적들에게 '미친 물라(Mad Mullah)'라고 불린 압둘라 하산(Abdullah Hassan)의 기나긴 투쟁이, 세계 대전에서 승리로 마무리되었습니다. 여기와 유럽에서의 연승에 이어, 이탈리아는 소말리아에서 완전히 철수했으며, 와르산갈리(Warsangali)의 술탄은 전세계에서 독일과 싸우느라 바쁜 영국의 손아귀에서 사실상 벗어났습니다. 명예로운 평화로 소말리아는 자유가 되었지만, 역설적이게도 술탄 알리 시레(Ali Shire)가 맺은 조약으로 영국의 보호령이 되었습니다. 조약으로 인한 현상 유지는 양측의 이득처럼 보였습니다. 영국이 붕괴한 이후, 와르산갈리의 군대는 나머지 영국령 소말리랜드를 점유했습니다. 그리고 알리와 느슨하게 연합했던 영주들은 그를 소말리아의 황제, 또는 보코르(Boqor)로 추종했습니다. 그러나 동맹국의 황제에게 환심을 사려는 시도인지, 그는 서방에선 왕을 자처했고, 칼리프의 권위와 도움을 충분히 인정했기에 자신을 그 아래에 놓았습니다. 소말리아는 번영하여, 우리의 농장은 기름져가고, 도시는 커져갔으며, 오가덴에 대한 우리 지배권은 확실해서, 지금으로선 아비시니아도 어쩔 도리가 없습니다. 도로, 대학, 책들은 모두 소말리 르네상스의 징표입니다. 하지만 거대한 위험이 도사리고 있을 지도 모르니, 현명한 이라면 호시절이 영원하지 않다는 걸 압니다. 하일레 셀라시에가 우리를 눈여겨보고 있으며, 중앙아프리카의 신임 관리자는 외교적으로 꽤 가까이하기 어렵습니다. 장래에 뭐가 있든 간에, 우린 기회를 잡았으며, 함께라면 소말리아를 밝은 미래로 이끌 수 있을겁니다."
-som.1.a:0 "우리는 거인들의 어깨 위에 서 있다!"
+som.1.t:0 "United We Stand!"
+som.1.d:0 "The multiple states of Somalia were preyed upon by colonists and, in the eyes of the international community, we were seen as weak. We had fallen, divided, with brother against brother. However, after Abdullah Hassan's astounding victories over the Italians during the Weltkrieg, Italy had completely withdrawn from Somalia and the Sultan of Warsangali had, in all but name, slipped from British control as they were preoccupied with fighting the Germans. The Peace with Honour, officially concluding the Weltkrieg, paradoxically made Somalia free while remaining a protectorate of Britain due to Ali Shire's treaties. This status-quo, which had benefitted both parties, did not last for long, however, as the British Empire had collapsed. In a moment of what some may call opportunism, Warsangali's forces seized what was left of British Somaliland and the lords allied to him proclaimed him Bogor, or emperor, of Somalia. However, he sought to style himself as King of Somalia in the West as a way to court the monarchs of the Central Powers while recognising the ultimate authority of the Caliph. Prosperity followed for Somalia, with our fields growing rich and our cities larger. In addition, we'd managed to secure control over Ogaden in spite of the opposition from Abyssinia. Our roads, books, and universities are all symptoms of this event which has been dubbed the Somalian Renaissance, but great danger may lie ahead for the wise understand that good times cannot be maintained indefinitely. Halie Selassie eyes our great nation enviously and Mittelafrika's new Statthalter remains diplomatically unapproachable. Whatever the future may hold, we can sit content with the fact that we have seized every possible opportunity presented to us and, together as one, leading Somalia to a better and brighter future."
+som.1.a:0 "We stand on the shoulder of giants!"
 som.2.t:0 "Black Monday has reached Somalia!"
 som.2.d:0 "Even though Black Monday has done minimal damage to Somalia, especially when compared to the nations in Europe, we've still been hit by this economic crisis. Our valued trading partners are no longer willing to trade and our people are growing discontent, worried about what the future may hold. If we do not act quick to remedy the situation, this new attitude that has developed may make an economic downturn all but certain!"
 som.2.a:0 "Uh oh..."
@@ -285,4 +285,3 @@ som.15.t:0 "Somalia wants to join the Internationale"
 som.15.d:0 "The efforts of the Internationale's Muslim Committee have brought upon us great success as the Somali Revolution has turned Somalia into a socialist nation. Siad Barre and the Somali people have now requested our aid, citing the turbulence their nation faces. Having an ally in the Horn could greatly assist us in future endeavours. What say we?"
 som.15.a:0 "We welcome our African brothers!"
 som.15.b:0 "This is wholly uneeded. Politely decline."
-
