@@ -47,22 +47,25 @@ SRD_piedmont_authoritarian_democrat:0 "사르데냐-피에몬테"
 SRD_piedmont_paternal_autocrat:0 "사르데냐-피에몬테"
 SRD_piedmont_national_populist:0 "사르데냐-피에몬테"
 
-
-
 ### Tooltips ###
 SRD_build_after_liberation:0 "Will be built after Liberating Piedmont\n\n"
-SRD_proclaim_kingdom_of_italy:0 "이탈리아 왕국을 선언합니다\n\n"
-SRD_proclaim_sardinia_piedmont:0 "Proclaim Kingdom of Sardinia-Piedmont\n\n§RNote: this will mean renouncing any ambitions to the Kingdom of Italy\n\n"
-SRD_industralize_the_south_flag:0 "Once we control southern Italy we shall Industrialise it.\n\n"
+SRD_proclaim_kingdom_of_italy:0 "이탈리아 왕국을 선포합니다\n\n§Y사르데냐§!는 이제 §Y이탈리아 왕국§!으로 불릴 것입니다"
+SRD_proclaim_sardinia_piedmont:0 "사르데냐-피에몬테 왕국을 선포합니다\n\n§R이 선택은 이탈리아 왕국 복원을 포기한다는 것을 의미합니다§!\n\n§Y사르데냐§!는 §Y사르데냐-피에몬테§!로 불릴 것입니다"
+SRD_industralize_the_south_flag:0 "Once we control southern Italy we shall industrialise it.\n\n"
 SRD_loyal_ministers:0 "We shall fill the privy council with competent and loyal ministers to the king"
 SRD_italian_free_trade_tooltip:0 "이탈리아 국가간의 무역을 촉진시킵니다"
 SRD_joint_military_tooltip:0 "We shall promote military training between the members of the Italian Confederation"
-
-
+SRD_sicgarunit_tt:0 "A new Papal division under our command will arise in Sardinian-held Rome."
 
 ### Flags ###
 SRD_black_monday_hit_sardinia:0 "검은 월요일이 사르데냐를 강타하다"
 SRD_italian_customs_union_opinion:0 "이탈리아 관세 동맹"
+
+### Decisions ###
+SRD_political_decisions:0 "정치 결단"
+SRD_political_decisions_desc:0 "There are many different political decisions that we can take to shape the nature of the Kingdom."
+SRD_unite_italy:0 "이탈리아 통일"
+SRD_unite_italy_desc:0 "Italy was divided during the Italian civil war. However, at long last, the House of Savoy has triumphed and now we have unified the country again."
 
 ### Ideas ###
 SRD_canadian_officers:0 "캐나다인 고문"
@@ -90,15 +93,13 @@ SRD_workers_rights_idea:0 "노동자의 권리"
 SRD_confederation_training_idea:0 "Italian Confederation Training"
 SRD_elite_army_idea:0 "엘리트 육군"
 
-
-
 ### Focus - Politics ###
 SRD_country:0 "결정과 망명"
 SRD_country_desc:0 "Ever since Italy's defeat in the Weltkrieg and the ensuring civil issues we have resided here on Sardinia, the populace grow agitated over our absolute rule and the two main Sardinian parties have threatened to stop working with us. We have tough choices ahead."
 SRD_legitimate_kingdom:0 "정당한 왕국"
 SRD_legitimate_kingdom_desc:0 "Although we may reside in Cagliari we are still the legitimate rulers. We shall reinforce this stance both within our holdings and diplomatically to the world."
 SRD_royal_decrees:0 "칙령"
-SRD_royal_decrees_desc:0 "Our current rule relies on a system of unspoken agreements and verbal contracts, this form of rule is unacceptable for a modern Kingdom such as ourselves. Rule by Decree will allow us to sieze private assets and take all necessary measures to protect the kingdom."
+SRD_royal_decrees_desc:0 "Our current rule relies on a system of unspoken agreements and verbal contracts, this form of rule is unacceptable for a modern Kingdom such as ourselves. Rule by Decree will allow us to seize private assets and take all necessary measures to protect the kingdom."
 SRD_stack_the_cabinet:0 "내각을 세우다"
 SRD_stack_the_cabinet_desc:0 "The Local Sardinian Politicians continually meddle and block our royal rule with every power at their disposal. We shall solve this problem by merely removing them from our Royal Cabinet and replacing them with more agreeable representatives."
 SRD_crackdown_on_dissidents:0 "경쟁자를 사라지게 하다"
@@ -226,7 +227,7 @@ SRD_light_royal_legion:0 "왕립 경보병 군단"
 SRD_light_royal_legion_desc:0 "We can expand the training of our Bergsaglieri, and the spirit of that training, to encompass our entire army. It will make our motorised and mechanised units tougher, faster, and improve the overall coordination between all military units in our army. None will outrun the Royal Light Legion of Sardinia!"
 ### Focus - navy ###
 SRD_battleship_plan:0 "Cavagnari's Plan"
-SRD_battleship_plan_desc:0 "Cavagnari is a veteran of the Weltkrieg and saw the effectiveness of large ships of the line. He is our biggest proponent of Battlecruisers and Battleships, and strongly recommends we begin to lay down the hulls of several large ships if we want to wrest control of the Mediterranean away from our enemies."
+SRD_battleship_plan_desc:0 "Cavagnari is a veteran of the Weltkrieg and saw the effectiveness of large ships of the line. He is our biggest proponent of Battlecruisers and Dreadnoughts, and strongly recommends we begin to lay down the hulls of several large ships if we want to wrest control of the Mediterranean away from our enemies."
 SRD_carrier_plan:0 "Iachino's Plan"
 SRD_carrier_plan_desc:0 "Angelo Iachino's experience with torpedo boats during the Weltkrieg has led him to some fairly unconventional ideas involving airpower and runways on the water. We are Italian, and we will continue to innovate as the threat of another great war looms. We just hope he is right about the coming strength of airpower on the open sea."
 SRD_sub_plan:0 "Legnani's Plan"
@@ -241,12 +242,12 @@ SRD_continue_reforms:0 "개혁 지속"
 SRD_continue_reforms_desc:0 "While our reforms are well underway and going extremely well, this is not the time for complacency. Our reforms must reach every aspect of our navy, and continue to drive forward our naval dominance."
 SRD_submarines:0 "잠수함"
 SRD_submarines_desc:0 "Our current submarines are adequate, if not spectacular. Legnani has ordered that we develop submarines that are faster and longer range, which we will need if we ever want to extend our reach beyond the waters of the Mediterranean."
-SRD_light_cruisers:0 "경순양함"
-SRD_light_cruisers_desc:0 "While our submarines are impressive, to say the least, we still will need surface vessels to guard our convoys and do some additional spotting. Let's design some light cruisers to help with trade interdiction, and protect our submarines from hostile destroyers."
-SRD_battle_cruisers:0 "전투순양함"
-SRD_battle_cruisers_desc:0 "Now that we have designs for Battleships, we nee dto make sure we have a powerful escort force for our titans of the sea. While still large, battlecruisers can sail in front of our might behemoths and protect them from smaller craft while our big guns pound enemy capital ships into submission."
-SRD_battleships:0 "전함"
-SRD_battleships_desc:0 "Now that the basics of our new fleet have been worked out, it is time to design some truly great battleships to augment our existing fleet, the first of which shall be our new mighty flagship. It's a wonder of modern engineering that we were able to build such large ships on such a small island, but such is the power of Sardinina!"
+SRD_cruisers:0 "순양함"
+SRD_cruisers_desc:0 "While our submarines are impressive, to say the least, we still will need surface vessels to guard our convoys and do some additional spotting. Let's design some cruisers to help with trade interdiction, and protect our submarines from hostile destroyers."
+SRD_armoured_cruisers:0 "장갑 순양함"
+SRD_armoured_cruisers_desc:0 "Now that we have designs for Dreadnoughts, we need to make sure we have a powerful escort force for our titans of the sea. While still large, armoured cruisers can sail in front of our mighty behemoths and protect them from smaller craft while our big guns pound enemy capital ships into submission."
+SRD_battleships:0 "드레드노트"
+SRD_battleships_desc:0 "Now that the basics of our new fleet have been worked out, it is time to design some truly great Dreadnoughts to augment our existing fleet, the first of which shall be our new mighty flagship. It's a wonder of modern engineering that we were able to build such large ships on such a small island, but such is the power of Sardinina!"
 SRD_marines:0 "사르데냐 해병대"
 SRD_marines_desc:0 "There is no excuse for us not to exploit the talents of the hardy island people under our stewardship. Proposals have been put forward to capitalise on this and encourage the specialised training of Marine detachments."
 SRD_synthetic_research:0 "Synthetic Research"
@@ -282,8 +283,8 @@ SRD_rule_the_skies_desc:0 "We have all the evidence we need to show us how trans
 ### Events ###
 
 srd.0.t:0 "사르데냐 왕국"
-srd.0.d:0 "The Kingdom of Sardinia was born amid the ashes of the Weltkrieg. While originally meant to hold the old territory of Sardinia-Piedmont, everything changed when civil war erupted on the mainland, and at present Piedmont, Aosta, and other lands belonging to the House of Savoy have been held by the Socialist Republic of Italy for well over a decade.\n\nThis sombre state of affairs is made no better by internal divisions at home. King Amadeo, formerly Duke Aimone of Aosta, replaced his uncle Victor Emannuel after the disgrace of the Weltkrieg, and rules as an absolute monarch; upsetting many, who feel that constitutional monarchy is the only path to progress. This fundamental question, between absolutism and constituionalism, has divided the island since the end of the Weltkrieg, and there is little doubt that the current arrangement is simply untenable. Corruption runs rampant and the judiciary and government both require reform, problems without solutions under the current political deadlock, and without which Sardinia will never be able to take but what is rightfully hers."
-srd.0.a:0 "Long Live the King!"
+srd.0.d:0 "The Kingdom of Sardinia was born amid the ashes of the Weltkrieg. While originally meant to hold the old territory of Sardinia-Piedmont as part of the Italian Federation, everything changed when civil war erupted on the mainland, and at present Piedmont, Aosta, and other lands belonging to the House of Savoy have been held by the Socialist Republic of Italy for well over a decade.\n\nThis sombre state of affairs is made no better by internal divisions at home. King Amadeo, formerly Duke Aimone of Aosta, replaced his father Emanuele Filiberto as King of Sardinia just five years ago, and rules as an absolute monarch; upsetting many, who feel that constitutional monarchy is the only path to progress. This fundamental question, between absolutism and constituionalism, has divided the island since the end of the Weltkrieg, and there is little doubt that the current arrangement is simply untenable. Corruption runs rampant and the judiciary and government both require reform, problems without solutions under the current political deadlock, and without which Sardinia will never be able to take but what is rightfully hers."
+srd.0.a:0 "국왕폐하 만세!"
 
 ### Political Events 1 - 10 ###
 srd.1.t:0 "정부 개혁"
@@ -304,8 +305,8 @@ srd.11.a:0 "국왕 폐하 만세"
 
 ### The Democratic Monarchy Path 21 - 30 ###
 srd.21.t:0 "신 헌법"
-srd.21.d:0 "Today, the King has unveiled a new constitution for the nation. Most importantly, this constitution cedes legislative power to the people, if also reserving the right of a royal veto and a number of other royal prerogatives. Liberals throughout Cagliari are rejoicing at the news and all the various political parties are planning for future elections. "
-srd.21.a:0 "국왕 폐하 만세"
+srd.21.d:0 "Today, the King has unveiled a new constitution for the nation. Most importantly, this constitution cedes legislative power to the people, if also reserving the right of a royal veto and a number of other royal prerogatives. Liberals throughout Cagliari are rejoicing at the news and all the various political parties are planning for future elections."
+srd.21.a:0 "국왕폐하 만세"
 
 
 
@@ -324,7 +325,7 @@ srd.30.c:0 "Social Conservatives"
 srd.30.e:0 "Social Democrats"
 ### Foreign Path 31 - 35 ###
 srd.31.t:0 "피에몬테는 우리 것이다"
-srd.31.d:0 "Today on [GetDateText] we have retaken Piedmont and destroyed the godless syndicalists within the Socialist Republic of Italy. It will take time to dismantle syndicalism but for now we are back on the mainland of Italy. "
+srd.31.d:0 "Today on [GetDateText] we have retaken Piedmont and destroyed the godless syndicalists within the Socialist Republic of Italy. It will take time to dismantle syndicalism but for now we are back on the mainland of Italy."
 srd.31.a:0 "국왕 폐하 만세"
 
 ### Kingdom of Italy 36 - 45 ###
@@ -365,20 +366,20 @@ srd.43.b:0 "Refuse the treaty"
 
 srd.44.t:0 "교황이 조약에 서명하다"
 srd.44.d:0 "Our entirely reasonable proposal has been accepted by the Pope, under which the Papal states will be annexed excluding the Leonine City, which will remain completely independent and ruled by the Pope. A number of buildings will be granted tax exemption, principally papal estates and monasteries, and we will pay the Leonine city for the loss in 1870 of territories and property, plus the losses incurred by this new agreement."
-srd.44.a:0 "A great day for Italy"
+srd.44.a:0 "이탈리아의 위대한 날이도다"
 
 srd.45.t:0 "교황이 우리 조약을 거부하다"
 srd.45.d:0 "The Pope has refused our generous terms. Now the only path to Rome is war. "
 srd.45.a:0 "그렇다면 전쟁이다"
 
-srd.46.t:0 "The Papal States is annexed"
+srd.46.t:0 "교황령이 합병되었습니다"
 srd.46.d:0 "The papal states have recently been annexed by the Kingdom of Italy. This will not stand. The Pope and thus the Papal States were under our protection and influence. There is quite a considerable number of voices within the government demanding that we go to war over this, while others argue that we should bid our time."
 srd.46.a:0 "전쟁이다!"
 srd.46.b:0 "Let us bid our time"
 
 srd.47.t:0 "양시칠리아가 우리를 공격하다"
 srd.47.d:0 "The Kingdom has been attacked by the Kingdom of Two Sicilies. We have apparently tried to destroy His Holiness and steal his home, as well as the core of the Catholic Church. This of course flies in violation of the treaty that we have signed. The Pope to his credit has come out and denounced this attack arguing that Christianity should unite the two Italian countries."
-srd.47.a:0 "Damn Sicilians"
+srd.47.a:0 "망할 시칠리아 놈들"
 
 
 
