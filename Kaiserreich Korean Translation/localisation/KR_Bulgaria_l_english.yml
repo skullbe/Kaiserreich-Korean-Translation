@@ -676,27 +676,27 @@ bulgariaflavour.10.d:0 "Thankfully, after months of occupation, it seems as thou
 bulgariaflavour.10.a:0 "완벽하군."
 
 bulgariaflavour.11.t:0 "아드리아노플에서의 파르티잔 공격!"
-bulgariaflavour.11.d:0 "Following our conquest of the region, it seems though locals and natives in the area have seen fit to attack and damage various infrastructural buildings and factories. In addition, we've seen the locals stage protests against the [Root.GetAdjective] government, some of which have escalated into clashes between the military garrisons and the locals."
+bulgariaflavour.11.d:0 "이 지역 정복에 이어 지역 주민들과 원주민들은 다양한 인프라 건물과 공장을 공격하고 피해를 입히는데 적합하다고 생각합니다. 또한, 우리는 지역 주민들이 [Root.GetAdjective] 정부에 대한 항의 시위를 벌이는 것을 보았습니다. 그 중 일부는 군대 수비대와 현지인간의 충돌로 확대되었습니다."
 bulgariaflavour.11.a:0 "정말 엉망진창이군..."
 
 bulgariaflavour.12.t:0 "네스티나르스트보"
-bulgariaflavour.12.d:0 "A fire ritual performed in both [Root.GetAdjective] and [GRE.GetAdjective] cities in the Strandzha Mountains, alongside the Black Sea, Nestinarstvo involves barefoot dancing by nestinari on smouldering flames in the centre of the village. The ritual itself is a blend of both Eastern Orthodox and pagan traditions."
+bulgariaflavour.12.d:0 "흑해와 함께 스트란자 산맥의 [Root.GetAdjective]와(과) [GRE.GetAdjective]의 도시에서 수행된 화재 의식인 네스티나르스트보는 네스티나리가 마을 중앙의 불을 피우는 불꽃에서 맨발로 춤을 추는 것을 포함합니다. 의식 자체는 동방정교회와 이교도 전통의 조화입니다."
 bulgariaflavour.12.a:0 "신나는군!"
 
 bulgariaflavour.13.t:0 "국립 미술관"
-bulgariaflavour.13.d:0 "Established in 1934, the National Art Gallery of [Root.GetName], which is located in Sofia (specifically on Battenberg Square), the art gallery itself contains many examples of contemporary [Root.GetAdjective] art, especially those published by well known Bulgarian National Revival Artists. In addition, works of foreign artists and even the royal art collection reside within this great museum."
+bulgariaflavour.13.d:0 "소피아(배튼버그 스퀘어)에 위치한 1934년에 설립된 [Root.GetName]의 국립 미술관은 [Root.GetAdjective]의 많은 현대 미술 작품이 있으며, 특히 잘 알려진 불가리아 국립 재생 예술가들이 출판한 예술이 있습니다. 게다가, 외국 화가들의 작품들과 왕실의 미술 수집품들도 이 위대한 박물관 안에 있습니다."
 bulgariaflavour.13.a:0 "흥미롭군!"
 
 bulgariaflavour.14.t:0 "군대 역사 전시회"
-bulgariaflavour.14.d:0 "Dedicated to the military history of [Root.GetName], the National Museum of Military History has seen fit to open its first exhibition and has begun to showcase various weapons, uniforms, and biographies regarding the history of our triumphant military."
+bulgariaflavour.14.d:0 "[Root.GetName]의 군사 역사에 전념한 국립 군사 역사 박물관은 첫 번째 전시회를 열기에 적합했으며 승리한 군대의 역사와 관련하여 다양한 무기, 군복 및 전기를 선보였습니다."
 bulgariaflavour.14.a:0 "굉장하군!"
 
 bulgariaflavour.15.t:0 "스탐볼리스키의 결점!"
-bulgariaflavour.15.d:0 "Feeling as though [Root.GetNameDef] is on the brink of defeat, it seems as though Stamboliyski has shown his true colours as he has defected to the enemy and has come in support of pan-Slavic ideals. He has gained the attention of many within the Bulgarian Agrarian National Union, but only a minority of the members of the party itself have come out in favour of co-operation with the Serbs."
+bulgariaflavour.15.d:0 "마치 쳇바퀴 돌 듯 [Root.GetNameDef]은(는) 패배 직전에 있으며, 스탐볼리시키는 적에게 패배하고 범-슬라브적 이상을 지지하는 그의 진정한 색깔을 보여준 것 같습니다. 그는 불가리아 농민 연합 내의 많은 사람들의 관심을 받았지만, 당원들 중 소수만이 세르비아인들과의 협력을 지지했습니다."
 bulgariaflavour.15.a:0 "우리는 저 남자를 쏴야한다!"
 
 bulgariaflavour.16.t:0 "스탐볼리스키의 재판"
-bulgariaflavour.16.d:0 "Following our victory over the Belgrade Pact, we have seen fit to jail all those deemed as conspirators against the state. One of the more well known names, Stamboliyski had been jailed by the government following his proclamation of co-operation with the Serbs. His trial is scheduled to begin today, and we can only hope he gets what he deserves..."
+bulgariaflavour.16.d:0 "베오그라드 조약에 대한 우리의 승리에 따라, 우리는 국가에 대한 공모자로 간주되는 모든 사람들을 감옥에 가둘 수 있는 권리를 보았습니다. 더 잘 알려진 이름들 중 하나인 스탐볼리시키는 세르비아인과의 협력을 선언한 후 정부에 의해 투옥되었습니다. 그의 재판은 오늘 시작될 예정이며, 우리는 그가 받을만한 것을 받을 수 있기를 바랄뿐입니다..."
 bulgariaflavour.16.a:0 "젠장할 자식..."
 
 ### Focuses ###
