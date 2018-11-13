@@ -636,43 +636,43 @@ bulgaria.99.a:0 "Yes, this war has dragged on for far too long."
 bulgaria.99.b:0 "No, we must fight for our [BUL.GetAdjective] brothers!"
 
 bulgariaflavour.1.t:0 "불가리아 농업 연합 피켓!"
-bulgariaflavour.1.d:0 "Following the disastrous effects on Black Monday, it seems as though our economically tenuous position has only caused us harm with the members of the Bulgarian Agrarian National Union picketing and protesting outside of the offices of key Liberal officials, demanding that the government intervene on behalf of the farmers. This has done little more than place greater pressure on us, while also spreading disunity within the nation..."
+bulgariaflavour.1.d:0 "검은 월요일의 재앙적인 영향에 뒤이어, 우리 경제적으로 약한 입장이 불가리아 농민 연합 회원들과의 협상을 통해 농민들을 대신하여 정부가 개입할 것을 요구하면서 주요 자유당 관리들의 사무실 밖에서 시위를 하고 있는 것으로 보입니다. 이것은 우리에게 더 큰 압력을 가하는 것 뿐만 아니라 국가 내에서의 불화를 확산시켰습니다."
 bulgariaflavour.1.a:0 "빌어먹을..."
 
 bulgariaflavour.2.t:0 "차르의 열린 비밀"
-bulgariaflavour.2.d:0 "An open secret about the Tsar, Ferdinand I, is that he himself is a bisexual man. Rumours have been spread and discussed about the Tsar, especially with regards to him taking frequent holidays on Capri. Indeed, it is well known by many that the Tsar does have homosexual interests, and this has caused many scandals for the royal family."
+bulgariaflavour.2.d:0 "차르에 대한 공공연한 비밀은 페르디난드 1세가 양성애자라는 것입니다. 특히 카프리에 휴가를 자주 가는 것에 대해, 챠르에 대한 소문이 퍼졌습니다. 실제로, 많은 사람들이 차르가 동성애에 관심을 갖고 있다는 사실을 잘 알고 있으며, 이것은 왕족들에게 많은 추문을 야기시켰습니다."
 bulgariaflavour.2.a:0 "어느쪽으로든 우리가 무엇을 할 수 있을까?"
 
 bulgariaflavour.3.t:0 "콘스탄티노플 정복!"
-bulgariaflavour.3.d:0 "Finally, it seems as though we have rightfully taken the land that is ours. Constantinople, which was once in the hands of the perfidious Turks, is now in our hands. We have managed to avenge the Fall of Constantinople, which had occurred in 1453 – nearly 500 years ago, and have placed the city in Orthodox hands. The Hagia Sofia and the Ecumenical Patriarch will now be safe in Christian hands."
+bulgariaflavour.3.d:0 "마침내, 우리는 우리의 정당한 땅을 차지한 것처럼 보입니다. 한 때 혐오스러운 오스만의 손아귀에 있던 콘스탄티노플이 이제 우리 손아귀에 들어왔습니다. 우리는 거의 500년 전인 1453년에 일어난 콘스탄티노플의 몰락을 용케 앙갚음했고 이 도시를 정통의 손에 넘겨주었습니다. 아야 소피아와 에큐메니칼 파드리다는 이제 기독교의 손안에서 안전합니다."
 bulgariaflavour.3.a:0 "참 즐거운 기회로군!"
 
 bulgariaflavour.4.t:0 "바바 마르타의 날"
-bulgariaflavour.4.d:0 "A pagan ritual by origin, and one of the oldest continuing traditions in Europe, Baba Marta Day, which occurs annually on the 1st of March, is a holiday in which Martenitsa's are worn throughout the month of March and tells of the story of Baba Marta, a sister/wife of the great long-horned beetle and small long-horned beetle. Due to her anger at being considered old by a shepherd, Baba Marta became infuriated and let out snow which lead to the shepherd and her flock to freeze in the mountains.\n\nIn order to celebrate this occasion, festivities also occur on the 9th and 25th of March, with people celebrating the coming of spring."
+bulgariaflavour.4.d:0 "3월 1일 매년 일어나는 유럽에서 가장 오래된 전통 중 하나인 바바 마르타의 날은 마르테니사를 3월 한달 동안 착용하는 명절이며 바바 마르타의 이야기를 말하자면, 아주 긴 뿔이 있는 딱정벌레와 작은 긴 뿔이 달린 딱정벌레의 자매/아내입니다. 양치기에게 나이가 들었다고 여겨진 것에 대한 그녀의 분노로 인해, 바바 마르타는 화가 나서, 양치기와 그녀의 양떼에서 얼어붙게 만드는 눈을 내렸습니다. 이 행사를 기념하기 위해, 사람들은 봄이 오는 것을 축하하는 가운데, 3월 9일과 25일에 축제가 열립니다."
 bulgariaflavour.4.a:0 "정말 흥미롭군..."
 
 bulgariaflavour.5.t:0 "광복절"
-bulgariaflavour.5.d:0 "On the 3rd of March, 1878, [Root.GetName] had been liberated and properly established as a state with the signing of the Treaty of San Stefano. Supported and by the honourable Peter, the Ottoman Empire was forced to give [Root.GetName] most of its territory. Later on, following the Treaty of Berlin in 1878, the Principality of [Root.GetName], alongside Eastern Rumelia, was established by the powers of Europe. In 1908, we would go on to declare our independence."
+bulgariaflavour.5.d:0 "1878년 3월 3일, [Root.GetName]은(는) 산 스테파노 조약의 체결과 함께 해방되어 국가로 설립되었습니다. 명예로운 베드로의 지원에, 오스만 제국은 [Root.GetName]에게 영토 대부분을 넘겨야만 했습니다. 이후, 1878년 베를린 조약에 따라 동 루멜리아와 함께 [Root.GetName] 공국은 유럽의 힘으로 설립되었습니다. 1908년, 우리는 독립을 선언하기 위하여 계속 나아갔습니다."
 bulgariaflavour.5.a:0 "불가리아인들이 기뻐한다!"
 
 bulgariaflavour.6.t:0 "국제 노동자의 날"
-bulgariaflavour.6.d:0 "Today is the 1st of May, universally known as the International Workers' Day which celebrates the efforts of the lower class labourers by the labour movement. First established to commemorate the Haymarket Affair on the 4th of May, they day itself is a public holiday in syndicalist nations worldwide."
+bulgariaflavour.6.d:0 "오늘은 노동 운동으로 하층 계급 노동자들의 노력을 기념하는 국제 노동자의 날로 널리 알려진 5월 1일입니다. 5월 4일 헤이마켓 사건을 기념하기 위해 처음 설립된 이 날은 전세계 생디칼리스트 국가의 공휴일입니다."
 bulgariaflavour.6.a:0 "알겠다..."
 
 bulgariaflavour.7.t:0 "독립 기념일"
-bulgariaflavour.7.d:0 "On the 22nd of September, Tsar Ferdinand I of Bulgaria, who was then Prince Ferdinand, had proclaimed the independence of [Root.GetName] in Tarnovo. This had been a momentous occasion of our great nation, as it allowed for us to gain our de jure independence and fully free ourselves from the grip of the treacherous Ottoman Empire. Following the declaration of independence, we've met much success throughout the years, especially during our time spent fighting in the Weltkrieg."
+bulgariaflavour.7.d:0 "9월 22일, 왕자였던 차르 페르디난드 1세는, 터르노보에서 [Root.GetName]의 독립을 선포했습니다. 이것은 우리 위대한 국가의 중요한 순간이었습니다. 그것은 우리가 우리의 진정한 독립을 얻고, 위험한 오스만 제국의 지배로부터 완전히 벗어나도록 허락했기 때문입니다. 독립 선언에 이어, 우리는 특히 세계대전에서 싸우면서 수년간 많은 성공을 거두었습니다."
 bulgariaflavour.7.a:0 "차르에게 건배!"
 
 bulgariaflavour.8.t:0 "솔룬 정복!"
-bulgariaflavour.8.d:0 "Solun, which was once the centre of the Bulgarian National Revival in Macedonia, is in now in our hands. Of course, while a majority of the population is Greek, there are [Root.GetAdjective]s in the region who are happy to see the transfer of the territory into [Root.GetAdjective] hands. And while this is a joyous occasion, it should be noted that we have much to do in terms of consolidating our power in the region..."
+bulgariaflavour.8.d:0 "한때 마케도니아에서 불가리아 민족 부활의 중심이었던 솔룬은 이제 우리 손아귀 안에 있습니다. 물론 인구의 대다수가 그리스인이지만, 지역에는 [Root.GetAdjective]의 손에 이양되는 걸 기쁘게 보는 [Root.GetAdjective]이 있습니다. 그리고 이것이 기쁜 일이긴 하지만, 우리는 이 지역에서 우리의 권력을 통합하는 관점에서 해야 할 일이 많다는 점에 주목해야 합니다."
 bulgariaflavour.8.a:0 "우리는 승리할 것이다!"
 
 bulgariaflavour.9.t:0 "솔룬에서의 파르티잔 공격!"
-bulgariaflavour.9.d:0 "Following our conquest of the region, it seems though locals and natives in the area have seen fit to attack and damage various infrastructural buildings and factories. In addition, we've seen the locals stage protests against the [Root.GetAdjective] government, some of which have escalated into clashes between the military garrisons and the locals."
+bulgariaflavour.9.d:0 "이 지역의 정복에 이어 이 지역의 주민들과 원주민들은 다양한 인프라 건물과 공장을 공격하고 피해를 입히기에 적합하다고 생각합니다. 또한, 우리는 지역 주민들이 [Root.GetAdjective] 정부에 대한 항의 시위를 벌이는 것을 보았습니다. 그 중 일부는 군대 수비대와 현지인 간의 충돌로 확대되었습니다."
 bulgariaflavour.9.a:0 "정말 엉망진창이군..."
 
 bulgariaflavour.10.t:0 "솔룬 권력 통합"
-bulgariaflavour.10.d:0 "Thankfully, after months of occupation, it seems as though the citizens within Solun have finally accepted the new political realities and are willing to become [BUL.GetAdjective] citizens. In addition, we have received much help from our soldiers, who have helped pacify the most vocal of our opposition."
+bulgariaflavour.10.d:0 "다행히도, 몇 달 간의 점령 끝에, 솔룬의 시민들은 마침내 새로운 정치 현실을 받아들이고 기꺼이 [BUL.GetAdjective]의 국민이 될 것 같습니다. 게다가, 우리는 반대파의 목소리를 가라 앉히는데 도움을 준 군인들에게 많은 도움을 받았습니다."
 bulgariaflavour.10.a:0 "완벽하군."
 
 bulgariaflavour.11.t:0 "아드리아노플에서의 파르티잔 공격!"
