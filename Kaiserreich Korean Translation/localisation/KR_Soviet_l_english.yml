@@ -32,6 +32,11 @@ SOV_FRI:0 "소비에트-미국 협력 조약"
 SOV_POL:0 "폴란드 비즈니스"
 SOV_civil_war:0 "러시아 내전"
 
+### Tooltips ###
+SOV_crusfleunit_tt:0 "A new fleet of cruisers will be formed in Petrograd."
+SOV_battfleunit_tt:0 "A new fleet of battleships will be formed in Petrograd."
+SOV_redcosunit_tt:0 "Three divisions of Leftist Cossacks will form."
+
 ### Ideologies ###
 SOV_totalist_party:0 "국제주의자"
 SOV_syndicalist_party:0 "연방주의자"
@@ -102,8 +107,8 @@ SOV_NAV_BAS:0 "군함 건조 증가"
 SOV_NAV_BAS_desc:0 "많은 인민의 적들은 우리보다 강력한 해군을 보유하고 있습니다. 우리도 그들과 맞설 수 있게 해군력을 늘려야 합니다."
 SOV_NAV_DOC:0 "소비에트 해군 사관학교"
 SOV_NAV_DOC_desc:0 "옛 러시아 해군 사관학교는 반동분자와 구체제 옹호자의 본거지였습니다. 자유로운 생각을 향상시킬 수 있는 새롭고, 더 좋은 해군 사관학교를 건설함에 따라 우리는 새로운 해군 교리를 발전시킬 수 있습니다."
-SOV_NAV_BAT:0 "전함 정비 착수"
-SOV_NAV_BAT_desc:0 "러시아 제국의 해군 지휘관들처럼, 우리의 전함들도 낙후되어 현대화가 필요합니다."
+SOV_NAV_BAT:0 "드레드노트 정비 착수"
+SOV_NAV_BAT_desc:0 "러시아 제국의 해군 지휘관들처럼, 우리의 드레드노트들도 낙후되어 현대화가 필요합니다."
 SOV_EXP_REV:0 "혁명 전파"
 SOV_EXP_REV_desc:0 "소비에트의 권력이 러시아의 심장부에 확고히 자리잡음에 따라 우리는 나머지 세계에 대한 우리의 입장과 우리의 목표가 얼마나 멀리 있을지를 결정할 것입니다."
 SOV_EXP_FAR:0 "동부의 안보"
