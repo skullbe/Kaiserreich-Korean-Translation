@@ -1,5 +1,16 @@
 l_english:
 
+### Tooltips ###
+SOV_fravolunit_tt:0 "New Communard volunteer units will form."
+SOV_engvolunit_tt:0 "New British volunteer units will form."
+SOV_finvolunit_tt:0 "New Finnish volunteer units will form."
+SOV_gervolunit_tt:0 "New German volunteer units will form."
+SOV_japvolunit_tt:0 "New Japanese volunteer units will form."
+SOV_csavolunit_tt:0 "New Combined Syndicates volunteer units will form."
+SOV_cntvolunit_tt:0 "New Spanish leftist volunteer units will form."
+SOV_canvolunit_tt:0 "New Canadian volunteer units will form."
+SOV_nfavolunit_tt:0 "New French Republican volunteer units will form."
+
 ### Events ###
 rcwv.1.t:0 "러시아 내전"
 rcwv.1.d:0 "러시아의 위기는 극한으로 치달았고, 이제는 러시아 노동자들이 자본주의의 억압에 대항하여 자유를 위해 투쟁하기 시작했습니다. 볼셰비키 방법이 극단적이기는 하지만, 우리가 그들을 도와야할까요?"
