@@ -1,5 +1,14 @@
 l_english:
 
+### Tooltips ###
+RUS_whrvolunit_tt:0 "6개의 루테니아 보병과 기병 자원병들이 형성될 것입니다."
+RUS_ukrvolunit_tt:0 "6개의 우크라이나 보병과 기병 자원병들이 형성될 것입니다."
+RUS_monattunit_tt:0 "3개의 새로운 기병 사단이 육성될 것입니다."
+RUS_finindunit_tt:0 "New infantry and cavalry divisions will form along with a small air group."
+RUS_azbrusunits_tt:0 "New Russian divisions will form."
+RUS_trmnavunits_tt:0 "A new fleet will be formed in Vladivostok."
+RUS_ukrnavunits_tt:0 "A new fleet will be formed in Sevastopol."
+
 ### Focuses ###
 RUS_real_politik:0 "외교 정책: 현실정치"
 RUS_real_politik_desc:0 "현실정치는 명백한 이념적 개념이나 도덕, 윤리적 전제가 아니라, 현재 주어진 상황과 요소의 고려에 바탕을 둔 정치나 외교입니다. 현실정치라는 용어는 때때로 강압적이고 비도덕적이며 권모술수적인 정치를 암시하기 위해 주로 사용되기도 합니다. 그리고 우리는 이런 생각을 즐깁니다."
@@ -10,6 +19,7 @@ expansionism_tooltip_russia:0 "§G팽창주의를 선택한다면 외교적 이�
 russia_pick_middle_east_direction_tooltip:0 "You have to finish the Caucasus and Central Asian directions before taking this one, the conditions to finish these directions being: §YCaucasus§!: Own or have as a puppet §GYekaterinodar§!, §GVladikavkaz§!, §GGeorgia§! and §GAzerbaijan§!; §YCentral Asia§!: Own or have as a puppet §GUralsk§!, §GVernyi§!, §GUrgench§! and §GTashkent§!"
 russia_pick_far_east_direction_tooltip:0 "You either have to finish the Caucasus and Central Asian directions or have to finish the Central Asian direction and be blocked by Germany in the caucasus before taking this one, the conditions to finish these directions being: §YCaucasus§!: Own or have as a puppet §GYekaterinodar§! and §GVladikavkaz§!; §YCentral Asia§!: Own or have as a puppet §GUralsk§!, §GVernyi§!, §GUrgench§! and §GTashkent§!"
 russia_pick_eastern_europe_direction_tooltip:0 "You have to finish the Caucasus and Central Asian directions before taking this one, the conditions to finish these directions being: §YCaucasus§!: Own or have as a puppet §GYekaterinodar§!, §GVladikavkaz§! and §GAzerbaijan§!; §YCentral Asia§!: Own or have as a puppet §GUralsk§! and §GVernyi§!"
+russpawnoob_tooltip:0 "새로운 사단들이 신속하게 육성됩니다"
 
 RUS_caucasus_focus:0 "캅카스 방향"
 RUS_caucasus_focus_desc:0 "캅카스는 부유하고 역사적으로 러시아의 일부였습니다. 그곳에 사는 사람들은 더 이상 그렇게 생각하지 않을 수도 있지만, 충분한 군사력만 있다면 그런 건 문제가 되지 않습니다. 다만 독일이 우리를 예의주시할 것이고, 우리는 그 지역에서 조심스럽게 발을 디뎌야 합니다."
@@ -110,7 +120,7 @@ RUS_form_new_alliance_desc:0 "러시아는 절대로 다른 어떤 나라의 애
 
 ### Events ###
 inter_steppe_alliance:0 "대초원 동맹"
-proletarian_alliance:0 "프롤레타리아 동맹"
+#proletarian_alliance:0 "프롤레타리아 동맹" already defined in soviet loc file
 finno_russian_coalition:0 "핀란드-러시아 연합"
 volga_danubian_alliance:0 "볼가-다뉴브 동맹"
 slavic_brothers:0 "슬라브 형제단"
