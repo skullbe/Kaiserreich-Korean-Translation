@@ -293,92 +293,92 @@ bulgaria.22.d:0 "러시아는 우리와의 무역 협정을 거부하는 것이 
 bulgaria.22.a:0 "망할 놈들."
 
 bulgaria.23.t:0 "충성스런 임원 선임"
-bulgaria.23.d:0 "With our recent rise to power and the installation of Boris III as the new Tsar of [Root.GetName], it is clear that we must take steps to solidify our rule in key areas. This includes the [BUL.GetAdjective] Land Forces, whose support we will need in the upcoming days to bring about stability in Bulgaria and punish those who had wronged our great nation. By appointing loyal officers to high command, we can ensure that the armed forces are more ready and eager to receive orders from us and willing to assist with the protection of the state from those who would seek to destabilise it both internally and externally."
+bulgaria.23.d:0 "최근에 힘을 얻은 보리스 3세를 [Root.GetName]의 새로운 차르로 취임시킨 결과 핵심 영역에서 우리 규칙을 강화하기 위한 조치를 취해야한다는 것은 분명합니다. 여기에는 [BUL.GetAdjective] 육군이 포함되며, 불가리아에 안정을 가져오고 우리의 위대한 국가에서 잘못한 자들을 처벌하기 위해 다가오는 날에 우리가 필요로하는 지원이 이루어 집니다. 충성스러운 장교들을 최고 사령관으로 임명함으로써 우리는 군대가 우리로부터 명령을 받고 더 열심히 준비할 수 있도록 하며 내부적으로나 외부적으로 그것을 불안정하게 하려는 사람들로부터 국가의 보호를 도울 용의가 있습니다."
 bulgaria.23.a:0 "더 큰 이익을 위해서."
 
 bulgaria.24.t:0 "불가리아 농민 연합 억압"
-bulgaria.24.d:0 "We must turn our gaze towards suppressing the Bulgarian Agrarian National Union as it is very clear that they are a direct threat to not only the stability of the [BUL.GetAdjective] nation, but to its very existance. During our darkest hour, they were willing to collaborate with the Serbian menace and turn Bulgaria into a mere lapdog of one of our greatest enemies. We cannot, and must not, allow this to go unpunished. The Bulgarian Agrarian National Union shall officially be shut down and any of its supporters shall be heavily suppressed. All officials belonging to the party will be placed under arrest. While these measures are unpopular with the peasantry, they are necessary to ensure Bulgaria's survival in these turbulent times."
+bulgaria.24.d:0 "우리는 [BUL.GetAdjective]의 안정성뿐만 아니라 그 존재에 직접적인 위협이 된다는 것을 분명히 알기 때문에 불가리아 농민 연합을 억압하는 쪽으로 시선을 돌려야합니다. 우리의 가장 어두운 시간 동안, 그들은 세르비아의 위협과 협력할 용의가 있었고 불가리아를 우리의 가장 큰 적들 중 한 마리의 암탉으로 만들 수 있었습니다. 우리는 이것을 처벌받지 않게 내버려 둘 수 없고, 내버려 두어서는 안됩니다. 불가리아 농민 연합은 공식적으로 폐쇄되어야 하며, 그 지지자는 엄중히 탄압되어야 합니다. 당 소속 간부들을 모두 구속하는 조치들은 농민들에게 인기가 없지만, 이러한 혼란스러운 시기에 불가리아의 생존을 보장하기 위해서는 필요합니다."
 bulgaria.24.a:0 "그들에게 자비를 베풀지 마라!"
 
 bulgaria.25.t:0 "차르 권한 강화"
-bulgaria.25.d:0 "In a move that is, somewhat surprisingly, popular with the [Root.GetAdjective] people, we've decided to take steps to allow for the Tsar to have a more direct role in [BUL.GetAdjective] politics and [BUL.GetAdjective] society. Since Tsar Boris III is already popular with a majority of the people, we've not faced much opposition. However, it has come to our attention that a few politicians, paticularly those who are left leaning, are worried about the implications that the greater assertion of royal prerogatives holds, with many reminding the new government that the power is held by the National Assembly. No matter, for they are only a minor obstacle in our road to consolidating the power of the Tsar..."
+bulgaria.25.d:0 "다소 놀랍게도 [Root.GetAdjective] 사람들에게 인기가 있는 움직임에서 우리는 차르가 [BUL.GetAdjective] 정치 및 [BUL.GetAdjective] 정치에서 더 직접적인 역할을 할 수 있도록 조치를 취하기로 결정했습니다. 차르 보리스 3세는 이미 대다수의 사람들에게 인기가 있기 때문에 많은 반대는 없었습니다. 그러나 일부 정치인들, 편협하게 기울어진 사람들은 왕실의 특권의 더 큰 주장이 내포하고 있는 함축적 의미에 대해 우려하고 있으며, 많은 정치인들은 새 정부가 권력을 쥐고 있다는 것을 상기시키고 있습니다. 어쨌든, 그것들은 차르의 힘을 공고히 하는 우리 길의 작은 장애물일 뿐입니다..."
 bulgaria.25.a:0 "우리는 성공할 것이다!"
 
 bulgaria.26.t:0 "엄격한 선거법"
-bulgaria.26.d:0 "We have begun to move into action with the passage of a new law that severely restricts the type of parties that are allowed to operate within the National Assembly. Particularly, we have decided to target left leaning parties, which includes the Narrow and Broad Socialists, the Liberals, and the Radical Democrats, in order to strengthen, solidify, and give rise to the [BUL.GetAdjective] right. Unfortunately, as expected, we've faced much resistance from the affected parties. However, we cannot allow dissenters within our nation lest we suffer yet another humiliating defeat. For the sake of the people, we must stand firm."
+bulgaria.26.d:0 "우리는 국회에서 운영되도록 허용된 정당의 유형을 제한하는 새로운 법의 통과를 행동에 옮기기 시작했습니다. 특히, 우리는 [BUL.GetAdjective]의 권리를 강화하고 굳건히하고 상승시키기 위해 좁은, 넓은 사회주의자, 자유당 그리고 급진민주당을 포함하는 좌파 성향의 정당을 목표로 삼기로 했습니다. 불행히도 예상대로 우리는 영향을 받은 당사자들로부터 많은 저항에 직면했습니다. 그러나 우리는 또 다른 굴욕적인 패배를 겪지 않도록 우리 민족 내부의 반대자들을 허용할 수 없습니다. 사람들을 위해서 우리는 확고한 입장을 취해야 합니다."
 bulgaria.26.a:0 "우리는 주저할 수 없다."
 
 bulgaria.27.t:0 "광범위한 시위가 일어나다!"
-bulgaria.27.d:0 "Following the tightening of the electoral laws, we've been faced with nationwide protests, from both the people and the politicians, who feel as though we've made Bulgaria a more constricting and less representative society. Political violence has also become somewhat widespread, with socialists, mostly located in major cities, advocating against our policies. This has not been helped by the fact that they have managed to garner the support of a sizeable minority, who wish to see the end of our rule. The Radical Democrats and Broad Socialists as well have taken this as an opportunity to push for a constitutional monarchy in an attempt to limit the Tsar's powers and, according to them, 'help empower the National Assembly once more'. We cannot allow these dissenters to run around and destabilise our great nation, what shall we do?"
+bulgaria.27.d:0 "선거법의 강화에 따라, 우리는 국민과 정치인들 모두로부터 전국적인 시위에 직면했습니다. 그들은 우리가 불가리아를 더 억압적이고 덜 대표적인 사회로 만든 것처럼 느꼈습니다. 정치적 폭력 또한 어느 정도 확산되어 왔습니다. 주로 주요 도시에 위치한 사회주의자들이 우리의 정책에 반대합니다. 이것은 그들이 가까스로 우리 통치의 종말을 보고 싶어하는 상당한 수의 지지를 얻었기 때문에 도움이 되지 않았습니다. 급진민주당과 넓은 사회주의자들도 이것을 차르의 권력을 제한하기 위한 시도로써 입헌군주제를 추진할 기회로 삼았고, 그들에 따르면, '국회의 권한을 다시 한 번 강화하도록 도와달라' 고 하고 있습니다. 우리는 이 반대자들이 우리나라를 불안정하게 만들도록 놔둘 수 없습니다. 우리는 무엇을 해야 할까요?"
 bulgaria.27.a:0 "우리는 그들을 기다릴 것이다."
 bulgaria.27.b:0 "군대에 보내라, 당장!"
 
 bulgaria.28.t:0 "각료 이사회"
-bulgaria.28.d:0 "By transferring power into the hands of the Council of Ministers, we can slowly, but surely, fully take away power from the National Assembly. In addition, we shall appoint loyal ministers to positions within the executive branch and have them work closely with the Tsar, having them receive directives from him. This way, we can convince the people that the government is still in power (with the added bonus of having yes men in positions of power) and allow for the Tsar and his close advisers in the military to pull the strings behind the scenes."
+bulgaria.28.d:0 "각료 이사회의 손에 권력을 넘겨줌으로써 우리는 천천히, 확실히 국회로부터 권력을 완전히 빼앗을 수 있습니다. 또한, 우리는 충성스런 장관들을 행정부 내 직책에 임명하여, 차르로부터 지시를 받도록 할 것입니다. 이런 식으로 우리는 정부가 여전히 권력을 잡고 있다는 것을 국민들에게 납득시키고 차르와 그의 측근들이 막후에서 조종할 수 있도록 허락할 수 있습니다."
 bulgaria.28.a:0 "훌륭하군."
 
 bulgaria.29.t:0 "[BUL.GetName]와(과)의 화해?"
-bulgaria.29.d:0 "It seems as though the new [BUL.GetAdjective] government, with Bogdan Filov and Boris III at its head, wish to seek reconciliation with us. This comes as somewhat of a surprise as during the reign of Malinov and the Liberals, Bulgaria had been eager to disregard our alliance and ties forged during the Weltkrieg, even going so far as to recently erect trade barriers against us in our time in need. However, it is also clear that an ally in the Balkans, especially one as military powerful as Bulgaria, would be useful. What should we do?"
+bulgaria.29.d:0 "새로운 [BUL.GetAdjective] 정부는 보그단 필로프와 보리스 3세를 중심으로 우리와 화해하기를 바라고 있습니다. 이것은 다소 놀라운 일이며, 불가리아가 멜리노프와 자유주의자의 통치 기간 동안 세계대전 기간 동안 만들어진 우리의 동맹과 유대를 무시하고 심지어 최근에 우리에게 무역 장벽을 세우는 데까지 급급했습니다. 하지만, 발칸 반도의 동맹국, 특히 불가리아처럼 군사력이 강한 동맹국도 유용할 것이라는 사실은 분명합니다. 우리는 어떻게 해야 할까요?"
 bulgaria.29.a:0 "화해는 우리에게 이익이 될 것이다."
 bulgaria.29.b:0 "화해는 우리에게 손해가 될 것이다."
 
 bulgaria.30.t:0 "[From.GetNameDefCap]이(가) 제안을 수락하다!"
-bulgaria.30.d:0 "To the shock of many, including the Tsar himself, it seems as though Germany has decided to accept our efforts of reconciliation, citing that 'an alliance between both the German Empire and the Tsardom of Bulgaria will be mutually beneficial to both nations'. This comes as wonderful news, as it means we can now pursue our agenda of increasing and deepening Bulgarian-German ties."
+bulgaria.30.d:0 "차르를 포함한 많은 사람들의 충격에 독일은 "독일 제국과 불가리아의 양국 간의 동맹은 상호 이익이 될 것" 이라고 언급하면서 화해 노력을 수락하기로 결정한 것처럼 보입니다. 이것은 놀라운 소식으로, 이제는 불가리아와 독일간 관계를 더욱 깊게 만드는 우리의 의제를 추구할 수 있음을 의미합니다."
 bulgaria.30.a:0 "훌륭해!"
 
 bulgaria.31.t:0 "[From.GetNameDefCap]이(가) 제안을 거절하다!"
-bulgaria.31.d:0 "It comes to shock as none, bar Filov himself, who was utterly confident that the Germans would receive our reconciliation efforts kindly, that the Germans have snubbed us, effectively telling us that our prior lack of commitment towards the Central Powers following the conclusion of the Weltkrieg has shown us to be unreliable and opportunistic allies."
+bulgaria.31.d:0 "독일인들이 우리의 화해 노력을 친절하게 받아들일 것이라고 전적으로 확신한 필로프 자신이 독일인들이 우리를 비웃었고, 우리가 이전에 동맹국에 대한 의지가 부족했다는 것을 사실상 우리에게 말함으로써 충격으로 다가왔습니다."
 bulgaria.31.a:0 "망할 놈들!"
 
 bulgaria.32.t:0 "[BUL.GetName]와(과)의 거래?"
-bulgaria.32.d:0 "Following our reconciliation with [BUL.GetName], they have begun to push for a joint trade deal between our two nations, citing that the effects of Black Monday can still be felt throughout Europe and that, if we were to accept their offer, we could be closer to truly eradicating the lasting effects of the economic plague while also mutually benefitting and deepening ties. On one hand, this is a good prospect due to Bulgaria's bountiful resources and their willingness to reconcile with us. On the other hand, however, the Balkans is hardly a stable region and we could potentially lose our investments in the region if things were to go south. How should we responsd?"
+bulgaria.32.d:0 "[BUL.GetName]와(과)의 화해에 따라, 그들은 검은 월요일의 영향을 유럽 전역에서 여전히 느껴질 수 있다는 것을 인용하며, 양국 간 공동 무역 협정을 추진하고 있습니다. 만약 우리가 그들의 제안을 받아들이게 된다면, 경제적 유행의 지속적인 효과를 근본적으로 없애고 상호 간의 유대를 강화하는데 더 가까워 질 수 있습니다. 한편으로는, 이것은 불가리아의 풍부한 자원과 우리와 화해하려는 의지로 인해 좋은 전망입니다. 그러나 반면에 발칸 반도는 안정적인 지역이 아니기 때문에 만약 남쪽으로 가게 된다면 우리는 그 지역에 대한 투자를 잃을 수도 있습니다. 우리는 어떻게 응답해야 할까요?"
 bulgaria.32.a:0 "일어날 수 있는 최악의 상황은 무엇일까?"
 bulgaria.32.b:0 "지금은 필요없다."
 
 bulgaria.33.t:0 "[From.GetNameDefCap]이(가) 수락하다!"
-bulgaria.33.d:0 "A collective sigh of relief has just been released throughout the government; it seems as though our gamble has paid off. Germany has decided to accept our offer of a trade deal which will go very far in terms of helping us deepen ties with the Kaiserreich and give us preferred access to their trade."
+bulgaria.33.d:0 "정부 전체에 집단 안도의 한숨이 터져 나왔습니다. 우리의 도박이 성과를 거둔 것 같습니다. 독일은 우리가 독일과의 관계를 깊게 하며 그들의 교역에 우선 접근을 제공하는 측면에서 매우 크게 기여할 거래 제안을 받아들이기로 결정했습니다."
 bulgaria.33.a:0 "훌륭해!"
 
 bulgaria.34.t:0 "[From.GetNameDefCap]이(가) 거절하다!"
-bulgaria.34.d:0 "Word has just reached us from the [BUL.GetAdjective] embassy in Berlin: apparently, the Germans have decided to reject our offer of a Bulgarian-German trade deal, citing that they are not in such a position to commit to such a deal due to their current situation. Unfortunately, this means that we can no longer hope to gain preferred access to their trade."
+bulgaria.34.d:0 "베를린의 [BUL.GetAdjective] 대사관에서 방금 소식이 도착했습니다. 독일인들은 불가리아-독일 무역 협정 제안을 거부하기로 결정했습니다. 그들의 현재 상황 때문에 그러한 계약을 이행할 수 있는 위치에 있지 않다고 말하면서 불가리아와 독일 간의 무역 협정을 거절하기로 결정한 것 같습니다. 안타깝게도, 이것은 우리가 더 이상 그들의 무역에 우선권을 얻기를 바랄 수 없다는 것을 의미합니다."
 bulgaria.34.a:0 "젠장..."
 
 bulgaria.35.t:0 "광범위한 폭동!"
-bulgaria.35.d:0 "The people, protesting against our decision of outright banning all political parties and, effectively, shutting down the National Assembly, have, together with the ostracised politicians, begun to stage protests against the Tsar and the new government. Luckily, as we've the army on our side, it is only a matter of pacifying the people and forcing them to accept the new political realities. We shall stand firm, and we shall rule with an iron fist, regardless of what dissenters and traitors may believe."
+bulgaria.35.d:0 "모든 정당을 전면 금지하고 사실상 국회를 폐쇄하겠다는 우리의 결정에 항의하는 국민들은 탈당한 정치인들과 함께 차르와 새 정부에 항의하기 시작했습니다. 다행히도, 우리 편이 되어주듯이, 이것은 국민들을 진정시키고 새로운 정치적 현실을 받아들이도록 강요하는 문제일 뿐입니다. 우리는 확고히 서 있을 것이고, 반대자와 반역자가 무엇을 믿든 상관없이 철권통치를 할 것입니다."
 bulgaria.35.a:0 "우리는 견뎌낼 것이다."
 
 bulgaria.36.t:0 "생디칼리즘 아래의 [Root.GetName]"
-bulgaria.36.d:0 "While we have managed to take power, it is key that we also retain that power. As it stands, we have more enemies than we do allies within Bulgaria, with the Liberals, Absolutists, and Agrarians doubting our will to lead the [BUL.GetAdjective] state into a prosperous era. In addition, they've already begun to make moves against us, decrying the syndicalist system in an attempt to politically undermine our position. While we do not pay heed to their words, as we know that we shall be successful in bringing syndicalism to Bulgaria, there is a cause for worry as a sizeable portion of the population have been swayed by these words. One thing is for certain, however, we must begin to undertake the monumental task of restructuring the state to fit our new vision and have faced heavy resistance and a widespread opposition..."
+bulgaria.36.d:0 "우리가 권력을 잡기는 했지만, 그 권력을 유지하는 것도 핵심입니다. 지금 상태로는, 우리는 불가리아 내 동맹국들보다 더 많은 적들을 가지고 있습니다. 자유주의자들, 절대론자들, 그리고 농업인들은 [BUL.GetAdjective]을(를) 번영의 시대로 이끌려는 우리의 의지를 의심합니다. 게다가, 그들은 이미 우리의 입장을 정치적으로 약화시키려는 시도로 생디칼리즘을 비난하면서, 우리를 향해 움직이기 시작했습니다. 우리는 그들의 말에 주의를 기울이지 않지만, 우리가 불가리아에 생디칼리즘을 성공적으로 가져올 것이라는 것을 알고 있기 때문에, 인구의 상당 부분이 이 단어에 의해 좌우되었기 때문에 우려할 만한 이유가 있습니다. 그러나 한가지 확실한 것은, 우리의 새로운 비전에 맞추기 위해 국가를 재건하는 기념적인 일을 착수하기 시작해야 하고, 심한 저항과 광범위한 반대에 직면해야 한다는 것입니다."
 bulgaria.36.a:0 "이건 쉽지 않을 것 같아 보이는군."
 
 bulgaria.37.t:0 "자유 무역 협정 지지"
-bulgaria.37.d:0 "Allowing unions to take over and begin assisting with the management of the state is a key tenet of the very ideology of syndicalism. By courting the workers of the Free Trade Unions and empowering workers under labour unions, we can give them a fairer advantage against the once capitalist economy. In addition, by pushing the idea of co-operatives, we can help convince other workers to voluntarily join trade unions in order to help further the economic and political goals of Bulgaria as a whole. We shall overcome economic aristocracy and allow union democracy to reign unopposed!"
+bulgaria.37.d:0 "연합이 국가 경영을 인수하고 돕는 것을 허용하는 것은 바로 생디칼리즘 이데올로기의 핵심 신조입니다. 자유 무역 협정의 노동자들에게 구애하고 노동 조합 하의 노동자들에게 힘을 실어줌으로써 우리는 그들에게 한때 자본주의 경제에 대해 더 공정한 이점을 줄 수 있습니다. 게다가 노동 조합의 아이디어를 추진함으로써 우리는 불가리아의 경제적, 정치적 목표를 확대하기 위해 다른 노동자들이 자발적으로 노동조합에 가입하도록 설득하는 것을 도울 수 있습니다. 우리는 경제적 귀족들을 극복하고 노조의 민주주의를 반대되지 않도록 다스릴 것입니다!"
 bulgaria.37.a:0 "노동자들을 위해!"
 
 bulgaria.38.t:0 "[BUL.GetAdjective]와(과)의 유대 관계?"
-bulgaria.38.d:0 "Interestingly, following their syndicalist takeover, [BUL.GetName] has decided to approach us in an attempt to foster relations between our two nations and, as a result, help open up a dialogue and deepen ties. It is clear that they remain politically isolated in the Balkans, due to their support of syndicalism, and that they will need allies in the future. It seems as though we have two options in this regard: we can either support the [BUL.GetAdjective]s and help foster syndicalism in the Balkans, or we can leave them on their own. While the second option is far from ideal, we also have commitments and political considerations that must be tended to. What say we?"
+bulgaria.38.d:0 "흥미롭게도, [BUL.GetName]은(는) 생디칼리스트의 권력 장악을 계기로 양국 간의 관계를 촉진시키기 위해 우리에게 다가오기로 결정했으며, 그 결과, 대화를 시작하고 관계를 심화시키는데 도움이 되고 있습니다. 생디칼리즘에 대한 지지 때문에 발칸 반도에서 정치적으로 고립되어 있으며 미래에는 동맹국이 필요하다는 것이 분명합니다. 이와 관련하여 두 가지 선택이 있는 것 같습니다. 우리는 [BUL.GetAdjective]을(를) 지원하고 발칸 반도에서 생디칼리즘을 육성하는데 도움을 줄 수 있습니다. 아니면 우리 스스로 해산시킬 수 있습니다. 두 번째 선택은 이상적인 것과는 거리가 멀지만 약속해야 할 정치적 고려사항이 있습니다. 어떻게 해야 할까요?"
 bulgaria.38.a:0 "우리는 동포들을 도와야 한다."
 bulgaria.38.b:0 "우리는 어떤 원조도 할애할 수 없다."
 
 bulgaria.39.t:0 "[From.GetNameDefCap]이(가) 수락하다!"
-bulgaria.39.d:0 "A collective sigh of relief has just been released from the government officials in [Root.GetName] following the news from the [From.GetAdjective] delegation. Apparently, they've decided to take us up on our offer and have begun cultivating ties between our two countries. It seems as though our French brothers have not forgotten us, and that syndicalism may truly reign in the Balkans..."
+bulgaria.39.d:0 "[From.GetAdjective] 대표단의 소식에 따라 [Root.GetName]의 정부 공무원으로부터 안도의 한숨이 들려왔습니다. 분명히, 그들은 우리의 제안을 받아들이기로 결정했고 양국 간의 관계를 발전시키기 시작했습니다. 우리 소비에트의 형제들이 우리를 잊지 않고 있는 것 같고, 생디칼리즘이 정말로 발칸 반도를 지배할지도 모릅니다."
 bulgaria.39.a:0 "우리 프랑스 동지들에게 건배!"
 
 bulgaria.40.t:0 "[From.GetNameDefCap]이(가) 거절하다!"
-bulgaria.40.d:0 "Bad news has arrived from the French delegation! Apparently, they have decided to not take us up on our offer of fostering friendship and deepening ties between our two nations, citing political commitments at home and the tense atmosphere in Europe as a reason to not cultivate more alliances. This is bad news, as we now have nobody to back us and ensure that syndicalism in the Balkans is protected!"
+bulgaria.40.d:0 "프랑스 대표단으로부터 나쁜 소식이 왔습니다! 분명히, 그들은 국내의 정치적 약속과 유럽에서의 긴장된 분위기를 언급하면서 우리의 우호 증진과 양국 간의 관계 심화를 받아들이지 않기로 결정했습니다. 이것은 나쁜 소식입니다. 이제 우리는 우리를 지지해줄 사람이 아무도 없고 발칸 반도의 생디칼리즘이 보호되고 있다는 것을 보증할 수 없습니다!"
 bulgaria.40.a:0 "망할 놈들!"
 
 bulgaria.41.t:0 "[BUL.GetAdjective]와(과)의 유대 관계?"
-bulgaria.41.d:0 "Interestingly, following their syndicalist takeover, [BUL.GetName] has decided to approach us in an attempt to foster relations between our two nations and, as a result, help open up a dialogue and deepen ties. It is clear that they remain politically isolated in the Balkans, due to their support of syndicalism, and that they will need allies in the future. It seems as though we have two options in this regard: we can either support the [BUL.GetAdjective]s and help foster syndicalism in the Balkans, or we can leave them on their own. While the second option is far from ideal, we also have commitments and political considerations that must be tended to. What say we?"
+bulgaria.41.d:0 "흥미롭게도, [BUL.GetName]은(는) 생디칼리스트의 권력 장악을 계기로 양국 간의 관계를 촉진시키기 위해 우리에게 다가오기로 결정했으며, 그 결과, 대화를 시작하고 관계를 심화시키는데 도움이 되고 있습니다. 생디칼리즘에 대한 지지 때문에 발칸 반도에서 정치적으로 고립되어 있으며 미래에는 동맹국이 필요하다는 것이 분명합니다. 이와 관련하여 두 가지 선택이 있는 것 같습니다. 우리는 [BUL.GetAdjective]을(를) 지원하고 발칸 반도에서 생디칼리즘을 육성하는데 도움을 줄 수 있습니다. 아니면 우리 스스로 해산시킬 수 있습니다. 두 번째 선택은 이상적인 것과는 거리가 멀지만 약속해야 할 정치적 고려사항이 있습니다. 어떻게 해야 할까요?"
 bulgaria.41.a:0 "우리는 동포들을 도와야 한다."
 bulgaria.41.b:0 "우리는 어떤 원조도 할애할 수 없다."
 
-bulgaria.42.t:0 "[From.GetNameDefCap]이(가) 승락하다!"
+bulgaria.42.t:0 "[From.GetNameDefCap]이(가) 수락하다!"
 bulgaria.42.d:0 "[From.GetAdjective] 대표단의 소식에 따라 [Root.GetName]의 정부 공무원으로부터 안도의 한숨이 들려왔습니다. 분명히, 그들은 우리의 제안을 받아들이기로 결정했고 양국 간의 관계를 발전시키기 시작했습니다. 우리 소비에트의 형제들이 우리를 잊지 않고 있는 것 같고, 생디칼리즘이 정말로 발칸 반도를 지배할지도 모릅니다."
 bulgaria.42.a:0 "우리 소비에트 동지들에게 건배!"
 
 bulgaria.43.t:0 "[From.GetNameDefCap]이(가) 거절하다!"
-bulgaria.43.d:0 "소비에트 대표단으로부터 나쁜 소식이 왔습니다! 분명히, 그들은 국내의 정치적 약속과 유럽에서의 긴장된 분위기를 언급하면서 우리의 우호 증진과 양국간의 관계 심화를 받아들이지 않기로 결정했습니다. 이것은 나쁜 소식입니다. 이제 우리는 우리를 지지해줄 사람이 아무도 없고 발칸 반도의 생디칼리즘이 보호되고 있다는 것을 보증할 수 없습니다!"
+bulgaria.43.d:0 "소비에트 대표단으로부터 나쁜 소식이 왔습니다! 분명히, 그들은 국내의 정치적 약속과 유럽에서의 긴장된 분위기를 언급하면서 우리의 우호 증진과 양국 간의 관계 심화를 받아들이지 않기로 결정했습니다. 이것은 나쁜 소식입니다. 이제 우리는 우리를 지지해줄 사람이 아무도 없고 발칸 반도의 생디칼리즘이 보호되고 있다는 것을 보증할 수 없습니다!"
 bulgaria.43.a:0 "망할 놈들!"
 
 bulgaria.44.t:0 "왕실의 문제"
