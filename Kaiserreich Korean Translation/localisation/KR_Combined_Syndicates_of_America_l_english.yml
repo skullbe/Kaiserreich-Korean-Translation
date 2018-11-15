@@ -364,78 +364,78 @@ CSA_create_the_cia_desc:0 "In order to defeat the class enemies of the revolutio
 CSA_purge_reactionaries:0 "Purge Reactionaries"
 CSA_purge_reactionaries_desc:0 "In no country was culture so debased by capitalism as in the United States. Essentially a gigantic effort to perpetuate the robbery of the workers. Sterile, hypocritical, lifeless. The Proletarian revolution in the United States has at once made a slash into the maze of hypocrisy and intellectual rubbish, paving the road for a glorious new America."
 ### Army Focuses ###
-CSA_peoples_national_guard:0 "붉은 국방군"
-CSA_peoples_national_guard_desc:0 "The Illinois, Pennsylvania, and Ohio National Guards all stayed loyal to the will of the American people. We need to encourage these guardians of freedom have the tools they need to win this war."
-CSA_artillery_support:0 "Artillery Support"
-CSA_artillery_support_desc:0 "The reason the revolutions in Britain and France succeeded was artillery. Modern howitzer designs will greatly shape the outcome of this new revolution, and we should ensure our artillery is up to modern standards."
-CSA_anti_air_rockets:0 "Anti-Air Weapons"
-CSA_anti_air_rockets_desc:0 "Developments in artillery has advanced far enough to where we can put anti air weaponry on artillery pieces. This will help counter Air Superiority where our interceptors cannot reach."
-CSA_anti_tank_artillery:0 "Anti-Tank Artillery"
-CSA_anti_tank_artillery_desc:0 "Troops fighting in rough terrain are thankful the boys in the lab got down anti-tank weapons. This will better enable us to counter the resources rich but morally bankrupt enemies."
-CSA_red_rockets:0 "Rockets’ Red Glare"
-CSA_red_rockets_desc:0 "Former JPL employees have offered their services to develop handheld rocket propelled grenade weaponry. This will allow us to better counter heavy weaponry wielded by reactionaries."
-CSA_decentralized_command:0 "Decentralized Command"
-CSA_decentralized_command_desc:0 "We trust the leadership of our fervent commanders to liberate America. We oppose the capitalistic military industrial unification that typifies our enemies."
-CSA_small_unit_tactics:0 "Small Unit Tactics"
-CSA_small_unit_tactics_desc:0 "Small unit tactics as used by the Communards during the French Revolution inspires our own. We will out maneuver the Federalist and Reactionary forces and destroy their supply lines."
-CSA_industrial_warfare:0 "Industrial Warfare"
-CSA_industrial_warfare_desc:0 "The war effort reaches into the factories and the very core of industrial unions. The IWW has impressed the very real industrial war we face as a national against the forces of capitalistic industry."
-CSA_shock_and_awe:0 "Shock and Awe"
-CSA_shock_and_awe_desc:0 "Trench warfare on the American continent can be brutal. We know from experience that fighting in Appalachia is biased towards the defender. Despite our better nature, we must employ the heaviest artillery shells in order to force our enemies to retreat."
-CSA_revolutionary_officers:0 "Expand the National Guard"
-CSA_revolutionary_officers_desc:0 "From these humble National Guards comes multitudes of volunteers, all instructed on the proper wartime behavior along with military training. "
-CSA_elite_units:0 "Revolutionary Brigade"
-CSA_elite_units_desc:0 "At the same time as a National Guard to fill out our professional military. There needs to be a more politically minded action group to serve the Syndicates that can execute complex infiltration and urban warfare missions."
+CSA_peoples_national_guard:0 "붉은 국민위병"
+CSA_peoples_national_guard_desc:0 "일리노이, 펜실베이니아 그리고 오하이오 주 방위군은 미국 인민의 의지에 충성하고 있습니다. 우리는 이러한 자유의 수호자들이 전쟁에서 승리하는데 필요한 무기를 가지게 하도록 독려해야 합니다.“  
+CSA_artillery_support:0 “포병 지원"
+CSA_artillery_support_desc:0 "영국과 프랑스에서 혁명이 성공한 이유는 포병 때문입니다. 현대 곡사포의 설계는 새로운 혁명의 결과를 만들어 낼 것이고, 따라서 우리는 우리 대포를 현대 기준에 걸맞게 강화 시켜야 합니다.“
+CSA_anti_air_rockets:0 "대공 화기"
+CSA_anti_air_rockets_desc:0 "대포의 발전으로 인해 우리의 포병대에 대공 무기 배치 할 수 있게 되었습니다. 이것은 아마 우리 요격기가 도달하지 못하는 곳에서 적의 항공우위에 대항하는 중요한 무기가 될 겁니다.“
+CSA_anti_tank_artillery:0 "대전차포"
+CSA_anti_tank_artillery_desc:0 "거친 지형에서 싸우는 군인들이 대전차 무기가 배치된 것에 대해 감사를 표하고 있습니다. 이러한 무기들은 풍요로웠던 적을 궁극적으로 파산으로 이끌 것입니다."
+CSA_red_rockets:0 "로켓의 붉은 화염"
+CSA_red_rockets_desc:0 "이전의 JPL 직원들이 로켓 추진식 휴대용 수류탄 발사기를 만들고 있습니다. 이것은 반동분자들이 쓰는 중화기에 대해서 효과적으로 대응 할 것입니다.“ 
+CSA_decentralized_command:0 "탈중앙화 명령 체계"
+CSA_decentralized_command_desc:0 "우리는 미국을 해방시키기 위한 열정적인 사령관의 지도력을 믿습니다. 그러나 우리는 적과 비슷한 자본주의적 군사 명령 체계는 반대합니다.“
+CSA_small_unit_tactics:0 "소대 전술"
+CSA_small_unit_tactics_desc:0 "프랑스 혁명 시기의 동지들이 사용한 소부대 전술은 우리에게 영감을 주고 있습니다. 우리는 반동분자들과 연방주의자들의 허를 찌르면서 그들의 보급선을 파괴 할 것입니다."
+CSA_industrial_warfare:0 "산업전"
+CSA_industrial_warfare_desc:0 "전쟁의 여파는 우리의 공장과 핵심적인 산업 노조에게까지 영향을 주게 되었습니다. 우리는 국가적으로 자본주의적 산업의 힘을 보았으며 IWW는 진정한 산업전의 필요성을 이해했습니다.“
+CSA_shock_and_awe:0 "충격과 공포"
+CSA_shock_and_awe_desc:0 "아메리카 대륙에서의 참호전은 잔혹할겁니다 그리고 우리는 애팔래치아에서의 전투에서처럼 이런 전쟁은 방어자에게 유리하다는 사실을 경험했죠. 따라서 비록 우리에게 좀 더 나은 상황임에도 불구하고, 우리는 적을 후퇴시키기 위하여 매우 무거운 포탄이 필요합니다.“
+CSA_revolutionary_officers:0 “국민위병 확장"
+CSA_revolutionary_officers_desc:0 "겸손한 국민위병으로부터 수많은 지원자들이 왔고, 이들은 전쟁 할 때 해야 할 행동을 군사 훈련을 하며 알려주었다.“
+CSA_elite_units:0 "혁명 여단"
+CSA_elite_units_desc:0 "국민위병에 우리의 전문적인 군인들이 필요합니다. 이들은 좀 더 정치적으로 생디칼리즘적 사고를 하는 부대로써 복잡한 침투나 시가전을 수행할 것입니다.
 CSA_the_next_war:0 "다음 전쟁"
-CSA_the_next_war_desc:0 "Our armies have been tested, and came out on top against one of the most well-trained militaries in the world. The next war we face is not certain, as the forces of reaction move fast. We can rely on our loyal Americans to exceed the military standards of their debased predecessors."
-CSA_home_guard:0 "Home Guard"
-CSA_home_guard_desc:0 "The National Guard may have moved into a more formal open field military but this leaves a gap in our defenses at the local level. We need to organize a Home Guard to aid in intelligence gathering and the ever-present threat from Longists and Federalists."
-CSA_gurillia_warfare:0 "Guerrilla Warfare"
-CSA_gurillia_warfare_desc:0 "The Revolutionary Brigade is now ready to commit to Guerrilla warfare. A style of resources conservative fighting pioneered by Sandino in Nicaragua "
-CSA_military_build_up:0 "Military Industrial Buildup"
-CSA_military_build_up_desc:0 "The IWW, now in total agreement for the need to re-arm the US military, has begun to push for higher quotas. Labor units have been motivated and incentivised to increase production of military arms for the safety of all Americans."
-CSA_rebel_girl:0 "The Rebel Girl"
-CSA_rebel_girl_desc:0 "The internal debate over women serving in the Red Guard and Home Guard is solved. In states where gender segregation is customary, the women’s detachment of Red Guards and Home Guards will be separate. In states that have embraced gender integration, units will be integrated. The best way to offer our Rebel Girls opportunities to fight."
+CSA_the_next_war_desc:0 "우리 군대는 검증되었고 세계에서 가장 잘 훈련된 군대와 싸워 봤습니다. 반동 세력들이 움직이기 시작했기 때문에 언제 다음 전쟁이 터질지 확신 할 수 없습니다. 하지만 우리는 우리에게 충성스러운 미국인들이 뒤떨어진 전임자들보다 군사적인 기준에서 넘어섰다고 믿고 있습니다.“
+CSA_home_guard:0 "국토 방위군"
+CSA_home_guard_desc:0 "국민위병은 전장으로 이동 할 수 있지만, 이러한 행동은 지방의 방어선과 간극을 만들 것입니다. 따라서 우리는 국토 방위군을 조직하여서 정보를 수집하고 롱시스트들과 연방주의자들의 위협을 막아야 합니다."
+CSA_gurillia_warfare:0 "게릴라전"
+CSA_gurillia_warfare_desc:0 "혁명 여단은 게릴라전을 수행할 준비를 끝냈습니다. 아마 니카과라의 신디노가 자원을 보호하기 위해 싸웠던 방식으로 싸우겠죠.“
+CSA_military_build_up:0 "군수산업 형성“
+CSA_military_build_up_desc:0 "IWW는 미군의 재무장 요구에 동의하면서 더 많은 양의 생산을 시작했습니다. 노동자들은 인센티브와 동기를 부여받으면서 모든 미국인들의 안전을 위한 군용 무기 생산을 늘리고 있습니다.“
+CSA_rebel_girl:0 "반란 여성"
+CSA_rebel_girl_desc:0 “붉은 국민위병이나 국토 방위군에서 복무하는 여성에 대한 내부적 논쟁이 마침내 끝났습니다. 성별 간 분리가 관습인 주들에서는 붉은 국민위병이나 국토 방위군의 여성 부대는 분리 될 것입니다. 반대로 성별 간 통합을 강조하는 주에서는 부대는 통합 될 것입니다. 이것이 우리의 반란 여성들에게 싸울 기회를 제공할 가장 좋은 방법일겁니다.”
 CSA_new_army_doctrine:0 "새로운 육군 교리"
-CSA_new_army_doctrine_desc:0 "The changing face of technology over the last two decades has massively shifted military thought. We need to choose a doctrine for our army to reflect these changes on the battlefield."
+CSA_new_army_doctrine_desc:0 "20년 동안의 기술 변화에 직면함에 따라서 군사적 사고 역시 변화되었습니다. 따라서 우리는 적절한 교리를 선택함으로써 전장의 변화에 대응해야 합니다.“
 CSA_lessons_from_the_war:0 "혁명의 교훈"
-CSA_lessons_from_the_war_desc:0 "Our Army Chief of Staff has submitted a report on the overall direction of our military, and has suggested to Congress some improvements. Cohesion can be increased between services, units can be better trained, and discipline must be emphasized."
-CSA_red_rangers:0 "Revolutionary Rangers"
-CSA_red_rangers_desc:0 "An elite group of specialized soldiers, the Revolutionary Rangers will be able to carry out covert missions in rough terrain, disrupting enemy supply lines and morale."
+CSA_lessons_from_the_war_desc:0 "우리 참모부는 우리 군의 전반적인 발전 방향에 대한 보고서를 제출 했고, 의회에 여러 개선안을 제안했습니다. 각 군 부대 간의 결집력 항상, 더 나은 훈련 방식, 그리고 규율 강조에 대해서 말이죠.“
+CSA_red_rangers:0 "혁명 레인저"
+CSA_red_rangers_desc:0 "특수한 군인으로 구성된 엘리트 집단인, 혁명 레인저들은 험한 지형에서 은밀한 임무를 수행하여 적들의 보급과 사기에 타격을 줄 것입니다“
 CSA_peoples_army:0 "인민해방군"
-CSA_peoples_army_desc:0 "What separates us from capitalists is we do no impose an artificial barrier between the attitude civilians and the military exert. A People's Liberation Army, as approved by Congress, will unite Americans living under slavery with their families in socialism. "
-CSA_centralized_command:0 "Centralized Command"
-CSA_centralized_command_desc:0 "The days of militia warfare and undisciplined military action cost us too many lives unnecessarily. For the sake of the soldiers and civilians, we must unify our military high command with the Central Committee, so we can directly ensure safety of Americans at risk."
+CSA_peoples_army_desc:0 "자본가로부터 우리를 분리하는 것은 우리가 군사 전문가과 민간인간 인위적인 장벽을 두지 않는 것입니다. 의회에 의해 승인된 인민해방군은 노예처럼 사는 미국인들과 그 가족을 사회주의 안에서 통합시킬 것입니다."
+CSA_centralized_command:0 "중앙화 된 명령 체계“
+CSA_centralized_command_desc:0 "민병대를 통한 전쟁과 규율 없는 군사적 행동은 불필요한 희생만 냈을 뿐입니다. 장병들과 민간인들을 위해서라도 우리는 반드시 우리의 군 고위 지휘부를 중앙 위원회와 함께 통합시켜야 합니다. 이를 통해 위험한 상황 속에서도 미국의 안전을 보장 할 수 있을 겁니다.“ 
 CSA_integrate_the_militia:0 "장교 훈련"
-CSA_integrate_the_militia_desc:0 "We have made the bold decision to train Officers in the frigid lands of Northern Michigan. Classrooms may not be as well-equipped as West Point, but our officers will receive an education in hard knocks that will prove the Syndicates worth more than it's refinement."
+CSA_integrate_the_militia_desc:0 "우리는 북부 미시간의 얼어붙은 땅에서 장교들을 육성시키기 위한 결정을 내리기로 했습니다. 비록 시설들은 웨스트포인트에 비해서 뒤떨어질지 몰라도, 우리 장교들은 다른 세련된 것보다 더 중요한 생디칼리즘적 가치를 배우게 될 것입니다.“
 CSA_mobile_warfare:0 "전격전"
-CSA_mobile_warfare_desc:0 "Coming out of the IWW are new officers with experience in manufacturing and supply chain management. This new knowledge has made its way into our doctrine and has helped develop what is called 'Lighting Warfare' by the press."
-CSA_strike_first:0 "Strike First"
-CSA_strike_first_desc:0 "In order to prevent a million deaths under capitalism, we must cause a few in preemptive attacks. This doctrine is heavily influenced by the way the Red National Guard fought, as well as air doctrines that support sabotage efforts ahead of attacking."
+CSA_mobile_warfare_desc:0 "생산 혹은 공급 부분에서 근무했던 IWW 출신의 장교들의 지식을 기반으로, 새로운 전투 방식이 우리군 교리에 포함되었고 또한 언론에 의해 ‘전격전’이라고 부르는 전술을 개발하는데 큰 도움이 되었습니다.“
+CSA_strike_first:0 "선제 타격"
+CSA_strike_first_desc:0 "자본주의에 의한 수백만 명의 죽음을 막기 위해서라도, 우리는 반드시 선제공격을 실시해야 합니다. 이 교리는 붉은 국민위병의 전투 방식에 크게 영향을 받았으며, 또한 공격에 앞서서 아군을 지원하는 공군 교리에 영향 또한 받았습니다.“ 
 CSA_red_officers:0 "육군 확장"
-CSA_red_officers_desc:0 "An issue the General Staff often complains about is the inability to effectively utilize all the armed forces in America. A solution approved by the leader is to expand the scope of the Red Army to take over bureaucratic needs of the paramilitary."
+CSA_red_officers_desc:0 "총 참모부가 종종 불평하는 문제는 미국 전역에서 모든 군대를 효율적으로 운용 할 수 없다는 것입니다. 그래서 내놓은 해결책은 붉은 군대의 조직 규모를 키움으로써 준군사적인 관료적 요구를 인계 받는 것입니다.“
 CSA_military_research:0 "군사 연구"
-CSA_military_research_desc:0 "While we have some of the finest universities and thinkers in the world, we cannot research everything at once. We need to pick a direction for our military research to focus in."
+CSA_military_research_desc:0 "비록 우리가 세계 최고의 대학과 학자들을 보유하고 있다고 해도, 우리는 모든 것을 다 연구 할 수 없습니다. 우리는 여러 군사 연구 중 하나를 선택해 집중할 필요가 있습니다.“
 CSA_firearm_improvements:0 "총기 개선"
 CSA_firearm_improvements_desc:0 ""
 CSA_tank_research:0 "전차 연구"
-CSA_tank_research_desc:0 "Armored warfare will change the face of the battlefield forever. We need to ensure our tank designs are up to modern standards."
+CSA_tank_research_desc:0 "전차들 간 전투는 전장을 영원히 뒤 바꿀 것입니다. 따라서 우리는 현대 기준에 부합한 전차를 생산해야 합니다.“
 CSA_long_term_planning:0 "장기 계획"
-CSA_long_term_planning_desc:0 "Finally, the leader has gathered enough information on our resource capabilities. This will enable our supply chain to plan for longer campaigns. It is up to them to provide the means of winning, but for us to win."
+CSA_long_term_planning_desc:0 "마침내, 지휘부는 우리가 가진 자원에 대한 정보를 충분히 모았습니다. 이것은 우리의 공급을 조절하여 장기간 전쟁을 수행 할 수 있게 할 겁니다. 이것은 아마 승리 할 수 있는 방법을 제공 할 뿐이지만, 결과적으로 우리를 승리로 이끌 것입니다.“
 CSA_always_prepared:0 "항시준비"
-CSA_always_prepared_desc:0 "Our coastline is one of the longest and most vulnerable to attack of any socialist nation, as there are so many places for enemies to target. We must excite the people to watch out for suspicious ships or aircraft flying near our borders."
-CSA_logistics:0 "Centralized Logistics"
-CSA_logistics_desc:0 "The benefits of Centralized Army command become apparent when we receive the full support of the Central Committee to organize logistics. Several of our Generals are in favor implementing a cable-based logistics system out of the Central Committee, in order to take full advantage of the CC's political dominance."
-CSA_propaganda:0 "Revolutionary Fervor"
-CSA_propaganda_desc:0 "The fervor we are stoking has reached a fever pitch. While there are some cases of overenthusiastic causing issues, but we have been able to channel them into constructive efforts, including volunteer unpaid labor at times."
-CSA_american_auto_unions:0 "American Auto Unions"
-CSA_american_auto_unions_desc:0 "Since the invention of the Automobile, it has been taken up with earnest by the people of America. Our Steel Belt is home to more of the automobile manufacturing plants than anywhere else on earth. We must revitalize the factories closed by capitalistic negligence, and tune them towards victory."
+CSA_always_prepared_desc:0 "사회주의 국가들 중에서 우리의 아주 길고 취약한 해안선으로 인해 많은 지역들이 주요한 목표가 됩니다. 따라서 우리는 인민들이 우리 국경에 있는 수상한 함선이나 비행기를 주의를 기울이도록 유도해야 합니다.“
+CSA_logistics:0 "증앙화 된 병참 체계"
+CSA_logistics_desc:0 "중앙화 된 군대 명령 체계의 이점은 병참 체계에 대한 중앙 위원회의 전적인 지원을 군대가 받을 수 있을 때 나타납니다. 일부 우리 장군들은 중앙 위원회의 정치적 이점을 최대한 취하기 위해서 전선에 기반 한 병참 체제를 시행하기를 원합니다.“
+CSA_propaganda:0 "혁명적 열정"
+CSA_propaganda_desc:0 "우리의 불타오르는 열정은 마침내 극도의 흥분으로까지 도달했습니다. 비록 일부 과도한 열광은 문제를 야기하지만, 우리는 이러한 열정을 무보수 자원 봉사를 포함한 건설적인 활동으로 돌릴 수 있을 겁니다.“
+CSA_american_auto_unions:0 "미국 자동차 노조"
+CSA_american_auto_unions_desc:0 "자동차의 발명 이래로, 자동차는 미국인들의 삶의 일부를 차지했습니다. 그래서 우리의 강철 벨트는 지구상 다른 어떤 곳보다도 더 많은 자동차를 생산하고 있죠. 우리는 자본주의적 과실로 인해 닫은 공장들에게 새로운 활력을 주며 우리를 승리로 이끌 것입니다.“
 CSA_motorized_offensive:0 "차량화 공세"
-CSA_motorized_offensive_desc:0 "The Automobile Unions have released confiscated plans for motorized divisions confiscated from the Ford Estate. With this we can more effectively give chase to our enemies."
+CSA_motorized_offensive_desc:0 "자동차 노조들은 포드 사유지로부터 얻은 차량화 사단 위한 계획을 입수했고 그것을 공개했습니다. 이 계획은 우리가 적을 효율적으로 추격하는데 도움이 될 것입니다.“
 CSA_mechanized_effort:0 "기계화 노력"
-CSA_mechanized_effort_desc:0 "Joseph Beyrle has long been a cavalry officer and he has designs and plans to transform motorized and tanks into a modern form of Cavalry. Working closely with the Automobile Work Units, the Unions, and the IWW, we can make this plan a reality."
+CSA_mechanized_effort_desc:0 "조셉 베럴은 오랫동안 기병대 장교로 근무했으며, 그는 전차와 차량화 부대를 현대의 기병대와 비슷하게 바꾸는 계획을 가지고 있습니다. 자동차 생산 직원, 자동차 노조 그리고 IWW가 노력한다면 아마 이 계획을 현실로 만들 수 있을 것입니다.“
 CSA_mechanized_warfare:0 "기계화 전투"
-CSA_mechanized_warfare_desc:0 "In the field, some flaws in the vehicles became apparent. A follow up conversation with the unions found that the rubber components were actually composite of lower quality than promised. With this fixed, performance and trust in the machinery is on the rise. "
+CSA_mechanized_warfare_desc:0 "현장에서, 차량에서의 결점이 발견되었습니다. 노동조합의 말에 따르면, 고무 부품들이 계약 했던 것보다 낮은 질의 합성품이었습니다. 이 문제가 개선된다면, 차량들의 신뢰성은 이제 올라 갈 것입니다.“
 ### Air Force ###
 CSA_air_force:0 "붉은 공군"
 CSA_air_force_desc:0 "Before the war, the American Army Air Corps was, as its name suggests, little more than a branch of the Army. We must liberate the men and women who break the boundary of the earth. In this new war, we need to ensure it is independent and gets the support it needs."
