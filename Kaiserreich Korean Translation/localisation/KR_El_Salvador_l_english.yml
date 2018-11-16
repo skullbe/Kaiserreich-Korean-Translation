@@ -80,16 +80,16 @@ ELS_depression_leftovers_desc:0 "The Great Depression in the United States large
 
 ## Industrial ideas ##
 
-ELS_coffee_exports:0 "Coffee Exports"
+ELS_coffee_exports:0 "커피 수출"
 ELS_coffee_exports_desc:0 "While the majority of other Central American countries are considered Banana Republics, we're unique in the fact that we lack large amounts of bananas and instead have large amounts of coffee. This makes us a desirable trade partner to others due to our monopoly on the item."
 
-ELS_coffee_exports_2:0 "Coffee Exports"
+ELS_coffee_exports_2:0 "커피 수출"
 ELS_coffee_exports_2_desc:0 "While the majority of other Central American countries are considered Banana Republics, we're unique in the fact that we lack large amounts of bananas and instead have large amounts of coffee. This makes us a desirable trade partner to others due to our monopoly on the item."
 
-ELS_coffee_exports_3:0 "Coffee Exports"
+ELS_coffee_exports_3:0 "커피 수출"
 ELS_coffee_exports_3_desc:0 "While the majority of other Central American countries are considered Banana Republics, we're unique in the fact that we lack large amounts of bananas and instead have large amounts of coffee. This makes us a desirable trade partner to others due to our monopoly on the item."
 
-ELS_coffee_exports_4:0 "무역 "
+ELS_coffee_exports_4:0 "무역 경제"
 ELS_coffee_exports_4_desc:0 "The recent boom in foreign trade has made the majority of our economy based off of foreign trade. This has ensured economic prosperity for now, and surely for the future, right?"
 
 ELS_depression_revamped:0 "The Depression Revamped"
@@ -131,10 +131,10 @@ ELS_military_union_2_desc:0 "The promotion of the FETRES has helped bring a focu
 ELS_bank_reform:0 "Banking Reforms"
 ELS_bank_reform_desc:0 "The Pro-Patria party’s main goal was to help bring the economy up from the great slump, with many projects like the National Board helping to achieve this goal. These reforms must be continued in order to prepare for any future economic collapses and to ensure we can defend from them."
 
-ELS_industrial_idea:0 "Beginning Industrialization"
+ELS_industrial_idea:0 "산업화 시작"
 ELS_industrial_idea_desc:0 "With our economic doctrine firmly established, our country has put a major focus on its Industrialization and prosperity to ensure greatness for the future."
 
-ELS_coffee_exportation_to_our_friends:0 "Coffee Imports"
+ELS_coffee_exportation_to_our_friends:0 "커피 수입"
 ELS_coffee_exportation_to_our_friends_desc:0 ""
 
 ## Military ideas ##
@@ -160,10 +160,10 @@ ELS_professional_army_knowledge_2_desc:0 "To prepare ourselves for the future co
 ELS_military_academy_idea:0 "Captain General Gerardo Barrios Military School"
 ELS_military_academy_idea_desc:0 "More of our youth have been deciding to go to our most popular military school, and has increased our innovation in regards to the way our army operates."
 
-ELS_naval_production_idea:0 "Defending our Country"
+ELS_naval_production_idea:0 "우리의 국가를 방어하자"
 ELS_naval_production_idea_desc:0 "The recent allowance of the creation of a navy has opened up spirit for many to begin joining the navy to test the waters, and helps to increase the effectiveness of our small navy."
 
-ELS_air_production_idea:0 "New Air Industry"
+ELS_air_production_idea:0 "신 항공 산업"
 ELS_air_production_idea_desc:0 "With the limits America put on our air force, we're now more free to make an airforce to rule the skies of Central America over all of our opponents."
 
 ##Political tree ideas
