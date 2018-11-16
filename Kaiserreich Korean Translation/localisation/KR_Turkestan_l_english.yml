@@ -34,6 +34,9 @@ TRK_occ_sun_PER_50:0 "They Occupied Sunni Territories in Persia"
 TRK_occ_PER_25:0 "They Occupied Persia"
 TRK_occ_PER_50:0 "They Occupied Persia"
 
+### Tooltips ###
+TRK_wareventunit_tt:0 "Seven new divisions will form."
+
 ### Events ###
 turkestan.1.t:0 "The Hour is at Hand!"
 turkestan.1.d:0 "We are now at war with the infidels in Kazakhstan. Should we send out a call to all of the Turkmen tribes to engage in a Holy War?"
