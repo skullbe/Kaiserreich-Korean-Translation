@@ -3,6 +3,7 @@ l_english:
 ### From DH ###
 undistinguished_suit:0 "특별한 것 없는 중역"
 grand_protector:0 "위대한 수호자"
+paranoid_francophobe:0 "편집증적인 프랑스 혐오자"
 
 ### Head of Government ###
 hog_ambitious_union_boss:0 "야심있는 노조 지도자"
@@ -33,6 +34,7 @@ hog_the_vozhd:0 "영도자"
 hog_totalist_chairman:0 "총회 의장"
 hog_gentleman_politician:0 "신사 정치인"
 hog_supreme_ruler:0 "최고 통치자"
+hog_grand_old_man:0 "위대한 노장"
 
 ### Economy Minister ###
 eco_administrative_genius:0 "행정 천재"
@@ -65,7 +67,7 @@ eco_strategic_destruction_proponent:0 "공중 전술 지지자"
 eco_u_boat_proponent:0 "유보트 지지자"
 eco_tank_proponent:0 "전차 지지자"
 
-eco_army_reform_committee:0 "군 개혁 위원회"
+#eco_army_reform_committee:0 "군 개혁 위원회" already defined above
 eco_the_minister_for_everything:0 "모든 것을 위한 장관"
 eco_vernacular_industrialiser:0 "대중적인 산업가"
 
