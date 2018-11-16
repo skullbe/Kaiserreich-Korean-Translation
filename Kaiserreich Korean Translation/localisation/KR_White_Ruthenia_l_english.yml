@@ -187,6 +187,7 @@ WHR_cyrillic_alphabet_2:0 "벨로루시가 키릴 문자를 공식적으로 채�
 
 ### Tooltips ###
 whr.bmimprove.tt:0 "이것은 검은 월요일 위기의 영향을 줄일 것입니다."
+WHR_indunit_tt:0 "2개의 새로운 보병 사단이 생겨날 것입니다."
 
 ### Events ###
 whiteruthenia.1.t:0 "지그문트가 그의 행동을..."
@@ -194,413 +195,328 @@ whiteruthenia.1.d:0 "오늘 밤 민스크의 벨로루시 국립 극장에서는
 whiteruthenia.1.a:0 "국립 극장이 폭발로 인해 분열되었다!"
 whiteruthenia.1.b:0 "그의 사악한 음모가 좌절되면서 그는 국가 헌병대에 의해 체포되었다!"
 whiteruthenia.1.c:0 "지그문트는 자리에 착석했으며 모든 것이 완벽하다."
-
 whiteruthenia.2.t:0 "제국 조약에서의 우리 입장에 대한 재생각"
 whiteruthenia.2.d:0 "지그문트는 제국 조약에 대한 우리의 지속적인 태도에 대해 토론하기 위해 비밀 내각을 소집했습니다. 생디칼리스트와의 전쟁에서 독일을 지원하는 것은 우리에게 별 도움이 되지 않지만, 동맹을 떠나는 것은 러시아 부활과 같은 다른 위협으로부터 우리의 보호를 제거할 것입니다. 몇몇 장관들은 제국 조약을 떠나 러시아와 동맹 관계를 맺으려고 시도하는 반면 다른 몇몇 장관은 우리가 고립주의자가 될 것을 요구하고 있습니다. 우리는 어떻게 해야 합니까?"
 whiteruthenia.2.a:0 "우리는 리투아니아와 동맹을 맺어야 한다."
 whiteruthenia.2.b:0 "러시아와 동맹을 맺도록 시도해 본다."
 whiteruthenia.2.c:0 "독일에게 충성을 유지한다."
 whiteruthenia.2.e:0 "우리는 외부의 도움이 필요하지 않다!"
-
 whiteruthenia.3.t:0 "벨로루시 동맹?"
 whiteruthenia.3.d:0 "벨로루시 정부의 비밀 특사가 독일의 제국 조약을 떠날 뿐만 아니라 우리와 군사 동맹을 맺자고 제안해왔습니다. 우리의 슬라브 형제들과 함께 서 있는 것이 분명 좋을 것이지만, 그들의 주요 동부 동맹국 중 하나를 잃은 것에 대한 독일의 반응은 좋지 않을 것이며 심지어 전쟁까지 초래할 수 있습니다. 우리 어떻게 해야 될까요?"
 whiteruthenia.3.a:0 "그 제안을 수락한다!"
 whiteruthenia.3.b:0 "벨로루시를 그들 자신의 운명에 맡긴다."
 whiteruthenia.3.c:0 "우리는 무력으로 그것들을 다시 통합할 것이다."
-
 whiteruthenia.4.t:0 "벨로루시가 러시아를 위해 제국 조약을 포기하다"
 whiteruthenia.4.d:0 "그들의 새로운 왕 지기문트 아래에 있는 배신자 벨로루시는 제국 조약을 떠났습니다. 베를린 주재 벨로루시 대사는 벨로루시가 스스로 결정을 내릴 수 있는 주권 국가라고 주장하는 서한을 제국 조약에 공식적으로 제출했습니다. 더욱 충격적인 것은, 벨로루시는 앞으로 나아가서 러시아와의 공식적인 동맹을 체결했습니다. 이 터무니없는 배신은 팽창주의 러시아의 위협에 직면하여 우리의 동방에 대한 방어 계획을 완전히 좌절시켰습니다. 일부 관료들은 차분한 장성급 인사들이 전쟁에 나가기를 갈망하고 있지만, 서방 세계에서의 어떤 전쟁이 시작되기도 전에 우리가 벨로루시를 이길 수 있다고 확신했습니다."
 whiteruthenia.4.a:0 "어쨌든 그것들은 쓸모없었다."
 whiteruthenia.4.b:0 "우리는 이 신흥국들을 무너뜨릴 것이다!"
-
 whiteruthenia.5.t:0 "벨로루시가 제국 조약을 포기하다"
 whiteruthenia.5.d:0 "그들의 새로운 왕 지기문트 아래에 있는 배신자 벨로루시는 제국 조약을 떠났습니다. 베를린 주재 벨로루시 대사는 벨로루시가 스스로 결정을 내릴 수 있는 주권 국가라고 주장하는 서한을 제국 조약에 공식적으로 제출했습니다. 더욱 충격적인 것은, 벨로루시는 러시아와의 공식적인 동맹에 들어갔고, 어려운 시기에 우리의 군사적 노력을 포기한 것입니다. 이 터무니없는 배신은 팽창주의 러시아의 위협에 직면하여 우리의 동방에 대한 방어 계획을 완전히 좌절시켰습니다. 일부 관료들은 차분한 장성급 인사들이 전쟁에 나가기를 갈망하고 있지만, 동방의 동맹을 잃는 것은 생디칼리스트 전쟁으로부터 군대를 철수시킬 가치가 있다고 확신하고 있습니다."
 whiteruthenia.5.a:0 "그럼 바보들은 내버려 둬라."
 whiteruthenia.5.b:0 "응징을 위한 준비를 시작하라!"
-
 whiteruthenia.6.t:0 "Fall Jungingen"
 whiteruthenia.6.d:0 "우리는 뒷통수를 때린 벨로루시의 재정복에 대한 준비를 시작한지 일주일이 지났으므로, 우리는 지금 그 어느 때보다도 준비가 되어 있으며 국경의 군대가 전진에 허가를 요청하고 있습니다."
 whiteruthenia.6.a:0 "군대를 보내라!"
 whiteruthenia.6.b:0 "이것은 실수였다."
-
 whiteruthenia.7.t:0 "지그문트가 패배하다"
 whiteruthenia.7.d:0 "지그문트에 충성하는 마지막 군대는 패배했고 우리는 이제 벨로루시를 장악하고 있습니다. 이것은 독일을 위한 위대한 날입니다!"
 whiteruthenia.7.a:0 "우리가 승리했다!"
-
 whiteruthenia.8.t:0 "지그문트가 패배하다"
 whiteruthenia.8.d:0 "호엔촐레른에 반체제적인 지그문트는 패배했고 이제 우리는 벨로루시의 모든 점령지를 독일로 돌려 보낼 때입니다."
 whiteruthenia.8.a:0 "땅을 양도하라."
 whiteruthenia.8.b:0 "이 땅은 이제 [Root.GetAdjective]이다."
-
 whiteruthenia.19.t:0 "벨로루시의 운명"
 whiteruthenia.19.d:0 "벨로루시와의 전쟁의 대성공에 따라, 우리 관리들은 이 땅을 어떻게 할 것인가에 대해 논의하고 있습니다. 우리를 배신한 전 제국 조약 회원으로써, 정책은 우리의 중요한 동부에 있는 다른 주들이 반란을 일으키지 않게하기 위해 해체되어야 한다고 규정하고 있습니다. 그럼에도 불구하고 여전히 논쟁이 있으며 본질적으로 두 진영 사이에 나뉘어 있습니다. 하나는 폴란드에게 많은 양의 벨로루시 땅을 처벌의 한 형태로써 양도해주고 싶어하며 다른 하나는 단지 벨로루시를 재건하기를 원합니다. 대신에, 우리의 우정의 증표로서 우리의 새로운 러시아 동맹국에게 그것을 양도해주는 제안들도 있었습니다. 우리는 무엇을 해야 할까요?"
 whiteruthenia.19.a:0 "우리의 충실한 동부 동맹국에게 그것을 주어라."
 whiteruthenia.19.c:0 "충성스러운 벨로루시를 재건하라."
 whiteruthenia.19.e:0 "러시아에게 제안하라."
-
 whiteruthenia.20.t:0 "독일이 우리에게 남 루테니아를 주다"
 whiteruthenia.20.d:0 "벨로루시 반란이 끝나자 독일은 우리가 그들을 위해 정복한 남 벨로루시 영토를 차지할 자격이 있다고 결정했습니다. 최근 제국 조약에 가입하기로 한 우리의 결정이 배당금을 지불하기 시작하고 있는 것으로 보입니다. 이것은 폴란드를 위한 위대한 날입니다!"
 whiteruthenia.20.a:0 "우리는 이 땅을 유용하게 쓸 것이다!"
-
 whiteruthenia.21.t:0 "독일이 우리에게 서 루테니아를 주다"
 whiteruthenia.21.d:0 "벨로루시 반란이 끝나자 독일은 우리가 그들을 위해 정복한 서 벨로루시 영토를 차지할 자격이 있다고 결정했습니다. 이것은 리투아니아를 위한 위대한 날입니다!"
 whiteruthenia.21.a:0 "우리는 이 땅을 유용하게 쓸 것이다!"
-
 whiteruthenia.22.t:0 "독일이 우리에게 서 루테니아를 주다"
 whiteruthenia.22.d:0 "벨로루시 반란이 끝나자 독일은 우리가 그들을 위해 정복한 남부와 서부 벨로루시 영토를 차지할 자격이 있다고 결정했습니다. 이것은 연방을 위한 위대한 날입니다!"
 whiteruthenia.22.a:0 "우리는 이 땅을 유용하게 쓸 것이다!"
-
 whiteruthenia.23.t:0 "벨로루시의 잔해"
 whiteruthenia.23.d:0 "벨로루시의 한 덩어리를 우리의 충실한 동맹국들에게 분리해준 후에도, 그들의 최근 반란이 진압된 후에도 여전히 가난한 림보 주에 갇혀 있는 나머지 주들을 어떻게 해야 할지에 대한 문제는 여전히 남아 있습니다. 대부분의 장관들은 우리에게 반대해 반란을 일으킨 벨로루시를 벌을 주기 원합니다. 충성스런 꼭두각시가 되며 다시는 과대망상에 대한 환상을 가질 것 같지 않은 국가로써."
 whiteruthenia.23.a:0 "루테니아 괴뢰국을 만든다."
 whiteruthenia.23.b:0 "그것을 연방에게 주어라."
 whiteruthenia.23.c:0 "러시아에게 제안하라."
 whiteruthenia.23.e:0 "점령하라, 적어도 지금은..."
-
 whiteruthenia.24.t:0 "벨로루시의 새로운 정권"
 whiteruthenia.24.d:0 "그 반역적인 지그문트 왕의 동맹에서 새로운 국가를 빼앗으려는 시도에 기인한 최근 제국 조약의 혼란 이후, 벨로루시는 무일푼이 되었습니다. 그 전쟁은 일부 산업 도시들의 기아와 전염병 그리고 해체를 초래했습니다. 우리는 마침내 나라를 장악할 수 있는 충성스러운 새로운 정권을 수립할 수 있었습니다. 그들은 전임자들보다 훨씬 덜 이상주의적인 것으로 밝혀져야 합니다."
 whiteruthenia.24.a:0 "아주 좋아."
-
 whiteruthenia.25.t:0 "다시 나타난 벨로루시"
 whiteruthenia.25.d:0 "최근 제국 조약의 침략 이후 우리나라는 무릎을 꿇고 있습니다. 역병, 대량 이민이 있었고 그 전투에서 도시들은 사실상 버려졌습니다. 지금 사람들이 원하는 모든 것은 안정이며, 안정은 임시 독일 정부가 우리에게 부여한 것입니다. 독일의 거장들에 의해 다시 왕위에 오른 겸손한 블라디미르 왕이 민스크에서 벨로루시의 미래를 볼 것을 요구하는 연설을 했습니다. 적어도 최악의 상황은 끝났다고 보여집니다."
 whiteruthenia.25.a:0 "다시 한 번 자유를 찾은 것 같다..."
-
 whiteruthenia.26.t:0 "독일의 제안"
 whiteruthenia.26.d:0 "우리는 벨로루시에 있는 형제들이 그들의 옛 주인 독일인들에 의해 쫓겨나는 것을 가만히 서서 지켜보았습니다. 이제, 제국은 앞서서 우리에게 제국 조약에 대한 우리의 지속적인 지원에 대한 답례로 벨로루시를 제공하는 특이한 단계를 밟았습니다. 이것은 의심할 여지 없이 유럽에서의 우리의 입지를 강화시킬 것이고 새롭게 축소된 땅을 합병하는 것은 우리에게 너무 많은 문제를 야기하지 않을 것입니다. 우리는 독일의 제의를 받아들여야 할까요?"
 whiteruthenia.26.a:0 "돌아온걸 환영한다, 민스크!"
-
 whiteruthenia.27.t:0 "러시아가 우리의 제안에 동의하다"
 whiteruthenia.27.d:0 "러시아는 이 시점에서 전 벨로루시의 남은 영토에 대한 우리의 제안을 현명하게 받아들였습니다. 이 시점에서 우리는 서쪽에서 전투가 계속되는 동안 그 땅을 수비하는 데 군대를 낭비해야 했을 것입니다. 그 교역은 러시아 동맹국들을 그 대의를 위해 더욱 전념하게 만들었기 때문에 가치가 있었습니다."
 whiteruthenia.27.a:0 "어쨌든 러시아인들이 한때 그들의 것이었던 것을 즐기게 하라."
-
 whiteruthenia.28.t:0 "독일이 중부 루테니아를 넘겨주다"
 whiteruthenia.28.d:0 "독일은 원래 민스크와 모길료프의 미래가 그것을 가지고 무엇을 할 것인가에 대한 결정을 내리기 전에 더 많은 고려가 필요하다고 주장했지만, 그들은 이제 그 땅을 즉시 우리에게 양도할 것이라는 공식 서한을 보냈습니다. 모든 벨로루시는 현재 연방의 일부이며, 우리의 땅은 한때 우리의 역사적인 국가가 가졌던 것을 더 많이 덮기 위해 뻗어있습니다."
 whiteruthenia.28.a:0 "연방은 강력하다!"
-
 whiteruthenia.29.t:0 "벨로루시의 동맹 제안"
 whiteruthenia.29.d:0 "지기문트, 벨로루시의 왕은 우리에게 우리와 협력하고 싶다는 그의 바람을 표현하는 전갈을 보냈습니다. 지기문트는 독일인일 뿐만 아니라 호엔촐레른 사람인데, 이것은 우리의 반독일 정책에 대한 헌신에 대해 의문이 제기될 것이라는 것을 의미합니다. 하지만, 우리는 혼자이고 어떤 동맹국도 없는 것보다는 낫습니다. 독일은 우리 동맹의 통합을 저해할 수 있기 때문에 우리가 자유로워지지 못하게 할 가능성이 높으며, 그러니 이 제안을 심각하게 고려해야 할 것 같습니다."
 whiteruthenia.29.a:0 "동맹은 양국에 이익이 된다."
 whiteruthenia.29.b:0 "아니. 그들은 우리를 도울 수 없다."
-
 whiteruthenia.36.t:0 "동방의 민족주의자 반란"
 whiteruthenia.36.d:0 "끔찍한 소식입니다! 이틀만에 리투아니아와 벨로루시의 민족주의자들은 각각의 정부를 장악하고 제국 조약을 버렸습니다! 설상가상으로 그들은 또한 공식적으로 서로 동맹을 맺었으며, 분명히 우리를 반대하는 행동을 할 의도였습니다. 동방에 대한 통치권을 회복하기 위한 잔인한 충돌이 일어날 가능성 때문에, 독일인들은 군사 행동을 지지할 것 같지는 않습니다. 우리는 어떻게 해야 될까요?"
 whiteruthenia.36.a:0 "우리는 반란의 물결을 막아야 한다."
 whiteruthenia.36.b:0 "개입은 비용이 너무 많이 들 것이다..."
-
 whiteruthenia.30.t:0 "검은 월요일이 벨로루시를 강타하다!"
 whiteruthenia.30.d:0 "거의 2주 전, 베를린 증권 거래소의 가치가 갑자기 폭락하여 독일 지배의 유럽 전역의 수백 개의 회사들과 파괴적인 시장들이 사라졌습니다. 이제 그 충격의 영향은 마침내 벨로루시를 씻기 시작했습니다. 수십 개의 유명한 기업들이 파산하거나 그들의 노동력 대부분을 잃었습니다. 벨로루시 루블은 가치가 떨어지고 있습니다. 그리고 우리의 수출은 벼랑에서 떨어지고 있습니다. 현금이 남아 있는 외국인은 누구라도 우리 경제를 손대지 않을 것입니다."
 whiteruthenia.30.a:0 "망할 투자자 놈들!"
-
 whiteruthenia.31.t:0 "동부방벽 점검"
 whiteruthenia.31.d:0 "러시아군이 수년 간의 태만에서 벗어나고 무서운 군대로써 다시 부상함에 따라, 우리는 약간 줄어든 국경 방어벽을 개선할 때입니다. 우리의 최고 군사 지도자들은 동부방벽이라고 알려진 러시아와의 국경을 따라 기존의 요새를 개선하기 위해 중앙 정부에 추가 자금 지원을 요청했습니다. 일단 완전히 기억되면, 그러한 거대한 요새는 러시아의 어떠한 종류의 공격도 막는데 확실히 도움이 될 것입니다..."
 whiteruthenia.31.a:0 "투자해라!"
 whiteruthenia.31.b:0 "이것은 불필요하다."
-
 whiteruthenia.32.t:0 "동부방벽 탄약고"
 whiteruthenia.32.d:0 "동부방벽의 벨로루시 부분 설계 시 가장 시급한 취약성 중 하나를 해결하면서 일련의 새로운 강화 탄약고가 구축되었습니다. 적의 포격과 특공대의 공격으로부터 훨씬 더 잘 방어된 탄약고로, 우리의 방어는 헤아릴 수 없이 강화되었습니다. 여기서 멈춰야 할까요, 아니면 계속 방어벽을 다시 세워야 할까요?"
 whiteruthenia.32.a:0 "우리의 방어력을 더 향상시켜라!"
 whiteruthenia.32.b:0 "이건 필요 없다..."
-
 whiteruthenia.33.t:0 "동부방벽 대전차 방어"
 whiteruthenia.33.d:0 "러시아 기갑 부대에게 중대한 위협을 가할 수 있는 새로운 대전차 방어선이 오늘 공사가 끝났습니다. 동부방벽은 전통적으로 적의 전차가 보병을 지원하며 소규모의 공격을 할 것이라는 구시대적인 가정에 의존해 왔지만, 현대 군대의 생각은 이 가정에 의존하는 것이 어리석다는 것을 분명히 하고 있습니다. 정교한 용치 방어물과 지뢰가 우리의 국경을 지키는데 큰 도움이 될 것입니다. 몇몇 장군들은 우리가 동부방벽을 충분히 확장시켰다고 믿지만, 우리는 더 나아갈 수 있습니다."
 whiteruthenia.33.a:0 "우리의 방어력을 더 향상시켜라!"
 whiteruthenia.33.b:0 "이건 필요 없다..."
-
 whiteruthenia.34.t:0 "동부방벽 여닫이창 벙커의 복원"
 whiteruthenia.34.d:0 "오늘 우리의 부지런한 기술자들은 다양한 기관총 둥지와 벙커들을 업그레이드 하는 것을 끝마쳤습니다. 동부방벽은 보병이 접근하는 것을 훨씬 더 치명적으로 만들었고, 벙커 자체는 새로운 철근 콘크리트로 포장되었습니다. 우리는 복원을 계속할 것인가요, 아니면 이 요새로 충분할까요?"
 whiteruthenia.34.a:0 "우리의 방어력을 더 향상시켜라!"
 whiteruthenia.34.b:0 "이건 필요 없다..."
-
 whiteruthenia.35.t:0 "동부방벽 수리 완료"
 whiteruthenia.35.d:0 "오늘 러시아와의 국경 방어에 대한 복구 작업이 완료되며, 길고 비용이 많이 들던 프로그램이 끝났습니다. 재미있는 우리의 장군 중 한명은 루테니안 보드카 한 병을 마지막 벙커에 깨트렸습니다. 이러한 보호 아래, 우리의 독립은 보장되었습니다."
 whiteruthenia.35.a:0 "완벽하군!"
-
 whiteruthenia.37.t:0 "생디칼리스트 금지령 해제?"
 whiteruthenia.37.d:0 "우리나라가 스스로를 개혁하고 민주주의를 받아들이기 시작하면서, 사회 혁명가들을 해방시켜야 하느냐에 대한 의문이 제기되었습니다. SR은 벨로루시의 창립자 중 하나였으며, 특히 독일 정부에 의해 우리에게 기본적으로 지지를 받았기 때문에 정치에서 그것의 제외는 논란이 되어왔습니다. 지지자들은 그것이 벨로루시의 믿음과 재탄생을 보여줄 것이라고 주장하며, 많은 다른 사람들은 생디칼리스트들이 어쨌든 권력을 얻을 가능성은 거의 없다고 말하면서 이에 만족했습니다."
 whiteruthenia.37.a:0 "그게 무슨 해를 끼치겠어?"
 whiteruthenia.37.b:0 "우리는 어떠한 모험도 하지 않을 것이다."
-
 whiteruthenia.38.t:0 "지그문트가 쿠데타를 시작하다!"
 whiteruthenia.38.d:0 "이제 그의 경비의 힘이 줄어들었기 때문에, 지그문트는 벨로루시 왕좌가 줄어들고 있다고 주장할 기회를 보고, 쿠데타를 통해 이 모든 것을 도박하기로 결정했습니다. 이 마지막 필사적인 정권 장악 시도는 이미 민스크 거리에서 총격전을 벌였고 많은 사람들이 숨어있습니다."
 whiteruthenia.38.a:0 "궁전은 점령되었고 쿠데타는 성공했다!"
 whiteruthenia.38.b:0 "지그문트는 충신 경찰에 의해 살해당했고 쿠데타는 실패했다!"
-
 whiteruthenia.39.t:0 "첫번째 벨로루시 선거"
 whiteruthenia.39.d:0 "우리의 민주 개혁이 완료되고 민족주의 쿠데타가 방지된 가운데, 벨로루시는 처음으로 민주적인 선거를 치룰 때입니다. 우리나라는 독립 후 먼 길을 걸어왔지만, 이것은 정말로 우리 운명의 전환점입니다!"
 whiteruthenia.39.a:0 "보수적이며 제국 조약에 친화적인 BNP가 승리했다!"
 whiteruthenia.39.b:0 "사회 민주주의 BSDP가 승리했다!"
 whiteruthenia.39.c:0 "생디칼리스트 BSRP가 승리했다!"
-
 whiteruthenia.40.t:0 "지그문트 다루기"
 whiteruthenia.40.d:0 "지그문트는 벨로루시 비밀경찰 NBP의 효과적인 우두머리임을 증명했고 부지런히 국가를 보호했습니다. 안타깝게도, 그의 목소리는 왕위 계승자라고 주장하며 그의 형제 울라지미르에 대한 그의 역겨운 분노는 정부 측의 끊임없는 골칫거리였습니다. 경찰, 치안 부대, 벨로루시군에서 상당한 지지를 받고 있는 그는 현 국왕과 정부에 실질적인 위협을 가할 수 있을 것으로 보입니다. 우리는 적어도 그의 입장에 대한 재협상을 고려할 필요가 있을 것입니다."
 whiteruthenia.40.a:0 "지그문트와 협상한다."
 whiteruthenia.40.b:0 "그는 위협이 되지 않는다."
 whiteruthenia.40.c:0 "우리는 지그문트와 그의 지지자들을 숙청해야 한다!"
-
 whiteruthenia.41.t:0 "정부의 역할을 요구하는 지그문트"
 whiteruthenia.41.d:0 "고위 보좌관들과 사사건건 경찰들을 몰래 만나면서 지그문트는 왕이 동의할 수 있는 협상을 제안했습니다. 그는 그의 비밀 경찰력 근거지인 NBP에 대한 실질적인 통제를 유지하고 즉시 정부의 수장으로 임명된다는 조건 하에 벨로루시 왕위 계승권을 포기하겠다고 제안했습니다."
 whiteruthenia.41.a:0 "좋은 거래군."
 whiteruthenia.41.b:0 "이건 너무하군!"
-
 whiteruthenia.42.t:0 "지그문트가 왕좌를 요구하다!"
 whiteruthenia.42.d:0 "지그문트는 협상에 들어가기로 동의했지만, 울라지미르가 즉시 왕관을 버리고 그에게 왕관을 넘겨줄 것을 맹렬하게 요구했습니다. 고위 관리들과 궁전 직원들은 지그문트가 그의 야망에 솔직할 것이라고 믿었지만, 아무도 이렇게 노골적으로 권력을 잡으려 할 것이라고는 예상하지 못했습니다."
 whiteruthenia.42.a:0 "선택의 여지가 없다..."
 whiteruthenia.42.b:0 "교환에 대한 수요 영향이다."
 whiteruthenia.42.c:0 "그의 요구는 거절하지만, 그에게 더 많은 영향력을 줘라."
 whiteruthenia.42.e:0 "이 요구들은 말도 안된다!"
-
 whiteruthenia.43.t:0 "지그문트가 대안을 거절하다!"
 whiteruthenia.43.d:0 "비록 추정상의 건방진 녀석에 대한 우리의 제안은 극히 회유적이고 그가 휘두르는 엄청난 힘과 영향력을 공평하게 인식하며 자격이 있어야 하지만, 지그문트는 불행히도 반대자를 거부했고 그의 요구를 단호하게 고수했습니다."
 whiteruthenia.43.a:0 "왕좌를 포기한다."
 whiteruthenia.43.b:0 "왕좌를 주되 영향력을 요구한다."
 whiteruthenia.43.c:0 "이건 절대 용납할 수 없는 일이다!"
-
 whiteruthenia.44.t:0 "지그문트가 승락하다!"
 whiteruthenia.44.d:0 "놀랍게도, 지그문트는 정부의 수장직을 대가로 벨로루시 왕위 계승권을 포기하기로 동의했습니다. 일부 공무원들은 그가 좀 더 버틸 수 있을 거라는 인상을 받았으나, 고맙게도 그들이 틀렸다는 것이 밝혀졌습니다."
 whiteruthenia.44.a:0 "그가 제정신을 차려서 기쁘군."
-
 whiteruthenia.45.t:0 "협상 결렬"
 whiteruthenia.45.d:0 "우리의 최선의 노력에도 불구하고, 우리는 지그문트와 합의에 이르지 못했고, 그가 아직 정부로부터 사임하지 않은 동안 많은 사람들은 그가 비밀 경찰에 대한 그의 통제권을 강화시키기 위해서 그의 자리에 머무르고 있을 뿐이라고 의심합니다. 재난을 막기 위해 신속한 조치가 필요할 수 있습니다."
 whiteruthenia.45.a:0 "그래서, 그는 위협이 되지 않는다..."
 whiteruthenia.45.b:0 "그를 체포할 준비를 해라!"
-
 whiteruthenia.46.t:0 "벌새 작전"
 whiteruthenia.46.d:0 "벌새 작전은 쿠데타 가능성에 관여한 것으로 의심되는 많은 지그문트 지지자들을 신속히 체포하기 위한 계획으로 시작되었습니다. 여러 정부 부문에 걸친 지그문트의 지지자들이 울라지미르 부대를 능가하는 반면, 기습의 이점은 왕의 편에 있고 뱀의 머리를 자르는 것은 결정적일 수 있습니다."
 whiteruthenia.46.a:0 "지그문트의 지지자들이 울라지미르의 충신들을 물리쳤다!"
 whiteruthenia.46.b:0 "울라지미르의 충신들이 지그문트를 제거!"
-
 whiteruthenia.47.t:0 "생디칼리스트들이 벨로루시의 권력을 잡다!"
 whiteruthenia.47.d:0 "최근 물러난 벨로루시 울라지미르 국왕은 어리석게도 생디칼리스트들이 벨로루시 선거에서 놀라운 승리를 거두도록 허용했습니다! 파머의 우화처럼, 비열한 생디칼리스트들은 울라지미르를 전복시키고 그 나라에서 그를 추방함으로써 그의 순진한 친절에 보답했습니다. 많은 사람들이 벨로루시의 질서를 회복하기 위해 개입할 것을 요구하고 있습니다. 결국, 우리는 서쪽의 동포들과 전쟁을 하면서 중요한 동부 지역에서 붉은색 존재를 용인할 수 없습니다."
 whiteruthenia.47.a:0 "개입하지 마라."
 whiteruthenia.47.b:0 "벨로루시는 넘어지지 말아야 한다!"
-
 whiteruthenia.48.t:0 "벨로루시가 국제 무대의 입장을 모색하다"
 whiteruthenia.48.d:0 "압제적인 독일 군주제를 타도하고 생디칼리즘의 깃발 아래 그들의 새로운 국가를 통합한 벨로루시의 한 특사가 오늘 우리 동맹에 동참해 달라고 요청했습니다. 우리와 동맹을 맺고 있는 취약한 동쪽의 측면으로 독일에 적대적인 나라는 우리의 전쟁 노력에 큰 보탬이 될 것입니다."
 whiteruthenia.48.a:0 "클럽에 온걸 환영하오 동무!"
 whiteruthenia.48.b:0 "그들은 돕기에는 너무 멀다."
-
 whiteruthenia.49.t:0 "코뮌이 우리를 수락하다!"
 whiteruthenia.49.d:0 "프랑스 코뮌은 인터내셔널에 가입시켜달라는 우리의 요청을 수락하였고, 우리는 이제 독일 제국주의자들 및 자본주의 착취자들과 맞서고 있습니다."
 whiteruthenia.49.a:0 "만세!"
-
 whiteruthenia.50.t:0 "코뮌이 우리를 거절하다!"
 whiteruthenia.50.d:0 "프랑스 코뮌은 인터내셔널에 가입시켜달라는 우리의 요청을 거절했습니다! 이 불행한 결과는 우리가 본질적으로 모든 면에서 적들에게 둘러싸여 있다는 것을 의미합니다."
 whiteruthenia.50.a:0 "그건 그들의 손실이다!"
-
 whiteruthenia.51.t:0 "동유럽 연방의 가입을 원하는 벨로루시"
 whiteruthenia.51.d:0 "동유럽의 새로운 생디칼리스트 국가들이 연합하면서 벨로루시 또한 우리와 함께하자고 요청했습니다. 우리는 함께 동부의 노동자들의 이익을 방어할 수 있는 견고한 세력권을 만들 것입니다."
 whiteruthenia.51.a:0 "물론이지!"
 whiteruthenia.51.b:0 "너무 번거롭다."
-
 whiteruthenia.52.t:0 "폴란드가 우리를 수락하다!"
 whiteruthenia.52.d:0 "폴란드는 동맹에 가입시켜달라는 우리의 요청을 수락했습니다! 우리는 함께 중유럽과 동유럽 제국주의자들의 이익에 거의 견줄 수 없는 위협을 가할 것입니다."
 whiteruthenia.52.a:0 "만세!"
-
 whiteruthenia.53.t:0 "폴란드가 우리를 거절하다!"
 whiteruthenia.53.d:0 "폴란드는 그들과 동맹을 맺으려는 우리의 요청을 거절했습니다!"
 whiteruthenia.53.a:0 "그건 그들의 손실이다!"
-
 whiteruthenia.54.t:0 "제 4 인터내셔널의 가입을 원하는 벨로루시"
 whiteruthenia.54.d:0 "오늘 벨로루시 정부는 혁명을 받아들이고 독일의 지원을 받는 독재자들을 몰아냈으며 제 4 인터내셔널에 가입할 것을 요청했습니다. 그들을 받아들임으로써 우리는 그들이 어느나라에 살고 있든지 간에 우리가 노동자들을 보호한다는 것을 서부의 우호적인 국가에 증명할 수 있을 것입니다."
 whiteruthenia.54.a:0 "물론 우리와 함께할 수 있다!"
 whiteruthenia.54.b:0 "아니, 벨로루시는 소비에트의 영토이다!"
-
 whiteruthenia.55.t:0 "소비에트가 우리를 수락하다!"
 whiteruthenia.55.d:0 "소련은 제 4 인터내셔널에 가입시켜달라는 우리의 요청을 수락했습니다. 우리는 함께 동유럽 제국주의자들에게 강력한 위협을 가할 수 있을 것입니다."
 whiteruthenia.55.a:0 "혁명은 계속된다!"
-
 whiteruthenia.56.t:0 "소비에트가 우리를 거절하다!"
 whiteruthenia.56.d:0 "소비에트는 벨로루시가 단지 민족주의 분리주의 국가일 뿐이며 정당한 러시아 영토라고 주장하며 우리의 요청을 거절했습니다."
 whiteruthenia.56.a:0 "어림없는 소리군!"
-
 whiteruthenia.57.t:0 "벨로루시가 우리의 영토를 요구하다!"
 whiteruthenia.57.d:0 "우리 영토의 일부에 벨로루시 민족이 살고 있다고 주장한 벨로루시는, 지금 우리에게 이 영토를 즉시 양도하거나 전쟁에 대비할 것을 요구하고 있습니다."
 whiteruthenia.57.a:0 "그들의 주장을 받아들인다."
 whiteruthenia.57.b:0 "전쟁? 농담하는건가?"
-
 whiteruthenia.58.t:0 "러시아가 우리의 주장을 수락하다!"
 whiteruthenia.58.d:0 "모든 역경에도 불구하고 러시아인들은 우리의 주장을 받아들여 우리에게 영토를 넘겨주었습니다! 벨로루시는 이제 우리의 정당한 역사적 영토를 훨씬 더 많이 수용하고 있습니다!"
 whiteruthenia.58.a:0 "내가 꿈을 꾸고있나?"
-
 whiteruthenia.59.t:0 "러시아가 우리의 주장을 거절하다!"
 whiteruthenia.59.d:0 "예상대로 러시아는 우리의 주장을 거부하고 전쟁의 위협을 조롱해왔는데, 우리는 어떻게 해야 할까요?"
 whiteruthenia.59.a:0 "우리는 러시아와 싸울 수 있는 입장이 아니다."
 whiteruthenia.59.b:0 "그들은 우리를 과소평가했다!"
-
 whiteruthenia.60.t:0 "벨로루시가 소비에트의 영토를 요구하다!"
 whiteruthenia.60.d:0 "우리 영토의 일부에 벨로루시 민족이 살고 있다고 주장한 벨로루시는, 지금 우리에게 이 영토를 즉시 양도하거나 전쟁에 대비할 것을 요구하고 있습니다."
 whiteruthenia.60.a:0 "그들의 주장을 받아들인다."
 whiteruthenia.60.b:0 "전쟁? 농담하는건가?"
-
 whiteruthenia.61.t:0 "소비에트가 우리의 주장을 거절하다!"
 whiteruthenia.61.d:0 "예상대로 소비에트는 우리의 주장을 거부하고 전쟁의 위협을 조롱해왔는데, 우리는 어떻게 해야 할까요?"
 whiteruthenia.61.a:0 "우리는 소비에트와 싸울 수 있는 입장이 아니다."
 whiteruthenia.61.b:0 "그들은 우리를 과소평가했다!"
-
 whiteruthenia.63.t:0 "러시아 내전 개입"
 whiteruthenia.63.d:0 "오늘 소비에트 반란군들이 러시아와 싸우는데 정신이 팔려있는 동안, 벨로루시 정부는 소비에트 정권의 약점을 이용하려고 하면서 우리의 정당한 영토를 주장했습니다."
 whiteruthenia.63.a:0 "우리는 가능한 한 빨리 그것을 점유해야 한다."
-
 whiteruthenia.64.t:0 "벨로루시가 볼셰비키 영토를 요구하다!"
 whiteruthenia.64.d:0 "반동적인 러시아 정부와 싸우면서 주의가 산만해진 틈을 타, 벨로루시는 그들이 정당하다고 주장하는 영토를 차지하려고 시도하고 있습니다."
 whiteruthenia.64.a:0 "우리는 지금 아무것도 할 수 없다..."
 whiteruthenia.64.b:0 "이것은 전쟁을 의미한다!"
-
 whiteruthenia.65.t:0 "벨로루시가 볼셰비키 영토를 점령하다!"
 whiteruthenia.65.d:0 "벨로루시는 내전으로 주의가 산만해진 틈을 타 볼셰비키의 점령지를 빼앗았습니다. 그들은 정당한 자신들의 영토라고 주장했습니다!"
 whiteruthenia.65.a:0 "우리는 복수할 것이다!"
-
 whiteruthenia.67.t:0 "벨로루시의 정세"
 whiteruthenia.67.d:0 "On the 9th of March 1918 Russian troops abandoned Belarus after the signing of the Treaty of Brest-Litovsk. In the immediate aftermath the All-Belarusian Congress declared the formation of the Belarusian People's Republic catching even Germany by surprise. At first the Germans did not recognise the new state, having intended to use Belarus as a bargaining chip with the Bolsheviks. However after the German Intervention in Russia, an independent Belorussian state was recognised by Germany - under the condition that Wilhelm II's brother Heinrich became King, taking the regnal name Hienry I. Under Hienry, the Belorussian government began a relatively successful programme of land reform and education programs. Though the former King was effective, illiteracy remained mostly endemic, not helped by the inability of Belarusian nationalists to decide between a Latin or Cyrillic script for their revival of the Belarusian language. After Heinrich's death, his son Waldemar ascended to the throne as Uladzimir I. Plagued with the recurring effects of haemophilia and not trained to any reasonable level in statecraft, Uladzimir has proven ineffective in giving the country the absolutist rule it so desperately needs. As such Belorussia remains much as it was after the Weltkrieg. Recognised as little more than a German puppet state with a mostly agrarian and poverty-stricken population, the country cries out for change. The political status quo is currently being disturbed by the machinations of Uladzimir's brother and head of the NBP secret police Sigismund, a figure that sees himself as the rightful heir to the throne. The controversial Prince has made contact with both pro-Russian and Belarusian nationalist groups in his barely concealed plotting to seize the throne from his Germanophile brother. As tensions east, west and at home grow Belorussia's situation looks increasingly precarious."
 whiteruthenia.67.a:0 "Only time shall tell..."
-
 whiteruthenia.68.t:0 "Belorussian Demands Our Territory!"
 whiteruthenia.68.d:0 "Following a rise in nationalism and their increasingly independently-minded foreign policy, the Belorussian government has threatened war against us unless we hand Brest-Litvosk and Gomel over to them!"
 whiteruthenia.68.a:0 "Fine..."
 whiteruthenia.68.b:0 "Never!"
-
 whiteruthenia.69.t:0 "Ukraine Agrees!"
 whiteruthenia.69.d:0 "The Ukrainians have seen sense and have returned our rightful territories!"
 whiteruthenia.69.a:0 "Come home to the Ruthenian nation!"
-
 whiteruthenia.70.t:0 "Ukraine Refuses!"
 whiteruthenia.70.d:0 "Unfortunately the Ukrainians have refused our demands and are prepared to defend themselves, even if it means war."
 whiteruthenia.70.a:0 "There's nothing we can do."
 whiteruthenia.70.b:0 "So be it! To war!"
-
 whiteruthenia.71.t:0 "Belorussia Seeks Support"
 whiteruthenia.71.d:0 "The Belorussian government, after recently claiming Brest-Litvosk and Gomel to be their rightful territories, have come to us to request our support in pressuring Ukraine to cede these lands to Belorussia. As Belorussia is a part of the Reichspakt we have a duty to at least consider their request. How shall we reply?"
 whiteruthenia.71.a:0 "Back them up."
 whiteruthenia.71.b:0 "Decline their request."
-
 whiteruthenia.72.t:0 "The Reichspakt Demands Territory!"
 whiteruthenia.72.d:0 "The Belorussians, backed up by their German masters, have demanded that we hand over Brest-Litvosk and Gomel to them! While we could likely fend off the Belorussians, the influence of Germany makes this situation far more dire for us."
 whiteruthenia.72.a:0 "We have no choice."
 whiteruthenia.72.b:0 "Never!"
-
 whiteruthenia.73.t:0 "Ukraine Refuses Demands!"
 whiteruthenia.73.d:0 "The Ukrainians have refused our demands to transfer Gomel and Brest-Litvosk to Belorussia. Our envoy was laughed all the way out of their country, and eyes across Europe are watching events with keen interest."
 whiteruthenia.73.a:0 "Let us pull back."
 whiteruthenia.73.b:0 "We shall take it by force!"
-
 whiteruthenia.74.t:0 "Germany Refuses To Assist!"
 whiteruthenia.74.d:0 "Unfortunately the Germans have refused our request to pressure Ukraine into returning our rightful lands!"
 whiteruthenia.74.a:0 "Damn!"
-
 whiteruthenia.75.t:0 "Belorussia Seeks Support"
 whiteruthenia.75.d:0 "The Belorussian government, after recently claiming Brest-Litvosk and Gomel to be their rightful territories, have come to us to request our support in pressuring Ukraine to cede these lands to Belorussia. As a junior partner in our alliance we should at least consider helping them out. How shall we reply?"
 whiteruthenia.75.a:0 "Russia and Belorussia should act as one."
 whiteruthenia.75.b:0 "Decline their request."
-
 whiteruthenia.76.t:0 "Russia and Belorussia Demand Land!"
 whiteruthenia.76.d:0 "The Belorussians, backed up by their Russian allies, have demanded that we hand over Brest-Litvosk and Gomel to them! While we could likely fend off the Belorussians, the influence of a powerful Russia makes this situation far more dire for us."
 whiteruthenia.76.a:0 "We have no choice..."
 whiteruthenia.76.b:0 "Never!"
-
 whiteruthenia.77.t:0 "Ukraine Refuses Demands!"
 whiteruthenia.77.d:0 "The Ukrainians have refused our demands to transfer Gomel and Brest-Litvosk to Belorussia."
 whiteruthenia.77.a:0 "Let us pull back."
 whiteruthenia.77.b:0 "Then we shall take it by force!"
-
 whiteruthenia.78.t:0 "Russia Refuses To Assist!"
 whiteruthenia.78.d:0 "Unfortunately the Russians have refused our request to pressure Ukraine into returning our rightful lands!"
 whiteruthenia.78.a:0 "Damn!"
-
 whiteruthenia.79.t:0 "Urbanising Belorussia"
 whiteruthenia.79.d:0 "The countryside of Belorussia has one of the smallest population densities in Europe, with a large number of cities being populated more by the Jewish minority than our own people. If Belorussia is to begin to develop a modern economy and industrialise, it is essential that our farmers are encouraged to settle in the cities. Unfortunately, the cost of promoting this migration as well as the cost of building new housing for the migrating residents could be expensive and take a long time to complete."
 whiteruthenia.79.a:0 "We can take our time."
 whiteruthenia.79.b:0 "Put some emphasis on this."
 whiteruthenia.79.c:0 "Urbanisation must be an absolute priority."
-
 whiteruthenia.80.t:0 "Urbanisation Policy Shows Results"
 whiteruthenia.80.d:0 "After many months of encouraging urbanisation and settlement into Belorussia's major towns, our efforts are finally beginning to bear fruit. Town centres that had been relatively bereft of life since the Tsarist period are now booming with life and civic institutions are gaining strength. Our industry has already begun to benefit from the influx of new workers."
 whiteruthenia.80.a:0 "The process is underway."
-
 whiteruthenia.81.t:0 "Urbanisation Policy Succeeds!"
 whiteruthenia.81.d:0 "After years of hard work our efforts in encouraging Belorussians to move to the cities have finally paid off, and our economy has massively improved as a result. This will no doubt greatly aid in encouraging foreign investment and alleviating the effects of Black Monday."
 whiteruthenia.81.a:0 "Finally!"
-
 whiteruthenia.82.t:0 "Encouraging Industrialisation"
 whiteruthenia.82.d:0 "For a long time Belorussia has lacked industry, receiving little investment from the Tsarist state prior to the Weltkrieg and treated with benign neglect by the Reichspakt system. To make matters worse much of what Russian industry there was began to fall into desrepair as a result of the Weltkrieg and collapse of the Russian Empire, with German companies taking their place. With Black Monday causing immense damage to said German industries, it is clear that Belorussia must begin to stand on its own two feet industrially."
 whiteruthenia.82.a:0 "We can afford some more funding."
 whiteruthenia.82.b:0 "Belorussia must embrace the Industrial Revolution!"
 whiteruthenia.82.c:0 "Let's not spend too much."
-
 whiteruthenia.83.t:0 "Mechanised Farming Reform"
 whiteruthenia.83.d:0 "With the progress of technology, farmings methods have already begun to improve with inventions like tractors allowing us to produce yields far in excess of what was possible previously. Despite these improvements, Belorussia remains distinctly backwards and its farming is rather inefficient by modern standards. It is clear that things must be improved if Belorussia is to take its place in the world as a modern nation."
 whiteruthenia.83.a:0 "There's no need for a huge effort."
 whiteruthenia.83.b:0 "Some focus on mechanisation is ideal."
 whiteruthenia.83.c:0 "Farming must be completely mechanised!"
-
 whiteruthenia.84.t:0 "Improving Rural Infrastructure"
 whiteruthenia.84.d:0 "In many places the roads of the Belorussian countryside are extremely outdated and pretty much all of them date back to Tsarist-era Russia. There is minimal paving outside of the capital and most villages are connected only by terrible dirt tracks - an issue that has plagued military planners for years. It is clear that something must be done about this if we are to become a modern nation."
 whiteruthenia.84.a:0 "Only limited funding is needed."
 whiteruthenia.84.b:0 "Improve some of the worst offenders."
 whiteruthenia.84.c:0 "The road network must be completely improved!"
-
 whiteruthenia.85.t:0 "Clearing Pripyat Marshes"
 whiteruthenia.85.d:0 "The clearing of portions of the Pripyat marshses is now set to begin. Although the Pripyat marshes are vast and a major attempt to clear them is beyond our abilities even a limited clearance would still benefit our nation in providing new land for agriculture or industry."
 whiteruthenia.85.a:0 "Let us begin."
-
 whiteruthenia.86.t:0 "Pripay Marshes Drained!"
 whiteruthenia.86.d:0 "The draining of the marshes has finally come to an end with thousands of square miles of new land having been created for agriculture and industry. Already these areas are coming to be populated by migrants from elsewhere in the country willing to set up farms on the reclaimed marshland. No doubt this will aid our nation in the long run."
 whiteruthenia.86.a:0 "Finally!"
-
 whiteruthenia.87.t:0 "The Creation of BelAZ"
 whiteruthenia.87.d:0 "We have decided to implement our plans for the creation of BelAZ, a manufacturer capable of building various variants of vehicles and machinery at our direction depending on the needs of the state. While heavily funding the programme would be expensive and politically risky, it could undoubtedly pay off in the long run by boosting peripheral sectors and supply chains and it would greatly aid the Belorussian economy."
 whiteruthenia.87.a:0 "Invest a bit into BelAZ."
 whiteruthenia.87.b:0 "Give BelAZ a lot of funding."
 whiteruthenia.87.c:0 "BelAZ shall become one of Eastern Europe's greatest manufacturers!"
-
 whiteruthenia.88.t:0 "The Priorities of BelAZ"
 whiteruthenia.88.d:0 "As a state-owned company, BelAZ is under our complete control - and as such it is up to the government to decide what it should concentrate on constructing. What should we have BelAZ focus on?"
 whiteruthenia.88.a:0 "Agriculture."
 whiteruthenia.88.b:0 "Military vehicles."
 whiteruthenia.88.c:0 "Mining."
 whiteruthenia.88.e:0 "Construction."
-
 whiteruthenia.89.t:0 "Promoting Literacy"
 whiteruthenia.89.d:0 "Despite the efforts of the late King Heinrich, illiteracy is still a major problem in part due to the bickering between proponents of different alphabets for the Belarusian language. While we agree that eliminating illiteracy should be a priority, the question is how much we are willing to invest to this end."
 whiteruthenia.89.a:0 "Slow and steady wins the race."
 whiteruthenia.89.b:0 "This issue demands much attention."
 whiteruthenia.89.c:0 "This must be a major priority!"
-
 whiteruthenia.90.t:0 "Literacy Improves"
 whiteruthenia.90.d:0 "Thanks to our effort the literacy rate of Belorussia has finally begun to improve, however we are not finished yet."
 whiteruthenia.90.a:0 "The end is in sight."
-
 whiteruthenia.91.t:0 "Further Improvements In Literacy!"
-whiteruthenia.91.d:0 "Thanks to our efforts illiteracy is no longer a rampant problem in White Ruthenaia, and the vast majority of the population is now able to read and write. This is a staggering success considering the agrarian and rural nature of the nation."
+whiteruthenia.91.d:0 "Thanks to our efforts illiteracy is no longer a rampant problem in Belorussia, and the vast majority of the population is now able to read and write. This is a staggering success considering the agrarian and rural nature of the nation."
 whiteruthenia.91.a:0 "Fantastic!"
-
 whiteruthenia.92.t:0 "Ethanol Fuel Research"
 whiteruthenia.92.d:0 "To compensate for Belorussia's lack of resources needed to benefit our industry, we have decided to begin the mass-production of ethanol fuel. The question is, how much funding should we put into the research for its creation?"
 whiteruthenia.92.a:0 "There is no need to waste a huge amount of money."
 whiteruthenia.92.b:0 "Give them some funding, it is important."
 whiteruthenia.92.c:0 "Fuel is essential for our industry."
-
 whiteruthenia.93.t:0 "Ethanol Fuel Breakthrough"
 whiteruthenia.93.d:0 "Thanks to our funding, the research for ethanol fuel has had a breakthrough, allowing limited production of fuel to begin. While research will continue, this is a great day for a fuel-independent Belorussia!"
 whiteruthenia.93.a:0 "Our industry is fuelled at last!"
-
 whiteruthenia.94.t:0 "Ethanol Fuel Complete!"
 whiteruthenia.94.d:0 "Though it took a while our research into the production of ethanol fuel is complete! Now we can fuel our industry despite our lack of resources."
 whiteruthenia.94.a:0 "Great!"
-
 whiteruthenia.95.t:0 "Defending Our Airspace"
 whiteruthenia.95.d:0 "Our project to build anti-air guns in order to protect the skies of Belorussia from foreign invaders has begun and some are already being installed at this moment. Despite this there are some officials that have proposed that we invest more into this project in order to protect our fragile growing industry from conflict."
 whiteruthenia.95.a:0 "Some more anti-air guns would be ideal."
 whiteruthenia.95.b:0 "Belorussia must be well protected from harm!"
 whiteruthenia.95.c:0 "The current amount is sufficient."
-
 whiteruthenia.96.t:0 "Russians Acclimatise To Our Rule"
 whiteruthenia.96.d:0 "While there was some resistance at first from the Russian population in the lands we took from Russia, they have begun to realise their resistance is futile and accept our rule."
 whiteruthenia.96.a:0 "Great!"
-
 whiteruthenia.97.t:0 "Ukrainians Acclimatise To Our Rule"
 whiteruthenia.97.d:0 "While there was some resistance at first from the Ukrainian population in the lands we took from Ukraine, they have begun to realise their resistance is futile and accept our rule."
 whiteruthenia.97.a:0 "Great!"
-
 whiteruthenia.98.t:0 "Black Monday Overcome!"
 whiteruthenia.98.d:0 "After years of economic malaise due to Black Monday the actions of the government have brought an end to the crisis in Belorussia and our economy is reaching a level of success we have never seen before. It is truly a new era for our young nation."
 whiteruthenia.98.a:0 "Finally!"
