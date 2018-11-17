@@ -793,7 +793,7 @@ ustates.3.d:0 "The 1936 election is looking to be one of the most contentious in
 ustates.3.a:0 "Form the Coalition"
 ustates.3.b:0 "Do not form the Coalition"
 
-ustates.4.t:0 "Southern Democrats Complain"
+ustates.4.t:0 "남부 민주당의 불평"
 ustates.4.d:0 "Although the coalition is showing signs of success, there is already some dissent from the various factions. The loudest voices belong to those of the Southern Democrats, many of whom are much more conservative and are facing stiff competition from the America First Party candidates. The coalition has been largely dominated by Northern Democrats and Republicans, with the Progressives being the third wing of the coalition. We could try and force a compromise by promising to appoint southern Democrats to the cabinet and other positions of power if we win. Of course, we could also ignore their protest and focus on winning the election instead."
 ustates.4.a:0 "Let them complain, where else will they go?"
 ustates.4.b:0 "Promise to appoint them to the cabinet"
@@ -814,11 +814,11 @@ ustates.7.a:0 "Side with the Republicans"
 ustates.7.b:0 "Force a compromise"
 ustates.7.c:0 "Side with the Progressives"
 
-ustates.8.t:0 "Nominating Quentin Roosevelt"
+ustates.8.t:0 "퀜틴 루즈벨트 지명"
 ustates.8.d:0 "Since the nomination of Senator Olson as the presidential candidate, the politically minded have discussed with great interest the likely vice-presidential candidate. Finally putting the rumours to rest, Quentin Roosevelt was announced as the VP for the coalition ticket yesterday in New York City. In his announcement, he emphasized wanting to help bring major reforms to the country through a plan called the Fair Deal. Though this plan was denounced by the SPA and AFP as being nowhere near enough to help the average American, economists believe that it may be enough to end the Depression"
 ustates.8.a:0 "A deal that is fair and a deal that is square"
 
-ustates.9.t:0 "Indian Citizenship Act"
+ustates.9.t:0 "인디언 시민권 법"
 ustates.9.d:0 "In order to gain more sympathy from the North and the West, it has been proposed by the Senate and the House that the Indian Citizenship Bill be passed, effectively elevating all indigenous peoples of the United States from second-class citizens to full citizenship. Northeastern and Western politicians in both the major parties support this, while some Southern Democrats and Northern Republicans have deemed it frivolous."
 ustates.9.a:0 "Pass the Act, hopefully, this will gain us some sympathy!"
 ustates.9.b:0 "Veto the Bill"
@@ -860,7 +860,7 @@ ustates.18.d:0 "Three years ago today, Father Charles Coughlin began a weekly ra
 ustates.18.a:0 "Coughlin is a becoming a danger to the public, shut him down"
 ustates.18.b:0 "I hate what he says, but I defend his right to say it."
 
-ustates.19.t:0 "Huey Long Speaks"
+ustates.19.t:0 "휴이 롱의 연설"
 ustates.19.d:0 "The Democratic Party and the Republican Party were just like the old patent medicine drummer that used to come around our county. He had two bottles of medicine. He'd play the banjo and he'd sell two bottles of medicine.\n\nOne of those bottles of medicine was called High Popalorum and another one of those bottles of medicine was called Low Popahirum.\n\nFinally somebody around there said is there any difference in these bottles of medicines? 'Oh,' he said, 'considerable. They're both good but they're different,' he said.\n\n'That High Popalorum is made from the bark off the tree that we take from the top down. And that Low Popahirum is made from the bark that we take from the root up.'\n\nAnd the only difference that I have found between the Democratic leadership and the Republican leadership was that one of 'em was skinning you from the ankle up and the other from the ear down — when I got to Congress."
 ustates.19.a:0 "Three Cheers for the Kingfish"
 
@@ -872,10 +872,10 @@ ustates.21.t:0 "Violence against Politicians"
 ustates.21.d:0 "For some time the violence has been mostly between the supporters of the various parties however recently the violence is now reaching the candidates and politicians themselves. Failed attempts on the lives of both Huey Long and Jack Reed have occurred in the past few months. Several more local politicians have been stabbed during a campaign rally. Moreover, many from both extremes are turning a blind eye to the violence done to their enemies."
 ustates.21.a:0 "Great, more violence"
 
-ustates.22.t:0 "May Day Riots"
+ustates.22.t:0 "노동절 폭동사태"
 ustates.22.d:0 "May Day, International Workers day, this is a holiday that the Socialist Party celebrates with numerous parades and speeches and has since its founding. Generally, things are peaceful, though there have been confrontations with the Police. However this time things are more violent than normal. Clashes between the Socialists and the local police backed up by the AFP have occurred around the country. The question is who is at fault? The Socialists declare that things were peaceful till the police and the AFP goons arrived on the scene while the AFP is saying that the Socialists were deliberately looking to cause trouble and violence and that they were defending themselves."
-ustates.22.a:0 "The SPA are at fault"
-ustates.22.b:0 "The police are at fault"
+ustates.22.a:0 "사회당이 문제였다."
+ustates.22.b:0 "경찰이 문제였다."
 
 ustates.23.t:0 "Saint Patrick's Day Flood"
 ustates.23.d:0 "On March 16, 1936, warmer than usual temperatures led to the melting of large amounts of snow and ice on the upper Allegheny and Monongahela rivers. The rivers and their tributaries had already overflowed their banks and were soon threatening the city of Pittsburgh. On March 17, 1936, the waters reached the flood stage of twenty-five feet. Then, overnight, heavy rain caused the water to rise even higher, and on March 18, the water peaked at about forty-six feet, twenty-one feet above the flood stage.\n\n This is the worst such disaster in the city's history, and local authorities have already requested federal aid."
@@ -977,7 +977,7 @@ ustates.44.t:0 "The opposition denounces Reed as a tyrant"
 ustates.44.d:0 "Though they agreed on little else, the Democrats, Republicans, and the America First Parties have been quick to denounce Reed publicly across the Nation for the enactment of Executive Order 7080, claiming that it to be an overreach of the Executive Branch, and the start of the slide into tyranny. Huey Long has gone so far as to have vowed to not follow any law that 'Dictator Reed' wishes to impose upon America. Long followed up by comparing President Reed to Vladimir Lenin, almost gloating that Reed would share Lenin's fate."
 ustates.44.a:0 "Shut Up Long"
 
-ustates.45.t:0 "Executive Order 7089"
+ustates.45.t:0 "행정명령 7089호"
 ustates.45.d:0 "Directing the Secretary of Commerce to Temporarily Take Possession of and Operate the Facilities of Certain Financial Companies\n\nThe inability to deal with the Great Depression had been the death of two major parties, and it would be the death of the SPA unless Reed acted quickly and decisively. Believing that the corrupt financial sector was primarily responsible for creating and prolonging the Depression, Reed has moved to nationalize the banks of Wall Street to force them to act in the public, rather than the private, good. A filibuster by Senator Roosevelt has forced Reed to resort to an Executive Order, appealing yet again to national security. While popular with the lower classes, many fear that Reed is drunk on his power, and well on his way to declare himself a tyrant."
 ustates.45.a:0 "The Rich shall now pay!"
 
@@ -985,7 +985,7 @@ ustates.46.t:0 "The Supreme Court Hears Challenges to Reed's Executive Orders"
 ustates.46.d:0 "The Supreme Court has allowed the first challenge to Executive Order 7089, Standard Oil of California vs. Paul Mattick, to be heard. This case is brought by Paul Mattick to argue that Standard Oil's monopolistic power has overtaken democratic power. The accusation of Standard Oil bribing the Boston City Council is being taken very seriously. The nation waits to see if Reed's power will be checked, or whether the SPA will continue to enact their agenda in defiance of the Senate."
 ustates.46.a:0 "Damn Reactionaries"
  
-ustates.47.t:0 "Executive Order 7100" 
+ustates.47.t:0 "행정명령 7100호" 
 ustates.47.d:0 "Directing the Secretary of the Interior to Temporarily Take Possession of and Operate the Facilities of Certain Mining Companies\n\nThe belief that public land was a public good is essential to most left-leaning parties, and the flagrant abuse of public land by mining companies had long been a source of deep bitterness for the environmentally minded. To most of Reed's cabinet, it was clear that private mining companies would be entirely unable to balance the needs of the public with their greed, and moved to nationalize the drilling and mining companies, included Standard Oil, whose case against Executive Order 7089 was still pending. This has been seen by many as an unsporting attack against a political rival, and further confirmation that Reed wishes to turn America into a Syndicalist state like the Commune of France or the Union of Britain."
 ustates.47.a:0 "America's Resources belong to the People!"
 
@@ -1064,7 +1064,7 @@ ustates.64.a:0 "America is One Nation Indivisible!"
 
 ustates.65.t:0 "Olson Deals with Reed's Strike"
 ustates.65.d:0 "Ending the strike that was launched by the CSA was one of the first priorities of the new President. Olson considered negotiation to be the best alternative but many believed a strong approach was necessary. Olson's cabinet, however, sees negotiations as political suicide, as the coalition was formed partially in order to bypass having to directly deal with the IWW."
-ustates.65.a:0 "Negotiations are for the best"
+ustates.65.a:0 "협상이 먼저다."
 ustates.65.b:0 "Negotiations are pointless"
 
 ustates.66.t:0 "Olson and Reed Sit Down in Chicago"
