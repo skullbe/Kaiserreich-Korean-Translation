@@ -141,7 +141,7 @@ CSA_social_revolution6:0 "사회 혁명"
 ### Tooltips ####
 CSA_help_determine_red_guard_reforms:0 "국방군의 성향을 결정하는 데 도움이 될 것입니다."
 CSA_reform_the_guards_tooltip:0 "우리는 국방군을 개혁할 것입니다. 그들의 성향은 이전의 결정에 의해 결론지어질 것입니다." 
-CSA_help_determine_red_army_reforms:0 "인민 해방군의 성향을 결정하는 데 도움이 될 것입니다." 
+CSA_help_determine_red_army_reforms:0 "인민해방군의 성향을 결정하는 데 도움이 될 것입니다." 
 CSA_create_the_pla_tooltip:0 "인민해방군을 창설할 것입니다. 그들의 성향은 이전의 결정에 의해 결론지어질 것입니다."
 CSA_huanting_spectre_tooltip:0 "§G우리는 아메리카 전역에 사회주의를 퍼트릴 것입니다.§!"
 CSA_international_industry_tooltip:0 "§G우리는 아메리카 전역의 생디칼리즘 국가의 산업화를 지원하는 프로그램을 시작할 것입니다.§!"
@@ -176,7 +176,7 @@ CSA_expand_revolution_colombia:0 "콜롬비아 해방"
 
 
 
-CSA_international_decisions:0 "인터내셔널에서 미국"
+CSA_international_decisions:0 "인터내셔널에서의 미국"
 CSA_international_decisions_desc:0 "미국이 인터내셔널에 가입했기 때문에, 우리는 인터내셔널에 전적으로 기여할 수 있고, 인터내셔널에서 우리의 의무를 수행할 수 있을 것입니다."
 
 CSA_Join_Phalanstere:0 "팔랑스테르 참여"
@@ -279,13 +279,13 @@ CSA_councilism_desc:0 "미국의 낡은 관료제를 유지하는 것은 좋지 
 CSA_federalism:0 "연방주의"
 CSA_federalism_desc:0 "비록 구 미국이 정치적 부패와 게리멘더링 그리고 비효율적 행정 조직의 원산지였지만, 그 행정 체제는 우리 국가의 정체성의 초석이었죠. 우리는 우리 시민들이 가진 주에 대한 애정을 파괴할 수 없습니다. 대신 우리는 주의 오래된 결함을 조정 할 수 있을 것입니다."
 CSA_power_to_the_people:0 "인민들에게 권력을!"
-CSA_power_to_the_people_desc:0 "아마 우리 역사 초기에는 진정한 민주주의가 번영했을 것입니다. 탐욕스러운 자본가와 부패한 정치인들 간의 연관으로 인해 자유가 허상이 되지 않고 말이죠. 이제 진정한 직접 민주주의적 통치 수단을 통해 새로운 연방을 직접 이끌 수 있게 되었습니다. 우리는 이러한 약속을 헌법 조항에 써 넣어서 영원히 유지할 것입니다."
+CSA_power_to_the_people_desc:0 "아마 우리 역사 초기에는 진정한 민주주의가 번영했을 것입니다. 탐욕스러운 자본가와 부패한 정치인들에 의해 허상이 되어버린 자유가 아닌 진정한 자유 말입니다. 이제 진정한 직접 민주주의적 통치 수단을 통해 새로운 연방을 직접 이끌 수 있게 되었습니다. 우리는 이러한 약속을 헌법 조항에 써 넣어서 영원히 유지할 것입니다."
 CSA_federalist_economics:0 "연방주의자 경제정책"
-CSA_federalist_economics_desc:0 "많은 노조 연맹의 성직자들은 시장 사회주의에 대해서 ‘혁명을 배반한다고’ 생각합니다. 하지만 그들이 착각하는 것은 미국의 자본주의 역사는 200년이 넘는다는 것이죠. 우리는 사회주의로 이행하기 위한 과도기적 경제 체제가 필요합니다. 그래서 의회는 한계 비용을 맞추기 위한 가격 조정을 권장하는 법안을 통과시켰습니다."
+CSA_federalist_economics_desc:0 "많은 노조 연맹의 성직자들은 시장 사회주의에 대해서 '혁명을 배반한다고' 생각합니다. 하지만 그들이 착각하는 것은 미국의 자본주의 역사는 200년이 넘는다는 것입니다. 우리는 사회주의로 이행하기 위한 과도기적 경제 체제가 필요합니다. 그래서 의회는 한계 비용을 맞추기 위한 가격 조정을 권장하는 법안을 통과시켰습니다."
 CSA_mutualism:0 "상호주의"
 CSA_mutualism_desc:0 "프루동의 이론인 상호주의는 우리들의 개혁을 실행할 초석이 되어줄 것입니다. 우리는 우리 노동자들의 노동을 롱 같은 사람이 지정한 가치에 따라서 결정하는 것이 아니라 그들의 노력에 따라서 공정하게 평가할겁니다. 평의회는 이에 동의했고, 또한 자산 규제를 푸는 법안과 자유로운 유대 계약을 할 수있게 하는 법안을 통과시켰습니다."
-CSA_workers_cooperatives:0 "노동자 협동조합“
-CSA_workers_cooperatives_desc:0 "노동조합의 지배는 기업의 죽음을 의미하는 것이 압니다. 우리는 단순히 불공정한 이익을 추구하는 사업자를 쫒아내는 것을 원할 뿐입니다. 대신에 노동자들이 그들의 작업장을 운영하고 거기서 나오는 부를 그들 스스로 공정하게 분배할 것입니다."
+CSA_workers_cooperatives:0 "노동자 협동조합"
+CSA_workers_cooperatives_desc:0 "노동조합의 지배는 기업들의 종말을 의미하는 것이 아닙니다. 우리는 단순히 불공정한 이익을 추구하는 사업자를 쫒아내는 것을 원할 뿐입니다. 대신에 노동자들이 그들의 작업장을 운영하고 거기서 나오는 부를 그들 스스로 공정하게 분배할 것입니다."
 CSA_social_dividends:0 "사회적 분배"
 CSA_social_dividends_desc:0 "평의회는 기본 소득제 도입하는 법안을 통과시켰습니다. 국영기업에서 나오는 모든 이윤의 일부를 시민들에게 분배 될 것입니다. 우리 노동자들이 단순한 수동적 존재가 아니라 우리 국가의 운영을 주시하는 존재입니다. 그렇기 때문에 그들은 미국의 공공 자산의 일부를 받을 자격이 있습니다."
 CSA_public_owned_enterprise:0 "대중이 보유한 기업"
@@ -301,7 +301,7 @@ CSA_workers_self_managment_desc:0 "평의회의 위대한 목표는 미국 직�
 CSA_industrial_democracy:0 "산업 민주주의"
 CSA_industrial_democracy_desc:0 "민주주의는 미국의 정체성 그 자체입니다. 그러나 공장의 문 앞에서는 민주주의는 마치 하찮은 잎 마냥 남아있었고, 그로 인해 미국인들이 작은 독재자들의 노예가 되었습니다. 이제 더 이상 이런 일은 없을 것입니다. 평의회는 민주적인 목표를 위해서 노동조합 간에 협력을 촉진할 새로운 산업 민주주의 위원회를 설립했습니다."
 CSA_agricultural_unions:0 "농업 조합"
-CSA_agricultural_unions_desc:0 "농업 부분은 우리 국가를 먹일 책임이 있습니다. 그러나 광범위한 지침 외에는 농민들이 스스로 경작 할 수 있게 허락할 겁니다. 평의회는 농경지대를 탈 규제할 것입니다. 자발적인 결심만이 강제 집산화나 쿼터을 넘는 진정한 사회주의를 가져 올 것입니다."
+CSA_agricultural_unions_desc:0 "농업 부분은 우리 국가를 먹일 책임이 있습니다. 그러나 광범위한 지침 외에는 농민들이 스스로 경작 할 수 있게 허락할 겁니다. 평의회는 농경지대를 탈 규제할 것입니다. 자발적인 결심만이 강제 집산화나 쿼터을 넘는 진정한 사회주의를 가져올 것입니다."
 CSA_syndicalist_economics:0 "탈중앙화 계획"
 CSA_syndicalist_economics_desc:0 "정부는 도시와 국가 안에서 이웃과의 긴밀한 협력과 잘 기능되는 사회 질서를 유지하는 자립된 코뮌을 창출했습니다. 비록 이 시스템이 유토피아에 가까운 것은 절대 아니지만, 진정한 노동자의 낙원의 첫걸음이 될 것입니다!"
 CSA_protect_the_revolution:0 "혁명을 수호하라!"
@@ -353,7 +353,7 @@ CSA_state_quotas:0 "국가할당제"
 CSA_state_quotas_desc:0 "Introducing quotas makes maximum utilization of all the productive forces, men and machinery, and constantly raises the level of performance by the systematic application of scientific principles. The Committee has also created special awards for truly exemplar workers who meet quotas."
 CSA_planned_economy:0 "계획경제"
 CSA_planned_economy_desc:0 "The entire economy has been brought under a Committee approved national plan, which expresses not a hope which may or may not be realized, but a decision which experience has now proved can be fulfilled, and often even overfulfilled."
-CSA_defend_the_revolution:0 "혁명수호"
+CSA_defend_the_revolution:0 "혁명을 지켜라"
 CSA_defend_the_revolution_desc:0 "All the forces of capital and reaction are conspiring to destroy the new order. We face not just a war of ideals, but a war of bloody sabotage and shady subterfuge, one that must be won at all cost. Traitors in our own midst thankfully can be prosecuted."
 CSA_revolutionary_guards:0 "혁명근위대"
 CSA_revolutionary_guards_desc:0 "Exercising our new authority in order to crush terrorists, counterrevolutionaries and traitors will require the creation of new, well-structured military and law enforcement agencies, not any wayward militias or crazed vigilantes."
@@ -364,78 +364,78 @@ CSA_create_the_cia_desc:0 "In order to defeat the class enemies of the revolutio
 CSA_purge_reactionaries:0 "반동 척결"
 CSA_purge_reactionaries_desc:0 "In no country was culture so debased by capitalism as in the United States. Essentially a gigantic effort to perpetuate the robbery of the workers. Sterile, hypocritical, lifeless. The Proletarian revolution in the United States has at once made a slash into the maze of hypocrisy and intellectual rubbish, paving the road for a glorious new America."
 ### Army Focuses ###
-CSA_peoples_national_guard:0 "붉은 국민위병"
-CSA_peoples_national_guard_desc:0 "일리노이, 펜실베이니아 그리고 오하이오 주 방위군은 미국 인민의 의지에 충성하고 있습니다. 우리는 이러한 자유의 수호자들이 전쟁에서 승리하는데 필요한 무기를 가지게 하도록 독려해야 합니다.“  
+CSA_peoples_national_guard:0 "붉은 국방군"
+CSA_peoples_national_guard_desc:0 "일리노이, 펜실베이니아 그리고 오하이오 주 방위군은 아메리카 인민의 의지에 충성하고 있습니다. 우리는 이러한 자유의 수호자들이 전쟁에서 승리하는데 필요한 무기를 가지게 하도록 독려해야 합니다." 
 CSA_artillery_support:0 “포병 지원"
-CSA_artillery_support_desc:0 "영국과 프랑스에서 혁명이 성공한 이유는 포병 때문입니다. 현대 곡사포의 설계는 새로운 혁명의 결과를 만들어 낼 것이고, 따라서 우리는 우리 대포를 현대 기준에 걸맞게 강화 시켜야 합니다.“
+CSA_artillery_support_desc:0 "영국과 프랑스에서 혁명이 성공한 이유는 포병 때문입니다. 현대 곡사포의 설계는 새로운 혁명의 결과를 만들어 낼 것이고, 따라서 우리는 우리 대포를 현대 기준에 걸맞게 강화 시켜야 합니다."
 CSA_anti_air_rockets:0 "대공 화기"
-CSA_anti_air_rockets_desc:0 "대포의 발전으로 인해 우리의 포병대에 대공 무기 배치 할 수 있게 되었습니다. 이것은 아마 우리 요격기가 도달하지 못하는 곳에서 적의 항공우위에 대항하는 중요한 무기가 될 겁니다.“
+CSA_anti_air_rockets_desc:0 "대포의 발전으로 인해 우리의 포병대에 대공 무기 배치 할 수 있게 되었습니다. 이것은 아마 우리 요격기가 도달하지 못하는 곳에서 적의 항공우위에 대항하는 중요한 무기가 될 겁니다."
 CSA_anti_tank_artillery:0 "대전차포"
 CSA_anti_tank_artillery_desc:0 "거친 지형에서 싸우는 군인들이 대전차 무기가 배치된 것에 대해 감사를 표하고 있습니다. 이러한 무기들은 풍요로웠던 적을 궁극적으로 파산으로 이끌 것입니다."
 CSA_red_rockets:0 "로켓의 붉은 화염"
-CSA_red_rockets_desc:0 "이전의 JPL 직원들이 로켓 추진식 휴대용 수류탄 발사기를 만들고 있습니다. 이것은 반동분자들이 쓰는 중화기에 대해서 효과적으로 대응 할 것입니다.“ 
+CSA_red_rockets_desc:0 "이전의 JPL 직원들이 로켓 추진식 휴대용 수류탄 발사기를 만들고 있습니다. 이것은 반동분자들이 쓰는 중화기에 대해서 효과적으로 대응 할 것입니다.'
 CSA_decentralized_command:0 "탈중앙화 명령 체계"
 CSA_decentralized_command_desc:0 "우리는 미국을 해방시키기 위한 열정적인 사령관의 지도력을 믿습니다. 그러나 우리는 적과 비슷한 자본주의적 군사 명령 체계는 반대합니다.“
 CSA_small_unit_tactics:0 "소대 전술"
 CSA_small_unit_tactics_desc:0 "프랑스 혁명 시기의 동지들이 사용한 소부대 전술은 우리에게 영감을 주고 있습니다. 우리는 반동분자들과 연방주의자들의 허를 찌르면서 그들의 보급선을 파괴 할 것입니다."
 CSA_industrial_warfare:0 "산업전"
-CSA_industrial_warfare_desc:0 "전쟁의 여파는 우리의 공장과 핵심적인 산업 노조에게까지 영향을 주게 되었습니다. 우리는 국가적으로 자본주의적 산업의 힘을 보았으며 IWW는 진정한 산업전의 필요성을 이해했습니다.“
+CSA_industrial_warfare_desc:0 "전쟁의 여파는 우리의 공장과 핵심적인 산업 노조에게까지 영향을 주게 되었습니다. 우리는 국가적으로 자본주의적 산업의 힘을 보았으며 IWW는 진정한 산업전의 필요성을 이해했습니다."
 CSA_shock_and_awe:0 "충격과 공포"
-CSA_shock_and_awe_desc:0 "아메리카 대륙에서의 참호전은 잔혹할겁니다 그리고 우리는 애팔래치아에서의 전투에서처럼 이런 전쟁은 방어자에게 유리하다는 사실을 경험했죠. 따라서 비록 우리에게 좀 더 나은 상황임에도 불구하고, 우리는 적을 후퇴시키기 위하여 매우 무거운 포탄이 필요합니다.“
-CSA_revolutionary_officers:0 “국민위병 확장"
-CSA_revolutionary_officers_desc:0 "겸손한 국민위병으로부터 수많은 지원자들이 왔고, 이들은 전쟁 할 때 해야 할 행동을 군사 훈련을 하며 알려주었다.“
+CSA_shock_and_awe_desc:0 "아메리카 대륙에서의 참호전은 필히 잔혹할 것입니다. 그리고 우리는 에팔레치아에서의 전투에서처럼 이런 전쟁은 방어자에게 유리하다는 사실을 경험했습니다. 따라서 비록 우리에게 좀 더 나은 상황임에도 불구하고, 우리는 적을 후퇴시키기 위하여 매우 무거운 포탄이 필요합니다."
+CSA_revolutionary_officers:0 "국방군 확장"
+CSA_revolutionary_officers_desc:0 "아직 규모가 작은 우리 국방군에 수많은 지원자들이 몰려들었고, 이들은 전시의 행동 지침을 군사 훈련을 통해 숙지했습니다."
 CSA_elite_units:0 "혁명 여단"
-CSA_elite_units_desc:0 "국민위병에 우리의 전문적인 군인들이 필요합니다. 이들은 좀 더 정치적으로 생디칼리즘적 사고를 하는 부대로써 복잡한 침투나 시가전을 수행할 것입니다.
+CSA_elite_units_desc:0 "국방군에 우리의 전문적인 군인들이 필요합니다. 이들은 좀 더 정치적으로 생디칼리즘적 사고를 하는 부대로써 복잡한 침투나 시가전을 수행할 것입니다."
 CSA_the_next_war:0 "다음 전쟁"
-CSA_the_next_war_desc:0 "우리 군대는 검증되었고 세계에서 가장 잘 훈련된 군대와 싸워 봤습니다. 반동 세력들이 움직이기 시작했기 때문에 언제 다음 전쟁이 터질지 확신 할 수 없습니다. 하지만 우리는 우리에게 충성스러운 미국인들이 뒤떨어진 전임자들보다 군사적인 기준에서 넘어섰다고 믿고 있습니다.“
-CSA_home_guard:0 "국토 방위군"
-CSA_home_guard_desc:0 "국민위병은 전장으로 이동 할 수 있지만, 이러한 행동은 지방의 방어선과 간극을 만들 것입니다. 따라서 우리는 국토 방위군을 조직하여서 정보를 수집하고 롱시스트들과 연방주의자들의 위협을 막아야 합니다."
+CSA_the_next_war_desc:0 "우리 군대는 검증되었고 세계에서 가장 잘 훈련된 군대와 싸워 봤습니다. 반동 세력들이 움직이기 시작했기 때문에 언제 다음 전쟁이 터질지 확신할 수 없습니다. 하지만 우리는 우리에게 충성스러운 미국인들이 뒤떨어진 전임자들보다 군사적인 기준에서 넘어섰다고 믿고 있습니다."
+CSA_home_guard:0 "향토방위군"
+CSA_home_guard_desc:0 "국방군은 유동적으로 움직이며, 이러한 행동은 지방의 방어선과 간극을 만들 것입니다. 따라서 우리는 향토방위군을 조직해 정보를 수집하고 롱주의자들과 연방주의자들의 위협을 막아내야만 합니다."
 CSA_gurillia_warfare:0 "게릴라전"
-CSA_gurillia_warfare_desc:0 "혁명 여단은 게릴라전을 수행할 준비를 끝냈습니다. 아마 니카과라의 신디노가 자원을 보호하기 위해 싸웠던 방식으로 싸우겠죠.“
-CSA_military_build_up:0 "군수산업 형성“
-CSA_military_build_up_desc:0 "IWW는 미군의 재무장 요구에 동의하면서 더 많은 양의 생산을 시작했습니다. 노동자들은 인센티브와 동기를 부여받으면서 모든 미국인들의 안전을 위한 군용 무기 생산을 늘리고 있습니다.“
+CSA_gurillia_warfare_desc:0 "혁명 여단은 게릴라전을 수행할 준비를 끝냈습니다. 마치 니카과라의 신디노가 자원을 보호하기 위해 싸웠던 방식으로 싸울 것입니다."
+CSA_military_build_up:0 "군수 산업 형성"
+CSA_military_build_up_desc:0 "IWW는 미군의 재무장 요구에 동의하면서 더 많은 양의 생산을 시작했습니다. 노동자들은 인센티브와 동기를 부여받으면서 모든 미국인들의 안전을 위한 군용 무기 생산을 늘리고 있습니다."
 CSA_rebel_girl:0 "반란 여성"
-CSA_rebel_girl_desc:0 “붉은 국민위병이나 국토 방위군에서 복무하는 여성에 대한 내부적 논쟁이 마침내 끝났습니다. 성별 간 분리가 관습인 주들에서는 붉은 국민위병이나 국토 방위군의 여성 부대는 분리 될 것입니다. 반대로 성별 간 통합을 강조하는 주에서는 부대는 통합 될 것입니다. 이것이 우리의 반란 여성들에게 싸울 기회를 제공할 가장 좋은 방법일겁니다.”
+CSA_rebel_girl_desc:0 "붉은 국방군이나 국토 방위군에서 복무하는 여성에 대한 내부적 논쟁이 마침내 끝났습니다. 성별 간 분리가 관습인 주들에서는 붉은 국방군이나 국토 방위군의 여성 부대는 분리 될 것입니다. 반대로 성별 간 통합을 강조하는 주에서는 부대는 통합될 것입니다. 이것이 우리의 반란 여성들에게 싸울 기회를 제공할 가장 좋은 방법일 것입니다."
 CSA_new_army_doctrine:0 "새로운 육군 교리"
-CSA_new_army_doctrine_desc:0 "20년 동안의 기술 변화에 직면함에 따라서 군사적 사고 역시 변화되었습니다. 따라서 우리는 적절한 교리를 선택함으로써 전장의 변화에 대응해야 합니다.“
+CSA_new_army_doctrine_desc:0 "20년 동안의 기술 변화에 직면함에 따라서 군사적 사고 역시 변화되었습니다. 따라서 우리는 적절한 교리를 선택함으로써 전장의 변화에 대응해야 합니다."
 CSA_lessons_from_the_war:0 "혁명의 교훈"
-CSA_lessons_from_the_war_desc:0 "우리 참모부는 우리 군의 전반적인 발전 방향에 대한 보고서를 제출 했고, 의회에 여러 개선안을 제안했습니다. 각 군 부대 간의 결집력 항상, 더 나은 훈련 방식, 그리고 규율 강조에 대해서 말이죠.“
+CSA_lessons_from_the_war_desc:0 "우리 참모부는 우리 군의 전반적인 발전 방향에 대한 보고서를 제출했고, 의회에 각 군 부대 간의 결집력 항상, 더 나은 훈련 방식, 그리고 규율 강조 등의 여러 개선안을 제시했습니다."
 CSA_red_rangers:0 "혁명 레인저"
-CSA_red_rangers_desc:0 "특수한 군인으로 구성된 엘리트 집단인, 혁명 레인저들은 험한 지형에서 은밀한 임무를 수행하여 적들의 보급과 사기에 타격을 줄 것입니다“
+CSA_red_rangers_desc:0 "가장 뛰어난 병사들로만 구성된 정예 부대, 혁명 레인저들은 험한 지형에서 은밀한 임무를 수행하여 적들의 보급과 사기에 타격을 줄 것입니다."
 CSA_peoples_army:0 "인민해방군"
 CSA_peoples_army_desc:0 "자본가로부터 우리를 분리하는 것은 우리가 군사 전문가과 민간인간 인위적인 장벽을 두지 않는 것입니다. 의회에 의해 승인된 인민해방군은 노예처럼 사는 미국인들과 그 가족을 사회주의 안에서 통합시킬 것입니다."
-CSA_centralized_command:0 "중앙화 된 명령 체계“
-CSA_centralized_command_desc:0 "민병대를 통한 전쟁과 규율 없는 군사적 행동은 불필요한 희생만 냈을 뿐입니다. 장병들과 민간인들을 위해서라도 우리는 반드시 우리의 군 고위 지휘부를 중앙 위원회와 함께 통합시켜야 합니다. 이를 통해 위험한 상황 속에서도 미국의 안전을 보장 할 수 있을 겁니다.“ 
+CSA_centralized_command:0 "중앙화된 명령 체계"
+CSA_centralized_command_desc:0 "민병대를 통한 전쟁과 규율 없는 군사적 행동은 불필요한 희생만 냈을 뿐입니다. 장병들과 민간인들을 위해서라도 우리는 반드시 우리의 군 고위 지휘부를 중앙 위원회와 함께 통합시켜야 합니다. 이를 통해 위험한 상황 속에서도 미국의 안전을 보장할 수 있을 것입니다."
 CSA_integrate_the_militia:0 "장교 훈련"
-CSA_integrate_the_militia_desc:0 "우리는 북부 미시간의 얼어붙은 땅에서 장교들을 육성시키기 위한 결정을 내리기로 했습니다. 비록 시설들은 웨스트포인트에 비해서 뒤떨어질지 몰라도, 우리 장교들은 다른 세련된 것보다 더 중요한 생디칼리즘적 가치를 배우게 될 것입니다.“
+CSA_integrate_the_militia_desc:0 "우리는 북부 미시간의 얼어붙은 땅에서 장교들을 육성시키기 위한 결정을 내리기로 했습니다. 비록 시설들은 웨스트포인트에 비해서 뒤떨어질지 몰라도, 우리 장교들은 다른 세련된 것보다 더 중요한 생디칼리즘적 가치를 배우게 될 것입니다."
 CSA_mobile_warfare:0 "전격전"
-CSA_mobile_warfare_desc:0 "생산 혹은 공급 부분에서 근무했던 IWW 출신의 장교들의 지식을 기반으로, 새로운 전투 방식이 우리군 교리에 포함되었고 또한 언론에 의해 ‘전격전’이라고 부르는 전술을 개발하는데 큰 도움이 되었습니다.“
+CSA_mobile_warfare_desc:0 "생산 혹은 공급 부분에서 근무했던 IWW 출신의 장교들의 지식을 기반으로, 새로운 전투 방식이 우리군 교리에 포함되었고 또한 언론에 의해 ‘전격전’이라고 부르는 전술을 개발하는데 큰 도움이 되었습니다."
 CSA_strike_first:0 "선제 타격"
-CSA_strike_first_desc:0 "자본주의에 의한 수백만 명의 죽음을 막기 위해서라도, 우리는 반드시 선제공격을 실시해야 합니다. 이 교리는 붉은 국민위병의 전투 방식에 크게 영향을 받았으며, 또한 공격에 앞서서 아군을 지원하는 공군 교리에 영향 또한 받았습니다.“ 
+CSA_strike_first_desc:0 "자본주의에 의한 수백만 명의 죽음을 막기 위해서라도, 우리는 반드시 선제공격을 실시해야 합니다. 이 교리는 붉은 국방군의 전투 방식에 크게 영향을 받았으며, 또한 공격에 앞서서 아군을 지원하는 공군 교리에 영향 또한 받았습니다."
 CSA_red_officers:0 "육군 확장"
-CSA_red_officers_desc:0 "총 참모부가 종종 불평하는 문제는 미국 전역에서 모든 군대를 효율적으로 운용 할 수 없다는 것입니다. 그래서 내놓은 해결책은 붉은 군대의 조직 규모를 키움으로써 준군사적인 관료적 요구를 인계 받는 것입니다.“
+CSA_red_officers_desc:0 "총참모부가 종종 불평하는 문제는 미국 전역에서 모든 군대를 효율적으로 운용할 수 없다는 것입니다. 그래서 내놓은 해결책은 붉은 군대의 조직 규모를 키움으로써 준군사적인 관료적 요구를 인계받는 것입니다."
 CSA_military_research:0 "군사 연구"
-CSA_military_research_desc:0 "비록 우리가 세계 최고의 대학과 학자들을 보유하고 있다고 해도, 우리는 모든 것을 다 연구 할 수 없습니다. 우리는 여러 군사 연구 중 하나를 선택해 집중할 필요가 있습니다.“
+CSA_military_research_desc:0 "비록 우리가 세계 최고의 대학과 학자들을 보유하고 있다고 해도, 우리는 모든 것을 다 연구할 수 없습니다. 우리는 여러 군사 연구 중 하나를 선택해 집중할 필요가 있습니다."
 CSA_firearm_improvements:0 "총기 개선"
 CSA_firearm_improvements_desc:0 ""
 CSA_tank_research:0 "전차 연구"
-CSA_tank_research_desc:0 "전차들 간 전투는 전장을 영원히 뒤 바꿀 것입니다. 따라서 우리는 현대 기준에 부합한 전차를 생산해야 합니다.“
+CSA_tank_research_desc:0 "전차들 간 전투는 전장을 영원히 뒤바꿀 것입니다. 따라서 우리는 현대 기준에 부합한 전차를 생산해야 합니다."
 CSA_long_term_planning:0 "장기 계획"
-CSA_long_term_planning_desc:0 "마침내, 지휘부는 우리가 가진 자원에 대한 정보를 충분히 모았습니다. 이것은 우리의 공급을 조절하여 장기간 전쟁을 수행 할 수 있게 할 겁니다. 이것은 아마 승리 할 수 있는 방법을 제공 할 뿐이지만, 결과적으로 우리를 승리로 이끌 것입니다.“
+CSA_long_term_planning_desc:0 "마침내, 지휘부는 우리가 가진 자원에 대한 정보를 충분히 모았습니다. 이것은 우리의 공급을 조절하여 장기간 전쟁을 수행 할 수 있게 할 겁니다. 이것은 아마 승리 할 수 있는 방법을 제공 할 뿐이지만, 결과적으로 우리를 승리로 이끌 것입니다."
 CSA_always_prepared:0 "항시준비"
-CSA_always_prepared_desc:0 "사회주의 국가들 중에서 우리의 아주 길고 취약한 해안선으로 인해 많은 지역들이 주요한 목표가 됩니다. 따라서 우리는 인민들이 우리 국경에 있는 수상한 함선이나 비행기를 주의를 기울이도록 유도해야 합니다.“
+CSA_always_prepared_desc:0 "사회주의 국가들 중에서 우리의 아주 길고 취약한 해안선으로 인해 많은 지역들이 주요한 목표가 됩니다. 따라서 우리는 인민들이 우리 국경에 있는 수상한 함선이나 비행기를 주의를 기울이도록 유도해야 합니다."
 CSA_logistics:0 "증앙화 된 병참 체계"
-CSA_logistics_desc:0 "중앙화 된 군대 명령 체계의 이점은 병참 체계에 대한 중앙 위원회의 전적인 지원을 군대가 받을 수 있을 때 나타납니다. 일부 우리 장군들은 중앙 위원회의 정치적 이점을 최대한 취하기 위해서 전선에 기반 한 병참 체제를 시행하기를 원합니다.“
+CSA_logistics_desc:0 "중앙화된 군대 명령 체계의 이점은 병참 체계에 대한 중앙 위원회의 전적인 지원을 군대가 받을 수 있을 때 나타납니다. 일부 우리 장군들은 중앙 위원회의 정치적 이점을 최대한 취하기 위해서 전선에 기반 한 병참 체제를 시행하기를 원합니다."
 CSA_propaganda:0 "혁명적 열정"
-CSA_propaganda_desc:0 "우리의 불타오르는 열정은 마침내 극도의 흥분으로까지 도달했습니다. 비록 일부 과도한 열광은 문제를 야기하지만, 우리는 이러한 열정을 무보수 자원 봉사를 포함한 건설적인 활동으로 돌릴 수 있을 겁니다.“
+CSA_propaganda_desc:0 "우리의 불타오르는 열정은 마침내 극도의 흥분으로까지 도달했습니다. 비록 일부 과도한 열광은 문제를 야기하지만, 우리는 이러한 열정을 무보수 자원 봉사를 포함한 건설적인 활동으로 돌릴 수 있을 것입니다."
 CSA_american_auto_unions:0 "미국 자동차 노조"
-CSA_american_auto_unions_desc:0 "자동차의 발명 이래로, 자동차는 미국인들의 삶의 일부를 차지했습니다. 그래서 우리의 강철 벨트는 지구상 다른 어떤 곳보다도 더 많은 자동차를 생산하고 있죠. 우리는 자본주의적 과실로 인해 닫은 공장들에게 새로운 활력을 주며 우리를 승리로 이끌 것입니다.“
+CSA_american_auto_unions_desc:0 "자동차의 발명 이래로, 자동차는 미국인들의 삶의 일부를 차지했습니다. 그래서 우리의 강철 벨트는 지구상 다른 어떤 곳보다도 더 많은 자동차를 생산하고 있습니다. 우리는 자본주의적 과실로 인해 닫은 공장들에게 새로운 활력을 주며 우리를 승리로 이끌 것입니다."
 CSA_motorized_offensive:0 "차량화 공세"
-CSA_motorized_offensive_desc:0 "자동차 노조들은 포드 사유지로부터 얻은 차량화 사단 위한 계획을 입수했고 그것을 공개했습니다. 이 계획은 우리가 적을 효율적으로 추격하는데 도움이 될 것입니다.“
+CSA_motorized_offensive_desc:0 "자동차 노조들은 포드 사유지로부터 얻은 차량화 사단 위한 계획을 입수했고 그것을 공개했습니다. 이 계획은 우리가 적을 효율적으로 추격하는데 도움이 될 것입니다."
 CSA_mechanized_effort:0 "기계화 노력"
-CSA_mechanized_effort_desc:0 "조셉 베럴은 오랫동안 기병대 장교로 근무했으며, 그는 전차와 차량화 부대를 현대의 기병대와 비슷하게 바꾸는 계획을 가지고 있습니다. 자동차 생산 직원, 자동차 노조 그리고 IWW가 노력한다면 아마 이 계획을 현실로 만들 수 있을 것입니다.“
+CSA_mechanized_effort_desc:0 "조셉 베럴은 오랫동안 기병대 장교로 근무했으며, 그는 전차와 차량화 부대를 현대의 기병대와 비슷하게 바꾸는 계획을 가지고 있습니다. 자동차 생산 직원, 자동차 노조 그리고 IWW가 노력한다면 아마 이 계획을 현실로 만들 수 있을 것입니다."
 CSA_mechanized_warfare:0 "기계화 전투"
-CSA_mechanized_warfare_desc:0 "현장에서, 차량에서의 결점이 발견되었습니다. 노동조합의 말에 따르면, 고무 부품들이 계약 했던 것보다 낮은 질의 합성품이었습니다. 이 문제가 개선된다면, 차량들의 신뢰성은 이제 올라 갈 것입니다.“
+CSA_mechanized_warfare_desc:0 "현장에서, 차량에서의 결점이 발견되었습니다. 노동조합의 말에 따르면, 고무 부품들이 계약 했던 것보다 낮은 질의 합성품이었습니다. 이 문제가 개선된다면, 차량들의 신뢰성은 이제 올라갈 것입니다."
 ### Air Force ###
 CSA_air_force:0 "붉은 공군"
 CSA_air_force_desc:0 "Before the war, the American Army Air Corps was, as its name suggests, little more than a branch of the Army. We must liberate the men and women who break the boundary of the earth. In this new war, we need to ensure it is independent and gets the support it needs."
@@ -540,34 +540,34 @@ csa.4.d:0 "제 6조. 시민들은 출판의 자유, 언론의 자유, 결사의 
 csa.4.a:0 "승인되었다"
 
 csa.5.t:0 "사회주의 헌법 - 사법"
-csa.5.d:0 "A question has arrived within the convention about the nature of the Judiciary. Some within the convention think that we should enshrine Judicial Independence as well as Judicial Review into the constitution. However, others point out that the Courts have long been used as a tool against the people and the workers and thus to prevent that from happening again should be under government control. What shall be decided?"
-csa.5.a:0 "Enshrine Judicial Review and Independence"
-csa.5.b:0 "Enshrine Government control of the Judiciary"
+csa.5.d:0 "이윽고 회의에서는 사법부의 특성에 대한 쟁점이 생겨났습니다. 회의 내 일각에서는 사법부는 헌법에 대한 위헌 법률 심사권 뿐만 아니라 독립성 역시 보장받아야만 한다고 주장합니다. 하지만, 다른 이들은 사법부가 오랜 시간동안 국민과 근로자들을 착취하기 위한 도구로 사용되어왔다는 점을 지적하며, 이런 일이 다시 일어나는 것을 막기 위해서는 사법부가 행정부의 통제 하에 있어야만 한다고 주장합니다. 어떤 결정을 내려야 하겠습니까?"
+csa.5.a:0 "위헌 법률 심사권과 독립성을 명문화하라"
+csa.5.b:0 "사법부에 대한 행정부의 통제권을 명문화하라"
 
 csa.6.t:0 "사회주의 헌법 - 경제"
-csa.6.d:0 "Article 15. The foundation of the economic system of America is socialist ownership of the means of production in the form of public property, belonging to all the people, and collective farm-and-co-operative property.\n\nArticle 16. All mineral and other wealth underground, the waters, including mineral and medicinal waters, the sources of natural power, the means of rail and air transport, the posts, telegraphs, telephones and broadcasting are public property.\n\nArticle 17. The Land Belongs to those who cultivate it. The property of collective farms and other co-operative organizations, and of their joint undertakings, comprises the means of production and other assets which they require for the purposes laid down in their rules. The land held by collective farms is secured to them for their free use in perpetuity.\n\nArticle 18. Private property and private initiative in economy are guaranteed. The inheritance of private property is guaranteed. The right of inheritance is regulated by law. No person is permitted to use the right of private property to the detriment of the people's community. The existence of private monopolist organizations, such as cartels, syndicates, trusts and similar organizations created for the purpose of dictating prices, monopolizing the market and damaging the interests of the public economy, is forbidden. Private property may be limited or expropriated if the common interest requires it, but only in accordance with the law. It will be determined by law in which cases and to what extent the owner shall be compensated. Under the same conditions individual branches of national economy or single enterprises may be nationalized by law if the common interest requires it."
+csa.6.d:0 "제 15조. 미국의 경제 체제의 근간은 모든 국민이 소유권을 가지는 공공 자산 형태의 생산수단에 대한 사회주의적 소유와 협동농장의 재산이다.\n\n제 16조. 지하의 모든 광물과 타 지하자원, 광산수와 약용수를 포함하는 수자원, 천연전력의 공급원, 그 어떠한 형태의 철도 및 항공 운송 수단, 우편물, 전신, 전화 및 방송은 공공 자산으로 한다.\n\n제 17조. 토지의 소유권은 해당 토지를 경작하는 자에게 부여된다. 협동농장과 기타 협동조합 및 이들이 공동으로 운영하는 자산은 생산 수단 및 규정된 목적을 달성하기 위해 필요한 기타 자산으로 구성된다. 협동농장 명의로 소유된 토지의 소유권은 항구적으로 보장된다.\n\n제 18조. 경제적인 사유 재산과 민간 사업의 자유는 보장된다. 사유 재산 상속의 자유는 보장된다. 상속권에 대해서는 법률로 규정한다. 누구도 개인에게 보장된 사유 재산의 권리를 인민 공동체에 피해를 가하기 위해 사용할 수 없다. 물가를 조작하고 시장을 독점하고 공공 경제의 이익을 손상시키기 위해 만들어진 카르텔, 신디케이트, 트러스트 및 이와 유사한 조직의 존재는 금지된다. 사적 재산은 공공의 이익을 위해 필요한 경우 제한되거나 징수될 수 있지만, 이는 오로지 법률에 의해서만 이루어진다. 해당 경우에 원 소유주가 받아야 하는 손해 배상의 가치는 법률로 규정한다. 같은 조건 하에서 국가 경제 또는 단일 기업의 특정 부분은 공공의 이익을 위해 필요한 경우 법률에 의해 국유화될 수 있다."
 csa.6.a:0 "승인되었다"
 
 csa.7.t:0 "사회주의 헌법 - 의회와 대통령"
-csa.7.d:0 "The convention is debating about where the real strength of the government should lay, congress or the president. While both would be directly elected by the people, one branch will be the driving branch and where the policy is decided on. Which should it be?"
-csa.7.a:0 "The Constitution favors Congress"
-csa.7.b:0 "The Constitution favors president"
+csa.7.d:0 "헌법 제정 회의는 이제 의회 또는 대통령 중 정부의 실질적인 권력이 어디에 부여되어야 할지를 놓고 논쟁하고 있습니다. 두 선택지 모두 국민에 의해 직접 선출되는 것은 같으나, 선택받은 한 쪽이 정책을 결정하는 데 주도권을 잡게 될 것입니다. 어느 쪽을 선택해야 하겠습니까?"
+csa.7.a:0 "헌법은 의회의 편을 든다"
+csa.7.b:0 "헌법은 대통령의 편을 든다"
 
 csa.8.t:0 "사회주의 헌법 - 권력 집중 혹은 권력 분산"
-csa.8.d:0 "The convention is debating the strength of the central government. Something that the government should be strong to protect the rights of workers and to make sure that nothing like that the Great Depression happens again while others are arguing that what we should be strengthening are the local government and not having most of the power in the hands of the central government. Many delegates from the Industrial Unions have pushed for decentralization, insisting 'only decentralization saves us from dictatorship'. A surprisingly strong minority in the Craft Unions have come out in favor of centralization in order to 'protect the dignity of skilled labor from mob rule."
-csa.8.a:0 "분산형 정부"
-csa.8.b:0 "중앙집권 정부"
+csa.8.d:0 "헌법 제정 회의는 이제 중앙 정부의 힘에 대해 논쟁하고 있습니다. 정부가 노동자들의 권리를 최대한 보호하고 대공황과 같은 일이 다시는 발생하지 않도록 하기 위해 지방 정부의 권한을 강화해 중앙 정부가 대부분 쥐고 있는 권력을 분배해야 한다는 주장이 나온 것입니다. 많은 산업 노조의 대표들은 '분권화만이 우리를 독재에서 구해준다'고 주장하며 분권화를 추진해 왔습니다. 반면 '군중의 지배로부터 숙련된 노동자들의 존엄성을 지키기 위해' 중앙집권화에 찬성하는 각 직업별 노조들이, 비록 소수 집단이기는 하나 놀랍도록 강력한 주장을 들고 맞섰습니다."
+csa.8.a:0 "권력 분산 정부"
+csa.8.b:0 "중앙 집권 정부"
 
 csa.9.t:0 "사회주의 헌법 - 수도"
-csa.9.d:0 "One of the last things to be decided is the capital of America. While Many are advocating for Washington DC as the capital as it was the old capital and it easily fits that purpose. Others are advocating for Chicago, Philadelphia, and New York City. What shall the convention choose? "
+csa.9.d:0 "결정될 마지막 사안 중 하나는 바로 미국의 수도입니다. 많은 사람들이 오랜 수도, 워싱턴 DC를 옹호하고 있으며 이는 이해하기 어렵지 않습니다. 한편 다른 이들은 각각 시카고, 필라델피아, 뉴욕을 지지하고 있습니다. 회의에서는 어느 도시를 선택해야 합니까?"
 csa.9.a:0 "워싱턴. DC"
 csa.9.b:0 "시카고"
 csa.9.c:0 "필라델피아"
 csa.9.e:0 "뉴욕"
 
-csa.10.t:0 "Constitutional Convention has concluded"
-csa.10.d:0 "The Constitutional Convention has finally come to an end and the new Constitution of America has been written. However, despite this, now comes the real work of rebuilding the country."
-csa.10.a:0 "Long live the Workers of America!"
+csa.10.t:0 "헌법 제정 회의가 막을 내렸습니다"
+csa.10.d:0 "마침내 헌법 제정 회의가 끝나고 미국의 새 헌법이 제정되었습니다. 하지만 이것에도 불구하고, 이제 우리 국가를 재건하기 위한 진정한 고난이 다가오고 있습니다."
+csa.10.a:0 "아메리카의 노동자들 만세!"
 
 csa.11.t:0 "The Interim President"
 csa.11.d:0 "At the final day of the Congress, John Silas Reed, better known as Jack Reed announced that he would step down as leader of the country. Announcing that his health has been deteriorating due to the stress of guiding the revolution and that he wishes to spend his final days with his wife, Louise Reed, and his daughter. More-over he emphasized that his role was to see the country through to the revolution, but a new leader needs to lead it now. So, while the country prepares for a proper election, whom shall become the interim president?"
