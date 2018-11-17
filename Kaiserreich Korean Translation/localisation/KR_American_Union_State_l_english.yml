@@ -169,17 +169,17 @@ TEX_war_plan_grey2:0 "회색 전쟁 계획 - 선전포고"
 TEX_war_plan_tan1:0 "황갈색 전쟁 계획 - 금수조치"
 TEX_war_plan_tan2:0 "황갈색 전쟁 계획 - 선전포고"
 
-TEX_war_plan_purple1:0 "자주색 전쟁 계획 - 금수조치"
-TEX_war_plan_purple2:0 "자주색 전쟁 계획 - 선전포고"
+TEX_war_plan_purple1:0 "진보라색 전쟁 계획 - 금수조치"
+TEX_war_plan_purple2:0 "진보라색 전쟁 계획 - 선전포고"
 
-TEX_war_plan_violet1:0 "자색 전쟁 계획 - 금수조치"
-TEX_war_plan_violet2:0 "자색 전쟁 계획 - 선전포고"
+TEX_war_plan_violet1:0 "보라색 전쟁 계획 - 금수조치"
+TEX_war_plan_violet2:0 "보라색 전쟁 계획 - 선전포고"
 
 TEX_war_plan_brown1:0 "갈색 전쟁 계획 - 금수조치"
 TEX_war_plan_brown2:0 "갈색 전쟁 계획 - 선전포고"
 
-TEX_war_plan_lavender1:0 "라벤더색 전쟁 계획 - 금수조치"
-TEX_war_plan_lavender2:0 "라벤더색 전쟁 계획 - 선전포고"
+TEX_war_plan_lavender1:0 "연보라색 전쟁 계획 - 금수조치"
+TEX_war_plan_lavender2:0 "연보라색 전쟁 계획 - 선전포고"
 
 
 
@@ -602,11 +602,11 @@ unionstate.9.b:0 ""
 
 ### Huey Long Flavor ###
 
-unionstate.10.t:0 "[GetYear]년의 대통령 선거"
+unionstate.10.t:0 "[GetYear]년 대통령 선거"
 unionstate.10.d:0 "올해의 선거에서 [TEX.GetLeader]은(는) 선두를 달리고 있으며 반드시 재선출될 것입니다."
 unionstate.10.a:0 "대통령은 재선출된다"
 
-unionstate.11.t:0 "찰스 코글린 교체?"
+unionstate.11.t:0 "찰스 코글린을 교체해야할까요?"
 unionstate.11.d:0 "The years of service to America has worn Father Charles Coughlin down. In between his radio shows, Social Justice publications, he rarely has time to promote Share Our Wealth Societies. This coupled with his increasing emotional instability has led to this day. President Long, while silent on this issue, sympathizes with the Jewish citizens for whom Coughlin has made their lives very difficult. We must retire Coughlin, but who should replace him? The calmer preacher Billy Graham? Huey's old running mate William Lemke? Or up-and-coming Longist Rush Holt Sr.?"
 unionstate.11.a:0 "Billy Graham"
 unionstate.11.b:0 "William Lemke"
@@ -864,8 +864,8 @@ unionstate.64.d.mexico:0 "The existence of American refugees in Mexico has gener
 unionstate.64.d.haiti:0 "Haiti has always portrayed themselves as the second home for African-Americans. A common story to tell was that the first Haitian was a refugee of Ethiopia that ran with such force that he only stopped when he fell into Haiti. Now we see this again coming out of the USA. The sinister Pelley should not have the right to do this to American people! We feel the refugees outrage, at the same time we struggle to determine whether our fragile economy can handle a labor surplus of this magnitude."
 unionstate.64.d.cuba:0 "Just a 300 mile boat trip separated the thousands of American refugees from Cuba. Families in Cuba have been calling for months to their families to escape the very real threat of a nationalist takeover. None of them anticipated that the bottleneck in Florida would be opened all at once, causing hundreds of boats to show up at Varadero today. The flood of refugees from America has clogged up our ports, tied up or landlines, and put strain on the government ministry to respond. What should be our answer?"
 unionstate.64.d.hawaii:0 "An incredible amount of the Pacific separated us from the carnage in America, as well as the hand of that monster Pelley. We can only keep such good tabs on the so-called Commonwealth because trade with them is good, and now those trading ships have stowaways. These arrivals tell tales of burning towns and rampant pillaging by the Silver Legion that forced them to evacuate the continent to Hawaii. We may have issues handling the immigration process from a legal standpoint as well, so we must decide the fate of these American passengers. "
-unionstate.64.a:0 "You are welcome to stay"
-unionstate.64.b:0 "We do not want you"
+unionstate.64.a:0 "머물러도 좋다"
+unionstate.64.b:0 "우린 원치않는다"
 
 unionstate.65.t:0 "펠리 수령이 사망하다, 제랄드 스미스가 수령을 선언하다"
 unionstate.65.d:0 "Church bells around the country rang out today announcing the loss of Chief William Pelley to stress. Many of those bells were ringing in the ghettoes and reservations by the starving Americans hoping that Pelley's death would bring relief. These hopeful millions were scorned when the Vice Chief Gerald L.K. Smith announced at the funeral that he would serve as Chief in Pelley's stead until his Judgement Day. Despite this show of strength, American expats around the world cheer for the dictator's death and have pressed for condemnation of Chief Smith's continued Silver Legion regime in America."
