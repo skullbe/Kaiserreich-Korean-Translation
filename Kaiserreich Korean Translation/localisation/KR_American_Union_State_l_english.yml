@@ -121,15 +121,15 @@ TEX_civil_war_decisions_desc:0 "우리는 미국의 미래를 위해 싸웁니�
 
 TEX_reconstruction_decisions:0 "재건 결정"
 TEX_reconstruction_decisions_desc:0 "내전이 끝남에 따라 국가를 재건하고 미국을 다시 위대하게 되돌릴 때가 왔습니다. "
-TEX_rebuild_new_england:0 "뉴 잉글랜드 재건"
+TEX_rebuild_new_england:0 "뉴잉글랜드 재건"
 TEX_rebuild_the_pacific_coast:0 "태평양 연안 재건"
-TEX_rebuild_rockies:0 "로키산맥 재건"
+TEX_rebuild_rockies:0 "로키 산맥 재건"
 TEX_rebuild_the_west:0 "서부 재건"
 TEX_rebuild_the_steel_belt:0 "러스트 벨트 재건"
 TEX_rebuild_the_south_atlantic:0 "남부 대서양 연안 재건"
 TEX_rebuild_the_south:0 "남부 재건"
 
-TEX_demand_new_england:0 "뉴 잉글랜드 반환 요구"
+TEX_demand_new_england:0 "뉴잉글랜드 반환 요구"
 
 TEX_expanding_the_league:0 "연맹 확장"
 TEX_expanding_the_league_desc:0 "우리는 아메리카 연맹을 확장하여 북 아메리카와 남 아메리카의 모든 국가들을 가입시켜야 합니다."
@@ -577,7 +577,7 @@ unionstate.4.d:0 "워싱턴 D.C에서 저녁 만찬을 가진 후, 휴이 롱은
 unionstate.4.a:0 "생디칼리스트 새끼들은 도망가지 못한다!"
 
 unionstate.5.t:0 "야만적인 하룻밤"
-unionstate.5.d:0 "신 수도 외곽의 은색 군단 전초기지에서 특히 맹렬했던 밤의 연설 이후, 윌리엄 더들리 펠리는 살인에 찬성하며 그의 군단을 집결시켰습니다. 그날 밤 롱 대통령을 살해하려는 노골적인 의도로 대통령 관저로 향하는 무장 행진이 진행되었습니다. 다행히도 펠리는 휴이가 수도의 시민들에게 받은 지지를 과소평가했고, 제 2차 미국 내전 기념관 앞에서 총격전이 벌어졌습니다. 펠리의 부하들은 재빨리 미닛맨에 합류하기 위해 몸을 사렸고, 몇몇 미닛맨들은 은색 군단 반역자들을 오랜 동지로 인식하였습니다. 새벽까지 살아남은 은색 군단 반역자들은 체포되었고 펠리는 재판을 받기에는 정신적으로 부적합하다고 여겨져 정신병원으로 보내졌습니다. "
+unionstate.5.d:0 "신 수도 외곽의 은색 군단 전초기지에서 특히 맹렬했던 밤의 연설 이후, 윌리엄 더들리 펠리는 살인에 찬성하며 그의 군단을 집결시켰습니다. 그날 밤 롱 대통령을 살해하려는 노골적인 의도로 대통령 관저로 향하는 무장 행진이 진행되었습니다. 다행히도 펠리는 휴이가 수도의 시민들에게 받은 지지를 과소평가했고, 제2차 미국 내전 기념관 앞에서 총격전이 벌어졌습니다. 펠리의 부하들은 재빨리 미닛맨에 합류하기 위해 몸을 사렸고, 몇몇 미닛맨들은 은색 군단 반역자들을 오랜 동지로 인식하였습니다. 새벽까지 살아남은 은색 군단 반역자들은 체포되었고 펠리는 재판을 받기에는 정신적으로 부적합하다고 여겨져 정신병원으로 보내졌습니다. "
 unionstate.5.a:0 "미친 역적노무새끼들은 지옥에나 가라"
 
 unionstate.6.t:0 "장검의 밤"
