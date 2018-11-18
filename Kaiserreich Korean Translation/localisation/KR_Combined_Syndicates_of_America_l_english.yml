@@ -438,29 +438,29 @@ CSA_mechanized_warfare:0 "기계화 전투"
 CSA_mechanized_warfare_desc:0 "현장에서, 차량에서의 결점이 발견되었습니다. 노동조합의 말에 따르면, 고무 부품들이 계약 했던 것보다 낮은 질의 합성품이었습니다. 이 문제가 개선된다면, 차량들의 신뢰성은 이제 올라갈 것입니다."
 ### Air Force ###
 CSA_air_force:0 "붉은 공군"
-CSA_air_force_desc:0 "Before the war, the American Army Air Corps was, as its name suggests, little more than a branch of the Army. We must liberate the men and women who break the boundary of the earth. In this new war, we need to ensure it is independent and gets the support it needs."
-CSA_revolutionary_pilots:0 "Expand Air Ports"
-CSA_revolutionary_pilots_desc:0 "The aviation Unions have demanded that we build more AirPorts, to which the Central Committee has agreed in order to bring the revolution to victory as well as to expand our air force capabilities."
+CSA_air_force_desc:0 "전쟁 이전에, 미국군에서 공군은 육군의 한 부서였습니다. 우리는 지구에서 속박 받는 남녀인민들을 해방시켜야 하며, 따라서 이 전쟁에서 공군을 독립 보장해야하고 이들의 요구를 최대한 수용해야 합니다.“ 
+CSA_revolutionary_pilots:0 "공군기지 확장"
+CSA_revolutionary_pilots_desc:0 "항공 노동조합은 더 많은 공군기지 건설을 요구했습니다. 중앙 위원회 역시 혁명의 승리와 우리 공군 규모의 확장을 위해 이를 승인하였습니다.“
 CSA_red_eagles:0 "붉은 마녀들"
-CSA_red_eagles_desc:0 "A volunteer corps of women pilots have been found that are willing to use these cheap dual engine bombers we have. These Red Witches have demonstrated keen ability to navigate by night, and are determined to score hits against the nucleus of our enemies. "
+CSA_red_eagles_desc:0 "여성 조종수 지원자들은 우리가 가진 싸구려의 이중 엔진으로 구성된 폭격기를 발견했고, 그것을 사용하고 싶어 합니다. 이러한 붉은 마녀들은 밤에 비행기를 조종하는 능력을 보여주었고 아마 그녀들은 적의 심장부를 강타하는 존재가 될 것입니다.“
 CSA_aviation_unions:0 "항공 노조"
-CSA_aviation_unions_desc:0 "The workers of several aircraft businesses have overthrown their management and dedicated their work to the Syndicates. These ad-hoc unions easily fit into the IWW, and are a welcome ally against all reaction."
-CSA_army_air_support:0 "육군 항공 지원"
-CSA_army_air_support_desc:0 "One doctrine our theorists have been investigating is that of ground support, where the primary role of the air force is to support troops on the ground through bombing and strafing missions."
+CSA_aviation_unions_desc:0 "일부 항공기 기업에 종사하는 노동자들이 경영부를 전복하고 생디칼리즘을 위해 노동하며 헌신하고 있습니다. 이러한 노동조합들은 쉽게 IWW에 합류했고, 반동에 대한 대항한 동맹을 기꺼이 맺었습니다.."
+CSA_army_air_support:0 "육군 항공 지원“
+CSA_army_air_support_desc:0 "우리 이론가가 지상 지원 교리를 연구했습니다. 그의 말에 따르면 공군의 주요한 임무는 기총소사와 폭격으로 육군을 지원하는 것입니다.“ 
 CSA_bomber_support:0 "폭격기 지원"
-CSA_bomber_support_desc:0 "A modern force of bombers will allow us to annihilate enemy divisions without placing our own men in danger, and enable us to wreak havoc on enemy supply lines and communications."
+CSA_bomber_support_desc:0 "현대 폭격기의 힘은 우리 사람들을 해치지 않고 적을 섬멸하게 해줄 뿐만이 아니라, 적의 보급선과 통신에 큰 타격을 줄 수 있습니다.“
 CSA_air_supremacy:0 "제공권 장악"
-CSA_air_supremacy_desc:0 "Another doctrine our theorists have presented is that of aerial supremacy, where the primary objective of our pilots is to ensure that enemy planes cannot attack our troops on the ground."
+CSA_air_supremacy_desc:0 "우리 이론가의 다른 교리는 항공 우위입니다. 이에 따르면 우리 조종사들의 주된 목적은 적 항공기가 우리 지상군을 공격하지 못하게 하는 것입니다.“
 CSA_fighter_support:0 "전투기 지원"
-CSA_fighter_support_desc:0 "Modern fighter designs will allow us to sweep the enemy from the sky, giving our boys on the ground the freedom to destroy our enemies without fear of enemy bombing."
+CSA_fighter_support_desc:0 "현대 전투기들은 적을 하늘에서 치워버릴 것입니다. 이제 지상의 우리 병사들은 적의 폭격에 대한 두려움 없이 적을 공격 할 수 있을 겁니다.“
 CSA_radar:0 "레이더"
-CSA_radar_desc:0 "RADAR is a new proposal being investigated by the top minds in Chicago and Philadelphia, and promises to change the face of aerial warfare forever."
+CSA_radar_desc:0 "레이더는 필라델피아와 시카고의 최고의 인재들이 새로운 목적으로 개발 한 것입니다. 이제 이 레이더는 공중전은 크게 바뀔 것을 보장 할 것입니다.“
 CSA_expand_air_ports:0 "공항 증강"
-CSA_expand_air_ports_desc:0 "Our initial expansion of air bases has gone well, but we still need more if we are to win the war in the air. We should divert more resources to their construction at once."
+CSA_expand_air_ports_desc:0 "우리의 초기 공군기지 확장은 성공적이었습니다. 그러나 제공권을 잡기 위해서는 더 많은 기지가 필요합니다. 그래서 우리는 더 많은 자원을 항공 기지 건설에 써야합니다.“ 
 CSA_air_defense:0 "대공 방어"
-CSA_air_defense_desc:0 "The threat of invasion from sea must not end with detection. Anti-Air weapons must be deployed at strategic areas to ensure we are prepared against reactionary invasion."
+CSA_air_defense_desc:0 “바다에서부터 오는 위협은 단순한 탐지에서 끝내는 것이 아닙니다. 대공 무기들은 중요 요충지에 배치되어야 하며, 이를 통해서 반동분자들의 침략에 대비 할 수 있을 것입니다.” 
 CSA_rule_the_skies:0 "창공을 지배하라"
-CSA_rule_the_skies_desc:0 "We have triumphed over our foes, and now rule the skies of America. Aim high, fly, fight, and win!"
+CSA_rule_the_skies_desc:0 "우리는 우리의 적으로부터 승리하였고, 그로써 지금 미국의 하늘을 지배합니다. 이제 조준하고, 날고, 싸우고 이길 시간입니다.“
 ### Navy Focus ###
 CSA_navy:0 "붉은 해군"
 CSA_navy_desc:0 "The American navy was once the pride of the world. Yet much of it built upon exploited labor and positions given out in old boys’ clubs. We should review what forces have accepted the socialist call, so we can best determine how they can serve in this war."
