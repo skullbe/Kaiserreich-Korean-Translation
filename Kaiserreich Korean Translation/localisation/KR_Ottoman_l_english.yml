@@ -1420,3 +1420,7 @@ ottaxis.205.b:0 "우리는 조약을 더 이상 필요로 하지 않는다"
 ottaxis.206.t:0 "[From.GetNameDefCap]이 조약을 탈퇴하다"
 ottaxis.206.d:0 "오스만과의 전쟁 결과에 실망을 금할 수 없으며, [From.GetAdjective] 정부는 우리와 동맹을 유지할 더 이상의 목적이 없다고 결정했습니다."
 ottaxis.206.a:0 "알겠다"
+
+ottaxis.300.t:0 "Restoration of the Khedivate"
+ottaxis.300.d:0 "Ever since the British started meddling in Egypt, our grip over the region has started to wane. The abolishment of the Khedivate in 1914 and the forced abdication of our Khediv Abbas II, was nothing but a slap in the face of our Sultan and sew great distrust between ourselves, the British and the Egyptians who did nothing to aid us during the Weltkrieg.\n\nNow the tables have turned however and it is Fuad I who has been forced into exile, paving the way for the restoration of Abbas II and a new era of Otto-Egyptian cooperation."
+ottaxis.300.a:0 "Let this be a lesson to all that oppose the Sultan" 
