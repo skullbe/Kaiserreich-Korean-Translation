@@ -350,7 +350,7 @@ USA_form_ant_desc:0 "Syndicalism tore the United States asunder, and while its f
 
 USA_reconstruction_decisions:0 "미국을 재건하자"
 USA_reconstruction_decisions_desc:0 "내전이 종식됨에 따라, 우리는 내전에서 발생한 피해들을 복구하여야합니다."
-USA_rebuild_new_england:0 "뉴 잉글랜드 재건"
+USA_rebuild_new_england:0 "뉴잉글랜드 재건"
 USA_rebuild_the_south:0 "남부 재건"
 USA_rebuild_the_south_atlantic:0 "남대서양 지역 재건"
 USA_rebuild_the_steel_belt:0 "강철 벨트 재건"
@@ -781,7 +781,7 @@ USA_the_american_century_desc:0 "The great ideological struggle for world peace 
 ### Events - Pre Election ###
 
 ustates.1.t:0 "1936년 미합중국"
-ustates.1.d:0 "In 1936, the United States of America is gripped by unrelenting crisis. Although able to avoid the horrors of the Weltkrieg, which allowed its prosperity to continue well into the 1920s, German victory in the Weltkrieg, followed by the French and British Revolutions, led to the Wall Street crash of 1925. This sent the United States spiraling into the Great Depression and allowed the Berlin Stock Market to take its place at the forefront of the world economy.\n\nThe election of Herbert Hoover in 1928, while initially promising, failed entirely to reverse the decline of the American economy, and by 1936 the country had spent over a decade in the midst of the worst financial crisis it had ever seen. This fueled the rise of radical parties in America from the far-left Socialist Party of America, to the far-right America First Party. Hoover's contentious re-election by means of the House of Representatives in 1932, and the ongoing Great Depression means that these problems are unlikely to be resolved any time soon. Many throughout the country fear the upheaval that would result should one of the extreme parties come to power, or should the Depression continue unabated."
+ustates.1.d:0 "1936년의 미합중국은 위기에 처해 있습니다. 합중국은 첫 세계대전을 피해갈 수 있었고, 이는 1920년대까지 합중국이 쭉 번영하게 해주었습니다. 하지만 독일 제국의 승리와 프랑스 및 영국의 혁명이 1925년 월 가에 공황을 몰고 왔습니다. 이는 합중국을 대공황으로 몰고갔고, 베를린의 증권 시장이 대신 세계적 지위를 차지하게 되었습니다. 1928년에 이루어진 허버트 후버의 당선은 미국이 회복될 가능성을 보여주었지만, 후버도 공황을 해결하는 것은 불가능했습니다. 이는 극좌의 미국 사회당부터 극우의 미국 제일당까지 극단적인 정당이 미국에 등장하는 걸 부채질했습니다. 1932년 후버가 하원에서 재선에 성공했다는 사실과 대공황이 아직도 끝나지 않았다는 사실은 문제가 빠른 시일 내 해결되지 않으리란 걸 의미합니다. 미국 전역의 많은 사람들이 극단적인 정당이 정권을 잡는다면 혹은 대공황이 해결되지 못한다면 재앙이 터질 거라고 두려워하고 있습니다."
 ustates.1.a:0 "신이시여 미국을 구하소서"
 
 ustates.2.t:0 "검은 월요일이 미국을 강타하다"
@@ -926,26 +926,26 @@ ustates.33.a:0 "At least it's over..."
 
 ### the 1936 elections ###
 
-ustates.34.t:0 "The 1936 Presidential Election"
+ustates.34.t:0 "1936년 대통령 선거"
 ustates.34.d:0 "The results are finally in from what has probably been the most ideologically contested Presidential Election the United States has ever witnessed. None of the three major parties have secured enough votes in the Electoral College to outright win the presidency, and as a result, the House of Representatives once again has to vote on the winner of the election. This is probably not the end of our problems, but for the time being, victory goes to..."
-ustates.34.a:0 "Floyd Olson(National Unity)"
-ustates.34.b:0 "Jack Reed(Socialist)"
-ustates.34.c:0 "Huey Long(America First)"
+ustates.34.a:0 "플로이드 올슨(국민통일당)"
+ustates.34.b:0 "잭 리드(사회당)"
+ustates.34.c:0 "휴이 롱(미국 제일당)"
 
-ustates.35.t:0 "The 1936 Presidential Election"
+ustates.35.t:0 "1936년 대통령 선거"
 ustates.35.d:0 "The results are finally in from what has probably been the most ideologically contested Presidential Election the United States has ever witnessed. None of the four major parties have secured enough votes in the Electoral College to outright win the presidency, and as a result, the House of Representatives once again has to vote on the winner of the election. This is probably not the end of our problems, but for the time being, victory goes to…"
-ustates.35.a:0 "Jack Reed(Socialist)"
-ustates.35.b:0 "Huey Long(America First)"
-ustates.35.c:0 "John Nance Garner(Democrats)"
-ustates.35.e:0 "Alf Landon(Republicans)"
+ustates.35.a:0 "잭 리드(사회당)"
+ustates.35.b:0 "휴이 롱(미국 제일당)"
+ustates.35.c:0 "존 낸스 가너(민주당)"
+ustates.35.e:0 "알프 랜던(공화당)"
 
 ustates.36.t:0 "SPA Contest Election Results!"
 ustates.36.d:0 "Members of the Socialist Party of America have refused to accept the results of our free and fair election, claiming that the Electoral College system has subverted the will of the majority. Jack Reed has said as much, and called the whole of Congress reactionary for this injustice."
-ustates.36.a:0 "Damn Reed!"
+ustates.36.a:0 "망할 리드!"
 
 ustates.37.t:0 "AFP Contest Election Results!"
 ustates.37.d:0 "The America First leadership have contested the results of the election. They claim that Reed's allies have rigged the election and they demanded a recount. Huey Long even gave a mocking speech accepting the Presidency to his followers."
-ustates.37.a:0 "Damn Long!"
+ustates.37.a:0 "망할 롱!"
 
 ustates.38.t:0 "Hoover Criticizes the President"
 ustates.38.d.reed:0 "Herbert Hoover was vocal after the election and openly criticized Reed and the SPA as being unfit to lead the country. Hoover has encouraged the Republicans and Democrats to form an alliance to curb Reed and the SPA."
