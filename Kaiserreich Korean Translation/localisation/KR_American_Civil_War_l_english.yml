@@ -127,14 +127,14 @@ amcivwar.9.a:0 "이건 아니야…"
 ### Set Up Events - Olson ###
 
 amcivwar.11.t:0 "휴이 롱이 미주 연합을 선포하다"
-amcivwar.11.d.nothing_is_done:0 "The violence in St. Louis was just the spark that was needed for Huey Long to declare on the radio that President Olson was a traitor and a conman, intent on selling out the American people to the bankers and the syndicalists, and that he and Reed must be fought to preserve the American way of life."
-amcivwar.11.d.revolt_against_compromise:0 "The compromise attempt has failed and with its failure, America has been broken. Huey Long has declared on the radio that the corrupt President Olson and the tyrannical Reed both must be stopped for the good of America, and has called for all Americans to rise up against them. "
-amcivwar.11.d.assassination_long:0 "The assassination attempt against Huey Long has been foiled, and worse, the involvement of the Federal Government has been made public. This is all the justification the AFP needed. Long has denounced President Olson and Jack Reed as traitors and tyrants, and has rallied his supporters to defend their way of life against their Tyranny"
+amcivwar.11.d.nothing_is_done:0 "세인트루이스에서의 폭력사태는 휴이 롱이 라디오를 통해 올슨 대통령은 은행가들과 생디칼주의자들에게 미국민을 팔려고 시도한 역적이자 매국노이며, 올슨과 리드에 대항해 미국인의 삶을 지켜내야 한다고 선언하게 만들었습니다."
+amcivwar.11.d.revolt_against_compromise:0 "협상 시도의 실패와 함께 미국은 박살이 났습니다. 휴이 롱은 라디오를 통해 부패한 올슨 대통령과 꼴통 리드 둘 다 미국을 위해 멈춰져야 한다고 선언하고 모든 미국인들이 그들에 대항해 봉기할 것을 요청했습니다."
+amcivwar.11.d.assassination_long:0 "휴이 롱에 대한 암살 시도는 좌절되었고, 운이 나쁘게도 암살에 대한 연방 정부의 개입이 공개되었습니다. 이 사건은 제일당의 행동에 정당성을 심어주었습니다. 롱은 올슨 대통령과 잭 리드를 역적이자 폭군이라고 비난했으며, 그들의 폭정으로부터 롱과 그의 지지자들의 삶을 보호하기 위해 뭉쳐야 한다고 선언했습니다."
 amcivwar.11.a:0 "공화국을 지켜내자"
 amcivwar.11.b:0 "조국을 지켜내자 (미주 연합으로 플레이합니다)"
 
 amcivwar.12.t:0 "잭 리드가 2차 미국 혁명을 선포하다"
-amcivwar.12.d.nothing_is_done:0 "The violence in St. Louis was just the spark that was needed for Jack Reed to declare on the radio that President Olson was a puppet for the bourgeoise and a dishonest conman, intent on selling out the American worker to the highest bidder, and that it was time for the worker to make a stand. To this end, Reed has called for the second American Revolution."
+amcivwar.12.d.nothing_is_done:0 "세인트 루이스에서의 폭력을 계기로 잭 리드는 라디오를 통해 올슨 대통령이 부르주아에게 미국 노동자를 팔기 위한 허수아비이자 부도덕한 아첨꾼이라고 비난하며 노동자가 봉기할 때가 왔다고 선언했습니다. 끝으로 리드는 2차 미국 혁명에 동참할 것도 요청했습니다."
 amcivwar.12.d.revolt_against_compromise:0 "The compromise attempt has failed and with its failure, America has been broken. Jack Reed has announced the creation of the Combined Syndicates of America with him as president, and has vowed to free the rest of America from their capitalist overlords. "
 amcivwar.12.d.full_demands:0 "With chaos engulfing the country following the failed assassination of Huey Long, Reed has seized the moment, and has denounced the Federal Government as puppets of their capitalist masters. Secretly worried that an attempt on his own life would follow the attempt on Long's Reed has announced the creation of the Combined Syndicates of America with him as president, and has vowed to free the rest of America from their capitalist overlords. "
 amcivwar.12.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
@@ -146,7 +146,7 @@ amcivwar.13.a:0 "이건 아니야…"
 
 ### Set Up Events - Garner ###
 amcivwar.14.t:0 "롱이 미주 연합을 선포하다"
-amcivwar.14.d:0 "Huey Long has declared that President Garner is a tyrant and must be opposed. In a Radio Speech, he denounced him for being in league with the syndicalists of the SPA, and accused him of doing nothing to stop the chaos. Long has vowed to restore order and destroy the corrupt government in Washington."
+amcivwar.14.d:0 "휴이 롱은 가너 대통령은 폭군이며 이에 반대해 봉기해야 한다고 선언했습니다. 라디오 연설에서 롱은 가너를 사회당의 생디칼주의자들과 결탁했으며 혼란을 막기 위한 어떤 조치도 취하지 않았다고 비난했습니다. 롱은 워싱턴의 질서를 회복하고 부패한 정부를 파괴하겠다고 맹세했습니다."
 amcivwar.14.a:0 "공화국을 지켜내자"
 amcivwar.14.b:0 "조국을 지켜내자 (미주 연합으로 플레이합니다)"
 
@@ -162,14 +162,14 @@ amcivwar.16.a:0 "이건 아니야…"
 ### Set Up Events - Landon ###
 
 amcivwar.17.t:0 "롱이 미주 연합을 선포하다"
-amcivwar.17.d:0 "Huey Long has declared that President Landon is a tyrant and must be opposed. In a Radio Speech, he denounced him for being in league with the syndicalists of the SPA, and accused him of doing nothing to stop the chaos. Long has vowed to restore order and destroy the corrupt government in Washington."
+amcivwar.17.d:0 "휴이 롱은 랜던 대통령은 폭군이며 이에 반대해 봉기해야 한다고 선언했습니다. 라디오 연설에서 롱은 랜던이 사회당의 생디칼주의자들과 결탁했으며 혼란을 막기 위한 어떤 조치도 취하지 않았다고 비난했습니다. 롱은 워싱턴의 질서를 회복하고 부패한 정부를 파괴하겠다고 맹세했습니다."
 amcivwar.17.a:0 "공화국을 지켜내자"
 amcivwar.17.b:0 "조국을 지켜내자 (미주 연합으로 플레이합니다)"
 
 amcivwar.18.t:0 "리드가 2차 미국 혁명을 선포하다"
 amcivwar.18.d:0 "The crackdown on the Socialist Party could have only had one outcome. To protect the rights of workers across the nation, Jack Reed has announced the creation of the Combined Syndicates of America with him as president, and has vowed to free the rest of America from their capitalist overlords. "
 amcivwar.18.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
-amcivwar.18.b:0 "The rising has begun. Stand by the Workers (Play as the CSA)"
+amcivwar.18.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동 연맹으로 플레이합니다)"
 
 amcivwar.19.t:0 "제2차 미국 내전"
 amcivwar.19.d:0 "혼돈이 이 땅을 집어삼켰습니다. 미국 전역에서 시민군이 소집되었고, 전쟁의 불길이 타오르며, 부모형제가 서로 싸우면서 제2차 미국 내전이 그 막을 열었습니다."
@@ -465,14 +465,14 @@ amcivwar.76.e:0 "피닉스"
 
 amcivwar.77.t:0 "참모총장"
 amcivwar.77.d:0 "With the civil war raging all around us and the fact that we do not have a chief of Staff has prompted concern among various political and military leaders. Thus they met with [CAL.GETLeader] to appoint a Chief of Staff to win this war."
-amcivwar.77.a:0 "Henry Arnold"
+amcivwar.77.a:0 "헨리 아놀드"
 amcivwar.77.b:0 "Joseph McNarney"
 amcivwar.77.c:0 "Alexander Vandegrift"
 
 amcivwar.78.t:0 "육군 참모"
 amcivwar.78.d:0 "With the civil war raging all around us and the fact that we do not have a chief of the Army has prompted concern among various political and military leaders. Thus, they met with [CAL.GETLeader] to appoint a Chief of the Army to win this war."
 amcivwar.78.a:0 "Alexander McCarrell 'Sandy' Patch"
-amcivwar.78.b:0 "Frank Dow Merrill"
+amcivwar.78.b:0 "프랭크 도우 메릴"
 amcivwar.78.c:0 "Isaac D White"
 
 amcivwar.79.t:0 "해군 참모"
