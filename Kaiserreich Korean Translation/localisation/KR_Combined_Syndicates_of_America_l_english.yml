@@ -463,30 +463,30 @@ CSA_rule_the_skies:0 "창공을 지배하라"
 CSA_rule_the_skies_desc:0 "우리는 우리의 적으로부터 승리하였고, 그로써 지금 미국의 하늘을 지배합니다. 이제 조준하고, 날고, 싸우고 이길 시간입니다.“
 ### Navy Focus ###
 CSA_navy:0 "붉은 해군"
-CSA_navy_desc:0 "The American navy was once the pride of the world. Yet much of it built upon exploited labor and positions given out in old boys’ clubs. We should review what forces have accepted the socialist call, so we can best determine how they can serve in this war."
+CSA_navy_desc:0 "미국 해군은 세계의 자랑거리였습니다. 그러나 이 해군의 많은 부분이 노동 착취로 이루어졌고, 직위는 늙은 아이들에게 분배되었습니다. 우리는 어떤 부대가 사회주의의 혁명에 답했는지 검토해야 하고, 그리 함으로써 우리는 이 전쟁을 어떻게 수행할 수 있는지 결정 할 수 있을겁니다.“
 CSA_revolutionary_captians:0 "혁명 해병대"
-CSA_revolutionary_captians_desc:0 "Inspired by the brave sailors of the Battleship Potemkin that fought the imperialist powers of their own nation, we have dedicated a new Marine Corps. These new Marines will be able to strike at the heart of our enemies just as the Potemkin sailors did, this time with modern equipment and training."
-CSA_liberty_ships:0 "자유 함"
-CSA_liberty_ships_desc:0 "Our shipyards, previously dedicated to commercial shipping, can easily be converted to produce massive numbers of convoys to supply our allies around the world."
+CSA_revolutionary_captians_desc:0 "자국의 제국주의에 대항해서 싸운 포템킨 군함의 용감한 선원들에게 염감을 얻어서, 현대적인 장비와 훈련을 갖춘 새로운 해병대를 창설했습니다. 이 해병대는 적의 심장부를 마치 포템킨 선원들이 한 것처럼 공격 할 것입니다.“
+CSA_liberty_ships:0 "해방 선"
+CSA_liberty_ships_desc:0 "이전에 상업 선을 생산했던 우리 조선소는 전 세계에 있는 우리 동맹에게 보급을 제공할 수많은 수송선을 만들 것입니다.“
 CSA_coast_guard:0 "해안방위대"
-CSA_coast_guard_desc:0 "Restoring the Coast Guard will ensure that trade moves smoothly, criminals are stopped at sea, and those in danger are rescued."
+CSA_coast_guard_desc:0 "해안경비대의 재건은 무역을 원활하게 하고 바다에 범죄자들이 활보하는 것을 중단시키며 위험에 처한 사람을 구조하게 할 수 있을 것입니다.“
 CSA_destroy_captitalism:0 "자본주의를 파괴하라"
-CSA_destroy_captitalism_desc:0 "The capitalist powers have some of the largest ships and in order for the Revolution to be successful and survive, then we must be able to match them pound for pound. Dreadnoughts, Battleships and Carriers shall keep the workers of America safe."
+CSA_destroy_captitalism_desc:0 "자본가들은 강력한 전함을 가지고 있으며, 혁명을 성공시키고 살아남게 하기 위해서는 그들과 맞먹는 전함을 양성해야 합니다. 드레드노트나 전함 항공모함은 아마 미국 노동자들의 안전을 보장 할 것입니다.“
 CSA_battleships:0 "전함 착수"
-CSA_battleships_desc:0 "Battleships are the king of the high seas. We should start research into new models with bigger guns and better anti-air protection."
+CSA_battleships_desc:0 "전함은 공해의 왕입니다. 따라서 우리는 더 큰 주포와 더 나은 대공포를 배치 할 수 있는 새로운 모델의 전함 양성을 시작해야 합니다.
 CSA_battle_cruisers:0 "순양전함 착수"
-CSA_battle_cruisers_desc:0 "Battlecruisers present a middle balance between heavy battleships and faster cruisers. We should ensure we have some in our navy."
+CSA_battle_cruisers_desc:0 "순양전함은 고속 순양함과 중무장 전함 사이에서 균형이 맞춰진 함선입니다. 따라서 우리는 이런 전투함을 보유 할 필요가 있습니다.“
 CSA_cut_off_capitalism:0 "자본주의를 끊어내라"
-CSA_cut_off_capitalism_desc:0 "An easy way to dismantle a capitalist economy is to disrupt their international trade. We shall employ every measure to make our enemies tremble."
+CSA_cut_off_capitalism_desc:0 "자본주의 경제를 파괴하는 가장 쉬운 길은 국제 무역을 방해하는 것입니다. 우리는 적을 떨게 만드는 모든 방법을 다 강구 할 겁니다.“
 CSA_carriers:0 "항공모함 착수"
-CSA_carriers_desc:0 "Carriers are the wave of the future. We should invest in their research and construction to better project naval power."
+CSA_carriers_desc:0 "항공모함은 미래의 파도입니다. 우리는 항공모함을 더 연구하고 건조하여 더 나은 해군력을 가지는데 주력해야 할 것입니다“
 CSA_naval_avation:0 "해군 항공대"
-CSA_naval_avation_desc:0 "Naval aviation is the future of warfare on the high seas. We should ensure that our air designs are capable of being launched from carriers and destroying the enemy fleet without even endangering our own."
+CSA_naval_avation_desc:0 "해군 항공대는 공해에서 전쟁의 미래가 될 것입니다. 우리는 우리 비행기 설계 할 때, 항공모함에서부터 발진 할 수 있게 만들어서 우리를 위협에 빠트리는 일 없이 적 함선을 파괴해야 합니다.“
 CSA_submarines:0 "잠수함 지원"
-CSA_submarines_desc:0 "Submarines allow us to wreak havoc on enemy shipping and heavy ships. We should ensure that our designs stay up to date against enemy destroyers and anti-submarine tactics."
+CSA_submarines_desc:0 "잠수함은 적의 함선과 전함을 파괴시킬 수 있습니다. 우리는 우리 잠수함을 적의 구축함과 대 잠수함전에 대항할 수 있게 설계해야 합니다.“
 CSA_rule_the_waves:0 "파도를 지배하라"
-CSA_rule_the_waves_desc:0 "Following our extensive investments into naval research and construction, we have regained our place as one of the world's leading naval revolutionary powers. Anchors away!"
-### Foreign Policy ###
+CSA_rule_the_waves_desc:0 "해군 연구와 건조에 대한 우리의 투자 확대로 우리는 세계를 주도하는 혁명 해군을 재건 할 수 있었습니다. 닻을 내립시다!“### Foreign Policy ###
+### Diplomacu Focus ###
 CSA_deal_with_mexico:0 "멕시코와 거래"
 CSA_deal_with_mexico_desc:0 "When John Reed interviewed Pancho Villa in 1914, he saw a nation with a lot of promise for Socialist growth, but was under the yoke of so many masters. Now we once again visit Mexico, this time united around the syndicalist ideals."
 CSA_mexican_freindship:0 "미국-멕시코 친선"
