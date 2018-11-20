@@ -808,35 +808,35 @@ ustates.6.t:0 "올슨의 지명"
 ustates.6.d:0 "공화당, 민주당, 진보당의 지도자들과 함께 가진 세크라맨토 대규모 전당대회에서 올슨 상원의원 자신이 대통령 단일화 후보 지명을 받아들였습니다. 이 대규모 전당대회의 결과는 놀랍게도 언론과 참석자들에게 호평을 받았습니다. 이런 호평이 선거 결과로도 이어지기를 바랍니다."
 ustates.6.a:0 "이것이 우리에게 도움이 되기를 바란다"
 
-ustates.7.t:0 "연합의 분열"
+ustates.7.t:0 "연립여당의 분열"
 ustates.7.d:0 "아이오와에서 많은 진보당원들이 공화당원들과 갈등을 빚었습니다. 공화당은 진보당원들이 선거에서 승리하기 위해 필요한 사람들을 소외시켰다고 비난하는 반면 진보당원들은 공화당이 대공황을 끝내기 위해 필요한 정책을 추진하지 않는다고 비난하고 있습니다. 이 싸움은 연립여당를 분열시키고 있습니다."
 ustates.7.a:0 "공화당과 함께한다"
 ustates.7.b:0 "싸우지 말고 타협해"
 ustates.7.c:0 "진보당과 함께한다"
 
 ustates.8.t:0 "쿠엔틴 루즈벨트 지명"
-ustates.8.d:0 "올슨 상원의원을 대선 후보로 지명한 이후 정치권에서는 부통령 후보 지명에 대해 큰 관심을 갖고 논의해 왔습니다. 마침내 루즈벨트는 어제 뉴욕에서 연립당의 부통령 후보로 지명되었습니다. 그는 자신의 지명식에서 페어딜 정책이라는 계획을 통해 국가에 중대한 변화의 바람을 가져오도록 돕고 싶다고 강조했습니다. 이 계획은 사회당괴 제일당에 의해 서민들을 돕기에는 택도 없는 정책이라고 비난받았지만, 경제학자들은 이 정책이 대공황을 끝내기에는 충분할 것이라고 믿습니다."
+ustates.8.d:0 "올슨 상원의원을 대선 후보로 지명한 이후 정치권에서는 부통령 후보 지명에 대해 큰 관심을 갖고 논의해 왔습니다. 마침내 루즈벨트는 어제 뉴욕에서 연립당의 부통령 후보로 지명되었습니다. 그는 자신의 지명식에서 페어딜 정책이라는 계획을 통해 국가에 중대한 변화의 바람을 가져오도록 돕고 싶다고 강조했습니다. 사회당과 제일당은 서민들을 돕기에는 택도 없는 정책이라고 비난했지만, 경제학자들은 이 정책이 대공황을 끝내기에는 충분할 것이라고 믿습니다."
 ustates.8.a:0 "페어딜 정책을 위하여"
 
 ustates.9.t:0 "인디언 시민권 법안"
-ustates.9.d:0 "In order to gain more sympathy from the North and the West, it has been proposed by the Senate and the House that the Indian Citizenship Bill be passed, effectively elevating all indigenous peoples of the United States from second-class citizens to full citizenship. Northeastern and Western politicians in both the major parties support this, while some Southern Democrats and Northern Republicans have deemed it frivolous."
+ustates.9.d:0 "북부와 서부에서 더 많은 도움을 얻기 위해, 상원과 하원에서 인디언 시민권 법안이 통과되어 미국의 모든 토착민들을 2류 시민에서 사실상 완전한 시민으로 올려놓았습니다. 주요 정당들의 북동부와 서부 정치인들은 이것을 지지하는 반면, 일부 남부 민주당원들과 북부 공화당원들은 이것이 바보같다고 생각합니다."
 ustates.9.a:0 "법안을 통과시켜라, 아마도 우리에게 약간의 도움을 줄 것이다!"
 ustates.9.b:0 "법안을 부결시켜라"
 
-ustates.10.t:0 "The Coalition falls apart!"
-ustates.10.d:0 "The conflicts within the Coalition party have spiraled out of control and today it seems that the coalition party cannot stand together in Congress. The Republicans, Democrats and Progressives have all gone their separate ways back to their old rhetoric. The ever-present Capitol rumour mill has it that General Douglas MacArthur could save America, should either Reed or Long take over."
-ustates.10.a:0 "God save America, for nobody else can…"
+ustates.10.t:0 "연립여당의 분열!"
+ustates.10.d:0 "연립여당 내부의 갈등이 걷잡을 수 없이 번져 오늘날 연립여당은 의회에서 함께 설 수 없게 되었습니다. 공화당원들, 민주당원들, 진보당원들은 모두 각자 다른 방식으로 그들의 오래된 수사법으로 돌아갔습니다. 수도에서는 더글라스 맥아더 장군이 리드 또는 롱을 제거해야 미국을 구할 수 있을 것이라는 소문이 돌고 있습니다."
+ustates.10.a:0 "신이시여 미국을 구하소서, 다른 누구도 구할 수 없으니..."
 
-ustates.11.t:0 "Increasing Radicalization"
-ustates.11.d:0 "With the Democrats and Republicans fighting among themselves, as usual, more and more Americans are feeling alienated from the traditional big two and are flocking to the radical AFP and SPA throughout the country. The party machine of these radicals utilizes mass media to a much stronger degree than either the Republicans or Democrats. It is looking more and more like the 1936 election will come down to Reed or Long."
+ustates.11.t:0 "증가하는 급진파"
+ustates.11.d:0 "민주당원과 공화당원이 여느 때처럼 서로 싸우면서 점점 더 많은 미국인들이 전통적인 양당으로부터 소외감을 느끼고 있으며 전국적으로 급진적인 제일당과 사회당으로 몰려들고 있습니다. 이러한 급진주의자들의 정당조직은 공화당이나 민주당보다 대중매체를 훨씬 더 강하게 이용합니다. 1936년 선거 결과는 점점 더 리드 또는 롱에게로 기울 것으로 것으로 보입니다."
 ustates.11.a:0 "이거 좋지 않군"
 
-ustates.12.t:0 "Progressives flock to the SPA"
-ustates.12.d:0 "Minnesota, which has long been a bastion of the Progressive Senator Floyd Olson, has finally flipped. Many people are turning away from Senator Olson on the direction of the IWW and SPA. Various Unions have held rallies for the SPA, and attendance far outstrips our ability to counter them."
+ustates.12.t:0 "진보당원들이 사회당으로 몰려들다"
+ustates.12.d:0 "진보당 상원 의원 플로이드 올슨의 보루였던 미네소타가 마침내 뒤집혔습니다. 많은 사람들이 세계 산업 노동자 조합과 사회당 쪽으로 방향을 틀면서 올슨 상원의원을 외면하고 있습니다. 다양한 조합들이 사회당을 위해 시위를 벌였고 참가자들의 수는 우리가 대항할 수 있는 능력을 훨씬 능가했습니다."
 ustates.12.a:0 "Roll the Union on."
 
-ustates.13.t:0 "Southern Democrat voters align with the AFP"
-ustates.13.d:0 "The South has long been considered the heartland of the Democratic Party, but this may not be the case for much longer, as polls show a massive spike in voter registration for the AFP. On a radio broadcast, Huey Long spoke at length about Share Our Wealth and his plans for America. It seems that the AFP is growing stronger by the day."
+ustates.13.t:0 "남부 민주당원 유권자들이 제일당에 맞추다"
+ustates.13.d:0 "남부는 오래 전부터 민주당의 중심지로 여겨져 왔지만, 여론조사에서 제일당에 대한 유권자 등록이 크게 증가하고 있는 것을 볼 때 이는 그리 오래가지 못할 수도 있습니다. 라디오 방송에서 휴이 롱은 '우리의 부를 공유하자'와 미국을 위한 계획에 대해 상세히 말했습니다. 제일당이 날이 갈수록 더 강해지고 있는 것 같습니다."
 ustates.13.a:0 "Hurray Boys for the red white and blue"
 
 ustates.14.t:0 "맥아더가 후버에게 간언하다"
@@ -856,7 +856,7 @@ ustates.17.d:0 "대다수 주요 도시에서 미국 제일당과 사회당 지�
 ustates.17.a:0 "올해는 우리의 시간이 아니군"
 
 ustates.18.t:0 "찰스 코글린 신부와 CBS 라디오 방송"
-ustates.18.d:0 "3년 전 오늘, 찰스 코글린 신부는 미국에서 주간 라디오 방송을 시작했고, 현재 5천만 명 이상의 시청자가 있습니다. 그는 프랑스의 생디칼 혁명이 '유대인들에 의해 선동되었다'고 주장하며 베를린 증권 시장의 붕괴는 '유대인 은행가들의 국제적인 음모'라고 주장합니다. 그의 유대인 혐오 발언들을 교회는 용납하지 않을 것이며, 교황은 그런 증오스러운 메시지가 대중에게 전달되지 않도록 미국 정부에 방송을 중단하라고 요청할 것인지 여부를 결정할 것으로 예상됩니다."
+ustates.18.d:0 "3년 전 오늘, 찰스 코글린 신부는 미국에서 주간 라디오 방송을 시작했고, 현재 5천만 명 이상의 시청자가 있습니다. 그는 프랑스의 생디칼리즘 혁명이 '유대인들에 의해 선동되었다'고 주장하며 베를린 증권 시장의 붕괴는 '유대인 은행가들의 국제적인 음모'라고 주장합니다. 그의 유대인 혐오 발언들을 교회는 용납하지 않을 것이며, 교황은 그런 증오스러운 메시지가 대중에게 전달되지 않도록 미국 정부에 방송을 중단하라고 요청할 것인지 여부를 결정할 것으로 예상됩니다."
 ustates.18.a:0 "코글린은 사회악이므로 그 입을 닥치게 해야 한다"
 ustates.18.b:0 "그놈이 말하는 것은 싫지만 최소한 말할 권리는 줘야 한다"
 
@@ -957,7 +957,7 @@ ustates.39.d:0 "허버트 후버는 자신의 정치적 노선에 대한 고려�
 ustates.39.a:0 "그의 도움이 고맙군그래."
 
 ustates.40.t:0 "신년 파업"
-ustates.40.d:0 "In protest of the election results, the SPA has launched a strike on New Year’s Day which has crippled the industries of the north. Councils of Trade Unions have been set up to run the cities of the Steel Belt during the strike. The news media has demonised this to be similar to the general strike that set off the British Revolution."
+ustates.40.d:0 "선거 결과에 항의하여 사회당은 신년 파업을 시작해 북부의 산업을 마비시켰습니다. 노동조합회의는 파업 중에 스틸 벨트에 있는 도시들을 운영하기 위해 설치되었습니다. 뉴스 미디어는 이것이 브리튼 혁명을 촉발시킨 총파업과 유사하다고 불안하게 말했습니다."
 ustates.40.a:0 "문제가 될 것이다"
 
 ### Reed as President ###
@@ -1011,7 +1011,7 @@ ustates.52.t:0 "롱의 취임식"
 ustates.52.d:0 "미국의 사회적 문제들은 미국민들이 보다 급진적인 해결책으로 눈을 돌리게 했습니다; 양당 체제가 무너졌고, 휴이 P. 롱과 윌리엄 렘케는 각각 미국의 31대 대통령과 부통령으로 취임할 예정입니다. 롱은 워싱턴에서 열린 감동적인 연설에서 국민의 이익을 옹호하고 미국 서민들의 이익을 다른 누구보다 우선시하겠다고 약속했습니다. 그러나 의회에서의 제일당이 다수를 차지하지 못한 것은 상원에서 의미 있는 법안을 통과시키는 것이 - 특히 사회당 상원의원들이 미국에 해로운 것으로 보이는 어떤 법이라도 의사진행 방해하겠다고 공언하면서 - 어렵다는 것을 의미합니다."
 ustates.52.a:0 "하느님이 미국을 보우하사"
 
-ustates.53.t:0 "Executive Order 7037 Directing the Secretary of Commerce to Provide Agricultural Relief"
+ustates.53.t:0 "행정명령 7037호 상무장관에게 농업 구호를 지시"
 ustates.53.d:0 "One of Long's first acts was to provide relief for the farmers of America, thus this executive order directed the secretary of commerce. The Order enforces price controls on farm products, provides credit to the farmers and provide tariffs on grains and other cereals. Unwilling to wait to overcome the Senate filibuster, and citing the violent conflict that is going on in America, Long passed the executive order bypassing Congress entirely. While farmers across the country rejoice, many in the country denounce the Executive Order as a tyrannical act of the Executive Branch."
 ustates.53.a:0 "승인한다"
 
@@ -1023,11 +1023,11 @@ ustates.55.t:0 "반대파들이 롱을 폭군이라고 비난하다"
 ustates.55.d:0 "Though they agreed on little else, the Democrats, Republicans, and Socialists have been quick to denounce Long publicly across the Nation for the enactment of Executive Order 7037, claiming it to be an overreach of the Executive Branch, and the start of the slide into tyranny. Jack Reed has gone so far as to have vowed to not follow any law that 'King Long' wishes to impose upon America. Jack Reed has even stepped up to the podium to call Huey Long 'the American Codreanu' and waves around folders of recorded hate crimes committed by President Long's followers."
 ustates.55.a:0 "저들은 나의 대변인이 아니다!"
 
-ustates.56.t:0 "Executive Order 7048 Forbidding the Hoarding of Gold Coin, Gold Bullion and Gold Certificates"
+ustates.56.t:0 "행정명령 7048호 금화, 금괴 및 금증권 비축 금지"
 ustates.56.d:0 "'By virtue of the authority vested in me, I, Huey Pierce Long, President of the United States of America, do declare that said national emergency still continues to exist and pursuant to said section do hereby prohibit the hoarding of gold coin, gold bullion, and gold certificates within the continental United States by individuals, partnerships, associations and corporations and hereby prescribe the following regulations for carrying out the purposes of this order:' So began the executive Order that Long believed would be one of the major steps in making sure his Share the Wealth plan was a success, the end of the Gold Standard. Claiming a national security interest due to the Great Depression, Long has again bypassed congress. While popular with the lower classes and economic liberals, many fear that Long is drunk on his power, and well on his way to declare himself a tyrant. The more conservative members of the Democratic Party, which had supported Executive Order 7037, now turn against Long on economic principle."
 ustates.56.a:0 "우리는 부를 공유하는데 왜 너는 공유를 안하니?"
 
-ustates.57.t:0 "Executive Order 7048 is declared Unconstitutional"
+ustates.57.t:0 "행정명령 7048호가 위헌이라 선언되다"
 ustates.57.d:0 "In a highly publicized court case, Chief Justice Charles Evan Hughes has declared that executive order 7048 is unconstitutional. This was a narrow court case and was split 5-4 against the President. When news reached the White House, Long was fuming at the news that the Court would block the necessary reforms needed to bring prosperity back to America."
 ustates.57.a:0 "Charles Hughes has made his decision, now let him enforce it!"
 
@@ -1035,7 +1035,7 @@ ustates.58.t:0 "국회를 내쫓다"
 ustates.58.d:0 "The decision by the Supreme Court to declare his Executive order unconstitutional has made Long take an extra-legal solution. Citing Lincoln's court-packing during the Civil War as precedent, Long has asked the Senate Majority Leader to remove the filibuster for Judicial appointees, and has increased the size of the Supreme Court to 15. It is clear that Long intends to appoint 6 pro-Long justices to the branch that shall ensure that his executive orders will be constitutional. This has provoked a firestorm of protest throughout the country, even from the members of Congress that have so far remained neutral or supportive of Long."
 ustates.58.a:0 "나는 국민들의 이익을 지킨다고 분명히 말했다"
 
-ustates.59.t:0 "무정부주의계열 노조를 불법화하는 행정명령 7050호"
+ustates.59.t:0 "행정명령 7050호 무정부주의계열 노조 불법화"
 ustates.59.d:0 "Citing national concerns due to the anarchistic nature of the Combined Syndicates of America, Huey Long has passed an Executive Order that has declared them an illegal organization that seeks to overthrow the country and as such all force shall be used to oppose them. The CSA is now subject to Sedition Act of 1918, prosecuted as an anti-recruitment and vigilante group. This is also clearly aimed at the Socialist Party of America which supports them as a clear warning to stay in line."
 ustates.59.a:0 "훌륭해!"
 
@@ -1130,13 +1130,13 @@ ustates.79.t:0 "시카고에서 미국 제일당원이 노동연맹을 공격하
 ustates.79.d:0 "After Long had been forcibly removed from the meeting, an America First group calling themselves the Minutemen attacked the CSA party involved in the negotiations. An impromptu battle erupted as armed Minutemen and CSA groups clashed. The President was forced to leave the meeting and with him went any hope for a peaceful conclusion."
 ustates.79.a:0 "롱이 평화를 망쳤군!"
 
-ustates.80.t:0 "리드가 회담당을 박차고 나가다"
+ustates.80.t:0 "리드가 회담장을 박차고 나가다"
 ustates.80.d:0 "회의에 참석한 두 남자 모두를 붙들려는 올슨의 시도는 롱 진영이 CSA 노동자를 공격하면서 무산되었습니다. 도시는 공격 사태에 대한 항의로 폭발했고 리드는 회담장을 박차고 나갔습니다. 리드는 대통령의 노력에 대해 찬사를 보냈지만, 그는 롱을 대처할 수는 없었습니다. 리드가 회의를 떠날 때 CSA 민병대 무장단체들이 아메리카 제일당원들을 공격하기 시작했고 롱은 도시에서 철수해야 했습니다."
 ustates.80.a:0 "모두가 개새끼들이야!"
 
 ustates.81.t:0 "맥아더가 롱 암살을 제안하다."
 ustates.81.d:0 "맥아더는 오늘 대통령을 개인적으로 만나 충격적이고 불법적인 휴이 롱 암살 제안을 내놓았습니다. 미국 제일당 내 스파이들의 보고에 따르면, 그의 카리스마 넘치는 지도력 없이는 당 전체가 분열될 것이며, 그것이 광범위한 폭동으로 이어질 수도 있지만, 시간이 지날수록 폭동이 약해질 것이라는 점에서 조직적인 반란보다는 확실히 더 나아 보입니다. 그러나 대통령의 측근들은 이것이 정치에서 경쟁자들을 상대하는 데 있어서 치명적인 선례가 될 수 있기 때문에 이 제안을 받아들이지 말라고 경고합니다."
-ustates.81.a:0 "그렇게 하라."
+ustates.81.a:0 "하라."
 ustates.81.b:0 "너무 위험한 발상이다."
 
 ustates.82.t:0 "휴이 롱 암살 시도!"
