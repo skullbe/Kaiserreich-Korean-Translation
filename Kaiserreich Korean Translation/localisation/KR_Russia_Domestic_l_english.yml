@@ -313,29 +313,29 @@ rusd.96.d:0 "내전의 영웅이자 러시아 보수파의 비공식 지도자 �
 rusd.96.a:0 "잘 가게, 데니킨"
 rusd.96.b:0 "아무리 강한 사람이라도 언젠가는 죽는다!"
 
-rusd.961.t:0 "Anton Denikin's Succession"
-rusd.961.d:0 "With Denikin's death, many pathways are open for Russia. The legal pretender Vladimir Romanov awaits for a chance to assume power and restore her legitimate dynasty, while liberal movements argue for a restoration of the republic."
-rusd.961.a:0 "Invite Vladimir and restore the Romanovs as autocrats."
-rusd.961.b:0 "Invite Vladimir and restore the Romanovs as constitutional monarchs."
-rusd.961.c:0 "Restore the republic."
+rusd.961.t:0 "안톤 데니킨의 승계"
+rusd.961.d:0 "데니킨의 타계와 함께, 러시아에 많은 길이 열리게 되었습니다. 합법적인 왕위계승자인 블라디미르 로마노프는 권력을 차지하고 정통 로마노프 왕조를 복건시키기를 고대하고 있습니다, 반면에 자유주의 운동권은 공화국을 복원을 주장하고 있습니다."
+rusd.961.a:0 "블라디미르를 초청하여 군주로 복위시킨다."
+rusd.961.b:0 "블라디미르를 초청하여 입헌군주로 복위시킨다."
+rusd.961.c:0 "공화국을 복원시킨다."
 
 rusd.97.t:0 "보리스 스튀르메르가 사망하다"
 rusd.97.d:0 "러시아에서 가장 경험이 많은 정치인 중 한 명인 보리스 스튀르메르가 케렌스키의 암살 소식을 듣고 심장마비로 숨졌습니다. 1848년에 태어난 스튀르메르는 크림 전쟁을 기억하는 러시아에서 몇 안 되는 사람들 중 하나였습니다. 그는 러시아의 전통과 연속성의 상징이었습니다."
 rusd.97.a:0 "죽음을 기억하라."
 
-rusd.98.t:0 "Pyotr Struve dies"
+rusd.98.t:0 "표토르 스트루프 타계"
 rusd.98.d:0 "A great liberal and a proponent of the democratic system in Russia, Pyotr B. Struve, has passed away. A member of the Kadet Party and a skilled politician before, during and after the Civil War, Struve shall be remembered as one of the greatest patriots in our history."
 
-rusd.99.t:0 "Viktor L. Pokrovsky dies"
+rusd.99.t:0 "빅토르 L. 포크로브스키 타계"
 rusd.99.d:0 "One of the most prominent reactionary politicians and a staunch supporter of Baron Wrangel, Viktor L. Pokrovsky, has passed away yesterday."
 
-rusd.100.t:0 "Pavel Milyukov dies"
+rusd.100.t:0 "파블 밀유코프 타계"
 rusd.100.d:0 "A theoretician of Russian liberalism, Prime Minister of several governments and the former right hand of late President Kerensky has passed away in his manor near Nizhny Novgorod."
 rusd.100.b:0 "The liberal General Vasily G. Boldyrev will take his place as Prime Minister of Russia."
 
-rusd.101.t:0 "Vladimir Purishkevich dies"
+rusd.101.t:0 "블라디미르 푸리쉬케비치 타계"
 rusd.101.d:0 "A notable figure of the conservative movement, and perhaps the last true landowner in Russia has died yesterday in his rural estate. It is feared that his death may cause a great reshuffling on the right side of the political scene."
-rusd.101.b:0 "Felix Yusupov will replace him as Prime Minister."
+rusd.101.b:0 "펠릭스 유수포프가 그를 대신하여 총리직을 맡을 것이다."
 rusd.101.c:0 "We will have to nominate a new chairman of the committee of Ministers."
 
 rusd.1011.t:0 "A new Chairman for the Committee of Ministers"
@@ -525,7 +525,7 @@ rusd.145.a:0 "Long live Dmitri Pavlovich!"
 
 rusd.146.t:0 "끝나지 않는 교착"
 rusd.146.d:0 "The Senate, which represents the richest Russian industrialists, the old aristocracy and the Russian Church together with the Grand Duke Dmitri Pavlovich Romanov on the top of the Senate unfortunately couldn't stop the lasting crisis, which weakens Russia. The Grand Duke, who controls the country with an iron fist in a velvet glove, paid no attention to the ideas of this state authority. That's why the majority of the Senate decided to revoke the broad powers, which were given to the Duke one year ago. It seems that Dmitri Romanov has to fight for the support also against some of the senators."
-rusd.146.a:0 "Oh well"
+rusd.146.a:0 "이럴수가"
 
 rusd.147.t:0 "Honorary Residents"
 rusd.147.d:0 "Though the government of Dmitri Romanov maintained the republic, but we somehow have to encourage the most important citizens of Russia, including the former aristocrats with the additional rights, strengthening their loyalty and willingness to cooperate with us. That's why President Romanov decides to restore the tradition of the giving the “honorary resident” titles, which will give some privileges to these people in various regions and cities of Russia."
@@ -579,12 +579,12 @@ rusd.158.a:0 "Farewell Boris, farewell Boris, I'll see you in my dreams."
 
 rusd.159.t:0 "대성전"
 rusd.159.d:0 "'I'm so delighted with the events of January 1936, with the great heroic deed of the Knight, who raised with his hand the sword to kill the Devil. I believe that this struggle will be continued and our Vozhd will revenge for all these young heroes, who were cowardly killed by the lefts. This struggle must finish with our victory.' - Ivan Shmelyov, Russian conservative writer, whose unarmed son was killed by the Reds at the end of the civil war, demands that Russian government should continue to fight against the left movements, such as Left SRs and Mensheviks not only in Moscow and Petrograd, but also in the various Russian regions. Though these parties were incredibly weakened by special government measures after Savinkov's rise to power and the killing of Maria Spiridonova and Boris Kamkov, their leaders in Russian regions definitely should be arrested and even executed, if necessary."
-rusd.159.a:0 "Russia won't be a syndicalist country. Never."
+rusd.159.a:0 "러시아는 생디칼리스트 국가가 되지 않을 것이다. 절대로."
 
-rusd.160.t:0 "Purge them all?"
+rusd.160.t:0 "모두 숙청할까요?"
 rusd.160.d:0 "More than 20,000 Bolsheviks, former Soviet officials, members of the Left SR, and Menshevik party members and leaders were arrested during these past few months. 3,000 of them were already sentenced to the death and executed. But more and more people in Russia, including members of the NRPR, demand that the government should end this policy once and for all. Although Savinkov and the Supreme Privy Council have decided to cease the purges, the question still remains: should these 17,000 people be jailed or should they be executed as enemies of the state?"
-rusd.160.a:0 "Imprison them - we are not bloodthirsty Syndicalists after all."
-rusd.160.b:0 "Without them Russia will be better - purge them all!"
+rusd.160.a:0 "감옥에 투옥시켜라, 우린 피에 굶주린 생디칼리스트가 아니다."
+rusd.160.b:0 "저들이 없는게 러시아에 득이 된다, 모두 숙청해라!"
 
 rusd.161.t:0 "좌파 분리주의자의 재판"
 rusd.161.d:0 "After the end of the Russian Civil War, some of the national minorities which fought on the side of the Soviets against the White Army continued to disobey the central government, not only through acts of terrorism, but also using the opportunity to take part in the local legislative authorities, where they often found support among the left movements, such as the Mensheviks and parts of the Left SRs. This movement of local nationalists became famous as the 'Left Separatists'. Though Boris Savinkov has accepted the new national policy, which should regulate and improve the relations between Russians and the Russian minorities, including groups disloyal to Petrograd, he cannot forget about the problem of the Left Separatists, which still exist even after the proscription of the Russian Left SR party and its allies. Thanks to our Ministry of Security, the leaders, active members and terrorists from the most notorious Left Separatist movements have been arrested and their property has been nationalised."
