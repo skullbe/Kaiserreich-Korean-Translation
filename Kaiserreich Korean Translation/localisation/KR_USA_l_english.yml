@@ -1032,7 +1032,7 @@ ustates.57.d:0 "널리 알려진 법정 판결에서, 찰스 에반스 휴즈 �
 ustates.57.a:0 "찰스 휴즈가 결정을 내렸으니 이제 어떻게 하나 보자!"
 
 ustates.58.t:0 "국회를 내쫓다"
-ustates.58.d:0 "The decision by the Supreme Court to declare his Executive order unconstitutional has made Long take an extra-legal solution. Citing Lincoln's court-packing during the Civil War as precedent, Long has asked the Senate Majority Leader to remove the filibuster for Judicial appointees, and has increased the size of the Supreme Court to 15. It is clear that Long intends to appoint 6 pro-Long justices to the branch that shall ensure that his executive orders will be constitutional. This has provoked a firestorm of protest throughout the country, even from the members of Congress that have so far remained neutral or supportive of Long."
+ustates.58.d:0 "행정명령을 위헌이라고 선포한 대법원의 판결은 롱이 초법적 해결책을 취하도록 했습니다. 롱은 링컨의 남북 전쟁 중 법원 판결을 전례로 인용하면서, 상원 다수당 대표에게 사법 지명자에 대한 의사진행 방해물을 제거해 줄 것을 요청했고 대법원의 규모를 15명으로 늘렸습니다. 이는 롱을 지지하는 6명의 대법관들을 사법부에 임명하여 행정명령이 곧 헌법이 되게끔 하려는 것임이 분명합니다. 이는 전국적으로, 심지어 지금까지 중립을 유지했거나 롱을 지지하는 의원들에게서도 격렬한 항의를 불러일으켰습니다."
 ustates.58.a:0 "나는 국민들의 이익을 지킨다고 분명히 말했다"
 
 ustates.59.t:0 "행정명령 7050호 무정부주의계열 노조 불법화"
@@ -1059,7 +1059,7 @@ ustates.63.a:0 "공화국, 맥아더 그리고 민주주의에 충성을 다하�
 ### President Olson ###
 
 ustates.64.t:0 "플로이드 B 올슨의 취임식"
-ustates.64.d:0 "After his election, Olson addressed the nation. Olson called for patience and civility in these times of difficulty and that all Americans need to come together to overcome the challenges that face the nation. Reinvigorated with the news that his stomach cancer is in remission, Olson boldly strides into the White House amidst protests from both the socialists and hard liners with the promise of fixing the economy, restoring national brotherhood, and preventing political violence by any means necessary. Whether the rest of the nation would listen to the message was another story."
+ustates.64.d:0 "선거 후, 올슨은 국가를 언급했습니다. 올슨은 이 어려운 시기에는 인내와 정중함이 필요하다고 하며 모든 미국인들은 국가가 직면한 어려움을 극복하기 위해 단합해야 한다고 말했습니다. 위암이 완쾌되었다는 소식을 듣고 다시 활기를 되찾은 올슨은 경제를 되살리고, 국가의 형재애를 복원하고, 어떤 필요에서건 정치적 폭력을 막겠다는 약속을 지키기 위해 사회주의자와 강경론자의 항의를 뚫고 백악관으로 대담하게 진출했습니다. 나머지 사람들이 이 말을 경청할 지의 여부는 또 다른 얘기입니다."
 ustates.64.a:0 "미국은 나눌 수 없는 단일국이다!"
 
 ustates.65.t:0 "올슨이 리드의 파업에 대처하다"
@@ -1263,11 +1263,11 @@ ustates.112.d:0 "The National Guard commander in St. Louis was overwhelmed by th
 ustates.112.a:0 "지원군을 투입해라"
 ustates.112.b:0 "우리 인력을 철수시켜라"
 
-ustates.113.t:0 "St. Louis Becomes a Warzone"
+ustates.113.t:0 "세인트루이스가 교전구역이 되다"
 ustates.113.d:0 "The lack of federal support has allowed the CSA and AUS to turn St. Louis into a war zone. People streamed out of the city to escape the violence. Throughout the North and South, Americans from all sides are beginning to mobilize."
-ustates.113.a:0 "The is getting out of hand"
+ustates.113.a:0 "통제불능이군"
 
-ustates.114.t:0 "St. Louis Becomes a Warzone"
+ustates.114.t:0 "세인트루이스가 교전구역이 되다"
 ustates.114.d:0 "The troops that arrived to support the National Guard found themselves in a war zone. As people streamed out of St. Louis the federal forces tried to wrest control of the city with little success. Each side became involved in one pitched battle after another and it was a war that had not yet been declared but that would soon change"
 ustates.114.a:0 "통제불능이군"
 
@@ -1292,25 +1292,25 @@ ustates.119.d:0 "As we work to strengthen democracy following the civil war, the
 ustates.119.a:0 "선거인단제는 죽었다"
 ustates.119.b:0 "선거인단제는 공화국의 안전망이다"
 
-ustates.120.t:0 "National Rehabilitation"
+ustates.120.t:0 "국가 재활"
 ustates.120.d:0 "While we root out those that continue to still fight on for their treasonous cause, the question has come before MacArthur about what to do to those that have laid down their arms. Some of his advisers are suggesting clemency others suggest they must be imprisoned for their actions. What shall the commander in chief choose?"
 ustates.120.a:0 "Down with the Traitors"
 ustates.120.b:0 "We have spilt enough blood"
 
-ustates.121.t:0 "Reconcile with Washington?"
+ustates.121.t:0 "워싱턴과 화해?"
 ustates.121.d:0 "The Tyrant MacArthur has done the unthinkable and has stepped down from power. Thus a debate has arisen about if we should reunite and make America whole. Many believe that even though MacArthur has stepped down from power, he still has control and that he won't hesitate to re-assume power should politics don't go his way."
 ustates.121.a:0 "워싱턴 정부와 재통합하자(게임 오버됨)"
-ustates.121.b:0 "We are the true America and we shall unite America ourselves!"
+ustates.121.b:0 "우리가 진정한 미국이며 우리는 스스로 미국을 단결시킬 것이다!"
 
 ustates.122.t:0 "미국이 재통합되다!"
 ustates.122.d:0 "The rebel government out west has decided to lay down their arms and rejoin America. The military checkpoints along the Rocky Mountains are being dismantled and people from both sides of the country are crossing over. At long last the country is reunited."
 ustates.122.a:0 "동해안에서 서해안까지!"
 
-ustates.123.t:0 "No Reconciliation"
+ustates.123.t:0 "화해는 없다"
 ustates.123.d:0 "Since MacArthur stepped down many wondered if the country would be whole again. However it seems that the rebels out west have decided that they shall not reunite with us. In their senate, they denounced Congress as just being a pawn of MacArthur who they still regard as a tyrant despite the fact he saved the country."
 ustates.123.a:0 "언젠가는 재통합될 것이다"
 
-ustates.124.t:0 "America is Reunited"
+ustates.124.t:0 "미국의 재통합"
 ustates.124.d:0 "At long last America has been reunited. We stretch once again from sea to shining sea. The traitors to the country have been destroyed and the stars and stripes now fly proudly from coast to coast knowing that liberty is secured for all."
 ustates.124.a:0 "A more perfect union"
 
@@ -1319,7 +1319,7 @@ ustates.125.d:0 "With the civil war over and reconstruction now underway, the qu
 ustates.125.a:0 "생디칼계열 노조만 금지한다"
 ustates.125.b:0 "모든 노조를 금지한다"
 
-ustates.126.t:0 "Army is slow to desegregate"
+ustates.126.t:0 "육군이 인종 차별 철폐가 늦다"
 ustates.126.d:0 "After the President signed a law to desegregate the Armed Forces, it seems that it is taking more time then expected to fully desegregate. There are still black only and white only regiments and several officers are determined to keep things separate. Despite the slowness, things are improving as more and more units are desegregating. Still, Progress is slow."
 ustates.126.a:0 "Desegregation shall still happen"
 
@@ -1367,10 +1367,10 @@ ustates.135.d.let_go:0 "As expected, the tyrant known as Douglas MacArthur has r
 ustates.135.d.army:0 "As expected, the tyrant known as Douglas MacArthur has refused to give up his grip on power A wave of migrants and refugees have come westward to the true United States. While we and our special services have done what we could to bring them across the Rockies, MacArthur used his army upon many of them massacring them like the butcher that he is. However, this has only fueled people's desire to get revenge against the tyrant in the east."
 ustates.135.a:0 "진정한 미국에 오신것을 환영합니다"
 
-ustates.136.t:0 "Provisional President"
-ustates.136.d:0 "With Democracy now restored to the country, the question is who shall be the leader of the country till the next election shall be called? MacArthur has picked Three men who could serve in that Role, Quentin Roosevelt, Wendell Willkie, and John Nance Garner. The question is whom shall congress choose?"
+ustates.136.t:0 "임시 대통령"
+ustates.136.d:0 "현재 민주주의가 회복됐으니, 누가 다음 선거 때까지 국가의 지도자가 될 것인가 하는 의문이 남아있습니다. 맥아더는 그 역할을 맡을 수 있는 사람으로 쿠엔틴 루즈벨트, 웬델 윌키, 존 낸스 가너를 골랐습니다. 의회는 누구를 선택할까요?"
 ustates.136.a:0 "쿠엔틴 루즈벨트"
-ustates.136.b:0 "Wendell Willkie"
+ustates.136.b:0 "웬델 윌키"
 ustates.136.c:0 "존 낸스 가너"
 
 ustates.137.t:0 ""
@@ -1673,7 +1673,7 @@ ustates.201.b:0 "알프 랜던"
 ustates.202.t:0 "1940년 민주당 경선"
 ustates.202.d.president:0 "John Nance Garner has managed to keep the country afloat during the civil war and as such he has been unanimously nominated for the democratic candidate for the presidency."
 ustates.202.d.not_president:0 "There are a number of men who are running to be the democratic nominee for president. Whom shall be chosen?"
-ustates.202.a:0 "Wendell Willkie"
+ustates.202.a:0 "웬델 윌키"
 ustates.202.b:0 "존 낸스 가너"
 ustates.202.c:0 "Harry F. Byrd"
 ustates.202.e:0 "더글러스 맥아더"
