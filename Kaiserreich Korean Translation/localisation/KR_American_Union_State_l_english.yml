@@ -502,7 +502,7 @@ TEX_urban_warfare_desc:0 "우리는 해병 여단을 확충해야 하고, 그들
 TEX_coastal_bunkers:0 "Semper Fi"
 TEX_coastal_bunkers_desc:0 "Semper Fidelis means 'always loyal'. The Marine Corps will always be a bastion of American liberty and democracy, and help spread these freedoms around the world."
 TEX_america_rules_waves:0 "미국이 파도를 지배한다"
-TEX_america_rules_waves_desc:0 "Following our extensive investments into naval research and construction, we have regained our place as one of the world's leading naval powers. Anchors away!"
+TEX_america_rules_waves_desc:0 "해군 연구와 건조에 대한 우리의 광범위한 투자에 따라, 우리는 세계 최고의 해군력을 되찾았습니다. 닻을 던져라!"
 ### Foreign Policy Path ###
 TEX_new_monroe_doctrine:0 "신 먼로 독트린"
 TEX_new_monroe_doctrine_desc:0 "American power naturally radiates both South and North. Northwards and East into Europe, southwards to Latin America. Is the long-fought spirit of our Hemisphere worth preserving? Or is it time to reposition ourselves and rewrite foreign policy?"
@@ -581,7 +581,7 @@ unionstate.5.d:0 "신 수도 외곽의 은색 군단 전초기지에서 특히 �
 unionstate.5.a:0 "미친 역적노무새끼들은 지옥에나 가라"
 
 unionstate.6.t:0 "장검의 밤"
-unionstate.6.d:0 "신 수도 외곽의 은색 군단 전초기지에서 특히 맹렬했던 밤의 연설 이후, 윌리엄 더들리 펠리는 살인에 찬성하며 그의 군단을 집결시켰습니다. 그의 공모자들 중에는 현재 롱 대통령이 금주법과 재향군인법안을 가결한 후 오랫동안 버림받은 측근들이 있었습니다. 이 새로운 반역자들은 미닛맨의 검문을 통과하기 위한 중요한 통행증을 제공했고 은색 군단의 쿠데타를 묵인했습니다. 은색 군단 암살대가 대통령 저택으로 급습해 휴이 롱을 붙잡았습니다. 폭정에 대한 죄와 생디칼리즘을 미국에 침투시키려 한다는 약식 재판 후에, 휴이 롱은 바로 그날 밤 총에 맞았습니다. 윌리엄 더들리 펠리는 조심스럽고 신중한 군중들에게 생디칼리즘을 이 나라에서 뿌리뽑을 수 있게 나라를 이끌 것이라고 발표했습니다. 은색 군단은 이미 의회를 점령하기 시작했습니다. "
+unionstate.6.d:0 "신 수도 외곽의 은색 군단 전초기지에서 특히 맹렬했던 밤의 연설 이후, 윌리엄 더들리 펠리는 살인에 찬성하며 그의 군단을 집결시켰습니다. 그의 공모자들 중에는 현재 롱 대통령이 금주법과 재향군인법안을 부결한 후 오랫동안 버림받은 측근들이 있었습니다. 이 새로운 반역자들은 미닛맨의 검문을 통과하기 위한 중요한 통행증을 제공했고 은색 군단의 쿠데타를 묵인했습니다. 은색 군단 암살대가 대통령 저택으로 급습해 휴이 롱을 붙잡았습니다. 폭정에 대한 죄와 생디칼리즘을 미국에 침투시키려 한다는 약식 재판 후에, 휴이 롱은 바로 그날 밤 총에 맞았습니다. 윌리엄 더들리 펠리는 조심스럽고 신중한 군중들에게 생디칼리즘을 이 나라에서 뿌리뽑을 수 있게 나라를 이끌 것이라고 발표했습니다. 은색 군단은 이미 의회를 점령하기 시작했습니다. "
 unionstate.6.a:0 "반역자에게 죽음을!"
 
 unionstate.7.t:0 "미국의 수도"
@@ -868,7 +868,7 @@ unionstate.64.a:0 "머물러도 좋다"
 unionstate.64.b:0 "우린 원치않는다"
 
 unionstate.65.t:0 "영도자 펠리가 서거하고 제랄드 스미스가 영도자가 되다"
-unionstate.65.d:0 "오늘 영도자 윌리엄 펠리의 서거를 알리는 교회 종소리가 전국에 울려 퍼졌습니다. 펠리의 죽음이 안도감을 가져다 주기를 바라는 많은 굶주린 미국인들이 거주하는 게토와 보호구역 안에서 종은 울리고 있습니다. 희망을 가졌던 수백만의 사람들은 차기 영도자 제럴드 L K 스미스가 장례식에서 심판의 날까지 펠리를 대신해 최고존엄으로서 일하겠다고 발표했을 때 절망에 빠졌습니다. 이러한 권력의 건재함의 과시에도 불구하고, 전세계의 미국민들은 독재자의 죽음을 응원하고 미국에서 스미스 영도자의 계속되는 은색 군단 정권에 대한 비난의 압력을 가하고 있습니다."
+unionstate.65.d:0 "오늘 영도자 윌리엄 펠리의 서거를 알리는 교회 종소리가 전국에 울려 퍼졌습니다. 펠리의 죽음이 안도감을 가져다 주기를 바라는 많은 굶주린 미국인들이 거주하는 게토와 보호구역 안에서도 종은 울리고 있습니다. 희망을 가졌던 수백만의 사람들은 차기 영도자 제럴드 L K 스미스가 장례식에서 심판의 날까지 펠리를 대신해 최고존엄으로서 일하겠다고 발표했을 때 절망에 빠졌습니다. 이러한 권력의 건재함의 과시에도 불구하고, 전세계의 미국민들은 독재자의 죽음을 응원하고 미국에서 스미스 영도자의 계속되는 은색 군단 정권에 대한 비난의 압력을 가하고 있습니다."
 unionstate.65.a:0 "우리는 언제쯤 자유로워질까?"
 
 unionstate.66.t:0 ""
