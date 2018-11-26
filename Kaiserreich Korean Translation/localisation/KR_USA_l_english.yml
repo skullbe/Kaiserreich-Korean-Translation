@@ -160,13 +160,13 @@ USA_new_diplomatic_corps_tooltip:0 "§MWe should send out new Diplomats and Cons
 
 ### Ideas ###
 USA_great_depression:0 "대공황"
-USA_great_depression_desc:0 "Since the collapse of the New York Stock Market in 1925, the United States has been gripped by the Great Depression. In addition to the massive economic woes plaguing America from this never-ending crisis; the Great Depression has given energy to both Long and Reed as they campaign against one another and the establishment."
+USA_great_depression_desc:0 "1925년 뉴욕 주식 시장이 붕괴된 이후 미국은 대공황에 사로잡혀 있습니다. 계속되는 대공황은 미국을 괴롭히는 엄청난 경제적 고통을 주는 것 외에도, 서로 못잡아먹어서 안달인 롱과 리드 모두에게 힘을 주었습니다."
 
 USA_black_monday:0 "대공황"
-USA_black_monday_desc:0 "The Great Depression which has been gripping America for over a decade looked to be slowly recovering under the Hoover administration, though nowhere near fast enough. However, the recent collapse of the Berlin Stock Market has just made the Great Depression even worse. Only God and the next President knows when this can be over."
+USA_black_monday_desc:0 "미국을 10년 이상 사로잡아 온 대공황은 후버 정권 하에서 서서히 회복되고 있는 듯 보였습니다. 하지만 최근 베를린 주식 시장의 붕괴는 대공황을 더욱 악화시켰습니다. 오직 신과 다음 대통령만이 언제 대공황이 끝날지 알고 있습니다."
 
 USA_political_crisis:0 "정치적 위기"
-USA_political_crisis_desc:0 "The United States is in crisis. The Great Depression, which has been ravaging our nation for over a decade, has still not let up. Popular desperation has allowed the far-left Socialist Party of America and the far-right America First Party to gain strength in recent years. Others look to MacArthur and the Army as a way to solve both the depression and radicalization. Many worry that the United States could descend into civil war should our current situation not soon be resolved, or a radical presidential candidate win in the upcoming 1936 Elections."
+USA_political_crisis_desc:0 "미국이 위기에 처했습니다. 10년 넘게 나라를 황폐화시키고 있는 대공황은 아직도 끝나지 않았습니다. 대중의 절박함은 최근 몇년동안 극좌 사회당과 극우 제일당이 지지를 얻도록 만들었습니다. 몇몇 사람들은 맥아더와 군을 경기침체와 정치적 과격파 모두를 해결하기 위한 방법으로 여깁니다. 많은 사람들은 현재의 상황이 한시바삐 해결되지 않거나 1936년 선거에서 급진적인 대통령 후보가 승리할 경우 미국이 내전으로 빠져들 수 있다고 우려합니다."
 
 USA_new_year_strike_idea:0 "신년 파업"
 USA_native_code_talkers_idea:0 "원주민 코드토커"
@@ -781,7 +781,7 @@ USA_the_american_century_desc:0 "The great ideological struggle for world peace 
 ### Events - Pre Election ###
 
 ustates.1.t:0 "1936년 미합중국"
-ustates.1.d:0 "1936년의 미국은 끊임없는 위기에 사로잡혀 있습니다. 1차대전의 공포를 피해 1920년대까지 번영을 이어갈 수 있었지만, 독일의 1차대전 승리와 이에 뒤따른 프랑스와 영국에서의 혁명은 1925년 월가 주식시장의 붕괴를 초래했습니다. 이것은 미국을 대공황으로 몰아 넣었고 베를린 증권 시장이 세계 경제의 최전선으로 자리매김하게 만들었습니다.\n\n 1928년 당선된 허버트 후버는 당초에 했던 공약과는 달리 미국 경제의 하향세을 완전히 뒤집는데 실패했고, 최악의 경제 위기 사태는 1936년까지 무려 10년 이상이나 지속되었습니다. 이런 일련의 사태들은 미국의 극좌 사회주의 정당과 극우파인 미국 제일당이라는 양대 급진 정당이 부상하는 계기가 되었습니다. 1932년 하원에 의한 후버 대통령의 재선 논란과 계속되는 대공황은 이러한 문제들이 조만간 해결될 것 같지 않음을 보여줍니다. 전국민들은 극단적인 정당들 중 하나가 집권하거나 대공황이 계속 진정되지 않으면 초래될 수 있는 사변적 상황을 두려워합니다."
+ustates.1.d:0 "1936년의 미국은 끊임없는 위기에 사로잡혀 있습니다. 1차대전의 공포를 피해 1920년대까지 번영을 이어갈 수 있었지만, 독일의 1차대전 승리와 이에 뒤따른 프랑스와 영국에서의 혁명은 1925년 월가 주식시장의 붕괴를 초래했습니다. 이것은 미국을 대공황으로 몰아 넣었고 베를린 증권 시장이 세계 경제의 최전선으로 자리매김하게 만들었습니다.\n\n1928년 당선된 허버트 후버는 당초에 했던 공약과는 달리 미국 경제의 하향세을 완전히 뒤집는데 실패했고, 최악의 경제 위기 사태는 1936년까지 무려 10년 이상이나 지속되었습니다. 이런 일련의 사태들은 미국의 극좌 사회주의 정당과 극우파인 미국 제일당이라는 양대 급진 정당이 부상하는 계기가 되었습니다. 1932년 하원에 의한 후버 대통령의 재선 논란과 계속되는 대공황은 이러한 문제들이 조만간 해결될 것 같지 않음을 보여줍니다. 전국민들은 극단적인 정당들 중 하나가 집권하거나 대공황이 계속 진정되지 않으면 초래될 수 있는 사변적 상황을 두려워합니다."
 ustates.1.a:0 "신이시여 미국을 구하소서"
 
 ustates.2.t:0 "검은 월요일이 미국을 강타하다"
@@ -887,12 +887,12 @@ ustates.24.d:0 "무더운 날씨는 남부 캐롤라이나의 찰스턴에서 �
 ustates.24.a:0 "설마 이보다 더 나빠지진 않겠지?"
 
 ustates.25.t:0 "뉴저지의 특별선거!"
-ustates.25.d:0 "Following Senator A. Harry Moore's resignation in order to run for governor, a special election has been called in New Jersey to select his replacement. The front-runners are Democrat John Gerald Milton and AFP spokesman Charles Lindbergh. Polls have just closed, and the winner appears to be..."
+ustates.25.d:0 "해리 무어 상원의원이 주지사 선거에 출마하기 위해 사임한 이후, 뉴저지 주에서 그의 후임자를 선출하기 위한 특별 선거가 실시되었습니다. 선두주자는 민주당 존 제럴드 밀턴과 제일당 대변인 찰스 린드버그입니다. 투표가 막 끝났고 승자는..."
 ustates.25.a:0 "존 제랄드 밀턴(민주당)"
 ustates.25.b:0 "찰스 린드버그(미국 제일당)"
 
 ustates.26.t:0 "워싱턴의 특별선거"
-ustates.26.d:0 "In Washington, there is a special election to see whom will replace Senator Wesley Lloyd, who has passed away recently. The front-runners are John F. McKay from the Socialist Party and John Main Coffee from the Democratic Party. Who shall win the special election."
+ustates.26.d:0 "워싱턴에서는 최근에 사망한 웨슬리 로이드 상원의원의 후임 선출을 위한 특별선거가 있습니다. 선두주자는 사회당의 존 F 맥케이와 민주당의 존 메인 커피입니다. 누가 특별선거에서 이길까요?"
 ustates.26.a:0 "존 F 맥케이(사회당)"
 ustates.26.b:0 "존 메인 커피(민주당)"
 
@@ -998,7 +998,7 @@ ustates.49.d:0 "리드의 법원 재구성 직후, 롱은 리드에게 공격적
 ustates.49.a:0 "노동자들의 질서가 반드시 확립되어야 한다"
 
 ustates.50.t:0 "미닛맨과 경찰간의 충돌"
-ustates.50.d:0 "Long's calls for a resistance against Reed have been interpreted by some Minutemen as a call for resistance against any governmental agency. Police clashes with Long's Minutemen have now become common throughout the country. In cities with strong SPA presence, members of the General Defense Committees helped the police restore law and order, but in the Deep South, the Minutemen effectively have complete control." 
+ustates.50.d:0 "리드에 대한 롱의 저항 요청는 일부 민병대에 의해 정부 기관에 대한 저항 요청으로 해석되었습니다. 롱의 민병대와의 경찰간의 충돌이 전국적으로 일상이 되었습니다. 사회당 지지세가 강한 도시에서는, 평시 국방 위원회의 구성원들이 경찰들과 함께 법과 질서를 회복하는 것을 도왔지만, 남쪽에서는 민병대가 사실상 완벽한 통제권을 가지고 있습니다." 
 ustates.50.a:0 "누군가는 롱을 멈춰야해!"
 
 ustates.51.t:0 "맥아더가 워싱턴으로 행군하다"
