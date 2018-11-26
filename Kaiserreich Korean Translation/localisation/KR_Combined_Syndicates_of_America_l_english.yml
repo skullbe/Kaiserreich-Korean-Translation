@@ -463,29 +463,29 @@ CSA_rule_the_skies:0 "창공을 지배하라"
 CSA_rule_the_skies_desc:0 "우리는 우리의 적으로부터 승리하였고, 그로써 지금 미국의 하늘을 지배합니다. 이제 조준하고, 날고, 싸우고 이길 시간입니다."
 ### Navy Focus ###
 CSA_navy:0 "붉은 해군"
-CSA_navy_desc:0 "The American navy was once the pride of the world. Yet much of it built upon exploited labor and positions given out in old boys’ clubs. We should review what forces have accepted the socialist call, so we can best determine how they can serve in this war."
+CSA_navy_desc:0 "미국 해군은 세계의 자랑거리였습니다. 그러나 이 해군의 많은 부분이 노동 착취로 이루어졌고, 직위는 늙은 아이들에게 분배되었습니다. 우리는 어떤 부대가 사회주의의 혁명에 답했는지 검토해야 하고, 그리 함으로써 우리는 이 전쟁을 어떻게 수행할 수 있는지 결정 할 수 있을겁니다.“
 CSA_revolutionary_captians:0 "혁명 해병대"
-CSA_revolutionary_captians_desc:0 "Inspired by the brave sailors of the Battleship Potemkin that fought the imperialist powers of their own nation, we have dedicated a new Marine Corps. These new Marines will be able to strike at the heart of our enemies just as the Potemkin sailors did, this time with modern equipment and training."
-CSA_liberty_ships:0 "자유 함"
-CSA_liberty_ships_desc:0 "Our shipyards, previously dedicated to commercial shipping, can easily be converted to produce massive numbers of convoys to supply our allies around the world."
+CSA_revolutionary_captians_desc:0 "자국의 제국주의에 대항해서 싸운 포템킨 군함의 용감한 선원들에게 염감을 얻어서, 현대적인 장비와 훈련을 갖춘 새로운 해병대를 창설했습니다. 이 해병대는 적의 심장부를 마치 포템킨 선원들이 한 것처럼 공격 할 것입니다.“
+CSA_liberty_ships:0 "해방 선"
+CSA_liberty_ships_desc:0 "이전에 상업 선을 생산했던 우리 조선소는 전 세계에 있는 우리 동맹에게 보급을 제공할 수많은 수송선을 만들 것입니다.“
 CSA_coast_guard:0 "해안방위대"
-CSA_coast_guard_desc:0 "Restoring the Coast Guard will ensure that trade moves smoothly, criminals are stopped at sea, and those in danger are rescued."
+CSA_coast_guard_desc:0 "해안경비대의 재건은 무역을 원활하게 하고 바다에 범죄자들이 활보하는 것을 중단시키며 위험에 처한 사람을 구조하게 할 수 있을 것입니다.“
 CSA_destroy_captitalism:0 "자본주의를 파괴하라"
-CSA_destroy_captitalism_desc:0 "The capitalist powers have some of the largest ships and in order for the Revolution to be successful and survive, then we must be able to match them pound for pound. Dreadnoughts, Battleships and Carriers shall keep the workers of America safe."
+CSA_destroy_captitalism_desc:0 "자본가들은 강력한 전함을 가지고 있으며, 혁명을 성공시키고 살아남게 하기 위해서는 그들과 맞먹는 전함을 양성해야 합니다. 드레드노트나 전함 항공모함은 아마 미국 노동자들의 안전을 보장 할 것입니다.“
 CSA_battleships:0 "전함 착수"
-CSA_battleships_desc:0 "Battleships are the king of the high seas. We should start research into new models with bigger guns and better anti-air protection."
+CSA_battleships_desc:0 "전함은 공해의 왕입니다. 따라서 우리는 더 큰 주포와 더 나은 대공포를 배치 할 수 있는 새로운 모델의 전함 양성을 시작해야 합니다.
 CSA_battle_cruisers:0 "순양전함 착수"
-CSA_battle_cruisers_desc:0 "Battlecruisers present a middle balance between heavy battleships and faster cruisers. We should ensure we have some in our navy."
+CSA_battle_cruisers_desc:0 "순양전함은 고속 순양함과 중무장 전함 사이에서 균형이 맞춰진 함선입니다. 따라서 우리는 이런 전투함을 보유 할 필요가 있습니다.“
 CSA_cut_off_capitalism:0 "자본주의를 끊어내라"
-CSA_cut_off_capitalism_desc:0 "An easy way to dismantle a capitalist economy is to disrupt their international trade. We shall employ every measure to make our enemies tremble."
+CSA_cut_off_capitalism_desc:0 "자본주의 경제를 파괴하는 가장 쉬운 길은 국제 무역을 방해하는 것입니다. 우리는 적을 떨게 만드는 모든 방법을 다 강구 할 겁니다.“
 CSA_carriers:0 "항공모함 착수"
-CSA_carriers_desc:0 "Carriers are the wave of the future. We should invest in their research and construction to better project naval power."
+CSA_carriers_desc:0 "항공모함은 미래의 파도입니다. 우리는 항공모함을 더 연구하고 건조하여 더 나은 해군력을 가지는데 주력해야 할 것입니다“
 CSA_naval_avation:0 "해군 항공대"
-CSA_naval_avation_desc:0 "Naval aviation is the future of warfare on the high seas. We should ensure that our air designs are capable of being launched from carriers and destroying the enemy fleet without even endangering our own."
+CSA_naval_avation_desc:0 "해군 항공대는 공해에서 전쟁의 미래가 될 것입니다. 우리는 우리 비행기 설계 할 때, 항공모함에서부터 발진 할 수 있게 만들어서 우리를 위협에 빠트리는 일 없이 적 함선을 파괴해야 합니다.“
 CSA_submarines:0 "잠수함 지원"
-CSA_submarines_desc:0 "Submarines allow us to wreak havoc on enemy shipping and heavy ships. We should ensure that our designs stay up to date against enemy destroyers and anti-submarine tactics."
+CSA_submarines_desc:0 "잠수함은 적의 함선과 전함을 파괴시킬 수 있습니다. 우리는 우리 잠수함을 적의 구축함과 대 잠수함전에 대항할 수 있게 설계해야 합니다.“
 CSA_rule_the_waves:0 "파도를 지배하라"
-CSA_rule_the_waves_desc:0 "Following our extensive investments into naval research and construction, we have regained our place as one of the world's leading naval revolutionary powers. Anchors away!"
+CSA_rule_the_waves_desc:0 "해군 연구와 건조에 대한 우리의 투자 확대로 우리는 세계를 주도하는 혁명 해군을 재건 할 수 있었습니다. 지금 닻을 내립시다!“
 ### Foreign Policy ###
 CSA_deal_with_mexico:0 "멕시코와 거래"
 CSA_deal_with_mexico_desc:0 "When John Reed interviewed Pancho Villa in 1914, he saw a nation with a lot of promise for Socialist growth, but was under the yoke of so many masters. Now we once again visit Mexico, this time united around the syndicalist ideals."
@@ -569,74 +569,74 @@ csa.10.t:0 "헌법 제정 회의가 막을 내렸습니다"
 csa.10.d:0 "마침내 헌법 제정 회의가 끝나고 미국의 새 헌법이 제정되었습니다. 하지만 이것에도 불구하고, 이제 우리 국가를 재건하기 위한 진정한 고난이 다가오고 있습니다."
 csa.10.a:0 "아메리카의 노동자들 만세!"
 
-csa.11.t:0 "The Interim President"
-csa.11.d:0 "At the final day of the Congress, John Silas Reed, better known as Jack Reed announced that he would step down as leader of the country. Announcing that his health has been deteriorating due to the stress of guiding the revolution and that he wishes to spend his final days with his wife, Louise Reed, and his daughter. More-over he emphasized that his role was to see the country through to the revolution, but a new leader needs to lead it now. So, while the country prepares for a proper election, whom shall become the interim president?"
-csa.11.a:0 "Elizabeth Gurley Flynn"
-csa.11.b:0 "Norman Thomas"
-csa.11.c:0 "Earl Browder"
-csa.11.e:0 "William Z. Foster"
+csa.11.t:0 "대통령 대행"
+csa.11.d:0 "평의회의 마지막 날에 일반적으로 잭 리드라고 알려진 존 사일러스 리드가 국가의 자도자 자리에서 내려가겠다고 발표했습니다. 혁명을 이끄는 과정에서의 스트레스로 건강이 약화되었고 그로 인해 남은 삶을 아내인 루이스 리드와 그의 딸과 함께 보내고 싶다고 선언했습니다. 게다가 그는 자신의 의무가 국가에 혁명을 전파하는 것일 뿐이고, 새로운 지도자가 이 국가를 이끌어야 한다고 강조했습니다. 그렇다면 이 국가에서 적절한 선거가 준비하는 동안. 누가 대통령 대행을 수행하게 될까요?“
+csa.11.a:0 "엘리자베스 걸린 플린"
+csa.11.b:0 "노먼 토마스"
+csa.11.c:0 "얼 브라우더"
+csa.11.e:0 "윌리엄 Z 포스터"
 
 ### Reconstruction Events ###
 
-csa.12.t:0 "Trial of the American First"
-csa.12.d:0 "With the Revolution over, the time comes now to deal with those that fought against us. The trial of the so called American First has been a long time coming but now it is here. The question is what shall the courts rule against these reactionaries?"
-csa.12.a:0 "Offer Mercy"
-csa.12.b:0 "Punish the Leaders"
-csa.12.c:0 "No leniency for reactionaries"
+csa.12.t:0 "미국 제일당원 재판"
+csa.12.d:0 "혁명이 끝남에 따라서 우리와 싸웠던 적을 심판할 시간이 왔습니다. 소위 미국제일당에 대한 재판은 오랜 시간동안 계속 되었지만, 지금 마침내 재판 결과가 나올 시간입니다. 법원은 반동분자들에게 어떠한 처벌을 했을까요?“
+csa.12.a:0 "자비를 베풀어라"
+csa.12.b:0 "지도층만 처벌하라"
+csa.12.c:0 "반동들에게 베풀 자비는 없다"
 
-csa.13.t:0 "Trial of the old Government"
-csa.13.d:0 "With the Revolution over, the time comes now to deal with those that fought against us. The trial of the politicians and officers that served the Old United States Government has been a long time coming but now it is here. The question is what shall the courts rule against these reactionaries?"
-csa.13.a:0 "Give mercy"
-csa.13.b:0 "Punish the leaders"
-csa.13.c:0 "No leniency for reactionaries"
+csa.13.t:0 "구정권에 대한 재판"
+csa.13.d:0 "혁명이 끝남에 따라서 우리와 싸웠던 적을 심판할 시간이 왔습니다. 구 미합중국 정부에 봉사한 관료와 정치인에 대한 재판은 오랜 시간동안 계속 되었지만, 지금 마침내 재판 결과가 나올 시간입니다. 법원은 반동분자들에게 어떠한 처벌을 했을까요?“
+csa.13.a:0 "자비를 베풀어라"
+csa.13.b:0 "지도층만 처벌하라"
+csa.13.c:0 "반동들에게 베풀 자비는 없다"
 
-csa.14.t:0 "Avant-Guard Art"
-csa.14.d:0 "Even within the art world is the social revolution touching it. Avant-guard art styles are becoming more and more popular and supported by the government. The government in particular is using the energy of the artists to create propaganda to extoll the virtues of the Revolution. As part of this movement came the Agit-trains that travel the rails throughout America. They are brightly painted and carrying on board a printing press, government complaint office, printed political leaflets and pamphlets, library books, and a mobile movie theater. They are part of the new revolutionary government to indicate the values and programs to the scattered populace of America particularly the rural regions of the country."
-csa.14.a:0 "Modern Art for a modern America"
+csa.14.t:0 "전위 예술법"
+csa.14.d:0 "심지어 예술계에서도 사회혁명의 영향을 받기 시작했습니다. 아방가르드적 예술 스타일이 정부의 지원을 받으며 점점 대중화 되어가고 있습니다. 또한 정부는 부분적으로 혁명의 미덕을 칭송하기 위한 프로파간다를 만드는 예술가들의 열정을 이용하고 있죠. 이러한 운동으로 인해 아지트-기차가 미국 철도의 주류가 되고 있고, 이러한 예술가들은 인쇄기와, 정치적 전단지, 팜플릿, 도서관의 책, 그리고 소형 영화 극장을 운반하고 인쇄합니다. 그들은 새로운 혁명 정부의 일부로써 분산된 인민들 특히 시골 지역의 가치와 계획을 표현합니다.“
+csa.14.a:0 "현대적인 미국을 위한 현대적인 예술을"
 
-csa.15.t:0 "Revolutionary Architecture"
-csa.15.d:0 "As we move into the rebuilding aspect of the Revolution, the question of how we should rebuild has been brought up. For most of the 1920s and 1930s the Art Deco art style was the dominate style of architecture and from coast to coast buildings were built in this style. However, a number of revolutionary architects wish to break away from that style and seek a more modern style inspired by the designs coming out of France, Italy, or Britain while others counter that Art Deco is an American style that can be updated by revolutionizing it, or streamlining it. Which style shall be supported?"
-csa.15.a:0 "Streamline"
-csa.15.b:0 "Modernism"
+csa.15.t:0 "혁명 건축"
+csa.15.d:0 "우리의 혁명이 재건적 측면으로 방향이 바뀔 때, 어떻게 재건을 해야 하는지에 대한 문제가 제기되었습니다. 1920년대와 30년대의 아르 데코식 예술 스타일ㅇ; 건축계를 지배했고, 해안을 따라서 아르 데코식 방식으로 건물이 건설 되었습니다. 그러나 많은 수의 혁명적 예술가들은 이러한 예술 흐름을 깨고 프랑스나 이탈리아 혹은 영국 같은 새로운 현대적 스타일의 건축을 하고 싶어 합니다. 반면에 다른 예술가들은 아르 데코식 스타일은 미국만의 예술 스타일이라고 반박하며 이를 혁명적으로나 효율적으로 업데이트 할 수 있다고 주장합니다. 어떤 건축 양식을 지원해야 할까요?“
+csa.15.a:0 "효율화"
+csa.15.b:0 "현대화"
 
-csa.16.t:0 "Fighting Racism"
-csa.16.d:0 "That scourge of Racism, the tool that the old capitalist ruling class used to keep workers of all races divided while they reap the benefit has unfortunately not been defeated with the revolutions victory. There are still regions throughout the country that hold racist ideals. In order to make the revolution a true reality, this must be fought and not just in the south.\n\nTo that end a number of laws were created to end racism. First, the racist laws of the old corrupt and capitalist America have been swept aside. Lynching was made illegal throughout the country with harsh penalties for those that engaged in it. A number of laws were passed that required all races to be treated as equals. While they won't end the scourge of racism overnight, they will be the building blocks for the new American society."
-csa.16.a:0 "Racism shall be destroyed"
+csa.16.t:0 "인종주의와 싸우다"
+csa.16.d:0 "인종차별이라는 재앙은 옛 자본주의 지배층들이 노동자들을 통치하기 위해 인종을 가르는 것으로 시작되었습니다. 하지만 이 재앙은 혁명의 승리에도 불구하고 인종차별적 사상은 국가 전역에서 사라지지 않았습니다. 혁명을 현실화시키기 위해서 우리는 단순히 남부랑 싸우는 것에서 끝나면 안 됩니다.\n\n 인종주의를 끝내기 위해 수많은 법률이 만들어졌습니다. 첫 번째, 부패하고 낡은 자본주의 미국의 인종차별적인 법률은 이제 무시 될 것입니다. 린치는 국가 전역에서 불법이 될 것이며 이와 관련된 사람들은 가혹하게 처벌 할 겁니다. 또한 모든 인종들은 평등하게 대우 받아야 한다는 법률이 통과되었습니다. 물론 이로 인종차별의 재앙이 이로 사라지지는 않겠지만, 이러한 것들이 새로운 미국을 만드는 디딤돌이 될 것입니다.“
+csa.16.a:0 "인종주의는 궤멸되어야 한다."
 
-csa.17.t:0 "New American Woman"
-csa.17.d:0 "The social revolution is changing the roles of women throughout American society. The revolution has broken the chains of domestic servitude, no longer shall women be limited to home makers and wives. Education and career opportunities are now open to more women than ever; as the old laws that forbid women from entering into those fields are being swept aside. Since the revolution, more and more women are entering into politics in their own right. Not just as wives who inherited their husband's position but their own right. The revolution has brought about a new American woman to the fore."
-csa.17.a:0 "A woman's place is in the Revolution"
+csa.17.t:0 "미국 신여성"
+csa.17.d:0 "사회 혁명은 미국 사회 전역의 여성의 위치를 바꾸어놓았습니다. 혁명은 가정에서 노예상태로 있던 여성의 사슬을 부셨고, 여성을 단순한 가정주부이자 아내로 제한하지 않을 것입니다. 여성에 대한 교육과 직업의 기회는 그 어느 시기보다 개방되어 있으며, 여성들이 특정 분야에 참여하는 것을 금지하는 오래된 법률은 이미 사라졌습니다. 혁명 이후로 단순히 남편의 지위를 물려받는 아내가 아니라 자신들의 능력으로 많은 여성들이 그들의 권리에 따라 정치에 참여하고 있습니다. 혁명은 바로 이러한 새로운 여성을 만들어 냈습니다."
+csa.17.a:0 "여성의 자리는 혁명 속에 있다"
 
-csa.18.t:0 "Redistributing Wealth"
-csa.18.d:0 "One of the bigger things of the social revolution and the revolution as a whole is to redistribute the wealth from the rich capitalistic parasites at the top to the toiling masses at the bottom. To that end, wealth of the country’s elite has been seized, those that did not flee anyways. The richest men and women are now basically penniless. With that wealth seized it has been given to the poor and destitute. Various programs are being developed to care for the people so that no one can go sick or hungry again in America."
-csa.18.a:0 "The Wealth belongs to the people"
+csa.18.t:0 "부의 재분배"
+csa.18.d:0 "사회 혁명에서 가장 중요한 부분은 부유한 자본가적 기생충들을 재산을 힘들게 일하는 대중들에게 재분배 하는 것입니다. 그를 위해서 도망치지 못한 국가의 엘리트들의 재산을 몰수 했고 이제 부자들 역시 무일푼의 존재가 되었습니다. 이러한 재산은 다시 가난한 자들에게 재분배 될 것이고 더 이상 사람들이 굶주리거나 아플 수 없도록 인민들을 보호하기 위한 다양한 프로그램들이 개발되고 있습니다.“
+csa.18.a:0 "부는 인민에게 속 한다"
 
-csa.19.t:0 "Land Redistribution"
-csa.19.d:0 "The richest men and women in America owned mansions and land throughout the country. From the mansions of the Rockefeller, the Morgans, the Carnegies, and the Vanderbilts to the plantation owners of the south with their de facto slavery of sharecropping land in the old republic did not belong to the people. With the revolution victorious that however is changing. The land in the south is being redistributed to the farmers to destroy once and for all slave power. The land is being given to the people. All their ill-gotten mansions and estates belong to the people. In many of these places it has been given over to the local communes and established as a public place or being established as public housing for the people."
-csa.19.a:0 "Forty Acres and a Mule"
+csa.19.t:0 "토지 재분배"
+csa.19.d:0 "미국의 가장 부유한 남녀들은 국가 전역에 대저택과 땅을 가지고 있습니다. 록펠러의 대저택부터 모건과 카네기와 밴더빌트가 남부에 소지한 사실상의 노예들이 소작하는 대농장까지, 이러한 땅과 집들은 구 공화국 시절에는 인민들에게 귀속되지 않았습니다. 그러나 혁명의 승리로 바뀔 것입니다. 농장은 노예제 같은 상황에서 벗어난 농민들에게 재분배 될 것이고, 그들의 부당한 토지과 대저택들은 인민들에게 소속 될 것입니다. 이러한 부동산들은 지역 코뮌에게 넘겨졌고 공공장소나 공공 주택으로 바뀔 것입니다.“
+csa.19.a:0 "40 에이커와 한 마리 노새"
 
-csa.20.t:0 "Dealing with Reactionaries"
-csa.20.d:0 "With the social revolution in full swing the question has come up as to what to do to the reactionary forces that resist the revolution. More hardliners believe that they should be executed, while others believe that they should be forced to work like the rest of the people, finally some think they should just be exiled. What shall be done?"
-csa.20.a:0 "Death to the enemies of the revolution"
-csa.20.b:0 "They shall spend time in a work-camp"
-csa.20.c:0 "Exile them"
+csa.20.t:0 "반동주의자 처리"
+csa.20.d:0 "사회 혁명이 계속 진행됨에 따라서, 반동분자들을 어떻게 처리해야 한다는 문제가 새롭게 떠올랐습니다. 강경파들은 그들을 처형하자고 주장하며, 반대로 몇몇은 그들에게 일을 다른 인민들을 위해서 강요해야 한다고 주장합니다. 마지막으로 일부는 그들을 추방 할 것을 제안했습니다. 우리는 어떻게 해야 할까요?“
+csa.20.a:0 "혁명의 적에게 죽음을"
+csa.20.b:0 "노동 캠프로 보내라"
+csa.20.c:0 "추방해라"
 
-csa.21.t:0 "Education Revolution"
-csa.21.d:0 "As part of the social revolution, education has been revolutionized. In particular John Dewey has helped to push his ideas for transforming education into practice and to help raise many out of illiteracy. In Dewey's eyes, the purpose of education should not revolve around the acquisition of a per-determined set of skills, but rather the realization of one's full potential and the ability to use those skills for the greater good. In particular he emphasizes that schooling must include hands-on learning famously stating 'if knowledge comes from the impressions made upon us by natural objects, it is impossible to procure knowledge without the use of objects which impress the mind'. Schools which were designed to crank out workers to be wage-slaves, shall be transformed so that students can learn to achieve their highest potential as citizens."
-csa.21.a:0 "To a new generation"
+csa.21.t:0 "혁명 교육"
+csa.21.d:0 "사회 혁명의 일환으로써 교육 역시 혁명화 되고 있습니다. 특히 존 듀이가 이 교육을 실천으로 바꾸고 문해율을 높이기 위해서 자신의 아이디어를 강조하며 우리를 도와주고 있습니다. 듀이의 입장에서는 교육의 목적은 정해진 일련의 기술을 습득하는 것에 중점을 두는 것이 아니라, 한사람의 잠재력을 현실화 시키고 이러한 자각한 자신의 능력의 대의를 위해 사용 할 수 있도록 하게 하는 것이 진정한 교육이라고 봅니다. 특히, ‘만약 지식이 자연적 물체에 의해 만들어진 강렬한 인상에서부터 온다면, 그러한 물질을 사용하지 않고는 정신을 감동시킬 수도 없고 결국 지식을 습득하는 것도 극히 어렵게 한다.’라고 말하며 실습을 학교 커리큘럼에 포함해야 한다고 강조했습니다. 따라서 학교는 반드시 임금-노예라는 노동자를 빠르게 양성하는 체제에서 벗어나. 학생을 시민으로써 그들의 높은 잠재성을 깨우게 하는 체제로 바뀌어야 합니다.“
+csa.21.a:0 "신세대에게로"
 
-csa.22.t:0 "Dealing with Capitalist Companies"
-csa.22.d:0 "One of the things that has caused some controversy is the fate of the capitalist companies. While a number had the workers dumped their bosses off their backs and collectivize, a number that fought against the revolution are now being collectivized and some wonder if these workers are as loyal to the ideals of the revolution as others or if they will just allow capitalism to exist subdued within these companies. What shall ultimately happen with these companies."
-csa.22.a:0 "Death to Reactionary Companies"
-csa.22.b:0 "Let the workers collectivize"
+csa.22.t:0 "자본주의 회사들 처리"
+csa.22.d:0 "약간의 논쟁을 야기한 문제 중 하나는 바로 자본주의 기업들의 운명입니다. 많은 수의 노동자들이 그들의 상사를 버리고 회사를 집산화 시켰고, 다른 혁명에 맞서 대항한 회사들 역시 지금 집산화가 되고 있습니다. 일부는 이런 회사에서 근무한 노동자들이 혁명의 이상에 충성할 것이지 아니면 자본주의를 허용하고 그 것을 회사 안에 숨겨 놓을 것인지에 의문을 품고 있습니다. 최종적으로 이 회사들에게 무슨일이 생길까요?“ 
+csa.22.a:0 "반동적 회사들에 죽음을"
+csa.22.b:0 "노동자 스스로 집산화 하도록 해라"
 
-csa.23.t:0 "Resistance to social changes"
-csa.23.d:0 "While we are changing society for the better, our social revolution is not being accepted by everyone. A number resent the various laws that we have overturned and repealed. While they try to corrupt the revolution, they shall fail. These reactionaries are a nuisance but we shall make sure that the social revolution is a success."
-csa.23.a:0 "Reactionaries will be dealt with"
+csa.23.t:0 "사회 변화에 대한 저항"
+csa.23.d:0 "우리가 사회를 점차 좋게 만들고 있지만, 우리 혁명이 모든 사람들에게 받아들여지는 것은 아닙니다. 많은 이들은 우리가 뒤 짚거나 폐지한 다양한 법에 분개하고 있죠. 하지만 그들이 혁명을 방해하려는 시도에도 그들은 실패할겁니다. 이러한 반동들은 성가신 존재이지만 그럼에도 우리는 사회 혁명을 성공적으로 이끌 것입니다.“
+csa.23.a:0 "반동분자들은 처리 될 것이다."
 
-csa.24.t:0 "Family Code of [GetYear]"
-csa.24.d:0 "With the social revolution in full swing, Congress has passed the Family Code of [GetYear]. The Family code is a revolutionary code that is driven by an ideological desire to begin wither away the capitalist model of the family to be replaced by a socialist model of the familial free unions based on mutual love and respect.\n\nThus to that end the code included a number of revolutionary changes. It abolishes all impediments to marriage, the biggest one being the abolition of anti-miscegenation laws. It abolishes religious marriages and makes civil marriage the only legal type of marriage. The code establishes no-grounds divorce, with both spouses receiving equal division of the property at the time of divorce. It abolishes the concept of illegitimacy and entitled all children to parental support and equal rights under the law. The code recognizes cohabitation as the legal equal of civil marriage.\n\nFurthermore in accordance with the revolutionary laws regarding the family, there was another law to encourage families to adopt children that were made homeless by the revolution. In addition, Abortions were made legal and relatively easy to obtain, free love was promoted, Inheritance was restricted, and homosexuality was legalized."
-csa.24.a:0 "The world is changing"
+csa.24.t:0 "[GetYear]년 가족법"
+csa.24.d:0 "사회 혁명이 본격화 되면서 평의회는 가족법을 통과시켰습니다. 가족법은 혁명적인 법으로 자본주의적인 가족 모델을 자유 노조적 상호 사랑과 존경에 기반 된 사회주의적 모델로 대체한다는 이념적 열망을 가지고 주도되었습니다. 이 법률에는 여러 혁명적인 변화가 포함되어 있습니다. 결혼에 대한 장애물은 제거되었고 중요한 부분은 인종 간 결혼 금지법을 폐지했다는 것입니다 또한 종교적 결혼은 폐지되었고 대신 시민 결혼이 만들어졌으며 이것만이 유일한 합법적인 결혼 방식이 되었습니다. 어떠한 조건 없이 이론을 할 수 있으며 이혼을 할 때 서로가 동등한 재산을 배분 받습니다. 또한 사생아라는 개념은 폐지하고 모든 아이들은 법 아래에서 부모의 지원과 동등한 권리를 가질 것입니다. 또한 동거 역시 합법적 시민 결혼과 동등한 권리를 가지게 될 것입니다. 게다가 가족에 관한 혁명적인 법률에 따라서 혁명으로 인해 집과 가족을 잃은 아이에 대한 입양을 권장될 것입니다. 추가적으로 낙태는 합법화 되면서 비교적 쉽게 이루어질 것입니다. 상속은 제한될 것이고 동성애는 이제 합법입니다.“
+csa.24.a:0 "세상은 변할 것이다"
 
 ### Commonwealth Events ###
 
