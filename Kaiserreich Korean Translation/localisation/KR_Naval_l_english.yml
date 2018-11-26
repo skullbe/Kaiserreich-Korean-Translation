@@ -1,25 +1,25 @@
-﻿l_english:
+l_english:
 
 ### Ideas ###
-naval_prep_one:0 "Naval Infrastructure Preperation"
-naval_prep_one_desc:0 "We are focusing our industrial efforts on improving our naval infrastructure, to allow for more intense naval construction."
+naval_prep_one:0 "해군 기반시설 준비"
+naval_prep_one_desc:0 "우리는 보다 강력한 해군 건설이 가능하도록 해군 기반시설을 개선하는 데 산업적인 노력을 집중하고 있습니다."
 
-naval_prep_two:0 "Naval Infrastructure Preperation"
-naval_prep_two_desc:0 "We are focusing our industrial efforts on improving our naval infrastructure, to allow for more intense naval construction."
+naval_prep_two:0 "해군 기반시설 준비"
+naval_prep_two_desc:0 "우리는 보다 강력한 해군 건설이 가능하도록 해군 기반시설을 개선하는 데 산업적인 노력을 집중하고 있습니다."
 
-naval_prep_three:0 "Naval Infrastructure Preperation"
-naval_prep_three_desc:0 "We are focusing our industrial efforts on improving our naval infrastructure, to allow for more intense naval construction."
+naval_prep_three:0 "해군 기반시설 준비"
+naval_prep_three_desc:0 "우리는 보다 강력한 해군 건설이 가능하도록 해군 기반시설을 개선하는 데 산업적인 노력을 집중하고 있습니다."
 
 ### Events ###
 
-navev.1.t:0 "Naval Infrastructure Preperation Completed"
-navev.1.d:0 "Our efforts our now completed, and we are ready to begin work on larger, more powerful, warships."
-navev.1.a:0 "Excellent!"
+navev.1.t:0 "해군 기반시설 준비완료"
+navev.1.d:0 "우리의 노력이 결실을 보았고, 우리는 더 크고 더 강력한 함선 건조 작업에 착수할 수 있습니다."
+navev.1.a:0 "훌륭해!"
 
-navev.2.t:0 "Naval Infrastructure Preperation Completed"
-navev.2.d:0 "Our efforts our now completed, and we are ready to begin work on larger, more powerful, warships."
-navev.2.a:0 "Excellent!"
+navev.2.t:0 "해군 기반시설 준비완료"
+navev.2.d:0 "우리의 노력이 결실을 보았고, 우리는 더 크고 더 강력한 함선 건조 작업에 착수할 수 있습니다."
+navev.2.a:0 "훌륭해!"
 
-navev.3.t:0 "Naval Infrastructure Preperation Completed"
-navev.3.d:0 "Our efforts our now completed, and we are ready to begin work on larger, more powerful, warships."
-navev.3.a:0 "Excellent!"
+navev.3.t:0 "해군 기반시설 준비완료"
+navev.3.d:0 "우리의 노력이 결실을 보았고, 우리는 더 크고 더 강력한 함선 건조 작업에 착수할 수 있습니다."
+navev.3.a:0 "훌륭해!"
