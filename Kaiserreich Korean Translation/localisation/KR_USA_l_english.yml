@@ -1002,7 +1002,7 @@ ustates.50.d:0 "Long's calls for a resistance against Reed have been interpreted
 ustates.50.a:0 "누군가는 롱을 멈춰야해!"
 
 ustates.51.t:0 "맥아더가 워싱턴으로 행군하다"
-ustates.51.d:0 "더글러스 맥아더 장군은 오늘 리드와 그 내각이 독재라고 선언하면서 백악관에서 그를 체포하려고 시도하고 질서를 회복하기 위해 워싱턴 DC로 행군했습니다. 맥아더의 행렬은 1932년의 대규모 펜실베니아 실직자들의 가두시위를 상기시켰습니다. 32년도 시위와 달리 맥아더는 현상을 유지한다는 동기를 가지고 있기에 야유 대신 환호를 받았습니다. 맥아더 사령관에 관해 사회당 밀정의 제보를 받은 리드는 역적 장군의 코앞에서 시카고로 탈출할 수 있었습니다. 맥아더는 이제 백악관에 머무르며 대통령 의자에 앉아서 리드에 대한 조사를 이어나가기로 결정했습니다. 내전이 임박했습니다."
+ustates.51.d:0 "더글러스 맥아더 장군은 오늘 리드와 그 내각이 독재라고 선언하면서 백악관에서 그를 체포하려고 시도하고 질서를 회복하기 위해 워싱턴 DC로 행군했습니다. 맥아더의 행렬은 1932년의 대규모 펜실베니아 실직자들의 가두시위를 상기시켰습니다. 32년도 시위와 달리 맥아더는 현상을 유지한다는 동기를 가지고 있기에 야유 대신 환호를 받았습니다. 맥아더 사령관에 관해 사회당 밀정의 보고를 받은 리드는 역적 장군의 코앞에서 가까스로 시카고로 탈출할 수 있었습니다. 맥아더는 이제 백악관에 머무르며 대통령 의자에 앉아서 리드에 대한 조사를 이어나가기로 결정했습니다. 내전이 임박했습니다."
 ustates.51.a:0 "공화국, 맥아더 그리고 민주주의에 충성을 다하여!"
 
 ### President Long ###
@@ -1053,7 +1053,7 @@ ustates.62.d:0 "When the Minutemen arrived in the Steel Belt to enforce the laws
 ustates.62.a:0 "우리가 가진 최대한의 인력을 보내라"
 
 ustates.63.t:0 "맥아더와 육군이 롱을 축출하다"
-ustates.63.d:0 "더글러스 맥아더 장군은 오늘 롱이 폭군이라고 선언하면서 백악관에서 그를 체포하려고 시도하고 질서를 회복하기 위해 워싱턴 DC로 행군했습니다. 맥아더의 행렬은 1932년의 대규모 펜실베니아 실직자들의 가두시위를 상기시켰습니다. 32년도 시위와 달리 맥아더는 현상을 유지한다는 동기를 가지고 있기에 야유 대신 환호를 받았습니다. 맥아더 사령관에 관해 제일당 밀정의 제보를 받은 롱은 역적 장군의 코앞에서 시카고로 탈출할 수 있었습니다. 맥아더는 이제 백악관에 머무르며 대통령 의자에 앉아서 롱에 대한 조사를 이어나가기로 결정했습니다. 내전이 임박했습니다."
+ustates.63.d:0 "더글러스 맥아더 장군은 오늘 롱이 폭군이라고 선언하면서 백악관에서 그를 체포하려고 시도하고 질서를 회복하기 위해 워싱턴 DC로 행군했습니다. 맥아더의 행렬은 1932년의 대규모 펜실베니아 실직자들의 가두시위를 상기시켰습니다. 32년도 시위와 달리 맥아더는 현상을 유지한다는 동기를 가지고 있기에 야유 대신 환호를 받았습니다. 맥아더 사령관에 관해 제일당 밀정의 보를 받은 롱은 역적 장군의 코앞에서 가까스로 루이지애나로 탈출할 수 있었습니다. 맥아더는 이제 백악관에 머무르며 대통령 의자에 앉아서 롱에 대한 조사를 이어나가기로 결정했습니다. 내전이 임박했습니다."
 ustates.63.a:0 "공화국, 맥아더 그리고 민주주의에 충성을 다하여!"
 
 ### President Olson ###
@@ -1546,11 +1546,11 @@ ustates.172.d:0 "In thanks from the people of Texas, and in recognition for his 
 ustates.172.a:0 "When all you have is a Hammer"
 
 ustates.173.t:0 "맥아더가 '미국의 카이사르'를 저술하다"
-ustates.173.d:0 "맥아더 대통령은 오늘 1936년의 위기상황에서의 자신의 역할을 기록한 자서전을 출간했습니다. 맥아더의 책은 롱과 리드의 선거운동을 꿰뚫어 볼 수 있었던 그의 신묘한 능력과 민주주의를 지키기 위해서는 무엇이든지 할 수 있다는 그의 의지를 보여줍니다. 이 책은 또한 그의 지휘 체계 내에서 정치적 혼란의 해결을 위해 워싱턴 행군을 옹호하는 군인들이 있었다는 것을 보여줍니다. 맥아더는 그 군인들의 이름들을 구태여 밝히려 하지는 않았지만, 그는 개인적으로는 이 군인들이 반역을 저지르지 못하도록 최대한 애썼다고 서술했습니다."
+ustates.173.d:0 "맥아더 대통령은 오늘 1936년의 위기상황에서의 자신의 역할을 기록한 자서전을 출간했습니다. 맥아더의 책은 롱과 리드의 선거운동을 꿰뚫어 볼 수 있었던 그의 신묘한 능력과 민주주의를 지키기 위해서는 무엇이든지 할 수 있다는 그의 의지를 보여줍니다. 이 책은 또한 그의 지휘부 내에서 정치적 혼란의 해결을 위해 워싱턴 행군을 옹호하는 군인들이 있었다는 것을 보여줍니다. 맥아더는 그 군인들의 이름들을 구태여 밝히려 하지는 않았지만, 그는 개인적으로는 이 군인들이 반역을 저지르지 못하도록 최대한 애썼다고 서술했습니다."
 ustates.173.a:0 "역시 민주주의의 수호자군"
 
 ustates.174.t:0 "맥아더 암살미수"
-ustates.174.d:0 "오늘 현충원에서 열린 회의에서 맥아더 대통령의 연설 도중 한 발의 총성이 울렸고 이로 인해 많은 구경꾼들이 도망갔습니다. 이 총성의 범인으로 체포된 미친놈은 맥아더가 군사독재체제를 구축하고 있으며 이는 반드시 중지되어야 한다고 주장하며 맥아더를 겨낭했습니다. 가장 흥미로운 것은 이 사건의 배후에는 어떤 정치집단도 개입하지 않았고, 범인은 그저 대통령의 삶에 제동을 걸려는 소위 '외로운 늑대'인 듯 합니다. 맥아더는 이 개소리를 웃어넘기고 이런 '외로운 늑대'들로부터의 신변 보호를 위해 비밀경호국의 인원를 늘렸습니다."
+ustates.174.d:0 "오늘 현충원에서 열린 회의에서 맥아더 대통령의 연설 도중 한 발의 총성이 울렸고 이로 인해 많은 구경꾼들이 도망갔습니다. 이 총성의 범인으로 체포된 미친놈은 맥아더가 군사독재체제를 구축하고 있으며 이는 반드시 중지되어야 한다고 주장하며 맥아더를 겨낭했습니다. 가장 흥미로운 것은 이 사건의 배후에는 어떤 정치집단도 개입하지 않았으며, 범인은 그저 대통령의 삶에 제동을 걸려는 소위 '외로운 늑대'인 것으로 보입니다. 맥아더는 이 개소리를 웃어넘기고 이런 '외로운 늑대'들로부터의 신변 보호를 위해 비밀경호국의 인원를 늘렸습니다."
 ustates.174.a:0 "아무도 맥아더를 멈출 수 없다"
 
 ustates.175.t:0 "루즈벨트 가문의 화해"
@@ -1691,13 +1691,13 @@ ustates.204.d.not_president:0 "The 1944 Progressive Primary is here and there ar
 ustates.204.a:0 "헨리 월리스"
 ustates.204.b:0 "Philip La Follette"
 
-ustates.205.t:0 "The 1944 Republican Primary"
+ustates.205.t:0 "1944년 공화당 경선"
 ustates.205.d.president:0 "The Republican Party has unanimously re-nominated [USA.GetLeader] for the Republican nominee for President."
 ustates.205.d.not_president:0 "The 1944 Republican Primary is here and there are a number of candidates running to become president. Whom shall become the nominee of the Republican Party?"
 ustates.205.a:0 "토마스 듀이"
 ustates.205.b:0 "Renominate the President"
 
-ustates.206.t:0 "The 1944 Democrat Primary"
+ustates.206.t:0 "1944년 민주당 경선"
 ustates.206.d.president:0 "The Democrat Party has unanimously re-nominated [USA.GetLeader] for the Democratic nominee for President."
 ustates.206.d.not_president:0 "The 1944 Democratic Primary is here and there are a number of candidates running to become president. This year's primary election has been rather contentious between the liberal and conservative factions of the Democratic Party. Whom shall become the nominee of the Democratic Party?"
 ustates.206.a:0 "리차드 러셀 주니어"
@@ -1777,12 +1777,12 @@ ustates.215.b:0 "Harold Stassen"
 ustates.215.c:0 "President is re-elected"
 
 ustates.216.t.liberals:0 "The 1952 Liberal Democratic Primary"
-ustates.216.t.conservative:0 "The 1952 Democratic Primary"
+ustates.216.t.conservative:0 "1952년 민주당 경선"
 ustates.216.d.president:0 "[USA.GetLeader] has unanimously been re-nominated as President for the democratic nominee of 1952."
 ustates.216.d.president_steps_down:0 "[USA.GetLeader] has decided to not seek a third term as is traditional and thus has stepped down to allow a new man to become the Nominee of the democratic party this year."
 ustates.216.d.not_president_conservative:0 "The 1952 Democratic Primary is here and there are a number of candidates running to become president. Whom shall become the nominee of the Democratic Party?"
 ustates.216.d.not_president_liberal:0 "The 1952 Liberal Democratic Primary is here and there are a number of candidates running to become president. Whom shall become the nominee of the Democratic Party?"
-ustates.216.a:0 "Dwight D. Eisenhower"
+ustates.216.a:0 "드와이트 D. 아이젠하워"
 ustates.216.b:0 "Adlai Stevenson"
 ustates.216.c:0 "Re-elect the President"
 
@@ -1793,7 +1793,7 @@ ustates.217.d.president_steps_down:0 "[USA.GetLeader] has decided to not seek a 
 ustates.217.d.not_president_liberal:0 "The 1952 Democratic Primary is here and there are a number of candidates running to become president. Whom shall become the nominee of the Democratic Party?"
 ustates.217.d.not_president_conservative:0 "The 1952 Conservative Democratic Primary is here and there are a number of candidates running to become president. Whom shall become the nominee of the Democratic Party?"
 ustates.217.a:0 "John Sparkman"
-ustates.217.b:0 "James Eastland"
+ustates.217.b:0 "제임스 이스트랜드"
 ustates.217.c:0 "Re-nominate the President"
 
 ustates.218.t:0 "The 1952 Presidential Election"
