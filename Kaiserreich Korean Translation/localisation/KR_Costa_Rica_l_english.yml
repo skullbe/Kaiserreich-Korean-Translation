@@ -128,7 +128,7 @@ COS_Hire_Foreign_Engineers_desc:0 "Small mineral reserves have been discovered d
 COS_Plantation_Expansion:0 "Expand the ZKG Plantations"
 COS_Plantation_Expansion_desc:0 "Positive response by both the company itself and other investors plus a rapid response from our government has led to an agreement concerning the new plantations. Promising to rely on mostly native Costa Rican labour and accepting the demands of the Atlantic Workers Congress, all parties involved have come to a suitable agreement and the first hectares of land have been put in action."
 
-COS_UFC_decisions:0 "유나이티드 프루트 "
+COS_UFC_decisions:0 "유나이티드 프루트 컴퍼니"
 COS_UFC_decisions_desc:0 "Ever since the American Keith set foot in Costa Rica and received the contract to establish a railroad network in our nation, his company the §YUnited Fruit Company§! or §YUFC§! has played an important role in Costa Rican economics. The great success of the company however did not solely remain Costa Rican and through shrewd investment the company has established a network of subsidiaries and plantations all across the Caribbean, bringing great fortune to these nations but also causing massive social disruption, often leading to §Rstrikes§!, §Rviolence§! and §Rpolitical disaster§!.\n\nInfluence of the §YUFC§! : £banana_texticon [?party_popularity@market_liberal|%R0]\n"
 
 COS_Sell_Government_Land_UFC_decision:0 "Sell Government Land to the UFC"
