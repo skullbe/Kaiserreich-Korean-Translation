@@ -1,7 +1,7 @@
-﻿l_english:
+l_english:
 
-naval_decisions:0 "Naval Decisions"
-naval_decisions_desc:0 "As our nation lacked the capacity in the past to invest further into the navy or because we lacked the infrastructure to compete with the naval powers, much of our technology on the subject is dated and our designs ridiculed around the world. An increased effort to catch up however in the field is now at our grasp and plans for the expansion of both our £mapicon_port_strike_result_text §YInfrastructure§! and £navy_experience §YNaval Research§! are well under way."
+naval_decisions:0 "해군 결정"
+naval_decisions_desc:0 "과거의 우리는 해군에 더 투자할 능력이 부족했거나 해양강국과 경쟁할 기반시설이 부족했기 때문에, 이 분야에 대한 우리의 기술 대부분이 시대에 뒤떨어져 있고 전 세계의 놀림거리가 되고 있습니다. 그러나 이 분야에서 시대에 발맞추기 위한 노력이 증가고 있으며 현재 우리의 £mapicon_port_strike_result_text §YInfrastructure§! 및 £navy_experience §YNaval Research§! 기술이 개발 중에 있습니다."
 
 ### Costs ###
 NAV_CP_15_PP_15:0 "£pol_power §Y15§! £command_power §Y15§!"
@@ -32,45 +32,45 @@ NAV_AE_35_PP_15:0 "£pol_power §Y15§! £navy_experience §Y35§!"
 NAV_AE_35_PP_15_blocked:0 "£pol_power §R15§! £navy_experience §R35§!"
 
 ### Catch Up Decisions ###
-Naval_catchup_destroyers:0 "Develop Destroyer Technology"
-Naval_catchup_destroyers_desc:0 "While our naval technology is currently, sadly, far behind the times, we now have access to enough naval production capacity to be able to rapidly advance it."
-naval_catchup_destroyer_techs:0 "Add technology: £destroyer_texticon §YDestroyer I,£destroyer_texticon Destroyer II,£destroyer_texticon Destroyer III§!"
+Naval_catchup_destroyers:0 "구축함 기술개발"
+Naval_catchup_destroyers_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_destroyer_techs:0 "다음 기술을 추가합니다: £destroyer_texticon §YDestroyer I,£destroyer_texticon Destroyer II,£destroyer_texticon Destroyer III§!"
 
-Naval_catchup_light_cruisers:0 "Develop Cruiser Technology"
-Naval_catchup_light_cruisers_desc:0 "While our naval technology is currently, sadly, far behind the times, we now have access to enough naval production capacity to be able to rapidly advance it."
-naval_catchup_light_cruiser_techs:0 "Add technology: £light_cruiser_texticon §YLight Cruiser I,£light_cruiser_texticon Light Cruiser II,£light_cruiser_texticon Light Cruiser III,£light_cruiser_texticon Light Cruiser IV§!"
+Naval_catchup_light_cruisers:0 "순양함 기술개발"
+Naval_catchup_light_cruisers_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_light_cruiser_techs:0 "다음 기술을 추가합니다: £light_cruiser_texticon §YLight Cruiser I,£light_cruiser_texticon Light Cruiser II,£light_cruiser_texticon Light Cruiser III,£light_cruiser_texticon Light Cruiser IV§!"
 
-Naval_catchup_heavy_cruisers:0 "Develop Armoured Cruiser Technology"
-Naval_catchup_heavy_cruisers_desc:0 "While our naval technology is currently, sadly, far behind the times, we now have access to enough naval production capacity to be able to rapidly advance it."
-naval_catchup_heavy_cruiser_techs:0 "Add technology: £heavy_cruiser_texticon §YArmoured Cruiser I,£heavy_cruiser_texticon Armoured Cruiser II§!"
+Naval_catchup_heavy_cruisers:0 "장갑순양함 기술개발"
+Naval_catchup_heavy_cruisers_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_heavy_cruiser_techs:0 "다음 기술을 추가합니다: £heavy_cruiser_texticon §YArmoured Cruiser I,£heavy_cruiser_texticon Armoured Cruiser II§!"
 
-Naval_catchup_battleships:0 "Develop Battleship Technology"
-Naval_catchup_battleships_desc:0 "While our naval technology is currently, sadly, far behind the times, we now have access to enough naval production capacity to be able to rapidly advance it."
-naval_catchup_battleships_techs:0 "Add technology: £battleship_texticon §YBattleship I,£battleship_texticon Battleship II,£battleship_texticon Battleship III,£battleship_texticon Battleship IV§!"
+Naval_catchup_battleships:0 "전함 기술개발"
+Naval_catchup_battleships_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_battleships_techs:0 "다음 기술을 추가합니다: £battleship_texticon §YBattleship I,£battleship_texticon Battleship II,£battleship_texticon Battleship III,£battleship_texticon Battleship IV§!"
 
-Naval_catchup_dreadnoughts:0 "Develop Dreadnought Technology"
-Naval_catchup_dreadnoughts_desc:0 "While our naval technology is currently, sadly, far behind the times, we now have access to enough naval production capacity to be able to rapidly advance it."
-naval_catchup_dreadnought_techs:0 "Add technology: £SH_battleship_texticon §YDreadnought I,£SH_battleship_texticon Dreadnought II,£SH_battleship_texticon Dreadnought III,£SH_battleship_texticon Dreadnought IV,£SH_battleship_texticon Dreadnought V,£SH_battleship_texticon Dreadnought VI§!"
+Naval_catchup_dreadnoughts:0 "드레드노트 기술개발"
+Naval_catchup_dreadnoughts_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_dreadnought_techs:0 "다음 기술을 추가합니다: £SH_battleship_texticon §YDreadnought I,£SH_battleship_texticon Dreadnought II,£SH_battleship_texticon Dreadnought III,£SH_battleship_texticon Dreadnought IV,£SH_battleship_texticon Dreadnought V,£SH_battleship_texticon Dreadnought VI§!"
 
-Naval_catchup_submarines:0 "Develop Submarine Technology"
-Naval_catchup_submarines_desc:0 "While our naval technology is currently, sadly, far behind the times, we now have access to enough naval production capacity to be able to rapidly advance it."
-naval_catchup_submarine_techs:0 "Add technology: £submarine_texticon §YSubmarine I,£submarine_texticon Submarine II,£submarine_texticon Submarine III,£submarine_texticon Submarine IV§!"
+Naval_catchup_submarines:0 "잠수함 기술개발"
+Naval_catchup_submarines_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_submarine_techs:0 "다음 기술을 추가합니다: £submarine_texticon §YSubmarine I,£submarine_texticon Submarine II,£submarine_texticon Submarine III,£submarine_texticon Submarine IV§!"
 
 ### Naval Infrastructure Decisions ###
-nav_infra_one_dec:0 "Naval Infrastructure"
-nav_infra_one_dec_desc:0 "Unlocks the construction of outdated: £heavy_cruiser_texticon §YArmoured Cruiser§!"
+nav_infra_one_dec:0 "해군 기반시설"
+nav_infra_one_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £heavy_cruiser_texticon §YArmoured Cruiser§!"
 
-nav_infra_two_dec:0 "Improved Naval Infrastructure"
-nav_infra_two_dec_desc:0 "Unlocks the construction of outdated: £battleship_texticon §YBattle Cruiser§!, £SH_battleship_texticon §YDreadnought§!"
+nav_infra_two_dec:0 "발전된 해군 기반시설"
+nav_infra_two_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £battleship_texticon §YBattle Cruiser§!, £SH_battleship_texticon §YDreadnought§!"
 
-nav_infra_three_dec:0 "Advanced Naval Infrastructure"
-nav_infra_three_dec_desc:0 "Unlocks the construction of: £battleship_texticon §YBattleship§!, £SH_battleship_texticon §YDreadnought§!, £heavy_carrier_texticon §YHeavy Carrier§!"
+nav_infra_three_dec:0 "진보한 해군 기반시설"
+nav_infra_three_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £battleship_texticon §YBattleship§!, £SH_battleship_texticon §YDreadnought§!, £heavy_carrier_texticon §YHeavy Carrier§!"
 
-nav_av_one_dec:0 "Experimental Naval Aviation"
-nav_av_one_dec_desc:0 "Unlocks the construction of: £carrier_texticon §YCarrier I§!"
+nav_av_one_dec:0 "실험적인 해군 항공대"
+nav_av_one_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £carrier_texticon §YCarrier I§!"
 
-nav_av_two_dec:0 "Basic Naval Aviation"
-nav_av_two_dec_desc:0 "Unlocks the construction of: £carrier_texticon §YCarrier II§!"
+nav_av_two_dec:0 "기초적인 해군 항공대"
+nav_av_two_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £carrier_texticon §YCarrier II§!"
 
-nav_av_three_dec:0 "Advanced Naval Aviation"
-nav_av_three_dec_desc:0 "Unlocks the construction of: £heavy_carrier_texticon §YHeavy Carrier I§!, £heavy_carrier_texticon §YHeavy Carrier II§!, £carrier_texticon §YCarrier III§!"
+nav_av_three_dec:0 "진보한 해군 항공대"
+nav_av_three_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £heavy_carrier_texticon §YHeavy Carrier I§!, £heavy_carrier_texticon §YHeavy Carrier II§!, £carrier_texticon §YCarrier III§!"
