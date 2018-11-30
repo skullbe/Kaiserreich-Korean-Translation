@@ -23,7 +23,7 @@ romanian_civil_war:0 "루마니아 내전"
 
 ### Ideas ###
 ROM_purged_bucharest_circle:0 "숙청된 지식인들"
-ROM_purged_bucharest_circle_desc:0 "정부가 비밀 지식인 단체인 부쿠레슈티 모임의 회원들을 처형하거나 감옥에 투옥시켰습니다."
+ROM_purged_bucharest_circle_desc:0 "정부가 비밀 지식인 단체인 부쿠레슈티 서클의 회원들을 처형하거나 감옥에 투옥시켰습니다."
 ROM_oil_shipments:0 "독일으로의 석유 수송"
 ROM_oil_shipments_desc:0 "세계대전 이후 서명된 부쿠레슈티 조약에 의거하여, 루마니아는 석유 유전을 독일에 임대해주고, 수송선으로 수송해주게 되었습니다."
 ROM_royalist_threat:0 "군주제의 위협"
@@ -65,8 +65,8 @@ ROM_everything_for_the_country_desc:0 "루마니아식 표현인 토툴 펜트�
 ROM_claim_transylvania:0 "트란실바니아 요구"
 ROM_claim_transylvania_desc:0 "트란실바니아에는 방대한 지역에 소수의 루마니아인들이 거주하고 있습니다, 일부 지역에서는 다수를 차지하고 있기도 합니타. 우리는 영유권 주장을 3번에 걸쳐서 압박하여 우리가 주장하는 지역에 모든 트란실바니아 지역과 바나트가 포함되도록 확장시켜야합니다."
 ROM_nationalize_oil_fields:0 "석유 산업체 국유화"
-ROM_nationalize_oil_fields_desc:0 "After our defeat in the Weltkrieg, we were forced to cede control over the rich oilfields of Ploiesti to Germany. Now that the German Empire is in chaos over the stock market collapse it's time to nationalise them. However, we cannot take on the German Empire directly and so must continue the oil shipments and compensate the German oil companies."
-ROM_nationalize_oil_fields_tt:0 "§RGermany and various groups in our country will not like it if we move in this direction.§!\n"
+ROM_nationalize_oil_fields_desc:0 "우리가 대전쟁에서 패전한 이후, 우리는 풍부한 플로이에슈티 유전을 강제로 독일에게 양도해주게 되었습니다. 지금 독일 제국은 주식시장 붕괴로 인해 혼돈이 들이 닥쳤으니 이제 유전을 국유화할 때입니다. 반면에, 우리는 독일 제국으로 부터 바로 직접 빼앗을 수는 없기 때문에 석유 수송은 계속하고 독일 회사들에게 배상을 해주어야합니다."
+ROM_nationalize_oil_fields_tt:0 "§R이 선택을 하다면 독일과 우리나라에 있는 일부 단체들이 좋아하지 않을 것입니다.§!\n"
 ROM_demand_dobrudzha:0 "도브루자 재요구"
 ROM_demand_dobrudzha_desc:0 "Since our crushing defeat in Weltkrieg confirmed by the Treaty of Bucharest, Dobrogea is a part of Bulgaria. The Romanian minority inhabiting this region is suffering from the constant attempts of Bulgarian magistrates to completely eradicate any trace of Romanian identity from Dobrogea. We need to safeguard their and our interests and demand Bulgaria to hand over the region to us."
 ROM_dobrudzha_plebiscite:0 "도브루자 국민투표"
@@ -195,17 +195,17 @@ romania.0.d:0 "1878년 카를 왕 아래 루마니아가 오스만 제국으로 
 romania.0.a:0 "루마니아의 새로운 미래를 위하여!"
 
 romania.1.t:0 "니콜라이 요르가"
-romania.1.d:0 "Nicolae Iorga, a prominent Romanian historian and intellectual, has been a thorn in the side of the Iron Guard since we've taken over. Rumour has it that he and others like him have founded a secret, intellectual group, the Bucharest Circle."
+romania.1.d:0 "저명한 루마니아 역사가이자 지식인인 니콜라이 요르가는 철위대가 정권을 잡았을 때 부터 철위대의 눈엣가시 같던 인물입니다. 소문에 의하면 요르가와 비슷한 부류의 인물들과 요르가가 비밀스러운 지식인 모임인 부쿠레슈티 서클을 결성했다고 합니다."
 romania.1.a:0 "요르가는 반드시 멈춰야한다."
 romania.1.b:0 "위협적으로 보이지 않는다."
 
-romania.2.t:0 "부쿠레슈티 모임의 와해"
+romania.2.t:0 "부쿠레슈티 서클의 와해"
 romania.2.d:0 "After being tipped off to the meeting place of the Bucharest Circle, we raided the building they were using as a hideout and imprisoned most of the members."
 romania.2.a:0 "요르가를 처형하고, 다른 이들을 감옥에 넣어라."
 
-romania.3.t:0 "부쿠레슈티 모임"
+romania.3.t:0 "부쿠레슈티 서클"
 romania.3.d:0 "Members of the Bucharest Circle have begun publishing pamphlets, criticising the government and causing dissent among the people. If we wait any longer, they could plant the seed of revolution."
-romania.3.a:0 "모임을 와해시키고 요르가를 처형해라."
+romania.3.a:0 "서클을 와해시키고 요르가를 처형해라."
 romania.3.b:0 "그냥 납둬라."
 
 romania.4.t:0 "건국 기념일"
@@ -215,7 +215,7 @@ romania.4.a:0 "모든 것은 조국을 위하여!"
 romania.5.t:0 "건국 기념일" #same as romania.4
 
 romania.7.t:0 "음모다!"
-romania.7.d:0 "부큐레슈티 모임의 회원들이 반 철위대 혁명의 씨앗을 뿌렸습니다. 북부의 국민들이 우리 정부에 대항하여 총기를 집어들었습니다!"
+romania.7.d:0 "부큐레슈티 서클의 회원들이 반 철위대 혁명의 씨앗을 뿌렸습니다. 북부의 국민들이 우리 정부에 대항하여 총기를 집어들었습니다!"
 romania.7.a:0 "반역자들이다!"
 romania.7.b:0 "우린 군주정을 복건할 것이다!"
 
