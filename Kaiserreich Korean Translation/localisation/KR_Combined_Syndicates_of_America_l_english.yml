@@ -151,7 +151,7 @@ CSA_destroy_federalists:0 "§G우리는 구 정부를 위해 싸우는 테러리
 CSA_export_the_revolution_tooltip:0 "§G우리는 아메리카 전역에 혁명 전파를 시작할 것입니다.\n§!"
 ### Decisions ###
 
-CSA_civil_war_decisions:0 "두 번째 미국 혁명 결정"
+CSA_civil_war_decisions:0 "제 2차 미국 혁명 결정"
 CSA_civil_war_decisions_desc:0 "오늘 우리는 해방의 대의와 마주하고 우리의 목소리를 크게 낼 것입니다. 우리는 우리의 손으로 조합을 부강하게 만들 것입니다. 승리가 다가옵니다!"
 
 CSA_expanding_the_revolution_decisions:0 "혁명을 수출하다"
@@ -424,7 +424,7 @@ CSA_long_term_planning:0 "장기 계획"
 CSA_long_term_planning_desc:0 "마침내, 지휘부는 우리가 가진 자원에 대한 정보를 충분히 모았습니다. 이것은 우리의 공급을 조절하여 장기간 전쟁을 수행 할 수 있게 할 겁니다. 이것은 아마 승리 할 수 있는 방법을 제공 할 뿐이지만, 결과적으로 우리를 승리로 이끌 것입니다."
 CSA_always_prepared:0 "항시준비"
 CSA_always_prepared_desc:0 "사회주의 국가들 중에서 우리의 아주 길고 취약한 해안선으로 인해 많은 지역들이 주요한 목표가 됩니다. 따라서 우리는 인민들이 우리 국경에 있는 수상한 함선이나 비행기를 주의를 기울이도록 유도해야 합니다."
-CSA_logistics:0 "증앙화 된 병참 체계"
+CSA_logistics:0 "중앙화된 병참 체계"
 CSA_logistics_desc:0 "중앙화된 군대 명령 체계의 이점은 병참 체계에 대한 중앙 위원회의 전적인 지원을 군대가 받을 수 있을 때 나타납니다. 일부 우리 장군들은 중앙 위원회의 정치적 이점을 최대한 취하기 위해서 전선에 기반 한 병참 체제를 시행하기를 원합니다."
 CSA_propaganda:0 "혁명적 열정"
 CSA_propaganda_desc:0 "우리의 불타오르는 열정은 마침내 극도의 흥분으로까지 도달했습니다. 비록 일부 과도한 열광은 문제를 야기하지만, 우리는 이러한 열정을 무보수 자원 봉사를 포함한 건설적인 활동으로 돌릴 수 있을 것입니다."
@@ -438,7 +438,7 @@ CSA_mechanized_warfare:0 "기계화 전투"
 CSA_mechanized_warfare_desc:0 "현장에서, 차량에서의 결점이 발견되었습니다. 노동조합의 말에 따르면, 고무 부품들이 계약 했던 것보다 낮은 질의 합성품이었습니다. 이 문제가 개선된다면, 차량들의 신뢰성은 이제 올라갈 것입니다."
 ### Air Force ###
 CSA_air_force:0 "붉은 공군"
-CSA_air_force_desc:0 "전쟁 이전에, 미국군에서 공군은 육군의 한 부서였습니다. 우리는 지구에서 속박 받는 남녀인민들을 해방시켜야 하며, 따라서 이 전쟁에서 공군을 독립 보장해야하고 이들의 요구를 최대한 수용해야 합니다." 
+CSA_air_force_desc:0 "전쟁 이전에, 미군에서 공군은 육군의 일부였습니다. 우리는 전 세계에서 박해받는 남녀 인민들을 해방시켜야만 하며, 따라서 이 전쟁에서 공군의 독립성을 보장해야 하고 이들의 요구를 최대한 수용해야 합니다."
 CSA_revolutionary_pilots:0 "공군기지 확장"
 CSA_revolutionary_pilots_desc:0 "항공 노동조합은 더 많은 공군기지 건설을 요구했습니다. 중앙 위원회 역시 혁명의 승리와 우리 공군 규모의 확장을 위해 이를 승인하였습니다."
 CSA_red_eagles:0 "붉은 마녀들"
@@ -463,29 +463,29 @@ CSA_rule_the_skies:0 "창공을 지배하라"
 CSA_rule_the_skies_desc:0 "우리는 우리의 적으로부터 승리하였고, 그로써 지금 미국의 하늘을 지배합니다. 이제 조준하고, 날고, 싸우고 이길 시간입니다."
 ### Navy Focus ###
 CSA_navy:0 "붉은 해군"
-CSA_navy_desc:0 "미국 해군은 세계의 자랑거리였습니다. 그러나 이 해군의 많은 부분이 노동 착취로 이루어졌고, 직위는 늙은 아이들에게 분배되었습니다. 우리는 어떤 부대가 사회주의의 혁명에 답했는지 검토해야 하고, 그리 함으로써 우리는 이 전쟁을 어떻게 수행할 수 있는지 결정 할 수 있을겁니다.“
+CSA_navy_desc:0 "미 해군은 세계의 자랑거리였습니다. 그러나 이 해군의 많은 부분은 노동력 착취로 이루어졌고, 그 보수는 탐욕스러운 늙은이들이 독식했습니다. 우리는 미군에서 어느 군이 사회주의 혁명에 가장 적극적이었는지 되새겨봐야 하고, 그리함으로써 우리는 이 전쟁을 어떻게 수행할 수 있는지 결정할 수 있을 것입니다."
 CSA_revolutionary_captians:0 "혁명 해병대"
-CSA_revolutionary_captians_desc:0 "자국의 제국주의에 대항해서 싸운 포템킨 군함의 용감한 선원들에게 염감을 얻어서, 현대적인 장비와 훈련을 갖춘 새로운 해병대를 창설했습니다. 이 해병대는 적의 심장부를 마치 포템킨 선원들이 한 것처럼 공격 할 것입니다.“
+CSA_revolutionary_captians_desc:0 "자국의 제국주의에 대항해서 싸운 포템킨 군함의 용감한 선원들에게 염감을 얻어서, 현대적인 장비와 훈련을 갖춘 새로운 해병대를 창설했습니다. 이 해병대는 적의 심장부를 마치 포템킨 선원들이 한 것처럼 공격할 것입니다."
 CSA_liberty_ships:0 "해방 선"
-CSA_liberty_ships_desc:0 "이전에 상업 선을 생산했던 우리 조선소는 전 세계에 있는 우리 동맹에게 보급을 제공할 수많은 수송선을 만들 것입니다.“
+CSA_liberty_ships_desc:0 "이전에 상업 선을 생산했던 우리 조선소는 전 세계에 있는 우리 동맹에게 보급을 제공할 수많은 수송선을 만들 것입니다."
 CSA_coast_guard:0 "해안방위대"
-CSA_coast_guard_desc:0 "해안경비대의 재건은 무역을 원활하게 하고 바다에 범죄자들이 활보하는 것을 중단시키며 위험에 처한 사람을 구조하게 할 수 있을 것입니다.“
+CSA_coast_guard_desc:0 "해안경비대의 재건은 무역을 원활하게 하고 바다에 범죄자들이 활보하는 것을 중단시키며 위험에 처한 사람을 구조하도록 할 수 있을 것입니다.“
 CSA_destroy_captitalism:0 "자본주의를 파괴하라"
-CSA_destroy_captitalism_desc:0 "자본가들은 강력한 전함을 가지고 있으며, 혁명을 성공시키고 살아남게 하기 위해서는 그들과 맞먹는 전함을 양성해야 합니다. 드레드노트나 전함 항공모함은 아마 미국 노동자들의 안전을 보장 할 것입니다.“
+CSA_destroy_captitalism_desc:0 "자본가들은 강력한 전함을 가지고 있으며, 혁명을 성공시키고 살아남게 하기 위해서는 그들과 맞먹는 전함을 양성해야 합니다. 드레드노트나 전함 항공모함은 아마 미국 노동자들의 안전을 보장할 것입니다."
 CSA_battleships:0 "전함 착수"
-CSA_battleships_desc:0 "전함은 공해의 왕입니다. 따라서 우리는 더 큰 주포와 더 나은 대공포를 배치 할 수 있는 새로운 모델의 전함 양성을 시작해야 합니다.
+CSA_battleships_desc:0 "전함은 공해의 왕입니다. 따라서 우리는 더 큰 주포와 더 나은 대공포를 배치 할 수 있는 새로운 모델의 전함 양성을 시작해야 합니다."
 CSA_battle_cruisers:0 "순양전함 착수"
-CSA_battle_cruisers_desc:0 "순양전함은 고속 순양함과 중무장 전함 사이에서 균형이 맞춰진 함선입니다. 따라서 우리는 이런 전투함을 보유 할 필요가 있습니다.“
+CSA_battle_cruisers_desc:0 "순양전함은 빠른 순양함과 육중한 전함 사이에서 균형이 맞춰진 함선입니다. 따라서 우리는 이런 전투함을 보유할 필요가 있습니다."
 CSA_cut_off_capitalism:0 "자본주의를 끊어내라"
-CSA_cut_off_capitalism_desc:0 "자본주의 경제를 파괴하는 가장 쉬운 길은 국제 무역을 방해하는 것입니다. 우리는 적을 떨게 만드는 모든 방법을 다 강구 할 겁니다.“
+CSA_cut_off_capitalism_desc:0 "자본주의 경제를 파괴하는 가장 쉬운 길은 국제 무역을 방해하는 것입니다. 우리는 적을 떨게 만드는 모든 방법을 다 강구할 것입니다."
 CSA_carriers:0 "항공모함 착수"
-CSA_carriers_desc:0 "항공모함은 미래의 파도입니다. 우리는 항공모함을 더 연구하고 건조하여 더 나은 해군력을 가지는데 주력해야 할 것입니다“
+CSA_carriers_desc:0 "항공모함은 미래의 파도입니다. 우리는 항공모함을 더 연구하고 건조하여 더 나은 해군력을 가지는 데 주력해야 할 것입니다."
 CSA_naval_avation:0 "해군 항공대"
-CSA_naval_avation_desc:0 "해군 항공대는 공해에서 전쟁의 미래가 될 것입니다. 우리는 우리 비행기 설계 할 때, 항공모함에서부터 발진 할 수 있게 만들어서 우리를 위협에 빠트리는 일 없이 적 함선을 파괴해야 합니다.“
+CSA_naval_avation_desc:0 "해군 항공대는 공해에서 전쟁의 미래가 될 것입니다. 우리는 우리의 항공기들을 설계할 때, 항공모함에서부터 발진 할 수 있게 만들어서 우리를 위협에 빠트리는 일 없이 적 함선을 파괴해야 합니다."
 CSA_submarines:0 "잠수함 지원"
-CSA_submarines_desc:0 "잠수함은 적의 함선과 전함을 파괴시킬 수 있습니다. 우리는 우리 잠수함을 적의 구축함과 대 잠수함전에 대항할 수 있게 설계해야 합니다.“
+CSA_submarines_desc:0 "잠수함은 적의 함선과 전함을 파괴시킬 수 있습니다. 우리는 우리 잠수함을 적의 구축함과 대 잠수함전에 대항할 수 있게 설계해야 합니다."
 CSA_rule_the_waves:0 "파도를 지배하라"
-CSA_rule_the_waves_desc:0 "해군 연구와 건조에 대한 우리의 투자 확대로 우리는 세계를 주도하는 혁명 해군을 재건 할 수 있었습니다. 지금 닻을 내립시다!“
+CSA_rule_the_waves_desc:0 "해군 연구와 건조에 대한 우리의 투자 확대로 우리는 세계를 주도하는 혁명 해군을 재건할 수 있었습니다. 지금 닻을 내립시다!"
 ### Foreign Policy ###
 CSA_deal_with_mexico:0 "멕시코와 거래"
 CSA_deal_with_mexico_desc:0 "When John Reed interviewed Pancho Villa in 1914, he saw a nation with a lot of promise for Socialist growth, but was under the yoke of so many masters. Now we once again visit Mexico, this time united around the syndicalist ideals."
