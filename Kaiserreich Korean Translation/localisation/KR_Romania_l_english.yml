@@ -63,7 +63,7 @@ ROM_everything_for_the_country_desc:0 "루마니아식 표현인 토툴 펜트�
 
 ### Diplomatic ###
 ROM_claim_transylvania:0 "트란실바니아 요구"
-ROM_claim_transylvania_desc:0 "There lives a large Romanian minority in Transylvania, in some parts even a majority. We can press our claims on these parts and even extend our claim to include all of Transylvania and Banat."
+ROM_claim_transylvania_desc:0 "트란실바니아에는 방대한 지역에 소수의 루마니아인들이 거주하고 있습니다, 일부 지역에서는 다수를 차지하고 있기도 합니타. 우리는 영유권 주장을 3번에 걸쳐서 압박하여 우리가 주장하는 지역에 모든 트란실바니아 지역과 바나트가 포함되도록 확장시켜야합니다."
 ROM_nationalize_oil_fields:0 "석유 산업체 국유화"
 ROM_nationalize_oil_fields_desc:0 "After our defeat in the Weltkrieg, we were forced to cede control over the rich oilfields of Ploiesti to Germany. Now that the German Empire is in chaos over the stock market collapse it's time to nationalise them. However, we cannot take on the German Empire directly and so must continue the oil shipments and compensate the German oil companies."
 ROM_nationalize_oil_fields_tt:0 "§RGermany and various groups in our country will not like it if we move in this direction.§!\n"
