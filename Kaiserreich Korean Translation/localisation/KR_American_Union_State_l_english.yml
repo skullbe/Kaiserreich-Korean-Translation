@@ -1026,14 +1026,14 @@ unionstate.96.d:0 "The United States has sent an envoy about inviting [Root.GetN
 unionstate.96.a:0 "Of course we shall join the League"
 unionstate.96.b:0 "It is not in our interests"
 
-unionstate.97.t:0 "The United States is asking for New England"
+unionstate.97.t:0 "미합중국이 뉴잉글랜드에 물어보다"
 unionstate.97.d:0 "With the civil war now over, the United States has decided to ask for the return of New England. We had set up New England as our puppet state to protect our interests and in case the godless syndicalists won, a legitimate America. However, with the federal government victory in the civil war, they are asking for New England to be returned to them. Their ambassador has stressed that war is rather likely if New England is not returned to them. What shall our response be. "
 unionstate.97.a:0 "This is not worth the risks"
 unionstate.97.b:0 "We shall not betray our allies"
 
-unionstate.98.t:0 "New England rejoins America"
+unionstate.98.t:0 "뉴잉글랜드가 미국에 재합류하다"
 unionstate.98.d:0 "The Canadians have withdrawn their troops from Boston and the cities of New England and have stated their occupation is over and that they were just keeping the region safe from syndicalism. New England has at least been reunited with the rest of America. "
-unionstate.98.a:0 "God Bless America"
+unionstate.98.a:0 "미국에 신의 가호가 함께 하기를"
 
 unionstate.99.t:0 "캐나다가 뉴잉글랜드 재통합을 거부하다"
 unionstate.99.d:0 "Canada has informed us that they shall not allow New England to reunite with us. This has caused many within Congress to demand war to reclaim New England, though shall we go to war right now?"
@@ -1051,7 +1051,7 @@ unionstate.102.t:0 "Missiles over White Sands"
 unionstate.102.d:0 "After months of testing in the Southwest, and publishing several classified papers, the first test launch is prepared. In a fenced off area outside White Sands, New Mexico, Goddard's rocket stands ready. The rocket's design incorporates liquid fuel and stabilizers devised by Goddard with flight mechanics devised by Lindbergh Aircraft. At the head is a lower tonnage explosive meant to detonate after a set amount of time spent flying. A successful arc and explosion turns the New Mexico skyline on fire."
 unionstate.102.a:0 "어디도 안전하지 않다"
 
-unionstate.103.t:0 "Nuclear Power in New Mexico"
+unionstate.103.t:0 "뉴멕시코의 원자력"
 unionstate.103.d:0 "Hurdle after hurdle stood in between the American Union State and atomic weaponry. It began with a dearth of willing physicists and nuclear experts including Robert Oppenheimer who has yet to be located. Several other potential candidates signed a Humanist Declaration of pacifism abroad declaring their opposition to our program. Therefore, Bush has had to resort to industrial technicians which extended the timeline. Finally, after much testing and assistance from George Kistiakowsky, the first atomic bomb is tested. Due to the extensive safety precautions take, the vital test yielded an impressive blast but poor documentation."
 unionstate.103.a:0 "We wear the Crown Atomic"
 
@@ -1063,62 +1063,62 @@ unionstate.104.a:0 "신이 미국을 구원했다"
 unionstate.105.t:0 "화기회사 품평회"
 unionstate.105.d:0 "A number of Weapons companies have fought for the various traitors and rebels against America. Thus a hearing has been brought before congress to decide their fate. Shall we allow them to operate again, or shall they be regarded as traitors and be treated as such. "
 unionstate.105.a:0 "저들이 다시 경영하도록 허락해라"
-unionstate.105.b:0 "They are traitors and should be treated as such"
+unionstate.105.b:0 "저들은 반역자들이므로 그에 따른 대가를 치뤄야한다"
 
 unionstate.106.t:0 "중장비회사 품평회"
 unionstate.106.d:0 "A number of Heavy Equipment companies have fought for the various traitors and rebels against America. Thus, a hearing has been brought before congress to decide their fate. Shall we allow them to operate again, or shall they be regarded as traitors and be treated as such. "
 unionstate.106.a:0 "저들이 다시 경영하도록 허락해라"
-unionstate.106.b:0 "They are traitors and should be treated as such"
+unionstate.106.b:0 "저들은 반역자들이므로 그에 따른 대가를 치뤄야한다"
 
 unionstate.107.t:0 "항공회사 품평회"
 unionstate.107.d:0 "A number of Aviation companies have fought for the various traitors and rebels against America. Thus a hearing has been brought before congress to decide their fate. Shall we allow them to operate again, or shall they be regarded as traitors and be treated as such. "
 unionstate.107.a:0 "저들이 다시 경영하도록 허락해라"
-unionstate.107.b:0 "They are traitors and should be treated as such"
+unionstate.107.b:0 "저들은 반역자들이므로 그에 따른 대가를 치뤄야한다"
 
 unionstate.108.t:0 "군함제조사 품평회"
 unionstate.108.d:0 "A number of Naval companies have fought for the various traitors and rebels against America. Thus a hearing has been brought before congress to decide their fate. Shall we allow them to operate again, or shall they be regarded as traitors and be treated as such. "
 unionstate.108.a:0 "저들이 다시 경영하도록 허락해라"
-unionstate.108.b:0 "They are traitors and should be treated as such"
+unionstate.108.b:0 "저들은 반역자들이므로 그에 따른 대가를 치뤄야한다"
 
 unionstate.109.t:0 "산업회사 품평회"
 unionstate.109.d:0 "A number of Industrial companies have fought for the various traitors and rebels against America. Thus a hearing has been brought before congress to decide their fate. Shall we allow them to operate again, or shall they be regarded as traitors and be treated as such. "
 unionstate.109.a:0 "저들이 다시 경영하도록 허락해라"
-unionstate.109.b:0 "They are traitors and should be treated as such"
+unionstate.109.b:0 "저들은 반역자들이므로 그에 따른 대가를 치뤄야한다"
 
 
 
 ### Resistance Events ###
 unionstate.200.t:0 "생디칼리스트 폭탄테러"
 unionstate.200.d:0 "Syndicalists who still fight for their 'revolution' have targeted a factory in [attack_state.GetName], causing a great deal of damage and the loss of many lives. Minutemen are on the scene, and claim they are closer to catching the ringleaders behind the Catholic terrorists than they were before."
-unionstate.200.a:0 "We shall crush these terrorists"
+unionstate.200.a:0 "우리는 이 테러리스트들을 소탕할 것이다"
 
 unionstate.201.t:0 "생디칼리스트 폭탄테러"
 unionstate.201.d:0 "Syndicalists who still fight for their 'revolution' have targeted an arms factory in [attack_state.GetName], causing a great deal of damage and the loss of many lives. Minutemen are on the scene, and claim they are closer to catching the ringleaders behind the Catholic terrorists than they were before."
-unionstate.201.a:0 "We shall crush these terrorists"
+unionstate.201.a:0 "우리는 이 테러리스트들을 소탕할 것이다"
 
-unionstate.202.t:0 "생디칼리스트가 철도를 사보타지하다"
+unionstate.202.t:0 "생디칼리스트가 철도에 사보타주하다"
 unionstate.202.d:0 "The Syndicalists have set off a series of bombs in the [attack_state.GetName] region, causing considerable damage to the railways destroying many trains and costing the lives of countless innocent people."
-unionstate.202.a:0 "We shall crush these terrorists"
+unionstate.202.a:0 "우리는 이 테러리스트들을 소탕할 것이다"
 
-unionstate.203.t:0 "Syndicalist Slaughter Police"
+unionstate.203.t:0 "생디칼리스트가 경찰들을 학살하다"
 unionstate.203.d:0 "During the night, a police barracks in [attack_state.GetName] was attacked by the Syndicalist Terrorists slaughtering them. The Minutemen have vowed revenge and plans to take them out and end this slaughter."
-unionstate.203.a:0 "We shall crush these terrorists"
+unionstate.203.a:0 "우리는 이 테러리스트들을 소탕할 것이다"
 
-unionstate.204.t:0 "연방주의자 폭탄테러"
+unionstate.204.t:0 "연방주의자의 폭탄테러"
 unionstate.204.d:0 "Federalist who still fight for the corrupt old Washington have targeted a factory in [attack_state.GetName], causing a great deal of damage and the loss of many lives. Minutemen are on the scene, and claim they are closer to catching the ringleaders behind the Catholic terrorists than they were before."
-unionstate.204.a:0 "We shall crush these terrorists"
+unionstate.204.a:0 "우리는 이 테러리스트들을 소탕할 것이다"
 
-unionstate.205.t:0 "연방주의자 폭탄테러"
+unionstate.205.t:0 "연방주의자의 폭탄테러"
 unionstate.205.d:0 "Federalist who still fight for the corrupt old Washington have targeted an arms factory in [attack_state.GetName], causing a great deal of damage and the loss of many lives. Minutemen are on the scene, and claim they are closer to catching the ringleaders behind the Catholic terrorists than they were before."
-unionstate.205.a:0 "We shall crush these terrorists"
+unionstate.205.a:0 "우리는 이 테러리스트들을 소탕할 것이다"
 
-unionstate.206.t:0 "Federalist sabotage railways"
+unionstate.206.t:0 "연방주의자가 철도에 사보타주하다"
 unionstate.206.d:0 "The Federalist terrorists have set off a series of bombs in the [attack_state.GetName] region, causing considerable damage to the railways destroying many trains and costing the lives of countless innocent people."
-unionstate.206.a:0 "We shall crush these terrorists"
+unionstate.206.a:0 "우리는 이 테러리스트들을 소탕할 것이다"
 
-unionstate.207.t:0 "Federalist Slaughter Police"
+unionstate.207.t:0 "연방주의자가 경찰들을 학살하다"
 unionstate.207.d:0 "During the night, a police barracks in [attack_state.GetName] was attacked by the Syndicalist Terrorists slaughtering them. The Minutemen have vowed revenge and plans to take them out and end this slaughter."
-unionstate.207.a:0 "We shall crush these terrorists"
+unionstate.207.a:0 "우리는 이 테러리스트들을 소탕할 것이다"
 
 unionstate.208.t:0 ""
 unionstate.208.d:0 ""
