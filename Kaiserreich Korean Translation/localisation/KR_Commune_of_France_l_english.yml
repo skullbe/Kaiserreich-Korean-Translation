@@ -243,7 +243,7 @@ phalanstere_research_desc:0 "케임브리지 대학의 회의에서 생디칼리
 FRA_wip:0 "이 중점은 아직 완성되지 않았습니다. 절대로 해금되지도 않고 효과도 없을 것입니다."
 latin_american_union:0 "라틴 아메리카 연방" #??"
 FRA_sorelian_economy_tooltip:0 "§Y파리에 4개 사단을 보낼 것입니다§!\n"
-scientific_phalanstere:0 "The Phalanstere has been created"
+scientific_phalanstere:0 "팔랑스테르가 만들어집니다"
 
 tech_marine_bonus:0 "넵튠 부대"
 tech_marine_bonus_effect:0 "§H해군§!\n      유연한 공격: §G+5%§!\n      과격한 공격: §G+5%§!\n"
@@ -1066,15 +1066,15 @@ comfrance.12600.a:0 "군대의 증강에 사용한다"
 comfrance.12600.b:0 "산업을 개선하는 데에 사용한다"
 comfrance.12600.c:0 "아르헨티나와의 국경을 요새화하는 데에 사용한다"
 
-comfrance.127.t:0 "팔랑스테르 인터네셔널 연구 기구"
+comfrance.127.t:0 "팔랑스테르 인터내셔널 연구 기구"
 comfrance.127.d:0 "As time passed it soon became apparent that the global revolution required far more than just devotion to the cause. With France and Britain being the only highly-developed socialist countries in the world, it became widely accepted that they should launch a long-run help programme for other countries. Thus began the so-called 'Phalanstère International Research Organisation', a branch of the 'Phalanstère International' program aimed at providing technological support for socialist countries all over the world."
 comfrance.127.a:0 "우리는 참여해야한다!"
 comfrance.127.b:0 "우리의 기술들이 자본주의 세계에 퍼질수 있는 위험을 감수할 수 없다."
 
-comfrance.128.t:0 "팔랑스테르 인터네셔널 산업 프로그램"
+comfrance.128.t:0 "팔랑스테르 인터내셔널 산업 프로그램"
 comfrance.128.d:0 "It has become apparent to many in the Internationale that it is the responsibility of all sufficiently-developed syndicalist nations to provide industrial support to those nations that are less able to provide for themselves. The choice is now upon us to decide whether we should stand in solidarity with workers around the world by helping implement a massive programme of industrial aid alongside our French brothers-in-arms."
-comfrance.128.a:0 "It sounds like a great idea!"
-comfrance.128.b:0 "We cannot afford to expend energy on such a thing."
+comfrance.128.a:0 "정말 좋은 생각이군!"
+comfrance.128.b:0 "우리는 에너지를 확장할 여유가 없다."
 
 comfrance.129.t:0 "팔랑스테르의 지원병이 도착하다."
 comfrance.129.d:0 "As part of the Phalanstère Intertional programme, our comrades in Paris and London have just delivered us a much needed help. Industrial machines, mining equipment, weapons, ammunition and more - all of this is being unloaded in our ports and airports and being transported across the country."
@@ -1234,7 +1234,7 @@ comfrance.159.d:0 "빛의 도시이자 혁명의 요람, 프랑스의 중심지�
 comfrance.159.a:0 "억압받은 민중들아, 일어나라, 일어나라!"
 
 comfrance.160.t:0 "알자스-로렌 해방"
-comfrance.160.d:0 "우리는 전(前) 제국 지역인 알자스 로렌으로 진군하였고 전 지역을 점령하였습니다. 독일은 우리의 우세를 견딜 수 없을 것이고, 프랑스의 고토는 회복될 것입니다!"
+comfrance.160.d:0 "우리는 전 제국 지역인 알자스 로렌으로 진군하였고 전 지역을 점령하였습니다. 독일은 우리의 우세를 견딜 수 없을 것이고, 프랑스의 고토는 회복될 것입니다!"
 comfrance.160.a:0 "...모두 단결하라 그리고 내일..."
 
 comfrance.161.t:0 "바스티유의 날 기념일"
