@@ -200,19 +200,19 @@ romania.1.a:0 "요르가는 반드시 멈춰야한다."
 romania.1.b:0 "위협적으로 보이지 않는다."
 
 romania.2.t:0 "부쿠레슈티 서클의 와해"
-romania.2.d:0 "After being tipped off to the meeting place of the Bucharest Circle, we raided the building they were using as a hideout and imprisoned most of the members."
+romania.2.d:0 "부쿠레슈티 서클의 모임 장소로 향한후, 우리는 부큐레슈티 서클 회원들이 은신처로 사용하던 건물로 들어가서 대부분의 회원들을 투옥시켰습니다."
 romania.2.a:0 "요르가를 처형하고, 다른 이들을 감옥에 넣어라."
 
 romania.3.t:0 "부쿠레슈티 서클"
-romania.3.d:0 "Members of the Bucharest Circle have begun publishing pamphlets, criticising the government and causing dissent among the people. If we wait any longer, they could plant the seed of revolution."
+romania.3.d:0 "부쿠레슈티 회원들이 정부를 비난하고 국민들간의 의견충돌을 유발시키는 책자를 발행하기 시작했습니다. 우리가 아무런 조치를 취하지 않는다면, 부쿠레슈티 서클이 혁명의 씨앗을 심게 될 것입니다."
 romania.3.a:0 "서클을 와해시키고 요르가를 처형해라."
 romania.3.b:0 "그냥 납둬라."
 
-romania.4.t:0 "건국 기념일"
-romania.4.d:0 "Union Day represents the Union of the Principalities of Moldova and Wallachia on the 24th of January, 1859, when Alexandru Ioan Cuza was elected as 'Domnitor' in both principalities as a way to bypass the ruling that the two cannot unite in a single state. It is regarded as a National Holiday in Romania."
-romania.4.a:0 "모든 것은 조국을 위하여!"
+romania.4.t:0 "통일기념일"
+romania.4.d:0 "통일기념일은 몰도바 공국과 왈라키아 공국의 연합이 이뤄진 날로서, 1859년 2월 24일, 알렉산드루 이오안 쿠자가 두 공국의 '지도자'로 선출되어 하나로 통일될 수 없는 두 공국을 통일시켰습니다. 이 사건은 루마니아 국경기념일로 기리고 있습니다."
+romania.4.a:0 "조국을 위하여!"
 
-romania.5.t:0 "건국 기념일" #same as romania.4
+romania.5.t:0 "통일기념일" #same as romania.4
 
 romania.7.t:0 "음모다!"
 romania.7.d:0 "부큐레슈티 서클의 회원들이 반 철위대 혁명의 씨앗을 뿌렸습니다. 북부의 국민들이 우리 정부에 대항하여 총기를 집어들었습니다!"
@@ -220,7 +220,7 @@ romania.7.a:0 "반역자들이다!"
 romania.7.b:0 "우린 군주정을 복건할 것이다!"
 
 romania.8.t:0 "군주주의자들이 반란을 일으키다"
-romania.8.d:0 "Under the influence of the Bucharest Circle an attempt to establish a Monarchist Romania, free from Iron Guard oppression, has been made in the north of the country."
+romania.8.d:0 "부쿠레슈티 서클의 영향으로 철위대의 탄압으로부터 자유로운 군주정 루마니아를 북부에 설립하려는 시도가 있었습니다."
 romania.8.a:0 "반역자들에게 죽음을!"
 
 romania.10.t:0 "루마니아 내전에 개입하시겠습니까?"
@@ -279,11 +279,11 @@ romania.20.d:0 "Ukraine believes that our success in the present struggle for Ro
 romania.20.a:0 "훌륭해!"
 romania.20.tt:0 "우크라이나의 장비가 도착합니다"
 
-romania.21.t:0 "Intervene in the Romanian Civil War?"
+romania.21.t:0 "루마니아 내전에 개입할까요?"
 romania.21.d:0 "Now that civil war has erupted in Romania against the dictatorship of Horia Sima and Corneliu Zelea Codreanu, shall Russia support any of the factions?"
-romania.21.a:0 "Support the Iron Guard."
-romania.21.b:0 "Support the Monarchists."
-romania.21.c:0 "Romania is of no interest to Russia."
+romania.21.a:0 "철위대를 지원한다."
+romania.21.b:0 "군주주의자들을 지원한다."
+romania.21.c:0 "루마니아는 러시아의 관심거리가 아니다."
 
 romania.22.t:0 "Russian Aid Arrives!"
 romania.22.d:0 "Russia believes that our success in the present struggle for Romania is essential for the continued stability of the Balkans and has sent us considerable amounts of supplies, airplanes and military 'experts' to help us in the fight."
