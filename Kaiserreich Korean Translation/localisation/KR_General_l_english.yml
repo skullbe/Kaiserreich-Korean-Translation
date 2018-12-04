@@ -23,7 +23,7 @@ custom_diff_strong_jap:0 "일본 강화"
 custom_diff_strong_qie:0 "청나라 강화"
 
 ### Autonomy Levels ###
-kr_integrated_puppet:0 "융회된 괴뢰국"
+kr_integrated_puppet:0 "융화된 괴뢰국"
 kr_occupied_puppet:0 "점령된 괴뢰국"
 kr_default_puppet:0 "괴뢰국"
 kr_autonomous_puppet:0 "자치 괴뢰국"
@@ -43,7 +43,7 @@ may_raise_autonomy:0 "§Y[Root.GetNameDefCap]§!의 자치도를 낮출 수 있�
 may_become_free:0 "§Y[Root.GetNameDefCap]§! (은)는 독립을 향해가고 있습니다\n"
 
 ### Autonomy Events ###
-kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복원됨"
+kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구됨"
 kr.political.100.d:0 "While [Root.GetNameDef] still labours under [overlord_name.GetAdjective] control, the [Root.GetAdjective] military has asserted enough control over our own borders that a semblance of greater autonomy is now possible to exert. This is not independence - far from it - but it does mean we no longer have to rely on [overlord_name.GetAdjective] troops to secure our borders."
 kr.political.100.a:0 "훌륭하군"
 
@@ -80,8 +80,8 @@ Mediterranean_Bloc:0 "지중해 연합"
 ### Other ###
 tooltip_add_idea_closed_economy:0 "'§Y폐쇠경제§!'로 무역법을 변경합니다.\n"
 tooltip_add_idea_command_economy:0 "'§Y계획경제§!'로 무역법을 변경합니다.\n"
-unlock_focuses:0 "§GThis focus will eventually be automatically bypassed and will unlock the other focuses§!\n"
-command_economy:0 "Command Economy"
+unlock_focuses:0 "§G이 중점은 자동으로 통과될 것이며 다른 중점을 해금할 것입니다§!\n"
+command_economy:0 ""
 
 ### Custom Triggers ###
 had_war:0 "전쟁에서 싸운적이 있음"
@@ -109,7 +109,7 @@ csa_wins_acw_threat:0 "노동 연맹이 제2차 미국 내전에서 승리함"
 belgrade_pact_threat:0 "베오그라드 조약 기구가 창설됨"
 
 ### Name and Description ###
-BM_HISTORY_TITLE:0 "간단한 역사"
+BM_HISTORY_TITLE:0 "간략한 역사"
 KR_SCENARIO_NAME:0 "세계 대전의 유산"
 KR_SCENARIO_DESC:0 "1936년은 세계사의 전환점이 될 것입니다. 거대한 기회인 동시에 위협이 다가오는 때입니다. 독일 제국과 프랑스 코뮌 사이의 긴장감이 거세지고 있습니다. 러시아와 미합중국은 내분의 조짐이 나타나고 있으며 쇠락한 제국 오스트리아와 오스만은 쇠퇴하고 있습니다. 한편 노동조합주의, 전체주의 그리고 급진사회주의는 전 세계에 뿌리내리고 있습니다. 세계 대전 종전 후 15년. 옛 적국들이 다시 고개를 들고 있습니다. 단 하나의 불씨만으로도 이 화약고는 폭발하게 될 것입니다..."
 
@@ -411,11 +411,11 @@ cat_strategic_destruction:0 "전략 파괴 기술"
 marine_tech_research:0 "해병대 기술 연구 시간"
 early_fighter:0 "전간기 전투기"
 interwar_antiair:0 "초기 대공"
-signal_company_tech:0 "통신 회사"
-cat_anti_air:0 "Stationary Anti-Air Guns"
-cat_light_spg:0 "Light Self-Propelled Guns"
-cat_medium_spg:0 "Medium Self-Propelled Guns"
-efficiency_tech:0 "Production Efficiency Tech"
+signal_company_tech:0 "통신 중대"
+cat_anti_air:0 "고정 대공포"
+cat_light_spg:0 "경자주포"
+cat_medium_spg:0 "중자주포"
+efficiency_tech:0 "생산효율기술"
 
 ### Army Command Traits ###
 
