@@ -595,8 +595,8 @@ worldnews.136.t:0 "벨기에가 독립을 선포하다"
 worldnews.136.d:0 "독일의 억압과 검은 월요일 재앙을 뒤이어, 벨기에 독립 운동이 벨기에 전역에서 일어났으며 독일군을 상대로 게릴라전을 벌이고 있습니다. 독일 제국 자신의 회복으로 인해 아델베르트 1세를 완전히 지지하지 못했으며 상황은 독일의 통제를 벗어나 악화되었습니다. 독립군이 몽스와 앤트워프를 공동 공격한 이후 마침내 플란데런-우알로니 군은 브뤼셀로 물러났으며, 그곳에서의 격렬한 전투 끝에 독일인 왕이 항복했습니다. 독일 제국에서의 명확한 대답은 아직 없는 가운데, 많은 사람들은 독립 벨기에가 특히 프랑스 코뮌과 제국 사이의 긴장이 고조되고 그 나라의 전략적 위치가 악화되면서 얼마 가지 않을 수도 있다고 우려합니다."
 worldnews.136.a:0 "행운을 빈다 벨기에!"
 
-worldnews.137.t:0 "생디칼리스트가 우알로니에서 정권을 잡다"
-worldnews.137.d:0 "시용 앵뒤스트리옐과 리에의 우알로니 생디칼리스트가 프랑스 코뮌이 독일 제국에 선전포고 한 이후 우알로니의 독립을 선언했습니다. 그들은 프랑스군의 승리를 기원하기 위해 플란데런-우알로니를 독일의 압제에서 해방시키고 벨기에를 프랑스 모델을 따른 생디칼리즘 국가로 만들 계획을 세웠습니다. 프랑스 코뮌은 반란에 대해 지지를 표했고 우알로니 POB와의 관계를 재확인했습니다."
+worldnews.137.t:0 "생디칼리스트들이 우알로니의 정권을 잡다"
+worldnews.137.d:0 "프랑스 코뮌이 독일 제국에게 선전포고한 직후, 시용 앵뒤스트리옐과 리에로 대표되는 우알로니의 생디칼리스트들이 우알로니의 독립을 선언했습니다. 그들은 프랑스군의 승리를 기원하기 위해 플란데런-우알로니를 독일의 압제에서 해방시키고 벨기에를 프랑스를 본받은 생디칼리즘 국가로 만들 계획을 세웠습니다. 프랑스 코뮌은 반란에 대해 지지를 표했고 우알로니 POB와의 관계를 재확인했습니다."
 worldnews.137.a:0 "이것은 뫼즈 방어선에 결정적인 타격이다."
 
 worldnews.138.t:0 "[BUL.GetRulingParty]이(가) 불가리아에서 정권을 잡다"
@@ -794,13 +794,13 @@ worldnews.183.t:0 "예멘의 반란"
 worldnews.183.d:0 "The Weltkrieg caused tremendous damage to the already struggling Ottoman Empire. Large sections of the Arabian peninsula were cut off from the Sublime Porte's rule for years due to the successes of the Arab Revolt. All the same, with the Peace With Honour the Yemeni vilayet was to some extent brought back under Ottoman rule - at least in theory.\nFor many years Yemen has mostly run its own affairs, with the Sultan's gaze fixed firmly on his own domestic troubles. With conflict erupting in the Suez and across the Holy Land, the Yemen has once more been cut off from the bulk of the Ottoman army. Taking advantage of this opportunity, combined with perceptible weakness of the Ottoman state, the Imam has publicly declared the creation of a new independent kingdom."
 worldnews.183.a:0 "술탄에게 또 한 방 먹였군."
 
-worldnews.184.t:0 "두번째 명예로운 평화"
-worldnews.184.d:0 "2차 세계대전이 1차 때와 마찬가지로 끝날 것처럼 보입니다. 제국 조약의 군대가 프랑스를 함락하고 대륙 전역에서 인터내셔널의 활동이 무너지면서, 브리튼 연방은 다시 한번 외국의 침략에 대항하여 생존을 위해 투쟁하는 것으로 남겨졌습니다. 독일군은 그 섬에 효과적인 교두보를 마련하지 못했으며 브리튼군은 산산조각이 난 가운데, 공화국 지도자들이 베를린과의 휴전 요구를 받아들였고 오늘 정식 평화 조약에 서명했습니다.\n\n독일군 최고사령부의 일부가 바랐던 완전한 승리는 아니지만, 인터내셔널은 이미 백지화되었습니다. 코뮌과 연방의 패배로 카이저라이히는 서방에서 여전히 성공하고 있습니다. - 적어도 지금은 말이지요."
+worldnews.184.t:0 "두 번째 명예로운 평화"
+worldnews.184.d:0 "2차 세계대전이 1차 때와 마찬가지로 끝날 것처럼 보입니다. 제국 조약의 군대가 프랑스를 함락하고 대륙 전역에서 인터내셔널의 활동이 무너지면서, 브리튼 연방은 다시 한번 외국의 침략에 대항하여 생존을 위해 투쟁하는 것으로 남겨졌습니다. 독일군은 그 섬에 효과적인 교두보를 마련하지 못했으며 브리튼군은 산산조각이 난 가운데, 공화국 지도자들이 베를린과의 휴전 요구를 받아들였고 오늘 정식 평화 조약에 서명했습니다.\n\n독일군 최고사령부의 일부가 바랐던 완전한 승리는 아니지만, 인터내셔널은 이미 와해되었습니다. 코뮌과 연방의 패배로 제국은 서방에서 여전히 성공가도를 달리고 있습니다. - 적어도 지금은 말이지요."
 worldnews.184.a:0 "역사는 되풀이될 운명인가?"
 
 worldnews.185.t:0 "연합왕국의 재건"
-worldnews.185.d:0 "확실히 극적인 사건의 전환으로, 브리튼 연방의 공화정 정권은 몰락했고 윈저 가문의 왕정 정부는 마침내 런던으로 돌아왔습니다. 에드워드 8세는 웨스트민스터 성당에서 영국 혁명 기간 동안 아버지의 유배를 속죄하려는 그의 삶의 꿈을 충족시키기 위해 공식적으로 대관식을 치렀고, 이미 국가로부터 생디칼리즘적인 유대관계를 없애려는 노력이 진행 중입니다.\n영국 섬은 단기간 동안만 해도 알아볼 수 없을 정도로 변했고, 좌파의 영향의 뿌리가 국가의 기관과 국민의 정신에 깊이 뿌리박고 있습니다. 전 세계의 많은 사람들은 새롭게 복원된 영국이 세계 무대에서 어떤 조치를 취할 것인지를 보기 위해 숨을 죽이고 기다립니다."
-worldnews.185.a:0 "새로운 질서인가 또는 옛것의 귀환인가?"
+worldnews.185.d:0 "확실히 극적인 사건의 전환으로, 브리튼 연방의 공화정 정권은 몰락했고 윈저 가문의 왕정이 마침내 런던으로 돌아왔습니다. 에드워드 8세는 웨스트민스터 성당에서 영국 혁명 기간 동안 아버지의 유배를 속죄하려는 그의 삶의 꿈을 충족시키기 위해 공식적으로 대관식을 치렀고, 이미 국가로부터 생디칼리즘적인 유대관계를 없애려는 노력이 진행 중입니다.\n브리튼 섬은 짧은 시간 동안 알아볼 수 없을 정도로 변했고, 좌파의 영향의 뿌리가 국가의 기관과 국민의 정신에 깊이 뿌리박고 있습니다. 전 세계의 많은 이들은 새롭게 복원된 영국이 세계 무대에서 어떤 조치를 취할 것인지를 보기 위해 숨을 죽이고 기다리고 있습니다."
+worldnews.185.a:0 "새로운 질서인가 또는 옛 질서의 귀환인가?"
 
 worldnews.186.t:0 "벨로루시가 생디칼리즘에 빠지다."
 worldnews.186.d:0 "In a blow to German hegemony in Eastern Europe, Belorussia, a lynchpin of the Reichspakt buffer states against Russia, has fallen to leftism. In the aftermath of Black Monday and years of failed rulership, King Vladimir liberalised the nation's politics and allowed free elections intending for the action to help dissipitate the peasantry's anger. In the end though, the King himself was outmaenouvered and the newly elected left-wing government is considering abolishing the monarchy entirely.\nBelorussia, now publicly brandishing its syndicalist credentials, has demanded its immediate independence from the Reichspakt and Mitteleuropa. Already there have been threatening calls for the German military mission stationed in the country to be thrown out, but the German Empire's next moves are as yet unknown."
@@ -884,10 +884,10 @@ worldnews.201.t:0 "2차 마디주의 봉기"
 worldnews.201.d:0 "The Sudan has long been known as a land of religious firebrands and fierce peoples, a fact that even the British Empire at its peak was forced to discover at the end of the last century. Now it seems that the Egyptians are once more facing a serious revolt in the southern region, led by Abd al-Rahman al-Mahdi, the son of Muhammad Ahmad, the Mahdi of the original 1881 rebellion. Calling for God-mandated resistance against the Egyptian occupiers from a balcony in Khartoum, Abd al-Rahman's powerful rhetoric has contributed to a total breakdown of Cairo's rule in the region. Though it is unclear whether he has the backing of most of Sudan's tribes, it is clear that a brutal war lies ahead."
 worldnews.201.a:0 "잘 풀릴 것이다."
 
-worldnews.202.t:0 "반-생디칼리즘 성전"
-worldnews.202.d:0 "Speaking from Saint Peter's Basilica in Rome to the gathered masses, Pope Julius IV today made a long and sweeping speech railing against the inherent evils of Syndicalism, and calling for all of the 'true faithful' to the word of god to shun any who would follow such an evil form of government. He has called upon Catholics the world over to take up arms in the name of god against Syndicalism, calling it a new 'Crusade' of the modern era.\n\nHe ended the speech with a direct call to war against the Socialist Republic of Italy, and it appears a direct military confrontation between the two Italian states is all but inevitable."
+worldnews.202.t:0 "반-생디칼리즘 십자군"
+worldnews.202.d:0 "교황 줄리어스 4세는 오늘 로마의 성 베드로 대성당에 모인 수많은 군중들에게 생디칼리즘의 본질적인 적폐를 규탄하는 장황하고 포괄적인 연설을 했으며, 그런 사악한 정부 체제를 따르는 이라면 누구든지 배척하라 명하신 신의 뜻에 대한 '진실된 신앙'을 요구했습니다. 그는 신의 이름으로 무기를 들고 생디칼리즘에 맞설 것을 모든 카톨릭교도들에게 촉구하며, 이 반-생디칼리즘 운동을 현대의 새로운 '십자군 전쟁'이라고 일컫었습니다. 그는 이탈리아 사회주의 공화국과의 전쟁에 대한 공개적인 지지 요청으로 연설을 마쳤고, 이에 따라 두 이탈리아 국가 사이의 전면적인 군사적 대립은 거의 불가피해 보입니다."
 worldnews.202.a:0 "참 오래된 바보짓이지."
-worldnews.202.b:0 "신은 우리의 편이다!"
+worldnews.202.b:0 "신은 우리 편이다!"
 
 ### City Fall Events ###
 
@@ -1042,7 +1042,7 @@ worldnews.268.a:0 "벵갈의 수도 캘커타는 분명히, 인도 진입의 마
 worldnews.268.b:0 "벵갈과 아삼의 민중들은 인도의 통치 하에서 너무 오랫동안 고통받아 왔다."
 worldnews.268.c:0 "우리는 피는 흘렸을지언정 패배하지는 않았다. 노동자들이여, 왕당파 압제자들에게 저항하라!"
 worldnews.268.e:0 "시암은 인도에 권리가 없다. 그들이 시암을 막지 못한다면, 우리는 개입해아만 한다."
-worldnews.268.f:0 "심히 우려되는군. 시암은 옛 대영 제국의 보석인 인도에 권리가 없다."
+worldnews.268.f:0 "심히 우려되는군. 시암은 옛 대영제국의 보석인 인도에 권리가 없다."
 
 worldnews.269.t:0 "뉴델리 함락" #Siam
 worldnews.269.d:0 "[SIA.GetAdjective] offensives continue across the Indian subcontinent, and the fall of New Delhi recently crowned this campaign. As the capital of a potential united India, this city is of immense strategic importance and its loss may prove to be a decisive factor in the ongoing Indian campaign.\n\nThe Viceroy himself was reportedly captured by [SIA.GetAdjective] forward units while he was supervising the transfer of his belongings from the Viceroy's House to a truck caravan, but this has not yet been confirmed."
@@ -1154,8 +1154,8 @@ worldnews.284.a:0 "플로이드가 해냈구나!"
 
 worldnews.203.t:0 "휴이 롱 대통령이 실종되다"
 worldnews.203.d:0 "전례 없는 사태가 발생했습니다. 승리에 도취한 휴이 롱 미국 대통령이 실종되었습니다. 미국 언론들은 휴이 롱의 차와 경호원들이 새로운 수도에서 늦은 저녁 만찬 후에 사라졌다고 보도했습니다. 우리가 이 언론들로부터 모을 수 있는 정보로는, 알려지지 않은 한 무리의 전문 생디칼리스트 암살자들이 이 공격의 배후에 있었다는 것입니다. 이 주장은 기업가인 헨리 포드의 아들 에드젤 포드가 무정부주의자에 의해 세간의 이목을 끄는 살해 이후에 나온 것입니다. 미국 재향군인회장 조지 반 혼 모즐리는 대중들의 우려를 언급하며, 잠재적인 공모자들을 뿌리뽑기 위해 대통령 저택을 확보할 것이며 이 위험한 시기에 재향군인회를 동원했습니다."
-worldnews.203.a:0 "거짓말! 어떤 사회주의자도 그렇게 할 수는 없다!"
-worldnews.203.b:0 "이 얼마나 무서운가! 몸 조심하세요 모즐리!"
+worldnews.203.a:0 "거짓말! 어떤 사회주의자도 이런 짓은 못한다!"
+worldnews.203.b:0 "얼마나 흉흉한 일인가! 몸조심하시오, 모즐리 동지!"
 
 worldnews.204.t:0 "휴이 롱이 쿠데타로 투옥되어 사형되다"
 worldnews.204.d:0 "[TEX.Capital.GetName]의 소식입니다. 새롭게 승리한 미국 대통령 휴이 롱이 사망했습니다. 이는 최근 몇 달 동안 사회주의적 사상에 대항하고자 하는 미국 제일당원들에 의한 성공적인 쿠데타처럼 보입니다. 쿠데타에 대한 자세한 내용은 거의 보도되지 않고 있지만, 그의 처형 전날에 자신이 생디칼리스트임을 고백하는 휴이 롱의 자아비판 음반이 널리 유포되고 있습니다. 윌리엄 펠리가 이끄는 임시정부는 대중들에게 미국으로의 생디칼리즘의 침입을 종식시키겠다고 약속했습니다. 계엄령은 전국적으로 시행되었고, 우리는 지금부터 미국에서 나오는 언론 보도 내용이 검열되는 것이라고 감히 추측해볼 수 있습니다."
