@@ -303,10 +303,10 @@ worldnews.69.paulusvi:0 "시스티나 예배당의 굴뚝이 흰 연기를 뿜�
 worldnews.69.a:0 "성 베드로 성당의 새 주인이 생겼군."
 
 worldnews.70.t:0 "이탈리아 선거"
-worldnews.70.d.sli:0 "The elections in the Republic of Italy have ended with the Prime Minister Ivanoe Bonomi remaining as Prime Minister. His gamble to call the elections early due to the Black Monday Crisis has proven to be rather successful."
-worldnews.70.d.mli:0 "The elections in the Republic of Italy have ended with the election of Prime Minister [ITA.GetLeader], head of the Partito Liberale Italiano. The New Prime Minister has assured people both foreign and domestic that he will be able to resolve the Black Monday Crisis. It seems that the former Primer Minister Ivanoe Bonomi's attempt to consolidate power in the face of Black Monday has failed."
-worldnews.70.d.sco:0 "The elections in the Republic of Italy have ended with the election of Prime Minister [ITA.GetLeader], head of the Partito Popolare Italiano. The New Prime Minister has assured people both foreign and domestic that he will be able to resolve the Black Monday Crisis. It seems that the former Primer Minister Ivanoe Bonomi's attempt to consolidate power in the face of Black Monday has failed."
-worldnews.70.d.npo:0 "The elections within the Republic of Italy have resulted in the election of Prime Minister [ITA.GetLeader], head of the Associazione Nazionalista Italiana. The new Prime Minister has quickly discarded the title of Prime Minister for the title of Il Duce which he says is much more fitting for Italia. In a speech in Milan he has stated that nothing shall ever stand in the way of Italy's greatness and that the present Black Monday Crisis is due to vile Austrian influence which will eventually be destroyed by the new legions of Italy."
+worldnews.70.d.sli:0 "이탈리아 공화국에서의 선거는 이바노에 보노미 수상이 그의 자리를 지켜내면서 끝이 났습니다. 검은 월요일 위기를 이유로 조기 선거를 실시한 그의 도박은 어느 정도 성공적이었습니다."
+worldnews.70.d.mli:0 "이탈리아 공화국에서의 선거는 이탈리아 자유당의 대표인 [ITA.GetLeader]가 수상으로 선출되면서 끝이 났습니다. 새로운 수상은 그가 이탈리아에 퍼진 검은 월요일 위기의 여파를 해결해줄 수 있으리라는 대중들의 기대를 한 몸에 받고 있습니다. 어쨌든 검은 월요일 위기를 이용한 이바노에 보노미 수상의 권력 강화 시도는 명백히 실패했습니다."
+worldnews.70.d.sco:0 "이탈리아 공화국에서의 선거는 이탈리아 민중당의 대표인 [ITA.GetLeader]가 수상으로 선출되면서 끝이 났습니다. 새로운 수상은 그가 이탈리아에 퍼진 검은 월요일 위기의 여파를 해결해줄 수 있으리라는 대중들의 기대를 한 몸에 받고 있습니다. 어쨌든 검은 월요일 위기를 이용한 이바노에 보노미 수상의 권력 강화 시도는 명백히 실패했습니다."
+worldnews.70.d.npo:0 "이탈리아 공화국에서의 선거는 이탈리아 민족주의 연맹의 대표인 [ITA.GetLeader]가 수상으로 선출되면서 끝이 났습니다. 새로운 수상은 수상으로 임명된 즉시 본인의 칭호를 자칭 이탈리아의 지도자로서 가장 적합한 칭호라고 주장하는 일-두체로 바꾸었고, 밀라노에서의 연설에서 그는 그 무엇도 이탈리아의 위대함을 가로막을 수 없으며, 현재 이탈리아를 잠식하고 있는 검은 월요일 위기는 새로운 이탈리아의 군홧발에 곧 짓밟힐 오스트리아의 사악한 영향 때문이라고 주장했습니다."
 worldnews.70.a:0 "흥미롭군."
 
 worldnews.71.t:0 "[From.GetNameDef]에서의 혁명!"
@@ -885,7 +885,7 @@ worldnews.201.d:0 "The Sudan has long been known as a land of religious firebran
 worldnews.201.a:0 "잘 풀릴 것이다."
 
 worldnews.202.t:0 "반-생디칼리즘 십자군"
-worldnews.202.d:0 "교황 줄리어스 4세는 오늘 로마의 성 베드로 대성당에 모인 수많은 군중들에게 생디칼리즘의 본질적인 적폐를 규탄하는 장황하고 포괄적인 연설을 했으며, 그런 사악한 정부 체제를 따르는 이라면 누구든지 배척하라 명하신 신의 뜻에 대한 '진실된 신앙'을 요구했습니다. 그는 신의 이름으로 무기를 들고 생디칼리즘에 맞설 것을 모든 카톨릭교도들에게 촉구하며, 이 반-생디칼리즘 운동을 현대의 새로운 '십자군 전쟁'이라고 일컫었습니다. 그는 이탈리아 사회주의 공화국과의 전쟁에 대한 공개적인 지지 요청으로 연설을 마쳤고, 이에 따라 두 이탈리아 국가 사이의 전면적인 군사적 대립은 거의 불가피해 보입니다."
+worldnews.202.d:0 "교황 율리오 4세는 오늘 로마의 성 베드로 대성당에 모인 수많은 군중들에게 생디칼리즘의 본질적인 적폐를 규탄하는 장황하고 포괄적인 연설을 했으며, 그런 사악한 정부 체제를 따르는 이라면 누구든지 배척하라 명하신 신의 뜻에 대한 '진실된 신앙'을 요구했습니다. 그는 신의 이름으로 무기를 들고 생디칼리즘에 맞설 것을 모든 카톨릭교도들에게 촉구하며, 이 반-생디칼리즘 운동을 현대의 새로운 '십자군 전쟁'이라고 일컫었습니다. 그는 이탈리아 사회주의 공화국과의 전쟁에 대한 공개적인 지지 요청으로 연설을 마쳤고, 이에 따라 두 이탈리아 국가 사이의 전면적인 군사적 대립은 거의 불가피해 보입니다."
 worldnews.202.a:0 "참 오래된 바보짓이지."
 worldnews.202.b:0 "신은 우리 편이다!"
 
