@@ -365,7 +365,7 @@ JAP_MIL_ROCKET_desc:0 "Rocket developments can not only provide with rocket weap
 ### Events ###
 japdom.1.t:0 "잃어버린 10년에서의 회복"
 japdom.1.d:0 "'잃어버린 10년'으로 불리는 1920년대는 일본의 경기 침체와 정치적 불안정으로 얼룩졌습니다. 이는 특히 농업 부문에서 심각했습니다. 농민들이 침체된 시골을 떠나 도시와 노동 시장에 몰려들면서 대규모 인구통계학적 변화가 일어났고, 이로 인해 임금은 떨어졌습니다. \n\n헌정회가 '입헌주의 연정'을 이끌고 정부에 변화를 일으킨 후, 이누카이와 그의 내각은 일본의 영향권을 만주와 극동 시베리아로 성공적으로 넓히며 일본 경제의 주요 수출 시장을 얻었지만, 만주에서 수입된 값싼 농산물이 시골로 흘러들어가면서 농업 사정은 계속 악화되었습니다. 1936년이 밝아오고 있습니다. 계속되는 재무장과 국가의 투자로 산업 경제는 완전히 재건되었지만, 농촌의 빈곤 문제는 여전히 고질적이며 해결되지 않고 있습니다."
-japdom.1.a:0 "알겠다.(Gaman shiyou)"
+japdom.1.a:0 "이겨내는 수밖에."
 
 japdom.2.t:0 "의회 해산"
 japdom.2.d:0 "1932년에 선출된 현 의회의 4년 임기가 끝나가고 있습니다. 이누카이 츠요시 총리는 2월 20일에 총선을 실시했습니다."
@@ -393,7 +393,7 @@ japdom.7.d:0 "'유신파'는 급진적인 하급 장교들이 주창한 정치�
 japdom.7.a:0 "이게 끝나기는 할까?"
 
 japdom.8.t:0 "군 수뇌부 내의 분열"
-japdom.8.d:0 "현재 제국 군대 장교들의 파벌 간 경쟁이 새로운 국면을 맞고 있습니다. 두 신성, 중파의 나가타 데쓰잔 육군 소장과 유신파의 오바타 토시시로 육군 소장은 군사적 전략에 대해 논쟁하고 있습니다.\n\n나가타 장군은 일본 경제가 어떤 종류의 총력전이라도 지속하기에는 어려우므로, 우선 총력전을 수행할 수 있는 군대를 만들어야 한다고 믿습니다. 그는 우리 군의 기동 능령을 확장하고, 장비를 현대화하고, 지휘 체계를 중앙 집중화 할 것을 요구합니다.\n\n오바타 장군의 분석도 거의 똑같지만, 그는 다른 결론을 내렸습니다. 불안정한 국제적 사정 때문에, 일본이 내부 발달을 통해 그런 능력을 갖추게 되기 전에 전쟁은 일어날 것입니다. 따라서, 그는 향후 전쟁에서는 장기전을 피하기 위해 짧고 신속하고 결단력 있는 작전을 통해 신속하게 적군을 파괴해야 한다는 결론에 도달했습니다.\n\n중앙 집중된 지휘 체계가 좋은 생각이고, 원시적인 인해전술이 형편없는 전략이라는 데에는 두 사람 모두 동의합니다;우리는 결코 러시아나 중국의 인력과 경쟁할 수 없습니다. 이제 우리는 어떻게 나아가야 할 지 선택해야 합니다."
+japdom.8.d:0 "현재 제국 군대 장교들의 파벌 간 경쟁이 새로운 국면을 맞고 있습니다. 두 신성, 중앙파의 나가타 데츠잔 육군 소장과 유신파의 오바타 토시시로 육군 소장은 군사적 전략에 대해 논쟁하고 있습니다.\n\n나가타 장군은 일본 경제가 어떤 종류의 총력전이라도 지속하기에는 어려우므로, 우선 총력전을 수행할 수 있는 군대를 만들어야 한다고 믿습니다. 그는 우리 군의 기동 능령을 확장하고, 장비를 현대화하고, 지휘 체계를 중앙 집중화 할 것을 요구합니다.\n\n오바타 장군의 분석도 거의 똑같지만, 그는 다른 결론을 내렸습니다. 불안정한 국제적 사정 때문에, 일본이 내부 발달을 통해 그런 능력을 갖추게 되기 전에 전쟁은 일어날 것입니다. 따라서, 그는 향후 전쟁에서는 장기전을 피하기 위해 짧고 신속하고 결단력 있는 작전을 통해 신속하게 적군을 파괴해야 한다는 결론에 도달했습니다.\n\n중앙 집중된 지휘 체계가 좋은 생각이고, 원시적인 인해전술이 형편없는 전략이라는 데에는 두 사람 모두 동의합니다;우리는 결코 러시아나 중국의 인력과 경쟁할 수 없습니다. 이제 우리는 어떻게 나아가야 할 지 선택해야 합니다."
 japdom.8.a:0 "현명하게 선택할 것이다."
 
 japdom.9.t:0 "국가보안법"
@@ -403,11 +403,11 @@ japdom.9.b:0 "여론과 반대자들이 그 법안을 부결시켰다."
 
 japdom.10.t:0 "5·15 사건의 재판"
 japdom.10.d:0 "이누카이 총리를 살해한 11명에 대한 군법 회의가 지난달에 시작되었습니다. 재판이 끝나기 전에 전국의 동조자들에게서 받은 35만명 이상의 서명이 담긴 탄원서가 법정에 도착했습니다. 재판부는 니가타 현의 청년 11명으로부터 그들이 해군 장교들 대신 처형되겠다는 요청을 받았으며, 그들은 진심의 표시로 절단한 손가락 11개를 법정에 보냈습니다! 재판 전체가 지지를 받지 못해 재판부는 절차를 빨리 해야 했으며, 비록 어제 사형 선고가 내려졌음에도 불구하고 암살자들은 오늘 새벽에 처형되었습니다."
-japdom.10.a:0 "이 나라가 미쳐가고 있군..."
+japdom.10.a:0 "나라가 미쳐가고 있군..."
 
 japdom.11.t:0 "스즈키 기사부로의 암살"
-japdom.11.d:0 "상상할 수도 없는 일이 또 일어났습니다! 스즈키 총리와 그의 법정혈족 형제인 하토야마 이치로는 오늘 가와고에에서 열린 정당 집회에 참석했습니다. 하토야마가 연설을 하기 위해 일어섰을 때, '사이타마 민족 구원 청년 봉사단'의 생디칼리즘 테러리스트가 이누카이 총리의 암살자를 처벌한 것에 대한 보복으로 스즈키와 하토야마를 저격했습니다. 스즈키의 부상은 심각한 것으로 보입니다."
-japdom.11.a:0 "명복을 빕니다."
+japdom.11.d:0 "상상할 수도 없는 일이 또 일어났습니다! 스즈키 총리와 그의 법정혈족 형제인 하토야마 이치로는 오늘 가와고에에서 열린 정당 집회에 참석했습니다. 하토야마가 연설을 하기 위해 일어섰을 때, '사이타마 민족구원청년봉사단'의 생디칼리즘 테러리스트가 이누카이 총리의 암살자를 처벌한 것에 대한 보복으로 스즈키와 하토야마를 저격했습니다. 스즈키의 부상은 심각한 것으로 보입니다."
+japdom.11.a:0 "명복을 비무니다."
 
 japdom.12.t:0 "비난 받는 정부"
 japdom.12.d:0 "놀랄 것도 없이, 국가보안법 통과의 실패는 총리에 대한 반발을 불러일으켰습니다. 이 법안을 지지했던 보수주의자들과 관료들은 스즈키의 패배에 배신감을 느꼈습니다. 정부가 생디칼리즘에 대한 어떤 조치도 취하지 못한 데 실망한 귀족원과 추밀원은 내각에 대한 인내심을 모두 잃었습니다."
@@ -418,8 +418,8 @@ japdom.13.d:0 "모든 사람들에게 버림받고 굴욕받은 총리는 귀족
 japdom.13.a:0 "긴급 회의를 소집하라!"
 
 japdom.14.t:0 "미즈노 렌타로의 선거"
-japdom.14.dead:0 "스즈키의 사망은 입헌정우회를 놀라게 했으며, 긴급 회의가 소집되었습니다. 관료주의적인 (다나카의 독재시기와 그 이후에 전 다나카 정우본당의 의장이었던 도코나미 다케지로(1867-1935)의 이름을 본딴) 도코나미 파벌은 지도자를 잃은 것으로 무력화되었으며, 반동적인 나카지마 파벌이 당을 장악하게 되었습니다. 나카지마 총재는 새 총재직에서 당 전체에 의사 결정권을 끼칠 수 있다는 것에 기뻐했지만, 자신을 대표로 내세우지 않고 대신 현 총리이자 도코나미 파벌인 미즈노 렌타로를 선출했습니다."
-japdom.14.notdead:0 "The resignation of Suzuki stunned the Rikken Seiyukai and an emergency convention was called. The bureaucratic Tokonami faction (named after Tokonami Takejiro (1867-1935), chairman of the pro-Tanaka Seiyu Honto during the Tanaka dictatorship and its aftermath) has been crippled by the loss of their leader, leaving the reactionary Nakajima faction to take control of the party. From his new post as Director of General Affairs Nakajima enjoys decision-making power over the entire party, though has stopped short of crowning himself chairman and instead elected current Prime Minister and Tokonami-aligned Mizuno Rentaro instead."
+japdom.14.dead:0 "스즈키의 사망은 입헌정우회에 긴급대회를 소집케 했습니다. 관료주의적 정파인 토코나미파(타나카의 독재시기와 그 이후에 친타나카 세력인 정우본당의 총재였던 토코나미 타케지로(1867-1935)의 이름에서 유래)는 영수를 잃음으로써 무력화되었으며, 반동적인 나카지마파가 당을 장악하게 되었습니다. 나카지마 총재는 새 총재직에서 당 전체에 의사 결정권을 끼칠 수 있다는 것에 기뻐했지만, 자신을 대표로 내세우지 않고 대신 현 총리이자 토코나미파인 미즈노 렌타로를 선출했습니다."
+japdom.14.notdead:0 "스즈키의 사임은 입헌정우회에 긴급대회를 소집케 했습니다. 관료주의적 정파인 토코나미파(타나카의 독재시기와 그 이후에 친타나카 세력인 정우본당의 총재였던 토코나미 타케지로(1867-1935)의 이름에서 유래)는 영수를 잃음으로써 무력화되었으며, 반동적인 나카지마파가 당을 장악하게 되었습니다. 나카지마 총재는 새 총재직에서 당 전체에 의사 결정권을 끼칠 수 있다는 것에 기뻐했지만, 자신을 대표로 내세우지 않고 대신 현 총리이자 토코나미파인 미즈노 렌타로를 선출했습니다."
 japdom.14.a:0 "마침내 정치가 어느정도 안정되었구나."
 
 japdom.15.t:0 "일본의 가장 긴 겨울"
@@ -428,10 +428,10 @@ japdom.15.a:0 "일본의 미래가 그의 선택에 달렸다."
 
 japdom.16.t:0 "일본의 가장 긴 하루"
 japdom.16.d:0 "10년 간의 정치적 불명예 후에, 군부는 이번에는 쿠데타로 다시 정권을 잡게 되었습니다. 초보수적인 정치가 히라누마 기이치로 남작이 이제 총리가 되었으며, 대일본제국 전체에 계엄령이 내려졌습니다."
-japdom.16.a:0 "만세!"
+japdom.16.a:0 "반자이!"
 
 japdom.17.t:0 "쿠데타 실패"
-japdom.17.d:0 "Even through the Army Minister refused to support the coup, he made no effort to stop the plot. The plotters interpreted this as a signal of permission, and proceeded. This morning, the coup forces seized the Metropolitan Police Headquarters, the Prime Minister's Residence, and the new Imperial Diet Building, but failed to occupy the Imperial Palace. To the surprise of the plotters, the Emperor resisted the coup d'état and issued an imperial command to suppress the rebels, sealing their fate. The coup forces surrendered without resistance and key conspirators were quickly caught, while some took their own lives before they could be arrested. One of them, General Terauchi Hisaichi, committed suicide by seppuku today."
+japdom.17.d:0 "육군대신은 쿠데타 가담을 거부했지만 그렇다고 쿠데타를 막기 위한 노력을 하지도 않았습니다. 쿠데타 음모자들은 이것을 묵인의 신호로 해석하고 계획을 실행했습니다. 아침이 밝자 쿠데타군은 경시청, 총리관저, 국회의사당을 장악했으나, 황거 접수에는 실패했습니다. 음모자들의 기대와 반대로, 천황폐하께옵선 쿠데타 진압의 황명을 내리심으로써 그들의 운명은 정해졌습니다. 쿠데타군은 저항 없이 항복했고, 체포되기 전에 자살한 몇몇을 제외한 주요 음모자들은 즉시 체포되었습니다. 그 음모자들 중 하나인 테라우치 히사이치 장군이 오늘 할복했습니다."
 japdom.17.a:0 "민주주의가 지켜졌다!"
 
 japdom.18.t:0 "권력 투쟁"
@@ -439,70 +439,70 @@ japdom.18.d:0 "유신파 장교들은 의회정치가 자본가들의 금권정�
 japdom.18.a:0 "끝나기는 할까?"
 
 japdom.19.t:0 "유신파의 역쿠데타"
-japdom.19.d:0 "Earlier today Restorationist junior officers from units in the Tokyo area have staged a new coup d'état! In the early morning, 1,400 officers and enlisted soldiers embarked on missions to seize control of key communications and administrative facilities. The Army Ministry, the General Staff Office, the Metropolitan Police Headquarters, the Prime Minister's Official Residence, and the Imperial Diet Building were all quickly captured, and the Imperial Palace went under siege. In the afternoon the emperor himself addressed the soldiers announcing his official support of their revolution."
+japdom.19.d:0 "오늘 새벽, 유신파 청년장교들이 도쿄 주둔 부대들을 이용해 또다른 쿠데타를 일으켰습니다! 아침이 밝자 1,400 명의 장교 및 병사들이 주요 통신 및 행정시설들을 접수하기 위해 움직이기 시작했습니다. 육군성, 육군참모부, 경시청, 총리관저, 국회의사장이 빠르게 함락되었고, 황거에서는 공성전이 벌어졌습니다. 오후가 되자 천황폐하께옵서 군사혁명을 공식적으로 지지한다는 옥음을 발표하셨습니다."
 japdom.19.a:0 "쿠데타는 성공하는가!"
 
 japdom.20.t:0 "유신파의 쿠데타 미수!"
-japdom.20.d:0 "Earlier today Restorationist junior officers from units in the Tokyo area have staged a new coup d'état! In the early morning, 1,400 officers and enlisted soldiers embarked on missions to seize control of key communications and administrative facilities. The Army Ministry, the General Staff Office, the Metropolitan Police Headquarters, the Prime Minister's Official Residence, and the Imperial Diet Building were all quickly captured, and the Imperial Palace went under siege. After the emperor explicitly denounced the putschists the navy mobilised marine divisions to rescue the palace, and by the evening the coup was crushed."
+japdom.20.d:0 "오늘  새벽, 유신파 청년장교들이 도쿄 주둔 부대들을 이용해 또다른 쿠데타를 일으켰습니다! 아침이 밝자 1,400 명의 장교 및 병사들이 주요 통신 및 행정시설들을 접수하기 위해 움직이기 시작했습니다. 육군성, 육군참모부, 경시청, 총리관저, 국회의사장이 빠르게 함락되었고, 황거에서는 공성전이 벌어졌습니다. 천황폐하께옵서 내란범들을 호되게 질책하시자, 해군이 육전사단들을 동원하여 황거를 구원하였고, 쿠데타는 저녁에 분쇄되었습니다."
 japdom.20.a:0 "해군에게 가호가 있기를!"
 
 japdom.21.t:0 "중앙파의 승리!"
-japdom.21.d:0 "The Restorationist coup has been defeated. Branded traitors, the Restorationists are being purged all over the country. There are calls for the Army to assume a greater role in government to help root out both the traitors and the syndicalists."
-japdom.21.a:0 "Army Minister Hayashi will assume the premiership."
-japdom.21.b:0 "Hiranuma can stay."
+japdom.21.d:0 "유신주의자들의 쿠데타는 실패했습니다. 반역자의 낙인이 찍힌 유신주의자들에 대한 전국적 숙청이 진행되고 있습니다. 이 반역자들과 빨갱이들을 발본색원하기 위해 육군이 정부에서 더 큰 역할을 맡아야 한다는 목소리가 높습니다."
+japdom.21.a:0 "육군대신 하야시를 총리로 지명한다."
+japdom.21.b:0 "히라누마 총리를 유임한다."
 
 japdom.22.t:0 "거국일치정부"
-japdom.22.d:0 "Nakajima Chikuhei from the Rikken Seiyukai and Adachi Kenzo from the Minseito, both supporters of the National Security Act, have issued a joint statement, urging both the mainstream parties to form a multi-party 'Government of National Unity' to protect the Kokutai (national polity) from the syndicalist threat."
-japdom.22.a:0 "We need a strong government."
-japdom.22.b:0 "We don't need your nonsense."
+japdom.22.d:0 "입헌유신회의 나카지마 치쿠헤이와 민정당의 아다치 켄조는 모두 국가보안법의 지지자입니다. 둘이 공동성명을 내기를, 두 주류정당이 연정하여 '거국일치정부'를 구성, 생디칼리슴의 위협으로부터 국체를 수호할 것이라 합니다."
+japdom.22.a:0 "강한 정부가 필요하지."
+japdom.22.b:0 "그게 무슨 헛소리람."
 
 japdom.23.t:0 "국방 기본 교리에 관하여"
 japdom.23.d:0 "After taking power, the Centralists sought a political blueprint for their new regime. They have presented such a blueprint, titled 'On the Basic Principles of National Defence' and have distributed it among the Centralist leadership. Envisioning an 'Advanced National Defence State' (Kodo Kokubo Kokka), the document proposes to transform the state into one geared and ready for total war. To this end, not only must Japan's economic structure be reorganised along a militarist line, but the Japanese people must be 'ideologically enlightened' to abandon self-interest. They must abandon class struggle, which is harmful to national security, and restructure society along a moral economic line."
-japdom.23.a:0 "This is the way we should go forward"
+japdom.23.a:0 "이것이 우리가 나아갈 길이다."
 
 japdom.24.t:0 "국가 구조의 기초 교리에 관하여"
 japdom.24.d:0 "'On The Fundamental Principles of the National Structure' is a 156 page pamphlet produced by the Ministry of Education to establish an official description of the 'Kokutai', or national structure (It can also can be translated as 'national essence', 'national polity', etc). The pamphlet officially enshrines the Emperor as a living god, according to the legend of the Goddess Amaterasu and 'an unbroken line of emperors' (Banseiikkei). To serve the divine Emperor, his subjects were required to cast themselves aside for the social harmony (Wa) and for the prosperity of Japanese culture. To some extent, the pamphlet is a response to criticism of the Centralist's 'Neo-Shogunism'."
-japdom.24.a:0 "This is the way we should go forward"
+japdom.24.a:0 "이것이 우리가 나아갈 길이다"
 
 japdom.25.t:0 "신체제운동"
-japdom.25.d:0 "To mobilise support for the regime and its reform programme, the 'New System Movement' (Shintaisei Undo) has been organised. Led by Prince Konoe Fumimaro, the movement aims for the creation of a political institution that is capable of merging and binding people into the organic whole of the nation - basically a Japanese breed of corporatism, with the Emperor at its head. The movement's immediate goal is the combination of all political perspectives into one party- the Imperial Rule Assistance Society (Taisei Yokusankai)."
-japdom.25.a:0 "This is the way we should go forward"
+japdom.25.d:0 "정권과 정권의 개혁에 대한 지지를 동원하기 위해, '신체제운동'이 조직되고 있습니다. 코노에 후미마로 공작이 이끄는 이 운동은 모든 사람을 유기적인 국민총체로 통합, 속박할 수 있는 정치기관을 만드는 것을 목표로 합니다. 기본적으로 천황을 정점으로 하는 일본식 코포라티즘 변종이라 할 수 있습니다. 일단 이 운동이 당면한 과제는 모든 정견을 하나의 정당에 통합시키는 것이며, 그 단일정당은 대정익찬회라고 합니다."
+japdom.25.a:0 "이것이 우리가 나아갈 길이다."
 
 japdom.26.t:0 "대정익찬회 제1차 대회 개최"
 japdom.26.d:0 "The Taisei Yokusankai, or Imperial Rule Assistance Society, is structured as a new political core institution that will represent every aspect of society, unlike the old 'plutocratic' Imperial Diet. It will branch out into every administrative level from hamlet to prefecture, and create a core group consisting of talented individuals from academic, cultural, economic, governmental, military, political, and all other professional occupations. In theory, by penetrating to the grass-roots level a direct link between politics and the people will be established, and by having every important interest group represented at its core it would be possible to coordinate and develop effective national policy. Sadly, that vision has already collapsed, as the various movements the Taisei Yokusankai was meant to bind together have already begun to argue and compete for control of the society. Three main groups have emerged at the convention. The leading group is the Kakushinha (Reformist Faction) headed by none other than Prince Konoe himself, composed of reform-minded intellectuals and politicians. The second group is the Kodoha (Imperial Way Faction), named after General Araki's frequent usage of the word 'Imperial Way', or 'Kodo', composed of reserve or active Restorationist military leaders. Third is the Yokuseiha, mainly composed of former parliamentary politicians who sympathised with the Restorationist cause. The name 'Yokuseiha' originated from an abbreviation of a political association of Restorationist sympathisers, the Yokusan Seijikai (Imperial Rule Assistance Political Association). The latter two object to the Kakushinha's forceful agenda, and even question the purpose of the Taisei Yokusankai. Konoe had designed the Taisei Yokusankai as a central nervous system of the upcoming 'New System', combining all legislative, executive and administrative powers into one. Konoe assured that the old Meiji Constitution would remain as it is and the Taisei Yokusankai would not replace the Imperial Diet, but the very idea of the political leviathan has met with vigorous opposition."
-japdom.26.a:0 "This is the way we should go forward."
+japdom.26.a:0 "이것이 우리가 나아갈 길이다."
 
 japdom.27.t:0 "코노에 후미마로가 지지받다"
-japdom.27.d:0 "15일간의 대회 끝에 코노에 공작이 자기 의제를 관철시키고 대정익찬회의 지지를 확보했다."
-japdom.27.a:0 "This is the way we should go forward."
+japdom.27.d:0 "15일간의 대회 끝에 코노에 공작이 자기 의제를 관철시키고 대정익찬회의 지지를 확보했습니다."
+japdom.27.a:0 "이것이 우리가 나아갈 길이다."
 
 japdom.28.t:0 "아라키 사다오가 지지받다"
-japdom.28.d:0 "15일간의 대회 끝에 아라키 대장이 자기 의제를 관철시키고 대정익찬회의 지지를 확보했다."
-japdom.28.a:0 "This is the way we should go forward."
+japdom.28.d:0 "15일간의 대회 끝에 아라키 대장이 자기 의제를 관철시키고 대정익찬회의 지지를 확보했습니다."
+japdom.28.a:0 "이것이 우리가 나아갈 길이다."
 
 japdom.29.t:0 "쿠하라 후사노스케가 지지받다"
-japdom.29.d:0 "15일간의 대회 끝에 유신주의자 쿠하라 후사노스케가 자기 의제를 관철시키고 대정익찬회의 지지를 확보했다."
-japdom.29.a:0 "This is the way we should go forward."
+japdom.29.d:0 "15일간의 대회 끝에 유신주의자 쿠하라 후사노스케가 자기 의제를 관철시키고 대정익찬회의 지지를 확보했습니다."
+japdom.29.a:0 "이것이 우리가 나아갈 길이다."
 
 japdom.30.t:0 "수상 지명"
 japdom.30.d:0 "With new times and new leaders it comes the time for a new Prime Minister. Only candidates endorsed by the Taisei Yokusankai stand a chance of winning, effectively reduced the ceremony to a rubber stamp. Who comes forward..."
-japdom.30.a:0 "Who could have guessed it would be Konoe Fumimaro?"
-japdom.30.b:0 "Who could have guessed it would be Appoint Araki Sadao?"
-japdom.30.c:0 "Who could have guessed it would be Appoint Kuhara Fusanosuke?"
+japdom.30.a:0 "코노에 후미마로라니 누가 알았겠는가?"
+japdom.30.b:0 "아라키 사다오라니 누가 알았겠는가?"
+japdom.30.c:0 "쿠하라 후사노스케라니 누가 알았겠는가?"
 
 japdom.31.t:0 "1937년 4월 총선거"
 japdom.31.d:0 "Having survived the fateful winter, the Government has called an election to confirm its electoral mandate and regain the political initiative."
-japdom.31.a:0 "Elect Rikken Seiyukai (Conservatives)."
-japdom.31.b:0 "Elect Minseito (Liberals)."
-japdom.31.c:0 "Maintain the ruling coalition."
+japdom.31.a:0 "입헌정우회(보수주의)를 선택한다."
+japdom.31.b:0 "민정당(자유주의)을 선택한다."
+japdom.31.c:0 "기존 연정을 유지한다."
 
 japdom.32.t:0 "분당"
-japdom.32.d:0 "During the Rikken Seiyukai convention of 1936, Nakajima had felt his leading role was insecure and made power-sharing agreements with other factions. One such agreement was that the powerful post of the Secretary-General would remain vacant (but not abolished), with its tasks transferred to the collective leadership of the General Council. Last month, believing he had solidified his position, Nakajima attempted to complete his domination by capturing the office of Secretary-General. To this end, he formally advised the General Council to return the post to former Secretary-General Kuhara Fusanosuke, who sympathised with the Reformists, and on April 28th Nakajima and his clique formed the 'Kakushin Domei' (Reformist Alliance), effectively a party within a party, pressing the General Council even further. After the general election had concluded, on May 14th the pro-Nakajima chairman of the General Council Horikiri Zenbe forced the issue to a vote within the Council, but the motion was vetoed by all other factions. Isolated within the upper echelons, the Reformists tried to overcome the situation by calling a convention to mobilise their local party cadres, but this was turned down by all other non-Reformist leaders again, frustrating Nakajima even more. Today, just a month after the election, the Kakushin Domei formally declared its independence from the Rikken Seiyukai."
-japdom.32.a:0 "It is time to find our own path."
+japdom.32.d:0 "1936년 입헌정우회 대회에서 자기 당권이 위험하다는 것을 느낀 나카지마는 다른 정파들과 권력공유에 합의했습니다. 그 합의 내용 중 하나로써 강력한 당직인 간사장이 공석이 되었고(단 폐지된 것은 아님), 간사장 업무는 총회의 집단지도체제로 이관되었습니다. 자신의 위치가 확고해졌다고 여긴 나카지마는 지난 달 간사장 자리를 탈취함으로써 자신의 당권장악을 완료했습니다. 나카지마는 총회에 간사장직을 혁신파에 동정적인 전 간사장 쿠하라 후사노스케에게 돌려줄 것을 공식 권고했습니다. 4월 28일, 나카지마와 그 당여들은 '혁신동맹'이라는 사실상의 당내당을 만들면서 총회를 더욱 압박했습니다. 총선이 끝난 뒤인 5월 14일, 친나카지마파 총회의장 호리키리 젠베가 이 문제의 표결을 강요했으나, 다른 정파들이 모두 거부했습니다. 당 상층부에서 고립된 혁신파는 당대회를 개최하여 지역당 간부단을 동원하여 상황을 해결하고자 했으나, 이것도 비유신파 영수들에 의해 기각되어 나카지마를 더욱 노하게 했습니다. 선거 딱 한달 째인 오늘 혁신동맹은 입헌정우회로부터의 탈당을 공식 선언했습니다."
+japdom.32.a:0 "우리 스스로 갈 길을 찾을 때지."
 
 japdom.33.t:0 "국민동맹 창당"
-japdom.33.d:0 "After accepting Adachi Kenzo and his clique from the Minseito into the Kakushin Domei, Nakajima reorganised the party and renamed it the Kokumin Domei (National Alliance)."
-japdom.33.a:0 "It is time to find our own path."
+japdom.33.d:0 "아다치 켄조 등 민정당 출신 파벌을 혁신동맹에 받아들인 나카지마는 당을 재조직하고 당명을 국민동맹으로 개칭했습니다."
+japdom.33.a:0 "우리 스스로 갈 길을 찾을 때지."
 
 japdom.34.t:0 "내각총사퇴"
 japdom.34.d:0 "조선 참사의 책임을 지고 내각총리대신이 사퇴했습니다. 새로운 내각을 조각해야 합니다."
@@ -511,8 +511,8 @@ japdom.34.b:0 "마치다 츄지를 지명한다."
 japdom.34.c:0 "나카지마 치쿠헤이를 지명한다."
 japdom.34.e:0 "쇼다 카즈에를 지명한다."
 
-japdom.35.t:0 "기화원"
-japdom.35.d:0 "검은 월요일 불황으로 인한 총체적 정치경제위기가 일본의 태평양 수출시장을 위협하고 있습니다. 정부는 경제정책을 재고하기 시작했습니다. 우리는 주로 견직물과 기타 소비재를 수출합니다. 우리의 공산품은 여전히 대부분의 서방국가들에 비해 뒤떨어집니다. 이 상황을 개선하기 위한 다양한 대책들이 제안되었고, 미래경제정책을 연구계획할 기관으로 기화원(企画院)이 설치되었습니다."
+japdom.35.t:0 "기획원"
+japdom.35.d:0 "검은 월요일 불황으로 인한 총체적 정치경제위기가 일본의 태평양 수출시장을 위협하고 있습니다. 정부는 경제정책을 재고하기 시작했습니다. 우리는 주로 견직물과 기타 소비재를 수출합니다. 우리의 공산품은 여전히 대부분의 서방국가들에 비해 뒤떨어집니다. 이 상황을 개선하기 위한 다양한 대책들이 제안되었고, 미래경제정책을 연구계획할 기관으로 기획원(企画院)이 설치되었습니다."
 japdom.35.a:0 "잘 됐군."
 
 japdom.36.t:0 "부패 추문"
@@ -543,15 +543,15 @@ japdom.46.t:0 "제2차 인민전선 사건"
 japdom.46.d:0 "오늘 38명의 좌익 성향의 교수들이 '인민전선'을 조직한 혐의로 체포되면서, 지식인들의 추가적인 구속이 이루어졌습니다."
 japdom.46.a:0 "빨갱이들이 더 있다고?!"
 
-japdom.47.t:0 "케이힌노동자모임 사건"
+japdom.47.t:0 "케이힌노동자그룹 사건"
 japdom.47.d:0 "케이힌(도쿄-요코하마) 지역에서 활동하는 지하 생디칼리스트 조직이 적발, 체포되었습니다."
 japdom.47.a:0 "좋은 소식 맞지?"
 
-japdom.48.t:0 "기화원 사건"
-japdom.48.d:0 "기화원 직원 열일곱 명이 정부 내부에 '인민전선'을 조직하려 한 혐의로 오늘 체포, 기소되었습니다."
+japdom.48.t:0 "기획원 사건"
+japdom.48.d:0 "기획원 직원 열일곱 명이 정부 내부에 '인민전선'을 조직하려 한 혐의로 오늘 체포, 기소되었습니다."
 japdom.48.a:0 "이거 감당할 수가 없잖아!"
 
-japdom.49.t:0 "조사부 사건"
+japdom.49.t:0 "만철조사부 사건"
 japdom.49.d:0 "남만주철도 조사부 소속 관료 스물아홉 명이 사내에 지하 생디칼리스트 운동을 조직하려 한 혐의로 오늘 체포, 기소되었습니다."
 japdom.49.a:0 "이거 감당할 수가 없잖아!"
 
@@ -617,7 +617,7 @@ japdom.62.a:0 "이 무례한 자들을 벌하리라!"
 japdom.62.b:0 "어쩔 수 없군."
 
 japdom.63.t:0 "가뭄 끝나다"
-japdom.63.d:0 "몇 개월 동안의 고통 끝에 드디어 가뭄이 끝났고 나라 꼴이 회복되고 있다."
+japdom.63.d:0 "몇 개월 동안의 고통 끝에 드디어 가뭄이 끝났고 나라 꼴이 회복되고 있습니다."
 japdom.63.a:0 "마침내!"
 
 japdom.64.t:0 "봉천군벌이 식량을 보내주기로 하다"
@@ -638,23 +638,23 @@ japdom.72.b:0 "He is out of line!"
 
 japdom.66.t:0 "정치적 저항"
 japdom.66.d:0 "Though people say they are willing to lay down their life for the emperor, putting that to the test has been less successful than we would have liked. There has been political resistance to our mass mobilisation campaign, and while it is pushing ahead as planned, it has weakened out political position."
-japdom.66.a:0 "I see."
+japdom.66.a:0 "알겠다."
 
 japdom.67.t:0 "품질저하"
 japdom.67.d:0 "Our third phase of mobilisation is underway, but already we have discovering that these new recruits aren't up to standard, but it is to late to turn back, all we can do is hope combat trains them well."
-japdom.67.a:0 "I understand."
+japdom.67.a:0 "이해하겠다."
 
 japdom.68.t:0 "사령부의 불화"
-japdom.68.d:0 "Nagata and Obata have had an argument. Each has called the other a fool, and now they are refusing to work together. While we are sure this will soon be resolved, in the mean time the army are without leadership."
-japdom.68.a:0 "I hope you are right."
+japdom.68.d:0 "나가타와 오바타가 논쟁을 벌였습니다. 두 장군은 서로를 등신이라 부르며 같이 일하기를 거부하고 있습니다. 이 사태가 해결되기 전까지 육군은 수뇌부 공백상태가 될 것이나, 분명 가까운 시일 안에 해결될 것입니다."
+japdom.68.a:0 "그랬으면 좋겠군."
 
 japdom.69.t:0 "또 불화"
-japdom.69.d:0 "Nagata and Obata have had another argument. They nearly came to blows with one another, and now, once again, they are refusing to work together. While we are sure this will soon be resolved, in the mean time the army are without leadership. We must be careful with the political situation to avoid things like this."
-japdom.69.a:0 "I hope you are right."
+japdom.69.d:0 "나가타와 오바타가 다시 논쟁을 벌였습니다. 두 장군은 서로에게 주먹질을 하기 직전까지 갔으며, 이번에도 같이 일하기를 거부하고 있습니다. 이 사태가 해결되기 전까지 육군은 수뇌부 공백상태가 될 것이나, 분명 가까운 시일 안에 해결될 것입니다."
+japdom.69.a:0 "그랬으면 좋겠군."
 
-japdom.70.t:0 "또 싸웠대요"
-japdom.70.d:0 "Nagata and Obata have had yet another argument. This time they declared each other to be the greatest threat Japan has ever faced, and once more they are refusing to work together. While we are sure this will soon be resolved, in the mean time the army are without leadership. Fortunately, those close to them say they have nearly reaching a compromise, so hopefully this will be the last argument they have."
-japdom.70.a:0 "I hope you are right."
+japdom.70.t:0 "또또 불화"
+japdom.70.d:0 "나가타와 오바타가 또 논쟁을 벌였습니다. 이번에는 두 장군은 서로를 일본 역사상 최대의 재앙이라고 선언하고, 또다시 같이 일하기를 거부하고 있습니다.  이 사태가 해결되기 전까지 육군은 수뇌부 공백상태가 될 것이나, 분명 가까운 시일 안에 해결될 것입니다. 두 장군의 측근에 따르면 둘은 거의 합의에 이르고 있다고 하니, 다행스럽게도 이번이 마지막 싸움질이 될 것입니다."
+japdom.70.a:0 "그랬으면 좋겠군."
 
 japdom.74.t:0 "궤간 바꾸기"
 japdom.74.d:0 "It has taken tremendous effort, but finally the switch is underway, while it is nowhere near complete, the worst is behind us, and we are already beginning to see the negative effects of our old, narrow, rail gauge diminishing."
