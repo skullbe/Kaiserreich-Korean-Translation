@@ -830,7 +830,7 @@ HOL_pvda_name:0 "PvdA"
 holst.1.t:0 "1936년의 네덜란드"
 holst.1.d:0 "네덜란드는 세계대전 동안 독일 편에 붙자는 논의가 있었음에도 불구하고 중립을 유지한 유럽의 몇 안되는 국가 중 하나입니다. 세계대전이 끝난 후 네덜란드는 경제 호황의 혜택을 맛보았지만, 경제의 상당 부분이 독일 회사의 대규모 투자와 함께 독일인의 손에 놓여 있습니다. 게다가 1920년대에 프랑스가 무너지고 영국이 생디칼리즘에 물들어버리면서 좌익 사상이 네덜란드에서 크게 관심을 끌고 있으며 반동적인 사상에도 점점 탄력이 붙고 있습니다. 국제적 긴장도가 높아지고 경제 번영이 끝나면서 네덜란드의 민주주의는 확실히 시험받을 것입니다."
 holst.1.a:0 "여왕 폐하 만세!"
-holst.1.b:0 "정치관련 중점은 어디 있나요?"													
+holst.1.b:0 "정치 관련 중점은 어디 있나요?"													
 
 holst.10001.t:0 "유동적인 중점 트리"
 holst.10001.d:0 "네덜란드는 1.5 패치 이후부터 새로운 특징을 이용하고 있습니다;바로 역동적인 중점 트리! 이것은 우리가 중점 트리를 한번에 복잡하게 전부 넣지 않고도 더 큰 중점 트리를 만들 수 있게 해줍니다. 이것은 많은 스크롤을 절약할 수 있을 뿐 아니라 앞으로 어떤 길이 놓여 있는지에 대한 설렘을 간직할 수 있습니다. 네덜란드의 경우, 정치적 초점은 여러분이 이용할 수 있을 때까지 숨겨지므로, 즉시 그들을 볼 수 없는 것에 대해 걱정하지 않으셔도 됩니다. 때가 되면 그들이 드러날 겁니다."
@@ -858,7 +858,7 @@ holst.6.a:0 "신이시여, 안돼!"
 
 holst.7.t:0 "기독국민동맹의 형성"
 holst.7.d:0 "지난 십여년 동안, 다양한 종교 정당들이 네덜란드 의회의 다수를 차지했습니다. 칼뱅교인 반혁명파당과 기독역사연합, 그리고 가톨릭인 로마가톨릭국가당은 정부에서 대다수를 차지하고 있으며, 대부분의 장관이 여기서 나왔습니다.\n\n하지만 그들은 이제 더이상 그들 각각의 기둥이 무조건적으로 확고한 지지를 보내줄 것이라고 기대할 수 없게 되었습니다. 아직 자신들의 영역에서 우세하기는 하지만, 그들은 극좌와 극우 비주류 운동으로 지지를 잃고 있으며, 심지어 온건한 대중들 사이에서도 좌익자유주의와 사회민주주의에 빠지는 사람들이 늘어나고 있습니다. 이 정당들이 표를 잃으면서, 그들은 이제 그 기둥이 일상생활에서 엄격히 분리되었음에도 불구하고 당의 노선을 지워가면서까지 수십년간 이어진 협동을 이용하려고 하고 있습니다.\n\n기독국민동맹의 설립은 장기적으로 표를 잃을 수도 있지만, 의회 의석의 통합과 대중의 지지로 기독국민동맹은 다른 작은 정당보다 훨씬 큰 정치적 힘을 가지고 있습니다.\n\n이것이 지지 기반을 잃는 것을 막기에 충분할지, 아니면 정치에서 신의 우위가 끝날지는 시간만이 말해줄 것입니다..."
-holst.7.a:0 "믿음 속에서 통합."
+holst.7.a:0 "신앙 아래에서 단결하자."
 
 holst.8.t:0 "자유주의의 위기"
 holst.8.d:0 "네덜란드에서 자유주의는 위협받고 있습니다. 가장 큰 진보 정당인 전통주의 자유국가당은 최근 몇년간 꾸준히 입지를 잃어 왔습니다. 기존 체제의 실패에 환멸을 느낀 많은 당원들이 국가재건연합의 급진국가주의 쪽으로 발길을 돌리고 있으며 이제 기독국민동맹과 같은 거대한 권력 집단의 조짐도 보이고 있습니다. 이로인해 다른 정당보다 훨씬 느린 속도로 당원을 잃고 있는 좌익 성향의 자유민주연맹이 국내 최대의 진보 정당이 되었습니다.\n\n올해 그들이 선거에서 이길 가능성은 거의 없지만, 자유국가당은 그들이 보수적이고 갈수록 권위적으로 변하는 기독국민동맹에 비해 온건하고 믿을만한 대안으로 보여지기를 기대하고 있습니다."
@@ -872,8 +872,8 @@ holst.10.t:0 "란트바흐트의 형성"
 holst.10.d:0 "요르단 폭동의 결과, 경찰은 시위자들의 무리 속에 있다가 군인들이 나타나는 순간 사라진 검은 셔츠 젊은이들이 단순한 폭력배들이 아니라는 것을 재빨리 알아냈습니다. 이는 아마도 코르넬리스 판 힐켈크가 직접 이끌고 국가재건연합이 설립한 준군사 조직인 란트바흐트의 첫 공개 모습을 보여줍니다.\n\n요르단 이래, 란트바흐트는 전국적으로 나타났고, 국가재건연합 집회에 서서 망을 보고, 좌익 단체들의 회의를 방해하고, 때로는 그들의 생디칼리스트 상대인 민족 적색 전선 또는 '적색 전선'과 싸움을 벌였습니다. 그들은 주요 도시들의 거리를 통과하는 훈련되고, 군국주의적인 행진을 통해 많은 군중을 끌어 모으고, 특히 젊은이들 사이에서 더 많은 신입들을 끌어 모읍니다.\n\n란트바흐트는 빠르게 무시할 수 없는 세력이 되어가고 있고, 그 수는 여전히 늘어나고 있습니다 - 선거 기간 동안 그들이 침묵할 가능성은 낮습니다...."
 holst.10.a:0 "맙소사!"
 
-holst.11.t:0 "판 기블렌 오스터호프의 사망"
-holst.11.d:0 "매우 민족주의적인 국가재건연합의 지도자, 판 기블렌 오스터호프가 오늘 암스테르담에 있는 그의 자택에서 숨졌습니다.\n\nHis last few years had seen a rapid rise in fortunes of the 국가재건연합, brought on by the economic struggles facing many in the country, fear of Syndicalism and disillusionment with democracy. However, the party he leaves behind is highly divided itself between the young, newer members of the party lead by Cornelis van Geelkerken and the older, more established segment possessing ties to the Dutch military and bureaucracy in the hands of H.N.A. Swart.\n\nSwart has been named the new party leader with van Geelkerken his deputy, and the pair look set to challenge the established parties for control of the Hague in the May elections - provided the two wings can keep working together."
+holst.11.t:0 "반 히블런 오스터호프의 사망"
+holst.11.d:0 "매우 민족주의적인 국가재건연합의 지도자, 반 히블런 오스터호프가 오늘 암스테르담에 있는 그의 자택에서 숨졌습니다.\n\nHis last few years had seen a rapid rise in fortunes of the 국가재건연합, brought on by the economic struggles facing many in the country, fear of Syndicalism and disillusionment with democracy. However, the party he leaves behind is highly divided itself between the young, newer members of the party lead by Cornelis van Geelkerken and the older, more established segment possessing ties to the Dutch military and bureaucracy in the hands of H.N.A. Swart.\n\nSwart has been named the new party leader with van Geelkerken his deputy, and the pair look set to challenge the established parties for control of the Hague in the May elections - provided the two wings can keep working together."
 holst.11.a:0 "그들을 조심해야 한다..."
 
 holst.12.t:0 "네덜란드의 사회 불안"
@@ -881,7 +881,7 @@ holst.12.d:0 "지난 몇달 동안 좌파와 우파의 준군사 조직 간 충�
 holst.12.a:0 "빌어먹을 폭력배들!"
 
 holst.13.t:0 "즈볼러 대학살"
-holst.13.d:0 "지방의회 공산주의자들이 조직한 즈볼러 외곽에서의 사회주의 집회는, 군중을 해산시키려는 시위자들 중 한명이 경찰 가운데에 폭탄을 던져 비극으로 끝났습니다. 경찰관 4명이 사망했고 경찰은 즉시 군중에게 총격을 가해 24명의 시위자가 사망했습니다.\n\n다음날 새벽, 란트바흐트의 지역 지부의 공개적인 지원을 받은 경찰은 혁명사회노동당의 설립자이자 지도자인 헹 스니블리트의 조카를 포함한 지역 사회주의 지도자들을 집단으로 체포했습니다.\n\n이러한 조치는 전국적으로 더 많은 항의를 불러 일으켰고 심지어 자유민주연맹도 콜렝 총리에게 소위 '불법 구금'을 공개적으로 비난할 것을 요구하고 있습니다."
+holst.13.d:0 "즈볼러 외곽에서 지방 사회주의자들이 조직한 집회는, 시위자들 중 한 명이 군중을 해산시키려는 경찰 무리 한가운데에 폭탄을 던지는 비극으로 끝났습니다. 경찰관 4명이 사망했으며, 경찰은 즉시 총격을 가해 24명의 시위자가 사망했습니다.\n\n다음날 새벽, 해당 지역 란트바흐트 지부의 공개적인 지원을 받은 경찰은 혁명사회노동당의 설립자이자 지도자인 헹 스니블리트의 조카를 포함한 지역 사회주의 지도자들을 집단으로 체포했습니다.\n\n이러한 조치는 전국적으로 더 많은 항의를 불러 일으켰고 심지어 자유민주연맹도 콜렝 총리에게 소위 '불법 구금'을 공개적으로 규탄할 것을 요구하고 있습니다."
 holst.13.a:0 "경찰은 문제아들을 너무 늦게 검거했다."
 holst.13.b:0 "이 사람들은 결백하며, 당장 석방되어야 한다!"
 
@@ -925,7 +925,7 @@ holel.7.b:0 "슬프게도, 당신을 도와줄 순 없다."
 
 holel.8.t:0 "레인데어스가 군사 쿠데타를 일으키다"
 holel.8.d:0 "While the last votes were being counted, General Reijnders suddenly seized control of the nation's primary radio broadcaster and unilaterally declared the country to be in 'state of emergency'.\n\nIn Amsterdam, The Hague, Utrecht, Eindhoven and Groningen, soldiers were deployed to occupy strategic points, such as bridges and public buildings. The demissionary Colijn government was preparing its response when suddenly a putschist detachment of soldiers burst into the building and placed all ministers under house arrest.\n\nIn Groningen, the crisis lasted less than an hour, however, as a loyalist army group joined up with the NRF and several 'volunteer guards', driving the revolting putschists back to the city limits. Following this, more loyalist forces began to rendezvous and launch attacks on the military forces holding the key strong points across the nation."
-holel.8.a:0 "왕당파들에게 치명적인 한 방이다."
+holel.8.a:0 "왕당파들에게 치명적인 한 방이군."
 holel.8.b:0 "쿠데타는 성공적으로 진압되었다."
 
 holel.9.t:0 "레인데어스 장군이 체포되다"
@@ -985,8 +985,8 @@ hol.11.b:0 "사회주의자들은 진압당했다!"
 
 hol.12.t:0 "생디칼리즘 혁명!"
 hol.12.d:0 "Events in the Netherlands have reached the boiling point, and socialists have stormed the capital with French and British equipment and volunteers!"
-hol.12.a:0 "The government falls!"
-hol.12.b:0 "The Socialists are crushed!"
+hol.12.a:0 "정부가 무너졌다!"
+hol.12.b:0 "사회주의자들은 진압당했다!"
 
 hol.13.t:0 "생디칼리즘이 네덜란드를 장악하다!"
 hol.13.d:0 "Events in the Netherlands have reached the boiling point, and socialists have stormed the capital with French and British equipment and volunteers! The fate of the Dutch Royalfamily is yet unknown, as rumours say they intend to escape to the loyalist Dutch East Indies."
