@@ -407,7 +407,7 @@ japdom.10.a:0 "나라가 미쳐가고 있군..."
 
 japdom.11.t:0 "스즈키 기사부로의 암살"
 japdom.11.d:0 "상상할 수도 없는 일이 또 일어났습니다! 스즈키 총리와 그의 법정혈족 형제인 하토야마 이치로는 오늘 가와고에에서 열린 정당 집회에 참석했습니다. 하토야마가 연설을 하기 위해 일어섰을 때, '사이타마 민족구원청년봉사단'의 생디칼리즘 테러리스트가 이누카이 총리의 암살자를 처벌한 것에 대한 보복으로 스즈키와 하토야마를 저격했습니다. 스즈키의 부상은 심각한 것으로 보입니다."
-japdom.11.a:0 "명복을 비무니다."
+japdom.11.a:0 "편히 잠드시게."
 
 japdom.12.t:0 "비난 받는 정부"
 japdom.12.d:0 "놀랄 것도 없이, 국가보안법 통과의 실패는 총리에 대한 반발을 불러일으켰습니다. 이 법안을 지지했던 보수주의자들과 관료들은 스즈키의 패배에 배신감을 느꼈습니다. 정부가 생디칼리즘에 대한 어떤 조치도 취하지 못한 데 실망한 귀족원과 추밀원은 내각에 대한 인내심을 모두 잃었습니다."
@@ -443,7 +443,7 @@ japdom.19.d:0 "오늘 새벽, 유신파 청년장교들이 도쿄 주둔 부대�
 japdom.19.a:0 "쿠데타는 성공하는가!"
 
 japdom.20.t:0 "유신파의 쿠데타 미수!"
-japdom.20.d:0 "오늘  새벽, 유신파 청년장교들이 도쿄 주둔 부대들을 이용해 또다른 쿠데타를 일으켰습니다! 아침이 밝자 1,400 명의 장교 및 병사들이 주요 통신 및 행정시설들을 접수하기 위해 움직이기 시작했습니다. 육군성, 육군참모부, 경시청, 총리관저, 국회의사장이 빠르게 함락되었고, 황거에서는 공성전이 벌어졌습니다. 천황폐하께옵서 내란범들을 호되게 질책하시자, 해군이 육전사단들을 동원하여 황거를 구원하였고, 쿠데타는 저녁에 분쇄되었습니다."
+japdom.20.d:0 "오늘 새벽, 유신파 청년장교들이 도쿄 주둔 부대들을 이용해 또다른 쿠데타를 일으켰습니다! 아침이 밝자 1,400 명의 장교 및 병사들이 주요 통신 및 행정시설들을 접수하기 위해 움직이기 시작했습니다. 육군성, 육군참모부, 경시청, 총리관저, 국회의사장이 빠르게 함락되었고, 황거에서는 공성전이 벌어졌습니다. 천황폐하께옵서 내란범들을 호되게 질책하시자, 해군이 육전사단들을 동원하여 황거를 구원하였고, 쿠데타는 저녁에 분쇄되었습니다."
 japdom.20.a:0 "해군에게 가호가 있기를!"
 
 japdom.21.t:0 "중앙파의 승리!"
@@ -454,7 +454,7 @@ japdom.21.b:0 "히라누마 총리를 유임한다."
 japdom.22.t:0 "거국일치정부"
 japdom.22.d:0 "입헌유신회의 나카지마 치쿠헤이와 민정당의 아다치 켄조는 모두 국가보안법의 지지자입니다. 둘이 공동성명을 내기를, 두 주류정당이 연정하여 '거국일치정부'를 구성, 생디칼리슴의 위협으로부터 국체를 수호할 것이라 합니다."
 japdom.22.a:0 "강한 정부가 필요하지."
-japdom.22.b:0 "그게 무슨 헛소리람."
+japdom.22.b:0 "헛소리하기는."
 
 japdom.23.t:0 "국방 기본 교리에 관하여"
 japdom.23.d:0 "After taking power, the Centralists sought a political blueprint for their new regime. They have presented such a blueprint, titled 'On the Basic Principles of National Defence' and have distributed it among the Centralist leadership. Envisioning an 'Advanced National Defence State' (Kodo Kokubo Kokka), the document proposes to transform the state into one geared and ready for total war. To this end, not only must Japan's economic structure be reorganised along a militarist line, but the Japanese people must be 'ideologically enlightened' to abandon self-interest. They must abandon class struggle, which is harmful to national security, and restructure society along a moral economic line."
@@ -486,9 +486,9 @@ japdom.29.a:0 "이것이 우리가 나아갈 길이다."
 
 japdom.30.t:0 "수상 지명"
 japdom.30.d:0 "With new times and new leaders it comes the time for a new Prime Minister. Only candidates endorsed by the Taisei Yokusankai stand a chance of winning, effectively reduced the ceremony to a rubber stamp. Who comes forward..."
-japdom.30.a:0 "코노에 후미마로라니 누가 알았겠는가?"
-japdom.30.b:0 "아라키 사다오라니 누가 알았겠는가?"
-japdom.30.c:0 "쿠하라 후사노스케라니 누가 알았겠는가?"
+japdom.30.a:0 "코노에 후미마로라니, 누가 알았겠는가?"
+japdom.30.b:0 "아라키 사다오라니, 누가 알았겠는가?"
+japdom.30.c:0 "쿠하라 후사노스케라니, 누가 알았겠는가?"
 
 japdom.31.t:0 "1937년 4월 총선거"
 japdom.31.d:0 "Having survived the fateful winter, the Government has called an election to confirm its electoral mandate and regain the political initiative."
@@ -520,7 +520,7 @@ japdom.36.d:0 "최고위 관료들 중 하나가 부패 혐의로 고발되었�
 japdom.36.a:0 "부끄러운 줄 알아야지!"
 
 japdom.39.t:0 "조선 식민화"
-japdom.39.d:0 "수백 만 명의 일본인들이 조선 땅에 식민된 덕에 마침내 일본 당국은 조선반도에 대한 지배권을 확고히 했습니다."
+japdom.39.d:0 "수백 만 명의 일본인들이 조선 땅에 이주한 끝에 마침내 일본 당국은 조선 반도에 대한 지배권을 확고히 했습니다."
 japdom.39.a:0 "반자이 반자이 반자이!"
 
 japdom.40.t:0 "조선의 경제적 통합"
@@ -528,11 +528,11 @@ japdom.40.d:0 "우리의 노력이 결실을 거두기 시작했습니다. 조�
 japdom.40.a:0 "완벽하군!"
 
 japdom.42.t:0 "타이완 식민화"
-japdom.42.d:0 "수천 명의 일본인들이 타이완 땅에 식민된 덕에 일본 당국은 타이완섬에 대한 지배권을 확고히 했습니다."
+japdom.42.d:0 "수천 명의 일본인들이 타이완 땅에 이주한 끝에 일본 당국은 타이완 섬에 대한 지배권을 확고히 했습니다."
 japdom.42.a:0 "아주 좋아."
 
 japdom.73.t:0 "다롄 식민화"
-japdom.73.d:0 "수천 명의 일본인들이 다롄에 식민된 덕에 일본 당국은 요동반도에 대한 지배권을 확고히 했습니다."
+japdom.73.d:0 "수천 명의 일본인들이 다롄에 이주한 끝에 일본 당국은 요동 반도에 대한 지배권을 확고히 했습니다."
 japdom.73.a:0 "아주 좋아."
 
 japdom.45.t:0 "인민전선 사건"
@@ -545,7 +545,7 @@ japdom.46.a:0 "빨갱이들이 더 있다고?!"
 
 japdom.47.t:0 "케이힌노동자그룹 사건"
 japdom.47.d:0 "케이힌(도쿄-요코하마) 지역에서 활동하는 지하 생디칼리스트 조직이 적발, 체포되었습니다."
-japdom.47.a:0 "좋은 소식 맞지?"
+japdom.47.a:0 "좋은 소식... 맞나?"
 
 japdom.48.t:0 "기획원 사건"
 japdom.48.d:0 "기획원 직원 열일곱 명이 정부 내부에 '인민전선'을 조직하려 한 혐의로 오늘 체포, 기소되었습니다."
@@ -585,7 +585,7 @@ japdom.56.d:0 "히로히토 천황 폐하께서 국가의 군사적 전복에 �
 japdom.56.a:0 "기적적으로 회복될 것이다!"
 japdom.56.b:0 "폐하가 돌아가셨으니, 지치부 친왕이 섭정을 맡을 것이다"
 
-japdom.57.t:0 "제2차 메이지 유신?"
+japdom.57.t:0 "제 2차 메이지 유신?"
 japdom.57.d:0 "지치부 친왕이 아키히토 천황의 숙부로서 섭정이 된 지 3년이 흐른 지금, 급진적 유신주의자들은 섭정왕이 조카를 몰아내고 보위에 올라야 한다고 주장하고 있습니다."
 japdom.57.a:0 "야스히토 천황 폐하께 경례!"
 japdom.57.b:0 "틀렸다. 그는 진정한 천황 폐하시다."
@@ -594,7 +594,7 @@ japdom.58.t:0 "하야시 센주로가 사망하다!"
 japdom.58.d:0 "중앙파이자 육군대장인 하야시 센주로가 오늘 작고했습니다. 후임으로는..."
 japdom.58.a:0 "도조 히데키를 임명한다."
 japdom.58.b:0 "나가타 테츠잔을 임명한다."
-japdom.58.c:0 "삼가 명복을 비무니다."
+japdom.58.c:0 "편히 잠드시게."
 
 japdom.59.t:0 "1281년의 재림"
 japdom.59.d:0 "우리의 적들이 우리의 신성한 섬에 성공적으로 상륙했습니다! 그들을 저지하기 위해서 국가의 모든 것을 완전히 동원해야만 합니다!..."
@@ -642,18 +642,18 @@ japdom.66.a:0 "알겠다."
 
 japdom.67.t:0 "품질저하"
 japdom.67.d:0 "Our third phase of mobilisation is underway, but already we have discovering that these new recruits aren't up to standard, but it is to late to turn back, all we can do is hope combat trains them well."
-japdom.67.a:0 "이해하겠다."
+japdom.67.a:0 "이해했다."
 
-japdom.68.t:0 "사령부의 불화"
-japdom.68.d:0 "나가타와 오바타가 논쟁을 벌였습니다. 두 장군은 서로를 등신이라 부르며 같이 일하기를 거부하고 있습니다. 이 사태가 해결되기 전까지 육군은 수뇌부 공백상태가 될 것이나, 분명 가까운 시일 안에 해결될 것입니다."
+japdom.68.t:0 "사령부 내의 불화"
+japdom.68.d:0 "나가타와 오바타 장군이 논쟁을 벌였습니다. 두 장군은 서로를 '등신'이라 부르며 같이 일하기를 거부하고 있습니다. 이 사태가 해결되기 전까지 육군은 수뇌부 공백상태가 될 것이나, 분명 가까운 시일 안에 해결될 것입니다."
 japdom.68.a:0 "그랬으면 좋겠군."
 
 japdom.69.t:0 "또 불화"
-japdom.69.d:0 "나가타와 오바타가 다시 논쟁을 벌였습니다. 두 장군은 서로에게 주먹질을 하기 직전까지 갔으며, 이번에도 같이 일하기를 거부하고 있습니다. 이 사태가 해결되기 전까지 육군은 수뇌부 공백상태가 될 것이나, 분명 가까운 시일 안에 해결될 것입니다."
+japdom.69.d:0 "나가타와 오바타 장군이 다시 논쟁을 벌였습니다. 두 장군은 서로에게 주먹질을 하기 직전까지 갔으며, 이번에도 같이 일하기를 거부하고 있습니다. 이 사태가 해결되기 전까지 육군은 수뇌부 공백상태가 될 것이나, 분명 가까운 시일 안에 해결될 것입니다."
 japdom.69.a:0 "그랬으면 좋겠군."
 
 japdom.70.t:0 "또또 불화"
-japdom.70.d:0 "나가타와 오바타가 또 논쟁을 벌였습니다. 이번에는 두 장군은 서로를 일본 역사상 최대의 재앙이라고 선언하고, 또다시 같이 일하기를 거부하고 있습니다.  이 사태가 해결되기 전까지 육군은 수뇌부 공백상태가 될 것이나, 분명 가까운 시일 안에 해결될 것입니다. 두 장군의 측근에 따르면 둘은 거의 합의에 이르고 있다고 하니, 다행스럽게도 이번이 마지막 싸움질이 될 것입니다."
+japdom.70.d:0 "나가타와 오바타 장군이 또다시 논쟁을 벌였습니다. 이번에는 두 장군은 서로를 아예 일본 역사상 최대의 재앙이라고 선언할 지경까지 갔으며, 또다시 같이 일하기를 거부하고 있습니다.  이 사태가 해결되기 전까지 육군은 수뇌부 공백상태가 될 것이나, 분명 가까운 시일 안에 해결될 것입니다. 두 장군의 측근에 따르면 둘은 거의 합의에 이르고 있다고 하니, 다행스럽게도 이번이 마지막 싸움질이 될 것입니다."
 japdom.70.a:0 "그랬으면 좋겠군."
 
 japdom.74.t:0 "궤간 바꾸기"
@@ -665,7 +665,7 @@ japdom.75.bad:0 "Land reform has been an ongoing political issue and we are not 
 japdom.75.okay:0 "Land reform has been an ongoing political issue and we are not the first government to try and implement solutions but we may be the last, while we haven't revolutionised land use, we have fixed many issues, enough that inefficient land use will no longer plague our economy."
 japdom.75.good:0 "Land reform has been an ongoing political issue and we are not the first government to try and implement solutions, but where others failed we have succeeded! We have not only fixed many of the underlying issues but gone above and beyond; we have purchased and redistributed tens of thousands of hectares of land to landless or tenant farmers and are already beginning to see the benefits of our work!"
 japdom.75.great:0 "It's a miracle! Land reform has been an ongoing political issue and we are not the first government to try and implement solutions, but where others failed we have done what many thought was impossible! We have completed what is being internationally recognised as one of the largest land redistribution programs in history. 2.3 million hectares of land have been distributed to farmers during the project and landlordism as Japan knew it no longer exists."
-japdom.75.a:0 "우째 이런 일이..."
-japdom.75.b:0 "내 것이다!"
+japdom.75.a:0 "어떻게 이런 일이..."
+japdom.75.b:0 "우리 것이다!"
 japdom.75.c:0 "반자이!"
 japdom.75.d:0 "반자이 반자이 반자이!"
