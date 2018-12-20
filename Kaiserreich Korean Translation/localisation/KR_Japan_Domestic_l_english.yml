@@ -97,9 +97,9 @@ JAP_bad_land_2_desc:0 "우리는 세계에서 가장 효과적인 토지분배�
 
 ### Tooltips ###
 niigata_focus:0 "다음 결정이 일본 역사의 흐름을 가를 것입니다. 현명히 선택하세요..."
-JAP_NSA:0 "국가보안법 통과"
+JAP_NSA:0 "국가보안법 가결"
 JAP_NO_NSA:0 "국가보안법 부결"
-longest_winter_tool:0 "당신은 이제 일본이 어떤 길을 걸을지 선택할 수 있습니다."
+longest_winter_tool:0 "당신은 이제 일본이 어떤 길을 걸을 지 선택할 수 있습니다."
 JAP_longest_winter:0 "기나긴 겨울"
 JAP_STRONG_SEIYUKAI:0 "정부가 과반수를 유지했습니다"
 emperor_support_agree:0 "천황이 정부를 지지했습니다"
@@ -252,15 +252,15 @@ JAP_BUR_TRAN_desc:0 "Our continued push towards an efficient and productive soci
 
 ### Focuses - Economic - Colonisation ###
 JAP_INT_KOREA:0 "조선 통합"
-JAP_INT_KOREA_desc:0 "It may be best not to outright own Chosen but rather rule it as a puppet nation. Our economy would surly benefit..."
+JAP_INT_KOREA_desc:0 "조선은 완전히 소유하는 것이 아니라, 오히려 괴뢰국으로 조종하는 것이 가장 이득이 될 것입니다. 특히나 우리의 경제 부분에서..."
 JAP_COL_START:0 "식민지 장려책"
-JAP_COL_START_desc:0 "In order to save our dying agrarian sector and further expand our economy we sorely need to invest in colonial projects. The Empire is Japan's future."
+JAP_COL_START_desc:0 "우리의 스러져가는 농산업을 구제하고 경제력을 증강시키기 위해서, 우리는 식민지 건설에 대한 투자가 절실히 필요합니다. 식민지들이 곧 일본의 미래입니다."
 JAP_COL_KOREA:0 "조선 이민 증대"
-JAP_COL_KOREA_desc:0 "The closest colony to the Home Islands, Chosen has long been the aim of economic and cultural assimilation efforts, but the process will never be complete without further measures incentivizing Japanese settlement. Fortunately, the government can provide these incentives."
+JAP_COL_KOREA_desc:0 "본토와 가장 가까운 식민지, 조선은 오랜 기간 동안 경제 및 문화적으로 일본 본토와의 동화를 목표해왔지만, 그 과정은 일본의 식민 이주를 장려하는 추가적인 조치들이 없이는 결코 완성되지 못할 것입니다. 다행히도, 정부는 이러한 장려책을 제공할 여유가 있습니다."
 JAP_COL_TAIWAN:0 "대만 이민 증대"
-JAP_COL_TAIWAN_desc:0 "Taiwan, the richest and most prosperous colony in the Empire, promises limitless bounty to those that settle there. The government must begin to provide incentives for emigration, providing the means for farmers from depressed areas to travel."
+JAP_COL_TAIWAN_desc:0 "제국에서 가장 부유하고 번영한 식민지, 대만은 현지에 정착하려는 이들에게 무한한 가능성을 약속합니다. 정부는 침체된 지역의 농민들이 이곳으로 이주하도록 장려하기 위해서 식민 이주 보상금을 제공해야 합니다."
 JAP_COL_PORT:0 "관동 이민 확대"
-JAP_COL_PORT_desc:0 "Although the Kwantung Leased Territory was only officially granted to Japan for a period of 99 years, the city of Dairen and its surrounds make an excellent destination for Japanese settlers. The Government has every reason to provide further incentives, increasing emigration."
+JAP_COL_PORT_desc:0 "99년간 공식적으로 일본의 조차가 허가된 관동 지역, 즉 다롄시와 그 주변 지역은 일본 이주민들에게 훌륭한 삶의 터전 중 하나입니다. 정부가 추가적인 장려책을 제공하고 이주민들을 늘릴 이유는 충분합니다."
 
 ### Focuses - Military - Base ###
 JAP_MIL_start_1:0 "군의 방향"
@@ -585,7 +585,7 @@ japdom.56.d:0 "히로히토 천황 폐하께서 국가의 군사적 전복에 �
 japdom.56.a:0 "기적적으로 회복될 것이다!"
 japdom.56.b:0 "폐하가 돌아가셨으니, 지치부 친왕이 섭정을 맡을 것이다"
 
-japdom.57.t:0 "제 2차 메이지 유신?"
+japdom.57.t:0 "제2차 메이지 유신?"
 japdom.57.d:0 "지치부 친왕이 아키히토 천황의 숙부로서 섭정이 된 지 3년이 흐른 지금, 급진적 유신주의자들은 섭정왕이 조카를 몰아내고 보위에 올라야 한다고 주장하고 있습니다."
 japdom.57.a:0 "야스히토 천황 폐하께 경례!"
 japdom.57.b:0 "틀렸다. 그는 진정한 천황 폐하시다."
