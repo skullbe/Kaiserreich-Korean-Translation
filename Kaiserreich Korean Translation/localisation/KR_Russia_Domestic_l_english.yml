@@ -129,7 +129,7 @@ rusd.31.d:0 "지역 자치 정부, 또는 젬스트보라고 하는 기관에서
 rusd.32.t:0 "Youth Organisation provides Volunteers"
 rusd.32.d:0 "A youth organisation is happy to announce that an extraordinary number of teenagers have excelled in physical tests and were recommended to join our military."
 
-rusd.33.t:0 "A Patriotic Ceremony"
+rusd.33.t:0 "애국적 행사"
 rusd.33.d:0 "The mayor of one of our cities has proposed to organise a great patriotic ceremony to help improve morale and to commemorate our nation's heroes and our glorious leader."
 
 rusd.34.t:0 "미래를 향한 투자"
@@ -353,7 +353,7 @@ rusd.1013.d:0 "After Purishkevich's death, Tsar Pyotr must now choose a new head
 rusd.102.t:0 "Nikolai Maklakov dies"
 rusd.102.d:0 "A renowned officer died yesterday in his apartment in Petrograd."
 
-rusd.103.t:0 "Dmitri II Romanov dies"
+rusd.103.t:0 "드미트리 2세 로마노프의 사망"
 rusd.103.d:0 "Our beloved Tsar has died yesterday due to tuberculosis. In his last will and testament, Dmitri II expressed a desire for his son, Pavel, to inherit the crown. However, the young Tsarevich is only 12 so the Prime Minister would have to act as regent until Pavel II comes of age. This means that anti-monarchic elements in the government are likely to make an attempt to overthrow the monarchy and reestablish a republic. Besides, there is the legitimate pretender Vladimir waiting for his chance."
 rusd.103.a:0 "Crown Pavel II with the Prime Minister as regent."
 
@@ -376,19 +376,19 @@ rusd.107.d:0 "A pre-revolutionary Prime Minister and perhaps the oldest politici
 rusd.108.t:0 "Nikolai Krasnov dies"
 rusd.108.d:0 "A noted architect, known for designing the current outlook of the Yalta resort, has passed away. The government plans to erect a monument for him in the city, should an opportunity arise."
 
-rusd.109.t:0 "Lavr Kornilov dies"
+rusd.109.t:0 "라브닐 코르닐로프의 사망"
 rusd.109.d:0 "Field marshal Kornilov, one of the four officers that led the White Movement against the Bolsheviks during the civil war, has passed away. Kornilov has greatly contributed to post-revolutionary Russia's politics. Two weeks of national mourning have been declared as the people prepare for the funeral ceremony."
 
 rusd.1091.t:0 "Sergius of Nizhny Novgorod dies"
 rusd.1091.d:0 "Bishop Sergius has passed away in his sleep."
 
-rusd.110.t:0 "Alexei Rykov dies"
+rusd.110.t:0 "알렉세이 뤼코프의 사망"
 rusd.110.d:0 "Alexei Rykov, the leader of the Menshevik party, has passed away. Even though he opposed Lenin during the Revolution, he was later known for supporting his successors, Kirov and Bukharin. Irakli Tsereteli will succeed him as the party's leader."
 
 rusd.111.t:0 "Mikhail Meandrov dies"
 rusd.111.d:0 "A staunch supporter of Wrangel and his officer group has passed away."
 
-rusd.112.t:0 "Pavel Ignatiev dies"
+rusd.112.t:0 "파벨 이그니티에프의 사망"
 rusd.112.d:0 "The Tsarist education Minister and present conservative activist has passed away."
 
 rusd.113.t:0 "Nadezhda Krupskaya dies"
@@ -400,16 +400,16 @@ rusd.114.d:0 "A Hero of the Civil War passed away peacefully in his manor near I
 rusd.115.t:0 "General Voronets dies"
 rusd.115.d:0 "One of the most prominent military figures in the Army has passed away today."
 
-rusd.116.t:0 "General Shaposhnikov dies"
+rusd.116.t:0 "사포니시코프 장군의 사망"
 rusd.116.d:0 "One of the most prominent military figures in the Army has passed away today."
 
-rusd.117.t:0 "General Alekseyev dies"
+rusd.117.t:0 "알렉시예프 장군의 사망"
 rusd.117.d:0 "A Hero of the Civil War passed away peacefully in his manor near Smolensk yesterday."
 
 rusd.118.t:0 "General Kaledin dies"
 rusd.118.d:0 "A Hero of the Civil War passed away peacefully in his manor near Novgorod yesterday."
 
-rusd.119.t:0 "General Manshikov dies"
+rusd.119.t:0 "멘시코프 장군의 사망"
 rusd.119.d:0 "One of the most prominent military figures in the Army has passed away today."
 
 rusd.120.t:0 "검은 월요일이 러시아를 강타하다!"
@@ -426,18 +426,18 @@ rusd.122.a:0 "Excellent!"
 
 rusd.123.t:0 "Full Stabilisation"
 rusd.123.d:0 "The economy have managed to regain pre-crisis efficiency."
-rusd.123.a:0 "Urah!"
+rusd.123.a:0 "만세!"
 
 rusd.124.t:0 "Volga-Volga"
 rusd.124.d:0 "Volga-Volga is a Russian film comedy directed by Grigori Aleksandrov, released on April 24, 1938. Widely claimed to be Boris Savinkov's favourite movie, this classic musical comedy is a must-see. It centres on a group of amateur performers on their way to Moscow to perform in a talent contest called the Moscow Musical Olympiad. Most of the action takes place on a steamboat travelling on the Volga River."
 rusd.124.a:0 "Funny enough to make the Vozhd smile!"
 
-rusd.125.t:0 "Bastion of Democracy"
+rusd.125.t:0 "민주주의의 보루"
 rusd.125.d:0 "Maintenance of the democratic regime combined with the stable development of the state led to the emigration of some celebrities from syndicalist countries to Russia. This led, for example, to the arrival in Russia of the good friend of Dmitri Pavlovich, Coco Chanel. That mademoiselle Chanel has chosen to open her office in a village near Tula shows that Russia is a Bastion of Democracy, where everyone can run his or her business without difficulties from the government."
 rusd.125.a:0 "Glamour in his democracy!"
 
-rusd.126.t:0 "Churchill Iron Curtain speech"
-rusd.126.d:0 "The Tsar Alexander University in Petrograd had the honour of hosting the important British statesman Winston Churchill. In his speech to the attending students he praised the great sacrifices the Russian nation has made in order to liberate the continent from the draconian rule of Germany and to keep it safe from the clutches of Syndicalism. He warned Russia to always remain vigilant against the Syndicalist menace, which divides the entire continent behind a so-called Iron Curtain."
+rusd.126.t:0 "처칠의 철의 장막 연설"
+rusd.126.d:0 "페트로그라드에 있는 차르 알렉산다르 대학은 주요 영국 정치인인 윈스턴 처칠에게 행사의 사회를 맏기는 영예를 얻었습니다. 그는 참석한 학생들에게 한 연설에서, 이 대륙을 독일의 엄격한 통치로부터 해방시키고 생디칼리즘의 손아귀로부터 안전하게 지키기 위해 러시아가 한 엄청난 희생을 치하했습니다. 그는 러시아에 소위 철의 장막 뒤에 있는 대륙 전체를 나누는 생디칼리즘 위협에 항상 경계하라고 경고했습니다."
 rusd.126.a:0 "We are always vigilant!"
 rusd.126.b:0 "Denounce his speech!"
 
@@ -452,12 +452,12 @@ rusd.128.b:0 "이건 받아들일 수 없다"
 RUS_WOMAN_DIVISION_tt:0 "우린 첫번째 죽음의 여성사단을 만들 것입니다!"
 
 rusd.129.t:0 "알렉산드르 콜차크의 사망"
-rusd.129.d:0 "The former Hero of the Russian Civil War turned lapdog of Japan, Aleksandr Kolchak, has died in his sleep. Already nationalists are gathering to celebrate demise of Russia's most hated man of the 20th century."
+rusd.129.d:0 "러시아 내전의 영웅에서 일본의 애완견이 된 알렉산드르 콜차크는 잠결에 죽었습니다. 이미 국수주의자들은 20세기 러시아에서 가장 미움받는 사람의 죽음을 축하하기 위해 여기저기에 모이고 있습니다."
 rusd.129.a:0 "지옥에서 불타기를!"
 
-rusd.130.t:0 "The Tsar is unhappy about food prices"
-rusd.130.d:0 "The Tsar recently visited one of the local stores in our capital and he was outraged by the high prices of meat and other necessary products."
-rusd.130.a:0 "Three hoorays for our caring Tsar!"
+rusd.130.t:0 "차르가 식품 물가에 대해 화내다"
+rusd.130.d:0 "차르는 최근 우리 수도지역의 한 상점을 방문했고, 여기서 차르는 고기와 다른 생필품품의 높은 가격에 대해 격노했습니다."
+rusd.130.a:0 "우리의 자상한 차르에게 만세 삼창을!"
 
 rusd.131.t:0 "A plot against Russia"
 rusd.131.d:0 "The death of Maria Spiridonova prevented riots by the left SRs, but the situation in the country is still troublesome. Though some of the socialist ideas are implemented in the ideology of Savinkov's party, the radical syndicalists, who have majority in some Russian regions reject the ideals of the national state. Fortunately for Savinkov, the new government has many loyalists in others circles of Russian society. Old friends of Savinkov, the famous philosopher Dmitry Merezhkovsky and his wife Zinaida Gippius have published an appeal to the new leaders of the country. They claim that Russia must be purified from internal enemies, who want to spread chaos and betray the national interests. Their position gives us significant support among the citizens of Moscow and Petrograd."
@@ -468,8 +468,8 @@ rusd.132.d:0 "'The Crimea. New Russia. Little Russia. White Russia. Our lands. O
 rusd.132.a:0 "하나의 국가, 하나의 국민, 하나의 러시아."
 
 rusd.133.t:0 "우리의 러시아"
-rusd.133.d:0 "'You, sons of the steppes. And you, nomads in the deserts. And many of you, who live all over the Russian land. Many of you betrayed us, when Russia needed your help. Many of you didn't give a helping hand to your compatriots, when they struggled against the red menace. We cannot forget it. But we can forgive you. New Russia needs your help in the restoration of its might. Help your country to make it great once again. Glory to Russia and glory to its heroes. It is your country too' - The new national policy of Russia is based on the idea of the supremacy of the Russian people, but the idea of the friendship among the nations is popular as well. Savinkov has combined these two ideas to secure the interests of the Russians and the minorities, who should be loyal, but are also granted all the rights of citizenship. This recreation of the old Tsarist national policy can finally bring order and peace to the peoples of Russia."
-rusd.133.a:0 "러시아인과 충성스러운 소수 민족들을 위한 러시아를!"
+rusd.133.d:0 "'대초원의 아들인 여러분. 그리고 사막의 유목민인 여러분. 그리고 각계각층의 여러분들은 러시아 전역에 걸쳐 살고 있습니다. 러시아가 당신의 도움을 필요로 했을 때, 많은 이들이 우리를 배신했습니다. 여러분 중 많은 이들이 붉은 위협에 맞서 싸우는 동료들에게 도움의 손길을 내밀지 않았습니다. 우리는 그것을 잊을 수 없습니다. 하지만 우리는 당신들을 용서할 수 있습니다. 새로운 러시아는 원래의 힘을 회복하는데 당신의 도움을 필요로 합니다. 당신들의 조국이 다시 한번 멋지게 원래의 힘을 회복하도록 도와주시오. 러시아와 그 영웅들에게 영광이 있으라.' -러시아의 새로운 정책은 러시아 국민의 우월성에 바탕을 두고 있긴 하지만, 그 국민간의 우정에 대한 생각 또한 인기가 있습니다. 사빈코프는 이 두 가지 생각을 합쳐 러시아인과 소수 민족의 권익을 확보했는데, 이들은 국가에 충성해야 하지만 그에 걸맞는 시민권도 부여받습니다. 이러한 옛 차르 중심의 국가 정책의 재창조는 마침내 러시아 국민에게 질서와 평화를 가져다 줄 수 있을 것입니다."
+rusd.133.a:0 "러시아인과 충성스러운 소수민족들을 위한 러시아를!"
 
 rusd.134.t:0 "VDNKh"
 rusd.134.d:0 "Exhibition of Achievements of the National Economy ('Vystavka Dostizheniy Narodnogo Khozyaystva' or VDNKh) is one of the most ambitious projects of the new government. Forgotten and unremarkable waste land in the North-East suburbs of Moscow was turned into ideal model of the future of Russia. Facades of the pavilions of the Russian regions showed the strategic meeting of architectural traditions with the arts and crafts of each part of the country together with motives of important collective labour. More over this exhibition is used by the government to help the farmers to establish contacts between them and the new regime and also to conclude long-term contracts with the Republic."
@@ -500,7 +500,7 @@ rusd.140.t:0 "Nashe Delo"
 rusd.140.d:0 "'It is a hard time for Russia and for us, Senators, but I have to admit that with the murder of Kerensky the history finally gave us a real chance to restore order in the country. But what we have to do is to be united against this radical Duma, filled with the national-populist and syndicalist fanatics. That's why I ask you to approve my plan of the Russian modernisation. The power of the Senate should be used as the iron fist in a velvet glove' - with these words the former Grand Duke Dmitri Pavlovich and now the Head of the Senate Dmitri Romanov demanded an approval of his plan, which is called 'Nashe Delo' ('Our Deal'). According to this program, the powers of the State Duma should be limited, while the Senate will launch the reorganisation of the Russian internal policy and economy. But Dmitri Pavlovich demands that the Senate should give him an absolute support of every his draft laws."
 rusd.140.a:0 "Let it be"
 
-rusd.141.t:0 "엘리트 김나지움"
+rusd.141.t:0 "엘리트 기숙학교"
 rusd.141.d:0 "Each city in the Russian Empire used to have a gymnasium, where the smartest children and the children of the local elite studied. With the republican reforms of Kerensky most of these schools were cancelled and all these students had to study together with the sons and daughters of the workers and peasants. The Senators claim that such elite gymnasiums should be restored to be sure that the best representatives of the next Russian generation will have perfect conditions for study. Otherwise we can support the public schools, though it is clear that they will never reach the level of the old gymnasiums…"
 rusd.141.a:0 "Elite gymnasiums for the smartest children!"
 rusd.141.b:0 "Public schools for everyone!"
@@ -509,7 +509,7 @@ rusd.142.t:0 "Tradition of the Masquerade balls"
 rusd.142.d:0 "Masquerade balls were widespread among the Russian nobles and students before the revolution in 1917. With the opening of the new gymnasiums the old tradition was reborn and became very popular and attractive for the students all over the Russian cities and towns, where the Gymnasiums were founded. What is really surprisingly that even some students from the public school try to take part in these balls, using the masks. Let's hope that this nice tradition won't disappear in the future."
 rusd.142.a:0 "This youth is beautiful as Russia itself."
 
-rusd.143.t:0 "Mansions of the Aristocrats"
+rusd.143.t:0 "귀족의 연금"
 rusd.143.d:0 "The richest people of Russia, who are partially represented in the Senate could take back some of their mansions after the awful land redistribution in the Civil war, but they suffered a lot from the high land taxes of the Kerensky's regime. Though these taxes are really profitable for our economy, but the loyalty of the Senators are highly important for the realisation of the Dmitri Pavlovich's policy. There is a possible solution of this problem - the mansions of some senators can be secured by the Republic as the historical heritage - it means that the Senators will pay the taxes, but the government will partially invest into the maintenance of these buildings."
 rusd.143.a:0 "Let's hope nobody will notice this reform"
 rusd.143.b:0 "The senators have enough money, they don't need state investments!"
@@ -519,7 +519,7 @@ rusd.144.d:0 "'Union of the perpetuation of the legacy of the Nicholas II' or ju
 rusd.144.a:0 "We will remember Nicholas for all his good deeds for Russia."
 rusd.144.b:0 "Many people are still republicans - we won't support the Union."
 
-rusd.145.t:0 "Day of Triumph"
+rusd.145.t:0 "승리의 날"
 rusd.145.d:0 "The Senate, which represents the richest Russian industrialists, the old aristocracy and the Russian Church together with the Grand Duke Dmitri Pavlovich Romanov, who is the Head of the Senate could finally stop the lasting crisis, which weakened Russia. The Grand Duke, who controls the country with an iron fist in a velvet glove, but also doesn't forget to analyse various propositions of the Senate became the real leader of the Russians and got many new allies even in the State Duma. That's why the Senate unanimously decided to give Dmitri Romanov the broad powers, which even the last tsar Nicholas II and president Kerensky didn't have. Nothing can stop the Duke from the modernisation of Russia, which will allow the republic to take its place under the Sun!"
 rusd.145.a:0 "Long live Dmitri Pavlovich!"
 
@@ -531,7 +531,7 @@ rusd.147.t:0 "Honorary Residents"
 rusd.147.d:0 "Though the government of Dmitri Romanov maintained the republic, but we somehow have to encourage the most important citizens of Russia, including the former aristocrats with the additional rights, strengthening their loyalty and willingness to cooperate with us. That's why President Romanov decides to restore the tradition of the giving the “honorary resident” titles, which will give some privileges to these people in various regions and cities of Russia."
 rusd.147.a:0 "That's a good proposition."
 
-rusd.148.t:0 "New Aristocracy"
+rusd.148.t:0 "신 귀족정"
 rusd.148.d:0 "Though the noblemen in the Senate could defeat this terrible republic and restore the Empire, but they had to admit that the support of the new capitalists and industrialists played the significant role in this restoration. That's why it is the perfect time to show them our gratitude - the most powerful representatives of these classes, who helped us to strengthen the power of the Senate will get a title of nobility, which their descendants will be able to get as well."
 rusd.148.a:0 "It's good to be a part of the elite!"
 
@@ -539,7 +539,7 @@ rusd.149.t:0 "Martha and Mary Convent of Mercy"
 rusd.149.d:0 "In 1908 Grand Duchess Elizaveta Fyodorovna after the murder of her husband gave away her magnificent collection of jewels, including her wedding ring, and sold other possessions to found a Martha and Mary Convent of Mercy in Moscow, which started to assist sick, wounded, and maimed soldiers in their recovery, and to provide for the needs of the poor and orphans. This saint woman, who was killed in 1918 by the Bolsheviks, was de-facto a stepmother of her nephew Dmitri Pavlovich, who decided to perpetuate her good deeds by making a great contribution into the Convent."
 rusd.149.a:0 "It's all for you, Aunt Elizabeth..."
 
-rusd.150.t:0 "'Triumph'"
+rusd.150.t:0 "'승리'"
 rusd.150.d:0 "Ryabushinsky's Plant (also known as ZIR) is one of the major Russian automobile manufacturer, which also produced luxury vehicles in very low quantities, primarily for the officials and the other wealthy citizens of Russia. Though the Black Monday seriously hurt the factory, the growing power of the aristocracy and businessmen made the market of the luxury vehicles once again very profitable for ZIR. That's why the name 'Triumph' was suggested for the new limousine ZIR-101, which the plant started to produce at the beginning of 1937."
 rusd.150.a:0 "Vroom-vroom!"
 
@@ -547,7 +547,7 @@ rusd.151.t:0 "고요해진 상원"
 rusd.151.d:0 "The Senate, which represents the richest Russian industrialists, the old aristocracy and the Russian Church together with the Grand Duke Dmitri Pavlovich Romanov, who is the Head of the Senate could finally stop the lasting crisis, which weakened Russia. Though the problem is that Dmitri Pavlovich doesn't always pay attention to the advice of the Senate and it often leads to the misunderstanding between the Grand Duke and this important state authority. But there are still good chances that they will find a proper way to negotiate and to recover Russia."
 rusd.151.a:0 "바라던 바다."
 
-rusd.152.t:0 "Dmitri Pavlovich's New Power"
+rusd.152.t:0 "드미트리 파블로비치의 새로운 권력"
 rusd.152.d:0 "Dmitri Romanov took power by happy coincidence and isn't going to lose his position. Since he can't control both Duma and Senate, the Grand Duke is in great need of a completely obedient political power. That's why a new party, called 'Indivisible Russia' was created by Felix Yusupov, who has been Dmitri's friend since childhood. This new party is ready to maintain interests of Russia and its Acting President."
 rusd.152.a:0 "This Duma is nothing but a formality!"
 
@@ -555,7 +555,7 @@ rusd.153.t:0 "드미트리 로마노프가 권력을 장악하다"
 rusd.153.d:0 "After the death of Kerensky the Winter Palace in Petrograd wasn't vacant for long. Grand Duke Dmitri Pavlovich Romanov with the help of the old aristocracy and the new financial elite controls the biggest country in the world, as his royal ancestors did before the revolution. Playing the role of the 'good tsar' for the peasantry, Dmitri Pavlovich guarantees that the new elite will save the property and money of the farmers. As in 1916 when he killed Rasputin, the Grand Duke is ready to act decisively in the name of Russian interests. His appeal to restore Russian glory and might is widely supported by the various layers of the nation. The people await his first actions."
 rusd.153.a:0 "This Romanov can really charm!"
 
-rusd.154.t:0 "The Summer Camps of 'Yunarmiya'"
+rusd.154.t:0 "'유나르미야' 여름 캠프"
 rusd.154.d:0 "One of the most important aims of the 'Yunarmiya' is the formation of the summer camps for the children, where they will be able to spend summer and be involved in the various activities, studying the new ideology of Russia. Our Vozhd proposes that the first camp, called 'Sovyonok' ('Owlet') should be build in the Yekaterinodar region, on the Black Sea coast. It seems to be a perfect place for the Russian children, where they will have fun for three months."
 rusd.154.a:0 "They will remember this summer as a long one, maybe even as an everlasting."
 rusd.154.b:0 "No, we don't need it."
