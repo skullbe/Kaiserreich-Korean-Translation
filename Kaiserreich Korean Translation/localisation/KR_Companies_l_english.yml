@@ -559,7 +559,7 @@ magyar_lloyd:0 "Magyar Lloyd"
 ungarische_flugzeugfabrik:0 "Ungarische Flugzeugfabrik A.G."
 danubian_aircraft_company:0 "Danubian Aircraft Company"
 
-### Iran ###
+### Persia ###
 krupp_PER:0 "크루프 이란"
 aeg_PER:0 "AEG Irān"
 solvay_PER:0 "Solvay Irān"
@@ -576,6 +576,9 @@ volvo_PER:0 "볼보"
 general_motors_iran:0 "제네럴모터스 이란"
 svenska_aeroplan_PER:0 "Svenska Aeroplan Irān"
 wilton_fijenoord_PER:0 "Wilton-Fijenoord"
+shabaz_aircraft_manufacturer:0 "Shabaz Aircraft Manufacturer"
+imperial_arms_company:0 "황립 무기 회사"
+imperial_artillery_company:0 "황립 포병 회사"
 
 ### Ireland ###
 goulding_chemicals:0 "Goulding Chemicals"
