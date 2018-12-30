@@ -1,12 +1,12 @@
 l_english:
 
 ### Parties ###
-CRO_totalist_party:0 "사회주의 노동당(p)"
-CRO_totalist_party_long:0 "사회주의 노동당 (prèdvodnīci)"
-CRO_syndicalist_party:0 "사회주의 노동당(r)"
-CRO_syndicalist_party_long:0 "사회주의 노동당 (revolucionarni)"
-CRO_radical_socialist_party:0 "사회주의 노동당(c)"
-CRO_radical_socialist_party_long:0 "사회주의 노동당 (centrumaši)"
+CRO_totalist_party:0 "사회주의 노동당"
+CRO_totalist_party_long:0 "사회주의 노동당"
+CRO_syndicalist_party:0 "사회주의 노동당"
+CRO_syndicalist_party_long:0 "사회주의 노동당"
+CRO_radical_socialist_party:0 "사회주의 노동당"
+CRO_radical_socialist_party_long:0 "사회주의 노동당"
 CRO_social_democrat_party:0 "크로아티아 사회민주당"
 CRO_social_democrat_party_long:0 "크로아티아 사회민주당"
 CRO_social_liberal_party:0 "크로아티아 민중농민당"
@@ -26,8 +26,11 @@ CRO_national_populist_party_long:0 "크로아티아 혁명운동"
 ILL_croatian_command:0 "크로아티아인 공무원"
 ILL_croatian_command_desc:0 "크로아티아인들은 일리리아를 오스트리아로부터 자유롭게 하기 위해 싸웠고, 다른 일리리안인들이 도시에 숨어 아무것도 하지 않았습니다. 이러한 이유로 우리는 다른 국민들을 빼놓고 모든 공직을 크로아티아인들만 오를 수 있도록 제한해야 합니다."
 
-ILL_federated_army:0 "통합 일리리아 장교단"
+ILL_federated_army:0 "통합된 일리리아 장교단"
 ILL_federated_army_desc:0 "우리는 모든 역경에도 불구하고 신생국을 파괴하려는 이들을 이겨 냈지만, 여전히 할 일이 많이 남아 있습니다. 일리리아의 모든 군 장교들을 하나의 통합 일리리아 장교단으로 모아야 합니다."
+
+CRO_SLOintegration:0 "슬로베니아 병합"
+CRO_SLOintegration_desc:0 "While we share much with our Slovenian brothers, the cost of integrating the region's administration and anger from within certain segments of the Slovenian population which minimize Slovene ties to our people have become a substantial burden."
 
 ### Events ###
 illyria.1.t:0 "일리리아 왕국"
