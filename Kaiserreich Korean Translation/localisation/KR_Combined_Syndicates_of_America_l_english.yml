@@ -516,12 +516,12 @@ csa.1.d:0 "Today delegates have gathered from across the country in the city of 
 csa.1.a:0 "Loyalists the old order are not invited!"
 
 csa.2.t:0 "사회주의 헌법 - 정부 체계"
-csa.2.d:0 "The AFL has made a splash in what many had expected to be a landslide victory for the IWW. What was supposed to be an easy article, that of the new Legislative Branch, has drawn a line in the sand. IWW representatives argue that America should be a syndicalist government with all power vested in the trade unions. These unions would abolish membership fees, and elect representatives via wall-to-wall bargaining unit elections. The AFL argues that America should be a socialist state with power vested in local Councils of Professional Workers. Legislation representatives would be elected via seniority, with full voting rights given to only citizenry that have spent some years paying dues and serving their fellow man."
+csa.2.d:0 "미국 노동 총연맹(AFL)의 등장은 새로운 입법 기구에서 세계 산업 노동자 동맹 (IWW)의 압도적이고 손쉬운 승리에 대한 예상을 뒤엎게 만들었습니다. IWW 대표자들은 모든 권력이 노동조합에 의해 소유된 생디칼리즘 정부가 되어야 한다고 주장했습니다. 또한 노동조합의 회비를 폐지하고 집단 간 타협적인 선거를 통해 대표를 선출해야 한다고 주장합니다. 반대로 AFL은 미국은 사회주의 국가가 되어야 하고, 권력은 지역 전문 노동자 의회가 가져야 하며 입법부 대표들은 선임권에 의해 뽑혀야 한다고 주장합니다. 완전한 투표권은 오직 조합비를 지출하고 몇 년 동안 헌신한 사람에게 줘야 한다고 하면서요.“
 csa.2.a:0 "인민들은 노조위원회를 통해 국가 권력을 행사한다."
 csa.2.b:0 "인민들은 전문 노동자를 통해 권력을 행사한다."
-CSA_totalists_gain_power:0 "§YTotalists§! gain an edge at the convention."
-CSA_syndicalists_gain_power:0 "§YSyndicalists§! gain an edge at the convention."
-CSA_radsocs_gain_power:0 "§YRadical Socialists§! gain an edge at the convention."
+CSA_totalists_gain_power:0 "이 회의에서 §YTotalists§!가 힘을 가지다."
+CSA_syndicalists_gain_power:0 "이 회의에서 §YSyndicalists§!가 힘을 가지다."
+CSA_radsocs_gain_power:0 "이 회의에서 §YRadical Socialists§!가 힘을 가지다."
 
 csa.3.t:0 "사회주의 헌법 - 체제"
 csa.3.d.socialist:0 "제 1조. 미국의 모든 권력은 국민으로부터 파생되며 또한 국민의 것이다. 국민들은 미국의 정치적 토대를 이루고 있는 전문 노동자 의회를 통해 국가 권력을 행사한다. 다른 모든 국가 기관은 전문 노동자 의회의 통제 하에 있으며 이에 대한 책임을 가진다.\n\n제 2조. 국가 권력의 모든 대표 기관들은 비밀 투표에 의한 보편적이고 평등하며 직접적인 참정권에 근거하여 시민들에 의해 선출된다. 모든 정부 기관의 대표들은 그들을 선출한 유권자들에게 책임이 있다. 이는 그 임기가 끝나기 전이라 할지라도 어떤 상황, 어떤 방식으로 유권자가 대표자를 파면할 수 있는가에 대한 법률에 의해 결정된다.\n\n제 3조. 그 어떠한 법률이나 행정명령 또는 지방법령과 규정도 본 헌법을 위배하여서는 아니 된다. 모든 국가 기관, 군대, 모든 정당, 공공기관 및 모든 기업과 사업체는 헌법과 법률을 준수해야만 한다. 헌법과 법률에 위배되는 모든 행위는 조사되어야 한다. 그 어떠한 조직이나 개인도 헌법과 법을 초월하는 특권을 누릴 수 없다."
@@ -529,7 +529,7 @@ csa.3.d.syndicalist:0 "Article 1. All power in America derives from the people a
 csa.3.a:0 "승인되었다"
 
 csa.4.t:0 "사회주의 헌법 - 인간의 권리와 노동자의 권리"
-csa.4.d:0 "Article 6. Citizens are guaranteed the freedom of the press, freedom of speech, freedom of association, freedom of assembly, the freedom to hold public meetings and demonstrations. Freedom of conscience and freedom of religion are guaranteed to citizens. Citizenship is defined as all Americans living legally within America during the time of ratification of the Constitution. The Church and the State are not obligated to adhere to each others' authority.\n\nArticle 7. Women have equal rights with men in all fields of state, economic and social-political life. Women have the right to collectively bargain as men do for the same work, and as workers or employees they enjoy special protection. The state reserves the right to pay an equivalent wage up to 20 hours of work a week to mothers before and after childbirth.\n\nArticle 8. Citizens of America are guaranteed inviolability of the person. No one may be arrested except by a court decision or on the warrant of a procurator. Citizens of America are guaranteed inviolability of the home. No one may, without lawful grounds, enter a home against the will of those residing in it.\n\nArticle 9. The state promises working people the right to associate and organize themselves to collectively bargaining units. The state protects persons' dignity of labor from exploitation by private enterprises, ensuring the right to paid annual holidays, by controlling working conditions, by devoting attention to housing conditions and social insurance."
+csa.4.d:0 “제 6조 인민들은 언론의 자유, 발언의 자유, 결사의 자유, 집회의 자유, 대중 집회를 개최하고 시위를 할 자유를 보장받습니다.. 양심의 자유와 종교의 자유 역시 보장 받습니다. 교회는 국가로부터 분리될 것입니다. 제 7조 여성은 국가, 경제 및 사회 정치 생활의 모든 분야에서 남성과 동등한 권리를 가진다. 여성은 남성이 동일한 일을 할 때와 동일한 임금을 받을 권리가 있으며, 노동자로써 특별한 몇 가지 보호를 받을 수 있습니다. 정부는 산전후 산모들에게 일주일에 20시간의 노동시간까지 동등한 임금을 지불해야 합니다. 제 8조 미국의 인민들은 개인의 불가침성을 보장 받습니다. 어떤 사람도 법원의 결정이나 법적 대리인(procurator)의 영장 없이 체포 될 수 없습니다. 또한 어떤 사람도 합법적 근거 없이 거주자의 의지에 반하여 거주지에 들어갈 수는 없습니다. 제 9조 경제적 혹은 기타의 방법으로, 국가는 경제적 착취로부터 노동자 인민들을 지키기 위하여 스스로 조합을 결성하고 조직하도록 도와주어야 합니다. 국가는 노동자들을 특히 노동자들이 노동조합을 만들 권리를 보증함으로써, 노동 시간 제한함으로써, 유급 휴가를 보장할 권리를 보장함으로써, 노동 조건을 통제함으로써, 주거 조건과 사회 보험에 대해 헌신함으로써 보호해야 합니다.“
 csa.4.a:0 "승인되었다"
 
 csa.5.t:0 "사회주의 헌법 - 사법"
