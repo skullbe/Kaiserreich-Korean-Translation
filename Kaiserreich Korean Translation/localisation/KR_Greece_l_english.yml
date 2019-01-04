@@ -140,11 +140,11 @@ GRE_same_wars_as_entente:0 "Any enemy is also at war with the Entente"
 GRE_same_wars_as_germany:0 "Any enemy is also at war with Germany"
 GRE_controls_claimed_states:0 "All non-island claimed states in §Y[From.GetNameDef]§! are controlled by [Root.GetNameDef] or an ally"
 GRE_socialists_banned_elections:0 "All syndicalist and socialist parties will be banned from taking part in elections\n"
-GRE_is_kingdom:0 "[GRE.GetNameDef] is a monarchy"
+GRE_is_kingdom:0 "[GRE.GetNameDefCap] is a monarchy"
 GRE_neighbor_part_of_intl:0 "Any neighbour is in the Internationale"
 GRE_turks_part_of_faction:0 "The Turks are in a faction and still own claimed land of ours"
-GRE_bul_part_of_faction:0 "[BUL.GetNameDef] is in a faction and still owns claimed land of ours"
-GRE_germany_not_still_upset:0 "[GER.GetNameDef] does not have the §YNationalized our Investments§! opinion towards us"
+GRE_bul_part_of_faction:0 "[BUL.GetNameDefCap] is in a faction and still owns claimed land of ours"
+GRE_germany_not_still_upset:0 "[GER.GetNameDefCap] does not have the §YNationalized our Investments§! opinion towards us"
 
 ### Focuses ###
 GRE_black_monday_focus:0 "검은 월요일"
@@ -477,7 +477,7 @@ GRE_balkans_mission_desc:0 "Our relations with [From.GetNameDef] are decent enou
 
 ### Events
 gre.1.t:0 "헬레닉 제4공화국"
-gre.1.d:0 "세계 대전에서 그리스가 패배한 이래로 대변동과 고난이 닥쳐왔습니다. 크레타와 마케도니아를 테살로니카 조약으로 상실함과 동시에 독일과 오스트리아로 인한 엄청난 전쟁 채무에 의해서 알렉산도로스 왕은 망명을 떠나야했고, 그 뒤에 제 3공화국이 수립되었습니다. 하지만 정부의 실패로 인하여 1925년 요르요스 콘딜리스의 쿠데타가 일어났고, 그는 왕이 망명 상태임에도 불구하고 스스로 영구적인 그리스 왕국의 섭정으로 선언했습니다. 콘딜리스는 1931년에 최종적으로 권좌에서 쫓겨나 처형당했습니다. 그리고 제 4공화국이 수립되었고, 요르요스 파판드레우가 이끄는 연정이 일단 첫 번째 선거에서 승리하여 정권을 잡은 상태입니다."
+gre.1.d:0 "세계 대전에서 그리스가 패배한 이래로 대변동과 고난이 닥쳐왔습니다. 마케도니아를 테살로니카 조약으로 상실함과 동시에 독일과 오스트리아로 인한 엄청난 전쟁 채무에 의해서 알렉산도로스 왕은 망명을 떠나야했고, 그 뒤에 제 3공화국이 수립되었습니다. 하지만 정부의 실패로 인하여 1925년 요르요스 콘딜리스의 쿠데타가 일어났고, 그는 왕이 망명 상태임에도 불구하고 스스로 영구적인 그리스 왕국의 섭정으로 선언했습니다. 콘딜리스는 1931년에 최종적으로 권좌에서 쫓겨나 처형당했습니다. 그리고 제 4공화국이 수립되었고, 요르요스 파판드레우가 이끄는 연정이 일단 첫 번째 선거에서 승리하여 정권을 잡은 상태입니다."
 gre.1.a:0 "빌어먹을!"
 gre.2.t:0 "앞으로 직면할 과제들"
 gre.2.d:0 "1938년에 총선을 하게 될 새로운 공화국은 몇 가지 도전에 직면했습니다. 가장 당면한 문제는 그리스의 잃어버린 영토에 대한 회복입니다. 그리고 대부분의 사람들은 생디칼리즘 반란 세력이나 요안니스 메탁사스 같은 세력이 지금 정부가 실수를 하기를 기다리고 있으며, 그때 대규모 전쟁이 벌어질 것이라고 우려하고 있습니다. 군주제 지지자들 역시 늘어나고 있습니다. 이들은 국민 투표를 통해 왕정의 부활을 요구하고 있습니다. 공화주의자들은 이런 요구가 국가를 무정부 상태로 다시 밀어 넣을 것이라고 생각하고 있습니다."
