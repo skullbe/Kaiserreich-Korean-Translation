@@ -559,16 +559,15 @@ csa.9.c:0 "필라델피아"
 csa.9.e:0 "뉴욕"
 
 csa.10.t:0 "제헌회의가 막을 내렸습니다"
-csa.10.d:0 "The Constitutional Convention has finally come to an end and the new Constitution of America has been written. The Delegates are returning to their home states, with a new set of allies and rivals. Despite the optimism expressed in the congratulatory photos, the real work of rebuilding the country has just begun."
-csa.10.a:0 "아메리카의 노동자들 만세!"
+csa.10.d:0 "제헌회의가 마침내 끝났고 새로운 미국 헌법이 작성되었다. 대표단은 새롭게 형성된 정치적 동맹이나 라이벌들을 인식하고 다시 자신의 주로 돌아갈 것입니다. 축하 사진에서 나타난 낙관론에도 불구하고, 진정한 국가 재건은 이제 막 시작되었습니다."       
 
 csa.11.t:0 "대통령 대행"
-csa.11.d.commonwealth:0 "On the final day of the Congress, John Silas Reed - better known as Jack Reed - announced that he would step down as leader of the country. Rumors of his deteriorating health were kept away from the press, a gentleman's agreement of sorts. Jack Reed proclaims he will spend his remaining time with his wife, Louise, and his daughter. More-over, Reed emphasized his role was to see the country through to the revolution, but a new leader needs to lead it now. Of the attendees at the Congress, two have gained the most prominence. One is Elizabeth Gurley Flynn of the IWW, who has begun a national campaign to excite voters for a possible female president - namely herself. The other is Norman Thomas who has led SPA delegates to work with Social Democrats to pledge votes to him. There is an understanding that even though this position of leadership is interim until the election, it still will allow either president to exert a great deal of influence over the country's groundwork."
-csa.11.d.usas:0 "On the final day of the Congress, John Silas Reed - better known as Jack Reed - announced that he would step down as leader of the country. Rumors of his deteriorating health were kept away from the press, a gentleman's agreement of sorts. Jack Reed proclaims he will spend his remaining time with his wife, Louise, and his daughter. More-over, Reed emphasized his role was to see the country through to the revolution, but a new leader needs to lead it now. Of the attendees at the Congress, two have gained the most prominence. One is Earl Browder, currently Secretary of Communications, who has taken his allies for State Planned Economy and has begun advertising his own campaign on state media. The other is William Z. Foster, a major force in the Constitutional Convention for getting the AFL to advocate centralism, who has called in his connections for his campaign. There is an understanding that even though this position of leadership is interim until the election, it still will allow either president to exert a great deal of influence over the country's groundwork."
-csa.11.a:0 "Elizabeth Gurley Flynn will take the position"
-csa.11.b:0 "Norman Thomas gets enough votes to win"
-csa.11.c:0 "Earl Browder will take the position"
-csa.11.e:0 "William Z. Foster gets enough votes to win"
+csa.11.d.commonwealth:0 "회의 마지막 날에, 통칭 잭 리드로 알려진 존 실라 리드가 지도자에서 사임하기로 선언했습니다. 그의 악화된 건강은 언론들의 신사협정으로 발표되었지 않았죠. 잭 리드는 남은 시간을 그의 아내인 루이즈와 딸과 보내고 싶다고 사임하며 말했죠. 게다가 리드는 자신의 역할은 혁명을 수행 하는 것이고, 그 성과를 이끄는 것은 새로운 지도자들이 할 것이라고 강조하기도 했습니다. 회의에 참석한 사람들 중에서 두 사람이 유력한 후보로 떠올랐습니다. 한 명은 IWW의 엘리자베스 걸린 플린으로 전에 전국적인 캠페인을 벌이면서 여성 대통령의 가능성을 유권자에게 보여줬습니다. 다른 한명은 노먼 토마스로서 사회당 대표인 시절에 사회민주주의자들과 함께 일하면서 그들의 표를 가져오기도 했습니다. 비록 리드의 직위를 이어 받는 것이 선거 이전까지의 임시직이긴 하지만, 대통령들처럼 국가 재건에 큰 영향력을 줄 것임은 명백한 사실입니다."
+csa.11.d.usas:0 "평의회 마지막 날에, 통칭 잭 리드로 알려진 존 실라 리드가 지도자에서 사임하기로 선언했습니다. 그의 악화된 건강은 언론들의 신사협정으로 발표되었지 않았죠. 잭 리드는 남은 시간을 그의 아내인 루이즈와 딸과 보내고 싶다고 사임하며 말했죠. 게다가 리드는 자신의 역할은 혁명을 수행 하는 것이고, 그 성과를 이끄는 것은 새로운 지도자들이 할 것이라고 강조하기도 했습니다. 회의에 참석한 사람들 중에서 두 사람이 유력한 후보로 떠올랐습니다. 한 명은 통신 장관인 얼 브라우더로 계획 경제의 지지자이자 지금 국영 언론 매체를 통해서 전파를 하고 있고, 다른 한 명은 월리엄 Z 포스터로 재헌 회의에서 AFL를 상대로 중앙 집권주의를 홍보했습니다. 비록 리드의 직위를 이어 받는 것이 선거 이전까지의 임시직이긴 하지만, 대통령들처럼 국가 재건에 큰 영향력을 줄 것임은 명백한 사실입니다."
+csa.11.a:0 "엘리자베스 걸린 플린이 그 직위를 가져가다."
+csa.11.b:0 "노먼 토마스가 이기기 충분한 표를 얻다."
+csa.11.c:0 "얼 브라우더가 그 직위를 가져 갈 것이다."
+csa.11.e:0 "월리엄 Z 포스터가 이기기 충분한 표를 얻다n"
 
 ### Reconstruction Events ###
 
