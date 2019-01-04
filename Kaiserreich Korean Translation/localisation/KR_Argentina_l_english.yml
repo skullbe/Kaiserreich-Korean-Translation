@@ -52,7 +52,7 @@ ACW_CSA_actually_rose_up:0 "잭 리드가 연방에서 탈퇴했다"
 ACW_AUS_actually_rose_up:0 "휴이 롱이 연방에서 탈퇴했다"
 PER_ARG:0 "리마 조약이 발효되었다"
 RIO_NEGRO:0 "§Y우리는 리오 네그로를 가로지르는 탐색적인 공격을 시작할 것입니다 \n§!"
-arg_immiblack:0 "§YFive Year Plan§! has been enacted"
+arg_immiblack:0 "§Y5개년 계획§!이 제정되었다"
 
 ### Research Group ###
 argentina_research:0 "아르헨티나-페루 연구 조약"
