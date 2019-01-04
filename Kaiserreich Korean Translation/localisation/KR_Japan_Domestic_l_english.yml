@@ -330,11 +330,11 @@ JAP_MIL_VERY_BIG_SHIPS_desc:0 "What sailors of old have often called sea monster
 JAP_MIL_SMALL_SHIPS:0 "호위함"
 JAP_MIL_SMALL_SHIPS_desc:0 "빌빌거리는 구축함이 보호할 바에야 주력함은 없는 편이 낫습니다. 호위 함선의 보호가 없다면, 강력하든 아니든간에 우리의 주력함은 반드시 수장될 것입니다."
 JAP_MIL_SUBMARINES:0 "잠수함"
-JAP_MIL_SUBMARINES_desc:0 "Hidden, like the ancient ninja, submarines can deliver deadly blows not only to enemy military vessels, but also to their shipping lanes. How to implement them is vocally discussed in the Imperial Navy Headquarters, but all agree that they will serve an important role in any upcoming conflicts."
+JAP_MIL_SUBMARINES_desc:0 "Hidden, like the shinobi of old, submarines can deliver deadly blows not only to enemy military vessels, but also to their shipping lanes. How to implement them is vocally discussed in the Imperial Navy Headquarters, but all agree that they will serve an important role in any upcoming conflicts."
 JAP_MIL_NAVBOM_FOCUS:0 "해군 폭격기"
 JAP_MIL_NAVBOM_FOCUS_desc:0 "Some of the staff of the IJNAS claim that the upcoming battles of the sea will not be won on the waves, but in the clouds. We should listen to them, ships are much more expensive than planes after all."
 JAP_MIL_CARRIER:0 "항공모함 중점"
-JAP_MIL_CARRIER_desc:0 "With highly modern naval bombers at our disposal we need to supply them with mobile airbases, in the form or aircraft carriers."
+JAP_MIL_CARRIER_desc:0 "With highly modern naval bombers at our disposal we need to supply them with mobile airbases, in the form of aircraft carriers."
 JAP_MIL_NAV_DOC:0 "해군 교리"
 JAP_MIL_NAV_DOC_desc:0 "No fleet, no matter how large or modern, is more efficient than its tactics allow it to be. Our glorious victory at Tsushima stands testament to this."
 
