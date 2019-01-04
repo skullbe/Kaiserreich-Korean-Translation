@@ -929,7 +929,7 @@ ire.216.a:0 "물론이지!"
 ire.216.b:0 "그딴 놈들 받아서 어따 써?"
 ire.217.t:0 "인터내셔널 가맹!"
 ire.217.d:0 "The French are happy to see us joining the common cause - the spreading of the revolution throughout the world. Now we are part of the Internationale."
-ire.217.a:0 "북두칠성을 높이 들고!"
+ire.217.a:0 "만세!"
 ire.218.t:0 "프랑스가 거부하다!"
 ire.218.d:0 "The French have refused our request for entry in the Internationale."
 ire.218.a:0 "자기들 손해지 뭐!"
@@ -1620,12 +1620,6 @@ ire.55.a:0 "달아난 노예들을 위하여, 숭고한 죽음이여, 자네가 
 ire.56.t:0 "1916년 부활절 봉기 기념일!"
 ire.56.d:0 "1916년 4월 24일 월요일, 아일랜드의 자원자들, 아일랜드 시민군과 쿠먼 나 음반(여성 위원회)은 더블린의 주요 지점을 장악하고 자유 아일랜드 공화국을 선포했습니다. 우수하고 강력한 영국 포병들에 의해 포위되어 최종적으로 항복하기 전까지, 그들은 6일 간 저항했습니다. 봉기의 지도자 대다수는 처형당했습니다. 비록 당시에는 패배했지만, 그 후에 영국 법 아래의 700년에서 자유와 독립을 쟁취한 아일랜드의 전쟁으로 이끌었습니다."
 ire.56.a:0 "달아난 노예들을 위하여, 숭고한 죽음이여, 자네가 안개 이슬 속에 빠져 있을때."
-
-#Other
-ire.54.t:0 "아일랜드 국기"
-ire.54.d:0 "콜린스 정권 동안, 민주 야당은 19세기 아일랜드 민족주의자들이 채택한 아일랜드 신화에 뿌리를 둔 깃발인 욱광기를 새로운 아일랜드 공화국 운동을 위한 상징으로 사용했습니다. 피너 게일의 몰락과 함께, 우리는 욱광기를 새로운 국기로 채택해야 할지 아니면 부활절 봉기 이후 사용된 아일랜드 삼색기를 유지해야 할지 결정해야 합니다."
-ire.54.a:0 "새로운 시대와 새로운 공화국을 위한 국기!"
-ire.54.b:0 "삼색기를 바꾼다고? 당연히 안 되지!"
 
 ire.57.t:0 "Death of W.B. Yeats"
 ire.57.d:0 "The famous poet and one of the founders of Dublin's Abbey Theatre, William Butler Yeats, has died today. He was a driving force behind the Irish Literary Revival and in 1923 he was awarded the Nobel Prize for Literature. He also served as a politician for two terms after the Irish War of Independence, but retired in 1928 due to poor health."
