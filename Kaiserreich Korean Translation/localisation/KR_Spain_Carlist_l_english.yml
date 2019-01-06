@@ -61,6 +61,10 @@ CAR_economic_cooperation:0 "지중해에 있는 협상국를 위한 경제협력
 CAR_carlist_restoration:0 "카를리스타 복원"
 CAR_iberian_trade_opinion:0 "이베리아 무역"
 
+### Decisions ###
+CAR_assassinate_juan:0 "Assassinate Infante Juan"
+CAR_assassinate_juan_desc:0 "Infante Juan is King Alfonso's regent, as well as his heir. His death would through [SPR.GetNameDef] into disarray and give us time to knock them out of the civil war completely!"
+
 ### Political Focuses ###
 CAR_restauracion:0 "복원"
 CAR_restauracion_desc:0 "이제 우리는 내전에서 이겼으니, 부르봉 왕가 아래의 하비에르의 복원을 반드시 준비해야 합니다. 나라에 대한 많은 재건축이 이루어질 것이지만, 현재로서 우리는 미래를 기대할 수 있습니다."
