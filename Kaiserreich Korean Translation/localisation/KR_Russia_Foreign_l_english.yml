@@ -1,13 +1,13 @@
 l_english:
 
 ### Tooltips ###
-RUS_whrvolunit_tt:0 "6개의 루테니아 보병과 기병 자원병들이 형성될 것입니다."
-RUS_ukrvolunit_tt:0 "6개의 우크라이나 보병과 기병 자원병들이 형성될 것입니다."
+RUS_whrvolunit_tt:0 "6개의 루테니아 보병과 기병 자원병들이 만들어질 것입니다."
+RUS_ukrvolunit_tt:0 "6개의 우크라이나 보병과 기병 자원병들이 만들어질 것입니다."
 RUS_monattunit_tt:0 "3개의 새로운 기병 사단이 육성될 것입니다."
-RUS_finindunit_tt:0 "New infantry and cavalry divisions will form along with a small air group."
-RUS_azbrusunits_tt:0 "New Russian divisions will form."
-RUS_trmnavunits_tt:0 "A new fleet will be formed in Vladivostok."
-RUS_ukrnavunits_tt:0 "A new fleet will be formed in Sevastopol."
+RUS_finindunit_tt:0 "새로운 보병 사단과 기병 사단이 소규모 공중전단과 함께 만들어질 것입니다."
+RUS_azbrusunits_tt:0 "새로운 러시아 사단이 만들어질 것입니다."
+RUS_trmnavunits_tt:0 "새로운 함대가 블라디보스토크에 만들어질 것입니다."
+RUS_ukrnavunits_tt:0 "새로운 함대가 세바스토폴에 만들어질 것입니다."
 
 ### Focuses ###
 RUS_real_politik:0 "외교 정책: 현실정치"
@@ -37,12 +37,12 @@ RUS_advantage_GER_war_caucasus_desc:0 "독일이 세계 대전에 한번 더 빠
 RUS_central_asia_focus:0 "중앙아시아 방향"
 RUS_central_asia_focus_desc:0 "캅카스 지역과 달리, 독일은 중앙아시아 지역에는 그닥 관심이 없습니다. 우리는 강대국들로부터 큰 반발 없이 그들을 붙잡을 수 있을 것입니다."
 RUS_secure_kazakhstan:0 "카자흐스탄 확보"
-RUS_secure_kazakhstan_desc:0 "카자흐스탄은 광활하고 부유합니다. 일단 안으로 들어서면 우리는 훨씬 더 남쪽, 투르케스탄과 심지어 이란까지도 내다볼 수 있습니다!"
+RUS_secure_kazakhstan_desc:0 "카자흐스탄은 광활하고 부유합니다. 일단 안으로 들어서면 우리는 훨씬 더 남쪽, 투르케스탄과 심지어 페르시아까지도 내다볼 수 있습니다!"
 ALO_stayed_russia:0 "알라쉬 자치국이 왕정 국가로 남아있어야 합니다"
 RUS_integrate_kazakhstan:0 "알라쉬 자치국 합병"
-RUS_integrate_kazakhstan_desc:0 "카자흐스탄은 광활하고 부유하며 충성스럽기까지 합니다. 일단 안으로 들어서면 우리는 훨씬 더 남쪽, 투르케스탄과 심지어 이란까지도 내다볼 수 있습니다!"
+RUS_integrate_kazakhstan_desc:0 "카자흐스탄은 광활하고 부유하며 충성스럽기까지 합니다. 일단 안으로 들어서면 우리는 훨씬 더 남쪽, 투르케스탄과 심지어 페르시아까지도 내다볼 수 있습니다!"
 RUS_secure_turkestan:0 "투르케스탄 확보"
-RUS_secure_turkestan_desc:0 "투르케스탄은 특별히 부유하지도 않고 인구도 적습니다. 하지만 머지 않아 우리의 것이 될 것이고, 만약 우리가 필요하다면 부유한 이란과 인도 지방의 교두보 역할을 할 것입니다."
+RUS_secure_turkestan_desc:0 "투르케스탄은 특별히 부유하지도 않고 인구도 적습니다. 하지만 머지 않아 우리의 것이 될 것이고, 만약 우리가 필요하다면 부유한 페르시아와 인도 지방의 교두보 역할을 할 것입니다."
 
 RUS_middle_east_focus:0 "중동 방향"
 RUS_middle_east_focus_desc:0 "중앙아시아와 캅카스 지역이 우리의 통제 하에 있으므로, 우리는 부유하고 전략적으로 중요한 중동 지역을 바라볼 수 있습니다. 우리의 존재는 지역의 세력 균형을 크게 요동치게 할 것이며, 우리의 군대는 험난한 산악 지대에서의 전쟁을 준비할 필요가 있습니다."
