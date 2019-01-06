@@ -61,8 +61,8 @@ AUS_financial_ties_broken_desc:0 "헝가리의 왕가는 공동 정부의 재정
 
 HUN_financial_ties_broken:0 "오스트리아-헝가리의 관계 악화"
 HUN_financial_ties:0 "오스트리아-헝가리의 관계 회복"
-HUN_slovak_demonstrations:0 "Slovak Pro-Independence Demonstrations"
-HUN_transylvanian_demonstrations:0 "Transylvanian Pro-Independence Demonstrations"
+HUN_slovak_demonstrations:0 "슬로바키아 독립 운동"
+HUN_transylvanian_demonstrations:0 "트란실바니아 독립 운동"
 
 AUS_paid_reparations:0 "헝가리의 전쟁 배상금"
 
@@ -128,8 +128,8 @@ AUS_racial_tensions_desc:0 "새로 태어난 오스트리아 제국에서 민족
 AUS_racial_revolts:0 "민족간 반란"
 AUS_racial_revolts_desc:0 "민족간 갈등이 확대되고 공개 반란을 모의했습니다. 오스트리아의 암울한 시기입니다.."
 
-AUS_SLOintegration:0 "Slovenian Re-Integration"
-AUS_SLOintegration_desc:0 "While a sizable minority of Slovenia is ethnically German and the long legacy of Hapsburg rule allowed for the prompt re-establishment of Austrian administration over the Slovene lands, the Slovene people have not taken lightly to what many among them feel is the little more than renewed subjugation."
+AUS_SLOintegration:0 "슬로베니아 통합"
+AUS_SLOintegration_desc:0 "많은 슬로베니아인들은 독일 민족이고 합스부르크의 오랜 유산이 슬로베니아 영토에 대한 오스트리아 정부의 신속한 통제를 가능하게 했지만, 많은 슬로베니아 인이 느끼는 것은 새로운 통치자 그 이상입니다."
 
 ### Decisions ###
 AUS_elections_decisions:0 "선거 결정"
@@ -221,7 +221,7 @@ AUS_cs_3:0 "조심스러운 개발"
 AUS_cs_3_desc:0 "우리 화폐의 가치가 안정적이므로 편히 쓸 수 있는 작은 돈이라도 투자금을 회수할 수 있는 곳에 가도록 주의해야 합니다. 이는 물론 우리 돈이 가장 잘 작용될 수 있는 곳을 살펴봐야 한다는 것을 뜻합니다. 고맙게도, 우리는 오스트리아 최고의 경제학자들의 도움을 받고 있습니다."
 
 AUS_cs_4:0 "사회민주노동자당과 타협하다"
-AUS_cs_4_desc:0 "The Socialists have done quite the job stuffing their nonsense into the heads of the lowly cityfolk. Now that we are in power, we have to deal with that. We are meeting with the SDAP people to discuss the institution of some of the reforms they were marching for."
+AUS_cs_4_desc:0 "사회주의자들은 그들의 헛소리를 도시 하류층의 머릿속에 주입시키는 것을 꽤 많이 했습니다. 이제 우리가 권력을 잡았으니, 우리는 그것에 대처해야 합니다. 우리는 SDPA 사람들을 만나 그들이 발전시킨 개혁의 제도에 대해 논의할 것 입니다."
 
 AUS_cs_5:0 "농부들을 위한 지원금"
 AUS_cs_5_desc:0 "CSP는 항상 시골민들의 당이었습니다. 사회주의자들은 노동자들에게만 관심을 갖고, 농부들은 너무 자주 잊혀집니다. 우리는 그들을 위해 개발 보조금을 제공함으로써 이를 보상할 것입니다."
@@ -230,7 +230,7 @@ AUS_cs_6:0 "사회 갈등 봉합"
 AUS_cs_6_desc:0 "모든 사회 계층이 부나 통화, 또는 상품의 소멸에 대해 서로를 비난하고 있습니다. 시민은 식량이 없다고 농부들을 비난하고, 농부들은 돈이 없다고 시민들을 비난합니다. 사회는 분열되어 있고, 신중한 담론을 통해서만 그것이 조정될 수 있습니다. 이것이 힘든 여정의 시작입니다."
 
 AUS_cs_7:0 "우리가 필요로 하는 것"
-AUS_cs_7_desc:0 "Colonial Empires and the Reichspakt Labour are all fine and dandy, but it is luxury we do not need. You can not live from consuming ivory and cast steel. Germany can go get sunburnt, the man in Vienna knows his place, and want what he truly needs - a functioning economy and society, free from oustside influences."
+AUS_cs_7_desc:0 "식민 제국과 제국 협정(Reichspakt)일은 모두 멋지고 괜찮습니다. 하지만 우리에게 필요하지 않은 것은 사치입니다. 상아와 주철을 먹고 살 수는 없습니다. 독일은 햇볕에 그을리러 갈 수 있고 빈의 남자는 그의 위치를 알고 있고, 그가 진정으로 필요로 하는 것, 즉 외부 요인으로부터 자유로운 경제와 사회 입니다."
 
 ### Military Tree
 
@@ -506,13 +506,13 @@ AUS_decentralised_more_factories:0 "산업 구역"
 AUS_decentralised_more_factories_desc:0 "우리는 더 나아 가야 합니다. 단지 산업 단지와 중심지의 성장을 장려하는 것 이상으로, 우리는 준독립적인 지역 제조 단체의 설립을 포함한 필요한 모든 수단을 동원하여 개발을 촉진해야 합니다."
 
 AUS_transformation_of_nature:0 "자연의 변신"
-AUS_transformation_of_nature_desc:0 "Our efforts have to go beyond merely the matter of mankind, it must go into the very fabric of nature itself. If we are to develop our newly reinvigorated state further we have to do whatever it takes, even despoiling some of our beautiful wilderness."
+AUS_transformation_of_nature_desc:0 "우리의 노력은 단지 인류의 문제를 넘어, 자연 그 자체의 구조에 들어가야 합니다. 만약 우리가 새롭게 활력을 되찾은 국가를 더 발전시키려면 우리는 무슨 일이든 해야 하고, 심지어 우리의 아름다운 자연을 더럽혀야 합니다."
 
 AUS_decentralised_resources:0 "자원 탐사"
 AUS_decentralised_resources_desc:0 "우리 나라는 굶주렸으며, 이는 땅의 피로 채워야 합니다. 갈리치아는 상대적으로 낙후되어 있을 수도 있지만, 미래에 우리 나라에 전력을 공급할 풍부한 석유 공급량을 갖는 축복을 받았습니다. 이에 도달하는 데 필요한 것은 의지뿐입니다."
 
 AUS_am_stabilising_the_country:0 "국가 안정화"
-AUS_am_stabilising_the_country_desc:0 "For too long our 'nation' has been an unwieldly collection of peoples worthy of the greatest of Vienna's menageries. With our attempts to federalise still raw, we must ensure that all of our government's efforts are focussed on keeping this union together."
+AUS_am_stabilising_the_country_desc:0 "너무 오랫동안 우리의 '국가' 는 단합되지 못한 빈의 거대한 얼간이들이었습니다. 여전히 노골적인 연방정부의 노력과 함께, 우리는 우리의 모든 정부의 노력이 이 결합을 유지하는 것에 초점을 맞추도록 확실히 해야 합니다."
 
 AUS_am_followup_2:0 "최악은 끝났다."
 AUS_am_followup_2_desc:0 "비록 힘들었지만, 우리 나라는 지난 몇달간 명백하게 회복했습니다. 우리 나라가 갑작스런 연방화의 충격에서 얼마나 빨리 회복되었는지는 가장 낙관적인 지도자들조차도 놀라게 했습니다. 그럼에도 불구하고, 아직도 불안정이 가라앉기 까지는 갈 길이 있습니다."
@@ -521,7 +521,7 @@ AUS_am_followup_3:0 "대타협의 끝"
 AUS_am_followup_3_desc:0 "우리는 너무 오랫동안 대타협으로 알려진 이 비웃음거리를 견뎌 왔습니다. 강력하고 통일된 국가로서 미래를 위해 싸우려면 이는 끝나야 합니다. 비록 이 일로 어둠 속으로 뛰어들지라도, 이 복잡한 과정은 결과가 어떻든 멈춰야 합니다."
 
 AUS_am_followup_4:0 "헝가리의 지위 박탈"
-AUS_am_followup_4_desc:0 "The united front that has arrayed itself against the stubborn Hungarians has finally succeeded. No longer can they hold out against the inevitable, for our nation's greatness has increasingly become clear to all. Even proud Hungary has fallen into line to reap the benefits."
+AUS_am_followup_4_desc:0 "고집스러운 헝가리인들에게 대항하여 결집해 온 연합 전선이 마침내 성공했습니다. 우리나라의 위대함이 모든 사람들에게 점점 더 분명해졌기에 그들은 더 이상 피할 수 없는것을 견딜 수 없습니다. 심지어 자랑스러운 헝가리도 이익을 위해 줄을 섰습니다."
 
 AUS_am_followup_5:0 "세계 속으로"
 AUS_am_followup_5_desc:0 "우리 나라는 수십년에 걸친 혼란과 제국 내의 논쟁 끝에 마침내 내부 분열을 극복했습니다. 우리가 불과 몇년 만에 이룬 것은 믿을 수 없으며, 마침내 평화와 화합의 열매를 맛 볼 때입니다."
@@ -533,13 +533,13 @@ AUS_us_deal_with_Cisleithania:0 "시슬라이타니아 통합"
 AUS_us_deal_with_Cisleithania_desc:0 "시슬라이타니아는 통합될 준비가 되어 있습니다. 우리가 진정으로 급진적인 개혁을 실행하려면 제국의 내부 경계를 허물어야 합니다."
 
 AUS_us_deal_with_Hungary:0 "헝가리와의 거래"
-AUS_us_deal_with_Hungary_desc:0 "The thorn that is Hungary has to be removed from our side, no matter what. We have prepared the reparations they have been asking for over a decade now."
+AUS_us_deal_with_Hungary_desc:0 "헝가리라는 가시는 무슨 일이 있어도 우리 쪽에서 제거되어야 합니다. 우리는 그들이 10년 이상 요구해 온 배상금을 지금 준비했습니다."
 
 AUS_us_united:0 "이름 뿐이 아닌 연방"
-AUS_us_united_desc:0 "There is no longer a pretence to unity in Austria, there is true unity. Where once there was squabbling and infighting, there now exists concord. We are now a true United States."
+AUS_us_united_desc:0 "오스트리아에는 더 이상 단합 조무사가 아닌, 진정한 단합이 있습니다. 한때 말다툼과 내분이 있던 곳에는 이제 협정이 있습니다. 우리는 이제 진정한 연방입니다."
 
 AUS_us_looking_outwards:0 "외부를 향하여"
-AUS_us_looking_outwards_desc:0 "With the divisions of the past cast aside, the United States can now turn its attention to greater matters of state. No longer will we remain saddled with the burden of internal politicking, but instead we shall face the world - together."
+AUS_us_looking_outwards_desc:0 "과거의 분열을 제쳐두고, 이제 연방은 더 큰 문제에 눈을 돌릴 수 있습니다. 우리는 더 이상 내부의 논쟁에 시달리지 않을 것이며, 대신 함께 세계를 직면할 것 입니다."
 
 ### Foreign Branch
 
@@ -556,13 +556,13 @@ AUS_potb_albania:0 "알바니아에 접근"
 AUS_potb_albania_desc:0 "우리의 영향 없이 남쪽에 있는 알바니아를 더 이상 방관할 수는 없습니다. 그들의 편이 어디인지에 대한 물음을 해결할 때입니다."
 
 AUS_potb_greece:0 "그리스에 접근"
-AUS_potb_greece_desc:0 "There yet remains a lingering question over Greece's position. We should seek to drag her kicking and screaming into our sphere of influence."
+AUS_potb_greece_desc:0 "그리스가 누구의 편인가의 문제는 아직 미해결입니다. 우리는 그리스가 비명을 지르든 발로 차든 우리의 영향력으로 끌어들여야 합니다."
 
 AUS_potb_serbia:0 "세르비아와의 문제"
 AUS_potb_serbia_2:0 "남부 슬라브인 문제"
 
-AUS_potb_invite_bulgaria:0 "Old Friends in Bulgaria"
-AUS_potb_invite_bulgaria_desc:0 "Bulgaria was an essential ally during the Weltkrieg, helping us keep Serbian overambitions in check- or so we thought. The dissolution of the Central Powers after the war enabled the perfidious Serbs to escape our grasp. Once again, Bulgaria is key to restoring peace and stability in the Balkans once and for all."
+AUS_potb_invite_bulgaria:0 "불가리아의 옛 친구들"
+AUS_potb_invite_bulgaria_desc:0 "불가리아의는 지난 전쟁에서 우리가 세르비아의 저항을 억제하는데 도움을 주었고, 적어도 우리는 그렇게 생각합니다. 전쟁 후 중앙집권체제의 붕괴는 세르비아인들이 우리의 손아귀에서 벗어나게 해주었습니다. 불가리아는 다시 한번 발칸반도의 평화와 안정을 회복하는 열쇠입니다."
 
 AUS_syndie_threat:0 "생디칼리스트의 위협"
 AUS_syndie_threat_desc:0 "프랑스와 이탈리아인들은 세계에 혼란을 가져오는 공동의 적입니다. 비록 우리가 독일을 싫어할지 몰라도, 우리는 독일 편에 서서 다시 한번 싸워야 합니다."
@@ -997,32 +997,32 @@ ausgleich.new.322.d:0 "헝가리 대표단이 '오랜 전통의 얼간이짓'이
 ausgleich.new.322.a:0 "이것은 나쁜 일이다."
 
 ausgleich.new.323.t:0 "오스트리아의 배상금 지불 합의"
-ausgleich.new.323.d:0 "Austria Agrees to Pay Reparations for the loss of Illyria."
-ausgleich.new.323.a:0 "Good."
+ausgleich.new.323.d:0 "오스트리아는 일리리아를 잃은 것에 대한 배상금을 지불하기로 했습니다."
+ausgleich.new.323.a:0 "좋군."
 
 ausgleich.new.324.t:0 "오스트리아가 일리리아의 배상금 지불을 제안했습니다."
-ausgleich.new.324.d:0 "Austria Proposes that Illyria pays us Reparations."
-ausgleich.new.324.a:0 "Let us remind the Illyrians of their debt."
+ausgleich.new.324.d:0 "오스트리아는 우리에게 일리리아 배상금 지불을 제안했습니다."
+ausgleich.new.324.a:0 "일리리아인들에게 그들의 빚을 일깨워주자."
 
 ausgleich.new.325.t:0 "대타협의 재협상은 끝났습니다."
-ausgleich.new.325.d:0 "Our delegation was succesful in negotiating a resolution to our differences with Vienna."
-ausgleich.new.325.a:0 "Good."
+ausgleich.new.325.d:0 "우리 대표단은 빈과의 의견 차이를 조율하는데 성공했습니다."
+ausgleich.new.325.a:0 "좋군."
 
 ausgleich.new.326.t:0 "대타협의 재협상은 끝났습니다."
-ausgleich.new.326.d:0 "Our delegation has secured a secret treaty to split Illyria with Austria."
-ausgleich.new.326.a:0 "Hush now."
+ausgleich.new.326.d:0 "우리 대표단은 일리리아를 오스트리아와 갈라놓기 위한 비밀조약을 확보했습니다."
+ausgleich.new.326.a:0 "쉿!"
 
-ausgleich.new.327.t:0 "A Delegatory is sent Home"
-ausgleich.new.327.d:0 "It seems he has held a speech that has angered the Kaiser on a personal level."
-ausgleich.new.327.a:0 "This is not what I pay you for."
+ausgleich.new.327.t:0 "대표자가 집으로 돌아오다"
+ausgleich.new.327.d:0 "그는 개인적인 차원에서 황제를 화나게 한 연설을 한 것 같습니다."
+ausgleich.new.327.a:0 "나는 이것을 위해 돈을 주는게 아니다."
 
 ausgleich.new.328.t:0 "대표단이 일찍 복귀합니다."
-ausgleich.new.328.d:0 "Upset with the way the negotiations were going, our delegates returned home early. We will not be reimbursed for now."
-ausgleich.new.328.a:0 "Suboptimal."
+ausgleich.new.328.d:0 "대타협의 진행에 힘입어, 우리 대표단은 일찍 복귀했습니다. 우리는 당분간 보상받지 못할 것 입니다."
+ausgleich.new.328.a:0 "차선책이다."
 
 ausgleich.new.329.t:0 "대표단이 일찍 복귀합니다."
-ausgleich.new.329.d:0 "The Viennese have made a mockery of our delegates."
-ausgleich.new.329.a:0 "We shall not stand for this."
+ausgleich.new.329.d:0 "빈의 사람들은 우리 대표단을 조롱했습니다."
+ausgleich.new.329.a:0 "우리는 이것을 지지할 수 없다."
 
 ausgleich.new.330.t:0 "헝가리는 그들의 요구를 보내다."
 ausgleich.new.330.d:0 "헝가리는 우리의 배상금 제안에 관심을 가졌다."
@@ -1043,8 +1043,8 @@ ausgleich.new.333.a:0 "알려줘서 고맙군."
 
 ausgleich.new.334.t:0 "일리리아는 지불을 거부했습니다."
 ausgleich.new.334.d:0 "일리리아는 지불을 거부했습니다."
-ausgleich.new.334.a:0 "Well, let's start a war in the Balkans. What could go wrong?"
-ausgleich.new.334.b:0 "Not much we can to then."
+ausgleich.new.334.a:0 "발칸에서 전쟁을 시작하자. 뭐가 잘못될 수 있을까?"
+ausgleich.new.334.b:0 "우리가 할 수 있는것은 많지 않아..."
 
 ausgleich.new.335.t:0 "헝가리가 우리에게 전쟁을 선포합니다."
 ausgleich.new.335.d:0 "헝가리가 우리에게 전쟁을 선포합니다."
@@ -1299,19 +1299,19 @@ aus.tree.4043.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다
 aus.tree.4043.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
 aus.tree.4043.a:0 "훌륭하군."
 
-aus.tree.4050.t:0 "Our Interests in Bulgaria"
-aus.tree.4050.d:0 "Bulgaria is essential to the balance of power in the Balkans. Especially as a counter to Serbian irredentism. We should push for greater cooperation with the Bulgarians in order to maintain peace and stability in the long-troubled region."
-aus.tree.4050.a:0 "An eternal friendship."
+aus.tree.4050.t:0 "불가리아에 대한 우리의 관심"
+aus.tree.4050.d:0 "불가리아는 발칸반도 힘의 균형의 핵심입니다. 특히 세르비아의 적개심에 대한 대응책으로써, 우리는 오랜 분쟁지역에 평화와 안정을 유지하기 위해 불가리아인들과 더 많은 협력을 추진해야 합니다."
+aus.tree.4050.a:0 "영원한 우정."
 
-aus.tree.4051.t:0 "A Facsimile from Vienna"
-aus.tree.4051.d:0 "Austria has rekindled her policy of acting as a "Protector of the Balkans", formally invites us to their faction. As such, we would be under their protection."
-aus.tree.4051.a:0 "It's good to have protection."
-aus.tree.4051.b:0 "We're doing well on our own."
+aus.tree.4051.t:0 "빈에서 온 팩스"
+aus.tree.4051.d:0 "오스트리아는 발칸반도의 수호자 역할을 하는 그의 정책을 다시 한번 일깨워주었고 공식적으로 우리를 그들의 세력의 초대했습니다. 그래서 우리는 그들의 보호 아래 있을 수 있습니다."
+aus.tree.4051.a:0 "보호받는것은 좋지."
+aus.tree.4051.b:0 "우리끼리 잘 지내고 있어."
 
-aus.tree.4052.t:0 "[From.GetNameDefCap] Declines."
-aus.tree.4052.d:0 "[From.GetLeader] has let us know that his country has no interest in our offer of protection. [From.GetNameDef] will not be part of our sphere."
+aus.tree.4052.t:0 "[From.GetNameDefCap]이(가) 거절하다."
+aus.tree.4052.d:0 "[From.GetLeader]의 나라는 우리의 보호 제안의 관심이 없다는 걸 알게 해줬지 [From.GetNameDef]은(는) 우리 세력의 일부가 되지 않을 거야."
 aus.tree.4052.a:0 "Well then."
 
-aus.tree.4053.t:0 "[From.GetNameDefCap] Agrees to Join Our Sphere."
-aus.tree.4053.d:0 "[From.GetLeader] has let us know that his country is looking forward to closer coopertaion. [Root.GetAdjective]-[From.GetAdjective] Relationships are off to a good start."
-aus.tree.4053.a:0 "Splendid."
+aus.tree.4053.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다."
+aus.tree.4053.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
+aus.tree.4053.a:0 "훌륭하군"
