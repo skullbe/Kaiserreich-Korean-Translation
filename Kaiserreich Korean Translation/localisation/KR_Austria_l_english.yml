@@ -230,7 +230,7 @@ AUS_cs_6:0 "사회 갈등 봉합"
 AUS_cs_6_desc:0 "모든 사회 계층이 부나 통화, 또는 상품의 소멸에 대해 서로를 비난하고 있습니다. 시민은 식량이 없다고 농부들을 비난하고, 농부들은 돈이 없다고 시민들을 비난합니다. 사회는 분열되어 있고, 신중한 담론을 통해서만 그것이 조정될 수 있습니다. 이것이 힘든 여정의 시작입니다."
 
 AUS_cs_7:0 "우리가 필요로 하는 것"
-AUS_cs_7_desc:0 "식민 제국과 제국 협정(Reichspakt)일은 모두 멋지고 괜찮습니다. 하지만 우리에게 필요하지 않은 것은 사치입니다. 상아와 주철을 먹고 살 수는 없습니다. 독일은 휴양지로 떠나고 있고 빈의 남자는 그가 진정으로 필요로 하는 것, 즉 외부 요인으로부터 자유로운 경제와 사회를 바라고 있습니다."
+AUS_cs_7_desc:0 "식민 제국과 제국 조약(Reichspakt)일은 모두 멋지고 괜찮습니다. 하지만 우리에게 필요하지 않은 것은 사치입니다. 상아와 주철을 먹고 살 수는 없습니다. 독일은 휴양지로 떠나고 있고 빈의 남자는 그가 진정으로 필요로 하는 것, 즉 외부 요인으로부터 자유로운 경제와 사회를 바라고 있습니다."
 
 ### Military Tree
 
@@ -253,7 +253,7 @@ AUS_motorisation:0 "군용 자동차 확장"
 AUS_motorisation_desc:0 "오스트리아-헝가리 제국은 군용 자동차를 연구하는 선구자였지만, 그들은 항상 수적으로 제한되어 있었습니다. k.u.k 군사 자동차 시스템(Militär-Automobilwesen)은 군용 차량의 개발과 배치를 담당하는 TMK의 한 부분입니다. 이미 우리의 참모들은 트럭의 중요성에 눈을 떴고, 군의 자동차 운용을 최우선 과제로 삼았습니다."
 
 AUS_tank_trials:0 "전차 시험 평가"
-AUS_tank_trials_desc:0 "대전쟁의 트라우마가 아직도 많은 사람들에게 남아있는 가운데, 전차는 오스트리아-헝가리군에서 사용되었습니다. 스코다(Škoda)와 ČKD에서 세계에서 가장 진보된 전차 디자인을 개발하면서 전차들은 오스트리아-헝가리 군에서 열심히 사용되었습니다. TMK는 전차 개발이 진전될수록 다양한 용도의 신차 시운전을 벌이겠다는 계획입니다."
+AUS_tank_trials_desc:0 "세계대전의 트라우마가 아직도 많은 사람들에게 남아있는 가운데, 전차는 오스트리아-헝가리군에서 사용되었습니다. 스코다(Škoda)와 ČKD에서 세계에서 가장 진보된 전차 디자인을 개발하면서 전차들은 오스트리아-헝가리 군에서 열심히 사용되었습니다. TMK는 전차 개발이 진전될수록 다양한 용도의 신차 시운전을 벌이겠다는 계획입니다."
 
 AUS_radar:0 "항공기 탐지 기술"
 AUS_radar_desc:0 "헝가리의 수학자 졸탄 라조스 베이(Zoltán Lajos Bay)의 레이더 관련 연구는 TMK와 피에르코프(Fliegerkorps)의 관심을 끌었습니다. 이 발명품은 공중의 위협에 대한 제국의 방어력을 향상시키기 위해 사용되기를 바라고 있습니다. 라디오 기반 항공기 탐지기(Funkgestützte Flugzugoortung)에 대한 실험은 성과가 있으며, 제국 일가는 곧 작동 중인 레이더를 가지게 될 것 입니다."
@@ -265,16 +265,16 @@ AUS_reform_AOK:0 "군사 최고 사령부 개혁"
 AUS_reform_AOK_desc:0 "AOK라 불리는 아르미오베르코만도(Armeeoberkommando)는 1914년에 처음 창설되었습니다. 그것의 임무는 동맹군, 해군, 오스트리아 육군, 헝가리군(Honvéd)의 서로 다른 명령을 통합하여 전쟁을 지휘하는 것이었습니다. 하지만 전쟁이 끝난 직후, AOK는 해체되었고 우리 군대는 다시 분열되었습니다. AOK의 재결합은 다른 세력들을 재결합시키기위해 필요한 것으로 여겨집니다."
 
 AUS_doctrine_Jansa:0 "얀샤의 중심 계획"
-AUS_doctrine_Jansa_desc:0 "전장 장교 중위였던 알프레드 안샤 폰 타네나우(Alfred Janša von Tannenau)신임 참모총장은 대전쟁의 충격적인 패배 이후 제국의 방어전략을 믿습니다. 그는 가능한 한 많은 사상자를 줄이기 위해 지휘관들 간의 의사소통을 개선하기를 원하며, 전쟁을 수행하는 가장 좋은 방법은 철저한 계획과 준비라고 믿습니다."
+AUS_doctrine_Jansa_desc:0 "전장 장교 중위였던 알프레드 안샤 폰 타네나우(Alfred Janša von Tannenau)신임 참모총장은 세계대전의 충격적인 패배 이후 제국의 방어전략을 믿습니다. 그는 가능한 한 많은 사상자를 줄이기 위해 지휘관들 간의 의사소통을 개선하기를 원하며, 전쟁을 수행하는 가장 좋은 방법은 철저한 계획과 준비라고 믿습니다."
 
 AUS_doctrine_Hickmann:0 "히크만의 화력 우세 교리"
-AUS_doctrine_Hickmann_desc:0 "참모부의 일원인 에밀 히크만(Emil Hickmann)장군은 군부가 제국의 적들에 대해 기술적 우위를 확보하는데 초점을 맞추어야 한다고 믿습니다. 대전쟁은 아직도 충격적인 경험으로 남아있기에 사상자를 제한하는 것이 가장 중요하며 히크만은 현대전에서 화재 방지와 장비를 개선하는것이 중요하다고 생각합니다."
+AUS_doctrine_Hickmann_desc:0 "참모부의 일원인 에밀 히크만(Emil Hickmann)장군은 군부가 제국의 적들에 대해 기술적 우위를 확보하는데 초점을 맞추어야 한다고 믿습니다. 세계대전은 아직도 충격적인 경험으로 남아있기에 사상자를 제한하는 것이 가장 중요하며 히크만은 현대전에서 화재 방지와 장비를 개선하는것이 중요하다고 생각합니다."
 
 AUS_doctrine_von_Hubicki:0 "폰 후비키의 기동전"
 AUS_doctrine_von_Hubicki_desc:0 "오스트리아-헝가리 기병 사령관인 카발리에르 알프레드 폰 허비치(Kavallerie Alfred von Hubicki)는 전쟁의 미래가 전차와 트럭이라고 믿습니다. 전차가 새로운 전장의 후사르(Hussars)와 퀴사리에(Cuirassiers)가 되어 기동력이 중요합니다. 이 새로운 기병대는 전술을 구사해야 하며, 적이 반응하기 전에 적을 압도해야 합니다."
 
 AUS_communications:0 "통신 향상"
-AUS_communications_desc:0 "대전쟁이 시작된 이래로, 라디오와 같은 발명품은 지휘관과 군대 사이의 통신을 훨씬 더 쉽게 만들었습니다. 더 나은 의사소통을 통해, 높으신 분들은 끔찍한 재앙에 훨씬 더 빨리 반응할 수 있고, 그 재앙이 야기할 수 있는 피해를 제한하고, 대항할 수 있습니다."
+AUS_communications_desc:0 "세계대전이 시작된 이래로, 라디오와 같은 발명품은 지휘관과 군대 사이의 통신을 훨씬 더 쉽게 만들었습니다. 더 나은 의사소통을 통해, 높으신 분들은 끔찍한 재앙에 훨씬 더 빨리 반응할 수 있고, 그 재앙이 야기할 수 있는 피해를 제한하고, 대항할 수 있습니다."
 
 AUS_better_support_equipment:0 "화력 지원 최대화"
 AUS_better_support_equipment_desc:0 "부대들은 효과적일 수 있도록 적절한 장비를 갖추어야 합니다. 그들이 더 많은 지원을 받을수록, 더 적은 사상자가 나올 것 입니다. 여기에는 포병뿐 아니라 부상자를 후송하는 트럭, 적절한 야전병원과 정비부대가 포함됩니다."
@@ -289,7 +289,7 @@ AUS_infanteriepanzer:0 "보병 전차"
 AUS_infanteriepanzer_desc:0 "군은 이미 수많은 기병 전차 설계를 성공시켰지만, 보병 전차 계획은 지금까지 성과가 없습니다. 이것은 우리의 새로운 교리에서 보병의 지원이 우선시되고 그 계획이 점점 더 추진되어야 하기때문에 수정되어야 합니다. 곧 나올 디자인들은 점점 더 무거워지고 비싸지지만 더 강력하고 더 잘 보호됩니다."
 
 AUS_auftragstaktik:0 "현대 임무형 지휘"
-AUS_auftragstaktik_desc:0 "임무 형태의 전술(Auftragstaktik)은 대전쟁 기간동안 성공적으로 채택되었습니다. 이러한 전술들은 부하들이 독립적으로 일을 해서 성취할 수 있는 명확히 정의된 임무를 부여하고, 뛰어난 유연성을 부여하며, 솔선수범하도록 장려하는 높은 지휘를 포함합니다. 임무 형태의 전술은 현대 전쟁에 적용할 수 있고 새로운 교리에도 쓸 수 있습니다."
+AUS_auftragstaktik_desc:0 "임무 형태의 전술(Auftragstaktik)은 세계대전 기간동안 성공적으로 채택되었습니다. 이러한 전술들은 부하들이 독립적으로 일을 해서 성취할 수 있는 명확히 정의된 임무를 부여하고, 뛰어난 유연성을 부여하며, 솔선수범하도록 장려하는 높은 지휘를 포함합니다. 임무 형태의 전술은 현대 전쟁에 적용할 수 있고 새로운 교리에도 쓸 수 있습니다."
 
 AUS_aviation_effort:0 "k.u.k. 항공부대"
 AUS_aviation_effort_desc:0 "Formerly known as the k.u.k. Luftfahrtruppen, the Fliegerkorps is the air service of Austria-Hungary. It was stretched thin during the Weltkrieg and had a limited number of aircraft at its disposal. Since the end of the war, little was done to rectify this as funding became scarce. With the military receiving substantial funds once more, modernising and expanding the Fliegerkorps is finally possible."
