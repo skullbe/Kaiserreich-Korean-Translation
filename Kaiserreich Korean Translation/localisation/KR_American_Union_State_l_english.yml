@@ -289,7 +289,7 @@ TEX_national_recovery_desc:0 "국가재건국은 일반적으로 자행되었던
 TEX_public_works:0 "공공사업국"
 TEX_public_works_desc:0 "내전 중에 전기 생산, 수도 공급 시설, 안전하고 효율적인 교통체계가 사라졌지만, 공공사업국은 이 모든 것을 바로잡을 것입니다. 공공사업국은 고용인으로 하여금 피고용인들에게 임금을 공평하게 지불하도록 보장하는 기금입니다."
 TEX_research_projects:0 "국가교육국"
-TEX_research_projects_desc:0 "노조연맹이 붕괴된 후, 국가교육국은 해산되었으며 그 구성원들은 흩어졌습니다. 이제 대부분의 교사들이 정치에 무관심하고, 노조가 교사들에게 당파적인 권력을 행사하지 못함에 따라, 교사들은 신정부의 미국 재건을 담당하게 될 강력한 후보자가 됩니다."
+TEX_research_projects_desc:0 "빨갱이들이 궤멸된 후, 국가교육국은 해산되었으며 그 구성원들은 흩어졌습니다. 이제 대부분의 교사들이 정치에 무관심하고, 노조가 교사들에게 당파적인 권력을 행사하지 못함에 따라, 교사들은 신정부의 미국 재건을 담당하게 될 강력한 후보자가 됩니다."
 TEX_civil_works_adminstration:0 "토목사업국"
 TEX_civil_works_adminstration_desc:0 "한 국가로서 미국은 전쟁과 무질서한 연방주의자들에 의한 가난으로 인해 많은 노동력을 잃었습니다. 각하께서는 국가재건 프로젝트를 위한 고용 공백을 채울 노가다 노동자를 고용하기 위한 기관의 설립을 허가하는 행정 명령을 추진했습니다."
 TEX_the_ccc:0 "시민보호기동대"
@@ -379,7 +379,7 @@ TEX_pilot_training_desc:0 "찰스 린드버그는 민간 근무에서 배운 장
 TEX_air_ports:0 "공항 확충"
 TEX_air_ports_desc:0 "우리는 적절한 보급품이 적지를 넘어 우리의 요새로 수송되도록 보장해야 합니다. 공항과 활주로는 그러한 연결을 가능케 할 것입니다."
 TEX_army_air_support:0 "육군 항공지원"
-TEX_army_air_support_desc:0 "육군은 적군의 참호를 가로지르기 위한 지상지원을 늘려달라고 요청했습니다. 공군은 동등한 동반자로서 이 요청을 승인합니다."
+TEX_army_air_support_desc:0 "육군은 적군의 참호를 가로지르기 위한 지상지원을 늘려달라고 요청했습니다. 공군은 동등한 동반자로서 이 요청을 수락합니다."
 TEX_bombers:0 "폭격기 개발"
 TEX_bombers_desc:0 " Bombers, although a terror to behold, will enable us to project our power overseas. Our secret project also hinges on effective and safe bombers to deliver their secret payload."
 TEX_air_supremacy:0 "제공권 우위"
@@ -499,10 +499,10 @@ unionstate.1.c:0 "윌리엄 펠리를 임명하라"
 unionstate.2.t:0 "사업 구상회가 폭로되다"
 unionstate.2.d.huey:0 "폭스 코너는 휴이 롱 각하에게 중요한 메시지를 전하기 위해 각하의 미팅 중 하나를 방해하면서까지 급히 달려왔습니다. 비상대권위원회는 롱 각하를 전복시키기 위한 지지를 얻기 위해 재향군인회을 물색하고 있는 것 같아 보입니다. 이 소식은 먼저 방의 분위기를 싸하게 만들었고 그 다음 분노한 롱 각하가 미국의 모든 역적들을 체포하라고 명령하게 만들었습니다. 현재 사업 구상회라고 알려진 그 양아치집단은 곧 재판에 출두할 예정입니다."
 unionstate.2.d.pellley:0 "펠리는 휴이 롱 각하에게 중요한 메시지를 전하기 위해 각하의 미팅 중 하나를 방해하면서까지 급히 달려왔습니다. 비상대권위원회는 롱 각하를 전복시키기 위한 지지를 얻기 위해 재향군인회을 물색하고 있는 것 같아 보입니다. 이 소식은 먼저 방의 분위기를 싸하게 만들었고 그 다음 분노한 롱 각하가 미국의 모든 역적들을 체포하라고 명령하게 만들었습니다. 현재 사업 구상회라고 알려진 그 양아치집단은 곧 재판에 출두할 예정입니다."
-unionstate.2.a:0 "모의자들을 체포하라"
+unionstate.2.a:0 "역적들을 체포하라"
 
 unionstate.3.t:0 "의회 특별 회의"
-unionstate.3.d:0 "휴이 롱 각하 하의 의회의 빠른 일처리는 지금까지 몇 가지 가능한 법안들을 통과시킬 수 있었습니다. 롱 각하의 명령에 지쳐서, 금주주의자인 우방들과 옛 민주당원들은 오늘 유권자들에게 보다 급진적인 제안을 했습니다. 지역 개발 사업과 금주법 개정안 제안서가 연속으로 제출되었습니다. 금주법은 남부의 보수적 개신교인들에게는 인기가 있지만, 소위 세속물을 먹은 북부와 서부에서는 독재적으로 보여집니다. 불행하게도, 제일당의 소위 큰 텐트 정치는 이 법안들이 단지 함께 통과되거나 전혀 통과되지 못한다는 것밖에 다른 방법이 없음을 말해줍니다. 마지막 결정은 휴이 롱 각하께 달려있습니다."
+unionstate.3.d:0 "휴이 롱 각하 하의 의회의 빠른 일처리는 지금까지 몇 가지 가능한 법안들을 통과시킬 수 있었습니다. 롱 각하의 명령에 지쳐서, 금주주의자인 우방들과 옛 민주당원들은 오늘 유권자들에게 보다 급진적인 제안을 했습니다. 지역 개발 사업과 금주법 개정안 제안서가 연속으로 제출되었습니다. 금주법은 남부의 보수적 개신교인들에게는 인기가 있지만, 소위 세속물을 먹은 북부와 서부에서는 독재적으로 보여집니다. 불행하게도 제일당의 소위 큰 텐트 정치는 이 법안들이 단지 함께 통과되거나 전혀 통과되지 못한다는 것밖에 다른 방법이 없음을 말해줍니다. 마지막 결정은 휴이 롱 각하께 달려있습니다."
 unionstate.3.a:0 "법안을 통과시켜라"
 unionstate.3.b:0 "법안을 부결시켜라"
 
@@ -520,7 +520,7 @@ unionstate.6.a:0 "역적에게 죽음을!"
 
 unionstate.7.t:0 "미국의 수도"
 unionstate.7.d:0 "내전이 끝나면서, 새로운 미국을 위한 수도가 어디여야 하는지에 대한 문제가 제기되었습니다. 국내의 많은 도시들 중에서 4곳이 후보지로 가장 유력합니다. 신 수도로 어떤 도시가 선정될까요?"
-unionstate.7.a:0 "워싱턴, D.C."
+unionstate.7.a:0 "워싱턴 D.C."
 unionstate.7.b:0 "뉴올리언스"
 unionstate.7.c:0 "찰스턴"
 unionstate.7.e:0 "세인트루이스"
@@ -547,7 +547,7 @@ unionstate.12.a:0 "너무 나갔다"
 unionstate.12.b:0 "롱과 함께라면 잘못되지(wrong) 않는다"
 
 unionstate.13.t:0 "남부 소작농 연맹의 개선"
-unionstate.13.d:0 "수천 명에게 집을 제공하는 남부 소작농 연맹의 노력은 높이 평가되지만, 그 이름 자체가 여전히 놀림거리가 되고 있습니다. 소작농들은 자신들의 단체명에 분개하고 있습니다. 연맹 사무국 방문과 출판물 재간행은 이 대혼란을 교정하는데 필요한 전부입니다. 연맹 사무국을 방문한 휴이 각하께서는 남부 소작농 연맹에서 전미 소작농 연맹으로의 새로운 명명과 함께 연맹의 몇몇 부문을 개선하고 연맹을 [TEX.GetLeader] 각하의 정치체제에 통합하기로 결정했습니다."
+unionstate.13.d:0 "수천 명에게 집을 제공하는 남부 소작농 연맹의 노력은 높이 평가되지만, 그 이름 자체가 여전히 놀림거리가 되고 있습니다. 소작농들은 자신들의 단체명에 분개하고 있습니다. 다행히도 연맹 사무국 방문과 출판물 재간행을 통해 이 대혼란을 교정할 수 있었습니다. 연맹 사무국을 방문한 휴이 각하께서는 남부 소작농 연맹에서 전미 소작농 연맹으로의 새로운 명명과 함께 연맹의 몇몇 부문을 개선하고 연맹을 [TEX.GetLeader] 각하의 정치체제에 통합하기로 결정했습니다."
 unionstate.13.a:0 "이제는 전미 소작농 연맹이다"
 
 unionstate.14.t:0 "휴고 블랙의 진실"
@@ -718,7 +718,7 @@ unionstate.64.a:0 "머물러도 좋다"
 unionstate.64.b:0 "우린 원치않는다"
 
 unionstate.65.t:0 "영도자 펠리가 서거하고 제랄드 스미스가 영도자가 되다"
-unionstate.65.d:0 "오늘 영도자 윌리엄 펠리의 서거를 알리는 교회 종소리가 전국에 울려 퍼졌습니다. 펠리의 죽음이 안도감을 가져다 주기를 바라는 많은 굶주린 미국인들이 거주하는 게토와 보호구역 안에서도 종은 울리고 있습니다. 희망을 가졌던 수백만의 사람들은 차기 영도자 제럴드 L K 스미스가 장례식에서 심판의 날까지 펠리를 대신해 최고존엄으로서 일하겠다고 발표했을 때 절망에 빠졌습니다. 이러한 권력의 건재함의 과시에도 불구하고, 전세계의 미국민들은 독재자의 죽음을 응원하고 미국에서 스미스 영도자의 계속되는 은색 군단 정권에 대한 비난의 압력을 가하고 있습니다."
+unionstate.65.d:0 "오늘 영도자 윌리엄 펠리의 서거를 알리는 교회 종소리가 전국에 울려 퍼졌습니다. 펠리의 죽음이 안도감을 가져다 주기를 바라는 많은 굶주린 미국인들이 거주하는 게토와 보호구역 안에서도 종은 울리고 있습니다. 희망을 가졌던 수백만의 사람들은 차기 영도자 제랄드 L K 스미스가 장례식에서 심판의 날까지 펠리를 대신해 최고존엄으로서 일하겠다고 발표했을 때 절망에 빠졌습니다. 이러한 권력의 건재함의 과시에도 불구하고, 전세계의 미국민들은 독재자의 죽음을 응원하고 미국에서 스미스 영도자의 계속되는 은색 군단 정권에 대한 비난의 압력을 가하고 있습니다."
 unionstate.65.a:0 "우리는 언제쯤 자유로워질까?"
 
 
@@ -751,7 +751,7 @@ unionstate.76.d:0 "[From.GetAdjective] 정부는 우리의 동맹 가입 제안�
 unionstate.76.a:0 "형편없는 결정이군"
 
 unionstate.77.t:0 "부 공유 협회가 스미스를 지명하다"
-unionstate.77.d:0 "부 공유 협회원들 사이에서 즉흥적인 회의가 열렸습니다. 협회원들은 주로 제일당원, 금주주의자, 남부 소작농 연맹의 회원들로 구성되어 있습니다. 이들은 새벽 2시에 만나 공과 사의 경계를 넘나들었습니다. 금주주의자 소속인 윌리엄 업쇼는 롱 대통령이 금주주의자들의 가치를 배반했다고 말했습니다. 제일당원들은 롱이 주요 선거 공약을 지키지 않는 것은 미래에 더 '도덕 중심적인' 입법을 초래할 것이라는 데 동의했습니다. 자신의 노령 연금 계획을 추진하기 위해 휴이 롱에게 합류한 프란시스 타운센드는 대통령의 변덕에 굴복하지 않을 부 공유 협회의 새 대표를 선출할 필요가 있다는 것에 동의했습니다. 많은 논쟁 끝에, 새로 선출된 루이지애나 주 하원의원인 제랄드 L K 스미스가 아직 사회보장제도를 지지하고는 있지만 롱의 영향력에서 충분히 벗어났다고 판단되었습니다. 스미스가 대표로 선출되는 광경을 보면서, 협회원들 스미스와 은색 군단의 연관성이 미래에 어떤 일을 초래할지 곰곰히 생각해보았습니다..."
+unionstate.77.d:0 "부 공유 협회원들 사이에서 즉흥적인 회의가 열렸습니다. 협회원들은 주로 제일당원, 금주주의자, 그리고 소작농 연맹의 회원들로 구성되어 있습니다. 이들은 새벽 2시에 만나 공과 사의 경계를 넘나들었습니다. 금주주의자 소속인 윌리엄 업쇼는 롱 대통령이 금주주의자들의 가치를 배반했다고 말했습니다. 제일당원들은 롱이 주요 선거 공약을 지키지 않는 것은 미래에 더 '도덕 중심적인' 입법을 초래할 것이라는 데 동의했습니다. 자신의 노령 연금 계획을 추진하기 위해 휴이 롱에게 합류한 프란시스 타운센드는 대통령의 변덕에 굴복하지 않을 부 공유 협회의 새 대표를 선출할 필요가 있다는 것에 동의했습니다. 많은 논쟁 끝에, 새로 선출된 루이지애나 주 하원의원인 제랄드 L K 스미스가 아직 사회보장제도를 지지하고는 있지만 롱의 영향력에서 충분히 벗어났다고 판단되었습니다. 스미스가 대표로 선출되는 광경을 보면서, 협회원들 스미스와 은색 군단의 연관성이 미래에 어떤 일을 초래할지 곰곰히 생각해보았습니다..."
 unionstate.77.a:0 "이 새끼들이!"
 
 unionstate.78.t:0 "딕시크랫이 제일당이 썩어빠졌다고 선언하다"
@@ -794,7 +794,7 @@ unionstate.84.a:0 "적어도 사변적 사태는 일어나지 않았다..."
 
 ### Military Research ###
 unionstate.101.t:0 "미래전"
-unionstate.101.d:0 "예전의 미국 정부 부서들을 개편하는 과정에서, 미주연합은 오래된 비밀 무기 계획안들을 찾아냈습니다. 이 중 가장 관심을 끈 두 가지는 로버트 고다드와 버니바 부시가 각각 적의 침공을 막기 위한 고비용의 무기 프로젝트를 제안한 것이었습니다. 다행히도, 고다드와 부시는 각자의 은신처에서 발견되었고, 자신들의 제안을 현실화하도록 설득되었습니다. 고다드의 계획안은 안정적으로 폭발물을 발사하는 장거리 액체 연료 로켓입니다. 버니바의 계획안은 유럽에서 행해진 실험에 기초한 폭탄을 만들기 위한 핵분열의 이론적인 활용입니다. 어떤 계획을 추진해야 할까요?"
+unionstate.101.d:0 "예전의 미국 정부 부서들을 개편하는 과정에서, 미주 연합은 오래된 비밀 무기 계획안들을 찾아냈습니다. 이 중 가장 관심을 끈 두 가지는 로버트 고다드와 버니바 부시가 각각 적의 침공을 막기 위한 고비용의 무기 프로젝트를 제안한 것이었습니다. 다행히도 고다드와 부시는 각자의 은신처에서 발견되었고, 자신들의 제안을 현실화하도록 설득되었습니다. 고다드의 계획안은 안정적으로 폭발물을 발사하는 장거리 액체 연료 로켓입니다. 버니바의 계획안은 유럽에서 행해진 실험에 기초한 폭탄을 만들기 위한 핵분열의 이론적인 활용입니다. 어떤 계획을 추진해야 할까요?"
 unionstate.101.a:0 "고다드의 로켓"
 unionstate.101.b:0 "버니바 부시의 폭탄"
 
@@ -803,7 +803,7 @@ unionstate.102.d:0 "몇 달 동안 남서부에서 각종 시험이 행해지고
 unionstate.102.a:0 "숨어봤자 소용없다"
 
 unionstate.103.t:0 "뉴멕시코의 원자력"
-unionstate.103.d:0 "미주연합은 핵무기를 만들기 위한 장애물을 넘고 또 넘으면서 등골이 빠졌습니다. 이런 상황은 아직 행적을 파악 못한 로버트 오펜하이머를 포함한 의기충만한 물리학자들과 핵전문가들의 부족에서부터 시작되었습니다. 다른 잠재적 후보들 몇몇은 해외의 평화를 위한 인류애 선언서에 서명하여 우리 계획에 반대한다고 선언했습니다. 따라서, 부시는 산업 기술자들에게 전적으로 의존해야 했으며, 이 때문에 개발 기간도 늘어나게 되었습니다. 마침내, 조지 키스티아코프스키의 많은 실험과 도움 후에, 첫 원자폭탄이 실험이 진행되었습니다. 광범위한 안전 예방 조치로 인해 생기넘치는 실험은 인상적인 폭발이라는 결실을 맺었지만, 실험의 과정과 그 결과에 대한 문서화는 부실했습니다."
+unionstate.103.d:0 "미주 연합은 핵무기를 만들기 위한 장애물을 넘고 또 넘으면서 등골이 빠졌습니다. 이런 상황은 아직 행적을 파악 못한 로버트 오펜하이머를 포함한 의기충만한 물리학자들과 핵전문가들의 부족에서부터 시작되었습니다. 다른 잠재적 후보들 몇몇은 해외의 평화를 위한 인류애 선언서에 서명하여 우리 계획에 반대한다고 선언했습니다. 따라서 부시는 산업 기술자들에게 전적으로 의존해야 했으며, 이 때문에 개발 기간도 늘어나게 되었습니다. 마침내 조지 키스티아코프스키의 많은 실험과 도움 후에 첫 원자폭탄의 실험이 진행되었습니다. 광범위한 안전 예방 조치로 인해 생기넘치는 실험은 인상적인 폭발이라는 결실을 맺었지만, 실험의 전반적인 과정과 그 결과에 대한 문서화는 부실했습니다."
 unionstate.103.a:0 "우리는 핵무력을 갖추었다"
 
 unionstate.104.t:0 "미국 통합"
@@ -857,8 +857,8 @@ TEX_DADDY_COLLINS_DESC:0 "§YGeneral Description\n§YBorn:§W May 1, 1896, in Ne
 TEX_COURTNEY_HODGES_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W 05 January, 1887, in Houston County, Georgia, United States of America\n§YMilitary Career:§W Courtney Hicks Hodges began his military career when he joined West Point in 1904, but was forced to drop out a year later due to his extremely poor academic performance. Undeterred, he enlisted in the army in 1906 as a private, where he quickly rose to the rank of sergeant in 1907 and earned a commission as a second lieutenant in 1909. He joined Pershing during the Punitive Expedition, where he met George S. Patton and George Marshall, and would remain in the Mexican border for the rest of the late 1910s, facing off several small skirmisher groups with the 6th Infantry Regiment. After being promoted to Major for his service at the border, he attended the Command and General Staff College, graduating in 1925 and becoming a member of the Infantry Board at Fort Benning. In 1934,  graduated from the Army War College, earning him his promotion to lieutenant colonel. With Patton and Marshall vocally opposing MacArthur, Hodges was forced to choose between either one of his friends in case the situation deteriorated. He chose the former, as Patton managed to sway Hodges into joining him in the AUS Army, where the now Field Marshal Patton has offered his friend Hodges an early promotion to Brigadier General."
 TEX_WILLIAM_SIMPSON_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W May 18, 1888, at Weatherford, Texas, United States of America\n§YMilitary Career:§W In June 1905, a month after turning 17, he entered the United States Military Academy at West Point, and graduated four years later in June 1909, being commissioned as a second lieutenant into the Infantry Branch. Simpson's first assignment was with the 6th Infantry Regiment at Fort Lincoln, North Dakota. Soon afterwards the regiment was sent overseas to Mindanao, in the Philippines, in January 1910 and remained there for another two-and-a-half years, where Simpson participated in the suppression of the Moro Rebellion. He returned to the United States with his regiment in 1912 and, being stationed at Fort Bliss, remained there as a company commander until, now promoted to first lieutenant, he fought in Pershing's Punitive Expedition in 1916. In February 1917 he became aide-de-camp to Major General George Bell, Jr., who commanded the El Paso Military District. Since 1919, Simpson has filled several staff appointments and attended military schools and courses and would be promoted in early 1921 to Captain. Simpson served with the General Staff until 1932 where he began teaching military science and tactics at Pomona College until 1936, being promoted to lieutenant colonel in 1934. As the country spiralled out of control, Simpson became more and more aligned with Huey Long's vision of America as time passed, and when Huey finally proclaimed the American Union State, Simpson presented his services to what he sees as the true American government. For his loyalty, Simpson was turned into a brigadier general."
 TEX_JACOB_DENVERS_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W 8 September 1887, in York, Pennsylvania, United States of America\n§YMilitary Career:§W Devers began his military career when Congressman Daniel F. Lafean offered him an appointment to the U.S. Military Academy at West Point in 1906 and graduated on 11 June 1909 as an artillery second lieutenant. Devers' first posting was to the 1st Battalion, 4th Mountain Artillery in Washington and for his next assignment in late 1912, Devers was sent back to West Point to teach mathematics. On 1 April 1916, he was promoted to first lieutenant and he was transferred to the newly activated 9th Field Artillery at the Schofield Barracks in Hawaii and promoted to Captain in early 1917. In May 1919, Devers was sent on a three-month temporary duty assignment to study the Weltkrieg in Europe. He attended the Preußische Kriegsakademie in Berlin to study the equipment and tactics used by both sides during the Weltkrieg. He was promoted to major on 1920 and he was later selected to attend the Command and General Staff School, graduating in 1925. He was then posted to Fort Sill as the director the Field Artillery School's Gunnery Department until 31 August 1929 where Devers was transferred to Washington, D.C., to serve on the staff of the Chief of Field Artillery. In 1932, he was chosen to attend the Army War College and graduated on June 1933. He was promoted to lieutenant colonel on 26 February 1934. With the country spiralling into Civil War, Devers found himself fighting more and more against his superiors inability to react to internal issues, starting a deep rivalry between him and Dwight Eisenhower, even putting him at odds with his old friend Leslie McNair. When Huey Long declared the Union State, Devers decided that MacArthur and his staff was a liability for America, and promptly volunteered for the AUS officer corp, where he was promoted to Field Marshall along with George Patton."
-TEX_WALTON_WALKER_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W December 3, 1889, in Belton, Texas, United States of America\n§YMilitary Career:§W 월튼 해리스 워커는 1907년 버지니아 군관 양성소에 입소한 뒤 1908년 미군 사관학교에 입학해 1912년에 보병 중위로 졸업했습니다. 워커는 텍사스 전역을 담당하는 주둔군으로 배치되었는데, 워커는 텍사스 주둔군으로서는 이례적으로 베라크루즈 원정에 참여했고, 멕시코 국경 순찰도 담당하게 되었습니다. 이 시기에 드와이트 아이젠하워와는 친구가 되었습니다. 1920년 이후 워커는 조지아 주 포트 베닝에서 교관으로 근무했고, 1925년 육군에서 추가적으로 전술 훈련을 받고, 1925년 육군사령부와 참모학교를 거쳐 1926년에 중령으로 진급하게 됩니다. 그는 1930년에 중국 천진에 있는 미국 공사관에서 근무했고, 1933년에는 미국으로 돌아와 육군전쟁학교를 다니다가 1936년 중반에 졸업했습니다. 미국의 내부 상황이 악화되자, 워커는 군부 회의 동안 패튼의 편을 들면서 사회주의자들에 대한 맥아더의 무반응에 대해 강하게 비판했습니다. 휴이 롱이 마침내 미주연합을 선언했을 때, 워커는 자신을 준장으로 진급시켜준 동료인 패튼과 함께 하기로 결정했습니다."
-TEX_MATTHEW_RIDGWAY_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W March 3, 1895, in Fort Monroe, Virginia, United States of America\n§YMilitary Career:§W 매튜 벙커 '올드 아이언 티츠' 리지웨이는 전년도에 실패했던 웨스트 포인트 입학시험에 1913년에 합격하면서 군 생활을 시작했고, 1917년에 보병 중위 계급으로 학교를 졸업했습니다. 리지웨이는 멕시코 국경에서 제3보병연대로 발령받아 순찰 임무를 맡았는데, 여기서 그는 대위 계급으로 승진했고 1920년에는 스페인어 교사로서 웨스트포인트 학교로 돌아왔습니다. 1925년, 미 육군 보병학교를 졸업한 리지웨이는 천진에 있는 미국 공사관에 파견되었고, 그 후 니카라과로 보내졌는데, 여기서 그는 1927년 선거를 감독하려 했던 미국 고문관이었습니다. 1930년에 그는 필리핀으로 파견되었고, 여기서 그는 필리핀 총독의 조언자가 되었고, 1933년에 소령으로서 미국으로 귀환하게 됩니다. 1935년에는 육군지휘학교와 참모학교를 졸업하였고, 내전이 발발하기 전에는 펜실베니아에 있는 육군전쟁학교에 다녔습니다. 그는 '노동자 민병대'에 의해 여러 번 당황하게 되었고, 서서히 연방정부에 대한 신뢰를 잃기 시작하면서 점점 극단주의자가 되어갔습니다. 마침내 휴이 롱이 미주연합을 선언했을 때, 리지웨이는 무정부상태의 미국을 구하기 위해 필요하다면 미주연합으로 떠나는 것이 최선이라고 결정했습니다. 그리고 미주연합에서 그는 준장으로 승진했습니다."
+TEX_WALTON_WALKER_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W December 3, 1889, in Belton, Texas, United States of America\n§YMilitary Career:§W 월튼 해리스 워커는 1907년 버지니아 군관 양성소에 입소한 뒤 1908년 미군 사관학교에 입학해 1912년에 보병 중위로 졸업했습니다. 워커는 텍사스 전역을 담당하는 주둔군으로 배치되었는데, 워커는 텍사스 주둔군으로서는 이례적으로 베라크루즈 원정에 참여했고, 멕시코 국경 순찰도 담당하게 되었습니다. 이 시기에 드와이트 아이젠하워와는 친구가 되었습니다. 1920년 이후 워커는 조지아 주 포트 베닝에서 교관으로 근무했고, 1925년 육군에서 추가적으로 전술 훈련을 받고, 1925년 육군사령부와 참모학교를 거쳐 1926년에 중령으로 진급하게 됩니다. 그는 1930년에 중국 천진에 있는 미국 공사관에서 근무했고, 1933년에는 미국으로 돌아와 육군전쟁학교를 다니다가 1936년 중반에 졸업했습니다. 미국의 내부 상황이 악화되자, 워커는 군부 회의 동안 패튼의 편을 들면서 사회주의자들에 대한 맥아더의 무반응에 대해 강하게 비판했습니다. 휴이 롱이 마침내 미주 연합을 선언했을 때, 워커는 자신을 준장으로 진급시켜준 동료인 패튼과 함께 하기로 결정했습니다."
+TEX_MATTHEW_RIDGWAY_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W March 3, 1895, in Fort Monroe, Virginia, United States of America\n§YMilitary Career:§W 매튜 벙커 '올드 아이언 티츠' 리지웨이는 전년도에 실패했던 웨스트 포인트 입학시험에 1913년에 합격하면서 군 생활을 시작했고, 1917년에 보병 중위 계급으로 학교를 졸업했습니다. 리지웨이는 멕시코 국경에서 제3보병연대로 발령받아 순찰 임무를 맡았는데, 여기서 그는 대위 계급으로 승진했고 1920년에는 스페인어 교사로서 웨스트포인트 학교로 돌아왔습니다. 1925년, 미 육군 보병학교를 졸업한 리지웨이는 천진에 있는 미국 공사관에 파견되었고, 그 후 니카라과로 보내졌는데, 여기서 그는 1927년 선거를 감독하려 했던 미국 고문관이었습니다. 1930년에 그는 필리핀으로 파견되었고, 여기서 그는 필리핀 총독의 조언자가 되었고, 1933년에 소령으로서 미국으로 귀환하게 됩니다. 1935년에는 육군지휘학교와 참모학교를 졸업하였고, 내전이 발발하기 전에는 펜실베니아에 있는 육군전쟁학교에 다녔습니다. 그는 '노동자 민병대'에 의해 여러 번 당황하게 되었고, 서서히 연방정부에 대한 신뢰를 잃기 시작하면서 점점 극단주의자가 되어갔습니다. 마침내 휴이 롱이 미주 연합을 선언했을 때, 리지웨이는 무정부상태의 미국을 구하기 위해 필요하다면 미주 연합으로 떠나는 것이 최선이라고 결정했습니다. 그리고 미주 연합에서 그는 준장으로 승진했습니다."
 TEX_BRUCE_CLARKE_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W April 29, 1901, in Adams, New York, United States of America\n§YMilitary Career:§W Bruce Cooper Clarke joined the National Guard in 1918, where he earned an appointment to the United States Military Academy in 1920. He graduated from West Point in 1925 as a second lieutenant of the engineer corps, and in the same year, he'd earn his civil engineering degree and a bachelor of laws degree, serving mostly on staff roles until he was promoted to Colonel in 1935. He had became one of Patton's trusted officers after the major splits within the American Army, and when Patton joined the American Union State, Clarke decided to follow him and for his loyalty he was awarded the rank of Brigadier General by Patton."
 TEX_HENRY_HODES_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W March 19, 1899, in Washington D.C., United States of America\n§YMilitary Career:§W Henry Irving Hodes began his military career when he joined the United States Military Academy, from where he graduated as a cavalry second lieutenant in 1920. After fulfilling a series of staff roles, mainly in Wyoming and Texas, he found himself strongly advocating for the mechanization of the American Army along with Patton, which due to the army budget cuts, it became nothing more than a pipe dream for them. As Patton began to slowly drift away from the US Army staff, Hodes strengthened his ties with the 'Old Blood and Guts', and when Patton finally announced he was joining the Union States, Hodes accompanied him and was promoted to Brigadier General."
 TEX_CLIFTON_CATES_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W August 31, 1893, in Tiptonville, Tennessee, United States of America\n§YMilitary Career:§W Clifton Bledsoe 'Lucky' Cates began his military career after graduating from the Missouri Military Academy in 1910 as a second lieutenant for the Marine Corps Reserves. His excellent performance in drills and his qualifications caught the attention of the then Brigadier General George Barnett, who took Cates as his aide-de-camp. Cates would serve with Barnett until 1923, where Cates, who was now a Captain, was assigned to command the Marine detachment in the USS Arizona. In 1928, he was transferred to the to the 4th Marine Regiment in San Diego which would be transferred to guard the American Legation in Shanghai. He returned to America in 1932, where he signed up for the Army Industrial College and the Senior Officer Course of the Marine Corps, graduating in 1935 and reaching the rank of Lieutenant Colonel. He'd return to Shanghai in 1936, but would take his leave in late March 1937. As the country spiralled into Civil War, Cates was visiting his family in Tennessee. Seeing the chaos in his hometown, which had been ravaged by a fire when he was young, Cates decided to join the American Union State and convinced his colleague Lewis Puller to join him, becoming a Brigadier General for the AUS Marine Corps, and along with 'Chesty' Puller, one of the most important Marine commanders of the American Union State."
