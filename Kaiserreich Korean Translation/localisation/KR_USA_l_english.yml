@@ -313,10 +313,10 @@ USA_join_germany_desc:0 ""
 USA_join_entente:0 "협상국 가입"
 USA_join_entente_desc:0 ""
 USA_join_canada_tech:0 "ISAC 가입"
-USA_join_canada_tech_desc:0 "우리는 ISAC에 가입하여 우리들의 과학적 전문지식을 더해야합니다."
+USA_join_canada_tech_desc:0 "우리는 ISAC에 가입하여 우리들의 과학적 전문지식을 보태야 합니다."
 USA_join_german_tech:0 "카이저 빌헬름 학회 가입"
-USA_join_german_tech_desc:0 "우리는 카이저 빌헬름 학회에 가입하여 우리들의 과학적 전문지식을 더해야합니다."
-USA_form_ant:0 "대서양 연방 구성"
+USA_join_german_tech_desc:0 "우리는 카이저 빌헬름 학회에 가입하여 우리들의 과학적 전문지식을 보태야 합니다."
+USA_form_ant:0 "대서양 연합 구성"
 USA_form_ant_desc:0 "Syndicalism tore the United States asunder, and while its foul stain has been exorcised from our own nation, its spectre still haunts the Caribbean. With the West Indies having fallen to its siren song, but Cuban and the Dominican Republic firmly under our influence, we should consider pushing for the two nations to unite as a bulwark against Syndicalism in the region."
 
 USA_reconstruction_decisions:0 "미국을 재건하자"
@@ -475,8 +475,8 @@ USA_american_caeser:0 "미국의 카이사르"
 USA_american_caeser_desc:0 "맥아더 대통령은 내전을 야기한 매우 당파적인 자들의 승리를 인정하지 않겠다고 선언했습니다. 맥아더가 공언한 것처럼 미국 군사정권은 국가적 차원의 민주주의 기능 복원과 적용을 약속합니다. 불필요한 정치인들을 제거하고 더 유능한 관료들을 임명하는 것은 국민과 정치인 사이의 격차를 줄일 것입니다."
 USA_army_education:0 "교련"
 USA_army_education_desc:0 "학부모 단체들은 기꺼이 자신들의 어린 자식들을 군에 입대시키겠다고 발벗고 나섰습니다. 우리의 해결책은 장래의 젊은이들을 공립학교에 머무르게 하면서 교련을 시키는 것입니다. 벨라미가 가르친 체육과 도덕적 사상에 대한 생각은 1910년대에 우리가 실패했던 오래된 국가주의에 대한 열망을 되살릴 것입니다."
-USA_nationalize_boy_scouts:0 "국가 보이스카우트"
-USA_nationalize_boy_scouts_desc:0 "더 높은 근로 연령 제한을 요구하는 동시다발적인 노력은 미국 전역에 흩어져 있는 실업 청년들의 어마어마한 숫자에 의해 좌절되었습니다. 이 문제의 해결책은 너무 어려서 투표를 할 수 없는 미국인들에게 일과 교육을 제공하기 위해 국가청년국을 설립하는 것입니다."
+USA_nationalize_boy_scouts:0 "국립청년단"
+USA_nationalize_boy_scouts_desc:0 "더 높은 근로 연령 제한을 요구하는 동시다발적인 노력은 미국 전역에 흩어져 있는 실업 청년들의 어마어마한 숫자에 의해 좌절되었습니다. 이 문제의 해결책은 너무 어려서 투표를 할 수 없는 미국인들에게 일자리와 교육을 제공하기 위해 국립청년단을 설립하는 것입니다."
 USA_the_american_legion:0 "재향군인회"
 USA_the_american_legion_desc:0 "현재 재향군인회장인 스메들리 버틀러는 탈주자이므로, 당파 정치의 오점을 제거하기 위해서라도 재향군인회를 재건하는 조치가 필요합니다. 더 이상 재향군인회장들이 정치인들을 위해 선거운동을 하는 것이 허락되지 않을 것이며, 또한 정치인의 재향군인회장의 겸직을 허용하지 않을 것입니다."
 USA_americanism:0 "국기에 대한 맹세"
@@ -577,7 +577,7 @@ USA_bastion_of_liberty:0 "자유의 보루"
 USA_bastion_of_liberty_desc:0 "The United States has returned to its leading position on the world stage, ready to spread democracy and freedom. Like our ancestors, we will strive to be a City on a Hill."
 USA_renegotate_trade:0 "무역 관계 개선"
 USA_renegotate_trade_desc:0 "Trade is the lifeblood of American industry, and many are wary of investing after the civil unrest that ripped apart our country. We need to convince other nations that they can do business with America again."
-USA_new_day_in_america:0 "미국에서의 새로운 날"
+USA_new_day_in_america:0 "미국의 새로운 개벽"
 USA_new_day_in_america_desc:0 "While we have been tried much over the last few years, we have emerged stronger than ever before. Democracy will not be taken away from us so lightly! We must ensure the rest of the world is free now too!"
 ### Military - Army ###
 USA_defend_america:0 "미국 방어"
@@ -961,12 +961,12 @@ ustates.47.t:0 "행정명령 7100호"
 ustates.47.d:0 "내무 장관에게 특정 광업회사들의 시설을 임시로 소유하고 운영하도록 지시\n\n공지가 곧 공익이라는 믿음은 대부분의 좌익 정당에 필수적이며, 광업회사가 공지를 명백히 남용하는 것은 오랫동안 환경에 대한 깊은 고뇌의 원인이었습니다. 리드 내각 대부분에게는 민간 광간업체들이 대중의 요구와 자신들의 탐욕의 균형을 맞추지 못할 것이 분명했으며, 아직 행정명령 7089호에 대한 재판이 진행 중인 스탠다드 오일을 포함해 시추 및 광업회사를 국유화하기로 했습니다. 이는 많은 사람들에게 정치적 경쟁자에 대한 정당하지 않은 공격으로 여겨졌고, 리드가 미국을 프랑스 코뮌이나 브리튼 연방 같은 생디칼리즘 국가로 만들고 싶어한다는 것을 더욱 확신시켜 주었습니다."
 ustates.47.a:0 "미국의 자원을 인민에게로!"
 
-ustates.48.t:0 "국회를 쫓아내다"
+ustates.48.t:0 "사법부 개편"
 ustates.48.d:0 "리드가 대중 앞에서는 스탠다드 오일 대 폴 매틱 재판에 대한 아무런 걱정도 내비치지 않았지만, 행정부는 보수 성향의 대법원이 7대 2의 판결로 자본가들의 손을 들고 이미 시행된 모든 개혁을 되돌릴 것을 우려하고 있습니다. 리드는 링컨의 남북 전쟁 중 법원 재구성을 전례로 인용하면서, 상원 다수당 대표에게 사법 지명자에 대한 의사진행 방해물을 제거해 줄 것을 요청했고 대법원의 규모를 15명으로 늘렸습니다. 이는 6명의 친사회주의 성향 대법관들을 사법부에 임명하여 행정명령이 곧 헌법이 되게끔 하려는 것임이 분명합니다. 이는 전국적으로, 심지어 지금까지 중립을 유지했거나 리드를 지지했던 좌익 성향의 농부, 노동자와 진보당에게서도 격렬한 항의를 불러일으켰습니다."
-ustates.48.a:0 "우리는 어떤 값을 치르지든지간에 노동자들을 보호해야 한다"
+ustates.48.a:0 "어떤 대가를 치르더라도, 노동자들을 보호해야만 한다"
 
 ustates.49.t:0 "혼돈과 폭력사태가 번지다"
-ustates.49.d:0 "리드의 법원 재구성 직후, 롱은 리드에게 공격적인 태도를 보이며 무장 봉기를 요구하기로 했습니다. 모든 카운티와 주, 특히 남부에서 리드의 행정명령을 법으로 받아들이기를 거부했으며 사회당과 제일당 준군사단체 간의 대규모 유혈 충돌이 보고되었습니다. 질서가 회복되지 않으면, 이 나라는 내전에 휩싸일 것입니다."
+ustates.49.d:0 "리드의 법원 재구성 직후, 롱은 리드를 격렬히 비난하며 무장 봉기를 호소했습니다. 모든 카운티와 주, 특히 남부에서 리드의 행정명령을 법으로 받아들이기를 거부했으며 사회당과 제일당 준군사단체 간의 대규모 유혈 충돌이 보고되었습니다. 질서가 회복되지 않으면, 이 나라는 내전에 휩싸일 것입니다."
 ustates.49.a:0 "노동자들의 질서가 반드시 확립되어야 한다"
 
 ustates.50.t:0 "미닛맨과 경찰간의 충돌"
@@ -983,7 +983,7 @@ ustates.52.t:0 "롱의 취임식"
 ustates.52.d:0 "미국의 사회적 문제들은 미국민들이 보다 급진적인 해결책으로 눈을 돌리게 했습니다; 양당 체제가 무너졌고, 휴이 P. 롱과 윌리엄 렘케는 각각 미국의 31대 대통령과 부통령으로 취임할 예정입니다. 롱은 워싱턴에서 열린 감동적인 연설에서 국민의 이익을 옹호하고 미국 서민들의 이익을 다른 누구보다 우선시하겠다고 약속했습니다. 그러나 의회에서의 제일당이 다수를 차지하지 못한 것은 상원에서 의미 있는 법안을 통과시키는 것이 - 특히 사회당 상원의원들이 미국에 해로운 것으로 보이는 어떤 법이라도 의사진행 방해하겠다고 공언하면서 - 어렵다는 것을 의미합니다."
 ustates.52.a:0 "하느님이 미국을 보우하사"
 
-ustates.53.t:0 "행정명령 7037호 상무장관에게 농업 구호를 지시"
+ustates.53.t:0 "행정명령 7037호 - 상무장관에게 농업 구호를 지시"
 ustates.53.d:0 "롱의 첫 번째 행동은 미국 농민들에게 구호를 제공하는 것이었고, 따라서 상무부 장관이 이 행정명령을 수행했습니다. 이 명령은 농산물에 대한 가격 통제를 시행하고, 농부들에게 보조금을 제공하고, 여러 곡물에 대해 관세를 부과합니다. 롱은 상원에서 벌어지고 있는 필리버스터를 타개하기 위해 기다리는 것을 주저하지 않고 전국에서 벌어지고 있는 폭력적인 갈등에 대해 언급하며 의회를 무시하고 행정명령을 완전히 통과시켰습니다. 전국의 농부들이 기뻐하는 동안, 많은 사람들은 행정명령을 행정부의 폭정이라고 비난합니다."
 ustates.53.a:0 "승인한다"
 
@@ -1032,7 +1032,7 @@ ustates.63.a:0 "공화국, 맥아더 그리고 민주주의에 충성을 다하�
 
 ustates.64.t:0 "플로이드 B 올슨의 취임식"
 ustates.64.d:0 "선거 후, 올슨은 국가를 언급했습니다. 올슨은 이 어려운 시기에는 인내와 정중함이 필요하다고 하며 모든 미국인들은 국가가 직면한 어려움을 극복하기 위해 단합해야 한다고 말했습니다. 위암이 완쾌되었다는 소식을 듣고 다시 활기를 되찾은 올슨은 경제를 되살리고, 국가의 형재애를 복원하고, 어떤 필요에서건 정치적 폭력을 막겠다는 약속을 지키기 위해 사회주의자와 강경론자의 항의를 뚫고 백악관으로 대담하게 진출했습니다. 나머지 사람들이 이 말을 경청할 지의 여부는 또 다른 얘기입니다."
-ustates.64.a:0 "미국은 나눌 수 없는 단일국이다!"
+ustates.64.a:0 "미국은 나뉘어지지 않는 단일 국가다!"
 
 ustates.65.t:0 "올슨이 리드의 파업에 대처하다"
 ustates.65.d:0 "Ending the strike that was launched by the CSA was one of the first priorities of the new President. Olson considered negotiation to be the best alternative but many believed a strong approach was necessary. Olson's cabinet, however, sees negotiations as political suicide, as the coalition was formed partially in order to bypass having to directly deal with the IWW."
@@ -1040,16 +1040,16 @@ ustates.65.a:0 "협상이 먼저다."
 ustates.65.b:0 "협상은 의미없다"
 
 ustates.66.t:0 "올슨과 리드가 시카고에서 대담하다"
-ustates.66.d:0 "올슨과 리드는 시카고에서 어느 정도의 타협을 위해 서로 대면했습니다. 노동연맹 민병대들과 미 육군에 의해 협상장은 강제적으로 무장해제되었습니다. 리드와 노동연맹은 미국 노조의 노사관계를 급격히 변화시키기를 원하기에 협상은 결코 쉽지 않을 것입니다. 그러나 올슨은 끈기있게 협상에 임해 파업이 끝나기를 바랍니다."
+ustates.66.d:0 "올슨과 리드는 시카고에서 어느 정도의 타협을 위해 서로 대면했습니다. 협상장에 참석한 모든 이들은 노동연맹 민병대와 미 육군에 의해 강제로 무장을 해제당했습니다. 리드와 노동연맹은 미국 사회의 노사관계를 철저히 갈아엎기를 원하기에 협상은 결코 쉽지 않을 것입니다. 그러나 올슨은 끈기있게 협상에 임해 파업이 끝나기를 바랍니다."
 ustates.66.a:0 "아마도 여기에 모두의 희망이 있을 것이다"
 
 ustates.67.t:0 "롱이 회담에 동석을 요구하다"
-ustates.67.d:0 "휴이 롱은 올슨이 미국민들을 팔아먹지 않도록 감시하기 위해 리드와의 협상에 미국 제일당이 참여해야 한다고 요구했었습니다. 올슨은 처음에는 롱이 노동연맹에 파견된 대표단의 구성원이 아니었기 때문에 거절했지만, 그의 참여를 거부한다면 롱이 회담장을 나서는 순간 그의 신변에 대한 위협이 있을지도 모릅니다. 롱 총재의 존재는 분명 협상에 부정적인 영향을 미칠 것이며 심지어는 협상을 무산시킬 수 있습니다."
+ustates.67.d:0 "휴이 롱은 올슨이 미 국민들을 팔아먹지 않도록 감시하기 위해 리드와의 협상에 미국 제일당이 참여해야 한다고 요구했었습니다. 올슨은 처음에는 롱이 노동연맹에 파견된 대표단의 구성원이 아니었기 때문에 거절했지만, 롱의 참여를 거부한다면 올슨이 회담장으로 나서는 순간 그의 신변에 대한 위협이 있을지도 모릅니다. 휴이 롱이라는 존재는 협상에 부정적인 영향을 미칠 것이 자명하고, 심지어는 그에 의해 협상이 아예 무산되어버릴 가능성도 있습니다."
 ustates.67.a:0 "동석을 허락한다"
 ustates.67.b:0 "롱과는 볼일이 없다"
 
 ustates.68.t:0 "리드가 올슨에게 요구사항을 제시하다"
-ustates.68.d:0 "리드는 협상에서 많은 요구를 하고 있습니다. 그는 인간적인 삶을 살아가기 위한 최저임금과 주 40시간 근무제가 즉시 의회의 승인을 받아야 한다고 요구했습니다. 또한 리드는 실업자들을 위한 연방 후원 복지 시스템을 구축과 정부가 노조에 더 많은 권한을 줄 것도 요구합니다."
+ustates.68.d:0 "리드는 협상에서 많은 요구를 하고 있습니다. 그는 인간적인 삶을 살아가기 위한 최저임금과 주 40시간 근무제가 즉시 의회의 승인을 받아야 한다고 요구했습니다. 또한 리드는 실업자들을 위한 연방 차원의 복지체계를 구축하고 정부가 노조에 더 많은 권한을 줄 것도 요구합니다."
 ustates.68.a:0 "리드의 요구를 전부 받아들여라"
 ustates.68.b:0 "리드의 개혁안 중 일부를 시행하라"
 
@@ -1058,14 +1058,14 @@ ustates.69.d:0 "휴이 롱과 미국 제일당은 협상에 임한 대통령이 
 ustates.69.a:0 "망할 롱"
 
 ustates.70.t:0 "롱이 개혁안에 대해 항의하다"
-ustates.70.d:0 "롱은 개혁안이 미국의 근본에 대한 공격이라고 주장합니다. 제일당은 협상장에서 대통령을 끌어내라는 압력을 가하기 위해 남부에서 대규모 시위를 시작했습니다. 올슨은 이미 리드와의 협상이 끝날 때까지 롱에게 대응하지 말라고 조언받았습니다."
+ustates.70.d:0 "롱은 개혁안이 미국의 근본에 대한 공격이라고 주장합니다. 제일당은 협상장에서 대통령을 끌어내라는 압력을 가하기 위해 남부에서 대규모 시위를 시작했습니다. 이에 올슨은 리드와의 협상이 끝날 때까지는 롱에게 대응하지 말라고 지시했습니다."
 ustates.70.a:0 "롱의 의견을 받아들인다"
 ustates.70.b:0 "개혁안에 대해 우리가 보증함을 롱에게 알려줘라"
 
-ustates.71.t:0 "리드가 올슨을 구라쟁이 역적이라 비난하다"
+ustates.71.t:0 "리드가 올슨을 기만자 역적이라 비난하다"
 ustates.71.d:0 "After giving into Long, to appease the America First, Olson has finally alienated Reed and the CSA. Reed no longer trusts the President and believes he is using his position to put America First into a dominant position."
 ustates.71.a:0 "롱을 내쫓아라, 우리는 노동연맹이 필요하다."
-ustates.71.b:0 "롱을 냅둬라, 그는 노동연맹보다 중요하다."
+ustates.71.b:0 "롱을 내버려 둬라, 그가 노동연맹보다 중요하다."
 
 ustates.72.t:0 "총파업이 퍼지다"
 ustates.72.d:0 "The lack of response by the Olson administration allowed the General Strike to move to more cities. A divided St. Louis is now wracked by strikes and the level of violence was increasing."
@@ -1096,33 +1096,33 @@ ustates.77.b:0 "두 사람과 타협을 시도해 보자"
 
 ustates.78.t:0 "롱이 회담장에서 강제적으로 쫓겨나다"
 ustates.78.d:0 "After Long was removed from the original meeting, he had returned and forced his way into the meeting hall. He demanded to be re-involved with the negotiations and accused Olson of selling out America to the syndicates. Olson had no choice but to have Long physically removed from the meeting."
-ustates.78.a:0 "야만인새끼!"
+ustates.78.a:0 "야만인 같은 새끼!"
 
-ustates.79.t:0 "시카고에서 미국 제일당원이 노동연맹을 공격하다"
+ustates.79.t:0 "시카고에서 미국 제일당원들이 노동연맹을 공격하다"
 ustates.79.d:0 "After Long had been forcibly removed from the meeting, an America First group calling themselves the Minutemen attacked the CSA party involved in the negotiations. An impromptu battle erupted as armed Minutemen and CSA groups clashed. The President was forced to leave the meeting and with him went any hope for a peaceful conclusion."
-ustates.79.a:0 "롱이 평화를 망쳤군!"
+ustates.79.a:0 "롱이 평화를 망쳐버렸군!"
 
 ustates.80.t:0 "리드가 회담장을 박차고 나가다"
-ustates.80.d:0 "회의에 참석한 두 남자 모두를 붙들려는 올슨의 시도는 롱 진영이 CSA 노동자를 공격하면서 무산되었습니다. 도시는 공격 사태에 대한 항의로 폭발했고 리드는 회담장을 박차고 나갔습니다. 리드는 대통령의 노력에 대해 찬사를 보냈지만, 그는 롱을 대처할 수는 없었습니다. 리드가 회의를 떠날 때 CSA 민병대 무장단체들이 미국 제일당원들을 공격하기 시작했고 롱은 도시에서 철수해야 했습니다."
+ustates.80.d:0 "회의에 참석한 두 남자 모두를 붙들려는 올슨의 시도는 롱 진영이 CSA 노동자를 공격하면서 무산되었습니다. 도시는 공격 사태에 대한 항의로 폭발했고 리드는 회담장을 박차고 나갔습니다. 리드는 대통령의 노력에 대해 경의를 표했지만, 중요한 것은 올슨이 롱을 제어할 수 없었다는 것입니다. 리드가 회담 장소를 떠나자마자, CSA 민병대 무장단체들이 미국 제일당원들을 공격하기 시작했고 롱은 도시에서 철수할 수 밖에 없었습니다."
 ustates.80.a:0 "망할 놈들!"
 
 ustates.81.t:0 "맥아더가 롱 암살을 제안하다."
-ustates.81.d:0 "맥아더는 오늘 대통령을 개인적으로 만나 충격적이고 불법적인 휴이 롱 암살 제안을 내놓았습니다. 미국 제일당 내 스파이들의 보고에 따르면, 그의 카리스마 넘치는 지도력 없이는 당 전체가 분열될 것이며, 그것이 광범위한 폭동으로 이어질 수도 있지만, 시간이 지날수록 폭동이 약해질 것이라는 점에서 조직적인 반란보다는 확실히 더 나아 보입니다. 그러나 대통령의 측근들은 이것이 정치에서 경쟁자들을 상대하는 데 있어서 치명적인 선례가 될 수 있기 때문에 이 제안을 받아들이지 말라고 경고합니다."
+ustates.81.d:0 "맥아더는 오늘 대통령을 개인적으로 만나 충격적이고 불법적인 휴이 롱의 암살을 제안했습니다. 미국 제일당 내 스파이들의 보고에 따르면, 그의 카리스마 넘치는 지도력 없이는 당 전체가 분열될 것이며, 그것이 광범위한 폭동으로 이어질 수도 있지만, 시간이 지날수록 폭동이 약해질 것이라는 점에서 조직적인 반란보다는 확실히 더 나아 보입니다. 그러나 대통령의 측근들은 이것이 정치에서 경쟁자들을 상대하는 데 있어서 치명적인 선례가 될 수 있기 때문에 이 제안을 받아들이지 말라고 경고합니다."
 ustates.81.a:0 "암살을 시행하라."
 ustates.81.b:0 "너무 위험한 발상이다."
 
-ustates.82.t:0 "휴이 롱 암살 시도!"
+ustates.82.t:0 "휴이 롱 암살기도!"
 ustates.82.d:0 "정오가 되기 직전 애틀랜타에서 휴이 롱은 루이지애나 주 청사 앞에서 연설을 하고 있었습니다. 그러나 갑자기 그의 연설은 무대 바깥쪽에서 들린 여러 발의 총성으로 인해 중단되었습니다."
 ustates.82.a:0 "휴이 롱이 죽었다!"
 ustates.82.b:0 "휴이 롱이 기적적으로 살아남았다!"
 
-ustates.83.t:0 "휴이 롱 사망!"
-ustates.83.d:0 "루이지애나 주 출신의 상원의원이자 개혁자인 대중 선동가는 죽었습니다. 휴이 롱의 죽음과 함께 애틀랜타는 빠르게 폭동과 저항의 물결에 휩싸였습니다. 그러나 미닛맨들은 주방위군에게 항복하기 시작했습니다."
-ustates.83.a:0 "이거 무시무시하구만, 그러나 적어도 내전은 일어나지 않겠지."
+ustates.83.t:0 "휴이 롱의 사망!"
+ustates.83.d:0 "루이지애나 주 출신의 상원의원이자 개혁자인 대중 선동가는 죽었습니다. 휴이 롱의 죽음과 함께 애틀랜타는 빠르게 폭동과 저항의 물결에 휩싸였습니다. 그러나 얼마 지나지 않아 미닛맨들은 주방위군에게 항복하기 시작했습니다."
+ustates.83.a:0 "살벌하군, 그래도 최소한 내전은 피했다."
 
 ustates.84.t:0 "마침내 찾아온 평화!"
 ustates.84.d:0 "미국 제일당이 정치적 무력에 의해 무너지고 생디칼리스트 연맹이 우리의 개혁에 만족하면서, 이 나라의 정치적 위기는 지나간 것 같아 보입니다. 세상은 여전히 위험한 곳이고 우리는 외교 문제에 대해 언젠가는 결정을 내려야 합니다. 하지만 현재로서는 우리는 한숨 돌릴 여유는 있습니다."
-ustates.84.a:0 "하느님이 미국을 보우하사!"
+ustates.84.a:0 "미국 만세!"
 
 ### Garner Path ###
 
@@ -1135,7 +1135,7 @@ ustates.87.d:0 "Since Garner's election, the CSA with the support of Reed and th
 ustates.87.a:0 "Federal involvement is necessary."
 ustates.87.b:0 "Federal involvement is not necessary."
 
-ustates.88.t:0 "러스트 벨트 지역의 긴장"
+ustates.88.t:0 "러스트벨트 지역의 긴장"
 ustates.88.d:0 "As National Guardsmen arrived in the North to end the strike, tension remained high. Many of the various mayors and even governors were not just supportive of the Strike but actively helping it. Consequently, they strongly opposed the use of the National Guard. The strikers began to taunt the guards and have even assaulted scab workers. It is clear a single spark can set off the North. Yet President Garner remained undeterred by this and declared on the radio that the strike must end for the good of the nation, with the unsaid implication that force is going to be used if it doesn't."
 ustates.88.a:0 "내가 보장하건대 파업은 끝날 것이다"
 
@@ -1179,7 +1179,7 @@ ustates.97.a:0 "You're both full of it!"
 
 ustates.98.t:0 "군대와 미닛맨이 충돌하다"
 ustates.98.d:0 "When the Army arrived in St. Louis they were attacked by the Minutemen who refused to comply with the Presidential decree. The exchanges lasted for a few days but the army was able to remove the Minutemen. Long denounced the action as being barbaric and Garner doing the work of Reed and the syndicalists."
-ustates.98.a:0 "젠장할 롱, 젠장할 미닛맨"
+ustates.98.a:0 "젠장할 롱, 젠장할 미닛맨들!"
 
 ### Alf Landon Path ###
 
@@ -1201,7 +1201,7 @@ ustates.104.a:0 "나는 리드 네놈과는 다르게 그 누구를 위해서 �
 
 ustates.105.t:0 "휴이 롱이 랜던을 썩어빠졌다고 비난하다"
 ustates.105.d:0 "Huey Long has called Landon on the radio a corrupt politician in Standard Oil's pocket. Long spoke about how Landon only cared for the rich and the monopolies that oppress true Americans. Huey Long also made sure to remind the people that by all rights that he should be president and that he would have fixed this crisis already. Landon has choosen to respond to Long while giving an interview to the newspapers"
-ustates.105.a:0 "I am not Rockafeller, Long!"
+ustates.105.a:0 "난 록펠러가 아니라네, 롱!"
 
 ustates.106.t:0 "롱과 리드를 만나다"
 ustates.106.d:0 "In response to the ongoing crisis, Alf Landon's Secretary of Commerce has proposed to meet down with both Huey Long and Jack Reed and try to get some sort of compromise. However some within the Republican party are saying that this plan of action will not work, and dealing with them at all will only debase the party line."
@@ -1210,7 +1210,7 @@ ustates.106.b:0 "회의를 소집하라"
 
 ustates.107.t:0 "롱과 리드가 논쟁하다"
 ustates.107.d:0 "Both Long and Reed had contradictory views and this led to heated arguments between both the men. The President did his best to keep the occasion as civil as he could but both men were very vocal in their dislike for each other. Reed had threatened to leave the table if Long was not removed."
-ustates.107.a:0 "리드 말이 맞다, 롱은 나가라"
+ustates.107.a:0 "리드의 말이 맞다, 롱은 나가라"
 ustates.107.b:0 "싸우지 말고 타협시키도록 노력한다"
 
 ustates.108.t:0 "롱이 회담장에서 강제로 쫓겨나다"
@@ -1291,9 +1291,9 @@ ustates.125.d:0 "With the civil war over and reconstruction now underway, the qu
 ustates.125.a:0 "생디칼계열 노조만 금지한다"
 ustates.125.b:0 "모든 노조를 금지한다"
 
-ustates.126.t:0 "육군이 인종 차별 철폐가 늦다"
+ustates.126.t:0 "육군의 인종 차별 철폐가 지지부진해지다"
 ustates.126.d:0 "After the President signed a law to desegregate the Armed Forces, it seems that it is taking more time then expected to fully desegregate. There are still black only and white only regiments and several officers are determined to keep things separate. Despite the slowness, things are improving as more and more units are desegregating. Still, Progress is slow."
-ustates.126.a:0 "인종 차별 철폐가 멈추어선 안 된다"
+ustates.126.a:0 "인종 차별 철폐는 멈추어선 안 된다"
 
 ustates.127.t:0 "붉은 공포"
 ustates.127.d.macarthur:0 "Since MacArthur has taken power he has begun a campaign against socialism, anarchism, and syndicalism. They are after all the main instigators of the civil war and as such all Americans must know the role that they played in the conflict and as such as the so-called 'red scare' begins many are being forced out of jobs and are being blacklisted."
@@ -1337,7 +1337,7 @@ ustates.134.b:0 "가게 놔둬라"
 ustates.135.t:0 "맥아더로부터의 피난민들"
 ustates.135.d.let_go:0 "As expected, the tyrant known as Douglas MacArthur has refused to give up his grip on power. As such a large wave of Americans are making their way to the west where they will find a new life out of the shadow of a tyrant. Moreover, military leaders believe that we shall be able to make use of this intel and use it against MacArthur."
 ustates.135.d.army:0 "As expected, the tyrant known as Douglas MacArthur has refused to give up his grip on power A wave of migrants and refugees have come westward to the true United States. While we and our special services have done what we could to bring them across the Rockies, MacArthur used his army upon many of them massacring them like the butcher that he is. However, this has only fueled people's desire to get revenge against the tyrant in the east."
-ustates.135.a:0 "진정한 미국에 오신것을 환영합니다"
+ustates.135.a:0 "진정한 미국에 온 것을 환영한다"
 
 ustates.136.t:0 "임시 대통령"
 ustates.136.d:0 "현재 민주주의가 회복됐으니, 누가 다음 선거 때까지 국가의 지도자가 될 것인가 하는 의문이 남아있습니다. 맥아더는 그 역할을 맡을 수 있는 사람으로 쿠엔틴 루즈벨트, 웬델 윌키, 존 낸스 가너를 골랐습니다. 의회는 누구를 선택할까요?"
@@ -1469,11 +1469,11 @@ ustates.160.a:0 "그리울 것이다"
 
 ustates.161.t:0 "볼더 댐 완공"
 ustates.161.d:0 "'오늘 아침 나는 이 어마무시한 광경을 보고 압도당했습니다. 모든 사람들은 인류의 위대한 업적을 처음으로 목도하게 될 것입니다. 우리가 모인 이 곳은 10년 전까지만 해도 희박한 사막이었습니다. 우중충한 절벽이 천 피트 이상의 높이로 솟아오른 어두운 협곡의 바닥에는 난기류를 타고 위험한 강이 흐르고 있었습니다. 협곡 양쪽에 있는 산들은 도로나 철도로 접근이 불가능했고, 작렬하는 태양으로 인해 나무나 풀은 자라나지 못했습니다. 볼더 시의 부지는 선인장으로 뒤덮인 쓰레기장이었습니다. 최근 몇 년간 이곳에서 이루어진 일련의 일들은 20세기 들어 가장 경이로운 변화일 것입니다 .' 이렇게 시작된 쿠엔틴 루즈벨트의 연설은 마침내 오늘 완성된 볼더 댐의 건설을 기념하고 있습니다."
-ustates.161.a:0 "...국민를 대표하여 '잘했다'고 말하고 싶다"
+ustates.161.a:0 "...국민들을 대표하여 '잘했다'고 말하고 싶다"
 
 ustates.162.t:0 "노변담화"
 ustates.162.d:0 "쿠엔틴 루즈벨트는 최근에 라디오 방송으로 페어딜의 진전과 이 정책이 대공황으로부터 나라를 재건하는데 어떻게 도움을 주고 있는지에 대해 국민들에게 직접적으로 알려주기 시작했습니다. 노변담화는 매우 인기를 끌었으며, 이로 인해 종종 인기있는 라디오 프로가 생략되기도 했습니다. 이런 루즈벨트의 행보는 그를 미국 내에서 가장 인기 있는 사람으로 만드는 데 도움을 주었습니다."
-ustates.162.a:0 "친애하는 미국민들이여"
+ustates.162.a:0 "친애하는 미 국민 여러분"
 
 ustates.163.t:0 "Amelia Earhart Circumnavigates Globe"
 ustates.163.d:0 "The famous aviator Amelia Earhart, known to many as the 'Queen of the Air,' has completed a flight around the world together with her navigator Fred Noonan.\n\nAfter a brief scare when the pair temporarily got lost while approaching Howland Island in the Pacific, the flight proceeded without incident and this morning their Lockheed Electra touched down in Oakland, California.\n\nA ceremony is to be held in the White House next week, where Earhart is to be personally congratulated for her feat by the President."
