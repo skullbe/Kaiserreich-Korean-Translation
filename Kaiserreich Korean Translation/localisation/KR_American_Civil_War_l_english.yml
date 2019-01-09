@@ -291,8 +291,8 @@ amcivwar.40.a:0 "첩보활동위원회가 만들어질 것이다!"
 amcivwar.40.b:0 "지금으로서는 중요하지 않다."
 
 amcivwar.41.t:0 "적색 테러"
-amcivwar.41.d:0 "War is hell. Civil war, even more so. The psychological strain caused by having to repeatedly kill, even if the enemy are capitalists, has caused some of our soldiers and commanders to become sadistic beyond what some consider to be acceptable. Although not commonplace, reports of systematic mass executions and torture are being reported from both the front lines and core territories to suppress populations suspected of aiding the capitalist factions. Reed has made an executive decision to supress these reports from the free media. 'If the revolution were to fail because a few bad apples', says Reed 'then humanity would collectively suffer for centuries longer'."
-amcivwar.41.a:0 "This is the final conflict, after all"
+amcivwar.41.d:0 "전쟁은 지옥이고 내전은 특히 더 지옥같습니다. 비록 적이 자본가이기는 하지만, 이들을 반복적으로 죽여야 하는 것에 의해 야기된 정서적 불안은 우리 군인과 지휘관들을 비정상적으로로 가학적이게 만들었습니다. 자본주의자들을 돕는 것으로 의심되는 인물들을 억압하기 위해 최전선과 핵심 지역에서 집단 처형과 고문이 조직적으로 이루어졌다는 보고가 심심치 않게 들려오고 있습니다. 리드 의장은 이런 보고들이 언론을 통해 보도되는 것을 막기로 결정했습니다. "만약 몇몇 미꾸라지들 때문에 혁명이 실패한다면 인류는 수세기 동안 총체적인 고난을 겪을 것이다."라면서 말입니다."
+amcivwar.41.a:0 "모두를 위한 최후의 투쟁을 위하여"
 
 amcivwar.42.t:0 "중앙 위원회 지시 #1398: CCD 64 개정안, 최소 징병 연령 관리"
 amcivwar.42.d:0 "The war is not going our way. The detestable capitalists have pushed back our forces on all fronts, and we are in danger of running out of troops to man the guns we have. Desperate times require desperate measures, and one proposal, by William Z. Foster that has caused controversy is the proposal to lower the conscription age to 11. While this would provide us with the manpower needed to fight the revolution, quite a number of members of the Central Committee have expressed horror at this drastic measure."
@@ -644,13 +644,13 @@ amcivwar.200.d:0 "내전이 미국을 황폐화시켰고, 이제는 휴전을 �
 amcivwar.200.a:0 "덴버에서 회동하자"
 amcivwar.200.b:0 "휴전할 가치가 없다"
 
-amcivwar.201.t:0 "덴버에서의 휴전 회담"
+amcivwar.201.t:0 "덴버에서의 휴전회담"
 amcivwar.201.d:0 "[survivor.GetNameDef] 및 [CAL.GetNameDef] 간의 전쟁이 장기화됨에 따라, 휴전에 대해서 양측 고관 사이에 대화가 오갔습니다. [survivor.GetAdjective] 정부가 어느 정도의 추진력을 가지고 있는지는 알 길이 없지만, 휴전 제안이 [survivor.GetAdjective]의 결단에 의한 것만은 확실합니다. 2-3일 후에는 어떻게든지 대화의 결실이 나올 것입니다."
 amcivwar.201.a:0 "흥미로운 제안이군?"
 
 amcivwar.202.t:0 "제안"
-amcivwar.202.d:0 "After two days of talks, army officials have put together a proposal: any states west of the Mississippi River which are currently occupied by [CAL.GetAdjective] forces would be ceded to [CAL.GetNameDef], with some gaps filled in on the map - though nothing they can't properly supply. The rest would be ceded to [survivor.GetNameDef]. Outside of that, there are no guarantees and no talk of actual peace... eventually there will be a reckoning. Both sides simply call for hostilities to stop for now, for damage to be assessed, and for the living to take a much-needed breath."
-amcivwar.202.a:0 "This will do"
+amcivwar.202.d:0 "이틀간의 협상 끝에 양측 고관들은 현재 시점에서 힘의 공백이 생겨 [CAL.GetAdjective] 군대가 점령하고 있는 미시시피강 서쪽의 주는-저들이 제대로 보급받을 수 없다는 판단 하에-[CAL.GetNameDef]에게 양도한다는 합의에 도달했습니다. 미시시피강의 서쪽을 제외한 나머지 주는 [survivor.GetNameDef]의 소유가 될 것입니다. 이 합의에는 실체적인 평화에 대한 별다른 협의나 보장은 없습니다... 결국 언젠가는 서로 영혼의 한타를 쳐야만 할 것입니다. 그러나 현재 양측은 단순히 적대행위의 중단, 피해범위의 산정 그리고 생존자의 구제를 위한 시간이 필요하다고 주장합니다."
+amcivwar.202.a:0 "합의대로 하자"
 amcivwar.202.b:0 "너무 많은 걸 요구하는군!"
 ACW_agree_proposal:0 "동의 못할 이유가 없다"
 ACW_we_will_try_again:0 "다시 협의해보자..."
@@ -660,11 +660,11 @@ amcivwar.203.d:0 "아마도 휴전은 처음부터 기대하기 힘든 것이었
 amcivwar.203.a:0 "너무 많은걸 바랬군"
 
 amcivwar.204.t:0 "[ACW_ceasefire_name]"
-amcivwar.204.d:0 "Talks with [CAL.GetNameDef] have concluded, and the ceasefire is going ahead. Already our troops are pulling back to the eastern side of the new border. How long this will last remains to be seen."
+amcivwar.204.d:0 "[CAL.GetNameDef]과의 합의가 이루어짐에 따라 이제 우리와 저들은 휴전상태입니다. 이미 우리 군대는 동부의 새 경계선으로 철수하고 있습니다. 물론 휴전이 얼마나 오래 지속될지는 두고봐야 합니다."
 amcivwar.204.a:0 "지금 당장은 평화가 왔군"
 
 amcivwar.205.t:0 "[ACW_ceasefire_name]"
-amcivwar.205.d:0 "Talks with [From.GetNameDef] have concluded, and the ceasefire is going ahead. Already our troops are pulling back to the western side of the new border. How long this will last remains to be seen."
+amcivwar.205.d:0 "[From.GetNameDef]과의 합의가 이루어짐에 따라 이제 우리와 저들은 휴전상태입니다. 이미 우리 군대는 동부의 새 경계선으로 철수하고 있습니다. 물론 휴전이 얼마나 오래 지속될지는 두고봐야 합니다."
 amcivwar.205.a:0 "지금 당장은 평화가 왔군"
 
 amcivwar.206.t:0 "[ACW_ceasefire_name]"
