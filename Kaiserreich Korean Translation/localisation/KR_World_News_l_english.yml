@@ -26,7 +26,7 @@ worldnews.5.d:0 "세계대전은 전세계에서 셀 수도 없이 많은 젊은
 worldnews.5.a:0 "전쟁은 지옥이다."
 
 worldnews.6.t:0 "다모클레스 프로젝트"
-worldnews.6.d:0 "독일의 스파이들은 최근 제3인터내셔널의 회원국들이 후원하는 연구 및 개발 프로그램의 서류를 적발했습니다. '다모클레스 프로젝트'로 명명된 이 계획은 대규모의 다국적 연구로 핵분열의 파괴적인 힘으로 '알려진 그 어떤 것보다도 더 증가된 파괴력의 폭탄'의 제작을 목표로 합니다. 유명한 독일인 과학자 알베르트 아인슈타인은 성공적인 '핵폭탄'은 심지어 온 도시를 잿더미로 만들어버릴 수도 있음을 경고했습니다.\n\n독일의 첩보부는 이 프로젝트에 대한 정보를 가까운 동맹들과 공유했고 자연스럽게 전 세계로 알려졌습니다. 어떤 이들은 이 프로젝트를 유치한 공상으로 무시하지만 많은 전문가들은 이 발전을 두려워합니다."
+worldnews.6.d:0 "독일의 첩보원들은 최근 제3인터내셔널의 회원국들이 후원하는 연구 및 개발 프로그램의 서류를 적발했습니다. '다모클레스 프로젝트'로 명명된 이 계획은 대규모의 다국적 연구로 핵분열의 파괴적인 힘으로 '알려진 그 어떤 것보다도 더 증가된 파괴력의 폭탄'의 제작을 목표로 합니다. 유명한 독일인 과학자 알베르트 아인슈타인은 성공적인 '핵폭탄'은 심지어 온 도시를 잿더미로 만들어버릴 수도 있음을 경고했습니다.\n\n독일의 첩보부는 이 프로젝트에 대한 정보를 가까운 동맹들과 공유했고 자연스럽게 전세계로 알려졌습니다. 어떤 이들은 이 프로젝트를 유치한 공상으로 무시하지만 많은 전문가들은 이 발전을 두려워합니다."
 worldnews.6.a:0 "만약 저들이 성공한다면..."
 
 worldnews.7.t:0 "차르가 돌아오다"
@@ -121,12 +121,12 @@ worldnews.27.d:0 "1936년 브리튼 연방 노동조합총회가 결정을 내�
 worldnews.27.d.voted_again:0 "1년도 채 못되어 [ENG.GetNameDef]의 1936년 노동조합총회는 오랫동안 의장으로 재임했던 필립 스노든의 사임을 계기로 정치적 침체로 인해 교착 상태에 빠졌습니다. 두 번째 선거가 실시 된 후, 논쟁은 스노든의 후임자로 조합주의자의 지도자인 아서 호너의 지명과 함께 가라앉았습니다. 그와 연방주의자들은 변화하는 세상에서 원칙을 지키기 점점 더 어려워지고 있는 현상 유지 정책에 찬성합니다."
 worldnews.27.a:0 "흥미롭군."
 
-worldnews.28.t:0 "에드워드 8세의 계승"
-worldnews.28.d:0 "조지 5세는 본국을 통치한 대영제국과 아일랜드의 마지막 왕으로, 본국에서 추방되어 캐나다에서 망명생활 중 숨졌습니다. 윈저가의 첫번째 왕인 그의 통치기는 영국이 세계대전에서 패배하고, 고국을 상실한 슬픔과 고통의 시기로 기억 될 것입니다. 왕관은 웨일즈의 왕자 에드워드가 물려 받았으며 현재는 에드워드 8세로 불리게 되었습니다. \n\n 에드워드 왕은 복수심에 차있고 야심있는 사람이며 매켄지 킹 총리와는 좋은 관계가 아닙니다. 그는 아버지의 복수를 성공시키고 브리튼 섬을 탈환하려는 목표를 위해 살며, 그에 따라 영국의 망명자들 사이에서 인기가 높습니다."
+worldnews.28.t:0 "에드워드 8세의 영국 국왕 즉위"
+worldnews.28.d:0 "조지 5세는 본국을 통치한 대영제국과 아일랜드의 마지막 왕으로, 본국에서 추방되어 캐나다에서 망명생활 중 숨졌습니다. 윈저가의 첫번째 왕인 그의 통치기는 영국이 세계대전에서 패배하고, 고국을 상실한 슬픔과 고통의 시기로 기억 될 것입니다. 왕관은 웨일즈의 왕자 에드워드가 물려 받았으며 현재는 에드워드 8세로 불리게 되었습니다. \n\n 에드워드 왕은 복수심에 차있고 야심있는 사람이며 매켄지 킹 총리와는 좋은 관계가 아닙니다. 그는 아버지의 복수를 성공시키고 영국 제도를 탈환하려는 목표를 위해 살며, 그에 따라 캐나다의 영국 망명자들 사이에서 인기가 높습니다."
 worldnews.28.a:0 "흥미롭군."
 
-worldnews.29.t:0 "국민 프랑스의 군주정 복원"
-worldnews.29.d:0 "짧은 프랑스 내전 이후 프랑스의 옛 정부와 지지자들은 생디칼리즘 지지자들의 분노를 피하기 위해 북아프리카로 도망쳤습니다. 그곳에서, 그 나라는 베르덩의 사자라고 불리우는 필리프 페탱 아래에서 군부의 나라로 바뀌었습니다. 그러나 이 패전국에서 커다란 의문이 제기되었습니다. 미래는 어떻게 되어야 할까요? 프랑스를 되찾는 것이 우선이지만, 정부는 어떤 형태가 되어야 할까요? \n\n프랑스 국민들은 이미 프랑스의 군주정의 복고에 동의하는 것으로 질문에 대답한 것처럼 보입니다."
+worldnews.29.t:0 "국민 프랑스의 군주정 부활"
+worldnews.29.d:0 "짧은 프랑스 내전 이후 프랑스의 옛 정부와 지지자들은 생디칼리즘 지지자들의 분노를 피하기 위해 북아프리카로 도망쳤습니다. 그곳에서, 그 나라는 베르덩의 사자라고 불리우는 필리프 페탱 아래에서 군부의 나라로 바뀌었습니다. 그러나 이 패전국에서 커다란 의문이 제기되었습니다. 미래는 어떻게 되어야 할까요? 프랑스를 되찾는 것이 우선이지만, 정부는 어떤 형태가 되어야 할까요? \n\n프랑스 국민들은 이미 프랑스의 군주정 부활에 동의하는 것으로 질문에 대답한 것처럼 보입니다."
 worldnews.29.a:0 "무엇이 바뀔까?"
 
 worldnews.30.t:0 "일본이 야망을 드러내다."
@@ -189,7 +189,7 @@ worldnews.43.d:0 "세계대전에서 러시아 제국이 몰락한 후, 독일�
 worldnews.43.plc:0 "세계대전에서 러시아 제국이 몰락한 후, 독일은 동유럽의 광대한 지역을 차지하고, 괴뢰국을 수립하고 제국 조약을 창설했습니다. 그러나 이 동맹국들의 동맹 관계는 지속될 예정이 아니었습니다. 동유럽이 이번 주에 독일 영향력에 대항한 반란으로 다시 행동에 나섰습니다.\n\nA. 볼데마라스가 주도하는 리투아니아는 폴란드-리투아니아 연방으로부터 완전한 독립을 선언했으며, 이로 인해 이웃 국가들에서 연쇄 반응이 촉발되었습니다. 독일과 연방은 군사적 방법으로 대응했지만, 그것이 민족주의 정신을 붕괴시키기에 충분할까요?"																																																																																																																																																																																																				
 worldnews.43.a:0 "리투- 어디?"
 
-worldnews.44.t:0 "쿠르드족의 반란"
+worldnews.44.t:0 "쿠르드 반란"
 worldnews.44.d:0 "세계대전과 아랍 반란의 종식 이후 오스만은 오랫동안 '유럽의 병자'였습니다. 강대국으로서의 지위에서 벗어난 이 나라는, 발칸 반도에서 쫓겨났고, 레반트를 침략한 영국군과 아랍군에 의해 전쟁에서 거의 퇴출되었고, 독일의 승리만이 그들을 구원했습니다. \n\n그러나 오스만 제국은 다시 신속하게 위기에 빠졌습니다. OPDA는 독일과 오스트리아의 이익을 보호하기 위해 유지되었고, 그 과정에서 오스만 경제는 회복의 가능성마저 소멸했으며 아랍의 민족주의는 사라지지 않았습니다. 오늘, 오스만군이 신생 쿠르드 국가를 분쇄하겠다고 선언하면서 불꽃이 다시 튀기 시작했는데, 이는 추축국의 모습을 볼 때 레반트 전체에 불을 붙일지도 모릅니다."
 worldnews.44.a:0 "오스만이 아직도 버티고 있나?"
 
@@ -201,11 +201,11 @@ worldnews.46.t:0 "키프로스 반란"
 worldnews.46.d:0 "많은 사람들이 예상했듯이, 쿠르드인 독립 선언은 오스만 제국의 긴 혼란의 시기의 시작이었습니다. 오랫동안 억압되거나 '통합된'문화들이 독립을 추구했습니다. \n\n 키프로스는 그리스인들의 정착이래로, 혼돈은 아니지만 많은 변화를 겪은 나라입니다. 고대 제국-아시리아인, 이집트인, 페르시아인, 로마인들에 의해 점령되고, 프랑스의 십자군, 베네치아 그리고 마지막으로 1878년까지 오스만 제국이 점령했고 영국에 의해 마침내 합병 이전의 상태로 돌아왔습니다. 그리고 오늘, 그리스-키프로스인들이 자국을 해방시키기 위해 무기를 들면서 이 부유한 섬의 역사에 새로운 페이지가 열렸습니다."
 worldnews.46.a:0 "키프로스인들은 오랜 투쟁을 해왔다. 오늘, 그들은 자국을 위해 싸우고 있다."
 
-worldnews.48.t:0 "대 아라비아 반란"
+worldnews.48.t:0 "아라비아 대반란"
 worldnews.48.d:0 "혼란에 빠져있는 세계속에서 오스만 제국이 갈수록 약해지자 모든 사람들은 이 지구상에서 가장 긴 역사를 자랑하는 제국이 끝나가고 있다고 생각했습니다. 하지만, 모든 역경에 대항하여, 제국은 모든 상대방을 물리 치고 중동에 대한 지배를 다시 확고히 했습니다. \n\n이후, 오스만 제국은 무너지지 않을것으로 보였지만, 새해부터 주요 반란이 시작되고있다는 뉴스가 들리고 있습니다. 매일 예루살렘, 알레포와 바그다드의 뒷골목에서 속삭이는 소리를 들을 수 있었고, 오스만 헌병들에게 숨어서, 집과 모스크에서의 비밀 회의가 열렸습니다. 마침내 오늘, 이 상황은 레반트의 민족이 오스만 제국에 대항하여 하나의 커다란 불길처럼 일어났고, 시리아와 이라크의 새로운 국가를 선언하면서 명백하게 드러납습니다."
 worldnews.48.a:0 "중동이 평화를 누릴 수 있을까?"
 
-worldnews.49.t:0 "제2차 대 아라비아 반란"
+worldnews.49.t:0 "제2차 아라비아 대반란"
 worldnews.49.d:0 "대 아라비아 반란은 오스만 제국에 대한 아랍인들의 첫번째 대규모 반란일지도 모릅니다. 하지만, 오스만은 지난 30년 동안 더 많은 도전에서 살아 남았습니다. 많은 사람들에게 이것은 오스만 제국에 대한 마지막 도전처럼 보였습니다. \n\n그러나 첫 번째 반란이 진압을 당함에 따라, 두 번째 반란이 시작된 것 같습니다. 다시 한번, 비밀 회의와 오스만 공무원에 대한 공격에 의해, 중동에서 길들여지지 않은 불이 퍼졌습니다. 오스만 군대의 최선의 노력에도 불구하고, 이것은 결국 첫 번째 결과와 동일한 결과를 가져 왔습니다. 오늘날, 또 다른 대 아라비아 반란이 일어나서 제국을 다시 위협하고 있고, 레반트의 지속적인 안정성에 의심을 던지게됩니다."
 worldnews.49.a:0 "잠깐, 또?"
 
@@ -315,11 +315,11 @@ worldnews.71.a:0 "필요하다면 강제로라도 복종시키겠다!"
 worldnews.71.b:0 "그들이 민주주의를 갖도록 하라."
 
 worldnews.72.t:0 "자치령의 승리"
-worldnews.72.d:0 "세계대전이 끝난 이래, 인도 대륙은 세 부분으로 나뉘어져 있습니다 : 영국령 인도의 잔재인 왕당파들, 인도 국민 회의파의 사회주의자들, 양측을 거부한 반동주의 인도 토후들. 마침내 분란이 가라앉으면서 왕당파들이 승리를 거두었으며 인도 자치령은 어떠한 반대세력도 없이 인도 전역을 통치합니다. 그들은 내전으로 파괴된 인도를 복구하고 세계의 강대국으로 부상시키고자 합니다."
+worldnews.72.d:0 "세계대전이 끝난 이래, 인도 대륙은 세 부분으로 나뉘어져 있습니다 : 영국령 인도의 잔재인 왕당파들, 인도 국민 회의의 사회주의자들, 양측을 거부한 반동주의 인도 토후들. 마침내 분란이 가라앉으면서 왕당파들이 승리를 거두었으며 인도 자치령은 어떠한 반대세력도 없이 인도 전역을 통치합니다. 그들은 내전으로 파괴된 인도를 복구하고 세계의 강대국으로 부상시키고자 합니다."
 worldnews.72.a:0 "영국령 인도 제국이 돌아오는 건가?"
 
 worldnews.73.t:0 "인도 토후 연맹의 승리"
-worldnews.73.d:0 "세계대전이 끝난 이래, 인도 대륙은 세 부분으로 나뉘어져 있습니다 : 영국령 인도의 잔재인 왕당파들, 인도 국민 회의파의 사회주의자들, 양측을 거부한 반동주의 인도 토후들. 마침내 분란이 가라앉으면서 반동주의파들이 승리를 거두었으며 오스만 알리 칸은 어떠한 반대세력도 없이 인도 전역을 통치합니다. 그들은 내전으로 파괴된 인도를 복구하고 세계의 강대국으로 부상시키고자 합니다."
+worldnews.73.d:0 "세계대전이 끝난 이래, 인도 대륙은 세 부분으로 나뉘어져 있습니다 : 영국령 인도의 잔재인 왕당파들, 인도 국민 회의의 사회주의자들, 양측을 거부한 반동주의 인도 토후들. 마침내 분란이 가라앉으면서 반동주의파들이 승리를 거두었으며 오스만 알리 칸은 어떠한 반대세력도 없이 인도 전역을 통치합니다. 그들은 내전으로 파괴된 인도를 복구하고 세계의 강대국으로 부상시키고자 합니다."
 worldnews.73.a:0 "토후들의 통치는 결코 끝나지 않을 것이다."
 
 worldnews.74.t:0 "인도의 황제"
@@ -327,19 +327,19 @@ worldnews.74.d:0 "인도 토후 연맹의 니잠(군주)인 오스만 알리 칸
 worldnews.74.a:0 "너무 허세에 찌들었군!"
 
 worldnews.75.t:0 "바라티야 코뮌의 승리"
-worldnews.75.d:0 "세계대전이 끝난 이래, 인도 대륙은 세 부분으로 나뉘어져 있습니다 : 영국령 인도의 잔재인 왕당파들, 인도 국민 회의파의 사회주의자들, 양측을 거부한 반동주의 인도 토후들. 마침내 분란이 가라앉으면서 사회주의자들이 승리를 거두었으며 바라티야 코뮌은 어떠한 반대세력도 없이 인도 전역을 통치합니다. 그들은 내전으로 파괴된 인도를 복구하고 세계의 강대국으로 부상시키고자 합니다."
+worldnews.75.d:0 "세계대전이 끝난 이래, 인도 대륙은 세 부분으로 나뉘어져 있습니다 : 영국령 인도의 잔재인 왕당파들, 인도 국민 회의의 사회주의자들, 양측을 거부한 반동주의 인도 토후들. 마침내 분란이 가라앉으면서 사회주의자들이 승리를 거두었으며 바라티야 코뮌은 어떠한 반대세력도 없이 인도 전역을 통치합니다. 그들은 내전으로 파괴된 인도를 복구하고 세계의 강대국으로 부상시키고자 합니다."
 worldnews.75.a:0 "하층민으로부터의 해방이군."
 
 worldnews.76.t:0 "바라티야 코뮌의 전체주의자"
-worldnews.76.d:0 "바라티야 코뮌의 강경파 파벌의 지도자이자 최근 선출된 국가 수반의 지도자인 수바스 찬드라 보세(Subhas Chandra Bose)는 오늘 캘커타의 군중들에게 열정적인 연설을 했습니다. 그의 새 전체주의 정부는 북부의 인도 자치령의 '식민지의 애완견들'과 서부의 토후 연맹의 '퇴폐적인 억압자들'을 끝내기 위해 무엇이든지 할 것이라고 약속했습니다. 그는 바라티야 코뮌이 자신의 임무를 완수하기 위해 자신의 두발로 설것이며, 인도가 분명 고려할만한, 강한 세력임을 세계에 증명할 것이라고 주장했습니다."
+worldnews.76.d:0 "바라티야 코뮌의 강경파 파벌의 지도자이자 최근 선출된 국가 원수인 수바스 찬드라 보세(Subhas Chandra Bose)는 오늘 캘커타의 군중들에게 열정적인 연설을 했습니다. 그의 새 전체주의 정부는 북부의 인도 자치령의 '식민지의 애완견들'과 서부의 토후 연맹의 '퇴폐적인 억압자들'을 끝내기 위해 무엇이든지 할 것이라고 약속했습니다. 그는 바라티야 코뮌이 자신의 임무를 완수하기 위해 자신의 두발로 설것이며, 인도가 분명 고려할만한, 강한 세력임을 세계에 증명할 것이라고 주장했습니다."
 worldnews.76.a:0 "흥미롭군."
 
 worldnews.77.t:0 "바라티야 코뮌의 생디칼리스트"
-worldnews.77.d:0 "바라티야 코뮌의 중도파 파벌의 지도자이자 최근 선출된 국가 수반의 지도자인 A. K. Fazlul Hu는 오늘 캘커타의 군중들에게 열정적인 연설을 했습니다. 그의 새 생디칼리즘 정부는 국가를 위해 번영과 산업 성장의 시대를 열어 줄 것이라고 약속했습니다. 그는 이것이 북부의 인도 자치령과 서부의 토후 연맹을 향한보다 회유적인 접근을 의미 할 수도 있다는 말들을 일축하면서, 코뮌은 인도 아대륙과 전세계에 노동자 혁명을 확산시키기 위해 무엇이든지 할 것이라고 말했습니다. 그의 당선은 많은 지역에서 다른 지역의 생디칼리즘 국가들과의 보다 긴밀한 관계의 표시로 해석되고있으며, 일부는 이것이 바라티야 코뮌이 프랑스 코뮌의 인터내셔널의 가입을 의미한다고 추측합니다."
+worldnews.77.d:0 "바라티야 코뮌의 중도파 파벌의 지도자이자 최근 선출된 국가 원수인 A. K. Fazlul Hu는 오늘 캘커타의 군중들에게 열정적인 연설을 했습니다. 그의 새 생디칼리즘 정부는 국가를 위해 번영과 산업 성장의 시대를 열어 줄 것이라고 약속했습니다. 그는 이것이 북부의 인도 자치령과 서부의 토후 연맹을 향한보다 회유적인 접근을 의미 할 수도 있다는 말들을 일축하면서, 코뮌은 인도 아대륙과 전세계에 노동자 혁명을 확산시키기 위해 무엇이든지 할 것이라고 말했습니다. 그의 당선은 많은 지역에서 다른 지역의 생디칼리즘 국가들과의 보다 긴밀한 관계의 표시로 해석되고있으며, 일부는 이것이 바라티야 코뮌이 프랑스 코뮌의 인터내셔널의 가입을 의미한다고 추측합니다."
 worldnews.77.a:0 "흥미롭군."
 
 worldnews.78.t:0 "바라티야 코뮌에서 간디가 힘을 얻는다." 
-worldnews.78.d:0 "바라티야 코뮌의 농촌 사회주의 당의 지도자이자 최근 선출된 국가 원수인 모한다스 카람찬드 간디(Mohandas Karamchand Gandhi)-그의 국민에 대한 헌신으로 때때로 마하트마 또는 '순수한 영혼'으로 불리는-는 오늘 캘커타의 군중들에게 열정적인 연설을 했습니다.그는 인도의 통일을 위한 '평화의 길'이 있음을 약속했습니다. 그는 이것이 북부의 인도 자치령과 서부의 토후 연맹에 대한 바라티야 연방의 항복이라는 의미라는 추측을 일축하면서 코뮌은 모든 침략에 대해 스스로를 지킬것이라고 단호하게 주장했습니다. 그는 인도 전역의 사람들에게 더 많은 불행만을 가져오는 파괴적인 전쟁보다는 평화적 수단을 통해 스와라지(자치)의 가능성을 고려할 것을 촉구했습니다. 그의 정부가 이 길을 따라가기 위해 최선을 다할 것이라고 말했습니다."
+worldnews.78.d:0 "바라티야 코뮌의 농촌사회주의 당의 지도자이자 최근 선출된 국가 원수인 모한다스 카람찬드 간디(Mohandas Karamchand Gandhi) - 그의 국민에 대한 헌신으로 때때로 마하트마 또는 '순수한 영혼'으로 불리는 - 는 오늘 캘커타의 군중들에게 열정적인 연설을 했습니다. 그는 인도의 통일을 위한 '평화의 길'이 있음을 약속했습니다. 그는 이것이 북부의 인도 자치령과 서부의 토후 연맹에 대한 바라티야 연방의 항복이라는 의미라는 추측을 일축하면서 코뮌은 모든 침략에 대해 스스로를 지킬것이라고 단호하게 주장했습니다. 그는 인도 전역의 사람들에게 더 많은 불행만을 가져오는 파괴적인 전쟁보다는 평화적 수단을 통해 스와라지(자치)의 가능성을 고려할 것을 촉구했습니다. 그의 정부가 이 길을 따라가기 위해 최선을 다할 것이라고 말했습니다."
 worldnews.78.a:0 "흥미롭군."
 
 # worldnews.79
@@ -351,7 +351,7 @@ worldnews.80.d:0 "놀랍게도 바라티야 코뮌과 인도 자치령의 두 �
 worldnews.80.a:0 "글쎄,이것은 예상치 못한 일이었는데."
 
 worldnews.81.t:0 "간디에 대항하여 강경파가 들고 일어나다"
-worldnews.81.d:0 "마하트마(모한다스 카람찬드 간디)가 평화적인 재결합을 위해 [DEH.GetNameDef]와 대화를 시작한 지난주에 캘커타 주변에서 소용돌이 치고 소문이 있었습니다. 재결합이 실제로 일어날 지 여부는 말하기가 어렵습니다. 그 확률과 관계없이, [DEH.GetNameDef]의 전체주의자들이 분노하여 들고 일어났고, 수바스 찬드라 보세(Subhas Chandra Bose)는 재결합이 실제로 일어나지 않도록 하기위해 강경파 파벌을 모아 간디와 농민당에 대항하여 파업을 일으켰습니다. 이미 벵골의 시골 지역에서 전투가 벌어졌지만 나머지 인도 지역들은 그 결과를 보고 기다릴 수밖에 없습니다."
+worldnews.81.d:0 "마하트마(모한다스 카람찬드 간디)가 평화적인 재결합을 위해 [DEH.GetNameDef]와(과) 대화를 시작한 지난주에 캘커타 주변에서 소용돌이 치고 소문이 있었습니다. 재결합이 실제로 일어날 지 여부는 말하기가 어렵습니다. 그 확률과 관계없이, [DEH.GetNameDef]의 전체주의자들이 분노하여 들고 일어났고, 수바스 찬드라 보세(Subhas Chandra Bose)는 재결합이 실제로 일어나지 않도록 하기위해 강경파 파벌을 모아 간디와 농민당에 대항하여 파업을 일으켰습니다. 이미 벵골의 시골 지역에서 전투가 벌어졌지만 나머지 인도 지역들은 그 결과를 보고 기다릴 수밖에 없습니다."
 worldnews.81.a:0 "또 다른 내전이라니? 맙소사!"
 
 worldnews.82.t:0 "강경파가 켈커타를 점령하다."
@@ -481,7 +481,7 @@ worldnews.111.t:0 "피분송크람의 쿠데타"
 worldnews.111.d:0 "최근의 시암 혁명은 겉으로는 성공했을지 몰라도 이에 대한 대중의 지지는 곤두박질친 것 같습니다. 논란이 되고 있는 "황색 서류봉투" - 국가의 경제 시스템을 뜯어고치고 다수의 산업을 국유화하기 위한 고안된 계획의 별칭-를 계기로, 대중들 사이에는 소위 "붉은 공포"가 촉발되었습니다.\n\n육군 수장인 루앙 피분송크람은 적시에 개입하여 전국에 계엄령을 선포했는데, 이 조치는 국가를 내전 이전의 상황으로 되돌린 것으로 여겨집니다. 분명하게도 이 "철의 장군"은 국가가 민주주의로의 이행의 '준비'가 되어 있을 때까지 독재자로써 시암을 통치할 계획입니다."
 worldnews.111.a:0 "걱정되는군."
 
-worldnews.112.t:0 "37차 시암-버마 전쟁"
+worldnews.112.t:0 "제37차 시암-버마 전쟁"
 worldnews.112.d:0 "The new National-Populist regime of Plaek Phibunsongkhram in Siam has issued a declaration of war to the Burmese government in Yangon today, citing Burmese agitation in Morlamaeng as an act of war.\n\nThe Siamese themselves are clearly the aggressor here, as they had previously occupied lands up to the Salween river, violating the Stresemann treaty dictating the border between them and Burma back in 1929. For the Burmese the situation looks pretty bleak, should Siam emerge victorious it is likely that this will mark the rise of a new Thai hegemony in South East Asia, one European powers will have to be cautious of."
 worldnews.112.a:0 "실익보다는 증오에 의한 전쟁이다."
 
@@ -502,16 +502,16 @@ worldnews.116.t:0 "시암에서 질서가 회복되다"
 worldnews.116.d:0 "The forces under Luang Phibunsongkhram, nicknamed 'The Iron Marshall' have utterly destroyed the last rebel holdouts in Siam today. After turning the rebels back outside Bangkok, government troops marched swiftly on their strongholds and rounded up everyone they could find.\n\nMany of thse prisoners will find their way to Tarutao Prison, an island surrounded by shark-infested waters, away from the mainland. Meanwhile the temporary Khana Ratsadon has stepped down, declaring the time ripe for business within the nation to return to normal."
 worldnews.116.a:0 "상황이 회복되었군."
 
-worldnews.117.t:0 "알렉산다르 2세가 세르비아 왕위에 오르다"
+worldnews.117.t:0 "세르비아 왕위에 오른 알렉산다르 2세"
 worldnews.117.d:0 "1920년대에 오스트리아의 점령이 끝난 후 세르비아는 공식적으로 왕국이 되었습니다. 오스트리아가 또 침공할지도 모른다는 것을 비추어 볼때 세르비아는 저자세를 유지할 수 밖에 없었으며, 감히 왕을 추대하지 못했습니다. 거의 20년 간 세르비아의 섭정이자 왕족으로 알려진 페타르 보요비치는 이제 군주제를 부활하기로 결정했습니다. 전 국왕 페테르 1세의 아들인 알렉산다르 2세가 왕관을 받아들였고 오늘 세르비아의 왕으로 추대되었습니다. 이 논란 많은 행동은 오스트리아와 불가리아 정부를 격분케 할 수도 있습니다."
 worldnews.117.a:0 "섭정이나 왕이나, 뭐가 다르다는 거지?"
 worldnews.117.b:0 "이건 부당하다!"
 
-worldnews.118.t:0 "세르비아가 공화국을 선포하다"
+worldnews.118.t:0 "세르비아의 공화국 선포"
 worldnews.118.d:0 "1920년대에 오스트리아의 점령이 끝난 후 세르비아는 공식적으로 왕국이 되었습니다. 오스트리아가 또 침공할지도 모른다는 것을 비추어 볼때 세르비아는 저자세를 유지할 수 밖에 없었으며, 감히 왕을 추대하지 못했습니다. 거의 20년 간 세르비아의 섭정으로 지낸 페타르 보요비치는 정권의 탄압에 대해 증가하는 내부 압력에 굴복하면서 자발적으로 물러났습니다. 슬로보단 요바노비치가 이제 세르비아의 첫 대통령이 되었으며, 선거가 치러질 때까지 그렇게 행동할 것입니다."
 worldnews.118.a:0 "발칸의 민주주의? 신선하군."
 
-worldnews.119.t:0 "세르비아가 유고슬라비아를 선포하다"
+worldnews.119.t:0 "세르비아의 유고슬라비아를 선포"
 worldnews.119.d:0 "부활한 세르비아는 불가리아와 오스트리아 제국에 대해 놀라운 승리를 거뒀습니다. 오늘 베오그라드에서 모든 남슬라브인을 공식적으로 하나의 통일국가로 통합시킬 세르비아인, 크로아티아인, 슬로베니아인의 새로운 국가가 선언되었습니다. 이 나라에 대한 개념은 꽤 오랫동안 '유고슬라비아'로 알려져 왔으며, 이 이름이 새로운 국가의 실질적인 이름이 될 것으로 예상됩니다.\n\n일리리아가 그러한 나라를 만들기 위한 전 시도였지만 이는 크로아티아인의 지도력 아래였습니다. 유고슬라비아의 국가로서의 생존 가능성은 두고 봐야 할 것입니다."
 worldnews.119.a:0 "발칸에 평화가 지속되기를 희망하자."
 
@@ -557,7 +557,7 @@ worldnews.126.d:0 "[AST.GetNameDef]에서 오스트랄라시아 수비대가 정
 worldnews.126.d.nzl:0 "[AST.GetNameDef]에서 오스트랄라시아 수비대가 캔버라의 의회를  급습해 정권을 잡았다는 충격적인 소식입니다. 이들은 권위주의 우파로 극렬하게 생디칼리즘을 반대하며 왕실을 지지합니다. 토마스 블레이미 원수가 이끄는 새 정부는 즉시 [AST.GetNameDef]가 국가의 질서를 회복하기 위해서는 어떠한 조치라도 시행할 것과 국가를 대영제국 외부의 공화국으로 변모시키려는 모든 작업들을 즉시 파기할 것을 약속했습니다. 혹자는 이를 현재 상황으로의 복구라고 보지만 이 불안정은 국가에 더 한 사건이 있을 전조로 보입니다."
 worldnews.126.a:0 "예상치 못했군."
 
-worldnews.127.t:0 "[AST.GetNameDefCap] 이 공화정이 되다"
+worldnews.127.t:0 "[AST.GetNameDefCap]이 공화국이 되다"
 worldnews.127.d.permission:0 "시민들에게서 폭력 사태를 유발할 수도 있다고 협박받기도 한 의회에서의 논란의 논쟁 끝에 [AST.GetAdjective] 정부는 오늘 웨스트민스터 시스템을 버리고 공화국을 지향하는 소위 오스트랄라시아 헌법을 비준했습니다. 이는 국왕 에드워드 8세의 마지못한 승인과 함께 이루어졌습니다. 그 조건은 [AST.GetNameDef]이 견실하고 충실한 동맹으로 존속하는 것입니다. "
 worldnews.127.d.kicked:0 "시민들에게서 폭력 사태를 유발할 수도 있다고 협박받기도 한 의회에서의 논란의 논쟁 끝에 [AST.GetAdjective] 정부는 오늘 웨스트민스터 시스템을 버리고 공화국을 지향하는 소위 오스트랄라시아 헌법을 비준했습니다. 이는 국왕 에드워드 8세의 마지못한 승인과 함께 이루어졌습니다. 하지만 이는 [AST.GetNameDef] 가 협상국의 동맹들과 영연방 소속국으로서의 지위를 포기함을 의미합니다."
 worldnews.127.d.rebel:0 "시민들에게서 폭력 사태를 유발할 수도 있다고 협박받기도 한 의회에서의 논란의 논쟁 끝에 [AST.GetAdjective] 정부는 오늘 웨스트민스터 시스템을 버리고 공화국을 지향하는 소위 오스트랄라시아 헌법을 비준했습니다. 국왕 에드워드 8세는 그의 총독을 통해 법안은 무효임을 표명하며 이를 거부했고 온 국가의 왕실 지지자들은 정부의 법안을 반역으로 매도했습니다. 아직까지는 [AST.GetNameDef]이 협상국의 동맹에게서 퇴출되는 정도이지만 대영제국의 왕좌가 보복 조치와 같은 방식으로 더 나아갈 여지는 남아있는 것으로 보입니다."
@@ -585,7 +585,7 @@ worldnews.132.t:0 "뉴질랜드의 독립 투표"
 worldnews.132.d:0 "최근의 논란을 불러온 주민투표 끝에 오스트랄라시아의 뉴질랜드 주는 더 큰 연방으로부터의 독립을 투표했습니다. 뉴질랜드인들은 1924년 대영제국의 자원 보존 법률의 발효 이후 본토에 합병되었던 것에 오랫동안 분노해왔고 그 분노는 본토에 의한 징병제의 실시 이후 독립운동으로 끓어올랐습니다. 캔버라의 정부는 주의 분리 독립에 내키지 않는 축복을 건넸으며 이는 즉시 효력을 나타낼 것으로 예측됩니다."
 worldnews.132.a:0 "흥미롭군"
 
-worldnews.133.t:0 "재건된 오스트랄라시아의 민주주의"
+worldnews.133.t:0 "오스트랄라시아 민주주의의 부활"
 worldnews.133.d:0 "[AST.GetNameDefCap]은 대영제국의 긴급 조치의 발효 이후로 윌리엄 버드우드 총독의 권위주의적인 통치 아래에 있었습니다. 국가의 많은 사람들은 이를 멜버른 생디칼리스트 반란에 대한 대응으로는 너무 가혹한 것으로 여겼습니다. 버드우드는 마침내 공공 선거의 요청을 승인했고  스탠리 브루스의 오스트랄라시아 연합당이 캔버라의 의회에서 다수파 정부를 형성하며 예측된 결과를 낳았습니다. 브루스는 앞으로 노동 쟁의의 증가와 버드우드가 실시한 개인의 자유에 대한 지독한 제한 조치의 철회를 처리하느라 힘든 시간을 보낼 것으로 예측됩니다."
 worldnews.133.a:0 "흥미롭군."
 worldnews.134.d:0 "[AST.GetNameDefCap]은 대영제국의 긴급 조치의 발효 이후로 윌리엄 버드우드 총독의 권위주의적인 통치 아래에 있었습니다. 국가의 많은 사람들은 이를 멜버른 생디칼리스트 반란에 대한 대응으로는 너무 가혹한 것으로 여겼습니다. 버드우드는 마침내 공공 선거의 요청을 승인했고 얼 페이지의 농민당이 캔버라의 의회에서 소수파 정부를 형성하는 놀라운 결과를 낳았습니다. 페이지는 앞으로 노동 쟁의의 증가와 버드우드가 실시한 개인의 자유에 대한 지독한 제한 조치의 철회를 처리하느라 힘든 시간을 보낼 것으로 예측됩니다."
@@ -607,12 +607,12 @@ worldnews.139.t:0 "보리스 3세의 쿠데타"
 worldnews.139.d:0 "Apparently, it seems as though the pro-Slavic government under the former Prime Minister Aleksandar Stamboliyski has been ousted from the government, with Ferdinand I's son, who now styles himself as Tsar Boris III, retaking the throne with the backing of influential rightist politicians and loyal officers from the military.\n\nThis comes as a shock to many within the international community and even those living in Bulgaria due to the sheer scope of the conflict. In addition, the state of affairs within Bulgaria is not one to be envied as the nation itself is very much destabilised with mass rioting, looting, and protesting all being common within the once victorious nation. Whatever may come, this is certainly a decisive and watershed moment in Bulgarian history."
 worldnews.139.a:0 "충격적이군!"
 
-worldnews.140.t:0 "불가리아 정부가 축출당하다"
+worldnews.140.t:0 "불가리아 정부가 축출되다"
 worldnews.140.d:0 "Apparently, it seems as though the conservative government under the former Prime Minister Aleksandar Stamboliyski has been ousted from the government following the refusal of the Serbian government to help the pro-Slavic Stamboliyski realise his dream of a united Yugoslavia. With this in mind, and a general feeling of no confidence from the Bulgarian people themselves, the [From.GetRulingParty] had struck, seizing power for themselves and effectively consoling power under the new regime. Whatever else may happen remains to be seen, though it seems as though Bulgaria certainly has entangled itself in a rather turbulent state of affairs..."
 worldnews.140.a:0 "또 다른 정권 교체인가?"
 worldnews.140.b:0 "우리는 여기서 빠져나갈 것이다!"
 
-worldnews.141.t:0 "불가리아 정부가 축출당하다"
+worldnews.141.t:0 "불가리아 정부가 축출되다"
 worldnews.141.d:0 "Apparently, it seems as though the conservative government under the former Prime Minister Aleksandar Stamboliyski has been ousted from the government following the refusal of the Yugoslavian government to help the pro-Slavic Stamboliyski realise his dream of a united Yugoslavia. With this in mind, and a general feeling of no confidence from the Bulgarian people themselves, the [From.GetRulingParty] had struck, seizing power for themselves and effectively consoling power under the new regime. Whatever else may happen remains to be seen, though it seems as though Bulgaria certainly has entangled itself in a rather turbulent state of affairs..."
 worldnews.141.a:0 "또 다른 정권 교체인가?"
 
@@ -657,11 +657,11 @@ worldnews.149.t:0 "그리스군이 정부를 전복하다"
 worldnews.149.d:0 "With Greece having been thrown into massive chaos following their loss in the Balkan War against Bulgaria, and the democratic government refusing to step down, the Greek army today stepped in and overthrew the government in a coup. General Alexandros Papagos said in a statemnet that the measure was temporary, and that new elections would be held as soon as the army restored order in the face of increased syndicalist insurgency. Whether Papagos will relinquish power as he claims remains to be seen, and syndicalist leaders have sworn to fight this 'new dictatorship' with every means at their disposal, raising fears of a new civil war."
 worldnews.149.a:0 "흥미롭군"
 
-worldnews.150.t:0 "농민 민주 전선이 그리스 선거에서 승리하다"
+worldnews.150.t:0 "농민 민주 전선의 그리스 선거 승리"
 worldnews.150.d:0 "The restoration of the monarchy in Greece caused the country's leftist leaders to consolidate under the umbrella of the Rural Democratic Front, a party which has now seen victory in the country's recent elections under [GRE.GetLeader]. Many within the government had called on the party to be banned, a call which had been refused, and so now Greece faces a transformation into a socialist dictatorship with a mandate from the angry Greek electorate. Even so, portions of the military are already gathering in opposition to the new government, and there are fears that a new civil war will break out in Greece as a result."
 worldnews.150.a:0 "흥미롭군"
 
-worldnews.151.t:0 "생디칼리스트가 그리스 선거에서 승리하다"
+worldnews.151.t:0 "생디칼리스트의 그리스 선거 승리"
 worldnews.151.d:0 "The victory of the republicans in Greece caused the country's leftist leaders to consolidate under the umbrella of the Social Workers’ Party of Greece, a party which has now seen victory in the country's recent elections under [GRE.GetLeader]. Many within the government had called on the party to be banned, a call which had been refused, and so now Greece faces a transformation into a syndicalist dictatorship with a mandate from the angry Greek electorate. Even so, portions of the military are already gathering in opposition to the new government, and there are fears that a new civil war will break out in Greece as a result."
 worldnews.151.a:0 "흥미롭군"
 
@@ -697,12 +697,12 @@ worldnews.159.t:0 "그리스의 왕정복고"
 worldnews.159.d:0 "The Greek government today announced it would be restoring the monarchy, forgoing the referendum that originally restored the kingdom in 1920 prior to its overthrow in 1923. Rather than restore the crown to Aléxandros I, however, it has instead passed the crown to his younger brother, Pávlos I. The new king, it is said, has much more radical and authoritarian ideas learned during his exile which are more in line with the new Greek government, though the rest of the royal family will be returning to Greece along with him. The king spoke to a massive, cheering crowd in Athens after returning for the first time in many years, saying that Greece had 'finally returned to the path it was meant to be on', and vowed to work tirelessly to rebuild the country."
 worldnews.159.a:0 "흥미롭군"
 
-worldnews.160.t:0 "아르헨티나의 전권을 통제하는 마누엘 카를레스"
+worldnews.160.t:0 "카를레스의 아르헨티나 전권 통제"
 worldnews.160.d:0 "마누엘 카를레스가 1935년 크리스마스 때 아르헨티나에 대한 쿠데타를 일으켰을 때, 그 나라는 대통령직을 장악하기 위한 잔인한 투쟁으로 분열되었습니다. 애국당과 아르헨티나 해군의 군대는 재빨리 수도를 장악했지만, 전국을 장악하기 시작한 육군에 의해 저지되었고, 유혈투쟁으로 이어졌습니다.\n 내부 지역 철도의 중심지인 로사리오가 함락되면서, 카를레스는 부에노스 아이레스에서 그의 추종자들을 위한 열광적인 연설을 한 후 오늘 오후에 그의 쿠데타의 성공을 선포했습니다. 광대한 영토 확장과 파타고니아를 괴롭히는 붉은 공포의 종식을 약속하면서, 그는 고군분투하는 그의 나라 국민들로부터 열광의 물결을 받았습니다."
 worldnews.160.a:0 "이것이 아르헨티나를 안정시킬까?"
 worldnews.160.b:0 "정말 불안하군!"
 
-worldnews.161.t:0 "페드로 파블로 라미레즈가 아르헨티나의 질서를 회복하다"
+worldnews.161.t:0 "라미레즈의 아르헨티나 질서 회복"
 worldnews.161.d:0 "마누엘 카를레스가 1935년 크리스마스 때 아르헨티나에 대한 쿠데타를 일으켰을 때, 그 나라는 대통령직을 장악하기 위한 잔인한 투쟁으로 분열되었습니다. 애국당과 아르헨티나 해군의 군대는 재빨리 수도를 장악했지만, 전국을 장악하기 시작한 육군에 의해 저지되었고, 유혈투쟁으로 이어졌습니다.\n  그러나 육군으로부터의 악의적 저항은 카를레스의 군에게는 너무 강한 것으로 판명되었고 로사리오에서의 굴욕적인 패배 후에 그들은 수도로 밀려났습니다. 마누엘 카를레스 자신은 오늘 아침 일찍 자살했다는 소문이 있지만, 다른 사람들은 그와 그의 측근들이 대통령 영지를 향해 적 탱크가 굴러갈 때 우루과이로 떠나는 강 유역에서 목격되었다고 주장했습니다."
 worldnews.161.a:0 "이것은 민주주의를 위한 승리인가?" 
 
@@ -730,7 +730,7 @@ worldnews.167.t:0 "파라과이의 군국주의 반란"
 worldnews.167.d:0 "The situation in the South American nation of Paraguay has reached fever pitch as the government of José Félix Estigarribia has finally collapsed in the wake of failed policy programmes. Politically charged officers across the nation led their respective barracks in revolts against both the administration and their syndicalist rivals but swiftly managed to seize the Presidential Palace in Asunción ending serious hostilities.\n\n The nation now rests under the iron grip of General Higinio Morínigo Martínez and his troops, who are eager to - as they see it - restore Paraguay's lost glory and crush all of its enemies both domestically and beyond the nation's borders."
 worldnews.167.a:0 "또 다른 쿠데타라고? 아이고."
 
-worldnews.168.t:0 "파라과이가 다시 생디칼리즘에 빠지다"
+worldnews.168.t:0 "다시 생디칼리즘에 빠진 파라과이"
 worldnews.168.d:0 "The nation of Paraguay has been in crisis for several years, in part due to the failing policies of the José Félix Estigarribia administration which arose in the wake of the 1934 counter-coup against syndicalist rule. After a swift yet bloody battle today in the streets of Asunción between government, revolutionary and nationalist troops it is the Arbrilistas that have triumphed, seizing controlling of the Presidential Palace and declaring Estigarribia's government dead.\n\nHaving radicalised since their brief three month rule in 1934, Rafael Franco's arguably Totalist 'Partido Abrilista Paraguayo' is set to make a number of major changes. Paraguay it seems, is red once more."
 worldnews.168.a:0 "좌파든. 우파든. 그냥 하나만 고를 순 없는 거야?"
 
@@ -746,11 +746,11 @@ worldnews.171.t:0 "남아메리카의 생디칼리스트 내전"
 worldnews.171.d:0 "놀라운 사건들의 전환으로, 새롭게 선언된 아르헨티나 코뮌은 산티아고 정부가 '사회주의의 교리를 전복했다', '혁명을 배신했다', '아르헨티나를 제국주의 통치하에 두려고 했다'라고 밝히며 칠레 지지자들을 공개적으로 비난했습니다. 아르헨티나와 칠레가 다시 한번 전투에 돌입하면서 제2차 독립 전쟁이 전개되고 있습니다. 동지들이 동지들과 싸우며, 이전에는 무겁게 통합되었던 부대가 피 묻은 내부 갈등을 일으키고 있습니다. 그러나 싸움이 끝난다면 남아메리카에서의 생디칼리즘의 미래는 결코 같지 않을 것입니다."
 worldnews.171.a:0 "그들은 모범적인 사회주의자가 아니다."
 
-worldnews.172.t:0 "파타고니아에서 폰테가 전체주의 쿠데타를 일으키다"
+worldnews.172.t:0 "폰테의 파타고니아 전체주의 쿠데타"
 worldnews.172.d:0 "카를레스의 아르헨티나와 칠레가 지원하는 파타고니아 간의 전쟁이 격렬해지면서 대부분의 붉은 병사들이 최전방으로 떠나면서 수도 푸에르토 마드린의 권력 공백은 거의 불가피했습니다. 악명 높은 반돌레로 알프레도 폰테 '엘 토스카나'와 용병 집단, 비합리주의자들과 좌파 급진주의자들이 '사회주의 정부의 끝자락'을 선언하면서 수도를 장악했습니다.\n\n 비교적 온건한 사회주의자와 생디칼리스트들을 이끌면서 폰테의 극단적 전체주의 파벌은 부에노스 아이레스와의 더욱 가혹하게 선전된 전쟁을 요구하면서, 많은 잔인한 전쟁 조치를 빠르게 시행하고 있습니다. 파타고니아가 그러한 정권 변화의 격동 속에서 살아남을지는 알려지지 않았습니다."
 worldnews.172.a:0 "다소 당혹스럽구만."
 
-worldnews.173.t:0 "베네수엘라가 생디칼리스트 정부를 선출하다"
+worldnews.173.t:0 "베네수엘라의 생디칼리스트 정부 선출"
 worldnews.173.d:0 "In what has no doubt come as quite a blow to many entrenched interest groups the Venezuelan people have elected the left wing Partido Socialista de Venezuela to run the country. The PSV was not the favourite to win by any stretch of the imagination and has many enemies.\n\n The oil-rich and strategically vital country occupies a special place in South America in terms of importance for foreign, particular U.S, interests. As a result it is unclear whether Venezuela's so-called 'revolution by ballot' can survive in the face of implacable internal and foreign hosility, or whether the Land of Grace as it was known to Christopher Columbus will blossom as a major socialist power in Latin America."
 worldnews.173.a:0 "사회주의 베네수엘라? 진짜로?"
 
@@ -762,11 +762,11 @@ worldnews.175.t:0 "엘자스 최후통첩"
 worldnews.175.d:0 "독일-프랑스 국경에서 있었던 몇 개월간의 저강도 충돌과 외교적 분쟁 이후, 두 거인들은 세계대전의 어두운 시절 이후 인류가 알지 못했던 가장 잔인한 분쟁의 가장자리에 놓여있습니다. 충격적이게도 파리의 코뮌 정부는 1871년 보불전쟁 이후 제국이 점령한 독일령 엘자스-로트링겐을 반환하라고 공개적으로 요구했습니다. 한 프랑스 비행대대가 국제법을 무시하며 독일 영공으로 날아와 불만을 상세히 써놓은 전단 수천 장을 뿌렸으며, 이는 제국의 작전 참모들을 격분케 만들었습니다. 이러한 행동은 베를린의 여론을 격분시킨 것이 확실하고, 심지어 지금도 동원령이 진행중입니다. 여기까지 온 이상 제2차 세계대전을 피할 수 있을 것 같지는 않습니다."
 worldnews.175.a:0 "전세계는 벼랑 끝에 있는 셈이로군."
 
-worldnews.176.t:0 "도쿄에서 군사 쿠데타가 실패하다"
+worldnews.176.t:0 "도쿄에서의 군사 쿠데타 실패"
 worldnews.176.d:0 "일본에서의 충격적인 소식입니다. 오늘 극우파와 민족주의자들이 이끄는 제국주의 군부의 급진파 분자들이 도쿄의 병든 민주주의 정부에 대항하여 정부 전복을 시도했습니다. 수도 전역에 걸쳐 그들이 주요 정부 기구와 건물들을 장악했지만, 천황은 수 시간 후면 붕괴될 것이 자명한 쿠데타 파벌에 대한 지지를 공개적으로 거부했습니다.\n\n 이에 유명한 데라우치 히사이치를 포함한 많은 육군 고위 장교들과 그 지지자들은 수치심을 이기지 못하고 할복으로 생을 마감했습니다. 이로써 동아시아 민주주의의 핵심은 당분간 건재할 것으로 보입니다."
 worldnews.176.a:0 "일본의 민주주의가 살아남았군."
 
-worldnews.177.t:0 "오스트리아가 제2차 세계대전에 개입하다"
+worldnews.177.t:0 "오스트리아의 제2차 세계대전 개입"
 worldnews.177.d:0 "유럽의 일부 군대는 강력한 새 기술 발전으로 인해 피할 수 없는 대륙 전쟁이 몇 달 안에 끝날 것이라고 믿었습니다. 그러나 현대전의 규모에 대한 여전히 남아 있는 환상은 분쟁에 시달리는 서유럽에서 나오는 잔혹행위에 직면하여 빠르게 사라졌습니다.\n\n빈은 수년간 생디칼리즘 권력이 재무장 하는 것을 우려해 왔지만, 이제는 유럽의 권력 균형을 끌어올리겠다고 위협하고 있는 공개적 분쟁 때문에 인터내셔널에 대항해 공개적으로 개입하기로 결정했습니다. 이미 제국 군대는 세계 혁명에 새로운 위협을 제기하며 포 강으로 진격하고 있습니다."
 worldnews.177.a:0 "오스트리아가 없으면 세계대전이 아니지."
 
@@ -802,7 +802,7 @@ worldnews.185.t:0 "연합왕국의 재건"
 worldnews.185.d:0 "확실히 극적인 사건의 전환으로, 브리튼 연방의 공화정 정권은 몰락했고 윈저 가문의 왕정이 마침내 런던으로 돌아왔습니다. 에드워드 8세는 웨스트민스터 성당에서 영국 혁명 기간 동안 아버지의 유배를 속죄하려는 그의 삶의 꿈을 충족시키기 위해 공식적으로 대관식을 치렀고, 이미 국가로부터 생디칼리즘적인 유대관계를 없애려는 노력이 진행 중입니다.\n브리튼 섬은 짧은 시간 동안 알아볼 수 없을 정도로 변했고, 좌파의 영향의 뿌리가 국가의 기관과 국민의 정신에 깊이 뿌리박고 있습니다. 전 세계의 많은 이들은 새롭게 복원된 영국이 세계 무대에서 어떤 조치를 취할 것인지를 보기 위해 숨을 죽이고 기다리고 있습니다."
 worldnews.185.a:0 "새로운 질서인가 또는 옛 질서의 귀환인가?"
 
-worldnews.186.t:0 "벨로루시가 생디칼리즘에 빠지다"
+worldnews.186.t:0 "생디칼리즘에 빠진 벨로루시"
 worldnews.186.d:0 "In a blow to German hegemony in Eastern Europe, Belorussia, a lynchpin of the Reichspakt buffer states against Russia, has fallen to leftism. In the aftermath of Black Monday and years of failed rulership, King Vladimir liberalised the nation's politics and allowed free elections intending for the action to help dissipitate the peasantry's anger. In the end though, the King himself was outmaenouvered and the newly elected left-wing government is considering abolishing the monarchy entirely.\nBelorussia, now publicly brandishing its syndicalist credentials, has demanded its immediate independence from the Reichspakt and Mitteleuropa. Already there have been threatening calls for the German military mission stationed in the country to be thrown out, but the German Empire's next moves are as yet unknown."
 worldnews.186.a:0 "이에 대한 반응은 신속할 것이다..."
 
@@ -823,7 +823,7 @@ worldnews.189.d.moderateleft:0 "The Netherlands has traditionally been one of th
 worldnews.189.d.leftcoalition:0 "The Netherlands has traditionally been one of the most politically stable nations in Europe and the Dutch people have for years been entrenched in their own institutional 'pillars' which have tended to undermine radical tendencies. Due to the economic chaos caused by the Netherlands' close ties to Germany and Mitteleuropa and the rise of the far-left Red Front and nationalist VNH, the country's political situation is more tense than it has been in many years.\n The creation of the formidable Left-Links electoral pact meant the death knell of the conservative government, however it quickly collapsed leading to minority rule. Taking advantage of the opportunity available to them to eradicate the Far Right, the social-democratic SDAP has joined in coalition with the socialist RSAP."
 worldnews.189.a:0 "네덜란드인들은 선거를 좋아하지."
 
-worldnews.190.t:0 "레인데르스가 네덜란드 정부를 전복시키다"
+worldnews.190.t:0 "레인데르스의 네덜란드 전복"
 worldnews.190.d.junta:0 "In a shocking turn of events General Izaak Reijnders of the Dutch armed forces declared a state of emergency and launched a coup in the Hague, deposing the recently elected left-wing government. Conservative military figures and nationalists have long watched with dismay as the fragile centrism typical of Dutch politics, typified by the 'Ambtenarenverbod' ban on civil servants joining political organisations, has fallen apart. Some foreign observers have seen the hand of the Kaiser in Reijnders' bold actions, and though no evidence has yet come to light a leftist Dutch government would not have been in the Reich's interests. The military has set up a junta to adminster the Netherlands and block a syndicalist resurgence. It is unclear whether elections will be held any time soon."
 worldnews.190.d.vnh:0 "In a shocking turn of events General Izaak Reijnders of the Dutch armed forces declared a state of emergency and launched a coup in the Hague, deposing the recently elected left-wing government. Conservative military figures and nationalists have long watched with dismay as the fragile centrism typical of Dutch politics, typified by the 'Ambtenarenverbod' ban on civil servants joining political organisations, has fallen apart. Some foreign observers have seen the hand of the Kaiser in Reijnders' bold actions, and though no evidence has yet come to light a leftist Dutch government would not have been in the Reich's interests. The military has allowed the nationalist VNH or 'Alliance for National Recovery' to set up a 'provisional government', in essence a dictatorship."
 worldnews.190.a:0 "네덜란드의 민주주의는 끝난 것 같군."
@@ -835,14 +835,14 @@ worldnews.191.d.mutiny:0 "In yet another victory for the forces of the Left, the
 worldnews.191.d.socialistputsch:0 "In yet another victory for the forces of the Left in Europe, the traditionally moderate Netherlands has gone the way of the British and French and fallen for socialism, in a serious blow to German interests on the continent. The news has come as a profound shock to many monarchies and reactionary regimes across the world.\n\nWhat started with a small mutiny in De Peel ended with Red Front paramilitaries and leftist soldiers seizing control of major cities across the country, as well as the mass-evacuation of Establishment figures as well as most officials and the Dutch Royal Family.\n\nWith the socialist putsch complete and a new Provisional Revolutionary Committee established in the capital, the Dutch Revolution has now truly taken on a life of its own. The inevitable reaction from the Kaiserreich to the east is sure to come swiftly."
 worldnews.191.a:0 "혁명의 불길이 다른 국가들까지도 집어삼키고 있다."
 
-worldnews.192.t:0 "국수주의자들이 네덜란드를 장악하다"
+worldnews.192.t:0 "국수주의자들의 네덜란드 장악"
 worldnews.192.d.parliament:0 "The Netherlands has long been seen as an island of political centrism in an ocean of leftist ideologues and machinating imperialists. All that has changed however, with the rise of the Verbond voor Nationaal Herstel 'VNH'. The so-called 'Alliance for National Recovery' is an ultra-nationalist movement dedicated to restoring Dutch pride and expunging the nation of Syndicalist influence in the wake of the Black Monday Crisis.\n The growing popularity of the VNH has culminated in it becoming the largest party in Parliament, however it failed to get a majority in the election. Not to be outdone by their rivals, Landwacht paramilitaries today marched into the Binnenhof terrifying the rest of Parliament into submission and beginning a dictatorship."
 worldnews.192.d.finsterwolde:0 "The Netherlands has long been seen as an island of political centrism in an ocean of leftist ideologues and machinating imperialists. All that has changed however, with the rise of the Verbond voor Nationaal Herstel 'VNH'. The so-called 'Alliance for National Recovery' is an ultra-nationalist movement dedicated to restoring Dutch pride and expunging the nation of Syndicalist influence in the wake of the Black Monday Crisis\nThe VNH party assembly in Maastricht heard an incendiary speech by Cornelis van Geelkerken who openly called for revolt against a government that he claimed had been subverted by 'malign cryptosyndicalists'. This led to VNH paramilitaries across the Netherlands rising in rebellion, despite calls by moderates led by Queen Wilhelmina, to cease."
 worldnews.192.d.haguemarch:0 "The Netherlands has long been seen as an island of political centrism in an ocean of leftist ideologues and machinating imperialists. All that has changed however, with the rise of the Verbond voor Nationaal Herstel 'VNH'. The so-called 'Alliance for National Recovery' is an ultra-nationalist movement dedicated to restoring Dutch pride and expunging the nation of Syndicalist influence in the wake of the Black Monday Crisis.\nToday a massive march of VNH supporters and Landwacht paramilitaries from Amsterdam to the capital in The Hague culminated in Queen Wilhelmina dismissing the government and replacing them with VNH leaders in order stem a violent putsch by sympathetic army officers."
 worldnews.192.a:0 "네덜란드인들답지 않은데."
 
-worldnews.193.t:0 "네덜란드가 프랑스 코뮌을 승인하다"
-worldnews.193.d:0 "현재 많은 유럽 국가들을 경악시킨 논란의 행동인 즉슨, 네덜란드가 시민들의 권리에 대한 상의를 명분으로 파리로 외교 사절단을 파견함으로써 프랑스 코뮌의 존재를 사실상 인정했다는 것입니다. 이러한 행동은 반-생디칼리즘 성향의 국가주의 프랑스, 영국 망명 정부와 밀월관계를 견지해온 네덜란드의 전통적인 정치 규범에 완전히 반하는 경우입니다. \n이런 기괴하리만치 갑작스러운 외교적 태도 변화에는 온갖 고난을 겪으며 끝끝내 정권을 손에 넣은 CNA-LSP 연립의 네덜란드 정부가 자국 내의 사회주의자들을 만족시키고, 네덜란드의 정치적 혼란을 완화하기 위해 깔아둔 계산이라는 추측이 유력합니다. 만약 사실이라면, 이 과감한 행동은 일부 중도주의자들이 현대 유럽의 분극화를 막기 위해 기꺼이 취할 수 있는 온갖 극단적인 조치가 무엇인지를 보여주는 사례일 것입니다."
+worldnews.193.t:0 "네덜란드의 프랑스 코뮌 승인"
+worldnews.193.d:0 "현재 많은 유럽 국가들을 경악시킨 논란의 행동인 즉슨, 네덜란드가 시민들의 권리에 대한 상의를 명분으로 파리로 외교 사절단을 파견함으로써 프랑스 코뮌의 존재를 사실상 인정했다는 것입니다. 이러한 행동은 반-생디칼리즘 성향의 국민 프랑스, 영국 망명 정부와 밀월관계를 견지해온 네덜란드의 전통적인 정치 규범에 완전히 반하는 경우입니다. \n이런 기괴하리만치 갑작스러운 외교적 태도 변화에는 온갖 고난을 겪으며 끝끝내 정권을 손에 넣은 CNA-LSP 연립의 네덜란드 정부가 자국 내의 사회주의자들을 만족시키고, 네덜란드의 정치적 혼란을 완화하기 위해 깔아둔 계산이라는 추측이 유력합니다. 만약 사실이라면, 이 과감한 행동은 일부 중도주의자들이 현대 유럽의 분극화를 막기 위해 기꺼이 취할 수 있는 온갖 극단적인 조치가 무엇인지를 보여주는 사례일 것입니다."
 worldnews.193.d.dejure:0 "현재 많은 유럽 국가들을 경악시킨 논란의 행동인 즉슨, 네덜란드가 오늘 국제 협약을 위반하고 공식적으로 프랑스 코뮌을 정통 프랑스 정부로서 승인했다는 것입니다. 이에 특히 독일 제국을 시작으로 미틀오이로파, 그리고 제국 조약 등 독일과 같은 밀접한 관계를 맺고 있는 국가들과, 알제의 프랑스 망명정부는 네덜란드와 단교를 선언하기까지 했습니다. \n이런 기괴하리만치 갑작스러운 외교적 태도 변화에는 온갖 고난을 겪으며 끝끝내 정권을 손에 넣은 CNA-LSP 연립의 네덜란드 정부가 자국 내의 사회주의자들을 만족시키고, 네덜란드의 정치적 혼란을 완화하기 위해 깔아둔 계산이라는 추측이 유력합니다. 만약 사실이라면, 이 과감한 행동은 일부 중도주의자들이 현대 유럽의 분극화를 막기 위해 기꺼이 취할 수 있는 온갖 극단적인 조치가 무엇인지를 보여주는 사례일 것입니다."
 worldnews.193.a:0 "외교는 참으로 난해하기 짝이 없다"
 
@@ -850,7 +850,7 @@ worldnews.194.t:0 "네덜란드가 독일 자산을 국유화하다"
 worldnews.194.d:0 "The Dutch government has today taken the bold step of nationalising the assets of German citizens in its territory, in an action that is sure to incur the wrath of the Kaiserreich. With the weakened Conservative CNA government having entered into coalition with the liberal VDB, it has engaged in a policy of negotiating with the Dutch Far Left and Right in order to stem domestic political catastrophe.\n\n To bring the ultranationalist VNH on side, the Dutch government finally agreed to nationalise German assets in order to keep the administration from collapse - a situation the CNA-LSP sought to keep secret. Already there have been calls in Berlin for punitive measures, both economic and military. How the Empire will act however, none yet can guess."
 worldnews.194.a:0 "묘하게 흘러가는군."
 
-worldnews.195.t:0 "빌헬미나 여왕이 네덜란드 왕위에서 퇴위하다"
+worldnews.195.t:0 "네덜란드 왕위에서 퇴위한 빌헬미나 여왕"
 worldnews.195.d.republic:0 "In an astonishing sequence of events by Dutch standards, Queen Wilhelmina has abdicated the throne after half a century of rule. Appalled by the rise of the syndicalist RSAP and the breakdown of moderate consensus in her nation in the wake of the failure of the previous government, Queen Wilhelmina is seemingly unwilling to continue her rule. In farcical scenes in Parliament, Colijn's and the ruling government's efforts to push through legislation financing the coronation of Princess Julia were blocked by the Leftist RSAP and SDAP. As a result the monarchy has ended up being abolished, and a new socialist Republic formed."
 worldnews.195.d.republicalbarda:0 "In an astonishing sequence of events by Dutch standards, Queen Wilhelmina has abdicated the throne after half a century of rule. Dismayed by the victory of the Left-Links electoral pact, Wilhelmina had boldly stated that she would only accept the moderate VDB's candidate as Formateur, Pieter Oud, despite the SDAP's victory - forcing them instead to ally with with the socialist RSAP. With even moderate Parliamentarians furious at her inadvently forcing the SDAP to the left, Queen Wilhelmina's position quickly became untenable, and the SDAP's Willem Albarda was appointed.\n\n With the abdication of the monarch, the Leftists that now run the nation have declared the creation of a Dutch Republic 'free from reactionary tyranny'."
 worldnews.195.d.juliana:0 "In an astonishing sequence of events by Dutch standards, Queen Wilhelmina has abdicated the throne after half a century of rule. Dismayed by the victory of the Left-Links electoral pact, Wilhelmina had boldly stated that she would only accept the moderate VDB's candidate as Formateur, Pieter Oud, despite the SDAP's victory - forcing them instead to ally with the socialist RSAP. With even moderate Parliamentarians furious at her inadvently forcing the SDAP to the left, Queen Wilhelmina's position quickly became untenable, and the SDAP's Willem Albarda was appointed.\n\n Wilhelmina's abdication was not enough to completely destroy the Dutch monarchy however, and Juliana has quickly been crowned the new Queen."
@@ -1152,12 +1152,12 @@ worldnews.284.t:0 "미합중국이 안정을 되찾다"
 worldnews.284.d:0 "미국에서는 생디칼리즘 연맹과 반동적인 남부의 미국 제일당 둘 다 오래 전부터 중앙정부에 대한 반란을 공공연하게 위협해 왔습니다.\n올슨 대통령이 생디칼리즘 연맹과 역사적인 협정에 서명한 지 며칠 후, 무명의 암살자가 제일당 지도자인 휴이 롱을 총으로 쏴서 죽였습니다.\n한편 전국에서 노조 파업이 중지되고, 주방위군이 현재 지도력이 부재한 제일당의 잔당들을 진압함에 따라, 사람들은 서서히 일상으로 돌아가고 있습니다.\n\n정치 논평가들은 만장일치로 이를 '외교적 기적'이라고 칭송하고 있으며, 많은 미국인들은 그들이 얼마나 재앙에 근접했는지를 결코 정확히 알지 못할 것이라고 추측하고 있습니다."
 worldnews.284.a:0 "플로이드가 해냈구나!"
 
-worldnews.203.t:0 "휴이 롱 대통령이 실종되다"
+worldnews.203.t:0 "휴이 롱 대통령의 실종"
 worldnews.203.d:0 "전례 없는 사태가 발생했습니다. 승리에 도취한 휴이 롱 미국 대통령이 실종되었습니다. 미국 언론들은 휴이 롱의 차와 경호원들이 새로운 수도에서 늦은 저녁 만찬 후에 사라졌다고 보도했습니다. 우리가 이 언론들로부터 모을 수 있는 정보로는, 알려지지 않은 한 무리의 전문 생디칼리스트 암살자들이 이 공격의 배후에 있었다는 것입니다. 이 주장은 기업가인 헨리 포드의 아들 에드젤 포드가 무정부주의자에 의해 세간의 이목을 끄는 살해 이후에 나온 것입니다. 미국 재향군인회장 조지 반 혼 모즐리는 대중들의 우려를 언급하며, 잠재적인 공모자들을 뿌리뽑기 위해 대통령 저택을 확보할 것이며 이 위험한 시기에 재향군인회를 동원했습니다."
 worldnews.203.a:0 "거짓말! 어떤 사회주의자도 이런 짓은 못한다!"
 worldnews.203.b:0 "얼마나 흉흉한 일인가! 몸조심하시오, 모즐리 동지!"
 
-worldnews.204.t:0 "휴이 롱이 쿠데타로 투옥되어 사형되다"
+worldnews.204.t:0 "쿠데타로 투옥되어 사형된 휴이 롱"
 worldnews.204.d:0 "[TEX.Capital.GetName]의 소식입니다. 새롭게 승리한 미국 대통령 휴이 롱이 사망했습니다. 이는 최근 몇 달 동안 사회주의적 사상에 대항하고자 하는 미국 제일당원들에 의한 성공적인 쿠데타처럼 보입니다. 쿠데타에 대한 자세한 내용은 거의 보도되지 않고 있지만, 그의 처형 전날에 자신이 생디칼리스트임을 고백하는 휴이 롱의 자아비판 음반이 널리 유포되고 있습니다. 윌리엄 펠리가 이끄는 임시정부는 대중들에게 미국으로의 생디칼리즘의 침입을 종식시키겠다고 약속했습니다. 계엄령은 전국적으로 시행되었고, 우리는 지금부터 미국에서 나오는 언론 보도 내용이 검열되는 것이라고 감히 추측해볼 수 있습니다."
 worldnews.204.a:0 "롱은 생디칼리스트가 아니야!"
 worldnews.204.b:0 "나는 펠리가 미국을 바로잡을지에 대해 강한 의심을 떨칠 수 없다."
