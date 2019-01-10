@@ -26,10 +26,10 @@ IRE_totalist_party_long:0 "혁명적 노동자 그룹"
 IREUOB_DET2:0 "영국이 우리의 제안을 수락함"
 
 ### Decisions ###
-IRE_american_civil_war:0 "Reacting to the American Civil War"
-IRE_american_civil_war_desc:0 "Political tensions stemming from America's economic collapse at the end of the Weltkrieg have finally come to a head, and civil war has broken out. Due to our connections with America, Ireland may be affected and must be prepared for any potential consequences."
-IRE_send_ira_syndie:0 "Send the IRA Volunteers"
-IRE_send_ira_syndie_desc:0 "America is embroiled in her own revolution. We should help our comrades across the sea in their own struggle. A number of IRA volunteers are willing to go and support them. "
+IRE_american_civil_war:0 "미국 내전에 대한 반응"
+IRE_american_civil_war_desc:0 "대전쟁 말기에 일어난 미국의 대공황으로 말미암아, 정치적 위기 끝에 두번째 내전이 발발했습니다. 미국 내전으로 인해 우리도 영향을 받을수 있고, 우리는 그것을 대비해야 합니다."
+IRE_send_ira_syndie:0 "IRA 자원병 파견"
+IRE_send_ira_syndie_desc:0 "미국이 내전에 휘말렸습니다. 우리는 바다 건너편에서 자유를 위해 투쟁하는 동지들을 도와야 합니다. 수많은 IRA의 지원자들이 그들을 지원할것입니다. "
 
 ### Ideas ###
 IRE_DEFENCE:0 "공화국 방어"
@@ -61,7 +61,7 @@ ire.10.c:0 "이번에는 빨갱이들의 아이디어가 좋은 것 같다..."
 
 # IEAA event - Collins ousted
 ire.11.t:0 "의회가 경제를 논하다."
-ire.11.d:0 "With the passing of the Irish Economic Advancement Act (IEAA), a commitment by the Irish government to a rapid and complete overhaul of the economy has been made. As stipulated in the act, the government must now decide on an annual focus to improve the economy. The authoritarian former government, Fine Gael, as well as their moderate partners the National Centre Party, believe that Ireland should focus on building up it's industry as quickly as possible. A Syndicalist coalition led by Jim Larkin argue that giving power to the workers' unions is the best way to increase our nations productivity. Finally, Sinn Féin suggest a focus on mainstream industrial research and development."
+ire.11.d:0 "아일랜드 경제 진보 정책(IEAA)의 통과 이후, 아일랜드 정부의 신속하고 완벽히 경제를 재정비하겠다는 약조가 이뤄졌습니다. 법안에 규정된 대로, 정부는 지금부터 매 년 경제 발전에 중점을 두는 결정을 해야 합니다. 피너 게일의 지도자이자 아일랜드의 대통령인 마이클 콜린스 뿐만 아니라, 국민중앙당의 프랭크 맥더멋도 경제를 가능한 한 빠르게 발전시키는걸 집중해야 한다고 합니다. 생디칼리스트 연합을 이끄는 짐 라킨은 노조에게 힘을 주는 것이 우리 산업의 생산성을 늘리는 길이라고 주장합니다. 마지막으로 신페인은 주요 산업을 연구하고 개발하자고 제안했습니다."
 ire.11.a:0 "민주주의자와 자유주의자쪽이 좋다."
 ire.11.b:0 "피너 게일과 국민중앙당이 맞는 생각을 가지고 있다."
 ire.11.c:0 "생디칼리스트들이 중요한 것을 알고 있다."
@@ -88,13 +88,13 @@ ire.242.b:0 "혁명적 노동자 그룹이 일리가 있다."
 ire.242.c:0 "아일랜드 노동자 동맹이 좋은 생각을 갖고 있다."
 
 # Agri/Infra Wing
-IRE_ARD:0 "Agricultural Reform Drive"
+IRE_ARD:0 "농업 개혁운동"
 IRE_ARD_desc:0 "The rural areas of Ireland are by far the most neglected by the government to date, and could easily serve as a starting point for radical economic improvement. Our farming methods are woefully out of date compared to the agricultural revolutions taking place in mainland Europe, and our infrastructure is woefully behind."
 ire.ard.tt:0 "\nBegin the reform process of modernising Ireland's §Yagricultural industry§! and her §Yinfrastructure.§!\n\n"
 
 ire.ard.no.tt:0 "\n§GKeep the standard level of this economic bonus.§!\n\n"
 
-ire.59.t:0 "The Agricultural Reform Drive"
+ire.59.t:0 "농업 개혁운동"
 ire.59.d:0 "We have left our rural areas in a state of backwards insignificance for far too long. It is time that we do something. Ireland is moving forward, and so too must her rural communities. Much of our industry has traditionally relied upon agriculture, but times have changed. If we want to keep agriculture as a vital part of our economy, then we need to upgrade our farming facilities. Similarly, much of Ireland's road systems are in a state of complete disrepair, and currently the responsibility for repair work of any kind falls to private enterprise. Our transport network in general could be considerably improved, allowing us to move both people and economic goods around the country at a more rapid rate. This situation calls for obvious economic expenditure, but we must keep the national debt in mind. More radical changes will encourage the population that we are serious about dealing with the issue, however."
 ire.59.a:0 "Let's not push it too much."
 ire.59.b:0 "We can make a more substantial investment."
