@@ -512,8 +512,8 @@ CSA_rainbow_war_plans_desc:0 "It is finally time to revise the old Federalist Wa
 ## Constitutional Convention ###
 
 csa.1.t:0 "제헌회의"
-csa.1.d:0 "Today delegates have gathered from across the country in the city of Philadelphia as the Second Constitutional Convention is convened in order to draft a new and better constitution for the country. Initial controversy erupts, as the AFL has brought their own delegation in spite of orders from the IWW to let them represent the whole of industrial labor. Other interest groups that swore allegiance to Reed have also shown up, including members of the defunct Knights of Labor and National Civic Federation. A small riot on the second day erupted when the International Peace Mission and Southern Tenant Farmers Union were ejected from the Convention. These unions had been neutral during the revolution, and were initially accepted due to their high percentage of black membership."
-csa.1.a:0 "Loyalists the old order are not invited!"
+csa.1.d:0 "오늘 새롭고 더 나은 헌법을 작성하기 위해 두 번째 제헌회의가 열려 국가 전역에서 대표단들이 오고 있습니다. 초기의 논쟁은 미국 노동 총연맹(AFL)이 세계 산업 노동자 동맹 (IWW)가 산업 부분을 대표해서 대표단을 파견하기로 결정했음에도 독자적으로 따로 대표단을 보낸 것입니다. 그 외에 리드에게 충성을 맹세한 사라진 노동 기사단이나 NCF 같은 이해 집단들도 나타났죠. 2일 째에는 남부 테넌트 농민 조합과 국제 평화 선교 단이 제헌회의에서 퇴출되자 시위가 일어나기도 했습니다. 이들은 흑인 회원 비중이 높아서 내전에서 중립을 지켰음에도 제헌회의에 참석 할 수 있었죠.“
+csa.1.a:0 "구질서에 충성을 맹세한 집단은 참가 할 수 없다!"
 
 csa.2.t:0 "사회주의 헌법 - 정부 체계"
 csa.2.d:0 "미국노동총연맹(AFL)의 등장은 새로이 개편될 입법 분야에서 있을 세계산업노동자동맹(IWW)의 압도적이고 손쉬운 승리에 대한 예상을 뒤엎게 만들었습니다. IWW 대표자들이 요구하는 바는 모든 권력이 노동조합에게 귀속된 생디칼리즘 정부입니다. 또한 노동조합의 회비를 폐지하고 집단 간 타협적인 선거를 통해 대표를 선출해야 한다고 주장합니다. 반대로 AFL은 미국은 사회주의 국가가 되어야 하고, 권력은 지역 전문 노동자의회가 가져야 하며 입법부 대표들은 선임권에 의해 뽑혀야 한다고 주장합니다. 완전한 참정권은 오직 조합비를 지출하고 몇 년 동안 끊임없이 헌신한 이들에게만 부여되어야 한다는 주장은 덤입니다."
@@ -524,8 +524,8 @@ CSA_syndicalists_gain_power:0 "이 회의에서 §Y생디칼리스트§!가 힘�
 CSA_radsocs_gain_power:0 "이 회의에서 §Y급진사회주의자§!가 힘을 얻을 것입니다."
 
 csa.3.t:0 "사회주의 헌법 - 체제"
-csa.3.d.socialist:0 "제 1조. 미국의 모든 권력은 국민으로부터 파생되며 또한 국민의 것이다. 국민들은 미국의 정치적 토대를 이루고 있는 전문노동자의회를 통해 국가 권력을 행사한다. 다른 모든 국가 기관은 전문 노동자 의회의 통제 하에 있으며 이에 대한 책임을 가진다.\n\n제 2조. 국가 권력의 모든 대표 기관들은 비밀 투표에 의한 보편적이고 평등하며 직접적인 참정권에 근거하여 시민들에 의해 선출된다. 모든 정부 기관의 대표들은 그들을 선출한 유권자들에게 책임이 있다. 이는 그 임기가 끝나기 전이라 할지라도 어떤 상황, 어떤 방식으로 유권자가 대표자를 파면할 수 있는가에 대한 법률에 의해 결정된다.\n\n제 3조. 그 어떠한 법률이나 행정명령 또는 지방법령과 규정도 본 헌법을 위배하여서는 아니 된다. 모든 국가 기관, 군대, 모든 정당, 공공기관 및 모든 기업과 사업체는 헌법과 법률을 준수해야만 한다. 헌법과 법률에 위배되는 모든 행위는 조사되어야 한다. 그 어떠한 조직이나 개인도 헌법과 법을 초월하는 특권을 행사할 수 없다."
-csa.3.d.syndicalist:0 "Article 1. All power in America derives from the people and belongs to the people. The people exercise state power through local trade union councils, which constitute the political foundation of America. Local trade union councils are not permitted to deny membership due to ability to pay or on the basis of pre-existing conditions. All other state bodies are under the control of, and accountable to, the All-Industrial Congress.\n\nArticle 2. Trade union councils are to act as wall-to-wall bargaining unions in the All-Industrial Congress. Wherein all the representative organs of state authority are elected by the citizens on the basis of universal, equal and direct suffrage by election. The people's representatives in all organs of state authority are responsible to their electors. It will be determined by law in which cases, under what conditions and in what way the electors may recall their representatives even before the end of the period for which they were elected.\n\nArticle 3. No law or administrative or local rules and regulations shall contravene the constitution. All state organs, the armed forces, all political parties and public organizations and all enterprises and undertakings must abide by the Constitution and the law. All acts in violation of the Constitution and the law must be investigated by the All-Industrial Congress. No organization or individual may enjoy the privilege of being above the Constitution and the law."
+csa.3.d.socialist:0 "제 1조. 미국의 모든 권력은 인민으로부터 파생되며 또한 국민의 것이다. 인민들은 미국의 정치적 토대를 이루고 있는 전문노동자의회를 통해 국가 권력을 행사한다. 다른 모든 국가 기관은 전문 노동자 의회의 통제 하에 있으며 이에 대한 책임을 가진다.\n\n제 2조. 국가 권력의 모든 대표 기관들은 비밀 투표에 의한 보편적이고 평등하며 직접적인 참정권에 근거하여 시민들에 의해 선출된다. 모든 정부 기관의 대표들은 그들을 선출한 유권자들에게 책임이 있다. 이는 그 임기가 끝나기 전이라 할지라도 어떤 상황, 어떤 방식으로 유권자가 대표자를 파면할 수 있는가에 대한 법률에 의해 결정된다.\n\n제 3조. 그 어떠한 법률이나 행정명령 또는 지방법령과 규정도 본 헌법을 위배하여서는 아니 된다. 모든 국가 기관, 군대, 모든 정당, 공공기관 및 모든 기업과 사업체는 헌법과 법률을 준수해야만 한다. 헌법과 법률에 위배되는 모든 행위는 조사되어야 한다. 그 어떠한 조직이나 개인도 헌법과 법을 초월하는 특권을 행사할 수 없다."
+csa.3.d.syndicalist:0 "제 1조. 미국의 모든 권력은 인민으로부터 파생되며 또한 인민의 것이다. 인민들은 미국의 정치적 토대를 이루고 있는 지역 노동조합을 통해 국가 권력을 행사한다. 지역 노동조합들은 조합비 지불의 여부와 다른 조건들 때문에 특정인의 조합 가입을 거부할 수 없다. 다른 모든 국가 기관은 전 산업 평의회의 통제 하에 있으며 이에 대한 책임을 가진다.\n\n제 2조. 노동조합 평의회는 전 산업 평의회안에서 노동 조합 간 협상을 담당하며, 국가 권력의 모든 대표 기관들은 보편적이고 평등하며 직접적인 참정권에 근거하여 시민들에 의해 선출된다. 모든 정부 기관의 대표들은 그들을 선출한 유권자들에게 책임이 있다. 이는 그 임기가 끝나기 전이라 할지라도 어떤 상황, 어떤 방식으로 유권자가 대표자를 파면할 수 있는가에 대한 법률에 의해 결정된다.\n\n제 3조. 그 어떠한 법률이나 행정명령 또는 지방법령과 규정도 본 헌법을 위배하여서는 아니 된다. 모든 국가 기관, 군대, 모든 정당, 공공기관 및 모든 기업과 사업체는 헌법과 법률을 준수해야만 한다. 헌법과 법률에 위배되는 모든 행위는 전 산업 평의회에 의해 조사되어야 한다. 그 어떠한 조직이나 개인도 헌법과 법을 초월하는 특권을 행사할 수 없다."
 csa.3.a:0 "승인되었다"
 
 csa.4.t:0 "사회주의 헌법 - 인간의 권리와 노동자의 권리"
@@ -547,9 +547,9 @@ csa.7.a:0 "의회가 행정권을 행사한다."
 csa.7.b:0 "권한을 이양받은 대통령이 필요하다."
 
 csa.8.t:0 "사회주의 헌법 - 권력 집중 혹은 권력 분산"
-csa.8.d:0 "The Convention, after resuming, has found themselves more divided than ever. The core of the IWW has galvanized into a stricter dogma that pushes for the remaining articles to protect against state tyranny. Protection through the lifetime assurance of union membership and compounding social security with lifelong employment. Several IWW delegates had implied that the AFL has been antagonistic, and would prefer a return to capitalism. In response, the AFL have been swayed by Vanguardists to emphasize the Dignity of Labor in government. This argument rebukes Industrial Unionism with Craft Unionism, where the right to fair wages for fair work done replaces the IWW's goal of the abolition of wages. The AFL argues that this would actually prevent tyranny from the state better, as it prevents a 'tyranny of the 51% over the 49%' in union elections."
-csa.8.a:0 "Lifetime Employment will stop tyrants"
-csa.8.b:0 "Dignity of Labor will stop tyrants"
+csa.8.d:0 "회의의 재개 이후, 그 어떤 시기보다 더 분열되고 있습니다. IWW의 핵심 인사들은 남은 헌법조항에 국가의 폭정을 막기 위해 조합원에 대한 평생 보장을 통한 사회복지 강화 및 종신 고용이라는 엄격한 도그마를 밀어 붙이고 있습니다. 심지어 몇몇 IWW 대표단들은 AFL이 적대적이였으며 그들이 자본주의로 회귀하기 원한다는 말까지 했습니다. 이에 대해서 AFL은 전위주의자들이 주장한 정부에서의 노동의 존엄성 강조에 마음을 기울이고 있습니다. 이 주장을 산업 노조주의를 기술 노조주의를 통해 지적하며 동일 노동, 동일 임금이라는 목표는 충분히 IWW의 목적인 임금 노동의 폐지를 대체할 수 있다고 말합니다.  AFL은 이것이 노조 선거를 통한 51 %의 독재에 대항해 49%를 안전을 지킬 수 있다고 주장합니다.“
+csa.8.a:0 "종신 고용은 독재를 막아낼 수 있다.“
+csa.8.b:0 "노동의 존엄성이 독재를 막아낼 수 있다.“
 
 csa.9.t:0 "사회주의 헌법 - 수도"
 csa.9.d:0 "결정될 마지막 사안 중 하나는 바로 미국의 수도입니다. 많은 사람들이 오랜 수도, 워싱턴 D.C를 옹호하고 있으며 이는 이해하기 어렵지 않습니다. 한편 다른 이들은 각각 충성스러운 도시들인 시카고, 필라델피아, 뉴욕을 지지하고 있습니다. 회의에서는 어느 도시를 선택해야 합니까?"
