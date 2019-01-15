@@ -389,10 +389,10 @@ BAT_FED_paternal_autocrat_party_long:0 "임시정부"
 ### Focuses ###
 
 BAT_Germanization:0 "독일화"
-BAT_Germanization_desc:0 "독일의 보호국으로서 거의 20년이 지났다. 이 수십년간 우리의 조국은 독일의 종속국이 되었고 우리는 그들의 소망을 반드시 존중해야한다. 황제께서 독일화를 말씀하셨고, 우리는 그 뜻에 따를 것이다. Drang Nach Osten(동부로의 전진)!"
+BAT_Germanization_desc:0 "독일의 보호국으로서 거의 20년이 지났습니다. 이 수십 년간 우리의 조국은 독일의 종속국이 되었고 우리는 그들의 소망을 반드시 존중해야 합니다. 황제께서 독일화를 말씀하셨고, 우리는 그 뜻에 따를 것입니다. 동부로의 전진(Drang Nach Osten)!"
 
 BAT_Emancipation:0 "해방"
-BAT_Emancipation_desc:0 "독일의 보호국으로서 거의 20년이 지났다. 독일인들은 우리의 산업, 우리의 정치, 우리의 군대를 지배하고 있다. 우리도 그들의 지배에 있겠지만, 독일은 갈 수록 약해지고 있고 이것은 우리가 그들과의 연결을 끊을 수 있는 기회가 될 것이다."
+BAT_Emancipation_desc:0 "독일의 보호국으로서 거의 20년이 지났습니다. 독일인들은 우리의 산업, 우리의 정치, 우리의 군대를 지배하고 있습니다. 우리도 그들의 지배에 있겠지만, 독일은 갈수록 약해지고 있고 이것은 우리가 그들과의 연결을 끊을 수 있는 기회가 될 것입니다."
 
 BAT_Ger_Kurland1:0 "Give Land To Veterans"
 BAT_Ger_Kurland1_desc:0 "Many of our brothers once proved the might of Prussian discipline and strength of German spirit. Now, some of them have retired from the army to live a peaceful life. With Black Monday ravaging the Vaterland, we can at least give some unused land to our veterans to live and work on in the name of Kaiserreich."
@@ -660,7 +660,7 @@ BAT_bc_flag:0 "Ducal Conscripts"
 ### Tooltips ###
 
 BAT_election_tooltip:0 "이 중점은 선거를 허용하게 만들 것입니다. 첫 선거는 1937년에 시작될 것이며, 선거는 4년마다 열리게 됩니다."
-BAT_election_aut_tooltip:0 "이 중점은 선거를 허용하게 만들 것입니다. 우리의 준독재정부에 의하여, 선거는 한번만 열릴 것입니다."
+BAT_election_aut_tooltip:0 "이 중점은 선거를 허용하게 만들 것입니다. 우리의 준독재 정부에 의하여, 선거는 한번만 열릴 것입니다."
 BAT_col_tooltip:0 "Unlock §YDrang Nach Osten§! decisions"
 BAT_mil_tooltip:0 "§YGerman Officers§! decision is now available"
 BAT_ger_complete_toltip:0 "Germanisation Progress is 100% complete"
