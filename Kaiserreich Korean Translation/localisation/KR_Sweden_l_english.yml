@@ -150,6 +150,7 @@ SWE_national_populist_party_long:0 "Sveriges Nationella Förbund"
 ### Events ###
 
 ### Intro Events ###
+
 swe.9999.t:0 "What happened to the Swedish focus tree?"
 swe.9999.d:0 "Once we began reworking the Nordic nations we realised that the old Swedish focus tree wasn't compatible with the newer trees. Rather than delay the whole rework until they were all finished, we decided to remove Swedens old focus tree (well, most of it). We are sorry about taking this step backwards, but it has let development in the area move quicker. We are working on a new Swedish tree, we won't be leaving them like this forever."
 swe.9999.a:0 "That's a shame, but I understand."
