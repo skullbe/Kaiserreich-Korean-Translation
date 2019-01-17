@@ -52,7 +52,6 @@ kr.political.101.d:0 "[Root.GetNameDefCap] remains under the control of the [ove
 kr.political.101.a:0 "[Root.GetNameDef] 만세!"
 
 ### Land Units ###
-garrison:0 "주둔군"
 militia:0 "민병대"
 
 ### Interface ###
