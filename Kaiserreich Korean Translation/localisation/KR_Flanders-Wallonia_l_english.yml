@@ -563,8 +563,8 @@ BEL_Arlon_Refused:0 "Treaty of Arel Refused"
 BEL_Arlon:0 "Treaty of Arel Accepted"
 
 ### Traits ###
-Protest:0 "Great Protest"
-Soldier_King:0 "Soldier King"
+Protest:0 "대규모 시위"
+Soldier_King:0 "군인 왕"
 
 ### Decisions ###
 BEL_Netherlands_decisions:0 "대 네덜란드 정책"
