@@ -87,7 +87,7 @@ kor_blocked_desc:0 "일본의 군함들이 우리의 항구를 봉쇄하고, 해
 KOR_expell_japs:0 "추방된 이주민"
 KOR_expell_japs_desc:0 "일본 제국주의자들이 우리 조국을 유린하기 시작한 1910년 이후 수만 명의 일본 이주민들이 우리 국토를 식민지화했습니다. 대부분이 전쟁 이후에 우리나라를 떠났지만, 몇몇 완강한 자들이 남았고, 우리는 그들을 추방하기로 결정했습니다."
 KOR_integrate_japs:0 "통합된 일본인 이주민"
-KOR_integrate_japs_desc:0 우리는 우리의 취약한 경제를 보강하기 위해 일본 이주민들을 통합하기로 결정했습니다.""
+KOR_integrate_japs_desc:0 "우리는 우리의 취약한 경제를 보강하기 위해 일본 이주민들을 통합하기로 결정했습니다."
 JAP_fengtian_bailout:0 "봉천 구제금융"
 JAP_fengtian_bailout_desc:0 "We are bailing out the Fengtian Government by purchasing sufficient silver to fill their reserve."
 JAP_MANTETSU_COLLAPSE:0 "만철 붕괴"
