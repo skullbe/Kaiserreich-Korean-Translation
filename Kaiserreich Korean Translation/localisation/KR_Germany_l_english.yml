@@ -419,8 +419,8 @@ GER_global4_desc:0 "파나마 운하는 세계 해상 물동량과 강대국의 
 GER_north_sea1:0 "빌헬름스하펜 확장"
 GER_north_sea1_desc:0 "우리는 잠수함과 대함대를 정박할 수 있는 항구가 필요합니다. 빌헬름스하펜 확장은 그 필요를 채우기 위한 첫걸음입니다."
 
-GER_north_sea2:0 "플란데른 발로니엔 기지"
-GER_north_sea2_desc:0 "우리는 북해와 영국 해협으로 통하는 항구가 추가로 필요한데, 플란데른-발로니엔에 있는 해군 기지를 확장하는 것은 이 목표를 달성하는데 도움을 줄 것입니다."
+GER_north_sea2:0 "플란데런 발로니엔 기지"
+GER_north_sea2_desc:0 "우리는 북해와 영국 해협으로 통하는 항구가 추가로 필요한데, 플란데런-발로니엔에 있는 해군 기지를 확장하는 것은 이 목표를 달성하는데 도움을 줄 것입니다."
 
 GER_north_sea3:0 "노르웨이 트론하임 조차"
 GER_north_sea3_desc:0 "노르웨이로부터 트론헤임 항구를 조차하고 대신 금전적 보상과 보호를 약속해달라는 제안이 있었습니다. 우리는 이 제안을 받아들여야 합니다."
@@ -768,16 +768,16 @@ GER_easter_promises:0 "부활절 약속"
 GER_easter_promises_desc:0 "전쟁이 최악으로 치달았던 1917년 4월 7일, '순무의 겨울'이 지난 후 황제는 실질적인 개혁과 프로이센의 3급 투표제 폐지를 약속했습니다. 하지만 그는 모든 약속을 정확한 날짜를 말하지 않고 말했습니다. 이제 황제에게 그 약속에 대해 물을 때가 온 것일지도 모릅니다..."
 
 GER_minority_rights:0 "소수민족 권리 보장"
-GER_minority_rights_desc:0 "Traditionally, the Kaiserreich has pursued a hardline policy of Germanisation towards certain populations--Especially the French in Elsaß-Lothringen and the Polish in our eastern territories. While this process of integration should continue, we can gain some valuable goodwill by showing at least some hint of respect for them."
+GER_minority_rights_desc:0 "전통적으로 제국은 특정 인구, 특히 알자스-로트링겐의 프랑스인과 우리 동부 지역의 폴란드인 등 독일화에 대한 강경책을 추구해 왔습니다. 이러한 통합 과정은 계속되어야 하지만, 우리는 적어도 그들에 대한 존경의 뜻을 보여주면서 몇 가지 귀중한 가치를 얻을 수 있습니다."
 
 GER_rebuild_institutions:0 "진정한 제국의회"
-GER_rebuild_institutions_desc:0 "Over time, the Reichstag has become a glorified rubber stamp body that serves to approve the policies of the Reichkanzler appointed by the Kaiser. No longer! From this day forward, the Reichstag shall be a true legislative body with its own voice, one that speaks for the people of Germany."
+GER_rebuild_institutions_desc:0 "시간이 흐르면서, 제국의회는 황제가 임명한 제국총리의 정책을 승인하는 역할을 하는 미화된 고무도장 본부가 되었습니다. 더 이상 안됩니다! 오늘부터, 제국의회는 독일 국민들을 대변하는 목소리를 가진 진정한 입법기관이 될 것입니다."
 
 GER_status_quo:0 "균형을 수호하라"
-GER_status_quo_desc:0 "It is true that the state of our government is not ideal, but the world is a dangerous place and the people's complaints never were all that relevant. We have neither the time nor resources to waste on populist reforms; the status quo suits us just fine."
+GER_status_quo_desc:0 "우리 정부의 상황이 이상적이지 않다는 것은 사실이지만, 세상은 위험한 곳이고, 국민들의 불평은 결코 그와 관련이 없었습니다. 우리는 대중주의적 개혁에 낭비할 시간도 없고 자원도 없습니다. 현상 유지가 우리에게 잘 맞을 것입니다."
 
 GER_glorify_kaiser:0 "카이저에게 영광을"
-GER_glorify_kaiser_desc:0 "Starting from the humblest of origins in Brandenburg, the Hohenzollern dynasty guided Germany to unification and victory time and time again. The Kaiser is a symbol of the strength and unity of the German people, one that we should honor and respect. By continuing to concentrate power around him and the Reichkanzler, we can guarantee a safer and more stable future."
+GER_glorify_kaiser_desc:0 "브란덴부르크의 가장 짧은 기원에서부터, 호헨촐레른 왕조는 독일을 통일과 승리의 시간으로 계속해서 이끌었습니다. 황제는 우리가 존중해야 하는 독일 국민의 힘과 통합의 상징입니다. 그와 제국총리에게 계속해서 권력을 집중시킴으로써, 우리는 더 안전하고 더 안정된 미래를 보장할 수 있습니다."
 
 GER_embrace_faud:0 "FAUD 포용"
 GER_embrace_faud_desc:0 "독일 자유 노동자 동맹은 오랜 골칫거리였습니다. 그 조직을 받아 들이고 아무런 제약 없이 운영할 수 있게 하면, 우리는 그들이 더이상 급진적이지 않다는 사실을 확인할 수 있을 것입니다."
@@ -1040,21 +1040,21 @@ gerdom.17.e:0 "망할 가짜 뉴스..."
 
 ### Army dispute event ###
 
-gerdom.18.t:0 "Another Army Argument"
-gerdom.18.d:0 "While there is no shortage of capable thinkers in our Staff, one may argue that the issue we currently face is actually having too many of them. Currently, the Staff has divided itself into three groups of competing thought. \n\nProponents of an infiltration-focused doctrine, backed by Kurt von Hammerstein-Equord, argue that the fighting spirit of the infantry and well-trained battalions backed with the highest quality weapons available acting in perfect coordination is the key to success. \n\nMeanwhile, Georg Bruchmüller, a seasoned officer from the Weltkrieg, proposes an artillery-focused doctrine with an emphasis on heavy bombardment to facilitate a breakthrough, replacing the infantry charges of old with even more shells than we've traditionally used. \n\nFinally, the least popular group of theorists led by Erich von Manstein and Heinz Guderian passionately argue for a large tank army backed up with motorized and mechanized infantry, envisioning an armored breakthrough with coordinated air support to get behind the enemy's lines.\n \nDuring a typical briefing with the Kaiser on the military, Heinz Guderian initiated an especially inflammatory argument with Kurt von Hammerstein-Equord on the matter of production priorities. While seemingly trivial, these arguments have been becoming more common as of late over every minor detail.\n\nThe situation has reached a boiling point, and it falls on the aging Wilhelm to come to a decision. Who has his support?"
-gerdom.18.a:0 "Guderian's army is the one I want."
-gerdom.18.b:0 "Bruchmüller speaks sense."
-gerdom.18.c:0 "von Hammerstein-Equord has served us well for years!"
+gerdom.18.t:0 "또 다른 군대 논쟁"
+gerdom.18.d:0 "우리 참모 중에 유능한 사상가가 부족하지는 않지만, 우리가 현재 직면하고 있는 논쟁거리가 실제로 너무 많은 문제들을 가지고 있다고 주장할 수도 있습니다. 현재, 참모들은 세 무리의 경쟁 사상으로 나뉩니다. 쿠르트 폰 함머슈타인-에쿠오르트의 지원을 받는 침투 위주의 교리를 지지하는 무리는 완벽한 조율을 위해 사용할 수 있는 최고 품질의 무기를 지원하는 보병과 잘 훈련된 부대의 전투 정신이 성공의 열쇠라고 주장합니다. 그리고 세계대전의 베테랑 장교인 게오르그 부르크뮐러는 포병 중심의 교리를 제안합니다. 우리가 과거에 사용했던 것보다도 훨씬 많은 포탄으로 대체하여 돌파구를 마련하기 위한 강력한 폭격에 중점을 둡니다. 마지막으로 가장 인기가 없는 에리히 폰 만슈타인과 하인츠 구데리안이 이끄는 이론가 무리는 차량화 및 기계화된 보병이 뒷받침해주는 대규모 전차 부대에 대해 열정적으로 논쟁하고 있으며, 군대와 황제와의 일반적인 브리핑에서 하인츠 구데리안은 생산 우선 순위와 관련하여 쿠르트 폰 함머슈타인-에쿠오르트와 특히 염증스러운 논쟁을 시작했습니다. 사소한 세부사항 하나하나가 최근 들어 이러한 주장들이 점점 더 보편화되고 있습니다. 상황은 비등점에 이르렀고, 결정을 내리는 것은 고령의 빌헬름에게 달려있습니다. 누가 그의 지지가 받을까요?"
+gerdom.18.a:0 "구데리안의 군대가 내가 원하는 군대군."
+gerdom.18.b:0 "브루크뮐러가 이치에 맞는 말을 하고 있다."
+gerdom.18.c:0 "폰 함머슈타인-에쿠오르트는 수년간 우리를 잘 섬겨왔다!"
 
 ### Weapon Manufacturer Selection event ###
 
 gerdom.19.t:0 "무기 제조사 선택"
-gerdom.19.d:0 "As the world continues to become more dangerous, many in our government are suggesting that we could benefit from selecting a single arms manufacturer to standardize production and equipment standards. Naturally, German industry is robust and we have several choices available to us! \n\nMauser, dating all the way back to 1811, is perhaps the most obvious choice. They have a global presence, and have provided us with weapons for years--Such as the sturdy and reliable bolt-action Karabiner 98k. \n\nHaenel has been around since 1840, and is a smaller and less likely choice. However, there is a remarkable simplicity and sturdiness about their weapons that we can use. They also have some interesting ideas for weapons that can fire multiple bullets without needing to be bolted back with every shot! \n\nMostly, Walther, founded in in Ulm back in 1886, makes pistols--Good ones. However, they could easily accommodate our needs with just a bit of funding. Their weapons are well-rounded, but don't particularly excel in any one area.\n\nSauer & Sohn is the oldest of them all. If anyone could get us plenty of guns quickly, it would be them. Time is short, and we need to get a substantial army in the field; it might be best to just get a weapon in our men's hands as long as it fires. \n\nWe have the forms filled out and ready. Who do we send them to?"
+gerdom.19.d:0 "세계가 점점 더 위험해짐에 따라, 우리 정부의 많은 사람들은 생산과 장비 표준을 표준화하기 위해 단일 무기 제조업체를 선택함으로써 우리가 이득을 볼 수 있다고 제안하고 있습니다. 당연히 독일 산업은 튼튼하며 우리는 몇 가지 선택이 가능합니다! 1811년으로 거슬러 올라가는 마우저가 아마도 가장 분명한 선택일 것입니다. 그들은 전 세계에 주둔하고 있으며, 수년 동안 우리에게 무기를 제공했습니다. 그것은 견고하고 믿을 수 있는 볼트액션 소총 카라비너 98k 였습니다. 헤넬은 1840년부터 존재해 왔지만, 더 작고 가능성이 적습니다. 하지만, 우리가 사용할 수 있는 그들의 무기는 놀랄만한 단순함과 강직함이 있습니다. 그들은 또한 모든 총에 맞아서도 볼트로 고정할 필요없이 여러 발의 총알을 발사할 수 있는 무기에 대한 몇 가지 흥미로운 아이디어를 가지고 있습니다! 1886년 울름에 설립된 월터는 대부분 권총, 즉 좋은 것을 만듭니다. 하지만, 그들은 약간의 자금으로 우리의 요구를 쉽게 수용할 수 있었습니다. 그들의 무기는 골고루 갖추어져 있지만, 어떤 한 분야에서 특별히 뛰어난 것은 아닙니다. 자우어 & 손은 이들 중 가장 나이가 많습니다. 만약 누군가 우리에게 많은 총을 빨리 가져다 줄 수 있다면, 그것은 그들이 될 것입니다. 시간은 짧고, 우리는 그 분야에서 상당한 군대를 필요로 합니다. 그것이 발사되는 한 우리의 부하들에게 무기를 주는 것이 최선일 것입니다. 우리는 양식을 작성하고 준비했습니다. 누구에게 보내야 할까요?"
 gerdom.19.a:0 "늘 그랬듯이, 마우저"
 gerdom.19.b:0 "에르마가 없군, 왜 이 선택지가 여기 있는거지?"
 gerdom.19.c:0 "헤넬"
 gerdom.19.e:0 "발터"
-gerdom.19.f:0 "사우어 앤 손"
+gerdom.19.f:0 "자우어 & 손"
 
 ### Election of 1937 ###
 
@@ -1437,7 +1437,7 @@ gerfor.1.a:0 "그들에게 돌아가지 않으면 독일군과 마주할 것이�
 gerfor.1.b:0 "물려라! 짐은 마음을 바꾸었다!"
 
 gerfor.2.t:0 "독일이 최후통첩을 보내다"
-gerfor.2.d:0 "제 2제국이 런던에 최후통첩을 보냈습니다. 우리가 덴마크에서 물러나고 사격을 중지하지 않는다면 독일은 덴마크를 도울 것입니다. 비록 우리의 이익을 위해 스카게라크를 점령하고 독일의 북쪽 국경에 위협을 가하고 있지만, 독일의 위협을 불러오는 것은 매우 위험할 수도 있습니다."
+gerfor.2.d:0 "제2제국이 런던에 최후통첩을 보냈습니다. 우리가 덴마크에서 물러나고 사격을 중지하지 않는다면 독일은 덴마크를 도울 것입니다. 비록 우리의 이익을 위해 스카게라크를 점령하고 독일의 북쪽 국경에 위협을 가하고 있지만, 독일의 위협을 불러오는 것은 매우 위험할 수도 있습니다."
 gerfor.2.a:0 "우리는 독일과의 전쟁을 각오할 수 없다, 철수하라!"
 gerfor.2.b:0 "군주주의자에게 해줄 대답 따위는 없다! 수도로 진격을 계속하라!"
 
@@ -2090,10 +2090,10 @@ gerfor.152.t:0 "예멘의 거부"
 gerfor.152.d:0 "안타깝게도 예멘은 동맹 제안을 거부하기로 결정했습니다."
 gerfor.152.a:0 "좋아."
 
-gerfor.153.t:0 "An invitation to the Reichspakt"
-gerfor.153.d:0 "Due to a warming in German-Romanian relations, we have received an invitation from the German Empire to join their military alliance, the Reichspakt. Due to our control of the Ploiesti oil fields and strategic position in the Balkans, the Germans believe we could prove useful 'partners'. We would of course also benefit from being safely underneath the formidable German military umbrella. The question is whether or not an alliance is in our best interests at this time."
-gerfor.153.a:0 "Let's join the club."
-gerfor.153.b:0 "It's not in our best interests."
+gerfor.153.t:0 "제국 조약으로의 초대"
+gerfor.153.d:0 "독일-루마니아 관계의 온난화로 인해 독일 제국으로부터 그들의 군사 동맹인 제국 조약에 가입하라는 초청을 받았습니다. 우리의 플로이에슈티 유전 통제와 발칸반도의 전략적 위치 덕분에 독일은 우리가 유용한 '파트너'로 증명될 수 있을 것으로 믿고 있습니다. 우리는 물론 강력한 독일의 군사우산 아래 안전하게 있는 것이 도움이 될 것입니다. 문제는 동맹이 현재 우리에게 최선책인지의 여부입니다."
+gerfor.153.a:0 "클럽에 가입하자."
+gerfor.153.b:0 "그것은 우리의 최선의 이익이 아니다."
 
 gerfor.154.t:0 "루마니아의 제국 조약 가입"
 gerfor.154.d:0 "루마니아는 제국 조약 가입 제안을 수락했습니다."
@@ -2202,12 +2202,12 @@ gerfor.177.d:0 "이전 양국 간 우호 관계의 선전과 불가침 조약 �
 gerfor.177.a:0 "우리가 실수를 했군"
 gerfor.177.b:0 "우리는 혼자있을 때 더 강하다."
 
-gerfor.178.t:0 "폴란드 - 리투아니아가 제국 조약에 재참여하다"
-gerfor.178.d:0 "폴란드 - 리투아니아 연방은 제국 조약에 대한 재 청약에 호의적으로 응했으며 공식적으로 우리의 제안을 받아 들였습니다. 그들은 그들 방식의 오류를 보았고 이제는 그들이 속한 동맹에 다시 합류하게됩니다."
+gerfor.178.t:0 "폴란드-리투아니아가 제국 조약에 재참여하다"
+gerfor.178.d:0 "폴란드-리투아니아 연방은 제국 조약에 대한 재 청약에 호의적으로 응했으며 공식적으로 우리의 제안을 받아 들였습니다. 그들은 그들 방식의 오류를 보았고 이제는 그들이 속한 동맹에 다시 합류하게됩니다."
 gerfor.178.a:0 "굉장하군!"
 
-gerfor.179.t:0 "폴란드 - 리투아니아가 우리의 초대를 거절하다"
-gerfor.179.d:0 "폴란드 - 리투아니아 연방을 제국 조약에 다시 가입시키기위한 최선의 노력에도 불구하고, 그들은 우리의 모든 제안을 거부했습니다. 고집센 바보들이 동맹을 떠나고자 하는 의도가 있는 것 같습니다."
+gerfor.179.t:0 "폴란드-리투아니아가 우리의 초대를 거절하다"
+gerfor.179.d:0 "폴란드-리투아니아 연방을 제국 조약에 다시 가입시키기위한 최선의 노력에도 불구하고, 그들은 우리의 모든 제안을 거부했습니다. 고집센 바보들이 동맹을 떠나고자 하는 의도가 있는 것 같습니다."
 gerfor.179.a:0 "저 멍청이들!"
 
 gerfor.180.t:0 "독일 외교 사절"
@@ -2215,13 +2215,13 @@ gerfor.180.d:0 "오늘 외교 사절들이 폴란드 수도에서 며칠 뒤에 
 gerfor.180.a:0 "역사적인 날이다."
 
 gerfor.181.t:0 "독일 외교 사절"
-gerfor.181.d:0 "German diplomatic envoys arrived in [Root.GetNameDef] today with the intention of improving relations between our countries. They have met with top [Root.GetAdjective] officials, had extravagant dinners, and floated the offer of signing a pact of non-aggression. [GER.GetNameDefCap], they say, would look to guarantee our independence in return, if they could be assured a peaceful border on their eastern flank. If we agree, it would certainly signal a new era of cooperation between our countries, and possibly even lead to a future alliance."
-gerfor.181.a:0 "Of course we agree!"
-gerfor.181.b:0 "This is not in our interests"
+gerfor.181.d:0 "오늘 양국 관계를 개선하고자 독일 외교 사절이 [Root.GetNameDef]에 도착했습니다. 그들은 [Root.GetAdjective]의 고위 공무원을 만났습니다. 화려한 만찬을 가졌고, 그리고 불가침조약에 서명하자는 제안을 했습니다. [GER.GetNameDefCap], 그들이 말하기를, 동쪽에서 평화로운 국경을 확보할 수 있다면 그 대가로 우리의 독립을 보장할 것이라고 합니다. 만약 우리가 수락한다면, 그것은 분명 양국간 협력의 새로운 시대를 의미할 것이고, 어쩌면 미래에는 동맹으로 이어질 수도 있습니다."
+gerfor.181.a:0 "물론 우리는 동의할 것이다!"
+gerfor.181.b:0 "이것은 우리의 이익이 아니다."
 
-gerfor.182.t:0 "[From.GetNameDefCap] Refuses"
-gerfor.182.d:0 "While German diplomatic envous spent days in the [From.GetAdjective] capital, attempting to convince [From.GetAdjective] officials of our good intentions, they have rebuffed any intentions to warm the relations between [GER.GetNameDef] and [From.GetNameDef]."
-gerfor.182.a:0 "Unfortunate"
+gerfor.182.t:0 "[From.GetNameDefCap]이(가) 거절하다"
+gerfor.182.d:0 "독일 외교가 [From.GetAdjective]의 수도에서 날을 보내며 [From.GetAdjective]의 공무원들에게 우리의 선한 의도를 확신시키려고 시도했지만, 그들은 [GER.GetNameDef]와 [From.GetNameDef] 사이의 관계를 따뜻하게 할 그 어떠한 의도도 거절했습니다."
+gerfor.182.a:0 "불행한 사람이군."
 
 gerfor.187.t:0 "포위당한 제국"
 gerfor.187.d:0 "세계대전 이후, 러시아는 큰 모욕을 당하고 영토를 잃어버렸습니다. 늦게까지 팽창주의 의제에도 불구하고, 독일 내의 대부분의 정책 전문가들은 이반이 결코 우리의 힘에 도전하지 않을 것이라는 데 동의했습니다--이는 오늘 동방에서 들려온 공식적인 선전포고 때문에 끔찍하게 틀린 것으로 판명되었습니다. 러시아군은 국경을 넘었고 전방위적인 공격을 하고 있다는 보고가 있습니다. 우리가 코뮌주의자들과의 전쟁 준비가 되었는지 논쟁의 여지가 있습니다..."
@@ -2232,7 +2232,7 @@ gerfor.188.d:0 "~mw~ is making me work in gruesome conditions please send help!"
 gerfor.188.a:0 "기꺼이."
 gerfor.188.b:0 "No fuck off and die in ~mw~'s mines"
 
-gerfor.189.t:0 "불가리아가 거부했습니다"
+gerfor.189.t:0 "불가리아가 거부하다"
 gerfor.189.d:0 "~mw~ is making me work in gruesome conditions please send help!"
 gerfor.189.a:0 "너무 늦었어..."
 
