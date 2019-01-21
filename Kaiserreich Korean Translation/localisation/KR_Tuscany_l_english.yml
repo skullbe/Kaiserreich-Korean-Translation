@@ -14,20 +14,20 @@ TUS_social_liberal_party:0 "사회자유당"
 TUS_social_liberal_party_long:0 "사회자유당"
 TUS_market_liberal_party:0 "자유당"
 TUS_market_liberal_party_long:0 "자유당"
-TUS_social_conservative_party:0 "LC"
-TUS_social_conservative_party_long:0 "Lega Cattolica"
-TUS_authoritarian_democrat_party:0 "Senato dei Quarantotto"
-TUS_authoritarian_democrat_party_long:0 "Senato dei Quarantotto"
-TUS_paternal_autocrat_party:0 "Casa D'Asburgo-Lorena"
-TUS_paternal_autocrat_party_long:0 "Casa D'Asburgo-Lorena"
-TUS_national_populist_party:0 "LE"
-TUS_national_populist_party_long:0 "Lega Etrusca"
+TUS_social_conservative_party:0 "가톨릭 연맹"
+TUS_social_conservative_party_long:0 "가톨릭 연맹"
+TUS_authoritarian_democrat_party:0 "48인 원로원"
+TUS_authoritarian_democrat_party_long:0 "48인 원로원"
+TUS_paternal_autocrat_party:0 "합스부르크-로트링겐 가문"
+TUS_paternal_autocrat_party_long:0 "합스부르크-로트링겐 가문"
+TUS_national_populist_party:0 "에트루리아 연맹"
+TUS_national_populist_party_long:0 "에트루리아 연맹"
 
 ### Ideas ###
 TUS_syndie_government:0 "생디칼리스트 정부의 영향"
 TUS_syndie_government_desc:0 "The remnants of the Socialist Republic of Italy has managed to still leave it's roots within Tuscany, and is creeping closer behind, day by day."
 
-TUS_syndie_economy:0 "잔존한 생디칼리즘의 경제적 영향"
+TUS_syndie_economy:0 "잔존 생디칼리스트의 경제적 영향"
 TUS_syndie_economy_desc:0 "Due to our recent release from the old syndicalist government, remnants of the old economy lie deep within our financial system."
 
 TUS_culture_1:0 "새로운 르네상스"
@@ -70,7 +70,7 @@ TUS_elite_army_idea_desc:0 "With the rigorous training our army has undergone, o
 TUS_rooting_syndie_government:0 "생디칼리스트 정부의 영향력 근절"
 TUS_rooting_syndie_government_desc:0 "Due to our recent release from the Socialist Republic of Italy, leftover ministers and government officials still lie within the deepest depths of our government, waiting for their time to strike. We must remove them before they can cause any problems."
 
-TUS_rooting_syndie_economy:0 "생디칼리즘 경제 구조 파괴"
+TUS_rooting_syndie_economy:0 "생디칼리스트 경제 구조 파괴"
 TUS_rooting_syndie_economy_desc:0 "Due to our recent release from the Socialist Republic of Italy, leftovers from the old system of economy still lie within strange places of our new one, slowing down the progress of our country in the long run. We need to deal with this problem before it causes problems in the future."
 
 TUS_tuscany_woke:0 "토스카나의 재탄생"
