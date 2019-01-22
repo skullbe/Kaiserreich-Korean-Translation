@@ -22,8 +22,8 @@ WLL_authoritarian_democrat_party:0 "국왕 지지파"
 
 ### Tooltips ###
 
-Government_Failed:0 "The Government has Failed!"
-Monarchy_Restored:0 "The Monarchy has been Restored"
+Government_Failed:0 "정부가 실패했습니다!"
+Monarchy_Restored:0 "왕정복고되었습니다"
 Absolutism:0 "Adelbert reigns Absolute"
 Constitutional_Monarchy:0 "Return of the Constitutional Monarchy"
 Republic_Established:0 "The Republic has been Established"
@@ -41,7 +41,7 @@ Georges_Prosper_Remi:0 "Georges Prosper Remi"
 
 ### Ideas ###
 
-WLL_Monarchy:0 "Memories of the Revolution"
+WLL_Monarchy:0 "혁명의 기억"
 WLL_Monarchy_Army:0 "Loss of Faith in the Monarchy"
 WLL_Monarchy_Disorderly:0 "Royal Power Damaged"
 WLL_Monarchy_Disorderly2:0 "Consolidated Power"
@@ -141,9 +141,9 @@ wll.34.t:0 "Protest in La Louvière"
 wll.34.d:0 "It appears that in La Louvière thousands of disgruntled miners have come down to the town square to protest against the pro-German government and to demand Adelbert's abdication. Feldgendarmerie have been keeping watch on the protest and so far have been able to discourage violence between the Walloons and the much smaller counterprotest by German citizens. Though only small in size, the protest marks the end of an era. Further protests around the nation are already being organised and a general strike has now kept the nation paralysed for two weeks. The situation is becoming completely untenable with many Germans leaving the nation to avoid repression by the syndicalists."
 wll.34.a:0 "The monarchy is faltering!"
 
-wll.35.t:0 "The Namur March"
+wll.35.t:0 "나뮈르 행군"
 wll.35.d:0 "Further protests are engulfing the nation, with many people leaving their homes to gather on the streets of Namur. A product of the prestigious regional glass industry, a life-sized sculpture of Adelbert has been toppled in the town square and symbolically smashed to bits with mining pickaxes. Though police were able to arrest the perpetrators it was already too late as shards of glass were quickly grabbed by bystanders permanently memorialising the events of the day."
-wll.35.a:0 "We must fortify the Palace."
+wll.35.a:0 "우리는 궁전을 요새화해야한다."
 
 wll.36.t:0 "Royal Councillor Resigns"
 wll.36.d:0 "Not willing to risk his life for that of his king anymore, the royal councillor has announced his resignation and was seen leaving the palace to loud applause. The Feldgendarmerie have been used to push the crowd away from the fences and avoid violent escalation. Their efforts have been met by a grand crowd-driven performance of the Chant Des Wallons"
