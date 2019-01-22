@@ -72,16 +72,16 @@ KR_party_pop_more_than_75:0 "정당 인기도가 §Y75%§! 보다 많음"
 ### Decisions ###
 political_actions:0 "정치 행동"
 annexation_decisions:0 "합병 결단"
-legislate_more_freedoms:0 "입법권"
-legislate_more_freedoms_desc:0 "Perhaps the easiest way to improve our country's stability is to give the people what they want. It will involve some uncomfortable compromises, but ideally these are measures that are only temporary and designed to placate them until order can properly be restored."
+legislate_more_freedoms:0 "입법의 자유"
+legislate_more_freedoms_desc:0 "아마 우리나라의 안정도를 향상시킬 가장 간단한 방법은 바로, 국민들에게 원하는 것을 해주는 것일겁니다. 거북한 타협안도 거기에 포함 되겠지만, 이상적으로 이것은 질서가 복구될 때까지 대중들을 설득할 수 있는 일시적인 조치일뿐입니다."
 police_crackdown:0 "경찰의 탄압"
-police_crackdown_desc:0 "Disorder has become rampant. We must loosen the restrictions on our police forces, and give them the freedom to do their jobs in arresting the worst of the perpetrators."
+police_crackdown_desc:0 "무질서가 만연해졌습니다. 우리는 경찰권에 대한 제한을 완화하여 악질적인 범죄자들을 잡을 수 있도록 자율적인 권한을 주어야합니다."
 send_in_the_army:0 "군대 투입"
-send_in_the_army_desc:0 "The way to deal with disorder in our nation is to send in the army and suppress it completely. Not everyone will be happy about it, that's true, but sometimes martial law is the only alternative."
-rally_public_support:0 "집회 지지"
-rally_public_support_desc:0 "With some political power and some industrial backing, we will rally our supporters to our cause. While this will take time and resources, in the long run this will improve our political standing."
+send_in_the_army_desc:0 "우리나라의 무질서를 해결하는 방법은 군대를 투입하여 완벽히 탄압하는 것입니다. 대부분의 국민들은 이를 좋게 보지는 않겠지만, 때로는 계엄령이 유일한 대안입니다."
+rally_public_support:0 "집회 지원"
+rally_public_support_desc:0 "우리는 일부 정치 권력과 산업의 후원을 통해 지지자들을 우리의 뜻을 지지할 수 있도록 인도할 것입니다. 물론 시간과 자원은 많이 들겠지만 장기적으로는 우리의 정치적 지위를 향상시킬 것입니다."
 solidify_control:0 "결속 통제"
-solidify_control_desc:0 "Some tactful use of political power here and some resources there and we will remove our political obstacles; we may not be all to get rid of all of them, but even getting rid of some will clear our path and improve our political power in the long run."
+solidify_control_desc:0 "요령있게 일부 정치권력과 자원을 이용하여 우리의 정적들을 제거할 것입니다. 물론 정적들 전부를 없앨 수는 없겠지만, 일부를 제거하여 앞으로 우리의 행보가 탄탄대로를 걸을 수 있도록 할 것이며 우리의 정치권력이 장기유지될 수 있도록 할 것입니다."
 
 ### Economic Health ###
 boom_economy:0 "WIP" #Boom Economy WIP!!!
