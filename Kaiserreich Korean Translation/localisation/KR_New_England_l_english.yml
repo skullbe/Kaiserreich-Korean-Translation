@@ -1,12 +1,12 @@
 l_english:
 
 ### Parties ###
-NEE_totalist_party:0 "미국 사회당"
-NEE_totalist_party_long:0 "미국 사회당"
-NEE_syndicalist_party:0 "미국 사회당"
-NEE_syndicalist_party_long:0 "미국 사회당"
-NEE_radical_socialist_party:0 "미국 사회당"
-NEE_radical_socialist_party_long:0 "미국 사회당"
+NEE_totalist_party:0 "미국사회당"
+NEE_totalist_party_long:0 "미국사회당"
+NEE_syndicalist_party:0 "미국사회당"
+NEE_syndicalist_party_long:0 "미국사회당"
+NEE_radical_socialist_party:0 "미국사회당"
+NEE_radical_socialist_party_long:0 "미국사회당"
 NEE_social_democrat_party:0 "진보당"
 NEE_social_democrat_party_long:0 "진보당"
 NEE_social_liberal_party:0 "자유당"
@@ -15,12 +15,12 @@ NEE_market_liberal_party:0 "공화당"
 NEE_market_liberal_party_long:0 "공화당"
 NEE_social_conservative_party:0 "민주당"
 NEE_social_conservative_party_long:0 "민주당"
-NEE_authoritarian_democrat_party:0 "미국 제일당"
-NEE_authoritarian_democrat_party_long:0 "미국 제일당"
-NEE_paternal_autocrat_party:0 "미국 제일당"
-NEE_paternal_autocrat_party_long:0 "미국 제일당"
-NEE_national_populist_party:0 "미국 제일당"
-NEE_national_populist_party_long:0 "미국 제일당"
+NEE_authoritarian_democrat_party:0 "미국제일당"
+NEE_authoritarian_democrat_party_long:0 "미국제일당"
+NEE_paternal_autocrat_party:0 "미국제일당"
+NEE_paternal_autocrat_party_long:0 "미국제일당"
+NEE_national_populist_party:0 "미국제일당"
+NEE_national_populist_party_long:0 "미국제일당"
 
 ### Ideas ###
 NEE_limited_recognation1:0 "미승인국"
@@ -42,8 +42,8 @@ NEE_marine_corps:0 "뉴잉글랜드 해군"
 
 ### Opinion Modifiers ###
 occupied_new_england:0 "뉴잉글랜드는 외세 치하에 있습니다."
-NEE_left_driving:0 "좌측통행"
-NEE_right_driving:0 "우측통행"
+NEE_left_driving:0 "좌파의 길"
+NEE_right_driving:0 "우파의 길"
 
 ### Tooltips ###
 NEE_freedom_fliers_tt:0 "Unlocks £decision_icon_small §HDecisions§! to §YDrop Propaganda§! behind enemy lines\n"
@@ -145,7 +145,7 @@ NEE_Down_with_the_Traitors:0 "Fly over §Y[TEX.GetNameWithFlag]§!"
 NEE_Not_My_President:0 "Fly over §Y[CAL.GetNameWithFlag]§!"
 
 #Liberty Ship Project
-NEE_Liberty_Ship_Program:0 "Liberty Ship Program"
+NEE_Liberty_Ship_Program:0 "리버티선 계획"
 NEE_Liberty_Ship_Program_desc:0 "With war on the European continent inevitable and with the Ententes ambitions to execute the largest naval operation in the history of mankind, the dockyards of New England are working overtime to meet the increasing needs of the alliance. To further boost our output, a centralised construction scheme has been created by the government to guide the further expansion of these shipyards."
 
 NEE_Todd_Bath_Shipyard:0 "Todd-Bath Iron Shipbuilding Corporation"
@@ -555,7 +555,7 @@ newengland.54.t:0 "도베르만 '잭'"
 newengland.54.d:0 "인간이 다른 인간을 죽이는게 일상이 되었기에, 동물 세계도 폭력으로 빠져들었습니다. 하지만 코네티컷에서는 잭이라는 이름의 젊은 도베르만이 생디칼리스트들의 테러를 막았습니다! 그 개는 코네티컷 주방위군과 협력하여 훈련을 받고 있었는데, 그의 순찰대가 도망가는 생디칼리스트들을 발견했습니다.\n\n그 개는 즉시 진정한 미국인의 용기로 두 남자 중 한명을 물었습니다. 그 남자는 '폴 래쉬포드' 로 밝혀졌는데, 불과 몇 달전 생디칼리스트 폭동에 연류되어 추적받던 인물이었고, 생디칼리스트들이 코네티컷 전체에 비밀 네트워크를 구축했다는 것을 알아냈습니다.\n\n그의 체포가 미국 내 생디칼리즘의 종말을 의미하지는 않지만, '잭'은 그들의 지도력에 큰 타격을 주었습니다!"
 newengland.54.a:0 "이 좋은 친구에게 감사하자!"
 
-newengland.55.t:0 "CSA의 난민"
+newengland.55.t:0 "미노동연맹의 난민"
 newengland.55.d:0 "미국 내전의 공포가 계속 맹위를 떨치고 있고 그들의 영토로 들어오는 거대한 이동의 물결은 끝이 보이지 않습니다. 지난 달과 마찬가지로 우리의 지하철은 다시 한 번 수천명이 전쟁 난민을 우리의 안전한 항구로 성공적으로 이동시켰습니다."
 newengland.55.a:0 "폭력이 곧 끝나기를 "
 
