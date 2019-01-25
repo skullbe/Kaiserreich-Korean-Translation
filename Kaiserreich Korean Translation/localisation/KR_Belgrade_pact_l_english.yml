@@ -51,7 +51,7 @@ pact.1.a:0 "회의를 개회한다."
 pact.1.b:0 "회의를 폐회한다."
 
 pact.2.t:0 "베오그라드 회의"
-pact.2.d:0 "Serbia has invited us to send a diplomat to Belgrade to take part in the Belgrade Congress to discuss the political and military situation in the Balkans. Since the victory of Bulgaria in the Weltkrieg we have our eyes on land that is rightfully ours, and so does Serbia. They suggest we form a new, formal alliance called the Belgrade Pact, to protect our mutual interests and contain the Bulgarian menace. This could, however, anger Bulgaria's former allies Germany, Austria and the Ottoman Empire."
+pact.2.d:0 "세르비아는 발칸에서의 정치, 군사적 상황에 대해 의논하는 베오그라드 회의에 우리 외교관들을 초대했습니다. 우리는 불가리아가 대전쟁의 승리 후 가져간 우리의 정당한 영토에 대해 관심이 있고, 세르비아 또한 그렇습니다. 그들은 우리가 불가리아의 마수로부터 우리를 보호하기 위해 새로운 공식적 세력인 베오그라드 조약 기구를 만들자고 제안했습니다. 다만, 이것은 불가리아의 동맹국인 독일, 오스트리아, 그리고 오스만 제국을 자극할 수 있습니다."
 pact.2.a:0 "베오그라드 조약 기구에 대한 우리의 지지를 선언한다."
 pact.2.b:0 "우리는 그닥 관심이 없다."
 
@@ -61,7 +61,7 @@ pact.3.a:0 "평화를 위해 함께하자!"
 
 pact.4.t:0 "[From.GetName](이)가 베오그라드 조약 기구에 가입하지 않다"
 pact.4.d:0 "[From.GetAdjective] 정부는 불가리아에 맞서는 진영에 시간을 할양하지 않을 것이라고 선언하였습니다."
-pact.4.a:0 "필요하지도 않다."
+pact.4.a:0 "어차피 필요 없다."
 
 pact.5.t:0 "양면전선"
 pact.5.d:0 "그리스가 다른 전선을 만들어주기를 거부한 지금, 불가리아와 싸우는 것은 무리입니다. 때문에, 오스만에게 조약기구 가입을 제안했습니다. 이러한 움직임은 오스만으로 인해 불가리아가 북부에 있는 우리 동맹들을 공격하기 힘들도록 만들 것입니다."
@@ -69,18 +69,18 @@ pact.5.a:0 "오스만 제국을 초청하자."
 pact.5.b:0 "우리는 그들 없이도 괜찮을 것이다."
 
 pact.6.t:0 "세르비아가 베오그라드 조약 기구에 초청하다"
-pact.6.d:0 "In a surprising turn of events, the Serbian government has invited us to join the Belgrade Pact, an alliance clearly aimed at Bulgaria. Joining this Pact against our former ally would result in deteriorated relations with Germany and Austria. However, we may have a chance of claiming some land from Bulgaria or even expand in the direction of the Greeks, who decided not to join."
+pact.6.d:0 "놀랍게도, 세르비아 정부는 불가리아를 상대하는 것이 분명한 베오그라드 조약 기구에 우리를 초청했습니다. 옛 동맹을 배신하고 이 조약에 조인하는 것은 독일과 오스트리아와의 관계를 악화시키겠지만, 우리는 불가리아의 영토를 얻고 조약에 조인하지 않은 그리스의 영토도 얻을 수 있을지도 모릅니다."
 pact.6.a:0 "베오그라드 조약 기구에 대해 지지를 표명한다."
 pact.6.b:0 "그 대신 불가리아를 지원한다!"
 pact.6.c:0 "발칸 반도에는 신경 쓸 필요 없다."
 
 pact.7.t:0 "오스만 제국이 불가리아를 지원하다!"
-pact.7.d:0 "As some people predicted, the Ottoman government has decided to support the Bulgarians! Their foreign minister stated they will not cooperate with enemies of it's former Central Power ally. Though the agreement hasn't yet been formalised in a real alliance, the Ottomans might come to the aid of the Bulgarians if we decide to attack them."
+pact.7.d:0 "몇몇 사람들이 예상했듯이, 오스만 정부는 불가리아를 지원했습니다! 그들의 외교 장관은 대전쟁에서의 옛 적과는 서로 돕지 않을 것이라고 말했습니다. 확실한 동맹을 의미하는 것은 아니지만, 우리가 불가리아를 공격할 때 그들의 편에 설지도 모릅니다."
 pact.7.a:0 "끔찍하군."
 
 pact.8.t:0 "베오그라드 회의가 발칸반도에 대한 새로운 질서를 주장하다"
-pact.8.d:0 "On the initiative of Serbia, several countries have convened in Belgrade to discuss the political and military situation on the Balkans. During this congress a new military alliance was founded, the so-called Belgrade Pact. This is clearly aimed against us, out of revenge of their loss in the Weltkrieg. We can only hope our former Central Power allies will support us in this crisis."
-pact.8.a:0 "이거 좋지않군."
+pact.8.d:0 "세르비아를 필두로 해서, 몇몇 나라들은 베오그라드에 모여서 발칸 반도의 정치-군사적 상황에 대해 토론했습니다. 이 회의에서 베오그라드 조약 기구라고 불리는 새로운 군사 동맹이 창설되었습니다. 대전쟁에서의 패배를 되갚기 위해 우리를 겨냥한 동맹이 틀림없습니다. 우리는 옛 동맹국들이 우리를 도와 주는 것을 빌 뿐입니다."
+pact.8.a:0 "이거 좋지 않군."
 
 pact.9.t:0 "베오그라드 회의가 발칸반도에 대한 새로운 질서를 주장하다"
 pact.9.d:0 "On the initiative of Serbia, several countries have convened in Belgrade to discuss the political and military situation on the Balkans. During this congress a new military alliance was founded, the so-called Belgrade Pact. This is clearly aimed against our former ally Bulgaria, of whom the countries have lost territory in the Weltkrieg. If we openly announce our support for Bulgaria, it may keep the Belgrade Pact from declaring war on them."
@@ -120,7 +120,7 @@ pact.16.b:0 "평화를 유지할 것이다."
 
 pact.17.t:0 "세르비아의 최후통첩"
 pact.17.d:0 "베오그라드 조약이 보낸 최후통첩이 소피아에 도착했습니다. 그들은 우리가 세계 대전 당시 장악한 모든 영토의 반환을 요구했습니다. 베오그라드 조약의 회원국들은 우리가 거부한다면 전쟁 뿐이라고 우리를 위협하고 있습니다."
-pact.17.a:0 "그럼 하자고, 전쟁."
+pact.17.a:0 "그럼 전쟁이다."
 pact.17.b:0 "선택지가 없다. 그들의 요구를 수용하라"
 
 pact.18.t:0 "불가리아가 최후통첩을 무시하였습니다"
@@ -176,7 +176,7 @@ pact.28.d:0 "The Bulgarian government has gladly accepted our offer of an allian
 pact.28.a:0 "앞으로!"
 
 pact.29.t:0 "불가리아가 우리의 제안을 거부했습니다"
-pact.29.d:0 "The Bulgarian government has declined our offer of an alliance. They state they don't need our help against the Belgrade Pact."
+pact.29.d:0 "불가리아 정부는 우리의 동맹 제안을 거절했습니다. 그들은 베오그라드 조약 기구를 상대하는 데 우리는 필요 없다고 말합니다."
 pact.29.a:0 "잘먹고 잘살아라!"
 
 pact.30.t:0 "제4차 발칸전쟁"
@@ -200,21 +200,21 @@ pact.33.a:0 "훌륭해!"
 pact.33.tt:0 "러시아 군대와 장비가 도착합니다."
 
 pact.34.t:0 "제4차 발칸전쟁 종전"
-pact.34.d:0 "For good or ill, the Balkan War is now over. The General Staff have reported that they learnt many valuable lessons regarding the nature of modern warfare over the course of the conflict."
+pact.34.d:0 "좋든 나쁘든, 발칸 전쟁은 이제 끝났습니다. 군사 참모진들은 이 전쟁의 과정에서 현대전의 생태에 관한 많은 교훈을 얻었다고 보고했습니다."
 pact.34.a:0 "좋았어!"
 
 pact.35.t:0 "우리는 발칸전쟁에서 패배하고 있습니다"
-pact.35.d:0 "The forces of the Belgrade Pact have soundly defeated us in battle and occupied a large part of our country. We must end this war before they manage to overrun our entire homeland, or Bulgaria might cease to exist."
+pact.35.d:0 "베오그라드 조약 기구의 군대는 분명히 우리의 군대를 밀어내고 우리나라의 많은 부분을 차지하고 있습니다. 우리가 이 전쟁을 지금 끝내지 않으면, 불가리아는 사라져 버릴지도 모릅니다."
 pact.35.a:0 "휴전을 제안한다."
 pact.35.b:0 "아직 이길 수 있다!"
 
 pact.36.t:0 "불가리아가 휴전을 제안했습니다"
-pact.36.d:0 "With a large part of their homeland occupied and their forces in full retreat, Bulgaria has asked us for peace. They will hand over all disputed territories, but we will have to retreat our forces behind these new borders. An independent Bulgarian state will continue to exist, for now."
+pact.36.d:0 "그들의 영토의 상당 부분이 점유당하고 그들의 군대가 패퇴한 상황에서, 불가리아는 우리에게 휴전을 제안했습니다. 그들은 분쟁 중에 있는 모든 영토를 내놓겠지만, 우리는 새로운 국경 외부의 모든 병력을 철수시켜야 합니다. 그렇게 되면, 독립된 불가리아는 여전히 존재할 것입니다."
 pact.36.a:0 "베오그라드 조약의 승리다."
 pact.36.b:0 "아니, 그들은 파괴될 것이다!"
 
 pact.37.t:0 "베오그라드 조약과의 휴전"
-pact.37.d:0 "The Belgrade Pact has accepted our peace offer. We have to cede all disputed land but they will retreat their forces behind the new border."
+pact.37.d:0 "베오그라드 조약 기구는 우리의 평화 제안을 받아들였습니다. 우리는 모든 분쟁 지역을 내놓아야 하지만 적어도 그들의 군대는 철수하고 있습니다."
 pact.37.a:0 "최소한 우리는 아직 존재한다!"
 
 pact.38.t:0 "불가리아의 항복"
@@ -222,7 +222,7 @@ pact.38.d:0 "The joined armed forces of the Belgrade Pact have managed to revert
 pact.38.a:0 "베오그라드 조약의 승리다!"
 
 pact.39.t:0 "우리는 발칸전쟁에서 패배하고 있습니다"
-pact.39.d:0 "Our intervention in the Fourth Balkan War has been a total disaster. Bulgaria is no more, and now Constantinople is occupied by the Belgrade Pact. We must sue for peace while we still can!"
+pact.39.d:0 "4차 발칸 전쟁에서의 우리의 개입이 재앙을 불러왔습니다. 불가리아는 멸망했고, 콘스탄티노플이 베오그라드 조약 기구군에게 점령당했습니다. 우리가 할 수 있을 때 평화를 제안합시다!"
 pact.39.a:0 "휴전을 제안한다."
 pact.39.b:0 "아직 이길 수 있다!"
 
@@ -293,26 +293,26 @@ pact.54.a:0 "우리의 새로운 동맹을 축하하자."
 pact.55.t:0 "트라키아의 지위"
 pact.55.d_1:0 "The Greeks have sent us an additional message alongside their formal joining of the Pact. They are asking that Western Thrace be ceded to them as it is majority Greek. However, it is not under our sector of Bulgaria, and is in Ottoman hands. Asking the Ottomans to give up the territory just after they got it would be humiliating for them but we do not want to spurn our new Greek allies either. What shall we do?"
 pact.55.d_2:0 "또한 그리스는 서부 트라키아를 요구했습니다. 우리의 괴뢰국인 불가리아가 서부 트라키아를 그리스에게 이양하게 해야할까요?"
-pact.55.a:0 "Demand it be ceded."
+pact.55.a:0 "양도하게 해라."
 pact.55.b:0 "그대로 둘 것이다!"
 
 pact.56.t:0 "트라키아의 지위"
 pact.56.d:0 "The Serbians have ceded Southern Macedonia to the Greeks in return for them join the Belgrade Pact. While this good for the overall power of the Pact, the Serbs are calling on us to cede Western Thrace to the Greeks. Considering it was originally given to us as a part of our sector of Bulgaria, there is pressure to resist this and keep it. Shall we bow to the Serbian demand?"
-pact.56.a:0 "Very well then."
-pact.56.b:0 "No, we are keeping our new lands."
+pact.56.a:0 "좋을 대로 해라."
+pact.56.b:0 "우리의 영토를 지킬 것이다."
 
 pact.560.t:0 "Serbian Pressure"
 pact.560.d:0 "While our Serbian overlord initially granted us Western Thrace, they are now demanding that the region be ceded to Greece as part of a deal securing Greek membership in the Belgrade Pact."
-pact.560.a:0 "Damnit, We Have No Choice"
+pact.560.a:0 "젠장, 선택지가 없군."
 
 pact.57.t:0 "Western Thrace is Ours!"
 pact.57.d:0 "Western Thrace has come under our control. Finally, all the Greeks in these lands will live in Greece itself."
-pact.57.a:0 "Great!"
+pact.57.a:0 "좋아!"
 
 pact.570.t:0 "Western Thrace is Greek"
 pact.570.d_1:0 "Western Thrace has come under Greek control with the pressure we applied to our new Bulgarian puppet."
 pact.570.d_2:0 "Western Thrace has come under our control. Finally, all the Greeks in these lands will live in Greece itself."
-pact.570.a:0 "Great!"
+pact.570.a:0 "좋아!"
 
 pact.58.t:0 "Serbia will not pressure the Ottomans"
 pact.58.d:0 "The Serbian government will not pressure the Ottomans to cede Western Thrace to us. While we are now in an alliance together, it remains to be seen whether this will hold."
@@ -324,7 +324,7 @@ pact.59.a:0 "We will get it later."
 
 pact.60.t:0 "[From.GetName] won't join the Belgrade Pact"
 pact.60.d:0 "The [From.GetAdjective] government has announced they don't want to be part of the Belgrade Pact, not even when offered territorial concessions."
-pact.60.a:0 "Unfortunate."
+pact.60.a:0 "안타깝군."
 
 pact.62.t:0 "도브루자의 지위"
 pact.62.d:0 "The Serbians have defeated Bulgaria and have come to us, offering Dobrudzha to us in return for allying with them. Regaining this province would calm the masses and increase our prestige abroad. Shall we accept the offer?"
@@ -337,8 +337,8 @@ pact.63.a:0 "좋았어!"
 
 pact.64.t:0 "Call for occupation of Bulgaria"
 pact.64.d:0 "The Bulgarians have been defeated and we have redeemed ourselves in the eyes of the world! However, we had not originally thought out what to do with the remaining lands of Bulgaria beyond industrial reparations. The majority of our military officers are calling for at least temporary military occupation of the whole of Bulgaria, while some claim that an occupation might be too costly for our weary nation to handle."
-pact.64.a:0 "Divide Bulgaria into occupation zones!"
-pact.64.b:0 "Let them have their independence."
+pact.64.a:0 "불가리아 점령지를 분할하라!"
+pact.64.b:0 "국체를 남겨 두어라."
 
 pact.65.t:0 "[From.GetName] calls for joint occupation of Bulgaria"
 pact.65.d:0 "The [From.GetAdjective] government has called for a joint occupation of the remaing lands of Bulgaria. In the future, a much smaller Bulgarian state may be carved out of these territories. For now we have the right to govern our occupation zone as we see, even plundering it from anything valueable."
@@ -388,8 +388,8 @@ pact.74.b:0 "아직 우린 이길 수 있어!"
 
 pact.75.t:0 "알바니아가 휴전을 제안합니다"
 pact.75.d:0 "With part of their land occupied and their forces in full retreat, Albania has asked us for peace."
-pact.75.a:0 "The Belgrade Pact stands triumphant."
-pact.75.b:0 "No, they shall be crushed!"
+pact.75.a:0 "베오그라드 조약 기구의 위대한 승리다."
+pact.75.b:0 "아니, 그들은 파괴될 것이다!"
 
 pact.76.t:0 "베오그라드 조약 기구와의 휴전"
 pact.76.d:0 "The Belgrade Pact has accepted our peace offer. We have to cede some disputed land to them but they will retreat their forces."
@@ -423,7 +423,7 @@ pact.101.a:0 "What a relief!"
 
 pact.102.t:0 "Austria is Our Target"
 pact.102.d:0 "We should attack as soon as we get the opportunity!"
-pact.102.a:0 "Finally!"
+pact.102.a:0 "드디어!"
 
 pact.103.t:0 "Austria is no Longer Our Target"
 pact.103.d:0 "Time to back off!"
