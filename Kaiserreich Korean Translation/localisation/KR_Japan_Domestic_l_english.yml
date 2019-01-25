@@ -159,11 +159,11 @@ JAP_elec_reform_desc:0 "우리의 투표 제도에 대한 광범위한 검토한
 JAP_fem_reform:0 "여성 참정권 부여"
 JAP_fem_reform_desc:0 "여성주의 활동은 19세기에 일본에서 시작되었지만 여성주의자들은 최근에서야 1921년에 실시된 '경찰보안법'을 뒤집어 엎으면서 활동의 진전을 이루어 냈습니다. 최근에 자유주의 정신을 가진 사람들이 일본의 발달하는 민주주의 정통을 압박하며, 여성에게 완전한 정치적 권리를 부여하는 것을 추친하고 있습니다."
 JAP_DEM_SCI:0 "학문적 다원론"
-JAP_DEM_SCI_desc:0 "Pluralism is a central part of any democracy. By encouraging Pluralism in our academic institutions, we can improve our research and education!"
+JAP_DEM_SCI_desc:0 "다원론은 민주주의의 핵심적 가치입니다. 우리의 학문에서 다원론을 중시함으로써, 우리의 기술과 교육을 발전시킬 수 있습니다!"
 JAP_DEM_EDU:0 "헌법 교육"
 JAP_DEM_EDU_desc:0 "By introducing a new curriculum to the public-school system that includes democratic theory and principles we will raise a new generation of Japanese youth who will enshrine the ideas of humanism and democracy."
 JAP_DEM_CUL:0 "문화적 황금기"
-JAP_DEM_CUL_desc:0 "The openness and enlightenment of our society have encouraged a golden age in culture, both traditional and modern. Ancient arts of theatre and poetry are flourishing as well as new forms of entertainment such as films and animation. This reflects greatly on us abroad and strengthens Japanese values both in both foreign and domestic markets."
+JAP_DEM_CUL_desc:0 "우리 사회의 개방성과 계몽은 전통문화와 현대 문화 모두의 황금기를 이끌어냈습니다. 시와 같은 고전적 예술과 영화, 애니메이션과 같은 새로운 예술이 모두 번영하고 있습니다. 이것은 세계적으로 우리의 가치를 알리고, 국내외의 시장 모두에서 일본이 성장하는 데 큰 도움을 주고 있습니다."
 
 ### Focuses - Political - Centralism ###
 JAP_chuou:0 "군사적 중앙집권"
@@ -296,11 +296,11 @@ JAP_MIL_DOC_MAS5_desc:0 "The emperor's call brought thousands to our ranks, but 
 
 ### Focuses - Military - Firepower ###
 JAP_MIL_DOC_FIR:0 "화력 우세"
-JAP_MIL_DOC_FIR_desc:0 "The only way for us to secure our existence and expansion is through superior firepower. We must invest in new weapons and tactics to overwhelm our enemies."
+JAP_MIL_DOC_FIR_desc:0 "우리의 국가를 지키고 확장하기 위해서는 우수한 화력이 필요합니다. 우리가 적을 압도하기 위해서는 새로운 무기와 전략에 투자해야 할 것입니다."
 JAP_MIL_DOC_FIR2:0 "포병 연구"
 JAP_MIL_DOC_FIR2_desc:0 "By improving our artillery we can destroy the enemy's organisation and strength before our own soldiers get in the line of fire."
 JAP_MIL_DOC_FIR3:0 "화력 교리"
-JAP_MIL_DOC_FIR3_desc:0 "While there is great glory to be had in dying for the Emperor, there is an even greater glory in winning for the Emperor. With overwhelming firepower, enemy positions can be turned to dust."
+JAP_MIL_DOC_FIR3_desc:0 "천황 폐하를 위해 죽는 것은 영광스런 일이지만, 천황 폐하를 위해 승리하는 것은 더욱 영광스럽습니다. 압도적인 화력을 통해, 적군을 갈아 없애 버립시다."
 JAP_MIL_DOC_FIR4:0 "육군 개편"
 JAP_MIL_DOC_FIR4_desc:0 "There are still inefficiencies in our army structure. With Nagata's help we will remove them and have our army fighting at peak strength."
 JAP_MIL_DOC_FIR5:0 "포위 전술"
@@ -314,11 +314,11 @@ JAP_MIL_DOC_MOB2_desc:0 "We should fund revolutionary research into new fast mov
 JAP_MIL_DOC_MOB3:0 "치 계획"
 JAP_MIL_DOC_MOB3_desc:0 "Tanks are the drivers of modern warfare, and we need to make sure our tanks are the best in the world. By funding the Chi series, we will ensure we remain ahead of the world in medium tank technology."
 JAP_MIL_DOC_MOB4:0 "압도적인 화력"
-JAP_MIL_DOC_MOB4_desc:0 "If we are to win a war quickly, as Obata believes we must, it can only be with overwhelming firepower."
+JAP_MIL_DOC_MOB4_desc:0 "오바타가 말하듯이 우리가 전쟁을 빠르게 종결시키려면, 압도적 화력은 필수불가결한 요소가 될 것입니다."
 
 ### Focuses - Military - Naval ###
 JAP_MIL_naval_start:0 "해군 개혁"
-JAP_MIL_naval_start_desc:0 "We can't just focus on our army, our navy needs reforming as well."
+JAP_MIL_naval_start_desc:0 "우리는 육군에만 집중해서는 안 됩니다. 우리의 해군 역시 개혁이 필요합니다."
 JAP_MIL_MARINES:0 "수륙 양용"
 JAP_MIL_MARINES_desc:0 "The Kaigun Tokubetsu Rikusentai are some of the most well-trained, hardened and loyal troops in the world. German, Dutch, Chinese and anyone else who dares to stand in their way will without a doubt end up rotting on their beaches."
 JAP_MIL_NAV_BASES:0 "해군 확장"
@@ -436,7 +436,7 @@ japdom.17.a:0 "민주주의가 지켜졌다!"
 
 japdom.18.t:0 "권력 투쟁"
 japdom.18.d:0 "유신파 장교들은 의회정치가 자본가들의 금권정치에 지나지 않는다고 보고 그것을 전복시키는 쿠데타를 감행했습니다. 하지만 신정부의 요직은 중앙파가 차지했고, 유신파는 주변부로 밀려났습니다. 유신파 지도부는 자신들이 기망당했다고 결론내렸습니다. 새로운 권력투쟁의 장이 시작되려 합니다..."
-japdom.18.a:0 "끝나기는 할까?"
+japdom.18.a:0 "이 싸움이 끝나기는 할까?"
 
 japdom.19.t:0 "유신파의 역쿠데타"
 japdom.19.d:0 "오늘 새벽, 유신파 청년장교들이 도쿄 주둔 부대들을 이용해 또다른 쿠데타를 일으켰습니다! 아침이 밝자 1,400 명의 장교 및 병사들이 주요 통신 및 행정시설들을 접수하기 위해 움직이기 시작했습니다. 육군성, 육군참모부, 경시청, 총리관저, 국회의사장이 빠르게 함락되었고, 황거에서는 공성전이 벌어졌습니다. 오후가 되자 천황폐하께옵서 군사혁명을 공식적으로 지지한다는 옥음을 발표하셨습니다."
@@ -627,14 +627,13 @@ japdom.64.a:0 "좋은 소식이다!"
 ### Zankoas's new events japdom.65 onwards ###
 
 japdom.65.t:0 "천황과 민주주의"
-japdom.65.d:0 "The government is weak, so in a desperate move, have asked the Emperor to speak. He has gone before parliament in a rare appearance and fortunately has supported the government. His words carry great weight, and may be enough to keep the government afloat. Do we agree with his support, or argue against him?"
-japdom.65.a:0 "Lets us agree with the Emperor."
-japdom.65.b:0 "He is out of line!"
+japdom.65.d:0 "정부의 힘은 아직 약했기 때문에, 천황 폐하의 지원이 절실히 필요한 상황이었습니다. 폐하께서는 의회에 자주 참석하시지는 않으시지만, 다행히도 우리 정부를 지지해 주셨습니다. 폐하의 말은 큰 힘이 있고, 우리 정부가 지속되는 데 도움이 될 것입니다. 폐하의 지원을 받아들여야 할까요?"
+japdom.65.a:0 "천황이 동의해 주어서 다행이군."
+japdom.65.b:0 "상관없다!"
 
 japdom.72.t:0 "천황과 민주주의"
-japdom.72.d:0 "The government is weak, so in a desperate move, have asked the Emperor to speak. He has gone before parliament in a rare appearance but he has refused to support the government. His words carry great weight, and this lack of support may be a fatal blow. Without intervention the government will surely fall, do we agree with his support, or argue against him?"
-japdom.72.a:0 "Lets us agree with the Emperor."
-japdom.72.b:0 "He is out of line!"
+japdom.72.d:0 "정부의 힘은 아직 약했기 때문에, 천황 폐하의 지원이 절실히 필요한 상황이었습니다. 폐하께서는 의회에 자주 참석하시지는 않으시지만, 폐하께서는 정부를 지지하는 것을 거부하셨습니다. 폐하의 말에는 큰 힘이 있고, 우리 정부에 큰 타격을 줄지도 모릅니다. 폐하의 의견을 따른다면 우리 정부는 지속될 수 없을 것입니다. 폐하의 의견에 동의해야 할까요?"
+japdom.72.b:0 "상관없다!"
 
 japdom.66.t:0 "정치적 저항"
 japdom.66.d:0 "Though people say they are willing to lay down their life for the emperor, putting that to the test has been less successful than we would have liked. There has been political resistance to our mass mobilisation campaign, and while it is pushing ahead as planned, it has weakened out political position."
@@ -657,14 +656,14 @@ japdom.70.d:0 "나가타와 오바타 장군이 또다시 논쟁을 벌였습니
 japdom.70.a:0 "그랬으면 좋겠군."
 
 japdom.74.t:0 "궤간 바꾸기"
-japdom.74.d:0 "It has taken tremendous effort, but finally the switch is underway, while it is nowhere near complete, the worst is behind us, and we are already beginning to see the negative effects of our old, narrow, rail gauge diminishing."
+japdom.74.d:0 "엄청난 노력이 필요했지만, 드디어 철도 궤간을 바꾸었습니다. 완전한 교체를 위해서는 더 많은 노력이 필요하겠지만, 최악의 상황은 이제 지나갔고, 우리는 이미 과거 협궤철도가 가졌던 악영향들이 사라지는 것을 보고 있습니다."
 japdom.74.a:0 "반자이!"
 
 japdom.75.t:0 "토지개혁의 결과"
 japdom.75.bad:0 "토지개혁은 계속 문제가 되어왔던 정치적 문제였으며 우리는 최초로 토지개혁을 해결하려는 정부가 아니지만 안타깝게도 토지개혁을 완료할 정부도 아닙니다. 우리가 했던 노력들은 시간낭비였으며 그저 재앙을 가져다줄 뿐이었습니다! 우리는 토지개혁 문제을 깊게 파고 들어가지 못 했습니다. 이 여파는 앞으로 수년간 우리 경제를 괴롭히게 될 것입니다..."
-japdom.75.okay:0 "Land reform has been an ongoing political issue and we are not the first government to try and implement solutions but we may be the last, while we haven't revolutionised land use, we have fixed many issues, enough that inefficient land use will no longer plague our economy."
-japdom.75.good:0 "Land reform has been an ongoing political issue and we are not the first government to try and implement solutions, but where others failed we have succeeded! We have not only fixed many of the underlying issues but gone above and beyond; we have purchased and redistributed tens of thousands of hectares of land to landless or tenant farmers and are already beginning to see the benefits of our work!"
-japdom.75.great:0 "It's a miracle! Land reform has been an ongoing political issue and we are not the first government to try and implement solutions, but where others failed we have done what many thought was impossible! We have completed what is being internationally recognised as one of the largest land redistribution programs in history. 2.3 million hectares of land have been distributed to farmers during the project and landlordism as Japan knew it no longer exists."
+japdom.75.okay:0 "토지개혁은 계속되는 정치적 문제였으며 우리가 그것을 시도한 최초의 정부는 아니지만, 우리는 그것을 어찌저찌 끝냈습니다. 토지 이용을 획기적으로 바꾸지는 못했지만, 우리는 많은 문제를 고쳤습니다. 이제 비효율적인 토지 이용이 우리 경제를 괴롭히지는 않을 것입니다."
+japdom.75.good:0 "토지개혁은 계속되는 정치적 문제였으며 우리가 그것을 시도한 최초의 정부는 아니지만, 과거의 정부가 실패한 것을 우리는 해냈습니다. 우리는 현재의 문제를 해결했을 뿐만 아니라, 수만 헥타르의 토지를 구매하고 소작농에게 분배함으로써 그 이상을 해냈습니다. 우리는 이미 토지개혁의 성과를 보고 있습니다!"
+japdom.75.great:0 "기적적 성과입니다! 토지개혁은 계속되는 정치적 문제였고, 우리가 그것을 최초로 시도한 것도 아닙니다. 하지만 다른 이들이 불가능하다고 생각했던 것을 우리는 해냈습니다! 이 토지 개혁은 역사적으로 가장 거대한 토지 재분배 계획으로 기록될 것입니다. 2천 3백만 헥타르에 달하는 토지가 농부들에게 분배되었고, 일본이 지금까지 알았던 비효율적 지주제는 이제 없습니다. "
 japdom.75.a:0 "어떻게 이런 일이..."
 japdom.75.b:0 "우리 것이다!"
 japdom.75.c:0 "반자이!"
