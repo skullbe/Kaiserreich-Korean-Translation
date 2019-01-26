@@ -30,7 +30,7 @@ worldnews.6.d:0 "독일의 첩보원들은 최근 제3인터내셔널의 회원�
 worldnews.6.a:0 "만약 저들이 성공한다면..."
 
 worldnews.7.t:0 "차르가 돌아오다"
-worldnews.7.d:0 "세계대전의 마지막 해에 탄생한 러시아 공화국은 20년의 역사 끝에 종식될 것으로 보입니다. 무질서, 갈등 및 비효율적인 정부에 시달린 공화국은 국민들의 지지를 잃었고 러시아의 언론들은 이제 니콜라이 2세의 적법한 후계자가 국가의 새로운 차르로 즉위했다고 보도하고 있습니다. \n\n재탄생한 러시아 제국의 외교적 방침이 이전 정부와 얼마나 다른지 알지 못하고, 또 차르의 대관식이 '국가를 구하는 것에' 어떤 영향을 미칠지는 몰라도, 일단 전세계의 수많은 군주들은 로마노프가 차르의 신성한 권리를 되찾은 것을 축하했습니다."
+worldnews.7.d:0 "세계대전의 마지막 해에 탄생한 러시아 공화국은 20년의 역사 끝에 막을 내릴 것으로 보입니다. 무질서, 갈등 및 비효율적인 정부에 시달려온 국민들은 공화국에 대한 지지를 잃어갔고, 러시아의 언론들은 이제 니콜라이 2세의 적법한 후계자가 국가의 새로운 차르로 즉위했다고 보도하고 있습니다. \n\n재탄생한 러시아 제국의 외교적 방침이 이전 정부와 얼마나 다른지 알지 못하고, 또 차르의 대관식이 '국가의 구원'에 있어 어떤 영향을 미칠지는 몰라도, 일단 전세계의 수많은 군주들은 로마노프가 차르의 신성한 권리를 되찾은 것을 축하했습니다."
 worldnews.7.a:0 "언제까지 마지막이라는 거야?"
 
 worldnews.8.t:0 "러시아가 야심을 드러내다"
@@ -214,32 +214,32 @@ worldnews.50.d:0 "오랫동안 오스만군은 레반트와 아랍인들을 다�
 worldnews.50.a:0 "무너지는 제국을 향한 새로운 도전이군."
 
 worldnews.51.t:0 "폴란드가 새로운 왕을 선출하다"
-worldnews.51.d:0 "거의 20년 동안 폴란드 왕좌는 비어있었습니다. 세계대전 이후, 새로운 폴란드 왕을 선임하기 위하여 섭정 위원회가 소집되었습니다. 그러나 끊임없는 간섭과 기량 부족으로 지난 시간동안 위원회는 왕을 뽑지 못했습니다. 그러나 폴란드 섭정 위원회의 회의실에서 수주일간 치열한 논쟁이 벌어지고 마침내 폴란드의 오랜 공석에 새로운 군주 올라가게 되었습니다. \n\n [POL.GetLeader]의 대관식은 이른 아침에 바르샤바의 궁전에서 열렸고 퍼레이드와 축하가 이어졌습니다. 다가오는 폭풍우 속에서 새로운 왕이 작은 폴란드 국가를 이끌 수 있는지 여부는 아직 밝혀지지 않았습니다."
+worldnews.51.d:0 "거의 20년 동안 폴란드 왕좌는 비어있었습니다. 세계대전 이후 새로운 폴란드 왕을 선출하기 위하여 섭정의회(Sejm)가 구성된 바 있었지만, 끊임없는 간섭과 기량 부족으로 섭정의회는 지금까지 왕을 선출하지 못해왔습니다. 그러나 폴란드 섭정의회의 대회랑에서 수주일간 치열한 논쟁이 벌어진 끝에, 지금 마침내 오랫동안 공석이었던 폴란드의 왕좌에 국왕이 오르게 되었습니다. \n\n [POL.GetLeader]의 대관식은 이른 아침 바르샤바 왕궁에서 열렸고 퍼레이드와 축하가 이어졌습니다. 다가오는 폭풍우 속에서 새로운 왕이 작은 폴란드 국가를 잘 이끌 수 있을지의 여부는 아직 밝혀지지 않았습니다."
 worldnews.51.a:0 "섭정이 마침내 끝났다."
 
 worldnews.52.t:0 "폴란드가 생디칼리즘에 물들다"
-worldnews.52.d:0 "검은 월요일의 재앙 이후 폴란드 정부가 완전히 붕괴 된 이후, 폴란드는 완전한 무정부 상태에 빠졌으며, 많은 다른 정치파벌들이 옛 왕국의 공백 상태에서 권력을 놓고 경쟁했습니다. 이 싸움은 생디칼리즘 군대가 승리를 선언하면서 끝나게되었으며, 더이상 존재하지 않는 섭정 위원회의 회의실에서 국가를 완전히 통제한다고 발표했습니다. \n\n국제 사회는 이전에 보수적인 왕국의 정부가 하룻밤 사이에 급진적인 생디칼리즘 정부로 바뀐것에 대해 충격스러워 했습니다. 이 사건이 유럽에서의 어떤 징조가 될지는 시간만이 말해줄것입니다."
+worldnews.52.d:0 "검은 월요일의 재앙스러운 여파에 폴란드 정부가 붕괴된 이후 폴란드는 완전한 무정부상태에 빠졌으며, 많은 다른 정치파벌들이 옛 왕국이 쥐고 있던 권좌를 놓고 경쟁했습니다. 이 싸움은 생디칼리스트 군대가 승리를 선언하면서 끝이 났으며, 그들은 더 이상 존재하지 않는 옛 섭정의회의 대회랑에서 국가를 완전히 통제한다고 발표했습니다. \n\n국제사회는 상당히 보수적이었던 왕국 정부가 하룻밤 사이에 급진적인 생디칼리즘 정부로 격변한 이 사태에 충격을 금치 못했습니다. 이 사건이 유럽에서의 어떤 징조가 될지는 시간만이 말해줄 것입니다."
 worldnews.52.a:0 "제국 조약 가운데에 가시가 생겼군."
 
 worldnews.53.t:0 "폴란드가 민족주의에 물들다"
-worldnews.53.d:0 "검은 월요일의 재앙 이후 폴란드 정부가 완전히 붕괴 된 이후, 폴란드는 완전한 무정부 상태에 빠졌으며, 많은 다른 정치파벌들이 옛 왕국의 공백 상태에서 권력을 놓고 경쟁했습니다. 이 싸움은 폴란드 민족주의 세력이 바르샤바에 있는 궁전의 버려진 계단에서 공식적으로 새로운 체제의 창설을 공식 발표하고 승리를 선언하면서 끝이났습니다. \n\n새로운 민족주의 정부는 '위대한 폴란드 국가'의 즉각적인 선포와 모든 폴란드인을 하나의 깃발 아래로 통일하려는 의도로 이웃 국가들을 뒤흔들었습니다. 새로운 정부가 약속을 지킬 수 있을지 여부는 지켜봐야합니다."
-worldnews.53.a:0 "분명히 독일인들은 그렇게 되도록 놔두지 않을 것이다."
+worldnews.53.d:0 "검은 월요일의 재앙스러운 여파에 폴란드 정부가 붕괴된 이후 폴란드는 완전한 무정부상태에 빠졌으며, 많은 다른 정치파벌들이 옛 왕국이 쥐고 있던 권좌를 놓고 경쟁했습니다. 이 싸움은 폴란드 민족주의 세력이 반쯤 폐허가 된 바르샤바 왕궁의 계단에서 공식적으로 본인들의 승리와 새로운 체제의 확립을 선언하면서 끝이 났습니다. \n\n새로운 민족주의 정부는 즉시 '대 폴란드국'을 선포하고 모든 폴란드인을 하나의 깃발 아래로 통일할 것을 천명함으로써 이웃 국가들을 뒤흔들었습니다. 과연 이 새로운 정부가 약속을 지킬 수 있을지의 여부는 지켜보아야 하겠습니다."
+worldnews.53.a:0 "독일이 결코 그렇게 되도록 놔두지 않을 텐데."
 
 worldnews.54.t:0 "폴란드의 공화국 선포"
-worldnews.54.d:0 "폴란드에서 몇 건의 대규모 테러가 발생하고 경제가 거의 붕괴 된 후 폴란드 고위 관리들이 새로운 '폴란드 공화국'의 창설을 선언했습니다. 이 선언은 많은 정부 부처의 즉각적인 지원 선언을 받았으며, 공화국은 유혈 사태 없이 대부분의 국가를 장악하고 있는것으로 보입니다. \n\n폴란드의 전 통치 기관인 섭정 위원회는 해산되었고, 다음 폴란드 왕이 누가 될가라는 질문은 영원히 답을 못한채로 남겨졌습니다. 사람들은 새로운 공화국을 중심으로 다시 모여 들었고 나라의 새로운 미래가 밝아졌습니다."
-worldnews.54.a:0 "구 질서가 사라지고 있는건가?"
+worldnews.54.d:0 "폴란드에서 몇 건의 대규모 테러와 경제 붕괴가 있고 나서, 폴란드의 고위 관리들은 새로운 '폴란드 공화국'을 선포했습니다. 이 선언은 많은 정부 부처의 즉각적인 지지선언을 받았으며, 공화국은 유혈사태 없이 국가 전역을 장악하고 있는 것으로 보입니다. \n\n폴란드의 이전 통치 기관인 섭정의회는 해체되었고, 따라서 다음 폴란드 왕이 누구일지에 대한 질문은 영원히 답하지 못하게 되었습니다. 국민들은 새로운 공화국을 중심으로 다시 집결했으며 이 국가에는 새로운 미래가 펼쳐졌습니다."
+worldnews.54.a:0 "구질서가 사라지고 있는 건가?"
 
 worldnews.55.t:0 "폴란드 군부가 권력을 장악하다"
-worldnews.55.d:0 "폴란드 정부의 붕괴를 막기 위해서, 어제 세임은 군부를 불러모아 경제 및 정치상황이 안정될 때까지 새로운 정부를 구성하도록 했습니다. 폴란드 군대는 이 갑작스런 군대 인수의 여파로 국가 통행 금지령을 선언한 [POL.GetLeader]의 지도 아래 신속히 움직였습니다. \n\n폴란드 군대가 바르샤바의 거리를 순찰하고 있고, 상황이 안정된 이후에도 군부가 떠나지 않고 동유럽에서 또 하나의 군사 독재 정권을 만들어낼 지에 대해 많은 이들이 주목하고 있습니다."
-worldnews.55.a:0 "폴란드는 스스로 선택할 수 없는 것으로 보인다. 군대는 그들을 위한 선택을 했다."
+worldnews.55.d:0 "폴란드 정부의 붕괴를 막기 위해서, 어제 섭정의회는 군부를 호출해 경제 및 정치적 상황이 안정될 때까지 새로운 정부를 구성하도록 했습니다. 폴란드군은 이 갑작스런 군정체제의 여파로 국가 계엄령을 선포한 [POL.GetLeader]의 지도 아래 신속히 움직였습니다. \n\n현재 폴란드군이 바르샤바의 거리를 순찰하고 있으며, 혹시나 상황이 안정된 이후에도 군부가 떠나지 않고 동유럽에서 또 하나의 군사 독재 정권을 만들어내는 것은 아닐지에 대해 많은 이들이 주목하고 있습니다."
+worldnews.55.a:0 "폴란드의 운명은 순전히 군에게 달렸다."
 
 worldnews.56.t:0 "카르파티아에서의 군사훈련"
 worldnews.56.d:0 "1918년 부쿠레슈티 조약으로 루마니아의 세계대전은 공식적으로 끝났지만, 많은 전비가 이미 소모되었습니다. 루마니아는 이제 독일과 오스트리아 산업에 의해 지배되었고, 올테니아는 비무장화되었고, 유전은 2012년 먼 미래까지 독일에게 임대되었습니다. \n\n이 굴욕으로 인해 루마니아는 독재자 코르넬리유 코드리뉴가 이끄는 민족대중주의 독재 국가로 전락했습니다. 코드리뉴와 철위대는 루마니아를 그들이 '그래야 됐던 것'이라고 말하는 발칸의 거인으로 만들기로 결정했습니다. \n\n 그들이 수행한 첫번째 작전은 대규모 카르파티아 침공준비 군사훈련이었습니다. 어쩌면 카르파티아 너머의 땅을 노리는 것일지도 모릅니다."
 worldnews.56.a:0 "세계는 변하고 있다..."
 
 worldnews.57.t:0 "랑군 대학의 폭동과 시위"
-worldnews.57.d:0 "정부에 대한 시민의 권한이 부족하다는 불만이 1926년 독립 이후 버마에서 가장 큰 시위를 촉발 시켰습니다. 크고 권위있는 랑군 대학에서 시작하여, 급진적인 좌파 학생들은 여러 행정 건물을 점거하고 군주제와 봉건적인 지지자들은 부패하고 국민의 복지에 해로운 존재라고 비난하는 집회를 개최했습니다. 그러나 시위자들은 산업 노동자와 농촌 농민들의 지지를 얻지 못하고 싹트고 있는 운동을 버마의 지식인들에게 국한시켰습니다."
-worldnews.57.a:0 "이러한 발전을 따라 가자."
+worldnews.57.d:0 "정부에 대한 시민의 권한이 부족하다는 불만이 1926년 독립 이후 버마에서 가장 큰 시위를 촉발시켰습니다. 크고 권위있는 랑군 대학에서 시작하여, 급진적인 좌파 학생들은 여러 행정 건물을 점거하고 군주제와 봉건적인 지지자들은 부패하고 국민의 복지에 해로운 존재라고 비난하는 집회를 개최했습니다. 그러나 시위자들은 산업 노동자와 농촌 농민들의 지지를 얻지 못하고 싹트고 있는 운동을 버마의 지식인들에게 국한시켰습니다."
+worldnews.57.a:0 "이러한 추세에 적응하자."
 
 worldnews.58.t:0 "필리핀에서 민주주의가 퍼지다."
 worldnews.58.d:0 "필리핀은 이제 막 미국으로부터 독립을 얻었으며, 새로운 나라가 직면 할 수있는 가장 심각할 수 있는 도전 중 하나에 직면했습니다. 아메리카 노동 연맹과 바라티야 코뮌에서 영향을 받은 불만이 있는 육군 장교들은 마닐라를 행진하여 농민과 노동자를 반란을 일으켰습니다. \n\n운좋게도, 군대의 충신들이 합법적이고 민주적인 필리핀 정부에 대한 지지를 재확인하고 반정부 군대를 수도에서 몰아냄으로써 생디칼리즘 쿠데타가 부화하기 전에 그 위협을 끝내면서 그들의 시도는 빠르게 좌절되었습니다."
@@ -259,7 +259,7 @@ worldnews.61.d:0 "버마 정부의 왕립 버마 군대가 학생들과 노동�
 worldnews.61.a:0 "국가별로 혁명이 일어나고 있구나."
 
 worldnews.62.t:0 "남아프리카 내전"
-worldnews.62.d.apartheid:0 "대영 제국의 오래된 식민지중 하나인 남아프리카 공화국은 20년 전 영국의 몰락으로 영국의 지배에서 벗어났습니다. 다른 식민지가 협상국에 남아있는 와중에, 남아프리카 공화국은 네덜란드계 정치인들이 지배해온 남아프리카 연합의 독립을 선언했습니다. \n\n그러나 1938년 열린, 이 나라의 역사상 가장 정치적으로 중요한 선거에서 영국의 지배에 동의하는 사람들이 공화국을 찬성하는 네덜란드계 사람들과 대결하고있습니다. 그러나 양측이 서로를 꺽기위해 들고 일어났기 때문에, 투표 용지가 결정적인 요인이 되지는 않을 것같습니다."
+worldnews.62.d.apartheid:0 "대영 제국의 오래된 식민지중 하나인 남아프리카 공화국은 20년 전 영국의 몰락으로 영국의 지배에서 벗어났습니다. 다른 식민지가 협상국에 남아있는 와중에, 남아프리카 공화국은 네덜란드계 정치인들이 지배해온 남아프리카 연합의 독립을 선언했습니다. \n\n그러나 1938년 열린, 이 나라의 역사상 가장 정치적으로 중요한 선거에서 영국의 지배에 동의하는 사람들이 공화국을 지지하는 네덜란드계 시민들과 충돌하고 있습니다. 그러나 양측이 서로를 무력으로 꺾기 위해 들고일어났기 때문에, 투표 용지가 결정적인 요인이 되지는 않을 것 같습니다."
 worldnews.62.d.federation:0 "With their recent victory in the South African 1938 elections, the Dominion Party under President Jan Smuts was confident it could implement its sweeping changes to the country's governmental system in a planned federation, regardless of protests from the Afrikaner provinces of Transvaal and the Oranje Free State. Today that confidence was proven ill-founded as leaders in Pretoria and Bloemfontein declared their secession from the Union and the creation of the Zuid-Afrikaansche Republiek. Battle lines have already been drawn, splitting the country in two, as a new Boer War has broken out to determine South Africa's path once and for all."
 worldnews.62.d.centenary1:0 "With their recent victory in the South African 1938 elections, it was assumed the National Party under President James Hertzog had finally united the nation and ended the question of the country's future. Widespread violence which broke out at the country's centenary celebrations have spread throughout the country, however, culminating today as leaders in Durban signed a document they call 'the Natal Covenant' which declares that they will never surrender to the Nationalists and will see their government toppled by force. Battle lines have already been drawn, splitting the country in two, as a civil war has broken out to determine South Africa's path once and for all."
 worldnews.62.d.centenary2:0 "With their recent victory in the South African 1938 elections, it was assumed the Dominion Party under President Jan Smuts had finally united the nation and ended the question of the country's future. Widespread violence which broke out at the country's centenary celebrations have spread throughout the country, however, culminating today as leaders in Pretoria and Bloemfontein declared their secession from the Union and the creation of the Zuid-Afrikaansche Republiek. Battle lines have already been drawn, splitting the country in two, as a new Boer War has broken out to determine South Africa's path once and for all."
@@ -338,7 +338,7 @@ worldnews.77.t:0 "바라티야 코뮌의 생디칼리스트"
 worldnews.77.d:0 "바라티야 코뮌의 중도파 파벌의 지도자이자 최근 선출된 국가 원수인 A. K. Fazlul Hu는 오늘 캘커타의 군중들에게 열정적인 연설을 했습니다. 그의 새 생디칼리즘 정부는 국가를 위해 번영과 산업 성장의 시대를 열어 줄 것이라고 약속했습니다. 그는 이것이 북부의 인도 자치령과 서부의 토후 연맹을 향한보다 회유적인 접근을 의미 할 수도 있다는 말들을 일축하면서, 코뮌은 인도 아대륙과 전세계에 노동자 혁명을 확산시키기 위해 무엇이든지 할 것이라고 말했습니다. 그의 당선은 많은 지역에서 다른 지역의 생디칼리즘 국가들과의 보다 긴밀한 관계의 표시로 해석되고있으며, 일부는 이것이 바라티야 코뮌이 프랑스 코뮌의 인터내셔널의 가입을 의미한다고 추측합니다."
 worldnews.77.a:0 "흥미롭군."
 
-worldnews.78.t:0 "바라티야 코뮌에서 간디가 힘을 얻는다." 
+worldnews.78.t:0 "간디가 바라티야 코뮌의 정권을 잡다"
 worldnews.78.d:0 "바라티야 코뮌의 농촌사회주의 당의 지도자이자 최근 선출된 국가 원수인 모한다스 카람찬드 간디(Mohandas Karamchand Gandhi) - 그의 국민에 대한 헌신으로 때때로 마하트마 또는 '순수한 영혼'으로 불리는 - 는 오늘 캘커타의 군중들에게 열정적인 연설을 했습니다. 그는 인도의 통일을 위한 '평화의 길'이 있음을 약속했습니다. 그는 이것이 북부의 인도 자치령과 서부의 토후 연맹에 대한 바라티야 연방의 항복이라는 의미라는 추측을 일축하면서 코뮌은 모든 침략에 대해 스스로를 지킬것이라고 단호하게 주장했습니다. 그는 인도 전역의 사람들에게 더 많은 불행만을 가져오는 파괴적인 전쟁보다는 평화적 수단을 통해 스와라지(자치)의 가능성을 고려할 것을 촉구했습니다. 그의 정부가 이 길을 따라가기 위해 최선을 다할 것이라고 말했습니다."
 worldnews.78.a:0 "흥미롭군."
 
@@ -354,15 +354,15 @@ worldnews.81.t:0 "간디에 대항하여 강경파가 들고 일어나다"
 worldnews.81.d:0 "마하트마(모한다스 카람찬드 간디)가 평화적인 재결합을 위해 [DEH.GetNameDef]와(과) 대화를 시작한 지난주에 캘커타 주변에서 소용돌이 치고 소문이 있었습니다. 재결합이 실제로 일어날 지 여부는 말하기가 어렵습니다. 그 확률과 관계없이, [DEH.GetNameDef]의 전체주의자들이 분노하여 들고 일어났고, 수바스 찬드라 보세(Subhas Chandra Bose)는 재결합이 실제로 일어나지 않도록 하기위해 강경파 파벌을 모아 간디와 농민당에 대항하여 파업을 일으켰습니다. 이미 벵골의 시골 지역에서 전투가 벌어졌지만 나머지 인도 지역들은 그 결과를 보고 기다릴 수밖에 없습니다."
 worldnews.81.a:0 "또 다른 내전이라니? 맙소사!"
 
-worldnews.82.t:0 "강경파가 켈커타를 점령하다."
+worldnews.82.t:0 "강경파가 캘커타를 점령하다"
 worldnews.82.d:0 "수바스 찬드라 보세의 지휘 하에 있는 강경파가 오늘 캘커타의 심장부로 몰려갔습니다. 그들은 인도 국민 의회 건물을 둘러쌌고, 소문에 의하면 마하트마를 포함한 농민당 지도자들을 포위하고 있다고 합니다. 간디의 소재는 현재 알려지지 않았지만, 보스와 강경파는 정부를 완전히 장악하고 질서를 회복했습니다. 농민당은 불법으로 지정되었으며, 이는 바라티야와의 평화와 나머지 인도인들간의 분쟁을 멈추려는 간디의 꿈이 무너졌다는 것을 의미합니다."
 worldnews.82.a:0 "바라티야 코뮌의 미래가 불확실하구나."
 
-worldnews.83.t:0 "간디가 내전을 시작하다."
+worldnews.83.t:0 "간디가 내전을 시작하다"
 worldnews.83.d:0 "오랫동안 그의 평화주의적 방식으로 오랫동안 명성을 얻었던 마하트마조차도 한계를 느끼고 있는 것으로 보입니다. 수바스 찬드라 보세가 이끄는 인도 국민 의회의 강경파에 대해 그들의 전쟁 도발과 바라티야 코뮌의 군대에 대한 숙청을 중단할것을 여러차례 요청한후, 모한다스 카람찬드 간디는 전체주의 정부를 무력으로 무너뜨리기 위해 고지대에서 광범위한 폭동을 일으켰습니다. 일부는 전쟁이 시작된날 마하트마를 체포하도록 명령하고 이제는 농민당이 패배 할 경우 즉각 처형하도록 명령한 보스가 마하트마에게 이 어색한 입장을 강제했다고 말합니다."
 worldnews.83.a:0 "또 다른 내전이라니? 맙소사!"
 
-worldnews.84.t:0 "농민당이 켈커타를 점령하다."
+worldnews.84.t:0 "농민당이 캘커타를 점령하다"
 worldnews.84.d:0 "모한다스 카람찬드 간디의 지휘 하에 있는 농민당이 오늘 캘커타의 심장부로 몰려갔습니다. 그들은 인도 국민 의회 건물을 둘러쌌고, 소문에 의하면 전체주의 지도자들을 포위하고 있다고 합니다. 전체주의자들의 수장인 수바스 찬드라 보세의 소재는 현재 알려지지 않았지만, 간디와 농민당은 정부를 완전히 장악하고 질서를 회복했습니다. 강경파 정당은 불법으로 지정되었으며, 이는 [BEH.GetNameDef]가 인도 전역과의 공개 전쟁을 향한 빠른 행보가 멈추었다는 것을 의미합니다."
 worldnews.84.a:0 "이것은 그들을 약하게 할까 아니면 더 강하게 할까?"
 
@@ -708,23 +708,23 @@ worldnews.161.a:0 "이것은 민주주의를 위한 승리인가?"
 
 worldnews.162.t:0 "칠레의 반혁명"
 worldnews.162.d:0 "칠레가 한때 남미에서 가장 성공적인 생디칼리즘과 사회주의적 가치의 보루로 여겨졌음에도 불구하고 칠레 정권은 더 이상 존재하지 않는 것 같습니다. 아르헨티나와의 전쟁 중 지도력에서의 명백한 실패와 칠레가 직면하고 있던 끔찍한 전략적 상황으로 인해 오늘 산티아고에서 군 장교들이 권력을 장악하게 되었고, 도시와 전국에 걸쳐 많은 핵심 방위거점들이 신속하게 무너졌습니다.\n\n칠레의 행보가 현재 어디로 나아갈 지는 불확실하지만, 적어도 현재로서는 라틴 아메리카에서 또 다른 군사정권이 통치하고 있는 것으로 보입니다."
-worldnews.162.a:0 "망치화 횃불이 타격을 받았군."
+worldnews.162.a:0 "망치와 횃불이 타격을 받았군."
 
 worldnews.163.t:0 "페루의 아프라주의 혁명"
 worldnews.163.d:0 "페루 전역의 사회주의, 생디칼리즘 단체와 개인에 대한 정부의 탄압으로 인해, 점점 더 박해를 받으며 최악의 상황을 두려워한 반대파는 오늘 필사적인 쿠데타 시도를 했습니다. 수도 리마를 향한 행진은 매우 성공적이었으며, 도시 전역과 전국에 걸쳐 주요 전략 지점을 빠르게 점거한 붉은 민병대 앞에서 국군 파견대는 무너졌습니다. 페루가 세계를 뒤덮고 있는 이념 분쟁의 또 다른 희생자가 된 것 같습니다."
-worldnews.163.a:0 "붉은 홍수가 안데스 산맥에 이르렀다."
+worldnews.163.a:0 "붉은 물결이 안데스 산맥에 이르렀다."
 
 worldnews.164.t:0 "페루-볼리비아 연방 회복"
 worldnews.164.d:0 "남아메리카에서 오래된 생각이 다시 태어난 것 같습니다. 많은 지방의 적들에게 잠재적인 위협으로 여겨지는 페루와 볼리비아 간의 원래 연맹은 1839년 융가이 전투에서 승리한 칠레에 의해 붕괴되었습니다. 그럼에도 불구하고, 이 새로운 연합은 이전의 것과 달리 남미와 더 넓은 세계에서 이런 불안정한 시기에 스스로를 지탱할 수 있다는 것이 증명될 수 있습니다. 국내외 관측통들은 라파스와 리마 사이에 새로운 정책이 진정으로 통일된 국가로 불릴 수 있기 전에 해결되어야 할 핵심 쟁점이 있음을 지적했습니다."
-worldnews.164.a:0 "산타 크루즈의 꿈은 다시 한번 이루어졌다."
+worldnews.164.a:0 "산타크루스의 꿈이 다시 한번 이루어졌다."
 
 worldnews.165.t:0 "볼리비아의 민족주의 쿠데타"
 worldnews.165.d:0 "이전 정부의 실패에 화가 난 다수의 민족주의 육군 장교들이 오늘 볼리비아에서 라파스 정부를 성공적으로 전복시키기 위해 쿠데타를 일으켰습니다. 볼리비아 국민당의 대표들은 위대한 국가로 되돌아갈 것을 선언했으며, 이미 새 정부가 새로운 보복주의 외교 정책을 시작하기를 열망하는 것은 분명해 보입니다. 그들은 볼리비아의 이웃들과 충돌하게 만들 것으로 확실해 보입니다. 이미 볼리비아 국민당 내부에는 의회의 완전한 해체를 고려하는 인물들의 속삭임이 있고, 만약 이러한 소문이 사실이라면 그것은 더 넓은 지역뿐만 아니라 국가의 정치에도 결정적인 변화를 나타냅니다."
-worldnews.165.a:0 "세계가 양극화되고 있다는 더 많은 증거로군."
+worldnews.165.a:0 "세계가 양극화되고 있다는 또다른 증거로군."
 
 worldnews.166.t:0 "볼리비아에서 당선된 생디칼리스트들"
 worldnews.166.d:0 "놀라운 사건이 벌어졌는데 볼리비아 생디칼리스트당은 라파스에서 선거 승리를 이룩한 것뿐만 아니라 전 국가 지도자인 부시와 민족주의 정당인 볼리비아 국민당과 같은 여러 반동적인 위협들은 겉보기에는 공정하고 민주적인 결과를 받아들였습니다. 비록 개입의 위험이 높았지만, 투표에 반대하는 초기의 노력은 이미 흐려졌고 대부분의 볼리비아 국가 지도자들은 선거의 정당성을 인정했습니다.\n\n 비록 많은 국제 인물들, 특히 군주제 주도의 국가와 군사 독재 국가에서, 이 시험 사건은 투표소 근처에 생디칼리스트들을 허용하는 것의 위험성을 입증한다고 경고했지만, 지금은 볼리비아가 상대적으로 안정되어 있는 것 같습니다."
-worldnews.166.a:0 "흥미로운 결과로군."
+worldnews.166.a:0 "흥미로운 결과다."
 
 worldnews.167.t:0 "파라과이의 군국주의 반란"
 worldnews.167.d:0 "The situation in the South American nation of Paraguay has reached fever pitch as the government of José Félix Estigarribia has finally collapsed in the wake of failed policy programmes. Politically charged officers across the nation led their respective barracks in revolts against both the administration and their syndicalist rivals but swiftly managed to seize the Presidential Palace in Asunción ending serious hostilities.\n\n The nation now rests under the iron grip of General Higinio Morínigo Martínez and his troops, who are eager to - as they see it - restore Paraguay's lost glory and crush all of its enemies both domestically and beyond the nation's borders."
@@ -782,9 +782,9 @@ worldnews.180.t:0 "모잠비크 오지에서의 전쟁"
 worldnews.180.d:0 "Though there are some that believe that old fashioned colonial wars are a relic of the pre-Weltkrieg era, recent events in Africa have shown that Man's thirst for battle on the dark continent is not in any immediate danger of abating.\n\n Growing tensions between German Mittelafrika and the Portuguese colonies have degenerated in recent months from somewhat farcical disputes involving little more than cattle raiding into open conflict in Mozambique and Angola, with colonial troops and their white officers on both sides waging fruitless guerilla war that is sure to cost many lives."
 worldnews.180.a:0 "그들이 그럴 가치가 있다고 생각하면야..."
 
-worldnews.181.t:0 "Sovereignists Dominate Mittelafrika"
+worldnews.181.t:0 "강경파가 중앙아프리카를 지배하다"
 worldnews.181.d:0 "The press pack in Berlin has been abuzz with reports about sweeping political changes taking place within the traditionally secretive Mittelafrikan colonial administration. Despite the colony's Statthalter von Göring having undergone a bruising legal battle in the German courts, it appears that his political survival has greatly emboldened the so-called 'Souveränisten' faction in Dar-Es-Salaam.\nUsing the legal principle established in the case of Kenyatta v Solf, that within Mittelafrika the Statthalter's sovereignty cannot be infringed, Göring's more hardline faction has become ascendant domestically. The dark continent is sure to get darker under the influence of these figures, many of whom have long treated Mittelafrika as little more than a personal fiefdom."
-worldnews.181.a:0 "A strange state of affairs."
+worldnews.181.a:0 "이상하게 진행되는데."
 
 worldnews.182.t:0 "베네치아 반란"
 worldnews.182.d:0 "With the recent electoral victory of the right-wing and vehemently anti-Austrian ANI party in the Italian Republic, there has been open sedition in the Veneto region by moderates opposed to the new government. Many regional rebels are openly calling for the restoration of the Serene Republic of Venice, the famous state that had been conquered in the Revolutionary Wars and ruled alternatively by France, Austria and Italy ever since.\nThough it is as yet unclear whether this is part of an Austrian scheme to further their influence on the peninsula or represents legitimate efforts by rebels to free themselves from ANI rule, already fighting is breaking out across northern Italy posing a substantial risk to the Milan government, surrounded as it is by enemies on all sides."
@@ -795,7 +795,7 @@ worldnews.183.d:0 "The Weltkrieg caused tremendous damage to the already struggl
 worldnews.183.a:0 "술탄에게 또 한 방 먹였군."
 
 worldnews.184.t:0 "두 번째 명예로운 평화"
-worldnews.184.d:0 "2차 세계대전이 1차 때와 마찬가지로 끝날 것처럼 보입니다. 제국 조약의 군대가 프랑스를 점령하고 대륙 전역에서 인터내셔널의 활동이 무너지면서, 브리튼 연방은 다시 한번 홀로 남겨져 외세의 침략에 맞서고 있습니다. 독일군은 브리튼 섬에 진입할만한 효과적인 교두보를 마련하지 못했고, 브리튼군은 산산조각이 나버린 상황에서, 공화국 지도자들이 베를린과의 휴전 요구를 받아들였고 오늘 정식 평화 조약에 서명했습니다.\n\n독일군 최고사령부의 일부가 바랐던 완전한 승리는 아니지만, 인터내셔널은 이미 와해되었습니다. 코뮌과 연방의 패배로 제국은 서방에서 여전히 성공가도를 달리고 있습니다. - 적어도 지금은 말이지요."
+worldnews.184.d:0 "2차 세계대전이 1차 때와 마찬가지로 끝날 것처럼 보입니다. 제국 조약의 군대가 프랑스를 점령하고 대륙 전역에서 인터내셔널의 활동이 무너지면서, 브리튼 연방은 다시 한번 홀로 남겨져 외세의 침략에 맞서고 있습니다. 독일군은 브리튼 섬에 진입할만한 효과적인 교두보를 마련하지 못했고, 브리튼군은 산산조각이 나버린 상황에서, 공화국 지도자들이 베를린과의 휴전 요구를 받아들였고 오늘 정식 평화 조약에 서명했습니다.\n\n독일군 최고사령부의 일부가 바랐던 완전한 승리는 아니지만, 인터내셔널은 이미 와해되었습니다. 코뮌과 연방의 패배로 제국은 서방에서 여전히 성공가도를 달리고 있습니다. - 적어도 지금은 말입니다."
 worldnews.184.a:0 "역사는 되풀이될 운명인가?"
 
 worldnews.185.t:0 "연합왕국의 재건"
@@ -844,7 +844,7 @@ worldnews.192.a:0 "네덜란드인들답지 않은데."
 worldnews.193.t:0 "네덜란드의 프랑스 코뮌 승인"
 worldnews.193.d:0 "현재 많은 유럽 국가들을 경악시킨 논란의 행동인 즉슨, 네덜란드가 시민들의 권리에 대한 상의를 명분으로 파리로 외교 사절단을 파견함으로써 프랑스 코뮌의 존재를 사실상 인정했다는 것입니다. 이러한 행동은 반-생디칼리즘 성향의 국민 프랑스, 영국 망명 정부와 밀월관계를 견지해온 네덜란드의 전통적인 정치 규범에 완전히 반하는 경우입니다. \n이런 기괴하리만치 갑작스러운 외교적 태도 변화에는 온갖 고난을 겪으며 끝끝내 정권을 손에 넣은 CNA-LSP 연립의 네덜란드 정부가 자국 내의 사회주의자들을 만족시키고, 네덜란드의 정치적 혼란을 완화하기 위해 깔아둔 계산이라는 추측이 유력합니다. 만약 사실이라면, 이 과감한 행동은 일부 중도주의자들이 현대 유럽의 분극화를 막기 위해 기꺼이 취할 수 있는 온갖 극단적인 조치가 무엇인지를 보여주는 사례일 것입니다."
 worldnews.193.d.dejure:0 "현재 많은 유럽 국가들을 경악시킨 논란의 행동인 즉슨, 네덜란드가 오늘 국제 협약을 위반하고 공식적으로 프랑스 코뮌을 정통 프랑스 정부로서 승인했다는 것입니다. 이에 특히 독일 제국을 시작으로 미틀오이로파, 그리고 제국 조약 등 독일과 같은 밀접한 관계를 맺고 있는 국가들과, 알제의 프랑스 망명정부는 네덜란드와 단교를 선언하기까지 했습니다. \n이런 기괴하리만치 갑작스러운 외교적 태도 변화에는 온갖 고난을 겪으며 끝끝내 정권을 손에 넣은 CNA-LSP 연립의 네덜란드 정부가 자국 내의 사회주의자들을 만족시키고, 네덜란드의 정치적 혼란을 완화하기 위해 깔아둔 계산이라는 추측이 유력합니다. 만약 사실이라면, 이 과감한 행동은 일부 중도주의자들이 현대 유럽의 분극화를 막기 위해 기꺼이 취할 수 있는 온갖 극단적인 조치가 무엇인지를 보여주는 사례일 것입니다."
-worldnews.193.a:0 "외교는 참으로 난해하기 짝이 없다"
+worldnews.193.a:0 "외교란 참으로 난해하기 짝이 없다"
 
 worldnews.194.t:0 "네덜란드가 독일 자산을 국유화하다"
 worldnews.194.d:0 "The Dutch government has today taken the bold step of nationalising the assets of German citizens in its territory, in an action that is sure to incur the wrath of the Kaiserreich. With the weakened Conservative CNA government having entered into coalition with the liberal VDB, it has engaged in a policy of negotiating with the Dutch Far Left and Right in order to stem domestic political catastrophe.\n\n To bring the ultranationalist VNH on side, the Dutch government finally agreed to nationalise German assets in order to keep the administration from collapse - a situation the CNA-LSP sought to keep secret. Already there have been calls in Berlin for punitive measures, both economic and military. How the Empire will act however, none yet can guess."
@@ -865,8 +865,8 @@ worldnews.197.d:0 "놀라운 운명의 반전으로, 일본 제국은 오늘 만
 worldnews.197.a:0 "해가 저무는군."
 
 worldnews.198.t:0 "한국의 봉기"
-worldnews.198.d.crushed:0 "최근 수십년 동안 일본의 부상은 동아시아의 세력 판도를 크게 뒤엎었고, 1910년 떠오르는 태양의 땅이 한국을 병합한 이후 한반도는 일본 본토의 지배를 받게 되었습니다. 그러나 일본의 힘은 한계가 없었고, 한국, 만주, 대만에서의 식민지화 노력은 오히려 점령군에 대한 큰 분노를 불러 일으켜 결국 이 사태가 벌어졌습니다. 한반도에서 봉기가 일어난 것입니다.\n\n 블라디보스토크로 망명한 한국 정부를 강력히 탄압하고, 해외에서 활동하는 반군 무장 세력 역시 진압한 받은 일본은 적은 수의 반군을 쉽게 제압할 수 있었습니다. 이는 완전한 식민지 동화를 피하기 위한 한국인들의 최후의 저항이었습니다. 독립된 한국은 적어도 지금은 먼 꿈으로 남아 있습니다."
-worldnews.198.d:0 "최근 수십년 동안 일본의 부상은 동아시아의 세력 판도를 크게 뒤엎었고, 1910년 떠오르는 태양의 땅이 한국을 병합한 이후 한반도는 일본 본토의 지배를 받게 되었습니다. 그러나 일본의 힘은 한계가 없었고, 한국, 만주, 대만에서의 식민지화 노력은 오히려 점령군에 대한 큰 분노를 불러 일으켜 결국 이 사태가 벌어졌습니다. 한반도에서 봉기가 일어난 것입니다.\n\n 반군이 해외로부터 무기를 공급받는 것을 막기 위해 일본 정부가 행한 트란스아무르의 소수 민족 탄압에도 불구하고, 현재 한국에서는 대규모의 봉기가 일어났으며 한국인들은 한반도 전역의 전략적 위치를 장악했습니다. 하지만 제국의 대응이 신속할 것이라는 데는 의심의 여지가 없으며, 이에 따라 현지인들의 승리를 주장하는 사람은 거의 없습니다."
+worldnews.198.d.crushed:0 "최근 수십년 동안 일본의 부상은 동아시아의 세력 판도를 크게 뒤엎었고, 1910년 '떠오르는 태양의 나라'가 한국을 병합한 이후 한반도는 일본 본토의 지배를 받게 되었습니다. 그러나 일본의 힘은 한계가 있었고, 한국, 만주, 대만에서의 식민지 동화 시도가 오히려 점령군에 대한 더욱 큰 분노를 초래해 결국 이 사태가 벌어졌습니다. 한반도에서 봉기가 일어난 것입니다.\n\n 블라디보스토크로 망명한 한국 정부를 강력히 탄압하고, 해외에서 활동하는 반군 무장 세력 역시 조기에 일소한 일본은 적은 수의 반군을 쉽게 제압할 수 있었습니다. 이는 완전한 식민지 동화를 피하기 위한 한국인들의 최후의 저항이었습니다. 독립된 한국은 적어도 지금은 먼 꿈으로 남아 있습니다."
+worldnews.198.d:0 "최근 수십년 동안 일본의 부상은 동아시아의 세력 판도를 크게 뒤엎었고, 1910년 '떠오르는 태양의 나라'가 한국을 병합한 이후 한반도는 일본 본토의 지배를 받게 되었습니다. 그러나 일본의 힘은 한계가 있었고, 한국, 만주, 대만에서의 식민지 동화 시도가 오히려 점령군에 대한 더욱 큰 분노를 초래해 결국 이 사태가 벌어졌습니다. 한반도에서 봉기가 일어난 것입니다.\n\n 반군이 해외로부터 무기를 공급받는 것을 막기 위해 일본 정부가 행한 트란스아무르의 소수 민족 탄압에도 불구하고, 현재 한국에서는 대규모의 봉기가 일어났으며 한국인들은 한반도 전역의 전략적 위치를 장악했습니다. 하지만 제국의 대응이 신속할 것이라는 데는 의심의 여지가 없으며, 이에 따라 현지인들의 승리를 주장하는 사람은 거의 없습니다."
 worldnews.198.a:0 "푸른 언덕에 피가 흐를 것이다."
 
 worldnews.199.t:0 "아렐 회담"
@@ -875,7 +875,7 @@ worldnews.199.d.failed:0 "최근 독일로부터의 벨기에의 독립과 함�
 worldnews.199.a:0 "벨기에가 국제 무대로 돌아왔군."
 
 worldnews.200.t:0 "우알로니 위기"
-worldnews.200.d:0 "The rebellion in Flanders-Wallonia has taken a vicious turn in recent weeks with open fighting and the rise of the Walloon Commune flying the coq hardi flag in town squares across the breakaway region. With German and Royalist forces gathered on the Meuse for a swift counter-attack, hopes for the survival of Syndicalism in Wallonia fell onto Paris.\nWith tensions rising between the German Empire and the Commune, it seems that France blinked first. Seemingly unwilling to bring down the wrath of Germany on them, even now, France was unwilling to offer guarantees to the Walloon rebels. The survival of the independence movement now seems in doubt, and there are few who believe that King Adelbert's regime will now fall. However, war between the great powers has been avoided - for now."
+worldnews.200.d:0 "플란데런-우알로니에서의 봉기는 최근 몇 주간의 대대적인 전투와 우알로니 코뮌의 등장으로 인해 악순환을 겪어왔습니다. 그러나 독일군 및 왕당파 군대가 신속한 반격을 위해 뫼즈에 집결하면서, 우알로니에서의 생디칼리즘이 생존할 수 있을 지의 여부는 온전히 파리에게 달려있었습니다.\n잠시 독일 제국과 코뮌 사이에서 긴장이 고조되었으나, 이내 프랑스가 먼저 눈을 내리깔았습니다. 프랑스는 독일의 분노가 그들에게까지 미치는 것을 원치 않은 것 같습니다. 우알로니 반군들에게 보증을 제공하는 것을 계속 꺼리고 있는 그들의 행동이 이를 뒷받침합니다. 독립운동의 생존이 벼랑 끝에 몰려있는 지금, 아델베르트 왕의 정권이 붕괴될 것이라고 믿는 사람은 거의 없습니다. 그래도 최소한, 강대국들간의 전쟁은 당분간 피할 수 있었습니다."
 worldnews.200.d.germanybacksdown:0 "The rebellion in Flanders-Wallonia has taken a vicious turn in recent weeks with open fighting and the rise of the Walloon Commune flying the coq hardi flag in town squares across the breakaway region. With German and Royalist forces gathered on the Meuse for a swift counter-attack hopes for the survival of Syndicalism in Wallonia fell onto Paris.\nIn a stunning victory for the Syndicalists Germany was unwilling to countenance risking a war with the Internationale in the wake of the Black Monday Crisis, and the Walloons and Germans signed a treaty on the Pont de Fragnée in Liège. The survival of Wallonia is assured, and Syndicalism's strength in Western Europe has grown once more. However, war between the great powers has been avoided - for now"
 worldnews.200.d.francebacksdown:0 "The rebellion in Flanders-Wallonia has taken a vicious turn in recent weeks with open fighting and the rise of the Walloon Commune flying the coq hardi flag in town squares across the breakaway region. With German and Royalist forces gathered on the Meuse for a swift counter-attack hopes for the survival of Syndicalism in Wallonia fell onto Paris.\nThough the French displayed a clear willingness to defend the nascent Wallonian rebels from German counter-attack, moving forces onto the Meuse, when the Germans sent them an ultimatum the Commune was unwilling to back their words up with deeds. The French broke their guarantee and withdrew their forces, leaving Wallonia to its inevitable fate. However, war between the great powers has been avoided - for now"
 worldnews.200.a:0 "확실히 벼랑 끝이로군."
@@ -890,14 +890,14 @@ worldnews.202.a:0 "참 오래된 바보짓이지."
 worldnews.202.b:0 "신은 우리 편이다!"
 
 worldnews.203.t:0 "휴이 롱 대통령의 실종"
-worldnews.203.d:0 "전례 없는 사태가 발생했습니다. 승리에 도취한 휴이 롱 미국 대통령이 실종되었습니다. 미국 언론들은 휴이 롱의 차와 경호원들이 새로운 수도에서 늦은 저녁 만찬 후에 사라졌다고 보도했습니다. 우리가 이 언론들로부터 모을 수 있는 정보로는, 알려지지 않은 한 무리의 전문 생디칼리스트 암살자들이 이 공격의 배후에 있었다는 것입니다. 이 주장은 기업가인 헨리 포드의 아들 에드젤 포드가 무정부주의자에 의해 세간의 이목을 끄는 살해 이후에 나온 것입니다. 미국 재향군인회장 조지 반 혼 모즐리는 대중들의 우려를 언급하며, 잠재적인 공모자들을 뿌리뽑기 위해 대통령 저택을 확보할 것이며 이 위험한 시기에 재향군인회를 동원했습니다."
+worldnews.203.d:0 "전례 없는 사태가 발생했습니다. 승리에 도취해있던 휴이 롱 미국 대통령이 실종되었습니다. 미국 언론들은 휴이 롱의 차와 경호원들이 새로운 수도에서 늦은 저녁 만찬 후에 사라졌다고 보도했습니다. 우리가 이 언론들로부터 모을 수 있는 정보로는, 알려지지 않은 한 무리의 전문 생디칼리스트 암살자들이 이 공격의 배후에 있었다는 것입니다. 이 주장은 기업가인 헨리 포드의 아들 에드젤 포드가 무정부주의자에 의해 세간의 이목을 끄는 살해 이후에 나온 것입니다. 미국 재향군인회장 조지 반 혼 모즐리는 대중들의 우려를 언급하며, 잠재적인 공모자들을 뿌리뽑기 위해 대통령 저택을 확보할 것이며 이 위험한 시기에 재향군인회를 동원했습니다."
 worldnews.203.a:0 "거짓말! 어떤 사회주의자도 이런 짓은 못한다!"
 worldnews.203.b:0 "얼마나 흉흉한 일인가! 몸조심하시오, 모즐리 동지!"
 
 worldnews.204.t:0 "쿠데타로 투옥되어 사형된 휴이 롱"
 worldnews.204.d:0 "[TEX.Capital.GetName]의 소식입니다. 새롭게 승리한 미국 대통령 휴이 롱이 사망했습니다. 이는 최근 몇 달 동안 사회주의적 사상에 대항하고자 하는 미국 제일당원들에 의한 성공적인 쿠데타처럼 보입니다. 쿠데타에 대한 자세한 내용은 거의 보도되지 않고 있지만, 그의 처형 전날에 자신이 생디칼리스트임을 고백하는 휴이 롱의 자아비판 음반이 널리 유포되고 있습니다. 윌리엄 펠리가 이끄는 임시정부는 대중들에게 미국으로의 생디칼리즘의 침입을 종식시키겠다고 약속했습니다. 계엄령은 전국적으로 시행되었고, 우리는 지금부터 미국에서 나오는 언론 보도 내용이 검열되는 것이라고 감히 추측해볼 수 있습니다."
 worldnews.204.a:0 "롱은 생디칼리스트가 아니야!"
-worldnews.204.b:0 "나는 펠리가 미국을 바로잡을지에 대해 강한 의심을 떨칠 수 없다."
+worldnews.204.b:0 "나는 펠리가 미국을 바로잡을 수 있을 지에 대해 강한 의심을 떨칠 수 없다."
 
 worldnews.205.t:0 "[CSA.GetNameDef]의 탄생"
 worldnews.205.d:0 "Following a harrowing civil war, the old hegemony of the American continent has been painted red with the colors of revolutionary syndicalism! Having successfully overthrown the federal government in Washington and crushed the counterrevolution launched by Huey Long, the Combined Syndicates of America called for a second Constitutional Convention in order to lay the groundwork for a new nation. During this lengthy deliberation, numerous factions bickered, debated and discussed until a consensus was reached. The new America has rejected the growing threat of Totalism and tyranny, in favor of a socialist republic, maintaining the spirit of American freedom. It remains to be seen how stable the new government will be, and if the syndicalists can successfully root out capitalism in their new bastion of liberty."
@@ -920,7 +920,7 @@ worldnews.208.a:0 "Down with the Centralists, long live Butler!"
 worldnews.208.b:0 "The stranglehold of revolution loosens, ever so slightly."
 
 worldnews.209.t:0 "전체주의 헌장"
-worldnews.209.d:0 "무솔리니, 발루아, 베리야와 다른 관심 있어 하는 단체들이 그들의 공통점을 논의하기 위해 오늘 버밍엄에 도착했습니다. 최대주의, 소렐주의, 그리고 국가생디칼리즘이 모두 사회주의 투쟁에서 국가의 우월성과 국가에서 국가 정체성의 역할, 그리고 사회주의를 지키고 발전시키는데 강력한 중앙 권력이 필요하다는 것을 기본 원칙으로 모두 공유한다고 합의되었습니다. 이 선언은 또한 사회주의 국가가 인간 발전의 마지막 단계이며 민주주의는 사회주의를 성취하기 위해 필요하지 않다고 주장했습니다. 다른 사회주의 파벌들은 이러한 발언들을 '전체주의' 또는 전체주의적 사회주의라 부르면서 많은 비판을 가했습니다. 모즐리는 성명서에 그 이름을 추가하며 열렬히 받아들였고, 이를 사회주의에 대한 완전한 헌신으로 돌렸습니다."
+worldnews.209.d:0 "무솔리니, 발루아, 베리야와 여타 관련 단체들이 그들의 공통점을 논의하기 위해 오늘 버밍엄에 도착했습니다. 최대주의, 소렐주의, 그리고 국가생디칼리즘이 모두 사회주의 투쟁에서 국가의 우월성과 국가에서 국가 정체성의 역할, 그리고 사회주의를 지키고 발전시키는데 강력한 중앙 권력이 필요하다는 것을 기본 원칙으로 모두 공유한다고 합의되었습니다. 이 선언은 또한 사회주의 국가가 인간 발전의 마지막 단계이며 민주주의는 사회주의를 성취하기 위해 필요하지 않다고 주장했습니다. 다른 사회주의 파벌들은 이러한 발언들을 '전체주의' 또는 전체주의적 사회주의라 부르면서 많은 비판을 가했습니다. 모즐리는 성명서에 그 이름을 추가하며 열렬히 받아들였고, 이를 사회주의에 대한 완전한 헌신으로 돌렸습니다."
 worldnews.209.a:0 "인민들이 이 미친 짓을 거부하기를 바라자!"
 worldnews.209.b:0 "인민들은 이 미친 짓을 거부해야 한다!"
 
@@ -1076,7 +1076,7 @@ worldnews.268.d:0 "After a period of heavy bombardment, it has now been confirme
 worldnews.268.a:0 "벵갈의 수도 캘커타는 분명히, 인도 진입의 마지막 관문이었다."
 worldnews.268.b:0 "벵갈과 아삼의 민중들은 인도의 통치 하에서 너무 오랫동안 고통받아 왔다."
 worldnews.268.c:0 "우리는 피는 흘렸을지언정 패배하지는 않았다. 노동자들이여, 왕당파 압제자들에게 저항하라!"
-worldnews.268.e:0 "시암은 인도에 권리가 없다. 그들이 시암을 막지 못한다면, 우리는 개입해아만 한다."
+worldnews.268.e:0 "시암은 인도에 권리가 없다. 그들이 시암을 막지 못한다면, 우리가 개입해아만 한다."
 worldnews.268.f:0 "심히 우려되는군. 시암은 옛 대영제국의 보석인 인도에 권리가 없다."
 
 worldnews.269.t:0 "뉴델리 함락" #Siam
