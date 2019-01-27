@@ -225,7 +225,7 @@ balticduchy.183.d:0 "독일 정착민들과 함께 발트 연합 공국을 식�
 balticduchy.183.a:0 "전투 준비!"
 
 balticduchy.184.t:0 "우리 발트 동포"
-balticduchy.184.d:0 "독일 출신의 비도덕적인 제국주의자들이 발트해 국가들의 존재를 모두 없애기로 결단을 내렸습니다. 발트 연합 공국에 도착하는 독일 정착민들의 수가 매일마다 점점 더 늘어나면서, 현지 주민들은 집을 떠나야만 했습니다. 이 정책은 친독 공작 정부와 원주민 발트족간의 큰 불만을 맞닥뜨렸습니다. 저항 운동이 시작되었고 우리 형제들은 독일 제국주의에 대항하여 공공연한 반란을 일으켰습니다. 부르주아와의 전쟁에서 그들을 지원하는 것은 우리의 의무입니다!"
+balticduchy.184.d:0 "독일 출신의 비도덕적인 제국주의자들이 발트해 국가들의 존재를 모두 없애기로 결단을 내렸습니다. 발트 연합 공국에 도착하는 독일 정착민들의 수가 매일마다 점점 더 늘어나면서, 현지 주민들은 집을 떠나야만 했습니다. 이 정책은 친독 공국 정부와 현지 발트인들간의 큰 불만을 맞닥뜨렸습니다. 저항 운동이 시작되었고 우리 형제들은 독일 제국주의에 대항하여 공공연한 반란을 일으켰습니다. 부르주아와의 전쟁에서 그들을 지원하는 것은 우리의 의무입니다!"
 balticduchy.184.a:0 "자원병을 보내라!"
 balticduchy.184.b:0 "우리가 그들을 도울 것이다... 나중에."
 
@@ -237,9 +237,9 @@ balticduchy.185.c:0 "에스토니아에만 자원봉사자를 보내라."
 balticduchy.185.e:0 "그건 우리가 상관할 일이 아니다."
 
 balticduchy.186.t:0 "러시아의 거래"
-balticduchy.186.d:0 "러시아인들은 기꺼이 우리를 도우려고 하고 있지만, 그들은 대신 드빈스크에 대한 우리의 주장을 포기하기를 원하고 있습니다."
-balticduchy.186.a:0 "큰 악마를 막기위한 작은 악마군..."
-balticduchy.186.b:0 "아니, 우리는 그들의 도움없이도 싸울 수 있다!"
+balticduchy.186.d:0 "러시아인들은 기꺼이 우리를 도우려고 하고 있지만, 그들은 대신 드빈스크에 대한 우리의 영유권을 포기하기를 원하고 있습니다."
+balticduchy.186.a:0 "큰 악마를 막기위한 작은 악마로군..."
+balticduchy.186.b:0 "아니, 우리는 그들의 도움 없이도 싸울 수 있다!"
 
 balticduchy.187.t:0 "라트비아가 수락하다"
 balticduchy.187.d:0 "라트비아 반군이 우리의 거래를 받아들였습니다."
@@ -346,7 +346,7 @@ balticduchy.208.c:0 "저들은 또 다른 브레스트-리토브스크 조약을
 
 balticduchy.209.t:0 "발트 전쟁-부분적인 성공"
 balticduchy.209.d:0 "우리는 라트비아를 우리의 지배 아래에 뒀지만, 에스토니아는 우리의 손을 떠났습니다. 우리는 발트 연합 공국을 복구하거나 충성스러운 라트비아로 독립시킬 수 있습니다."
-balticduchy.209.a:0 "언젠가는 에스토니아의 땅을 수복해야한다. 공국을 복구하라."
+balticduchy.209.a:0 "언젠가는 에스토니아의 땅을 수복해야 한다. 공국을 복구하라."
 balticduchy.209.b:0 "충성스러운 라트비아로 독립시킨다."
 balticduchy.209.c:0 "완전히 점령하라!"
 
@@ -389,46 +389,46 @@ BAT_FED_paternal_autocrat_party_long:0 "임시정부"
 ### Focuses ###
 
 BAT_Germanization:0 "독일화"
-BAT_Germanization_desc:0 "독일의 보호국으로서 거의 20년이 지났습니다. 이 수십 년간 우리의 조국은 독일의 종속국이 되었고 우리는 그들의 소망을 반드시 존중해야 합니다. 황제께서 독일화를 말씀하셨고, 우리는 그 뜻에 따를 것입니다. 동부로의 전진(Drang Nach Osten)!"
+BAT_Germanization_desc:0 "독일의 보호국으로서 거의 20년이 지났습니다. 이 수십 년간 우리의 조국은 독일의 종속국이 되었고 우리는 그들의 소망을 반드시 존중해야 합니다. 황제께서 독일화를 명령하셨고, 우리는 그 뜻에 따를 것입니다. 동쪽으로 전진(Drang Nach Osten)!"
 
 BAT_Emancipation:0 "해방"
 BAT_Emancipation_desc:0 "독일의 보호국으로서 거의 20년이 지났습니다. 독일인들은 우리의 산업, 우리의 정치, 우리의 군대를 지배하고 있습니다. 우리도 그들의 지배에 있겠지만, 독일은 갈수록 약해지고 있고 이것은 우리가 그들과의 연결을 끊을 수 있는 기회가 될 것입니다."
 
-BAT_Ger_Kurland1:0 "참전용사에게 땅을 주다"
-BAT_Ger_Kurland1_desc:0 "많은 형제들이 한때 프로이센의 기강과 독일 정신의 힘을 증명했습니다. 이제, 그들 중 몇몇은 평화로운 삶을 살기 위해 군대에서 은퇴했습니다. 검은 월요일이 조국을 황폐화시키고 있는 가운데, 우리는 적어도 제국이라는 이름으로 살면서 일하기 위해 참전용사들에게 사용하지 않는 땅을 제공 할 수 있습니다."
+BAT_Ger_Kurland1:0 "재향군인 토지 지급"
+BAT_Ger_Kurland1_desc:0 "많은 형제들이 한때 프로이센의 기강과 독일 정신의 힘을 증명했습니다. 이제, 그들 중 몇몇은 평화로운 삶을 살기 위해 군대에서 은퇴했습니다. 검은 월요일이 조국을 황폐화시키고 있는 가운데, 우리는 적어도 제국이라는 이름을 위해 싸운 재향군인들에게 사용하지 않는 토지를 제공해줄 수 있습니다."
 
 BAT_Ger_Livland1:0 "DOIS 설립"
-BAT_Ger_Livland1_desc:0 "새로 설립된 부처인 "공작 이민정산국" 또는 DOIS는 조국에서 온 모든 가난한 독일인들이 우리 공국에 정착하고 새로운 삶을 시작할 수 있도록 도와줄 것입니다. 우리가 가지고 있는 세 지방 모두에서 독일 다수결의 목표를 달성하는 것이 주된 목표입니다."
+BAT_Ger_Livland1_desc:0 "새로 설립된 부처인 "공립이민정산국" 또는 DOIS는 조국에서 온 모든 가난한 독일인들이 우리 공국에 정착하고 새로운 삶을 시작할 수 있도록 도와줄 것입니다. 우리가 가지고 있는 세 지방 모두에서 독일 다수결의 목표를 달성하는 것이 주된 목표입니다."
 
 BAT_Ger_Estland1:0 "귀족 작위 판매"
-BAT_Ger_Estland1_desc:0 "러시아 제국 시대에 이어 공국 독일 귀족들은 오늘날의 공국 영토의 특권 계급이었습니다. 이제, 세계대전 이후, 많은 귀족들이 조국으로 떠났습니다. 검은 월요일이 우리 경제를 혼란스럽게 하고 있기 때문에, 우리는 약간의 여분의 자본을 얻기 위해 작위 일부를 팔 수 있습니다."
+BAT_Ger_Estland1_desc:0 "구 러시아 제국령 발트처럼, 공국의 독일 귀족들은 현 공국 내의 특권 계급이었습니다. 이제, 세계대전 이후 많은 귀족들이 조국으로 떠났습니다. 검은 월요일이 우리 경제를 혼란스럽게 하고 있기 때문에, 우리는 약간의 여분의 자본을 얻기 위해 작위 일부를 팔 수 있습니다."
 
-BAT_Ger_Kurland2:0 "Establish a Military Academy"
+BAT_Ger_Kurland2:0 "사관학교 설립"
 BAT_Ger_Kurland2_desc:0 "As an Imperial client state, we do not have a military academy of our own in which to educate officers. But with recent waves of Weltkrieg veterans settling in our Duchy, a lot of talented and skilled officers are waiting to teach a new generation. We can invest money into our own military academy as part of our reforms."
 
-BAT_Ger_Livland2:0 "Guarantee The Safety of Baltic Farmers"
+BAT_Ger_Livland2:0 "발트 농부들의 안전 보장"
 BAT_Ger_Livland2_desc:0 "We are running out of free land to distribute. Instead of taking Latvian and Estonian farmland, we shall build tenement buildings for workers in cities and force immigrants to live there and work in factories."
 
-BAT_Ger_Estland2:0 "Expropriate Land From Farmers"
+BAT_Ger_Estland2:0 "발트 농부들의 토지 몰수"
 BAT_Ger_Estland2_desc:0 "We are out of free land to distribute. A lot of farms are ran by Native Balts and this fact makes us dependent on their crop output. We can, inch by inch, force them to leave these lands in favour of our German immigrants."
 
-BAT_Ger_Baltic_desc:0 "독일령 발트국"
-BAT_Ger_Baltic_desc:0 "독일화 과정은 완성되어 가고있다. 독일령 발트국은 이제 인구로 지배적이 되었고 정치적으로도 마찬가지이다. 우리는 마침내 제국에 편입되기 위한 준비를 마쳤다. 물론 이건 우리가 원했던 것이다."
+BAT_Ger_Baltic_desc:0 "독일령 발트"
+BAT_Ger_Baltic_desc:0 "독일화 과정이 거의 완료되어가고 있습니다. 발트에서 독일인들은 이제 인구상으로도 과반수를 차지하며 이는 정치적으로도 마찬가지입니다. 우리는 마침내 제국에 편입되기 위한 준비를 마쳤습니다. 물론 우리가 원하던 바입니다."
 
 BAT_Ger_Integration:0 "합병"
-BAT_Ger_Integration_desc:0 "독일이 부른다! 우리는 독일인이고 공국은 제국의 29번째 주가 될 것이다. 빛나는 미래가 아버지 완전한 보호와 아버지 독일의 실수 아래에서 기다리고 있다."
+BAT_Ger_Integration_desc:0 "독일이 우리를 부르고 있습니다! 우리는 독일인이며, 공국은 제국의 29번째 주가 될 것입니다. 빛나는 미래가 우리들의 조국, 독일 아래에서 기다리고 있습니다."
 
 BAT_Ger_Puppet:0 "현상 유지"
-BAT_Ger_Puppet_desc:0 "독일와 재결합 하는 것은 중요하지만, 최우선 사항은 아니다. 우리가 독일이 된다는 것은 발트의 독일인이 된다는 것이고 우리는 특별한 대우를 받을 것이다. 재결합은 기다릴 수 있지만, 먼저 지역적인 문제를 해결해야한다."
+BAT_Ger_Puppet_desc:0 "독일과의 재통합은 중요하지만, 최우선 사항은 아닙니다. 우리가 독일이 된다는 것은, 우리가 그저 독일에 사는 독일인이 된다는 것이고 우리는 어떠한 특별 대우도 받을 수 없을 것입니다. 재통합은 나중에도 할 수 있으니, 먼저 지역적인 문제를 해결해야 합니다."
 
 BAT_Ger_Indep:0 "독립"
-BAT_Ger_Indep_desc:0 "아버지 독일과 발트 독일인들의 사이에서 절대, 절대로 제국이 마음대로 하게 해서는 안된다. 리블란트, 쿠를란트, 에스틀란트의 우리 독일인들은 본국과의 모든 거래를 중단하고 독립을 선언한다!"
+BAT_Ger_Indep_desc:0 "우리는 발트의 독일인들이며 본국의 독일인들과는 다릅니다. 절대, 절대로 제국이 우리를 마음대로 하도록 두지 않을 것입니다. 리블란트, 쿠를란트, 에스틀란트의 우리 독일인들은 본국과의 모든 거래를 중단하고 독립을 선언할 것입니다!"
 
 BAT_Ger_Autonomy1:0 "독일인 자치권"
 BAT_Ger_Autonomy1_desc:0 "It is time for us to reform. The conservatives within the Baltic Landtag want to turn the nation into a parliamentary monarchy and abandon the nigh-absolutist practices of Adolf Friedrich I. Should we listen?"
 
 BAT_Ger_Autonomy2:0 "카이저와 대면하다"
-BAT_Ger_Autonomy2_desc:0 "The Vaterland is disappointed. To them, a strong parliamentary Baltic Duchy means a more autonomous and resistant Baltic Duchy. Our relations with the Kaiser have been damaged. It is time we finally confront the Kaiser about our increased political autonomy instead of leaving the resolution of this conflict to chance."
+BAT_Ger_Autonomy2_desc:0 "본국은 우리에게 실망했습니다. 그들에게 있어서 강력한 의회를 가진 발트 공국은 더 자주적이고 반항적인 발트 공국을 의미할 테니까요. 우리와 카이저의 관계는 손상되었습니다. 이제는 이 갈등의 해결을 운에 맡기는 대신, 정치적 자주성 증대에 대해 카이저와 직접 대면할 때가 왔습니다."
 
 BAT_Ger_Autonomy3:0 "정부 중앙 집권화"
 BAT_Ger_Autonomy3_desc:0 "The apparatus of the Ducal government is weak, rife with corruption and heavily decentralised, we must enact substantial governmental reforms before advancing forward, so that our country may prosper even without the help of the Kaiser."
@@ -582,7 +582,7 @@ BAT_Education_Ger_desc:0 "With more power to the Duke, the time has come for us 
 
 ### Ideas ###
 
-BAT_multi_ling:0 "정치 불안정"
+BAT_multi_ling:0 "정치적 불안정"
 BAT_multi_ling_desc:0 "Our country is an union of multiple cultures. The Native Balts, the Germanised Balts and the Russian minorities all vie for political influence, causing regular conflict and difficulty to set a common policy. This is only made much worse by the German dominance caused by the Kaiser's policies of Germanisation, crushing minority rights and forcing cultural conversion of the 'Native Balts'."
 
 BAT_start_crisis:0 "징병 사태"
@@ -625,7 +625,7 @@ BAT_fort:0 "동부방벽 요새화 연결망"
 BAT_fort_desc:0 "The Ostwall is more than a few isolated bunkers. A complex and carefully designed network of fortification works, integrating natural choke-points and artificial constructions alike, it will prove a challenge to any invading forces. Likewise, it will also help us design future expansions, and even brand new fortification lines."
 
 BAT_balts_rebellion:0 "발트인들의 반란"
-BAT_balts_rebellion_desc:0 "우리의 식민화 정책으로 인해 발트 3국 거주민들이 들고 일어났습니다. 우리는 정치적 상황에 따라 독일의 도움없이 우리 스스로 해결할 수 있습니다 (독일을 전쟁에 부르지 않는 것이 좋습니다)."
+BAT_balts_rebellion_desc:0 "우리의 식민화 정책으로 인해 발트 3국 거주민들이 들고 일어났습니다. 우리는 정치적 상황에 따라 독일의 도움없이 우리 스스로 해결할 수 있습니다(독일을 전쟁에 개입시키고 싶지는 않습니다)."
 
 BAT_ger_army:0 "조국의 아들"
 BAT_ger_army_desc:0 "Native Balts, the majority of our country's population, are not currently allowed to serve in the army. And we would rather die than allow them to do so. We are proud sons of the Vaterland and our army must be a full German."
