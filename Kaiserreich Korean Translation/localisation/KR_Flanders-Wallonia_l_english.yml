@@ -584,7 +584,7 @@ BEL_Internationale_decisions_desc:0 "The Internationale is our first line of def
 BEL_Ally_Internationale:0 "인터내셔널에 가입"
 BEL_Join_Phalanstere:0 "팔랑스테르 인터내셔널을 지원"
 BEL_Industrial_Program:0 "Allocate PLW funds"
-BEL_Joint_Internationale_Drills:0 "Joint Internationale Excercises"
+BEL_Joint_Internationale_Drills:0 "인터내셔널 합동 군사훈련"
 BEL_Assist_Damocles_Project:0 "다모클레스 계획에 가담하다"
 
 
@@ -632,7 +632,7 @@ Interim_Governement:0 "임시정부"
 ### Tech Sharing ###
 belgian_research_name:0 "Koninklijke Academie"
 belgian_research_desc:0 "A cooperative academic research group consisting of all Belgian and Dutch Universities sponsored by King Albert I and Queen Wilhelmina"
-belgian_german_joint_research:0 "German Joint Doctrine Group"
+belgian_german_joint_research:0 "독일 합동 교리 연대"
 belgian_german_naval_program:0 "Flemish-Walloon-German Naval Cooperation Program"
 
 ### Events ###
@@ -727,7 +727,7 @@ belbla.6.d:0 "In an effort to stop the catastrophic impact that Black Monday is 
 belbla.6.a:0 "The king blocks the proposal."
 belbla.6.b:0 "The proposal passes unanimously."
 
-belbla.7.t:0 "Strike of the Potato Farmers"
+belbla.7.t:0 "감자 농부들의 파업"
 belbla.7.d:0 "Angered by the Government response to the collapse of the Middenkredietkas, thousands of farmers have driven their tractors to Brussels to protest against their mistreatment. The Catholic party has opened a debate in Parliament pleading the king to allow them to allocate funds to keep the Boerenbond from collapsing and devastating Flanders-Wallonia's agricultural sector."
 belbla.7.a:0 "Send in the Vlaamse Wacht."
 belbla.7.b:0 "Allocate funds to rescue the Boerenbond."
@@ -781,10 +781,10 @@ bel.12.t:0 "생디칼리스트들이 홀로서다"
 bel.12.d:0 "After we successfully cut the communications between Flemish and Walloon resistance, the syndicalists of Wallonia stand alone. With no real way to get support for their own free syndicalist state, they will have to seek aid from the Commune of France."
 bel.12.a:0 "결국엔 우리가 이긴다!"
 
-bel.13.t:0 "Syndicalists Strike Back!"
+bel.13.t:0 "생디칼리스트들이 다시 공격을 시작했습니다!"
 bel.13.d:0 "After the catastrophic attack on the Charleroi headquarters the syndicalists are planning a massive terrorist attack on our infrastructure. We are however unable to reinforce both the army bases and our industrial complexes so we need to make a choice."
-bel.13.a:0 "Protect the army bases!"
-bel.13.b:0 "Safeguard our industry!"
+bel.13.a:0 "군 기지를 보호하라!"
+bel.13.b:0 "산업시설을 보호하라!"
 
 bel.140.t:0 "Foundation of the 'Geuzengroep'"
 bel.140.d:0 "Due to rising tensions in the industrial city of Antwerp, a new resistance movement has been detected by our intelligence services. They are called the 'Geuzengroep' and seem to have gathered a lot of support around the harbour area, rallying the populace behind their cause. They seem to work mostly underground though and as such there seems to be no more intel about either their members or their leader."
@@ -1781,9 +1781,9 @@ belind.13.b:0 "Keep Brabant intact."
 
 belind.14.t:0 "벨기에서의 선거"
 belind.14.d:0 "Tensions are high in the wake of the language protests throughout the nation with both Walloon and Flemish nationalists proving very popular. Public opinion is turning against the sitting government due to their stubborn and conservative stance on state reform which might cost them the election."
-belind.14.a:0 "The Flemish nationalist Volksunie wins."
-belind.14.b:0 "The BWP takes the most seats."
-belind.14.c:0 "The KP/DC achieves victory."
+belind.14.a:0 "플라망 민족주의 동맹이 승리한다."
+belind.14.b:0 "BWP가 과반수를 차지한다."
+belind.14.c:0 "KP/DC가 승리한다."
 
 belind.15.t:0 "Volksunie Announces its Victory"
 belind.15.d:0 "Bolstered by the discontent of citizens residing on the language border and attracting voters from the much more radical Verdinaso and VNV, the Volksunie has won the election by a close margin. They claim they seek to act on their election promises and reform Belgium into a confederacy where the Flemish and Walloon governments are freed from the restrictions of Brussels and can act on their own as they see fit."
