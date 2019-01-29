@@ -1261,7 +1261,7 @@ ustates.118.a:0 "관용을 베푼다"
 ustates.118.b:0 "엄벌을 내린다"
 
 ustates.119.t:0 "선거인단제의 운명"
-ustates.119.d:0 "As we work to strengthen democracy following the civil war, the question of the Electoral College has been brought up. Many are calling for its reformation while others believe that we should keep it around as a safeguard against radicalism. What should we do?"
+ustates.119.d:0 "내전 이후 민주주의를 강화하는 중, 선거인단제의 존속에 의문이 일었습니다. 많은 이들이 개혁을 요구하지만 한편으로는 다른 이들은 선거인단제가 급진주의로부터 안전망 역할을 한다고 믿습니다. 어떻게 해야 할까요?"
 ustates.119.a:0 "선거인단제는 죽었다"
 ustates.119.b:0 "선거인단제는 공화국의 안전망이다"
 
@@ -1349,10 +1349,10 @@ ustates.136.c:0 "존 낸스 가너"
 
 ### Civil War avoided Events ###
 
-ustates.150.t:0 "The Twentieth Amendment"
-ustates.150.d:0 "The Twentieth Amendment to the United States Constitution has been proposed. This amendment would make it so that the President of the United States of America is elected by the direct popular suffrage of the country. The current Electoral College system was last modified in the 14th Amendment almost a century ago. The bill, as proposed by a minority coalition of Social Democrats within the Republicans and Democrats has very little chance of succeeding. It is claimed by the supporters that doing this will help prevent another crisis like the 1936 crisis from happening again. The party leadership of both e Republicans and Democrats disagree, saying that the Electoral College was the only thing that kept the United States from totally dissolving in 1936. A long week of debating has left every avenue explored, and ultimately..... "
-ustates.150.a:0 "The Amendment is Ratified"
-ustates.150.b:0 "The Amendment is not Ratified"
+ustates.150.t:0 "수정 헌법 제20조"
+ustates.150.d:0 "미합중국 수정 헌법 제20조가 발의되었습니다. 이 수정헌법으로 미국 대통령은 국민들의 직접 투표로 선출될 것입니다. 현재의 선거인단 제도는 거의 1세기 전에 통과된 제14조 수정헌법에 의해 마지막으로 바뀌었습니다. 공화당과 민주당의 소수 사회민주주의자 연합이 제안한 이 법안은 통과될 가능성이 거의 없습니다. 지지자들은 이 수정 헌법이 1936년 위기 같은 위기가 또 다시 발생하는 것을 막는데 도움이 될 것이라고 주장합니다. 공화당과 민주당의 지도부는 선거인단제만이 1936년에 미국이 붕괴하는 것을 막은 유일한 것이라고 하면서 동의하지 않고 있습니다. 일주일간의 토론으로 모든 수단을 강구했으며, 결국....."
+ustates.150.a:0 "그 수정 헌법이 비준됐다."
+ustates.150.b:0 "그 수정 헌법이 비준되지 않았다."
 
 ustates.152.t:0 "NAACP and FBI Defames Socialists"
 ustates.152.d:0 "During the 1930s, a large part of the NAACP's activities were taken up by litigation in favour of African American rights. This was due to the retreating strength of the black vote and the diminishing ability of African Americans to reach office after Plessy v. Ferguson. This avenue was also pursued by the syndicalist aligned International Labor Defense, who countered the NAACP for a decade in a competition for the hearts of black voters. Seeing no other option and being unwilling to ever compromise with socialists, NAACP leader Walter Francis White has decided to cooperate with the FBI in an anti-socialist puiblic relations campaign. Whether this truly motivates civil rights or further dilutes the current remains to be seen."
@@ -1446,8 +1446,8 @@ ustates.171.d:0 "President John Nance Garner has never had much respect for the 
 ustates.171.a:0 "How Scandalous"
 
 ustates.172.t:0 "닭 잡는데 소 잡는 칼을 쓰다"
-ustates.172.d:0 "In thanks from the people of Texas, and in recognition for his undying loyalty to the Democratic party, Garner was given a 400-pound hammer this weekend as a gift. President Garner, who is known to slam his gavels so hard that he has broken several in the first year of Presidency alone, is more than pleased with this gift and is assured it will withstand any anger he throws at it."
-ustates.172.a:0 "When all you have is a Hammer"
+ustates.172.d:0 "텍사스 주민들은 가너에게 민주당에 대한 끊임없는 충성심에 대한 보답으로 이번 주말에 400파운드에 달하는 망치를 선물로 주었습니다. 대통령 취임 첫 해에 망치를 너무 세게 내려치다 여러 번 부러트린 가너 대통령은 이 선물에 매우 만족했으며, 망치에 가하는 어떠한 분노도 견뎌내질 것이라고 확신합니다."
+ustates.172.a:0 "너가 가진 게 망치 뿐이라면..."
 
 ustates.173.t:0 "맥아더가 '미국의 카이사르'를 저술하다"
 ustates.173.d:0 "오늘, 맥아더 대통령은 1936년 위기 당시의 자신의 역할을 연대기로 쓴 자서전을 출간했습니다. 맥아더의 책은 롱과 리드의 음모를 꿰뚫어 볼 수 있었던 그의 신묘한 능력과, 민주주의를 지키기 위해서라면 무엇이든지 한다는 강철과 같은 의지에 대해 다루고 있습니다. 적위대와 미닛맨에 의한 중산층 희생자들에 대한 강조와 함께 워싱턴에서의 긴박한 나날들에 대한 묘사가 이 책의 묘미라고 할 수 있겠습니다. 이 책은 또한 맥아더의 지휘부 내에서 정치적 혼란을 해결하기 위해 워싱턴으로 행군하자고 주장한 군인들이 있었음을 암시합니다. 맥아더는 구태여 이 군인들의 이름을 밝히려고 하지는 않았지만, 그는 개인적으로는 이 군인들이 반역을 획책하는 것을 막았다고 책을 통해 말합니다."
@@ -1757,7 +1757,7 @@ ustates.285.a:0 "Thank you Dr. Salk"
 
 ### Military stuff ###
 
-ustates.300.t:0 "Military Research"
+ustates.300.t:0 "군사 연구"
 ustates.300.d:0 "We are having our best scientists and business leaders look into what we should invest our efforts into guns, artillery, tanks, our improving our own doctrines. What should we choose?"
 ustates.300.a:0 "Modernize our Guns"
 ustates.300.b:0 "Modernize our Artillery"
@@ -1770,11 +1770,11 @@ ustates.301.a:0 "Lawrence Bell's Jet"
 ustates.301.b:0 "Oppenheimer's Atom Bomb"
 ustates.301.c:0 "Authorize more funds for both"
 
-ustates.302.t:0 "Albuquerque Project"
+ustates.302.t:0 "앨버커키 프로젝트"
 ustates.302.d:0 "Bell's X project has proceeded satisfactorily, with a successful implementation of rocket technology into planes being able to double the speed of older aircraft. Brave test pilot Jack Woolams today was the first person to fly the plane faster than 741 miles per hour, breaking the sound barrier."
 ustates.302.a:0 "Prepared for even Interplanetary War"
 
-ustates.303.t:0 "Winchester Project"
+ustates.303.t:0 "윈체스터 "
 ustates.303.d:0 "The project ran into a significant problem when it was discovered that the nuclear material Plutonium has a fission rate too fast for a bullet. The solution came in the form of depleted Uranium initially planned for a different nuclear project. This makes the weapon barely ethical under normal nuclear waste usage guidelines, and creates the issue of intentional biological damage from radiation on the target. Nonetheless, the Thin Man is a success"
 ustates.303.a:0 "We are safe from Oppenheimer's deadly toy"
 
