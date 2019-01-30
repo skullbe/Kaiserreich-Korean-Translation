@@ -157,7 +157,7 @@ AUS_suedbahn:0 "쥐트반에 전기를 공급하다"
 AUS_suedbahn_desc:0 "쉬트반 (남부 철도)는 그라츠를 경유하여 비엔나에서 라이바흐 및 트리에스테, 오스트리아 - 헝가리 제국의 주요 항구, 그리고 마지막으로 밀라노까지 이어지는 철도입니다. 여전히 주요 교통망이지만 1860년에 완공된 탓에, 트랙이 근대화를 절실히 필요로 하고 있습니다. 전기를 공급하는 것은 비교적 신속하게 진행될 것이며 많은 도움이 될 것입니다."
 
 AUS_homeland_eco:0 "오스트리아 민간 경제"
-AUS_homeland_eco_desc:0 "우리의 약한 경제는 검은 월요일(Black Monday)의 여파로 인해 너덜너덜해졌고, 충격은 비엔나와 그 주변에서 강하게 다가왔습니다. 특히 고도로 산업화 된 보헤미아에서 더욱 그러했습니다. 이웃 나라들도 비슷한 운명을 겪고 있지만 그들은 회복하기 시작했고, 이미 우리를 능가했습니다. 더 나은 경쟁력을 위해 주요 자동차 및 전기 회사들에게 정부 보조금을 지원해 우리의 경제를 향상시켜야 합니다."
+AUS_homeland_eco_desc:0 "우리의 약한 경제는 검은 월요일의 여파로 인해 너덜너덜해졌고, 충격은 비엔나와 그 주변에서 강하게 다가왔습니다. 특히 고도로 산업화 된 보헤미아에서 더욱 그러했습니다. 이웃 나라들도 비슷한 운명을 겪고 있지만 그들은 회복하기 시작했고, 이미 우리를 능가했습니다. 더 나은 경쟁력을 위해 주요 자동차 및 전기 회사들에게 정부 보조금을 지원해 우리의 경제를 향상시켜야 합니다."
 
 AUS_alpine_mines:0 "알프스 광산"
 AUS_alpine_mines_desc:0 "알프스 산은 항상 풍부한 광물 자원을 가지고 있었지만, 지금까지 우리가 보유해온 자산을 활용하는 것을 확장하는 것에 대해 아무런 생각이 없었습니다. 엄청난 양의 철광석이 우리의 기존 광산에서 채굴되고 있으며, 새로운 광산이 매일 튀어 나오고 있습니다. 이러한 산업을 부분적으로 국유화한다면 우리의 경제적 독립에 크게 기여할 것입니다."
@@ -230,7 +230,7 @@ AUS_cs_6:0 "사회 갈등 봉합"
 AUS_cs_6_desc:0 "모든 사회 계층이 부나 통화, 또는 상품의 소멸에 대해 서로를 비난하고 있습니다. 시민은 식량이 없다고 농부들을 비난하고, 농부들은 돈이 없다고 시민들을 비난합니다. 사회는 분열되어 있고, 신중한 담론을 통해서만 그것이 조정될 수 있습니다. 이것이 힘든 여정의 시작입니다."
 
 AUS_cs_7:0 "우리가 필요로 하는 것"
-AUS_cs_7_desc:0 "식민 제국과 제국 조약(Reichspakt)일은 모두 멋지고 괜찮습니다. 하지만 우리에게 필요하지 않은 것은 사치입니다. 상아와 주철을 먹고 살 수는 없습니다. 독일은 휴양지로 떠나고 있고 빈의 남자는 그가 진정으로 필요로 하는 것, 즉 외부 요인으로부터 자유로운 경제와 사회를 바라고 있습니다."
+AUS_cs_7_desc:0 "식민 제국과 제국 조약은 모두 멋지고 좋습니다. 하지만 우리에게 필요하지 않은 것은 사치입니다. 상아와 주철을 먹고 살 수는 없습니다. 독일은 휴양지로 떠나고 있고 빈의 남자는 그가 진정으로 필요로 하는 것, 즉 외부 요인으로부터 자유로운 경제와 사회를 바라고 있습니다."
 
 ### Military Tree
 
@@ -291,32 +291,32 @@ AUS_infanteriepanzer_desc:0 "군은 이미 수많은 기병 전차 설계를 성
 AUS_auftragstaktik:0 "현대 임무형 지휘"
 AUS_auftragstaktik_desc:0 "임무 형태의 전술(Auftragstaktik)은 세계대전 기간동안 성공적으로 채택되었습니다. 이러한 전술들은 부하들이 독립적으로 일을 해서 성취할 수 있는 명확히 정의된 임무를 부여하고, 뛰어난 유연성을 부여하며, 솔선수범하도록 장려하는 높은 지휘를 포함합니다. 임무 형태의 전술은 현대 전쟁에 적용할 수 있고 새로운 교리에도 쓸 수 있습니다."
 
-AUS_aviation_effort:0 "k.u.k. 항공부대"
-AUS_aviation_effort_desc:0 "Formerly known as the k.u.k. Luftfahrtruppen, the Fliegerkorps is the air service of Austria-Hungary. It was stretched thin during the Weltkrieg and had a limited number of aircraft at its disposal. Since the end of the war, little was done to rectify this as funding became scarce. With the military receiving substantial funds once more, modernising and expanding the Fliegerkorps is finally possible."
+AUS_aviation_effort:0 "K.u.K. 루프트바펜(Luftfahrtruppen)"
+AUS_aviation_effort_desc:0 "이전에 K.U.k. 루프트바펜(Luftfahrtruppen)으로 알려진, 플리거크룹(Fliegerkorps)은 오스트리아-헝가리의 공군입니다. 이는 세계대전 기간 동안 얇게 뻗어있었으며 제한된 수의 항공기를 가지고 있었습니다. 전쟁이 끝난 후, 자금이 부족해짐에 따라, 이것을 바로잡기 위해 행해진 것은 거의 없었습니다. 군대가 다시 한번 상당한 자금을 지원받음으로써, 마침내 플리거크룹의 현대화와 확장이 가능하게 되었습니다."
 
-AUS_uzelac-plan:0 "Uzelac's 지상 지원 계획"
-AUS_uzelac-plan_desc:0 "Milan Emil Uzelac is the first commander of the Luftfahrtruppen and remains influential within the General Staff and the Fliegerkorps. He believes that the Fliegerkorps exists mainly to support the army in its operations. Therefore, the air force must focus on fighter aircrafts to maintain air superiority and light bombers to attack enemy positions on the front."
+AUS_uzelac-plan:0 "우즈락의 지상 지원 계획"
+AUS_uzelac-plan_desc:0 "밀란 에밀 우즈락은 루프트바펜(Luftfahrtruppen)의 초대 사령관이며, 총 참모진과 플리거크룹(Fliegerkorps) 내에서도 여전히 영향력이 있습니다. 그는 플리거크룹이 주로 군대의 작전 지원을 위해 존재한다고 믿고 있습니다. 그러므로, 공군은 공군 우위 유지를 위해 전투기들과 전방의 적진을 공격하기 위한 경량 폭격기에 초점을 맞추어야 합니다."
 
-AUS_loehr-plan:0 "Löhr's 공격적인 공중 계획"
-AUS_loehr-plan_desc:0 "Generalmajor Alexander Löhr is a proponent of strategic bombing and granting the Fliegerkorps further independence from the Army. With heavy bombers, the Fliegerkorps could bring the fight to any enemies of the Monarchy and destroy and military capabilities and morale."
+AUS_loehr-plan:0 "뢰어의 공격적인 공중 계획"
+AUS_loehr-plan_desc:0 "알렉산더 뢰어는 전략폭격의 지지자이자 플리거크룹(Fliegerkorps)을 육군으로부터 더 많이 독립시키고자 하고자 합니다. 중폭격기로, 플리거크룹은 군주국의 모든 적들에게 전투를 가져올 수 있고, 군사력과 사기를 파괴할 수도 있습니다."
 
-AUS_flugschule:0 "k.u.k. 항공학교 설립"
-AUS_flugschule_desc:0 "While there are numerous flying schools across Austria-Hungary, there has never been a centralised academy to coordinate the training of pilots and officers for the Fliegerkorps. The creation of such an institution is essential to the reforms as it will create a new generation of officers and pilots, while also streamlining the Korps into something less ad-hoc."
+AUS_flugschule:0 "K.u.K. 항공학교 설립"
+AUS_flugschule_desc:0 "오스트리아-헝가리 전역에 수많은 항공학교가 있지만 플리거크룹의 조종사와 임원 훈련을 조정하는 중앙학교는 한번도 없었습니다. 그러한 기관의 설립은 개혁에 필수적입니다. 그것은 새로운 세대의 장교와 조종사를 양성하는 동시에 플리거크룹을 특별한 무언가로 만들어줄 것이기 때문입니다."
 
 AUS_fighter_trials:0 "전투기 시험 평가"
-AUS_fighter_trials_desc:0 "Aircraft development is advancing at an amazing pace. In order to keep up, trials are to be held to adopt a new fighter aircraft for the Fliegerkorps. After all, fighters are arguably the backbone of the air force and will help ensure the safety of our skies."
+AUS_fighter_trials_desc:0 "항공기 개발은 놀라운 속도로 진행되고 있습니다. 이를 따라가기 위해서는, 새로운 전투기를 채택하기 위한 실험이 시행되어야 합니다. 결국, 전투기는 틀림없는 공군력의 중추이며 우리 하늘의 안전을 보장하는데 도움이 될 것입니다."
 
 AUS_light_bomber_trials:0 "경폭격기 시험 평가"
-AUS_light_bomber_trials_desc:0 "Since supporting operations of the army is a priority for the Fliegerkorps, the adoption of a light bomber aircraft for this role is necessary. Potential designs vary from relatively \"heavy\" two-engine bombers to fighters converted to dive bombers."
+AUS_light_bomber_trials_desc:0 "플리거크룹은 군대의 운영을 지원하는 것이 우선사항이기 때문에, 이 역할을 위한 경폭격기의 채택이 필요합니다. 잠재적 설계는 상대적으로 "무거운" 쌍발 엔진 폭격기에서 급강하 폭격기로 개조된 전투기에 이르기까지 다양합니다."
 
 AUS_heavy_bomber_trials:0 "중폭격기 시험 평가"
-AUS_heavy_bomber_trials_desc:0 "Heavy bombers are a relatively recent development in aircraft technology and proponents of strategic bombing see their potential. Their long range and large bomb loads make them perfect for the role. Thus, trials are being held and aircraft companies are eager to win such a lucrative contract."
+AUS_heavy_bomber_trials_desc:0 "중폭격기는 비교적 최근의 항공기 기술 발전이고 전략폭격 지지자들이 그들의 잠재력을 보고 있습니다. 장거리 및 대규모 폭탄은 그 역할을 완벽하게 합니다. 따라서, 시험운행이 이루어지고 있으며 항공사들은 이 돈벌이가 되는 계약을 따내기를 열망하고 있습니다."
 
 AUS_medium_bomber_trials:0 "중형 폭격기 시험 평가"
-AUS_medium_bomber_trials_desc:0 "The potential of a versatile medium two-engine bombers for a variety of different missions has caught the attention of high command. Since a tactical bomber would be very useful for the Fliegerkorps, aircraft manufacturers are, once again, competing in trials for the next generation of bombers."
+AUS_medium_bomber_trials_desc:0 "다양한 임무를 수행하는 다재다능한 쌍발 중폭격기의 잠재력은 사령부의 높은 주목을 받고 있습니다. 전술 폭격기는 플리거크룹에 매우 유용할 것이기 때문에, 항공기 제조사들은 다시 한번 차세대 폭격기들을 위한 시험운행에 참가하고 있습니다."
 
 AUS_phoenix:0 "푀닉스"
-AUS_phoenix_desc:0 "세계 대전동안 푀닉스라는 이름을 가진 빈의 한 작은 회사는 독일 라이센스 비행기를 생산해 우리 공군에 공급했습니다. 그 이후로 이 회사는 다양한 디자인을 실험 해 왔으며 그 중 일부는 공군 현대화의 열쇠가 될 것입니다. "
+AUS_phoenix_desc:0 "세계대전 동안 푀닉스라는 이름을 가진 빈의 한 작은 회사는 독일 라이센스 비행기를 생산해 우리 공군에 공급했습니다. 그 이후로 이 회사는 다양한 디자인을 실험 해 왔으며 그 중 일부는 공군 현대화의 열쇠가 될 것입니다. "
 
 AUS_mil_expanded:0 "새로운 제국군"
 AUS_mil_expanded_desc:0 "우리 군대의 개혁은 길고 비용이 많이 드는 과정이었지만 마침내 완료되었습니다. 새로운 탱크, 총기, 선박 및 비행기가 조립 라인에서 대기중인 군대로 옮겨지고 개혁되어 제국의 적들과의 전투에 대비할 준비가 된 것입니다! "
@@ -336,7 +336,7 @@ AUS_capital_ships_effort_desc:0 "해군은 전투에 더 많은 화력을 불어
 AUS_small_ships_effort:0 "오스트리아 소형함 계획"
 AUS_small_ships_effort_desc:0 "우리는 잠수함은 훌륭하지만 육상 작전을 지원할 수 있고 적 함선을 마무리할 수 있는, 잠수함이 가지지 못한 화력을 가진 더 큰 함선이 필요합니다. 이에 따라 우리는 적의 잠수함과 수면위의 적과 대치할 수 있는 경순양함과 구축함의 새로운 모델을 개발하기로 결정했습니다."
 
-AUS_cattaro:0 "코토르 공군 기지".
+AUS_cattaro:0 "코토르 공군 기지"
 AUS_cattaro_desc:0 "세계 대전 기간에 아드리아 해에서의 정찰 임무를 위해 코토르(cattaro)만에 지어진 k.k. 공군기지는 종전 이후 페기되어 방치되었습니다. 하지만 아드리아 해의 입구에서 가까운 위치는 이 기지가 여전히 전략적으로 가치가 있음을 증명합니다."
 
 ### Ausgleich 1937
@@ -371,7 +371,7 @@ AUS_unify_italy:0 "이탈리아 통일"
 AUS_unify_italy_desc:0 "토리노에서의 이탈리아 생디칼리스트의 부상은 프랑스의 지원을 받는 서부의 이탈리아의 사회주의 공화국과, 우리 국경과 접해있는 이탈리아 공화국으로 나누게 하였습니다. 독일과 프랑스가 공개적으로 적대적인 태도를 유지하는 가운데, 후자를 돕는 것은 우리에 대한 그들의 우호를 얻을 뿐만 아니라, 프랑스와 전쟁에 대비해 우리의 측면을 안전하게 보호할 수 있습니다."
 
 AUS_strong_italy:0 "이탈리아 공화국 강화"
-AUS_strong_italy_desc:0 "정치적으로 분열된 가운데, 검은 월요일(Black Monday)의 지속적인 영향에 시달린 이탈리아는 민간 부문에 오스트리아 자본의 주입을 요구해왔습니다. 이탈리아와 오스트리아의 경제학자들에 따르면 이것은 양측 모두에게 도움이 될 것이며 나약한 이탈리아를 도와 그들이 알프스에서 프랑스와 맞서게 할 수 있고, 이는 우리의 방어에 필수적인 것입니다."
+AUS_strong_italy_desc:0 "정치적으로 분열된 가운데, 검은 월요일의 지속적인 영향에 시달린 이탈리아는 민간 부문에 오스트리아 자본의 주입을 요구해왔습니다. 이탈리아와 오스트리아의 경제학자들에 따르면 이것은 양측 모두에게 도움이 될 것이며 나약한 이탈리아를 도와 그들이 알프스에서 프랑스와 맞서게 할 수 있고, 이는 우리의 방어에 필수적인 것입니다."
 
 AUS_italy_secure:0 "이탈리아 영토 보호"
 AUS_italy_secure_desc:0 "우리의 새로운 신하들은, 이상하게도 우리의 점령에 호의적이지 않습니다.이 지역의 비밀경찰로부터 오는 정보는 교황청과 생디칼리스트 지식인들 사이에서 반란의 가능성을 점점 더 언급하고 있습니다. 제국의 장군은 반란 억제와 이탈리아 반도의 확보를 위한 선전 운동을 제안했습니다."
@@ -514,7 +514,7 @@ AUS_decentralised_resources_desc:0 "우리나라는 굶주렸으며, 이는 땅�
 AUS_am_stabilising_the_country:0 "국가 안정화"
 AUS_am_stabilising_the_country_desc:0 "너무 오랫동안 우리의 '국가' 는 단합되지 못한 빈의 거대한 얼간이들이었습니다. 여전히 노골적인 연방정부의 노력과 함께, 우리는 우리의 모든 정부의 노력이 이 결합을 유지하는 것에 초점을 맞추도록 확실히 해야 합니다."
 
-AUS_am_followup_2:0 "최악은 끝났다."
+AUS_am_followup_2:0 "최악은 끝났다"
 AUS_am_followup_2_desc:0 "비록 힘들었지만, 우리나라는 지난 몇달간 명백하게 회복했습니다. 우리나라가 갑작스런 연방화의 충격에서 얼마나 빨리 회복되었는지는 가장 낙관적인 지도자들조차도 놀라게 했습니다. 그럼에도 불구하고, 아직도 불안정이 가라앉기 까지는 갈 길이 있습니다."
 
 AUS_am_followup_3:0 "대타협의 끝"
@@ -618,7 +618,7 @@ aus.elections.4.d:0 "소규모 자본, 카톨릭 교회, 보수적인 시골 사
 aus.elections.4.a:0 "그가 원한다면 ..."
 aus.elections.4.b:0 "제국 황가는 그런 사소한 것들에 참혀하지 않는다."
 
-aus.elections.5.t:0 "기독사회당의 사냥회가 성공적으로 이루어지다."
+aus.elections.5.t:0 "기독사회당의 사냥회가 성공적으로 이루어지다"
 aus.elections.5.d:0 "사냥에 이어 여러 잔치가 열렸습니다. 유명한 기독사회당 인물들과의 라디오 인터뷰가 진행되었는데, 황태자 오토와의 인터뷰도 녹음되었습니다. 황태자가 현재 당과 관련되어 있고, 당에 대한 가장 헌신적인 신하들의 지지가 증가했기 때문에 이것이 의도적인 행위처럼 보입니다."
 aus.elections.5.a:0 "이것들이 그들이 사냥하고있는 것인가?"
 
@@ -626,7 +626,7 @@ aus.elections.6.t:0 "사냥 사고: 오토 황태자의 부상?"
 aus.elections.6.d:0 "모든 방관자가 사고로 증언하였습니다만, 저명한 기독사회당 정치가의 아들만의 사냥용 소총은 오발 사고를 냈고, 이 과정에서 오스틴 왕자의 오른쪽 다리에 상처가 났습니다. 이 사건에서 황태자가 중상을 입지는 않았지만, 미디어는 이미 음모론을 퍼트리고 있습니다."
 aus.elections.6.a:0 "그들은 내 황태자를 죽이려고 하는 것인가?"
 
-aus.elections.10.t:0 "기독사회당이 선거에서 승리하다."
+aus.elections.10.t:0 "기독사회당이 선거에서 승리하다"
 aus.elections.10.d:0 "선거에 대한 최종 집계가 완료되었습니다. 매우 작은 차이였지만 시골에서의 압도적인 승리로 기독사회당이 승리자가 되었습니다."
 aus.elections.10.a:0 "오스트리아는 기독사회당(CS)이 통치한다."
 
@@ -666,12 +666,12 @@ austria.9.d:0 "독일 자본가 개들은 그들의 광기에 미쳐, 일련의 
 austria.9.a:0 "프랑스 코뮌이 우리를 도울 것입니다."
 austria.9.b:0 "우리는 선택의 여지가 없다."
 
-austria.10.t:0 "오스트리아 생디칼리즘은 위험에 처해있다."
+austria.10.t:0 "위험에 처한 오스트리아 생디칼리즘"
 austria.10.d:0 "신생 오스트리아 생디칼리즘 국가는 독일 제국의 위협을 받고 있습니다. 대부분의 자코뱅인들은 독일군과의 조기 전쟁을 감수하더라도 즉각적인 행동을 요구하고 있습니다. 군대의 많은 구성원들과 많은 온건한 소렐주의자들은 독일 제국에 맞설때가 아니라고 주장합니다."
 austria.10.a:0 "베를린에 최후 통첩을 보낸다."
 austria.10.b:0 "우리는 독일과의 전쟁의 위험을 감수 할 수 없다."
 
-austria.11.t:0 "생디칼리즘이 확립되었다."
+austria.11.t:0 "생디칼리즘이 확립되다"
 austria.11.d:0 "마침내 자본주의의 억압이 없어지면서, 오스트리아는 마침내 진정한 생디칼리즘 국가가 될 수 있지만 미래는 어떻게 될까요?"
 austria.11.a:0 "우리는 영원히 군림할 것이다."
 
@@ -688,7 +688,7 @@ austria.14.t:0 "오스트리아의 항복"
 austria.14.d:0 "외교적 지원이 없다면 오스트리아 정부는 독일의 모든 요구를 받아 들일 수밖에 없습니다. 제국은 제국의 안보에 대한 또 다른 위협을 피했고 질서가 회복되었습니다."
 austria.14.a:0 "마침내."
 
-austria.15.t:0 "우리의 최후 통첩이 무시되었습니다"
+austria.15.t:0 "우리의 최후 통첩이 무시당하다"
 austria.15.d:0 "오만한 독일 제국은 우리의 최후 통첩에 답하지도 않고 현재 독립 생디칼리즘 오스트리아에 대한 외교적, 군사적 행동을 준비하고 있습니다. 우리가 오스트리아를 보호할 수있는 유일한 방법은 독일 제국주의자들과 그들의 개들에게 전쟁을 선포하는 것입니다."
 austria.15.a:0 "이건 너무 위험하다."
 austria.15.b:0 "그렇다면 전쟁이다!"
@@ -758,7 +758,7 @@ austria.31.t:0 "아스날 봉기"
 austria.31.d:0 "지난 밤 저항 운동가들의 작은 무리들이 아스날(부다페스트의 도시)에 침입했습니다. 우리는 그들이 어떻게했는지 알지 못하지만 이 사건에서 여러 곳의 경비원이 사망했습니다. 아스날 전체가 침략자들에 의해 폐허가 되었습니다."
 austria.31.a:0 "그들은 이것을 후회할 것이다."
 
-austria.32.t:0 "부다페스트 시티 레이드"
+austria.32.t:0 "부다페스트 도시 습격"
 austria.32.d:0 "아스날 침략으로부터 3 일 후 아스날의 무장 봉기 세력이 부다페스트 거리를 행진했습니다. 그들은 헝가리의 독립을 선포합니다. 우리는 무엇을 해야 할까요?"
 austria.32.a:0 "제압하라."
 austria.32.b:0 "그들은 우리를 해칠 수 없다."
@@ -785,16 +785,16 @@ austria.101.d:0 "오늘 오스트리아 대사가 수도에 도착했습니다. 
 austria.101.a:0 "이것은 좋은 생각처럼 들린다."
 austria.101.b:0 "오스트리아는 우리의 천적이다."
 
-austria.102.t:0 "오스트리아 - 이탈리아의 우호 관계"
+austria.102.t:0 "오스트리아-이탈리아의 우호 관계"
 austria.102.d:0 "오늘, 우리 대사가 이탈리아에서 복귀했습니다. 그는 우호 협정에 대한 이탈리아와의 합의에 대해 알려 주었습니다. 우리나라 앞에 밝은 미래가 놓여 있습니다."
 austria.102.a:0 "좋군."
 
-austria.103.t:0 "오스트리아 - 이탈리아의 경쟁 관계"
+austria.103.t:0 "오스트리아-이탈리아의 경쟁 관계"
 austria.103.d:0 "오늘, 우리 대사가 이탈리아에서 복귀했습니다. 그는 이탈리아인들이 우호 협정에 대한 우리의 제안을 거절했다고 우리에게 알렸습니다. 이것은 우리나라의 모든 국가에 대한 모욕입니다. 우리가 세계대전에서 그랬던 것처럼, 우리의 군대는 다시 한번 그들을 향해 진군해야 합니다."
 austria.103.a:0 "우리는 응징할 것이다."
 
 ### Austria Suggests War ###
-austria.104.t:0 "오스트리아는 전쟁을 제의했습니다."
+austria.104.t:0 "오스트리아가 전쟁을 제의하다"
 austria.104.d:0 "오스트리아 대사는 오늘 우리가 군대를 동원해 남부의 사회주의자들을 공격하는 것을 제안했습니다. 그는 이탈리아의 통일이 임박했다는 말도 덧붙였습니다."
 austria.104.a:0 "우리는 그들을 쳐부술 것이다!"
 austria.104.b:0 "우리는 그렇게 할 수 없다."
@@ -854,17 +854,17 @@ ausgleich.new.205.t:0 "헝가리가 다른 대표단의 초대에 대해 항의�
 ausgleich.new.205.d:0 "헝가리는 우리가 다른 국가 대표단을 협상에 초청한 것을 비난했습니다. 이 비난이 무엇을 암시하는지는 정확히 모르겠으나, 확실히 잘 지켜보아야 하겠습니다."
 ausgleich.new.205.a:0 "우리의 미래를 위한 일이다."
 
-ausgleich.new.206.t:0 "보헤미아가 참가에 동의하다"
+ausgleich.new.206.t:0 "보헤미아가 참석에 동의하다"
 ausgleich.new.206.d:0 "우리 대사가 프라하에서 돌아왔고, 보헤미아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수 있어서 기쁘다고 전해왔습니다."
 ausgleich.new.206.a:0 "좋군."
-ausgleich.new.207.t:0 "갈리시아가 참가에 동의하다"
+ausgleich.new.207.t:0 "갈리시아가 참석에 동의하다"
 ausgleich.new.207.d:0 "우리 대사가 크라코프에서 돌아왔고, 갈리시아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수 있어서 기쁘다고 전해왔습니다."
 ausgleich.new.207.a:0 "좋군."
-ausgleich.new.208.t:0 "일리리아가 참가에 동의하다"
+ausgleich.new.208.t:0 "일리리아가 참석에 동의하다"
 ausgleich.new.208.d:0 "우리 대사가 자그레브에서 돌아왔고, 일리리아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수 있어서 기쁘다고 전해왔습니다."
 ausgleich.new.208.a:0 "좋군."
 
-ausgleich.new.211.t:0 "슬로바키아인과 루마니아인이 대타협에 초대되다."
+ausgleich.new.211.t:0 "슬로바키아인과 루마니아인이 대타협에 초대되다"
 ausgleich.new.211.d:0 "빈의 중앙정부가 제국의 체코인, 폴란드인 및 다른 민족을 협상 테이블에 초대한 것만으로도 모자라, 전국의 모든 민족 공동체를 초대한 것 같습니다. \n\n카르파티아 분지에 있는 슬로바키아인과 루마니아인들은 수세기 동안 잠자코 굴복해왔지만, 빈이, 황제가, 그들의 민족주의 운동을 잠에서 깨웠습니다."
 ausgleich.new.211.a:0 "무례하다!"
 
@@ -883,17 +883,17 @@ ausgleich.new.214.d:0 "우리 지방 정부의 구성원들 사이에서 돌고�
 ausgleich.new.214.a:0 "크로아티아, 보스니아 및 세르비아인 대표단을 보내라."
 ausgleich.new.214.b:0 "일리리아 민족은 단 하나뿐이다."
 
-ausgleich.new.215.t:0 "헝가리가 다른 국가 대표단들 초대에 항의하다."
+ausgleich.new.215.t:0 "헝가리가 다른 대표단의 초대에 대해 항의하다"
 ausgleich.new.215.d:0 "헝가리는 우리가 다른 국가 대표단을 협상에 초청했다고 비난했습니다. 이 비난이 어떤 뜻을 내포하는지 모르지만, 우리는 지켜보아야 할 것입니다."
 ausgleich.new.215.a:0 "그것은 앞으로의 길이다."
 
-ausgleich.new.216.t:0 "보헤미아는 참석하기로 동의하다."
+ausgleich.new.216.t:0 "보헤미아가 참석에 동의하다"
 ausgleich.new.216.d:0 "우리 대사가 프라하에서 돌아 왔고, 보헤미아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수있어서 기쁘다고 전해왔습니다."
 ausgleich.new.216.a:0 "좋군."
-ausgleich.new.217.t:0 "갈라시아는 참석하기로 동의하다."
+ausgleich.new.217.t:0 "갈라시아가 참석에 동의하다"
 ausgleich.new.217.d:0 "우리 대사가 크라코프에서 돌아 왔고, 갈라시아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수있어서 기쁘다고 전해왔습니다."
 ausgleich.new.217.a:0 "좋군."
-ausgleich.new.218.t:0 "일리리아는 참석하기로 동의하다."
+ausgleich.new.218.t:0 "일리리아가 참석에 동의하다"
 ausgleich.new.218.d:0 "우리 대사가 자그레브에서 돌아 왔고, 일리리아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수있어서 기쁘다고 전해왔습니다."
 ausgleich.new.218.a:0 "좋군."
 
@@ -1255,11 +1255,11 @@ aus.tree.4021.d:0 "오스트리아는 "발칸 반도의 수호자" 역할을 자
 aus.tree.4021.a:0 "보호받는 것은 좋은 일이다."
 aus.tree.4021.b:0 "우리는 우리만의 힘으로 잘 해나가고 있다."
 
-aus.tree.4022.t:0 "[From.GetNameDefCap]이(가) 거절하다."
+aus.tree.4022.t:0 "[From.GetNameDefCap]이(가) 거절하다"
 aus.tree.4022.d:0 "[From.GetLeader]는 그들이 우리의 보호에 관심이 없다는 것을 알려왔습니다. [From.GetNameDef]는 우리 영역권에 들어오지 않을 것입니다."
 aus.tree.4022.a:0 "훌륭하기도 해라."
 
-aus.tree.4023.t:0 "[From.GetNameDefCap]이(가) 우리의 영향권에 들어오는 것에 동의하다."
+aus.tree.4023.t:0 "[From.GetNameDefCap]이(가) 우리의 영향권에 들어오는 것에 동의하다"
 aus.tree.4023.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
 aus.tree.4023.a:0 "훌륭하군."
 
@@ -1273,11 +1273,11 @@ aus.tree.4031.d:0 "오스트리아는 "발칸 반도의 수호자" 역할을 자
 aus.tree.4031.a:0 "보호받는 것은 좋은 일이다."
 aus.tree.4031.b:0 "우리는 우리만의 힘으로 잘 해나가고 있다."
 
-aus.tree.4032.t:0 "[From.GetNameDefCap]이(가) 거절하다."
+aus.tree.4032.t:0 "[From.GetNameDefCap]이(가) 거절하다"
 aus.tree.4032.d:0 "[From.GetLeader]는 그들이 우리의 보호에 관심이 없다는 것을 알려왔습니다. [From.GetNameDef]는 우리 영역권에 들어오지 않을 것입니다."
 aus.tree.4032.a:0 "훌륭하기도 해라."
 
-aus.tree.4033.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다."
+aus.tree.4033.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다"
 aus.tree.4033.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
 aus.tree.4033.a:0 "훌륭하군."
 
@@ -1291,11 +1291,11 @@ aus.tree.4041.d:0 "오스트리아는 "발칸 반도의 수호자" 역할을 자
 aus.tree.4041.a:0 "보호받는 것은 좋은 일이다."
 aus.tree.4041.b:0 "우리는 우리만의 힘으로 잘 해나가고 있다."
 
-aus.tree.4042.t:0 "[From.GetNameDefCap]이(가) 거절하다."
+aus.tree.4042.t:0 "[From.GetNameDefCap]이(가) 거절하다"
 aus.tree.4042.d:0 "[From.GetLeader]는 그들이 우리의 보호에 관심이 없다는 것을 알려왔습니다. [From.GetNameDef]는 우리 영역권에 들어오지 않을 것입니다."
 aus.tree.4042.a:0 "훌륭하기도 해라."
 
-aus.tree.4043.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다."
+aus.tree.4043.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다"
 aus.tree.4043.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
 aus.tree.4043.a:0 "훌륭하군."
 
@@ -1308,10 +1308,10 @@ aus.tree.4051.d:0 "오스트리아는 발칸 반도의 수호자를 자처하는
 aus.tree.4051.a:0 "보호받는 것은 좋지."
 aus.tree.4051.b:0 "우리끼리 잘 지내고 있다."
 
-aus.tree.4052.t:0 "[From.GetNameDefCap]이(가) 거절하다."
+aus.tree.4052.t:0 "[From.GetNameDefCap]이(가) 거절하다"
 aus.tree.4052.d:0 "[From.GetLeader]의 나라는 우리의 보호 제안의 관심이 없다는 걸 알게 해줬지 [From.GetNameDef]은(는) 우리 세력의 일부가 되지 않을 거야."
 aus.tree.4052.a:0 "Well then."
 
-aus.tree.4053.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다."
+aus.tree.4053.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다"
 aus.tree.4053.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
 aus.tree.4053.a:0 "훌륭하군"
