@@ -82,7 +82,7 @@ ACW_support_psa:0 "태평양 합중국 지원"
 ACW_support_psa_desc:0 "우리는 미국 전역의 폭정에 맞서 싸우는 서해안의 정당한 미국을 지지해야 합니다."
 
 ACW_csa_decisions:0 "제2차 미국 혁명 결정"
-ACW_csa_decisions_desc:0 "제2차 미국 혁명이 시작됐고 우리는 노동 계급을 위해 승리를 이끌어내야 합니다."
+ACW_csa_decisions_desc:0 "제2차 미국 혁명이 시작됐고 우리는 노동계급을 위해 승리를 이끌어내야 합니다."
 
 ACW_tex_decisions:0 "제2차 미국 내전"
 ACW_tex_decisions_desc:0 "제2차 미국 내전이 발발했고 우리는 미국을 위해 승리를 이끌어내야 합니다."
@@ -133,7 +133,7 @@ amcivwar.8.b:0 "공화국을 지켜내자 (태평양 합중국으로 플레이�
 
 amcivwar.9.t:0 "제2차 미국 내전"
 amcivwar.9.d:0 "혼돈이 이 땅을 집어삼켰습니다. 미국 전역에서 시민군이 소집되었고, 전쟁의 불길이 타오름과 동시에 부모형제가 서로 싸우면서 제2차 미국 내전이 그 막을 열었습니다."
-amcivwar.9.a:0 "이건 아니야…"
+amcivwar.9.a:0 "이건 아니야..."
 
 ### Set Up Events - Olson ###
 
@@ -153,7 +153,7 @@ amcivwar.12.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동
 
 amcivwar.13.t:0 "제2차 미국 내전"
 amcivwar.13.d:0 "혼돈이 이 땅을 집어삼켰습니다. 미국 전역에서 시민군이 소집되었고, 전쟁의 불길이 타오름과 동시에 부모형제가 서로 싸우면서 제2차 미국 내전이 그 막을 열었습니다."
-amcivwar.13.a:0 "이건 아니야…"
+amcivwar.13.a:0 "이건 아니야..."
 
 ### Set Up Events - Garner ###
 amcivwar.14.t:0 "롱이 미주 연합을 선포하다"
@@ -168,7 +168,7 @@ amcivwar.15.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동
 
 amcivwar.16.t:0 "제2차 미국 내전"
 amcivwar.16.d:0 "혼돈이 이 땅을 집어삼켰습니다. 미국 전역에서 시민군이 소집되었고, 전쟁의 불길이 타오름과 동시에 부모형제가 서로 싸우면서 제2차 미국 내전이 그 막을 열었습니다."
-amcivwar.16.a:0 "이건 아니야…"
+amcivwar.16.a:0 "이건 아니야..."
 
 ### Set Up Events - Landon ###
 
@@ -184,7 +184,7 @@ amcivwar.18.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동
 
 amcivwar.19.t:0 "제2차 미국 내전"
 amcivwar.19.d:0 "혼돈이 이 땅을 집어삼켰습니다. 미국 전역에서 시민군이 소집되었고, 전쟁의 불길이 타오름과 동시에 부모형제가 서로 싸우면서 제2차 미국 내전이 그 막을 열었습니다."
-amcivwar.19.a:0 "이건 아니야…"
+amcivwar.19.a:0 "이건 아니야..."
 
 ### Set up Events - Re-enforcements ###
 
@@ -206,27 +206,27 @@ amcivwar.23.a:0 "자유는 절대 사라지지 않는다."
 
 ### End of Civil War Events ###
 
-amcivwar.24.t:0 "제 2차 미국 내전의 종결"
+amcivwar.24.t:0 "제2차 미국 내전의 종결"
 amcivwar.24.d.noceasefire:0 "온갖 부를 거머쥔 자본가들이 지배하던 시대, 20세기는 이제 노동자 계급의 손 아래 놓였습니다. 전국의 노동자 계급은 마침내 도래한 약탈자 자본가들로부터의 해방을 기념하고 있습니다. 비록 앞으로 해야할 일은 많겠지만, 지금만큼은 이 순간을. 만인이 진정으로 평등해진 이 순간을 만끽합시다."
 amcivwar.24.d.ceasefire:0 "온갖 부를 거머쥔 자본가들이 지배하던 시대, 20세기는 이제 노동자 계급의 손 아래 놓였습니다. 전국의 노동자 계급은 마침내 도래한 약탈자 자본가들로부터의 해방을 기념하고 있습니다. 비록 앞으로 해야할 일이 많고 자칭 '태평양 합중국'이라는 적들이 휴전선 너머에 아직 살아숨쉬고 있지만, 지금만큼은 이 순간을. 만인이 진정으로 평등해진 이 순간을 만끽합시다."
 amcivwar.24.a:0 "단결이여 영원하라!"
 
-amcivwar.25.t:0 "제 2차 미국 내전의 종결"
+amcivwar.25.t:0 "제2차 미국 내전의 종결"
 amcivwar.25.d.noceasefire:0 "휴이 롱과 친구들은 모든 적들을 이겨냈습니다. 이제 우리는 이 승리로 인해 찾아온 새로운 평화의 시대를 축하할 수 있습니다. 비록 상당한 재건 과정이 있겠지만, 당분간은 우리의 승리를 축하합시다."
 amcivwar.25.d.ceasefire:0 "휴이 롱과 친구들은 -멀지 않은 미래에 반드시 심판받아야 할 휴전선 너머의 소위 태평양 합중국을 제외하고는- 거의 모든 적들을 이겨냈습니다. 이제 우리는 이 승리로 인해 찾아온 새로운 평화의 시대를 축하할 수 있습니다. 비록 상당한 재건 과정이 있겠지만, 당분간은 우리의 승리를 축하합시다."
 amcivwar.25.a:0 "진정한 미국은 여전히 굳건하다!"
 
-amcivwar.26.t:0 "제 2차 미국 내전의 종결"
+amcivwar.26.t:0 "제2차 미국 내전의 종결"
 amcivwar.26.d.noceasefire:0 "미국의 적들은 궤멸되었습니다. 남방은 평화로워졌고, 생디칼리스트들의 위협은 억제되었습니다. 미국민의 일상에 대한 위협은 파괴되었고, 건국의 아버지들에 의해 현명하게 설계된 위대한 정치체계은 또 다른 위협에서 살아남았습니다. 이제 전국민은 새로운 평화의 시대를 축하하고 즐길 수 있습니다."
 amcivwar.26.d.ceasefire:0 "남방은 평화로워졌고, 생디칼리스트들의 위협은 억제되었습니다. 미국민의 일상에 대한 생디칼리스트의 위협은 파괴되었지만, 소위 태평양 합중국이 휴전선 너머에 잔존해 있는 상황에서 미국은 아직 완전하지는 않습니다. 그럼에도 불구하고 건국의 아버지들에 의해 현명하게 설계된 위대한 정치체계은 또 다른 위협에서 살아남았고, 국민들은 당분간 새로운 평화의 시대를 축하하고 즐길 수 있습니다."
-amcivwar.26.a:0 "반역자를 타도하고, 성조기를 드높여라"
+amcivwar.26.a:0 "반역자를 타도하고 성조기를 드높여라"
 
-amcivwar.27.t:0 "제 2차 미국 내전의 종결"
+amcivwar.27.t:0 "제2차 미국 내전의 종결"
 amcivwar.27.d.noceasefire:0 "The enemies of America have been destroyed. Once again, the South has been pacified, the syndicalist menace has been suppressed, and the American Caesar has been vanquished. The threats to American democracy have been destroyed, and the great system designed so wisely by the Founding Fathers has survived another threat. Now across the country, the people can rejoice and celebrate a new era of peace."
 amcivwar.27.d.ceasefire:0 "Though [ACW_survivor.GetNameDef] yet exists across the ceasefire line, the other factions in the civil war have fallen and the battles are done... at least for now. We have a breather, a moment of respite and reflection, before we will need to take up arms and unite the country under one banner again. For the moment, the people can rejoice for a victory hard-earned."
-amcivwar.27.a:0 "자유의 빛은 꺼지지 않으리라!"
+amcivwar.27.a:0 "자유의 횃불은 꺼지지 않으리!"
 
-amcivwar.28.t:0 "제 2차 미국 내전의 종결"
+amcivwar.28.t:0 "제2차 미국 내전의 종결"
 amcivwar.28.d.nee:0 "The dust has finally settled, and it seems the only faction left standing in the civil war is [NEE.GetNameDef]. We will need to take up the flag of America, and rebuild what is left. May the likes of MacArthur, Long, Reed, and all the rest rot in Hell for the chaos they ravaged upon America's legacy of freedom."
 amcivwar.28.d.can:0 "The dust has finally settled, and it seems the American civil war ended with... nobody left standing at all. America is no more, at least for now."
 amcivwar.28.a:0 "마침내 끝났군..."
@@ -239,7 +239,7 @@ amcivwar.29.b:0 "순양함"
 
 amcivwar.30.t:0 "중앙위원회 지시 #10: 물질 자산의 재분배를 통제하는 규제"
 amcivwar.30.d:0 "Now that the revolution has begun, we must decide what should be done to the bourgeoisie. The IWW proclaim we confiscate all their wealth and redistribute it to the people immediately. The up-and-coming Vanguard has called for their immediate arrest and execution as well, citing the fate of Vladimir Lenin as an example of a revolution defeated by leniency. SPA members belonging to the depreciated AFL, along with several loyal Progressives have sought life over death. Asking the Central Committee to only expropriate what is necessary for war, and keep their materialist constituents happy. "
-amcivwar.30.a:0 "그들의 의식주는 원래 우리 것이였다!"
+amcivwar.30.a:0 "저들의 의식주는 원래 우리 것이다!"
 amcivwar.30.b:0 "We may need these moderates in the future."
 
 amcivwar.31.t:0 "부르주아들이 캐나다로 도망가다"
@@ -253,7 +253,7 @@ amcivwar.32.a:0 "사상 혁명은 진행중이다."
 amcivwar.33.t:0 "중앙위원회 지시 #213: 전시 생디칼리즘"
 amcivwar.33.d:0 "As the war stalemates and perhaps may even turn against us, the Central Committee is debating a comprehensive economic reform proposal known as 'War Syndicalism.' Some of its proposals, such as state control of all foreign trade, nationalization of all factories, strict labour discipline are not especially controversial. It also includes potentially problematic measures such as the outlawing of  wildcat strikes, obligatory labour-duty for those not working or in the military, strict food rationing, and military control over railroads. This is seen as tyrannical within the SPA with a number saying that some of the latter measures, especially the outlawing of wildcat strikes would betray the values of the revolution, and make the current government no better than its Capitalist enemies. Those supporting the proposal in the IWW and Vanguard counter that it is necessary in order to achieve victory in the revolution, and that the first laws passed after the end of the war will revert War Syndicalism."
 amcivwar.33.a:0 "전시 생디칼리즘을 제정하라"
-amcivwar.33.b:0 "우리는 자유인으로 살고 자유인으로 죽을 것이다!"
+amcivwar.33.b:0 "우리는 자유인으로 살고 자유인으로 죽을것이다!"
 
 amcivwar.34.t:0 "붉은 마녀"
 amcivwar.34.d:0 "양성평등은 오랫동안 사회주의 사상의 주요한 이념적 요소였고, 우리는 그것의 효과를 목도했습니다. 여성 파일럿 중대는 적의 영토에 대한 과감한 습격, 치밀하고 동시다발적인 공격 등으로 노동연맹 내부에서 명성을 얻었습니다. 플로렌스 '판초' 반스가 이끄는 비행대대는 비범하게도 휴이 롱의 반동들에 의해 '붉은 마녀들'이라는 새로운 별명을 얻었습니다."
@@ -320,42 +320,42 @@ amcivwar.45.c:0 "프레드릭 이브스 로드"
 ### AUS Flavor Events ###
 
 amcivwar.46.t:0 "사리사욕에 호소"
-amcivwar.46.d:0 "찰스 린드버그는 휴이 롱에게 헨리 포드, 프레드 코흐, 그리고 H L 헌트를 포함한 여러 주요 기업가들과의 만남을 주선했습니다. 이 자들은 연방정부의 명령에 따라 남부의 공장과 정유소를 폐쇄하려고 했습니다. 하지만 그 대신 이들은 린드버그에 의해 몇 가지 조건에 따라 휴이 롱을 옹호하고 자신들의 산업력을 미주 연합으로 이전하도록 설득당했습니다. 이들은 휴이 롱이 전쟁에서 승리할 경우에 정치 직책을 부여해 줄 것뿐만 아니라 비참한 경제상황 속에서 자신들에게는 일종의 정치적 예외를 보장해 줄 것을 요구합니다. 만약 롱이 이들의 요구에 동의한다면 상당한 산업력을 확보할 수 있겠지만, 롱의 지지자 대다수는 그가 자신의 정치적 이상을 버릴 작정인지 궁금해 할 것입니다. 그럼에도 불구하고 이 암울한 시기에 이런 제안을 거절한다는 것은 그 대가가 큽니다."
+amcivwar.46.d:0 "찰스 린드버그는 휴이 롱 각하께 헨리 포드, 프레드 코흐, 그리고 H L 헌트를 포함한 여러 주요 기업가들과의 만남을 주선했습니다. 이 자들은 연방정부의 명령에 따라 남부의 공장과 정유소를 폐쇄하려고 했습니다. 하지만 그 대신 이들은 린드버그에 의해 몇 가지 조건에 따라 휴이 롱 각하를 지지하고 자신들의 산업력을 진정한 미국으로 이전하도록 설득당했습니다. 이들은 휴이 롱 각하께서 전쟁에서 승리할 경우에 정치직책을 부여해 줄 것뿐만 아니라 비참한 경제상황 속에서 자신들에게는 일종의 정치적 예외를 보장해 줄 것을 요구합니다. 만약 롱 각하께서 이들의 요구에 동의한다면 상당한 산업력을 확보할 수 있겠지만, 롱 각하의 지지자 대다수는 대통령 각하께서 자신의 정치적 이상을 버릴 작정인지 궁금해 할 것입니다. 그럼에도 불구하고 이 암울한 시기에 이런 제안을 거절한다는 것은 그 대가가 큽니다."
 amcivwar.46.a:0 "저들의 사리사욕에 동의한다"
 amcivwar.46.b:0 "저들의 사리사욕을 거절한다"
 
 amcivwar.47.t:0 "전시산업위원회"
-amcivwar.47.d:0 "기업인들은 휴이 롱을 대신하여 전시산업을 조율하기 위해 표면상으로는 휴이 롱을 지지하는 위원회를 설립했습니다. 휴이 롱 자신이 미국을 위해 투쟁하는 기념비적인 과업을 수행하기 위해 정부를 형성한 것처럼, 기업인들도 스스로 과업을 수행하기 위한 산업 기관을 설립했습니다. 비록 자신들이 약속받았던 모든 권력을 가지고 있지는 않지만, 그들은 스스로를 공화국의 병기창이라고 선언했고, 반유대적이지만 존경받는 장군인 조지 반 혼 모즐리가 위원회를 지도합니다."
-amcivwar.47.a:0 "그들을 주시해야 한다"
+amcivwar.47.d:0 "기업인들은 휴이 롱 각하를 대신하여 전시산업을 조율하기 위해 표면상으로는 휴이 롱 각하를 지지하는 위원회를 설립했습니다. 휴이 롱 각하께서 미국을 위한 투쟁이라는 기념비적인 과업을 수행하기 위해 몸소 정부를 형성한 것처럼, 기업인들도 스스로 과업을 수행하기 위한 산업기관을 설립했습니다. 비록 자신들이 약속받았던 모든 권력을 가지고 있지는 않지만, 그들은 스스로를 공화국의 병기창이라고 선언했고, 반유대적이지만 존경받는 장군인 조지 반 혼 모즐리가 위원회를 지도합니다."
+amcivwar.47.a:0 "이들을 주시해야 한다"
 
 amcivwar.48.t:0 "충성 맹세"
-amcivwar.48.d:0 "휴이 롱을 방문한 가장 특이한 지지자 중 한 명은 또라이이지만 매사에 열정적인 윌리엄 더들리 펠리였습니다. 펠리는 은색 군단이라고 불리는 백인우월주의 정치-종교-사회 단체의 지도자입니다. 비록 이 단체의 회원 수는 중간 규모이지만, 휴이 롱의 이상에 대한 펠리의 열정은 불안감이 들 정도로 열정적입니다. 펠리는 미주 연합의 지지자들을 모을 목적으로 헌신적이고 애국적인 미국 순례를 수행하기 위한 자금을 요구해왔습니다. 이 제안을 받아들인다면 KKK와 금주주의자의 사상에 대해 혐오감을 가진 휴이 롱이 자신의 사상과 모순되는 신생 기독교 정체운동을 지원한다는 사실을 지지자들이 알게 될 것입니다. 어떻게 할까요?"
+amcivwar.48.d:0 "휴이 롱 각하를 방문한 가장 특이한 지지자 중 한 명은 또라이이지만 매사에 열정적인 윌리엄 더들리 펠리였습니다. 펠리는 은색 군단이라고 불리는 백인우월주의 정치-종교-사회 단체의 지도자입니다. 비록 이 단체의 회원 수는 중간 규모이지만, 휴이 롱 각하의 이상에 대한 펠리의 열정은 불안감이 들 정도로 열정적입니다. 펠리는 진정한 미국을 위한 지지자들을 모을 목적으로 헌신적이고 애국적인 미국 순례를 수행하기 위한 자금을 요구해왔습니다. 이 제안을 받아들인다면 KKK와 금주주의자의 사상에 대해 혐오감을 가진 휴이 롱 각하께서 자신의 사상과 모순되는 신생 기독교 정체운동을 지원한다는 사실을 지지자들이 알게 될 것입니다. 어떻게 할까요?"
 amcivwar.48.a:0 "제안에 동의한다"
 amcivwar.48.b:0 "제안을 거절한다"
 
 amcivwar.49.t:0 "은색 군단"
-amcivwar.49.d:0 "전국 순례 동안 윌리엄 펠리는 라디오 설교자인 허버트 W 암스트롱과 만났습니다. 자신들을 대신하여 도덕적인 전쟁을 수행한다고 여기는 미주 연합을 위한 군대 양성을 위해, 이들은 공식적으로 자신들의 신앙을 결합하여 펠리-암스트롱 연대를 형성했습니다. 연대는 전국에서 수만 명의 회원을 모집하였고, 이들의 연설에 대한 보고도 계속해서 들어오고 있습니다. 반 천주교적이고 인종차별적인 내용이 포함된 연설에서 이들은 내전 후 참전용사들을 위한 특별 연금을 포함한 각종 혜택을 휴이 롱이 약속했다고도 했습니다. 우리가 하지도 않은 이 약속들이 천리만리로 퍼지는 것을 막기 위해 우리가 할 수 있는 것은 거의 없습니다."
-amcivwar.49.a:0 "그들을 주시해야 한다"
+amcivwar.49.d:0 "전국 순례 동안 윌리엄 펠리는 라디오 설교자인 허버트 W 암스트롱과 만났습니다. 자신들을 대신하여 성전을 수행한다고 여기는 진정한 미국을 위한 군대 양성을 위해, 이들은 공식적으로 자신들의 신앙을 결합하여 펠리-암스트롱 연대를 형성했습니다. 연대는 전국에서 수만 명의 회원을 모집하였고, 이들의 연설에 대한 보고도 계속해서 들어오고 있습니다. 반 천주교적이고 인종차별적인 내용이 포함된 연설에서 이들은 내전 후 참전용사들을 위한 특별 연금을 포함한 각종 혜택을 휴이 롱 각하께서 약속했다고도 했습니다. 우리가 하지도 않은 이 약속들이 천리만리로 퍼지는 것을 막기 위해 우리가 할 수 있는 것은 거의 없습니다."
+amcivwar.49.a:0 "이들을 주시해야 한다"
 
 amcivwar.50.t:0 "참모총장"
-amcivwar.50.d:0 "내전이 계속 격렬해지고 있지만 여전히 공석인 참모총장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 휴이 롱을 접견하여 전쟁의 승리를 위해 참모총장을 임명할 것을 요청했습니다."
+amcivwar.50.d:0 "내전이 계속 격렬해지고 있지만 여전히 공석인 참모총장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 휴이 롱 각하를 접견하여 전쟁의 승리를 위해 참모총장을 임명할 것을 요청했습니다."
 amcivwar.50.b:0 "조지 반 혼 모즐리"
 amcivwar.50.c:0 "제임스 거스리 하보드"
 amcivwar.50.e:0 "버질 H. '버트' 에핀저"
 
 amcivwar.51.t:0 "육군 참모총장"
-amcivwar.51.d:0 "내전이 계속 격렬해지고 있지만 여전히 공석인 육군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 휴이 롱을 접견하여 전쟁의 승리를 위해 육군 수장을 임명할 것을 요청했습니다."
+amcivwar.51.d:0 "내전이 계속 격렬해지고 있지만 여전히 공석인 육군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 휴이 롱 각하를 접견하여 전쟁의 승리를 위해 육군 수장을 임명할 것을 요청했습니다."
 amcivwar.51.a:0 "에드윈 A. 에머슨 주니어"
 amcivwar.51.b:0 "프랭크 맥스웰 앤드류"
 amcivwar.51.c:0 "조지 스미스 패튼 주니어"
 
 amcivwar.52.t:0 "해군 참모총장"
-amcivwar.52.d:0 "내전이 계속 격렬해지고 있지만 여전히 공석인 해군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 휴이 롱을 접견하여 전쟁의 승리를 위해 해군 수장을 임명할 것을 요청했습니다."
+amcivwar.52.d:0 "내전이 계속 격렬해지고 있지만 여전히 공석인 해군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 휴이 롱 각하를 접견하여 전쟁의 승리를 위해 해군 수장을 임명할 것을 요청했습니다."
 amcivwar.52.a:0 "아서 리 윌라드"
 amcivwar.52.c:0 "윌리엄 프레드릭 홀시 주니어"
 
 amcivwar.53.t:0 "공군 참모총장"
-amcivwar.53.d:0 "내전이 계속 격렬해지고 있지만 여전히 공석인 공군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 휴이 롱을 접견하여 전쟁의 승리를 위해 공군 수장을 임명할 것을 요청했습니다."
+amcivwar.53.d:0 "내전이 계속 격렬해지고 있지만 여전히 공석인 공군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 휴이 롱 각하를 접견하여 전쟁의 승리를 위해 공군 수장을 임명할 것을 요청했습니다."
 amcivwar.53.a:0 "찰스 아우구스투스 린드버그"
 amcivwar.53.b:0 "커티스 르메이"
 amcivwar.53.c:0 "존 게르하르트 크롬멜린 주니어"
@@ -617,7 +617,7 @@ amcivwar.150.b:0 "제2 방위계획을 이행하라"
 
 amcivwar.151.t:0 "알래스카가 점령되었다"
 amcivwar.151.d:0 "Our troops have entered Alaska to keep it safe. While there are those disdainful of our presence there, we have ensured the Americans in Alaska that we are there for their safety and to protect them from godless syndicalism."
-amcivwar.151.a:0 "우리는 여기 서서 이곳을 지킬 것이다"
+amcivwar.151.a:0 "굳건히 이곳을 지키자"
 
 amcivwar.152.t:0 "캐나다의 알래스카 점령"
 amcivwar.152.d:0 "캐나다 정부는 안보 문제 때문에 알래스카를 점령했습니다. 병력들이 알래스카로 진군했고 알래스카 주지사는 그들을 환영했습니다. 진행중인 내전 때문에, 우리가 이것을 막기 위해 할 수 있는 것은 없지만, 우리는 이것을 잊지 않을 것입니다."
@@ -798,7 +798,7 @@ amcivwar.600.t:0 "[Root.GetAdjective]의 붕괴"
 amcivwar.600.d:0 "Our forces cannot hold out against the enemy any longer - already our troops are beginning to desert en masse, and the ripple of disorganization is working its way up the ranks. [Root.GetNameDefCap] is near the point of defeat, and we must admit that it is so."
 amcivwar.600.a:0 "여기서 끝나는구만..."
 
-amcivwar.607.t:0 "연방의 붕괴"
+amcivwar.607.t:0 "연방정부의 붕괴"
 amcivwar.607.d.lives:0 "It appears that the Federal government is on its last legs in the American Civil War. Already most of its land has been swallowed up by [annex_to.GetNameDef] and other American factions, and what is left is but the last remnants of its army - now demoralized and suffering from mass desertions, but holding out against all hope that a miracle might save them. Some Federal leaders have already met with [annex_to.GetAdjective] generals to negotiate the terms of their inevitable complete surrender."
 amcivwar.607.d.falls:0 "News travelled quickly today that the Federal government has collapsed in the American Civil War. What land was formerly under its control has been swallowed up by the other American factions, and the last remaining Federal leaders were reported to have met with generals from [annex_to.GetNameDef] in order to negotiate the terms of their complete surrender. The whereabouts of [USA.GetLeader] is unknown, but he is also believed to have already been placed under arrest. The future of the United States, it appears, rests in the hands of the factions which tore it down."
 amcivwar.607.a:0 "혁명을 위한 중대한 발걸음이군"
@@ -811,7 +811,7 @@ amcivwar.608.d.lives:0 "It appears that the Syndicate government is on its last 
 amcivwar.608.d.falls:0 "News travelled quickly today that the [CSA.GetNameDef] government has collapsed in the American Civil War. What land was formerly under its control has been swallowed up by the other American factions, and the last remaining Syndicate leaders were reported to have met with generals from [annex_to.GetNameDef] in order to negotiate the terms of their complete surrender. The whereabouts of [CSA.GetLeader] is unknown, but he is believed to have already been placed under arrest. The threat that the United States will fall to syndicalism has, it appears, come to an end."
 amcivwar.608.a:0 "X같은 시대로군"
 amcivwar.608.b:0 "적어도 좋은 소식이군"
-amcivwar.608.c:0 "혁명은 지랄, 지옥에나 가라"
+amcivwar.608.c:0 "혁명은 개뿔, 지옥에나 가라"
 amcivwar.608.e:0 "흥미롭군"
 
 amcivwar.609.t:0 "미주 연합의 붕괴"
@@ -825,12 +825,12 @@ amcivwar.609.e:0 "흥미롭군"
 amcivwar.610.t:0 "태평양 합중국의 붕괴"
 amcivwar.610.d.lives:0 "It appears that the Pacific States government is on its last legs in the American Civil War. Already most of its land has been swallowed up by [annex_to.GetNameDef] and other American factions, and what is left is but the last remnants of its army - now demoralized and suffering from mass desertions, but holding out against all hope that a miracle might save them. Some leaders have already met with [annex_to.GetAdjective] generals to negotiate the terms of their inevitable complete surrender."
 amcivwar.610.d.falls:0 "News travelled quickly today that the Pacific States government has collapsed in the American Civil War. What land was formerly under its control has been swallowed up by the other American factions, and the last remaining loyalist leaders were reported to have met with generals from [annex_to.GetNameDef] in order to negotiate the terms of their complete surrender. The whereabouts of [CAL.GetLeader] is unknown, but he is also believed to have already been placed under arrest. The future of the United States, it appears, rests in the hands of the factions which tore it down."
-amcivwar.610.a:0 "As it should be"
-amcivwar.610.b:0 "Well that's good news, at least"
+amcivwar.610.a:0 "당연히 그래야지"
+amcivwar.610.b:0 "적어도 좋은 소식이군"
 amcivwar.610.c:0 "뿌린만큼 거두는군"
 amcivwar.610.e:0 "흥미롭군"
 
-amcivwar.611.t:0 "[From.Adjective]의 장비가 도착하다"
+amcivwar.611.t:0 "[From.GetNameDef]의 장비가 도착하다"
 amcivwar.611.d:0 "[From.GetNameDef]은(는) 우리의 투쟁을 돕기 위해 보병 장비를 배편으로 수송해 주었습니다."
 amcivwar.611.a:0 "가장 필요한 것이군!"
 
