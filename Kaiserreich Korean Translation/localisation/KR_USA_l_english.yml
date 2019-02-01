@@ -39,8 +39,8 @@ USA_social_con_party_long:0 "헌정당"
 USA_paternal_autocrat_military_junta_long:0 "군사정부"
 USA_paternal_autocrat_military_junta:0 "군사정부"
 
-libdem_name_libdem:0 "자유 민주당"
-libdem_name_condem:0 "보수 민주당"
+libdem_name_libdem:0 "자유민주당"
+libdem_name_condem:0 "보수민주당"
 libdem_name_dem:0 "민주당"
 
 ### Cosmetic Tags ###
@@ -132,7 +132,7 @@ macarthur_keeps_power_flag:0 "맥아더가 긴급통수권을 계속 쥐고있�
 macarthur_gives_up_power:0 "맥아더가 권력을 포기함"
 USA_democracy_triumphs_flag:0 "민주주의가 승리함"
 league_of_american_states:0 "아메리카 국가 연맹"
-american_russian_alliance:0 "러시아-미국 연합"
+american_russian_alliance:0 "미국-러시아 동맹"
 
 
 
@@ -202,7 +202,7 @@ USA_civil_reconstruction_idea:0 "국가 재건"
 USA_home_of_the_brave_idea:0 "용사들의 고향"
 USA_american_values_ideas:0 "미국의 가치"
 USA_cointelpro_idea:0 "코인텔프로"
-USA_black_chamber_idea:0 "블랙 챔버"
+USA_black_chamber_idea:0 "블랙챔버"
 USA_socialist_resistance1:0 "대대적인 사회주의자들의 저항"
 USA_socialist_resistance1_desc:0 "While we may have won the war against the Combined Syndicates, we have not won the minds of its inhabitants. Syndicalist terrorists attack railroads and factories, and indiscriminantly kill our loyal soldiers and policemen."
 USA_socialist_resistance2:0 "강한 사회주의자들의 저항"
@@ -230,7 +230,7 @@ USA_federalist_resistance4_desc:0 "Only a few die-hard radical Federalist terror
 USA_economic_recovery_idea:0 "내전 피해 복구"
 
 USA_recovering_economy_idea:0 "경제 복구"
-USA_federal_project_one_idea:0 "첫 번째 연방 프로젝트"
+USA_federal_project_one_idea:0 "첫번째 연방프로젝트"
 USA_national_recovery_act_idea:0 "국가재건법"
 USA_workers_management_act_idea:0 "노동관계법"
 USA_social_security_idea:0 "사회복지"
@@ -472,7 +472,7 @@ USA_reconstruction_finished:0 "재건 완료"
 USA_reconstruction_finished_desc:0 "The years of poor economic management and civil strife have not left our minds, but their most damning effects are diminished."
 ### Post Civil War - Macarthur ###
 USA_american_caeser:0 "미국의 카이사르"
-USA_american_caeser_desc:0 "맥아더 대통령은 내전을 야기한 매우 당파적인 자들의 승리를 인정하지 않겠다고 선언했습니다. 맥아더가 공언한 것처럼 미국 군사정권은 국가적 차원의 민주주의 기능 복원과 적용을 약속합니다. 불필요한 정치인들을 제거하고 더 유능한 관료들을 임명하는 것은 국민과 정치인 사이의 격차를 줄일 것입니다."
+USA_american_caeser_desc:0 "맥아더 대통령은 내전을 야기한 극렬 당파들의 승리를 인정하지 않겠다고 선언했습니다. 맥아더가 공언한 것처럼 미국 군사정권은 국가적 차원의 민주주의 기능 복원과 적용을 약속합니다. 불필요한 정치인들을 제거하고 더 유능한 관료들을 임명하는 것은 국민과 정치인 사이의 격차를 줄일 것입니다."
 USA_army_education:0 "교련"
 USA_army_education_desc:0 "학부모 단체들은 기꺼이 자신들의 어린 자식들을 군에 입대시키겠다고 발벗고 나섰습니다. 우리의 해결책은 장래의 젊은이들을 공립학교에 머무르게 하면서 교련을 시키는 것입니다. 벨라미가 가르친 체육과 도덕적 사상에 대한 생각은 1910년대에 우리가 실패했던 오래된 국가주의에 대한 열망을 되살릴 것입니다."
 USA_nationalize_boy_scouts:0 "국가청년국"
@@ -508,12 +508,12 @@ USA_american_stratocracy_desc:0 "맥아더는 마침내 그가 공언한 대로 
 ### Civil War Avoided - Fair Deal ###
 USA_fair_deal:0 "페어딜 정책"
 USA_fair_deal_desc:0 "페어딜 정책은 의회가 1934년 통과시킨 이후 오랫동안 열띤 논쟁을 벌여온 일련의 경제개혁책입니다. 이제 36년도의 위기가 해결되었으니, 이제는 의회가 경기 침체을 개선하기 위한 효율적인 행동을 취할 때입니다. 그렇게 하지 않는다면 더 많은 사람들이 자유방임주의라는 명목 하에 희생될 것입니다."
-USA_brain_trust:0 "전문 고문단"
+USA_brain_trust:0 "전문가 집단"
 USA_brain_trust_desc:0 "The presidential cabinet is not enough to guide the Fair Deal, as newer economic and industrial techniques have yet to reach the ivory towers of government. The President has appointed a 'Brain Trust' of law professors and deficit-spending economists. all purposefully apolitical."
 USA_federal_project_one:0 "첫 번째 연방프로젝트"
 USA_federal_project_one_desc:0 "공공사업국이 완전히 조직되기 전에, 공화국이라는 미국의 이상을 되살리기 위해 대통령은 일련의 문화사업을 계획합니다."
 USA_national_recovery_act:0 "국가재건법"
-USA_national_recovery_act_desc:0 "The NRA emphasizes the use of public domain and work-living units instead of 'cut-throat competition' of regular contract work. Workers in the NRA will receive the benefit of a minimum wage and price-controlled work environments in constant to the old Company Store model."
+USA_national_recovery_act_desc:0 "국가재건법은 일반적으로 자행되었던 '출혈 경쟁' 대신에 공공 영역 단위와 직장 생활 단위를 강조합니다. 국가재건법 하의 근로자들은 '사내 매점 모델'에 따라 최저 임금과 물가 통제 작업 환경의 혜택을 받게 됩니다."
 USA_expand_era:0 "긴급구호법"
 USA_expand_era_desc:0 "If the government is to reverse unemployment, we must start with local and state governments. We can create and fund local agencies to give unskilled laborers temporary jobs in infrastructure and other necessary fields."
 USA_civil_works_adminstration:0 "공공사업국"
@@ -529,20 +529,20 @@ USA_social_security_desc:0 "One of the most controversial acts passed by Congres
 USA_farmer_relief:0 "농민 구제"
 USA_farmer_relief_desc:0 "Sharecroppers and tenant farmers make up a significant portion of our constituency, especially in the core power of the Midwest. We must extend a credit program with very low-interest rates to farmers who apply to resettle land, especially land in the old South and Steel Belt."
 USA_rural_electrification:0 "농촌전력화"
-USA_rural_electrification_desc:0 "미국 전역의 전력망은 내전을 거치며 1910년대 수준으로 후퇴했습니다. 이것은 미국적이지 않으며 우리는 유권자들이 우리나라의 영광을 제대로 알 수 있도록 만들 필요가 있습니다."
+USA_rural_electrification_desc:0 "미국 전역의 전력망은 1910년대 수준으로 후퇴했습니다. 이것은 미국적이지 않으며 우리는 유권자들이 우리나라의 영광을 제대로 알 수 있도록 만들 필요가 있습니다."
 USA_agricultural_adjustment_act:0 "농업조정법"
-USA_agricultural_adjustment_act_desc:0 "Newspaper stories during the hysteria of 36 were filled with horror stories of farmers burning rotting crops due to being unable to sell excess while city ghettos starved. Our solution to this is the Agricultural Adjustment Act, to create a policy on crop conservation."
+USA_agricultural_adjustment_act_desc:0 "36년의 발작기 동안의 신문 기사는 도시 빈민들이 굶주릴 동안 잉여물을 팔 수 없었기 때문에 썩어가는 농작물을 태우는 농부들의 공포스런 이야기들로 가득 차 있었습니다. 이에 대한 우리의 해결책은 수확물 보존 정책을 만드는 농업조정법입니다."
 USA_public_works:0 "공공사업계획"
 USA_public_works_desc:0 "The ability to generate electricity, transport water, and ensure safe and efficient travel has always been an issue in remote parts of the country, but the Public Works Administration will fix all that. It is a fund that will ensure contractors pay their employees fairly."
 USA_create_the_fcc:0 "FCC 창설"
 USA_create_the_fcc_desc:0 "After being repealed by the Senate several times, a final FCC bill has passed. The regulation of the airwaves has the dual purpose of preventing rebel radio stations from pumping out propaganda, and financing the extension of radio towers into the areas the market considers unprofitable."
 USA_maritime_commision:0 "해양위원회"
 USA_maritime_commision_desc:0 "새로운 해양위원회의 창설은 우리가 무역-수송선을 신속하게 생산할 수 있게 해줄 것입니다. 이는 우리의 무역과 군 수송에 분명히 이점이 될 것입니다."
-USA_revitalized_economy:0 "소생된 경제"
+USA_revitalized_economy:0 "되살아난 경제"
 USA_revitalized_economy_desc:0 "As the GDP and the American standard of living rises, we come to understand the true goals of Hoover. His efforts along with so many others to create a Fair Deal was a paradigm shift in how our economy interacts within a capitalist system."
 ### Civil War Avoided - Politics ###
 USA_politics:0 "민주주의의 승리."
-USA_politics_desc:0 "In our darkest hour, and when all seemed lost, the bright torch of liberty did not extinguish. The great challenge we face now is handling the newly expanded party platform, and countering the retreating radicals with fair judgment and democratically elected leadership."
+USA_politics_desc:0 "모든 희망이 사라진 것처럼 보였던, 우리에게 있어서 가장 암울했던 시간동안에도 자유의 횃불은 꺼지지 않았습니다. 우리가 지금 직면한 가장 큰 도전은 새롭게 확대된 다당제의 기반을 다지고, 공정한 판단에 기초하여 민주적으로 선출된 당 지도부로 하여금 쇠퇴하는 급진주의자들에 당당히 맞서게 하는 것입니다."
 USA_charity_for_all:0 "우리 모두 미국인이다"
 USA_charity_for_all_desc:0 "No matter whether you are white, black, or brown; red banner or black banner in your hearts. We are all Americans. Congress has generously decided to honour the brave Americans that stood firm against the rebels, even within their own parties with a new civilian medal."
 USA_restore_confidence:0 "신뢰 회복"
@@ -553,11 +553,11 @@ USA_american_creed:0 "미국의 신조"
 USA_american_creed_desc:0 "There is an up-and-coming interpretation of American Values popular with social democrats and social liberals making waves in Congress. It is the American Creed, and Congressmen have begun to mention it in relation to desegregation bills and social security positions. This will drain the SPA of supporters."
 USA_contain_extremism:0 "극단주의자 탄압"
 USA_contain_extremism_desc:0 "While extending a hand to those that could have broken this nation is popular. The Federal Government is still responsible to uphold the law, and is still bringing charges against the horrible lynches, robberies, and mob rule that the AFP and SPA had promoted."
-USA_union_ties:0 "Union Ties"
+USA_union_ties:0 "노사관계 재설정"
 USA_union_ties_desc:0 "After the bill for the NLRB was defeated in Congress, a more ad-hoc solution was passed via executive order. This order re-engages antitrust laws and forbids federal agents from taking actions in favour or against strikes without the National Guard and IWW being present. No more strikebreaker gangs or wildcat strikes."
 USA_20th_amedment:0 "수정헌법 20조"
 USA_20th_amedment_desc:0 "With the electoral college called into question due to the crisis in the recent years, maybe the time has come to revise the system and come up with a better, more democratic solution for our representative republic..."
-USA_compact_with_the_people:0 "Compact With the People"
+USA_compact_with_the_people:0 "국민과의 계약"
 USA_compact_with_the_people_desc:0 "The US Constitution is a compact with the people of the US. It is really the only oath necessary for former members of the AFP and SPA to take in order for them to be enfranchised once again in government. We will not require loyalty oaths to partisan groups, as that is undemocratic."
 USA_popular_democracy:0 "대중민주주의"
 USA_popular_democracy_desc:0 "Due to influence from the Progressives, instances of referendums have sharply increased following this election cycle. This along with a wholly powerful push to reform the electoral college is a sign of popular democracy, something Reed and Long claimed the US Government would never approach."
@@ -571,7 +571,7 @@ USA_strengthen_congress:0 "국회 강화"
 USA_strengthen_congress_desc:0 "A strong executive is an anathema to everything America stands for historically. We need to ensure Congress is independent, empowered, and able to check the President should he overstep."
 USA_second_bill_of_rights:0 "두 번째 권리장전"
 USA_second_bill_of_rights_desc:0 "The civil unrest over the past decade has convinced many a new Bill of Rights is needed, enshrining the rights to vote, assemble, and protest freely, no matter people's skin tone or religion."
-USA_public_spending_increase:0 "공공 지출 증대"
+USA_public_spending_increase:0 "공공지출 증대"
 USA_public_spending_increase_desc:0 "Public spending needs to be increased to help heal the wounds of the strife that divided our country. Schools, roads, and public services all need to be funded and expanded, in order to restore public trust in government."
 USA_bastion_of_liberty:0 "자유의 보루"
 USA_bastion_of_liberty_desc:0 "The United States has returned to its leading position on the world stage, ready to spread democracy and freedom. Like our ancestors, we will strive to be a City on a Hill."
@@ -584,7 +584,7 @@ USA_defend_america:0 "미국 방어"
 USA_defend_america_desc:0 "우리 합중국의 맹장들을 위한 군사 시설을 갖추는 것은 반란군과의 전면전을 감당하기에 충분하지 않을 것입니다. 전시 계획은 장-단기 전쟁이 일어날 경우 신속하게 계획되고 실행되어야 합니다."
 USA_defense_contractors:0 "방산산업"
 USA_defense_contractors_desc:0 "The small arms industry is in dire need of reform. In spite of the national emergency, independent contractors continue to waste money researching civilian firearms. A restriction on big game hunting later, and some manufacturers are beginning to focus on military arms."
-USA_military_industrial_complex:0 "군수산업단지"
+USA_military_industrial_complex:0 "군산복합체"
 USA_military_industrial_complex_desc:0 "The main trouble with creating a military industry is that facilities under our control were already reduced from the Great Depression to reduce redundancies. We have had to expand facilities and repurpose old buildings in order to manufacture parts needed for heavy weapons in our territory."
 USA_new_army_doctrines:0 "새로운 군사교리"
 USA_new_army_doctrines_desc:0 "A meeting of our ramshackle Chief of Staff and Generals have decided upon a course of wartime research. Although it will be expensive to devise and test new battle plans while we are already at war, the greatest struggle demands the strongest wills."
@@ -753,7 +753,7 @@ USA_the_american_century_desc:0 "The great ideological struggle for world peace 
 ### Events - Pre Election ###
 
 ustates.1.t:0 "1936년 미합중국"
-ustates.1.d:0 "1936년의 미국은 끊임없는 위기에 사로잡혀 있습니다. 1차대전의 공포를 피해 1920년대까지 번영을 이어갈 수 있었지만, 독일의 1차대전 승리와 이에 뒤따른 프랑스와 영국에서의 혁명은 1925년 월가 주식시장의 붕괴를 초래했습니다. 이것은 미국을 대공황으로 몰아 넣었고 베를린 증권 시장이 세계 경제의 최전선으로 자리매김하게 만들었습니다.\n\n1928년 당선된 허버트 후버는 당초에 했던 공약과는 달리 미국 경제의 하향세을 완전히 뒤집는데 실패했고, 최악의 경제 위기 사태는 1936년까지 무려 10년 이상이나 지속되었습니다. 이런 일련의 사태들은 미국의 극좌 사회주의 정당과 극우파인 미국 제일당이라는 양대 급진 정당이 부상하는 계기가 되었습니다. 1932년 하원에 의한 후버 대통령의 재선 논란과 계속되는 대공황은 이러한 문제들이 조만간 해결될 것 같지 않음을 보여줍니다. 전국민들은 극단적인 정당들 중 하나가 집권하거나 대공황이 계속 진정되지 않으면 초래될 수 있는 사변적 상황을 두려워합니다."
+ustates.1.d:0 "1936년의 미국은 끊임없는 위기에 사로잡혀 있습니다. 1차대전의 공포를 피해 1920년대까지 번영을 이어갈 수 있었지만, 독일의 1차대전 승리와 이에 뒤따른 프랑스와 영국에서의 혁명은 1925년 월가 주식시장의 붕괴를 초래했습니다. 이것은 미국을 대공황으로 몰아 넣었고 베를린 증권 시장이 세계 경제의 최전선으로 자리매김하게 만들었습니다.\n\n1928년 당선된 허버트 후버는 당초에 했던 공약과는 달리 미국 경제의 하향세을 완전히 뒤집는데 실패했고, 최악의 경제 위기 사태는 1936년까지 무려 10년 이상이나 지속되었습니다. 이런 일련의 사태들은 미국에서 극좌 사회당과 극우 제일당이라는 양대 급진정당이 부상하는 계기가 되었습니다. 1932년 하원에 의한 후버 대통령의 재선 논란과 계속되는 대공황은 이러한 문제들이 조만간 해결될 것 같지 않음을 보여줍니다. 전국민들은 극단적인 정당들 중 하나가 집권하거나 대공황이 계속 진정되지 않으면 초래될 수 있는 사변적 상황을 두려워합니다."
 ustates.1.a:0 "신이시여 미국을 구하소서"
 
 ustates.2.t:0 "검은 월요일이 미국을 강타하다"
@@ -807,7 +807,7 @@ ustates.12.t:0 "진보당원들이 사회당으로 몰려들다"
 ustates.12.d:0 "진보당 상원 의원 플로이드 올슨의 보루였던 미네소타가 마침내 뒤집혔습니다. 많은 사람들이 세계 산업 노동자 조합과 사회당 쪽으로 방향을 틀면서 올슨 상원의원을 외면하고 있습니다. 다양한 조합들이 사회당을 위해 시위를 벌였고 참가자들의 수는 우리가 대항할 수 있는 능력을 훨씬 능가했습니다."
 ustates.12.a:0 "내부에서 뭔일이라도 생긴건가?"
 
-ustates.13.t:0 "남부 민주당원 유권자들이 제일당에 몰리다"
+ustates.13.t:0 "남부 민주당원들이 제일당에 몰리다"
 ustates.13.d:0 "남부는 오래 전부터 민주당의 중심지로 여겨져 왔지만, 여론조사에서 제일당에 대한 유권자 등록이 크게 증가하고 있는 것을 볼 때 이는 그리 오래가지 못할 수도 있습니다. 라디오 방송에서 휴이 롱은 '우리의 부를 공유하자'와 미국을 위한 계획에 대해 상세히 말했습니다. 제일당이 날이 갈수록 더 강해지고 있는 것 같습니다."
 ustates.13.a:0 "사기꾼들이군"
 
@@ -834,7 +834,7 @@ ustates.18.b:0 "저놈이 말하는 것은 싫지만 최소한 말할 권리는 
 
 ustates.19.t:0 "휴이 롱의 연설"
 ustates.19.d:0 "민주당과 공화당은 우리나라를 돌아다니는 늙은 약팔이와 같습니다. 그는 약 두 병을 가지고 있습니다. 그는 악기를 연주하고 약 두 병을 팔곤 했습니다.\n\n그 약병들 중 하나는 하이 포팔로늄이라고 불렸고 다른 하나는 로우 포팔로늄이라고 불렸습니다.\n\n마침내 누군가가 이 약병들에 어떤 차이점이 있냐고 물어봤습니다? '오, 상당한 차이가 있네.' 그가 말했습니다. '둘 다 좋은 약이지만 차이점이 존재하네.'라고 그가 말했습니다.\n\n'저 하이 포팔로늄은 우리가 위에서 아래로 던진 나무껍질로 만들었다네. 그리고 로우 포팔로늄은 우리가 뿌리째 뽑은 나무껍질로 만들었다네.'\n\n그리고 제가 국회에 입성했을 때 발견한 민주당 지도부와 공화당 지도부 둘 사이의 유일한 차이점은 하나는 당신의 살가죽을 발목에서부터 벗기고 있고 다른 하나는 당신의 살가죽을 머리부터 벗기고 있다는 것이었습니다."
-ustates.19.a:0 "Homely sayings do not win elections"
+ustates.19.a:0 "말빨로는 선거에서 못이길걸..."
 
 ustates.20.t:0 "'빅' 빌 헤이우드의 사망"
 ustates.20.d:0 "오늘날 세계 산업 노동자들의 거물 중 한 명인 윌리엄 '빅 빌' 헤이우드가 세상을 떠났습니다. 그의 죽음은 횃불의 주자가 넘겨졌음을 의미합니다. 엘리자베스 걸리 플린은 장례식에서 '역사는 장기적인 관점을 가지고 있습니다. 그것은 결국 독재자에 대한 엄격한 판결을 통과시키고, 정치적 억압과 경제적 노예화에 맞서 싸웠고, 인간의 자유를 위해 고통을 겪다가 투옥되어 죽은 사람들을 정당화합니다.'라고 연설했습니다.\n\n플린과 그녀의 경쟁자를 포함한 다양한 노조 조직 내의 다른 지도자들도 그의 장례식에서 연설했고 미국 사회당 내의 지도층 또한 연설했습니다. 잭 리드는 장례식에서 이렇게 연설했습니다. '만약 노동자들이 조직적이라면, 그들이 해야 할 일은 손을 주머니에 넣고 자본주의 계층을 채찍질하는 것입니다. 파업은 초기 혁명입니다. 그동안의 굵직한 혁명들은 작은 파업에서 시작했습니다. 자기 자신보다 더 많은 것을 위해 투쟁할 수 있다는 것을 기억합시다. 여러분은 노동자 계층 전체를 위해 싸우고 있고 함께 서 있어야 합니다.'"
@@ -845,13 +845,13 @@ ustates.21.d:0 "한동안 폭력의 대상은 주로 급진주의 정당들의 �
 ustates.21.a:0 "폭력이다 폭력"
 
 ustates.22.t:0 "노동절 폭동"
-ustates.22.d:0 "국제노동절인 5월 1일은 사회당이 창당 이래 수많은 퍼레이드와 연설로 축하해왔던 공휴일입니다. 일반적으로 사회당과 경찰간의 대립이 발생했었지만 상황은 대체로 평화롭게 흘러갔습니다. 하지만 이번 노동절은 예전보다 더 폭력적이었습니다. 제일당의 지원을 받는 지역 경찰들과 사회주의자들 사이의 충돌이 전국적으로 발생했습니다. 문제는 누가 잘못했는지입니다. 사회당은 제일당 깡패들과 경찰들이 현장에 도착하기 전까지는 모든 것이 평화적이었다고 주장하고 있으며, 제일당은 공격적인 노조화된 노동자들이 소요사태를 일으켰으며 일부 사회당원이 총을 쏴대던 사진을 가지고 있다고 주장하였습니다."
+ustates.22.d:0 "국제노동절인 5월 1일은 사회당이 창당 이래 수많은 퍼레이드와 연설로 축하해왔던 공휴일입니다. 일반적으로 사회당과 경찰간의 대립이 발생했었지만 상황은 대체로 평화롭게 흘러갔습니다. 하지만 이번 노동절은 예전보다 더 폭력적이었습니다. 제일당의 지원을 받는 지역 경찰들과 사회주의자들 사이의 충돌이 전국적으로 발생했습니다. 문제는 누가 잘못했는지입니다. 사회당은 제일당 깡패들과 경찰들이 현장에 도착하기 전까지는 모든 것이 평화적이었다고 주장하고 있으며, 제일당은 공격적인 노조소속 노동자들이 소요사태를 일으켰으며 일부 사회당원이 총을 쏴대던 사진을 가지고 있다고 주장하였습니다."
 ustates.22.a:0 "사회당이 문제였다."
 ustates.22.b:0 "경찰이 문제였다."
 
 ustates.23.t:0 "성 패트릭의 날 홍수"
 ustates.23.d:0 "1936년 3월 16일, 평상시보다 기온이 높게 되면서 앨러게니 강과 머논가힐라 강의 많은 양의 눈과 얼음이 녹게 됩니다. 강과 그 지류들의 둑은 범람했고 곧 피츠버그시를 위협하게 됩니다. 1936년 3월 17일, 범람한 물은 25피트의 홍수 수위에 도달했습니다. 그리고 나서, 하룻밤 사이에 내린 폭우로 인해 강수량이 더 높이 올라갔으며, 3월 18일에 물은 홍수 수위에서 21피트 더 높은 약 46피트까지 치솟았습니다.\n\n이는 도시 역사상 최악의 재해이며, 지방정부는 이미 연방에 지원을 요청했습니다."
-ustates.23.a:0 "우리는 사람들을 도와야 한다."
+ustates.23.a:0 "사람들을 도와야 한다."
 ustates.23.b:0 "그들 스스로 해결해야 한다."
 
 ustates.24.t:0 "무더운 여름"
@@ -864,7 +864,7 @@ ustates.25.a:0 "존 제랄드 밀턴(민주당)"
 ustates.25.b:0 "찰스 린드버그(미국 제일당)"
 
 ustates.26.t:0 "워싱턴의 특별 선거"
-ustates.26.d:0 "Following the death of Senator Wesley Lloyd, a special election has been called in Washington to fill his seat. The front-runners are SPA activist John F. McKay and Democratic Congressman John Main Coffee. Polls have just closed, and the winner appears to be..."
+ustates.26.d:0 "웨슬리 로이드 상원의원의 사망 이후, 그의 공석을 채우기 위해 워싱턴에서 특별 선거가 열리게 되었습니다. 가장 유력한 후보는 사회당 활동가인 존 F 맥케이와 민주당 소속 하원의원인 존 메인 커피입니다. 투표는 이제 막 끝났고 승자는..."
 ustates.26.a:0 "존 F 맥케이(사회당)"
 ustates.26.b:0 "존 메인 커피(민주당)"
 
@@ -873,7 +873,7 @@ ustates.27.d:0 "미국이 점점 더 혼란의 도가니에 빠져들면서 전�
 ustates.27.a:0 "멈춰라 이 범죄자 새끼들아!"
 
 ustates.28.t:0 "유사군대 수준의 민병대 형성"
-ustates.28.d:0 "전국을 휩쓸고 있는 폭력과 불안감으로 제일당과 사회당은 다양한 유사군대 수준의 민병대를 형성하기 시작했는데, 이들은 민병대들이 사람들을 보호하기 위해 필요하다고 주장합니다. 제일당은 '미니트맨'이라 불리는 단체, 사회당은 '붉은 경비대'라고 불리는 단체를 가지고 있습니다. 양측의 충돌에도 불구하고 이 유사군대들은 전국 각지로 흩어져 양 당의 거점들과 연설회장을 순찰하고 있습니다. 우리는 민병대들이 민간 총기를 개조하고 있다고 믿고 있으며, 이들의 무기 비축물을 압수해서 활동을 멈추려는 FBI의 시도는 더디기만 합니다. 상황은 더욱 나빠질 수 있습니다."
+ustates.28.d:0 "전국을 휩쓸고 있는 폭력과 불안감으로 제일당과 사회당은 다양한 유사군대 수준의 민병대를 형성하기 시작했는데, 이들은 민병대들이 사람들을 보호하기 위해 필요하다고 주장합니다. 제일당은 '미닛맨'이라 불리는 단체, 사회당은 '적위대'라고 불리는 단체를 가지고 있습니다. 양측의 충돌에도 불구하고 이 유사군대들은 전국 각지로 흩어져 양 당의 거점들과 연설회장을 순찰하고 있습니다. 우리는 민병대들이 민수용 총기를 개조하고 있다고 믿고 있으며, 이들의 무기 비축물을 압수해서 활동을 멈추려는 FBI의 시도는 더디기만 합니다. 상황은 더욱 나빠질 수 있습니다."
 ustates.28.a:0 "이거 좋지않군"
 
 ustates.29.t:0 "More AFP members announcing Congressional bids"
@@ -885,7 +885,7 @@ ustates.30.d:0 "While there have been a number of lawmakers from the Socialist P
 ustates.30.a:0 "흥미롭군"
 
 ustates.31.t:0 "바람과 함께 사라지다"
-ustates.31.d:0 "마가렛 미첼은 오늘 그녀의 소설 '바람과 함께 사라지다'를 출간했는데, 이 책은 즉시 베스트셀러가 되었고, 아마도 다음 퓰리처 상 후보에 오를 수도 있을 것입니다. 할리우드도 이 책을 주목하고 있으며 내년에 개봉할 예정으로 영화로의 각색도 계획하고 있습니다. 미국 남북전쟁 당시 남부를 배경으로 한 이 소설을 미국의 긴장된 정치 상황을 비유하는 것으로 많은 사람들은 보고 있으며, 많은 남부의 미국 제일당원들은 이 소설이 자신들의 대의를 지지한다고 주장합니다."
+ustates.31.d:0 "마가렛 미첼은 오늘 그녀의 소설 '바람과 함께 사라지다'를 출간했는데, 이 책은 즉시 베스트셀러가 되었고, 아마도 다음 퓰리처 상 후보에 오를 수도 있을 것입니다. 할리우드도 이 책을 주목하고 있으며 내년에 개봉할 예정으로 영화로의 각색도 계획하고 있습니다. 미국 남북전쟁 당시 남부를 배경으로 한 이 소설을 미국의 긴장된 정치 상황을 비유하는 것으로 많은 사람들은 보고 있으며, 대다수의 남부의 미국 제일당원들은 이 소설이 자신들의 대의를 지지한다고 주장합니다."
 ustates.31.a:0 "'그대여 내 알 바 아니오'"
 
 ustates.32.t:0 "36년도의 대폭염"
@@ -917,7 +917,7 @@ ustates.36.a:0 "젠장할 리드!"
 
 ustates.37.t:0 "제일당이 선거결과에 항의하다!"
 ustates.37.d:0 "미국 제일당 지도부는 선거 결과에 대해 이의를 제기했습니다. 그들은 리드의 추종자들이 선거를 조작했으며 이에 따른 재검표를 요구했습니다. 심지어 휴이 롱은 그의 추종자들에게 대통령직을 수락한다는 조롱조의 연설을 했습니다."
-ustates.37.a:0 "What a card"
+ustates.37.a:0 "이런 미..."
 
 ustates.38.t:0 "후버가 대통령을 비난하다"
 ustates.38.d.reed:0 "허버트 후버는 선거 후에 목소리를 높였고 리드와 사회당이 나라를 이끌기에 부적합하다고 공개적으로 비판했습니다. 후버는 공화당원과 민주당원들이 리드와 사회당을 억제하기 위한 동맹을 결성하도록 격려했습니다."
@@ -930,7 +930,7 @@ ustates.39.a:0 "그의 도움이 고맙군그래."
 
 ustates.40.t:0 "신년 파업"
 ustates.40.d:0 "선거 결과에 항의하여 사회당은 신년 파업을 시작해 북부의 산업을 마비시켰습니다. 노동조합회의는 파업 중에 스틸 벨트에 있는 도시들을 운영하기 위해 설치되었습니다. 뉴스 미디어는 이것이 브리튼 혁명을 촉발시킨 총파업과 유사하다고 불안하게 말했습니다."
-ustates.40.a:0 "문제가 될 것이다"
+ustates.40.a:0 "문제로구나"
 
 ### Reed as President ###
 ustates.41.t:0 "리드의 취임식"
@@ -967,7 +967,7 @@ ustates.48.a:0 "어떤 대가를 치르더라도, 노동자들을 보호해야�
 
 ustates.49.t:0 "혼돈과 폭력사태가 번지다"
 ustates.49.d:0 "리드의 법원 재구성 직후, 롱은 리드를 격렬히 비난하며 무장 봉기를 호소했습니다. 모든 카운티와 주, 특히 남부에서 리드의 행정명령을 법으로 받아들이기를 거부했으며 사회당과 제일당 준군사단체 간의 대규모 유혈 충돌이 보고되었습니다. 질서가 회복되지 않으면, 이 나라는 내전에 휩싸일 것입니다."
-ustates.49.a:0 "The police should be helping the Red Guard!"
+ustates.49.a:0 "경찰은 적위대를 도와야한다!"
 
 ustates.50.t:0 "미닛맨과 경찰간의 충돌"
 ustates.50.d:0 "리드에 대한 롱의 저항 요청는 일부 민병대에 의해 정부 기관에 대한 저항 요청으로 해석되었습니다. 롱의 민병대와의 경찰간의 충돌이 전국적으로 일상이 되었습니다. 사회당 지지세가 강한 도시에서는, 평시 국방 위원회의 구성원들이 경찰들과 함께 법과 질서를 회복하는 것을 도왔지만, 남쪽에서는 민병대가 사실상 완벽한 통제권을 가지고 있습니다." 
@@ -1007,7 +1007,7 @@ ustates.58.t:0 "국회를 내쫓다"
 ustates.58.d:0 "행정명령을 위헌이라고 선포한 대법원의 판결은 롱이 초법적 해결책을 취하도록 했습니다. 롱은 링컨의 남북 전쟁 중 법원 재구성을 전례로 인용하면서, 상원 다수당 대표에게 사법 지명자에 대한 의사진행 방해물을 제거해 줄 것을 요청했고 대법원의 규모를 15명으로 늘렸습니다. 이는 롱을 지지하는 6명의 대법관들을 사법부에 임명하여 행정명령이 곧 헌법이 되게끔 하려는 것임이 분명합니다. 이는 전국적으로, 심지어 지금까지 중립을 유지했거나 롱을 지지했던 의원들에게서도 격렬한 항의를 불러일으켰습니다."
 ustates.58.a:0 "다 국민의 이익을 위해서다"
 
-ustates.59.t:0 "행정명령 7050호 - 무정부주의계열 노조 불법화"
+ustates.59.t:0 "행정명령 7050호 - 무정부계열 노조 불법화"
 ustates.59.d:0 "Citing national concerns due to the anarchistic nature of the Combined Syndicates of America, Huey Long has passed an Executive Order that has declared them an illegal organization that seeks to overthrow the country and as such all force shall be used to oppose them. Long has drawn a direct comparason between the Red Guard and the terrorist attacks that occured on Preperation Day in 1916, and Wall Street in 1920. The Red Guard is now subject to Sedition Act of 1918, prosecuted as an anti-recruitment and vigilante group. This is also clearly aimed at the Socialist Party of America which supports them as a clear warning to stay in line."
 ustates.59.a:0 "훌륭해!"
 
@@ -1032,7 +1032,7 @@ ustates.63.a:0 "공화국, 맥아더 그리고 민주주의에 충성을 다하�
 
 ustates.64.t:0 "플로이드 B 올슨의 취임식"
 ustates.64.d:0 "선거 후, 올슨은 국가를 언급했습니다. 올슨은 이 어려운 시기에는 인내와 정중함이 필요하다고 하며 모든 미국인들은 국가가 직면한 어려움을 극복하기 위해 단합해야 한다고 말했습니다. 위암이 완쾌되었다는 소식을 듣고 다시 활기를 되찾은 올슨은 경제를 되살리고, 국가의 형재애를 복원하고, 어떤 필요에서건 정치적 폭력을 막겠다는 약속을 지키기 위해 사회주의자와 강경론자의 항의를 뚫고 백악관으로 대담하게 진출했습니다. 나머지 사람들이 이 말을 경청할 지의 여부는 또 다른 얘기입니다."
-ustates.64.a:0 "미국은 나뉘어지지 않는 단일 국가다!"
+ustates.64.a:0 "미국은 나뉘어지지 않으리!"
 
 ustates.65.t:0 "올슨이 리드의 파업에 대처하다"
 ustates.65.d:0 "Ending the strike that was launched by the CSA was one of the first priorities of the new President. Olson considers negotiation to be the best alternative but many believe a stronger approach is necessary. Olson's cabinet, however, sees any negotiations as political suicide, as the coalition was formed partially in order to bypass having to directly deal with the CSA."
@@ -1041,10 +1041,10 @@ ustates.65.b:0 "협상은 의미없다"
 
 ustates.66.t:0 "올슨과 리드가 시카고에서 대담하다"
 ustates.66.d:0 "올슨과 리드는 시카고에서 어느 정도의 타협을 위해 서로 대면했습니다. 협상장에 참석한 모든 이들은 노동연맹 민병대와 미 육군에 의해 강제로 무장을 해제당했습니다. 리드와 노동연맹은 미국 사회의 노사관계를 철저히 갈아엎기를 원하기에 협상은 결코 쉽지 않을 것입니다. 그러나 올슨은 끈기있게 협상에 임해 파업이 끝나기를 바랍니다."
-ustates.66.a:0 "아마도 여기에 모두의 희망이 있을 것이다"
+ustates.66.a:0 "희망이 있기를"
 
 ustates.67.t:0 "롱이 회담에 동석을 요구하다"
-ustates.67.d:0 "휴이 롱은 올슨이 미 국민들을 팔아먹지 않도록 감시하기 위해 리드와의 협상에 미국 제일당이 참여해야 한다고 요구했었습니다. 올슨은 처음에는 롱이 노동연맹에 파견된 대표단의 구성원이 아니었기 때문에 거절했지만, 롱의 참여를 거부한다면 올슨이 회담장으로 나서는 순간 그의 신변에 대한 위협이 있을지도 모릅니다. 휴이 롱이라는 존재는 협상에 부정적인 영향을 미칠 것이 자명하고, 심지어는 그에 의해 협상이 아예 무산되어버릴 가능성도 있습니다."
+ustates.67.d:0 "휴이 롱은 올슨이 국민들을 팔아먹지 않도록 감시하기 위해 리드와의 협상에 미국 제일당이 참여해야 한다고 요구했었습니다. 올슨은 처음에는 롱이 노동연맹에 파견된 대표단의 구성원이 아니었기 때문에 거절했지만, 롱의 참여를 거부한다면 올슨이 회담장으로 나서는 순간 그의 신변에 대한 위협이 있을지도 모릅니다. 휴이 롱이라는 존재는 협상에 부정적인 영향을 미칠 것이 자명하고, 심지어는 그에 의해 협상이 아예 무산되어버릴 가능성도 있습니다."
 ustates.67.a:0 "동석을 허락한다"
 ustates.67.b:0 "롱과는 볼일이 없다"
 
@@ -1060,7 +1060,7 @@ ustates.69.a:0 "망할 롱"
 ustates.70.t:0 "롱이 개혁안에 대해 항의하다"
 ustates.70.d:0 "롱은 개혁안이 미국의 근본에 대한 공격이라고 주장합니다. 제일당은 협상장에서 대통령을 끌어내라는 압력을 가하기 위해 남부에서 대규모 시위를 시작했습니다. 이에 올슨은 리드와의 협상이 끝날 때까지는 롱에게 대응하지 말라고 지시했습니다."
 ustates.70.a:0 "롱의 의견을 받아들인다"
-ustates.70.b:0 "Stay silent, the negotiation comes first"
+ustates.70.b:0 "협상이 끝날 때까지 대응하지 마라"
 
 ustates.71.t:0 "리드가 올슨을 기만자 역적이라 비난하다"
 ustates.71.d:0 "After giving into Long, to appease the America First, Olson has finally alienated Reed and the CSA. Reed no longer trusts the President and believes he is using his position as president to sick the America First on the CSA. Long continues to push back at the every measure Reed brings up, save for social security."
@@ -1094,11 +1094,11 @@ ustates.77.d:0 "Both men had contradictory views and this led to heated argument
 ustates.77.a:0 "롱을 협상장에서 제거하라"
 ustates.77.b:0 "두 사람과 타협을 시도해 보자"
 
-ustates.78.t:0 "롱이 회담장에서 강제적으로 쫓겨나다"
+ustates.78.t:0 "롱이 회담장에서 강제로 쫓겨나다"
 ustates.78.d:0 "After Long was removed from the original meeting, he had returned and forced his way into the meeting hall. He demanded to be re-involved with the negotiations and accused Olson of selling out America to the syndicates. Olson had no choice but to have Long dragged out of the meeting."
 ustates.78.a:0 "야만인 같은 새끼!"
 
-ustates.79.t:0 "미닛맨들이 시카고에서 아메리카노동연맹을 공격하다"
+ustates.79.t:0 "미닛맨들이 시카고에서 노동연맹을 공격하다"
 ustates.79.d:0 "After Long had been forcibly removed from the meeting, an America First group calling themselves the Minutemen attacked the CSA party involved in the negotiations. An impromptu battle erupted as armed Minutemen and Red Guard clashed. The President was forced to leave the meeting and with him went any hope for a peaceful conclusion."
 ustates.79.a:0 "롱이 평화를 망쳐버렸군!"
 
@@ -1107,13 +1107,13 @@ ustates.80.d:0 "회의에 참석한 두 남자 모두를 붙들려는 올슨의 
 ustates.80.a:0 "망할 놈들!"
 
 ustates.81.t:0 "맥아더가 롱 암살을 제안하다."
-ustates.81.d:0 "MacArthur privately met with the President today revealed a shocking illegal proposal, the assassination of Huey Long. Analysis of reports from spies from within the AFP indicated that the entire movement would tear itself apart without his charismatic leadership. MacArthur assures Olson that this assassination would never be traced back to them, and there would be no colladeral damage. While it might lead to extensive rioting, it was definitely preferable to an organized uprising, which appeared more and more likely as the days wore on. The President's closest friends however advise him against this, as it could set a deadly precedent for dealing with rivals in politics."
-ustates.81.a:0 "암살을 시행하라."
-ustates.81.b:0 "너무 위험한 발상이다."
+ustates.81.d:0 "맥아더는 오늘 비밀리에 대통령을 접견하여 충격적이게도 휴이 롱을 암살하자는 불법적인 제안을 내놓았습니다. 제일당 내부에 심어놓은 밀정들의 보고에 따르면 롱의 카리스마 넘치는 지도력이 없다면 당 전체가 분열될 것이라고 합니다. 맥아더는 올슨 대통령에게 이 암살의 배후가 누구인지는 밝혀지지 않을 것이며, 어떠한 부수적 피해는 없을 것이라고 확신합니다. 암살이 대규모 폭동으로 이어질 가능성도 있겠지만은, 날이 가면 갈수록 심해지는 조직적인 폭동보다는 나은 선택지로 여겨집니다. 그러나 대통령의 측근들은 휴이 롱의 암살이 정치적 경쟁자의 제거라는 치명적인 선례를 만들 수 있다면서 암살을 시행하지 말라고 충고합니다."
+ustates.81.a:0 "암살을 시행하라"
+ustates.81.b:0 "위험한 발상이다"
 
 ustates.82.t:0 "휴이 롱 암살기도!"
 ustates.82.d:0 "정오가 되기 직전 애틀랜타에서 휴이 롱은 루이지애나 주 청사 앞에서 연설을 하고 있었습니다. 그러나 갑자기 그의 연설은 무대 바깥쪽에서 들린 여러 발의 총성으로 인해 중단되었습니다."
-ustates.82.a:0 "What could possibly have happened?!"
+ustates.82.a:0 "과연 어떻게 될까요?!"
 USA_huey_long_dies:0 "휴이 롱이 죽었다!"
 USA_huey_long_lives:0 "휴이 롱이 기적적으로 살아남았다!"
 
@@ -1138,7 +1138,7 @@ ustates.87.b:0 "Radicals tend to evaporate with time"
 
 ustates.88.t:0 "러스트벨트 지역의 긴장"
 ustates.88.d:0 "As National Guardsmen arrived in the north to end the strike, tensions remain high. Many of the various mayors and even governors were not just supportive of the Strike but actively helping it. Consequently, they strongly opposed the use of the National Guard. The strikers began to taunt the guards and have even assaulted scab workers brough in to the factories. It is clear a single spark can set off the north. Yet President Garner remained undeterred by this and declared on the radio that the strike must end for the good of the nation, with the unsaid implication that force is going to be used if it doesn't."
-ustates.88.a:0 "내가 보장하건대 파업은 끝날 것이다"
+ustates.88.a:0 "단언컨대 파업은 끝날 것이다"
 
 ustates.89.t:0 "남부 파업"
 ustates.89.d:0 "The General Strike launched by the CSA has reached even the south with textile workers joining in the strike and launched their own strikes. These strikers are cut off from the main body of the CSA, but still pose a threat to the already-struggling industry in the south. With the chaos in the Steel Belt, President Garner had to make a choice. Should he divert force to stopping the strike in Tennessee or in North Carolina."
@@ -1186,7 +1186,7 @@ ustates.98.a:0 "젠장할 롱, 젠장할 미닛맨들!"
 
 ustates.101.t:0 "알프 랜던의 취임식"
 ustates.101.d:0 "Alf Landon was sworn in as the 31st president of the United States of America today. At his inaugural address Landon spoke of the challenges facing the nation in preserving a liberal democacy. Landon's speech curiously never directly named the AFP or SPA, in the hope that their members could still be reasoned with. Landon concluded with a promise to solve the Depression with entrepreneurship. Creating a new generation of millionares that will bring pride back to the nation. Whether anyone will listen is another matter."
-ustates.101.a:0 "신이시여 우리의 민주주의를 보호하소서"
+ustates.101.a:0 "신이시여 민주주의를 보호하소서"
 
 ustates.102.t:0 "The President Deals with the Strike"
 ustates.102.d:0 "In response to the ongoing crisis, Landon proposes a Bill to begin a series of economic intervention policies. Landon proposes to bail out a number of high profile companies and declaring a bank holiday to start the process. However both the SPA and AFP oppose it for not going far enough and being too friendly with business that caused the Depression. It will take some cooperation between Republicans and Democrats to overcome this united front of radicalism in Congress."
@@ -1229,7 +1229,7 @@ ustates.110.a:0 "You're all thugs, brutes"
 ustates.111.t:0 "세인트루이스 대폭동"
 ustates.111.d:0 "The CSA had been aggravating the workers in the area to expand the strike. Local businesses in St. Louis were paralyzed. Many of them turned to the America First Party to provide a solution. Within days the streets were flooded with Minutemen. There are wild reports from the chaos ranging from Minutmen stopping petty crime in the absence of police, to them creating the crime. Soon the situation had erupted into a wide scale riot."
 ustates.111.a:0 "주방위군을 투입해라"
-ustates.111.b:0 "Missouri can handle this"
+ustates.111.b:0 "주차원에서 해결할 문제다"
 
 ustates.112.t:0 "주방위군이 압도당하다"
 ustates.112.d:0 "The National Guard commander in St. Louis was overwhelmed by the amount of violence in the city. The battle in St. Louis became a war zone as all sides fell upon each other. Reports of Long's Minutemen breaking into schools to arrest socialists without warrents frighten the nation. It is not known where the Minutemen take those they arret. The National Guard was overwhelmed. The Police chief of St. Louis is considering a full retreat and evacuation of the city."
@@ -1261,7 +1261,7 @@ ustates.118.a:0 "관용을 베푼다"
 ustates.118.b:0 "엄벌을 내린다"
 
 ustates.119.t:0 "선거인단제의 운명"
-ustates.119.d:0 "내전 이후 민주주의를 강화하는 중, 선거인단제의 존속에 의문이 일었습니다. 많은 이들이 개혁을 요구하지만 한편으로는 다른 이들은 선거인단제가 급진주의로부터 안전망 역할을 한다고 믿습니다. 어떻게 해야 할까요?"
+ustates.119.d:0 "As we work to strengthen democracy following the civil war, the question of the Electoral College has been brought up. Many are calling for its reformation while others believe that we should keep it around as a safeguard against radicalism. What should we do?"
 ustates.119.a:0 "선거인단제는 죽었다"
 ustates.119.b:0 "선거인단제는 공화국의 안전망이다"
 
@@ -1271,7 +1271,7 @@ ustates.120.a:0 "반역자들을 처단하라"
 ustates.120.b:0 "피는 충분히 흘렸다"
 
 ustates.121.t:0 "워싱턴 정부와 화해?"
-ustates.121.d:0 "The Tyrant MacArthur has done the unthinkable and has stepped down from power. Thus a debate has arisen about if we should reunite and make America whole. Many believe that even though MacArthur has stepped down from power, he still has control and that he won't hesitate to re-assume power should politics don't go his way."
+ustates.121.d:0 "폭군 맥아더가 권좌에서 스스로 물러난다는 상상도 못한 일이 발생했습니다. 이에 따라 우리가 워싱턴 정부와 재통합하여 완전한 미국을 형성해야 하는지에 대한 논쟁이 발생했습니다. 많은 이들은 맥아더가 권좌에서 물러났음에도 불구하고 여전히 통제권을 가지고 있으며, 설사 정치권에서 자신의 앞길을 막더라도 맥아더는 다시 권력을 차지하기를 주저하지 않을 것이라고 믿고 있습니다. "
 ustates.121.a:0 "워싱턴 정부와 재통합하자(게임 오버됨)"
 ustates.121.b:0 "우리가 진정한 미국이며 우리는 스스로 미국을 단결시킬 것이다!"
 
@@ -1285,7 +1285,7 @@ ustates.123.a:0 "언젠가는 재통합될 것이다"
 
 ustates.124.t:0 "미국의 재통합"
 ustates.124.d:0 "At long last America has been reunited. We stretch once again from sea to shining sea. The traitors to the country have been destroyed and the stars and stripes now fly proudly from coast to coast knowing that liberty is secured for all."
-ustates.124.a:0 "더 완벽한 합중국을 위해"
+ustates.124.a:0 "더 완벽한 합중국을 위하여"
 
 ustates.125.t:0 "The National Labor Relations Board"
 ustates.125.d:0 "With the civil war over and reconstruction now underway, the question of trade unions have been brought up. Some think that we should promote more liberal and anti-syndicalist unions to be a ward against the influence of Syndicalism in politics. A few loyalists within the AFL and the defunct Knights of Labor are willing to cooperate with Congress in creating a national labor relations board. This board would be able to isolate IWW afilitaed unions, and give collective bargaining rights to unions that do not wish to see us hang. Others however, regard all trade unions as traitors to the country and should be outlawed toggether. Congress has decided to...?"
@@ -1349,10 +1349,10 @@ ustates.136.c:0 "존 낸스 가너"
 
 ### Civil War avoided Events ###
 
-ustates.150.t:0 "수정 헌법 제20조"
-ustates.150.d:0 "미합중국 수정 헌법 제20조가 발의되었습니다. 이 수정헌법으로 미국 대통령은 국민들의 직접 투표로 선출될 것입니다. 현재의 선거인단 제도는 거의 1세기 전에 통과된 제14조 수정헌법에 의해 마지막으로 바뀌었습니다. 공화당과 민주당의 소수 사회민주주의자 연합이 제안한 이 법안은 통과될 가능성이 거의 없습니다. 지지자들은 이 수정 헌법이 1936년 위기 같은 위기가 또 다시 발생하는 것을 막는데 도움이 될 것이라고 주장합니다. 공화당과 민주당의 지도부는 선거인단제만이 1936년에 미국이 붕괴하는 것을 막은 유일한 것이라고 하면서 동의하지 않고 있습니다. 일주일간의 토론으로 모든 수단을 강구했으며, 결국....."
-ustates.150.a:0 "그 수정 헌법이 비준됐다."
-ustates.150.b:0 "그 수정 헌법이 비준되지 않았다."
+ustates.150.t:0 "The Twentieth Amendment"
+ustates.150.d:0 "The Twentieth Amendment to the United States Constitution has been proposed. This amendment would make it so that the President of the United States of America is elected by the direct popular suffrage of the country. The current Electoral College system was last modified in the 14th Amendment almost a century ago. The bill, as proposed by a minority coalition of Social Democrats within the Republicans and Democrats has very little chance of succeeding. It is claimed by the supporters that doing this will help prevent another crisis like the 1936 crisis from happening again. The party leadership of both e Republicans and Democrats disagree, saying that the Electoral College was the only thing that kept the United States from totally dissolving in 1936. A long week of debating has left every avenue explored, and ultimately..... "
+ustates.150.a:0 "The Amendment is Ratified"
+ustates.150.b:0 "The Amendment is not Ratified"
 
 ustates.152.t:0 "NAACP and FBI Defames Socialists"
 ustates.152.d:0 "During the 1930s, a large part of the NAACP's activities were taken up by litigation in favour of African American rights. This was due to the retreating strength of the black vote and the diminishing ability of African Americans to reach office after Plessy v. Ferguson. This avenue was also pursued by the syndicalist aligned International Labor Defense, who countered the NAACP for a decade in a competition for the hearts of black voters. Seeing no other option and being unwilling to ever compromise with socialists, NAACP leader Walter Francis White has decided to cooperate with the FBI in an anti-socialist puiblic relations campaign. Whether this truly motivates civil rights or further dilutes the current remains to be seen."
@@ -1407,9 +1407,9 @@ ustates.162.t:0 "노변담화"
 ustates.162.d:0 "쿠엔틴 루즈벨트는 최근에 라디오 방송으로 페어딜의 진전과 이 정책이 대공황으로부터 나라를 재건하는데 어떻게 도움을 주고 있는지에 대해 국민들에게 직접적으로 알려주기 시작했습니다. 노변담화는 매우 인기를 끌었으며, 이로 인해 종종 인기있는 라디오 프로가 생략되기도 했습니다. 이런 루즈벨트의 행보는 그를 미국 내에서 가장 인기 있는 사람으로 만드는 데 도움을 주었습니다."
 ustates.162.a:0 "친애하는 국민 여러분"
 
-ustates.163.t:0 "Amelia Earhart Circumnavigates Globe"
-ustates.163.d:0 "The famous aviator Amelia Earhart, known to many as the 'Queen of the Air,' has completed a flight around the world together with her navigator Fred Noonan.\n\nAfter a brief scare when the pair temporarily got lost while approaching Howland Island in the Pacific, the flight proceeded without incident and this morning their Lockheed Electra touched down in Oakland, California.\n\nA ceremony is to be held in the White House next week, where Earhart is to be personally congratulated for her feat by the President."
-ustates.163.a:0 "Quite an achievement!"
+ustates.163.t:0 "아멜리아 에어하트의 세계일주"
+ustates.163.d:0 "많은 사람들에게 '창공의 여왕'으로 알려진 유명한 여성 조종사 아멜리아 에어하트는 항법사인 프레드 누난과 함께 세계일주 비행을 성공적으로 마쳤습니다.\n\n태평양의 하울랜드 섬에 접근할 때에는 잠시 겁을먹고 길을 잃기도 했었지만, 비행은 사고 없이 진행되었고, 오늘 아침 캘리포니아 오클랜드에서 에어하트의 록히드 일렉트라 비행기가 성공적으로 착륙했습니다.\n\n에어하트의 세계일주 기념식은 다음 주에 백악관에서 열릴 예정인데, 아마도 이 자리에서 에어하트는 대통령에게 공적을 치하받을 것입니다."
+ustates.163.a:0 "대단해!"
 
 ustates.164.t:0 "철도 국유화"
 ustates.164.d:0 "One of the Progressive Party's Policies it has sought for some time was a nationalization of the countries Railroads. Now that they have power, the question is how exactly shall railway nationalization go. Congress is debating between two different proposals for how this shall be implemented. The first proposal is that the railroads will be nationalized but not the cars allowing for private businesses to compete among themselves for customers, while the second plan would include the cars in the nationalization. Which version shall Congress go with?"
@@ -1429,8 +1429,8 @@ ustates.167.t:0 "캐나다가 거절하다"
 ustates.167.d:0 "캐나다가 일부 이유를 빌미로 우리의 제안을 거부했으며 당분간 계획 추진에 발목이 잡히게 되었습니디."
 ustates.167.a:0 "빌어먹을 캐나다!"
 
-ustates.168.t:0 "연립여당의 붕괴"
-ustates.168.d:0 "With the crisis of 1936 well and truly over and the election 1940 occurring next year, the Coalition ticket has dissolved making way for the Progressives, Republicans and Democrats to resume their normal political campaigning. Floyd Olson has also announced that he will not be seeking re-election, which has allowed speculation to float around as to whom should replace the man who saved America."
+ustates.168.t:0 "연립여당의 해체"
+ustates.168.d:0 "1936년의 위기가 끝난 이후 찾아온 1940년 선거와 함께, 국민통합당은 진보당, 공화당 그리고 민주당이 자신들의 정상적인 정치활동을 재개하기 위해 해체되었습니다. 이와 함께 플로이드 올슨은 재선에 출마하지 않을 것이라고 발표했는데, 이는 누가 차기 대통령이 될지에 대한 무성한 추측을 낳았습니다."
 ustates.168.a:0 "하느님이 미국을 보우하사"
 
 ustates.169.t:0 "자유당이 민주당으로부터 분리되다"
@@ -1445,9 +1445,9 @@ ustates.171.t:0 "Not Worth a Bucket of Warm Piss"
 ustates.171.d:0 "President John Nance Garner has never had much respect for the Vice Presidency. During the National Convention, Garner refused any oeuvres to take the VP slot for someone else's campaign. Garner's choice of Sam Rayburn came with the implicit understanding that Rayburn's position meant very little to the executive branch. This is why today's newspaper of Rayburn coming out to criticizes Garner for failing to appease radicals was so shocking. Garner responded in interviews that he disregards anything the VP has to say, as 'Rayburn's position isn't worth a bucket of piss.'"
 ustates.171.a:0 "How Scandalous"
 
-ustates.172.t:0 "닭 잡는데 소 잡는 칼을 쓰다"
-ustates.172.d:0 "텍사스 주민들은 가너에게 민주당에 대한 끊임없는 충성심에 대한 보답으로 이번 주말에 400파운드에 달하는 망치를 선물로 주었습니다. 대통령 취임 첫 해에 망치를 너무 세게 내려치다 여러 번 부러트린 가너 대통령은 이 선물에 매우 만족했으며, 망치에 가하는 어떠한 분노도 견뎌내질 것이라고 확신합니다."
-ustates.172.a:0 "너가 가진 게 망치 뿐이라면..."
+ustates.172.t:0 "닭잡는데 소잡는칼을 쓰다"
+ustates.172.d:0 "In thanks from the people of Texas, and in recognition for his undying loyalty to the Democratic party, Garner was given a 400-pound hammer this weekend as a gift. President Garner, who is known to slam his gavels so hard that he has broken several in the first year of Presidency alone, is more than pleased with this gift and is assured it will withstand any anger he throws at it."
+ustates.172.a:0 "When all you have is a Hammer"
 
 ustates.173.t:0 "맥아더가 '미국의 카이사르'를 저술하다"
 ustates.173.d:0 "오늘, 맥아더 대통령은 1936년 위기 당시의 자신의 역할을 연대기로 쓴 자서전을 출간했습니다. 맥아더의 책은 롱과 리드의 음모를 꿰뚫어 볼 수 있었던 그의 신묘한 능력과, 민주주의를 지키기 위해서라면 무엇이든지 한다는 강철과 같은 의지에 대해 다루고 있습니다. 적위대와 미닛맨에 의한 중산층 희생자들에 대한 강조와 함께 워싱턴에서의 긴박한 나날들에 대한 묘사가 이 책의 묘미라고 할 수 있겠습니다. 이 책은 또한 맥아더의 지휘부 내에서 정치적 혼란을 해결하기 위해 워싱턴으로 행군하자고 주장한 군인들이 있었음을 암시합니다. 맥아더는 구태여 이 군인들의 이름을 밝히려고 하지는 않았지만, 그는 개인적으로는 이 군인들이 반역을 획책하는 것을 막았다고 책을 통해 말합니다."
@@ -1455,15 +1455,15 @@ ustates.173.a:0 "역시 '민주주의의 수호자'답군"
 
 ustates.174.t:0 "맥아더 암살미수"
 ustates.174.d:0 "오늘 현충원에서 열린 회의에서 맥아더 대통령의 연설 도중 한 발의 총성이 울렸고 이로 인해 많은 구경꾼들이 도망갔습니다. 이 총성의 범인으로 체포된 미친놈은 맥아더가 군사독재체제를 구축하고 있으며 이는 반드시 중지되어야 한다고 주장하며 맥아더를 겨낭했습니다. 가장 흥미로운 것은 이 사건의 배후에는 어떤 정치집단도 개입하지 않았으며, 범인은 그저 대통령의 삶에 제동을 걸려는 소위 '외로운 늑대'인 것으로 보입니다. 맥아더는 이 개소리를 웃어넘기고 이런 '외로운 늑대'들로부터의 신변 보호를 위해 비밀경호국의 인원를 늘렸습니다."
-ustates.174.a:0 "아무도 맥아더를 멈출 수 없다"
+ustates.174.a:0 "아무도 맥아더를 멈출수 없다"
 
 ustates.175.t:0 "루즈벨트 가문의 화해"
-ustates.175.d:0 "The Roosevelt family has been divided ever since the death of Franklin Roosevelt on the eve of his election as Governor of New York. While young Quentin Roosevelt had stayed in partisan politics, albeit Republican as opposed to Franklin's democrat. Archibald Roosevelt has left the reservation entirely. Rumours of him associating with industrialists and railing against every president since Hoover including Quentin has come to a head. Archibald and Quentin have met to officially bury the hatchet of politics and reunite their family. This meeting also helps to drive home Quentin's atmosphere of reconciliation instead of punishing dissonance."
-ustates.175.a:0 "또다른 가문이 재결합되었군"
+ustates.175.d:0 "루즈벨트 가문은 생전의 프랭클린 루즈벨트가 뉴욕 주지사로 당선되기 이전부터 분열되어 왔습니다. 상대적으로 젊은 쿠엔틴 루즈벨트는 프랭클린이 민주당원이었음에도 불구하고 공화당에 머물러 있는 등 당파적인 성향을 보였습니다. 심지어 아치볼드 루즈벨트는 극우파가 되기도 했습니다. 아치볼드가 기업가들과 결탁하고 핏줄인 쿠엔틴을 포함한 후버 이래로의 모든 대통령을 매도한다는 소문이 돌 정도였습니다. 그러나 이제 아치볼드와 쿠엔틴은 서로 겨누었던 정치적인 칼날을 공식적으로 묻어버리고 가문을 재결합시키기 위해 만났습니다. 이 만남은 또한 반대파를 숙청하는 대신 화해와 용서를 중시한다는 쿠엔틴의 면모를 부각시키는데도 도움을 주었습니다."
+ustates.175.a:0 "또다른 재결합이군"
 
-ustates.176.t:0 "Willkie's Affair Discovered"
-ustates.176.d:0 "Westbrook Pegler, that sinister exaggerator, just came out with an article alleging that Willkie is cheating on his wife Edith Willkie with journalist Irita Van Doren. The press have taken to this story and our President is besieged by questions of marital infidelity. Our Press Chief is trying his best at damage control, as well as Irita taking a surprise vacation, but the trustworthiness of Willkie has been damaged."
-ustates.176.a:0 "Damn that Pegler!"
+ustates.176.t:0 "윌키의 불륜행위가 드러나다"
+ustates.176.d:0 "사악한 과대망상가 언론인인 웨스트브룩 페글러는 윌키가 자기 마누라인 에디스 윌키를 속이고 저널리스트인 이리타 반 도렌과 불륜을 저질렀다고 주장하는 기사를 내놓았습니다. 언론은 이 불륜설을 다루었고 대통령은 불륜행위에 대한 기자들의 질문에 둘러싸여 있습니다. 이리타는 갑작스럽게 휴가를 냈고, 언론계 최고 책임자는 피해를 최소화하기 위해 최선을 다하고 있지만 윌키에 대한 국민의 신뢰는 이미 손상을 입을대로 입었습니다."
+ustates.176.a:0 "이런 페글러!"
 
 ustates.177.t:0 "Willkie Addresses NAACP"
 ustates.177.d:0 "President Willkie, despite being a lifelong Democrat, never actively endorsed the Southern Democrat line on race. An early critic of John Nance Garner for failing to appeal to black voters in 1936, Willkie made up for that with a historic speech at the NAACP Convention. Speaking in favour of integration in the military, and also getting a few jabs at Republicans and Democrats for failing to protect black voters from the SPA. His speech ended with a support for Jewish rights to democracy, and forewarned that socialists would target them next if antisemitism reached the levels of racism in America. Democrats in Congress are currently ruminating over how to respond, with most wishing to remain silent until next election season."
@@ -1481,9 +1481,9 @@ ustates.180.t:0 "테일러의 의회내 급진적 제안"
 ustates.180.d:0 "Out of the several strange requests President Taylor has made over the years, this has to be the hardest to handle. President Taylor has convinced several Progressive Congressmen to revive his old legislation promoting World Unity. Explained as a successor to President Wilson's peace plans he spoke of as the Weltkrieg raged on, World Unity is the preservation of human life and culture and the end of total war. This proposal in Congress was of course defeated, but the gesture has surprisingly boosted President Taylor's reputation."
 ustates.180.a:0 "우리 모두 평화를 소망한다"
 
-ustates.181.t:0 "Taylor Takes the Stage Nationwide"
-ustates.181.d:0 "One of the many eccentric qualities of President Taylor is his singing career. From his time singing to children on the steps of the Capitol building to now singing in front of his millions of constituents. President Taylor has leveraged what would have made him a laughing stock in politics into a genuine expression of his patriotism in art. Taylor sings to promote unity in America over politics, and cooperation instead of victory."
-ustates.181.a:0 "Sing On, Jim!"
+ustates.181.t:0 "전국을 가요무대로 승화시킨 테일러"
+ustates.181.d:0 "테일러 대통령이 가진 괴짜 기질 중 하나는 그의 가수 경력입니다. 처음에는 국회의사당 계단에서 아이들에게 노래를 부르더니 이제는 수백만 국민들 앞에서까지 노래를 부릅니다. 테일러 대통령은 자신을 정치적 조롱거리로 만들었던 음악을 자신의 애국심을 표현하는 것으로 승화시켰습니다. 정파를 뛰어넘은 테일러는 정치적 승리보다는 미국의 단결을 도모하고 협력을 증진시키기 위해 노래를 부릅니다."
+ustates.181.a:0 "전국~ 노래자랑!"
 
 ustates.182.t:0 "Barkley Ends The Corvee System"
 ustates.182.d:0 "A division appears between President Barkley and the Democratic Party on Fair Deal Infrastructure. A Congressional debate brought up the idea of allowing a smaller community works to be paid by the government, with repair being handled by the Corvée system. The Corvée system is a tax imposed to pay for prisoners to repair public works. President Barkley spoke out against this idea, as his time in Kentucky taught him that penal labour will never surpass contract labour. This stand also puts pressure on Southern Democrats in his own party that support a state-financed and cheap reconstruction plan. National attention to the Corvée system has led to most states outlawing it."
@@ -1493,9 +1493,9 @@ ustates.183.t:0 "Russel's Chain Gang Labor Exposed"
 ustates.183.d:0 "Richard Russell's career in Georgia prior to the White House wasn't without its controversy. As a cost-cutting measure, Russell authorized the use of penal labour to undertake constructions for the state. This free labour was compounded by poor living conditions and has eventually come back to haunt Russell. A former prisoner who had his conviction overturned has written a book entitled 'I Am a Fugitive from a Georgia Chain Gang!'. This book describes a corrupt penal system and puts the blame on now-President Russell. Those critical of the President are having a field day with this. Rumours of Hollywood planning a movie on this book have also circulated."
 ustates.183.a:0 "Who would believe a Prisoner?"
 
-ustates.184.t:0 "Gangsters Miss Dewey By A Hair"
-ustates.184.d:0 "Dewey's past came gunning for him one Sunday morning at a D.C. restaurant. Gangsters, sent by the Dutch Schultz to avenge his upcoming execution tried shooting at him through the windows. Fortunately, the Secret Service was able to hide President Dewey, and nabbed the gangsters responsible. As a result, Dewey has doubled his security and pressed for further crackdowns nationwide on crime syndicates, as this attempt may encourage copycats. Both Democrat and Republican in Congress have called J Edgar Hoover into Congress to explain how the FBI did not see this coming. Many on the fence about Dewey are now glad their President has survived such a vile plot."
-ustates.184.a:0 "Close Call"
+ustates.184.t:0 "갱스터의 듀이 암살시도가 한끝차로 실패하다"
+ustates.184.d:0 "어느 일요일 아침 워싱턴 DC의 레스토랑에서 듀이를 향해 누군가 총을 쐈습니다. 더치 슐츠가 자신의 사형선고에 대한 복수를 위해 보낸 갱스터들이 창문을 통해 총을 쏴 듀이를 죽이려했던 것입니다. 운좋게도, 비밀경호국은 듀이 대통령을 보호할 수 있었고, 암살을 시도한 갱들을 체포할 수 있었습니다. 이후 듀이는 경호원을 두배로 늘렸고, 이런 암살시도가 모방범죄를 부추길 수 있기 때문에 전국적으로 조폭 소탕을 위한 범죄와의 전쟁을 선포했습니다. 의회의 민주당 소속 의원들과 공화당 소속 의원들 모두 J 에드거 후버를 불러다가 FBI가 어떻게 이런 상황을 사전에 알지 못했는지를 따졌습니다. 지금 많은 사람들은 듀이 대통령이 비열한 음모에서 살아남은 것을 기뻐하고 있습니다."
+ustates.184.a:0 "근접경호를!"
 
 
 ### election stuff ###
@@ -1689,7 +1689,7 @@ ustates.270.b:0 "We shall not betray our allies"
 
 ustates.271.t:0 "New England rejoins America"
 ustates.271.d:0 "The Canadians have withdrawn their troops from Boston and the cities of New England and have stated their occupation is over and that they were just keeping the region safe from Syndicalism. New England has at least been reunited with the rest of America."
-ustates.271.a:0 "God Bless America"
+ustates.271.a:0 "신이시여 미국을 보우하사"
 
 ustates.272.t:0 "Canada Refuses"
 ustates.272.d:0 "Canada has informed us that they shall not allow New England to reunite with us. This has caused many within Congress to demand war to reclaim New England, though shall we go to war right now?"
@@ -1757,7 +1757,7 @@ ustates.285.a:0 "Thank you Dr. Salk"
 
 ### Military stuff ###
 
-ustates.300.t:0 "군사 연구"
+ustates.300.t:0 "Military Research"
 ustates.300.d:0 "We are having our best scientists and business leaders look into what we should invest our efforts into guns, artillery, tanks, our improving our own doctrines. What should we choose?"
 ustates.300.a:0 "Modernize our Guns"
 ustates.300.b:0 "Modernize our Artillery"
@@ -1770,11 +1770,11 @@ ustates.301.a:0 "Lawrence Bell's Jet"
 ustates.301.b:0 "Oppenheimer's Atom Bomb"
 ustates.301.c:0 "Authorize more funds for both"
 
-ustates.302.t:0 "앨버커키 프로젝트"
+ustates.302.t:0 "Albuquerque Project"
 ustates.302.d:0 "Bell's X project has proceeded satisfactorily, with a successful implementation of rocket technology into planes being able to double the speed of older aircraft. Brave test pilot Jack Woolams today was the first person to fly the plane faster than 741 miles per hour, breaking the sound barrier."
 ustates.302.a:0 "Prepared for even Interplanetary War"
 
-ustates.303.t:0 "윈체스터 "
+ustates.303.t:0 "Winchester Project"
 ustates.303.d:0 "The project ran into a significant problem when it was discovered that the nuclear material Plutonium has a fission rate too fast for a bullet. The solution came in the form of depleted Uranium initially planned for a different nuclear project. This makes the weapon barely ethical under normal nuclear waste usage guidelines, and creates the issue of intentional biological damage from radiation on the target. Nonetheless, the Thin Man is a success"
 ustates.303.a:0 "We are safe from Oppenheimer's deadly toy"
 
@@ -1852,5 +1852,5 @@ USA_JAMES_GARESCHE_ORD_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W October 
 USA_EDWIN_HARDING_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W September 18, 1886, in Franklin, Ohio, United States of America\n§YMilitary Career:§W Edwin Forrest Harding began his military career when he enlisted to West Point in 1906, graduating in 1909 along with George S. Patton, Jacob L. Devers, John C. H. Lee and William H. Simpson. He was mainly posted in garrison duties until being assigned to West Point as a teacher, first as an Instructor of Modern Language, from 1919 to 1921, then as Instructor in Economics, from 1921 to June 1923,  and then as Assistant Professor of History, from June 1923 until August of the same year, when he was reassigned to lead the 15th Infantry Regiment in Tianjin. He remained in the American Legation until September 1929, when he returned to America and was assigned as an Instructor in Fort Benning. In Fort Benning, he met Col. George Marshall, who placed him in charge of the Infantry School's publications. As an editor, Harding became of responsible for planning, supervision and editing of the book 'Infantry in Battle', which has been the first breakthrough of Infantry tactics of the United States Army since the studies of German Armies in the Weltkrieg. He was promoted to Colonel afterwards and has reached the rank of Brigadier General in late 1935, amidst fears of desertion amongst the general staff."
 USA_SMEDLEY_BUTLER_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W July 30, 1881, in West Chester, Pennsylvania, United States of America\n§YMilitary Career:§W Smedley Darlington 'The Fighting Quaker' Butler lied about his age and enlisted in the Marine Corps in 1898 to join the American force fighting the Spanish-American war. He was commissioned as a second lieutenant for his higher education and would be transferred to the recently captured Guantanamo after basic training. He didn't manage to see combat, as his company would soon return to the US, where he was reassigned to the USS New York, becoming a first lieutenant in April 1899. He was then transferred to the Philippines, where he mainly did garrison duty, although he took part in some engagements against the Insurrectos. In 1900, he'd accompany Littleton Walker during the Boxer Rebellion, taking part in the Battle of Tianjin and the Gaselee Expedition, being wounded in the thigh for trying to rescue a fellow marine and earning a brevet promotion to captain. Afterwards, Butler would take part in the Banana wars, first to Honduras to defend the American consulate in 1903 and to Nicaragua between 1909 and 1913, where he took part in breaking the siege of Granada, in the battle of Masaya and the capture of Coyotepe Hill. He'd take part in the occupation of Veracruz in Mexico in 1914, earning his first Medal of Honor in combat and being promoted to major. He'd be transferred to Haiti, where he earned his second Medal of Honor for fighting the Caco rebellion. He'd be transferred back to the United States, where he served garrison duties until being promoted to Brigadier General in 1921. In 1927 he was sent to China to take charge of the Marine Expeditionary Force in the Legation Cities, earning his promotion to Major General, returning to America in 1929, and then competing and winning the role of Commandant of the USMC in 1931. He earned the rank of General in 1935, amidst the rising tension of the Hoover administration despite Butler’s criticism of Hoover. He remains however as one of the most influential and condecorated officers of the United States Marine Corps, and his influence should not be taken lightly."
 USA_HERBERT_HOLDRIDGE_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W March 6, 1892, in Wyandotte, Michigan, United States of America\n§YMilitary Career:§W Herbert Charles Heitke was born in a German immigrant family, and would sign up for West Point in 1913, graduating in 1917 as an infantry second lieutenant. He was first assigned to the Quartermaster Corps of the Army's Reserve in Georgia, reaching the rank of first lieutenant in 1920 and captain in 1923. In 1925, while he was still in the Reserve Corps, he transferred to the Cavalry corps and was assigned as Assistant Professor of History and Social Sciences at West Point. In late 1929, he was transferred to the Army's Cavalry School at Fort Riley, and remained in this position until now, earning the promotion to Colonel in 1934. He has remained a relevant member of the staff, but his constant criticism of the Hoover Administration are starting to make a dent in the government's legitimacy..."
-USA_GEORGE_VAN_HORN_MOSELEY_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W September 28, 1874, in Evanston, Illinois, United States of America\n§YMilitary Career:§W George Van Horn Moseley graduated from the United States Military Academy in 1899 as a cavalry second lieutenant. He would serve in the Spanish American War commanding the 9th Cavalry Regiment where he even managed to achieve a major breakthrough against Ludovico Arejola, prompting a promotion to first lieutenant and a transfer to the 1st Cavalry Regiment. There he'd serve as Aide-de-Camp for Brigadier General J.M. Bell and J.M. Lee for the remainder of the campaign, fulfilling several staff roles in the rear. He'd be transferred back to the US in 1904, and would serve as a staff member of the Texas Headquarters, until being promoted to Captain in 1906. He'd continue to fill a variety of staff roles while at the same time attending the Army Staff College and the Army War College, of which he graduated in 1909 and 1911 respectively. He took part in Pershing's punitive expedition, providing logistical support to Pershing, and earning him the promotion to major. After commanding the Second Field Artillery Brigade, he was detailed as assistant to General Dawes in organizing the Bureau of the Budget in 1921, after which he was promoted to Brigadier General for his remarkable performance. He'd become Executive Assistant to the Assistant Secretary of War and was put in charge of the Industrial Preparedness sector, which got him his promotion to Major General. In 1934 he had a major fall out with General MacArthur that still causes tensions between the two until now.\n§YImportant Notes:§W- Has displayed strong anti-immigrant and anti-semitic views both publicly and privately."
+USA_GEORGE_VAN_HORN_MOSELEY_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W September 28, 1874, in Evanston, Illinois, United States of America\n§YMilitary Career:§W 조지 반 혼 모즐리는 1899년에 기병 소위 계급으로 육군사관학교를 졸업했습니다. 모즐리는 미서전쟁에 참전해 제9기병연대를 지휘하여 루도비코 아레졸라와의 대결에서 돌파구를 마련하는데 성공했습니다. 이 공적 덕분에 그는 중위로 진급하고 제1기병연대로 이관되었습니다. 여기서 그는 미서전쟁이 끝날 때까지 JM 벨과 JM 리 장군의 부관직을 수행했으며, 이외에도 후방에서 다른 여러가지 역할을 수행했습니다. 이후 모즐리는 1904년에 미국 본토로의 귀환을 발령받아 1906년에 대위로 진급하기 전까지 텍사스 본부에서 참모진으로 일했습니다. 모즐리는 1909년에는 육군참모학교를, 1911년에는 육군전쟁학교 수업을 수료했으며 동시에 다양한 직무도 계속 수행했습니다. 모즐리는 퍼싱의 멕시코 토벌에도 참여하여 퍼싱에게 각종 병참적 지원을 아끼지 않음으로써 퍼싱의 소령 진급을 알게모르게 도왔습니다. 제2야전포병대을 지휘한 직후에 모즐리는 1921년에 군 예산국을 조직하는 도스 장군의 조수로 파견되었고, 그 후 이 분야에서 뛰어난 성과를 보여 여단장의 부관직을 수행하게 되었습니다. 이후에도 모즐리는 국방부장관의 수석보좌관이 되어 전쟁을 위한 산업계의 역할수행 점검을 담당하게 되었고, 여기서도 나름의 성과를 보여 그는 소장으로 진급하게 되었습니다. 1934년에 모종의 이유로 맥아더 장군과의 사이가 크게 틀어지게 되었고 이는 지금까지 이어지고 있습니다.\n§YImportant Notes:§W- Has displayed strong anti-immigrant and anti-semitic views both publicly and privately."
 USA_GEORGE_PATTON_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§W November 11, 1885, in San Gabriel, California, United States of America\n§YMilitary Career:§W George Smith Patton Jr., a fan of military history books from an early age, joined the Virginia Military Institute in 1903. In his second year, he was nominated for West Point, and while he performed excellently in the drill procedures at West Point, his academic performance was so bad that he was forced to repeat his first year. Despite all setbacks, he graduated as a cavalry second lieutenant in 1909 and was assigned with the 15th Cavalry Regiment. In 1912, his athletic skills made him the army's choice to represent the United States for the first modern Pentathlon in the Stockholm Olympic games, ranking fifth out of forty two participants. With the launching of the punitive expedition, Patton became Pershing's Aide-de-Camp during the largely unsuccessful expedition, but this strengthened ties between them and Patton became an almost permanent member of his staff and was promoted to Captain soon enough. He was promoted to Major in June 31, 1920 and began taking an interest in the Weltkrieg’s use of mechanized warfare. In 1923 he'd graduate from the Cavalry's Field Officer's Course, from the Command and General Staff College in 1924 and the Army War College in 1932. During the protests of the Bonus Army, Patton had a major falling out with MacArthur, after which Patton has vocally opposed his colleague constantly. While his friend Eisenhower tends to mediate between the two, Patton has been forced by the general staff to remain as a lieutenant colonel despite having all the traits and qualifications of a brigadier general.\n§YImportant Notes:§W- Has displayed strong racist views in public."
