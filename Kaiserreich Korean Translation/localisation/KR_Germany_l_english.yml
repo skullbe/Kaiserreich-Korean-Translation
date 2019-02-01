@@ -370,31 +370,31 @@ GER_doctrine_mobile_2:0 "새로운 교리"
 GER_doctrine_mobile_2_desc:0 "군 고위 지휘부의 하인츠 폰 구데리안과 에리히 폰 만슈타인 등과 같은 급직전인 혁신가의 일부는 완전히 새로운 교리에 대한 연구를 도입하기 위해 영향력을 행사하고 있습니다. 견고한 전선을 돌파하기 위해 기갑 선봉대의 신속한 기동에 초점을 맞추고자 합니다."
 
 GER_mil_expansion:0 "군대 확장"
-GER_mil_expansion_desc:0 "With the death of Hans von Seeckt and the retirement of August von Mackensen, the Chief of General Staff has been embroiled in heated debate as to which military doctrine should be adopted. We should establish an impartial committee of military officers to oversee the adoption of new doctrine."
+GER_mil_expansion_desc:0 "한스 폰 젝트의 죽음과 아우구스트 폰 마켄젠의 은퇴로, 총참모장은 어떤 군사 교리를 채택해야 하는지에 대한 열띤 논쟁에 휘말려 왔습니다. 우리는 새로운 교리의 채택을 감독하기 위해 군 장교들로 구성된 공정한 위원회를 설립해야 합니다."
 
 #GER_doctrine_great_war:0 "현대 전쟁론"
-#GER_doctrine_great_war_desc:0 "There is one book that every man who wants to become an officer in the army of the Reich must read - Clausewitz's 'On War'. If we put our best military theorists on the subject, they can adapt the still applicable principles from the centuries-old book to the requirements of modern warfare."
+#GER_doctrine_great_war_desc:0 "제국군의 장교가 되고자 하는 모든 사람들이 읽어야 할 책이 한 권 있습니다. 클라우제비츠의 '전쟁론(On War)'입니다. 만약 우리가 이 주제에 대해 우리의 최고의 군사 이론가들을 포함시킨다면, 그들은 여전히 수세기 전의 책에서부터 적용 가능한 원칙들을 현대 전쟁의 요구 조건에 맞게 조정할 수 있습니다."
 
 #GER_doctrine_great_war_2:0 "분대 전술"
-#GER_doctrine_great_war_2_desc:0 "The Chinese Intervention and more recent conflicts have convinced our officers of the importance of coordination within individual squads. We should integrate so called 'Gruppentaktiken' into our infantry training regime."
+#GER_doctrine_great_war_2_desc:0 "중국 개입과 최근의 분쟁은 우리 관리들에게 개별 분대 내에서 조정이 중요하다는 것을 확신시켜 주었습니다. 우리는 소위 '분대 전술'이라는 것을 보병 훈련 제도에 통합해야 합니다."
 
 GER_squad_tactics:0 "분대 전술"
-GER_squad_tactics_desc:0 "The Chinese Intervention and more recent conflicts have convinced our officers of the importance of coordination within individual squads. We should integrate so called 'Gruppentaktiken' into our infantry training regime, and make sure they have the equipment to make the most use of it."
+GER_squad_tactics_desc:0 "중국 개입과 최근의 분쟁은 우리 관리들에게 개별 분대 내에서 조정이 중요하다는 것을 확신시켜 주었습니다. 우리는 소위 '분대 전술'이라는 것을 보병 훈련 제도에 통합하고, 그들이 그것을 최대한 활용할 수 있는 장비를 갖추고 있는지 확인해야 합니다."
 
 GER_motorized:0 "차량화 침투"
 GER_motorized_desc:0 "우리 군 고위 지휘부는 여러 사안에 대해 하나된 의견을 도출하지 못하였으나, 하나의 사안에는 의견을 모으고 있습니다: 1870년과 1871년 승리를 되돌아봤을 때, 작전 규모에서 신속하고 결정적인 승리는 보병을 집단적으로 차량화함으로써 달성할 수 있다는 것입니다."
 
 GER_doctrine_superior_firepower:0 "중립화"
-GER_doctrine_superior_firepower_desc:0 "The phrase 'artillery bombardment' fails to capture the essence of what we plan to do with artillery. We seek the complete neutralization of the enemy through a rain of shells, one that will last days, weeks, or longer--Whatever is needed."
+GER_doctrine_superior_firepower_desc:0 "'포병 포격'이라는 표현은 우리가 포병을 가지고 무엇을 계획할 것인지에 대한 본질적인 의미를 파악하지 못한 것입니다. 우리는 수일, 수주일 또는 그 이상--얼마나 걸리던지간에 빗발처럼 쏟아지는 포탄를 통한 적의 완전한 중화를 추구합니다."
 
 GER_doctrine_superior_firepower_2:0 "크루프의 '전술'"
-GER_doctrine_superior_firepower_2_desc:0 "There's nothing quite like a fresh artillery piece from Krupp! An order to our patriotic allies in industry is all it'll take, and we'll have the new artillery we need to back our fierce doctrine."
+GER_doctrine_superior_firepower_2_desc:0 "크루프에서 나온 신선한 포탄만큼 좋은 것은 없습니다! 산업계의 우리의 애국적인 동맹들에게 명령만 하면 됩니다. 그러면 우리는 우리의 격렬한 교리를 지지하기 위해 필요한 새로운 야포를 갖게 될 것입니다."
 
 #GER_doctrine_mobile:0 "새로운 교리"
-#GER_doctrine_mobile_desc:0 "Some of the more radical innovators in our high command including, among others, Heinz von Guderian and Erich von Manstein, are lobbying for research into a totally new doctrine. They want to focus on the fast movement of armoured spearheads to break up solid fronts."
+#GER_doctrine_mobile_desc:0 "하인츠 구데리안과 에리히 폰 만슈타인을 포함한 우리 고위 지휘부의 보다 급진적인 혁신자들은 완전히 새로운 교리에 대한 연구를 위해 로비 활동를 하고 있습니다. 그들은 견고한 전선을 부수기 위해 무장한 창들의 빠른 움직임에 초점을 맞추기를 원합니다."
 
 #GER_doctrine_mobile_2:0 "포위의 중요성"
-#GER_doctrine_mobile_2_desc:0 "Even those who disagree with their theories would say that Guderian and Manstein have interesting ideas. For example, they propose that an enemy can be outmaneuvered and then easily destroyed once they are out of supplies and cut off. We need to encourage this innovative thinking, as it could make the difference."
+#GER_doctrine_mobile_2_desc:0 "그들의 이론에 동의하지 않는 사람들이라 할지라도 구데리안과 만슈타인이 흥미로운 생각을 가지고 있다고 말할 것입니다. 예를 들어, 그들은 적이 기동력을 상실한 후에 일단 보급이 중단되고 나면 쉽게 파괴될 수 있다고 제안하고 있습니다. 우리는 이 혁신적인 사고를 장려할 필요가 있습니다. 그것이 차이를 만들 수 있기 때문입니다."
 
 GER_doctrine_mobile_2_prerequisite:0 "§Y하인츠 구데리안§! 또는 §Y에리히 폰 만슈타인§!이 참모총장으로 있어야 합니다."
 
@@ -563,7 +563,7 @@ GER_siemens:0 "지멘스에 대한 보조금"
 GER_siemens_desc:0 "지멘스는 독일 경제의 심장을 이루는 대기업 중 하나입니다. 지멘스, 그리고 다른 작은 산업 업체들과 계약을 맺어, 우리는 경제 회복을 위한 느리고 꾸준한 길을 나아가기 시작할 수 있습니다."
 
 GER_thyssen:0 "티센 설립"
-GER_thyssen_desc:0 "Thyssen AG, actually a conglomerate of various companies, produce everything; coal, steel, ships, and even some consumer products. By investing into them, we can help build up the civilian sector of our economy to get stronger returns later."
+GER_thyssen_desc:0 "실제로 다양한 회사들의 대기업인 티센 AG는 모든 것을 생산합니다. 석탄, 철강, 선박, 그리고 심지어 몇몇 소비재들까지. 그들에게 투자함으로써 우리 경제의 민간 부문이 나중에 더 나은 수익을 얻을 수 있도록 도울 수 있습니다."
 
 GER_krupp_steel_focus:0 "크루프 강철"
 GER_krupp_steel_focus_desc:0 "기반시설과 시민들을 돕는 것에 대한 이야기도 좋습니다, 그렇죠, 하지만 야포는요? 탱크, 비행기는요? 세상은 안전하지 않으며, 프리드리히 크루프 AG는 우리가 필요한 해결책을 가지고 있습니다! 그들은 독일에서 여러 세대에 걸쳐 봉사해왔고, 그들을 다시 불러 올 때가 되었습니다."
@@ -605,7 +605,7 @@ GER_construction_desc:0 "경제가 활기를 띠기 시작했고, 이제는 그 
 GER_industry_finished_desc:0 "검은 월요일 이후 경제 정책이 성공을 거두면서, 민간 투자자들이 활발하게 활동하고 있습니다. 경제는 안정적일 뿐만 아니라 폭발적인 호황을 누리고 있습니다. 이는 오래 지속되지는 않겠지만, 잠시 다른 문제에 집중할 수 있을 것입니다."
 
 GER_industry_research:0 "건설 I"
-GER_industry_research_desc:0 "It's hard to fathom, but it seems we've fallen behind on industrial methodology and best practices! Perhaps this has something to do with the economy? In any case, now's as good a time as any to fix this."
+GER_industry_research_desc:0 "헤아리기 어렵지만, 우리는 산업 방법론과 모범 사례에 대해 뒤떨어져있는 것처럼 보입니다! 아마도 이게 경제와 관련이 있는걸까요? 어쨌든 이제는 문제를 해결할 수 있는 좋은 시간입니다."
 
 GER_industry_research_1:0 "산출물 I"
 GER_industry_research_1_desc:0 "Placeholder."
@@ -650,7 +650,7 @@ GER_zuse:0 "콘라드 추제 지원"
 GER_zuse_desc:0 "콘라트 추제는 소위 '계산기'라는 것에 대해 몇가지 특허를 냈습니다. 적절한 후원이 있다면, 그의 생각은 국가에 의해, 국가를 위해 좋게 쓰일 것입니다."
 
 GER_radar:0 "루돌프 퀸홀트 지원"
-GER_radar_desc:0 "Rudolf Kühnhold has some interesting ideas regarding a so-called 'radio measuring device'. This could give us a serious advantage on the sea, air, and even land, and might just be worth investing in."
+GER_radar_desc:0 "루돌프 퀸홀트는 이른바 '라디오 측정 장치'에 대해 몇 가지 흥미로운 아이디어를 가지고 있습니다. 이것은 우리에게 바다, 공중, 심지어 땅에도 엄청난 이점을 줄 수 있으니 투자할만한 가치가 있을지도 모릅니다."
 
 GER_kaiser_wilhelm_society:0 "카이저 빌헬름 학회"
 GER_kaiser_wilhelm_society_desc:0 "최근 카이저 빌헬름 과학 발전 학회에 투자하여 다양한 분야에서의 연구 능력이 확대되었습니다. 사회를 국가 주도 연구를 위한 장소라고 홍보한다면, 우리는 신세대 최고의 두뇌를 일부 유치할 수 있을 것입니다."
@@ -725,8 +725,8 @@ GER_tactical_bombers_desc:0 "태평양, 대서양 또는 유럽 대륙에서 군
 GER_heerflieger:0 "플리거트루페 유지"
 GER_heerflieger_desc:0 "우리 조종사들은 현재 육군 소속으로, 독립적인 공군사령부 없이 조직되어 있습니다. 이는 조종사와 지상군 사이의 협력을 더욱 튼튼하게 하고 있으므로, 공중 지원으로 지상군 우세를 돕는 현 교리가 이어질 것입니다. 이는 좋은 일이고, 유지해야 합니다."
 
-GER_doitagain:0 "Listen to Sperrle"
-GER_doitagain_desc:0 "Hugo Sperrle, a grim veteran pilot from the Weltkrieg, has gained some notoriety amongst our Fliegertruppe lately for his bold new doctrine. He proposes that converting our industrial might into all-out production of Strategic Bombers could win us the next war quicker and with fewer casualties by destroying the enemy's capacity and will to fight."
+GER_doitagain:0 "슈페렐에게 귀를 기울이다"
+GER_doitagain_desc:0 "세계대전의 참혹한 베테랑 조종사 휴고 슈페렐은 그의 과감한 새 교리로 최근 우리 플리거트루페 사이에서 악명을 얻었습니다. 그는 우리의 산업을 전략 폭격기의 전면적인 생산으로 전환시켜 적의 능력과 싸우겠다는 의지를 파괴하면 우리는 더 빨리 다음 전쟁에서 승리할 수 있을 것이라고 제안했습니다."
 
 GER_luftwaffe:0 "루프트바페 창설"
 GER_luftwaffe_desc:0 "붉은 남작, 만프레트 폰 리히트호펜은 세계대전 때부터 독립적인 공군 - 루프트바페 - 의 창설을 주장해왔습니다. 최근까지는 전통적으로 권위있는 육군의 보수파가 이를 막아왔지만, 전쟁이 다시 한번 다가오면서, 남작의 생각을 고려해야 할 때가 왔습니다."
