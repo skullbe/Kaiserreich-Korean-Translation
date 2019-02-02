@@ -43,12 +43,12 @@ may_raise_autonomy:0 "§Y[Root.GetNameDefCap]§!의 자치도를 낮출 수 있�
 may_become_free:0 "§Y[Root.GetNameDefCap]§! (은)는 독립을 향해가고 있습니다\n"
 
 ### Autonomy Events ###
-kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구됨"
-kr.political.100.d:0 "While [Root.GetNameDef] still labours under [overlord_name.GetAdjective] control, the [Root.GetAdjective] military has asserted enough control over our own borders that a semblance of greater autonomy is now possible to exert. This is not independence - far from it - but it does mean we no longer have to rely on [overlord_name.GetAdjective] troops to secure our borders."
+kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구되다"
+kr.political.100.d:0 "[Root.GetNameDef]이(가) 여전히 [overlord_name.GetAdjective]의 통제 하에 노동하고 있는 동안, [Root.GetAdjective] 군대는 자국의 국경을 충분히 제어 할 수 있다고 주장하며 이제 더 큰 자율성을 발휘할 수 있게 되었습니다. 이것은 독립 국가와는 거리가 멀지만 국경을 확보하기 위해 더 이상 [overlord_name.GetAdjective] 군대에 의존 할 필요가 없다는 것을 의미합니다."
 kr.political.100.a:0 "훌륭하군"
 
 kr.political.101.t:0 "대 [Root.GetAdjective] 자치령?"
-kr.political.101.d:0 "[Root.GetNameDefCap] remains under the control of the [overlord_name.GetAdjective] government, but that control is beginning to surely lessen as our strength reasserts itself. [Root.GetAdjective] power is not something to be easily contained, and already our leaders are clamouring for more control over our own affairs. Surely our [overlord_name.GetAdjective] will not be able to resist us for long."
+kr.political.101.d:0 "[Root.GetNameDefCap]은(는) [overlord_name.GetAdjective] 정부의 통제하에 있지만, 우리의 힘을 스스로 재확보함에 따라 그 통제권은 확실히 줄어들기 시작하고 있습니다. [Root.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 우리의 지도자들은 우리 자신의 문제에 대한 더 많은 통제권을 요구하고 있습니다. 물론 우리 [overlord_name.GetAdjective]은(는) 오랫동안 저항할 수 없을 것입니다."
 kr.political.101.a:0 "[Root.GetNameDef] 만세!"
 
 ### Land Units ###
