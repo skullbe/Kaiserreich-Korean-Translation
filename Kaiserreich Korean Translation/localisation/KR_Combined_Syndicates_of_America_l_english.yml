@@ -584,18 +584,18 @@ csa.12.a:0 "연방 지도부를 사면해라"
 csa.12.b:0 "연방 지도부는 유죄다."
 csa.12.c:0 "모든 연방 지지자들의 재산을 압류하고 체포해라"
 
-csa.14.t:0 "Avant-Guard Film"
-csa.14.d:0 "Avant-guard art forms are not inherently a political tool, but the artists have shown an overwhelming support for the SPA in 1936. From the surrealists in New York shocking viewers with graphic sex on screen, to the Dadaists who challenge the very concept of popular art. As part of this movement, many of the country thousands of movie theaters have been expropriated to ensure that work of this caliber is not censored by prudish theater owners. They are brightly painted and carrying on board a printing press, government complaint office, printed political leaflets and pamphlets, library books, and a mobile movie theater. Theaters are part of the new revolutionary government to indicate the values and programs to the scattered populace of America particularly the rural regions of the country."
-csa.14.a:0 "Make sure kids don't see the surrealist films"
+csa.14.t:0 "아방가르드 영화"
+csa.14.d:0 "아방가르드 예술 양식은 본질적으로 정치적인 도구는 아니지만, 예술가들은 1936년에 사회당에 압도적인 지지를 보내주었습니다. 화면상 그래픽 섹스로 관객을 놀라게 한 뉴욕의 초현실주의자들부터 대중 예술의 관념에 도전하는 다다이스트들까지 이 운동의 일환으로써 국가 안의 수많은 영화관들이 검열 없이 이러한 영화들을 상영 할 수 있게 되었습니다. 이러한 영화의 홍보물은 인쇄 매체, 정부 행정 사무소, 정치 전단지, 도서관 책 그리고 이동 영화관에 실려져 있습니다. 영화관은 미국 전역, 특히 시골 지역의 대중들에게 혁명정부의 가치와 프로그램을 알리기 위한 주요한 수단으로 애용되고 있습니다."
+csa.14.a:0 "아이들이 초현실주의 영화를 보지 못하게 하시오."
 
-csa.15.t:0 "Art Deco versus Modernism"
-csa.15.d:0 "For most of the 1920s and 1930s the Art Deco art style was the dominate style of architecture and from coast to coast buildings were built in the Art Deco style. However, a number of revolutionary architects within the SPA wish to break away from that style and seek a more Modernist style inspired by the designs coming out of France, Italy, or Britain. Preservationists have come out in force to counter that Art Deco is an American style that cannot be erased by political whims. Preservationists point to Diego Rivera's recent demolition of the Rockefeller Center artwork, after his modification of chiseling the faces of Marx and Lenin over Zeus and Thor were decried as being in poor taste. Which style shall be supported?"
-csa.15.a:0 "Preserve Art Deco"
-csa.15.b:0 "Modernism"
+csa.15.t:0 "아르 데코 대 모더니즘"
+csa.15.d:0 "1920년대부터 1930년 동안 아르 데코 스타일은 지배적인 건축 양식으로써 건축계를 지배했고, 해안을 따라서 아르 데코식 방식으로 건물이 건설 되었습니다. 그러나 많은 수의 SPA 소속 혁명적 예술가들은 이러한 예술 흐름을 깨고 프랑스나 이탈리아 혹은 영국에서 영감을 얻은 새로운 현대적 스타일의 건축을 하고 싶어 합니다.반면에 보존론자들은 아르 데코식 스타일은 미국만의 예술 사조라 강조하며 이를 정치적 변덕 때문에 지워질 수 없다고 주장합니다. 보존론자들은 특히 최근 디에고 리베라의 록펠러 센터 미술관을 철거 과정에서 그가 제우스와 토르 얼굴을 재조각해서 맑스와 레닌의 얼굴을 만든 것은 너무나 끔직 했다고 설명합니다. 어떤 편을 지원하시겠습니까?“
+csa.15.a:0 "아르 데코를 보존하라!"
+csa.15.b:0 "현대화하라!"
 
-csa.16.t:0 "Debates over Union Membership Fees and Racism"
-csa.16.d:0 "What sounded like a simple proposition during the revolution, that of abolishing segregation, has run into numerous potholes. Starting with the debate over whether union membership fees were inherently discriminatory towards black workers. Evidence on both sides appears inconclusive, and most of the unions that were rejected from the Constitutional Convention have protested in favor a maximum union membership fee. These protesters claim to be discriminated against based on their race by the openly anti-racist IWW. Then came the union Congressmen from the newly liberated states, who are protesting that forcing integration is a violation of their union rights to collectively bargain. Ultimately the IWW have persevered in Congress, and publicly shamed the new Congressmen and protesters as reactionaries."
-csa.16.a:0 "We shall not give in to more racists in disguise!"
+csa.16.t:0 "조합비와 인종주의 논쟁“
+csa.16.d:0 "혁명 기간 동안 듣기에는 쉬워 보이는 인종차별주의 정책 폐지는 수많은 문제에 부닥치고 말았습니다. 가장 먼저 흑인 노동자들 사이에서 조합비를 내는 것이 인종 차별적인지에 대한 논쟁이 일어났습니다. 양쪽이 모두 팽팽하게 대립하는 가운데, 재헌 회의에서 거부당한 대부분의 노조들은 조합비를 내는 것을 선호하며 이를 지지하기 위한 시위를 시작했습니다. 자신들이 자신들의 인종으로 인해 반 인종적인 IWW에게 차별을 받는다고 주장하며 새롭게 해방된 주에서 온 노조에게 통합을 강요하는 것은 그들의 교섭권을 침해하는 것이라고 주장했습니다. 최종적으로 IWW는 의회에서 인내심을 가지고 공개적으로 그 노조원들과 시위자들을 망신시켰습니다.“
+csa.16.a:0 "우리는 변장한 인종주의자들에게 굴복하지 않을 것이다!“
 
 csa.17.t:0 "The Rise of Women-Only Unions"
 csa.17.d:0 "Since the revolution, more and more women are entering into politics and technical fields. While in certain states the transition to womens' liberation has gone smoothly, in other places the wave is impeded. A national poll has shown the number of womens-only unions have quadrupled in the past year. When interviewed, these Womens-Only Unions claim persistent systematic discrimination in the fields of science and civil service. In the aftermath of this release, the planned Womens' Caucus was canceled, as the nation begins to debate the ethical application of womens liberation. [CSA.GetLeader] has settled the debate by decrying both Womens-Only Unions and the systematic discrimination, arguing that 'there are people to blame on both sides for discrimination'."
