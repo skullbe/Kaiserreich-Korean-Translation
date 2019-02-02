@@ -26,7 +26,7 @@ NEE_national_populist_party_long:0 "미국제일당"
 NEE_limited_recognation1:0 "미승인국"
 NEE_labor_relations2:0 "노동관계법"
 NEE_labor_relations1:0 "노동관계법"
-NEE_american_capitalism_idea:0 "미국 자본주의"
+NEE_american_capitalism_idea:0 "미국식 자본주의"
 NEE_canadian_advisors_idea:0 "캐나다 고문단"
 NEE_F4U_Corsair:0 "커티스 P-40 워호크 계획"
 NEE_Gem_of_the_Ocean:0 "파도 밑"
@@ -41,9 +41,9 @@ NEE_prop_production_idea:0 "뉴잉글랜드인 파괴"
 NEE_marine_corps:0 "뉴잉글랜드 해군"
 
 ### Opinion Modifiers ###
-occupied_new_england:0 "뉴잉글랜드는 외세 치하에 있습니다."
-NEE_left_driving:0 "좌파의 길"
-NEE_right_driving:0 "우파의 길"
+occupied_new_england:0 "외세의 치하에 놓인 뉴잉글랜드"
+NEE_left_driving:0 "좌파적 성향"
+NEE_right_driving:0 "우파적 성향"
 
 ### Tooltips ###
 NEE_freedom_fliers_tt:0 "Unlocks £decision_icon_small §HDecisions§! to §YDrop Propaganda§! behind enemy lines\n"
@@ -76,59 +76,59 @@ NEE_united_america:0 "America is united"
 
 ### Decisions ###
 #Entente Allies
-NEE_entente_allies:0 "Supporting the Entente"
-NEE_entente_allies_desc:0 "Our ties to Canada means we are a member of the Entente - whether we like it or not. The British have a great deal of experience and technology, however, which we can use to considerable advantage - though the more we do so, the more we lose legitimacy as a separate and distinct government."
+NEE_entente_allies:0 "협상국을 지지하다"
+NEE_entente_allies_desc:0 "캐나다와의 유대 관계는 우리가 좋든 싫든 간에 협상국의 회원일 수밖에 없다는 것을 의미합니다. 영국인들은 많은 경험과 뛰어난 기술력을 가지고 있으며, 우리는 이들에게서 혜택을 받아 상당한 이익을 얻을 수 있습니다 - 다만 우리가 그들에게 의존할수록, 우리는 독립적이고 분명한 정부로서의 정통성을 잃어가게 될 것입니다."
 
-NEE_invite_canadian_advisors:0 "Invite Canadian Advisors"
-NEE_entente_military_training:0 "Joint Military Training"
-NEE_entente_naval_training:0 "Joint Naval Training"
-NEE_Purchase_Weapons:0 "Purchase Canadian Small Arms"
-NEE_Purchase_Planes:0 "Purchase Canadian Fighters"
+NEE_invite_canadian_advisors:0 "캐나다 고문관 초청"
+NEE_entente_military_training:0 "합동 육군 훈련"
+NEE_entente_naval_training:0 "합동 해군 훈련"
+NEE_Purchase_Weapons:0 "캐나다산 보병 화기 도입"
+NEE_Purchase_Planes:0 "캐나다산 전투기 도입"
 
 #Reclaiming America
-NEE_reclaiming_america:0 "Reclaiming America"
-NEE_reclaiming_america_desc:0 "The Liberty Bell still rings in Boston even as other parts of our fair nation have torn themselves Asunder. Ever since the Canadian intervention which created our provisional government, we have hoped for democracy to win out in the civil war. If that is not the case, then we must steel ourselves to carry the torch for freedom, as the last vestige of democratic America."
+NEE_reclaiming_america:0 "미국 재주장"
+NEE_reclaiming_america_desc:0 "우리 나라의 다른 부분들이 산산이 찢어져 싸우고 있지만, 자유의 종은 이곳 보스턴에서 여전히 울리고 있습니다. 캐나다 정부의 개입과 임시 정부의 수립 이후, 우리는 민주주의 세력이 내전에서 승리하기만을 줄곧 바라왔습니다. 만약 그렇지 않다면, 민주적인 미국의 마지막 혈육으로서 우리가 직접 자유의 성화를 들고 찾아갈 것입니다."
 
-NEE_claim_usa_territory:0 "Claim the Mantle of Free America"
-NEE_claim_usa_territory_desc:0 "Democratic America has fallen. It now falls on us to claim what is left. For Freedom and the United States!"
-NEE_liberate_states:0 "Liberate [From.GetNameDef]"
-NEE_liberate_states_desc:0 "As the keeper of American democracy, it falls upon us to take the fight to [From.GetNameDef]!"
+NEE_claim_usa_territory:0 "자유 미국으로서의 역할을 자처하다"
+NEE_claim_usa_territory_desc:0 "미국의 민주주의가 무너졌습니다. 그들이 남긴 유지를 물려받는 것은 우리에게 달려 있습니다. 자유와 미국을 위하여!"
+NEE_liberate_states:0 "[From.GetNameDef] 해방"
+NEE_liberate_states_desc:0 "미국 민주주의의 수호자로서, [From.GetNameDef]을 무너뜨리는 희망은 오로지 우리에게 달려 있습니다!"
 
 #Defence Stratagem A
-NEE_Defence_of_New_England:0 "Defence Stratagem A"
-NEE_Defence_of_New_England_desc:0 "Our worst fears have come to be as the American Civil War is tearing up the nation from the coasts on the Pacific to the Texan oilfields to the smoking factories of the Great Lakes. We have only succeeded in escaping from the terror by the grace of the British Empire but even our future looks troubled as it is only a matter of time before the ideologically clashing blocs of the South look Northwards, ready to take back what they see as their rightful land.\n\nIt is for them that we must be prepared and defence systems must be created from the Hudson River to the streets of Boston. We may look weak on paper, but it will take every last drop of real American blood to take us down."
+NEE_Defence_of_New_England:0 "방위 계획 A"
+NEE_Defence_of_New_England_desc:0 "태평양의 연안에서, 텍사스의 유전에서, 오대호의 공장까지. 미국 내전이 전 국토를 휩쓸고 있는 가운데 우리는 최악의 상황을 상정해두지 않으면 안 됩니다. 우리는 대영제국의 호의 덕분에 이 참극으로부터 간신히 벗어났지만, 이념적으로 충돌하고 있는 남쪽의 세력들이 그들끼리의 싸움을 정리하고 본인들의 '정당한 영토'를 수복하기 위해 북쪽의 우리를 침공하는 것은 시간 문제일 뿐이며, 우리의 미래는 벼랑 끝에 서 있습니다.\n\n우리는 언제나 준비되어 있어야 하고, 그들의 침공을 대비해 허드슨 강에서부터 시작해 보스턴의 거리까지 이어지는 방어선을 구축해야만 합니다. 우리가 종잇장처럼 약해 보일 지도 모르겠지만, 우리를 쓰러뜨리려면 여기 진정한 정통 미국인들을 마지막 한 명까지 상대해야만 할 것입니다."
 
-NEE_air_defence_of_the_territory:0 "Deploy the Anti-Air Defence System"
-NEE_air_defence_of_the_territory_desc:0 "Modern War has shown the value of an airforce and the massive destruction it can cause upon the armies of old. Whilst we are desperately trying to keep in the air race, our industrial facilities are far smaller than those of our enemies which has prompted High Command to focus instead on the creation of an elaborate Anti-Air defence system capable of nullifying the air superiority of our opponents."
+NEE_air_defence_of_the_territory:0 "대공 방어 체계 구축"
+NEE_air_defence_of_the_territory_desc:0 "현대전은 공군이 가진 가치와 그들이 구식 군대에 안겨줄 수 있는 거대한 파괴력을 증명했습니다. 비록 필사적으로 공군력의 균형을 유지하기 위해 노력하고는 있지만, 우리가 가진 산업력은 적보다 훨씬 미약하기에 분명 무리가 있을 것입니다. 따라서 우리는 적들이 가진 우월한 공군력을 상쇄시킬 수 있는 정교한 대공 방어 체계를 구축하는 데 초점을 두기로 했습니다."
 
-NEE_hudson_line:0 "Fortify the Hudson Line"
-NEE_hudson_line_desc:0 "Flowing down towards the great city of New York, the Hudson river is of great value to any would be defender. Placing §YBunkers§! on its river banks may prove to be of great value in stopping the Southern threat."
+NEE_hudson_line:0 "허드슨 강에 1차 방어선 구축"
+NEE_hudson_line_desc:0 "거대한 도시, 뉴욕으로 흘러내려가는 허드슨 강은 방어에 있어 매우 가치있습니다. 이 강을 따라 §Y벙커§!를 건설한다면 추후 있을지 모를 침공에서 분명 이들이 크나큰 역할을 할 것입니다."
 
-NEE_connecticut_line:0 "Fall back to the Connecticut River"
-NEE_connecticut_line_desc:0 "Whilst our main defence line lies on the Hudson river, one must always prepare for the unforeseen and as such we should consider creating a line of equal strength behind the Connecticut River. They may have gotten the better of us at the Hudson, but their offence stops here!"
+NEE_connecticut_line:0 "코네티컷 강에 2차 방어선 구축"
+NEE_connecticut_line_desc:0 "우리의 주요 방어선은 허드슨 강에 있지만, 우리는 항상 예측할 수 없는 사태에 대비해야만 합니다. 따라서 동일한 강도의 방어선을 코네티컷 강에 하나 더 구축하는 사안을 진지하게 고려해봐야 하겠습니다. 적들이 허드슨 강에서 우리를 밟고 진격할 지 몰라도, 그들의 범죄는 이곳에서 멈춥니다!"
 
-NEE_boston_last_stand:0 "Our Last Stand"
-NEE_boston_last_stand_desc:0 "The rivers have been breached and enemy troops are flooding the New Englander countryside. Boston still stands yet general evacuation of its civilian population has already been decreed. "It may seem that the war is turning against us, but the men and women of Boston shall not go gently into the night. We are the last bastion of American democracy; their last hope and it is here that this madness stops!""
-NEE_last_stand_tt:0 "3 Divisions of §GNew Englander Volunteers§! will spawn in §YBoston§! to defend the city\n"
+NEE_boston_last_stand:0 "우리의 최후의 저항"
+NEE_boston_last_stand_desc:0 "강이 돌파당했고 적군이 뉴잉글랜드 외곽 지역에 범람하고 있습니다. 보스턴은 아직 건재하지만, 이곳에서도 일반 시민들의 대피가 이미 결정되었습니다. "우리의 패색이 짙습니다. 하지만 보스턴 시민 여러분! 결코 조용히 밤을 보내서는 안 됩니다. 우리는 미국 민주주의의 마지막 보루입니다. 민주주의의 마지막 희망과 이 광기의 끝이 바로 여기에 달려 있습니다!""
+NEE_last_stand_tt:0 "도시를 지키기 위해 자원한 3개의 §G뉴잉글랜드인 자원병 사단§! 이 §Y보스턴§!에서 생성됩니다\n"
 
 #Sway Public Opinion
-NEE_Sway_Public_Opinion:0 "Establishing Legitimacy"
-NEE_Sway_Public_Opinion_desc:0 "We are a government that has been put into place by a foreign power - and thus many are keen to disregard our right to exist, or to call us traitors for not weighing in on the civil war raging in the rest of the nation. We must combat the opinion that we serve British interests rather than American citizens, and that involves changing attitudes at home. Failure to do so means the eventual dissolution of our government once the civil war is finished - or worse.\n\nCurrent Legitimacy :  §G[?NEE.NEE_legitimacy]§!"
+NEE_Sway_Public_Opinion:0 "정통성 확립"
+NEE_Sway_Public_Opinion_desc:0 "우리는 해외 열강에 의해 형성된 정권입니다 - 때문에 많은 이들이 우리를 승인하지 않거나, 아예 내전에서 떨어져나온 반란군들로 규정합니다. 우리는 미국 시민들보다 영국의 이익을 더 위한다는 세간의 시각에 맞서야만 합니다. 그리고 여기에는 국내의 태도를 바꾸는 것도 포함됩니다. 그렇게 하지 못한다면 내전의 종식과 동시에 우리 정부의 궁극적인 붕괴를 목도하게 될 것입니다 - 아니면 더 나쁘거나.\n\n현재의 정부 정통성 :  §G[?NEE.NEE_legitimacy]§!"
 
-NEE_national_propaganda_campaign:0 "Organise a Propaganda Campaign"
-NEE_national_propaganda_campaign_desc:0 "Billboards, Radio Commercials, Newspaper Ads and much more, all will be pushed down the people’s throats in the hopes of conveying our message."
+NEE_national_propaganda_campaign:0 "선전 캠페인 조직"
+NEE_national_propaganda_campaign_desc:0 "우리는 광고판, 라디오 광고, 신문 광고 등 모든 것을 동원해 우리가 전달하고자 하는 희망으로 국민들의 머릿속을 채울 것입니다."
 
-NEE_presidential_goodwill_tour:0 "Hold a Presidential Goodwill Tour"
-NEE_presidential_goodwill_tour_desc:0 "Even as our propaganda ministry works around the clock, the man on the street remains unconvinced that actual power is wielded in Boston and sees the "president" as nothing more than a Canadian sock puppet happily following all orders from Ottawa. By touring the president and the elected cabinet around New England we hope to further convince the people that their real president and leader is very much [NEE.GetLeader]"
+NEE_presidential_goodwill_tour:0 "대통령 순방 실시"
+NEE_presidential_goodwill_tour_desc:0 "우리 선전부가 24시간 내내 애쓰고 있음에도 불구하고, 거리의 사람들은 여전히 사실 보스턴의 실질적인 권력은 오타와가 쥐고 있으며 "대통령"은 그저 오타와로부터의 모든 명령을 기쁘게 따르는 캐나다의 꼭두각시가 아닌 지 의심하고 있습니다. 따라서 대통령과 신임 내각진들은 뉴잉글랜드 전역을 순방하며 국민들과 소통할 것입니다. 이것으로 국민들이 조금이나마 [NEE.GetLeader]를 진짜 대통령으로 여겨주기를 기대해 봅시다."
 
-NEE_bribe_foreign_press:0 "'Motivate' the Foreign Press"
-NEE_bribe_foreign_press_desc:0 "Journalists from all sides of the world keep having this annoying habit of reporting news within our nation as matters of the 'New Englander' state with socialist-aligned papers even going so far as calling us the Canadian Province of New England. This will no longer do for we will not be trifled with and they shall soon recognise that the only true American nation is ours. For now, however we'll have to be content with sliding some money towards the largest troublemakers and politely requesting that they call us the United States of America."
+NEE_bribe_foreign_press:0 "해외 언론 '설득'"
+NEE_bribe_foreign_press_desc:0 "세계 각지의 기자들은 우리의 국가를 '뉴잉글랜드', 우리를 '뉴잉글랜드인'이라고 뉴스에 보도하는 짜증나는 습관을 가지고 있습니다. 이는 참을 수 없는 횡포이며 그들은 언젠가 진정한 미국이 바로 우리라는 것을 인정할 수 밖에 없을 것입니다. 하지만 지금으로써는 가장 대표적인 언론사들에게 돈을 조금 쥐어주고 그들에게 우리를 '미국'이라 불러달라고 정중하게 요청하는 것에 일단 만족합시다."
 
-NEE_foreign_representation:0 "Increase Foreign Representation in R&D"
-NEE_foreign_representation_desc:0 "The war may be raging harder than ever before but American scientists are still working in the labs and engineering facilities of the Ivy League universities. Let's make it clear that [Root.GetNameDef] has the wherewithal to innovate and stand on its own among the world leaders."
+NEE_foreign_representation:0 "연구개발 분야에서의 세계적 위치 확립"
+NEE_foreign_representation_desc:0 "내전이 그 어느 때보다도 더 치열해지는 와중에도, 미국의 과학자들은 여전히 아이비리그 대학의 연구소와 공학 시설에서 일하는 데 여념이 없습니다. [Root.GetNameDef]가 세계를 주도하는 열강들 사이에서도 혁신적이고 자립할 수 있음을 확실히 해 둡시다."
 
-NEE_labour_relation_act:0 "Pass the Labour Relation Act"
-NEE_labour_relation_act_desc:0 "A key source of the chaos to the south was the unmitigated exploitation of the working class by the elite. We need to avoid this occurring here by protecting workers' rights"
+NEE_labour_relation_act:0 "노동관계법 통과"
+NEE_labour_relation_act_desc:0 "남쪽에서 일어나고 있는 내전의 주요 원인은 엘리트들의 무분별한 노동계급 착취였습니다. 우리는 노동자들의 권리를 보호함으로써 저런 사태를 예방하도록 합시다."
 
 #Freedom Fliers
 NEE_Dropping_Propaganda:0 "The 'Freedom Fliers'"
@@ -187,40 +187,40 @@ NEE_america_national_populist_DEF:0 "미합중국"
 
 ### FOCUS TREE ###
 NEE_Legitimate_America:0 "미국의 가장 어두운 시간"
-NEE_Legitimate_America_desc:0 "다른 미국들의 전쟁과 함께, 뉴잉글랜드는 혼란의 폭풍 속에서 간신히 안전한 항구가 되었습니다. 우리는 임시정부가 그들의 자유와 안전을 위한 유일한 희망이라는것을 알려야 합니다."
+NEE_Legitimate_America_desc:0 "미국의 다른 지역들이 대혼란에 휩싸인 와중, 뉴잉글랜드는 이 혼란의 폭풍 속에서 간신히 안전한 피난처가 되었습니다. 우리는 이 임시정부가 그들의 자유와 안전을 위한 유일한 희망이라는 사실을 널리 알려야만 합니다."
 
 NEE_Land_of_the_Free:0 "자유의 땅"
-NEE_Land_of_the_Free_desc:0 "'그대들의 자유로움의 나라!\n내 아버지와 조상들이 죽은 땅!\n순례자의 자랑스러운 땅!\n모든 산허리에서!\n자유를 외치자!'"
+NEE_Land_of_the_Free_desc:0 "'그대들의 자유의 나라!\n내 아버지와 조상들이 죽은 땅!\n순례자의 자랑스러운 땅!\n모든 산허리에서!\n자유를 외치자!'"
 
 NEE_Reassure_Financial_Institutions:0 "금융 기관 안정화"
 NEE_Reassure_Financial_Institutions_desc:0 "많은 다국적 기업이 미국에 대한 투자를 잃는 것을 두려워합니다. 우리는 적어도 뉴잉글랜드는 사업을 하고 이윤을 남기기에는 안전한 곳이라고 그들을 안심시켜야 합니다."
 
 NEE_International_Recognition:0 "국제적 지지 확보"
-NEE_International_Recognition_desc:0 "어떤 사람들은 우리 정부가 국민의 복지보다는 이익에 관심이 더 많고, 캐나다의 지지를 받는것으로만 존속한다고 볼 수 있습니다. 우리는 진정한 정부로써 세상에 우리를 보여야 합니다. 일단 내전이 끝나면 일어나는 일은 완전히 다른 문제입니다."
+NEE_International_Recognition_desc:0 "어떤 이들은 우리 정부를 국민의 복지보다는 이익에 관심이 더 많고, 캐나다의 지지로 간신히 존속하는 괴뢰정권으로 여기고 있습니다. 우리는 진정한 정부로써 세상에 우리를 보여야 합니다. 일단 내전이 끝나면 일어나는 일은 완전히 다른 문제입니다."
 
-NEE_Townhall_Democracy:0 "시청 민주주의"
-NEE_Townhall_Democracy_desc:0 "민주주의는 지역적 차원에서 가장 잘 작동합니다. 우리는 지금같은 혼란의 시기에서도 사람들이 민주주의에 참여할 수 있고 임시정부가 그들의 목소리를 듣는것처럼 느낄 수 있도록 보장해야 합니다."
+NEE_Townhall_Democracy:0 "지역 민주주의"
+NEE_Townhall_Democracy_desc:0 "민주주의는 지역적 차원에서 가장 잘 작동합니다. 우리는 지금같은 혼란의 시기에서도 사람들이 민주주의에 참여할 수 있고 임시정부가 그들의 목소리를 듣고 있다는 사실을 느낄 수 있도록 보장해야 합니다."
 
-NEE_Public_Opinion_Support:0 "흔들리는 민심"
-NEE_Public_Opinion_Support_desc:0 "영화, 노래, 예술 그리고 전통적인 선전 방식을 통해, 우리는 미국 시민들이 가장 많은 이익을 얻도록 통치하고 직무를 수행할 임시 정부에 대한 자신감을 확립할 것 입니다."
+NEE_Public_Opinion_Support:0 "민심 확보"
+NEE_Public_Opinion_Support_desc:0 "영화, 노래, 예술 그리고 전통적인 선전 방식을 통해, 우리는 미국 시민들을 최우선으로 통치하고 직무를 수행할 임시정부에 대한 지지를 확보할 것입니다."
 
 NEE_Home_of_the_Brave:0 "용기의 고향"
-NEE_Home_of_the_Brave_desc:0 "우리 군대는 자랑스러운 시민군에 의해 방어되는 작지만 강력한 국가인 고대 아테네의 군대와 같은 모습을 하고 있습니다. 그것은 협상국의 자랑이며, 우리를 마지막 승리로 이끌 것 입니다."
+NEE_Home_of_the_Brave_desc:0 "우리 군대는 자랑스러운 시민군에 의해 방어되는 작지만 강력한 국가인 고대 아테네의 군대와 같은 모습을 하고 있습니다. 이들은 협상국의 자랑이며, 우리를 마지막 승리로 이끌 것입니다."
 
 NEE_Declare_Independence:0 "자치 요구"
-NEE_Declare_Independence_desc:0 "뉴잉글랜드 임시정부는 캐나다에 의해 만들어졌습니다. 하지만 우리는 이제 자립할 때가 되었습니다. 캐나다가 개입한 이유가 그들이 제안한 것이 아니고 더 사악한 목적을 가지고 있는게 아니라면...?"
+NEE_Declare_Independence_desc:0 "뉴잉글랜드 임시정부는 캐나다에 의해 수립되었습니다. 하지만 우리는 이제 자립할 때가 되었습니다. 캐나다에게 더 사악한 목적이 있었던 것이 아니라면 말입니다...?"
 
 NEE_Battleline_of_Freedom:0 "자유의 전선"
-NEE_Battleline_of_Freedom_desc:0 "우리는 역사에 둘러싸여 있습니다. 혁명의 첫 총성이 울린 렉싱턴과 콩코드의 전장에서 보스턴의 성당까지. 우리는 미국 민주주의의 발상지로써 우리의 과거를 소중히 여기고 기념해야 합니다. 그 국경은 뉴욕주에 그려져 있고 우리는 우리의 영토 바깥 남쪽의 이념의 양극단을 유지하기 위해 최선을 다할 것 입니다."
+NEE_Battleline_of_Freedom_desc:0 "우리는 역사에 둘러싸여 있습니다. 혁명의 첫 총성이 울린 렉싱턴과 콩코드의 전장에서 보스턴의 성당까지. 우리는 미국 민주주의의 발상지로써 우리의 과거를 소중히 여기고 기념해야 합니다. 우리는 영토 남쪽의 우리와 정반대되는 이념을 가진 이들로부터 우리 국경인 뉴욕주를 유지하기 위해 최선을 다할 것입니다."
 
 NEE_Safeguard_Democracy:0 "민주주의 수호"
 NEE_Safeguard_Democracy_desc:0 "'자유를 어떤 일시적인 안보와 맞바꾸는 자는 자유도 안보도 받을 자격이 없다.' - 밴저민 프랭클린"
 
 NEE_WASP:0 "WASP 구축"
-NEE_WASP_desc:0 "미국 페미니즘의 발상지는 북부 뉴욕 세네카에 있습니다. 우리는 애국적인 여성들이 남성과 마찬가지로 전쟁에 기여할 수 있도록 확실히 해야 합니다. 공군에서 여성을 활용하는 것을 목표로 하는 WASP 이니셔터브는 이미 가능성을 보여주었으며, 그것의 이행은 보잘것 없는 우리 세력에 귀중한 자산으로 작용할 것 입니다."
+NEE_WASP_desc:0 "미국 페미니즘의 발상지는 북부 뉴욕 세네카에 있습니다. 우리는 애국적인 여성들이 남성과 마찬가지로 전쟁에 기여할 수 있도록 확실히 해야 합니다. 공군에서 여성을 활용하는 것을 목표로 하는 WASP 이니셔터브는 이미 가능성을 보여주었으며, 이를 실행한다면 보잘것없는 우리 세력에 귀중한 자산으로 작용할 것입니다."
 
-NEE_US_Navy:0 "미국 해군"
-NEE_US_Navy_desc:0 "불과 몇 척뿐인 배와 더 적은 수의 선원들이 임시정부 통제 하에 있습니다. 우리는 우리의 해상 상황을 살펴볼 필요가 있습니다."
+NEE_US_Navy:0 "미 해군"
+NEE_US_Navy_desc:0 "불과 몇 척뿐인 배와 극소수의 선원들만이 임시정부의 통제 하에 있습니다. 우리는 우리의 해상 상황을 살펴볼 필요가 있습니다."
 
 NEE_Liberty_Ships:0 "리버티선 건조 계획"
 NEE_Liberty_Ships_desc:0 "유럽에서의 전쟁이 불가피하고, 인류 역사상 최대 규모의 해전을 펼치고자 하는 협상국의 야망으로 뉴잉글랜드의 조선소들은 증가하는 협상국의 수요를 맞추기 위해 야근과 철야를 하고 있습니다. 생산량을 늘리기 위해 정부가 중앙집중식 건설계획을 수립하여 이들 조선소의 확장을 유도하고 있습니다."
@@ -229,40 +229,40 @@ NEE_destroyer_effort:0 "구축함 중점"
 NEE_destroyer_effort_desc:0 "구축함들은 잠수함과 공습으로부터 우리의 수송선을 보호할 수 있습니다. 또한 구축함은 빠르고 저렴하게 건조할 수 있습니다. 우리는 즉시 구축함 건조에 나서야 합니다."
 
 NEE_submarine_effort:0 "연어급 잠수함"
-NEE_submarine_effort_desc:0 "이전 포르포이스(Porpoise)급에 비해 엄청난 향상으로, 연어급 잠수함은 믿을 수 있는 추진력으로 21노트를 달성하는 최초의 미국 잠수함급이 될 것이며, 이것은 그들이 지상함대의 표준형 전함을 가지고 운항할 수 있게 할 것 입니다. 11,000 해리 바깥에서도 대서양에서 태평양까지 운항하는 최고의 잠수함이 될 것 입니다."
+NEE_submarine_effort_desc:0 "이전 포어포이스(Porpoise)급에 비해 상당히 향상된, 연어급 잠수함은 믿을 수 있는 추진력으로 21노트를 달성하는 최초의 미국 잠수함급이 될 것이며, 이것은 그들이 지상함대의 표준형 전함을 가지고 운항할 수 있게 할 것입니다. 11,000 해리 바깥에서도 대서양에서 태평양까지 운항하는 최고의 잠수함이 될 것입니다."
 
 NEE_light_cruiser_effort:0 "경순양함 중점"
-NEE_light_cruiser_effort_desc:0 "경순양함은 중거리 해군력에 대한 건전한 투자고, 전체 해군에게도 귀중한 자산이 될 것 입니다"
+NEE_light_cruiser_effort_desc:0 "경순양함은 중거리 해군력에 대한 적절한 투자이며, 협상국 전체의 해군에게도 귀중한 자산이 될 것입니다."
 
 NEE_Colombia_Gem_of_the_Ocean:0 "콜롬비아, 바다의 보석"
-NEE_Colombia_Gem_of_the_Ocean_desc:0 "우리 해군은 비록 가장 강력하지는 않더라도 여전히 뉴잉글랜드의 자랑거리입니다. 우리의 영해는 안전하고 우리와 다른 세계의 무역은 번창합니다."
+NEE_Colombia_Gem_of_the_Ocean_desc:0 "우리 해군은 비록 가장 강력하지는 않더라도 여전히 뉴잉글랜드의 자랑거리입니다. 우리의 영해는 안전하고 우리의 무역은 번영하고 있습니다."
 
 NEE_US_Airforce:0 "뉴잉글랜드 공군"
 NEE_US_Airforce_desc:0 "비록 우리가 군사 작전에서 항공기를 운용한 경험은 없더라도, 세계대전은 전쟁에서 항공기의 중요한 역할을 보여주었습니다. 수년의 지속적인 연구와 개발은 우리 공군의 창설을 이끌었습니다. 비록 전투에서 검증받지는 못했지만, 우리 제조사들은 미국이 세계 최고의 항공기를 보유하고 있으며 앞으로도 항상 보유할 것 이라고 보장해왔습니다."
 
 NEE_Air_Defence_Command:0 "공군방위사령부 설립"
-NEE_Air_Defence_Command_desc:0 "우리 항공기는 훈련할 기지가 필요합니다. 뉴잉글랜드의 험준한 지형이 적당한 장소를 찾는것을 어렵게 만드는 반면에, 웨스트포인트 주변에서 몇몇 지점이 확인되었습니다. 우리는 즉시 건설을 시작해야 합니다."
+NEE_Air_Defence_Command_desc:0 "우리 항공기는 훈련할 기지들이 필요합니다. 뉴잉글랜드의 험준한 지형 때문에 적당한 장소를 찾는 것이 좀 어려웠지만, 웨스트포인트 주변에서 몇몇 지점이 확인되었습니다. 우리는 즉시 건설을 시작해야 합니다."
 
 NEE_Paladin_Fighter:0 "커티스 P-40 워호크"
-NEE_Paladin_Fighter_desc:0 "P-36 호크의 뼈대를 갖춘 단일 좌석의 전투기와 지상공격용으로 설계된 P-40은 성능이 뛰어난 항공기일 뿐만 아니라 모든 지역에서 빠르게 제조되고 전투가 가능합니다."
+NEE_Paladin_Fighter_desc:0 "P-36 호크 기반의 지상공격용으로 설계된 1인승 전투기, P-40은 성능이 뛰어난 항공기일 뿐만 아니라 모든 지역에서 빠르게 생산된 후 즉각적인 전투가 가능합니다."
 
 NEE_B25_Bomber:0 "B-24 폭격기"
-NEE_B25_Bomber_desc:0 "'폭격기는 항상 지나갈 것' 이라는 옛 속담은 더 이상 사실이 아닐 수 있습니다. 우리는 B-24보다 적합한 설계와 현대식 표준을 충족하는 것은 없다고 자신할 수 있습니다."
+NEE_B25_Bomber_desc:0 "'폭격기는 항상 지나갈 것' 이라는 속담은 이제 옛말입니다. 우리는 B-24보다 적합한 설계와 현대식 표준을 충족하는 것은 없다고 자신합니다."
 
 NEE_P51_Mustang:0 "커티스 XP-62"
-NEE_P51_Mustang_desc:0 "커티스 XP-62는 P-40의 후속작으로 최고속도가 448mph, 8x20mm의 무기를 갖춘 미래의 미국 전투기로 설계되었습니다."
+NEE_P51_Mustang_desc:0 "커티스 XP-62는 P-40의 후속 기종으로 최고 속도는 448mph이며, 8x20mm의 무장을 갖춘 미래의 주력 전투기로서 설계되었습니다."
 
-NEE_Flying_For_Freedom:0 "자유를 위해 날다"
+NEE_Flying_For_Freedom:0 "자유를 위한 비행"
 NEE_Flying_For_Freedom_desc:0 "풍선, 비행선, 심지어 우리의 전투기들을 이용하여 프리덤 플라이어스 이니셔티브(the Freedom Fliers initiative) 미국의 나머지 지역에 대해 저항력을 복돋우기 바라며 물리적 전쟁이 아닌 심리적 전쟁을 일으키기 위해 적진 깊숙이 비행하는 임무를 맡아왔습니다."
 
-NEE_ISAC_Equipement:0 "ISAC 무기 대여"
-NEE_ISAC_Equipement_desc:0 "캐나다의 ISAC는 무기 연구 분야에서 진정한 권위로 자리매김했고, 그것의 생산 능력과 기술적 노하우는 여전히 우리를 뒤쳐지도록 만들었습니다. 현대전이 가져올 것 처럼 보이는 어려움에 완강히 홀로 내던져지는 것보다는 그들의 기술로 이익을 보는것이 현명할수도 있습니다."
+NEE_ISAC_Equipement:0 "ISAC에 의존"
+NEE_ISAC_Equipement_desc:0 "캐나다의 ISAC는 무기 연구 분야에서 진정한 권위로 자리매김했고, 이들의 생산 능력과 기술적 노하우는 여전히 우리를 압도합니다. 현대전이 가져올 어려움에 홀로 내던져지는 것보다는 그들의 기술력으로 이익을 추구하는 것이 현명할 수도 있습니다."
 
-NEE_Self_Reliance:0 "홀로서기"
-NEE_Self_Reliance_desc:0 "우리는 캐나다의 괴뢰국이 아닌 아메리카의 국가입니다. 그리고 만약 우리가 언젠가 전쟁을 치룬다면, 기술적으로 우리의 북쪽에 있는 국가에 비해 뒤쳐져있는것을 알게 된다면, 캐나다의 전문지식을 통해 이익을 얻으면서 자기만족을 하는것은 문제를 야기할 수도 있습니다."
+NEE_Self_Reliance:0 "자립"
+NEE_Self_Reliance_desc:0 "우리는 캐나다의 괴뢰국이 아닌 아메리카의 주권 국가입니다. 캐나다의 전문지식에 의존해 이익을 얻으면서 그저 자기만족만 하고 있다가는, 추후 유사시에 캐나다에 비해 심히 뒤처진 이 기술력이 심대한 문제를 야기할 수도 있습니다."
 
 NEE_Infrastructure_Act:0 "기반시설법 제정"
-NEE_Infrastructure_Act_desc:0 "혹독한 겨울과 공공자금의 부족이 우리의 기반시설을 파괴했습니다. 기차는 늦어지고 도로는 여기저기 패여있고 사람들은 분노에 차 있습니다. 인프라에 대한 포괄적인 투자는 사람들을 진정시키고 실업자들을 구제해주는 좋은 사업이 될 것 입니다."
+NEE_Infrastructure_Act_desc:0 "혹독한 겨울과 공공자금의 부족이 우리의 기반시설을 파괴했습니다. 기차는 늦어지고 도로는 여기저기 패여있고 사람들은 분노에 차 있습니다. 인프라에 대한 포괄적인 투자는 사람들을 진정시키고 실업자들을 구제해주는 좋은 사업이 될 것입니다."
 
 NEE_bureau_of_industry:0 "중앙기획국"
 NEE_bureau_of_industry_desc:0 "공공사업은 실업이 극단주의로 향하는 것을 막는 좋은 방법입니다. 그러므로 새로운 중앙기획국은 우리 국민들을 거리가 아닌, 공장과 공사 현장으로 안내하는 중앙 권한을 확실하게 하기 위해 설립되었습니다. 더 나은 내일을 위해!"
@@ -289,7 +289,7 @@ NEE_American_Capitalism:0 "미국 자본주의"
 NEE_American_Capitalism_desc:0 "자본주의는 미국의 생명선입니다. 미국의 나머지 반역자들은 미국을 파괴하려 하고 있고, 그것으로 미국의 삶의 방식을 파괴하려고 합니다. 우리는 무슨 수를 써서라도 자본주의를 보존해야 합니다."
 
 NEE_Smith_and_Wessons:0 "스미스&웨슨 지원"
-NEE_Smith_and_Wessons_desc:0 "1852년에 설립된 소규모 무기 제조업체 스미스&웨슨은 무기 사업에서 뉴잉글랜드 사람들의 천재성을 보여주는 대표적 사례입니다. 추가 자금과 그들의 생산 시설의 확장은 우리 군대가 미국에 대한 그들의 주장을 뒷받침할 충분한 무기를 보유하도록 보장할 것 입니다."
+NEE_Smith_and_Wessons_desc:0 "1852년에 설립된 소규모 무기 제조업체 스미스&웨슨은 무기 사업에서 뉴잉글랜드 사람들의 천재성을 보여주는 대표적 사례입니다. 추가 자금과 그들의 생산 시설의 확장은 우리 군대가 미국에 대한 그들의 주장을 뒷받침할 충분한 무기를 보유하도록 보장할 것입니다."
 
 NEE_Lowel_Munition_Factory:0 "로웰 군수 공장"
 NEE_Lowel_Munition_Factory_desc:0 "무기 제조 업체인 레밍턴을 돕고 전방부대에 탄약을 지속적으로 공급하기 위해 대공황으로 인구의 40%가 일자리를 잃은 메사추세스 로웰 시에 새로운 군수 공장을 건설하는 자금 조달을 위한 계획이 마련되었습다."
@@ -301,16 +301,16 @@ NEE_long_range_patrol:0 "장거리 정찰"
 NEE_long_range_patrol_desc:0 "협상국의 군대와 협력하여, 우리가 천천히 열린 전선을 누르는 대신 적진 한가운데에서 대규모 타격을 가할 수 있는 작지만 강력한 능력에 초점을 맞춰야 한다는 것이 명백해졌습니다."
 
 NEE_marines:0 "미국 해병대"
-NEE_marines_desc:0 "'Semper Fidelis'는 '항상 충성'을 의미합니다. 해병대는 항상 미국의 자유와 민주주의의 보루로 이러한 자유주의를 전세계에 퍼트리는 것에 도움을 줄 것 입니다. 우리는 해병대를 확대하고 해병대가 전세계에 힘을 투사할 수 있도록 해야합니다."
+NEE_marines_desc:0 "'Semper Fidelis'는 '항상 충성'을 의미합니다. 해병대는 항상 미국의 자유와 민주주의의 보루로 이러한 자유주의를 전세계에 퍼트리는 것에 도움을 줄 것입니다. 우리는 해병대를 확대하고 해병대가 전세계에 힘을 투사할 수 있도록 해야합니다."
 
 NEE_Urban_Combat_Training:0 "시가전 훈련"
 NEE_Urban_Combat_Training_desc:0 "뉴욕시의 골목길과 워싱턴DC의 골목길에서도 벌어질 수 있으며, 이것은 평범한 전쟁이 아닙니다. 우리가 정상에 오르기를 원한다면 어떠한 일반적인 전술로도 충분하지 않기에 우리 군대는 이 전선에서 뛰어날 준비가 되어 있어야 합니다."
 
 NEE_Behind_Eneny_Lines:0 "적의 배후에서"
-NEE_Behind_Eneny_Lines_desc:0 "존 브라운과 마찬가지로, 우리는 '다가오는 해방' 이라는 말을 퍼뜨리기 위해 애국자들을 남쪽으로 보낼 것 입니다. 그들은 반란군을 부추기고 사람들을 그들을 지배하는 폭군에 맞서 싸우게 할 것 입니다. 때가 되면, 그들은 잘못된 정부를 무너뜨리는 것을 도울 것 입니다."
+NEE_Behind_Eneny_Lines_desc:0 "존 브라운과 마찬가지로, 우리는 '다가오는 해방' 이라는 말을 퍼뜨리기 위해 애국자들을 남쪽으로 보낼 것입니다. 그들은 반란군을 부추기고 사람들을 그들을 지배하는 폭군에 맞서 싸우게 할 것입니다. 때가 되면, 그들은 잘못된 정부를 무너뜨리는 것을 도울 것입니다."
 
 NEE_Underground_Railroad:0 "지하철 건설"
-NEE_Underground_Railroad_desc:0 "남쪽 정부에 만족하는 사람은 거의 없습니다. 우리 할아버지 세대가 노예제도 시절에 한 것처럼, 우리도 북으로 들어오는 남부의 반역자들에게 박해를 당한 사람을 도울 것 입니다."
+NEE_Underground_Railroad_desc:0 "남쪽 정부에 만족하는 사람은 거의 없습니다. 우리 할아버지 세대가 노예제도 시절에 한 것처럼, 우리도 북으로 들어오는 남부의 반역자들에게 박해를 당한 사람을 도울 것입니다."
 
 NEE_Enfield_Imports:0 "엔필드 소총 수입 계획"
 NEE_Enfield_Imports_desc:0 "우리 공장은 가능한 한 빨리 무기를 생산하고 있지만, 전투의 규모만으로도 낡은 무기 비축량을 압도합니다. 우리가 돈을 지불한다면 협상국의 무기 비축분을 얻을 수 있을겁니다. 돈만 낸다면..."
