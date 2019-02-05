@@ -54,13 +54,13 @@ NEE_Underground_Railroad_tt:0 "§YRefugees§! and §YResources§! will be smuggl
 NEE_Public_Opinion_Support_tt:0 "Unlocks £decision_icon_small §HDecisions§! to sway §YPublic Opinion§! on the Home Front"
 NEE_ISAC_Equipement_tt:0 "Unlocks £decision_icon_small §HDecisions§! to purchase §YEntente Weaponry§! and increase §YInternational Research Collaboration§!"
 
-NEE_legitimacy_minus_5_tt:0 "Decreases our §YLegitimacy§! by §R5§!"
-NEE_legitimacy_minus_10_tt:0 "Decreases our §YLegitimacy§! by §R10§!"
+NEE_legitimacy_minus_5_tt:0 "우리의 §Y정통성§!이 §R5§!만큼 감소합니다"
+NEE_legitimacy_minus_10_tt:0 "우리의 §Y정통성§!이 §R10§!만큼 감소합니다"
 
-NEE_legitimacy_plus_1_tt:0 "Increases our §YLegitimacy§! by §G1§!"
-NEE_legitimacy_plus_3_tt:0 "Increases our §YLegitimacy§! by §G3§!"
-NEE_legitimacy_plus_5_tt:0 "Increases our §YLegitimacy§! by §G5§!"
-NEE_legitimacy_plus_7_tt:0 "Increases our §YLegitimacy§! by §G7§!"
+NEE_legitimacy_plus_1_tt:0 "우리의 §Y정통성§!이 §G1§!만큼 증가합니다"
+NEE_legitimacy_plus_3_tt:0 "우리의 §Y정통성§!이 §G3§!만큼 증가합니다"
+NEE_legitimacy_plus_5_tt:0 "우리의 §Y정통성§!이 §G5§!만큼 증가합니다"
+NEE_legitimacy_plus_7_tt:0 "우리의 §Y정통성§!이 §G7§!만큼 증가합니다"
 
 NEE_A11_Mathilda_tt:0 "§Y150§! units of Canadian §YVickers A11 'Mathilda'§! is added to the national stockpile\n"
 
@@ -331,7 +331,7 @@ NEE_A11_Mathilda:0 "A11 마틸다 협력"
 NEE_A11_Mathilda_desc:0 "대영제국의 기술자들과 과학자들은 오랫동안 새로운 기계화 전쟁 방법을 실험해왔고, 제국 전체에 의한 공동 전차 개발 계획은 소위 'A11 마틸다 탱크'를 설계하기 위해 힘을 합쳤습니다. 우리가 전차 개발에 대해 아는것은 부족하지만, 그들은 우리에게 이 새로운 자동차를 디자인하고 만드는데 참여할 기회를 주었습니다."
 
 NEE_Arsenal_of_Democracy:0 "민주주의의 병기창"
-NEE_Arsenal_of_Democracy_desc:0 "연기가 자욱한 버팔로의 공장에서 로드아일랜드와 코네티컷의 항구까지 우리의 군사산업단지는 세계 무대의 진정한 주역이며 생디칼리즘의 위협으로부터 유럽을 자유롭게 할 무기가 될 것입니다."
+NEE_Arsenal_of_Democracy_desc:0 "연기가 자욱한 버팔로의 군수공장에서, 로드아일랜드와 코네티컷의 조선소까지. 우리의 군사 산업 단지는 세계 무대의 진정한 주역이며 생디칼리즘의 위협으로부터 유럽을 자유롭게 할 병기창이 될 것입니다."
 
 naval_bomber_research:0 "§Y해군 폭격기§! 연구 시간"
 fighter_research:0 "§Y전투기§! 연구 시간"
@@ -341,20 +341,20 @@ ss_tech_research:0 "§Y잠수함§! 연구 시간"
 ### Setting up New England ###
 
 newengland.1.t:0 "뉴잉글랜드 점령"
-newengland.1.d:0 "미국 내전의 발발은 뉴잉글랜드 지역에 대한 경비를 허술하게 만들었습니다. 만약 우리가 빠르게 그 지역을 확보한다면 우리는 동부 지역의 약점을 보완하고 적대적인 남부 세력으로부터의 침략에 대항하여 우리의 입지를 강화할 수 있을 것입니다. 뉴잉글랜드는 미국 정부에 의해 거의 버려졌고, 뉴잉글랜드 친척들은 우리를 환영할 것으로 예상됩니다."
+newengland.1.d:0 "미국 내전의 발발으로 뉴잉글랜드 지역에 대한 경계가 허술해졌습니다. 만약 우리가 빠르게 그 지역을 확보한다면 우리는 동부 지역의 약점을 보완하고 적대적인 남부 세력으로부터의 침략에 대항하여 우리의 입지를 강화할 수 있을 것입니다. 뉴잉글랜드는 미국 정부에 의해 거의 버려졌고, 따라서 뉴잉글랜드의 우리 친척들은 우리를 환영할 가능성이 큽니다."
 newengland.1.a:0 "뉴잉글랜드를 확보하라!"
 newengland.1.b:0 "너무 위험하다..."
 
 newengland.2.t:0 "캐나다가 뉴잉글랜드를 점령하다"
-newengland.2.d:0 "미국 내전의 발발에 대응하여, 캐나다 군대가 뉴잉글랜드로 진격했습니다. 그들은 이것이 내전으로부터 무고한 생명을 보호하기 위해서라고 주장하지만, 우리 정부 구성원들은 캐나다가 [CSA.GetNameDef]가 내전에서 승리할 것을 대비해 뉴잉글랜드 지역을 장악한 것으로 파악하고 있습니다. 어쨌든 캐나다는 미국 정부 또는 자국민 둘 중 어느 쪽과도 상의할 의사가 없고 우리의 주권이 완전히 침해된 것이 분명합니다."
-newengland.2.a:0 "이것은 전쟁 행위다"
-newengland.2.b:0 "우리는 나중에 행동한다"
+newengland.2.d:0 "미국 내전의 발발에 대응하여, 캐나다군이 뉴잉글랜드로 진격했습니다. 그들은 이것이 내전으로부터 무고한 생명을 보호하기 위해서라고 주장하지만, 우리 정부 구성원들은 캐나다가 [CSA.GetNameDef]가 내전에서 승리할 것을 대비해 뉴잉글랜드 지역을 장악한 것으로 파악하고 있습니다. 어쨌든 캐나다는 미국 정부 또는 자국민 둘 중 어느 쪽과도 상의할 의사가 없으며, 이는 의심의 여지없이 우리에 대한 주권 침해입니다."
+newengland.2.a:0 "적대 행위로 간주하겠다."
+newengland.2.b:0 "나중에 보자."
 
 newengland.3.t:0 "뉴잉글랜드의 공포"
-newengland.3.d:0 "뉴잉글랜드 사람들은 생디칼리즘 세력이 그들의 현관문 바로 앞에 있는 가운데, 미국 정부가 내전을 조기에 끝내지 못할 것이라 두려워하고 있습니다. 캐나다가 개입할 것이라는 작은 희망이 있었지만, 캐나다는 미국 정부를 모욕할 것을 우려하여 개입하지 않을 것으로 보입니다. 따라서 보스턴의 민병대들은 그 지역의 적절한 방어를 구축하고 시도하기 위해 소집되고 있습니다."
+newengland.3.d:0 "뉴잉글랜드 시민들은 생디칼리즘 세력이 그들의 현관문 바로 앞에 있는 가운데, 미국 정부가 내전을 조기에 끝내지 못할 것이라 두려워하고 있습니다. 캐나다가 개입할 것이라는 작은 희망이 있었지만, 캐나다는 미국 정부를 격분케할 것을 우려하여 개입하지 않을 것으로 보입니다. 따라서 보스턴의 민병대들이 해당 지역의 적절한 방어책을 구축하기 위해 소집되고 있습니다."
 newengland.3.a:0 "우리가 할 수 있는 한 도와주자"
 newengland.3.b:0 "캐나다가 무슨 방식으로든 개입하도록 조용히 촉구하자..."
-CAN_goes_ahead_with_int:0 "캐나다는 미국 영토에 개입할 것이다..."
+CAN_goes_ahead_with_int:0 "캐나다가 미국 영토에 발을 들일 빌미가 생깁니다..."
 
 newengland.5.t:0 "우리의 미국"
 newengland.5.d:0 "우리는 '뉴잉글랜드' 라고 알려진 미 동북지방을 장악했습니다. 우리가 장악했으니, 많은 장관들이 임시정부를 수립하기 위해 이들 지도자와 만났습니다. 그들은 우리의 미국이 될 것이고, 내전의 불꽃이 북쪽으로 올라올 경우, 우리는 우리 영향권 내의 국경에서 우리의 동맹을 갖게 될 것입니다. 물론 어떤 사람들은 우리가 직접 그 지역을 통치해야 한다고 주장합니다."
@@ -364,10 +364,10 @@ newengland.5.c:0 "군사 점령을 계속하자"
 
 newengland.6.t:0 "뉴잉글랜드 임시정부"
 newengland.6.d:0 "캐나다와 협상국 덕분에, 우리는 이제 시카고와 뉴욕에서 오는 붉은 위협으로부터 안전합니다. 우리는 미국의 나머지를 해방하기 위해 준비하면서 보스턴에 임시정부를 세웠습니다. 불행하게도, 뉴잉글랜드 안팎에서 우리가 합법적인 미국 정부라고 믿는 사람은 거의 없습니다. 우리는 이 문제를 해결해야 합니다."
-newengland.6.a:0 "나를 밟지 마!"
+newengland.6.a:0 "우리를 무시하지 마라!"
 
 newengland.7.t:0 "미국은 다시 통일되었다"
-newengland.7.d:0 "마침내 미국은 재결합되었습니다. 우리는 바다에서 빛나는 바다까지 다시 한번 기지개를 폈습니다. 미국에 대한 반역자들은 파괴되었고 별들과 줄무니들은 이제 자유가 모든 사람을 위해 보장된다는 것을 알고 해안에서 해안으로 자유롭게 날아다닙니다."
+newengland.7.d:0 "마침내 미국은 재결합되었습니다. 우리는 바다에서 빛나는 바다까지 다시 한번 기지개를 폈습니다. 미국에 대한 반역자들은 파괴되었고 별들과 줄무늬들은 이제 자유가 모든 사람을 위해 보장된다는 것을 알고 해안에서 해안으로 자유롭게 날아다닙니다."
 newengland.7.a:0 "마침내"
 
 ## Focus Tree Events ###
@@ -380,12 +380,12 @@ newengland.10.b:0 "안돼 돌아가"
 newengland.11.t:0 "노동관련법"
 newengland.11.d:0 "경제와 직장의 여건을 개선하는 법안은 이전에 나왔습니다. 소위 노동관련법은 명백히 노동자를 위하는 기업을 돕기 위해 고안되었습니다. 그래서, 그것이 효과가 없다고 믿는 진보적인 의원들의 반발에 직면해 있습니다. 의회가 이 법안을 통과시킬까요?"
 newengland.11.a:0 "통과시켜라"
-newengland.11.b:0 "절대 안 돼"
+newengland.11.b:0 "절대로!"
 
 newengland.12.t:0 "뉴잉글랜드 자치 요구"
 newengland.12.d:0 "뉴잉글랜드 임시정부는 현재 군대와 기반을 수립하고 있으므로 자치를 요구하고 있습니다. 캐나다 정부의 일부 구성원들은 캐나다 정부가 뉴잉글랜드인이 나머지 미국의 혼란을 피하도록 해 주도록 한 것 같지만, 나머지 구성원들은 캐나다의 야망이 미국을 식민지로 만드는 것이 아니라면 '뉴잉글랜드인이 요구하는' 새로운 것을 주지 않을 이유가 없다고 지적합니다."
 newengland.12.a:0 "자치를 줘라"
-newengland.12.b:0 "아니, 뉴잉글랜드는 너무 소중해"
+newengland.12.b:0 "아니, 뉴잉글랜드의 중요성이 너무 크다"
 
 newengland.13.t:0 "캐나다가 동의하다"
 newengland.13.d:0 "캐나다 정부는 우리의 요구에 긍정적으로 답변했습니다. 그들은 우리 정부 기구에 대한 모든 통제권을 포기할 준비가 되었고, 우리와 함께 협상국에서 동등한 일원으로 일하자는 의지를 표했습니다."
@@ -393,12 +393,12 @@ newengland.13.a:0 "고맙다고 전해라"
 
 newengland.14.t:0 "캐나다가 거부하다"
 newengland.14.b:0 "캐나다는 우리가 브리튼 섬을 되찾기에 너무 소중한 자원이라고 생각하는 것 같습니다. 캐나다 정부는 뉴잉글랜드에 자치권을 부여하는 것을 거부했습니다. 가까운 미래에 있어서 그들의 주제는, 뉴잉글랜드 정부의 합법성 문제일 것입니다."
-newengland.14.a:0 "이건 불법이야!"
+newengland.14.a:0 "이건 불법이다!"
 
 newengland.15.t:0 "[From.GetNameDefCap] 독립 선언"
 newengland.15.d:0 "우리가 뉴잉글랜드의 자치를 거부한 이후, 그들이 독립을 선언했습니다! 그들은 협상국에서도 탈퇴했습니다."
 newengland.15.a:0 "알았다..."
-newengland.15.b:0 "아니, 이건 허용될 수 없어!"
+newengland.15.b:0 "아니, 그렇겐 안 된다!"
 
 ### Elections and Primaries ###
 
@@ -432,21 +432,21 @@ newengland.24.b:0 "민주당"
 newengland.24.c:0 "공화당"
 
 newengland.25.t:0 "[GetYear] 자유당 전당대회"
-newengland.25.d.president:0 "[NEE.GetLeader]는 대통령으로서 그의 당에 의해 만장일치로 재신임되었으며 모든 정치적 도전도 피했습니다."
-newengland.25.d.not_president:0 "자유당의 두번째 전당대회에서 새로운 인물들이 [NEE.GetLeader]에 맞서 출마했습니다. 뉴잉글랜드 출신의 두 경쟁자는  Dennis Roberts 주지사와 Peter Gerry 상원의원입니다. 누가 선출될까요?"
-newengland.25.a:0 "Dennis J. Roberts"
-newengland.25.b:0 "Peter G. Gerry"
-newengland.25.c:0 "축하합니다, 대통령 각하!"
+newengland.25.d.president:0 "[NEE.GetLeader]는 대통령으로서 그의 당에 의해 만장일치로 재선에 성공했으며 모든 정치적 도전도 피했습니다."
+newengland.25.d.not_president:0 "자유당의 두번째 전당대회에서 새로운 인물들이 [NEE.GetLeader]에 맞서 출마했습니다. 뉴잉글랜드 출신의 두 경쟁자는 데니스 로버츠 주지사와 피터 개리 상원의원입니다. 누가 선출될까요?"
+newengland.25.a:0 "데니스 J. 로버츠"
+newengland.25.b:0 "피터 G. 개리"
+newengland.25.c:0 "축하드립니다, 대통령 각하!"
 
 newengland.26.t:0 "[GetYear] 공화당 전당대회"
-newengland.26.d.president:0 "[NEE.GetLeader]는 대통령으로서 그의 당에 의해 만장일치로 재신임되었으며 모든 정치적 도전도 피했습니다."
-newengland.26.d.not_president:0 "공화당이 두번째 전당대회에서 새로운 인물들이 [NEE.GetLeader]에 맞서 출마했습니다. 두 명의 주요 경쟁자는 Sherman Adams 뉴햄프셔 주지사와 Robert Bradford 매사추세츠 주지사입니다. 누가 선출될까요?"
-newengland.26.a:0 "Sherman Adams"
-newengland.26.b:0 "Robert F. Bradford"
-newengland.26.c:0 "축하합니다, 대통령 각하!"
+newengland.26.d.president:0 "[NEE.GetLeader]는 대통령으로서 그의 당에 의해 만장일치로 재선에 성공했으며 모든 정치적 도전도 피했습니다."
+newengland.26.d.not_president:0 "공화당이 두번째 전당대회에서 새로운 인물들이 [NEE.GetLeader]에 맞서 출마했습니다. 두 명의 주요 경쟁자는 셔먼 애덤스 뉴햄프셔 주지사와 로버트 브래드포드 매사추세츠 주지사입니다. 누가 선출될까요?"
+newengland.26.a:0 "셔먼 애덤스"
+newengland.26.b:0 "로버트 F. 브래드포드"
+newengland.26.c:0 "축하드립니다, 대통령 각하!"
 
 newengland.27.t:0 "[GetYear] 민주당 전당대회"
-newengland.27.d.president:0 "[NEE.GetLeader]는 대통령으로서 그의 당에 의해 만장일치로 재신임되었으며 모든 정치적 도전도 피했습니다."
+newengland.27.d.president:0 "[NEE.GetLeader]는 대통령으로서 그의 당에 의해 만장일치로 재선에 성공했으며 모든 정치적 도전도 피했습니다."
 newengland.27.d.not_president:0 "[GetYear] 민주당 전당대회는 1940년 광란의 전당대회와 비교하면 다소 조용합니다. Herter 전 주지사는 전당대회 전까지 유력한 경쟁자들을 제거하며 쉽게 공천을 확보했습니다. 누가 선출될까요?"
 newengland.27.a:0 "축하합니다 Herter씨!"
 newengland.27.b:0 "축하합니다, 대통령 각하!"
@@ -511,7 +511,7 @@ newengland.35.b:0 "Thomas C. Hart"
 newengland.35.c:0 "축하합니다, 대통령 각하!"
 
 newengland.36.t:0 "[GetYear] 대통령 선거"
-newengland.36.d:0 "[GetYear] 선거가 끝났습니다. 과반수의 의석과 대통령 직을 얻은 정당은..."
+newengland.36.d:0 "[GetYear] 선거가 끝났습니다. 과반수의 의석과 대통령직을 얻은 정당은..."
 newengland.36.a:0 "자유당"
 newengland.36.b:0 "공화당"
 newengland.36.c:0 "민주당"
@@ -520,12 +520,12 @@ newengland.36.c:0 "민주당"
 
 newengland.40.t:0 "1938년 뉴잉글랜드 대 허리케인"
 newengland.40.d:0 "처음으로 이목을 끌었던 양키 클리퍼 허리케인은 9월 21일 롱아일랜드에 상륙하고 불과 몇 시간 후 1635년 이후 뉴잉글랜드에 상륙한 가장 큰 허리케인으로 판명되었습니다.\n\n롱아일랜드에서 로드아일랜드 코네티컷, 버몬트까지 허리케인으로 인해 700여명의 사망자가 발생했습니다. 57,000채의 가옥이 반파되거나 완파되었고 뉴잉글랜드 전역에 걸친 거미줄같은 도로망을 복구하는데 몇달 혹은 몇년이 걸릴것으로 예상됩니다."
-newengland.40.a:0 "신이여 우리를 보우하소서"
+newengland.40.a:0 "신께서는 우리를 보우하소서"
 
 newengland.41.t:0 "캐나다와의 도로 연결?"
 newengland.41.d:0 "우리가 계속해서 경제를 발전시키고 도로망을 확장함에 따라, 우리가 어느 방향으로 나아가야 하는지에 대한 의문이 제기되었습니다. 미국의 관습은 항상 우측통행이었지만, 1925년 영국 혁명 이후로 캐나다는 좌측통행을 도입했습니다.\n\n일부 정치인들은 우리의 도로망을 캐나다와 더 잘 통합하기 위한 시도로 좌측통행을 제안했지만, 다른 사람들은 우리는 영국이 우리의 주인이 아니라는 것을 상기시키기 위해 우측통행을 요구합니다."
-newengland.41.a:0 "우리는 영국식 모델을 도입할 것이다"
-newengland.41.b:0 "미국 자동차는 자유의 편에서 달린다!"
+newengland.41.a:0 "우리는 영국 방식을 도입할 것이다"
+newengland.41.b:0 "미국 자동차는 미국 방식으로 달린다!"
 
 newengland.42.t:0 "영국 왕실의 뉴잉글랜드 방문"
 newengland.42.d:0 "에드워드 8세와 오클레앙의 부인 이사벨이 뉴잉글랜드와 캐나다간의 관계 개선을 위해 오늘 보스턴에 도착했습니다. 재임 중인 영국 국왕이 보스턴을 방문한것은 역사상 처음 있는 일입니다. 예상한대로, 대영제국의 왕과 여왕을 보기 위해 많은 군중들이 운집했습니다. 또 왕은 뉴잉글랜드의 여러 지도자들과 정치를 논의하기 위해 온 것으로도 알려져 있습니다."
@@ -557,28 +557,28 @@ newengland.54.a:0 "이 좋은 친구에게 감사하자!"
 
 newengland.55.t:0 "미노동연맹의 난민"
 newengland.55.d:0 "미국 내전의 공포가 계속 맹위를 떨치고 있고 그들의 영토로 들어오는 거대한 이동의 물결은 끝이 보이지 않습니다. 지난 달과 마찬가지로 우리의 지하철은 다시 한 번 수천명이 전쟁 난민을 우리의 안전한 항구로 성공적으로 이동시켰습니다."
-newengland.55.a:0 "폭력이 곧 끝나기를 "
+newengland.55.a:0 "폭력이 빨리 끝나기를 바랄 뿐이다"
 
 #TEX
 newengland.56.t:0 "미주 연합으로부터의 난민"
-newengland.56.d:0 "범죄자들이 코네티컷 남쪽의 오솔길을 따라다녀도, 수천명의 사람들은 자신들을 보호해줄 평화로운 곳을 찾기 위해 위험을 감수하고 움직이고 있습니다."
-newengland.56.a:0 "뉴잉글랜드에 오신걸 환영합니다!"
+newengland.56.d:0 "범죄자들이 코네티컷 남쪽을 누비며 그들을 추적해도, 수천명의 사람들은 자신들을 보호해줄 평화로운 곳을 찾기 위해 위험을 감수하고 움직이고 있습니다."
+newengland.56.a:0 "뉴잉글랜드에 온 것을 환영한다!"
 
 newengland.57.t:0 "펠리가 미주 연합을 통제합니다"
-newengland.57.d:0 "휴이 롱이 사실 그보다 더 위험한 인물인 펠리의 꼭두각시였다고 해도, 미국인들은 놀라지 않을 것입니다. 미주 연합 내부의 권력 투쟁은 펠리가 공식적으로 대통령에 취임하면서 끝이 난 거 같습니다. 이미 광범위한 인종차별 정책과 백인들의 기독교 국가를 만들고자 하는 그의 소망이 이루어지기 시작했습니다.\n\n블랙벨트는 지금 두려워하고 있고, 펠리의 추종자로부터 멀리 떨어진 안전한 은신처를 찾는 희망과는 더더욱 동떨어져 있습니다."
+newengland.57.d:0 "휴이 롱이 사실 그보다 더 위험한 인물인 펠리의 꼭두각시였다고 해도, 미국인들은 놀라지 않을 것입니다. 미주 연합 내부의 권력 투쟁은 펠리가 공식적으로 대통령에 취임하면서 끝이 난 것 같습니다. 이미 광범위한 인종차별 정책과 백인들의 기독교 국가를 만들고자 하는 그의 소망이 이루어지기 시작했습니다.\n\n블랙벨트는 지금 두려워하고 있고, 펠리의 추종자로부터 멀리 떨어진 안전한 은신처를 찾는 희망과는 더더욱 동떨어져 있습니다."
 newengland.57.a:0 "우리에게도 그들을 위한 장소는 없다!"
 newengland.57.b:0 "엄격한 난민 쿼터제를 실시해라"
 newengland.57.c:0 "보스턴에서 인종 차별은 없다!"
 
 newengland.58.t:0 "통제되지 않은 이주"
 newengland.58.d:0 "펠리의 반흑인 정책이 아프리카계 미국인들을 겁주어 뉴잉글랜드를 향한 행렬이 순식간에 불어났습니다. 국경경비대는 증가하는 난민과 정부 기관에 보조를 맞출 수 없으며, 구호단체들은 집을 잃은 사람들에게 피난처와 식량을 공급하기 위해 애쓰고 있습니다. 우리는 당장 개입해야 하며, 그렇지 않으면 위험에 처할수도 있습니다.\n\n들어오는 난민 수를 제한하던가, 국경을 봉쇄하는 것 그리고 우리를 향한 압박을 감수하더라도 그들 모두를 받아들이는것 중에서 선택해야 합니다. 구호단체들은 아직 결정된 사안이 없는 이주 정책을 비난하는 정치인들을 비판했지만, 구호단체들도 자원이 점점 부족해지고 홍수 발생 빈도가 점점 늘어난다는 것을 깨닫고 있습니다."
-newengland.58.a:0 "국경을 막아!"
+newengland.58.a:0 "국경을 봉쇄하라!"
 newengland.58.b:0 "우리는 그들의 유일한 희망이다!"
 
 newengland.59.t:0 "뉴잉글랜드 문학상"
-newengland.59.d:0 "문학 수상자의 지위는 몇 년 동안 뉴잉글랜드에서 논의되어 왔습니다. 영화의 흐름과 예술의 형태로 표현되는 대중문화에 반하는 수백명의 예술가의 말뭉치를 대표하는 한 사람. 뉴잉글랜드 의회는 보스턴 아테롬을 임시 의회 도서관으로 사용하는 것과 함께 문학상을 제정하기로 했습니다. 의회 투표에서 가장 유력한 후보는 Robert Frost인데, 그는 뉴잉글랜드가 현대 시에 통달하다는 것을 명백히 보여주었습니다. 그러나 여론 조사 결과는 펄프 소설 작가 H.P Lovecraft를 선호하는 것으로 나타났습니다. 신문에는 Lovecraft가 이 상을 받겠다고 보도되었지만, 시상식에 나타나지 않았습니다. 의회는 곤경에 처해있습니다."
-newengland.59.a:0 "Robert Frost, 현대문학 전문가"
-newengland.59.b:0 "H.P Lovecraft, 공포의 대가"
+newengland.59.d:0 "문학 수상자의 지위는 몇 년 동안 뉴잉글랜드에서 논의되어 왔습니다. 영화의 흐름과 예술의 형태로 표현되는 대중문화에 반하는 수백명의 예술가의 말뭉치를 대표하는 한 사람. 뉴잉글랜드 의회는 보스턴 아테롬을 임시 의회 도서관으로 사용하는 것과 함께 문학상을 제정하기로 했습니다. 의회 투표에서 가장 유력한 후보는 로버트 프로스트인데, 그는 뉴잉글랜드가 현대문학의 중심지임을 명백히 보여주었습니다. 그러나 여론 조사 결과는 펄프 소설 작가 H.P 러브크래프트를 선호하는 것으로 나타났습니다. 언론에는 러브크래프트가 이 상을 받겠다고 보도되었지만, 사실 아직 수상자는 정해지지도 않았습니다. 의회는 곤경에 처해있습니다."
+newengland.59.a:0 "로버트 프로스트, 현대문학의 전문가"
+newengland.59.b:0 "H.P 러브크래프트, 공포의 대가"
 
 newengland.60.t:0 "Intervention for John Winant"
 newengland.60.d:0 "The private life of President Winant is not the proper subject of newspaper gossip, but after today, it is a public issue. President Winant's minders found a loaded gun in his bedroom tonight, and after a panic determined their was no intended assassin. President Winant confessed to his minders that his secret affair with Sarah Churchill ended, and he is distraught over the potential political fallout for indiscretions with a major Canadian politician's daughter. Fortunately, Winston Churchill was very gently notified, and forgave President Winant in person. Winant has decided to take a few days break to recuperate mentally."
@@ -702,10 +702,10 @@ newengland.99.d.notexists:0 "While it appears New Englanders were more than will
 newengland.99.a:0 "Then it's war!"
 newengland.99.b:0 "We'll deal with this later"
 
-newengland.100.t:0 "New England's Betrayal"
+newengland.100.t:0 "뉴잉글랜드의 배신"
 newengland.100.d:0 "While our government had refused New England's right to reunite with [requester.GetNameDef], it seems they eventually decided to do so anyhow. Our forces in the region have pulled out as American forces moved in, and there appears to be nothing we can do - unless we choose to force the issue and make this a matter of war."
-newengland.100.a:0 "Then it's war!"
-newengland.100.b:0 "Let them have it"
+newengland.100.a:0 "그렇다면 전쟁이다!"
+newengland.100.b:0 "그냥 둬라"
 
 ###############################################
 #NEE'S Army General Descriptions by Drozdovite#
