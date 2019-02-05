@@ -10,7 +10,7 @@ JF_GENERIC_FLAVOUR:0 "그들의 공격적인 행동은 세계 균형의 변화�
 JF_GENERIC_FLAVOUR_1936:0 "힘의 균형은 변하기 시작하면서, 독일이 오랫동안 구축하려고 애썼던 정교한 세계대전후 질서가 흔들리기 시작했습니다. 이 동맹관계의 중개가 영향을 끼칠 지도 모릅니다."
 JF_GENERIC_FLAVOUR_1937_ACW:0 "북미에서 전쟁이 발발하면서 힘의 균형이 갑자기, 그리고 어쩌면 돌이킬 수 없을 정도로 바뀌었습니다. 이 지역과 그 너머에 영향을 끼칠 것입니다."
 JF_GENERIC_FLAVOUR_1937:0 "힘의 균형이 계속 바뀌고 있습니다. 이 지역과 그 너머에 영향을 끼칠 것입니다."
-JF_GENERIC_FLAVOUR_1938:0 "The geopolitical scales continue to tip, changing the balance, and with them many a strategic calculus. There will be consequences for the region and the world."
+JF_GENERIC_FLAVOUR_1938:0 "지정학적 척도는 균형을 바꾸면서 계속 기울어지고 있습니다. 그리고 그들과 함께 많은 전략적 미적분학도 변화하고 있습니다. 지역과 세계에 영향을 끼칠 것입니다."
 JF_GENERIC_FLAVOUR_1939:0 "지정학적 블록이 성장하면서 긴장이 고조되고 다른 많은 나라들이 현재 어느 쪽을 지지해야 하는지 어려운 선택에 직면해 있습니다. 전쟁이 이 지역과 아마도 전 세계를 닥칠 것입니다."
 JF_GENERIC_FLAVOUR_WK:0 "심지어 전쟁 중에도 힘의 균형은 존재하며, 순간적으로 변합니다. 이 협정이 어느 쪽을 더 유리하게 만들지는 오직 시간만이 말해줄 것입니다."   
 JF_GENERIC_FLAVOUR_WK_START:0 "구질서가 산산조각이 나고 전쟁에 휩싸여 있습니다. 동맹관계의 거미줄은 이제 거의 알아볼 수 없을 정도로 변했습니다."
@@ -22,5 +22,5 @@ JF_GENERIC_FLAVOUR_OTHER_VICTORY:0 "구세계의 질서가 폐허가 되면서, 
 ### Add Custom Localisation Here ###
 JF_ARG_GER_FLAVOUR:0 "양국 간의 성공적인 무역 협정과 군사 협력에 따라, [faction_member.GetLeader]은(는) [faction_leader.GetFactionName]에 가입한다고 선언했습니다." 
 JF_ARG_CAN_FLAVOUR:0 "빈틈없는 외교를 통해 [faction_member.GetLeader]와(과) [faction_leader.GetName]은(는) 공동의 위협을 위해 그들의 차이점을 제쳐두고 이슬라스 말비나스 위기를 해결했습니다." 
-JF_SER_GRE_FLAVOUR:0 "Due to a shared hate for Bulgaria's growing power, Greece has decided to enter the Belgrade Pact with Serbia to take down Bulgaria once and for all. This could very well shake the power balance within the Balkans."
-JF_SER_ROM_FLAVOUR:0 "Due to the growing power of Austria and Bulgaria, Romania has accepted the invitation to the Belgrade Pact in order to try and contain their strength. Austria and Bulgaria watch with fear as the powderkeg grows close to exploding once again."
+JF_SER_GRE_FLAVOUR:0 "불가리아의 성장세에 대한 공통된 증오 때문에, 그리스는 불가리아를 완전히 없애기 위해 세르비아와 베오그라드 조약에 가입하기로 결정했습니다. 이것은 발칸 반도의 권력 균형을 아주 잘 흔들어 놓을 것입니다."
+JF_SER_ROM_FLAVOUR:0 "오스트리아와 불가리아의 세력이 커짐에 따라 루마니아는 그들의 힘을 억제하기 위해 베오그라드 조약으로의 초청을 수락했습니다. 오스트리아와 불가리아는 화약통이 다시 한번 폭발할 뻔하자 두려움에 떨며 지켜보고 있습니다."
