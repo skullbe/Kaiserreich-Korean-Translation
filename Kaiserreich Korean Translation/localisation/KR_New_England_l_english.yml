@@ -54,13 +54,13 @@ NEE_Underground_Railroad_tt:0 "§YRefugees§! and §YResources§! will be smuggl
 NEE_Public_Opinion_Support_tt:0 "Unlocks £decision_icon_small §HDecisions§! to sway §YPublic Opinion§! on the Home Front"
 NEE_ISAC_Equipement_tt:0 "Unlocks £decision_icon_small §HDecisions§! to purchase §YEntente Weaponry§! and increase §YInternational Research Collaboration§!"
 
-NEE_legitimacy_minus_5_tt:0 "우리의 §Y정통성§! by §R5§!"
-NEE_legitimacy_minus_10_tt:0 "Decreases our §YLegitimacy§! by §R10§!"
+NEE_legitimacy_minus_5_tt:0 "우리의 §Y정통성§!이 §R5§!만큼 감소합니다"
+NEE_legitimacy_minus_10_tt:0 "우리의 §Y정통성§!이 §R10§!만큼 감소합니다"
 
-NEE_legitimacy_plus_1_tt:0 "Increases our §YLegitimacy§! by §G1§!"
-NEE_legitimacy_plus_3_tt:0 "Increases our §YLegitimacy§! by §G3§!"
-NEE_legitimacy_plus_5_tt:0 "Increases our §YLegitimacy§! by §G5§!"
-NEE_legitimacy_plus_7_tt:0 "Increases our §YLegitimacy§! by §G7§!"
+NEE_legitimacy_plus_1_tt:0 "우리의 §Y정통성§!이 §G1§!만큼 증가합니다"
+NEE_legitimacy_plus_3_tt:0 "우리의 §Y정통성§!이 §G3§!만큼 증가합니다"
+NEE_legitimacy_plus_5_tt:0 "우리의 §Y정통성§!이 §G5§!만큼 증가합니다"
+NEE_legitimacy_plus_7_tt:0 "우리의 §Y정통성§!이 §G7§!만큼 증가합니다"
 
 NEE_A11_Mathilda_tt:0 "§Y150§! units of Canadian §YVickers A11 'Mathilda'§! is added to the national stockpile\n"
 
