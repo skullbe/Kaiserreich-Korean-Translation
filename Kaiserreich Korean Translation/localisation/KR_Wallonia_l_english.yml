@@ -108,36 +108,36 @@ WLL_merchant_marine_idea2:0 "무역 센터 설립"
 ### Events ###
 
 wll.1.t:0 "플란데런-우알로니의 해체"
-wll.1.d:0 "Flanders has seceded from our Kingdom and has declared its independence. German citizens and the Royal Family have fled the region and are re-establishing their hold on our nation. Meanwhile the Revolution still rages on and is destabilising the region with no clear end in sight. Quick and decisive action will be required to avoid the Red Menace that wants to destroy our nation. Walloon capitalists and liberals look on however, fearing the revolution but equally unhappy with German rule. Their efforts to form a republic have proven fruitless over the last decade but a new opportunity may well have now presented itself."
+wll.1.d:0 "플란데런은 우리 왕국에서 분리되었고 독립을 선언했습니다. 독일 국민들과 왕실은 이 지역을 떠나 우리나라에 대한 그들의 지배력을 다시 확립하고 있습니다. 한편 혁명은 여전히 계속되고 있으며 끝이 보이지 않아 이 지역을 불안정하게 만들고 있습니다. 우리나라를 파괴하려는 적의를 피하기 위해서는 신속하고 결정적인 조치가 필요할 것입니다. 그러나 왈롱 자본가와 진보주의자들은 혁명을 두려워하지만 똑같이 독일 통치에 대해 불만스러워하며 바라보고 있습니다. 지난 10년 동안 공화국을 세우려는 그들의 노력은 무의미했지만 이제는 새로운 기회가 등장했을지도 모릅니다."
 wll.1.a:0 "깃발을 올려라, 우알로니가 태어났다."
 
 wll.2.t:0 "세랭에서의 갈등"
-wll.2.d:0 "With riots and protests throughout the entire Sillon Industriel, members of the Syndicalist resistance have holed up in the Seraing Steel Mills refusing to allow the factory to reopen and holding twelve members of the administration hostage. Troops retreating from Flanders are massing near Namur but a small contingent could be relocated to Liège to help quell the issue. Shareholders of the company meanwhile are desperately urging the government to leave the facility intact and are lobbying as much as possible to preserve their interests."
+wll.2.d:0 "실론 산업 전체에 걸쳐 폭동과 시위가 벌어지면서, 생디칼리스트 레지스탕스들은 12명의 행정부 인질을 잡은 채 공장 재개를 허락하지 않으며 세랭 제철소에 숨어 있습니다. 플란데런에서 철수하는 군인들이 나뮈르 인근에 모여들고 있지만, 이 문제를 해결하기 위해 리에주로 파견될 수도 있습니다. 한편, 이 회사의 주주들은 정부에게 이 시설을 온전하게 놔두라고 필사적으로 촉구하고 있으며 그들의 이익을 보존하기 위해 가능한 한 많은 로비를 하고 있습니다."
 wll.2.a:0 "세랭에 군을 투입하라."
 wll.2.b:0 "극좌들의 요구를 들어 보자."
 
-wll.3.t:0 "Negotiations With the Syndicalists"
-wll.3.d:0 "One of the leaders of the rebels trapped inside the mills has come out and given us their demands. They promise to leave the factory intact if the King adheres to the terms won during the 1935 strikes, signs a new Labour Act enacting the promised forty-hour working week and sets out measures providing more transparent employee-employer relations. The Liberal party has already declared their opposition to the demands as it would suppress free trade and strip privileges from them. Still, if we were to cave in to their demands we might be able to weaken support for an outright syndicalist revolution and change the mind of the more liberal POB members."
-wll.3.a:0 "Give in to their demands."
-wll.3.b:0 "Stall the negotiations."
-wll.3.c:0 "Send in the Feldgendarmerie."
+wll.3.t:0 "생디칼리스트와의 협상"
+wll.3.d:0 "제철소 안에 갇힌 반군 지도자들 중 한 명이 나와서 그들의 요구를 들어주었습니다. 그들은 만약 왕이 1935년 파업 기간 동안 승리한 조건을 준수하고, 약속된 주 40시간 근무제를 제정하는 새로운 노동법에 서명하며, 보다 투명한 직원-고용자 관계를 제공하는 대책을 세우면 공장을 그대로 두겠다고 약속합니다. 자유당은 이미 자유무역을 억압하고 특권을 박탈할 것이기 때문에 이 요구에 반대한다고 선언했습니다. 하지만, 그들의 요구에 굴복한다면, 우리는 완전한 생디칼리즘 혁명에 대한 지지를 약화시킬 수 있을 것이고, 보다 진보적인 POB 회원들의 마음을 바꿀 수 있을 것입니다."
+wll.3.a:0 "그들의 요구에 동의하라."
+wll.3.b:0 "협상을 중단하라."
+wll.3.c:0 "펠트젠다메리를 보내라."
 
 #Stalled Negotiations
 
-wll.31.t:0 "Stalled Negotiations"
+wll.31.t:0 "정지된 협상"
 wll.31.d:0 "Two days have passed since the syndicalists' demands were received and no answer has been given as of yet by the government. News of the situation has spread like wildfire throughout the nation and similar actions have been undertaken in the glass factories of Charleroi and have even struck the arms producer FN. The situation is reaching a boiling point and with terrorist attacks in Hainaut, we need to act now or the army will be spread too thin to counter large uprisings. Our commanders are advising us to make an example of the Seraing strikers and to send in the army to flush them from their stronghold. Liberal lobbyists are still warning the King not to act violently and advise him to seek a middle ground."
 wll.31.a:0 "Send in the Feldgendarmerie."
 wll.31.b:0 "Sign a reduced version of the Labour Act."
 
-wll.32.t:0 "Labour Act Adopted"
+wll.32.t:0 "노동법 채택"
 wll.32.d:0 "With the promise of better working conditions and the announced Labour Act, many of the smaller strikes have been calmed and left the factories without causing too much damage. The Strikers of Seraing however are still holding out and are once more demanding the government sign the full Labour Act or to resign at once. The POB, which has seen its influence greatly increase in the last decade, has joined the syndicalists' call and have demanded the immediate resignation of the government."
 wll.32.a:0 "We must gain support from the liberals!"
 
-wll.33.t:0 "Liberal Party Refuses to Assist"
+wll.33.t:0 "자유당이 원조를 거부하다"
 wll.33.d:0 "Smelling their chance, the Liberals have decided to throw their own hat into the ring and have joined the POB in their demands for resignation. They state that the only way to solve this crisis now is by listening to the people and holding emergency elections."
 wll.33.a:0 "Where do we get our support from now?"
 
-wll.34.t:0 "Protest in La Louvière"
+wll.34.t:0 "라 루비에르의 항의"
 wll.34.d:0 "It appears that in La Louvière thousands of disgruntled miners have come down to the town square to protest against the pro-German government and to demand Adelbert's abdication. Feldgendarmerie have been keeping watch on the protest and so far have been able to discourage violence between the Walloons and the much smaller counterprotest by German citizens. Though only small in size, the protest marks the end of an era. Further protests around the nation are already being organised and a general strike has now kept the nation paralysed for two weeks. The situation is becoming completely untenable with many Germans leaving the nation to avoid repression by the syndicalists."
 wll.34.a:0 "The monarchy is faltering!"
 
