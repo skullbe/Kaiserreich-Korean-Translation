@@ -37,7 +37,7 @@ SYND_CHAIR:0 "뤼시 뒤자르댕이 벨기에 노동당을 지도합니다"
 wll.CON.tt:0 "\n§G정부에 대한 우리의 선택은 우리의 헌법에 직접적으로 영향을 미칠 것입니다 §!\n\n"
 wll.GOV.tt:0 "\n§G연립정부 파트너로 누구를 선택했는지에 따라 우리 정부의 형태가 결정될 것입니다 §!\n\n"
 
-Georges_Prosper_Remi:0 "Georges Prosper Remi"
+Georges_Prosper_Remi:0 "조르주 프로스페 레미"
 
 ### Ideas ###
 
@@ -125,21 +125,21 @@ wll.3.c:0 "펠트젠다메리를 보내라."
 #Stalled Negotiations
 
 wll.31.t:0 "정지된 협상"
-wll.31.d:0 "Two days have passed since the syndicalists' demands were received and no answer has been given as of yet by the government. News of the situation has spread like wildfire throughout the nation and similar actions have been undertaken in the glass factories of Charleroi and have even struck the arms producer FN. The situation is reaching a boiling point and with terrorist attacks in Hainaut, we need to act now or the army will be spread too thin to counter large uprisings. Our commanders are advising us to make an example of the Seraing strikers and to send in the army to flush them from their stronghold. Liberal lobbyists are still warning the King not to act violently and advise him to seek a middle ground."
-wll.31.a:0 "Send in the Feldgendarmerie."
-wll.31.b:0 "Sign a reduced version of the Labour Act."
+wll.31.d:0 "생디칼리스트들의 요구가 받아들여진지 이틀이 지났지만 정부는 아직까지 아무런 답변을 하지 않고 있습니다. 이 상황에 대한 소식은 전국에 산불처럼 퍼졌고 비슷한 행동이 샤를루아의 유리 공장에서 이루어졌으며 심지어 무기 생산업체 FN을 공격하기도 했습니다. 상황은 끓어오르는 시점에 도달하고 있으며 에노에서의 테러 공격 때문에 우리는 지금 행동해야 합니다. 그렇지 않으면 군대는 대규모 폭동에 맞서기엔 너무 흩어져버리게 될 것입니다. 우리의 지휘관들은 우리에게 세랭의 파업자들을 본보기로 삼아, 군대를 보내서 그들을 요새에서 몰아내라고 권하고 있습니다. 자유당의 운동가들은 여전히 왕에게 난폭하게 행동하지 말라고 경고하고 있으며, 왕에게 중도를 추구하라고 충고하고 있습니다."
+wll.31.a:0 "펠트젠다메리를 보내라."
+wll.31.b:0 "노동법의 축소판에 서명하라."
 
 wll.32.t:0 "노동법 채택"
-wll.32.d:0 "With the promise of better working conditions and the announced Labour Act, many of the smaller strikes have been calmed and left the factories without causing too much damage. The Strikers of Seraing however are still holding out and are once more demanding the government sign the full Labour Act or to resign at once. The POB, which has seen its influence greatly increase in the last decade, has joined the syndicalists' call and have demanded the immediate resignation of the government."
-wll.32.a:0 "We must gain support from the liberals!"
+wll.32.d:0 "근로조건 개선 약속과 노동법 발표로, 많은 소규모 파업이 진정되었고, 너무 많은 피해는 주지 않은 채로 공장을 떠났습니다. 그러나 세랭의 파업자들은 여전히 버티고 있으며 다시 한번 정부가 노동법에 서명하거나 즉시 사임할 것을 요구하고 있습니다. 지난 10년간 영향력이 크게 높아진 POB는 생디칼리스트들의 요구에 동참해 정부의 즉각적인 퇴진을 요구해 왔습니다."
+wll.32.a:0 "우리는 자유당의 지지를 얻어야 한다!"
 
-wll.33.t:0 "자유당이 원조를 거부하다"
+wll.33.t:0 "자유당이 지원을 거부하다"
 wll.33.d:0 "Smelling their chance, the Liberals have decided to throw their own hat into the ring and have joined the POB in their demands for resignation. They state that the only way to solve this crisis now is by listening to the people and holding emergency elections."
-wll.33.a:0 "Where do we get our support from now?"
+wll.33.a:0 "이제부터는 어디서 지원을 받아야 하지?"
 
 wll.34.t:0 "라 루비에르의 항의"
 wll.34.d:0 "It appears that in La Louvière thousands of disgruntled miners have come down to the town square to protest against the pro-German government and to demand Adelbert's abdication. Feldgendarmerie have been keeping watch on the protest and so far have been able to discourage violence between the Walloons and the much smaller counterprotest by German citizens. Though only small in size, the protest marks the end of an era. Further protests around the nation are already being organised and a general strike has now kept the nation paralysed for two weeks. The situation is becoming completely untenable with many Germans leaving the nation to avoid repression by the syndicalists."
-wll.34.a:0 "The monarchy is faltering!"
+wll.34.a:0 "군주제가 흔들리고 있다!"
 
 wll.35.t:0 "나뮈르 행군"
 wll.35.d:0 "Further protests are engulfing the nation, with many people leaving their homes to gather on the streets of Namur. A product of the prestigious regional glass industry, a life-sized sculpture of Adelbert has been toppled in the town square and symbolically smashed to bits with mining pickaxes. Though police were able to arrest the perpetrators it was already too late as shards of glass were quickly grabbed by bystanders permanently memorialising the events of the day."
