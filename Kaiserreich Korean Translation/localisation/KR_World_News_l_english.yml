@@ -554,7 +554,7 @@ worldnews.125.a:0 "흥미롭군."
 
 worldnews.126.t:0 "오스트랄라시아 수비대의 쿠데타"
 worldnews.126.d:0 "[AST.GetNameDef]에서 오스트랄라시아 수비대가 정권을 잡았다는 충격적인 소식입니다. 이들은 권위주의 우파로 오스트랄라시아 정부가 더 충분히 생디칼리즘을 탄압하지 않음을 오랫동안 비판해왔으며 최근의 선거에서 상당한 표차로 당선에 실패했습니다. 토마스 블레이미 원수가 이끄는 새 정부는 즉시 [AST.GetNameDef]가 오스트랄라시아에서 생디칼리즘을 근절하기 위해서는 어떠한 조치라도 시행할 것을 약속했습니다. 또한 블레이미는 오스트랄라시아가 협상국의 동맹들에게 자랑스럽고 충성스러운 대영제국의 일원으로서 헌신할 것을 선언했습니다. 이미 국가 전역에서 시위가 일어났고, 오스트랄라시아는 불확실한, 어쩌면 불안정한 미래를 맞이할 것으로 보입니다."
-worldnews.126.d.nzl:0 "[AST.GetNameDef]에서 오스트랄라시아 수비대가 캔버라의 의회를  급습해 정권을 잡았다는 충격적인 소식입니다. 이들은 권위주의 우파로 극렬하게 생디칼리즘을 반대하며 왕실을 지지합니다. 토마스 블레이미 원수가 이끄는 새 정부는 즉시 [AST.GetNameDef]가 국가의 질서를 회복하기 위해서는 어떠한 조치라도 시행할 것과 국가를 대영제국 외부의 공화국으로 변모시키려는 모든 작업들을 즉시 파기할 것을 약속했습니다. 혹자는 이를 현재 상황으로의 복구라고 보지만 이 불안정은 국가에 더 한 사건이 있을 전조로 보입니다."
+worldnews.126.d.nzl:0 "[AST.GetNameDef]에서 오스트랄라시아 수비대가 캔버라의 의회를 급습해 정권을 잡았다는 충격적인 소식입니다. 이들은 권위주의 우파로 극렬하게 생디칼리즘을 반대하며 왕실을 지지합니다. 토마스 블레이미 원수가 이끄는 새 정부는 즉시 [AST.GetNameDef]가 국가의 질서를 회복하기 위해서는 어떠한 조치라도 시행할 것과 국가를 대영제국으로부터 벗어난 공화국으로 변모시키려는 모든 작업들을 즉시 파기할 것을 약속했습니다. 혹자는 이를 현재 상황으로의 복구라고 보지만 이 불안정은 국가에 더 한 사건이 있을 전조로 보입니다."
 worldnews.126.a:0 "예상치 못했군."
 
 worldnews.127.t:0 "[AST.GetNameDefCap]이 공화국이 되다"
@@ -811,7 +811,7 @@ worldnews.187.d:0 "Open street battles were reported in the streets of Minsk tod
 worldnews.187.a:0 "골육상잔이라. 이것밖에 방법이 없었나?"
 
 worldnews.188.t:0 "발트 전쟁"
-worldnews.188.d:0 "For many years the United Baltic Duchy, set up by the Germans after their conquest of the former Russian Governorates during the Weltkrieg, has marginalised its native Estonian and Latvian populace. Though the local population has been ruled by local German elites for centuries, with the imposition of a German ducal structure under by Duke Friedrich and policies that both favour German settlers and undermined the natives, open rebellion has broken out. National Latvian and Estonian movements have launched attacks across the country and the Duchy has plunged into chaos. The Ducal regime's survival is not guaranteed, and the influence this may have on the German sphere in Eastern Europe remains unclear. One thing is for certain however, and that is that Germany's plans of settlement in the East have been temporarily dashed."
+worldnews.188.d:0 "세계대전 당시 러시아령 발트 총독부를 정복한 독일군에 의해 건국된 발트 연합 공국은 지난 수십년간 발트의 에스토니아인과 라트비아인을 차별해왔습니다. 이 국가는 지금까지 소수의 독일인 엘리트들에 의해 통치되어 왔지만, 프리드리히 공작이 시행한 독일인 이주 및 원주민 차별 정책들에 대한 반발이 마침내 대대적인 반란이라는 형태로 나타났습니다. 라트비아와 에스토니아인들이 전국적으로 공격을 시작했고 공국은 혼란에 빠졌습니다. 현재 공국 정권의 생존을 장담할 수 없는 상황이며, 이것이 동유럽의 독일 영향권에 미칠 영향은 아직 분명하지 않습니다. 하지만 한 가지 확실한 것은 독일의 동방 정착 계획이 최소한 당분간은 무산되었다는 것입니다."
 worldnews.188.a:0 "확실히 제국 조약에 한 방 먹였군."
 
 worldnews.189.t:0 "[GetYear]년 네덜란드 선거"
@@ -843,7 +843,7 @@ worldnews.192.a:0 "네덜란드인들답지 않은데."
 
 worldnews.193.t:0 "네덜란드의 프랑스 코뮌 승인"
 worldnews.193.d:0 "현재 많은 유럽 국가들을 경악시킨 논란의 행동인 즉슨, 네덜란드가 시민들의 권리에 대한 상의를 명분으로 파리로 외교 사절단을 파견함으로써 프랑스 코뮌의 존재를 사실상 인정했다는 것입니다. 이러한 행동은 반-생디칼리즘 성향의 국민 프랑스, 영국 망명 정부와 밀월관계를 견지해온 네덜란드의 전통적인 정치 규범에 완전히 반하는 경우입니다. \n이런 기괴하리만치 갑작스러운 외교적 태도 변화에는 온갖 고난을 겪으며 끝끝내 정권을 손에 넣은 CNA-LSP 연립의 네덜란드 정부가 자국 내의 사회주의자들을 만족시키고, 네덜란드의 정치적 혼란을 완화하기 위해 깔아둔 계산이라는 추측이 유력합니다. 만약 사실이라면, 이 과감한 행동은 일부 중도주의자들이 현대 유럽의 분극화를 막기 위해 기꺼이 취할 수 있는 온갖 극단적인 조치가 무엇인지를 보여주는 사례일 것입니다."
-worldnews.193.d.dejure:0 "현재 많은 유럽 국가들을 경악시킨 논란의 행동인 즉슨, 네덜란드가 오늘 국제 협약을 위반하고 공식적으로 프랑스 코뮌을 정통 프랑스 정부로서 승인했다는 것입니다. 이에 특히 독일 제국을 시작으로 미틀오이로파, 그리고 제국 조약 등 독일과 같은 밀접한 관계를 맺고 있는 국가들과, 알제의 프랑스 망명정부는 네덜란드와 단교를 선언하기까지 했습니다. \n이런 기괴하리만치 갑작스러운 외교적 태도 변화에는 온갖 고난을 겪으며 끝끝내 정권을 손에 넣은 CNA-LSP 연립의 네덜란드 정부가 자국 내의 사회주의자들을 만족시키고, 네덜란드의 정치적 혼란을 완화하기 위해 깔아둔 계산이라는 추측이 유력합니다. 만약 사실이라면, 이 과감한 행동은 일부 중도주의자들이 현대 유럽의 분극화를 막기 위해 기꺼이 취할 수 있는 온갖 극단적인 조치가 무엇인지를 보여주는 사례일 것입니다."
+worldnews.193.d.dejure:0 "현재 많은 유럽 국가들을 경악시킨 논란의 행동인 즉슨, 네덜란드가 오늘 국제 협약을 위반하고 공식적으로 프랑스 코뮌을 정통 프랑스 정부로서 승인했다는 것입니다. 이에 특히 독일 제국을 시작으로 미틀오이로파, 그리고 제국 조약 등 독일과 밀접한 관계를 맺고 있는 국가들과, 알제의 프랑스 망명정부는 네덜란드와 단교를 선언하기까지 했습니다. \n이런 기괴하리만치 갑작스러운 외교적 태도 변화에는 온갖 고난을 겪으며 끝끝내 정권을 손에 넣은 CNA-LSP 연립의 네덜란드 정부가 자국 내의 사회주의자들을 만족시키고, 네덜란드의 정치적 혼란을 완화하기 위해 깔아둔 계산이라는 추측이 유력합니다. 만약 사실이라면, 이 과감한 행동은 일부 중도주의자들이 현대 유럽의 분극화를 막기 위해 기꺼이 취할 수 있는 온갖 극단적인 조치가 무엇인지를 보여주는 사례일 것입니다."
 worldnews.193.a:0 "외교란 참으로 난해하기 짝이 없다"
 
 worldnews.194.t:0 "네덜란드가 독일 자산을 국유화하다"
@@ -944,7 +944,7 @@ worldnews.252.c.germany:0 "두 번째 세계대전은 첫 번째와 비슷한 �
 worldnews.252.c:0 "[old_controller.GetNameDef]의 몰락은 이제 거의 확실해진 것 같다"
 
 worldnews.253.t:0 "베를린 함락"
-worldnews.253.d.france:0 "베를린에서의 보고에 따르면, 제국 조약에서 가장 거대한 도시에서의 치열한 전투를 벌인 끝에 [old_controller.GetAdjective]의 수도가 프랑스 코뮌군에게 점령되었다고 합니다. [old_controller.GetAdjective]군은 가능한 한 오랫동안 코뮌군을 붙잡아두기 위해 안간힘을 쓰며 저항했지만, 결국 격퇴되었습니다.\n\n충격받은 베를린 시민들이 지켜보는 동안, 코뮌군은 브란덴부르크 문을 지나 행진한 뒤에, 이 유명한 건축물을 전 세계가 보는 앞에서 인터내셔널의 노래를 부르며 폭파해 버렸습니다. 다음날 밤 코뮌군은 이 극단적인 행동의 범인이 포로가 된 [old_controller.GetAdjective] 병사들과 장교들의 소행이라며 누명을 씌운 뒤, 그들을 헌병대에 체포시켜 압송했습니다."
+worldnews.253.d.france:0 "베를린에서의 보고에 따르면, 제국 조약에서 가장 거대한 도시에서의 치열한 전투를 벌인 끝에 [old_controller.GetAdjective]의 수도가 프랑스 코뮌군에게 점령되었다고 합니다. [old_controller.GetAdjective]군은 가능한 한 오랫동안 코뮌군을 붙잡아두기 위해 안간힘을 쓰며 저항했지만, 결국 격퇴되었습니다.\n\n충격받은 베를린 시민들이 지켜보는 동안, 코뮌군은 브란덴부르크 문을 지나 행진한 뒤에, 이 유명한 건축물을 전 세계가 보는 앞에서 인터내셔널가를 부르며 폭파해 버렸습니다. 다음날 밤 코뮌군은 이 극단적인 행동의 범인이 포로가 된 [old_controller.GetAdjective] 병사들과 장교들의 소행이라며 누명을 씌운 뒤, 그들을 헌병대에 체포시켜 압송했습니다."
 worldnews.253.d.other:0 "베를린에서의 보고에 따르면, 제국 조약에서 가장 거대한 도시에서의 치열한 전투를 벌인 끝에 [old_controller.GetAdjective]의 수도가 [new_controller.GetAdjective]군에게 점령되었다고 합니다. [old_controller.GetAdjective]군은 가능한 한 오랫동안 [new_controller.GetAdjective]군을 붙잡아두기 위해 안간힘을 쓰며 저항했지만, 결국 격퇴되었습니다.\n\n충격받은 베를린 시민들이 지켜보는 동안, [new_controller.GetAdjective] 군대가 브란덴부르크 문을 지나 행진한 뒤에, 이 유명한 건축물 앞에서 [new_controller.GetLeader]의 연설이 있었습니다만, 세간의 주목과 기억을 사로잡은 것은 [new_controller.GetAdjective] 병사가 심각하게 손상된 제국의회 건물 지붕에서 [new_controller.GetAdjective] 국기를 자랑스럽게 들고 서 있는 강렬한 인상을 주는 사진이었습니다."
 worldnews.253.a.france:0 "[old_controller.GetNameDef]이 이렇게 멸망하도록 놔둘 순 없다. 코뮌 놈들을 도로 밀어내라!"
 worldnews.253.a:0 "이건 말도 안돼! 어떻게 베를린의 함락이 가능하단 말인가?!"
