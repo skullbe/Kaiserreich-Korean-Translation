@@ -79,7 +79,7 @@ pact.7.d:0 "몇몇 사람들이 예상했듯이, 오스만 정부는 불가리�
 pact.7.a:0 "끔찍하군."
 
 pact.8.t:0 "베오그라드 회의가 발칸반도에 대한 새로운 질서를 주장하다"
-pact.8.d:0 "세르비아를 필두로 해서, 몇몇 나라들은 베오그라드에 모여서 발칸 반도의 정치-군사적 상황에 대해 토론했습니다. 이 회의에서 베오그라드 조약 기구라고 불리는 새로운 군사 동맹이 창설되었습니다. 대전쟁에서의 패배를 되갚기 위해 우리를 겨냥한 동맹이 틀림없습니다. 우리는 옛 동맹국들이 우리를 도와 주는 것을 빌 뿐입니다."
+pact.8.d:0 "세르비아를 필두로 해서, 몇몇 나라들은 베오그라드에 모여서 발칸 반도의 정치-군사적 상황에 대해 토론했습니다. 이 회의에서 베오그라드 조약 기구라고 불리는 새로운 군사 동맹이 창설되었습니다. 대전쟁에서의 패배를 되갚기 위해 우리를 겨냥한 동맹이 틀림없습니다. 우리는 옛 동맹국들이 우리를 도와주기를 바래볼 뿐입니다."
 pact.8.a:0 "이거 좋지 않군."
 
 pact.9.t:0 "베오그라드 회의가 발칸반도에 대한 새로운 질서를 주장하다"
@@ -120,7 +120,7 @@ pact.16.b:0 "평화를 유지할 것이다."
 
 pact.17.t:0 "세르비아의 최후통첩"
 pact.17.d:0 "베오그라드 조약이 보낸 최후통첩이 소피아에 도착했습니다. 그들은 우리가 세계 대전 당시 장악한 모든 영토의 반환을 요구했습니다. 베오그라드 조약의 회원국들은 우리가 거부한다면 전쟁 뿐이라고 우리를 위협하고 있습니다."
-pact.17.a:0 "그럼 전쟁이다."
+pact.17.a:0 "그럼 해보자고, 전쟁."
 pact.17.b:0 "선택지가 없다. 그들의 요구를 수용하라"
 
 pact.18.t:0 "불가리아가 최후통첩을 무시하였습니다"
@@ -164,7 +164,7 @@ pact.25.c:0 "우리가 할 수 있는 건 없다."
 pact.26.t:0 "[From.GetAdjective]의 지원이 도착했습니다"
 pact.26.d:0 "As they had promised, the government of [From.GetNameDef] has sent us aid in the ongoing conflict against the Belgrade Pact. Unfortunately, they can't intervene directly, but several volunteer divisions and some equipment have arrived."
 pact.26.a:0 "어떤 도움이든 환영이다"
-pact.26.tt:0 "[From.GetAdjective] 군대와 장비가 도착합니다."
+pact.26.tt:0 "[From.GetAdjective]의 군대와 장비가 도착합니다."
 
 pact.27.t:0 "오스만 제국이 동맹을 제안하였습니다"
 pact.27.d:0 "In accordance to their earlier pledge to support us in the case of a war between Bulgaria and the Belgrade Pact, the Ottoman Empire has offered us a formal alliance. They state that they want to contain the aggression of the Pact and help us defend our country."
@@ -222,7 +222,7 @@ pact.38.d:0 "The joined armed forces of the Belgrade Pact have managed to revert
 pact.38.a:0 "베오그라드 조약의 승리다!"
 
 pact.39.t:0 "우리는 발칸전쟁에서 패배하고 있습니다"
-pact.39.d:0 "4차 발칸 전쟁에서의 우리의 개입이 재앙을 불러왔습니다. 불가리아는 멸망했고, 콘스탄티노플이 베오그라드 조약 기구군에게 점령당했습니다. 우리가 할 수 있을 때 평화를 제안합시다!"
+pact.39.d:0 "4차 발칸 전쟁에서의 우리의 개입이 재앙을 불러왔습니다. 불가리아는 멸망했고, 콘스탄티노플이 베오그라드 조약군에게 점령당했습니다. 우리가 할 수 있을 때 평화를 제안합시다!"
 pact.39.a:0 "휴전을 제안한다."
 pact.39.b:0 "아직 이길 수 있다!"
 
@@ -263,8 +263,8 @@ pact.47.a:0 "휴전을 제안한다."
 pact.47.b:0 "아직 우린 이길 수 있다!"
 
 pact.48.t:0 "세르비아가 휴전을 제안했습니다"
-pact.48.d:0 "With our success in the Balkan War and our armies close to Belgrade, the Pact that was founded in the city is on the verge of collapse. Serbia has approached us with a peace offer. They will cede the disputed territory of Nis, several border provinces will be de-militarised, the Belgrade Pact will be disbanded and Serbia will pay us war reparations. In return we allow them to keep their independence."
-pact.48.a:0 "우리는 또다시 승리했다."
+pact.48.d:0 "발칸전쟁에서의 성공과 베오그라드 코앞까지 진격한 우리 군대로 인해, 베오그라드의 이름을 딴 이 조약은 붕괴될 위기에 처했습니다. 그리고 마침내 세르비아가 우리에게 평화를 제안했습니다. 그들은 분쟁지역인 니스를 우리에게 할양할 것이고, 우리와 국경이 맞닿은 모든 지역들을 무장해제할 것이며, 베오그라드 조약 기구 역시 해체됨은 물론이고 우리에게 전쟁 배상금을 지불할 것입니다. 그 대가로 우리는 그들이 그들의 독립을 유지하도록 허락합니다."
+pact.48.a:0 "다시 한 번, 우리는 승리했다."
 pact.48.b:0 "아니, 그들은 파괴될 것이다!"
 
 pact.49.t:0 "불가리아가 우리의 휴전 제안을 받아들였습니다."
@@ -280,10 +280,10 @@ pact.51.desc_no_ottomans:0 "The Fourth Balkan War has not quite had the successe
 pact.51.desc_payments_to_ottomans:0 "The Fourth Balkan War has not quite had the successes we had in mind. Bulgaria has been able to successfully mount an offensive and were on the verge of taking Belgrade. Negotiations between Serbia and Bulgaria have resulted in a peace deal. We need de-militarise Thessalia, cede Thessaloniki, renounce our claims on Central Macedonia and pay war reparations to the Ottomans. The Belgrade Pact will be disbanded."
 pact.51.a:0 "저들은 무적인가?"
 
-pact.53.t:0 "세르비아가 남부 마케도니아를 제공하고자 합니다"
+pact.53.t:0 "세르비아가 남부 마케도니아를 양도하고자 합니다"
 pact.53.d:0 "The Serbians have defeated the Bulgarians and have come to us, offering Southern Macedonia to us in return for allying with them. Regaining Macedonia would calm the masses and increase our prestige abroad. Shall we accept the offer?"
-pact.53.a:0 "고향에 온 걸 환영한다 마케도니아!"
-pact.53.b:0 "수락한다, 하지만 서부 트라키아도 같이 요구한다!"
+pact.53.a:0 "조국에 돌아온 것을 환영한다, 마케도니아!"
+pact.53.b:0 "수락한다, 하지만 서부 트라키아도 함께 요구하자!"
 pact.53.c:0 "우린 필요 없다."
 
 pact.54.t:0 "그리스가 베오그라드 협약에 가입하다"
@@ -292,8 +292,8 @@ pact.54.a:0 "우리의 새로운 동맹을 축하하자."
 
 pact.55.t:0 "트라키아의 지위"
 pact.55.d_1:0 "The Greeks have sent us an additional message alongside their formal joining of the Pact. They are asking that Western Thrace be ceded to them as it is majority Greek. However, it is not under our sector of Bulgaria, and is in Ottoman hands. Asking the Ottomans to give up the territory just after they got it would be humiliating for them but we do not want to spurn our new Greek allies either. What shall we do?"
-pact.55.d_2:0 "또한 그리스는 서부 트라키아를 요구했습니다. 우리의 괴뢰국인 불가리아가 서부 트라키아를 그리스에게 이양하게 해야할까요?"
-pact.55.a:0 "양도하게 해라."
+pact.55.d_2:0 "남부 마케도니아에 이어, 그리스는 서부 트라키아를 요구했습니다. 우리의 괴뢰국인 불가리아가 서부 트라키아를 그리스에게 할양하도록 해야 할까요?"
+pact.55.a:0 "할양하게 해라."
 pact.55.b:0 "그대로 둘 것이다!"
 
 pact.56.t:0 "트라키아의 지위"
@@ -301,44 +301,44 @@ pact.56.d:0 "The Serbians have ceded Southern Macedonia to the Greeks in return 
 pact.56.a:0 "좋을 대로 해라."
 pact.56.b:0 "우리의 영토를 지킬 것이다."
 
-pact.560.t:0 "Serbian Pressure"
+pact.560.t:0 "세르비아의 압력"
 pact.560.d:0 "While our Serbian overlord initially granted us Western Thrace, they are now demanding that the region be ceded to Greece as part of a deal securing Greek membership in the Belgrade Pact."
 pact.560.a:0 "젠장, 선택지가 없군."
 
-pact.57.t:0 "Western Thrace is Ours!"
+pact.57.t:0 "서부 트라키아를 얻어내다!"
 pact.57.d:0 "Western Thrace has come under our control. Finally, all the Greeks in these lands will live in Greece itself."
 pact.57.a:0 "좋아!"
 
-pact.570.t:0 "Western Thrace is Greek"
+pact.570.t:0 "그리스령이 된 서부 트라키아"
 pact.570.d_1:0 "Western Thrace has come under Greek control with the pressure we applied to our new Bulgarian puppet."
 pact.570.d_2:0 "Western Thrace has come under our control. Finally, all the Greeks in these lands will live in Greece itself."
 pact.570.a:0 "좋아!"
 
-pact.58.t:0 "Serbia will not pressure the Ottomans"
+pact.58.t:0 "오스만과의 충돌을 피하려는 세르비아"
 pact.58.d:0 "The Serbian government will not pressure the Ottomans to cede Western Thrace to us. While we are now in an alliance together, it remains to be seen whether this will hold."
-pact.58.a:0 "We will get it later."
+pact.58.a:0 "우리가 곧 찾아가리라."
 
-pact.59.t:0 "The Ottomans won't cede Thrace"
+pact.59.t:0 "오스만이 트라키아 할양을 거부하다"
 pact.59.d:0 "The Serbians have pressured the Ottomans to cede Western Thrace to us but the Ottoman government has announced they will keep all the lands they have gained from Bulgaria. While we are now in an alliance together, it remains to be seen whether this will hold."
-pact.59.a:0 "We will get it later."
+pact.59.a:0 "우리가 곧 찾아가리라."
 
-pact.60.t:0 "[From.GetName] won't join the Belgrade Pact"
+pact.60.t:0 "[From.GetName]가 베오그라드 조약 가입을 거부하다"
 pact.60.d:0 "The [From.GetAdjective] government has announced they don't want to be part of the Belgrade Pact, not even when offered territorial concessions."
 pact.60.a:0 "안타깝군."
 
 pact.62.t:0 "도브루자의 지위"
 pact.62.d:0 "The Serbians have defeated Bulgaria and have come to us, offering Dobrudzha to us in return for allying with them. Regaining this province would calm the masses and increase our prestige abroad. Shall we accept the offer?"
-pact.62.a:0 "도브루자여 어서와라!"
+pact.62.a:0 "도브루자여, 어서 오라!"
 pact.62.b:0 "우린 필요 없다."
 
-pact.63.t:0 "루마니아가 베오그라드 협약에 가입했습니다"
-pact.63.d:0 "루마니아가 우리의 제안을 받아들였으며 우리는 루마니아에게 도브루자를 양도했습니다."
+pact.63.t:0 "루마니아가 베오그라드 조약에 가입하다"
+pact.63.d:0 "루마니아는 우리의 제안을 수락했으며, 우리는 루마니아에게 도브루자를 양도했습니다."
 pact.63.a:0 "좋았어!"
 
-pact.64.t:0 "Call for occupation of Bulgaria"
-pact.64.d:0 "The Bulgarians have been defeated and we have redeemed ourselves in the eyes of the world! However, we had not originally thought out what to do with the remaining lands of Bulgaria beyond industrial reparations. The majority of our military officers are calling for at least temporary military occupation of the whole of Bulgaria, while some claim that an occupation might be too costly for our weary nation to handle."
+pact.64.t:0 "불가리아 점령 요청"
+pact.64.d:0 "불가리아인들은 패배했고 우리는 전 세계에 우리를 각인시켰습니다! 하지만, 우리는 원래 목적이었던 산업적 전리품 이외에 남은 불가리아 영토를 어떻게 해야 할지 자세히 생각해 본 적이 없었습니다. 대다수의 군 장교들은 불가리아 전체를 최소한 일시적으로라도 점령할 것을 요구하고 있는 반면, 어떤 이들은 이 점령은 전쟁으로 지친 우리 나라가 감당하기에는 너무 많은 비용이 든다고 주장합니다."
 pact.64.a:0 "불가리아 점령지를 분할하라!"
-pact.64.b:0 "국체를 남겨 두어라."
+pact.64.b:0 "국체만은 존속시켜 주자."
 
 pact.65.t:0 "[From.GetName] calls for joint occupation of Bulgaria"
 pact.65.d:0 "The [From.GetAdjective] government has called for a joint occupation of the remaing lands of Bulgaria. In the future, a much smaller Bulgarian state may be carved out of these territories. For now we have the right to govern our occupation zone as we see, even plundering it from anything valueable."
@@ -402,7 +402,7 @@ pact.77.a:0 "The Belgrade Pact stands triumphant!"
 pact.78.t:0 "우리는 발칸전쟁에서 지고 있습니다"
 pact.78.d:0 "Though the Balkan War brought us huge success initially as we managed to conquer Bulgaria, the Albanian intervention has turned the tide. Large parts of Bulgaria are now occupied by the Ottomans, and they continue to push. We can offer the Albanians to cede all land we have gained and dismantle the Belgrade Pact. These are harsh terms but otherwise we might lose our independence."
 pact.78.a:0 "휴전을 제안한다."
-pact.78.b:0 "아직 우린 이길 수 있어!"
+pact.78.b:0 "아직 우린 이길 수 있다!"
 
 pact.79.t:0 "세르비아가 휴전을 제안합니다"
 pact.79.d:0 "We have liberated large parts of Bulgaria and the Belgrade Pact is in retreat. Now, Serbia has approached us with a peace offer. The Belgrade Pact will give up all conquered Bulgarian territory and they will disband their alliance, returning to the pre-war state. In return we allow them to keep their independence."
@@ -414,7 +414,7 @@ pact.80.d:0 "Though the Balkan War brought us huge success initially as we manag
 pact.80.a:0 "우리는 이 일을 절대 잊지 않을 것이다!"
 
 pact.100.t:0 "조약 기구의 참전"
-pact.100.d:0 "이제 우리는 전쟁에 돌입했으며, 우리는 [SER.GetNameDef]와 어깨를 나란히 해야할 필요가 있습니다!"
+pact.100.d:0 "이제 우리는 전쟁에 돌입했으며, 우리는 [SER.GetNameDef]와 어깨를 나란히 해야 할 필요가 있습니다!"
 pact.100.a:0 "빠른 항복은 없다, 절대로!"
 
 pact.101.t:0 "전쟁이 끝났습니다"
@@ -422,7 +422,7 @@ pact.101.d:0 "전쟁이 마침내 끝났으며, 조약 기구는 전반적으로
 pact.101.a:0 "정말 다행이군!"
 
 pact.102.t:0 "오스트리아는 우리의 목표입니다"
-pact.102.d:0 "우리가 기회를 얻었을 때 최대한 빨리 공격을 해야합니다!"
+pact.102.d:0 "기회가 생겼을 때 최대한 빨리 공격해야 합니다!"
 pact.102.a:0 "드디어!"
 
 pact.103.t:0 "오스트리아는 더 이상 우리의 목표가 아닙니다"
@@ -430,7 +430,7 @@ pact.103.d:0 "물러나야할 때 입니다!"
 pact.103.a:0 "흠, 좋다."
 
 pact.104.t:0 "오스트리아는 우리의 목표입니다"
-pact.104.d:0 "우리가 기회를 얻었을 때 최대한 빨리 공격을 해야합니다!"
+pact.104.d:0 "기회가 생겼을 때 최대한 빨리 공격해야 합니다!"
 pact.104.a:0 "드디어!"
 
 pact.105.t:0 "오스트리아는 더 이상 우리의 목표가 아닙니다"
@@ -438,35 +438,35 @@ pact.105.d:0 "물러나야할 때 입니다!"
 pact.105.a:0 "흠, 좋다."
 
 pact.106.t:0 "오스트리아는 우리의 목표입니다"
-pact.106.d:0 "우리가 기회를 얻었을 때 최대한 빨리 공격을 해야합니다!"
+pact.106.d:0 "기회가 생겼을 때 최대한 빨리 공격해야 합니다!"
 pact.106.a:0 "드디어!"
 
 pact.107.t:0 "오스트리아는 더 이상 우리의 목표가 아닙니다"
-pact.107.d:0 "물러나야할 때 입니다!"
+pact.107.d:0 "물러나야 할 때입니다!"
 pact.107.a:0 "흠, 좋다."
 
 pact.108.t:0 "오스트리아는 우리의 목표입니다"
-pact.108.d:0 "우리가 기회를 얻었을 때 최대한 빨리 공격을 해야합니다!"
+pact.108.d:0 "기회가 생겼을 때 최대한 빨리 공격해야 합니다!"
 pact.108.a:0 "드디어!"
 
 pact.109.t:0 "오스트리아는 더 이상 우리의 목표가 아닙니다"
-pact.109.d:0 "물러나야할 때 입니다!"
+pact.109.d:0 "물러나야 할 때입니다!"
 pact.109.a:0 "흠, 좋다."
 
 pact.110.t:0 "마케도니아의 지위"
-pact.110.d:0 "마케도니아 지역을 점령했으며 이제 영유권을 주장한 동맹에게 주어야합니다."
+pact.110.d:0 "우리는 마케도니아 지역을 점령했으며, 이제 영유권을 주장하는 동맹국에게 할양해야 합니다."
 pact.110.a:0 "세르비아에게 주어라"
 pact.110.b:0 "불가리아에게 주어라"
 pact.110.c:0 "영토를 분할하라"
 
 pact.111.t:0 "도브루자의 지위"
-pact.111.d:0 "도브루자 지역을 점령했으며 이제 영유권을 주장한 동맹에게 주어야합니다."
+pact.111.d:0 "우리는 도브루자 지역을 점령했으며, 이제 영유권을 주장하는 동맹국에게 할양해야 합니다."
 pact.111.a:0 "루마니아에게 주어라"
 pact.111.b:0 "불가리아에게 주어라"
 pact.111.c:0 "영토를 분할하라"
 
 pact.112.t:0 "남부 마케도니아의 지위"
-pact.112.d:0 "남부 마케도니아 지역을 점령했으며 이제 영유권을 주장한 동맹에게 주어야합니다."
+pact.112.d:0 "우리는 남부 마케도니아 지역을 점령했으며, 이제 영유권을 주장하는 동맹국에게 할양해야 합니다."
 pact.112.a:0 "그리스에게 주어라"
 pact.112.b:0 "불가리아에게 주어라"
 pact.112.c:0 "영토를 분할하라"
@@ -483,13 +483,13 @@ pact.115.t:0 "도브루자를 반환받았습니다"
 pact.115.d:0 "우리의 동맹국이 도브루자 지역을 우리에게 반환해주었습니다."
 pact.115.a:0 "훌륭해!"
 
-pact.116.t:0 "도브루지아 분할"
-pact.116.d:0 "우리의 동맹국이 우리에게 북부 도브루지아만 주었으며, 남부 도브루지아는 불가리아에게 주었습니다"
-pact.116.a:0 "전체지역을 받을 필요가 있다"
+pact.116.t:0 "도브루자 분할"
+pact.116.d:0 "우리의 동맹국이 우리에게 북부 도브루자만을 할양했으며, 남부 도브루자는 불가리아에게 주었습니다"
+pact.116.a:0 "도브루자 전체를 받아내야 한다"
 
 pact.117.t:0 "도브루자 분할"
-pact.117.d:0 "우리의 동맹국이 우리에게 남부 도브루자만 주었으며, 북부 도브루지아는 루마니아에게 주었습니다"
-pact.117.a:0 "전체지역을 받을 필요가 있다"
+pact.117.d:0 "우리의 동맹국이 우리에게 남부 도브루자만을 할양했으며, 북부 도브루자는 루마니아에게 주었습니다"
+pact.117.a:0 "도브루자 전체를 받아내야 한다"
 
 pact.118.t:0 "마케도니아를 반환받았습니다"
 pact.118.d:0 "우리의 동맹국이 마케도니아 지역을 우리에게 반환해주었습니다."
@@ -500,10 +500,10 @@ pact.119.d:0 "우리의 동맹국이 마케도니아 지역을 우리에게 반�
 pact.119.a:0 "훌륭해!"
 
 pact.120.t:0 "마케도니아 분할"
-pact.120.d:0 "우리의 동맹국이 우리에게 마케도니아의 일부 지역만 주었으며, 나머지 부분은 불가리아에게 주었습니다."
-pact.120.a:0 "전체지역을 받을 필요가 있다"
+pact.120.d:0 "우리의 동맹국이 우리에게 마케도니아의 일부 지역만을 할양했으며, 나머지 부분은 불가리아에게 주었습니다."
+pact.120.a:0 "마케도니아 전체를 받아내야 한다"
 
 pact.121.t:0 "마케도니아 분할"
-pact.121.d:0 "우리의 동맹국이 우리에게 마케도니아의 일부 지역만 주었으며, 나머지 부분은 세르비아에게 주었습니다."
-pact.121.a:0 "전체지역을 받을 필요가 있다"
+pact.121.d:0 "우리의 동맹국이 우리에게 마케도니아의 일부 지역만을 할양했으며, 나머지 부분은 세르비아에게 주었습니다."
+pact.121.a:0 "마케도니아 전체를 받아내야 한다"
 
