@@ -238,9 +238,9 @@ amcivwar.29.a:0 "구축함"
 amcivwar.29.b:0 "순양함"
 
 amcivwar.30.t:0 "중앙위원회 지시 #10: 물질 자산의 재분배를 통제하는 규제"
-amcivwar.30.d:0 "Now that the revolution has begun, we must decide what should be done to the bourgeoisie. The IWW proclaim we confiscate all their wealth and redistribute it to the people immediately. The up-and-coming Vanguard has called for their immediate arrest and execution as well, citing the fate of Vladimir Lenin as an example of a revolution defeated by leniency. SPA members belonging to the depreciated AFL, along with several loyal Progressives have sought life over death. Asking the Central Committee to only expropriate what is necessary for war, and keep their materialist constituents happy. "
+amcivwar.30.d:0 "이제 혁명이 시작됬으며, 부르주아들을 어떻게 해야할지 결정해야합니다. 세계산업노동자협회는 즉시 모든 재산을 압류하여 인민들에게 분배해줄 것을 주장했습니다. 유망한 선봉대는 관용을 베풀어서 패배한 것으로 유명한 블라디미르 레닌의 최후를 예시로 들면서 부르주아들을 즉각 체포하고 처형할 것을 주장했습니다. 일부 충직한 진보당 당원들과 함께 가치가 하락한 AFL에 소속된 미국사회당 당원들은 죽음 이상의 삶을 추구해왔습니다. 중앙위원회에 전쟁에 반드시 필요한 것만을 수용하게 하고, 유물론자들의 행복을 앗아가지 않을 것을 요구하세요."
 amcivwar.30.a:0 "저들의 의식주는 원래 우리 것이다!"
-amcivwar.30.b:0 "We may need these moderates in the future."
+amcivwar.30.b:0 "장래에 이런 온건주의자들이 필요할 것이다."
 
 amcivwar.31.t:0 "부르주아들이 캐나다로 도망가다"
 amcivwar.31.d:0 "부르주아들은 노동 연맹으로부터 도망가기로 결정했습니다. 수천 명의 사람들이 적진, 특히 불법적인 캐나다 정부 영역으로 도망갔습니다. 도둑놈들은 혁명을 피해 가지고 갈 수 있는 재산을 몽땅 가져갔습니다."
@@ -265,7 +265,7 @@ amcivwar.35.a:0 "반란 여성이여, 그대들이야말로 우리의 여왕이�
 
 amcivwar.36.t:0 "내부 분쟁"
 amcivwar.36.d:0 "At the offset of the revolution, John Reed placed the IWW as the model and future successor to Congress. The AFL, which has seen a decline in membership before 1935, was revitalized by Reed's endorsement. Now the AFL, as a part of the coalition fighting the socialist revolution, has begun to exercise their ideological autonomy. They have choosen to occupy the entire left side of the IWW, and begun to pull in allies. Their debates with the IWW can sometimes leak out into street brawls, and, in two cases, friendly fire. The Vanguards, owing only their alligence to the revolution, have tried to foster cooperation. Now Reed must decide whether it is more danger to continue his support for the IWEW, when compromise is in sight. "
-amcivwar.36.a:0 "IWW의 편에 서자"
+amcivwar.36.a:0 "세계산업노동자협회 편에 서자"
 amcivwar.36.b:0 "싸우지 말고 타협하자"
 amcivwar.36.c:0 "AFL의 편에 서자"
 
@@ -382,9 +382,9 @@ amcivwar.63.d:0 "내전의 발발과 함께, 파나마 주둔군은 정부에 �
 amcivwar.63.a:0 "귀환을 환영한다"
 
 amcivwar.64.t:0 "내전 속의 고통"
-amcivwar.64.d:0 "The civil war is bringing the hardship home. People within a number of loyal cities are starving. We could focus on relieving their suffering,  but this will mean diverting supplies that are needed for the front to fight the civil war. Congress and the Military are at odds in this regard. What should we do?"
-amcivwar.64.a:0 "Relieve Civilian Suffering"
-amcivwar.64.b:0 "Support our Troops"
+amcivwar.64.d:0 "내전으로 조국이 어려움을 겪고 있습니다. 충성도가 높은 도시들에 거주하는 인민들이 기아에 허덕이고 있습니다. 우리는 시민들의 고통을 덜어줄 수 있는쪽으로 집중할 수 있지만, 이 경우에는 내전의 전방에서 싸우는데에 필요한 물자 보급을 민간지원으로 돌려버리게 됩니다. 국회와 군부는 이로인해 내전에서의 승산이 떨어질 가능성이 있습니다. 어떻게 해야할까요?"
+amcivwar.64.a:0 "시민들의 고통을 덜어주어라"
+amcivwar.64.b:0 "우리군을 지원한다"
 
 amcivwar.65.t:0 "계엄령?"
 amcivwar.65.d:0 "With the civil war raging a question has come about suspending habeas corpus and enforcing martial law in occupied territories. Those within our General Staff are even divided, as it could create more rebels than it defeats pre-emptivly. It might allow us to keep things under control during the civil war but such a move is naturally controversial. What shall be done?"
