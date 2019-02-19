@@ -4,6 +4,13 @@ l_english:
 BOL_CLR_BM:0 "§G검은 월요일 영향 모두 지우기§!\n"
 BOL_MID_BM:0 "§G효과는 우리의 접근 방식에 따라 달라질 수 있습니다§!"
 BOL_SHIPPIE:0 "이것은 우리의 해안 주 중 하나에 §Y2 해군 조선소§!를 추가할 것입니다"
+BOL_REVENGE:0 "§RThis may lead to war with our neighbours §Y[CHL.GetNameWithFlag]§! and §Y[PAR.GetNameWithFlag]§! §!\n"
+
+### Decision ###
+BOL_Enact_our_Revenge:0 "Enact our Revenge"
+BOL_Enact_our_Revenge_desc:0 "We have suffered, we have wept but through our defeats we have become stronger. As the ideological clash between the workers class and the old establishement rages on the European continent, it has sent shockwaves to our own region. With our neighbours tied up in conflicts of their own, now is the time to restore our nation to greatness and enact our revenge!"
+BOL_Join_Internationale:0 "인터내셔널 가입"
+BOL_Join_Internationale_desc:0 "With the succeses of our comrades in the rest of South America, we ourselves must now ask ourselves whether we should help the global spread of the revolution by joining the Internationale."
 
 ### Ideas ###
 BOL_Struggling_Economy:0 "경제 대공황"
@@ -278,7 +285,7 @@ BOL_Retake_Chaco_desc:0 "이전의 약한 정부들은 과두제 일원들에 �
 BOL_Reclaim_the_Coast:0 "해안 되찾기"
 BOL_Reclaim_the_Coast_desc:0 "우리는 오래전에 칠레에 대항하여 해안선을 잃었습니다. 이제 우리는 그 어느 때보다도 더 강합니다! 그리고 우리는 지금 우리를 지체시키는 성가신 페루인들을 가지고 있지 않습니다! 우리의 것을 되찾고 마침내 해안으로 갈 수 있는 때가 왔습니다. ¡볼리비아의 바다로!"
 BOL_Demand_Acre:0 "아크레 요구"
-BOL_Demand_Acre_desc:0 "아크레는 얼마 전에 브라질인들에게 상실되었습니다. 이 부당함은 충분히 처벌받지 않은 채 방치되어 있습니다! 우리는 비록 그들의 힘을 마주해야 한다고 할지라도, 우리의 정당한 땅을 브라질인들로부터 되찾을 것입니다. 그들은 강할지 모르지만, 우리는 우리가 그들보다 강하다는 것을 확실히 하기 위해 모든 조치를 취했습니다. 우리의 승리는 바로 가까이에 있습니다! ¡우리가 이길 거야!"
+BOL_Demand_Acre_desc:0 "아크레는 1903년에 브라질인들에게 빼앗겼습니다. 이 부당함은 너무 오랫동안 처벌받지 않은 채 방치되어 있습니다! 우리는 비록 그들의 힘을 마주해야 한다고 할지라도, 우리의 정당한 땅을 브라질인들로부터 되찾을 것입니다. 그들은 강할지 모르지만, 우리는 우리가 그들보다 강하다는 것을 확실히 하기 위해 모든 조치를 취했습니다. 우리의 승리는 바로 가까이에 있습니다! ¡우리가 이길 거야!"
 
 ### Parties ###
 BOL_social_democrat_party:0 "혁명적 민족주의 운동"
@@ -441,15 +448,15 @@ bol.26.d:0 "부시 행정부의 거듭된 실패에 고무된 군부 몇 명이 
 bol.26.a:0 "쿠데타가 성공했다!"
 bol.26.b:0 "부시가 통제에 성공했다"
 
-bol.27.t:0 "볼리비아의 인터내셔널 참가?"
-bol.27.d:0 "남미의 나머지 지역에서 우리의 동지들의 성공과 함께, 우리는 이제 우리가 인터내셔널에 가입함으로써 혁명의 세계적인 확산을 도와야 하는지 자문해 보아야 합니다."
-bol.27.a:0 "코뮌에 접근한다"
-bol.27.b:0 "우리는 중립을 지킬 것이다"
+bol.27.t:0 "볼리비아가 인터내셔널에 가입하기를 원합니다"
+bol.27.d:0 "작은 남아메리카 국가 하나가 공식적으로 인터내셔널에 가입하기를 원했으며, 전세계 노동계층의 해방을 위해 우리가 원조를 해주기를 원하고 있습니다."
+bol.27.a:0 "만세!"
+bol.27.b:0 "쟤네들 파라과이한테 패전하지 않았던가?"
 
 ##Army Generals##
 
 BOL_German_Busch_desc:0 "§Y장군 설명\n§Y출생:§W 1904년 3월 23일, 출생지 불명.\n§Y군사 경력:§W 게르만 부시 베세라는 1922년 '육군대학'에 입학하여 1927년 기병대 소위로 졸업했습니다. 그는 차코 전쟁 직전에 중위로 진급되었습니다. 그는 차코 전쟁에서 가장 피비린내 나는 전투 중 하나인 보케론 전투에 참가했었고 보케론 요새의 수비대를 구하지 못하고 퇴각할 수 밖에 없었습니다. 그럼에도 불구하고, 그는 제5 기갑 연대장으로 진급되었고, 그곳에서 그는 용감하게 '안데스 콘도르의 국가 훈장'을 받았습니다. 그는 나중에 불만을 품은 다른 군 장군에 합류해서 살라망카 정부를 전복시켰고 그 이후 정치에 헌신하면서 살았습니다. 비록 볼리비아의 국가적 영웅이 되었지만, 차코 전쟁은 게르만에게 정서적인 상처를 남겼으며, 그의 가족 가까이에 있는 소식통들은 그가 심각한 우울증을 겪고 있다고 폭로했습니다. \n§Y중요 참고 사항:§W- 민족 구원 위원회의 지도자입니다."
-BOL_Angel_Ayora_desc:0 " "
+BOL_Angel_Ayora_desc:0 ""
 BOL_Bernardino_Bilbao_Rioja_desc:0 "§Y장군 설명\n§Y출생:§W 1895년 5월 20일, 볼리비아, 포토시 주, 아람파파.\n§Y군사 경력:§W 베르나르디노 빌바오 리오하는 1912년 '육군대학'에 입학하여 장학금을 받고 칠레의 장교 학교로 보내졌습니다. 그는 1918년에 포병 소위로 졸업했고 1919년에는 조종사 훈련을 받았습니다. 1926년까지 그는 소령에 도달했고 '군사 항공 학교'를 만들고 조직하기 시작했으며, 비행 강사는 물론 볼리비아 항공의 선구자가 되었습니다. 1932년, 그는 아르헨티나에 군사 특파원으로 파견되었지만 차코 전쟁이 시작되자마자 재빨리 소환되었습니다. 그가 돌아왔을 때 그는 볼리비아 공군의 총 감독관이자 군수 수송관이었습니다. 그는 협곡 공세, 알리후아타의 7Km 재탈환, 발라몬테스 수비전 등 그의 용맹함과 뛰어난 조직력이 돋보이는 치열한 전투에 참가했습니다.\n§Y중요 참고 사항:§W- 유럽을 여행한 후, 그는 현재 초국가주의인 볼리비아 국민당을 이끌고 있습니다."
 BOL_Gualberto_Villarroel_Lopez_desc:0 "§Y장군 설명\n§Y출생:§W 1908년 12월 15일, 볼리비아, 코차밤바 주, 빌라 리베로.\n§Y군사 경력:§W 구알베르토 비야로엘 로페스는 '육군대학'에 입학하여 1930년에 소위로 졸업했습니다. 로페스는 졸업 후 차코 전쟁이 시작될 때까지 꾸준히 승진했고, 그곳에서 그의 교활함과 용기는 그를 볼리비아 사람들의 전쟁 영웅으로 만들었습니다.\n§Y중요 참고 사항:§W- 민족 구원 위원회의 구성원입니다."
 BOL_Carlos_Quintanilla_desc:0 "§Y장군 설명\n§Y출생:§W 1888년 6월 22일, 볼리비아, 코차밤바.\n§Y군사 경력:§W 카를로스 퀸타닐라 퀴로가는 1907년에 '육군대학'을 소위로 졸업했습니다. 그는 독일 육군 사관학교에서 여러 군사 과정을 맡으며, 세계대전 기간 동안 군사 연락관으로 독일로 보내졌습니다. 그는 볼리비아로 돌아가 차코 전쟁이 발발하기 전에 사령관 직을 맡게 되었고, 그는 필리베르토 오소리오의 사임으로 참모총장이 되었습니다. 하지만, 퀸타닐라는 보케론 전투에서 볼리비아의 패배에 대한 책임이 있으며, 그는 파라과이의 공격 징후는 무시하고, 중요한 전략적 결정을 뒤집을 수 있는 어떤 결정도 하지 못했습니다. 보케론이 함락된 후, 그는 볼리비아의 다른 고위 지휘관들을 재결합하여 그들의 다음 행보를 의논했습니다. 이 회의는 퀸타닐라와 빌바오 리오하 사이의 열띤 논쟁 끝에 끝났고, 리오하는 결국 권총을 꺼내 퀸타닐라를 조준하여 두 장교 사이의 경쟁을 촉발시켰습니다."
