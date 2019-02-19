@@ -263,8 +263,6 @@ kr_savage_arms_csa:0 "세비지"
 kr_watervliet_arsenal_csa:0 "워터블리트 조병창"
 kr_marble_arms_csa:0 "마블"
 kr_western_cart_csa:0 "Alton Workers' Defence"
-kr_fedlabs_csa:0 "존 브라운 무기 협동조합"
-kr_fedlabs_csa_desc:0 "원래 연방 연구소는 피츠버그 인근에서 비살상 시위 진압용 무기를 만들었지만, 연방 연구소의 경영진과 소유자들은 비밀리에 공장의 모든 장비를 연방정부의 통제를 받는 메릴랜드로 밀반입했습니다. 메릴랜드로 이전한 연방 연구소는 즉시 내전에 필요한 소화기의 양산을 시작했습니다.\n노동 연맹의 승리 이후, 연방 연구소는 '존 브라운 무기 협동조합'으로 재조직되었고 영업을 재개했습니다."
 kr_sacremento_depot_csa:0 "새크라멘토 육군 공창"
 
 kr_bfgoodrichcompany_csa:0 "BF굿리치"
@@ -411,7 +409,7 @@ GEA_FMSR:0 "Malaiische Staatseisenbahn"
 GEA_Chemin_de_fer_Transindochinois:0 "Trans-Indochinesische Eisenbahn"
 GEA_Schantung_Eisenbahn_Gesellschaft:0 "Schantung-Eisenbahn-Gesellschaft"
 GEA_Focke-Wulf:0 "Focke Wulf Ostasien"
-GEA_Malaiisch_Fluggesellschaft:0 "Malaiische Luftfahrtsgesellschaft"
+GEA_Malaiisch_Fluggesellschaft:0 "Malaiische Luft-Reederei"
 GEA_Rumpler_Flugzeugwerke_Ostasien:0 "Rumpler Flugzeugwerke Ostasien"
 GEA_Norddeutscher_Lloyd:0 "Norddeutscher Lloyd Singapur"
 GEA_Saigon_Werft:0 "Saigon Werft" # Scrapped due to lack of icons
@@ -1263,7 +1261,6 @@ car_hispano_aviacion:0 "히스파노 항공"
 car_talleres_loring:0 "로링 작업장"
 car_sociedad_espanola_construccion:0 "스페인 해군 건설 협회"
 car_euskalduna:0 "에우스칼두나"
-CAR_Elixio_Rodriguez_cair_sli:0 "엘릭시오 로드리게즈"
 
 ### Spain FAI ###
 cnt_altos_hornos:0 "알토즈 호르노즈 드 비즈카야"
@@ -1524,8 +1521,8 @@ kr_higgins_usa:0 "히긴스"
 kr_ingalls_shipyards_usa:0 "Ingalls Shipbuilding"
 kr_ingalls_shipyards_usa_desc:0 "Robert Ingersoll Ingalls, founder of the shipbuilding company which bears his name, struggled for years to acquire funding for his grand shipyard on the Pascagoula river. With the outbreak of the civil war, the Union State, desperately lacking in warships and merchant vessels alike, earmarked a substantial sum to the company, kickstarting its development. With the Union State's defeat to the Federal government, the company was reorganised and reopened."
 
-### Belorussia ###
-white_ruthenia_state_university:0 "벨로루시 국립대"
+### White Ruthenia ###
+white_ruthenia_state_university:0 "백루테니아 국립대"
 gomel_radio_plant:0 "호멜 라디오 시설"
 minsk_automobile_plant:0 "민스크 자동차 공장"
 baranovichi_aviation_repair_plant:0 "바라나비치 항공기 수리 시설"
@@ -1533,7 +1530,7 @@ pinsk_shipyard:0 "핀스크 조선소"
 bsvt:0 "Belspetsvneshtechnika"
 belaz:0 "BelAZ"
 mzkt:0 "MZKT"
-belarusian_railway:0 "벨로루시 철도"
+belarusian_railway:0 "백루테니아 철도"
 
 ### Albania ###
 telekomi_shqiptar:0 "Telekomi Shqiptar"
