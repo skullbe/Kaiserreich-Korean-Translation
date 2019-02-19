@@ -107,6 +107,8 @@ COS_PBA_WEAP:0 "Boost §GResistance Strength§! in Puerto Barrios"
 
 Beel_pls:0 "§RB E E L Z E B U B \nE \nE \nL \nZ \nE \nB \nU \nB§!"
 
+COS_ELECTIONS:0 "The 1940 elections have yet to occur"
+
 ### Decisions ###
 COS_ZKG_decisions:0 "Zentralamerikanische Kaffee-Gesellschaft"
 COS_ZKG_decisions_desc:0 "Our nation is almost fully controlled by a select elite of Coffee barons. Due to the American depression and the subsequent shockwaves, many of these barons with German roots have bound together and have created the §YZentralamerikanische Kaffee-Gesellschaft§! or §YZKG§!. Their power is large but could also be used to our advantage should we play our cards right.\n\nInfluence of the §YZKG§! : £coffee_texticon [?party_popularity@authoritarian_democrat|%R0]\n"
