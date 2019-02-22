@@ -513,7 +513,7 @@ CAN_american_civil_war_decisions_desc:0 "상상할 수 없는 일이 일어났�
 CAN_new_england_decisions:0 "뉴잉글랜드"
 CAN_new_england_decisions_desc:0 "[CAN_new_england_dec_categ]"
 CAN_new_england_category_norebel:0 "미국 내전에 대한 우리의 개입은 뉴잉글랜드 점령으로 이어졌습니다 - 이것은 우리가 현재 그 나라와 그 나라 국민들을 어떻게 다루느냐에 따라 이득이 될 수도 있고 저주가 될 수도 있습니다."
-CAN_new_england_category_rebel:0 "Our intervention into the American Civil War has resulted in our occupation of New England - which is currently proving to be quite the pain, with the so-called Yankee Rebellion openly calling our unwanted presence an aggressive act of war against all Americans.\n\n§RYankee Rebellion§! is currently active in: §Y[?CAN.CAN_yankee_rebellion]§! states"
+CAN_new_england_category_rebel:0 "미국 내전에 대한 우리의 개입은 뉴잉글랜드 점령으로 이어졌습니다 - 뉴잉글랜드 점령은 소위 양키 반란으로 인해 고통스러우며 우리의 존재를 원치하는 세력은 우리의 행동이 모든 미국인들에 대한 공격적인 전쟁 행위라고 공공연히 말하고 있습니다\n\n§R양키 반란§!이 현재 다음 지역에서 일어나고 있습니다: §Y[?CAN.CAN_yankee_rebellion]§! 주"
 CAN_reinforce_ottawa:0 "오타와 강화"
 CAN_reinforce_ottawa_desc:0 "생디칼리스트들이 우리 남쪽 문 앞에 들어서면서, 캐나다에 전쟁이 일어날 것이라는 전망이 우리 모두를 뒤덮고 있습니다. 지상 공격에 대비하여, 오타와의 방어선을 강화해야만 합니다."
 CAN_reinforce_montreal:0 "몬트리올 강화"
