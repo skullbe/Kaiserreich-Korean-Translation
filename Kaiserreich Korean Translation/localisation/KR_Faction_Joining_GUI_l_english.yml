@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
   
 FACTION_JOINING_ALERT_TITLE:0 "외교 변화"
 FACTION_JOINING_ALERT_DESC:0 "[faction_member.GetFlag] §Y[faction_member.GetName]§! 이(가) §Y[faction_leader.GetFactionName]§!에 가입하였습니다."
@@ -20,7 +20,42 @@ JF_GENERIC_FLAVOUR_ENT_VICTORY:0 "협상국의 승리는 모든 역경에도 불
 JF_GENERIC_FLAVOUR_OTHER_VICTORY:0 "구세계의 질서가 폐허가 되면서, 새로운 열강이 잿더미에서 일어서고 있습니다. 한 번에 하나의 합의를 거쳐, 세계는 재건되고 있습니다."
  
 ### Add Custom Localisation Here ###
+
+#North America
+
+#Central America
+JF_COS_GER_FLAVOUR:0 "Intertwined through the ZKG coffee barons and forced to look away from the USA for its protection, a treaty of military assistance has been signed with the [faction_leader.GetFactionName] together with access to the Puerto Limon naval facilities."
+JF_COS_CAN_FLAVOUR:0 "Abandonned by their trusted ally, the USA, San José was forced to look further North to ensure its protection from its more predatory neighbours. Ottawa, always eager to have closer control over the Panama Canal region has embraced us"
+
+#South America
 JF_ARG_GER_FLAVOUR:0 "양국 간의 성공적인 무역 협정과 군사 협력에 따라, [faction_member.GetLeader]은(는) [faction_leader.GetFactionName]에 가입한다고 선언했습니다." 
 JF_ARG_CAN_FLAVOUR:0 "빈틈없는 외교를 통해 [faction_member.GetLeader]와(과) [faction_leader.GetName]은(는) 공동의 위협을 위해 그들의 차이점을 제쳐두고 이슬라스 말비나스 위기를 해결했습니다." 
+
+#Western Europe
+JF_BEL_GER_FLAVOUR:0 "Agreed upon in the Treaty of Arlon, the newborn nation of Belgium has officially rejoined the [faction_leader.GetFactionName] to protect its sovereignty from Syndicalist hawks."
+JF_BEL_CAN_FLAVOUR:0 "Allies on the Yzer during the Weltkrieg and connected by blood to the British crown, the Van België's have thrown their fate in with their old allies to ensure their survival."
+JF_BEL_FRA_FLAVOUR:0 "The Old Order is crumbling, the [GER.GetName] desintegrating, rise you victims of opression and bring down the Giant in retaliation for 1914!"
+
+#Scandinavia
+
+#Southern Europe
+
+#Eastern Europe
+
+#Balkans
 JF_SER_GRE_FLAVOUR:0 "불가리아의 성장세에 대한 공통된 증오 때문에, 그리스는 불가리아를 완전히 없애기 위해 세르비아와 베오그라드 조약에 가입하기로 결정했습니다. 이것은 발칸 반도의 권력 균형을 아주 잘 흔들어 놓을 것입니다."
 JF_SER_ROM_FLAVOUR:0 "오스트리아와 불가리아의 세력이 커짐에 따라 루마니아는 그들의 힘을 억제하기 위해 베오그라드 조약으로의 초청을 수락했습니다. 오스트리아와 불가리아는 화약통이 다시 한번 폭발할 뻔하자 두려움에 떨며 지켜보고 있습니다."
+
+#Middle East
+
+#Africa
+
+#Central Asia
+
+#India
+
+#South East Asia
+
+#East Asia
+
+#Oceania
