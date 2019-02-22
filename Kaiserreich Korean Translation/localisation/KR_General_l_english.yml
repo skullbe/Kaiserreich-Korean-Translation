@@ -31,6 +31,8 @@ kr_nominal_puppet:0 "명목상 괴뢰국"
 kr_special_autonomous_dependency:0 "자치 속국"
 kr_african_colony:0 "아프리카 식민지"
 kr_african_tributary:0 "아프리카 조공국"
+kr_initial_wif_puppet:0 "연합된 식민지"
+kr_soclib_wif_puppet:0 "연합된 자치령"
 autonomy_colony:1 "식민지"
 autonomy_dominion:1 "자치령"
 
@@ -45,7 +47,7 @@ may_become_free:0 "§Y[Root.GetNameDefCap]§! (은)는 독립을 향해가고 �
 ### Autonomy Events ###
 kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구되다"
 kr.political.100.d:0 "[Root.GetNameDef]이(가) 여전히 [overlord_name.GetAdjective]의 통제 하에 노동하고 있는 동안, [Root.GetAdjective] 군대는 자국의 국경을 충분히 제어 할 수 있다고 주장하며 이제 더 큰 자율성을 발휘할 수 있게 되었습니다. 이것은 독립 국가와는 거리가 멀지만 국경을 확보하기 위해 더 이상 [overlord_name.GetAdjective] 군대에 의존 할 필요가 없다는 것을 의미합니다."
-kr.political.100.a:0 "훌륭하군"
+kr.political.100.a:0 "훌륭하군."
 
 kr.political.101.t:0 "대 [Root.GetAdjective] 자치령?"
 kr.political.101.d:0 "[Root.GetNameDefCap]은(는) [overlord_name.GetAdjective] 정부의 통제하에 있지만, 우리의 힘을 스스로 재확보함에 따라 그 통제권은 확실히 줄어들기 시작하고 있습니다. [Root.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 우리의 지도자들은 우리 자신의 문제에 대한 더 많은 통제권을 요구하고 있습니다. 물론 우리 [overlord_name.GetAdjective]은(는) 오랫동안 저항할 수 없을 것입니다."
@@ -140,11 +142,11 @@ JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일�
 ### Costa Rica ###
 COS_KR_GATHERING_STORM_DESC:0 "Class warfare, rapid militarisation and the Iron Grip of the Kaiser hold the world in its grasp, which makes it even more peculiar that in the midst of all this violence and pain we can find the tiny republic of Costa Rica. Taking great pride in their impressive literacy statistics and their unbreakable dedication to the Constitution, the nation stands as a rock above its neighbours who have long been eyeing its land. As their greatest ally starts to descend into chaos, vultures all across the Americas are waiting for the proud eagle to fall. Diplomacy will have to prevail if we are to survive the coming tide..."
 
-### Cuba (RIP for now) ###
-#CUB_KR_GATHERING_STORM_DESC:0 "A mere seven years since the overthrow of American-backed dictator Gerardo Machado, Cuba again teeters on the edge of political upheaval. The regime of young President Rafael Trejo has steadily lost control over the Army and the civilian government's political authority has all but completely eroded. As radicals both right and left threaten the country, the military may well take full control as soon as an opportunity presents itself."
+### Cuba ###
+CUB_KR_GATHERING_STORM_DESC:0 "A mere seven years since the overthrow of American-backed dictator Gerardo Machado, Cuba again teeters on the edge of political upheaval. The regime of young President Rafael Trejo has steadily lost control over the Army and the civilian government's political authority has all but completely eroded. As radicals both right and left threaten the country, the military may well take full control as soon as an opportunity presents itself."
 
-### Dominican Republic (RIP for now) ###
-#DOM_KR_GATHERING_STORM_DESC:0 "The American Occupation of the Dominican Republic ended in 1924 and full political control was returned soon after, but within a mere few years, the nation's new democratic constitution would face challenges both within and without. While Democracy has so far survived in the nation, the schism of the long-ruling Red Party has again put the constitution's survival in jeopardy."
+### Dominican Republic ###
+DOM_KR_GATHERING_STORM_DESC:0 "The American Occupation of the Dominican Republic ended in 1924 and full political control was returned soon after, but within a mere few years, the nation's new democratic constitution would face challenges both within and without. While Democracy has so far survived in the nation, the schism of the long-ruling Red Party has again put the constitution's survival in jeopardy."
 
 ### Guatemala ###
 GUA_KR_GATHERING_STORM_DESC:0 "The overthrow of the two decade long president Manuel Estrada Cabrera in 1920 and the overthrow of the Unity Party afterwards has led to a decade long dictatorship under José María Orellana. Through various compromises he has been able to keep power by a string through the Americans and various outside influence. However, the rise of Sandino in Nicaragua has caused extreme trouble for his presidency as socialist movements begin to grow and the Unity Party officials begin to ally with elements of the military. Orellana's dictatorship might have its string cut soon."
@@ -152,17 +154,11 @@ GUA_KR_GATHERING_STORM_DESC:0 "The overthrow of the two decade long president Ma
 ### Honduras ###
 HON_KR_GATHERING_STORM_DESC:0 "The suicide of President Andino in 1933 following the peasant charge of the capital created a shock wave throughout Honduras, soon after a peasant republic was established with the goal of gradually rooting out US influence and purging Pro US elements. In 1936 the Council is on the brink of collapse and there are rumours of a conspiracy within the government..."
 
-### Mexico ###
-MEX_KR_GATHERING_STORM_DESC:0 "멕시코 혁명은 완전히 격변된 멕시코를 낳았습니다. 1920년대, 알바로 오브레곤과 아돌포 데 라 우에르타 대통령은 혁명의 여파 속에서 국가를 서서히 안정시켜가면서 미국과의 관계를 개선해왔습니다. 미국의 대공황은 1932년 에말리아노 사파타가 대통령으로 선출되면서 시작된 혁명의 사상을 멕시코가 기꺼이 수용하도록 만들었습니다. 그의 임기가 2년이 남았고, 그리고 혁명이 거의 완수된 것처럼 보이는 지금 사파타는 멕시코를 위한 미래의 진로를 계획하고자 합니다."
-
 ### Nicaragua ###
 NIC_KR_GATHERING_STORM_DESC:0 "The occupation of Nicaragua by the United States Marines in 1926 ended in disaster as the liberal revolutionary general expelled them and set up his new 'Revolutionary Republic' within Nicaragua. It soon drifted towards a socialist attitude and underwent not insignificant development but it is not without its troubles. The expelling of large amounts of American companies has left a hole in the economy and the entire eastern side of the country is unofficially demilitarized after a stern warning of entering the region from the Americans. With the elections soon will Nicaragua's fate finally be changed?"
 
-### Haiti (RIP for now) ###
-#HAI_KR_GATHERING_STORM_DESC:0 "With the withdrawal of American forces in 1932, Louis Borno, longtime puppet President of Haiti, clung onto power, with the United States still maintaining a degree of control over Haitian finances and foreign affairs.\nIn spite of the success of Borno's efforts to mitigate the Great Depression, opposition mounts towards his rule from all strata of society and calls for drastic reform of the education system threaten to totally upend the status-quo."
-
-### West Indies Federation (RIP for now) ###
-#CAF_KR_GATHERING_STORM_DESC:0 "The West Indies Federation was created as a result of the collapse of the British Empire in 1925 due to being unable to exert the influence to control the region directly. After the incorporation of the French colonies in 1927 the country has been home to not only a noticeable class divide, but a cultural and ideological one as well. The people and new generation have seen a noticeable drift towards socialist attitudes and preference towards the communards on the mainland. All it could take is one wrong step before chaos erupts on the Indies..."
+### West Indies Federation ###
+CAF_KR_GATHERING_STORM_DESC:0 "The West Indies Federation was created as a result of the collapse of the British Empire in 1925 due to being unable to exert the influence to control the region directly. After the incorporation of the French colonies in 1927 the country has been home to not only a noticeable class divide, but a cultural and ideological one as well. The people and new generation have seen a noticeable drift towards socialist attitudes and preference towards the communards on the mainland. All it could take is one wrong step before chaos erupts on the Indies..."
 
 ### History ###
 OTHER_KR_GATHERING_STORM_DESC:0 "세계의 크고 작은 국가들은 세계에서 주요한 역할로 등장할 기회를 기다리고 있습니다. 자신의 제국을 유지하려는 주요 국가들부터 세계 대전에서 잃은 자신의 것들을 되찾으려는 많은 국가들까지, 모든 국가들은 어려운 결정들을 내려야만 할 것이고 현실과 이상 사이의 균형을 잘 맞춰 세계의 미래에 영향을 미쳐야 할 것 입니다..."
