@@ -4,7 +4,7 @@ l_english:
 
 NOR_established_relations:0 "외교 관계 수립"
 NOR_CAN_ties:0 "앵글로-노르웨이 결속"
-NOR_NAT_diplomacy:0 "국수주의 외교"
+NOR_NAT_diplomacy:0 "국민주의 외교"
 
 ### Ideas ###
 NOR_labour_conflicts:0 "노동 분쟁"
@@ -1043,9 +1043,3 @@ NOR_soc_dem_govt:0 "사회민주당이 여당임"
 NOR_market_liberal_govt:0 "보수당이 여당임"
 NOR_hird_supremacy:0 "경비대 패권"
 NOR_nationalist_nation:0 "국민주의자들이 노르웨이를 통치함"
-
-### Other ###
-FLEET_NAME_NOR:0 "$NUMBER$. Sjøforsvarsdistrikt"
-
-### Leader descriptions ###
-NOR_PRINCE_CARL_DESC:0 "Prince Carl, Duke of Västergötland, is the current Viceroy of Norway. He is the representative of his brother, King Gustaf V of Sweden and Norway."
