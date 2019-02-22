@@ -34,10 +34,10 @@ NEE_Minutemen:0 "뉴잉글랜드 민병대"
 NEE_Defensive_Nature:0 "뉴잉글랜드 민병대"
 NEE_Green_Mountain_Boys:0 "뉴잉글랜드 민병대"
 NEE_Special_Forces:0 "공화국 특수부대"
-NEE_prop_attack_idea:0 "뉴잉글랜드인 파괴"
-NEE_prop_defence_idea:0 "뉴잉글랜드인 파괴"
-NEE_prop_org_idea:0 "뉴잉글랜드인 파괴"
-NEE_prop_production_idea:0 "뉴잉글랜드인 파괴"
+NEE_prop_attack_idea:0 "뉴잉글랜드 전복"
+NEE_prop_defence_idea:0 "뉴잉글랜드 전복"
+NEE_prop_org_idea:0 "뉴잉글랜드 전복"
+NEE_prop_production_idea:0 "뉴잉글랜드 전복"
 NEE_marine_corps:0 "뉴잉글랜드 해군"
 
 ### Opinion Modifiers ###
@@ -51,7 +51,7 @@ NEE_Liberty_Ships_tt:0 "Unlocks £decision_icon_small §HDecisions§! to expand 
 NEE_Defence_Stratagem_A_tt:0 "Unlocks £decision_icon_small §HDecisions§! to organise the §MDefence of New England§!"
 NEE_Behind_Eneny_Lines_tt:0 "Unlocks §YInfiltrate, Improvise, Sabotage§! resistance actions"
 NEE_Underground_Railroad_tt:0 "§YRefugees§! and §YResources§! will be smuggled across the border into §Y[NEE.GetNameWithFlag]§!"
-NEE_Public_Opinion_Support_tt:0 "Unlocks £decision_icon_small §HDecisions§! to sway §YPublic Opinion§! on the Home Front"
+NEE_Public_Opinion_Support_tt:0 "Unlocks £decision_icon_small §HDecisions§! to sway §YPublic Opinion§! on the Home Front\n"
 NEE_ISAC_Equipement_tt:0 "Unlocks £decision_icon_small §HDecisions§! to purchase §YEntente Weaponry§! and increase §YInternational Research Collaboration§!"
 
 NEE_legitimacy_minus_5_tt:0 "우리의 §Y정통성§!이 §R5§!만큼 감소합니다"
@@ -529,7 +529,7 @@ newengland.41.b:0 "미국 자동차는 미국 방식으로 달린다!"
 
 newengland.42.t:0 "영국 왕실의 뉴잉글랜드 방문"
 newengland.42.d:0 "에드워드 8세와 오클레앙의 부인 이사벨이 뉴잉글랜드와 캐나다간의 관계 개선을 위해 오늘 보스턴에 도착했습니다. 재임 중인 영국 국왕이 보스턴을 방문한것은 역사상 처음 있는 일입니다. 예상한대로, 대영제국의 왕과 여왕을 보기 위해 많은 군중들이 운집했습니다. 또 왕은 뉴잉글랜드의 여러 지도자들과 정치를 논의하기 위해 온 것으로도 알려져 있습니다."
-newengland.42.a:0 "보스턴에 오신걸 환영합니다!"
+newengland.42.a:0 "그 누가 왕실의 방문을 사랑하지 않겠는가!"
 
 ### Underground Railroad ###
 newengland.50.t:0 "지하철"
