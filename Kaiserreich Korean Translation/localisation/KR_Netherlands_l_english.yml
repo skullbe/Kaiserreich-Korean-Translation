@@ -26,6 +26,7 @@ hol_sdap_majority:0 "사회민주노동당의 선거 우세"
 hol_leftwing_negotiations_failed:0 "좌익들과의 협상이 실패하다"
 hol_gele_kerken:0 "반 힐케어컨의 쿠데타가 성공하다"
 hol_geen_gele_kerken:0 "반 힐케어컨의 쿠데타가 실패하다"
+soc_dems_are_socialists:0 "사회민주당이 생디칼리스트제도 내에서 적극적이다."
 
 ### Ideas ###
 HOL_mech_troops:0 "기계화 보병"
