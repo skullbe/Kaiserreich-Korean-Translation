@@ -7,7 +7,7 @@ GER_poli_temp:0 "최종 개혁"
 GER_poli_temp_desc:0 "너무 오랫동안 사람들은 우리 정부의 권력이 어디에 놓여 있는지에 대해서 이야기했습니다. 그 의문을 단번에 해소시켜줄 시간입니다. 단 독일의 정치적 선택이 끝나는 동안의 일시적인 중점이라는 것을 유의하십시오."
 
 ### Ideas ###
-black_guarantee:0 "개인의 재산 보장"
+black_guarantee:0 "사유 재산 보장"
 black_guarantee_desc:0 "시민들의 은행 예금을 보장함으로써 우리는 어느 정도 충격에서 벗어났습니다. 그러나 그 비용은 막대했습니다."
 
 GER_political_uncertainty:0 "정치적 불확실"
@@ -348,10 +348,60 @@ GER_black_monday_colonies_decisions:0 "식민지 내의 검은 월요일 위기"
 GER_bm_sale_of_ceylon:0 "실론 섬 매각"
 GER_bm_sale_of_ceylon_desc:0 "실론 섬은 천연자원이 풍부함에도 불구하고 행정적 비효율 때문에 수익성이 매우 떨어지는 식민지이고, 매년 막대한 투자가 필요합니다. 하지만 이 섬을 토후 연맹에 매각하자는 의심할 여지없이 수익성이 있는 제안이 있습니다."
 
+#GER_black_monday_reichstag_decisions:0 "" already defined above
+#GER_black_monday_reichstag_decisions_desc:0 "" already defined above
+
+#GER_reichstag_in_progress:0 "" already defined above
+
+#GER_bmr_SPD1:0 "" already defined above
+#GER_bmr_SPD1_desc:0 "" already defined above
+
+#GER_bmr_SPD2:0 "" already defined above
+#GER_bmr_SPD2_desc:0 "" already defined above
+
+#GER_bmr_FVP1:0 "" already defined above
+#GER_bmr_FVP1_desc:0 "" already defined above
+
+#GER_bmr_NLP1:0 "" already defined above
+#GER_bmr_NLP1_desc:0 "" already defined above
+
+#GER_bmr_NLP2:0 "" already defined above
+#GER_bmr_NLP2_desc:0 "" already defined above
+
+#GER_bmr_ZEN1:0 "" already defined above
+#GER_bmr_ZEN1_desc:0 "" already defined above
+
+#GER_bmr_ZEN2:0 ""already defined above
+#GER_bmr_ZEN2_desc:0 "" already defined above
+
+#GER_bmr_DKP1:0 "" already defined above
+#GER_bmr_DKP1_desc:0 "" already defined above
+
+#GER_bmr_DKP2:0 "" already defined above
+#GER_bmr_DKP2_desc:0 "" already defined above
+
+#GER_bmr_DVLP1:0 "" already defined above
+#GER_bmr_DVLP1_desc:0 "" already defined above
+
 GER_foreign_policy_decisions:0 "독일의 바깥을 살펴보다"
 
 GER_reichspakt_bulgaria:0 "불가리아를 제국 조약으로 초대"
 GER_reichspakt_bulgaria_desc:0 "~mw~가 오싹한 곳에서 일을 하게 만듭니다. 도움의 손길을 보내세요!"
+
+#GER_black_monday_mitteleuropa_decisions:0 "" already defined above
+
+#GER_bm_polish_nationalisation:0 "" already defined above
+#GER_bm_polish_nationalisation_desc:0 "" already defined above
+
+#GER_black_monday_colonies_decisions:0 "" already defined above
+
+#GER_bm_sale_of_ceylon:0 "" already defined above
+#GER_bm_sale_of_ceylon_desc:0 "" already defined above
+
+#GER_foreign_policy_decisions:0 "" already defined above
+
+#GER_reichspakt_bulgaria:0 "" already defined above
+#GER_reichspakt_bulgaria_desc:0 "" already defined above
 
 ### Focuses ###
 GER_doctrine_new:0 "육군 개혁"
@@ -478,6 +528,12 @@ GER_security_desc:0 "생디칼리스트의 테러는 제국 은행 총재 카를
 
 GER_security_prerequisite:0 "§Y프란츠 폰 파펜§! 또는 §Y쿠르트 폰 슐라이허§!가 정부 수반으로 있어야 합니다."
 
+GER_political_suppression:0 "정치 탄압"
+GER_political_suppression_desc:0 "제국경찰(Reichspolizei)의 임무는 생디칼리스트 조직과 기타 급진적인 집단들을 진압하는 것이지만, 제국경찰을 다른 흥미로운 일에도 이용할 수 있을겁니다. 야당 내에는 간단히 몇번 협박을 주면 침묵할만한 정치인들이 많을겁니다..."
+
+GER_consult_military:0 "군부와 협의"
+GER_consult_military_desc:0 "많은 사람들은 육군(Heer)이 독일을 세운 충성스럽고 튼튼한 토대라는 것을 잊어버린 것 같습니다. 하지만 커트 폰 슐라이허(Kurt von Schleicher)는 그렇지 않습니다. 이에 따라 제국재상(Reichskanzler)은 군부 내 흥미로운 몇몇 인사들을 비공식적으로 만나서 지지의사를 표명했습니다."
+
 GER_kaiserbund:0 "황제 연방"
 GER_kaiserbund_desc:0 "계속되는 경기 침체를 고려하여, 제국 의회의 진보인민당과 국가자유당 의원들이 카이저분트(Kaiserbund), 황제 연방이라고 하는 계획을 제안했습니다. 그 내용은 우리 조국과 느슨한 형태의 연방을 창설하여 식민지의 관리를 식민 제국 행정부에서 지방정부로 이관하는 것입니다. 해당 의원들은 이를 통해 엄청난 경비 절감을 달성할 수 있으리라고 전망하고 있습니다…"
 
@@ -504,6 +560,9 @@ GER_BUR_ALLY_desc:0 "일본의 대동아공영권으로 시암이 초정을 받�
 
 GER_Mauser_werke:0 "마우저와 계약"
 GER_Mauser_werke_desc:0 "마우저 사를 후원함으로써 소화기 생산량과 질을 올릴 수 있습니다."
+
+GER_weapons_contracts:0 "무기 조달 계약"
+GER_weapons_contracts_desc:0 "마우저, 에르마 베르케, 해넬, 발터, 그리고 사우어 앤 손 등 독일은 조국의 주요 공급자로 선정되기를 갈망하는 많은 총기 제조회사들을 보유하고 있는데, 이러한 환경은 무기 생산을 간소화하고 우리가 원하는 종류의 화기를 얻을 수 있도록 도와줍니다."
 
 GER_mil_expansion_air_1:0 "새로운 활주로 건설"
 GER_mil_expansion_air_1_desc:0 "발로니엔에 새로운 공군기지를 건설함으로써 전시에 프랑스 영공에 대한 도달 범위를 넓힐 수 있습니다."
@@ -533,7 +592,7 @@ GER_air_doc_2:0 "현대 공군 교리"
 GER_air_doc_2_desc:0 "루프트바페의 젊고 뛰어난 생각에 받아들이면, 독일 공군은 군을 떠받치고 있는 산업계의 힘 뿐만 아니라 현대 전술의 교묘함도 얻게 될 것입니다."
 
 GER_mil_expansion_land_1:0 "군국주의 부활"
-GER_mil_expansion_land_1_desc:0 "세계대전의 승리 이후, 독일인들은 전쟁과 정복에 싫증을 느끼게 되었고, 현재에 만족을 느끼고 있습니다. 이제 제국과 황제의 이름으로 독일 국민의 군국주의 정신을 되살려야 할 때가 왔습니다!"
+GER_mil_expansion_land_1_desc:0 "독일 국민들은 전투심과 민족적 자부심으로 유명합니다. 그러나 세계대전은 우리를 엄청나게 희생시켰으며 많은 가족들은 남자들을 잃었습니다. 제국과 카이저의 이름으로 프로이센 시대의 군국주의 정신을 되살려야 할 때 입니다!"
 
 GER_Infantry_divs:0 "신무기"
 GER_Infantry_divs_desc:0 "독일은 세계에서 가장 훌륭한 병사를 가지고 있지만, 결코 장비가 뒤떨어져서는 안됩니다. 아무리 훌륭한 병사라도 자신보다 장비가 우월한 적을 무찌르기란 쉽지 않을 겁니다."
@@ -558,6 +617,8 @@ GER_civ_industry_2_desc:0 "민간 산업화 계획 (Zivilindustrialisierungsplan
 
 GER_civ_industry_3:0 "ZIP III"
 GER_civ_industry_3_desc:0 "우리 민간 산업은 다시 한번 강력한 기반을 마련했지만, 아직 호황에 이르지는 못 했기에 몇가지 조치를 더 취해야 합니다. 식민지로부터 자원이 꾸준히 들어오고 생산량이 폭발적으로 증가하면서 머지않아 독일의 산업은 다시 한번 세계를 상회할 것입니다."
+
+GER_industry_finished:0 "경제 부흥"
 
 GER_siemens:0 "지멘스에 대한 보조금"
 GER_siemens_desc:0 "지멘스는 독일 경제의 심장을 이루는 대기업 중 하나입니다. 지멘스, 그리고 다른 작은 산업 업체들과 계약을 맺어, 우리는 경제 회복을 위한 느리고 꾸준한 길을 나아가기 시작할 수 있습니다."
@@ -681,7 +742,7 @@ GER_mitteleuropa:0 "미틀오이로파 단일통화"
 GER_mitteleuropa_desc:0 "하인리히 폰 브렌타노와 그의 유럽 우호 협회 친구들은 고위 관직에 앉자 또 다른 아이디어를 제안했습니다: 모든 미틀오이로파 국가들의 단일 통화. 물론 이는 절대 성공하지 못할 것입니다. 유럽 우호라고? 말도 안 되는 소리."
 
 GER_zollverein:0 "미틀오이로파 개편"
-GER_zollverein_desc:0 "미틀오이로파는 너무 오랫동안 이름뿐이었기 때문데, 회원들과 우리에게 실제로 이익을 주기 위해 개혁을 시작할 때가 되었습니다... 첫 번째 단계는 단일 관세입니다."
+GER_zollverein_desc:0 "너무 오랫동안 미틀오이로파는 명목상으로만 존재해왔습니다. 이제 회원국들... 그리고 우리에게 실질적인 이익을 가져다 주기 위해 개혁을 시작할 때가 되었습니다. 처음 시행할 것은  통일된 관세입니다."
 
 GER_synthetic:0 "합성 화학 연구"
 GER_synthetic_desc:0 "IG 파르벤의 연구자들은 카이저 빌헬름 학회 구성원들과 협력하여 이미 합성 생산 분야에서 획기적인 돌파구를 찾을 수 있었습니다. 그들에게 더 많은 자금을 제공함으로써 우리는 그들의 연구가 대중적으로 시행되도록 할 수 있을 것입니다."
@@ -707,7 +768,7 @@ GER_linie1_desc:0 "생디칼리스트들의 위협이 그 어느 때보다도 �
 GER_linie2_full:0 "뫼즈 강 너머로"
 GER_linie2_full_desc:0 "브뤼셀에 있는 우리의 괴뢰 정권은 생디칼리즘에 대항해 도움을 울부짖고 있습니다. 뫼즈 강에서 북해 연안까지 루덴도르프 선을 연장하려면 많은 비용과 귀중한 시간이 들겠지만, 잘하면 독일 밖에서 적을 막아낼 수도 있을 것입니다."
 
-GER_linie2_small:0 "바스토뉴만을 현대화"
+GER_linie2_small:0 "바스토뉴만 현대화"
 GER_linie2_small_desc:0 "우리의 자원이 고갈되는 것은 시간 문제입니다. 비록 플란데런-우알로니의 방비가 약간 허술할지라도, 우리는 어차피 조만간 잃어버리게 될 것을 방어하는데 시간을 낭비할 여유가 없습니다."
 
 GER_linie3:0 "라인란트 요새화"
@@ -917,16 +978,16 @@ GER_oil_gulf_safe_desc:0 "카이로와 오스만 제국이 사소한 분쟁을 �
 GER_oil_romania:0 "루마니아산 석유"
 GER_oil_romania_desc:0 "세계대전 이후 몰락한 강대국들에게 주어진 조약에 따르면, 루마니아의 석유는 2012년까지 우리의 것입니다. 우리는 루마니아가 이 사실을 잊지 않도록 해야 합니다."
 
-GER_oil_romania_war:0 "Entice the Legionaries"
+GER_oil_romania_war:0 "군단병 유도"
 GER_oil_romania_war_desc:0 "-"
 
-GER_oil_romania_alliance:0 "End the Legionaries"
+GER_oil_romania_alliance:0 "군단병 종결"
 GER_oil_romania_alliance_desc:0 "-"
 
 GER_oil_bad_romania_alliance:0 "철위대 지원"
 GER_oil_bad_romania_alliance_desc:0 "철위대는 자신들을 합법적인 루마니아 세력으로 인정해 달라고 우리에게 로비를 했습니다. 그들은 혐오스럽지만, 우리는 그들의 관리 하에 석유를 계속 공급받을 수 있습니다."
-GER_oil_increase:0 "투자 증대"
 
+GER_oil_increase:0 "투자 확대"
 
 GER_faction_expansion:0 "제국 조약 확장" #Großreichspakt
 
@@ -951,6 +1012,10 @@ GER_AUS_ally:0 "우리 독일인 동포"
 GER_OTT_ally:0 "중동 중점"
 
 GER_spain_ally:0 "부르봉 왕가 구애"
+
+### Decisions ###
+GER_appeal_to_old_friends:0 "[From.GetNameDef]에 도움 요청"
+GER_appeal_to_old_friends_desc:0 "전쟁이 우리에게 불리하게 돌아가게 되면서, 우리에게 강력한 동맹들이 필요하다는 것이 분명해지고 있습니다. 아마도 [From.GetNameDef]에 있는 우리의 옛 동맹들에게 도움을 청하는 것이 현명한 판단일지도 모릅니다. 세계대전 말기에 동맹국은 빠르게 무너졌지만, 동맹국 국가들은 대체적으로 군주주의의 보호를 지지하는 국가로 남아있습니다. 확실히 옛 동맹들이 생디칼리스트의 위협에 우리가 홀로 맞서지 않도록 내버려두지 않지 않을까요?"
 
 ### Domestic Events ###
 
@@ -1620,12 +1685,6 @@ gerfor.49.t:0 "아일랜드에 대한 물품 원조가 불가능하다"
 gerfor.49.d:0 "불운하게도 우리의 지원을 수용할 아일랜드의 의지 또는 능력의 부재로 인하여 모든 계획을 중단하야 합니다. 그나마 다행인 것은 이미 생산한 장비가 우리 수중에 있으며 이를 사용할 수 있다는 점입니다."
 gerfor.49.a:0 "없는 것보다 낫지."
 
-gerfor.50.t:0 "오랜 벗에 대한 호소?"
-gerfor.50.d:0 "우리에게 등을 돌린 전쟁으로 인해서 동맹이 필요하다는 사실은 분명해지고 있습니다, 아마도 지원을 위해 우리의 오랜 동맹에 의지하는 편이 현명하지 않을까요? 분명히 그들이 우리를 홀로 두지는 않을 것입니다…"
-gerfor.50.a:0 "우리는 받을 수 있는 모든 도움이 필요하다!"
-gerfor.50.b:0 "오직 오스트리아와만 접촉하라. 다른 것들은 골칫거리다."
-gerfor.50.c:0 "독일과 제국 조약은 그들이 없이도 충분히 강하다!"
-
 gerfor.51.t:0 "생디칼리스트에 대항하는 독일에 지원?"
 gerfor.51.d:0 "독일이 생디칼리즘에 대항하는 그들의 전쟁에 가담하길 요청하고 있습니다. 나라 안의 보수파는 생디칼리즘으로부터 유럽을 지키기 위한 신성한 의무를 이야기하고 있습니다만, 다른 이들은 독일의 전쟁에서 억지로 싸워서는 안된다고 말하고 있습니다. 독일을 지원해야 할까요?"
 gerfor.51.a:0 "세계대전을 기억하라! 우리는 싸워야만 한다!"
@@ -2290,8 +2349,8 @@ gerfla.10.a:0 "대단한 영화로군!"
 
 gerfla.11.t:0 "유럽으로 귀환"
 gerfla.11.d:0 "우리 군인들은 [GetGERCapital]의 거리에서, 귀환하는 독일의 지도자들이 탑승한 함선의 유럽 도착을 열렬하게 환호하며 늘어서 있습니다. 우리는 더 이상 망명자가 아닙니다."
-gerfla.11.a:0 "영광스러운 날이다!"
 
+gerfla.11.a:0 "영광스러운 날이다!"
 GER_Berlin:0 "베를린"
 GER_Frankfurt:0 "프랑크푸르트"
 GER_Hamburg:0 "함부르크"
