@@ -131,7 +131,7 @@ GEA_fleet_2_desc:0 "구축함은 현대 해군의 중추입니다. 우리는 이
 GEA_battlecruiser1:0 "해양 사령부"
 GEA_battlecruiser1_desc:0 "동아시아 함대 제일의 우선 순위는 유사시 일본 해군 전력을 격퇴하는 것입니다. 이것은 우리의 교리적 노력이 그들의 약점을 이용하는데 집중되어야 한다는 것을 의미합니다. 일본은 괴뢰국과 소유주의 수입에 크게 의존하고 있습니다. 따라서 무역 혼란을 목표로 한다면 우리는 엄청난 타격을 입힐 수 있습니다."
 GEA_battlecruiser2:0 "식민지 전함"
-GEA_battlecruiser2_desc:0 "더 큰 전함들이 독일 해군의 주력인 반면, 현지의 동아시아 조선소는 거대한 조선소와 독일 본토가 가지고있는 철강에 대한 접근성이 부족합니다. 따라서 우리는 중무장하고 가벼운 장갑을 가진 고속전함의 사용을 더욱 확대하고자 합니다."
+GEA_battlecruiser2_desc:0 "전함과 거대한 드레드노트들이 독일 해군의 주력인 반면, 현지의 동아시아 조선소는 거대한 조선소와 독일 본토가 가지고있는 철강에 대한 접근성이 부족합니다. 따라서 우리는 중무장한 장갑순양함의 일종이지만 전세계 해군력에 비해 약한 장갑을 가진 것이 우리의 조건에 부합합니다."
 GEA_strikegroup1:0 "항공 학교"
 GEA_strikegroup1_desc:0 "독일 교리에서는 해군 항공대의 유일한 목적은 정찰에 있다고 주장하지만, 대제독은 군대의 배치에 대해 놀라울 정도로 자유를 누리고 있습니다. 이를 위해 그가 그렇게 선택한다면 베를린에서 논란을 불러일으킬 것이 확실하지만 공군력이 미래의 해군력이 될 수 있다는 사고 방식의 학교에 훨씬 더 많은 시간을 투자할 수 있습니다."
 GEA_strikegroup2:0 "경순양함"
@@ -287,7 +287,7 @@ Ostasien.16.a:0 "자산을 철수시켜라!"
 Ostasien.16.b:0 "모든 것은 문제 없다!"
 
 Ostasien.17.t:0 "인도차이나 상황 악화"
-Ostasien.17.d:0 "비록 극동 식민지들의 공식적인 보고는 반란 진압에 상당한 성공을 거두었다고 주장하지만, 인도차이나 현지의 군사 정보에 따르면, 실제 상황은 상당히 악화되었습니다. 베트콩 반군들을 제압하는 것은 관리자들이 감당할 수 있는 것 이상이었던 것 같습니다. 일부 주요 도시들과 전략적 요충지들이 반군의 손에 넘어갔고;두려움과 혼란은 계속 퍼지고만 있습니다. 독일령 동아시아에 도움을 주어야 할까요?"
+Ostasien.17.d:0 "비록 극동 식민지들의 공식적인 보고는 반란 진압에 상당한 성공을 거두었다고 주장하지만, 인도차이나 현지의 군사 정보에 따르면, 실제 상황은 상당히 악화되었습니다. 베트콩 반군들을 제압하는 것은 관리자들이 감당할 수 있는 것 이상이었던 것 같습니다. 일부 주요 도시들과 전략적 요충지들이 반군의 손에 넘어갔으며 두려움과 혼란은 계속 퍼지고만 있습니다. 독일령 동아시아에 도움을 주어야 할까요?"
 Ostasien.17.a:0 "그들이 통제할 수 있다."
 Ostasien.17.b:0 "증원을 보내라!"
 Ostasien.17.c:0 "아시아에서 육상전이라고? 헛소리!"
@@ -421,6 +421,12 @@ Ostasien.68.d:0 "최근 심각한 정치적 위기에 직면한 신생국 버마
 Ostasien.68.a:0 "그들의 독립을 보장하자"
 Ostasien.68.b:0 "나는 버마에 대해 아는 게 아무것도 없는데!"
 
+#GEA natural disaster
+
+Ostasien.69.t:0 "The Vulcan and Kaia volcanoes erupt!"
+Ostasien.69.d:0 "Today the city of Rabaul was hit by two massive volcanic eruptions. Despite our best efforts, hundreds of citizens weren't able to flee in time and were buried beneath the ashes. Sacred Heart missionaries observed the explosive eruptions and were quick to set up an evacuation camp at their mission headquarters in Herbertshöhe. Several thousand injured and homeless people are now waiting for the colonial administration to send aid after this catastrophe."
+Ostasien.69.a:0 "We need to hurry" 
+
 # Dissolution of the GEA
 
 #Ostasien.69.t:0 "고요해진 베를린"
@@ -430,11 +436,12 @@ Ostasien.68.b:0 "나는 버마에 대해 아는 게 아무것도 없는데!"
 
 
 #decisions
+operations:0 "작전" # Not sure why someone forget to move this over from vanilla wtt_decisions file
 GEA_indochina_war_decisions:0 "인도차이나 전쟁"
 GEA_indochina_war_decisions_desc:0 "The Indochinese insurgency has deteriorated into a full-blown war. However, the war against Vietcong insurgents has no concrete front. Everywhere is a frontline and every peasant wearing a rice hat could be a Vietcong. We must do whatever we can to secure the victory of Kaiserreich. \n\nEstimated §YInsurgency Strength§! in Indochina: §R[?INC.guerilla_activity|-0]§!\n"
 reduce_10_guerilla_tooltip:0 "We estimate this will reduce §YInsurgency Strength§! by §R10§!.\n"
 GEA_suppress_Tonkin:0 "통킹의 베트콩 진압"
-GEA_maintain_Tonkin_control:0 "통킹 지배를 유지"
+GEA_maintain_Tonkin_control:0 "통킹 지배 유지"
 GEA_reinforce_police:0 "경찰 부대 강화"
 GEA_Zeppelin_decision:0 "체펠린 비행선 투입"
 GEA_Zeppelin_decision_desc:0 "With the development of naval aviation, the Zepplin airships have been gradually replaced by more advanced maritime patrol planes in Ostasien arsenal. naval reconnaissance task. However, the recent war in Indochina has given birth to a daring idea: Using Zeppelin to patrol over the Indochinese peninsula. These airships could also deliver supplies to isolated garrisons. With the poor anti-air firepower of the rebels, this should be a safe bet."
@@ -489,9 +496,9 @@ Ostasien.100.d:0 "At 09:00 the Grand Ostasienflotte sallied forth from the Singa
 Ostasien.100.a:0 "They would be right to fear our Might"
 
 ###decisions
-GEA_start_naval_blockade:0 "Start Naval Blockade"
+GEA_start_naval_blockade:0 "해군 봉쇄 시작"
 GEA_start_naval_blockade_desc:0 "The convoys of the Internationale can enter the South China Sea freely and send secret support to the Indochinese rebels, this can't continue"
-GEA_shelling_on_Saigon:0 "Shelling on Saigon"
+GEA_shelling_on_Saigon:0 "사이공 포격"
 ### Ideas ###
 GEA_colonial_question:0 "식민지 문제"
 GEA_colonial_question_desc:0 "The amount of manpower our land based arm can recruit is severely limited. Strict regulations regarding foreign nationals joining, and a general lack of willingness by the natives, stifles our attempt to build a larger force."
@@ -501,7 +508,7 @@ GEA_local_troops:0 "지역 동태"
 GEA_local_troops_desc:0 "As much as we wish was the case we simply do not have enough Germanic manpower to field the new units that we require, we must look to enlisting the locals no matter how much they dislike us or we dislike them."
 GEA_admirality:0 "대제독"
 GEA_admirality_desc:0 "As the governor of German East Asia, and the Grand Admiral of the East Asian Fleet, Hellmuth von Mücke is an extremely influential figure within the region. With his experience in the navy he is a boon to the German colonial effort and he wields vast amounts of power."
-GEA_language:0 "독일 표준"
+GEA_language:0 "독일어 표준"
 GEA_language_desc:0 "We have reshuffled the organisation of our forces, incorporating the locals and ensuring that each NCO, officer and commander is fluent in German in order to better command our now unified forces."
 GEA_black_monday_idea:0 "검은 월요일"
 GEA_black_monday_idea_desc:0 "Black Monday has struck and crippled our already weak industry"
@@ -512,8 +519,8 @@ GEA_austerity_budget_desc:0 "While measures have been taken to reduce the effect
 GEA_austerity_budget2:0 "예산 긴축"
 GEA_austerity_budget2_desc:0 "While measures have been taken to reduce the effects of Black Monday, The admiralty is still constrained by a lack of funds."
 GEA_harassed_by_vc_idea:0 "베트콩의 요란"
-GEA_flush_budget:0 "Healthy Budget"
-GEA_flush_budget_desc:0 "Our Budgetary situation has improved to beyond the pre-crisis level."
+GEA_flush_budget:0 "건전한 예산"
+GEA_flush_budget_desc:0 "우리의 예산 상황은 위기 상황 이전으로 상향되었습니다."
 GEA_colonial_disaster_idea:0 "식민지 혼란"
 GEA_colonial_disaster_idea_desc:0 "검은 월요일의 여파가 치명적인 것으로 밝혀지면서, 식민지 전역에서 폭동이 일어나고 있습니다."
 GEA_colonial_instability_idea:0 "식민지 불안정"
@@ -526,7 +533,7 @@ GEA_Local_Guard_Idea:0 "지역 경비대"
 GEA_Local_Guard_Idea_desc:0 "We have authorise the local monarchs to recruit their own royal guard."
 GEA_Local_Guard_with_advisors_Idea:0 "지역 경비대"
 GEA_Local_Guard_with_advisors_Idea_desc:0 "We have authorised the local monarchs to recruit their own royal guard."
-GEA_help_small_business_idea:0 "Help Small Business"
+GEA_help_small_business_idea:0 "소규모 사업 지원"
 GEA_pure_admirality_idea:0 "식민지의 지원을 받는 함대"
 GEA_colonization_idea:0 "동아시아 식민화"
 GEA_New_Shipbuilding_Methods_idea:0 "새로운 조선 공법"
@@ -536,8 +543,8 @@ GEA_plantations_negotiation_idea:0 "플랜테이션 노동자와 협상"
 GEA_falling_price_idea:0 "물가 하락"
 GEA_conrol_price_idea:0 "물가 통제 노력"
 GEA_pacific_rule_idea:0 "태평양 지배"
-GEA_vietcong_killer_idea:0 "베트콩 킬러"
+GEA_vietcong_killer_idea:0 "베트콩 사냥꾼"
 GEA_vietcong_killer_idea_desc:0 "도망치는 자는 베트콩이다! 자리를 지키는 자는 잘 훈련된 베트콩이다!"
 #jungle_warfare:0 "Jungle Combat Training" Redundant with Siamese fiels
-GEA_jungle_tt:0 "§G정글 전투 훈련§! 은 정글 전투 능력을 향상시켜줄 수 있습니다.\n"
-GEA_jungle_warfare_effect:0 "Enables §HJungle Combat Training§!\n§HAll legged units\n    Jungle§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
+GEA_jungle_tt:0 "§G정글 전투 훈련§!은 정글 전투 능력을 향상시켜줄 수 있습니다.\n"
+GEA_jungle_warfare_effect:0 "§H정글 전투 훈련§!을 활성화합니다\n§H모든 보병 사단\n    정글§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"
