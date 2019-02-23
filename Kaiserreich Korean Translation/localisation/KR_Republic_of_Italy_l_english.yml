@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 ### Parties ###
 ITA_totalist_party:0 "민족주의 연맹"
@@ -591,6 +591,7 @@ ita.25.b:0 "We don't need people who fought against us"
 ita.26.t:0 "Joining Austria"
 ita.26.d:0 "The Austrians have formed a faction to protect their interests. As our interests align with the Austrians, no small part due to the influence Austria has in [ITA.GetNameDef], we shall join their alliance and strengthen the bonds of friendship between our two countries."
 ita.26.a:0 "Austria shall support Italy"
+ita.26.b:0 "Not Now."
 
 ita.27.t:0 "Leaving the Austrian Sphere"
 ita.27.d:0 "The weak and conniving government had been forced to sell Italia’s soul to the Austrians and bind us to their alliance. But no more! Now that the we have taken control of the republic, we shall bring Italy to her destiny and that starts with leaving this accursed alliance."
@@ -843,24 +844,24 @@ ita.88.d:0 "It has been some time but we have finally liberated our rightful lan
 ita.88.a:0 "Avanti Italia"
 
 ita.89.t:0 "The Anni di Piombo"
-ita.89.d:0 "A number of green-shirts of the Associazione Nazionalista Italiana have denounced the government and proclaimed war against the Kingdom of Italy. This declaration was quickly met with a bloody gunfight in a number of small towns that were taken over by the ANI, though in larger towns like Verona and Padua the attack by the ANI was repelled by the army and police. This war is already being called by journalists within and without the Kingdom as the Anni di Piombo or 'Years of Lead'. Let us hope this does not last that long."
-ita.89.a:0 "They shall pay"
+ita.89.d:0 "A number of Greenshirts of the Associazione Nazionalista Italiana have denounced the government and proclaimed war against the Kingdom of Italy. This declaration was quickly met with a bloody gunfight in a number of small towns that were taken over by the ANI, though in larger towns like Verona and Padua the attack by the ANI was repelled by the army and police. This war is already being called by journalists within and without the Kingdom as the Anni di Piombo or 'Years of Lead'. Let us hope this does not last that long."
+ita.89.a:0 "They shall pay."
 
 ita.90.t:0 "ANI bombing"
-ita.90.d:0 "The Green-shirts have targeted a factory in [attack_state.GetName], causing a great deal of damage and the loss of many lives. The Carabinieri are on the scene, and while they have captured a couple of these terrorists, the ringleaders are still at large. Surely they will soon be found and brought to justice."
-ita.90.a:0 "Damn ANI"
+ita.90.d:0 "The Greenshirts have targeted a factory in [attack_state.GetName], causing a great deal of damage and the loss of many lives. The Carabinieri are on the scene, and while they have captured a couple of these terrorists, the ringleaders are still at large. Surely they will soon be found and brought to justice."
+ita.90.a:0 "Damn ANI."
 
 ita.91.t:0 "ANI bombing"
-ita.91.d:0 "The Green-shirts have targeted an Arms factory in [attack_state.GetName], causing a great deal of damage and the loss of many lives. The Carabinieri are on the scene, and while they have captured a couple of these terrorists, the ringleaders are still at large. Surely they will soon be found and brought to justice."
-ita.91.a:0 "Damn ANI"
+ita.91.d:0 "The Greenshirts have targeted an Arms factory in [attack_state.GetName], causing a great deal of damage and the loss of many lives. The Carabinieri are on the scene, and while they have captured a couple of these terrorists, the ringleaders are still at large. Surely they will soon be found and brought to justice."
+ita.91.a:0 "Damn ANI."
 
 ita.92.t:0 "ANI bombing"
 ita.92.d:0 "The ANI have set off a series of bombs in the [attack_state.GetName] region, causing considerable damage to the railways destroying many trains and costing countless innocent lives."
-ita.92.a:0 "Damn ANI"
+ita.92.a:0 "Damn ANI."
 
 ita.93.t:0 "ANI attack Carabinieri"
 ita.93.d:0 "During the night, a Carabinieri barracks in [attack_state.GetName] was attacked by the ANI, slaughtering the soldiers sleeping there. The Carabinieri have vowed revenge and plan to take thoroughly eliminate them, ending this slaughter."
-ita.93.a:0 "They can only run"
+ita.93.a:0 "They can only run."
 
 ita.94.t:0 "Assassination Attempt on the King Foiled"
 ita.94.d:0 "Today an attempt on our King's life was foiled by the brave men of the Carabinieri. The news has shaken the government and the people have already declared their wish for the ANI to be found. However, a spokesman for the ANI has declared that next time they will not fail at ridding the world of the crowned Austrian dog."
