@@ -68,15 +68,15 @@ SIA_SDSI_idea:0 "시암 비밀 정보국(SDSI)"
 SIA_SDSI_idea_desc:0 "SDSI stands for the \"Siam Department of Secret Intelligence\", an organisation that is in charge of protecting our domestic and international interests."
 SIA_IndNat_Income:0 "시암의 배상금"
 SIA_IndNat_Income_desc:0 "Premier Plaek Phibunsongkhram has offered monetary compensation for the seizure of our industrial assets in Siam."
-SIA_SocDem_1:0 "사회민주주의 개혁"
-SIA_SocDem_2:0 "사회민주주의 개혁"
-SIA_SocDem_3:0 "사회민주주의 개혁"
-SIA_SocCon_1:0 "사회행동 개혁"
-SIA_SocCon_2:0 "사회행동 개혁"
-SIA_SocCon_3:0 "사회행동 개혁"
-SIA_Liberal_1:0 "민주 개혁"
-SIA_Liberal_2:0 "민주 개혁"
-SIA_Liberal_3:0 "민주 개혁"
+SIA_SocDem_1:0 "사민주의 개혁"
+SIA_SocDem_2:0 "사민주의 개혁"
+SIA_SocDem_3:0 "사민주의 개혁"
+SIA_SocCon_1:0 "민주 개혁"
+SIA_SocCon_2:0 "민주 개혁"
+SIA_SocCon_3:0 "민주 개혁"
+SIA_Liberal_1:0 "사회행동 개혁"
+SIA_Liberal_2:0 "사회행동 개혁"
+SIA_Liberal_3:0 "사회행동 개혁"
 SIA_MSN_idea:0 "현대 시암 국가"
 SIA_MSN_idea_desc:0 "The impact of the blood, sweat, and tears we have spent to revitalise Siam can be clearly seen throughout the nation."
 SIA_MSN_SocDem_idea:0 "현대 시암 국가"
@@ -212,7 +212,7 @@ siam.2.d:0 "With the German Empire now experiencing turmoil we have been present
 siam.2.a:0 "싱가폴을 장악하라!"
 siam.2.b:0 "안되겠는데..."
 
-siam.3.t:0 "[SIA.GetName]가 싱가폴을 장악하다!"
+siam.3.t:0 "[SIA.GetName]이/가 싱가폴을 장악하다!"
 siam.3.d:0 "With our once great empire now in shambles, the bastards in [SIA.GetName] have taken advantage by seizing control of Singapore. We could either let it slide or take a firm stance against this opportunism."
 siam.3.a:0 "우리가 할 수 있는 건 없다."
 siam.3.b:0 "이는 곧 전쟁이다!"
@@ -428,7 +428,7 @@ siamn.24.b:0 "민주주의 만세!" # Plaek Parliamentarians
 siamn.25.t:0 "시암 내전의 종결" # Rebel
 siamn.25.prd:0 "After the reclamation of our eastern and southern regions by government forces the remaining revolutionaries have decided to flee to German Malaya, where we must contend with extradtion proceedures. It is more important to first mourn the losses sustained during the war by our loyal subjects. A countrywide public funeral has been held, with the remains of our loyal subjects carried through Ratchadamnoen road to Sanam Luang where King Prajadhipok has given us permission to set up a public funeral pyre on the sacred royal cremation ground."
 siamn.25.ppd:0 "After subduing the majority of the rebels we have received word that the remaining royalists have fled to Yunnan with the king. No matter, for we shall catch what remains of the loyalist scum later. We must first mourn the losses sustained by our loyal men, to that end the royal cremation ground has been converted into a public pyre."
-siamn.25.b:0 "국왕 만세!" # Plaek Royalist
+siamn.25.b:0 "국왕 전하 만세!" # Plaek Royalist
 siamn.25.a:0 "시암을 위한 공화국 만세!" # Plaek Parliamentarians; Chaiyo = Hurrah in Thai
 
 ## Industrial Nationalizaion ##
@@ -836,7 +836,7 @@ SIA_nationalreserveact:0 "The National Reserve Act"
 SIA_nationalreserveact_desc:0 "”...All men aged between 18-45 with Siamese citizenship are required to be registered at their local barracks and finish their basic trainig course at least once, not doing so can result in being court marshalled by the Army...”\n\n-excerpt from 2484 B.E. the National Reserve Bill"
 
 ### Navy Path ###
-SIA_royalsiamesenavy:0 "왕립 시암 해군"
+SIA_royalsiamesenavy:0 "시암 왕립 해군"
 SIA_royalsiamesenavy_desc:0 "Established in 1887, the RSN has similar organisational structures to the United States Navy, since it is composed of both the naval fleet and the Royal Siamese Marine Corps. It was also the second Asian nation to acquire submarines, after Japan."
 SIA_expandmarinescorps:0 "Expand the Navikkayothin Corps"
 SIA_expandmarinescorps_desc:0 "Although 'Taharn Ma-Rine' were first founded back in 1833, the unit served mostly as a royal honor guard throughout the 19th century. It wasn't until 1913 that the Siamese Marines were reorganized into the modern "Navy Amphibious Assault Group" who saw some action back in the Weltkrieg. Perhaps the marines can serve as yet another ace in the hole for the upcoming conflict?"
@@ -862,7 +862,7 @@ SIA_alargefleet:0 "Fleet in Being"
 SIA_alargefleet_desc:0 "Being surrounded by bigger and more heavily armed navy, Admiral Luang Kamolnavin wants us to get all the firepower we can get to knock the enemy battleships out of the fight and, if possible, sink them."
 
 ### Air Forces Path ###
-SIA_royalsiameseaircorps:0 "왕립 시암 육군 항공대"
+SIA_royalsiameseaircorps:0 "시암 왕립 육군 항공대"
 SIA_royalsiameseaircorps_desc:0 "First founded in 1913 as the Siamese Flying Corps, our flyboys have helped us achieve numerous victories by assisting us from the sky. We will therefore once again rename the Royal Siamese Aeronautical Service to the Royal Siamese Air Corps."
 SIA_airportauthority:0 "Siamese Airport Authority"
 SIA_airportauthority_desc:0 "Construction of additional state-owned airports can help us kick-start our own national carrier airline and serve as airbases for our Air forces."
