@@ -864,3 +864,9 @@ l_english:
  NAVAL_TITLE_CAPITALS:0 "주력함"
  NAVAL_TITLE_PANZERSHIFFE:0 "장갑 순양함"
  NAVAL_TITLE_CARRIERS_HEAVY:0 "중 항공모함"
+  
+ ### Non-vanilla/ unloced Techs ###
+ destroyer_one:0 "세계대전 이전 구축함 (1906)"
+ light_cruiser_one:0 "방호순양함 (1900)"
+ cl_tech:0 "경항공모함 기술"
+ dd_tech:0 "구축함 기술"
