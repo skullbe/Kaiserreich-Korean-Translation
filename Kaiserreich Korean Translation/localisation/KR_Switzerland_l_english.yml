@@ -360,6 +360,7 @@ swiss.7.a:0 "하지 않는다."
 swiss.7.b:0 "약간의 선거 운동."
 swiss.7.c:0 "보통 규모의 선거 운동."
 swiss.7.e:0 "광범위한 선거 운동."
+
 swiss.9.t:0 "헌법 개정 국민투표 통과"
 swiss.9.d:0 "The referendum has succeeded, and state forces have been given greater freedoms in their ability to combat extremist threats to the stability of the nation."
 swiss.9.a:0 "Wonderful!"
@@ -1043,8 +1044,9 @@ SWI_conquer_vorarlberg_natpop_desc:0 "Our nation has a true and rightful claim t
 SWI_conquer_valle_natpop:0 "Conquer Valle d'Aosta"
 SWI_conquer_valle_natpop_desc:0 "Our nation has a true and rightful claim to the region of Valle d'Aosta. It is our time to enflame the people's hearts and rally them, it is our time to take what is rightfully ours from the traitors around us!"
 
+
 ### Other Stuff ###
-SWI_conquest_decisions:0 "§Y대 스위스§! 결단 해금"
+SWI_conquest_decisions:0 "§Y대 스위스§! 결정 해금"
 SWI_FRA_coop:0 "스위스-프랑스 협업"
 SWI_FRA_friendship:0 "Swiss-French Reconciliation"
 SWI_romandy_outcome:0 "정치 상황을 정하기 위해 사보이 위기의 결과를 기다려야 합니다."
@@ -1097,9 +1099,3 @@ SWI_syndicalist_unions_tooltip:0 "§MThis will begin a referendum that will prov
 SWI_army_reorganization_tooltip:0 "§MThis will begin a referendum that will provide the nation with§!§Y Land Doctrine §!§Mif passed.§!"
 SWI_freemasonry_tooltip:0 "§MThis will begin a referendum that will provide the nation with§!§Y Political Power §!§Mif passed.§!"
 SWI_transport_of_goods_tooltip:0 "§MThis will begin a referendum that will provide the nation with§!§Y Construction Research §!§Mif passed.§!"
-
-POLITICS_BIRCHER_DESC:0 "A Germanophile and diehard anti-Syndicalist, Eugen Bircher is a physician by trade and invented several groundbreaking procedures dealing with arthroscopy of the knee. After the rise of Syndicalism in France Bircher largely gave up his medical work and founded the SVV, which quickly pervaded Swiss military and political circles as a counterbalance to the rising tide of Socialism in the nation."
-POLITICS_SWI_UNION_DESC:0 "The Federal Union Council is the temporary governmental body of the Swiss Syndicalist state after the overthrow of the government, dedicated to the stabilization and reformation of the Swiss nation."
-POLITICS_EXECUTIVE_DIRECTORY_DESC:0 "The Executive Directory acts as the permanent Helvetic Head of State in the wake of the revolution, occupying a similar position to the Federal Council of old, but with more executive power vested in the Directory to allow for more decisive action to be taken in times of crisis."
-POLITICS_OLTRAMARE_DESC:0 "A lifelong fan of the Socialist work of Benito Mussolini, Georges Oltramare is a former novellist and active Syndicalist revolutionary who aims to shape Switzerland in his vision. A signatory of the Totalist charter, Oltramare's more extremist tendencies have caused a rift between his hardline faction the Union Nationale and the more mainstream Syndicalist elements within the nation."
-POLITICS_GENEVA_DESC:0 "The temporary movement of the capital to Geneva has placed the burden of governance on the current Geneva Council of State, which has taken over control of the nation until a more permanent office can be created to guide the nation."
