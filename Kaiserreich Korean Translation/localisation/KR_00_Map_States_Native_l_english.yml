@@ -2,7 +2,7 @@ l_english:
 
  STATE_1:0 "코르스"
  STATE_2:0 "라티움"
- STATE_3:0 "미텔란트"
+ STATE_3:0 "미틀란트"
  STATE_4:0 "니더외스터라이히"
  STATE_5:0 "오스트프로이센"
  STATE_6:0 "플란데런"
@@ -286,7 +286,7 @@ l_english:
  STATE_284:0 "북섬"
  STATE_285:0 "뉴사우스웨일스"
  STATE_286:0 "코친차이나"
- STATE_287:0 "타클라마간"
+ STATE_287:0 "타커라마간"
  STATE_288:0 "양곤"
  STATE_289:0 "팍글랑"
  STATE_290:0 "엘리프"
