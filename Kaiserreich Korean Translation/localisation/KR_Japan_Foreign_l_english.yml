@@ -37,7 +37,7 @@ vladivostok_puppet:0 "우리의 괴뢰국"
 
 ### World Tension ###
 backed_down:0 "일보 후퇴"
-sakoku:0 "제 2차 쇄국"
+sakoku:0 "제2차 쇄국"
 jap_rus_peace_2_no:0 "페름 회담"
 jap_rus_peace_2:0 "페름 조약"
 jap_rus_peace_1_no:0 "오호츠크 회담"
@@ -193,7 +193,7 @@ japfor.4.a:0 "Give in to the demands of the Japanese"
 japfor.4.b:0 "Put our fate in Berlin's hands, appeal to Germany for intervention"
 japfor.4.c:0 "Reject their demands outright."
 
-japfor.5.t:0 "청제국이 우리의 요구에 고개를 숙이다"
+japfor.5.t:0 "청 제국이 우리의 요구에 고개를 숙이다"
 japfor.5.d:0 "The threat of Japanese power was enough to bend the so-called Qing Emperor to our will."
 japfor.5.a:0 "Glory to the Land of the Rising Sun!"
 
@@ -258,7 +258,7 @@ japfor.18.a:0 "좋게 끝난 것 같군."
 
 japfor.19.t:0 "저무는 해"
 japfor.19.d:0 "After the utter defeat of the Imperial Japanese Army, our imperial army controls huge swathes of land in Manchuria and Korea whilst the IJN are reduced to attempting mere blockades. Our spies in Tokyo report severe dissent and war weariness among the populace. In light of this, the government has called a conference in occupied Port Arthur to determine our war aims."
-japfor.19.a:0 "저물어가는 해의 나라에 수치스러움을 줄 때군!"
+japfor.19.a:0 "저물어가는 해의 나라에 굴욕감을 줄 때군!"
 japfor.19.b:0 "총제적 승리를 위해 압박한다!"
 
 japfor.20.t:0 "저무는 해"
@@ -266,7 +266,7 @@ japfor.20.d:0 "This is a dark day for the Empire of the Sun. Chinese forces have
 japfor.20.a:0 "선택의 여지가 없으니 굴복한다"
 japfor.20.b:0 "일본은 항복하지 않는다! 반자이!"
 
-japfor.21.t:0 "일본이 패전하였습니다"
+japfor.21.t:0 "일본이 패전하다"
 japfor.21.d:0 "We have retaken every single bit of land Japan had that was rightfully ours, the whole of China is in celebration"
 japfor.21.a:0 "만세!"
 
@@ -376,13 +376,13 @@ japfor.38.b:0 "아직 전쟁의 때가 아니다"
 
 japfor.41.t:0 "일본의 최후 통첩"
 japfor.41.d:0 "For months already, the Japanese have expressed their aggressive ambitions towards our lands as part of their expansionist policies. Today, the Japanese ambassador has presented us an ultimatum: they demand that we surrender or else we will face the full might of the Imperial Japanese Military..."
-japfor.41.a:0 "대답 조차 하지마라."
+japfor.41.a:0 "대답조차 하지 마라."
 japfor.41.b:0 "요구를 수용한다."
 
 japfor.42.t:0 "우리의 최후 통첩이 무시당하다!"
 japfor.42.d:0 "We did not receive any answer to our ultimatum. We must mobilise for war and secure our place as the sole great power in East Asia!"
 japfor.42.a:0 "전쟁을 선포한다!"
-japfor.42.b:0 "물러나자, 전쟁을 감수 할 수 없다."
+japfor.42.b:0 "물러나자, 전쟁을 감수할 수는 없다."
 
 japfor.43.t:0 "독일이 우리의 조건을 받아들이다"
 japfor.43.d:0 "Germany has accepted our conditions. This is not so surprising after all: they wouldn't dare face the might of the Emperor's armies!"
@@ -390,15 +390,15 @@ japfor.43.a:0 "Great!"
 
 japfor.44.t:0 "일본이 청을 공격하다!"
 japfor.44.d:0 "With the eruption of the grand military conflict in Asia, some important members of our general staff have suggested the direct involvement of our colony the A.O.G. in the ongoing conflict, since its vast armies and strategic location could decisively turn the tide in our favour. Still, the A.O.G. board of directors warns us that, although they are willing to help the fatherland, this effort could seriously destabilise the already fragile situation in their colony..."
-japfor.44.a:0 "대청제국은 지지않을 것이다!"
-japfor.44.b:0 "우리가 할 수 있는건 없다..."
+japfor.44.a:0 "청 제국은 지지 않을 것이다!"
+japfor.44.b:0 "우리가 할 수 있는 건 없다..."
 
 japfor.45.t:0 "독일의 제안"
 japfor.45.d:0 "A German diplomatic ambassador on behalf of the Kaiser has offered our homeland the military support of the German Empire in our struggle with Japan and its lackeys. How shall we react?"
 japfor.45.a:0 "This is the only way to preserve our existence!"
 japfor.45.b:0 "We will win this war on our own!"
 
-japfor.46.t:0 "청이 제국조약에 가입하였습니다"
+japfor.46.t:0 "청이 제국 조약에 가입하였습니다"
 japfor.46.d:0 "청이 우리의 제안을 수락하였으며 이제 청은 우리 위대한 제국 조약의 구성국 중 하나가 되었습니다!"
 japfor.46.a:0 "훌륭하군."
 
@@ -565,7 +565,7 @@ japfor.85.d:0 "외세의 지원을 받아 우리는 혁명을 일으켰고 우�
 japfor.85.a:0 "우리는 자유의 투사들이다!"
 
 japfor.88.t:0 "한국은 우리를 몰아냈다"
-japfor.88.d:0 "한국군은 여러 주요 전략적 거점을 차지했고 우리를 본토로 밀어내고 있습니다. 트랜스아무르와 펑톈 정부도 이 사실을 인식하고 있으며, 그들도 반란을 일으킬 지 모릅니다. 평화를 요청해야 할까요?"
+japfor.88.d:0 "한국군은 여러 주요 전략적 거점을 차지했고 우리를 본토로 밀어내고 있습니다. 트랜스아무르와 봉천 정부도 이 사실을 인식하고 있으며, 그들도 반란을 일으킬 지 모릅니다. 평화를 요청해야 할까요?"
 japfor.88.a:0 "우리는 우리 섬으로 철수해야만 한다."
 japfor.88.b:0 "우리는 한국을 우리 손 안에 두어야만 한다!"
 
@@ -594,7 +594,7 @@ japfor.96.t:0 "소련의 원조"
 japfor.96.d:0 "소비에트 연방은 우리가 일본에 대항하는 것을 돕기 위해 엄청난 수의 보급 물자와 자원병을 보내왔습니다!"
 
 japfor.98.t:0 "A.O.G의 원조"
-japfor.98.d:0 "A.O.G. 독일 자치주는 우리가 일본에 대항하는 것을 돕기 위해 엄청난 수의 보급 물자와 자원병을 보내왔습니다!"
+japfor.98.d:0 "A.O.G. 독일 기업 국가는 우리가 일본에 대항하는 것을 돕기 위해 엄청난 수의 보급 물자와 자원병을 보내왔습니다!"
 
 japfor.100.t:0 "중화민국의 원조"
 japfor.100.d:0 "중화민국은 우리가 일본에 대항하는 것을 돕기 위해 엄청난 수의 보급 물자와 자원병을 보내왔습니다!"
