@@ -3,7 +3,7 @@ l_english:
 ### Parties ###
 CUB_totalist_party:0 "사회주의자"
 CUB_totalist_party_long:0 "사회주의 운동-공산주의"
-CUB_radical_socialist_party:0 사회주의자"
+CUB_radical_socialist_party:0 "사회주의자"
 CUB_radical_socialist_party_long:0 "사회주의 운동-혁명"
 CUB_syndicalist_party:0 "사회주의자"
 CUB_syndicalist_party_long:0 "사회주의 운동-노동자"
@@ -22,21 +22,21 @@ CUB_paternal_autocrat_party_long:0 "군부"
 CUB_national_populist_party:0 "정통주의자"
 CUB_national_populist_party_long:0 "쿠바 혁명당-정통주의"
 
-CUB_totalist_party_socrev:0 "Comunistas"
-CUB_totalist_party_long_socrev:0 "Comunistas"
-CUB_syndicalist_party_socrev:0 "Trabajadores"
-CUB_syndicalist_party_long_socrev:0 "Trabajadores"
-CUB_radical_socialist_party_socrev:0 "Revolucionarios"
-CUB_radical_socialist_party_long_socrev:0 "Revolucionarios"
+CUB_totalist_party_socrev:0 "공산주의자"
+CUB_totalist_party_long_socrev:0 "공산주의자"
+CUB_syndicalist_party_socrev:0 "노동자"
+CUB_syndicalist_party_long_socrev:0 "노동자"
+CUB_radical_socialist_party_socrev:0 "혁명주의자"
+CUB_radical_socialist_party_long_socrev:0 "혁명주의자"
 
 CUB_totalist_party_totemb:0 "전체주의자"
-CUB_totalist_party_long_totemb:0 "전체주의당"
+CUB_totalist_party_long_totemb:0 "전체주의자"
 
-CUB_paternal_autocrat_party_diazgov:0 "Progresista"
-CUB_paternal_autocrat_party_long_diazgov:0 "Partido Progesista"
+CUB_paternal_autocrat_party_diazgov:0 "진보당"
+CUB_paternal_autocrat_party_long_diazgov:0 "진보당"
 
-CUB_radical_socialist_party_radsocdem:0 "Liberación Nacional"
-CUB_radical_socialist_party_long_radsocdem:0 "Partido de Liberación Nacional"
+CUB_radical_socialist_party_radsocdem:0 "국민해방당"
+CUB_radical_socialist_party_long_radsocdem:0 "국민해방당"
 
 ### Focuses ###
 
