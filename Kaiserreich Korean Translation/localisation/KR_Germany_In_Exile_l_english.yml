@@ -75,7 +75,7 @@ GEX_askari1:0 "아프리카 군단"
 GEX_askari2:0 "아프리카 군단 확장"
 GEX_askari3:0 "아스카리의 복무와 권리"
 GEX_askari4:0 "타협은 없다!"
-GEX_way_home_idea:0:0 "조국으로의 접근"
+GEX_way_home_idea:0 "조국으로의 접근"
 GEX_way_home_idea_desc:0 "우리는 새로운 제국해군을 만드는데 상당한 국가적인 지원을 하고 있습니다. 대형 함선을 쉽게 생산할 수 있는 능력은 부족한 반면, 소형 함선의 생산량은 크게 증가하였습니다."
 
 ### Tooltips ###
