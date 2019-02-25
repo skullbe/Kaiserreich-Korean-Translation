@@ -41,22 +41,22 @@ CAF_syndicalist_party_after_revolt:0 "버틀러당"
 
 ### Ideas ###
 CAF_cayenne_agreement:0 "카옌 협약"
-CAF_cayenne_agreement_desc:0 "The Cayenne Agreement signed in 1931 was signed between English and French politicians regarding the status of the French territories. The agreement guarantees higher autonomy for the French colonies over the English, and has been the subject of a high amount of controversy."
+CAF_cayenne_agreement_desc:0 "1931년 체결된 카옌 협약은 프랑스 영토의 지위에 관해 영국과 프랑스 정치인들 사이에 체결된 협약입니다. 이 협약은 프랑스 식민지에 거주하는 영국인들에 대한 더 높은 자치권을 보장하며, 당시부터 지금까지 많은 논란의 대상이 되어왔습니다."
 
 CAF_cayenne_agreement_normal_socdems:0 "수정된 카옌 협약"
-CAF_cayenne_agreement_normal_socdems_desc:0 "With the Parti pour I'Autonomie in power, the frenchmen have been convinced to fight for the federation."
+CAF_cayenne_agreement_normal_socdems_desc:0 "자치당이 정권을 확보하면서, 프랑스인들은 연방에 맞서 싸울 것을 다짐하고 있습니다."
 
 CAF_young_army:0 "풋내기 육군"
-CAF_young_army_desc:0 "While we may have experienced British general staff backing us, the idea of a West Indies army is relatively new. The army is young and with it comes with a lack of expertise. On the bright side, being so inexperienced makes it easier for our troops to learn new things and grow more through combat."
+CAF_young_army_desc:0 "영국인 참모들이 우리 군의 양성에 도움을 줬을지라도 결국 서인도제도군은 풋내기일 뿐입니다. 우리 군인들은 어리고 경험과 전문지식이 부족합니다. 긍정적으로 보자면, 이는 훈련과 실전 경험을 통해 자연스레 해결될 수 있는 문제입니다."
 
 CAF_young_army_2:0 "풋내기 육군"
-CAF_young_army_2_desc:0 "While we may have experienced British general staff backing us, the idea of a West Indies army is relatively new. The army is young and with it comes with a lack of expertise. On the bright side, being so inexperienced makes it easier for our troops to learn new things and grow more through combat."
+CAF_young_army_2_desc:0 "영국인 참모들이 우리 군의 양성에 도움을 줬을지라도 결국 서인도제도군은 풋내기일 뿐입니다. 우리 군인들은 어리고 경험과 전문지식이 부족합니다. 긍정적으로 보자면, 이는 훈련과 실전 경험을 통해 자연스레 해결될 수 있는 문제입니다."
 
 CAF_young_army_3:0 "풋내기 육군"
-CAF_young_army_3_desc:0 "While we may have experienced British general staff backing us, the idea of a West Indies army is relatively new. The army is young and with it comes with a lack of expertise. On the bright side, being so inexperienced makes it easier for our troops to learn new things and grow more through combat."
+CAF_young_army_3_desc:0 "영국인 참모들이 우리 군의 양성에 도움을 줬을지라도 결국 서인도제도군은 풋내기일 뿐입니다. 우리 군인들은 어리고 경험과 전문지식이 부족합니다. 긍정적으로 보자면, 이는 훈련과 실전 경험을 통해 자연스레 해결될 수 있는 문제입니다."
 
 CAF_young_army_4:0 "풋내기 육군"
-CAF_young_army_4_desc:0 "While we may have experienced British general staff backing us, the idea of a West Indies army is relatively new. The army is young and with it comes with a lack of expertise. On the bright side, being so inexperienced makes it easier for our troops to learn new things and grow more through combat."
+CAF_young_army_4_desc:0 "영국인 참모들이 우리 군의 양성에 도움을 줬을지라도 결국 서인도제도군은 풋내기일 뿐입니다. 우리 군인들은 어리고 경험과 전문지식이 부족합니다. 긍정적으로 보자면, 이는 훈련과 실전 경험을 통해 자연스레 해결될 수 있는 문제입니다."
 
 CAF_air_force_support:0 "공군 지원"
 CAF_air_force_support_desc:0 "The cooperation between the Air Force and Army of the West Indies has caused them to be deeply intertwined in the way both of them fight."
@@ -130,11 +130,11 @@ CAF_expanded_agriculture_desc:0 "With the Great Depression behind us, the price 
 CAF_agriculture_reform:0 "농업 개혁"
 CAF_agriculture_reform_desc:0 "Along with the expansion of the farming industry, many reforms have been set in place in order to make farming work at peak efficiency and with the correct standards."
 
-CAF_cayenne_agreement_ncp1:0 "카옌 협약 절충"
-CAF_cayenne_agreement_ncp1_desc:0 "The Cayenne Agreement signed in 1931 was signed between English and French politicians regarding the status of the French territories. The agreement guarantees higher autonomy for the French colonies over the English, and has been the subject of a high amount of controversy. After the elections of 1937 the Cayenne Agreement has been being systemically compromised by NCP."
+CAF_cayenne_agreement_ncp1:0 "카옌 협약 타협"
+CAF_cayenne_agreement_ncp1_desc:0 "1931년 체결된 카옌 협약은 프랑스 영토의 지위에 관해 영국과 프랑스 정치인들 사이에 체결된 협약입니다. 이 협약은 프랑스 식민지에 거주하는 영국인들에 대한 더 높은 자치권을 보장하며, 당시부터 지금까지 많은 논란의 대상이 되어왔지만, 1937년 선거 이후 카옌 협정은 NCP에 의해 체계적으로 타협되어 왔습니다."
 
 CAF_cayenne_agreement_ncp2:0 "카옌 협약 폐기"
-CAF_cayenne_agreement_ncp2_desc:0 "The Cayenne Agreement signed in 1931 was signed between English and French politicians regarding the status of the French territories. The agreement guarantees higher autonomy for the French colonies over the English, and has been the subject of a high amount of controversy. After the elections of 1937 the Cayenne Agreement has been being systemically compromised by NCP. This agreement now is only theoretically in work."
+CAF_cayenne_agreement_ncp2_desc:0 "1931년 체결된 카옌 협약은 프랑스 영토의 지위에 관해 영국과 프랑스 정치인들 사이에 체결된 협약입니다. 이 협약은 프랑스 식민지에 거주하는 영국인들에 대한 더 높은 자치권을 보장하며, 당시부터 지금까지 많은 논란의 대상이 되어왔지만, 1937년 선거 이후 카옌 협정은 NCP에 의해 체계적으로 타협되어 왔습니다. 결과적으로 현재 카옌 협정은 명목상으로만 유효합니다."
 
 CAF_federal_institute:0 "서인도 연방부"
 CAF_federal_institute_desc:0 "서인도 연방부는 통합 과정의 조직을 임무로 하는 자문기구이며, [CAF_federal_institute_head]"
@@ -200,7 +200,6 @@ CAF_Unity_concessions_2nd_Cayenne:0 "Concessions to the Unity"
 CAF_SocDem_concessions_2nd_Cayenne:0 "Concessions to the Social Democrats"
 
 CAF_2nd_Cayenne_Agreement:0 "제2차 카옌 협약"
-CAF_2nd_Cayenne_Agreement:0 "The Cayenne Agreement signed in 1931 was signed between English and French politicians regarding the status of the French territories. The 2nd Cayenne Agreement however guarantees equal rights and level of autonomy for the French and English colonies. It is far less controversial and moreover it better guarantees crucial civil rights for everybody."
 
 CAF_2nd_Cayenne_Agreement2:0 "Sangster Bill"
 CAF_2nd_Cayenne_Agreement2:0 "Social liberal set of resolutions that surely is going to stimulate West Indies economy."
