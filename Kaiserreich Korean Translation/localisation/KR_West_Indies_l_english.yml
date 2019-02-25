@@ -2,13 +2,13 @@ l_english:
 
 ### Parties ###
 CAF_totalist_party_long:0 "혁명전선"
-CAF_totalist_party:0 "RF"
+CAF_totalist_party:0 "혁명전선"
 
-CAF_syndicalist_party_long:0 "국가 레지스탕스"
-CAF_syndicalist_party:0 "NR"
+CAF_syndicalist_party_long:0 "국민레지스탕스"
+CAF_syndicalist_party:0 "국민레지스탕스"
 
 CAF_radical_socialist_party_long:0 "자유연맹"
-CAF_radical_socialist_party:0 "FC"
+CAF_radical_socialist_party:0 "자유연맹"
 CAF_social_democrat_party_long:0 "자치당(사회주의자)"
 CAF_social_democrat_party:0 "PA(사회주의자)"
 CAF_social_democrat_party_after_split_long:0 "자치당-인민국가당"
@@ -20,10 +20,10 @@ CAF_social_liberal_party_after_split_long:0 "자치당-노동당"
 CAF_social_liberal_party_after_split:0 "자치-노동"
 CAF_market_liberal_party_long:0 "단일당"
 CAF_market_liberal_party:0 "단일당"
-CAF_social_conservative_party_long:0 "국민단결당"
-CAF_social_conservative_party:0 "국민단결당"
-CAF_authoritarian_democrat_party_long:0 "애국동맹"
-CAF_authoritarian_democrat_party:0 "애국동맹"
+CAF_social_conservative_party_long:0 "국민통합당"
+CAF_social_conservative_party:0 "국민통합당"
+CAF_authoritarian_democrat_party_long:0 "애국연합"
+CAF_authoritarian_democrat_party:0 "애국연합"
 CAF_paternal_autocrat_party_long:0 "군사 정부"
 CAF_paternal_autocrat_party:0 "군사 정부"
 CAF_national_populist_party_long:0 "통일당"
@@ -143,7 +143,7 @@ CAF_federal_institute_head2:0 "현재 로버트 애런델이 그 수장을 맡�
 CAF_federal_institute_head3:0 "그 수장은 현재 공석인 상태입니다."
 
 CAF_french_conscription_ncp:0 "프랑스인 징병"
-CAF_french_conscription_ncp_desc:0 "The army will help us integrate the French into the Federation. Just as others they must serve in the army. The time of excessive autonomy is behind us."
+CAF_french_conscription_ncp_desc:0 "군대는 프랑스인이 연방에 통합될 수 있도록 도울 것입니다. 프랑스인들은 다른 사람들 처럼 군대에 복무해야합니다. 과도한 자치의 시대는 이제 퇴장해야할 때입니다."
 
 CAF_consolidation_effect1:0 "재앙적인 통합 실패"
 CAF_consolidation_effect1_desc:0 "우리 나라는 무너지고 있습니다. 우리의 통합 시도는 처참한 실패로 판명되었습니다."
@@ -193,11 +193,11 @@ CAF_union_dominance_desc:0 "정부 내 노동조합의 지위가 높아졌습니
 CAF_mechanized_labor:0 "기계화된 노동자"
 CAF_mechanized_labor_desc:0 "이제 노동자들은 노동을 할 때 기계를 사용하여 작업 속도를 향상시킬 수 있습니다."
 
-CAF_NCP_concessions_2nd_Cayenne:0 "Concessions to the NCP"
+CAF_NCP_concessions_2nd_Cayenne:0 "국민통합당과 협의"
 
-CAF_Unity_concessions_2nd_Cayenne:0 "Concessions to the Unity"
+CAF_Unity_concessions_2nd_Cayenne:0 "단일당과 협의"
 
-CAF_SocDem_concessions_2nd_Cayenne:0 "Concessions to the Social Democrats"
+CAF_SocDem_concessions_2nd_Cayenne:0 "사민당과 협의"
 
 CAF_2nd_Cayenne_Agreement:0 "제2차 카옌 협약"
 CAF_2nd_Cayenne_Agreement:0 "1931년 체결된 카옌 협약은 프랑스 영토의 지위에 관해 영국과 프랑스 정치인들 사이에 체결된 협약입니다. 그러나 제2차 카옌 협정은 프랑스와 영국 식민지에 대해 동등한 권리와 자주성을 보장합니다. 이로써 논란과 불만을 대폭 줄이고 거기에 더해서 모든 시민들에게 중요한 권리를 더 잘 보장해 줄 수 있게 되었습니다."
@@ -211,10 +211,10 @@ CAF_conscription_pa1_desc:0 "Conscription to the army should not be forced. To c
 CAF_conscription_pa2:0 "평화주의"
 CAF_conscription_pa2_desc:0 "There is no reason to increase the conscription to the army. That is why we can delegate part of the population back to the economy. We are peaceful and pacifist nation."
 
-CAF_grand_social_coalition:0 "The Grand Social Coalition"
+CAF_grand_social_coalition:0 "위대한사회연대"
 CAF_grand_social_coalition_desc:0 "By convincing all the various radical groups in our country to law down their arms and cooperate with us to bring the country to prosperous socialism, we have managed to create a powerful block in the parliament and in the populace."
 
-CAF_legalised_trade_unions:0 "Legalised Trade Unions"
+CAF_legalised_trade_unions:0 "합법화된 노동조합"
 CAF_legalised_trade_unions_desc:0 "By legalising the trade unions, whom leaders are friendly to us, we have increased the cooperation between government and industry, and have given a stronger voice for the workers in their plight."
 
 CAF_rebuilding_with_help:0 "Assisted Reconstruction"
@@ -552,10 +552,10 @@ CAF_2nd_cayenne_meeting1:0 "Organize Meeting"
 CAF_2nd_cayenne_meeting2:0 "Voting"
 CAF_2nd_cayenne_meeting1_desc:0 "Organize Meeting"
 CAF_2nd_cayenne_meeting2_desc:0 "Voting"
-CAF_2nd_cayenne_meeting3:0 "Gain votes from NCP"
-CAF_2nd_cayenne_meeting3_desc:0 "Gain votes from NCP"
-CAF_2nd_cayenne_meeting4:0 "Gain votes from Unity"
-CAF_2nd_cayenne_meeting4_desc:0 "Gain votes from Unity"
+CAF_2nd_cayenne_meeting3:0 "국민통합당으로 부터 표를 얻습니다"
+CAF_2nd_cayenne_meeting3_desc:0 "국민통합당으로 부터 표를 얻습니다"
+CAF_2nd_cayenne_meeting4:0 "단일당으로 부터 표를 얻습니다"
+CAF_2nd_cayenne_meeting4_desc:0 "단일당으로 부터 표를 얻습니다"
 CAF_2nd_cayenne_meeting5:0 "Gain votes from Social Democrats"
 CAF_2nd_cayenne_meeting5_desc:0 "Gain votes from Social Democrats"
 
@@ -566,7 +566,7 @@ CAF_permanent_junta_1_desc:0 "Looking at the history of elections in the Federat
 CAF_permanent_junta_2:0 "Permanent rule of the Governor-General"
 CAF_permanent_junta_2_desc:0 "Looking at the history of elections in the Federation, Sir Fiennes has made the call to continue to rule without returning to democracy, lest it threatens to destroy the country again."
 
-CAF_tension_category:0 "Strike Season"
+CAF_tension_category:0 "파업 시즌"
 CAF_tension_category_desc:0 "With a trend of labour strikes and sympathy for the mainland on a very alarming spike, we're teetering a very frightening scale of appeasing both the left and the right of our country resulting in this phase in our country being known as 'Strike Season'. Should we ever begin to sympathise with these anarchists to a high level, the Governor-General could intervene while suppressing them too much can lead to outright revolt. We'll need to be careful with our actions in the future while keeping this in mind.\n\nCurrent tension with the §RSocialists§!: §Y[?CAF.CAF_socialist_anger]§!\n\nCurrent tension with the §MEmpire§!: §Y[?CAF.CAF_british_anger]§!"
 
 CAF_combat_tax_evasion:0 "Increase the plantation fiscal responsibilities"
@@ -1075,20 +1075,20 @@ wifpol.601.d:0 "The 3rd day of the congress unveiled unbearable tensions in the 
 wifpol.601.a:0 "Call it in 15 days"
 wifpol.601.b:0 "Call it in 30 days"
 
-wifpol.612.t:0 "NCP votes"
+wifpol.612.t:0 "국민통합당 투표"
 wifpol.612.d:0 "Make concessions for NCP votes. Some funds are going to be allocated to the implementation of their goals. Are we ready to sacrifice enough to get a political ally?"
-wifpol.612.a:0 "Accept"
-wifpol.612.b:0 "Reject"
+wifpol.612.a:0 "수락한다"
+wifpol.612.b:0 "거절한다"
 
-wifpol.613.t:0 "Unity votes"
+wifpol.613.t:0 "단일당 투표"
 wifpol.613.d:0 "Make concessions for Unity Party votes. Some funds are going to be allocated to the implementation of their goals. Are we ready to sacrifice enough to get a political ally?"
-wifpol.613.a:0 "Accept"
-wifpol.613.b:0 "Reject"
+wifpol.613.a:0 "수락한다"
+wifpol.613.b:0 "거절한다"
 
-wifpol.614.t:0 "Social Democrats votes"
+wifpol.614.t:0 "사민당 투표"
 wifpol.614.d:0 "Make concessions for Social Democrats votes. Some funds are going to be allocated to the implementation of their goals. Are we ready to sacrifice enough to get a political ally?"
-wifpol.614.a:0 "Accept"
-wifpol.614.b:0 "Reject"
+wifpol.614.a:0 "수락한다"
+wifpol.614.b:0 "거절한다"
 
 wifpol.615.t:0 "Conscription dilemma"
 wifpol.615.d:0 "Social liberals focus mainly on pacifism. Therefore there is no reason to increase the conscription to the army. That is why we can delegate part of the population back to the economy. This will cause an economic boom. An alternative concept involves professional conscription to the army. The army should not be forced. To achive it some funds should be devoted to increasing wages and improving the quality of life for military personnel."
