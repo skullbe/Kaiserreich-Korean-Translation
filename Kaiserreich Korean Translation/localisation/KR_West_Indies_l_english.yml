@@ -145,17 +145,17 @@ CAF_federal_institute_head3:0 "그 수장은 현재 공석인 상태입니다."
 CAF_french_conscription_ncp:0 "프랑스인 징병"
 CAF_french_conscription_ncp_desc:0 "The army will help us integrate the French into the Federation. Just as others they must serve in the army. The time of excessive autonomy is behind us."
 
-CAF_consolidation_effect1:0 "Consolidation disaster"
-CAF_consolidation_effect1_desc:0 "Our nation is crumbling. Consolidation turned out to be a disaster."
+CAF_consolidation_effect1:0 "재앙적인 통합 실패"
+CAF_consolidation_effect1_desc:0 "우리 나라는 무너지고 있습니다. 우리의 통합 시도는 처참한 실패로 판명되었습니다."
 
-CAF_consolidation_effect2:0 "Consolidation fail"
-CAF_consolidation_effect2_desc:0 "Our nation is suffering. Consolidation failed."
+CAF_consolidation_effect2:0 "통합 실패"
+CAF_consolidation_effect2_desc:0 "우리 나라는 고통받고 있습니다. 우리의 통합 시도는 실패했습니다."
 
-CAF_consolidation_effect3:0 "Consolidation bitter success"
-CAF_consolidation_effect3_desc:0 "Our nation is stabilizing. Consolidation turned out successful. We payed high for it but it was worth it."
+CAF_consolidation_effect3:0 "통합 성공"
+CAF_consolidation_effect3_desc:0 "우리 나라는 안정되고 있습니다. 통합이 성공적으로 이루어졌습니다. 우리는 이를 위해 비싼 대가를 치렀지만, 명백히 그럴만한 가치가 있었습니다."
 
-CAF_consolidation_effect4:0 "Consolidation triumph"
-CAF_consolidation_effect4_desc:0 "Total triumph of the consolidation!"
+CAF_consolidation_effect4:0 "기념비적인 통합 성공"
+CAF_consolidation_effect4_desc:0 "우리의 통합 시도는 총체적인 대성공을 거뒀습니다!"
 
 CAF_new_const_good:0 "The Final Draft of the Constitution is a resounding success!"
 CAF_new_const_good_desc:0 "The constitution proposed by us turned out to be not only optimal for the parliamentary majority, but it is also assessed as well written. Journalists give it as a model of modern piece of legislation."
@@ -163,20 +163,20 @@ CAF_new_const_good_desc:0 "The constitution proposed by us turned out to be not 
 CAF_new_const_bad:0 "The Final Draft of the Constitution is received with mixed reactions"
 CAF_new_const_bad_desc:0 "The desire to adopt a new constitution at any price and with a small amount of work led to the creation of another incoherent document. It's good that it is, but maybe we could have written something better."
 
-CAF_french_in_school_costs:0 "School subsidies"
-CAF_french_in_school_costs_desc:0 "We offered state subsidies to improve the schools in French. Thanks to this, they can manage to match the level of English-speaking schools."
+CAF_french_in_school_costs:0 "학교 보조금"
+CAF_french_in_school_costs_desc:0 "우리는 프랑스어를 사용하는 학교들을 개선시키기 위해 정부 보조금을 제공했습니다. 덕분에, 그들은 영어를 사용하는 학교들의 수준과 맞출 수 있게 되었습니다."
 
-CAF_ended_labour_movement:0 "Labour Movement ended"
-CAF_cracked_down_unions:0 "Cracked down unions"
-CAF_ended_labour_movement_desc:0 "It's time for everyone to get to work instead of a revolutionary struggle."
-CAF_cracked_down_unions_desc:0 "It's time for everyone to get to work instead of a revolutionary struggle."
+CAF_ended_labour_movement:0 "노동자 운동이 끝나다"
+CAF_cracked_down_unions:0 "노조들이 탄압당하다"
+CAF_ended_labour_movement_desc:0 "모두가 혁명적인 투쟁 대신 일자리로 돌아갈 때입니다."
+CAF_cracked_down_unions_desc:0 "모두가 혁명적인 투쟁 대신 일자리로 돌아갈 때입니다."
 
 CAF_plantations_burn1:0 "Plantation issues"
 
 CAF_plantations_burn2:0 "Plantation issues"
 
-CAF_freedom_of_press:0 "Freedom of the Press"
-CAF_freedom_of_press_desc:0 "It has been decreed that the press shall be free, and that the news can freely voice their opinions without fear."
+CAF_freedom_of_press:0 "언론의 자유"
+CAF_freedom_of_press_desc:0 "언론의 자유는 절대 불가침이며, 뉴스는 두려움 없이 자유롭게 의견을 내놓을 수 있음을 분명히 합시다."
 
 CAF_united_workers:0 "단결한 노동자들"
 CAF_united_workers_desc:0 "노동자들간의 다툼이 마침내 끝났습니다."
@@ -219,7 +219,7 @@ CAF_legalised_trade_unions_desc:0 "By legalising the trade unions, whom leaders 
 
 CAF_rebuilding_with_help:0 "Assisted Reconstruction"
 
-CAF_caribbean_economy_finish:0 "A Caribbean Economy"
+CAF_caribbean_economy_finish:0 "카리브 경제"
 
 CAF_cayenne_agreement_2_00:0 "제2차 카옌 협약"
 CAF_cayenne_agreement_2_01:0 "제2차 카옌 협약"
@@ -251,9 +251,9 @@ CAF_syndie_revolution:0 "The socialists have been forced by the establishment in
 CAF_moyne_commission_tree_unlocked:0 "The Moyne Commission has finished its survey of the West Indies."
 
 ## Army Branch ##
-CAF_deploy_young_bois_tooltip:0 "§GTwo volunteer divisions will be deployed in Jamaica and Trinidad.§!"
-CAF_superior_firepower_flag:0 "We have chosen Hildyard's doctrine plan."
-CAF_grand_battleplan_flag:0 "We have chosen Clifford's doctrine plan."
+CAF_deploy_young_bois_tooltip:0 "§G두 개의 자원병 사단이 자메이카와 트리니다드에 형성될 것입니다.§!"
+CAF_superior_firepower_flag:0 "우리는 힐드야드의 교리를 선택했습니다."
+CAF_grand_battleplan_flag:0 "우리는 클리포드의 교리를 선택했습니다."
 CAF_aquire_artillery_tooltip:0 "100 units of the QF 18-Pounder will be added to our stockpile."
 CAF_anti_air_setup_tooltip:0 "Various anti-air systems will be setup across the country.\n"
 CAF_radio_setup_tooltip:0 "Radar stations will be setup in various spots throughout the country.\n"
@@ -262,9 +262,9 @@ CAF_drax_doctrine:0 "We have adopted Drax's doctrine."
 CAF_CAN_purchase_tooltip:0 "A total of 16 ships will be sent to us, consisting of 2 battleships, 2 light cruisers, and 12 destroyers."
 CAF_CAN_purchase_small_tooltip:0 "A total of 12 ships will be sent to us, consisting of 1 battleship, 2 light cruisers, and 9 destroyers."
 CAF_forced_smol_navy:0 "We will be forced to switch to Drax's plan."
-CAF_boat_sent:0 "Canada has sent us ships."
-CAF_not_boat_sent:0 "Canada has refused to send us ships."
-CAF_more_ships:0 "You will get more ships from the deal if you picked 'Defend the Empire'."
+CAF_boat_sent:0 "캐나다가 우리에게 함선들을 보냈습니다."
+CAF_not_boat_sent:0 "캐나다가 우리에게 함선들을 보내기를 거부했습니다."
+CAF_more_ships:0 "만약 당신이 '제국 방어'를 선택했다면 협상에서 더 많은 함선을 얻을 수 있을 것입니다."
 
 ## Unity Party ##
 CAF_unity_conference_ready_flag:0 "The Conference is finished being prepared."
@@ -399,8 +399,8 @@ CAF_subjugate_syndies:0 "§GThe Popular National Resistance pledges support for 
 CAF_kill_cayenne:0 "§RThis will remove any form of the Cayenne Agreement currently in effect.§!"
 CAF_new_election_time:0 "§GWe will hold new elections.§!"
 CAF_soclib_puppet_time:0 "§GWe shall become a more autonomous dominion, still subservient to Canada.§!"
-CAF_entente_scripted_loc:0 "Entente"
-CAF_internationale_scripted_loc:0 "Internationale"
+CAF_entente_scripted_loc:0 "협상국"
+CAF_internationale_scripted_loc:0 "인터내셔널"
 ## Opinion modifiers ##
 CAF_FRA_exch:0 "French-Caribbean Exchange Program"
 
@@ -433,7 +433,7 @@ NAVY_REGINALD_DRAX_DESC:0 "§YAdmiral Description§!\n§YBorn:§! August 28, 188
 
 ### Decisions ###
 
-CAF_socialist_acceptance_category:0 "The Socialist Issue"
+CAF_socialist_acceptance_category:0 "사회주의자 문제"
 CAF_socialist_acceptance_category_desc:0 "With a trend of labour strikes and sympathy for the mainland on a very alarming spike, we're teetering a very frightening scale of appeasing both the left and the right of our country. Should we ever begin to sympathise with these anarchists to a high level, the Governor-General could intervene while suppressing them too much can lead to outright revolt. We'll need to be careful with our actions in the future while keeping this in mind.\n\nCurrent acceptance of the §RSocialists§! in the Federation: §R[?CAF.socialist_acceptance|-0]§!\n"
 
 CAF_airway_project_category:0 "The Airway Project"
@@ -491,7 +491,7 @@ CAF_integration_process_NCP_meetings_desc:0 "The government is taking the initia
 CAF_integration_process_NCP_flyer:0 "Flyer in french"
 CAF_integration_process_NCP_flyer_desc:0 "There is a small manifesto in the Port of France contemptuously called 'flyer in french' by Kingston elites. It deals with matters that touch on ridiculousness. Most of the proposals should be rejected in the runs. However, the acceptance of a few more might appeal to the inhabitants of the French Antilles. The author of this failed work remains unknown..."
 
-CAF_integration_process_NCP_francophonie:0 "Francophonie"
+CAF_integration_process_NCP_francophonie:0 "프랑코포니"
 CAF_integration_process_NCP_francophonie_desc:0 "Relation with Paris owner >100"
 
 CAF_NCP_new_constitution_category:0 "New Constitution for West Indies Federation"
@@ -583,9 +583,9 @@ CAF_allow_yellow_unions_desc:0 "While unions are toxic to the federation's econo
 
 
 ### Events ###
-wifpol.1.t:0 "Introduction to the West Indies Federation"
+wifpol.1.t:0 "서인도 연합국 소개"
 wifpol.1.d:0 "The West Indies Federation has had a troubled history since its creation, with what was initially a divide between Englishmen who did and did not want to incorporate the French colonies evolving into the a complete split between French and English culture. The victory of the NCP(National Consolidation Party) in the 1925 elections resulted in the incorporation of French colonies, but with deep socialist roots in them, it immediately grew into chaos.\n\nThis ended with the victory of the UP(Unity Party) and signing of the Cayenne Agreement in 1931. This established the ability for the French to make their own parties and higher autonomy than the English colonies. While this move turned out well at first, this only increased tensions with the moderate right demanding the entire agreement be repealed and placed with a new one, while the left wants to further increase autonomy for either the French or all territories of the Federation.\n\nThe creation of a new party to represent the left's views, the PA(Parti pour l'Autonomie) was created as a huge mesh of French socialists and liberals, along with a mix of English politicians was created in 1933. Along with this, the NCP has steadily been rising in power again due to a large part of the English population feeling like it got the short hand in the Cayenne Agreement. Despite barely slipping by the 1933 elections, the Unity Party stands in a dangerous position."
-wifpol.1.a:0 "The divides must be mended"
+wifpol.1.a:0 "분열은 해결되어야만 한다."
 
 wifpol.2.t:0 "Labour Strikes in Guadeloupe"
 wifpol.2.d:0 "Guadeloupe has always been a hot-spot for Syndicalists even while under French rule, with the majority of the population being left leaning. This erupted today when the recent trend of labour strikes in the English colonies has been spreading to the French.\n\nOver 2000 farmers have gone on strike for unfair working conditions and extremely high unemployment rates within the island. There is great worry about this strike growing beyond Guadeloupe itself and becoming something bigger, so the problem will need to be dealt with soon."
