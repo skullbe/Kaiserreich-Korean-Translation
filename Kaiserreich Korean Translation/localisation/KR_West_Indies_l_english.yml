@@ -12,32 +12,32 @@ CAF_radical_socialist_party:0 "FC"
 CAF_social_democrat_party_long:0 "자치당(사회주의자)"
 CAF_social_democrat_party:0 "PA(사회주의자)"
 CAF_social_democrat_party_after_split_long:0 "자치당-인민국가당"
-CAF_social_democrat_party_after_split:0 "PA-PNP"
+CAF_social_democrat_party_after_split:0 "자치-인민"
 
 CAF_social_liberal_party_long:0 "자치당(연방주의자)"
-CAF_social_liberal_party:0 "PA(연방주의자)"
+CAF_social_liberal_party:0 "자치당(연방주의자)"
 CAF_social_liberal_party_after_split_long:0 "자치당-노동당"
-CAF_social_liberal_party_after_split:0 "PA-LP"
-CAF_market_liberal_party_long:0 "통합당"
-CAF_market_liberal_party:0 "UP"
-CAF_social_conservative_party_long:0 "국가단결당"
-CAF_social_conservative_party:0 "NCP"
+CAF_social_liberal_party_after_split:0 "자치-노동"
+CAF_market_liberal_party_long:0 "단일당"
+CAF_market_liberal_party:0 "단일당"
+CAF_social_conservative_party_long:0 "국민단결당"
+CAF_social_conservative_party:0 "국민단결당"
 CAF_authoritarian_democrat_party_long:0 "애국동맹"
-CAF_authoritarian_democrat_party:0 "PU"
+CAF_authoritarian_democrat_party:0 "애국동맹"
 CAF_paternal_autocrat_party_long:0 "군사 정부"
 CAF_paternal_autocrat_party:0 "군사 정부"
 CAF_national_populist_party_long:0 "통일당"
-CAF_national_populist_party:0 "UP"
+CAF_national_populist_party:0 "통일당"
 
-CAF_social_democrat_party_syndie_long:0 "자치당 (사회주의자)"
-CAF_social_democrat_party_syndie:0 "PA(사회주의자)"
+CAF_social_democrat_party_syndie_long:0 "자치당(사회주의자)"
+CAF_social_democrat_party_syndie:0 "자치당(사회주의자)"
 
 CAF_social_democrat_party_after_revolt_long:0 "자치당"
-CAF_social_democrat_party_after_revolt:0 "PA"
+CAF_social_democrat_party_after_revolt:0 "자치당"
 CAF_radical_socialist_party_after_revolt_long:0 "인민당"
-CAF_radical_socialist_party_after_revolt:0 "PP"
-CAF_syndicalist_party_after_revolt_long:0 "영국 시민 그리고 노동자 자치당 (버틀러당)"
-CAF_syndicalist_party_after_revolt:0 "BP"
+CAF_radical_socialist_party_after_revolt:0 "인민당"
+CAF_syndicalist_party_after_revolt_long:0 "영국 시민 & 노동자 자치당 (버틀러당)"
+CAF_syndicalist_party_after_revolt:0 "영국시민-노동자자치"
 
 ### Ideas ###
 CAF_cayenne_agreement:0 "카옌 협약"
@@ -59,7 +59,7 @@ CAF_young_army_4:0 "풋내기 육군"
 CAF_young_army_4_desc:0 "영국인 참모들이 우리 군의 양성에 도움을 줬을지라도 결국 서인도제도군은 풋내기일 뿐입니다. 우리 군인들은 어리고 경험과 전문지식이 부족합니다. 긍정적으로 보자면, 이는 훈련과 실전 경험을 통해 자연스레 해결될 수 있는 문제입니다."
 
 CAF_air_force_support:0 "공군 지원"
-CAF_air_force_support_desc:0 "The cooperation between the Air Force and Army of the West Indies has caused them to be deeply intertwined in the way both of them fight."
+CAF_air_force_support_desc:0 "공군과 서인도제도 육군은 전투시에 밀접한 관계를 가지고 있습니다."
 
 CAF_new_command:0 "새로운 사령부"
 CAF_new_command_desc:0 "With Clifford's plan being chosen for the official West Indies doctrine, a strong emphasis has been put on having a proper plan and competent generals to carry them out."
@@ -112,16 +112,16 @@ CAF_great_depression_5_desc:0 "A huge chain of ripples have hit our country. Sta
 CAF_great_depression_6:0 "대공황"
 CAF_great_depression_6_desc:0 "A huge chain of ripples have hit our country. Starting with Black Monday in Germany furthering the Great Depression for the United States, our economy has been further shattered than it already was. The people are upset and quality of life is dropping lower than it already was before this."
 
-CAF_CAN_gib_monies:0 "West Indies Monetary Compensation"
+CAF_CAN_gib_monies:0 "서인도제도 화폐보상"
 CAF_CAN_gib_monies_desc:0 "The revelation of what was discovered in the Moyne report led to a recommendation by the commission to increase the amount of funding going to the West Indies, which we have decided to respect."
 
-CAF_CAN_get_monies:0 "West Indies Monetary Compensation"
+CAF_CAN_get_monies:0 "서인도제도 화폐보상"
 CAF_CAN_get_monies_desc:0 "The revelation of what was discovered in the Moyne report led to a recommendation by the commission to increase the amount of funding going to the West Indies, which the Canadian government has decided to respect."
 
-CAF_social_programs_idea:0 "Social Programs"
+CAF_social_programs_idea:0 "사회 계획"
 CAF_social_programs_idea_desc:0 "Social programs have been enacted in order to appease the people and improve the conditions of the West Indies in general."
 
-CAF_social_programs_and_research:0 "Social Programs"
+CAF_social_programs_and_research:0 "사회 계획"
 CAF_social_programs_and_research_desc:0 "Social programs have been enacted in order to appease the people and improve the conditions of the West Indies in general. Along with this, more money has been invested in the building of schools for the country to try and improve the standard of education."
 
 CAF_expanded_agriculture:0 "확장된 농업"
@@ -171,9 +171,9 @@ CAF_cracked_down_unions:0 "노조들이 탄압당하다"
 CAF_ended_labour_movement_desc:0 "모두가 혁명적인 투쟁 대신 일자리로 돌아갈 때입니다."
 CAF_cracked_down_unions_desc:0 "모두가 혁명적인 투쟁 대신 일자리로 돌아갈 때입니다."
 
-CAF_plantations_burn1:0 "Plantation issues"
+CAF_plantations_burn1:0 "농장지 문제"
 
-CAF_plantations_burn2:0 "Plantation issues"
+CAF_plantations_burn2:0 "농장지 문제"
 
 CAF_freedom_of_press:0 "언론의 자유"
 CAF_freedom_of_press_desc:0 "언론의 자유는 절대 불가침이며, 뉴스는 두려움 없이 자유롭게 의견을 내놓을 수 있음을 분명히 합시다."
@@ -182,16 +182,16 @@ CAF_united_workers:0 "단결한 노동자들"
 CAF_united_workers_desc:0 "노동자들간의 다툼이 마침내 끝났습니다."
 
 CAF_indies_culture:0 "새로운 서인도 문화"
-CAF_indies_culture_desc:0 "West Indian is now accepted as a united culture."
+CAF_indies_culture_desc:0 "서인도는 이제 통합된 문화를 받아들이게 되었습니다."
 
-CAF_promoted_trade:0 "Promotion of Trade"
-CAF_promoted_trade_desc:0 "Trade has been promoted between the West Indies Union and the world."
+CAF_promoted_trade:0 "무역촉진"
+CAF_promoted_trade_desc:0 "서인도제도와 전세계간의 무역이 촉진되었습니다."
 
-CAF_union_dominance:0 "Trade Union Dominance"
-CAF_union_dominance_desc:0 "The position of trade unions within the government has been elevated."
+CAF_union_dominance:0 "노동조합 우세"
+CAF_union_dominance_desc:0 "정부 내 노동조합의 지위가 높아졌습니다."
 
 CAF_mechanized_labor:0 "기계화된 노동자"
-CAF_mechanized_labor_desc:0 "Laborers can now use machines in their work to speed it up."
+CAF_mechanized_labor_desc:0 "이제 노동자들은 노동을 할 때 기계를 사용하여 작업 속도를 향상시킬 수 있습니다."
 
 CAF_NCP_concessions_2nd_Cayenne:0 "Concessions to the NCP"
 
@@ -202,10 +202,10 @@ CAF_SocDem_concessions_2nd_Cayenne:0 "Concessions to the Social Democrats"
 CAF_2nd_Cayenne_Agreement:0 "제2차 카옌 협약"
 CAF_2nd_Cayenne_Agreement:0 "1931년 체결된 카옌 협약은 프랑스 영토의 지위에 관해 영국과 프랑스 정치인들 사이에 체결된 협약입니다. 그러나 제2차 카옌 협정은 프랑스와 영국 식민지에 대해 동등한 권리와 자주성을 보장합니다. 이로써 논란과 불만을 대폭 줄이고 거기에 더해서 모든 시민들에게 중요한 권리를 더 잘 보장해 줄 수 있게 되었습니다."
 
-CAF_2nd_Cayenne_Agreement2:0 "Sangster Bill"
+CAF_2nd_Cayenne_Agreement2:0 "생스터빌"
 CAF_2nd_Cayenne_Agreement2:0 "Social liberal set of resolutions that surely is going to stimulate West Indies economy."
 
-CAF_conscription_pa1:0 "Increased soldiers wages"
+CAF_conscription_pa1:0 "군인 임금 상승"
 CAF_conscription_pa1_desc:0 "Conscription to the army should not be forced. To create content military, some funds should be devoted to increasing wages and improving the quality of life of military personnel. We are peaceful but we also need to protect ourselves."
 
 CAF_conscription_pa2:0 "평화주의"
@@ -241,7 +241,7 @@ CAF_mending_language_divide_idea:0 "언어적 분단 해결"
 ### Tooltips ###
 
 ## Party Victories ##
-CAF_unity_party_victory_flag:0 "The Unity Party has won the 1937 election."
+CAF_unity_party_victory_flag:0 "단일당이 1937년 선거에서 승리하였습니다."
 CAF_ncp_party_victory_flag:0 "The National Consolidation Party has won the 1937 election."
 CAF_pa_party_victory_flag:0 "The Parti pour I'Autonomie has won the 1937 election."
 CAF_pa_pnp_coalition_flag:0 "The Parti pour I'Autonomie and People's National Party have formed a coalition."
@@ -402,7 +402,7 @@ CAF_soclib_puppet_time:0 "§GWe shall become a more autonomous dominion, still s
 CAF_entente_scripted_loc:0 "협상국"
 CAF_internationale_scripted_loc:0 "인터내셔널"
 ## Opinion modifiers ##
-CAF_FRA_exch:0 "French-Caribbean Exchange Program"
+CAF_FRA_exch:0 "프랑스-카리브 무역 계획"
 
 ### Leader Descriptions ###
 POLITICS_SIR_EUSTACE_FIENNES_DESC:0 "Sir Eustace Edward Twisleton-Wykeham-Fiennes was given the title of Governor-General of the West Indies Federation on June 26th of 1925. Having previous experience with war, governorship of the West Indies, and politics within the United Kingdom itself, he's known for not being silent on his political opinions regarding the Federation. Some rumours have flown by stating that he plans on intervening in politics himself if the 1937 Election gets out of control, but no substantial proof of these rumours have been supplied yet."
@@ -479,7 +479,7 @@ CAF_integration_process_NCP_guyana_trails_desc:0 ""
 CAF_integration_process_NCP_judiciary_unification:0 "Judiciary unification"
 CAF_integration_process_NCP_judiciary_unification_desc:0 "Consolidation requires us to unite our legal system. The old French laws must give way to the modern legal order inspired by the Commonwealth law. However, an important issue without which this system can not be introduced due to the pressure of our party are the Guyana Trails. As long as they do not start the legislative work on unification of the law will not be voted. In this way, prominent NCP politicians will influence and even more importantly the mythical criminals from Cayenne will be judged."
 
-CAF_integration_process_NCP_french_conscription:0 "French conscription"
+CAF_integration_process_NCP_french_conscription:0 "프랑스인 징집"
 CAF_integration_process_NCP_french_conscription_desc:0 "We have begun a huge campaign to recruit residents of French Antilles to our army. The General Staff is opposed to the introduction of more French-speaking officers. This may make the functioning of our army more difficult, but on the other hand it will be a perfect example of harmonious consolidation."
 
 CAF_integration_process_NCP_universal_rights:0 "Universal rights agreement"
@@ -578,7 +578,7 @@ CAF_combat_illegal_french_activity_desc:0 "Ever since the integration of the Fre
 CAF_mandatory_english:0 "Increase pressure for english adoption"
 CAF_mandatory_english_desc:0 "The language divide in the federation has to be solved, and the current policies are too slow. We need to fund english schools for adults, and enforce english as a secondary language in the curriculum of all French schools."
 
-CAF_allow_yellow_unions:0 "Allow yellow unions"
+CAF_allow_yellow_unions:0 "노란노조 허용"
 CAF_allow_yellow_unions_desc:0 "While unions are toxic to the federation's economy, we could concede to socialist unrest and legalise a milder form of unionism, one that the corporation still has control over."
 
 
