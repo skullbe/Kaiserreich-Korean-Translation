@@ -763,6 +763,9 @@ amcivwar.156.d:0 "우리의 개입으로 내전이 종식되었습니다. 이제
 amcivwar.156.a:0 "연방정부에 반환하자"
 amcivwar.156.b:0 "태평양 합중국에 반환하자"
 amcivwar.156.c:0 "미주 연합에 반환하자"
+amcivwar.156.e:0 "뉴잉글랜드에 반환하자"
+amcivwar.156.f:0 "미국을 재건하자!"
+amcivwar.156.g:0 "군사점령을 계속하자!"
 
 amcivwar.199.t:0 "미국의 마지막 보루"
 amcivwar.199.d:0 "It is beginning to dawn upon our citizens that the American civil war is actually over. The scars from the fighting will last for a long time, but it seems as if the feeling has already started to sink in that any chance to change America's destiny further has passed. We are now and forever more [Root.GetNameDef], and the world should know that is so."
