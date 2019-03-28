@@ -1260,7 +1260,7 @@ ustates.109.a:0 "롱이 평화를 망쳤어!"
 
 ustates.110.t:0 "리드가 회담장을 박차고 나가다"
 ustates.110.d:0 "Landon's attempts to keep both the men in the meeting had made some headway until some of Long's men attacked a Red Guard. The city erupted in protest and Reed walked away from the table. Reed praised the President for his efforts but he could not deal with Long. As he left the meeting armed groups of Red Guards began attacking the America First delegation and Long was forced to retreat from the city."
-ustates.110.a:0 "You're all thugs, brutes"
+ustates.110.a:0 "너희들 모두 깡패들이다, 짐승들아"
 
 ustates.111.t:0 "세인트루이스 대폭동"
 ustates.111.d:0 "The CSA had been aggravating the workers in the area to expand the strike. Local businesses in St. Louis were paralyzed. Many of them turned to the America First Party to provide a solution. Within days the streets were flooded with Minutemen. There are wild reports from the chaos ranging from Minutmen stopping petty crime in the absence of police, to them creating the crime. Soon the situation had erupted into a wide scale riot."
@@ -1891,13 +1891,13 @@ ustates.311.a:0 "Not our proudest moment."
 
 ### Resistance Mechanics ###
 
-ustates.400.t:0 "Syndicalist Bombing"
-ustates.400.d:0 "Syndicalists who still fight for their 'revolution' have targeted factories, railways, and troop installations throughout [attack_state.GetName], causing a great deal of damage and the loss of many lives. The National Guard are on the scene in [attack_state.GetName], and claim they are closer to catching the ringleaders behind these groups than they were before."
-ustates.400.a:0 "We shall crush these terrorists"
+ustates.400.t:0 "생디칼리스트들의 폭탄 테러"
+ustates.400.d:0 "여전히 '혁명'을 위해 투쟁하는 생디칼리스트들은 [attack_state.GetName] 전역에 걸쳐 공장, 철도 및 부대 시설을 목표로 삼아 엄청난 피해와 많은 인명 손실을 초래하였습니다. 현재 주방위군이 [attack_state.GetName]의 현장에 있는데, 이전보다 이 테러 집단 뒤에 숨은 주모자들을 잡는 데 더 가까워졌다고 주장합니다."
+ustates.400.a:0 "우리는 이 테러리스트들을 쳐부술 것이다"
 
-ustates.404.t:0 "Longist Bombing"
-ustates.404.d:0 "Supporters of Huey Long and his ideals have targeted factories, railways, and troop installations throughout [attack_state.GetName], causing a great deal of damage and the loss of many lives. The National Guard are on the scene in [attack_state.GetName], and claim they are closer to catching the ringleaders behind these groups than they were before."
-ustates.404.a:0 "We shall crush these terrorists"
+ustates.404.t:0 "롱 지지자들의 폭탄 테러"
+ustates.404.d:0 "휴이 롱과 그의 사상을 지지하는 사람들은 [attack_state.GetName] 전역에 걸쳐 공장, 철도 및 부대 시설을 목표로 삼아 엄청난 피해와 많은 인명 손실을 초래하였습니다. 현재 주방위군이 [attack_state.GetName]의 현장에 있는데, 이전보다 이 테러 집단 뒤에 숨은 주모자들을 잡는 데 더 가까워졌다고 주장합니다."
+ustates.404.a:0 "우리는 이 테러리스트들을 쳐부술 것이다"
 
 
 ###############################################
