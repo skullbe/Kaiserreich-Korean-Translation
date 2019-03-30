@@ -1221,63 +1221,63 @@ ustates.98.a:0 "젠장할 롱, 젠장할 미닛맨들!"
 ### Alf Landon Path ###
 
 ustates.101.t:0 "알프 랜던의 취임식"
-ustates.101.d:0 "Alf Landon was sworn in as the 31st president of the United States of America today. At his inaugural address Landon spoke of the challenges facing the nation in preserving a liberal democacy. Landon's speech curiously never directly named the AFP or SPA, in the hope that their members could still be reasoned with. Landon concluded with a promise to solve the Depression with entrepreneurship. Creating a new generation of millionares that will bring pride back to the nation. Whether anyone will listen is another matter."
+ustates.101.d:0 "알프 랜던이 오늘 미국 31대 대통령으로 취임했습니다. 그의 취임 연설에서 랜던은 자유민주주의를 보존하는 데 있어서 국가가 직면하고 있는 어려움에 대해 말했습니다. 랜던은 연설에서 신기하게도 그들의 당원들이 여전히 이성을 가질 수 있기를 바라면서 결코 제일당이나 사회당을 직접 언급하지 않았습니다. 랜던은 기업가 정신으로 대공황을 해결하겠다는 약속으로 연설의 끝을 맺었습니다. 그의 기업가 정신은 국가의 자부심을 되살릴 수 있는 새로운 세대의 백만장자를 만들어내는 것입니다. 그러나 랜던의 바람을 누군가가 들어줄지는 또 다른 문제입니다."
 ustates.101.a:0 "신이시여 민주주의를 보호하소서"
 
-ustates.102.t:0 "The President Deals with the Strike"
-ustates.102.d:0 "In response to the ongoing crisis, Landon proposes a Bill to begin a series of economic intervention policies. Landon proposes to bail out a number of high profile companies and declaring a bank holiday to start the process. However both the SPA and AFP oppose it for not going far enough and being too friendly with business that caused the Depression. It will take some cooperation between Republicans and Democrats to overcome this united front of radicalism in Congress."
-ustates.102.a:0 "Propose the Bill anyways"
+ustates.102.t:0 "대통령이 파업과 협상을 벌이다"
+ustates.102.d:0 "계속되는 위기에 대응하기 위하여, 랜던은 일련의 경제 개입 정책을 시작할 법안을 제안하였습니다. 랜던은 많은 유명 기업들을 구제하고 그 과정을 시작하기 위한 공휴일을 선포할 것을 제안하였습니다. 하지만 사회당과 제일당 모두 충분히 번창하지 못하고 대공황을 초래한 사업에 지나치게 우호적인 것에 대해 반대하고 있습니다. 의회에서 급진주의 세력의 단결된 반대를 극복하기 위해서는 공화당과 민주당의 협력이 필요할 것입니다."
+ustates.102.a:0 "어쨌든 법안을 발의하라"
 
 ustates.103.t:0 "법안이 통과되다"
-ustates.103.d:0 "The Bill has managed to pass and has been signed into law by Landon. It is hard to say right away if this will solve the problem, but Landon hopes that this can be the first steps to fix the economy that all moderates can agree upon."
+ustates.103.d:0 "그 법안은 가까스로 랜던에 의해 통과되었습니다. 이것이 문제를 해결할 수 있을지는 당장은 말하기 어렵지만, 랜던은 이것이 모든 온건파가 동의할 수 있는 경제를 고치는 첫 번째 단계가 될 수 있기를 희망합니다."
 ustates.103.a:0 "효과가 있길 바라자"
 
 ustates.104.t:0 "리드가 랜던을 스탠다드 오일의 하수인일 뿐이라고 비난하다"
-ustates.104.d:0 "Alf Landon's election material made him out to be a self-made man, an entripeneur who made his wealth himself starting from a small petroleum company. Landon's relationship with the Oil Industry culminated in the establishment of the United States Oil and Gas Association in his home state of Kansas, which freely associates with Standard Oil. To Reed and the SPA, this is the smoking gun that Landon is a class traitor, and Reed has made his opinion known far and wide. Unwilling to confront Reed, President Landon has choosen to critcise Reed passively during an commencement speech to a university."
+ustates.104.d:0 "알프 랜던의 선거 자료에 따르면 그는 자수성가한 사람으로, 작은 석유회사에서 출발하여 자신의 부를 직접 만든 사업가입니다. 랜던과 석유 산업과의 관계는 그의 고향인 캔자스에 미국 석유 가스 협회를 설립하는 것으로 절정에 달했는데, 이 협회는 스탠다드 오일과 자유롭게 관계를 맺고 있습니다. 리드와 사회당은 이것이 랜던이 계급 사회의 배신자라는 빼도 박도 못하는 증거라고 주장하며 리드는 자신의 의견을 널리 알렸습니다. 리드에게 맞설 생각을 하지 못한 랜던 대통령은 대학 졸업식 연설에서 리드에게 소극적인 비판을 가했습니다."
 ustates.104.a:0 "나는 리드 네놈과는 다르게 그 누구를 위해서 일하지 않는다!"
 
 ustates.105.t:0 "휴이 롱이 랜던을 썩어빠졌다고 비난하다"
-ustates.105.d:0 "Huey Long has responded like Reed by decrying Landon as a corrupt politician in Standard Oil's pocket. Huey Long spoke about how President Landon only cared for the rich and the monopolies that oppress true Americans. Articulating criticism of Landon's fiscal conservatism during his tenure as Governor of Kansas. Huey Long also made sure to remind the people that by all rights that he should be president and that he would have fixed this crisis already. Landon has choosen to respond to Long while giving an interview to the newspapers"
+ustates.105.d:0 "휴이 롱은 랜던을 스탠다드 오일 회사의 부패한 정치인이라고 비난하며 리드처럼 대응해 왔습니다. 휴이 롱은 랜던 대통령이 진정한 미국인들을 억압하는 부자들과 독점자들만을 어떻게 돌봐왔는지에 대해 말하였는데, 이것은 캔자스 주지사 재임 기간 동안의 랜던의 재정적인 보수주의에 대한 비판을 표현한 것입니다. 휴이 롱은 또한 모든 권리에 의해 자신이 대통령이 되어야 하고 그는 이 위기를 진작에 해결했을 것이라는 것을 국민들에게 확실히 상기시켰습니다. 랜던은 신문과 인터뷰를 통해 롱에게 대답하는 것을 선택했습니다."
 ustates.105.a:0 "난 록펠러가 아냐, 망할 자식아!"
 
 ustates.106.t:0 "롱과 리드를 만나다"
-ustates.106.d:0 "In response to the ongoing crisis, Alf Landon's Secretary of Commerce has proposed to meet down with both Huey Long and Jack Reed and try to get some sort of compromise. However some within the Republican party are saying that this plan of action will not work, and dealing with them at all will only debase the party line."
+ustates.106.d:0 "현재 진행 중인 위기에 대응하기 위하여, 알프 랜던의 상무장관은 휴이 롱과 잭 리드 둘 과 만나서 일종의 타협점을 찾자고 제안했습니다. 그러나 공화당 내에서는 이런 행동 계획은 먹히지 않을 것이라 주장하며, 아예 그들과 타협하는 것은 당 노선을 약화시킬 뿐이라고 말하고 있습니다."
 ustates.106.a:0 "저들과 만나지 말자"
 ustates.106.b:0 "회의를 소집하라"
 
 ustates.107.t:0 "롱과 리드가 논쟁하다"
-ustates.107.d:0 "Both Long and Reed had contradictory views and this led to heated arguments between both the men. The President did his best to keep the occasion as civil as he could but both men were very vocal in their dislike for each other. Surpisingly, both Reed and Long did have a brief moment of understanding in favor of a Social Secuirty Bill, but Landon shot that down. Reed had threatened to leave the table if Long was not removed."
+ustates.107.d:0 "롱과 리드 둘 다 상반된 견해를 가지고 있었고 이것은 두 남자 사이에 열띤 논쟁을 야기했습니다. 대통령은 최대한 정중하게 회의를 진행하기 위해 최선을 다했지만 두 사람은 서로에 대한 반감이 매우 컸습니다. 놀라운 것은, 리드와 롱 모두 사회보장법안에 찬성하여 짧은 시간 동안이나마 이해의 순간을 가졌지만, 랜던은 법안에 반대하였습니다. 리드는 롱을 쫓아내지 않으면 회담장에서 나가겠다고 협박했습니다."
 ustates.107.a:0 "리드의 말이 맞다, 롱은 나가라"
 ustates.107.b:0 "싸우지 말고 타협시키도록 노력한다"
 
 ustates.108.t:0 "롱이 회담장에서 강제로 쫓겨나다"
-ustates.108.d:0 "After Long was removed from the original meeting, he had returned and forced his way into the meeting hall. Long demanded to be re-involved with the negotiations and accused Landon of selling out America to the syndicates. Landon had no choice but to have Long dragged out of the meeting."
+ustates.108.d:0 "롱이 회담장에서 쫓겨난 후, 그는 돌아와서 강제로 회담장으로 들어왔습니다. 오랫동안 회담에 다시 참여할 것을 요구했고 롱은 랜던이 미국을 생디칼리스트에게 매각했다고 비난했습니다. 랜던은 롱을 회담장에서 끌어낼 수밖에 없었습니다."
 ustates.108.a:0 "망할 놈!"
 
 ustates.109.t:0 "미국 제일당원들이 시카고의 노동 연맹을 공격하다"
-ustates.109.d:0 "After Long had been forcibly removed from the meeting, an America First group calling themselves the Minutemen attacked the CSA party involved in the negotiations. An impromptu battle erupted as armed Minutemen and Red Guard clashed. The president was forced to leave the meeting and with him went any hope for a peaceful conclusion."
+ustates.109.d:0 "롱이 회담에서 강제로 쫓겨난 후, 자신들을 미닛맨이라고 부르는 미국 제일주의 단체가 노동 연맹을 공격했습니다. 무장한 미닛맨과 적위대가 충돌하면서 즉석으로 전투가 벌어졌습니다. 대통령은 어쩔 수 없이 회담장을 떠났고 그와 함께 평화적인 결론이 내려지기를 희망했습니다."
 ustates.109.a:0 "롱이 평화를 망쳤어!"
 
 ustates.110.t:0 "리드가 회담장을 박차고 나가다"
-ustates.110.d:0 "Landon's attempts to keep both the men in the meeting had made some headway until some of Long's men attacked a Red Guard. The city erupted in protest and Reed walked away from the table. Reed praised the President for his efforts but he could not deal with Long. As he left the meeting armed groups of Red Guards began attacking the America First delegation and Long was forced to retreat from the city."
-ustates.110.a:0 "너희들 모두 깡패들이다, 짐승들아"
+ustates.110.d:0 "랜던이 두 사람을 회담에 참석하게 하려는 시도는 롱의 부하들 중 일부가 적위대를 공격하기 전까지 어느 정도 진전을 이루었습니다. 도시는 항의 시위로 폭발했으며 리드는 회담장에서 나갔습니다. 리드는 대통령의 노력에 대해 칭찬했지만 리드는 롱과 타협할 수 없었습니다. 롱이 회담장에서 떠날 때, 적위대의 무장 단체들은 미국 제일주의 대표단을 공격하기 시작했고 롱은 도시에서 물러날 수밖에 없었습니다."
+ustates.110.a:0 "네놈들은 모두 깡패 새끼들이다, 짐승 자식들아"
 
 ustates.111.t:0 "세인트루이스 대폭동"
-ustates.111.d:0 "The CSA had been aggravating the workers in the area to expand the strike. Local businesses in St. Louis were paralyzed. Many of them turned to the America First Party to provide a solution. Within days the streets were flooded with Minutemen. There are wild reports from the chaos ranging from Minutmen stopping petty crime in the absence of police, to them creating the crime. Soon the situation had erupted into a wide scale riot."
+ustates.111.d:0 "노동 연맹은 파업을 확대하기 위해 그 지역의 노동자들을 끌어들였고, 그 결과 세인트루이스의 지역 사업체들이 마비됐습니다. 많은 사람들이 해결책을 제시받기 위해 미국제일당으로 눈을 돌렸고, 며칠 지나지 않아 거리는 미닛맨으로 넘쳐나게 되었습니다. 경찰이 없는 상황에서 미닛맨이 사소한 범죄를 저지르는 것에서 부터 중범죄를 저지르는 등 혼란이 빚어지고 있다는 생생한 보도가 나오고 있습니다. 그 후 도시의 상황은 대규모 폭동으로 이어졌습니다."
 ustates.111.a:0 "주방위군을 투입해라"
 ustates.111.b:0 "주차원에서 해결할 문제다"
 
 ustates.112.t:0 "주방위군이 압도당하다"
-ustates.112.d:0 "The National Guard commander in St. Louis was overwhelmed by the amount of violence in the city. The battle in St. Louis became a war zone as all sides fell upon each other. Reports of Long's Minutemen breaking into schools to arrest socialists without warrents frighten the nation. It is not known where the Minutemen take those they arret. The National Guard was overwhelmed. The Police chief of St. Louis is considering a full retreat and evacuation of the city."
+ustates.112.d:0 "세인트루이스의 주방위군 사령관은 도시의 폭력에 압도당했습니다. 세인트루이스에서의 전투는 사방이 서로 부딪히면서 전쟁터가 되었습니다. 롱의 미닛맨이 학교 안으로 침입해 아무런 영장도 없이 사회주의자들을 체포했다는 보도가 전국을 두렵게 만들었습니다. 미닛맨이 체포한 이들을 어디로 데려가는지는 알려지지 않았습니다. 주방위군은 압도당했습니다. 세인트루이스 경찰청장은 본격적인 퇴거와 도심 대피를 검토하고 있습니다."
 ustates.112.a:0 "지원군을 투입해라"
 ustates.112.b:0 "우리 인력을 철수시켜라"
 
 ustates.113.t:0 "세인트루이스가 교전구역이 되다"
-ustates.113.d:0 "The lack of federal support has allowed the CSA and AUS to turn St. Louis into a war zone. People streamed out of the city to escape the violence. More reports of Minutemen seizing left-leaning institutions and shipping off their members to god-knows-where. Throughout the North and South, Americans from all sides are beginning to mobilize."
+ustates.113.d:0 "연방 정부의 지원이 부족하여 노동 연맹과 미주 연합은 세인트루이스를 전쟁터로 만들 수 있었습니다. 사람들은 폭력사태를 피해 시내로 몰려갔습니다. 미닛맨들이 좌편향 기관들을 점거하고 직원들에게 신이 어디 있는지에 대하여 알려줬다는 더 많은 보고가 나왔습니다. 남북 전역의 모든 곳에서 미국인들이 동원되기 시작했습니다."
 ustates.113.a:0 "통제불능이군"
 
 ustates.114.t:0 "세인트루이스가 교전구역이 되다"
-ustates.114.d:0 "The troops that arrived to support the National Guard found themselves in a war zone. As people streamed out of St. Louis the federal forces tried to wrest control of the city with little success. Each side became involved in one pitched battle after another and it was a war that had not yet been declared but that would soon change"
+ustates.114.d:0 "주방위군을 지원하기 위해 도착한 부대는 전쟁터에 있는 자신을 발견하게 되었습니다. 사람들이 세인트루이스에서 쏟아져 나오고 연방군은 약간의 성과만 거둔 채 도시를 장악하려 노력했습니다. 연방군은 각 진영마다의 총력전에 휘말리게 되었고, 그것은 아직 선언되지 않았지만 곧 바뀔 전쟁이었습니다."
 ustates.114.a:0 "통제불능이군"
 
 ### Victory in the civil war
