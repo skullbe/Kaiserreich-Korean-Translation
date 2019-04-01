@@ -1,11 +1,11 @@
 l_english:
 
 ### Opinion Modifiers ###
-CAFRP:0 "캐나다가 우리에게 푸에트로리코를 할양함"
-USAPRNO:0 "미국이 우리에게 푸에트로리코를 할양하지 않음"
-CANGIVPR:0 "캐나다가 푸에트로리코를 반환함"
-CANNOPR:0 "캐나다가 푸에트로리코를 반환하지 않음"
-USAVSCAN:0 "캐나다가 푸에트로리코를 소유함"
+CAFRP:0 "캐나다가 우리에게 푸에르토리코를 할양함"
+USAPRNO:0 "미국이 우리에게 푸에르토리코를 할양하지 않음"
+CANGIVPR:0 "캐나다가 푸에르토리코를 반환함"
+CANNOPR:0 "캐나다가 푸에르토리코를 반환하지 않음"
+USAVSCAN:0 "캐나다가 푸에르토리코를 소유함"
 LIB_goes:0 "라이베리아가 우리로부터 독립을 선언함"
 LIB_stand:0 "라이베리아가 우리 편에 섬"
 LIB_go_NFA:0 "라이베리아가 우리와 함께 함"
@@ -215,11 +215,11 @@ amcivwar.3.a:0 "정부를 지켜내자"
 amcivwar.3.b:0 "공화국을 지켜내자 (태평양 합중국으로 플레이합니다)"
 
 amcivwar.4.t:0 "벼랑 끝의 미국"
-amcivwar.4.d:0 "A tense standoff has erupted in the United States, as democratically-elected President Reed fled to the city of Chicago after being forcibly removed from his position by General Douglas MacArthur. From Chicago, Reed's supporters have declared MacArthur's government illegitimate - as has the southern supporters of Huey Long, based in New Orleans, and the Pacific Governors under the leadership of Governor Frank Merriam. All have been given a deadline by General MacArthur of thirty days to either stand down or face arrest and execution. Considering all sides are rapidly raising forces, the idea that America seems headed into a second civil war seems almost certain."
+amcivwar.4.d:0 "더글러스 맥아더 장군이 민주적으로 선출된 리드 대통령을 강제로 직위 해제한 후, 리드가 시카고 시로 도피하면서 미국에서 팽팽한 대치 국면이 벌어졌습니다. 시카고에서 리드의 지지자들은 맥아더 정부가 불법이라 선언했는데, 뉴올리언스에 본부를 둔 휴이 롱의 남부 지지자들과 프랭크 메리암 주지사가 이끄는 태평양 주지사들 또한 그러합니다. 맥아더 장군은 30일의 기한을 주며 30일 이내에 물러나지 않으면 체포되어 처형될 것이고 말했습니다. 모든 파벌이 급속히 세력을 키우고 있다는 점을 고려하면 미국이 제2의 내전으로 치닫고 있는 것 같다는 생각은 거의 확실해 보입니다."
 amcivwar.4.a:0 "알겠다."
 
 amcivwar.5.t:0 "제2차 미국 내전"
-amcivwar.5.d:0 "MacArthur's deadline has come and gone, and with large militia forces having been raised on every side it is clear what their answer truly is. The Second American Civil War has begun."
+amcivwar.5.d:0 "맥아더가 정한 기한이 지나갔으며, 사방에서 대규모 민병대가 동원된 가운데 그들의 해답이 무엇인지 분명합니다. 제2차 미국 내전이 시작되었습니다."
 amcivwar.5.a:0 "아니었으면..."
 
 ### Set Up Events - Long ###
@@ -239,12 +239,12 @@ amcivwar.8.a:0 "정부를 지켜내자"
 amcivwar.8.b:0 "공화국을 지켜내자 (태평양 합중국으로 플레이합니다)"
 
 amcivwar.9.t:0 "벼랑 끝의 미국"
-amcivwar.9.d:0 "A tense standoff has erupted in the United States, as democratically-elected President Huey Long fled to the city of New Orleans after being forcibly removed from his position by General Douglas MacArthur. From New Orleans, Long's supporters have declared MacArthur's government illegitimate - as have the northern supporters of syndicalist Jack Reed, based in Chicago, and the Pacific Governors under the leadership of Governor Frank Merriam. All have been given a deadline by General MacArthur of thirty days to either stand down or face arrest and execution. Considering all sides are rapidly raising forces, the idea that America seems headed into a second civil war seems almost certain."
+amcivwar.9.d:0 "더글러스 맥아더 장군이 민주적으로 선출된 롱 대통령을 강제로 직위 해제한 후, 롱이 뉴올리언스 시로 도피하면서 미국에서 팽팽한 대치 국면이 벌어졌습니다. 뉴올리언스에서 롱의 지지자들은 맥아더 정부가 불법이라 선언했는데, 시카고에 본부를 둔 잭 리드의 지지자들과 프랭크 메리암 주지사가 이끄는 태평양 주지사들 또한 그러합니다. 맥아더 장군은 30일의 기한을 주며 30일 이내에 물러나지 않으면 체포되어 처형될 것이고 말했습니다. 모든 파벌이 급속히 세력을 키우고 있다는 점을 고려하면 미국이 제2의 내전으로 치닫고 있는 것 같다는 생각은 거의 확실해 보입니다."
 amcivwar.9.a:0 "알겠다."
 
-amcivwar.10.t:0 "The Second Civil War"
-amcivwar.10.d:0 "MacArthur's deadline has come and gone, and with large militia forces having been raised on every side it is clear what their answer truly is. The Second American Civil War has begun."
-amcivwar.10.a:0 "Not again…"
+amcivwar.10.t:0 "제2차 미국 내전"
+amcivwar.10.d:0 "맥아더가 정한 기한이 지나갔으며, 사방에서 대규모 민병대가 동원된 가운데 그들의 해답이 무엇인지 분명합니다. 제2차 미국 내전이 시작되었습니다."
+amcivwar.10.a:0 "아니었으면..."
 
 ### Set Up Events - Olson ###
 
@@ -539,7 +539,7 @@ amcivwar.75.a:0 ""
 amcivwar.75.b:0 ""
 
 amcivwar.76.t:0 "워싱턴의 함락"
-amcivwar.76.d:0 "Washington has fallen to traitors and rebels, and as such we must move out of the city. Military leaders have drafted several possible cities that we could relocate to. The question is which one shall we relocate to?"
+amcivwar.76.d:0 "워싱턴은 반역자들과 반란군들에게 넘어갔고, 우리는 도시를 벗어나야 합니다. 군 지도자들은 우리가 이전할 수 있는 몇 개의 도시들을 제안했습니다. 문제는 어느 곳으로 옮길 것인가 하는 것입니다."
 amcivwar.76.a:0 "덴버"
 amcivwar.76.b:0 "샌프란시스코"
 amcivwar.76.c:0 "헬레나"
