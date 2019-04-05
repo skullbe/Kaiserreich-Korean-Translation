@@ -1105,7 +1105,7 @@ ustates.71.b:0 "롱을 내버려 둬라, 그가 노동 연맹보다 중요하다
 
 ustates.72.t:0 "총파업이 퍼지다"
 ustates.72.d:0 "올슨 행정부의 미흡한 대응으로 총파업은 더욱 남쪽으로 이동하게 되었습니다. 세인트루이스는 분열했으며 현재 파업으로 골머리를 앓고 있습니다. 적위대의 폭행에 대한 보도가 증가하고 있습니다."
-ustates.72.a:0 "노동연맹이 통제를 벗어났군"
+ustates.72.a:0 "노동 연맹이 통제를 벗어났군"
 
 ustates.73.t:0 "세인트루이스의 대폭동"
 ustates.73.d:0 "노동 연맹은 파업을 확대하기 위해 그 지역의 노동자들을 끌어들였고, 그 결과 세인트루이스의 지역 사업체들이 마비됐습니다. 많은 사람들이 해결책을 제시받기 위해 미국제일당으로 눈을 돌렸고, 며칠 지나지 않아 거리는 미닛맨으로 넘쳐나게 되었습니다. 경찰이 없는 상황에서 미닛맨이 사소한 범죄를 저지르는 것에서 부터 중범죄를 저지르는 등 혼란이 빚어지고 있다는 생생한 보도가 나오고 있습니다. 그 후 도시의 상황은 대규모 폭동으로 이어졌습니다."
@@ -1164,58 +1164,58 @@ ustates.84.a:0 "미국 만세!"
 ### Garner Path ###
 
 ustates.86.t:0 "존 낸스 가너의 취임식"
-ustates.86.d:0 "Today John Nance Garner has been sworn in as the 31st president of America. Garner's speech spoke about how we must not compromise our democratic values with radicals, left or right. He promised that democracy is a non-negotiable and integral part of the nation. On the economy, Garner has promsed reform through personal sacrifice and austerity, as was done after the Panic of 1893. Garner enters the White House surrounded by allies, professing that the Longists and Unionists will tire themselves out before the end of the year."
+ustates.86.d:0 "오늘 존 낸스 가너는 미국의 31대 대통령으로 취임했습니다. 가너는 연설에서 좌파나 우파 같은 급진주의자들의 민주주의적 가치와 타협하지 않는 방법에 대해 말했습니다. 그는 민주주의는 협상할 수 없고 국가의 필수적인 부분이라고 약속했습니다. 경제와 관련해서는, 가너 대통령은 1893년 패닉 사태 이후와 마찬가지로 개인적 희생과 긴축으로 개혁을 약속했습니다. 가너는 협력자들에 둘러싸인 채 백악관에 입장하였으며, 롱 지지자와 조합주의자들은 연말 전까지 스스로 지칠 것이라고 공언하였습니다."
 ustates.86.a:0 "신이시여 미국을 구하소서"
 
-ustates.87.t:0 "Federal Involvement in the Strike"
-ustates.87.d:0 "Since Garner's election, the CSA with the support of Reed and the SPA have launched a General Strike to oppose the results of the election. By Inauguration day the strike had been going on for nearly two months with no end in sight. Garner and many within the Democratic party have come to believe that a strong hand is needed to stop the strikers."
-ustates.87.a:0 "Federal involvement is necessary."
-ustates.87.b:0 "Radicals tend to evaporate with time"
+ustates.87.t:0 "연방 정부의 파업 개입"
+ustates.87.d:0 "가너의 당선 이후 리드와 사회당의 지지를 받고 있는 노동 연맹은 총선 결과에 반대하기 위한 총파업에 돌입했습니다. 취임식 날까지 파업은 끝이 보이지 않은 채 두 달 가까이 계속되고 있습니다. 가너와 민주당 내 많은 사람들은 파업 참가자들을 저지하기 위해서는 강력한 수단이 필요하다고 믿게 되었습니다."
+ustates.87.a:0 "연방 정부의 개입이 필요하다"
+ustates.87.b:0 "급진주의자들은 시간이 지나면 알아서 사라질 것이다"
 
 ustates.88.t:0 "러스트벨트 지역의 긴장"
-ustates.88.d:0 "As National Guardsmen arrived in the north to end the strike, tensions remain high. Many of the various mayors and even governors were not just supportive of the Strike but actively helping it. Consequently, they strongly opposed the use of the National Guard. The strikers began to taunt the guards and have even assaulted scab workers brough in to the factories. It is clear a single spark can set off the north. Yet President Garner remained undeterred by this and declared on the radio that the strike must end for the good of the nation, with the unsaid implication that force is going to be used if it doesn't."
+ustates.88.d:0 "주방위군들이 파업을 끝내기 위해 북부에 도착하면서 긴장감은 여전히 고조되어있습니다. 여러 시장들과 심지어 주지사들 중에서도 많은 사람들이 파업에 찬성했을 뿐만 아니라 적극적으로 도왔습니다. 결과적으로, 그들은 주방위군의 파견에 강하게 반대했습니다. 파업 참가자들은 방위군들을 조롱하기 시작했고 공장에 들어온 진압군들을 폭행하기까지 했습니다. 단 한 번의 불꽃으로 북부지역이 폭발할 것이 분명해 보입니다. 그러나 가너 대통령은 이에 대해 단념 하지 않고 라디오를 통해 파업은 국가의 이익을 위해 끝나야 한다고 선언했으며, 그렇지 않을 경우 무력을 사용할 것임을 암시했습니다."
 ustates.88.a:0 "단언컨대 파업은 끝날 것이다"
 
 ustates.89.t:0 "남부 파업"
-ustates.89.d:0 "The General Strike launched by the CSA has reached even the south with textile workers joining in the strike and launched their own strikes. These strikers are cut off from the main body of the CSA, but still pose a threat to the already-struggling industry in the south. With the chaos in the Steel Belt, President Garner had to make a choice. Should he divert force to stopping the strike in Tennessee or in North Carolina."
-ustates.89.a:0 "The Strike shall end in Tennessee"
-ustates.89.b:0 "The Strike shall end in North Carolina"
+ustates.89.d:0 "노동 연맹이 주도한 총파업은 섬유 노동자들이 파업에 동참하면서 남부까지 도달해 자체적인 파업에 돌입했습니다. 이들 파업 노동자들은 노동 연맹과는 단절돼 있지만, 남부에서 이미 고전하고 있는 산업계에 위협이 되고 있습니다. 스틸 벨트의 혼란과 함께 가너 대통령은 선택을 해야 했습니다. 테네시 주나 노스캐롤라이나 주에서의 파업을 멈추게 하는 쪽으로 힘을 돌려야 합니다."
+ustates.89.a:0 "파업은 테네시에서 끝날 것이다"
+ustates.89.b:0 "파업은 노스캐롤라이나에서 끝날 것이다"
 
-ustates.90.t:0 "Minutemen establish control in Tennessee"
-ustates.90.d:0 "With the country falling further into chaos, Long had the Minutemen move into Tennessee to establish order out of chaos. Reports of Long's Minutemen breaking into schools to arrest socialists without warrents frighten the nation. It is not known where the Minutemen take those they arret. It is clear that the state is more loyal to him now than to the Federal government."
-ustates.90.a:0 "You're not welcome there, Long!"
+ustates.90.t:0 "미닛맨이 테네시 주의 통제권을 확립하다"
+ustates.90.d:0 "나라가 더욱 혼란에 빠지면서 롱은 미닛맨을 테네시 주로 파견시켜 혼란에서 벗어나 질서를 확립하게 했습니다. 롱의 미닛맨이 학교 안으로 침입해 아무런 영장도 없이 사회주의자들을 체포했다는 보도가 전국을 두렵게 만들었습니다. 미닛맨이 체포한 이들을 어디로 데려가는지는 알려지지 않았습니다. 지금 테네시 주는 연방 정부보다 롱에게 더 충성하고 있는 것은 분명합니다."
+ustates.90.a:0 "너는 거기서 환영받지 못해, 롱!"
 
-ustates.91.t:0 "Minutemen establish control in North Carolina"
-ustates.91.d:0 "With the country falling further into chaos, Long had the Minutemen move into North Carolina to establish control and order there. Reports of Long's Minutemen breaking into schools to arrest socialists without warrents frighten the nation. It is not known where the Minutemen take those they arret. As Long established order there it is clear that the state is more loyal to him now than to the Federal government."
-ustates.91.a:0 "Never should have come there, Long!"
+ustates.91.t:0 "미닛맨이 노스캐롤라이나 주의 통제권을 확립하다"
+ustates.91.d:0 "나라가 더욱 혼란에 빠지면서 롱은 미닛맨을 노스캐롤라이나 주로 파견시켜 혼란에서 벗어나 질서를 확립하게 했습니다. 롱의 미닛맨이 학교 안으로 침입해 아무런 영장도 없이 사회주의자들을 체포했다는 보도가 전국을 두렵게 만들었습니다. 미닛맨이 체포한 이들을 어디로 데려가는지는 알려지지 않았습니다. 그곳에서 오랜 기간 동안 질서를 확립한 만큼, 현재 노스캐롤라이나 주는 연방 정부보다 롱에게 더 충성하고 있는 것은 분명합니다."
+ustates.91.a:0 "너는 거기 가지 말았어야 했어, 롱!"
 
-ustates.92.t:0 "The Pittsburgh Massacre"
-ustates.92.d:0 "All it took was a single spark to start the revolution, and in Pittsburgh that spark occurred when a crowd of people stood outside one factory determined to oppose the National Guard. Guardsmen fired into the crowd leaving five dead. It did not take long for this to quickly be dubbed the Pittsburgh Massacre and the Steel Belt was driven into a frenzy. Soon National Guardsmen and police were fighting with Red Guard throughout the Steel Belt."
-ustates.92.a:0 "Who gave them guns? Guns are for us"
+ustates.92.t:0 "피츠버그 대학살"
+ustates.92.d:0 "혁명을 시작하는 데는 단 한 번의 불꽃이 필요했고, 피츠버그의 한 공장 밖에 많은 사람들이 주방위군에 완강하게 반대하고 있을 때 그 불꽃이 일어났습니다. 방위군들이 군중에게 총을 쏘면서 5명이 사망했습니다. 이것이 곧 피츠버그 대학살로 불리고 스틸 벨트가 광란으로 몰리는 데는 오래 걸리지 않았습니다. 곧 주방위군과 경찰은 스틸 벨트 전역에서 적위대와 싸우기 시작했습니다."
+ustates.92.a:0 "누가 그들에게 총을 줬지? 총은 우리들을 위한 것이다"
 
 ustates.93.t:0 "지방경찰은 소용이 없다"
-ustates.93.d:0 "Whether due to loyalty to the CSA or just being overwhelmed, local authorities have been ineffective at dealing with Reed and the CSA. Information out of the Steel Belt is becoming more and more vauge. The General Strike had locked down more of the industrial base."
-ustates.93.a:0 "If you can't rely on your fellow American...."
+ustates.93.d:0 "노동 연맹에 대한 충성심 때문인지 아니면 그냥 압도당했는지, 지역 당국은 리드와 노동 연맹에 대한 대처에 효과적이지 못했습니다. 스틸 벨트 밖으로 나오는 정보는 점점 더 모호해지고 있습니다. 총파업은 산업기반의 더 많은 부분을 봉쇄했습니다."
+ustates.93.a:0 "만약 동료 미국인들조차 신뢰할 수 없다면...."
 
 ustates.94.t:0 "미주리 주지사가 미국 제일당측에 도움을 요청하다"
-ustates.94.d:0 "When the CSA strike took hold in St. Louis the city came to a halt. The National Guard is not willing to become involved, as this state has a tradition of self reliance. The governor of Missouri asked for help from the America First to end the strike."
-ustates.94.a:0 "Stay out of this, Long!"
+ustates.94.d:0 "세인트루이스에서 노동 연맹의 파업이 일어났을 때, 그 도시는 멈췄습니다. 주방위군은 이 주가 자기 의지의 전통을 가지고 있기 때문에 개입하려고 하지 않습니다. 미주리 주지사는 파업을 끝내기 위해 미국 제일당의 도움을 요청했습니다."
+ustates.94.a:0 "그만둬, 롱!"
 
 ustates.95.t:0 "미국 제일당 미닛맨들이 세인트루이스에 도착하다"
-ustates.95.d:0 "Long's Minutemen arrived in St. Louis and were greeted with cheers from the crowds as they marched through the city. The cheers were replaced with bricks as the Minutemen moved into the striking section of the city. There were several scuffles and all out brawls between the strikers and the Minutemen which threatened to launch the city into a war zone. More reports of Minutemen seizing left-leaning institutions and shipping off their members to god-knows-where."
-ustates.95.a:0 "Demand Long remove the Minutemen"
+ustates.95.d:0 "롱의 미닛맨들이 세인트루이스에 도착했고 도시를 행진할 때 군중들로부터 환호를 받았습니다. 미닛맨이 도시의 파업 지역으로 이동하면서 환호성은 벽돌로 대체되었습니다. 도시를 전쟁터로 만들겠다고 위협하는 파업 참가자들과 미닛맨들 사이에 난투극과 전면전이 벌어졌습니다. 미닛맨들이 좌편향 기관들을 점거하고 직원들에게 신이 어디 있는지에 대하여 알려줬다는 더 많은 보고가 나왔습니다."
+ustates.95.a:0 "롱에게 미닛맨 해산을 요구한다"
 
 ustates.96.t:0 "롱이 미닛맨 해산을 거부하다"
-ustates.96.d:0 "Long refused to remove the Minutemen, citing his invitation from the governor of Missouri. Garner insisted that the Minutemen leave and that Long return control to the local authorities. Long's refusal is a direct challenge to the president's authority. Garner's advisors beseech him to act now, and send in the Army."
+ustates.96.d:0 "그는 미주리 주지사의 요청을 인용하며 미닛맨의 철수를 거부했습니다. 가너는 미닛맨이 떠나고 지역 당국에 대한 장기 귀순 통제가 필요하다고 주장했습니다. 롱의 거부는 대통령의 권한에 대한 직접적인 도전입니다. 가너의 조언자들은 그에게 지금 당장 행동하고 군대를 파견하라고 간청했습니다."
 ustates.96.a:0 "미닛맨 해산을 위해 군대를 투입하라"
 ustates.96.b:0 "물러서자"
 
 ustates.97.t:0 "노동 연맹이 미닛맨을 공격하다"
-ustates.97.d:0 "When Garner backed down from Long, it gave Long the excuse to run wild in Missouri. Long denounced the President as being a coward and a do-nothing leader. Reed has gone on record insisting that this spat is a farce, and in reality Garner is working with Long. Red Guard have begun erecting barricades and armed units have been rising throughout the north."
-ustates.97.a:0 "You're both full of it!"
+ustates.97.d:0 "가너가 롱에게서 물러났을 때, 롱이 미주리 주에서 난폭하게 뛸 수 있는 빌미를 주었습니다. 롱은 대통령은 겁쟁이이며 아무것도 하지 않는 지도자라고 비난했습니다. 리드는 이 말다툼이 익살거리에 불과하다고 주장하며 기록하였고, 실제로 가너와 롱은 함께 일하고 있습니다. 적위대가 바리케이드를 설치하기 시작했고 북부 전역에서 무장 부대가 증가하고 있습니다."
+ustates.97.a:0 "너희 둘 다 되는대로 지껄이는군!"
 
 ustates.98.t:0 "군대와 미닛맨이 충돌하다"
-ustates.98.d:0 "When the Army arrived in St. Louis they were attacked by the Minutemen who refused to comply with the Presidential decree. The exchanges lasted for a few days but the Army was able to remove the Minutemen. Unfortunately, the missing people the Minutemen kidnapped are nowhere to be found. Long denounced the action as being barbaric and Garner doing the work of Reed and the syndicalists."
+ustates.98.d:0 "군대가 세인트루이스에 도착했을 때 그들은 대통령의 명령을 따르지 않는 미닛맨의 공격을 받았습니다. 전투가 며칠 동안 지속되었고 군대는 미닛맨을 제거할 수 있었습니다. 안타깝게도, 미닛맨이 납치한 실종자들은 어디에도 없습니다. 롱은 이 행동이 야만적이며 가너는 리드나 생디칼리스트들의 일을 하고 있다고 비난했습니다."
 ustates.98.a:0 "젠장할 롱, 젠장할 미닛맨들!"
 
 ### Alf Landon Path ###
