@@ -268,17 +268,17 @@ amcivwar.13.a:0 "알겠다."
 
 ### Set Up Events - Garner ###
 amcivwar.14.t:0 "휴이 롱이 정부를 규탄하다"
-amcivwar.14.d:0 "Huey Long has declared that President Garner is a tyrant and must be opposed. In a radio speech, he denounced the president for being in league with the syndicalists of the SPA, and accused him of doing nothing to stop the chaos. Long has vowed to restore order and destroy the corrupt government in Washington, and a number of southern govenors immediately declared their support for him and demanded that Garner immediately step down and turn over control to Long and a 'reconciliation committee' that would see a restructuring of the American government."
+amcivwar.14.d:0 "휴이 롱은 가너 대통령이 폭군이며 반대해야 한다고 선언했습니다. 롱은 라디오 연설에서 대통령이 사회당의 생디칼리스트들과 한패라고 맹비난했고, 혼란을 막기 위해 아무것도 하지 않았다고 비난했습니다. 롱은 워싱턴에서 질서를 회복하고 부패한 정부를 파괴할 것을 맹세했고, 다수의 남부 주지사들은 즉시 롱을 지지한다고 선언하며 가너에게 즉각 사퇴하여 롱에게 지배권을 이양할 것을 요구했습니다. 그리고 미국 정부의 구조조정을 하게 될 '재조정 위원회'를 요구했습니다."
 amcivwar.14.a:0 "공화국을 지켜내자"
 amcivwar.14.b:0 "조국을 지켜내자 (미주 연합으로 플레이합니다)"
 
 amcivwar.15.t:0 "잭 리드가 행동을 촉구하다"
-amcivwar.15.d:0 "The crackdown on the Socialist Party could have only had one outcome: to protect the rights of workers across the nation, Jack Reed has called upon the workers of America to stand up against their capitalist overlords, saying that decent Americans have a moral obligation to take action against President Garner and the corruption he represents. A number of northern governors immediately declared their support for Reed, backed up by syndicalist militias who have spread throughout the states to block roads and take over army bases."
+amcivwar.15.d:0 "사회당에 대한 탄압은 단 한 가지 결과만 낳았습니다: 전국적으로 노동자들의 권리를 보호하기 위해, 잭 리드는 점잖은 미국인들은 랜던 대통령과 그가 대표하는 부패에 대한 도덕적 의무를 지고 있다며, 미국 노동자들에게 그들의 자본주의적 권력자에 대항할 것을 촉구했습니다. 북부 여러 주지사들은 즉시 리드를 지지한다고 선언했는데, 리드는 미국 전역에 걸쳐 도로를 봉쇄하고 군 기지를 점령하기 위해 확산된 생디칼리스트 민병대의 지원을 받고 있습니다."
 amcivwar.15.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
 amcivwar.15.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동 연맹으로 플레이합니다)"
 
 amcivwar.16.t:0 "벼랑 끝의 미국"
-amcivwar.16.d:0 "President John Nance Garner experienced a major blow today as a large number of governors declared his government illegitimate, throwing their support behind either southern populist Huey Long or the syndicalist leader Jack Reed. They have stopped short of seceding from the Union, but have declared that the federal government holds no authority within their state borders until Garner steps down and an 'reconciliation council' under thier chosen leader is put into place to restore order in the nation. In response, President Garner has given the governors thirty days to stand down or be collectively arrested - an order none of the leaders appear interested in obeying, making it all but certain that the United States will descend into civil war for the second time in less than a century."
+amcivwar.16.d:0 "존 낸스 가너 대통령은 많은 주지사들이 남부 대중주의자 휴이 롱이나 생디칼리즘 지도자 잭 리드에게 지지를 보내면서 연방 정부를 부정적으로 선언함에 따라 오늘 큰 타격을 입었습니다. 롱과 리드는 연방으로부터 탈퇴하는 것을 멈췄지만, 그들은 가너가 사임하고 그들이 선택한 지도자의 산하에 있는 '재조정 협의회'가 국가의 질서를 회복하기 위해 시행될 때까지 연방 정부는 주 경계 내에 어떠한 권한도 가지고 있지 않다고 선언했습니다. 이에 대해 가너 대통령은 주지사들에게 30일 동안 물러나거나 집단으로 체포되도록 했습니다 - 어떤 지도자도 복종에 관심을 보이지 않아 미국은 100년도 채 안 되어 두 번째로 내전에 돌입하게 될 것을 거의 확신하고 있습니다."
 amcivwar.16.a:0 "알겠다."
 
 ### Set Up Events - Landon ###
@@ -466,8 +466,8 @@ amcivwar.54.b:0 "순양함"
 
 amcivwar.61.t:0 "징병제"
 amcivwar.61.d:0 "With the war going on the question, is should we implement conscription or not. Doing so would provide us with the men we need to restore order to the country. However, it is not a popular move. Some suggest focusing on Propaganda instead. "
-amcivwar.61.a:0 "Implement conscription"
-amcivwar.61.b:0 "대신 선전활동에 주력하라"
+amcivwar.61.a:0 "징병제를 시행하라"
+amcivwar.61.b:0 "대신 선전 활동에 주력하라"
 
 amcivwar.62.t:0 "중국 주둔 해병대의 귀환"
 amcivwar.62.d:0 "With the outbreak of the civil war, our garrison in the legation cities has been recalled back to the US to fight. This has left our diplomats in China in a bit of a bind, however, with the civil war raging we need all the men that we can get. "
