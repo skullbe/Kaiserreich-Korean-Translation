@@ -41,7 +41,7 @@ FLN_CoalitionSOC:0 "사회주의자 연정"
 FLN_CoalitionSOC2:0 "사회주의자 연정"
 FLN_Coalition:0 "연정"
 FLN_Coalition2:0 "연정"
-FLN_Flemish_Idea:0 "플란데언 정신"
+FLN_Flemish_Idea:0 "플란데런의 정신"
 FLN_Strong:0 "강력한 중앙집권"
 FLN_Abolish:0 "강력한 중앙집권"
 FLN_Expand:0 "대 플란데언 팽창 정책"
@@ -58,14 +58,14 @@ FLN_Revolution:0 "생디칼리스트 혁명"
 FLN_Revolution2:0 "생디칼리스트 혁명"
 
 FLN_Nation_Within_Nation:0 "국가 속의 국민"
-FLN_Seperate_Parties:0 "분리된 플란데언 정당들"
+FLN_Seperate_Parties:0 "분리된 플란데런 정당들"
 FLN_Decentralised_Government_idea:0 "분산집권 정부"
 FLN_Recovery_Funds:0 "Dutch Recovery Funds"
 FLN_French_Education_Banned:0 "Abolition of French Education"
 FLN_Dutch_Railroads:0 "Unified Infrastructural Net"
 FLN_Flemish_Railroads:0 "Vlaamse Spoorwegenmaatschappij"
-FLN_Language_Agreement:0 "Standardised Dutch Language"
-FLN_Flemish_Dutch_Government:0 "Flemish-Dutch Government"
+FLN_Language_Agreement:0 "네덜란드어 표준화"
+FLN_Flemish_Dutch_Government:0 "플란데런-네덜란드 정부"
 
 FLN_Frozen_Food:0 "Frozen Food Gamble"
 FLN_Boerenbond:0 "Boerenbond Subsidised"
@@ -110,7 +110,7 @@ fln.101.d:0 "After a stable government, it's once more time for the Flemish to v
 
 fln.2.t:0 "플란데런 백작 카렐이 통제권을 잡다"
 fln.2.d:0 "큰 박수갈채와 팡파르 속에서, 카렐 반 벨기에가 국가 원수로서 그라프 반 플란데런(Graaf van Vlaanderen, 플란데런 백작)의 작위에 올랐습니다. 세계대전 이전의 입헌군주정을 계승하여, 그는 유의미한 권한은 거의 없고 정치적인 위기를 중재하는 역할의 상징적인 국가 원수입니다."
-fln.2.a:0 "행운을 빈다 카렐 백작."
+fln.2.a:0 "행운을 빈다, 카렐 백작."
 
 fln.21.t:0 "아델베르트가 왕좌에 다시 오르다"
 fln.21.d:0 "The Aristocratic Council of Flanders has offered the Flemish crown to Adelbert if he agrees to rule only in name and further stays out of Flemish affairs. Through this action, the Council hopes to strengthen relations with Germany and further secure their independence from an aggressive Wallonia."
@@ -154,9 +154,9 @@ fln.7.t:0 "네덜란드가 국민 투표 요구를 승낙하다"
 fln.7.d:0 "The Dutch government has agreed with us and are planning the referendum for later this month. Tensions are high on the border with residents from both sides rushing to sign up for the vote and sway the results in their favour. Nationalist propaganda is being spread by radio and even television, with Dutch newspapers flooding the streets. This will surely be an important day for Flanders and may even determine the course of its foreign policy."
 fln.7.a:0 "플란데런 동포들을 돕기 위해 두 배로 노력하자!"
 
-fln.8.t:0 "Zeeuws-Vlaanderen Joins Us!"
+fln.8.t:0 "지우스-플란데런이 우리를 택하다!"
 fln.8.d:0 "Pulling in a close victory for the Flemish nationalists, the people have spoken and have decided to join the Flemish. The vote was ultimately decided by just two little villages bordering the Ghent-Terneuzen Canal that were already very economically dependent on the Flemish country and as such voted heavily in favour of unification. The Dutch government has not yet responded to our requests for transfer of power and may still decide to label the referendum void."
-fln.8.a:0 "One step closer to Great Flanders!"
+fln.8.a:0 "대 플란데런에 한 걸음 가까워졌다!"
 
 fln.81.t:0 "Zeeuws-Vlaanderen Votes For Secession!"
 fln.81.d:0 "Pulling in a close victory for the Flemish nationalists, the people have spoken and have decided to join the Flemish. The vote was ultimately decided by just two little villages bordering the Ghent-Terneuzen Canal that were already very economically dependent on the Flemish country and as such voted heavily in favour of unification. Rumours of election fraud are coming in however and we could still proclaim the referendum void."
@@ -229,9 +229,9 @@ fln.300.b:0 "Wallonia and Flanders aren't meant to be together!"
 
 #First Days of the Nation
 
-flnrev.1.t:0 "Dissolution of Flanders-Wallonia"
+flnrev.1.t:0 "플란데런-우알로니의 해체"
 flnrev.1.d:0 "The nation of Flanders-Wallonia was only shortlived. Beset by widespread corruption, an absolutist monarch and corrosive German favouritism, it was only a matter of time before the powder keg inevitably exploded. Finally the Flemish have left the union and can finally for the first time in recent history celebrate their independence. From Oostende to Brussels to Hasselt Flemish lions are being paraded through the streets and across the nation chants of the Vlaamse Leeuw ring out. Still, such public displays of jubilation are little more than a front for the politics that happens behind closed doors."
-flnrev.1.a:0 "Vlaanderen de Leeuw!"
+flnrev.1.a:0 "플란데런의 사자들이여!"
 
 flnrev.2.t:0 "Foundation of the Flemish National Congress"
 flnrev.2.d:0 "With the German king ousted and the nation liberated, the once united parties of the revolution are slowly breaking apart. The Flemish Council claims that they are the only legitimate government and that only they should lead the nation until things have calmed down. The Catholic Party, the largest in the nation is divided with members of the Council supporting this regency and members who were seated in the pro-German Parliament. Neither group wishes to give up their power or allow their administrative organs to be abolished. The VWP is resolutely against any continuation of the old system as it forbade their participation and the party is continuing to bolster relations with the still armed revolutionaries. The Liberation army meanwhile is torn between allegiance to the Catholic Party and their self appointed leaders who are vying for control of the state."
@@ -376,7 +376,7 @@ flnrev.75.a:0 "The Netherlands are united once more!"
 
 ### Focuses ###
 
-FLN_Kickstart_Flemish_Army:0 "플란데런 육군의 출범"
+FLN_Kickstart_Flemish_Army:0 "플란데런 육군 창설"
 FLN_Kickstart_Flemish_Army_desc:0 "A ragtag resistance no more, the Flemish Liberation Army must be fully integrated into the aparatus of state."
 
 FLN_establish_the_air_force:0 "공군 창설"
@@ -596,5 +596,5 @@ FLN_Expand_Mittel_Afrikan_Influence:0 "Expand our Mittelafrikan Influence"
 FLN_Expand_Mittel_Afrikan_Influence_desc:0 "Due to the fall of Flanders-Wallonia, the vultures of Mittelafrika have tried to reduce our influence and have slowly been restricting our mining companies. We will have to fight these measures in Germany and Mittelafrika itself to retain our influence."
 FLN_Secure_Diamond_Trade:0 "Secure the Diamond Trade"
 FLN_Secure_Diamond_Trade_desc:0 "Nearly every diamond on the planet passes through Antwerp where the mostly Jewish population controls the diamond sector. By securing more mining permits from the Mittelafrikan government we can increase the production in Africa and as such the trade at home."
-FLN_Copper_Katanga:0 "Copper from Katanga"
+FLN_Copper_Katanga:0 "카탕가의 구리"
 FLN_Copper_Katanga_desc:0 "Katanga contains large untouched copper reserves which are being exploited by Flemish companies but resources like cobalt and other rare earth elements are just waiting to be exploited by our mining companies." #?
