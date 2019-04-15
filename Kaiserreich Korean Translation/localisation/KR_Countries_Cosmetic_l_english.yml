@@ -2686,9 +2686,6 @@ BHC_AGR_radical_socialist:0 "농업주의자 반란군"
 BHC_AGR_radical_socialist_ADJ:0 "농업주의자"
 BHC_AGR_radical_socialist_DEF:0 "농업주의자 반란군"
 
-LBA_ITA_subject:0 "이탈리아령 북아프리카"
-LBA_ITA_subject_DEF:0 "이탈리아령 북아프리카"
-LBA_ITA_subject_ADJ:0 "리비아"
 
 MYS_PRF_subject:0 "마이소르 주"
 MYS_PRF_subject_DEF:0 "마이소르 주"
@@ -2753,6 +2750,7 @@ ZAM_GER_subject_DEF:0 "잠비아"
 ZAM_ENG_subject:0 "잠비아-니아살랜드 자유국"
 ZAM_ENG_subject_ADJ:0 "잠비아"
 ZAM_ENG_subject_DEF:0 "잠비아"
+
 
 CZE_czechoslavakia_authoritarian_democrat:0 "체코슬로바키아"
 CZE_czechoslavakia_authoritarian_democrat_ADJ:0 "체코슬로바키아"
@@ -2970,6 +2968,7 @@ INS_HOL_paternal_autocrat_DEF:0 "네덜란드령 동인도제도"
 INS_HOL_national_populist:0 "네덜란드령 동인도제도"
 INS_HOL_national_populist_ADJ:0 "인도네시아"
 INS_HOL_national_populist_DEF:0 "네덜란드령 동인도제도"
+
 
 AUS_CIS_market_liberal:0 "시스라이타니아 오스트리아"
 AUS_CIS_market_liberal_ADJ:0 "오스트리아"
