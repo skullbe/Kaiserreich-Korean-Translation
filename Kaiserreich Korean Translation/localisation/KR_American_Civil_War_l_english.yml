@@ -128,6 +128,13 @@ ACW_psa_decisions_desc:0 "제2차 미국 내전이 발발했고 우리는 미국
 
 ACW_usa_decisions:0 "제2차 미국 내전"
 ACW_usa_decisions_desc:0 "제2차 미국 내전이 발발했고 우리는 미국을 위해 승리를 이끌어내야 합니다."
+
+CAL_deal_with_devil:0 "악마와의 거래"
+CAL_deal_with_devil_desc:0 "We are losing the civil war... badly. Our only hope is to set up a temporary truce with [From.GetNameDef], so that we may combine forces against our true enemy. Our proposal will be that the truce last 90 days, but hopefully longer if both sides are willing."
+TEX_deal_with_devil:0 "악마와의 거래"
+TEX_deal_with_devil_desc:0 "We are losing the civil war... badly. Our only hope is to set up a temporary truce with [From.GetNameDef], so that we may combine forces against our true enemy. Our proposal will be that the truce last 90 days, but hopefully longer if both sides are willing."
+ACW_break_deal_with_devil:0 "거래 파기"
+ACW_break_deal_with_devil_desc:0 "The time has come for our temporary truce with [From.GetNameDef] to come to an end."
 USA_relocate_capital_civil_war:0 "수도 이전"
 
 USA_emergency_reserve:0 "비상동원령 선포"
@@ -411,7 +418,7 @@ amcivwar.45.t:0 "중앙위원회 지시 #103: 혁명군 공군 참모총장 지�
 amcivwar.45.d:0 "The Central Committee has released a directive to appoint a member to be the head of the Revolutionary Air Force and guide the Air Force to victory. The Central Committee has decided to appoint…."
 amcivwar.45.a:0 "버트 아코스타"
 amcivwar.45.b:0 "에디 어거스트 슈나이더"
-amcivwar.45.c:0 "프레드릭 이브스 로드"
+amcivwar.45.c:0 "판초 반스"
 
 ### AUS Flavor Events ###
 
@@ -949,6 +956,31 @@ amcivwar.312.d:0 "맥아더 장군이 제시한 30일 기한은 거의 끝나가
 amcivwar.312.a:0 "이제 무슨 일이 일어날까."
 
 
+### Deal with the Devil ###
+ACW_deal_with_devil_effect:0 "All occupied states of their territory will be transferred to us, and ours to them. The truce will continue for 90 days, after which each of us will have the option to extend it for another 90 days.\n"
+amcivwar.320.t:0 "Deal with the Devil?"
+amcivwar.320.d:0 "The [From.GetAdjective] government has approached us with a proposal: a truce of at least 90 days between [Root.GetNameDef] and [From.GetNameDef], so that both of us can turn our efforts against the [enemy_country.GetAdjective] forces, which are currently defeating us both. In 90 days time, we can re-assess... and, if [enemy_country.GetNameDef] is defeated the truce will be off."
+amcivwar.320.a:0 "We agree to this arrangement... for now"
+amcivwar.320.b:0 "No, we refuse to compromise our principles"
+
+amcivwar.321.t:0 "The Deal has been Refused"
+amcivwar.321.d:0 "Unfortunately, it seems the [From.GetAdjective] government is more stubborn than they anticipated. They will not co-operate with us, even if it means their defeat."
+amcivwar.321.a:0 "Too bad"
+
+amcivwar.322.t:0 "The Deal is Accepted"
+amcivwar.322.d:0 "As expected, the [From.GetAdjective] forces have accepted our deal. We will stop fighting, for now, and turn our attentions against [enemy_country.GetNameDef]. In 90 days time, we can re-assess, and if the [enemy_country.GetAdjective] forces have been defeated then the truce will be off."
+amcivwar.322.a:0 "Excellent"
+
+amcivwar.323.t:0 "Continue the Truce?"
+amcivwar.323.d:0 "The 90 days is up, and now it falls on us to consider whether we resume our fight against [truce_country.GetNameDef]."
+amcivwar.323.a:0 "Let us hold off another 90 days..."
+amcivwar.323.b:0 "This truce is over"
+
+amcivwar.324.t:0 "Deal with the Devil"
+amcivwar.324.d:0 "With their forces hard-pressed by [enemy_country.GetNameDef], representatives from both [From.GetNameDef] and [From.From.GetNameDef] agreed to a temporary truce, lest [enemy_country.GetAdjective] roll over them both and win the American Civil War. Whether their agreement comes too late, or if it can even last more than a few months before both sides turn on the other, remains to be seen. Most onlookers appear to agree this unprecedented agreement indicates that, for now, [enemy_country.GetNameDef] has the definite upper hand."
+amcivwar.324.a:0 "Interesting"
+amcivwar.324.b:0 "It makes no difference - they will both lose"
+
 ### Sanity Checks ###
 
 amcivwar.600.t:0 "[Root.GetAdjective]의 붕괴"
@@ -996,7 +1028,7 @@ amcivwar.615.d:0 "With the declaration of war on [Root.GetNameDef] by [From.GetN
 amcivwar.615.a:0 "They shall pay for this!"
 
 amcivwar.616.t:0 "동원령 해제"
-amcivwar.616.d:0 "While the emergency reserves were called up for the war, now that it is over they have been demobilized and sent back to their homes - exhausted after so much fighting."
+amcivwar.616.d:0 "전쟁시기에 비상사태를 선포했었지만, 이제는 전쟁이 끝났기에 동원되었던 이들은 많은 전투를 겪으며 지쳐서 모두 집으로 돌아가게 되었습니다."
 amcivwar.616.a:0 "용사들이여, 휴식을 취하시오"
 
 2000_infantry_equipment_1:0 "£rifle_texticon §H2000§!"
