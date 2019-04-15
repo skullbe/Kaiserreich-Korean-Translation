@@ -132,6 +132,10 @@ AUS_SLOintegration:0 "슬로베니아 통합"
 AUS_SLOintegration_desc:0 "많은 슬로베니아인들은 독일 민족이고 합스부르크의 오랜 유산이 슬로베니아 영토에 대한 오스트리아 정부의 신속한 통제를 가능하게 했지만, 많은 슬로베니아 인이 느끼는 것은 새로운 통치자 그 이상입니다."
 
 ### Decisions ###
+AUS_syndie_threat:0 "생디칼리스트의 위협"
+AUS_syndie_threat_desc:0 "Our neighbours and old allies are at war with France, a fact that one can hardly miss. What German military minds had expected to be over in a few weeks, has turned into a repeat of the Weltkrieg. Should the Communards be the victors of this war, not only will our interests in Italy be compromised, but the integrity of our Empire may be at stake. It might be best to put our differences aside and to fight side-by-side with the Germans once more."
+AUS_germany_on_the_ropes:0 "[FRA.GetNameDef] has penetrated too far into southern Germany"
+AUS_syndicalism_winning_Italy:0 "French allies have won control over much of Italy"
 AUS_elections_decisions:0 "선거 결정"
 AUS_endorse_CS:0 "기독사회당을 지지"
 AUS_endorse_SDAP:0 "사회민주노동자당을 지지"
@@ -465,7 +469,7 @@ AUS_drastic_measures_desc:0 "현재 수행 중인 전쟁으로 인해 중앙 정
 AUS_still_their_king:0 "우리는 여전히 그들의 왕이다"
 AUS_still_their_king_desc:0 "헝가리는 그들이 원하는 권리를 주장하고 있지만, 우리는 여전히 그들의 종주국이며, 현재 우리는 전쟁 등 외부로부터의 위협에 처해있습니다. 나중은 일단 나중에 생각하고, 지금 당장은 차이점을 제쳐 둡시다."
 
-AUS_cisleithania_centralised:0 "시슬라이타니아(오스트리아령)의 중앙 집권화"
+AUS_cisleithania_centralised:0 "시슬라이타니아도 함께"
 AUS_cisleithania_centralised_desc:0 "우리의 계속되는 개혁으로 제국이 한데 모이고 있습니다. 물론 헝가리는 여전히 저항하고 있지만 오스트리아는 그 어느 때보 다 더 연합되어 있다는 것을 부정 할 수는 없습니다."
 
 AUS_ausgleich_1947:0 "1947년의 대타협 재협상"
@@ -563,9 +567,6 @@ AUS_potb_serbia_2:0 "남부 슬라브인 문제"
 
 AUS_potb_invite_bulgaria:0 "불가리아의 옛 친구들"
 AUS_potb_invite_bulgaria_desc:0 "불가리아의는 지난 전쟁에서 우리가 세르비아의 저항을 억제하는데 도움을 주었고, 적어도 우리는 그렇게 생각합니다. 전쟁 후 중앙집권체제의 붕괴는 세르비아인들이 우리의 손아귀에서 벗어나게 해주었습니다. 불가리아는 다시 한번 발칸반도의 평화와 안정을 회복하는 열쇠입니다."
-
-AUS_syndie_threat:0 "생디칼리스트의 위협"
-AUS_syndie_threat_desc:0 "프랑스와 이탈리아인들은 세계에 혼란을 가져오는 공동의 적입니다. 비록 우리가 독일을 싫어할지 몰라도, 우리는 독일 편에 서서 다시 한번 싸워야 합니다."
 
 ### Parties ###
 AUS_totalist_party:0 "전체주의 인민 회의"
@@ -1227,12 +1228,8 @@ ausgleich.new.701.a:0 "좋아."
 ### TREE EVENTS
 #########################################################################################################################
 
-aus.tree.4010.t:0 "독일의 전쟁 수행"
-aus.tree.4010.d:0 "우리의 이웃이자 오랜 동맹국은 현재 프랑스와 전쟁 중입니다. 독일군은 몇 주 내로 전쟁을 끝낼 수 있을 것이라고 장담했지만, 이 전쟁은 결국 두 번째 세계 대전이 되었습니다. 공산주의자들이 이 전쟁의 승리자가 된다면, 이탈리아에서의 우리 이익을 빼앗기는 것 뿐만 아니라, 우리 제국의 존립조차도 위협받을 지 모르는 일입니다. 우리 의견차는 우선 제쳐두고 다시 한번 독일과 나란히 서서 싸우는 것이 최선일지도 모릅니다."
-aus.tree.4010.a:0 "베를린에 팩스를 보내라."
-
 aus.tree.4011.t:0 "오스트리아가 전쟁에 참여하길 원하다"
-aus.tree.4011.d:0 "오늘, 비엔나로부터 우리 이웃이 다시 한번 우리와 나란히 서서 프랑스 코뮌과 맞섬으로써 우리를 '구원'하고 싶다는 내용의 팩스 메일을 보내왔습니다. 오스트리아 군대는 더 이상 세계대전 시기의 구닥다리가 아니기에 분명 도움이 될 것입니다. 이것은 이탈리아에 대항한 양면전선이 생기는 일이기도 하며, 적어도 합스부르크와는 이탈리아 반도에 대한 이해관계가 일치합니다."
+aus.tree.4011.d:0 "오늘, 비엔나로부터 우리 이웃이 다시 한번 우리와 나란히 서서 [FRA.GetNameDef]와(과) 맞섬으로써 우리를 '구원'하고 싶다는 내용의 팩스 메일을 보내왔습니다. 오스트리아 군대는 더 이상 세계대전 시기의 구닥다리가 아니기에 분명 도움이 될 것입니다. 이것은 이탈리아에 대항한 양면전선이 생기는 일이기도 하며, 적어도 합스부르크와는 이탈리아 반도에 대한 이해관계가 일치합니다."
 aus.tree.4011.a:0 "우리는 다시 한번 전우로서 선다!"
 aus.tree.4011.b:0 "우리는 스스로 잘 해나가는 중이다."
 
@@ -1242,7 +1239,7 @@ aus.tree.4012.a:0 "무례하군."
 aus.tree.4012.b:0 "[From.GetLeader]는 이걸 본인이 결정할 수 있다고 생각하는 건가?"
 
 aus.tree.4013.t:0 "독일이 우리의 전쟁 참여를 허락하다"
-aus.tree.4013.d:0 "독일은 우리 팩스 메일에 호의적인 답신을 보내왔으며, 생디칼리즘의 확산을 저지하기 위한 우리의 지원 제안에 환영의 뜻을 보였습니다. 오늘 부로, 우리는 생디칼리스트들과 전쟁 중입니다."
+aus.tree.4013.d:0 "독일은 생디칼리즘의 확산을 저지하기 위한 우리의 전투참여 의사에 환영의 뜻을 보였습니다. 오늘 부로, 우리는 생디칼리스트들과 전쟁 중입니다."
 aus.tree.4013.a:0 "우리는 다시 한번 전우로서 선다."
 
 
