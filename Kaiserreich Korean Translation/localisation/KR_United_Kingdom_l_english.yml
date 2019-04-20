@@ -582,25 +582,25 @@ uk.113.a:0 "Rule Britannia"
 
 uk.114.t:0 "[GetYear]년 제국회의"
 uk.114.d:0 "This year's imperial conference is going to be one of the most important ever. We are going to propose the Imperial Federation to the dominions of the Empire. Held in London this will be one of the larger and grander conferences yet."
-uk.114.a:0 "Lets invite the dominions"
+uk.114.a:0 "자치령들을 초청하라"
 
 uk.115.t:0 "[GetYear]년 제국회의"
 uk.115.d:0 "The British have invited us to London for the Imperial Conference to discuss important matters. This conference shall be held in London and all the dominions of the empire are going to be here. This year's conference is set to be grander and more important then previous ones."
-uk.115.a:0 "time to visit London!"
+uk.115.a:0 "런던을 방문할 시간이로군!"
 
 uk.116.t:0 "제국 연방을 선언하다"
 uk.116.d:0 "On the second day of the Conference, we unveiled the plans for the Imperial Federation. The Imperial Federation has long been championed by pan-British members throughout the Empire as a way for the British to share the cost of imperial defence with the empire while for the dominions it would increase their own influence. Each country would have their own number of Imperial Parliament Members that would meet at the Imperial Parliament. There would be a rotating parliament going to the capital city every two years to help spread the costs of mainting through the empire, though London remains the paramount city in the Federation."
-uk.116.a:0 "How shall the Dominions react?"
+uk.116.a:0 "자치령들이 어떻게 반응할까?"
 
 uk.117.t:0 "제국 연방"
 uk.117.d:0 "On the second day of the Conference, the British unveiled the plans for the Imperial Federation. The Imperial Federation has long been championed by pan-British members throughout the Empire as a way for the British to share the cost of imperial defence with the empire while for the dominions it would increase their own influence. Each country would have their own number of Imperial Parliament Members that would meet at the Imperial Parliament. There would be a rotating parliament going to the capital city every two years to help spread the costs of mainting through the empire, though London remains the paramount city in the Federation."
-uk.117.a:0 "Support the British - go for Federation"
-uk.117.b:0 "announce our strong disapproval."
+uk.117.a:0 "영국을 지지하자 - 연방에 합류한다"
+uk.117.b:0 "단호한 반대 의사를 표명하라."
 
-uk.118.t:0 "The Empire Act"
-uk.118.d.federation:0 "Today is a day that shall go down in history. All the delegates to the conference have agreed on implementing the Imperial Federation. The Empire has struggled and suffered setbacks but now it sees itself greater and stronger then ever."
+uk.118.t:0 "제국법"
+uk.118.d.federation:0 "오늘은 역사에 남을 날입니다. 회의의 모든 대표단들이 제국 연방의 출범에 동의했습니다. 제국은 고군분투하고, 좌절도 겪었지만 지금은 그 옛날 영광의 시기보다도 더 위대하고 강해졌습니다."
 uk.118.d.commonwealth:0 "Today is a day that shall go down in history. The Imperial Federation was voted down during the conference. However while there was concern among the delegates that nothing would get done, a compromise would be created. The imperial Commonwealth. As it kept the Status Quo largely intact, it was easily agreed upon."
-uk.118.a:0 "God Save the King!"
+uk.118.a:0 "국왕 폐하 만세!"
 
 
 ### Fate of Iceland Independent ###
