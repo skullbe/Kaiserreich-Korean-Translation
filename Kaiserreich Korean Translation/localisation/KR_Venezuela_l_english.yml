@@ -134,11 +134,11 @@ VEN_safe_from_coup:0 "우리 정부는 군대의 정부 전복 시도로부터 �
 VEN_blackmonday_focus:0 "이 중점은 검은 월요일의 여파가 베네수엘라에 도달하면 자동으로 열리게 됩니다."
 
 ### Decisions ###
-VEN_COL_intervention_decisions:0 "Intervention in Colombia"
+VEN_COL_intervention_decisions:0 "콜롬비아 개입"
 VEN_COL_intervention_decisions_desc:0 ""
-VEN_COL_org_exiles:0 "Organise Colombian Exiles"
+VEN_COL_org_exiles:0 "콜롬비아 망명자 조직"
 VEN_COL_org_exiles_desc:0 ""
-VEN_COL_intervene:0 "Liberate Colombia"
+VEN_COL_intervene:0 "콜롬비아 해방"
 VEN_COL_intervene_desc:0 ""
 
 VEN_essequibo_decisions:0 "Reclaiming Guayana Esequiba"
@@ -174,10 +174,10 @@ VEN_oil_HOL_buy_desc:0 "Royal Dutch Shell was one of the first companies to acqu
 VEN_oil_HOL_seize:0 "Seize Shell Assets!"
 VEN_oil_HOL_seize_desc:0 "With a syndicalist revolution underway in the Netherlands, we have a chance to seize Shell's assets in the country and reduce their power and influence in Venezuela. The Dutch certainly can't stop us now."
 
-VEN_internationale_decisions:0 "Into the Internationale"
-VEN_internationale_decisions_desc:0 "With our peaceful revolution secured within, we should move to secure it without. The Internationale will be able to support us and keep reactionaries away."
-VEN_join_internationale:0 "Join the Internationale"
-VEN_join_internationale_desc:0 "It is about time that revolutionary Venezuela join the brotherhood of free workers. Let us contact the French immediately."
+VEN_internationale_decisions:0 "인터내셔널로"
+VEN_internationale_decisions_desc:0 "우리의 평화로운 혁명이 국내에서 확보된 상황에서, 우리는 그것을 안전하게 하기 위해 움직여야 합니다. 인터내셔널은 우리를 지원하고 반동분자들을 몰아낼 수 있을 것입니다."
+VEN_join_internationale:0 "인터내셔널에 가입"
+VEN_join_internationale_desc:0 "혁명적인 베네수엘라가 자유로운 노동자들의 형제애에 동참할 때입니다. 우리는 즉시 프랑스에 연락해야 합니다."
 
 ### Parties ###
 VEN_social_democrat_party:0 "AD"
@@ -203,7 +203,7 @@ VEN_totalist_party_long:0 "좌익 혁명 사회 전체주의 운동"
 
 ### Focuses ###
 VEN_blackmonday:0 "검은 월요일의 유정 지대 강타"
-VEN_blackmonday_desc:0 "세상에나! 우리 대외무역의 대다수는 독일과 함께 하고 있기 때문에, 그들의 경제 위기는 우리에게 다가올 수밖에 없었습니다. 현재, 카라카스 사람들 사이에 공황이 퍼지고 있으니 우리는 즉각적으로 현재 문제들을 처리해야 합니다."
+VEN_blackmonday_desc:0 "하느님 맙소사! 우리 대외무역의 대다수는 독일과 함께 하고 있기 때문에, 그들의 경제 위기는 우리에게 다가올 수밖에 없었습니다. 현재, 카라카스 사람들 사이에 공황이 퍼지고 있으니 우리는 즉각적으로 현재 문제들을 처리해야 합니다."
 
 VEN_democracy_prevails:0 "민주주의가 우세하다"
 VEN_democracy_prevails_desc:0 "베네수엘라 전역의 도시들에 평온함이 다시 찾아왔습니다. 특히나 노동자들이 계속되는 위기로 인해 상당히 큰 타격을 받았기 때문에, 우리는 경제 회복의 길에 집중해야만 합니다."
@@ -413,12 +413,12 @@ VEN_navegare_necesse_vivere_non_necesse_desc:0 "\"Navigating is Necessary, Livin
 
 ### Events ###
 ven.1.t:0 "세계에서의 베네수엘라의 위치"
-ven.1.d:0 "1830년 베네수엘라가 그란 콜롬비아에서 분리된 후, 베네수엘라는 1864년 이 나라가 분권화되기 전까지 보수와 진보 사이의 수많은 내전으로 흔들렸습니다. 베네수엘라는 여러 간헐적인 군사 정부와 민간 정부를 통해 계속해서 안정을 유지하기 위해 고군분투했습니다. 이것을 변화시킨 것은 1908년 석유 매장지 발견과 후안 비센테 '메기' 고메스 장군의 쿠데타입니다. 고메스 정권 하에서 석유 산업은 국가의 경제적 토대가 되었고, 비록 석유에 완전히 의존하게 되었지만, 세계대전 속에서 중립을 지키고 국가의 부채를 줄이는 등, 상대적으로 안정세를 유지했습니다. 메기 정권은 그렇게 오래 지속될 수 밖에 없었습니다. 이후 미국의 개입으로 대영제국이 사실상 붕괴되면서 베네수엘라의 에세키보 강 주장을 추진하지 못하자, 그는 1928년 영국의 '배상금' 문제로 물의를 일으켜 사임했고, 선거 이후 1926년 세대의 민주 정부를 구성했습니다. 하지만 1936년까지, 세대 정부는 3당 사이에서 심하게 분열되었습니다. 민주운동당은 현재 정권을 잡고 있지만, 민주 공화당 연합에 있는 이전의 자유주의 동맹들이 힘을 얻고 있으며 인터내셔널에 맞추고 있는 베네수엘라 사회당은 반자본주의 의견을 계속하여 발표하고 있습니다. 그럼에도 불구하고 베네수엘라는 이 지역에서 비교적 안정적이고 민주적인 몇 안 되는 나라들 중 하나이지만, 전 세계의 긴장이 고조되고 있는 것은 이 나라의 초기 민주주의를 쉽게 불안정하게 만들 수 있습니다."
+ven.1.d:0 "1830년 베네수엘라가 그란 콜롬비아에서 분리된 후, 베네수엘라는 1864년 이 나라가 연방화되기 전까지 보수와 진보 사이의 수많은 내전으로 흔들렸습니다. 베네수엘라는 여러 간헐적인 군사 정부와 민간 정부를 통해 계속해서 안정을 유지하기 위해 고군분투했습니다. 이것을 변화시킨 것은 1908년 석유 매장지 발견과 후안 비센테 '메기' 고메스 장군의 쿠데타입니다. 고메스 정권 하에서 석유 산업은 국가의 경제적 토대가 되었고, 비록 석유에 완전히 의존하게 되었지만, 세계대전 속에서 중립을 지키고 국가의 부채를 줄이는 등, 상대적으로 안정세를 유지하였기에 메기 정권은 오래 지속될 수 밖에 없었습니다. 이후 미국의 개입으로 대영제국은 베네수엘라에서 물러났으나 베네수엘라는 에세키보 강 주장의 추진을 실패하였고, 그는 1928년 영국에 대한 '배상금' 문제로 물의를 일으켜 사임했고, 선거 이후 1926년 세대의 민주 정부를 구성했습니다. 하지만 1936년까지, 26세대 정부는 3당 사이에서 심하게 분열되었습니다. 민주운동당은 현재 정권을 잡고 있지만, 민주 공화당 연합에 있는 이전의 자유주의 동맹들이 힘을 얻고 있으며 인터내셔널에 맞추고 있는 베네수엘라 사회당은 반자본주의 의견을 계속하여 발표하고 있습니다. 그럼에도 불구하고 베네수엘라는 이 지역에서 비교적 안정적이고 민주적인 몇 안 되는 나라들 중 하나이지만, 전 세계의 긴장이 고조되고 있는 것은 이 나라의 초기 민주주의를 쉽게 불안정하게 만들 수 있습니다."
 ven.1.a:0 "우리는 흥미로운 시대에 살고 있군"
-ven.2.t:0 "Instability in Caracas"
-ven.2.d:0 "With news of the collapse of the Berlin Stock Market reaching Venezuela and already affecting the economy, there have been numerous disturbances in Caracas and other cities as a run to the banks led to protests and riots. Many in the military believe that the Socialist Party is behind many of these disturbances and plan to use them to start a revolution in Venezuela. Eleazar López Contreras, one of the generals that helped restore democracy back in 1928, is ready to step in once again should the current government fail to restore order, but [Root.GetLeader] insists that the police can handle the excesses and things will settle down soon."
-ven.2.a:0 "The government restores calm."
-ven.2.b:0 "A temporary Junta seizes power."
+ven.2.t:0 "카라카스에서의 불안정"
+ven.2.d:0 "베를린 증시 붕괴 소식이 베네수엘라에까지 전해져 이미 경제에 영향을 주고 있는 가운데, 은행으로 향하는 행진이 시위와 폭동으로 이어지면서 카라카스 등 도시 곳곳에서 수많은 소동이 빚어졌습니다. 군부의 많은 사람들은 사회당이 이러한 많은 소요사태의 배후에 있다고 믿고 있으며, 이러한 믿음을 베네수엘라에서 혁명을 일으키기 위해 사용할 계획입니다. 1928년 민주주의 회복을 도운 장군 중 한 명인 엘레아자르 로페즈 콘트레라스는 현 정부가 질서를 회복하지 못할 경우 다시 한 번 개입할 준비가 되어 있다고 주장하는 가운데, [Root.GetLeader]는 현재의 사태는 경찰력만으로 처리할 수 있으며, 곧 사태가 수습될 것이라고 주장합니다."
+ven.2.a:0 "정부는 평온을 되찾았다."
+ven.2.b:0 "임시 군사정부가 권력을 장악했다."
 ven.3.t:0 "The 1939 Presidential Election"
 ven.3.d:0 "Despite the crises caused by Black Monday, the presidential election scheduled for this year is still happening and the campaigning has been fierce as a result. The social-democratic Acción Democrática has a good chance of securing another term, promising to continue their policy of welfare expansion and industrial diversification. The social-liberal Unión Republicana Democrática, the other moderate party born from the Generación del 1926, also has a good chance of taking the presidency through promises of economic prosperity and use of nationalist rhetoric. Finally, while their chances are relatively low, the Internationale-aligned Partido Socialista de Venezuela has, surprisingly enough, been seriously campaigning, using Black Monday to push their radical anti-capitalist and socialist ideology."
 ven.3.a:0 "AD secures another term."
