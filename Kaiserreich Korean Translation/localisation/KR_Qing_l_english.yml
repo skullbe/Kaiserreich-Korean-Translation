@@ -2,11 +2,11 @@ l_english:
 
 ### Focuses ###
 QIE_army_effort:0 "제국군 재건"
-QIE_army_effort_desc:0 "With the looming threat posed by Japan hanging over us we must start to drill and restructure our forces more effectively, ground combat is still key in tomorrow's wars and with adequate planning and preparation we will overcome any foe whether they be domestic or foreign."
+QIE_army_effort_desc:0 "일본이 우리에게 가하는 위협으로 인해 우리는 우리의 군대를 더욱 효과적으로 훈련시키고 재편성하기 시작해야 합니다. 지상전은 미래의 전쟁에서도 여전히 핵심일것이며 적절한 계획과 준비로 내부의 적이나 외세 등 어떤 적도 극복할 수 있을것입니다."
 QIE_equipment_effort:0 "장비 현대화"
-QIE_equipment_effort_desc:0 "It is no longer sustainable to use German provided equipment without thought for the future. We must develop Chinese equipment within China for China!."
+QIE_equipment_effort_desc:0 "미래에 대한 비전 없이 독일제 장비를 사용하는 것은 더 이상의 발전이 없을것입니다. 우리는 중국을 위해 중국 내 장비를 개발해야 합니다!"
 QIE_motorization_effort:0 "말과 수레를 제거하라"
-QIE_motorization_effort_desc:0 "While other powers use trucks and planes we are cursed with horse and cart. That must change if we are to take our place on the world stage."
+QIE_motorization_effort_desc:0 "다른 강대국들이 트럭과 비행기를 사용하는 동안 우리는 말과 마차를 타고 다니는 저주를 받았습니다. 우리가 세계 무대에서 자리를 차지하려면 우린 변해야 합니다."
 QIE_doctrine_effort:0 "제국군 교리"
 QIE_doctrine_effort_desc:0 "The military doctrine's that defined ground combat during The Weltkrieg are now outdated. We must put our greatest mind's to the task of shaping the military thought of tomorrow for surely our foes do the same."
 QIE_equipment_effort_2:0 "총기 개혁"
