@@ -99,7 +99,7 @@ ARG_Precision_Strikes:0 "정밀 타격"
 ARG_Foreign_Tech_Inf:0 "외국 기술 연구"
 ARG_Foreign_Tech_Air:0 "외국 기술 연구"
 ARG_Foreign_Tech:0 "외국 기술 연구"
-ARG_Military_Cliques:0 "군사 파벌"
+ARG_Military_Cliques:0 "군대 파벌"
 
 ARG_interservice_rivalry_army_dominant:0 "군부 경쟁 - 육군 지배"
 ARG_interservice_rivalry_army_dominant_desc:0 "§R어느 한쪽에 너무 많은 영향력을 갖게 하는 것은 심각한 결과를 초래하고 심지어 군사 쿠데타를 초래할 수도 있습니다§!"
@@ -342,7 +342,7 @@ ARG_Fallout_of_the_American_Civil_War_desc:0 "미국의 어둠이 다가옴에 �
 
 ARG_Rapid_Militarisation:0 "신속한 무장화"
 ARG_Rapid_Militarisation_desc:0 "카를레스의 쿠데타 이후 군대는 혼란에 빠졌습니다. 이제 우리가 나라를 다시 지배하게 되었으니, 우리는 우리의 군사력을 신속하게 재건해야 합니다. 한때 영광스러웠던 우리 군대를 재건하지 못한다면, 우리의 이웃들은 그들이 올바른 아르헨티나 영토를 차지할 수 있다고 생각할지도 모릅니다."
-ARG_Eradicate_Military_Cliques:0 "군사 파벌 근절"
+ARG_Eradicate_Military_Cliques:0 "군대 파벌 근절"
 ARG_Eradicate_Military_Cliques_desc:0 "우리 군대는 동질적으로 하나의 구조가 아닙니다. 대신 그것을 나누는 많은 다른 경쟁적인 파벌들이 있는데, 그것들 중 가장 눈에 띄는 것은 GOU라 불리는 '장교 연합회(Grupo de Oficiales Unidos)'입니다. 우리가 우리의 군대를 더욱 효율적으로 만들고 싶다면, 우리는 그들의 무의미한 권력 투쟁과 책략이 우리의 군대 구조를 약화시키기 전에 이러한 파벌들을 근절해야 합니다."
 ARG_Tested_Methods:0 "검증된 방법"
 ARG_Tested_Methods_desc:0 "모든 군대는 군대가 어떻게 싸워야 하는지를 지침으로 삼을 일관된 군사 교리가 필요합니다. 많은 장군들은 전 세계의 전쟁에서 이미 그 효과를 보여 준 입증된 방법을 고수할 것을 제안합니다."
