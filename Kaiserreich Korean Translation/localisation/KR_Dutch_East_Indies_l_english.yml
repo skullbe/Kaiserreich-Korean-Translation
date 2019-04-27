@@ -834,6 +834,8 @@ holex_bomb_railway:0 "Attack a railway"
 holex_bomb_railway_desc:0 "By attacking the infrastructure of the enemy, we can keep them busy repairing their infrastructure while we build up strength and disrupt their supply lines."
 holex_lure_resistance_into_trap:0 "함정 설치"
 holex_lure_resistance_into_trap_desc:0 "The exiles are trying to undermine our rule. By instructing our informants to guide the targeting to a particular goal, we might be able to catch a large group of them at once when they launch that operation."
+holex_direct_razzia:0 "Roundup Reactionaries"
+holex_direct_razzia_desc:0 "With sufficient intelligence on reactionary activities, we can now attempt to capture some of their leadership in the greatest police roundup to date."
 
 ### Special Decision Tooltips ###
 holex_tt_informants_1_or_greater:0 "§H1§! Informant"
