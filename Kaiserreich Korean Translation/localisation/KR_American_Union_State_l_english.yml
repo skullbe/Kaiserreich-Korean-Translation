@@ -46,7 +46,7 @@ TEX_commonwealth_national_populist_ADJ:0 "미국"
 TEX_commonwealth_national_populist_DEF:0 "미연방국"
 
 ### Ideas ###
-TEX_righteous_nation:0 "정당한 대통령"
+TEX_righteous_nation:0 "적법한 대통령"
 TEX_industries_no_support:0 "산업 지원의 부족"
 TEX_industries_support:0 "산업 지원"
 TEX_no_silver_legion:0 "은색 군단 지원 없음"
@@ -96,27 +96,27 @@ TEX_fight_terrorists_tooltip:0 "§G우리는 역적들을 색출하고 궤멸시
 TEX_silver_legion_raised:0 "Ten new militia and infantry units will be raised across the South"
 
 ### Flags ###
-long_arrests_pelley:0 "휴이 롱 각하께서 펠리와 역적 무리를 체포했습니다"
+long_arrests_pelley:0 "휴이 롱이 펠리와 역적 무리를 체포했습니다"
 TEX_pelley_takes_over:0 "휴이 롱은 암살당했고 펠리가 권력을 잡았습니다"
 TEX_coalition:0 "휴이 롱은 암살당했고 국가단결을 위해 모즐리로 대표되는 비상대권위원회가 형성되었습니다!"
 
 ### Decisions ###
 TEX_call_up_silver_legion:0 "은색 군단 호출"
 TEX_call_up_silver_legion_desc:0 "It's possible there might be a long-term price to pay for the support the Silver Legion has offered us, but for now chances are good that we'll need everything we can summon in order to win the civil war."
-TEX_silver_legion_support:0 "Use Silver Legion Support"
-TEX_silver_legion_support_desc:0 "The Silver Legion has developed a considerable following, with supporters well-placed within the AUS military and public sector. Their concerted support could mean the difference between loss and victory in the fight to keep the people on board with the war effort."
+TEX_silver_legion_support:0 "은색 군단의 지지 이용"
+TEX_silver_legion_support_desc:0 "은색 군단은 상당한 추종자가 생겨났고, 미군과 국가기관 내에서도 지지자가 퍼졌습니다. 그들의 일치된 지지는 국민들이 지속적으로 전쟁을 수행하는 데 도움이 될 것이고, 이는 즉 패배와 승리가 그들에게 달렸다는 것입니다."
 TEX_civil_war_decisions:0 "내전 결정"
 TEX_civil_war_decisions_desc:0 "우리는 미국의 미래를 위해 투쟁합니다. 킹피쉬를 위하여!"
 
 TEX_manifest_destiny_decisions:0 "America's Manifest Destiny"
 TEX_manifest_destiny_decisions_desc:0 "It is our rightful place to rule over all of North America, to be the preeminent nation of the New World and guardian of its freedom from the decript Old World colonialists."
 
-TEX_claim_canada_dec:0 "캐나다에 영유권 주장"
-TEX_claim_mexico_dec:0 "멕시코에 영유권 주장"
+TEX_claim_canada_dec:0 "캐나다 영유권 주장"
+TEX_claim_mexico_dec:0 "멕시코 영유권 주장"
 TEX_release_quebec:0 "Create French-Canadian Homeland"
 TEX_defend_new_world:0 "[From.GetNameDef] 공격"
 TEX_can_attack_syndicalist:0 "§MSyndicalist countries in North and South America can now be attacked§!"
-TEX_join_germany:0 "제국조약 가입"
+TEX_join_germany:0 "제국 조약 가입"
 TEX_join_germany_tech:0 "카이저 빌헬름 학회 가입"
 
 TEX_deal_with_terrorists_decisions:0 "역적들을 처리하다"
@@ -203,15 +203,15 @@ TEX_traditional_values_desc:0 "모즐리 대통령은 연설에서 지난 30년�
 TEX_republic_without_democracy:0 "민주주의 없는 공화국"
 TEX_republic_without_democracy_desc:0 "결국 휴이 롱이 만들려고 했던 국가도 민주주의 없는 공화국이라는 것에 대해 미국민들은 동의합니다. 모즐리의 임기는 미대륙을 위협하는 계속되는 위기로 인해 4년 더 연장되었습니다. 비대위가 의도한 바와 같이 미국주의는 과두정이라는 오명을 벗으면서 성장합니다."
 ### Pelley Path ###
-TEX_mine_have_seen_the_glory:0 "영광이 내눈에 보이네"
+TEX_mine_have_seen_the_glory:0 "영광을 보았노라"
 TEX_mine_have_seen_the_glory_desc:0 "휴이 롱이 그날 밤 생디칼리즘의 나팔수였다는 자백을 듣고 많은 미국민들이 놀랐습니다. 은색 군단이 불안정했다면 초반의 저항은 혁명을 단숨에 끝장낼 수도 있었을 것입니다. 다행히도 재향군인회와 금주주의자들은 롱이 약속을 배신한 후 그와 결별했습니다. 이것은 새로운 미국의 시작입니다."
 TEX_the_silver_legion:0 "은색 군단"
 TEX_the_silver_legion_desc:0 "은색 군단은 현재 재향군인회의 비공식적인 수장격이며, 프로파간다는 밀정들을 통해 서서히 전파됩니다. 이러한 상황은 몇몇 재향군인회 지부에서 많은 반대자들을 불러왔습니다. 우리는 이런 반체제 인사들을 식별하고 이들의 잠재력을 최소화하기 위해 이들을 멀리 떨어진 지부로 재배치해야 합니다."
 TEX_absorb_the_klan:0 "KKK 흡수"
-TEX_absorb_the_klan_desc:0 "히람 웨슬리 에반스는 오늘 수도에서 열린 대규모 KKK 집회에서 공식적으로 은색 군단으로 입단했습니다. 에반스의 말은 KKK가 중요하다고 치켜세우기에 필수적인 요소입니다. 우리는 또한 KKK가 회원들의 영향력을 최대한 발휘하기 위해서라도 더 이상 이들의 얼굴을 가리지 않도록 요구할 것입니다."
+TEX_absorb_the_klan_desc:0 "히람 웨슬리 에반스는 오늘 수도에서 열린 대규모 KKK 집회에서 공식적으로 은색 군단에 입단했습니다. 에반스의 말은 KKK가 중요하다고 치켜세우기에 필수적인 요소입니다. 우리는 또한 KKK가 회원들의 영향력을 최대한 발휘하기 위해서라도 더 이상 이들의 얼굴을 가리지 않도록 요구할 것입니다."
 TEX_crackdown_on_traitors:0 "역적 소탕"
 TEX_crackdown_on_traitors_desc:0 "여전히 자신의 얼굴과 이름을 밝히기를 거부하는 고집스러운 KKK 단원들이 예외에 대한 동의를 구하고자 펠리를 찾아왔습니다. 우리의 영도자 펠리는 이 문제에 대해 KKK 단원들을 비밀경호국으로 파견한다는 깨우친 결정을 내렸습니다. KKK 단원들의 일부가 여전히 비밀리로 남아있기 때문에, 우리는 반대자들을 은밀히 찾아내고 없앨 수 있을 것입니다."
-TEX_covenant_sword_and_arm:0 "성경, 검, 갑주"
+TEX_covenant_sword_and_arm:0 "성경과 검과 갑주"
 TEX_covenant_sword_and_arm_desc:0 "주 예수 그리스도 백인 정체교회의 은색 군단원들은 대다수의 지방 금융기관들이 빨갱이들과 외국인들에 의해 통제된다고 보고했습니다. 군단이 기존의 것 이상을 수행할 수 있기에, 우리의 영도자 펠리께서는 원하던 원하지 않던 간에 시민들로부터 재원을 충당하도록 교회에 권한을 부여했습니다."
 TEX_camps_for_syndies:0 "생디칼리즘 불법화"
 TEX_camps_for_syndies_desc:0 "롱주의와 생디칼주의의 미래가 결정되었습니다. 국회는 미국 내전으로 인한 국가적 위급상황이 진정으로 끝날 때까지 생디칼리즘 의심자들을 노동교화소와 수용소에 무기한 수용하도록 허가했습니다. 재향군인회는 이미 역적들이 차지한 회의장과 시의회를 해산하기 시작했습니다."
@@ -461,7 +461,7 @@ unionstate.4.a:0 "빨갱이들은 도망가지 못한다!"
 
 unionstate.5.t:0 "야만적인 하룻밤"
 unionstate.5.d:0 "신 수도 외곽의 은색 군단 전초기지에서 특히 맹렬했던 야밤의 연설 이후, 윌리엄 더들리 펠리는 살인에 찬동하며 그의 군단을 집결시켰습니다. 이날 밤 롱 각하를 살해하려는 노골적인 의도로 대통령 관저로 향하는 무장 행진이 진행되었습니다. 다행히도 펠리는 휴이 각하께서 수도의 국민들에게 받은 지지를 과소평가했고, 결국 제 2차 미국 내전 기념관 앞에서 총격전이 벌어졌습니다. 불리해진 펠리의 부하들은 은색 군단을 벗어나 재빨리 미닛맨에 합류하기 위해 몸을 사렸고, 몇몇 미닛맨들은 은색 군단을 배신하고 미닛맨으로 합류한 군단원들을 오랜 동지처럼 인식하였습니다. 새벽까지 살아남은 은색 군단 역적들은 체포되었고 펠리는 재판을 받기에는 정신적으로 부적합하다고 여겨져 정신병원으로 보내졌습니다."
-unionstate.5.a:0 "미친 역적노무새끼들은 지옥에나 가라"
+unionstate.5.a:0 "미친 역적새끼들, 지옥에나 떨어져라"
 
 unionstate.6.t:0 "장검의 밤"
 unionstate.6.d:0 "신 수도 외곽의 은색 군단 전초기지에서 특히 맹렬했던 야밤의 연설 이후, 윌리엄 더들리 펠리는 살인에 찬동하며 그의 군단을 집결시켰습니다. 펠리의 공모자들 중에는 현재 롱 대통령이 금주법과 재향군인법안을 부결한 후 오랫동안 버림받은 측근들이 있었습니다. 이 새로운 역적들은 미닛맨의 검문을 통과하기 위한 중요한 통행증을 제공했고 은색 군단의 쿠데타를 묵인했습니다. 은색 군단 암살대가 대통령 관저를 급습해 휴이 롱을 붙잡았습니다. 폭정에 대한 죄와 생디칼리즘을 미국에 침투시키려 한다는 약식 재판 후에, 휴이 롱은 바로 그날 밤 총에 맞았습니다. 윌리엄 더들리 펠리는 조심스럽고 신중한 군중들에게 생디칼리즘을 이 나라에서 뿌리뽑을 수 있게 나라를 이끌 것이라고 발표했습니다. 은색 군단은 이미 국회를 점령하기 시작했습니다."
@@ -551,18 +551,18 @@ unionstate.33.a:0 "어떻게든 침묵시켜라!"
 unionstate.33.b:0 "냅둬라 - 언젠가는 사그라들 것이다"
 TEX_covers_up:0 "§Y정부의 구상회 은폐능력이 향상될 것입니다§!"
 
-unionstate.34.t:0 "모든 여자는 여왕이다?"
+unionstate.34.t:0 "모든 여성도 여왕인가?"
 unionstate.34.d:0 "예상치 못한 곳에서 사업 구상회를 가로막는 장애물이 등장했습니다. 휴이 롱은 자신의 부상을 당하거나 불구가 될 경우 부인 로즈 롱이 직책을 물려받도록 지시한 것으로 보입니다. 완고한 롱 지지자들이 떼거지로 워싱턴으로 몰려와서는 휴이 롱을 찾을 때까지 로즈를 대통령 관저에 머무르게 할것을 요구했습니다. 이들은 또한 휴이 롱의 러닝메이트 윌리엄 렘케가 헌법에 따라서 적합한 대통령이라고 주장하는 예전 연방주의자들도 만났습니다. 우리에 대한 방어책으로 헌법을 따르는 것은 아마도 더 신중한 선택일 것입니다. 하지만 헌법을 따른다는 선택은 휴이 롱의 미망인에 대한 모욕으로 보여질 수 있고, 자칫 대중의 분노를 부채질할 수 있습니다."
-unionstate.34.a:0 "로즈 롱에 대한 동정을 공개표명하자"
-unionstate.34.b:0 "헌법은 국민정서에 좌우되지 않을것이다"
+unionstate.34.a:0 "로즈 롱에 대한 유감을 공개표명하자"
+unionstate.34.b:0 "국민들의 정서 따위로 헌법을 좌지우지할 순 없다!"
 
 unionstate.35.t:0 "그러나 아무도 왕관을 쓰지 못했다"
 unionstate.35.d.coverup:0 "드디어 사업 구상회가 결정적 한 방을 날릴 준비가 되었습니다. 해결점이 보이지 않는 끊임없는 논쟁은 절대 다수의 지지를 받는 부통령을 선출하려는 국회의 의지를 약화시켰습니다. 보다 신뢰할 수 있는 상원의원들이 조지 모즐리를 부통령으로 내세워 휴이가 발견될 때까지 대통령직을 맡을 준비가 되었습니다. 여기서 준비란 모즐리가 임시 대통령으로서 취임할 수 있도록 만들기 위한 수정헌법 제2조와 제12조에 대한 매우 세부적인 변경사항을 포함합니다."
 unionstate.35.d.uncovered:0 "비록 저널리스트인 웨스트브룩 페글러는 전쟁 중에는 거의 허무주의에 가까운 태도로 비난받았지만, 오늘 그는 대중들에게 비난의 만회 그 이상의 것을 해냈습니다. 철저한 고찰, 정치깡패들로부터의 도피,  그리고 정치적 의문을 가지고 사실을 파헤치려는 헌신을 통해 드디어 진실이 대중들에게 밝혀졌습니다. 지하 언론은 휴이 롱 각하의 진짜 살인범이 롱 각하의 경호원이라고 밝혔습니다. 피묻은 돈의 끝을 추적해보니 다름아닌 조지 모즐리 임시 대통령이 나왔습니다. 이제 모든 국가기관들이 모즐리를 체포하기 위해 움직였습니다. 모즐리는 세간에서 '사업 구상회'라고 일컬어지는 비상대권위원회에 연루되었다고 합니다. 이 인간말종들은 반드시 재판에 회부될 것입니다."
 unionstate.35.d.scandal:0 "사업 구상회는 성공을 거두었지만, 성공을 위해 너무 많은 비용이 들었습니다. 저널리스트인 웨스트브룩 페글러는 모즐리와 다른 이들이 휴이 롱을 살해할 음모를 꾸몄다고 비난하는 폭로글을 게재했습니다. 폭로글이 게재된 이후, 페글러가 제시한 증거는 -조지 모즐리가 가해자가 아닌 피해자로 여겨질 정도로- 정황에 입각한 불명확한 것으로 밝혀졌습니다. 이 스캔들은 대중들 사이에 오래도록 회자되었지만, 모즐리를 지지하는 국회위원들은 모즐리에 대한 어떠한 공식 청문회라도 막을 수 있었습니다... 그리고 수 개월 동안 근본없고 결론없는 논쟁들을 거친 후, 드디어 휴이가 발견될 때까지 모즐리가 대통령직을 맡을 준비가 가까스로 완료되었습니다. 여기서 준비란 모즐리가 임시 대통령으로서 취임할 수 있도록 만들기 위한 수정헌법 제2조와 제12조에 대한 매우 구체적인 변경을 포함합니다."					
-unionstate.35.a:0 "나는 공화국은 좋아하지만 민주주의는 싫어한다"
-unionstate.35.b:0 "드디어 진실이 밝혀졌군"
-unionstate.35.c:0 "스캔들 그 이상도 이하도 아니군"
+unionstate.35.a:0 "나는 공화국은 좋지만, 민주주의는 싫군."
+unionstate.35.b:0 "드디어 진실이 밝혀졌다."
+unionstate.35.c:0 "스캔들. 그 이상도 이하도 아니군"
 
 unionstate.36.t:0 "수정헌법 22조"
 unionstate.36.d:0 "비대위는 상원의원들에 대한 직접 선거를 강요하는 수정헌법 17조의 유지 여부에 대해 협의를 하고 있습니다. 이제 우리 미공화국에 대한 반정부적인 민주주의를 증진시키려는 의도로 통과된 윌슨의 헛된 대중주의적 노력은 끝났습니다. 수정헌법 22조는 우리 정부체계에 대한 위와 같은 불필요한 사항들을 바로잡아나갈 것이고, 국회는 건국의 아버지들이 의도한 것처럼 다시금 대표성을 갖춰나갈 것입니다."
@@ -573,7 +573,7 @@ unionstate.37.d:0 "시장경제와 비대위 사이에 오해가 발생했습니
 unionstate.37.a:0 "이익창출이야말로 진정한 사업이다"
 unionstate.37.b:0 "애국심이야말로 진정한 사업이다"
 
-unionstate.38.t:0 "두번째 아메리카 플랜"
+unionstate.38.t:0 "제2차 아메리카 플랜"
 unionstate.38.d:0 "비록 빨갱이들이 패배하고 물러났지만, 어리석은 휴이 롱이 약속한 노조 성장의 위협은 여전히 남아있습니다. 국회의 제안을 통해 이 사태를 해결할 수 있을 것입니다. 원래 아메리카 플랜은 고용주가 노조 활동에 정면도전할 수 있도록 보장하기 위해 윌슨 행정부 동안 제안되었던 법률이었습니다. 맥아두 하의 어리석은 국회는 이 권리를 제대로 보장하지 못했지만, 새로운 공화국은 이를 바로잡을 것입니다. 아메리카 플랜은 개별 주들이 노동권리법을 통과시키고 연방 법원이 법을 위반하는 노조 활동을 기소하도록 승인할 것입니다."
 unionstate.38.a:0 "사업가와 노조원의 권리는 다르다"
 
@@ -639,12 +639,12 @@ unionstate.59.a:0 "흑인 수준에 맞는 교육을 시켜라"
 
 unionstate.60.t:0 "블랙벨트법"
 unionstate.60.d:0 "펠리가 제안한 법안 중 가장 논란이 되는 것은 1899년의 인디언 수용법을 흑인사회로 확대하자는 것입니다. 제안된 블랙벨트법은 많은 흑인이 거주하는 남부의 지역사회를 독립적인 공공기관이 있는 지정된 장소로 만들 것입니다. 은색 군단은 이 지역들이 인디언 수용법의 사례와 비슷하게 -서류상으로는- 정부 관할 하에 있는 흑인들에 의해 관리될 것이라고 주장합니다. 게다가 이 법은 미국 전역의 흑인들의 시민권과 공공복지권을 박탈할 것입니다. 그러나 몇몇 우리의 충성스런 군단원들이 마음속으로는 흑인 거주지 안에 거주하는 백인들 또한 시민권과 권리를 잃게 될 것이라고 비판하고 있다고 합니다. 이 법안은 어떻게 될까요?"
-unionstate.60.a:0 "지금부터 분리를, 영원한 분리를"
-unionstate.60.b:0 "지금은 아니다, 아마도 나중에"
+unionstate.60.a:0 "지금부터 분리를. 영원한 분리를"
+unionstate.60.b:0 "지금은 아니다. 아마도 나중에"
 
 unionstate.61.t:0 "통행법"
 unionstate.61.d:0 "은색 군단은 내년에 시행될 통행법을 예상하고 미연방국 내의 흑인들에게 여권을 발행하기 시작했습니다. 이 제도는 예전에 남북전쟁 동안의 남부맹방에서 자유인과 노예를 식별하기 위해 사용된 내부여권제와 유사합니다. 은색 군단은 과거의 어떠한 법과의 비교를 강하게 거부하고 폭력으로 자신들의 주장을 옹호해왔습니다. 이 제도는 수많은 흑인들의 남부 지방 바깥으로의 여행을 금지하고 미연방국의 나머지 지역으로의 법 적용이 확대되는 결과를 초래할 것입니다."
-unionstate.61.a:0 "동무 여권내라우"
+unionstate.61.a:0 "받아들여라!"
 
 unionstate.62.t:0 "형벌"
 unionstate.62.d:0 "13번째 헌법 개정안은 전국적으로 노예제도를 불법으로 만들었습니다. 그러나 개정안은 범죄에 대한 처벌로서 비자발적인 노예형을 허용하고 있습니다. 형벌로 명명된 국회가 통과시킨 이 새로운 명령은 도덕적 범죄에 대한 선고 형량을 늘리고 노동력을 산업현장에 더 많이 투입할 수 있게 해 주었습니다. 이 형벌 노동자는 흑인의 투표 시도를 불법화하는 다양한 흑인 법령을 부활시킴으로써 힘을 얻었습니다. 펠리가 라디오로 전하는 떠들썩한 연설들은 노예제도가 돌아왔다는 앞으로 펼쳐질 진실을 혼란스럽게 하기 위함입니다."
@@ -652,7 +652,7 @@ unionstate.62.a:0 "봉사하라"
 
 unionstate.63.t:0 "세번째 대이민"
 unionstate.63.d:0 "내전 이전부터 미국을 떠난 수천 명의 흑인들은 펠리의 폭정에서 도망치는 수십만 명의 미국인들과 합류하고 있습니다. 국제노동변호기구와 흑인 인권단체와 같은 단체들은 현재 적십자사와 협력하여 자유를 위해 애쓰고 있는 사람들을 대피시키고 있습니다. 은색 군단과 그 지도부는 이들이 은색 군단의 통치에 대항하여 연합전선을 형성할까봐 오랫동안 두려워해 왔습니다. 동시에 국내의 반체제 인사들이 적어진다는 것은 우리의 충신들이 거리낌없이 활동할수 있다는 것을 의미합니다. 문제는 우리가 어떻게 하느냐입니다. 저들을 내버려 둘까요 아니면 도망가지 못하게 할까요?"
-unionstate.63.a:0 "미국의 좀벌레를 빼낼 뿐이다"
+unionstate.63.a:0 "미국의 좀벌레들을 떼어낼 뿐이다"
 unionstate.63.b:0 "서둘러 멈춰라!"
 
 unionstate.64.t:0 "미국 난민 도착"
@@ -718,7 +718,7 @@ TEX_disrupt_marchers:0 "§Y행진은 방해받을 것이고, 시위자들은 바
 unionstate.80.t:0 "헌법 재건"
 unionstate.80.d:0 "우리에게 롱의 체포를 제안했던 딕시크랫(보수파 민주당원)들은 국회라는 겉치레을 유지함에 있어서 유용하게 쓰였습니다. 국회의원들을 은색 군단원들로 대체하는 지루한 과정동안 우리는 점점 더 딕시크랫들에게 의존하게 되었습니다. 최근에 영도자 펠리는 국회의원의 "조상" 조항 -조상의 출신성분이 더럽지 않아야 함- 의 충족과 진실된 신앙심의 의무화를 골자로 하는 헌법 22-24조의 개정안을 통과시켰습니다. 뒤이어 이어진 개정 제안에서 펠리는 개인과 정부 소유의 토지를 모두 몰수해 주님의 이름으로 재분배하자고 했는데, 이는 휴이 롱 시절에도 개인의 토지권을 침해하는 경우는 없었다고 외치는 딕시크랫의 엄청난 반발을 불러일으켰습니다. 최고존엄 펠리는 지금 곤경에 처해있습니다. 만약 펠리가 딕시크랫에 굴복한다면, 전지전능한 신처럼 보여야 하는 그는 자칫 약해빠진 인간으로 비춰질 수 있습니다. 만약 펠리가 대다수의 측근들이 제안하듯이 개정안을 강행한다면, 이는 펠리가 민주주의자가 아님을 모두에게 보여줄 것입니다."
 unionstate.80.a:0 "지금부터 미연방국만이 모든 권리를 가진다"
-unionstate.80.b:0 "펠리야 너는 마태복음 20장 26-27을 읽어나 봤니?"
+unionstate.80.b:0 "마태복음 20장 26-27이 뭔지 알고나 계신가, 펠리?"
 
 unionstate.81.t:0 "볼티모어의 은색 군단 폭동"
 unionstate.81.d:0 "볼티모어의 은색 군단 전초기지에 대한 분노가 지난 몇 주 동안 들끓고 있습니다. 군단원 모집을 위해 행해진 엉성한 연극이 지역 신문에서 조롱당한 후, 군단원들은 자신들이 사회로부터 고립되었다고 느끼기 시작했고, 결국 무장 투쟁 노선으로 선회했습니다. 고조된 긴장감은 볼티모어 경찰이 군단원들의 린치를 진압할 때 폭발했습니다. 거리에서 전면적인 폭동이 일어났고, 그 후에 투입된 메릴랜드 주방위군은 전반적인 상황에 대처를 못했습니다. 주방위군은 어느 쪽을 택해야 할지 모르는 것 같습니다. 만약 우리가 폭동에서 군단원들을 구하기 위해 주방위군을 투입한다면, 우리의 편애는 명백해질 것이고, 결국 우리에게 해가 될 것입니다. 그러나 우리가 군단원들의 폭동을 내버려둔다면, 그것은 국가적인 추문으로 변질될 뿐만 아니라 은색 군단에 대한 우리의 충성심에 의문이 제기될 수도 있습니다. 그럼에도 불구하고, 몇몇 사람들은 우리가 중립을 지킨다는 -우리 자신에 대한 배신이기는 하지만- 면모를 보여줌으로써 대중들로부터 우리의 위신을 지킬 수 있을 것이라고 말합니다."
@@ -789,7 +789,7 @@ unionstate.150.t:0 "Southern Governors Meet in Baton Rouge"
 unionstate.150.d:0 "A large crowd recently gathered outside the statehouse in Baton Rouge to congradulate Huey Long for defying the federal government. News agencies were soon to arrive on the scene, when suddenly the crowd began unfurling the battle flag of the old Confederacy. Sensing an impending political disaster, Huey Long had his men to confiscate these radical symbols of the Civil War. When the governors arrived, the press only saw the image of a defiant America determined to fight the illegitimate powers of federal corruption and syndicalist oppression. The governors are now meeting with Long inside the statehouse to determine the proper response to the federal government's deadline."
 unionstate.150.a:0 "A close call."
 
-unionstate.151.t:0 "제2차 독립 선언"
+unionstate.151.t:0 "제2차 독립 선언문"
 unionstate.151.d:0 "While many of the southern governors were in favor of drafting a new constitution on the spot, the urge to emulate the original rebellion against the British monarchy prevailed. A second Declaration of Independence was drafted in Baton Rouge over the course of a few days, painstakingly emulating the original conceit of the American Revolution. This declaration outlined the lack of protection the federal government gave to citizens, and the role of the state to protect the welfare of the poor. The signatories declare that it is within their constitutional right to organize a militia against tyranny, and that the federal government's deadline should not only be ignored it must be defied."
 unionstate.151.a:0 "신은 우리에게 번영을 약속했다."
 
