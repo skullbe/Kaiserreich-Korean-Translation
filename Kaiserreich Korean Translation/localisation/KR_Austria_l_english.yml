@@ -13,19 +13,19 @@ AUS_new_administration:0 "행정 개편"
 
 ### Flags and Tooltips ###
 AUS_economy_ready_tooltip:0 "우리는 경제의 선진화를 준비해야 합니다. \n\n 이는 당연히 현재 우리에게 닥친 경제 위기를 극복해야 한다는 것을 의미합니다."
-AUS_potb_albania_tooltip:0 "알바니아가 우리의 영향권에 인접해 있습니다."
-AUS_potb_greece_tooltip:0 "그리스가 우리의 영향권에 인접해 있습니다."
-AUS_potb_romanian_civil_war_tooltip:0 "루마니아 내전이 국경을 휩쓸고 있습니다."
-AUS_potb_romania_tooltip:0 "복원된 루마니아 왕국이 우리의 영향권에 인접해 있습니다."
-AUS_potb_bulgaria_tooltip:0 "불가리아는 우리의 영향권에 인접해 있습니다."
-AUS_no_greek_economic_sanctions:0 "Has not applied economic sanctions against Greece"
+AUS_potb_albania_tooltip:0 "알바니아가 우리 영향권에 인접해 있습니다."
+AUS_potb_greece_tooltip:0 "그리스가 우리 영향권에 인접해 있습니다."
+AUS_potb_romanian_civil_war_tooltip:0 "루마니아가 내전에 휩싸였습니다."
+AUS_potb_romania_tooltip:0 "복원된 루마니아 왕국이 우리 영향권에 인접해 있습니다."
+AUS_potb_bulgaria_tooltip:0 "불가리아가 우리 영향권에 인접해 있습니다."
+AUS_no_greek_economic_sanctions:0 "그리스에 경제 재제를 가하지 않았어야 합니다"
 
 AUS_a_new_Hungary:0 "헝가리는 개편되어 오스트리아 제국의 다른 구성국들과 동등한 지위를 가지게 되었습니다"
 
 AUS_syndicalist_menace_tooltip:0 "전쟁의 불길은 다시 한번 타오르고 있으며, 이탈리아에서 우리의 이익은 인터내셔널에 의해 위협받는 중입니다."
 
-AUS_military_occupation_tooltip:0 "계속해서 헝가리 영토를 영유하게 될 것이지만, 모든 속국들이 이에 만족하지는 않을 것입니다. \n\n"
-AUS_danubian_federation_tooltip:0 "다뉴브-알프스-아드리아 연방"이 형성될 것입니다. \n\n"
+AUS_military_occupation_tooltip:0 "헝가리 영토를 계속 영유하게 될 것이지만, 모든 속국들이 이에 만족하지는 않을 것입니다. \n\n"
+AUS_danubian_federation_tooltip:0 "'다뉴브-알프스-아드리아 연방'이 형성될 것입니다. \n\n"
 AUS_united_states_tooltip:0 "'대 오스트리아 합중국'이 형성될 것입니다. \n\n"
 AUS_dualism_restored_tooltip:0 "헝가리는 통합될 것이고, 오스트리아-헝가리 제국이 재결성될 것입니다. \n\n"
 
@@ -58,7 +58,7 @@ AUS_part_of_the_Empire:0 "오스트리아 제국 구성국"
 AUS_part_of_the_Empire_desc:0 "이 나라나 직할령은 적어도 명목상으로는 오스트리아-헝가리 제국의 구성원입니다."
 
 AUS_financial_ties_broken:0 "오스트리아-헝가리 관계 악화"
-AUS_financial_ties_broken_desc:0 "헝가리의 왕가는 공동 정부의 재정에 세금을 납부하는 것을 거부합니다. \n\n 그들은 1926년 남부 슬라브인 반란의 중재안으로 인한 일리리아 왕국의 형성에 여전히 불만을 가지고 있으며 오스트리아 정부에 의해 배신당한 이들은 크로아티아의 토지 손실에 대한 보상을 원합니다."
+AUS_financial_ties_broken_desc:0 "헝가리의 왕가는 통합 정부의 재정에 세금을 납부하는 것을 거부합니다. \n\n 그들은 1926년 남부 슬라브인 반란의 중재안으로 인한 일리리아 왕국의 형성에 여전히 불만을 가지고 있으며 오스트리아 정부에 의해 배신당한 이들은 크로아티아의 토지 손실에 대한 보상을 원합니다."
 
 HUN_financial_ties_broken:0 "오스트리아-헝가리의 관계 악화"
 HUN_financial_ties:0 "오스트리아-헝가리의 관계 회복"
@@ -217,7 +217,7 @@ AUS_cs_national_austerity_council:0 "국가 긴축위원회"
 AUS_cs_national_austerity_council_desc:0 "현재 진행중인 경제 위기에 대처할 때 우리가 기억해야 할 가장 중요한 사실은 이미 존재하는 국가 부채가 더 이상 발생하지 않도록 해야 한다는 것입니다. 오스트리아의 금고는 다음 해에 완전히 채워져야 합니다. 이를 달성하는 유일한 방법은 지출을 대폭 줄이는 것입니다."
 
 AUS_cs_fill_the_coffers:0 "국고를 채워라"
-AUS_cs_fill_the_coffers_desc:0 "가진 것이 거의 없다면, 조심히 써야한다. 이 말이 선거 기간 동안 CSP의 신조였습니다. 지난 6년간 주요 은행들의 스캔에 연루되어 있었기 때문에, 사람들이 우리를 믿고 돈을 맡길 지 확실하지 않았습니다. 이제, 그들에게 우리가 할 수 있다는 것을 보여줍시다."
+AUS_cs_fill_the_coffers_desc:0 "가진 것이 거의 없다면, 조심히 써야 한다. 이 말이 선거 기간 동안 CSP의 신조였습니다. 지난 6년간 주요 은행들의 스캔에 연루되어 있었기 때문에, 사람들이 우리를 믿고 돈을 맡길 지 확실하지 않았습니다. 이제, 그들에게 우리가 할 수 있다는 것을 보여줍시다."
 
 AUS_cs_2:0 "국가의 통제하에 있는 인플레이션"
 AUS_cs_2_desc:0 "약간의 인플레이션은 나쁜 것이 아닙니다. 초인플레이션이 나쁜 것입니다. 우리는 시장에서 유통되고 있는 모든 화폐를 빠르게 없애야 합니다. 채권의 가격은 떨어져왔고 금리는 최고치를 찍었습니다. 이제 우리는 이 조치들의 효과를 기다려야합니다."
