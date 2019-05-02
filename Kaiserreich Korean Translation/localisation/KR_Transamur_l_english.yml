@@ -1,7 +1,7 @@
 l_english:
 
 ### Events ###
-tram.intro.t:0 "트란스아무르 - 블라디보스토크 임시 러시아 국가"
+tram.intro.t:0 "트란스아무르 - 블라디보스토크의 임시 러시아 정부"
 tram.intro.d:0 "Siberia and the Russian far-east had been a major areas of conflict during the Russian Civil War, as the location of a short-lived democratic republic, the rising of the 'Czech legion' and Japanese intervention. While forced to evacuate their forces due to German pressure (as well as intense resistance from local Cossacks), the Japanese remained eager to extend their influence and in 1922 pushed for the establishment of an independent state in the Transamur region. This motion gained the support of the Vladivostok business community, despite the fact that it left them vulnerable to forming an economic dependency on Japan. The majority of the business community however saw economic and diplomatic relations with the rising power in the East as a significant advantage, especially when compared to the alternative of being sucked further into the disorder besetting the rest of Russia. The new nation gained a prominent figurehead in the form of Admiral Kolchak, one of the more successful White Generals of the civil war and the one-time self-proclaimed 'Supreme Ruler of All Russia', who had been forced to flee Russia following his unsuccessful attempt to seize control in 1925. In 1936, the Transamur Republic has become a corporate and militaristic state, and is politically, economically and militarily under the thumb of the Japanese Empire. And yet Kolchak has ambitions of his own. Could he simply be playing a very dangerous game, using the Japanese protection to establish his own rule, first over Siberia, and then over Russia as a whole?"
 tram.intro.a:0 "흥미롭군..."
 
@@ -78,17 +78,17 @@ tram.33.b:0 "We need another month of preparation."
 
 tram.34.t:0 "Chita Captured"
 tram.34.d:0 "Our recent offensive on Mongolian lands was successful. Another part of Trans-Siberian railway is ours!"
-tram.34.a:0 "Hurrah"
+tram.34.a:0 "Hurrah."
 
 tram.35.t:0 "Chita Withdrawal"
 tram.35.d:0 "Our recent offensive on Mongolian lands was unsuccessful. Our troops were repelled by Mongolian forces. However, we can always escalate an open war with Mongolia."
 tram.35.a:0 "To arms!"
-tram.35.b:0 "It's too risky"
+tram.35.b:0 "It's too risky."
 
 tram.36.t:0 "We've Lost Chita!"
 tram.36.d:0 "These Transamurian cowards backstabbed us and captured Chita, seizing our part of Trans-Siberian railway. These are indeed drastic times. Should we declare war on them or just swallow this insult?"
 tram.36.a:0 "They will have to pay!"
-tram.36.b:0 "It's too risky"
+tram.36.b:0 "It's too risky."
 
 tram.42.t:0 "Transamurian Expansion in Siberia"
 tram.42.d:0 "Our client state, the Transamur Republic, has established its control over several parts of Siberia. While this is a fine addition to the Co-Prosperity Sphere it is possible that Transamur is becoming too powerful and needs to be restrained."
@@ -109,7 +109,7 @@ tram.48.b:0 "[TRM.GetLeader] will not go anywhere!"
 tram.49.t:0 "Transamur Submits"
 tram.49.d:0 "[TRM.GetLeader] has decided to submit and kneel before us. Now, there is an empty office of the Vladivostok governorship, and so we shall find a replacement. There are several available options: Sergei Wojciechowski, Kolchak's right hand. He knows how to suppress the people, but his expansionist vision, almost like of a certain rogue admiral, could be problematic. On the other hand, former Transamur leader, Sergei Semyonov, could return to his work again. A content Cossack ataman, he would be unlikely to cause serious problems. There is also potentially the choice of the General Yui Mitsue who once was in command of Japanese Expeditionary Corps during the Russian Civil War. An old man deserving of a proper retirement, rule in Transamur would be a good fit for him. Still, several liberal ministers have been suggesting that we should establish a new democratic regime in Transamur instead."
 tram.49.a:0 "General Mitsue, you have a new order."
-tram.49.b:0 "This Wojciechowski knows how to rule the people"
+tram.49.b:0 "This Wojciechowski knows how to rule the people."
 tram.49.c:0 "Humble servants like Semyonov are always welcome."
 tram.49.e:0 "A new Transamur Republic shall rise!"
 
@@ -238,7 +238,7 @@ tram.94.b:0 "Transamur isn't worth it."
 
 tram.95.t:0 "Russia Refuses Unification"
 tram.95.d:0 "Despite our best efforts to join Russia, negotiations have failed, with the Russian representatives refusing to countenance our peaceful reunification. With vast Japanese forces arrayed against us, it seems that we are on our own."
-tram.95.a:0 "Damn"
+tram.95.a:0 "Damn."
 
 tram.96.t:0 "Disaster"
 tram.96.d:0 "The so-called "Soviet Government" have refused to return our lands. Moreover, they have declared war on us and eager to retake Vladivostok."
@@ -252,7 +252,7 @@ tram.97.b:0 "We can do nothing, for now."
 tram.98.t:0 "Attempted Coup in Transamur"
 tram.98.d:0 "News about anti-Kolchak coup in Transamur has recently reached us. It appears that rebels sought to kill Aleksandr Kolchak, our de-facto puppet leader of the Vladivostok regime, but their best efforts seem to have come to nothing, with the putsch crushed by loyalist guards. Still, Kolchak has made a number of enemies in Transamur and his vulnerability is becoming increasingly clear. Perhaps we should demand that Kolchak resign and assign a new, more pliant leader for Transamur."
 tram.98.a:0 "Replace him."
-tram.98.e:0 "Kolchak may a loose cannon, but he's our loose cannon."
+tram.98.e:0 "Kolchak may be a loose cannon, but he's our loose cannon."
 
 tram.100.t:0 "Admiral Kolchak Murdered in Transamur"
 tram.100.d:0 "News about anti-Kolchak coup in Transamur has recently reached us. It appears that rebels have successfully killed Aleksandr Kolchak, our de-facto puppet leader of the Vladivostok regime, and General Wojciechowski has become the new dictator. Although he is less brave and ambitious than his former political rival, Wojciechowski still has great expansionist vision for Transamur. Perhaps we should replace him before he starts a geopolitical crisis?"
@@ -279,9 +279,9 @@ tram.105.a:0 "Excellent."
 tram.106.t:0 "Attacking the Petrograd Regime"
 tram.106.d:0 "Too long we've been waiting for a chance to liberate our fellow Russians from the tyranny of corrupted German lapdogs and Bolshevik utopists. Our boys are ready to fight, guns are loaded, and trucks are fuelled. Should we officially declare war on them?"
 tram.106.a:0 "To arms!"
-tram.106.b:0 "We need another month to prepare an invasion"
-tram.106.c:0 "We need another half-year to prepare an invasion"
-tram.106.e:0 "We need another year to prepare an invasion"
+tram.106.b:0 "We need another month to prepare an invasion."
+tram.106.c:0 "We need another half-year to prepare an invasion."
+tram.106.e:0 "We need another year to prepare an invasion."
 
 tram.107.t:0 "The Mongolian Issue"
 tram.107.d:0 "We have long had our eye on Mongolia, and now that things are more stable in our country it is time to decide: remove the Mongolian threat now, or continue to wait and prepare for a better time to strike?"
@@ -338,9 +338,9 @@ tram.119.b:0 "We are not their minions! To arms!"
 
 tram.120.t:0 "A Second in Command"
 tram.120.d:0 "An entire week has passed since the assassination of Kolchak and the successful military coup. Now, with the political atmosphere somewhat cooler, the opportunity has finally come for Wojciechowski to choose a deputy to help rule his military cabinet. There are three candidates for this post: the current head of government General Semyonov; young and ambitious general Pepelyaev and conservative Admiral Stark. Though fresh blood may gives us a new opportunities, serious ideological differences exist between Wojciechowski and the more liberal Pepelyaev and Stark will potentially lead to tensions later."
-tram.120.a:0 "Grigory Semyonov will stay in his office"
-tram.120.b:0 "Anatoly Pepelyaev, some fresh blood..."
-tram.120.c:0 "Georgy Stark, a renowned Admiral..."
+tram.120.a:0 "Grigoriy Semyenov will stay in his office."
+tram.120.b:0 "Anatoliy Pepelyaev, some fresh blood..."
+tram.120.c:0 "Georgiy Stark, a renowned Admiral..."
 
 tram.121.t:0 "White Refugees in Vladivostok"
 tram.121.d:0 "After their victory in the Second Russian Civil war, the Reds have begun to terrorise their internal enemies. Many former White forces and their supporters have managed to flee from mainland Russia to join our cause against the Bolsheviks taking advantage of a period of instability and anarchy in Siberia to flee east. Along with soldiers, several well-educated officers have arrived offering their services. No matter their prior political affiliations, together we must strike at the Red Hydra!"
@@ -381,28 +381,32 @@ tram.127.a:0 "Destination, [RUS.GetCapital]!"
 tram.127.b:0 "It's better than nothing!"
 tram.127.c:0 "What a rude person..."
 
-### Parties ###
-TRM_totalist_party:0 "극동 전체주의당"
-TRM_radical_socialist_party:0 "트란스아무르 사회주의당"
-TRM_syndicalist_party:0 "극동 생디칼리스트당
-TRM_social_democrat_party:0 "인민 극동당"
-TRM_social_liberal_party:0 "극동 민주연맹"
-TRM_market_liberal_party:0 "인민 자유당"
-TRM_social_conservative_party:0 "젬스키크라이당"
-TRM_authoritarian_democrat_party:0 "일본 제국 대표단"
-TRM_paternal_autocrat_party:0 "군사정부"
-TRM_national_populist_party:0 "제국 복건 연맹"
-TRM_totalist_party_long:0 "극동 전체주의당"
-TRM_radical_socialist_party_long:0 "트란스아무르 사회주의당"
-TRM_syndicalist_party_long:0 "극동 생디칼리스트당"
-TRM_social_democrat_party_long:0 "인민 극동당"
-TRM_social_liberal_party_long:0 "극동 민주연맹"
-TRM_market_liberal_party_long:0 "인민 자유당"
-TRM_social_conservative_party_long:0 "젬스키크라이당"
-TRM_authoritarian_democrat_party_long:0 "일본 제국 대표단"
-TRM_paternal_autocrat_party_long:0 "군사정부"
-TRM_national_populist_party_long:0 "제국 복건 연맹"
+tram.128.t:0 "Vladivostok Treaty"
+tram.128.d:0 "The war between Japan and Transamur seems to lose any reason it had before. Japanese troops, taking casualties form brave Russian defenders, were unable to conquer Vladivostok for so long time the entire perspective of taming Transamur may now cost more than Transamur can possibly give in return.\n\n[JAP.GetLeader] and [TRM.GetLeader] meets today in Vladivostok to sign a white peace treaty and end all hostilities between these two countries. It seems that Japan has lost its only tool to press Russia. People of Transamur are celebrating this outstanding victory."
+tram.128.trm:0 "Our little vengeance for 1905."
+tram.128.jap:0 "Curse you, traitors."
 
+### Parties ###
+TRM_totalist_party:0 "극동전체주의당"
+TRM_totalist_party_long:0 "극동전체주의당"
+TRM_syndicalist_party:0 "극동생디칼리스트당"
+TRM_syndicalist_party_long:0 "극동생디칼리스트당"
+TRM_radical_socialist_party:0 "트란스아무르 사회주의당"
+TRM_radical_socialist_party_long:0 "트란스아무르 사회주의당"
+TRM_social_democrat_party:0 "인민극동당"
+TRM_social_democrat_party_long:0 "인민극동당"
+TRM_social_liberal_party:0 "민주주의자"
+TRM_social_liberal_party_long:0 "민주주의자"
+TRM_market_liberal_party:0 "인민주의자"
+TRM_market_liberal_party_long:0 "인민주의자"
+TRM_social_conservative_party:0 "Zemchane"
+TRM_social_conservative_party_long:0 "Zemchane"
+TRM_authoritarian_democrat_party:0 "Delegatsiya"
+TRM_authoritarian_democrat_party_long:0 "Delegatsiya"
+TRM_paternal_autocrat_party:0 "Voennye"
+TRM_paternal_autocrat_party_long:0 "Voennye"
+TRM_national_populist_party:0 "Restavratory"
+TRM_national_populist_party_long:0 "Restavratory"
 
 ### Ideas ###
 TRM_dream:0 "Greater Transamur Ambitions"
@@ -412,7 +416,7 @@ TRM_kolchak_desc:0 "As a former admiral of the Russian Empire, Kolchak pays part
 TRM_JAP_MIL_MIS:0 "Japanese Military Advisers"
 TRM_JAP_MIL_MIS_desc:0 "Our regime is hardly a substantial military power, and much to our chagrin, relies to some extent on a number of Japanese military advisers and delegates to help boost the strength of our nascent armed forces."
 TRM_JAP_NAV_MIS:0 "Japanese Naval Advisers"
-TRM_JAP_NAV_MIS_desc:0 "Though Transamur professes to be a serious naval power in the north Pacific based in the major port of Vladivistok, in actual fact our warships are somewhat poorly maintained and the experience of our crews depressingly minimal. To make up for these shortfalls, the Empire of Japan has offered us naval advisers to help restore and expand our navy."
+TRM_JAP_NAV_MIS_desc:0 "Though Transamur professes to be a serious naval power in the north Pacific based in the major port of Vladivostok, in actual fact our warships are somewhat poorly maintained and the experience of our crews depressingly minimal. To make up for these shortfalls, the Empire of Japan has offered us naval advisers to help restore and expand our navy."
 TRM_JAP_INF_START:0 "Japanese Influence"
 TRM_JAP_INF_START_desc:0 "The Vladivostok regime has become hopelessly reliant on the Japanese Empire, and the tendrils of imperial influence dominate many institutions and aspects of Transamurian society."
 TRM_JAP_INF_TRADE:0 "Increased Japanese Influence"
@@ -627,7 +631,7 @@ TRM_Mil_ML_End:0 "Political Stabilisation"
 TRM_Mil_ML_End_desc:0 "The situation has finally stabilised. Nobody can argue against our legitimacy, our borders are protected by a strong and modern army. People have learnt how to be modest and not to waste their money and efforts on nonsensical things. Order has finally returned to Transamur."
 
 TRM_Yui_Focus:0 "The Japanese Lapdog"
-TRM_Yui_Focus_desc:0 "The Japanese have never been welcomed in Transamur. The news that Transamur is to be directly administered from Tokyo by General Mitsue has shocked many in Vladivistok and has caused great consternation amongst many fierce nationalists. It will take a long time and great effort to legitimise this new 'lapdog' regime in the eyes of the people."
+TRM_Yui_Focus_desc:0 "The Japanese have never been welcomed in Transamur. The news that Transamur is to be directly administered from Tokyo by General Mitsue has shocked many in Vladivostok and has caused great consternation amongst many fierce nationalists. It will take a long time and great effort to legitimise this new 'lapdog' regime in the eyes of the people."
 
 TRM_Yui_Jap:0 "Begin Japanisation"
 TRM_Yui_Jap_desc:0 "Now that our puppet regime stands on more solid ground, the time has come to take the first steps toward Japanisation of the whole region. A first wave of Japanese colonists has already arrived - made up of teachers, doctors and engineers; their qualifications will help us significantly."
@@ -657,7 +661,7 @@ TRM_Expand_RCW:0 "Lessons of the Amur Incident"
 TRM_Expand_RCW_desc:0 "We'd been harshly beaten at Amur river back in 1935. This defeat could help us to learn about how to deal better with regular Russian troops."
 
 TRM_FE_RUS:0 "Russia is Vulnerable"
-TRM_FE_RUS_desc:0 "Russia is now in state of civil war with Bolsheviks again. While they are busy in the West we can pressure them in the East. With Japanese protection we can demand our rightful soil back."
+TRM_FE_RUS_desc:0 "Russia is now in state of war. While they are busy in the West we can pressure them in the East. We must immediately purge them from our rightful lands."
 
 TRM_FE_SOV:0 "The Reds are Vulnerable"
 TRM_FE_SOV_desc:0 "The Reds have managed to win the civil war and now formally control the Russian Far East. But, in fact, they can barely control Petrograd. We must immediately purge them from our rightful lands."
@@ -707,18 +711,19 @@ TRM_Attack_Europe_desc:0 "The entire Russian state is under our command now. It 
 ### Tooltips ###
 TRM_sov:0 "The Reds are too weak to control the Russian Far East, we shall annex it.\n"
 TRM_change:0 "Transamur will achieve the ultimate goal it has been striving towards since 1925, formally replacing the Russian regime."
-TRM_Kolchak_hog_tooltip:0 "Alexandr Kolchak will replace Grigory Semyonov in his position as the Head of Government."
+TRM_Kolchak_hog_tooltip:0 "Alexandr Kolchak will replace Grigoriy Semyenov in his position as the Head of Government."
 TRM_agitation_tooltip:0 "The results of our efforts could be variable, and there is no guarantee of success."
 
 ### Flags ###
-TRM_control_FE:0 "러시아 극동은 우리의 것"
-TRM_sib_war:0 "시베리아에서의 전쟁"
-TRM_Kolchak_alive:0 "콜차크가 아직 트란스아무르를 이끌고 있음"
+TRM_control_FE:0 "The Russian Far East is ours"
+TRM_sib_war:0 "War in Siberia"
+TRM_Kolchak_alive:0 "Kolchak still leading the Transamur"
 TRM_Mil_coup:0 "A Military Cabinet has taken power"
 TRM_Dem_coup:0 "A Republic has been founded"
 TRM_Yui:0 "Yui Mitsue is in power"
 TRM_capital_nov:0 "Novosibirsk is the current capital"
 TRM_move_capital:0 "Moved capital from Vladivostok"
+TRM_militia_raised:0 "Militia units have been raised"
 
 ### Opinion Modifiers ###
 FNG_TRM_CUR1:0 "Currency deal with Transamur"
@@ -726,7 +731,7 @@ FNG_TRM_CUR2:0 "No currency deal with Transamur"
 TRM_FNG_DIP:0 "Close Ties"
 
 ### Decisions ###
-TRM_japanese_influence:0 "Japanese Presense in Vladivistok"
+TRM_japanese_influence:0 "Japanese Presense in Vladivostok"
 TRM_japanese_influence_desc:0 "Our position as Japanese puppet make us constantly fighting the growing Imperial Administration's influence."
 
 TRM_visit_from_japan:0 "A Visit From Our Masters"
@@ -737,3 +742,9 @@ TRM_zaibatsus_desc:0 "Our economic partnership with Japan attracts a lot of mone
 
 TRM_support_anti_japanese_rally:0 "Support Anti-Japanese Rally"
 TRM_support_anti_japanese_rally_desc:0 "Our special agents work closely with local anti-Japanese movement. We could fund them to hold a "spontaneous" rally which would weaken Japanese positions here."
+
+TRM_hold_vladivostok:0 "Hold Vladivostok from Japan"
+TRM_hold_vladivostok_desc:0 "We have little chances to figth back Japanese troops down to the ocean. Our only solution to survive is to hold Vladivostok long enough to make the whole point of this war non-sense in minds of Japanese people. As Russian proverb says: "Elusive Joe is elusive because nobody wants to find him". We should become this Joe to Japanese."
+
+TRM_raise_militia:0 "Raise Urban Militia in Vladivostok"
+TRM_raise_militia_desc:0 "The time has come to fight for our freedom. Patriotic citizens of Vladivostok are forming militia groups to defend their homeland. With little help from us we can organise them into auxiliary units to fill up the lines."
