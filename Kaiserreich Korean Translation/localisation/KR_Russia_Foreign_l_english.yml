@@ -1,13 +1,13 @@
 l_english:
 
 ### Tooltips ###
-RUS_whrvolunit_tt:0 "6개의 루테니아인 보병과 기병 자원병들이 형성될 것입니다."
-RUS_ukrvolunit_tt:0 "6개의 우크라이나인 보병과 기병 자원병들이 형성될 것입니다."
-RUS_monattunit_tt:0 "3개의 새로운 기병 사단이 형성될 것입니다."
-RUS_finindunit_tt:0 "새로운 보병 사단과 기병 사단이 소규모 항공전대와 함께 형성될 것입니다."
-RUS_azbrusunits_tt:0 "새로운 러시아인 사단이 형성될 것입니다."
-RUS_trmnavunits_tt:0 "새로운 함대가 블라디보스토크에 형성될 것입니다."
-RUS_ukrnavunits_tt:0 "새로운 함대가 세바스토폴에 형성될 것입니다."
+RUS_whrvolunit_tt:0 "6개의 루테니아인 보병과 기병 자원병들이 신고할 것입니다."
+RUS_ukrvolunit_tt:0 "6개의 우크라이나인 보병과 기병 자원병들이 신고할 것입니다."
+RUS_monattunit_tt:0 "3개의 새로운 기병 사단이 신고할 것입니다."
+RUS_finindunit_tt:0 "새로운 보병 사단과 기병 사단이 소규모 항공전대와 함께 신고할 것입니다."
+RUS_azbrusunits_tt:0 "새로운 러시아인 사단이 신고할 것입니다."
+RUS_trmnavunits_tt:0 "새로운 함대가 블라디보스토크에 편성될 것입니다."
+RUS_ukrnavunits_tt:0 "새로운 함대가 세바스토폴에 편성될 것입니다."
 
 ### Country Flags ###
 RUS_bypass_intervene_CHIJAP:0 "우리는 청과 함께 일본에 대항하여 싸우고 있습니다"
@@ -240,10 +240,7 @@ rusfor.22.a:0 "1936년 우크라이나의 국경을 복원한다!"
 rusfor.22.b:0 "영토의 대다수를 러시아에 합병하고 우크라이나를 복원시켜라!"
 rusfor.22.c:0 "우크라이나는 러시아의 일부가 될 것이다!"
 
-rusfor.23.t:0 "우크라이나의 독립"
-rusfor.23.d:0 "We have decided that it will be in Russia's best interest if an independent Ukraine emerges on the Russian border. How much independence will it really have?"
-rusfor.23.a:0 "괴뢰화하자!"
-rusfor.23.b:0 "완전한 독립이다!"
+#rusfor.23.t:0
 
 rusfor.24.t:0 "Independent Malorossia"
 rusfor.24.d:0 "Malorossia is once again independent under Russian supervision."
@@ -522,7 +519,7 @@ rusfor.81.c:0 "Attack the Cossacks!"
 rusfor.81.e:0 "Leave the Cossacks in peace."
 
 rusfor.82.t:0 "The Russians demand access!"
-rusfor.82.d:0 "The Russians are demanding the right to march through Cossack territories so that they can fight their war in the Caucasus!"
+rusfor.82.d:0 "The Russians are demanding the right to march through Cossack territories so that they can fight their war in the Caucasus! The Germans are pressuring us to accept, having no desire to get involved in a fight with the Russians in their current economic state."
 rusfor.82.a:0 "Allow them."
 rusfor.82.b:0 "Refuse!"
 
@@ -1153,21 +1150,17 @@ rusfor.1074.b:0 "영광스러운 소식이군!"
 rusfor.1075.t:0 "콘스탄티노플의 통합"
 rusfor.1075.d:0 "코사크인 및 러시아인들의 대규모 이주와 러시아 군정 사령관의 정당하고 안전한 행정 수행 덕분에, 콘스탄티노플 시민들은 마침내 '제2의 로마'에 대한 러시아의 정통성을 받아들였습니다."
 rusfor.1075.a:0 "러시아의 차르그라드여, 영원하라!"
-sino_russian_alliance:0 "Sino-Russian Alliance"
-eurasian_alliance:0 "Eurasian Alliance"
 
-rusfor.1076.t:0 "The Sino-Japanese War"
-rusfor.1076.d:0 "Japan and Qing China are at war. Russia has traditionally had interests on expanding into areas currently under the authority of both of these countries. We could now use this conflict to our advantage, possibly by backing one side against the other."
-rusfor.1076.a:0 "We will send aid to China."
-rusfor.1076.b:0 "We shall use the opportunity to claim Chinese Central Asia!"
-rusfor.1076.c:0 "We shall become involved in the war ourselves."
+rusfor.1076.t:0 "중일전쟁"
+rusfor.1076.d:0 "일본과 청나라가 전쟁을 시작했습니다. 러시아는 전통적으로 두 국가의 영향아래 있는 지역으로 확장하는 것에 흥미를 가지고 있었습니다. 우리는 두 국가의 충돌로 인해 이점을 갖게 되었고, 한쪽의 편에 서서 다른 한쪽의 뒤를 칠 수 있을겁니다."
+rusfor.1076.a:0 "중국에 원조를 보낼 것이다."
+rusfor.1076.b:0 "중국의 중앙아시아 지역에 영유권을 주장할 것이다!"
+rusfor.1076.c:0 "직접 전쟁에 개입할 것이다."
 
-rusfor.1077.t:0 "Intervention in the Sino-Japanese War"
-rusfor.1077.d:0 "This is a risky strategy, but one which may reap great rewards for Russia! Which side should we join?"
-rusfor.1077.a:0 "We shall attempt to ally with China against Japan."
-rusfor.1077.b:0 "We shall attempt to ally with Japan against China."
-rusfor.1077.c:0 "We will attack Japan by ourselves."
-rusfor.1077.e:0 "We will attack China by ourselves."
+rusfor.1077.t:0 "중일전쟁 개입"
+rusfor.1077.d:0 "이것은 매우 위험한 전략이지만, 러시아에게 큰 보상을 가져다 줄 수 있을겁니다. 어느 편에 서야할까요?"
+rusfor.1077.a:0 "일본을 공격할 것이다."
+rusfor.1077.b:0 "중국을 공격할 것이다."
 
 rusfor.1078.t:0 "Russia and China fight Japan"
 rusfor.1078.d:0 "We are both engaged in a war against the vile Japanese and their imperialistic designs, perhaps it would be a good idea for us to cooperate more closely?"
@@ -1175,15 +1168,9 @@ rusfor.1078.a:0 "Attempt to join the Qing Chinese alliance."
 rusfor.1078.b:0 "We will send aid to China."
 rusfor.1078.c:0 "We will fight the Japanese alone!"
 
-rusfor.1079.t:0 "The Russians offer an alliance"
-rusfor.1079.d:0 "The Russians have attacked China and are offering to cooperate with us militarily as long as we acknowledge their rights over Chinese Central Asia."
-rusfor.1079.a:0 "We accept, Russia shall be a fine addition to our alliance!"
-rusfor.1079.b:0 "No, we cannot trust the Russians!"
+#rusfor.1079 removed
 
-rusfor.1080.t:0 "The Russians offer an alliance"
-rusfor.1080.d:0 "The Russians have attacked Japan and are offering to cooperate with us militarily as long as we acknowledge their rights over the former Russian Far East."
-rusfor.1080.a:0 "Together we will defeat Japan!"
-rusfor.1080.b:0 "No, we cannot trust the Russians!"
+#rusfor.1080 removed
 
 rusfor.1081.t:0 "Russian aid arrives"
 rusfor.1081.d:0 "The Russians have sent us a considerable amount of money and military technology in order to help us in our struggle against our mutual enemies, the Empire of Japan!"
@@ -1197,26 +1184,16 @@ rusfor.1082.b:0 "Send a detachment of troops to Vladivostok to dissolve Transamu
 rusfor.1083.t:0 "The Russians claim Transamur!"
 rusfor.1083.d:0 "Following the re-establishment of Russian control over the Trans-Siberian railroad the Russians have announced that the Transmur-Primorsk region is rightfully a Russian province! Can we afford to oppose an increasingly powerful Russia for the sake of Transamur or should we concentrate on China?"
 rusfor.1083.a:0 "Send a warning, Transamur is our protectorate!"
-rusfor.1083.b:0 "A strong Russia would be a better ally than little Transamur."
-rusfor.1083.c:0 "Abandon Transamur to its fate."
+rusfor.1083.b:0 "Abandon Transamur to its fate."
 
 rusfor.1084.t:0 "Russian Troops arrive in Vladivostok!"
 rusfor.1084.d:0 "Following the re-establishment of Russian control over the Trans-Siberian railroad the Russians have decided to enlist the support of some rebellious Transamurian capitalists in order to establish control over the Primorsk territory by force! Can we afford to oppose an increasingly powerful Russia for the sake of Transamur or should we concentrate on China?"
 rusfor.1084.a:0 "We shall defend Transamur!"
-rusfor.1084.b:0 "A strong Russia would be a better ally than little Transamur."
-rusfor.1084.c:0 "Abandon Transamur to its fate."
+rusfor.1084.b:0 "Abandon Transamur to its fate."
 
-rusfor.1085.t:0 "Japan offers us an alliance!"
-rusfor.1085.d:0 "A most unexpected turn of events! The Japanese have decided that their interests lie in China rather than Siberia and have offered to acknowledge our control over Transamur, and offer us Chinese Central Asia as a sphere of influence, if we help them in their military operations against the Chinese."
-rusfor.1085.a:0 "That is an excellent idea!"
-rusfor.1085.b:0 "Okay, but we demand Northern Sakhalin as well!"
-rusfor.1085.c:0 "We cannot trust the treacherous Japanese!"
+#rusfor.1085 removed
 
-rusfor.1086.t:0 "The Russians demand Sakhalin!"
-rusfor.1086.d:0 "The Russians have agreed in principle to an alliance aimed against China, but as a precondition of support they want the return of territories taken by Japan during the Russian civil war."
-rusfor.1086.a:0 "Very well, we are friends now."
-rusfor.1086.b:0 "No, these territories are rightfully Japanese!"
-rusfor.1086.c:0 "How dare they insult Japan like this? Attack!"
+#rusfor.1086 removed
 
 rusfor.10877.t:0 "The Russian army enters our territory"
 rusfor.10877.d:0 "Not fearing the threat of Japanese involvement since our liberation the Russians have sent an army to Vladivostok with the hope to annex our territory. How shall we react to this agression?"
@@ -1274,15 +1251,14 @@ rusfor.1095.c:0 "We shall send in the army!"
 rusfor.1096.t:0 "Russia has taken hold of Transamur!"
 rusfor.1096.d:0 "Russia has managed to establish its control over the Transamur Republic. Can we accept this reduction in the Co-prosperity Sphere?"
 rusfor.1096.a:0 "We have more important things to fight over than this!"
-rusfor.1096.b:0 "A strong Russia would be a better ally than little Transamur."
-rusfor.1096.c:0 "We shall keep an eye on Transamur."
-rusfor.1096.e:0 "How dare they insult Japan like this? Attack!"
+rusfor.1096.b:0 "We shall keep an eye on Transamur."
+rusfor.1096.c:0 "How dare they insult Japan like this? Attack!"
 
-rusfor.1097.t:0 "Claiming Manchuria"
+rusfor.1097.t:0 "만주 영유권 주장"
 rusfor.1097.d:0 "We managed to take Transamur back from Japanese claws but our expansion in the far east isn't finished, we used to have a port in the bay of Beijing from which to trade in Asia but the Japanese stole it during our civil war, we could try to recover it for the sake of the Motherland's glory. And passing by we could also claim the rest of Manchuria, some voices are even pledging to abandon Port Arthur and to not anger the Japanese. What shall we do?"
-rusfor.1097.a:0 "Only claim Manchuria!"
-rusfor.1097.b:0 "Claim Manchuria and Port Arthur!"
-rusfor.1097.c:0 "Try to reach to an agreement with Japan to have them cede us Port Arthur peacefully"
+rusfor.1097.a:0 "만주 지역만 영유권을 주장한다!"
+rusfor.1097.b:0 "만주와 포트아서의 영유권을 주장한다!"
+rusfor.1097.c:0 "일본과 협정을 맺어서 포트아서를 평화적으로 이양받자"
 
 rusfor.1098.t:0 "Russia claims Manchuria!"
 rusfor.1098.d:0 "The bold Russians claimed Manchuria as their rightful territory, this outraged numerous military and civil officials in our country. How shall we react to this insult?"
@@ -1544,7 +1520,7 @@ rusfor.1150.d:0 "The Russian government, under direct pressure from nationalist 
 rusfor.1150.a:0 "We must obey."
 
 rusfor.1151.t:0 "Reintroduction of the Russian language"
-rusfor.1151.d:0 "The reintegration of our state into Russia continues with the reintroduction of the Russian language as the second official language beside Belorussian."
+rusfor.1151.d:0 "The reintegration of our state into Russia continues with the reintroduction of the Russian language as the second official language beside Bielarusian."
 rusfor.1151.a:0 "We must obey."
 
 rusfor.1152.t:0 "Reintroduction of the Russian language"
@@ -1552,7 +1528,7 @@ rusfor.1152.d:0 "The reintegration of our state into Russia continues with the r
 rusfor.1152.a:0 "We must obey."
 
 rusfor.1153.t:0 "Integration of Belarus"
-rusfor.1153.d:0 "Our integration policies in the Belorussian state were successful and Belarus is prepared to be directly absorbed into the Russian state."
+rusfor.1153.d:0 "Our integration policies in the White Ruthenian state were successful and Belarus is prepared to be directly absorbed into the Russian state."
 rusfor.1153.a:0 "Integrate Belarus!"
 rusfor.1153.b:0 "Belarus remains independent!"
 
