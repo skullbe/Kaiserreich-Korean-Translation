@@ -1311,6 +1311,8 @@ ottaxis.102.b:0 "우리는 우리의 몫에 만족한다"
 ottaxis.103.t:0 "[From.GetNameDefCap]이(가) 이라크를 요구하다"
 ottaxis.103.nohejazhasegypt:0 "우리가 바그다드와 바스라를 합병한 것에 격분하여, [From.GetNameDefCap]은(는) 자신들에게 즉시 이 영토들을 양도할것을 요구했습니다. 이 상황에서 우리가 스스로를 방어할 수 있는 유일한 방법은 이집트의 도움을 요청하는 것입니다."
 ottaxis.103.d.hashejazhasegypt:0 "우리가 바그다드와 바스라를 합병한 것에 격분하여, [From.GetNameDef]은(는) 자신들에게 즉시 이 영토들을 양도하거나 결과를 직면해야 한다고 요구했습니다. 이 상황에서 우리가 스스로를 방어할 수 있는 유일한 방법은 이집트와 그 동맹국에 도움을 요청하는 것입니다."
+ottaxis.103.d.nohejaznoegypt:0 "Outraged by our annexation of Baghdad and Basra, [From.GetNameDef] has demanded we transfer these territories at once or face the consequences. It seems we are betrayed by our former allies on all sides."
+ottaxis.103.d.hashejaznoegypt:0 "Outraged by our annexation of Baghdad and Basra, [From.GetNameDef] has demanded we transfer these territories at once or face the consequences. Sadly, calling on our former Egyptian allies for aid is no longer an option."
 ottaxis.103.a:0 "이집트의 지원을 요청하자"
 ottaxis.103.b:0 "우리는 [PER.GetNameDef]을(를) 화나게 해선 안된다"
 
