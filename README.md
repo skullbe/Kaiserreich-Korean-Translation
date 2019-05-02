@@ -1,6 +1,6 @@
 ○ 0.8.6 업데이트 호환 작업 중입니다
 - KR_Uruguay_l_english.yml까지 완료됨
-- KR_Equiments_l_english.yml 과 KR_Leaders_l_english.yml은 변경 사항이 많은 관계로 
+- KR_Equiments_l_english.yml 과 KR_Leaders_l_english.yml은 보류상태
 
 ################################################################################
 
