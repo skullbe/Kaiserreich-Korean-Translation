@@ -23,3 +23,9 @@ navev.2.a:0 "훌륭해!"
 navev.3.t:0 "해군 기반시설 준비완료"
 navev.3.d:0 "우리의 노력이 결실을 보았고, 우리는 더 크고 더 강력한 함선 건조 작업에 착수할 수 있습니다."
 navev.3.a:0 "훌륭해!"
+
+### Other ###
+modifier_experience_gain_SH_battleship_training_factor:0 ""
+modifier_experience_gain_SH_battleship_combat_factor:0 ""
+modifier_experience_gain_heavy_carrier_training_factor:0 ""
+modifier_experience_gain_heavy_carrier_combat_factor:0 ""
