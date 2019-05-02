@@ -57,6 +57,9 @@ NIC_US_begone:0 "The United States and its influence has been removed."
 NIC_moreno_sandino_together_flag:0 "Sandino and Moreno secured their power together."
 NIC_sandino_attack_flag:0 "Sandino is currently resisting the government."
 NIC_east_no_conscription:0 "We've listened to the people and given up on eastern recruitment."
+NIC_sacasa_has_started_gathering_mercs:0 "Sacasa has started to gather Mercenaries"
+
+
 
 ### Opinion Modifiers ###
 NIC_revolutionary_allies:0 "Allies in the Revolution"
@@ -797,8 +800,8 @@ nicdec.8.a:0 "We'll need to keep an eye on the Liberal camp"
 nicdec.8.b:0 "The Socialists could make a move..."
 
 nicdec.9.t:0 "Our Survival"
-nicdec.9.d:0 "Through sheer determination and the people's belief in us, our country has managed to survive the war against Nicaragua. With our country at peace once again, we must prepare for the future. This conflict is surely only one in the grand scheme of the new way Central America will work with the United States. We'll need to prepare our country and people for more wars in the future."
-nicdec.9.a:0 "The atmosphere of Central America is intense"
+nicdec.9.d:0 "Over the past few months, Nicaraguan attempts to infiltrate our country and catalyze a revolution have failed miserably. The hostile regime in Tegucigalpa must now answer to its angered populace while our own government is now more entrenched than ever before."
+nicdec.9.a:0 "The atmosphere of Central America is intense."
 
 nicdec.10.t:0 "온두라스가 몰락하다"
 nicdec.10.d:0 "Honduras has officially surrendered to us, resulting in the fall of their previous regime that fought against us, and the raising of a new and better Honduras, directly aligned to us. Our great success in this has greatly increased the popularity of the ruling government, making everyone believe that the time until the rest of Central America is liberated won't be long."
