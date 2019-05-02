@@ -1,8 +1,15 @@
-﻿l_english:
+l_english:
 
 ### Ideas ###
 ins_exile:0 "네덜란드 망명정부"
 ins_exile_desc:0 "네덜란드 정부가 본토에서 성공적으로 탈출하여, 동인도제도에 망명정부를 구성하였습니다."
+
+### Flags ###
+holex_indys_delight:0 "빌헬미나 직속통치"
+holex_ww2_gov_in_exile:0 "ARP가 망명정부 주도"
+
+### Focus Trees ###
+dut_in_ex:0 "네덜란드 망명정부"
 
 ### Events ###
 hol_in_ex.1.t:0 "네덜란드 망명정부"
