@@ -11,6 +11,7 @@ LOGO_MAIN_MENU_LINK:0 "여기를 눌러서 패치노트를 확인하세요"
 ### Difficulty ### 
 custom_diff_strong_ger:0 "독일 제국 강화"
 custom_diff_strong_frasri:0 "인터내셔널 강화"
+custom_diff_strong_entente:0 "협상국 강화"
 custom_diff_strong_eng:0 "브리튼 연방 강화"
 custom_diff_strong_can:0 "캐나다 강화"
 custom_diff_strong_rus:0 "러시아 강화"
