@@ -73,10 +73,10 @@ ministers_cannot_be_replaced:0 "장관 재임명 불가"
 ### Factions ###
 Mittelmacht:0 "제국 조약"
 Entente:0 "협상국"
-Belgrade_Pact:0 "베오그라드 조약 기구"
+Belgrade_Pact:0 "베오그라드 조약"
 Third_International:0 "제3인터내셔널"
-Mongolian_Alliance:0 "대 칸국"
-Scandinavian_Pact:0 "스칸디나비아 조약 기구"
+Mongolian_Alliance:0 "대칸국"
+Scandinavian_Pact:0 "스칸디나비아 조약"
 Mediterranean_Bloc:0 "지중해 연합"
 
 ### Other ###
@@ -108,7 +108,7 @@ democratic_win_acw_threat:0 "제2차 미국 내전에서 민주주의가 살아�
 macarthur_wins_threat:0 "맥아더가 제2차 미국 내전에서 승리함"
 aus_wins_acw_threat:0 "미주 연합이 제2차 미국 내전에서 승리함"
 csa_wins_acw_threat:0 "노동 연맹이 제2차 미국 내전에서 승리함"
-belgrade_pact_threat:0 "베오그라드 조약 기구가 창설됨"
+belgrade_pact_threat:0 "베오그라드 조약이 창설됨"
 
 ### Name and Description ###
 BM_HISTORY_TITLE:0 "간략한 역사"
