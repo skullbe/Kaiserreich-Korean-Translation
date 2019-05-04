@@ -1,30 +1,30 @@
-﻿l_english:
+l_english:
 
 ### Parties ###
 GEX_totalist_party:0 "적군 민병대"
 GEX_totalist_party_long:0 "적군 민병대"
 GEX_radical_socialist_party:0 "무장 노동조합 총연맹"
 GEX_radical_socialist_party_long:0 "무장 노동조합 총연맹"
-GEX_syndicalist_party:0 "인터내셔널 독일 지부/생디칼리스트 당"
-GEX_syndicalist_party_long:0 "인터내셔널 독일 지부/생디칼리스트 당"
+GEX_syndicalist_party:0 "인터내셔널 독일 지부/생디칼리스트당"
+GEX_syndicalist_party_long:0 "인터내셔널 독일 지부/생디칼리스트당"
 GEX_social_democrat_party:0 "독일 사회민주당"
 GEX_social_democrat_party_long:0 "독일 사회민주당"
 GEX_social_liberal_party:0 "진보인민당"
 GEX_social_liberal_party_long:0 "진보인민당"
-GEX_market_liberal_party:0 "국민자유당"
-GEX_market_liberal_party_long:0 "국민자유당"
+GEX_market_liberal_party:0 "국가자유당"
+GEX_market_liberal_party_long:0 "국가자유당"
 GEX_social_conservative_party:0 "중앙당"
 GEX_social_conservative_party_long:0 "중앙당"
 GEX_authoritarian_democrat_party:0 "독일 보수당"
 GEX_authoritarian_democrat_party_long:0 "독일 보수당"
 GEX_paternal_autocrat_party:0 "독일 조국당"
 GEX_KAI_paternal_autocrat_party:0 "황제 충성당"
-GEX_AFR_paternal_autocrat_party:0 "비상 정권"
+GEX_AFR_paternal_autocrat_party:0 "비상 정부"
 GEX_paternal_autocrat_party_long:0 "독일 조국당"
 GEX_KAI_paternal_autocrat_party_long:0 "황제 충성 궁정당"
 GEX_AFR_paternal_autocrat_party_long:0 "비상 정부"
-GEX_national_populist_party:0 "범독일 연맹"
-GEX_national_populist_party_long:0 "범독일 연맹"
+GEX_national_populist_party:0 "범독일연맹"
+GEX_national_populist_party_long:0 "범독일연맹"
 
 ### Focuses ###
 GEX_darkest_hour:0 "가장 암울한 시기"
@@ -76,7 +76,7 @@ GEX_askari2:0 "아프리카 군단 확장"
 GEX_askari3:0 "아스카리의 복무와 권리"
 GEX_askari4:0 "타협은 없다!"
 GEX_way_home_idea:0 "조국으로의 접근"
-GEX_way_home_idea_desc:0 "우리는 새로운 제국해군을 만드는데 상당한 국가적인 지원을 하고 있습니다. 대형 함선을 쉽게 생산할 수 있는 능력은 부족한 반면, 소형 함선의 생산량은 크게 증가하였습니다."
+GEX_way_home_idea_desc:0 "우리는 새로운 제국 해군을 만드는데 상당한 국가적인 지원을 하고 있습니다. 대형 함선을 쉽게 생산할 수 있는 능력은 부족한 반면, 소형 함선의 생산량은 크게 증가하였습니다."
 
 ### Tooltips ###
 GEX_fled_europe:0 "독일이 유럽에서 쫓겨남\n"
