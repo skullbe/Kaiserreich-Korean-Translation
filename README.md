@@ -1,5 +1,5 @@
 ○ 0.8.6 업데이트 호환 작업이 완료되었습니다
-- KR_Equiments_l_english.yml 과 KR_Leaders_l_english.yml 제외
+- KR_Equiments_l_english.yml 제외
 
 ################################################################################
 
