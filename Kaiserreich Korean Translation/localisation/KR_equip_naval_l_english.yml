@@ -8,15 +8,15 @@ l_english:
 
 ### Folders ###
 escort_ships_folder:0 "호위함"
-escort_ships_folder_desc:0 "Escort ships and modules, minelaying, and naval fire and damage control."
+escort_ships_folder_desc:0 "호위함과 부품들, 기뢰부설, 함포지원 그리고 수습책입니다."
 capital_ships_folder:0 "주력함"
-capital_ships_folder_desc:0 "Capital ships and modules."
+capital_ships_folder_desc:0 "주력함과 부품들입니다."
 
 ### Technologies ###
 submarine:0 "잠수함"
-submarine_desc:0 "Submarines are stealthy raiding vessels. Heavy submarines are larger and more powerful, with a longer operational range, and some surface-to-surface and shore bombardment capability."
+submarine_desc:0 "잠수함은 선박을 공격하기 위해 설계된 은밀한 함선입니다. 중잠수함은 크고 더욱 강력하며 넓은 작전반경을 가지고 있고, 일부 지대지 공격과 해안공격 능력을 가지고 있습니다."
 
-both_cruisers_desc:0 "Light Cruiser - A light screening vessel. Its primary duty is to shield capital ships from enemy light ships but can also unleash powerful torpedoes that can hurt bigger ships.\n\nHeavy Cruiser - A large armoured cruiser that is pretty flexible. A good choice for nations who can't afford to build larger capital ships."
+both_cruisers_desc:0 "경순양함 - A light screening vessel. Its primary duty is to shield capital ships from enemy light ships but can also unleash powerful torpedoes that can hurt bigger ships.\n\nHeavy Cruiser - A large armoured cruiser that is pretty flexible. A good choice for nations who can't afford to build larger capital ships."
 cruisers_desc:0 "A medium screening vessel. Its primary duty is to shield capital ships from enemy light ships, but it can also unleash powerful torpedoes that can hurt bigger ships."
 
 light_cruiser:0 "순양함"
@@ -63,42 +63,42 @@ nav_av_three:0 "진보된 해군 항공 결정"
 ## Generic Ships 
 #ship_hull_submarine_0:0 "Experimental Submarine Hull"
 #ship_hull_submarine_0:0 "While there had been several earlier attempts to create submersible weapons of war, the first successful and reproducible submersible warships were produced in the early 1900s. Only capable of brief submersion, and very lightly armed, these designs were more of a proof of concept than real combat-capable warships."
-ship_hull_submarine_1:0 "Pre Weltkrieg Submarine Hull"
+ship_hull_submarine_1:0 "세계대전 이전 잠수함 선체"
 ship_hull_submarine_1_desc:0 "The first submersible warships actually capable of effective combat actions, these designs were significant improvements over their predecessors. With diesel-electric engines replacing the primarily petrol-electric engines of the first submarines, they had greatly improved range and surface speed. In combat with enemy warships, they acted mainly as submersible light torpedo boats, but lacked the submerged speed or endurance to remain underwater for more than relatively brief periods. These were the submarines that were used by the major naval powers during the Weltkrieg."
-weltkrieg_submarine_hull_nonmtg:0 "Weltkrieg Submarine Hull"
+weltkrieg_submarine_hull_nonmtg:0 "세계대전 잠수함 선체"
 weltkrieg_submarine_hull_nonmtg_desc:0 "With increased range and open-ocean capabilities, these ships incorporated the lessons of the Weltkrieg, becoming more able to serve roles such as fleet scouting and long-range patrols, as well as being more potent in tasks such as merchant ship hunting."
-weltkrieg_submarine_hull:0 "Weltkrieg Submarine Hull"
+weltkrieg_submarine_hull:0 "세계대전 잠수함 선체"
 weltkrieg_submarine_hull_desc:0 "With increased range and open-ocean capabilities, these ships incorporated the lessons of the Weltkrieg, becoming more able to serve roles such as fleet scouting and long-range patrols, as well as being more potent in tasks such as merchant ship hunting."
-ship_hull_submarine_2:0 "Weltkrieg Submarine Hull"
+ship_hull_submarine_2:0 "세계대전 잠수함 선체"
 ship_hull_submarine_2_desc:0 "With increased range and open-ocean capabilities, these ships incorporated the lessons of the Weltkrieg, becoming more able to serve roles such as fleet scouting and long-range patrols, as well as being more potent in tasks such as merchant ship hunting."
-ship_hull_submarine_3:0 "Interwar Submarine Hull" #Early Interwar
+ship_hull_submarine_3:0 "전간기 점수함 선체" #Early Interwar
 ship_hull_submarine_3_desc:0 "Significantly larger than preceding submarines, some of these designs were of 'cruiser' type, designed for long-range independent operations in commerce raiding and intended to be better equipped to handle combat with enemy light warships while surfaced. As such, they carried heavier gun armament, and had improved surface speed. Their submerged capabilities, however, remained limited."
-ship_hull_submarine_4:0 "Improved Submarine Hull" #Late Interwar
+ship_hull_submarine_4:0 "개선된 잠수함 선체" #Late Interwar
 ship_hull_submarine_4_desc:0 "The evolution of the 'cruiser' submarine designs, some of these warships took those ideas further, with larger guns and a greater emphasis on surface abilities, while others began to look in the other direction, seeking to increase underwater capabilities and performance."
-ship_hull_submarine_5:0 "Advanced Submarine Hull"
+ship_hull_submarine_5:0 "진보된 잠수함 선체"
 ship_hull_submarine_5_desc:0 "The gains made by some earlier designs in extending underwater range, speed, and overall abilities, led to the turn in submarine development away from 'cruiser' types and back towards vessels with a greater emphasis on underwater capabilities. Vastly improved over earlier types, these submarines carried potent payloads of torpedoes and were a legitimate threat to almost all surface ships. However, they were still limited in submerged duration, range, and speed, and remained vulnerable when surfaced, especially to aircraft."
-ship_hull_submarine_6:0 "Modern Submarine Hull"
+ship_hull_submarine_6:0 "현대 잠수함 선체"
 ship_hull_submarine_6_desc:0 "With greatly increased battery capacity, advanced systems to refresh air while still submerged, and overall refined designs, these were the first submarines intended to be able to remain submerged for most of the duration of their time at sea. As such, they marked a massive shift in naval warfare, and the ascendancy of submarines to being true terrors. Such warships offered the ability to dominate the oceans to those nations that developed and deployed them."
 
-ss_utility_one:0 "Extra Fuel Tanks"
+ss_utility_one:0 "확장 연료 탱크"
 ss_utility_one_desc:0 ""
-ss_utility_two:0 "Basic Snorkel"
+ss_utility_two:0 "기본 스노클"
 ss_utility_two_desc:0 "A simple airtube running from the engine room to the control tower. Extended, it allows the submarine to run its engines and charge its engines while still submerged.\n\nMounting this module on §YSubmarines§! reduces their §YVisibility§!, making them harder to detect."
-ss_utility_three:0 "Improved Snorkel"
+ss_utility_three:0 "개선된 스노클"
 ss_utility_three_desc:0 "An improved design prevents any water from being sucked into the engines and also reduces the radar echo of the snorkel head.\n\nMounting this module on §YSubmarines§! reduces their §YVisibility§!, making them harder to detect."
-ss_utility_four:0 "Improved Submarine Engine"
+ss_utility_four:0 "개선된 잠수함 엔진"
 ss_utility_four_desc:0 ""
 
-ss_torpedo_module_one:0 "Post Weltkrieg Torpedo Tubes"
+ss_torpedo_module_one:0 "세계대전 이후 어뢰 발사관"
 ss_torpedo_module_one_desc:0 ""
-ss_torpedo_module_two:0 "Interwar Torpedo Tubes" #Early Interwar
+ss_torpedo_module_two:0 "전간기 어뢰 발사관" #Early Interwar
 ss_torpedo_module_two_desc:0 "Stronger motors allow more tubes to be installed in a single mount and be trained on target faster.\n\nMounting this module on §YLight Ships§! or §YCruisers§! allows them to do significant damage to enemy §YCapital Ships§!."
-ss_torpedo_module_three:0 "Improved Torpedo Tubes" #Late Interwar
+ss_torpedo_module_three:0 "개선된 어뢰 발사관" #Late Interwar
 ss_torpedo_module_three_desc:0 "Larger diameter tubes allow for bigger torpedoes with heavier warheads.\n\nMounting this module on §YLight Ships§! or §YCruisers§! allows them to do significant damage to enemy §YCapital Ships§!."
-ss_torpedo_module_four:0 "Advanced Torpedo Tubes"
+ss_torpedo_module_four:0 "진보된 어뢰 발사관"
 ss_torpedo_module_four_desc:0 "Powerful compressed air charges allow heavier torpedoes to be launched at higher speeds.\n\nMounting this module on §YLight Ships§! or §YCruisers§! allows them to do significant damage to enemy §YCapital Ships§!."
 
-torpedo_tech_one:0 "Wet-heater Torpedo"
+torpedo_tech_one:0 "wet heater 어뢰"
 torpedo_tech_one_desc:0 "A further improvement from normal air-compressed torpedo was the use of water to cool the combustion chamber of the fuel-burning torpedo. This not only solved heating problems so more fuel could be burned but also allowed additional power to be generated by feeding the resulting steam into the engine together with the combustion products. Torpedoes with such a propulsion system became known as wet heaters"
 torpedo_tech_two:0 "Compressed-oxygen Torpedo"
 torpedo_tech_two_desc:0 "Since the amount of fuel that can be burned by a torpedo engine (i.e. wet engine) is limited by the amount of oxygen it can carry, compressed-oxygen torpedo which used pure compressed oxygen instead of compressed air had performance unmatched by any contemporary torpedo in service."
@@ -126,20 +126,20 @@ ship_hull_light_5_desc:0 "With the start of the Second Weltkrieg the world's nav
 ship_hull_light_6:0 "Modern Light Ship Hull"
 ship_hull_light_6_desc:0 "Near the end of the Second Weltkrieg, the navies of the world were forced to adapt: new submarines could stay submerged for almost indefinite periods of time, carriers were loaded full of planes more than capable of destroying capital ships, and big gun cruisers were quickly becoming irrelevant in the face of carriers and submarines. The future role of the escort for the main fleet was being taken over almost solely by destroyers in the minds of most naval theorists, with dual purpose rapid firing turrets destroying any planes that dare cross her path in an attempt to dive bomb her. The displacement of these vessels rose as well, often coming up to 3,000 tons as designers loaded them with more and more anti-aircraft weapons, as well as more primary guns."
 
-dd_torpedo_module_one:0 "Post Weltkrieg Torpedo Launchers"
+dd_torpedo_module_one:0 "세계대전 이후 어뢰 발사기"
 dd_torpedo_module_one_desc:0 ""
-dd_torpedo_module_two:0 "Interwar Torpedo Launchers"
+dd_torpedo_module_two:0 "전간기 어뢰 발사기"
 dd_torpedo_module_two_desc:0 "Stronger motors allow more tubes to be installed in a single mount and be trained on target faster.\n\nMounting this module on §YLight Ships§! or §YCruisers§! allows them to do significant damage to enemy §YCapital Ships§!."
-dd_torpedo_module_three:0 "Improved Torpedo Launchers"
+dd_torpedo_module_three:0 "개선된 어뢰 발사기"
 dd_torpedo_module_three_desc:0 "Larger diameter tubes allow for bigger torpedoes with heavier warheads.\n\nMounting this module on §YLight Ships§! or §YCruisers§! allows them to do significant damage to enemy §YCapital Ships§!."
-dd_torpedo_module_four:0 "Advanced Torpedo Launchers"
+dd_torpedo_module_four:0 "진보된 어뢰 발사기"
 dd_torpedo_module_four_desc:0 "Powerful compressed air charges allow heavier torpedoes to be launched at higher speeds.\n\nMounting this module on §YLight Ships§! or §YCruisers§! allows them to do significant damage to enemy §YCapital Ships§!."
 
-dd_utility_module_one:0 "Smoke Generators"
+dd_utility_module_one:0 "훈연 발생 장치"
 dd_utility_module_one_desc:0 "Some minor modifications to the engines and smokestacks of light and medium ships allow them to make a lot of smoke to avoid or break contact with the enemy."
-dd_utility_module_two:0 "Hydrophones"
+dd_utility_module_two:0 "수중 청음기"
 dd_utility_module_two_desc:0 "A basic set of hydrophones allows tracking of underwater targets through detecting the sound they make.\n\nMounting this module in an §YElectronics Slot§! on §YLight Ships§! or §YCruisers§! will help them detect enemy §YSubmarines§!."
-dd_utility_module_three:0 "Active Sonar"
+dd_utility_module_three:0 "능동 소나"
 dd_utility_module_three_desc:0 "Using modulated sound waves, this system can accurately measure bearing and distance to a submerged target.\n\nMounting this module in an §YElectronics Slot§! on §YLight Ships§! or §YCruisers§! will help them detect enemy §YSubmarines§!."
 dd_utility_module_four:0 "Degaussed Hulls"
 dd_utility_module_four_desc:0 "By installing powerful electro-magnetic coils, a ship's magnetic signature can be dramatically reduced, making it far less vulnerable to magnetic mines."
