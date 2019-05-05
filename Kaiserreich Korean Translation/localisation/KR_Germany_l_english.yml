@@ -291,8 +291,8 @@ GER_AFR_paternal_autocrat_party:0 "비상 정부"
 GER_paternal_autocrat_party_long:0 "독일 조국당"
 GER_KAI_paternal_autocrat_party_long:0 "황제 충성 궁정당"
 GER_AFR_paternal_autocrat_party_long:0 "비상 정부"
-GER_national_populist_party:0 "범독일연맹"
-GER_national_populist_party_long:0 "범독일연맹"
+GER_national_populist_party:0 "전독일연맹"
+GER_national_populist_party_long:0 "전독일연맹"
 
 ### Decisions ###
 french_occupation_decisions:0 "프랑스 점령"
