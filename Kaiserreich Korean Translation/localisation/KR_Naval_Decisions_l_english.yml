@@ -71,7 +71,7 @@ naval_catchup_dreadnought_techs:0 "다음 기술을 추가합니다: £SH_battle
 
 Naval_catchup_submarines:0 "잠수함 기술개발"
 Naval_catchup_submarines_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
-naval_catchup_submarine_techs:0 "다음 기술을 추가합니다: £submarine_texticon §Y세계대전 잠수함,£submarine_texticon 전간기 잠수함, 압축공기추진식엔진 어뢰§!"
+naval_catchup_submarine_techs:0 "다음 기술을 추가합니다: £submarine_texticon §Y세계대전 잠수함,£submarine_texticon 전간기 잠수함, 증기추진 어뢰§!"
 
 ### Catch Up Decisions NONMTG ###
 Naval_catchup_destroyers_nonmtg:0 "구축함 기술개발"
@@ -96,7 +96,7 @@ naval_catchup_dreadnought_techs_nonmtg:0 "다음 기술을 추가합니다: £SH
 
 Naval_catchup_submarines_nonmtg:0 "잠수함 기술개발"
 Naval_catchup_submarines_desc_nonmtg:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
-naval_catchup_submarine_techs_nonmtg:0 "다음 기술을 추가합니다: £submarine_texticon §Y세계대전 잠수함,£submarine_texticon 전간기 잠수함, 압축공기추진식엔진 어뢰§!"
+naval_catchup_submarine_techs_nonmtg:0 "다음 기술을 추가합니다: £submarine_texticon §Y세계대전 잠수함,£submarine_texticon 전간기 잠수함, 증기추진 어뢰§!"
 
 ### Naval Infrastructure Decisions MTG ###
 nav_infra_one_dec:0 "해군 기반시설"
