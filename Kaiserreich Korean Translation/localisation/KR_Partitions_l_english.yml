@@ -460,34 +460,34 @@ part.91.d:0 "After defeating the Commune of France we have gained control over t
 part.91.a:0 "Give it back to the Swiss."
 part.91.b:0 "No, it's ours now!"
 
-part.92.t:0 "서부 플랑드르-왈로니아"
+part.92.t:0 "서부 플랜더스-왈로니아"
 part.92.d:0 "According to the Rexist-Flamish national union the final defeat and subsequent occupation of the Commune of France provides us with unique chance to regain our once integral part - Western Flandern-Wallonia. If we want to claim it for our state we must turn to German Empire for support."
-part.92.a:0 "서부 플랑드르-왈로니아를 요구하자!"
+part.92.a:0 "서부 플랜더스-왈로니아를 요구하자!"
 part.92.b:0 "Those claims are absurd"
 
-part.93.t:0 "플랑드르-왈로니아가 서부 플랑드르-왈로니아를 요구하다."
+part.93.t:0 "플랜더스-왈로니아가 서부 플랜더스-왈로니아를 요구하다."
 part.93.d:0 "The government of Flanders-Wallonia has claimed region once known as the Western Flanders-Wallonia which is currently part of France. What shall be our stance towards this claim ?"
 part.93.a:0 "Support their claim"
 part.93.b:0 "Cede Western Flanders-Wallonia"
 part.93.c:0 "Who is drawing the map here!?"
 part.93.e:0 "사람들이 결정하게 하라!"
 
-part.94.t:0 "독일이 플랑드르-왈로니아를 지원하다"
+part.94.t:0 "독일이 플랜더스-왈로니아를 지원하다"
 part.94.d:0 "The bastards in Brussels are trying to weaken us! They have claimed the Western Flanders-Wallonia region, which rightfully belongs to France, as their own and they've gotten support from Germany in the matter, meaning we have no choice but to cede disputed territory"
 part.94.a:0 "We'll cede the territory, but only because we have no choice."
 
-part.95.t:0 "서부 플랑드르-왈로니아"
+part.95.t:0 "서부 플랜더스-왈로니아"
 part.95.d:0 "Thanks to German support we have regained provinces of the western Flanders-Wallonia."
 part.95.a:0 "완벽하군!"
 
-part.96.t:0 "서부 플랑드르-왈로니아에서의 국민 투표"
+part.96.t:0 "서부 플랜더스-왈로니아에서의 국민 투표"
 part.96.d:0 "The German Empire, acting as mediator in the territorial dispute regarding western Flanders-Wallonia, has decided that a plebiscite must be held in western Flanders-Wallonia to determine its future..."
 part.96.a:0 "결과를 기다리자."
 
-part.97.t:0 "서부 플랑드르-왈로니아에서의 국민 투표"
+part.97.t:0 "서부 플랜더스-왈로니아에서의 국민 투표"
 part.97.d:0 "사람들이 투표소로 몰려가 결정을 내렸습니다."
-part.97.a:0 "서부 플랑드르-왈로니아는 우리 것이다!"
-part.97.b:0 "서부 플랑드르-왈로니아는 플랑드르-왈로니아의 것이다!"
+part.97.a:0 "서부 플랜더스-왈로니아는 우리 것이다!"
+part.97.b:0 "서부 플랜더스-왈로니아는 플랜더스-왈로니아의 것이다!"
 
 part.98.t:0 "파리의 괴뢰 정부"
 part.98.d:0 "The new government of France is firmly under our control and continental France is now a loyal member of our alliance. Hopefully this will end the bloodshed in Europe once and for all."
