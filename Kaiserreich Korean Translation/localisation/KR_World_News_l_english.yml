@@ -592,11 +592,11 @@ worldnews.134.d:0 "[AST.GetNameDefCap]은(는) 대영제국의 긴급 조치의 
 worldnews.135.d:0 "[AST.GetNameDefCap]은(는) 대영제국의 긴급 조치의 발효 이후로 윌리엄 버드우드 총독의 권위주의적인 통치 아래에 있었습니다. 국가의 많은 사람들은 이를 멜버른 생디칼리스트 반란에 대한 대응으로는 너무 가혹한 것으로 여겼습니다. 버드우드는 마침내 공공 선거의 요청을 승인했고 존 커틴의 노동당이 의회에서 아슬아슬하게 다수를 형성하는 결과를 낳았습니다. 오스트랄라시아 노동 조합 협의회와 협력하고 있는 당내 급진파는 노동당을 장악하는데 실패하고 순차적으로 출당되었습니다. 커틴은 앞으로 노동 쟁의의 재개와 즉각적으로 생디칼리즘 활동을 억누르고자 하는 강성파 의원들의 압력을 처리하느라 고된 시간을 보낼 것으로 예측됩니다."
 
 worldnews.136.t:0 "벨기에가 독립을 선포하다"
-worldnews.136.d:0 "독일의 억압과 검은 월요일 재앙을 뒤이어, 벨기에 독립 운동이 벨기에 전역에서 일어났으며 독일군을 상대로 게릴라전을 벌이고 있습니다. 독일 제국 자신의 회복으로 인해 아델베르트 1세를 완전히 지지하지 못했으며 상황은 독일의 통제를 벗어나 악화되었습니다. 독립군이 몽스와 앤트워프를 공동 공격한 이후 마침내 플란데런-우알로니 군은 브뤼셀로 물러났으며, 그곳에서의 격렬한 전투 끝에 독일인 왕이 항복했습니다. 독일 제국에서의 명확한 대답은 아직 없는 가운데, 많은 사람들은 독립 벨기에가 특히 프랑스 코뮌과 제국 사이의 긴장이 고조되고 그 나라의 전략적 위치가 악화되면서 얼마 가지 않을 수도 있다고 우려합니다."
+worldnews.136.d:0 "독일의 억압과 검은 월요일 재앙을 뒤이어, 벨기에 독립 운동이 벨기에 전역에서 일어났으며 독일군을 상대로 게릴라전을 벌이고 있습니다. 독일 제국 자신의 회복으로 인해 아델베르트 1세를 완전히 지지하지 못했으며 상황은 독일의 통제를 벗어나 악화되었습니다. 독립군이 몽스와 앤트워프를 공동 공격한 이후 마침내 플랜더스-왈로니아 군은 브뤼셀로 물러났으며, 그곳에서의 격렬한 전투 끝에 독일인 왕이 항복했습니다. 독일 제국에서의 명확한 대답은 아직 없는 가운데, 많은 사람들은 독립 벨기에가 특히 프랑스 코뮌과 제국 사이의 긴장이 고조되고 그 나라의 전략적 위치가 악화되면서 얼마 가지 않을 수도 있다고 우려합니다."
 worldnews.136.a:0 "행운을 빈다 벨기에!"
 
-worldnews.137.t:0 "생디칼리스트들이 우알로니의 정권을 잡다"
-worldnews.137.d:0 "프랑스 코뮌이 독일 제국에게 선전포고한 직후, 시용 앵뒤스트리옐과 리에로 대표되는 우알로니의 생디칼리스트들이 우알로니의 독립을 선언했습니다. 그들은 프랑스군의 승리를 기원하기 위해 플란데런-우알로니를 독일의 압제에서 해방시키고 벨기에를 프랑스를 본받은 생디칼리즘 국가로 만들 계획을 세웠습니다. 프랑스 코뮌은 반란에 대해 지지를 표했고 우알로니 POB와의 관계를 재확인했습니다."
+worldnews.137.t:0 "생디칼리스트들이 왈로니아의 정권을 잡다"
+worldnews.137.d:0 "프랑스 코뮌이 독일 제국에게 선전포고한 직후, 시용 앵뒤스트리옐과 리에로 대표되는 왈로니아의 생디칼리스트들이 왈로니아의 독립을 선언했습니다. 그들은 프랑스군의 승리를 기원하기 위해 플랜더스-왈로니아를 독일의 압제에서 해방시키고 벨기에를 프랑스를 본받은 생디칼리즘 국가로 만들 계획을 세웠습니다. 프랑스 코뮌은 반란에 대해 지지를 표했고 왈로니아 POB와의 관계를 재확인했습니다."
 worldnews.137.a:0 "이것은 뫼즈 방어선에 결정적인 타격이다."
 
 worldnews.138.t:0 "[BUL.GetRulingParty]이(가) 불가리아에서 정권을 잡다"
@@ -869,12 +869,12 @@ worldnews.198.d:0 "최근 수십년 동안 일본의 부상은 동아시아의 �
 worldnews.198.a:0 "푸른 언덕에 피가 흐를 것이다."
 
 worldnews.199.t:0 "아렐 회담"
-worldnews.199.d:0 "최근 독일로부터의 벨기에의 독립과 함께 피할수 없는 단순한 질문이 생겼습니다 - 그 다음엔? 양국 정부는 우알로니 남부 국경 근처의 독일령 룩셈부르크내의 작은 아르덴 도시 아렐에 대표단을 파견했고, 그곳에서 유럽 속 벨기에의 향후 진로가 결정되었습니다.\n\n벨기에와 독일 제국은 카이저가 브뤼셀 정부의 공식적인 독립과 독일령 우알로니의 반환을 인정하는 대가로, 벨기에는 제국 조약에 재가입하여 독일이 프랑스 코뮌의 공격을 방어하는 것을 허용하기로 합의했습니다. 벨기에 사람들은 자신들의 미래를 지키기 위해 신생 독립을 기꺼이 양보할 것으로 보입니다."
-worldnews.199.d.failed:0 "최근 독일로부터의 벨기에의 독립과 함께 피할수 없는 단순한 질문이 생겼습니다 - 그 다음엔? 양국 정부는 우알로니 남부 국경 근처의 독일령 룩셈부르크내의 작은 아르덴 도시 아렐에 대표단을 파견했고, 그곳에서 유럽 속 벨기에의 향후 진로가 결정되었습니다.\n\n독일은 제국 조약 가입을 전제로 벨기에 독립을 공식적으로 인정함과 동시에 독일령 우알로니를 반환하겠다고 제안했지만, 벨기에는 응하지 않았습니다. 협상가들이 제국이 룩셈부르크 또한 넘겨야 한다는 요구가 우습게 여겨졌든 아니든 간에 아렐에서의 협상은 빠르게 결렬되었고 독일인들은 물러났습니다. 적어도 현재 벨기에는 독립했습니다."
+worldnews.199.d:0 "최근 독일로부터의 벨기에의 독립과 함께 피할수 없는 단순한 질문이 생겼습니다 - 그 다음엔? 양국 정부는 왈로니아 남부 국경 근처의 독일령 룩셈부르크내의 작은 아르덴 도시 아렐에 대표단을 파견했고, 그곳에서 유럽 속 벨기에의 향후 진로가 결정되었습니다.\n\n벨기에와 독일 제국은 카이저가 브뤼셀 정부의 공식적인 독립과 독일령 왈로니아의 반환을 인정하는 대가로, 벨기에는 제국 조약에 재가입하여 독일이 프랑스 코뮌의 공격을 방어하는 것을 허용하기로 합의했습니다. 벨기에 사람들은 자신들의 미래를 지키기 위해 신생 독립을 기꺼이 양보할 것으로 보입니다."
+worldnews.199.d.failed:0 "최근 독일로부터의 벨기에의 독립과 함께 피할수 없는 단순한 질문이 생겼습니다 - 그 다음엔? 양국 정부는 왈로니아 남부 국경 근처의 독일령 룩셈부르크내의 작은 아르덴 도시 아렐에 대표단을 파견했고, 그곳에서 유럽 속 벨기에의 향후 진로가 결정되었습니다.\n\n독일은 제국 조약 가입을 전제로 벨기에 독립을 공식적으로 인정함과 동시에 독일령 왈로니아를 반환하겠다고 제안했지만, 벨기에는 응하지 않았습니다. 협상가들이 제국이 룩셈부르크 또한 넘겨야 한다는 요구가 우습게 여겨졌든 아니든 간에 아렐에서의 협상은 빠르게 결렬되었고 독일인들은 물러났습니다. 적어도 현재 벨기에는 독립했습니다."
 worldnews.199.a:0 "벨기에가 국제 무대로 돌아왔군."
 
-worldnews.200.t:0 "우알로니 위기"
-worldnews.200.d:0 "플란데런-우알로니에서의 봉기는 최근 몇 주간의 대대적인 전투와 우알로니 코뮌의 등장으로 인해 악순환을 겪어왔습니다. 그러나 독일군 및 왕당파 군대가 신속한 반격을 위해 뫼즈에 집결하면서, 우알로니에서의 생디칼리즘이 생존할 수 있을 지의 여부는 온전히 파리에게 달려있었습니다.\n잠시 독일 제국과 코뮌 사이에서 긴장이 고조되었으나, 이내 프랑스가 먼저 눈을 내리깔았습니다. 프랑스는 독일의 분노가 그들에게까지 미치는 것을 원치 않은 것 같습니다. 우알로니 반군들에게 보증을 제공하는 것을 계속 꺼리고 있는 그들의 행동이 이를 뒷받침합니다. 독립운동의 생존이 벼랑 끝에 몰려있는 지금, 아델베르트 왕의 정권이 붕괴될 것이라고 믿는 사람은 거의 없습니다. 그래도 최소한, 강대국들간의 전쟁은 당분간 피할 수 있었습니다."
+worldnews.200.t:0 "왈로니아 위기"
+worldnews.200.d:0 "플랜더스-왈로니아에서의 봉기는 최근 몇 주간의 대대적인 전투와 왈로니아 코뮌의 등장으로 인해 악순환을 겪어왔습니다. 그러나 독일군 및 왕당파 군대가 신속한 반격을 위해 뫼즈에 집결하면서, 왈로니아에서의 생디칼리즘이 생존할 수 있을 지의 여부는 온전히 파리에게 달려있었습니다.\n잠시 독일 제국과 코뮌 사이에서 긴장이 고조되었으나, 이내 프랑스가 먼저 눈을 내리깔았습니다. 프랑스는 독일의 분노가 그들에게까지 미치는 것을 원치 않은 것 같습니다. 왈로니아 반군들에게 보증을 제공하는 것을 계속 꺼리고 있는 그들의 행동이 이를 뒷받침합니다. 독립운동의 생존이 벼랑 끝에 몰려있는 지금, 아델베르트 왕의 정권이 붕괴될 것이라고 믿는 사람은 거의 없습니다. 그래도 최소한, 강대국들간의 전쟁은 당분간 피할 수 있었습니다."
 worldnews.200.d.germanybacksdown:0 "The rebellion in Flanders-Wallonia has taken a vicious turn in recent weeks with open fighting and the rise of the Walloon Commune flying the coq hardi flag in town squares across the breakaway region. With German and Royalist forces gathered on the Meuse for a swift counter-attack hopes for the survival of Syndicalism in Wallonia fell onto Paris.\nIn a stunning victory for the Syndicalists Germany was unwilling to countenance risking a war with the Internationale in the wake of the Black Monday Crisis, and the Walloons and Germans signed a treaty on the Pont de Fragnée in Liège. The survival of Wallonia is assured, and Syndicalism's strength in Western Europe has grown once more. However, war between the great powers has been avoided - for now"
 worldnews.200.d.francebacksdown:0 "The rebellion in Flanders-Wallonia has taken a vicious turn in recent weeks with open fighting and the rise of the Walloon Commune flying the coq hardi flag in town squares across the breakaway region. With German and Royalist forces gathered on the Meuse for a swift counter-attack hopes for the survival of Syndicalism in Wallonia fell onto Paris.\nThough the French displayed a clear willingness to defend the nascent Wallonian rebels from German counter-attack, moving forces onto the Meuse, when the Germans sent them an ultimatum the Commune was unwilling to back their words up with deeds. The French broke their guarantee and withdrew their forces, leaving Wallonia to its inevitable fate. However, war between the great powers has been avoided - for now"
 worldnews.200.a:0 "확실히 벼랑 끝이로군."
