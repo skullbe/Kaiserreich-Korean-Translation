@@ -34,8 +34,8 @@ SER_sold_ship_to_us:0 "우리의 새로운 기함을 판매하였음"
 SER_refused_to_sell_ship:0 "전투순양함 판매를 거부함"
 
 ### Tooltips ###
-founded_belgradepact:0 "베오그라드 조약 기구 창설"
-joined_belgradepact:0 "베오그라드 조약 기구 가입"
+founded_belgradepact:0 "베오그라드 조약 창설"
+joined_belgradepact:0 "베오그라드 조약 가입"
 absolute_monarchy:0 "전제군주제를 세움"
 constitutional_monarchy:0 "입헌군주제를 세움"
 SER_heavy_fighter_bonus:0 "중전투기 모델"
