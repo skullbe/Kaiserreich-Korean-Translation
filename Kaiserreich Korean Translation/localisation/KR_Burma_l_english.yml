@@ -23,7 +23,7 @@ BUR_national_populist_party:0 "통합단결발전당"
 BUR_national_populist_party_long:0 "통합단결발전당"
 
 ### Opinion Modifiers ###
-BUR_rangoon_protest:0 "They could've been behind these protests!"
+BUR_rangoon_protest:0 "그들이 이 반정부 시위의 배후일 수도 있다!"
 
 ### Events ###
 burma.0.t:0 "전쟁으로 분단된 국가"
@@ -31,15 +31,15 @@ burma.0.d:0 "1925 영국 혁명은 한때 강력했던 식민 제국이 몰락�
 burma.0.a:0 "우리는 이러한 힘든 시기를 함께 이겨내야한다!!"
 burma.1.t:0 "랑군 대학으로부터의 폭동과 항쟁"
 burma.1.d:0 "1926년 독립할 당시부터의 대중의 정부 개입의 부족에 대한 불만족은 우리 국가에서 거대한 항쟁의 불꽃이 되었습니다. 위대하고 명망있는 랑군 대학에서 시작하여, 급진적 좌파 성향의 학생은 몇 개의 행정 건물을 장악하였고, 집회를 열어 군주제와 봉건주의 지지자들이 타락하고 구구가 복지에 해롭다고 맹렬히 비난하였습니다. 그러나 이러한 시위는 시골 농부와 산업 노동자의 지지를 얻지 못하였고, 오직 지식인들의 운동으로 제한되었습니다."
-burma.1.a:0 "바통과 펜싱칼(sabre)을 전달하라" #sabre
+burma.1.a:0 "바통과 펜싱 칼을 전달하라" #sabre
 burma.2.t:0 "랑군 대학으로부터의 폭동과 항쟁"
-burma.2.d:0 "이웃한 버마에서는, 젊은층의 정치 참여 부재로 비롯하여 폭동이 시작되었습니다. 부패에 대항한 랑군 대학으로부터 시작한 시위는, 타락한 Konbaung 왕조의 전제국가 시스템과, 개혁의 부족으로부터 비롯했습니다. 현제 시위는 수도 랑군에만 한정되었지만 몇 달 뒤에는 다른 지방에서 호응해 줄 수도 있습니다. 특히 유전지대의 Yenangyaung, Chauk, Minbu의 노동자들이 그들의 적은 급여와 나쁜 생활 수준에 의해 봉기할 수 있습니다. 이러한 두 시위가 통합된다면, 우리는 벵골만 반대편에 있는 친화적인 정부(바라티야 코뮌)와 함께할 수 있습니다."
+burma.2.d:0 "이웃한 버마에서는, 젊은층의 정치 참여 부재로 비롯하여 폭동이 시작되었습니다. 부패에 대항한 랑군 대학으로부터 시작한 시위는, 타락한 Konbaung 왕조의 전제국가 시스템과, 개혁의 부족으로부터 비롯했습니다. 현제 시위는 수도 랑군에만 한정되었지만 몇 달 뒤에는 다른 지방에서 호응해 줄 수도 있습니다. 특히 유전지대의 예난자웅, 차우크, 민부의 노동자들이 그들의 적은 급여와 나쁜 생활 수준에 의해 봉기할 수 있습니다. 이러한 두 시위가 통합된다면, 우리는 벵골만 반대편에 있는 친화적인 정부(바라티야 코뮌)와 함께할 수 있습니다."
 burma.2.a:0 "버마인들을 계속 지켜봐라!"
-burma.3.t:0 "Yenangyaung 유전에서의 파업"
-burma.3.d:0 "Yenangyaung, Chauk, and Minbu의 유전에서 일하는 노동자들은 부패한 정부와 그들의 낮은 생활 수준에 반대하며 심각한 파업을 시작했습니다.경찰과 예비군은 유전을 장악하고 붉은 깃발을 흔들며 반-군주제 노래를 부르는 시위자들을 몰아내는데 완전히 실패했습니다. 그들의 요구를 달랠 무언가를 제공하여, 나머지 지역에서의 추가적인 시위 확산을 막아야합니다."
+burma.3.t:0 "예난자웅 유전에서의 파업"
+burma.3.d:0 "예난자웅, 차우크, 그리고 민부 유전에서 일하는 노동자들은 부패한 정부와 그들의 낮은 생활 수준에 반대하며 심각한 파업을 시작했습니다.경찰과 예비군은 유전을 장악하고 붉은 깃발을 흔들며 반-군주제 노래를 부르는 시위자들을 몰아내는데 완전히 실패했습니다. 그들의 요구를 달랠 무언가를 제공하여, 나머지 지역에서의 추가적인 시위 확산을 막아야합니다."
 burma.3.a:0 "건방진녀석!! 노동자들의 움직임은 곧 붕괴될것이다!!"
 burma.3.b:0 "그들을 달래기 위해 시도해보아라..."
-burma.4.t:0 "랑군의 학생들이 결속하였습니다!"
+burma.4.t:0 "랑군에서 학생들이 시위를 하고 있습니다!"
 burma.4.d:0 "Catastrophe! Just like the year before, students from Rangoon University has risen up against the monarchy in critical demonstrations and protests. However, this year the radicalised student leaders, lamenting still rampant corruption and autocracy, have joined cause with the equally disgruntled oil workers in Yenangyaung, Chauk, and Minbu, giving the movement a truly national scope. Short of backing down, and staining the monarchy's honour, only a firm military reaction will solve this hopeless situation!"
 burma.4.a:0 "상상할수 없는일이다, 대학생들에 군대를 보내 진압하라"
 burma.4.b:0 "아직 준비가 안됬다. 민주주의를 살릴 U Ottama를 임명하라"
