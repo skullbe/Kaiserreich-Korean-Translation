@@ -15,11 +15,11 @@ capt.2.d:0 "유럽 본토에서 독일의 전쟁 노력이 좌절된 결과, 카
 capt.2.a:0 "우리는 더 이상 애완견이 아니다! 중앙아프리카 제국의 독립을 선언한다!"
 capt.2.b:0 "망명 정부를 환영하고 그들의 요구를 들어줘라."
 
-capt.3.t:0 "중앙아프리카가 독립을 선언하다"
+capt.3.t:0 "미틀아프리카가 독립을 선언하다"
 capt.3.d:0 "아프리카 식민지 관료들이 제정신이 아닙니다! 그들은 독일 정부로부터 독립을 선언했고, 우리가 적들과 마주하여 무너질 수 밖에 없도록 관망했습니다!"
 capt.3.a:0 "배은망덕한 놈들!"
 
-capt.4.t:0 "중앙아프리카의 복권"
+capt.4.t:0 "미틀아프리카의 복권"
 capt.4.d:0 "식민지 행정가들은 중앙아프리카에 대한 완전한 통제권을 카이저의 관료들에게 양도했습니다."
 capt.4.a:0 "우리가 이제 아프리카를 지배한다."
 
@@ -28,23 +28,23 @@ capt.5.d:0 "극동에서 계속되는 전쟁을 처리해야 할 필요가 있�
 capt.5.a:0 "그들이 원하는 것은 무엇이든지 주어라."
 capt.5.b:0 "반드시 전쟁을 계속해야 한다면, 우린 전쟁을 계속할 것이다."
 
-capt.6.t:0 "[From.GetNameDefCap](이)가 휴전을 제안하다"
+capt.6.t:0 "[From.GetNameDefCap]이(가) 휴전을 제안하다"
 capt.6.d:0 "독일의 와해된 군대들은, 이제 아프리카로 도망갔으며, 독일이 가진 [GEA.GetNameDef]의 영토 중 상당수를 우리에게 주는 것을 제안해왔습니다. 저들이 수장되기 전에 제안을 받아들인다면 우리는 전쟁을 끝낼 수 있을겁니다."
 capt.6.a:0 "훌륭한 계획이야"
 capt.6.b:0 "상당수? 우린 전부를 원해"
 
-capt.7.t:0 "[JAP.GetNameDef](과)와의 전쟁"
+capt.7.t:0 "[JAP.GetNameDef]과(와)의 전쟁"
 capt.7.d:0 "It appears we need to deal with the continuing war in the Far East, with [JAP.GetAdjective] armies still fighting against our colonial forces. Should we continue the war, one we almost certainly cannot hope to have much impact on with our scattered and beaten forces, or sue for peace?"
 
-capt.8.t:0 "[From.GetNameDefCap](이)가 휴전을 제안하다"
+capt.8.t:0 "[From.GetNameDefCap]이(가) 휴전을 제안하다"
 capt.8.d:0 "The scattered forces of Germany, now fled to Africa, have offered us much of the colonial territory they hold in Asia, if we will only end the war now before they are drawn in further. Considering that refusing the deal will mean chasing after the Germans in Africa, perhaps we should consider their plan."
 capt.8.a:0 "좋은 생각이군"
 capt.8.b:0 "모든 걸 점령할 것이다"
 
-capt.9.t:0 "[GEX.GetNameDefCap](이)가 휴전을 제안하다"
+capt.9.t:0 "[GEX.GetNameDefCap]이(가) 휴전을 제안하다"
 capt.9.d.siam:0 "The German government, now fled to Africa and in utter disarray, has arranged for a peace with [From.GetNameDef]. This will involve ceding much of our territory, and there seems little hope of continuing the fight on our own with so many Reich officials already abandoning their offices here in [GEA.GetNameDef]. Our government is in complete disarray, and without support from the homeland it seems there is little we can do."
 capt.9.d.japan:0 "The German government, now fled to Africa and in utter disarray, has arranged for a peace with [From.GetNameDef]. This will involve our complete annexation, and there seems little hope of continuing the fight on our own with so many Reich officials already abandoning their offices here in [GEA.GetNameDef]. Our government is in complete disarray, and without support from the homeland it seems there is little we can do."
-capt.9.a:0 "To the lifeboats! We're off to Africa!"
+capt.9.a:0 "구명보트로! 우리는 아프리카로 간다!"
 
 capt.12.t:0 "전쟁을 계속해야할까요?"
 capt.12.d:0 "The German government has collapsed and fled to Africa, assuming control over their former colonies here. They still possess much of the colonial territory we claim, however, and are in considerable disarray. Should we demand that they turn over the territories, on threat of continuing the war, or end it now?"
@@ -57,12 +57,12 @@ capt.13.a:0 "Give them what they want, if it will end this"
 capt.13.b:0 "We face them here in Africa, then"
 
 capt.14.t:0 "독일이 돌아오다"
-capt.14.d:0 "With the end of our war, the Germans have finally returned from the new base in Tanganyika to assume control. While there is some lingering resentment here, most are simply relieved to see them."
-capt.14.a:0 "Off to Tanganyika we go!"
+capt.14.d:0 "우리의 전쟁이 끝나면서, 독일인들이 탕가니카의 새로운 기지로부터 통제권을 되찾기 위해 귀환하였습니다. 여기 사람들은 아직 분노가 가시지 않고 있지만, 대부분은 돌아온 이들을 보며 안정을 찾고 있습니다."
+capt.14.a:0 "탕가니카로 가자!"
 
-capt.15.t:0 "[GEA.GetNameDefCap] At Peace"
-capt.15.d:0 "With the war in [GEA.GetNameDef] finally over, our colonial administrators have returned them to our control."
-capt.15.a:0 "Excellent!"
+capt.15.t:0 "[GEA.GetNameDefCap] 휴전"
+capt.15.d:0 "[GEA.GetNameDef]와의 전쟁이 마침내 끝났습니다, 우리의 식민지 행정가들이 가서, 다시 우리의 통제하에 들어오게 하였습니다."
+capt.15.a:0 "훌륭하군!"
 
 capt.23.t:0 "The German Collapse"
 capt.23.d.nowar:0 "While the last couple of days since the German collapse in Europe have been uncertain, fears that [Root.GetNameDef] would be left to its own devices are unfounded. The main German government has moved to Mittelafrika, and we have restored communications to their officials in Tanganyika. Order, at least for the moment, has been restored."
@@ -71,10 +71,10 @@ capt.23.a:0 "That's a relief...?"
 capt.23.b:0 "We've been abandoned?!"
 
 capt.40.t:0 "파리 함락"
-capt.40.d:0 "It appears we must once again face the ignomity of occupation by a foreign power, as Paris has fallen to enemy control. Resistance throughout France has begun, but how long can we maintain it? There are many both within our nation as well as without who claim we were not a legitimate government to begin with. So long as the people are on our side, however, we still have a chance!"
-capt.40.a:0 "We have not lost yet!"
+capt.40.d:0 "파리가 적의 손에 넘어감으로써 우리는 외국열강에 의한 점령의 치욕에 또다시 직면해야 할 것으로 보입니다. 프랑스 전역에서 저항이 시작됐지만 언제까지 지속될 수 있을까요? 우리 정부가 원래부터 합법적인 정부가 아니었다고 주장하는 사람들만큼 우리나라에는 우리를 지지하는 사람들이 많습니다. 인민들이 우리의 편인 이상, 우리는 아직 기회가 있습니다!"
+capt.40.a:0 "우리는 아직 지지않았다!"
 
-capt.41.t:0 "The French Capitulation"
+capt.41.t:0 "프랑스의 항복"
 capt.41.d.ger:0 "With the Commune of France's defeat, we have been asked to turn over control of our controlled territories in France to the German Empire, to better organize the occupation of the region and force an eventual French submission."
 capt.41.d.nfa:0 "With the Commune of France's defeat, we have been asked to turn over control of our controlled territories in France to [NFA.GetNameDef], their proper owner. It will be up to them to oversee the occupation and deal with any lingering Communard resistance."
 capt.41.a:0 "Of course"
