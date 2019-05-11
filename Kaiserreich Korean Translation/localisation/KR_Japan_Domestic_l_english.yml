@@ -176,7 +176,7 @@ JAP_fem_reform_desc:0 "여성주의 활동은 19세기에 일본에서 시작되
 JAP_DEM_SCI:0 "학문적 다원론"
 JAP_DEM_SCI_desc:0 "다원론은 민주주의의 핵심적 가치입니다. 우리의 학문에서 다원론을 중시함으로써, 우리의 기술과 교육을 발전시킬 수 있습니다!"
 JAP_DEM_EDU:0 "헌법 교육"
-JAP_DEM_EDU_desc:0 "By introducing a new curriculum to the public-school system that includes democratic theory and principles we will raise a new generation of Japanese youth who will enshrine the ideas of humanism and democracy."
+JAP_DEM_EDU_desc:0 "민주주의 이론과 원칙을 담은 새로운 교육과정 공립학교에 도입함으로써 인본주의와 민주주의의 사상을 습득할 새로운 일본 젊은이들을 양성할 것이다."
 JAP_DEM_CUL:0 "문화적 황금기"
 JAP_DEM_CUL_desc:0 "우리 사회의 개방성과 계몽은 전통문화와 현대 문화 모두의 황금기를 이끌어냈습니다. 시와 같은 고전적 예술과 영화, 애니메이션과 같은 새로운 예술이 모두 번영하고 있습니다. 이것은 세계적으로 우리의 가치를 알리고, 국내외의 시장 모두에서 일본이 성장하는 데 큰 도움을 주고 있습니다."
 
@@ -280,8 +280,8 @@ JAP_COL_PORT_desc:0 "99년간 공식적으로 일본의 조차가 허가된 관�
 ### Focuses - Military - Base ###
 JAP_MIL_start_1:0 "육군의 방향"
 JAP_MIL_start_1_desc:0 "수년간의 언쟁 끝에, 제국 육군의 방향을 결정할 때가 왔습니다. 대본영의 전략 기획자들은 네 가지 유망한 선택지를 제시했습니다."
-JAP_MIL_start_2:0 "Jakuniku Kyoshoku"
-JAP_MIL_start_2_desc:0 "Jakuniku Kyoshoku or 'Survival of the Fittest' is a fundamental understanding in our military philosophy; the Western imperialists have greatly expanded their airforces and navies and if we don't do the same we will surly fall victim to their forces."
+JAP_MIL_start_2:0 "약육강식"
+JAP_MIL_start_2_desc:0 "약육강식 또는 '적자생존'은 우리 군사 철학의 근간입니다. 서방의 제국주의자들은 각자의 공군과 해군을 크게 확장시켰습니다. 만약 우리도 그렇게 하지 않는다면 아마도 서방 군대의 희생양이 될 것입니다."
 
 ### Focuses - Military - Battleplan ###
 JAP_MIL_DOC_DEF:0 "명령계층 구조 강화"
@@ -372,10 +372,10 @@ JAP_MIL_air_idea:0 "대공의 사무라이"
 JAP_MIL_air_idea_desc:0 "Japanese fighter pilot training is some of the most difficult in the world, but it is that way for a very good reason. Our planes are fast, our ground crews skilled, and our commanders smart, but nothing is more important than the courage and talent of the individual pilots."
 
 ### Focuses - Military - Special ###
-JAP_MIL_NUC:0 "RIKEN North"
-JAP_MIL_NUC_desc:0 "RIKEN North is the codename for a soon-to-be-established key facility in our Ni-Go Project, located in Fukushima prefecture.\nThe Ni-Go Project is our top-secret endeavour in atomic research, aiming at seperating uranium-235 by thermal diffusion to harness the immense power that lies inside the atom.\nThe other facilities taking part in this project are at the Tokyo RIKEN complex and in Konan, Northern Korea."
+JAP_MIL_NUC:0 "이화학연구소 북쪽"
+JAP_MIL_NUC_desc:0 "이화학연구소 북쪽은 후쿠시마에 곧 설립 될 니고계획에 포함된 핵심시설을 뜻하는 작전명입니다.\n니고 계획은 원자 내에 있는 강력한 힘을 이용하기 위해서, 열 확산으로 우라늄-235를 분리하는 것을 목표로 하는 원자력 연구 분야의 최고 기밀사항입니다.\n이 계획을 담당하는 또다른 시설들은 도쿄 이화학연구소 단지와 한반도 북부에 있는 코난에 있습니다."
 JAP_MIL_ROCKET:0 "로켓 공학"
-JAP_MIL_ROCKET_desc:0 "Rocket developments can not only provide with rocket weaponry, but even, the scientists theorise, with rocket engines for high speed travel."
+JAP_MIL_ROCKET_desc:0 "로켓 개발은 로켓 무기만 만들 수 있게 하는 것이 아닙니다. 과학자들의 이론에 의하면 로켓 엔진으로 고속 이동을 할 수 있게 만들 수 있습니다."
 
 ### Events ###
 japdom.1.t:0 "잃어버린 10년에서의 회복"
@@ -691,10 +691,10 @@ japdom.235.a:0 "House it at Fukushima."
 japdom.235.b:0 "Tokyo will do fine."
 japdom.235.c:0 "On second thought, let's keep this on the theoretical level for now."
 
-japdom.236.t:0 "Army Leadership protests Naval Bias"
+japdom.236.t:0 "육군 지도부가 해군 편향에 항의하였습니다"
 japdom.236.d:0 "Our recent invetiture in policies benefitting the Navy have angered the leadership of our land forces. Some of the more prominent figures have expressed their disapproval in a private meeting earlier today."
 japdom.236.a:0 "Tell them they'll have to wait and see."
 
-japdom.237.t:0 "Navy Leadership protests Army Bias"
+japdom.237.t:0 "해군 지도부가 육군 편향에 항의하였습니다"
 japdom.237.d:0 "Our recent invetiture in policies benefitting the Army have angered the leadership of our sea fleet. Some of the more prominent figures have expressed their disapproval in a private meeting earlier today."
 japdom.237.a:0 "Tell them they'll have to wait and see."
