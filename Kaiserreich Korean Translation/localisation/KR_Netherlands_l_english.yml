@@ -728,11 +728,11 @@ HOL_friendship_with_belgium_desc:0 "The Beneleux must not be torn asunder by pet
 HOL_koninklijke_academie:0 "벨기에와의 연구 협약"
 HOL_koninklijke_academie_desc:0 "We can go further than simply proclaiming our friendship with Belgium. By investing in tangible benefits such as cross-border research, both of our nations can prosper."
 HOL_liberating_the_flemish:0 "하나의 네덜란드 국민, 하나의 네덜란드 국가"
-HOL_liberating_the_flemish_desc:0 "네덜란드에 소속되지 않은 플랑드르는 역사에서 기이했던 사건 그 이상도 이하도 아닙니다. 우리는 마땅히 우리의 것을 돌려받았음에 틀림없습니다. 모든 네덜란드 국민들은 네덜란드 국가의 일부여야만 합니다."
+HOL_liberating_the_flemish_desc:0 "네덜란드에 소속되지 않은 플랜더스는 역사에서 기이했던 사건 그 이상도 이하도 아닙니다. 우리는 마땅히 우리의 것을 돌려받았음에 틀림없습니다. 모든 네덜란드 국민들은 네덜란드 국가의 일부여야만 합니다."
 HOL_baerle_talks:0 "벨레 회담"
 HOL_baerle_talks_desc:0 "베네룩스 지역의 미래에 대해 협상할 때가 왔습니다. 세계는 위기에 처해 있고, 분열은 최대한 막아야 합니다."
 HOL_liberation_by_force:0 "통합이 아니면 죽음을!"
-HOL_liberation_by_force_desc:0 "우리는 플랑드르를 되찾을 것입니다. 이는 우리 국민에게 있어 명백한 사실이며, 이를 위해 수천 명이 거리를 행진하고 있습니다. 우리는 그들을 실망시키지도, 우리 국가를 잃어버리지도 않을 것입니다."
+HOL_liberation_by_force_desc:0 "우리는 플랜더스를 되찾을 것입니다. 이는 우리 국민에게 있어 명백한 사실이며, 이를 위해 수천 명이 거리를 행진하고 있습니다. 우리는 그들을 실망시키지도, 우리 국가를 잃어버리지도 않을 것입니다."
 HOL_join_kaiser_wilhelm_institute:0 "카이저 빌헬름 학회에 합류"
 HOL_join_kaiser_wilhelm_institute_desc:0 "Scientific research is an important benefit of being a part of the German sphere. We shall take advantage of this boon, and together us and the Reich can make great strides."
 HOL_third_convention_of_hague:0 "제 3차 헤이그 회담"
@@ -2212,12 +2212,12 @@ holfocus.86.d:0 "Now that we have stabilised the country and can look outwards a
 holfocus.86.a:0 "We must unite the Dutch speaking peoples under one flag!"
 holfocus.86.b:0 "Belgo-Dutch friendship is mutually beneficial!"
 
-holfocus.87.t:0 "[HOL.GetNameDefCap]이(가) 플랑드르를 요구하다"
+holfocus.87.t:0 "[HOL.GetNameDefCap]이(가) 플랜더스를 요구하다"
 holfocus.87.d:0 "The [HOL.GetNameAdj] have delivered us an ultimatum: they want us to evacuate Flanders and transfer it to their control or we will face war. While we are confident that we would be able to crush this Dutch menace, the question is whether it would not be cheaper to just give them Flanders."
 holfocus.87.a:0 "Just give them the damn place."
 holfocus.87.b:0 "Come and get it!"
 
-holfocus.88.t:0 "[From.GetNameDefCap]이(가) 플랑드르를 양도하다"
+holfocus.88.t:0 "[From.GetNameDefCap]이(가) 플랜더스를 양도하다"
 holfocus.88.d:0 "Somewhat to our surprise, the [From.GetNameAdj] have agreed to our demands and ceded Flanders to our control. The Dutch army is marching into Flanders with great pride and there are small crowds of Flemish-nationalists welcoming them in the streets of Antwerp, Gent and Brugge. While certainly not everyone is happy with this state of affairs, most people seem indifferent."
 holfocus.88.a:0 "Welkom, medeburgers!"
 
@@ -2225,7 +2225,7 @@ holfocus.89.t:0 "[From.GetNameDefCap]이(가) 요구를 거부하다"
 holfocus.89.d:9 "In their infinite foolishness, the [From.GetNameAdj] have failed to respond in a timely manner to our ultimatum. It appears that we will have to fight to get what is rightfully ours."
 holfocus.89.a:0 "You've asked for it!"
 
-holfocus.90.t:0 "[HOL.GetNameDefCap]이(가) 플랑드르 점령을 시도하다"
+holfocus.90.t:0 "[HOL.GetNameDefCap]이(가) 플랜더스 점령을 시도하다"
 holfocus.90.d:0 "[HOL.GetNameDefCap] has sent an ultimatum to the [fla_controller.GetNameAdj] occupiers of Flanders demanding that they evacuate it and hand it over to them, completely foregoing the fact that Flanders is functionally our possession. While we can hardly declare war on them for tampering with our enemy, they can be sure that once we have them beaten we will be back to claim what's ours!"
 holfocus.90.a:0 "[Root.GetNameDef] never forgets!"
 
@@ -2358,7 +2358,7 @@ holfocus.402.b:0 "Tactical Bombers will make a nice addition to the LVA."
 
 ### Tasteful flavor ###
 holflavor.1.t:0 "중앙 유럽 표준시로 전환?"
-holflavor.1.d:0 "세계대전이 끝난 이후 네덜란드에 한가지 제안이 들어왔는데, 그것은 현재 사용중인 그리니치 평균시에서 중앙 유럽 표준시로 옮겨가야 한다는 것이었습니다.\n\n하지만 영국 혁명 이후로, 이러한 요구는 점점 더 거세졌고, 이 시간대에 우리의 무역 상대국은 없게 되었습니다. 네덜란드는 브리튼과 프랑스의 생디칼리즘 정권을 아직 외교적으로 인정하지 않고 있으며, 플랑드르-왈로니아는 독일의 압력으로 이미 중앙 유럽 표준시로 옮겨갔습니다.\n\n이 논쟁은 네덜란드가 암스테르담의 자연적인 시간대를 따라야 한다는 쪽과 네덜란드가 카이저라이히 - 결국 가장 중요한 무역 파트너이다 - 의 시간대로 옮겨가야 한다는 쪽 사이로 급속하게 퍼지면서 1930년대 동안 조용히 진행되었습니다. 마침내 후자를 지지한다는 합의가 1935년에 이루어진 후, 1936년 2월 첫째날부터 국가의 시간대를 늦춰 제국 조약과 동일시하는 최종 결정이 우리 손에 달렸습니다."
+holflavor.1.d:0 "세계대전이 끝난 이후 네덜란드에 한가지 제안이 들어왔는데, 그것은 현재 사용중인 그리니치 평균시에서 중앙 유럽 표준시로 옮겨가야 한다는 것이었습니다.\n\n하지만 영국 혁명 이후로, 이러한 요구는 점점 더 거세졌고, 이 시간대에 우리의 무역 상대국은 없게 되었습니다. 네덜란드는 브리튼과 프랑스의 생디칼리즘 정권을 아직 외교적으로 인정하지 않고 있으며, 플랜더스-왈로니아는 독일의 압력으로 이미 중앙 유럽 표준시로 옮겨갔습니다.\n\n이 논쟁은 네덜란드가 암스테르담의 자연적인 시간대를 따라야 한다는 쪽과 네덜란드가 카이저라이히 - 결국 가장 중요한 무역 파트너이다 - 의 시간대로 옮겨가야 한다는 쪽 사이로 급속하게 퍼지면서 1930년대 동안 조용히 진행되었습니다. 마침내 후자를 지지한다는 합의가 1935년에 이루어진 후, 1936년 2월 첫째날부터 국가의 시간대를 늦춰 제국 조약과 동일시하는 최종 결정이 우리 손에 달렸습니다."
 holflavor.1.a:0 "그렇게 하라!"
 holflavor.1.b:0 "그리니치 평균시가 더 익숙하니 취소하라!"
 
