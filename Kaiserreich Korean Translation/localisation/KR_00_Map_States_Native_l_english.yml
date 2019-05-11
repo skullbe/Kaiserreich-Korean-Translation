@@ -2,7 +2,7 @@ l_english:
 
  endo_state_1:0 "코르스"
  endo_state_2:0 "라티움"
- endo_state_3:0 "미틀란트"
+ endo_state_3:0 "미텔란트"
  endo_state_4:0 "니더외스터라이히"
  endo_state_5:0 "오스트프로이센"
  endo_state_6:0 "플랜더스"
@@ -927,7 +927,7 @@ l_english:
  endo_state_925:0 "갈라란트"
  endo_state_926:0 "세르메르소크"
  endo_state_927:0 "카메룬"
- endo_state_928:0 "미틀콩고"
+ endo_state_928:0 "미텔콩고"
  endo_state_929:0 "웨스트버지니아"
  endo_state_930:0 "델라웨어"
  endo_state_931:0 "코네티컷"
