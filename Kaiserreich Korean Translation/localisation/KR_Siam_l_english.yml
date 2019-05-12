@@ -109,9 +109,9 @@ SIA_war_reparation_recieved_idea:0 "시암의 전쟁 배상금"
 SIA_war_reparation_paid_idea:0 "전쟁 배상금"
 SIA_engineer_shortage:0 "Shortage of Skilled Engineers"
 SIA_engineer_shortage_desc:0 "Planning alone doesn't get new highways constructed, especially when the engineering students we sent abroad haven't returned home yet and others are busy elsewhere."
-SIA_electrified_1:0 "Major Cities Electrified"
+SIA_electrified_1:0 "주요도시 전기공급"
 SIA_electrified_1_desc:0 "All major cities in [SIA.GetName] are now electrified, ready to supply the burgeoning industry."
-SIA_electrified_2:0 "Countryside Electrified"
+SIA_electrified_2:0 "시골지역 전기공급"
 SIA_electrified_2_desc:0 "Most of the rural areas are now connected to the electrical grid, with power shortage now becoming thing of the past."
 
 ### Faction SEATO ###
