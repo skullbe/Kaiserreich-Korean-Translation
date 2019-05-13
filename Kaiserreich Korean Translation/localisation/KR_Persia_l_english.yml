@@ -27,7 +27,7 @@ PER_national_populist_party_long:0 "Hezb-e Pān Irānist"
 PER_shah_is_dead_press_f:0 "샤가 승하하셨다!"
 PER_shah_is_dead_press_f_desc:0 "오늘 아침 6시 30분에 [PER.GetNameDef]의 샤 아흐마드 카자르께서 마지막 숨을 몰아쉬었습니다.샤의 건강상 합병증과 암살 시도로 인한 상처때문에 샤의 죽음은 어느 누구에게도 놀라운 일이 아니지만,샤의 죽음은 [PER.GetNameDef] 곳곳에서 수많은 정치적 혼란를 가져올 것이기 때문에 [PER.GetNameDef]들은 동요하고있습니다.샤의 죽음에 이은 사건들은 이미 움직이고 있습니다.
 PER_long_live:0 "샤여 영원하라!"
-PER_long_live_desc:0 "With the succession crisis over we shall now crown the crown prince and declare the new Shahanshah of [PER.GetNameDef]."
+PER_long_live_desc:0 "왕위 계승 위기가 끝나자 이제 왕세자에게 왕관을 씌우고  [PER.GetNameDef]의 새로운 샤한샤를 선언 할 것입니다."
 PER_reinforced_consti:0 "보강된 헌법"
 PER_reinforced_consti_desc:0 "It's been 3 decades since the constitutional revolution in [PER.GetNameDef]. Sadly, there hasn't been enough time to properly implement the system as Ahmad Shah was either ill or a weak puppet during his reign. It's time to change that and implement a proper constitutional monarchy."
 PER_majis_coop:0 "다수의 국회"
@@ -268,8 +268,8 @@ PER_illiteracy_2_desc:0 "Many people in our nation never received any form of ed
 
 ### Event and Focus flags ###
 monarchy_persia:0 "왕가는 권력을 유지한다."
-constitutional_monarchy_persia:0 "A Constitutional Monarchy has been formed."
-absolute_monarchy_persia:0 "Absolute Rule from the Monarchy has been formed."
+constitutional_monarchy_persia:0 "입헌군주국이 형성되다."
+absolute_monarchy_persia:0 "전제군주국이 형성되다."
 revolution_persia:0 "A Revolution has taken place."
 socdem_gov_persia:0 "민주주의자들이 승리했다."
 radsoc_gov_persia:0 "사회주의자들이 승리했다."
@@ -328,20 +328,20 @@ pers.8.d:0 "샤의 권력이 확보되고 국회가 충성을 다하는 가운�
 pers.8.a:0 "샤여 영원하라!"
 
 pers.10.t:0 "민주당과 사회당은 힘을 합친다"
-pers.10.d:0 "Forces from multiple political party, mostly from the Democrat party and members of the banned Edalat party, have unified against loyalist forces. Forces loyal to the Shah have failed to secure control, and a full revolution is imminent."
+pers.10.d:0 "민주당 소속의 여러 정당과 금지된 Edalat 당원들은 충성파 세력에 대항해 단결했습니다. 샤에 충성하는 군대는 통제력을 확보하지 못했고, 완전한 혁명이 임박했습니다."
 pers.10.a:0 "젠장..."
 
 pers.11.t:0 "정치인들은 하산 미르자와 싸울준비가 되어있다."
-pers.11.d:0 "It is not a surprise to anyone that Hassan Mirza is trying to secure more power for the Qajars. The death of Ahmad was the perfect opportunity that Hassan Mirza was waiting for. However, politicians knew this was coming, and are prepared for it. Forces have been gathered, and they are ready to fight. This could lead to a civil war. However, there is also the opportunity to assassinate Hassan Mirza, which could lead to a more peaceful transition of power."
+pers.11.d:0 "하산 미르자가 카자르를 위해 더 많은 권력을 확보하려 한다는 것은 누구에게도 놀라운 일이 아닙니다.샤 아흐마드의 죽음은 하산 미르자가 기다리고 있던 완벽한 기회였습니다.그러나 정치인들은 이것이 다가올 것을 알고 있었고, 그것에 대비하여 병력을 준비했습니다, 이것은 내전으로 이어질 수도 있지만, 하산 미르자를 암살할 수 있는 기회도 있어 더욱 평화적인 권력 이양이 이뤄질 수 있다고 말했습니다."
 pers.11.a:0 "[PER.GetNameDef]를 위해 싸우는것을 시작하자!"
 pers.11.b:0 "미르자를 암살하라."
 
-pers.12.t:0 "하산 미르자 remains peaceful"
-pers.12.d:0 "Hassan Mirza has surprised everyone by staying peaceful in this opportunity. Many people thought that given the death of his brother, Mirza would try to create an absolute monarchy for the Qajars. However, Mirza has not ordered his troops to do anything, claiming that he wants to keep a peaceful transition of power. Now, it seems things have settled since the death of Ahmad, and people are preparing for the coronation of Hassan Mirza as the new Shah."
+pers.12.t:0 "하산 미르자가 평화를 유지하다"
+pers.12.d:0 "하산 미르자는 이 기회에 평화롭게 지내면서 모두를 놀라게 했습니다.많은 사람들은 그의 형제의 죽음으로 인해 미르자가 카자르족의 절대 왕권을 만들려고 할 것이라고 생각했습니다. 그러나 미르자는 평화적인 권력 이양을 원한다고 주장하며 자신의 군대에 아무 것도 명령하지 않았습니다. 이제 샤 아흐마드의 죽음 이후 모든 것이 해결된 것 같았고,사람들은 새로운 샤로 하산 미르자의 대관식을 준비하고 있습니다."
 pers.12.a:0 "얼마나 현명한 미르자인가."
 
 pers.14.t:0 "Mirza gives no commands and leaves"
-pers.14.d:0 "Hassan Mirza gave his men no orders before fleeing into hiding. This means that the loyalist forces have no direction, no central commands. This gives rebels the opportunity to gather their forces."
+pers.14.d:0 "하산 미르자는 부하들에게 명령을 내리지 않고 잠적했습니다.그것은 이제 충성파 군대는 앞으로의 방향도 없고 중앙의 통제도 없다는 뜻입니다. 이것은 반란군들에게 그들의 군대를 모을 수 있는 기회를 줄 것 입니다."
 pers.14.a:0 "카자르가 힘을 잃을 수 있을까?"
 
 pers.15.t:0 "정치인들은 하산 미르자와 싸울 준비가되어있다."
