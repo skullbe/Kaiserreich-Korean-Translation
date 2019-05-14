@@ -3,7 +3,7 @@ l_english:
 ### Opinion Modifiers ###
 
 NOR_established_relations:0 "외교 관계 수립"
-NOR_CAN_ties:0 "앵글로-노르웨이 결속"
+NOR_CAN_ties:0 "영국-노르웨이 친선"
 
 ### Ideas ###
 NOR_labour_conflicts:0 "노동 분쟁"
@@ -342,8 +342,8 @@ NOR_NAT_alliance_desc:0 "There are many nations with a world view similar to our
 ### Parties ###
 NOR_totalist_party:0 "노르웨이 공산당"
 NOR_totalist_party_long:0 "노르웨이 공산당"
-NOR_Alt_tot_party:0 "노르웨이 민족대중주의당"
-NOR_Alt_tot_party_long:0 "노르웨이 민족대중주의당"
+NOR_Alt_tot_party:0 "노르웨이 국가대중주의당"
+NOR_Alt_tot_party_long:0 "노르웨이 국가대중주의당"
 NOR_syndicalist_party:0 "노르웨이 생디칼리스트 연합"
 NOR_syndicalist_party_long:0 "노르웨이 생디칼리스트 연합"
 NOR_radical_socialist_party:0 "노동당"
