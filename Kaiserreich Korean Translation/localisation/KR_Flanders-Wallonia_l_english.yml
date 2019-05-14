@@ -581,7 +581,7 @@ BEL_Arlon:0 "아를롱 조약 승낙"
 
 ### Traits ###
 Protest:0 "대규모 시위"
-Soldier_King:0 "군인출신 왕"
+Soldier_King:0 "군인 왕"
 
 ### Decisions ###
 BEL_Netherlands_decisions:0 "대 네덜란드 정책"
