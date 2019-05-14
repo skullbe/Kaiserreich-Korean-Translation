@@ -135,6 +135,7 @@ TEX_deal_with_devil:0 "악마와의 거래"
 TEX_deal_with_devil_desc:0 "We are losing the civil war... badly. Our only hope is to set up a temporary truce with [From.GetNameDef], so that we may combine forces against our true enemy. Our proposal will be that the truce last 90 days, but hopefully longer if both sides are willing."
 ACW_break_deal_with_devil:0 "거래 파기"
 ACW_break_deal_with_devil_desc:0 "The time has come for our temporary truce with [From.GetNameDef] to come to an end."
+
 USA_relocate_capital_civil_war:0 "수도 이전"
 
 USA_emergency_reserve:0 "비상동원령 선포"
@@ -270,8 +271,8 @@ amcivwar.12.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
 amcivwar.12.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동 연맹으로 플레이합니다)"
 
 amcivwar.13.t:0 "벼랑 끝의 미국"
-amcivwar.13.d:0 "President Floyd Olson experienced a major blow today as a large number of governors declared his government illegitimate, throwing their support behind either southern populist Huey Long or the syndicalist leader Jack Reed. They have stopped short of seceding from the Union, but have declared that the federal government holds no authority within their state borders until Olson steps down and an 'reconciliation council' under thier chosen leader is put into place to restore order in the nation. In response, President Olson has given the governors thirty days to stand down or be collectively arrested - an order none of the leaders appear interested in obeying, making it all but certain that the United States will descend into civil war for the second time in less than a century."
-amcivwar.13.a:0 "알겠다."
+amcivwar.13.d:0 "플로이드 올슨 대통령은 오늘 다수의 주지사들이 올슨 정부가 불법 정부라고 주장했으며, 남부 대중주의자인 휴이 롱 혹은 생디칼리스트 지도자인 잭 리드에 대한 지지를 던졌습니다. 그들은 연방 탈퇴를 중단했지만, 올슨이 물러나고 국가의 질서를 회복하기 위해 자신들이 선택한 지도자가 '조율 협의회'를 열기 전까지는 연방정부가 주 경계 내에서는 아무런 권한을 행사 할 수 없다고 선언하였습니다. 이에 대해 올슨 대통령은 30일 동안 주지사들에게 사임 혹은 집단 체포 중 하나를 선택하라고 지시하였습니다. 이 명령은 그 어떤 주지사도 따를 생각이 없어보이는데, 미국에 1세기 만에 다시 한번 두번째 내전에 돌입할 것이 거의 확실해보입니다."
+amcivwar.13.a:0 "그렇군."
 
 ### Set Up Events - Garner ###
 amcivwar.14.t:0 "휴이 롱이 정부를 규탄하다"
@@ -379,7 +380,7 @@ amcivwar.37.b:0 "군을 우선순위에 두어라"
 
 amcivwar.38.t:0 "중앙위원회 지시 #764: 혁명교육법"
 amcivwar.38.d:0 "To those who are well educated, either formally or through bitter experience, revolutionary thought comes as easily as breathing. However, many of our comrades, whether in the Steel Belt or elsewhere in America, have been lied to their entire lives by the capitalists, and do not understand how the revolution frees them. Many do not give their heart and soul to the revolution, and some even attempt to sabotage our efforts, unaware that we are the only force that truly cares for them. This must be remedied, and our comrades must be deprogrammed. Should we focus on reaching those in our territory, keeping our own morale up, or should we spread our message throughout enemy territory, and sap their will to fight their liberators? "
-amcivwar.38.a:0 "Focus on the Home Front"
+amcivwar.38.a:0 "내부에 집중하라"
 amcivwar.38.b:0 "적에 집중하라"
 
 amcivwar.39.t:0 "중앙위원회 지시 #984: 전쟁 전 자본주의 정치인들의 판결"
@@ -580,34 +581,34 @@ amcivwar.80.c:0 "오스카 웨스트오버"
 
 amcivwar.90.t:0 "저항 세력의 지원"
 amcivwar.90.d:0 "Rebels fighting for the [Root.GetAdjective] cause elsewhere in the United States have made contact with our government, offering an array of scaveneged supplies."
-amcivwar.90.a:0 "It will be a great help."
+amcivwar.90.a:0 ""많은 도움이 될 것이다."
 
 amcivwar.91.t:0 "생디칼리스트의 지원"
 amcivwar.91.d:0 "Rebels fighting for the [Root.GetAdjective] cause elsewhere in the United States have made contact with our government, offering an array of scaveneged supplies."
-amcivwar.91.a:0 "It will be a great help."
+amcivwar.91.a:0 ""많은 도움이 될 것이다."
 
 amcivwar.92.t:0 "롱주의자의 지원"
 amcivwar.92.d:0 "Rebels fighting for the [Root.GetAdjective] cause elsewhere in the United States have made contact with our government, offering an array of scaveneged supplies."
-amcivwar.92.a:0 "It will be a great help."
+amcivwar.92.a:0 ""많은 도움이 될 것이다."
 
 amcivwar.93.t:0 "충성주의자의 지원"
 amcivwar.93.d:0 "Rebels fighting for the [Root.GetAdjective] cause elsewhere in the United States have made contact with our government, offering an array of scaveneged supplies."
-amcivwar.93.a:0 "It will be a great help."
+amcivwar.93.a:0 "많은 도움이 될 것이다."
 
 amcivwar.94.t:0 "생디칼리스트가 서부에서 봉기하다"
 amcivwar.94.d:0 "Fighting along the West Coast between syndicalist sympathizers and security forces has been severe in recent weeks, but dropped off within the last weeks - leading to hopes that the unions out west had finally given up hope of success. These hopes were dashed as a new uprising was revealed, with a number of militias organized by powerful Teamster and Longshoremen unions in Washington and Oregon state and armed through underground efforts. This opens up a new front in the civil war, should the rebels find a way to break out of the mountains."
-amcivwar.94.a:0 "Hurrah!"
-amcivwar.94.b:0 "More syndicalist scum?!"
+amcivwar.94.a:0 "우라!"
+amcivwar.94.b:0 "생디칼리스트 놈들이 더 늘어난건가?!"
 
 amcivwar.95.t:0 "롱주의자가 켄터키에서 봉기하다"
 amcivwar.95.d:0 "Huey Long always held strong support in the heartland, with states like Kentucky and Indiana only barely swinging elsewhere in the 1936 election. Now, Longist supporters have risen up in Kentucky and the surrounding region, taking up arms gained through the underground to band together and open a new front in the civil war."
-amcivwar.95.a:0 "Hurrah!"
-amcivwar.95.b:0 "This will not help them in the long run."
+amcivwar.95.a:0 "우라!"
+amcivwar.95.b:0 "저들이 '롱 런'하기 에는 도움 되보이지 않는군."
 
 amcivwar.96.t:0 "충성주의자가 펜실베니아에서 봉기하다"
 amcivwar.96.d:0 "Support for the federal government remains strong even in the syndicalist heartland of Pennsylvania, and this has finally been proven as bands of loyalist militia -- reportedly organized in the city of Philadelphia -- rose up in the hills in the central part of the state, claiming the region once more for federal control. Whether they will achieve that goal and open up a new front in the civil war remains to be seen."
-amcivwar.96.a:0 "Hurrah!"
-amcivwar.96.b:0 "A futile effort."
+amcivwar.96.a:0 "우라!"
+amcivwar.96.b:0 "쓸 때 없는 짓이다."
 
 amcivwar.97.t:0 "The [From.GetAdjective] Rebels"
 amcivwar.97.d:0 "We are seeing increased activity by [From.GetAdjective] supporters in [Root.GetNameDef], no doubt supported and funded by the [From.GetAdjective] government. Their funneling of weapons through the underground has led up to rebels rising behind the lines, no doubt intended to harass our forces. Whether they will prove a serious threat remains to be seen."
@@ -879,8 +880,8 @@ amcivwar.224.t:0 "프랑스의 공격"
 amcivwar.224.d:0 "탐욕스러운 프랑스 제국주의자가 우릴 보호해줄 나라가 없음을 알고는 우리를 공격하기로 결정했습니다. 이제는 생존을 위해 싸우는 것 말고는 선택의 여지가 없습니다."
 amcivwar.224.a:0 "가능한 많은 사람을 동원해라."
 
-amcivwar.225.t:0 "독일계 아프리칸스의 공격"
-amcivwar.225.d:0 "중앙아프리카의 독일 행정부는 우리의 외교적 고립에서 이득을 얻기 위해 우리를 공격하기로 결정했습니다. 이제는 생존을 위해 싸우는 것 말고는 선택의 여지가 없습니다."
+amcivwar.225.t:0 "독일계 아프리카인들의 공격"
+amcivwar.225.d:0 "미텔아프리카의 독일 행정부는 우리의 외교적 고립에서 이득을 얻기 위해 우리를 공격하기로 결정했습니다. 이제는 생존을 위해 싸우는 것 말고는 선택의 여지가 없습니다."
 amcivwar.225.a:0 "가능한 많은 사람을 동원해라."
 
 amcivwar.226.t:0 "필리핀에서의 독립 요구"
@@ -1031,7 +1032,7 @@ amcivwar.611.t:0 "[From.GetAdjective]의 장비가 도착하다"
 amcivwar.611.d:0 "[From.GetNameDef]은(는) 우리의 투쟁을 돕기 위해 보병 장비를 배편으로 수송해 주었습니다."
 amcivwar.611.a:0 "가장 필요한 것이군!"
 
-amcivwar.615.t:0 "Emergency Reserves Called Up"
+amcivwar.615.t:0 "비상예비군 소집"
 amcivwar.615.d:0 "With the declaration of war on [Root.GetNameDef] by [From.GetNameDef], veterans of the civil war scrambled to enlist in the national reserves - compelled by a feeling that the [From.GetAdjective] government was preying upon us at our weakest moment. While the new corps are spread all over the country, they are ready and eager to fight against the enemy!"
 amcivwar.615.a:0 "They shall pay for this!"
 
