@@ -15,8 +15,8 @@ MEX_market_liberal_party:0 "자유당"
 MEX_market_liberal_party_long:0 "자유당"
 MEX_social_conservative_party:0 "멕시코 민주당"
 MEX_social_conservative_party_long:0 "멕시코 민주당"
-MEX_authoritarian_democrat_party:0 "멕시코 국가주의당"
-MEX_authoritarian_democrat_party_long:0 "멕시코 국가주의당"
+MEX_authoritarian_democrat_party:0 "멕시코 국민주의당"
+MEX_authoritarian_democrat_party_long:0 "멕시코 국민주의당"
 MEX_paternal_autocrat_party:0 "군부"
 MEX_paternal_autocrat_party_long:0 "군부"
 MEX_national_populist_party:0 "대중단체당"
@@ -321,7 +321,7 @@ MEX_bread_and_roses_desc:0 "'빵과 장미'는 우리의 좌우명이 될 것입
 MEX_military_coup:0 "군사 쿠데타"
 MEX_military_coup_desc:0 "사파타의 죽음 이후, 많은 세력들이 권력 투쟁을 시작했습니다. 거리에서의 총격전과 암살, 그리고 사회적 화합의 붕괴는 멕시코에서 주요 이슈가 되었습니다. 국가와 국민들을 보호하기 위해, 멕시코 군대는 안정을 되찾기 위해 정부에 쿠데타를 일으키기로 결정했습니다."
 MEX_military_junta:0 "군사 정권"
-MEX_military_junta_desc:0 "국가를 정상 궤도에 올려놓기 위해 군부가 설치되어야 합니다. 우리나라의 많은 사람들은 우리의 통치에 반대하지만, '멕시코 국가주의당'과의 동맹으로 우리는 우뚝 서서 다가오는 폭풍을 견뎌낼 것입니다."
+MEX_military_junta_desc:0 "국가를 정상 궤도에 올려놓기 위해 군부가 설치되어야 합니다. 우리나라의 많은 사람들은 우리의 통치에 반대하지만, '멕시코 국민주의당'과의 동맹으로 우리는 우뚝 서서 다가오는 폭풍을 견뎌낼 것입니다."
 
 MEX_privitization:0 "민영화"
 MEX_privitization_desc:0 "국가는 경제에 막대한 영향력을 행사하고 있으며, 항상 수익성이 있는 것은 아닌 공장과 농지를 소유하고 있고, 이로 인해 멕시코는 심각한 예산 적자를 기록하게 되었습니다. 우리는 추가적인 경제 개혁을 위해 예산을 묶는 그런 재산들을 없애기 위한 민영화 계획을 시작할 것입니다."
@@ -356,7 +356,7 @@ MEX_la_patria_es_primero_desc:0 "우리의 독립이 위태롭던 시절, 게레
 
 # Democratic #
 MEX_military_democracy:0 "민주주의 복원"
-MEX_military_democracy_desc:0 "'멕시코 국가주의당'은 우리의 통치 아래에서 안절부절못하고 있으며, 우리가 우리나라에 민주주의를 복원할 것을 요구해 왔습니다. 우리는 그렇게 하기로 결정했고, 단지 극좌 정당들에게 약간의 제한을 두었습니다."
+MEX_military_democracy_desc:0 "'멕시코 국민주의당'은 우리의 통치 아래에서 안절부절못하고 있으며, 우리가 우리나라에 민주주의를 복원할 것을 요구해 왔습니다. 우리는 그렇게 하기로 결정했고, 단지 극좌 정당들에게 약간의 제한을 두었습니다."
 MEX_limited_liberties:0 "제한적 자유"
 MEX_limited_liberties_desc:0 "이제 우리는 민주주의를 복원하겠다고 약속했으니, 우리가 취임했을 때 철회했던 어떠한 자유를 되찾기 시작할 수 있습니다. 우리가 여전히 사회주의자들의 저항을 다루고 있기 때문에 모든 시민의 자유가 보장되는 것은 아니지만, 우리는 몇 가지를 회복함으로써 일반 대중을 안심시킬 수 있습니다."
 MEX_election_monitoring:0 "선거 감시"
@@ -759,7 +759,7 @@ mexico.45.d:0 "시나키스타가 본색을 드러냈습니다. 호세 안토니
 mexico.45.a:0 "피할 수 없는 배신을 저주한다"
 
 mexico.46.t:0 "민주주의를 복원하겠습니까?"
-mexico.46.d:0 "시나키스트의 제안을 우리가 거부하면서, 우리는 반란을 해치울 또다른 선택지가 있습니다. 반란을 진압하기 위해서, 민주주의의 외형을 회복하는 것은 좋을 것입니다. 군부가 분명히 영향력을 행사하겠지만, 우리는 민주주의를 회복하고, 멕시코 국가주의당(PNM)이 멕시코를 인도할 것입니다. 이것은 갈등을 해결하는 데 도움이 될 것입니다."
+mexico.46.d:0 "시나키스트의 제안을 우리가 거부하면서, 우리는 반란을 해치울 또다른 선택지가 있습니다. 반란을 진압하기 위해서, 민주주의의 외형을 회복하는 것은 좋을 것입니다. 군부가 분명히 영향력을 행사하겠지만, 우리는 민주주의를 회복하고, 멕시코 국민주의당(PNM)이 멕시코를 인도할 것입니다. 이것은 갈등을 해결하는 데 도움이 될 것입니다."
 mexico.46.a:0 "민주주의를 복원한다"
 mexico.46.b:0 "권력을 유지한다"
 
