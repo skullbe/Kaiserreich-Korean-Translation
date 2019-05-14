@@ -1,9 +1,9 @@
 l_english:
 
 naval_decisions:0 "해군 결정"
-naval_decisions_desc:0 "과거의 우리는 해군에 더 투자할 능력이 부족했거나 해양강국과 경쟁할 기반시설이 부족했기 때문에, 이 분야에 대한 우리의 기술 대부분이 시대에 뒤떨어져 있고 전 세계의 놀림거리가 되고 있습니다. 그러나 이 분야에서 시대에 발맞추기 위한 노력이 증가고 있으며 현재 우리의 £mapicon_port_strike_result_text §YInfrastructure§! 및 £navy_experience §YNaval Research§! 기술이 개발 중에 있습니다."
+naval_decisions_desc:0 "과거의 우리는 해군에 더 투자할 능력이 부족했거나 해양강국과 경쟁할 기반시설이 부족했기 때문에, 이 분야에 대한 우리의 기술 대부분이 시대에 뒤떨어져 있고 전 세계의 놀림거리가 되고 있습니다. 그러나 이 분야에서 시대에 발맞추기 위한 노력이 증가고 있으며 현재 우리의 £mapicon_port_strike_result_text §Y기반시설§! 및 £navy_experience §Y해군 연구§! 기술이 개발 중에 있습니다."
 naval_decisions_nonmtg:0 "해군 결정"
-naval_decisions_nonmtg_desc:0 "과거의 우리는 해군에 더 투자할 능력이 부족했거나 해양강국과 경쟁할 기반시설이 부족했기 때문에, 이 분야에 대한 우리의 기술 대부분이 시대에 뒤떨어져 있고 전 세계의 놀림거리가 되고 있습니다. 그러나 이 분야에서 시대에 발맞추기 위한 노력이 증가고 있으며 현재 우리의 £mapicon_port_strike_result_text §YInfrastructure§! 및 £navy_experience §YNaval Research§! 기술이 개발 중에 있습니다."
+naval_decisions_nonmtg_desc:0 "과거의 우리는 해군에 더 투자할 능력이 부족했거나 해양강국과 경쟁할 기반시설이 부족했기 때문에, 이 분야에 대한 우리의 기술 대부분이 시대에 뒤떨어져 있고 전 세계의 놀림거리가 되고 있습니다. 그러나 이 분야에서 시대에 발맞추기 위한 노력이 증가고 있으며 현재 우리의 £mapicon_port_strike_result_text §Y기반시설§! 및 £navy_experience §Y해군 연구§! 기술이 개발 중에 있습니다."
 
 ### Costs ###
 NAV_CP_15_PP_15:0 "£pol_power §Y15§! £command_power §Y15§!"
