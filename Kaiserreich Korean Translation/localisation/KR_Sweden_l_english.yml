@@ -274,7 +274,7 @@ swe.330.a:0 "Damn you, stupid Scandinavians!"
 ### Tooltips ###
 SWE_new_generals_tooltip:0 "A §Y2 Skill General§! named §YFrode Lund Hvalkof§! will appear.\nA §Y1 Skill General§! named §YErland Frisvold§! will appear.\n"
 basic_light_tank:0 "기초 경전차"
-battlecruiser:0 "전투순양함"
+battlecruiser:0 "순양전함"
 SWE_tank_divs_unit_tooltip:0 "Gain two §YLight Armoured Divisions§!.\n"
 SWE_jager_div_unit_tooltip:0 "Gain two elite §YMountain Division§!.\n"
 tech_ski_infantry:0 "스키 부대"
