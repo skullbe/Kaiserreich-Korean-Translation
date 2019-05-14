@@ -690,7 +690,7 @@ generic_large_navy_desc:0 "우리 해군은 이 세상의 더 큰 해군에 대�
 generic_submarine_effort:0 "잠수함전"
 generic_submarine_effort_desc:0 "잠수함전은 어뢰정 발명 이후 가장 흥미진진한 해군 개발이며, 가장 고전적인 해군 전쟁 교리에 도전합니다. 우리는 잠수함을 방어할 뿐만 아니라 적함에 사용하는 것이 좋습니다."
 generic_cruiser_effort:0 "전위함"
-generic_cruiser_effort_desc:0 "순양함들은 그저 '저렴한 전투함'만은 아니며, 그런 낡은 사고는 이 선박들의 잠재력을 망칩니다. 우리는 그것들을 우리의 주력함들에 대한 호위로서 사용해야 합니다. 왜냐하면 그들은 해군 폭격기와 어뢰정 같은 작은 배들에 매우 취약하기 때문입니다."
+generic_cruiser_effort_desc:0 "순양함들은 그저 '저렴한 전함'만은 아니며, 그런 낡은 사고는 이 선박들의 잠재력을 망칩니다. 우리는 그것들을 우리의 주력함들에 대한 호위로서 사용해야 합니다. 왜냐하면 그들은 해군 폭격기와 어뢰정 같은 작은 배들에 매우 취약하기 때문입니다."
 generic_destroyer_effort:0 "대잠전"
 generic_destroyer_effort_desc:0 "잠수함의 설계와 전략적 사용을 연구함으로써 우리는 또한 잠수함에 대응하는 법을 배웠습니다. 우리의 구축함들은 그들이 수송선을 효과적으로 호위하고 순찰할 수 있도록 하기 위해 가볍고 작은 전문화된 장비들이 필요할 것입니다."
 generic_capital_ships_effort:0 "주력함"
