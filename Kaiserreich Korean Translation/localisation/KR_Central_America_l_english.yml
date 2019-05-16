@@ -186,9 +186,9 @@ CEN_prepare_your_ass:0 "§RConflict will soon break out on the sub-continent, we
 CEN_sparks_flying:0 "§RWith this, the wheels of conflict deciding Central America's fate will begin to turn.§!"
 
 ### Factions ###
-CEN_liberal_pact:0 "Liberal Pact"
-CEN_revolutionary_front:0 "Revolutionary Front"
-CEN_anti_revolutionary_alliance:0 "People's Vanguard"
+CEN_liberal_pact:0 "자유 협정"
+CEN_revolutionary_front:0 "혁명 전선"
+CEN_anti_revolutionary_alliance:0 "인민 선봉대"
 
 ## Trigger Tooltips ##
 CEN_socialist_aligned:0 "Owner must either be a subject of §Y[Root.GetNameDef]§! or an aligned, socialist Central American nation which isn't at war\n"
