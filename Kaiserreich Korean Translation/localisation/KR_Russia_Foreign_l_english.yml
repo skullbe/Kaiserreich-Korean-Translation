@@ -111,7 +111,6 @@ RUS_demand_karelia_desc:0 "핀란드인들은 현재 러시아 영토를 가지�
 RUS_befriend_finland:0 "핀란드와의 친선"
 RUS_befriend_finland_desc:0 "핀란드는 생각보다도 꽤나 합리적이었으며 우리가 그들과 더 우호적인 관계를 맺고 싶다면 이는 불가능하지 않습니다. 핀란드인들과의 굳건한 동맹은 우리에게 완충국으로서 큰 도움이 될 수 있고 핀란드 병사들은 강인하기로 유명합니다."
 
-can_only_take_one_alliance:0 "§G당신은 동맹을 선택하는 데 있어 단 하나의 중점만을 선택할 수 있습니다. 신중히 선택하십시오!§!"
 RUS_join_entente:0 "협상국 가입"
 RUS_join_entente_desc:0 "세계 대전 기간 동안 우리는 독일 훈족 놈들과 그 동맹국들에 대항하여 영국과 프랑스 옆에 서 있었습니다. 우리는 전우들을 잊지 않았습니다!"
 RUS_join_mitteleuropa:0 "제국 조약 가입"
