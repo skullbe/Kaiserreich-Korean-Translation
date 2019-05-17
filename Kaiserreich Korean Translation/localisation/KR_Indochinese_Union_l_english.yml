@@ -163,8 +163,8 @@ INC_can_core_Cambodia_tooltip:0 "§R캄보디아인들에게서 인도차이나�
 INC_can_core_Laos_tooltip:0 "§R라오스인들에게서 인도차이나인으로의 정체성이 자라날 것입니다.§!\n"
 INC_help_core_Cambodia_tooltip:0 "§G이것은 캄보디아인들이 자신들을 인도차이나인으로 자각할 수 있도록 도움을 줄 것입니다.§!\n"
 INC_help_core_Laos_tooltip:0 "§G이것은 라오스인들이 자신들을 인도차이나인으로 자각할 수 있도록 도움을 줄 것입니다.§!\n"
-INC_Laos_revolutionary_tooltip:0 "§YMinister SouphanouVon is available\nMinister Phomvihanh_Kaysonis available§!"
-INC_Cambodian_revolutionary_tooltip:0 "§YMinister Tou Samouth is available\nMinister Phomvihanh_Kaysonis available§!"
+INC_Laos_revolutionary_tooltip:0 "§YMinister Souphanou Vong is available\nMinister Phomvihanh Kayson is available§!"
+INC_Cambodian_revolutionary_tooltip:0 "§YMinister Tou Samouth is available\nMinister Sisowath Monipong is available\nMinister Boun Oum is available\nMinister Sisowath Youtevong is available\nMinister Sisowath Monireth is available§!"
 INC_help_core_both_tooltip:0 "§GThis will help develop an Indochinese identity among both our Laotian and Cambodian citizens.§!\n"
 INC_Siam_Uprising_tooltip:0 "§GGuerillas will rise up in Laos and Cambodia when we are at war with Siam.§!\n"
 INC_lose_200_support_equiment:0 "§RRemove 500 support equipments from stockpile.§!\n"
@@ -175,6 +175,7 @@ INC_Purge_Socialist:0 "§YNguyen An Ninh§! is executed\n§YTa Thu Thau§! is ex
 INC_Purge_Syndie:0 "§YTa Thu Thau§! is executed\nMinister §YNgo Van§! is executed\nMinister §YPhan Van Hum§! is executed\nMinister §YPham Van Chanh§! is executed\nMinister §YNguyen Van Cu§! is executed\n"
 INC_tetunits_tt:0 "Five militia divisions will be raised."
 INC_siamupris_tt:0 "Four small militia divisions will be raised."
+Nguyen_Chi_Thanh_dead:0 "General Nguyen Chi Thanh is Unavailable."
 
 ### Opinion Modifiers ###
 INC_Liberation:0 "Our comrades support our revolutionary movement!"
