@@ -12,12 +12,15 @@ party_pop_0_70:0 "70-80% 정당 인기도"
 party_pop_0_80:0 "80-90% 정당 인기도"
 party_pop_0_90:0 "90-100% 정당 인기도"
 
-### syndicalist_soc_dem_notice_container ###
-SYNDIE_SOC_DEM_NOTICE:0 "(생디칼리스트 제휴)"
+### Syndie Soc Dem Notice ###
+SYNDIE_SOC_DEM_NOTICE:0 "(생디칼리스트 지지)"
+
+central_america:0 "중앙아메리카"
+india:0 "인도"
 
 ### Starting Events ###
-kr.political.24.t:0 "카이저라이히 Alpha 0.8.6"
-kr.political.24.d:0 "카이저라이히 개발진이 Alpha 0.8.6'버전을 하츠오브아이언4에 선사합니다! 지난 몇 달간 저희 개발진은 세계 구석구석을 모딩하였고, 이 작업물을 여러분에게 선보이게 되었습니다. 저희가 열심히 작업한만큼 여러분이 즐겁게 플레이하시기를 바랍니다. 한가지 알고 계셔야할 것은, 저희는 이 모드를 만들 때, 여러분이 평화회담에서 가능한 모든 지역을 가져간다는 전제하에 개발을 하였습니다, 따라서 그렇게 해주시길 바랍니다! \n\n또한 이 모드가 아직 알파버전인 것을 명심해주세요. 때문에 많은 버그들, 충돌 그 외 골치아픈 문제들이 발생할 수 있습니다. 만약 상기한 문제들을 발견하신다면, 깃허브의 버그트래커에 글을 남겨주세요.  만약 하고 싶은 질문이 있으시다면, 망설이지 마시고 질문해주세요, 다만 질문전에 게임 내에 있는 질의응답란을 먼저 확인해주세요.\n\n즐겁게 플레이하세요! \n                - 카라 개발진 일동, 개발진 목록은 크레딧란에서 보실 수 있습니다."
+kr.political.24.t:0 "카이저라이히 Alpha 0.9 - '북극광'"
+kr.political.24.d:0 "카이저라이히 개발진이 Alpha 0.9 - '북극광' 버전을 하츠오브아이언4에 선사합니다! 지난 몇 달간 저희 개발진은 세계 구석구석을 모딩하였고, 이 작업물을 여러분에게 선보이게 되었습니다. 저희가 열심히 작업한만큼 여러분이 즐겁게 플레이하시기를 바랍니다. 한가지 알고 계셔야할 것은, 저희는 이 모드를 만들 때, 여러분이 평화회담에서 가능한 모든 지역을 가져간다는 전제하에 개발을 하였습니다, 따라서 그렇게 해주시길 바랍니다! \n\n또한 이 모드가 아직 알파버전인 것을 명심해주세요. 때문에 많은 버그들, 충돌 그 외 골치아픈 문제들이 발생할 수 있습니다. 만약 상기한 문제들을 발견하신다면, 깃허브의 버그트래커에 글을 남겨주세요.  만약 하고 싶은 질문이 있으시다면, 망설이지 마시고 질문해주세요, 다만 질문전에 게임 내에 있는 질의응답란을 먼저 확인해주세요.\n\n즐겁게 플레이하세요! \n                - 카라 개발진 일동, 개발진 목록은 크레딧란에서 보실 수 있습니다."
 kr.political.24.a:0 "카이저라이히 개발진분들 고맙습니다!"
 kr.political.24.c:0 "궁금증을 풀어줄 만한게 있을까요?"
 kr.political.24.e:0 "뭔가 놓친게 있는 것 같아..."
@@ -31,7 +34,7 @@ kr.political.26.d:0 "기존에 시작 이벤트에서 조정할 수 있었던 �
 kr.political.26.a:0 "알겠습니다, 감사합니다!"
 
 kr.political.27.t:0 "아이언클래드 패치와 DLC"
-kr.political.27.d:0 "Man the Gun DLC가 필요할까요? 아니면 Waking the Tiger 혹은 Death or Dishonour는요? 세계는 붕괴될 운명인가요?\n\n아닙니다, 아무런 DLC없이도 카이저라이히 Alpha 0.8.6를 플레이하실 수 있습니다 물론 세계는 붕괴하겠지요.\n\n한 가지 더 말하자면, 만약 당신이 DLC를 가지고 있다면, DLC를 적용해서 더 멋진 모델들과 기능들을 사용해보세요!"
+kr.political.27.d:0 "Man the Gun DLC가 필요할까요? 아니면 Waking the Tiger 혹은 Death or Dishonour는요? 세계는 붕괴될 운명인가요?\n\n아닙니다, 아무런 DLC없이도 카이저라이히를 플레이하실 수 있습니다 물론 세계는 붕괴하겠지요.\n\n한 가지 더 말하자면, 만약 당신이 DLC를 가지고 있다면, DLC를 적용해서 더 멋진 모델들과 기능들을 사용해보세요!"
 kr.political.27.a:0 "정보 감사합니다. 이제 게임 좀 할 수 있을까요?"
 
 kr.political.28.t:0 "뭔가 놓친게 있는 것 같아..."
@@ -43,22 +46,26 @@ kr.political.40.t:0 "관계도 설정"
 kr.political.40.d:0 "이것을 보았다면, 버그를 제보해주세요!"
 kr.political.40.a:0 "진지하게, 신고하세요."
 
-### returning cores
+### Returning Cores ###
 return_cores_to_ally:0 "[From.GetAdjective] 영토 반환"
 return_cores_to_ally_desc:0 "[Root.GetAdjective] 정부가 우리가 정당한 명분없이 소유 중인 [From.GetAdjective]의 영토에 대한 문제를 논의하였습니다. 우리의 동맹국인 [From.GetAdjective]에게 영토를 반환해주어야할까요?"
 return_cores_to_subject:0 "[From.GetAdjective] 영토 반환"
 return_cores_to_subject_desc:0 "[Root.GetAdjective] 정부가 우리가 정당한 명분없이 소유 중인 [From.GetAdjective]의 영토에 대한 문제를 논의하였습니다. [From.GetNameDef]에 있는 우리의 속국에게 영토를 반환해주어야할까요?"
 KR_returned_land:0 "우리 영토가 반환되었습니다"
-KR_will_not_return:0 "§Y[This.GetName]§! 지역은 반환되지 §R않을 것§! 입니다\n"
-KR_will_return_rest:0 "[return_to.GetAdjective]의 핵심지역 혹은 영유권을 주장한 다른 지역들이 §Y[return_to.GetNameDef]§!에게 반환될 것입니다\n"
-KR_will_return_all:0 "[return_to.GetAdjective]의 핵심지역 혹은 영유권을 주장한 모든 소유 중인 지역들이 §Y[return_to.GetNameDef]§!에게 반환될 것입니다\n"
-kr.political.75.a:0 "좋아, 모든 인접한 영토를 반환한다"
-kr.political.75.b:0 "요충지를 제외한 모든 인접한 영토를 반환한다"
-kr.political.75.c:0 "비핵심 지역 영토만 반환한다"
-kr.political.75.e:0 "인접한 영토 중에 저들이 요구한 영토만 반환한다"
-kr.political.75.f:0 "우리가 가진 영토 단 1평도 줄 수 없다."
-kr.political.76.t:0 "[From.GetNameDefCap]이(가) [Root.GetAdjective]의 영토를 반환했습니다"
-kr.political.76.d:0 "우리의 동맹국인 [From.GetNameDefCap]이(가) 과거 우리의 소유였던 영토를 반환해주었습니다!"
+
+kr.political.75.t:0 "[From.From.GetAdjective] 영토"
+kr.political.75.d:0 "[Root.GetAdjective] 정부가 우리가 정당한 명분없이 소유 중인 [From.GetAdjective]의 영토에 대한 문제를 논의하였습니다. 우리의 동맹국인 [From.GetAdjective]에게 영토를 반환해주어야할까요?"
+kr.political.75.a:0 "그래, 모든 영토를 반환해주어라"
+KR_will_return_all:0 "[return_to.GetAdjective]의 핵심 주 혹은 영유권 주장을 한 지역에 인접한 영토가 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 [Root.GetAdjective]이(가) §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역을 포함하지 §R않을 것§!입니다."
+kr.political.75.b:0 "그래, 영토를 반환해주어라... 하지만 요충지는 갖고 있을 것이다."
+KR_will_return_rest:0 "[return_to.GetAdjective]의 핵심 주 혹은 영유권 주장을 한 지역에 인접한 영토가 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 [Root.GetAdjective]이(가) §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역이나 운하 같은 §Y요충지§!는 포함하지 §R않을 것§!입니다."
+kr.political.75.c:0 "핵심 지역만 반환해주어라"
+KR_will_return_cores:0 "[return_to.GetAdjective]의 핵심 주에 인접한 지역이 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 이것은 [Root.GetAdjective]이(가) §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역이나 운하 같은 §Y요충지§!는 포함하지 §R않을 것§!입니다. [return_to.GetAdjective]이(가) §Y영유권을 주장한§! 모든 지역도 그대로 가지고 있을 것입니다."
+kr.political.75.e:0 "모두 가지고 있을 것이다!"
+KR_will_not_return:0 "우리는 어떤 영토도 저들에게 반환하지 §R않을 것§!이고 다시 반환 요구를 받지도 않을 것입니다."
+
+kr.political.76.t:0 "[From.GetNameDefCap]이(가) [Root.GetAdjective] 영토를 반환하다"
+kr.political.76.d:0 "우리의 동맹인 [From.GetNameDefCap]이(가) 우리가 과거에 소유하던 영토 중 일부를 반환해주었습니다!"
 kr.political.76.a:0 "좋았어!"
 
 KR_different_ideology:0 "다른 이념"
