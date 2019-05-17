@@ -8,40 +8,40 @@ l_english:
 
 ### Folders ###
 escort_ships_folder:0 "호위함"
-escort_ships_folder_desc:0 "호위함과 부품들, 기뢰부설, 함포지원 그리고 수습책입니다."
+escort_ships_folder_desc:0 "호위함과 부품들, 기뢰부설, 함포지원 그리고 손상통제입니다."
 capital_ships_folder:0 "주력함"
 capital_ships_folder_desc:0 "주력함과 부품들입니다."
 
 ### Technologies ###
 submarine:0 "잠수함"
-submarine_desc:0 "잠수함은 선박을 공격하기 위해 설계된 은밀한 함선입니다. 중잠수함은 크고 더욱 강력하며 넓은 작전반경을 가지고 있고, 일부 지대지 공격과 해안공격 능력을 가지고 있습니다."
+submarine_desc:0 "잠수함은 선박을 공격하기 위해 설계된 은밀한 함선입니다. 중잠수함은 크고 더욱 강력하며 넓은 작전반경을 가지고 있고, 약간의 수상 대 수상 공격 능력과 해안포격 능력을 지녔습니다."
 
-both_cruisers_desc:0 "경순양함 - A light screening vessel. Its primary duty is to shield capital ships from enemy light ships but can also unleash powerful torpedoes that can hurt bigger ships.\n\nHeavy Cruiser - A large armoured cruiser that is pretty flexible. A good choice for nations who can't afford to build larger capital ships."
-cruisers_desc:0 "A medium screening vessel. Its primary duty is to shield capital ships from enemy light ships, but it can also unleash powerful torpedoes that can hurt bigger ships."
+both_cruisers_desc:0 "경순양함 - 가벼운 보조함입니다. 이 배는 주력함을 적 소형함으로부터 보호하는 역할을 맡습니다. 또한, 대형함에게 한방 먹일 수 있는 강력한 어뢰를 발사할 수 있습니다.\n\n장갑순양함 - 여러 종류의 임무를 두루 수행할 수 있는 큰 장갑순양함입니다. 주력함을 건조할 능력이 없는 영세국가에 안성맞춤입니다."
+cruisers_desc:0 "중형 크기의 보조함입니다. 이 배는 주력함을 적 소형함으로부터 보호하는 역할을 맡습니다. 또한, 대형함에게 한방 먹일 수 있는 강력한 어뢰를 발사할 수 있습니다."
 
 light_cruiser:0 "순양함"
-light_cruiser_desc:0 "A medium screening vessel. Its primary duty is to shield capital ships from enemy light ships, but it can also unleash powerful torpedoes that can hurt bigger ships."
+light_cruiser_desc:0 "중형 크기의 보조함입니다. 이 배는 주력함을 적 소형함으로부터 보호하는 역할을 맡습니다. 또한, 대형함에게 한방 먹일 수 있는 강력한 어뢰를 발사할 수 있습니다."
 
 heavy_cruiser:0 "장갑순양함"
-heavy_cruiser_desc:0 "Armoured cruisers are medium-sized ships carrying fairly heavy guns. They are best used for engaging smaller warships, though they can also function as budget capital ships."
+heavy_cruiser_desc:0 "장갑순양함은 상당히 큰 함포를 장착한 중형 크기의 함선입니다. 장갑순양함은 소형함을 상대하는 임무에 최적이지만, 값싼 유사 주력함 역할도 할 수 있습니다."
 
 destroyer:0 "구축함"
-destroyer_desc:0 "The lightest screening vessel. Its job is to defend larger ships and to find and destroy submarines, and it can also menace unescorted capital ships."
+destroyer_desc:0 "가장 가벼운 보조함입니다. 구축함의 임무는 자기보다 더 큰 함선을 보호하고 잠수함을 탐지 및 격침하며, 호위받지 못한 주력함을 위협할 수도 있습니다."
 
-escort_desc:0 "These ships have the primary tasks of protecting larger warships from smaller foes, as well as being able to threaten those larger ships themselves when those vessels lack sufficient escort protection."
-capital_desc:0 "The largest ships in the navy, these have massive firepower and armour, but need protection from small, agile threats."
+escort_desc:0 "호위함들의 주 임무는 자기보다 큰 배를 소형함으로부터 호위하는 것 뿐만 아니라 호위가 엉성한 적 대형함들을 위협하기도 합니다."
+capital_desc:0 "해군에서 가장 거대한 함선들은 엄청난 화력과 두툼한 장갑을 가졌으나 작고 민첩한 위협으로부터의 보호가 필요합니다."
 
 carrier:0 "항공모함"
-carrier_desc:0 "A capital ship able to carry wings of powerful carrier capable aircraft into battle. Also useful as a floating airfield you can position off the coast of your enemy."
+carrier_desc:0 "이 주력함은 비행대를 수송하고 해전에 전개시킬 수 있는, 떠다니는 활주로입니다. 또한 적국을 그들의 해안에서 나오지 못하게 고립시키는 역할로도 적절합니다."
 
 heavy_carrier:0 "중항공모함"
-heavy_carrier_desc:0 "Heavy carriers are usually based on battleship or dreadnought designs, which means they are huge and heavily armoured, but also very expensive."
+heavy_carrier_desc:0 "중항공모함은 흔히 전함이나 드레드노트의 설계에 기반을 두고 있습니다. 그 말은 즉슨, 중항공모함이 넓은 공간과 중장갑을 갖춘 것을 의미하면서 동시에 건조 비용이 매우 높다는 것을 뜻합니다."
 
 battleship:0 "고속전함"
-battleship_desc:0 "Fast Battleships are mid-level capital ships with all-round performance. They balance speed, armour, and firepower, but don't excel in any area."
+battleship_desc:0 "고속전함은 적절한 크기의 다재다능한 주력함입니다. 공,수,주 능력이 적절하게 분배되어 있지만, 반대로 말하면 어느 면에서도 우세를 점하지 못합니다."
 
 SH_battleship:0 "드레드노트"
-SH_battleship_desc:0 "The largest capital ship with the biggest guns and strongest armour that money can buy. Such an expensive investment deserves proper support of smaller screening ships."
+SH_battleship_desc:0 "예산이 허락하는 한 가장 큰 함포와 가장 두꺼운 장갑을 두른 거대한 주력함입니다. 엄청나게 비싸기 때문에 보조함의 호위를 받을 가치가 충분히 있습니다."
 
 convoy:0 "수송선"
 convoy_desc:0 "수송선은 국제 무역과 자원 수입에 쓰입니다. 또한 군대를 수송하거나 해군의 상륙 작전을 전개하는 데에도 사용됩니다."
@@ -62,33 +62,33 @@ nav_av_three:0 "진보된 해군 항공 결정"
 
 ## Shiphull locs for Non-MTG
 ship_hull_submarine:0 "잠수함"
-ship_hull_submarine_desc:0 "S잠수함은 선박을 공격하기 위해 설계된 은밀한 함선입니다. 중잠수함은 크고 더욱 강력하며 넓은 작전반경을 가지고 있고, 일부 지대지 공격과 해안공격 능력을 가지고 있습니다."
+ship_hull_submarine_desc:0 "잠수함은 선박을 공격하기 위해 설계된 은밀한 함선입니다. 중잠수함은 크고 더욱 강력하며 넓은 작전반경을 가지고 있고, 약간의 수상 대 수상 공격 능력과 해안포격 능력을 지녔습니다."
 ship_hull_cruiser:0 "순양함"
-ship_hull_cruiser_desc:0 "A medium screening vessel. Its primary duty is to shield capital ships from enemy light ships, but it can also unleash powerful torpedoes that can hurt bigger ships."
+ship_hull_cruiser_desc:0 "중형 크기의 보조함입니다. 이 배는 주력함을 적 소형함으로부터 보호하는 역할을 맡습니다. 또한, 대형함에게 한방 먹일 수 있는 강력한 어뢰를 발사할 수 있습니다."
 ship_hull_panzerschiff:0 "장갑순양함"
-ship_hull_panzerschiff_desc:0 "Armoured cruisers are medium-sized ships carrying fairly heavy guns. They are best used for engaging smaller warships, though they can also function as budget capital ships."
+ship_hull_panzerschiff_desc:0 "장갑순양함은 상당히 큰 함포를 장착한 중형 크기의 함선입니다. 장갑순양함은 소형함을 상대하는 임무에 최적이지만, 값싼 유사 주력함 역할도 할 수 있습니다."
 ship_hull_light:0 "구축함"
-ship_hull_light_desc:0 "The lightest screening vessel. Its job is to defend larger ships and to find and destroy submarines, and it can also menace unescorted capital ships."
+ship_hull_light_desc:0 "가장 가벼운 보조함입니다. 구축함의 임무는 자기보다 더 큰 함선을 보호하고 잠수함을 탐지 및 격침하며, 호위받지 못한 주력함을 위협할 수도 있습니다."
 ship_hull_carrier:0 "항공모함"
-ship_hull_carrier_desc:0 "A capital ship able to carry wings of powerful carrier capable aircraft into battle. Also useful as a floating airfield you can position off the coast of your enemy."
+ship_hull_carrier_desc:0 "이 주력함은 비행대를 수송하고 해전에 전개시킬 수 있는, 떠다니는 활주로입니다. 또한 적국을 그들의 해안에서 나오지 못하게 고립시키는 역할로도 적절합니다."
 ship_hull_heavy_carrier:0 "중항공모함"
-ship_hull_heavy_carrier_desc:0 "Heavy carriers are usually based on battleship or dreadnought designs, which means they are huge and heavily armoured, but also very expensive."
+ship_hull_heavy_carrier_desc:0 "중항공모함은 흔히 전함이나 드레드노트의 설계에 기반을 두고 있습니다. 그 말은 즉슨, 중항공모함이 넓은 공간과 중장갑을 갖춘 것을 의미하면서 동시에 건조 비용이 매우 높다는 것을 뜻합니다."
 ship_hull_fast_battleship:0 "고속전함"
-ship_hull_fast_battleship_desc:0 "Fast Battleships are mid-level capital ships with all-round performance. They balance speed, armour, and firepower, but don't excel in any area."
+ship_hull_fast_battleship_desc:0 "고속전함은 적절한 크기의 다재다능한 주력함입니다. 공,수,주 능력이 적절하게 분배되어 있지만, 반대로 말하면 어느 면에서도 우세를 점하지 못합니다."
 ship_hull_dreadnought:0 "드레드노트"
-ship_hull_dreadnought_desc:0 "The largest capital ship with the biggest guns and strongest armour that money can buy. Such an expensive investment deserves proper support of smaller screening ships."
+ship_hull_dreadnought_desc:0 "예산이 허락하는 한 가장 큰 함포와 가장 두꺼운 장갑을 두른 거대한 주력함입니다. 엄청나게 비싸기 때문에 보조함의 호위를 받을 가치가 충분히 있습니다."
 
 ## Generic Ships 
-#ship_hull_submarine_0:0 "실험 잠수함 선체"
-#ship_hull_submarine_0:0 "While there had been several earlier attempts to create submersible weapons of war, the first successful and reproducible submersible warships were produced in the early 1900s. Only capable of brief submersion, and very lightly armed, these designs were more of a proof of concept than real combat-capable warships."
+#ship_hull_submarine_0:0 "실험적 잠수함 선체"
+#ship_hull_submarine_0:0 "잠수할 수 있는 무기를 개발하려는 몇몇 이른 시도가 있었지만, 최초의 성공적이고 양산 가능한 잠수함은 1900년대 초기에 건조됐습니다. 잠항은 몇 분 남짓 가능했고, 무장도 매우 초라했습니다. 이 설계는 실제 전투에 쓰기보다는 잠수함이란 개념을 확립하는 데 쓰였습니다."
 ship_hull_submarine_1:0 "세계대전 이전 잠수함 선체"
-ship_hull_submarine_1_desc:0 "The first submersible warships actually capable of effective combat actions, these designs were significant improvements over their predecessors. With diesel-electric engines replacing the primarily petrol-electric engines of the first submarines, they had greatly improved range and surface speed. In combat with enemy warships, they acted mainly as submersible light torpedo boats, but lacked the submerged speed or endurance to remain underwater for more than relatively brief periods. These were the submarines that were used by the major naval powers during the Weltkrieg."
+ship_hull_submarine_1_desc:0 "실제 전투에 적합한 최초의 실용적인 잠수함은 이전 세대 설계보다 상당히 발전했습니다. 이전 세대의 휘발유-전동 기관을 대체한 디젤-전동 기관은 획기적인 작전반경과 수상 속도의 개선을 이뤘습니다. 적 군함과의 실전에서 이들은 주로 잠수하는 소형 어뢰정으로 행동했으나, 여전히 낮은 수중 속도나 비교적으로 짧은 잠항 시간을 가졌습니다. 이 잠수함들이 세계대전에서 해군 강국에 의해 사용되었습니다."
 weltkrieg_submarine_hull_nonmtg:0 "세계대전 잠수함 선체"
-weltkrieg_submarine_hull_nonmtg_desc:0 "With increased range and open-ocean capabilities, these ships incorporated the lessons of the Weltkrieg, becoming more able to serve roles such as fleet scouting and long-range patrols, as well as being more potent in tasks such as merchant ship hunting."
+weltkrieg_submarine_hull_nonmtg_desc:0 "작전반경과 외해 순양 능력의 향상, 그리고 세계대전의 전훈을 반영하여 설계된 이 잠수함은 함대 정찰, 장거리 초계 뿐만 아니라 다양한 임무를 수행할 수 있게 됐습니다. 특히 상선 격침 임무 수행에 있어서 뛰어납니다."
 weltkrieg_submarine_hull:0 "세계대전 잠수함 선체"
-weltkrieg_submarine_hull_desc:0 "With increased range and open-ocean capabilities, these ships incorporated the lessons of the Weltkrieg, becoming more able to serve roles such as fleet scouting and long-range patrols, as well as being more potent in tasks such as merchant ship hunting."
+weltkrieg_submarine_hull_desc:0 "작전반경과 외해 순양 능력의 향상, 그리고 세계대전의 전훈을 반영하여 설계된 이 잠수함은 함대 정찰, 장거리 초계 뿐만 아니라 다양한 임무를 수행할 수 있게 됐습니다. 특히 상선 격침 임무 수행에 있어서 뛰어납니다."
 ship_hull_submarine_2:0 "세계대전 잠수함 선체"
-ship_hull_submarine_2_desc:0 "With increased range and open-ocean capabilities, these ships incorporated the lessons of the Weltkrieg, becoming more able to serve roles such as fleet scouting and long-range patrols, as well as being more potent in tasks such as merchant ship hunting."
+ship_hull_submarine_2_desc:0 "작전반경과 외해 순양 능력의 향상, 그리고 세계대전의 전훈을 반영하여 설계된 이 잠수함은 함대 정찰, 장거리 초계 뿐만 아니라 다양한 임무를 수행할 수 있게 됐습니다. 특히 상선 격침 임무 수행에 있어서 뛰어납니다."
 ship_hull_submarine_3:0 "전간기 점수함 선체" #Early Interwar
 ship_hull_submarine_3_desc:0 "Significantly larger than preceding submarines, some of these designs were of 'cruiser' type, designed for long-range independent operations in commerce raiding and intended to be better equipped to handle combat with enemy light warships while surfaced. As such, they carried heavier gun armament, and had improved surface speed. Their submerged capabilities, however, remained limited."
 ship_hull_submarine_4:0 "개선된 잠수함 선체" #Late Interwar
@@ -122,26 +122,26 @@ torpedo_tech_two:0 "압축산소 어뢰"
 torpedo_tech_two_desc:0 "Since the amount of fuel that can be burned by a torpedo engine (i.e. wet engine) is limited by the amount of oxygen it can carry, compressed-oxygen torpedo which used pure compressed oxygen instead of compressed air had performance unmatched by any contemporary torpedo in service."
 torpedo_tech_three:0 "자기기폭 어뢰"
 torpedo_tech_three_desc:0 "A new detonator detects the shift in the earth's magnetic field when the torpedo passes under the target. An explosion directly under a ship causes much more damage and often breaks the keel of the target, sinking it instantly."
-torpedo_tech_four:0 "전기 어뢰"
+torpedo_tech_four:0 "전기추진 어뢰"
 torpedo_tech_four_desc:0 "Instead of leaving an easily-detected trail of bubbles, a torpedo with an electrical engine remains practically invisible until it hits. This also means that there is no trail leading back to the launching submarine."
 torpedo_tech_five:0 "유도 어뢰"
 torpedo_tech_five_desc:0 "Equipped with an accoustic detector, the torpedo can home in on the biggest source of noise ahead of it - usually the target."
 
-ship_hull_light_1:0 "세계대전이전 경선 선체"
+ship_hull_light_1:0 "세계대전 이전 경함선 선체"
 ship_hull_light_1_desc:0 "The Torpedo Boat Destroyer was the earliest form of destroyer, with the first designs created in 1892. Aimed at protecting the fleet from torpedo boat encounters, these designs were effectively enlarged torpedo boats, designed to be faster and more heavily armed, while still possessing the torpedo attack potential of the torpedo boat. Ships of this type were typically 300-600 tons, and travelled at a top speed of around 26 knots, while carrying a pair of torpedoes and a small armament of guns."
-weltkrieg_light_ship_hull_nonmtg:0 "세계대전 경선 선체"
+weltkrieg_light_ship_hull_nonmtg:0 "세계대전 경함선 선체"
 weltkrieg_light_ship_hull_nonmtg_desc:0 "The Weltkrieg brought a new demand for destroyers: not only were they required to protect their fleets, but they were also stretched thin to protect the Entente shipping lines as well. To meet this need, destroyer designs were streamlined, entering mass production to keep up with demand. Ships of this era were typically 1000 tons, and travelled at a top speed of 34 knots, while carrying a larger pair of torpedoes than their forebears."
-weltkrieg_light_ship_hull:0 "세계대전 경선 선체"
+weltkrieg_light_ship_hull:0 "세계대전 경함선 선체"
 weltkrieg_light_ship_hull_desc:0 "The Weltkrieg brought a new demand for destroyers: not only were they required to protect their fleets, but they were also stretched thin to protect the Entente shipping lines as well. To meet this need, destroyer designs were streamlined, entering mass production to keep up with demand. Ships of this era were typically 1000 tons, and travelled at a top speed of 34 knots, while carrying a larger pair of torpedoes than their forebears."
-ship_hull_light_2:0 "세계대전 경선 선체"
+ship_hull_light_2:0 "세계대전 경함선 선체"
 ship_hull_light_2_desc:0 "The Weltkrieg brought a new demand for destroyers: not only were they required to protect their fleets, but they were also stretched thin to protect the Entente shipping lines as well. To meet this need, destroyer designs were streamlined, entering mass production to keep up with demand. Ships of this era were typically 1000 tons, and travelled at a top speed of 34 knots, while carrying a larger pair of torpedoes than their forebears."
-ship_hull_light_3:0 "전간기 경선 선체" #Early Interwar
+ship_hull_light_3:0 "전간기 경함선 선체" #Early Interwar
 ship_hull_light_3_desc:0 "After the Weltkrieg, both England and Germany continued mass production of older models of destroyer with only slight improvements. It was not until the collapse of the British government and the end of the dreadnought race that navies worldwide began to analyse in-depth the lessons of the Weltkrieg, and how they might be applied to radically improve existing designs. Larger, improved rangefinders and new anti-submarine weapons were fitted, and multiple torpedo launcher tubes were mounted to improve their combat capability. While the overall size of these destroyers was not much larger than their predecessors, they were significantly more useful with a longer range, better armament, and faster speed."
-ship_hull_light_4:0 "개선된 경선 선체" #Late Interwar
+ship_hull_light_4:0 "개선된 경함선 선체" #Late Interwar
 ship_hull_light_4_desc:0 "By 1935, with increasingly potent new aircraft designs entering service, as well as several navies deploying fleet carriers, while there was still some doubt about just how useful the carriers would be in open warfare, concern over the potential threat that aircraft might pose to warships was growing. German carrier operations during the Chinese intervention and continued British exercises had shown the world that the carrier had a purpose in the navy. As a result, this era of destroyer saw the introduction of the dual purpose primary armament, granting a vastly improved anti-aircraft role to the destroyer, again increasing their usefulness. Theses ships would displace up to 2,500 tons, often carrying increased payloads of torpedoes to offset the reduced torpedo loadout on more modern cruisers."
-ship_hull_light_5:0 "진보된 경선 선체"
+ship_hull_light_5:0 "진보된 경함선 선체"
 ship_hull_light_5_desc:0 "With the start of the Second Weltkrieg the world's navies needed cheap anti-aircraft platforms. The British success with carrier combat had shown the world that they were suited for more than just recon and anti-carrier duties, they were required for modern anti-capital ship warfare. Advanced anti-submarine technologies like the new hedgehog depth charges were playing an essential role in combating the major threat to convoy operations, they and the anti-aircraft platforms intensified demands for more destroyers. Were previously destroyer investments were being lowered in favour of cruisers and the new armoured cruisers, destroyers began to return to the fore as an essential part of both the fleet, and the convoy system. While often not larger than their predecessors they were far more technologically advanced, mostly adopting flush decks and far larger torpedo armaments."
-ship_hull_light_6:0 "현대 경선 선체"
+ship_hull_light_6:0 "현대 경함선 선체"
 ship_hull_light_6_desc:0 "Near the end of the Second Weltkrieg, the navies of the world were forced to adapt: new submarines could stay submerged for almost indefinite periods of time, carriers were loaded full of planes more than capable of destroying capital ships, and big gun cruisers were quickly becoming irrelevant in the face of carriers and submarines. The future role of the escort for the main fleet was being taken over almost solely by destroyers in the minds of most naval theorists, with dual purpose rapid firing turrets destroying any planes that dare cross her path in an attempt to dive bomb her. The displacement of these vessels rose as well, often coming up to 3,000 tons as designers loaded them with more and more anti-aircraft weapons, as well as more primary guns."
 
 dd_torpedo_module_one:0 "세계대전 이후 어뢰 발사기"
@@ -162,16 +162,16 @@ dd_utility_module_three_desc:0 "Using modulated sound waves, this system can acc
 dd_utility_module_four:0 "선체 소자화"
 dd_utility_module_four_desc:0 "강력한 전자석 코일을 설치함으로써 함선의 자기 신호를 극적으로 줄여, 함선이 자기감응 기뢰에 쉽게 탐지되지 못하게 합니다."
 
-dd_asw_module_one:0 "폭뢰 레일"
+dd_asw_module_one:0 "폭뢰 투하 레일"
 dd_asw_module_one_desc:0 "A simple explosive container with a pressure-sensitive trigger explodes when it hits a pre-set depth.\n\nMounting this module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
-dd_asw_module_two:0 "폭뢰 방사대"
+dd_asw_module_two:0 "폭뢰 발사대"
 dd_asw_module_two_desc:0 "A simple mechanical device that tosses a depth charge a set distance away from the ship. This means that the destroyer no longer has to drive directly across the target to hit it.\n\nMounting this module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
 dd_asw_module_three:0 "대잠 박격포"
 dd_asw_module_three_desc:0 "A mortar on board the destroyer can throw an explosive charge much further, allowing the ship to maintain sonar contact with the submarine throughout the attack and dramatically increasing its accuracy.\n\nMounting this module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
 dd_asw_module_four:0 "진보된 대잠 박격포"
 dd_asw_module_four_desc:0 "A larger propellant charge throws a proper depth charge set to a specific depth at a submarine from quite a distance.\n\nMounting this module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
 
-dd_gun_module_one:0 "세계대전이후 경포 업그레이드"
+dd_gun_module_one:0 "세계대전 이후 경포 업그레이드"
 dd_gun_module_one_desc:0 ""
 dd_gun_module_two:0 "전간기 경포 업그레이드"
 dd_gun_module_two_desc:0 ""
@@ -191,9 +191,9 @@ gunnery_tech_four_desc:0 ""
 gunnery_tech_five:0 "현대 IPHE 탄약"
 gunnery_tech_five_desc:0 ""
 
-#ship_hull_cruiser_0:0 "방호순양함 "
+#ship_hull_cruiser_0:0 "방호순양함 선체"
 #ship_hull_cruiser_0_desc:0 "Designed with armoured decks but not sides, protected cruisers were common in the navies of the late 19th and early 20th centuries. These ships were lighter, faster, and cheaper alternatives to armoured cruisers designed for trade protection and fleet scouting. They were generally armed with 6 inch or equivalent guns."
-ship_hull_cruiser_1:0 "세계대전이전 순양함 선체" #Light Armoured
+ship_hull_cruiser_1:0 "세계대전 이전 순양함 선체" #Light Armoured
 ship_hull_cruiser_1_desc:0 "Better quality armour and the development of steam turbine engines led to the rise of light armoured cruisers. Faster and better protected than protected cruisers, these designs came to supplant them in the 1910s."
 weltkrieg_cruiser_hull_nonmtg:0 "세계대전 순양함 선체"
 weltkrieg_cruiser_hull_nonmtg_desc:0 "The development of cruisers continued during the Weltkrieg, generally trending towards considerably faster designs with heavier firepower."
@@ -210,7 +210,7 @@ ship_hull_cruiser_5_desc:0 "Thanks to increased available funding, the new cruis
 ship_hull_cruiser_6:0 "현대 순양함 선체"
 ship_hull_cruiser_6_desc:0 "The cruisers of the late-war and early post-war period remained similar to the ones of the early war, while incorporating the numerous lessons learned throughout. With air power confirmed to be one of the greatest threats to ships, designers focused on improving AA capabilities even further through better fire-control, improving coordination between batteries and radar. Some navies also experimented with autoloading mechanisms for the main armament, dramatically improving their rates of fire. The rapid pace of rocket and missile development would eventually prove to be the demise of all-gun ships, including cruisers, making this the last generation of 'old type' cruisers for numerous navies."
 
-cruiser_gun_module_one:0 "세계대전이후 경-보통포 업그레이드"
+cruiser_gun_module_one:0 "세계대전 이후 경-보통포 업그레이드"
 cruiser_gun_module_one_desc:0 ""
 cruiser_gun_module_two:0 "전간기 경-보통포 업그레이드"
 cruiser_gun_module_two_desc:0 ""
@@ -223,9 +223,9 @@ cruiser_specialisation_module_one:0 "수상기 발사대"
 cruiser_specialisation_module_one_desc:0 ""
 cruiser_specialisation_module_two:0 "어뢰 저장고"
 cruiser_specialisation_module_two_desc:0 ""
-cruiser_specialisation_module_three:0 "로켓 포"
+cruiser_specialisation_module_three:0 "로켓포"
 cruiser_specialisation_module_three_desc:0 ""
-cruiser_specialisation_module_four:0 "피라미드형 상부구조"
+cruiser_specialisation_module_four:0 "피라미드형 상부 구조물"
 cruiser_specialisation_module_four_desc:0 ""
 
 #ship_hull_carrier_0:0 "수상기모함 선체"
@@ -254,7 +254,7 @@ carrier_side_lift_desc:0 ""
 carrier_catapult:0 "증기 캐터펄트"
 carrier_catapult_desc:0 ""
 
-ship_hull_panzerschiff_1:0 "세계대전이전 장갑함 선체" #Early
+ship_hull_panzerschiff_1:0 "세계대전 이전 장갑함 선체" #Early
 ship_hull_panzerschiff_1_desc:0 "Armoured cruisers were designed to act as independent, long-range, warships, capable of defeating anything less than a battleship and of outrunning battleships. Most carried 8 inch or equivalent guns."
 weltkrieg_panzerschiff_hull_nonmtg:0 "세계대전 장갑함 선체" #Large
 weltkrieg_panzerschiff_hull_nonmtg_desc:0 "As armoured cruiser design advanced, they were intended to be auxiliaries to larger, more heavily armed, battleships, and to supplement them, accomplishing tasks for which battleships were not required."
@@ -271,7 +271,7 @@ ship_hull_panzerschiff_5_desc:0 "Progress in Armoured Cruiser design came with a
 ship_hull_panzerschiff_6:0 "현대 장갑함 선체"
 ship_hull_panzerschiff_6_desc:0 "The evolution of the armoured cruiser, by the mid-1940s, had reached its apex: ships with the speed to hunt cruisers but the firepower to threaten true capital warships enough to keep them on their toes. While the firepower of the ships was less useful with the rise of the Carrier, they found great use in shore bombardment and carrier escort duties. Functionally greatly enlarged cruisers with much heavier armour and guns, most of these ships were armed with six to nine main guns of 11-12 inch or equivalent size; these were extremely high velocity gun designs, allowing for the armour penetration and range to engage battleships respectably while also functioning as an effective lone convoy raider more than capable of dealing with escorting destroyers and lighter cruisers."
 
-ps_hull_module_one:0 "세계대전이후 장갑함 선체 부품"
+ps_hull_module_one:0 "세계대전 이후 장갑함 선체 부품"
 ps_hull_module_one_desc:0 ""
 ps_hull_module_two:0 "전간기 장갑함 선체 부품"
 ps_hull_module_two_desc:0 ""
@@ -280,7 +280,7 @@ ps_hull_module_three_desc:0 ""
 ps_hull_module_four:0 "진보된 장갑함 선체 부품"
 ps_hull_module_four_desc:0 ""
 
-ps_gun_module_one:0 "세계대전이후 보통포 업그레이드"
+ps_gun_module_one:0 "세계대전 이후 보통포 업그레이드"
 ps_gun_module_one_desc:0 ""
 ps_gun_module_two:0 "전간기 보통포 업그레이드"
 ps_gun_module_two_desc:0 ""
