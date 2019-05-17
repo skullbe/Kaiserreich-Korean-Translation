@@ -21,7 +21,7 @@ TUKH_REVOLT:0 "세계 혁명"
 TUKH_SCI:0 "하나된 인류"
 TUKH_PROP:0 "대륙횡단 방송"
 EXP_REV:0 "혁명 수출"
-unlock_soviet:0 "더 많은 동지들"
+unlock_soviet:0 "추가적인 동지들을 해금해야합니다"
 
 ### Opinion Modifiers ###
 SOV_UNI:0 "인민위원평의회 설립"
@@ -32,9 +32,9 @@ SOV_FRI:0 "소비에트-미국 협력 조약"
 SOV_civil_war:0 "러시아 내전"
 
 ### Tooltips ###
-SOV_crusfleunit_tt:0 "A new fleet of cruisers will be formed in Petrograd."
-SOV_battfleunit_tt:0 "A new fleet of battleships will be formed in Petrograd."
-SOV_redcosunit_tt:0 "Three divisions of Leftist Cossacks will form."
+SOV_crusfleunit_tt:0 "새로운 순양함 함대가 페트로그라드에 소집될 것입니다."
+SOV_battfleunit_tt:0 "새로운 전함 함대가 페트로그라드에 소집될 것입니다."
+SOV_redcosunit_tt:0 "좌파 코카서스 3사단이 소집될 것입니다."
 
 ### Ideologies ###
 SOV_totalist_party:0 "국제주의자"
@@ -452,6 +452,7 @@ sovf.61.t:0 "몽골의 운명"
 sovf.61.d:0 "불량스러운 몽골은 영광스러운 붉은 군대에게 분쇄되었고 그들의 운명을 결정지을 시간이 왔습니다. 다시 한번 우리의 조국으로 편입시킬까요 아니면 우리의 감시하에 독립을 유지시킬까요?"
 sovf.61.a:0 "몽골을 독립시켜라!"
 sovf.61.b:0 "몽골을 조국에 통합시켜라!"
+sovf.61.c:0 "점령을 계속한다"
 sovf.62.t:0 "시베리아 횡단철도의 통합"
 sovf.62.d:0 "시베리아 횡단철도가 있는 지역들은 지금, 우리의 성장하는 사회주의 조국에 통합되었습니다."
 sovf.63.t:0 "몽골의 통합"
