@@ -22,10 +22,13 @@ JF_GENERIC_FLAVOUR_OTHER_VICTORY:0 "구세계의 질서가 폐허가 되면서, 
 ### Add Custom Localisation Here ###
 
 #North America
+JF_CAN_USA_FLAVOUR:0 "Though scarcely recovered from the Civil War, the United States has decided to join [CAN.GetNameDef] in their quest to liberate their homeland and Europe from syndicalism."
+JF_GER_USA_FLAVOUR:0 "Though scarcely recovered from the Civil War, the United States has decided to join [GER.GetNameDef] in the Reichspakt, owing to a shared hatred for syndicalism."
+JF_FRA_CSA_FLAVOUR:0 "Now that the Combined Sydnicates stand victorious in America, they have pivoted towards France, formally joining the syndicalist alliance. Reactionaries of the world tremble as America's industrial power is repurposed for the revolution."
 
 #Central America
 JF_COS_GER_FLAVOUR:0 "Intertwined through the ZKG coffee barons and forced to look away from the USA for its protection, a treaty of military assistance has been signed with the [faction_leader.GetFactionName] together with access to the Puerto Limon naval facilities."
-JF_COS_CAN_FLAVOUR:0 "Abandonned by their trusted ally, the USA, San José was forced to look further North to ensure its protection from its more predatory neighbours. Ottawa, always eager to have closer control over the Panama Canal region has embraced us"
+JF_COS_CAN_FLAVOUR:0 "Abandoned by their trusted ally in Washington, San José was forced to look further north to ensure its protection from its more predatory neighbours. Ottawa, always eager to have friends close to the Canal, has embraced Costa Rica."
 
 #South America
 JF_ARG_GER_FLAVOUR:0 "양국 간의 성공적인 무역 협정과 군사 협력에 따라, [faction_member.GetLeader]은(는) [faction_leader.GetFactionName]에 가입한다고 선언했습니다." 
@@ -35,17 +38,26 @@ JF_ARG_CAN_FLAVOUR:0 "빈틈없는 외교를 통해 [faction_member.GetLeader]�
 JF_BEL_GER_FLAVOUR:0 "Agreed upon in the Treaty of Arlon, the newborn nation of Belgium has officially rejoined the [faction_leader.GetFactionName] to protect its sovereignty from Syndicalist hawks."
 JF_BEL_CAN_FLAVOUR:0 "Allies on the Yzer during the Weltkrieg and connected by blood to the British crown, the Van België's have thrown their fate in with their old allies to ensure their survival."
 JF_BEL_FRA_FLAVOUR:0 "The Old Order is crumbling, the [GER.GetName] desintegrating, rise you victims of opression and bring down the Giant in retaliation for 1914!"
-
+JF_CAN_POR_FLAVOUR:0 "Due to [POR.GetName]'s longstanding ties to the royal family in Ottawa they have officially joined the Entente, giving Canada a springboard in Europe for the planned reconquest of the British Isles."
+JF_GER_IRE_FLAVOUR:0 "Due to British provokation, [IRE.GetName] has joined the German sphere, hoping the Kaiser can protect them from syndicalist machinations."
+ 
 #Scandinavia
+JF_GER_SWE_FLAVOUR:0 "With a long history of economic ties to Berlin and rising radicalism in the region, [SWE.GetName] has formally joined the Reichspakt."
+JF_FRA_SWE_FLAVOUR:0 "Following [SWE.GetLeader]'s overthrow of Sweden's government, they have formally aligned the [SWE.GetNameDef] with Paris, joining the Third Internationale."
+JF_GER_FIN_FLAVOUR:0 "With the threat of domestic radicalism crushed and Russia seeking to reclaim its European territories, [FIN.GetLeader] has consolidated their relationship with the Reichspakt, hoping they can provide much-needed security for the small nation."
+JF_FRA_FIN_FLAVOUR:0 "Following [FIN.GetLeader]'s overthrow of the monarchy, they have aligned themselves with the global syndicalist movement, and formally joined the Third Internationale."
+JF_FRA_NOR_FLAVOUR:0 "Following the overthrow of the monarchy, the new Norwegian syndicalist government has formally aligned itself with the Third Internationale, joining France and the other revolutionary nations of the world."
+JF_CAN_NOR_FLAVOUR:0 "With the immediate threat of domestic radicalism crushed, [NOR.GetName] has aligned with Canada, providing the Entente with a staging location for their invasion of the British Home Isles."
 
 #Southern Europe
+JF_AUS_ITA_FLAVOUR:0 "With Gabriele D'Annunzio's radicalism contained at the ballot box, the [ITA.GetNameDef] has formally joined Austria's defense pact, hoping to contain [SRI.GetNameDef]'s expansion in the peninsula."
 
 #Eastern Europe
 
 #Balkans
 JF_SER_GRE_FLAVOUR:0 "불가리아의 성장세에 대한 공통된 증오 때문에, 그리스는 불가리아를 완전히 없애기 위해 세르비아와 베오그라드 조약에 가입하기로 결정했습니다. 이것은 발칸 반도의 권력 균형을 아주 잘 흔들어 놓을 것입니다."
 JF_SER_ROM_FLAVOUR:0 "오스트리아와 불가리아의 세력이 커짐에 따라 루마니아는 그들의 힘을 억제하기 위해 베오그라드 조약으로의 초청을 수락했습니다. 오스트리아와 불가리아는 화약통이 다시 한번 폭발할 뻔하자 두려움에 떨며 지켜보고 있습니다."
-
+JF_CAN_GRE_FLAVOUR:0 "세계대전 때 연합국이였던 [GRE.GetNameDef]가 공식적으로 캐나다에게 협상국 가입을 요청하여 협상국의 발칸 반도 세력 기반을 제공하였습니다."
 #Middle East
 
 #Africa
@@ -57,5 +69,8 @@ JF_SER_ROM_FLAVOUR:0 "오스트리아와 불가리아의 세력이 커짐에 따
 #South East Asia
 
 #East Asia
+JF_MON_TIB_FLAVOUR:0 "마가 군벌에 대한 공통의 증오로 인해 티베트는 슈테른베르크 남작 세력에 가담하게 되었고, 두 국가는 현재 마가 군벌과의 전쟁을 준비하고 있다. 그러나 이 동맹은 전쟁이 끝난 뒤에도 지속될 것 같는 않아보입니다..."
+
+
 
 #Oceania
