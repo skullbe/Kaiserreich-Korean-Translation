@@ -1064,7 +1064,7 @@ FIN_did_not_recognise_our_independence:0 "Did not recognise our independence"
 FIN_economic_ties_reichspakt:0 "Economic ties"
 
 ### Decisions ###
-fin_join_sdu:0 "스칸디나비아 방위연합에 가입"
+fin_join_sdu:0 "스칸디나비아 방위연맹 가입"
 fin_join_sdu_desc:0 "The Scandinavian Defence Union was founded by the democracies of Denmark, Norway and Sweden to deter outside powers from invading the region. Since we share a desire to keep foreign actors like Russia outside of the Scandinavian region, should we apply to join the alliance?"
 fin_join_nordic_federation:0 "노르딕 연방 가입 신청"
 fin_join_nordic_federation_desc:0 "Our Danish, Norwegian and Swedish comrades have joined in federation with one another. As a fellow Nordic country, we may apply to join the federation at any time, although this will entail giving up some of our sovereignty."
