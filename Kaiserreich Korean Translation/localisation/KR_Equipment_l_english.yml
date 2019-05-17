@@ -7213,13 +7213,14 @@ RUS_mechanized_equipment_2_short:0 "BTR-42"
 RUS_mechanized_equipment_3:0 "BTR-42MT"
 RUS_mechanized_equipment_3_short:0 "BTR-42MT"
 
-RUS_amphibious_mechanized_equipment_1:0 "K-40" 
-RUS_amphibious_mechanized_equipment_1_short:0 "K-40"
-RUS_amphibious_mechanized_equipment_2:0 "MT-LB" 
-RUS_amphibious_mechanized_equipment_2_short:0 "MT-LB"
+RUS_amphibious_mechanized_equipment_1:0 "PTP" 
+RUS_amphibious_mechanized_equipment_1_short:0 "PTP"
+RUS_amphibious_mechanized_equipment_2:0 "PBTR" 
+RUS_amphibious_mechanized_equipment_2_short:0 "PBTR"
 
 #Amphibious
 RUS_amphibious_tank_equipment_1:0 "T-40"
+RUS_amphibious_tank_equipment_2:0 "PT-43"
 
 #Artillery
 
