@@ -34,11 +34,11 @@ hog_the_vozhd:0 "영도자"
 hog_totalist_chairman:0 "총회 의장"
 hog_gentleman_politician:0 "신사 정치인"
 hog_supreme_ruler:0 "최고 통치자"
-hog_grand_old_man:0 "위대한 노장"
+hog_the_grand_old_man:0 "위대한 노장"
+hog_hooded_chairman:0 "정체불명 의장"
 
 ### Economy Minister ###
 eco_administrative_genius:0 "행정 천재"
-eco_army_reform_committee:0 "군 개혁 위원회"
 eco_balanced_budget_economy:0 "균형 예산 경제"
 eco_bank_president:0 "은행 대표"
 eco_construction_magnate:0 "건설 거물"
@@ -67,9 +67,10 @@ eco_strategic_destruction_proponent:0 "공중 전술 지지자"
 eco_u_boat_proponent:0 "유보트 지지자"
 eco_tank_proponent:0 "전차 지지자"
 
-#eco_army_reform_committee:0 "군 개혁 위원회" already defined above
+eco_army_reform_committee:0 "군 개혁 위원회"
 eco_the_minister_for_everything:0 "모든 것을 위한 장관"
 eco_vernacular_industrialiser:0 "대중적인 산업가"
+eco_efficient_director:0 "유능한 이사"
 
 ### Foreign Minister ###
 for_biased_intellectual:0 "편견있는 지식인"
@@ -102,7 +103,8 @@ int_political_specialist:0 "정치 전문가"
 int_dismal_enigma:0 "음침한 수수께끼"
 int_industrial_specialist:0 "산업 전문가"
 int_naval_intelligence_specialist:0 "해군 정보 전문가"
-int_o:0 ""O""
+int_o:0 "\"O\""
+int_fortune_teller:0 "점쟁이"
 
 ### mhc Minister
 cos_school_of_manoeuvre:0 "기동전 교련"
@@ -141,6 +143,7 @@ cc_leader:0 "장군"
 fm_leader:0 "원수"
 navy_leader:0 "제독"
 
+### Unused Vanilla Traits (up for deletion?) ###
 ideological_crusader:0 "이념 운동가"
 popular_figurehead:0 "인기 있는 얼굴마담"
 silent_workhorse:0 "조용한 일꾼"
