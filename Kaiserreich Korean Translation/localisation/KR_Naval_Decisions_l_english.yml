@@ -170,14 +170,14 @@ Naval_Carrier_reverse_engineer_wk_desc:0 "£carrier_texticon  §Y세계대전 �
 Naval_Carrier_reverse_engineer_iw:0 "£carrier_texticon  §Y전간기 항공모함§! 역설계"
 Naval_Carrier_reverse_engineer_iw_desc:0 "£carrier_texticon  §Y전간기 항공모함§§! 계획 접수"
 
-Naval_Panzershiff_reverse_engineer_wk:0 "£heavy_cruiser_texticon  §Y세계대전 장갑함§! 역설계"
-Naval_Panzershiff_reverse_engineer_wk_desc:0 "£heavy_cruiser_texticon  §Y세계대전 장갑함§! 계획 접수"
+Naval_Panzerschiff_reverse_engineer_wk:0 "£heavy_cruiser_texticon  §Y세계대전 장갑함§! 역설계"
+Naval_Panzerschiff_reverse_engineer_wk_desc:0 "£heavy_cruiser_texticon  §Y세계대전 장갑함§! 계획 접수"
 
-Naval_Panzershiff_reverse_engineer_iw:0 "£heavy_cruiser_texticon  §Y전간기 장갑함§! 역설계"
-Naval_Panzershiff_reverse_engineer_iw_desc:0 "£heavy_cruiser_texticon  §Y전간기 장갑함§! 계획 접수"
+Naval_Panzerschiff_reverse_engineer_iw:0 "£heavy_cruiser_texticon  §Y전간기 장갑함§! 역설계"
+Naval_Panzerschiff_reverse_engineer_iw_desc:0 "£heavy_cruiser_texticon  §Y전간기 장갑함§! 계획 접수"
 
-Naval_Panzershiff_reverse_engineer_imp:0 "£heavy_cruiser_texticon  §Y개선된 장갑함§! 역설계"
-Naval_Panzershiff_reverse_engineer_imp_desc:0 "£heavy_cruiser_texticon  §Y개선된 장갑함§! 계획 접수"
+Naval_Panzerschiff_reverse_engineer_imp:0 "£heavy_cruiser_texticon  §Y개선된 장갑함§! 역설계"
+Naval_Panzerschiff_reverse_engineer_imp_desc:0 "£heavy_cruiser_texticon  §Y개선된 장갑함§! 계획 접수"
 
 Naval_Fast_Battleships_reverse_engineer_wk:0 "£battleship_texticon  §Y세계대전 고속전함§! 역설계"
 Naval_Fast_Battleships_reverse_engineer_wk_desc:0 "£battleship_texticon  §Y세계대전 고속전함§! 계획 접수"
