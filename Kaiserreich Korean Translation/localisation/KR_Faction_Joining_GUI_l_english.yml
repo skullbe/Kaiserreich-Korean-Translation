@@ -22,9 +22,9 @@ JF_GENERIC_FLAVOUR_OTHER_VICTORY:0 "구세계의 질서가 폐허가 되면서, 
 ### Add Custom Localisation Here ###
 
 #North America
-JF_CAN_USA_FLAVOUR:0 "Though scarcely recovered from the Civil War, the United States has decided to join [CAN.GetNameDef] in their quest to liberate their homeland and Europe from syndicalism."
-JF_GER_USA_FLAVOUR:0 "Though scarcely recovered from the Civil War, the United States has decided to join [GER.GetNameDef] in the Reichspakt, owing to a shared hatred for syndicalism."
-JF_FRA_CSA_FLAVOUR:0 "Now that the Combined Sydnicates stand victorious in America, they have pivoted towards France, formally joining the syndicalist alliance. Reactionaries of the world tremble as America's industrial power is repurposed for the revolution."
+JF_CAN_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지만, 미국은 [CAN.GetNameDef]와 함께 그들의 조국과 유럽을 생디칼리즘으로부터 해방시키기로 결정했습니다."
+JF_GER_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지만, 미국은 생디칼리즘에 대한 공통된 적개심을 가진 [GER.GetNameDef]과 함께 하고자 제국 조약에 가입하기로 결정했습니다. "
+JF_FRA_CSA_FLAVOUR:0 "노동연맹이 미국 내전에서 승리한 이후, 노동연맹은 프랑스쪽으로 방향을 틀었고, 공식적으로 생디칼리스트 동맹에 합류하였습니다. 미국의 산업력이 혁명을 위해 쓰이기 시작하면서 세계의 혁명가들은 전율하고 있습니다."
 
 #Central America
 JF_COS_GER_FLAVOUR:0 "Intertwined through the ZKG coffee barons and forced to look away from the USA for its protection, a treaty of military assistance has been signed with the [faction_leader.GetFactionName] together with access to the Puerto Limon naval facilities."
@@ -35,18 +35,18 @@ JF_ARG_GER_FLAVOUR:0 "양국 간의 성공적인 무역 협정과 군사 협력�
 JF_ARG_CAN_FLAVOUR:0 "빈틈없는 외교를 통해 [faction_member.GetLeader]와(과) [faction_leader.GetName]은(는) 공동의 위협을 위해 그들의 차이점을 제쳐두고 이슬라스 말비나스 위기를 해결했습니다." 
 
 #Western Europe
-JF_BEL_GER_FLAVOUR:0 "Agreed upon in the Treaty of Arlon, the newborn nation of Belgium has officially rejoined the [faction_leader.GetFactionName] to protect its sovereignty from Syndicalist hawks."
+JF_BEL_GER_FLAVOUR:0 "아를롱 조약에 동의한 신생국 벨기에는 생디칼리스트 매파들로부터 주권을 수호하기 위해 공식적으로 [faction_leader.GetFactionName]에 재가입 했습니다."
 JF_BEL_CAN_FLAVOUR:0 "Allies on the Yzer during the Weltkrieg and connected by blood to the British crown, the Van België's have thrown their fate in with their old allies to ensure their survival."
 JF_BEL_FRA_FLAVOUR:0 "The Old Order is crumbling, the [GER.GetName] desintegrating, rise you victims of opression and bring down the Giant in retaliation for 1914!"
 JF_CAN_POR_FLAVOUR:0 "Due to [POR.GetName]'s longstanding ties to the royal family in Ottawa they have officially joined the Entente, giving Canada a springboard in Europe for the planned reconquest of the British Isles."
 JF_GER_IRE_FLAVOUR:0 "Due to British provokation, [IRE.GetName] has joined the German sphere, hoping the Kaiser can protect them from syndicalist machinations."
  
 #Scandinavia
-JF_GER_SWE_FLAVOUR:0 "With a long history of economic ties to Berlin and rising radicalism in the region, [SWE.GetName] has formally joined the Reichspakt."
+JF_GER_SWE_FLAVOUR:0 "베를린과의 오랜 경제적인 유대를 가지고 있고, 스칸디나비아에서 급진주의가 대두되면서 [SWE.GetName]은 공식적으로 제국조약에 가입했습니다."
 JF_FRA_SWE_FLAVOUR:0 "Following [SWE.GetLeader]'s overthrow of Sweden's government, they have formally aligned the [SWE.GetNameDef] with Paris, joining the Third Internationale."
 JF_GER_FIN_FLAVOUR:0 "With the threat of domestic radicalism crushed and Russia seeking to reclaim its European territories, [FIN.GetLeader] has consolidated their relationship with the Reichspakt, hoping they can provide much-needed security for the small nation."
 JF_FRA_FIN_FLAVOUR:0 "Following [FIN.GetLeader]'s overthrow of the monarchy, they have aligned themselves with the global syndicalist movement, and formally joined the Third Internationale."
-JF_FRA_NOR_FLAVOUR:0 "Following the overthrow of the monarchy, the new Norwegian syndicalist government has formally aligned itself with the Third Internationale, joining France and the other revolutionary nations of the world."
+JF_FRA_NOR_FLAVOUR:0 "군주제의 전복 이후, 새로운 노르웨이의 생디칼리즘 정부는 프랑스와 세계의 다른 혁명 국가들과 함께 하고자, 제3인터내셔널에 가입했습니다."
 JF_CAN_NOR_FLAVOUR:0 "With the immediate threat of domestic radicalism crushed, [NOR.GetName] has aligned with Canada, providing the Entente with a staging location for their invasion of the British Home Isles."
 
 #Southern Europe
@@ -69,7 +69,7 @@ JF_CAN_GRE_FLAVOUR:0 "세계대전 때 연합국이였던 [GRE.GetNameDef]가 �
 #South East Asia
 
 #East Asia
-JF_MON_TIB_FLAVOUR:0 "마가 군벌에 대한 공통의 증오로 인해 티베트는 슈테른베르크 남작 세력에 가담하게 되었고, 두 국가는 현재 마가 군벌과의 전쟁을 준비하고 있다. 그러나 이 동맹은 전쟁이 끝난 뒤에도 지속될 것 같는 않아보입니다..."
+JF_MON_TIB_FLAVOUR:0 "마가 군벌에 대한 공통의 적개심으로 인해 티베트는 슈테른베르크 남작 세력에 가담하게 되었고, 두 국가는 현재 마가 군벌과의 전쟁을 준비하고 있다. 그러나 이 동맹은 전쟁이 끝난 뒤에도 지속될 것 같는 않아보입니다..."
 
 
 
