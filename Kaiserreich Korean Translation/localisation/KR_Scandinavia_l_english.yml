@@ -368,7 +368,7 @@ scandinavia.11.t:0 "Section 5: The Judicial Branch"
 scandinavia.11.d:0 "Art. 58: Constituent countries may not entertain their own courts of law.\nThe exercise of the judiciary power shall be governed only by Federal Law. Extraordinary courts of justice with judicial power shall not be established. The exercise of the judiciary power shall be governed only by Statute.\nExtraordinary courts of justice with judicial power shall not be established.\nArt. 60: The administration of justice shall always remain independent of the executive power. Rules to this effect shall be laid down by Federal Law.\nArt. 61: The administration of justice shall always remain independent of the executive power. Rules to this effect shall be laid down by Statute.\nWith these articles, one Nordic judicial system for all constituent countries will be established. A few articles more, and their independence will be optimally secured."
 scandinavia.11.a:0 "I don't know if the constituent countries will approve of this..."
 
-scandinavia.12.t:0 "The Scandinavian Internationale"
+scandinavia.12.t:0 "스칸디나비아 인터내셔널"
 scandinavia.12.d:0 "Leading members of the social democratic parties of Scandinavia; primarily of the Socialdemokraterne of Denmark, the Labour Party of Norway and the Swedish Social Democratic Labour Party, as well as some smaller, often local, parties, gathered in Copenhagen to establish their electoral alliance in the federal elections that shall be held in the future.\n\nRightwing Danish media spottingly nicknamed this gathering the 'Scandinavian Internationale' after the international socialist gatherings. While they decided to go for the name of 'Nordic Social Democratic Workers Party', this sobriquet was enthusiastically adopted by the younger socialists, although the leader of the Danish youth wing, Hans Hedtoft, did clarify that the Nordic Social Democratic Party does not endorse syndicalism in any way. According to him, the name appeals based on the second internationale."
 scandinavia.12.a:0 "Hmm, suspicious!"
 
@@ -397,7 +397,7 @@ scandinavia.18.d:0 "Agrarian parties are a curious phenomenon in Northern Europe
 scandinavia.18.a:0 "More concise parties are always good!"
 
 ### Leader descriptions ###
-SCA_FEDERAL_COUNCIL_DESC:0 "The Federal Council of the Nordic Federation is the federal head of state. The council, which consists of the monarchs of the constituent states, is mostly a symbolic institution as it is bound to follow the advice of the federal government."
+SCA_FEDERAL_COUNCIL_DESC:0 "북유럽 연방의 연방평의회는 연방의 최고위 조직이자 국가원수입니다. 구성국의 군주들로 구성된 연방평의회는 연방정부의 권고에 무조건 따르도록 되어있기 때문에 사실상 상징적인 기관입니다."
 
 ### Tooltips ###
 SCA_tt_nordic_fed_tree_opened_up:0 "§RThe Scandinavist Branch of our focus tree working towards a Nordic Federation will be opened up.§!"
