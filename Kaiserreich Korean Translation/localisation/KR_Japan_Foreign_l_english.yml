@@ -89,7 +89,7 @@ KOR_expell_japs_desc:0 "일본 제국주의자들이 우리 조국을 유린하�
 KOR_integrate_japs:0 "통합된 일본인 이주민"
 KOR_integrate_japs_desc:0 "우리는 우리의 취약한 경제를 보강하기 위해 일본 이주민들을 통합하기로 결정했습니다."
 JAP_fengtian_bailout:0 "봉천 구제금융"
-JAP_fengtian_bailout_desc:0 "We are bailing out the Fengtian Government by purchasing sufficient silver to fill their reserve."
+JAP_fengtian_bailout_desc:0 "우리는 그들의 저축을 채우기에 충분한 은을 구매함으로써 봉천 정부를 구제 하고 있습니다."
 JAP_MANTETSU_COLLAPSE:0 "만철 붕괴"
 JAP_MANTETSU_COLLAPSE_desc:0 "With Mantetsu's considerable profits being a major driver in the Japanese economy, and a source for nearly a quarter of the government's yearly revenue, the wholesale seizure and destruction of its operations in China has left the country reeling."
 
@@ -178,7 +178,7 @@ japfor.1.d:0 "After the conclusion of the last phase of the Chinese Civil Wars i
 japfor.1.a:0 "좋아!"
 
 japfor.2.t:0 "봉천의 경제적 개발이 더이상 불가능하다."
-japfor.2.d:0 "Terrible news! Due to our loss of control over the Fengtian Government, we can no longer exploit its resources and industry to support our own."
+japfor.2.d:0 "끔직한 소식입니다! 봉천 정부에 대한 통제력 상실로 인해, 우리는 더 이상 자원과 산업을 이용하여 본국을 지원할 수 없습니다."
 japfor.2.a:0 "젠장!"
 
 japfor.3.t:0 "대 철도 사건"
@@ -194,8 +194,8 @@ japfor.4.b:0 "Put our fate in Berlin's hands, appeal to Germany for intervention
 japfor.4.c:0 "Reject their demands outright."
 
 japfor.5.t:0 "청 제국이 우리의 요구에 고개를 숙이다"
-japfor.5.d:0 "The threat of Japanese power was enough to bend the so-called Qing Emperor to our will."
-japfor.5.a:0 "Glory to the Land of the Rising Sun!"
+japfor.5.d:0 "일본의 무력은 소위 청의 황제를 우리의 의지로 굽히기에 충분했습니다."
+japfor.5.a:0 "떠오르는 해의 나라의 영광이군!"
 
 japfor.6.t:0 "청이 중재를 요청하다"
 japfor.6.d:0 "The Qing Empire has appealed to us to arbitrate over a dispute involving the death of 25 Manchurians and 12 Japanese."
@@ -272,8 +272,8 @@ japfor.21.a:0 "만세!"
 
 japfor.22.t:0 "트란스아무르가 고립되다"
 japfor.22.d:0 "After the Chinese pushed the Japanese back to their Home Islands, Transamur has been in chaos. The Japanese elite have fled back to their home and orders is beginning to break down. The people are ready to depose of Kolchak and return to the Motherland's embrace."
-japfor.22.a:0 "Move in and bring Transamur back under our control."
-japfor.22.b:0 "Move in and bring Transamur back under our control."
+japfor.22.a:0 "트란스아무르를 다시 우리의 통제하에 옮겨라."
+japfor.22.b:0 "트란스아무르를 다시 우리의 통제하에 옮겨라."
 
 japfor.23.t:0 "저무는 해"
 japfor.23.d:0 "The Japanese empire has been utterly defeated by their mortal enemies and forced to surrender all of their mainland territory. We may be able to force them to make a similar deal with us."
@@ -281,11 +281,11 @@ japfor.23.a:0 "Demand all territory outside Japan itself"
 japfor.23.b:0 "The war will continue until we see fit."
 
 japfor.24.t:0 "독일이 우리의 해외 영토를 요구하다"
-japfor.24.d:0 "After being defeated by our mortal enemies, the Germans are now demanding that we turn over all our remaining territory outside our own sacred soil to them."
-japfor.24.a:0 "We Give up! As long as our sacred homeland is intact!"
-japfor.24.b:0 "Never! Banzai!"
+japfor.24.d:0 "우리가 필멸의 적에게서 패배한 뒤, 독일은 우리 성스러운 본토 바깥의 모든 영토를 넘겨줄 것을 요구하고 있습니다."
+japfor.24.a:0 "신성한 본토가 피해받지 않는다면 우리는 포기하겠다!"
+japfor.24.b:0 "어림도 없다! 반자이!"
 
-japfor.240001.t:0 "Japan Has Accepted Our Peace Deal"
+japfor.240001.t:0 "일본이 우리의 평화 협정을 받아들이다."
 japfor.240001.d:0 "In return for peace we demanded much of Japan's overseas territories, but they have accepted and already their territories are being transferred to us."
 japfor.240001.a:0 "좋아."
 
@@ -365,43 +365,43 @@ japfor.44.b:0 "우리가 할 수 있는 건 없다..."
 
 japfor.45.t:0 "독일의 제안"
 japfor.45.d:0 "A German diplomatic ambassador on behalf of the Kaiser has offered our homeland the military support of the German Empire in our struggle with Japan and its lackeys. How shall we react?"
-japfor.45.a:0 "This is the only way to preserve our existence!"
-japfor.45.b:0 "We will win this war on our own!"
+japfor.45.a:0 "이게 우리가 살아남을 유일한 방법이다!"
+japfor.45.b:0 "우리는 이 전쟁에서 스스로 승리 할 것이다!"
 
 japfor.46.t:0 "청이 제국 조약에 가입하였습니다"
 japfor.46.d:0 "청이 우리의 제안을 수락하였으며 이제 청은 우리 위대한 제국 조약의 구성국 중 하나가 되었습니다!"
 japfor.46.a:0 "훌륭하군."
 
 japfor.460001.t:0 "청이 우리의 제안을 거부하다."
-japfor.460001.d:0 "Qing Empire refused our offer and now stands alone against Japan."
+japfor.460001.d:0 "청은 우리의 제안을 거부했습니다. 저들은 일본에 홀로 대항하고 있습니다."
 japfor.460001.a:0 "저 멍청이들!"
 
 japfor.47.t:0 "일본의 요구"
 japfor.47.d:0 "Since the eruption of the conflict in Western Europe, Germany's position in Asia has seriously weakened. Japan has decided to use this opportunity to force us into submission. Their ambassador has brought us an official demand regarding a total political and economic restructuring of our state. Accepting this would mean an end of our status as an independent state. However, fighting an obviously strong Japan could mean complete disaster for us and the entirety of China. How shall we react?"
-japfor.47.a:0 "Accept them. We cannot hope to fight against Japan."
-japfor.47.b:0 "Refuse them outright!"
+japfor.47.a:0 "받아들여라. 우리는 일본과 싸우길 원하지 않는다."
+japfor.47.b:0 "단호하게 거부해라!"
 
 japfor.48.t:0 "청의 굴복"
 japfor.48.d:0 "The Qing Empire was forced to accept all of our economic and political demands. We have successfully secured Qing territory as part of the Great Co-Prosperity Sphere!"
 
 japfor.49.t:0 "청이 우리 요구를 거부하다"
 japfor.49.d:0 "In a show of absolute arrogance, government of the Qing Empire outright refused our reasonable demands, calling them insane and absurd. How shall we react to this slight against the Japanese nation?"
-japfor.49.a:0 "We can't afford this war right now."
-japfor.49.b:0 "Declare war outright!"
+japfor.49.a:0 "우리는 지금 전쟁을 감당할 수 없다."
+japfor.49.b:0 "전쟁을 선포해라!"
 
 japfor.50.t:0 "일본이 우리를 공영권에 초대하다"
 japfor.50.d:0 "The Japanese, seeing an empty space now that the Americans have decided to leave, invited us to join their alliance. This could be chance to make our nation rich and prosperous, but it could be deadly as Japan needs new markets and wants to spread its political influence."
-japfor.50.a:0 "Yes, we gladly accept."
-japfor.50.b:0 "We prefer isolation."
+japfor.50.a:0 "그래, 기꺼이 받아들인다."
+japfor.50.b:0 "우리는 혼자가 더 좋다."
 
 japfor.54.t:0 "필리핀이 우리의 제안을 거절하다"
-japfor.54.d:0 "The Philippines have refused our offer to become a member of Co-Prosperity Sphere. How could they?"
-japfor.54.a:0 "They will regret this!"
+japfor.54.d:0 "필리핀은 공영권에 가입하라는 우리의 제안을 거부 했습니다. 어떻게 감히?"
+japfor.54.a:0 "그들은 후회 할 것이다.!"
 
 japfor.55.t:0 "일본이 우리를 위협하다!"
 japfor.55.d:0 "A large Japanese task force has sailed into the islands and is threatening to attack us if we do not bow to their demand of full surrender!"
-japfor.55.a:0 "Resist them and call for help!"
-japfor.55.b:0 "Surrender is our only option."
+japfor.55.a:0 "저항하고 지원을 요청해라!"
+japfor.55.b:0 "항복만이 유일한 선택지다."
 
 japfor.56.t:0 "필리핀이 도움을 요청하다"
 japfor.56.d:0 "Japan is pounding at the door of Philippines and they have come to us begging for assistance. Should we respond?"
@@ -425,17 +425,17 @@ japfor.59.b:0 "합병하라!"
 
 japfor.60.t:0 "일본의 외교적 노력"
 japfor.60.d:0 "A high level envoy from Japan has brought a plan that would guarantee our independence while giving Japan the military bases it needs to secure the Pacific Ocean. It is unlikely a negative answer will be taken well..."
-japfor.60.a:0 "Accept."
+japfor.60.a:0 "승낙한다."
 japfor.60.b:0 "Refuse and hope for the best."
 
 japfor.61.t:0 "하와이가 우리의 제안을 거절하다"
 japfor.61.d:0 "Our envoy in Hawaii reports the government have refused our generous offer to join the Co-Prosperity Sphere. Should we press this any further?"
-japfor.61.a:0 "Hmph. Their loss!"
+japfor.61.a:0 "흠, 그들이 질 것이다!"
 
 japfor.62.t:0 "일본이 우리를 위협하다!"
 japfor.62.d:0 "A large Japanese task force has sailed into the islands and is threatening to attack us if we do not bow to their demand of full surrender!"
-japfor.62.a:0 "Resist them and call for help!"
-japfor.62.b:0 "Surrender is our only option."
+japfor.62.a:0 "저항하고 지원을 요청해라!"
+japfor.62.b:0 "항복만이 유일한 선택지다."
 
 japfor.63.t:0 "하와이가 항복하다!"
 japfor.63.d:0 "Good for them, they didn't stand a chance anyway."
