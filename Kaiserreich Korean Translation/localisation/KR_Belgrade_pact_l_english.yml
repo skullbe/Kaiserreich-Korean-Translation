@@ -349,14 +349,14 @@ pact.66.t:0 "[From.GetName] 이(가) 점령지대를 설정하는 것을 거부�
 pact.66.d:0 "[From.GetAdjective] 정부는 이전의 불가리아의 영역에 점령지대를 설정하자는 우리의 요구를 거절했습니다. 그들은 그들이 가진 모든 영토는 정당한 자신들의 영토라고 발언했습니다. [From.GetName] 과(와)의 관계는 크게 손상되었고 우리에게 남은 일은 우리의 군사 동맹을 철회하는 것 뿐입니다."
 pact.66.a:0 "충격적이군!"
 
-pact.67.t:0 "End of the occupation of Bulgaria"
-pact.67.d:0 "The time has come to restore Bulgaria as an independent state. They will have to renounce all claims outside their core territory and will be controlled by [Root.GetAdj] government officals to ensure they will never again start such a destructive war."
-pact.67.a:0 "A new beginning."
+pact.67.t:0 "불가리아 점령 종결"
+pact.67.d:0 "불가리아를 독립국가로 부활시킬 때가 왔습니다. 불가리아는 자신들의 핵심 영토 외의 모든 영토에 대한 영유권을 포기해야 할 것이며, 다시는 이런 파괴적인 전쟁을 일으키지 않도록 [Root.GetAdj] 정부가 확실하게 통제할 것입니다."
+pact.67.a:0 "새로운 시작이로군."
 
-pact.68.t:0 "End of the occupation of Bulgaria"
-pact.68.d:0 "The [From.GetAdjective] government have contacted us saying they wish to end the occupation of Bulgaria as 'it has been expundged of all wrongdoing'. Bulgaria will be reestablished as a nominal independent state, but under close [From.GetAdjective] control. In return for giving them the remaining Bulgarian lands we are promised industrial reparations. Shall we agree with them?"
-pact.68.a:0 "Agree, let this be a new beginning."
-pact.68.b:0 "No, we keep the land for ourselves!"
+pact.68.t:0 "불가리아 점령 종결"
+pact.68.d:0 "[From.GetAdjective] 정부는 불가리아 점령으로 '불가리아는 대가를 충분히 치뤘다'고 말하며 우리에게 연락해왔습니다. 불가리아는 명목상 독립국가로 다시 부활하겠지만, [From.GetAdjective] 정부의 밀접한 통치하에 있게 될 것입니다. 그들에게 남은 불가리아 영토를 주는 대가로 우리는 산업적인 보상을 약속받았습니다. 우리는 저들말에 동의해야할까요?"
+pact.68.a:0 "동의한다, 새로운 시작이 되기를 바란다."
+pact.68.b:0 "아니다, 우리는 계속 점령을 할 것이다!"
 
 pact.69.t:0 "Renouncing our claims"
 pact.69.d:0 "We are forced to give up all claims on land outside our territory, but at least we are reestablished as an independent nation."
