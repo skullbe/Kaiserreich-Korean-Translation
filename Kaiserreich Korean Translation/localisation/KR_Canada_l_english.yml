@@ -145,7 +145,7 @@ imperial_conference_36_over:0 "1936년 제국 회의가 끝났습니다"
 CAN_puppet_ENG_or_all_cores:0 "모든 [ENG.GetAdjective]의 코어를 §Y[CAN.GetNameDef]§!나 그 종속국이 소유하고 통제하고 있습니다."
 CAN_puppet_SCT_or_all_cores:0 "모든 [SCT.GetAdjective]의 코어를 §Y[CAN.GetNameDef]§!나 그 종속국이 소유하고 통제하고 있습니다."
 CAN_puppet_WAL_or_all_cores:0 "모든 [WAL.GetAdjective]의 코어를 §Y[CAN.GetNameDef]§!나 그 종속국이 소유하고 통제하고 있습니다."
-CAN_release_GBR:0 "§Y[GBR.GetNameDefCap]§!이 만들어 질 것입니다."
+CAN_release_GBR:0 "§Y[GBR.GetNameDefCap]§!이 만들어 질 것입니다.\n"
 USA_broke_promise:0 "그들의 약속을 어긴다"
 
 CAN_acw_intervention:0 "우리는 어느한쪽을 지원하기로 결정했습니다"
