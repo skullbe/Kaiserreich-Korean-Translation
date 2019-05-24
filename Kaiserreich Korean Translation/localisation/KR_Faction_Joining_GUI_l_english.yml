@@ -27,7 +27,7 @@ JF_GER_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지
 JF_FRA_CSA_FLAVOUR:0 "노동연맹이 미국 내전에서 승리한 이후, 노동연맹은 프랑스쪽으로 방향을 틀었고, 공식적으로 생디칼리스트 동맹에 합류하였습니다. 미국의 산업력이 혁명을 위해 쓰이기 시작하면서 세계의 혁명가들은 전율하고 있습니다."
 
 #Central America
-JF_COS_GER_FLAVOUR:0 "Intertwined through the ZKG coffee barons and forced to look away from the USA for its protection, a treaty of military assistance has been signed with the [faction_leader.GetFactionName] together with access to the Puerto Limon naval facilities."
+JF_COS_GER_FLAVOUR:0 "Intertwined through the ZKG coffee barons, a treaty of military assistance has been signed with the [faction_leader.GetFactionName] together with access to the Puerto Limon naval facilities."
 JF_COS_CAN_FLAVOUR:0 "Abandoned by their trusted ally in Washington, San José was forced to look further north to ensure its protection from its more predatory neighbours. Ottawa, always eager to have friends close to the Canal, has embraced Costa Rica."
 
 #South America
@@ -45,12 +45,12 @@ JF_GER_IRE_FLAVOUR:0 "Due to British provokation, [IRE.GetName] has joined the G
 JF_GER_SWE_FLAVOUR:0 "베를린과의 오랜 경제적인 유대를 가지고 있고, 스칸디나비아에서 급진주의가 대두되면서 [SWE.GetName]은 공식적으로 제국조약에 가입했습니다."
 JF_FRA_SWE_FLAVOUR:0 "Following [SWE.GetLeader]'s overthrow of Sweden's government, they have formally aligned the [SWE.GetNameDef] with Paris, joining the Third Internationale."
 JF_GER_FIN_FLAVOUR:0 "With the threat of domestic radicalism crushed and Russia seeking to reclaim its European territories, [FIN.GetLeader] has consolidated their relationship with the Reichspakt, hoping they can provide much-needed security for the small nation."
-JF_FRA_FIN_FLAVOUR:0 "Following [FIN.GetLeader]'s overthrow of the monarchy, they have aligned themselves with the global syndicalist movement, and formally joined the Third Internationale."
-JF_FRA_NOR_FLAVOUR:0 "군주제의 전복 이후, 새로운 노르웨이의 생디칼리즘 정부는 프랑스와 세계의 다른 혁명 국가들과 함께 하고자, 제3인터내셔널에 가입했습니다."
-JF_CAN_NOR_FLAVOUR:0 "With the immediate threat of domestic radicalism crushed, [NOR.GetName] has aligned with Canada, providing the Entente with a staging location for their invasion of the British Home Isles."
+JF_GER_FIN_FLAVOUR:0 "With the threat of Russia seeking to reclaim its European territories, [FIN.GetLeader] has consolidated their relationship with the Reichspakt, hoping they can provide much-needed security for the small nation."
+JF_FRA_NOR_FLAVOUR:0 "군주제의 전복 이후, 새로운 노르웨이의 생디칼리즘 정부는 제3인터내셔널에 가입했습니다."
+JF_CAN_NOR_FLAVOUR:0 "With the immediate threat of domestic radicalism crushed, [NOR.GetName] has aligned with the Entente."
 
 #Southern Europe
-JF_AUS_ITA_FLAVOUR:0 "With Gabriele D'Annunzio's radicalism contained at the ballot box, the [ITA.GetNameDef] has formally joined Austria's defense pact, hoping to contain [SRI.GetNameDef]'s expansion in the peninsula."
+JF_AUS_ITA_FLAVOUR:0 "With Gabriele D'Annunzio's radicalism contained at the ballot box, the [ITA.GetNameDef] has formally joined Austria's defense pact."
 
 #Eastern Europe
 
