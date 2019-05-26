@@ -358,31 +358,31 @@ pact.68.d:0 "[From.GetAdjective] 정부는 불가리아 점령으로 '불가리�
 pact.68.a:0 "동의한다, 새로운 시작이 되기를 바란다."
 pact.68.b:0 "아니다, 우리는 계속 점령을 할 것이다!"
 
-pact.69.t:0 "Renouncing our claims"
-pact.69.d:0 "We are forced to give up all claims on land outside our territory, but at least we are reestablished as an independent nation."
-pact.69.a:0 "We have no choice."
+pact.69.t:0 "영유권 주장 재고"
+pact.69.d:0 "우리는 할 수 없이 영토 외의 땅에 대한 모든 영유권 주장을 포기해야 하지만, 그래도 우리는 다시 독립국가로 세워지게 되었습니다."
+pact.69.a:0 "할 수 없지."
 
 pact.70.t:0 "불가리아를 지원할까요?"
-pact.70.d:0 "The Serbians have attacked Bulgaria together with their Belgrade Pact allies. During the Weltkrieg, Bulgaria had aided us by fighting alongside our men whilst sending aid in the form of weapons. Some argue we should directly intervene in favour of Bulgaria, but others say this will upset the precarious balance in the Balkans and might result in some of our neighbours declaring war on us. We can of course also ignore the conflict completely, but that would mean we don't help our former ally."
+pact.70.d:0 "세르비아는 자신들의 주도하에 창설한 베오그라드 조약의 동맹들과 함께 불가리아를 공격했습니다. 세계대전 때는 불가리아가 우리에게 무기 지원을 해주면서, 우리 병사들과 함께 싸우며 우리를 도왔습니다. 어떤 이들은 우리가 불가리아를 위해 직접적으로 개입을 해야 한다고 주장하지만, 다른 이들은 이것이 발칸 반도의 불안정한 균형을 깨드릴 것이며, 일부 이웃국가들이 우리에게 선전포고를 하는 결과를 초래 할 수도 있다고 말합니다. 물론 우리는 분쟁을 무시할 수도 있겠지만, 그렇게 한다면 우리는 과거의 동맹을 돕지 않는 것이 됩니다."
 pact.70.a:0 "지원을 보내라."
 pact.70.b:0 "불가리아에게 동맹을 제안해라!"
 pact.70.c:0 "우리가 할 수 있는 것은 없다."
 
 pact.71.t:0 "알바니아가 동맹을 제안했습니다"
-pact.71.d:0 "Surprisingly enough, the Albanians have offered us an alliance, citing the help that we’d offered them during the Weltkrieg when fighting off the Serbians. While this could prove to be beneficial, they could also prove to be a hindrance to the war effort. What say we?"
-pact.71.a:0 "좋아!"
+pact.71.d:0 "놀랍게도 알바니아는 우리에게 동맹을 제안했으며, 우리가 세계대전 기간에 세르비아와 싸울 때 우리가 자신들에게 도움을 주었다는 것을 언급했습니다. 알바니아와의 동맹이 유리하게 작용할 수 있겠지만, 한편으로는 알바니아가 전쟁에서 방해만 될 수 있을지도 모릅니다. 어떻게 해야할까요?"
+pact.71.a:0 "당연히 좋다!"
 pact.71.b:0 "우린 알바니아가 필요없다."
 
 pact.72.t:0 "불가리아가 동맹 제안을 수락했습니다"
-pact.72.d:0 "The Bulgarian government has gladly accepted our offer of an alliance and our troops are already moving into their territory. Together, we will contain the aggression of the Belgrade Pact and defend the territorial integrity of Bulgaria."
+pact.72.d:0 "불가리아 정부는 반갑게 우리의 동맹 제안을 받아들였고, 우리 군대는 이미 불가리아의 영토로 이동 중입니다. 우리는 함께 베오그라드 조약의 침략을 막아내고, 불가리아 영토의 무결성을 수호할 것입니다."
 pact.72.a:0 "우리는 세르비아의 위협을 물리칠 것이다."
 
 pact.73.t:0 "불가리아가 동맹 제안을 거부했습니다"
-pact.73.d:0 "The Bulgarian government has declined our offer of an alliance and have stated that they don't need our help against the Belgrade Pact."
+pact.73.d:0 "불가리아 정분느 우리의 동맹 제안을 거절하였고, 베오그라드 조약과의 전쟁에서 우리의 도움은 필요하지 않다고 하였습니다."
 pact.73.a:0 "그러던가."
 
 pact.74.t:0 "우리는 발칸 전쟁에서 지고 있습니다"
-pact.74.d:0 "Our intervention in the Fourth Balkan War has been a total disaster. Bulgaria is no more, and part of our land is now occupied by the Belgrade Pact. We must sue for peace while we still can!"
+pact.74.d:0 "우리가 4차 발칸전쟁에 개입한 결과, 상당히 처지가 곤란하게 되었습니다. 불가리아는 더 이상 존재하지 않으며, 우리 영토의 일부는 베오그라드 조약이 점거한 상황입니다. 우리는 기회가 있을 때 휴전을 제안해야합니다!"
 pact.74.a:0 "휴전을 제안한다."
 pact.74.b:0 "아직 우린 이길 수 있어!"
 
@@ -396,21 +396,21 @@ pact.76.d:0 "베오그라드 조약이 휴전 제안을 받아들였습니다. �
 pact.76.a:0 "최소한 우리는 주권국가로 남게 되었다!"
 
 pact.77.t:0 "알바니아가 항복했습니다"
-pact.77.d:0 "The joined armed forces of the Belgrade Pact have managed to defeat the Ottomans and have occupied Constantinople. The Ottoman Empire has surrendered an ceded some disputed land to the Pact, but we have to give them their capital back. Another enemy of us is defeated."
-pact.77.a:0 "The Belgrade Pact stands triumphant!"
+pact.77.d:0 "베오그라드 조약 연합군은 가까스로 오스만을 격퇴하고 콘스탄티노플을 점령했습니다. 오스만 제국은 분쟁지역 일부를 조약에 양도했지만, 우리는 오스만의 수도를 돌려주어야합니다. 또다른 적 하나가 패배하게 됬습니다."
+pact.77.a:0 "베오그라드 조약은 승리한다!"
 
 pact.78.t:0 "우리는 발칸전쟁에서 지고 있습니다"
-pact.78.d:0 "Though the Balkan War brought us huge success initially as we managed to conquer Bulgaria, the Albanian intervention has turned the tide. Large parts of Bulgaria are now occupied by the Ottomans, and they continue to push. We can offer the Albanians to cede all land we have gained and dismantle the Belgrade Pact. These are harsh terms but otherwise we might lose our independence."
+pact.78.d:0 "비록 발칸전쟁 초반에는 우리가 불가리아를 점령하면서, 큰 성과를 거두었지만, 알바니아의 개입으로 전세가 역전되었습니다. 불가리아의 많은 지역은 현재 알바니아에 의해 수복되었고, 저들은 계속해서 밀고 들어오고 있습니다. 우리는 알바니아에게 우리가 얻어낸 모든 영토를 양도하고, 베오그라드 조약의 해체를 조건으로 내세워 휴전을 제안할 수 있습니다. 이러한 조치들은 가혹한 조치이지만, 그렇지 않으면 우리는 주건을 상실 할 수도 있습니다."
 pact.78.a:0 "휴전을 제안한다."
 pact.78.b:0 "아직 우린 이길 수 있다!"
 
 pact.79.t:0 "세르비아가 휴전을 제안합니다"
-pact.79.d:0 "We have liberated large parts of Bulgaria and the Belgrade Pact is in retreat. Now, Serbia has approached us with a peace offer. The Belgrade Pact will give up all conquered Bulgarian territory and they will disband their alliance, returning to the pre-war state. In return we allow them to keep their independence."
+pact.79.d:0 "우리는 불가리아의 많은 영토를 해방시켰고, 베오그라드 조약 연합군은 후퇴하고 있습니다. 현재 세르비아는 우리에게 휴전을 제의했습니다. 베오그라드 조약은 얻어낸 모든 불가리아 영토를 포기할 것이며, 전쟁 전의 상태로 돌아가면서 베오그라드 조약을 해체할 것이라고 제안했습니다. 그대신 우리는 저들의 주권을 유지할 수 있도록 허락하게 될 것입니다."
 pact.79.a:0 "피는 충분히 흘렸다. 이만 전쟁을 끝내자."
 pact.79.b:0 "아니, 세르비아는 파괴될 것이다!"
 
 pact.80.t:0 "휴전 협정이 체결되었으며, 전쟁이 끝났습니다"
-pact.80.d:0 "Though the Balkan War brought us huge success initially as we managed to conquer Bulgaria, the Albanian intervention has turned the tide. Large parts of Bulgaria are now occupied by the Albanians. Negotiations between Serbia and the Albanians have resulted in a peace deal. We need to give up all land we gained while the Belgrade Pact will be disbanded."
+pact.80.d:0 "비록 발칸전쟁 초반에는 우리가 불가리아를 점령하면서, 큰 성과를 거두었지만, 알바니아의 개입으로 전세가 역전되었습니다. 불가리아의 많은 지역은 현재 알바니아에 의해 수복되었습니다. 이로인해 세르비아와 알바니아간의 휴전협상이 이루어졌습니다. 우리는 베오그라드 조약의 해체와 동시에 얻어낸 모든 영토를 포기해야합니다."
 pact.80.a:0 "우리는 이 일을 절대 잊지 않을 것이다!"
 
 pact.100.t:0 "조약의 참전"
