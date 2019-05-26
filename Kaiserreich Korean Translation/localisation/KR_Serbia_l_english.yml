@@ -259,12 +259,12 @@ serbia.2.a:0 "세르비아는 영웅들을 잊지 않을 것입니다!"
 
 serbia.3.t:0 "비도프단"
 
-serbia.4.t:0 "새로운 의회 건물 개방"
-serbia.4.d:0 "Construction on a new parliament building started in 1907, with the cornerstone being laid by King Peter I. The Weltkrieg delayed the construction, and the original plans to the building were lost, but a reconstruction of the plans was made by Pavle Ilkic. The interior was designed by Nikolaj Krasnov in the manner of academic traditionalism. The construction of the building was recently completed and the first session in the new edifice is about to be held."
+serbia.4.t:0 "새로운 국회의사당 개방"
+serbia.4.d:0 "1907년에 새로운 국회의사당 건물 시공이 시작되었고, 페타르 1세에 의해 초석이 마련되었습니다. 세계대전은 공사를 지연시켰고, 본래의 건설 계획은 무산되었지만, 그 계획은 파벨 일크익(Pavle Ilkic)이 재개하였습니다. 건물 내부는 니콜라이 크라스노프가 학문적 전통주의 양식으로 설계하였습니다. 최근에 이 건물이 완공되었고, 곧 새로운 이  건물에서 의회가 열릴 예정입니다."
 serbia.4.a:0 "아름답군."
 
 serbia.5.t:0 "군주제의 형태"
-serbia.5.d:0 "Crown Prince Alexander, the legitimate King of Serbia, has finally been allowed to take the throne. However, he has been pressed on how exactly he will rule, within the confines of a constitution or by royal prerogative. He is expected to answer the Assembly shortly."
+serbia.5.d:0 "세르이바의 합법적인 국왕인 알렉산다르 왕세자께서 마침내 왕위에 오르실 수 있게 되었습니다. 하지만 왕세자께서는 정확히 어떻게 헌법의 틀안에서 왕권을 행사할 것인가에 대한 압력을 받아왔습니다. 전하께서 곧 국회에 답변을 할 것으로 예상되고 있습니다."
 serbia.5.a:0 "전제주의는 우리를 계속 강하게 만들 것이다!"
 serbia.5.b:0 "입헌주의가 최선이다."
 
@@ -312,24 +312,24 @@ serbia.14.d:0 "발칸전쟁과 세계대전의 영웅이 오늘 서거하였으�
 serbia.14.a:0 "그를 잊지 않을 것이다."
 
 serbia.15.t:0 "동방 정교회의 지위"
-serbia.15.d:0 "The Orthodox Church, under the leadership of the vocal Patriarch Varnava Rosić, is demanding a reclarification of its legal status in the Serbian state. He wants a constitutional amendment passed on the issue of the national religion."
+serbia.15.d:0 "바르나바 로지치 총대주교의 주도로 정교회는 세르비아에서의 법적지위를 재확대할 것을 요구하고 있습니다. 대주교는 국교문제에 대한 헌법 개정안이 통과되기를 원하고 있습니다."
 serbia.15.a:0 "정교회는 국교다."
 serbia.15.b:0 "우리는 현대적이고 세속적이다!"
 serbia.15.c:0 "정교회는 우리 정부에 속해야 한다."
 
-serbia.16.t:0 "Serbia Asks for Montenegro"
+serbia.16.t:0 "세르비아가 몬테네그로를 원합니다"
 serbia.16.d:0 "The resurgent Serbian state today pressured us to give up Montenegro. The largely Serbian population of that province has for some time voiced their wish to join Serbia. In return for the province, Serbia has told us they will not demand any further Illyrian land."
-serbia.16.a:0 "It will be for the best."
-serbia.16.b:0 "Serbia should stay small."
+serbia.16.a:0 "그것이 최선일 것이다."
+serbia.16.b:0 "세르비아는 소국에 안주해야한다."
 
-serbia.17.t:0 "[From.GetName] Cedes Montenegro"
+serbia.17.t:0 "[From.GetName]이(가) 몬테네그로를 양도해주었습니다"
 serbia.17.d:0 "Today, Serbia has finally gained access to the Adriatic coast. [From.GetName] agreed to cede to us Montenegro, in return for guarantees of Illyrian territorial integrity. Of course, we will only uphold those for as long as we see it fit."
-serbia.17.a:0 "Welcome to the fatherland, brethren."
+serbia.17.a:0 "조국에 온 것을 환영한다 형제여."
 
-serbia.18.t:0 "[From.GetName] Refuses to Cede Montenegro"
+serbia.18.t:0 "[From.GetName]이(가) 몬테네그로 양도를 거절했습니다"
 serbia.18.d:0 "Our enemies in [From.GetName] have refused to cede Montenegro, which should be rightfully ours. With all diplomatic options depleted, the only thing that we can do is to go to war for Montenegro."
-serbia.18.a:0 "Attack!"
-serbia.18.b:0 "Unfortunately, we have to bide our time."
+serbia.18.a:0 "공격하라!"
+serbia.18.b:0 "운이 나쁘게도, 우리는 때를 기다려야한다."
 
 serbia.19.t:0 "첫 함선 건조"
 serbia.19.d:0 "If we focus our newly gained resources, we will be able to produce destroyers and cruisers, which will form the backbone of our navy."
