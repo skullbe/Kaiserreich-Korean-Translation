@@ -95,9 +95,9 @@ JAP_MANTETSU_COLLAPSE_desc:0 "With Mantetsu's considerable profits being a major
 
 ### Focuses - Foreign - Base ###
 JAP_SUN_RISE:0 "떠오르는 해"
-JAP_SUN_RISE_desc:0 "With the political problems at home suppressed, it is time for the Land of the Rising Sun to look beyond her borders. We have many choices, each with their own rewards and challenges. Once we decide which path to take, we can later go more into depth on how to obtain it."
+JAP_SUN_RISE_desc:0 "자국내 정치적 문제들이 해결되면서, 떠오르는 해의 나라의 땅이 국경너머를 볼 때 입니다. 우리에게는 각각의 보상과 도전과제가 있는 많은 선택권이 있습니다. 우리가 갈 길을 결정하면 이후에 어떻게 그 '길'을 얻을지에 대해 깊이있게 알 수 있습니다."
 JAP_fight_giants:0 "팔굉일우"
-JAP_fight_giants_desc:0 "Japan's correct direction on the world stage has long been debated between military scholars and ideologues alike but all agree, is all the world not better when it is under one roof? With this in mind we must choose: Nanshin-ron and Hokushin-ron? To strike North, or to strike South?"
+JAP_fight_giants_desc:0 "세계무대에서 일본의 올바른 방향은 오랫동안 군 학자들과 사상가들 사이에서 논의되어 왔지만, '온 천하가 한집안'인 것이 더 나을 것 입니다. 이를 염두해 두고 우린 선택해야 합니다. '남진론'입니까? '북진론'입니까, 북쪽을 공격해야 합니까? 남쪽을 공격해야 합니까."
 
 ### Focuses - Foreign - Germany/China ###
 JAP_SUN_GERMAN:0 "거대한 독일을 밀어내자!"
@@ -119,15 +119,15 @@ JAP_SUN_GERMAN_ULT_desc:0 "최근 독일과 인터네셔널간에 일어난 전�
 
 ### Focuses - Foreign - Factions ###
 JAP_own_faction:0 "공영권 설립"
-JAP_own_faction_desc:0 "An alliance of Asian nations to oppose Western Imperialism is not a new idea, but now we cannot afford to stand alone. We must found the Co-prosperity Sphere in order to strengthen our position."
+JAP_own_faction_desc:0 "서방 제국주의에 반대하는 아시아 국가들의 동맹은 이전에도 있었지만, 이제는 우리가 홀로 설 여력이 없습니다. 우리는 우리의 입지를 견고하게 하기 위해 공영권을 설립해야 합니다."
 JAP_create_riken:0 "이화학 연구소 설립"
-JAP_create_riken_desc:0 "Rikagaku Kenkyusho, often shortened to 'Riken', has long been among Japan's leading Research and Development institutes. If we provide the funding, it can begin overseas initiatives, and function as a scientific wing of the Co-prosperity sphere aimed at aiding our colonies and allies."
+JAP_create_riken_desc:0 "'이화학 연구소', 혹은 줄여서 '이연'은 일본의 주요 연구 개발 기관 중 하나입니다. 만약 우리가 기금을 제공하면, 해외의 연구 계획들을 시작할 수 있으며, 우리 식민지와 동맹국을 돕는 공영권의 과학적 날개 역할을 할 수 있습니다.
 JAP_SUN_PHIL_invite:0 "필리핀과의 동맹?"
-JAP_SUN_PHIL_invite_desc:0 "Now that the Philippines are independent from western imperialism we can invite them to join our prosperity sphere to liberate the rest of Asia from the Western barbarians!"
+JAP_SUN_PHIL_invite_desc:0 "필리핀이 서방 제국주의로부터 독립함으로써, 우리는 서구 야만족들로부터 아시아의 나머지 국가들을 자유롭게하기 위해 필리핀을 공영권에 가입하도록 초청할 수 있습니다!"
 JAP_SUN_HAW_alliance:0 "하와이와의 동맹?"
-JAP_SUN_HAW_alliance_desc:0 "After the secession of Hawaii in the wake of the American civil war new opportunities were opened for us in the east. Let us offer an alliance to the Hawaiian government."
+JAP_SUN_HAW_alliance_desc:0 "미국 내전의 영향으로 하와이가 독립한 후에 동쪽에 새로운 기회가 열렸습니다. 하와이 정부에 동맹을 제안할 수 있습니다."
 JAP_SUN_SIA:0 "시암과의 동맹?"
-JAP_SUN_SIA_desc:0 "In order to secure pathways for our expansionism against German Empire and its allies it is imperative to secure alliance with Siam as it is located nearby many German key positions in Pacific, namely Singapore, Indochina and Brunei. We can promise them territorial gain on account of German Empire in order to get them to join our alliance."
+JAP_SUN_SIA_desc:0 "독일 제국과 그들의 동맹국에대한 우리의 팽창주의를 위한 통로를 확보하기 위해 싱가포르, 인도차이나 및 브루나이와 같이 독일의 주요 핵심지 근처에 있는 시암과의 동맹을 확보하는 것이 필수적입니다. 그들을 우리 동맹에 가입시키기 위해, 독일 제국 때문에 잃은 영토를 약속 할 수 있습니다."
 JAP_FNG_start_talk:0 "봉천 사업 확장"
 JAP_FNG_start_talk_desc:0 "It is time to expand the operations of the Concordia Association. By giving them significant resources we may, in the long run, do away with the need of Fengtian completely."
 JAP_FNG_talk_1:0 "Idea 1"
@@ -151,7 +151,7 @@ JAP_FNG_final_talk_desc:0 "우리는 할 만큼 했으며, 이제는 봉천 정�
 
 ### Focuses - Foreign - Colonialism ###
 JAP_SUN_COLONY:0 "남진론"
-JAP_SUN_COLONY_desc:0 "For all its strengths, Japan has a key strategic disadvantage in its dependency on foreign oil. In the pursuit of self-reliance and security against ever-encroaching Western imperialism, surely it would be both wise and just to acquire these resources for ourselves, and in so-doing widen our sphere of security?"
+JAP_SUN_COLONY_desc:0 "우리의 모든 장점을 감안해도, 일본은 외국 석유에 대한 의존도에서 중대한 전략적 단점이 있습니다. 서방 제국주의에 대한 자립과 안보를 추구함에있어서, 이러한 자원을 우리를 위해 획득하는 것이 현명하고 정당할 것이며, 그렇게 함으로써 우리의 공영권을 넓힐 수 있을 것입니다."
 JAP_SUN_HAW_annex:0 "하와이 합병!"
 JAP_SUN_HAW_annex_desc:0 "Now that the American position in the pacific is weakened we can make our move to annex Hawaii and open a path to the Americas."
 JAP_demand_indonesia:0 "인도네시아 요구!"
