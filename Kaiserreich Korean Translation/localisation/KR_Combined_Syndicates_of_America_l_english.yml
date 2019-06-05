@@ -449,9 +449,9 @@ CSA_flexible_airforce_desc:0 "Rather than accept any of the APA's suggestions, w
 CSA_unleash_the_hellcat:0 "핼켓 양산"
 CSA_unleash_the_hellcat_desc:0 "One of the most innovative things the airforce has done is present a design for a carrier-based aircraft known as the Bethpage F6 Hellcat, courtesy of the Bethpage Aviation Union & Design Bureau. The Hellcat would be our most agile carrier fighter to date."
 CSA_disband_the_militias:0 "적위군 해산"
-CSA_disband_the_militias_desc:0 "The Red Guard militias served us well in the Revolution, but now their time has ended. By disbanding and then disarming them we can ensure that they don't cause trouble, and keep a large pool of men available to do work incidental, but still important, to future wars."
-CSA_incorporate_the_militias:0 "적위군 통합"
-CSA_incorporate_the_militias_desc:0 "The Red Guard are a vital component of our broad and democratic system, which must be preserved at all costs. To that end we will take advantage of them to serve as experienced reservists, ready to replace casualties on the front lines."
+CSA_disband_the_militias_desc:0 "적위군 민병대는 혁명에서 충성스럽게 활약했지만 이제 그들의 시간은 끝났습니다. 그들을 해산하고 무장해제시켜서 문제를 일으키지 않도록 확실히 해두고, 많은 사람들이 부수적이지만 여전히 중요한 일들에 다시금 종사할 수 있도록 합시다."
+CSA_incorporate_the_militias:0 "적위군 흡수"
+CSA_incorporate_the_militias_desc:0 "적위군은 어떠한 대가를 치르더라도 보존되어야만 하는 우리의 광범위하고 민주적인 체제의 중요한 구성요소입니다. 따라서 우리는 전선에서 사상자를 대신할 수 있는 숙련된 예비대 역할에 그들을 이용할 것입니다."
 CSA_SONAR_project:0 "SONAR 계획"
 CSA_SONAR_project_desc:0 "SONAR is a marine equivalent of RADAR and is a fascinating new proposal brought to us by the American People's Navy or APN. Funding it will ensure we can keep our eyes in the seas as clear as those on land."
 CSA_the_atlantic:0 "대서양 집중"
@@ -470,7 +470,7 @@ CSA_new_lend_lease:0 "미국의 지원"
 CSA_new_lend_lease_desc:0 "미국의 전문성은 우리의 동맹이나 혹은 적의 적을 돕는데 큰 도움이 될 겁니다. 만약 그들이 더 잘 싸운다면 우리는 승리 할 가능성을 높힐 수 있을 것입니다."
 CSA_on_the_beach:0 "해변 위에서"
 CSA_on_the_beach_desc:0 "우리 적은 우리 미군이 그들의 해안에 상륙하는 것을 두려워 해야하며, 그렇기 때문에 우리는 더 먼 해안에 도달 할 수 있는 기술과 힘을 가지도록 노력해야 합니다."
-CSA_from_the_sky:0 "하늘에서 부터"
+CSA_from_the_sky:0 "하늘에서부터"
 CSA_from_the_sky_desc:0 "바다를 가로지를 수 있는 공군력은 우리에게 큰 기회를 제공합니다. 우리는 우리의 동맹이 제공권을 장악하고 전장을 통제하는 것을 도울 수 있을 것입니다."
 CSA_great_leap_forward:0 "위대한 도약"
 CSA_great_leap_forward_desc:0 "우리의 노력이 공고해지고 우리의 목표가 명확해짐에 따라, 미국은 다른 국가들보다 더 빨리 다가오는 세기를 향해 도약 할 수 있게 되었습니다."
@@ -479,15 +479,15 @@ CSA_world_revolution_desc:0 "우리 국가는 당당하게 서서 생디칼리�
 CSA_free_the_west:0 "신세계를 자유롭게 하라"
 CSA_free_the_west_desc:0 "우리가 있어야 할 곳은 구대륙이 아닌 신대륙입니다. 우리는 남북 아메리카에 우위를 확립하여 유럽에 종속되는 대신에 독립적인 생디칼리즘 세력으로 남는 것입니다."
 CSA_mexico_friendship:0 "멕시코와 친선"
-CSA_mexico_friendship_desc:0 "멕시코는 우리에게 우호적이며, 우리 또한 우호적인 친선 조약과 협력을 하는 것이 좋을 듯합니다. 아직까지 잔존한 국경분쟁을 해결하고, 더 나은 군사적 경제적 협력을 통해 북 아메리카를 평화롭게 만들 것입니다."
+CSA_mexico_friendship_desc:0 "멕시코는 우리에게 우호적이며, 우리 또한 우호적인 친선 조약과 협력을 하는 것이 좋을 듯합니다. 아직까지 잔존한 국경분쟁을 해결하고, 더 나은 군사적 경제적 협력을 통해 북아메리카를 평화롭게 만들 것입니다."
 CSA_free_mexico:0 "녹색 전쟁계획"
 CSA_free_mexico_desc:0 "오랜 시간 끝에 마침내 결정되었습니다. - 멕시코는 반드시 무너져야 하며 멕시코 노동자들에게 우리 인민이 가진 것과 같은 자유를 선사해야 합니다."
 CSA_free_canada:0 "적색 전생계획"
-CSA_free_canada_desc:0 "이제 북쪽의 영국을 향해 눈을 돌려야 합니다. - 캐나다는 반드시 몰락해야 합니다."
-CSA_look_to_the_south:0 "남부를 바라보다"
-CSA_look_to_the_south_desc:0 "캐나다와 멕시코에 대한 우위를 확립함으로써, 이제 우리는 남은 아메리카 지역을 향해 나아 갈 수 있게 되었습니다. 혁명의 일부가 되지 못한 국가들은 처리 되어야만 합니다."
+CSA_free_canada_desc:0 "이제 북쪽의 영국인들을 향해 눈을 돌릴 차례입니다. - 캐나다는 멸망해야만 합니다."
+CSA_look_to_the_south:0 "남쪽을 바라보다"
+CSA_look_to_the_south_desc:0 "캐나다와 멕시코에 대한 우위를 확립했으므로, 이제 나머지 아메리카 대륙을 향해 나아갈 수 있게 되었습니다. 혁명의 일부가 되지 못한 국가들을 처리해야만 합니다."
 CSA_master_of_the_west:0 "서방의 주인"
-CSA_master_of_the_west_desc:0 "우리는 우리의 목표를 달성했고, 신대륙의 주인으로써 자본주의의 지배로부터 신대륙을 해방시켰습니다. 유럽이 어떻게 되었던간에 적어도 이 지역은 승리하였고 자유로워졌습니다."
+CSA_master_of_the_west_desc:0 "우리는 우리의 목표를 달성했고, 신대륙의 주인으로써 자본주의의 지배로부터 신대륙을 해방시켰습니다. 유럽이 어떻게 되었던간에, 적어도 이 지역은 승리하였고 자유로워졌습니다."
 
 ### Events ###
 
@@ -506,7 +506,7 @@ CSA_syndicalists_gain_power:0 "이 회의에서 §Y생디칼리스트§!가 힘�
 CSA_radsocs_gain_power:0 "이 회의에서 §Y급진사회주의자§!가 힘을 얻을 것입니다.\n"
 
 csa.3.t:0 "사회주의 헌법 - 체제"
-csa.3.d.socialist:0 "제 1조. 미국의 모든 권력은 인민으로부터 파생되며 또한 국민의 것이다. 인민들은 미국의 정치적 토대를 이루고 있는 전문노동자의회를 통해 국가 권력을 행사한다. 다른 모든 국가 기관은 전문 노동자 의회의 통제 하에 있으며 이에 대한 책임을 가진다.\n\n제 2조. 국가 권력의 모든 대표 기관들은 비밀 투표에 의한 보편적이고 평등하며 직접적인 참정권에 근거하여 시민들에 의해 선출된다. 모든 정부 기관의 대표들은 그들을 선출한 유권자들에게 책임이 있다. 이는 그 임기가 끝나기 전이라 할지라도 어떤 상황, 어떤 방식으로 유권자가 대표자를 파면할 수 있는가에 대한 법률에 의해 결정된다.\n\n제 3조. 그 어떠한 법률이나 행정명령 또는 지방법령과 규정도 본 헌법을 위배하여서는 아니 된다. 모든 국가 기관, 군대, 모든 정당, 공공기관 및 모든 기업과 사업체는 헌법과 법률을 준수해야만 한다. 헌법과 법률에 위배되는 모든 행위는 조사되어야 한다. 그 어떠한 조직이나 개인도 헌법과 법률을 초월하는 특권을 행사할 수 없다."
+csa.3.d.socialist:0 "제 1조. 미국의 모든 권력은 인민으로부터 파생되며 또한 인민의 것이다. 인민들은 미국의 정치적 토대를 이루고 있는 전문노동자의회를 통해 국가 권력을 행사한다. 다른 모든 국가 기관은 전문 노동자 의회의 통제 하에 있으며 이에 대한 책임을 가진다.\n\n제 2조. 국가 권력의 모든 대표 기관들은 비밀 투표에 의한 보편적이고 평등하며 직접적인 참정권에 근거하여 시민들에 의해 선출된다. 모든 정부 기관의 대표들은 그들을 선출한 유권자들에게 책임이 있다. 이는 그 임기가 끝나기 전이라 할지라도 어떤 상황, 어떤 방식으로 유권자가 대표자를 파면할 수 있는가에 대한 법률에 의해 결정된다.\n\n제 3조. 그 어떠한 법률이나 행정명령 또는 지방법령과 규정도 본 헌법을 위배하여서는 아니 된다. 모든 국가 기관, 군대, 모든 정당, 공공기관 및 모든 기업과 사업체는 헌법과 법률을 준수해야만 한다. 헌법과 법률에 위배되는 모든 행위는 조사되어야 한다. 그 어떠한 조직이나 개인도 헌법과 법률을 초월하는 특권을 행사할 수 없다."
 csa.3.d.syndicalist:0 "제 1조. 미국의 모든 권력은 인민으로부터 파생되며 또한 인민의 것이다. 인민들은 미국의 정치적 토대를 이루고 있는 지역 노동조합을 통해 국가 권력을 행사한다. 지역 노동조합이 조합비 지불의 여부를 포함한 기타 조건들을 근거로 특정인의 조합 가입을 거부하는 행위는 금지된다. 다른 모든 국가 기관은 전 산업 평의회의 통제 하에 있으며 이에 대한 책임을 가진다.\n\n제 2조. 노동조합 평의회는 전 산업 평의회 내에서 노동조합 간의 협상을 담당하며, 국가 권력의 모든 대표 기관들은 보편적이고 평등하며 직접적인 참정권에 근거하여 시민들에 의해 선출된다. 모든 정부 기관의 대표들은 그들을 선출한 유권자들에게 책임이 있다. 이는 그 임기가 끝나기 전이라 할지라도 어떤 상황, 어떤 방식으로 유권자가 대표자를 파면할 수 있는가에 대한 법률에 의해 결정된다.\n\n제 3조. 그 어떠한 법률이나 행정명령 또는 지방법령과 규정도 본 헌법을 위배하여서는 아니 된다. 모든 국가 기관, 군대, 모든 정당, 공공기관 및 모든 기업과 사업체는 헌법과 법률을 준수해야만 한다. 헌법과 법률에 위배되는 모든 행위는 전 산업 평의회에 의해 조사되어야 한다. 그 어떠한 조직이나 개인도 헌법과 법률을 초월하는 특권을 행사할 수 없다."
 csa.3.a:0 "승인되었다"
 
@@ -741,7 +741,7 @@ csa.51.d:0 "The presidential election of [GetYear] is here with much fanfare. As
 csa.51.a:0 "[CSA.GetLeader] 각하, 축하드립니다!"
 csa.51.b:0 "이것 봐, 아직도 [CSA.GetLeader] 잖아!"
 csa.51.c:0 "[CSA.GetLeader]? 또?"
-csa.51.d:0 "공정하지도 않고 개방되어있지도 않아보이는군..."
+csa.51.d:0 "공정하지도, 개방되지도 않았군..."
 
 csa.52.t:0 "권력 투쟁"
 csa.52.d:0 "윌리엄 Z 포스터와 얼 브라우더는 오랫동안 서로를 인민의 적으로 여겨왔고, 이는 권력투쟁 과정에서도 마찬가지였습니다. 혁명의 물결이 막바지에 치달음에 따라 이들의 권력투쟁은 새로운 국면으로 치달았습니다. 이 사태가 어떻게 끝날지 감히 말하기는 어렵습니다. 몇몇 인민들은 둘중 하나가 권력투쟁에서 패배할 때 일어날 사태를 두려워하고 있습니다."
@@ -889,7 +889,7 @@ csa.85.d:0 "The hiatus Paul Robeson took from acting to pursue social causes in 
 csa.85.a:0 "Bon Voyage Robeson"
 
 csa.86.t:0 "오염이 없는 산업혁명"
-csa.86.d:0 "오래전에 사회당은 하수도의 청결도를 알아보는데 성공한 바가 있었스빈다. 특히 위스콘신에서는 모리스 휠큇이 공공시설 정비 기관의 개혁과 조직을 통해 도시를 깨끗하게 만들겠다는 약속을 했죠. 이를 통해 힐큇은 시스템 기반 자체를 파괴하거나 재정립 할 필요 없이 시스템을 제조직 할 수 있다는 것을 증명했습니다. 이제 족쇄를 부셨으니, 이러한 사회주의의 원칙은 국가 전역으로 퍼져야 합니다. 피츠버그와 같은 많은 도시들이 하늘을 뒤덮는 오염으로 가득 차 있는 상황에서, 혁명이 끝났기 때문에, 이러한 도시들은 모두 청소하고 현대화 시켜야 합니다. 이를 통해 우리는 국제 사회가 깨끗한 하수도와 마천루를 보게 만들것입니다."
+csa.86.d:0 "오래 전에 사회당은 하수도의 청결도를 대대적으로 조사했었습니다. 특히 위스콘신에서는 모리스 휠큇이 공공시설 정비 기관의 개혁과 조직을 통해 도시를 깨끗하게 만들겠다는 약속을 했죠. 이를 통해 힐큇은 시스템 기반 자체를 파괴하거나 재정립 할 필요 없이 시스템을 제조직 할 수 있다는 것을 증명했습니다. 이제 족쇄를 부셨으니, 이러한 사회주의의 원칙은 국가 전역으로 퍼져야 합니다. 피츠버그와 같은 많은 도시들이 하늘을 뒤덮는 오염으로 가득 차 있는 상황에서, 혁명이 끝났기 때문에, 이러한 도시들을 모두 청소하고 현대화시켜야 합니다. 이를 통해 우리는 국제 사회가 깨끗한 하수도와 마천루를 보도록 만들 것입니다."
 csa.86.a:0 "세계에서 가장 깨끗한 하수도"
 
 csa.87.t:0 "새로운 미국을 위한 국가"
@@ -927,16 +927,16 @@ csa.93.t:0 "Woody Guthrie Music Tour"
 csa.93.d:0 "With Reconstruction on the way famed musician Woody Guthrie and his band the Almanac Singers has gone on a musical tour. Popular with many throughout the country, Guthrie and his band play old classics such as Solidarity Forever and There is Power in a Union but they also have written many new songs, such as This Land is your Land, Ease My Revolutionary Mind, Tear the Capitalists down, and All you Capitalists are bound to lose. The tour has proven to be widely popular in all the venues that he and his band play at."
 csa.93.a:0 "Roll the Union on"
 
-csa.94.t:0 "1st World Science Fiction Convention"
+csa.94.t:0 "제1차 세계 SF 박람회"
 csa.94.d:0 "Today in New York City, the first ever world science fiction was convened, gathering literary minds in science fiction to discuss and talk about the genre of science fiction. It had such people as John W. Campbell, Isaac Asimov, Ray Bradbury, Donald A. Wollheim, Frederick Pohl, John Michel, Robert A. W. Lowndes, and Jack Gillespie. While it had a modest size of 200 participants, it was still considered a success with a second one planned next year."
-csa.94.a:0 "The World of Tomorrow"
+csa.94.a:0 "내일의 세계"
 
 csa.95.t:0 "인디언 혁명"
 csa.95.d:0 "아메리카 원주민들은 구 자본주의 정부로부터 부당한 대우를 받았습니다. 인디언 사무국을 통해 그들은 그들의 땅을 수탈하고 이익을 챙겼죠. 이제 우리는 그러한 사무국들을 없앴으니 인디언들의 문제를 해결 할 수 있을 것입니다. 인디언 혁명 위원회가 만들어졌고, 이 위원회에서는 지역 부족들이나 공동체와 함께 인디언 사무국이 저지른 폐해를 씻겨내고 혁명과 그 이상을 그들의 지역에서 실행 시킬 수 있는지에 대해 논의하기 시작했습니다."
 csa.95.a:0 "아메리카 원주민들에게까지도 혁명은 전파된다."
 
 csa.96.t:0 "미국에서의 여행"
-csa.96.d:0 "혁명이 종료되고 재건이 시작될 때, 여행에 대한 논쟁이 대두되기 시작했습니다. 자동차 노조는 자동차야말로 자유를 위한 싸운 미국인들의 상징으로써 새로운 미국을 여행하는데 적합한 차량이라고 주장하였으며, 반대로 철도 노조는 모든 마을과 도시를 연결하는 것이 훨씬 유용하다고 주장하고 있습니다. 평의회는 누구를 지지하는가요?"
+csa.96.d:0 "혁명이 종료되고 재건이 시작될 때, 여행에 대한 논쟁이 대두되기 시작했습니다. 자동차 노조는 자동차야말로 자유를 위한 싸운 미국인들의 상징으로써 새로운 미국을 여행하는데 적합한 차량이라고 주장하였으며, 반대로 철도 노조는 모든 마을과 도시를 연결하는 것이 훨씬 유용하다고 주장하고 있습니다. 평의회는 어느 쪽을 지지합니까?"
 csa.96.a:0 "자동차 노조 지지"
 csa.96.b:0 "열차 노조 지지"
 
@@ -953,11 +953,11 @@ csa.98.a:0 "승자는 바로..."
 
 csa.99.t:0 "디트로이트 타이거즈의 우승"
 csa.99.d:0 "The Tigers have won the game. The final game was close but Hank Greenberg, known as the Hebrew Hammer, scored the final home run in the final inning securing the win for the Detroit Tigers and making it so that they won the [GetYear] World Series."
-csa.99.a:0 "Go Tigers!"
+csa.99.a:0 "잘한다, 타이거즈!"
 
 csa.100.t:0 "신시내티 레즈의 우승"
 csa.100.d:0 "The Reds have won the game. The final game was close but Ernie Lombardi scored the final home run in the final inning securing the win for the Cincinnati Reds and making it so that they won the [GetYear] World Series."
-csa.100.a:0 "Go Reds!"
+csa.100.a:0 "잘한다, 레즈!"
 
 ### Foreign Policy ###
 
