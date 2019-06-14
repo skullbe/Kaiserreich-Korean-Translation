@@ -205,7 +205,7 @@ Bulgaria_said_yes_to_help:0 "불가리아가 도움을 받아들임"
 DKB_said_yes_to_GER_has_oil:0 "돈-쿠반 연합이 우리 경제 사절단을 받아들이다"
 DKB_said_yes_to_GER_has_oil_2:0 "돈-쿠반 연합이 우리 군사 사절단을 받아들이다"
 VEN_said_yes_to_GER_has_oil:0 "베네수엘라가 우리와의 거래에 동의했다"
-supported_bulgaria:0 "우리는 불가리아에 지원을 제안했습니다"
+SER_supported_bulgaria:0 "우리는 불가리아에 지원을 제안했습니다"
 FAUD_allow:0 "독일자유노동자조합 활동 승인"
 FAUD_ban:0 "독일자유노동자조합 활동 금지"
 GER_seeckt_dead:0 "한스 폰 젝트는 사망했고 아우구스트 폰 마켄젠은 은퇴했습니다."
@@ -234,6 +234,9 @@ GER_ngraskaris_tt:0 "세 개의 새로운 나이지리아와 카메룬 아스카
 GER_ghaaskaris_tt:0 "세 개의 새로운 아샨티 아스카리 사단이 형성될 것입니다."
 GER_ruswar_tt:0 "11개의 새로운 예비 사단이 추가될 것입니다."
 GER_cannot_join_ally_war:0 "이 전쟁에 참전할 수 없습니다"
+GER_colonial_resources_distribution_full_tt:0 "§REight§! of our civilian factories will work for the needs of our colonies for §R365§! days.\n"
+GER_colonial_resources_distribution_partly_tt:0 "§RFive§! of our civilian factories will work for the needs of our colonies for §R260§! days.\n"
+GER_agricultural_mitteleuropa_help_tt:0 "§ROur country is falling apart.§!\n"
 
 ### Opinion Modifiers ###
 sri_lanka:0 "제국주의 괴짜"
@@ -261,8 +264,10 @@ GER_hawaii_yes_op:0 "함대 정박권 수여"
 GER_hawaii_no_op:0 "함대 정박권 수여 거부"
 GER_reichsmark_yes_op:0 "마르크화 사용에 찬성하다"
 GER_reichsmark_no_op:0 "마르크화 사용 거절하다"
-financial_help_granted:0 "재정적 도움 기여"
+financial_help_granted:0 "완전히 재정적 도움 기여"
 financial_help_denied:0 "재정적 도움 거부"
+financial_help_too_low:0 "Not satisfied with limited help"
+financial_help_satisfactionary:0 "Satisfied with provided help"
 GER_raised_tarrifs:0 "관세 인상"
 Ostraum_more_liberties:0 "허가된 자유"
 Ostraum_denied_liberties:0 "허가된 자유"
@@ -294,6 +299,9 @@ GER_national_populist_party:0 "전독일연맹"
 GER_national_populist_party_long:0 "전독일연맹"
 
 ### Decisions ###
+GER_send_support_to_bulgaria:0 "불가리아 지원"
+GER_send_support_to_bulgaria:0 "While they may not have been a game-changer, Bulgaria was still our loyal ally during the Weltkrieg, and they are not at risk from the Serbian invasion. [Root.GetNameDefCap] does not forget its friends, and we shall move to help the Tsar at once!"
+
 french_occupation_decisions:0 "프랑스 점령"
 french_occupation_decisions_desc:0 "Resistance is ongoing within the territory of [FRA.GetNameDef]. Short of defeating the entirety of the Third Internationale, it might be possible to erode the legitimacy of the Communard government-in-exile to the point that resistance forces in France surrender completely.\n\nThe current §YLegitimacy§! of [FRA.GetNameDef]: §R[?FRA.legitimacy|-0]§!\n"
 GER_erode_cof_legitimacy:0 "Erode Communard Legitimacy"
@@ -355,6 +363,19 @@ GER_black_monday_colonies_decisions:0 "식민지 내의 검은 월요일 위기"
 GER_bm_sale_of_ceylon:0 "실론 섬 매각"
 GER_bm_sale_of_ceylon_desc:0 "실론 섬은 천연자원이 풍부함에도 불구하고 행정적 비효율 때문에 수익성이 매우 떨어지는 식민지이고, 매년 막대한 투자가 필요합니다. 하지만 이 섬을 토후 연맹에 매각하자는 의심할 여지없이 수익성이 있는 제안이 있습니다."
 
+GER_GEA_navy_transferred:0 "Has taken control of the East Asian navy."
+
+GER_black_monday_category:0 "Dealing with Black Monday"
+
+GER_factories_for_colonies_full:0 "Fulfilling the needs of our colonies"
+GER_factories_for_colonies_full_desc:0 "We have decided to stress the coffers of the Kaiserreich for the betterment of our colonies, to ensure their continued loyalty while lowering the damage from Black Monday to a minimum, even if it is routing much needed resources away from the fatherland."
+
+GER_factories_for_colonies_partly:0 "Granting limited help to our colonies"
+GER_factories_for_colonies_partly_desc:0 "Due to the dire situation our colonies have found themselves in, we have decided to tactically divert some of our economic leeway into helping the hardest struck areas in our Weltreich, to bolster morale and keep our chain of governance safe and running."
+
+GER_agricultural_help:0 "The price of doing business"
+GER_agricultural_help_desc:0 "As we have decided to not put a wall between the Kaiserreich and the eastern european granaries, our subpar domestic agricultural exploiters have begun to show their dissapointment in our choice, while their properties are quickly going into the red."
+
 #GER_black_monday_reichstag_decisions:0 "" already defined above
 #GER_black_monday_reichstag_decisions_desc:0 "" already defined above
 
@@ -409,6 +430,20 @@ GER_reichspakt_bulgaria_desc:0 "~mw~가 오싹한 곳에서 일을 하게 만듭
 
 #GER_reichspakt_bulgaria:0 "" already defined above
 #GER_reichspakt_bulgaria_desc:0 "" already defined above
+
+#GER_GEA_navy_transferred:0 "Has taken control of the East Asian navy." already defined above
+
+#GER_black_monday_category:0 "Dealing with Black Monday" already defined above
+
+#GER_factories_for_colonies_full:0 "Fulfilling needs of all of our colonies" already defined above
+#GER_factories_for_colonies_full_desc:0 " " already defined above
+
+#GER_factories_for_colonies_partly:0 "Granting limited help to our colonies" already defined above
+#GER_factories_for_colonies_partly_desc:0 " " already defined above
+
+#GER_agricultural_help:0 "The cost of doing business" already defined above
+#GER_agricultural_help_desc:0 "" already defined above
+
 
 ### Focuses ###
 GER_doctrine_new:0 "육군 개혁"
@@ -930,9 +965,6 @@ GER_poland_strip_for_me_baby_desc:0 "세계대전 중에, 에리히 루덴도르
 
 GER_poland_strip_core:0 "접경 지역 통합"
 GER_poland_strip_core_desc:0 "폴란드 접경 지역은 확고하게 통제되고 있습니다. 루덴도르프의 오래된 계획 중 나머지 절반을 시행하여 이 지역에 정착하려는 독일인들을 독려할 때가 왔습니다. 의심의 여지없이 현지 폴란드인들의 저항이 있겠지만, 이 지역에 독일 보병 부대의 강력한 존재는 최악의 범죄자들을 단속할 것입니다."
-
-GER_support_bulgaria:0 "불가리아 지원"
-GER_support_bulgaria_desc:0 "루마니아는 그리 중요한 국가가 아닐 지도 모르지만, 세계대전 동안 독일의 충실한 동맹국이었습니다. 카이저는 그의 친구를 잊지 않으며 우리는 즉시 차르를 도우러 가야 합니다!"
 
 GER_intervene_balkans:0 "발칸 개입"
 GER_intervene_balkans_desc:0 "남은 지원만으로는 더 이상 충분하지 않습니다. 카이저께서는 불가리아가 거인으로 남기를 원하십니다!"
