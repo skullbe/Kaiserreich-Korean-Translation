@@ -1,8 +1,8 @@
 l_english:
 
 ### Parties ###
-SRI_totalist_party:0 "민족주의 연맹"
-SRI_totalist_party_long:0 "민족주의 연맹"
+SRI_totalist_party:0 "국민주의 연맹"
+SRI_totalist_party_long:0 "국민주의 연맹"
 SRI_syndicalist_party:0 "생디칼리즘 연맹"
 SRI_syndicalist_party_long:0 "생디칼리즘 연맹"
 SRI_radical_socialist_party:0 "기독교 사회주의 연맹"
@@ -19,8 +19,8 @@ SRI_authoritarian_democrat_party:0 "민중근왕당"
 SRI_authoritarian_democrat_party_long:0 "민중근왕당"
 SRI_paternal_autocrat_party:0 "왕당파 연맹"
 SRI_paternal_autocrat_party_long:0 "왕당파 연맹"
-SRI_national_populist_party:0 "이탈리아 민족 연합"
-SRI_national_populist_party_long:0 "이탈리아 민족 연합"
+SRI_national_populist_party:0 "이탈리아 국민 연합"
+SRI_national_populist_party_long:0 "이탈리아 국민 연합"
 
 ### Opinion Modifiers ###
 SRI_did_not_listen_FRA:0 "이탈리아가 우리의 충고를 무시했다."
