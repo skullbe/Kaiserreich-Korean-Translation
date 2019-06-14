@@ -87,6 +87,9 @@ OTT_ENT_PAID:0 "§M협상국§!으로의 지불을 중단합니다"
 OTT_ertugrul_tt:0 "소규모 기병 사단이 구성될 것입니다."
 
 ### Decisions ###
+OTT_demand_western_thrace:0 "서부 트라키아 요구"
+OTT_demand_western_thrace_desc:0 "With §Y[BUL.GetNameDef]§! at war against the Belgrade Pact, they are in the perfect position for us to demand the return of our territory in Western Thrace. We should take the next couple of weeks to move our troops into position, and then decide whether we will make the demand and risk our entanglement in the war."
+
 OTT_OPDA_decisions:0 "오스만 공공 부채 관리국"
 OTT_OPDA_decisions_desc:0 "§Y오스만 공공 부채 관리국§! (Düyun-u Umumiye)은 1881년 유럽 기업에 빚진 오스만 부채를 회수한다는 목적으로 설립된 유럽 통제 기관입니다. 불행하게도, OPDA는 권력과 영향력 모두에서 크게 성장했으며, 우리의 재정 문제에 핵심적인 역할을 하고 있습니다. 이러한 이유로, 그 기관은 우리에게 경제적인 족쇄를 채웠고, 따라서 우리가 독립적인 경제 정책을 추구하는 것을 막았습니다.\n\n§R우리 경제를 완전히 통제하려면 OPDA를 끝내야 합니다.§!\n"
 
@@ -1274,20 +1277,6 @@ ottaxis.2.a:0 "무기를 들어라!"
 ottaxis.3.t:0 "제국의 종말"
 ottaxis.3.d:0 "혼돈만이 우리의 최고 계급을 지배하고 있으며 중동을 외국 침략자들에게 잃어버렸고, 터키 민족주의자들은 자신들의 대의를 지지하며 술탄을 몰아냈습니다. 현재 해체된 제국 옆에서 무슨 일이 일어날지는 불분명하지만, 우리는 그것이 기쁘지는 않을 것이라고 추측할 수 밖에 없습니다."
 ottaxis.3.a:0 "터키 만세!"
-
-ottaxis.4.t:0 "에드린 조약"
-ottaxis.4.d:0 "수도 이스탄불의 근처는 사방의 적들과 전진해오는 불가리아에게 포위되어 있어, 우리는 에드린을 불가리아에게 양도하는 것 이외에 다른 선택지가 없으며 우리는 우리가 모든 노력을 남부 전선에 집중할 수 있도록 그들이 우리를 내버려 두기를 바라고 있습니다."
-ottaxis.4.a:0 "우리는 언젠가 돌아올 것이다!"
-ottaxis.4.b:0 "제국은 발칸의 포식자들을 위해 고개를 숙이지 않는다!"
-
-ottaxis.5.t:0 "에드린 조약 : 불가리아의 응답"
-ottaxis.5.d:0 "중동의 전쟁으로 지쳤으며 카이로 조약 군대의 힘에 저항할 수 없다는것을 알게된, 오스만 제국은 전쟁이 끝나면 에드린을 우리에게 양도하기로 동의했습니다. 그들이 형세를 역전시키고 우리를 향해 오기 전에 이 제안을 받아들이는 것이 현명하겠지만, 이것은 또한 차르그라드를 탈취 할 수 있는 기회가 될 수 있습니다."
-ottaxis.5.a:0 "우리는 이 조약에 동의한다"
-ottaxis.5.b:0 "발칸 전체에서 오스만을 밀어내자!"
-
-ottaxis.6.t:0 "에드린 조약 : 불가리아의 거절"
-ottaxis.6.d:0 "불가리아는 그들이 우리를 꼼짝 못하게 하고 그들이 더 많은 땅을 차지할 기회에 대해 낙관적으로 보고 있다고 확신하면서, 우리의 모든 제안을 거절하고 그들의 모든 주장을 얻을때까지 전쟁을 계속할 것을 맹세했습니다."
-ottaxis.6.a:0 "와서 가져가라!" 
 
 ottaxis.7.t:0 "시대의 끝"
 ottaxis.7.d:0 "우리의 적들이 마지막 수비선인 아나톨리아에 도착했고, 이곳에서 우리는 세계대전 기간 동안 영국군에게 용감하게 저항하였으나, 이것으로 이제 더 이상 우리가 예전같은 위대한 군사력을 갖고 있지 않다는것이 분명해 졌습니다. 전쟁으로 인해 수십만명의 시민이 죽거나 쫓겨났지만 우리는 침략자들에게 항복하고 수치스럽게 머리를 조아릴 수 밖에 없었습니다."
