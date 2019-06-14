@@ -1,8 +1,8 @@
 l_english:
 
 ### Parties ###
-ITA_totalist_party:0 "민족주의 연맹"
-ITA_totalist_party_long:0 "민족주의 연맹"
+ITA_totalist_party:0 "국민주의 연맹"
+ITA_totalist_party_long:0 "국민주의 연맹"
 ITA_syndicalist_party:0 "생디칼리즘 연맹"
 ITA_syndicalist_party_long:0 "생디칼리즘 연맹"
 ITA_radical_socialist_party:0 "기독교 사회주의 연맹"
@@ -19,8 +19,8 @@ ITA_authoritarian_democrat_party:0 "민중근왕당"
 ITA_authoritarian_democrat_party_long:0 "민중근왕당"
 ITA_paternal_autocrat_party:0 "왕당파 연맹"
 ITA_paternal_autocrat_party_long:0 "왕당파 연맹"
-ITA_national_populist_party:0 "이탈리아 민족 연합"
-ITA_national_populist_party_long:0 "이탈리아 민족 연합"
+ITA_national_populist_party:0 "이탈리아 국민 연합"
+ITA_national_populist_party_long:0 "이탈리아 국민 연합"
 
 ### Ideas ###
 ITA_austrian_advisors_idea:0 "오스트리아 고문관들"
