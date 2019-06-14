@@ -163,9 +163,10 @@ worldnews.36.a:0 "흥미롭군."
 
 worldnews.37.t:0 "제4차 발칸 전쟁"
 worldnews.37.d:0 "세계대전 이후 불가리아인들이 거주하는 모든 영토와 그 주변 영토를 통합한 결과, 발칸 반도의 거인이라 불리는 불가리아가 재탄생했습니다. 모든 불가리아인들을 위한 이 왕국은 세계대전에서 세르비아, 그리스, 루마니아를 패배시키면서 유혈과 전쟁 속에서 태어났고, 이 세 국가의 움직임은 오늘날에도 여전히 불가리아에게 적대적입니다. \n\n이 긴장은 베오그라드 조약의 형성으로 이어졌고, 발칸 국가들의 이 동맹은 이제 차르국에 대한 전쟁을 선포함으로써 이 지역은 다시 전쟁 속으로 빠져버렸습니다. [BUL.GetLeader]은(는) 이 압도적인 힘에서 자신의 나라를 구할 수 있을까요? 아니면 그의 왕국은 다시 한 번 나뉠까요?"
+worldnews.37.d.bulgaria:0 "A country was reborn in the Balkans after the Weltkrieg - Greater Bulgaria, the titan of the peninsula, uniting all Bulgarian lands and beyond. This kingdom for all Bulgarians was born with bloodshed and war, though, defeating Serbia, Greece and Romania in the Weltkrieg, a move that these three nations are still bitter about today.\n\nThis tension led to the formation of the Belgrade Pact - but, before they could act, Bulgaria has taken the initiative and declared war on the entire alliance, throwing the region into conflict yet again. Will [BUL.GetLeader] achieve victory once more, or will his kingdom suffer division and defeat?"
 worldnews.37.a:0 "발칸은 왜 항상 전쟁이 일어나는 거지?"
 worldnews.37.b:0 "함께라면 승리한다!"
-worldnews.37.c:0 "보리스가 국가를 구할 것이다!"
+worldnews.37.c:0 "역사가 또 한번 반복되는군!"
 
 worldnews.38.t:0 "미국 내전의 끝"
 worldnews.38.d:0 "신세계에서 일어난 가장 피비린내 나는 분쟁인 제2차 미국 내전은 끝났습니다. 흐느껴 우는 미망인이 그들의 숨진 남편과 아들을 묻으면서, 미국의 옛 정권이 48개 주 전체에 걸쳐 다시 자리 잡았습니다. 계엄령이 전국에서 철회되고 있으며, 마지막 반란군 잔당이 방위군에 의해 처리되고 있습니다. \n\n비록 옛 정권이 승리했음에도 불구하고 견뎌야하는 손실은 영원히 국가의 상황을 변화시킬 것입니다. 대부분의 대도시는 심하게 손상을 입었고 수십만명이 사망하거나 부상당했으며 미국인들의 평온하고 개방적인 사고 방식은 큰 타격을 입었습니다."
@@ -190,7 +191,7 @@ worldnews.42.a:0 "세계 혁명은 더욱 확산되고 있다."
 worldnews.43.t:0 "제국 조약의 반란"
 worldnews.43.d:0 "세계대전에서 러시아 제국이 몰락한 후, 독일은 동유럽의 광대한 지역을 차지하고, 괴뢰국을 수립하고 제국 조약을 창설했습니다. 그러나 이 동맹국들의 동맹 관계는 지속될 예정이 아니었습니다. 동유럽이 이번 주에 독일 영향력에 대항한 반란으로 다시 행동에 나섰습니다. \n\nA. 볼데마라스가 주도하는 리투아니아는 독일로부터 완전한 독립을 선언했으며, 이로 인해 이웃 국가들에서 연쇄 반응이 촉발되었습니다. 독일은 군사적 방법으로 대응했지만, 그것이 민족주의 정신을 붕괴시키기에 충분할까요?"
 worldnews.43.plc:0 "세계대전에서 러시아 제국이 몰락한 후, 독일은 동유럽의 광대한 지역을 차지하고, 괴뢰국을 수립하고 제국 조약을 창설했습니다. 그러나 이 동맹국들의 동맹 관계는 지속될 예정이 아니었습니다. 동유럽이 이번 주에 독일 영향력에 대항한 반란으로 다시 행동에 나섰습니다.\n\nA. 볼데마라스가 주도하는 리투아니아는 폴란드-리투아니아 연방으로부터 완전한 독립을 선언했으며, 이로 인해 이웃 국가들에서 연쇄 반응이 촉발되었습니다. 독일과 연방은 군사적 방법으로 대응했지만, 그것이 민족주의 정신을 붕괴시키기에 충분할까요?"																																																																																																																																																																																																				
-worldnews.43.a:0 "리투- 어디?"
+worldnews.43.a:0 "얼마나 버티는지 보자."
 
 worldnews.44.t:0 "쿠르드 반란"
 worldnews.44.d:0 "세계대전과 아랍 반란의 종식 이후 오스만은 오랫동안 '유럽의 병자'였습니다. 강대국으로서의 지위에서 벗어난 이 나라는, 발칸 반도에서 쫓겨났고, 레반트를 침략한 영국군과 아랍군에 의해 전쟁에서 거의 퇴출되었고, 독일의 승리만이 그들을 구원했습니다. \n\n그러나 오스만 제국은 다시 신속하게 위기에 빠졌습니다. OPDA는 독일과 오스트리아의 이익을 보호하기 위해 유지되었고, 그 과정에서 오스만 경제는 회복의 가능성마저 소멸했으며 아랍의 민족주의는 사라지지 않았습니다. 오늘, 오스만군이 신생 쿠르드 국가를 분쇄하겠다고 선언하면서 불꽃이 다시 튀기 시작했는데, 이는 추축국의 모습을 볼 때 레반트 전체에 불을 붙일지도 모릅니다."
@@ -458,7 +459,7 @@ worldnews.104.a:0 "끔찍하군!"
 
 worldnews.105.t:0 "시암에서의 쿠데타"
 worldnews.105.d:0 "오늘 방콕에서 한 무리의 장교와 지식인이 자신들을 '카나 라차돈' 또는 '인민당'이라고 부르며 성공적으로 정권을 장악했다는 소식이 나왔습니다. 주요 정부 관료들은 체포되었으며, 새 정부는 왕과 왕실 관계자들은 자신들이 안전하게 보호하고 있으며 동시에 잘 감시하고 있다고 전했습니다. 새 총리가 발표한 성명에서는 이것이 군사 쿠데타가 아니며 오히려 헌정이 시행되는 와중의 평화적인 권력 이양이라고 밝혔습니다."
-worldnews.105.a:0 "시암이라고?"
+worldnews.105.a:0 "걱정되는군."
 
 worldnews.106.t:0 "시암의 신 헌법"
 worldnews.106.d:0 "시암의 왕 프라차티뽁은 옛 동남아시아 왕국에서의 첫 헌법을 공식적으로 발표했습니다. 이 헌법은 메이지 시대의 일본 헌법과 독일 정부를 본땄으며 왕과 일반 대중들에게 왕권에 많은 통제를 가했던 왕족보다 더 큰 힘을 줍니다. 오늘 성명에서 프라야 마노파콘 니티타다 총리가 다가오는 선거를 관리하기 위해 임시 정부를 구성하라는 요청을 받았다는 것이 사실이라고 밝힌 반면에, 구 내각은 느리지만 확실히 공직에서 물러났습니다."
@@ -482,7 +483,7 @@ worldnews.110.a:0 "이건 도움이 될 수 없는걸."
 
 worldnews.111.t:0 "피분송크람의 쿠데타"
 worldnews.111.d:0 "최근의 시암 혁명은 겉으로는 성공했을지 몰라도 이에 대한 대중의 지지는 곤두박질친 것 같습니다. 논란이 되고 있는 "황색 서류봉투" - 국가의 경제 시스템을 뜯어고치고 다수의 산업을 국유화하기 위한 고안된 계획의 별칭-를 계기로, 대중들 사이에는 소위 "붉은 공포"가 촉발되었습니다.\n\n육군 수장인 루앙 피분송크람은 적시에 개입하여 전국에 계엄령을 선포했는데, 이 조치는 국가를 내전 이전의 상황으로 되돌린 것으로 여겨집니다. 분명하게도 이 "철의 장군"은 국가가 민주주의로의 이행의 '준비'가 되어 있을 때까지 독재자로써 시암을 통치할 계획입니다."
-worldnews.111.a:0 "걱정되는군."
+worldnews.111.a:0 "언제한다는 것일까?"
 
 worldnews.112.t:0 "제37차 시암-버마 전쟁"
 worldnews.112.d:0 "The new National-Populist regime of Plaek Phibunsongkhram in Siam has issued a declaration of war to the Burmese government in Yangon today, citing Burmese agitation in Morlamaeng as an act of war.\n\nThe Siamese themselves are clearly the aggressor here, as they had previously occupied lands up to the Salween river, violating the Stresemann treaty dictating the border between them and Burma back in 1929. For the Burmese the situation looks pretty bleak, should Siam emerge victorious it is likely that this will mark the rise of a new Thai hegemony in South East Asia, one European powers will have to be cautious of."
