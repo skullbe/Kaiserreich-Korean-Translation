@@ -1,5 +1,23 @@
 l_english:
 
+###Flags###
+NFA_help_kos:0 "We have supported the legitimate government"
+NFA_help_car:0 "We have supported the Carlists"
+
+### Decisions ###
+NFA_seize_morocco_decisions:0 "모로코 지역 점령"
+NFA_seize_morocco_decisions_desc:0 "Since the ninetheenth century we have fostered ambitions on Morocco. Now that the other powers that have a stake there are in turmoil, it is time to take these lands for our own. Vive la France!"
+NFA_seize_real_morocco:0 "Take back the Moroccan Kingdom!"
+NFA_seize_real_morocco_desc:0 "The Germans have lost the war in Europe, and it is now our time to strike and take back what was ours!"
+NFA_seize_spanish_morocco:0 "스페인령 리오델오로를 점령하자!"
+NFA_seize_spanish_morocco_desc:0 "The CNT-FAI have captured Spain, and as such her former colonies in Rio del Oro. If we want to secure the region, we must strike now, while the anarchists are still insecure."
+NFA_help_spain_decisions:0 "스페인 내전"
+NFA_help_spain_decisions_desc:0 "Spain has wavered on the edge of instability for decades, and now it has finally taken the plunge. On one side, the godless anarchists of the CNT. On another, the Carlist pretenders, supported by our Portuguese Integralist allies, and a likely ally in its turn if it succeeds. And, lastly, the legitimate government of Alfonso XIII, hated by the people but a good friend to the Germans. Which side shall we support?"
+NFA_help_kos:0 "정통정부 지원"
+NFA_help_kos_desc:0 "The only way for Spain to achieve true peace and democracy is through the true government of the Bourbons prevailing."
+NFA_help_car:0 "Support the Carlists"
+NFA_help_car_desc:0 "The Carlists are the only path Spain has to being made righteous once more. The Portuguese have convinced us this is the right faction to back, and surely, if we support them, they might join our alliance if they succeed?"
+
 ### Parties ###
 NFA_social_democrat_party:0 "공화-사회주의당"
 NFA_social_liberal_party:0 "사회연대주의자"
@@ -199,7 +217,6 @@ NFA_strenghthened_governement_tooltip:0 "§G당신이 절대주의자가 아니�
 
 NFA_homeland_reconquest:0 "해방 준비"
 NFA_homeland_reconquest_desc:0 "코뮌은 독일과의 전쟁 준비를 하고 있고 우리 역시 준비해야 합니다. 우리가 앞으로 올 모든 기회에서 우위를 얻을 때에만 해방이 올 것입니다."
-
 NFA_military_preparation:0 "군대 준비"
 NFA_military_preparation_desc:0 "프랑스군이 싸울 의지는 있을지언정 현대전에서 성공적으로 교전하는데 필요한 장비와 전술이 부족합니다. 이 문제는 한시라도 빨리 해결되어야 합니다."
 NFA_Infantry_focus:0 "보병 핵심"
@@ -223,26 +240,6 @@ NFA_entente_navy:0 "합동 해군 기동"
 NFA_entente_navy_desc:0 "각양각색의 협상국 함대들이 많고, 그들과 우리는 다양한 전술과 설계를 공유합니다."
 NFA_entente_research:0 "국제적 기술 공유"
 NFA_entente_research_desc:0 "캐나다에서 델리, 호주에 이르기까지 위대한 과학자들은 같은 연구를 추구하며 군대와 전반적인 기술들을 발전시킬 수 있는 더 많은 가능성을 우리에게 제공합니다."
-NFA_support_kos:0 "스페인 왕국 지원"
-NFA_support_kos_desc:0 "스페인이 내전 상태에 빠졌습니다. 자원병을 보내 그들이 반동적인 카를리스트들과 CNT 빨갱이들로부터 승리하도록 돕는 것이 우리의 의무입니다!"
-NFA_influence_kos:0 "스페인 왕국에 영향력 행사"
-NFA_influence_kos_desc:0 "Madrid has won the Civil War, in many parts thanks to us. It is the occasion to draw them closer to the Entente and maybe use them as a leverage to regain France!"
-NFA_support_carlists:0 "카를리스트 지원"
-NFA_support_carlists_desc:0 "스페인이 내전 상태에 빠졌습니다. 타락한 스페인 왕국을 지원하는 대신 우리는 진정한 왕위 요구자이자, 우리의 카톨릭 형제인, 카를리스트들을 지원할 수 있습니다."
-bypass_alliance_carlist:0 "만약 당신이 카를리스트 스페인의 세력에 합류한다면 이 중점은 무시될 것입니다"
-NFA_alliance_catholic:0 "지중해 연합 가입"
-NFA_alliance_catholic_desc:0 "카를로스 주의자가 이끌고 교황이 지지하는 지중해 연합은 유명무실한 협상국을 대체 할 수 있습니다. 우리의 카톨릭 형제들은 우리와 가까우므로 전쟁에서 긴밀하게 동맹을 유지할 수 있습니다."
-NFA_Church_support:0 "교회 지원"
-NFA_Church_support_desc:0 "교황께서 우리의 행동에 대해 축복하면서 우리의 동맹들 덕분에 정치적 불화가 줄어들게 되었습니다."
-NFA_military_cooperation:0 "라틴 최고 사령부"
-NFA_military_cooperation_desc:0 "우리의 군 고위 지위부는 스페인과 이탈리아 동맹들이 대영제국에서 온 외국인들보다 밀접한 관계를 가지고 있다고 생각하고 있습니다. 합동군사연습을 통해 우리군에 크게 도움이 되었습니다s."
-NFA_aumoniers:0 "사제"
-NFA_aumoniers_desc:0 "우리 병력들은 사제들의 지원을 받고 우리의 대의를 위해 죽을 때까지 싸울 것입니다!"
-
-NFA_seize_morocco:0 "독일령 모로코 점령"
-NFA_seize_morocco_desc:0 "독일의 수도 베를린이 적군에게 함락되면서 유럽에서의 독일 제국은 몰락했습니다. 제국이 혼란에 빠진 가운데 몇몇 장군들은 이 기회에 1차 대전기까지 프랑스 보호령이었던 모로코 식민지를 점령해야 한다고 생각합니다."
-NFA_seize_rif:0 "스페인령 모로코 점령"
-NFA_seize_rif_desc:0 "CNT는 스페인령 아프리카를 차지했습니다. 우리는 반드시 이들 영토가 훌륭한 지도를 받도록, 즉 우리 수중에 떨어지도록 해야 합니다."
 NFA_seize_portuguese_guinea:0 "포르투갈령 기니 점령"
 NFA_seize_portuguese_guinea_desc:0 "포르투갈은 현재 충돌에 맞닥뜨렸습니다. 따라서 포르투갈의 해외에 지역은 취약한 상태입니다. 일부 장군들은 독일이나 다른 국가들이 침공 구상을 하기전에 방어가 약한 기니 지역을 침공하여 수도인 비사우로 행군하는 적절한 시기가 지금이라고 말합니다."
 
@@ -282,6 +279,7 @@ NFA_tuarise_tt:0 "새 기병사단 둘이 형성될 것입니다."
 NFA_militiarise_tt:0 "반 생디칼 민병사단 둘이 형성될 것입니다."
 NFA_armyrise_tt:0 "새 구축함대와 순양함대의 형성과 함께 몇몇의 보병사단과 기병사단이 형성될 것입니다."
 NFA_maquisarddiv_tt:0 "레지스탕스 기병사단 셋이 형성될 것입니다."
+NFA_homeland_reconquest_morocco:0 "§RThis will unlock decisions for seizing Moroccan lands should they be vulnerable.§!\n"
 
 ### Events ###
 nfa.1.t:0 "1936년 국민 프랑스의 상황"
