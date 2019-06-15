@@ -144,6 +144,7 @@ ACW_break_ceasefire:0 "휴전 종료"
 ACW_break_ceasefire_desc:0 "이쯤이면 충분히 오래 기다렸습니다. 이제 [From.GetNameDef]을 공격해 내전을 완전히 끝냅시다."
 ACW_ceasefire_six_months:0 "휴전이 체결되고 6개월 이상 지나야 합니다\n"
 ACW_ceasefire_one_month:0 "휴전이 체결되고 1개월 이상 지나야 합니다\n"
+
 ACW_csa_decisions:0 "제2차 미국 혁명 결정"
 ACW_csa_decisions_desc:0 "제2차 미국 혁명이 시작됐고 우리는 노동자 계급을 위해 승리를 이끌어내야 합니다."
 
@@ -282,6 +283,7 @@ amcivwar.10.d:0 "연방정부가 정한 기한이 지나갔으며, 사방에서 
 amcivwar.10.a:0 "아니었으면..."
 
 ### Set Up Events - Olson ###
+
 amcivwar.11.t:0 "휴이 롱이 정부를 규탄하다"
 amcivwar.11.d.nothing_is_done:0 "피츠버그에서의 폭력 사태로 휴이 롱은 라디오에서 올슨 대통령은 은행가와 생디칼리스트에게 미국 국민을 팔아넘기려는 반역자이자 사기꾼이며, 미국의 생활 방식을 보존하기 위해 싸워야 한다고 선언했습니다. 여러 남부 주지사들이 올슨 정부를 합법적이라고 보지 않고 따라서 그 권위를 인정하지 않는다고 발표하면서 그를 지지하고 있습니다."
 amcivwar.11.d.revolt_against_compromise:0 "타협 시도는 실패했고, 실패와 함께 미국은 끝장났습니다. 휴이 롱은 오늘 라디오에서 부패한 올슨 대통령과 폭군 리드 둘 다 미국을 위해 멈추게 해야 한다고 선언했으며, 모든 수준있는 미국인들이 그들에 대항하여 일어설 것을 촉구했습니다. 여러 남부 주지사들이 올슨 정부를 합법적이라고 보지 않고 아직 연방 탈퇴를 발표하기까지 이르지 않았지만 주 경계 내에서 정부의 권한을 인정하지 않는다는 것을 분명히 발표하면서 그를 지지하고 있습니다."
@@ -316,6 +318,7 @@ amcivwar.15.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동
 amcivwar.16.t:0 "벼랑 끝의 미국"
 amcivwar.16.d:0 "존 낸스 가너 대통령은 많은 주지사들이 남부 대중주의자 휴이 롱이나 생디칼리즘 지도자 잭 리드에게 지지를 보내면서 연방 정부를 부정적으로 선언함에 따라 오늘 큰 타격을 입었습니다. 롱과 리드는 연방으로부터 탈퇴하는 것을 멈췄지만, 그들은 가너가 사임하고 그들이 선택한 지도자의 산하에 있는 '재조정 협의회'가 국가의 질서를 회복하기 위해 시행될 때까지 연방 정부는 주 경계 내에 어떠한 권한도 가지고 있지 않다고 선언했습니다. 이에 대해 가너 대통령은 주지사들에게 30일 동안 물러나거나 집단으로 체포되도록 했습니다 - 어떤 지도자도 복종에 관심을 보이지 않아 미국은 100년도 채 안 되어 두 번째로 내전에 돌입하게 될 것을 거의 확신하고 있습니다."
 amcivwar.16.a:0 "알겠다."
+
 ### Set Up Events - Landon ###
 amcivwar.17.t:0 "휴이 롱이 연방 정부를 규탄하다"
 amcivwar.17.d:0 "휴이 롱은 랜던 대통령이 폭군이며 반대해야 한다고 선언했습니다. 롱은 라디오 연설에서 대통령이 사회당의 생디칼리스트들과 한패라고 맹비난했고, 혼란을 막기 위해 아무것도 하지 않았다고 비난했습니다. 롱은 워싱턴에서 질서를 회복하고 부패한 정부를 파괴할 것을 맹세했고, 다수의 남부 주지사들은 즉시 롱을 지지한다고 선언하며 알프 랜던에게 즉각 사퇴하여 롱에게 지배권을 이양할 것을 요구했습니다. 그리고 미국 정부의 구조조정을 하게 될 '재조정 위원회'를 요구했습니다."
@@ -330,11 +333,13 @@ amcivwar.18.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동
 amcivwar.19.t:0 "벼랑 끝의 미국"
 amcivwar.19.d:0 "알프 랜던 대통령은 많은 주지사들이 남부 대중주의자 휴이 롱이나 생디칼리즘 지도자 잭 리드에게 지지를 보내면서 연방 정부를 부정적으로 선언함에 따라 오늘 큰 타격을 입었습니다. 롱과 리드는 연방으로부터 탈퇴하는 것을 멈췄지만, 그들은 랜던이 사임하고 그들이 선택한 지도자의 산하에 있는 '재조정 협의회'가 국가의 질서를 회복하기 위해 시행될 때까지 연방 정부는 주 경계 내에 어떠한 권한도 가지고 있지 않다고 선언했습니다. 이에 대해 랜던 대통령은 주지사들에게 30일 동안 물러나거나 집단으로 체포되도록 했습니다 - 어떤 지도자도 복종에 관심을 보이지 않아 미국은 100년도 채 안 되어 두 번째로 내전에 돌입하게 될 것을 거의 확신하고 있습니다."
 amcivwar.19.a:0 "알겠다."
+
 amcivwar.20.t:0 "제2차 미국 내전"
 amcivwar.20.d:0 "혼돈이 이 땅을 집어삼켰습니다. 미국 전역에서 시민군이 소집되었고, 전쟁의 불길이 타오름과 동시에 부모형제가 서로 싸우면서 제2차 미국 내전이 그 막을 열었습니다."
 amcivwar.20.a:0 "이건 아니야..."
 
 ### End of Civil War Events ###
+
 amcivwar.24.t:0 "제2차 미국 내전의 종결"
 amcivwar.24.d.noceasefire:0 "온갖 부를 거머쥔 자본가들이 지배하던 시대, 20세기는 이제 노동자 계급의 손 아래 놓였습니다. 전국의 노동자 계급은 마침내 도래한 약탈자 자본가들로부터의 해방을 기념하고 있습니다. 비록 앞으로 해야할 일은 많겠지만, 지금만큼은 이 순간을. 만인이 진정으로 평등해진 이 순간을 만끽합시다."
 amcivwar.24.d.ceasefire:0 "온갖 부를 거머쥔 자본가들이 지배하던 시대, 20세기는 이제 노동자 계급의 손 아래 놓였습니다. 전국의 노동자 계급은 마침내 도래한 약탈자 자본가들로부터의 해방을 기념하고 있습니다. 비록 앞으로 해야할 일이 많고 자칭 '태평양 합중국'이라는 적들이 휴전선 너머에 아직 살아숨쉬고 있지만, 지금만큼은 이 순간을. 만인이 진정으로 평등해진 이 순간을 만끽합시다."
@@ -699,6 +704,7 @@ amcivwar.139.d:0 "연방정부가 정한 기한이 지나갔으며, 사방에서
 amcivwar.139.a:0 "아니었으면..."
 
 ### Foreign Interventions
+
 amcivwar.150.t:0 "미국의 혼란"
 amcivwar.150.d:0 "미합중국이 내전 상태에 빠졌습니다. 우리 코앞에는 빨갱이들이 있고, 반대편에서는 미합중국과 빨갱이 모두에 반대하는 휴이 롱이 군대를 집결시켰습니다. 혼돈이 우리의 이웃을 집어삼켰습니다. 따라서 우리는 두 가지 중 하나를 선택해야 합니다. 하나는 분쟁에 휘말리지 않으면서 빨갱이가 아닌 파벌 중 하나를 도와주는 것입니다. 일단 사태가 해결된다면 이들은 결국 새로운 동맹 맺기를 희망할 것입니다. 또 다른 하나는 -미국의 모든 파벌들이 싫어하겠지만은- 빨갱이들이 승리하는 최악의 경우에 대비하기 위해 제 2 방위계획을 활성화하고 전략적인 위치를 선점하는 것입니다. 어떤 선택이든지간에 당국자들은 영국인과 캐나다인이 전쟁 상태에 돌입해서 본토 수복이 아닌 싸움에 힘을 낭비하는 것을 원하지 않습니다."
 amcivwar.150.d.nocsa:0 "Chaos has overtaken our neighbours to the south. We are thus presented with two choices: one is to stay out of the conflict and consider supporting one of the factions, with the hope of eventually having a new ally once the dust is settled. The other is to activate Defence Plan Two and occupy strategic locations while preparing for a worst case scenario where a hostile force wins, even though no American faction would be pleased with us. In neither case do officials support going to war and wasting British and Canadian lives on a fight that isn't even for the Home Isles."
@@ -726,7 +732,9 @@ amcivwar.199.t:0 "미국의 마지막 보루"
 amcivwar.199.d:0 "미국 내전이 사실상 끝났다는 사실이 우리 국민들에게 알려지기 시작했습니다. 이 전쟁의 상처는 오랫동안 지속될 것이지만, 미국의 운명을 더 바꿀 수 있는 기회는 이미 지나갔다는 점에서 상처는 이미 사그라들기 시작한 것 같습니다. 우리는 영원히 [Root.GetNameDef]일 것이며, 세상은 이를 알아야 합니다."
 amcivwar.199.a:0 "신이시여 미국을 지켜주소서!"
 
+
 ### Rocky Mountain Ceasefire ###
+
 amcivwar.200.t:0 "휴전 가능성"
 amcivwar.200.d:0 "내전이 미국을 황폐화시켰고, 이제는 휴전을 위해 [CAL.GetNameDef]과 접촉해야 하는가에 대한 논쟁이 정부 내에서 터져나오고 있습니다. 태평양 역적들이 휴전 제의을 고려할 지 조차도 알 수 없지만, 만약 휴전이 성사된다면 이는 우리에게 동부에 대한 우리의 지배력을 공고히 하고 우리 군대를 회복시킬 시간을 벌어 줄 것입니다. 물론 이는 어디까지나 추정이지만, 만약 우리가 휴전을 시도하지 않는다면 전쟁은 결과적으로 훨씬 더 길어질 수도 있습니다."
 amcivwar.200.a:0 "덴버에서 회동하자"
@@ -760,13 +768,14 @@ amcivwar.206.d:0 "내전은 수개월 동안 미국을 황폐화시켜왔지만,
 amcivwar.206.a:0 "언제까지 지속되나 보자고"
 
 ### Liberia and Philippines in Chaos ###
+
 amcivwar.212.t:0 "혼돈의 미국"
 amcivwar.212.d:0 "라이베리아는 1822년에 노예들의 자유국으로 설립된 이래로 계속 미국의 정치/경제적 지배 하에 있었습니다. 미국의 지배는 라이베리아를 유럽 식민지 세력으로부터 보호하는 데에 도움이 되었습니다. 그러나 이제는 미국 대선을 계기로 미국은 혼란에 빠져 있습니다. 그 갈등은 이제 전쟁으로 치달았습니다. 미국은 더 이상 우리를 보호할 능력이 없습니다. 이제 우리는 어떻게 할지 결정해야 합니다."
 amcivwar.212.a:0 "우리는 국민 프랑스로부터 보호를 구할 것이다"
 amcivwar.212.b:0 "독일이야말로 우리를 보호할 수 있는 유일한 강대국이다."
-amcivwar.212.c:0 "우리는 꼭두각시가 아니다, 우리 스스로 보호해
-야 한다!"
+amcivwar.212.c:0 "우리는 꼭두각시가 아니다, 우리 스스로 보호해야 한다!"
 amcivwar.212.e:0 "우리는 반역자가 아니다, 미국에 충성하자"
+
 amcivwar.213.t:0 "라이베리아가 보호를 요청하다"
 amcivwar.213.d:0 "미국 내전이 본격화되면서, 이전에 미합중국의 보호 아래에 있었던 라이베리아 공화국은 미합중국이 더이상 보호를 제공해줄 수 있을 것이라 생각해 우리에게 외교적, 군사적 보호를 요청해왔습니다. 어떻게 답해야 할까요?"
 amcivwar.213.a:0 "좋다, 라이베리아인들은 좋은 동맹이 될 것이다"
@@ -961,6 +970,7 @@ amcivwar.335.a:0 "A welcome development"
 amcivwar.335.b:0 "That's far too close to Washington"
 
 ### Deal with the Devil ###
+
 ACW_deal_with_devil_effect:0 "All occupied states of their territory will be transferred to us, and ours to them. The truce will continue for 90 days, after which each of us will have the option to extend it for another 90 days.\n"
 amcivwar.520.t:0 "Deal with the Devil?"
 amcivwar.520.d:0 "The [From.GetAdjective] government has approached us with a proposal: a truce of at least 90 days between [Root.GetNameDef] and [From.GetNameDef], so that both of us can turn our efforts against the [enemy_country.GetAdjective] forces, which are currently defeating us both. In 90 days time, we can re-assess... and, if [enemy_country.GetNameDef] is defeated the truce will be off."
@@ -986,6 +996,7 @@ amcivwar.524.a:0 "Interesting"
 amcivwar.524.b:0 "It makes no difference - they will both lose"
 
 ### Sanity Checks ###
+
 amcivwar.600.t:0 "[Root.GetAdjective]의 붕괴"
 amcivwar.600.d:0 "우리 군은 더 이상 적에 대항할 수 없습니다. 이미 아군은 집단으로 탈영하기 시작했으며, 붕괴의 파장은 그 수위를 높여가고 있습니다. [Root.GetNameDefCap]은 패전에 이르렀고, 이를 인정해야 합니다."
 amcivwar.600.a:0 "여기서 끝나는구만..."
