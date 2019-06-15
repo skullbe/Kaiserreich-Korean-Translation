@@ -452,6 +452,7 @@ amcivwar.45.b:0 "에디 어거스트 슈나이더"
 amcivwar.45.c:0 "판초 반스"
 
 ### AUS Flavor Events ###
+
 amcivwar.46.t:0 "린드버그가 휴이 롱에 접근"
 amcivwar.46.d:0 "찰스 린드버그는 휴이 롱 각하께 헨리 포드, 프레드 코흐, 그리고 H L 헌트를 포함한 여러 주요 기업가들과의 만남을 주선했습니다. 이 자들은 연방정부의 명령에 따라 남부의 공장과 정유소를 폐쇄하려고 했습니다. 하지만 그 대신 이들은 린드버그에 의해 몇 가지 조건에 따라 휴이 롱 각하를 지지하고 자신들의 산업력을 진정한 미국으로 이전하도록 설득당했습니다. 이들은 휴이 롱 각하께서 전쟁에서 승리할 경우에 정치직책을 부여해 줄 것뿐만 아니라 비참한 경제상황 속에서 자신들에게는 일종의 정치적 예외를 보장해 줄 것을 요구합니다. 만약 롱 각하께서 이들의 요구에 동의한다면 상당한 산업력을 확보할 수 있겠지만, 롱 각하의 지지자 대다수는 대통령 각하께서 자신의 정치적 이상을 버릴 작정인지 궁금해 할 것입니다. 그럼에도 불구하고 이 암울한 시기에 이런 제안을 거절한다는 것은 그 대가가 큽니다."
 amcivwar.46.a:0 "저들의 요구에 동의한다"
@@ -500,6 +501,7 @@ amcivwar.54.a:0 "구축함"
 amcivwar.54.b:0 "순양함"
 
 ### USA events ###
+
 amcivwar.61.t:0 "징병제"
 amcivwar.61.d:0 "전쟁이 계속되면서 징병제를 실시해야 하는가, 말아야 하는가를 정해야 합니다. 징병제는 이 나라에 질서를 회복하는데 필요한 사람들을 제공할 것입니다. 하지만 이는 대중적인 움직임은 아닙니다. 몇몇 사람들은 대신 선전 활동에 초점을 맞추라고 제안합니다."
 amcivwar.61.a:0 "징병제를 시행하라"
@@ -577,6 +579,7 @@ amcivwar.76.c:0 "헬레나"
 amcivwar.76.e:0 "피닉스"
 
 ### PSA Events ###
+
 amcivwar.77.t:0 "합참의장"
 amcivwar.77.d:0 "With the civil war raging all around us and the fact that we do not have a chief of Staff has prompted concern among various political and military leaders. Thus they met with [CAL.GETLeader] to appoint a Chief of Staff to win this war."
 amcivwar.77.a:0 "헨리 아놀드"
@@ -665,6 +668,7 @@ amcivwar.127.a:0 "알겠다."
 amcivwar.128.t:0 "제2차 미국 내전"
 amcivwar.128.d:0 "[USA.GetLeader] 대통령이 정한 기한이 지나갔으며, CSA에서 대규모 민병대가 동원된 가운데 그들의 해답이 무엇인지 분명합니다. 제2차 미국 내전이 시작되었습니다."
 amcivwar.128.a:0 "아니었으면..."
+
 amcivwar.130.t:0 "휴이 롱이 미주 연합을 선포하다"
 amcivwar.130.d.reed:0 "잭 리드 암살 실패에 따른 혼란으로 인해, 휴이 롱은 그 순간을 포착하고 연방 정부가 폭군이며 미국 민주주의는 완전히 사라졌다고 비난했습니다. 여러 남부 주지사들은 '도덕적으로 파산한' 정부에 진정한 권한은 없다고 선언하면서 즉시 롱을 지지한다고 선언했습니다. 이 주지사들은 미국 전역에 걸쳐 도로를 봉쇄하고 군 기지를 점령하기 위해 확산된 미닛맨 민병대의 지원을 받고 있습니다."
 amcivwar.130.d.compromise:0 "연방정부가 생디칼리즘 의제를 분명히 수용함으로써 그의 지지자들이 격분한 가운데, 휴이 롱은 그 순간을 포착하고 미국인들에게 자신들을 폭정으로 배반하려는 제도에 대항하여 일어설 것을 촉구했습니다. 여러 남부 주지사들은 '도덕적으로 파산한' 정부에 진정한 권한은 없다고 선언하면서 즉시 롱을 지지한다고 선언했습니다. 이 주지사들은 미국 전역에 걸쳐 도로를 봉쇄하고 군 기지를 점령하기 위해 확산된 미닛맨 민병대의 지원을 받고 있습니다."
@@ -969,8 +973,8 @@ amcivwar.335.d:0 "Following on the heels of their victory in North Carolina, AFP
 amcivwar.335.a:0 "A welcome development"
 amcivwar.335.b:0 "That's far too close to Washington"
 
-### Deal with the Devil ###
 
+### Deal with the Devil ###
 ACW_deal_with_devil_effect:0 "All occupied states of their territory will be transferred to us, and ours to them. The truce will continue for 90 days, after which each of us will have the option to extend it for another 90 days.\n"
 amcivwar.520.t:0 "Deal with the Devil?"
 amcivwar.520.d:0 "The [From.GetAdjective] government has approached us with a proposal: a truce of at least 90 days between [Root.GetNameDef] and [From.GetNameDef], so that both of us can turn our efforts against the [enemy_country.GetAdjective] forces, which are currently defeating us both. In 90 days time, we can re-assess... and, if [enemy_country.GetNameDef] is defeated the truce will be off."
