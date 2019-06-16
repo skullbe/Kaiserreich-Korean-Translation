@@ -310,7 +310,7 @@ worldnews.70.t:0 "이탈리아 선거"
 worldnews.70.d.sli:0 "이탈리아 공화국에서의 선거는 이바노에 보노미 수상이 그의 자리를 지켜내면서 끝이 났습니다. 검은 월요일 위기를 이유로 조기 선거를 실시한 그의 도박은 어느 정도 성공적이었습니다."
 worldnews.70.d.mli:0 "이탈리아 공화국에서의 선거는 이탈리아 자유당의 대표인 [ITA.GetLeader]이(가) 수상으로 선출되면서 끝이 났습니다. 새로운 수상은 그가 이탈리아에 퍼진 검은 월요일 위기의 여파를 해결해줄 수 있으리라는 대중들의 기대를 한 몸에 받고 있습니다. 어쨌든 검은 월요일 위기를 이용한 이바노에 보노미 수상의 권력 강화 시도는 명백히 실패했습니다."
 worldnews.70.d.sco:0 "이탈리아 공화국에서의 선거는 이탈리아 민중당의 대표인 [ITA.GetLeader]이(가) 수상으로 선출되면서 끝이 났습니다. 새로운 수상은 그가 이탈리아에 퍼진 검은 월요일 위기의 여파를 해결해줄 수 있으리라는 대중들의 기대를 한 몸에 받고 있습니다. 어쨌든 검은 월요일 위기를 이용한 이바노에 보노미 수상의 권력 강화 시도는 명백히 실패했습니다."
-worldnews.70.d.npo:0 "이탈리아 공화국에서의 선거는 이탈리아 민족 연합의 대표인 [ITA.GetLeader]이(가) 수상으로 선출되면서 끝이 났습니다. 새로운 수상은 수상으로 임명된 즉시 본인의 칭호를 자칭 이탈리아의 지도자로서 가장 적합한 칭호라고 주장하는 일-두체로 바꾸었고, 밀라노에서의 연설에서 그는 그 무엇도 이탈리아의 위대함을 가로막을 수 없으며, 현재 이탈리아를 잠식하고 있는 검은 월요일 위기는 새로운 이탈리아의 군홧발에 곧 짓밟힐 오스트리아의 사악한 영향 때문이라고 주장했습니다."
+worldnews.70.d.npo:0 "이탈리아 공화국에서의 선거는 이탈리아 국민연합의 대표인 [ITA.GetLeader]이(가) 수상으로 선출되면서 끝이 났습니다. 새로운 수상은 수상으로 임명된 즉시 본인의 칭호를 자칭 이탈리아의 지도자로서 가장 적합한 칭호라고 주장하는 일-두체로 바꾸었고, 밀라노에서의 연설에서 그는 그 무엇도 이탈리아의 위대함을 가로막을 수 없으며, 현재 이탈리아를 잠식하고 있는 검은 월요일 위기는 새로운 이탈리아의 군홧발에 곧 짓밟힐 오스트리아의 사악한 영향 때문이라고 주장했습니다."
 worldnews.70.a:0 "흥미롭군."
 
 worldnews.71.t:0 "[From.GetNameDef]에서의 혁명!"
@@ -378,7 +378,7 @@ worldnews.85.a:0 "스페인에 평화가 찾아왔다!"
 
 worldnews.86.t:0 "스페인 내전이 끝나다"
 worldnews.86.d:0 "마침내 스페인 내전이 끝났고 [SPR.GetNameDef]이(가) 승리 한 것으로 보입니다. 시골의 대부분은 폐허가 되었고 질서는 완전히 회복되지는 않았지만 [SPR.GetAdjective] 정부는 아나키스트와 생디칼리스트의 위협이 마침내 사라졌으며 다시는 발생하지 않을 것이라고 발표했습니다. 비록 내전이 일어나기 직전에 혼수 상태에 빠졌습니다만, 이것은 알폰소 13세의 승리입니다."
-worldnews.86.a:0 "현 상태가 유지되었다..."
+worldnews.86.a:0 "현상 유지되었다..."
 
 worldnews.87.d:0 "마침내 스페인 내전이 끝났고 [CNT.GetNameDef]이(가) 승리 한 것으로 보입니다. 시골의 대부분은 폐허가 되었고 질서는 완전히 회복되지는 않았지만 [CNT.GetAdjective] 정부는 오래된 봉건제도가 마침내 끝났으며 스페인 사람들은 이제 생디칼리즘의 통치하에 질서 정연한 변화의 혜택을 볼 것이라고 발표했습니다. 돌아오는 민병대를 환영하고 새로운 평화가 영원히 지속되기를 기도하기 위해 바르셀로나에 대규모 군중이 모여들었습니다."
 worldnews.87.a:0 "또 하나의 유서 깊은 유럽 국가가 생디칼리즘에 사로잡혔군."
@@ -388,7 +388,7 @@ worldnews.88.a:0 "흥미롭군."
 
 worldnews.89.t:0 "포르투갈에서 아나키스트 쿠데타가 일어나다!"
 worldnews.89.d:0 "스페인의 전국노동자연합의 최근 성공에서 고무받은 것으로 알려진 아나키스트-생디칼리스트 운동인 포르투칼 아나키스트 연합(União Anarquista Portuguesa)이 주도한 포르투갈의 수도 리스본의 폭동 다음날, 포르투갈 정부에 맞선 깜짝 쿠데타가 성공했습니다. 아나키스트 민병대가 수도의 건물로 이동했고, 혁명의 지도자인 네노 바스코(Neno Vasco)와 안토니오 핀토 쿼탄(António Pinto Quartin)이 임시 체제를 구축했습니다. 새로운 지도자들은 장래에 [CNT.GetNameDef]와(과) 더 긴밀한 관계를 추구 할 것으로 보입니다."
-worldnews.89.a:0 "혁명이 퍼지기 시작했다 - 무서운 속도로!"
+worldnews.89.a:0 "혁명이 퍼지기 시작했다, 무서운 속도로!"
 
 worldnews.90.t:0 "브리튼의 선거 교착"
 worldnews.90.d.fuck_it:0 "1936년 브리튼 연방 노동조합총회가 마무리되었습니다. 필립 스노든 노동조합총회 의장이 사의를 표명함에 따라, 최대주의자, 자치주의자, 연방주의자, 회중론자 등 네 가지 주요 파벌이 그 자리를 두고 경쟁했습니다. \n\n분란이 가라앉기는 했지만, 이 치열한 선거에서 선두를 차지한 정당은 없었습니다. 불안정이 고조되고 모든 파벌들이 표의 재검 또는 새로운 선거를 요구하자, TUC는 마침내 연방주의자 톰 만을 중재자로 선출하기로 결정했습니다. 많은 사람들에게 이것은 브리튼 연방에서의 정치적 타성의 출현으로 받아들여집니다."
@@ -396,19 +396,19 @@ worldnews.90.d.vote_again:0 "1936년 브리튼 연방 노동조합총회가 마�
 worldnews.90.a:0 "흥미롭군."
 
 worldnews.91.t:0 "인도차이나가 독립을 선언하다"
-worldnews.91.d.a:0 "After the Weltkrieg, Germany seized French Indochina, but stability wasn't restored until Germany crushed the South China revolutionaries in 1926.\nNow, Indochinese nationalists and leftists under a coalition government called the Viet Minh have risen up against the colonial regime. Nguyen Anh Ninh, the head of the Viet Minh, declared the Independence of Indochina. After a salute to the Internationale and world revolution, he condemned the brutal German oppression of the working class and affirmed the Indochinese workers' commitment to anti-imperialism and the liberation of colonial people.\nObservers agree with German media that they are just some weak peasants, that the German garrison or even the police could easily suppress the rebels, known as the Vietcong."
-worldnews.91.d.b:0 "After the Weltkrieg, Germany seized French Indochina, but stability wasn't restored until Germany crushed the South China revolutionaries in 1926.\nNow, Indochinese nationalists and leftists under a coalition government called the Viet Minh have risen up against the colonial regime. Nguyen Anh Ninh, the head of the Viet Minh, declared the Independence of Indochina in Saigon. After paying homage to the resistance of Asian people, he condemned the brutal German oppression of Asian people and affirmed the Indochinese people's commitment to the unity of Asia.\nObservers agree with German media that they are just some weak peasants. German garrison forces or even the police in the Far East can easily suppress the revolts, known as the Vietcong."
-worldnews.91.d.c:0 "After the Weltkrieg, Germany seized French Indochina, but stability wasn't restored until Germany crushed the South China revolutionaries in 1926.\nNow, Indochinese nationalists and leftists under a coalition government called the Viet Minh have risen up against the colonial regime. After quoting the French Declaration of the Rights of Man and the American Declaration of Independence, Nguyen Anh Ninh, the head of the Viet Minh, condemned the brutal German oppression of free people and affirmed the Indochinese nation's right to independence.\nObservers agree with German media that they are just some weak peasants. German garrison forces or even the police in the Far East can easily suppress the revolts, known as the Vietcong."
+worldnews.91.d.a:0 "세계대전 이후 독일은 프랑스령 인도차이나를 점령했지만, 1926년 독일이 남중국의 혁명가들을 격파하기 전까지 안정은 회복되지 않았습니다.\n이제, 베트민이라는 연립 정부 하에서 인도차이나 국민주의자들과 좌파들이 식민 정권에 대항해 일어섰습니다. 베트민의 지도자인 Nguyen Anh Ninh은(는) 인도차이나의 독립을 선언하였습니다. 인터내셔널과 세계혁명에 경의를 표한 뒤 그는 독일의 잔혹한 노동계급 탄압을 비난하고 인도차이나 노동자들의 반제국주의와 식민지의 해방에 대한 헌신을 확인하였습니다.\n그러나 관측자들은 그들이 약한 소작농일 뿐이고 독일 주둔군이나 심지어 경찰조차도 베트콩으로 알려진 반군을 쉽게 진압할 수 있다는 독일 언론들의 의견에 동의합니다."
+worldnews.91.d.b:0 "세계대전 이후 독일은 프랑스령 인도차이나를 점령했지만, 1926년 독일이 남중국의 혁명가들을 격파하기 전까지 안정은 회복되지 않았습니다.\n이제, 베트민이라는 연립 정부 하에서 인도차이나 국민주의자들과 좌파들이 식민 정권에 대항해 일어섰습니다. 베트민의 지도자인 Nguyen Anh Ninh은(는) 사이공에서 인도차이나의 독립을 선언하였습니다. 아시아인들의 저항심에 경의를 표한 뒤 그는 독일의 잔혹한 아시아인 탄압을 비난하고 인도차이나인들의 아시아 통합에 대한 헌신을 확인하였습니다.\n그러나 관측자들은 그들이 약한 소작농일 뿐이고 독일 주둔군이나 극동 지역의 경찰조차도 베트콩으로 알려진 반군을 쉽게 진압할 수 있다는 독일 언론들의 의견에 동의합니다."
+worldnews.91.d.c:0 "세계대전 이후 독일은 프랑스령 인도차이나를 점령했지만, 1926년 독일이 남중국의 혁명가들을 격파하기 전까지 안정은 회복되지 않았습니다.\n이제, 베트민이라는 연립 정부 하에서 인도차이나 국민주의자들과 좌파들이 식민 정권에 대항해 일어섰습니다. 프랑스 인권선언과 미국 독립선언문을 인용한 후, 베트민의 지도자인 Nguyen Anh Ninh은(는) 독일의 잔혹한 자유민에 탄압을 비난하고 인도차이나 국가의 독립권을 단언했습니다.\n그러나 관측자들은 그들이 약한 소작농일 뿐이고 독일 주둔군이나 극동 지역의 경찰조차도 베트콩으로 알려진 반군을 쉽게 진압할 수 있다는 독일 언론들의 의견에 동의합니다."
 worldnews.91.a:0 "어떻게 강대국이 쓰러진 것일까."
 worldnews.91.b:0 "그들은 확실히 모범 식민지는 아니군."
 worldnews.91.c:0 "그들이 독립 선언문을 어디서 배웠을까?"
 
 worldnews.92.t:0 "인도차이나 혁명이 성공하다"
 worldnews.92.d:0 "베트민 민병대들은 끈기와 분노로 인도차이나 반도의 거의 모든 전략적 지점에서 독일 군대를 몰아내는데 성공했으며, 독일 외무부는 마침내 반란군 지도자들을 만나는 것에 동의했고 그들이 주장하는 전체 지역에서의 완전 독립을 제안했습니다.\n\n오늘, 베트민에 의해 인도차이나 연합이 성립되었고, 이 역사적인 사건을 목격 한 베트남 사람들은 환호했습니다. 이 나라의 미래는 아직 불확실하지만, 세계가 이 사건이 아시아에 미치는 영향을 측정하려고 시도하는 가운데 바라티야 코뮌과의 동맹에 대한 소문이 각국의 외교 경로를 통해 확산되기 시작했습니다."
-worldnews.92.a:0 "독일 식민주의에 치명적인 타격이군!"
+worldnews.92.a:0 "식민주의에 치명적인 타격이군!"
 
 worldnews.93.t:0 "인도차이나 혁명이 실패하다"
-worldnews.93.d:0 "베트남 민병대의 격렬한 게릴라전에도 불구하고 독일 군대는 인도차이나에서 생디칼리스트들의 반란을 저지했습니다. 인도차이나 생디칼리스트 고위 당원 다수는 하노이에 있는 베트남 민병대 사령부를 향한 독일군의 포격 가운데 사망한것으로 추정됩니다. 그러나 그가 그의 남은 병사들 중 일부와 함께 운남을 향한 긴 행진을 하고 있다는 소문도 있습니다. \n\n어찌되었든간에, 독일 식민지 병력의 승리의 열정은 많은 베트남 마을에서 생디칼리즘의 조력가를 색출한다는 명목 아래 폭력으로 변질되고 있습니다."
+worldnews.93.d:0 "베트남 민병대의 격렬한 게릴라전에도 불구하고 독일 군대는 인도차이나에서 베트민들의 반란을 저지했습니다. 중앙정부가 사이공에서 탈출해 피난을 간 후 리즈 평원에 숨어있던 인도차이나 연합의 지도자들은 독일군의 철저한 소탕작전으로 사망한 것으로 추정됩니다. 그러나 베트민 지도자들이 국경을 넘어 다른 나라로 도주했다는 소문도 있습니다. 어찌 되었든 간에, 전쟁은 그 땅에 지울 수 없는 상처를 남겼고, 독일군과 베트콩 게릴라 사이의 악랄한 싸움으로 수천 개의 마을이 파괴되고 수백만 명의 사람들이 그들의 집을 잃었습니다."
 worldnews.93.a:0 "예상대로."
 
 worldnews.94.t:0 "제2차 인터내셔널 회의"
@@ -440,8 +440,8 @@ worldnews.100.d:0 "\n이탈리아 사회주의 공화국의 제5차 평의회는
 worldnews.100.d.comp:0 "이탈리아 사회주의 공화국의 제5차 평의회의 오랜 교착 상태가 기독교 사회주의 연맹과 생디칼리즘 연맹이 타협에 성공하여 마침내 끝이 났습니다. 이탈리아의 생디칼리즘 연맹의 팔미로 톨리아티는 의장직을 계속 지키겠지만 현상황은 여전히 정부의 안정에 큰 타격을 주고 있습니다."
 worldnews.100.a:0 "전혀 놀랍지 않은 일이다."
 
-worldnews.101.t:0 "민족주의 연맹이 이탈리아의 여당이 되다"
-worldnews.101.d:0 "\n이탈리아 사회주의 공화국의 제5차 평의회는 베니토 무솔리니가 이끄는 민족주의 연맹이 정부의 과반수 의석 수를 달성하며 끝났습니다. 정권 교체는 이탈리아 내 적국에게 공화국이 더욱 강경하고 군국주의적인 입장으로 나아가는 것을 의미합니다."
+worldnews.101.t:0 "국민주의 연맹이 이탈리아의 여당이 되다"
+worldnews.101.d:0 "\n이탈리아 사회주의 공화국의 제5차 평의회는 베니토 무솔리니가 이끄는 국민주의 연맹이 정부의 과반수 의석 수를 달성하며 끝났습니다. 정권 교체는 이탈리아 내 적국에게 공화국이 더욱 강경하고 군국주의적인 입장으로 나아가는 것을 의미합니다."
 worldnews.101.a:0 "흥미롭군"
 
 worldnews.102.t:0 "이탈리아가 재통일되다"
