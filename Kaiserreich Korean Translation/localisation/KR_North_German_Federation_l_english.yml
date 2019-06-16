@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 ### Parties ###
 NGF_totalist_party:0 "인민전선"
@@ -14,8 +14,8 @@ NGF_social_liberal_party_long:0 "진보인민당"
 NGF_market_liberal_party:0 "국가자유당"
 NGF_market_liberal_party_long:0 "국가자유당"
 NGF_social_conservative_party:0 "한자동맹"
-NGF_social_conservative_party_long:0 "한자 인민동맹"
-NGF_authoritarian_democrat_party:0 "BdL"
+NGF_social_conservative_party_long:0 "한자인민동맹"
+NGF_authoritarian_democrat_party:0 "농업자동맹"
 NGF_authoritarian_democrat_party_long:0 "농업자동맹"
 NGF_paternal_autocrat_party:0 "하노버당"
 NGF_paternal_autocrat_party_long:0 "독일-하노버당"
