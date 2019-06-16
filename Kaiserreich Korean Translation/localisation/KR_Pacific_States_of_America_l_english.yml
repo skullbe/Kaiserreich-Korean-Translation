@@ -1,12 +1,12 @@
 l_english:
 
 ### Parties ###
-CAL_totalist_party:0 "미국사회당"
-CAL_totalist_party_long:0 "미국사회당"
-CAL_syndicalist_party:0 "미국사회당"
-CAL_syndicalist_party_long:0 "미국사회당"
-CAL_radical_socialist_party:0 "미국사회당"
-CAL_radical_socialist_party_long:0 "미국사회당"
+CAL_totalist_party:0 "미국 사회당"
+CAL_totalist_party_long:0 "미국 사회당"
+CAL_syndicalist_party:0 "미국 사회당"
+CAL_syndicalist_party_long:0 "미국 사회당"
+CAL_radical_socialist_party:0 "미국 사회당"
+CAL_radical_socialist_party_long:0 "미국 사회당"
 CAL_social_democrat_party:0 "농민-노동자당"
 CAL_social_democrat_party_long:0 "농민-노동자당"
 CAL_social_liberal_party:0 "진보당"
@@ -15,12 +15,12 @@ CAL_market_liberal_party:0 "공화당"
 CAL_market_liberal_party_long:0 "공화당"
 CAL_social_conservative_party:0 "민주당"
 CAL_social_conservative_party_long:0 "민주당"
-CAL_authoritarian_democrat_party:0 "미국제일당"
-CAL_authoritarian_democrat_party_long:0 "미국제일당"
-CAL_paternal_autocrat_party:0 "미국제일당"
-CAL_paternal_autocrat_party_long:0 "미국제일당"
-CAL_national_populist_party:0 "미국제일당"
-CAL_national_populist_party_long:0 "미국제일당"
+CAL_authoritarian_democrat_party:0 "미국 제일당"
+CAL_authoritarian_democrat_party_long:0 "미국 제일당"
+CAL_paternal_autocrat_party:0 "미국 제일당"
+CAL_paternal_autocrat_party_long:0 "미국 제일당"
+CAL_national_populist_party:0 "미국 제일당"
+CAL_national_populist_party_long:0 "미국 제일당"
 
 ### Ideas ###
 
