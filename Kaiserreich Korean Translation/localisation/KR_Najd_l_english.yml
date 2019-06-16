@@ -248,35 +248,36 @@ SAU_techslot_machine_desc:0 "교육 계획의 마지막 단계는 당연하게�
 
 ### Military Focuses ###
 SAU_recruiting_effort:0 "모병 시도"
-SAU_recruiting_effort_desc:0 "Many young men risk idling by the great histories in motion, and will not even hear to call to arms! This cannot be tolerated, and every man in Arabia will be reached out on how to fight for the Emir and his people"
+SAU_recruiting_effort_desc:0 "많은 젊은이들이 위대한 역사의 흐름 앞에서 나태하게 있으며, 심지어는 소집 명령조차 받지 못할지도 모릅니다! 이러한 일은 절대로 용납될 수 없으며, 아라비아의 모든 장정은 에미르와 백성들을 위해 어떻게 싸울지에 전념해야 합니다."
 SAU_contest_the_gulf:0 "걸프 경쟁"
 SAU_contest_the_gulf_desc:0 "많은 이들이 이곳을 '페르시아'만 이라고 부릅니다. 하지만 우리는 더 나은 칭호를 알고 있고, 세계가 이를 따르게 만들 것입니다!"
 SAU_protect_oil_shipping:0 "석유 수송로 보호"
-SAU_protect_oil_shipping_desc:0 "Our oil exports are a very vital part of our economy, and our enemies know this. To ensure that the shipments safely reach the Indian Ocean, a proper oceangoing navy will be needed, and the crews to maintain it"
+SAU_protect_oil_shipping_desc:0 "석유 수출은 국가 경제에서 매우 중요한 부분을 담당하고 있으며, 적들도 이 사실을 알고 있습니다. 석유 상품이 인도양에 안전하게 도달하기 위해서는 적절한 원양 해군과 이를 유지하기 위한 선원들이 필요합니다."
 SAU_kuwait_naval_base:0 "알-하사 해군 기지"
 SAU_kuwait_naval_base_desc:0 "한때 오스만 제국의 바스라 빌라예트의 한 지방이던 알-하사는 이제 가까운 미래에 우리의 주요 항구가 되도록 적절히 재구축될 것입니다."
 SAU_naval_exercises:0 "해군 훈련"
-SAU_naval_exercises_desc:0 "As we prepare for confrontation with [PER.GetNameDef] and other hostile powers in the Arabian Gulf, we will conduct navy exercises to ensure our fleet has actual experience at sea when conflict flares up"
+SAU_naval_exercises_desc:0 "[PER.GetNameDef]과 다른 아라비아 만의 적대 세력들과 있을 충돌에 대비해야 합니다. 이러한 분쟁이 터졌을 때를 대비해서 실제 해상 활동 경험을 쌓기 위해 해군 훈련을 실시할 것입니다."
 SAU_liberation_war_of_holy_cities:0 "성지 해방"
 SAU_liberation_war_of_holy_cities_desc:0 "성스러운 도시 메카와 메디나는 오스만 투르크 지배 아래서 신음하고 있습니다. 이 성지를 우리의 깃발 아래로 해방시켜야 하는 의무를 지고 있습니다."
 SAU_mobilize_the_tribes:0 "부족들을 징집하라"
 SAU_mobilize_the_tribes_desc:0 "이 땅의 모든 부족은 우리를 돕겠다고 맹세했고, 지금 우리는 우리가 오랫동안 싸워서 이뤄온 모든 것을 되돌리려는 적들과 전쟁을 치르고 있습니다. 선서를 이행하십시오! 에미르가 도움을 청하니 우리에게로 오십시오!"
 SAU_army_command_modernization:0 "지휘 체계 현대화"
-SAU_army_command_modernization_desc:0 "It's high time we modernise the way our army is led, away from the lords and into the Army, which will be properly organised following foreign military doctrine, with different branches for different types of units and theatres"
+SAU_army_command_modernization_desc:0 "군대를 각 영주가 이끄는 구시대적 방식에서 벗어나 분과별로 통솔하여 서로 다른 병종과 전선을 기준으로 삼는 외국 군사 교리에 따라 적절히 조직된 방식으로 현대화할 때입니다."
 SAU_establish_arabian_airforce:0 "아라비아 공군 창설"
 SAU_establish_arabian_airforce_desc:0 "우리는 사상 최초로 아라비아에 공군을 창설하고 사막 모래언덕 위의 창공을 지배하는 일을 검토해야 합니다."
 SAU_establish_arabian_mechanized_brigades:0 "기계화 부대 창설"
-SAU_establish_arabian_mechanized_brigades_desc:0 "In this new age, we must ensure our capacity to adapt is as present as our bravery and integrity. Mechanised and Motorised infantry forces will play a grand part in our reconquest of the homeland!"
+SAU_establish_arabian_mechanized_brigades_desc:0 "우리가 용맹하고 진실된 만큼이나 이 새로운 시대에 적응할 수 있는 능력도 지니고 있다는 사실을 증명해야 합니다. 기계화 및 자동화 보병 부대가 고향을 재정복하는데 지대한 역할을 수행할 것입니다!"
 SAU_establish_new_arabian_army:0 "새로운 아라비아 군대"
-SAU_establish_new_arabian_army_desc:0 "As our army reform continues, more political effort must be done to ensure it works at a similar capacity to that of Major Powers, lest we will be sent back to the dustbin of history. The time has come for us to spare no effort in making sure to end tribalism and factionalism in our armed forces and prepare it for the coming century"
+SAU_establish_new_arabian_army_desc:0 "
+군제 개혁이 지속됨에 따라, 우리 군대가 주요 강대국의 군대와 비슷한 능력을 발휘하도록 하기 위해 더 많은 정치적 노력이 이루어져야 합니다. 우리가 역사의 쓰레기통으로 보내지지 않도록 말이지요. 군 내에서 부족주의와 파벌주의를 확연히 종식시키고 다음 세기에 대비하기 위해 노력을 아끼지 않을 때입니다."
 SAU_arabian_horsemanship:0 "아라비아의 기마술"
-SAU_arabian_horsemanship_desc:0 "Ever since before the time of the Caliphate, we Arabians were well known as excellent horsemen, and trusty warriors are one thing that we'll surely need. As our cavalry divisions modernise, they are expected to operate in a distinct Arabian fashion, still"
+SAU_arabian_horsemanship_desc:0 "칼리프 시대 이전에도 우리 아랍인들은 뛰어난 기병으로 익히 알려져 있었으며, 신뢰할 수 있는 전사들은 우리가 정말로 필요로 하는 것 중 하나입니다. 기병 사단이 현대화였을지라도, 그들은 여전히 확연한 아라비아 방식으로 운용될 것으로 예상됩니다."
 SAU_desert_warfare:0 "사막전"
-SAU_desert_warfare_desc:0 "We know how to fight in these lands, better than anyone else. Our men have fought off our rivals for decades now, and many more foes are to come to our sands. But they will be defeated, and learn to hate sand"
+SAU_desert_warfare_desc:0 "우리는 이 땅에서 싸우는 법을 누구보다 잘 알고 있습니다. 우리 군인들은 수십년간 경쟁자들과 싸워왔으며, 더 많은 적들이 우리의 사막으로 몰려올 것입니다. 하지만 그들은 패배할 것이고, 사막을 두려워하는 방법을 배울 것입니다."
 SAU_desert_logstics:0 "사막 보급"
-SAU_desert_logstics_desc:0 "Moving armies through the desert is oftentimes impossible if you do not know the way; a wrong turn may have your forces trapped in trackless desert, or straight into an enemy trap!"
+SAU_desert_logstics_desc:0 "만약 당신이 길을 모른다면, 사막으로 진군하는 것은 사실상 불가능합니다. 잘못된 방향으로 간다면, 군대를 길이 없는 사막에 가두거나 적의 함정 속으로 몰아갈 수도 있습니다!"
 SAU_war_of_resistance:0 "저항 전쟁"
-SAU_war_of_resistance_desc:0 "We live in an age of total war, where even limited conflicts put everything at stake. Your young nation can fall just as fast as it arose, and be crushed under the iron heels of history. We must resist! Forever Arabia will be Free!"
+SAU_war_of_resistance_desc:0 "우리는 제한된 충돌마저도 모든 것을 위험에 빠트리는 총력전의 시대에 살고 있습니다. 당신의 신생 민족은 떠오른 것 만큼이나 빠르게 무너질 수 있으며, 역사의 발 아래 짓밟힐 수 있습니다. 우리는 저항해야 합니다! 아라비아는 영원히 자유로울것입니다!"
 
 
 
@@ -289,33 +290,33 @@ saud.3.d:0 "오늘 우리는 라시드 가문에 승리를 거두었고, 사우�
 saud.3.a:0 "사우드 왕가 만세!"
 
 saud.2.t:0 "술탄께서는 칼리프국과 성지에 대한 통치권을 주장하셨습니다!"
-saud.2.d:0 "In a solemn and sacred ceremony the Saudi Sultan of Arabia has declared that he is the new Caliph of Islam. A new an pious dynasty will lead and guide the faithful once more."
+saud.2.d:0 "엄숙하고 신성한 의식 속에서 아리비아의 사우디 가문 술탄은 그가 이슬람의 새로운 칼리프라고 선언했습니다. 새로 개창된 경건한 왕조가 다시 한번 참된 신자들을 인도할 것입니다."
 saud.2.a:0 "칼리프 만세!"
 
 ### Reactions to the Caliph Event ###
 
 saud.31.t:0 "아라비아 술탄이 칼리프를 칭하다"
-saud.31.d:0 "The Sultan of Arabia has declared himself the Caliph of Islam. Many liberals in the cafes throughout Egypt were said to burst into laughter at the news finding it ridiculous, even Sultan Farouk was said to find this news ridiculous. Even among the conservative Ittihad party, Hassan al-Banna and Sayyid Qutb both came out and denounced it calling the Sultan of Arabia immoral and not fit to hold the office."
+saud.31.d:0 "아라비아의 술탄이 스스로를 이슬람의 칼리프라고 선언했습니다. 이집트 전역의 카페에서 수많은 자유주의자들이 이 우스꽝스러운 소식을 듣고 웃음을 터트렸으며, 심지어 술탄 파루크마저도 이 소식을 터무니 없는 것으로 치부하였다고 합니다. 심지어 보수적인 이타히드 정당 내에서도 하산 알 바나, 사이드 쿠트브 양쪽 모두 아라비아의 술탄은 비도덕적이며 그 칭호를 차지할 자격이 없다는 비난 성명을 내보냈습니다."
 saud.31.a:0 "터무니없는 주장을 거부하라"
 
 saud.32.t:0 "이집트가 우리의 주장을 거부하였다"
-saud.32.d:0 "We have received news from Egypt that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
+saud.32.d:0 "이집트가 우리를 칼리프로 인정하지 않는다는 결정을 내렸다는 소식을 들었습니다. 우리는 절대 잊지 못할 분노를 느꼈습니다."
 saud.32.a:0 "이집트, 우리는 잊지 않을 것이다."
 
 saud.33.t:0 "아라비아 술탄이 칼리프를 칭하다"
-saud.33.d:0 "News has reached Tehran that the Sultan of Arabia has declared himself the Caliph of Islam. The caliph of Sunni Islam specifically. The vast majority of people in [PER.GetNameDef] are Shia Muslim and consequently have little interest in what the Arab Sultan decided. We do not care about him."
+saud.33.d:0 "아라비아의 술탄이 자신을 이슬람 칼리프라고 선언했다는 소식이 테헤란에 전해졌습니다. 그 중에서도 특히 수니파의 칼리프를 말이지요. [PER.GetNameDef]의 백성들 대부분은 시아파를 신봉하므로, 결과적으로 아랍 술탄의 결정 내용에 관심이 거의 없습니다. 고로 우리는 이 일에 신경쓰지 않기로 했습니다."
 saud.33.a:0 "아랍 술탄이 무엇을 칭하던, 누가 관심이 있을까"
 
-saud.34.t:0 "[PER.GetNameDefCap]가 우리의 주장을 거부하였다"
-saud.34.d:0 "We have received news from [PER.GetNameDef] that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
+saud.34.t:0 "[PER.GetNameDefCap](이)가 우리의 주장을 거부하였다"
+saud.34.d:0 "[PER.GetNameDefCap](이)가 우리를 칼리프로 인정하지 않는다는 결정을 내렸다는 소식을 들었습니다. 우리는 절대 잊지 못할 분노를 느꼈습니다."
 saud.34.a:0 "[PER.GetName], 우리는 잊지 않을 것이다"
 
 saud.35.t:0 "아라비아 술탄이 칼리프를 칭하다"
-saud.35.d:0 "The Sultan of Arabia has declared himself the Caliph of Islam. This is an obvious ploy at power. We should reject his claim, we do not need to recognise the claims"
+saud.35.d:0 "아라비아의 술탄이 스스로 이슬람의 칼리프라고 선언했습니다. 이는 명백히 권력을 얻으려는 술책입니다. 우리는 그 주장을 인정할 필요가 없고, 거부를 표해야 합니다."
 saud.35.a:0 "이 주장을 거부하라"
 
 saud.36.t:0 "예멘이 우리의 주장을 거부하였다"
-saud.36.d:0 "We have received news from Yemen that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
+saud.36.d:0 "예멘이 우리를 칼리프로 인정하지 않는다는 결정을 내렸다는 소식을 들었습니다. 우리는 절대 잊지 못할 분노를 느꼈습니다."
 saud.36.a:0 "예멘, 우리는 잊지 않을 것이다"
 
 saud.37.t:0 "인도의 무슬림들이 재건된 칼리프국을 지지한다!"
@@ -383,7 +384,7 @@ saud.52.d:0 "We have received news from Turkey that the people their have seemed
 saud.52.a:0 "잊지 않을 것이다"
 
 saud.53.t:0 "나지드와 무기 거래"
-saud.53.d:0 "To bolster their army in the coming struggle against the Ottoman Empire, Nejd has offered us large sums of wealth and oil if we were to assist them in their struggle."
+saud.53.d:0 "나지드는 다가오는 오스만 제국과의 투쟁에 대비해 군대를 보강하기 위한 제안을 보냈습니다. 만약 우리가 그들의 투쟁에 도움을 준다면 우리에게 막대한 부와 석유를 제공하겠다고 제안했습니다."
 saud.53.a:0 "무기를 제공하라"
 saud.53.b:0 "우리는 중동 사막에 관심이 없다"
 
