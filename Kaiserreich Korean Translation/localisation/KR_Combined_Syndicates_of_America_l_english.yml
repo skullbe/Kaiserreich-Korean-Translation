@@ -252,7 +252,7 @@ CSA_develop_paraguay:0 "파라과이에 산업 지원"
 CSA_deal_with_terrorists_decisions:0 "반동 테러리스트들을 박살내라"
 CSA_deal_with_terrorists_decisions_desc:0 "혁명이 승리했지만, 많은 수의 반동적 테러스트들이 그들의 무기를 버리는 것을 거부하고 있습니다. 우리는 반드시 그들 모두를 처리할 것입니다."
 CSA_destroy_federalist_decision:0 "충성스러운 테러리스트들을 박살내라"
-CSA_destroy_longist_decision:0 "롱 지지자 테러리스트들을 박살내라"
+CSA_destroy_longist_decision:0 "롱주의자 테러리스트들을 박살내라"
 
 
 
@@ -1032,7 +1032,7 @@ csa.153.a:0 "It is only a matter of time."
 
 ### Resistance Events ###
 
-csa.200.t:0 "롱 지지자들의 폭탄테러"
+csa.200.t:0 "롱주의자들의 폭탄테러"
 csa.200.d:0 "휴이 롱의 지지자들이 공장과 철도 그리고 군 시설에 대한 [attack_state.GetName] 하고 있습니다, 이로 인해 수많은 사람들이 다치거나 죽고 있습니다. [attack_state.GetName]의 현장에 있던 주 방위군들은 지금 잡힌 집단은 이전보다 더 테러리스트의 머리에 가까워있다고 주장하고 있습니다."
 csa.200.a:0 "우리는 이 테러리스트들을 소탕할 것이다."
 
