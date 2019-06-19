@@ -885,10 +885,10 @@ amcivwar.312.a:0 "이제 무슨 일이 일어날까."
 amcivwar.313.t:0 "뉴욕 저항군과의 접촉"
 amcivwar.313.d:0 "뉴욕과 뉴저지 둘 다 연방군에게 완전히 패배했다고 생각되었지만, 여러 대규모 전투원들이 도시 지역을 빠져나와 펜실베니아 동부의 언덕에서 다시 뭉친 것으로 밝혀졌습니다. 그들은 비록 녹초가 되었지만, 우리의 지원으로 전투를 계속하기를 희망합니다."
 amcivwar.313.a:0 "만나서 반갑군"
-CSA_four_units_newyork:0 "벨실베니아에 4 민병대 부대가 도착합니다"
+CSA_four_units_newyork:0 "펜실베니아에 4 민병대 부대가 도착합니다"
 
 amcivwar.314.t:0 "[restored_core.GetName]에서 질서 회복"
-amcivwar.314.d:0 "지난 몇 주 동안, [Root.GetAdjective] 정부군은 우리의 통제에 방해가 되는 사람들을 체포하고 지역 지지자들이 사람들에게 좋은 말을 퍼뜨리는 것을 돕기 위해 [restored_core.GetName]에서 바쁘게 움직이고 있다. 우리는 미국 시민으로서 그들이 우리의 존재를 두려워할 이유가 없다는 것을 알려 그들에게 안심시키고 싶습니다. 이 모든 혼란 속에서도 우리의 노력은 서서히 결실을 맺기 시작했습니다."
+amcivwar.314.d:0 "지난 몇 주 동안, [Root.GetAdjective] 정부군은 우리의 통제에 방해가 되는 사람들을 체포하고 지역 지지자들이 사람들에게 좋은 말을 퍼뜨리는 것을 돕기 위해 [restored_core.GetName]에서 바쁘게 움직이고 있다. 우리는 미국 시민으로서 그들이 우리의 존재를 두려워할 이유가 없다는 것을 알려 그들을 안심시키고 싶습니다. 이 모든 혼란 속에서도 우리의 노력은 서서히 결실을 맺기 시작했습니다."
 amcivwar.314.a:0 "좋은 소식이야!"
 
 amcivwar.320.t:0 "생디칼리스트가 미네소타를 통제하다"
@@ -976,29 +976,29 @@ amcivwar.335.b:0 "That's far too close to Washington"
 
 
 ### Deal with the Devil ###
-ACW_deal_with_devil_effect:0 "All occupied states of their territory will be transferred to us, and ours to them. The truce will continue for 90 days, after which each of us will have the option to extend it for another 90 days.\n"
-amcivwar.520.t:0 "Deal with the Devil?"
-amcivwar.520.d:0 "The [From.GetAdjective] government has approached us with a proposal: a truce of at least 90 days between [Root.GetNameDef] and [From.GetNameDef], so that both of us can turn our efforts against the [enemy_country.GetAdjective] forces, which are currently defeating us both. In 90 days time, we can re-assess... and, if [enemy_country.GetNameDef] is defeated the truce will be off."
-amcivwar.520.a:0 "We agree to this arrangement... for now"
-amcivwar.520.b:0 "No, we refuse to compromise our principles"
+ACW_deal_with_devil_effect:0 "그들이 소유하고 우리가 통제하는 모든 주는 그 소유권이 우리에게로 이전될 것이고, 그 반대도 마찬가지입니다. 휴전은 90일 동안 계속될 것이고, 그 후에는 각자 90일 더 연장할 수 있는 선택권을 갖게 될 것입니다.\n"
+amcivwar.520.t:0 "악마와의 거래?"
+amcivwar.520.d:0 "[From.GetAdjective] 정부는 우리에게 [Root.GetNameDef]와 [From.GetNameDef] 사이에 90일 동안 휴전하여 두 세력 모두에게 승리하고 있는 [enemy_country.GetAdjective]군을 상대하자고 제안했습니다. 90일 후면 휴전을 재검토할 수 있습니다.... 그리고 [enemy_country.GetNameDef]이 패배한다면 휴전은 끝납니다."
+amcivwar.520.a:0 "우리는 이 에 동의한다... 현재로는"
+amcivwar.520.b:0 "아니, 원칙의 타협은 거부한다."
 
-amcivwar.521.t:0 "The Deal has been Refused"
-amcivwar.521.d:0 "Unfortunately, it seems the [From.GetAdjective] government is more stubborn than they anticipated. They will not co-operate with us, even if it means their defeat."
-amcivwar.521.a:0 "Too bad"
+amcivwar.521.t:0 "거래가 파토나다"
+amcivwar.521.d:0 "불행하게도, [From.GetAdjective] 정부는  예상했던 것보다 더 완강합니다. 비록 이 선택이 그들의 패배를 의미하더라도 그들은 우리와 협력하지 않을 것입니다."
+amcivwar.521.a:0 "이런"
 
-amcivwar.522.t:0 "The Deal is Accepted"
-amcivwar.522.d:0 "As expected, the [From.GetAdjective] forces have accepted our deal. We will stop fighting, for now, and turn our attentions against [enemy_country.GetNameDef]. In 90 days time, we can re-assess, and if the [enemy_country.GetAdjective] forces have been defeated then the truce will be off."
-amcivwar.522.a:0 "Excellent"
+amcivwar.522.t:0 "거래가 성사되다"
+amcivwar.522.d:0 "예상대로, [From.GetAdjective]군은 우리의 거래를 받아들였습니다. 우리는 일단 전쟁을 멈추고, [enemy_country.GetNameDef]으로 관심을 돌릴 것입니다. 90일 후면 재검토를 할 수 있고, 만약 [enemy_country.GetNameDef]이 패배한다면 휴전은 끝납니다."
+amcivwar.522.a:0 "훌륭하군"
 
-amcivwar.523.t:0 "Continue the Truce?"
-amcivwar.523.d:0 "The 90 days is up, and now it falls on us to consider whether we resume our fight against [truce_country.GetNameDef]."
-amcivwar.523.a:0 "Let us hold off another 90 days..."
-amcivwar.523.b:0 "This truce is over"
+amcivwar.523.t:0 "휴전 연장?"
+amcivwar.523.d:0 "90일이 지났고, 이제 우리가 [truce_country.GetNameDef]과의 전쟁을 재개할지 여부를 고려하는 것은 우리에게 달려있습니다."
+amcivwar.523.a:0 "90일 더 연장하자..."
+amcivwar.523.b:0 "휴전은 끝났다."
 
-amcivwar.524.t:0 "Deal with the Devil"
-amcivwar.524.d:0 "With their forces hard-pressed by [enemy_country.GetNameDef], representatives from both [From.GetNameDef] and [From.From.GetNameDef] agreed to a temporary truce, lest [enemy_country.GetAdjective] roll over them both and win the American Civil War. Whether their agreement comes too late, or if it can even last more than a few months before both sides turn on the other, remains to be seen. Most onlookers appear to agree this unprecedented agreement indicates that, for now, [enemy_country.GetNameDef] has the definite upper hand."
-amcivwar.524.a:0 "Interesting"
-amcivwar.524.b:0 "It makes no difference - they will both lose"
+amcivwar.524.t:0 "악마와의 거래"
+amcivwar.524.d:0 "[enemy_country.GetNameDef]의 강한 압박으로 인해, [enemy_country.GetAdjective]이 둘 모두를 쓰러트리고 미국 내전에서 승리하지 않도록 [From.GetNameDef]과 [From.From.GetNameDef]의 대표들이 임시 휴전에 동의했습니다. 이 휴전이 오래 지속될 것인지, 아니면 양측이 서로를 비난하기 전에 몇 달 이상 지속될 수 있을지는 지켜볼 일입니다. 대부분의 방관자들은 이 전례 없는 협정이 현재로선 [enemy_country.GetNameDef]가 확실한 우위를 가지고 있다는 것을 의미한다는 데 동의하는 것 같습니다."
+amcivwar.524.a:0 "흥미롭군"
+amcivwar.524.b:0 "아무것도 바뀌지 않았다. 둘 다 패배할 테니까."
 
 ### Sanity Checks ###
 
