@@ -17,10 +17,10 @@ JBS_social_conservative_party:0 "Hizb Altahaluf"
 JBS_social_conservative_party_long:0 "Hizb Altahaluf"
 JBS_authoritarian_democrat_party:0 "Al-Imarat Al-Arabiyah Al-Muttahidah"
 JBS_authoritarian_democrat_party_long:0 "Al-Imarat Al-Arabiyah Al-Muttahidah"
-JBS_paternal_autocrat_party:0 "Al Rashid"
-JBS_paternal_autocrat_party_long:0 "Al Rashid"
-JBS_national_populist_party:0 "Hizb Alearabiu"
-JBS_national_populist_party_long:0 "Hizb Alearabiu"
+JBS_paternal_autocrat_party:0 "알 라쉬드"
+JBS_paternal_autocrat_party_long:0 "알 라쉬드"
+JBS_national_populist_party:0 "히즈브 알라라브"
+JBS_national_populist_party_long:0 "히즈브 알라라브"
 
 ### Tooltips ###
 JBS_arabian_tribes_mobilized_tooltip:0 "우리는 부족들을 징집할 것입니다.\n"
@@ -36,7 +36,7 @@ JBS_international_reputation_tooltip:0 "선전 활동은 국제사회의 다른 
 jbs_TPC_deal:0 "§GWe will be rewarded further in the future should the oil wells strike more of the black gold"
 
 ### Decisions ###
-JBS_SAU_Power_Struggle:0 "아랍 통일전쟁준비"
+JBS_SAU_Power_Struggle:0 "아랍 통일전쟁 준비"
 JBS_SAU_Power_Struggle_desc:0 "Time has not been very kind to the House of Rashid. Losing most of their male family members at the hands of the Ibn Saud and suffering from continous raids into their territory by the Ikhwan, the Rashidi federation of Emirs is cracking under the weight of the Wahabbists. Support by the Ottoman Empire is keeping our dominion on its feet however as their continued partnership and alliance with our Emir ensures his lands are safe. Further reinforced in 1925 when the former British protectorates of the Trucial States, Qatar and Bahrain were placed under our supervision, ties with the Sultan are strong.\n\nNonetheless some have argued that this partnership is the only thing keeping our realm together and should disaster befall the Ottomans, Ibn Saud may see it as his destiny to unite the peninsula under his rule."
 
 JBS_War_of_Unification:0 "아랍 통일전쟁"
