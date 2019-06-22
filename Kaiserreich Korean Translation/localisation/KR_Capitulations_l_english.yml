@@ -1,8 +1,8 @@
 l_english:
 
 ### Tooltips ###
-MAF_player_becomes_GEX:0 "§Y[GEX.GetNameDef]§ (으)로 플레이하게 될 것입니다!"
-GER_will_capitulate:0 "§Y[GER.GetNameDefCap]§! (은)는 항복할 것입니다!"
+MAF_player_becomes_GEX:0 "§Y[GEX.GetNameDef]§!으(로) 플레이하게 될 것입니다"
+GER_will_capitulate:0 "§Y[GER.GetNameDefCap]§!은(는) 항복할 것입니다"
 
 ### Events ###
 capt.1.t:0 "독일이 정복되다"
