@@ -42,7 +42,7 @@ DEH_BHC_war:0 "인도 자치령과 바라티야 코뮌 사이에 전쟁이 벌�
 DEH_BHC_war_declined:0 "인도 자치령이 바라티야 코뮌 침공을 단념했습니다"
 BHC_PRF_war:0 "바라티야 코뮌과 토후 연맹 사이에 전쟁이 벌어졌습니다"
 BHC_PRF_war_declined:0 "바라티야 코뮌이 토후 연맹 침공을 단념했습니다"
-DEH_becomes_india:0 "§Y[DEH.GetNameDefCap]§!은 §Y인도§가 될 것입니다!\n"
+DEH_becomes_india:0 "§Y[DEH.GetNameDefCap]§!은 §Y인도§!가 될 것입니다!\n"
 DEH_released_BUR:0 "버마가 해방되었습니다"
 DEH_jinnah_wins:0 "The platform is approved and the §YHome Rule Party§! wins re-election\n"
 DEH_socialist_wins:0 "The platform is approved and the §YSocialists§! win the election\n"
