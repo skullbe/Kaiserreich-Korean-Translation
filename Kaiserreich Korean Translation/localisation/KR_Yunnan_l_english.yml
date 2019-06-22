@@ -311,7 +311,7 @@ YUN_NAV_effort:0 "뇌격기 개발"
 YUN_NAV_effort_desc:0 "수면 아래에서 새로운 해전이 벌어지듯, 수면 위 창공에서도 새로운 해전이 벌어집니다."
 
 YUN_naval_effort:0 "해군 개발"
-YUN_naval_effort_tt:0 "§Y해군 부두§를 위한 건물 슬롯이 부족합니다!"
+YUN_naval_effort_tt:0 "§Y해군 기지§!를 건설할 공간이 부족합니다!"
 YUN_naval_effort_desc:0 "ThYUN_equipment_effort_desc:0 "보병이 운반하는 장비의 제한은 끊임없이 힘들어지고 있다. 우리는 가능한 한 최고의 도구를 부대에 지급하기 위해 집중할 것이다."
 YUN_flexible_navy:0 "유연한 해군"
 YUN_flexible_navy_desc:0 "Reinventing naval warfare to account for the advances in submarine technology will allow us to strike efficiently against enemy convoys."
