@@ -27,7 +27,7 @@ ARG_GER_Treaty:0 "§G우리는 이 조약이 부에노스 아이레스에서 비
 ARG_GER_Treaty_Tough_Boy:0 "§R부에노스 아이레스는 만약 그들의 실질적인 혜택이 상당하다는 것에 동의한다면 자국의 이해 관계를 다른 곳으로 옮기기로 결정할지도 모릅니다§!"
 ARG_CAN_DEAL:0 "아르헨티나-캐나다 무역 협정"
 ARG_GER_DEAL:0 "아르헨티나-독일 무역 협정"
-ARG_BORDER_CONFLICT:0 "§RFOP§!와의 §Y국경 분쟁§! 촉발 \n"
+ARG_BORDER_CONFLICT:0 "§RFOP§와의 §Y국경 분쟁§! 촉발 \n"
 ARG_INFRA:0 "§G사회기반시설§! 확대 §Y결정§! 열림"
 ARG_STEEL:0 "외국에 대한 우리의 의존을 줄이기 위한 §G강철§! 생산 §Y결정§! 열림"
 ARG_WEAP:0 "외국의 §G보병 장비§! 수입 §Y결정§! 열림"
