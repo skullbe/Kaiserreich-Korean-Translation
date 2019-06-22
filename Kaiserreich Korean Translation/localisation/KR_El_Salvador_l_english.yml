@@ -26,13 +26,13 @@ ELS_national_populist_party_long:0 "Partido Nacional Pro-Patria"
 ELS_national_populist_party:0 "PNPP"
 
 ##Modifiers##
-ELS_border_treaty_accepted:0 "Border Treaty Accepted"
-ELS_border_treaty_refused:0 "Border Treaty Rejected"
-ELS_accepted_trade_deal:0 "Accepted Trade Deal"
-ELS_refused_trade_deal:0 "Refused Trade Deal"
+ELS_border_treaty_accepted:0 "국경조약을 수락함"
+ELS_border_treaty_refused:0 "국경조약을 거부함"
+ELS_accepted_trade_deal:0 "무역거래를 수락함"
+ELS_refused_trade_deal:0 "무역거래를 거부함"
 
 ### Tooltips ###
-ELS_revolution_begins_flag:0 "§RThe 1937 Salvadoran Revolution has begun.§!"
+ELS_revolution_begins_flag:0 "§R1937년 살바도르 혁명이 시작됬습니다.§!"
 ELS_vanguard_stands_flag:0 "§RThe military vanguard has stood strong.§!"
 ELS_pro_patria_destroyed_flag:0 "§YSalinas has successfully deposed Martínez.§!"
 ELS_pro_patria_stands_flag:0 "§YMartínez has resisted against all odds.§!"
@@ -43,15 +43,15 @@ ELS_syndicalist_country_flag:0 "§YIt's been decided to follow the Syndicalist s
 ELS_military_victory_flag:0 "§YThe military has come back into power.§!"
 ELS_national_democratic_victory_flag:0 "§YThe National Democratic Party has managed to come back into politics.§!"
 ELS_labour_victory_flag:0 "§YThe Labour Party has managed to retain the presidency.§!"
-ELS_military_takeover_flag:0 "§YThe Army has made a comeback and secured San Salvador!§"
+ELS_military_takeover_flag:0 "§YThe Army has made a comeback and secured San Salvador§!"
 ELS_revolution_over_flag:0 "§YThe revolution must be over.§!"
 ELS_conscription_flood_tooltip:0 "§RThis could bite us once we exit a state of war.§!"
 
 ELS_will_upgrade_union:0 "§GThis will upgrade whatever union we picked.§!"
 
-els_ratification_treaty:0 "§GWe'll send a message to Honduras and Guatemala to finish signing the treaty.§"
+els_ratification_treaty:0 "§GWe'll send a message to Honduras and Guatemala to finish signing the treaty.§!"
 
-ELS_foreign_asset_status:0 "§GWe'll decide the status of foreign assets.§"
+ELS_foreign_asset_status:0 "§GWe'll decide the status of foreign assets.§!"
 
 ELS_buy_planes_tt:0 "Unlocks £decision_icon_small §HDecisions§! to buy airplanes to foreign companies"
 
@@ -69,10 +69,10 @@ ELS_buying_nav_bombers_desc:0 "With the shortcomings of our local aircraft indus
 ### Ideas ###
 ## Starting ideas ##
 
-CEN_monroe_doctrine:0 "Monroe Doctrine"
+CEN_monroe_doctrine:0 "먼로독트린"
 CEN_monroe_doctrine_desc:0 "The Monroe Doctrine enacted by the US has caused our nation to lack a significant military force or the ability to go to war with other American countries in general. While this ensures the safety of our country, it severely limits the idea of expansion."
 
-ELS_memories_32:0 "Memories of '32"
+ELS_memories_32:0 "'32의 기억"
 ELS_memories_32_desc:0 "The massacre of the socialists and indigenous people in Western El Salvador has left scars on our nation, with socialist guerrilla traitors lying around every corner. Should the United States prove unable to intervene, it could lead to an outright collapse of our regime."
 
 ELS_depression_leftovers:0 "Leftovers of the Depression"
@@ -80,16 +80,16 @@ ELS_depression_leftovers_desc:0 "The Great Depression in the United States large
 
 ## Industrial ideas ##
 
-ELS_coffee_exports:0 "Coffee Exports"
+ELS_coffee_exports:0 "커피 수출"
 ELS_coffee_exports_desc:0 "While the majority of other Central American countries are considered Banana Republics, we're unique in the fact that we lack large amounts of bananas and instead have large amounts of coffee. This makes us a desirable trade partner to others due to our monopoly on the item."
 
-ELS_coffee_exports_2:0 "Coffee Exports"
+ELS_coffee_exports_2:0 "커피 수출"
 ELS_coffee_exports_2_desc:0 "While the majority of other Central American countries are considered Banana Republics, we're unique in the fact that we lack large amounts of bananas and instead have large amounts of coffee. This makes us a desirable trade partner to others due to our monopoly on the item."
 
-ELS_coffee_exports_3:0 "Coffee Exports"
+ELS_coffee_exports_3:0 "커피 수출"
 ELS_coffee_exports_3_desc:0 "While the majority of other Central American countries are considered Banana Republics, we're unique in the fact that we lack large amounts of bananas and instead have large amounts of coffee. This makes us a desirable trade partner to others due to our monopoly on the item."
 
-ELS_coffee_exports_4:0 "Trade Economy"
+ELS_coffee_exports_4:0 "무역 경제"
 ELS_coffee_exports_4_desc:0 "The recent boom in foreign trade has made the majority of our economy based off of foreign trade. This has ensured economic prosperity for now, and surely for the future, right?"
 
 ELS_depression_revamped:0 "The Depression Revamped"
@@ -101,22 +101,22 @@ ELS_depression_revamped_2_desc:0 "The Great Depression in the United States has 
 ELS_depression_revamped_3:0 "The Depression Revamped"
 ELS_depression_revamped_3_desc:0 "The Great Depression in the United States has worsened as a result of Black Monday in Germany. While this has hit our economy, this is nothing compared to the initial depression. Surely we will have a handle on the situation soon."
 
-ELS_revolution_scars:0 "Revolutionary Scars"
+ELS_revolution_scars:0 "혁명의 상처"
 ELS_revolution_scars_desc:0 "While the revolution is long over, the bloodshed and the general unrest among the population has made development much more difficult. This will need to be dealt with soon if we want to remain in power."
 
-ELS_revolution_scars_2:0 "Revolutionary Scars"
+ELS_revolution_scars_2:0 "혁명의 상처"
 ELS_revolution_scars_2_desc:0 "While the revolution is long over, the bloodshed and the general unrest among the population has made development much more difficult. This will need to be dealt with soon if we want to remain in power."
 
-ELS_revolution_scars_3:0 "Revolutionary Scars"
+ELS_revolution_scars_3:0 "혁명의 상처"
 ELS_revolution_scars_3_desc:0 "While the revolution is long over, the bloodshed and the general unrest among the population has made development much more difficult. This will need to be dealt with soon if we want to remain in power."
 
-ELS_agriculture_reform:0 "Agricultural Reform"
+ELS_agriculture_reform:0 "농업 개혁"
 ELS_agriculture_reform_desc:0 "With the recent rise of the Socialists, a huge amount of effort has been put into making sure we remove our complete reliance on coffee and reforming the farming industry from the ground up. This has brought significant benefits and helps bring us closer to a self-reliant economy."
 
-ELS_agriculture_reform_2:0 "Agricultural & Safety"
+ELS_agriculture_reform_2:0 "농업 & 안전"
 ELS_agriculture_reform_2_desc:0 "With the recent rise of the Socialists, a huge amount of effort has been put into making sure we remove our complete reliance on coffee and reforming the farming industry from the ground up. This has brought significant benefits and helps bring us closer to a self-reliant economy. Not only that, but it has also helped improve the conditions of our farms and has helped us make the people happier."
 
-ELS_civillian_union:0 "Supported UNT"
+ELS_civillian_union:0 "UNT 지원"
 ELS_civillian_union_desc:0 "The promotion of the UNT has helped make sure our people are living better daily lives and ensured the control of our own economy over imperialist foreigners."
 
 ELS_civillian_union_2:0 "Strengthened UNT"
@@ -128,21 +128,21 @@ ELS_military_union_desc:0 "The promotion of the FETRES has helped bring a focus 
 ELS_military_union_2:0 "Strengthened FETRES"
 ELS_military_union_2_desc:0 "The promotion of the FETRES has helped bring a focus on our arms industry to ensure that no foreign powers like the United States can ever intrude upon us or our independence ever again."
 
-ELS_bank_reform:0 "Banking Reforms"
+ELS_bank_reform:0 "은행 개혁"
 ELS_bank_reform_desc:0 "The Pro-Patria party’s main goal was to help bring the economy up from the great slump, with many projects like the National Board helping to achieve this goal. These reforms must be continued in order to prepare for any future economic collapses and to ensure we can defend from them."
 
 ELS_industrial_idea:0 "Beginning Industrialization"
 ELS_industrial_idea_desc:0 "With our economic doctrine firmly established, our country has put a major focus on its Industrialization and prosperity to ensure greatness for the future."
 
-ELS_coffee_exportation_to_our_friends:0 "Coffee Imports"
+ELS_coffee_exportation_to_our_friends:0 "커피 수입"
 ELS_coffee_exportation_to_our_friends_desc:0 ""
 
 ## Military ideas ##
 
-ELS_guerilla_warfare_knowledge:0 "Guerilla Warfare"
+ELS_guerilla_warfare_knowledge:0 "게릴라전"
 ELS_guerilla_warfare_knowledge_desc:0 "Considering the region we inhabit, the army has decided to stick to a guerilla warfare doctrine in order to be able to fight in any and all conditions. This will increase our defensive capabilities and ability to fight in harsh conditions, but make offensives that much harder."
 
-ELS_guerilla_warfare_knowledge_2:0 "Guerilla Warfare"
+ELS_guerilla_warfare_knowledge_2:0 "게릴라전"
 ELS_guerilla_warfare_knowledge_2_desc:0 "Considering the region we inhabit, the army has decided to stick to a guerilla warfare doctrine in order to be able to fight in any and all conditions. This will increase our defensive capabilities and ability to fight in harsh conditions, but make offensives that much harder."
 
 ELS_inspired_youth:0 "Inspired Youth"
@@ -221,7 +221,7 @@ ELS_memories_32_part_3_desc:0 "The massacre of the socialists and indigenous peo
 ELS_native_rights_for_all:0 "Native Rights Expanded"
 ELS_native_rights_for_all_desc:0 ""
 
-ELS_divided_no_more:0 "Divided no More"
+ELS_divided_no_more:0 "더 이상 분단은 없다"
 ELS_divided_no_more_desc:0 ""
 
 ELS_unruly_military:0 "Unruly Military"
