@@ -45,7 +45,7 @@ MAF_British_Settlers:0 "영국계 정착민"
 MAF_British_Settlers_desc:0 "우리 영토 내의 영국계 정착민들은 그들의 사회적 계급에 비해 많은 비중의 대전기 고참병의 비율 덕에 대전기 이전의 영향력을 대부분 보존하고 있습니다. 현재 그들의 영향력이 조국에 부정적 영향을 끼치고 있으므로, 우리는 근시일 내에 이들을 다뤄야 합니다."
 MAF_Belgian_Investors:0 "플랜더스-왈로니아의 투자자들"
 MAF_Belgian_Investors_desc:0 "우리 영토 내의 벨기에 투자자들은 대전 이전의 높은 비율의 벨기에 연관 사업과 산업시설 덕에 대전기 이전의 영향력을 대부분 보존하고 있습니다. 현재 그들의 영향력이 조국에 부정적 영향을 끼치고 있으므로, 우리는 근시일 내에 이들을 다뤄야 합니다."
-MAF_border_shit_show:0 "Border Raids"
+MAF_border_shit_show:0 "국경 침입"
 MAF_border_shit_show_desc:0 "There are ongoing bandit raids along our border, we are sure the Portuguese government is behind them. They will continue to be a thorn in out side until we bring a stop to them."
 
 ### Parties ###
@@ -53,14 +53,14 @@ MAF_totalist_party:0 "아프리카 적위군"
 MAF_totalist_party_long:0 "아프리카 적위군"
 MAF_syndicalist_party:0 "아프리카 생디칼리스트당"
 MAF_syndicalist_party_long:0 "아프리카 생디칼리스트당"
-MAF_radical_socialist_party:0 "S-Befreiungsverein"
-MAF_radical_socialist_party_long:0 "Sozialistischer Befreiungsverein"
-MAF_social_democrat_party:0 "Befreiungsverein"
+MAF_radical_socialist_party:0 "사회주의자-자유회의"
+MAF_radical_socialist_party_long:0 "사회주의자-자유회의"
+MAF_social_democrat_party:0 "자유회의"
 
-MAF_social_liberal_party:0 "콩고 식민지 협회"
-MAF_social_liberal_party_long:0 "콩고 식민지 협회"
-MAF_market_liberal_party:0 "왕실 퇴역군인 협회"
-MAF_market_liberal_party_long:0 "왕실 퇴역군인 협회"
+MAF_social_liberal_party:0 "콩고식민협회"
+MAF_social_liberal_party_long:0 "콩고식민협회"
+MAF_market_liberal_party:0 "왕립퇴역군인협회"
+MAF_market_liberal_party_long:0 "왕립퇴역군인협회"
 MAF_social_conservative_party:0 "개혁파"
 
 MAF_authoritarian_democrat_party:0 "독일 식민 단체"
@@ -304,27 +304,27 @@ MAF_White_Graveyard_desc:0 "Ours is an army prepared for Jungle Warfare on the t
 ### Mittelpolitic Events ###
 
 mittelpolitic.1.t:0 "영국계의 영향"
-mittelpolitic.1.d:0 "백인 영국인의 대전기 참전자들을 대표하는; 왕실 퇴역군인 협회는 우리 정부에 영향력을 지니며, 백인 영국계 정착민들의 요구에 조금 더 관심을 가지도록 하지만, 이는 그들 중 더 많은 수가 우리의 군에 복무할 것을 의미합니다."
+mittelpolitic.1.d:0 "백인 영국인의 대전기 참전자들을 대표하는; 왕립퇴역군인협회는 우리 정부에 영향력을 지니며, 백인 영국계 정착민들의 요구에 조금 더 관심을 가지도록 하지만, 이는 그들 중 더 많은 수가 우리의 군에 복무할 것을 의미합니다."
 mittelpolitic.1.a:0 "흥미롭군"
 
 mittelpolitic.2.t:0 "강한 영국계의 영향"
-mittelpolitic.2.d:0 "백인 영국인의 대전기 참전자들을 대표하는; 왕실 퇴역군인 협회는 우리 정부에 더 큰 영향력을 지니며, 백인 영국계 정착민들의 요구에 조금 더 관심을 가지도록 하지만, 이는 그들 중 더 많은 수가 우리의 군에 복무할 것을 의미합니다."
+mittelpolitic.2.d:0 "백인 영국인의 대전기 참전자들을 대표하는; 왕립퇴역군인협회는 우리 정부에 더 큰 영향력을 지니며, 백인 영국계 정착민들의 요구에 조금 더 관심을 가지도록 하지만, 이는 그들 중 더 많은 수가 우리의 군에 복무할 것을 의미합니다."
 mittelpolitic.2.a:0 "우리가 무언가 손을 써야 할까?"
 
 mittelpolitic.3.t:0 "영국계와의 공동통치"
-mittelpolitic.3.d:0 "백인 영국인의 대전기 참전자들을 대표하는; 왕실 퇴역군인 협회는 우리 정부에 극도의 영향력을 지니며, 백인 영국계 정착민들의 요구에 조금 더 관심을 가지도록 하지만, 이는 그들 중 더 많은 수가 우리의 군에 복무할 것을 의미합니다."
+mittelpolitic.3.d:0 "백인 영국인의 대전기 참전자들을 대표하는; 왕립퇴역군인협회는 우리 정부에 극도의 영향력을 지니며, 백인 영국계 정착민들의 요구에 조금 더 관심을 가지도록 하지만, 이는 그들 중 더 많은 수가 우리의 군에 복무할 것을 의미합니다."
 mittelpolitic.3.a:0 "상황이 나빠지는군..."
 
 mittelpolitic.4.t:0 "플랜더스-왈로니아계의 영향"
-mittelpolitic.4.d:0 "우리 영토 내의 벨기에계와 프랑스계 투자자들을 대표하는 콩고 식민지 협회는 우리 정부에 영향력을 지니며, 이는 우리 산업들이 점점 그들의 손에 장악됨을 뜻합니다. 하지만, 이는 아프리카의 자원들을 최대로 활용하는 우리의 역량을 강화할 것입니다."
+mittelpolitic.4.d:0 "우리 영토 내의 벨기에계와 프랑스계 투자자들을 대표하는 콩고식민협회는 우리 정부에 영향력을 지니며, 이는 우리 산업들이 점점 그들의 손에 장악됨을 뜻합니다. 하지만, 이는 아프리카의 자원들을 최대로 활용하는 우리의 역량을 강화할 것입니다."
 mittelpolitic.4.a:0 "흥미롭군"
 
 mittelpolitic.5.t:0 "강한 플랜더스-왈로니아계의 영향"
-mittelpolitic.5.d:0 "우리 영토 내의 벨기에계와 프랑스계 투자자들을 대표하는 콩고 식민지 협회는 우리 정부에 더 큰 영향력을 지니며, 이는 우리 산업들이 점점 그들의 손에 장악됨을 뜻합니다. 하지만, 이는 아프리카의 자원들을 최대로 활용하는 우리의 역량을 강화할 것입니다."
+mittelpolitic.5.d:0 "우리 영토 내의 벨기에계와 프랑스계 투자자들을 대표하는 콩고식민협회는 우리 정부에 더 큰 영향력을 지니며, 이는 우리 산업들이 점점 그들의 손에 장악됨을 뜻합니다. 하지만, 이는 아프리카의 자원들을 최대로 활용하는 우리의 역량을 강화할 것입니다."
 mittelpolitic.5.a:0 "우리가 무언가 손을 써야 할까?"
 
 mittelpolitic.6.t:0 "플랜더스-왈로니아계와의 공동통치"
-mittelpolitic.6.d:0 "우리 영토 내의 벨기에계와 프랑스계 투자자들을 대표하는 콩고 식민지 협회는 우리 정부에 더 극도의 영향력을 지니며, 이는 우리 산업들이 점점 그들의 손에 장악됨을 뜻합니다. 하지만, 이는 아프리카의 자원들을 최대로 활용하는 우리의 역량을 강화할 것입니다."
+mittelpolitic.6.d:0 "우리 영토 내의 벨기에계와 프랑스계 투자자들을 대표하는 콩고식민협회는 우리 정부에 더 극도의 영향력을 지니며, 이는 우리 산업들이 점점 그들의 손에 장악됨을 뜻합니다. 하지만, 이는 아프리카의 자원들을 최대로 활용하는 우리의 역량을 강화할 것입니다."
 mittelpolitic.6.a:0 "상황이 나빠지는군..."
 
 ### Events ###
@@ -464,8 +464,8 @@ mittel.35.b:0 "거절한다, 우린 우리의 분열된 국가를 재건해야 �
 mittel.36.t:0 "남아프리카의 동의!"
 mittel.36.d:0 "남아프리카의 우리의 친구들은 제안에 동의하였으며, 이제 우린 그들과의 상호 방위조약을 체결하였다. 이제 그들이 우리 양측을 패배 시킬 수는 없으므로, 미텔아프리카에 대한 반군의 지원은 보복의 위험 없이 지속할 수 있습니다."
 mittel.36.a:0 "훌륭하다!"
-mittel.37.t:0 "한스-알베르트 폰 레토프-포어벡의 암살"
-mittel.37.d:0 "오늘, 명망 높은 장군이자 미텔아프리카의 첫번째 총독이였던 파울 폰 레토프-포어벡의 아들이며, 전도유망한 장교였던 한스-알베르트 폰 레토프-포어벡이 음베야의 도시 대로에서 한낮에 총을 맞아 사망하였습니다. 살인자는 은고니 민족계였으며, 그의 아버지가 1921년 처형된 뒤 그가 4살이였을 때 가족이 모잠비크로 추방되었습니다. 그는 암살이 그의 아버지에 죽음에 대한 복수였음을 주장하였지만, 우린 그가 최소한 포르투갈인의 조력을 받았다고 의심하고 있습니다. 포르벡을 위한 국장과 군사적 원정이 준비되었고, 보수파들은 피눈물을 흘리고 있습니다. 지금 행동하지 않으면, 언제 행동할 것인가요?"
+mittel.37.t:0 "한스-알베르트 폰 레토프-포어베크의 암살"
+mittel.37.d:0 "오늘, 명망 높은 장군이자 미텔아프리카의 첫번째 총독이였던 파울 폰 레토프-포어베크의 아들이며, 전도유망한 장교였던 한스-알베르트 폰 레토프-포어베크가 음베야의 도시 대로에서 한낮에 총을 맞아 사망하였습니다. 살인자는 은고니 민족계였으며, 그의 아버지가 1921년 처형된 뒤 그가 4살이였을 때 가족이 모잠비크로 추방되었습니다. 그는 암살이 그의 아버지에 죽음에 대한 복수였음을 주장하였지만, 우린 그가 최소한 포르투갈인의 조력을 받았다고 의심하고 있습니다. 포르벡을 위한 국장과 군사적 원정이 준비되었고, 보수파들은 피눈물을 흘리고 있습니다. 지금 행동하지 않으면, 언제 행동할 것인가요?"
 mittel.37.a:0 "포르투갈에 전쟁을 선포한다! 복수를 위해!"
 mittel.37.b:0 "너무 위험하다, 우린 물러나야 한다…."
 mittel.37.c:0 "포르투갈의 남아프리카간의 협정이 우리를 막는다, 그건 너무 위험하다…"
