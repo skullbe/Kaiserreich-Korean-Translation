@@ -1,22 +1,22 @@
 l_english:
 
 ### Parties ###
-LIB_radical_socialist_party:0 "라이베리아 민주 대회"
-LIB_radical_socialist_party_long:0 "라이베리아 민주 대회"
+LIB_radical_socialist_party:0 "라이베리아 민주집회"
+LIB_radical_socialist_party_long:0 "라이베리아 민주집회"
 LIB_totalist_party:0 "라이베리아 운명당"
 LIB_totalist_party_long:0 "라이베리아 운명당"
 LIB_social_liberal_party:0 "휘그당"
 LIB_social_liberal_party_long:0 "휘그당"
-LIB_market_liberal_party:0 "트루 공화당"
-LIB_market_liberal_party_long:0 "트루 공화당"
-LIB_social_conservative_party:0 "트루 휘그당"
-LIB_social_conservative_party_long:0 "트루 휘그당"
-LIB_authoritarian_democrat_party:0 "독일 라이베리아 연맹"
-LIB_authoritarian_democrat_party_long:0 "독일 라이베리아 연맹"
+LIB_market_liberal_party:0 "진공화당"
+LIB_market_liberal_party_long:0 "진공화당"
+LIB_social_conservative_party:0 "진휘그당"
+LIB_social_conservative_party_long:0 "진휘그당"
+LIB_authoritarian_democrat_party:0 "독일 라이베리아 동맹"
+LIB_authoritarian_democrat_party_long:0 "독일 라이베리아 동맹"
 LIB_paternal_autocrat_party:0 "군부"
 LIB_paternal_autocrat_party_long:0 "군부"
-LIB_national_populist_party:0 "라이베리아 그랜드 롯지"
-LIB_national_populist_party_long:0 "라이베리아 그랜드 롯지"
+LIB_national_populist_party:0 "라이베리아 프리메이슨 총본부"
+LIB_national_populist_party_long:0 "라이베리아 프리메이슨 총본부"
 
 ### Ideas ###
 LIB_massive_debt:0 "Crippling Debt Crisis"
@@ -62,9 +62,9 @@ LIB_1939_elections_happened:0 "1939 elections have been held\n"
 LIB_receive_militias:0 "Receive three divisions of militia\n"
 
 ### Events ###
-LIB.1.t:0 "Liberian Introduction"
-LIB.1.d:0 "At approximately the size of Virginia, Liberia is an independent West African nation under the protection of the United States of America. The upper crust of society belongs to a solid voting bloc called the True Whig Party, which has won every major election since 1870. The Americo Liberians were responsible for spreading Christianity to the natives, but have adopted some West African traditions along the way. Secret Societies, such as Poro for the lower classes and the Masonic Order of Liberia at the top ensure that the rich stay rich, and the poor can govern themselves in secrecy. The Weltkrieg was a dark and conspiratorial time for Liberia. The French listening post in Monrovia was nearly discovered, the German Ambassador disappeared under suspitious circumstances, and the borders moved. During the Revolution in Britain, Sierra Leone was occupied and then annexed by France. The wave of Leonese refugees was only exceeded by the Ivorian refugees later. Deutsche Mittelafrika seized the French colony of Côte d'Ivoire in the confusion of the French Revolution, creating even more tensions. Now Liberia is engulfed by debt from failed projects, her economy in the hands of Firestone Natural Rubber, and her future uncertain. Will President Edwin Barclay, a legitimist in the TWP, be able to save Liberia from disaster?"
-LIB.1.a:0 "All Hail Liberia, Hail"
+LIB.1.t:0 "라이베리아 소개"
+LIB.1.d:0 "대략 버니지아 크기인 라이베리아는 미합중국의 보호 하에 있는 서아프리카의 독립국입니다. 사회 상류층은 진휘그당이라는 굳건한 의원연합에 속해있으며, 이 당은 1870년대 이래로 매 주요 선거마다 승리해왔습니다. 미국 출신의 라이베리아인들에겐 기독교를 원주민들에게 전파할 의무가 있었지만, 그 과정에서 서아프리카의 전통을 몇몇 수용했습니다. 하층 계급을 위한 포로 라이베리아 상류층의 프리메이슨 같은 비밀 결사는, 부자는 계속 부유하게, 빈자는 비밀스럽게 스스로를 관리하게끔 만들었습니다. 세계대전은 라이베리아에겐 어둡고 음모스런 때였습니다. 몬로비아에서 프랑스 소유 청음초소의 존재가 거의 드러났고, 독일 대사는 수상쩍은 정황으로 사라졌으며, 국경도 변했습니다. 영국에서 혁명이 일어나는 동안, 시에라리온은 프랑스에게 점령 및 합병을 당했습니다. 나중에 온 코트디부아르 난민들은 시에라리온 난민들의 물결을 초과할 정도였습니다. 독일령 동아프리카가 프랑스 혁명의 혼란 와중에 프랑스령 식민지인 코르디부아르를 공략하면서, 긴장감을 오히려 더 고조시켰던 겁니다. 이제 라이베리아는 실패한 계획들의 부채에 시달리며, 그 경제는 파이어스톤 내츄럴 러버의 손에 달려있어, 국가의 미래가 불확실합니다. 진휘그당의 정통주의자 에드윈 바클레이 대통령이 라이베리아를 재앙으로부터 구해낼 수 있을까요?"
+LIB.1.a:0 "라이베리아 만세, 만세!"
 
 LIB.2.t:0 "Race Relations in Liberia"
 LIB.2.d:0 "Since the founding of our Republic, the Americo-Liberian population, originally descended from freed black slaves from the southern United States, have held all political and economic power in the country at the detriment of the more numerous indigenous African peoples of the interior. The Citizenship Act of 1932 was intended as a tradeoff between representation and taxation. In practice however, the Citizenship Act is unenforced, but taxed. Should we force our Governors to allow natives into provincial assembly halls, or are they right to withold this right until the nation is again stable?"
