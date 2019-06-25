@@ -43,11 +43,11 @@ JF_GER_IRE_FLAVOUR:0 "Due to British provokation, [IRE.GetName] has joined the G
  
 #Scandinavia
 JF_GER_SWE_FLAVOUR:0 "베를린과의 오랜 경제적인 유대를 가지고 있고, 스칸디나비아에서 급진주의가 대두되면서 [SWE.GetName]은 공식적으로 제국조약에 가입했습니다."
-JF_FRA_SWE_FLAVOUR:0 "Following [SWE.GetLeader]'s overthrow of Sweden's government, they have formally aligned the [SWE.GetNameDef] with Paris, joining the Third Internationale."
-JF_GER_FIN_FLAVOUR:0 "With the threat of domestic radicalism crushed and Russia seeking to reclaim its European territories, [FIN.GetLeader] has consolidated their relationship with the Reichspakt, hoping they can provide much-needed security for the small nation."
-JF_GER_FIN_FLAVOUR:0 "With the threat of Russia seeking to reclaim its European territories, [FIN.GetLeader] has consolidated their relationship with the Reichspakt, hoping they can provide much-needed security for the small nation."
+JF_FRA_SWE_FLAVOUR:0 "[SWE.GetLeader]이(가) 스웨덴 정부를 무너뜨리고서, [SWE.GetNameDef]와 파리와의 관계를 공고히하며, 제3인터내셔널에 가입하였습니다."
+JF_GER_FIN_FLAVOUR:0 "러시아는 자국내 급진주의의 위협을 무너뜨리고서 유럽영토를 되찾으려고 하고 있습니다. [FIN.GetLeader](은)는 소국에게는 부족한 안보를 제국조약이 지켜줄 수 있도록 제국조약과의 관계를 공고히 다졌습니다."
+JF_FRA_FIN_FLAVOUR:0 "[FIN.GetLeader]이(가) 군주주의를 무너뜨리고서 자발적으로 국제적인 생디칼리즘 운동에 동참하기 위해 제3인터내셔널에 가입하였습니다."
 JF_FRA_NOR_FLAVOUR:0 "군주제의 전복 이후, 새로운 노르웨이의 생디칼리즘 정부는 제3인터내셔널에 가입했습니다."
-JF_CAN_NOR_FLAVOUR:0 "With the immediate threat of domestic radicalism crushed, [NOR.GetName] has aligned with the Entente."
+JF_CAN_NOR_FLAVOUR:0 "국내의 급진주의를 즉각적으로 제압하고서, [NOR.GetName](은)는 협상국과 관계를 공고히 하고 있습니다."
 
 #Southern Europe
 JF_AUS_ITA_FLAVOUR:0 "With Gabriele D'Annunzio's radicalism contained at the ballot box, the [ITA.GetNameDef] has formally joined Austria's defense pact."
