@@ -301,7 +301,7 @@ amcivwar.12.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
 amcivwar.12.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동 연맹으로 플레이합니다)"
 
 amcivwar.13.t:0 "벼랑 끝의 미국"
-amcivwar.13.d:0 "플로이드 올슨 대통령은 오늘 다수의 주지사들이 올슨 정부가 불법 정부라고 주장했으며, 남부 대중주의자인 휴이 롱 혹은 생디칼리스트 지도자인 잭 리드에 대한 지지를 던졌습니다. 그들은 연방 탈퇴를 중단했지만, 올슨이 물러나고 국가의 질서를 회복하기 위해 자신들이 선택한 지도자가 '조율 협의회'를 열기 전까지는 연방정부가 주 경계 내에서는 아무런 권한을 행사 할 수 없다고 선언하였습니다. 이에 대해 올슨 대통령은 30일 동안 주지사들에게 사임 혹은 집단 체포 중 하나를 선택하라고 지시하였습니다. 이 명령은 그 어떤 주지사도 따를 생각이 없어보이는데, 미국에 1세기 만에 다시 한번 두번째 내전에 돌입할 것이 거의 확실해보입니다."
+amcivwar.13.d:0 "플로이드 올슨 대통령은 오늘 많은 주지사들이 올슨 정부가 불법 정부라고 주장하고 남부 대중주의자인 휴이 롱 혹은 생디칼리스트 지도자인 잭 리드에 대한 지지를 던짐에 따라 큰 타격을 입었습니다. 그들은 연방 탈퇴를 중단했지만, 올슨이 물러나고 국가의 질서를 회복하기 위해 자신들이 선택한 지도자가 '재조정 협의회'를 열기 전까지는 연방정부가 주 경계 내에서는 아무런 권한을 행사 할 수 없다고 선언하였습니다. 이에 대해 올슨 대통령은 30일 동안 주지사들에게 사임 혹은 집단 체포 중 하나를 선택하라고 지시하였습니다. 이 명령은 그 어떤 주지사도 따를 생각이 없어보이는데, 미국에 1세기 만에 다시 한번 두번째 내전에 돌입할 것이 거의 확실해보입니다."
 amcivwar.13.a:0 "그렇군."
 
 ### Set Up Events - Garner ###
@@ -316,7 +316,7 @@ amcivwar.15.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
 amcivwar.15.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동 연맹으로 플레이합니다)"
 
 amcivwar.16.t:0 "벼랑 끝의 미국"
-amcivwar.16.d:0 "존 낸스 가너 대통령은 많은 주지사들이 남부 대중주의자 휴이 롱이나 생디칼리즘 지도자 잭 리드에게 지지를 보내면서 연방 정부를 부정적으로 선언함에 따라 오늘 큰 타격을 입었습니다. 롱과 리드는 연방으로부터 탈퇴하는 것을 멈췄지만, 그들은 가너가 사임하고 그들이 선택한 지도자의 산하에 있는 '재조정 협의회'가 국가의 질서를 회복하기 위해 시행될 때까지 연방 정부는 주 경계 내에 어떠한 권한도 가지고 있지 않다고 선언했습니다. 이에 대해 가너 대통령은 주지사들에게 30일 동안 물러나거나 집단으로 체포되도록 했습니다 - 어떤 지도자도 복종에 관심을 보이지 않아 미국은 100년도 채 안 되어 두 번째로 내전에 돌입하게 될 것을 거의 확신하고 있습니다."
+amcivwar.16.d:0 "존 낸스 가너 대통령은 오늘 많은 주지사들이 연방 정부를 부정적으로 선언하고 남부 대중주의자인 휴이 롱 혹은 생디칼리스트 지도자인 잭 리드에 대한 지지를 던짐에 따라 큰 타격을 입었습니다. 그들은 연방 탈퇴를 중단했지만, 가너가 물러나고 국가의 질서를 회복하기 위해 자신들이 선택한 지도자가 '재조정 협의회'를 열기 전까지는 연방정부가 주 경계 내에서는 아무런 권한을 행사 할 수 없다고 선언하였습니다. 이에 대해 가너 대통령은 30일 동안 주지사들에게 사임 혹은 집단 체포 중 하나를 선택하라고 지시하였습니다. 이 명령은 그 어떤 주지사도 따를 생각이 없어보이는데, 미국에 1세기 만에 다시 한번 두번째 내전에 돌입할 것이 거의 확실해보입니다."
 amcivwar.16.a:0 "알겠다."
 
 ### Set Up Events - Landon ###
@@ -331,7 +331,7 @@ amcivwar.18.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
 amcivwar.18.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동 연맹으로 플레이합니다)"
 
 amcivwar.19.t:0 "벼랑 끝의 미국"
-amcivwar.19.d:0 "알프 랜던 대통령은 많은 주지사들이 남부 대중주의자 휴이 롱이나 생디칼리즘 지도자 잭 리드에게 지지를 보내면서 연방 정부를 부정적으로 선언함에 따라 오늘 큰 타격을 입었습니다. 롱과 리드는 연방으로부터 탈퇴하는 것을 멈췄지만, 그들은 랜던이 사임하고 그들이 선택한 지도자의 산하에 있는 '재조정 협의회'가 국가의 질서를 회복하기 위해 시행될 때까지 연방 정부는 주 경계 내에 어떠한 권한도 가지고 있지 않다고 선언했습니다. 이에 대해 랜던 대통령은 주지사들에게 30일 동안 물러나거나 집단으로 체포되도록 했습니다 - 어떤 지도자도 복종에 관심을 보이지 않아 미국은 100년도 채 안 되어 두 번째로 내전에 돌입하게 될 것을 거의 확신하고 있습니다."
+amcivwar.19.d:0 "알프 랜던 대통령은 오늘 많은 주지사들이 연방 정부를 부정적으로 선언하고 남부 대중주의자인 휴이 롱 혹은 생디칼리스트 지도자인 잭 리드에 대한 지지를 던짐에 따라 큰 타격을 입었습니다. 그들은 연방 탈퇴를 중단했지만, 랜던이 물러나고 국가의 질서를 회복하기 위해 자신들이 선택한 지도자가 '재조정 협의회'를 열기 전까지는 연방정부가 주 경계 내에서는 아무런 권한을 행사 할 수 없다고 선언하였습니다. 이에 대해 랜던 대통령은 30일 동안 주지사들에게 사임 혹은 집단 체포 중 하나를 선택하라고 지시하였습니다. 이 명령은 그 어떤 주지사도 따를 생각이 없어보이는데, 미국에 1세기 만에 다시 한번 두번째 내전에 돌입할 것이 거의 확실해보입니다."
 amcivwar.19.a:0 "알겠다."
 
 amcivwar.20.t:0 "제2차 미국 내전"
@@ -635,22 +635,22 @@ amcivwar.96.d:0 "생디칼리즘의 심장부 펜실베니아에서도 연방정
 amcivwar.96.a:0 "우라!"
 amcivwar.96.b:0 "쓸데 없는 짓이다."
 
-amcivwar.97.t:0 "The [From.GetAdjective] Rebels"
-amcivwar.97.d:0 "We are seeing increased activity by [From.GetAdjective] supporters in [Root.GetNameDef], no doubt supported and funded by the [From.GetAdjective] government. Their funneling of weapons through the underground has led up to rebels rising behind the lines, no doubt intended to harass our forces. Whether they will prove a serious threat remains to be seen."
-amcivwar.97.a:0 "우리는 인내할 것이다."
+amcivwar.97.t:0 "[From.GetAdjective] 저항 세력"
+amcivwar.97.d:0 "우리는 [Root.GetNameDef]에서 [From.GetAdjective] 지지자의 활동이 증가하고 있는 것을 보고 있습니다. 이는 의심의 여지 없이 [From.GetAdjective] 정부의 지원과 자금 지원을 받고 있습니다. 그들은 지하에 무기를 쏟아 부음으로써 우리 군대를 괴롭히는 의도를 가진 반란군이 배후에서 일어나게 만들었습니다. 그들이 심각한 위협이 되는지 여부는 아직 밝혀지지 않았습니다."
+amcivwar.97.a:0 "우리는 견뎌낼 것이다."
 
 amcivwar.98.t:0 "중서부에서 저항 세력이 봉기하다"
-amcivwar.98.d:0 "Support for the democratic proponents in the Pacific government has been strong in the American Midwest, with several protests on the streets frequent - many of whom appear to be placing blame for the civil war squarely on the shoulders of General MacArthur. These protests have recently become more organized, and have culminated in a widespread uprising across Colorado, quietly funded and equipped through underground means. Whether these rebels will succeed in opening up a new front for the civil war remains to be seen."
+amcivwar.98.d:0 "태평양 정부에서의 민주주의 지지자들에 대한 지지는 미국 중서부 지역에서 강했으며 길거리에서는 몇몇 시위가 빈번했는데, 그 중 많은 수가 정면으로 맥아더 장군의 어깨에 내전의 책임을 떠넘기고 있는 것으로 보입니다. 이러한 시위는 최근 더욱 조직화되었고 콜로라도 전역에 걸친 광범위한 봉기로 절정에 달했으며 조용히 지하수단을 통해 자금을 지원하고 장비를 갖추었습니다. 그들이 내전에서 새로운 전선을 열지는 두고 볼 일입니다."
 amcivwar.98.a:0 "만세!"
 amcivwar.98.b:0 "기껏해야 귀찮은 일일 뿐이다."
 
-amcivwar.100.t:0 "생디칼리스트가 조지아에서 봉기하다"
-amcivwar.100.d:0 "It seems there are more than a few disaffected supporters of Huey Long who are angry enough that they've defected to the CSA's control. Over the last number of weeks, they've been organizing in the hills of southern Georgia, and now they've finally made their move. This opens up a new front in the civil war."
+amcivwar.100.t:0 "롱주의자가 조지아에서 봉기하다"
+amcivwar.100.d:0 "노동 연맹의 통제에 들어간 것만으로도 충분히 화가 난 휴이 롱의 불만스러운 지지자들이 꽤나 있는 것 같습니다. 지난 몇 주 동안, 그들은 남부 조지아의 언덕에 모였으며, 이제 마침내 움직임을 보여주었습니다. 이로써 내전에서 새로운 전선이 열리게 되었습니다."
 amcivwar.100.a:0 "만세!"
 amcivwar.100.b:0 "기껏해야 귀찮은 일일 뿐이다"
 
 amcivwar.102.t:0 "생디칼리스트가 캘리포니아에서 봉기하다"
-amcivwar.102.d:0 "It seems there are more than a few disaffected SPA milita members who are angry enough that they've defected to the AUS's control. Over the last number of weeks, they've been organizing in the hills of southern California, and now they've finally made their move. This opens up a new front in the civil war."
+amcivwar.102.d:0 "미주연합의 통제에 들어간 것만으로도 충분히 화가 난 사회당 민병대원들이 꽤나 있는 것 같습니다. 지난 몇 주 동안, 그들은 남부 캘리포니아의 언덕에 모였으며, 이제 마침내 움직임을 보여주었습니다. 이로써 내전에서 새로운 전선이 열리게 되었습니다."
 amcivwar.102.a:0 "만세!"
 amcivwar.102.b:0 "쓸데 없는 짓이다"
 
@@ -661,8 +661,8 @@ amcivwar.125.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
 amcivwar.125.b:0 "혁명이 시작되었다. 노동자들을 지켜내자 (노동 연맹으로 플레이합니다)"
 
 amcivwar.127.t:0 "벼랑 끝의 미국"
-amcivwar.127.d.long:0 "President [USA.GetLeader] experienced a major blow today as a large number of governors declared his government illegitimate, citing a direct link between the federal government and the recent assassination of Huey Long, and have thrown their support behind syndicalist leader Jack Reed. They have stopped short of seceding from the Union, but have declared that the federal government holds no authority within their state borders until [USA.GetLeader] steps down and a 'reconciliation council' under their chosen leader is put into place to restore order in the nation. In response, President [USA.GetLeader] has given the governors thirty days to stand down or be collectively arrested - an order none of them appear interested in obeying, making it all but certain that the United States will descend into civil war for the second time in less than a century."
-amcivwar.127.d.austerity:0 "While President [USA.GetLeader] celebrated a recent victory by passing a massive austerity bill meant to rescue the United States economy, one which had exacted a compromise from Huey Long and his supporters in the radical America First Party, the bill had the opposite effect on syndicalists and their leader, Jack Reed. Today a large number of northern governors have declared the Federal government illegitimate, having abandoned the American worker, and thrown their support behind Jack Reed. They have stopped short of seceding from the Union, but have declared that the federal government holds no authority within their state borders until [USA.GetLeader] steps down and a 'reconciliation council' under their chosen leader is put into place to restore order in the nation. In response, President [USA.GetLeader] has given the governors thirty days to stand down or be collectively arrested - an order none of them appear interested in obeying, making it all but certain that the United States will descend into civil war for the second time in less than a century."
+amcivwar.127.d.long:0 "[USA.GetLeader] 대통령은 오늘 다수의 주지사들이 최근 있었던 휴이 롱 암살과 연방정부 간의 직접적인 연관성을 언급하면서 연방 정부를 불법 정부라 선언하고 생디칼리즘 지도자 잭 리드에게 지지를 보냄에 따라 큰 타격을 입었습니다. 그들은 연방 탈퇴를 중단했지만, [USA.GetLeader]가 물러나고 국가의 질서를 회복하기 위해 자신들이 선택한 지도자가 '재조정 협의회'를 열기 전까지는 연방정부가 주 경계 내에서는 아무런 권한을 행사 할 수 없다고 선언하였습니다. 이에 대해 [USA.GetLeader] 대통령은 30일 동안 주지사들에게 사임 혹은 집단 체포 중 하나를 선택하라고 지시하였습니다. 이 명령은 그 어떤 주지사도 따를 생각이 없어보이는데, 미국에 1세기 만에 다시 한번 두번째 내전에 돌입할 것이 거의 확실해보입니다."
+amcivwar.127.d.austerity:0 "[USA.GetLeader] 대통령은 최근 미국 경제를 구제하기 위한 대규모 긴축 법안을 통과시킴으로써 승리를 자축했는데, 이 법안은 급진적인 미국제일당에 속한 휴이 롱과 그의 지지자들로부터 타협을 이끌어낸 법안으로 생디칼리스트와 그들의 지도자 잭 리드에게는 정반대의 영향을 미쳤습니다. 오늘 많은 북부 주지사들이 연방정부가 불법이며 미국 노동자를 저버렸다고 선언하고 생디칼리즘 지도자 잭 리드에게 지지를 보냄에 따라 오늘 큰 타격을 입었습니다. 그들은 연방 탈퇴를 중단했지만, [USA.GetLeader]가 물러나고 국가의 질서를 회복하기 위해 자신들이 선택한 지도자가 '재조정 협의회'를 열기 전까지는 연방정부가 주 경계 내에서는 아무런 권한을 행사 할 수 없다고 선언하였습니다. 이에 대해 [USA.GetLeader] 대통령은 30일 동안 주지사들에게 사임 혹은 집단 체포 중 하나를 선택하라고 지시하였습니다. 이 명령은 그 어떤 주지사도 따를 생각이 없어보이는데, 미국에 1세기 만에 다시 한번 두번째 내전에 돌입할 것이 거의 확실해보입니다."
 amcivwar.127.a:0 "알겠다."
 
 amcivwar.128.t:0 "제2차 미국 내전"
@@ -676,8 +676,8 @@ amcivwar.130.a:0 "재앙이 시작되었다. 공화국을 지켜내자"
 amcivwar.130.b:0 "조국을 지켜내자 (미주연합으로 플레이합니다)"
 
 amcivwar.132.t:0 "벼랑 끝의 미국"
-amcivwar.132.d.reed:0 "President [USA.GetLeader] experienced a major blow today as a large number of governors declared his government illegitimate, citing a direct link between the federal government and the recent assassination of syndicalist leader Jack Reed, and have thrown their support behind Huey Long. They have stopped short of seceding from the Union, but have declared that the federal government holds no authority within their state borders until [USA.GetLeader] steps down and a 'reconciliation council' under their chosen leader is put into place to restore order in the nation. In response, President [USA.GetLeader] has given the governors thirty days to stand down or be collectively arrested - an order none of them appear interested in obeying, making it all but certain that the United States will descend into civil war for the second time in less than a century."
-amcivwar.132.d.compromise:0 "President [USA.GetLeader] experienced a major blow today as a large number of governors declared his government illegitimate, citing the recent passing of a compromise bill intended to end a devastating national strike as evidence of collusion with syndicalist leader Jack Reed, and have thrown their support behind the leader of the America First Party, Huey Long. They have stopped short of seceding from the Union, but declared that the federal government holds no authority within their state borders until [USA.GetLeader] steps down and a 'reconciliation council' under their chosen leader is put into place to restore order in the nation. In response, President [USA.GetLeader] has given the governors thirty days to stand down or be collectively arrested - an order none of them appear interested in obeying, making it all but certain that the United States will descend into civil war for the second time in less than a century."
+amcivwar.132.d.reed:0 "[USA.GetLeader] 대통령은 오늘 다수의 주지사들이 최근 있었던 잭 리드 암살과 연방정부 간의 직접적인 연관성을 언급하면서 연방 정부를 불법 정부라 선언하고 남부 대중주의자 휴이 롱에게 지지를 보냄에 따라 큰 타격을 입었습니다. 그들은 연방 탈퇴를 중단했지만, [USA.GetLeader]가 물러나고 국가의 질서를 회복하기 위해 자신들이 선택한 지도자가 '재조정 협의회'를 열기 전까지는 연방정부가 주 경계 내에서는 아무런 권한을 행사 할 수 없다고 선언하였습니다. 이에 대해 [USA.GetLeader] 대통령은 30일 동안 주지사들에게 사임 혹은 집단 체포 중 하나를 선택하라고 지시하였습니다. 이 명령은 그 어떤 주지사도 따를 생각이 없어보이는데, 미국에 1세기 만에 다시 한번 두번째 내전에 돌입할 것이 거의 확실해보입니다."
+amcivwar.132.d.compromise:0 "[USA.GetLeader] 대통령은 오늘 많은 주지사들이 최근 국가적 파업을 끝내기 위해 통과시킨 타협안을 생디칼리스트 지도자 잭 리드와 결탁한 증거로 거론하면서 연방 정부를 불법 정부라고 주장하고 미국 제일당의 지도자인 휴이 롱에 대한 지지를 던짐에 따라 큰 타격을 입었습니다. 그들은 연방 탈퇴를 중단했지만, [USA.GetLeader]가 물러나고 국가의 질서를 회복하기 위해 자신들이 선택한 지도자가 '재조정 협의회'를 열기 전까지는 연방정부가 주 경계 내에서는 아무런 권한을 행사 할 수 없다고 선언하였습니다. 이에 대해 [USA.GetLeader] 대통령은 30일 동안 주지사들에게 사임 혹은 집단 체포 중 하나를 선택하라고 지시하였습니다. 이 명령은 그 어떤 주지사도 따를 생각이 없어보이는데, 미국에 1세기 만에 다시 한번 두번째 내전에 돌입할 것이 거의 확실해보입니다."
 amcivwar.132.a:0 "알겠다."
 
 amcivwar.133.t:0 "제2차 미국 내전"
