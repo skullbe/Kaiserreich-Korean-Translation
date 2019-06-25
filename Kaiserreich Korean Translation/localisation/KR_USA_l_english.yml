@@ -631,7 +631,7 @@ USA_iron_fist:0 "무자비"
 USA_iron_fist_desc:0 "Enough diplomacy! The Socialist Party of America and America First are purely secessionist groups whose organization must be ended at any cost."
 USA_president_long:0 "롱 대통령"
 USA_president_long_desc:0 "The impossible has occurred and America First have gained the presidency. The AFP does not, however, have control over Congress or the House of Representatives, and Huey Long faces both a wary legislature and a country on the verge of utter chaos."
-USA_pass_relief_bill:0 "Pass the Relief Bill"
+USA_pass_relief_bill:0 구제 법안 통과"
 USA_pass_relief_bill_desc:0 "Long's first priority must be to offer relief to the m=numerous unemployed Americans oppressed by the Great Depression, even if it must be delivered via a presidential Executive Order. The Relief Bill is the first step in implementing the Share Our Wealth program."
 USA_fight_anarchists:0 "무정부주의자와 싸우자"
 USA_fight_anarchists_desc:0 "Long's dreams of sharing the wealth cannot be achieved so long as the SPA has a choke-hold on American labor with the general strike ongoing since the beginning of the year. They must be brought down before America can live."
@@ -1204,7 +1204,7 @@ ustates.55.a:0 "저들은 나의 대변인이 아니다!"
 
 ustates.56.t:0 "행정명령 7048호: 부의 공유"
 ustates.56.d:0 "By virtue of the authority vested in me, I, Huey Pierce Long, President of the United States of America, do declare the intrinsic right of the poor to have relief. A new government agency will be created to mete out the basic needs of every American, so that our nation's great wealth is felt not only in the upper echelons of power but also in the lowest hovel. Also included with the executive order is a wide array of tax increases on the wealthiest Americans. While incredibly popular with the AFP's base, and hardly unexpected considering Long's 'Share the Wealth' slogan, many Americans are protesting what appears to be a massive overstep of the executive power of the president. The constitutionality of increasing taxes by fiat, and how this new agency would even manage to operate, are questions that has thrown the government into immediate chaos and confusion. Long has already begun campaigning hard, using press releases to rail against the 'corporate order' which would see America fall to syndicalist rhetoric."
-ustates.56.a:0 "Sharing our wealth is our only defense!"
+ustates.56.a:0 "우리의 부를 나누는 것만이 유일한 방어책이다!"
 
 ustates.57.t:0 "행정명령 7048호가 위헌이라 선언되다"
 ustates.57.d:0 "널리 알려진 법정 판결에서, 찰스 에반스 휴즈 대법원장은 행정명령 7048호는 위헌이라고 선언했습니다. 이것은 매우 아슬아슬한 법정 판결이었고 법관들은 대통령의 정책이 위헌인지에 대해 5대 4로 의견이 갈렸습니다. 이 소식이 백악관에 도착했을 때 롱은 미국이 다시 안전해지는데 필요한 개혁을 법원이 막았다는 소식에 분노했습니다."
@@ -1237,7 +1237,7 @@ ustates.63.a:0 "공화국, 맥아더 그리고 민주주의에 충성을 다하�
 ### President Olson ###
 
 ustates.64.t:0 "플로이드 B 올슨의 취임식"
-ustates.64.d:0 "After his election, Olson addressed the nation. Olson called for patience and civility in these difficult times. Olson was quoted as saying 'A nation cannot be preserved which does not preserve its citizens. Industry is reducing wages, lowering the standard of living, destroying buying power, this cannot be the way we solve our economic problems.' Reinvigorated with the news that his stomach cancer is in remission, Olson boldly strides into the White House amidst protests from both the socialists and hard liners with the promise of fixing the economy, restoring national brotherhood, and preventing political violence by any means necessary. Whether the rest of the nation would listen to the message was another story."
+ustates.64.d:0 "당선 후 올슨은 대국민 연설을 하였습니다. 올슨은 이 어려운 시기에 인내와 정중함을 간청하였습니다. 올슨은 '국민을 지키지 않는 국가는 지켜질 수 없다. 산업분야에서 임금을 낮춰서, 삶의 질을 낮추고, 소비력을 파괴하는 것은 우리 경제의 문제의 해결책이 될 수 없다.'고 연설하였습니다. 올슨은 위암상태가 호전됬다는 소식과 함께 경제를 바로잡고, 국민적인 형제애를 되찾고, 가능한 모든 수단을 동원하여 정치적 폭력을 막겠다는 약속을 하면서 사회주의자들과 강경파 양측의 항의가 거센 가운데 대담히 백악관에 발을 내딛었습니다. 다른 국가들이 이 메세지를 들을 수 있을지에 대해서는 미지수입니다."
 ustates.64.a:0 "미국은 나뉘어지지 않으리!"
 
 ustates.65.t:0 "올슨의 협상 발표"
