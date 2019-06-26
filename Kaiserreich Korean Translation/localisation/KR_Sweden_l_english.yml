@@ -514,24 +514,24 @@ swe.15.d:0 "자료 부족으로 인해 정확히 어떤 일이 일어났는지�
 swe.15.a:0 "오늘 새로운 스웨덴이 탄생하였도다!"
 
 swe.16.t:0 "전체주의의 공포 정치"
-swe.16.d:0 "The dust had been settling after the failed attempt of the forces of reaction to chain the people in the fields in the following week. Still, the early days of the socialist republic were tumultuous and bloody. The totalist paramilitary organisations that had been making moderates disappear in the late stages of the violence, shifted their scope from crypto-reactionaries, skillfully posing as loyal comrades to subvert the worker's momentum, to the open reactionaries that had been ruling Sweden for decades, years, centuries and that had never been pretending otherwise than to control the working class. In the other factions, voices started to arise to put a stop to these practices, often executed with vicious tactics, although it was clear that in the anarchist atmosphere following the establishment of the worker's state, not everyone could be saved."
+swe.16.d:0 "반동 군부가 인민을 진압하는데 실패한 이후 1주일이 지났고, 전장의 먼지가 잦아들고 있습니다. 여전히 사회주의 공화국은 피를 뒤집어쓴 채 초기 격동기 역사를 지나고 있습니다. 온건파를 이 폭력의 장에서 퇴장시키는데 성공한 전체주의 준군사조직은 내부에 숨어든 반동주의 세력에게서 시선을 거두었습니다. 그 대신에 충성스런 동지로 가장하면서 교묘하게 노동자 세력을 무너트리려 하는 수십 수백년간 스웨덴을 지배해온 반동주의 세력을 겨냥하였습니다. 다른 파벌에서는 비록 노동자 국가 설립 직후의 무정부주의적 분위기 속에서 모두를 구해낼 수는 없다고 해도, 잔인한 처형과 공포정치를 그만두어야 한다는 주장이 터져나오기 시작했습니다."
 swe.16.a:0 "재미를 보게 놔둬라, 혁명을 지키기 위한 길이다!"
-swe.16.b:0 "Restrain them for as much as we can, we are not barbarians!"
+swe.16.b:0 "모든 힘을 다해 저들을 저지해라, 우리는 야만인이 아니다!"
 
 swe.17.t:0 "스웨덴 난민들"
-swe.17.d:0 "Sweden has fallen prey to the socialist scourge that has been plaguing Europe for a while. Following the successful establishment of a worker's state, local totalists have taken their chance to take their revenge on Swedish capitalists, politicians, priests and other men of the old Swedish regime. As a result, many try to flee Sweden and unlike many of the other nations falling prey to this scourge, they don't have a colonial empire to rely on. As such they are seeking refuge in [Root.GetCountryNameDef]. Several groups have already arrived at our border, but should we accept them?"
+swe.17.d:0 "스웨덴은 유럽을 휩쓸어온 사회주의 재앙의 희생양이 되었습니다. 노동자 국가가 성공적으로 설립된 이후, 각 지역에서 전체주의자들이 스웨덴 자본가, 정치인, 성직자를 포함한 옛 정권의 주요 인물들에게 복수하기 시작했습니다. 결과적으로 많은 사람들이 스웨덴에서 도망치고자 했지만, 사회주의 재앙에 희생된 다른 국가들이 식민지라는 훌륭한 도주처를 가지고 있던 데 반해 스웨덴은 적당한 식민지가 없었습니다. 결국 그들은 [Root.GetCountryNameDef]에서 피난처를 찾고 있습니다. 이미 많은 사람이 우리 국경 지역에 도착했고, 저들을 수용해야만 합니다?"
 swe.17.a:0 "[Root.GetCountryNameDef]에 온 것을 환영하네!"
 swe.17.b:0 "스웨덴 놈들을 돌려보내라!"
 
-swe.18.t:0 "Militant Socialists"
-swe.18.d:0 "You are travelling by motorcarriage in the countryside of Stockholm when it comes to a sudden halt. The road has been blocked by a fallen tree, and the driver explains that you will have to make a slight detour on an isolated dirt road."
-swe.18.a:0 "Very well, but this had better not delay us!"
+swe.18.t:0 "전투적인 사회주의자"
+swe.18.d:0 "당신이 스톡홀름 교외에서 자동차로 이동하던 도중, 갑작스럽게 급정거 했습니다. 쓰러진 나무가 도로를 가로막았기 때문입니다. 운전자는 멀리 우회하여 비포장도로로 가야한다고 설명했습니다."
+swe.18.a:0 "어쩔수 없지. 지체되지는 않도록 해라!"
 
-swe.19.t:0 "Militant Socialists"
-swe.19.d:0 "After less than half a league on the small path, your motorcarriage gets stuck in the mud and you are ambushed and surrounded by militant socialists! They send your driver on his way, explaining that their interest lies with you alone. You try to call for your guards, but they merely laugh at this - it is they too who want your blood."
-swe.19.a:0 "Y-you're not socialists!"
+swe.19.t:0 "전투적인 사회주의자"
+swe.19.d:0 "차는 좁은 길로 나아갔습니다. 하지만 반 리그도 못가 차는 또 다시 멈췄습니다. 진흙탕에 바퀴가 빠진 채로 호전적인 사회주의자들에게 둘러싸인 것입니다! 그들은 운전사를 풀어주면서 오직 당신만 있으면 된다고 말했습니다. 당신은 경비병을 부르려 했지만, 사회주의자들의 비웃음을 살 뿐이었습니다. 그들은 당신의 피를 원합니다."
+swe.19.a:0 "너, 너는 사회주의자가 아니잖아!"
 
-swe.20.t:0 "Gyllenkrok declares himself Riksledare"
+swe.20.t:0 "Gyllenkrok이 Riksledare를 칭하다"
 swe.20.d:0 "Following the unfortunate discovery of the death of our dear leader Oscar Nygren at the hands of militant socialists, Axel Gyllenkrok has taken over his status as head of the junta. Gyllenkrok immediately merged the post with his post of prime minister he already held under the name of 'Riksledare' and declared over national radio that 'considering the apparent strength of the socialist menace, the restoration of the old government would henceforth be suspended for an undefined time and that the military regime would stay in control for the foreseeable future."
 swe.20.a:0 "The socialists are vicious, but our Riksledare is strong!"
 
