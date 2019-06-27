@@ -300,25 +300,25 @@ JAP_MIL_DOC_DEF6_desc:0 "우리의 장교진들이 최고 수준의 명령 구�
 
 ### Focuses - Military - Mass Assault ###
 JAP_MIL_DOC_MAS:0 "총력전 태세"
-JAP_MIL_DOC_MAS_desc:0 "We must ensure our manpower reserves and doctrines are geared for a prolonged war. This should ensure our survival in case of a total war."
+JAP_MIL_DOC_MAS_desc:0 "병력 자원 관리와 교리를 장기화된 전쟁에 맞추어야 합니다. 이러한 준비는 총력전의 상황에서 국가의 생존을 보장할 것입니다."
 JAP_MIL_DOC_MAS2:0 "인해전술"
 JAP_MIL_DOC_MAS2_desc:0 "우리의 적과 싸우려면 우리는 희생이 필요합니다, 그리고 희생을 위한 희생과 또 더 많은 희생이 필요합니다. 천황 폐하의 이름 하에 새로운 징병 제도를 실시합시다!"
 JAP_MIL_DOC_MAS3:0 "경화기 연구"
-JAP_MIL_DOC_MAS3_desc:0 "Having a wave of men to throw at the enemy is not enough. We have to equip these men with efficiently made guns and grenades!"
+JAP_MIL_DOC_MAS3_desc:0 "병사들을 적에게 보내는 것 만으로는 충분하지 않습니다. 효율적으로 제작된 총과 수류탄을 갖추도록 해야합니다."
 JAP_MIL_DOC_MAS4:0 "천황의 부름"
-JAP_MIL_DOC_MAS4_desc:0 "The Imperial Army lost nearly one hundred thousand soldiers to the Russians in Manchuria, and yet claimed victory nonetheless. Wars are won by tenacity and the willingness of the Japanese soldier to die for his Emperor and Kokutai. His Imperial Majesty calls once again for Japan's sons to fight!"
+JAP_MIL_DOC_MAS4_desc:0 "제국 육군은 러시아와의 전쟁으로 만주에서 십만에 달하는 병사를 잃었지만 승리를 이뤘습니다. 천황과 국체를 위해 기꺼이 목숨을 바치는 병사들의 끈기와 의지를 통해 전쟁에서 이기는 것입니다. 천황폐하께서 일본의 아들들이 다시 싸워야 할 때가 되었다고 말하십니다!"
 JAP_MIL_DOC_MAS5:0 "국민의용전투대"
-JAP_MIL_DOC_MAS5_desc:0 "The emperor's call brought thousands to our ranks, but it has not been enough, it is time to form the Kokumin Giyu Sentotai (Patriotic Citizen's Fighting Corps) and truly mass mobilise our people."
+JAP_MIL_DOC_MAS5_desc:0 "천황폐하의 명에 따라 수천명의 사람들이 입대하였지만, 아직 충분하지 않습니다. 국민 의용 전투대를 조직해 국민들을 총동원할 때입니다."
 
 ### Focuses - Military - Firepower ###
 JAP_MIL_DOC_FIR:0 "화력 우세"
 JAP_MIL_DOC_FIR_desc:0 "우리의 국가를 지키고 확장하기 위해서는 우수한 화력이 필요합니다. 우리가 적을 압도하기 위해서는 새로운 무기와 전략에 투자해야 할 것입니다."
 JAP_MIL_DOC_FIR2:0 "포병 연구"
-JAP_MIL_DOC_FIR2_desc:0 "By improving our artillery we can destroy the enemy's organisation and strength before our own soldiers get in the line of fire."
+JAP_MIL_DOC_FIR2_desc:0 "대포를 개선함으로써, 아군이 사선에 진입하기 전에 적의 조직력과 내구도를 궤멸 시킬 수 있습니다."
 JAP_MIL_DOC_FIR3:0 "화력 교리"
 JAP_MIL_DOC_FIR3_desc:0 "천황 폐하를 위해 죽는 것은 영광스런 일이지만, 천황 폐하를 위해 승리하는 것은 더욱 영광스럽습니다. 압도적인 화력을 통해, 적군을 갈아 없애 버립시다."
 JAP_MIL_DOC_FIR4:0 "육군 개편"
-JAP_MIL_DOC_FIR4_desc:0 "There are still inefficiencies in our army structure. With Nagata's help we will remove them and have our army fighting at peak strength."
+JAP_MIL_DOC_FIR4_desc:0 "육군의 구조는 여전히 비효율적입니다. 나가타의 협력을 통해 비효율을 제거하고 군대가 최고의 전투력을 발휘할 수 있도록 할 것입니다."
 JAP_MIL_DOC_FIR5:0 "포위 전술"
 JAP_MIL_DOC_FIR5_desc:0 "The modern Japanese curriculum, designed to counter Russian aggression on the plains of Manchuria, emphasises morale factors and tenacity of will, stressing training designed to develop the ability to recognise opportunities for decisive attack; enveloping open enemy flanks, encircling formations, and thus destroying even numerically and technologically superior forces."
 
