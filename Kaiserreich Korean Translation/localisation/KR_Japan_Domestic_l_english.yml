@@ -324,11 +324,11 @@ JAP_MIL_DOC_FIR5_desc:0 "The modern Japanese curriculum, designed to counter Rus
 
 ### Focuses - Military - Mobility ###
 JAP_MIL_DOC_MOB:0 "선제 타격 및 기동력"
-JAP_MIL_DOC_MOB_desc:0 "The future of warfare lies in mobility. Those who can use superior speed and manoeuvrability to cut supply lines and secure strategic points will win total wars."
+JAP_MIL_DOC_MOB_desc:0 "미래 전쟁의 승패는 기동성에 달려있습니다. 우월한 속도와 기동성으로 보급선을 차단하고 전략적 요충지를 차단하는 자들만이 총력전에서 승리할 수 있습니다."
 JAP_MIL_DOC_MOB2:0 "기동전 연구"
-JAP_MIL_DOC_MOB2_desc:0 "We should fund revolutionary research into new fast moving personal carriers and vehicles."
+JAP_MIL_DOC_MOB2_desc:0 "획기적인 고속 병력수송차량과 군용 차량을 위한 연구 개발에 자금을 투자해야 합니다."
 JAP_MIL_DOC_MOB3:0 "치 계획"
-JAP_MIL_DOC_MOB3_desc:0 "Tanks are the drivers of modern warfare, and we need to make sure our tanks are the best in the world. By funding the Chi series, we will ensure we remain ahead of the world in medium tank technology."
+JAP_MIL_DOC_MOB3_desc:0 "전차는 현대전에 필수적이며, 우리 전차의 성능은 가장 우월해야합니다. 치형 전차의 개발을 지원하여 그 어떤 나라보다도 발전된 중형전차 기술을 유지해야합니다."
 JAP_MIL_DOC_MOB4:0 "압도적인 화력"
 JAP_MIL_DOC_MOB4_desc:0 "오바타가 말하듯이 우리가 전쟁을 빠르게 종결시키려면, 압도적 화력은 필수불가결한 요소가 될 것입니다."
 
@@ -340,20 +340,19 @@ JAP_MIL_MARINES_desc:0 "해군 특별 육전대는 세계에서 가장 잘 훈�
 JAP_MIL_NAV_BASES:0 "해군 확장"
 JAP_MIL_NAV_BASES_desc:0 "우리 해군이 태평양에서 도전받지 않고 도태된다면, 우리는 전쟁에서 독일 해군을 무찌를 수 없을 것입니다. 우리의 함대는 빠르게 확장되어야 합니다."
 JAP_MIL_BIG_SHIPS:0 "주력함"
-JAP_MIL_BIG_SHIPS_desc:0 "We should focus on big, heavily armed and armoured capital ships. Battleships have always been reliable, and these floating fortresses can capture the public's imagination in a way aircraft carriers never will."
+JAP_MIL_BIG_SHIPS_desc:0 "중무장, 중장갑 대형함 개발에 집중해야합니다. 이 수상요새는 항상 신뢰할 수 있으며, 항공모함과는 달리 대중의 상상력을 사로잡을 수 있습니다."
 JAP_MIL_VERY_BIG_SHIPS:0 "오카미 작전"
-JAP_MIL_VERY_BIG_SHIPS_desc:0 "What sailors of old have often called sea monsters or Leviathans will soon pale before the great wolf-class super heavy battleship, the Okami! May we name the first one after our great God and Emperor, the Okami!"
+JAP_MIL_VERY_BIG_SHIPS_desc:0 "옛날의 수병들이 바다괴물 혹은 거대괴수라고 불렀던 것들은 우리의 거대한 늑대급 초중전함 오카미 앞에서는 피라미에 불과할 것입니다. 초도함의 이름은 위대한 신이자 천황인 오카미로 지을 것입니다."
 JAP_MIL_SMALL_SHIPS:0 "호위함"
 JAP_MIL_SMALL_SHIPS_desc:0 "빌빌거리는 구축함이 보호할 바에야 주력함은 없는 편이 낫습니다. 호위 함선의 보호가 없다면, 강력하든 아니든간에 우리의 주력함은 반드시 수장될 것입니다."
 JAP_MIL_SUBMARINES:0 "잠수함"
-JAP_MIL_SUBMARINES_desc:0 "Hidden, like the shinobi of old, submarines can deliver deadly blows not only to enemy military vessels, but also to their shipping lanes. How to implement them is vocally discussed in the Imperial Navy Headquarters, but all agree that they will serve an important role in any upcoming conflicts."
+JAP_MIL_SUBMARINES_desc:0 "옛 이야기 속의 닌자처럼, 잠수함은 적 군함과 보급선에 치명적인 일격을 가할 수 있습니다. 해군 본부에서는 도입 계획에 대한 많은 의견들이 오갔으며, 향후 전장에서 중요한 역할을 차지하리라는 것만은 모두가 동의했습니다."
 JAP_MIL_NAVBOM_FOCUS:0 "해군 폭격기"
-JAP_MIL_NAVBOM_FOCUS_desc:0 "Some of the staff of the IJNAS claim that the upcoming battles of the sea will not be won on the waves, but in the clouds. We should listen to them, ships are much more expensive than planes after all."
+JAP_MIL_NAVBOM_FOCUS_desc:0 "해군 항공대의 참모들은 해전에서의 승리는 바다가 아닌 구름 위에서 이루어질 것이라 말합니다. 그들의 의견을 들어야합니다. 비행기보다 배가 훨씬 비싸기 때문이죠."
 JAP_MIL_CARRIER:0 "항공모함 중점"
-JAP_MIL_CARRIER_desc:0 "With highly modern naval bombers at our disposal we need to supply them with mobile airbases, in the form of aircraft carriers."
+JAP_MIL_CARRIER_desc:0 "우리의 현대적인 해군 폭격기를 위해 이동형 공군기지를 제공할 필요가 있습니다. 바로 항공모함입니다."
 JAP_MIL_NAV_DOC:0 "해군 교리"
-JAP_MIL_NAV_DOC_desc:0 "No fleet, no matter how large or modern, is more efficient than its tactics allow it to be. Our glorious victory at Tsushima stands testament to this."
-
+JAP_MIL_NAV_DOC_desc:0 "함대가 아무리 크고 현대적이라도, 전술이 완비되어야 최대한의 능력을 발휘할 수 있습니다. 쓰시마 해전의 영광스러운 승리가 그것을 증명합니다."
 ### Focuses - Military - Air ###
 JAP_MIL_air_start:0 "공군 개혁"
 JAP_MIL_air_start_desc:0 "우리는 지상에만 집중해서는 안 됩니다, 육군과 해군 항공대는 개혁이 필요합니다."
@@ -545,7 +544,7 @@ japdom.39.d:0 "수백 만 명의 일본인들이 조선 땅에 이주한 끝에 
 japdom.39.a:0 "반자이 반자이 반자이!"
 
 japdom.40.t:0 "조선의 경제적 통합"
-japdom.40.d:0 "우리의 노력이 결실을 거두기 시작했습니다. 조선 땅의 도시화와 근대화는 일취월장하고 있습니다. 조선 경제는 황금기에 접어들었고 우리 경제도 그 덕을 보고 있습니다."                                                                                                                                         
+japdom.40.d:0 "우리의 노력이 결실을 거두기 시작했습니다. 조선 땅의 도시화와 근대화는 일취월장하고 있습니다. 조선 경제는 황금기에 접어들었고 우리 경제도 그 덕을 보고 있습니다."
 japdom.40.a:0 "완벽하군!"
 
 japdom.42.t:0 "타이완 식민화"
