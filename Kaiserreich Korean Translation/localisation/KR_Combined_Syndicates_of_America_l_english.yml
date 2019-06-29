@@ -459,7 +459,7 @@ CSA_SONAR_project_desc:0 "SONAR는 레이더 해군 장비로 미국 인민 해�
 CSA_the_atlantic:0 "대서양 집중"
 CSA_the_atlantic_desc:0 "우리 해군은 특히 독일 제국에 대항해서 대서양에서의 전쟁을 염두하고 함선을 설계해야 합니다. 이를 위해서 새로운 전함이나 구축함 혹은 새로운 순양전함에 자금을 지원할 필요가 있습니다.“
 CSA_the_pacific:0 "태평양 집중"
-CSA_the_pacific_desc:0 우리 해군은 일본 제국에 대항해서 태평양에서의 전쟁을 염두하고 함선을 설계해야 합니다. 이를 위해서 새로운 항공모함이나 잠수함 혹은 새로운 경순양함에 자금을 지원할 필요가 있습니다."
+CSA_the_pacific_desc:0 "우리 해군은 일본 제국에 대항해서 태평양에서의 전쟁을 염두하고 함선을 설계해야 합니다. 이를 위해서 새로운 항공모함이나 잠수함 혹은 새로운 경순양함에 자금을 지원할 필요가 있습니다."
 CSA_fuel_for_the_fire:0 "혁명을 위한 석유"
 CSA_fuel_for_the_fire_desc:0 "혁명에 하는데 석유가 부족하다고요? 더 이상은 그러지 않을 겁니다. [ROOT.GetNameDef]는 인터네셔널이 요구하는 가솔린 요구량보다 더 많은 석유를 생산 할 수 있으니깐요."i
 CSA_synthetic_rubber_experiments:0 "합성고무 실험"
