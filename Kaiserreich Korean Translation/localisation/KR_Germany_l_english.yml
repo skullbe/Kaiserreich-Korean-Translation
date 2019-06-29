@@ -234,9 +234,9 @@ GER_ngraskaris_tt:0 "세 개의 새로운 나이지리아와 카메룬 아스카
 GER_ghaaskaris_tt:0 "세 개의 새로운 아샨티 아스카리 사단이 형성될 것입니다."
 GER_ruswar_tt:0 "11개의 새로운 예비 사단이 추가될 것입니다."
 GER_cannot_join_ally_war:0 "이 전쟁에 참전할 수 없습니다"
-GER_colonial_resources_distribution_full_tt:0 "§REight§! of our civilian factories will work for the needs of our colonies for §R365§! days.\n"
-GER_colonial_resources_distribution_partly_tt:0 "§RFive§! of our civilian factories will work for the needs of our colonies for §R260§! days.\n"
-GER_agricultural_mitteleuropa_help_tt:0 "§ROur country is falling apart.§!\n"
+GER_colonial_resources_distribution_full_tt:0 "§R8§!개의 민간공장이 §R365§!일 동안 식민지들의 요구에 맞추기 위해 사용될 것입니다.\n"
+GER_colonial_resources_distribution_partly_tt:0 "§R5§!개의 민간공장이 §R260§!일 동안 식민지들의 요구에 맞추기 위해 사용될 것입니다.\n"
+GER_agricultural_mitteleuropa_help_tt:0 "§R나라가 결딴나고 있습니다.§!\n"
 
 ### Opinion Modifiers ###
 sri_lanka:0 "제국주의 괴짜"
@@ -266,8 +266,8 @@ GER_reichsmark_yes_op:0 "마르크화 사용에 찬성하다"
 GER_reichsmark_no_op:0 "마르크화 사용 거절하다"
 financial_help_granted:0 "완전히 재정적 도움 기여"
 financial_help_denied:0 "재정적 도움 거부"
-financial_help_too_low:0 "Not satisfied with limited help"
-financial_help_satisfactionary:0 "Satisfied with provided help"
+financial_help_too_low:0 "제한된 도움에 불만족"
+financial_help_satisfactionary:0 "도움에 만족"
 GER_raised_tarrifs:0 "관세 인상"
 Ostraum_more_liberties:0 "허가된 자유"
 Ostraum_denied_liberties:0 "허가된 자유"
@@ -300,12 +300,12 @@ GER_national_populist_party_long:0 "전독일연맹"
 
 ### Decisions ###
 GER_send_support_to_bulgaria:0 "불가리아 지원"
-GER_send_support_to_bulgaria:0 "While they may not have been a game-changer, Bulgaria was still our loyal ally during the Weltkrieg, and they are not at risk from the Serbian invasion. [Root.GetNameDefCap] does not forget its friends, and we shall move to help the Tsar at once!"
+GER_send_support_to_bulgaria:0 "불가리아는 게임체인저는 아니었지만 세계대전동안 충성스러운 동맹이었고, 이제는 세르비아의 침략으로 위험에 처하지는 않았습니다. [Root.GetNameDefCap]은 우방을 잊지 않았으며, 다시 한번 차르에게 도움을 주기 위해 움직일 것입니다!"
 
 french_occupation_decisions:0 "프랑스 점령"
-french_occupation_decisions_desc:0 "Resistance is ongoing within the territory of [FRA.GetNameDef]. Short of defeating the entirety of the Third Internationale, it might be possible to erode the legitimacy of the Communard government-in-exile to the point that resistance forces in France surrender completely.\n\nThe current §YLegitimacy§! of [FRA.GetNameDef]: §R[?FRA.legitimacy|-0]§!\n"
-GER_erode_cof_legitimacy:0 "Erode Communard Legitimacy"
-GER_erode_cof_legitimacy_desc:0 "Our efforts must be to convince the French people that the Communard government is and always was an illegitimate construction, as well as their true oppressor. If their will to fight on behalf of the syndicalists collapses, there will be little opposition to our occupation."
+french_occupation_decisions_desc:0 "[FRA.GetNameDef] 영토 내에서 저항이 계속되고 있습니다. 제3인터내셔널 전체를 물리치는 것이 아니라 프랑스의 저항세력들이 완전히 항복할 정도로 코뮌 망명 정부의 정통성을 잠식하는 것이 가능할지도 모릅니다. \n\n[FRA.GetNameDef]의 현재 §Y정통성§!: §R[?FRA.legitimacy|-0]§!\n"
+GER_erode_cof_legitimacy:0 "코뮌 정통성을 잠식"
+GER_erode_cof_legitimacy_desc:0 "우리의 노력은 프랑스 국민들에게 코뮌 정부가 진정한 압제자일 뿐만 아니라 항상 불법적이었다는 것을 확신시키는 것이어야 합니다. 생디칼리즘에 대항해 싸우겠다는 그들의 의지가 무너지면 우리 점령에 대한 반대는 거의 없을 것입니다."
 GER_invite_nfa_to_france:0 "Invite [NFA.GetNameDef] Back to France"
 GER_invite_nfa_to_france_desc:0 "[NFA.GetNameDefCap] has far more ability than we do to erode [FRA.GetNameDef]'s legitimacy... but only if they hold enough territory in continental France to claim some kind of victory. Currently that isn't the case. In order to expedite the progress of defeating the French resistance, perhaps it's worth considering whether we could turn over some of our occupied territory to them in the south? At the very least, it would establish some gratitude on their part."
 
@@ -363,18 +363,18 @@ GER_black_monday_colonies_decisions:0 "식민지 내의 검은 월요일 위기"
 GER_bm_sale_of_ceylon:0 "실론 섬 매각"
 GER_bm_sale_of_ceylon_desc:0 "실론 섬은 천연자원이 풍부함에도 불구하고 행정적 비효율 때문에 수익성이 매우 떨어지는 식민지이고, 매년 막대한 투자가 필요합니다. 하지만 이 섬을 토후 연맹에 매각하자는 의심할 여지없이 수익성이 있는 제안이 있습니다."
 
-GER_GEA_navy_transferred:0 "Has taken control of the East Asian navy."
+GER_GEA_navy_transferred:0 "동아시아 해군 통제권 장악"
 
-GER_black_monday_category:0 "Dealing with Black Monday"
+GER_black_monday_category:0 "검은 월요일 대처"
 
-GER_factories_for_colonies_full:0 "Fulfilling the needs of our colonies"
-GER_factories_for_colonies_full_desc:0 "We have decided to stress the coffers of the Kaiserreich for the betterment of our colonies, to ensure their continued loyalty while lowering the damage from Black Monday to a minimum, even if it is routing much needed resources away from the fatherland."
+GER_factories_for_colonies_full:0 "식민지의 필요를 충족"
+GER_factories_for_colonies_full_desc:0 "우리는 식민지의 개선을 위해 카이저라이히의 예산에 압력을 주기로 결정했는데, 비록 이 결정이 조국에서 필요한 많은 자원을 빼돌리고 있다 하더라도 검은 월요일로 인한 피해를 최소한으로 줄이면서 그들의 지속적인 충성심을 보장하기로 했습니다."
 
-GER_factories_for_colonies_partly:0 "Granting limited help to our colonies"
-GER_factories_for_colonies_partly_desc:0 "Due to the dire situation our colonies have found themselves in, we have decided to tactically divert some of our economic leeway into helping the hardest struck areas in our Weltreich, to bolster morale and keep our chain of governance safe and running."
+GER_factories_for_colonies_partly:0 "식민지에 제한적 도움 제공"
+GER_factories_for_colonies_partly_desc:0 "식민지가 처한 비참한 상황 때문에, 우리는 경제적 여력의 일부를 전략적으로 세계국가에서 가장 심하게 타격을 입은 지역을 돕는 것으로 전환하여, 사기를 북돋우고 우리의 통치 체계를 안전하게 유지하고 운영하기로 결정했습니다."
 
-GER_agricultural_help:0 "The price of doing business"
-GER_agricultural_help_desc:0 "As we have decided to not put a wall between the Kaiserreich and the eastern european granaries, our subpar domestic agricultural exploiters have begun to show their dissapointment in our choice, while their properties are quickly going into the red."
+GER_agricultural_help:0 "사업의 대가"
+GER_agricultural_help_desc:0 "카이저라이히와 동유럽의 곡창지대 사이에 벽을 두지 않기로 결정함에 따라, 우리의 수준 이하의 국내 농업 착취자들은 우리의 선택에 실망감을 나타내기 시작했고, 그들의 재산은 빠르게 적자로 치닫고 있습니다."
 
 #GER_black_monday_reichstag_decisions:0 "" already defined above
 #GER_black_monday_reichstag_decisions_desc:0 "" already defined above
