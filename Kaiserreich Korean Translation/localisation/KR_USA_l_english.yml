@@ -1231,7 +1231,7 @@ ustates.62.d:0 "미닛맨들이 대통령의 법을 집행하기 위해 스틸�
 ustates.62.a:0 "우리가 가진 최대한의 인력을 보내라"
 
 ustates.63.t:0 "맥아더와 육군이 롱을 축출하다"
-ustates.63.d:0 "워싱턴 D.C에서 롱의 지지율이 바닥났습니다. 글러스 맥아더 장군은 오늘 롱이 폭군이라고 선언하면서 백악관에서 그를 체포하려고 시도하고 질서를 회복하기 위해 워싱턴 DC로 행군했습니다. 맥아더의 행렬은 1932년의 대규모 펜실베니아 실직자들의 가두시위를 상기시켰습니다. 32년도 시위와 달리 맥아더는 현상을 유지한다는 동기를 가지고 있기에 야유 대신 환호를 받았습니다. 맥아더 사령관에 관해 제일당 밀정의 보를 받은 롱은 역적 장군의 코앞에서 가까스로 루이지애나로 탈출할 수 있었습니다. 맥아더는 이제 백악관에 머무르며 대통령 의자에 앉아서 롱에 대한 조사를 이어나가기로 결정했습니다. 내전이 임박했습니다."
+ustates.63.d:0 "워싱턴 D.C에서 롱의 지지율이 바닥났습니다. 더글러스 맥아더 장군은 오늘 롱이 폭군이라고 선언하면서 백악관에서 그를 체포하려고 시도하고 질서를 회복하기 위해 워싱턴 DC로 행군했습니다. 맥아더의 행렬은 1932년의 대규모 펜실베니아 실직자들의 가두시위를 상기시켰습니다. 32년도 시위와 달리 맥아더는 현상을 유지한다는 동기를 가지고 있기에 야유 대신 환호를 받았습니다. 맥아더 사령관에 관해 제일당 밀정의 보를 받은 롱은 역적 장군의 코앞에서 가까스로 루이지애나로 탈출할 수 있었습니다. 맥아더는 이제 백악관에 머무르며 대통령 의자에 앉아서 롱에 대한 조사를 이어나가기로 결정했습니다. 내전이 임박했습니다."
 ustates.63.a:0 "공화국, 맥아더 그리고 민주주의에 충성을 다하여!"
 
 ### President Olson ###
@@ -1305,40 +1305,40 @@ ustates.79.d:0 "사회당 파업이 강철 벨트 외곽으로 확산되면서 �
 ustates.79.a:0 "질서를 지키려는 행동이다!"
 
 ustates.80.t:0 "롱이 폭군과의 전쟁을 선포하다"
-ustates.80.d:0 "사회당 파업자들만이 미국 경찰의 손에 땀을 쥐게 하는 것은 아닙니다. 그래서 미닛맨들도 더 많은 조사를 받게 합니다. 최근 며칠간 앨라배마주와 사우스캐롤라이나에 있는 몇몇 미닛맨 훈련소가 경찰의 습격을 받았으며 제일당 회의는 끊임없이 비난받아왔고, 따라서 휴이 롱은 큰 소리로 불평했습니다. '연방정부는 공개적인 폭정을 선택했습니다'라고 그는 말했습니다. '그들은 우리를 억압하기 위해 무슨 짓이든 할 것입니다. 우리가 추구하는 것이 우리에게 걸맞는 정부입니다!' 최근 샬롯에서의 그의 연설은 제일당의 영향력이 커지고 있음을 나타내는 환호하는 군중들에 의해 받아들여졌습니다."
+ustates.80.d:0 "사회당 파업자들만이 미국 경찰의 손에 땀을 쥐게 하는 것은 아닙니다. 그래서 미닛맨들도 더 많은 조사를 받고 있습니다. 최근 며칠간 앨라배마와 사우스캐롤라이나에 있는 몇몇 미닛맨 훈련소가 경찰의 습격을 받았으며 제일당 회의는 끊임없이 비난받아왔고, 따라서 휴이 롱은 큰 소리로 불평했습니다. '연방정부는 공개적인 폭정을 선택했습니다'라고 그는 말했습니다. '그들은 우리를 억압하기 위해 무슨 짓이든 할 것입니다. 우리가 추구하는 것은 우리에게 걸맞는 정부입니다!' 최근 샬롯에서의 그의 연설은 제일당의 영향력이 커지고 있음을 나타내는 환호하는 군중들에 의해 받아들여졌습니다."
 ustates.80.a:0 "두고 보자!"
 
-ustates.81.t:0 "The General Strike Spreads"
-ustates.81.d:0 "The SPA's general strike has spread far and wide, all but bringing the nation to a standstill in many industrial states. The city of St. Louis in particular has become a warzone, day to day life all but ended as strikers clash variously either with Federal forces or with AFP Minutemen. The sense of chaos has led to several riots as protests by regular citizens have turned into looting and civil unrest. People are leaving St. Louis by the thousands, and are calling for immediate government intervention."
-ustates.81.a:0 "It is coming!"
+ustates.81.t:0 "총파업이 퍼지다"
+ustates.81.d:0 "사회당의 총파업은 널리 퍼졌으며, 많은 산업화된 주에서 국가를 마비시킬 뿐입니다. 특히 세인트루이스는 분쟁지역이 되었으며, 매일매일 파업자들은 연방군이나 제일당 미닛맨과 다양하게 충돌하면서 일상생활은 거의 끝났습니다. 일반 시민들의 시위가 약탈과 시민 소요로 변하면서 혼란은 몇 차례의 폭동으로 이어졌습니다. 사람들이 세인트루이스를 떠나고 있으며, 수천명이 정부의 즉각적인 개입을 요구하고 있습니다."
+ustates.81.a:0 "시작이다!"
 
-ustates.82.t:0 "Tension in the Steel Belt"
-ustates.82.d:0 "As National Guardsmen arrive in the north to end the SPA strike, tensions remain high. Many of the various mayors and even governors were not just supportive of the strike but actively helping it. Consequently, they strongly oppose the use of the National Guard. The strikers have begun to taunt the guards, and have even assaulted scab workers brought into the factories under National Guard escort. It is clear a single spark can set off the entire American north. President [USA.GetLeader] remains undeterred by this, and declared on the radio that the general strike must end for the good of the nation, with the unsaid implication that force will be used if it doesn't."
-ustates.82.a:0 "Force is necessary now"
+ustates.82.t:0 "강철 벨트 내의 긴장"
+ustates.82.d:0 "사회당의 파업을 끝내기 위해 주방위군이 북쪽에 도착함에 따라 긴장이 고조되고 있습니다. 여러 시장들과 심지어 주지사들도 파업에 찬성했을 뿐 아니라 적극적으로 도와주고 있었습니다. 결과적으로, 그들은 주방위군 투입에 강하게 반대합니다. 파업자들은 병사들을 조롱하기 시작했고, 심지어 주방위군의 호위를 받으며 공장에 들여온 파업파괴자들을 폭행하기도 했습니다. 한 점의 불꽃이라도 미국 북부 전체를 날려버릴 수 있다는 것은 명백합니다. [USA.GetLeader] 대통령은 이에 단념하지 않고 있으며, 라디오를 통해 총파업은 국가의 이익을 위해 끝나야 한다고 선언했고, 그렇지 않을 경우 무력이 사용될 것이라는 무언의 암시를 남겼습니다."
+ustates.82.a:0 "이제는 무력이 필요하다"
 
-ustates.83.t:0 "Clashes in the South"
-ustates.83.d:0 "National Guard units today fought with Minutemen militia in northern Louisiana, a raid that soon turned into a bloodbath as Minutemen opened fire. In the end, over fourty Guardsmen were killed as well as an unknown number of Minutemen. Huey Long and the AFP denied involvement with the militia, but questioned the presence of the National Guard in what should clearly have been a police matter. The militia, they claim, were merely defending themselves. Photos of the ensuing bloody scene have circulated in southern newspapers, resulting in a new wave of outrage from the public directed at the federal government."
-ustates.83.a:0 "But not at the Minutemen? Not even a little?"
+ustates.83.t:0 "남부에서의 충돌"
+ustates.83.d:0 "오늘 주방위군 부대는 루이지애나 북부에서 미닛맨 민병대와 싸웠습니다. 미닛맨이 총격을 가하자 곧 피바다로 변했습니다. 결국, 알려지지 않은 수의 미닛맨뿐만 아니라 4명 이상의 병사들이 살해되었습니다. 휴이 롱과 제일당은 민병대의 개입을 부인하면서도 분명히 경찰 문제였어야 할 일을 주방위군이 처리하고 있다는 것에 의문을 제기했습니다. 그들은 민병대가 단지 그들 자신을 방어하고 있었을 뿐이라고 주장합니다. 이어지는 피비린내 나는 장면의 사진들이 남부 신문에 유포되어 연방 정부를 향한 대중들의 새로운 분노의 물결이 일고 있습니다."
+ustates.83.a:0 "근데 미닛맨을 향한 분노는? 조금도 없나?"
 
-ustates.84.t:0 "The Pittsburgh Massacre"
-ustates.84.d:0 "All it took was a single spark to start the revolution, and in Pittsburgh that spark occurred when a crowd of people stood outside one factory determined to oppose the National Guard. Guardsmen fired into the crowd leaving five dead. It did not take long for this to quickly be dubbed the 'Pittsburgh Massacre' and the Steel Belt was driven into a frenzy. Soon National Guardsmen and police were fighting with SPA militia throughout the Steel Belt. Newspapers across the country have 'civil war' splashed across their headlines, and public panic is at a crescendo."
-ustates.84.a:0 "What next?"
+ustates.84.t:0 "피츠버그 대학살"
+ustates.84.d:0 "혁명을 일으키기 위해 필요한 것은 단 하나의 불꽃뿐이었고, 피츠버그에서 사람들이 주방위군에 반대하기로 결심하고 한 공장 밖에 서 있을 때 그 불꽃이 일어났습니다. 주방위군이 군중을 향해 발포하여 다섯 명이 죽었습니다. 이 사건이 재빨리 '피츠베리 대학살'로 명명되는 데 오래 걸리지 않았고 강철 벨트는 광란의 도가니에 빠졌습니다. 곧 주방위군과 경찰은 강철벨트 전역에서 사회당 민병대와 싸우게 되었습니다 . 전국의 신문들은 '내전'이 헤드라인을 장식하고 있으며, 대중의 공황은 극에 달하고 있습니다."
+ustates.84.a:0 "또 무슨 일이 생길까?"
 
-ustates.85.t:0 "J. Edgar Hoover's Proposal"
-ustates.85.d:0 "J. Edgar Hoover, Director of the FBI, arrived at the White House early today to grimly inform President [USA.GetLeader] that civil war is imminent. The best chance for the federal government, he says, is to take decisive action now before the AFP and SPA can become more organized. An assassination of Huey Long would mean the collapse of the AFP, as it centered around his personality. An assassination of Jack Reed, meanwhile, would throw the SPA into disarray while the IWW and AFL competed for leadership... at least long enough for the immediate danger to pass. There would be consequences, Hoover advises, not least of all the rightful suspicion that would fall on a democratic government for taking such an extreme act... but these are desperate times. If the FBI is to act, Hoover says, they must act now, for there is only time for one operation."
-ustates.85.a:0 "Take out Jack Reed and the SPA"
-ustates.85.b:0 "Take out Huey Long and the AFP"
-ustates.85.c:0 "We will not stoop to such undemocratic measures"
+ustates.85.t:0 "J. 에드거 후버의 제안"
+ustates.85.d:0 "J. 에드거 후버 FBI국장은 오늘 새벽 백악관에 도착해 [USA.GetLeader] 대통령에게 내전이 임박했음을 알렸습니다. 그는 연방정부에 가장 좋은 기회는 제일당과 사회당이 좀 더 조직화되기 전인 지금 결정적인 조치를 취해야 한다고 말합니다. 휴이 롱 암살은  그 개인을 중심으로 한 제일당의 붕괴를 의미할 것입니다. 한편, 잭 리드 암살은 IWW와 AFL이 주도권을 놓고 경쟁하는 동안 사회당을 혼란에 빠뜨릴 것입니다... 적어도 눈앞의 위험이 지나갈 만큼 그 혼란은 길어야 겠지요. 후버는 이렇게 극단적인 행동을 한 것에 대해 민주 정부에게 돌아갈 모든 정당한 혐의의 대가도 있을 것이라고 충고하지만... 지금은 절박한 상황입니다. 후버는 FBI가 행동한다면 바로 지금 행동해야하며, 단 하나의 작전을 실행할 수 있는 유일한 때이기 때문이라고 말합니다."
+ustates.85.a:0 "잭 리드와 사회당을 제거하라"
+ustates.85.b:0 "휴이 롱과 제일당을 제거하라"
+ustates.85.c:0 "우리는 그런 비민주적인 조치에 굴하지 않을 것이다"
 
 ustates.87.t:0 "Huey Long Assassinated!"
 ustates.87.d:0 "Just outside the Lousiana state legislature in Louisiana, Huey Long - leader of the America First Party and prominent critic of the United States federal government - was shot to death by an assailant who, in turn, was killed by Long's bodyguards. The motives of the assassination are unknown, but while many are ascribing it to the Socialist Party of America the SPA's leader, Jack Reed, has hotly denied any involvement and instead is pointing the finger at the federal government and President [USA.GetLeader]... a version of events which is gaining widespread acceptance in the country, increasing the anger towards an already-troubled government. The former Democrats within the AFP have silently deserted the more radical elements of the party, and the FBI reports that neither William Lemke nor Charles Coughlin have been able to meet with the AFP Congressmen."
 ustates.87.a:0 "That's it for the AFP, at least"
-ustates.87.b:0 "Interesting"
+ustates.87.b:0 "흥미롭군"
 
 ustates.88.t:0 "Jack Reed Assassinated!"
 ustates.88.d:0 "While returning from a meeting at the Indiana state legislature, Jack Reed - leader of the Socialist Party of America and head of the ICC - was shot to death by an unknown assailant. A manhunt is currently underway for the sniper, even as workers across America mourn the loss of their leader. The motives of the assassination are unknown, but while many are ascribing it to the America First Party the AFP's leader, Huey Long, has hotly denied any involvement and instead is pointing the finger at the federal government and President [USA.GetLeader]... a version of events which is gaining widespread acceptance in the country, increasing the anger towards an already-troubled government. The labor leaders from the AFL have declared Reed's strike to be wildcat, and therefore have ordered their labor unions to return to work. The IWW has responded by declaring the AFL scabs, and it appears their brief cooperation has ended."
 ustates.88.a:0 "That's it for the SPA, at least"
-ustates.88.b:0 "Interesting"
+ustates.88.b:0 "흥미롭군"
 
 ustates.89.t:0 "Reed Accuses the Government of Murder"
 ustates.89.d:0 "With the country still reeling from Huey Long's death, and the AFP collapsing, Jack Reed has been quick to capitalise on the growing public anger. At a recent rally in Detroit, Reed all but accused the government of murder. 'I won't say that I agreed with Huey,' he said, 'but he wanted the life of the average American to be better. He wanted a government that was better, that stood for us all. What we have now is a government that stands only for capitalist greed, a cancer growing within the heart of American democracy which will kill anything that tries to cut it out.' Demonstrations across the country have echoed Reed's words, particularly in the South where Long's supporters have begun a campaign of violence against government targets, and it seems things will quickly get worse."
@@ -1361,15 +1361,15 @@ ustates.92.a:0 "Believe in America"
 
 ustates.93.t:0 "Long Denounces Austerity Measures"
 ustates.93.d:0 "As discussions began in Capitol Hill regarding the austerity bill, the AFP immediately denounced it. Huey Long said in a North Carolina speech that austerity did the exact opposite of what was necessary. Rather than sharing the wealth, it took every last bit of wealth from those who needed it most. Austerity, he claims, would leave the average American more desperately poor than they are now, and would leave them vulnerable to syndicalist rhetoric. Long said he would be directing AFP to oppose the bill at every turn, for the sake of the country."
-ustates.93.a:0 "We shall see"
+ustates.93.a:0 "지켜보도록 하지"
 
 ustates.94.t:0 "D.C. Demonstration Turns Violent"
 ustates.94.d:0 "A demonstration in Washington D.C. by workers and strikers voicing their disapproval of the austerity measures bill, today turned violent as police attempted to break up the crowd. SPA members present said theirs was a peaceful protest, that police provoked the crowd into a response. Regardless of the cause, the end result was a pitched battle with police that left the city in chaos for two days and left hundreds of protestors injured. SPA leader Jack Reed condemned the police action as brutality and imperialist suppression."
 ustates.94.a:0 "We are trying to keep order, Reed!"
 
-ustates.95.t:0 "General Strike Spreads"
-ustates.95.d:0 "The SPA's general strike has spread far and wide, all but bringing the nation to a standstill in many industrial states. The city of St. Louis in particular has become a warzone, day to day life all but ended as strikers clash variously either with Federal forces or with AFP Minutemen. The sense of chaos has led to several riots as protests by regular citizens have turned into looting and civil unrest. People are leaving St. Louis by the thousands, calling for immediate government intervention."
-ustates.95.a:0 "Damned Fools!"
+ustates.95.t:0 "총파업이 퍼지다"
+ustates.95.d:0 "사회당의 총파업은 널리 퍼졌으며, 많은 산업화된 주에서 국가를 마비시킬 뿐입니다. 특히 세인트루이스는 분쟁지역이 되었으며, 매일매일 파업자들은 연방군이나 제일당 미닛맨과 다양하게 충돌하면서 일상생활은 거의 끝났습니다. 일반 시민들의 시위가 약탈과 시민 소요로 변하면서 혼란은 몇 차례의 폭동으로 이어졌습니다. 사람들이 세인트루이스를 떠나고 있으며, 수천명이 정부의 즉각적인 개입을 요구하고 있습니다."
+ustates.95.a:0 "바보같은 것들!"
 
 ustates.96.t:0 "Austerity Bill Voting Commences"
 ustates.96.d:0 "Voting on the Emergency Austerity Measures bill began in Congress today, though early indications were not good. While the bill is solidly backed by Democratic Senators, it is rabidly opposed by both the SPA and AFP... and there are enough Republican Senators remaining on the fence, unwilling to be swayed, that passage may prove unlikely without intervention. The president's cabinet is suggesting calling for a meeting of the major party representatives in Philadelphia, to try and work out a compromise - at least enough of one to make passage easier. It is also possible that President Garner could campaign for the votes of influential Republicans. A coalition may not have been in the cards, but perhaps he could appeal to their sense of civic duty on this one instance alone?"
@@ -1391,7 +1391,7 @@ ustates.99.d:0 "President Garner called for Jack Reed and the SPA to be ejected 
 ustates.99.a:0 "We can finally agree"
 ustates.99.b:0 "We will not be blackmailed into such measures!"
 
-ustates.100.t:0 "The Pittsburgh Massacre"
+ustates.100.t:0 "피츠버그 대학살"
 ustates.100.d:0 "Just as the remaining members of the meeting began to make headway, and it was looking as if a compromise on the austerity bill would be reached, word arrived in Philadelphia of a battle taking place in nearby Pittsburgh. SPA strikers had been attacked by Minutemen milita members, a fight which turned bloody when federal forces arrived on the scene and attempted to intervene. Several bombs were detonated, adding to the chaos, and the Senators received reports of unidentified militia forces advancing on Philadelphia. President Garner was evacuated from the building by his security forces, over his objections, and both the meeting and the vote have crumbled to a premature end."
 ustates.100.a:0 "It seems the hell fire is upon us"
 
@@ -1407,9 +1407,9 @@ ustates.103.t:0 "Austerity Bill Fails"
 ustates.103.d:0 "While President Garner campaigned long and hard into the night, at the end of the day there were simply too few Republican Senators willing to vote for a bill that they didn't have the support of the SPA and AFP, and which would likely result in violence anyhow. Garner's austerity plan is seen as a poor follow up to the Garner-Wagner bill he co-authored in 1934. The entire vote was even delayed by an actual fist-fight between a Republican and a AFP Senator. In the end, the vote failed by a slim margin... though the margin might as well have been a chasm, into which all of President Garner's hopes and aspirations could be tossed."
 ustates.103.a:0 "Congress isn't worth piss anyways"
 
-ustates.104.t:0 "MacArthur and the Army Remove Garner"
-ustates.104.d:0 "It appears President Garner's time is up. Douglas MacArthur marched into Washington D.C today, having declared Garner an 'ineffective president whose weakness has endangered America'. MacArthur's marchers reminded many in D.C. of Cox's Army of 1932, except these men are motivated to preserve the country from extremist forces. Garner's own cabinet has assured the public that this action is necessary, and have been working with MacArthur to install an emergency government from the White House - even as the majority of America looks on in shock. Civil war is imminent."
-ustates.104.a:0 "So it has come to this"
+ustates.104.t:0 "맥아더와 육군이 가너를 축출하다"
+ustates.104.d:0 "가너의 시간이 다 된 것 같습니다. 더글러스 맥아더 장군은 오늘 가너를 '미국을 위험에 빠뜨린 무력한 대통령'으로 선언하면서 워싱턴 DC로 행군했습니다. 맥아더의 행렬은 1932년의 대규모 펜실베니아 실직자들의 가두시위를 상기시켰습니다. 단, 이 사람들이 극단주의 세력으로부터 나라를 보존하려는 동기를 가지고 있다는 것을 빼면 말입니다. 가너 내각은 대중에게 이 조치가 필요하다고 확신시켰고, 비록 미국의 대다수가 충격에 빠진 모습을 보임에도 불구하고 맥아더와 함께 백악관에서 비상 정부를 설치하기 위해 협력했습니다. 내전이 임박했습니다."
+ustates.104.a:0 "결국 이렇게 됐군."
 
 ### Alf Landon Path ###
 
@@ -1438,7 +1438,7 @@ ustates.110.t:0 "The 'New Deal' Bill Passes"
 ustates.110.d:0 "The Economic Intervention Bill has managed to pass through Congress, and has been signed into law by President Landon. Banks are immediately ushered into silence as they reorganzie before recieving Treasury approval. The comission has begun to draft reforms to stock trading that will hopefully restore confidence in the markets. It is hard to say right away if this will solve the problem, but Landon hopes that this can be the first steps to fix the economy which all moderates can agree upon."
 ustates.110.a:0 "We are finally awake to change"
 
-ustates.111.t:0 "General Strike Spreads"
+ustates.111.t:0 "총파업이 퍼지다"
 ustates.111.d:0 "The SPA's general strike has spread far and wide, after a call by Jack Reed to demonstrate against the recently-passed intervention bill, all but bringing the nation to a standstill in many industrial states. The city of St. Louis in particular has become a warzone, day to day life all but ended as strikers clash variously either with Federal forces or with AFP Minutemen. The sense of chaos has led to several riots as protests by regular citizens have turned into looting and civil unrest. People are leaving St. Louis by the thousands, calling for immediate government intervention."
 ustates.111.a:0 "This is getting out of hand"
 
@@ -2087,22 +2087,22 @@ ustates.404.d:0 "휴이 롱과 그의 사상을 지지하는 사람들은 [attac
 ustates.404.a:0 "우리는 이 테러리스트들을 쳐부술 것이다"
 
 ### New Pre-ACW Events ###
-ustates.500.t:0 "Garner-Wagner Bill Re-Introduced"
-ustates.500.d:0 "With assurances made by President Hoover that, unlike in 1932, this time he will not veto the bill, Democratic Senator Robert Wagner and Speaker of the House John Nance Garner have re-introduced their unemployment relief legislation package. Many in Congress feel that the package does not go nearly far enough, while others wonder how America - in the midst of a massive economic crisis - will possibly ever pay for it. The presence of Senators from the AFP and the SPA also complicates things immensely. Even with Hoover's pledge, it's unknown if Garner-Wagner has a real chance of passing."
-ustates.500.a:0 "We shall see"
+ustates.500.t:0 "가너-와그너 법안 재도입"
+ustates.500.d:0 "1932년과는 달리 이번에는 거부권을 행사하지 않겠다는 후버 대통령의 확언으로 로버트 와그너 민주당 상원의원과 존 낸스 가너 하원의장은 실업 구제 법안을 재도입했습니다. 의회의 많은 사람들은 이 계획이 충분히 진척되지 않는다고 생각하는 반면, 다른 이들은 거대한 경제 위기 와중에 미국이 어떻게 이 비용을 지불할 것인지 궁금해하고 있습니다. 제일당과 사회당의 상원의원이 있는 것 또한 상황을 엄청나게 복잡하게 만듭니다. 후버의 다짐에도 가너-와그너 법안이 정말 통과할 가능성이 있는지는 알 수 없습니다."
+ustates.500.a:0 "지켜보도록 하지"
 
-ustates.501.t:0 "Long and Reed Demand Changes"
-ustates.501.d:0 "As expected, the early challenges to the Garner-Wagner Bill have come from the AFP and the SPA. Huey Long and his AFP Senators have demanded a vast increase in the social security provisions the bill provides, provisions most other Senators say America could never afford. Jack Reed and the SPA, meanwhile, say the bill doesn't do enough to protect the average worker, particularly from exploitation by struggling corporations. Both parties have attracted a lot of media attention, adding to the general sense of disorder and tension in Congress."
-ustates.501.a:0 "Interesting"
+ustates.501.t:0 "롱과 리드가 수정을 요구하다"
+ustates.501.d:0 "예상대로 가너-와그너 법안에 대한 초기의 도전은 제일당과 사회당에서 비롯되었습니다. 휴이 롱과 제일당 상원의원들은 이 법안이 제공하는 사회보장 조항의 대폭 증가를 요구해왔으며 대부분의 다른 상원의원들은 이 수정이 미국이 결코 감당할 수 없다고 말합니다. 한편, 잭 리드와 사회당은 이 법안이 특히 기업들의 착취로부터 고군분투하는 일반 근로자들을 보호하는 데 충분한 역할을 하지 못한다고 말합니다. 양당은 언론의 많은 관심을 끌었고, 의회의 전반적인 혼란과 긴장감을 더했습니다."
+ustates.501.a:0 "흥미롭군"
 
 ustates.502.t:0 "Senators Break Ranks"
-ustates.502.d:0 "After weeks of negotiations, a number of establishment Senators have broken ranks over the coming vote on the Garner-Wagner Bill - most notably Robert Wagner, one of the bill's proposers, who says he will not vote for the bill unless protections for federal unemployment insurance are re-added. Many other Democrat and Republican Senators are concerned about the influence of the AFP and the SPA, and claim they will not vote for the bill if *any* concessions are made to either group... though others say that not courting either the AFP or SPA will make passage difficult if not impossible. President Hoover will need to intervene in order to save the bill."
-ustates.502.a:0 "Pledge support to Wagner and the establishment Senators"
-ustates.502.b:0 "Force the establishment to compromise with the AFP"
-ustates.502.c:0 "Force the establishment to compromise with the SPA"
+ustates.502.d:0 "몇 주간의 협상 끝에 다수의 기성 상원의원들이 가너-와그너 법안에 대한 다가오는 표결을 둘러싸고 대립하고 있는데, 특히 이 법안의 발의자 중 한 사람인 로버트 와그너는 연방 실업 보험에 대한 보호가 다시 추가되지 않으면 이 법안에 투표하지 않을 것이라고 말했습니다. 다른 많은 민주당 및 공화당 상원의원들은 제일당과 사회당의 영향을 우려하고 있으며, 만약 어느 한 정당이 어떤 양보라도 한다면 그 법안에 투표하지 않을 것이라고 주장합니다. 다른 사람들은 제일당이나 사회당의 구애를 받지 못한다면 통과를 어려울 것이라고 말합니다다. 후버 대통령이 법안을 구하기 위해 개입할 필요가 있을 것입니다."
+ustates.502.a:0 "와그너와 기성 상원의원 지지를 맹세하다"
+ustates.502.b:0 "기성 상원의원과 제일당의 타협을 강요하라"
+ustates.502.c:0 "기성 상원의원과 사회당의 타협을 강요하라"
 
-ustates.503.t:0 "Long and Reed Furious"
-ustates.503.d:0 "Both Huey Long's AFP and Jack Reed's SPA have reacted with fury at President Hoover's endorsement of establishment Senators. They have vowed to sink the Garner-Wagner Bill, claiming that the public is being deceived by a 'corrupt government which refuses to recognize the reality of America'. While the parties have both gained a considerable boost in support from their base, Democratic and Republican fortunes have improved somewhat, and there is a feeling that both have a better chance going into the next election... provided the bill actually passes."
+ustates.503.t:0 "롱과 리드가 분노하다"
+ustates.503.d:0 "휴이 롱의 제일당과 잭 리드의 사회당 모두 후버 대통령의 기성 상원의원 지지 선언에 격분한 반응을 보였습니다. 그들은 국민들이 '미국의 현실을 인정하지 않는 부패한 정부'에 속고 있다고 주장하며 가너-와그너 법안을 침몰시키겠다고 맹세했습니다. 양당 모두 기반에서 상당한 지지를 얻은 동안, 민주당과 공화당의 운명이 어느 정도 좋아지고 다음 선거에 더 좋은 기회가 있을 것이라는 느낌을 받았습니다... 만약 법안이 실제로 통과된다면 말이죠."
 ustates.503.a:0 "Let's hope it does!"
 
 ustates.504.t:0 "Compromise with the AFP"
@@ -2234,7 +2234,7 @@ ustates.535.a:0 "God Bless America!!"
 ustates.536.t:0 "America Reunited!"
 ustates.536.d.full:0 "With the restoration of democracy in the United States, the breakaway faction in the west evidently had no reason to continue the civil war. After several meetings between the two governments, the Pacfic States of America has agreed to a full peace with the east and has rejoined the federation. Crowds have filled the streets of cities from one end of America to the other, jubilant at the news that there will be no war and the Second American Civil War is now truly over."
 ustates.536.d.arrest:0 "With the restoration of democracy in the United States, the breakaway faction in the west evidently had no reason to continue the civil war. After several meetings between the two governments, the only condition of the Pacific States of America government was that General Douglas MacArthur be arrested and tried for treason. The reasoning, according to American officials, was that the West considered MacArthur just as much a traitor as Huey Long and Jack Reed, and just as responsible for the death and destruction that ensued. Many in the United States consider MacArthur a hero, however, so when news was revealed of his arrest, angry demonstrations were just as prevalent as celebrations at the Pacific government's agreement to rejoin. It will likely take years for MacArthur's case to go to trial, and without a doubt will be a sensation, but for now the American Civil War is truly over."
-ustates.536.a:0 "Interesting"
+ustates.536.a:0 "흥미롭군"
 ###############
 ##Army Events##
 ###############
