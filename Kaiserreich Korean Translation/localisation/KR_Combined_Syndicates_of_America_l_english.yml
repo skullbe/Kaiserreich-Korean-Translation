@@ -25,20 +25,20 @@ CSA_national_populist_party_long:0 "미국 제일당"
 CSA_totalist_syndicalism_party:0 "노동조합 통일연맹"
 CSA_totalist_syndicalism_party_long:0 "노동조합 통일연맹"
 CSA_syndicalist_syndicalism_party:0 "세계산업노동자동맹"
-CSA_syndicalist_party_syndicalism_long:0 "세계산업노동자동맹"
-CSA_syndicalist_syndicalism_party_abbrev:0 "IWW"
+CSA_syndicalist_party_syndicalism_long:0 "세계산업노동자연맹"
+CSA_syndicalist_syndicalism_party_abbrev:0 "세계산업노동자연맹"
 CSA_radical_socialist_syndicalism_party:0 "미국 노동자협회"
 CSA_radical_socialist_syndicalism_party_long:0 "미국 노동자협회"
-CSA_radical_socialist_syndicalism_party_abbrev:0 "AFL"
+CSA_radical_socialist_syndicalism_party_abbrev:0 "미국 노동자협회"
 
 CSA_totalist_federalist_party:0 "혁명노동전위당"
 CSA_totalist_federalist_party_long:0 "혁명노동전위당"
 CSA_syndicalist_federalist_party:0 "사회노동당"
 CSA_syndicalist_federalist_party_long:0 "사회노동당"
-CSA_syndicalist_federalist_party_abbrev:0 "SLP"
+CSA_syndicalist_federalist_party_abbrev:0 "사회노동당"
 CSA_radical_socialist_federalist_party:0 "미국 사회당"
 CSA_radical_socialist_federalist_party_long:0 "미국 사회당"
-CSA_radical_socialist_federalist_party_abbrev:0 "SPA"
+CSA_radical_socialist_federalist_party_abbrev:0 "미국 사회당"
 
 ### Cosmetic Tag ###
 
@@ -463,7 +463,8 @@ CSA_the_pacific_desc:0 "우리 해군은 일본 제국에 대항해서 태평양
 CSA_fuel_for_the_fire:0 "혁명을 위한 석유"
 CSA_fuel_for_the_fire_desc:0 "혁명에 하는데 석유가 부족하다고요? 더 이상은 그러지 않을 겁니다. [ROOT.GetNameDef]는 인터네셔널이 요구하는 가솔린 요구량보다 더 많은 석유를 생산 할 수 있으니깐요."i
 CSA_synthetic_rubber_experiments:0 "합성고무 실험"
-CSA_synthetic_rubber_experiments_desc:0 "With Asia in imperialist hands we are forced to come up with a substitute for the vital resource that is rubber, seeking to produce synethic alternatives. While we're pretty sure we've got something, further testing is needed."### Foreign Policy ###
+CSA_synthetic_rubber_experiments_desc:0 "With Asia in imperialist hands we are forced to come up with a substitute for the vital resource that is rubber, seeking to produce synethic alternatives. While we're pretty sure we've got something, further testing is needed."
+### Foreign Policy ###
 CSA_back_in_business:0 "다음 단계"
 CSA_back_in_business_desc:0 "마침내 승리를 이룩하면서, 미국은 이제 생디칼리즘 혁명의 선두에 서게 되었습니다. 이제 우리는 무엇을 해야 할까요?"
 CSA_good_soldier:0 "좋은 생디칼리스트 군인"
@@ -500,7 +501,7 @@ csa.1.d:0 "오늘 국가 전역에서 대표단들이 새롭고 더 나은 미�
 csa.1.a:0 "구질서에 충성을 맹세한 집단은 참가할 수 없다!"
 
 csa.2.t:0 "사회주의 헌법 - 정부 체계"
-csa.2.d:0 "AFL의 등장은 일방적인 IWW의 승리가 예상되었던 회의에 돌풍을 일으켰습니다. 이제 쉽게 해결될 것이라고 예상된 새로운 입법부 문제는 이제 논쟁의 대상이 되었습니다. 먼저 IWW 대표단들은 미국은 아나코-생디칼리즘적 정부 체제가 되어야 한다고 주장하며 모든 입법부가 산업 노조들의 연장선이 되어야 하며, 이러한 노동조합들은 조합비를 폐지하고 지속적인 선거를 통해 대표를 선출해야 한다고 주장합니다. 반대로 AFL은 미국은 사회주의 국가가 되어야 한다고 주장하며 전문 노동자 의회가 입법부가 되어야 한다고 주장합니다.  또한 연공 서열을 통해 노동조합 대표를 선출해야 한다고 주장하며 완전한 조합 투표권은 오직 조합에 오랫동안 봉사하고 몇 년동안 회비를 지불한 노동자에게 주어야 한다고 주장합니다. TUUL을 대표하는 월리엄 포스터는 IWW에 우호적인 입장을 표명하며 “연공서열과 회비는 뇌물과 다를게 없으며, 생디칼리즘의 전위대들은 이를 지지할 수 없다”고 감명깊은 연설을 했습니다. 또한 만약 IWW의 주장을 관철시키기 위해 TUUL은 IWW을 적극적으로 지원 할 의사가 있다고 밝혔습니다.“ 
+csa.2.d:0 "미국 노동자협회의 등장은 일방적인 세계산업노동자연맹의 승리가 예상되었던 회의에 돌풍을 일으켰습니다. 이제 쉽게 해결될 것이라고 예상된 새로운 입법부 문제는 이제 논쟁의 대상이 되었습니다. 먼저 IWW 대표단들은 미국은 아나코-생디칼리즘적 정부 체제가 되어야 한다고 주장하며 모든 입법부가 산업 노조들의 연장선이 되어야 하며, 이러한 노동조합들은 조합비를 폐지하고 지속적인 선거를 통해 대표를 선출해야 한다고 주장합니다. 반대로 AFL은 미국은 사회주의 국가가 되어야 한다고 주장하며 전문 노동자 의회가 입법부가 되어야 한다고 주장합니다.  또한 연공 서열을 통해 노동조합 대표를 선출해야 한다고 주장하며 완전한 조합 투표권은 오직 조합에 오랫동안 봉사하고 몇 년동안 회비를 지불한 노동자에게 주어야 한다고 주장합니다. TUUL을 대표하는 월리엄 포스터는 IWW에 우호적인 입장을 표명하며 “연공서열과 회비는 뇌물과 다를게 없으며, 생디칼리즘의 전위대들은 이를 지지할 수 없다”고 감명깊은 연설을 했습니다. 또한 만약 IWW의 주장을 관철시키기 위해 TUUL은 IWW을 적극적으로 지원 할 의사가 있다고 밝혔습니다.“ 
 csa.2.a:0 "인민들은 노조위원회를 통해 국가 권력을 행사한다."
 csa.2.b:0 "인민들은 노동자의회를 통해 권력을 행사한다."
 CSA_totalists_gain_power:0 "이 회의에서 §Y전체주의자§!가 힘을 얻을 것입니다.\n"
