@@ -1,10 +1,10 @@
 l_english:
 
 ### Parties ###
-BAV_totalist_party:0 "사회주의 인민전선"
-BAV_totalist_party_long:0 "사회주의 인민전선"
-BAV_radical_socialist_party:0 "극단주의 농민연합"
-BAV_radical_socialist_party_long:0 "극단주의 농민연합"
+BAV_totalist_party:0 "사회주의인민전선"
+BAV_totalist_party_long:0 "사회주의인민전선"
+BAV_radical_socialist_party:0 "극단주의농민연합"
+BAV_radical_socialist_party_long:0 "극단주의농민연합"
 BAV_syndicalist_party:0 "인터내셔널 남독일 지부"
 BAV_syndicalist_party_long:0 "인터내셔널 남독일 지부"
 BAV_social_democrat_party:0 "독일 사회민주당"
