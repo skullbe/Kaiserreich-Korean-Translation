@@ -72,11 +72,11 @@ SIC_elections:0 "1937년 총선이 끝나다"
 SIC_elections_SD:0 "기독민주당의 선거 승리"
 SIC_elections_SL:0 "대중민주당의 선거 승리"
 SIC_elections_SC:0 "기독교 민주주의의 선거 승리"
-SIC_elections_NP:0 "시칠리아 통합주의의 선거 승리"
+SIC_elections_NP:0 "시칠리아 통일주의당의 선거 승리"
 SIC_owns_italy:0 "해방된 북부"
 SIC_confed:0 "구질서의 복원"
 SIC_empire:0 "이탈리아여 전진하라!"
-SIC_the_organic_kingdom_established:0 "인테그랄리즘이 지배하다"
+SIC_the_organic_kingdom_established:0 "통일주의가 지배하다"
 SIC_democracy_prevails:0 "왕국에서 민주주의가 승리하다"
 SIC_italian_empire_founded:0 "이탈리아 제국이 선포되다"
 
@@ -126,8 +126,8 @@ SIC_authoritarian_democrat_party:0 "농민당"
 SIC_authoritarian_democrat_party_long:0 "농민당"
 SIC_paternal_autocrat_party:0 "부르봉-나폴리 왕조"
 SIC_paternal_autocrat_party_long:0 "부르봉-나폴리 왕조"
-SIC_national_populist_party:0 "시칠리아 통합주의당"
-SIC_national_populist_party_long:0 "시칠리아 통합주의당"
+SIC_national_populist_party:0 "시칠리아 통일주의당"
+SIC_national_populist_party_long:0 "시칠리아 통일주의당"
 
 ### Cosmetic Tags ###
 #IES_social_democrat:0 "이탈리아 제국" all defined above
@@ -343,7 +343,7 @@ SIC_politics_desc:0 "Sicily will stand tall to the Red Tide. Every single person
 ### Events ###
 
 sic.1.t:0 "1936년의 양시칠리아 왕국"
-sic.1.d:0 "나폴레옹 전쟁 이후 기존의 두 왕국 - 나폴리와 시칠리아가 합쳐지며 양시칠리아 왕국이 탄생했고, 이 왕국은 샤르데냐가 이탈리아를 자신의 통치하에 통일되도록 강요했던 1860년까지 존속했습니다. 언제나 일반적으로 농업이 중심이었던 남부는 실질적으로 남부를 개발시키려는 의지가 전혀 없던 사보이 왕가의 치하에서 고통받았고, 가난이 도처에 만연하게 되었습니다.\n\n세계대전이 1914년 시작되며 이탈리아는 협상국을 택했고 더욱 몰락하게 되었습니다. 오스트리아인들은 이탈리아에 대해 승리를 거두자 이탈리아를 수많은 소국으로 쪼갰고 피비린내나는 내전의 잔해에서 양시칠리아가 다시 태어났습니다.\n\n전투가 끝난 이후 왕국은 사보이 왕가가 남긴 심각한 문제를 해결하기 위해 내부적으로 집중했고 정치적으로 성공한 사민주의자들은 왕국을 위한 새로운 길을 개척하는데 노력해왔습니다. 이에 적대하는 '양시칠리아 통합주의자'의 부상은 왕국의 정치에 극단적인 변화의 신호가 될 것입니다.\n\n오직 시간만이 그들이 권력을 거머쥘 지, 민주주의가 승리할 지 말해줄 것입니다."
+sic.1.d:0 "나폴레옹 전쟁 이후 기존의 두 왕국 - 나폴리와 시칠리아가 합쳐지며 양시칠리아 왕국이 탄생했고, 이 왕국은 샤르데냐가 이탈리아를 자신의 통치하에 통일되도록 강요했던 1860년까지 존속했습니다. 언제나 일반적으로 농업이 중심이었던 남부는 실질적으로 남부를 개발시키려는 의지가 전혀 없던 사보이 왕가의 치하에서 고통받았고, 가난이 도처에 만연하게 되었습니다.\n\n세계대전이 1914년 시작되며 이탈리아는 협상국을 택했고 더욱 몰락하게 되었습니다. 오스트리아인들은 이탈리아에 대해 승리를 거두자 이탈리아를 수많은 소국으로 쪼갰고 피비린내나는 내전의 잔해에서 양시칠리아가 다시 태어났습니다.\n\n전투가 끝난 이후 왕국은 사보이 왕가가 남긴 심각한 문제를 해결하기 위해 내부적으로 집중했고 정치적으로 성공한 사회민주주의자들은 왕국을 위한 새로운 길을 개척하는데 노력해왔습니다. 이에 적대하는 '양시칠리아 통일주의자'의 부상은 왕국의 정치에 극단적인 변화의 신호가 될 것입니다.\n\n오직 시간만이 그들이 권력을 거머쥘 지, 민주주의가 승리할 지 말해줄 것입니다."
 sic.1.a:0 "국왕 폐하 만세!"
 
 sic.2.t:0 "검은 월요일이 왕국을 강타하다"
@@ -385,7 +385,7 @@ sic.10.d:0 "[GetYear]년 선거는 이제 우리 손에 달려 있으며 올해�
 sic.10.a:0 "기독민주당"
 sic.10.b:0 "대중민주당"
 sic.10.c:0 "기독교 민주주의"
-sic.10.e:0 "시칠리아 통합주의"
+sic.10.e:0 "시칠리아 통일주의당"
 
 sic.11.t:0 "Sicilian Welfare Act of [GetYear]"
 sic.11.d:0 "With Black Monday over, a number of ministers from the Social Democratic Partito Cristiano Democratico have proposed a plan for an extensive welfare system. However, such a move seems to many as not dissimilar to syndicalism. Thus a more moderate form has been proposed as a counter by the Partito Popolare Demoractico, which has some attraction even among some of the conservatives. However, the remainder of the conservative faction believes we should not implement any sort of socialist or syndicalist reforms in our country, which is clearly what this is."
@@ -424,7 +424,7 @@ sic.18.d:0 ""
 sic.18.a:0 ""
 
 sic.19.t:0 "검은셔츠단의 종식"
-sic.19.d:0 "왕국의 안정성은 최근 몇 년 동안 검은셔츠단(Camicie Nere)에 의해 약화 되었지만, 오늘 그들은 마침내 해산했습니다. 아직 통합주의는 사라지지 않았지만 그들의 준군사 세력은 사라졌고 우리는 한숨 돌릴 수 있을 것입니다."
+sic.19.d:0 "왕국의 안정성은 최근 몇 년 동안 검은셔츠단(Camicie Nere)에 의해 약화 되었지만, 오늘 그들은 마침내 해산했습니다. 아직 통일주의는 사라지지 않았지만 그들의 준군사 세력은 사라졌고 우리는 한숨 돌릴 수 있을 것입니다."
 sic.19.a:0 "마침내"
 
 sic.20.t:0 "[GetYear]년 선거"
