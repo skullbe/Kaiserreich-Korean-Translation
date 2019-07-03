@@ -370,7 +370,7 @@ AUS_italy_peaceful:0 "이탈리아와의 유대"
 AUS_italy_peaceful_desc:0 "합스부르크-로렌의 토스카니 분파는 이탈리아 문화와 현재의 정치 상황에 잘 통합되어 있으며, 이탈리아의 새로운 왕으로서 그 중 하나를 옹립함으로써 우리와 우호 관계를 맺을 수 있는 길을 열 수 있고, 이들은 지중해에 대한 프랑스의 야망에 대비한 완충지로서 유용할 수 있습니다."
 
 AUS_italy_military:0 "이탈리아 점령"
-AUS_italy_military_desc:0 "수년간의 민족주의와 생디칼리즘의 새로운 움직임에 휩쓸린 이탈리아인이 외교적으로 우리의 점령을 받아 들일리가 없습니다. 프랑스의 위협으로부터 이탈리아 반도를 안전하게 지키는 유일한 방법은 군대 점령을 통해서이며, 이는 지금의 제국은 세계 대전 동안의 오스트리아와는 동일하지 않다는 것을 이탈리아인들에게 알려줄 것입니다. "
+AUS_italy_military_desc:0 "수년간의 국민주의와 생디칼리즘의 새로운 움직임에 휩쓸린 이탈리아인이 외교적으로 우리의 점령을 받아 들일리가 없습니다. 프랑스의 위협으로부터 이탈리아 반도를 안전하게 지키는 유일한 방법은 군대 점령을 통해서이며, 이는 지금의 제국은 세계 대전 동안의 오스트리아와는 동일하지 않다는 것을 이탈리아인들에게 알려줄 것입니다. "
 
 AUS_unify_italy:0 "이탈리아 통일"
 AUS_unify_italy_desc:0 "토리노에서의 이탈리아 생디칼리스트의 부상은 프랑스의 지원을 받는 서부의 이탈리아의 사회주의 공화국과, 우리 국경과 접해있는 이탈리아 공화국으로 나누게 하였습니다. 독일과 프랑스가 공개적으로 적대적인 태도를 유지하는 가운데, 후자를 돕는 것은 우리에 대한 그들의 우호를 얻을 뿐만 아니라, 프랑스와 전쟁에 대비해 우리의 측면을 안전하게 보호할 수 있습니다."
@@ -490,7 +490,7 @@ AUS_austro-marxism_desc:0 "제국의 옛 국경과 옛 행정부는 불합리하
 #The Austromarxist principle of National Personal Autonomy describes a way of gathering the geographically divided members of the same nation to "organize nations not in territorial bodies but in simple association of persons", thus radically disjoining the nation from the territory and making of the nation a non-territorial association."
 
 AUS_united_states:0 "동등한 동맹"
-AUS_united_states_desc:0 "대 오스트리아 합중국(Vereinigte Staaten von Groß-Österreich)은 오스트리아의 프란츠 페르디난트 대공을 둘러싼 한 그룹의 학자들에 의해 고안된 제안이었습니다. 이 제안은 1906년 변호사이자 정치가인 아우렐 포포비치에 의해 고안되었고, 오스트리아 - 헝가리를 연방화하여 광범위한 민족주의적 긴장을 해결할 수 있는 데에 집중했습니다."
+AUS_united_states_desc:0 "대 오스트리아 합중국(Vereinigte Staaten von Groß-Österreich)은 오스트리아의 프란츠 페르디난트 대공을 둘러싼 한 그룹의 학자들에 의해 고안된 제안이었습니다. 이 제안은 1906년 변호사이자 정치가인 아우렐 포포비치에 의해 고안되었고, 오스트리아 - 헝가리를 연방화하여 광범위한 국민주의적 긴장을 해결할 수 있는 데에 집중했습니다."
 
 AUS_decentralised_development_scheme:0 "분산된 개발 계획"
 AUS_decentralised_development_scheme_desc:0 "이제 더이상 우리가 지배하면서 얻는 이익이 당연하다고 주장할 수 없습니다. 우리는 개발을 지원하는 새로운 계획으로 국가의 모든 구성원들의 충성을 확보해야 합니다. 우리의 부의 결실은 모두에게 분배되어야 합니다."
@@ -570,12 +570,12 @@ AUS_potb_invite_bulgaria:0 "불가리아의 옛 친구들"
 AUS_potb_invite_bulgaria_desc:0 "불가리아의는 지난 전쟁에서 우리가 세르비아의 저항을 억제하는데 도움을 주었고, 적어도 우리는 그렇게 생각합니다. 전쟁 후 중앙집권체제의 붕괴는 세르비아인들이 우리의 손아귀에서 벗어나게 해주었습니다. 불가리아는 다시 한번 발칸반도의 평화와 안정을 회복하는 열쇠입니다."
 
 ### Parties ###
-AUS_totalist_party:0 "전체주의 인민 회의"
-AUS_totalist_party_long:0 "전체주의 인민 회의"
-AUS_syndicalist_party:0 "사회주의 노동자 평의회"
-AUS_syndicalist_party_long:0 "사회주의 노동자 평의회"
-AUS_radical_socialist_party:0 "2½ 인터내셔널"
-AUS_radical_socialist_party_long:0 "사회주의 노동동맹"
+AUS_totalist_party:0 "전체주의인민회의"
+AUS_totalist_party_long:0 "전체주의인민회의"
+AUS_syndicalist_party:0 "사회주의노동자평의회"
+AUS_syndicalist_party_long:0 "사회주의노동자평의회"
+AUS_radical_socialist_party:0 "2½인터내셔널"
+AUS_radical_socialist_party_long:0 "사회주의노동동맹"
 AUS_social_democrat_party:0 "사회민주노동자당"
 AUS_social_democrat_party_long:0 "사회민주노동자당"
 AUS_social_liberal_party:0 "자유운동"
@@ -732,7 +732,7 @@ austria.22.b:0 "전쟁이다."
 
 ### Racial tensions ###
 austria.25.t:0 "신 제국의 민족 갈등"
-austria.25.d:0 "새로운 오스트리아 제국의 성립 이후 새로 정복된 지역들에서 민족주의 운동이 발생하고 있습니다. 헝가리와 보헤미아는 특히 강한 민족주의 운동의 고향입니다. 우리의 새로운 속국 중 상당수는 단일 오스트리아 제국으로 통합되는 것을 그다지 달가워하지 않습니다."
+austria.25.d:0 "새로운 오스트리아 제국의 성립 이후 새로 정복된 지역들에서 국민주의 운동이 발생하고 있습니다. 헝가리와 보헤미아는 특히 강한 국민주의 운동의 고향입니다. 우리의 새로운 속국 중 상당수는 단일 오스트리아 제국으로 통합되는 것을 그다지 달가워하지 않습니다."
 austria.25.a:0 "그들은 적응해야 할 것이다."
 
 austria.26.t:0 "민족 갈등이 확대되다"
@@ -867,7 +867,7 @@ ausgleich.new.208.d:0 "우리 대사가 자그레브에서 돌아왔고, 일리�
 ausgleich.new.208.a:0 "좋군."
 
 ausgleich.new.211.t:0 "슬로바키아인과 루마니아인이 대타협에 초대되다"
-ausgleich.new.211.d:0 "빈의 중앙정부가 제국의 체코인, 폴란드인 및 다른 민족을 협상 테이블에 초대한 것만으로도 모자라, 전국의 모든 민족 공동체를 초대한 것 같습니다. \n\n카르파티아 분지에 있는 슬로바키아인과 루마니아인들은 수세기 동안 잠자코 굴복해왔지만, 빈이, 황제가, 그들의 민족주의 운동을 잠에서 깨웠습니다."
+ausgleich.new.211.d:0 "빈의 중앙정부가 제국의 체코인, 폴란드인 및 다른 민족을 협상 테이블에 초대한 것만으로도 모자라, 전국의 모든 민족 공동체를 초대한 것 같습니다. \n\n카르파티아 분지에 있는 슬로바키아인과 루마니아인들은 수세기 동안 잠자코 굴복해왔지만, 빈이, 황제가, 그들의 국민주의 운동을 잠에서 깨웠습니다."
 ausgleich.new.211.a:0 "무례하다!"
 
 ausgleich.new.212.t:0 "대타협 초대장"
@@ -922,7 +922,7 @@ ausgleich.new.304.a:0 "헝가리 없이 협상할 것이 있나?"
 
 
 ausgleich.new.310.t:0 "헝가리 대표단의 연설"
-ausgleich.new.310.d:0 "협상 첫번째 날, 연설이 있었습니다. 한 헝가리 정치인이 다음과 같이 말했습니다 : \n\n"오스트리아-헝가리 제국을 자랑스럽게 생각하지 않는 것인가? 지금까지 수십 년 동안 빈에서는 이미 완벽한 것을 고치려고 안간힘을 쓰고 있다. 오스트리아-헝가리는 함께 미래의 세계에서 중요한 역할을 할 것이며, 함께 우리를 위대하게 만들 것이다." \n\n카를 황제의 연방화 계획이 실수였다고 암시하는 그의 발언에 나머지 헝가리 대표단이 눈에 띄게 당황했지만, 그는 박수의 부재에도 불구하고 오히려 기뻐 보였습니다."
+ausgleich.new.310.d:0 "협상 첫 번째 날, 연설이 있었습니다. 한 헝가리 정치인이 다음과 같이 말했습니다 : \n\n"오스트리아-헝가리 제국을 자랑스럽게 생각하지 않는 것인가? 지금까지 수십 년 동안 빈에서는 이미 완벽한 것을 고치려고 안간힘을 쓰고 있다. 오스트리아-헝가리는 함께 미래의 세계에서 중요한 역할을 할 것이며, 함께 우리를 위대하게 만들 것이다." \n\n카를 황제의 연방화 계획이 실수였다고 암시하는 그의 발언에 나머지 헝가리 대표단이 눈에 띄게 당황했지만, 그는 박수의 부재에도 불구하고 오히려 기뻐 보였습니다."
 ausgleich.new.310.a:0 "얼마나 무례한가."
 ausgleich.new.310.b:0 "그를 협상장에서 추방하라."
 ausgleich.new.310.c:0 "그가 옳다. 그렇지 않나?"
@@ -1133,15 +1133,15 @@ ausgleich.new.355.t:0 "대타협의 대표단이 돌아왔습니다"
 ausgleich.new.356.t:0 "대타협의 결과: 바치카 양도"
 ausgleich.new.357.t:0 "대타협의 대표단이 귀환하다"
 
-ausgleich.new.360.t:0 "슬로바키아와 루마니아 민족주의"
+ausgleich.new.360.t:0 "슬로바키아와 루마니아 국민주의"
 ausgleich.new.360.d:0 "오스트리아 정부가 대타협의 재협상 기간에 그들에게 행한 지원에 고무되어 슬로바키아와 루마니아인들은 친오스트리아를 외치며 거리를 행진하고 있지만, 반오스트리아계가 항의하고 있습니다."
 ausgleich.new.360.a:0 "그들을 탄압해라."
 
-ausgleich.new.361.t:0 "슬로바키아 민족주의"
+ausgleich.new.361.t:0 "슬로바키아 국민주의"
 ausgleich.new.361.d:0 "오스트리아 정부가 대타협의 재협상 기간에 그들에게 행한 지원에 고무되어 슬로바키아인들은 친오스트리아를 외치며 거리를 행진하고 있지만, 반오스트리아계가 항의하고 있습니다."
 ausgleich.new.361.a:0 "그들을 탄압해라."
 
-ausgleich.new.362.t:0 "루마니아 민족주의"
+ausgleich.new.362.t:0 "루마니아 국민주의"
 ausgleich.new.362.d:0 "오스트리아 정부가 대타협의 재협상 기간에 그들에게 행한 지원에 고무되어 루마니아인들은 친오스트리아를 외치며 거리를 행진하고 있지만, 반오스트리아계가 항의하고 있습니다."
 ausgleich.new.362.a:0 "그들을 탄압해라."
 
