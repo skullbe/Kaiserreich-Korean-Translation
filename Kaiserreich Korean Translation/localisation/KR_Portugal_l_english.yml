@@ -345,14 +345,14 @@ POR_carrier_groups_2_desc:0 "Training naval aircraft pilots to take off and land
 #POR_secret_police:0 "Polícia Internacional e de Defesa do Estado" already defined above as an idea
 
 ### Parties ###
-POR_totalist_party:0 "포르투갈 최대주의자연합"
-POR_totalist_party_long:0 "포르투갈 최대주의자연합"
-POR_syndicalist_party:0 "노동자총연맹"
-POR_syndicalist_party_long:0 "노동자총연맹"
-POR_radical_socialist_party:0 "포르투갈 아나키스트연합"
-POR_radical_socialist_party_long:0 "포르투갈 아나키스트연합"
-POR_paternal_autocrat_party:0 "포르투갈 현실적인행동"
-POR_paternal_autocrat_party_long:0 "포르투갈 현실적인행동"
+POR_totalist_party:0 "포르투갈 최대주의자 연합"
+POR_totalist_party_long:0 "포르투갈 최대주의자 연합"
+POR_syndicalist_party:0 "노동총연맹"
+POR_syndicalist_party_long:0 "노동총연맹"
+POR_radical_socialist_party:0 "포르투갈 아나키스트 연합"
+POR_radical_socialist_party_long:0 "포르투갈 아나키스트 연합"
+POR_paternal_autocrat_party:0 "포르투갈 현실주의 행동당"
+POR_paternal_autocrat_party_long:0 "포르투갈 현실주의 행동당"
 POR_national_populist_party:0 "루시탄 통일주의"
 POR_national_populist_party_long:0 "루시탄 통일주의"
 POR_social_liberal_party:0 "민주당"
@@ -363,8 +363,8 @@ POR_social_democrat_party:0 "민주좌파공화당"
 POR_social_democrat_party_long:0 "민주좌파공화당"
 POR_social_conservative_party:0 "국민공화당"
 POR_social_conservative_party_long:0 "국민공화당"
-POR_authoritarian_democrat_party:0 "CNA"
-POR_authoritarian_democrat_party_long:0 "Cruzada Nun'Álvares"
+POR_authoritarian_democrat_party:0 "누누 알바레스 십자군"
+POR_authoritarian_democrat_party_long:0 "누누 알바레스 십자군"
 
 ### Events ###
 cog.1.t:0 "Portuguese Demand the Manikong to Bend the Knee"
