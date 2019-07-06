@@ -86,7 +86,7 @@ mosley_chairman:0 "오스왈드 모즐리가 의장임"
 ENG_will_become_GBR:0 "§Y[GBR.GetNameDefCap]§!이 만들어질 것입니다."
 
 PWH2:0 "제2차 명예로운 평화가 서명됨"
-WK2W:0 "제2차 세계 대전에서 승리함"
+WK2W:0 "제2차 세계대전에서 승리함"
 tuc2_eco:0 "Voted on Exchequer"
 tuc2_for:0 "Voted on Commissary for Foreign Affairs"
 tuc2_int:0 "Voted on Commissary for the Home Department"
@@ -218,7 +218,7 @@ ENG_battle_ground_support_desc:0 "사회주의는 모든 사람들의 이익을 
 ENG_rule_the_sky:0 "하늘을 지배하다"
 ENG_rule_the_sky_desc:0 "항공 우위는 군 작전의 유연성을 허용하고, 보병에게 갑작스런 적의 공습을 두려워 할 필요가없는 마음의 평화를 제공합니다. 따라서 하늘의 통제가 공군의 기본 지침이되어야 합니다."
 ENG_air_observer_corps:0 "항공 관측소"
-ENG_air_observer_corps_desc:0 "런던은 독일 비행선에 의해 세계 대전에 걸쳐 공포에 떨게 되었지만,이 습격으로 인한 피해는 상대적으로 적습니다. 그러나 그 이후로 항공기의 범위와 탑재량이 크게 증가했습니다. 위협에 대처하기 위해 우리는 적의 비행기가 우리의 요격기와 대공 방어 팀을 예고하기 위해 경계심을 갖고 보이는 자원 봉사 단체를 창설해야합니다."
+ENG_air_observer_corps_desc:0 "런던은 독일 비행선에 의해 세계대전에 걸쳐 공포에 떨게 되었지만,이 습격으로 인한 피해는 상대적으로 적습니다. 그러나 그 이후로 항공기의 범위와 탑재량이 크게 증가했습니다. 위협에 대처하기 위해 우리는 적의 비행기가 우리의 요격기와 대공 방어 팀을 예고하기 위해 경계심을 갖고 보이는 자원 봉사 단체를 창설해야합니다."
 ENG_expand_air_unions:0 "에어 유니온 확장"
 ENG_expand_air_unions_desc:0 "우리의 비행장 확대 프로그램은 공화 공군의 확장에 큰 도움이되었지만 상당한 행정 부담으로 판명되었습니다. 이제 공군력이 확립되면서 에어 유니온 (Air Union) 프로그램이 확장 될 수 있습니다."
 
@@ -1377,7 +1377,7 @@ uobflavour.26.a:0 "The way forward is together!"
 uobflavour.26.b:0 "We don't need centralisation for centralisation's sake..."
 
 uobflavour.27.t:0 "수정궁 재건"
-uobflavour.27.d:0 "Built as a display hall for the Great Exhibition of 1844, the Crystal Palace was a cast-iron and plate-glass marvel of the old British Empire. During the 세계 대전, it was transformed into the Royal Navy training station HMS Victory VI. As a result, it became one of the last holdouts of royalists in London, and was destroyed by fire during the Revolution. The gutted skeleton of the building has been left to rot over the last ten years as London worked on its industry and defences. A proposal has been put forward to rebuild the Crystal Palace as an exhibition hall where the men and women of the International will display their industrial and cultural products as equals, not as imperial trophies. However, it would be an expensive undertaking to get it ready in time for next year, and a large part of the Congress advocates simply tearing the ruins down and expanding the surrounding parkland."
+uobflavour.27.d:0 "Built as a display hall for the Great Exhibition of 1844, the Crystal Palace was a cast-iron and plate-glass marvel of the old British Empire. During the 세계대전, it was transformed into the Royal Navy training station HMS Victory VI. As a result, it became one of the last holdouts of royalists in London, and was destroyed by fire during the Revolution. The gutted skeleton of the building has been left to rot over the last ten years as London worked on its industry and defences. A proposal has been put forward to rebuild the Crystal Palace as an exhibition hall where the men and women of the International will display their industrial and cultural products as equals, not as imperial trophies. However, it would be an expensive undertaking to get it ready in time for next year, and a large part of the Congress advocates simply tearing the ruins down and expanding the surrounding parkland."
 uobflavour.27.a:0 "노동자들의 전당을 짓자!"
 uobflavour.27.b:0 "인민들을 위한 공원으로 바꿔라!"
 
