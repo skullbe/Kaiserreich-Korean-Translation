@@ -1,8 +1,8 @@
 l_english:
 
 ### Parties ###
-FLN_social_conservative_party:0 "가톨릭 연합"
-FLN_social_conservative_party_long:0 "가톨릭 연합"
+FLN_social_conservative_party:0 "가톨릭 블록"
+FLN_social_conservative_party_long:0 "가톨릭 블록"
 FLN_market_liberal_party:0 "자유당"
 FLN_market_liberal_party_long:0 "자유당"
 FLN_social_democrat_party:0 "플랜더스 노동당"
@@ -19,8 +19,8 @@ FLN_paternal_autocrat_party:0 "플랜더스 의회"
 FLN_paternal_autocrat_party_long:0 "플랜더스 의회"
 FLN_authoritarian_democrat_party_long:0 "임시정부"
 FLN_authoritarian_democrat_party:0 "임시정부"
-Loyalists_party_long:0 "왕당파"
-Loyalists_party:0 "왕당파"
+Loyalists_party_long:0 "충성파"
+Loyalists_party:0 "충성파"
 
 fln.TRA.tt:0 "The Transitional Government will lead Flanders until the integration is finished"
 
