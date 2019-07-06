@@ -407,7 +407,7 @@ BEL_Antwerpse_Raffinage_desc:0 "Large amounts of oil already reach our shores, b
 BEL_Uranium_Mining:0 "우라늄 연구"
 BEL_Uranium_Mining_desc:0 "After the importance of radioactive materials was discovered and proven at the Fifth Solvay Congress, our government has used its influence in Union Minière in Congo to lay hands on its very own uranium."
 
-BEL_Rely_on_the_Kriegsmarine:0 "크릭스마리네에 의존"
+BEL_Rely_on_the_Kriegsmarine:0 "전쟁 해군에 의존"
 BEL_Rely_on_the_Kriegsmarine_desc:0 "With the Kriegsmarine as the dominant naval force of the Reichspakt, our government sees no reason in spending much of our hard pressed reserves on expanding the fleet. While modernizations could be in order, the focus should be defending our shores instead of a large naval expedition force."
 BEL_Land_Based_Support:0 "플랜더스 해안 요새화"
 BEL_Land_Based_Support_desc:0 "Bunkers on the Flemish coastline and artillery batteries in key location should prove more than effective to deter foreign invasions by sea."
@@ -419,7 +419,7 @@ BEL_Submarine_Program:0 "잠수함 계획"
 BEL_Submarine_Program_desc:0 "Our navy is solely based on old surface ships which are incapable of competing with the large fleets of our enemies. Therefore plans have been drawn up to instead delegate resources to a submarine program to guard our coastline."
 BEL_Patrol_the_Coast:0 "해안 순찰"
 BEL_Patrol_the_Coast_desc:0 "Our coastline is small but densely populated and easily taken by naval invasion. To guard us from this danger, troops and resources have been further shifted to this front to prevent collapse of the Western Front."
-BEL_Train_with_the_Kaiserliche_Marine:0 "크릭스마리네와의 훈련"
+BEL_Train_with_the_Kaiserliche_Marine:0 "전쟁 해군과의 훈련"
 BEL_Train_with_the_Kaiserliche_Marine_desc:0 "Since our navy is mostly just a subdivision of the German Kriegsmarine, it only makes sense that all fleet exercises are done in cooperation with the German branch."
 
 BEL_Fleet_of_our_own:0 "우리의 함대"
