@@ -1,7 +1,7 @@
 l_english:
 
 ### Ideas ###
-SER_jingoism:0 "대외 강경적인 영토주장"
+SER_jingoism:0 "대외 강경적인 영토 주장"
 SER_jingoism_desc:0 "세르비아는 세계대전에서 패했으며 작은 소국으로 전락했습니다. 정부는 고토를 되찾아서 모든 세르비아인들이 세르비아에서 살 수 있도록 강경한 태도를 보이고 있습니다. 이에, 국가는 매우 군사화되어있습니다."
 SER_army_command:0 "군사회된 사회" 
 SER_army_command_desc:0 "세르비아 정부는 강력한 군대의 필요성을 느끼고 있습니다. 군대는 그 무엇보다도 가치가 있기에, 효과적인 군 지휘체계를 갖추고 있습니다."
@@ -14,7 +14,7 @@ SER_free_society_idea_desc:0 "새로운 세르비아는 모두가 자유롭게 �
 SER_science_idea:0 "과학기술 연구"
 SER_science_idea_desc:0 "새로운 민주주의 정권은 R&D에 대한 더 큰 투자의 필요성을 인식하고 있습니다."
 SER_beacon_of_liberty:0 "자유의 횃불"
-SER_beacon_of_liberty_desc:0 "세르비아는 민주공화국입니다, 발칸반도의 진정한 자유를 상징합니다."
+SER_beacon_of_liberty_desc:0 "세르비아는 민주 공화국입니다, 발칸반도의 진정한 자유를 상징합니다."
 SER_patriotic_spirit_idea:0 "애국 정신"
 SER_patriotic_spirit_idea_desc:0 "모든 세르비아인은 애국심이 강하며 국가를 위해 싸울 것입니다!"
 SER_mobilisation_of_the_masses_idea:0 "대중 동원"
@@ -22,7 +22,7 @@ SER_mobilisation_of_the_masses_idea_desc:0 "미하일로비치 장군의 전략 
 SER_bunker_focus_idea:0 "벙커 중점"
 SER_building_ships_faster:0 "조선소 중점"
 SER_building_ships_faster_desc:0 "우리의 자원을 집중함으로써 신속하게 함선을 건조할 수 있습니다."
-SER_ship_research:0 "자금지원된 해군 연구"
+SER_ship_research:0 "자금 지원된 해군 연구"
 SER_occupation_of_bulgaria_idea:0 "불가리아 점령"
 SER_occupation_of_bulgaria_idea_desc:0 "불가리아인들이 반발하고 있기 때문에 불가리아 점령에는 많은 비용이 들어갑니다."
 
@@ -103,7 +103,7 @@ SER_develop_macedonia:0 "마케도니아 개발"
 SER_develop_macedonia_desc:0 "Now that Macedonia is finally back in our hands, we need to develop its industry."
 
 ### Expansion ###
-SER_greater_serbia:0 "대 세르비아"
+SER_greater_serbia:0 "대세르비아"
 SER_greater_serbia_desc:0 "Our regime is established, and we can now begin to consider our stance with regard to the rest of the world. We can once again pursue the Greater Serbia policy - to enlarge Serbia with territories containing Serbian populations, which is greatly popular in political and military circles."
 SER_slavic_federation:0 "슬라브 연합"
 SER_slavic_federation_desc:0 "Our regime is established, and we can now begin to consider our stance with regard to the rest of the world. We can try to create a Slavic Federation, uniting all Slavs on the Balkans in one state for Serbs, Croats and Slovenes."
@@ -225,8 +225,8 @@ SER_syndicalist_party:0 "사회주의 노동당 (생디칼리즘)"
 SER_syndicalist_party_long:0 "사회주의 노동당 (생디칼리즘)"
 SER_radical_socialist_party:0 "사회주의 노동당"
 SER_radical_socialist_party_long:0 "사회주의 노동당"
-SER_social_democrat_party:0 "인민사회주의당"
-SER_social_democrat_party_long:0 "인민사회주의당"
+SER_social_democrat_party:0 "인민-사회주의당"
+SER_social_democrat_party_long:0 "인민-사회주의당"
 SER_social_liberal_party:0 "민주당"
 SER_social_liberal_party_long:0 "민주당"
 SER_market_liberal_party:0 "독립민주당"
@@ -250,12 +250,12 @@ SER_YUG_national_populist_party_long:0 "유고슬라비아 인민당"
 
 ### Event text ###
 serbia.1.t:0 "세르비아 왕국"
-serbia.1.d:0 "1914년 세르비아 민족주의자에 의한 페르디난트 대공의 암살은 세계대전을 시작하는 촉매가 되었습니다. 쉬운 전역을 기대했지만 오스트리아 군은 1915년 말에 불가리아 군의 참여 이후에야 세르비아를 점령할 수 있었습니다. 전후, 세르비아의 남쪽 지역은 불가리아에 넘겨졌고 나머지는 1926년까지 오스트리아 치하에 있다가 제국 전역의 민족적 갈등때문에 오스트리아가 군대를 후퇴시켰습니다.\n\n그 이후로 세르비아는 생존하기 위해 투쟁해 왔고 어떠한 군사적 공격도 견뎌낼 수 없다는 점을 고려하여 저자세를 유지했습니다. 하지만 시간이 갈 수록 정부는 반 오스트리아 적으로, 호전적으로 되어갔고 오스트리아를 무찌를 희망이 없다고 느끼자 대신 남쪽으로 눈을 돌려 불가리아에 점유당한 땅에 주목했습니다. 외교적 논의가 지역 내 불가리아 패권주의를 약화시키고자 하는 루마니아와 그리스 정부 사이에서 논의되었고 혹자는 공식적 동맹이 멀지 않았다고들 합니다.\n\n세르비아가 '불가리아 문제'에 대해 승리하는 길로 나갈 수 있을까요? 만약 그렇게 된다면 최종적으로 옛 적 오스트리아를 무찌르고 범 슬라브 연방의 꿈을 실현할 수 있을까요?"
+serbia.1.d:0 "1914년 세르비아 국민주의자에 의한 페르디난트 대공의 암살은 세계대전을 시작하는 촉매가 되었습니다. 쉬운 전역을 기대했지만 오스트리아군은 1915년 말에 불가리아군의 참여 이후에야 세르비아를 점령할 수 있었습니다. 전후, 세르비아의 남쪽 지역은 불가리아에 넘겨졌고 나머지는 1926년까지 오스트리아 치하에 있다가 제국 전역의 민족적 갈등때문에 오스트리아가 군대를 후퇴시켰습니다.\n\n그 이후로 세르비아는 생존하기 위해 투쟁해 왔고 어떠한 군사적 공격도 견뎌낼 수 없다는 점을 고려하여 저자세를 유지했습니다. 하지만 시간이 갈 수록 정부는 반 오스트리아 적으로, 호전적으로 되어갔고 오스트리아를 무찌를 희망이 없다고 느끼자 대신 남쪽으로 눈을 돌려 불가리아에 점유당한 땅에 주목했습니다. 외교적 논의가 지역 내 불가리아 패권주의를 약화시키고자 하는 루마니아와 그리스 정부 사이에서 논의되었고 혹자는 공식적 동맹이 멀지 않았다고들 합니다.\n\n세르비아가 '불가리아 문제'에 대해 승리하는 길로 나갈 수 있을까요? 만약 그렇게 된다면 최종적으로 옛 적 오스트리아를 무찌르고 범슬라브 연방의 꿈을 실현할 수 있을까요?"
 serbia.1.a:0 "세르비아는 다시 위대해질 것이다!"
 
 serbia.2.t:0 "비도프단"
 serbia.2.d:0 "비도프단은 1398년 6월 28일, 오스멘 제국에 대항한 전설적인 코소보 전투에서 진실한 신앙을 지키기 위해 목숨을 바친 성자 라자르와 세르비아 순교자들을 추모하는 하는 날입니다. 세르비아에서는 국경일로 지정되어 기려지고 있습니다."
-serbia.2.a:0 "세르비아는 영웅들을 잊지 않을 것입니다!"
+serbia.2.a:0 "세르비아는 영웅들을 잊지 않을 것이다!"
 
 serbia.3.t:0 "비도프단"
 
@@ -268,7 +268,7 @@ serbia.5.d:0 "세르이바의 합법적인 국왕인 알렉산다르 왕세자�
 serbia.5.a:0 "전제주의는 우리를 계속 강하게 만들 것이다!"
 serbia.5.b:0 "입헌주의가 최선이다."
 
-serbia.6.t:0 "국왕폐하께서 선거를 열었습니다"
+serbia.6.t:0 "국왕 폐하께서 선거를 열었습니다"
 serbia.6.d:0 "After Vojvoda Petar Bojović stepped down as regent in favour of Prince Alexander, the new King of Serbia called for elections to be held in accordance with his wish for a constitutional monarchy. Belgrade is draped in red, white and blue colours as the day of the elections draws nearer."
 serbia.6.a:0 "민주당이 세르비아에 자유 가치를 가져다 줄 것이다."
 serbia.6.b:0 "인민급진당이 압도적인 승리를 거둔다!"
@@ -291,7 +291,7 @@ serbia.9.b:0 "인민급진당이 우세하다."
 serbia.9.c:0 "군대가 이 혼란스러운 민주주의에 종말을 고할 것이다!"
 
 serbia.10.t:0 "국왕 폐하 서거"
-serbia.10.d:0 "우리의 국왕폐하이신 알렉산다르 2세께서 주무시던 중 서거하셨습니다. 추모 주간이 선포되었으며, 폐하의 아드님인 페타르가 왕좌를 물려받았습니다."
+serbia.10.d:0 "우리의 국왕 폐하이신 알렉산다르 2세께서 주무시던 중 서거하셨습니다. 추모 주간이 선포되었으며, 폐하의 아드님인 페타르가 왕좌를 물려받았습니다."
 serbia.10.a:0 "페타르 2세여 만수무강 하소서!"
 
 serbia.11.t:0 "알렉산다르 왕세자 서거"
