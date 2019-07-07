@@ -1,8 +1,8 @@
 l_english:
 
 ###Flags###
-NFA_help_kos:0 "We have supported the legitimate government"
-NFA_help_car:0 "We have supported the Carlists"
+NFA_help_kos:0 "우리는 정통정부를 지원함"
+NFA_help_car:0 "우리는 카를로스 주의파를 지원함"
 
 ### Decisions ###
 NFA_seize_morocco_decisions:0 "모로코 지역 점령"
@@ -15,7 +15,7 @@ NFA_help_spain_decisions:0 "스페인 내전"
 NFA_help_spain_decisions_desc:0 "Spain has wavered on the edge of instability for decades, and now it has finally taken the plunge. On one side, the godless anarchists of the CNT. On another, the Carlist pretenders, supported by our Portuguese Integralist allies, and a likely ally in its turn if it succeeds. And, lastly, the legitimate government of Alfonso XIII, hated by the people but a good friend to the Germans. Which side shall we support?"
 NFA_help_kos:0 "정통정부 지원"
 NFA_help_kos_desc:0 "The only way for Spain to achieve true peace and democracy is through the true government of the Bourbons prevailing."
-NFA_help_car:0 "Support the Carlists"
+NFA_help_car:0 "카를로스 주의파 지원"
 NFA_help_car_desc:0 "The Carlists are the only path Spain has to being made righteous once more. The Portuguese have convinced us this is the right faction to back, and surely, if we support them, they might join our alliance if they succeed?"
 
 ### Parties ###
