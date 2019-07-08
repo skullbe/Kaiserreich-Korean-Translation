@@ -485,11 +485,11 @@ TEX_flexible_bombers:0 "유연한 폭격기 개발"
 TEX_flexible_bombers_desc:0 "Since our air force has the task of supporting the army, the bombers of our force will have to adapt to a variety of roles, both as close air support as well as disrupting enemy supplies and comunications in the rear during a battle and we should encourage the development of planes that may fulfill these roles."
 TEX_combined_arms_offensive:0 "Combined Arms Offensive"
 TEX_combined_arms_offensive_desc:0 "While our air officers stand at the ready, an issue has arisen once more that impedes the progress of our force: Army officers don't exactly know how to exploit our air power to its fullest potential. As such, we shall have to teach them to coordinate both their infantry and mechanized vehicles with our planes in order to create unstoppable offensives."
-TEX_strat_bomber_development:0 "t전략폭격기 개발"
+TEX_strat_bomber_development:0 "전략폭격기 개발"
 TEX_strat_bomber_development_desc:0 "With the objective of our air force clear, we can focus on making bombers for the specific task of obliterating our enemy's industry."
 TEX_cult_of_aviation:0 "항공추종"
 TEX_cult_of_aviation_desc:0 "Ever since the first flight of the Wright Flyer in Kitty Hawk, Americans have been fascinated with aircrafts. We should exploit this fascination and turn our air force into a source of pride for our nation."
-TEX_long_range_interceptors:0 "장거리 "
+TEX_long_range_interceptors:0 "장거리 요격기 개발"
 TEX_long_range_interceptors_desc:0 "While fighters can secure the skies above the battlefields, the battle at the enemy's doorstep is usually too far away for them to step in to protect our bomber wings from the enemy fighters. To counter this, we have managed to create and improve heavier designs with longer to have bigger agility to stand a chance in air-to-air combat, and further investment in this area may yield great benefits."
 
 ### Navy Path ###
