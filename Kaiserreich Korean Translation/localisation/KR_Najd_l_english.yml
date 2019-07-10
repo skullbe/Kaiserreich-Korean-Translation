@@ -109,8 +109,8 @@ SAU_muslim_universities:0 "무슬림 대학"
 
 ### Focuses ###
 
-SAU_the_nemisis:0 "두 에미르 시대"
-SAU_the_nemisis_desc:0 "아라비아의 두 유력 가문은 자그마치 한 세기 동안이나 전쟁을 치뤄왔지만, 한 가지 분명한 사실은 아라비아 반도는 라시드와 사우드 양가 모두에게 너무 작다는 것입니다."
+SAU_the_nemisis:0 "두 에미르의 대립..."
+SAU_the_nemisis_desc:0 "아라비아의 두 유력 가문은 자그마치 한 세기 동안이나 전쟁을 치뤄왔지만, 한 가지 분명한 사실은 아라비아 반도는 라시드와 사우드 양가 모두 존재하기에는 너무 작다는 것입니다."
 SAU_rashidis_get_out:0 "라시드 축출"
 SAU_rashidis_get_out_desc:0 "한 세기 동안 고군분투한 끝에, 우리는 마지막 남은 라시드의 유의미한 요새를 무너뜨렸고, 마침내 이 땅의 유일하고 정당한 주인으로서 군림할 수 있었습니다."
 SAU_fulfull_destiny:0 "우리의 운명을 이행하라"
@@ -120,12 +120,12 @@ SAU_hit_oman:0 "오만을 주시하다"
 SAU_hit_egypt:0 "이집트 타격"
 SAU_hit_libya:0 "리비아 타격"
 SAU_asir_desc:0 "그들이 가련한 토지를 유지할 힘이 없다면, 온 힘을 다해 예멘에 완전한 타격을 가할 수 있습니다. 남부 아라비아는 우리 땅이 될 것입니다!"
-SAU_hit_oman_desc:0 "수십년 전에 시작했던 사업을 끝마칠 때가 되었습니다. 지금 우리는 멍청한 무스카트의 술탄을 영구히 축출해낼 수 있는 힘을 지니고 있습니다."
+SAU_hit_oman_desc:0 "수십 년 전에 시작했던 사업을 끝마칠 때가 되었습니다. 지금 우리는 멍청한 무스카트의 술탄을 영구히 축출해낼 수 있는 힘을 지니고 있습니다."
 SAU_hit_egypt_desc:0 "너무 오랫동안 이집트인이 되고자 하는 배교자와 거의 유사한 열망이 신실한 자들을 오도해 왔습니다. 이제, 모든 아랍 민족을 우리의 정당한 지배 아래 통합해야 합니다!"
 SAU_hit_libya_desc:0 "이제 우리는 아직 지배해본 적 없는 서방에 다다랐습니다. 옛 칼리프처럼 대서양을 바라보며 서방 괴뢰국에게 지배받고 있는 모든 아랍인을 해방해낼 것입니다"
 
 
-SAU_saudi_hegemony:0 "사우디의 패권"
+SAU_saudi_hegemony:0 "사우디 패권"
 SAU_saudi_hegemony_desc:0 "우리 동맹들은 스스로의 목적을 달성했습니다. 라시드 가문과 그 동맹자들이 사라진 지금, 어떤 부족도 우리의 앞을 가로막을 수 없습니다. 아라비아에서는 새로운 시대가 시작하였고, 사우드 가문이 모든 것을 통제하고 있습니다"
 SAU_expand_oil_hold:0 "유전 확장"
 SAU_expand_oil_hold_desc:0 "오랜 시간 동안 지역 영주와 부족장들의 편의를 봐주어 자신의 영토 안에 있는 원유를 자유롭게 처분하도록 놔두었지만, 더 이상은 아닙니다! 모든 이는 국력을 강화하기 위한 역할을 다해야 합니다..."
@@ -228,7 +228,7 @@ SAU_industrial_raw_materials_desc:0 "우리 영토에는 산업에 필요한 금
 SAU_literacy_campaign:0 "문해 운동"
 SAU_literacy_campaign_desc:0 "우리의 아름다운 문자와 깊은 지식을 멀리 퍼트려야 합니다. 세계인을 문자를 알지 못하는 상태로 놔두는 일은 가장 잔인한 폭정이기 때문입니다. 모든 이들이 문자를 알아야 합니다"
 SAU_education_reform:0 "교육 개혁"
-SAU_education_reform_desc:0 "학자를 길러내기 위해서는 단순히 읽고 쓰는 것 뿐만 아니라 더 많은 것이 필요합니다. 이것은 단순히 말할 수 있다고 그 사람이 똑똑해지지는 않는것과 마찬가지입니다. 우리 젊은이들이 스승을 찾는 것을 넘어서 적절한 교육을 받을 수 있는 정책을 수립하는 것은 수십년이 걸릴 것입니다. 하지만 우리는 지금 당장 이 가장 중요한 단계를 시작해야만 합니다."
+SAU_education_reform_desc:0 "학자를 길러내기 위해서는 단순히 읽고 쓰는 것 뿐만 아니라 더 많은 것이 필요합니다. 이것은 단순히 말할 수 있다고 그 사람이 똑똑해지지는 않는것과 마찬가지입니다. 우리 젊은이들이 스승을 찾는 것을 넘어서 적절한 교육을 받을 수 있는 정책을 수립하는 것은 수십 년이 걸릴 것입니다. 하지만 우리는 지금 당장 이 가장 중요한 단계를 시작해야만 합니다."
 SAU_dig_deeper:0 "더 많은 석유를 파내라!"
 SAU_dig_deeper_desc:0 "이 땅에는 부가 흘러 넘칩니다. 그리고 우리 민족이 한 가지 실수를 한 것이 있다면, 그건 부에 대한 사랑을 너무도 많이 가진 걸겁니다. 부는 물보다 더 달고, 검보다 더 강력합니다. 백지 수표가 있다면 어떤 검도 빗겨가게 만들수 있습니다. 석유로 총 수천 정을 살 것이고, 이 수천 정은 제국의 시작이 될 것입니다!"
 SAU_safety_net:0 "빈곤과의 전쟁"
@@ -273,7 +273,7 @@ SAU_establish_new_arabian_army_desc:0 "
 SAU_arabian_horsemanship:0 "아라비아의 기마술"
 SAU_arabian_horsemanship_desc:0 "칼리프 시대 이전에도 우리 아랍인들은 뛰어난 기병으로 익히 알려져 있었으며, 신뢰할 수 있는 전사들은 우리가 정말로 필요로 하는 것 중 하나입니다. 기병 사단이 현대화였을지라도, 그들은 여전히 확연한 아라비아 방식으로 운용될 것으로 예상됩니다."
 SAU_desert_warfare:0 "사막전"
-SAU_desert_warfare_desc:0 "우리는 이 땅에서 싸우는 법을 누구보다 잘 알고 있습니다. 우리 군인들은 수십년간 경쟁자들과 싸워왔으며, 더 많은 적들이 우리의 사막으로 몰려올 것입니다. 하지만 그들은 패배할 것이고, 사막을 두려워하는 방법을 배울 것입니다."
+SAU_desert_warfare_desc:0 "우리는 이 땅에서 싸우는 법을 누구보다 잘 알고 있습니다. 우리 군인들은 수십 년간 경쟁자들과 싸워왔으며, 더 많은 적들이 우리의 사막으로 몰려올 것입니다. 하지만 그들은 패배할 것이고, 사막을 두려워하는 방법을 배울 것입니다."
 SAU_desert_logstics:0 "사막 보급"
 SAU_desert_logstics_desc:0 "만약 당신이 길을 모른다면, 사막으로 진군하는 것은 사실상 불가능합니다. 잘못된 방향으로 간다면, 군대를 길이 없는 사막에 가두거나 적의 함정 속으로 몰아갈 수도 있습니다!"
 SAU_war_of_resistance:0 "저항 전쟁"
@@ -390,7 +390,7 @@ saud.53.b:0 "우리는 중동 사막에 관심이 없다"
 
 saud.54.t:0 "독일이 판매를 거절하다"
 saud.54.d:0 "베를린은 놀라운 행보를 보였습니다. 독일 정부는 쓸모 없는 사막에서 거주하는 몇몇 유목민들보다 지원을 필요로 하는 더 가치 있는 동업자가 있다고 선언하였고 우리가 제시한 무기 판매 제안을 거절하였습니다."
-saud.54.a:0 "후회하게 될것이다!"
+saud.54.a:0 "후회하게 될 것이다!"
 
 saud.55.t:0 "독일이 판매를 결정하다"
 saud.55.d:0 "베를린에서는 계약 조건을 받아들이기로 결정하였고 다가올 전장에서 우리를 지원하기 위해 처음으로 무기를 아라비아로 운송하였습니다. 이 계약이 정부에게 비싼 도박이었을지라도, 장기적으로 상환해나갈 것입니다."
@@ -399,24 +399,24 @@ saud.55.a:0 "이 무기들이 라시드 가문 쓰레기들을 전멸시킬 것�
 ### SAU-JBS Power Struggle ###
 saud.56.t:0 "트루셜 스테이트가 이븐 사우드에게 함락되다"
 saud.56.d:0 "Reports have reached us that the Emirs of the Trucial States have succumbed to the advances of Ibn Saud. This sign of weakness is spreading to the other Emirs in the Rashidi alliance and cracks are already forming. Day by day, the power of our Emir is growing."
-saud.56.a:0 "또다른 위대한 승리로다!"
+saud.56.a:0 "또 다른 위대한 승리로다!"
 
 saud.57.t:0 "카타르가 이븐 사우드에게 함락되다"
 saud.57.d:0 "Reports have reached us that the Emir of Qatar has succumbed to the advances of Ibn Saud. This sign of weakness is spreading to the other Emirs in the Rashidi alliance and cracks are already forming. Day by day, the power of our Emir is growing."
-saud.57.a:0 "또다른 위대한 승리로다!"
+saud.57.a:0 "또 다른 위대한 승리로다!"
 
 saud.58.t:0 "바레인이 이븐 사우드에게 함락되다"
 saud.58.d:0 "Reports have reached us that the Emir of Bahrain has succumbed to the advances of Ibn Saud. This sign of weakness is spreading to the other Emirs in the Rashidi alliance and cracks are already forming. Day by day, the power of our Emir is growing."
-saud.58.a:0 "또다른 위대한 승리로다!"
+saud.58.a:0 "또 다른 위대한 승리로다!"
 
 saud.59.t:0 "알 하사가 이븐 사우드에게 함락되다"
 saud.59.d:0 "Reports have reached us that the Rashidis have been driven out of the Al-Hasa coast. This sign of weakness is spreading to the other Emirs in the Rashidi alliance and cracks are already forming. Day by day, the power of our Emir is growing."
-saud.59.a:0 "또다른 위대한 승리로다!"
+saud.59.a:0 "또 다른 위대한 승리로다!"
 
 
 ### Events ###
 saud.150.t:0 "이크완 반란!"
-saud.150.d:0 "이크완은 아라비아에서 수십년간 강력한 군사 집단으로 존재해왔습니다. 또한 이들은 우리가 다른 아랍 국가들을 물리치고 사우드 가문이 이 지역에서 지배권을 행사하는데에 큰 영향을 주었습니다. 하지만 이크완은 항상 신앙심이 깊은 전통을 고수하는 집단이기 때문에 변화와 개혁을 격렬하게 반대해왔습니다. 그들은 국가를 지배하는데에 있어서 현대화가 필요하다는 사실을 깨닫지 못한 것 처럼 보입니다. 평소에 우리는 더이상 현대화하려는 노력을 하지 않겠다는 약속으로 이크완의 분노를 잠재워왔습니다. 하지만 지금 우리가 그들을 너무 심하게 몰아세운 것 처럼 보입니다. 이크완 병사들은 사우드 가문이 아라비아를 다스리는데 부적합하다고 선언한 이크완 사령관 파이살 알 두와시의 통솔력 아래에서 결속되어있습니다. 수많은 이크완 민병이 궐기하였고, 싸움은 이미 시작되었습니다..."
+saud.150.d:0 "이크완은 아라비아에서 수십 년간 강력한 군사 집단으로 존재해왔습니다. 또한 이들은 우리가 다른 아랍 국가들을 물리치고 사우드 가문이 이 지역에서 지배권을 행사하는데에 큰 영향을 주었습니다. 하지만 이크완은 항상 신앙심이 깊은 전통을 고수하는 집단이기 때문에 변화와 개혁을 격렬하게 반대해왔습니다. 그들은 국가를 지배하는데에 있어서 현대화가 필요하다는 사실을 깨닫지 못한 것 처럼 보입니다. 평소에 우리는 더이상 현대화하려는 노력을 하지 않겠다는 약속으로 이크완의 분노를 잠재워왔습니다. 하지만 지금 우리가 그들을 너무 심하게 몰아세운 것 처럼 보입니다. 이크완 병사들은 사우드 가문이 아라비아를 다스리는데 부적합하다고 선언한 이크완 사령관 파이살 알 두와시의 통솔력 아래에서 결속되어있습니다. 수많은 이크완 민병이 궐기하였고, 싸움은 이미 시작되었습니다..."
 saud.150.a:0 "반란군을 쳐부술 것이다, 아라비아를 위하여!"
 
 saud.151.t:0 "에미르가 사우드 가문에 충성을 맹세하다"
