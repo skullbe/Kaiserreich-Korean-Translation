@@ -64,7 +64,7 @@ JBS_Sell_out_to_TPC_desc:0 "Whilst for now only rumours exist of oil deposits un
 
 ### Flags ###
 JBS_rashid_victory:0 "라쉬드 왕조가 승리함"
-JBS_united_arab_emirates_flag:0 "아랍에미리트연합이 선포됨"
+JBS_united_arab_emirates_flag:0 "아랍에미리트 연합국이 선포됨"
 JBS_rashidi_arabia:0 "라쉬디 아라비아가 선포됨"
 JBS_elected_an_al_sabah:0 "알사바 술탄이 선출됨"
 JBS_elected_an_al_nahyan:0 "알나얀 술탄이 선출됨"
@@ -153,7 +153,7 @@ JBS_protect_minorities:0 "소수들 보호"
 JBS_protect_minorities_desc:0 "For centuries, despite our differences, we have respected the rights of the Christians, Jews and other peoples under our rule, as it was instructed by the Prophet himself. We must ensure that all of our subjects, no matter their creed, are safeguarded"
 JBS_arabian_constutionalism:0 "아라비안 입헌주의"
 JBS_arabian_constutionalism_desc:0 "To ensure that our alliance endures, and we are prepared for the Turkish invasion that is sure to come, and to the future ahead, we will establish a true constitution; one that takes into account what we stand for, and what we fight for, and we will die for if need be!"
-JBS_united_arab_emirates:0 "아랍에미리트연합"
+JBS_united_arab_emirates:0 "아랍에미리트 연합국"
 JBS_united_arab_emirates_desc:0 "Our alliance has, indeed, been reformed in such a way it is functionally one state for years now. However we have taken steps to formalise this arrangement into an Arab League, one that will ensure that Arabia will focus"
 JBS_elective_monarchy:0 "선거군주제 제정"
 JBS_elective_monarchy_desc:0 "As to keep balance between political forces within the realm, and to keep our unity less vuneable to the will of tyrants, all Arab lords will convene regularly to elect one of their own as Sultan of Arabia, the head of state of our federation, which is already being called the United Arab Emirates abroad and by some members of the press."
