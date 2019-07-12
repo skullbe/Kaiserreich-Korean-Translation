@@ -3,8 +3,8 @@ l_english:
 ### Parties ###
 SPR_totalist_party:0 "마르크스주의 통일노동자당"
 SPR_totalist_party_long:0 "마르크스주의 통일노동자당"
-SPR_syndicalist_party:0 "전국노동연맹-이베리아 아나키스트 연맹"
-SPR_syndicalist_party_long:0 "전국노동연맹-이베리아 아나키스트 연맹"
+SPR_syndicalist_party:0 "전국노동자연합-이베리아 아나키스트 연맹"
+SPR_syndicalist_party_long:0 "전국노동자연합-이베리아 아나키스트 연맹"
 SPR_radical_socialist_party:0 "카바예로주의자"
 SPR_radical_socialist_party_long:0 "카바예로주의자"
 SPR_social_democrat_party:0 "프리에토주의자"
@@ -19,8 +19,8 @@ SPR_authoritarian_democrat_party:0 "국민행동당"
 SPR_authoritarian_democrat_party_long:0 "국민행동당 급진파"
 SPR_paternal_autocrat_party:0 "스페인 팔랑헤당"
 SPR_paternal_autocrat_party_long:0 "스페인 팔랑헤당"
-SPR_national_populist_party:0 "국가조합주의 운동연합"
-SPR_national_populist_party_long:0 "국가조합주의 운동연합"
+SPR_national_populist_party:0 "국민조합주의 운동연합"
+SPR_national_populist_party_long:0 "국민조합주의 운동연합"
 
 ### Ideas ###
 SPR_memories_of_the_republic:0 "공화국의 기억"
