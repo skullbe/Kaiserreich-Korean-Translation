@@ -320,7 +320,7 @@ JAP_MIL_DOC_FIR3_desc:0 "천황 폐하를 위해 죽는 것은 영광스런 일�
 JAP_MIL_DOC_FIR4:0 "육군 개편"
 JAP_MIL_DOC_FIR4_desc:0 "육군의 구조는 여전히 비효율적입니다. 나가타의 협력을 통해 비효율을 제거하고 군대가 최고의 전투력을 발휘할 수 있도록 할 것입니다."
 JAP_MIL_DOC_FIR5:0 "포위 전술"
-JAP_MIL_DOC_FIR5_desc:0 "The modern Japanese curriculum, designed to counter Russian aggression on the plains of Manchuria, emphasises morale factors and tenacity of will, stressing training designed to develop the ability to recognise opportunities for decisive attack; enveloping open enemy flanks, encircling formations, and thus destroying even numerically and technologically superior forces."
+JAP_MIL_DOC_FIR5_desc:0 "만주에서 러시아와의 전쟁에 대비하기 위해 고안된 현대적인 일본의 훈련에서는 사기와 의지의 집요함을 강조하고, 결정적인 공격의 기회를 인식할 수 있는 능력을 개발하기 위한 훈련을 합니다. 적의 열린 측면을 감싸고 진형을 포위하면서 결국에는 수적으로나 질적으로 우수한 적을 파괴할 수 있습니다."
 
 ### Focuses - Military - Mobility ###
 JAP_MIL_DOC_MOB:0 "선제 타격 및 기동력"
@@ -621,7 +621,7 @@ japdom.59.d:0 "우리의 적들이 우리의 신성한 섬에 성공적으로 �
 japdom.59.a:0 "우리는 그들을 멈춰세울 것이다!"
 
 japdom.60.t:0 "가뭄이 사람 잡다"
-japdom.60.d:0 "With the nation's rural areas already struggling after the lost decade, the drought has served to further impoverish farmers and bankrupt light industries built around agricultural produce. The drought's effects seem likely to continue for some time."
+japdom.60.d:0 "농촌 지역이 잃어버린 10년 이후에 이미 어려움을 겪고있는 가운데, 이 가뭄은 빈곤한 농부들과 농산물을 중심으로 건설된 경공업의 파산을 초래했습니다. 가뭄의 영향은 당분간 지속될 것으로 보입니다."
 japdom.60.a:0 "어쩔 수 없군."
 
 japdom.61.t:0 "봉천-조선-일본 원조제안"
@@ -694,12 +694,12 @@ japdom.235.t:0 "Our further Endeavours in Atomic Research"
 japdom.235.d:0 "With our nation's leading scientists toiling away in Tokyo and now Fukushima, and the heavy water trickling in from our facilities in Konan, we are well underway of creating an infrastructure capable of harnessing the power of the atom. The next step would be the construction of an experimental reactor.\n\nHousing this operation at the main RIKEN facilities in Tokyo might seem like the obvious choice, but some voices have argued that our new facility in Fukushima would do better in hiding this operation from our enemies abroad. In either case, utmost secrecy is vital."
 japdom.235.a:0 "후쿠시마 주택"
 japdom.235.b:0 "도쿄는 괜찮을 것입니다."
-japdom.235.c:0 "On second thought, let's keep this on the theoretical level for now."
+japdom.235.c:0 "두 번째 의견은 지금 당장엔 가설 수준으로 유지합시다."
 
 japdom.236.t:0 "육군 지도부가 해군 편향에 항의하였습니다"
-japdom.236.d:0 "Our recent invetiture in policies benefitting the Navy have angered the leadership of our land forces. Some of the more prominent figures have expressed their disapproval in a private meeting earlier today."
+japdom.236.d:0 "최근에 해군에게 혜택을 주는 정책을 발의하는 우리의 태도에 육군 지도부는 항의했습니다. 더 권위있는 장군들 중 일부는 오늘 오전 비공개 회의에서 난색을 표했습니다."
 japdom.236.a:0 "그들에게 기다리고 지켜보라고 해라."
 
 japdom.237.t:0 "해군 지도부가 육군 편향에 항의하였습니다"
-japdom.237.d:0 "Our recent invetiture in policies benefitting the Army have angered the leadership of our sea fleet. Some of the more prominent figures have expressed their disapproval in a private meeting earlier today."
+japdom.237.d:0 "최근에 육군에게 혜택을 주는 정책을 발의하는 우리의 태도에 해군 지도부는 항의했습니다. 더 권위있는 제독들 중 일부는 오늘 오전 비공개 회의에서 난색을 표했습니다."
 japdom.237.a:0 "그들에게 기다리고 지켜보라고 해라."
