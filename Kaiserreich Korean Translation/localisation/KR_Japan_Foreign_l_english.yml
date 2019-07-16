@@ -163,14 +163,14 @@ JAP_SUN_PHIL_fold_desc:0 "이제 제국주의자들은 떠나버렸습니다. �
 
 ### Focuses - Foreign - Russia/Mongolia ###
 JAP_go_north:0 "북진론"
-JAP_go_north_desc:0 "The Russian bear has loomed in the north for decades, and it is only a matter of time before the Mad Baron spreads destruction once again. It is time to push forward, and end the facade of peace."
+JAP_go_north_desc:0 "러시아라는 곰은 수십년 간 북쪽에 자리를 잡고 있고, 미친 남작이 또 다시 파괴를 퍼뜨리는 것은 시간 문제일 뿐입니다. 우리는 앞으로 나아가고 허울뿐인 평화를 끝내야 합니다."
 JAP_SUN_RUSSIA:0 "쿠마 작전"
-JAP_SUN_RUSSIA_desc:0 "On the Northern frontier lies Russia. It is a land ruled by fools and defended by peasants, but dangerous nonetheless. We must incorporate the North and defeat our old enemy once and for all!"
+JAP_SUN_RUSSIA_desc:0 "북쪽에는 러시아가 있습니다. 바보들이 통치하고 농민들이 방어하는 땅이지만, 그럼에도 불구하고 위험한것은 사실입니다. 우리는 북부를 통합하고 우리의 오랜 적을 완전히 쳐부수어야 할 것입니다!"
 #JAP_SUN_RUSSIA_desc:0 "To the north of us there is a great untamed land, ripe for the taking. It is a land ruled by warlords, with bandits and criminals sowing chaos amid rich provinces. We must bring order to the north to protect our influence."
 #JAP_SIBERIA:0 "Invade Siberia"
 #JAP_SIBERIA_desc:0 "The lands of Siberia have seceded from Russia, and are now standing alone and isolated. It would be the perfect time to launch an invasion to secure the north."
 JAP_Mongolia:0 "카미카제 작전"
-JAP_Mongolia_desc:0 "The Mongolian steppes are controlled by the mad baron, a bloodthirsty butcher who threatens the stability of the region."
+JAP_Mongolia_desc:0 "몽골의 대초원은 지역의 안정을 위협하는 피에 굶주린 도살자, 미친 남작이 다스리고 있습니다."
 
 #Don't know where the hell this is from: jap_ino_demand:0 "After the end of the Dutch colonial regime, Indonesia became a 'free' nation, trying to navigate the cruel ocean that is sovereignty. In reality, Indonesia is nothing more than an artificial byproduct of western imperialism. Let us end this pointless charade and bring the Indonesians into the fold!"
 
@@ -259,26 +259,26 @@ japfor.18.d:0 "일본과 청이 모두 협상에 동의 한 후, 적어도 지�
 japfor.18.a:0 "좋게 끝난 것 같군."
 
 japfor.19.t:0 "저무는 해"
-japfor.19.d:0 "After the utter defeat of the Imperial Japanese Army, our imperial army controls huge swathes of land in Manchuria and Korea whilst the IJN are reduced to attempting mere blockades. Our spies in Tokyo report severe dissent and war weariness among the populace. In light of this, the government has called a conference in occupied Port Arthur to determine our war aims."
+japfor.19.d:0 "일본의 완전한 패배 이후, 우리 제국 군대는 만주와 한국의 광활한 영토를 통제하고있고 IJN(일본 제국 해군)은 단순한 해상 봉쇄를 시도할 뿐 입니다. 도쿄에있는 우리의 첩자들은 대중들 사이에서의 극심한 반전사상과 전쟁 피로를 전하고 있습니다. 이에 비추어, 정부는 이 전쟁의 목적지 결정하기 위해 점령된 '포트 아서'에서 회의를 소집했습니다."
 japfor.19.a:0 "저물어가는 해의 나라에 굴욕감을 줄 때군!"
 japfor.19.b:0 "총제적 승리를 위해 압박한다!"
 
 japfor.20.t:0 "저무는 해"
-japfor.20.d:0 "This is a dark day for the Empire of the Sun. Chinese forces have ousted our men from their vital bases in Manchuria and Korea. On top of this, a declaration has been sent out from Port Arthur by the imperial government offering terms that demand our surrender of all territories on the Chinese mainland as well as the return of Taiwan and independence of Korea."
+japfor.20.d:0 "지금은 태양의 제국의 암흑기입니다. 중국군은 만주와 한국의 주요 거점에서 우리 군인들을 축출했습니다. 뿐 만 아니라 포트 아서(다롄)에서 열린 회의에서는 대만의 귀환과 한국의 독립, 그리고 중국 본토에 대한 모든 영토의 포기를 요구하는 제국 정부의 선언이 발표되었습니다."
 japfor.20.a:0 "선택의 여지가 없으니 굴복한다"
 japfor.20.b:0 "일본은 항복하지 않는다! 반자이!"
 
 japfor.21.t:0 "일본이 패전하다"
-japfor.21.d:0 "We have retaken every single bit of land Japan had that was rightfully ours, the whole of China is in celebration"
+japfor.21.d:0 "우리는 본래 우리의 것이었지만 일본이 점유했던 모든 토지를 되찾았습니다. 중국 전체가 축하하고 있습니다."
 japfor.21.a:0 "만세!"
 
 japfor.22.t:0 "트란스아무르가 고립되다"
-japfor.22.d:0 "After the Chinese pushed the Japanese back to their Home Islands, Transamur has been in chaos. The Japanese elite have fled back to their home and orders is beginning to break down. The people are ready to depose of Kolchak and return to the Motherland's embrace."
+japfor.22.d:0 "중국인이 일본인을 본토로 몰아넣은 후, 트란스아무르는 혼란에 빠졌습니다. 일본 고위층들은 고향으로 돌아갔고 질서는 무너지고있습니다. 사람들은 콜차크를 퇴진시키고 조국의 품으로 돌아갈 준비가되어 있습니다."
 japfor.22.a:0 "트란스아무르를 다시 우리의 통제하에 옮겨라."
 japfor.22.b:0 "트란스아무르를 다시 우리의 통제하에 옮겨라."
 
 japfor.23.t:0 "저무는 해"
-japfor.23.d:0 "The Japanese empire has been utterly defeated by their mortal enemies and forced to surrender all of their mainland territory. We may be able to force them to make a similar deal with us."
+japfor.23.d:0 "일본 제국은 필멸의 적에게 완전히 패배했기 때문에 본토 전체를 포기해야만 했습니다. 우리는 그들이 우리에게 한 비슷한 조약을 맺도록 강요할 수 있습니다."
 japfor.23.a:0 "일본 본토 이외의 모든 영토를 요구해라!"
 japfor.23.b:0 "전쟁은 우리가 만족 할 때까지 계속될 것이다!"
 
@@ -347,17 +347,17 @@ japfor.38.b:0 "아직 전쟁의 때가 아니다"
 #japfor.40.b:0 "전쟁을 계속한다."
 
 japfor.41.t:0 "일본의 최후통첩"
-japfor.41.d:0 "For months already, the Japanese have expressed their aggressive ambitions towards our lands as part of their expansionist policies. Today, the Japanese ambassador has presented us an ultimatum: they demand that we surrender or else we will face the full might of the Imperial Japanese Military..."
+japfor.41.d:0 "몇 달 전부터 일본인들은 팽창주의 정책의 일환으로 우리 영토에 대한 공격적인 야심을 표출했습니다. 오늘, 일본 대사는 우리에게 최후 통첩을 보냈습니다. 그들은 우리에게 항복을 요구하며, 그렇지 않으면 제국 군대의 완전한 힘에 직면하게 될 것이라며 말했습니다..."
 japfor.41.a:0 "대답도 하지 마라."
 japfor.41.b:0 "요구를 수용한다."
 
 japfor.42.t:0 "우리의 최후통첩이 무시당하다!"
-japfor.42.d:0 "We did not receive any answer to our ultimatum. We must mobilise for war and secure our place as the sole great power in East Asia!"
+japfor.42.d:0 "우리는 최후통첩에 대한 어떤 대답도 받지 못했습니다. 우리는 전쟁을 위해서 사람들을 소집하고 동아시아 유일의 강대국으로서 우리의 입지를 확고히 해야합니다!"
 japfor.42.a:0 "전쟁을 선포한다!"
 japfor.42.b:0 "물러나자, 전쟁을 감수할 수는 없다."
 
 japfor.43.t:0 "독일이 우리의 조건을 받아들이다"
-japfor.43.d:0 "Germany has accepted our conditions. This is not so surprising after all: they wouldn't dare face the might of the Emperor's armies!"
+japfor.43.d:0 "독일은 우리의 조건을 받아들였습니다. 이것은 그리 놀랍지 않은 결과입니다. 그들은 감히 천황의 군대에 직면할 수 없었을 것입니다!"
 japfor.43.a:0 "훌륭해!"
 
 japfor.44.t:0 "일본이 청을 공격하다!"
@@ -379,15 +379,15 @@ japfor.460001.d:0 "청 제국은 우리의 제안을 거절했습니다. 저들�
 japfor.460001.a:0 "저 멍청이들!"
 
 japfor.47.t:0 "일본의 요구"
-japfor.47.d:0 "Since the eruption of the conflict in Western Europe, Germany's position in Asia has seriously weakened. Japan has decided to use this opportunity to force us into submission. Their ambassador has brought us an official demand regarding a total political and economic restructuring of our state. Accepting this would mean an end of our status as an independent state. However, fighting an obviously strong Japan could mean complete disaster for us and the entirety of China. How shall we react?"
+japfor.47.d:0 "서유럽에서 전쟁이 발생한 이래로 아시아에서의 독일의 입지는 심각하게 약화되었습니다. 일본은 이 기회를 이용하여 우리를 굴복시키기로 결정한 것 같습니다. 그들의 외교관은 우리 국가의 총체적인 정치적 및 경제적 구조 조정에 관한 요구를 우리에게 가져왔습니다. 이를 받아들이면 독립국으로서의 지위는 끝장남을 의미합니다. 그러나 강력한 일본과 싸우는 것은 우리와 중국 전체에 완전한 재난을 의미할 수 있습니다. 어떻게 반응해야합니까?"
 japfor.47.a:0 "받아들여라. 우리는 일본과 싸우길 원하지 않는다."
 japfor.47.b:0 "단호하게 거절해라!"
 
 japfor.48.t:0 "청 제국의 굴복"
-japfor.48.d:0 "The Qing Empire was forced to accept all of our economic and political demands. We have successfully secured Qing territory as part of the Great Co-Prosperity Sphere!"
+japfor.48.d:0 "청 제국은 우리의 경제적, 정치적 요구를 모두 받아들일 수밖에 없었습니다. 우리는 위대한 공영권의 일부분으로 청의 영토를 성공적으로 확보했습니다!"
 
 japfor.49.t:0 "청 제국이 우리 요구를 거절하다"
-japfor.49.d:0 "In a show of absolute arrogance, government of the Qing Empire outright refused our reasonable demands, calling them insane and absurd. How shall we react to this slight against the Japanese nation?"
+japfor.49.d:0 "절대적인 오만함을 위시하며 청 정부는 우리의 합리적인 요구를 미친 짓이며 터무니없다고까지 말하며 노골적으로 거절했습니다. 우리는 일본에 이처럼 경솔하게 대한 것에 어떻게 해야 할까요?"
 japfor.49.a:0 "우리는 지금 전쟁을 감당할 수 없다."
 japfor.49.b:0 "전쟁을 선포해라!"
 
@@ -625,8 +625,8 @@ japfor.114.t:0 "쿠마 작전"
 japfor.114.d:0 "우리 군이 우리 동맹국과 러시아의 국경에 배치되어 있으며, 침공 준비가 되었습니다. 우리는 러시아의 태평양 연안을 우리 손에 넣는 동시에 국경을 야쿠츠크와 노보시비르스크까지 밀어붙일 것입니다."
 japfor.114.a:0 "전진하라!"
 
-japfor.115.t:0 "Invite the Russians to join us against Mongolia?"
-japfor.115.d:0 "In 1921 Mongolia occupied part of the Russian Siberian provinces. A section of the crucial Trans-Siberian railroad is located in these same provinces, and Russia takes a great interest in regaining their land and control of these portions of the railroad. Until now only their internal and military weakness discouraged them from do so by force. But now, with Russia stable, their interests shifted here once more. We can greatly hasten our invasion if we allow Russia to take part in our plans to remove the Mongolian state as threat to stability in Eastern Asia"
+japfor.115.t:0 "러시아 사람들을 몽골에 대항하여 함께하도록 초대할까요?"
+japfor.115.d:0 "1921년에 몽골은 러시아의 시베리아 지방의 일부를 차지했습니다. 시베리아 횡단철도의 중요한 구간이 이 지역에 위치하고 있으며, 러시아는 토지를 되찾고 철도를 통제하는 데 큰 관심을 가지고 있습니다. 지금까지 그들의 내부적, 군사적 약점이 그들을 그렇게 하지 못하게 했습니다. 그러나 지금은 러시아가 안정되면서 그들의 이해관계가 다시 한 번 이곳으로 옮겨지게 되었습니다. 동아시아의 안정에 위협이되는 몽골을 제거하려는 우리의 계획에 러시아가 동참하도록 한다면 우리의 계획을 꽤나 가속화 할 수 있습니다."
 japfor.115.a:0 "러시아를 초대해라."
 japfor.115.b:0 "러시아는 내버려둬라."
 
@@ -635,7 +635,7 @@ japfor.116.d:0 "일본군이 몽골국경에서 명령을 기다리고 있습니
 japfor.116.a:0 "몽골에 전쟁을 선포한다."
 
 japfor.117.t:0 "일본의 제안"
-japfor.117.d:0 "In 1921 treacherous Mongolians occupied part of our Siberian provinces. Across these provinces, a large section of the critically important Trans-Siberian railroad is located. Until now only our internal and military weakness discouraged us from retaking them by force. But now the Japanese Empire, which views Mongolian state as a threat to stability in Eastern Asia, has offered to participate in their plans to conquer Mongolia."
+japfor.117.d:0 "1921년, 몽골인들이 우리를 배신하고 시베리아 지방의 일부를 차지했습니다. 이 지역들에는 시베리아 횡단 철도의 중요한 구간이 있습니다. 지금까지 우리의 내부적, 군사적 약점이 그것을 무력으로 되찾지 못하게 했습니다. 그러나 몽골을 동아시아의 안정에 위협으로 보는 일본은 몽골을 정복하려는 자신들의 계획에 동참할 것을 제안했습니다."
 japfor.117.a:0 "훌륭한 제안이다."
 japfor.117.b:0 "아직은 두고봐야한다."
 
@@ -656,26 +656,26 @@ japfor.121.d:0 "일본이 우리를 배신하고 전쟁을 선포했습니다! �
 japfor.121.a:0 "후회하게 될거다!"
 
 japfor.122.t:0 "몽골의 패배"
-japfor.122.d:0 "The joint armed forces of Japan and Russia forced the Mongolians to cease futile resistance and sign an unconditional surrender before representatives of both nations. The fate of Mongolia is now in our hands."
+japfor.122.d:0 "일본과 러시아의 군대는 몽골인들에게 무의미한 저항을 중단하고 양국 대표들 앞에서 무조건 항복에 서명하도록 강요했습니다. 몽골의 운명은 이제 우리 손에 달려있습니다."
 japfor.122.a:0 "몽골은 우리 것이다!"
 japfor.122.b:0 "몽골로는 충분하지 않다, 러시아를 배신하자!"
 
 japfor.123.t:0 "몽골의 패배"
-japfor.123.d:0 "The armed forces of the Japanese Empire forced Mongolia to cease its futile resistance and sign an unconditional surrender before representatives of our nation. The fate of Mongolia is now in our hands."
+japfor.123.d:0 "일본 제국의 군대는 몽골인들에게 무의미한 저항을 중단하고 양국 대표들 앞에서 무조건 항복에 서명하도록 강요했습니다. 몽골의 운명은 이제 우리 손에 달려있습니다."
 japfor.123.a:0 "몽골은 우리 것이다!"
 
 japfor.124.t:0 "혼란에 빠진 몽골"
-japfor.124.d:0 "With Mongolia in turmoil, we have a great opportunity to seize control over stolen parts of the Trans-Siberian railway. There is very little that either Mongolia or Japan can do to stop us at this point."
+japfor.124.d:0 "몽골이 혼란에 빠지면서 우리는 시베리아 횡단 철도의 소실된 부분을 통제 할 수있게 되었습니다. 몽골이나 일본이나 이 시점에서 우리를 막기 위해 할 수 있는 일은 거의 없을 것입니다."
 japfor.124.a:0 "북몽골을 빼앗아라!"
 japfor.124.b:0 "그럴 이유가 없다."
 
 japfor.125.t:0 "러시아가 북몽골을 점령하다!"
-japfor.125.d:0 "With newly conquered Mongolia in chaos, the Russians used this opportunity to seize control over disputed territory around the Trans-Siberian railway. Currently there is very little that we can do to stop the Russian state at this point."
+japfor.125.d:0 "정복된 몽골을 혼돈에 빠뜨린 러시아는이 기회를 틈타 시베리아 횡단 철도와 그 주변의 분쟁 지역을 장악했습니다. 현재 러시아를 막기 위해 할 수있는 일이 거의 없습니다."
 japfor.125.a:0 "우리가 할 수 있는 것은 없다."
 japfor.125.b:0 "전쟁이다!"
 
 japfor.126.t:0 "몽골의 패배"
-japfor.126.d:0 "The joint armed forces of Japan and Russia has forced the Mongolians to cease futile resistance and sign an unconditional surrender before representatives of both nations. The fate of Mongolia is now in our hands."
+japfor.126.d:0 "일본과 러시아의 군대는 몽골인들에게 무의미한 저항을 중단하고 양국 대표들 앞에서 무조건 항복에 서명하도록 강요했습니다. 몽골의 운명은 이제 우리 손에 달려있습니다."
 japfor.126.a:0 "우리의 승리다!"
 
 japfor.127.t:0 "새로운 종주국"
@@ -683,7 +683,7 @@ japfor.127.d:0 "몽골이 일본의 동맹이 됩니다."
 japfor.127.a:0 "최소한 살아남았군..."
 
 japfor.129.t:0 "몽골의 지위"
-japfor.129.d:0 "We have kept the territory of Mongolia under direct military control for some time. But some members of our general staff are suggesting we release independent Mongolia as a new member of the Co-Prosperity Sphere."
+japfor.129.d:0 "우리는 몽골의 영토를 얼마 동안 직접적으로 통제하에 두었습니다. 그러나 우리 회원들 중 일부는 독립된 몽골을 공영권의 새로운 회원으로 맞이할 것을 제안하고 있습니다."
 japfor.129.a:0 "군사점령을 끝낸다."
 japfor.129.b:0 "직속통치를 유지한다."
 
@@ -704,12 +704,12 @@ japfor.132.d:0 "미치광이 남작의 광적인 지지자가 그를 자유롭�
 japfor.132.a:0 "제기랄!"
 
 japfor.133.t:0 "새로운 동맹?"
-japfor.133.d:0 "Recent cooperation with Russian state in the conquest of Mongolia proved the dramatic resurrection of the Russian armed forces. Conquest of Siberia would be extremely difficult if we are to face this united and strong Russian army, fighting on its own soil. Perhaps we should use this change in relations as signal to re-orientate our expansions towards safer goals, such as fragmented China or the unstable pacific. And, perhaps we could try and bring belligerent Russia, whose ambitions are clearly aimed against German hegemony in Pacific and Europe, into our block in order to secure our northern flank."
+japfor.133.d:0 "최근 몽골 정복을 위한 러시아와의 협력은 러시아 군대의 극적인 부활을 의미했다. 시베리아 정복을 위해서 우리가 이 단결되고 강력한 러시아 군대와 맞서서 자국 땅에서 싸우게 된다면 매우 힘든 상황이 될 것이다. 우리는 이러한 관계의 변화를 조각난 중국이나 불안정한 태평양과 같은 '안전한 목표'를 향한 확장을 다시 지향하는 동기로 삼아야 할 것이다. 그리고, 북부의 안전을 확보하기 위해서, 태평양과 유럽의 독일 패권에 대한 야망이 분명한 러시아를 우리 세력에 끌어들일 수도 있을 것입니다."
 japfor.133.a:0 "러시아를 우리 동맹에 초대한다!"
 japfor.133.b:0 "우린 러시아가 필요없다!"
 
 japfor.134.t:0 "일본과의 동맹?"
-japfor.134.d:0 "Recent cooperation with Japan in the conquest of Mongolia greatly strengthened mutual relations between two great nations. Japan decided to offer us participation in their alliance bloc, which is clearly aimed against German dominance in the Pacific and Asia, and want to form an alliance with us. How we shall respond?"
+japfor.134.d:0 "최근 몽골 정복에서의 일본과의 협력은 두 나라 간의 상호 관계를 크게 강화시켰습니다. 일본은 태평양과 아시아에서의 독일 정복을 목표로하고 우리와 동맹을 결성하고자 세력(공영권)에 우리를 참여시키기로 결정했습니다. 뭐라고 대답해야할까요?"
 japfor.134.a:0 "제안을 수락한다!"
 japfor.134.b:0 "수락하지만, 프리모스크와 북사할린을 요구한다!"
 japfor.134.c:0 "절대로 그럴수없다!"
@@ -719,12 +719,12 @@ japfor.135.d:0 "러시아가 우리의 제안을 받아들이고 모든 공영�
 japfor.135.a:0 "훌륭하군."
 
 japfor.136.t:0 "러시아가 요구하다"
-japfor.136.d:0 "The Russians have agreed in principle to an alliance aimed against German Empire and its allies in Asia, but as a precondition of their direct military support they want the return of territories taken by Japan during the Russian civil war, namely northern Sakhalin and Primorsk."
+japfor.136.d:0 "러시아인들은 원칙적으로 독일 제국과 아시아에 있는 독일의 동맹국들을 겨냥한 동맹에 동의했지만, 직접적인 군사적 지원의 전제로서 러시아 내전 중 일본이 점령한 영토, 즉 북부 카라후토와 연해주의 반환을 요구하고 있습니다."
 japfor.136.a:0 "나쁘지 않군. 받아들여라."
 japfor.136.b:0 "안 된다!"
 
 japfor.137.t:0 "협상이 결렬되다"
-japfor.137.d:0 "Despite hours of negotiations, an agreement between the two parties could not be reached and the Russo-Japanese alliance never came to be."
+japfor.137.d:0 "몇 시간 동안의 협상에도 불구하고 양측은 합의에 이르지 못했고 러일 동맹은 결국 실현되지 못했습니다."
 japfor.137.a:0 "어쩔 수 없군..."
 
 japfor.138.t:0 "트란스아무르는 러시아의 것이다!"
