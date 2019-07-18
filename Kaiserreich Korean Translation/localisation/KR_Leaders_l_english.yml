@@ -446,7 +446,7 @@ POLITICS_FELICIANO_AMA_DESC:0 "José Feliciano Ama, a chieftain of the Pipil tri
 POLITICS_AGUSTIN_FARABUNDO_MARTI_DESC:0 "Agustin Farabundo Martí started his political career protesting against the Meléndez-Quiñones Dynasty and taking part in the first worker's organizations in El Salvador. He'd later volunteer to help the Zapatista forces after the Plan of Agua Prieta came into effect, where he would meet who would be one of his closest friends for years, Augusto Cesar Sandino. He would continue his career of political activism, and would later help Sandino with his fight in Nicaragua. However, with time, Martí grew further and further apart from Sandino, with them disagreeing more and more often on the fate of their countries should their revolutions succeed. Martí eventually gew further and further appart, and their relationship reached a breaking point in 1929 where Martí tried to punch Sandino in a drunken rampage. Despite having apologized formally with Sandino several times, he decided to return to El Salvador in 1930 and start leading the revolutionary movement by himself. His time would come in 1932 where he tried to lead the First Western Uprising, but after being delivered a crushing defeat by Martinez, he fled to Mexico to continue preparing for the revolution in El Salvador. Now that he's in power, he'll do his best to brind about the European-style Syndicalist Utopia he has dreamed of, even if this dream may seem far off for an agrarian region like Central America..."
 
 ## Emilia ##
-POLITICS_DUKE_ROBERTO_DESC:0 "오스트리아 대공, 로베르토 다스부르고에스테는 유아기 때부터 모데나 공작의 지위를 보장받았습니다. 그러나 모데나는 혼란스러운 이탈리아 내전 중 연방군이 가장 먼저 철수한 장소 중 하나였으며, 그는 단 한 번도 그의 공작령에 발을 들여놓은 적이 없었습니다. 카를 1세의 차남인 로베르토는 오스트리아에서 황실 친척들과 함께 자랐으며, 이탈리아어를 배웠긴 하지만 대부분의 생애 동안 외스터라이히에스테 가문의 가주로서의 의무에 대해서는 거의 신경 쓴 적이 없습니다. 하지만 이제 그는 모데나 공작이 되었고, 본질적으로 정치적 경험이 전혀 없는 그가, 전례없이 특수한 정치적 국면에 잘 대처하고 생디칼리즘에 의해 황폐화된 국토를 재건하는 것이 상당히 어려운 과제임은 자명합니다."
+POLITICS_DUKE_ROBERTO_DESC:0 "오스트리아 대공, 로베르토 다스부르고에스테는 유아기 때부터 모데나 공작의 지위를 보장받았습니다. 불행하게도 모데나는 혼란스러운 이탈리아 내전 중 연방군이 가장 먼저 철수한 장소 중 하나였으며, 그는 단 한 번도 그의 공작령에 발을 들여놓은 적이 없었습니다. 카를 1세의 차남인 로베르토는 오스트리아에서 황실 친척들과 함께 자랐으며, 이탈리아어를 배웠긴 하지만 대부분의 생애 동안 외스터라이히에스테 가문의 가주로서의 의무에 대해서는 거의 신경 쓴 적이 없습니다. 하지만 이제 그는 모데나 공작이 되었고, 본질적으로 정치적 경험이 전혀 없는 그가 전례없이 특수한 정치적 국면에 잘 대처하고 생디칼리즘에 의해 황폐화된 국토를 재건하는 것이 상당히 어려운 과제임은 자명합니다."
 POLITICS_DUKE_ELIAS_DESC:0 "Born in 1880, Elias of Bourbon-Parma has never sat on a throne, for like most monarchs of the Federation, he never was in a position to return during the trumoil of the war on the wake of the Treaty of Rome. Having lived in exile in family estates for most of his life, he was forced to leave his birthplace in France following the Revolution, but even before that the french state harried his family for their ties to Austria-Hungary during the Weltkrieg. While he technically acted as a regent for his demented brothers, Elias has been long the de-facto head of the house, and his ascension to the throne of the now restored throne is little more than a fait-accompli of dynastic politics. However, there is no shortage of criticism for what some see as brazen ambition being put ahead of his own brother's well being."
 
 ## Eritrea ##
@@ -481,7 +481,7 @@ POLITICS_LOUIS_PAUL_BOON_DESC:0 ""
 POLITICS_STAF_DE_CLERCQ_DESC:0 ""
 
 ## Flanders-Wallonia ##
-POLITICS_ADALBERT_I_DESC:0 "아달베르트 폰 호엔촐레른의 플랜더스-왈로니아 왕 재임기간은 꽤 특이했습니다. 대관식이 아니라 헌법에 대해 맹세함으로써 즉위하였고, 또한 대중의 성향에 맞춰 가톨릭으로 개종한 아델베르트는 오랫동안 국민들의 존경을 받고 싶어했습니다. 그러나 독일 정권 하에서 수년간 지속되어 온 탄압과 기존 벨기에 왕정보다도 더 절대적 형태의 군주제에 집착하는 경향을 보이는 아델베르트는 국민들 사이에서 큰 반독 정서를 야기했고 곧장 멸시받게 되었습니다"
+POLITICS_ADALBERT_I_DESC:0 "아델베르트 폰 호엔촐레른의 플랜더스-왈로니아 국왕 재임기간은 꽤 특이했습니다. 대관식이 아니라 헌법에 대한 맹세를 통해 즉위하였고, 또한 대중의 성향에 맞춰 가톨릭으로 개종한 아델베르트는 오랫동안 국민들의 존경을 받고 싶어했습니다. 그러나 독일 정권 하에서 수년간 지속되어 온 탄압과 기존 벨기에 왕정보다도 더 절대적 형태의 군주제에 집착하는 경향을 보이는 아델베르트는 국민들 사이에서 큰 반독 정서를 야기했고 곧장 멸시받게 되었습니다."
 POLITICS_ALBERT_I_DESC:0 "대전 당시 예셀에서 독일 침략군을 몰아낸 국왕인 알베르트 폰 작센코부르크고타가 캐나다 망명 생활을 끝내고 드디어 벨기에로 귀환했습니다. 대전 후 처음으로 알베르트의 자동차 행렬이 브뤼셀에 도착했을 때, 전국의 교회 종은 우렁차게 울렸고, 많은 벨기에인들은 기쁨에 겨워 눈물을 흘렸습니다. 그러나 벨기에 내의 친독파들과 생디칼리스트들은 국왕의 귀환을 한탄하고 새로운 벨기에 정부를 약화시킬 음모를 꾸미고 있습니다. 알베르트는 이제 벨기에를 더럽혀왔던 깊은 상처를 치료하고 국민들에게 새로운 희망을 선사해야만 합니다."
 POLITICS_JORIS_SEVEREN_DESC:0 "Joris Van Severen, Flemish leader who begrudgingly cooperated with the occupying Germans, has assumed control of the country. His Verdinaso has a radical vision for the direction of Belgium, including territorial expansion and the promotion of Catholicism in all aspects of society. Under van Severen, a new Belgium will certainly arise; though that new nation may be incredibly different from the one that came before it."
 POLITICS_PAUL_ZEELAND_DESC:0 "Paul van Zeeland and the Catholic Party led Flemish resistance to German control. With electoral victory in the now restored Belgium, van Zeeland endeavours to establish Christian Democracy in Belgium, and reconcile that which divides Belgium's people, Flems and Walloons alike. Principle among his policy goals is the betterment of working conditions for both farmers and industrial laborers."
@@ -876,14 +876,14 @@ POLITICS_KAKA_KALELKAR_DESC:0 ""
 POLITICS_USHONA_DESC:0 ""
 
 ## Nationalist France ##
-POLITICS_PHILIPPE_PETAIN_DESC:0 "베르덩의 사자는 북아프리카에서 지중해 건너 편의 사악한 생디칼리스트 쥐새끼들에게 거칠게 포효하는 것으로만 보이지만, 그는 조국 프랑스와 그가 가진 모든 것들이 무너지는 광경을 바라보며 가슴이 찢어질 듯한 슬픔에 울부짖었습니다. 그는 자신의 군대가 반란을 일으킬 것이라고는 꿈에도 몰랐고, 에펠 탑에 붉은 깃발이 게양되는 것도 전혀 예상치 못했으며, 자신이 낡은 증기선을 타고 프랑스에서 알제로 탈출하리라는 것도 예상치 못했습니다. 국민 프랑스는 옛 프랑스 공화국의 영광의 그림자에도 미치지 못하지만, 페텡 원수와 그의 조국에 사는 모든 이들의 가슴 속에는 여전히 무언가가 요동치고 있었고, 그것은 그들의 가라앉을 줄 모르는 복수심이었습니다. 베르덩의 사자는 자신의 몸이 북아프리카의 모래가 아닌 프랑스의 땅, 베르덩에 묻히는 것 외에는 바라는 것이 없습니다. 베르덩의 사자는 다시 뛰어들 것입니다. 이번에는 붉은 반역자들을 끝장내기 위해서!"
+POLITICS_PHILIPPE_PETAIN_DESC:0 "베르덩의 사자는 북아프리카에서 지중해 건너 편의 사악한 생디칼리스트 쥐새끼들에게 거칠게 포효하는 것으로만 보이지만, 그는 조국 프랑스와 그가 가진 모든 것들이 무너지는 광경을 바라보며 가슴이 찢어질 듯한 슬픔에 울부짖었습니다. 그는 자신의 군대가 반란을 일으킬 것이라고는 꿈에도 몰랐고, 에펠탑에 붉은 깃발이 게양되는 것 역시 생각지도 못했으며, 자신이 낡은 증기선을 타고 프랑스에서 알제로 탈출하리라는 것도 예상치 못했습니다. 국민 프랑스는 옛 프랑스 공화국의 영광의 그림자에도 미치지 못하지만, 페텡 원수와 그의 조국에 사는 모든 이들의 가슴 속에는 여전히 무언가가 요동치고 있었고, 그것은 그들의 가라앉을 줄 모르는 복수심이었습니다. 베르덩의 사자는 자신의 몸이 북아프리카의 모래가 아닌 프랑스의 땅, 베르덩에 묻히는 것 외에는 바라는 것이 없습니다. 베르덩의 사자는 다시 뛰어들 것입니다. 이번에는 붉은 반역자들을 끝장내기 위해서!"
 POLITICS_JEAN_III_DESC:0 "한때 냉담한 귀족이었던 장 3세 오를레앙은 프랑스 생디칼리즘 혁명의 영향을 심하게 받았습니다. 그가 북아프리카로 도망가면서, 그는 곤경에 처한 프랑스와 그 국민들의 미래를 보장하는데 있어서 군주제의 필요성을 확신하게 되었습니다. 악시옹 프랑세즈와 긴밀해지며, 장은 자신을 생디칼리즘과 투쟁에서의 투사로 내세웠습니다. 오를레앙 왕정이 복원됨에 따라, 장은 빨갱이들을 파괴하고 군주제의 원칙적인 지배를 프랑스 전역으로 확장하는 것을 목표로 합니다."
 POLITICS_NAPOLEON_IV_DESC:0 "루이 나폴레옹 4세 드 보나파르트는 새로운 프랑스의 상징입니다. 노트르담 드 아프리끄에서 대관식을 한 그는 파리에서의 나폴레옹 1세와 같은 거창함으로 프랑스의 옛 영광을 복원하려는 야망의 상징입니다. 아우스터리츠에 묻힌 그의 조상처럼, 루이 나폴레옹은 프랑스의 적들의 심장에 치명적인 타격을 입히려고 노력합니다."
 POLITICS_PIERRE_FLANDIN_DESC:0 "피에르 에티엔 플라댕은 세계대전과 혁명이 일어나기 전의 프랑스를 회상합니다. 자유방임주의 경제학을 신봉하는 동시에 사회보수적이기도 하지만, 확고한 공화주의자인 플라댕의 프랑스 미래에 대한 비전은 그가 그토록 소중히 여기는 과거의 비전과 같습니다."
 POLITICS_ANDRE_MALLARME_DESC:0 "앙드레 말라르메는 종종 어리석은 이상주의자라며 정적들에 의해 비판받습니다. 말라르메는 그런 비판을 인정합니다. 사실 말라르메는 이상주의자이지만, 그 자신이 진정한 이상주의자가 되기 위해서는 프랑스 공화국의 국시이자 가장 가치 있는 개념인 자유, 평등, 박애에 동의해야 한다고 생각합니다. 말라르메는 생디칼리즘이 인간 존엄성에 대한 모욕이므로, 프랑스 국민들의 우려를 용인하고 고려해야 한다고 믿습니다. 말라르메에게 있어서 생디칼리즘에 대항하는 유일하고 효과적인 방어 수단은 자유주의 공화국입니다."
 POLITICS_FERNAND_BOUISSON_DESC:0 "페르난드 뷔송은 피에-누아르 출신이자 세계대전 이전의 부슈뒤론의 부도지사로, 망명 프랑스 공화국의 정치적 분위기에 잘 어울리는 사람입니다. 생디칼리즘에 대한 경멸을 가진 좌파인 뷔송은 의회에서의 이데올로기에 대한 공개연설을 주저하지 않았습니다. 뷔송은 프랑스 동포들에 대한 동정심과, 모든 프랑스인들을 만족시켜야 한다는 믿음을 가지고 있습니다."
 POLITICS_CHARLES_DEGAULLE_DESC:0 "한때 독일군과 빨갱이에 맞서 격렬히 투쟁했던 샤를 드 골은 이제 대통령으로서 프랑스 공화국의 운명을 위해 투쟁합니다. 필리프 페탱의 후임자인 드 골은 공화국을 다시 위대하게 만들 수 있는 유일한 방법으로서 강력한 행정부 중심체제를 옹호합니다. 전쟁터에서, 국회의사당에서 드 골은 지도자로서 본인의 유능함을 입증했습니다."
-POLITICS_HENRI_VI_DESC:0 "앙리 6세 오를레앙의 팔뚝에는 프랑스가 혁명의 전화에 휩쓸렸을 때의 흉터가 여전히 남아 있는데, 그 때의 길 잃은 파편 조각들이 아직도 흉터 속에 묻혀 있습니다. 어린 시절에 시련을 겪은 앙리는 프랑스에 헌신하겠다는 결심을 굳혔습니다. 비록 세습적이기는 하지만, 앙리는 국민들의 행복을 위해 노력하고 있습니다. 왕으로서의 앙리는 미래의 투쟁에서 프랑스의 검과 방패가 되기를 원합니다."
+POLITICS_HENRI_VI_DESC:0 "앙리 6세 오를레앙의 팔뚝에는 프랑스가 혁명의 전화에 휩쓸렸을 때의 흉터가 여전히 남아 있는데, 그 때의 길 잃은 파편 조각들이 아직도 흉터 속에 묻혀 있습니다. 어린 시절에 시련을 겪은 앙리는 프랑스에 헌신하겠다는 결심을 굳혔습니다. 비록 세습적이기는 하지만, 앙리는 국민들의 행복을 위해 노력하고 있습니다. 국왕으로서의 앙리는 미래의 투쟁에서 프랑스의 검과 방패가 되기를 원합니다."
 
 ## Nepal ##
 POLITICS_TRIBHUVANA_DESC:0 ""
@@ -1180,7 +1180,7 @@ POLITICS_LUCRETIU_PATRASCANU_DESC:0 ""
 POLITICS_CAROL_II_DESC:0 ""
 
 ## Russia/USSR ##
-POLITICS_BORIS_SAVINKOV_DESC:0 "극단적인 국민주의자이자 인민당원인 '나로드노-레스부샤 파르티야 로시이'와 '전투 부대'로 알려진 과격한 준군사 조직의 지도자 보리스 비크토로비치 사빈코프는 원래 사회주의 혁명 정당의 주도적인 당원이었으며, 그 당의 우익 세력을 러시아 인민공화당으로 유인했습니다. 노련한 작가이자 선동 정치가인 사빈코프는 좌파의 약함에 대한 강한 증오심을 품고 있고 러시아를 그것의 영웅적인 반응으로 복원하려는 거창한 꿈을 가지고 있습니다."
+POLITICS_BORIS_SAVINKOV_DESC:0 "극단적인 국민주의자이자 인민당원인 '나로드노-레스부샤 파르티야 로시이'와 '전투 부대'로 알려진 과격한 준군사 조직의 지도자 보리스 빅토로비치 사빈코프는 원래 사회주의 혁명당의 주역이었으며, 그 당의 우익 세력을 러시아 인민공화당으로 유인했습니다. 노련한 작가이자 선동 정치가인 사빈코프는 좌파의 약함에 대한 강한 증오심을 품고 있고 러시아를 그것의 영웅적인 반응으로 복원하려는 거창한 꿈을 가지고 있습니다."
 POLITICS_DMITRI_ROMANOV_DESC:0 "러시아의 마지막 차르 니콜라이 2세의 사촌이자 러시아 귀족들 사이에서 가장 영향력 있는 인물인 드미트리 파블로비치는 러시아 정계를 매우 쉽게 주무릅니다. 폭넓은 인맥과 그의 지인들이 국제 관계에서 그를 기꺼이 돕습니다. 그러나 그의 국내 정책에서의 능력 부족은 그의 매력과 인격에 의해서 겨우 가려지고 있는 상황입니다."
 POLITICS_DMITRI_ROMANOV_TSAR_DESC:0 "러시아와 외국 귀족들 간의 수많은 관계는 드미트리 차르가 타국의 외교관들 및 정부와 확고한 외교 관계를 맺는데 도움을 주고, 언론에 대한 그의 뛰어난 이해도 역시 긍정적인 대중적 이미지를 형성하는데 있어서 유리함을 줍니다. 그러나 그의 국내 정책에서의 능력 부족은 그의 매력과 인격에 의해서 겨우 가려지고 있는 상황입니다."
 POLITICS_PAVEL_II_DESC:0 "아버지의 사망 당시에 겨우 12살이었던 어린 파벨 2세는 섭정 의회의 꼭두각시가 될 가능성이 매우 높습니다. 그럼에도 불구하고, 그가 최소한 그의 아버지의 매력 중 일부를 유전받았다는 사실은 분명한데, 그렇기에 만약 충분한 정치적 능력만 갖춘다면, 언젠가 그에게 독립적인 통치의 기회가 주어질지도 모릅니다."
@@ -1321,12 +1321,12 @@ POLITICS_DANIEL_MALAN_DESC:0 "Daniel François Malan, former editor of the Natio
 POLITICS_HERBERT_STANLEY_DESC:0 "Herbert James Stanley, British-Rhodesian political leader, with the death of Jan Christiaan Smuts, has become governor-general of the Dominion of South Africa. Stanley, an Englishman, seeks to foster even more resilient economic and political ties with Canada, while maintaining South Africa's independence."
 
 ## Spain ##
-POLITICS_ALPHONSO_BOURBON_DESC:0 "1886년 출생 직후부터 알폰소 드 부르봉 13세는 대중의 경멸을 받았으며 1932년 스페인의 왕좌로 복원되었습니다. 그의 두 번째 통치는 그의 첫 번째 통치보다 훨씬 더 격동적이었습니다; 공화주의자, 카를리스타, 그리고 사회주의 반체제 인사들은 모두 그의 권위를 손상시키고 경제 성장은 침체되었습니다. 알폰소 통치하에 있는 스페인은 폭발하기 쉬운 화약고로 성장했습니다."
-POLITICS_JUAN_BOURBON_DESC:0 "후안 드 부르봉은 스페인이 분열된 것을 물려받았고, 스페인은 나락 직전이었습니다. 널리 멸시되고 있는 알폰소의 아들이자 후계자로서, 그의 통치는 그의 아버지의 망령에 의해 영원히 사라질 것이지만, 알폰소가 아닌, 스페인을 더 나은 미래로 이끌어야 하는 사람은 후안입니다."
+POLITICS_ALPHONSO_BOURBON_DESC:0 "1886년 출생 직후부터 알폰소 데 보르본 13세는 대중의 경멸을 받았으며 1932년 스페인의 왕좌로 복원되었습니다. 그의 두 번째 통치는 그의 첫 번째 통치보다 훨씬 더 격동적이었습니다; 공화주의자, 카를리스타, 그리고 사회주의 반체제 인사들은 모두 그의 권위를 손상시키고 경제 성장은 침체되었습니다. 알폰소 통치하에 있는 스페인은 폭발하기 쉬운 화약고로 성장했습니다."
+POLITICS_JUAN_BOURBON_DESC:0 "후안 데 보르본은 갈갈이 찢긴 스페인을 물려받았고, 그 스페인은 나락으로 빠지기 직전이었습니다. 널리 멸시되고 있는 알폰소의 아들이자 후계자로서, 그의 통치에는 영원히 아버지의 망령이 붙게 되겠지만, 스페인을 더 나은 미래로 이끌 만한 인재라면 알폰소보다는 후안입니다."
 POLITICS_FRANSISCO_FRANCO_DESC:0 "프란시스코 프랑코 바하몬데 장군의 널리 알려진 카리스마와 독특한 스페인의 남자다움은 그의 빠른 행동력이 인기와 지도력으로의 전환을 용이하게 했습니다. 이제 스페인의 국가원수인 프랑코는 붕괴된 국가를 다시 건설하는 불쾌한 일을 하고 있습니다. 그런 부담에도 불구하고, 아무도 그가 독특하게 자격을 갖추고 있다는 것을 부인할 수 없습니다."
 POLITICS_MIGUEL_FERRER_DESC:0 "리프 전쟁에서 스페인의 아프리카 식민지 징집병을 지휘했던 미겔 카바넬레스 패럴은 엄격한 규율과 집중을 통해 스페인 정치의 선두로 올라섰습니다. 그와 그의 스페인 팔랑헤당은 전통적인 정당보다는 준 군사적인 것으로 조직되었고 스페인으로 질서 정연함을 가져올 수 있는 유일한 세력일 것입니다."
 POLITICS_GIL_ROBLES_QUINONES_DESC:0 "헌신적인 군주주의자이자 호전적인 가톨릭 신자인 호세 마리아 길로블레스 이 퀴노네스는 스페인에서 유명해졌습니다. 종교적 덕목을 찬양하면서, 왕국의 적들을 비난하는 그의 선동적인 연설은 카를리스타에게 급진적으로 보일 수도 있습니다, 그렇기는 하지만, 퀴노네스는 불온한 스페인 국가의 지휘권을 확고히 지키고 있습니다."
-POLITICS_JAIME_BOURBON_DESC:0 "알폰소 13세 왕의 둘째 아들인 제이미 드 부르봉은 귀머거리이며 왕위에 대한 어떠한 주장도 포기할 것으로 여겨졌었습니다. 정신력이 부족하지는 않지만 병자라는 그의 명성은 그보다 앞섭니다. 그러나 이 믿음직하지 않은 왕은 스페인을 불확실한 미래로 이끌어야 합니다."
+POLITICS_JAIME_BOURBON_DESC:0 "알폰소 13세 왕의 둘째 아들인 하이메 데 보르본은 청각장애인이며, 왕위에 대한 어떠한 주장도 포기할 것으로 여겨졌었습니다. 정신력이 부족하지는 않지만 병자라는 그의 명성은 그보다 앞섭니다. 그러나 이 믿음직하지 않은 왕은 스페인을 불확실한 미래로 이끌어야 합니다."
 POLITICS_FREDERICK_SPAIN_DESC:0 ""
 POLITICS_JESUS_MARIA_LEIZAOLA_DESC:0 ""
 POLITICS_RAMON_OTERO_PEDRAYO_DESC:0 ""
@@ -1404,7 +1404,7 @@ POLITICS_SHUMYATSKY_DESC:0 "보리스 슈마츠키의 부모는 자신의 고향
 POLITICS_MERKULOV_DESC:0 "A former leader of the pro-Japanese Provisional Primorsk Government, Merkulov's cabinet had been incorporated into Semyonov's Transbaikal state. Now, as Kolchak no longer stands in his way and democracy has finally returned to Vladivostok, Merkulov, a son of a humble peasant, is eager to lead Transamur to prosperity. His vast and personal connections with the people have helped him gain a majority of the votes during the Presidential elections."
 POLITICS_WOJ_DESC:0 "A leader of Czechoslovakian Legion and hero of the Russian Civil War, Wojciechowski has refused to accept the Brest-Litovsk treaty as legitimate. Outraged, he ceased all the contact with the government of the Russian Republic, and left for Transamur where he found many supporters. Formerly the right-hand man of admiral Kolchak, Sergei betrayed and killed his 'friend'. Less aggressive and ambitious than the rogue admiral, and a hardened veteran, Wojciechowski is now ready to advance West."
 POLITICS_SEMYONOV_DESC:0 "바이칼 코사크의 수령인 세묘노프와 그의 자식들은 러시아 극동을 휘젓고 다니는 볼셰비키들과 싸우기 위해 현재 트란스아무르로 알려진 트란스바이칼국을 가까스로 설립했습니다. 그러나 이 신생국은 곧 일본에 예속되고 맙니다. 1925년에 쿠데타에 실패한 사기꾼 콜차크가 러시아를 떠나 트란스아무르로 향했을 때, 세묘노프는 어쩔 수 없이 지도직을 사임하고 군 통수권자로서의 역할을 이어나갔습니다. 그러나 소위 '국부'는 정치적 영향력을 행사하며 가까스로 지도직에 복귀하게 됩니다. 세모노프의 유일한 목표는 트란스아무르의 번영이며, 이 목표를 이루기 위해서 그는 불확실한 전쟁을 꺼립니다."
-POLITICS_YUI_DESC:0 "노쇠한 장군 미츠에는 러시아 내전 당시에 개입했던 일본군 특공대를 이끌었던 자입니다. 명예로운 전쟁 영웅인 그는 천황이 수 년 전에 정복한 영토의 최고 통치자로서 말년을 보낼 수 있는 최고의 선물을 받았습니다. 고립주의자인 이 노인은 어떤 종류의 전쟁도 피하고자 합니다. 그가 트란스아무르의 통치자로 권력을 쥐게 된 순간, 대 트란스아무르의 꿈도 함께 사라진 것입니다."
+POLITICS_YUI_DESC:0 "노쇠한 장군 미츠에는 러시아 내전 당시에 개입했던 일본군 특공대를 이끌었던 자입니다. 명예로운 전쟁 영웅인 그는 천황에게 수 년 전에 정복한 영토의 최고 통치자로서 말년을 보낼 수 있는 최고의 선물을 받았습니다. 고립주의자인 이 노인은 어떤 종류의 전쟁도 피하고자 합니다. 그가 트란스아무르의 통치자로 권력을 쥐게 된 순간, 대 트란스아무르의 꿈도 함께 사라진 것입니다."
 POLITICS_PEPELYAYEV_DESC:0 ""
 POLITICS_KRASNOSHCHYEKOV_DESC:0 ""
 
@@ -1443,9 +1443,9 @@ POLITICS_MUSAAZI_DESC:0 ""
 POLITICS_COHEN_UGANDA_DESC:0 ""
 
 ## Ukraine ##
-POLITICS_VASYL_DESC:0 "대부분의 러시아인과 우크라이나인 같은 슬라브인들은 바실리 1세 폰 합스부르크-로트링겐 국왕을 외세 지배의 굴욕적인 상징으로 여깁니다. 사실 우크라이나에서 정치적 양극화가 급속도로 퍼지면서, 바실리 왕에 대한 경멸은 아마도 우크라이나의 다양한 민족들 사이의 유일한 공감대일 것입니다. 이런 경멸와 함께 침체된 경제, 무능력한 관료제, 그리고 무엇보다도 영향력을 행사하는 헤트만과의 긴장 속에서 바실리는 자신의 권위를 유지하기 위해 고군분투합니다."
+POLITICS_VASYL_DESC:0 "대부분의 러시아인과 우크라이나인 같은 슬라브인들은 바실리 1세 폰 합스부르크로트링겐 국왕을 외세 지배의 굴욕적인 상징으로 여깁니다. 사실 우크라이나에서 정치적 양극화가 급속도로 퍼지면서, 바실리 왕에 대한 경멸은 아마도 우크라이나의 다양한 민족들 사이의 유일한 공감대일 것입니다. 이런 경멸와 함께 침체된 경제, 무능력한 관료제, 그리고 무엇보다도 영향력을 행사하는 헤트만과의 긴장 속에서 바실리는 자신의 권위를 유지하기 위해 고군분투합니다."
 POLITICS_NIKITA_KRUSCHEV_DESC:0 "권위주의적인 사회주의자인 니키타 흐루시쵸프가 우크라이나 총리가 되었습니다. 러시아-우크라이나의 국경 부근 러시아 농가에서 태어난 흐루시쵸프는 부농 지주층에 대한 깊은 불신을 품고 있습니다. 그러나 이 불만에 기반한 일련의 조치들은 소수 우크라이나인들을 제외하고는 인기가 없으며 이로 인해 흐루시쵸프는 타협을 강요받게 될 수도 있습니다."
-POLITICS_LEO_STEFAN_DESC:0 "레오 스테판 폰 합스부르크-로트링겐은 인종적으로는 오스트리아인이지만 우크라이나 문화 속에서 성장했습니다. 몇몇 사람들은 레오의 지위 상승은 제국 조약과 우크라이나 사이의 타협을 나타내는 것으로 여기지만, 다른 사람들은 외세에 의한 우크라이나의 지속적인 지배를 나타낸다고 한탄합니다. 후자와 같이 주장하는 반체제 인사들은 진정한 타협안은 독일과 오스트리아의 의지에 달려있다고 이야기했었지만, 이제 그들은 레오를 지원하기 위해 단결했습니다."
+POLITICS_LEO_STEFAN_DESC:0 "레오 스테판 폰 합스부르크로트링겐은 인종적으로는 오스트리아인이지만 우크라이나 문화 속에서 성장했습니다. 몇몇 사람들은 레오의 지위 상승은 제국 조약과 우크라이나 사이의 타협을 나타내는 것으로 여기지만, 다른 사람들은 외세에 의한 우크라이나의 지속적인 지배를 나타낸다고 한탄합니다. 후자와 같이 주장하는 반체제 인사들은 진정한 타협안은 독일과 오스트리아의 의지에 달려있다고 이야기했었지만, 이제 그들은 레오를 지원하기 위해 단결했습니다."
 POLITICS_DANIIL_I_DESC:0 "명성이 자자한 헤트만의 아들인 다닐 스코로파드스키가 우크라이나의 왕위에 올랐습니다. 헤트만과 왕정 간의 오랜 권력 다툼이 마침내 해결되자 우크라이나인들은 안도감을 느꼈습니다. 다닐은 우크라이나에 안정과 질서를 가져오고, 우크라이나 내의 사회주의 운동을 단호하게 뿌리뽑을 계획입니다. 독일에 대해 대놓고 적대적이지는 않지만, 그는 우크라이나의 독립을 천명하고 우크라이나의 경제 자립을 위해 나라의 경제를 재정립하려고 합니다."
 POLITICS_VLADIMIR_VYNNYCHENKO_DESC:0 ""
 POLITICS_BORIS_MARTOS_DESC:0 ""
