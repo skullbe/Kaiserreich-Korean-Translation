@@ -69,13 +69,13 @@ JAP_russia_trigger2:0 "러시아로 향한 통로가 반드시 확보되어있�
 JAP_SUN_SIA_trigger:0 "시암이 존재하고, 우호적인 정부를 가지고 있어야 하며, 우리와 전쟁중이 아니어야 합니다."
 JAP_is_CA_strong_enough:0 "§RWe will attempt to integrate Fengtian, however if support for the Concordia Association is not high enough this could lead to war and waste the effort we have put in so far.§!"
 japanese_mongol_alliance:0 "일본-몽골 동맹"
-PHI_RESIST_OOB_TOOLTIP:0 "§GWe will mobilise troops to oppose the Japanese.§!\n"
-HAW_resist_OOB_TOOLTIP:0 "§GWe will mobilise troops to oppose the Japanese.§!\n"
-KOR_uprising_tt:0 "New infantry and militia divisions will be raised."
-KOR_uprising2_tt:0 "New infantry, militia, and Cavalry divisions will be raised."
-KOR_uprising3_tt:0 "New infantry divisions will be raised."
-JAP_offered_peace_and_I_want:0 "§GWe will accept Japan's terms of peace, though it will take about two weeks for the deal to be finalised. Be warned that all those at war with Japan will have to accept for the deal to go through...§!"
-JAP_offered_peace_and_I_hate_peace:0 "§RWe will reject Japan's terms of peace. Be warned that this will prevent peace for all those at war with Japan, not just us...§!"
+PHI_RESIST_OOB_TOOLTIP:0 "§G우리는 군대를 동원하여 일본군에 대항할 것입니다.§!\n"
+HAW_resist_OOB_TOOLTIP:0 "§G우리는 군대를 동원하여 일본군에 대항할 것입니다.§!\n"
+KOR_uprising_tt:0 "새로운 보병과 민병대 사단이 생성될 것입니다."
+KOR_uprising2_tt:0 "새로운 보병, 민병대, 기병 사단이 생성될 것입니다."
+KOR_uprising3_tt:0 "새로운 보병 사단이 생성될 것입니다."
+JAP_offered_peace_and_I_want:0 "§G협상이 마무리되려면 2주정도 소요되겠지만, 우리는 일본의 평화협정을 받아들일 것입니다. 일본과 전쟁을 하고 있는 모든 사람들은 협상을 수락해야합니다...§!"
+JAP_offered_peace_and_I_hate_peace:0 "§R우리는 일본과의 평화를 거부할 것입니다. 이것은 우리뿐만 아니라 일본과의 전쟁 중인 모든 사람들의 평화를 가로막는 것입니다...§!"
 
 ### Ideas ###
 JAP_rising_sun:0 "떠오르는 해"
@@ -93,7 +93,7 @@ KOR_integrate_japs_desc:0 "우리는 우리의 취약한 경제를 보강하기 
 JAP_fengtian_bailout:0 "봉천 구제금융"
 JAP_fengtian_bailout_desc:0 "우리는 그들의 저축을 채우기에 충분한 은을 구매함으로써 봉천 정부를 구제 하고 있습니다."
 JAP_MANTETSU_COLLAPSE:0 "만철 붕괴"
-JAP_MANTETSU_COLLAPSE_desc:0 "With Mantetsu's considerable profits being a major driver in the Japanese economy, and a source for nearly a quarter of the government's yearly revenue, the wholesale seizure and destruction of its operations in China has left the country reeling."
+JAP_MANTETSU_COLLAPSE_desc:0 "만철의 상당한 이윤은 일본 경제의 주요 동력이고, 정부 연간 수입의 4분의 1에 육박하고 있습입니다. 하지만 최근의 사건으로인한 중국사업체에 대한 대규모 압수와 파괴는 일본에 타격을 주었습니다."
 
 ### Focuses - Foreign - Base ###
 JAP_SUN_RISE:0 "떠오르는 해"
@@ -361,12 +361,12 @@ japfor.43.d:0 "독일은 우리의 조건을 받아들였습니다. 이것은 �
 japfor.43.a:0 "훌륭해!"
 
 japfor.44.t:0 "일본이 청을 공격하다!"
-japfor.44.d:0 "With the eruption of the grand military conflict in Asia, some important members of our general staff have suggested the direct involvement of our colony the A.O.G. in the ongoing conflict, since its vast armies and strategic location could decisively turn the tide in our favour. Still, the A.O.G. board of directors warns us that, although they are willing to help the fatherland, this effort could seriously destabilise the already fragile situation in their colony..."
-japfor.44.a:0 "청 제국은 지지 않을 것이다!"
+japfor.44.d:0 "아시아에서의 대규모 군사분쟁의 발발과 함께, 우리의 주요 참모들은 우리의 식민지인 일반 동아시아 회사(A.O.G.)가 양국의 분쟁에 직접 개입할 것을 제안했습니다. A.O.G.의 거대한 군대와 전략적 위치가 결정적으로 우리에게 유리한 상황을 만들 수 있습니다. 하지만, A.O.G. 이사회는 물론 조국을 돕겠지만, 이러한 행동은 가뜩이나 취약한 식민지 상황을 심각하게 불안정하게 만들수 있다고 경고합니다."
+japfor.44.a:0 "청 제국은 패배하지 않을 것이다!"
 japfor.44.b:0 "우리가 할 수 있는 건 없다..."
 
 japfor.45.t:0 "독일의 제안"
-japfor.45.d:0 "A German diplomatic ambassador on behalf of the Kaiser has offered our homeland the military support of the German Empire in our struggle with Japan and its lackeys. How shall we react?"
+japfor.45.d:0 "카이저의 대표로 온 독일 외교 대사는 일본과의 전쟁에서 독일 제국은 군사적으로 지원하겠다고 제안했다. 뭐라고 대답할까요?"
 japfor.45.a:0 "이게 우리가 살아남을 유일한 방법이다!"
 japfor.45.b:0 "우리는 이 전쟁에서 스스로 승리 할 것이다!"
 
@@ -728,17 +728,17 @@ japfor.137.d:0 "몇 시간 동안의 협상에도 불구하고 양측은 합의�
 japfor.137.a:0 "어쩔 수 없군..."
 
 japfor.138.t:0 "트란스아무르는 러시아의 것이다!"
-japfor.138.d:0 "Facing the threat of Russian military force and deprived of the support of the local capitalists and the Japanese, Transamur's government is ready to collapse in the face of popular discontent. We can now do what we like with Transamur, but it has been independent for a long time and will be difficult to integrate into our country. Perhaps some sort of compromise is needed?"
-japfor.138.a:0 "No compromise - put the leadership on trial and incorporate Transamur"
-japfor.138.b:0 "Administer Transamur as an autonomous zone. For now."
+japfor.138.d:0 "러시아 군대의 위협에 직면하고서 현지 자본가와 일본인들의 지지마저 박탈당한 트란스아무르 정부는 대중의 불만에 직면하여 붕괴직전까지 몰려 있습니다. 이제 트란스아무르를 우리가 원하대로 이용할 수 있습니다. 트란스아무르는 오랜 기간 동안 러시아에서 독립되어있었고 바로 통합하기는 어려울 것입니다. 일종의 타협이 필요할 수 도 있습니다."
+japfor.138.a:0 "타협은 없다. 지도층을 재판에 회부하고 트란스아무르를 통합해라."
+japfor.138.b:0 "당장은 트란스아무르를 자치령으로 관리하라."
 
 japfor.139.t:0 "일본 제국과의 평화?"
-japfor.139.d:0 "Our military campaign against the Japanese Empire has been a military catastrophe so far. Nearly the whole of East-Siberia has fallen. Many politicians are demanding a peace treaty with Japan to end this war, even if at great expense..."
+japfor.139.d:0 "일본제국에 대항한 우리의 군사작전은 말 그대로 군사적 대재앙이었습니다. 동부 시베리아 대부분이 함락되었습니다. 국내의 많은 정치인들은 막대한 비용을 들여서라도 이 전쟁을 끝내고 일본과의 평화협정을 해야한다고 말하고 있다..."
 japfor.139.a:0 "태평양 연얀을 넘겨주어라."
 japfor.139.b:0 "항복은 있을 수 없다!"
 
 japfor.140.t:0 "러시아의 평화 제안"
-japfor.140.d:0 "Nearly the whole of East-Siberia has been taken. Now Russia begs for peace and offers us the Russian pacific coast. Shall we accept this offer?"
+japfor.140.d:0 "동부 시베리아의 거의 모든 지역이 점령되었습니다. 러시아는 평화를 구걸하며 우리에게 태평양 연안의 영토를 제공하겠다고 합니다. 이 제안을 받아들일까요?"
 japfor.140.a:0 "우리의 기대 이상이군. 조건을 받아들여라."
 japfor.140.b:0 "러시아 놈들과의 평화는 있을 수 없다!"
 
@@ -747,11 +747,11 @@ japfor.141.d:0 "일본이 우리의 제안을 거절했습니다. 그들의 멍�
 japfor.141.a:0 "전쟁은 계속된다."
 
 japfor.142.t:0 "일본이 우리의 평화 제안을 받아들이다"
-japfor.142.d:0 "Now we have to fulfil the harsh conditions of the peace treaty we have signed, but later we will take our provinces back!"
+japfor.142.d:0 "이제 우리는 우리가 서명한 평화 조약의 가혹한 조건을 이행해야 하지만, 나중에 우리의 영토를 되찾을 것입니다!"
 japfor.142.a:0 "영토를 넘겨주어라."
 
 japfor.143.t:0 "승리!"
-japfor.143.d:0 "Now the Russian pacific coast is in our hands. We can either keep it for ourselves or hand it over to our loyal puppet, Transamur."
+japfor.143.d:0 "러시아의 태평양 연안이 우리 수중에 들어왔습니다. 우리를 위해 점령을 유지하거나, 우리의 충성스런 괴뢰국인 트란스아무르에게 넘겨줄 수도 있습니다."
 japfor.143.a:0 "트란스아무르에게 주어라."
 japfor.143.b:0 "계속 소유한다."
 
