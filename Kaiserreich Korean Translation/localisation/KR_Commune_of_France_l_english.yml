@@ -50,6 +50,12 @@ FRA_1941_election:0 "인터내셔널의 힘"
 ### Tooltips ###
 FRA_devSA_tooltip:0 "§Y어떤 남아메리카 국가던지§!:\n       존재함\n       인터내셜과 평화 상태\n       사회주의 정부가 집권 중"
 FRA_devCA_tooltip:0 "§Y어떤 중앙아메리카 국가던지§!:\n       존재함\n       인터내셜과 평화 상태\n       사회주의 정부가 집권 중"
+FRA_tt_hydroelectricity_decisions:0 "Decisions on §YHydroelectricity§! will become available."
+FRA_help_SA_tt:0 "§YWe will help our South American brothers, as we had agreed on the Congress.§!\n"
+FRA_european_revolution_tt:0 "§YThe liberation decisions will be available.§!\n "
+FRA_help_phalanstere_tt:0 "§YDevelopment decisions will be available.§!\n"
+helped_phalanstere:0 "§YIs helping in developing another country.§!\n"
+FRA_sxtnreserve_tt:0 "Sixteen reserve divisions will be raised."
 
 ### Ideas ###
 
@@ -58,6 +64,9 @@ FRA_communard_spirit_desc:0 "우리는 파리 코뮌의 유산이며, 파리 코
 
 FRA_bad_intel:0 "비효율적인 정보부"
 FRA_bad_intel_desc:0 "질서당이 프랑스에서 노동자들의 폭동을 억누르기 위해 노력한 이후로, 중앙정보부에 대한 이야기는 많은 사람들에게 세계대전 이후 사회 운동에 대한 반동적 탄압의 상징으로 간주되어왔습니다. 결과적으로, 코뮌이 가진 정보 관련 부서는 이런 일이 재발하는 것을 막기 위해 대단히 작은 규모로 편성된 정보위원회로 국한됩니다."
+
+FRA_to_war_idea:0 "보복주의 재무장"
+FRA_to_war_idea_desc:0 "제국주의자들을 무찌르기 위해선 우리나라가 다시 강해져야합니다!"
 
 #The three following ideas are extremely weird. Are they intended ? Especially the third. Travailleurs and Sorelians both share it... I'm picking Travailleurs for now
 FRA_economic_reforms_anar:0 "경제 개혁"
@@ -120,6 +129,9 @@ FRA_tank_assembly_line_idea_desc:0 "수많은 적들이 우리에게 몰려오�
 FRA_fast_army_idea:0 "기동력에 집중"
 FRA_fast_army_idea_desc:0 "속도는 단순히 다른 지점으로 더 빨리 가는 것만이 아닙니다. 속도는 전쟁의 모든 것입니다. 다음 대전쟁이 참호전으로 흘러갈 것이라는 생각은 어리석기 짝이 없습니다. 기동력이야말로 전쟁의 미래가 될 것입니다. 우리는 기계화된 군대가 아니고, 따라서 빠른 속도를 가진 기계화 사단에 투자해야만 합니다."
 
+FRA_Red_Army:0 "붉은 대군"
+FRA_Red_Army_desc:0 "우리 군대는 자본주의 세계의 악마들보다 더 나은 형태를 가지고 있습니다."
+
 Capital_Ship_Primacy:0 "주력함 우선"
 Capital_Ship_Primacy_desc:0 "거대한 해군은 황제 해군을 격파하고, 독일 북부 지역을 해방하는 데 결정적인 역할을 할 것입니다. 그리고 그러한 과정에서, 전함은 아직도 중요합니다. 해군의 거포들은 천둥과 강철비를 반동분자들에게 쏟아 부어 그들의 함선을 바다 아래로 처박을 것입니다."
 
@@ -174,8 +186,8 @@ FRA_waves_of_syndicalism_idea_desc:0 "코뮌의 해군은 강하고, 그들은 �
 FRA_cut_off_capitalists_idea:0 "자본주의자 처단"
 FRA_cut_off_capitalists_idea_desc:0 "자본주의자들은 자신들의 식민지 통치에 자부심을 가지고 있습니다. 또한 그들이 약탈한 식민지의 과실들은 지금 공해상을 자유롭게 지나가고 있습니다. 하지만 우리는 아프리카와 아시아, 아메리카 인민들로부터 뺏은 재산들이 그들을 풍요롭게 만들도록 좌시하지 않을 것입니다."
 
-French_revanchism:0 "프랑스의 복수"
-French_revanchism_desc:0 "우리는 닥쳐올 전쟁을 오랫동안 준비해왔습니다. 또한 우리는 패탱과 그들의 공화국을 알제리로 쫓아 보냈습니다. 그러나 이것이 우리가 아르덴에서, 베르덩에서, 마른에서 쓰러진 형제들을 잊었다는 의미는 결코 아닙니다. 우리는 반드시 복수할 것이며, 최종적으로 우리들이 돌려받아야 할 것들을 반드시 되찾을 것입니다."
+French_Revanchism_idea:0 "프랑스의 복수"
+French_Revanchism_idea_desc:0 "우리는 닥쳐올 전쟁을 오랫동안 준비해왔습니다. 또한 우리는 패탱과 그들의 공화국을 알제리로 쫓아 보냈습니다. 그러나 이것이 우리가 아르덴에서, 베르덩에서, 마른에서 쓰러진 형제들을 잊었다는 의미는 결코 아닙니다. 우리는 반드시 복수할 것이며, 최종적으로 우리들이 돌려받아야 할 것들을 반드시 되찾을 것입니다."
 
 Revolutionary_spirit:0 "혁명의 정신"
 Revolutionary_spirit_desc:0 "생디칼리즘의 번영과 성공은 최후의 반동분자들의 요새까지 절멸되어야만 보장받을 수 있습니다. 우리는 대규모 동원을 준비하고, 이 세상의 모든 반동주의자들을 분쇄해야 합니다. 그 날, 인터내셔널은 모든 대륙과 모든 바다로 뻗어 나갈 것입니다."
@@ -185,6 +197,12 @@ FRA_socialist_education_idea_desc:0 "아이들에 대한 교육은 코뮌 같은
 
 FRA_phalanstere_NOR:0 "노르웨이 원조"
 FRA_phalanstere_NOR_desc:0 "우리는 현재 노르웨이의 형제들에게 산업 원조를 제공하고 있습니다."
+
+COF_prodcsaplanes:0 "아메리카 노동연맹을 위한 항공기 생산"
+COF_prodcsaplanes_desc:0 ""
+
+FRA_avantgarde_idea:0 "국제 아방가르드"
+FRA_avantgarde_idea_desc:0 "A united socialist artstyle, from art to music, could be a powerful tool that will help masses in the non-syndicalist world get interested in our ideals - through entertainment."
 
 ### Parties ###
 
@@ -235,7 +253,8 @@ FRA_will_get_bypassed_tooltip:0 "§Y이 중점은 해당 이벤트가 발생할 
 FRA_end_first_congress_flag:0 "1차 인터내셔널 회의가 끝나다.\n"
 inauguration_second_congress:0 "2차 인터내셔널 회의가 열리다.\n"
 FRA_mission_bharitya_flag:0 "바라티야 코뮌에서의 군사 임무 수행에 동의하다.\n"
-FRA_muslim_comitee_tooltip:0 "§Y이 중점은 아랍 국가들에게 사보타주 이벤트를 발동시킬 것입니다§!\n"
+FRA_arab_committee_tooltip:0 "§Y위원회는 프랑스령 아프리카와 독일이 관리하는 모로코 내의 독립운동을 도울 것입니다.§!\n"
+FRA_support_Sail_flag:0 "회의에서 사일의 작전 지지를 승낙하다.\n"
 FRA_working_women_flag:0 "여성 노동자에 대해 더 나은 지위를 허락하다.\n"
 FRA_support_cnt:0 "전국노동연맹을 지원하다.\n"
 FRA_help_bolivia:0 "볼리비아를 지원하다.\n"
@@ -273,7 +292,7 @@ FRA_autoroutes_desc:0 "고속도로는 도시 지역의 경제와 노동자 이�
 FRA_eco_direction:0 "경제의 방향"
 FRA_eco_direction_desc:0 "우리들의 경제는 노동자에게 더 공정하고, 일반적으로 꽤 효율적입니다. 자본가의 변덕에 의해 죽고 사는 반동주의 경제에 비한다면 더욱이요. 그러나 내부에 벌어지는 분쟁은 인미들이 자신 경제를 운용하는 것을 어렵게 합니다. 이제 BGT를 소집할 시간입니다. 이 문제는 코뮌 파벌 중 하나에 의해 해결될 것입니다."
 FRA_orth_syndicalism:0 "정통 생디칼리즘"
-FRA_orth_syndicalism_desc:0 "브누아 프라숑은 코뮌의 새 경제 장관입니다. 그는 정통 생디칼리즘의 지지자로서, 지난 20 년 동안 프랑스를 인도해온 정책만큼이나 익숙한 정책입니다. 일부 개혁을 통해 안정성과 효율성을 선택할 필요를 없애야만 합니다."
+FRA_orth_syndicalism_desc:0 "혁명 이후 정해진 과정은 재확인되었습니다. 이 정통은 효과가 입증되었고, 약간의 미세조정을 거친다면 더욱 좋아질 것입니다."
 FRA_reduce_unemploy:0 "실업률 감소"
 FRA_reduce_unemploy_desc:0 "라인강 너머의 실업률이 사상 최고치에 이르렀습니다. 우리는 프랑스 노동자가 항상 가족을 먹일 직업을 갖도록 해야 합니다. 우리 국민들에게 지속 가능한 성과를 제공하는 이 간단한 임무에서, 우리는 자본주의 경제와 그들의 끊임없는 위기에 대한 우리 고유의 우월성을 증명합니다."
 FRA_work_design_coop:0 "노동자와 설계자의 협력"
@@ -386,29 +405,33 @@ FRA_Demand_Romandy:0 "오트사부아 요구"
 FRA_Demand_Romandy_desc:0 "스위스의 오트사부아 불법 점령은 너무 오랫동안 계속되었습니다! 스위스는 우리의 정당한 땅에서 우리 국민들의 폭군과 억압자 노릇을 톡톡히 해왔습니다. 아무도 프랑스 사람들을 박해하고 추적하면서 자신들은 박해를 모면할 수 있다고 생각하는 뻔뻔함을 가질 수는 없습니다. 스위스는 그들의 마지막 실수를 저질렀습니다."
 FRA_Demand_Alsace_Lorraine:0 "알자스-로렌 요구"
 FRA_Demand_Alsace_Lorraine_desc:0 "이제 프랑스 인민들은 더 이상 좌시하지 않을 것입니다! 마침내 독일은 알자스-로렌을 돌려주던지 아니면 최종적인 반동분자의 귀결에 직면해야 할 겁니다! 그들이 만약 거부한다면, 우리는 베를린을 향해 진격하고, 그들을 전쟁의 야만성과 공포 속에 처박아버릴 것입니다! 우리는 우리의 타락한 형제들에게 복수할 것입니다!"
-FRA_war_with_spain:0 "스페인 독립"
-FRA_war_with_spain_desc:0 "우리의 남쪽 국경, 피레네 산맥 너머에 스페인 반동국가가 펼쳐져 있습니다. 우리의 가장 큰 희망에도 불구하고, CNT-FAI의 형제들은 군주제를 전복시키려는 시도에 성공하지 못했고, 현재 박해를 받고 있습니다. 하지만 우리는 성공할 것입니다. 곧, 코뮌은 스페인 노동자들을 해방시키고 이베리아를 보호할 것입니다."
+FRA_war_with_spain:0 "이베리아 해방"
+FRA_war_with_spain_desc:0 "피렌체 산맥을 가로질러 있는 남쪽 국경에는 자본주의와 제국주의는 여전히 유지되고 있습니다. 우리의 노력으로 프랑스 제국주의자들이 할 수 없었던 일, 즉 이베리아에 대한 완전한 지배를 이뤄낼 것입니다. 하지만, 이베리아 정복에 대한 명분은 제국주의적인 야망이 아닌 인민들의 해방입니다. 생디칼리즘은 이베리아에서 성공할 것입니다!"
 FRA_War_with_germany:0 "독일을 무너뜨리다"
 FRA_War_with_germany_desc:0 "놀랍게도, 독일의 반동주의자들은 알자스-로렌을 양도했습니다. 하지만 우리는 여기서 멈출 생각이 없습니다! 혁명은 승리할 것이고, 우리 형제들은 세계대전에서 그들이 겪은 일에 대한 복수를 할 것입니다. 그들은 차라리 그들이 첫 번째 전쟁에서 졌기를 바랄 것입니다. 우리는 그들이 완전히 파괴될 때까지 어떤 것도 멈추지 않을 것입니다!"
-FRA_War_with_austria:0 "오스트리아-헝가리의 해방"
+FRA_War_with_austria:0 "도나우 강을 붉게 물들이자"
 FRA_War_with_austria_desc:0 "오스트리아인들은 합스부르크 가문의 폭정으로부터 성공적인 사회주의를 이끌고 스스로를 해방시키는 과정에서 대단히 무능한 모습을 보였습니다. 그렇다면 우리가 그들을 도울 것입니다. 마찬가지로, 이 시대착오적인 제국의 압제 아래 있는 모든 국민은 자유로워질 것입니다. 유럽은 반동 제국들로부터 자유로워질 것입니다."
-FRA_War_with_Italian_Federation:0 "이탈리아 통합"
-FRA_War_with_Italian_Federation_desc:0 "이탈리아는 세계대전 기간 동안 도움이 되는 동맹국이었지만, 그 이후 밀라노에 있는 공화국과 양시칠리아의 반동적인 압제 하에 들어갔습니다. 이제 생디칼리스트의 깃발 아래 이탈리아 전체를 자유롭게 할 때입니다!"
+FRA_War_with_Netherlands:0 "루덴도르프 포위"
+FRA_War_with_Netherlands_desc:0 "베네룩스의 저지대는 우리의 전쟁목표에서 전략적으로 필요한 지역입니다. 독일군은 이쪽 방면에서의 공격을 예상하지 못할 것이고, 만에하나 우리가 성공한다면, 우리는 독일의 핵심 경제 지역인 라인란트에서 독일을 몰아낼 것입니다. 독일은 패배하게 될 것입니다."
 FRA_World_revolution:0 "세계혁명"
 FRA_World_revolution_desc:0 "유럽에서의 혁명이 이미 확립되면서, 이제는 바깥 세상을 바라볼 수 있습니다. 반동과 제국주의자들로부터 전세계를 해방시키기 위한 엄청난 계획을 시작할 수 있습니다. 우리의 투쟁은 그들 중 마지막이 범죄로 재판을 받게 되면 끝날 것입니다. 세계 사회주의 공화국 만세!"
 FRA_european_revolution:0 "유럽 혁명"
 FFRA_european_revolution_desc:0 "세계혁명에 대한 생각은 고상한 것이지만, 현실주의를 유지해야 합니다. 상당한 영향력과 우리반하는 다른 반동이 없으면 다른 대륙으로 생디칼리즘이 퍼질 것입니다. 그러나 우리는 유럽에 반동분자가 없음을 보장해야 합니다. 유럽 사회주의 공화국 만세!"
 FRA_peaceful_revolution:0 "평화적인 혁명"
 FRA_peaceful_revolution_desc:0 "우리는 혁명이 끝나지 않을 것이라고 주장하는 사람들의 말을 듣습니다. 하지만 우리는 이유없이 세계 곳곳에서 끊임없는 전쟁을 벌일 여력이 없습니다. 노동자들은 우리가 갈망의 등대 역할을 할 때 자신의 길을 발견 할 것입니다. 대신 우리 자신에 집중합시다. 프랑스 사회주의 공화국 만세!"
+FRA_red_union:0 "노조 연합"
+FRA_red_union_desc:0""
 
 FRA_Host_the_Internationale:0 "인터내셔널 회의"
 FRA_Host_the_Internationale_desc:0 "사회주의자, 생디칼리스트, 전체주의자, 국가 원수, 정부 수반, 외무 장관, 언론인 등이 모두 제3인터내셔널 첫번째 회의의 개막을 위해 파리에 도착했습니다. 우리는 회의를 주재하는 첫번째 국가이며 이를 통해 세계를 선도하는 사회주의 국가로서의 위상을 확고히 하기를 희망합니다."
 FRA_mission_bhartiya:0 "바라티야 코뮌 지원"
 FRA_mission_bhartiya_desc:0 "바라티야 코뮌은 이웃 국가들, 델리 제국주의자들과 프린스턴 반동주의자들에 대한 투쟁에서 우리의 지지를 요청했습니다. 그들은 장교와 군대를 훈련시키기 위해 우리에게 군사 고문을 보낼 것을 요청했습니다. 우리는 이 원조가 신속하게 도착하여 인도가 더 빨리 통합 될 수 있도록 보장할 것입니다."
-FRA_muslim_comitee:0 "사회주의 이슬람 위원회"
-FRA_muslim_comitee_desc:0 "우리는 이슬람 인구가 많은 여러 국가와 전쟁 상태에 있습니다. 우리의 목표는 생디칼리즘을 중동에 전파하는 것입니다. 이슬람 세계에서 사회주의와 공산주의는 항상 복잡한 문제였지만 반-반동 반란을 일으키기 위해 '이슬람 공산주의' 이론을 재부상시켜 뒷받침할 수 있습니다."
+FRA_arab_committee:0 "사회주의 반식민주의 위원회"
+FRA_arab_committee_desc:0 "The traitors of the French people, bastard Petain and his clique of friends, use the native proletariat in efforts to return to the mainland. We won't give them such a chance. Our comrade Sail Mohamed proposed to us the idea of supporting socialist liberation movements across all of Africa, for the good of all Arabs."
 FRA_working_women:0 "여성 노동자"
 FRA_working_women_desc:0 "회의에서 헬렌 크로퍼드는 세계혁명에서의 여성의 역할에 대한 멋진 연설로 무대에 올랐습니다. 우리는 그녀의 주장을 지지했으며 현재 우리 사회에서 여성 노동자의 지위에 관한 상식적인 개혁을 실행할 준비가 되어 있습니다. 반동분자들은 당황 할 수 있습니다. 우리는 분명히 마지막 웃음을 지을 것입니다."
+FRA_avantgarde:0 "국제 아방가르드"
+FRA_avantgarde_desc:0 "For too long have traditional arts and classical music dominated the entertainment of the masses. While Jazz is enjoyable and widely popular in our countries, one genre cannot fight against all others. We have to create new ones, we have to show the world, what the real entertainment is. And it will show to the world that we are the good force of this era!"
 FRA_help_cnt:0 "전국노동연맹 지원"
 FRA_help_cnt_desc:0 "전국노동연맹의 동지들은 카를리스트와 부르봉 반동분자들과 싸우며 스페인과 이베리아 반도 전체를 해방시키려고 합니다. 우리는 대의명분으로 그들을 도울 것을 약속을 했고, 우리는 의심의 여지없이 잘 지원할 것입니다. 그리고 미뤄서는 안 됩니다."
 FRA_second_inter_congress:0 "제2차 인터내셔널 회의"
@@ -417,12 +440,14 @@ FRA_help_south_america:0 "남미의 형제들을 지원"
 FRA_help_south_america_desc:0 "두 번째 의회에서 우리는 남미의 동지들이 자신의 나라를 발전시키고 아르헨티나의 반동 국가를 패배시키는 것을 도울 것을 약속했습니다. 우리는 모든 아메리카 대륙의 승리와 자유를 보장하기 위한 비용을 아끼지 않을 것입니다. 우리 동지들에게 이보다 더 좋을 수는 없을 것입니다!"
 FRA_help_csa:0 "아메리카 노동 연맹 지원"
 FRA_help_csa_desc:0 "두 번째 의회 동안 가장 시급한 문제, 진행중인 미국 내전에 대해 논의했습니다. 반동적인 롱과 자본주의적인 연방 정부가 모두 아메리카 노동 연맹을 수세로 밀어 붙인 결과, 리드와 그의 추종자들에게 추가적인 지원을 보내겠다는 결정이 내려졌습니다. 우리는 지원이 서둘러 도착할 수 있도록 준비할 것입니다."
+FRA_help_SOV:0 "소비에트 지원"
+FRA_help_SOV_desc:0 "The first great socialist revolution in Russia ended in failure but a new revolt has broken out. We must not squander this opportunity to transform the great Russian Bear of reaction into a staunch ally. Let us lend the Soviets our support."
 FRA_scientific_cooperation:0 "인터내셔널 기술 협력"
 FRA_scientific_cooperation_desc:0 "우리가 단순히 우리 자신의 기술적 발견을 가지고만 있을 수는 없다는 것은 분명합니다. 케임브리지 대학교에서 열린 회의에서 우리는 사회주의 국가의 기술 발전을 연합하기 위한 전세계적 계획을 수립하기로 결정했습니다. 그러나 일부는 산업 투자를 포함하여 보다 야심찬 계획을 요구하고 있습니다."
-FRA_third_inter_congress:0 "제3차 인터내셔널 회의"
+FRA_third_inter_congress:0 "승리 회의"
 FRA_third_inter_congress_desc:0 "제3차 대회 개최에 대한 책임은 다시 한 번 우리에게 돌아갔습니다. 새로운 장소는 프랑스 제국의 약탈품들로 가득찼던 루브르 박물관이었던 인민궁입니다. 의제 중 하나는 아프리카 대륙을 마침내 해방시키는 것에 관한 것입니다."
-FRA_african_liberation:0 "아프리카 해방"
-FRA_african_liberation_desc:0 "아프리카는 폭정과 압제로 오랫동안 고통받고 있습니다. 많은 왕들의 억압, 노예 상인과 선교사의 억압, 그리고 마침내 유럽 식민지 개척자와 탐험가들의 억압으로 말입니다. 마지막으로, 우리가 아프리카에 자유를 주어 우리가 잘못한 일을 언젠가 바로 잡기를 희망합니다."
+FRA_end_GEX:0 "카이저의 최후"
+FRA_end_GEX_desc:0 "아프리카는 폭정과 압제로 오랫동안 고통받고 있습니다. 많은 왕들의 억압, 노예 상인과 선교사의 억압, 그리고 마침내 유럽 식민지 개척자와 탐험가들의 억압으로 말입니다. 마지막으로, 우리가 아프리카에 자유를 주어 우리가 잘못한 일을 언젠가 바로 잡기를 희망합니다."
 
 FRA_armee_de_lair:0 "인민의 공군"
 FRA_armee_de_lair_desc:0 "Planes are a strange new aspect of warfare. These machines are quite complex to handle, and the punishment for failing to fly properly obvious. And yet, any able man can be a pilot. We must open the ranks of the airforce to the conscripts, like the army and navy has. Our airforce will have no shortage of pilots."
@@ -472,22 +497,8 @@ FRA_naval_bombers_desc:0 "The air can well pair with the sea. Planes carrying to
 FRA_protect_coastlines:0 "해안선 방어"
 FRA_protect_coastlines_desc:0 "Eventually, our navy cannot protect every single beach and every single small harbour in our country. However, we can plan ahead and add some basic fortifications to ensure we are not taken by surprise. If they land on our beaches, they will enjoy cold hard steel after a long time at sea."
 
-FRA_Phalanstere_internationale:0 "팔랑스테르 인터내셔널의 설립"
-FRA_Phalanstere_internationale_desc:0 "케임브리지 대학의 회의에서 생디칼리즘 국가들의 기술 발전을 결합하기 위한 전세계적인 계획의 수립이 결정되었습니다. 이 계획은 이후 세계의 생디칼리즘 정권을 돕는 것을 목표로 한 더 야심찬 계획인 팔랑스테르 인터내셔널(Phalanstère International)로 진화했습니다."
-FRA_Develop_Italy:0 "이탈리아 사회주의 공화국 지원"
-FRA_Develop_Italy_desc:0 "우리 이탈리아 동지들은 팔랑스테르 인터내셔널의 가입을 지원하였습니다. 합스부르크의 지원을 받고 있는 광신적인 이탈리아 공화국은 이탈리아 사회주의 공화국의 국경과 남부에 있는 반생디칼리스트인 양시칠리아를 위협하고 있으며, 그들의 투쟁에서 우리의 동지들을 돕는 것은 옳습니다."
-FRA_Develop_Spain:0 "스페인 연방 지원"
-FRA_Develop_Spain_desc:0 "우리 스페인 동지들은 팔랑스테르 인터내셔널에 가입하기로 하였습니다. 스페인의 사회주의가 카를리스트 광신자들과 부르봉 제국주의자들에게 마주함에 따라, 이것은 그들의 투쟁에서 우리 동지들을 돕는 것은 옳습니다."
-FRA_Develop_Georgia:0 "조지야 공화국 지원"
-FRA_Develop_Georgia_desc:0 "우리 캅카스 동지들은 팔랑스테르 인터내셔널에 가입하기로 하였습니다. 그루지야의 사회주의는 부흥하는 러시아와 마주하고 있으며, 그들의 투쟁에서 동지들을 돕는 것은 옳습니다."
-FRA_Develop_South_America:0 "사회주의 남미 국가 지원"
-FRA_Develop_South_America_desc:0 "우리 남아메리카 동지들은 팔랑스테르 인터내셔널에 가입하기로 하였습니다. 볼리비아의 사회주의는 아르헨티나와 칠레의 반동분자들과 마주하고 있으며, 그들의 투쟁에서 동지들을 돕는 것은 옳습니다."
-FRA_Develop_Bhartiyan_Commune:0 "바라티야 코뮌 지원"
-FRA_Develop_Bhartiyan_Commune_desc:0 "우리 인도 동지들은 팔랑스테르 인터내셔널에 가입하기로 하였습니다. 인도의 사회주의는 델리의 군주주의자들과 연맹의 반동주의자들과 마주하고 있으며, 그들의 투쟁에서 동지들을 돕는 것은 옳습니다."
-FRA_Develop_Central_america:0 "중앙아메리카의 동지들 지원"
-FRA_Develop_Central_america_desc:0 "우리 멕시코와 중앙아메리카 동지들은 팔랑스테르 인터내셔널에 가입하기로 하였습니다. 멕시코의 사회주의자들은 극도로 불안정한 미국과 마주하고 있으며, 남아메리카의 사회주의는 파나마 운하까지 확장될 준비가 되어있습니다. 그들의 투쟁에서 동지들을 돕는 것은 옳습니다."
-FRA_Develop_Ukraine:0 "우크라이나 지원"
-FRA_Develop_Ukraine_desc:0 "우리 우크라이나 동지들은 팔랑스테르 인터내셔널에 가입하기로 하였습니다. 우크라이나의 사회주의들은 그들에게 적대적인 부흥하고 있는 러시아와 항상 적대적이였던 독일과 마주하고 있으며, 그들의 투쟁에서 동지들을 돕는 것은 옳습니다."
+FRA_Phalanstere_internationale:0 "팔랑스테르 인터내셔널 설립"
+FRA_Phalanstere_internationale_desc:0 "The need for secrecy necessitates certain inefficiencies in military research. By working closely with other syndicalist nations and allowing researchers access to others' most closely guarded secrets, this fundamental issue can be overcome. The Phalanstère International shall serve as the central authority for the exchange of such secrets."
 
 ### Events ###
 
@@ -757,6 +768,11 @@ comfrance.57.d:0 "바라티야 코뮌은 자신들의 이웃인 델리와 왕후
 comfrance.57.a:0 "그들의 군대를 훈련시킬 군사 고문단을 보낸다!"
 comfrance.57.b:0 "우리의 자원을 낭비할 순 없다"
 
+comfrance.5701.t:0 "사일 모하메드 동지가 연설을 원하다"
+comfrance.5701.d:0 "Comrade Sail Mohammed, a prominent Algerian socialist, was allowed to speak before the assembled Congress. He has given a rousing speach on the situation in Morocco and French Africa where Arab labour is abused and exploited for the benefit of the wealthy and the colonial establishment. Sail urged the Congress to put an immediate stop to the situation. He proposed a creation of the Socialist Anti-Colonial Committee that will work to supply local syndicalist anti-colonial conspirators in North Africa."
+comfrance.5701.a:0 "We'll gladly support the creation of the Committee."
+comfrance.5701.b:0 "Surely these rebels seek only reaction and monarchy."
+
 comfrance.58.t:0 "바라티야 코뮌이 지원을 요청하다"
 comfrance.58.d:0 "바라티야 코뮌은 자신들의 이웃인 델리와 왕후 연맹에 대항할 투쟁에 지원을 요청하였습니다. 그들은 우리가 자신들의 지휘관과 군대를 훈련시키기 위해 군사 고문을 보내주길 원할 것입니다."
 comfrance.58.a:0 "그들의 군대를 훈련시킬 군사 고문단을 보낸다!"
@@ -778,17 +794,16 @@ comfrance.62.t:0 "프랑스군의 지원"
 comfrance.62.d:0 "우리 대표단이 제3인터내셔널의 제1차 회의에서 인도 혁명군을 조직하기 위한 군사적 지원을 요구한 후에, 브리튼 연방과 프랑스 코뮌은 우리의 최고 장교들을 교육시키기 위해 고위 장교들과 전문가들을 파견하기로 결정했습니다. 바라건대, 이 협력이 전쟁터에서 유익한 결과를 낳기를 바랍니다!"
 comfrance.62.a:0 "붉은 군대는 이 동지들을 잘 활용할 것이다!"
 
-comfrance.63.t:0 "미르자 술탄 갈리예프와 인터내셔널 무슬림 위원회"
-comfrance.63.d:0 "우리는 상당한 이슬람 인구를 가진 여러 나라와 전쟁 상태에 있습니다. 우리의 꿈은생디칼리즘을 중동으로 확산시키는 것입니다. 지역 생디칼리즘, 사회주의 정당들은 이 목표를 달성할 충분한 힘을 가지고 있지 않습니다. \n\n가장 유명한 이슬람 사회주의자이자 이슬람 공산주의의 저자인 미르사 술탄 갈리예프는 우리의 대의를 돕겠다는 전폭적인 의지를 선언했습니다. 그는 몇몇 중요한 관리들과 사적인 대화에서 거의 없어진 인터내셔널 무슬림 위원회가 전세계 무슬림들을 겨냥한 강력한 선전 도구로 바뀔 수 있다고 제안했습니다. 일부 정치인들과 마르크스주의자들은 그 '이슬람 공산주의'를 경멸하지만, 그것은 우리가 중동에서 많은 반동 세력에 맞서 싸우는 데 도움을 줄 수 있습니다."
-comfrance.63.a:0 "어서오시오! 동무들"
+comfrance.63.t:0 "Sail Mohamed Ameriane ben Amerzaine and the Anti-Colonial Comitee"
+comfrance.63.d:0 "Sail Mohamed, the creator of one of the first liberation movements in North Africa and a good comrade of French Anarchists and Syndicalists, has proposed before the First Congress to lend clandestine support to left-wing Maghrebi nationalists."
+comfrance.63.a:0 "Let's get to work."
 
-comfrance.64.t:0 "사회주의 무슬림 위원회 발족"
-comfrance.64.d:0 "우리의 반첩보 전문가들은 최근 우리나라에서 일어나고 있는 생디칼리즘 활동의 급증에 주목하고 있습니다. 우리는 프랑스 코뮌이 바라티야 코뮌과 함께 인터내셔널 무슬림 위원회를 재설립했다는 것을 알고 있습니다. 유명한 타타르 볼셰비키인 미르사 술탄 갈리예프의 도움으로, 이 위원회는 모든 이슬람 교도들의 동조를 얻기 위해 생디칼리스트들의 노력을 조정하고 있습니다. \n\n생디칼리즘 세력은 터키, 시리아, 이라크의 좌파 정당들을 지원하기 위해 상당한 양의 무기와 자료를 보냈습니다. 그리고 또한 몇몇 훈련 캠프를 열었습니다. 이 활동에 대응하기 위해 우리는 인터내셔널에 대항해 지하드를 선언할 수 있습니다. 이 호소가 우리의 문제를 해결하지는 못하지만, 오스만 국가인 아랍인들을 겨냥한 선전에 쓰일 수는 있습니다. 우리 정부의 온건파는 비밀경찰 강화에 찬성합니다."
-comfrance.64.a:0 "인터내셔널에 지하드를 선포한다!"
-comfrance.64.b:0 "비밀경찰에 추가 예산을 편성한다!"
+comfrance.64.t:0 "The Rise of the Socialist Anti-Colonial Committee"
+comfrance.64.d:0 "Our counter-intelligence specialists have noted a recent surge of Syndicalist activity in our country. We know that the Commune of France together with the Union of Britain has established the Anti-Colonial Committee in the International, which until recently has been practically dead. This committee, with the help of Sail Mohamed Ameriane ben Amerzaine, a traitor of the Algerian people, is coordinating the efforts made by the Syndicalists in support anti-colonial sentiments in our French Africa.\n\nThe Syndicalist powers have sent significant amounts of weapons and material to support the native rebels. They have also opened a few training camps in their southernmost parts of the country. While the more radical politicians in our country believe that nothing will come out of this, our generals warn us that we have to be vary. "
+comfrance.64.a:0 "Worrying development."
 
-comfrance.65.t:0 "사회주의 무슬림 위원회 발족"
-comfrance.65.d:0 "프랑스 코뮌은 다른 생디칼리스트 인터내셔널 회원과 함께 무슬림 위원회를 부활시켰습니다. 공식적으로 '사회주의 무슬림 위원회'라 불리는 이 조직은 중동의 생디칼리즘 운동에 기여할 것입니다. 우리의 첩보 요원은 혁명의 대의를 위해서 싸우는 이집트 좌익 급진주의자들이 일부 유입되었다고 보고하였습니다. 프랑스 코뮌이나 다른 생디칼리즘 국가와 전쟁을 하든 안하든 이 문제에 대해서 매우 유의해야 합니다."
+comfrance.65.t:0 "Communards established the Socialist Anti-Colonial Committee"
+comfrance.65.d:0 "The words have spread. The Commune of France alongside other memebers of the International have established The Socialist Anti-Colonial Committee. It aims to support the cause of Arabs in North Africa in liberating their homelands from the hands of the colonial powers.\nAnd so, our protectorate of Morocco   together with other members of the Syndicalist International has revived the Muslim Committee, informally known as the 'Socialist Muslim Committee'. This body is coordinating the Syndicalist powers' actions in the Middle East. Our intelligence reports show that there is small influx of Egyptian left-wing radicals who want to fight for the revolutionary cause. While we are not at war with the Commune of France or any Syndicalist country, we should be very cautious."
 comfrance.65.a:0 "반역, 음모, 사보타지!"
 
 comfrance.66.t:0 "사회주의 무슬림 위원회 발족"
@@ -796,22 +811,20 @@ comfrance.66.d:0 "프랑스 코뮌은 다른 생디칼리스트 인터내셔널 
 comfrance.66.a:0 "터번에 폭탄을 감췄을 지도 몰라!"
 
 comfrance.67.t:0 "사회주의 무슬림 위원회 발족"
-comfrance.67.d:0 "프랑스 코뮌은 다른 생디칼리스트 인터내셔널 회원과 함께 무슬림 위원회를 부활시켰습니다. 공식적으로 '사회주의 무슬림 위원회'라 불리는 이 조직은 중동의 생디칼리즘 운동에 기여할 것입니다. 우리의 첩보 요원은 혁명의 대의를 위해서 싸우는 이집트 좌익 급진주의자들이 일부 유입되었다고 보고하였습니다. 프랑스 코뮌이나 다른 생디칼리즘 국가와 전쟁을 하든 안하든 이 문제에 대해서 매우 유의해야 합니다."
-comfrance.67.a:0 "우리는 이 범죄자들을 주시해야한다."
+comfrance.67.d:0 "The news have reached Spain - The Socialist Anti-Colonial Committee has formed, aiming to liberate the Arab populace of the North Africa from the hands of the colonial powers. Let us hope we will not be one of it's targets, we have other, more important issues to deal with right now."
+comfrance.67.a:0 "Hopefully it will not hit The Rif."
 
-comfrance.68.t:0 "사회주의 무슬림 위원회 창설"
-comfrance.68.d:0 "프랑스 생디칼리스트들은 인터내셔널의 무슬림 위원회를 부활시켰고, 이에 우리를 초대하였습니다. 새로운 위원회는 무슬림 세계에서 사회주의 프로파간다가 될 것이며, 지역 좌익 정당들을 지원할 것입니다. 이 단체의 창설은 인도와 해외 양자 간의 무슬림 사회의 신뢰를 증진시킬 완벽한 기회가 될 것입니다. 이 위원회의 단점이라면 종교적 갈등을 부추길 가능성이 있다는 것입니다."
-comfrance.68.a:0 "아주 기쁘게 받아들인다"
-comfrance.68.b:0 "이 문제에 거리를 둔다"
+comfrance.68.t:0 "The Creation of the Socialist Anti-Colonial Committee."
+comfrance.68.d:0 "Our comrades in France have recently created the Socialist Anti-Colonial Committee, a committee that aims to destory any imperialist influence in the Northern lands of Africa."
+comfrance.68.a:0 "Solidarity Forever!"
 
-comfrance.69.t:0 "사회주의 무슬림 위원회 창설"
-comfrance.69.d:0 "프랑스 생디칼리스트들은 인터내셔널의 무슬림 위원회를 부활시켰고, 이에 우리를 초대하였습니다. 새로운 위원회는 무슬림 세계에서 사회주의 프로파간다가 될 것이며, 지역 좌익 정당들을 지원할 것입니다. 이 단체의 창설은 인도와 해외 양자 간의 무슬림 사회의 신뢰를 증진시킬 완벽한 기회가 될 것입니다. 이 위원회의 단점이라면 종교적 갈등을 부추길 가능성이 있다는 것입니다."
-comfrance.69.a:0 "우리는 이 생각을 기꺼이 지원할것이다!"
-comfrance.69.b:0 "거리를 두자."
+comfrance.69.t:0 "We have been sabotaged!"
+comfrance.69.d:0 "Those dirty little french rats have recently organized a sabotage with the help of French Syndicalists have revived the Muslim Committee in the International and have invited us to join. The new Committee will be spreading Socialist propaganda in the Muslim World and coordinate assistance to regional left-wing parties. This could be a perfect opportunity to gain credibility in Muslim circles both in Central Asia as well as abroad. The downside of this Committee is the possibility of religious conflict."
+comfrance.69.a:0 "Have Berlin on the phone."
 
-comfrance.70.t:0 "생디칼리스트의 사보타지!"
-comfrance.70.d:0 "우리 국가의 사회주의 테러 단체 중 하나가 사보타지하였습니다! 다행히 사망자는 없었지만, 몇몇 시설이 파괴되었습니다."
-comfrance.70.a:0 "대가를 치르게 될 것이다! 망할 생디칼리즘 놈들!"
+comfrance.70.t:0 "우리가 타격받았습니다!"
+comfrance.70.d:0 "우리나라에서 활동하는 사회주의 테러 단체 중 하나가 사보타지라는 악랄한 행위를 저질렀습니다! 다행히 사망자는 없었지만, 몇몇 시설들이 파괴되었습니다."
+comfrance.70.a:0 "이것은 붕괴로부터 구해주지 않을 것이다."
 
 comfrance.71.t:0 "제2차 인터내셔널 회의"
 comfrance.71.d:0 "제2차 미국 내전이 발발하였고, 전세계의 다른 많은 분쟁들도 언제든지 터질 준비가 되어있기에, 인터내셔널은 세계혁명으로의 접근을 재정립해야 합니다. 프랑스에서 열린 제1차 인터내셔널 회의에서 많은 운동가들이 두 번째 개최지는 브리튼이 적합하다고 생각했습니다."
@@ -900,36 +913,36 @@ comfrance.98.t:0 "세 번째 날 - 헤밍웨이의 연설"
 comfrance.98.d:0 "생디칼리스트 대표로 제2차 인터내셔널 회의에 참석한 어니스트 헤밍웨이는 오늘 아메리카 노동 연맹에 대한 우리의 행동을 규탄하며, 이 전쟁에서 그들에게 강력히 지원할 것을 요구하는 연설을 하였습니다. 우리는 우리의 노력을 강화해야하고, 리드가 추가 지원을 받기 전에 그를 제거해야 합니다."
 comfrance.98.a:0 "전진하라!"
 
-comfrance.99.t:0 "다섯 번째 날 - 케임브리지 학술회의"
+comfrance.99.t:0 "케임브리지 학술회의"
 comfrance.99.d:0 "런던의 정치가들은 프랑스와 브리튼의 과학자들을 케임브리지의 오래된 대학에서 독립된 회의를 갖도록 하였습니다. 생디칼리즘 국가들이 증가하고 있는 호전적인 제국주의자들의 위협으로부터 혁명을 보호하기 위한 무기 개발을 위해, 그들의 연구를 공유하기로 결정되었습니다."
 comfrance.99.a:0 "아는 것이 힘이다"
 
-comfrance.100.t:0 "여섯 번째 날 - 브라질를 위한 인터내셔널 지원 요청"
+comfrance.100.t:0 "다섯 번째 날 - 브라질를 위한 인터내셔널 지원 요청"
 comfrance.100.d:0 "브라질에서 사회주의 정권이 수립됨에 따라, 리우데자네이루와 부에노스 아이레스의 긴장이 다시 한번 커지기 시작했습니다. 새 정권을 보호하기 위한 최고의 방법은 제2차 인터내셔널 회의를 통해 인터내셔널의 지원을 요청하는 것으로 보입니다."
 comfrance.100.a:0 "우리는 혼자가 아니다"
 comfrance.100.b:0 "우리는 지원을 구걸하지 않는다"
 
-comfrance.101.t:0 "여섯 번째 날 - 볼리비아를 위한 인터내셔널 지원 요청"
+comfrance.101.t:0 "다섯 번째 날 - 볼리비아를 위한 인터내셔널 지원 요청"
 comfrance.101.d:0 "브라질에서 사회주의 정권이 수립됨에 따라, 아르헨티나와 페루의 긴장이 다시 한번 커지기 시작했습니다. 새 정권을 보호하기 위한 최고의 방법은 제2차 인터내셔널 회의를 통해 인터내셔널의 지원을 요청하는 것으로 보입니다."
 comfrance.101.a:0 "우리는 혼자가 아니다"
 comfrance.101.b:0 "우리는 지원을 구걸하지 않는다"
 
-comfrance.10100.t:0 "여섯 번째 날 - 칠레를 위한 인터내셔널 지원 요청"
+comfrance.10100.t:0 "다섯 번째 날 - 칠레를 위한 인터내셔널 지원 요청"
 comfrance.10100.d:0 "브라질에서 사회주의 정권이 수립됨에 따라, 아르헨티나의 긴장이 다시 한번 커지기 시작했습니다. 새 정권을 보호하기 위한 최고의 방법은 제2차 인터내셔널 회의를 통해 인터내셔널의 지원을 요청하는 것으로 보입니다."
 comfrance.10100.a:0 "우리는 혼자가 아니다"
 comfrance.10100.b:0 "우리는 지원을 구걸하지 않는다"
 
-comfrance.102.t:0 "여섯 번째 날 - 브라질의 지원 요청"
+comfrance.102.t:0 "다섯 번째 날 - 브라질의 지원 요청"
 comfrance.102.d:0 "우리 브라질 동지들은 아르헨티나와의 잠재적인 갈등을 대비해 그들의 군대를 강화할 지원을 요청하였습니다. 비록 북아메리카처럼 혁명의 최전선은 아니지만 라 플라타의 몰락은 전세계의 제국주의자들의 이익에 큰 타격을 줄 것입니다."
 comfrance.102.a:0 "그들이 필요한 모든 지원을 제공한다"
 comfrance.102.b:0 "우리는 아무것도 베풀지 않을 것이다"
 
-comfrance.103.t:0 "여섯 번째 날 - 볼리비아의 지원 요청"
+comfrance.103.t:0 "다섯 번째 날 - 볼리비아의 지원 요청"
 comfrance.103.d:0 "볼리비아의 대표단은 직접적인 지원을 얻어 의회를 장악하기 위해 군사력 증강에 대한 지원을 요청했습니다. 아르헨티나와 페루같은 위협에 둘러싸인 볼리비아를 돕는 것은 라틴아메리카에서 사회주의의 영향력을 확실히 강화시킬 것입니다."
 comfrance.103.a:0 "볼리비아가 필요한 모든 지원을 제공한다"
 comfrance.103.b:0 "우리는 아무것도 베풀지 않을 것이다"
 
-comfrance.10300.t:0 "여섯 번째 날 - 칠레의 지원 요청"
+comfrance.10300.t:0 "다섯 번째 날 - 칠레의 지원 요청"
 comfrance.10300.d:0 "칠레 사람들은 아르헨티나와 같은 적대적인 제국주의 적들에 맞서 군대를 개선시키는데 도움을 요청했습니다. 거의 모든 면에서 위협에 직면해 있는 칠레의 입장은 우리의 도움 없이는 점점 더 위태로워질 수 있습니다. 게다가, 그들은 신세계의 혁명을 보호하는 데 있어 매우 귀중할 수도 있습니다."
 comfrance.10300.a:0 "칠레가 무너지게 놔둘 수 없다."
 comfrance.10300.b:0 "아, 우리는 모두를 도울 수는 없다."
@@ -1246,6 +1259,138 @@ comfrance.163.d:0 "오늘, 전세계의 민주주의, 사회주의, 생디칼리
 comfrance.163.a:0 "축하한다!"
 
 comfrance.164.t:0 "제1차 부르주 국제 예술제"
-comfrance.164.d:0 "제1차 부르주 국제 예술제가 오늘 열렸습니다. 이 예술제에는 프랑스 정부가 의뢰한 많은 생디칼리스트 화가들의 사실주의 작품과 브리튼, 러시아, 미국 작품, 디에고 리베라의 벽화가 전시되었습니다. 이 행사는 세계적으로 주목을 받고 있으며 주말까지 이어질 것입니다. 당분간 스포트라이트를 즐깁시다."
+comfrance.164.d:0 "제1차 부르주 국제 예술제가 오늘 열렸습니다. 오직 영국과 프랑스의 노력 덕분에 국제 아방가르드 예술제가 열렸습니다. 이 예술제에는 프랑스 정부가 의뢰한 많은 생디칼리스트 화가들의 사실주의 작품과 브리튼, 러시아, 미국 작품, 디에고 리베라의 벽화가 전시되었습니다. 이 행사는 세계적으로 주목을 받고 있으며 주말까지 이어질 것입니다. 당분간 스포트라이트를 즐깁시다."
 comfrance.164.a:0 "부르주 예술제는 앞으로도 계속 열릴 것이다. 정부가 이를 보증한다!"
 
+comfrance.165.t:0 "France proposes International Avant-Garde"
+comfrance.165.d:0 "An efforts were made by the French government to establish an International Avant-Garde. It will aim to create new artistic styles, unique in their unorthodoxy presentations, something this world has never seen before.\n\nFrench Government believes it will be a helpful tool in spreading syndicalist teaching through non-violent means. Now they expect us to join on it. "
+comfrance.165.a:0 "Count us in!"
+
+comfrance.166.t:0 "France has declared war on us!"
+comfrance.166.d:0 "Those bastards violated our neutrality! We can either fight alone or with the help of Germans. What should we choose?"
+comfrance.166.a:0 "Have Berlin on the phone!"
+comfrance.166.b:0 "We'll fight alone!"
+
+comfrance.167.t:0 "France has declared war on us!"
+comfrance.167.d:0 "Those bastards violated our neutrality! We can either fight alone or with the help of Germans. What should we choose?"
+comfrance.167.a:0 "Have Berlin on the phone!"
+comfrance.167.b:0 "We'll fight alone!"
+
+###  Decisions  ###
+
+FRA_liberate_europe_category:0 "유럽 해방"
+FRA_liberate_europe_category_desc:0 "카이저는 사라졌고 유럽은 이제 정당히 프롤레타리아의 것이 되어야합니다!"
+
+FRA_invade_DEN:0 "덴마크 해방"
+FRA_invade_DEN_desc:0 ""
+
+FRA_invade_SER:0 "세르비아 해방"
+FRA_invade_SER_desc:0 "급진주의적인 세르비아의 군사정부는 최후를 맞이하게 될 것입니다!"
+
+FRA_invade_ROM:0 "루마니아 해방"
+FRA_invade_ROM_desc:0 "Romanian Government is the single most dissapointing and disgusting from of the government that exists in Europe. It should exist no more!"
+
+FRA_invade_RRM:0 "루마니아 해방"
+FRA_invade_RRM_desc:0 ""
+
+FRA_invade_NOR:0 "노르웨이해방"
+FRA_invade_NOR_desc:0 "Norway not only is a strategic country for our comrades back in Britain, but it's also a place, where Syndicalists didn't get a chance of running the government. Let's change that."
+
+FRA_invade_FIN:0 "핀란드 해방"
+FRA_invade_FIN_desc:0 ""
+
+FRA_invade_SWE:0 "스웨덴 해방"
+FRA_invade_SWE_desc:0 "우리의 스웨덴 동지들이 고향에 돌아가기 위해선 도움이 필요할겁니다."
+
+FRA_invade_POL:0 "폴란드 해방"
+FRA_invade_POL_desc:0 "The legacy of the 1905 uprising still lives on in our memories. With our help, Poland will never be lost again."
+
+FRA_invade_BAT:0 "발트 공국 해방"
+FRA_invade_BAT_desc:0 "A state forged with the intention of colonizing that region with the German people should in no way make a part of our new Europe."
+
+FRA_invade_LIT:0 "리투아니아 해방"
+FRA_invade_LIT_desc:0 ""
+
+FRA_invade_LAT:0 "라트비아 해방"
+FRA_invade_LAT_desc:0 ""
+
+FRA_invade_EST:0 "에스토니아 해방"
+FRA_invade_EST_desc:0 ""
+
+FRA_invade_UKR:0 "우크라이나 해방"
+FRA_invade_UKR_desc:0 "The homeland of Nestor Makhno should be red once more!"
+
+FRA_invade_WHR:0 "백루테니아 해방"
+FRA_invade_WHR_desc:0 ""
+
+FRA_invade_ALB:0 "알바니아 해방"
+FRA_invade_ALB_desc:0 ""
+
+FRA_invade_OTT:0 "칼리프를 끝내라"
+FRA_invade_OTT_desc:0 "It's truly remarkable that such a state survived for so long. Maybe it's time to put that sick man out of his misery."
+
+FRA_invade_TUR:0 "터키 해방"
+FRA_invade_TUR_desc:0 ""
+
+FRA_invade_BUL:0 "불가리아 해방"
+FRA_invade_BUL_desc:0 ""
+
+FRA_invade_RUS:0 "소련을 복귀시켜라"
+FRA_invade_RUS_desc:0 "With Germany defeated, Russia is the only obstacle left that can seriously cause issues for us, if left alone. Only Syndicalism will be hegemonic in the new Europe."
+
+FRA_invade_DKB:0 "돈-쿠반 연합 해방"
+FRA_invade_DKB_desc:0 ""
+
+FRA_invade_GEO:0 "조지아 해방"
+FRA_invade_GEO_desc:0 ""
+
+FRA_invade_AZE:0 "아제르바이잔 해방"
+FRA_invade_AZE_desc:0 ""
+
+FRA_invade_ARM:0 "아르메니아 해방"
+FRA_invade_ARM_desc:0 ""
+
+FRA_invade_SWI:0 "스위스 해방"
+FRA_invade_SWI_desc:0 "We should end, what we started - a total destruction of the Swiss capitalist system."
+
+FRA_invade_IRE:0 "아일랜드 해방"
+FRA_invade_IRE_desc:0 "We'll make the whole British Isles red, no matter if Ireland wants it or not!"
+
+FRA_invade_ICE:0 "아이슬란드 해방"
+FRA_invade_ICE_desc:0 ""
+
+FRA_invade_GRE:0 "그리스 해방"
+FRA_invade_GRE_desc:0 ""
+
+FRA_internationale_category:0 "인터내셔널 문제"
+FRA_internationale_category_desc:0 "The alliance of all Socialists in our world is truly something beautiful. We will work together to make the world a better place for us all."
+
+FRA_Develop_SRI:0 "Develop the Socialist Republic of Italy"
+FRA_Develop_SRI_desc:0 "Our Italian comrades have applied to join the Phalanstère International. With the Habsburg-backed Italian Republic threatening the Po border and the zealously anti-syndicalist Two Sicilies in the south, it is only proper to help our comrades in their struggle."
+FRA_Develop_CNT:0 "Develop Spanish Federation"
+FRA_Develop_CNT_desc:0 "Our Spanish comrades have applied to join the Phalanstère International. With socialism in Spain facing both the Carlist zealots and Bourbon imperialists, it is only proper to help our comrades in their struggle."
+FRA_Develop_NOR:0 "Develop Norway"
+FRA_Develop_NOR_desc:0 "Recently, our Scandinavian comrades in Norway have applied to join the Phalanstères International. With socialism in Norway being relatively young, it's best to nurture it while we can."
+FRA_Develop_CHL:0 "Develop the Socialist South American States"
+FRA_Develop_CHL_desc:0 "Our South American comrades have applied to join the Phalanstère International. With socialism in South America facing dogged opposition, it is only proper to help our comrades in their struggle."
+FRA_Develop_BHC:0 "Develop the Bharatiya Commune"
+FRA_Develop_BHC_desc:0 "Our Indian comrades have applied to join the Phalanstère International. With socialism in India facing the imperialists in Delhi and the reactionaries in the Federation, it is only proper to help our comrades in their struggle."
+FRA_Develop_MEX:0 "Develop Central American Countries"
+FRA_Develop_MEX_desc:0 "Our Central American comrades have applied to join the Phalanstère International. With socialism there stronger than ever, we would be fools not to secure this foothold of liberty."
+FRA_Develop_ENG:0 "Develop Union of Britain"
+FRA_Develop_ENG_desc:0 "Britain, while second only to us, still needs our help in rebuilding their lost and forgotten industry that was once one of the best in the world. With our help, Britain will soar even higher than its illustrious past, putting capitalists and imperialists to shame."
+
+FRA_help_CNT:0 "Supply CNT-FAI"
+FRA_help_CNT_desc:0 "The CNT teeters on the brink. We must secure Spain, and our southern border, for socialism."
+
+FRA_Sabotage_NFA_decision:0 "Initiate sabotage in Nationalist France"
+FRA_Sabotage_NFA_decision_desc:0 "The French traitorous imperialists for far too long have been using the native populace for their own wellbeing and materialistic benefits. We will not stand for this."
+
+FRA_Sabotage_MOR_decision:0 "Initiate sabotage in Morocco"
+FRA_Sabotage_MOR_decision_desc:0 "The Moroccan government is a puppet to the German Colonial Elite. We will do our best to ensure that Morocco will one day be free from both capitalists and imperialists."
+
+FRA_Savoy_Hydroelectricity_decision:0 "Build a dam in Savoy"
+
+FRA_Haute_Savoie_Hydroelectricity_decision:0 "Build a dam in Haute-Savoie"
+
+FRA_Romandy_Hydroelectricity_decision:0 "Build a dam in Romandy"
