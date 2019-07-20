@@ -351,8 +351,8 @@ AUS_ausgleich_desc:0 "-"
 
 ### Occupation branch
 
-AUS_military_occupation:0 "군대를 통한 점령"
-AUS_military_occupation_desc:0 "헝가리는 점령되었고, 오스트리아 제국은 다시 한번 하나가 될 것입니다. \n 다만 모든 속국들이 빈에서 직접 통치되는 것에 만족하지 않을 수도 있음을 명심해야 할 것입니다."
+AUS_military_occupation:0 "군사점령"
+AUS_military_occupation_desc:0 "헝가리는 제압됬지만, 우리는 당장 헝가리를 해방시켜줄 생각이 없습니다. 오스트라아 제국에 도전하려는 생각을 가진 이들은 헝가리와 같은 운명에 놓이게 될 것입니다."
 
 AUS_status_quo:0 "현상유지"
 AUS_status_quo_desc:0 "10년 전과 마찬가지로, 통합된 중앙집권 제국에 대한 우리의 협상은 실패했습니다. 우리는 헝가리 지역의 개혁을 통해 둘을 더욱 가깝게 묶는 데 이 이상 많은 시간을 할애할 여유가 없습니다."
@@ -1161,8 +1161,19 @@ ausgleich.new.365.a:0 "헝가리는 분쟁 지역에서 군대를 철수시켜�
 ausgleich.new.365.b:0 "우리는 헝가리의 일에 개입 할 수 없다."
 
 ausgleich.new.366.t:0 "오스트리아가 우리에게 슬로바키아와 트란실바니아에서 철수할 것을 요구하다"
+ausgleich.new.366.d:0 "오스트리아가 슬로바키아와 트란실바니아에서 행정기구와 군대를 철수하라고 요구했습니다."
+ausgleich.new.366.a:0 "그 말대로 해야한다."
+ausgleich.new.366.b:0 "절대 안된다!"
+
 ausgleich.new.367.t:0 "오스트리아가 우리에게 슬로바키아에서 철수할 것을 요구하다"
+ausgleich.new.367.d:0 "오스트리아가 슬로바키아에서 행정기구와 군대를 철수하라고 요구했습니다.."
+ausgleich.new.367.a:0 "그 말대로 해야한다."
+ausgleich.new.367.b:0 "절대 안된다!"
+
 ausgleich.new.368.t:0 "오스트리아가 우리에게 트란실바니아에서 철수할 것을 요구하다"
+ausgleich.new.368.d:0 "오스트리아가 트란실바니아에서 행정기구와 군대를 철수하라고 요구했습니다."
+ausgleich.new.368.a:0 "그 말대로 해야한다."
+ausgleich.new.368.b:0 "절대 안된다!"
 
 ausgleich.new.370.t:0 "헝가리가 우리의 최후 통첩에 동의하다"
 ausgleich.new.370.d:0 "헝가리는 분쟁 지역을 떠났으며 우리 군대가 자유롭게 행군하고 질서를 회복할 수 있도록 했습니다. 물론 우리가 원하는 질서대로입니다."
