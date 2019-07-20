@@ -1,8 +1,5 @@
 l_english:
 
-### Production ###
-PRODUCTION_CIVILIAN_FACTORIES_SENT_TO_OTHERS:0 "다른 국가에게 주었음: $VAL|R$"
-
 ### Main Menu Tooltips ###
 COOP_MAIN_MENU_LINK:0 "여기를 눌러서 디스코드로 이동하세요"
 KR_MAIN_MENU_LINK:0 "여기를 눌러서 카이저라이히 위키로 이동하세요"
@@ -65,6 +62,7 @@ militia:0 "민병대"
 ### Tech ###
 cl_tech:0 "경순양함 기술"
 dd_tech:0 "구축함 기술"
+military_police_tech:0 "헌병"
 
 ### Interface ###
 minister:1 "장관"
