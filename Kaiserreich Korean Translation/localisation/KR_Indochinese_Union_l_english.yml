@@ -330,7 +330,7 @@ viet.25.c:0 "인도차이나의 의회민주주의는 실패했다."
 
 viet.26.t:0 "[GetYear]년도 선거"
 viet.26.d:0 "Parliamentary elections were held in Indochina on [GetYear]. The members of the National Assembly, which would subsequently appoint the Prime Minister, and deputies of People's Councils at all levels were to be elected."
-viet.26.f:0 "[From.GetRulingParty](이/가) 권력을 유지한다."
+viet.26.f:0 "[From.GetRulingParty]이(가) 권력을 유지한다."
 
 viet.27.t:0 "[GetYear]년도 선거"
 viet.27.d:0 "Parliamentary elections were held in Indochina on [GetYear]. The members of the National Assembly, which would subsequently appoint the Prime Minister, and deputies of People's Councils at all levels were to be elected. The Indochinese Bolshevik Party received 99.5% of the vote. Congratulations!"
