@@ -1,12 +1,12 @@
 l_english:
 
 ### Parties ###
-NEE_totalist_party:0 "미국사회당"
-NEE_totalist_party_long:0 "미국사회당"
-NEE_syndicalist_party:0 "미국사회당"
-NEE_syndicalist_party_long:0 "미국사회당"
-NEE_radical_socialist_party:0 "미국사회당"
-NEE_radical_socialist_party_long:0 "미국사회당"
+NEE_totalist_party:0 "미국 사회당"
+NEE_totalist_party_long:0 "미국 사회당"
+NEE_syndicalist_party:0 "미국 사회당"
+NEE_syndicalist_party_long:0 "미국 사회당"
+NEE_radical_socialist_party:0 "미국 사회당"
+NEE_radical_socialist_party_long:0 "미국 사회당"
 NEE_social_democrat_party:0 "진보당"
 NEE_social_democrat_party_long:0 "진보당"
 NEE_social_liberal_party:0 "자유당"
@@ -15,12 +15,12 @@ NEE_market_liberal_party:0 "공화당"
 NEE_market_liberal_party_long:0 "공화당"
 NEE_social_conservative_party:0 "민주당"
 NEE_social_conservative_party_long:0 "민주당"
-NEE_authoritarian_democrat_party:0 "미국제일당"
-NEE_authoritarian_democrat_party_long:0 "미국제일당"
-NEE_paternal_autocrat_party:0 "미국제일당"
-NEE_paternal_autocrat_party_long:0 "미국제일당"
-NEE_national_populist_party:0 "미국제일당"
-NEE_national_populist_party_long:0 "미국제일당"
+NEE_authoritarian_democrat_party:0 "미국 제일당"
+NEE_authoritarian_democrat_party_long:0 "미국 제일당"
+NEE_paternal_autocrat_party:0 "미국 제일당"
+NEE_paternal_autocrat_party_long:0 "미국 제일당"
+NEE_national_populist_party:0 "미국 제일당"
+NEE_national_populist_party_long:0 "미국 제일당"
 
 ### Ideas ###
 NEE_limited_recognation1:0 "미승인국"
@@ -373,13 +373,13 @@ newengland.7.a:0 "마침내"
 
 ## Focus Tree Events ###
 
-newengland.10.t:0 "노동관련법"
+newengland.10.t:0 "노동관계법"
 newengland.10.d:0 "미국 내 노동자들의 처우를 개선하는 법안이 나왔습니다. 이 법안은 우리가 생디칼리즘을 실행하려 한다는 보수적인 의원들의 반발에 직면해 있습니다. 의회가 이 법안을 통과시킬까요?"
 newengland.10.a:0 "통과시켜라"
 newengland.10.b:0 "안돼 돌아가"
 
-newengland.11.t:0 "노동관련법"
-newengland.11.d:0 "경제와 직장의 여건을 개선하는 법안은 이전에 나왔습니다. 소위 노동관련법은 명백히 노동자를 위하는 기업을 돕기 위해 고안되었습니다. 그래서, 그것이 효과가 없다고 믿는 진보적인 의원들의 반발에 직면해 있습니다. 의회가 이 법안을 통과시킬까요?"
+newengland.11.t:0 "노동관계법"
+newengland.11.d:0 "경제와 직장의 여건을 개선하는 법안은 이전에 나왔습니다. 소위 노동관계법은 명백히 노동자를 위하는 기업을 돕기 위해 고안되었습니다. 그래서, 그것이 효과가 없다고 믿는 진보적인 의원들의 반발에 직면해 있습니다. 의회가 이 법안을 통과시킬까요?"
 newengland.11.a:0 "통과시켜라"
 newengland.11.b:0 "절대로!"
 
@@ -556,17 +556,17 @@ newengland.54.t:0 "도베르만 '잭'"
 newengland.54.d:0 "인간이 다른 인간을 죽이는게 일상이 되었기에, 동물 세계도 폭력으로 빠져들었습니다. 하지만 코네티컷에서는 잭이라는 이름의 젊은 도베르만이 민병대의 테러를 막았습니다! 그 개는 코네티컷 주방위군과 협력하여 훈련을 받고 있었는데, 그의 순찰대가 도망가는 요원들을 발견했습니다.\n\n그 개는 즉시 진정한 미국인의 용기로 두 남자 중 한명을 물었습니다. 그 남자는 '폴 래쉬포드' 로 밝혀졌는데, 불과 몇 달전 폭동에 연류되어 추적받던 인물이었고, 요원들이 코네티컷 전체에 비밀 네트워크를 구축했다는 것을 알아냈습니다.\n\n그의 체포가 미국 내 생디칼리즘의 종말을 의미하지는 않지만, '잭'은 그들의 지도력에 큰 타격을 주었습니다!"
 newengland.54.a:0 "이 좋은 친구에게 감사하자!"
 
-newengland.55.t:0 "미노동연맹의 난민"
+newengland.55.t:0 "아메리카 노동 연맹의 난민"
 newengland.55.d:0 "[CSA.GetNameDef]의 공포가 계속 맹위를 떨치고 있고 그들의 영토로 들어오는 거대한 이동의 물결은 끝이 보이지 않습니다. 지난 달과 마찬가지로 우리의 지하철은 다시 한 번 수천명이 전쟁 난민을 우리의 안전한 항구로 성공적으로 이동시켰습니다."
 newengland.55.a:0 "폭력이 빨리 끝나기를 바랄 뿐이다"
 
 #TEX
-newengland.56.t:0 "미주 연합으로부터의 난민"
+newengland.56.t:0 "미주연합의 난민"
 newengland.56.d:0 "범죄자들이 코네티컷 남쪽을 누비며 그들을 추적해도, 수천명의 사람들은 자신들을 보호해줄 평화로운 곳을 찾기 위해 위험을 감수하고 움직이고 있습니다."
 newengland.56.a:0 "뉴잉글랜드에 온 것을 환영한다!"
 
-newengland.57.t:0 "펠리가 미주 연합을 통제합니다"
-newengland.57.d:0 "휴이 롱이 사실 그보다 더 위험한 인물인 펠리의 꼭두각시였다고 해도, 미국인들은 놀라지 않을 것입니다. 미주 연합 내부의 권력 투쟁은 펠리가 공식적으로 대통령에 취임하면서 끝이 난 것 같습니다. 이미 광범위한 인종차별 정책과 백인들의 기독교 국가를 만들고자 하는 그의 소망이 이루어지기 시작했습니다.\n\n블랙벨트는 지금 두려워하고 있고, 펠리의 추종자로부터 멀리 떨어진 안전한 은신처를 찾는 희망과는 더더욱 동떨어져 있습니다."
+newengland.57.t:0 "펠리의 미주연합 통제"
+newengland.57.d:0 "휴이 롱이 사실 그보다 더 위험한 인물인 펠리의 꼭두각시였다고 해도, 미국인들은 놀라지 않을 것입니다. 미주연합 내부의 권력 투쟁은 펠리가 공식적으로 대통령에 취임하면서 끝이 난 것 같습니다. 이미 광범위한 인종차별 정책과 백인들의 기독교 국가를 만들고자 하는 그의 소망이 이루어지기 시작했습니다.\n\n블랙벨트는 지금 두려워하고 있고, 펠리의 추종자로부터 멀리 떨어진 안전한 은신처를 찾는 희망과는 더더욱 동떨어져 있습니다."
 newengland.57.a:0 "우리에게도 그들을 위한 장소는 없다!"
 newengland.57.b:0 "엄격한 난민 쿼터제를 실시해라"
 newengland.57.c:0 "보스턴에서 인종 차별은 없다!"
