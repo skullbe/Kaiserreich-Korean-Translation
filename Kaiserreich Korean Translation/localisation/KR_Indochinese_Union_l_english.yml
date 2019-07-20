@@ -113,6 +113,8 @@ INC_collectivisation_idea:0 "집산화"
 INC_socialist_reform_idea_a:0 "사회주의 개혁"
 INC_socialist_reform_idea_b:0 "사회주의 개혁"
 INC_Military_Chaos_idea:0 "군사적 혼란"
+INC_Economic_Chaos_idea:0 "경제적 혼란"
+INC_Economic_Chaos_idea_desc:0 ""
 
 #INC_Truong_Chinh_hog_syn:0 "Dang Xuan Khu" already defined in ministers loc file
 ### Parties ###
@@ -231,17 +233,17 @@ viet.7.a:0 "젠장! 그녀는 우리의 영웅이야! 저 도적들을 진압하
 viet.7.b:0 "그녀의 재산을 몰수하고 그녀를 내버려둬라!"
 viet.7.c:0 "혁명은 정의와 같은말이지!"
 
-viet.8.t:0 "민족주의자의 음모"
-viet.8.d.a:0 "Deeply resenting our just social revolution, some insidious VNQDD traitors conspired to launch a coup against us. These self-claimed nationalists organised some anti-syndicalist bandits called National Salvation Corps to march on Saigon and occupy some government buildings. Our Vietminh leaders have to evacuate. However, the heroic worker militias in Saigon refused to surrender. They recapture the buildings and repelled those fools! We have launched a purge against those traitors."
+viet.8.t:0 "국민주의자의 음모"
+viet.8.d.a:0 "Deeply resenting our just social revolution, some insidious VNQDD traitors conspired to launch a coup against us. These self-claimed nationalists organised some anti-syndicalist bandits called National Salvation Corps to march on Saigon and occupy some government buildings. Our Vietminh leaders had to evacuate. However, the heroic worker militias in Saigon refused to surrender. They recapture the buildings and repelled those fools! We have launched a purge against those traitors."
 viet.8.d.b:0 "Deeply resenting our just social revolution, some insidious VNQDD traitors conspired to launch a coup against us. These self-claimed nationalists tried to organise some bandits called National Salvation Corps to march on Saigon and overthrow our government, but the conspiracy was detected by our secret police. Secret police preempted the conspirators and arrested most of them. We have launched a purge against those traitors."
-viet.8.a:0 "나는 민족주의자들이 진정한 혁명가가 아니라는 것을 알고있다!"
+viet.8.a:0 "나는 국민주의자들이 진정한 혁명가가 아니라는 것을 알고있다!"
 viet.8.b:0 "비밀 경찰은 매우 도움이 될것이야!"
 
 viet.9.t:0 "사이공 쿠데타"
 viet.9.d.a:0 "Some rebels declared a so-called 'anti-syndicalist national salvation revolution' in Saigon. They attacked factories and fighting began between rebels and local militias. Tan Viet party claimed that nationalists have betrayed the revolution and urged an immediate purge of nationalists, but VNQDD members claimed their innocence. The intelligence director delivered a secret report showing that the rebels are actually disguised by Tan Viet infiltrators. Now, Comrade Pham Van Dong is asking: 'Comrade, there are two chairs here, one for nationalists and one for internationalists. On which do you wish to sit?'"
 viet.9.d.b:0 "Some rebels declared a so-called 'anti-syndicalist national salvation revolution' in Saigon. They attacked factories and fighting began between rebels and local militias. Tan Viet party claimed that nationalists have betrayed the revolution and urged an immediate purge of nationalists, but VNQDD members claimed their innocence. The intelligence director delivered a secret report showing that the counter-revolutionary rebellion is organised by VNQDD members. Now, Comrade Pham Van Dong is asking: 'Comrade, there are two chairs here, one for nationalists and one for internationalists. On which do you wish to sit?'"
 viet.9.a:0 "국제주의자"
-viet.9.b:0 "미안하지만, 민족주의자들을 택한다."
+viet.9.b:0 "미안하지만, 국민주의자들을 택한다."
 viet.9.c:0 "둘 다 의석에 앉히는 게 좋은 거 같은데"
 
 viet.10.t:0 "인도차이나의 반란이 성공하다"
