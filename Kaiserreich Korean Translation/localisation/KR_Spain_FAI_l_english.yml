@@ -9,8 +9,8 @@ CNT_rally_anarchists_idea:0 "아나키스트들의 집회!"
 CNT_rally_anarchists_idea_desc:0 "스페인에서 내전이 일어났습니다. CNT-FAI가 승리를 거두기 위해서는 모두가 마음과 목적을 가지고 통합되어야 합니다. 에스파냐 만세!"
 
 ### Tooltips ###
-CNT_won_election:0 "전국노동자연합이 공정한 국가 선거에서 승리함\n"
-CNT_released_after_annexation:0 "전국노동자연합이 타국에 의해 건국됨\n"
+CNT_won_election:0 "전국노동연맹이 공정한 국가 선거에서 승리함\n"
+CNT_released_after_annexation:0 "전국노동연맹이 타국에 의해 건국됨\n"
 
 ### Focuses ###
 CNT_election_success:0 "선거 성공"
@@ -83,8 +83,8 @@ CNT_portugal_desc:0 "우리의 이베리아 연방은 서쪽에 있는 형제들
 ### Parties ###
 CNT_totalist_party:0 "마르크스주의 통일노동자당"
 CNT_totalist_party_long:0 "마르크스주의 통일노동자당"
-CNT_syndicalist_party:0 "전국노동자연합-이베리아 아나키스트 연맹"
-CNT_syndicalist_party_long:0 "전국노동자연합-이베리아 아나키스트 연맹"
+CNT_syndicalist_party:0 "전국노동연맹-이베리아 아나키스트 연맹"
+CNT_syndicalist_party_long:0 "전국노동연맹-이베리아 아나키스트 연맹"
 CNT_radical_socialist_party:0 "카바예로주의자"
 CNT_radical_socialist_party_long:0 "카바예로주의자"
 CNT_social_democrat_party:0 "프리에토주의자"
