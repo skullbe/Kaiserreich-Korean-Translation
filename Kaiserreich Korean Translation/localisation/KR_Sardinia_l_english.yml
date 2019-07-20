@@ -48,11 +48,11 @@ SRD_piedmont_paternal_autocrat:0 "사르데냐-피에몬테"
 SRD_piedmont_national_populist:0 "사르데냐-피에몬테"
 
 ### Tooltips ###
-SRD_build_after_liberation:0 "t피에몬테를 해방시킨후 지을 것입니다.\n\n"
+SRD_build_after_liberation:0 "피에몬테를 해방시킨후 지을 것입니다.\n\n"
 SRD_proclaim_kingdom_of_italy:0 "이탈리아 왕국을 선포합니다\n\n§Y사르데냐§!는 이제 §Y이탈리아 왕국§!으로 불릴 것입니다"
 SRD_proclaim_sardinia_piedmont:0 "사르데냐-피에몬테 왕국을 선포합니다\n\n§R이 선택은 이탈리아 왕국 복원을 포기한다는 것을 의미합니다§!\n\n§Y사르데냐§!는 §Y사르데냐-피에몬테§!로 불릴 것입니다"
 SRD_industralize_the_south_flag:0 "우리가 남부 이탈리아를 관리하게 된 이상 산업화를 해야합니다.\n\n"
-SRD_loyal_ministers:0 "우리는 국왕폐하께 유능하고 충성스러운 대신들로 민회를 채울 것입니다."
+SRD_loyal_ministers:0 "우리는 국왕 폐하께 유능하고 충성스러운 대신들로 민회를 채울 것입니다."
 SRD_italian_free_trade_tooltip:0 "이탈리아 국가간의 무역을 촉진시킵니다"
 SRD_joint_military_tooltip:0 "우리는 이탈리아 연맹 가맹국들과의 군사훈련을 유치할 것입니다."
 SRD_sicgarunit_tt:0 "우리 휘하의 새로운 교황 사단이 사르데냐령 로마에서 소집될 것입니다."
