@@ -34,6 +34,8 @@ JBS_trucial_nahyan_tooltip:0 "알나얀 가문이 트루셜 지역에 자본을 
 JBS_syrian_howleitat_tooltip:0 "하웨타트 가문의 지도층이 시리아 지역에 자본을 투자할 것입니다.\n"
 JBS_international_reputation_tooltip:0 "선전 활동은 국제사회의 다른 국가들에게 우리의 평판을 높이는 데 도움을 줄 것입니다.\n"
 jbs_TPC_deal:0 "§GWe will be rewarded further in the future should the oil wells strike more of the black gold"
+200_infantry_equipment_10_PP:0 "£pol_power §Y10§! £rifle_texticon §H200§!"
+200_infantry_equipment_10_PP_blocked:0 "£pol_power §R10§! £rifle_texticon §R200§!"
 
 ### Decisions ###
 JBS_SAU_Power_Struggle:0 "통일전쟁 준비"
