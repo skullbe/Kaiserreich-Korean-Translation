@@ -453,100 +453,100 @@ TRM_JAP_CONS:0 "Japanese Concession"
 TRM_JAP_CONS_desc:0 "The power of Japanese business interests and lobbyists in Transamur is becoming increasingly apparent, and the Concession is proof of this. Where it was once European powers that forced Asian markets to open, in Transamur it seems that the reverse is now true."
 
 ### Focuses ###
-TRM_Navy_Start:0 "Eastern Harbour"
-TRM_Navy_Start_desc:0 "Vladivostok was both a major port and city in the Russian Far East under the old Tsarist regime, but with the aftermath of the the Russo-Japanese war, Vladivostok has lost some of its importance. After the Weltkrieg and Kolchak's unsuccessful coup in 1925 the city underwent a resurgence again as major trade port for the Japanese."
+TRM_Navy_Start:0 "동쪽의 항구"
+TRM_Navy_Start_desc:0 "블라디보스토크는 옛 전제주의 정권 하에서 러시아 극동의 주요 항구이자 도시였지만, 러일 전쟁의 여파로 블라디보스토크는 그 중요성이 어느 정도 상실되었습니다. 하지만 1925년 세계대전(Weltkrieg)과 콜차크의 쿠데타가 실패한 후 도시는 일본의 주요 무역항으로 다시금 부활했습니다."
 
-TRM_Navy_Vlad:0 "Improve Vladivostok Port"
-TRM_Navy_Vlad_desc:0 "Increasing numbers of ships make landfall in our port each week, and Vladivostok harbour has become overloaded due these endless waves of cargo ships. We shall expand the port in order to ease these issues."
+TRM_Navy_Vlad:0 "블라디보스토크 항구 개선"
+TRM_Navy_Vlad_desc:0 "점점 더 많은 배들이 매주 우리 항구에 정박하고있습니다. 블라디보스토크 항구는 이런 끝없는 화물선으로 인해 붐비게 되었습니다. 이러한 문제들을 해결하기 위해 항구를 확장해야 합니다."
 
-TRM_Navy_Doc:0 "Doctrine Breakthrough"
-TRM_Navy_Doc_desc:0 "Our recent efforts in naval researches have resulted in a theoretical breakthrough. It will allow us to develop a new doctrine even faster than we predicted."
+TRM_Navy_Doc:0 "교리적 돌파구"
+TRM_Navy_Doc_desc:0 "최근 해군의 연구 노력은 이론적인 돌파구를 마련했습니다. 이로써 우리가 예상한 것보다 훨씬 더 빨리 새로운 교리를 개발할 수 있게 해줄 것입니다."
 
-TRM_Navy_Ships:0 "Grand Fleet"
-TRM_Navy_Ships_desc:0 "Since the Russian defeat in the Russo-Japanese war the Pacific fleet became a living example of misery. As the legitimate government of Russia it is our duty to restore the former glory of our Pacific fleet."
+TRM_Navy_Ships:0 "거대한 함대"
+TRM_Navy_Ships_desc:0 "러일전쟁에서 패배한 이후 러시아의 태평양 함대는 비참해졌습니다. 트란스아무르는 러시아의 합법적인 정부로서 태평양 함대의 옛 영광을 되찾는 것은 우리의 의무입니다."
 
-TRM_Navy_Docks:0 "Pearl in the East"
-TRM_Navy_Docks_desc:0 "Vladivostok is our great pearl. We must do everything to make our city the powerhouse of East Asia. Our efforts will results in bigger naval facilities and stronger naval fortifications."
+TRM_Navy_Docks:0 "동방의 진주"
+TRM_Navy_Docks_desc:0 "블라디보스토크는 우리의 '진주'라고 할 수 있습니다. 블라디보스토크를 동아시아의 주요도시로 만들기 위해 모든 노력을 다해야 할 것입니다. 그러한 노력의 결과로 블라디보스토크는 더 큰 해군 시설과 더 강력한 해군 요새를 가질 것입니다."
 
-TRM_Navy_Old_Ways:0 "Legacy of the Weltkrieg"
-TRM_Navy_Old_Ways_desc:0 "A lot of time has passed since the end of the Weltkrieg. Naval thought has changed and new technologies such as carriers and submarines have experienced much development. Still, these frivolous new toys are nothing compared to the old warships. A powerful fleet would crush anything in its path."
+TRM_Navy_Old_Ways:0 "세계대전의 유산"
+TRM_Navy_Old_Ways_desc:0 "세계대전이 끝난 이후로 많은 시간이 흘렀습니다. 해군의 사상은 많이 변했고 항공모함이나 잠수함 같은 신기술은 많은 발전을 겪었습니다. 그러나 이런 경박한 장난감은 전함에 비하면 아무것도 아닙니다. 강력한 함대는 그들의 항로에 있는 모든 것을 분쇄할 것입니다."
 
-TRM_Navy_Cruiser:0 "Develop Cruisers"
-TRM_Navy_Cruiser_desc:0 "We are not ready to construct big battleships, so it would be wise to focus on smaller ships such as cruisers. They are one of the keys to naval domination and a worthy initial goal for our fleet."
+TRM_Navy_Cruiser:0 "순양함 개발"
+TRM_Navy_Cruiser_desc:0 "우리는 전함을 건조할 준비가 되어있지 않으므로, 순양함과 같은 작은 배들에 집중하는 것이 좋을 것입니다. 순양함과 같은 작은함선은 성공적인 해군의 열쇠 중 하나이며 우리 함대에 있어 가치 있는 초기 목표라 할 수 있습니다."
 
-TRM_Navy_DD:0 "Destroyers of Amur"
-TRM_Navy_DD_desc:0 "Destroyers are small fast ships which are produced to escort trade convoys and bigger ships. Although they aren't the pinnacle of warships in terms of tonnage and power we cannot afford to ignore them."
+TRM_Navy_DD:0 "아무르의 구축함"
+TRM_Navy_DD_desc:0 "구축함은 수송선과 더 큰 배들을 호위하기 위해 생산되는 작고 빠른 배 입니다. 비록 그들이 배수량과 전력 면에서 군함의 정점은 아니지만 우리는 구축함을 무시할 수 없습니다."
 
-TRM_Navy_New_Ways:0 "A New Path"
-TRM_Navy_New_Ways_desc:0 "The rise of submarines and carriers during the Weltkrieg was unexpected. They have since proven themselves to be very effective. Though we will likely still rely on our extant main fleet, perhaps we could augment it with these new types of ships?"
+TRM_Navy_New_Ways:0 "새로운 길"
+TRM_Navy_New_Ways_desc:0 "세계대전 중에 잠수함과 항공모함의 출현은 예상 밖의 일이었습니다. 하지만 그것들은 매우 효과적이라는 것이 증명됐습니다. 우리는 현존하는 주요 함대에 의존할 것이지만, 우리는 이 새로운 종류의 함선으로 함대를 증강시킬 수 있을 것입니다."
 
-TRM_Navy_Sub:0 "Submarine Effort"
-TRM_Navy_Sub_desc:0 "These sneaky machines of total destruction are good for hunting enemy convoys and surface ships. We must have them immediately!"
+TRM_Navy_Sub:0 "잠수함 개발노력"
+TRM_Navy_Sub_desc:0 "이 교활한 기계들은 적의 호위함과 수상함들을 사냥하는데 효과적입니다. 우리는 당장 잠수함을 보유해야 합니다!"
 
-TRM_Navy_Carrier:0 "Pacific Carriers"
-TRM_Navy_Carrier_desc:0 "Naval carriers are considered by many to be the future of warfare on the high seas, particularly in the large Pacific Ocean. It would be wise to take advantage of our position and facilities to build these new ships."
+TRM_Navy_Carrier:0 "태평양 항모"
+TRM_Navy_Carrier_desc:0 "항모는 공해, 특히 태평양처럼 큰 바다에서의 전쟁의 미래로 여겨지고 있습니다. 우리의 지리적 이점과 시설을 이용하여 이 새로운 배를 만드는 것이 현명할 것입니다."
 
-TRM_Ind_Vlad:0 "Initial Industrialisation"
-TRM_Ind_Vlad_desc:0 "Kolchak's autocratic government did almost nothing to develop our country at all during the 1920's. Now, we have a distinctly backwater industry, a situation which must be rectified soon. We should start to develop our country step by step. Even if our progress is slow, incremental improvements will result in a prosperous country some day."
+TRM_Ind_Vlad:0 "초기 산업화"
+TRM_Ind_Vlad_desc:0 "콜차크의 독재정부는 1920년대에 우리 나라를 발전시키기 위해 아무것도 하지 않았습니다. 지금 우리 산업은 낙후되었고, 우리는 산업을 바로잡아야만 하는 상황입니다. 한걸음, 한걸음 조국을 발전시켜야 합니다. 우리의 발전속도가 더딜지라도, 점진적인 개선은 언젠가는 번영하는 나라를 만들어 낼 것입니다."
 
-TRM_Ind_Jap_Inv1:0 "Minor Japanese Investment"
-TRM_Ind_Jap_Inv1_desc:0 "It may be a bitter pill, but we cannot develop without foreign investments. Japan is unfortunately the only country with the will and capability to invest in our economy, however this will inevitably upset our people."
+TRM_Ind_Jap_Inv1:0 "일본의 작은 투자"
+TRM_Ind_Jap_Inv1_desc:0 "씁쓸한 소리일지 모르지만, 우리는 외국의 투자 없이는 발전할 수 없습니다. 일본은 우리 경제에 투자할 의지와 능력을 가진 유일한 나라이지만, 안타깝게도 이러한 부탁은 우리 국민들을 화나게 할 수밖에 없습니다."
 
-TRM_Ind_Jap_Inv2:0 "Major Japanese Investment"
-TRM_Ind_Jap_Inv2_desc:0 "We need more! Japan is willing to invest even more capital and industrial development in Transamur. There are concerns in our administration that our nation will become increasingly dependent on the Empire if we go down such a path. We must find a balance."
+TRM_Ind_Jap_Inv2:0 "일본의 주요 투자"
+TRM_Ind_Jap_Inv2_desc:0 "더 필요합니다! 일본은 트란스아무르에 더 많은 자본과 산업 발전을 투자할 용의가 있습니다. 하지만 그로인해 우리 나라가 점점 더 일본 제국에게 의존하게 될 것이라는 우려의 목소리가 정부에서 나오고 있습니다. 우리는 균형을 맞추어야 합니다."
 
-TRM_Ind_Dock:0 "Expand Vladivostok Dockyards"
-TRM_Ind_Dock_desc:0 "Vladivostok is our only way to construct ships. We need even more dockyards if we want a proper fleet."
+TRM_Ind_Dock:0 "블라디보스토크 조선소 확장"
+TRM_Ind_Dock_desc:0 "블라디보스토크는 선박을 건조하는 유일한 곳 입니다. 제대로 된 함대를 원한다면 더 많은 조선소가 필요합니다."
 
-TRM_Ind_Khab:0 "Expand Industry in Khabarovsk"
-TRM_Ind_Khab_desc:0 "Khabarovsk is our second biggest city. Although the word "big" is difficult to use about our country, we can expand industry in this city to make it appropriate for our future plans."
+TRM_Ind_Khab:0 "하바롭스크 산업시설 확장"
+TRM_Ind_Khab_desc:0 "하바롭스크는 우리나라의 두 번째로 큰 도시입니다. 우리나라에서는 '거대한'이라는 단어를 쓰기는 어렵지만, 앞으로의 계획에 맞추어 이 도시의 산업을 확장할 수 있습니다."
 
-TRM_Ind_Transsib:0 "Revive Trans-Siberian Railway"
-TRM_Ind_Transsib_desc:0 "We now possess a larger part of the Trans-Siberian Railway. The railway itself in very poor condition, but if we invest in efforts to rebuild and improve it, our supply lines will be greatly improved."
+TRM_Ind_Transsib:0 "시베리아 철도의 부흥"
+TRM_Ind_Transsib_desc:0 "우리는 시베리아 횡단철도의 더 많은 부분을 소유하고 있습니다. 철도는 매우 열악한 상태지만, 우리가 철도를 재건하고 개선하기 위한 노력에 투자한다면, 우리의 보급선이 크게 개선될 것입니다."
 
-TRM_Ind_Sib:0 "Expand Far Eastern Industry"
-TRM_Ind_Sib_desc:0 "The Russian Far East is just a vast wasteland of snow and tundra. But even in this harsh climate we can open some new facilities to develop our industry."
+TRM_Ind_Sib:0 "극동 산업시설 확장"
+TRM_Ind_Sib_desc:0 "러시아 극동지역은 눈과 툰드라의 광활한 황무지입니다. 하지만 이런 혹독한 기후에서도 우리는 산업을 발전시키기 위해 몇 가지 새로운 시설을 지을 수 있습니다."
 
-TRM_Ind_Okh:0 "Improve the Okhotsk Port"
-TRM_Ind_Okh_desc:0 "Okhotsk port is in poor condition due to the lack of usage by its former owners. Redevelopment will enable a new naval base to be established."
+TRM_Ind_Okh:0 "오호츠크 항구 개선"
+TRM_Ind_Okh_desc:0 "오호츠크 항구는 예전 주인들의 이용이 적어서 상태가 별로 좋지 않습니다. 재개발로 새로운 해군기지가 들어설 수 있을 것입니다."
 
-TRM_Ind_Bai:0 "Expand Industry in Lake Baikal Region"
-TRM_Ind_Bai_desc:0 "We now have a very developed industrial region of Irkutsk in our hands. It already has a strong industrial potential, but can improve it even more if we open some new facilities."
+TRM_Ind_Bai:0 "바이칼호 산업시설 확장"
+TRM_Ind_Bai_desc:0 "우리는 매우 발전된 산업 지역인 이르쿠츠크를 손에 넣었습니다. 이미 산업적 잠재력이 충부하지만, 일부 설비를 새로 열면 더욱 발전시킬 수 있습니다."
 
-TRM_Ind_Mon:0 "Develop Former Mongol Lands"
-TRM_Ind_Mon_desc:0 "These lands are in a very poor condition after decades of pillaging by the barbarian Mongolian leadership. It will take us a long time to build up this region, but we can begin now."
+TRM_Ind_Mon:0 "전 몽골영토 개발"
+TRM_Ind_Mon_desc:0 "이 땅들은 수십 년 동안 야만적인 몽골에 의해 약탈당한 후 매우 열악한 상태가 되었습니다. 이 지역을 재건하는 데는 오랜 시간이 걸리겠지만, 어쨌거나 이제 재건을 시작할 수 있습니다."
 
-TRM_Ind_Transsib_exp:0 "Improve Supply Network"
-TRM_Ind_Transsib_exp_desc:0 "As more of Trans-Siberian railway become part of our country its usefulness becomes increasingly apparent. We now even have the potential to create a nationwide railway supply system to deliver goods all across the country."
+TRM_Ind_Transsib_exp:0 "공급망 개선"
+TRM_Ind_Transsib_exp_desc:0 "시베리아 횡단철도가 우리나라의 일부가 되면서 그 유용성이 점점 더 뚜렷해지고 있습니다. 우리는 이제 전국적인 철도 공급 시스템을 구축하여 전국적으로 물품을 배달할 수 있는 잠재력까지 갖추고 있습니다."
 
-TRM_Ind_West_Sib:0 "Expand Industry in Western Siberia"
-TRM_Ind_West_Sib_desc:0 "Western Siberia is our primary strategic region because it allows us to directly attack the traitors from Petrograd. A lot of new facilities must be build to make us stronger before the final battle"
+TRM_Ind_West_Sib:0 "서부 시베리아 산업시설 확장"
+TRM_Ind_West_Sib_desc:0 "서부 시베리아는 페트로그라드의 배신자들을 직접 공격할 수 있게 해주는 우리의 주요 전략 지역입니다. 최종 전투 전, 우리는 더욱 강해지기 위해 더 많은 시설들이 건설되어야 합니다."
 
-TRM_Ind_Research:0 "Siberian Scientists"
-TRM_Ind_Research_desc:0 "Our recent conquests have brought many wise minds into our scientific facilities. We can use them to improve the practical capabilities of our science efforts."
+TRM_Ind_Research:0 "시베리아의 과학자들"
+TRM_Ind_Research_desc:0 " 최근 우리의 정복 활동으로 많은 지식인들을 우리의 과학시설로 데려올 수 있었습니다. 우리는 그들을 과학적 노력의 실질적인 능력향상을 위해 사용할 수 있습니다."
 
-TRM_Trade_Jap:0 "Improve Trade Relations With Japan"
-TRM_Trade_Jap_desc:0 "We may hate the Japanese but even the blind can appreciate that we depend on their economy. It would be more than wise to improve our trade relations with the Empire."
+TRM_Trade_Jap:0 "일본과의 무역 관계를 개선"
+TRM_Trade_Jap_desc:0 "우리는 일본을 멀리할 수도 있지만 장님들조차도 우리가 그들의 경제에 의존하고 있다는 것을 압니다. 일본 제국과의 무역 관계를 개선하는 것이 현명한 일일 것입니다."
 
-TRM_Jap_Inv1:0 "Aid from Japan"
-TRM_Jap_Inv1_desc:0 "We can ask Japan to invest some money into our industry. It will allow us to develop our country faster. However, the deepening ties between us will also grow increasingly apparent, which means our people will be displeased."
+TRM_Jap_Inv1:0 "일본의 원조"
+TRM_Jap_Inv1_desc:0 "우리는 일본에게 우리 산업에 돈을 투자하라고 요청할 수 있습니다. 그것은 우리나라를 더 빠르게 발전시킬 수 있게 해줄 것입니다. 하지만 갈수록 깊어지는 양국 사이의 종속관계도 점점 뚜렷해질 것으로 보이며, 그로인해 우리 국민들은 불쾌해 할 것입니다."
 
-TRM_Jap_Inv2:0 "Zaibatsu Investments"
-TRM_Jap_Inv2_desc:0 "The Japanese industrial giants are increasingly coming to see us as a useful market for their goods. However, by requesting further financial investment from them the people of Transamur will no doubt disapprove of our cosying up to Tokyo."
+TRM_Jap_Inv2:0 "재벌의 투자"
+TRM_Jap_Inv2_desc:0 "일본 대기업들은 우리를 그들이 만드는 상품을 팔 유용한 시장으로 보고 있습니다. 하지만, 그들에게 더 많은 재정 투자를 요청하기위해 도쿄까지 가는 것을 트란스아무르의 사람들은 못마땅하게 여길 것입니다."
 
-TRM_Jap_Inv3:0 "Invite Japanese Instructors"
+TRM_Jap_Inv3:0 "일본인 자문단 초청"
 TRM_Jap_Inv3_desc:0 "While Japanese aid and investment has been highly lucrative, our economy is laughably inefficient compared to that of the land of the rising sun. We should ask our friends to the east for economic advisers and request the personal assistance of Japanese industrialists. Such a move could lead to massive unrest among our people, however; these instructors may be perceived as colonists."
 
-TRM_Jap_Naval_Treaty:0 "Russo-Japanese Naval Treaty"
+TRM_Jap_Naval_Treaty:0 "러일 해군 조약"
 TRM_Jap_Naval_Treaty_desc:0 "As we become closer to Japan, they are willing to sign a treaty with us which would allow us to coordinate with Japanese scientists to develop naval doctrines. However, it will probably anger our people who hate Japanese imperialists."
 
-TRM_Jap_Military_Mission:0 "Japanese Military Mission"
+TRM_Jap_Military_Mission:0 "일본 군사 고문단"
 TRM_Jap_Military_Mission_desc:0 "Our navy is reaping great rewards from our cordiality with Japan, which has become increasingly pronounced due to our recent naval joint-development effort. We should establish a similar relationship with the Japanese Army. This will likely lead to further anger among our populace, however."
 
-TRM_Feng_Dip:0 "Draw Closer to Fengtian"
+TRM_Feng_Dip:0 "봉천에게 접근"
 TRM_Feng_Dip_desc:0 "The Fengtian regime is also under a great deal of Japanese influence, and thus our ally. Despite this and our close geographic proximity, our nation has diplomatic and economic ties comparable to that of any other with Fengtian. We should expand our diplomatic mission in the capital of Fengtian to foster closer ties."
 
-TRM_Feng_Workforce:0 "Invite Fengtian Workers"
+TRM_Feng_Workforce:0 "봉천 노동자 초청"
 TRM_Feng_Workforce_desc:0 "To the west lie the vast lands of Manchuria ruled by Zhang Zuolin who is our occasional partner and ally. A lot of poor Chinese people are willing to work for us, even for a mere bowl of rice per day. Cheap labour could help us greatly, but Japanese officials would no doubt use them to increase their influence in our politics."
 
 TRM_Feng_Smugglers:0 "Smuggle Weapons From Triads"
