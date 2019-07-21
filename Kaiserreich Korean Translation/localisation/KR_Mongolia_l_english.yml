@@ -88,7 +88,7 @@ MON_empire_cavalry_appears:0 "§G두 개의 기병 사단이 몽골에 나타날
 mon_xibei_tooltip:0 "상청을 공격하려면 당신은 반드시 §Y우루무치§! 그리고 §Y칭하이§!를 소유하거나 괴뢰국으로 소유하고 있어야 하며 몽골 칸국으로의 개혁이 필요합니다."
 mon_shanqing_tooltip:0 "운남을 공격하려면 당신은 반드시 §Y산서성§!을 소유하거나 괴뢰국으로 소유하고 있어야 합니다."
 mon_shanqing_tooltip_qing:0 "청나라를 공격하려면 당신은 반드시 §Y산서성§!을 소유하거나 괴뢰국으로 소유하고 있어야 합니다."
-mon_shanqing_tooltip_aog:0 "동아시아 총괄행정 이사회를 공격하려면 당신은 반드시 §Y산서성§!을 소유하거나 괴뢰국으로 소유하고 있어야 합니다."
+mon_shanqing_tooltip_aog:0 "동아시아 총괄행정 감사회를 공격하려면 당신은 반드시 §Y산서성§!을 소유하거나 괴뢰국으로 소유하고 있어야 합니다."
 MON_russia_conquest_tooltip:0 "모든 러시아 전역과 트란스아무르에 대한 영유권을 주장합니다.\n"
 MON_tibcav_tt:0 "새로운 2개의 기병 사단이 생길 것입니다."
 
@@ -201,7 +201,7 @@ MON_turkestan_alliance_desc:0 ""
 MON_try_alash_alliance:0 "카자흐족과 동맹"
 MON_try_alash_alliance_desc:0 "-"
 
-MON_attack_the_AOG:0 "동아시아 총괄행정 이사회 공격"
+MON_attack_the_AOG:0 "동아시아 총괄행정 감사회 공격"
 MON_attack_the_AOG_desc:0 "평원 주민들이 주권 국가에 대한 식민 통치를 용인 한 것은 언제나 부끄러운 일이었습니다. 우리는 곧 이 끔찍한 사태를 바로잡을 것입니다."
 
 MON_claim_the_german_colonies:0 "독일 식민지들을 주장하다"
