@@ -50,12 +50,12 @@ FRA_1941_election:0 "인터내셔널의 힘"
 ### Tooltips ###
 FRA_devSA_tooltip:0 "§Y어떤 남아메리카 국가던지§!:\n       존재함\n       인터내셜과 평화 상태\n       사회주의 정부가 집권 중"
 FRA_devCA_tooltip:0 "§Y어떤 중앙아메리카 국가던지§!:\n       존재함\n       인터내셜과 평화 상태\n       사회주의 정부가 집권 중"
-FRA_tt_hydroelectricity_decisions:0 "Decisions on §YHydroelectricity§! will become available."
-FRA_help_SA_tt:0 "§YWe will help our South American brothers, as we had agreed on the Congress.§!\n"
-FRA_european_revolution_tt:0 "§YThe liberation decisions will be available.§!\n "
-FRA_help_phalanstere_tt:0 "§YDevelopment decisions will be available.§!\n"
-helped_phalanstere:0 "§YIs helping in developing another country.§!\n"
-FRA_sxtnreserve_tt:0 "Sixteen reserve divisions will be raised."
+FRA_tt_hydroelectricity_decisions:0 "§Y수력 발전§! 결정이 해금될 것입니다."
+FRA_help_SA_tt:0 "§Y우리는 회의에서 합의한 대로 남미의 형제들을 도울 것입니다.§!\n"
+FRA_european_revolution_tt:0 "§Y해방 결정이 해금될 것입니다.§!\n "
+FRA_help_phalanstere_tt:0 "§Y개발 결정이 해금될 것입니다.§!\n"
+helped_phalanstere:0 "§Y다른 나라 개발을 돕는 중임§!\n"
+FRA_sxtnreserve_tt:0 "16개 예비 사단이 증원될 것입니다."
 
 ### Ideas ###
 
@@ -202,7 +202,7 @@ COF_prodcsaplanes:0 "아메리카 노동연맹을 위한 항공기 생산"
 COF_prodcsaplanes_desc:0 ""
 
 FRA_avantgarde_idea:0 "국제 아방가르드"
-FRA_avantgarde_idea_desc:0 "A united socialist artstyle, from art to music, could be a powerful tool that will help masses in the non-syndicalist world get interested in our ideals - through entertainment."
+FRA_avantgarde_idea_desc:0 "미술에서 음악에 이르기까지 통일된 사회주의 예술 사조는 비생디칼리즘 세계의 대중이 오락으로 우리의 이상에 관심을 갖도록 도울 강력한 도구가 될 수 있습니다."
 
 ### Parties ###
 
@@ -427,11 +427,11 @@ FRA_Host_the_Internationale_desc:0 "사회주의자, 생디칼리스트, 전체�
 FRA_mission_bhartiya:0 "바라티야 코뮌 지원"
 FRA_mission_bhartiya_desc:0 "바라티야 코뮌은 이웃 국가들, 델리 제국주의자들과 프린스턴 반동주의자들에 대한 투쟁에서 우리의 지지를 요청했습니다. 그들은 장교와 군대를 훈련시키기 위해 우리에게 군사 고문을 보낼 것을 요청했습니다. 우리는 이 원조가 신속하게 도착하여 인도가 더 빨리 통합 될 수 있도록 보장할 것입니다."
 FRA_arab_committee:0 "사회주의 반식민주의 위원회"
-FRA_arab_committee_desc:0 "The traitors of the French people, bastard Petain and his clique of friends, use the native proletariat in efforts to return to the mainland. We won't give them such a chance. Our comrade Sail Mohamed proposed to us the idea of supporting socialist liberation movements across all of Africa, for the good of all Arabs."
+FRA_arab_committee_desc:0 "프랑스 민족의 반역자, 사생아 페탱과 그 친구 패거리들은 본토로 돌아가기 위해 원주민 프롤레타리아를 이용합니다. 우리는 그들에게 그런 기회를 주지 않을 것입니다. 우리의 동지인 사일 모하메드는 모든 아랍인들을 위해, 아프리카 전역의 사회주의 해방 운동을 지원하는 발상을 우리에게 제안했습니다."
 FRA_working_women:0 "여성 노동자"
 FRA_working_women_desc:0 "회의에서 헬렌 크로퍼드는 세계혁명에서의 여성의 역할에 대한 멋진 연설로 무대에 올랐습니다. 우리는 그녀의 주장을 지지했으며 현재 우리 사회에서 여성 노동자의 지위에 관한 상식적인 개혁을 실행할 준비가 되어 있습니다. 반동분자들은 당황 할 수 있습니다. 우리는 분명히 마지막 웃음을 지을 것입니다."
 FRA_avantgarde:0 "국제 아방가르드"
-FRA_avantgarde_desc:0 "For too long have traditional arts and classical music dominated the entertainment of the masses. While Jazz is enjoyable and widely popular in our countries, one genre cannot fight against all others. We have to create new ones, we have to show the world, what the real entertainment is. And it will show to the world that we are the good force of this era!"
+FRA_avantgarde_desc:0 "너무 오랫동안 전통 예술과 클래식 음악이 대중들의 오락을 지배했습니다. 재즈는 우리 나라에서 즐겁고 널리 인기 있는 반면, 한 장르가 다른 모든 장르와 대적할 수는 없습니다. 우리는 새로운 것을 창조해야 하고, 세상에 진정한 오락이란 무엇인지 보여줘야 합니다. 그리고 이는 우리가 이 시대의 선한 힘이라는 것을 전 세계에 보여줄 것입니다!"
 FRA_help_cnt:0 "전국노동연맹 지원"
 FRA_help_cnt_desc:0 "전국노동연맹의 동지들은 카를리스트와 부르봉 반동분자들과 싸우며 스페인과 이베리아 반도 전체를 해방시키려고 합니다. 우리는 대의명분으로 그들을 도울 것을 약속을 했고, 우리는 의심의 여지없이 잘 지원할 것입니다. 그리고 미뤄서는 안 됩니다."
 FRA_second_inter_congress:0 "제2차 인터내셔널 회의"
@@ -441,11 +441,11 @@ FRA_help_south_america_desc:0 "두 번째 의회에서 우리는 남미의 동�
 FRA_help_csa:0 "아메리카 노동 연맹 지원"
 FRA_help_csa_desc:0 "두 번째 의회 동안 가장 시급한 문제, 진행중인 미국 내전에 대해 논의했습니다. 반동적인 롱과 자본주의적인 연방 정부가 모두 아메리카 노동 연맹을 수세로 밀어 붙인 결과, 리드와 그의 추종자들에게 추가적인 지원을 보내겠다는 결정이 내려졌습니다. 우리는 지원이 서둘러 도착할 수 있도록 준비할 것입니다."
 FRA_help_SOV:0 "소비에트 지원"
-FRA_help_SOV_desc:0 "The first great socialist revolution in Russia ended in failure but a new revolt has broken out. We must not squander this opportunity to transform the great Russian Bear of reaction into a staunch ally. Let us lend the Soviets our support."
+FRA_help_SOV_desc:0 "러시아에서의 첫 번째 위대한 사회주의 혁명은 실패로 끝났지만 새로운 봉기가 일어났습니다. 우리는 위대한 반작용의 곰, 러시아를 확고한 동맹국으로 변화시키기 위해 이 기회를 낭비해서는 안 됩니다. 소련에 우리의 지원을 빌려줍시다."
 FRA_scientific_cooperation:0 "인터내셔널 기술 협력"
 FRA_scientific_cooperation_desc:0 "우리가 단순히 우리 자신의 기술적 발견을 가지고만 있을 수는 없다는 것은 분명합니다. 케임브리지 대학교에서 열린 회의에서 우리는 사회주의 국가의 기술 발전을 연합하기 위한 전세계적 계획을 수립하기로 결정했습니다. 그러나 일부는 산업 투자를 포함하여 보다 야심찬 계획을 요구하고 있습니다."
 FRA_third_inter_congress:0 "승리 회의"
-FRA_third_inter_congress_desc:0 "제3차 대회 개최에 대한 책임은 다시 한 번 우리에게 돌아갔습니다. 새로운 장소는 프랑스 제국의 약탈품들로 가득찼던 루브르 박물관이었던 인민궁입니다. 의제 중 하나는 아프리카 대륙을 마침내 해방시키는 것에 관한 것입니다."
+FRA_third_inter_congress_desc:0 "제3차 회의 개최에 대한 책임은 다시 한 번 우리에게 돌아갔습니다. 새로운 장소는 프랑스 제국의 약탈품들로 가득찼던 루브르 박물관이었던 인민궁입니다. 의제 중 하나는 아프리카 대륙을 마침내 해방시키는 것에 관한 것입니다."
 FRA_end_GEX:0 "카이저의 최후"
 FRA_end_GEX_desc:0 "아프리카는 폭정과 압제로 오랫동안 고통받고 있습니다. 많은 왕들의 억압, 노예 상인과 선교사의 억압, 그리고 마침내 유럽 식민지 개척자와 탐험가들의 억압으로 말입니다. 마지막으로, 우리가 아프리카에 자유를 주어 우리가 잘못한 일을 언젠가 바로 잡기를 희망합니다."
 
@@ -498,7 +498,7 @@ FRA_protect_coastlines:0 "해안선 방어"
 FRA_protect_coastlines_desc:0 "Eventually, our navy cannot protect every single beach and every single small harbour in our country. However, we can plan ahead and add some basic fortifications to ensure we are not taken by surprise. If they land on our beaches, they will enjoy cold hard steel after a long time at sea."
 
 FRA_Phalanstere_internationale:0 "팔랑스테르 인터내셔널 설립"
-FRA_Phalanstere_internationale_desc:0 "The need for secrecy necessitates certain inefficiencies in military research. By working closely with other syndicalist nations and allowing researchers access to others' most closely guarded secrets, this fundamental issue can be overcome. The Phalanstère International shall serve as the central authority for the exchange of such secrets."
+FRA_Phalanstere_internationale_desc:0 "기밀의 필요성은 군사 연구에 확실한 비효율을 필요로 합니다. 다른 생디칼리즘 국가들과 긴밀히 협력하고 연구자들이 다른 나라의 꽁꽁 숨겨진 기밀에 접근할 수 있게 함으로써, 이 근본적인 문제는 극복할 수 있습니다. 팔랑스테르 인터내셔널은 그러한 기밀의 교환을 위한 중심 기관으로 기능해야 합니다."
 
 ### Events ###
 
@@ -1262,7 +1262,7 @@ comfrance.164.t:0 "제1차 부르주 국제 예술제"
 comfrance.164.d:0 "제1차 부르주 국제 예술제가 오늘 열렸습니다. 오직 영국과 프랑스의 노력 덕분에 국제 아방가르드 예술제가 열렸습니다. 이 예술제에는 프랑스 정부가 의뢰한 많은 생디칼리스트 화가들의 사실주의 작품과 브리튼, 러시아, 미국 작품, 디에고 리베라의 벽화가 전시되었습니다. 이 행사는 세계적으로 주목을 받고 있으며 주말까지 이어질 것입니다. 당분간 스포트라이트를 즐깁시다."
 comfrance.164.a:0 "부르주 예술제는 앞으로도 계속 열릴 것이다. 정부가 이를 보증한다!"
 
-comfrance.165.t:0 "France proposes International Avant-Garde"
+comfrance.165.t:0 "프랑스가 국제 아방가르드를 제안하다."
 comfrance.165.d:0 "An efforts were made by the French government to establish an International Avant-Garde. It will aim to create new artistic styles, unique in their unorthodoxy presentations, something this world has never seen before.\n\nFrench Government believes it will be a helpful tool in spreading syndicalist teaching through non-violent means. Now they expect us to join on it. "
 comfrance.165.a:0 "Count us in!"
 
@@ -1288,13 +1288,13 @@ FRA_invade_SER:0 "세르비아 해방"
 FRA_invade_SER_desc:0 "급진주의적인 세르비아의 군사정부는 최후를 맞이하게 될 것입니다!"
 
 FRA_invade_ROM:0 "루마니아 해방"
-FRA_invade_ROM_desc:0 "Romanian Government is the single most dissapointing and disgusting from of the government that exists in Europe. It should exist no more!"
+FRA_invade_ROM_desc:0 "루마니아 정부는 유럽에 존재하는 정부 중 가장 실망스럽고 역겹기로는 유일한 정부입니다. 더 이상 존재하지 않아야 합니다!"
 
 FRA_invade_RRM:0 "루마니아 해방"
 FRA_invade_RRM_desc:0 ""
 
 FRA_invade_NOR:0 "노르웨이해방"
-FRA_invade_NOR_desc:0 "Norway not only is a strategic country for our comrades back in Britain, but it's also a place, where Syndicalists didn't get a chance of running the government. Let's change that."
+FRA_invade_NOR_desc:0 "노르웨이는 영국에 있는 동지들에게 전략적인 나라일 뿐만 아니라 생디칼리스트들이 정부를 운영할 기회를 얻지 못한 곳입니다. 이를 바꿔봅시다."
 
 FRA_invade_FIN:0 "핀란드 해방"
 FRA_invade_FIN_desc:0 ""
@@ -1303,10 +1303,10 @@ FRA_invade_SWE:0 "스웨덴 해방"
 FRA_invade_SWE_desc:0 "우리의 스웨덴 동지들이 고향에 돌아가기 위해선 도움이 필요할겁니다."
 
 FRA_invade_POL:0 "폴란드 해방"
-FRA_invade_POL_desc:0 "The legacy of the 1905 uprising still lives on in our memories. With our help, Poland will never be lost again."
+FRA_invade_POL_desc:0 "1905년 봉기의 유산은 아직도 우리의 기억 속에 남아 있습니다. 우리의 도움으로 폴란드는 다시는 길을 잃지 않을 것입니다."
 
 FRA_invade_BAT:0 "발트 공국 해방"
-FRA_invade_BAT_desc:0 "A state forged with the intention of colonizing that region with the German people should in no way make a part of our new Europe."
+FRA_invade_BAT_desc:0 "독일 인민과 함께 그 지역을 식민지로 만들려는 의도로 만들어진 국가는 결코 새로운 유럽의 일부가 되어서는 안 됩니다."
 
 FRA_invade_LIT:0 "리투아니아 해방"
 FRA_invade_LIT_desc:0 ""
@@ -1318,7 +1318,7 @@ FRA_invade_EST:0 "에스토니아 해방"
 FRA_invade_EST_desc:0 ""
 
 FRA_invade_UKR:0 "우크라이나 해방"
-FRA_invade_UKR_desc:0 "The homeland of Nestor Makhno should be red once more!"
+FRA_invade_UKR_desc:0 "네스토르 마흐노의 고국은 다시 한번 적화될 것입니다!"
 
 FRA_invade_WHR:0 "백루테니아 해방"
 FRA_invade_WHR_desc:0 ""
@@ -1327,7 +1327,7 @@ FRA_invade_ALB:0 "알바니아 해방"
 FRA_invade_ALB_desc:0 ""
 
 FRA_invade_OTT:0 "칼리프를 끝내라"
-FRA_invade_OTT_desc:0 "It's truly remarkable that such a state survived for so long. Maybe it's time to put that sick man out of his misery."
+FRA_invade_OTT_desc:0 "그런 상태에서 그렇게 오랫동안 살아남은 것은 참으로 놀라운 일입니다. 어쩌면 이제 그 병자를 고통에서 벗어나게 할 때인지도 모릅니다."
 
 FRA_invade_TUR:0 "터키 해방"
 FRA_invade_TUR_desc:0 ""
@@ -1336,7 +1336,7 @@ FRA_invade_BUL:0 "불가리아 해방"
 FRA_invade_BUL_desc:0 ""
 
 FRA_invade_RUS:0 "소련을 복귀시켜라"
-FRA_invade_RUS_desc:0 "With Germany defeated, Russia is the only obstacle left that can seriously cause issues for us, if left alone. Only Syndicalism will be hegemonic in the new Europe."
+FRA_invade_RUS_desc:0 "독일이 패한 상황에서 우리에게 심각한 문제를 일으킬 수 있는 유일한 장애물은 러시아뿐입니다. 생디칼리즘만이 신유럽에서 패권을 쥘 것입니다."
 
 FRA_invade_DKB:0 "돈-쿠반 연합 해방"
 FRA_invade_DKB_desc:0 ""
@@ -1351,10 +1351,10 @@ FRA_invade_ARM:0 "아르메니아 해방"
 FRA_invade_ARM_desc:0 ""
 
 FRA_invade_SWI:0 "스위스 해방"
-FRA_invade_SWI_desc:0 "We should end, what we started - a total destruction of the Swiss capitalist system."
+FRA_invade_SWI_desc:0 "우리가 시작한 일-스위스 자본주의 체제의 완전한 파괴-을 끝내야 합니다."
 
 FRA_invade_IRE:0 "아일랜드 해방"
-FRA_invade_IRE_desc:0 "We'll make the whole British Isles red, no matter if Ireland wants it or not!"
+FRA_invade_IRE_desc:0 "우리는 아일랜드가 원하든 원하지 않든 브리튼 제도 전체를 붉게 만들 것입니다!"
 
 FRA_invade_ICE:0 "아이슬란드 해방"
 FRA_invade_ICE_desc:0 ""
@@ -1363,7 +1363,7 @@ FRA_invade_GRE:0 "그리스 해방"
 FRA_invade_GRE_desc:0 ""
 
 FRA_internationale_category:0 "인터내셔널 문제"
-FRA_internationale_category_desc:0 "The alliance of all Socialists in our world is truly something beautiful. We will work together to make the world a better place for us all."
+FRA_internationale_category_desc:0 "우리 세계의 모든 사회주의자들의 동맹은 참으로 아름답습니다. 우리는 세상을 우리 모두에게 더 좋은 곳으로 만들기 위해 함께 일할 것입니다."
 
 FRA_Develop_SRI:0 "Develop the Socialist Republic of Italy"
 FRA_Develop_SRI_desc:0 "Our Italian comrades have applied to join the Phalanstère International. With the Habsburg-backed Italian Republic threatening the Po border and the zealously anti-syndicalist Two Sicilies in the south, it is only proper to help our comrades in their struggle."
@@ -1389,8 +1389,8 @@ FRA_Sabotage_NFA_decision_desc:0 "The French traitorous imperialists for far too
 FRA_Sabotage_MOR_decision:0 "Initiate sabotage in Morocco"
 FRA_Sabotage_MOR_decision_desc:0 "The Moroccan government is a puppet to the German Colonial Elite. We will do our best to ensure that Morocco will one day be free from both capitalists and imperialists."
 
-FRA_Savoy_Hydroelectricity_decision:0 "Build a dam in Savoy"
+FRA_Savoy_Hydroelectricity_decision:0 "사부아에 댐 건설"
 
-FRA_Haute_Savoie_Hydroelectricity_decision:0 "Build a dam in Haute-Savoie"
+FRA_Haute_Savoie_Hydroelectricity_decision:0 "오트사부아에 댐 건설"
 
-FRA_Romandy_Hydroelectricity_decision:0 "Build a dam in Romandy"
+FRA_Romandy_Hydroelectricity_decision:0 "로망디에 댐 건설"
