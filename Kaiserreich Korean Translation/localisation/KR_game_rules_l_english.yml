@@ -582,9 +582,9 @@ RULE_OPTION_BRA_START_ELECTION_NATIONAL_POPULIST_INTERGRALIST_DESC:0 "Gustavo Do
 BOL_PRU_CONFEDERATION:0 "£KR_game_rule_flag_BOL   페루-볼리비아 연방"
 RULE_OPTION_BOL_PRU_CONFEDERATION_RANDOM:0 "기본값"
 RULE_OPTION_BOL_PRU_CONFEDERATION_RANDOM_DESC:0 "The Confederation between Peru and Bolivia was short-lived, lasting only from 1836 to 1839. Despite its distant past, support for the Union in both nations remains large to this day, especially in Bolivia due to the failures of the Chaco war and the nation's economic decline."
-RULE_OPTION_BOL_PRU_CONFEDERATION_YES:0 "£KR_game_rule_flag_PBC   연맹 복원"
+RULE_OPTION_BOL_PRU_CONFEDERATION_YES:0 "£KR_game_rule_flag_PBC   연방 부활"
 RULE_OPTION_BOL_PRU_CONFEDERATION_YES_DESC:0 "Incapacity by Busch to solve labour issues troubling Bolivia and strong sentiment in favor of the reinstatement of the Confederation leads Bolivia to formally offer unification to Peru. Peru accepts and the Peru-Bolivian Confederation is created."
-RULE_OPTION_BOL_PRU_CONFEDERATION_NO:0 "£KR_game_rule_flag_BOL  £KR_game_rule_flag_PRU   연맹 거부"
+RULE_OPTION_BOL_PRU_CONFEDERATION_NO:0 "£KR_game_rule_flag_BOL  £KR_game_rule_flag_PRU   연방 거부"
 RULE_OPTION_BOL_PRU_CONFEDERATION_NO_DESC:0 "The labour issue is solved domestically and no confederation is formed."
 
 PRU_POST_ATTEMPT:0 "£KR_game_rule_flag_PRU   암살의 여파"
