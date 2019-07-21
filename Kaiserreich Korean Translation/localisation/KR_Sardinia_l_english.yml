@@ -30,27 +30,10 @@ SRD_market_lib_party:0 "자유연합"
 SRD_social_cons_party_long:0 "기독교 민주주의"
 SRD_social_cons_party:0 "기독교 민주주의"
 
-### Cosmetic Tags ###
-SRD_ITA_social_democrat:0 "이탈리아 왕국"
-SRD_ITA_social_liberal:0 "이탈리아 왕국"
-SRD_ITA_market_liberal:0 "이탈리아 왕국"
-SRD_ITA_social_conservative:0 "이탈리아 왕국"
-SRD_ITA_authoritarian_democrat:0 "이탈리아 왕국"
-SRD_ITA_paternal_autocrat:0 "이탈리아 왕국"
-SRD_ITA_national_populist:0 "이탈리아 왕국"
-
-SRD_piedmont_social_democrat:0 "사르데냐-피에몬테"
-SRD_piedmont_social_liberal:0 "사르데냐-피에몬테"
-SRD_piedmont_market_liberal:0 "사르데냐-피에몬테"
-SRD_piedmont_social_conservative:0 "사르데냐-피에몬테"
-SRD_piedmont_authoritarian_democrat:0 "사르데냐-피에몬테"
-SRD_piedmont_paternal_autocrat:0 "사르데냐-피에몬테"
-SRD_piedmont_national_populist:0 "사르데냐-피에몬테"
-
 ### Tooltips ###
 SRD_build_after_liberation:0 "피에몬테를 해방시킨후 지을 것입니다.\n\n"
 SRD_proclaim_kingdom_of_italy:0 "이탈리아 왕국을 선포합니다\n\n§Y사르데냐§!는 이제 §Y이탈리아 왕국§!으로 불릴 것입니다"
-SRD_proclaim_sardinia_piedmont:0 "사르데냐-피에몬테 왕국을 선포합니다\n\n§R이 선택은 이탈리아 왕국 복원을 포기한다는 것을 의미합니다§!\n\n§Y사르데냐§!는 §Y사르데냐-피에몬테§!로 불릴 것입니다"
+SRD_proclaim_sardinia_piedmont:0 "§R이탈리아 왕국에 대한 야망을 재선포합니다§!\n"
 SRD_industralize_the_south_flag:0 "우리가 남부 이탈리아를 관리하게 된 이상 산업화를 해야합니다.\n\n"
 SRD_loyal_ministers:0 "우리는 국왕 폐하께 유능하고 충성스러운 대신들로 민회를 채울 것입니다."
 SRD_italian_free_trade_tooltip:0 "이탈리아 국가간의 무역을 촉진시킵니다"
@@ -66,6 +49,9 @@ SRD_political_decisions:0 "정치 결정"
 SRD_political_decisions_desc:0 "왕국의 모습을 되찾기 위해 우리가 행할 수 있는 많은 정치 결정들이 있습니다."
 SRD_unite_italy:0 "이탈리아 통일"
 SRD_unite_italy_desc:0 "이탈리아는 이탈리아 내전 중에 분열되었습니다. 그러나 마침내 사보이 가문이 승리를 거듭하면서, 다시 이탈리아를 통일하게 되었습니다."
+SRD_reclaim_piedmont:0 "피에몬테 재주장"
+SRD_reclaim_piedmont_desc:0 "Today we have retaken Piedmont and destroyed the godless syndicalists within the Socialist Republic of Italy. It will take time to dismantle syndicalism, but for now we are back on the mainland of Italy. Long live the king!"
+SRD_has_piedmont:0 "§Y사르데냐§!가 피에몬테를 재주장하였습니다"
 
 ### Ideas ###
 SRD_canadian_officers:0 "캐나다인 고문"
@@ -323,10 +309,6 @@ srd.30.a:0 "사회자유당"
 srd.30.b:0 "시장자유당"
 srd.30.c:0 "사회보수당"
 srd.30.e:0 "사회민주당"
-### Foreign Path 31 - 35 ###
-srd.31.t:0 "피에몬테는 우리 것이다"
-srd.31.d:0 "Today on [GetDateText] we have retaken Piedmont and destroyed the godless syndicalists within the Socialist Republic of Italy. It will take time to dismantle syndicalism but for now we are back on the mainland of Italy."
-srd.31.a:0 "국왕 폐하 만세"
 
 ### Kingdom of Italy 36 - 45 ###
 srd.36.t:0 "이탈리아 왕국의 새로운 정당들"
