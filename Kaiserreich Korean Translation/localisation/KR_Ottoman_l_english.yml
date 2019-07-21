@@ -85,6 +85,7 @@ OTT_GER_PAID:0 "§M독일 제국§!으로의 지불을 중단합니다"
 OTT_AUS_PAID:0 "§M오스트리아 제국§!으로의 지불을 중단합니다"
 OTT_ENT_PAID:0 "§M협상국§!으로의 지불을 중단합니다"
 OTT_ertugrul_tt:0 "소규모 기병 사단이 구성될 것입니다."
+ott_cp_war_decisions_tt:0 "Certain £decision_icon_small §Y결정§! 사용이 가능합니다"
 
 ### Decisions ###
 OTT_demand_western_thrace:0 "서부 트라키아 요구"
