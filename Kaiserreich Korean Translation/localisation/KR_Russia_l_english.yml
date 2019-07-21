@@ -506,7 +506,7 @@ RUS_TSAR_POL3_desc:0 "러시아 국민은 과거의 영광과 미래의 번영�
 RUS_TSAR_POL4:0 "황제의 영광"
 RUS_TSAR_POL4_desc:0 "영광이 차르를 비추면, 영광은 러시아를 비추고, 그 반대도 마찬가지입니다. 우리는 우리 정부의 형태와 밀접하게 닮은 다른 정부들과 더 긴밀한 관계를 구축해야 합니다. 우리는 다시 한번 세계의 주목을 받는 강대국으로 부상하는 데 단지 몇 걸음 떨어져 있을 뿐입니다!"
 
-RUS_DMI_ADM1:0 "젬스트보 재설립"
+RUS_DMI_ADM1:0 "젬스트바 재설립"
 RUS_DMI_ADM1_desc:0 "The Zemstvo is a form of local governance and representation first introduced by Alexander II in 1864. It strongly weights favour to aristocrats but it still assures representation of the lower classes. It will, without a doubt, assure stability in our torn nation."
 RUS_DMI_ADM2:0 "Funding Frenzy"
 RUS_DMI_ADM2_desc:0 "By offering more economic support and tax reductions to the Zemstva, we can make sure they start funding local projects like never before. More over it will strengthen the connections between the people of Russia and these new established state authorities."
@@ -842,8 +842,8 @@ russia.12.t:0 "키릴 차르"
 russia.12.d:0 "러시아가 민주주의의 불안정한 장치로 인해 혼돈에 빠진이후 1년이 지났습니다. 합법적인 차르인 키릴 로마노프와 함께 러시아 왕조를 복원할 때입니다!"
 russia.12.a:0 "드미트리를 새로운 차르로 맞이한다. 로마노프 왕조 만세!"
 russia.12.b:0 "브란겔이 제정복고를 안전하게 이끌 것이다."
-russia.12.e:0 "차르 만세!"
 russia.12.c:0 "코닐로프가 제정복고를 안전하게 이끌 것이다."
+russia.12.e:0 "차르폐하 만세!"
 
 russia.13.t:0 "블라디미르 차르"
 russia.13.d:0 "It's been more than a year since Russia was thrown into chaos once again due to the unstable nature of democracies. It is time we restore the Russian Tsardom, with the legitimate Vladimir Romanov on the throne!"
