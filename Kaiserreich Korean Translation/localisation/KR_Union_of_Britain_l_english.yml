@@ -380,8 +380,8 @@ ENG_fighter_research:0 "전투기 연구"
 ENG_fighter_research_desc:0 "적은 폭격기 연구에 집중할 지도 모릅니다 – 하지만 불타는 폭격기와 함께 땅에 처박힌다면 개선된 폭장량이 무슨 이점이 있겠습니까?"
 ENG_air_doctrine:0 "공군 교리 연구"
 ENG_air_doctrine_desc:0 "이 분쟁에서의 항공전의 방식의 변화는 모든 방향에서 믿기 어려울 정도로 일어나고 있습니다. 혁신적인 적응만이 하늘에서의 우세권을 지닐 수 있을 것입니다."
-ENG_bomber_research:0 "폭격기 연구"
-ENG_bomber_research_desc:0 "적은 아마도 전투기 연구에 집중할 것입니다.– 하지만 우리의 폭격기가 그들의 불타는 공장지대 위를 지나가는 것을 지켜만 보게 된다면 개선된 요격기의 장점이 어디 있겠습니까?"
+ENG_bomber_research:0 "경폭격기 연구"
+ENG_bomber_research_desc:0 "창공 통제는 필수적이지만, 공군이 지상의 군인들을 돕지 않는다면 무슨 소용이 있겠습니까? 직접 지원 및 단단한 목표물 파괴에 특화된 경폭격기들은 우리 군대가 훨씬 더 효과적으로 싸울 수 있도록 도와줄 것입니다."
 ENG_motorized:0 "기동화 부대 연구"
 ENG_motorized_desc:0 "전차는 아무튼 간에 좋지만 그들이 보병과 함께 운용된다면 더욱 더 유용해 보이는 듯 합니다. 우리는 이 상황을 연구해야 할 지도 모릅니다."
 ENG_float_boat_research:0 "항공모함 연구"
@@ -1251,7 +1251,7 @@ uob.362.d:0 "오늘 아침 일찍이, 저명한 작가이자 노련한 민병대
 uob.362.a:0 "결국 그는 떠났구나..."
 
 uob.363.t:0 "석유 문제"
-uob.363.d:0 "It has been decades since we forced the capitalists out, yet we can't rest. Not until they are all defeated will we be safe, but to defeat them the workers spirit will not be enough. There are no two ways about it; without oil our planes, tanks and ships are nothing but scrap, not matter the skill of their crew.\n\nSince we first realised the issue, monumental effort has been spent attempting to cultivate domestic sources of oil. Some, like the shale oils in Scotland, have seen mild success. Others, like the French oil fields, have been near total failures. Fortunately, many saw this coming, and so resources had already been put towards researching synthetic sources of oil. If we divert enough resources in this direction, it may just be possible..."
+uob.363.d:0 "It has been decades since we forced the capitalists out, yet we can't rest. Not until they are all defeated will we be safe, but to defeat them the workers spirit will not be enough. There are no two ways about it; without oil our planes, tanks and ships are nothing but scrap, no matter the skill of their crew.\n\nSince we first realised the issue, monumental effort has been spent attempting to cultivate domestic sources of oil. Some, like the shale oils in Scotland, have seen mild success. Others, like the French oil fields, have been near total failures. Fortunately, many saw this coming, and so resources had already been put towards researching synthetic sources of oil. If we divert enough resources in this direction, it may just be possible..."
 uob.363.a:0 "It will have to be enough..."
 
 ### Flavour Events ###
@@ -1266,7 +1266,8 @@ uobflavour.2.a:0 "자금을 지원하라!"
 uobflavour.2.b:0 "뭐라고? 안돼!"
 
 uobflavour.3.t:0 "애니그마를 해독해내다"
-uobflavour.3.d:0 "'그가 해냈어, (욕설 검열됨) 해냈다고!' 우리의 선도적 과학자들이 오늘자 신문에 대고 말했습니다. 튜링의 소규모 프로젝트는 시간이 지나며 브레츨리 파크 전체의 대대적 연구 프로젝트로 확장되었으며, 이는 마침내 성공하였습니다. 그는 이 발상을 얻었을 때 요크셔 푸딩을 먹고 있었다는 이유로 '푸딩'이라 불리는 기묘한 기계를 만들어 냈고, 이는 혁명적인 암호해독능력을 지니고 있습니다. 처음으로 군사적 암호화와 해독이 기계로 이루어졌습니다. 이는 연방과 관련된 모든 군사적 분쟁에서 우리에게 결정적인 이점을 줄 것입니다."
+uobflavour.3.d_1:0 "'그가 해냈어, (욕설 검열됨) 해냈다고!' 우리의 선도적 과학자들이 오늘자 신문에 대고 말했습니다. 튜링의 소규모 프로젝트는 시간이 지나며 브레츨리 파크 전체의 대대적 연구 프로젝트로 확장되었으며, 이는 마침내 성공하였습니다. 그는 이 발상을 얻었을 때 요크셔 푸딩을 먹고 있었다는 이유로 '푸딩'이라 불리는 기묘한 기계를 만들어 냈고, 이는 혁명적인 암호해독능력을 지니고 있습니다. 처음으로 군사적 암호화와 해독이 기계로 이루어졌습니다. 이는 연방과 관련된 모든 군사적 분쟁에서 우리에게 결정적인 이점을 줄 것입니다."
+uobflavour.3.d_2:0 "'He did it, the (expletive), he did it!' our leading scientists are cited in today's papers. The once small project of Alan Turing, grown massively since we provided handsome funding to the operation in Bletchley Park, has finally seen success. Turing constructed a strange machine, called 'Pudding' after the Yorkshire pudding Turing was enjoying when he had the idea, that has revolutionised cryptography. For the first time, military encryption and decryption are conducted by a machine. This will give the Union an important edge in any military conflict."
 uobflavour.3.a:0 "위대한 성취다!"
 
 uobflavour.4.t:0 "웰스가 인터내셔널 백과사전을 제안하다"
