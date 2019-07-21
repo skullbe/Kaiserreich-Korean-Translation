@@ -579,7 +579,7 @@ RULE_OPTION_BRA_START_ELECTION_SOCIAL_DEMOCRAT_COUP_TOTALIST_DESC:0 "João Manga
 RULE_OPTION_BRA_START_ELECTION_NATIONAL_POPULIST_INTERGRALIST:0 "£KR_game_rule_flag_BRA_national_populist   유기적 제국"
 RULE_OPTION_BRA_START_ELECTION_NATIONAL_POPULIST_INTERGRALIST_DESC:0 "Gustavo Dodt Barroso and the national populist Ação Integralista Brasileira win the 1936 elections. The government later reinstates the monarchy and crowns Dom Pedro III de Orléans e Bragança as emperor."
 
-BOL_PRU_CONFEDERATION:0 "£KR_game_rule_flag_BOL   페루-볼리비아 연맹"
+BOL_PRU_CONFEDERATION:0 "£KR_game_rule_flag_BOL   페루-볼리비아 연방"
 RULE_OPTION_BOL_PRU_CONFEDERATION_RANDOM:0 "기본값"
 RULE_OPTION_BOL_PRU_CONFEDERATION_RANDOM_DESC:0 "The Confederation between Peru and Bolivia was short-lived, lasting only from 1836 to 1839. Despite its distant past, support for the Union in both nations remains large to this day, especially in Bolivia due to the failures of the Chaco war and the nation's economic decline."
 RULE_OPTION_BOL_PRU_CONFEDERATION_YES:0 "£KR_game_rule_flag_PBC   연맹 복원"
