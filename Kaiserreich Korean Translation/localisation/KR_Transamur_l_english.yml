@@ -2,7 +2,7 @@ l_english:
 
 ### Events ###
 tram.intro.t:0 "트란스아무르 - 블라디보스토크의 임시 러시아 정부"
-tram.intro.d:0 "Siberia and the Russian far-east had been a major areas of conflict during the Russian Civil War, as the location of a short-lived democratic republic, the rising of the 'Czech legion' and Japanese intervention. While forced to evacuate their forces due to German pressure (as well as intense resistance from local Cossacks), the Japanese remained eager to extend their influence and in 1922 pushed for the establishment of an independent state in the Transamur region. This motion gained the support of the Vladivostok business community, despite the fact that it left them vulnerable to forming an economic dependency on Japan. The majority of the business community however saw economic and diplomatic relations with the rising power in the East as a significant advantage, especially when compared to the alternative of being sucked further into the disorder besetting the rest of Russia. The new nation gained a prominent figurehead in the form of Admiral Kolchak, one of the more successful White Generals of the civil war and the one-time self-proclaimed 'Supreme Ruler of All Russia', who had been forced to flee Russia following his unsuccessful attempt to seize control in 1925. In 1936, the Transamur Republic has become a corporate and militaristic state, and is politically, economically and militarily under the thumb of the Japanese Empire. And yet Kolchak has ambitions of his own. Could he simply be playing a very dangerous game, using the Japanese protection to establish his own rule, first over Siberia, and then over Russia as a whole?"
+tram.intro.d:0 "민주주의가 오래가지 못하는곳에 위치한 시베리아와 러시아 극동지역은 '체코 군단' 의 부상, 일본의 개입 등으로 러시아 내전 당시 분쟁의 주요 지역이었습니다. 독일군의 압력(그로고 코삭으로부터의 강력한 저항)으로 군대를 철수시키는 동안, 일본인들은 그들의 영향력 확대에 열심이었고, 1922년에 트란스아무르 지역에 독립국가의 설립을 추진하였습니다. 일본에 의한 독립국가의 설립이 경제적인 의존을 형성한다는 사실에도 불구하고도, 이러한 움직임은 블라디보스토크 경제 공동체의 지지를 얻었습니다. 그들의 대다수는 러시아를 괴롭히는 혼란에 더 깊이 빠져들 수 있는 다른 대안과 비교할 때, 동양의 부상하는 세력과의 경제 및 외교 관계구축을 중요한 이점으로 보았습니다. 이 신생 국가는 1925년, 통치권 장악에 실패한 후 러시아를 탈출할 수 밖에 없었던 내전의 백군들 중 하나이자 한때, 자칭 '전 러시아의 최고 지도자'인 콜차크 제독이라는 두드러진 인물을 얻었습니다. 1936년 트란스아무르 공화국은 기업주의와 군국주의 국가가 되었으며,  정치적, 경제적, 군사적으로 일본 제국의 손아귀에 있었습니다. 그럼에도 불구하고 콜차크는 자신의 야망을 가지고 있습니다. 그는 일본의 위세를 이용해 자신의 지배력을 확립하고, 시베리아를 넘어 러시아 전체를 아우르는 아주 위험한 게임을 할 수 있을까요?"
 tram.intro.a:0 "흥미롭군..."
 
 tram.1.t:0 "트란스아무르가 탈주하다!"
@@ -369,7 +369,7 @@ tram.125.d:0 "영국의 '유배된 왕' 조지 5세의 사망소식이 블라디
 tram.125.a:0 "강력한 동맹은 언제나 좋다."
 
 tram.126.t:0 "트란스아무르에서의 특사"
-tram.126.d:0 "오늘 트란스아무르의 보잘것 없는 군사정권의 사절단이 에드워드 8세를 찾아왔습니다. 이 특사는 선왕 조지 5세께서는 1925년 페트로그라드에서 콜차크의 실패했던 쿠데타의 지지자였음을 알려주었고, 이번에야말로 '악당 제독'이 승리할 것이라고 장담하며, 다시 한번 협상국이 지원해 달라며 요청했습니다. 우린 콜차크에게 딱히 신세진 건 없지만, 콜차크라는 사람이 그렇게 쓸모없는 사람은 아닐지도 모릅니다. 뭐라고 대답해야 할까요?"
+tram.126.d:0 "오늘 트란스아무르의 보잘것 없는 군사정권의 사절단이 에드워드 8세를 찾아왔습니다. 이 특사는 선왕 조지 5세께서는 1925년 페트로그라드에서 실패했던 콜차크의 쿠데타의 지지자였음을 알려주었고, 이번에야말로 '악당 제독'이 승리할 것이라고 장담하며, 다시 한번 협상국이 지원해 줄 것을 요청했습니다. 우린 콜차크에게 딱히 신세진 건 없지만, 콜차크라는 사람이 그렇게 쓸모없는 사람은 아닐지도 모릅니다. 뭐라고 대답해야 할까요?"
 tram.126.a:0 "필요한 건 뭐든 말하라고 전하라."
 tram.126.b:0 "제한된 지원으로 충분하겠지."
 tram.126.c:0 "그는 어리석은 늙은이일 뿐이다."
@@ -383,24 +383,24 @@ tram.127.b:0 "없는것보단 낫지!"
 tram.127.c:0 "정말 무례한 사람이군..."
 
 tram.128.t:0 "블라디보스토크 조약"
-tram.128.d:0 "일본과 트란스아무르 사이의 전쟁은 이전에 가졌던 명분과 이유를 잃은 것 같습니다. 용감한 러시아 수비군들로 인해 일본군은 출혈을 입었고, 오랫동안 블라디보스토크를 정복할 수 없었습니다. 트란스아무르를 '길들이기' 위한 전쟁은 이제 트란스아무르를 정복해도 그 대가로 얻을 수 있는 것보다 더 많은 비용이 들 것 같습니다. \n\n[JAP.GetLeader](와)과 [TRM.GetLeader](은)는 오늘 블라디보스토크에서 만나서, 두 나라 사이의 평화 협정에 서명하고 모든 적대 행위를 종식시키기로 했습니다. 일본은 러시아를 압박할 유일한 카드였던 트란스아무르를 잃었습니다. 트란스아무르의 사람들은 이 승리를 축하하고 있습니다."
+tram.128.d:0 "일본과 트란스아무르 사이의 전쟁은 이전에 가졌던 명분과 이유를 잃은 것 같습니다. 용감한 러시아 수비군들로 인해 일본군은 출혈을 입었고, 오랫동안 블라디보스토크를 정복할 수 없었습니다. 트란스아무르를 '길들이기'위한 전쟁은 이제 트란스아무르를 정복해도 그 대가로 얻을 수 있는 것보다 더 많은 비용이 들 것 같습니다. \n\n[JAP.GetLeader](와)과 [TRM.GetLeader](은)는 오늘 블라디보스토크에서 만나서, 두 나라 사이의 평화 협정에 서명하고 모든 적대 행위를 종식시키기로 했습니다. 일본은 러시아를 압박할 유일한 카드였던 트란스아무르를 잃었습니다. 트란스아무르의 사람들은 이 승리를 축하하고 있습니다."
 tram.128.trm:0 "1905년의 작은 복수다!"
 tram.128.jap:0 "너희를 저주한다. 이 배신자들아."
 
 tram.129.t:0 "이르쿠츠크로 수도이전"
-tram.129.d:0 "We now control Irkutsk which provides us with an industrial base to build up our country. In order to continue with our aspirations of a united Russia we must relocate the provisional capital to Irkutsk. This may alarm the Japanese as it would give them an indication of our true goal but it would also lower their influence"
+tram.129.d:0 "우리는 이제 우리나라를 강화하기 위한 산업기반을 제공하는 이르쿠츠크를 통제하고 있습니다. 통일된 러시아에 대한 우리의 열망을 이어가기 위해서는 수도를 이르쿠츠크로 이전해야 합니다. 이것은 일본인들에게 우리의 본심을 알려주게 될 지도 모르지만, 한편으로는 그들의 영향력도 약화시킬 수 있기 때문에 그들을 놀라게 할 수도 있습니다."
 tram.129.a:0 "위험을 감수할 가치가 있다."
 
 tram.130.t:0 "노보시비르스크로 수도이전"
-tram.130.d:0 "As our might grows stronger every day we become more and more autonomous from Japan and their imperial ambitions. Moving the provisional capital to Novosibirsk will show them that we are their lapdogs no more."
+tram.130.d:0 "우리의 힘이 날로 강해지면서 우리는 일본과 그들의 제국주의적 야망으로부터 점점 더 멀어지고 있습니다. 수도를 노보시비르스크로 옮기면 우리가 더 이상 당신들의 애완견이 아니라는 것을 그들에게 보여줄 수 있을 것입니다."
 tram.130.a:0 "자유에 한 걸음더 다가가는군."
 
 tram.131.t:0 "모스크바로 수도이전"
-tram.131.d:0 "Moscow hasn't been the capital of a united Russian State since 1712 when Peter The Great made what is now Petrograd the capital. Since the illegitimate Petrograd Regime used the city we should perhaps consider using Moscow as our new capital, not only to distance ourselves from the petrograd regime but as a callback to the foundation of Russia. "
+tram.131.d:0 "모스크바는 표트르 1세가 현재의 페트로그라드를 수도로 만든 1712년 이후 통일된 러시아의 수도가 아니게 됐습니다. 불법적인 페트로그라드 정부가 그 도시를 수도로 이용했기 때문에, 우리는 모스크바를 새로운 수도로 정하는 것을 고려해야 할 것입니다. 그것은 우리 스스로를 페트로그라드 정권과 거리를 두기 위한 것일 뿐만 아니라, 기존의 러시아로의 귀환으로 여겨질 것입니다."
 tram.131.a:0 "러시아여 영원하라, 하나이며 나눠지지 않으리라!"
 
 tram.132.t:0 "페트로그라드로 수도이전"
-tram.132.d:0 "Petrograd has been the capital of a united Russian State since 1712 when Peter The Great created it from the ground up. Our government using the city as our capital is a sign of legitimacy and will allow the public see us a the legitimate Russian State."
+tram.132.d:0 "페트로그라드는 1712년 표트르 1세가 러시아를 세웠을 때부터 러시아의 수도였습니다. 우리 정부가 페트로그라드를 수도로 사용하는 것은 우리 정부가 합법적이라는 의미를 나타내며, 대중이 우리를 합법적인 러시아로 볼 수 있도록 만들 것입니다."
 tram.132.a:0 "러시아여 영원하라, 하나이며 나눠지지 않으리라!"
 
 ### Parties ###
