@@ -726,7 +726,7 @@ TRM_Attack_Europe:0 "동유럽 영유권 재주장"
 TRM_Attack_Europe_desc:0 "The entire Russian state is under our command now. It is time to reclaim our soil in Eastern Europe from different artificial states."
 
 ### Tooltips ###
-TRM_sov:0 "The Reds are too weak to control the Russian Far East, we shall annex it.\n"
+TRM_sov:0 "붉은 군대가 러시아 극동 지역을 통제하기에 그들은 너무 약하다. 우리가 합병한다.\n"
 TRM_change:0 "Transamur will achieve the ultimate goal it has been striving towards since 1925, formally replacing the Russian regime.\n"
 TRM_Kolchak_hog_tooltip:0 "Alexandr Kolchak will replace Grigoriy Semyenov in his position as the Head of Government.\n"
 TRM_agitation_tooltip:0 "The results of our efforts could be variable, and there is no guarantee of success.\n"
