@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 LBA_social_democrat_party:0 "HAT"
 LBA_social_democrat_party_long:0 "Hizb Aleummal fi Tarabulus"
@@ -20,6 +20,9 @@ LBA_syndicalist_party:0 "AAA"
 LBA_syndicalist_party_long:0 "Alhizb Alaishtirakiu Alliybiu"
 LBA_totalist_party:0 "AAA-T"
 LBA_totalist_party_long:0 "Alhizb Alshuyueiu Alliybiu"
+
+### Tooltips ###
+LBA_turktroops_tt:0 "Three Ottoman divisions will appear in Tripoli"
 
 ### Focuses ###
 LBA_army:0 "Military of the Order"
