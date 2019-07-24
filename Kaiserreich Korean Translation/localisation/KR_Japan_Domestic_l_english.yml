@@ -365,11 +365,11 @@ JAP_MIL_air_zero_desc:0 "일본의 조종사들은 민첩성이 승리의 열쇠
 JAP_MIL_air_doc:0 "공군 교리"
 JAP_MIL_air_doc_desc:0 "아무리 거대하거나 현대적인 공군일지라도, 전술적인 공군이 더 효율적입니다."
 JAP_MIL_air_par:0 "공수부대"
-JAP_MIL_air_par_desc:0 "Rikusentai are like so many cherry blossoms floating on air. The risks paratroops face are severe, as they drift to the ground in full view of the enemy, but thorough training and an unwavering spirit will make these soldiers unstoppable."
+JAP_MIL_air_par_desc:0 "육전대는 바람에 흩날리는 벛꽃잎과도 같습니다. 공수부대는 적의 시야에 그대로 노출되기 때문에 매우 위험하지만, 철저한 훈련과 흔들리지 않는 정신력은 이들을 무적으로 만들 것입니다."
 JAP_MIL_KAMIKAZE:0 "카미카제"
-JAP_MIL_KAMIKAZE_desc:0 "As the Imperial Rescript to Soldiers and Sailors states, 'Duty is as heavy as a mountain, death is lighter than a feather'. The purity of youth will usher in the Divine Wind."
+JAP_MIL_KAMIKAZE_desc:0 "군인칙유에서, '의무는 태산처럼 무겁고, 죽음은 깃털보다도 가볍다'고 하였습니다. 젊음의 순결함은 신성한 바람의 안내를 받을 것입니다."
 JAP_MIL_air_idea:0 "대공의 사무라이"
-JAP_MIL_air_idea_desc:0 "Japanese fighter pilot training is some of the most difficult in the world, but it is that way for a very good reason. Our planes are fast, our ground crews skilled, and our commanders smart, but nothing is more important than the courage and talent of the individual pilots."
+JAP_MIL_air_idea_desc:0 "일본의 전투기 조종사 훈련과정은 어렵기로 손꼽히지만, 그에는 이유가 있습니다. 우리의 비행기는 빠르고, 지상요원은 노련하며, 지휘관은 똑똑합니다. 그러나 각 조종사의 용기와 재능보다 중요한 것은 없습니다."
 
 ### Focuses - Military - Special ###
 JAP_MIL_NUC:0 "이화학연구소 북쪽"
@@ -588,7 +588,7 @@ japdom.52.d:0 "The increasing excesses and abuses of the National Security Act h
 japdom.52.a:0 "폐지해라."
 
 japdom.53.t:0 "1939년 대한발"
-japdom.53.d:0 "The country is in the middle of the worst drought it has seen in this century. Water supplies are critically low and crops are dying of thirst. In some regions, local officials are organising rainmaking rituals in a desperate attempt to evoke storms and calm the people, but to no avail. Fortunately, the drought is mostly affecting southern Korea, western Honshu and the southern islands, and although rice harvests have dropped significantly no state of famine has developed. However, the disruption to food production from the drought is severe enough to force us to close down several rice exchanges, including the famous Dojima Rice Exchange, and control the rice supply directly, at least for the time being."
+japdom.53.d:0 "우리나라는 금세기 최악의 가뭄을 겪고 있습니다. 수자원 공급은 극히 낮으며 작물들은 말라 죽어가고 있습니다. 일부 지역에서는 지자체장들을 비롯한 사람들이 기우제를 지내 태풍을 부르고 민심을 가라앉히려 하지만 아무 효과도 없습니다. 다행스럽게도, 조선반도 남부, 혼슈 서부, 그리고 남방군도만이 가뭄의 영향을 받고 있으며, 쌀 수확은 대폭 줄었지만 기아사태로 번지지는 않고 있습니다. 하지만 식량 생산에 차질이 생김으로 인해 당분간 쌀 공급을 정부에서 직접 통제하기 위하여, 도지마 쌀 시장을 비롯한 몇몇 쌀 시장을 폐쇄할 수 밖에 없었습니다."
 japdom.53.a:0 "아직 아무도 굶어죽진 않았어.."
 
 japdom.54.t:0 "1940년 총선"
@@ -694,7 +694,7 @@ japdom.235.t:0 "Our further Endeavours in Atomic Research"
 japdom.235.d:0 "With our nation's leading scientists toiling away in Tokyo and now Fukushima, and the heavy water trickling in from our facilities in Konan, we are well underway of creating an infrastructure capable of harnessing the power of the atom. The next step would be the construction of an experimental reactor.\n\nHousing this operation at the main RIKEN facilities in Tokyo might seem like the obvious choice, but some voices have argued that our new facility in Fukushima would do better in hiding this operation from our enemies abroad. In either case, utmost secrecy is vital."
 japdom.235.a:0 "후쿠시마 주택"
 japdom.235.b:0 "도쿄는 괜찮을 것입니다."
-japdom.235.c:0 "On second thought, let's keep this on the theoretical level for now."
+japdom.235.c:0 "다시 생각해봤는데, 당분간은 이론적인 수준의 연구만 진행하도록."
 
 japdom.236.t:0 "육군 지도부가 해군 편향에 항의하였습니다"
 japdom.236.d:0 "Our recent invetiture in policies benefitting the Navy have angered the leadership of our land forces. Some of the more prominent figures have expressed their disapproval in a private meeting earlier today."
