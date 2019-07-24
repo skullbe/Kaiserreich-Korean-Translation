@@ -192,7 +192,7 @@ tram.84.d:0 "트란스아무르의 오랜 지도자 콜차크 제독은 자신�
 tram.84.a:0 "군사정권 복원을 요구해라!"
 tram.84.b:0 "신 정부의 탄생을 축하한다!"
 
-#tram.85.t:0 "Japan Demands an End to Democracy!"
+#tram.85.t:0 "일본이 민주주의의 종말을 원하다!"
 #tram.85.d:0 "The Japanese feel threatened by the sudden restoration of democracy in Transamur and they have issued an ultimatum to us in which they demand the restoration of a military cabinet."
 #tram.85.a:0 "Submit before Japan."
 #tram.85.b:0 "Submit before Japan."
@@ -426,7 +426,7 @@ TRM_national_populist_party:0 "왕정복고 리그"
 TRM_national_populist_party_long:0 "왕정복고 리그"
 
 ### Ideas ###
-TRM_dream:0 "Greater Transamur Ambitions"
+TRM_dream:0 "더 커진 트란스아무르의 야망"
 TRM_dream_desc:0 "Ever since 1925 the Transamur government has claimed that it is the rightful government of all Russia, deposed by filthy traitors of Kerenskiy's cabinet. Although the country isn't in great shape, its leadership holds hopes that one day Transamur might become a major power."
 TRM_kolchak:0 "Admiral-Dictator"
 TRM_kolchak_desc:0 "As a former admiral of the Russian Empire, Kolchak pays particular attention to the advances in naval power and technology across the globe. His personal knowledge about warships gives him an advantage in naval research."
@@ -751,22 +751,22 @@ FNG_TRM_CUR2:0 "트란스아무르와 통화 거래를 하지 않음"
 TRM_FNG_DIP:0 "친선관계"
 
 ### Decisions ###
-TRM_japanese_influence:0 "Japanese Presence in Vladivostok"
+TRM_japanese_influence:0 "블라디보스토크에서 일본인의 존재"
 TRM_japanese_influence_desc:0 "Our government is not seen as a legitimate Russian state by the Russian people, this is made even more apparent Tokyo's ever growing influence. We will need to make sure to 'put on a good show' whilst they conduct their meetings in the hope they don't suspect any sign of disloyalty."
 
-TRM_visit_from_japan:0 "A Visit From Our Masters"
+TRM_visit_from_japan:0 "우리의 스승들로부터의 방문"
 TRM_visit_from_japan_desc:0 "In these harsh times we need strong allies to protect us. Japanese officials in Vladivostok have stated that they are willing to give us some support. They would visit us from time to time. But, every time we accept them here delegation grows stronger and ever more ambitious."
 
-TRM_zaibatsus:0 "Open a Zaibatsu's Concession"
+TRM_zaibatsus:0 "재벌들의 인정을 받다"
 TRM_zaibatsus_desc:0 "Our economic partnership with Japan attracts a lot of money and investments, that much is true. Today the Japanese delegation in Vladivostok has made a direct appeal to our leadership to open a new concession in Transamur."
 
-TRM_support_anti_japanese_rally:0 "Support Anti-Japanese Rally"
+TRM_support_anti_japanese_rally:0 "반일 집단을 지원하다"
 TRM_support_anti_japanese_rally_desc:0 "Our special agents work closely with local anti-Japanese movement. We could fund them to hold a "spontaneous" rally which would weaken Japanese positions here."
 
-TRM_hold_vladivostok:0 "Hold Vladivostok from Japan"
+TRM_hold_vladivostok:0 "일본으로부터 블라디보스토크를 지키다"
 TRM_hold_vladivostok_desc:0 "We have little chances to fight back Japanese troops down to the ocean. Our only solution to survive is to hold Vladivostok long enough to make the whole point of this war non-sense in minds of Japanese people. As Russian proverb says: "Elusive Joe is elusive because nobody wants to find him". We should become this Joe to Japanese."
 
-TRM_raise_militia:0 "Raise Urban Militia in Vladivostok"
+TRM_raise_militia:0 "블라디보스토크에서 민병대가 일어나다"
 TRM_raise_militia_desc:0 "The time has come to fight for our freedom. Patriotic citizens of Vladivostok are forming militia groups to defend their homeland. With little help from us we can organise them into auxiliary units to fill up the lines."
 
 TRM_russian_expansion:0 "Matters of the Russian State"
