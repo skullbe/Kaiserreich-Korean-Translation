@@ -66,7 +66,7 @@ FRA_bad_intel:0 "비효율적인 정보부"
 FRA_bad_intel_desc:0 "질서당이 프랑스에서 노동자들의 폭동을 억누르기 위해 노력한 이후로, 중앙정보부에 대한 이야기는 많은 사람들에게 세계대전 이후 사회 운동에 대한 반동적 탄압의 상징으로 간주되어왔습니다. 결과적으로, 코뮌이 가진 정보 관련 부서는 이런 일이 재발하는 것을 막기 위해 대단히 작은 규모로 편성된 정보위원회로 국한됩니다."
 
 FRA_to_war_idea:0 "보복주의 재무장"
-FRA_to_war_idea_desc:0 "제국주의자들을 무찌르기 위해선 우리나라가 다시 강해져야합니다!"
+FRA_to_war_idea_desc:0 "제국주의자들을 짓밟는 방법이란 우리가 강해지는 것 뿐입니다!"
 
 #The three following ideas are extremely weird. Are they intended ? Especially the third. Travailleurs and Sorelians both share it... I'm picking Travailleurs for now
 FRA_economic_reforms_anar:0 "경제 개혁"
@@ -94,7 +94,7 @@ FRA_modern_farms_idea:0 "현대 농업"
 FRA_modern_farms_idea_desc:0 "농업은 사람들에게 구식인데다가 비효율적인 산업으로 인식되고 있지만, 우리는 이를 개선할 수 있습니다. 프랑스의 농경지를 현대화하고 기계화함으로써 우리는 농산물 생산량을 대폭 증가시킬 수 있으며 수확, 생산, 정제 및 배달의 속도를 높이고 최적화할 수 있습니다. 우리 인민들에게, 그리고 우리 병사들에게."
 
 FRA_war_eco_agri_idea:0 "전쟁과 경제와 농업"
-FRA_war_eco_agri_idea_desc:0 "소렐리안 경제 장관인 자크 도리오가 제시한 전쟁, 경제 및 농업의 개념은 흥미롭습니다. 독일과의 전쟁은 머지않았고 또한 불가피하다고 주장하면서, 이 소렐리안은 산업이 전쟁 수행을 지탱할 수 있도록, 현재의 생산력을 농업과 군사 공급, 양 쪽에 고르게 할당할 것을 요구합니다. 요약하자면 일종의 전시 경제라고 부를 수 있겠습니다."
+FRA_war_eco_agri_idea_desc:0 "소렐주의자 경제 장관인 자크 도리오가 제시한 전쟁, 경제 및 농업의 개념은 흥미롭습니다. 독일과의 전쟁은 머지않았고 또한 불가피하다고 주장하면서, 이 소렐리안은 산업이 전쟁 수행을 지탱할 수 있도록, 현재의 생산력을 농업과 군사 공급, 양 쪽에 고르게 할당할 것을 요구합니다. 요약하자면 일종의 전시 경제라고 부를 수 있겠습니다."
 
 FRA_inter_coop_idea:0 "국제 협력"
 FRA_inter_coop_idea_desc:0 "다른 나라가 무엇을 하고 있는지 보고, 그들의 새로운 경제 및 산업 아이디어를 배우는 것에 대해 부끄러움을 느끼지 않아도 됩니다. 확실히 자본주의와 반동 사회로부터는 진지하게 배울 수 있는 아이디어가 거의 없긴 합니다만, 우리의 생디칼리즘 형제들이라면 때때로 훌륭한 사례가 될 수 있습니다."
@@ -129,7 +129,7 @@ FRA_tank_assembly_line_idea_desc:0 "수많은 적들이 우리에게 몰려오�
 FRA_fast_army_idea:0 "기동력에 집중"
 FRA_fast_army_idea_desc:0 "속도는 단순히 다른 지점으로 더 빨리 가는 것만이 아닙니다. 속도는 전쟁의 모든 것입니다. 다음 대전쟁이 참호전으로 흘러갈 것이라는 생각은 어리석기 짝이 없습니다. 기동력이야말로 전쟁의 미래가 될 것입니다. 우리는 기계화된 군대가 아니고, 따라서 빠른 속도를 가진 기계화 사단에 투자해야만 합니다."
 
-FRA_Red_Army:0 "붉은 대군"
+FRA_Red_Army:0 "붉은 대육군"
 FRA_Red_Army_desc:0 "우리 군대는 자본주의 세계의 악마들보다 더 나은 형태를 가지고 있습니다."
 
 Capital_Ship_Primacy:0 "주력함 우선"
@@ -1279,7 +1279,7 @@ comfrance.167.b:0 "We'll fight alone!"
 ###  Decisions  ###
 
 FRA_liberate_europe_category:0 "유럽 해방"
-FRA_liberate_europe_category_desc:0 "카이저는 사라졌고 유럽은 이제 정당히 프롤레타리아의 것이 되어야합니다!"
+FRA_liberate_europe_category_desc:0 "카이저가 사라졌으니, 유럽은 이제 프롤레타리아의 정당한 영역이어야만 합니다!"
 
 FRA_invade_DEN:0 "덴마크 해방"
 FRA_invade_DEN_desc:0 ""
@@ -1288,7 +1288,7 @@ FRA_invade_SER:0 "세르비아 해방"
 FRA_invade_SER_desc:0 "급진주의적인 세르비아의 군사정부는 최후를 맞이하게 될 것입니다!"
 
 FRA_invade_ROM:0 "루마니아 해방"
-FRA_invade_ROM_desc:0 "루마니아 정부는 유럽에 존재하는 정부 중 가장 실망스럽고 역겹기로는 유일한 정부입니다. 더 이상 존재하지 않아야 합니다!"
+FRA_invade_ROM_desc:0 "루마니아 정부는 유럽에 존재하는 정부 중 경멸스럽고 역겹기로는 으뜸입니다. 이 이상 존재하도록 놔두어선 안 됩니다!"
 
 FRA_invade_RRM:0 "루마니아 해방"
 FRA_invade_RRM_desc:0 ""
@@ -1300,7 +1300,7 @@ FRA_invade_FIN:0 "핀란드 해방"
 FRA_invade_FIN_desc:0 ""
 
 FRA_invade_SWE:0 "스웨덴 해방"
-FRA_invade_SWE_desc:0 "우리의 스웨덴 동지들이 고향에 돌아가기 위해선 도움이 필요할겁니다."
+FRA_invade_SWE_desc:0 "우리의 스웨덴인 동지들이 고향으로 돌아가기 위해선 도움이 필요할 것입니다."
 
 FRA_invade_POL:0 "폴란드 해방"
 FRA_invade_POL_desc:0 "1905년 봉기의 유산은 아직도 우리의 기억 속에 남아 있습니다. 우리의 도움으로 폴란드는 다시는 길을 잃지 않을 것입니다."
@@ -1318,7 +1318,7 @@ FRA_invade_EST:0 "에스토니아 해방"
 FRA_invade_EST_desc:0 ""
 
 FRA_invade_UKR:0 "우크라이나 해방"
-FRA_invade_UKR_desc:0 "네스토르 마흐노의 고국은 다시 한번 적화될 것입니다!"
+FRA_invade_UKR_desc:0 "네스토르 마흐노의 고국은 다시 한 번 적화될 것입니다!"
 
 FRA_invade_WHR:0 "백루테니아 해방"
 FRA_invade_WHR_desc:0 ""
@@ -1335,7 +1335,7 @@ FRA_invade_TUR_desc:0 ""
 FRA_invade_BUL:0 "불가리아 해방"
 FRA_invade_BUL_desc:0 ""
 
-FRA_invade_RUS:0 "소련을 복귀시켜라"
+FRA_invade_RUS:0 "소비에트를 복원하라"
 FRA_invade_RUS_desc:0 "독일이 패한 상황에서 우리에게 심각한 문제를 일으킬 수 있는 유일한 장애물은 러시아뿐입니다. 생디칼리즘만이 신유럽에서 패권을 쥘 것입니다."
 
 FRA_invade_DKB:0 "돈-쿠반 연합 해방"
@@ -1351,10 +1351,10 @@ FRA_invade_ARM:0 "아르메니아 해방"
 FRA_invade_ARM_desc:0 ""
 
 FRA_invade_SWI:0 "스위스 해방"
-FRA_invade_SWI_desc:0 "우리가 시작한 일-스위스 자본주의 체제의 완전한 파괴-을 끝내야 합니다."
+FRA_invade_SWI_desc:0 "우리가 시작한 일-스위스 자본주의 체제의 완전한 파괴-을 끝낼 시간입니다."
 
 FRA_invade_IRE:0 "아일랜드 해방"
-FRA_invade_IRE_desc:0 "우리는 아일랜드가 원하든 원하지 않든 브리튼 제도 전체를 붉게 만들 것입니다!"
+FRA_invade_IRE_desc:0 "아일랜드가 원하든, 원하지 않든 우리는 브리튼 제도 전체를 붉게 물들일 것입니다!"
 
 FRA_invade_ICE:0 "아이슬란드 해방"
 FRA_invade_ICE_desc:0 ""
