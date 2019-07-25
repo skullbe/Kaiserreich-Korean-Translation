@@ -1413,20 +1413,20 @@ ustates.104.a:0 "결국 이렇게 됐군."
 
 ### Alf Landon Path ###
 
-ustates.105.t:0 "Alf Landon's Inaugural Address"
-ustates.105.d:0 "Alf Landon was sworn in as the 31st president of the United States of America today. At his inaugural address Landon spoke of the challenges facing the nation in preserving a liberal democacy. Landon was quoted as saying 'Republicans must become practical liberals, which means that the Republican party has got to recognize the problems of a growing and complex industrial civilization. And I think I will awaken America to that.' Landon concluded with a promise to solve the Depression with entrepreneurship. Creating a new generation of millionaires that will bring pride back to the nation. Whether anyone will listen is another matter."
-ustates.105.a:0 "I treasure our American Democracy"
+ustates.105.t:0 "알프 랜던의 취임식"
+ustates.105.d:0 "알프 랜던은 오늘 미국의 31대 대통령으로 취임했습니다. 랜던은 취임 연설에서 자유주의적 민주주의를 보존하는데 있어서 국가가 직면한 도전에 대해 말했습니다. 랜던은 '공화당은 실용적인 진보주의자가 되어야 한다. 이는 공화당이 성장하고 복잡한 산업문명의 문제점을 인식해야 한다는 것을 의미한다. 그리고 이를 위해 나는 미국을 깨울 것이라고 생각한다.' 랜던은 기업가 정신으로 대공황을 해결하겠다는 약속으로 끝을 맺었습니다. 나라의 자부심을 되살릴 새로운 백만장자 세대를 만드는 것. 누가 들어줄지는 별개의 문제입니다."
+ustates.105.a:0 "나는 미국 민주주의를 소중히 여긴다."
 
 # Economic Intervention route
-ustates.106.t:0 "Landon Proposes Intervention"
-ustates.106.d:0 "In response to the ongoing crisis, President Landon has proposed a bill to begin a series of economic intervention policies. The bill will create an insurance for bank deposits in treasury-approved banks that will not engage in risky investing. The bill also allows the federal government to create a comission to monitor stock market exchanges against fraud. Landon believes this will restore confidence in the market, creating jobs from one end of the country to the other. Both the SPA and the AFP have declared opposition to the bill for not going far enough, and for being too friendly to the very businesses that caused the depression in the first place. It will take some cooperation between Republicans and Democrats to overcome this united front of radicalism in Congress."
+ustates.106.t:0 "랜던이 개입을 제안하다"
+ustates.106.d:0 "계속되는 위기에 대응하여 랜던 대통령은 일련의 경제 개입 정책을 시작하는 법안을 발의했습니다. 이 법안은 위험한 투자에 관여하지 않는 재무부 승인 은행의 은행 예금에 대한 보험을 만들 것입니다. 이 법안은 또한 연방정부가 주식시장에서 사기를 감시하기 위한 위원회를 만들 수 있도록 할 것입니다. 랜던은 이 법안이 시장에서 자신감을 회복시켜 전국에서 일자리를 창출할 것이라고 믿습니다. 사회당과 제일당은 이 법안이 충분하지 않으며, 애초에 대공황을 초래한 바로 그 기업들에 너무 우호적이라며 반대 입장을 표명했습니다. 이 의회 내 급진주의 공동 전선을 극복하기 위해서는 공화당과 민주당의 협력이 필요할 것입니다."
 ustates.106.a:0 "This bill will not stop for them"
 
-ustates.107.t:0 "Reed calls Landon Corrput"
+ustates.107.t:0 "리드가 랜던을 부패했다 비판하다"
 ustates.107.d:0 "Alf Landon's election material made him out to be a self-made man, an entrepeneur who made his wealth starting from a small petroleum company. Landon's relationship with the oil industry culminated in the establishment of the United States Oil and Gas Association in his home state of Kansas, which freely associates with Standard Oil. To Reed and the SPA, this is the smoking gun that Landon is a class traitor, though to many these accusations have rang hollow, citing Landon as a man with the business connections to make the intervention bill stick."
 ustates.107.a:0 "I started with nothing, Reed, just like you!"
 
-ustates.108.t:0 "Huey Long calls Landon a Monopolist"
+ustates.108.t:0 "롱이 랜던을 독점자라 비난하다"
 ustates.108.d:0 "Huey Long has responded, like Reed, by decrying Landon as a corrupt politician in Standard Oil's pocket. Huey Long recently spoke about how President Landon only cared for the rich and the monopolies that oppress true Americans, articulating criticism of Landon's fiscal conservatism during his tenure as Governor of Kansas. Huey Long also made sure to remind the people that, by all rights, he should be president and that he would have fixed this crisis already. President Landon, meanwhile, responded in a recent interview with newspapers that Long has a serious case of 'sour grapes', and political cartoons have begun depicting Long as a childish babboon - much to the public's amusement and Long's outrage."
 ustates.108.a:0 "I am not Rockafeller, you fool!"
 
@@ -1434,7 +1434,7 @@ ustates.109.t:0 "Democrats Close Ranks"
 ustates.109.d:0 "While many Democratic Senators are leery of supporting a bill which has such vociferous opposition by the SPA and the AFP, especially considering their influence in America goes far beyond the number of seats they hold in Congress, they have responded poorly to the personal attacks on the president by Long and Reed. Despite internal opposition for interfering with the market, Democrats have indicated they will support the president's bill."
 ustates.109.a:0 "That's the solidarity I like"
 
-ustates.110.t:0 "The 'New Deal' Bill Passes"
+ustates.110.t:0 "'뉴딜' 법안이 통과되다"
 ustates.110.d:0 "The Economic Intervention Bill has managed to pass through Congress, and has been signed into law by President Landon. Banks are immediately ushered into silence as they reorganzie before recieving Treasury approval. The comission has begun to draft reforms to stock trading that will hopefully restore confidence in the markets. It is hard to say right away if this will solve the problem, but Landon hopes that this can be the first steps to fix the economy which all moderates can agree upon."
 ustates.110.a:0 "We are finally awake to change"
 
