@@ -192,7 +192,7 @@ tram.84.d:0 "트란스아무르의 오랜 지도자 콜차크 제독은 자신�
 tram.84.a:0 "군사정권 복원을 요구해라!"
 tram.84.b:0 "신 정부의 탄생을 축하한다!"
 
-#tram.85.t:0 "Japan Demands an End to Democracy!"
+#tram.85.t:0 "Japan Demands an End to Democracy!" #이부분은 번역하지 않으셔도 됩니다
 #tram.85.d:0 "The Japanese feel threatened by the sudden restoration of democracy in Transamur and they have issued an ultimatum to us in which they demand the restoration of a military cabinet."
 #tram.85.a:0 "Submit before Japan."
 #tram.85.b:0 "Submit before Japan."
@@ -765,10 +765,10 @@ TRM_support_anti_japanese_rally_desc:0 "Our special agents work closely with loc
 TRM_hold_vladivostok:0 "일본으로부터 블라디보스토크를 지키다"
 TRM_hold_vladivostok_desc:0 "We have little chances to fight back Japanese troops down to the ocean. Our only solution to survive is to hold Vladivostok long enough to make the whole point of this war non-sense in minds of Japanese people. As Russian proverb says: "Elusive Joe is elusive because nobody wants to find him". We should become this Joe to Japanese."
 
-TRM_raise_militia:0 "블라디보스토크에서 민병대가 "
+TRM_raise_militia:0 "블라디보스토크에서 민병대가 소집되다"
 TRM_raise_militia_desc:0 "The time has come to fight for our freedom. Patriotic citizens of Vladivostok are forming militia groups to defend their homeland. With little help from us we can organise them into auxiliary units to fill up the lines."
 
-TRM_russian_expansion:0 "Matters of the Russian State"
+TRM_russian_expansion:0 "러시아 정부 문제"
 TRM_russian_expansion_desc:0 "We are the legitimate Russian state not the pretenders we call the Petrograd Regime. However there are several things we need to do to ensure that not only the Russian people but the entire world sees it that way. Long live Russia, one and indivisible!"
 
 TRM_relocate_capital_1:0 "이르쿠츠크에 임시 수도 설립"
