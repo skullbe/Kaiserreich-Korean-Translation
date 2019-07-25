@@ -2,7 +2,7 @@ l_english:
 
 ### Events ###
 tram.intro.t:0 "트란스아무르 - 블라디보스토크의 임시 러시아 정부"
-tram.intro.d:0 "민주주의가 오래가지 못하는곳에 위치한 시베리아와 러시아 극동지역은 '체코 군단' 의 부상, 일본의 개입 등으로 러시아 내전 당시 분쟁의 주요 지역이었습니다. 독일군의 압력(그로고 코삭으로부터의 강력한 저항)으로 군대를 철수시키는 동안, 일본인들은 그들의 영향력 확대에 열심이었고, 1922년에 트란스아무르 지역에 독립국가의 설립을 추진하였습니다. 일본에 의한 독립국가의 설립이 경제적인 의존을 형성한다는 사실에도 불구하고도, 이러한 움직임은 블라디보스토크 경제 공동체의 지지를 얻었습니다. 그들의 대다수는 러시아를 괴롭히는 혼란에 더 깊이 빠져들 수 있는 다른 대안과 비교할 때, 동양의 부상하는 세력과의 경제 및 외교 관계구축을 중요한 이점으로 보았습니다. 이 신생 국가는 1925년, 통치권 장악에 실패한 후 러시아를 탈출할 수 밖에 없었던 내전의 백군들 중 하나이자 한때, 자칭 '전 러시아의 최고 지도자'인 콜차크 제독이라는 두드러진 인물을 얻었습니다. 1936년 트란스아무르 공화국은 기업주의와 군국주의 국가가 되었으며,  정치적, 경제적, 군사적으로 일본 제국의 손아귀에 있었습니다. 그럼에도 불구하고 콜차크는 자신의 야망을 가지고 있습니다. 그는 일본의 위세를 이용해 자신의 지배력을 확립하고, 시베리아를 넘어 러시아 전체를 아우르는 아주 위험한 게임을 할 수 있을까요?"
+tram.intro.d:0 "민주주의가 오래가지 못하는곳에 위치한 시베리아와 러시아 극동지역은 '체코 군단' 의 부상, 일본의 개입 등으로 러시아 내전 당시 분쟁의 주요 지역이었습니다. 독일군의 압력(그로고 코삭으로부터의 강력한 저항)으로 군대를 철수시키는 동안, 일본인들은 그들의 영향력 확대에 열심이었고, 1922년에 트란스아무르 지역에 독립국가의 설립을 추진하였습니다. 일본에 의한 독립국가의 설립이 경제적인 의존을 형성한다는 사실에도 불구하고도, 이러한 움직임은 블라디보스토크 경제 공동체의 지지를 얻었습니다. 그들의 대다수는 러시아를 괴롭히는 혼란에 더 깊이 빠져들 수 있는 다른 대안과 비교할 때, 동양의 부상하는 세력과의 경제 및 외교 관계구축을 중요한 이점으로 보았습니다. 이 신생 국가는 1925년, 통치권 장악에 실패한 후 러시아를 탈출할 수 밖에 없었던 내전의 백군들 중 하나이자 한때, 자칭 '전 러시아의 최고 지도자'인 콜차크 제독이라는 두드러진 인물을 얻었습니다. \n\n 1936년 트란스아무르 공화국은 기업주의와 군국주의 국가가 되었으며,  정치적, 경제적, 군사적으로 일본 제국의 손아귀에 있었습니다. 그럼에도 불구하고 콜차크는 자신의 야망을 가지고 있습니다. 그는 일본의 위세를 이용해 자신의 지배력을 확립하고, 시베리아를 넘어 러시아 전체를 아우르는 아주 위험한 게임을 할 수 있을까요?"
 tram.intro.a:0 "흥미롭군..."
 
 tram.1.t:0 "트란스아무르가 탈주하다!"
@@ -615,13 +615,13 @@ TRM_Air_Bases_Vlad:0 "블라디보스토크 공군 기지 확장"
 TRM_Air_Bases_Vlad_desc:0 "우리나라는 우리 이름의 공군 기지 하나 없이, '공중의 혁명'에서 뒤쳐져 있습니다. 세계대전기에, 항공기는 매우 치명적인 무기가 되었기 때문에 우리는 항공기를 소유해야만 합니다. 그러나 공군기지가 없다면 거대한 공군이라도 무용지물일 것입니다."
 
 TRM_Air_Bases_Irk:0 "이르쿠츠크 회랑"
-TRM_Air_Bases_Irk_desc:0 "시베리아에는 새로운 착륙장과 공군 기지를 위한 충분한 공간이 있습니다. 이러한 땅을 이용하지 않는 것은 어리석은 것입니다.
+TRM_Air_Bases_Irk_desc:0 "시베리아에는 새로운 착륙장과 공군 기지를 위한 충분한 공간이 있습니다. 이러한 땅을 이용하지 않는 것은 어리석은 것입니다."
 
 TRM_Air_Bases_Nov:0 "노보시비르스크 공항 개발"
 TRM_Air_Bases_Nov_desc:0 "우리 공군은 새로운 기지가 절실히 필요합니다. 우리는 노보시비르스크에 투자해야 합니다."
 
 TRM_Crisis:0 "반콜차크 쿠데타"
-TRM_Crisis_desc:0 "트란스아무르의 긴장은 마침내 극에 달했으며, 콜차크의 입지는 점점 더 위태로워 진다는 것은 의심의 여지가 없습니다."
+TRM_Crisis_desc:0 "트란스아무르의 긴장은 마침내 극에 달했으며, 콜차크의 입지가 점점 더 위태로워 진다는 것은 의심의 여지가 없습니다."
 
 TRM_Kolchak:0 "콜차크의 권력 강화"
 TRM_Kolchak_desc:0 "콜차크는 쿠데타에서 가까스로 살아남았고, 반역에 가담한 장군들을 숙청했습니다. 하지만, 블라디보스토크에는 여전히 불확실한 기운이 남아 있습니다. 오직 강력한 지도자만이 국민을 평정하고 트란스아무르의 질서를 회복시킬 것입니다."
@@ -750,7 +750,7 @@ FNG_TRM_CUR2:0 "트란스아무르와 통화 거래를 하지 않음"
 TRM_FNG_DIP:0 "친선관계"
 
 ### Decisions ###
-TRM_japanese_influence:0 "블라디보스토크에서 일본인의 존재"
+TRM_japanese_influence:0 "블라디보스토크의 일본인"
 TRM_japanese_influence_desc:0 "Our government is not seen as a legitimate Russian state by the Russian people, this is made even more apparent Tokyo's ever growing influence. We will need to make sure to 'put on a good show' whilst they conduct their meetings in the hope they don't suspect any sign of disloyalty."
 
 TRM_visit_from_japan:0 "우리의 스승으로부터의 방문"
@@ -759,13 +759,13 @@ TRM_visit_from_japan_desc:0 "In these harsh times we need strong allies to prote
 TRM_zaibatsus:0 "재벌들의 인정을 받다"
 TRM_zaibatsus_desc:0 "Our economic partnership with Japan attracts a lot of money and investments, that much is true. Today the Japanese delegation in Vladivostok has made a direct appeal to our leadership to open a new concession in Transamur."
 
-TRM_support_anti_japanese_rally:0 "반일집단을 지원하다"
+TRM_support_anti_japanese_rally:0 "반일집단 지원"
 TRM_support_anti_japanese_rally_desc:0 "Our special agents work closely with local anti-Japanese movement. We could fund them to hold a "spontaneous" rally which would weaken Japanese positions here."
 
-TRM_hold_vladivostok:0 "일본으로부터 블라디보스토크를 지키다"
+TRM_hold_vladivostok:0 "일본으로부터 블라디보스토크 수비"
 TRM_hold_vladivostok_desc:0 "We have little chances to fight back Japanese troops down to the ocean. Our only solution to survive is to hold Vladivostok long enough to make the whole point of this war non-sense in minds of Japanese people. As Russian proverb says: "Elusive Joe is elusive because nobody wants to find him". We should become this Joe to Japanese."
 
-TRM_raise_militia:0 "블라디보스토크에서 민병대가 소집되다"
+TRM_raise_militia:0 "블라디보스토크에서 민병대 소집"
 TRM_raise_militia_desc:0 "The time has come to fight for our freedom. Patriotic citizens of Vladivostok are forming militia groups to defend their homeland. With little help from us we can organise them into auxiliary units to fill up the lines."
 
 TRM_russian_expansion:0 "러시아 정부 문제"
