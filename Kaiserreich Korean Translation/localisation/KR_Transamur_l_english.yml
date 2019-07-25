@@ -666,68 +666,68 @@ TRM_Rep_Res:0 "과학부문 투자"
 TRM_Rep_Res_desc:0 "과학이 오늘날의 세계에 미치는 영향은 부인할 수 없습니다. 우리는 이러한 상황을 잘 받아들이고 우리나라의 과학자들에게 돈을 투자해야 합니다. 과학자들을 위한 적절한 근무환경이 조성되면, 이들의 노력은 더욱 효과를 볼 것입니다."
 
 TRM_Rep_Fac:0 "산업확장에 보조금 지원"
-TRM_Rep_Fac_desc:0 "Further investment will allow us to expand our facilities and make our industry more productive. Many new workplaces can be created, which means more stable employment and security for the people."
+TRM_Rep_Fac_desc:0 "투자를 통해 시설을 확장하고 산업 생산성을 높일 수 있습니다. 새로운 일터가 많이 만들어진다는 것은 그만큼 국민들의 고용률과 안정이 더 좋아진다는 의미입니다."
 
 TRM_Rep_Goods:0 "복지국가 건설"
-TRM_Rep_Goods_desc:0 "True democracy means that every citizen of our country deserves the best. By introducing a welfare system, we will gain many respects form our people. A happy population will work harder and demand less, which means more prosperity for all of us."
+TRM_Rep_Goods_desc:0 "진정한 민주주의는 모든 국민이 최고의 대우를 받을 자격이 있다는 것을 의미합니다. 복지제도를 도입함으로써, 우리는 국민들로부터 많은 존경을 받을 것입니다. 행복한 인구는 더 열심히 일하면서 덜 요구하게 될 것이고, 결국 모두 번영할 것입니다."
 
 TRM_Pol_Research:0 "핵심 교육 개혁"
-TRM_Pol_Research_desc:0 "No matter if it is a dictatorship or a democracy, the aspects regarding education are clear in both cases. No men or women ever won a war, but science did. We must invest as much as possible to give our scientists everything they want."
+TRM_Pol_Research_desc:0 "독재든지 민주주의든지 교육에 관해서는 중요하게 여기는것은 분명합니다. 우리중 누구도 전쟁에서 이긴 적은 없지만, 과학은 그렇지 않습니다. 우리는 과학자들이 원하는 모든 것을 제공하기 위해 가능한한 투자해야 합니다."
 
 TRM_Expand_RCW:0 "아무르 사변의 교훈"
-TRM_Expand_RCW_desc:0 "We'd been harshly beaten at Amur river back in 1935. This defeat could help us to learn about how to deal better with regular Russian troops."
+TRM_Expand_RCW_desc:0 "우리는 1935년에 아무르 강에서 심하게 패배했습니다. 이 패배는 러시아 정규군을 어떻게 대처해야 하는지 알아내는 데 도움이 되었습니다."
 
 TRM_FE_RUS:0 "러시아는 취약하다"
-TRM_FE_RUS_desc:0 "Russia is now in state of war. While they are busy in the West we can pressure them in the East. We must immediately purge them from our rightful lands."
+TRM_FE_RUS_desc:0 "러시아는 지금 전쟁 중 입니다. 그들이 서쪽에서 바쁠 동안 우리는 동쪽에서 압박할 수 있습니다. 그들을 우리의 정당한 영토에서 즉시 축출해야 합니다."
 
 TRM_FE_SOV:0 "빨갱이들은 취약하다"
-TRM_FE_SOV_desc:0 "The Reds have managed to win the civil war and now formally control the Russian Far East. But, in fact, they can barely control Petrograd. We must immediately purge them from our rightful lands."
+TRM_FE_SOV_desc:0 "붉은 군대는 내전에서 가까스로 승리했고 지금은 공식적으로 러시아를 지배하고 있습니다. 하지만, 실제로 그들은 페트로그라드조차 간신히 통제할 뿐입니다. 그들을 우리의 정당한 영토에서 즉시 축출해야 합니다."
 
 TRM_Demand_Bai:0 "바이칼 지역에 대한 영유권 주장을 밀어붙여라"
-TRM_Demand_Bai_desc:0 "The Russian Far East is nothing but wasteland. If we want to expand even more, we need some industrial bases. The Baikal seems to be a good start for us."
+TRM_Demand_Bai_desc:0 "러시아 극동지역은 황무지에 불과합니다. 세력을 더 확대하려면 산업기반이 필요합니다. 바이칼 지역은 우리에게 좋은 시작점일 것입니다."
 
 TRM_Cap_Irkutsk:0 "이르쿠츠크로 수도이전"
-TRM_Cap_Irkutsk_desc:0 "We now control Irkutsk what means a growing industry for us. Declaring the city our new capital will lower Japanese influence in our state, but they will not be happy about it."
+TRM_Cap_Irkutsk_desc:0 "우리는 이제 '산업 성장'을 의미하는 이르쿠츠크를 통제하고 있습니다. 도시를 우리의 새로운 수도로 선포하면 일본의 영향력이 줄어 들겠지만, 그들은 이러한 행동을 달갑게 여기지 않을 것입니다."
 
 TRM_Demand_Mon:0 "몽골인들을 해치워라"
-TRM_Demand_Mon_desc:0 "Part of the Transsiberian railway still remains in a hand of mad Baron Sternberg. If we retake the Transsib it will both show our growing might and boost our industry even more."
+TRM_Demand_Mon_desc:0 "시베리아 횡단철도의 일부는 아직도 슈테른베르크 남작의 손에 있습니다. 만약 우리가 시베리아 횡단철도의 운행을 다시 시행한다면, 그것은 우리의 성장력을 보여줌과 동시에 우리의 산업을 더욱 활성화시킬 것입니다.."
 
 TRM_Integrate_Bai:0 "바이칼 통합"
 TRM_Integrate_Bai_desc:0 "Conquering a piece of land is one thing. To make its inhabitants accept you is another thing entirely. It will take us some time to bring order to the Baikal region but if we are successful, we could even declare ourselves a true Far Eastern Republic, displaying our increased strength and dedication to final victory over the illegitimate regime in Petrograd."
 
 TRM_Integrate_Mon:0 "과거 몽골 영토 통합"
-TRM_Integrate_Mon_desc:0 "This part of Trans-Siberia is ours now. We must replace the previous administration with loyal one, and then start use the Transsib."
+TRM_Integrate_Mon_desc:0 "시베리아 횡단철도는 이제 우리의 것입니다. 이전 행정부를 충성스러운 행정부로 교체하고난 다음에 시베리아 횡단철도를 이용해야 합니다."
 
 TRM_Claim_West_Sib:0 "서쪽으로"
-TRM_Claim_West_Sib_desc:0 "The more our power grows the more our ambitions do too. Our goals are clear - we shall go West and liberate the whole of Siberia."
+TRM_Claim_West_Sib_desc:0 "우리의 힘이 커질수록 우리의 야망 또한 커집니다. 우리의 목표는 분명합니다. 우리는 더욱 서쪽으로 가서 시베리아 전체를 해방시킬 것입니다."
 
 TRM_Integrate_West_Sib:0 "서시베리아 통합"
-TRM_Integrate_West_Sib_desc:0 "We now control the whole Siberian region, and yet there is clear difficulty in ruling these vast lands. As a result we must expand the administration apparatus. It will take us some time, but with our grip exerted more forcefully over the region our nation will be strengthened immeasurably."
+TRM_Integrate_West_Sib_desc:0 "우리는 이제 시베리아 전역을 지배하고 있지만, 이 광대한 땅을 통치하는 데는 분명한 어려움이 있습니다. 따라서 우리는 관리 기관과 부처를 확대해야 합니다. 시간이 좀 걸리겠지만, 그 지역에 대한 우리의 통제는 더욱 강력해 질 것입니다."
 
 TRM_Cap_Novosibirsk:0 "노보시비르스크로 수도이전"
 TRM_Cap_Novosibirsk_desc:0 "As our might grows stronger every day we become more independent from Japan and their imperial ambitions. Moving the capital to Novosibirsk will show them that we are their lapdogs no more."
 
 TRM_Claim_Russia:0 "마지막 해결책"
-TRM_Claim_Russia_desc:0 "The time has come! Day by day we dream about the time when we will strike our enemies in Petrograd. We are no longer merely Transamur nor the Far Eastern Republic. No. Our claim to the mantle of Russian Republic will no longer be more pretence, but solid fact! We will liberate Mother Russia from the traitors that destroyed her."
+TRM_Claim_Russia_desc:0 "때가 왔습니다! 우리는 매일 밤마다 페트로그라드에서 적을 물리칠 꿈을 꾸고 있습니다. 우리는 더 이상 단순한 트란스아무르나 극동공화국이 아닙니다. 러시아 공화국에 대한 우리의 주장은 더 이상 헛소리가 아니라 저명한 사실일 것입니다! 우리는 어머니 러시아를 반역자들로부터 해방시킬 것입니다."
 
 TRM_Leave_Japan:0 "일본 영향권 탈출"
 TRM_Leave_Japan_desc:0 "As we have accomplished our ambitions, we are no longer in need of the Japanese. Now we can officially leave their sphere of influence and become completely free."
 
 TRM_Become_Russia:0 "새로운 러시아"
-TRM_Become_Russia_desc:0 "The time of war has come to an end. Now is the time for a new, stronger Russia to arise. No more traitors, no more Bolsheviks, no more Japanese imperialists. We are Russia now!"
+TRM_Become_Russia_desc:0 "전쟁은 끝났습니다. 이제는 새롭고 더 강력한 러시아가 생겨날 때입니다. 더 이상 반역자도, 볼셰비키도, 일본 제국주의자도 없습니다. 우리는 러시아입니다!"
 
 TRM_Attack_CA:0 "중앙 아시아 영유권 재주장"
-TRM_Attack_CA_desc:0 "The entire Russian state is under our command now. It is time to reclaim our soil in Central Asia from different insurgent states."
+TRM_Attack_CA_desc:0 "러시아 전체가 지금 우리의 통제하에 있습니다. 이제는 다른 국가들로부터 중앙아시아에 있는 우리의 땅을 되찾을 때입니다."
 
 TRM_Attack_Caucasus:0 "코카서스 영유권 재주장"
-TRM_Attack_Caucasus_desc:0 "The entire Russian state is under our command now. It is time to reclaim our soil in the Caucasuses from different insurgent states."
+TRM_Attack_Caucasus_desc:0 "러시아 전체가 지금 우리의 통제하에 있습니다. 이제는 다른 국가들로부터 코카서스에 있는 우리의 땅을 되찾을 때입니다."
 
 TRM_Attack_Europe:0 "동유럽 영유권 재주장"
-TRM_Attack_Europe_desc:0 "The entire Russian state is under our command now. It is time to reclaim our soil in Eastern Europe from different artificial states."
+TRM_Attack_Europe_desc:0 "러시아 전체가 지금 우리의 통제하에 있습니다. 이제는 다른 국가들로부터 동유럽에 있는 우리의 땅을 되찾을 때입니다."
 
-TRM_sov:0 "붉은 군대가 러시아 극동 지역을 통제하기에 그들은 너무 약하다. 우리가 합병한다.\n"
-TRM_change:0 "Transamur will achieve the ultimate goal it has been striving towards since 1925, formally replacing the Russian regime.\n"
-TRM_Kolchak_hog_tooltip:0 "Alexandr Kolchak will replace Grigoriy Semyenov in his position as the Head of Government.\n"
+TRM_sov:0 "붉은 군대가 러시아 극동 지역을 통제하기에 그들은 약합니다. 우리가 합병해야 합니다.\n"
+TRM_change:0 "트란스아무르는 1925년부터 러시아 정권을 공식적으로 대체하기 위해 노력해온 궁극적인 목표를 달성할 것입니다.\n"
+TRM_Kolchak_hog_tooltip:0 "알렉산드르 콜차크는 그레고리 세묘노프를 대신하여 정부 수반이 될 것입니다.\n"
 TRM_agitation_tooltip:0 "The results of our efforts could be variable, and there is no guarantee of success.\n"
 
 ### Flags ###
