@@ -728,7 +728,7 @@ TRM_Attack_Europe_desc:0 "러시아 전체가 지금 우리의 통제하에 있�
 TRM_sov:0 "붉은 군대가 러시아 극동 지역을 통제하기에 그들은 약합니다. 우리가 합병해야 합니다.\n"
 TRM_change:0 "트란스아무르는 1925년부터 러시아 정권을 공식적으로 대체하기 위해 노력해온 궁극적인 목표를 달성할 것입니다.\n"
 TRM_Kolchak_hog_tooltip:0 "알렉산드르 콜차크는 그레고리 세묘노프를 대신하여 정부 수반이 될 것입니다.\n"
-TRM_agitation_tooltip:0 "The results of our efforts could be variable, and there is no guarantee of success.\n"
+TRM_agitation_tooltip:0 "노력의 결과는 다양하게 나타나며, 반드시 성공을 보장 하지는 않습니다.\n"
 
 ### Flags ###
 TRM_control_FE:0 "러시아 극동은 우리것"
@@ -751,25 +751,25 @@ TRM_FNG_DIP:0 "친선관계"
 
 ### Decisions ###
 TRM_japanese_influence:0 "블라디보스토크의 일본인"
-TRM_japanese_influence_desc:0 "Our government is not seen as a legitimate Russian state by the Russian people, this is made even more apparent Tokyo's ever growing influence. We will need to make sure to 'put on a good show' whilst they conduct their meetings in the hope they don't suspect any sign of disloyalty."
+TRM_japanese_influence_desc:0 "러시아 국민들은 우리 정부를 합법적인 러시아로 보고있지 않습니다. 이러한 상황은 일본의 영향력이 점점 더 커지게 할 것입니다. 일단 일본이 우리의 충성을 의심하지 않게 하기위해, 회의를 진행하는 동안 '좋은 면'을 보여줄 필요가 있을 것입니다."
 
 TRM_visit_from_japan:0 "우리의 스승으로부터의 방문"
-TRM_visit_from_japan_desc:0 "In these harsh times we need strong allies to protect us. Japanese officials in Vladivostok have stated that they are willing to give us some support. They would visit us from time to time. But, every time we accept them here delegation grows stronger and ever more ambitious."
+TRM_visit_from_japan_desc:0 "이런 힘든 시기에는 우리를 보호할 강력한 동맹이 필요합니다. 블라디보스토크에 있는 일본 정치인들은 가끔씩 우리를 방문하곤 했는데, 그들은 우리를 기꺼이 지원을 해 줄 용의가 있다고 말했습니다. 하지만 우리가 그들의 도움을 받아들일 때마다 대표단의 권한은 더 강해지고 야심차게 될 것입니다."
 
 TRM_zaibatsus:0 "재벌들의 인정을 받다"
-TRM_zaibatsus_desc:0 "Our economic partnership with Japan attracts a lot of money and investments, that much is true. Today the Japanese delegation in Vladivostok has made a direct appeal to our leadership to open a new concession in Transamur."
+TRM_zaibatsus_desc:0 "일본과의 경제적 제휴가 많은 돈과 투자를 끌어들인 것은 사실입니다. 오늘 블라디보스토크 주재 일본 대표단은 우리 지도부에게 트란스아무르에 새로운 조계를 두자고 직접 제안했습니다."
 
 TRM_support_anti_japanese_rally:0 "반일집단 지원"
-TRM_support_anti_japanese_rally_desc:0 "Our special agents work closely with local anti-Japanese movement. We could fund them to hold a "spontaneous" rally which would weaken Japanese positions here."
+TRM_support_anti_japanese_rally_desc:0 "우리 정부요원들은 지역 반일 시위에 긴밀하게 협력하고 있습니다. 우리는 '자주적인' 집회를 열 수 있도록 자금을 지원할 수 있습니다. 그러한 행동은 블라디보스토크에서 일본인들의 입지를 약화시킬 것입니다."
 
 TRM_hold_vladivostok:0 "일본으로부터 블라디보스토크 수비"
-TRM_hold_vladivostok_desc:0 "We have little chances to fight back Japanese troops down to the ocean. Our only solution to survive is to hold Vladivostok long enough to make the whole point of this war non-sense in minds of Japanese people. As Russian proverb says: "Elusive Joe is elusive because nobody wants to find him". We should become this Joe to Japanese."
+TRM_hold_vladivostok_desc:0 "우리가 일본군을 바다에서 격퇴할 가능성은 거의 없습니다. 우리가 살아남기 위한 유일한 해결책은 블라디보스토크를 이 전쟁의 명분을 무의미하게 만들 만큼 오랫동안 방어하는 것입니다. 러시아 농담중에 '아무도 조를 잡고 싶어하지 않기 때문에, 아무도 조를 잡을수 없다'(아무도 원하지 않으므로, 아무도 가질수 없다)라는 말이 있습니다. 블라디보스토크는 일본인들에게 이 조가 되어야 합니다."
 
 TRM_raise_militia:0 "블라디보스토크에서 민병대 소집"
-TRM_raise_militia_desc:0 "The time has come to fight for our freedom. Patriotic citizens of Vladivostok are forming militia groups to defend their homeland. With little help from us we can organise them into auxiliary units to fill up the lines."
+TRM_raise_militia_desc:0 "우리의 자유를 위해 싸울 때가 왔습니다. 블라디보스토크의 시민들이 조국을 지키기 위해 민병대를 결성하고 있습니다. 우리의 도움을 거의 받지 않은 예비병력들을 전선에 보충할 수 있습니다."
 
 TRM_russian_expansion:0 "러시아 정부 문제"
-TRM_russian_expansion_desc:0 "We are the legitimate Russian state not the pretenders we call the Petrograd Regime. However there are several things we need to do to ensure that not only the Russian people but the entire world sees it that way. Long live Russia, one and indivisible!"
+TRM_russian_expansion_desc:0 "우리야말로 합법적인 러시아이며 페트로그라드 정부라 불리는 것들이 아닙니다. 그러나 우리뿐만 아니라 전세계 사람들이 그렇게 생각하도록 하기 위해 우리가해야 할 일이 몇 가지 있습니다. 러시아여 영원하라, 하나이며 나뉘지 않으리라!"
 
 TRM_relocate_capital_1:0 "이르쿠츠크에 임시 수도 설립"
 TRM_relocate_capital_1_desc:0 "우리는 이르쿠츠크에 임시 수도를 세울 것입니다"
