@@ -6,7 +6,7 @@ FRA_internationalism:0 "국제주의 지원"
 FRA_internationalism2:0 "국제주의 지원"
 FRA_world_revolution_op:0 "세계혁명 지원"
 FRA_world_revolution2_op:0 "세계혁명 지원"
-FRA_revenge_germany:0 "독일에게 복수"
+FRA_revenge_germany:0 "독일에 복수"
 FRA_european_socialism:0 "유럽의 사회주의 지원"
 FRA_european_socialism2:0 "유럽의 사회주의 지원"
 FRA_choose_tasca:0 "타스카를 외무부 장관으로 지명하다"
@@ -201,7 +201,7 @@ FRA_phalanstere_NOR_desc:0 "우리는 현재 노르웨이의 형제들에게 산
 COF_prodcsaplanes:0 "아메리카 노동연맹을 위한 항공기 생산"
 COF_prodcsaplanes_desc:0 ""
 
-FRA_avantgarde_idea:0 "국제 아방가르드"
+FRA_avantgarde_idea:0 "국제 전위예술제"
 FRA_avantgarde_idea_desc:0 "미술에서 음악에 이르기까지 통일된 사회주의 예술 사조는 비생디칼리즘 세계의 대중이 오락으로 우리의 이상에 관심을 갖도록 도울 강력한 도구가 될 수 있습니다."
 
 ### Parties ###
@@ -1259,10 +1259,10 @@ comfrance.163.d:0 "오늘, 전세계의 민주주의, 사회주의, 생디칼리
 comfrance.163.a:0 "축하한다!"
 
 comfrance.164.t:0 "제1차 부르주 국제 예술제"
-comfrance.164.d:0 "제1차 부르주 국제 예술제가 오늘 열렸습니다. 오직 영국과 프랑스의 노력 덕분에 국제 아방가르드 예술제가 열렸습니다. 이 예술제에는 프랑스 정부가 의뢰한 많은 생디칼리스트 화가들의 사실주의 작품과 브리튼, 러시아, 미국 작품, 디에고 리베라의 벽화가 전시되었습니다. 이 행사는 세계적으로 주목을 받고 있으며 주말까지 이어질 것입니다. 당분간 스포트라이트를 즐깁시다."
-comfrance.164.a:0 "부르주 예술제는 앞으로도 계속 열릴 것이다. 정부가 이를 보증한다!"
+comfrance.164.d:0 "제1차 부르주 국제 예술제가 오늘 열렸습니다. 영국과 프랑스의 헌신으로 국제 전위예술제가 열렸습니다. 이 예술제에는 프랑스 정부가 의뢰한 많은 생디칼리스트 화가들의 사실주의 작품과 브리튼, 러시아, 미국 작품, 디에고 리베라의 벽화가 전시되었습니다. 이 행사는 세계적으로 주목을 받고 있으며 주말까지 이어질 것입니다. 당분간 스포트라이트를 즐깁시다."
+comfrance.164.a:0 "부르주 예술제는 앞으로도 계속 열릴 것이고, 정부가 이를 보증할 것이다!"
 
-comfrance.165.t:0 "프랑스가 국제 아방가르드를 제안하다."
+comfrance.165.t:0 "프랑스가 국제 전위예술제를 제안하다."
 comfrance.165.d:0 "An efforts were made by the French government to establish an International Avant-Garde. It will aim to create new artistic styles, unique in their unorthodoxy presentations, something this world has never seen before.\n\nFrench Government believes it will be a helpful tool in spreading syndicalist teaching through non-violent means. Now they expect us to join on it. "
 comfrance.165.a:0 "Count us in!"
 
