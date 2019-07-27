@@ -1442,26 +1442,26 @@ ustates.111.t:0 "총파업이 퍼지다"
 ustates.111.d:0 "사회당의 총파업은 잭 리드 의원이 최근 통과된 개입 법안에 반대하는 시위를 촉구한 이후 널리 퍼졌으며, 많은 산업화된 주에서 국가를 마비시킬 뿐입니다. 특히 세인트루이스는 분쟁지역이 되었으며, 매일매일 파업자들은 연방군이나 제일당 미닛맨과 다양하게 충돌하면서 일상생활은 거의 끝났습니다. 일반 시민들의 시위가 약탈과 시민 소요로 변하면서 혼란은 몇 차례의 폭동으로 이어졌습니다. 사람들이 세인트루이스를 떠나고 있으며, 수천명이 정부의 즉각적인 개입을 요구하고 있습니다."
 ustates.111.a:0 "감당할 수 없게 되는군."
 
-ustates.112.t:0 "Proposed Conference with Long and Reed"
-ustates.112.d:0 "In response to the ongoing crisis, Alf Landon's Secretary of Commerce has proposed a conference with both Huey Long and Jack Reed to try to arrange some sort of compromise. The Secretary says that the measures in the bill will not work unless the strikes and the violence are brought to an end. However, some within the Republican party are saying that this plan of action will not work, and claiming a conference with Long and Reed will debase their party."
-ustates.112.a:0 "Ignore Long and Reed"
-ustates.112.b:0 "Arrange the conference"
+ustates.112.t:0 "롱과 리드에게 회담을 제안하다"
+ustates.112.d:0 "현재 진행중인 위기에 대응하여 알프 랜던 정부의 상무장관은 휴이 롱과 잭 리드 둘 다와 어떤 종류의 타협안을 마련하기 위한 회담을 제안했습니다. 장관은 파업과 폭력이 종식되지 않는 한 법안의 조치는 효과가 없을 것이라고 말합니다. 그러나 공화당 내부에서는 이 같은 행동 계획이 먹히지 않을 것이라는 얘기가 나오고 있으며 롱과 리드와의 회담은 공화당을 약화시킬 것이라고 주장하고 있습니다."
+ustates.112.a:0 "롱과 리드를 무시해라"
+ustates.112.b:0 "회담을 준비하라"
 
-ustates.113.t:0 "The Great St. Louis Riot"
-ustates.113.d:0 "The SPA has been aggravating the workers in the area to expand the strike. Local businesses in St. Louis have become utterly paralyzed. Many of them turned to the America First Party to provide a solution. Within days, the streets were flooded with Minutemen. There are wild reports from the chaos ranging from Minutmen stopping petty crime in the absence of police, to them creating the crime. Soon the situation had erupted into a wide scale riot. The chaos has been splashed across every newspaper in America, and within days SPA and AFP forces have begun to mobilize. War is upon us."
+ustates.113.t:0 "세인트루이스 대폭동"
+ustates.113.d:0 "사회당은 파업을 확대하기 위해 그 지역의 노동자들을 충동질하고 있습니다. 세인트루이스 내의 지역 산업은 완전히 마비되었습니다. 그들 중 많은 수가 해결책을 제공하기 위해 미국 제일당으로 눈을 돌렸습니다. 며칠도 지나지 않아 거리는 미닛맨으로 넘쳐났습니다. 미닛맨이 경찰이 없는 상황에서 사소한 범죄를 저지한다는 보도부터 미닛맨이 직접 범죄를 저지른다는 보도까지, 상당히 혼란스러웠습니다. 곧 사태가 대규모 폭동으로 번졌습니다. 이 혼란은 미국의 모든 신문에 퍼졌고 수일 내에 사회당과 제일당 부대가 동원되기 시작했습니다. 전쟁이 닥쳤습니다."
 ustates.113.a:0 "So it begins now, does it?"
 
-ustates.114.t:0 "Conference Begins"
-ustates.114.d:0 "The conference between President Landon and both Huey Long and Jack Reed began, but within days it was clear that it was a lost cause. Long and Reed argued constantly, on almost every issue, and the only thing that united them was their personal detestation of Landon and his intervention bill. It is apparent from the proceedings that Reed and Long's control over their parties were waning, not least of which is due to constant newspaper coverage of the conference citing the two men as 'obstructionist' and 'unreasonable'. Reed and Long both see the president as the corrupt tool of corporate America, and rather than compromise their demands are tantamount to rolling back the intervention bill which has already been voted on and passed through Congress! Both are nearly ready to walk out, despite the president's pleading that they compromise for the sake of peace in the country."
+ustates.114.t:0 "회담이 시작되다"
+ustates.114.d:0 "랜던 대통령이 휴이 롱, 잭 리드 두 사람과 회담을 시작했지만 며칠 지나지 않아 실패할 이 분명했습니다. 롱과 리드는 거의 모든 사안에 대해 끊임없이 논쟁을 벌였고, 그들을 하나로 묶은 것은 랜던과 그의 개입 법안에 대한 개인적 혐오 뿐이었습니다. 두 사람을 '의사 방해자'와 '비이성적'이라고 지칭하는 지속적인 신문 보도 때문에 회담에서 리드와 롱의 당 장악력이 약화되고 있다는 것이 명백합니다. 리드와 롱 둘 다 대통령을 미국의 부패한 꼭두각시로 보고 있으며, 그들은 타협하기 보다는 이미 의회를 통과하여 가결된 중재안을 철회할 것을 요구하고 있습니다! 대통령이 이 나라의 평화를 위해 타협하자고 호소했음에도 불구하고, 두 사람 모두 회담장에서 빠져나올 준비가 되어있습니다."
 ustates.114.a:0 "I have to save this conference"
 
-ustates.115.t:0 "Scandal Rocks the Conference"
-ustates.115.d:0 "While President Landon's conference is finally beginning to make slow progress, American newspapers turn their attention from Reed and Long to a different target: namely the revelation of an internal memo within General Motors corporation which indicates that not only is the company's planned settlement with strikers intended to be only temporary... but that they and other companies are being bribed into settlement by the federal government. A temporary setback as they make concessions to strikers in exchange for a bailout with the understanding that changes made can be easily undone. While many are denying this memo's veracity, the sensational aspect of the news is giving new fire to AFP and SPA supporters and is threatening to quickly escalate out of control."
+ustates.115.t:0 "회담을 뒤흔든 스캔"
+ustates.115.d:0 "랜던 대통령의 회담이 마침내 천천히 진행되기 시작하는 동안, 미국 신문들은 롱과 리드가 아닌 다른 쪽으로 관심을 돌렸습니다: 제너럴 모터스 사의 내부 메모 폭로에서 회사가 파업자들과 임시적인 노사합의를 했을 뿐만 아니라, 연방정부가 노사합의를 위해 제너럴 모터스를 포함한 여러 회사에 뇌물을 뿌렸다는 사실이 드러났습니다. 그들이 긴급 구제를 받는 대가로 파업자들에게 양보하는 일시적인 후퇴는 충분히 돌이킬 수 있습니다. 많은 사람들이 이 메모의 진실성을 부인하고 있지만, 이 뉴스의 선정적인 측면은 제일당과 사회당 지지자들에게 새로운 불길을 지피고 있으며, 빠르게 통제 불능에 빠질 것이라고 위협하고 있습니다."
 ustates.115.a:0 "Cut the conference short, we need to call GM"
 ustates.115.b:0 "We must keep the conference going, no matter what"
 
 ustates.1150.t:0 "맥아더와 육군이 랜던을 축출하다"
-ustates.1150.d:0 "회의가 며칠 동안 계속되는 동안, 스캔이 끝나지 않을 것이 분명해졌습니다. 그 대신 다른 정보통이 유사한 정보를 제공했는데, 그 중 많은 부분이 랜던 대통령이 직접 기획한 내부자의 노력을 지적하면서 스캔이 확대되었습니다. 잭 리드와 휴이 롱 둘 다 그 회의를 포기했고, 랜던이 의회에서 체면을 구하려고 최선을 다했기 때문에 그에게 회의 실패의 책임이 있다는 것이 명백했습니다. 위기가 고조되자 더글러스 맥아더 장군은 랜던 내각의 완전한 승인을 얻어 '더 늦기 전에 극단주의 세력으로부터 미국을 구하기 위해' 백악관에 비상 정부를 설치하기 위해 개입했습니다. 정부는 국민들에게 상황이 통제되고 있다고 확신시키려고 노력했지만, 내전이 임박했다는 것은 빠르게 분명해지고 있습니다."
+ustates.1150.d:0 "회담이 며칠 동안 계속되는 동안, 스캔이 끝나지 않을 것이 분명해졌습니다. 그 대신 다른 정보통이 유사한 정보를 제공했는데, 그 중 많은 부분이 랜던 대통령이 직접 기획한 내부자의 노력을 지적하면서 스캔이 확대되었습니다. 잭 리드와 휴이 롱 둘 다 그 회담을 포기했고, 랜던이 의회에서 체면을 구하려고 최선을 다했기 때문에 그에게 회담 실패의 책임이 있다는 것이 명백했습니다. 위기가 고조되자 더글러스 맥아더 장군은 랜던 내각의 완전한 승인을 얻어 '더 늦기 전에 극단주의 세력으로부터 미국을 구하기 위해' 백악관에 비상 정부를 설치하기 위해 개입했습니다. 정부는 국민들에게 상황이 통제되고 있다고 확신시키려고 노력했지만, 내전이 임박했다는 것은 빠르게 분명해지고 있습니다."
 ustates.1150.a:0 "결국 이렇게 되었군."
 
 
@@ -1497,15 +1497,15 @@ ustates.121.a:0 "워싱턴 정부와 재통합하자(게임 오버됨)"
 ustates.121.b:0 "우리가 진정한 미국이며 우리는 스스로 미국을 단결시킬 것이다!"
 
 ustates.122.t:0 "미국이 재통합되다!"
-ustates.122.d:0 "The rebel government out west has decided to lay down their arms and rejoin America. The military checkpoints along the Rocky Mountains are being dismantled and people from both sides of the country are crossing over. At long last the country is reunited."
+ustates.122.d:0 "서쪽에 있는 반군 정부는 그들의 무기를 내려놓고 미국에 다시 합류하기로 결정했습니다. 로키 산맥을 따라 있는 군 검문소가 해체되고 있고 양쪽에서 온 사람들이 건너오고 있습니다. 마침내 이 나라는 재통합되었습니다."
 ustates.122.a:0 "동해안에서 서해안까지!"
 
 ustates.123.t:0 "화해는 없다"
-ustates.123.d:0 "Since MacArthur stepped down many wondered if the country would be whole again. However it seems that the rebels out west have decided that they shall not reunite with us. In their senate, they denounced Congress as just being a pawn of MacArthur who they still regard as a tyrant despite the fact he saved the country."
+ustates.123.d:0 "맥아더가 물러났기 때문에 많은 사람들은 그 나라가 다시 하나가 될지 궁금해했습니다. 하지만 서쪽의 반란군은 우리와 재회하지 않기로 결정한 것 같습니다. 그들은 맥아더가 나라를 구했다는 사실에도 불구하고 여전히 폭군으로 간주하고는 상원에서 의회가 맥아더의 졸개라고 비난했습니다."
 ustates.123.a:0 "언젠가는 재통합될 것이다"
 
 ustates.124.t:0 "미국의 재통합"
-ustates.124.d:0 "At long last America has been reunited. We stretch once again from sea to shining sea. The traitors to the country have been destroyed and the stars and stripes now fly proudly from coast to coast knowing that liberty is secured for all."
+ustates.124.d:0 "마침내 미국은 재통합되었습니다. 우리는 다시 한번 바다에서 빛나는 바다로 뻗어나갑니다. 이 나라의 반역자들은 파괴되었고 이제 성조기는 모두를 위해 자유가 보장된다는 것을 알고 동해안에서 서해안까지 자랑스럽게 펄럭입니다."
 ustates.124.a:0 "더 완벽한 합중국을 위하여"
 
 ustates.125.t:0 "The National Labor Relations Board"
