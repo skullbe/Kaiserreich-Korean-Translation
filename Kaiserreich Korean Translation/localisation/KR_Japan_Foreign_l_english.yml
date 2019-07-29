@@ -93,7 +93,7 @@ KOR_integrate_japs_desc:0 "우리는 우리의 취약한 경제를 보강하기 
 JAP_fengtian_bailout:0 "봉천 구제금융"
 JAP_fengtian_bailout_desc:0 "우리는 그들의 저축을 채우기에 충분한 은을 구매함으로써 봉천 정부를 구제 하고 있습니다."
 JAP_MANTETSU_COLLAPSE:0 "만철 붕괴"
-JAP_MANTETSU_COLLAPSE_desc:0 "만철의 상당한 이윤은 일본 경제의 주요 동력이고, 정부 연간 수입의 4분의 1에 육박하고 있습입니다. 하지만 최근의 사건으로인한 중국사업체에 대한 대규모 압수와 파괴는 일본에 타격을 주었습니다."
+JAP_MANTETSU_COLLAPSE_desc:0 "만철의 상당한 이윤은 일본 경제의 주요 동력이고, 정부 연간 수입의 4분의 1에 육박하고 있습니다. 하지만 최근의 사건으로인한 중국사업체에 대한 대규모 압수와 파괴는 일본에 타격을 주었습니다."
 
 ### Focuses - Foreign - Base ###
 JAP_SUN_RISE:0 "떠오르는 해"
@@ -1056,23 +1056,23 @@ japfor.219.t:0 "#Explain to the player WTF the Concordia Association is"
 japfor.219.d:0 ""
 japfor.219.a:0 ""
 
-japfor.220.t:0 "#Explain to Fengtian that Japan is going to start messing with you"
+japfor.220.t:0 "#일본이 당신을 괴롭히기 시작할 것이라고 봉천에게 설명."
 japfor.220.d:0 ""
 japfor.220.a:0 ""
 
-japfor.221.t:0 "#Game over Fengtian - Concordia Association IS strong enough"
+japfor.221.t:0 "#봉천의 패배 - 협화회가 너무 강력합니다."
 japfor.221.d:0 ""
 japfor.221.a:0 ""
 
-japfor.222.t:0 "#Game over Fengtian - Concordia Association IS NOT strong enough"
+japfor.222.t:0 "#봉천의 패배 - 협화회가 힘을 잃었습니다."
 japfor.222.d:0 ""
 japfor.222.a:0 ""
 
-japfor.223.t:0 "#Japan tries to annex Fengtian; time for war"
+japfor.223.t:0 "#일본은 봉천을 합병하려고 한다; 전쟁을 할 때!"
 japfor.223.d:0 ""
 japfor.223.a:0 ""
 
-japfor.224.t:0 "#Japan finally gets cores"
+japfor.224.t:0 "#마침내 일본은 핵심주를 얻었다."
 japfor.224.d:0 ""
 japfor.224.a:0 ""
 
