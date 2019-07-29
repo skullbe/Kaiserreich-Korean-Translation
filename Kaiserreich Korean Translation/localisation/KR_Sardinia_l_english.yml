@@ -37,7 +37,7 @@ SRD_proclaim_sardinia_piedmont:0 "§R이탈리아 왕국에 대한 야망을 재
 SRD_industralize_the_south_flag:0 "우리가 남부 이탈리아를 관리하게 된 이상 산업화를 해야합니다.\n\n"
 SRD_loyal_ministers:0 "우리는 국왕 폐하께 유능하고 충성스러운 대신들로 민회를 채울 것입니다."
 SRD_italian_free_trade_tooltip:0 "이탈리아 국가간의 무역을 촉진시킵니다"
-SRD_joint_military_tooltip:0 "우리는 이탈리아 연맹 가맹국들과의 군사훈련을 유치할 것입니다."
+SRD_joint_military_tooltip:0 "우리는 이탈리아 연방 소속국들과의 군사훈련을 유치할 것입니다."
 SRD_sicgarunit_tt:0 "우리 휘하의 새로운 교황 사단이 사르데냐령 로마에서 소집될 것입니다."
 
 ### Flags ###
@@ -76,7 +76,7 @@ SRD_aviation_industry_1:0 "항공 산업"
 SRD_aviation_industry_2:0 "항공 산업"
 SRD_merchant_marine:0 "상선"
 SRD_workers_rights_idea:0 "노동자의 권리"
-SRD_confederation_training_idea:0 "이탈리아 연맹 훈련"
+SRD_confederation_training_idea:0 "이탈리아 연방 훈련"
 SRD_elite_army_idea:0 "엘리트 육군"
 
 ### Focus - Politics ###
