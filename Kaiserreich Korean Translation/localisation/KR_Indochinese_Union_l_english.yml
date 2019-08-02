@@ -47,13 +47,13 @@ INC_Left_Unity_idea:0 "좌파 단결"
 INC_Left_Unity_idea_desc:0 "Indochina's socialist parties have put aside their differences and reached a power sharing agreement. With the Indochinese left now unified and in-fighting signifigantly reduced, the Indochinese government is much more robust."
 INC_Left_Unity_idea_1:0 "좌파 단결"
 INC_Left_Unity_idea_1_desc:0 "Indochina's socialist parties have put aside their differences and reached a power agreement. With the Indochinese left now unified and in-fighting signifigantly reduced, the Indochinese government is much more robust."
-INC_Peoples_Soviet_idea_1:0 "전위당"
+INC_Peoples_Soviet_idea_1:0 "전위정당"
 INC_Peoples_Soviet_idea_1_desc:0 "A vanguard party is leading the country through political education and ideological indoctrination."
-INC_Peoples_Soviet_idea_2:0 "전위당"
+INC_Peoples_Soviet_idea_2:0 "전위정당"
 INC_Peoples_Soviet_idea_2_desc:0 "The vanguard party assigned itself with the task of the political education of the masses while people exerting power through councilst system."
-INC_Partys_Soviet_idea_1:0 "전위당"
+INC_Partys_Soviet_idea_1:0 "전위정당"
 INC_Partys_Soviet_idea_1_desc:0 "A vanguard party is leading the country through its omnipresent party organisations."
-INC_Partys_Soviet_idea_2:0 "전위당"
+INC_Partys_Soviet_idea_2:0 "전위정당"
 INC_Partys_Soviet_idea_2_desc:0 "A vanguard party is leading the country through its omnipresent party organisations. The political dominance of the party is defended by a powerful secret police."
 INC_Democratic_Centralism_idea:0 "민주집중제"
 INC_Democratic_Centralism_idea_desc:0 ""
@@ -343,10 +343,10 @@ viet.28.d:0 "We have promised greater political freedom to Indochinese citizens.
 viet.28.a:0 "We need more political freedom."
 viet.28.b:0 "Freedom is not for collaborators and counter-revolutionaries."
 
-viet.29.t:0 "Matrial Law continues"
+viet.29.t:0 "계엄령의 유지"
 viet.29.d:0 "The martial law continues. Is this the revolution we fought for? If it is, maybe a military government will be more effective than civilian government."
-viet.29.a:0 "Keep the civilian government."
-viet.29.b:0 "Military government."
+viet.29.a:0 "민간정부의 유지"
+viet.29.b:0 "군사정부"
 
 viet.30.t:0 "Transformation to a syndicalist country"
 viet.30.d:0 "With the empowerment of CGT, the Indochinese Union has transformed into a syndicalist country. The state has been basically decentralised with local unions and communes managing the local affairs. The Bourse Générale du Travail has replaced the position of national assembly and the Comité Salut Public assumed executive power. Most political organisation are dissolved to eliminate the bourgeoise party politics. Now Indochina entered a new era."
@@ -364,7 +364,7 @@ viet.32.d:0 "Today the trade unions in Saigon started a demonstration against ou
 viet.32.a:0 "Ignore them."
 viet.32.b:0 "Compromise."
 
-viet.33.t:0 "General Strike!"
+viet.33.t:0 "총파업!"
 viet.33.d:0 "Being ignored, the trade unions all over the country, led by the Indochinese Revolutionary League, launched a general strike against the government. They demand an immediate stop of all violation against workers' right and a shift on political direction to more worker's self-governance!"
 viet.33.a:0 "Time to establish state control over insubordinate unions!"
 viet.33.b:0 "Accepte their demand."
@@ -373,7 +373,7 @@ viet.34.t:0 "Crackdown on Trade Unions"
 viet.34.d:0 "The general strike escalated into a violent conflict between workers and police. The Indochinese Revolutionary League is now in open opposition to the government and began to organise rebellion. Our police used drastic methods to stop them and now syndicalists are massively arrested and persecuted."
 viet.34.a:0 "Now is the time to eliminate traitors."
 
-viet.35.t:0 "Tan Viet Activities"
+viet.35.t:0 "떤 비엣당(신 베트남 혁명당)의 활동"
 viet.35.d:0 "The New Viet Revolutionary Party, also known as Tan Viet party, is organised in the line of a vanguard party and adhere to the idea of democratic centralism. The party members are organised into secret cells and often engage with clandestine activi, which is sometimes regarded as non-democratic and suspicious by other political factions. Some politicians suspect they are secretly planning to overthrow the government by force. Should we put a limit on their activities based on the principle of political openness?"
 viet.35.a:0 "It's their freedom."
 viet.35.b:0 "We need to keep an eye on them."
@@ -389,26 +389,26 @@ viet.37.a:0 "The Second Revoution succeeded!"
 viet.37.b:0 "Manage to achieve a compromise."
 viet.37.c:0 "General Nguyen Binh declared martial law."
 
-viet.38.t:0 "Socialist Coalition Government"
+viet.38.t:0 "사회주의 연립정부"
 viet.38.d:0 "The VNQDD dictatorship is overthrowned, now the socialist revolutionaries, united and firm, decided to bring Indochina back to socialist direction. Nguyen An Ninh was again the chairman of the new coalition."
 viet.38.a:0 "C'est la lutte finale..."
 
-viet.39.t:0 "Socialist Coalition Government"
+viet.39.t:0 "사회주의 연립정부"
 viet.39.d:0 "Thanks to the his connection with other socialist faction, especially the syndicalist league, Pham Van Dong managed to out-manuever his opponents within the party. He then admitted in the national assembly that the hard-line policy of the party has alienated many good people and strifled democracy in Indochina. Now the Bolshevik party will adopt a more open policy to work with other socialists to pursue the socialist future."
 viet.39.a:0 "C'est la lutte finale..."
 
-viet.40.t:0 "Ending the Martial Law?"
+viet.40.t:0 "계엄령의 끝?"
 viet.40.d:0 "The flame of socialist rebellion has died down, but the rebellion has left a deep scar in Indochinese society. Now we are considering to end the martial law and return to democracy..."
 viet.40.a:0 "Collaborate with liberals."
 viet.40.b:0 "Restore full polical freedom."
 viet.40.c:0 "Continue the martial law."
 
-viet.41.t:0 "Remove Pham Van Dong"
+viet.41.t:0 "팜반동 제거"
 viet.41.d:0 "Pham Van Dong, despite all his merits, has a personality of administrator and intellectual rather than a real leader. He is considered too soft-willed and amicable to the enemy by the hardliners in the party. In the politburo meeting, Head of the Organization Department Le Duc Tho led an attack against Pham Van Dong. Le Duc Tho, with his authority brought by close connection to French Jacobin, claimed that Pham Van Dong doesn't really understand the ideology of Leninism. It would be better for Dong to work as the prime minister."
 viet.41.a:0 "Pham Van Dong was sidelined and Le Duc Tho took charge."
 viet.41.b:0 "Pham Van Dong seek support from outside of the party."
 
-viet.42.t:0 "Deal with Syndicalists"
+viet.42.t:0 "생디칼리스트와의 거래"
 viet.42.d:0 "The Indochinese Revolutionary League have established a entrenched political network within the country. The trade unions exert a decisive influence on the national economy. They posed a hidden threat to our political leadership. In order to carry out our reforms, we must deal with the situation..."
 viet.42.a:0 "Excellent."
 
@@ -421,7 +421,7 @@ viet.42.a:0 "Excellent."
 #The Nationalist party has established a entrenched political network within the country. Their party members are influential in the state bureaucracy and army. They posed a hidden threat to our political leadership. In order to carry out our reforms, we must deal with the situation.
 
 
-viet.51.t:0 "Agricultural Recovery"
+viet.51.t:0 "농업의 회복"
 viet.51.d:0 "The resistance war has come to an end. Now it's time to cure the war-torn motherland. During the war, agricultural production was heavily dirupted and hundreds of thousands of farmers fled from their land to join the army or seek refuge. It might take at least a year for agriculture, the major sector of our economy, to recover."
 viet.51.a:0 "Excellent."
 
@@ -437,7 +437,7 @@ viet.55.t:0 "This year's agricultural production: Poor Harvest"
 viet.55.d:0 "The agricultural production this year is hit hard by various factors. Many peasants believe that the government must have done something wrong to cause the anger of the heaven."
 viet.55.a:0 "Disaster is Imminent!"
 
-viet.63.t:0 "The result of land reform"
+viet.63.t:0 "토지개혁의 결과"
 viet.63.d.a:0 "Our land reform created a rural society of small land-owners. The landlord regime in the countryside diminished. Most landlords moved to cities and start a new life with the revenue from selling land. However, Tenants and poor peasants, although received their land, are still burdened with loans. Many radicals regard this as a revolution unfinished..."
 viet.63.d.b:0 "Our land reform created a mixed result: Extremists tried eradicated landlords physically. However, landholders were frightened to make concessions and in general the land reform was conducted in a peaceful manner. Most peasants now are self-sufficient and become more confident while the former landlords and gentries are very discontent with the result."
 viet.63.d.c:0 "Our land reform created a very egalitarian rural society. Gentry and landlords are fundamentally eliminated. In many villages poor peasants developed a strong sense of class consciousness. However, the terrors during the land reform also left deep rift within Indochinese society. The interpersonal ties of clans and families are almost destroyed. A tense atomsphere replace the previous unity in villages..."
@@ -445,7 +445,7 @@ viet.63.a:0 "At least it's a reform..."
 viet.63.b:0 "We have done our best..."
 viet.63.c:0 "Liberation came with a price..."
 
-viet.65.t:0 "The resistance from landlords"
+viet.65.t:0 "지주들로부터의 저항"
 viet.65.d:0 "Despite the landholding limit regulation, landlords managed to keep their lands via various formal or informal means.Tenants and poor peasants see little improvement of their life and complaint that the government is with the landlords. People are very dissapointed."
 viet.65.a:0 "Well."
 viet.65.b:0 "Need to strengthen bureaucracy to implement reform."
@@ -462,7 +462,7 @@ viet.67.d:0 "With the land reform expanding to the North, we encountered a rathe
 viet.67.a:0 "We must ensure every peasant get their own land!"
 viet.67.b:0 "There should be other solutions."
 
-viet.68.t:0 "Red Terror"
+viet.68.t:0 "적색 테러"
 viet.68.d:0 "The violent Land Reform has evolved into a red terror engulfing the entire country! Many villages see mass execution of landlords. Even those patriots who contributed to the resistance can expect no protection. Viscious attack is also used by peasants to retaliate against rivals. Although it is impossible to know how many of innocent people were mistakenly executed, it is suggested that the scale of errors committed was undeniably dramatic."
 viet.68.a:0 "Perfect chance to eliminate feudalism physically!"
 viet.68.b:0 "We have committed some mistakes..."
@@ -477,13 +477,13 @@ viet.70.a:0 "Let's see what can he do."
 viet.70.b:0 "No, we don't need a literati in army."
 
 
-viet.71.t:0 "Army Reform"
+viet.71.t:0 "군제개혁"
 viet.71.d:0 "The newly born People's Army of Indochina has stood up to the baptism of fire, but it's still a very immature army. With the lessons learnt from the war, two military schools emerged in our army. General Van Tien Dung, representing the idea of the general staff, believes in the merit of well-planned surprise offensive. They want to create a more centralised command system. Meanwhile, General Nguyen Chi Thanh, a prestigious political officer, believes in the merit of human will and individual initiative. He and his colleagues argued that courage and tenacity of Indochinese soldiers is our greatest weapon."
 viet.71.a:0 "Let me see..."
 
-viet.73.t:0 "Panzer Panic"
+viet.73.t:0 "전차 공포"
 viet.73.d:0 "Our soldiers have reported encountering terrible steel monsters that can spit fireballs. Our officers trained in France know it is a type of armoured vessel called the Tank, or, in German, the "Panzer". However, this weapon still causes great panic among our peasant soldiers, and even those who know it is not a monster have found no methods to deal with its armour. The Panzer panic has demoralised our army and many soldiers flee from the battlefield whenever German Panzers emerge."
-viet.73.a:0 "Monsters!"
+viet.73.a:0 "으아 괴물이다!"
 
 viet.74.t:0 "Panzer Panic Subsides"
 viet.74.d:0 "Swift victory in the war for independence has brought an end to the threat of German Panzers. With the metal beasts no longer around, the Panzer Panic has ended."
@@ -491,7 +491,7 @@ viet.74.a:0 "Excellent."
 
 #Anti-Tank Weapon: Firebomb and Lunge mine
 
-viet.79.t:0 "Tet Offensive!"
+viet.79.t:0 "구정공세!"
 viet.79.d:0 "Shortly after the midnight, when Vietnamese people are celebrating lunar new year and setting off firecrackers, grenades exploded in the German Embassy in Hanoi. Vietcong commandos appeared in Hanoi downtown while a huge size of Vietcong troops launched massive attack against every cities and towns. Ignorant peasants, led by VC agitators and armed with machetes and spears, rose up in various districts to 'eliminate the tyrants'. We are totally caught off guard!"
 viet.79.a:0 "Is this how Vietcong celebrate Lunar New Year?"
 
@@ -505,7 +505,7 @@ viet.81.d:0 "In order to awaken the militaristic spirit inherent to Indochinese 
 viet.81.a:0 "8?"
 viet.81.b:0 "All the Huns are killed!"
 
-viet.82.t:0 "Liberation Day"
+viet.82.t:0 "해방의 날"
 viet.82.d.a:0 "Today is the Liberation Day—The day when we finally drive German imperialists out of our motherland. The victory and independence came at the cost of thousands of martyred souls. Almost everyone in this sorrowful land loses their beloved in the path towards liberation. Let's mourning all the martyrs devote their lives for our peace and freedom. Phan Dinh Phung, Phan Boi Chau and Ho Chi Minh are the most notable ones among them."
 viet.82.d.b:0 "Today is the Liberation Day—The day when we finally drive German imperialists out of our motherland. Now our peace and freedom, came at the cost of thousands of martyred souls, is under threat. Let's follow the example of Phan Dinh Phung, Phan Boi Chau and Ho Chi Minh to fight for our independence!"
 viet.82.a:0 "Mourning the martyrs."
@@ -790,7 +790,7 @@ INC_infiltrate_the_north_decision_desc:0 "While the frontline is becoming a stal
 INC_new_military_leader:0 "A new §YCorps Commander§! is now available"
 INC_Queyt_Chien_decision:0 "Quyet Chien Quyet Thang!"
 INC_Queyt_Chien_decision_desc:0 "German invaders have been pushed into Red River delta. The liberation Hanoi and entire Indochina lies in this final struggle. It's time to raise the banner of Quyet Chien Quyet Thang(Determined to fight, Determined to win) and eliminate imperialists!"
-INC_tet_offensive_plan_decision:0 "Tet Offensive Plan"
+INC_tet_offensive_plan_decision:0 "구정 공세 계획"
 INC_tet_offensive_plan_decision_desc:0 "The General Staff has planned a major offensive. By sending our infiltrating troops, along with local guerrillas, to launch a full-scale attack in every enemy cities and towns in the Red River Delta, the heart of enemy's base in Indochina, we will paralyse them, cause the total disintegration of the enemy and spark the popular uprising. The offensive will be prepared in the absolute secrecy and began in Tet, the tradition Lunar New Year to achieve maximal surprise."
 Tet_final_preparation_1937:0 "Tet Offensive - Final Preparation"
 Tet_final_preparation_1938:0 "Tet Offensive - Final Preparation"
@@ -801,13 +801,13 @@ INC_tet_offensive_tooltip:0 "A decisive offensive is planned to be held. The nam
 INC_Tet_Quyet_Chien:0 "Tong cong kich - Tong khoi nghia"
 INC_Tet_Quyet_Chien_desc:0 "People have rise up to support our General Offensive-General Uprising(Tong cong kich - Tong khoi nghia), we can't waste one second to liberate Hanoi and the entire Indochina. Foward!"
 INC_tet_failure:0 "Our Guerrillas will be decimated"
-INC_form_khmer_issarak_decision:0 "Form Khmer Issarak"
-INC_form_pathet_lao_decision:0 "Form Pathet Lao"
+INC_form_khmer_issarak_decision:0 "크메르 이싸라크(자유 크메르)형성"
+INC_form_pathet_lao_decision:0 "파테트 라오 형성"
 INC_troops_can_be_upgraded:0 "§YThe units formed in this decision can be upgraded or deleted via national focuses§!"
-INC_reorganise_Indochinese_rifles_decision:0 "Reorganise Indochinese Rifles"
+INC_reorganise_Indochinese_rifles_decision:0 "인도차이나 소총병대 재조직화"
 INC_reorganise_Indochinese_rifles_decision_desc:0 "With the help of officers trained in France, including Weltkrieg veterans, we are able to grasp modern military tactics in a short period. However, we still need to know how to organise modern land units. A quick way to learn it is to reorganise the existing Indochinese rifle units(Linh Tap) into model units based on French system. These will also be our main force units. However, the reorganisation will take some time."
 INC_reorganise_Indochinese_rifles_tooltip:0 "Unlock template §YSu doan Bo binh chu luc§!\nForm main force unit §YDivision 308§!\nForm main force unit §YDivision 304§!\nForm main force unit §YDivision 312§!"
-INC_negotiate_with_germs_decision:0 "Negotiate with Germany"
+INC_negotiate_with_germs_decision:0 "독일과의 협상"
 INC_negotiate_with_germs_tooltip:0 "We will start negotiating with Germany for peace, but stubborn imperialists won't give up easily. Taking initiative in the battlefield, enemy's weariness in homefront or favourable international situation could help our cause."
 #Manpower crisis
 #The resistance and revolution should depend on the voluntary spirit of Indochinese people. That being said, the manpower crisis of our newly-born army is more and more severe. Introducing a draft will solve the problem, but it's worried that the new state apparatus doesn't have the ability to carry out conscription well...
@@ -969,7 +969,7 @@ INC_northern_giant_decisions_desc:0 "Geography decided that the northern giant w
 #Operation Nguyen Hue
 #The northern army has captured Hanoi, but we will not be defeated. The entire nation has to be mobilised for war effort. We must resist the enemy and retake our lost territory like Nguyen Hue great Tay Son uprisers who defeated Qing invaders in 1789!
 
-INC_international_outpost_decision:0 "An International Revolutionary Outpost"
+INC_international_outpost_decision:0 "국제혁명의 전초기지"
 INC_international_outpost_decision_desc:0 "As the vanguard of world revolution in the East, we have the obligation to support our friends still under the yoke of colonialism and imperialism. The current of world revolution can not be stopped by imperialists. Proletariats of the world, unite!"
 
 #Infiltration of Siam
@@ -1247,7 +1247,7 @@ INC_Join_Co_Prosperous_Sphere:0 "Join the Co-Prosperity Sphere"
 INC_Join_Co_Prosperous_Sphere_desc:0 "Our compatriots in Tokyo have established a new organisation of Asian states dedicated to mutual defence and the reduction of western influence in the region. While some may argue that the organisation is little more than an association of Japanese puppet states, by joining, we can firmly repudiate western imperialists once and for all."
 INC_Seek_Support_From_Japan:0 "Seek Support from Japan"
 INC_Seek_Support_From_Japan_desc:0 "With nationalist victory in the National Assembly, we have affirmed that Asia must be for Asians, and Japan is the foremost Asian power. If we are to ever drive western imperialists out of Asia, we will need Japan at our side."
-INC_An_International_Revolutionary_Outpost:0 "An International Revolutionary Outpost"
+INC_An_International_Revolutionary_Outpost:0 "국제혁명의 전초기지"
 INC_An_International_Revolutionary_Outpost_desc:0 "Since our victory against German bandits, the role of in international socialist movement has become increasingly important. Indochina will become the outpost of world revolution in Asia!"
 INC_Beyond_Indochina:0 "Beyond Indochina"
 INC_Beyond_Indochina_desc:0 "We have consolidated our security. It's time to look beyond Indochina and seek our international policy."
