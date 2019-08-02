@@ -2204,11 +2204,11 @@ ustates.526.d.long:0 "워싱턴 D.C에서 롱의 지지율이 바닥났습니다
 ustates.526.d.oldguard:0 "[USA.GetLeader]의 시간이 다 된 것 같습니다. 더글러스 맥아더 장군은 오늘 대통령을 '미국을 위험에 빠뜨린 무력한 대통령'으로 선언하면서 워싱턴 DC로 행군했습니다. 맥아더의 행렬은 1932년의 대규모 펜실베니아 실직자들의 가두시위를 상기시켰습니다. 단, 이 사람들이 극단주의 세력으로부터 나라를 보존하려는 동기를 가지고 있다는 것을 빼면 말입니다. 비록 미국의 대다수가 충격에 빠진 모습을 보임에도 불구하고, 대통령의 내각은 대중에게 이 조치가 필요하다고 확신시켰고 맥아더와 함께 백악관에서 비상 정부를 설치하기 위해 협력했습니다. 내전이 임박했습니다."
 ustates.526.a:0 "Damn you, MacArthur! We would have gotten to it eventually!"
 
-ustates.530.t:0 "An Envoy from the East"
-ustates.530.d:0 "Ever since word arrived in [Root.GetNameDef] regarding General MacArthur willingly stepping down from power out east, we have wondered if we would hear from the new government. The ceasefire has held, after all - so do they desire peace? Our question has been answered with the arrival of an envoy from the Federal government. They wish to meet once again, this time to talk about a reunion between our democratic governments. Most here in the west are willing, but there are many who say that MacArthur must first pay for his crimes. He is as much a traitor as Long and Reed, after all... if they are not willing to put him on trial as such, then how can we ever trust their word?"
-ustates.530.a:0 "MacArthur did America a favor - we will rejoin, no questions asked"
-ustates.530.b:0 "Yes, let them know we demand MacArthur be imprisoned first"
-ustates.530.c:0 "We do not trust them, now or ever"
+ustates.530.t:0 "동쪽에서 온 특사"
+ustates.530.d:0 "맥아더 장군이 동쪽에서 기꺼이 권좌에서 물러난다는 소식이 [Root.GetNameDef]에 도착한 이후, 우리는 새 정부로부터 소식을 들을 수 있을지 궁금해 했습니다. 결국 휴전이 맺어졌습니다 - 그렇다면 그들은 평화는 원하는 걸까요? 우리의 의문은 연방정부로부터 온 특사의 도착과 함께 해결되었습니다. 그들은 다시 한번, 이번에는 두 민주 정부 간의 재통합에 대해 이야기하기 위해 만나고 싶어합니다. 여기 서쪽에 있는 대부분의 사람들은 기꺼워했지만 먼저 맥아더가 자신이 저지른 범죄에 대한 대가를 치러야 한다고 말하는 사람들도 많습니다. 그는 결국 롱과 리드만큼이나 배신자입니다... 만약 그들이 그를 재판에 회부할 의사가 없다면, 우리는 어떻게 그들과 한 약속을 믿을 수 있을까요?"
+ustates.530.a:0 "맥아더는 미국에 호의를 베풀었다. 우리는 재통합할 것이고, 아무런 의문도 갖지 않을 것이다."
+ustates.530.b:0 "그래, 먼저 맥아더를 감옥에 넣으라고 전해라."
+ustates.530.c:0 "우린 그들을 믿지 않는다."
 
 ustates.531.t:0 "서부가 만남을 거절하다"
 ustates.531.d:0 "슬프게도, 태평양 정부는 우리와 만나는 것을 거절했습니다. 그들은 편지를 통해 우리가 진정한 민주주의를 되찾았다고 믿지 않는다고 밝혔습니다."
@@ -2232,8 +2232,8 @@ ustates.535.d:0 "태평양 정부는 우리의 응답을 기다리고 있는 것
 ustates.535.a:0 "신이시여 미국을 구하소서!!"
 
 ustates.536.t:0 "미국의 재통합!"
-ustates.536.d.full:0 "With the restoration of democracy in the United States, the breakaway faction in the west evidently had no reason to continue the civil war. After several meetings between the two governments, the Pacfic States of America has agreed to a full peace with the east and has rejoined the federation. Crowds have filled the streets of cities from one end of America to the other, jubilant at the news that there will be no war and the Second American Civil War is now truly over."
-ustates.536.d.arrest:0 "With the restoration of democracy in the United States, the breakaway faction in the west evidently had no reason to continue the civil war. After several meetings between the two governments, the only condition of the Pacific States of America government was that General Douglas MacArthur be arrested and tried for treason. The reasoning, according to American officials, was that the West considered MacArthur just as much a traitor as Huey Long and Jack Reed, and just as responsible for the death and destruction that ensued. Many in the United States consider MacArthur a hero, however, so when news was revealed of his arrest, angry demonstrations were just as prevalent as celebrations at the Pacific government's agreement to rejoin. It will likely take years for MacArthur's case to go to trial, and without a doubt will be a sensation, but for now the American Civil War is truly over."
+ustates.536.d.full:0 "미국의 민주주의 회복과 함께 서부의 탈퇴 파벌은 분명히 내전을 계속할 이유가 없어졌습니다. 두 정부 사이에 몇 번의 회담이 있은 후에, 미 태평양 합중국 정부는 동부와 완전한 평화에 합의하고 연방에 다시 가입했습니다. 군중들은 전쟁이 없을 것이라는 소식에 기뻐하며 미국 전역에 있는 도시의 거리를 가득 메웠습니다. 그리고 제2차 미국 내전이 이제 정말로 끝났다는 소식에 기뻐했습니다."
+ustates.536.d.arrest:0 "미국의 민주주의 회복과 함께 서부의 탈퇴 파벌은 분명히 내전을 계속할 이유가 없어졌습니다. 두 정부 사이에 몇 번의 회담이 있은 후에, 미 태평양 합중국 정부의 유일한 조건은 더글러스 맥아더 장군을 반역죄로 체포하여 재판에 회부하는 것이었습니다. 미국 관리들에 따르면, 그 이유는 서부가 맥아더를 휴이 롱과 잭 리드만큼이나 배신자로 간주하고, 그 뒤에 닥친 죽음과 파괴에 대한 책임도 똑같이 여긴다는 것이었습니다. 그러나 미국의 많은 사람들은 맥아더를 영웅으로 여기기 때문에 그의 체포 소식이 알려졌을 때, 성난 시위가 태평양 정부의 재통합 동의에 축하하는 것만큼이나 널리 퍼져 있었습니다. 맥아더 사건이 재판에 회부되려면 수년은 걸릴 것 같고 의심할 바 없이 돌풍을 일으킬 것 같지만, 지금으로서는 미국 내전은 진정 끝났습니다."
 ustates.536.a:0 "흥미롭군"
 ###############
 ##Army Events##
