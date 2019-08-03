@@ -38,7 +38,7 @@ ENG_silence_idea:0 "폭풍 후의 고요"
 ENG_home_rule_broken_idea:0 "자치 폐지"
 ENG_IRA:0 "아일랜드 공화국군"
 ENG_synthetic_oil_lover:0 "혁명적인 합성유"
-ENG_synthetic_oil_lover_desc:0 "Domestic oil supplies won't be enough to sustain our military. Fortunately, our synthetic oil oil tech is nothing short of the best in the world. With the right investment, this may be enough to keep our planes flying, our tanks driving and our ships moving."
+ENG_synthetic_oil_lover_desc:0 "국내의 석유만으로는 우리 군을 유지할 수 없을 것입니다. 다행히 우리의 합성유 기술은 세계 최고 수준입니다. 적절한 투자만 이루어진다면 비행기, 기갑 운용 그리고 선박을 감당하기에 충분할 것입니다."
 
 ### Flags ###
 ENG_CANIRE_protection:0 "캐나다가 아일랜드를 보호"
@@ -48,7 +48,7 @@ ENG_GERIRE_support:0 "독일이 아일랜드를 지원"
 ENG_IRE_alone:0 "아일랜드가 홀로 남겨지다"
 ENG_trade_congress_done:0 "노동 조합 총회가 끝남"
 war_is_hell:0 "제2차 세계대전이 시작됨"
-ENG_manual_complete_tuc_focus:0 "The 1936 Congress of the Trade Unions has been completed"
+ENG_manual_complete_tuc_focus:0 "1936년 노동 조합 총회가 끝남"
 
 ### Opinion modifiers ###
 ENG_home_rule_op:0 "자치령"
@@ -85,7 +85,7 @@ horner_chairman:0 "아서 호너가 의장임"
 mann_chairman:0 "토마스 만이 의장임"
 glais_chairman:0 "니클라시 이 글라이시가 의장임"
 mosley_chairman:0 "오스왈드 모즐리가 의장임"
-ENG_will_become_GBR:0 "§Y[GBR.GetNameDefCap]§!이 만들어질 것입니다."
+ENG_will_become_GBR:0 "§Y[GBR.GetNameDefCap]§!이 될 것입니다."
 
 PWH2:0 "제2차 명예로운 평화가 서명됨"
 WK2W:0 "제2차 세계대전에서 승리함"
