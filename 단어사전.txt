@@ -1,8 +1,8 @@
-Pacific States of America : 미 태평양국
+Pacific States of America : 미태평양국
 
-American Union State : 미주 연합
+American Union State : 미연합국
 
-Combined Syndicates of America : 아메리카 노동 연맹
+Combined Syndicates of America : 미합조합
 
 Weltkrieg : 세계대전
 
@@ -28,3 +28,5 @@ SPA: 미국 사회당
 IWW: 세계산업노동자연맹
 
 Belgrade Pact: 베오그라드 조약
+
+A.O.G.: 동아시아 총괄행정 감사이사회
