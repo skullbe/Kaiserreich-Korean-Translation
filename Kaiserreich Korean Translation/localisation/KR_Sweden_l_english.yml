@@ -763,18 +763,18 @@ swe.74.d:0 "스웨덴 전 국왕 구스타프 베르나도트가 퇴위 이후 �
 swe.74.a:0 "평화 속에 잠들길..."
 
 swe.75.t:0 "구스타프 5세의 죽음"
-swe.75.d:0 "The former royal sovereign of Sweden, Gustaf Bernadotte, has passed away in the estate the Bernadotte family bought some 40 kilometers outside Stockholm after the loss of the Swedish throne. His majesty king Gustaf VI Adolf, who had been restored to the throne after his grandfather lost it, has personally assured that he will be buried along with the other former kings of Sweden since Gustavus Adolphus in the Riddarholmskyrkan."
+swe.75.d:0 "전직 스웨덴 국왕 구스타프 베르나도트가 퇴위한 후 매입한 스톡홀름에서 40km떨어진 곳에서 세상을 떠났습니다. 조부대에 잃어버린 왕위를 회복한 바 있는 현 국왕 구스타프 6세 아돌프는 자신이 구스타프 아돌프 이후로 스웨덴 국왕들이 묻히는 리다르홀멘 교회에 자신이 묻힐 수 있다고 확신하고 있습니다."
 swe.75.a:0 "평화 속에 잠들길..."
 
-swe.76.t:0 "선전 연설가"
-swe.76.d:0 "The communal government of the capital - probably with encouragement of certain elements in our cabinet - has approved a motion to install loudspeakers with music and state propaganda in all public buildings encouraging the workers to do their part for the Swedish Revolution as well as advocating ideological purity. Many think this would be a great testing environment to see the effectiveness of such a doctrine of total propaganda, but some fear that the effects will be limited and that the enthousiastic approach of the communal government will only be counterproductive."
-swe.76.a:0 "Who would we be to meddle with the local government?"
-swe.76.b:0 "Tell them to cancel it, this won't work!"
+swe.76.t:0 "선전용 확성기"
+swe.76.d:0 "내각 인사 중 한명에게서 영감을 받은 듯한 수도 코뮌 정부는 스웨덴 혁명과정에서 자신의 역할을 다하는 노동자들을 격려하고 이데올로기적 순수성을 지키기 위해 국가적 선전과 음악을 방송하는 확성기를 모든 공공 건물에 설치하자는 방안을 승인했습니다. 이 작업이 총체적 선전 이론의 효과를 확인할 수 있는 적절한 실험장이 되리라고 보는 시각이 많지만, 일부는 그 효과가 제한적일지도 모른다고 걱정하면서 코뮌 정부의 열정적 홍보가 오히려 역효과를 낳을 수 있다고 지적했습니다."
+swe.76.a:0 "지방정부의 결정 사항에 간섭하지 마라?"
+swe.76.b:0 "중지하도록 명령해라. 효과도 없을거다!"
 
-swe.77.t:0 "Mediocre effect of the Propagandaspeakers"
-swe.77.d:0 "The extensive use of propagandaspeakers we let the communal government implement has had a mediocre effect it seems: while indeed the membership of totalist unions has increased marginally more than in the rest of the country, there have been several complaints that the loud noise of the loudspeakers keeps them out of their concentration (at work) or sleep (at night). Several loudspeakers have even been damaged and required replacement. It seems the experiment is moderately unsuccesful."
-swe.77.a:0 "Extend the usage to all of Sweden!"
-swe.77.b:0 "Have the experiment be abandoned!"
+swe.77.t:0 "선전용 확성기가 신통치않은 효과를 내다"
+swe.77.d:0 "코뮌 정부에서 시행하도록 놔둔 선전용 확성기 사용은 그닥 인상적이지 않은 효과를 발휘했습니다. 실제로 전체주의 노동조합 회원수가 다른 지역에 비해 많이 성장한 것은 사실이지만, 확성기의 큰 소음으로 인해 작업 중 집중력이 떨어지고 밤에 잠을 자기 힘들다는 지적이 제기되었습니다. 심지어 몇몇 확성기는 고장으로 교체가 필요한 지경에 이르렀습니다. 이 실험은 별로 좋은 효과를 가져오지 못한듯 합니다."
+swe.77.a:0 "스웨덴 전역에서 시행해라!"
+swe.77.b:0 "실험을 중단해라!"
 
 swe.78.t:0 "언론의 운명"
 swe.78.d:0 "노동자 국가가 건립됨에 따라서, 시급한 문제는 언론이 되었습니다. 대부분 신문과 라디오 방송국들은 스웨덴 혁명 이후에도 아직도 남아서 활동을 하며 심지어 일부는 새로운 질서에 대한 비판을 할 생각을 하고 있습니다.\n\n거의 모든 혁명가 파벌들이 노골적인 자본가 옹호 언론인 the capitalist Svenska Dagbladet 같은 언론은 활동 할 수 없게 만드는 것에 동의 했지만, 그 외 부분에서는 많은 차이가 있습니다. VPT의 플리그스트는 '정류기' 제안을 했습니다. 스웨덴 내 모든 미디어들은 엄격한 정부의 감독 아래에서만이 혁명이 반동분자의 거짓말로부터 보호 받을 수 있다고 주장했습니다. SAC의 생디칼리스트들은 이것과는 좀 다른 제안을 했습니다. 모든 미디어들은 스웨덴 노동자 총 연맹에 소속된 신문기자 조합에 들어가서 재조직 될 것이며, 이는 객관적인 내용을 보장하고 사회주의 질서에 해악이 되는 거짓말을 퍼트리지 못하게 할 것이라고 말했습니다. 마지막으로 SSV의 급진 사회주의자들은 신중론을 제안했습니다. 그들은 명백하게 반동적인 뉴스 미디어는 해체해야 하지만, 나머지 언론들은 그대로 내버려두기를 원하고 있습니다."
@@ -839,44 +839,68 @@ swe.90.d:0 "비극적인 일이 일어났습니다. 우리의 총서기 닐스 �
 swe.90.a:0 "휴식이라고? 스웨덴의 총비서는 절대로 쉬지 않는다!"
 
 swe.91.t:0 "총비서의 건강 문제가 대중에 알려지다!"
-swe.91.d:0 "Since comrade Flyg's heart attack, his short-breathedness has progressively become worse as the doctor predicted. As a result, the General Secretary eventually caved and dialed down his public appearances, which in turn is feeding the rumour among the Swedish populace that something is wrong with their General Secretary - with the news about the heart attack carefully being censored.\n\nBecause of our... zealous investment in the cult of personality of Nils Flyg, words are spreading that this is the proof that the government is deceiving the Swedish populace, trying to portray Flyg as a God when he is really just a man that can also fall ill."
-swe.91.a:0 "Hold a Rally to prove that Flyg is just fine!"
-swe.91.b:0 "Time to switch to damage control!"
+swe.91.d:0 "플리그 동지가 심장마비로 쓰러진 이후 의사가 예견했던 대로 그의 짧은 호흡은 악화일로를 걸었습니다. 그 결과로 총서기는 공개 석상에 있었음에도 불구하고 긴급 전화를 걸었는데, 이로 인해 대중들 사이에서 총서기의 건강에 무언가 문제가 생겼다는 소문이 퍼지고 있습니다. 아직은 심장마비와 관련된 보도는 주의 깊게 검열되고 있습니다.\n\n우리가 닐스 플리그 개인 숭배에 너무도 많은 것을 투자한 데 대한 반발으로 병에 걸릴 수 있는 한낱 인간에 불과한 플리그를 정부가 신으로 묘사하여 스웨덴 인민을 속이려 했다는 소문이 퍼져나가고 있습니다."
+swe.91.a:0 "플리그의 상태가 양호하다는 사실을 보여주기 위해 집회를 열어라!"
+swe.91.b:0 "피해 제어 체제로 전환할 때이다!"
 
-swe.92.t:0 "The Rally is Unsuccessful"
-swe.92.d:0 "The rally we organised to prove the health of our eternal general secretary has not been able to end the doubts; in fact, the situation has worsened as a result because while the speech started relatively smooth, it was easy to observe that the General Secretary was not well from the very beginning and as the speech continued a clear fatigue overcame the General Secretary. It made one journalist even feel bold enough to want to write that Nils Flyg's life has been shortened by three months by this event. Naturally, this counterrevolutionary scum has swiftly been taken care of."
-swe.92.a:0 "I tell you, he is in good health!"
+swe.92.t:0 "집회가 실패로 끝나다"
+swe.92.d:0 "영원한 총서기의 건강을 증명하기 위해 조직한 집회는 오히려 의심을 증폭시키기만 했습니다. 연설이 비교적 순조롭게 시작된 것은 사실이지만, 줄곧 총서기의 상태가 좋지 않아 보였고 피로감이 팽배해 있다는 사실을 쉽게 볼 수 있었기 때문에 상황은 악화되었습니다. 결국 이 집회로 인해 닐스 플리그의 생명이 3개월이나 단축되었을지도 모른다는 기사가 나왔습니다. 당연히 이 반혁명적인 쓰레기 기자는 신속히 처리되었습니다."
+swe.92.a:0 "내가 말했잖아, 건강에 문제가 없다고!"
 
-swe.93.t:0 "A Hotel Room has been requisitioned"
-swe.93.d:0 "As the condition of our General Secretary slowly deteriorates, he has become unable to make the daily travel from villa Tomtebo, the home of Flyg he acquired in 1924. As it is important for his duties as General Secretary that he is able to convene with congress and other officials of the Swedish state, he has requisitioned a hotel room close to the Stockholm castle, where the assembly convenes and he has his office. Reportedly he is distressed by the fact that he will for the time being live in a hotel room."
-swe.93.a:0 "It's for the good of the country..."
+swe.93.t:0 "호텔 방을 요청하다"
+swe.93.d:0 "총서기의 건강이 서서히 악화되면서 그는 1924년에 자택으로 매입한 톰테보 지역의 빌라에서 매일 출근하는 것 조차 힘든 수준에 이르렀습니다. 총서기로서 직무상 스웨덴 주 의회나 내각 장관들과 회견하는 일이 중요하기 때문에 그는 의회 소집 이후 총서기 사무실이 있는 스톡홀름 성 근처에 있는 호텔 방을 징발했습니다. 그는 당분간 호텔방에서 지내야 한다는 사실에 괴로워하고 있습니다."
+swe.93.a:0 "국가를 위한 어쩔수 없는 희생이야..."
 
-swe.94.t:0 "The Motion Linderot"
-swe.94.d:0 "Since the totalist seizure of power, the Swedish congress had become a mere rubberstamping institution for General Secretary Flyg, with little in the way of upsets. The congress was filled with committed totalists, except for about ~30% of the delegates, who were not removed to retain the pretense of democracy and had rallied around Nils Flyg's former associate Karl Kilbom and basically unsuccessfully vote against almost every proposal, with every proposal getting the exact same amount of seats in favour and against since the consolidation of VPT control.\n\nThis morning, this atmosphere of political apathy was suddenly crushed: Sven Linderot, the leader of a faction within the VPT in favour of greater internationalism and a lesser (European) nationalist doctrine with the party, suddenly pitched a motion to establish a 'Politiska Byrån' - political bureau - to take over the General Secretary's duties on behalf of congress as long as his condition will not allow him to properly exercise said duties. This was swiftly condemned by Flyg loyalists, headed by Arvid Olsson, yet the Kilbommare, witnessing this split in their nemesis, capitalised and supported the motion. For the first time since 1937, a motion against the will of the Flyggists passed."
+swe.94.t:0 "린데로트의 발의"
+swe.94.d:0 "전체주의자가 권력을 장악한 이후 스웨덴 의회는 플리그 총서기의 단순한 거수기 역할을 하는 기관으로 전락해 있었고, 이에 불만을 가지는 의원도 거의 없었습니다. 의회는 약 30%의 대의원을 제외하면 대부분 헌신적인 전체주의자들로 채워졌습니다. 대의원들은 민주주의라는 가식을 유지하기 위해 남겨두었을 뿐입니다. 그들은 닐스 플리그의 이전 동료였던 칼 킬봄을 중심으로 결집해서 좌파 전체주의자와 같은 의석을 확보하여 그들에게 대항해야 한다는 주장을 내세웠지만 선거에서 패배했습니다.\n\n오늘 아침, 이런 식으로 정치에 무관심한 분위기가 갑자기 붕괴되었습니다. 좌파 전체주의자당 내에서 국제주의를 지지하고 국가주의를 축소하자는 분파를 이끄는 스벤 린데로트가 의회를 대변하여 현재 총서기가 업무를 모두 수행할 수 없다고 지적하면서 업무를 분담하기 위해 'Politiska Byrån'이라는 정치국을 설립하자는 발의를 한 것입니다. 이 제안은 아르비드 올슨을 중심으로 결집한 플리그에 충성파에게 격렬한 비난을 받았지만, 노동자중앙위원회는 라이벌 정당이 분열되는 현 상황에서 이익을 볼 수 있다는 사실을 직감하고 그 제안에 지지를 표명했습니다. 1937년 이후 최초로 플리그주의의 의지에 반하는 발의가 통과되었습니다."
 swe.94.a:0 "저놈들이 감히!"
 
-swe.95.t:0 "The Appointment of the 'Politiska Byrån'"
-swe.95.d:0 "Following the passing of the Linderot Motion through congress, congress had to elect the delegates that would become members of the bureau. Unsurprisingly, Linderot had pitched his own list with himself as the chairman of the bureau and loyalists for the rest, which would essentially give him all power Flyg previously possessed. The Kilbommare did not cave to that however, and moved to present their own alternative list of syndicalist democracy proponents headed by Kilbom himself. Olsson and the Flyggists were wary of being left the opposition incapable of stopping the motion again, and resolved it would be better to help one of the two sides to the majority they require to take the bureau - hopefully the side that would be the least capable of removing Flyg from power."
-swe.95.a:0 "Support Linderot - at least he is totalist!"
-swe.95.b:0 "Support Kilbom - at least he didn't betray us!"
+swe.95.t:0 "'Politiska Byrån' 임명"
+swe.95.d:0 "의회에서 린데로트의 발이가 통과된 이후, 의회는 정치국에 임명될 인사를 선출해야 했습니다. 별로 놀랍지도 않게, 린데로트는 스스로가 정치국장이자 다른 모든 이에게 충성하는 자가 되어야 한다고 인사 목록에 자신의 이름을 올렸고, 계획대로만 된다면 플리그의 권력을 그가 모두 이어받을 수 있게 만들었습니다. 그러나 노동자중앙위원회는 여기에 굴하지 않았고 자신의 지지층인 생디칼리즘 민주주의자들이 포함된 다른 인사 목록을 작성하려는 움직임을 시작했습니다. 올슨과 플리그주의자들은 자신들이 발의를 저지할 능력이 없다는 사실을 직감했고 양측 중 어느 편이 다수결을 차지하지 못하여 플리그의 권력을 빼앗아가지 못할지 계산하여 그 쪽에 가담하기로 결정했습니다."
+swe.95.a:0 "린데로트를 지지한다 - 적어도 그는 전체주의자니까!"
+swe.95.b:0 "킬봄을 지지한다 - 적어도 그는 배신자는 아니니까 !"
 
-swe.96.t:0 "Politiska Byrån orders Flyg be moved home!"
-swe.96.d:0 "With his hold over the Political Bureau of his own creation, Sven Linderot was given de-facto in control over the country. The first act of the bureau is to have Flyg be moved back to Tomtebo. According to the bureau, this is so the General Secretary can rest, but most consider the real underlying reason is to render Flyg politically pacified. After all, without his hotelroom Flyg can't easily get to the halls of power in a good condition and thus it will be significantly easier for Linderot and his companions to control the country and Flyg's omnipresent supporters. Unsurprisingly, the General Secretary resisted with all the power he had, but the police officers 'to protect him' were relentless."
-swe.96.a:0 "It is for your own good, Nisse!"
+swe.96.t:0 "Politiska Byrån이 플리그에게 귀가를 명령하다!"
+swe.96.d:0 "스벤 린데로트는 자신이 만든 정치국을 장악하면서 국가를 장악할 수 있는 실권을 장악했습니다. 정치국이 가장 먼저 시행한 일은 플리그를 톰테보로 되돌려보낸 것입니다. 정치국은 이 조치가 총서기의 편안한 휴식을 위한 조치였다고 설명했지만, 대부분은 이 조치의 근본적 동기는 플리그를 정치적으로 평정하고자 한 데서 나왔다고 생각합니다. 결국, 플리그가 호텔방에서 쫓겨난다면 그는 권력의 전당에 쉽게 갈 수 없는 상황이기 때문에 린데로트와 동료들이 국가와 플리그 지지자들을 훨씬 쉽게 통제할 수 있게 될 것입니다. 뜻밖에도 총서기는 온 힘을 다해 저항했지만, 경찰관들은 그를 '보호'한다면서 가차없이 명령을 수행했습니다."
+swe.96.a:0 "이건 다 자네를 위한 거야!"
 
-swe.97.t:0 "The Political Bureau gathers for the next move!"
-swe.97.d:0 "With the General Secretary out of the picture, the control of the Political Bureau is unlimited. Now a choice lies before Linderot: either he could announce Flyg's resignation now while Flyg is incapable to react and in poor health, or he could hold his horses, ruling the country for the foreseeable future, taking the gamble that Flyg will not recover and possibly go after him in the future for what he just did."
-swe.97.a:0 "Announce Flyg's resignation!"
-swe.97.b:0 "Let us remain just where we are!"
+swe.97.t:0 "정치국이 다음 조치를 취하다!"
+swe.97.d:0 "총서기가 힘을 잃으면서 정치국의 통제력은 무한정 성장했습니다. 이제 선택권은 린데로트 앞에 있습니다. 플리그가 반응할 능력조차 잃고 건강은 악회되고만 있는 지금, 린데로트는 플리그의 사임을 발표할 수도 있고, 아니면 가까운 미래에 통치력을 회복할지도 모르는 그를 달래줄 수도 있습니다."
+swe.97.a:0 "플리그의 사임을 발표해라!"
+swe.97.b:0 "자리를 지켜주어라!"
 
 swe.98.t:0 "총비서 선거"
-swe.98.d:0 "With Nils Flyg 'resigned' Linderot's own ambitions have been exposed. The Flyggists and mixed totalists, now firmly aware of what Linderot is trying to do and that Flyg's resignation wasn't his own decision, pitch comrade Flyg and exclaim that they will never support 'the rat' Sven Linderot for General Secretary, saying they'll put in even Kilbom into that office before Linderot. The Kilbommare opposition meanwhile, seek to do exactly that, but also among them it is clear, that by the guise of 'better the devil you know' and the consideration that Flyg is in poor shape, they are inclined to support Flyg. It seems Linderot has overplayed his hand; he has lost the race before it even began and knowing that either side won't be soft on him for his attempted powergrab, his supporters are bailing out left and right. The question is however, which side will cave to the other first?"
-swe.98.a:0 "Flyg is reelected in the third round!"
-swe.98.b:0 "Kilbom is elected in the third round!"
+swe.98.d:0 "닐스 플리그가 사임'당하자' 린데로트의 야망이 만 천하에 드러났습니다. 플리그주의자들과 여러 전체주의자들은 이제 린데로트가 뭘 하고자 하는지와 플리그의 사임이 자신의 의지와 상관 없이 이루어졌다는 사실을 알게되었습니다. 그리고 플리그 동지를 설득해서 킬봄을 그 직위에 앉히는 한이 있더라도 쥐새끼같은 스벤 린데로트를 절대로 지지하지 않을 것이라 다짐했습니다. 한편 야당 노동자중앙위원회가 그들의 지지를 받아들이고는 있지만, 한편으로는 '악마들 중에서는 그래도 아는 놈이 낫다'는 식으로 상태가 좋지 않은 플리글를 지지하는 경향이 있는 것도 사실입니다. 린데로트는 너무 성급했던것 같습니다. 그는 경기가 시작도 하기 전에 이미 패배했고 권력을 쥐려는 시도를 너무 노골적으로 했기 때문에 어느 한쪽도 그를 지지하지 않게 되었고 지지자들은 구석으로 밀려나고 있습니다. 지금 가장 큰 문제는 어느 쪽이 먼저 굴복할 것인가에 있습니다?"
+swe.98.a:0 "플리그가 3차 투표에서 재선임되었다!"
+swe.98.b:0 "킬봄이 3차 투표에서 선임되었다!"
 
-swe.99.t:0 "The purge of the Linderot faction!"
-swe.99.d:0 "With the removal of Flyg, the Political Bureau was automatically dissolved too as it was a kind of regency for the General Secretary. As such, Linderot and his loyalists had been planning to invoke the articles included in their motion to reestablish the political bureau. However, these plans were cut short when the authorities arrived at Linderot's doorstep and arrested him on the suspicion of reactionary sympathies. In a show trial the same day he was with hastily convicted to thirty years of hard labour and sent on his way to a prison complex in the north of Sweden specifically designated for enemies of the regime. He was not seen again in Stockholm.\n\nSeveral other staunch Linderot loyalists have been put into custody too. The power of Linderot and his internationalist totalists has been broken."
-swe.99.a:0 "Good Riddance!"
+swe.99.t:0 "린데로트파 숙청!"
+swe.99.d:0 "플리그가 제거되면서 일종의 섭정일 뿐이었던 정치국은 자동으로 해산되었습니다. 이와 같이 린데로트와 그에게 충성하는 분파는 정치국 재설립안이 포함된 법안을 발의하려는 계획을 작성했습니다. 그러나 당국이 린데로트의 집에서 그를 반동 동조 혐의로 체포하면서 이 계획들은 모조리 중단되었습니다. 같은 날 서둘러 열린 재판에서 그는 강제노역 30년형을 선고받고 스웨덴 북부의 한 교도소로 보내졌습니다. 이후 스톡홀름에서 그를 본 자는 누구도 없습니다.\n\n다른 린데로트 충성파 인사들도 함께 구금되었습니다. 린데로트와 국제주의적 전체주의의 힘은 완전히 박살났습니다."
+swe.99.a:0 "속이 에서는 그래도 아는 놈이 낫다'는 식으로 상태가 좋지 않은 플리글를 지지하는 경향이 있는 것도 사실입니다. 린데로트는 너무 성급했던것 같습니다. 그는 경기가 시작도 하기 전에 이미 패배했고 권력을 쥐려는 시도를 너무 노골적으로 했기 때문에 어느 한쪽도 그를 지지하지 않게 되었고 지지자들은 구석으로 밀려나고 있습니다. 지금 가장 큰 문제는 어느 쪽이 먼저 굴복할 것인가에 있습니다?"
+
+874
+
+swe.98.a:0 "플리그가 3차 투표에서 재선임되었다!"
+
+875
+
+swe.98.b:0 "킬봄이 3차 투표에서 선임되었다!"
+
+876
+
+
+
+877
+
+swe.99.t:0 "린데로트파 숙청!"
+
+878
+
+swe.99.d:0 "플리그가 제거되면서 일종의 섭정일 뿐이었던 정치국은 자동으로 해산되었습니다. 이와 같이 린데로트와 그에게 충성하는 분파는 정치국 재설립안이 포함된 법안을 발의하려는 계획을 작성했습니다. 그러나 당국이 린데로트의 집에서 그를 반동 동조 혐의로 체포하면서 이 계획들은 모조리 중단되었습니다. 같은 날 서둘러 열린 재판에서 그는 강제노역 30년형을 선고받고 스웨덴 북부의 한 교도소로 보내졌습니다. 이후 스톡홀름에서 그를 본 자는 누구도 없습니다.\n\n다른 린데로트 충성파 인사들도 함께 구금되었습니다. 린데로트와 국제주의적 전체주의의 힘은 완전히 박살났습니다."
+
+879
+
+swe.99.a:0 "속이 다 시원하구만!"
 
 swe.100.t:0 "Politiska Byrån dissolves congress!"
 swe.100.d:0 "With Kilbom in control of the bureau that takes care of the duties of the most important office of the country, the bureau has decreed that the political barriers imposed by General Secretary Flyg earlier are to be removed and had the congress dissolve. In a month's time all delegates of the congress shall face a free election, with no political barriers holding you back from partaking. It is obvious that the Kilbommare are out on getting a congress hostile to totalist rule to commence a recall vote on General Secretary Flyg, to then restore democracy."
