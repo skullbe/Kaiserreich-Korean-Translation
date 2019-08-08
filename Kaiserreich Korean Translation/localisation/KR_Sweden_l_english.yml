@@ -314,11 +314,11 @@ SWE_pansartrupperna_desc:0 "미래 전장은 탱크전이 될 것입니다. 다�
 SWE_blixtkrieg:0 "전격전 교리"
 SWE_blixtkrieg_desc:0 "스웨덴어로 전격전이라는 뜻을 가진 'Blixtkrig'이론은 스웨덴의 적이 반격할 기회를 주지 않기 위해 신속히 공격하여 속전속결을 거두는 전략입니다. 만약 이 작전을 성공적으로 실행에 옮길 수만 있디만, 이 교리는 가히 혁명적인 결과를 가져올 수 있습니다"
 SWE_integrated_support:0 "통합된 지원"
-SWE_integrated_support_desc:0 "Our forces may not be able to defeat the enemy without the presence and extensive support of the supporting brigades. We should integrate them into the divisions to increase their efficiency and to ensure they will not hold us up."
+SWE_integrated_support_desc:0 "지원 여단의 광범위한 지원이 없이는 적을 이길 수 없을지도 모릅니다. 그들을 사단에 통합하여 효율성을 높인다면 더 이상 지연은 없을 것입니다."
 SWE_national_defence:0 "국가방위"
-SWE_national_defence_desc:0 "Sweden should primarily focus on the defence of the country proper: after all, without our homeland secure, we cannot maintain a meaningful contribution to the wider war effort."
+SWE_national_defence_desc:0 "우선적으로 스웨덴 국가 방위에 초점을 맞추어야 합니다. 결국 조국이 안전하지 않다면 거시적인 전쟁 행위에서도 의미 있는 작전을 유지할 수 없습니다."
 SWE_aggressive_army:0 "카롤루스 렉스의 유산"
-SWE_aggressive_army_desc:0 "Sweden was at the height of its power when it could afford military adventurism abroad. We should recreate the circumstances of that era so that we may rise into military relevance once more!"
+SWE_aggressive_army_desc:0 "스웨덴은 해외에서 군사적 모험을 감당할 수 있었던 시절이 가장 강했던 시대였습니다. 그 시대의 상황을 재현해서 다시 한번 군사적 사안에 우리가 등장해야만 합니다!"
 
 SWE_old_naval_construction:0 "구 해군 구성"
 SWE_old_naval_construction_desc:0 "During the interwar we have been working on expanding the Swedish navy by starting the construction of new ships, however these projects stalled as it was considered of lesser importance. However with the world becoming increasingly unstable with the years, it might be worthwhile to finish these old projects to protect Sweden's shores."
@@ -400,7 +400,7 @@ SWE_set1_desc:0 "We are at a point now economically when we can comfortably lowe
 SWE_set2:0 "군에 자금지원"
 SWE_set2_desc:0 "The militarists are an important force in Sweden, and to ensure their blessing we need to provide them with investments. This also doubles for our protection."
 SWE_set3:0 "법치 사회!"
-SWE_set3_desc:0 "Sweden has now become a morally righteous and lawful nation, as it should be."
+SWE_set3_desc:0 "스웨덴은 이제 도덕적이고 법적으로 정의로운 국가로 거듭났습니다."
 SWE_set4:0 "모든 왕국은 보호되야한다!"
 SWE_set4_desc:0 "All of the realm shall be defended! We should not prioritize defense over any part of sweden, instead opting to protect everyone equally!"
 SWE_for_our_nation:0 "조국을 위하여!"
@@ -894,86 +894,86 @@ swe.102.b:0 "세버린이 총비서로 선출되었다."
 swe.102.c:0 "의회가 총비서 직책을 폐지했다."
 
 swe.103.t:0 "한 시대의 끝" #Linderot rebuffed or recall vote failed#
-swe.103.d:0 "The first Grand Secretary of Sweden has been hit by a second heart attack today. This time, he was not quite as lucky as in january '41, and passed away after the calamity. His wife was rushed to his hotelroom as fast as possible but when she arrived it had already been too late - the General Secretary passed away alone. While she lost her husband, Sweden lost its leader, and chaos overtakes congress as a vacuum in power has suddenly spawned out of this as a result. This vacuum was soon filled however: with Linderot and Kilbom having been outplayed earlier and the VPT faction reunited, it seems clear who shall become the new chairman of the VPT."
+swe.103.d:0 "오늘 스웨덴 초대 총서기에게 두번째 심장마비가 닥쳤습니다. 41년 1월과 달리 오늘은 그다지 운이 좋지 않았고, 총서기는 서거했습니다. 아내는 가능한한 빠르게 호텔방으로 달려갔지만 그녀가 도착했을때는 이미 너무 늦은 후였습니다. 총서기는 홀로 세상을 떠났습니다. 그녀가 남편을 잃었을 때 스웨덴은 지도자를 잃었고 그 결과 권력에 공백이 생겼습니다. 의회는 혼돈에 빠졌지만, 오래 지나지 않아 권력 공백이 메꿔졌습니다. 린데로트와 킬봄이 모두 정계에서 영향력을 잃은 지금, 재결합한 좌파 전체주의자 정당의 의장이 누가 될 것인지는 분명해 보입니다."
 swe.103.a:0 "올슨 총비서 동지 만세!"
 
 swe.104.t:0 "한 시대의 끝" #Linderot seized control#
-swe.104.d:0 "The first Grand Secretary of Sweden has been hit by a second heart attack today. This time, he was not quite as lucky as in january '41, and passed away after the calamity. Flyg had spent his last months grumbling and raging against Sven Linderot, who as chairman of a 'Political Bureau' had him moved home 'to rest' as a result of which he could do nothing against the chairman's de-facto exercise of power that technically belonged to him. For better or for worse though, he was at home at his Tomtebo villa; had he remained in the hotel room that he had been assigned at first, he might well have died alone, without his wife and closest supporters by his side.\n\nCongress was swift in declaring Sven Linderot the second Chairman of Sweden, who had discretely been consolidating his power while ruling in Flyg's place. A new wind blows through the streets of Stockholm now."
+swe.104.d:0 "오늘 스웨덴 초대 총서기에게 두번째 심장마비가 닥쳤습니다. 41년 1월과 달리 오늘은 그다지 운이 좋지 않았고, 총서기는 서거했습니다. 플리그는 '정치국' 국장 스벤 린데로트가 원래 플리그에게 주어져야만 했던 정치적 실권을 휘두르는 것을 막을 수 없었습니다. 결국 그는 '휴식'이라는 명목 하에 자신을 반강제로 자택에 보내졌고 이 사건에 대해 분노를 터트리고 불만을 토로하면서 최후의 한 달을 소비했습니다. 좋든 나쁘든 간에 그는 톰테보의 자택에서 있을 수 밖에 없었고, 가족과 측근들의 가운데 죽음을 맞이했습니다. 만약 그가 처음에 배정받은 호텔 방에 남아있었다면 그는 홀로 쓸쓸히 죽었을 것입니다.\n\n한편 의회에서는 플리그가 권력을 잃어가는 동안 착실히 권력을 다져온 2대 의장 스벤 린데로트가 플리그의 자리를 차지할 통치자라고 선언했습니다. 지금, 스톡홀름 거리에는 새로운 바람이 불고 있습니다."
 swe.104.a:0 "린데로트 총비서 동지 만세!"
 
 swe.105.t:0 "한 시대의 끝" #Recall vote succeeded#
-swe.105.d:0 "The first Grand Secretary of Sweden has been hit by a second heart attack today. This time, he was not quite as lucky as in january '41, and passed away after the calamity. Flyg had spent his last months grumbling and raging against his former comrade-in-arms Karl Kilbom, who as chairman of a 'Political Bureau' reinstituted the socialist democracy that had been in place just after the revolution, which violated the principles of the totalist charter as established in 1938 and then weaponised it to oust him from office. For better or for worse though, he was at home at his Tomtebo villa; had he remained in the hotel room that he had been assigned at first, he might well have died alone, without his wife and closest supporters by his side."
+swe.105.d:0 "오늘 스웨덴 초대 총서기에게 두번째 심장마비가 닥쳤습니다. 41년 1월과 달리 오늘은 그다지 운이 좋지 않았고, 총서기는 서거했습니다. 플리그는 한때 동지였던 칼 킬봄에게 분노를 터트리고 불만을 토로하면서 최후의 한 달을 소비했습니다. '정치국' 국장 칼 킬봄이 혁명 직후에 세워진 바 있었던 전체주의 헌장에 위배되는 사회주의적 민주주의를 다시 세워서 이를 정치적 무기로 사용해 플리그를 몰아냈기 때문이었습니다. 좋든 나쁘든 간에 그는 톰테보의 자택에서 있을 수 밖에 없었고, 가족과 측근들의 가운데 죽음을 맞이했습니다. 만약 그가 처음에 배정받은 호텔 방에 남아있었다면 그는 홀로 쓸쓸히 죽었을 것입니다."
 swe.105.a:0 "일부 결점이 있었더라도 위대한 혁명가였다!"
 
 swe.106.t:0 "한 시대의 끝" #Kilbom elected after Linderot rebuffed#
-swe.106.d:0 "The first Grand Secretary of Sweden has been hit by a second heart attack today. This time, he was not quite as lucky as in january '41, and passed away after the calamity. Flyg had spent his last months grumbling and raging against his former comrade-in-arms Karl Kilbom, who as the second General Secretary reinstituted the socialist democracy that had been in place just after the revolution which violated the principles of the totalist charter as established in 1936, and Sven Linderot, who engineered Flyg's retirement. For better or for worse though, he was at home at his Tomtebo villa; had he remained in the hotel room that he had been assigned at first, he might well have died alone, without his wife and closest supporters by his side."
+swe.106.d:0 "오늘 스웨덴 초대 총서기에게 두번째 심장마비가 닥쳤습니다. 41년 1월과 달리 오늘은 그다지 운이 좋지 않았고, 총서기는 서거했습니다. 플리그는 1936년 제정된 전체주의 헌장의 원칙에 위배되는 사회주의적 민주주의를 재설립한 2대 총서기 칼 킬봄과 플리그에게서 권력을 빼앗는 계략을 세운 스벤 린데로트에게 분노를 터트리고 불만을 토로하면서 최후의 한 달을 소비했습니다. 좋든 나쁘든 간에 그는 톰테보의 자택에서 있을 수 밖에 없었고, 가족과 측근들의 가운데 죽음을 맞이했습니다. 만약 그가 처음에 배정받은 호텔 방에 남아있었다면 그는 홀로 쓸쓸히 죽었을 것입니다."
 swe.106.a:0 "일부 결점이 있었더라도 위대한 혁명가였다!"
 
 swe.107.t:0 "닐스 플리그의 죽음" #Sweden was a different kind of socialist or democratic#
-swe.107.d:0 "The characteristic leader of the VPT, Nils Svante Flyg, has been hit by a second heart attack today. Ever since his first heart attack in january '41 he had been known to be of ill health, and to allow him to remain politically active, the party had secured him a hotel room in Stockholm. To this second heart attack however, he succumbed. The chairmanship of the VPT has moved on to Arvid Olsson."
+swe.107.d:0 "좌파 전체주의자의 상징적인 지도자 닐스 스반트 플리그가 오늘 두 번째 심장마비를 맞았습니다. 41년 1월 그에게 첫번째 심장마비가 닥친 이래로 그는 건강이 나쁜 것으로 알려졌으며, 직후 정당에서 플리그가 정치적 활동을 할 수 있도록 호텔 방을 확보한 바 있었습니다. 그러나 플리그는 오늘 두 번째 심장마비에 마침내 굴복하고 말았습니다. 좌파 전체주의자 정당의 당수직은 아르비드 올슨에게로 넘어갔습니다."
 swe.107.a:0 "평화 속에 잠들길!"
 
 swe.108.t:0 "닐스 플리그의 죽음" #Sweden was authdem, pataut or natpop#
-swe.108.d:0 "We have received reports on one of the most infamous of Swedish syndicalists, Nils Svante Flyg, to have succumbed to a second heart attack while in exile in [getFlygsRefuge]. His leadership of Sweden's totalist faction has been taken over by his associate Arvid Olsson."
+swe.108.d:0 "가장 악명높은 스웨덴 생디칼리스트 인사 닐스 스반트 플리그와 관련된 보고가 들어왔습니다. [getFlygsRefuge]에서 망명생활을 하던 중 두 번째 심장마비가 닥쳐와 결국 굴복했다는 모양입니다. 그의 동료였던 아르비드 올슨이 스웨덴 전체주의 지도부를 장악했습니다."
 swe.108.a:0 "속이 시원하군!"
 
 swe.109.t:0 "한 시대의 끝" #Nils Flyg can't be evacuated and Stockholm under attack#
-swe.109.d:0 "As the enemy closes in on Stockholm, we had to conclude that the ill health of the General Secretary renders us unable to evacuate him. As such, the totalist leader had no choice but to wait out the enemy forces, and had been given a cyanide pill to prevent himself from being taken into enemy custody. Sweden is now without a leader in this critical time; we need to select a new General Secretary at once!"
+swe.109.d:0 "적이 스톡홀름 근방에 접근했으므로 건강이 나쁜 총서기를 대피시킬 수 없다는 결론에 도달했습니다. 전체주의 지도자는 적군을 기다리던 도중 적에게 붙잡히는 사태를 막기 위해 청산가리를 투여받았습니다. 이 중대한 시기에 스웨덴에 지도자가 없는 상황입니다. 즉시 새로운 총서기를 선출해야 합니다!"
 swe.109.a:0 "올슨이 새 총비서다"
 swe.109.b:0 "린데로트가 새 총비서다"
-swe.109.c:0 "Kilbom이 새 총비서다"
+swe.109.c:0 "킬봄이 새 총비서다"
 
 swe.110.t:0 "한 시대의 끝" #First heart attack happens while Stockholm is occupied#
-swe.110.d:0 "Nils Flyg has been hit by a heart attack today. While perhaps, under proper care, the man would have survived, Flyg was thanks to the fall of Stockholm in a military camp, where the doctors were already overworked with wounded soldiers, lacked the supplies to help Flyg. He went out peacefully."
+swe.110.d:0 "오늘 닐스 플리그에게 심장마비가 닥쳐왔습니다. 적절한 조치가 있었더라면 살아남았을지도 모르지만, 스톡홀름이 함락된 지금 이미 부상병으로 가득 차 있으며 물자 부족에 시달리는 군 막사에서 그에게 적절한 치료를 제공할 방법은 없었습니다. 그는 평화롭게 세상을 떠났습니다."
 swe.110.a:0 "올슨을 새 총비서로 만들어라"
 
 swe.111.t:0 "스웨덴의 2차 올란드 침공"
-swe.111.d:0 "For a second time, the perfidious Swedes have sent military forces to the Åland archipelago in the Baltic Sea, with the hopes of annexing it. This is a blatantly illegal act, considering our victory in the arbitration of the dispute during the 1920s. However, now that we're under full-scale attack and the verge of collapse, Sweden saw its chance to take what is righfully ours!"
+swe.111.d:0 "저 신의 없는 스웨덴인들이 발트해에 있는 올란드 제도에 두 번째로 군대를 파견해 합병을 꿈꾸는 모양입니다. 1920년대 분쟁 조정 위원회 판결에서 우리가 승리한 사실을 생각한다면 이는 노골적으로 불법적인 침략행위입니다. 하지만, 우리가 전면적인 공격을 받아 붕괴 위험에 처한 지금 스웨덴은 우리의 정당한 영토를 침탈할 기회를 얻었습니다!"
 swe.111.a:0 "우리가 할 수 있는 것은 아무 것도 없다!"
 swe.111.b:0 "독일의 힘을 빌려서 스웨덴을 후퇴시키자!"
 swe.111.c:0 "저들이 퇴각하지 않는다면 전쟁 뿐이다!"
 
 swe.112.t:0 "올란드 침공 성공"
-swe.112.d:0 "While the Finns are unsurprisingly rather angry about our rightful takeover of the Åland isles, our move has been successful. The limits opposed in the German arbitration in the 1920s, in which they foolishly ruled in favour of the Finns, meant that military installations on the islands were limited, and we took control over it with little resistance!"
+swe.112.d:0 "우리가 올란드 제도를 정당하게 되찾은 것에 대해 핀란드인들이 큰 분노를 터트렸지만, 작전은 성공적이었습니다. 1920년에 어리석게도 핀란드에게만 편파판정을 한 독일의 중재는 그 섬들을 실질적으로 핀란드군이 통제하고 있다는 점에 근거했습니다. 하지만 지금은 우리가 거의 아무런 저항 없이 군사 시설을 장악하는데 성공한 상태입니다!"
 swe.112.a:0 "올란드여, 조국으로 귀환한 것을 환영한다"
 
 swe.113.t:0 "핀란드가 지원을 요청하다!"
-swe.113.d:0 "The Finns have been under severe pressure in the ongoing war, and Sweden has ruthlessly taken advantage of that, much like during the Finnish civil war two decades ago. The Finns are imploring us to show that our ruling in the 1920s is to be enforced, and to force the Swedes to retreat, but can we really afford to antagonize the Swedes in the current situation?"
+swe.113.d:0 "핀란드는 현재 진행중인 전쟁에서 심각한 피해를 받았고, 무자비한 스웨덴은 20년전 핀란드 내전때와 같이 이 사태를 이용하고자 합니다. 핀란드인들은 1920년에 우리가 내린 판결을 수호하여 스웨덴군을 철수시켜 달라고 간청하고 있지만, 이 상황에 정말로 스웨덴을 적대할 필요가 있겠습니까??"
 swe.113.a:0 "도울 수 있는 방법이 없다!"
 swe.113.b:0 "스웨덴에게 철수를 요구해라!"
 
 swe.114.t:0 "독일이 철수를 요구하다!"
-swe.114.d:0 "Just as we thought that we secured the isles, the Germans arrived again. And of course, biased to the Finnish side as they are, they demand that we retreat from the Åland isles. We could of course refuse in the hopes that it is a bluff, and that Germany is not really prepared to support Finland with military means. Ending up at war with the Germans however, could spell disaster."
+swe.114.d:0 "우리가 섬을 확보했다고 생각한 바로 그 때, 독일군이 돌아왔습니다. 그리고는 역시 핀란드쪽으로 편파판정을 내린 바 있던 그들은 우리에게 올란드 섬에서 철수하라고 요구했습니다. 물론 이 요구가 허세일 뿐이며 독일이 핀란드를 군사적으로 지원할 준비가 되어 있지 않다는 판단을 한다면 거절할 수도 있겠습니다. 하지만 독일과 전쟁을 벌이는 것은 재앙이 될 수도 있다는 사실을 생각해야 합니다."
 swe.114.a:0 "후퇴하자, 저들에게 반항할 수 없다!
 swe.114.b:0 "자리를 지켜라, 올란드를 포기할 수 없다!"
 
 swe.115.t:0 "스웨덴이 물러서다!"
-swe.115.d:0 "The Swedish government has given in to the pressure that was put on them following their illegal occupation of the Åland islands. They are retreating and returning the archipelago to us."
+swe.115.d:0 "스웨덴 정부는 올란드 섬 불법 점거 후 다방면으로 가해진 압력에 굴복했습니다. 군대를 철수시켜 올란드 제도를 우리에게 반환했습니다."
 swe.115.a:0 "만세!"
 
 swe.116.t:0 "스웨덴이 요구를 거부하다!"
-swe.116.d:0 "The Swedish government has refused to retreat from Åland, claiming they have a popular mandate to annex the islands from the islands' inhabitants, and that they will not abandon them again!"
-swe.116.a:0 "We didn't want to resort to violence..."
-swe.116.b:0 "Uh, well I guess it's fine then..."
+swe.116.d:0 "스웨덴 정부는 올란드 제도를 합병할 대중적인 권한을 가지고 있다고 주장하며 올란드 제도를 버리고 후퇴하라는 제안을 거부했습니다!"
+swe.116.a:0 "폭력에 의지하고 싶지 않았지만..."
+swe.116.b:0 "어, 그럼 상관 없겠지..."
 
 swe.117.t:0 "독일은 우리를 도울 수 없다"
-swe.117.d:0 "The Germans have let us know that they can't help us get the Åland islands back. It is clear that they want to avoid antagonizing Sweden at our cost."
-swe.117.a:0 "Nefarious Swedes, misusing the situation!"
+swe.117.d:0 "독일은 올란드 섬을 되찾기 위한 지원을 할 수 없다고 통보했습니다. 그들이 우리를 제물로 삼아 스웨덴의 반감을 피하려는게 분명합니다."
+swe.117.a:0 "사악한 스웨덴놈들이 이 상황을 이용하는군!"
 
 swe.118.t:0 "핀란드가 철수를 요구하다!"
-swe.118.d:0 "The Finns have let us know that our military must vacate all their sovereign territory within 48 hours or they will consider our states to be in state of war."
-swe.118.a:0 "Almost overrun by their enemies and still issuing threats, hah!"
-swe.118.b:0 "We concede, we can't afford a war with Finland."
+swe.118.d:0 "핀란드는 아군에게 48시간 내에 모든 영토에서 철수하라는 최후 통첩을 보냈습니다. 그렇지 않다면 전쟁 상태에 돌입한 것으로 간주하겠다고 합니다."
+swe.118.a:0 "적에게 거의 압도당한 지금도 여전히 큰소리 치고 있구만. 하하!"
+swe.118.b:0 "영토를 내주어라. 핀란드와 전쟁을 수행할 여력이 없다."
 
 swe.119.t:0 "스웨덴이 거부하다!"
-swe.119.d:0 "The perfidious Swedes don't seem to take us seriously because of our current military situation and refuse to return the Åland islands to our control."
-swe.119.a:0 "War it is then!"
-swe.119.b:0 "Then there's really nothing we can do..."
+swe.119.d:0 "신의없는 스웨덴놈들은 전황이 악화되어감에 따라 우리를 업신여기기로 결정했는지 올란드 섬 통제권 반환을 거부했습니다."
+swe.119.a:0 "그렇다면 전쟁뿐이다!"
+swe.119.b:0 "그렇다면 우리가 할 수 있는건 아무것도 없다..."
 
 swe.121.t:0 "스웨덴의 라그나뢰크?"
 swe.121.d:0 "Disaster! [From.GetAdjective] hordes are descending on Stockholm, the designated Asgard of Gyllenkrok's empire while our patriots mount a desperate defence to salvage the nation from their tyranny.\n\nOur beloved Riksledare, Axel Gyllenkrok, is seeing it all from a position of inactivity from his office in Stockholm, and, as a former frontline officer, contemplates fighting for the survival of the Swedish identity with the young men struggling against the [From.GetAdjective] menace in a last attempt to stave off this blatant attempt to end our nation. Reality is however that it is possible that the Riksledare will die in this endeavour, and wouldn't losing the Riksledare leave Sweden hopelessly lost?"
-swe.121.a:0 "I shall not witness our demise from an office chair!"
-swe.121.b:0 "The risk would be too great!"
+swe.121.a:0 "사무실 의자에서 죽음을 기다리고만 있을 수는 없다!"
+swe.121.b:0 "위험 부담이 너무 크다!"
 
 swe.122.t:0 "폭정의 최후!"
 swe.122.d:0 "A patrol has been inspecting the ruins of a house in Stockholm in the aftermath of the battle, when they found the remains of a Swedish officer in a most unusual uniform as well as several of his presumptive guards. Upon further inspection, it has been deduced that this officer was in fact once the nefarious Swedish dictator Axel Gyllenkrok. Clearly he and his guards had remained trapped in the building for a fairly long while, as the bodies are showing their first signs of disintegration. Regardless, the confirmation of the death of their dictator must come hard on the Swedes."
@@ -990,18 +990,18 @@ swe.124.b:0 "Ekström shall safeguard Swedish ideological purity!"
 swe.124.c:0 "Jung shall bring back normality!"
 
 swe.125.t:0 "스웨덴이 제국 조약을 떠나다"
-swe.125.d:0 "We have received word from the Swedish ambassador that they seek to end our military alliance, officially and effectively ending their reichspakt allegiance."
+swe.125.d:0 "스웨덴 대사는 공식적이고 효과적으로 제국조약에서 탈퇴하기 위해 군사 동맹을 파기하기로 했다고 알려왔습니다."
 swe.125.a:0 "저 반역자들!"
 
-swe.126.t:0 "스웨덴이 인터네셔널을 떠나다"
-swe.126.d:0 "We have received word from the Swedish ambassador that they seek to end our military alliance, officially and effectively ending their reichspakt allegiance."
+swe.126.t:0 "스웨덴이 인터내셔널을 떠나다"
+swe.126.d:0 "스웨덴 대사는 공식적이고 효과적으로 인터내셔널에서 탈퇴하기 위해 군사 동맹을 파기하기로 했다고 알려왔습니다."
 swe.126.a:0 "저 반동분자들!"
 
 swe.127.t:0 "Discontinuation of the Allmänna Säkerhetstjänsten"
 swe.127.d:0 "With the war ending and peace returning to Sweden, the special secret service structure that was established also has run its course. As a result of the desire by politicians to cut the costs, this project will now be ended and the agencies will once again run autonomously."
-swe.127.a:0 "This shall help us maintain our budget."
+swe.127.a:0 "예산을 유지하는데 도움이 될 것이다."
 
-swe.128.t:0 "Rocketry Accident"
+swe.128.t:0 "로켓 사고"
 swe.128.d:0 "One of our rockets that was being tested in our bid to extend our knowledge surrounding rocketry has been in somewhat of an accident: the trajectory of the rocket, which was supposed to drop into the baltic sea to be recollected by us, had been miscalculated. As a result of this, the rocket has only crashed almost 200km north of its original planned target. Needless to say, local authorities are all over it already."
 swe.128.a:0 "I fear that rocket is lost..."
 
@@ -1060,78 +1060,78 @@ swefocus.106.b:0 "우리는 현대식 공군이 필요하다"
 
 ### Swedish Socialism elections ###
 
-swe_syncon.1.t:0 "The Revolutionary Committee assembly - Governmental Status"
+swe_syncon.1.t:0 "혁명 위원회 회의 - 정부 형태"
 swe_syncon.1.d:0 "The Revolutionary Committee has been assembled for its first session. Tensions are high as all three parties are vying for power in this new, strange political climate. Membership numbers for all parties are exploding, although Sveriges Socialdemokratiska Vänsterparti (SSV) is the largest one by far. \n\nFrom his podium, Karl Kilbom of the SSV advocates that in the new Sweden, we (the state) look after everyone who needs it, without prying into the affairs of common citizenry. Nils Flyg of Vänsterpartiet Totalisterna (VPT) claims that citizenry police needs to be established, to 'safeguard the revolution' while Albert Jensen of Sveriges Syndikalistiska Parti (SSP) claims that every commune should look after their own." 
 swe_syncon.1.a:0 "Jensen has the right of it."
-swe_syncon.1.b:0 "Kilbom wins this round."
-swe_syncon.1.c:0 "Nils Flyg controls the debate."
+swe_syncon.1.b:0 "킬봄이 승리했다."
+swe_syncon.1.c:0 "닐스 플리그가 토론을 지배했다."
 
-swe_syncon.2.t:0 "The Revolutionary Committee assembly - Economic System"
+swe_syncon.2.t:0 "혁명 위원회 회의 - 경제 체제"
 swe_syncon.2.d:0 "The Revolutionary Committee has assembled for a second time. The initial belief that seizing power in Sweden would unify the left has now completely waned. Reforming the economy of Sweden is the topic of the day, and speaking sharply for the SSV is Anna Johansson Visborg, claiming that strong unions and government influence will secure worker's rights. \n\nThe VPT representative, Sven Linderot, claims that all workers should be gathered into a single, large union, and a the focus should be on massive state funded projects. Finally, Gustav Sjöström of the Syndicalists proposes the idea of commune based economy, where every region should strive to be self-sufficient."
 swe_syncon.2.a:0 "Sjöström has the right of it."
 swe_syncon.2.b:0 "Visborg wins this round."
-swe_syncon.2.c:0 "Linderot controls the debate."
+swe_syncon.2.c:0 "린데로트가 토론을 지배했다."
 
-swe_syncon.3.t:0 "The Revolutionary Committee assembly - Military Matters"
+swe_syncon.3.t:0 "혁명 위원회 회의 - 군사 문제"
 swe_syncon.3.d:0 "For a third time the Revolutionary Committee holds session. With the current military disloyal to the red cause, the various leaders are discussing radical army reforms. Zeth Höglund of the SSV wants to reintegrate the Swedish army through education of staff and soldiers, where soldiers council's should elect officers out of their own ranks. \n\nGustav Johansson from VPT claims that a strong army needs a strong central command, and that a National School for politically indoctrinated officers must be the backbone of our new army. The SSP representative, Nisse Lätt, believes armies should be trained and used for local, defensive deployment and only summoned elsewhere for extreme situations."
 swe_syncon.3.a:0 "Lätt has the right of it."
 swe_syncon.3.b:0 "Höglund wins this round."
-swe_syncon.3.c:0 "Johansson controls the debate."
+swe_syncon.3.c:0 "요한손이 토론을 지배했다."
 
-swe_syncon.4.t:0 "The Revolutionary Committee assembly - Societal Doctrine"
+swe_syncon.4.t:0 "혁명 위원회 회의 - 사회 정책"
 swe_syncon.4.d:0 "Our fourth session has been assembled. Outside the doors, Sweden lies in chaos, but inside we are assured we can sort it out. Our new society must build upon equality, a strong union and compassion for your fellow man, or so claims Östen Unden of SSV. \n\nHilding Hagberg from VPT believes that we must put faith in a strong man to lead us all into an era where Sweden isn't just a strong nation, it's a great nation, rivaled by none and feared by all! The most passionate of all speakers however is the SSP representative Elise Ottosen Jensen, who envisions her dream of a society free of oppression, where one cares and shares with your local community."
 swe_syncon.4.a:0 "Jensen has the right of it."
 swe_syncon.4.b:0 "Undén wins this round."
 swe_syncon.4.c:0 "Hagberg controls the debate."
 
-swe_syncon.5.t:0 "The General Secretary of the First Swedish Worker's Assembly" #Totalist#
+swe_syncon.5.t:0 "초대 스웨덴 노동자 의회 총서기" #Totalist#
 swe_syncon.5.d:0 "The Totalists have achieved a total victory in the revolutionary assemblies. With a majority of our latest proposals having been approved, it turns out that our strategy of talking the loudest during the debates has been successful. With a new Totalist regime ready to rule Sweden with an iron fist, it is clear who will become the General Secretary of the First Swedish Worker's Assembly: Nils Svante Flyg, undisputed leader of the totalist movement shall rise to power and stand at the top while Sweden shall rise in this new age!"
-swe_syncon.5.a:0 "Nils Flyg will raise Sweden to the sky."
+swe_syncon.5.a:0 "닐스 플리그가 스웨덴을 천상으로 끌어올릴것이다."
 
-swe_syncon.6.t:0 "The General Secretary of the First Swedish Worker's Assembly" #RadicalSocialist#
+swe_syncon.6.t:0 "초대 스웨덴 노동자 의회 총서기" #RadicalSocialist#
 swe_syncon.6.d:0 "The Radical Socialists have won in the revolutionary assemblies. With a majority of our latest proposals having been approved, it turns out that our strategy of talking the loudest during the debates has been successful. With a new radical socialist regime ready to climb to the seat of ultimate power as General Secretary of the First Swedish Worker's Assembly we have a single, last decisions to make. \n\nWho should sit there? Many thought of Kilbom, a former sailor and journalist, as the obvious choice, but the famous and incredibly popular poet and writer Karin Boye has soared in the party ranks as of late."
-swe_syncon.6.a:0 "Karl Kilbom is what Sweden needs."
-swe_syncon.6.b:0 "And the day is you, Karin Boye."
+swe_syncon.6.a:0 "칼 킬봄이 스웨덴이 원하던 인재상이다."
+swe_syncon.6.b:0 "오늘은 당신의 것이오, 카린 보예."
  
-swe_syncon.7.t:0 "The General Secretary of the First Swedish Worker's Assembly" #Syndicalist#
+swe_syncon.7.t:0 "초대 스웨덴 노동자 의회 총서기" #Syndicalist#
 swe_syncon.7.d:0 "The Syndicalists have won in the revolutionary assemblies. With a majority of our latest proposals having been approved, it turns out that our strategy of talking the loudest during the debates has been successful. With a new syndicalist regime ready to climb to the seat of ultimate power as General Secretary of the First Swedish Worker's Assembly we have a single, last decisions to make. \n\nWho should sit there? The last draw has come down in between Elise Ottesen-Jensen, a former sex-educator and agitator and wife of Albert Jensen, another major figure in the syndicalist movement, and her adversary Frans Severin, another influential member of the SAC congress."
-swe_syncon.7.a:0 "Elise Ottosen-Jensen is our choice."
-swe_syncon.7.b:0 "Frans Severin is our first pick."
+swe_syncon.7.a:0 "엘리스 오테셴 젠슨을 선택하겠다."
+swe_syncon.7.b:0 "프란스 세버린을 가장 먼저 택하겠다."
  
-swe_syncon.8.t:0 "The General Secretary of the First Swedish Worker's Assembly" #Socialists/Totalists#
+swe_syncon.8.t:0 "초대 스웨덴 노동자 의회 총서기" #Socialists/Totalists#
 swe_syncon.8.d:0 "The battle has been hard fought in the revolutionary assemblies. The Totalists and the Radical Socialists have both gained and held ground. With a new regime ready to climb to the seat of ultimate power as General Secretary of the First Swedish Worker's Assembly we have a difficult decisions to make. Who should sit there? \n\nEither the Totalist option of Nils Flyg, a former editor in chief and undisputed leader of the totalist movement, will shoulder the responsibility or perhaps Kilbom, the former sailor and journalist is a better choice? Either way, one side is doomed to feel left out, and Sweden might suffer from this split."
-swe_syncon.8.a:0 "Nils Flyg is our man."
-swe_syncon.8.b:0 "Karl Kilbom is what Sweden needs."
+swe_syncon.8.a:0 "닐스 플리그가 우리의 사람이다."
+swe_syncon.8.b:0 "칼 킬봄이 스웨덴이 원하던 인재상이다."
  
-swe_syncon.9.t:0 "The General Secretary of the First Swedish Worker's Assembly" #Socialists/Syndicalists#
+swe_syncon.9.t:0 "초대 스웨덴 노동자 의회 총서기" #Socialists/Syndicalists#
 swe_syncon.9.d:0 "The battle has been hard fought in the revolutionary assemblies. The Syndicalists and the Radical Socialists have both gained and held ground. With a new regime ready to climb to the seat of ultimate power as General Secretary of the First Swedish Worker's Assembly we have a difficult decisions to make. \n\nWho should sit there? Either the Syndicalist option of Frans Severin, a senior member of the SAC congress, will shoulder the responsibility will shoulder the responsibility or perhaps Kilbom, the former sailor and journalist is a better choice? Either way, one side is doomed to feel left out, and Sweden might suffer from this split."
-swe_syncon.9.a:0 "Frans Severin is our first pick."
-swe_syncon.9.b:0 "Karl Kilbom is what Sweden needs."
+swe_syncon.9.a:0 "프란스 세버린을 가장 먼저 택하겠다."
+swe_syncon.9.b:0 "칼 킬봄이 스웨덴이 원하던 인재상이다."
  
-swe_syncon.10.t:0 "The General Secretary of the First Swedish Worker's Assembly" #Totalists/Syndicalists#
+swe_syncon.10.t:0 "초대 스웨덴 노동자 의회 총서기" #Totalists/Syndicalists#
 swe_syncon.10.d:0 "The battle has been hard fought in the revolutionary assemblies. The Syndicalists and the Totalists have both gained and held ground. With a new regime ready to climb to the seat of ultimate power as General Secretary of the First Swedish Worker's Assembly we have a difficult decisions to make. \n\nWho should sit there? Either the Syndicalist option of Frans Severin, a senior member of the SAC congress, will shoulder the responsibility or perhaps Nils Flyg, the former editor in chief and undisputed leader of the totalist movement, is a better choice? Either way, one side is doomed to feel left out, and Sweden might suffer from this split."
-swe_syncon.10.a:0 "Frans Severin is our first pick."
-swe_syncon.10.b:0 "Nils Flyg is our man."
+swe_syncon.10.a:0 "프란스 세버린을 가장 먼저 택하겠다."
+swe_syncon.10.b:0 "닐스 플리그가 우리의 사람이다."
 
 ### Flavor Event ###
 
 swe_flavor.1.t:0 "Karin Boye releases För Lite."
 swe_flavor.1.d:0 "Karin Boye, a prominent author, poet and female rights activist coloured by socialism has just released her latest piece. It's a novel called För Lite (Too Little or For Little) and centres around the themes of working to achieve your dreams or make your ends meet, and your responsibility to yourself as a person and to your family and friends. Boye is very popular and her new novel is a success."
-swe_flavor.1.a:0 "I shall have to read it sometime."
+swe_flavor.1.a:0 "언젠가 한번쯤 읽어봐야겠군."
 
 swe_flavor.2.t:0 "Greta Garbo stars in Camille."
 swe_flavor.2.d:0 "Greta Garbo stars in the American produced movie Camille, a romantic drama. Greta Garbo is one of the biggest names in the movie industry, both in Sweden and in the world. The movie is rather harmless and holds a high quality production but some of the more conservative elements of our society are most upset... Her clothes are a bit revealing! They are calling for a censorship. What should we do?"
-swe_flavor.2.a:0 "That outfit is too revealing! Censor it!"
-swe_flavor.2.b:0 "It seems most entertaining. Send me a ticket!"
+swe_flavor.2.a:0 "너무 노출이 심하잖아! 규제해야해!"
+swe_flavor.2.b:0 "재미있겠군. 티켓 한장만 보내줘!"
 
 swe_flavor.3.t:0 "Five year commemoration of Ådalen"
 swe_flavor.3.d:0 "In May 1931 a large march of strikers marched towards barracks for blacklegs who were working at local factories. The police had called in the military for support and before the day was over, the riots had ended in five strikers being killed by military fire. Ever since then yearly marches are held in memory of the dead workers among socialists, although conservatives claim that the workers were armed and attacked them first. The strikes of this year are unusually large. What should we do?"
-swe_flavor.3.a:0 "Let them. They'll tire eventually."
-swe_flavor.3.b:0 "Wasn't once enough? Send in the military!"
+swe_flavor.3.a:0 "내버려둬라. 언젠가는 지치겠지."
+swe_flavor.3.b:0 "한번이면 충분하지 않나? 군대를 파견해라!"
 
 swe_flavor.4.t:0 "Final sentence of the Sala-gang"
 swe_flavor.4.d:0 "In the summer of last year a gang led by a name called Sigvard Nilsson-Thurneman (a name he added himself, presumably because it is an anagram for Manhunter) was arrested for a murder. Soon the investigations reached nationwide front news as it turned out that the gang was not only guilty of murders dating all the way back to 1931, but also because it was ran more or less like an occult group and went under the nickname 'The Magic circle''. \n\nThe leader and the conspirators were sentenced in court the other day, most of them to life in prison but the leader was considered so mentally ill that he was sentenced to closed psychiatric care. Many people are outraged, and would have wanted to see Sigvard Nilsson-Thurneman put away for good!"
-swe_flavor.4.a:0 "We must respect the court's decision. Closed care it is."
+swe_flavor.4.a:0 "법원의 결정을 존중한다. Closed care it is."
 swe_flavor.4.b:0 "Arrange for this monster to be relocated to a prison."
 
 swe_flavor.5.t:0 "Manhunter on the loose!"
@@ -1271,7 +1271,7 @@ battlecruiser:0 "순양전함"
 SWE_tank_divs_unit_tooltip:0 "§Y경전차 사단§! 2개 획득.\n"
 SWE_jager_div_unit_tooltip:0 "정예 §Y산악병 사단§! 2개 획득.\n"
 tech_ski_infantry:0 "스키 보병"
-tech_ski_infantry_effect:0 "Enables §HSki Infantry§!\n§HInfantry\n    Hills§!\n      Attack: §G+5%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n    §HMountain§!\n      Attack: §G+5%§!\n      Defence: §G+5%§!\n      Movement: §G+10%§!\n"
+tech_ski_infantry_effect:0 "§H스키 보병§! 사용 가능\n§H보병\n    언덕§!\n      공격: §G+5%§!\n      방어: §G+5%§!\n      기동: §G+5%§!\n    §H산지§!\n      옹격: §G+5%§!\n      방어: §G+5%§!\n      기동: §G+10%§!\n"
 SWE_naval_construct_tt:0 "생산탭에 §Y구축함 두 척§! 과 §Y경순양함 한 척§!을 추가합니다.\n"
 SWE_hms_karl_xii_tooltip:0 "§YHMS 칼 XII§! 전투순양함 획득.\n"
 SWE_tt_general_secretary_election:0 "The Revolutionary Committee will elect a §YGeneral Secretary§! based on their allegiance in the previous policy votes.\n"
@@ -1304,13 +1304,13 @@ SWE_tt_earned_money_goes_to_free_budget:0 "We will collect §G2 million Kronor§
 SWE_tt_saved_money_goes_to_free_budget_welfare:0 "We save §G5 million Kronor§! of welfare funding that will be added to our budget to combat Black Monday.\n"
 SWE_tt_two_million_kronor:0 "크로나. §H2백만§! 크로나."
 SWE_tt_two_million_kronor_blocked:0 "§R2백만§! 크로나."
-SWE_tt_two_million_kronor_tooltip:0 "It costs §R2 million§! Kr. to select this."
+SWE_tt_two_million_kronor_tooltip:0 "이 선택은 §R2백만§! 크로나가 듭니다."
 SWE_tt_three_million_kronor:0 "크로나. §H3백만§! 크로나."
 SWE_tt_three_million_kronor_blocked:0 "§R3백만§! 크로나."
-SWE_tt_three_million_kronor_tooltip:0 "It costs §R3백만§! 크로나. to select this."
+SWE_tt_three_million_kronor_tooltip:0 "이 선택은 §R3백만§! 크로나가 듭니다."
 SWE_tt_five_million_kronor:0 "크로나. §H5백만§! 크로나."
 SWE_tt_five_million_kronor_blocked:0 "§R5백만§! 크로나."
-SWE_tt_five_million_kronor_tooltip:0 "It costs §R5 million§!크로나. to select this."
+SWE_tt_five_million_kronor_tooltip:0 "이 선택은 §R5백만§! 크로나가 듭니다."
 SWE_tt_unemployment_lowered_three_percent:0 "실업률이 §G3%§!로 감소합니다.\n"
 SWE_tt_unemployment_lowered_two_percent:0 "실업률이 §G2%§!로 감소합니다.\n"
 SWE_tt_receive_million_kronor:0 "We collect §G1 million Kronor§! of tariffs that will be added to our budget to combat Black Monday.\n"
