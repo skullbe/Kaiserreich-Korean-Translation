@@ -1042,7 +1042,7 @@ FIN_ukrainian_grain_shipments_again:0 "우크라이나산 곡물 수입량이 �
 FIN_democracy_triumphant_tooltip:0 "§G사민당, 농민당, 혹은 연립정부가 정권을 잡아야 이 중점을 사용할 수 있습니다§!."
 FIN_socialist_victory_tooltip:0 "§R사회주의당이 정권을 잡아야 이 중점을 사용할 수 있습니다§!."
 FIN_the_rebellion_succeeds_tooltip:0 "§R라푸아 운동이 정권을 잡아야 이 중점을 사용할 수 있습니다e§!."
-FIN_the_old_order_tooltip:0 "§Y국민연합이 정권을 잡아야 이 중점을 사용할 수 있습니다§!."
+FIN_the_old_order_tooltip:0 "§Y국민연합당이 정권을 잡아야 이 중점을 사용할 수 있습니다§!."
 FIN_mannerheims_ascendancy_tooltip:0 "§Y만네르하임이 정권을 잡아야 이 중점을 사용할 수 있습니다§!."
 FIN_proclaim_greater_finland_tooltip:0 "All of our territorial ambitions must have been fulfilled in order to proclaim §YGreater Finland§!."
 FIN_unlock_foreign_policy_focus:0 "This focus will unlock after §Y1938§! and the §Ycompletion of one of the political trees§!."
@@ -1050,7 +1050,7 @@ FIN_greater_finland_tooltip:0 "핀란드는 이제 §Y대핀란드§!로 불릴 
 FIN_disband_the_red_guard_tooltip:0 "§R우리는 적위대 해체를 시도할 것입니다§!."
 FIN_favour_workers_tooltip:0 "§Y우리는 노동자들 편에 서기로 결정했습니다§!."
 FIN_favour_farmers_tooltip:0 "§Y우리는 농부들 편에 서기로 결정했습니다§!."
-FIN_tt_finish_democratic_tree:0 "§R'안정된 핀란드' 혹은 '온간한 핀란드' 중점을 완료하여 외교 정책을 해금할 수 있습니다§!."
+FIN_tt_finish_democratic_tree:0 "§R'안정된 핀란드' 혹은 '온건한 핀란드' 중점을 완료하여 외교 정책을 해금할 수 있습니다§!."
 air_ace_generation_chance_factor_research:0 "에이스 등장 확률"
 
 ### Opinion Modifiers ###
