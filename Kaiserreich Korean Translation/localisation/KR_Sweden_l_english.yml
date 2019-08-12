@@ -997,17 +997,17 @@ swe.126.t:0 "스웨덴이 인터내셔널을 떠나다"
 swe.126.d:0 "스웨덴 대사는 공식적이고 효과적으로 인터내셔널에서 탈퇴하기 위해 군사 동맹을 파기하기로 했다고 알려왔습니다."
 swe.126.a:0 "저 반동분자들!"
 
-swe.127.t:0 "Discontinuation of the Allmänna Säkerhetstjänsten"
-swe.127.d:0 "With the war ending and peace returning to Sweden, the special secret service structure that was established also has run its course. As a result of the desire by politicians to cut the costs, this project will now be ended and the agencies will once again run autonomously."
+swe.127.t:0 "Allmänna Säkerhetstjänsten 폐지"
+swe.127.d:0 "전쟁이 끝나고 스웨덴에 평화가 찾아오면서 특별 첩보 기관이 토론 주제에 올랐습니다. 정치인들이 비용을 절감하기를 원했기 때문에 이 기관은 폐지되었고, 각 산하 기관들은 다시 자율적으로 운영될 것입니다."
 swe.127.a:0 "예산을 유지하는데 도움이 될 것이다."
 
 swe.128.t:0 "로켓 사고"
-swe.128.d:0 "One of our rockets that was being tested in our bid to extend our knowledge surrounding rocketry has been in somewhat of an accident: the trajectory of the rocket, which was supposed to drop into the baltic sea to be recollected by us, had been miscalculated. As a result of this, the rocket has only crashed almost 200km north of its original planned target. Needless to say, local authorities are all over it already."
-swe.128.a:0 "I fear that rocket is lost..."
+swe.128.d:0 "로켓 연구를 위해 시험 발사된 여러 로켓 등 중 하나가 사고를 냈습니다. 원래 발트 해에 떨어지기로 예정되어 있던 로켓 궤적 계산에 착오가 있었던 것입니다. 결국 로켓은 원래 계획했던 지점에서 200km북쪽에 추락했습니다. 두말할 것도 없이 지방 당국에는 난리가 났습니다."
+swe.128.a:0 "로켓을 잃어버릴까 두렵군..."
 
-swe.129.t:0 "The Bäckebo Bomb"
-swe.129.d:0 "A German missile has crashed in the Swedish woods near Bäckebo, part of one Robert Gustavsson's land, where it left a detonation crater that is five meters wide. Our military has already arrived and taken possession of the wreckage, and it is being transported to Stockholm as we speak to be examined."
-swe.129.a:0 "Finders, keepers!"
+swe.129.t:0 "Bäckebo 폭탄"
+swe.129.d:0 "로버트 구스타프슨의 사유지인 Bäckebo인근 숲에 독일제 미사일이 추락해 폭 5m의 폭발 분화구를 만들었습니다. 벌써 군이 도착해서 잔해를 수습했고 조사를 위한 것이라고 말하며 스톡홀름으로 이송하고 있습니다."
+swe.129.a:0 "발견자랑 책임자 불러와!"
 
 ### Elections ###
 
@@ -1062,27 +1062,27 @@ swefocus.106.b:0 "우리는 현대식 공군이 필요하다"
 
 swe_syncon.1.t:0 "혁명 위원회 회의 - 정부 형태"
 swe_syncon.1.d:0 "혁명위원회의 첫 회기가 시작되었습니다. 새롭고 낮선 정치 풍토 속에서 3개 정당이 권력 다툼을 벌이고 있기 때문에 긴장이 고조되고 있습니다. 비록 스웨덴 사회민주좌파당이 셋 중에서 가장 많은 당원 수를 자랑하고 있다고 해도, 다른 두 정당의 당원 수도 폭발적으로 증가하고 있기에 안심하기에는 이릅니다. 사회민주좌파당의 칼 킬봄은 연단에서 신 스웨덴에서 우리(국가)는 각 시민들의 개인적인 사안에 간섭하지 않으면서 오직 필요로 하는 자라면 누구나 도울 뿐이어야 한다고 주장했습니다. 좌파 전체주의자의 닐스 플리그는 시민 경찰이 설립되어야 한다고 주장하는 반면에, 스웨덴 노동자중앙위원회의 알베르트 옌센은 각 공동체가 스스로 결정할 권리를 가져야 한다고 주장합니다." 
-swe_syncon.1.a:0 "Jensen has the right of it."
+swe_syncon.1.a:0 "옌센에게 권한을 부여해라."
 swe_syncon.1.b:0 "킬봄이 승리했다."
 swe_syncon.1.c:0 "닐스 플리그가 토론을 지배했다."
 
 swe_syncon.2.t:0 "혁명 위원회 회의 - 경제 체제"
 swe_syncon.2.d:0 "두번째 혁명 위원회가 개최되었습니다. 세력을 잡기만 하면 좌파 통합이 이루어지리라는 믿음은 이제 완전히 사라졌습니다. 스웨덴 경제 개혁이 오늘의 주제입니다. 사회민주좌파당을 위해 가장 큰 목소리를 낸 사람은 안나 요한슨 비스보르로, 강력한 노조와 정부의 영향력 행사를 통해 노동자의 권리를 보장할 수 있다고 천명했습니다. \n\n 좌파 전체주의자의 대표자 스벤 린데로트는 모든 노동자를 하나의 거대한 조합체로 통합해야 하며, 국가의 대규모 자금 지원 프로젝트에 초점을 맞추어야 한다고 주장합니다. 마지막으로 생디칼리스트인 구스타프 셰스트룀은 각 지역이 스스로 자급자족하기 위해 노력하는 공동체에 기반하는 경제 개념을 제안했습니다."
-swe_syncon.2.a:0 "Sjöström has the right of it."
-swe_syncon.2.b:0 "Visborg wins this round."
+swe_syncon.2.a:0 "셰스트룀에게 권한을 부여해라."
+swe_syncon.2.b:0 "비스보르가 승리했다."
 swe_syncon.2.c:0 "린데로트가 토론을 지배했다."
 
 swe_syncon.3.t:0 "혁명 위원회 회의 - 군사 문제"
 swe_syncon.3.d:0 "혁명 위원회가 세번째로 개최되었습니다. 현재 군대에 붉은 기운이 불충분한 가운데, 각 당 지도자들은 급진적인 군 개혁을 논의하고 있습니다. 사회민주좌파당의 제스 회그룬드는 참모진과 병사들을 교육시켜서 평의회를 소집해 각 계급에서 장교를 선출하는 방식으로 군대를 재건하기를 원합니다. \n\n좌파 전체주의자의 구스타프 요한슨은 강력한 군대는 강력한 중앙 지휘부를 필요로 한다며, 정치적인 교육을 받은 장교들을 위한 국립 사관학교가 새 군대의 중추가 되어야 한다고 주장했습니다. 노동자중앙위원회측 대표 니세 렛은 군대는 지역방어만을 위해 훈련시키고 운용하는걸로 충분하며, 극단적인 상황에 치달았을때만 다른 상황에 이용해야 한다고 믿습니다."
-swe_syncon.3.a:0 "Lätt has the right of it."
-swe_syncon.3.b:0 "Höglund wins this round."
+swe_syncon.3.a:0 "렛에게 권한을 부여해라."
+swe_syncon.3.b:0 "회그룬드가 승리했다."
 swe_syncon.3.c:0 "요한손이 토론을 지배했다."
 
 swe_syncon.4.t:0 "혁명 위원회 회의 - 사회 정책"
 swe_syncon.4.d:0 "네 번째 회기가 시작했습니다. 문 밖에서는 스웨덴 전역이 혼란에 휩싸여 있지만, 회의장 내부는 혼란을 해결할 수 있다는 확신으로 가득 차있습니다. 사회민주좌파당의 외스텐 운덴은 신사회는 동료들 간의 평등과 강력한 연대, 그리고 동정심에 기반해야 한다고 천명했습니다. \n\n좌파 전체주의자의 힐딩 하그베르는 우리가 강인한 지도자를 믿고 그가 스웨덴을 단순히 강대국이 아닌 위대한 국가로, 다른 국가들이 경쟁조차 할 수 없는 공포를 느끼게 되는 나라가 되는 그날로 인도할 수 있도록 따라야 한다고 합니다! 그러나 모든 연사들 중에서 가장 열정적인 사람은 노동자중앙위원회측 대표이며 모든 억압으로부터 해방된 자유로운 사회를 꿈꾸는 엘리스 오테셴 옌슨입니다. 그녀는 지역 사회에 관심을 가지고 이를 공유하기를 원합니다."
-swe_syncon.4.a:0 "Jensen has the right of it."
-swe_syncon.4.b:0 "Undén wins this round."
-swe_syncon.4.c:0 "Hagberg controls the debate."
+swe_syncon.4.a:0 "옌슨에게 권한을 부여해라."
+swe_syncon.4.b:0 "운덴이 승리했다."
+swe_syncon.4.c:0 "하그베르가 토론을 지배했다."
 
 swe_syncon.5.t:0 "초대 스웨덴 노동자 의회 총서기" #Totalist#
 swe_syncon.5.d:0 "전체주의자들이 혁명 위원회에서 완승을 거두었습니다. 최근에 제시한 제안들 대다수가 승인되었다는 사실을 보면, 토론에서 큰 목소리로 소리치는 전략이 성공적이었다는 것을 알 수 있습니다. 스웨덴에서 철권통치를 휘두를 전체주의 정권이 준비된 가운데 누가 제1차 스웨덴 노동자 의회의 총서기가 될 지는 명백합니다. 전체주의 운동의 부동의 지도자인 닐스 스반테 플리그가 권좌에 올라 스웨덴을 새 시대로 이끌어야만 합니다!"
@@ -1156,27 +1156,27 @@ swe_flavor.9.t:0 "괴스타 에크만의 장례식"
 swe_flavor.9.d:0 "스웨덴에서 가장 인기있는 배우이자 연극 감독으로서 전설적인 인물이 된 괴스타 에크만이 오랜 투병 끝에 47세의 나이로 세상을 떠났습니다. 지난 11년간 에크만은 최소한 23개 작품에서 연기했습니다. 스톡홀름 도시 인구 5분의 1에 해당하는 100,000명(!)이 전설을 애도하기 위해 모인 가운데 장례열차가 천천히 출발했습니다."
 swe_flavor.9.a:0 "오늘, 우리 모두가 애도하리."
 
-swe_flavor.10.t:0 "Astrid Kindstrand on the radio"
-swe_flavor.10.d:0 "A few days ago, Astrid Kindstrand read the news on Sweden's Radio, the national radio channel, the first woman to do so in Swedish history. In the following days, hundreds of angry phonecalls and letters reached the state and various newspapers across the country to complain that a woman is allowed to read state news."
-swe_flavor.10.a:0 "Don't they have anything else to be upset about?"
+swe_flavor.10.t:0 "라디오에 등장한 아스트리드 킨드스트란드"
+swe_flavor.10.d:0 "며칠전, 아스트리드 킨드스트란드라는 여성이 스웨덴 역사상 최초로 라디오 뉴스에 여성 아나운서로 등장했습니다. 이후 전국에서 분노한 시민들이 항의 전화를 걸고 편지 수백 통을 투고했습니다. 수많은 언론들도 여성이 국영 언론에 참여할 수 있는 현실에 불평을 토로했습니다."
+swe_flavor.10.a:0 "이거 말고는 화낼 일이 딱히 없는 모양이지?"
 
 swe_flavor.11.t:0 "Landstormens Lilla Lotta"
-swe_flavor.11.d:0 "A new Swedish comedy movie has hit the theatres and reached a surprising amount of popularity. It plays a bit with the traditional story of Romeo and Julia but also throws things of order upside down, such as making the bank director a private when he joins the army and the groundskeeper a commander. Everyone fools around and no one takes their military training seriously while falling in love with one of the pretty women of the Lotta-corps."
-swe_flavor.11.a:0 "Oh ho ho! I love me some jolly movies!"
-swe_flavor.11.b:0 "How dare they mock the Swedish military like this?! Censor it!"
+swe_flavor.11.d:0 "스웨덴에서 새로 개봉한 코미디 영화가 극장가를 강타하여 엄청난 인기를 끌었습니다. 이 영화는 로미오와 줄리엣이라는 다소 진부할 수도 있는 이야기를 다루면서도 은행장을 갓 군에 입대한 신병으로 바꾸고 관리인을 지휘관으로 바꾸는 등 알려진 스토리를 비꼬아 표현했습니다. Lotta-corps의 여군과 사랑에 빠지는 줄거리에서 모든 등장인물은 바보같은 모습으로 등장하며 군사 훈련을 진지하게 받아들이는 이는 단 한명도 없습니다."
+swe_flavor.11.a:0 "아하하! 나는 웃기는 영화를 좋아해!"
+swe_flavor.11.b:0 "어떻게 감히 이런식으로 스웨덴 군대를 조롱할 수 있는가?! 당장 검열에 착수해라!"
 
-swe_flavor.12.t:0 "Garbo skrattar - Ninotchka!"
-swe_flavor.12.d:0 "Garbo laughs - That is how the movie is marketed all across the world, as the Swedish, beautiful mega-star Greta Garbo does her first attempt at a comedy movie. The movie centres around Garbo in the role of Ninotchka, an ice-cold syndicalist who finds love and abandons her political ideas to move to a capitalist society. Even though it is tounge-in-cheek, and makes fun of the capitalist society too, it is clear that it mocks all forms of syndicalism."
-swe_flavor.12.a:0 "She is so beautiful! Get me a ticket!"
-swe_flavor.12.b:0 "How dare they mock the glorious Swedish revolution?! Censor it!"
+swe_flavor.12.t:0 "가르보의 코미디 - 니노치카!"
+swe_flavor.12.d:0 "'가르보가 웃는다' 이 문구가 새로 개봉할 영화의 광고 문구입니다. 스웨덴을 넘어 전 세계에서 유명한 아름다운 대배우 그레타 가르보가 처음으로 코미디 영화에 출연할 예정이기 때문입니다. 그레타 가르보는 이 영화에서 냉철한 생디칼리스트였지만 사랑에 빠져 자본주의 국가로 도망치는 주인공 니노치카 역으로 출연합니다. 이 영화가 말하고자 하는 바가 단지 농담일 뿐이고 자본주의 사회도 함께 조롱하고 있지만, 그렇더라도 이 영화가 생디칼리즘을 조롱하고 있다는 사실은 변하지 않습니다."
+swe_flavor.12.a:0 "그녀는 참으로 아름답구나! 티켓 하나만 주게!"
+swe_flavor.12.b:0 "어떻게 감히 영광스러운 스웨덴 혁명을 조롱할 수 있는가?! 당장 검열에 착수해라!"
 
-swe_flavor.13.t:0 "Kallocain released"
-swe_flavor.13.d:0 "Kallocain is a novel written by the ever busy Karin Boye. It takes place in a dystopian, fictive nation where critizising the state is strictly illegal and the state controls every single part of your life. It reflects on men and women, on class issues and the conflicts that arise from these issues. It is, ultimately, a depressing read. It takes brutal stabs at any totalitarian regimes, left or right."
-swe_flavor.13.a:0 "A fascinating and disturbing read!"
-swe_flavor.13.b:0 "How dare she mock the strong, glorious state? Censor it!"
+swe_flavor.13.t:0 "Kallocain 출판"
+swe_flavor.13.d:0 "언제나 바쁜 작가 카린 보예가 새 소설 Kallocain을 발표했습니다. 이 책은 국가에 대한 어떤 방식의 비판도 허용되지 않고 국가가 국민의 삶 곳곳을 통제하는 가상의 디스토피아 세계를 배경으로 삼고 있습니다. 남성과 여성, 계급 문제, 그리고 이러한 문제들로 인하여 발생하는 갈등을 중심 주제로 삼고 있습니다. 이 책은 굉장히 우울한 문체로 가득 차 있습니다. 좌파 우파를 막론하고 모든 전체주의 정권을 강하게 비판합니다."
+swe_flavor.13.a:0 "매력적이면서도 충격적인 서적이군!"
+swe_flavor.13.b:0 "어떻게 감히 강하고 영광스러운 국가를 조롱할 수 있는가? 당장 검열에 착수해라!"
 
 swe_flavor.14.t:0 "카린 보예의 죽음"
-swe_flavor.14.d:0 "Karin Boye was found lifeless on a hill north of Alingsås after she had, seemingly intentionally, overdosed on sleeping pills. The poet and author was known for her emotional instability, in particular over the last few months. Even more so perhaps since one of the the women she loved, Anita Nathorst, was dying of cancer. Her sexuality was a public secret, and the pressure of it all might have been too much."
+swe_flavor.14.d:0 "수면제 과다 복용으로 자살한 카린 보예의 시신이 알링소스 북쪽 언덕에서 발견되었습니다. 이 시인이면서 작가인 인물은 지난 몇 달 동안 정서 불안 증상을 보였던 것으로 알려져 있습니다. 그녀가 사랑했던 여성 중 한명인 아니타 나소르스트가 암으로 죽어가고 있다는 사실이 정신질환에 더 악영향을 끼친듯 합니다. 그녀의 성적 지향은 공공연한 비밀이었고, 이 모든 압박이 그녀를 몰아갔을지도 모릅니다."
 swe_flavor.14.a:0 "Visst gör det ont när knopparna brister..."
 
 swe_flavor.15.t:0 "IKEA 설립"
@@ -1188,17 +1188,17 @@ swe_flavor.16.d:0 "최근에 개장한 말뫼시 극장은 유럽에서 가장 �
 swe_flavor.16.a:0 "표를 주시오!"
 
 swe_flavor.17.t:0 "아비드 린드만 사망"
-swe_flavor.17.d:0 "Arvid Lindman was a conservative politician, a member of the navy staff and considered among many as a father of the Nation. The former admiral reigned as prime minister in between 1906 to 1911 and then again, more or less as a permanent head of government, from 1924 until 1934, when he stepped down in favour of the younger Gösta Bagge. \n\nIt is said that Bagge rarely took any decisions without asking for advice from the senior Lindman, but no longer. A public funeral will be held and attended by the King and other people of fine birth."
+swe_flavor.17.d:0 "보수주의 정치인이면서 해군 참모진의 일원이었던 아르비드 린드만은 많은 사람들에게 국부로 추앙받았습니다. 린드만 전 제독은 1906년에서 1911년 사이에 수상직을 역임했고, 다시 권력을 잡고 1924년부터 1934년까지 정부 수반으로 일했지만, 당시 젊은 신인 정치인이던 괴스타 바지를 위해 스스로 물러났습니다. \n\n바지가 린드만에게 조언을 구하지 않고는 어떤 선택도 할 수 없다는 말이 많았지만, 더 이상은 그렇지 않습니다. 국왕과 여러 귀족들이 참석한 아래 국장이 거행될 예정입니다."
 swe_flavor.17.a:0 "위대한 정치인이 떠나갔다" 
  
 swe_flavor.18.t:0 "아비드 린드만이 서거하다"
-swe_flavor.18.d:0 "Arvid Lindman was a conservative politician, a member of the navy staff and considered among many to be a tyrant who did everything he could to kill democracy and socialism in it's cradle. He reigned as a prime minister in between 1906 to 1911 and then again, more or less as a permanent head of government, from 1924 until 1934, when he stepped down in favour of the younger Gösta Bagge. \n\nWhen our revolutionary government proclaimed Sweden to be a republic, he was among the first to flee abroad and he died, alone and unwanted, in a flat in Berlin."
+swe_flavor.18.d:0 "보수주의 정치인이면서 해군 참모진의 일원이었던 아르비드 린드만은 많은 사람들에게 민주주의와 사회주의의 싹을 밟기 위해서라면 어떤 일이든 했던 폭군으로 여겨졌습니다. 그는 1906년에서 1911년 사이에 수상직을 역임했고, 다시 권력을 잡고 1924년부터 1934년까지 정부 수반으로 일했지만, 당시 젊은 신인 정치인이던 괴스타 바지를 위해 스스로 물러났습니다. \n\n이후 혁명정부가 스웨덴 공화국을 선포했을 때, 린드만은 가장 먼저 해외로 망명했고 베를린의 한 아파트에서 절대로 원치 않던 모습으로 쓸쓸히 사망했습니다."
 swe_flavor.18.a:0 "위대한 군주가 떠났도다"
 
 swe_flavor.19.t:0 "Valkyriorna formed"
-swe_flavor.19.d:0 "With war coming to the shores of Sweden, the stunt-pilot Elsa Andersson, known for her daring parachuting in the twenties, has requested to form a women's only air brigade. The project has adopted the name 'Valkyriorna', after the winged women of ancient norse mythology who oversaw which warriors would be slain on the battlefield. Women have gathered in droves to sign up, wanting the chance to fight for Sweden, but the idea is not undisputed. Many feel that women in the army is not fitting with a modern civilised nation."
-swe_flavor.19.a:0 "Everyone who wants to fight for Sweden is welcome!"
-swe_flavor.19.b:0 "Ladies! We need you on the homefront..."
+swe_flavor.19.d:0 "스웨덴 해안으로 전쟁이 다가옴에 따라 20년대에 과감한 낙하산 낙하로 유명한 곡예비행 조종사 엘사 안데르손에게 여성만으로 이루어진 항공 여단 결성을 요청했습니다. 이 프로젝트의 이름은 고대 북유럽 신화에 등장하는 전장에서 어떤 전사가 죽음을 맞이하는지 지켜보는 날개 달린 여성의 이름을 따 'Valkyriorna'라고 붙여졌습니다. 여성들은 스웨덴을 위해 싸울 기회를 잡기 위해 앞다투어 지원했지만, 사회에서는 의견이 분분합니다. 많은 사람들은 여전히 여성 복무가 현대 문명국가에는 어울리지 않는다고 생각합니다."
+swe_flavor.19.a:0 "스웨덴을 위해 싸우기를 원하는 이들은 언제나 환영이지!"
+swe_flavor.19.b:0 "여성이여! 국내 전선에나 머무르도록..."
 
 ### TO BE REVISED STUFF ###
 
