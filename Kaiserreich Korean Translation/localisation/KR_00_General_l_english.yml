@@ -21,7 +21,7 @@ custom_diff_strong_jap:0 "일본 강화"
 custom_diff_strong_qie:0 "청나라 강화"
 
 ### Autonomy Levels ###
-kr_integrated_puppet:0 "융화된 괴뢰국"
+kr_integrated_puppet:0 "동화된 괴뢰국"
 kr_occupied_puppet:0 "점령된 괴뢰국"
 kr_default_puppet:0 "괴뢰국"
 kr_autonomous_puppet:0 "자치 괴뢰국"
@@ -71,10 +71,10 @@ research_production:1 "회사"
 weapons_manufacturer:0 "무기 제조사"
 #tank_manufacturer:1 "중장비 제조사" already defined in Traits loc file
 air_naval_manufacturer:0 "항공/선박 제조사"
-can_replace_hog:0 "정부 수반 재임명 가능"
-for_cannot_be_replaced:0 "외교 장관 재임명 불가"
-eco_cannot_be_replaced:0 "경제 장관 재임명 불가"
-sec_cannot_be_replaced:0 "내무부 장관 재임명 불가"
+can_replace_hog:0 "정부수반 재임명 가능"
+for_cannot_be_replaced:0 "외무장관 재임명 불가"
+eco_cannot_be_replaced:0 "경제장관 재임명 불가"
+sec_cannot_be_replaced:0 "내무장관 재임명 불가"
 ministers_cannot_be_replaced:0 "장관 재임명 불가"
 
 ### Game Options ###
@@ -198,11 +198,11 @@ expert:0 "" #(expert)
 blank:0 "" #\n
 
 ### Ministers ###
-head_of_government:0 "정부 수반"
-foreign_minister:0 "외교 장관"
-economy_minister:0 "경제 장관"
-security_minister:0 "내무부 장관"
-head_of_intel:0 "정보부 장관"
+head_of_government:0 "정부수반"
+foreign_minister:0 "외무장관"
+economy_minister:0 "경제장관"
+security_minister:0 "내무장관"
+head_of_intel:0 "정보총수"
 
 ### Ideologies ###
 totalist:0 "전체주의"
