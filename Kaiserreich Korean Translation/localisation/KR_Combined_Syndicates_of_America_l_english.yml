@@ -593,11 +593,11 @@ csa.19.t:0 "Land Redistribution Clashes with local Warlords"
 csa.19.d:0 "From the mansions of the Rockefeller, the Morgans, the Carnegies, and the Vanderbilts, to the sharecroppers who run company stores. The land of the United States still belongs to the capitalist. The worst example being Murphy Ranch out in California, which was a hive of Silver Shirt activity during the war, and took months to starve out by our forces. It has been decided by Congress to exercise expropriation on these estates. Many of the southern and western estates have been given over to the local communes and established as as public housing for the people. As expected, civilian armed resistance has cost us some lives, but few would have expected our own Red Guard to be ineffective at expropriation. One particular tough nut to crack was in Montana, where the initial militia sent in turned traitor, and held onto a large estate for it's warlord owner for eight months before our Red Guard were forced to intervene. The program seems to be working however, so there is no reason to reconsider."
 csa.19.a:0 "Who would've thought, warlords?"
 
-csa.20.t:0 "Prisons Overflowing with Reactionaries"
+csa.20.t:0 "감옥이 반동분자로 넘치다"
 csa.20.d:0 "Nobody could have expected our crime and punishment system would become so overstuffed as to require this decision. The numerous small schisms in the SPA has left our government with it's fair share of detractors, as well as the expected resistance. Thousands upon thousands are being fed, clothed and housed on our dime for their crimes against the people. Our more reform minded are worried that prisons will be a breeding ground for reactionary though, so workingmen should be diverted to work camps. There they will be able to pay back the state for what they stole from the people. Vanguardists believe that we have been too lenient on these traitors, and must execute the traitors of the highest standing in the prisons, as a rebellion is surely about to come. The Catholic Workers Movement strongly disagree, and claim that exile and life elsewhere is the most Christian thing to do."
-csa.20.a:0 "Execute the traitors of high standing"
-csa.20.b:0 "Take the workingmen into work-camps"
-csa.20.c:0 "Exile them to Canada and Mexico"
+csa.20.a:0 "고위 반역자들을 처형해라."
+csa.20.b:0 "노동 가능한 자들을 노동 수용소로 보내라."
+csa.20.c:0 "캐나다와 멕시코로 추방하라"
 
 csa.21.t:0 "교육 혁명"
 csa.21.d:0 "A notable professor out of John Hopkins University by the name of John Dewey has been appointed Secretary of Education. In Dewey's eyes, the purpose of education should not revolve around the acquisition of a per-determined set of skills, but rather the realization of one's full potential and the ability to use those skills for the greater good. In particular he emphasizes that schooling must include hands-on learning famously stating 'if knowledge comes from the impressions made upon us by natural objects, it is impossible to procure knowledge without the use of objects which impress the mind'. Dewey's detractors, notably the Catholic Workers Movement, claim his polities are antagonistic to religious education. Ultimately [CSA.GetLeader] has decided to endorse Dewey's reforms."
@@ -1028,9 +1028,9 @@ csa.152.t:0 "General Strike Moves on the Federal Reserve"
 csa.152.d:0 "The General Strike, whose goal has been to protect workers from federal tyranny, now moves to seize the means of production. The Red Guard have ordered an evacuation of lower Manhattan, in order to both seize the gold in the Federal Reserve Bank as well as dismantle Wall Street. In this delegation were reporters, who were allowed to watch congressmen carry safe boxes away for safekeeping in Chicago. These items are put under the trust of the IWW, whom have elected Norman Thomas as their under-secretary. Several SPA politicans were arrested in Washington D.C for meeting outside the Eccles Building, ordering the Federal Reserve Chairman Eugene Black to hear their petitons."
 csa.152.a:0 "Release those men now!"
 
-csa.153.t:0 "Deadline Looms"
-csa.153.d:0 "As the federal government's deadline looms, it has become clear there will be no budging on either side. Across the part of the country controlled by Reed's supporters, Red Guards have been raised in large numbers and a growing determination to see the country remade in a syndicalist image by force has taken hold. The federal government, in turn, has also made it clear they see no path to compromise."
-csa.153.a:0 "It is only a matter of time."
+csa.153.t:0 "기한이 다가온다"
+csa.153.d:0 "연방정부가 적시한 30일이라는 기한이 다가옴에 따라 어느 쪽도 자신의 의견을 철회하지 않으리라는 것이 분명해졌습니다. 리드의 지지자들이 점유한 지방에서는 적위대가 대거 늘어났고, 무력을 통해서라도 이 나라를 생디칼리즘 국가로 바꾸자는 의견이 점점 더 대중적으로 받아들여지고 있습니다. 결국에는 연방정부 역시 더 이상 타협의 길을 걷지 않으리란 것이 명확해 졌습니다."
+csa.153.a:0 "시간문제일 뿐이다"
 
 ### Resistance Events ###
 
