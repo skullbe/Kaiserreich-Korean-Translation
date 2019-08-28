@@ -952,16 +952,16 @@ unionstate.204.a:0 "테러범들은 소탕될 것이다"
 ####By Drozdovite########
 #########################
 
-unionstate.500.t:0 "군대의 민간 트럭 징발"
-unionstate.500.d:0 "패튼이 새로운 미국 군대를 위한 차량화 계획을 공표한 직후, 빠르게 성장하는 우리 군대의 보급을 위한 민간 트럭의 징발을 결단해 달라는 제안이 롱 각하께 보내졌습니다. 각하의 승인과 함께 우리는 민간인들로부터 트럭을 징발하기 시작하였고, 놀랍게도 몇몇 자랑스러운 애국자들은 다가오는 결전을 위해 자신들의 차량을 기꺼이 헌납코자 군수창고 옆에 줄지어 모이기까지 했습니다. 비록 이렇게 확보한 모든 차량들이 군용으로 적합한 것은 아니지만, 우리는 약간의 개조를 필요로 하거나 아니면 곧바로 군대 수송에 투입해도 손색이 없을 적절한 대수의 트럭을 가까스로 징발할 수 있었습니다."
+unionstate.500.t:0 "군대의 민간 차량 징발"
+unionstate.500.d:0 "패튼이 새로운 미국 군대를 위한 차량화 계획을 공표한 직후, 빠르게 성장하는 우리 군대의 보급을 위한 민간 차량의 징발을 결단해 달라는 제안이 롱 각하께 보내졌습니다. 각하의 승인과 함께 우리는 민간인들로부터 차량을 징발하기 시작하였고, 놀랍게도 몇몇 자랑스러운 애국자들은 다가오는 결전을 위해 자신들의 차량을 기꺼이 헌납코자 군수창고 옆에 줄지어 모이기까지 했습니다. 비록 이렇게 확보한 모든 차량들이 군용으로 적합한 것은 아니지만, 우리는 약간의 개조를 필요로 하거나 아니면 곧바로 군대 수송에 투입해도 손색이 없을 적절한 대수의 차량을 가까스로 징발할 수 있었습니다."
 unionstate.500.a:0 "각하께서는 여러분의 노고를 치하하신다"
 
 unionstate.501.t:0 "첫 공수훈련"
-unionstate.501.d:0 "While technically speaking, the first paradropping excercises were practiced in 1930 with biplanes dropping machine gun squads, today a major breakthrough has been achieved in the airborne department. After finishing a rigorous conditioning and training program started two weeks ago, a lottery was made to decide the jumping order of the experimental paradropping platoon made up of volunteers. When the Douglas C-33 took off from the Lawson Air Field and finally was put into position to start the experiment, Second Lieutenant William T. Ryder became the first American Paratrooper after making his jump and landing near Fort Benning. The second man, however, refused to jump, and so the first enlisted man to become a paratrooper was Pvt. William N. "Red" King, and then the remaining 8 platoon members in the aircraft. After their touchdown, they quickly reached the rendezvous point and completed their excercise goals, making the experiment a success."
-unionstate.501.a:0 "Start Scheduling New Jumps"
+unionstate.501.d:0 "엄밀히 말하면, 1930년에 첫번째 공수 시험은 기관총 분대가 복엽기에서 강하하는 식으로 행해졌습니다. 오늘날 공수 부서에서 중대한 돌파구를 찾았습니다. 2주 전 시작된 엄격한 훈련을 마친 뒤 자원봉사자로 구성된 실험용 공수 소대의 강하 순서를 결정하는 추첨이 이뤄졌습니다. 더글러스 C-33이 랭글리 공군기지에서 이륙하여 마침내 제 위치에 배치되었을 때, 윌리엄 T 라이더 소위는 포트 베닝 근처에서 강하와 착륙을 한 후 최초의 미국인 공수부대원이 되었습니다. 그러나 두 번째 사람은 점프를 거부했고, 그래서 공수병이 된 최초의 병은 윌리엄 N. "레드" 킹 이병이었습니다. 그리고 나서 비행기에는 나머지 8명의 소대원들이 남아있었습니다. 착륙 후 재빨리 합류 지점에 도달해 목표를 완료하였으며 실험은 성공적으로 끝났습니다."
+unionstate.501.a:0 "새로운 강하 스케줄을 짜라."
 
-unionstate.502.t:0 "첫 공수여단의 창설"
-unionstate.502.d:0 "With the success of our scheduled mass jumps and with the blessing of General Patton, Fort Benning had begun taking volunteers for paratrooper units. While originally the high training standards and relatively high mortal risk initially caused few volunteers to show up, the high command authorized a triplication of the paratrooper wage as opposed to the foot soldier wage. Soon enough, the 501st Parachute Battalion was formed, quickly followed by other battalions and regiments. After a week recruitment, the number of volunteers was enough to form 5 paratrooper divisions for us to utilize. While these divisions still lack combat experience, this breakthrough in Airborne tactics should not be underestimated, and the High Command is looking forward to seeing their investment in these divisions pay off."
+unionstate.502.t:0 "첫 공수사단의 창설"
+unionstate.502.d:0 "우리의 예정된 대규모 강하의 성공과 패튼 장군의 축복으로, 최근에 재개장한 베닝 요새는 공수 부대 지원자들을 모집하기 시작했습니다. 원래 높은 훈련 기준과 상대적으로 높은 사망 위험 때문에 처음에는 지원자가 거의 나타나지 않았지만, 최고 사령부는 보병 임금과 반대로 공수부대원의 임금을 3배로 인상하는 것에 승인했습니다. 이윽고 501 공수대대가 창설되었고, 그 뒤를 빠르게 다른 대대와 연대가 뒤따랐습니다. 일주일간의 모집이 끝난 후, 지원자 수는 우리가 활용할 수 있는 5개의 공수사단을 구성하기에 충분했습니다. 이들 사단은 아직 전투 경험이 부족하지만 공수전술의 이러한 돌파구를 과소평가해서는 안 되며, 최고 사령부는 이들 사단에 대한 투자가 성과를 거두기를 기대하고 있습니다."
 unionstate.502.a:0 "'위로부터의 죽음을 받아라'"
 
 ###############################################
