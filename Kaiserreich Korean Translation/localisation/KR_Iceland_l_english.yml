@@ -4,7 +4,7 @@ l_english:
 
 #Black Monday Tree#
 ICE_Black_Monday_Woes:0 "검은 월요일의 비애"
-ICE_Black_Monday_Woes_desc:0 "검은 월요일의 파도가 아이슬란드 해안에 도착했습니다. 미틀오이로파로의 대구 수출도 급감했고, 이 나라의 작은 경제 나머지도 이보다 나을 게 없습니다. 우리 경제를 재건하고 다시는 이런 일이 없도록 하기 위한 첫 번째 조치가 취해져야 합니다."
+ICE_Black_Monday_Woes_desc:0 "검은 월요일의 파도가 아이슬란드 해안에 도착했습니다. 미텔오이로파로의 대구 수출도 급감했고, 이 나라의 작은 경제 나머지도 이보다 나을 게 없습니다. 우리 경제를 재건하고 다시는 이런 일이 없도록 하기 위한 첫 번째 조치가 취해져야 합니다."
 ICE_Recovery_Planning:0 "경기회복 계획"
 ICE_Recovery_Planning_desc:0 "아이슬란드는 결코 우리 북유럽 국가들의 전통적인 경제를 가질 수 없을 것입니다. 우리는 아이슬란드의 번영을 되찾기 위해 아이슬란드의 천연자원과 우리 주변의 해양 자원을 이용해야 합니다."
 ICE_Expand_Industry:0 "산업 확장"
@@ -519,21 +519,21 @@ ice.x.b:0 "WIP"
 
 #Intro Events#
 
-ice.9996.t:0 "Iceland in 1922"
-ice.9996.d:0 "Starting in 1874, Iceland had its first taste of independence when Denmark granted the colony the right to home rule and a constitution. As a part of Denmark, Iceland remained neutral throughout the Weltkrieg. After the conclusion of the Weltkrieg, Iceland joined the Mitteleuropa Economic Bloc alongside its master Denmark. This brought a period of prosperity to the island nation as Iceland could now tap into two markets for its main export: fish. The British market continued its lucrative fish imports from Iceland due to the distance between the two islands. Meanwhile, the entry of Icelandic Cod into the European Market became a source of smaller additional funds to help boost Iceland’s economy."
-ice.9996.a:0 "What once was..."
+ice.9996.t:0 "1922년 아이슬란드"
+ice.9996.d:0 "1874년에 탄생한 아이슬란드는 덴마크가 식민지에게 자치와 헌법을 부여했을 때 처음으로 독립을 맛보았습니다. 덴마크의 일부로서, 아이슬란드는 세계대전 기간 동안 중립을 지켰습니다. 종전 이후 아이슬란드는 종주국 덴마크와 함께 미텔오이로파 경제블록과 합류했습니다. 이것은 아이슬란드가 주요 수출품인 어류로 두 시장에 진출할 수 있었기 때문에 이 섬나라에 번영의 시기를 가져다 주었습니다. 영국은 두 섬 사이의 거리 때문에 아이슬란드에서 수익성이 좋은 생선 수입을 계속했습니다. 한편, 아이슬란드 대구의 유럽 시장 진출은 아이슬란드 경제를 활성화시키기 위한 적은 추가 자금의 원천이 되었습니다."
+ice.9996.a:0 "한때는 그랬지..."
 
-ice.9997.t:0 "Iceland in 1925"
-ice.9997.d:0 "However, this economic prosperity would not last forever. The British Revolution of 1925 shattered the miracle that post-weltkrieg Iceland was experiencing. As the royalists fled to various corners of the Empire, the British-Icelandic trade route instantly ran dry. The only close remainders of the cod trade were the royalists who fled to Canada but they had more pressing economic issues than resuming Icelandic trade. Thus, Iceland was left wallowing in the wake of the British Revolution since Mitteleuropan economic doctrine dictated that no trade could be enacted with Syndicalist countries."
-ice.9997.a:0 "Is no longer..."
+ice.9997.t:0 "1925년 아이슬란드"
+ice.9997.d:0 "그러나 이러한 경제적 번영은 영원히 지속되지 않았습니다. 1925년 영국 혁명은 종전 후 아이슬란드가 겪고 있던 기적을 산산조각 냈습니다. 충성파가 제국 구석구석까지 달아나자 영국-아이슬란드 무역은 순식간에 물거품이 되었습니다. 대구 무역이 가능할 유일한 나라는 왕족들이 도망간 캐나다였지만 그들은 아이슬란드 무역 재개보다 더 시급한 경제 문제를 가지고 있었습니다. 그러므로, 미텔오이로파 경제 정책이 생디칼리즘 국가들과 어떤 무역도 할 수 없다고 명령한 이후 아이슬란드는 영국 혁명의 여파로 비틀거리고 있었습니다."
+ice.9997.a:0 "이젠 아니야..."
 
-ice.9998.t:0 "Iceland in 1932"
-ice.9998.d:0 "To help put a stopgap on the massive unemployment that started to rise in the country, the Althing created the City Work-Creation Scheme to put the people to work on manual labour construction projects. This worked for some time but eventually became a divisive topic between the parties in the government. During a city council meeting on the 9th of November 1932, the council debated pulling the plug on the project. News of this reached the population who arrived in droves to riot in front of the building demanding that the Scheme remains in place due to the fact that the economic recession still continued to afflict Iceland. This riot became known as Gúttóslagurinn and ensured that the CWCS remains in effect for the near future of the country."
-ice.9998.a:0 "Will this crisis ever end?"
+ice.9998.t:0 "1932년 아이슬란드"
+ice.9998.d:0 "이 나라에서 증가하기 시작한 대규모 실업률에 미봉책을 마련하기 위해, 국회는 사람들이 육체 노동 건설 프로젝트에 종사하도록 하기 위해 도시 일자리 증가 계획을 만들었습니다. 이것은 한동안 효과가 있었지만 결국 정부 내 정당들 사이에서 불화의 원인이 되었습니다. 1932년 11월 9일 시의회 회의에서 시의회는 그 사업의 추진에 대해 토론했습니다. 경제 불황이 여전히 아이슬란드를 괴롭히고 있다는 사실 때문에 이 계획이 그대로 유지될 것을 요구하며 건물 앞에서 폭동을 일으키기 위해 집단으로 도착한 사람들에게 이 소식이 전해졌습니다. 이 폭동은 구토우슬라구린으로 알려지게 되었고, 도시 일자리 증가 계획이 가까운 미래에 효력을 발휘하도록 했습니다."
+ice.9998.a:0 "이 위기가 과연 끝날까?"
 
-ice.9999.t:0 "Iceland in 1936"
-ice.9999.d:0 "While the past decade has been a disaster for the people of Iceland, there still remains a hope for a brighter future over the horizon. Prospective government officials have started crafting plans for large scale public works projects to provide jobs, kick-starting a tourism industry, or even looking into tapping into the geothermal and hydroelectric resources that our island provides us with. Perhaps with a little assistance from Denmark, we can make these dreams come true!"
-ice.9999.a:0 "Perhaps the end is near!"
+ice.9999.t:0 "1936년 아이슬란드"
+ice.9999.d:0 "지난 10년은 아이슬란드 사람들에게 재앙이었지만, 여전히 지평선 너머로 더 밝은 미래에 대한 희망이 남아 있습니다. 유망한 정부 관리들은 일자리를 제공하거나 관광 산업을 일으키거나 심지어 우리 섬이 우리에게 제공하는 지열과 수력 발전 자원을 활용하는 것을 검토하기 위해 대규모 공공 사업 계획을 짜기 시작했습니다. 아마도 덴마크의 약간의 도움을 받으면, 우리는 이러한 꿈을 이룰 수 있을 것입니다!"
+ice.9999.a:0 "아마도 끝이 머지 않았다!"
 
 #Cod War Events#
 ice.1.t:0 "Iceland expands its fishing zones"
