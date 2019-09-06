@@ -18,7 +18,7 @@ SIA_bloated_bureaucracy_plebs_purged_desc:0 "우리의 너무 비대해진 행�
 SIA_bloated_bureaucracy_manager_purged:0 "재조직화된 관료체계"
 SIA_bloated_bureaucracy_manager_purged_desc:0 "우리의 행정 효율을 더욱 높이려는 시도는 이제 고위 관료들에게 향했습니다. 결과적으론 성공했습니다."
 SIA_conscription_bonus:0 "국가자원법"
-SIA_conscription_bonus_desc:0 "모든 시암 성인 남자들은 2년 동안 군에 있어야 하고, 55세가 될 때까지 동원 대상이 됩니다."
+SIA_conscription_bonus_desc:0 "모든 시암 성인 남자들은 2년 동안 군에 있어야 하고, 55세가 될 때까지 시암에 출성을 바쳐야만 합니다."
 SIA_RPC_good:0 "풍부한 수확을 거둔 한해"
 SIA_RPC_neutral:0 "일반적인 수확을 거둔 한해"
 SIA_RPC_bad:0 "최악의 수확을 거둔 한해"
@@ -200,7 +200,7 @@ SIA_national_populist_party_long:0 "자유타이당"
 
 ### Opinion Modifiers ###
 SIA_seize_singapore:0 "싱가포르의 불법 합병"
-SIA_no_seize_singapore:0 "Ignored our Singapore colonies"
+SIA_no_seize_singapore:0 "우리 조차지를 접수하다."
 SIA_IndNat_bastard:0 "우리 공장을 압수했다!"
 
 ### Events ###
@@ -381,12 +381,12 @@ siamn.16.prb:0 "국왕을 위해!(정부군 편에 섭니다)"
 siamn.16.ppa:0 "국가를 위해!(정부군 편에 섭니다)"
 siamn.16.ppb:0 "국왕을 위해!(반군 편에 섭니다)"
 
-siamn.17.t:0 "Rebels controling Bangkok (AI event)"
+siamn.17.t:0 "방콕을 접수한 반군 (AI event)"
 siamn.17.d:0 "This event isn't meant to fire for Human players - please report this as a bug if this appears to you"
-siamn.17.a:0 "Surrender (to Royalists)"
-siamn.17.b:0 "Surrender (to Parliamentarians)"
+siamn.17.a:0 "항복한다. (to Royalists)"
+siamn.17.b:0 "항복한다. (to Parliamentarians)"
 
-siamn.18.t:0 "The Reclamation of Bangkok"
+siamn.18.t:0 "방콕 개발"
 siamn.18.d:0 "The [SIA.GetAdjective] Civil War has recently taken an unexpected turn for the better, as our side has managed to reclaim Bangkok. Perhaps the government will come to their senses finally surrender?"
 siamn.18.a:0 "Issue an ultimatum."
 siamn.18.b:0 "To the death!"
