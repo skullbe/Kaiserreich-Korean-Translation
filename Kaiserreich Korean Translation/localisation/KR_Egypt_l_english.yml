@@ -163,7 +163,7 @@ EGY_desert_warfare_effect:0 "Enables §HDesert Combat Training§!\n§HAll legged
 EGY_camel_corpse_effect:0 "Enables §HRoyal Camel Corps§!\n§HCavalry\n    Desert§!\n      Attack: §G+15%§!\n      Defence: §G+5%§!\n      Movement: §G+3%§!\n\n"
 
 ### Focus Tree - Economy ###
-EGY_modernization_program:0 "Modernisation Program"
+EGY_modernization_program:0 "현대화 계획"
 EGY_modernization_program_desc:0 "The extremely weak nature of the Egyptian industrial economy requires our attention, through a programme of subsidies and state-sponsored businesses we can bring industrialisation to Egypt and become a truly modern country."
 EGY_egyptian_oil:0 "이집트 석유"
 EGY_egyptian_oil_desc:0 "Egypt has rich oil resources, if we could only exploit them. Foreign companies are keen to gain access to our reserves and will pay top dollar for them, by setting up joint ventures between them and the state we can save on the equipment required and ensure we get our cut."
