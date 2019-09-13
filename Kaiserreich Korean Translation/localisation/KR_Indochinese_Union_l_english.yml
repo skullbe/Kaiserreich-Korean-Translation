@@ -517,12 +517,12 @@ viet.83.a:0 "People are exhausted."
 viet.83.b:0 "Ban these counter-revolutionary poison."
 viet.83.c:0 "Reflection makes us better."
 
-viet.84.t:0 "Nguyen Tai Hoc returns to Saigon"
-viet.84.d:0 "After the failure of the Yen-Bai mutiny, the fate of many VNQDD leaders was unknown. Fortunately, comrade Nguyen Tai Hoc, the founder and head of the VNQDD managed to escape from the German bandits' persecution. He fled to the mountainous region on the Sino-Vietnamese border and hid in South China. Today Nguyen Tai Hoc has returned to Saigon and was enthusiastically welcomed by the people."
+viet.84.t:0 "응우옌 따이 혹이 사이공으로 돌아가다"
+viet.84.d:0 "옌베이 반란이 실패한 후, 많은 국민당 지도자들의 운명은 알려지지 않았습니다. 다행히 국민당 설립자 겸 대표인 응우옌 따이 혹 동지는 독일 도적들의 박해에서 가까스로 탈출했습니다. 그는 중국과 베트남 국경에 있는 산악 지대로 피신하여 남중국으로 숨었습니다. 오늘 응우옌 따이 혹은 사이공으로 돌아와 민중들의 열렬한 환영을 받았습니다."
 viet.84.a:0 "Excellent!"
 
 viet.85.t:0 "Citizen Vinh Thuy"
-viet.85.d:0 "When our troops marched into the imperial capital of Hue, the Vietnamese Emperor Bao Dai, persuaded by our agent to stay, had been awaiting at his citadel. Today, in the platform in front of Hue, surrouned by the enthusiastic crowd and the flying Indochinese red flag, Emperor Baodai announced:\n\n'From this day on, royalty is abolished in Vietnam. Emperor Bao Dai is from here on in the simple citizen, Vinh Thuy. Citizens, let me be understood, I prefer to be a free citizen than an enslaved king'.\n\nThe abdiction ceremony ended by Bao Dai handing over the symbols of royalty-gold seal and gold sword-to the revolutionary delegates while the crowd shouted praise to citizen Vinh Thuy."
+viet.85.d:0 "아군이 황실 수도인 후에로 진군했을 때 베트남 황제 바오 다이는 우리 요원의 설득으로 머물게 되었습니다. 오늘, 열광하는 군중들과 날아다니는 인도차이나의 붉은 깃발에 둘러싸인 바오다이 황제는 앞 연단에서 다음과 같이 발표했습니다.\n\n'오늘부터 베트남에서는 군주제가 폐지된다. 바오 다이 황제는 이제부터 일반 시민인 빈 투이이다. 시민들이여, 이해해주시오, 나는 노예가 된 왕보다 자유로운 시민이 되는 것을 더 선호하오.'\n\n군중이 시민 빈 투이에게 찬사를 보내는 동안, 바오 다이가 혁명 대표들에게 황금 국새와 황금 검의 상징을 건네면서 퇴위식은 끝났습니다."
 viet.85.a:0 "Emperor yesterday, citizen today."
 
 viet.86.t:0 "Women's role in revolution?"
@@ -763,7 +763,7 @@ viet.167.a:0 "What a shame."
 
 ### decisions ###
 INC_the_resistance_decisions:0 "저항"
-INC_the_resistance_decisions_desc:0 "독일 제국은 아마도 현존하는 가장 강력한 군사를 가졌을 것입니다. 그러나 우리는 승리할 것입니다. 독일 제국주의자에 대한 저항은 최대의 용기와 희생을 요구합니다. 그러나 살아남아 이기기 위해서는 용기와 희생만으로는 충분하지 않습니다. 다윗은 검으로 골리앗과 싸울 수가 없었습니다. 그는 약자의 무기를 사용하는 법을 배워야 했습니다.\n\n현재 인도차이나에서의 §Y게릴라 활동§! §Y세기§!: §R[?INC.guerilla_activity|-0]§!\n"
+INC_the_resistance_decisions_desc:0 "독일 제국은 아마도 현존하는 가장 강력한 군사력을 가졌을 것입니다. 그러나 우리는 승리할 것입니다. 독일 제국주의자에 대한 저항은 최대의 용기와 희생을 요구합니다. 그러나 살아남아 이기기 위해서는 용기와 희생만으로는 충분하지 않습니다. 다윗은 검으로 골리앗과 싸울 수가 없었습니다. 그는 약자의 무기를 사용하는 법을 배워야 했습니다.\n\n현재 인도차이나에서의 §Y게릴라 활동§! §Y세기§!: §R[?INC.guerilla_activity|-0]§!\n"
 spend_10_guerilla:0 "§Y10§! Guerrilla Strength"
 spend_10_guerilla_blocked:0 "§R10§! Guerrilla Strength"
 spend_10_guerilla_tooltip:0 "It costs §R10§! §YGuerrilla Strength§! to take this action."
