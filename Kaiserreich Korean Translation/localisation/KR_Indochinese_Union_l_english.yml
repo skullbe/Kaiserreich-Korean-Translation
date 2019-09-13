@@ -132,8 +132,8 @@ INC_market_liberal_party:0 "인도차이나 입헌당"
 INC_market_liberal_party_long:0 "인도차이나 입헌당(Dang Lap hien Dong Duong)"
 INC_social_conservative_party:0 "진보당"
 INC_social_conservative_party_long:0 "진보당(Dang Tien Bo)"
-INC_authoritarian_democrat_party:0 "국가제연합"
-INC_authoritarian_democrat_party_long:0 "국가제연합(Khoi Quoc Gia Lian Hiep)" #國家際聯合
+INC_authoritarian_democrat_party:0 "국가 연합 블록"
+INC_authoritarian_democrat_party_long:0 "국가 연합 블록(Khoi Quoc Gia Lian Hiep)" #?國家聯合
 INC_paternal_autocrat_party:0 "왕당파"
 INC_paternal_autocrat_party_long:0 "왕당파(Dang Bao Hoang)"
 INC_national_populist_party:0 "까오다이"
