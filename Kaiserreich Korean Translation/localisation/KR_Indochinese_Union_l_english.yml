@@ -353,7 +353,7 @@ viet.30.d:0 "CGT의 권한으로 인도차이나 연합은 생디칼리즘 국�
 viet.30.a:0 "민주주의와 연대의 시대!"
 
 viet.31.t:0 "[GetYear]년 노동자 총의회 선거"
-viet.31.d:0 "노동자 총의회의 임기는 5년이다. 이제 새로운 입법 선거가 다가오고 있고 총의회는 행정부인 공안위원회를 선출할 것입니다. 노동파로 알려진 정통 생디칼리스트들은 총의회에서 계속 우위를 점하겠지만 정치적 유연성을 높이기 위해 다른 파벌과 연합할 수도 있습니다."
+viet.31.d:0 "노동자 총의회의 임기는 5년입니다. 이제 새로운 입법 선거가 다가오고 있고 총의회는 행정부인 공안위원회를 선출할 것입니다. 노동파로 알려진 정통 생디칼리스트들은 총의회에서 계속 우위를 점하겠지만 정치적 유연성을 높이기 위해 다른 파벌과 연합할 수도 있습니다."
 viet.31.a:0 "노동파 우세 - 산업화에 집중!"
 viet.31.b:0 "무정부주의자들을 데려와라 - 문화 계몽!"
 viet.31.c:0 "평원파를 데려와라 - 사회 개발!"
@@ -492,27 +492,27 @@ viet.74.a:0 "Excellent."
 #Anti-Tank Weapon: Firebomb and Lunge mine
 
 viet.79.t:0 "구정공세!"
-viet.79.d:0 "Shortly after the midnight, when Vietnamese people are celebrating lunar new year and setting off firecrackers, grenades exploded in the German Embassy in Hanoi. Vietcong commandos appeared in Hanoi downtown while a huge size of Vietcong troops launched massive attack against every cities and towns. Ignorant peasants, led by VC agitators and armed with machetes and spears, rose up in various districts to 'eliminate the tyrants'. We are totally caught off guard!"
+viet.79.d:0 "베트남 사람들이 음력 설을 축하하고 폭죽을 터뜨린 자정 직후 하노이 주재 독일 대사관에서 수류탄이 터졌습니다. 거대한 규모의 베트콩 군대가 모든 도시와 마을을 상대로 대규모 공격을 감행하는 동안, 베트콩 특공대가 하노이 시내에 나타났습니다. 베트콩의 농노들이 주도하고, 마체테와 창으로 무장한 무명의 농민들이 여러 지역에서 일어나 '폭군들을 제거하라'라고 말했습니다. 우리는 완전히 허를 찔렸습니다!"
 viet.79.a:0 "Is this how Vietcong celebrate Lunar New Year?"
 
-viet.80.t:0 "Shelling of Saigon"
-viet.80.d:0 "This morning, the Germans began a bombardment of the city of Saigon, using both German warships as well as aerial bombardment. When this assault finally ceased, most og the major buildings in Saigon had been basically levelled. However, this bombardment will only aggravate our people's hatred of the German bandits."
+viet.80.t:0 "사이공 포격"
+viet.80.d:0 "오늘 아침, 독일군은 독일 군함과 공중 폭격 모두를 이용하여 사이공 시를 폭격하기 시작했습니다. 마침내 이 공격이 중단되었을 때, 사이공에 있던 대부분의 주요 건물들은 완전히 무너졌습니다. 그러나 이 폭격은 독일 도둑들에 대한 우리 민족의 증오를 악화시킬 뿐입니다."
 viet.80.a:0 "Damn it."
 
 
 viet.81.t:0 "New Textbooks"
-viet.81.d:0 "In order to awaken the militaristic spirit inherent to Indochinese people, we have introduced a complete set of reform to our education system including military training in elementary school, weapon using courses and new textbooks. Here is an example of a question from a Grade 2 Mathematics textbook:\n\nOne Indochinese soldier can kill five Huns.\nIf seven Indochinese soldiers fight forty-three Hunnic scums, how many Hunnic bandits will live?"
+viet.81.d:0 "인도차이나 민족 고유의 군국주의 정신을 일깨우기 위해 초등학교에서의 군사훈련, 무기를 사용하는 강의, 새 교과서 등 우리 교육시스템에 전면적인 개혁을 도입했습니다. 다음은 2급 수학 교과서에 있는 문제입니다.\n\n인도차이나 군인 한 명이 훈족 다섯을 죽일 수 있다.\n7명의 인도차이나 병사가 43명의 훈족 쓰레기와 싸운다면, 얼마나 많은 훈족 도적들이 살 수 있을까?"
 viet.81.a:0 "8?"
-viet.81.b:0 "All the Huns are killed!"
+viet.81.b:0 "모든 훈족들이 죽는다!"
 
 viet.82.t:0 "해방의 날"
-viet.82.d.a:0 "Today is the Liberation Day—The day when we finally drive German imperialists out of our motherland. The victory and independence came at the cost of thousands of martyred souls. Almost everyone in this sorrowful land loses their beloved in the path towards liberation. Let's mourning all the martyrs devote their lives for our peace and freedom. Phan Dinh Phung, Phan Boi Chau and Ho Chi Minh are the most notable ones among them."
-viet.82.d.b:0 "Today is the Liberation Day—The day when we finally drive German imperialists out of our motherland. Now our peace and freedom, came at the cost of thousands of martyred souls, is under threat. Let's follow the example of Phan Dinh Phung, Phan Boi Chau and Ho Chi Minh to fight for our independence!"
+viet.82.d.a:0 "오늘은 드디어 독일 제국주의자들을 모국에서 몰아낸 광복절입니다. 승리와 독립은 수천 명의 순교자들을 희생시키면서 이루어졌습니다. 이 땅의 거의 모든 사람들은 해방을 향한 길에서 사랑하는 사람을 잃었습니다. 우리의 평화와 자유를 위해 모든 순교자들을 애도합시다. 그중에서도 판딘풍, 판보이쩌우, 호치민이 가장 눈에 띕니다."
+viet.82.d.b:0 "오늘은 드디어 독일 제국주의자들을 모국에서 몰아낸 광복절입니다. 수천 명의 순교한 영혼들을 희생시키면서 얻어낸 평화와 자유가 이제 위협받고 있다. 우리의 독립을 위해 싸우기 위해 판딘풍, 판보이쩌우, 호치민의 예를 따릅시다!"
 viet.82.a:0 "Mourning the martyrs."
 viet.82.b:0 "For greater victory!"
 
-viet.83.t:0 "The Sorrow of War"
-viet.83.d:0 "Recently, some of our writers published a series of non-fictions and novels reflecting on our previous war. They portrayed the brutality of the war and people's sufferings during the war. These works failed to make a difference between the evil imperialist invasion and our just war to win independence and unify the country and they have caused great confusion among our people."
+viet.83.t:0 "전쟁의 슬픔"
+viet.83.d:0 "최근에 우리 작가들 중 몇 명은 우리의 이전 전쟁을 반성하는 논픽션과 소설을 연재했습니다. 그들은 전쟁의 잔인함과 전쟁 중 사람들의 고통을 묘사했습니다. 이 작품들은 사악한 제국주의 침략과 독립을 쟁취하고 국가를 통일시키기 위한 우리의 정의로운 전쟁 사이에 차이를 만들지 못했고 우리 민족 사이에 큰 혼란을 야기시켰다."
 viet.83.a:0 "People are exhausted."
 viet.83.b:0 "Ban these counter-revolutionary poison."
 viet.83.c:0 "Reflection makes us better."
@@ -762,8 +762,8 @@ viet.167.a:0 "What a shame."
 
 
 ### decisions ###
-INC_the_resistance_decisions:0 "The Resistance"
-INC_the_resistance_decisions_desc:0 "German Empire is probably the strongest military power ever exists, but we will triumph. The Resistance against German imperialists calls for greatest courage and sacrifices. But to survive and win, courage and sacrifices are not enough. David couldn't fight Goliah with a sword. He had to learn how to use the weapons of the weak.\n\nCurrent §YStrength§! of the §YGuerilla Activities§! in Indochina: §R[?INC.guerilla_activity|-0]§!\n"
+INC_the_resistance_decisions:0 "저항"
+INC_the_resistance_decisions_desc:0 "독일 제국은 아마도 현존하는 가장 강력한 군사를 가졌을 것입니다. 그러나 우리는 승리할 것입니다. 독일 제국주의자에 대한 저항은 최대의 용기와 희생을 요구합니다. 그러나 살아남아 이기기 위해서는 용기와 희생만으로는 충분하지 않습니다. 다윗은 검으로 골리앗과 싸울 수가 없었습니다. 그는 약자의 무기를 사용하는 법을 배워야 했습니다.\n\n현재 인도차이나에서의 §Y게릴라 활동§! §Y세기§!: §R[?INC.guerilla_activity|-0]§!\n"
 spend_10_guerilla:0 "§Y10§! Guerrilla Strength"
 spend_10_guerilla_blocked:0 "§R10§! Guerrilla Strength"
 spend_10_guerilla_tooltip:0 "It costs §R10§! §YGuerrilla Strength§! to take this action."
