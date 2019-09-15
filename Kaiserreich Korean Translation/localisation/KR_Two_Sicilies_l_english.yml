@@ -152,7 +152,7 @@ SIC_join_entente_desc:0 "Our friends in France will help us liberate the North, 
 SIC_join_reichspakt:0 "제국 조약 가입"
 SIC_join_reichspakt_desc:0 "독일은 유럽에서 가장 강한 국가일뿐 아니라, 효율적으로 생디칼리즘의 위혐을 몰아낼 수 있는 유일한 국가입니다."
 SIC_join_austria:0 "도나우-아드리아 연맹 가입"
-SIC_join_austria_desc:0 "합스부르크 왕조는 과거에 우리를 도와주었고, 때가 되면 진정한 이탈리아 정부를 돕는 것이 현명한 선택이었음을 알게 될 것입니다."
+SIC_join_austria_desc:0 "합스부르크 왕조는 과거 우리의 협력자였고, 정통 이탈리아 정부에게 협력하는 것이 얼마나 현명한 일인지에 대해서도 알고 있습니다."
 
 ### Military Focuses ###
 SIC_armed_forces:0 "왕립군"
