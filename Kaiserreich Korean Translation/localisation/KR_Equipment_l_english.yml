@@ -1141,11 +1141,11 @@ BAT_heavy_tank_equipment_3_desc:0 "Known under the informal name Königstiger, t
 
 BAT_super_heavy_tank_equipment_1:0 "Panzerkampfwagen VIII Maus"
 BAT_super_heavy_tank_equipment_1_short:0 "Maus"
-BAT_super_heavy_tank_equipment_1_desc:0 "The Panzerkampfwagen VIII Maus is the heaviest fully enclosed armoured fighting vehicle yet designed. The Maus' main armament is a 128 mm KwK 44 L/55 gun with an added coaxial 75 mm gun."
+BAT_super_heavy_tank_equipment_1_desc:0 "8호 전차 마우스는 지금까지 설계된 모든 폐쇄형 전투실 전차 중에서도 가장 크고 무거운 전차입니다. 마우스에는 128mm KwK 44 L/55 주포와 75mm 동축부포가 탑재되었습니다."
 
 BAT_modern_tank_equipment_1:0 "E-50 Standardpanzer"
 BAT_modern_tank_equipment_1_short:0 "E-50"
-BAT_modern_tank_equipment_1_desc:0 "The Entwicklung 'Standardpanzer' series was designed from the very beginning around modularity. The tanks of this series are meant not only to dominate the battlefield with their cutting edge armaments, but to do so efficiently."
+BAT_modern_tank_equipment_1_desc:0 "엔트빅룽 '슈탄다르트판처' 시리즈는 처음부터 전차들의 전면 모듈화를 목적으로 설계되었습니다. 이는 생산 비용을 최소화하고 효율성을 극대화하기 위함이었습니다."
 
 ###
 ### Flanders-Wallonia ###
@@ -1241,11 +1241,11 @@ BEL_heavy_tank_equipment_3_desc:0 "Known under the informal name Königstiger, t
 
 BEL_super_heavy_tank_equipment_1:0 "Panzerkampfwagen VIII Maus"
 BEL_super_heavy_tank_equipment_1_short:0 "Maus"
-BEL_super_heavy_tank_equipment_1_desc:0 "The Panzerkampfwagen VIII Maus is the heaviest fully enclosed armoured fighting vehicle yet designed. The Maus' main armament is a 128 mm KwK 44 L/55 gun with an added coaxial 75 mm gun."
+BEL_super_heavy_tank_equipment_1_desc:0 "8호 전차 마우스는 지금까지 설계된 모든 폐쇄형 전투실 전차 중에서도 가장 크고 무거운 전차입니다. 마우스에는 128mm KwK 44 L/55 주포와 75mm 동축부포가 탑재되었습니다."
 
 BEL_modern_tank_equipment_1:0 "E-50 Standardpanzer"
 BEL_modern_tank_equipment_1_short:0 "E-50"
-BEL_modern_tank_equipment_1_desc:0 "The Entwicklung 'Standardpanzer' series was designed from the very beginning around modularity. The tanks of this series are meant not only to dominate the battlefield with their cutting edge armaments, but to do so efficiently."
+BEL_modern_tank_equipment_1_desc:0 "엔트빅룽 '슈탄다르트판처' 시리즈는 처음부터 전차들의 전면 모듈화를 목적으로 설계되었습니다. 이는 생산 비용을 최소화하고 효율성을 극대화하기 위함이었습니다."
 
 ###
 ### Upper Volta ###
@@ -2328,7 +2328,7 @@ CSA_super_heavy_tank_equipment_1_desc:0 "While the H2 heavy tank excelled in its
 
 CSA_modern_tank_equipment_1:0 "M12"
 CSA_modern_tank_equipment_1_short:0 "M12"
-CSA_modern_tank_equipment_1_desc:0 "본래 계획대로라면 M9 중형전차가 개발될 예정이었습니다. 그러나 육군 교리의 급진적인 변화에 맞춰 설계에 대대적인 수정이 가해졌고, 결국 중전차와 중형전차의 역할을 모두 수행할 수 있는 완전히 새로운 개념의 전차인 M12가 탄생했습니다. 생디칼리스트들의 자존심인 M12가 지나간 자리에는 적들의 잔해만이 남을 것입니다."
+CSA_modern_tank_equipment_1_desc:0 "본래 개발될 예정이었던 M9 중형전차는 육군 교리의 급진적인 변화에 맞춰 대대적인 설계 수정을 거쳤고, 결국 중전차와 중형전차의 역할을 모두 수행할 수 있는 완전히 새로운 개념의 전차인 M12가 탄생했습니다. 생디칼리스트들의 자존심인 M12가 지나간 자리에는 적들의 잔해만이 남을 것입니다."
 
 ###
 ### Cuba ###
@@ -4024,7 +4024,7 @@ GEA_heavy_tank_destroyer_equipment_3_desc:0 "The Jagdtiger carries a 128 mm PaK 
 
 GEA_super_heavy_tank_equipment_1:0 "Panzerkampfwagen VIII Maus"
 GEA_super_heavy_tank_equipment_1_short:0 "Maus"
-GEA_super_heavy_tank_equipment_1_desc:0 "The Panzerkampfwagen VIII Maus is the heaviest fully enclosed armoured fighting vehicle yet designed. The Maus' main armament is a 128 mm KwK 44 L/55 gun with an added coaxial 75 mm gun."
+GEA_super_heavy_tank_equipment_1_desc:0 "8호 전차 마우스는 지금까지 설계된 모든 폐쇄형 전투실 전차 중에서도 가장 크고 무거운 전차입니다. 마우스에는 128mm KwK 44 L/55 주포와 75mm 동축부포가 탑재되었습니다."
 GEA_super_heavy_tank_artillery_equipment_1:0 "Geschützwagen E-100"
 GEA_super_heavy_tank_artillery_equipment_1_short:0 "GW E-100"
 GEA_super_heavy_tank_artillery_equipment_1_desc:0 "A 210mm artillery gun mounted on a super heavy tank chassis, this sp gun rivals some railway guns in power."
@@ -4037,7 +4037,7 @@ GEA_super_heavy_tank_aa_equipment_1_desc:0 "The chassis of a Maus mounting twin 
 
 GEA_modern_tank_equipment_1:0 "E-50 Standardpanzer"
 GEA_modern_tank_equipment_1_short:0 "E-50"
-GEA_modern_tank_equipment_1_desc:0 "The Entwicklung 'Standardpanzer' series was designed from the very beginning around modularity. The tanks of this series are meant not only to dominate the battlefield with their cutting edge armaments, but to do so efficiently."
+GEA_modern_tank_equipment_1_desc:0 "엔트빅룽 '슈탄다르트판처' 시리즈는 처음부터 전차들의 전면 모듈화를 목적으로 설계되었습니다. 이는 생산 비용을 최소화하고 효율성을 극대화하기 위함이었습니다."
 GEA_modern_tank_destroyer_equipment_1:0 "E-25 Standardpanzer"
 GEA_modern_tank_destroyer_equipment_1_short:0 "E-25"
 GEA_modern_tank_destroyer_equipment_1_desc:0 "An updated version of the JadgPanzer IV, the E-25 is faster and better armoured"
@@ -4241,7 +4241,7 @@ GER_heavy_tank_destroyer_equipment_3_desc:0 "The Jagdtiger carries a 128 mm PaK 
 
 GER_super_heavy_tank_equipment_1:0 "Panzerkampfwagen VIII Maus"
 GER_super_heavy_tank_equipment_1_short:0 "Maus"
-GER_super_heavy_tank_equipment_1_desc:0 "The Panzerkampfwagen VIII Maus is the heaviest fully enclosed armoured fighting vehicle yet designed. The Maus' main armament is a 128 mm KwK 44 L/55 gun with an added coaxial 75 mm gun."
+GER_super_heavy_tank_equipment_1_desc:0 "8호 전차 마우스는 지금까지 설계된 모든 폐쇄형 전투실 전차 중에서도 가장 크고 무거운 전차입니다. 마우스에는 128mm KwK 44 L/55 주포와 75mm 동축부포가 탑재되었습니다."
 GER_super_heavy_tank_artillery_equipment_1:0 "Geschützwagen E-100"
 GER_super_heavy_tank_artillery_equipment_1_short:0 "GW E-100"
 GER_super_heavy_tank_artillery_equipment_1_desc:0 "A 210mm artillery gun mounted on a super heavy tank chassis, this sp gun rivals some railway guns in power."
@@ -4254,7 +4254,7 @@ GER_super_heavy_tank_aa_equipment_1_desc:0 "The chassis of a Maus mounting twin 
 
 GER_modern_tank_equipment_1:0 "E-50 Standardpanzer"
 GER_modern_tank_equipment_1_short:0 "E-50"
-GER_modern_tank_equipment_1_desc:0 "The Entwicklung 'Standardpanzer' series was designed from the very beginning around modularity. The tanks of this series are meant not only to dominate the battlefield with their cutting edge armaments, but to do so efficiently."
+GER_modern_tank_equipment_1_desc:0 "엔트빅룽 '슈탄다르트판처' 시리즈는 처음부터 전차들의 전면 모듈화를 목적으로 설계되었습니다. 이는 생산 비용을 최소화하고 효율성을 극대화하기 위함이었습니다."
 GER_modern_tank_destroyer_equipment_1:0 "E-25 Standardpanzer"
 GER_modern_tank_destroyer_equipment_1_short:0 "E-25"
 GER_modern_tank_destroyer_equipment_1_desc:0 "An updated version of the JadgPanzer IV, the E-25 is faster and better armoured"
@@ -4450,7 +4450,7 @@ GEX_heavy_tank_destroyer_equipment_3_desc:0 "The Jagdtiger carries a 128 mm PaK 
 
 GEX_super_heavy_tank_equipment_1:0 "Panzerkampfwagen VIII Maus"
 GEX_super_heavy_tank_equipment_1_short:0 "Maus"
-GEX_super_heavy_tank_equipment_1_desc:0 "The Panzerkampfwagen VIII Maus is the heaviest fully enclosed armoured fighting vehicle yet designed. The Maus' main armament is a 128 mm KwK 44 L/55 gun with an added coaxial 75 mm gun."
+GEX_super_heavy_tank_equipment_1_desc:0 "8호 전차 마우스는 지금까지 설계된 모든 폐쇄형 전투실 전차 중에서도 가장 크고 무거운 전차입니다. 마우스에는 128mm KwK 44 L/55 주포와 75mm 동축부포가 탑재되었습니다."
 GEX_super_heavy_tank_artillery_equipment_1:0 "Geschützwagen E-100"
 GEX_super_heavy_tank_artillery_equipment_1_short:0 "GW E-100"
 GEX_super_heavy_tank_artillery_equipment_1_desc:0 "A 210mm artillery gun mounted on a super heavy tank chassis, this sp gun rivals some railway guns in power."
@@ -4463,7 +4463,7 @@ GEX_super_heavy_tank_aa_equipment_1_desc:0 "The chassis of a Maus mounting twin 
 
 GEX_modern_tank_equipment_1:0 "E-50 Standardpanzer"
 GEX_modern_tank_equipment_1_short:0 "E-50"
-GEX_modern_tank_equipment_1_desc:0 "The Entwicklung 'Standardpanzer' series was designed from the very beginning around modularity. The tanks of this series are meant not only to dominate the battlefield with their cutting edge armaments, but to do so efficiently."
+GEX_modern_tank_equipment_1_desc:0 "엔트빅룽 '슈탄다르트판처' 시리즈는 처음부터 전차들의 전면 모듈화를 목적으로 설계되었습니다. 이는 생산 비용을 최소화하고 효율성을 극대화하기 위함이었습니다."
 GEX_modern_tank_destroyer_equipment_1:0 "E-25 Standardpanzer"
 GEX_modern_tank_destroyer_equipment_1_short:0 "E-25"
 GEX_modern_tank_destroyer_equipment_1_desc:0 "An updated version of the JadgPanzer IV, the E-25 is faster and better armoured"
@@ -4728,7 +4728,7 @@ GRU_heavy_tank_destroyer_equipment_3_desc:0 "The Jagdtiger carries a 128 mm PaK 
 
 GRU_super_heavy_tank_equipment_1:0 "Panzerkampfwagen VIII Maus"
 GRU_super_heavy_tank_equipment_1_short:0 "Maus"
-GRU_super_heavy_tank_equipment_1_desc:0 "The Panzerkampfwagen VIII Maus is the heaviest fully enclosed armoured fighting vehicle yet designed. The Maus' main armament is a 128 mm KwK 44 L/55 gun with an added coaxial 75 mm gun."
+GRU_super_heavy_tank_equipment_1_desc:0 "8호 전차 마우스는 지금까지 설계된 모든 폐쇄형 전투실 전차 중에서도 가장 크고 무거운 전차입니다. 마우스에는 128mm KwK 44 L/55 주포와 75mm 동축부포가 탑재되었습니다."
 GRU_super_heavy_tank_artillery_equipment_1:0 "Geschützwagen E-100"
 GRU_super_heavy_tank_artillery_equipment_1_short:0 "GW E-100"
 GRU_super_heavy_tank_artillery_equipment_1_desc:0 "A 210mm artillery gun mounted on a super heavy tank chassis, this sp gun rivals some railway guns in power."
@@ -4741,7 +4741,7 @@ GRU_super_heavy_tank_aa_equipment_1_desc:0 "The chassis of a Maus mounting twin 
 
 GRU_modern_tank_equipment_1:0 "E-50 Standardpanzer"
 GRU_modern_tank_equipment_1_short:0 "E-50"
-GRU_modern_tank_equipment_1_desc:0 "The Entwicklung 'Standardpanzer' series was designed from the very beginning around modularity. The tanks of this series are meant not only to dominate the battlefield with their cutting edge armaments, but to do so efficiently."
+GRU_modern_tank_equipment_1_desc:0 "엔트빅룽 '슈탄다르트판처' 시리즈는 처음부터 전차들의 전면 모듈화를 목적으로 설계되었습니다. 이는 생산 비용을 최소화하고 효율성을 극대화하기 위함이었습니다."
 GRU_modern_tank_destroyer_equipment_1:0 "E-25 Standardpanzer"
 GRU_modern_tank_destroyer_equipment_1_short:0 "E-25"
 GRU_modern_tank_destroyer_equipment_1_desc:0 "An updated version of the JadgPanzer IV, the E-25 is faster and better armoured"
