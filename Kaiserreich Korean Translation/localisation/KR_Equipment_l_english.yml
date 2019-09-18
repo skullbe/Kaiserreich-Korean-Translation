@@ -1141,7 +1141,8 @@ BAT_heavy_tank_equipment_3_desc:0 "Known under the informal name Königstiger, t
 
 BAT_super_heavy_tank_equipment_1:0 "Panzerkampfwagen VIII Maus"
 BAT_super_heavy_tank_equipment_1_short:0 "Maus"
-BAT_super_heavy_tank_equipment_1_desc:0 "8호 전차 마우스는 폐쇄형 전투실을 가진 전차 중에서도 가장 크고 무거운 전차입니다. 마우스에는 128mm KwK 44 L/55 주포와 75mm 동축부포가 탑재되었습니다."
+BAT_super_heavy_tank_equipment_1_desc:0 "8호 전차 마우스는 지금까지 설계된 모든 폐쇄형 전투실 전차 중에서도 가장 크고 무거운 전차입니다. 마우스에는 128mm KwK 44 L/55 주포와 75mm 동축부포가 탑재되었습니다."
+
 BAT_modern_tank_equipment_1:0 "E-50 Standardpanzer"
 BAT_modern_tank_equipment_1_short:0 "E-50"
 BAT_modern_tank_equipment_1_desc:0 "엔트빅룽 '슈탄다르트판처' 시리즈는 처음부터 전차들의 전면 모듈화를 목적으로 설계되었습니다. 이는 생산 비용을 최소화하고 효율성을 극대화하기 위함이었습니다."
