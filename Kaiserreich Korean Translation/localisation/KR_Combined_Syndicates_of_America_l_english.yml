@@ -84,10 +84,10 @@ CSA_socialist_union_of_america_social_democrat_DEF:0 "미 사회주의 합중국
 ### Opinion Modifiers ###
 
 ### Flags ###
-CSA_constitutional_convention_done:0 "제2차 제헌회의가 종결되다"
-CSA_foster_is_leader:0 "윌리엄 Z. 포스터가 대통령이다"
-CSA_browder_is_leader:0 "얼 브라우더가 대통령이다"
-CSA_new_industries:0 "자본주의 기업들이 노동자에 의해 전복되다"
+CSA_constitutional_convention_done:0 "제2차 제헌회의가 종결되었습니다"
+CSA_foster_is_leader:0 "윌리엄 Z. 포스터가 대통령입니다"
+CSA_browder_is_leader:0 "얼 브라우더가 대통령입니다"
+CSA_new_industries:0 "자본주의 기업들이 노동자들에게 전복되었습니다"
 ### Ideas ###
 CSA_righteous_nation:0 "정당한 대통령"
 CSA_american_advisors_1:0 "미국 고문단"
@@ -163,7 +163,7 @@ CSA_destroy_longists:0 "§G우리는 롱을 위해 싸우는 테러리스트들�
 CSA_destroy_federalists:0 "§G우리는 구 정부를 위해 싸우는 테러리스트들을 파괴할 것입니다.§!"
 CSA_export_the_revolution_tooltip:0 "§G우리는 아메리카 전역에 혁명 전파를 시작할 것입니다.\n§!"
 CSA_same_wars_as_Intl:0 "어떤 적이든 인터내셔널과 전쟁하게 됩니다."
-CSA_internationale_exists:0 "인터내셔널이 존재하며, 합병된 상태가 아니여야 하며, 우리와 전쟁 중이 아니여야합니다"
+CSA_internationale_exists:0 "인터내셔널이 존재하며, 우리와 전쟁 중이지 않아야 합니다"
 CSA_gun_bonus:0 "더 나은 소총"
 CSA_support_bonus:0 "항상된 우리의 기관총"
 CSA_m1_bonus:0 "m1 개발"
@@ -182,23 +182,23 @@ CSA_navy_bonus:0 "해군 개발"
 CSA_magic_bonus:0 "M.A.G.I.C. 프로그램"
 CSA_land_doctrine_bonus:0 "혁명의 교훈"
 CSA_mot_bonus: "차량화 효과"
-CSA_hellcat_focus_effect:0 "이것은 §Y두개의 함재기§! 기술을 재공 할 것입니다.."
+CSA_hellcat_focus_effect:0 "§Y함재기§! 설계 둘이 제공될 것입니다.."
 ### Decisions ###
 
 CSA_civil_war_decisions:0 "생디칼리스트 혁명 결정"
 CSA_civil_war_decisions_desc:0 "오늘 우리는 해방의 대의와 마주하고 우리의 목소리를 크게 낼 것입니다. 우리는 우리의 손으로 조합을 부강하게 만들 것입니다. 승리가 다가옵니다!"
 
-CSA_expanding_the_revolution_decisions:0 "혁명을 수출하다"
+CSA_expanding_the_revolution_decisions:0 "혁명의 수출"
 CSA_expanding_the_revolution_decisions_desc:0 "우리는 미국 전역에 혁명을 전파했습니다. 그러나 우리는 이에 만족할 수는 없습니다. 우리는 혁명을 전파할 것입니다. 일부 아메리카 대륙부터 노동자들의 족쇄를 해방시키도록 도울 것입니다."
-CSA_finish_the_revolution1:0 "혁명을 끝낼 시간이다 - 서부 해방을 위한 준비"
-CSA_finish_the_revolution2:0 "혁명을 끝낼 시간이다 - 서부 해방"
+CSA_finish_the_revolution1:0 "혁명의 마침표 - 서부 해방을 위한 준비"
+CSA_finish_the_revolution2:0 "혁명의 마침표 - 서부 해방"
 CSA_expand_revolution:0 "[From.GetNameDef] 해방"
-CSA_expand_revolution_desc:0 "생디칼리스트 혁명은 신세계를 가로질러 반드시 전파되어야하며 [CSA.GetNameDef]이 혁명의 선봉장이 되어야합니다!"
+CSA_expand_revolution_desc:0 "생디칼리스트 혁명은 신세계 전역에 반드시 전파되어야만 하며, [CSA.GetNameDef]이 그 선봉장에 설 것입니다!"
 
 CSA_international_decisions:0 "인터내셔널에서의 미국"
-CSA_international_decisions_desc:0 "미국이 인터내셔널에 가입했기 때문에, 우리는 인터내셔널에 전적으로 기여할 수 있고, 인터내셔널에서 우리의 의무를 수행할 수 있을 것입니다."
+CSA_international_decisions_desc:0 "이제 미국은 인터내셔널의 일원입니다. 인터내셔널을 위해 전적으로 헌신할 수 있다는 의미입니다."
 CSA_join_international:0 "인터내셔널 가입"
-CSA_join_international_desc:0 "세계의 질서에서 우리의 위치는 항상 확고합니다 바로 유럽이 우리를 필요로 한다는 것입니다."
+CSA_join_international_desc:0 "세계 질서에는 불변의 가치가 하나 있습니다. 바로 유럽이 우리를 필요로 한다는 것입니다."
 CSA_work_with_allies:0 "[From.GetAdjective] 동맹과의 협력"
 CSA_work_with_allies_desc:0 "우리는 많은 장비와 조언자 그리고 우리의 노하우를 사용하여 [From.GetNameDef] 내 동맹을 도와주어야 합니다.   보내야 합니다."
 
@@ -386,13 +386,13 @@ CSA_create_the_cia_desc:0 "In order to defeat the class enemies of the revolutio
 CSA_purge_reactionaries:0 "반동 척결"
 CSA_purge_reactionaries_desc:0 "미국만큼 자본주의에 의해 문화가 더럽혀진 나라는 없을 것입니다. 자본주의는 근본적으로 노동자들에 대한 약탈을 영구화하려는 거대한 노력입니다. 더럽고 치사하고 무정한 미국의 자본주의는 프롤레타리아 혁명을 통해 위선과 사상의 쓰레기더미 속으로 사라졌으며, 영광스럽고 새로운 미국을 위한 길을 열어주었습니다."
 ### Army Focuses ###
-CSA_second_continental_army:0 "두번째 대륙군"
+CSA_second_continental_army:0 "제2의 대륙육군"
 CSA_second_continental_army_desc:0 "혁명이 시작되었고, 열정과 열광이 인민들 사이에서 쏟아져 나오며 우리의 용감한 지원자들이 줄을 서고 있습니다. 우리는 워싱턴을 몇 주 이내로 탈환할 것이며, 그 이후에 반동 분자들은 무너질 것입니다!"
-CSA_a_gun_in_hand:0 "손에 총을!"
+CSA_a_gun_in_hand:0 "손에 총을 쥐어라!"
 CSA_a_gun_in_hand_desc:0 "사람들에게 총보다 필요한 것은 바로 당연히 더 좋은 총입니다! 지금 대규모 보병대가 우리 군의 대부분을 점유하고 있기 때문에 우리는 더 나은 무장을 지급하기 위해 노력해야 해야 합니다.."
 CSA_a_boot_under_foot:0 "군복과 수류탄"
 CSA_a_boot_under_foot_desc:0 "우리 군대는 일반적인 군복이 부족하기 때문에, 표준 전투복을 도입해야 하며, 또한 어떤 상황에서도 대처하기 위하여 박격포와 수류탄 그리고 기관총을 준비해놔야 합니다."
-CSA_appoint_butler:0 "최고 사령관 : 스매들리 버틀러"
+CSA_appoint_butler:0 "최고사령관 : 스메들리 버틀러"
 CSA_appoint_butler_desc:0 "전 해병대 출신의 스메들리 버틀러 장군이 최고 사령관으로써 우리 군을 이끌기 위해 나섰습니다. 그가 가진 전쟁에서의 경험과 군사 교리에 대한 지식은 우리에게 큰 도움이 될 것입니다."
 CSA_the_first_draft:0 "징집 실행"
 CSA_the_first_draft_desc:0 "혁명의 이상에 대한 열정에도 불구하고 가족과 집을 떠나서 불확실한 전선에 뛰어들 지원자는 우리의 생각보다 적은거 같습니다.  따라서 대통령 리드의 행정 명령에 따라서 징집에 대한 초안이 작성 될 것입니다."
@@ -412,8 +412,8 @@ CSA_reform_the_cavalry:0 "기병대 재창설"
 CSA_reform_the_cavalry_desc:0 "미국 기병대는 혁명 이후 귀족적인 기관으로써 그리고 전쟁터에서 구식인 병종으로써 거부되었습니다. 그러나 전쟁이 계속 진행됨에 따라서 우리는 정찰 임무를 수행하고 차량과 경찰로는 통제 할 수 없는 시민봉기를 제압하기 위한 기병대가 다시 필요하게 되었습니다."
 CSA_standardize_unit_sizes:0 "병력 규모 표준화"
 CSA_standardize_unit_sizes_desc:0 "적위민병대는 자신의 임무를 휼륭히 수행하며 우리를 여기까지 끌고 왔습니다. 그러나 특정 마을 내 의욕적인 남성 수에 기초됨으로 생긴 그들의 불규칙적인 인원 수는 전쟁에서 그들을 전투력을 저하시킵니다. 따라서 우리는 병력 규모의 표준화를 통해 부대를 재배치함으로써 우리 병력의 일정한 통일성을 확보 할 수 있을 것입니다"
-CSA_field_canon:0 "붉은 용"
-CSA_field_canon_desc:0 "소위 붉은 용이라고 부르는 240mm 곡사포는 우리 병사들이 가진 야전 포들 중에서 최대 크기의 포일겁니다. 전통적으로 우리 군은 많은 자주포를 사용 할 수 없었지만, 지금 우리는 요새화 된 진지에 대항하여 강력한 화력 지원을 받을 수 있게 되었습니다." 
+CSA_field_canon:0 "레드드래곤"
+CSA_field_canon_desc:0 "소위 '레드드래곤'이라고 불려지는 240mm 곡사포는 우리 군이 가진 것들 중 가장 큰 구경의 야포입니다. 전통적으로 우리 군은 야포의 운용을 등한시해왔지만, 이제 우리는 요새화된 진지에 대응하여 강력한 화력지원을 받을 수 있게 되었습니다."
 CSA_motorisation:0 "차량화 군세"
 CSA_motorisation_desc:0 "차량화는 현대 군대의 핵심으로써 차량화 보병들은 효율적인 군대의 척추이기도 합니다. 우리의 전투 차량들을 항상 최신 버전으로 준비시킴으로써 이 분야에 대한 우위를 점할 수 있게 될 겁니다."
 CSA_every_man_a_truck:0 "생산 배가"
@@ -439,7 +439,7 @@ CSA_armoured_thrust_desc:0 "전차는 전쟁의 핵심입니다. 현대화된 �
 CSA_anti_armour:0 "대전차 여단"
 CSA_anti_armour_desc:0 "적 전차들은 높은 관통력으로 적을 부셔버릴 수 있는 가진 대전차 부대와 조우하면 아무런 쓸모도 없어집니다.  우리는 대전차 부대를 이용하여 적의 우리 방어선 침투를 막아 낼 것입니다."
 CSA_industrial_unionism:0 "생디칼리스트 지배"
-CSA_industrial_unionism_desc:0 "시장의 공급과 수요 혹은 투자자의 변덕에 의해 결정된 경제 체제과 달리, 우리의 새로운 시스템은 상호간 수요를 통해 경제가 구성 될 것입니다. 평의회는 노동자들이 반드시 IWW 같은 조합에 가입하던가 아니면 벌금이나 재정적인 불이익 당하게 되는 법률을 통과시켰습니다.“
+CSA_industrial_unionism_desc:0 "시장의 공급과 수요 혹은 투자자의 변덕에 의해 결정된 경제 체제과 달리, 우리의 새로운 시스템은 상호간 수요를 통해 경제가 구성될 것입니다. 평의회는 노동자들이 반드시 IWW 같은 조합에 가입하던가 아니면 벌금이나 재정적인 불이익 당하게 되는 법률을 통과시켰습니다.“
 CSA_bomber_command:0 "폭격기 계획"
 CSA_bomber_command_desc:0 "새로운 미국 인민 공군 혹은 APA는 두 개의 새로운 공군 프로젝트를 제안했는데, 그 중 하나는 적 도시를 초토화 시킬 수 있는 크고 잘 무장된 항공기들을 배치하는 ‘폭격기 계획’입니다.“ 
 CSA_fighter_command:0 "전투기 계획"
@@ -522,7 +522,7 @@ csa.5.a:0 "사법부 전면 개편"
 csa.5.b:0 "연방대법원 존속"
 
 csa.6.t:0 "사회주의 헌법 - 경제"
-csa.6.d:0 "제 15조. 미국의 경제 체제의 근간은 모든 국민이 소유권을 가지는 공공 자산 형태의 생산수단에 대한 사회주의적 소유와 협동농장의 재산이다.\n\n제 16조. 지하의 모든 광물과 타 지하자원, 광산수와 약용수를 포함하는 수자원, 천연전력의 공급원, 그 어떠한 형태의 철도 및 항공 운송 수단, 우편물, 전신, 전화 및 방송은 공공 자산으로 한다.\n\n제 17조. 토지의 소유권은 해당 토지를 경작하는 자에게 부여된다. 협동농장과 기타 협동조합 및 이들이 공동으로 운영하는 자산은 생산 수단 및 규정된 목적을 달성하기 위해 필요한 기타 자산으로 구성된다. 협동농장 명의로 소유된 토지의 소유권은 항구적으로 보장된다.\n\n제 18조. 경제적인 사유 재산과 민간 사업의 자유는 보장된다. 사유 재산 상속의 자유는 보장된다. 상속권에 대해서는 법률로 규정한다. 누구도 개인에게 보장된 사유 재산의 권리를 인민 공동체에 피해를 가하기 위해 사용할 수 없다. 물가를 조작하고 시장을 독점하고 공공 경제의 이익을 손상시키기 위해 만들어진 카르텔, 신디케이트, 트러스트 및 이와 유사한 조직의 존재는 금지된다. 사적 재산은 공공의 이익을 위해 필요한 경우 제한되거나 징수될 수 있지만, 이는 오로지 법률에 의해서만 이루어진다. 해당 경우에 원 소유주가 받아야 하는 손해 배상의 가치는 법률로 규정한다. 같은 조건 하에서 국가 경제 또는 단일 기업의 특정 부분은 공공의 이익을 위해 필요한 경우 법률에 의해 국유화될 수 있다."
+csa.6.d:0 "제 15조. 미국의 경제 체제의 근간은 모든 국민이 소유권을 가지는 공공 자산 형태의 생산수단에 대한 사회주의적 소유와 협동농장의 재산이다.\n\n제 16조. 지하의 모든 광물과 타 지하자원, 광산수와 약용수를 포함하는 수자원, 천연전력의 공급원, 모든 형태의 철도 및 항공 운송 수단, 우편물, 전신, 전화 및 방송은 공공 자산으로 한다.\n\n제 17조. 토지의 소유권은 해당 토지를 경작하는 자에게 부여된다. 협동농장과 기타 협동조합 및 이들이 공동으로 운영하는 자산은 생산 수단 및 규정된 목적을 달성하기 위해 필요한 기타 자산으로 구성된다. 협동농장 명의로 소유된 토지의 소유권은 항구적으로 보장된다.\n\n제 18조. 경제적인 사유 재산과 민간 사업의 자유는 보장된다. 사유 재산 상속의 자유는 보장된다. 상속권은 법률에 의해 규정된다. 누구도 개인에게 보장된 사유 재산의 권리를 인민 공동체에 피해를 가하기 위해 사용할 수 없다. 물가를 조작하고 시장을 독점하고 공공 경제의 이익을 손상시키기 위해 만들어진 카르텔, 신디케이트, 트러스트 및 이와 유사한 조직의 존재는 금지된다. 사적 재산은 공공의 이익을 위해 필요한 경우 제한되거나 징수될 수 있지만, 이는 오로지 법률에 의해서만 이루어진다. 해당 경우에 원 소유주가 받아야 하는 손해 배상의 가치는 법률로 규정한다. 같은 조건 하에서 국가 경제 또는 단일 기업의 특정 부분은 공공의 이익을 위해 필요한 경우 법률에 의해 국유화될 수 있다."
 csa.6.a:0 "승인되었다"
 
 csa.7.t:0 "사회주의 헌법 - 대통령의 지위"
@@ -581,9 +581,9 @@ csa.16.t:0 "조합비와 인종주의 논쟁“
 csa.16.d:0 "혁명 기간 동안 듣기에는 쉬워 보이는 인종차별주의 정책 폐지는 수많은 문제에 부닥치고 말았습니다. 가장 먼저 흑인 노동자들 사이에서 조합비를 내는 것이 인종 차별적인지에 대한 논쟁이 일어났습니다. 양쪽이 모두 팽팽하게 대립하는 가운데, 재헌 회의에서 거부당한 대부분의 노조들은 조합비를 내는 것을 선호하며 이를 지지하기 위한 시위를 시작했습니다. 자신들이 자신들의 인종으로 인해 반 인종적인 IWW에게 차별을 받는다고 주장하며 새롭게 해방된 주에서 온 노조에게 통합을 강요하는 것은 그들의 교섭권을 침해하는 것이라고 주장했습니다. 최종적으로 IWW는 의회에서 인내심을 가지고 공개적으로 그 노조원들과 시위자들을 망신시켰습니다.“
 csa.16.a:0 "우리는 변장한 인종주의자들에게 굴복하지 않을 것이다!“
 
-csa.17.t:0 "The Rise of Women-Only Unions"
+csa.17.t:0 "여성노조의 탄생"
 csa.17.d:0 "Since the revolution, more and more women are entering into politics and technical fields. While in certain states the transition to womens' liberation has gone smoothly, in other places the wave is impeded. A national poll has shown the number of womens-only unions have quadrupled in the past year. When interviewed, these Womens-Only Unions claim persistent systematic discrimination in the fields of science and civil service. In the aftermath of this release, the planned Womens' Caucus was canceled, as the nation begins to debate the ethical application of womens liberation. [CSA.GetLeader] has settled the debate by decrying both Womens-Only Unions and the systematic discrimination, arguing that 'there are people to blame on both sides for discrimination'."
-csa.17.a:0 "The Revolutionary Man and Woman are equals"
+csa.17.a:0 "혁명 앞에서 남성과 여성은 동등하다"
 
 csa.18.t:0 "기업의 부 재분배"
 csa.18.d:0 "롱과 리드가 모두 동의하는 몇 안되는 것이 있다면 바로 '부의 재분배'일 것입니다. 이를 위해 리드는 전시를 통한 재분배부터 평화 시기 입법까지 그는 날강도 같은 부자들로부터 인생을 바쳐 싸워왔죠. 이제 리드의 평생 소원이였던 법안, 즉 개인이 천만달러가 넘는 자산을 소유하는걸 금지하고 압류하는 법이 의회에서 통과 되었습니다. [CSA.GetLeader]는 더나아가서 회사라는 개념을 비난하며 이를 불법화 시켜야 한다고 주장했습니다. 그 다음날, 주 사무소에서는 엄청난 양의 문서가 밀려왔는데, 대부분 자신의 사업에서 기업적인 요소를 해산시키고 비슷한 방식의 컨소시엄을 도입하려는 시도였습니다.  이것에 대해서 [CSA.GetLeader]는 이러한 행위는 부르주아들이 자신들의 기업을 숨기려는 술수에 불과하다고 일축하며, 부의 재분배가 끝날때까지 모라트리움을 재분류하라고 지시내렸습니다."
