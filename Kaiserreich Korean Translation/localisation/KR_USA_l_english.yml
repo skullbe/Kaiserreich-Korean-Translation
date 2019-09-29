@@ -2052,7 +2052,7 @@ ustates.306.d:0 "When General MacArthur announced that he would not step down as
 ustates.306.a:0 "Endorse the new supporters"
 ustates.306.b:0 "Refuse this congressional oeuvre"
 
-ustates.307.t:0 "Into the Wild Blue Yonder"
+ustates.307.t:0 "저 푸른 창공 너머로"
 ustates.307.d:0 "While the United States has an air force, the capability to defend the skies and project power, we do not have an Air Force. The role is split between the US Army in service of our Paratroopers, and the US Navy aboard our Aircraft Carriers. The contention the General Staff addresses today is the ultimate fate of the Air Force, and to which branch should tradition take after. Those in favour of the Army contend that future operations will most likely be in ground support or air drops, while Navy advocates claim that Aircraft are essential to the future of Naval Warfare in engagements large and small. We must choose a side."
 ustates.307.a:0 "공군은 육군에 속한다"
 ustates.307.b:0 "공군은 해군에 속한다"
@@ -2060,13 +2060,13 @@ ustates.307.c:0 "공군은 독립될 것이다"
 
 ustates.308.t:0 "Super-weapons on a budget"
 ustates.308.d:0 "In the last few years, our military research has focused on the potential for internal conflict, narrowing our focus and budget for longer-term projects. This years' Congressional Budget has fortunately found some money to allocate to a long-term project. Three plans are presented to the military high command to meet and exceed the military projects of our rivals. The first is a rocket by Goddard theoretically capable of delivering explosives from miles away without risking pilot lives. The second is Oppenheimer's planned theoretical bomb using radioactive heavy metals as researched in Austria and Germany. The third is a much cheaper plan as proposed by the eccentric Wilhelm Reich, he claims that a bomb can be made much cheaper using his own personal physics research. On our part, we don't know much about what Wilhelm Reich is talking about, but his reputation in Austria gives us some comfort into whatever science he's using."
-ustates.308.a:0 "Goddard's Rocket"
-ustates.308.b:0 "Oppenheimer's Bomb"
+ustates.308.a:0 "고다드의 로켓"
+ustates.308.b:0 "오펜하이머의 폭탄"
 ustates.308.c:0 "Reich's Bomb"
 
-ustates.309.t:0 "Goddard's Successful Launch"
+ustates.309.t:0 "고다드의 성공적인 발사"
 ustates.309.d:0 "At home again in Roswell, New Mexico, Goddard again goes to launch test rockets. The last time he was here, the rockets were smaller than his thigh, and reached only a thousand feet in height. Now the rockets soar miles over the desert and touch down with their dummy weights. Goddard's refusal to detonate explosive rockets on the Continental United States prevent the full scale of the damage to be known."
-ustates.309.a:0 "Good boy Goddard"
+ustates.309.a:0 "잘했어 고다드"
 
 ustates.310.t:0 "Oppenheimer's Bomb a Success"
 ustates.310.d:0 "An invitation by Oppenheimer was sent out to nuclear researchers, physicists, and engineers throughout Europe. The promise of escaping persecution in Europe has resounded most strongly to Jewish scientists, some of whom emigrated to the US for the project. After a year and a half of experimentation and some cooperation with colleagues in Europe, a working atomic bomb is ready to be tested. The skies of Alamogordo New Mexico lit up in a flash of destruction as the test bomb Valediction exploded. Oppenheimer later said that the bomb was named after his favourite John Donne poem."
@@ -2342,10 +2342,10 @@ ustates.623.d:0 "내전이 발발하면서 우리 항공기가 적과 같은 공
 ustates.623.a:0 "적들이 바꾸게 해라! 이 라운델은 우리 것이다."
 ustates.623.b:0 "바꿔라."
 
-ustates.624.t:0 "Authorize Fire Bombings?"
+ustates.624.t:0 "소이탄 폭격 허가?"
 ustates.624.d:0 "With the success of strategic bombing during the Weltkrieg, a proposal from the USAAF has reached the High Command. In it, it describes how to utilize a porcentage of the budget to create a separate group of bombs with a special chemical mixture that can start huge fires upon landing with the idea of utilizing these bombs on American soil against our enemies. While this could yield great effects hindering our enemy's industrial capabilities, the ethical implications of utilizing such inhumane weapons of destruction has made many members of the staff restless on the subject, as these bombs might easily end up hitting civilians unintentionally. Should we approve this despite of the dangers?"
-ustates.624.a:0 "Yes, they are all traitors!"
-ustates.624.b:0 "No, they are Americans too!"
+ustates.624.a:0 "그래, 놈들은 전부 반역자다!"
+ustates.624.b:0 "안돼, 저들도 미국인이야!"
 
 ustates.625.t:0 "전쟁부가 주 해군 및 군수 단지로 이전하다"
 ustates.625.d:0 "국무부가 백악관 근처에 전쟁부가 커질 여지를 거의 남겨두지 않은 상황에서, 전쟁부 장관은 전쟁부가 다른 장소, 특히 해군이 제공하는 탄약 창고로 이동할 수 있도록 허가했습니다. 그러나 단지의 크기가 늘어가는 전쟁부 직원을 모두 수용하기에는 여전히 너무 작기 때문에, 새로운 동이 새로 고용된 참모를 수용하기위해 새워질 것입니다. 17개 장소에 흩어져 있는 24,000명의 사무실 근로자들과 우리나라가 분쟁에 빠지면 즉시 포함시킬 10,000명 이상의 신규 근로자들을 수용하기 위해 더 큰 건물이 필요할 것으로 추정됩니다."
@@ -2372,31 +2372,31 @@ ustates.629.a:0 "국방을 지금부터 확실히 해야 한다..."
 ustates.650.t:0 "Trial of the Federalist Generals"
 ustates.650.AUS:0 "With the civil war now over, and our enemies at our mercy, the Army has finally begun the trials against the Federalist generals. While some generals have fled into exile, the generals who were caught are now waiting for the veredict of the military tribunal. However, despite what the public believes, it's not as easy to carry out the trials as it was originally anticipated. Most trialed generals don't have any particular record of unnecesary violence, and even those that do can still claim they were following orders. Among them, the most controversial one so far is Dwight Eisenhower. While both Patton and Fox Conner appeal to his innocence, there's no denying that in America's darkest hour, he and many others who followed him ended up on the wrong side of history out of their own volition. While some of the captured generals have sworn to quit even if forgiven, there are other men who have pledged to defend the new America if they are forgiven, so long as we commit to defending the ideals America stands for, but in the end, the final decision rests with the jury..."
 ustates.650.PSA:0 "With the civil war now over, and our enemies at our mercy, the Army has finally begun the trials against the Federalist generals. While some generals have fled into exile, the generals who were caught are now waiting for the veredict of the military tribunal. However, despite what the public believes, it's not as easy to carry out the trials as it was originally anticipated. Most trialed generals don't have any particular record of unnecesary violence, and even those that do can still claim they were following orders. During the trials, Marshall has sent to the government a list of high ranking individuals who he thinks are worthy and capable enough for rehabilitation, with ample evidence exonerating mainly General Eisenhower and Bradley as cases of 'Due obedience'. Despite request and the evidence he provides, there's no denying that in America's darkest hour, They and many others who followed them ended up on the wrong side of history out of their own volition. While some of the captured generals have sworn to quit even if forgiven, there are other men who have pledged to defend the America we saved if they are forgiven, but the final decision rests with the jury...."
-ustates.650.a:0 "Spare them"
+ustates.650.a:0 "남겨둬라"
 ustates.650.b:0 "Discharge them"
 ustates.650.c:0 "Exile is the only thing the traitors deserve!"
 
 ustates.651.t:0 "Trial of the Unionist Generals"
 ustates.651.USA:0 "With the civil war now over, and our enemies at our mercy, the Army has finally begun the trials against the Federalist generals. While some generals have fled into exile, the generals who were caught are now waiting for the veredict of the military tribunal. However, despite what the public believes, it's not as easy to carry out the trials as it was originally anticipated. Most trialed generals don't have any particular record of unnecesary violence, and even those that do can still claim they were following orders. During the trials, and to the surprise of High Command, General Eisenhower has spoken in favour of absolution for his past colleagues, citing the strange circumstances of their defection and their ultimate loyalty towards the American people as evidence of their innocence. Despite his defense, the judges believe that he may be biased in the case as he was known to be friends with Patton and his subordinates before the civil war, and there's no denying that in America's darkest hour, they and many others who followed them ended up on the wrong side of history out of their own volition. While some of the captured generals have sworn to quit even if forgiven, there are other men who have pledged to defend the America we saved if they are forgiven, but the final decision rests with the jury...."
 ustates.651.PSA:0 "With the civil war now over, and our enemies at our mercy, the Army has finally begun the trials against the Federalist generals. While some generals have fled into exile, the generals who were caught are now waiting for the veredict of the military tribunal. However, despite what the public believes, it's not as easy to carry out the trials as it was originally anticipated. Most trialed generals don't have any particular record of unnecesary violence, and even those that do can still claim they were following orders. During the trials, Marshall has sent to the government a list of high ranking individuals who he thinks are worthy and capable enough for rehabilitation, with ample evidence exonerating mainly General Devers as a case of 'Due obedience'. Despite request and the evidence he provides, there's no denying that in America's darkest hour, They and many others who followed them ended up on the wrong side of history out of their own volition. While some of the captured generals have sworn to quit even if forgiven, there are other men who have pledged to defend the America we saved if they are forgiven, but the final decision rests with the jury...."
-ustates.651.a:0 "Spare them"
+ustates.651.a:0 "남겨둬라"
 ustates.651.b:0 "Discharge them"
 ustates.651.c:0 "Exile is the only thing the traitors deserve!"
 
 ustates.652.t:0 "Trial of the Pacific Generals"
 ustates.652.AUS:0 "With the civil war now over, and our enemies at our mercy, the Army has finally begun the trials against the Federalist generals. While some generals have fled into exile, the generals who were caught are now waiting for the veredict of the military tribunal. However, despite what the public believes, it's not as easy to carry out the trials as it was originally anticipated. Most trialed generals don't have any particular record of unnecesary violence, and even those that do can still claim they were following orders. During the trials, and to the surprise of High Command, General Patton and Devers have spoken in favour of absolution for their past colleagues, citing the strange circumstances of their defection and their ultimate loyalty towards the American people as evidence of their innocence. Despite their defense, there's no denying that in America's darkest hour, they and many others who followed them ended up on the wrong side of history out of their own volition. While some of the captured generals have sworn to quit even if forgiven, there are other men who have pledged to defend the new America if they are forgiven, but the final decision rests with the jury...."
 ustates.652.USA:0 "With the civil war now over, and our enemies at our mercy, the Army has finally begun the trials against the Federalist generals. While some generals have fled into exile, the generals who were caught are now waiting for the veredict of the military tribunal. However, despite what the public believes, it's not as easy to carry out the trials as it was originally anticipated. Most trialed generals don't have any particular record of unnecesary violence, and even those that do can still claim they were following orders. During the trials, and to the surprise of High Command, General Eisenhower has spoken in favour of absolution for his past colleagues, specifically George Marshall, citing the great services they rendered before the civil war, strange circumstances of their defection and their ultimate loyalty towards the American Constitution as evidence of their innocence. Despite his defense, the judges believe that he may be biased in the case as he was known to be friends with Marshall and his subordinates before the civil war, and there's no denying that in America's darkest hour, they and many others who followed them ended up on the wrong side of history out of their own volition. While some of the captured generals have sworn to quit even if forgiven, there are other men who have pledged to defend the America we saved if they are forgiven, but the final decision rests with the jury...."
-ustates.652.a:0 "Spare them"
+ustates.652.a:0 "남겨둬라"
 ustates.652.b:0 "Discharge them"
 ustates.652.c:0 "Exile is the only thing the traitors deserve!"
 
 ustates.653.t:0 "Exiled Federalist Generals Volunteer for our Cause!"
 ustates.653.d:0 "After a series of trials, the 'new American' government has decided that they were better off without the generals who stood up for the Federal government, and this generals have been unfairly exiled from their own nation. With most of them having a West Point background, we have managed to contact them, and with hardly any convincing, they have decided to join our cause and fight for a free America against all odds!"
-ustates.653.a:0 "Glory Glory Hallelujah!"
+ustates.653.a:0 "영광 영광 할렐루야!"
 
 ustates.654.t:0 "Exiled Pacific Generals Volunteer for our Cause!"
 ustates.654.d:0 "After a series of trials, the 'new American' government has decided that they were better off without the generals who stood up for the Federal government, and this generals have been unfairly exiled from their own nation. With most of them having a West Point background, we have managed to contact them, and with hardly any convincing, they have decided to join our cause and fight for a free America against all odds!"
-ustates.654.a:0 "Glory Glory Hallelujah!"
+ustates.654.a:0 "영광 영광 할렐루야!"
 ###############################################
 #USA's Army General Descriptions by Drozdovite#
 ###############################################
