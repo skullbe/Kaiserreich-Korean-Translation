@@ -484,7 +484,7 @@ socitaly.8.d:0 "국민주의 조합이 과반이 되었습니다. 그리고 승�
 socitaly.8.a:0 "축하하오, 무솔리니 동무!"
 
 socitaly.9.t:0 "누구도 과반이 되지 못하다!"
-socitaly.9.d:0 "어떤 정당도 평의회에서 승리를 거둘 수 없었습니다. 정부는 교착 상태에 빠졌고 파벌 지도자들의 협상 시도 없다면 국가는 혼돈에 빠지게 될 겁니다."
+socitaly.9.d:0 "어떤 정당도 평의회에서 승리를 거둘 수 없었습니다. 정부는 교착 상태에 빠졌고 정당 지도자들의 협상 시도가 없다면 국가는 혼돈에 빠지게 될 겁니다."
 socitaly.9.a:0 "이런 제길!"
 
 socitaly.10.t:0 "생디칼리즘 조합과 기독교 사회주의 조합의 협상"
@@ -874,9 +874,9 @@ socitaly.99.d:0 ""
 socitaly.99.a:0 ""
 socitaly.99.b:0 ""
 
-socitaly.100.t:0 "The Founding of Cinecittà"
+socitaly.100.t:0 "치네치타의 창립"
 socitaly.100.d:0 "Benito Mussolini unveiled the opening of Cinecittà today outside the city of Florence. Cinecittà was planned by numerous architects to be less of a film studio and more of a small cinema city. Mussolini himself was quoted as saying during the opening of the studio: 'Cinema is the most powerful weapon against Capitalism.'. Many aspiring filmmakers are already speaking with the unions of the area to see about producing films there, while some are already calling it Hollywood on the Arno."
-socitaly.100.a:0 "Cinema is the most powerful weapon against Capitalism!"
+socitaly.100.a:0 "영화는 자본주의에 대항하는 가장 강력한 무기가 될 것이다!"
 
 socitaly.101.t:0 "필리포 투라티의 죽음"
 socitaly.101.d:0 "Today, the great statesman Filippo Turati has passed away at the age of 79 years old. Filippo Turati was one of the last surviving founders of the Italian Socialist Party. His strong and constant support of the rights of the workers of Italy from his earliest days has made him famous throughout the Republic. In addition to founding the Socialist Party of Italy, he was also one of the principal architects of the constitution of the Socialist Republic of Italy. The funeral in Torino was attended by visitors from nations around the world and officials from across the political spectrum, all paying their respects to the late great leader as various labour songs were sung, including Inno dei Lavoratori which he penned himself."
@@ -887,7 +887,7 @@ socitaly.102.d:0 "피렌체에서 비트리오 구이가 새로운 축제인 개
 socitaly.102.a:0 "인민을 위한 오페라!"
 
 socitaly.103.t:0 "엔리코 페르미가 피사에서 파일 1호기를 만들다."
-socitaly.103.d:0 "Enrico Fermi has recently created the Pisa Pile-1; the world's first artificial nuclear reactor. Created with the help of students from the University of Pisa, the device may have only been capable of generating a half watt of power, but its success proves that a nuclear reactor can be built."
+socitaly.103.d:0 "엔리코 페르미가 세계 최초의 인공 원자로인 파일 1호기를 만들었습니다. 피사 대학의 학생들의 도움으로 만들어진 이 장치는 겨우 0.5와트의 전력을 생산해냈지만, 그것은 원자로가 건설될 수 있다는 것을 성공적으로 증명했다고 할 수 있습니다."
 socitaly.103.a:0 "페르미 동무는 공화국에 진보를 가져왔다."
 
 socitaly.104.t:0 "엔리코 페르미가 노벨상에 당선되다."
@@ -931,9 +931,9 @@ socitaly.113.t:0 "자발적인 혁명의 폭력행위"
 socitaly.113.d:0 "The leader of the Ministry for Public Security has declared that it will be of no issue if reactionaries are killed by revolutionary violence. This has sparked a wave of violence throughout the country as people engage in spontaneous revolutionary violence against those considered reactionary. When this will be over, no one knows. But the reactionaries shall be purged!"
 socitaly.113.a:0 "반동분자들에게 죽음을!"
 
-socitaly.114.t:0 "허영의 모닥불"
+socitaly.114.t:0 "허영의 잿불"
 socitaly.114.d:0 "In Florence, a massive bonfire was held where citizens threw various 'vanities' considered to be reactionary or capitalistic into the fires. Artwork from before the creation of the Socialist Republic of Italy, books that promoted reactionary thought or un-socialist principles, and household goods deemed bourgeois were also destroyed. This bonfire has been copied by other cities across the republic as many seek to destroy the culture of the past."
-socitaly.114.a:0 "자본가들의 허영을 파괴하라!"
+socitaly.114.a:0 "자본주의자들의 허영을 파괴하라!"
 
 socitaly.115.t:0 "반동분자 축출"
 socitaly.115.d:0 "A number of the ministers in the government hold rather reactionary views. While they claim to be dedicated to the Republic, we know better. People like Achille Grandi, Giacomo Matteotti, and Giuseppe Saragat are all reactionaries that must be purged! They and others will only corrupt the ideals of socialism and bring back capitalism to the Republic. This will not be allowed!"
