@@ -438,7 +438,7 @@ Ostasien.69.a:0 "We need to hurry"
 #decisions
 operations:0 "작전" # Not sure why someone forget to move this over from vanilla wtt_decisions file
 GEA_indochina_war_decisions:0 "인도차이나 전쟁"
-GEA_indochina_war_decisions_desc:0 "The Indochinese insurgency has deteriorated into a full-blown war. However, the war against Vietcong insurgents has no concrete front. Everywhere is a frontline and every peasant wearing a rice hat could be a Vietcong. We must do whatever we can to secure the victory of Kaiserreich. \n\nEstimated §YInsurgency Strength§! in Indochina: §R[?INC.guerilla_activity|-0]§!\n"
+GEA_indochina_war_decisions_desc:0 "인도차이나 반란은 전체적으로 소강상태입니다. 하지만 베트콩 반군들과의 전쟁에선 뚜렷한 전선은 없습니다. 사방이 곧 최전방이며 쌀모자를 쓴 농민이라면 누구나 베트콩이 될 수도 있습니다. 독일제국의 승리를 위해 우리는 할 수 있는 모든 조치를 취해야합니다.\n\n인도차이나 내 §Y반란도§! 추정치: §R[?INC.guerilla_activity|-0]§!\n"
 reduce_10_guerilla_tooltip:0 "We estimate this will reduce §YInsurgency Strength§! by §R10§!.\n"
 GEA_suppress_Tonkin:0 "통킹의 베트콩 진압"
 GEA_maintain_Tonkin_control:0 "통킹 지배 유지"
@@ -450,8 +450,8 @@ GEA_Fernspaher_decision_desc:0 "The growingly intense war in Indochina has expos
 GEA_reintegrate_Cochinchina_decision:0 "코친차이나 재합병"
 GEA_German_vietnamese_reconciliation_decision:0 "독일-베트남 화해"
 GEA_German_vietnamese_reconciliation_decision_desc:0 "The flashback of the counter-insurgency actions in Indochina is haunting Admiral Hellmuth von Mücke and now he felt that he has do something to reconcile the brutal killings. He wants to pursue a popular colonial policy by granting greater local autonomy and promoting German-Vietnamese harmony. By doing so, he hopes to regain the hearts and minds of people in Cochinchina."
-GEA_take_east_asian_navy:0 "Assume control of the East Asian Navy"
-GEA_take_east_asian_navy_desc:0 "The German East Asian navy is a valuable asset to our naval strategy. It would be better off, if it was more closely integrated in the Berlin's command structure."
+GEA_take_east_asian_navy:0 "동아시아 해군 통제권 인수"
+GEA_take_east_asian_navy_desc:0 "독일령 동아시아의 해군은 우리 해군의 가장 귀중한 전략적 자산입니다. 베를린의 지시를 받도록 지휘구조를 통합시키는 편이 더 좋을 것입니다."
 blow_singapore_causeway:0 "조호르-싱가포르 방죽길 파괴"
 blow_singapore_causeway_desc:0 "Being the only land route between the mainland and Singapur, while destroying this can give us the precious time needed to fortify the island, doing so will have negative consequence on our war effort - as this mean that we've decided to abandon the mainland to the enemy hands..."
 
