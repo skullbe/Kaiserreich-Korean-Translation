@@ -138,7 +138,7 @@ colonise_start:0 "§G우리는 식민에 착수할 준비를 시작할 것입니
 small_rail:0 "§R궤간 교체는 매우 길고도 어려운 작업이 될 것입니다.§!\n"
 JAP_DESPERATION_OOB:0 "§G긴급사단을 동원하라!§!"
 NAT_COMPANY_WARNING:0 "§R그런 국유화 계획은 기업들과의 관계를 악화시킬 것입니다.§!"
-ZAI_BRIBE_WARNING:0 "§R재벌은 때로는 유용하지만 상당한 부패에도 밀접한 관련이 되어있습니다. 우리는 재벌들을 조심히 다뤄야합니다.!"
+ZAI_BRIBE_WARNING:0 "§R재벌은 때로는 유용하지만 상당한 부패에도 밀접한 관련이 되어있습니다. 우리는 재벌들을 조심히 다뤄야합니다.§!"
 JAP_land_reform_in_progress:0 "토지개혁 진행 중"
 JAP_part_one_land_reform:0 "기초적 토지개혁 실시"
 JAP_part_two_land_reform:0 "지속적 토지개혁 실시"
