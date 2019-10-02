@@ -9,8 +9,8 @@ l_english:
 ### Air ###
 light_airframe:0 "경기체"
 light_airframe_desc:0 "경기체 기반 비행기"
-medium_airframe:0 "보통기체"
-medium_airframe_desc:0 "보통기체 기반 비행기"
+medium_airframe:0 "중형기체"
+medium_airframe_desc:0 "중형기체 기반 비행기"
 heavy_airframe:0 "중기체"
 heavy_airframe_desc:0 "중기체 기반 비행기"
 jet_engines:0 "제트 엔진"
