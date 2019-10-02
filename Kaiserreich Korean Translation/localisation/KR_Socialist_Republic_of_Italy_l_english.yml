@@ -82,7 +82,7 @@ SRI_socialist_dedication:0 "사회주의적 헌신"
 SRI_socialist_dedication_desc:0 ""
 SRI_revolutionary_women:0 "여성 군인들"
 SRI_revolutionary_women_desc:0 ""
-SRI_maintance_schools_idea:0 "Maintenance Schools"
+SRI_maintance_schools_idea:0 "유지 관리 학교"
 SRI_maintance_schools_idea_desc:0 ""
 SRI_congress_held:0 "평의회가 개최되다."
 SRI_congress_held_desc:0 ""
@@ -182,7 +182,7 @@ SRI_help_determine_red_guard_reforms:0 "개혁된 적위대의 본질을 재확�
 SRI_reform_the_guards_tooltip:0 "적위대는 개혁 될 것입니다.\n\n"
 SRI_red_army_implement:0 "적위대는 붉은 군대로 재조직 될 것입니다.\n\n"
 SRI_cultural_revolution_begins_tooltip:0 "문화 대혁명이 시작되면 퇴폐적인 자본주의 문화는 이탈리아에서 말살될 것입니다."
-SRI_asymmetrical_warfare_effect:0 "Enables §HGuerrilla Warfare Training§!\n§HAll legged units\n    Urban§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
+SRI_asymmetrical_warfare_effect:0 "§H모든 보병 사단§!이 \n §H게릴라 전투 훈련§!을 받을 것입니다. \n    §H도시§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동 속도: §G+5%§!\n\n"
 SRI_sanfedisti_tt:0 "네오-상페디스티(새로운 신앙군)가 조직 될 것입니다!"
 
 ### Fourth Congress Focuses ###
@@ -820,8 +820,8 @@ socitaly.87.t:0 "미래파 건축"
 socitaly.87.d:0 "This is the greatest absurdity of modern architecture. It is perpetuated by the greedy complicity of academies, internment camps for the intelligentsia, where the young are forced to recopy classical models onanistically instead of straining their imaginations to search for solutions to new and urgent problems: the Futurist house and city. A house and city spiritually and materially our own, in which our riotous activity can rage without seeming a grotesque anachronism.' So reads the Futurist Manifesto of architecture. Futurism as an architectural movement has recently been highly popular among the Unione Nazionalista. Mussolini in particular is a noted patron of architects building in that style."
 socitaly.87.a:0 "미래는 바로 지금이다!"
 
-socitaly.88.t:0 "이탈리아 여가 문화 협회"
-socitaly.88.d:0 "The Associazione Ricreativa e Culturale Italiana, or Italian Recreational and Cultural Association, is the largest recreational society within the Republic. Founded in Florence in the 1920s, the organisation is purely secular, and its goal is to help support recreational activities for the people as well as to support solidarity amongst the citizens of the Republic. Culture that was once only the purview of the elites, such as opera, plays, and classical music, are now available for the people to enjoy. Furthermore, the Associazione supports book clubs, countryside vacations, and more through arrangements with local communes and unions."
+socitaly.88.t:0 "이탈리아 여가 문화 협회" #The Associazione Ricreativa e Culturale Italiana
+socitaly.88.d:0 "'어소시아지오네 리크레아티바 에 쿨투랄레 이탈리아나', 또는 이탈리아 여가 및 문화 협회는 공화국 내에서 가장 큰 문화 단체입니다. 1920년대에 피렌체에서 설립된 이 단체는 순수고 세속적인 단체이며, 이 단체의 목표는 인민들의 여가 활동을 장려하고 공화국 시민들 사이의 연대를 지원하는 것입니다. 한때는 오페라, 연극, 클래식 등과 같은 고위층들만의 문화가, 이제는 국민이 즐길 수 있게 됐습니다. 또한, 협회는 지역 공동체 및 노조와의 협약을 통해 독서회, 농촌 휴가 등을 지원합니다."
 socitaly.88.a:0 "문화는 대중들의 것이다!"
 
 socitaly.89.t:0 "이탈리아 여성 조합 평의회"
