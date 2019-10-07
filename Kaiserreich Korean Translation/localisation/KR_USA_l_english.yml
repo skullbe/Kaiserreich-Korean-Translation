@@ -548,7 +548,7 @@ USA_american_industry_desc:0 "전쟁은 일시적으로 중공업에 활력을 �
 USA_rebuild_agriculture:0 "농업 재건"
 USA_rebuild_agriculture_desc:0 "우리 나라에 식량을 공급하기 위해 식량을 수송하고 가공하기 위해서는 혁신적인 보존 방법과 농업 과학을 장려해야 합니다. 의회는 이를 연국하기 위해 기금을 설립했고 몇몇 정치인들은 직접 기여했습니다."
 USA_aviation_industry:0 "항공기 산업"
-USA_aviation_industry_desc:0 "The United States used to lead the world in civilian aircraft manufacturing. Now assembly line systems in Germany have us outpaced. Congress has spoken to intelligence agencies about what we can do to encourage businesses to adopt these techniques, including our contractors."
+USA_aviation_industry_desc:0 "미국은 민간 항공기 제조 분야에서 세계를 선도하곤 했습니다. 이제 독일의 조립 라인 시스템은 우리를 앞질렀습니다. 의회는 정보기관들과 우리의 계약자들을 포함한 기업들이 이러한 기술을 채택하도록 장려하기 위해 우리가 무엇을 할 수 있는지에 대해 이야기했습니다."
 USA_farming_subsidies:0 "농업 보조금"
 USA_farming_subsidies_desc:0 "It is necessary to subsidize farms for crops we are in need of, and paying farmers to terminate their fields of lost assets for products like tobacco we don't need right now, but want the skilled labour to still be available."
 USA_maritime_industry:0 "해양 산업"
@@ -719,11 +719,11 @@ USA_focus_on_long_desc:0 "미국 제일당과 휴이 롱은 어떠한 종류의 
 ########By Drozdovite############
 #################################
 USA_war_department:0 "육군성 확장"
-USA_war_department_desc:0 "The United States War Department has seen a shrinkage over the last half-decade through austerity measures. Now it is vital that staffing be expanded and new innovators enter the department, ready for reform."
+USA_war_department_desc:0 "미국 전쟁부는 긴축 조치를 통해 지난 5년 동안 위축된 모습을 보였습니다. 이제 인적 확장과 새로운 혁신자들이 개혁에 대비하여 그 부서로 들어가는 것이 필수적입니다."
 USA_reform_plan:0 "육군 개혁 논의"
-USA_reform_plan_desc:0 "The question of the hour, which direction should the US Army take to not only respond but anticipate a prolonged land war? The opinion of MacArthur is a given, having already prepared for this conflict within his inner circle."
+USA_reform_plan_desc:0 "문제를 해결할 때입니다. 미 육군은 대응뿐만 아니라 장기적인 육전을 예측하기 위해 어떤 방향으로 나아가야 할까요? 맥아더의 의견은 정해졌으며, 이미 그의 핵심 세력 내에서 이러한 갈등에 대비하였습니다."
 USA_air_force_debate:0 "공군 논의"
-USA_air_force_debate_desc:0 "The Air Force, having the funding necessary to expand, lacks the percise direction and leadership needed to effectively advance. With numerous requests to fund research, and competing minds insisting that they are the key to victory in the skies."
+USA_air_force_debate_desc:0 "확장에 필요한 자금을 갖고 있는 공군은 효과적인 진전에 필요한 정확한 방향과 리더십이 부족합니다. 경쟁자들은 연구에 대해 많은 자금 지원 요청을 하며 그들이 하늘에서 승리의 열쇠라고 주장합니다."
 USA_chaffee_plan:0 "애드나 채피의 개혁안"
 USA_chaffee_plan_desc:0 "MOLLUS recipient Adna Chaffee Jr. proposes that the Army steps up production of more expensive armored vehicles, as well as plan out new specialized divisons to complement a more mobile war."
 USA_McNair_Plan:0 "레슬리 맥네어의 개혁안"
