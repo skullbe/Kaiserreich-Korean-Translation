@@ -200,11 +200,11 @@ SIC_modern_army_desc:0 "우리 왕국의 군대는 다른 어떤 군대보다도
 
 ### Industry Focuses ###
 SIC_development:0 "메초조르노의 미래"
-SIC_development_desc:0 "Our status of being the wealthiest of the Italian nations is not due to our actual wealth, but due to how the other parts of the peninsula's assets are either war-torn or owned by foreign investors. We are effectively the last hope of Italian industry."
+SIC_development_desc:0 "우리는 이탈리아 국가들 중 가장 부유한 국가이지만, 이는 우리의 재산이 많아서가 아니라, 이탈리아 반도의 다른 지역들이 전쟁으로 파괴되었거나 외국인 투자자들의 소유이기 때문입니다. 우리는 사실상 이탈리아 산업의 마지막 희망입니다."
 SIC_agrarian_issue:0 "농지 문제"
 SIC_agrarian_issue_desc:0 "Ever since the invasion of the Lombards, our lands have been dominated by large-scale landholders. The situation only got worse through the last decades and centuries, and very few men hold almost all the land, creating significant tension in rural areas of our Kingdom"
 SIC_invest_modern_farming:0 "현대적 농업"
-SIC_invest_modern_farming_desc:0 "No more can the ploughshare and wheelbarrow truly be deemed the tools of the farmers; tractors and other machines of the modern age are slowly but surely taking their place"
+SIC_invest_modern_farming_desc:0 "더 이상 쟁기와 손수레는 농부들의 도구로 여겨지 않습니다. 트랙터와 현대적인 다른 기계들은 점차 전통적인 도구들을 대체하고 있습니다."
 SIC_through_land_reform:0 "철저한 토지개혁"
 SIC_through_land_reform_desc:0 "With continued use of military force, intense political action and intervention by concerned community leaders, we will ensure that the issues of land distribution we face are dealt with in a timely fashion"
 SIC_investment:0 "산업 투자"
