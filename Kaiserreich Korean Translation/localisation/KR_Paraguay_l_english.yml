@@ -1,8 +1,8 @@
 l_english:
 
-PAR_pensions:0 "Military Pensions"
-PAR_prussia:0 "Military Influence"
-PAR_bm:0 "Black Monday"
+PAR_pensions:0 "군인 연금"
+PAR_prussia:0 "군부 영향력"
+PAR_bm:0 "검은 월요일"
 PAR_bm_selfsuf1:0 "Economic Recovery via Self Sufficiency"
 PAR_bm_selfsuf2:0 "Self Sufficiency"
 PAR_slash:0 "Harsh Budget Cuts"
@@ -80,7 +80,7 @@ PAR_totalist_party:0 "파라과이 아브릴스타당"
 PAR_totalist_party_long:0 "파라과이 아브릴스타당"
 
 ### Flags ###
-PAR_black_monday:0 "Black Monday has reached Paraguay"
+PAR_black_monday:0 "검은 월요일이 파라과이를 강타하다"
 PAR_estigarribato_flag:0 "Estigarribia has strenghtened his hold on the country"
 PAR_liberals_owned_epic_style:0 "Militarist Takeover"
 PAR_your_average_day_in_a_latin_american_history_univesity:0 "Abrilist Takeover"
@@ -88,9 +88,9 @@ PAR_colorado:0 "Colorado Party in Power"
 PAR_chaco_brigade_volunteers_arrive:0 "Chaco Brigade volunteers arrive"
 
 ### Decisions ###
-PAR_the_internationale:0 "Paraguay in the Internationale"
-PAR_the_internationale_desc:0 "Our European comrades are now at the brink of total war against the imperialists of our time. We Paraguayans have a proud tradition of standing up against imperialists, and as such, we believe we can add up our experience to their cause. We shall contact them immediately and see if they are willing to stand side by side with us"
-PAR_foreign_policy:0 "Foreign Policy"
+PAR_the_internationale:0 "인터내셔널에서의 파라과이"
+PAR_the_internationale_desc:0 "우리의 유럽 동지들은 지금 우리 시대의 제국주의자들과 전면전을 벌일 위기에 처해 있습니다. 우리 파라과이 사람들은 제국주의자들에게 대항하는 자랑스러운 전통을 가지고 있습니다. 그래서 우리는 우리의 경험을 그들의 대의에 더해줄 수 있다고 믿습니다. 우리는 즉시 그들에게 연락해서 그들이 우리와 함께 서있을 의향이 있는지 볼 것입니다."
+PAR_foreign_policy:0 "외교 정책"
 
 ### Focuses ###
 
@@ -335,33 +335,33 @@ PAR_extend_chairmans_power:0 "의장의 권력 강화"
 PAR_extend_chairmans_power_desc:0 "Rafael Franco has become a national hero, like Solano Lopez was before our time. Like Lopez, now Franco has requested we extend his executive power in order to give his personal guidance to the nation. How could we reject such a proposition?"
 
 ### Events ###
-par.1.t:0 "The Republic of Paraguay"
-par.1.d:0 "After the devastating War of the Triple Alliance, Paraguay was shattered and broken almost beyond recognition; the vast majority of its male population dead or orphaned. The extreme demographic and economic damage was not all, however, as both Brazil and Argentina took slices of land off the Guarani Republic and effectively only kept it's sovereignty as a buffer state between the two nations. Rebuilding and recovering from that disaster was no easy feat, and political instability still corroded the nation. In 1904, a Liberal revolution against the rule of Colorados broke out. The Liberal rule started a period of great political instability, which culminated in a Civil War in 1922 between rival political factions.Then, in late 1929, war again came to Paraguay by the hand of Bolivia. That nation, under economic pressure to secure the rumoured oil wells of the Chaco region, aggressively started to assert its claims in the disputed area. The Chaco War took four gruesome years, and by 1933 Paraguay had completely routed the Bolivian forces and were starting to occupy their lands. The total victory did not came without a cost however, as mounting debt and military expenses continue to be a burden on the government. The Bolivian military was poorly equipped and poorly trained to fight in the region, and its low morale meant the Paraguayan casualties were far smaller.The political situation did not improve however, and Liberal rule was faltering. Rafael Franco and other radical leaders launched a coup in 1934 based on left-authoritarian principles, but were deposed after a short three month rule by Chaco War hero José Félix Estigarribia. Now, the age of liberal chaos is over, and José Felix's rule is one of great peace; his actions against the ''Syndicalist'' Franco and Bolivian invaders greatly influencing politics, as he is almost unanimously acclaimed as a national saviour and hero. With the rise of the Argentine Patriotic League, Estigarribia and his cabinet are again in high alert, as Manuel Carlés did little to hide his expansionist goals in his speech upon ascending to the leadership of that nation, war may soon be upon Paraguay once again."
-par.1.a:0 "We have brought Peace and Justice to our new Republic."
+par.1.t:0 "파라과이 공화국"
+par.1.d:0 "3국 동맹의 파괴적인 전쟁 후에, 파라과이는 거의 알아볼 수 없을 정도로 부서지고 깨졌습니다. 파라과이는 대부분의 남성 인구가 죽고 고아들이 생겨났습니다. 그리고 브라질과 아르헨티나 모두 과라니 공화국의 영토를 빼앗았으나 양국 간의 완충국으로서의 주권을 효과적으로 유지했기 때문에 극심한 인구 및 경제적 피해가 피해의 전부는 아니었습니다. 그 재난을 복구하고 회복하는 것은 쉬운 일이 아니었고, 정치적 불안은 여전히 나라를 부식시켰습니다. 1904년, 콜로라도당의 통치에 반대하는 자유주의 혁명이 일어났습니다. 자유당 통치는 1922년 경쟁 관계에 있는 정당간의 내전으로 정점을 찍은 정치적 불안의 시기를 시작했습니다. 그리고, 1929년 말에, 전쟁은 다시 볼리비아와 손을 잡고 파라과이에 왔습니다. 차코 지역의 유정을 확보하라는 경제적인 압력을 받고 있는 그 나라는 분쟁 지역에서 적극적으로 자신의 주장을 주장하기 시작했습니다. 차코 전쟁은 4년이 걸렸고, 1933년까지 파라과이는 볼리비아 군대를 완전히 격파하고 그들의 땅을 차지하기 시작했습니다. 하지만 늘어나는 부채와 군비가 정부에게 계속 부담이 되고 있기 때문에, 전쟁의 승리는 비용 없이 이루어지지 않았습니다. 볼리비아군은 장비도 제대로 갖추지 못했고, 전투 훈련도 제대로 받지 못했고, 사기도 낮아 파라과이의 사상자는 훨씬 적었습니다. 그러나 정국은 나아지지 않았고 자유주의 통치는 흔들리고 있었습니다. 라파엘 프랑코와 다른 급진 지도자들은 1934년 좌파 권위주의 원칙에 따라 쿠데타를 일으켰지만, 차코 전쟁의 영웅 호세 펠릭스 에스티가리비아에 의해 3개월이라는 짧은 통치로 물러났습니다. 이제, 자유주의 혼란의 시대는 끝났고, 호세 펠릭스의 통치는 위대한 평화로써의 하나입니다. 그가 '생디칼리스트' 프랑코와 볼리비아의 침략자들에 대한 그의 행동은, 거의 만장일치로 국가 구세주이자 영웅으로 칭송 받고 있기 때문에, 정치에 큰 영향을 미칩니다. 아르헨티나 애국당의 부상과 함께, 에스티가리비아와 그의 내각은 다시 초긴장 상태에 빠졌습니다. 마누엘 카를레스가 그 나라의 지도부에 오르자 그의 팽창주의 목표를 숨기려 하지 않기 때문에, 곧 파라과이에 다시 한번 전쟁이 일어날지도 모릅니다."
+par.1.a:0 "우리는 우리의 새로운 공화국에 평화와 정의를 가져다주었다."
 
-par.2.t:0 "Anti LPA Rally"
-par.2.d:0 "Argentina's new President, Manuel Carlés, is relentless in his smear campaign against Paraguay and other counties he deems enemies of the Argentine state. Today in Asuncion, hundreds of people gathered to protest his insults and his rhetoric, demanding an official diplomatic break between our nations. While this is unlikely to happen, such a danger is politically good for the army, as the threat of war is a reminder of who saved Paraguay a few short years ago."
-par.2.a:0 "Argentina can't regain its greatness; it never had any!"
+par.2.t:0 "반 아르헨티나 애국당 집회"
+par.2.d:0 "아르헨티나의 새 대통령 마누엘 카를레스는 파라과이와 다른 나라들이 아르헨티나의 적이라고 여기는 중상모략을 서슴지 않고 있습니다. 오늘 아순시온에서는 수백 명의 사람들이 그의 모욕과 언사에 항의하기 위해 모였습니다. 그리고 우리 국가들간의 공식적인 외교 단절을 요구했습니다. 전쟁이 일어날 가능성은 없지만, 전쟁의 위협은 몇 년 전에 파라과이를 구한 사람들을 상기시켜주기 때문에, 이러한 위험은 군대에 정치적으로 유리합니다."
+par.2.a:0 "아르헨티나는 결단코 위대함을 되찾을 수 없다!"
 
-par.3.t:0 "Black Monday ravages our Economy"
-par.3.d:0 "Paraguay, despite being a landlocked nation, is connected to the wider global economy via the port in Asuncion and the River Plate. The stock market crash news first arrived to us as a curiosity, but soon the effects were felt; foreigners can't buy our produce, and we are having immense difficulties in importing vital goods for our nation. Worse still, the budgetary situation has entirely collapsed, and retired military personnel are already up in arms, ready to defend their rights should we encroach on them in any way. Truly, bad times are ahead, and Paraguay may very well have to live in commercial isolation..."
-par.3.a:0 "We don't need them!"
+par.3.t:0 "검은 월요일이 우리 경제를 황폐화시키다"
+par.3.d:0 "파라과이는 육지로 둘러싸인 나라임에도 불구하고 아순시온 항구와 라플라타 강을 통해 보다 넓은 세계 경제와 연결되어 있습니다. 주식 시장 붕괴 소식은 처음에는 호기심으로 우리에게 도착했지만, 곧 그 여파가 느껴졌습니다. 외국인들은 우리의 생산물을 살 수 없고, 우리는 우리나라를 위해 필수품을 수입하는데 엄청난 어려움을 겪고 있습니다. 설상가상으로 예산 상황은 완전히 붕괴되었고, 퇴역한 군인들은 이미 무장하고 있습니다. 만약 우리가 어떤 식으로든 그들의 권리를 침해한다면, 그들은 그들의 권리를 방어할 준비가 되어 있습니다. 좋지 않은 시기가 다가오고 있습니다. 그리고 파라과이는 상업의 고립 속에서 살아야 할지도 모릅니다."
+par.3.a:0 "우리는 그것들이 필요 없다!"
 
-par.4.t:0 "Military Payment Issues"
-par.4.d:0 "Our budgetary issues predictably affected the pay of several military officers, especially among lower ranks. The situation continues to get worse, even after we asked for their understanding on how dire the situation is."
-par.4.a:0 "We really need them..."
+par.4.t:0 "군인 급여 문제"
+par.4.d:0 "우리의 예산 문제는 특히 하위 계급의 몇몇 군 장교들의 급여에 영향을 미칠 것으로 예측됩니다. 상황이 얼마나 심각한지에 관하여 이들의 이해를 구한 뒤에도 상황은 계속 악화되고 있습니다."
+par.4.a:0 "우린 정말 그들이 필요해..."
 
-par.5.t:0 "Pensionists Protest!"
-par.5.d:0 "Veterans and other pensioners have protested in very large numbers after the announcement of delays to their payments. Usually such protests would have been quickly over, but the lack of pay also extends to low ranking officers who are in charge of dealing with such rabble in more usual times."
-par.5.a:0 "Nothing we can do about it!"
+par.5.t:0 "연금수령자들이 항의하다!"
+par.5.d:0 "퇴역군인들을 비롯한 연금수령자들이 지급 지연 발표 이후 격렬하게 대거 반발하고 있습니다. 보통 이러한 시위는 빨리 끝났을 텐데, 급여가 모자라는 것은 평상시에 이런 폭동 대처를 책임지는 하급 장교들에게까지 확대되었습니다."
+par.5.a:0 "우리가 할 수 있는 일은 아무것도 없다!"
 
-par.6.t:0 "Military Discontent"
-par.6.d:0 "The payment issues have not affected every single Paraguayan soldier, but discontent spreads like the plague in the barracks as no improvement of the situation is visible to the common soldier. A few quartelazos and other minor revolts have been suppressed, but we are unsure for how long we can sustain the situation."
-par.6.a:0 "Unfortunate."
+par.6.t:0 "군대 불만"
+par.6.d:0 "급여 문제는 파라과이 병사 한 명, 한 명에게 영향을 미치지는 않았지만, 일반 병사들에게 상황 개선이 보이지 않자 불만이 병영 내 전염병처럼 번지고 있습니다. 일부의 소요사태와 다른 작은 폭동이 진압되었지만, 우리는 이 상황을 얼마나 오래 지속시킬 수 있을지 확신할 수 없습니다."
+par.6.a:0 "불행하군."
 
-par.7.t:0 "Rafael Franco in Exile"
-par.7.d:0 "Ever since he was ousted from goverment due to his radical syndicalism, Rafael Franco further delved into Left Wing rhetoric in exile in Chile. Now styling himself a 'Solanist Totalist', he clamours for Revolution in Paraguay from his exile. For years now few paid any heed to him, just one of the many deposed despots in this world, but now, with our position threatened and syndicalist spies threatening us, he directly calls for a coup that would allow his return, and finds some who are willing to listen."
-par.7.a:0 "Ramblings of a madman."
+par.7.t:0 "망명지에서의 라파엘 프랑코"
+par.7.d:0 "급진적인 생디칼리즘으로 정부로부터 축출된 이후, 칠레에서 망명중인 라파엘 프랑코는 좌익 미사여구를 더욱 깊이 파고들었습니다. 이제 그는 스스로를 '솔라니스트 전체주의자'로 꾸미고, 망명지에서 파라과이에서의 혁명을 외칩니다. 몇 년 동안, 이 세상의 많은 퇴위된 폭군들 중 한 명인 그에게 주의를 기울이는 사람은 거의 없었지만, 이제 우리의 지위가 위협받고 생디칼리즘 스파이들이 우리를 위협하고 있는 가운데, 그는 그의 귀환을 허락할 쿠데타를 직접적으로 요청하고, 기꺼이 들어줄 사람들을 찾고 있습니다."
+par.7.a:0 "미친 사람의 횡설수설이로군."
 
 par.8.t:0 "Disturbances in Reconquered Lands"
 par.8.d:0 "Bolivia's foul plots are endless. As they again begin a war of aggression to claim the Chaco from us and give it to their corporate masters, we are forced to face infiltrators in the areas liberated in the previous war. Their disruptions, while small, are symbolic of how far Bolivian treachery can go."
@@ -437,4 +437,4 @@ par.201.t:0 "France denies us membership to the Internationale"
 par.201.d:0 "Calling our nation and irrelevant backwater with no value whatsoever to their alliance, France has denied us membership and sent our ambassadors packing."
 par.201.a:0 "They will regret this!" 
 
-PAR_danger_of_coup_tooltip:0 "§RThe military will not like this.§!\n"
+PAR_danger_of_coup_tooltip:0 "§R군 당국은 이것을 좋아하지 않을 것입니다.§!\n"
