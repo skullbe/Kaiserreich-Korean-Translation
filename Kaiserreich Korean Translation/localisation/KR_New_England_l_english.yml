@@ -68,15 +68,15 @@ NEE_ugr_csa_10p_increase:0 "우리 §Y[CSA.GetNameWithFlag]§! 밀수 작전의 
 NEE_ugr_csa_30p_decrease:0 "우리 §Y[CSA.GetNameWithFlag]§! 밀수 작전의 §Y효율§!이 §G30%§! 감소함\n\n"
 NEE_white_line:0 "   \n"
 NEE_where_we_dropping_bois:0 "이제 적 영토의 저항군을 강화하기 위해 적 영토에 §Y공중 보급§!을 할 수 있음"
-NEE_claimed_america:0 "민주 미국으로써의 책임을 주장함"
+NEE_claimed_america:0 "민주주의 미국으로써의 책임을 주장함"
 
 ### Flags ###
-NEE_legitimate_america_flag:0 "§G뉴잉글랜드가 국민들에게 미국의 합법 정부로 여겨짐§G"
+NEE_legitimate_america_flag:0 "§G뉴잉글랜드가 국민들에게 미국의 합법 정부로 여겨짐§!"
 NEE_united_america:0 "미국은 통합되었다"
 
 ### Decisions ###
 #Entente Allies
-NEE_entente_allies:0 "협상국을 지지하다"
+NEE_entente_allies:0 "협상국 지지"
 NEE_entente_allies_desc:0 "캐나다와의 유대 관계는 우리가 좋든 싫든 간에 협상국의 회원일 수밖에 없다는 것을 의미합니다. 영국인들은 많은 경험과 뛰어난 기술력을 가지고 있으며, 우리는 이들에게서 혜택을 받아 상당한 이익을 얻을 수 있습니다 - 다만 우리가 그들에게 의존할수록, 우리는 독립적이고 분명한 정부로서의 정통성을 잃어가게 될 것입니다."
 
 NEE_invite_canadian_advisors:0 "캐나다 고문관 초청"
@@ -152,7 +152,7 @@ NEE_Liberty_Ship_Program_desc:0 "With war on the European continent inevitable a
 
 NEE_Todd_Bath_Shipyard:0 "Todd-Bath Iron Shipbuilding Corporation"
 NEE_South_Portland_Shipyard:0 "South Portland Shipbuilding Corporation"
-NEE_Walsh_Kaiser_Shipyard:0 "Walsh-Kaiser Company"
+NEE_Walsh_Kaiser_Shipyard:0 "월시-카이저 회사"
 
 ### GUI ###
 NEE_GUI_Airdrop_locked_TT:0 "§YAirdrop Supplies for the Resistance§!\n§gBy employing the "Freedom Fliers" we will perform fast and precise strikes into enemy territory dropping supplies over known resistance HQs where our operatives on the ground will arm possible sympathisants to harass the enemy from behind.§!\n\n£rifle_texticon §Y500§! £manpower_texticon §Y100§!\n\n£locked §RComplete the§! §Y"Flying for Freedom"§! §Rfocus to unlock this action§!"
