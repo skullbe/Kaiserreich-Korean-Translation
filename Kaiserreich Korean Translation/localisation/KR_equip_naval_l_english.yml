@@ -249,7 +249,7 @@ ship_hull_carrier_5:0 "현대 항공모함 선체"
 ship_hull_carrier_5_desc:0 "Even once the dominance of heavy carriers had become indisputable, there were many powers that could not afford such ships, and even major naval powers that needed secondary carriers to cover less important naval regions. These ships were the designs that were created to fill those needs. Much smaller than the heavy carriers, they nonetheless incorporated design innovations developed from them, to produce effective smaller carriers that had respectable aircraft capacity, fast speeds, and reasonable anti-aircraft defence batteries."
 
 catapult_plane_two:0 "개선된 수상기 발사대"
-catapult_plane_two_desc:0 "개선된 압축공기 매커니즘을 사용해서 더 큰 수상기를 캐터펄트를 통해 발사할 수 있습니다. 이 발사대는 수상기의 정찰 범위를 크게 늘려줍니다.\n\n이 모듈을 §Y순양함§!, §중함선§! 또는 특수 §Y잠수함§! 에 장착하면 함선의 탐지 범위를 늘려줍니다."
+catapult_plane_two_desc:0 "개선된 압축공기 매커니즘을 사용해서 더 큰 수상기를 캐터펄트를 통해 발사할 수 있습니다. 이 발사대는 수상기의 정찰 범위를 크게 늘려줍니다.\n\n이 모듈을 §Y순양함§!, §Y중함선§! 또는 특수 §Y잠수함§! 에 장착하면 함선의 탐지 범위를 늘려줍니다."
 carrier_armoured_deck:0 "90 mm 갑판장갑"
 carrier_armoured_deck_desc:0 ""
 carrier_side_lift:0 "현측 함재기 승강기"
