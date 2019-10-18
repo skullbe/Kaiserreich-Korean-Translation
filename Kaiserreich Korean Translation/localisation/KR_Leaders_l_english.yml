@@ -1006,10 +1006,10 @@ POLITICS_RICARDO_JOAQUIN_ALFARO_JOVANE_DESC:0 ""
 POLITICS_ARNULFOMADRID_DESC:0 ""
 
 ## Papal States ##
-POLITICS_PIUS_XII_DESC:0 "추기경 에우제니오 파첼리이었던 교황 비오 12세는 위대한 영적 열정을 가진 사람입니다. 그는 그의 경건함으로 유명하지만, 사람들을 보호하고자 하는 열망이 아주 강한 권위주의적 성향을 가지고 있습니다."
-POLITICS_STEPHEN_X_DESC:0 "추기경 엘리야 달라 코스타이었던 교황 스테파노 10세는 자선의 본성과 가난한 이들에 대한 사랑으로 온화한 인물로 명성을 얻고 있습니다. 대부분은 그가 결국 교황을 국가의 직접 통치로부터 멀어지게 할 것이며, 이미 교황청 내에서 군대가 그 역할을 맡을지를 결정하기 위해 모일 것이라고 추측됩니다."
-POLITICS_JOHN_XXIII_DESC:0 "추기경 아실 리에나르이었던 교황 요한 23세는 교황으로서 논란의 여지가 있는 인물입니다. 그는 급진주의자라고 여겨지는 유명한 사회주의자이며, 사회주의자들의 지지를 받아 북쪽과 화해하게 될 가능성 때문에 교황청에 의해 선택되었을 가능성이 있습니다."
-POLITICS_JULIUS_IV_DESC:0 "추기경 알프레도 슈스터이었던 교황 율리오 4세는 그의 열정으로 유명한 사람입니다. 그는 수 년 동안 로마 교황청의 운영에 관여해왔습니다. 그가 밀라노 대주교였을 시절, 그는 이미 생디칼리즘이 지구에서 박멸 될 때까지 싸워야 할 악이라고 선언한 바 있습니다."
+POLITICS_PIUS_XII_DESC:0 "추기경 에우제니오 파첼리였던 교황 비오 12세는 위대한 영적 열정을 가진 사람입니다. 그는 그의 경건함으로 유명하지만, 사람들을 보호하고자 하는 열망이 아주 강한 권위주의적 성향을 가지고 있습니다."
+POLITICS_STEPHEN_X_DESC:0 "추기경 엘리야 달라 코스타였던 교황 스테파노 10세는 자선의 본성과 가난한 이들에 대한 사랑으로 온화한 인물로 명성을 얻고 있습니다. 대부분은 그가 결국 교황을 국가의 직접 통치로부터 멀어지게 할 것이며, 이미 교황청 내에서 군대가 그 역할을 맡을지를 결정하기 위해 모일 것이라고 추측됩니다."
+POLITICS_JOHN_XXIII_DESC:0 "추기경 아실 리에나르였던 교황 요한 23세는 교황으로서 논란의 여지가 있는 인물입니다. 그는 급진주의자라고 여겨지는 유명한 사회주의자이며, 사회주의자들의 지지를 받아 북쪽과 화해하게 될 가능성 때문에 교황청에 의해 선택되었을 가능성이 있습니다."
+POLITICS_JULIUS_IV_DESC:0 "추기경 알프레도 슈스터였던 교황 율리오 4세는 그의 열정으로 유명한 사람입니다. 그는 수 년 동안 로마 교황청의 운영에 관여해왔습니다. 그가 밀라노 대주교였을 시절, 그는 이미 생디칼리즘이 지구에서 박멸 될 때까지 싸워야 할 악이라고 선언한 바 있습니다."
 POLITICS_PIUS_XI_DESC:0 "아킬레 라티 추기경은 1922년에 비오 11세 교황으로 선출되게 됩니다. 신생 폴란드국에서 교황청 대리로 일하던 아킬레 라티는 1921년에야 추기경으로 임명되었으며, 이탈리아 내전기와 교황령 성립 시기 동안에는 외국에서 근무했기 때문에 전란으로 야기된 각종 위기에서 벗어날 수 있었습니다. 그는 이탈리아 통일 이후로 계속되어왔던 사보이 군주제 하의 관행을 탈피하여 성 베드로 성당에서 취임사를 한 최초의 교황이기도 합니다. 그의 집권기 동안 교황청 내에서는 붕당정치가 태동하게 되었으며 세속적 권위의 재확립으로 인해 각종 문제점이 발생하게 되었다는 비난을 받기도 합니다."
 POLITICS_COLLEGE_CARDINALS_DESC:0 "콘클라베가 진행되는 동안에는 교황청 궁무처장인 에우제니오 파첼리가 교황의 권한대행을 맡게 됩니다. 권한대행 체제로 교황령이 운영되고 있기는 하지만 공식적으로는 성좌로 대표되는 국가원수 자리는 공석입니다. 어느 정도의 시간이 소요되는 콘클라베는 교회와 교황령 자체의 미래를 바꿀 수도 있을 것입니다."
 
@@ -1247,7 +1247,7 @@ POLITICS_BLAISE_DIAGNE_DESC:0 ""
 
 ## Serbia ##
 POLITICS_SLOBODAN_JOVANOVIC_DESC:0 "세르비아의 법학자, 역사학자, 사회학자, 언론인이자 문학 평론가인 슬로보단 요바노비치는 유난히 분명하고 날카롭게 세상을 바라봅니다. 그의 유일한 관심은 세르비아 국민들과 헌법을 권위주의로부터 보호하는 것입니다."
-POLITICS_PETAR_BOJOVIC_DESC:0 "세르비아-오스만 전쟁, 세르비아-불가리아 전쟁, 발칸 전쟁, 그리고 세계대전까지 군 사령관을 맡았던 보예빅은 세계대전 이후 오스트리아로부터 독립한 세르비아의 보이보다이자 통치자입니다."
+POLITICS_PETAR_BOJOVIC_DESC:0 "세르비아-오스만 전쟁, 세르비아-불가리아 전쟁, 발칸 전쟁, 그리고 세계대전까지 군 사령관을 맡았던 보요비치은 세계대전 이후 오스트리아로부터 독립한 세르비아의 보이보다이자 통치자입니다."
 POLITICS_ALEXANDER_I_DESC:0 "발칸 전쟁과 세계대전에서 군 사령관을 맡았던 예전의 세르비아 왕세자는 이제 국왕이 되었습니다. 그는 세르비아 카라조르제비치 왕조의 일원으로 그의 아버지에 이은 두 번째 왕입니다."
 
 ## Siam ##
@@ -1292,13 +1292,13 @@ POLITICS_GIUSEPPE_VITTORIO_DESC:0 ""
 POLITICS_MICHELE_BIANCHI_DESC:0 ""
 
 ## Somalia ##
-POLITICS_ALI_SHIRE_DESC:0 "Having taken up the throne of the Warsangali Sultanate in 1897 after a protracted power struggle with his father Gerad Cali Shiire, he descends from a line of kings that has lasted almost 600 years in the Horn of Africa. While being nominally subservient to British interests, Maxamuud Cali Shiire's support of Abdullah Hassan, the Mad Mullah, was crucial in defeating Italy in Afrika during the Weltkrieg. A savvy political navigator, Maxamuud has united the sultanates of Somalia under a federal monarchy under his nominal leadership; but can a man who declared war against his own father for power be trusted not to infringe on constitutional prerogatives?"
-POLITICS_BARRE_DESC:0 "A Marehan Darod hailing from the Ogaden, Siad Barre has always been a competent and enthusiastic officer. He is uncommonly young and surprisingly vicious with his enemies, and his ideological inflexibility certainly comes from his training from members of the Muslim Socialist Comitee. His vision of a Somalia united beyond clan bonds is one that is bound to find resistance at every level of Somali society"
-POLITICS_HAAJI_MAHAMMAD_DESC:0 "Haaji Mohammed is the chief among a group of officers and intellectuals who defend the concept of a Greater Somalia above all else, and the unification of the people under one purpose. Despite his deep admiration for Abdullah Hassan, his group seeks completely detach Islam from the state, and such a measure is bound to unpopular at many levels of society"
-POLITICS_JAMA_QUALIB_DESC:0 "Jama Abdullahi Qalib is a young liberal hailing from Hargresia. His faith on liberalism as the way to Somalia's future is admirable, but his readiness to work with foreigners has raised concerns on the populace, and so have his liberal ideas on the complete secularisation of the state"
-POLITICS_ADEN_ADDE_DESC:0 "Born in 1909 in Beledweyne, Aden Abdullah remembers very well how it is to grow up under the thrall of Colonialism. His studies bring him closer and closer to Syndicalist ideologies, which he believes fit Somalia well; each clan is a trade union which works best autonomously, but most cooperate with its neighbours. He has been strongly influenced recently by French scholarship on matters of decentralised leadership, and hopes that he can ensure that Somalia's rough recent years can culminate in something good on the long run"
-POLITICS_SHERMAKE_DESC:0 "A Majarteen from Mudog, Ali Shermarke is a competent young scholar, well versed in both Islamic, Federal and foreign laws. He wishes for a non-aligned and peaceful foreign policy, but his wishes may very well be overturned by the influences foreign powers exert now on Somalia"
-POLITICS_BASHIR_YUSUF_SOM_DESC:0 "Hailing from the Osman Mahmoud clan of the Majarteen, Yusuf defends a more democratic and equal Somalia, even if he lacks the fervour for change that many of his colleagues do. His hopes are of a Somali Democratic Federation where the small clans and the city folk alike have their voices heard by the powers that be, and vows to fight poverty on rural areas of the nation"
+POLITICS_ALI_SHIRE_DESC:0 "1897년 아버지 게라드 알리 시레와의 질질 끌던 권력 다툼 끝에 와르산갈리 술탄정의 권좌에 오른 그는 아프리카의 뿔에서 600년간 이어내려온 왕들의 계보를 잇습니다. 마하무드 알리 시레는 겉으로는 영국인들의 이익에 영합했지만 미친 물라 압둘라 하산을 지원하여 세계대전 중에 아프리카에서 이탈리아를 패배시키는데 결정적인 공헌을 했습니다. 상식을 가진 정치적 지도자인 마하무드는 소말리아의 술탄국들을 명목상으로는 그가 이끄는 연방 왕국의 아래로 통일했습니다. 하지만 권력을 위해서라면 자기 친아버지에게도 전쟁을 선포할 수 있는 남자가 헌법의 권한을 위반하지 않으리라고 믿을 수 있을까요?"
+POLITICS_BARRE_DESC:0 "오가덴 출신으로 마레한 다로드 부족 소속인 시아드 바레는 언제나 경쟁적이고 열정적인 장교입니다. 그는 굉장히 젊고 그의 적들에게는 놀라우리만큼 악독합니다. 그의 사상적인 고집은 무슬림 사회주의 위원회의 회원으로 훈련받은 것에서 유래합니다. 소말리아를 부족들의 연합체를 넘어서 통합하고자 하는 그의 비전은 소말리아 사회의 모든 계층에서 당연하게 반발을 불러올 것입니다."
+POLITICS_HAAJI_MAHAMMAD_DESC:0 "하치 모하메드는 대 소말리아의 개념을 그 어느 것보다도 우위에 두고, 그 민족을 하나의 목적 아래에 통일시키고자 하는 장교들과 지식인들의 모임의 대표입니다. 그는 압둘라 하산을 깊이 존경하지만 그의 모임은 국가를 이슬람과 완전히 분리시키려하며 그런 정책은 소말리아의 모든 계층에서 당연하게 인기가 없습니다."
+POLITICS_JAMA_QUALIB_DESC:0 "자마 압둘라히 칼리브는 하르게이사 출신의 젊은 자유주의자입니다. 소말리아가 미래에 걸어야할 길은 자유주의라고 생각하는 그의 믿음은 존경스러운 것이지만 그가 외국인들과 기꺼이 협력하려고 하고 자유주의 사상에 따라 국가를 완전히 세속화하려 하면서 대중의 염려를 받습니다."
+POLITICS_ADEN_ADDE_DESC:0 "1909년 벨레드웨이네에서 태어난 아덴 압둘라는 식민지주의의 노예 상태로의 성장 과정을 매우 잘 기억하고 있습니다. 학업을 지속하며 그는 그것이 소말리아에 잘 맞는다고 판단하면서 점점 더 생디칼리슴 사상에 가까워졌습니다. 각 부족들은 완전히 자치적으로 일하지만 그 이웃들과 완전히 협력하는 노동조합이 됩니다. 그는 최근 탈중앙화된 지도력의 문제에서 프랑스의 학설에 강한 영향력을 받았으며 그가 근간의 소말리아의 힘든 시절을 긴 경주 끝에 좋은것으로 바꿔낼 수 있기를 희망합니다."
+POLITICS_SHERMAKE_DESC:0 "무도그 출신으로 마자르텐 부족 소속인 알리 셰마르케는 열정적인 젊은 학자로 이슬람 법, 연방법, 외국법을 모두 잘 암기하고 있습니다. 그는 비동맹적이고 평화로운 해외 정책을 원하지만 그의 소망은 외세의 열강들이 이제 행사하는 영향력에 의해 가볍게 압도될지도 모릅니다."
+POLITICS_BASHIR_YUSUF_SOM_DESC:0 "마자르텐의 오스만 마흐무드 부족으로 태어난 유수프는 그의 동료들이 그러하듯이 변화에 대한 열망은 부족할지라도 더욱 민주적이고 평등한 소말리아를 지지합니다. 그의 희망은 소말리 민주 연방이 작은 부족들과 도시민들의 목소리를 동등하게 듣고 국가의 시골 지역의 가난과 싸우는 일에 더욱 매진하는 곳이 되는 것입니다."
 
 ## South Africa ##
 POLITICS_JAMES_HERTZOG_DESC:0 "제임스 배리 문닉 헤르초크는 2차 보어 전쟁에서 보어 게릴라 지도자로서 명성을 얻기 시작했습니다. 비록 전쟁에서는 패배했지만 헤르초크는 아프리카너들을 계속해서 옹호합니다. 그는 '국민당'을 장악하고 있는 아프리카너들의 지도자 위치에 올랐고, 1924년에 남아프리카 최초의 아프리카너 출신 총리가 되었습니다. 그 다음 해 영국의 몰락과 함께 헤르초크는 남아프리카의 독립을 선언하고 영국령 배추아날랜드와 남부 로디지아 식민지를 점령했습니다. 새로운 남아프리카 공화국의 대통령으로서 헤르초크는 남아공의 각종 인종간의 분리를 주장했으며, 이미 억압된 남아프리카인들의 선거권 박탈과 이주를 부추겼습니다."
