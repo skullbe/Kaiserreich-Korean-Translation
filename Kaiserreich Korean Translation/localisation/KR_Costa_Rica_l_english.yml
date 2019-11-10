@@ -107,6 +107,8 @@ COS_PBA_WEAP:0 "Boost §GResistance Strength§! in Puerto Barrios"
 
 Beel_pls:0 "§RB E E L Z E B U B \nE \nE \nL \nZ \nE \nB \nU \nB§!"
 
+COS_ELECTIONS:0 "The 1940 elections have yet to occur"
+
 ### Decisions ###
 COS_ZKG_decisions:0 "Zentralamerikanische Kaffee-Gesellschaft"
 COS_ZKG_decisions_desc:0 "Our nation is almost fully controlled by a select elite of Coffee barons. Due to the American depression and the subsequent shockwaves, many of these barons with German roots have bound together and have created the §YZentralamerikanische Kaffee-Gesellschaft§! or §YZKG§!. Their power is large but could also be used to our advantage should we play our cards right.\n\nInfluence of the §YZKG§! : £coffee_texticon [?party_popularity@authoritarian_democrat|%R0]\n"
@@ -324,6 +326,12 @@ COS_beacon_democracy_3_desc:0 "Strong traditions of democracy and progressive re
 
 COS_Domestic_Designs_2:0 "Domestic Designs"
 
+COS_coto_compensation:0 "Coto Compensation"
+COS_coto_compensation_desc:0 "As part of a mediated settlement, Panama has rescinded its claim to Coto in exchange for monetary compensation."
+
+COS_coto_compensation_PAN:0 "Coto Compensation"
+COS_coto_compensation_PAN_desc:0 "As part of a mediated settlement, we have rescinded our claim to Coto in exchange for monetary compensation."
+
 UFC_Profit_1_idea:0 "Profits from the UFC"
 UFC_Profit_1_idea_desc:0 "Increasing profits from the United Fruit Company's activity in the nation is assisting our economic output."
 UFC_Profit_2_idea:0 "Profits from the UFC"
@@ -371,7 +379,7 @@ COS_Puerto_Limon_Expansion_desc:0 "Located on the Atlantic side of our nation, P
 COS_Connecting_the_Plantations:0 "Connecting the Plantations"
 COS_Connecting_the_Plantations_desc:0 "Railroads are no longer an abstract landscape decoration feature for the Costa Rican people who have seen the completion of multiple projects in their lifetime. The expansion of the plantations however caused by the new policy has left the rail magnates to play catch up. Inviting foreign investors to assist us in this could prove to be a big boon to our recovery."
 COS_Withering_the_Storm:0 "Weathering the Storm"
-COS_Withering_the_Storm_desc:0 "Our experience with the American recession in the 20ies and the subsequent decisive economic policy of our President has enabled us to quite painlessly get over the recession. Jobs have been lost and empty bellies endured but compared to our neighbours we can proudly say that Costa Rica is prepared for the future."
+COS_Withering_the_Storm_desc:0 "Our experience with the American recession in the 20's and the subsequent decisive economic policy of our President has enabled us to quite painlessly get over the recession. Jobs have been lost and empty bellies endured but compared to our neighbours we can proudly say that Costa Rica is prepared for the future."
 COS_German_Crisis_Response:0 "German Crisis Response"
 COS_German_Crisis_Response_desc:0 "It was the Germans who brought down our economy so it is only right that they are going to help us recover. This will come at a cost however as the hawkish investors of the Empire are sure to demand further land concessions in exchange for lower tarrifs and agreeable trade terms."
 COS_Cash_Crops:0 "Cash Crops Investments"
@@ -522,6 +530,9 @@ COS_Purchase_American_Fighthers:0 "미국 전투기 구입"
 COS_Purchase_American_Fighthers_desc:0 "Surprised by our lack of airpower, the American government has offered the sale of Boeing P-26 fighters to guard our skies and deter incursions from our neighbours."
 COS_Aircraft_Contracts:0 "American Weapons Contracts" 
 COS_Aircraft_Contracts_desc:0 "Through a system of lend lease and for the sake of protecting the Americas, the USA has sent us the necessary arms to supply our troops with and avoid us being underprepared should war arrive on our shores. Not only through sales but also local partnerships, the Americans hope to continue building on our good relations and at the same time establish a loyal base of operations close to the Canal."
+
+### Commanders ###
+ARMY_COS_FERNANDO_FIGULS_QUIROS_DESC:0 ""
 
 ### Events ###
 cos.1.t:0 "Costa Rica: A Central American Success Story"

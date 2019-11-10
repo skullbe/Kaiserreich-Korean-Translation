@@ -2,7 +2,7 @@
 
 ### Focus tree ###
 GAB_Independence_Conflict:0 "독립 투쟁"
-GAB_Independence_Conflict_desc:0 "중앙아프리카의 붕괴로 가봉은 독립을 주장할 기회를 얻었습니다. 이 기회를 낭비하지 맙시다. \n 연합, 노동, 정의!"
+GAB_Independence_Conflict_desc:0 "미텔아프리카의 붕괴로 가봉은 독립을 주장할 기회를 얻었습니다. 이 기회를 낭비하지 맙시다. \n 연합, 노동, 정의!"
 GAB_Petition_French_Republic:0 "프랑스 공화국에 요청"
 GAB_Petition_French_Republic_desc:0 "가봉에는 무기가 필요하며, 이곳이 의지하기에 가장 좋은 곳 같습니다."
 GAB_Petition_French_Commune:0 "프랑스 코뮌에 요청"
@@ -44,8 +44,8 @@ gab.2.d:0 "The French Commune has awarded us with 50 beautiful fighter planes to
 gab.2.a:0 "Okay."
 gab.3.t:0 "Gabon needs guns!"
 gab.3.d:0 "The African state of Gabon has requested our help in supplying their troops, this would be a good oppurtunity to gain a better foothold in former Mittelafrikan territory."
-gab.3.a:0 "Give them what they want"
-gab.3.b:0 "Refuse"
+gab.3.a:0 "Give them what they want."
+gab.3.b:0 "Refuse."
 gab.4.t:0 "France says yes!"
 gab.4.d:0 "France has listend to our cry for help and supplied us with the weapons we desperately needed!"
 gab.4.a:0 "Great!"
@@ -54,8 +54,8 @@ gab.5.d:0 "France has refused to listen to our cry for help and left us to fend 
 gab.5.a:0 "Who needs them?"
 gab.6.t:0 "Gabon needs guns!"
 gab.6.d:0 "The African state of Gabon has requested our help in supplying their troops, this would be a good oppurtunity to gain a better foothold in former Mittelafrikan territory."
-gab.6.a:0 "Give them what they want"
-gab.6.b:0 "Refuse"
+gab.6.a:0 "Give them what they want."
+gab.6.b:0 "Refuse."
 gab.7.t:0 "France says yes!"
 gab.7.d:0 "France has listend to our cry for help and supplied us with the weapons we desperately needed!"
 gab.7.a:0 "Great!"
@@ -108,3 +108,7 @@ GAB_The_Gabonese_Constitution_desc:0 "The ratification of a constitution has giv
 
 ### Tooltips ###
 GAB_recruit_tt:0 "2개의 민병대 사단이 소집될 것입니다."
+
+### Flags ###
+GAB_Republic:0 "공화정이 유지됨"
+GAB_radsoc_collapse:0 "사회주의 쿠데타가 성공함"

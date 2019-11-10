@@ -1,8 +1,5 @@
 l_english:
 
-### Production ###
-PRODUCTION_CIVILIAN_FACTORIES_SENT_TO_OTHERS:0 "다른 국가에게 주었음: $VAL|R$"
-
 ### Main Menu Tooltips ###
 COOP_MAIN_MENU_LINK:0 "여기를 눌러서 디스코드로 이동하세요"
 KR_MAIN_MENU_LINK:0 "여기를 눌러서 카이저라이히 위키로 이동하세요"
@@ -11,6 +8,7 @@ LOGO_MAIN_MENU_LINK:0 "여기를 눌러서 패치노트를 확인하세요"
 ### Difficulty ### 
 custom_diff_strong_ger:0 "독일 제국 강화"
 custom_diff_strong_frasri:0 "인터내셔널 강화"
+custom_diff_strong_entente:0 "협상국 강화"
 custom_diff_strong_eng:0 "브리튼 연방 강화"
 custom_diff_strong_can:0 "캐나다 강화"
 custom_diff_strong_rus:0 "러시아 강화"
@@ -23,7 +21,7 @@ custom_diff_strong_jap:0 "일본 강화"
 custom_diff_strong_qie:0 "청나라 강화"
 
 ### Autonomy Levels ###
-kr_integrated_puppet:0 "융화된 괴뢰국"
+kr_integrated_puppet:0 "동화된 괴뢰국"
 kr_occupied_puppet:0 "점령된 괴뢰국"
 kr_default_puppet:0 "괴뢰국"
 kr_autonomous_puppet:0 "자치 괴뢰국"
@@ -31,6 +29,8 @@ kr_nominal_puppet:0 "명목상 괴뢰국"
 kr_special_autonomous_dependency:0 "자치 속국"
 kr_african_colony:0 "아프리카 식민지"
 kr_african_tributary:0 "아프리카 조공국"
+kr_initial_wif_puppet:0 "연합된 식민지"
+kr_soclib_wif_puppet:0 "연합된 자치령"
 autonomy_colony:1 "식민지"
 autonomy_dominion:1 "자치령"
 
@@ -43,17 +43,26 @@ may_raise_autonomy:0 "§Y[Root.GetNameDefCap]§!의 자치도를 낮출 수 있�
 may_become_free:0 "§Y[Root.GetNameDefCap]§! (은)는 독립을 향해가고 있습니다\n"
 
 ### Autonomy Events ###
-kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구됨"
-kr.political.100.d:0 "While [Root.GetNameDef] still labours under [overlord_name.GetAdjective] control, the [Root.GetAdjective] military has asserted enough control over our own borders that a semblance of greater autonomy is now possible to exert. This is not independence - far from it - but it does mean we no longer have to rely on [overlord_name.GetAdjective] troops to secure our borders."
-kr.political.100.a:0 "훌륭하군"
+kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구되다"
+kr.political.100.d:0 "[Root.GetNameDef]이(가) 여전히 [overlord_name.GetAdjective]의 통제 하에 노동하고 있는 동안, [Root.GetAdjective] 군대는 자국의 국경을 충분히 제어 할 수 있다고 주장하며 이제 더 큰 자율성을 발휘할 수 있게 되었습니다. 이것은 독립 국가와는 거리가 멀지만 국경을 확보하기 위해 더 이상 [overlord_name.GetAdjective] 군대에 의존 할 필요가 없다는 것을 의미합니다."
+kr.political.100.a:0 "훌륭하군."
 
 kr.political.101.t:0 "대 [Root.GetAdjective] 자치령?"
-kr.political.101.d:0 "[Root.GetNameDefCap] remains under the control of the [overlord_name.GetAdjective] government, but that control is beginning to surely lessen as our strength reasserts itself. [Root.GetAdjective] power is not something to be easily contained, and already our leaders are clamouring for more control over our own affairs. Surely our [overlord_name.GetAdjective] will not be able to resist us for long."
+kr.political.101.d:0 "[Root.GetNameDefCap]은(는) [overlord_name.GetAdjective] 정부의 통제하에 있지만, 우리의 힘을 스스로 재확보함에 따라 그 통제권은 확실히 줄어들기 시작하고 있습니다. [Root.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 우리의 지도자들은 우리 자신의 문제에 대한 더 많은 통제권을 요구하고 있습니다. 물론 우리 [overlord_name.GetAdjective]은(는) 오랫동안 저항할 수 없을 것입니다."
 kr.political.101.a:0 "[Root.GetNameDef] 만세!"
 
+### Government in Exile Events ###
+mtg_exile_government.1.t:0 "[exile_nation.GetAdjective]의 망명정부 지도자가 군복무를 원합니다"
+mtg_exile_government.1.desc:0 "적국이 점령한 영토와 여러 중립국들을 통해 길고 위험한 여정을 보낸 후, 항복한 아군 중 한 명의 고위 군 장교가 드디어 수도에 도착했습니다. 짧은 회복 시간을 보낸 후, 그는 우리와의 공동의 투쟁에서 군복무를 원하고 있습니다."
+mtg_exile_government.1.a:0 "당신의 싸움은 아직 끝나지 않았습니다."
+
 ### Land Units ###
-garrison:0 "주둔군"
 militia:0 "민병대"
+
+### Tech ###
+cl_tech:0 "경순양함 기술"
+dd_tech:0 "구축함 기술"
+military_police_tech:0 "헌병"
 
 ### Interface ###
 minister:1 "장관"
@@ -62,26 +71,35 @@ research_production:1 "회사"
 weapons_manufacturer:0 "무기 제조사"
 #tank_manufacturer:1 "중장비 제조사" already defined in Traits loc file
 air_naval_manufacturer:0 "항공/선박 제조사"
-can_replace_hog:0 "정부 수반 재임명 가능"
-for_cannot_be_replaced:0 "외교 장관 재임명 불가"
-eco_cannot_be_replaced:0 "경제 장관 재임명 불가"
-sec_cannot_be_replaced:0 "내무부 장관 재임명 불가"
+can_replace_hog:0 "정부수반 재임명 가능"
+for_cannot_be_replaced:0 "외무장관 재임명 불가"
+eco_cannot_be_replaced:0 "경제장관 재임명 불가"
+sec_cannot_be_replaced:0 "내무장관 재임명 불가"
 ministers_cannot_be_replaced:0 "장관 재임명 불가"
+
+### Game Options ###
+RULE_GROUP_KAISERREICH_RULES:0 "카이저라이히 규칙"
+RULE_MAP_NAMESTYLE:0 "지명 방식 & 지명 변경"
+RULE_OPTION_USE_EXONYM:0 "고정 지명"
+RULE_OPTION_USE_EXONYM_DESC:0 "지역 소유자가 바뀌어도 지명이 변경되지 않습니다."
+RULE_OPTION_USE_ENDONYM:0 "유동적인 지명"
+RULE_OPTION_USE_ENDONYM_DESC:0 "기존 카이저라이히 지명시스템과 같습니다. 지역의 소유자에 따라 유동적으로 지명이나 도시명이 변경됩니다."
+RULE_NEWS_EVENTS:0 "뉴스와 사건"
+RULE_OPTION_NEWS_EVENTS_ALL:0 "모든 뉴스 받아보기"
+RULE_OPTION_NEWS_EVENTS_ALL_DESC:0 "위치불문하고 모든 국가들의 사건과 뉴스를 받아보게 될 것입니다."
+RULE_OPTION_NEWS_EVENTS_SOME:0 "일부 뉴스만 받기"
+RULE_OPTION_NEWS_EVENTS_SOME_DESC:0 "강대국 위주의 사건과 뉴스만 받아보게 될 것입니다."
+RULE_OPTION_NEWS_EVENTS_NONE:0 "뉴스 받지 않기"
+RULE_OPTION_NEWS_EVENTS_NONE_DESC:0 "극소수의 뉴스만 받아보게 될겁니다."
 
 ### Factions ###
 Mittelmacht:0 "제국 조약"
 Entente:0 "협상국"
-Belgrade_Pact:0 "베오그라드 조약 기구"
+Belgrade_Pact:0 "베오그라드 조약"
 Third_International:0 "제3인터내셔널"
-Mongolian_Alliance:0 "대 칸국"
-Scandinavian_Pact:0 "스칸디나비아 조약 기구"
+Mongolian_Alliance:0 "대칸국"
+Scandinavian_Pact:0 "스칸디나비아 조약"
 Mediterranean_Bloc:0 "지중해 연합"
-
-### Other ###
-tooltip_add_idea_closed_economy:0 "'§Y폐쇠경제§!'로 무역법을 변경합니다.\n"
-tooltip_add_idea_command_economy:0 "'§Y계획경제§!'로 무역법을 변경합니다.\n"
-unlock_focuses:0 "§G이 중점은 자동으로 통과될 것이며 다른 중점을 해금할 것입니다§!\n"
-command_economy:0 ""
 
 ### Custom Triggers ###
 had_war:0 "전쟁에서 싸운적이 있음"
@@ -101,28 +119,36 @@ russian_expansionism_threat:0 "러시아의 팽창주의 노선"
 kerensky_assassinated_threat:0 "케렌스키가 암살됨"
 macarthur_threat:0 "미국에서 민주주의가 축출됨"
 japanese_expansionism_threat:0 "일본의 팽창주의 노선"
-mittelafrika_collapse_threat:0 "중앙아프리카가 붕괴됨"
+mittelafrika_collapse_threat:0 "미텔아프리카가 붕괴됨"
 democratic_win_acw_threat:0 "제2차 미국 내전에서 민주주의가 살아남음"
 macarthur_wins_threat:0 "맥아더가 제2차 미국 내전에서 승리함"
-aus_wins_acw_threat:0 "미주 연합이 제2차 미국 내전에서 승리함"
-csa_wins_acw_threat:0 "노동 연맹이 제2차 미국 내전에서 승리함"
-belgrade_pact_threat:0 "베오그라드 조약 기구가 창설됨"
+aus_wins_acw_threat:0 "미연합국이 제2차 미국 내전에서 승리함"
+csa_wins_acw_threat:0 "미노조연합이 제2차 미국 내전에서 승리함"
+belgrade_pact_threat:0 "베오그라드 조약이 창설됨"
+
+### Other ###
+tooltip_add_idea_closed_economy:0 "'§Y폐쇠경제§!'로 무역법을 변경합니다.\n"
+tooltip_add_idea_command_economy:0 "'§Y계획경제§!'로 무역법을 변경합니다.\n"
+unlock_focuses:0 "§G이 중점은 자동으로 통과될 것이며 다른 중점을 해금할 것입니다§!\n"
+command_economy:0 "명령경제"
+
+### Bookmarks ###
 
 ### Name and Description ###
 BM_HISTORY_TITLE:0 "간략한 역사"
-KR_SCENARIO_NAME:0 "세계 대전의 유산"
-KR_SCENARIO_DESC:0 "1936년은 세계사의 전환점이 될 것입니다. 거대한 기회인 동시에 위협이 다가오는 때입니다. 독일 제국과 프랑스 코뮌 사이의 긴장감이 거세지고 있습니다. 러시아와 미합중국은 내분의 조짐이 나타나고 있으며 쇠락한 제국 오스트리아와 오스만은 쇠퇴하고 있습니다. 한편 노동조합주의, 전체주의 그리고 급진사회주의는 전 세계에 뿌리내리고 있습니다. 세계 대전 종전 후 15년. 옛 적국들이 다시 고개를 들고 있습니다. 단 하나의 불씨만으로도 이 화약고는 폭발하게 될 것입니다..."
+KR_SCENARIO_NAME:0 "세계대전의 유산"
+KR_SCENARIO_DESC:0 "1936년은 세계사의 전환점이 될 것입니다. 거대한 기회인 동시에 위협이 다가오는 때입니다. 독일 제국과 프랑스 코뮌 사이의 긴장감이 거세지고 있습니다. 러시아와 미합중국은 내분의 조짐이 나타나고 있으며 쇠락한 제국 오스트리아와 오스만은 쇠퇴하고 있습니다. 한편 생디칼리즘, 전체주의 그리고 급진사회주의는 전 세계에 뿌리내리고 있습니다. 세계대전 종전 후 15년. 옛 적국들이 다시 고개를 들고 있습니다. 단 하나의 불씨만으로도 이 화약고는 폭발하게 될 것입니다..."
 
 ### Major Nations ###
 
 ### Germany ###
-GER_KR_GATHERING_STORM_DESC:0 "1919년, 5년의 전쟁 끝에 독일군은 프랑스에서 협상국의 방어선을 무너뜨렸습니다. 그리고 1921년, 영국의 항복이 뒤따랐습니다. 세계 대전은 독일을 유일무이한 강대국으로 만들어 주었지만, 1930년대 이후로 독일은 내리막길을 걷고 있습니다. 후퇴하는 세계 경제로 인해 독일의 산업력이 약화된 반면 다른 국가들의 제조업은 회복되었고, 독일의 동부 위성국들에서는 민족주의가 퍼져 제국에서 떠나가기를 원하고 있습니다. 1936년, 독일은 갈림길에 서있고, 우리는 과거의 적들이 예전의 힘을 되찾는 동안 강대한 제국이 이미 금이 가고 있는 것을 보았습니다..."
+GER_KR_GATHERING_STORM_DESC:0 "1919년, 5년의 전쟁 끝에 독일군은 프랑스에서 협상국의 방어선을 무너뜨렸습니다. 그리고 1921년, 영국의 항복이 뒤따랐습니다. 세계대전은 독일을 유일무이한 강대국으로 만들어 주었지만, 1930년대 이후로 독일은 내리막길을 걷고 있습니다. 후퇴하는 세계 경제로 인해 독일의 산업력이 약화된 반면 다른 국가들의 제조업은 회복되었고, 독일의 동부 위성국들에서는 민족주의가 퍼져 제국에서 떠나가기를 원하고 있습니다. 1936년, 독일은 갈림길에 서있고, 우리는 과거의 적들이 예전의 힘을 되찾는 동안 강대한 제국이 이미 금이 가고 있는 것을 보았습니다..."
 
 ### Commune of France ###
 FRA_KR_GATHERING_STORM_DESC:0 "제3공화국은 자신이 시작된 것과 같은 방식으로 끝났습니다: 독일군에게 패배했고, 본국에서 혁명을 맞이했습니다. 1919년, CGT에 의해 시작된 총파업은 부르주아 정부의 몰락을 초래했습니다. 15년 동안, 새로운 '프랑스 코뮌'은 공안위원회를 비롯한 생디칼리즘-사회주의 사이의 합의의 발판 위에서 단결할 수 있었습니다. 하지만 1936년, 국가를 재건하고 혁명을 수호해야할 필요성은 많은 비판자들에게 낡아빠진 것으로 여겨지고 있고 보다 급진적인 정책에 대한 요구가 커지고 있습니다. 프랑스는 자신의 사명에 확신을 가지고 있지만, 앞으로 어떤 혁명 분파가 권력을 장악할 지는 불분명합니다..."
 
 ### Union of Britain ###
-ENG_KR_GATHERING_STORM_DESC:0 "1921년 '명예로운 평화' 이후 세계 대전은 끝났고, 본토에서 대중들의 신뢰와 지지는 사라졌습니다. 1925년, 재앙이 발생했습니다: 소규모 노동 쟁의가 TUC에 의한 총파업으로 빠르게 커졌고, 노동자들의 파업에 이어 군인들이 탈영하기 시작했습니다. 대규모 폭동의 발생 6주 후, 왕실과 대부분의 엘리트들은 캐나다로 도주했고 대신 새로운 노동조합총회가 정권을 장악했습니다. 현재 영국인들은 고립되어 사회주의를 구축하는데 만족하고 있지만, 캐나다의 왕당파들이 연방에 대해 음모를 꾸미는 것을 그냥 내버려 둘 수 없다고 많은 사람들이 생각하기 시작했습니다..."
+ENG_KR_GATHERING_STORM_DESC:0 "1921년 '명예로운 평화' 이후 세계대전은 끝났고, 본토에서 대중들의 신뢰와 지지는 사라졌습니다. 1925년, 재앙이 발생했습니다: 소규모 노동 쟁의가 TUC에 의한 총파업으로 빠르게 커졌고, 노동자들의 파업에 이어 군인들이 탈영하기 시작했습니다. 대규모 폭동의 발생 6주 후, 왕실과 대부분의 엘리트들은 캐나다로 도주했고 대신 새로운 노동조합총회가 정권을 장악했습니다. 현재 영국인들은 고립되어 사회주의를 구축하는데 만족하고 있지만, 캐나다의 왕당파들이 연방에 대해 음모를 꾸미는 것을 그냥 내버려 둘 수 없다고 많은 사람들이 생각하기 시작했습니다..."
 
 ### Canada ###
 CAN_KR_GATHERING_STORM_DESC:0 "1925년 혁명 이후, 왕실과 영국인 망명자들은 캐나다로 피신했습니다. 보수당의 지원을 받아 그들은 본토를 되찾을 날을 꿈꾸며 준-공식적인 망명 정부를 설립했습니다. 하지만 모든 일이 잘 풀려가는 것은 아닙니다. RB 베넷의 보수당은 1935년의 선거에서 '진보주의자'들의 느슨한 연합으로 이제 과반수의 의석을 차지하고 영국 망명자들과 왕의 커져가는 영향력에 맞서 캐나다 의회의 주권을 확고히 하기 위해 노력하는 매켄지 킹의 자유당에게 패배했습니다. 세계의 정치 상황이 악화되면서, 국내외의 격렬한 갈등의 무대가 만들어졌습니다..."
@@ -131,42 +157,39 @@ CAN_KR_GATHERING_STORM_DESC:0 "1925년 혁명 이후, 왕실과 영국인 망명
 RUS_KR_GATHERING_STORM_DESC:0 "러시아 내전 동안, 백군은 가진 모든 것을 가지고 싸웠지만, 적군은 여전히 국가의 산업 중심부를 장악했었습니다. 하지만 독일 제국이 붉은 러시아를 두려워해 백군을 지원하며 개입하기로 결정했습니다. 2년 후, 모스크바와 페트로그라드는 백군에게 넘어갔고 새로운 러시아 공화국이 설립되었습니다. 지난 15년 동안, 여당인 사회혁명당과 입헌민주당의 불안한 연합은 케렌스키 대통령의 밑에서 러시아를 다스려왔지만, 러시아는 점차 불안정해지고 있습니다. 다른 정치 세력들이 성장하고 있으며, 그들은 세계에 러시아의 힘을 다시 보여주기 위해 변화할 시간이 지금이라고 생각하고 있습니다..."
 
 ### United States ###
-USA_KR_GATHERING_STORM_DESC:0 "고립주의를 자처하던 미합중국은 세계 대전 당시 개입 쪽으로 정책이 기울 뻔 했지만, 결국에는 전쟁에서 벗어나 있었습니다. 이것은 동맹국의 승리로 이어졌습니다. 그 이후로, 미합중국은 유럽 무역 기회에 있어서 경제적으로 어려움을 겪어왔고 협상국의 빚 상환은 독일의 승리로 인해 불가능해졌습니다. 여전히 국제적으로 '아무 것도 아닌 곳'으로 여겨지는 미합중국은 커져가는 내부의 반대를 마주쳤는데, 공화당-민주당의 독주 체제가 두 단체에게 도전받았습니다 - 바로 생디칼리스트들과 미국 제일당입니다. 커져만 가는 본국에서의 위기와 해외에서의 긴장감은, 미합중국에게 좋지 않은 상황입니다..."
+USA_KR_GATHERING_STORM_DESC:0 "고립주의를 자처하던 미합중국은 세계대전 당시 개입 쪽으로 정책이 기울 뻔 했지만, 결국에는 전쟁에서 벗어나 있었습니다. 이것은 동맹국의 승리로 이어졌습니다. 그 이후로, 미합중국은 유럽 무역 기회에 있어서 경제적으로 어려움을 겪어왔고 협상국의 빚 상환은 독일의 승리로 인해 불가능해졌습니다. 여전히 국제적으로 '아무 것도 아닌 곳'으로 여겨지는 미합중국은 커져가는 내부의 반대를 마주쳤는데, 공화당-민주당의 독주 체제가 두 단체에게 도전받았습니다 - 바로 생디칼리스트들과 미국 제일당입니다. 커져만 가는 본국에서의 위기와 해외에서의 긴장감은, 미합중국에게 좋지 않은 상황입니다..."
 
 ### Japan ###
 JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일본의 권리를 보장해줬지만, 욱일제국에서 모든 것이 잘 풀린 것은 아닙니다. 경제적 동요 이후 1926년 생디칼리스트의 히로히토 섭정-왕자 암살 시도로 그 극에 이르렀고, 불안정한 정부는 또다른 위기의 해를 보냈습니다; 첫 문제는 다나카 장군이었고, 다음은 민주 연립 내각이었으며 그 다음은 북동부 중국에 대한 개입이었습니다. 1936년, 일본은 제국을 확장할 태세를 취했습니다. 독일의 지배가 쇠퇴하고 있는 것으로 보이는 가운데, 일본인들은 남은 청나라의 영토와 독일의 태평양 지역들을 탐내고 있습니다..."
 
 ### Featured Nations ###
 
-### Costa Rica ###
-COS_KR_GATHERING_STORM_DESC:0 "Class warfare, rapid militarisation and the Iron Grip of the Kaiser hold the world in its grasp, which makes it even more peculiar that in the midst of all this violence and pain we can find the tiny republic of Costa Rica. Taking great pride in their impressive literacy statistics and their unbreakable dedication to the Constitution, the nation stands as a rock above its neighbours who have long been eyeing its land. As their greatest ally starts to descend into chaos, vultures all across the Americas are waiting for the proud eagle to fall. Diplomacy will have to prevail if we are to survive the coming tide..."
+### Cuba ###
+CUB_KR_GATHERING_STORM_DESC:0 "미국의 지원을 받는 독재자 제라도 마차도 정권이 전복된 지 불과 7년 만에 쿠바는 다시 정치적 격변의 기로에 서 있습니다. 젊은 대통령인 라파엘 트레조 정권은 육군에 대한 통제력을 꾸준히 상실해 왔고, 민간 정부의 정치적 권위는 거의 완전히 무너졌습니다. 좌우 급진주의자들이 나라를 위협하고 있기 때문에, 군대는 기회가 오는 즉시 완전한 통제권을 장악하는 것이 좋을 것입니다."
 
-### Cuba (RIP for now) ###
-#CUB_KR_GATHERING_STORM_DESC:0 "A mere seven years since the overthrow of American-backed dictator Gerardo Machado, Cuba again teeters on the edge of political upheaval. The regime of young President Rafael Trejo has steadily lost control over the Army and the civilian government's political authority has all but completely eroded. As radicals both right and left threaten the country, the military may well take full control as soon as an opportunity presents itself."
+### Dominican Republic ###
+DOM_KR_GATHERING_STORM_DESC:0 "The American Occupation of the Dominican Republic ended in 1924 and full political control was returned soon after, but within a mere few years, the nation's new democratic constitution would face challenges both within and without. While Democracy has so far survived in the nation, the schism of the long-ruling Red Party has again put the constitution's survival in jeopardy."
 
-### Dominican Republic (RIP for now) ###
-#DOM_KR_GATHERING_STORM_DESC:0 "The American Occupation of the Dominican Republic ended in 1924 and full political control was returned soon after, but within a mere few years, the nation's new democratic constitution would face challenges both within and without. While Democracy has so far survived in the nation, the schism of the long-ruling Red Party has again put the constitution's survival in jeopardy."
+### West Indies Federation ###
+CAF_KR_GATHERING_STORM_DESC:0 "서인도제도 연방은 1925년에 대영제국이 붕괴되면서, 카리브해 지역 일대를 직접 지배할 영향력을 잃게 되어 창설된 국가입니다. 1927년, 연방에 카리브 해의 프랑스 식민지 지역들이 편입된 후, 연방은 신분계급의 격차뿐 아니라 문화적, 이념적 분열의 본거지가 되었습니다. 국민과 신세대들은 본토에서 사회주의적인 태도와 사회주의에 대한 선호를 눈에띄게 보여주는 빨갱이들의 활동을 보게 되었습니다. 이러한 문제들은 서인도제도에 혼란이 휩싸이게 하고 있습니다..."
 
-### Guatemala ###
-GUA_KR_GATHERING_STORM_DESC:0 "The overthrow of the two decade long president Manuel Estrada Cabrera in 1920 and the overthrow of the Unity Party afterwards has led to a decade long dictatorship under José María Orellana. Through various compromises he has been able to keep power by a string through the Americans and various outside influence. However, the rise of Sandino in Nicaragua has caused extreme trouble for his presidency as socialist movements begin to grow and the Unity Party officials begin to ally with elements of the military. Orellana's dictatorship might have its string cut soon."
+### Denmark ###
+DEN_KR_GATHERING_STORM_DESC:0 "덴마크는 베를린의 그늘 아래 존재하고 있습니다. 세계의 새로운 패권주의 국가와의 관계는 아주 오래되었는데, 1864년에는 독일과 종종 적대적이였고, 그 결과 슬레스비크 지역을 독일에게 뺴앗겼습니다. 그러나 1936년, 유대 관계는 따뜻하며, 덴마크는 세계대전에서 중립을 유지한 덕에 완전한 주권을 유지하게 되었습니다. 덴마크는 인기 있는 사민주의 총리 토르발 스타우닝의 지도 아래 독일의 경제적인 번영을 누려왔습니다. 국내적으로는 미래가 밝지만, 국외적으로는 구름이 드리우고 있습니다. 어떤 사람들은 덴마크가 잘못된 사간에 잘못된 장소에 있게 될 것이라고 우려하고 있습니다."
 
-### Honduras ###
-HON_KR_GATHERING_STORM_DESC:0 "The suicide of President Andino in 1933 following the peasant charge of the capital created a shock wave throughout Honduras, soon after a peasant republic was established with the goal of gradually rooting out US influence and purging Pro US elements. In 1936 the Council is on the brink of collapse and there are rumours of a conspiracy within the government..."
+### Finland ###
+FIN_KR_GATHERING_STORM_DESC:0 "유럽의 북쪽 변방에는 북유럽 지역에서 독일 영향권의 보루인 핀란드가 당당히 서 있습니다. 러시아 제국의 시체에서 탄생하여 사회주의가 나라를 어지럽히면서, 핀란드는 사회주의와 러시아의 제국주의적인 손아귀에 맞서, 독일의 충직한 동맹국으로 변모했습니다. 하지만 근20년간 군주와 국민연합의 지도 아래 독립한 후, 불안은 점점 더 커져가고 있습니다. 핀란드는 진정으로 자유로운 것일까요 아니면 차르보다 독일의 지배가 조금 더 교묘한 것일까요?"
 
-### Mexico ###
-MEX_KR_GATHERING_STORM_DESC:0 "Mexico has come out through the Mexican Revolution changed. During the 1920s the presidencies of Álvaro Obregón and Adolfo de la Huerta would see improved relations with the United States of America while stabilizing the country from the revolution. The Great Depression in America has allowed Mexico to embrace the ideas of the Revolution which they have started when they elected Emaliano Zapata as President in 1932. Now with two years left in his term, and the revolution seemingly done, Zapata looks to plot the future course for Mexico."
+### Iceland ###
+ICE_KR_GATHERING_STORM_DESC:0 "1874년에 만들어진 아이슬란드는 덴마크가 식민지 본국 통치를 허가하면서 처음으로 독립의 맛을 느끼게 되었습니다. 세계대전 이후 총성이 잠잠해지자, 아이슬란드는 섬에 번영의 시기를 가져다준 미텔오이로파 경제블록에 가입했습니다. 하지만 이러한 경제번영은 영원히 지속되지는 않을 것입니다. 1925년 영국의 혁명은 세계대전 이후 아이슬란드의 기적 같은 경험을 깨뜨렸습니다. 지난 10년간 아이슬란드는 영국으로 인한 손실로부터 경기가 완전히 회복되지 않아서 허우적거리고 있습니다. 현재 많은 정치인들은 이 섬에 활력을 주기 위한 다양한 계획들을 가지고 있습니다."
 
-### Nicaragua ###
-NIC_KR_GATHERING_STORM_DESC:0 "The occupation of Nicaragua by the United States Marines in 1926 ended in disaster as the liberal revolutionary general expelled them and set up his new 'Revolutionary Republic' within Nicaragua. It soon drifted towards a socialist attitude and underwent not insignificant development but it is not without its troubles. The expelling of large amounts of American companies has left a hole in the economy and the entire eastern side of the country is unofficially demilitarized after a stern warning of entering the region from the Americans. With the elections soon will Nicaragua's fate finally be changed?"
+### Norway ###
+NOR_KR_GATHERING_STORM_DESC:0 "노르웨이의 경우, 지난 20년이 더 나았을겁니다. 영국의 전쟁 노고에 지지하는 중립국으로서, 독일의 패권세력은 백야의 땅을 내켜하지않았고, 스웨덴과 덴마크는 미텔오이로파 계획에 포함되었지만, 노르웨이는 제외되었습니다. 영국이 망치와 횃불에 잠식되면서, 노르웨이에 무거운 관세를 매기지 않던 마지막 교역국이 대양 밖으로 떠나게 되었습니다. 노르웨이는 외교적, 경제적 고립에서 헤어나오지 못 했으며, 생디칼리즘 성향의 노동당이 선거에서 상승세로 점점 더 부상하고 있습니다."
 
-### Haiti (RIP for now) ###
-#HAI_KR_GATHERING_STORM_DESC:0 "With the withdrawal of American forces in 1932, Louis Borno, longtime puppet President of Haiti, clung onto power, with the United States still maintaining a degree of control over Haitian finances and foreign affairs.\nIn spite of the success of Borno's efforts to mitigate the Great Depression, opposition mounts towards his rule from all strata of society and calls for drastic reform of the education system threaten to totally upend the status-quo."
-
-### West Indies Federation (RIP for now) ###
-#CAF_KR_GATHERING_STORM_DESC:0 "The West Indies Federation was created as a result of the collapse of the British Empire in 1925 due to being unable to exert the influence to control the region directly. After the incorporation of the French colonies in 1927 the country has been home to not only a noticeable class divide, but a cultural and ideological one as well. The people and new generation have seen a noticeable drift towards socialist attitudes and preference towards the communards on the mainland. All it could take is one wrong step before chaos erupts on the Indies..."
+### Sweden ###
+SWE_KR_GATHERING_STORM_DESC:0 "지난 10년 동안 스웨덴은 1920년대 후반과 1930년대 초 미텔오이로파의 경제성장 결실을 등에 엎은 아비드 린드만 총리의 번영한 지도체제 아래 보수의 보루로서 스웨덴을 발전시켜나갔습니다. 하지만 1934년 아비드 린드만은 총리직에서 물러나고, 카리스마가 없는 예스타 바게가 그 자리를 이어받은 반면, 사민계열 야당들은 인기있는 당수인 페르 알빈 한손을 중심으로 결집하고 있습니다. 올해는 바게가 자리를 물려받은 이후 처음으로 실시되는 총선이 열립니다. 과연 바게는 지위를 유지할 수 있을까요? 만약 그렇지 않다면, 스웨덴의 민주주의는 이 갑작스러운 역전을 버텨낼 수 있을까요?"
 
 ### History ###
-OTHER_KR_GATHERING_STORM_DESC:0 "세계의 크고 작은 국가들은 세계에서 주요한 역할로 등장할 기회를 기다리고 있습니다. 자신의 제국을 유지하려는 주요 국가들부터 세계 대전에서 잃은 자신의 것들을 되찾으려는 많은 국가들까지, 모든 국가들은 어려운 결정들을 내려야만 할 것이고 현실과 이상 사이의 균형을 잘 맞춰 세계의 미래에 영향을 미쳐야 할 것 입니다..."
+OTHER_KR_GATHERING_STORM_DESC:0 "세계의 크고 작은 국가들은 세계에서 주요한 역할로 등장할 기회를 기다리고 있습니다. 자신의 제국을 유지하려는 주요 국가들부터 세계대전에서 잃은 자신의 것들을 되찾으려는 많은 국가들까지, 모든 국가들은 어려운 결정들을 내려야만 할 것이고 현실과 이상 사이의 균형을 잘 맞춰 세계의 미래에 영향을 미쳐야 할 것 입니다..."
 
 ### Skill Level ###
 unskilled:0 "" #(unskilled)
@@ -175,11 +198,11 @@ expert:0 "" #(expert)
 blank:0 "" #\n
 
 ### Ministers ###
-head_of_government:0 "정부 수반"
-foreign_minister:0 "외교 장관"
-economy_minister:0 "경제 장관"
-security_minister:0 "내무부 장관"
-head_of_intel:0 "정보부 장관"
+head_of_government:0 "정부수반"
+foreign_minister:0 "외무장관"
+economy_minister:0 "경제장관"
+security_minister:0 "내무장관"
+head_of_intel:0 "정보총수"
 
 ### Ideologies ###
 totalist:0 "전체주의"
@@ -190,7 +213,7 @@ market_liberal:0 "시장자유주의"
 social_conservative:0 "사회보수주의"
 authoritarian_democrat:0 "권위민주주의"
 paternal_autocrat:0 "세습전제주의"
-national_populist:0 "민족대중주의"
+national_populist:0 "국민대중주의"
 social_liberal:0 "사회자유주의"
 
 ### Drift ###
@@ -202,19 +225,19 @@ market_liberal_drift:0 "매일 시장자유주의 지원"
 social_conservative_drift:0 "매일 사회보수주의 지원"
 authoritarian_democrat_drift:0 "매일 권위민주주의 지원"
 paternal_autocrat_drift:0 "매일 세습전제주의 지원"
-national_populist_drift:0 "매일 민족대중주의 지원"
+national_populist_drift:0 "매일 국민대중주의 지원"
 social_liberal_drift:0 "매일 사회자유주의 지원"
 
 ### Banned ###
 totalist_banned:0 "전체주의 금지됨"
 syndicalist_banned:0 "생디칼리즘 금지됨"
-radical_socialist_banned:0 "급잔사회주의 금지됨"
+radical_socialist_banned:0 "급진사회주의 금지됨"
 social_democrat_banned:0 "사회민주주의 금지됨"
 market_liberal_banned:0 "시장자유주의 금지됨"
 social_conservative_banned:0 "사회보수주의 금지됨"
 authoritarian_democrat_banned:0 "권위민주주의 금지됨"
 paternal_autocrat_banned:0 "세습전제주의 금지됨"
-national_populist_banned:0 "민족대중주의 금지됨"
+national_populist_banned:0 "국민대중주의 금지됨"
 social_liberal_banned:0 "사회자유주의 금지됨"
 
 ### Company Traits ###
@@ -653,7 +676,7 @@ generic_equipment_effort:0 "장비 현대화"
 generic_equipment_effort_desc:0 "오랫동안, 군사적인 돌파구는 느렸고, 훌륭한 볼트 액션 소총을 소지하는 것으로 충분했습니다. 하지만, 19세기의 소총들은 세계대전 이후의 전쟁터에서는 전혀 어울리지 않습니다. 우리는 현실에 안주하는 것을 중단하고 새로운 장비를 갖춰야 합니다."
 generic_motorization_effort:0 "육군 자동화"
 generic_motorization_effort_desc:0 "세계대전에 대한 기병 돌격은 아마도 마지막일 것입니다. 트럭은 더 이상 단순한 운송 도구가 아니며 기동적인 전쟁 전술에 빠르게 통합됩니다. 우리는 낡은 사고를 버리고, 우리의 공격과 증원 속도를 높이기 위해 동력을 이용해야 합니다."
-generic_doctrine_effort:0 "1차대전 연구"
+generic_doctrine_effort:0 "세계대전 연구"
 generic_doctrine_effort_desc:0 "우리는 세계대전에 대해 알고 있습니다, 하지만 우리는 그것으로부터 무엇을 배웠습니까? 불과 5년간의 분쟁에서, 수많은 군인들이 우리에게 전쟁의 새로운 역학을 가르치기 위해 죽었습니다. 만약 우리가 그들에 대해 배우지 않는다면, 우리의 군인들은 전쟁터에서 같은 운명을 만날 것입니다."
 generic_equipment_effort_2:0 "장비 연구"
 generic_equipment_effort_2_desc:0 "우리는 현대 장비를 따라잡았을지 모르지만, 새로운 디자인은 이미 가지고 있는 우리의 것을 쓸모 없게 만들고 있습니다. 그럼에도 불구하고, 우리는 인내심을 갖고, 장비에서 단 1년도 뒤처지지 않도록 해야 합니다. 이것은 우리가 우리만의 디자인을 개발해야 한다는 것을 의미합니다."
@@ -669,7 +692,7 @@ generic_special_forces:0 "특수 부대"
 generic_special_forces_desc:0 "특수 부대는 과거의 정예 부대 이상입니다. 현대식 장비로, 징집병조차도 전쟁터에서 자신을 붙들 수 있습니다. 하지만, 어떤 상황은 너무 적대적이어서 그들은 특별한 훈련을 받은 사람들이 필요합니다. 산악병, 해병대, 공수부대"
 
 generic_aviation_effort:0 "공군"
-generic_aviation_effort_tt:0 "§Y공군 기지§를 지을 공간이 부족함!"
+generic_aviation_effort_tt:0 "§Y공군 기지§!를 지을 공간이 부족함!"
 generic_aviation_effort_desc:0 "항공분야는 거의 세계대전에 맞추어 탄생되었습니다. 심지어 이 전쟁이 끝난 지 20년이 지났는데도, 그것은 여전히 새로운 것이고, 모든 국가들은 다음 번에 그들의 비행기가 전쟁에 불려질 수 있는 준비를 하려고 노력합니다. 우리도 그래야만 하며, 우리는 튼튼한 공군을 찾아서 조직해야 합니다."
 generic_fighter_focus:0 "제공권 우세"
 generic_fighter_focus_desc:0 "세계대전의 도그파이트는 단지 공중전의 시작에 불과했습니다. 비행기가 더 빨라지고, 더 많은 장갑을 갖추고, 더 많은 무기를 갖추게 되면서, 우리는 하늘을 통제하기 위해 모든 노력을 기울여야 합니다. 그런 다음, 지상을 공습하는 것은 형식적인 행위입니다."
@@ -685,7 +708,7 @@ generic_NAV_effort:0 "해군항공대"
 generic_NAV_effort_desc:0 "아마도 해군 전투의 주요한 돌파구 중 하나인 해군 폭격기는 어뢰와 같은 해군 전용 폭장으로 적 함대에 손실을 가할 수 있습니다. 우리의 함대를 지원함으로써, 그들은 주력함에 도전하고 해군 대열에 대혼란을 야기할 수 있습니다."
 
 generic_naval_effort:0 "현대 조선소"
-generic_naval_effort_tt:0 "§Y해군 조선소§를 지을 공간이 부족함!"
+generic_naval_effort_tt:0 "§Y해군 조선소§!를 지을 공간이 부족함!"
 generic_naval_effort_desc:0 "우리가 강력한 해군을 구축하려면 먼저 해군을 생산해야 합니다. 조선술의 방법은 발전해 왔으며, 오래된 건선거는 새로운 조선소가 만들어지는 만큼 새로 업그레이드되야 합니다. 현대의 배는 톱니바퀴가 없으며, 우리는 바다에 견줄만한 함대를 가지려면 커다란 모습을 보아야 합니다."
 generic_flexible_navy:0 "유동적 전술"
 generic_flexible_navy_desc:0 "우리는 세계 강대국들의 해군을 가지고 있지 않으며, 적국의 바다를 청소할 수는 있지만, 이것은 우리 함대가 항구에 숨는 것을 의미하지는 않습니다. 유연한 전술과 잠수함과 같은 현대적인 발명품을 이용하여, 우리는 실제로 대혼란을 막기 위해 그 거대한 함대와 맞설 필요가 없습니다."
@@ -694,7 +717,7 @@ generic_large_navy_desc:0 "우리 해군은 이 세상의 더 큰 해군에 대�
 generic_submarine_effort:0 "잠수함전"
 generic_submarine_effort_desc:0 "잠수함전은 어뢰정 발명 이후 가장 흥미진진한 해군 개발이며, 가장 고전적인 해군 전쟁 교리에 도전합니다. 우리는 잠수함을 방어할 뿐만 아니라 적함에 사용하는 것이 좋습니다."
 generic_cruiser_effort:0 "전위함"
-generic_cruiser_effort_desc:0 "순양함들은 그저 '저렴한 전투함'만은 아니며, 그런 낡은 사고는 이 선박들의 잠재력을 망칩니다. 우리는 그것들을 우리의 주력함들에 대한 호위로서 사용해야 합니다. 왜냐하면 그들은 해군 폭격기와 어뢰정 같은 작은 배들에 매우 취약하기 때문입니다."
+generic_cruiser_effort_desc:0 "순양함들은 그저 '저렴한 전함'만은 아니며, 그런 낡은 사고는 이 선박들의 잠재력을 망칩니다. 우리는 그것들을 우리의 주력함들에 대한 호위로서 사용해야 합니다. 왜냐하면 그들은 해군 폭격기와 어뢰정 같은 작은 배들에 매우 취약하기 때문입니다."
 generic_destroyer_effort:0 "대잠전"
 generic_destroyer_effort_desc:0 "잠수함의 설계와 전략적 사용을 연구함으로써 우리는 또한 잠수함에 대응하는 법을 배웠습니다. 우리의 구축함들은 그들이 수송선을 효과적으로 호위하고 순찰할 수 있도록 하기 위해 가볍고 작은 전문화된 장비들이 필요할 것입니다."
 generic_capital_ships_effort:0 "주력함"
@@ -703,10 +726,10 @@ generic_capital_ships_effort_desc:0 "결국, 함대는 주력함이 없으면 �
 generic_industrial_effort:0 "산업 수단"
 generic_industrial_effort_desc:0 "대규모 산업기지를 건설하기 위해서는 현대 산업의 기본을 확립해야 하며 어쩌면 초기 선택을 해야 할지도 모릅니다. 집중되거나 분산되어 있는 산업 중심지, 공작 도구와 건설 도구에 투자해야 합니다. 이 모든 것들은 집중해야 할 중요한 것들입니다."
 generic_construction_effort:0 "산업 보조금"
-generic_construction_effort_tt:0 "§Y민간공장§을 지을 공간이 부족함!"
+generic_construction_effort_tt:0 "§Y민간공장§!을 지을 공간이 부족함!"
 generic_construction_effort_desc:0 "건강하고 강력한 산업은 어디에서도 보이지 않습니다. 우리는 나중에 더 야심찬 계획을 시작해야 할 수도 있지만, 우리는 훌륭한 경영 기술을 가진 사람들이 나중에 거인으로 성장하여 건강하고 성공적인 회사를 시작할 수 있도록 보장하는 것에서부터 시작해야 합니다."
 generic_production_effort:0 "국가 병기창"
-generic_production_effort_tt:0 "§Y군수공장§을 지을 공간이 부족함!"
+generic_production_effort_tt:0 "§Y군수공장§!을 지을 공간이 부족함!"
 generic_production_effort_desc:0 "우리가 우리 자신의 군사 장비를 생산할 수 있을 때까지, 우리는 우리 군대를 위한 현대 무기들을 만들어야 합니다. 그들의 목표는 우리 군대가 필요한 장비를 조달하는 것인데, 국가 자금, 민간 생산 및 간단한 생산으로 조달하는 것이지만, 새로운 소총을 받지 않는 것보다는 낫습니다."
 generic_construction_effort_2:0 "산업 센터"
 generic_construction_effort_2_desc:0 "기업가 정신은 한 가지이지만, 지역적인 힘을 가질 만한 경제를 갖기 위해서는 산업 혁명을 일으킬 거대한 산업 지역을 육성해야 할 것입니다. 그러한 지역의 씨앗은 유망한 산업현장에 대한 대규모 투자입니다."
@@ -716,8 +739,8 @@ generic_production_effort_3:0 "군수 산업"
 generic_production_effort_3_desc:0 "생산량이 여전히 제한되어 있음에도 불구하고, 우리는 마침내 회사들이 우리가 필요로 하는 장비를 만들 수 있는 지점에 도달했습니다. 그러나 우리의 요구는 여전히 크며, 그들에게 외국 회사들에 대한 절대적인 지원을 줌으로써 그들은 우리의 필요에 따라 천천히 확장될 것입니다."
 generic_infrastructure_effort:0 "국가 기반시설"
 generic_infrastructure_effort_desc:0 "우리의 성장하는 산업은 상품의 운송을 보장하기 위해 탄탄한 기반시설을 필요로 합니다. 우리는 혼란스러운 도시 계획을 없애고 우리나라의 도로를 그릴 필요가 있습니다. 이미 존재하는 도로들, 확장되거나 연결되는 도로들, 그리고 아직 없는 도로들."
-generic_infrastructure_effort_tt:0 "§Y기반시설§을 지을 공간이 부족함!"
-generic_synth_oil_effort_tt:0 "§Y합성 정제소§를 지을 공간이 부족함!"
+generic_infrastructure_effort_tt:0 "§Y기반시설§!을 지을 공간이 부족함!"
+generic_synth_oil_effort_tt:0 "§Y합성 정제소§!를 지을 공간이 부족함!"
 generic_infrastructure_effort_2:0 "철도망"
 generic_infrastructure_effort_2_desc:0 "현대 국가들은 국가의 한 지점에서 다른 지점으로 어떤 것을 빠르고 효율적으로 가져올 수 있는 철도 중심지를 필요로 합니다. 이것은 우리가 철도를 확장하고 몇 년 전만 해도 우리에게 없었던 교차점을 만들어야 한다는 것을 의미합니다."
 generic_construction_effort_3:0 "산업망"

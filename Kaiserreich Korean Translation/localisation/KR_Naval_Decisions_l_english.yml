@@ -1,7 +1,10 @@
 l_english:
 
 naval_decisions:0 "해군 결정"
-naval_decisions_desc:0 "과거의 우리는 해군에 더 투자할 능력이 부족했거나 해양강국과 경쟁할 기반시설이 부족했기 때문에, 이 분야에 대한 우리의 기술 대부분이 시대에 뒤떨어져 있고 전 세계의 놀림거리가 되고 있습니다. 그러나 이 분야에서 시대에 발맞추기 위한 노력이 증가고 있으며 현재 우리의 £mapicon_port_strike_result_text §YInfrastructure§! 및 £navy_experience §YNaval Research§! 기술이 개발 중에 있습니다."
+naval_decisions_desc:0 "과거의 우리는 해군에 더 투자할 능력이 부족했거나 해양강국과 경쟁할 기반시설이 부족했기 때문에, 이 분야에 대한 우리의 기술 대부분이 시대에 뒤떨어져 있고 전 세계의 놀림거리가 되고 있습니다. 그러나 이 분야에서 시대에 발맞추기 위한 노력이 증가고 있으며 현재 우리의 £mapicon_port_strike_result_text §Y기반시설§! 및 £navy_experience §Y해군 연구§! 기술이 개발 중에 있습니다."
+
+naval_decisions_nonmtg:0 "해군 결정"
+naval_decisions_nonmtg_desc:0 "과거의 우리는 해군에 더 투자할 능력이 부족했거나 해양강국과 경쟁할 기반시설이 부족했기 때문에, 이 분야에 대한 우리의 기술 대부분이 시대에 뒤떨어져 있고 전 세계의 놀림거리가 되고 있습니다. 그러나 이 분야에서 시대에 발맞추기 위한 노력이 증가고 있으며 현재 우리의 £mapicon_port_strike_result_text §Y기반시설§! 및 £navy_experience §Y해군 연구§! 기술이 개발 중에 있습니다."
 
 ### Costs ###
 NAV_CP_15_PP_15:0 "£pol_power §Y15§! £command_power §Y15§!"
@@ -16,6 +19,8 @@ NAV_CP_40_PP_30:0 "£pol_power §Y30§! £command_power §Y40§!"
 NAV_CP_40_PP_30_blocked:0 "£pol_power §R30§! £command_power §R40§!"
 NAV_CP_50_PP_40:0 "£pol_power §Y40§! £command_power §Y50§!"
 NAV_CP_50_PP_40_blocked:0 "£pol_power §R40§! £command_power §R50§!"
+NAV_CP_25_PP_25:0 "£pol_power §Y25§! £command_power §Y25§!"
+NAV_CP_25_PP_25_blocked:0 "£pol_power §R25§! £command_power §R25§!"
 
 NAV_AE_15_AIR_AE_15_PP_15:0 "£pol_power §R15§! £navy_experience §Y15§! £air_experience §Y15§!"
 NAV_AE_15_AIR_AE_15_PP_15_blocked:0 "£pol_power §R15§! £navy_experience §R15§! £air_experience §R15§!"
@@ -31,46 +36,129 @@ NAV_AE_25_PP_15_blocked:0 "£pol_power §R15§! £navy_experience §R25§!"
 NAV_AE_35_PP_15:0 "£pol_power §Y15§! £navy_experience §Y35§!"
 NAV_AE_35_PP_15_blocked:0 "£pol_power §R15§! £navy_experience §R35§!"
 
-### Catch Up Decisions ###
+NAV_AE_5:0 "£navy_experience §Y5§!"
+NAV_AE_5_blocked:0 "£navy_experience §R5§!"
+NAV_AE_10:0 "£navy_experience §Y10§!"
+NAV_AE_10_blocked:0 "£navy_experience §R10§!"
+NAV_AE_15:0 "£navy_experience §Y15§!"
+NAV_AE_15_blocked:0 "£navy_experience §R15§!"
+NAV_AE_20:0 "£navy_experience §Y20§!"
+NAV_AE_20_blocked:0 "£navy_experience §R20§!"
+NAV_AE_25:0 "£navy_experience §Y25§!"
+NAV_AE_25_blocked:0 "£navy_experience §R25§!"
+NAV_AE_30:0 "£navy_experience §Y30§!"
+NAV_AE_30_blocked:0 "£navy_experience §R30§!"
+
+### Catch Up Decisions MTG ###
 Naval_catchup_destroyers:0 "구축함 기술개발"
 Naval_catchup_destroyers_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
-naval_catchup_destroyer_techs:0 "다음 기술을 추가합니다: £destroyer_texticon §YDestroyer I,£destroyer_texticon Destroyer II,£destroyer_texticon Destroyer III§!"
+naval_catchup_destroyer_techs:0 "다음 기술을 추가합니다: £destroyer_texticon §Y세계대전 구축함,£destroyer_texticon 전간기 구축함, 세계대전 IPHE 군수품§!"
 
 Naval_catchup_light_cruisers:0 "순양함 기술개발"
 Naval_catchup_light_cruisers_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
-naval_catchup_light_cruiser_techs:0 "다음 기술을 추가합니다: £light_cruiser_texticon §YLight Cruiser I,£light_cruiser_texticon Light Cruiser II,£light_cruiser_texticon Light Cruiser III,£light_cruiser_texticon Light Cruiser IV§!"
+naval_catchup_light_cruiser_techs:0 "다음 기술을 추가합니다: £light_cruiser_texticon §Y세계대전 순양함,£light_cruiser_texticon 전간기 순양함, 세계대전 IPHE 군수품§!"
 
 Naval_catchup_heavy_cruisers:0 "장갑순양함 기술개발"
 Naval_catchup_heavy_cruisers_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
-naval_catchup_heavy_cruiser_techs:0 "다음 기술을 추가합니다: £heavy_cruiser_texticon §YArmoured Cruiser I,£heavy_cruiser_texticon Armoured Cruiser II§!"
+naval_catchup_heavy_cruiser_techs:0 "다음 기술을 추가합니다: £heavy_cruiser_texticon §Y세계대전 장갑순양함, £heavy_cruiser_texticon 전간기 장갑순양함§!"
 
-Naval_catchup_battleships:0 "전함 기술개발"
+Naval_catchup_battleships:0 "고속전함 기술개발"
 Naval_catchup_battleships_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
-naval_catchup_battleships_techs:0 "다음 기술을 추가합니다: £battleship_texticon §YBattleship I,£battleship_texticon Battleship II,£battleship_texticon Battleship III,£battleship_texticon Battleship IV§!"
+naval_catchup_battleships_techs:0 "다음 기술을 추가합니다: £battleship_texticon §Y세계대전 순양전함,£battleship_texticon 전간기 고속전함,£battleship_texticon 개선된 전함, 세계대전 중함포§!"
 
 Naval_catchup_dreadnoughts:0 "드레드노트 기술개발"
 Naval_catchup_dreadnoughts_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
-naval_catchup_dreadnought_techs:0 "다음 기술을 추가합니다: £SH_battleship_texticon §YDreadnought I,£SH_battleship_texticon Dreadnought II,£SH_battleship_texticon Dreadnought III,£SH_battleship_texticon Dreadnought IV,£SH_battleship_texticon Dreadnought V,£SH_battleship_texticon Dreadnought VI§!"
+naval_catchup_dreadnought_techs:0 "다음 기술을 추가합니다: £SH_battleship_texticon §Y세계대전 드레드노트,£SH_battleship_texticon 전간기 드레드노트,£SH_battleship_texticon 개선된 드레드노트, 세계대전 초중함포§!"
 
 Naval_catchup_submarines:0 "잠수함 기술개발"
 Naval_catchup_submarines_desc:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
-naval_catchup_submarine_techs:0 "다음 기술을 추가합니다: £submarine_texticon §YSubmarine I,£submarine_texticon Submarine II,£submarine_texticon Submarine III,£submarine_texticon Submarine IV§!"
+naval_catchup_submarine_techs:0 "다음 기술을 추가합니다: £submarine_texticon §Y세계대전 잠수함,£submarine_texticon 전간기 잠수함, 증기추진 어뢰§!"
 
-### Naval Infrastructure Decisions ###
-nav_infra_one_dec:0 "해군 기반시설"
-nav_infra_one_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £heavy_cruiser_texticon §YArmoured Cruiser§!"
+### Catch Up Decisions NONMTG ###
+Naval_catchup_destroyers_nonmtg:0 "구축함 기술개발"
+Naval_catchup_destroyers_desc_nonmtg:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_destroyer_techs_nonmtg:0 "다음 기술을 추가합니다: £destroyer_texticon §Y세계대전 구축함,£destroyer_texticon 전간기 구축함, 세계대전 IPHE 군수품§!"
 
-nav_infra_two_dec:0 "발전된 해군 기반시설"
-nav_infra_two_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £battleship_texticon §YBattle Cruiser§!, £SH_battleship_texticon §YDreadnought§!"
+Naval_catchup_light_cruisers_nonmtg:0 "순양함 기술개발"
+Naval_catchup_light_cruisers_desc_nonmtg:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_light_cruiser_techs_nonmtg:0 "다음 기술을 추가합니다: £light_cruiser_texticon §Y세계대전 순양함,£light_cruiser_texticon 전간기 순양함, 세계대전 IPHE 군수품§!"
 
-nav_infra_three_dec:0 "진보한 해군 기반시설"
-nav_infra_three_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £battleship_texticon §YBattleship§!, £SH_battleship_texticon §YDreadnought§!, £heavy_carrier_texticon §YHeavy Carrier§!"
+Naval_catchup_heavy_cruisers_nonmtg:0 "장갑순양함 기술개발"
+Naval_catchup_heavy_cruisers_desc_nonmtg:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_heavy_cruiser_techs_nonmtg:0 "다음 기술을 추가합니다: £heavy_cruiser_texticon §Y세계대전 장갑순양함, £heavy_cruiser_texticon 전간기 장갑순양함§!"
 
-nav_av_one_dec:0 "실험적인 해군 항공대"
-nav_av_one_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £carrier_texticon §YCarrier I§!"
+Naval_catchup_battleships_nonmtg:0 "전함 기술개발"
+Naval_catchup_battleships_desc_nonmtg:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_battleships_techs_nonmtg:0 "다음 기술을 추가합니다: £battleship_texticon §Y세계대전 순양전함,£battleship_texticon 전간기 고속전함,£battleship_texticon 개선된 전함, 세계대전 중함포§!"
 
-nav_av_two_dec:0 "기초적인 해군 항공대"
-nav_av_two_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £carrier_texticon §YCarrier II§!"
+Naval_catchup_dreadnoughts_nonmtg:0 "드레드노트 기술개발"
+Naval_catchup_dreadnoughts_desc_nonmtg:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_dreadnought_techs_nonmtg:0 "다음 기술을 추가합니다: £SH_battleship_texticon §Y세계대전 드레드노트,£SH_battleship_texticon 전간기 드레드노트,£SH_battleship_texticon 개선된 드레드노트, 세계대전 초중함포§!"
 
-nav_av_three_dec:0 "진보한 해군 항공대"
-nav_av_three_dec_desc:0 "시대에 뒤떨어진 건조물들을 추가합니다: £heavy_carrier_texticon §YHeavy Carrier I§!, £heavy_carrier_texticon §YHeavy Carrier II§!, £carrier_texticon §YCarrier III§!"
+Naval_catchup_submarines_nonmtg:0 "잠수함 기술개발"
+Naval_catchup_submarines_desc_nonmtg:0 "슬프게도 현재의 우리 해군 기술은 시대에 뒤떨어져 있지만, 우리는 기술을 빠르게 발전시킬 수 있는 충분한 해군 생산력을 확보했습니다."
+naval_catchup_submarine_techs_nonmtg:0 "다음 기술을 추가합니다: £submarine_texticon §Y세계대전 잠수함,£submarine_texticon 전간기 잠수함, 증기추진 어뢰§!"
+
+### Reverse Engineering ###
+Naval_submarines_reverse_engineer_wk:0 "£submarine_texticon §Y세계대전 잠수함§! 역설계"
+Naval_submarines_reverse_engineer_wk_desc:0 "£submarine_texticon §Y세계대전 잠수함§! 계획 접수"
+
+Naval_submarines_reverse_engineer_iw:0 "£submarine_texticon §Y전간기 잠수함§! 역설계"
+Naval_submarines_reverse_engineer_iw_desc:0 "£submarine_texticon §Y전간기 잠수함§! 계획 접수"
+
+Naval_submarines_reverse_engineer_imp:0 "£submarine_texticon §Y개선된 잠수함§! 역설계"
+Naval_submarines_reverse_engineer_imp_desc:0 "£submarine_texticon §Y개선된 잠수함§! 계획 접수"
+
+Naval_destroyers_reverse_engineer_wk:0 "£destroyer_texticon §Y세계대전 구축함§! 역설계"
+Naval_destroyers_reverse_engineer_wk_desc:0 "£destroyer_texticon §Y세계대전 구축함§! 계획 접수"
+
+Naval_destroyers_reverse_engineer_iw:0 "£destroyer_texticon §Y전간기 구축함§! 역설계"
+Naval_destroyers_reverse_engineer_iw_desc:0 "£destroyer_texticon §Y전간기 구축함§! 계획 접수"
+
+Naval_destroyers_reverse_engineer_imp:0 "£destroyer_texticon §Y개선된 구축함§! 역설계"
+Naval_destroyers_reverse_engineer_imp_desc:0 "£destroyer_texticon §Y개선된 구축함§! 계획 접수"
+
+Naval_cruiser_reverse_engineer_wk:0 "£light_cruiser_texticon  §Y세계대전 순양함§! 역설계"
+Naval_cruiser_reverse_engineer_wk_desc:0 "£light_cruiser_texticon  §Y세계대전 순양함§! 계획 접수"
+
+Naval_cruiser_reverse_engineer_iw:0 "£light_cruiser_texticon  §Y전간기 순양함§! 역설계"
+Naval_cruiser_reverse_engineer_iw_desc:0 "£light_cruiser_texticon  §Y전간기 순양함§! 계획 접수"
+
+Naval_cruiser_reverse_engineer_imp:0 "£light_cruiser_texticon  §Y개선된 순양함§! 역설계"
+Naval_cruiser_reverse_engineer_imp_desc:0 "£light_cruiser_texticon  §Y개선된 순양함§! 계획 접수"
+
+Naval_Carrier_reverse_engineer_wk:0 "£carrier_texticon  §Y세계대전 항공모함§! 역설계"
+Naval_Carrier_reverse_engineer_wk_desc:0 "£carrier_texticon  §Y세계대전 항공모함§! 계획 접수"
+
+Naval_Carrier_reverse_engineer_iw:0 "£carrier_texticon  §Y전간기 항공모함§! 역설계"
+Naval_Carrier_reverse_engineer_iw_desc:0 "£carrier_texticon  §Y전간기 항공모함§! 계획 접수"
+
+Naval_Panzerschiff_reverse_engineer_wk:0 "£heavy_cruiser_texticon  §Y세계대전 장갑함§! 역설계"
+Naval_Panzerschiff_reverse_engineer_wk_desc:0 "£heavy_cruiser_texticon  §Y세계대전 장갑함§! 계획 접수"
+
+Naval_Panzerschiff_reverse_engineer_iw:0 "£heavy_cruiser_texticon  §Y전간기 장갑함§! 역설계"
+Naval_Panzerschiff_reverse_engineer_iw_desc:0 "£heavy_cruiser_texticon  §Y전간기 장갑함§! 계획 접수"
+
+Naval_Panzerschiff_reverse_engineer_imp:0 "£heavy_cruiser_texticon  §Y개선된 장갑함§! 역설계"
+Naval_Panzerschiff_reverse_engineer_imp_desc:0 "£heavy_cruiser_texticon  §Y개선된 장갑함§! 계획 접수"
+
+Naval_Fast_Battleships_reverse_engineer_wk:0 "£battleship_texticon  §Y세계대전 고속전함§! 역설계"
+Naval_Fast_Battleships_reverse_engineer_wk_desc:0 "£battleship_texticon  §Y세계대전 고속전함§! 계획 접수"
+
+Naval_Fast_Battleships_reverse_engineer_iw:0 "£battleship_texticon  §Y전간기 고속전함§! 역설계"
+Naval_Fast_Battleships_reverse_engineer_iw_desc:0 "£battleship_texticon  §Y전간기 고속전함§! 계획 접수"
+
+Naval_Fast_Battleships_reverse_engineer_imp:0 "£battleship_texticon  §Y개선된 고속전함§! 역설계"
+Naval_Fast_Battleships_reverse_engineer_imp_desc:0 "£battleship_texticon  §Y개선된 고속전함§! 계획 접수"
+
+Naval_dreadnought_reverse_engineer_wk:0 "£SH_battleship_texticon  §Y세계대전 드레드노트§! 역설계"
+Naval_dreadnought_reverse_engineer_wk_desc:0 "£SH_battleship_texticon  §Y세계대전 드레드노트§! 계획 접수"
+
+Naval_dreadnought_reverse_engineer_iw:0 "£SH_battleship_texticon  §Y전간기 드레드노트§! 역설계"
+Naval_dreadnought_reverse_engineer_iw_desc:0 "£SH_battleship_texticon  §Y전간기 드레드노트§! 계획 접수"
+
+Naval_dreadnought_reverse_engineer_imp:0 "£SH_battleship_texticon  §Y개선된 드레드노트§! 역설계"
+Naval_dreadnought_reverse_engineer_imp_desc:0 "£SH_battleship_texticon  §Y개선된 드레드노트§! 계획 접수"
+
+Naval_Heavy_carrier_reverse_engineer_iw:0 "£heavy_carrier_texticon  §Y전간기 중항공모함§! 역설계"
+Naval_Heavy_carrier_reverse_engineer_iw_desc:0 "£heavy_carrier_texticon  §Y전간기 중항공모함§! 계획 접수"

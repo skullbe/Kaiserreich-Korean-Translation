@@ -1,9 +1,9 @@
 l_english:
 
 ### WIP ### (Isn't this whole file WIP...)
-brotherhood_of_slavs:0 "슬라브 형제단"
+brotherhood_of_slavs:0 "슬라브 민족 연합"
 austrian_sphere:0 "도나우-아드리아 연맹"
-austrian_sphere_sued:0 "남동유럽"
+austrian_sphere_sued:0 "쥐트오스트오이로파"
 
 BOM_ausgleich_slovak_state:0 "슬로바키아 국가를 약속"
 ILL_ausgleich_backan_claims:0 "바치카를 위한 약속"
@@ -13,36 +13,37 @@ AUS_new_administration:0 "행정 개편"
 
 ### Flags and Tooltips ###
 AUS_economy_ready_tooltip:0 "우리는 경제의 선진화를 준비해야 합니다. \n\n 이는 당연히 현재 우리에게 닥친 경제 위기를 극복해야 한다는 것을 의미합니다."
-AUS_potb_albania_tooltip:0 "알바니아가 우리의 영향권에 인접해 있습니다."
-AUS_potb_greece_tooltip:0 "그리스가 우리의 영향권에 인접해 있습니다."
-AUS_potb_romanian_civil_war_tooltip:0 "루마니아 내전이 국경을 휩쓸고 있습니다."
-AUS_potb_romania_tooltip:0 "복원된 루마니아 왕국이 우리의 영향권에 인접해 있습니다."
-AUS_potb_bulgaria_tooltip:0 "불가리아는 우리의 영향권에 인접해 있습니다."
+AUS_potb_albania_tooltip:0 "알바니아가 우리 영향권에 인접해 있습니다."
+AUS_potb_greece_tooltip:0 "그리스가 우리 영향권에 인접해 있습니다."
+AUS_potb_romanian_civil_war_tooltip:0 "루마니아가 내전에 휩싸였습니다."
+AUS_potb_romania_tooltip:0 "복원된 루마니아 왕국이 우리 영향권에 인접해 있습니다."
+AUS_potb_bulgaria_tooltip:0 "불가리아가 우리 영향권에 인접해 있습니다."
+AUS_no_greek_economic_sanctions:0 "그리스에 경제 재제를 가하지 않았어야 합니다"
 
-AUS_a_new_Hungary:0 "헝가리는 개편되어 오스트리아 제국의 핵심 구성국 중 하나가 되었습니다."
+AUS_a_new_Hungary:0 "헝가리는 개편되어 오스트리아 제국의 다른 구성국들과 동등한 지위를 가지게 되었습니다"
 
 AUS_syndicalist_menace_tooltip:0 "전쟁의 불길은 다시 한번 타오르고 있으며, 이탈리아에서 우리의 이익은 인터내셔널에 의해 위협받는 중입니다."
 
-AUS_military_occupation_tooltip:0 "계속해서 헝가리 영토를 소유하게 될 것이지만, 모든 속국들이 이에 만족하지는 않을 것입니다. \n\n"
-AUS_danubian_federation_tooltip:0 "다뉴브-알프스-아드리아 연방"이 형성될 것입니다. \n\n"
+AUS_military_occupation_tooltip:0 "헝가리 영토를 계속 영유하게 될 것이지만, 모든 속국들이 이에 만족하지는 않을 것입니다. \n\n"
+AUS_danubian_federation_tooltip:0 "'도나우-알프스-아드리아 연방'이 형성될 것입니다. \n\n"
 AUS_united_states_tooltip:0 "'대 오스트리아 합중국'이 형성될 것입니다. \n\n"
-AUS_dualism_restored_tooltip:0 "헝가리는 통합될 것이고, 오스트리아-헝가리 제국이 다시 형성될 것입니다. \n\n"
+AUS_dualism_restored_tooltip:0 "헝가리는 통합될 것이고, 오스트리아-헝가리 제국이 재결성될 것입니다. \n\n"
 
 AUS_HUN_Civil_war:0 "§Y헝가리§W가 우리에게 대항해 내전을 시작합니다. \n\n"
-greater_austrian_empire:0 "대타협 기간 동안 오스트리아의 통치하에 이중 제국을 결속하기로 결정했고, 헝가리는 결국 굴복했습니다. \n\n OR \n\n오스트리아는 헝가리를 합병하고 중앙 집권 체제를 설립하기로 결정했습니다."
-AUS_racial_revolts_fired:0 "민족 분쟁이 확대되지 않았습니다."
-AUS_racial_tensions_solved:0 "민족 분쟁이 가라앉았습니다."
-AUS_racial_tensions_evolve:0 "§Y민족 분쟁§W이 우리의 전 국토에서 일어날 것입니다."
-AUS_horthy_apeared:0 "새로운 얼굴이 민족 분쟁에 나타났습니다 .§Y호르티 미클로시§W가 헝가리 해방 운동을 이끌 것입니다. \n\n"
+greater_austrian_empire:0 "대타협 기간 동안 오스트리아의 주도 하에 이중 제국을 재결속하기로 결정했고, 헝가리는 결국 굴복했습니다. \n\n OR \n\n오스트리아는 헝가리를 합병하고 중앙집권 체제를 건설하기로 결정했습니다."
+AUS_racial_revolts_fired:0 "민족 갈등이 확대되지 않았습니다."
+AUS_racial_tensions_solved:0 "민족 갈등이 가라앉았습니다."
+AUS_racial_tensions_evolve:0 "§Y민족 갈등§W이 우리의 전 국토에서 들끓을 것입니다."
+AUS_horthy_apeared:0 "새로운 얼굴이 민족 갈등에 나타났습니다 .§Y호르티 미클로시§W가 헝가리 해방 운동을 이끌 것입니다. \n\n"
 AUS_prowlers_apeared:0 "§YProwlers§W들이 트란실바니아 숲에 모이고 있습니다."
-AUS_tensions_calm_down:0 "§Y민족 분쟁§W이 진정되었으며 제국은 다시 안전합니다."
+AUS_tensions_calm_down:0 "§Y민족 갈등§W은 진정되었으며 제국은 다시 안전합니다."
 AUS_tensions_nothing:0 "아무 일도 일어나지 않을 것입니다."
 AUS_unlock_daimler:0 "§Y오스트로 다임러§W 회사의 잠금을 해제합니다. \n\n"
 AUS_unlock_skoda:0 "§Y스코다§W 회사의 잠금을 해제합니다. \n\n"
 AUS_italy_friend:0 "우리는 이탈리아와 우호 관계를 맺기로 결정했고 이탈리아는 이 제안을 받아들였습니다."
 AUS_italy_force:0 "이탈리아는 우리의 채권을 받아들이지 않았습니다."
-AUS_italy_bond:0 "오스트리아 - 이탈리아 우호"
-AUS_italy_rival:0 "오스트리아 - 이탈리아 경쟁"
+AUS_italy_bond:0 "오스트리아-이탈리아 우호"
+AUS_italy_rival:0 "오스트리아-이탈리아 경쟁"
 AUS_not_fully_implemented:0 "§R이 중점 방향은 아직 완전히 구현되지 않았습니다. 주의하십시오.§W \n\n"
 AUS_unlock_phoenix:0 "§Y푀닉스§W 항공기 제조사의 잠금을 해제합니다. \n\n"
 AUS_unlock_pintsch:0 "이론가로 §YPintsch§W의 잠금을 해제합니다. \n\n"
@@ -57,7 +58,7 @@ AUS_part_of_the_Empire:0 "오스트리아 제국 구성국"
 AUS_part_of_the_Empire_desc:0 "이 나라나 직할령은 적어도 명목상으로는 오스트리아-헝가리 제국의 구성원입니다."
 
 AUS_financial_ties_broken:0 "오스트리아-헝가리 관계 악화"
-AUS_financial_ties_broken_desc:0 "헝가리의 왕가는 공동 정부의 재정에 세금을 납부하는 것을 거부합니다. \n\n 그들은 1926 년 남부 슬라브인 반란의 중재안으로 인한 일리리아 왕국의 형성에 여전히 불만을 가지고 있으며 오스트리아 정부에 의해 배신당한 이들은 크로아티아의 토지 손실에 대한 보상을 원합니다."
+AUS_financial_ties_broken_desc:0 "헝가리의 왕가는 통합 정부의 재정에 세금을 납부하는 것을 거부합니다. \n\n 그들은 1926년 남부 슬라브인 반란의 중재안으로 인한 일리리아 왕국의 형성에 여전히 불만을 가지고 있으며 오스트리아 정부에 의해 배신당한 이들은 크로아티아의 토지 손실에 대한 보상을 원합니다."
 
 HUN_financial_ties_broken:0 "오스트리아-헝가리의 관계 악화"
 HUN_financial_ties:0 "오스트리아-헝가리의 관계 회복"
@@ -67,13 +68,13 @@ HUN_transylvanian_demonstrations:0 "트란실바니아 독립 운동"
 AUS_paid_reparations:0 "헝가리의 전쟁 배상금"
 
 AUS_vienna_circle:0 "빈 학파"
-AUS_vienna_circle_desc:0 "빈 학파는 1924 년 이래 빈 대학교에서 정기적으로 만난 자연 및 사회 과학, 논리 및 수학에서 파생 된 철학자 및 과학자 그룹입니다. \n\n 그들의 활동 뒤에 숨겨진 핵심 원칙은 "종말의 끝에 대한 정확한 사고("Exact Thinking on the Edge of Doom")"입니다."
+AUS_vienna_circle_desc:0 "빈 학파는 1924년 이래 빈 대학교에서 정기적으로 만난 자연 및 사회 과학, 논리 및 수학에서 파생 된 철학자 및 과학자 그룹입니다. \n\n 그들의 활동 뒤에 숨겨진 핵심 원칙은 "종말의 끝에 대한 정확한 사고("Exact Thinking on the Edge of Doom")"입니다."
 
 AUS_vienna_circle-1:0 "빈 학파"
-AUS_vienna_circle-1_desc:0 "빈 학파는 1924 년 이래 빈 대학교에서 정기적으로 만난 자연 및 사회 과학, 논리 및 수학에서 파생 된 철학자 및 과학자 그룹입니다. \n\n 그들의 활동 뒤에 숨겨진 핵심 원칙은 "종말의 끝에 대한 정확한 사고("Exact Thinking on the Edge of Doom")"입니다."
+AUS_vienna_circle-1_desc:0 "빈 학파는 1924년 이래 빈 대학교에서 정기적으로 만난 자연 및 사회 과학, 논리 및 수학에서 파생 된 철학자 및 과학자 그룹입니다. \n\n 그들의 활동 뒤에 숨겨진 핵심 원칙은 "종말의 끝에 대한 정확한 사고("Exact Thinking on the Edge of Doom")"입니다."
 
 austrian_research_name:0 "빈 학파"
-austrian_research_desc:0 "빈 학파는 1924 년 이래 빈 대학교에서 정기적으로 만난 자연 및 사회 과학, 논리 및 수학에서 파생 된 철학자 및 과학자 그룹입니다. \n\n 그들의 활동 뒤에 숨겨진 핵심 원칙은 "종말의 끝에 대한 정확한 사고(Exact Thinking on the Edge of Doom)"입니다."
+austrian_research_desc:0 "빈 학파는 1924년 이래 빈 대학교에서 정기적으로 만난 자연 및 사회 과학, 논리 및 수학에서 파생 된 철학자 및 과학자 그룹입니다. \n\n 그들의 활동 뒤에 숨겨진 핵심 원칙은 "종말의 끝에 대한 정확한 사고(Exact Thinking on the Edge of Doom)"입니다."
 
 AUS_socialist_promises:0 "사회주의자들의 약속"
 
@@ -106,9 +107,9 @@ AUS_kaiser_faith:0 "황제에 대한 믿음"
 AUS_kaiser_faith_desc:0 "사람들은 새로운 제국을 신뢰하게 되었습니다. 신께서는 황제 폐하를 수호하소서!"
 
 AUS_k_u_k_armee_bonus:0 "공동 군대 모집"
-AUS_k_u_k_armee_bonus_desc:0 "1867 년 3 월 15 일에 설립된 오스트리아와 헝가리의 공동 군대는 이중제국 군대의 주요 부분이 되었습니다."
+AUS_k_u_k_armee_bonus_desc:0 "1867년 3월 15일에 설립된 오스트리아와 헝가리의 공동 군대는 이중 제국 군대의 주요 부분이 되었습니다."
 AUS_k_u_k_armee_bonus_2:0 "공동 군대 모집"
-AUS_k_u_k_armee_bonus_2_desc:0 "1867 년 3 월 15 일에 설립된 오스트리아와 헝가리의 공동 군대는 이중제국 군대의 주요 부분이 되었습니다."
+AUS_k_u_k_armee_bonus_2_desc:0 "1867년 3월 15일에 설립된 오스트리아와 헝가리의 공동 군대는 이중 제국 군대의 주요 부분이 되었습니다."
 
 AUS_DNF_political_instability:0 "정치적 불안정"
 AUS_DNF_political_instability_desc:0 "국가 개인 자치 원칙이 자리를 잡고 있습니다. 오스트리아의 많은 민족들은 현재의 정치적 혼란을 배경으로 민족 정당을 재조직하고 있습니다. 그런 급진적인 변화는 많은 불안정을 가져왔지만 회의론자들조차도 그렇게 나쁘지는 않을 것이라고 예상했습니다."
@@ -132,6 +133,10 @@ AUS_SLOintegration:0 "슬로베니아 통합"
 AUS_SLOintegration_desc:0 "많은 슬로베니아인들은 독일 민족이고 합스부르크의 오랜 유산이 슬로베니아 영토에 대한 오스트리아 정부의 신속한 통제를 가능하게 했지만, 많은 슬로베니아 인이 느끼는 것은 새로운 통치자 그 이상입니다."
 
 ### Decisions ###
+AUS_syndie_threat:0 "생디칼리스트의 위협"
+AUS_syndie_threat_desc:0 "Our neighbours and old allies are at war with France, a fact that one can hardly miss. What German military minds had expected to be over in a few weeks, has turned into a repeat of the Weltkrieg. Should the Communards be the victors of this war, not only will our interests in Italy be compromised, but the integrity of our Empire may be at stake. It might be best to put our differences aside and to fight side-by-side with the Germans once more."
+AUS_germany_on_the_ropes:0 "[FRA.GetNameDef] has penetrated too far into southern Germany"
+AUS_syndicalism_winning_Italy:0 "French allies have won control over much of Italy"
 AUS_elections_decisions:0 "선거 결정"
 AUS_endorse_CS:0 "기독사회당을 지지"
 AUS_endorse_SDAP:0 "사회민주노동자당을 지지"
@@ -142,7 +147,7 @@ AUS_eco_council:0 "경제 부흥 계획"
 AUS_eco_council_desc:0 "오스트리아 경제의 부진한 상태에 대해 논의하기 위해 1935년에 설립된 경제 부흥 계획은 지속된 경제 위기로 인해 중단되었습니다. 약간의 변경을 가한 이 계획은 여전히 검은 월요일(Black Monday)의 재앙적인 여파에 대처하고 주요 경쟁자들이 없는 이 기회에 오스트리아 산업을 강화시키는 좋은 방법을 제시합니다."
 
 AUS_skoda:0 "스코다"
-AUS_skoda_desc:0 "세계대전 기간 동안 프라하의 서쪽에 있는 스코다 사는 가장 큰 군수 제조사였지만 독일 산업의 압도적인 힘으로 어려움에 빠졌습니다. 독일이 검은 월요일(Black Monday)의 중심에 휩싸여 흔들리는 사이, 스코다 사에 대한 보조금은 우리 경제를 복구하는 큰 발판이 될것 입니다."
+AUS_skoda_desc:0 "세계대전 기간 동안 프라하의 서쪽에 있는 스코다 사는 가장 큰 군수 제조사였지만 독일 산업의 압도적인 힘으로 어려움에 빠졌습니다. 독일이 검은 월요일(Black Monday)의 중심에 휩싸여 흔들리는 사이, 스코다 사에 대한 보조금은 우리 경제를 복구하는 큰 발판이 될것입니다."
 
 AUS_daimler:0 "오스트로 다임러"
 AUS_daimler_desc:0 "오스트로 다임러 회사는 우리의 전쟁 수행을 위해 많은 장갑차 및 엔진을 제조했습니다. 독일 자동차와 엔진은 지난 수십 년 동안 시장에 넘쳐 났지만, 포르쉐는 파산 직전에 시달리고 메르세데스-벤츠는 이를 따르고 있습니다. 우리 자동차 산업에 새로운 생명을 불어 넣을 시간입니다."
@@ -157,7 +162,7 @@ AUS_suedbahn:0 "쥐트반에 전기를 공급하다"
 AUS_suedbahn_desc:0 "쉬트반 (남부 철도)는 그라츠를 경유하여 비엔나에서 라이바흐 및 트리에스테, 오스트리아 - 헝가리 제국의 주요 항구, 그리고 마지막으로 밀라노까지 이어지는 철도입니다. 여전히 주요 교통망이지만 1860년에 완공된 탓에, 트랙이 근대화를 절실히 필요로 하고 있습니다. 전기를 공급하는 것은 비교적 신속하게 진행될 것이며 많은 도움이 될 것입니다."
 
 AUS_homeland_eco:0 "오스트리아 민간 경제"
-AUS_homeland_eco_desc:0 "우리의 약한 경제는 검은 월요일(Black Monday)의 여파로 인해 너덜너덜해졌고, 충격은 비엔나와 그 주변에서 강하게 다가왔습니다. 특히 고도로 산업화 된 보헤미아에서 더욱 그러했습니다. 이웃 나라들도 비슷한 운명을 겪고 있지만 그들은 회복하기 시작했고, 이미 우리를 능가했습니다. 더 나은 경쟁력을 위해 주요 자동차 및 전기 회사들에게 정부 보조금을 지원해 우리의 경제를 향상시켜야 합니다."
+AUS_homeland_eco_desc:0 "우리의 약한 경제는 검은 월요일의 여파로 인해 너덜너덜해졌고, 충격은 비엔나와 그 주변에서 강하게 다가왔습니다. 특히 고도로 산업화 된 보헤미아에서 더욱 그러했습니다. 이웃 나라들도 비슷한 운명을 겪고 있지만 그들은 회복하기 시작했고, 이미 우리를 능가했습니다. 더 나은 경쟁력을 위해 주요 자동차 및 전기 회사들에게 정부 보조금을 지원해 우리의 경제를 향상시켜야 합니다."
 
 AUS_alpine_mines:0 "알프스 광산"
 AUS_alpine_mines_desc:0 "알프스 산은 항상 풍부한 광물 자원을 가지고 있었지만, 지금까지 우리가 보유해온 자산을 활용하는 것을 확장하는 것에 대해 아무런 생각이 없었습니다. 엄청난 양의 철광석이 우리의 기존 광산에서 채굴되고 있으며, 새로운 광산이 매일 튀어 나오고 있습니다. 이러한 산업을 부분적으로 국유화한다면 우리의 경제적 독립에 크게 기여할 것입니다."
@@ -181,7 +186,7 @@ AUS_farms_expand_desc:0 "헝가리와 오스트리아 저지대의 비옥한 평
 
 ### Elections of 1936
 AUS_elections:0 "1936년 총선"
-AUS_elections_desc:0 "오스트리아의 이중 군주국에서 6 년마다 선거가 개최되었지만, 세계 대전이 끝난 이래로 이러한 행동 기간 중 일부는 개혁이나 스캔들로 인해 짧아졌습니다. \n오스트리아 정치는 사회민주노동자당(SDAP), 기독사회당(CS)이 지배하고 있으며, 두 당 모두 현재 진행중인 위기를 해결하는 방법에 대해 서로 다른 생각을 갖고 있지만 누가 승리할지 예상하는 것은 어렵습니다."
+AUS_elections_desc:0 "오스트리아의 이중 군주국에서 6년마다 선거가 개최되었지만, 세계대전이 끝난 이래로 이러한 행동 기간 중 일부는 개혁이나 스캔들로 인해 짧아졌습니다. \n오스트리아 정치는 사회민주노동자당(SDAP), 기독사회당(CS)이 지배하고 있으며, 두 당 모두 현재 진행중인 위기를 해결하는 방법에 대해 서로 다른 생각을 갖고 있지만 누가 승리할지 예상하는 것은 어렵습니다."
 
 AUS_sdap_industrial_workers_council:0 "공공 복지 개혁"
 AUS_sdap_industrial_workers_council_desc:0 "선거 운동 기간 동안의 사회민주노동자당의 주요 관심사는 오스트리아 노동자가 현재 위기를 겪고 있음을 확인하는 것이었으며, 그들은 세계대전 이후 기독사회당과 연합하여 도입한 많은 개혁을 재확인하고, 모든 실직자들에게 연금을 지급할 계획입니다."
@@ -212,7 +217,7 @@ AUS_cs_national_austerity_council:0 "국가 긴축위원회"
 AUS_cs_national_austerity_council_desc:0 "현재 진행중인 경제 위기에 대처할 때 우리가 기억해야 할 가장 중요한 사실은 이미 존재하는 국가 부채가 더 이상 발생하지 않도록 해야 한다는 것입니다. 오스트리아의 금고는 다음 해에 완전히 채워져야 합니다. 이를 달성하는 유일한 방법은 지출을 대폭 줄이는 것입니다."
 
 AUS_cs_fill_the_coffers:0 "국고를 채워라"
-AUS_cs_fill_the_coffers_desc:0 "가진 것이 거의 없다면, 조심히 써야한다. 이 말이 선거 기간 동안 CSP의 신조였습니다. 지난 6년간 주요 은행들의 스캔에 연루되어 있었기 때문에, 사람들이 우리를 믿고 돈을 맡길 지 확실하지 않았습니다. 이제, 그들에게 우리가 할 수 있다는 것을 보여줍시다."
+AUS_cs_fill_the_coffers_desc:0 "가진 것이 거의 없다면, 조심히 써야 한다. 이 말이 선거 기간 동안 CSP의 신조였습니다. 지난 6년간 주요 은행들의 스캔에 연루되어 있었기 때문에, 사람들이 우리를 믿고 돈을 맡길 지 확실하지 않았습니다. 이제, 그들에게 우리가 할 수 있다는 것을 보여줍시다."
 
 AUS_cs_2:0 "국가의 통제하에 있는 인플레이션"
 AUS_cs_2_desc:0 "약간의 인플레이션은 나쁜 것이 아닙니다. 초인플레이션이 나쁜 것입니다. 우리는 시장에서 유통되고 있는 모든 화폐를 빠르게 없애야 합니다. 채권의 가격은 떨어져왔고 금리는 최고치를 찍었습니다. 이제 우리는 이 조치들의 효과를 기다려야합니다."
@@ -221,7 +226,7 @@ AUS_cs_3:0 "조심스러운 개발"
 AUS_cs_3_desc:0 "우리 화폐의 가치가 안정적이므로 편히 쓸 수 있는 작은 돈이라도 투자금을 회수할 수 있는 곳에 가도록 주의해야 합니다. 이는 물론 우리 돈이 가장 잘 작용될 수 있는 곳을 살펴봐야 한다는 것을 뜻합니다. 고맙게도, 우리는 오스트리아 최고의 경제학자들의 도움을 받고 있습니다."
 
 AUS_cs_4:0 "사회민주노동자당과 타협하다"
-AUS_cs_4_desc:0 "사회주의자들은 그들의 헛소리를 도시 하류층의 머릿속에 주입시키는 것을 꽤 많이 했습니다. 이제 우리가 권력을 잡았으니, 우리는 그것에 대처해야 합니다. 우리는 SDPA 사람들을 만나 그들이 발전시킨 개혁의 제도에 대해 논의할 것 입니다."
+AUS_cs_4_desc:0 "사회주의자들은 그들의 헛소리를 도시 하류층의 머릿속에 주입시키는 것을 꽤 많이 했습니다. 이제 우리가 권력을 잡았으니, 우리는 그것에 대처해야 합니다. 우리는 SDPA 사람들을 만나 그들이 발전시킨 개혁의 제도에 대해 논의할 것입니다."
 
 AUS_cs_5:0 "농부들을 위한 지원금"
 AUS_cs_5_desc:0 "CSP는 항상 시골민들의 당이었습니다. 사회주의자들은 노동자들에게만 관심을 갖고, 농부들은 너무 자주 잊혀집니다. 우리는 그들을 위해 개발 보조금을 제공함으로써 이를 보상할 것입니다."
@@ -230,7 +235,7 @@ AUS_cs_6:0 "사회 갈등 봉합"
 AUS_cs_6_desc:0 "모든 사회 계층이 부나 통화, 또는 상품의 소멸에 대해 서로를 비난하고 있습니다. 시민은 식량이 없다고 농부들을 비난하고, 농부들은 돈이 없다고 시민들을 비난합니다. 사회는 분열되어 있고, 신중한 담론을 통해서만 그것이 조정될 수 있습니다. 이것이 힘든 여정의 시작입니다."
 
 AUS_cs_7:0 "우리가 필요로 하는 것"
-AUS_cs_7_desc:0 "식민 제국과 제국 조약(Reichspakt)일은 모두 멋지고 괜찮습니다. 하지만 우리에게 필요하지 않은 것은 사치입니다. 상아와 주철을 먹고 살 수는 없습니다. 독일은 휴양지로 떠나고 있고 빈의 남자는 그가 진정으로 필요로 하는 것, 즉 외부 요인으로부터 자유로운 경제와 사회를 바라고 있습니다."
+AUS_cs_7_desc:0 "식민 제국과 제국 조약은 모두 멋지고 좋습니다. 하지만 우리에게 필요하지 않은 것은 사치입니다. 상아와 주철을 먹고 살 수는 없습니다. 독일은 휴양지로 떠나고 있고 빈의 남자는 그가 진정으로 필요로 하는 것, 즉 외부 요인으로부터 자유로운 경제와 사회를 바라고 있습니다."
 
 ### Military Tree
 
@@ -256,7 +261,7 @@ AUS_tank_trials:0 "전차 시험 평가"
 AUS_tank_trials_desc:0 "세계대전의 트라우마가 아직도 많은 사람들에게 남아있는 가운데, 전차는 오스트리아-헝가리군에서 사용되었습니다. 스코다(Škoda)와 ČKD에서 세계에서 가장 진보된 전차 디자인을 개발하면서 전차들은 오스트리아-헝가리 군에서 열심히 사용되었습니다. TMK는 전차 개발이 진전될수록 다양한 용도의 신차 시운전을 벌이겠다는 계획입니다."
 
 AUS_radar:0 "항공기 탐지 기술"
-AUS_radar_desc:0 "헝가리의 수학자 졸탄 라조스 베이(Zoltán Lajos Bay)의 레이더 관련 연구는 TMK와 피에르코프(Fliegerkorps)의 관심을 끌었습니다. 이 발명품은 공중의 위협에 대한 제국의 방어력을 향상시키기 위해 사용되기를 바라고 있습니다. 라디오 기반 항공기 탐지기(Funkgestützte Flugzugoortung)에 대한 실험은 성과가 있으며, 제국 일가는 곧 작동 중인 레이더를 가지게 될 것 입니다."
+AUS_radar_desc:0 "헝가리의 수학자 졸탄 라조스 베이(Zoltán Lajos Bay)의 레이더 관련 연구는 TMK와 피에르코프(Fliegerkorps)의 관심을 끌었습니다. 이 발명품은 공중의 위협에 대한 제국의 방어력을 향상시키기 위해 사용되기를 바라고 있습니다. 라디오 기반 항공기 탐지기(Funkgestützte Flugzugoortung)에 대한 실험은 성과가 있으며, 제국 일가는 곧 작동 중인 레이더를 가지게 될 것입니다."
 
 AUS_rockets:0 "로켓 항공 기술"
 AUS_rockets_desc:0 "제국에는 Eugen Säger나 Theodore von Kámann같은 많은 로켓 과학자들이 있습니다. 로켓과 그것을 군사적으로 사용할 수 있는지에 대해서는 의문이지만, 위원회는 로켓의 잠재력이 너무 커서 그것을 무시할 수 없다고 믿고 로켓을 더 개발하려고 합니다."
@@ -277,10 +282,10 @@ AUS_communications:0 "통신 향상"
 AUS_communications_desc:0 "세계대전이 시작된 이래로, 라디오와 같은 발명품은 지휘관과 군대 사이의 통신을 훨씬 더 쉽게 만들었습니다. 더 나은 의사소통을 통해, 높으신 분들은 끔찍한 재앙에 훨씬 더 빨리 반응할 수 있고, 그 재앙이 야기할 수 있는 피해를 제한하고, 대항할 수 있습니다."
 
 AUS_better_support_equipment:0 "화력 지원 최대화"
-AUS_better_support_equipment_desc:0 "부대들은 효과적일 수 있도록 적절한 장비를 갖추어야 합니다. 그들이 더 많은 지원을 받을수록, 더 적은 사상자가 나올 것 입니다. 여기에는 포병뿐 아니라 부상자를 후송하는 트럭, 적절한 야전병원과 정비부대가 포함됩니다."
+AUS_better_support_equipment_desc:0 "부대들은 효과적일 수 있도록 적절한 장비를 갖추어야 합니다. 그들이 더 많은 지원을 받을수록, 더 적은 사상자가 나올 것입니다. 여기에는 포병뿐 아니라 부상자를 후송하는 트럭, 적절한 야전병원과 정비부대가 포함됩니다."
 
 AUS_mech_cavalry:0 "기계화 기병"
-AUS_mech_cavalry_desc:0 "전차는 튼튼하고 강하지만, 보병의 엄호를 받아야 하고, 그러지 못하면 취약해집니다. 보병들은 전차를 따라잡을 수 있어야 하며, 트럭은 도로에서는 완벽하지만, 추적당할 수 있습니다. 다행히도, 헝가리 부대가 낡은 탱크와 포병을 급조된 무기 수송기로 개조했는데, 이것은 그 문제를 완벽하게 해결할 것 입니다."
+AUS_mech_cavalry_desc:0 "전차는 튼튼하고 강하지만, 보병의 엄호를 받아야 하고, 그러지 못하면 취약해집니다. 보병들은 전차를 따라잡을 수 있어야 하며, 트럭은 도로에서는 완벽하지만, 추적당할 수 있습니다. 다행히도, 헝가리 부대가 낡은 탱크와 포병을 급조된 무기 수송기로 개조했는데, 이것은 그 문제를 완벽하게 해결할 것입니다."
 
 AUS_kavalleriepanzer:0 "기병 전차 계획"
 AUS_kavalleriepanzer_desc:0 "그들의 이름이 암시하는것처럼, 기병 전차들은 기병대를 효과적으로 대체합니다. 오스트리아-헝가리는 이미 여러 설계들을 성공적으로 개발하여 채택했으며, 이를 바꿀 이유는 거의 없습니다. 기동력은 새로운 교리의 핵심이기에, 새로운 기병 전차 개발에 중점을 두어야 합니다."
@@ -291,34 +296,34 @@ AUS_infanteriepanzer_desc:0 "군은 이미 수많은 기병 전차 설계를 성
 AUS_auftragstaktik:0 "현대 임무형 지휘"
 AUS_auftragstaktik_desc:0 "임무 형태의 전술(Auftragstaktik)은 세계대전 기간동안 성공적으로 채택되었습니다. 이러한 전술들은 부하들이 독립적으로 일을 해서 성취할 수 있는 명확히 정의된 임무를 부여하고, 뛰어난 유연성을 부여하며, 솔선수범하도록 장려하는 높은 지휘를 포함합니다. 임무 형태의 전술은 현대 전쟁에 적용할 수 있고 새로운 교리에도 쓸 수 있습니다."
 
-AUS_aviation_effort:0 "k.u.k. 항공부대"
-AUS_aviation_effort_desc:0 "Formerly known as the k.u.k. Luftfahrtruppen, the Fliegerkorps is the air service of Austria-Hungary. It was stretched thin during the Weltkrieg and had a limited number of aircraft at its disposal. Since the end of the war, little was done to rectify this as funding became scarce. With the military receiving substantial funds once more, modernising and expanding the Fliegerkorps is finally possible."
+AUS_aviation_effort:0 "K.u.K. 루프트바펜(Luftfahrtruppen)"
+AUS_aviation_effort_desc:0 "이전에 K.U.k. 루프트바펜(Luftfahrtruppen)으로 알려진, 플리거크룹(Fliegerkorps)은 오스트리아-헝가리의 공군입니다. 이는 세계대전 기간 동안 얇게 뻗어있었으며 제한된 수의 항공기를 가지고 있었습니다. 전쟁이 끝난 후, 자금이 부족해짐에 따라, 이것을 바로잡기 위해 행해진 것은 거의 없었습니다. 군대가 다시 한번 상당한 자금을 지원받음으로써, 마침내 플리거크룹의 현대화와 확장이 가능하게 되었습니다."
 
-AUS_uzelac-plan:0 "Uzelac's 지상 지원 계획"
-AUS_uzelac-plan_desc:0 "Milan Emil Uzelac is the first commander of the Luftfahrtruppen and remains influential within the General Staff and the Fliegerkorps. He believes that the Fliegerkorps exists mainly to support the army in its operations. Therefore, the air force must focus on fighter aircrafts to maintain air superiority and light bombers to attack enemy positions on the front."
+AUS_uzelac-plan:0 "우즈락의 지상 지원 계획"
+AUS_uzelac-plan_desc:0 "밀란 에밀 우즈락은 루프트바펜(Luftfahrtruppen)의 초대 사령관이며, 총 참모진과 플리거크룹(Fliegerkorps) 내에서도 여전히 영향력이 있습니다. 그는 플리거크룹이 주로 군대의 작전 지원을 위해 존재한다고 믿고 있습니다. 그러므로, 공군은 공군 우위 유지를 위해 전투기들과 전방의 적진을 공격하기 위한 경량 폭격기에 초점을 맞추어야 합니다."
 
-AUS_loehr-plan:0 "Löhr's 공격적인 공중 계획"
-AUS_loehr-plan_desc:0 "Generalmajor Alexander Löhr is a proponent of strategic bombing and granting the Fliegerkorps further independence from the Army. With heavy bombers, the Fliegerkorps could bring the fight to any enemies of the Monarchy and destroy and military capabilities and morale."
+AUS_loehr-plan:0 "뢰어의 공격적인 공중 계획"
+AUS_loehr-plan_desc:0 "알렉산더 뢰어는 전략폭격의 지지자이자 플리거크룹(Fliegerkorps)을 육군으로부터 더 많이 독립시키고자 하고자 합니다. 중폭격기로, 플리거크룹은 군주국의 모든 적들에게 전투를 가져올 수 있고, 군사력과 사기를 파괴할 수도 있습니다."
 
-AUS_flugschule:0 "k.u.k. 항공학교 설립"
-AUS_flugschule_desc:0 "While there are numerous flying schools across Austria-Hungary, there has never been a centralised academy to coordinate the training of pilots and officers for the Fliegerkorps. The creation of such an institution is essential to the reforms as it will create a new generation of officers and pilots, while also streamlining the Korps into something less ad-hoc."
+AUS_flugschule:0 "K.u.K. 항공학교 설립"
+AUS_flugschule_desc:0 "오스트리아-헝가리 전역에 수많은 항공학교가 있지만 플리거크룹의 조종사와 임원 훈련을 조정하는 중앙학교는 한번도 없었습니다. 그러한 기관의 설립은 개혁에 필수적입니다. 그것은 새로운 세대의 장교와 조종사를 양성하는 동시에 플리거크룹을 특별한 무언가로 만들어줄 것이기 때문입니다."
 
 AUS_fighter_trials:0 "전투기 시험 평가"
-AUS_fighter_trials_desc:0 "Aircraft development is advancing at an amazing pace. In order to keep up, trials are to be held to adopt a new fighter aircraft for the Fliegerkorps. After all, fighters are arguably the backbone of the air force and will help ensure the safety of our skies."
+AUS_fighter_trials_desc:0 "항공기 개발은 놀라운 속도로 진행되고 있습니다. 이를 따라가기 위해서는, 새로운 전투기를 채택하기 위한 실험이 시행되어야 합니다. 결국, 전투기는 틀림없는 공군력의 중추이며 우리 하늘의 안전을 보장하는데 도움이 될 것입니다."
 
 AUS_light_bomber_trials:0 "경폭격기 시험 평가"
-AUS_light_bomber_trials_desc:0 "Since supporting operations of the army is a priority for the Fliegerkorps, the adoption of a light bomber aircraft for this role is necessary. Potential designs vary from relatively \"heavy\" two-engine bombers to fighters converted to dive bombers."
+AUS_light_bomber_trials_desc:0 "플리거크룹은 군대의 운영을 지원하는 것이 우선사항이기 때문에, 이 역할을 위한 경폭격기의 채택이 필요합니다. 잠재적 설계는 상대적으로 "무거운" 쌍발 엔진 폭격기에서 급강하 폭격기로 개조된 전투기에 이르기까지 다양합니다."
 
 AUS_heavy_bomber_trials:0 "중폭격기 시험 평가"
-AUS_heavy_bomber_trials_desc:0 "Heavy bombers are a relatively recent development in aircraft technology and proponents of strategic bombing see their potential. Their long range and large bomb loads make them perfect for the role. Thus, trials are being held and aircraft companies are eager to win such a lucrative contract."
+AUS_heavy_bomber_trials_desc:0 "중폭격기는 비교적 최근의 항공기 기술 발전이고 전략폭격 지지자들이 그들의 잠재력을 보고 있습니다. 장거리 및 대규모 폭탄은 그 역할을 완벽하게 합니다. 따라서, 시험운행이 이루어지고 있으며 항공사들은 이 돈벌이가 되는 계약을 따내기를 열망하고 있습니다."
 
 AUS_medium_bomber_trials:0 "중형 폭격기 시험 평가"
-AUS_medium_bomber_trials_desc:0 "The potential of a versatile medium two-engine bombers for a variety of different missions has caught the attention of high command. Since a tactical bomber would be very useful for the Fliegerkorps, aircraft manufacturers are, once again, competing in trials for the next generation of bombers."
+AUS_medium_bomber_trials_desc:0 "다양한 임무를 수행하는 다재다능한 쌍발 중폭격기의 잠재력은 사령부의 높은 주목을 받고 있습니다. 전술 폭격기는 플리거크룹에 매우 유용할 것이기 때문에, 항공기 제조사들은 다시 한번 차세대 폭격기들을 위한 시험운행에 참가하고 있습니다."
 
 AUS_phoenix:0 "푀닉스"
-AUS_phoenix_desc:0 "세계 대전동안 푀닉스라는 이름을 가진 빈의 한 작은 회사는 독일 라이센스 비행기를 생산해 우리 공군에 공급했습니다. 그 이후로 이 회사는 다양한 디자인을 실험 해 왔으며 그 중 일부는 공군 현대화의 열쇠가 될 것입니다. "
+AUS_phoenix_desc:0 "세계대전 동안 푀닉스라는 이름을 가진 빈의 한 작은 회사는 독일 라이센스 비행기를 생산해 우리 공군에 공급했습니다. 그 이후로 이 회사는 다양한 디자인을 실험 해 왔으며 그 중 일부는 공군 현대화의 열쇠가 될 것입니다. "
 
-AUS_mil_expanded:0 "새로운 제국 군대"
+AUS_mil_expanded:0 "새로운 제국군"
 AUS_mil_expanded_desc:0 "우리 군대의 개혁은 길고 비용이 많이 드는 과정이었지만 마침내 완료되었습니다. 새로운 탱크, 총기, 선박 및 비행기가 조립 라인에서 대기중인 군대로 옮겨지고 개혁되어 제국의 적들과의 전투에 대비할 준비가 된 것입니다! "
 
 AUS_naval_effort:0 "제국 해군 강화"
@@ -336,8 +341,8 @@ AUS_capital_ships_effort_desc:0 "해군은 전투에 더 많은 화력을 불어
 AUS_small_ships_effort:0 "오스트리아 소형함 계획"
 AUS_small_ships_effort_desc:0 "우리는 잠수함은 훌륭하지만 육상 작전을 지원할 수 있고 적 함선을 마무리할 수 있는, 잠수함이 가지지 못한 화력을 가진 더 큰 함선이 필요합니다. 이에 따라 우리는 적의 잠수함과 수면위의 적과 대치할 수 있는 경순양함과 구축함의 새로운 모델을 개발하기로 결정했습니다."
 
-AUS_cattaro:0 "코토르 공군 기지".
-AUS_cattaro_desc:0 "세계 대전 기간에 아드리아 해에서의 정찰 임무를 위해 코토르(cattaro)만에 지어진 k.k. 공군기지는 종전 이후 페기되어 방치되었습니다. 하지만 아드리아 해의 입구에서 가까운 위치는 이 기지가 여전히 전략적으로 가치가 있음을 증명합니다."
+AUS_cattaro:0 "코토르 공군 기지"
+AUS_cattaro_desc:0 "세계대전 기간에 아드리아 해에서의 정찰 임무를 위해 코토르(cattaro)만에 지어진 k.k. 공군기지는 종전 이후 페기되어 방치되었습니다. 하지만 아드리아 해의 입구에서 가까운 위치는 이 기지가 여전히 전략적으로 가치가 있음을 증명합니다."
 
 ### Ausgleich 1937
 
@@ -346,11 +351,11 @@ AUS_ausgleich_desc:0 "-"
 
 ### Occupation branch
 
-AUS_military_occupation:0 "군대를 통한 점령"
-AUS_military_occupation_desc:0 "헝가리는 점령되었고, 오스트리아 제국은 다시 한번 하나가 될 것입니다. \n 다만 모든 속국들이 빈에서 직접 통치되는 것에 만족하지 않을 수도 있음을 명심하십시오."
+AUS_military_occupation:0 "군사점령"
+AUS_military_occupation_desc:0 "헝가리는 제압됬지만, 우리는 당장 헝가리를 해방시켜줄 생각이 없습니다. 오스트라아 제국에 도전하려는 생각을 가진 이들은 헝가리와 같은 운명에 놓이게 될 것입니다."
 
-AUS_status_quo:0 "현상태 유지"
-AUS_status_quo_desc:0 "10 년 전과 마찬가지로, 행정부 통합 제국에 대한 우리의 협상은 실패했습니다. 우리는 헝가리 지역의 개혁을 통해 둘을 더욱 가깝게 묶는 데 이 이상 많은 시간을 할애할 여유가 없습니다."
+AUS_status_quo:0 "현상유지"
+AUS_status_quo_desc:0 "10년 전과 마찬가지로, 통합된 중앙집권 제국에 대한 우리의 협상은 실패했습니다. 우리는 헝가리 지역의 개혁을 통해 둘을 더욱 가깝게 묶는 데 이 이상 많은 시간을 할애할 여유가 없습니다."
 
 AUS_pintsch:0 "Pintsch AG"
 AUS_bayer:0 "바이엘 외스터라이히"
@@ -362,34 +367,34 @@ AUS_italy:0 "이탈리아 문제"
 AUS_italy_desc:0 "창설 이래 이탈리아는 지속적으로 황제들에게 문제가 되어 왔습니다. 이탈리아는 빈에서 프랑스로 향하는 쉬운 길이며 우리와 협력한다면 큰 도움이 될 것입니다. 이탈리아가 패배한 지금, 그들을 향한 우리의 행동이 무엇이 될 것인가에 대한 논란이 외무부에 일고 있습니다."
 
 AUS_italy_peaceful:0 "이탈리아와의 유대"
-AUS_italy_peaceful_desc:0 "합스부르크-로렌의 토스카니 분파는 이탈리아 문화와 현재의 정치 상황에 잘 통합되어 있으며, 이탈리아의 새로운 왕으로서 그 중 하나를 옹립함으로써 우리와 우호 관계를 맺을 수 있는 길을 열 수 있고, 이들은 지중해에 대한 프랑스의 야망에 대비한 완충지로서 유용할 수 있습니다."
+AUS_italy_peaceful_desc:0 "합스부르크-로트링겐의 토스카니 분파는 이탈리아 문화와 현재의 정치 상황에 잘 통합되어 있으며, 이탈리아의 새로운 왕으로서 그 중 하나를 옹립함으로써 우리와 우호 관계를 맺을 수 있는 길을 열 수 있고, 이들은 지중해에 대한 프랑스의 야망에 대비한 완충지로서 유용할 수 있습니다."
 
 AUS_italy_military:0 "이탈리아 점령"
-AUS_italy_military_desc:0 "수년간의 민족주의와 생디칼리즘의 새로운 움직임에 휩쓸린 이탈리아인이 외교적으로 우리의 점령을 받아 들일리가 없습니다. 프랑스의 위협으로부터 이탈리아 반도를 안전하게 지키는 유일한 방법은 군대 점령을 통해서이며, 이는 지금의 제국은 세계 대전 동안의 오스트리아와는 동일하지 않다는 것을 이탈리아인들에게 알려줄 것입니다. "
+AUS_italy_military_desc:0 "수년간의 국민주의와 생디칼리즘의 새로운 움직임에 휩쓸린 이탈리아인이 외교적으로 우리의 점령을 받아 들일리가 없습니다. 프랑스의 위협으로부터 이탈리아 반도를 안전하게 지키는 유일한 방법은 군대 점령을 통해서이며, 이는 지금의 제국은 세계대전 동안의 오스트리아와는 동일하지 않다는 것을 이탈리아인들에게 알려줄 것입니다. "
 
 AUS_unify_italy:0 "이탈리아 통일"
 AUS_unify_italy_desc:0 "토리노에서의 이탈리아 생디칼리스트의 부상은 프랑스의 지원을 받는 서부의 이탈리아의 사회주의 공화국과, 우리 국경과 접해있는 이탈리아 공화국으로 나누게 하였습니다. 독일과 프랑스가 공개적으로 적대적인 태도를 유지하는 가운데, 후자를 돕는 것은 우리에 대한 그들의 우호를 얻을 뿐만 아니라, 프랑스와 전쟁에 대비해 우리의 측면을 안전하게 보호할 수 있습니다."
 
 AUS_strong_italy:0 "이탈리아 공화국 강화"
-AUS_strong_italy_desc:0 "정치적으로 분열된 가운데, 검은 월요일(Black Monday)의 지속적인 영향에 시달린 이탈리아는 민간 부문에 오스트리아 자본의 주입을 요구해왔습니다. 이탈리아와 오스트리아의 경제학자들에 따르면 이것은 양측 모두에게 도움이 될 것이며 나약한 이탈리아를 도와 그들이 알프스에서 프랑스와 맞서게할 수 있고, 이는 우리의 방어에 필수적인 것입니다."
+AUS_strong_italy_desc:0 "정치적으로 분열된 가운데, 검은 월요일의 지속적인 영향에 시달린 이탈리아는 민간 부문에 오스트리아 자본의 주입을 요구해왔습니다. 이탈리아와 오스트리아의 경제학자들에 따르면 이것은 양측 모두에게 도움이 될 것이며 나약한 이탈리아를 도와 그들이 알프스에서 프랑스와 맞서게 할 수 있고, 이는 우리의 방어에 필수적인 것입니다."
 
 AUS_italy_secure:0 "이탈리아 영토 보호"
-AUS_italy_secure_desc:0 "우리의 새로운 신하들은, 이상하게도 우리의 점령에 호의적이지 않습니다.이 지역의 비밀 경찰로부터 오는 정보는 교황청과 생 디칼리스트의 지식인들 사이에서 반란의 가능성을 점점 더 언급하고 있습니다. 제국의 장군은 반란에 대한 단속과 이탈리아 반도의 확보를위한 선전 운동을 제안했습니다."
+AUS_italy_secure_desc:0 "우리의 새로운 신하들은, 이상하게도 우리의 점령에 호의적이지 않습니다.이 지역의 비밀경찰로부터 오는 정보는 교황청과 생디칼리스트 지식인들 사이에서 반란의 가능성을 점점 더 언급하고 있습니다. 제국의 장군은 반란 억제와 이탈리아 반도의 확보를 위한 선전 운동을 제안했습니다."
 
 AUS_italy_exploit:0 "이탈리아 공격"
 AUS_italy_exploit_desc:0 "우리의 침공 동안, 이탈리아의 많은 국가 산업은 파괴되었거나, 민간에게 매각되었습니다. 제국 경제장관의 새로운 보고서는 이탈리아 산업에 우리에게 이익이 될 많은 부분을 발견했으며, 경찰과 군대가 그것들을 오스트리아를 위해 압류할것을 제안했습니다."
 
 AUS_transcarpathian_railway:0 "카르파티아 횡단 철도"
-AUS_transcarpathian_railway_desc:0 "제국의 먼 끝에 도달하는 것은 지난 20 년간 어려운 일이었으며, 헝가리는 철도 네트워크를 현대화하는 것을 거부해왔습니다. 이제 우리가 다시 그들을 통제 할 수있게되었으므로,  카르파티아를 경유하는 고속철도를 건설하는 오래된 계획을 구현하십시오."
+AUS_transcarpathian_railway_desc:0 "제국의 먼 끝에 도달하는 것은 지난 20년간 어려운 일이었으며, 헝가리는 철도 네트워크를 현대화하는 것을 거부해왔습니다. 이제 우리가 다시 그들을 통제 할 수있게되었으므로,  카르파티아를 경유하는 고속철도를 건설하는 오래된 계획을 구현하십시오."
 
-AUS_bohemian_lands:0 "보헤미아 인프라 확장"
+AUS_bohemian_lands:0 "보헤미아 기반시설 확장"
 AUS_bohemian_lands_desc:0 "우리와 독일 간의 주요 국경 지역으로서 도로와 철도 시스템은 잘 유지되어 있고 육군을 수송하기에 충분할 정도로 커야합니다. 전쟁 후 많은 기계화가 진행된 현재, 보헤미아의 도로 및 철도들은 몇개 정도를 제외하면 체코 반군들을 진압하는데 아무런 도움도 되지 못하고 있습니다."
 
-AUS_bohemian_resources:0 "프라하 철광산 확장"
+AUS_bohemian_resources:0 "프라하 철광 확장"
 AUS_bohemian_resources_desc:0 "프라하가 새로운 중앙 정부의 통제를 받으면서, 도시의 철강 생산량이 원래의 생산량과는 거리가 멀다는 것이 분명해졌습니다. 프라하 철광산에 보조금을 지원하려는 새로운 계획이 Kaiserrat에 의해 떠돌았으며 황제와 제국 행정부의 주의를 끌었습니다."
 
 AUS_hungarian_lands:0 "헝가리 산업 재건축"
-AUS_hungarian_lands_desc:0 "헝가리는 주로 농촌 국가이지만, 서쪽에는 민간 산업이 많았습니다. 불행히도 대부분의 전쟁이 일어 났으며 파괴되었습니다. 전쟁으로 파괴된 부다페스트는 제국 정부가 전쟁으로 파괴된 지역을 예전의 영광으로 되돌리기 위한 노력의 중심이 될 것입니다."
+AUS_hungarian_lands_desc:0 "헝가리는 주로 농업 국가이지만, 서쪽에는 민간 산업이 많았습니다. 그러나 불행히도 이들 중 대부분이 전쟁에 의해 파괴되었습니다. 전쟁으로 파괴된 부다페스트는 제국 정부가 전쟁으로 파괴된 지역을 예전의 영광으로 되돌리기 위한 노력의 중심이 될 것입니다."
 
 AUS_extend_hungarian_airbases:0 "헝가리의 하늘"
 AUS_extend_hungarian_airbases_desc:0 "헝가리는 광활한 나라입니다. 특히 루마니아와 발칸 지역의 새로운 위협에 신속히 대처하기는 어렵습니다. 전국의 새로운 비행장 건설은 문제를 해결할뿐만 아니라 지역 경제를 지원하고, 전체적인 재건 노력을 지원할 것입니다."
@@ -407,32 +412,32 @@ AUS_claim_romanian_lands:0 "루마니아 정복"
 AUS_claim_romanian_lands_desc:0 "루마니아의 코르넬리우 코드레아누 정권은 이 지역의 대규모 루마니아 공동체를 근거로 트란실바니아와 우리 동부 대부분의 지역을 주장했습니다. 하지만 현재의 정치적 불안정으로 인해 루마니아 군대는 약화되었고, 이제 황제를 위해 모든 루마니아와 루마니아인을 요구할때입니다!"
 
 AUS_claim_silesia:0 "실레지아 재정복"
-AUS_claim_silesia_desc:0 "실레지아는 1742 년 오스트리아 계승 전쟁에서 프로이센에 의해 점령당했고, 거의 200 년 동안 오스트리아 - 헝가리의 과거의 산업 중심지에 머물렀습니다. 독일이 특히 불안정한 지금은 우리의 것을 다시 찾을 수있는 좋은 기회입니다."
+AUS_claim_silesia_desc:0 "실레지아는 1742년 오스트리아 왕위 계승 전쟁에서 프로이센에 의해 점령당했고, 거의 200년 동안 오스트리아-헝가리의 과거의 산업 중심지에 머물렀습니다. 독일이 특히 불안정한 지금은 우리의 것을 다시 찾을 수있는 좋은 기회입니다."
 
 AUS_the_new_Empire:0 "더 위대한 오스트리아 제국"
-AUS_the_new_Empire_desc:0 "오스트리아는 단순히 지리적 영역이나 국가 일뿐만 아니라 유럽을 통치 할 권한을 부여받은 거룩한 카톨릭 제국에 대한 믿음의 표현과 생각이었습니다. 수세기 동안 우리의 권위는 내외부에서 도전을 받아 왔지만 우리의 제국은 세계에 군림하는 오스트리아의 운명을 위해 계속 존속 해 왔습니다."
+AUS_the_new_Empire_desc:0 "오스트리아는 단순히 지리적 영역이나 국가의 개념이 아니라, 유럽을 통치할 정당한 권한을 부여받은 거룩한 가톨릭 제국에 대한 신앙과 행동 그 자체였습니다. 수세기 동안 우리의 권위는 내외부에서 도전을 받아 왔지만 우리의 제국은 세계에 군림하는 오스트리아의 운명을 위해 계속 존속해 왔습니다."
 
 ### Status Quo branch
 
 AUS_cisleithanian_development_scheme:0 "시슬라이타니아(오스트리아령) 개발 계획"
-AUS_cisleithanian_development_scheme_desc:0 "시스라이타니아 개발 계획은 단순히 헝가리가 우리를 추월하는 것을 차단하는것뿐만 아니라, 시스라이타니아의 여러 지역을 서로 더 가깝게 만들고 경제적으로 제국의 발전된 지역과 동등한 수준으로 끌어 올리는 것을 목표로합니다."
+AUS_cisleithanian_development_scheme_desc:0 "시스라이타니아 개발 계획은 단순히 헝가리가 우리를 추월하는 것을 차단하는것뿐만 아니라, 시스라이타니아의 여러 지역을 서로 더 가깝게 만들고 경제적으로 제국의 발전된 지역과 동등한 수준으로 끌어 올리는 것을 목표로 합니다."
 
 AUS_the_illyrian_suedbahn:0 "일리리아 지역과 쉬드반철도 연결"
-AUS_the_illyrian_suedbahn_desc:0 "이미 트리에스테를 향해 확장 중이던 쉬드반(Südbahn,오스트리아 남부 철도)철도를 일리리아와 연결하는 것은 쉬운 일이며, 이는 아그람 지역의 통합과 일리리아 해안선의 제국 중공업에 도움을 주는 동시에, 우리 해군 함선 건조를 가속화시켜줄 것입니다."
+AUS_the_illyrian_suedbahn_desc:0 "이미 트리에스테를 향해 확장 중이던 쉬드반(Südbahn,오스트리아 남부 철도)철도를 일리리아와 연결하는 것은 쉬운 일이며, 이는 아그람 지역의 통합과 일리리아 해안선의 제국 중공업에 도움을 주는 동시에, 우리 해군 함선 건조를 가속화시켜 줄 것입니다."
 
 AUS_agram_industrial_complex:0 "아그람 산업 단지"
-AUS_agram_industrial_complex_desc:0 "아그람, 또는 자그레브는 일리리아의 수도로 불과 10여 년 전 만들어졌으며, 오스트리아 국경에 가까운 도시이기 때문에 편의상 선택한 것이였지만 모든 일리리아인에게 더 큰 가치를 부여하는 대규모 산업 단지 계획이 새로 제안되었습니다."
+AUS_agram_industrial_complex_desc:0 "아그람, 또는 자그레브는 일리리아의 수도로 불과 10여 년 전 건설되었습니다. 이곳은 오스트리아 국경에 가까운 도시이기 때문에 편의상 선택된 수도였지만, 모든 일리리아인에게 더 큰 가치를 부여하는 대규모 산업 단지 계획이 새로 제안되었습니다."
 
 AUS_adriatic_ports:0 "아드리아 항구"
-AUS_adriatic_ports_desc:0 "오스트리아의 꿈 중 하나는 항상 아드리아 해를 지배하는 것이 었습니다. 이탈리아가 크게 약화된 현재 일리리아 해안선이 더 많은 부두와 해군 기지를 건설 할 준비가 되면 이 꿈을 실현할 수 있습니다."
+AUS_adriatic_ports_desc:0 "오스트리아의 꿈 중 하나는 항상 아드리아 해를 지배하는 것이었습니다. 이탈리아가 크게 약화된 지금, 일리리아 해안선에 더 많은 조선소와 해군 기지를 건설할 준비가 된다면 우리는 마침내 이 꿈을 실현할 수 있을 것입니다."
 
 AUS_northern_railway_galicia:0 "갈리시아 북부 철도"
-AUS_northern_railway_galicia_desc:0 "북부 철도의 건설은 모라비아에서 출발하여 크라카우를 거쳐 람버그 및 추후 중요한 산업 목표를 향해 계속 될 것입니다."
+AUS_northern_railway_galicia_desc:0 "북부 철도의 건설은 모라비아에서 출발하여 크라카우를 거쳐 람버그 및 추후 중요한 산업 목표를 향해 계속될 것입니다."
 
 AUS_galician_oil:0 "석유 시추"
-AUS_galician_oil_desc:0 "우리는 동부 갈리시아에 석유가 매장되어 있다는 사실을 발견했습니다. 이 석유를 추출하면 제국의 다소 먼 지역에서 더 많은 산업을 건설할 수 있게 될 것입니다."
+AUS_galician_oil_desc:0 "우리는 동부 갈리시아에 석유가 매장되어 있다는 사실을 발견했습니다. 이 석유를 시추한다면 제국의 다소 먼 지역에서도 산업을 활성화시킬 수 있게 될 것입니다."
 
-AUS_northern_railway_bohemia:0 "보헤미아 북부철도"
+AUS_northern_railway_bohemia:0 "보헤미아 북부 철도"
 AUS_northern_railway_bohemia_desc:0 "산업화된 갈리시아가 제국 경제에 통합 될 때 헝가리 철도 체계가 이와 부합하지 않는 시설을 가지고 있는것을 감안할 때, 제국 철도부는 카르파티아 분지를 우회하는 계획을 세웠습니다. 이는 갈라시아 땅에 도달하기 위해 모라비아를 통한 견고한 연결부터 시작될것입니다."
 
 AUS_morava_industrial_park:0 "모라비아 공업 단지"
@@ -448,27 +453,27 @@ AUS_the_kk_Army:0 "제국 육군"
 AUS_the_kk_Army_desc:0 "다양한 소수 민족 언어로 이끌어 갈 새로운 연대를 세우고 모병 선전을 함으로써 우리는 상설 군대의 인력을 크게 늘려야합니다."
 
 AUS_kk_Administrative_Reform:0 "제국 행정 개혁"
-AUS_kk_Administrative_Reform_desc:0 "빈에서 개혁된 것은 프라하, 크라쿠프, 자그레브에서도 개혁되어야 합니다. 이러한 생각에 기초하여 우리는 현재 새로운 지방 행정 시스템을 개발 중입니다."
+AUS_kk_Administrative_Reform_desc:0 "빈에서 개혁된 것은 프라하, 크라코우, 자그레브에서도 개혁되어야 합니다. 이러한 생각에 기초하여 우리는 현재 새로운 지방 행정 시스템을 개발 중입니다."
 
-AUS_direct_rule_from_Vienna:0 "중앙 집권화"
+AUS_direct_rule_from_Vienna:0 "중앙집권화"
 AUS_direct_rule_from_Vienna_desc:0 "현재 우리의 속국들은 빈에 더 가까워지고 있기 때문에 새로운 속국을 어떻게 재-통합 할 것인가에 대한 계획을 세우고 있습니다."
 
 AUS_kk_Education_Reform:0 "제국 교육 개혁"
-AUS_kk_Education_Reform_desc:0 "1920 년대 오스트리아 Proper에서 일어난 다양한 교육 제도 개혁을 시스라이타니아(제국 서부)의 다른 주들로 가져옴으로써 우리는 우리 속국들의 학생들을 보다 효율적으로 양성 할 수있게되었고, 통합된 오스트리아에 대한 아이디어에 더욱 개방적으로 다가갈 수 있게 되었습니다.
+AUS_kk_Education_Reform_desc:0 "1920년대 오스트리아 Proper에서 일어난 다양한 교육 제도 개혁을 시스라이타니아(제국 서부)의 다른 주들로 가져옴으로써 우리는 우리 속국들의 학생들을 보다 효율적으로 양성 할 수있게되었고, 통합된 오스트리아에 대한 아이디어에 더욱 개방적으로 다가갈 수 있게 되었습니다.
 
 AUS_the_kk_Identity:0 "제국의 정체성"
-AUS_the_kk_Identity_desc:0 "오스트리아 - 헝가리 제국은 종종 같은 가족에 의해 통치되는 독립 국가들의 덩어리로 묘사되어 왔습니다. 그들이 제국을 마음껏 조롱하고 있는 지금, 우리는 황제를 믿어야합니다."
+AUS_the_kk_Identity_desc:0 "오스트리아 - 헝가리 제국은 종종 같은 가문에 의해 통치되는 독립 국가들의 덩어리로 묘사되어 왔습니다. 그들이 제국을 마음껏 조롱하고 있는 지금, 우리는 황제를 믿어야 합니다."
 
 AUS_drastic_measures:0 "긴박한 상황의 과감한 조치"
-AUS_drastic_measures_desc:0 "진행중인 전쟁으로 중앙 정부가 어려워졌고 지방 정부는 혼란에 빠졌습니다. 우리는 속국들을 직접 통제해야합니다."
+AUS_drastic_measures_desc:0 "현재 수행 중인 전쟁으로 인해 중앙 정부는 고역을 겪고 있으며 지방 정부는 혼란에 빠졌습니다. 우리는 속국들을 직접 통제해야 합니다."
 
-AUS_still_their_king:0 "우리는 아직도 그들의 왕이다"
-AUS_still_their_king_desc:0 "헝가리는 그들이 원하는 것을 주장 할 수 있고, 우리는 여전히 그들의 종주국이며, 현재 우리는 전쟁과 외부 위협에 처해있다. 어떻게 끝날지라도, 우리는 지금 당장은 이 차이점은 내버려둘 필요가있다."
+AUS_still_their_king:0 "우리는 여전히 그들의 왕이다"
+AUS_still_their_king_desc:0 "헝가리는 그들이 원하는 권리를 주장하고 있지만, 우리는 여전히 그들의 종주국이며, 현재 우리는 전쟁 등 외부로부터의 위협에 처해있습니다. 나중은 일단 나중에 생각하고, 지금 당장은 차이점을 제쳐 둡시다."
 
-AUS_cisleithania_centralised:0 "시슬라이타니아(오스트리아령)의 중앙 집권화"
+AUS_cisleithania_centralised:0 "시슬라이타니아도 함께"
 AUS_cisleithania_centralised_desc:0 "우리의 계속되는 개혁으로 제국이 한데 모이고 있습니다. 물론 헝가리는 여전히 저항하고 있지만 오스트리아는 그 어느 때보 다 더 연합되어 있다는 것을 부정 할 수는 없습니다."
 
-AUS_ausgleich_1947:0 "1947 년의 대타협 재협상"
+AUS_ausgleich_1947:0 "1947년의 대타협 재협상"
 AUS_ausgleich_1947_desc:0 "대타협이 다시 한 번 재협상 될 예정이며, 이번에는 오스트리아 제국의 절반이 지난 협상보다 훨씬 더 우위에 있습니다. 우리는 지금 우리의 의지를 그들에게 강요할 것입니다."
 
 AUS_dualism_restored:0 "복원된 이원론"
@@ -485,7 +490,7 @@ AUS_austro-marxism_desc:0 "제국의 옛 국경과 옛 행정부는 불합리하
 #The Austromarxist principle of National Personal Autonomy describes a way of gathering the geographically divided members of the same nation to "organize nations not in territorial bodies but in simple association of persons", thus radically disjoining the nation from the territory and making of the nation a non-territorial association."
 
 AUS_united_states:0 "동등한 동맹"
-AUS_united_states_desc:0 "대 오스트리아 합중국(Vereinigte Staaten von Groß-Österreich)은 오스트리아의 프란츠 페르디난트 대공을 둘러싼 한 그룹의 학자들에 의해 고안된 제안이었습니다. 이 제안은 1906 년 변호사이자 정치가인 아우렐 포포비치에 의해 고안되었고, 오스트리아와 헝가리를 연방 정부화하여 광범위한 민족적, 민족주의적인 긴장을 해결할 수 있는 데에 집중했습니다."
+AUS_united_states_desc:0 "대 오스트리아 합중국(Vereinigte Staaten von Groß-Österreich)은 오스트리아의 프란츠 페르디난트 대공을 둘러싼 한 그룹의 학자들에 의해 고안된 제안이었습니다. 이 제안은 1906년 변호사이자 정치가인 아우렐 포포비치에 의해 고안되었고, 오스트리아 - 헝가리를 연방화하여 광범위한 국민주의적 긴장을 해결할 수 있는 데에 집중했습니다."
 
 AUS_decentralised_development_scheme:0 "분산된 개발 계획"
 AUS_decentralised_development_scheme_desc:0 "이제 더이상 우리가 지배하면서 얻는 이익이 당연하다고 주장할 수 없습니다. 우리는 개발을 지원하는 새로운 계획으로 국가의 모든 구성원들의 충성을 확보해야 합니다. 우리의 부의 결실은 모두에게 분배되어야 합니다."
@@ -509,13 +514,13 @@ AUS_transformation_of_nature:0 "자연의 변신"
 AUS_transformation_of_nature_desc:0 "우리의 노력은 단지 인류의 문제를 넘어, 자연 그 자체의 구조에 들어가야 합니다. 만약 우리가 새롭게 활력을 되찾은 국가를 더 발전시키려면 우리는 무슨 일이든 해야 하고, 심지어 우리의 아름다운 자연을 더럽혀야 합니다."
 
 AUS_decentralised_resources:0 "자원 탐사"
-AUS_decentralised_resources_desc:0 "우리 나라는 굶주렸으며, 이는 땅의 피로 채워야 합니다. 갈리치아는 상대적으로 낙후되어 있을 수도 있지만, 미래에 우리 나라에 전력을 공급할 풍부한 석유 공급량을 갖는 축복을 받았습니다. 이에 도달하는 데 필요한 것은 의지뿐입니다."
+AUS_decentralised_resources_desc:0 "우리나라는 굶주렸으며, 이는 땅의 피로 채워야 합니다. 갈리치아는 상대적으로 낙후되어 있을 수도 있지만, 미래에 우리나라에 전력을 공급할 풍부한 석유 공급량을 갖는 축복을 받았습니다. 이에 도달하는 데 필요한 것은 의지뿐입니다."
 
 AUS_am_stabilising_the_country:0 "국가 안정화"
 AUS_am_stabilising_the_country_desc:0 "너무 오랫동안 우리의 '국가' 는 단합되지 못한 빈의 거대한 얼간이들이었습니다. 여전히 노골적인 연방정부의 노력과 함께, 우리는 우리의 모든 정부의 노력이 이 결합을 유지하는 것에 초점을 맞추도록 확실히 해야 합니다."
 
-AUS_am_followup_2:0 "최악은 끝났다."
-AUS_am_followup_2_desc:0 "비록 힘들었지만, 우리 나라는 지난 몇달간 명백하게 회복했습니다. 우리 나라가 갑작스런 연방화의 충격에서 얼마나 빨리 회복되었는지는 가장 낙관적인 지도자들조차도 놀라게 했습니다. 그럼에도 불구하고, 아직도 불안정이 가라앉기 까지는 갈 길이 있습니다."
+AUS_am_followup_2:0 "최악은 끝났다"
+AUS_am_followup_2_desc:0 "비록 힘들었지만, 우리나라는 지난 몇달간 명백하게 회복했습니다. 우리나라가 갑작스런 연방화의 충격에서 얼마나 빨리 회복되었는지는 가장 낙관적인 지도자들조차도 놀라게 했습니다. 그럼에도 불구하고, 아직도 불안정이 가라앉기 까지는 갈 길이 있습니다."
 
 AUS_am_followup_3:0 "대타협의 끝"
 AUS_am_followup_3_desc:0 "우리는 너무 오랫동안 대타협으로 알려진 이 비웃음거리를 견뎌 왔습니다. 강력하고 통일된 국가로서 미래를 위해 싸우려면 이는 끝나야 합니다. 비록 이 일로 어둠 속으로 뛰어들지라도, 이 복잡한 과정은 결과가 어떻든 멈춰야 합니다."
@@ -524,7 +529,7 @@ AUS_am_followup_4:0 "헝가리의 지위 박탈"
 AUS_am_followup_4_desc:0 "고집스러운 헝가리인들에게 대항하여 결집해 온 연합 전선이 마침내 성공했습니다. 우리나라의 위대함이 모든 사람들에게 점점 더 분명해졌기에 그들은 더 이상 피할 수 없는것을 견딜 수 없습니다. 심지어 자랑스러운 헝가리도 이익을 위해 줄을 섰습니다."
 
 AUS_am_followup_5:0 "세계 속으로"
-AUS_am_followup_5_desc:0 "우리 나라는 수십년에 걸친 혼란과 제국 내의 논쟁 끝에 마침내 내부 분열을 극복했습니다. 우리가 불과 몇년 만에 이룬 것은 믿을 수 없으며, 마침내 평화와 화합의 열매를 맛 볼 때입니다."
+AUS_am_followup_5_desc:0 "우리나라는 수십 년에 걸친 혼란과 제국 내의 논쟁 끝에 마침내 내부 분열을 극복했습니다. 우리가 불과 몇 년 만에 이룬 것은 믿을 수 없으며, 마침내 평화와 화합의 열매를 맛 볼 때입니다."
 
 AUS_us_approaching_the_autonomies:0 "자치에 접근"
 AUS_us_approaching_the_autonomies_desc:0 "과거의 분열을 극복하려면 더 이상 단순히 종속국이 아닌 진정한 국가 연합의 일원으로 그들을 대하는 것이 필수적입니다."
@@ -539,12 +544,12 @@ AUS_us_united:0 "이름 뿐이 아닌 연방"
 AUS_us_united_desc:0 "오스트리아에는 더 이상 단합 조무사가 아닌, 진정한 단합이 있습니다. 한때 말다툼과 내분이 있던 곳에는 이제 협정이 있습니다. 우리는 이제 진정한 연방입니다."
 
 AUS_us_looking_outwards:0 "외부를 향하여"
-AUS_us_looking_outwards_desc:0 "과거의 분열을 제쳐두고, 이제 연방은 더 큰 문제에 눈을 돌릴 수 있습니다. 우리는 더 이상 내부의 논쟁에 시달리지 않을 것이며, 대신 함께 세계를 직면할 것 입니다."
+AUS_us_looking_outwards_desc:0 "과거의 분열을 제쳐두고, 이제 연방은 더 큰 문제에 눈을 돌릴 수 있습니다. 우리는 더 이상 내부의 논쟁에 시달리지 않을 것이며, 대신 함께 세계를 직면할 것입니다."
 
 ### Foreign Branch
 
 AUS_protector_of_the_balkans:0 "발칸 반도의 보호자"
-AUS_protector_of_the_balkans_desc:0 "세계대전은 방대한 오스트리아의 영향권에서 발칸 반도를 떠나게 했습니다. 안타깝게도, 우리는 지난 몇년 동안 다른 것들에 주력해야 했습니다. 우리는 이제 이것을 바로잡고 다시 한번 누가 이 땅의 주인인지 보여 줄 것입니다."
+AUS_protector_of_the_balkans_desc:0 "세계대전은 방대한 오스트리아의 영향권에서 발칸 반도를 떠나게 했습니다. 안타깝게도, 우리는 지난 몇 년 동안 다른 것들에 주력해야 했습니다. 우리는 이제 이것을 바로잡고 다시 한번 누가 이 땅의 주인인지 보여 줄 것입니다."
 
 AUS_potb_help_romania:0 "루마니아에 개입"
 AUS_potb_help_romania_desc:0 "코드레아누의 정권은 무너지는 중이고 루마니아는 내전으로 찢어지고 있습니다. 하지만 우리가 루마니아에 개입한다면 전세를 역전시킬 수도 있을 것입니다."
@@ -564,16 +569,13 @@ AUS_potb_serbia_2:0 "남부 슬라브인 문제"
 AUS_potb_invite_bulgaria:0 "불가리아의 옛 친구들"
 AUS_potb_invite_bulgaria_desc:0 "불가리아의는 지난 전쟁에서 우리가 세르비아의 저항을 억제하는데 도움을 주었고, 적어도 우리는 그렇게 생각합니다. 전쟁 후 중앙집권체제의 붕괴는 세르비아인들이 우리의 손아귀에서 벗어나게 해주었습니다. 불가리아는 다시 한번 발칸반도의 평화와 안정을 회복하는 열쇠입니다."
 
-AUS_syndie_threat:0 "생디칼리스트의 위협"
-AUS_syndie_threat_desc:0 "프랑스와 이탈리아인들은 세계에 혼란을 가져오는 공동의 적입니다. 비록 우리가 독일을 싫어할지 몰라도, 우리는 독일 편에 서서 다시 한번 싸워야 합니다."
-
 ### Parties ###
-AUS_totalist_party:0 "전체주의 인민 회의"
-AUS_totalist_party_long:0 "전체주의 인민 회의"
-AUS_syndicalist_party:0 "사회주의 노동자 평의회"
-AUS_syndicalist_party_long:0 "사회주의 노동자 평의회"
-AUS_radical_socialist_party:0 "2½ 인터내셔널"
-AUS_radical_socialist_party_long:0 "사회주의 노동동맹"
+AUS_totalist_party:0 "전체주의 인민회의"
+AUS_totalist_party_long:0 "전체주의 인민회의"
+AUS_syndicalist_party:0 "사회주의 노동위원회"
+AUS_syndicalist_party_long:0 "사회주의 노동위원회"
+AUS_radical_socialist_party:0 "2½. 인터내셔널"
+AUS_radical_socialist_party_long:0 "사회주의 작업공동체당"
 AUS_social_democrat_party:0 "사회민주노동자당"
 AUS_social_democrat_party_long:0 "사회민주노동자당"
 AUS_social_liberal_party:0 "자유운동"
@@ -597,11 +599,11 @@ phoenix_fighters:0 "푀닉스 전투기 공장"
 
 ### Events ###
 austria.1.t:0 "1936년 오스트리아의 상황"
-austria.1.d:0 "세계 대전의 승리자들 사이에 서 있었음에도 불구하고, 전쟁은 제국 내에서 문화, 계급 및 이념의 분열이 분명하게 드러나게 했으며 전쟁이 끝난 이후에도 내부의 불안은 계속되었습니다. \n\n카를 황제는 다민족 오스트리아 - 헝가리 제국을 20 세기에 생존할 수 있도록 개혁을 시도하다가 암살된 프란츠 페르디난트의 발자취를 따라 일련의 대규모 개혁을 시작했습니다. 하지만, 그의 노력은 제국의 헝가리계 귀족들에 의해 크게 방해받았고, 이로 인해 그의 연방화 계획들은 제국의 시스라이타니아(제국의 오스트리아 영토) 쪽에서만 천천히 진행되었습니다. \n\n그러나 많은 사람들은 오스트리아에 아직 희망이 있다고 생각합니다. 지난 수십년동안 제국은 힘들었지만, 그 노력은 보상받기 시작했습니다. 이제 연방국인 시스라이타니아 오스트리아는 진정되었습니다. 하지만 트란스라이타니아(제국의 헝가리 영토)는 그렇지 않습니다. 헝가리인들이 라이타강을 넘어 자유를 바라보며 자신들도 그러한 자치를 누리기를 원하고 있기 때문에, 카르파티아 분지가 계속해서 마자르의 손에 남아있을 가능성은 없습니다. 개혁이 헝가리에서 이뤄질지의 여부는 오직 황제만이 분명히 알고 있습니다."
+austria.1.d:0 "세계대전의 승리자들 사이에 서 있었음에도 불구하고, 전쟁은 제국 내에서 문화, 계급 및 이념의 분열이 분명하게 드러나게 했으며 전쟁이 끝난 이후에도 내부의 불안은 계속되었습니다. \n\n카를 황제는 다민족 오스트리아 - 헝가리 제국을 20 세기에 생존할 수 있도록 개혁을 시도하다가 암살된 프란츠 페르디난트의 발자취를 따라 일련의 대규모 개혁을 시작했습니다. 하지만, 그의 노력은 제국의 헝가리계 귀족들에 의해 크게 방해받았고, 이로 인해 그의 연방화 계획들은 제국의 시스라이타니아(제국의 오스트리아 영토) 쪽에서만 천천히 진행되었습니다. \n\n그러나 많은 사람들은 오스트리아에 아직 희망이 있다고 생각합니다. 지난 수십 년 동안 제국은 힘들었지만, 그 노력은 보상받기 시작했습니다. 이제 연방국인 시스라이타니아 오스트리아는 진정되었습니다. 하지만 트란스라이타니아(제국의 헝가리 영토)는 그렇지 않습니다. 헝가리인들이 라이타강을 넘어 자유를 바라보며 자신들도 그러한 자치를 누리기를 원하고 있기 때문에, 카르파티아 분지가 계속해서 마자르의 손에 남아있을 가능성은 없습니다. 개혁이 헝가리에서 이뤄질지의 여부는 오직 황제만이 분명히 알고 있습니다."
 austria.1.a:0 "오스트리아는 세계의 마지막이 될 것이다 (Austria erit in orbe ultima)."
 
 aus.elections.1.t:0 "1936년 오스트리아 선거"
-aus.elections.1.d:0 "연방 선거가 시작되고 "오스트리아 선거"가 제국의 독일어권 부분으로 축소 되었기 때문에 두 개의 주요 정당이 오스트리아 정치를 지배했습니다 : CS(기독사회당)와 SDAP(사회민주노동자당)이 그 두 정당입니다. \n\n이번 선거 역시 치열합니다. 사회민주노동자당과 기독사회당은 현재 진행중인 경제 위기를 다루기위한 대책이 매우 다릅니다. 사회민주노동자당의 대책은 실업 수당과 정부 개입에 초점을 맞추어 노동자의 곤경을 완화하는 데 중점을 둡니다. 반면에 기독사회당은 엄격한 긴축에 초점을 맞추었습니다."
+aus.elections.1.d:0 "연방 선거가 시작되고 "오스트리아 선거"가 제국의 독일어권 부분으로 축소 되었기 때문에 두 개의 주요 정당이 오스트리아 정치를 지배했습니다 : 기독사회당(CS)과 사회민주노동자당(SDAP)이 그 두 정당입니다. \n\n이번 선거 역시 치열합니다. 사회민주노동자당과 기독사회당은 현재 진행중인 경제 위기를 다루기위한 대책이 매우 다릅니다. 사회민주노동자당의 대책은 실업 수당과 정부 개입에 초점을 맞추어 노동자의 곤경을 완화하는 데 중점을 둡니다. 반면에 기독사회당은 엄격한 긴축에 초점을 맞추었습니다."
 aus.elections.1.a:0 "국민들이 결정할 것이다."
 
 aus.elections.2.t:0 "학교 설립 & 사회민주노동자당 집회"
@@ -618,7 +620,7 @@ aus.elections.4.d:0 "소규모 자본, 카톨릭 교회, 보수적인 시골 사
 aus.elections.4.a:0 "그가 원한다면 ..."
 aus.elections.4.b:0 "제국 황가는 그런 사소한 것들에 참혀하지 않는다."
 
-aus.elections.5.t:0 "기독사회당의 사냥회가 성공적으로 이루어지다."
+aus.elections.5.t:0 "기독사회당의 사냥회가 성공적으로 이루어지다"
 aus.elections.5.d:0 "사냥에 이어 여러 잔치가 열렸습니다. 유명한 기독사회당 인물들과의 라디오 인터뷰가 진행되었는데, 황태자 오토와의 인터뷰도 녹음되었습니다. 황태자가 현재 당과 관련되어 있고, 당에 대한 가장 헌신적인 신하들의 지지가 증가했기 때문에 이것이 의도적인 행위처럼 보입니다."
 aus.elections.5.a:0 "이것들이 그들이 사냥하고있는 것인가?"
 
@@ -626,7 +628,7 @@ aus.elections.6.t:0 "사냥 사고: 오토 황태자의 부상?"
 aus.elections.6.d:0 "모든 방관자가 사고로 증언하였습니다만, 저명한 기독사회당 정치가의 아들만의 사냥용 소총은 오발 사고를 냈고, 이 과정에서 오스틴 왕자의 오른쪽 다리에 상처가 났습니다. 이 사건에서 황태자가 중상을 입지는 않았지만, 미디어는 이미 음모론을 퍼트리고 있습니다."
 aus.elections.6.a:0 "그들은 내 황태자를 죽이려고 하는 것인가?"
 
-aus.elections.10.t:0 "기독사회당이 선거에서 승리하다."
+aus.elections.10.t:0 "기독사회당이 선거에서 승리하다"
 aus.elections.10.d:0 "선거에 대한 최종 집계가 완료되었습니다. 매우 작은 차이였지만 시골에서의 압도적인 승리로 기독사회당이 승리자가 되었습니다."
 aus.elections.10.a:0 "오스트리아는 기독사회당(CS)이 통치한다."
 
@@ -662,16 +664,16 @@ austria.8.b:0 "전쟁으로 해결할 수있다."
 austria.8.c:0 "우리는 이문제에 관여하지 않을것이다."
 
 austria.9.t:0 "독일의 최후 통첩"
-austria.9.d:0 "독일 자본가 개들은 그들의 광기에 미쳐, 일련의 요구 사항을 발표함으로써 우리 신생국(주)을 무너트리로 결정했습니다. 만약 받아 들여지면 우리 나라가 독일의 괴뢰국 밖에 되지 않을 것입니다. 우리는 무엇을 해야할까요?"
+austria.9.d:0 "독일 자본가 개들은 그들의 광기에 미쳐, 일련의 요구 사항을 발표함으로써 우리 신생국(주)을 무너트리로 결정했습니다. 만약 받아 들여지면 우리나라가 독일의 괴뢰국 밖에 되지 않을 것입니다. 우리는 무엇을 해야할까요?"
 austria.9.a:0 "프랑스 코뮌이 우리를 도울 것입니다."
 austria.9.b:0 "우리는 선택의 여지가 없다."
 
-austria.10.t:0 "오스트리아 생디칼리즘은 위험에 처해있다."
+austria.10.t:0 "위험에 처한 오스트리아 생디칼리즘"
 austria.10.d:0 "신생 오스트리아 생디칼리즘 국가는 독일 제국의 위협을 받고 있습니다. 대부분의 자코뱅인들은 독일군과의 조기 전쟁을 감수하더라도 즉각적인 행동을 요구하고 있습니다. 군대의 많은 구성원들과 많은 온건한 소렐주의자들은 독일 제국에 맞설때가 아니라고 주장합니다."
 austria.10.a:0 "베를린에 최후 통첩을 보낸다."
 austria.10.b:0 "우리는 독일과의 전쟁의 위험을 감수 할 수 없다."
 
-austria.11.t:0 "생디칼리즘이 확립되었다."
+austria.11.t:0 "생디칼리즘이 확립되다"
 austria.11.d:0 "마침내 자본주의의 억압이 없어지면서, 오스트리아는 마침내 진정한 생디칼리즘 국가가 될 수 있지만 미래는 어떻게 될까요?"
 austria.11.a:0 "우리는 영원히 군림할 것이다."
 
@@ -688,9 +690,9 @@ austria.14.t:0 "오스트리아의 항복"
 austria.14.d:0 "외교적 지원이 없다면 오스트리아 정부는 독일의 모든 요구를 받아 들일 수밖에 없습니다. 제국은 제국의 안보에 대한 또 다른 위협을 피했고 질서가 회복되었습니다."
 austria.14.a:0 "마침내."
 
-austria.15.t:0 "우리의 최후 통첩은 무시되었습니다"
+austria.15.t:0 "우리의 최후 통첩이 무시당하다"
 austria.15.d:0 "오만한 독일 제국은 우리의 최후 통첩에 답하지도 않고 현재 독립 생디칼리즘 오스트리아에 대한 외교적, 군사적 행동을 준비하고 있습니다. 우리가 오스트리아를 보호할 수있는 유일한 방법은 독일 제국주의자들과 그들의 개들에게 전쟁을 선포하는 것입니다."
-austria.15.a:0 "이것은 너무 위험하다."
+austria.15.a:0 "이건 너무 위험하다."
 austria.15.b:0 "그렇다면 전쟁이다!"
 
 austria.16.t:0 "오스트리아의 미래"
@@ -704,7 +706,7 @@ austria.17.d:0 "독일은 우리를 제국의 일부로 만들기로 결정했�
 austria.17.a:0 "우리는 받아들여야 한다."
 
 austria.18.t:0 "오스트리아의 수호자"
-austria.18.d:0 "독일은 우리를 제국의 일부로 만들기로 결정했습니다. 우리는 지금부터 독일의 보호국이 될 것입니다."
+austria.18.d:0 "독일은 우리를 제국 조약의 일부로 만들기로 결정했습니다. 우리는 지금부터 독일의 보호국이 될 것입니다."
 austria.18.a:0 "우리는 받아들여야 한다."
 
 austria.19.t:0 "오스트리아가 복원되다"
@@ -713,7 +715,7 @@ austria.19.a:0 "멋지군"
 
 austria.20.t:0 "공화국 또는 군주국"
 austria.20.d:0 "옛 통치의 시대는 끝났고 새로운 정부가 필요합니다. 미래는 어떻게 될까요?"
-austria.20.a:0 "군주제의 귀환"
+austria.20.a:0 "군주정을 복원하자"
 austria.20.b:0 "우리는 공화국이 될 것이다."
 
 austria.21.t:0 "트란실바니아의 운명"
@@ -722,27 +724,27 @@ austria.21.a:0 "부카레스트에 최후 통첩을 보내라."
 austria.21.b:0 "우리는 더 이상 그 지역이 필요하지 않다."
 
 austria.22.t:0 "트란실바니아의 운명"
-austria.22.d:0 "오늘 우리는 헝가리로부터 해방시킨 트란실바니아의 땅을 돌려 줄 것을 요구받았습니다. 우리가 그들의 과도한 요구를 거부하면 그들은 즉각적인 침략을 시도할 것입니다. 우리는 어떻게 대응해야 합니까?"
-austria.22.a:0 "받아들여라."
+austria.22.d:0 "오늘, 헝가리는 우리가 해방시켰던 트란실바니아 영토를 반환할 것을 요구했습니다. 명백히 무리스러운 요구이지만, 우리가 거부한다면 그들은 즉각적인 침략을 시도할 것입니다. 어떻게 대응해야 할까요?"
+austria.22.a:0 "수락하자."
 austria.22.b:0 "전쟁이다."
 
 ### Greater Austrian Empire ###
 
 ### Racial tensions ###
-austria.25.t:0 "신 제국의 민족 분쟁"
-austria.25.d:0 "새로운 오스트리아 제국의 창립 이후 새로 정복 된 지역에서 민족 분쟁이 발생하고 있습니다. 헝가리와 보헤미아는 특히 강한 민족주의 운동의 고향입니다. 우리의 새로운 속국 중 상당수는 오스트리아 제국으로 통합되는것에 만족하지는 않습니다."
+austria.25.t:0 "신 제국의 민족 갈등"
+austria.25.d:0 "새로운 오스트리아 제국의 성립 이후 새로 정복된 지역들에서 국민주의 운동이 발생하고 있습니다. 헝가리와 보헤미아는 특히 강한 국민주의 운동의 고향입니다. 우리의 새로운 속국 중 상당수는 단일 오스트리아 제국으로 통합되는 것을 그다지 달가워하지 않습니다."
 austria.25.a:0 "그들은 적응해야 할 것이다."
 
-austria.26.t:0 "민족 분쟁이 확대됨"
+austria.26.t:0 "민족 갈등이 확대되다"
 austria.26.d:0 "우리는 우리 국민의 문제를 해결하지 못했습니다. 보헤미아 해방 운동은 우리 정부에 반대하는 시위를 조직했습니다. 우리는 개입해야만 했고, 일부 시위대가 체포되었고 경찰관들이 가벼운 부상을 당했습니다. 우리가 행동에 나서지 않는다면 이 지역에서 우리의 통제력을 상실하고 말 것입니다."
 austria.26.a:0 "상황을 개선하겠다고 약속해라."
 
-austria.27.t:0 "민족 분쟁이 확대됨"
+austria.27.t:0 "민족 갈등이 확대되다"
 austria.27.d:0 "오늘날 헝가리 시민은 경비원들에게 소리를 지르며 오스트리아 군대에 몰려 들었다. 그들은 우리 군대에 압도 당했고 체포되었습니다. 다행히 이 사건 중에 아무도 피해를 입지 않았습니다. 상황이 악화되기 전에 이러한 상황을 개선해야합니다."
 austria.27.a:0 "우리는 이 상황을 통제해야 한다..."
 
-austria.28.t:0 "미클로스 호르티"
-austria.28.d:0 "이중제국의 헝가리에서 1868 년에 태어난 미클로스 호르티는 세계대전 동안 제국의 해군에서 복무했고, 제독으로 승진했습니다. 그는 과거 훌륭한 군인이였지만, 최근 개편된 지역에서 그는 헝가리 해방 운동에서 두드러진 역할을 한 것으로 보입니다."
+austria.28.t:0 "미클로시 호르티"
+austria.28.d:0 "이중 제국의 헝가리에서 1868년에 태어난 미클로시 호르티는 세계대전 동안 제국의 해군에서 복무했고, 제독으로 승진했습니다. 그는 과거 훌륭한 군인이였지만, 최근 개편된 지역에서 그는 헝가리 해방 운동에서 두드러진 역할을 한 것으로 보입니다."
 austria.28.a:0 "좋지 않군."
 
 austria.29.t:0 "해방운동의 확대"
@@ -758,7 +760,7 @@ austria.31.t:0 "아스날 봉기"
 austria.31.d:0 "지난 밤 저항 운동가들의 작은 무리들이 아스날(부다페스트의 도시)에 침입했습니다. 우리는 그들이 어떻게했는지 알지 못하지만 이 사건에서 여러 곳의 경비원이 사망했습니다. 아스날 전체가 침략자들에 의해 폐허가 되었습니다."
 austria.31.a:0 "그들은 이것을 후회할 것이다."
 
-austria.32.t:0 "부다페스트 시티 레이드"
+austria.32.t:0 "부다페스트 도시 습격"
 austria.32.d:0 "아스날 침략으로부터 3 일 후 아스날의 무장 봉기 세력이 부다페스트 거리를 행진했습니다. 그들은 헝가리의 독립을 선포합니다. 우리는 무엇을 해야 할까요?"
 austria.32.a:0 "제압하라."
 austria.32.b:0 "그들은 우리를 해칠 수 없다."
@@ -767,35 +769,35 @@ austria.33.t:0 "헝가리 폭동"
 austria.33.d:0 "부다페스트에서의 봉기로부터 며칠 후 헝가리의 몇몇 주들이 오스트리아에서 독립을 선언했습니다. 그들은 무장했고 우리를 공격할 준비가 되었습니다! 우리는 행동해야만 합니다."
 austria.33.a:0 "황제가 우리를 승리로 이끌 것입니다."
 
-austria.50.t:0 "민족 분쟁이 격렬해지다"
+austria.50.t:0 "민족 갈등이 격렬해지다"
 austria.50.d:0 "우리는 이 반란에 부주의했습니다. 여러 그룹이 우리 정부를 공격하기 시작했습니다. 우리는 군대와 민간인에 대한 여러 가지 침략 행위로 고통 받고 있습니다."
 austria.50.a:0 "이것은 매우 좋지 않게 끝날 것이다..."
 
-austria.60.t:0 "민족 긴장이 마침내 진정되었습니다."
+austria.60.t:0 "민족 갈등이 마침내 진정되다"
 austria.60.d:0 "헝가리는 오스트리아의 통치에 강제로 복종하기까지 꽤 오랜 세월이 걸렸습니다. 인종 간 갈등은 우리나라에 커다란 영향을 미쳤지만 이제는 해결되었습니다. 영원히."
 austria.60.a:0 "마침내 통합이 이루어졌다."
 
 ### Italian Question ###
 austria.100.t:0 "이탈리아 문제"
-austria.100.d:0 "우리가 세계대전에서 우승했지만, 우리는 이전의 적 이탈리아에 대해 완전한 통치를 시행 할 수 없었습니다. 이제, 대타협이 우리에게 유리하게 되었기 때문에, 우리는 이탈리아와의 유대를 원할 것인지 아니면 그들과의 또 다른 전쟁을 시작할 것인지 결정할 수 있습니다."
-austria.100.a:0 "황제의 결정을 기다리고 있습니다."
+austria.100.d:0 "우리는 세계대전의 승리자이지만, 우리는 옛 적국 이탈리아를 온전히 차지하지 못했습니다. 대타협 문제를 해결한 지금, 우리는 이탈리아와의 유대를 지향할지 아니면 그들과 또 다른 전쟁을 시작할지 결정할 수 있습니다."
+austria.100.a:0 "황제 폐하의 결정을 기다리자"
 
 austria.101.t:0 "오스트리아의 제안"
-austria.101.d:0 "오늘 오스트리아 대사가 수도에 도착했습니다. 그는 사회주의자들에 대항하는 오스트리아 - 이탈리아 동맹을 제안합니다. 그는 미래의 군사 원조에 동의한다면 오스트리아가 우리 나라를 단결시키는 것을 도울 것이라고 약속했습니다."
+austria.101.d:0 "오늘 오스트리아 대사가 수도에 도착했습니다. 그는 사회주의자들에 대항하는 오스트리아 - 이탈리아 동맹을 제안합니다. 그는 우리가 군사 동맹에 동의한다면 오스트리아는 우리 주도 하의 이탈리아 통일을 도울 것이라고 약속했습니다."
 austria.101.a:0 "이것은 좋은 생각처럼 들린다."
 austria.101.b:0 "오스트리아는 우리의 천적이다."
 
-austria.102.t:0 "오스트리아 - 이탈리아의 우호관계"
-austria.102.d:0 "오늘, 우리 대사가 이탈리아에서 복귀했습니다. 그는 우호 협정에 대한 이탈리아와의 합의에 대해 알려 주었습니다. 우리 나라 앞에 밝은 미래가 놓여 있습니다."
+austria.102.t:0 "오스트리아-이탈리아의 우호 관계"
+austria.102.d:0 "오늘, 우리 대사가 이탈리아에서 복귀했습니다. 그는 우호 협정에 대한 이탈리아와의 합의에 대해 알려 주었습니다. 우리나라 앞에 밝은 미래가 놓여 있습니다."
 austria.102.a:0 "좋군."
 
-austria.103.t:0 "오스트리아 - 이탈리아 경쟁"
-austria.103.d:0 "오늘, 우리 대사가 이탈리아에서 복귀했습니다. 그는 이탈리아인들이 우호 협정에 대한 우리의 제안을 거절했다고 우리에게 알렸습니다. 이것은 우리나라의 모든 국가에 대한 모욕입니다. 우리가 세계대전에서 했던 것처럼 우리의 군대는 다시 한번 그들을 향해 진군해야 합니다."
+austria.103.t:0 "오스트리아-이탈리아의 경쟁 관계"
+austria.103.d:0 "오늘, 우리 대사가 이탈리아에서 복귀했습니다. 그는 이탈리아인들이 우호 협정에 대한 우리의 제안을 거절했다고 우리에게 알렸습니다. 이것은 우리나라의 모든 국가에 대한 모욕입니다. 우리가 세계대전에서 그랬던 것처럼, 우리의 군대는 다시 한번 그들을 향해 진군해야 합니다."
 austria.103.a:0 "우리는 응징할 것이다."
 
 ### Austria Suggests War ###
-austria.104.t:0 "오스트리아는 전쟁을 제의했습니다."
-austria.104.d:0 "오스트리아 대사는 오늘 우리가 군대를 동원해 남부의 사회주의자들을 공격하는 것을 제안했습니다. 그는 남부를 공격하고 이탈리아를 단결시킬 때가 왔다고 말했습니다."
+austria.104.t:0 "오스트리아가 전쟁을 제의하다"
+austria.104.d:0 "오스트리아 대사는 오늘 우리가 군대를 동원해 남부의 사회주의자들을 공격하는 것을 제안했습니다. 그는 이탈리아의 통일이 임박했다는 말도 덧붙였습니다."
 austria.104.a:0 "우리는 그들을 쳐부술 것이다!"
 austria.104.b:0 "우리는 그렇게 할 수 없다."
 
@@ -821,24 +823,24 @@ ausgleich.new.100.d:0 "오스트리아와 헝가리 대표단은 1867년 이래 
 ausgleich.new.100.a:0 "그들을 공식적으로 초대하라."
 
 ausgleich.new.101.t:0 "대타협에 대한 초대장"
-ausgleich.new.101.d:0 "빈 정부는 우리에게 대타협 재협상을 요청했습니다. 1867 년부터 헝가리가 빈과 같은 수준에 올랐을 때부터 10년마다 일어나는 일이지만, 빈에 있는 한 남자가 우리에게 크로아티아의 손실을 수용하도록 강요한 1927년 우리 나라가 협상장에서 마지막으로 만난 이래로 관계는 껄끄럽습니다."
+ausgleich.new.101.d:0 "빈 정부는 우리에게 대타협 재협상을 요청했습니다. 1867년부터 헝가리가 빈과 같은 수준에 올랐을 때부터 10년마다 일어나는 일이지만, 빈에 있는 한 남자가 우리에게 크로아티아의 손실을 수용하도록 강요한 1927년 우리나라가 협상장에서 마지막으로 만난 이래로 관계는 껄끄럽습니다."
 ausgleich.new.101.a:0 "우리는 이 일이 어떻게 흘러가는지 봐야한다."
 
-ausgleich.new.102.t:0 "헝가리는 대타협의 재협상에 참석합니다."
+ausgleich.new.102.t:0 "헝가리가 대타협 참가에 동의하다"
 ausgleich.new.102.d:0 "헝가리가 양국 간의 외교적 차이를 기꺼이 해결할 의향이 있는지에 대해서는 의문의 여지가 있지만, 그들은 재협상에 동의했습니다."
 ausgleich.new.102.a:0 "당연한 일이다."
 
-ausgleich.new.200.t:0 "다른 사람들을 대타협에 초대하시겠습니까?"
-ausgleich.new.200.d:0 "대타협은 항상 오스트리아와 헝가리 엘리트간의 회의로 진행되었습니다. 우리는 올해 제국의 모든 구성 국가 대표단과 함께 보다 개방적이고 다민족적인 협상을 원하는 보헤미아, 갈리시아, 일리리아 정치인들의 탄원서를 받았습니다. \n\n또한 오스트리아 - 헝가리 전역의 대표단을 모으는 것은 세계대전이 끝난 이후 진행되고 있는 내부 긴장을 중재하는 데 도움이 될 수 있습니다."
-ausgleich.new.200.a:0 "안돼. 이것은 우리와 마자르인들 사이에 관한 것이다."
-ausgleich.new.200.b:0 "그 말이 맞다. 보헤미아인, 갈리시아인, 일리리아인을 초대하라."
-ausgleich.new.200.c:0 "우리는 더 크게 생각할 필요가 있다. 이중 제국의 모든 사람들을 초대하라."
+ausgleich.new.200.t:0 "다른 대표단의 대타협 초청?"
+ausgleich.new.200.d:0 "대타협은 항상 오스트리아와 헝가리 대표단끼리 진행되었습니다. 우리는 올해 제국을 구성하는 모든 국가의 대표단들과 함께 보다 개방적이고 다민족적인 협상을 원하는 보헤미아, 갈리시아, 일리리아 정치인들의 탄원서를 받았습니다. \n\n또한 오스트리아 - 헝가리 전역의 대표단을 모으는 것은 세계대전이 끝난 이후 진행되고 있는 내부 긴장을 중재하는 데 도움이 될 수 있습니다."
+ausgleich.new.200.a:0 "아니. 이것은 우리와 마자르인들끼리의 문제다."
+ausgleich.new.200.b:0 "맞는 말이다. 보헤미아인, 갈리시아인, 일리리아인을 초대하라."
+ausgleich.new.200.c:0 "더 크게 생각해야 한다. 이중 제국의 모든 민족들을 초대하라."
 
 ausgleich.new.201.t:0 "대타협의 다른 국가들"
 ausgleich.new.201.d:0 "보도에 따르면 오스트리아는 1937년 대타협 재협상에 참여하기 위해 제국의 다른 지역 대표단을 파견했습니다. 유력한 정치인들은 대타협에 대한 반대 입장을 표명하면서 협상에서 오스트리아가 우위를 점할 수 있는 정치적 책략이라고 불렀습니다."
-ausgleich.new.201.a:0 "이것은 미친짓입니다. 공식적으로 그들의 결정에 항의하십시오."
-ausgleich.new.201.b:0 "그냥 항의만으로는 충분하지 않다. 우리는 그러한 대타협에 참여하지 않을 것이다."
-ausgleich.new.201.c:0 "우리는 시대의 흐름에 맞춰가야 한다."
+ausgleich.new.201.a:0 "이건 미친 짓이다. 공식적으로 그들의 결정에 항의하라."
+ausgleich.new.201.b:0 "그냥 항의만으로는 충분하지 않다. 우리는 대타협에 불참한다."
+ausgleich.new.201.c:0 "우리는 시대의 흐름에 맞춰야 한다."
 
 ausgleich.new.202.t:0 "대타협 초대장"
 ausgleich.new.202.d:0 "우리 지방 정부의 구성원들 사이에서 돌고있는 소문이 사실로 밝혀졌습니다. 대타협 협상 초청장을 들고있는 편지가 프라하에 도착했습니다. 우리는 보헤미안 대표단을 협상에 파견해야합니다. 황제가 우리에게 헝가리가 시슬레타니아(오스트리아)와의 차이점을 논의하는 것에 대해 우리의 입장을 협상장에 가져올 수있는 기회를 준 것으로 보입니다."
@@ -850,22 +852,22 @@ ausgleich.new.204.t:0 "대타협 초대장"
 ausgleich.new.204.d:0 "우리 지방 정부의 구성원들 사이에서 돌고있는 소문이 사실로 밝혀졌습니다. 대타협 협상 초청장을 들고있는 편지가 자그레브에 도착했습니다. 우리는 일리리아 대표단을 협상에 파견해야합니다. 황제가 우리에게 헝가리가 시슬레타니아(오스트리아)와의 차이점을 논의에 대해 우리의 입장을 협상장에 가져올 수있는 기회를 준 것으로 보입니다."
 ausgleich.new.204.a:0 "영광이다."
 
-ausgleich.new.205.t:0 "헝가리가 다른 국가 대표단들을 초대하는 것에 대해 항의하다."
-ausgleich.new.205.d:0 "헝가리는 우리가 다른 국가 대표단을 협상에 초청했다고 비난했다. 이 비난이 어떤뜻을 내포하는지 모르지만, 우리는 지켜보아야 할 것입니다."
-ausgleich.new.205.a:0 "그것은 앞으로의 길이다."
+ausgleich.new.205.t:0 "헝가리가 다른 대표단의 초대에 대해 항의하다"
+ausgleich.new.205.d:0 "헝가리는 우리가 다른 국가 대표단을 협상에 초청한 것을 비난했습니다. 이 비난이 무엇을 암시하는지는 정확히 모르겠으나, 확실히 잘 지켜보아야 하겠습니다."
+ausgleich.new.205.a:0 "우리의 미래를 위한 일이다."
 
-ausgleich.new.206.t:0 "보헤미아는 참석하기로 동의하다."
-ausgleich.new.206.d:0 "우리 대사가 프라하에서 돌아 왔고, 보헤미아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수 있어서 기쁘다고 전해왔습니다."
+ausgleich.new.206.t:0 "보헤미아가 참석에 동의하다"
+ausgleich.new.206.d:0 "우리 대사가 프라하에서 돌아왔고, 보헤미아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수 있어서 기쁘다고 전해왔습니다."
 ausgleich.new.206.a:0 "좋군."
-ausgleich.new.207.t:0 "갈라시아는 참석하기로 동의하다."
-ausgleich.new.207.d:0 "우리 대사가 크라코프에서 돌아 왔고, 갈라시아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수 있어서 기쁘다고 전해왔습니다."
+ausgleich.new.207.t:0 "갈리시아가 참석에 동의하다"
+ausgleich.new.207.d:0 "우리 대사가 크라코프에서 돌아왔고, 갈리시아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수 있어서 기쁘다고 전해왔습니다."
 ausgleich.new.207.a:0 "좋군."
-ausgleich.new.208.t:0 "일리리아는 참석하기로 동의하다."
-ausgleich.new.208.d:0 "우리 대사가 자그레브에서 돌아 왔고, 일리리아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수 있어서 기쁘다고 전해왔습니다."
+ausgleich.new.208.t:0 "일리리아가 참석에 동의하다"
+ausgleich.new.208.d:0 "우리 대사가 자그레브에서 돌아왔고, 일리리아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수 있어서 기쁘다고 전해왔습니다."
 ausgleich.new.208.a:0 "좋군."
 
-ausgleich.new.211.t:0 "슬로바키아인과 루마니아인이 대타협에 초대되다."
-ausgleich.new.211.d:0 "비엔나 정부가 제국의 체코, 폴란드 및 다른 민족을 협상 테이블에 초대 한 것으로 충분하지 않은 것으로 생각하고 그들은 국경 내의 민족주의 단체들에게도 똑같이 행한 것으로 전해집니다. \n\n카르파티아 분지에 있는 슬로바키아인과 루마니아인은 수세기 동안 성공적으로 굴복했지만, 빈으로부터의 지원은 그들의 지하 민족주의 운동를 잠에서 깨웠습니다."
+ausgleich.new.211.t:0 "슬로바키아인과 루마니아인이 대타협에 초대되다"
+ausgleich.new.211.d:0 "빈의 중앙정부가 제국의 체코인, 폴란드인 및 다른 민족을 협상 테이블에 초대한 것만으로도 모자라, 전국의 모든 민족 공동체를 초대한 것 같습니다. \n\n카르파티아 분지에 있는 슬로바키아인과 루마니아인들은 수세기 동안 잠자코 굴복해왔지만, 빈이, 황제가, 그들의 국민주의 운동을 잠에서 깨웠습니다."
 ausgleich.new.211.a:0 "무례하다!"
 
 ausgleich.new.212.t:0 "대타협 초대장"
@@ -883,31 +885,31 @@ ausgleich.new.214.d:0 "우리 지방 정부의 구성원들 사이에서 돌고�
 ausgleich.new.214.a:0 "크로아티아, 보스니아 및 세르비아인 대표단을 보내라."
 ausgleich.new.214.b:0 "일리리아 민족은 단 하나뿐이다."
 
-ausgleich.new.215.t:0 "헝가리가 다른 국가 대표단들 초대에 항의하다."
+ausgleich.new.215.t:0 "헝가리가 다른 대표단의 초대에 대해 항의하다"
 ausgleich.new.215.d:0 "헝가리는 우리가 다른 국가 대표단을 협상에 초청했다고 비난했습니다. 이 비난이 어떤 뜻을 내포하는지 모르지만, 우리는 지켜보아야 할 것입니다."
 ausgleich.new.215.a:0 "그것은 앞으로의 길이다."
 
-ausgleich.new.216.t:0 "보헤미아는 참석하기로 동의하다."
+ausgleich.new.216.t:0 "보헤미아가 참석에 동의하다"
 ausgleich.new.216.d:0 "우리 대사가 프라하에서 돌아 왔고, 보헤미아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수있어서 기쁘다고 전해왔습니다."
 ausgleich.new.216.a:0 "좋군."
-ausgleich.new.217.t:0 "갈라시아는 참석하기로 동의하다."
+ausgleich.new.217.t:0 "갈라시아가 참석에 동의하다"
 ausgleich.new.217.d:0 "우리 대사가 크라코프에서 돌아 왔고, 갈라시아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수있어서 기쁘다고 전해왔습니다."
 ausgleich.new.217.a:0 "좋군."
-ausgleich.new.218.t:0 "일리리아는 참석하기로 동의하다."
+ausgleich.new.218.t:0 "일리리아가 참석에 동의하다"
 ausgleich.new.218.d:0 "우리 대사가 자그레브에서 돌아 왔고, 일리리아 정부로부터 답장을 받았습니다. 그들은 협상에 참석할 수있어서 기쁘다고 전해왔습니다."
 ausgleich.new.218.a:0 "좋군."
 
 ausgleich.new.300.t:0 "헝가리 대표단이 도착하다"
-ausgleich.new.300.d:0 "헝가리 대표단이 어제 빈에 도착해 이중제국의 미래에 대해 열정적으로 토론했습니다. 토론은 밤동안 오래 지속되었습니다."
+ausgleich.new.300.d:0 "헝가리 대표단이 어제 빈에 도착해 이중 제국의 미래에 대해 열정적으로 토론했습니다. 토론은 밤동안 오래 지속되었습니다."
 ausgleich.new.300.a:0 "멋진 밤이야."
 
 ausgleich.new.301.t:0 "대표단이 도착하다"
-ausgleich.new.301.d:0 "헝가리가 협상에 다른 대표단을 초청 한 것에 대해 헝가리가 반발적인 태도를 취하지 않을까하는 우려에도 불구하고 그들은 보헤미아, 갈리시아, 일리리아의 대표단들 사이에서 어제 비엔나에 도착했습니다. \n\n올해 대타협의 재협상에 제국 전역의 정치가나 사상가가 참석하긴했지만, 헝가리의 문제를 해결하는 것이 가장 중요하기 때문에 헝가리인들은 중심에 있습니다. 토론은 밤동안 오래 지속되었습니다."
+ausgleich.new.301.d:0 "협상에 다른 대표단들을 초청한 것에 대해 헝가리가 반발적인 태도를 취하지 않을까하는 우려에도 불구하고 그들은 보헤미아, 갈리시아, 일리리아의 대표단들 사이에서 어제 비엔나에 도착했습니다. \n\n올해 대타협의 재협상에 제국 전역의 정치가나 사상가가 참석하긴했지만, 헝가리의 문제를 해결하는 것이 가장 중요하기 때문에 헝가리인들은 중심에 있습니다. 토론은 밤동안 오래 지속되었습니다."
 ausgleich.new.301.a:0 "멋진 밤이야."
 
 ausgleich.new.302.t:0 "대표단이 도착하다 - 헝가리 결석"
 ausgleich.new.302.d:0 "헝가리가 협상에 다른 대표단을 초청 한 것때문에 우리에게 반발적인 태도를 취하지 않을까 우려되었고 정치학자들은 이미 그 이유 때문에 보이콧을 할 것이라고 예상했습니다. \n\n그럼에도 불구하고, 다른 대표단들이 도착했으며, 헝가리 문제를 해결하는 방법을 기꺼이 논의할 의향이 있습니다. 토론은 밤동안 오래 지속되었습니다."
-ausgleich.new.302.a:0 "헝가리 없이 협상할것이 있나?"
+ausgleich.new.302.a:0 "헝가리 없이 협상할 것이 있나?"
 
 ausgleich.new.303.t:0 "대표단이 도착합니다."
 ausgleich.new.303.d:0 "헝가리가 협상에 다른 대표단을 초청 한 것에 대해 헝가리가 반발적인 태도를 취하지 않을까하는 우려에도 불구하고 그들은 보헤미아, 갈리시아, 일리리아의 대표단들 사이에서 어제 비엔나에 도착했습니다. \n\n올해 대타협의 재협상에 제국 전역의 정치가나 사상가가 참석하긴했지만, 헝가리의 문제를 해결하는 것이 가장 중요하기 때문에 헝가리인들은 중심에 있습니다. 토론은 밤동안 오래 지속되었습니다."
@@ -919,182 +921,182 @@ ausgleich.new.304.a:0 "헝가리 없이 협상할 것이 있나?"
 
 
 
-ausgleich.new.310.t:0 "헝가리 대표단 연설"
-ausgleich.new.310.d:0 "협상 첫날에 연설이 열렸습니다. 한 헝가리 정치인이 다음과 같이 전달했습니다 : \n\n"오스트리아 - 헝가리 제국을 자랑스럽게 생각하지 않아도 되는가? 지금 수십 년 동안 빈의 남자는 이미 완벽했던 것을 개혁하려고 노력했다. 오스트리아 - 헝가리는 함께 미래의 세계에서 중요한 역할을 할 것이며, 함께 우리를 위대하게 만들 것이다." \n\n카를 황제의 연방 정부 정치가 실수였다는 암시 때문에 그의 동료들은 눈에 띄게 혼란스러워 보였지만, 그는 박수의 부재에도 불구하고 오히려 기뻐 보였습니다."
+ausgleich.new.310.t:0 "헝가리 대표단의 연설"
+ausgleich.new.310.d:0 "협상 첫 번째 날, 연설이 있었습니다. 한 헝가리 정치인이 다음과 같이 말했습니다 : \n\n"오스트리아-헝가리 제국을 자랑스럽게 생각하지 않는 것인가? 지금까지 수십 년 동안 빈에서는 이미 완벽한 것을 고치려고 안간힘을 쓰고 있다. 오스트리아-헝가리는 함께 미래의 세계에서 중요한 역할을 할 것이며, 함께 우리를 위대하게 만들 것이다." \n\n카를 황제의 연방화 계획이 실수였다고 암시하는 그의 발언에 나머지 헝가리 대표단이 눈에 띄게 당황했지만, 그는 박수의 부재에도 불구하고 오히려 기뻐 보였습니다."
 ausgleich.new.310.a:0 "얼마나 무례한가."
-ausgleich.new.310.b:0 "협상에서 그를 제거하라."
+ausgleich.new.310.b:0 "그를 협상장에서 추방하라."
 ausgleich.new.310.c:0 "그가 옳다. 그렇지 않나?"
-ausgleich.new.310.e:0 "협상에서 그를 제거하라."
+ausgleich.new.310.e:0 "그를 협상장에서 추방하라."
 ausgleich.new.310.f:0 "그가 옳다. 그렇지 않나?"
-ausgleich.new.310.g:0 "협상에서 그를 제거하라."
+ausgleich.new.310.g:0 "그를 협상장에서 추방하라."
 ausgleich.new.310.h:0 "그가 옳다. 그렇지 않나?"
 
-ausgleich.new.311.t:0 "헝가리의 보상 요구"
-ausgleich.new.311.d:0 "예상대로, 헝가리 대표단은 크로아티아 - 슬라브니아의 영토 손실에 대한 보상을 다시 요구했습니다. 크로아티아 - 슬라브니아의 영토 분실에 대한 보상은 1925 년까지 헝가리 왕관이 계승되는동안 지속되었습니다.이 영토는 남부 슬라브의 혁명으로 점령되었고, 1926 년에 새롭게 개혁된 일리리아 왕국의 점령으로 마무리되었습니다. \n\n헝가리 대표단은 여전히 ​​그 땅을 자신들의 것으로 주장하지만 그들이 다시 그 지역을 통제 할 수 없다는 것을 인정합니다. 따라서, 그들은 1927 년과 마찬가지로 엄청난 액수의 돈을 그들의 금고로 이전해야한다고 요구합니다."
-ausgleich.new.311.a:0 "그들에게 우리의 금고에서 돈을 내도록 제안해라."
-ausgleich.new.311.b:0 "이 채무는 일리리아인이 지불해야한다."
-ausgleich.new.311.c:0 "이 채무는 일리리아인이 지불해야한다. 협상을 시도해라."
-ausgleich.new.311.e:0 "그게 바로 지금 당신들이 세금을 덜 내는 이유일텐데."
-ausgleich.new.311.f:0 "그들이 크로아티아-슬라브니아를 원한다면 기꺼이 양도할 의향이 있다."
+ausgleich.new.311.t:0 "헝가리가 보상을 요구하다"
+ausgleich.new.311.d:0 "예상대로, 헝가리 대표단은 크로아티아 - 슬라브니아의 영토 손실에 대한 보상을 다시 요구했습니다. 크로아티아 - 슬라브니아의 영토 분실에 대한 보상은 1925년까지 헝가리 왕관이 계승되는동안 지속되었습니다.이 영토는 남부 슬라브의 혁명으로 점령되었고, 1926년에 새롭게 개혁된 일리리아 왕국의 점령으로 마무리되었습니다. \n\n헝가리 대표단은 여전히 ​​그 땅을 자신들의 것으로 주장하지만 그들이 다시 그 지역을 통제 할 수 없다는 것을 인정합니다. 따라서, 그들은 1927년과 마찬가지로 본인들에게 엄청난 액수의 보상금을 지불해야 한다고 요구합니다."
+ausgleich.new.311.a:0 "우리가 대신 보상해주겠다."
+ausgleich.new.311.b:0 "일리리아인이 보상금을 지불해야 한다."
+ausgleich.new.311.c:0 "일리리아인이 보상금을 지불해야 한다. 협상을 시도하라."
+ausgleich.new.311.e:0 "네놈들이 세금을 덜 내는 이유가 뭐라고 생각하나."
+ausgleich.new.311.f:0 "크로아티아-슬라브니아로 만족한다면 기꺼이 양도해줄 의향이 있다."
 
-ausgleich.new.312.t:0 "보헤미아의 슬로바키아 국가 제안"
-ausgleich.new.312.d:0 "전날의 무의미한 토론에서, 보헤미안 대표단은 헝가리 왕국의 통치하에 거주하는 슬로바키아 사람들에 관한 문제를 제기했습니다. 특별한 권리나 자치가 없다면 슬로바키아 국민들은 마자르족주의에 대한 지속적인 정책의 희생자가 될것입니다. \n\n보헤미안 대표단은 '마자르족의 속박에서 형제를 해방시키는' 해결책으로  슬로바키아인으로 이루어진 자치 국가 창설을 제안합니다."
-ausgleich.new.312.a:0 "그들이 생각해야할 문제가 아니다."
-ausgleich.new.312.b:0 "확실히 이것은 헝가리가 고려해야 할 문제다."
-ausgleich.new.312.c:0 "그것은 수행되어야 한다. 그래도 그것은 추가 계획이 필요한 문제다."
+ausgleich.new.312.t:0 "보헤미아가 슬로바키아 국가를 제안하다"
+ausgleich.new.312.d:0 "전날의 무의미한 토론에서, 보헤미아인 대표단은 헝가리 왕국의 영토 내에 거주하는 슬로바키아인들에 관한 문제를 제기했습니다. 특별한 권리나 자치가 없다면 슬로바키아 국민들은 마자르족주의에 대한 지속적인 정책의 희생자가 될것입니다. \n\n보헤미안 대표단은 '마자르족의 속박에서 형제를 해방시키는' 해결책으로 슬로바키아인으로 이루어진 자치 국가 건설을 제안합니다."
+ausgleich.new.312.a:0 "너희들이 결정할 문제가 아니다."
+ausgleich.new.312.b:0 "헝가리 대표단이 결정할 문제다."
+ausgleich.new.312.c:0 "일리있는 말이다. 그래도 이건 추가적인 협의가 필요한 문제다."
 
-ausgleich.new.313.t:0 "갈리시아는 트란스카르파디아를 요구하다."
-ausgleich.new.313.d:0 "헝가리를 요구하는 최근 경향에 동참했다."
-ausgleich.new.313.a:0 "대타협 협상은 영토 양보를 요청하는 장소가 아니다."
-ausgleich.new.313.b:0 "우리는 헝가리인들에게 지금 이것을 물을 수 없다."
-ausgleich.new.313.c:0 "그것은 수행되어야 한다. 그것을 향해 노력하도록하지."
+ausgleich.new.313.t:0 "갈리시아가 트란스카르파티아를 요구하다"
+ausgleich.new.313.d:0 "그들은 헝가리의 영토를 요구하는 최근 분위기에 동참했습니다."
+ausgleich.new.313.a:0 "대타협은 영토 할양을 요구하는 장소가 아니다!"
+ausgleich.new.313.b:0 "지금 당장 헝가리인들에게 강요하는 건 무리다."
+ausgleich.new.313.c:0 "일리있는 말이다. 그렇게 되도록 노력해보자."
 
-ausgleich.new.314.t:0 "일리리아는 바칠카를 요구하다."
-ausgleich.new.314.d:0 "헝가리의 땅을 요구하는 최근 추세에 합류하면서, 일리리아는 지금도 바칠카 영토의 점령을 요구합니다. 헝가리의 최남단 지역에있는 이 지역은 많은 일리리아인들에게 고향이지만, 헝가리가 아직 남쪽의 슬라브 국가를 공식적으로 인정하지 않는다는 점을 고려할 때 일리리아 대표단의 다소 대담한 조치가 아니라고 할 수 없겠습니다."
-ausgleich.new.314.a:0 "대타협 협상은 영토 양보를 요청하는 장소가 아니다."
-ausgleich.new.314.b:0 "우리는 헝가리인들에게 지금 이것을 물을 수 없다."
-ausgleich.new.314.c:0 "그것은 수행되어야 한다. 그것을 향해 노력하도록하지."
+ausgleich.new.314.t:0 "일리리아가 바치카를 요구하다"
+ausgleich.new.314.d:0 "헝가리의 영토를 요구하는 최근 분위기에 동참하면서, 일리리아는 다시 한번 바치카 영토의 할양을 요구했습니다. 헝가리의 최남단 지역에 있는 이곳은 많은 일리리아인들이 거주하는 곳이지만, 헝가리가 여전히 이 남쪽 슬라브 국가의 승인을 거부했다는 점을 고려할 때, 이는 일리리아 대표단의 다소 대담한 조치가 아니라고 할 수 없겠습니다."
+ausgleich.new.314.a:0 "대타협은 영토 할양을 요구하는 장소가 아니다!"
+ausgleich.new.314.b:0 "지금 당장 헝가리인들에게 강요하는 건 무리다."
+ausgleich.new.314.c:0 "일리있는 말이다. 그렇게 되도록 노력해보자."
 
-ausgleich.new.315.t:0 "체코와 슬로바키아의 슬로바키아 국가 제안"
-ausgleich.new.315.d:0 "체코와 슬로바키아 대표단은 우리가 슬로바키아의 자치권을 지지 할 것을 부탁했습니다."
-ausgleich.new.315.a:0 "헝가리 대표단은 이것을 고려해야한다."
-ausgleich.new.315.b:0 "이것은 일어날 일이다..."
-ausgleich.new.315.c:0 "... 다뉴브(헝가리)를 자극시킬 것이다."
+ausgleich.new.315.t:0 "체코인, 슬로바키아인 : 슬로바키아 국가 제안"
+ausgleich.new.315.d:0 "체코와 슬로바키아 대표단은 우리가 슬로바키아의 자치를 지지해줄 것을 부탁했습니다."
+ausgleich.new.315.a:0 "헝가리 대표단이 결정할 문제다."
+ausgleich.new.315.b:0 "맞는 말이다..."
+ausgleich.new.315.c:0 "헝가리를 지나치게 자극하는 건 피하자."
 
-ausgleich.new.316.t:0 "폴란드인의 폴란드 보호령을 제안"
-ausgleich.new.316.d:0 "폴란드 대표단의 저명한 회원 몇 명이 폴란드와의 외교 관계에서보다 적극적인 입장을 표명했습니다. 전쟁 후에 폴란드는 독일의 영역에 머물러 있었지만 갈리시아인들은 폴란드를 여전히 고향으로 보지만, 지금은 프러시안 통치에 의해 억압되었습니다. 그들은 우리가 그들의 동포를 해방하기를 바랍니다. \n\n 우리는 폴란드를 잃기에는 이릅니다."
+ausgleich.new.316.t:0 "폴란드인 : 폴란드의 보호를 요청"
+ausgleich.new.316.d:0 "폴란드 대표단의 유명인사들 몇몇이 폴란드와의 외교관계에서 오스트리아가 보다 적극적인 제스처를 취해줄 것을 요청했습니다. 세계대전 이후 폴란드는 독일의 영향력 하에 독립했고 갈리시아인들은 여전히 폴란드를 그들의 고향으로 여기지만, 폴란드는 지금 독일의 위성국이나 다름없습니다. 그들은 우리가 그들의 동포를 해방해주기를 바랍니다. \n\n 확실히 폴란드는 제국에게 있어 가장 중요한 국가 중 하나이긴 합니다."
 ausgleich.new.316.a:0 "우리는 이것을 고려해야 한다."
 
 ausgleich.new.317.t:0 "루테니아인 : 트란스카르파티아를 요구"
-ausgleich.new.317.d:0 "루테니아 대표단은 카르파티아에 있는 그들의 형제들이 헝가리 정부에 의해서도 인정받지 못한다고 상기시킵니다."
-ausgleich.new.317.a:0 "헝가리 대표단은 이것을 고려해야한다."
-ausgleich.new.317.b:0 "그것은 일어날 일이다..."
+ausgleich.new.317.d:0 "루테니아 대표단은 카르파티아에 있는 그들의 형제들이 헝가리 정부에 의해 탄압받음을 호소했습니다."
+ausgleich.new.317.a:0 "헝가리 대표단이 결정할 문제다."
+ausgleich.new.317.b:0 "맞는 말이다..."
 
-ausgleich.new.318.t:0 "일리리아인 : 바칠카 분지를 요구"
-ausgleich.new.318.d:0 "일리리아인 대표단은 세르비아 사람이 주로 거주하는 바칠카 분지 (Bačka Basin)를 양도받아야 한다고 요청했습니다. 아니면 이것이 우리가 참을 수 있는 마지막 때라고 말했습니다."
-ausgleich.new.318.a:0 "헝가리 대표단은 이것을 고려해야한다."
-ausgleich.new.318.b:0 "그것은 일어날 일이다..."
-ausgleich.new.318.c:0 "... 그리고 그것은 바칠카 전역을 포함해야 한다."
+ausgleich.new.318.t:0 "일리리아인 : 바치카 분지를 요구"
+ausgleich.new.318.d:0 "일리리아인 대표단은 세르비아인들이 주류인 바치카 분지(Bačka Basin)의 할양을 강력히 요청했습니다. 그들은 무슨 일이 있어도 바치카만은 확보하고자 하는 것 같습니다."
+ausgleich.new.318.a:0 "헝가리 대표단이 결정할 문제다."
+ausgleich.new.318.b:0 "맞는 말이다..."
+ausgleich.new.318.c:0 "...그리고 바치카 전역을 포함해야 한다."
 
 ausgleich.new.319.t:0 "루마니아인 : 트란실바니아 자치령?"
-ausgleich.new.319.d:0 "트랜실바니아는 헝가리로부터 인정을 받고 있지만, 시슬레타니아의 주들과 동등한 수준은 결코 아닙니다. 루마니아 대표단은 오스트리아의 절반인 국가(헝가리)와 같은 수준으로 취급해달라는 말을 전합니다."
-ausgleich.new.319.a:0 "헝가리 대표단은 이것을 고려해야한다."
-ausgleich.new.319.b:0 "그것은 일어날 일이다..."
-ausgleich.new.319.c:0 "... 그리고 그것은 트란실바니아 전역을 포함해야 한다."
+ausgleich.new.319.d:0 "트란실바니아의 자치권은 헝가리에게 어느 정도 인정받았지만, 시스라이타니아에 비견할 바는 결코 아닙니다. 루마니아 대표단은 오스트리아 제국의 절반을 차지하고 있는 헝가리와 동등한 지위를 인정해달라고 요청해왔습니다."
+ausgleich.new.319.a:0 "헝가리 대표단이 결정할 문제다."
+ausgleich.new.319.b:0 "맞는 말이다..."
+ausgleich.new.319.c:0 "...그리고 트란실바니아 전역을 포함해야 한다."
 
 
 
-ausgleich.new.320.t:0 "대타협 협상은 끝나다."
-ausgleich.new.320.d:0 "오늘 새벽에, 헝가리 대표단은 부다페스트로 떠났고, 마지막 날에 일어난 일과 빈에서 환영, 그리고 얻어낸 약속들 대해 그들의 정부에 알렸습니다. 1937 년의 대타협의 재협상은 성공했고, 이중제국은 점점 더 나아지고 있습니다."
+ausgleich.new.320.t:0 "대타협이 막을 내리다"
+ausgleich.new.320.d:0 "오늘 새벽 헝가리 대표단은 부다페스트로 떠났고, 마지막 날에 있었던 일과 빈에서 받은 환영, 그리고 그들이 얻어낸 약속들을 그들의 정부에 알렸습니다. 1937년 대타협의 재협상은 성공했고, 이중 제국은 점점 더 개선되어가고 있습니다."
 ausgleich.new.320.a:0 "멋지군."
 
 ausgleich.new.321.t:0 "대타협의 끝"
 ausgleich.new.321.d:0 "헝가리가 조기에 떠나기로 결정했습니다 - 대타협은 어제부로 끝났습니다."
 ausgleich.new.321.a:0 "끔찍하군."
 
-ausgleich.new.322.t:0 "헝가리는 대타협을 포기하다."
-ausgleich.new.322.d:0 "헝가리 대표단이 '오랜 전통의 얼간이짓'이라고 부르는 올해의 협상은 끝이 났고 그들은 협의를 떠났습니다."
-ausgleich.new.322.a:0 "이것은 나쁜 일이다."
+ausgleich.new.322.t:0 "헝가리가 대타협을 포기하다"
+ausgleich.new.322.d:0 "헝가리 대표단은 올해의 대타협을 '오랜 전통의 바보짓'이라 비웃으며 떠나버렸습니다."
+ausgleich.new.322.a:0 "좋지 않군."
 
 ausgleich.new.323.t:0 "오스트리아의 배상금 지불 합의"
-ausgleich.new.323.d:0 "오스트리아는 일리리아를 잃은 것에 대한 배상금을 지불하기로 했습니다."
+ausgleich.new.323.d:0 "오스트리아는 헝가리에게 일리리아의 상실에 대한 배상금을 지불하기로 했습니다."
 ausgleich.new.323.a:0 "좋군."
 
-ausgleich.new.324.t:0 "오스트리아가 일리리아의 배상금 지불을 제안했습니다."
-ausgleich.new.324.d:0 "오스트리아는 우리에게 일리리아 배상금 지불을 제안했습니다."
-ausgleich.new.324.a:0 "일리리아인들에게 그들의 빚을 일깨워주자."
+ausgleich.new.324.t:0 "오스트리아가 일리리아의 배상금 지불을 제안하다"
+ausgleich.new.324.d:0 "오스트리아는 우리에게 일리리아의 배상금 지불을 제안했습니다."
+ausgleich.new.324.a:0 "일리리아인들에게 빚을 지우자."
 
-ausgleich.new.325.t:0 "대타협의 재협상은 끝났습니다."
+ausgleich.new.325.t:0 "대타협의 재협상이 끝나다"
 ausgleich.new.325.d:0 "우리 대표단은 빈과의 의견 차이를 조율하는데 성공했습니다."
 ausgleich.new.325.a:0 "좋군."
 
-ausgleich.new.326.t:0 "대타협의 재협상은 끝났습니다."
+ausgleich.new.326.t:0 "대타협의 재협상이 끝나다"
 ausgleich.new.326.d:0 "우리 대표단은 일리리아를 오스트리아와 갈라놓기 위한 비밀조약을 확보했습니다."
 ausgleich.new.326.a:0 "쉿!"
 
-ausgleich.new.327.t:0 "대표자가 집으로 돌아오다"
-ausgleich.new.327.d:0 "그는 개인적인 차원에서 황제를 화나게 한 연설을 한 것 같습니다."
-ausgleich.new.327.a:0 "나는 이것을 위해 돈을 주는게 아니다."
+ausgleich.new.327.t:0 "대표자 한 명이 추방당해 돌아오다"
+ausgleich.new.327.d:0 "그는 개인적인 차원에서 황제를 분노케 한 연설을 한 것 같습니다."
+ausgleich.new.327.a:0 "이러라고 너한테 수당을 준 게 아니다."
 
-ausgleich.new.328.t:0 "대표단이 일찍 복귀합니다."
-ausgleich.new.328.d:0 "대타협의 진행에 힘입어, 우리 대표단은 일찍 복귀했습니다. 우리는 당분간 보상받지 못할 것 입니다."
+ausgleich.new.328.t:0 "대표단이 일찍 복귀하다"
+ausgleich.new.328.d:0 "대타협의 진행에 반발해, 우리 대표단은 조기에 복귀했습니다. 당분간 보상을 받는 건 체념해야 할 것 같습니다."
 ausgleich.new.328.a:0 "차선책이다."
 
-ausgleich.new.329.t:0 "대표단이 일찍 복귀합니다."
-ausgleich.new.329.d:0 "빈의 사람들은 우리 대표단을 조롱했습니다."
-ausgleich.new.329.a:0 "우리는 이것을 지지할 수 없다."
+ausgleich.new.329.t:0 "대표단이 일찍 복귀하다"
+ausgleich.new.329.d:0 "빈의 쓰레기들이 우리 대표단을 조롱했습니다!"
+ausgleich.new.329.a:0 "이 협상은 인정할 수 없다!"
 
-ausgleich.new.330.t:0 "헝가리는 그들의 요구를 보내다."
-ausgleich.new.330.d:0 "헝가리는 우리의 배상금 제안에 관심을 가졌다."
+ausgleich.new.330.t:0 "헝가리가 그들의 요구를 보내오다"
+ausgleich.new.330.d:0 "헝가리는 우리의 배상금 제안에 관심을 가졌습니다."
 ausgleich.new.330.a:0 "그것이 필요한 일이라면..."
 
-ausgleich.new.331.t:0 "헝가리는 보상을 요구하다."
-ausgleich.new.331.d:0 "헝가리는 보상을 요구합니다"
+ausgleich.new.331.t:0 "헝가리가 보상을 요구하다"
+ausgleich.new.331.d:0 "말 그대로, 헝가리는 배상금을 요구해왔습니다."
 ausgleich.new.331.a:0 "잠깐, 뭐?"
-ausgleich.new.331.b:0 "이미 결정된 사안이야..."
+ausgleich.new.331.b:0 "이미 결정된 사안이다..."
 
-ausgleich.new.332.t:0 "오스트리아는 지불에 동의합니다."
-ausgleich.new.332.d:0 "오스트리아는 지불에 동의합니다."
-ausgleich.new.332.a:0 "알려줘서 고맙군."
+ausgleich.new.332.t:0 "오스트리아가 지불에 동의하다"
+ausgleich.new.332.d:0 "오스트리아는 지불에 동의했습니다."
+ausgleich.new.332.a:0 "고맙군."
 
-ausgleich.new.333.t:0 "일리리아는 지불에 동의했습니다."
+ausgleich.new.333.t:0 "일리리아가 지불에 동의하다"
 ausgleich.new.333.d:0 "일리리아는 지불에 동의했습니다."
-ausgleich.new.333.a:0 "알려줘서 고맙군."
+ausgleich.new.333.a:0 "고마워라."
 
-ausgleich.new.334.t:0 "일리리아는 지불을 거부했습니다."
-ausgleich.new.334.d:0 "일리리아는 지불을 거부했습니다."
-ausgleich.new.334.a:0 "발칸에서 전쟁을 시작하자. 뭐가 잘못될 수 있을까?"
-ausgleich.new.334.b:0 "우리가 할 수 있는것은 많지 않아..."
+ausgleich.new.334.t:0 "일리리아가 지불을 거부하다"
+ausgleich.new.334.d:0 "일리리아는 지불을 거부했습니다!"
+ausgleich.new.334.a:0 "또 다른 발칸전쟁을 시작하자. 더 잃을 것도 없다!"
+ausgleich.new.334.b:0 "우리가 할 수 있는 건 많지 않다..."
 
-ausgleich.new.335.t:0 "헝가리가 우리에게 전쟁을 선포합니다."
-ausgleich.new.335.d:0 "헝가리가 우리에게 전쟁을 선포합니다."
-ausgleich.new.335.a:0 "이거 좋지 않은걸."
+ausgleich.new.335.t:0 "헝가리가 우리에게 전쟁을 선포하다"
+ausgleich.new.335.d:0 "헝가리가 우리에게 전쟁을 선포했습니다."
+ausgleich.new.335.a:0 "이런."
 
 ausgleich.new.336.t:0 "일리리아 분쟁"
-ausgleich.new.336.d:0 "일리리아 정부가 '일리리아의 정당한 영토에 대한 터무니없는 배상금 요구'라고 묘사 한 것을 지불하는 것을 거부 한 이후, 헝가리 정부는 일리리아 왕국에 대한 전쟁을 선언했습니다. 이미 그들의 군대가 슬라베니로 행진하기 시작했고, 실효성있는 방식으로 이 갈등에 개입하기에는 너무 늦은 것 같습니다."
-ausgleich.new.336.a:0 "이것은 미친 짓이다."
+ausgleich.new.336.d:0 "일리리아 정부가 '일리리아의 정당한 영토에 대한 터무니없는 배상금 요구'라고 묘사한 헝가리의 배상금 요구를 거부한 이후, 헝가리 정부는 일리리아 왕국에게 선전포고했습니다. 이미 그들의 군대가 슬로베니아를 향해 행진하기 시작했으며, 우리가 이 전쟁을 막기에는 너무 늦은 것 같습니다."
+ausgleich.new.336.a:0 "기어이 미친 짓을 하는군."
 ausgleich.new.336.b:0 "약속을 행동에 옮길 시간이다."
 ausgleich.new.336.c:0 "그들의 일은 그들에게 맡겨라."
 ausgleich.new.336.e:0 "일어나버렸군."
 
 #WIP
-ausgleich.new.337.t:0 "오스트리아와 헝가리가 전 일리리아를 분할하다."    
-ausgleich.new.337.d:0 "우리는 점령된 일리리아 땅을 어떻게 해야 할지 결정해야 합니다."
-ausgleich.new.337.a:0 "1921년 국경선을 복원해라."
-ausgleich.new.337.b:0 "크로아티아-슬라보니아를 헝가리에 할양하고 남은 영토를 일리리아령으로 하라."
-ausgleich.new.337.c:0 "일단은 전역을 점령해라."
+ausgleich.new.337.t:0 "오스트리아와 헝가리의 (구)일리리아 분할"
+ausgleich.new.337.d:0 "우리는 점령된 일리리아 영토를 어떻게 분할할지 결정해야 합니다."
+ausgleich.new.337.a:0 "1921년 국경선을 복원하라."
+ausgleich.new.337.b:0 "크로아티아-슬라보니아를 헝가리에 할양하고 남은 영토는 일리리아령으로 해방하라."
+ausgleich.new.337.c:0 "일단은 전역을 점령하자."
 
 #WIP
-ausgleich.new.338.t:0 "오스트리아가 일리리아 전역을 점령하다."
-ausgleich.new.338.d:0 "오스트리아는 약속을 존중하지 않기로 결정했습니다. 어떻게 반응해야 할까요?"
-ausgleich.new.338.a:0 "그들은 이 대가를 치를 것이다."
-ausgleich.new.338.b:0 "우리가 할 수 있는 건 아무 것도 없다."
+ausgleich.new.338.t:0 "오스트리아가 일리리아 전역을 점령하다"
+ausgleich.new.338.d:0 "오스트리아는 약속을 지키지 않기로 결정했습니다. 어떻게 반응해야 할까요?"
+ausgleich.new.338.a:0 "그들은 대가를 치를 것이다."
+ausgleich.new.338.b:0 "우리가 할 수 있는 게 뭐지?"
 
 #WIP
-ausgleich.new.339.t:0 "오스트리아가 일리리아에 전쟁을 선포하다."
-ausgleich.new.339.d:0 "거짓으로 가득 찬 카이저는 소수 민족의 권리를 존중하지 않기로 결정했습니다."
+ausgleich.new.339.t:0 "오스트리아가 일리리아에 전쟁을 선포하다"
+ausgleich.new.339.d:0 "거짓으로 가득찬 황제는 소수 민족의 권리를 존중하지 않기로 결정했습니다."
 ausgleich.new.339.a:0 "슬라브 동포들을 위하여!"
 
 #WIP
-ausgleich.new.3391.t:0 "오스트리아가 일리리아에 전쟁을 선포하다."
-ausgleich.new.3391.d:0 "거짓으로 가득 찬 카이저는 소수 민족의 권리를 존중하지 않기로 결정했습니다."
+ausgleich.new.3391.t:0 "오스트리아가 일리리아에 전쟁을 선포하다"
+ausgleich.new.3391.d:0 "거짓으로 가득찬 황제는 소수 민족의 권리를 존중하지 않기로 결정했습니다."
 ausgleich.new.3391.a:0 "슬라브 동포들을 위하여!"
 
 #WIP
-ausgleich.new.3310.t:0 "오스트리아가 일리리아에 전쟁을 선포하다."
-ausgleich.new.3310.d:0 "거짓으로 가득 찬 카이저는 소수 민족의 권리를 존중하지 않기로 결정했습니다."
+ausgleich.new.3310.t:0 "오스트리아가 일리리아에 전쟁을 선포하다"
+ausgleich.new.3310.d:0 "거짓으로 가득찬 황제는 소수 민족의 권리를 존중하지 않기로 결정했습니다."
 ausgleich.new.3310.a:0 "그들이 감히 어떻게!"
 
 #WIP
-ausgleich.new.3311.t:0 "오스트리아가 일리리아에 전쟁을 선포하다."
+ausgleich.new.3311.t:0 "오스트리아가 일리리아에 전쟁을 선포하다"
 ausgleich.new.3311.d:0 "거짓으로 가득 찬 카이저는 소수 민족의 권리를 존중하지 않기로 결정했습니다."
 ausgleich.new.3311.a:0 "그들이 감히 어떻게!"
 
-ausgleich.new.340.t:0 "대타협의 재협상은 끝났습니다."
+ausgleich.new.340.t:0 "대타협의 재협상이 끝나다"
 ausgleich.new.340.d:0 "대타협은 어제 끝났습니다. 모든 대표단은 오늘 집으로 돌아갔습니다."
 ausgleich.new.340.a:0 "이것이 제국 내 평화를 유지하기를 기도해야겠군."
 
-ausgleich.new.341.t:0 "대타협의 재협상은 끝났습니다."
+ausgleich.new.341.t:0 "대타협의 재협상이 끝나다"
 ausgleich.new.341.d:0 "헝가리가 더 일찍 출발 했음에도 불구하고, 대타협은 어제 끝났고, 나머지 대표단은 오늘 본국으로 되돌아갔습니다."
 ausgleich.new.341.a:0 "협상이 더 나아졌을 수도 있었지만 더 나빠졌을 수도 있었다."
 
@@ -1107,71 +1109,82 @@ ausgleich.new.343.a:0 "확실히 그들에게 귀중한 교훈이다.."
 ausgleich.new.344.t:0 "대타협의 결과: 트란스카르파티아 양도"
 
 ausgleich.new.345.t:0 "대타협의 대표단 복귀"
-ausgleich.new.345.d:0 "대타협의 재협상에 참여한 우리 대표단은 오늘 카라코우에 도착했습니다. 우리측에서 큰 외교적 돌파구가 만들어지지는 않았지만, 최소한 빈과 긴밀한 관계를 맺을 수 있었습니다."
+ausgleich.new.345.d:0 "대타협의 재협상에 참여한 우리 대표단은 오늘 크라코우에 도착했습니다. 우리측에서 큰 외교적 돌파구가 만들어지지는 않았지만, 최소한 빈과 긴밀한 관계를 맺을 수 있었습니다."
 ausgleich.new.345.a:0 "확실히 그들에게 귀중한 교훈이다."
 
-ausgleich.new.346.t:0 "대타협의 결과: 바칠카 양도"
+ausgleich.new.346.t:0 "대타협의 결과: 바치카 양도"
 
-ausgleich.new.347.t:0 "대타협의 대표단 복귀"
+ausgleich.new.347.t:0 "대타협의 대표단이 귀환하다"
 ausgleich.new.347.d:0 "대타협의 재협상에 참여한 우리 대표단은 오늘 자그레브에 도착했습니다. 우리측에서 큰 외교적 돌파구가 만들어지지는 않았지만, 최소한 빈과 긴밀한 관계를 맺을 수 있었습니다."
 ausgleich.new.347.a:0 "확실히 그들에게 귀중한 교훈이다."
 
-ausgleich.new.350.t:0 "대타협의 재협상은 끝났습니다."
+ausgleich.new.350.t:0 "대타협의 재협상이 끝나다"
 ausgleich.new.350.d:0 "대타협은 어제 끝났습니다. 모든 대표단은 오늘 본국으로 돌아갔습니다."
 ausgleich.new.350.a:0 "이것이 제국 내 평화를 유지하기를 기도해야겠군."
 
-ausgleich.new.351.t:0 "대타협의 재협상은 끝났습니다."
-ausgleich.new.351.d:0 "헝가리가 더 일찍 출발 했음에도 불구하고, 대타협은 어제 끝났고, 나머지 대표단은 오늘 본국으로 돌아갔습니다."
+ausgleich.new.351.t:0 "대타협의 재협상이 끝나다"
+ausgleich.new.351.d:0 "헝가리가 조금 일찍 떠나긴 했지만, 어제부로 대타협은 끝났으며 나머지 대표단은 오늘 본국으로 돌아갔습니다."
 ausgleich.new.351.a:0 "적어도 조그마한 성과는 있었다."
 
 ausgleich.new.352.t:0 "대타협의 결과: 슬로바키아 국가 성립"
-ausgleich.new.353.t:0 "대타협의 대표단이 돌아왔습니다"
+ausgleich.new.353.t:0 "대타협의 대표단이 귀환하다"
 ausgleich.new.354.t:0 "대타협의 결과: 트란스카르파티나 양도"
 ausgleich.new.355.t:0 "대타협의 대표단이 돌아왔습니다"
-ausgleich.new.356.t:0 "대타협의 결과: 바칠카 양도"
-ausgleich.new.357.t:0 "대타협의 대표단이 돌아왔습니다"
+ausgleich.new.356.t:0 "대타협의 결과: 바치카 양도"
+ausgleich.new.357.t:0 "대타협의 대표단이 귀환하다"
 
-ausgleich.new.360.t:0 "슬로바키아와 루마니아 민족주의"
+ausgleich.new.360.t:0 "슬로바키아와 루마니아 국민주의"
 ausgleich.new.360.d:0 "오스트리아 정부가 대타협의 재협상 기간에 그들에게 행한 지원에 고무되어 슬로바키아와 루마니아인들은 친오스트리아를 외치며 거리를 행진하고 있지만, 반오스트리아계가 항의하고 있습니다."
 ausgleich.new.360.a:0 "그들을 탄압해라."
 
-ausgleich.new.361.t:0 "슬로바키아 민족주의"
+ausgleich.new.361.t:0 "슬로바키아 국민주의"
 ausgleich.new.361.d:0 "오스트리아 정부가 대타협의 재협상 기간에 그들에게 행한 지원에 고무되어 슬로바키아인들은 친오스트리아를 외치며 거리를 행진하고 있지만, 반오스트리아계가 항의하고 있습니다."
 ausgleich.new.361.a:0 "그들을 탄압해라."
 
-ausgleich.new.362.t:0 "루마니아 민족주의"
+ausgleich.new.362.t:0 "루마니아 국민주의"
 ausgleich.new.362.d:0 "오스트리아 정부가 대타협의 재협상 기간에 그들에게 행한 지원에 고무되어 루마니아인들은 친오스트리아를 외치며 거리를 행진하고 있지만, 반오스트리아계가 항의하고 있습니다."
 ausgleich.new.362.a:0 "그들을 탄압해라."
 
-ausgleich.new.363.t:0 "슬로바키아어와 루마니아 시위가 헝가리에게 탄압되다."
-ausgleich.new.363.d:0 "일주일 시작즘에 슬로바키아와 트란실바니아의 여러 도시에서 빈의 지원에 대한 평화적인 시위가 끝나자 헝가리 경찰은 군중을 해산시켰습니다. 그러나 이것은 저항을 완전히 없애지 못했으며, 이제 슬로바키아와 루마니아 지도자들은 우리 정부에 분쟁을 중재 할 것을 요구하고 있습니다."
+ausgleich.new.363.t:0 "슬로바키아인들과 루마니아인들의 시위가 헝가리에게 탄압당하다"
+ausgleich.new.363.d:0 "일주일 시작즘에 슬로바키아와 트란실바니아의 여러 도시에서 빈의 지원에 대한 평화적인 시위가 끝나자 헝가리 경찰은 군중을 해산시켰습니다. 그러나 이것은 저항을 완전히 없애지 못했으며, 이제 슬로바키아인과 루마니아인 지도자들은 우리 정부가 분쟁을 중재해줄 것을 요청하고 있습니다."
 ausgleich.new.363.a:0 "헝가리는 분쟁 지역에서 군대를 철수시켜야한다."
 ausgleich.new.363.b:0 "우리는 헝가리의 일에 개입 할 수 없다."
 
-ausgleich.new.364.t:0 "슬로바키아어와 루마니아 시위가 헝가리에게 탄압되다."
-ausgleich.new.364.d:0 "일주일 시작즘에 슬로바키아의 여러 도시에서 빈의 지원에 대한 평화적인 시위가 끝나자 헝가리 경찰은 군중을 해산시켰습니다. 그러나 이것은 저항을 완전히 없애지 못했으며, 이제 슬로바키아 지도자들은 우리 정부에 분쟁을 중재 할 것을 요구하고 있습니다."
+ausgleich.new.364.t:0 "슬로바키아인들과 루마니아인들의 시위가 헝가리에게 탄압당하다"
+ausgleich.new.364.d:0 "일주일 시작즘에 슬로바키아의 여러 도시에서 빈의 지원에 대한 평화적인 시위가 끝나자 헝가리 경찰은 군중을 해산시켰습니다. 그러나 이것은 저항을 완전히 없애지 못했으며, 이제 슬로바키아인 지도자들은 우리 정부가 분쟁을 중재해줄 것을 요청하고 있습니다."
 ausgleich.new.364.a:0 "헝가리는 분쟁 지역에서 군대를 철수시켜야한다."
 ausgleich.new.364.b:0 "우리는 헝가리의 일에 개입 할 수 없다."
 
-ausgleich.new.365.t:0 "루마니아 시위가 헝가리에게 탄압되다."
-ausgleich.new.365.d:0 "일주일 시작즘에 슬로바키아와 트란실바니아의 여러 도시에서 빈의 지원에 대한 평화적인 시위가 끝나자 헝가리 경찰은 군중을 해산시켰습니다. 그러나 이것은 저항을 완전히 없애지 못했으며, 이제 루마니아 지도자들은 우리 정부에 분쟁을 중재 할 것을 요구하고 있습니다."
+ausgleich.new.365.t:0 "루마니아인들의 시위가 헝가리에게 탄압당하다"
+ausgleich.new.365.d:0 "일주일 시작즘에 슬로바키아와 트란실바니아의 여러 도시에서 빈의 지원에 대한 평화적인 시위가 끝나자 헝가리 경찰은 군중을 해산시켰습니다. 그러나 이것은 저항을 완전히 없애지 못했으며, 이제 루마니아인 지도자들은 우리 정부가 분쟁을 중재해줄 것을 요청하고 있습니다."
 ausgleich.new.365.a:0 "헝가리는 분쟁 지역에서 군대를 철수시켜야한다."
 ausgleich.new.365.b:0 "우리는 헝가리의 일에 개입 할 수 없다."
 
-ausgleich.new.366.t:0 "오스트리아는 우리 당국에 슬로바키아와 트란실바니아에서 철수 할 것을 요구하다."
-ausgleich.new.367.t:0 "오스트리아는 우리 당국에 슬로바키아에서 철수 할 것을 요구합니다."
-ausgleich.new.368.t:0 "오스트리아는 우리 당국에 트란실바니아에서 철수 할 것을 요구합니다."
+ausgleich.new.366.t:0 "오스트리아가 우리에게 슬로바키아와 트란실바니아에서 철수할 것을 요구하다"
+ausgleich.new.366.d:0 "오스트리아가 슬로바키아와 트란실바니아에서 행정기구와 군대를 철수하라고 요구했습니다."
+ausgleich.new.366.a:0 "그 말대로 해야한다."
+ausgleich.new.366.b:0 "절대 안된다!"
 
-ausgleich.new.370.t:0 "헝가리는 우리의 최후 통첩에 동의하다."
-ausgleich.new.370.d:0 "헝가리는 분쟁 지역을 떠났으며 우리 군대가 자유롭게 행군하고 질서를 회복 할 수 있게 했습니다. 물론 우리가 원하는 질서입니다."
+ausgleich.new.367.t:0 "오스트리아가 우리에게 슬로바키아에서 철수할 것을 요구하다"
+ausgleich.new.367.d:0 "오스트리아가 슬로바키아에서 행정기구와 군대를 철수하라고 요구했습니다.."
+ausgleich.new.367.a:0 "그 말대로 해야한다."
+ausgleich.new.367.b:0 "절대 안된다!"
+
+ausgleich.new.368.t:0 "오스트리아가 우리에게 트란실바니아에서 철수할 것을 요구하다"
+ausgleich.new.368.d:0 "오스트리아가 트란실바니아에서 행정기구와 군대를 철수하라고 요구했습니다."
+ausgleich.new.368.a:0 "그 말대로 해야한다."
+ausgleich.new.368.b:0 "절대 안된다!"
+
+ausgleich.new.370.t:0 "헝가리가 우리의 최후 통첩에 동의하다"
+ausgleich.new.370.d:0 "헝가리는 분쟁 지역을 떠났으며 우리 군대가 자유롭게 행군하고 질서를 회복할 수 있도록 했습니다. 물론 우리가 원하는 질서대로입니다."
 ausgleich.new.370.a:0 "멋지군."
 
 ausgleich.new.371.t:0 "헝가리의 거절"
-ausgleich.new.371.d:0 "헝가리는 우리의 최후 통첩을 거절하고 분쟁 지역을 떠나기를 거절합니다."
-ausgleich.new.371.a:0 "이게 무슨 뜻인지 알겠지?"
-ausgleich.new.371.b:0 "...그래."
+ausgleich.new.371.d:0 "헝가리는 우리의 최후 통첩을 무시하고 분쟁 지역에서의 철수를 거부했습니다."
+ausgleich.new.371.a:0 "이게 무슨 의미인지 알고 있겠지?"
+ausgleich.new.371.b:0 "...그런가."
 
-ausgleich.new.372.t:0 "오스트리아는 분쟁 지역에 대한 전쟁을 선포했습니다."
+ausgleich.new.372.t:0 "오스트리아가 분쟁 지역에 대한 전쟁을 선포하다"
 
 ausgleich.new.373.t:0 "슬로바키아 국가 선언"
 ausgleich.new.373.d:0 "슬로바키아는 결국 헝가리의 손에서 해방되었지만 여전히 불안정합니다. 영토를 즉시 해방하는 것은 크게 존경받을 것이지만 우리의 군사 고문은 그렇게 하기전에 기다리는것이 현명한 생각일 수 있다고 말합니다."
@@ -1183,42 +1196,42 @@ ausgleich.new.374.d:0 "트란실바니아는 결국 헝가리의 손에서 해�
 ausgleich.new.374.a:0 "우리는 해방자이다. 트란실바니아의 국가가 선포될것이다."
 ausgleich.new.374.b:0 "이 지역은 지금 당분간 점령 될 것이다."
 
-ausgleich.new.375.t:0 "헝가리 국가 재건"
-ausgleich.new.375.d:0 "헝가리는 준-독립적인 자치 의회 구성이 아니라 제국의 다른 왕관들과 동등한 위치에 서있기를 원합니다."
+ausgleich.new.375.t:0 "헝가리 국가 재성립"
+ausgleich.new.375.d:0 "헝가리는 준-독립적인 자치 의회 구성이 아닌, 제국의 다른 왕국들과 동등한 지위에 서있기를 원합니다."
 ausgleich.new.375.a:0 "헝가리는 재건되어야 한다."
-ausgleich.new.375.b:0 "왜 우리는 우리와 싸운 사람들을 해방시켜야 하지?"
+ausgleich.new.375.b:0 "왜 우리와 싸웠던 이들을 해방시켜야 하지?"
 
 
 
 ausgleich.new.380.t:0 "오스트리아의 압제"
 ausgleich.new.380.d:0 "오스트리아는 헝가리 국민을 해방시키기를 거부하고 대신 스스로 군주의 역할을 맡았습니다."
-ausgleich.new.380.a:0 "우리는 여기에 대항해야 한다."
-ausgleich.new.380.b:0 "빈에 대항해 우리가 무엇을 할 수 있지?"
+ausgleich.new.380.a:0 "우리는 저항해야 한다."
+ausgleich.new.380.b:0 "빈에게 저항해 우리가 할 수 있는 게 뭐지?"
 
 ausgleich.new.381.t:0 "오스트리아의 압제"
-ausgleich.new.381.d:0 "오스트리아는 헝가리 국민을 해방시키기를 거부하고 대신 스스로 군주의 역할을 맡았습니다. 보헤미아는 빈에 있는 천박한 남자를 퇴위시키기 위한 임시 동맹에 가입하라고 우리에게 요구했습니다."
-ausgleich.new.381.a:0 "우리는 여기에 대항해야 한다."
-ausgleich.new.381.b:0 "빈에 대항해 우리가 무엇을 할 수 있지?"
+ausgleich.new.381.d:0 "오스트리아는 헝가리 국민을 해방시키기를 거부하고 대신 스스로 군주의 역할을 맡았습니다. 보헤미아는 빈에 처박혀있는 천박한 남자를 퇴위시키기 위한 임시 동맹에 가입하라고 우리에게 요구했습니다."
+ausgleich.new.381.a:0 "우리는 저항해야 한다."
+ausgleich.new.381.b:0 "빈에게 저항해 우리가 할 수 있는 게 뭐지?"
 
 ausgleich.new.382.t:0 "오스트리아와의 전쟁"
-ausgleich.new.382.d:0 "헝가리의 부당한 요구에 오스트리아가 굴복했으며 이제 대타협 결과를 반대하는 자들과 단결할 수 밖에 없습니다. 오스트리아와의 전쟁이 시작될 것입니다."
-ausgleich.new.382.a:0 "제국의 모든 이들은 자유의 몸이 되어야한다."
+ausgleich.new.382.d:0 "헝가리의 부당한 요구에 오스트리아가 굴복했으며 이제 우리는 대타협 결과를 반대하는 자들과 단결할 수 밖에 없습니다. 오스트리아와의 전쟁이 시작되었습니다."
+ausgleich.new.382.a:0 "제국의 모든 이들은 자유의 몸이 되어야 한다."
 
 ausgleich.new.383.t:0 "보헤미아와의 전쟁"
-ausgleich.new.383.d:0 "보헤미아가 이끄는 분리주의 연합은 대타협 결과에 불만을 품었으며 점점 더 다루기 힘들어 지고 있습니다. 이제 오랫동안 우리 제국을 괴롭혀 온 긴장은 유혈을 통해서 해결될 것으로 보입니다."
+ausgleich.new.383.d:0 "보헤미아가 이끄는 분리주의 연합은 대타협 결과에 불만을 품었으며 점점 더 다루기 힘들어지고 있습니다. 이제 오랫동안 우리 제국을 괴롭혀온 긴장은 피를 통해서 해결될 것으로 보입니다."
 ausgleich.new.383.a:0 "우린 이 배신자들을 쳐부술 것이다!"
 
 
 
 ausgleich.new.700.t:0 "오스트리아의 재통합 요구"
 ausgleich.new.700.d:0 "그들은 우리가 다시 빈에서 통치되어야 한다고 말합니다."
-ausgleich.new.700.a:0 "빈에 대항해 우리는 무엇을 할 수 있지?"
-ausgleich.new.700.b:0 "아니."
-ausgleich.new.700.c:0 "우리가 반기를 든 곳이 아닌가?"
+ausgleich.new.700.a:0 "빈에 대항해 우리가 할 수 있는 게 뭐지?"
+ausgleich.new.700.b:0 "싫은데."
+ausgleich.new.700.c:0 "우리가 반기를 들었던 자들이 아닌가?"
 
 ausgleich.new.701.t:0 "[From.GetNameDefCap]이(가) 재통합에 동의하다"
-ausgleich.new.701.d:0 "[From.GetAdjective] 정부는 보다 중앙 집권적인 국가의 제안에 동의했습니다."
-ausgleich.new.701.a:0 "멋지군."
+ausgleich.new.701.d:0 "[From.GetAdjective] 정부는 보다 중앙집권적인 국가의 성립에 동의했습니다."
+ausgleich.new.701.a:0 "좋아."
 
 
 
@@ -1227,91 +1240,52 @@ ausgleich.new.701.a:0 "멋지군."
 ### TREE EVENTS
 #########################################################################################################################
 
-aus.tree.4010.t:0 "독일의 전쟁 수행"
-aus.tree.4010.d:0 "우리의 이웃이자 오랜 동맹국은 현재 프랑스와 전쟁 중입니다. 독일군은 몇 주 내로 전쟁을 끝낼 수 있을 것이라고 장담했지만, 이 전쟁은 결국 두 번째 세계 대전이 되었습니다. 공산주의자들이 이 전쟁의 승리자가 된다면, 이탈리아에서의 우리 이익을 빼앗기는 것 뿐만 아니라, 우리 제국의 존립조차도 위협받을 지 모르는 일입니다. 우리 의견차는 우선 제쳐두고 다시 한번 독일과 나란히 서서 싸우는 것이 최선일지도 모릅니다."
-aus.tree.4010.a:0 "베를린에 팩스를 보내라."
-
 aus.tree.4011.t:0 "오스트리아가 전쟁에 참여하길 원하다"
-aus.tree.4011.d:0 "오늘, 비엔나로부터 우리 이웃이 다시 한번 우리와 나란히 서서 프랑스 코뮌과 맞섬으로써 우리를 '구제'하고 싶다는 내용의 팩스 메일을 보내왔습니다. 오스트리아 군대는 더 이상 세계대전 시기의 구닥다리가 아니기에 분명 도움이 될 것입니다. 이것은 이탈리아에 대항한 양면전선이 생기는 일이기도 하며, 적어도 합스부르크와는 이탈리아 반도에 대한 이해관계가 일치합니다."
-aus.tree.4011.a:0 "우리는 다시 한번 전우로서 선다."
+aus.tree.4011.d:0 "오늘, 비엔나로부터 우리 이웃이 다시 한번 우리와 나란히 서서 [FRA.GetNameDef]와(과) 맞섬으로써 우리를 '구원'하고 싶다는 내용의 팩스 메일을 보내왔습니다. 오스트리아 군대는 더 이상 세계대전 시기의 구닥다리가 아니기에 분명 도움이 될 것입니다. 이것은 이탈리아에 대항한 양면전선이 생기는 일이기도 하며, 적어도 합스부르크와는 이탈리아 반도에 대한 이해관계가 일치합니다."
+aus.tree.4011.a:0 "우리는 다시 한번 전우로서 선다!"
 aus.tree.4011.b:0 "우리는 스스로 잘 해나가는 중이다."
 
 aus.tree.4012.t:0 "독일이 우리 제안을 거절하다"
-aus.tree.4012.d:0 "베를린은 우리의 도움이 필요 없고, 원하지도 않으므로, 현재 진행중인 분쟁에 개입하지 말라는 내용의 답신을 보내왔습니다."
+aus.tree.4012.d:0 "베를린은 우리의 도움이 필요 없고, 원하지도 않으므로 현재 진행중인 분쟁에 개입하지 말라는 내용의 답신을 보내왔습니다."
 aus.tree.4012.a:0 "무례하군."
-aus.tree.4012.b:0 "[From.GetLeader]는 이것을 본인이 결정할 수 있다고 생각하는 건가?"
+aus.tree.4012.b:0 "[From.GetLeader]은(는) 이걸 본인이 결정할 수 있다고 생각하는 건가?"
 
 aus.tree.4013.t:0 "독일이 우리의 전쟁 참여를 허락하다"
-aus.tree.4013.d:0 "독일은 우리 팩스 메일에 호의적인 답신을 보내왔으며, 생디칼리즘의 확산을 저지하기 위한 우리의 지원 제안에 환영의 뜻을 보였습니다. 오늘 부로, 우리는 생디칼리스트들과 전쟁 중입니다."
+aus.tree.4013.d:0 "독일은 생디칼리즘의 확산을 저지하기 위한 우리의 전투참여 의사에 환영의 뜻을 보였습니다. 오늘부로, 우리는 생디칼리스트들과 전쟁 중입니다."
 aus.tree.4013.a:0 "우리는 다시 한번 전우로서 선다."
 
+aus.tree.4020.t:0 "[From.GetNameDef]의 침공 "
+aus.tree.4020.d:0 "[From.GetNameDefCap]은(는) '발칸 반도의 수호자'로서 제 역할을 다시 시작했으며, 이를 위해 우리를 동맹에 공식적으로 초청했습니다. 이 초청은 [From.GetNameDefCap]의 전쟁에 우리의 군대를 투입하겠지만 대신 보호를 통해 혜택을 얻을 것을 의미합니다."
+aus.tree.4020.a:0 "보호를 받아들인다."
+aus.tree.4020.b:0 "먼저 우리가 주장한 영토부터 되찾고싶다!"
+aus.tree.4020.c:0 "우린 이미 잘 지내고 있다."
 
-aus.tree.4020.t:0 "알바니아에 대한 이해관계"
-aus.tree.4020.d:0 "알바니아 공국은 세계 대전 이후 오스트리아의 영향력 아래 놓이게 되었지만, 우리 대표단은 내부 사정으로 어쩔 수 없이 철수한 상태입니다. 하지만, 이제 우리는 그들을 다시금 지배할 준비가 되었습니다."
-aus.tree.4020.a:0 "다시 불을 붙여보도록 할까."
+aus.tree.4021.t:0 "[From.GetNameDefCap]의 수락"
+aus.tree.4021.d:0 "[From.GetAdjective]은(는) [From.GetNameDef]이(가) [Root.GetNameDef]와 긴밀한 협력을 기대하고 있다고 알려왔습니다. [Root.GetAdjective]-[From.GetAdjective]관계가 호전되기 시작했습니다."
+aus.tree.4021.a:0 "아주 좋아."
 
-aus.tree.4021.t:0 "빈에서 온 팩스 메일"
-aus.tree.4021.d:0 "오스트리아는 "발칸 반도의 수호자" 역할을 자처하는 그들의 정책을 다시 추진하고 있으며, 공식적으로 우리가 그들의 영역권에 들어오길 제안했습니다. 우리가 받아들인다면, 우리는 그들의 보호 하에 놓이게 됩니다."
-aus.tree.4021.a:0 "보호받는 것은 좋은 일이다."
-aus.tree.4021.b:0 "우리는 우리만의 힘으로 잘 해나가고 있다."
+aus.tree.4022.t:0 "[From.GetAdjective]의 조건"
+aus.tree.4022.d.onlysubjects:0 "양 정부간의 대화 이후, [From.GetNameDef]이(가) 우리 동맹에 참여하는데 주 장애물은 그들이 [state_example.GetName] 같은 영토들에 대한 소유권을 주장하고 있으며 그곳에 우리 국민들이 거주하고 있는 것입니다. 그 국민들을 포기하는데 선택의 여지가 없다면 같은 배에 타는데 뇌물을 줄만한 가치가 있나?"
+aus.tree.4022.d.onlycoresubjects:0 "양 정부간의 대화 이후, [From.GetNameDef]이(가) 우리 동맹에 참여하는데 주 장애물은 그들이 [state_example.GetName] 같은 영토들에 대한 소유권을 주장하고 있으며 그곳에 우리 국민들이 거주하고 있는 것입니다. 하지만, 그 땅은 제국의 당연한 부분으로 여겨지고 있습니다. 그 땅을 우리가 통제하지 않는 국가에 양도하고, 심지어 동맹국과 교환하더라도, [Root.GetNameDef]은 누구와도 어울리지 않을 것입니다. 그들과 한 배를 타는것은 정말 가치있는 일인가?"
+aus.tree.4022.d.onlyAUSnotcore:0 "양 정부간의 대화 이후, [From.GetNameDef]이(가) 우리 동맹에 참여하는데 주 장애물은 그들이 [state_example.GetName] 같은 영토들에 대한 소유권을 주장하고 있으며 그곳에 우리 국민들이 거주하고 있는 것입니다. 하지만, 그 땅은 제국의 핵심이 아닙니다. [From.GetAdjective] 정부가 우리 동맹에 참여하도록 뇌물을 주고 영토의 통제권을 포기할만한 가치가 있나?"
+aus.tree.4022.d.onlyAUScore:0 "양 정부간의 대화 이후, [From.GetNameDef]이(가) 우리 동맹에 참여하는데 주 장애물은 그들이 [state_example.GetName] 같은 영토들에 대한 소유권을 주장하고 있으며 그곳에 우리 국민들이 거주하고 있는 것입니다. 하지만, 그 땅은 제국의 핵심이며, 그 땅을 우리가 통제하지 않는 국가에 양도하고 심지어 동맹국과 교환하는 것은 생각할 수도 없습니다. 정말 그런 걸 고려할만 한가?"
+aus.tree.4022.d.onlyallies:0 "양 정부간의 대화 이후, [From.GetNameDef]이(가) 우리 동맹에 참여하는데 주 장애물은 그들이 [state_example.GetName] 같은 영토들에 대한 소유권을 주장하고 있으며 그곳에 우리 동맹이 소유하고 있는 것입니다. 우린 동맹국을 위해 포기할 수 없으며, 그들의 요청을 거부할 수 밖에 없다."
+aus.tree.4022.a:0 "우린 비용에 관계없이 동맹을 원한다."
+aus.tree.4022.b:0 "놈들의 요구가 너무 과하다."
+aus.tree.4022.c:0 "적어도 물어볼 가치가 있다."
 
-aus.tree.4022.t:0 "[From.GetNameDefCap]이(가) 거절하다."
-aus.tree.4022.d:0 "[From.GetLeader]는 그들이 우리의 보호에 관심이 없다는 것을 알려왔습니다. [From.GetNameDef]는 우리 영역권에 들어오지 않을 것입니다."
-aus.tree.4022.a:0 "훌륭하기도 해라."
+aus.tree.4023.t:0 "[From.GetAdjective]이(가) 장악하다"
+aus.tree.4023.d:0 "[receiver.GetNameDef]와 동맹에 참여하는 조약을 중해하기 위해, [From.GetAdjective] 정부는 우리의 허가를 요청하지 않고 [Root.GetAdjective]를 양도하는데 동의했다. 슬프게도, 우리의 종속적인 입장을 고려했을때, 극렬하게 우리가 항의할수 없습니다. 그건 중요하지 않습니다."
+aus.tree.4023.a:0 "잔인무도한 일이다!"
 
-aus.tree.4023.t:0 "[From.GetNameDefCap]이(가) 우리의 영향권에 들어오는 것에 동의하다."
-aus.tree.4023.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
-aus.tree.4023.a:0 "훌륭하군."
+aus.tree.4024.t:0 "[From.GetNameDefCap]이(가) 우리의 요구를 수용하다"
+aus.tree.4024.d:0 "[From.GetAdjective] 대사가 우리가 하겠다는 소식과 돌아왔을 때 충격을 받았고, 그들이 주장한 영토를 당장 양도합니다. [From.GetNameDef]와의 새로운 관계를 성립하는 행운의 시작입니다."
+aus.tree.4024.a:0 "아주 좋아."
 
+aus.tree.4025.t:0 "[From.GetNameDefCap]이(가) 우리의 요구를 거절하다"
+aus.tree.4025.d:0 "우리의 주장에 힘이 있든 없든, [From.GetAdjective] 대사가 귀국하고 우리의 동맹국을 위해 어떤 영토도 양도하지 않을 것이라는 것을 [From.GetNameDef] 정부가 알려 왔을 때 [Root.GetAdjective] 정부 내에선 조금도 놀란 이가 없습니다."
+aus.tree.4025.a:0 "그들의 제안이 너무 많다"
 
-aus.tree.4030.t:0 "그리스에 대한 우리의 관심"
-aus.tree.4030.d:0 "고대에 그리스 왕국은 문명의 장작이었습니다. 오늘날 그리스의 대부분은 우리의 오랜 동맹국이 점령하고 있습니다. 그리스는 비슷한 운명을 가진 세르비아와 친하게 지내고 있습니다. 그 둘의 동맹은 우리에게 위협이 될 수도 있습니다. 그들의 관심을 지지하면 우리가 불가리아와 충돌할 수도 있지만, 그들이 세르비아와 함께하는 것보다는 나을 것이라는 주장이 있습니다."
-aus.tree.4030.a:0 "또 다시 아테네로."
-
-aus.tree.4031.t:0 "빈에서 온 팩스 메일"
-aus.tree.4031.d:0 "오스트리아는 "발칸 반도의 수호자" 역할을 자처하는 그들의 정책을 다시 추진하고 있으며, 공식적으로 우리가 그들의 영역권에 들어오길 제안했습니다. 우리가 받아들인다면, 우리는 그들의 보호 하에 놓이게 됩니다."
-aus.tree.4031.a:0 "보호받는 것은 좋은 일이다."
-aus.tree.4031.b:0 "우리는 우리만의 힘으로 잘 해나가고 있다."
-
-aus.tree.4032.t:0 "[From.GetNameDefCap]이(가) 거절하다."
-aus.tree.4032.d:0 "[From.GetLeader]는 그들이 우리의 보호에 관심이 없다는 것을 알려왔습니다. [From.GetNameDef]는 우리 영역권에 들어오지 않을 것입니다."
-aus.tree.4032.a:0 "훌륭하기도 해라."
-
-aus.tree.4033.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다."
-aus.tree.4033.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
-aus.tree.4033.a:0 "훌륭하군."
-
-
-aus.tree.4040.t:0 "루마니아에 대한 우리의 관심"
-aus.tree.4040.d:0 "루마니아 국왕이 자기 나라를 다시 통치할 수 있게 도와주면서 우리 영향권에 가입하라고 요구한 것은 형식에 불과 합니다. 이 동맹이 더 많은 것으로 이어지기를 바랍니다."
-aus.tree.4040.a:0 "영원한 우방이다."
-
-aus.tree.4041.t:0 "빈에서 온 팩스 메일"
-aus.tree.4041.d:0 "오스트리아는 "발칸 반도의 수호자" 역할을 자처하는 그들의 정책을 다시 추진하고 있으며, 공식적으로 우리가 그들의 영역권에 들어오길 제안했습니다. 우리가 받아들인다면, 우리는 그들의 보호 하에 놓이게 됩니다."
-aus.tree.4041.a:0 "보호받는 것은 좋은 일이다."
-aus.tree.4041.b:0 "우리는 우리만의 힘으로 잘 해나가고 있다."
-
-aus.tree.4042.t:0 "[From.GetNameDefCap]이(가) 거절하다."
-aus.tree.4042.d:0 "[From.GetLeader]는 그들이 우리의 보호에 관심이 없다는 것을 알려왔습니다. [From.GetNameDef]는 우리 영역권에 들어오지 않을 것입니다."
-aus.tree.4042.a:0 "훌륭하기도 해라."
-
-aus.tree.4043.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다."
-aus.tree.4043.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
-aus.tree.4043.a:0 "훌륭하군."
-
-aus.tree.4050.t:0 "불가리아에 대한 우리의 관심"
-aus.tree.4050.d:0 "불가리아는 발칸반도 힘의 균형의 핵심입니다. 특히 세르비아의 적개심에 대한 대응책으로써, 우리는 오랜 분쟁지역에 평화와 안정을 유지하기 위해 불가리아인들과 더 많은 협력을 추진해야 합니다."
-aus.tree.4050.a:0 "영원한 우정."
-
-aus.tree.4051.t:0 "빈에서 온 팩스"
-aus.tree.4051.d:0 "오스트리아는 발칸반도의 수호자 역할을 하는 그의 정책을 다시 한번 일깨워주었고 공식적으로 우리를 그들의 세력의 초대했습니다. 그래서 우리는 그들의 보호 아래 있을 수 있습니다."
-aus.tree.4051.a:0 "보호받는것은 좋지."
-aus.tree.4051.b:0 "우리끼리 잘 지내고 있어."
-
-aus.tree.4052.t:0 "[From.GetNameDefCap]이(가) 거절하다."
-aus.tree.4052.d:0 "[From.GetLeader]의 나라는 우리의 보호 제안의 관심이 없다는 걸 알게 해줬지 [From.GetNameDef]은(는) 우리 세력의 일부가 되지 않을 거야."
-aus.tree.4052.a:0 "Well then."
-
-aus.tree.4053.t:0 "[From.GetNameDefCap]이(가) 우리 영향권에 들어오다."
-aus.tree.4053.d:0 "[From.GetLeader]는 그들이 우리와 더 긴밀한 협력 관계를 원한다고 전했습니다. [Root.GetAdjective]-[From.GetAdjective] 관계의 좋은 출발입니다."
-aus.tree.4053.a:0 "훌륭하군"
+aus.tree.4026.t:0 "[From.GetNameDefCap]이(가) 거절하다"
+aus.tree.4026.d:0 "반박을 귀찮게 여기지 않고, [From.GetAdjective] 정부는 우리의 요청을 거절했습니다... 더 나아가 '발칸반도의 수호자'라는 작위로 우리의 주장을 비웃었습니다. 우리 동맹은 그들 없이 유지해야겠습니다."
+aus.tree.4026.a:0 "그렇다면야"

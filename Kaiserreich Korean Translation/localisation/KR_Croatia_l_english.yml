@@ -29,8 +29,8 @@ ILL_croatian_command_desc:0 "크로아티아인들은 일리리아를 오스트�
 ILL_federated_army:0 "통합된 일리리아 장교단"
 ILL_federated_army_desc:0 "우리는 모든 역경에도 불구하고 신생국을 파괴하려는 이들을 이겨 냈지만, 여전히 할 일이 많이 남아 있습니다. 일리리아의 모든 군 장교들을 하나의 통합 일리리아 장교단으로 모아야 합니다."
 
-CRO_SLOintegration:0 "슬로베니아 병합"
-CRO_SLOintegration_desc:0 "While we share much with our Slovenian brothers, the cost of integrating the region's administration and anger from within certain segments of the Slovenian population which minimize Slovene ties to our people have become a substantial burden."
+CRO_SLOintegration:0 "슬로베니아 통합"
+CRO_SLOintegration_desc:0 "우리가 슬로베니아 형제들과 많은 부분을 공유하고 있지만, 슬로베니아의 특정 지역 내에서 지역 행정과 반발을 통합하시키는 비용이 우리 국민들과 슬로베니아와의 관계를 최소화하는데 상당한 부담이되고 있습니다."
 
 ### Events ###
 illyria.1.t:0 "일리리아 왕국"
