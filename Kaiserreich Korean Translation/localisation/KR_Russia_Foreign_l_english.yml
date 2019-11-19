@@ -117,8 +117,8 @@ RUS_join_mitteleuropa:0 "제국 조약 가입"
 RUS_join_mitteleuropa_desc:0 "비열한 독일인들이 우리가 이 상황에 놓인 모든 원인이지만, 세계의 주요 위협을 단순히 무시할 수는 없습니다. 생디칼리즘의 출현이 모든 것을 바꾸어 놓았습니다."
 RUS_join_internationale:0 "인터내셔널 가입"
 RUS_join_internationale_desc:0 "우리는 생디칼리스트들과 함께 서서 독일인 그리고 다른 위협들을 짓밟아야 합니다. 세계의 거짓 황제들은 그 소식을 듣고서 공포에 질릴 것입니다!"
-RUS_form_new_alliance:0 "신 글로벌 동맹 결성"
-RUS_form_new_alliance_desc:0 "러시아는 절대로 다른 어떤 나라의 애완견이 되어서는 안 됩니다. 이제는 우리 자신만의 동맹을 형성하고 더 이상 다른 이들의 장단에 춤추기를 그만둬야 할 때입니다!"
+RUS_form_new_alliance:0 "새로운 국제동맹 결성"
+RUS_form_new_alliance_desc:0 "러시아는 절대로 다른 어떤 나라의 졸개가 될 수 없습니다. 이제는 우리들만의 동맹을 조직하고 다른 이들의 장단에 맞춰주기는 그만둬야 할 때입니다!"
 
 ### Events ###
 inter_steppe_alliance:0 "대초원 동맹"
