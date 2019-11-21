@@ -92,14 +92,14 @@ weltkrieg_submarine_hull:0 "세계대전 잠수함 선체"
 weltkrieg_submarine_hull_desc:0 "작전반경과 외해 순양 능력의 향상, 그리고 세계대전의 전훈을 반영하여 설계된 이 잠수함은 함대 정찰, 장거리 초계 뿐만 아니라 다양한 임무를 수행할 수 있게 됐습니다. 특히 상선 격침 임무 수행에 있어서 뛰어납니다."
 ship_hull_submarine_2:0 "세계대전 잠수함 선체"
 ship_hull_submarine_2_desc:0 "작전반경과 외해 순양 능력의 향상, 그리고 세계대전의 전훈을 반영하여 설계된 이 잠수함은 함대 정찰, 장거리 초계 뿐만 아니라 다양한 임무를 수행할 수 있게 됐습니다. 특히 상선 격침 임무 수행에 있어서 뛰어납니다."
-ship_hull_submarine_3:0 "전간기 점수함 선체" #Early Interwar
-ship_hull_submarine_3_desc:0 "Significantly larger than preceding submarines, some of these designs were of 'cruiser' type, designed for long-range independent operations in commerce raiding and intended to be better equipped to handle combat with enemy light warships while surfaced. As such, they carried heavier gun armament, and had improved surface speed. Their submerged capabilities, however, remained limited."
-ship_hull_submarine_4:0 "개선된 잠수함 선체" #Late Interwar
-ship_hull_submarine_4_desc:0 "The evolution of the 'cruiser' submarine designs, some of these warships took those ideas further, with larger guns and a greater emphasis on surface abilities, while others began to look in the other direction, seeking to increase underwater capabilities and performance."
+ship_hull_submarine_3:0 "전간기 점수함 선체" #초기 전간기
+ship_hull_submarine_3_desc:0 "전간기의 잠수함들은 이전 세대의 잠수함보다 덩치가 상당히 커졌으며, 몇몇 잠수함들은 원양에서 재보급 없이도 통상파괴 임무를 수행할 수 있고, 무장 수준을 강화해 적 경함선과 수상에서 조우했을 때 동등한 위치에서 교전할 수 있는 순양 잠수함으로 설계되기도 했습니다. 이 잠수함들은 함포로 중무장했으며, 수상 항행속도도 빠릅니다. 그러나 이 잠수함들의 잠항 능력은 여전히 제한적입니다."
+ship_hull_submarine_4:0 "개선된 잠수함 선체" #후기 전간기
+ship_hull_submarine_4_desc:0 "전간기 막바지에, 순양 잠수함은 더 큰 함포와 더 좋은 대수상 공격 능력을 강조하는 방향으로 설계되었습니다. 반면에, 한편에선 수중 항행능력과 잠항 시간을 늘릴 방법을 모색했습니다."
 ship_hull_submarine_5:0 "진보된 잠수함 선체"
-ship_hull_submarine_5_desc:0 "The gains made by some earlier designs in extending underwater range, speed, and overall abilities, led to the turn in submarine development away from 'cruiser' types and back towards vessels with a greater emphasis on underwater capabilities. Vastly improved over earlier types, these submarines carried potent payloads of torpedoes and were a legitimate threat to almost all surface ships. However, they were still limited in submerged duration, range, and speed, and remained vulnerable when surfaced, especially to aircraft."
+ship_hull_submarine_5_desc:0 "잠항 능력에 중점을 둔 몇몇 잠수함 설계안에서 얻은 교훈은 잠수함의 설계 기조를 기존의 순양 잠수함에서 잠항 특화 잠수함으로 변화시켰습니다. 잠수함에 실리는 어뢰 수가 이전 세대의 잠수함보다 크게 증가함에 따라, 거의 모든 수상함들은 갑툭튀할지 모를 어뢰에 대한 공포에 떨게 되었습니다. 그러나, 아직도 잠수함의 잠항 능력은 제한되어 있으며, 잠수함이 부상했을 때 수상함, 특히 항공기에게 동네북이 되는 취약점은 남아 있습니다."
 ship_hull_submarine_6:0 "현대 잠수함 선체"
-ship_hull_submarine_6_desc:0 "With greatly increased battery capacity, advanced systems to refresh air while still submerged, and overall refined designs, these were the first submarines intended to be able to remain submerged for most of the duration of their time at sea. As such, they marked a massive shift in naval warfare, and the ascendancy of submarines to being true terrors. Such warships offered the ability to dominate the oceans to those nations that developed and deployed them."
+ship_hull_submarine_6_desc:0 "배터리 기술의 진보로 잠수함의 함내 공기를 잠항한 상태에서도 정화할 수 있게 되었고, 잠수함의 전반적인 설계가 효율적으로 개량되면서, 거의 대부분의 시간을 잠항한 채로 보내는 것이 가능해졌습니다. 이 잠수함들은 해전의 진행 방향에 거대한 변화를 주었으며, 수상함들에게 진정한 공포로 떠올랐습니다. 그러므로, 현대 잠수함을 개발 및 배치한 국가에게 해상을 장악할 능력을 주게 될 것입니다."
 
 ss_utility_one:0 "추가 연료탱크"
 ss_utility_one_desc:0 "연료탱크를 증설해서 더 큰 작전반경을 갖습니다."
@@ -131,13 +131,13 @@ torpedo_tech_five:0 "유도 어뢰"
 torpedo_tech_five_desc:0 "음향 탐지기가 장착된 어뢰는 가장 큰 소음이 나는 - 보통 적함이 있는 방향으로 유도됩니다."
 
 ship_hull_light_1:0 "세계대전 이전 경함선 선체"
-ship_hull_light_1_desc:0 "1892년에 탄생한 어뢰정 구축함은 구축함의 선조라고 할 수 있습니다. 함대를 적 어뢰정으로부터 보호하는 이 함선들은 어뢰정의 덩치를 키운 것으로 어뢰정보다 빠른 속도와 두꺼운 장갑을 가지면서 어뢰 공격 능력은 남긴 함선들입니다. 이 함선들의 배수량은 보통 300톤에서 600톤 정도이며 26노트의 최고속력을 지녔고 어뢰발사관 하나와 소구경 함포를 달았습니다."
+ship_hull_light_1_desc:0 "1892년에 탄생한 어뢰정 구축함은 구축함의 선조라고 할 수 있습니다. 함대를 적 어뢰정으로부터 보호하는 이 함선들은 어뢰정의 덩치를 키운 것으로 어뢰정보다 빠른 속도와 두꺼운 장갑을 가지면서 어뢰 공격 능력은 남긴 함선들입니다. 이 함선들의 배수량은 보통 300 톤에서 600 톤 정도이며 26 노트의 최고속력을 지녔고 어뢰발사관 하나와 소구경 함포를 달았습니다."
 weltkrieg_light_ship_hull_nonmtg:0 "세계대전 경함선 선체"
-weltkrieg_light_ship_hull_nonmtg_desc:0 "The Weltkrieg brought a new demand for destroyers: not only were they required to protect their fleets, but they were also stretched thin to protect the Entente shipping lines as well. To meet this need, destroyer designs were streamlined, entering mass production to keep up with demand. Ships of this era were typically 1000 tons, and travelled at a top speed of 34 knots, while carrying a larger pair of torpedoes than their forebears."
+weltkrieg_light_ship_hull_nonmtg_desc:0 "세계대전은 구축함의 새로운 수요를 불러왔습니다. 구축함이 그들의 함대뿐만 아니라 상선들도 보호해주길 원했기 때문이죠. 새로운 요구를 충족시키기 위해, 선체 형상은 날렵해졌으며 대량 생산되기 시작했습니다. 세계대전 시기의 구축함들은 보통 1,000 톤의 배수량을 지녔으며 34 노트의 속력을 낼 수 있습니다. 또한 이전 시대의 구축함보다 더 많은 어뢰발사관을 탑재했습니다."
 weltkrieg_light_ship_hull:0 "세계대전 경함선 선체"
-weltkrieg_light_ship_hull_desc:0 "The Weltkrieg brought a new demand for destroyers: not only were they required to protect their fleets, but they were also stretched thin to protect the Entente shipping lines as well. To meet this need, destroyer designs were streamlined, entering mass production to keep up with demand. Ships of this era were typically 1000 tons, and travelled at a top speed of 34 knots, while carrying a larger pair of torpedoes than their forebears."
+weltkrieg_light_ship_hull_desc:0 "세계대전은 구축함의 새로운 수요를 불러왔습니다. 구축함이 그들의 함대뿐만 아니라 상선들도 보호해주길 원했기 때문이죠. 새로운 요구를 충족시키기 위해, 선체 형상은 날렵해졌으며 대량 생산되기 시작했습니다. 세계대전 시기의 구축함들은 보통 1,000 톤의 배수량을 지녔으며 34 노트의 속력을 낼 수 있습니다. 또한 이전 시대의 구축함보다 더 많은 어뢰발사관을 탑재했습니다."
 ship_hull_light_2:0 "세계대전 경함선 선체"
-ship_hull_light_2_desc:0 "The Weltkrieg brought a new demand for destroyers: not only were they required to protect their fleets, but they were also stretched thin to protect the Entente shipping lines as well. To meet this need, destroyer designs were streamlined, entering mass production to keep up with demand. Ships of this era were typically 1000 tons, and travelled at a top speed of 34 knots, while carrying a larger pair of torpedoes than their forebears."
+ship_hull_light_2_desc:0 "세계대전은 구축함의 새로운 수요를 불러왔습니다. 구축함이 그들의 함대뿐만 아니라 상선들도 보호해주길 원했기 때문이죠. 새로운 요구를 충족시키기 위해, 선체 형상은 날렵해졌으며 대량 생산되기 시작했습니다. 세계대전 시기의 구축함들은 보통 1,000 톤의 배수량을 지녔으며 34 노트의 속력을 낼 수 있습니다. 또한 이전 시대의 구축함보다 더 많은 어뢰발사관을 탑재했습니다."
 ship_hull_light_3:0 "전간기 경함선 선체" #Early Interwar
 ship_hull_light_3_desc:0 "After the Weltkrieg, both England and Germany continued mass production of older models of destroyer with only slight improvements. It was not until the collapse of the British government and the end of the dreadnought race that navies worldwide began to analyse in-depth the lessons of the Weltkrieg, and how they might be applied to radically improve existing designs. Larger, improved rangefinders and new anti-submarine weapons were fitted, and multiple torpedo launcher tubes were mounted to improve their combat capability. While the overall size of these destroyers was not much larger than their predecessors, they were significantly more useful with a longer range, better armament, and faster speed."
 ship_hull_light_4:0 "개선된 경함선 선체" #Late Interwar
