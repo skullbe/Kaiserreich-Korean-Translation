@@ -92,9 +92,9 @@ weltkrieg_submarine_hull:0 "세계대전 잠수함 선체"
 weltkrieg_submarine_hull_desc:0 "작전반경과 외해 순양 능력의 향상, 그리고 세계대전의 전훈을 반영하여 설계된 이 잠수함은 함대 정찰, 장거리 초계 뿐만 아니라 다양한 임무를 수행할 수 있게 됐습니다. 특히 상선 격침 임무 수행에 있어서 뛰어납니다."
 ship_hull_submarine_2:0 "세계대전 잠수함 선체"
 ship_hull_submarine_2_desc:0 "작전반경과 외해 순양 능력의 향상, 그리고 세계대전의 전훈을 반영하여 설계된 이 잠수함은 함대 정찰, 장거리 초계 뿐만 아니라 다양한 임무를 수행할 수 있게 됐습니다. 특히 상선 격침 임무 수행에 있어서 뛰어납니다."
-ship_hull_submarine_3:0 "전간기 점수함 선체" #초기 전간기
+ship_hull_submarine_3:0 "전간기 점수함 선체" #전간기 초반
 ship_hull_submarine_3_desc:0 "전간기의 잠수함들은 이전 세대의 잠수함보다 덩치가 상당히 커졌으며, 몇몇 잠수함들은 원양에서 재보급 없이도 통상파괴 임무를 수행할 수 있고, 무장 수준을 강화해 적 경함선과 수상에서 조우했을 때 동등한 위치에서 교전할 수 있는 순양 잠수함으로 설계되기도 했습니다. 이 잠수함들은 함포로 중무장했으며, 수상 항행속도도 빠릅니다. 그러나 이 잠수함들의 잠항 능력은 여전히 제한적입니다."
-ship_hull_submarine_4:0 "개선된 잠수함 선체" #후기 전간기
+ship_hull_submarine_4:0 "개선된 잠수함 선체" #전간기 후반
 ship_hull_submarine_4_desc:0 "전간기 막바지에, 순양 잠수함은 더 큰 함포와 더 좋은 대수상 공격 능력을 강조하는 방향으로 설계되었습니다. 반면에, 한편에선 수중 항행능력과 잠항 시간을 늘릴 방법을 모색했습니다."
 ship_hull_submarine_5:0 "진보된 잠수함 선체"
 ship_hull_submarine_5_desc:0 "잠항 능력에 중점을 둔 몇몇 잠수함 설계안에서 얻은 교훈은 잠수함의 설계 기조를 기존의 순양 잠수함에서 잠항 특화 잠수함으로 변화시켰습니다. 잠수함에 실리는 어뢰 수가 이전 세대의 잠수함보다 크게 증가함에 따라, 거의 모든 수상함들은 갑툭튀할지 모를 어뢰에 대한 공포에 떨게 되었습니다. 그러나, 아직도 잠수함의 잠항 능력은 제한되어 있으며, 잠수함이 부상했을 때 수상함, 특히 항공기에게 동네북이 되는 취약점은 남아 있습니다."
@@ -112,9 +112,9 @@ ss_utility_four_desc:0 ""
 
 ss_torpedo_module_one:0 "세계대전 이후 어뢰 발사관"
 ss_torpedo_module_one_desc:0 ""
-ss_torpedo_module_two:0 "전간기 어뢰 발사관" #Early Interwar
+ss_torpedo_module_two:0 "전간기 어뢰 발사관" #전간기 초반
 ss_torpedo_module_two_desc:0 "기존의 선체에 고정된 어뢰 발사관에 강화된 전동기를 장착하면, 어뢰발사관을 함포처럼 회전시킬 수 있게 돼 빠르게 적함을 조준할 수 있습니다.\n\n이 모듈을 §Y경함선§!이나 §Y순양함§!에 장착하면 상당한 피해를 적 §Y주력함§!에 입힐 수 있습니다."
-ss_torpedo_module_three:0 "개선된 어뢰 발사관" #Late Interwar
+ss_torpedo_module_three:0 "개선된 어뢰 발사관" #전간기 후반
 ss_torpedo_module_three_desc:0 "중어뢰 발사관은 더 파괴적인 탄두를 장착한 중어뢰를 발사합니다.\n\n이 모듈을 §Y경함선§!이나 §Y순양함§!에 장착하면 상당한 피해를 적 §Y주력함§!에 입힐 수 있습니다."
 ss_torpedo_module_four:0 "진보된 어뢰 발사관"
 ss_torpedo_module_four_desc:0 "고압의 압축 공기는 더 무거워진 어뢰가 빠르게 발사되도록 돕습니다.\n\n이 모듈을 §Y경함선§!이나 §Y순양함§!에 장착하면 상당한 피해를 적 §Y주력함§!에 입힐 수 있습니다."
@@ -138,10 +138,10 @@ weltkrieg_light_ship_hull:0 "세계대전 경함선 선체"
 weltkrieg_light_ship_hull_desc:0 "세계대전은 구축함의 새로운 수요를 불러왔습니다. 구축함이 그들의 함대뿐만 아니라 상선들도 보호해주길 원했기 때문이죠. 새로운 요구를 충족시키기 위해, 선체 형상은 날렵해졌으며 대량 생산되기 시작했습니다. 세계대전 시기의 구축함들은 보통 1,000 톤의 배수량을 지녔으며 34 노트의 속력을 낼 수 있습니다. 또한 이전 시대의 구축함보다 더 많은 어뢰발사관을 탑재했습니다."
 ship_hull_light_2:0 "세계대전 경함선 선체"
 ship_hull_light_2_desc:0 "세계대전은 구축함의 새로운 수요를 불러왔습니다. 구축함이 그들의 함대뿐만 아니라 상선들도 보호해주길 원했기 때문이죠. 새로운 요구를 충족시키기 위해, 선체 형상은 날렵해졌으며 대량 생산되기 시작했습니다. 세계대전 시기의 구축함들은 보통 1,000 톤의 배수량을 지녔으며 34 노트의 속력을 낼 수 있습니다. 또한 이전 시대의 구축함보다 더 많은 어뢰발사관을 탑재했습니다."
-ship_hull_light_3:0 "전간기 경함선 선체" #Early Interwar
-ship_hull_light_3_desc:0 "After the Weltkrieg, both England and Germany continued mass production of older models of destroyer with only slight improvements. It was not until the collapse of the British government and the end of the dreadnought race that navies worldwide began to analyse in-depth the lessons of the Weltkrieg, and how they might be applied to radically improve existing designs. Larger, improved rangefinders and new anti-submarine weapons were fitted, and multiple torpedo launcher tubes were mounted to improve their combat capability. While the overall size of these destroyers was not much larger than their predecessors, they were significantly more useful with a longer range, better armament, and faster speed."
-ship_hull_light_4:0 "개선된 경함선 선체" #Late Interwar
-ship_hull_light_4_desc:0 "By 1935, with increasingly potent new aircraft designs entering service, as well as several navies deploying fleet carriers, while there was still some doubt about just how useful the carriers would be in open warfare, concern over the potential threat that aircraft might pose to warships was growing. German carrier operations during the Chinese intervention and continued British exercises had shown the world that the carrier had a purpose in the navy. As a result, this era of destroyer saw the introduction of the dual purpose primary armament, granting a vastly improved anti-aircraft role to the destroyer, again increasing their usefulness. Theses ships would displace up to 2,500 tons, often carrying increased payloads of torpedoes to offset the reduced torpedo loadout on more modern cruisers."
+ship_hull_light_3:0 "전간기 경함선 선체" #전간기 초반
+ship_hull_light_3_desc:0 "영국과 독일 제국은 세계대전 종전 직후에도 기존 구축함을 조금 개선한 모델의 대량생산을 지속했습니다. 구축함에 전격적인 개량이 가해진 건 영국 정부가 붕괴하고 건함경쟁이 끝난 후, 해군들이 세계대전의 전훈에 개한 심도있는 연구를 한 후에야 이뤄졌습니다. 구축함의 전투력을 향상시키기 위해 개선된 거리측정기와 새로운 대잠 무장이 장착되었으며 다수의 어뢰발사관도 장착됐습니다. 새로운 구축함은 이전 세대의 구축함보다 크게 커지지 않았지만, 작전반경이 확대되었으며 더 좋은 무장과 빠른 속도를 지녔습니다."
+ship_hull_light_4:0 "개선된 경함선 선체" #전간기 후반
+ship_hull_light_4_desc:0 "1935년부터 잠재력 있는 함재기들이 해군항공대에 배치되기 시작하고, 몇몇 해군들이 항공모함의 실용성에 대한 논란에도 불구하고 신형 항공모함을 취역시킴에 따라, 군함에 대한 함재기의 위협이 부상하기 시작했습니다. 중국에 파견된 독일 항공모함의 개입 작전과 지속되는 브리튼 연방의 항공모함 훈련은 항공모함이 해군에서 쓸모가 있음을 보여줬습니다. 결과적으로, 요즘 구축함들은 양용포를 주무장으로 장착해 구축함의 방공능력을 향상시켰습니다. 이 함선들은 2,500 톤의 배수량에 다수의 어뢰를 탑재해 순양함에도 맡겨지던 어뢰 투사 역할을 떠맡게 되었습니다."
 ship_hull_light_5:0 "진보된 경함선 선체"
 ship_hull_light_5_desc:0 "With the start of the Second Weltkrieg the world's navies needed cheap anti-aircraft platforms. The British success with carrier combat had shown the world that they were suited for more than just recon and anti-carrier duties, they were required for modern anti-capital ship warfare. Advanced anti-submarine technologies like the new hedgehog depth charges were playing an essential role in combating the major threat to convoy operations, they and the anti-aircraft platforms intensified demands for more destroyers. Were previously destroyer investments were being lowered in favour of cruisers and the new armoured cruisers, destroyers began to return to the fore as an essential part of both the fleet, and the convoy system. While often not larger than their predecessors they were far more technologically advanced, mostly adopting flush decks and far larger torpedo armaments."
 ship_hull_light_6:0 "현대 경함선 선체"
