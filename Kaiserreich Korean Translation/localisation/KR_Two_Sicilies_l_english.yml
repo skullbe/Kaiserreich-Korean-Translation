@@ -81,7 +81,7 @@ SIC_italian_empire_founded:0 "이탈리아 제국이 선포되다"
 
 ### Tooltips ###
 SIC_asymmetrical_warfare_effect:0 "§H시가전 훈련§!을 활성화 합니다\n§H모든 보병\n    도시지역§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동속도: §G+5%§!\n\n"
-SIC_fate_of_italy_tooltip:0 "우리가 북부의 사회주의 공화국을 무너뜨리고 나면 이탈리아의 운명이 결정될 것이다."
+SIC_fate_of_italy_tooltip:0 "우리가 북부의 사회주의 공화국을 무너뜨리고 나면 이탈리아의 운명이 결정될 것입니다."
 
 ### Cosmetic Tags ###
 IES_social_democrat:0 "이탈리아 제국"
@@ -139,7 +139,7 @@ SIC_national_populist_party_long:0 "시칠리아 통일주의당"
 
 ### Decisions ###
 SIC_never_surrender:0 "절대 항복하지 않는다!"
-SIC_never_surrender_desc:0 "우리는 끝까지 싸울 것입니다. 우리는 바다와 대양에서 싸울 것입니다. 우리는 자신감과 힘을 길러 하늘에서 싸울 것입니다. 우리는 그 어떤 대가를 치르더라도 우리 나라를 지켜낼 것입니다. 우리는 해변에서 싸울 것입니다. 우리는 상륙지에서 싸울 것입니다. 우리는 들판과 거리에서 싸울 것입니다. 우리는 언덕에서 싸울 것입니다. 우리는 절대 항복하지 않을 것입니다!"
+SIC_never_surrender_desc:0 "우리는 끝까지 싸울 것입니다. 우리는 바다와 대양에서 싸울 것입니다. 우리는 자신감과 힘을 길러 하늘에서 싸울 것입니다. 우리는 그 어떤 대가를 치르더라도 우리나라를 지켜낼 것입니다. 우리는 해변에서 싸울 것입니다. 우리는 상륙지에서 싸울 것입니다. 우리는 들판과 거리에서 싸울 것입니다. 우리는 언덕에서 싸울 것입니다. 우리는 절대 항복하지 않을 것입니다!"
 SIC_declare_italian_empire:0 "이탈리아 제국 선포"
 SIC_declare_italian_empire_desc:0 "While we did not set out to re-unite Italy, in the face of our enemies we have done it nevertheless. The time has come to declare a new empire, overlord of an Italy reborn under Sicilian rule!"
 owned_by_friendly_PAP:0 "is owned and controlled by a friendly and independent §Y[PAP.GetNameDef]§!"
@@ -523,7 +523,7 @@ sic.39.d:0 "오스트리아는 우리의 오스트리아 영역권 가입 제안
 sic.39.a:0 "빌어먹을 오스트리아 놈들"
 
 sic.40.t:0 "이탈리아 제국"
-sic.40.d:0 "오늘, 이탈리아 전역에 이탈리아 제국이 선포되었습니다. Ferdinand the Pius와 그의 아내 Maria Ludwiga Theresia는 로마에서 호화로운 즉위식을 통해 황제와 황후의 자리에 올랐습니다. 오늘 이탈리아는 통일 국가의 꿈을 이룬 것을 축하하고 있습니다"
+sic.40.d:0 "오늘, 이탈리아 전역에 이탈리아 제국이 선포되었습니다. Ferdinand the Pius와 그의 아내 Maria Ludwiga Theresia는 로마에서 호화로운 즉위식을 통해 황제와 황후의 자리에 올랐습니다. 오늘 이탈리아는 통일 국가의 꿈을 이룬 것을 축하하고 있습니다."
 sic.40.a:0 "이탈리아 만세!"
 
 sic.41.t:0 "탈 생디칼리즘화"
