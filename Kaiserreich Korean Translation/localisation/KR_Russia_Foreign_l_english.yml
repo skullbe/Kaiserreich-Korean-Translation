@@ -194,16 +194,16 @@ rusfor.13.d:0 "남작 폰 운게른-슈테른베르크는 러시아와의 전쟁
 rusfor.13.a:0 "몽골을 우리 동맹에 초대하자."
 rusfor.13.b:0 "아니, 우린 저 미개한 몽골 놈들을 믿을 수 없다!"
 
-rusfor.14.t:0 "러시아가 중앙 러시아를 통제합니다"
-rusfor.14.d:0 "차르통치하 러시아 제국의 몰락으로 부족들과 군중들이 서로 다투던 중앙아시아 지역에 다시 안정이 찾아왔습니다. 이제 중앙아시아 국경지대는 훨씬 더 안전해졌으며, 우랄 지역에서 국력을 강화시킬 수 있을겁니다."
+rusfor.14.t:0 "러시아의 중앙아시아 통제"
+rusfor.14.d:0 "구 러시아 제국의 몰락으로 부족들과 군벌들이 서로 다투던 중앙아시아 지역에 다시 안정이 찾아왔습니다. 이제 중앙아시아 국경은 훨씬 안전해졌으며, 우리는 우랄 지역에 우리의 패권을 재확립했습니다."
 rusfor.14.a:0 "좋았어!"
 
-rusfor.15.t:0 "러시아가 시베리아를 통제합니다"
-rusfor.15.d:0 "야만적인 몽골인들과 추악한 콜차크 제독이 러시아를 혼란에 빠뜨리려던 시베리아 지역에 다시 안정이 찾아왔습니다. 이제 시베리아 국경지대는 훨씬 더 안전해졌으며, 시베리아 지역에서 국력을 강화시킬 수 있을겁니다."
+rusfor.15.t:0 "러시아의 시베리아 통제"
+rusfor.15.d:0 "야만적인 몽골인들과 추악한 콜차크 제독이 러시아를 혼란에 빠뜨리려던 시베리아 지역에 다시 안정이 찾아왔습니다. 이제 시베리아 국경은 훨씬 안전해졌으며, 우리는 시베리아 지역에 우리의 패권을 재확립했습니다."
 rusfor.15.a:0 "좋았어!"
 
-rus_cooperation_canada:0 "캐나다와의 군사 협력"
-rus_cooperation_nat_france:0 "국민프랑스와의 군사 협력"
+rus_cooperation_canada:0 "캐나다와의 군사적 협력"
+rus_cooperation_nat_france:0 "국민 프랑스와의 군사적 협력"
 
 rusfor.16.t:0 "백루테니아의 운명"
 rusfor.16.d:0 "구 백루테니아 지역은 이제 우리 군대의 직할통치를 받고 있습니다. 그러나 이 백루테니아 지역의 경계를 오랫동안 이 상태로 둘 수는 없습니다. 많은 정치인들은 백루테니아를 완충지대 역할을 하는 국가로 부활시키고, 동부 지역은 러시아에 합병해야한다고 주장하고 있습니다. 반면에 민족주의자들은 이러한 해결방안에 대해 극구 반대하고 있으며, 백루테니아를 러시아에 영구히 통합시킬 것을 대안으로 내세우고 있습니다."
@@ -212,16 +212,16 @@ rusfor.16.b:0 "영토의 대다수를 러시아에 합병하고 백루테니아�
 rusfor.16.c:0 "백루테니아를 러시아에 합병시킨다!"
 
 rusfor.17.t:0 "백루테니아의 독립"
-rusfor.17.d:0 "우리는 러시아 국경에 독립된 백루테니아가 존재할 경우 러시아에 득이 될 것이라고 판단했습니다. 백루테니아는 어느정도의 독립상태를 가져야할까요?"
-rusfor.17.a:0 "괴뢰화하자!"
-rusfor.17.b:0 "완전한 독립이다!"
+rusfor.17.d:0 "우리는 백루테니아의 존속이 러시아의 국익에 부합하리라 결정했습니다. 백루테니아는 어느 수준의 주권을 보장받아야 할까요?"
+rusfor.17.a:0 "괴뢰화하라!"
+rusfor.17.b:0 "완전히 독립시켜라!"
 
 rusfor.18.t:0 "독립한 백루테니아"
 rusfor.18.d:0 "백루테니아는 러시아의 영향 아래 다시 한번 독립하였습니다."
 rusfor.18.a:0 "군대를 소집하라!"
 
-rusfor.19.t:0 "백루테니아의 소수민족 정책"
-rusfor.19.d:0 "We have decided that it will be in Russia's best interest if White Ruthenia is absorbed into Russia. Now an important question arises about our minority policies towards our new subjects. Shall we continue with the pre-1914 Russification policies?"
+rusfor.19.t:0 "백루테니아에서의 소수민족 정책"
+rusfor.19.d:0 "우리는 백루테니아의 합병이 러시아의 국익에 부합하리라 결정했습니다. 그 결과 새로운 주제인 소수민족 정책이 논점으로 부상했습니다. 1914년 이전의 러시아화 정책을 재실시해야 할까요?"
 rusfor.19.a:0 "모든 백루테니아 소수민족들의 권리를 보장한다!"
 rusfor.19.b:0 "러시아화 정책을 재실시하라!"
 
@@ -230,13 +230,13 @@ rusfor.20.d:0 "이전에 백루테니아가 존재했던 이 지역은 이제 �
 rusfor.20.a:0 "훌륭해!"
 
 rusfor.21.t:0 "러시아화 정책 성공"
-rusfor.21.d:0 "Thanks to our successful Russification policies the territories of White Ruthenia are now fully absorbed into Mother Russia."
+rusfor.21.d:0 "우리의 러시아화 정책은 성공했으며, 백루테니아 지역은 이제 어머니 러시아에 온전히 통합되었습니다."
 rusfor.21.a:0 "훌륭해!"
 
 rusfor.22.t:0 "우크라이나의 운명"
-rusfor.22.d:0 "The former Ukrainian state is now under our direct military control. We cannot hope to keep the areas of the former state in line for too long, though. Most politicians argue for the restoration of the Ukraine as a buffer state with the eastern parts of the country directly integrated into Russia. However, nationalists strongly disagree with this kind of solution and instead they demand that the Ukraine be permanently integrated into Russia."
+rusfor.22.d:0 "구 우크라이나 지역은 현재 우리의 직접적인 군사적 통제 하에 있습니다. 그러나 영원히 점령지로 남겨둘 수는 없는 법입니다. 대다수 정치인들은 우크라이나를 러시아에 종속된 완충국으로서 재건해야 한다고 주장합니다. 그러나 민족주의자들은 이런 주장에 강하게 반발하며 우크라이나의 영구적인 통합을 요구하고 있습니다."
 rusfor.22.a:0 "1936년 우크라이나의 국경을 복원한다!"
-rusfor.22.b:0 "영토의 대다수를 러시아에 합병하고 우크라이나를 복원시켜라!"
+rusfor.22.b:0 "영토의 대다수를 러시아에 합병하고 나머지 우크라이나를 괴뢰화하라!"
 rusfor.22.c:0 "우크라이나는 러시아의 일부가 될 것이다!"
 
 #rusfor.23.t:0
@@ -246,7 +246,7 @@ rusfor.24.d:0 "Malorossia is once again independent under Russian supervision."
 rusfor.24.a:0 "Form Up the Troops!"
 
 rusfor.25.t:0 "우크라이나의 소수민족 정책"
-rusfor.25.d:0 "We have decided that it will be in Russia's best interest to integrate the Ukraine into Russia. An important question arises about our policies towards our new subjects. Shall we continue with the pre-1914 Russification policies or shall we guarantee wide array of cultural rights for our new subjects?"
+rusfor.25.d:0 "우리는 우크라이나의 합병이 러시아의 국익에 부합하리라 결정했습니다. 그 결과 새로운 주제인 소수민족 정책이 논점으로 부상했습니다. 1914년 이전의 러시아화 정책을 재실시해야 할지, 아니면 새로운 영토에 대한 문화적 자유를 보장해야 할지 말입니다."
 rusfor.25.a:0 "모든 우크라이나 소수민족들의 권리를 보장한다!"
 rusfor.25.b:0 "러시아화 정책을 재실시하라!"
 
@@ -255,7 +255,7 @@ rusfor.26.d:0 "이전에 우크라이나가 존재했던 이 지역은 이제 �
 rusfor.26.a:0 "훌륭하군!"
 
 rusfor.27.t:0 "러시아화 정책 성공"
-rusfor.27.d:0 "Thanks to our successful Russification policies the former Ukrainian state is now fully absorbed into Mother Russia."
+rusfor.27.d:0 "우리의 러시아화 정책은 성공했으며, 우크라이나 지역은 이제 어머니 러시아에 온전히 통합되었습니다."
 rusfor.27.a:0 "훌륭해!"
 
 rusfor.28.t:0 "러시아와의 밀월 관계?"
@@ -859,7 +859,7 @@ rusfor.1015.a:0 "반군이 수도를 점령했다!"
 rusfor.1015.b:0 "반군이 격퇴되었다!"
 
 rusfor.1016.t:0 "돈-쿠반 연합에서의 러시아인 쿠데타가 성공하다"
-rusfor.1016.d:0 "Russians and Caucasian tribes have defeated the Cossacks. the future of the Don-Kuban lies in our hands."
+rusfor.1016.d:0 "러시아인들, 그리고 캅카스 부족들이 카자크들을 패배시켰습니다. 돈-쿠반 지역의 운명이 우리 손아귀에 들어왔습니다."
 rusfor.1016.a:0 "돈-쿠반 연합은 조국의 품으로 돌아올 것이다!"
 rusfor.1016.b:0 "괴뢰국으로 만들자."
 
@@ -883,7 +883,7 @@ rusfor.1020.t:0 "바쿠 유전"
 rusfor.1020.d:0 "Russia needs oil, and lots of it, if it is going to keep up with the other major powers in industrial and military production. While we have limited oil fields in the central Siberia, our former province of Azerbaijan has a gigantic petroleum industry, which it is finding increasingly difficult to maintain. Should we seek to promote our interests in this region?"
 rusfor.1020.a:0 "바쿠 유전과 그들의 정부를 장악하라!"
 rusfor.1020.b:0 "아제르바이잔의 독립을 보장하고 유전에 투자하자."
-rusfor.1020.c:0 "바쿠의 시추시설을 지은 게 누구인가? 무력 확보 계획을 세워라!"
+rusfor.1020.c:0 "바쿠의 시추시설은 누가 지었는데? 무력 확보 계획을 세워라!"
 rusfor.1020.e:0 "지금 당장 도둑맞은 유전을 되찾을 것이다!"
 
 rusfor.1021.t:0 "러시아의 투자"
@@ -906,25 +906,25 @@ rusfor.1024.d:0 "With Russian domination over Azerbaijan stable some members of 
 rusfor.1024.a:0 "It is time for Russia to directly rule over Azerbaijan!"
 rusfor.1024.b:0 "Azerbaijan must remain autonomous."
 
-rusfor.1025.t:0 "The Georgian Question"
+rusfor.1025.t:0 "조지아 문제"
 rusfor.1025.d:0 "Now that the Don-Kuban Union no longer exists we must choose our stance towards the independent state of Georgia. We can either try to bring them into the fold using the direct threat of military power or via covert operations using existing pro-monarchist resistance groups. What shall we do?"
-rusfor.1025.a:0 "War will solve this!"
-rusfor.1025.b:0 "Threaten them with force!"
-rusfor.1025.c:0 "Covert operations will be good enough."
+rusfor.1025.a:0 "전쟁으로 해결하리라!"
+rusfor.1025.b:0 "무력으로 위협을 가하라!"
+rusfor.1025.c:0 "비밀 공작을 시도해볼만 하다."
 
 rusfor.1026.t:0 "Russian demands"
 rusfor.1026.d:0 "The increasingly powerful Russian state has once again set its sight on the Caucasus. Russia has issued a series of demands towards our state which, if accepted, will result in our incorporation into Russia. Efforts to resist the powerful Russian state without international backing seem futile."
 rusfor.1026.a:0 "Accept their terms."
 rusfor.1026.b:0 "Never!"
 
-rusfor.1027.t:0 "Georgian submission"
+rusfor.1027.t:0 "조지아가 굴복하다"
 rusfor.1027.d:0 "Seeing no other options the Georgian leadership has accepted our demands."
-rusfor.1027.a:0 "Hooray!"
+rusfor.1027.a:0 "만세!"
 
-rusfor.1028.t:0 "Georgian resistance"
+rusfor.1028.t:0 "조지아가 저항하다"
 rusfor.1028.d:0 "The mad Georgian leadership has rejected our rightful demands. How shall we react to this insolence?"
-rusfor.1028.a:0 "War will solve this!"
-rusfor.1028.b:0 "Back down."
+rusfor.1028.a:0 "전쟁으로 해결하리라!"
+rusfor.1028.b:0 "그만두자."
 
 rusfor.1029.t:0 "러시아인 쿠데타"
 rusfor.1029.d:0 "Russian agitators, together with a detachment of pro-monarchist emigrants led by Niko Nikoladzhe, have fuelled popular opinion against the current leadership of our state. Pro-monarchist parts of our population, together with Russians in the countryside and in the cities, have rebelled. The country is in chaos, how will the situation develop?"
@@ -941,54 +941,54 @@ rusfor.1031.d:0 "Our attempt to replace the government in Georgia with one loyal
 rusfor.1031.a:0 "그들을 짓밟을 것이다!"
 rusfor.1031.b:0 "놔두자."
 
-rusfor.1032.t:0 "Status of Armenia"
+rusfor.1032.t:0 "아르메니아의 지위"
 rusfor.1032.d:0 "Thanks to our masterful diplomacy the Armenian state now belongs to our sphere of influence. We have to decide our stance towards this rebellious state. We can either try to establish our control over their government or integrate the entire Armenian state into our motherland."
-rusfor.1032.a:0 "Demand their incorporation!"
-rusfor.1032.b:0 "Try to establish control over the Armenian government!"
+rusfor.1032.a:0 "그들의 러시아 편입을 요구하라!"
+rusfor.1032.b:0 "아르메니아 정부의 통제권 확보를 시도하라!"
 
-rusfor.1033.t:0 "Russian demands"
+rusfor.1033.t:0 "러시아의 요구"
 rusfor.1033.d:0 "Secret negotiations between the Ottoman Empire and the Russian state resulted in our state becoming a part of the Russian sphere of influence. Now the Russian state issued a series of demands towards our state which, if accepted, will result in our incorporation into the Russian state. Efforts to resist the powerful Russian state without international backing seem futile."
-rusfor.1033.a:0 "Accept their terms."
-rusfor.1033.b:0 "Never!"
+rusfor.1033.a:0 "받아들여라."
+rusfor.1033.b:0 "절대로!"
 
-rusfor.1034.t:0 "Armenian submission"
+rusfor.1034.t:0 "아르메니아가 굴복하다"
 rusfor.1034.d:0 "Seeing no other options the Armenian leadership accepted our demands."
-rusfor.1034.a:0 "Hooray!"
+rusfor.1034.a:0 "만세!"
 
-rusfor.1035.t:0 "Armenian Resistance"
+rusfor.1035.t:0 "아르메니아가 저항하다"
 rusfor.1035.d:0 "The mad Armenian leadership rejected our rightful demands. How shall we react to this insolence?"
-rusfor.1035.a:0 "War will solve this!"
-rusfor.1035.b:0 "Back down."
+rusfor.1035.a:0 "전쟁으로 해결하리라!"
+rusfor.1035.b:0 "그만두자."
 
-rusfor.1036.t:0 "Russian demands"
+rusfor.1036.t:0 "러시아의 요구"
 rusfor.1036.d:0 "Secret negotiations between the Ottoman Empire and the Russian state resulted in our state becoming a part of the Russian sphere of influence. Now the Russian state issued a series of demands towards our state which, if accepted, will result in our incorporation into the Russian state. Efforts to resist the powerful Russian state without international backing seem futile."
-rusfor.1036.a:0 "Accept their terms."
-rusfor.1036.b:0 "Never!"
+rusfor.1036.a:0 "받아들여라."
+rusfor.1036.b:0 "절대로!"
 
-rusfor.1037.t:0 "Armenian submission"
+rusfor.1037.t:0 "아르메니아가 굴복하다"
 rusfor.1037.d:0 "Seeing no other options the Armenian leadership has accepted all our demands towards their constitutional system."
-rusfor.1037.a:0 "Hooray!"
+rusfor.1037.a:0 "만세!"
 
-rusfor.1038.t:0 "Status of Armenia"
+rusfor.1038.t:0 "아르메니아의 지위"
 rusfor.1038.d:0 "With the majority of the Caucasus under Russian dominance we must choose our stance towards the independent state of Armenia. We can either try to bring them into the fold using the direct threat of military power or via covert operations using existing pro-Russian resistance groups. What shall we do?"
-rusfor.1038.a:0 "Demand their incorporation!"
-rusfor.1038.b:0 "Try to establish control over Armenian government!"
-rusfor.1038.c:0 "War will resolve this!"
-rusfor.1038.e:0 "Covert operations will be good enough."
+rusfor.1038.a:0 "그들의 러시아 편입을 요구하라!"
+rusfor.1038.b:0 "아르메니아 정부의 통제권 확보를 시도하라!"
+rusfor.1038.c:0 "전쟁으로 바로잡으리라!"
+rusfor.1038.e:0 "비밀 공작을 시도해볼만 하다."
 
-rusfor.1039.t:0 "Russian demands"
+rusfor.1039.t:0 "러시아의 요구"
 rusfor.1039.d:0 "The increasingly powerful Russian state has once again set its sight on the Caucasus. They have issued a series of demands towards our state which, if accepted, will result in our incorporation into Russia. Efforts to resist the powerful Russian state without international backing seem futile."
-rusfor.1039.a:0 "Accept their terms."
-rusfor.1039.b:0 "Never!"
+rusfor.1039.a:0 "받아들여라."
+rusfor.1039.b:0 "절대로!"
 
-rusfor.1040.t:0 "Armenian submission"
+rusfor.1040.t:0 "아르메니아가 굴복하다"
 rusfor.1040.d:0 "Seeing no other options the Armenian leadership has accepted our demands."
 rusfor.1040.a:0 "Hooray!"
 
-rusfor.1041.t:0 "Armenian resistance"
+rusfor.1041.t:0 "아르메니아가 저항하다"
 rusfor.1041.d:0 "The mad Armenian leadership has rejected our rightful demands. How shall we react to this insolence?"
-rusfor.1041.a:0 "War will solve this!"
-rusfor.1041.b:0 "Back down."
+rusfor.1041.a:0 "전쟁으로 해결하리라!"
+rusfor.1041.b:0 "그만두자."
 
 rusfor.1042.t:0 "러시아인 쿠데타"
 rusfor.1042.d:0 "Russian agitators, together with a detachment of pro-Russian emigrants led by Simon Vratsian, have fuelled popular opinion against the current leadership of our state. Pro-Russian parts of our population, together with Russians in the countryside and in the cities, have rebelled. The country is in chaos, how will the situation develop?"
@@ -1011,7 +1011,7 @@ rusfor.1045.b:0 "절대로!"
 
 rusfor.1046.t:0 "아르메니아가 굴복하다"
 rusfor.1046.d:0 "Seeing no other options the Armenian leadership has accepted all our demands towards their constitutional system."
-rusfor.1046.a:0 "좋았어!"
+rusfor.1046.a:0 "만세!"
 
 rusfor.1047.t:0 "캅카스 방향"
 rusfor.1047.d:0 "With a war raging in the west the German Empire is unable to fully protect its sphere of influence in the Caucasus. This presents us with the unique opportunity to expand Russian influence to the Caucasus. The only question is how Russia will achieve its goals in the Caucasus."
@@ -1132,12 +1132,12 @@ rusfor.1071.a:0 "We must comply, unfortunately."
 rusfor.1071.b:0 "Time to stand up to these Northern Barbarians!"
 
 rusfor.1072.t:0 "투르크인들이 굴복하다"
-rusfor.1072.d:0 "투르크인들은 우리의 정당한 요구를 받아들였고, 이제 대 아르메니아의 지배자는 명백히 우리입니다!"
+rusfor.1072.d:0 "투르크인들은 우리의 정당한 요구를 받아들였고, 이제 대아르메니아의 지배자는 명백히 우리입니다!"
 rusfor.1072.a:0 "만세!"
 rusfor.1072.b:0 "우리의 캅카스 괴뢰국에게 할양하자!"
 
 rusfor.1073.t:0 "투르크인들이 우리에게 전쟁을 선포하다"
-rusfor.1073.d:0 "대 아르메니아에 대한 우리의 요구가 아무래도 투르크놈들을 화나게 한 것 같습니다. 그들은 1676년 이후 우리가 들어본 적이 없는 이름으로 우리를 모욕하며 전쟁을 선포해왔습니다."
+rusfor.1073.d:0 "대아르메니아에 대한 우리의 요구가 아무래도 투르크놈들을 화나게 한 것 같습니다. 그들은 1676년 이후 우리가 들어본 적이 없는 이름으로 우리를 모욕하며 전쟁을 선포해왔습니다."
 rusfor.1073.a:0 "후회할 것이다!"
 rusfor.1073.b:0 "이 전쟁을 이용해 콘스탄티노플의 영유권을 주장하자!"
 
@@ -1147,7 +1147,7 @@ rusfor.1074.a:0 "공식적으로 도시를 합병하자!"
 rusfor.1074.b:0 "영광스러운 소식이군!"
 
 rusfor.1075.t:0 "콘스탄티노플의 통합"
-rusfor.1075.d:0 "코사크인 및 러시아인들의 대규모 이주와 러시아 군정 사령관의 정당하고 안전한 행정 수행 덕분에, 콘스탄티노플 시민들은 마침내 '제2의 로마'에 대한 러시아의 정통성을 받아들였습니다."
+rusfor.1075.d:0 "카자크인 및 러시아인들의 대규모 이주와 러시아 군정 사령관의 정당하고 안전한 행정 수행 덕분에, 콘스탄티노플 시민들은 마침내 '제2의 로마'에 대한 러시아의 정통성을 받아들였습니다."
 rusfor.1075.a:0 "러시아의 차르그라드여, 영원하라!"
 
 rusfor.1076.t:0 "중일전쟁"
@@ -1157,7 +1157,7 @@ rusfor.1076.b:0 "중국의 중앙아시아 지역에 영유권을 주장할 것�
 rusfor.1076.c:0 "직접 전쟁에 개입할 것이다."
 
 rusfor.1077.t:0 "중일전쟁 개입"
-rusfor.1077.d:0 "이것은 매우 위험한 전략이지만, 러시아에게 큰 보상을 가져다 줄 수 있을겁니다. 어느 편에 서야할까요?"
+rusfor.1077.d:0 "이것은 매우 위험한 전략이지만, 러시아에게 큰 보상을 가져다 줄 수 있을 것입니다. 어느 편에 서야 할까요?"
 rusfor.1077.a:0 "일본을 공격할 것이다."
 rusfor.1077.b:0 "중국을 공격할 것이다."
 
@@ -1171,24 +1171,24 @@ rusfor.1078.c:0 "We will fight the Japanese alone!"
 
 #rusfor.1080 removed
 
-rusfor.1081.t:0 "Russian aid arrives"
+rusfor.1081.t:0 "러시아의 지원이 도착하다"
 rusfor.1081.d:0 "The Russians have sent us a considerable amount of money and military technology in order to help us in our struggle against our mutual enemies, the Empire of Japan!"
-rusfor.1081.a:0 "Excellent!"
+rusfor.1081.a:0 "훌륭해!"
 
-rusfor.1082.t:0 "The Transamur Takeover"
+rusfor.1082.t:0 "트란스아무르 탈취"
 rusfor.1082.d:0 "With the resurgent Russian state gaining full control over the once disputed Trans-Siberian railroad from Mongolia, commercial contacts have increased massively with the Transamur Republic, and Japan economic presence in Transamur has started to fade in comparison with the inflow of massive Russian investments. The Economy of Transamur, a rebellious state created via Japanese incursion during Russian civil war started to experience serious economic difficulties thanks to relatively unrestricted influx of cheaper goods, coming through recently liberated Trans-Siberian railroad. The weakened state can now be easily taken with a detachment of a few soldiers."
-rusfor.1082.a:0 "Claim Transamur! All Russians must be under Russian rule!"
-rusfor.1082.b:0 "Send a detachment of troops to Vladivostok to dissolve Transamur!"
+rusfor.1082.a:0 "영유권을 주장하라! 모든 러시아인들은 러시아가 통치한다!"
+rusfor.1082.b:0 "블라디보스토크에 군을 파견해 트란스아무르를 해체시켜라!"
 
-rusfor.1083.t:0 "The Russians claim Transamur!"
+rusfor.1083.t:0 "러시아가 트란스아무르 영유권을 주장하다!"
 rusfor.1083.d:0 "Following the re-establishment of Russian control over the Trans-Siberian railroad the Russians have announced that the Transmur-Primorsk region is rightfully a Russian province! Can we afford to oppose an increasingly powerful Russia for the sake of Transamur or should we concentrate on China?"
-rusfor.1083.a:0 "Send a warning, Transamur is our protectorate!"
-rusfor.1083.b:0 "Abandon Transamur to its fate."
+rusfor.1083.a:0 "경고를 보내라, 트란스아무르는 우리의 보호령이다!"
+rusfor.1083.b:0 "트란스아무르의 운명에 맡겨라."
 
-rusfor.1084.t:0 "Russian Troops arrive in Vladivostok!"
+rusfor.1084.t:0 "러시아군이 블라디보스토크에 도래하다!"
 rusfor.1084.d:0 "Following the re-establishment of Russian control over the Trans-Siberian railroad the Russians have decided to enlist the support of some rebellious Transamurian capitalists in order to establish control over the Primorsk territory by force! Can we afford to oppose an increasingly powerful Russia for the sake of Transamur or should we concentrate on China?"
-rusfor.1084.a:0 "We shall defend Transamur!"
-rusfor.1084.b:0 "Abandon Transamur to its fate."
+rusfor.1084.a:0 "트란스아무르를 지키리라!"
+rusfor.1084.b:0 "트란스아무르의 운명에 맡겨라."
 
 #rusfor.1085 removed
 
