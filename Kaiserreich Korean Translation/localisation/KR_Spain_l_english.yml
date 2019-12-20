@@ -580,7 +580,7 @@ sprc.254.a:0 "우리가 할 수 있는 것은 아무것도 없다"
 ### Carlists ###
 
 sprc.301.t:0 "카를리스트 반란"
-sprc.301.d.not_canada:0 "Spain is collapsing into anarchy, and the Pope has declared that all good Catholics should support the Carlist cause - We should send aid at once!"
+sprc.301.d.not_canada:0 "스페인이 무정부상태에 빠져들고 있으며, 교황은 모든 선량한 가톨릭교도들은 카를리스트를 지원하라고 선언하였습니다.-우리는 일거에 지원할 것이다!"
 sprc.301.d.canada:0 "카를리스트들이 스페인에서 반란을 일으켰으며, 카를리스트를 지원하여 스페인에 친선정부를 세우는 것이 우리에게 득이 될 것입니다"
 sprc.301.a:0 "카를리스트에게 공개 지원한다"
 sprc.301.b:0 "스페인 문제에 대해 침묵한다"
@@ -643,6 +643,6 @@ sprc.323.t:0 "회복 중인 국가"
 sprc.323.d:0 "나라를 재건하고 국민들의 신뢰를 회복하려는 우리의 노력이 성과를 내고 있습니다."
 
 sprc.327.t:0 "적도기니 내의 생디칼리스트"
-sprc.327.d:0 "The anarchist-syndicalists in Spain have taken control over the Spanish colony of Equatorial Guinea, and more than one member of the [Root.GetAdjective] government is suggesting that allowing [CNT.GetNameDef] to possess land in the middle of Africa is hardly a wise idea."
-sprc.327.a:0 "Seize it at once!"
-sprc.327.b:0 "Leave it be"
+sprc.327.d:0 "아나코-생디칼리스트들이 우리 식민지인 적도기니를 장악했고, [Root.GetAdjective] 정부의 몇몇 관리들은 [CNT.GetNameDef] 에게 그 땅을 내어주는 것은 부적절하다고 주장하고 있습니다."
+sprc.327.a:0 "즉시 체포해라!"
+sprc.327.b:0 "그냥 놔둬라"
