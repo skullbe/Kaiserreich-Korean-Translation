@@ -8,9 +8,9 @@ COL_war_decisions_desc:0 "콜롬비아는 정당한 영토를 가지지 못하�
 COL_diplo_decisions:0 "안데스 조약기구"
 COL_diplo_decisions_desc:0 "우리는 이 지역의 평화와 안정을 보장하고 생디칼리즘과 같은 위협으로부터의 상호 보호를 위해서 안데스 조약기구를 창설해야만 합니다."
 
-COL_UNLOCK_ENRICH:0 "그란 콜롬비아의 §M산업§!과 §M자원§!을 향상시키기 위한 £decision_icon_small§Y디시전§!을 잠금 해제합니다"
-COL_UNLOCK_MOBILISATION:0 "§M군대§!를 동원하기 위한 £decision_icon_small §Y디시전§!을 잠금 해제합니다"
-COL_UNLOCK_FACTION:0 "§Y안데스 조약기구§!를 확장하기 위한 £decision_icon_small §YDecisions§!을 잠금 해제합니다"
+COL_UNLOCK_ENRICH:0 "그란 콜롬비아의 §M산업§!과 §M자원§!을 향상시키기 위한 £decision_icon_small§Y결정§!을 해금합니다"
+COL_UNLOCK_MOBILISATION:0 "§M군대§!를 동원하기 위한 £decision_icon_small §Y결정§!을 해금합니다"
+COL_UNLOCK_FACTION:0 "§Y안데스 조약기구§!를 확장하기 위한 £decision_icon_small §Y결정§!을 해금합니다"
 COL_ECONOMIC_TIES:0 "§Y안데스 조약기구§! 소속 모든 국가 :\n국민정신 §Y무역 협력§! 획득, 다음과 같은 효과 발생 (공장 생산량: §G+5.00%§!)"
 COL_RESEARCH_TIES:0 "§Y안데스 조약기구§! 소속 모든 국가 :\n§Y안데스 연구 조약§! 공동연구 그룹에 참가"
 
