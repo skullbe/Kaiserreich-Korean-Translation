@@ -47,7 +47,7 @@ CAR_canadian_advisors_idea:0 "캐나다 조언자"
 CAR_french_advisers_idea:0 "프랑스 조언자"
 
 ### Tooltips ###
-CAR_begin_plot:0 "황태자를 죽이려는 계획을 실행합니다... 이 작업을 완료하는 데 시간이 걸릴 수 있습니다.\n"
+CAR_begin_plot:0 "왕자를 죽이려는 계획을 실행합니다... 이 작업을 완료하는 데 시간이 걸릴 수 있습니다.\n"
 CAR_won_civil_war:0 "스페인에서 내전에서 승리\n"
 CAR_remove_cores_SPR:0 "[SPR.GetNameDef]의 모든 핵심 주를 제거\n"
 CAR_remove_cores_CAR:0 "[CAR.GetNameDef]의 모든 핵심 주를 제거\n"
@@ -62,8 +62,8 @@ CAR_carlist_restoration:0 "카를리스트 복원"
 CAR_iberian_trade_opinion:0 "이베리아 무역"
 
 ### Decisions ###
-CAR_assassinate_juan:0 "Assassinate Infante Juan"
-CAR_assassinate_juan_desc:0 "Infante Juan is King Alfonso's regent, as well as his heir. His death would through [SPR.GetNameDef] into disarray and give us time to knock them out of the civil war completely!"
+CAR_assassinate_juan:0 "후안 왕자를 암살하자"
+CAR_assassinate_juan_desc:0 "후안 왕자는 알폰소 왕의 아들로서, 그의 섭정입니다. 왕자의 죽음은 [SPR.GetNameDef] 을 혼란에 빠트릴 것이고 우리를 내전의 승리로 이끌어 줄 것입니다!"
 
 ### Political Focuses ###
 CAR_restauracion:0 "복원"
