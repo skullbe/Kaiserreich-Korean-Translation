@@ -1,5 +1,7 @@
 l_english:
 
+german_focus:0 "독일 중점계릉도"
+
 # Crete stuff at the bottom
 
 ### Temporary ###
@@ -169,7 +171,6 @@ mauser_werke_desc:0 "§G마우저 베르케 사를 개선합니다.\n§!"
 eco_reco:0 "검은 월요일로부터 경제가 회복됨"
 GER_unlocks_albertros:0 "알바트로스 사를 개선합니다."
 GER_unlocks_junkers:0 "융커스 사를 개선합니다."
-GER_ig_farben_unlock:0 "§GIG-파르펜을 개선합니다.§!"
 GER_krupp_steel_unlock:0 "§G크루프를 개선합니다.\n§!"
 GER_siemens_unlock:0 "§G지멘스를 개선합니다.\n§!"
 GER_hahn_meitner_unlock:0 "한 & 마이트너를 개선할 것입니다.\n\n"
@@ -212,18 +213,18 @@ GER_seeckt_dead:0 "한스 폰 젝트는 사망했고 아우구스트 폰 마켄�
 Axis_yes_to_GER:0 "카이로 조약이 우리 제안을 받아들였습니다"
 OTT_yes_to_GER:0 "오스만이 우리 제안을 받아들였습니다"
 GER_gulf_oil_obligations:0 "§G우리는 조약의 조항에 따라 의무를 다할 것입니다.§!"
-poland_refused_demands:0 "폴란드가 우리의 제의를 거절했습니다"
 GER_factories_lost:0 "§R핵심 지역에서 5개의 민간 공장을 잃을 것입니다.§!"
 GER_address_reichstag_tooltip:0 "§G이 초점을 완료하면 검은 월요일의 영향에 대응하기 위한 몇가지 유용한 결정을 내릴 수 있을 것입니다.§!"
 ZO_zollverein_idea_tooltip:0 "§Y제국 조약§!를 개혁하면 다음을 얻을 것입니다:\n공장 산출량: §G+3.00%§!"																	 
 ZO_europarat_idea_tooltip:0 "§Y유럽 의회§!를 설립하면 다음을 얻을 것입니다:\n일일 정치력: §G+0.03§!"
 ZO_europakomm_idea_tooltip:0 "§Y유럽 위원회§!를 설립하면 다음을 얻을 것입니다:\n공장 산출량: §G+2.00%§!"
-ZO_EEP_idea_tooltip:0 "§Y유럽 교환 계획§!을 세우면 다음을 얻을 것입니다:\n연구 시간: §G-3.00%§!"
+ZO_EEP_idea_tooltip:0 "§Y유럽 교환 계획§!을 세우면 다음을 얻을 것입니다:\n연구 시간: §G+3.00%§!"
 ZO_europabrigad_idea_tooltip:0 "§Y유럽 여단§!을 창설하면 다음을 얻을 것입니다:\n모집 인구: §Y2.00%§!"
 GER_angry_ukraine:0 "§R이는 우크라이나와의 관계를 해칠 것이며 우크라이나 정부를 약화시킬 것입니다.§!"
 GER_angry_socialists:0 "§G그들은 우리 군대의 일부가 될 것입니다.§!"
 GERfor.25_tooltip:0 "우리는 분쟁에 도움이 될 몇몇 사단을 양성할 것입니다."
 GER_reichstag_in_progress_tooltip:0 "우리는 정책이 실행되는 동안 다른 정책에 대한 토론을 시작할 수 없습니다."
+german_investments_flock_in_aze:0 "Investors will increasingly flock to Azerbaijan."
 GER_frapartwll_tt:0 "왈로니아 민병대 사단이 형성될 것입니다."
 GER_frapartals_tt:0 "두 개의 알자스 민병대 사단이 형성될 것입니다."
 GER_namaskaris_tt:0 "두 개의 새로운 남서아프리카 아스카리 사단이 형성될 것입니다."
@@ -237,6 +238,9 @@ GER_cannot_join_ally_war:0 "이 전쟁에 참전할 수 없습니다"
 GER_colonial_resources_distribution_full_tt:0 "§R8§!개의 민간공장이 §R365§!일 동안 식민지들의 요구에 맞추기 위해 사용될 것입니다.\n"
 GER_colonial_resources_distribution_partly_tt:0 "§R5§!개의 민간공장이 §R260§!일 동안 식민지들의 요구에 맞추기 위해 사용될 것입니다.\n"
 GER_agricultural_mitteleuropa_help_tt:0 "§R나라가 결딴나고 있습니다.§!\n"
+GER_csavol_tt:0 "Two volunteer divisions will arrive in Detroit."
+GER_received_equipment_10000:0 "We will receive 10000 units of infantry equipment."
+GER_OTT_victory:0 "The Axis has capitulated."
 
 ### Opinion Modifiers ###
 sri_lanka:0 "제국주의 괴짜"
@@ -271,6 +275,7 @@ financial_help_satisfactionary:0 "도움에 만족"
 GER_raised_tarrifs:0 "관세 인상"
 Ostraum_more_liberties:0 "허가된 자유"
 Ostraum_denied_liberties:0 "허가된 자유"
+ott_ger_statusquo:0 "Upheld the status-quo in the Middle-East"
 
 ### Parties ###
 GER_totalist_party:0 "적군 민병대"
@@ -300,7 +305,7 @@ GER_national_populist_party_long:0 "전독일연맹"
 
 ### Decisions ###
 GER_send_support_to_bulgaria:0 "불가리아 지원"
-GER_send_support_to_bulgaria:0 "불가리아는 세계대전 동안 전황을 뒤집어 놓을 만한 결정적인 역할을 하진 못했지만 충성스러운 동맹이었고, 이제는 세르비아의 침략으로 위험에 처하지는 않았습니다. [Root.GetNameDefCap]은(는) 우방을 잊지 않았으며, 다시 한번 차르에게 도움을 주기 위해 움직일 것입니다!"
+GER_send_support_to_bulgaria_desc:0 "불가리아는 세계대전 동안 전황을 뒤집어 놓을 만한 결정적인 역할을 하진 못했지만 충성스러운 동맹이었고, 이제는 세르비아의 침략으로 위험에 처하지는 않았습니다. [Root.GetNameDefCap]은(는) 우방을 잊지 않았으며, 다시 한번 차르에게 도움을 주기 위해 움직일 것입니다!"
 
 french_occupation_decisions:0 "프랑스 점령"
 french_occupation_decisions_desc:0 "[FRA.GetNameDef] 영토 내에서 저항이 계속되고 있습니다. 제3인터내셔널 전체를 물리치는 것이 아니라 프랑스의 저항세력들이 완전히 항복할 정도로 코뮌 망명 정부의 정통성을 잠식하는 것이 가능할지도 모릅니다. \n\n[FRA.GetNameDef]의 현재 §Y정통성§!: §R[?FRA.legitimacy|-0]§!\n"
@@ -722,8 +727,8 @@ GER_economy_desc:0 "현재 경제는 매우 좋습니다. 산업은 활기를 �
 GER_research_expansion:0 "추가 연구 기금"
 GER_research_expansion_desc:0 "군사 및 민간 문제 해결을 위해 과학 기술에 투자한다. 그거 엄청 좋은 거 아닌가요? 아무 말도 하지 않았지만, 어쨌든 정말 좋은 것 같습니다. 아무튼, 실험실은 저쪽에 있습니다..."
 
-GER_ig_farben:0 "IG-파르펜에 투자"
-GER_ig_farben_desc:0 "우리는 유용할 수도 있는 여러 화합물들의 합성법을 연구하는 제약 회사 IG-파르펜에 투자할 수 있습니다."
+GER_ig_farben:0 "Embrace Synthetic Rubber"
+GER_ig_farben_desc:0 "With increasing demand of rubber skyrocketing prices, we should remind the world that the first synthetic rubber was created in the Bayer laboratories in Elberfield, and as such we can employ the minds of our chemists to further refine the methods of creating it, to augment our sources of natural rubber."
 
 GER_krupp_focus:0 "크루프 AG 독점"
 GER_krupp_focus_desc:0 "크루프 가문은 약 400년이 된 독일의 산업가 가문으로, 30년 전쟁 때부터 독일의 군수 산업을 떠받쳐왔습니다! 그들의 재능은 세계대전이 새로 벌어지면 필요할 것이기 때문에, 우리는 이제 그들을 다시 채용해야 합니다."
@@ -957,6 +962,14 @@ GER_yemen_deal_desc:0 "우리는 현재 예멘 영토를 홍해 무단 침입을
 GER_poland_war:0 "송환 명령"
 GER_poland_war_desc:0 "폴란드는 유럽에서 외교적으로 너무 오랫동안 이상했습니다. 세계대전이 끝난 이래로 폴란드는 독일과 오스트리아 세력 사이 정치적 공백에 갇힌 상태였습니다. 이제는 적절한 독일의 체제가 폴란드에 돌아 올 때가 되었습니다. 강력한 외교적 노력이나 무력으로 폴란드는 원래 속해있던 독일의 영토로 돌아 올 것입니다."
 
+GER_poland_not_allied_tooltip:0 "§Y[10.Owner.GetName]§!이(가) 우리의 동맹이 아니거나 §Y[AUS.GetNameDef]§!의 동맹임"
+GER_poland_owns_plock_tooltip:0"§Y[10.Owner.GetName]§!이(가) §Y[98.GetName]§! 소유 중"
+GER_at_war_with_poland_tooltip:0 "§Y[10.Owner.GetName]§!과(와) 전쟁 중"
+GER_poland_friendly_tooltip:0 "§Y[10.Owner.GetName]§!이(가) 친선적인 정부를 가지고 있고 동맹에 속해있지 않음"
+GER_poland_ally_tooltip:0 "§Y[10.Owner.GetName]§!이(가) 우리의 동맹이거나 종속국임"
+GER_poland_refused_strip_tooltip:0 "§Y[10.Owner.GetName]§!이(가) 국경회랑 이양을 거부함"
+GER_poland_hostile_tooltip:0 "§Y[10.Owner.GetName]§!이(가) 적대적인 정부를 가짐"
+
 GER_poland_alliance:0 "폴란드와 유대 강화"
 GER_poland_alliance_desc:0 "폴란드와의 외교 관계를 개선하려는 초기의 노력은 어느 정도 성공을 거두었습니다. 폴란드도 과거의 분쟁을 해결하고 지난 20년간의 정치적 교착 상태를 깨기를 바라고 있는 듯 합니다. 폴란드에 적절한 외교 사절을 보내면 상호 관계를 고취되고 폴란드가 결국에는 우리 영향권으로 들어올 수 있는 토대가 마련될 것입니다."
 
@@ -985,7 +998,7 @@ GER_oil_caucasus_land:0 "우크라이나를 통해"
 GER_oil_caucasus_land_desc:0 "석유 공급을 멈추지 않게 하는 한가지 방법은 돈-쿠반 연방의 거대한 스텝을 가로지르는 접근을 확보하는 것입니다. 아제르바이잔이 아닐 수도 있지만, 석유 공급을 확보하는 것은 좋은 첫 걸음이며, 때가 되면 아제르바이잔의 석유를 수송할 수 있을 것입니다."
 
 GER_oil_caucasus_straits:0 "흑해를 가로질러"
-GER_oil_caucasus_straits_desc:0 "-"
+GER_oil_caucasus_straits_desc:0 "중점이 완성되지 않았습니다."
 
 GER_oil_georgia:0 "조지아 확보"
 GER_oil_georgia_desc:0 "아제르바이잔의 바쿠 유전을 장악하려는 작전의 일환으로 흑해 전역에 침공함으로써 조지아 통제권을 확보하는 것은 필수적입니다. 이 지역의 외교적 이상함 때문에, 그 끝은 슬프지 않을 것입니다."
@@ -1012,13 +1025,13 @@ GER_oil_gulf_safe:0 "안전 공갈"
 GER_oil_gulf_safe_desc:0 "카이로와 오스만 제국이 사소한 분쟁을 벌이는 동안, 제국은 석유에 굶주리고 있습니다. 우리가 약속했던 것을 얻는 것은 중요합니다."
 
 GER_oil_romania:0 "루마니아산 석유"
-GER_oil_romania_desc:0 "세계대전 이후 몰락한 강대국들에게 주어진 조약에 따르면, 루마니아의 석유는 2012년까지 우리의 것입니다. 우리는 루마니아가 이 사실을 잊지 않도록 해야 합니다."
+GER_oil_romania_desc:0 "Romania has historically been a large exporter of oil. Indeed, the occupied oil fields of Wallachia were critical to success in the Weltkrieg. Though the Romanians have been unruly, circumstance requires that we bring their oil back under our control by whatever means necessary."
 
 GER_oil_romania_war:0 "군단병 유도"
-GER_oil_romania_war_desc:0 "-"
+GER_oil_romania_war_desc:0 "The Romanians have refused to work with us on the oil issue. As no other solution has presented itself, we must force them to comply."
 
 GER_oil_romania_alliance:0 "군단병 종결"
-GER_oil_romania_alliance_desc:0 "-"
+GER_oil_romania_alliance_desc:0 "Civil war rages in Romania. We can offer to intervene on the monarchist side in exchange for oil and their admission to the Reichspakt."
 
 GER_oil_bad_romania_alliance:0 "철위대 지원"
 GER_oil_bad_romania_alliance_desc:0 "철위대는 자신들을 합법적인 루마니아 세력으로 인정해 달라고 우리에게 로비를 했습니다. 그들은 혐오스럽지만, 우리는 그들의 관리 하에 석유를 계속 공급받을 수 있습니다."
@@ -1377,18 +1390,6 @@ gerdom.78.d:0 "독일로부터 내려온 새로운 질서에 맞추어 우리의
 gerdom.78.a:0 "아프리카에 새로운 질서를!"
 gerdom.78.b:0 "오, 나는 그렇게 생각하지 않는데."
 
-gerdom.79.t:0 "동아시아 총괄경영 감사이사회 개편"
-gerdom.79.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계획을 독일 통제 하에 있는 여러 요충지에 얼마나 적용할 것인지 결정해야 합니다. 현재 AOG가 관리하고 있는 남부 중국이 그러한 영토 중 하나입니다. 제국 의회의 보수파 의원들은 현상 유지를 주장하고 있는 반면에, 대다수의 정치인들은 AOG로 대표되는 경제 모델이 더 이상 효력이 없으며, 이 이상 유지하다가는 중국인들의 엄청난 반발에 직면하게 될 것이라는 것을 깨달았습니다."
-gerdom.79.a:0 "청 제국을 복원하라!"
-gerdom.79.b:0 "동아시아 총괄경영 감사이사회를 새로운 중국 정부로 재편하라!"
-gerdom.79.c:0 "청에게 통제권을 양도하라."
-gerdom.79.e:0 "국민당에게 권력을 부여하라!"
-gerdom.79.f:0 "모든 것을 그대로 유지하라!"
-
-gerdom.80.t:0 "동아시아 총괄경영 감사이사회의 운명"
-gerdom.80.d:0 "독일의 새로운 식민지 정책의 일환으로, 동아시아 총괄경영 감사이사회의 토지를 돌려받았습니다!"
-gerdom.80.a:0 "훌륭하군!"
-
 gerdom.81.t:0 "남예멘 상황"
 gerdom.81.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계획을 독일 통제 하에 있는 여러 주변 지역에 얼마나 적용할 것인지 결정해야 합니다. 남 예멘이 그러한 지역 중 하나입니다. 황제 해군의 제독들은 이 지역을 직접 지배하면 아덴 만을 통제할 수 있다고 주장했지만, 대부분의 정치인들은 차라리 지배력이 약해지는 것을 감수하면서 이 지역에 대한 지출을 깎을 것을 주장하고 있습니다."
 gerdom.81.a:0 "제한적 자치권 부여하라"
@@ -1721,6 +1722,11 @@ gerfor.49.t:0 "아일랜드에 대한 물품 원조가 불가능하다"
 gerfor.49.d:0 "불운하게도 우리의 지원을 수용할 아일랜드의 의지 또는 능력의 부재로 인하여 모든 계획을 중단하야 합니다. 그나마 다행인 것은 이미 생산한 장비가 우리 수중에 있으며 이를 사용할 수 있다는 점입니다."
 gerfor.49.a:0 "없는 것보다 낫지."
 
+gerfor.50.t:0 "[ENG.GetNameDef]와(과) 휴전할까요?"
+gerfor.50.d:0 "[GER.GetNameDefCap] has negotiated a Second Peace with Honour with [ENG.GetNameDef], since it's clear the [ENG.GetAdjective] have lost their will to carry on the war. This might be a chance for us to end our war with them, as well. Should we take advantage of the opportunity, or continue the battle?"
+gerfor.50.a:0 "이 전쟁을 끝내자"
+gerfor.50.b:0 "아니다, 전쟁을 계속한다!"
+
 gerfor.51.t:0 "생디칼리스트에 대항하는 독일에 지원?"
 gerfor.51.d:0 "독일이 생디칼리즘에 대항하는 그들의 전쟁에 가담하길 요청하고 있습니다. 나라 안의 보수파는 생디칼리즘으로부터 유럽을 지키기 위한 신성한 의무를 이야기하고 있습니다만, 다른 이들은 독일의 전쟁에서 억지로 싸워서는 안된다고 말하고 있습니다. 독일을 지원해야 할까요?"
 gerfor.51.a:0 "세계대전을 기억하라! 우리는 싸워야만 한다!"
@@ -1897,6 +1903,7 @@ gerfor.88.a:0 "훌륭하군."
 gerfor.90.t:0 "루마니아는 석유의 통제를 잃다"
 gerfor.90.d:0 "루마니아 왕국은 새로 서명 한 조약에 따라 우리의 민간인과 전쟁 경제를 건강하게 유지하기 위해 석유 수송을 보내 왔습니다. 그러나 그들은 최근에 석유 공급을 통제하지 못했습니다. 이미 정부와 기업들은 또 다른 석유 부족을 대비하고 있으며 증권 거래소는 당황한 브로커들로 가득차 있습니다."
 gerfor.90.a:0 "기름이 아니야! 그리고 루마니아에도 나는 ..."
+gerfor.90.b:0 "우리가 할 수있는 것은 없다."
 
 gerfor.89.t:0 "루마니아가 우리의 요청을 거절하다"
 gerfor.89.d:0 "루마니아 왕국은 석유 수송을 재개하라는 제안을 받은 후 감히 우리를 모욕했습니다!"
@@ -2242,7 +2249,8 @@ gerfor.164.b:0 "우리의 대답은 그대로다."
 
 gerfor.165.t:0 "아제르바이잔에 대한 독일의 영향"
 gerfor.165.d:0 "유전과 산업을 직접적으로 통제하기 위해 아제르바이잔은 독일을 영향을 받게 되었고, 결국 우리의 속국 중 하나가 되었습니다."
-gerfor.165.a:0 "검은 황금은 영원히 흘러야 한다."
+gerfor.165.a:0 "검은 황금은 영원히 흘러야 한다"
+gerfor.165.b:0 "독립하는 편이 더 낫다"
 
 gerfor.166.t:0 "독일의 영향 아래에서"
 gerfor.166.d:0 "독일인들이 우리 산업에 대한 직접적인 통제를 확립할 수 있도록 허용했기 때문에, 우리는 외국의 영향이 심해질 것이라고 예상했어야 했습니다. 정부와 산업계는 현재 독일이 좌지우지하고 있으며 아제르바이잔은 사실상의 독일의 지배를 받고 있습니다. 여당이 정권을 유지하고 있음에도 불구하고 우리는 좋든 싫든 이제 독일의 영향권 안에 있습니다."
@@ -2384,7 +2392,7 @@ gerfla.10.d:0 "프로필렌 사가 만든 베스트셀러 시리즈의 광범위
 gerfla.10.a:0 "대단한 영화로군!"
 
 gerfla.11.t:0 "유럽으로 귀환"
-gerfla.11.d:0 "우리 군인들은 [GetGERCapital]의 거리에서, 귀환하는 독일의 지도자들이 탑승한 함선의 유럽 도착을 열렬하게 환호하며 늘어서 있습니다. 우리는 더 이상 망명자가 아닙니다."
+gerfla.11.d:0 "우리 군인들은 [GetNameGERCapital]의 거리에서, 귀환하는 독일의 지도자들이 탑승한 함선의 유럽 도착을 열렬하게 환호하며 늘어서 있습니다. 우리는 더 이상 망명자가 아닙니다."
 
 gerfla.11.a:0 "영광스러운 날이다!"
 GER_Berlin:0 "베를린"
@@ -2392,7 +2400,7 @@ GER_Frankfurt:0 "프랑크푸르트"
 GER_Hamburg:0 "함부르크"
 GER_Essen:0 "에센"
 GER_Munich:0 "뮌헨"
-GEX_becomes_GER:0 "§Y[GEX.GetNameDefCap]§!은/는 §Y[GER.GetNameDef]§!이/가 될 것입니다."
+GEX_becomes_GER:0 "§Y[GEX.GetNameDefCap]§!은/는 §Y[GER.GetNameDef]§!이(가) 될 것입니다."
 
 gerfla.12.t:0 "베를린으로 귀환"
 gerfla.12.d:0 "베를린은 한번더 [GEX.GetNameDef]의 부분이 되었습니다. 우리는 이제 정부를 제국의회에 있는 적절한 장소로 되돌려 보낼 수 있습니다."
@@ -2452,15 +2460,13 @@ germit.11.a:0 "내가 생각하기에 우리 회비의 일부같다."
 germit.11.b:0 "좋아, 그럼..."
 germit.11.c:0 "누가 이걸 요리했지?"
 
-germit.12.t:0 "제국 조약을 떠나다"
-germit.12.d:0 "제국 조약의 회원 자격으로 우리는 무역 및 상호 방위와 같은 몇 가지 혜택을 받는 동시에 많은 의무를 지고 이 블록에 대단히 통합되었습니다. 불행히도 이제는 이 덩굴손을 우리 국가에서 풀어 내려고 노력할 시간이 왔습니다."
+germit.12.t:0 "미텔오이로파 탈퇴"
+germit.12.d:0 "미텔오이로파의 회원 자격으로 우리는 무역 및 상호 방위와 같은 몇 가지 혜택을 받는 동시에 많은 의무를 지고 이 블록에 대단히 통합되었습니다. 불행히도 이제는 이 덩굴손을 우리 국가에서 풀어 내려고 노력할 시간이 왔습니다."
 germit.12.a:0 "어떻게 우리 중 절반이나 여기에 서명을 했었지?"
 
-### Crete Stuff ###
-
-### Opinion Modifiers ###
-CRE_SEL:0 "크레타 매각"
-CRE_REF:0 "크레타 매각"
+germit.13.t:0 "미텔오이로파 탈퇴"
+germit.13.d:0 "미텔오이로파의 회원 자격으로 우리는 무역 및 상호 방위와 같은 몇 가지 혜택을 받는 동시에 많은 의무를 지고 이 블록에 대단히 통합되었습니다. 우리가 독일과 전쟁 중이므로 당연하게도 이제 연을 끊을 때입니다."
+germit.13.a:0 "어떻게 우리 중 절반이나 여기에 서명을 했었지?"
 
 ### Events ###
 gerdom.269.t:0 "크레타에 대한 의문"
