@@ -1,5 +1,7 @@
 l_english:
 
+Hawaii:0 "하와이 중점계릉도"
+
 ### Parties ###
 HAW_totalist_party:0 "하와이 혁명당"
 HAW_totalist_party_long:0 "하와이 혁명당"
@@ -104,7 +106,6 @@ HAW_american_naval_investment:0 "invite American Naval Investors"
 HAW_invite_german_economic_advisers:0 "Invite German Economic Advisers"
 HAW_german_industrial_investment:0 "invite investors from place"
 HAW_german_military_investment:0 "invite investors from place"
-HAW_aog_investment:0 "invite investors from place"
 HAW_gea_investment:0 "invite investors from place"
 
 HAW_invite_japanese_economic_advisers:0 "Invite Japanese Economic Advisers"
@@ -431,7 +432,7 @@ hawaii.5.b:0 "경찰을 불러"
 
 hawaii.6.t:0 "힐로 학살"
 hawaii.6.d:0 "우리가 주방위군과 경찰에게 파업 노동자를 상대하라고 한 결과 하와이 섬의 힐로 마을에서는 파업 노동자 학살이 벌어졌습니다. 약 200~300 명의 사람들이 사망하였고 그 이상의 사람들이 부상을 입었습니다. 이 소식이 호놀롤루에 전해지자 분노한 파업 노동자들이 건물을 점거하기 시작했습니다. 이들은 긴급이사회를 끌어내리고 인민이 하와이를 다스리는 새 정부를 세우기를 원합니다."
-hawaii.6.b:0 "좋아보이진 않는군"
+hawaii.6.a:0 "좋지 않아보이는군."
 
 hawaii.7.t:0 "파업이 실패하다"
 hawaii.7.d:0 "오랫동안 진행된 하와이 대파업이 끝났습니다. 이제 발 편히 뻗고 지금까지 미뤄온 긴급위원회 회의에 집중할 수 있습니다."
@@ -497,8 +498,8 @@ hawaii.21.d:0 "하와이 왕실이 독일 왕실 및 고위 관료와의 회담�
 hawaii.21.a:0 "독일에서 알로하"
 
 hawaii.22.t:0 "Hawaiian Renaissance"
-hawaii.22.d:0 "The first Hawaiian renaissance occurred during the reign of Kamehameha V in the mid-1800s. It brought a revival of Hawaiian culture as well as spurring on construction projects including renovating ʻIolani Palace. However the Americans would come and overthrow the monarchy and much of the energy from this moment died then.\n\nHowever, now that the monarchy has been restored to the throne, [HAW.getleader] is pushing for a renewal of the same ideals that occurred during the first renaissance. For the first time in decades there is a revival and interest in all aspects of Hawaiian culture from the native language, traditional arts, hula, music and more. Similar to the first renaissance, the new renaissance has brought about energy into renovating buildings and improving the various buildings throughout the country."
-hawaii.22.a:0 "A new day for Hawaii"
+hawaii.22.d:0 "The first Hawaiian renaissance occurred during the reign of Kamehameha V in the mid-1800s. It brought a revival of Hawaiian culture as well as spurring on construction projects including renovating Iolani Palace. However the Americans would come and overthrow the monarchy and much of the energy from this moment died then.\n\nHowever, now that the monarchy has been restored to the throne, [HAW.getleader] is pushing for a renewal of the same ideals that occurred during the first renaissance. For the first time in decades there is a revival and interest in all aspects of Hawaiian culture from the native language, traditional arts, hula, music and more. Similar to the first renaissance, the new renaissance has brought about energy into renovating buildings and improving the various buildings throughout the country."
+hawaii.22.a:0 "A new day for Hawaii."
 
 hawaii.23.t:0 "Hawaiian Orders"
 hawaii.23.d:0 "In the past there were a number of orders that 하와이 왕국 had established such as the Royal Order of Kamehameha, The Royal Order of Kalakaua, Royal Order of Kapi'olani Sash, The Royal Order of the Crown of Hawaii, and the Royal Order of the Star of Oceania. Now that the Monarchy has been restored again, these orders and the other medals the Kingdom gives out can resume having the proper prestige that they deserve."
