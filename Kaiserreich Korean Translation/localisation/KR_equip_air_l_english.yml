@@ -188,97 +188,6 @@ rocket_suicide_equipment_1_desc:0 "우여곡절이 많을테니 대비하십시�
 #ATTENTION! THIS FILE IS SORTED BY TAG, NOT BY NAME
 
 ###
-### Allgemeine Ostasien-Gesellschaft ###
-###
-
-AOG_fighter_equipment_0:0 "포커 D.XVII"
-AOG_fighter_equipment_0_short:0 "D.XVII"
-AOG_fighter_equipment_1:0 "포커 D.XXI"
-AOG_fighter_equipment_1_short:0 "D.XXI"
-AOG_fighter_equipment_2:0 "하잉켈 He 100"
-AOG_fighter_equipment_2_short:0 "He 100"
-AOG_fighter_equipment_3:0 "포케-불프 Fw 190 D-9"
-AOG_fighter_equipment_3_short:0 "Fw 190 D-9"
-AOG_heavy_fighter_equipment_1:0 "도르니어 Do 17"
-AOG_heavy_fighter_equipment_1_short:0 "Do 17"
-AOG_heavy_fighter_equipment_2:0 "융커스 Ju 88"
-AOG_heavy_fighter_equipment_2_short:0 "Ju 88"
-AOG_heavy_fighter_equipment_3:0 "포케-불프 Ta 154"
-AOG_heavy_fighter_equipment_3_short:0 "Ta 154"
-AOG_strat_bomber_equipment_1:0 "도르니어 Do 19"
-AOG_strat_bomber_equipment_1_short:0 "Do 19"
-AOG_strat_bomber_equipment_2:0 "하잉켈 He 177 '그라이프'"
-AOG_strat_bomber_equipment_2_short:0 "He 177 '그라이프'"
-AOG_strat_bomber_equipment_3:0 "융커스 Ju 390"
-AOG_strat_bomber_equipment_3_short:0 "Ju 390"
-AOG_jet_fighter_equipment_1:0 "B.F.W Bf 262 '슈발베'"
-AOG_jet_fighter_equipment_1_short:0 "Bf 262 '슈발베'"
-AOG_jet_fighter_equipment_2:0 "B.F.W Bf 262 HG VI"
-AOG_jet_fighter_equipment_2_short:0 "Bf 262 HG VI"
-AOG_jet_strat_bomber_equipment_1:0 "아라도 Ar 576 '하머'"
-AOG_jet_strat_bomber_equipment_1_short:0 "Ar 576 '하머'"
-AOG_jet_strat_bomber_equipment_1_desc:0 "아라도 항공 사업소는 독일의 제트 추진형 대륙간 폭격기의 필요성을 보고, 실험용 제트 전술 폭격기 '아라도 234'의 개량형 개발에 착수했습니다. Ar 576은 4개의 제트 엔진이 모두 항공기 날개에 탑재된 독특한 엔진 디자인을 자랑합니다. 이것은 엔진이 회전할 때 내는 삐걱거리는 소리가, 동체에 부딪히는 망치 소리같다고 해서, Ar 576은 독일 시험 조종사들 사이에서 '하머'라는 별명을 얻었습니다."
-AOG_tac_bomber_equipment_0:0 "융커스 Ju 86"
-AOG_tac_bomber_equipment_0_short:0 "Ju 86"
-AOG_tac_bomber_equipment_1:0 "포커 T.V"
-AOG_tac_bomber_equipment_1_short:0 "T.V"
-AOG_tac_bomber_equipment_2:0 "포커 T.IX"
-AOG_tac_bomber_equipment_2_short:0 "T.IX"
-AOG_tac_bomber_equipment_3:0 "융커스 Ju 188"
-AOG_tac_bomber_equipment_3_short:0 "Ju 188"
-AOG_jet_tac_bomber_equipment_1:0 "아라도 Ar 234 '블리츠'"
-AOG_jet_tac_bomber_equipment_1_short:0 "Ar 234 '블리츠'"
-AOG_jet_tac_bomber_equipment_2:0 "하잉켈 He 343"
-AOG_jet_tac_bomber_equipment_2_short:0 "He 343"
-AOG_nav_bomber_equipment_1:0 "아라도 Ar 195"
-AOG_nav_bomber_equipment_1_short:0 "Ar 195"
-AOG_nav_bomber_equipment_2:0 "포커 T.VIII"
-AOG_nav_bomber_equipment_2_short:0 "T.VIII"
-AOG_nav_bomber_equipment_3:0 "하잉켈 He 115"
-AOG_nav_bomber_equipment_3_short:0 "He 115"
-AOG_CAS_equipment_1:0 "블롬 & 포스 Ha 137"
-AOG_CAS_equipment_1_short:0 "Ha 137"
-AOG_CAS_equipment_2:0 "헨셸 Hs 129"
-AOG_CAS_equipment_2_short:0 "Hs 129"
-AOG_CAS_equipment_3:0 "아라도 Ar 240"
-AOG_CAS_equipment_3_short:0 "Ar 240"
-AOG_rocket_interceptor_equipment_1:0 "Bf 163 '코메트'"
-AOG_rocket_interceptor_equipment_1_short:0 "Bf 163 '코메트'"
-AOG_rocket_interceptor_equipment_2:0 "플리겐데 판처파우스트"
-AOG_rocket_interceptor_equipment_2_short:0 "FPF"
-AOG_rocket_interceptor_equipment_3:0 "포케-불프 폴크스예거"
-AOG_rocket_interceptor_equipment_3_short:0 "Fw VJ"
-AOG_cv_nav_bomber_equipment_1:0 "아라도 Ar 195"
-AOG_cv_nav_bomber_equipment_1_short:0 "Ar 195"
-AOG_cv_nav_bomber_equipment_2:0 "포커 T.VIII"
-AOG_cv_nav_bomber_equipment_2_short:0 "T.VIII"
-AOG_cv_nav_bomber_equipment_3:0 "아라도 Ar 215"
-AOG_cv_nav_bomber_equipment_3_short:0 "Ar 215"
-AOG_cv_CAS_equipment_1:0 "블롬 & 포스 Ha 137"
-AOG_cv_CAS_equipment_1_short:0 "Ha 137"
-AOG_cv_CAS_equipment_2:0 "헨셸 Hs 129"
-AOG_cv_CAS_equipment_2_short:0 "Hs 129"
-AOG_cv_CAS_equipment_3:0 "아라도 Ar 240"
-AOG_cv_CAS_equipment_3_short:0 "Ar 240"
-AOG_cv_fighter_equipment_0:0 "아라도 Ar 168"
-AOG_cv_fighter_equipment_0_short:0 "Ar 168"
-AOG_cv_fighter_equipment_1:0 "아라도 Ar 197"
-AOG_cv_fighter_equipment_1_short:0 "Ar 197"
-AOG_cv_fighter_equipment_2:0 "하잉켈 He 100"
-AOG_cv_fighter_equipment_2_short:0 "He 100"
-AOG_cv_fighter_equipment_3:0 "블롬 & 포스 BV 155"
-AOG_cv_fighter_equipment_3_short:0 "BV 155"
-AOG_transport_plane_equipment_1:0 "Ju 52"
-
-#Missile
-AOG_guided_missile_equipment_1:0 "페르겔퉁스바페-1"
-AOG_guided_missile_equipment_1_short:0 "V-1"
-AOG_guided_missile_equipment_2:0 "페르겔퉁스바페-2"
-AOG_guided_missile_equipment_2_short:0 "V-2"
-AOG_guided_missile_equipment_3:0 "아그레가트-10"
-AOG_guided_missile_equipment_3_short:0 "A-10"
-
-###
 ### Argentina ###
 ###
 
@@ -1642,8 +1551,8 @@ FIN_jet_tac_bomber_equipment_1_short:0 "Ar 234"
 
 FNG_fighter_equipment_0:0 "나카지마 91식"
 FNG_fighter_equipment_0_short:0 "91식"
-FNG_fighter_equipment_1:0 "나카지마 Ki-27 나테"
-FNG_fighter_equipment_1_short:0 "Ki-27 나테"
+FNG_fighter_equipment_1:0 "나카지마 Ki-27"
+FNG_fighter_equipment_1_short:0 "Ki-27"
 FNG_fighter_equipment_2:0 "나카지마 Ki-43 하야부사"
 FNG_fighter_equipment_2_short:0 "Ki-43 하야부사"
 FNG_fighter_equipment_3:0 "나카지마 Ki-84 하야테"
@@ -2400,6 +2309,13 @@ GUY_cv_fighter_equipment_3:0 "페어리 파이어플라이"
 GUY_cv_fighter_equipment_3_short:0 "파이어플라이"
 
 ###
+### Liangguang Clique ###
+###
+
+GXC_fighter_equipment_0:0 "Liuchow Aviation Machinery Factory Kwangsi Type 3"
+GXC_fighter_equipment_0_short:0 "Liuchow Kwangsi Type 3"
+
+###
 ### Hawaii ###
 ###
 
@@ -2803,8 +2719,8 @@ JAM_cv_fighter_equipment_3_short:0 "파이어플라이"
 
 JAP_fighter_equipment_0:0 "나카지마 91식"
 JAP_fighter_equipment_0_short:0 "91식"
-JAP_fighter_equipment_1:0 "나카지마 Ki-27 나테"
-JAP_fighter_equipment_1_short:0 "Ki-27 나테"
+JAP_fighter_equipment_1:0 "나카지마 Ki-27"
+JAP_fighter_equipment_1_short:0 "Ki-27"
 JAP_fighter_equipment_2:0 "나카지마 Ki-43 하야부사"
 JAP_fighter_equipment_2_short:0 "Ki-43 하야부사"
 JAP_fighter_equipment_3:0 "나카지마 Ki-84 하야테"
