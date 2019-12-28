@@ -1,5 +1,7 @@
 l_english:
 
+canada_focus: "캐나다 중점계릉도"
+
 ### Ideas ###
 CAN_merchant_marine_idea:0 "캐나다 상선 선원"
 CAN_small_investments:0 "영국에 대한 소규모 투자"
@@ -43,7 +45,6 @@ king_new_companies_desc:0 "우리나라의 산업에 대한 국가의 전략적 
  
 quebec_riots:0 "퀘벡에서의 폭동"
 quebec_riots_desc:0 "우리 조국을 위한 전쟁의 소식을 접한 퀘벡 사람들은, 자국을 지키기를 거부하고 거리에서 항의하기로 했습니다. 그들 중 일부는 캐나다, 특히 영국인 엘리트가 통치하는 캐나다는 그들의 나라가 아니라고 말하고 있지만, 우리는 그 탈영자와 겁쟁이들을 믿을만큼 어리석지 않습니다."
-
 anglo_french_tensions:0 "영국계-프랑스계 긴장"
 anglo_french_tensions_desc:0 "영국 정부의 망명과 전반적으로 좋지 않은 프랑스, 영국의 국제 정세로 인해, 영국계 캐나다인과 프랑스계 캐나다인의 오랜 경쟁 의식이 계속 확산함에 따라, 퀘벡 주의 긴장도가 높아지고 있습니다. 대규모 징병과 같이 인망 없는 조치는 폭동, 아니면 그보다 더 심한 사태를 유발할 수 있습니다."
 
@@ -69,7 +70,7 @@ CAN_common_components_idea:0 "구성 부품 표준화"
 CAN_common_components_idea_desc:0 "교체 가능한 부품이 발견된 이후로, 모든 총은 쉽게 교체하고 제작할 수 있도록 동일한 부품으로 제작되었습니다. 그러나 우리는 한 단계 더 나아 가 한 범주의 모든 디자인이 동일한 부품을 공유하도록 할 수 있으며, 심지어 새로운 디자인도 이를 결합하여 무기와 대포의 생산 시간을 대폭 줄일 수 있습니다."
 
 CAN_navy_school_idea:0 "왕립 해군 사관학교"
-CAN_navy_school_idea_desc:0 "왕립 해군 사관학교는 우리의 새로운 해군 장교 양성소입니다. 이 시설의 건설은 우리에게 장교를 따로 훈련할 시간을 절약해 주었고, 미래에 우리가 차세대 군사 작전을 선도하도록 해 줄 것이며, 현대 해전에 적응할 수 있도록 해 줄 것입니다."
+CAN_navy_school_idea_desc:0 "왕립 해군 사관학교는 우리의 새로운 해군 장교 양성소입니다. 이 시설의 건설은 우리에게 장교를 따로 훈련할 시간을 절약해 주었고, 미래에 우리가 카이저리헤 마리네에게 한수 가르쳐줄정도로 차세대 군사 작전을 선도하도록 해 줄 것이며, 현대 해전에 적응할 수 있도록 해 줄 것입니다."
 
 CAN_asw_idea:0 "대잠전"
 CAN_asw_idea_desc:0 "적 잠수함들이 우리 수송선들에게 큰 위협을 가하고 있음에도 불구하고, 우리는 그들에 대한 적절한 대비책을 세우지 못했습니다. 특정 구축함 모델에게 수중 감지 플랫폼의 역할을 부여함으로써, 우리는 수송 중인 수송선에 접근하는 어리석은 잠수함이 경로를 바꾸거나 파괴당할 수 밖에 없도록 만들 것입니다."
@@ -124,6 +125,9 @@ IRE_canaid_mil_desc:0 "우리는 캐나다로부터 상당한 양의 군사 지�
 
 IRE_canaid_nav:0 "캐나다 해군 지원"
 IRE_canaid_nav_desc:0 "우리는 캐나다로부터 상당한 양의 해군 지원을 받고 있습니다. 하지만 영국인들이 브리튼 섬으로 돌아가고자 하는 그들의 야망을 숨기지 않기 때문에, 이것이 이타적인 일이 아니라는 것엔 의심의 여지가 없습니다. 한편, 이것은 우리가 사악한 브리튼 연방과 그들의 위협에 맞서도록 도와 줄 것입니다."
+
+CAN_royal_marines_idea:0 "왕립 해병대"
+CAN_royal_marines_idea_desc:0 "The Corps of Royal Marines are a key part of the Naval Service. They are an impressive amphibious light infantry force and have been an important complement to the Royal Navy for centuries. We must make sure that they are strengthened."
 
 ### Flags ###
 CAN_raac_created:0 "왕립 대서양 항공사가 설립되었습니다"
@@ -218,6 +222,10 @@ CAN_give_connected_to_CAL:0 "연결될 수 있는 모든 미국 코어는 §Y[NE
 CAN_give_connected_to_NEE:0 "연결될 수 있는 모든 미국 코어는 §Y[NEE.GetNameDef]§!에 제공됩니다\n"
 CAN_RESERVES_tooltip:0 "우리는 캐나다를 방어하기 위해 캐나다 예비군을 소집할 것입니다."
 CAN_lawoob_tt:0 "몇몇 충성파들이 자진해서 영국 전역에서 일어날 것입니다."
+IRE_indgbr_tt:0 "Two British divisions will be raised under our banner."
+CAN_ulsdivs_tt:0 "Three divisions of Ulster loyalists will be raised."
+CAN_ulsdivs2_tt:0 "Six divisions of Ulster loyalists and like-minded Irish will be raised."
+CAN_ulsdivs3_tt:0 "One Ulster and one Scottish division will be raised."
 
 ### Opinion Modifiers ###
 CAN_BROADCAST_ENG:0 "캐나다 선전에 분노"
@@ -287,7 +295,7 @@ CAN_threaten_DEN:0 "캐나다는 덴마크의 해외 영토를 요구합니다"
 
 ### Focuses ###
 CAN_kings_speech:0 "국왕의 연설"
-CAN_kings_speech_desc:0 "에드워드, 웨일즈의 왕자는 캐나다의 정치 분파가 두 개의 주요 세력으로 나뉘어있는 가운데 왕 겸 황제로 대관식을 치뤘습니다. 한쪽은 자유당인 수상 매켄지 킹과 지지자들, 다른 하나는 보수당인 베넷과 추방당한 영국 귀족들입니다. 현재로서는, 에드워드는 캐나다 전역에서 인기가 있으며 그가 지지하는 파벌은 큰 영향력을 얻을 것입니다."
+CAN_kings_speech_desc:0 "웨일즈의 왕자 에드워드는 캐나다의 정치 분파가 두 개의 주요 세력으로 나뉘어있는 가운데 왕 겸 황제로 대관식을 치뤘습니다. 한쪽은 자유당인 수상 매켄지 킹과 지지자들, 다른 하나는 보수당인 베넷과 추방당한 영국 귀족들입니다. 현재로서는, 에드워드는 캐나다 전역에서 인기가 있으며 그가 지지하는 파벌은 큰 영향력을 얻을 것입니다."
 
 ### Economic Focuses ###
 CAN_public_works:0 "공공 사업"
@@ -1025,19 +1033,15 @@ canada.110.c:0 "아일랜드로 모두 합병한다"
 
 canada.111.t:0 "아일랜드 내각"
 canada.111.d:0 "아일랜드가 모두 영국의 통제하에 있는 지금, 그 섬의 관리에 관한 문제가 제기되고 있습니다. 직접 통치하거나 영국 정부가 외교 정책에 대한 지배권을 유지하는 제한적 자치를 주는 선택지가 있습니다. 최근 우리와 함께 싸운 충성파의 강력한 선호도는 아일랜드가 영국과 통일하는 것이지만 이것은 분명 북부 외에서는 인기 없는 조치가 될 것입니다. 한편으로 우리는 아일랜드 임시 정부와 협상하여 최종적으로 아일랜드 문제를 해결할 수 있습니다."
-canada.111.a:0 "직접 통치."
-canada.111.b:0 "제한적 자치."
-canada.111.c:0 "아일랜드 임시 정부와 협상."
+canada.111.a:0 "직접 통치"
+canada.111.b:0 "제한적 자치"
+canada.111.c:0 "완전한 자치권을 부여하라"
 
 ### Negotiations with a Provisional Irish Government ###
 GBR_IRE_ENT_NO:0 "외교적 제안 거절"
 IRE_GBR_ENT_ENTER:0 "협상국 가입"
 GBR_IRE_ENT_NO_NIR:0 "북아일랜드 차지"
 GBR_IRE_FRE:0 "해방"
-
-canada.112.t:0 "아일랜드 임시 정부의 형성"
-canada.112.d:0 "영국의 부츠가 아일랜드 땅에 발을 딛은 지 20년이 지났지만, 캐나다의 본토 재정복과 함께 모든 것이 바뀌었습니다. 아일랜드에 대한 완전한 통제권을 쥐거나 평화로운 꼭두각시 정권을 세우는 대신, 복구된 영국 지도부는 우리에게 일련의 협상을 통해 우리 자신의 운명을 선택할 기회를 주기로 결정한 것으로 보입니다. 프랭크 맥더멋이 이끄는 임시 정부가 더블린에 설립되어 영국(United Kingdom)이 곧 설립될 것으로 보입니다."
-canada.112.a:0 "평화의 가능성!"
 
 canada.113.t:0 "아일랜드와 협상"
 canada.113.d:0 "우리가 더블린의 임시 정부와 아일랜드 문제에 대한 해결을 협상하기로 결정했고, 더 나은 협상 입장에서 행동하기로 결정한대로, 복구된 영국 정부는 분명히 책임을 요구합니다. 문제는, 우리가 아일랜드에서 우리의 이익을 추구해야 하는가 아니면 아일랜드 사람들에게 공정하고 공평한 해결책을 제안해야 하는가입니다."
@@ -1591,12 +1595,12 @@ canada.854.a:0 "아주 좋아, 끝내지"
 canada.854.b:0 "그들은 우리에게 땅을 양보해야 한다"
 canada.854.c:0 "우리는 그들에게 교훈을 주려고 한다"
 
-canada.855.t:0 "[From.GetNameDeCap]이(가) 평화를 요구합니다"
+canada.855.t:0 "[From.GetNameDefCap이(가) 평화를 요구합니다"
 canada.855.d:0 "우리는 [From.GetAdjective] 정부로부터 특사를 받았으며, 그들은 캐나다를 충분히 점령했으며 우리가 비참한 교훈을 얻었기를 바란다고 말했습니다. 그들은 우리에게 다음번에는 그렇게 관대하지 않을 것이라고 심하게 경고하였지만, 기꺼이 평화를 고려하려고 하고 있습니다."
 canada.855.a:0 "그래, 끝내자"
 canada.855.b:0 "아니, 우리는 여전히 이길 수 있다!"
 
-canada.856.t:0 "[From.GetNameDeCap]이(가) 평화를 요구합니다"
+canada.856.t:0 "[From.GetNameDefCap]이(가) 평화를 요구합니다"
 canada.856.d:0 "캐나다 정부는, [From.From.GetNameDef]에게 완패하였으며, 내전에 관여된 것에서 완전히 벗어나고자 하는 바람으로, [Root.GetNameDef]와(과)의 평화를 요구해 왔습니다."
 canada.856.a:0 "그래, 끝내자"
 canada.856.b:0 "우리는 저들에게 교훈을 주려고 한다."
@@ -1606,7 +1610,7 @@ canada.875.d:0 "오늘날 캐나다 정부와, 망명한 영국의 지도자들 
 canada.875.a:0 "우리가 얻을 수 있는 모든 도움을 받을 거야!"
 
 canada.876.t.usa:0 "캐나다가 연방정부를 지지하다"
-canada.876.t.psa:0 "캐나다가 연방정부를 지지하다"
+canada.876.t.psa:0 "캐나다가 태평양정부를 지지하다"
 canada.876.t.aus:0 "캐나다가 연합정부를 지지하다"
 canada.876.d:0 "오늘날 캐나다 정부와, 망명한 영국의 지도자들 그리고 협상국 전체는, [From.GetNameDef]에 대한 지지를 선언하며 그들이 미국의 진실되고 합법적인 주장자라고 선언했습니다. 그들은 직접적인 군사 개입을 제외하면, 주저하지 않고 [From.GetAdjective] 군의 강화를 위하여 일련의 군사 조언자뿐만 아니라 장비, 자원병을 지원하겠다고 제안했습니다. 그들의 [From.GetAdjective]이(가) 세계질서를 유지하고 세계의 강대국 중 하나가 혼란으로 붕괴되는 것을 막아야 된다고 주장했습니다."
 canada.876.a:0 "그들이 감히 미국 문제에 간섭하다니!"
@@ -1617,3 +1621,61 @@ canada.877.a:0 "우리는 준비되었다."
 canada.878.t:0 "캐나다의 개입"
 canada.878.d:0 "캐나다는 더 이상 내전을 지켜보고만 있지는 않을 것이라고 선언했고, 지금 모든 협상국 전 병력을 무장 분쟁에 투입하였습니다. 그들은 좋든 나쁘든 간에, 우리 편에서 내전에 참가했습니다."
 canada.878.a:0 "때가 왔다!"
+
+#Cosmetic Tags
+CANCM_market_liberal:0 "캐나다 연방"
+CANCM_market_liberal_ADJ:0 "캐나다"
+CANCM_market_liberal_DEF:0 "캐나다 연방"
+CANCM_social_conservative:0 "캐나다 연방"
+CANCM_social_conservative_ADJ:0 "캐나다"
+CANCM_social_conservative_DEF:0 "캐나다 연방"
+CANCM_social_liberal:0 "캐나다 연방"
+CANCM_social_liberal_ADJ:0 "캐나다"
+CANCM_social_liberal_DEF:0 "캐나다 연방"
+CANCM_social_democrat:0 "캐나다 연방"
+CANCM_social_democrat_ADJ:0 "캐나다"
+CANCM_social_democrat_DEF:0 "캐나다 연방"
+
+CANK_social_conservative:0 "캐나다 왕국"
+CANK_social_conservative_ADJ:0 "캐나다"
+CANK_social_conservative_DEF:0 "캐나다 왕국"
+CANK_authoritarian_democrat:0 "캐나다 왕국"
+CANK_authoritarian_democrat_ADJ:0 "캐나다"
+CANK_authoritarian_democrat_DEF:0 "캐나다 왕국"
+CANK_paternal_autocrat:0 "캐나다 왕국"
+CANK_paternal_autocrat_ADJ:0 "캐나다"
+CANK_paternal_autocrat_DEF:0 "캐나다 왕국"
+CANK_national_populist:0 "캐나다 왕국"
+CANK_national_populist_ADJ:0 "캐나다"
+CANK_national_populist_DEF:0 "캐나다 왕국"
+
+CAN_britain_totalist:0 "캐나다 사회주의 연방"
+CAN_britain_totalist_ADJ:0 "캐나다"
+CAN_britain_totalist_DEF:0 "캐나다 사회주의 연방"
+CAN_britain_syndicalist:0 "캐나다 사회주의 연방"
+CAN_britain_syndicalist_ADJ:0 "캐나다"
+CAN_britain_syndicalist_DEF:0 "캐나다 사회주의 연방"
+CAN_britain_radical_socialist:0 "캐나다 사회주의 연방"
+CAN_britain_radical_socialist_ADJ:0 "캐나다"
+CAN_britain_radical_socialist_DEF:0 "캐나다 사회주의 연방"
+CAN_britain_social_democrat:0 "캐나다 자치령"
+CAN_britain_social_democrat_ADJ:0 "캐나다"
+CAN_britain_social_democrat_DEF:0 "캐나다 자치령"
+CAN_britain_social_liberal:0 "캐나다 자치령"
+CAN_britain_social_liberal_ADJ:0 "캐나다"
+CAN_britain_social_liberal_DEF:0 "캐나다 자치령"
+CAN_britain_market_liberal:0 "캐나다 자치령"
+CAN_britain_market_liberal_ADJ:0 "캐나다"
+CAN_britain_market_liberal_DEF:0 "캐나다 자치령"
+CAN_britain_social_conservative:0 "캐나다 자치령"
+CAN_britain_social_conservative_ADJ:0 "캐나다"
+CAN_britain_social_conservative_DEF:0 "캐나다 자치령"
+CAN_britain_authoritarian_democrat:0 "캐나다 자치령"
+CAN_britain_authoritarian_democrat_ADJ:0 "캐나다"
+CAN_britain_authoritarian_democrat_DEF:0 "캐나다 자치령"
+CAN_britain_paternal_autocrat:0 "캐나다 자치령"
+CAN_britain_paternal_autocrat_ADJ:0 "캐나다"
+CAN_britain_paternal_autocrat_DEF:0 "캐나다 자치령"
+CAN_britain_national_populist:0 "캐나다 자치령"
+CAN_britain_national_populist_ADJ:0 "캐나다"
+CAN_britain_national_populist_DEF:0 "캐나다 자치령"
