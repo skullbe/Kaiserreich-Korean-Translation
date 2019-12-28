@@ -1,16 +1,22 @@
 l_english:
 
+bolivia_focus:0 "볼리비아 중점계릉도"
+
 ### Tooltip ###
-BOL_CLR_BM:0 "§G검은 월요일 영향 모두 지우기§!\n"
+BOL_CLR_BM:0 "§G검은 월요일의 영향을 모두 없앱니다§!\n"
 BOL_MID_BM:0 "§G효과는 우리의 접근 방식에 따라 달라질 수 있습니다§!"
-BOL_SHIPPIE:0 "이것은 우리의 해안 주 중 하나에 §Y2 해군 조선소§!를 추가할 것입니다"
-BOL_REVENGE:0 "§R이로인해 이웃 국가인 §Y[CHL.GetNameWithFlag]§! 및 §Y[PAR.GetNameWithFlag]§!와의 전쟁이 일어날 수 있습니다 §!\n"
+BOL_SHIPPIE:0 "우리의 해안 주 중 하나에 §Y해군 조선소 2채§!가 추가될 것입니다"
+BOL_REVENGE:0 "§R이웃 국가인 §Y[CHL.GetNameWithFlag]§! 및 §Y[PAR.GetNameWithFlag]§!와의 전쟁이 일어날 수 있습니다 §!\n"
 
 ### Decision ###
 BOL_Enact_our_Revenge:0 "복수를 시작한다"
 BOL_Enact_our_Revenge_desc:0 "우리는 고통을 겪었고, 눈물을 흘렸지만, 패배를 통해 더욱 강해졌습니다. 노동자 계급과 구시대의 잔재 사이의 이념적 충돌이 유럽 대륙에서 격화되면서 그것은 우리 지역에 충격을 주었습니다. 이웃들이 자신들의 갈등에 얽매여 있는 지금이야말로 위대한 나라로 회복하고 우리의 복수를 할 때입니다!"
 BOL_Join_Internationale:0 "인터내셔널 가입"
 BOL_Join_Internationale_desc:0 "남아메리카의 나머지 지역에서의 동지들의 성공으로 우리는 이제 인터내셔널에 가입함으로써 혁명의 세계적 확산을 도와야 하는지 자문해 보아야 합니다."
+BOL_diverge_resources_for_capital_ship:0 "Diverge extra resources for La Paz"
+BOL_diverge_resources_for_capital_ship_desc:0 "We must build La Paz battleship as soon as possible even if that means diverting resources from elsewhere!"
+BOL_build_capital_ship:0 "Building La Paz Battleship"
+BOL_build_capital_ship_desc:0 "While finishin La Paz Battleship on time or even sooner will have positive effect on our government, failing to hold our word will have serious consequences."
 
 ### Ideas ###
 BOL_Struggling_Economy:0 "경제 대공황"
@@ -162,7 +168,7 @@ BOL_Battlecruisers_desc:0 "순양함들은 대형 호위함으로서도 적합�
 BOL_Battleship_Investements:0 "전함 투자"
 BOL_Battleship_Investements_desc:0 "우리의 순양전함은 큰 전투를 위해 설계되었습니다. 하지만 적이 더 큰 배를 가지고 있다면 어떨까요? 우리는 모든 종류의 전투에 적합한 전함이 필요합니다!"
 BOL_Flagship_for_the_Armada:0 "무적함대를 위한 기함"
-BOL_Flagship_for_the_Armada_desc:0 "우리 해군은 리마에서 산티아고까지 전 세계에 걸쳐 공포에 떨게 하지만 부에노스 아이레스는 여전히 웃고 있습니다. 우리는 그들에게 볼리비아 해군이 우리의 새로운 주력 함대로 어떠한 적도 파괴할 수 있다는 것을 가르쳐줄 것입니다!"
+BOL_Flagship_for_the_Armada_desc:0 "우리 해군은 리마에서 산티아고까지 전 세계에 걸쳐 공포에 떨게 하지만 부에노스 아이레스는 여전히 웃고 있습니다. 우리는 그들에게 볼리비아 해군이 우리의 새로운 주력 함대로 어떠한 적도 파괴할 수 있다는 것을 가르쳐줄 것입니다!\n§Y건설에 여분의 자원을 분산시키는 임무를 허용할 것입니다.§"
 BOL_Bolivia_Rules_the_Seas:0 "바다 지배를 하는 볼리비아"
 BOL_Bolivia_Rules_the_Seas_desc:0 "우리는 성스러운 해안선을 다시 정복한 이후 먼 길을 걸어왔습니다. 이제 부에노스 아이레스도 더 이상 웃고 있지 않기 때문에 볼리비아가 바다를 지배한다고 해도 과언이 아닙니다!"
 
