@@ -5,6 +5,23 @@ COOP_MAIN_MENU_LINK:0 "여기를 눌러서 디스코드로 이동하세요"
 KR_MAIN_MENU_LINK:0 "여기를 눌러서 카이저라이히 위키로 이동하세요"
 LOGO_MAIN_MENU_LINK:0 "여기를 눌러서 패치노트를 확인하세요"
 
+### Renaming System ###
+toggle_renaming_button_tooltip:0 "[toggle_renaming_button_tooltip_loc]"
+toggle_renaming_button_tooltip_desc:0 "[toggle_renaming_button_tooltip_desc_loc]"
+toggle_renaming_button_tooltip_mp:0 "§R멀티플레이어에서는 비활성화됨§!"
+toggle_renaming_button_tooltip_enable:0 "§H유동 지명§!"
+toggle_renaming_button_tooltip_enable_desc:0 "지명이 원어독음으로 표기되며, 지역의 소유자에 따라 유동적으로 지명이나 도시명이 변경됩니다."
+toggle_renaming_button_tooltip_disable:0 "§H고정 지명§!"
+toggle_renaming_button_tooltip_disable_desc:0 "지역 소유자가 바뀌어도 지명이 변경되지 않습니다."
+
+### Continents ###
+central_america:0 "중앙아메리카"
+india:0 "인도"
+
+### Splash Screen ###
+KR_SPLASH_TITLE:0 "환영합니다!"
+KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAlpinia, Anbory, Arvidus, Augenis, Beelzebub, Blackfalcon501, Delincious, DSFDarker, Dr. Njitram, Drozdovite, Edouard Saladier, Eragaxshim, Fbruchmueller, Flamefang, Jeankedezeehond, Jonjon428, Jonny BL, Khalil, Kracc, Krčo, Liegnitz, Maltesefalcon, MantisToboggan, Mifil, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rinbro, Roniius, Roparex, Rylock, Saladenicoise, Sjarlewis, Skip, Telcontar101, The Alpha Dog, Thomahawk2k, Vidyaország, WordZero, Yard1, Zaddy-Chan 그리고 Zankoas"
+
 ### Difficulty ### 
 custom_diff_strong_ger:0 "독일 제국 강화"
 custom_diff_strong_frasri:0 "인터내셔널 강화"
@@ -25,14 +42,13 @@ kr_integrated_puppet:0 "동화된 괴뢰국"
 kr_occupied_puppet:0 "점령된 괴뢰국"
 kr_default_puppet:0 "괴뢰국"
 kr_autonomous_puppet:0 "자치 괴뢰국"
+kr_colonial_government:0 "식민지 정부"
 kr_nominal_puppet:0 "명목상 괴뢰국"
 kr_special_autonomous_dependency:0 "자치 속국"
-kr_african_colony:0 "아프리카 식민지"
-kr_african_tributary:0 "아프리카 조공국"
 kr_initial_wif_puppet:0 "연합된 식민지"
 kr_soclib_wif_puppet:0 "연합된 자치령"
-autonomy_colony:1 "식민지"
-autonomy_dominion:1 "자치령"
+autonomy_colony:0 "식민지"
+autonomy_dominion:0 "자치령"
 
 ### Autonomy Tooltips ###
 can_lower_autonomy_level:0 "자치도를 낮출 수 있습니다\n"
@@ -55,6 +71,26 @@ kr.political.101.a:0 "[Root.GetNameDef] 만세!"
 mtg_exile_government.1.t:0 "[exile_nation.GetAdjective]의 망명정부 지도자가 군복무를 원합니다"
 mtg_exile_government.1.desc:0 "적국이 점령한 영토와 여러 중립국들을 통해 길고 위험한 여정을 보낸 후, 항복한 아군 중 한 명의 고위 군 장교가 드디어 수도에 도착했습니다. 짧은 회복 시간을 보낸 후, 그는 우리와의 공동의 투쟁에서 군복무를 원하고 있습니다."
 mtg_exile_government.1.a:0 "당신의 싸움은 아직 끝나지 않았습니다."
+mtg_exile_government.2.title:0 "The [From.GetAdjective] Government in Exile"
+mtg_exile_government.2.desc:0 "[From.GetLeader] has formally requested permission from the [Root.GetAdjective] government to return to [From.GetNameDef] and re-establish a provisional [From.GetRulingPartyLong] cabinet in preparation for the post-war peace."
+mtg_exile_government.2.a:0 "It is time for them to return to their own territory."
+mtg_exile_government.2.b:0 "The time is not yet ripe."
+mtg_exile_government.3.title:0 "[From.GetName] Requests Naval Integration"
+mtg_exile_government.3.desc:0 "The [From.GetAdjective] naval leadership has presented us with a plan for the integration of our navy into theirs. They argue that, by allowing [From.GetAdjective] naval planners to have full control over our ships, their effectiveness would be drastically increased in comparison to their current independent actions."
+mtg_exile_government.3.a:0 "We agree."
+mtg_exile_government.3.b:0 "We will not serve under them."
+mtg_exile_government.4.title:0 "[From.GetName] Accepts Naval Integration"
+mtg_exile_government.4.desc:0 "The [From.GetAdjective] government has informed us that they agree to our proposal, and that henceforth their ships will operate under our command."
+mtg_exile_government.4.a:0 "Excellent."
+mtg_exile_government.5.title:0 "[From.GetName] Rejects Naval Integration"
+mtg_exile_government.5.desc:0 "The [From.GetAdjective] government has informed us that their navy will never serve under the command of a foreign power. They mean to aid us, but they shall do so independently."
+mtg_exile_government.5.a:0 "They place their pride above the interests of the alliance."
+mtg_generic.1.title:0 "[From.GetName] Enforces Government Change"
+mtg_generic.1.desc:0 "Citing the clear lack of electoral support for our current government, [From.GetNameDef] has demanded a change in politics."
+mtg_generic.1.a:0 "We have no choice but to accept."
+mtg_exile_leader_added.1.t:1 "[exile_nation.GetAdjective] Exile Leader Offers Service"
+mtg_exile_leader_added.1.desc:1 "After a long and hazardous journey through enemy-held territory and several neutral states, [From.GetName] has finally arrived in the capital. Following a short period of recovery, [From.GetSheHe] has offered [From.GetHerHis] services in our common struggle.\n\nReportedly, [From.GetSheHe] is quite eager to "get back in the business of killing people and breaking things"."
+mtg_exile_leader_added.1.a:1 "Your fight is not over yet."
 
 ### Land Units ###
 militia:0 "민병대"
@@ -64,12 +100,12 @@ cl_tech:0 "경순양함 기술"
 dd_tech:0 "구축함 기술"
 military_police_tech:0 "헌병"
 
+### Research Bonus Names ###
+refinery_bonus:0 "정유공장 보너스"
+
 ### Interface ###
-minister:1 "장관"
 research_production:1 "회사"
-#industrial_concern:1 "산업 회사" already defined in Traits loc file
 weapons_manufacturer:0 "무기 제조사"
-#tank_manufacturer:1 "중장비 제조사" already defined in Traits loc file
 air_naval_manufacturer:0 "항공/선박 제조사"
 can_replace_hog:0 "정부수반 재임명 가능"
 for_cannot_be_replaced:0 "외무장관 재임명 불가"
@@ -77,20 +113,22 @@ eco_cannot_be_replaced:0 "경제장관 재임명 불가"
 sec_cannot_be_replaced:0 "내무장관 재임명 불가"
 ministers_cannot_be_replaced:0 "장관 재임명 불가"
 
-### Game Options ###
-RULE_GROUP_KAISERREICH_RULES:0 "카이저라이히 규칙"
-RULE_MAP_NAMESTYLE:0 "지명 방식 & 지명 변경"
-RULE_OPTION_USE_EXONYM:0 "고정 지명"
-RULE_OPTION_USE_EXONYM_DESC:0 "지역 소유자가 바뀌어도 지명이 변경되지 않습니다."
-RULE_OPTION_USE_ENDONYM:0 "유동적인 지명"
-RULE_OPTION_USE_ENDONYM_DESC:0 "기존 카이저라이히 지명시스템과 같습니다. 지역의 소유자에 따라 유동적으로 지명이나 도시명이 변경됩니다."
-RULE_NEWS_EVENTS:0 "뉴스와 사건"
-RULE_OPTION_NEWS_EVENTS_ALL:0 "모든 뉴스 받아보기"
-RULE_OPTION_NEWS_EVENTS_ALL_DESC:0 "위치불문하고 모든 국가들의 사건과 뉴스를 받아보게 될 것입니다."
-RULE_OPTION_NEWS_EVENTS_SOME:0 "일부 뉴스만 받기"
-RULE_OPTION_NEWS_EVENTS_SOME_DESC:0 "강대국 위주의 사건과 뉴스만 받아보게 될 것입니다."
-RULE_OPTION_NEWS_EVENTS_NONE:0 "뉴스 받지 않기"
-RULE_OPTION_NEWS_EVENTS_NONE_DESC:0 "극소수의 뉴스만 받아보게 될겁니다."
+### News Events ###
+toggle_news_button_tooltip:0 "[toggle_news_button_tooltip_loc]"
+toggle_news_button_tooltip_desc:0 "[toggle_news_button_tooltip_desc_loc]"
+toggle_news_button_tooltip_mp:0 "§R멀티플레이에서는 비활성화됨§!"
+toggle_news_button_tooltip_all:0 "§H지역 뉴스만§! 받기"
+toggle_news_button_tooltip_all_desc:0 "세계의 주요 이벤트 및 뉴스와 당신의 지역 뉴스만 받게 될 것입니다."
+toggle_news_button_tooltip_some:0 "§H뉴스§! 받지 않기"
+toggle_news_button_tooltip_some_desc:0 "극소수의 뉴스만 받게 될 것입니다."
+toggle_news_button_tooltip_none:0 "§H모든 뉴스§! 받기"
+toggle_news_button_tooltip_none_desc:0 "지역 상관없이 모든 뉴스를 받게 될 것입니다."
+toggle_news_text_all:0 "모든 뉴스 보기"
+toggle_news_text_regional:0 "지역 뉴스 보기"
+toggle_news_text_none:0 "뉴스 받지 않기"
+
+### Ship Name Categories ###
+NAME_THEME_MOUNTAINS:0 "산"
 
 ### Factions ###
 Mittelmacht:0 "제국 조약"
@@ -114,7 +152,7 @@ second_weltkrieg_threat:0 "제2차 세계대전 발발"
 rise_mongol_empire_threat:0 "몽골 제국의 기상"
 fourth_balkan_war_threat:0 "제4차 발칸전쟁 발발"
 remilitarize_oltenia_threat:0 "카르파티아에서의 책동"
-romandy_crisis_threat:0 "사보야드 사태 발생"
+savoyard_crisis_threat:0 "사보야드 사태 발생"
 russian_expansionism_threat:0 "러시아의 팽창주의 노선"
 kerensky_assassinated_threat:0 "케렌스키가 암살됨"
 macarthur_threat:0 "미국에서 민주주의가 축출됨"
@@ -131,6 +169,7 @@ tooltip_add_idea_closed_economy:0 "'§Y폐쇠경제§!'로 무역법을 변경�
 tooltip_add_idea_command_economy:0 "'§Y계획경제§!'로 무역법을 변경합니다.\n"
 unlock_focuses:0 "§G이 중점은 자동으로 통과될 것이며 다른 중점을 해금할 것입니다§!\n"
 command_economy:0 "명령경제"
+asked_to_join:0 "타국이 개입을 요청했습니다."
 
 ### Bookmarks ###
 
@@ -164,29 +203,29 @@ JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일�
 
 ### Featured Nations ###
 
-### Cuba ###
-CUB_KR_GATHERING_STORM_DESC:0 "미국의 지원을 받는 독재자 제라도 마차도 정권이 전복된 지 불과 7년 만에 쿠바는 다시 정치적 격변의 기로에 서 있습니다. 젊은 대통령인 라파엘 트레조 정권은 육군에 대한 통제력을 꾸준히 상실해 왔고, 민간 정부의 정치적 권위는 거의 완전히 무너졌습니다. 좌우 급진주의자들이 나라를 위협하고 있기 때문에, 군대는 기회가 오는 즉시 완전한 통제권을 장악하는 것이 좋을 것입니다."
+###Qing Empire###
+QIE_KR_GATHERING_STORM_DESC:0 "The Qing Empire enters 1936 on the brink. Restored in exchange for German support during the fourth Zhili-Fengtian war in 1927, the Xuantong Emperor remains deeply unpopular and viewed by many as illegitimate.\n\nThe Zhili clique, who trounced both the Fengtian clique and the KMT, stands as the victor of the chaos that engulfed China since 1911, but their domination of the country is far from secure. Enemies from both outside and within threaten their hegemony, and it remains to be seen how long they can hold on to power..."
 
-### Dominican Republic ###
-DOM_KR_GATHERING_STORM_DESC:0 "The American Occupation of the Dominican Republic ended in 1924 and full political control was returned soon after, but within a mere few years, the nation's new democratic constitution would face challenges both within and without. While Democracy has so far survived in the nation, the schism of the long-ruling Red Party has again put the constitution's survival in jeopardy."
+###League of Eight Provinces###
+LEP_KR_GATHERING_STORM_DESC:0 "Sun Chuanfang's League forms the southern half of an axis which has dominated China for nearly a decade. Years of peace have proven fertile ground for ambition, and with it jealousy. Although Nanjing and Beijing remain united against external foes, they have become competitors as much as allies. Some say the costs of this contest have already begun to take their toll.\n\nLike much of China the League is the product of a careful balance, and Sun's great bureaucratic pyramid may have already begun to crack and crumble..."
 
-### West Indies Federation ###
-CAF_KR_GATHERING_STORM_DESC:0 "서인도제도 연방은 1925년에 대영제국이 붕괴되면서, 카리브해 지역 일대를 직접 지배할 영향력을 잃게 되어 창설된 국가입니다. 1927년, 연방에 카리브 해의 프랑스 식민지 지역들이 편입된 후, 연방은 신분계급의 격차뿐 아니라 문화적, 이념적 분열의 본거지가 되었습니다. 국민과 신세대들은 본토에서 사회주의적인 태도와 사회주의에 대한 선호를 눈에띄게 보여주는 빨갱이들의 활동을 보게 되었습니다. 이러한 문제들은 서인도제도에 혼란이 휩싸이게 하고 있습니다..."
+### Fengtian Government ###
+FNG_KR_GATHERING_STORM_DESC:0 "The Shanghai Conference of 1928 left Fengtian as the sole inheritor of the old Beiyang Republic's legacy. As before, democracy is maintained only as a thin veneer, and real power is divided between a wide variety of unscrupulous autocrats.\n\nZhang Zuolin, his ambitions limited by the stark realities of Qing strength and Japanese power, has been forced to walk a political tightrope above the machinations of his own divided government. The outlook is grim, but some still hold out hope. The Five Color Flag may again flutter high above Beijing and across all China..."
 
-### Denmark ###
-DEN_KR_GATHERING_STORM_DESC:0 "덴마크는 베를린의 그늘 아래 존재하고 있습니다. 세계의 새로운 패권주의 국가와의 관계는 아주 오래되었는데, 1864년에는 독일과 종종 적대적이였고, 그 결과 슬레스비크 지역을 독일에게 뺴앗겼습니다. 그러나 1936년, 유대 관계는 따뜻하며, 덴마크는 세계대전에서 중립을 유지한 덕에 완전한 주권을 유지하게 되었습니다. 덴마크는 인기 있는 사민주의 총리 토르발 스타우닝의 지도 아래 독일의 경제적인 번영을 누려왔습니다. 국내적으로는 미래가 밝지만, 국외적으로는 구름이 드리우고 있습니다. 어떤 사람들은 덴마크가 잘못된 사간에 잘못된 장소에 있게 될 것이라고 우려하고 있습니다."
+### Yunnan Clique ###
+YUN_KR_GATHERING_STORM_DESC:0 "With the German re-establishment of the Qing dynasty, the mountainous border province of Yunnan was forced to change its strategy. Governor Tang decided to kowtow to the new Qing Empire, while at the same time opening Yunnan's doors to republican remnants, in order to cement his autonomy and deter action against his notoriously upstart province.\n\nAlthough the situation in China is slowly starting to favour Tang's schemes, it is also beginning to shatter an illusion of provincial unity, as many internal factions no longer see Tang as fit or even sane enough to rule..."
 
-### Finland ###
-FIN_KR_GATHERING_STORM_DESC:0 "유럽의 북쪽 변방에는 북유럽 지역에서 독일 영향권의 보루인 핀란드가 당당히 서 있습니다. 러시아 제국의 시체에서 탄생하여 사회주의가 나라를 어지럽히면서, 핀란드는 사회주의와 러시아의 제국주의적인 손아귀에 맞서, 독일의 충직한 동맹국으로 변모했습니다. 하지만 근20년간 군주와 국민연합의 지도 아래 독립한 후, 불안은 점점 더 커져가고 있습니다. 핀란드는 진정으로 자유로운 것일까요 아니면 차르보다 독일의 지배가 조금 더 교묘한 것일까요?"
+### Ma Clique ###
+XSM_KR_GATHERING_STORM_DESC:0 "The three Ma families have cemented their northwestern rule for thirty steady years. Siding with almost everyone in China at one point or another, with some Mas even fighting each other for the sake of remaining on the good side of everyone, the Mas are now seen as one of the greatest allies of the new Zhili-led Qing Dynasty.\n\nOf course, not all is well. Ma Fuxiang's heart attack three years ago shook the clique, and a sense of anxiety and unrest has slowly spread ever since. For now the northwest is peaceful, but its future is less certain than many might like to believe..."
 
-### Iceland ###
-ICE_KR_GATHERING_STORM_DESC:0 "1874년에 만들어진 아이슬란드는 덴마크가 식민지 본국 통치를 허가하면서 처음으로 독립의 맛을 느끼게 되었습니다. 세계대전 이후 총성이 잠잠해지자, 아이슬란드는 섬에 번영의 시기를 가져다준 미텔오이로파 경제블록에 가입했습니다. 하지만 이러한 경제번영은 영원히 지속되지는 않을 것입니다. 1925년 영국의 혁명은 세계대전 이후 아이슬란드의 기적 같은 경험을 깨뜨렸습니다. 지난 10년간 아이슬란드는 영국으로 인한 손실로부터 경기가 완전히 회복되지 않아서 허우적거리고 있습니다. 현재 많은 정치인들은 이 섬에 활력을 주기 위한 다양한 계획들을 가지고 있습니다."
+### Shandong ###
+SQI_KR_GATHERING_STORM_DESC:0 "Shandong's ruler Zhang Zongchang is preceded only by his armored train and a monstrous reputation. The 'Dogmeat General' is known for violence, vice and corruption, and under his hand the capital of Jinan has steadily come to mirror its master.\n\nHowever, from the peak of Mount Tai, the elusive patriarch Zhang Tianran eschews the depravity below. Instead he hopes to turn back China’s clock by over a century, and guide the country into the arms of his captivating Yiguandao faith. A clash between these contradictory forces may change China forever..."
 
-### Norway ###
-NOR_KR_GATHERING_STORM_DESC:0 "노르웨이의 경우, 지난 20년이 더 나았을겁니다. 영국의 전쟁 노고에 지지하는 중립국으로서, 독일의 패권세력은 백야의 땅을 내켜하지않았고, 스웨덴과 덴마크는 미텔오이로파 계획에 포함되었지만, 노르웨이는 제외되었습니다. 영국이 망치와 횃불에 잠식되면서, 노르웨이에 무거운 관세를 매기지 않던 마지막 교역국이 대양 밖으로 떠나게 되었습니다. 노르웨이는 외교적, 경제적 고립에서 헤어나오지 못 했으며, 생디칼리즘 성향의 노동당이 선거에서 상승세로 점점 더 부상하고 있습니다."
+### Shanxi Clique ###
+SHX_KR_GATHERING_STORM_DESC:0 "Unlike most other warlord factions, Yan Xishan's Shanxi clique has retained a policy of guarded neutrality for nearly three decades, broken only in times of great threat or great opportunity. Both presented themselves in 1928, and Yan joined Zhang Zuolin against the newly reformed Qing Government.\n\nUnfortunately the subsequent defeat deprived Yan of the eastern portion of his province, and forced him to induct Guominjun remnants to bolster his wavering forces. The consequences of 1928 are far from forgotten, and next time Yan must choose a side he must do so wisely... "
 
-### Sweden ###
-SWE_KR_GATHERING_STORM_DESC:0 "지난 10년 동안 스웨덴은 1920년대 후반과 1930년대 초 미텔오이로파의 경제성장 결실을 등에 엎은 아비드 린드만 총리의 번영한 지도체제 아래 보수의 보루로서 스웨덴을 발전시켜나갔습니다. 하지만 1934년 아비드 린드만은 총리직에서 물러나고, 카리스마가 없는 예스타 바게가 그 자리를 이어받은 반면, 사민계열 야당들은 인기있는 당수인 페르 알빈 한손을 중심으로 결집하고 있습니다. 올해는 바게가 자리를 물려받은 이후 처음으로 실시되는 총선이 열립니다. 과연 바게는 지위를 유지할 수 있을까요? 만약 그렇지 않다면, 스웨덴의 민주주의는 이 갑작스러운 역전을 버텨낼 수 있을까요?"
+### Sichuan Clique ###
+SZC_KR_GATHERING_STORM_DESC:0 "Sichuan has long been a microcosm of China's many woes, divided and constantly switching controllers since 1911. Yang Sen managed to emerge from the chaos as ruler with help from Wu Peifu's Zhili Clique, but even his control is far from absolute.\n\nFollowing a destructive Tibetan invasion, Yang has come to rely upon internal factions for support, most notably Liu Xiang's Industrial Corps and Deng Xihou's Baoding Department. Meanwhile, the exiled Officer Department has returned to the south with support from Yunnan. The Sichuanese powderkeg may explode once again..."
 
 ### History ###
 OTHER_KR_GATHERING_STORM_DESC:0 "세계의 크고 작은 국가들은 세계에서 주요한 역할로 등장할 기회를 기다리고 있습니다. 자신의 제국을 유지하려는 주요 국가들부터 세계대전에서 잃은 자신의 것들을 되찾으려는 많은 국가들까지, 모든 국가들은 어려운 결정들을 내려야만 할 것이고 현실과 이상 사이의 균형을 잘 맞춰 세계의 미래에 영향을 미쳐야 할 것 입니다..."
@@ -202,43 +241,8 @@ head_of_government:0 "정부수반"
 foreign_minister:0 "외무장관"
 economy_minister:0 "경제장관"
 security_minister:0 "내무장관"
-head_of_intel:0 "정보총수"
-
-### Ideologies ###
-totalist:0 "전체주의"
-syndicalist:0 "생디칼리즘"
-radical_socialist:0 "급진사회주의"
-social_democrat:0 "사회민주주의"
-market_liberal:0 "시장자유주의"
-social_conservative:0 "사회보수주의"
-authoritarian_democrat:0 "권위민주주의"
-paternal_autocrat:0 "세습전제주의"
-national_populist:0 "국민대중주의"
-social_liberal:0 "사회자유주의"
-
-### Drift ###
-totalist_drift:0 "매일 전체주의 지원"
-syndicalist_drift:0 "매일 생디칼리즘 지원"
-radical_socialist_drift:0 "매일 급진사회주의 지원"
-social_democrat_drift:0 "매일 사회민주주의 지원"
-market_liberal_drift:0 "매일 시장자유주의 지원"
-social_conservative_drift:0 "매일 사회보수주의 지원"
-authoritarian_democrat_drift:0 "매일 권위민주주의 지원"
-paternal_autocrat_drift:0 "매일 세습전제주의 지원"
-national_populist_drift:0 "매일 국민대중주의 지원"
-social_liberal_drift:0 "매일 사회자유주의 지원"
-
-### Banned ###
-totalist_banned:0 "전체주의 금지됨"
-syndicalist_banned:0 "생디칼리즘 금지됨"
-radical_socialist_banned:0 "급진사회주의 금지됨"
-social_democrat_banned:0 "사회민주주의 금지됨"
-market_liberal_banned:0 "시장자유주의 금지됨"
-social_conservative_banned:0 "사회보수주의 금지됨"
-authoritarian_democrat_banned:0 "권위민주주의 금지됨"
-paternal_autocrat_banned:0 "세습전제주의 금지됨"
-national_populist_banned:0 "국민대중주의 금지됨"
-social_liberal_banned:0 "사회자유주의 금지됨"
+head_of_intel:0 "군사정보부장"
+leader_of_the_british_exiles:0 "영국 총리"
 
 ### Company Traits ###
 
@@ -301,15 +305,15 @@ nav_cas_producer_mass_1:0 "경폭격기 제조사"
 nav_cas_producer_mass_2:0 "경폭격기 제조사"
 
 ### Arms ###
-motorised_equipment_producer_offense_0:0 "자동화 장비 제조사"
-motorised_equipment_producer_offense_1:0 "자동화 장비 제조사"
-motorised_equipment_producer_offense_2:0 "자동화 장비 제조사"
-motorised_equipment_producer_defense_0:0 "자동화 장비 제조사"
-motorised_equipment_producer_defense_1:0 "자동화 장비 제조사"
-motorised_equipment_producer_defense_2:0 "자동화 장비 제조사"
-motorised_equipment_producer_mass_0:0 "자동화 장비 제조사r"
-motorised_equipment_producer_mass_1:0 "자동화 장비 제조사"
-motorised_equipment_producer_mass_2:0 "자동화 장비 제조사"
+motorised_equipment_producer_offense_0:0 "기계화 장비 제조사"
+motorised_equipment_producer_offense_1:0 "기계화 장비 제조사"
+motorised_equipment_producer_offense_2:0 "기계화 장비 제조사"
+motorised_equipment_producer_defense_0:0 "기계화 장비 제조사"
+motorised_equipment_producer_defense_1:0 "기계화 장비 제조사"
+motorised_equipment_producer_defense_2:0 "기계화 장비 제조사"
+motorised_equipment_producer_mass_0:0 "기계화 장비 제조사r"
+motorised_equipment_producer_mass_1:0 "기계화 장비 제조사"
+motorised_equipment_producer_mass_2:0 "기계화 장비 제조사"
 infantry_equipment_producer_offense_0:0 "보병 장비 제조사"
 infantry_equipment_producer_offense_1:0 "보병 장비 제조사"
 infantry_equipment_producer_offense_2:0 "보병 장비 제조사"
@@ -325,6 +329,9 @@ infantry_equipment_producer_allround_2:0 "보병 장비 제조사"
 infantry_equipment_producer_mass_0:0 "보병 장비 제조사"
 infantry_equipment_producer_mass_1:0 "보병 장비 제조사"
 infantry_equipment_producer_mass_2:0 "보병 장비 제조사"
+support_equipment_producer_mass_0:0 "장비 제조사 지원"
+support_equipment_producer_mass_1:0 "장비 제조사 지원"
+support_equipment_producer_mass_2:0 "장비 제조사 지원"
 artillery_producer_offense_0:0 "대포 제조사"
 artillery_producer_offense_1:0 "대포 제조사"
 artillery_producer_offense_2:0 "대포 제조사"
@@ -363,67 +370,15 @@ small_ship_producer_defense_2:0 "소형함 제조사"
 small_ship_producer_mass_0:0 "소형함 제조사"
 small_ship_producer_mass_1:0 "소형함 제조사"
 small_ship_producer_mass_2:0 "소형함 제조사"
+convoy_producer_0:0 "선박 회사"
+convoy_producer_1:0 "선박 회사"
+convoy_producer_2:0 "선박 회사"
 
 ### General Industry ###
+mining_company:0 "광산 회사"
 chemical_producer:0 "화학 회사"
 industrial_manufacturer:0 "산업 회사"
 electronics_manufacturer:0 "전자공학 제조사"
-
-### Theorists ###
-
-### Different stuff ###
-industry_theorist:0 "산업 이론가"
-nuclear_theorist:0 "핵 이론가"
-rocket_theorist:0 "로켓 이론가"
-electronic_theorist:0 "전기 이론가"
-
-### Doctrines ###
-
-### General ###
-air_doctrine_theorist:0 "공군 교리 이론가"
-naval_doctrine_theorist:0 "해군 교리 이론가"
-land_doctrine_theorist:0 "육군 교리 이론가"
-
-### Land ###
-supperior_firepower_theorist:0 "화력 우세 교리 이론가"
-mobile_warfare_theorist:0 "기동전 교리 이론가"
-trench_warfare_theorist:0 "참호전 교리 이론가"
-mass_assault_theorist:0 "대규모 돌격 교리 이론가"
-
-### Air ###
-strategic_destruction_theorist:0 "전략적 파괴 교리 이론가"
-battlefield_support_theorist:0 "전장 지원 교리 이론가"
-operational_integrity_theorist:0 "작전상 무결성 교리 이론가"
-
-### Naval ###
-fleet_in_being_theorist_theorist:0 "현존 함대 이론가"
-trade_interdiction_theorist:0 "통상 파괴 이론가"
-base_strike_theorist:0 "기지 타격 이론가"
-
-### Unit Type Theorists ###
-
-### Air ###
-aircraft_theorist:0 "항공기 생산 이론가"
-fighter_theorist:0 "전투기 이론가"
-heavy_fighter_theorist:0 "중전투기 이론가"
-cas_theorist:0 "근접지상지원기 이론가"
-tac_theorist:0 "전술 폭격기 이론가"
-strat_theorist:0 "전략 폭격기 이론가"
-nav_theorist:0 "해상 폭격기 이론가"
-
-### Tanks ###
-tank_theorist:0 "전차 생산 이론가"
-small_tank_theorist:0 "경전차 이론가"
-medium_tank_theorist:0 "중형 전차 이론가"
-heavy_tank_theorist:0 "중전차 이론가"
-
-### General Arms ###
-arms_theorist:0 "총기 이론가"
-infantry_equipment_theorist:0 "보병 장비 이론가"
-support_equipment_theorist:0 "지원 장비 이론가"
-art_theorist:0 "대포 이론가"
-motorized_theorist:0 "차량화 장비 이론가"
-marine_theorist:0 "해병대 장비 이론가"
 
 ### General ###
 fighter_techs:0 "전투기 장비"
@@ -435,10 +390,15 @@ marine_tech_research:0 "해병대 기술 연구 시간"
 early_fighter:0 "전간기 전투기"
 interwar_antiair:0 "초기 대공"
 signal_company_tech:0 "통신 중대"
+maintenance_company_tech:0 "정비 중대"
 cat_anti_air:0 "고정 대공포"
+cat_light_armor_research:0 "경기갑 연구 속도"
 cat_light_spg:0 "경자주포"
 cat_medium_spg:0 "중자주포"
 efficiency_tech:0 "생산효율기술"
+excavation_tech_research:0 "굴착 기술 연구 속도"
+concentrated_industry_tech:0 "집중 산업 기술"
+dispersed_industry_tech:0 "분산 산업 기술"
 
 ### Army Command Traits ###
 
