@@ -1,6 +1,7 @@
 l_english:
 
 ###Focus Localization###
+'iceland_tree':0 "아이슬란드 중점계릉도"
 
 #Black Monday Tree#
 ICE_Black_Monday_Woes:0 "검은 월요일의 비애"
@@ -275,24 +276,6 @@ ICE_paternal_autocrat_party_long:0 "자치당"
 ICE_national_populist_party:0 "국민주의당"
 ICE_national_populist_party_long:0 "국민주의 단체"
 
-### Cosmetic Tags ###
-ICE_icelandic_republic_social_democrat:0 "아이슬란드 공화국"
-ICE_icelandic_republic_social_liberal:0 "아이슬란드 공화국"
-ICE_icelandic_republic_market_liberal:0 "아이슬란드 공화국"
-ICE_icelandic_republic_social_conservative:0 "아이슬란드 공화국"
-ICE_icelandic_republic_authoritarian_democrat:0 "아이슬란드 공화국"
-ICE_icelandic_republic_paternal_autocrat:0 "아이슬란드 공화국"
-ICE_icelandic_republic_national_populist:0 "아이슬란드 공화국"
-
-### Cosmetic Tags ###
-ICE_icelandic_kingdom_social_democrat:0 "아이슬란드 왕국"
-ICE_icelandic_kingdom_social_liberal:0 "아이슬란드 왕국"
-ICE_icelandic_kingdom_market_liberal:0 "아이슬란드 왕국"
-ICE_icelandic_kingdom_social_conservative:0 "아이슬란드 왕국"
-ICE_icelandic_kingdom_authoritarian_democrat:0 "아이슬란드 왕국"
-ICE_icelandic_kingdom_paternal_autocrat:0 "아이슬란드 왕국"
-ICE_icelandic_kingdom_national_populist:0 "아이슬란드 왕국"
-
 ###Flags###
 
 Hringvegur_Road:0 "The Hringvegur Road is complete"
@@ -340,7 +323,7 @@ ICE_Industry_Expansion:0 "Expand our industry"
 ICE_Electric_Dam_1:0 "Laxárstöð Hydroelectric Station"
 ICE_Electric_Dam_1_desc:0 "The Laxárdalur valley is a prime candidate for the construction of new hydroelectric power plants"
 ICE_Electric_Dam_2:0 "Laxárstöð II Hydroelectric Station"
-ICE_Electric_Dam_1_desc:0 "With recent advancements in hydroelectric power generation, a second station can be built to help supplement the Laxárstöð power plant"
+ICE_Electric_Dam_2_desc:0 "With recent advancements in hydroelectric power generation, a second station can be built to help supplement the Laxárstöð power plant"
 
 ICE_Fishing_Regions_decisions:0 "Icelandic Fishing Regions"
 ICE_Greenland_Region:0 "Expand towards Greenland"
@@ -360,7 +343,6 @@ ICE_CAN_Port_Expand_2:0 "Expand the Seydhisfjordhur Port"
 ICE_CAN_Port_Expand_3:0 "Expand the Akureyri Port"
 ICE_Reykjavik_Air:0 "Reykjavik Airport Construction"
 
-ICE_Military_Projects:0 "Iceland Military Projects"
 ICE_Reykjavik_LFort_1:0 "Light Fortifications for Reykjavik"
 ICE_Reykjavik_LFort_Lev2:0 "Medium Fortifications for Reykjavik"
 ICE_Reykjavik_SFort_1:0 "Light Coastal Fortifications for Reykjavik"
@@ -400,7 +382,6 @@ ICE_Subsidize_Fishers:0 "Subsidies for Fishermen"
 
 ICE_Althing:0 "Althingi"
 ICE_Rally_Support:0 "Rally support"
-ICE_Repeal_Prohibition:0 "Repeal Prohibition"
 ICE_Guttoslagurinn_Meeting:0 "Reconcile the Guttoslagurinn Protests"
 ICE_Alleviate_Unemployment:0 "Alleviate Unemployment"
 ICE_Travel_Schools:0 "Encourage Education"
@@ -850,7 +831,7 @@ ice.74.d:0 "As the markets start to hike their prices, we must turn inwards and 
 ice.74.a:0 "Moderate adherence to austerity!"
 ice.74.b:0 "A small austerity budget!"
 
-ice.75.t:0 "Where should we allocate what funds we have?"
+ice.75.t:0 "The Question of Fund Allocation"
 ice.75.d:0 "As our nation is thrown into great economic crisis, the people have cried out in a request for aid. Our coffers are very light so we will only be able to send a token gesture to one side. Who should we help relieve?"
 ice.75.a:0 "Support the Rural Areas"
 ice.75.b:0 "Support the Urban Area"
@@ -860,7 +841,7 @@ ice.76.d:0 "Over the past twenty years, the city of Reykjavik has more than doub
 ice.76.a:0 "If we find the money..."
 ice.76.b:0 "The rural population needs our help more"
 
-ice.77.t:0 "The Rural population protests"
+ice.77.t:0 "The Rural Population Protests"
 ice.77.d:0 "Since we have elected to give our resources to support the urban population of Iceland, the post has been filled with letters from the outlying communities with their complaints. They argue that their goods are what give those in the city jobs and that without the rural community, the urban community would be unable to survive."
 ice.77.a:0 "If we find the money..."
 ice.77.b:0 "A strong capital will share its wealth out later"
@@ -875,28 +856,28 @@ ice.81.d:0 "The people are greatly in favour of the radio broadcasts that have b
 ice.81.a:0 "The people need the comfort"
 ice.81.b:0 "Our efforts are better spent elsewhere"
 
-ice.82.t:0 "Iceland asks for financial relief"
+ice.82.t:0 "Iceland Asks for Financial Relief"
 ice.82.d:0 "The government of Iceland has come forward to us with a request for financial assistance during this crisis that we find ourselves in after Black Monday. They claim that with the injection of Danish cash into the Icelandic economy, they will be able to finance their own recovery programs. The amount that they ask for is relatively small due to the difference in population density between our two nations. Should we grant them this request?"
 ice.82.a:0 "We must help our people!"
 ice.82.b:0 "They must help themselves"
 
-ice.83.t:0 "Denmark sends financial relief"
+ice.83.t:0 "Denmark sends Financial Relief"
 ice.83.d:0 "The government of Denmark heard our pleas and responded with grace. They have granted us a very generous sum of money to kickstart relief programs to get our nation back on its feet!"
 ice.83.a:0 "Thank you, Denmark!"
 
-ice.84.t:0 "Denmark withholds relief"
+ice.84.t:0 "Denmark Withholds Relief"
 ice.84.d:0 "Our pleas fell on hard hearts when we requested a bailout from Denmark. They claim that the economic crisis is hitting them too hard at home to provide any relief for us. We will have to make do with what we have on hand."
 ice.84.a:0 "We must weather this alone"
 
-ice.85.t:0 "A charitable people"
+ice.85.t:0 "A Charitable People"
 ice.85.d:0 "The people of Iceland have gone above and beyond to reach out a helping hand to their neighbours in need. Churches all across the island have started donation drives and opened their doors to any and all who come seeking help. If everyone could love their neighbour as much as these men and women do, then the world might just turn out to be a better place."
 ice.85.a:0 "May the Lord smile on their kindness"
 
-ice.86.t:0 "Running a census"
+ice.86.t:0 "Running a Census"
 ice.86.d:0 "With our commitment to aiding the rural population, we need an accurate account of where they are located and in what numbers. Due to the general lack of communications infrastructure across the island, the census must be taken via messengers sent out from Reykjavik. Many generous herders near Reykjavik have offered some of their horses to be used to send riders off."
 ice.86.a:0 "Send out the riders"
 
-ice.87.t:0 "Sending out aid"
+ice.87.t:0 "Sending Out Aid"
 ice.87.d:0 "With preliminary reports coming in, the aid for the rural population has begun to be doled out to the people. Carts and wagons are loaded up and then sent in teams out into the countryside to reach the more remote settlements on the island."
 ice.87.a:0 "They will surely appreciate this"
 
@@ -1116,3 +1097,43 @@ neg_forty:0 "Accepted Canadian fuel deal"
 pos_twenty:0 "Declined Canadian fuel deal"
 neg_twenty:0 "Declined Canadian fuel deal"
 neg_sixty:0 "Expanded into our waters!"
+
+#Cosmetic Tags
+ICE_icelandic_republic_social_democrat:0 "아이슬란드"
+ICE_icelandic_republic_social_liberal:0 "아이슬란드"
+ICE_icelandic_republic_market_liberal:0 "아이슬란드"
+ICE_icelandic_republic_social_conservative:0 "아이슬란드"
+ICE_icelandic_republic_authoritarian_democrat:0 "아이슬란드"
+ICE_icelandic_republic_paternal_autocrat:0 "아이슬란드"
+ICE_icelandic_republic_national_populist:0 "아이슬란드"
+
+ICE_icelandic_kingdom_totalist:0 "아이슬란드 연방"
+ICE_icelandic_kingdom_totalist_ADJ:0 "아이슬란드"
+ICE_icelandic_kingdom_totalist_DEF:0 "아이슬란드 연방"
+ICE_icelandic_kingdom_syndicalist:0 "아이슬란드 연방"
+ICE_icelandic_kingdom_syndicalist_ADJ:0 "아이슬란드"
+ICE_icelandic_kingdom_syndicalist_DEF:0 "아이슬란드 연방"
+ICE_icelandic_kingdom_radical_socialist:0 "아이슬란드 연방"
+ICE_icelandic_kingdom_radical_socialist_ADJ:0 "아이슬란드"
+ICE_icelandic_kingdom_radical_socialist_DEF:0 "아이슬란드 연방"
+ICE_icelandic_kingdom_social_democrat:0 "아이슬란드 왕국"
+ICE_icelandic_kingdom_social_democrat_ADJ:0 "아이슬란드"
+ICE_icelandic_kingdom_social_democrat_DEF:0 "아이슬란드"
+ICE_icelandic_kingdom_social_liberal:0 "아이슬란드 왕국"
+ICE_icelandic_kingdom_social_liberal_ADJ:0 "아이슬란드"
+ICE_icelandic_kingdom_social_liberal_DEF:0 "아이슬란드"
+ICE_icelandic_kingdom_market_liberal:0 "아이슬란드 왕국"
+ICE_icelandic_kingdom_market_liberal_ADJ:0 "아이슬란드"
+ICE_icelandic_kingdom_market_liberal_DEF:0 "아이슬란드"
+ICE_icelandic_kingdom_social_conservative:0 "아이슬란드 왕국"
+ICE_icelandic_kingdom_social_conservative_ADJ:0 "아이슬란드"
+ICE_icelandic_kingdom_social_conservative_DEF:0 "아이슬란드"
+ICE_icelandic_kingdom_authoritarian_democrat:0 "아이슬란드 왕국"
+ICE_icelandic_kingdom_authoritarian_democrat_ADJ:0 "아이슬란드"
+ICE_icelandic_kingdom_authoritarian_democrat_DEF:0 "아이슬란드"
+ICE_icelandic_kingdom_paternal_autocrat:0 "아이슬란드 왕국"
+ICE_icelandic_kingdom_paternal_autocrat_ADJ:0 "아이슬란드"
+ICE_icelandic_kingdom_paternal_autocrat_DEF:0 "아이슬란드"
+ICE_icelandic_kingdom_national_populist:0 "아이슬란드 왕국"
+ICE_icelandic_kingdom_national_populist_ADJ:0 "아이슬란드"
+ICE_icelandic_kingdom_national_populist_DEF:0 "아이슬란드"
