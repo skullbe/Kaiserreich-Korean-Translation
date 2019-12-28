@@ -30,7 +30,7 @@ FED_CHI_popular_support_3:0 "중간의 대중 지지"
 FED_CHI_popular_support_4:0 "높은 대중 지지
 FED_CHI_popular_support_5:0 "매우 높은 대중 지지"
 
-FED_CHI_gentry_cooperation: "젠트리 협력"
+FED_CHI_gentry_cooperation: "상류층과 협력"
 FED_CHI_business_relations: "사업 관계"
 FED_CHI_farmer_unions: "농민 연대"
 FED_CHI_unionisation: "연합"
@@ -53,7 +53,7 @@ FED_CHI_shipbuilding_program:0 "조선 계획"
 FED_CHI_coastal_defense:0 "해안 경비대"
 
 ### Tooltips ###
-FED_CHI_after_reforms_tooltip:0 "After §H300§! days:\n"
+FED_CHI_after_reforms_tooltip:0 "§H300§!일 후:\n"
 FED_CHI_Federal_Ministry_Of_Railways_tooltip:0 "Modify §HDecentralised Economic Development§! or §HIndustrialisation Committee§! by\n§HInfratructure§! construction speed: §G+10.00%§!\n"
 
 FED_CHI_Aircraft_Repair_Schools_tooltip:0 "Modify §HNew Aviation Ministry§! by\nAir Accidents Chance: §G-10.0%§!\n"
@@ -89,7 +89,7 @@ UPC_deal_with_separatists_desc:0 "[UPC_deal_with_separatists_tag]"
 UPC_deal_with_separatist_MON:0 "Outer Mongolia was lost back in 1911. Even if our Republic's founder was one of the many voices calling for a military expedition to retake the autonomy, it is high time to accept the fact that the Outer Mongolians do not want to be part of the Federal Republic. Surely, it is time to start anew, as their twinkling democracy should be a brethren in Asia and not an enemy out of nothing but selfish pride."
 UPC_deal_with_separatist_ETS:0 "Recognizing East Turkestan will be a tough pill to swallow for Xinjiang has been part of China for centuries. Still, if they will not become part of the United Provinces, do we really have an excuse to subjugate them against their will? Surely, their young Republic can become a fellow Asian democracy. Besides, a military expedition would be a hellish adventure considering the distances, poor infrastructure, and fierce militants opposing us."
 
-UPC_reconstruction_plan:0 "Reconstruction Plan"
+UPC_reconstruction_plan:0 "재건 계획"
 UPC_reconstruction_plan_desc:0 "The Reconstruction Plan is the brainchild of Chen Jiongming and the China Public Interest (Zhigong) Party. In the 1920s, the Federalist leader envisioned a country reunified peacefully between the Zhili and Fengtian-dominated North and Kuomintang-dominated South, but this failed, and he instead focused on identifying the causes of the First Republic and the Kuomintang regime's downfall, why neither could solve China's problems, and how to solve said-problems. This included a zealous program of public works, increased central-provincial cooperation, and demilitarization to fund it all.\n\nWith China reunited, we can begin rebuilding it into a great power equal to the West."
 
 UPC_guangzhou-nanning:0 "광저우-난닝 철도"
@@ -159,7 +159,7 @@ UPC_DCP_Hu:0 "Hu Shih"
 
 ### Focuses ###
 Federalist_China_Tree:0 "중화 연방"
-FED_CHI_Begin_The_National_Conference:0 "국민 회의 시작"
+FED_CHI_Begin_The_National_Conference:0 "전국 회의 시작"
 FED_CHI_Begin_The_National_Conference_desc:0 "Representatives from the liberated provinces will attend Chen Jiongming's National Conference. This assembly will act as an interim legislature, setting up the upcoming provisional government and Senate before working on a new constitution."
 FED_CHI_Form_A_Provisional_Government:0 "임시 정부 구성"
 FED_CHI_Form_A_Provisional_Government_desc:0 "Until a new constitution can be agreed upon, a provisional government will handle the day-to-day tasks of the national government. This will largely be an expanded Guangzhou Federal Government to include new allies and supporters from the recently-liberated North."
@@ -337,11 +337,11 @@ FED_CHI_Build_A_Merchant_Navy_desc:0 "In order to reduce our dependence on forei
 ### Events ###
 
 
-lngupc.1.t:0 "The [GetConferenceCity] Conference"
+lngupc.1.t:0 "[GetConferenceCity] 회의"
 lngupc.1.d:0 "The First and Second Shantou Conferences of 1924 were an assembly of federalists from across China to discuss the future of the movement and the country. Notably, the second one was attended by delegates from both the Kuomintang and the Beijing Government despite their ongoing conflict. Chen Jiongming will now host a third conference, hoping to bring the southern provincial governments together to agree on a new Reconstruction Plan for the region and form a provisional government to rival the Beijing and Fengtian governments and the Kuomintang upstarts. Once more, the strength of the Federalist movement is on the upswing and there is a real chance for it to become influential in national politics."
 lngupc.1.a:0 "Towards unity."
 
-lngupc.101.t:0 "Beginning of the Conference"
+lngupc.101.t:0 "회의의 시작"
 lngupc.101.d:0 "Governor Chen Jiongming, chairman of the China Public Interest Party, opened the conference stating that Southern China was in a unique position once again, and that the Federalist movement could prove themselves to the rest of China as models for true democracy and prosperity. [GXC.GetTangStatus]. Zhao Hengti reiterated his statement from 1922 that the only way to unite China is to build a federalized, unified nation. Notably, there are a number of delegates from outside the Federalist movement observing the Conference like the first two. After the opening statements, the delegates begin discussing Chen Jiongming's Reconstruction Plan and the possibility of forming a new National Government."
 lngupc.101.a:0 "Get on with it!"
 
