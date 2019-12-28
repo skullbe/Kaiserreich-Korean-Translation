@@ -24,7 +24,7 @@ JF_GENERIC_FLAVOUR_OTHER_VICTORY:0 "구세계의 질서가 폐허가 되면서, 
 #North America
 JF_CAN_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지만, 미국은 [CAN.GetNameDef]와(과) 함께 그들의 조국과 유럽을 생디칼리즘으로부터 해방시키기로 결정했습니다."
 JF_GER_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지만, 미국은 생디칼리즘에 대한 공통된 적개심을 가진 [GER.GetNameDef]와(과) 함께 하고자 제국 조약에 가입하기로 결정했습니다. "
-JF_FRA_CSA_FLAVOUR:0 "노조연합이 미국 내전에서 승리한 이후, 노조연합은 프랑스 쪽으로 방향을 틀었고, 공식적으로 생디칼리스트 동맹에 합류하였습니다. 미국의 산업력이 혁명을 위해 쓰이기 시작하면서 세계의 혁명가들은 전율하고 있습니다."
+JF_FRA_CSA_FLAVOUR:0 "노조연합이 미국 내전에서 승리한 이후, 노조연합은 프랑스 쪽으로 방향을 틀었고, 공식적으로 생디칼리스트 동맹에 합류하였습니다. 미국의 산업력이 혁명을 위해 쓰이기 시작하면서 혁명가들은 전율하고 있습니다."
 
 #Central America
 JF_COS_GER_FLAVOUR:0 "Intertwined through the ZKG coffee barons, a treaty of military assistance has been signed with the [faction_leader.GetFactionName] together with access to the Puerto Limon naval facilities."
@@ -39,15 +39,20 @@ JF_BEL_GER_FLAVOUR:0 "아를롱 조약에 동의한 신생국 벨기에는 생�
 JF_BEL_CAN_FLAVOUR:0 "Allies on the Yzer during the Weltkrieg and connected by blood to the British crown, the Van België's have thrown their fate in with their old allies to ensure their survival."
 JF_BEL_FRA_FLAVOUR:0 "The Old Order is crumbling, the [GER.GetName] desintegrating, rise you victims of opression and bring down the Giant in retaliation for 1914!"
 JF_CAN_POR_FLAVOUR:0 "Due to [POR.GetName]'s longstanding ties to the royal family in Ottawa they have officially joined the Entente, giving Canada a springboard in Europe for the planned reconquest of the British Isles."
-JF_GER_IRE_FLAVOUR:0 "Due to British provokation, [IRE.GetName] has joined the German sphere, hoping the Kaiser can protect them from syndicalist machinations."
+JF_GER_IRE_FLAVOUR:0 "Due to British provocation, [IRE.GetName] has joined the [GER.GetFactionName], hoping the Kaiser can protect them from syndicalist 'machinations'."
  
-#Scandinavia
+#Northern Europe
 JF_GER_SWE_FLAVOUR:0 "베를린과의 오랜 경제적인 유대를 가지고 있고, 스칸디나비아에서 급진주의가 대두되면서 [SWE.GetName]은(는) 공식적으로 제국 조약에 가입했습니다."
 JF_FRA_SWE_FLAVOUR:0 "[SWE.GetLeader]이(가) 스웨덴 정부를 무너뜨리고서, [SWE.GetNameDef]와(과) 파리와의 관계를 공고히하며, 제3인터내셔널에 가입하였습니다."
 JF_GER_FIN_FLAVOUR:0 "러시아는 자국내 급진주의의 위협을 무너뜨리고서 유럽영토를 되찾으려고 하고 있습니다. [FIN.GetLeader]은(는) 소국에게는 부족한 안보를 제국 조약이 지켜줄 수 있도록 제국 조약과의 관계를 공고히 다졌습니다."
 JF_FRA_FIN_FLAVOUR:0 "[FIN.GetLeader]이(가) 군주주의를 무너뜨리고서 자발적으로 국제적인 생디칼리즘 운동에 동참하기 위해 제3인터내셔널에 가입하였습니다."
 JF_FRA_NOR_FLAVOUR:0 "군주제의 전복 이후, 새로운 노르웨이의 생디칼리즘 정부는 제3인터내셔널에 가입했습니다."
 JF_CAN_NOR_FLAVOUR:0 "국내의 급진주의를 즉각적으로 제압하고서, [NOR.GetName]은(는) 협상국과 관계를 공고히 하고 있습니다."
+JF_AUS_SWI_FLAVOUR_peace:0 "While the French threat may be subdued for the moment, Switzerland has formally aligned themselves with Austria's alliace to ensure future peace and stability."
+JF_AUS_SWI_FLAVOUR_war:0 "With the French conflict progressing, Switzerland has decided to officially join Austria's alliance, just in case anyone thought they were still neutral."
+JF_GER_SWI_FLAVOUR_war:0 "With the war against the Syndicalists progressing, Switzerland has decided to officially join the Reichspakt, only further aligning them with the German Empire."
+JF_GER_SWI_FLAVOUR_peace:0 "While the French threat is subdued temporarily, Switzerland has decided to align themselves with the Reichspakt, to ensure future peace and security."
+JF_FRA_SWI_FLAVOUR:0 "Following the Syndicalist revolution in Switzerland, the temporary government has decided to join the Third Internationale, formalizing the already close relations between the Commune of France and [SWI.GetNameDef]."
 
 #Southern Europe
 JF_AUS_ITA_FLAVOUR:0 "With Italo Balbo's radicalism contained at the ballot box, [ITA.GetNameDef] has formally joined Austria's defense pact."
@@ -69,8 +74,11 @@ JF_CAN_GRE_FLAVOUR:0 "세계대전 때 연합국이였던 [GRE.GetNameDef]이(�
 #South East Asia
 
 #East Asia
-JF_MON_TIB_FLAVOUR:0 "마가 군벌에 대한 공통의 적개심으로 인해 티베트는 슈테른베르크 남작 세력에 가담하게 되었고, 두 국가는 현재 마가 군벌과의 전쟁을 준비하고 있습니다. 그러나 이 동맹은 전쟁이 끝난 뒤에도 지속될 것 같지는 않습니다..."
-
+JF_SHX_QIE_COUP_FLAVOUR:0 "Following the auto-coup carried out by Puyi with the aid of [SHX.GetNameDef], [SHX.GetLeader] has intervened against the remnants of the Zhili clique, formally aligning himself with Beijing."
+JF_SQI_QIE_COUP_FLAVOUR:0 "Following the auto-coup carried out by Puyi with the aid of [SQI.GetNameDef], [SQI.GetLeader] has intervened against the remnants of the Zhili clique, formally aligning himself with Beijing."
+JF_ANQ_QIE_FLAVOR:0 "Following Wu Peifu successful support of [ANQ.GetNameDef]'s struggle against [LEP.GetNameDef], Governor Chen Tiaoyuan has aligned himself with the Northern Zhili Clique."
+JF_QIE_JOIN_RP_FLAVOUR:0 "Following [QIE.GetNameDef]'s victory over Japan and the Fengtian government, they have joined the Reichspakt in order to counter aggressive Russian expansionism in the Far East."
+JF_chinese_united_front:0 "In order to resist Japan and their catspaw [FNG.GetLeader], all of China must be brought together in one united front."
 
 
 #Oceania
