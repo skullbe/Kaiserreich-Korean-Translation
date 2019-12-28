@@ -1,5 +1,9 @@
 l_english:
 
+KR_Argentina_Carles:0 "아르헨티나 카를로스 중점계릉도"
+KR_Argentina_Democratic:0 "아르헨티나 민주주의 중점계릉도"
+ARG_Five_Year_Plan:0 "아르헨티나 5개년 계획 중점계릉도"
+
 ### Parties ###
 ARG_national_populist_party:0 "애국당"
 ARG_national_populist_party_long:0 "애국당"
@@ -53,10 +57,12 @@ ACW_AUS_actually_rose_up:0 "휴이 롱이 연방에서 탈퇴했다"
 PER_ARG:0 "리마 조약이 발효되었다"
 RIO_NEGRO:0 "§Y우리는 리오 네그로를 가로지르는 탐색적인 공격을 시작할 것입니다 \n§!"
 arg_immiblack:0 "§Y5개년 계획§!이 제정되었다"
+ARG_fulloob_tt:0 "7-10개의 새로운 사단이 전국에 증원될 것입니다"
 
 ### Research Group ###
 argentina_research:0 "아르헨티나-페루 연구 조약"
 argentina_research_name:0 "아르헨티나-페루 연구 조약"
+argentina_research_desc:0 ""
 
 ### Opinion Modifiers ###
 ARG_improved_relations:0 "관계 개선"
@@ -121,8 +127,9 @@ ARG_Dockyard_Crisis:0 "조선소 위기"
 ARG_Armada:0 "아르헨티나 무적함대"
 
 ARG_Safeguarding_Democracy:0 "민주주의 보호"
+argentina_dwm:0 "DWM 아르헨티나"
 
-### Foci ###
+### Focuses ###
 ARG_Woes_of_the_Christmas_Coup:0 "크리스마스 쿠데타의 문제"
 ARG_Woes_of_the_Christmas_Coup_desc:0 "작년 크리스마스 기념 행사 직후 마누엘 카를레스와 애국당에 의해 혼란에 빠진 아르헨티나는 대통령직을 장악하기 위해 경쟁하는 여러 군대와 함께 무정부 상태에 빠져 들었습니다."
 ARG_Consolidate_Buenos_Aires_Capital_Region:0 "GBA 수도권 지역 통합"
