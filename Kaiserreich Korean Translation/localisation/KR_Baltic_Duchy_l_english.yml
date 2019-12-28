@@ -329,7 +329,7 @@ BAT_Ger_Livland2_desc:0 "We are running out of free land to distribute. Instead 
 BAT_Ger_Estland2:0 "발트 농부들의 토지 몰수"
 BAT_Ger_Estland2_desc:0 "We are out of free land to distribute. A lot of farms are ran by Native Balts and this fact makes us dependent on their crop output. We can, inch by inch, force them to leave these lands in favour of our German immigrants."
 
-BAT_Ger_Baltic_desc:0 "독일령 발트"
+BAT_Ger_Baltic:0 "독일령 발트"
 BAT_Ger_Baltic_desc:0 "독일화 과정이 거의 완료되어가고 있습니다. 발트에서 독일인들은 이제 인구상으로도 과반수를 차지하며 이는 정치적으로도 마찬가지입니다. 우리는 마침내 제국에 편입되기 위한 준비를 마쳤습니다. 물론 우리가 원하던 바입니다."
 
 BAT_Ger_Integration:0 "합병"
