@@ -11,45 +11,15 @@ party_pop_0_60:0 "60-70% 정당 인기도"
 party_pop_0_70:0 "70-80% 정당 인기도"
 party_pop_0_80:0 "80-90% 정당 인기도"
 party_pop_0_90:0 "90-100% 정당 인기도"
+ruling_party_popularity_change:0 "[GetRulingIdeologyFullName]의 인기도 변화: [?ideology_change_var|+2%]\n"
 
 ### Syndie Soc Dem Notice ###
 SYNDIE_SOC_DEM_NOTICE:0 "(생디칼리스트 지지)"
 
-### Continents ###
-central_america:0 "중앙아메리카"
-india:0 "인도"
-
-### Splash Screen ###
-KR_SPLASH_TITLE:0 "환영합니다!"
-KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAnbory, Arvidus, Beelzebub, Blackfalcon501, Denizz, Dr. Njitram, Drozdovite, Edouard Saladier, Eragaxshim, Fbruchmueller, Flamefang, Go.Jr, Imhungry5462, JacKob, Jeankedezeehond, Jonjon428, Jonny BL, Khalil, Kracc, Krčo, Liegnitz, Maltesefalcon, MantisToboggan, Medizine, OperationsManagementDecisions, PPsyrius, Paul, Pietrus, Rinbro, Roniius, Roparex, Rylock, Sea Lion, Sjarlewis, Stekpanna, The Alpha Dog, Thomahawk2k, Vidyaország, Wladyslaw Sikorski, WordZero, Yard1, Zaddy-Chan 그리고 Zankoas"
-
-### Starting Events ###
-kr.political.24.t:0 "카이저라이히 Alpha 0.9.3"
-kr.political.24.d:0 "카이저라이히 개발진이 Alpha 0.9.3 버전을 하츠오브아이언4에 선사합니다! 지난 몇 달간 저희 개발진은 세계 구석구석을 모딩하였고, 이 작업물을 여러분에게 선보이게 되었습니다. 저희가 열심히 작업한만큼 여러분이 즐겁게 플레이하시기를 바랍니다. 한가지 알고 계셔야할 것은, 저희는 이 모드를 만들 때, 여러분이 평화회담에서 가능한 모든 지역을 가져간다는 전제하에 개발을 하였습니다, 따라서 그렇게 해주시길 바랍니다! \n\n게임 설정들은 1.6에서 추가된 '맞춤형 규칙'이 있는쪽에서 확인가능합니다. 지역명 표기방법, 게임내 이벤트 표시범위, 그리고 다양한 국가별 설정들이 있습니다. 원하지 않는 설정이 세이브파일에 저장되는 일이 없도록 설정들은 미리 조정해주세요!\n\n또한 이 모드가 아직 알파버전인 것을 명심해주세요. 때문에 많은 버그들, 충돌 그 외 골치아픈 문제들이 발생할 수 있습니다. 만약 상기한 문제들을 발견하신다면, 깃허브의 버그트래커에 글을 남겨주세요.  만약 하고 싶은 질문이 있으시다면, 망설이지 마시고 질문해주세요, 다만 질문전에 게임 내에 있는 질의응답란을 먼저 확인해주세요.\n\n그럼 즐겁게 플레이하세요!"
-kr.political.24.a:0 "카이저라이히 개발진분들 고맙습니다!"
-kr.political.24.c:0 "궁금증을 풀어줄 만한게 있을까요?"
-kr.political.24.e:0 "뭔가 놓친게 있는 것 같아..."
-
-kr.political.25.t:0 "질의응답"
-kr.political.25.d:0 "왜 아무 국가도 속국화 할 수 없나요?\n     속국화는 평화회담이 아닌, 이벤트나 국가중점을 통해 이루어집니다.\n\n다음 업데이트는 언제 나와요?\n     저희는 3개월마다 중요 업데이트를 진행하고 있습니다. 물론 필요에 따라 핫픽스를 제공합니다.\n\n일부 모델이 검은색으로 나오는데요?\n     저희는 DLC에셋을 일부 사용 중입니다, 따라서 DLC가 없으시다면 일부는 검은색 텍스쳐가 나올겁니다. 놀라지마세요. 그저 사소한 오류일뿐입니다. 이 문제를 해결하기 위해 텍스쳐 작업 중에 있으니, 업데이트를 확인해주세요.\n\n카이저라이히의 버그 테스트/아트/음악/코딩 작업을 하고 싶습니다, 어디서 연락을 취할 수 있을까요?\n     좋습니다! 우리의 디스코드나 포럼에 글을 쓰시거나, Zankoas에게 메세지를 남겨주세요.\n\n업데이트로 세이브파일이 깨졌습니다!\n     그건 올바른 질문이 아닙니다. 하지만 그 문제를 겪고 계신다면 세이브파일을 불러오시고 일시중지하지 마시고 다시 저장하신 다음, 다시 그걸 불러와보세요. 철인모드를 켜지 않는 것도 도움이 됩니다. 모두 안먹힌다면, 카이저라이히 포럼에서 이전버전을 받을 수 있다는 것을 명심하세요.\n\n카이저라이히와 관련된 다른게 있나요?\n     오직 창작마당에 올려져 있는 3가지 음악모드 뿐입니다. 창작마당이나 포럼에서 찾을 수 있으니, 금방 찾을 수 있기를 바래요."
-kr.political.25.a:0 "정치력점수 좀 가져갈 수 있나요?"
-
-kr.political.26.t:0 "게임규칙에 관한 안내"
-kr.political.26.d:0 "기존에 시작 이벤트에서 조정할 수 있었던 모든 설정들은 1.6패치에 추가된 '맞춤형 게임 규칙' 메뉴로 이동되었습니다.\n\n이제 뉴스와 사건 빈도 설정과 지명 및 도시명 표기법 설정을 게임규칙 메뉴에서 설정할 수 있습니다. 더 고급스러워 보이지 않나요?"
-kr.political.26.a:0 "알겠습니다, 감사합니다!"
-
-kr.political.27.t:0 "아이언클래드 패치와 DLC"
-kr.political.27.d:0 "Man the Gun DLC가 필요할까요? 아니면 Waking the Tiger 혹은 Death or Dishonour는요? 세계는 붕괴될 운명인가요?\n\n아닙니다, 아무런 DLC없이도 카이저라이히를 플레이하실 수 있습니다 물론 세계는 붕괴하겠지요.\n\n한 가지 더 말하자면, 만약 당신이 DLC를 가지고 있다면, DLC를 적용해서 더 멋진 모델들과 기능들을 사용해보세요!"
-kr.political.27.a:0 "정보 감사합니다. 이제 게임 좀 할 수 있을까요?"
-
-kr.political.28.t:0 "뭔가 놓친게 있는 것 같아..."
-kr.political.28.d:0 "만우절 장난을 찾고 계신기요? 진영 가입제한 제거 기능을 찾고 계신가요?\n\n그 2개는 서브모드로 옮겨졌습니다! 창작마당에 있는 카이저라이히 모음집에 들어가시면 찾으실 수 있을겁니다!"
-kr.political.28.a:0 "알겠습니다!"
-
-### Gamestart Opinion Modifiers ###
-kr.political.40.t:0 "관계도 설정"
-kr.political.40.d:0 "이것을 보았다면, 버그를 제보해주세요!"
-kr.political.40.a:0 "진지하게, 신고하세요."
+### Opening Event ###
+kr.political.1.t:0 "카이저라이히 Beta 0.10 - '양쯔강의 피'"
+kr.political.1.d:0 "카이저라이티 개발진이 카이저라이히 베타버전 0.10 '양쯔강의 피'를 하츠오브아이언4에 선사합니다!\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경 할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, 깃허브 이슈트래커에 제보해주셔서 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
+kr.political.1.a:0 "물론이죠!"
 
 ### Returning Cores ###
 return_cores_to_ally:0 "[From.GetAdjective] 영토 반환"
@@ -72,6 +42,10 @@ KR_will_not_return:0 "우리는 어떤 영토도 저들에게 반환하지 §R�
 kr.political.76.t:0 "[From.GetNameDefCap]이(가) [Root.GetAdjective] 영토를 반환하다"
 kr.political.76.d:0 "우리의 동맹인 [From.GetNameDefCap]이(가) 우리가 과거에 소유하던 영토 중 일부를 반환해주었습니다!"
 kr.political.76.a:0 "좋았어!"
+kr.political.200.t:0 "AI Move Units Check"
+kr.political.200.d:0 "If you're seeing this, it's an issue. Stop tag-switching."
+kr.political.208.t:0 "AI Decision Cost Check"
+kr.political.208.d:0 "If you're seeing this, it's an issue. Stop tag-switching."
 
 KR_different_ideology:0 "다른 이념"
 KR_similar_ideology:0 "비슷한 이념"
@@ -80,7 +54,9 @@ same_ruling_party:0 "기본"
 different_party_types:0 "기본"
 KR_ideology_allowed:0 "장관이 해당국가의 이념을 허락함"
 KR_factional_rivalry:0 "당파 경쟁"
-minister_available:0 "이 정부의 유형에서 장관을 사용할 수 있음"
+head_of_gov_available:0 "§R정부수반은 직접 고용하거나 해고할 수 없습니다.§! 이벤트나 국가중점, 혹은 결정을 통해서 정해집니다.\n\n이 목록에는 국가수반으로 배정될 수 있는 모든 이들을 보여주기 때문에, 현재 정부수반과 관계가 좋지 않은 인물, 다른 국가에 있는 인물, 혹은 사망한 인물이 있을 수도 있습니다."
+minister_available:0 "§R장관진은 직접 고용하거나 해고할 수 없습니다.§! 이벤트나 국가중점, 혹은 결정을 통해서 정해집니다.\n\n이 목록에는 국가수반으로 배정될 수 있는 모든 이들을 보여주기 때문에, 현재 정부수반과 관계가 좋지 않은 인물, 다른 국가에 있는 인물, 혹은 사망한 인물이 있을 수도 있습니다."
+military_staff_available: "이 군사 참모는 살아있으며, 정부에 헌신할 준비가 되어있습니다."
 KR_is_socialist:0 "전체주의, 생디칼리즘 ,급진사회주의 혹은 생디칼리스트와 제휴한 사회민주주의 정부임"
 KR_is_not_socialist:0 "전체주의, 생디칼리즘, 급진사회주의 혹은 생디칼리스트와 제휴한 사회민주주의 정부를 가지고 §R있지 않음§!"
 KR_is_elected:0 "민주주의와 선출된 정부를 가지고 있음"
@@ -101,6 +77,7 @@ has_vg_stability:0 "§Y매우 좋은 안정도§!를 가지고 있음"
 KR_improving_popularity_tooltip:0 "우리는 우리의 정당 인기도를 b§Y5%§! 만큼 향상킬 것입니다\n"
 KR_party_pop_less_than_50:0 "정당 인기도가 §Y50%§! 보다 낮음"
 KR_party_pop_more_than_75:0 "정당 인기도가 §Y75%§! 보다 많음"
+DIPLOMACY_DOCKING_RIGHTS:0 "정박권"
 
 ### Decisions ###
 political_actions:0 "정치 행동"
@@ -116,11 +93,78 @@ rally_public_support_desc:0 "우리는 일부 정치 권력과 산업의 후원�
 solidify_control:0 "결속 통제"
 solidify_control_desc:0 "요령있게 일부 정치권력과 자원을 이용하여 우리의 정적들을 제거할 것입니다. 물론 정적들 전부를 없앨 수는 없지만, 일부를 제거하여 앞으로 우리의 행보가 탄탄대로를 걸을 수 있도록 할 것이며 우리의 정치권력이 장기유지될 수 있도록 할 것입니다."
 
-### Economic Health ###
-boom_economy:0 "WIP" #Boom Economy WIP!!!
-good_economy:0 "WIP" #Good Economy WIP!!!
-medium_economy:0 "WIP" #Medium Economy WIP!!!
-bad_economy:0 "WIP" #Bad Economy WIP!!!
-bust_economy:0 "WIP" #Bust Economy WIP!!!
-crash_economy:0 "WIP" #Crash Economy WIP!!!
-economic_health:0 "Work in progress, don't worry about this" #Economic Health WIP!!!
+##################
+### Ideologies ###
+##################
+
+### Names ###
+totalist:0 "전체주의"
+syndicalist:0 "생디칼리슴"
+radical_socialist:0 "급진사회주의"
+social_democrat:0 "사회민주주의"
+social_liberal:0 "사회자유주의"
+market_liberal:0 "시장자유주의"
+social_conservative:0 "사회보수주의"
+authoritarian_democrat:0 "권위민주주의"
+paternal_autocrat:0 "세습전제주의"
+national_populist:0 "국민대중주의"
+
+### Nouns ###
+totalist_noun:0 "전체주의"
+syndicalist_noun:0 "생디칼리슴"
+radical_socialist_noun:0 "급진사회주의"
+social_democrat_noun:0 "사회민주주의"
+social_liberal_noun:0 "사회자유주의"
+market_liberal_noun:0 "시장자유주의"
+social_conservative_noun:0 "사회보수주의"
+authoritarian_democrat_noun:0 "권위민주주의"
+paternal_autocrat_noun:0 "세습전제주의"
+national_populist_noun:0 "국민대중주의"
+
+### Descriptions ###
+totalist_desc:0 "전체주의자"
+syndicalist_desc:0 "생디칼리스트"
+radical_socialist_desc:0 "급진사회주의자"
+social_democrat_desc:0 "사회민주주의자"
+social_liberal_desc:0 "사회자유주의자"
+market_liberal_desc:0 "시장자유주의자"
+social_conservative_desc:0 "사회보수주의자"
+authoritarian_democrat_desc:0 "권위민주주의자"
+paternal_autocrat_desc:0 "세습전제주의자"
+national_populist_desc:0 "국민대중주의자"
+
+### Subtype Descriptions ###
+totalist_subtype_desc:0 "전체주의는 단어 그대로의 이념, 또는 비슷한 특성을 가진 다양한 좌파 사상을 동시에 지칭하기도 합니다. 이념으로서 전체주의는 세계 속 사회주의의 새 지향점을 추구합니다. 강해진 노동자와 계급 철폐의 유토피아를 지향하면서도 마르스크주의적 이상을 약화시키거나 버리지 않으며, 이것을 기본 이념으로 삼는 것이 사회주의 국가의 역할임을 강조합니다. 전체주의자들은 정부의 목적이 사회주의 국가 건설이라 믿기에 힘을 확장하고 집권화하려 합니다. 이념적 토대를 다지는데 필수적이라 여기기 때문입니다. 간혹 국민주의자와 군국주의자들의 언어와 정책을 모방하기도 합니다. 이들의 권위주의적 성향 탓에, 다른 권위주의자나 전체주의적 사회주의자들은 뜻 밖에도 “전체주의자"라는 이름을 얻게 되었습니다."
+syndicalist_subtype_desc:0 "아나코-생디칼리즘은 마르크스주의적 혁명 이념입니다. 집산주의적인 노동 조합으로 구성된 민주적인 연방 국가를 기반으로, 사회주의 경제의 국가를 지향합니다. 노동 조합은 모든 노동자들이 공평하게 소유하게 하며 경제, 정치적 통제는 일터를 벗어나서도 연대하도록 합니다. 중앙 정부로부터 큰 자치권을 부여받길 원합니다. 규모가 큰 노동 조합의 일원 선출은, 강한 힘을 갖추고 중앙 정부의 역할을 하는, 지역적이고 국제적인 조합 회의에서 이루어집니다."
+radical_socialist_subtype_desc:0 "급진사회주의는 노동조합주의로도 연대하지 못한 사회주의자, 공산주의자와 무정부주의자들이 한데 모인 이념입니다. 이 이념을 따르는 나라들은 사회주의적 경제를 가동하고 있습니다. 민주주의적 형태를 취한 정부를 선호하며 최종적인 목표는 노동 계급의 낙원을 만드는 것입니다. 세부적인 협의는 각 운동권에 따라 다릅니다."
+social_democrat_subtype_desc:0 "사회민주주의는 자본주의를 인간적으로 개혁하는데 목표를 두는 이념입니다. 대안적인 사회주의적 경제 체제는 창안하기 보다, 자본가들의 생산이 계속되는 와중에도 사회 복지의 윤리적 이상으로 그것을 가능케 할 수 있다 믿습니다. 금권주의적 정부와 강한 규제가 작용하는 시장 경제를 선호합니다. 보다 급진적인 분파도 존재하곤 합니다."
+social_liberal_subtype_desc:0 "사회자유주의는 주류 시장자유주의에서 갈라져 나왔습니다. 가장 큰 차이점은 시민의 자유보다 기본적인 인권을 중시한다는 것입니다. 사회자유주의자들은 사회와 경제의 진보를 공언하며 사회 구성원들이 현재의 상황와는 무관하게 삶 속에서 완벽한 자유를 누릴 수 있도록 만들고자 합니다."
+market_liberal_subtype_desc:0 "시장자유주의자들은 자유주의 이념의 주류를 자처합니다. 시장자유주의의 기본 골조는 규제 없는 자유 시장과 민주주의와 금권주의로 대표되는 정치 체제입니다. 더 자유로운 시장은 더 자유로운 사람을 있게 한다 믿습니다. 사유 재산에 대한 정치적, 경제적 권리를 지키는 것에 온 힘을 다합니다."
+social_conservative_subtype_desc:0 "보수주의는 전통적인 가치를 지키고, 강한 역동성을 지닌 사회보다는 오랜 예법과 철학으로 민주주의 체제를 유지하고자 합니다. 급진적이고 세속적인 변화는 지양하고 현상 유지에 초점을 둡니다. 보수주의자들은 사회를 질서 있고 안정적으로 두고 싶어합니다. 전례없이 자유주의적인 경제 정책보다는 규제를 동반한 시장 경제를 선호합니다."
+authoritarian_democrat_subtype_desc:0 "권위민주주의는 대의 입헌의회를 등에 업은 강한 권력과 부분적 민주주의가 결합된 정치 체제에 대한 이념입니다. 권위민주주의 정권은 사회 문제에 보수적인 태도를 취하며 제한적인 국가 개입을 받아들이는 자유주의적 자본가들을 선호합니다. 이러한 정권의 중점은 국가 안정을 유지하고 인기와 책임 있는 정부를 국민에게 안겨주기 위함입니다."
+paternal_autocrat_subtype_desc:0 "세습전제주의는 낱말의 일반적인 의미로 이해될 수 있는 정치 이념이 아닙니다. 국민은 군주나 독재자와 같은 지도자의 종복에 불과합니다. 국가와 사회를 이끄는 지도자의 일과 의무는 신성하며 그 자애로운 보호 아래에서 국민이 단결하는 것이 최선의 길이라 믿습니다. 이런 나라들은 매우 권위적인 정부를 가집니다. 보수적인 사회관과 국가주도적인 경제를 신봉합니다."
+national_populist_subtype_desc:0 "국민대중주의는 다양한 유형의 초국민주의와 군국주의 운동을 포괄하는 표현입니다. 국민대중주의는 대개 국가에 대한 헌신을 찬양합니다. 강력한 지도자와 기업경제 아래에 국민들이 단결해야 한다고 믿습니다. 때로는 인종차별적인 정책이나 폭력적 언어를 옹호하기도 합니다. 국민대중주의는 다른 이념의 정당들과 격렬히 대립합니다."
+
+### Drift ###
+totalist_drift:0 "일일 전체주의 지지"
+syndicalist_drift:0 "일일 생디칼리슴 지지"
+radical_socialist_drift:0 "일일 급진사회주의 지지"
+social_democrat_drift:0 "일일 사회민주주의 지지"
+social_liberal_drift:0 "일일 사회자유주의 지지"
+market_liberal_drift:0 "일일 시장자유주의 지지"
+social_conservative_drift:0 "일일 사회보수주의 지지"
+authoritarian_democrat_drift:0 "일일 권위민주주의 지지"
+paternal_autocrat_drift:0 "일일 세습전제주의 지지"
+national_populist_drift:0 "일일 국민대중주의 지지"
+
+### Banned ###
+totalist_banned:0 "전체주의 금지됨"
+syndicalist_banned:0 "생디칼리즘 금지됨"
+radical_socialist_banned:0 "급진사회주의 금지됨"
+social_democrat_banned:0 "사회민주주의 금지됨"
+social_liberal_banned:0 "사회자유주의 금지됨"
+market_liberal_banned:0 "시장자유주의 금지됨"
+social_conservative_banned:0 "사회보수주의 금지됨"
+authoritarian_democrat_banned:0 "권위민주주의 금지됨"
+paternal_autocrat_banned:0 "세습전제주의 금지됨"
+national_populist_banned:0 "국민대중주의 금지됨"
