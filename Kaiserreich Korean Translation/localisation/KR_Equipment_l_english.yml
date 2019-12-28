@@ -576,215 +576,6 @@ ANG_infantry_equipment_0:0 "Espingarda m/04"
 ANG_infantry_equipment_0_short:0 "Espingarda m/04"
 
 ###
-### Allg. Ostasien ###
-###
-
-### Land ###
-
-AOG_EQUIPMENT_VERSION_1:0 "A"
-AOG_EQUIPMENT_VERSION_2:0 "B"
-AOG_EQUIPMENT_VERSION_3:0 "C"
-AOG_EQUIPMENT_VERSION_4:0 "D"
-AOG_EQUIPMENT_VERSION_5:0 "E"
-AOG_EQUIPMENT_VERSION_6:0 "F"
-AOG_EQUIPMENT_VERSION_7:0 "G"
-AOG_EQUIPMENT_VERSION_8:0 "H"
-AOG_EQUIPMENT_VERSION_9:0 "I"
-AOG_EQUIPMENT_VERSION_10:0 "J"
-AOG_EQUIPMENT_VERSION_11:0 "K"
-AOG_EQUIPMENT_VERSION_12:0 "L"
-AOG_EQUIPMENT_VERSION_13:0 "M"
-AOG_EQUIPMENT_VERSION_14:0 "N"
-AOG_EQUIPMENT_VERSION_15:0 "O"
-AOG_EQUIPMENT_VERSION_16:0 "P"
-
-#Infantry Equip
-
-AOG_infantry_equipment_0:0 "게베어 98"
-AOG_infantry_equipment_0_short:0 "게베어 98"
-AOG_infantry_equipment_1:0 "카라비너 98k"
-AOG_infantry_equipment_1_short:0 "카라비너 98k"
-AOG_infantry_equipment_2:0 "젤프스틀라데게베어 40"
-AOG_infantry_equipment_2_short:0 "젤프스틀라더 40"
-AOG_infantry_equipment_2_desc:0 "마우저가 백업 볼트액션의 자동장전식 소총을 원하는 독일 육군의 요구에 대응하여 설계한 젤프스틀라데게베어 40은, 독일 소화기 설계에서의 큰 도약이었습니다. 초기 프로토타입은 매우 부정확하고, 무거우며, 기능 고장이 일어나기 쉬웠기에, 독일군은 결국 소총에 대한 다른 특정한 요구조건을 일부 취하하였고, 최종 결과는 이 소총이 채택되었으며, 효용성도 입증되었습니다."
-AOG_infantry_equipment_3:0 "Maschinenkarabiner 42"
-AOG_infantry_equipment_3_short:0 "MKb 42"
-AOG_infantry_equipment_3_desc:0 "MKb 42는 독일의 유명한 무기 디자이너인 후고 슈마이서가 헤넬과 협력하여 개발한 새로운 중간탄을 사용하는 혁신적인 소총이었습니다. 첫 번째 소총의 프로토타입은 기능 고장이 일어나기 쉬웠음에도, 군대와 심지어 황제도 이 계획에 극도로 열광했고 1942년에 소총이 채택될 준비가 된 것으로 간주되면서, 방대한 자원이 디자인을 개선하는 데 집중되었습니다."
-AOG_infantry_at:0 "판처파우스트 30"
-AOG_infantry_at2:0 "라케텐판처뷕세"
-AOG_support_weapons:0 "MG-08/15 & 라이히터 미넨베르퍼"
-AOG_support_weapons2:0 "MG-34 & 8cm 그라나트베르퍼 34"
-AOG_support_weapons3:0 "MG-42 & 8cm 쿠르처 그라나트베르퍼 40"
-AOG_support_weapons4:0 "MG-45 & 12cm 그라나트베르퍼 42"
-AOG_night_vision:0 "ZG 1229 팜피어"
-
-#Motorised
-
-AOG_motorized_equipment_1:0 "오펠 블리츠"
-AOG_motorized_rocket_equipment:0 "오펠 블리츠 미트 부르프라멘 40"
-AOG_motorized_rocket_equipment_1:0 "오펠 블리츠 미트 부르프라멘 40"
-AOG_motorized_rocket_equipment_1_short:0 "블리츠 미트 부르프라멘"
-AOG_mechanized_equipment_1:0 "존더크라프트파르조이크 11"
-AOG_mechanized_equipment_1_short:0 "Sd.Kfz. 11"
-AOG_mechanized_equipment_1_desc:0 "Sd.Kfz. 11(존더크라프트파르조이크 - 특수 동력 차량)은 제 2차 세계대전에서 매우 널리 사용된 독일의 하프트랙입니다. 총이나 트레일러를 견인하는 것 외에도 8명의 병력을 수송할 수 있습니다."
-AOG_mechanized_equipment_2:0 "존더크라프트파르조이크 251"
-AOG_mechanized_equipment_2_short:0 "Sd.Kfz. 251"
-AOG_mechanized_equipment_2_desc:0 "Sd.Kfz. 251 하프트랙은 제 2차 세계대전 시기 하노마그가 처음으로 만든 장갑 전투 차량으로, 이전의 Sd.Kfz. 11 차량을 기반으로 제작되었습니다."
-AOG_mechanized_equipment_3:0 "존더크라프트파르조이크 251/20"
-AOG_mechanized_equipment_3_short:0 "Sd.Kfz. 251/20"
-AOG_mechanized_equipment_3_desc:0 "적외선 스포트라이트가 장착된 Sd.Kfz. 251의 최신 버전입니다."
-
-#Amphibious
-AOG_amphibious_mechanized_equipment_1:0 "란트-바서-슐레퍼"
-AOG_amphibious_mechanized_equipment_1_short:0 "LWS"
-AOG_amphibious_mechanized_equipment_2:0 "란트-바서-슐레퍼 II"
-AOG_amphibious_mechanized_equipment_2_short:0 "LWS II"
-
-#Artillery
-
-AOG_artillery_equipment_1:0 "10.5cm 라이히테 펠트하우비체 18"
-AOG_artillery_equipment_1_short:0 "10.5cm LeFH 18"
-AOG_artillery_equipment_2:0 "15cm sFH 18"
-AOG_artillery_equipment_3:0 "15cm 카노네 18"
-
-AOG_anti_tank_equipment_1:0 "3,7cm 판처아프베어카노네 36"
-AOG_anti_tank_equipment_1_short:0 "3,7cm PaK 36"
-AOG_anti_tank_equipment_2:0 "7,5cm PaK 40"
-AOG_anti_tank_equipment_3:0 "12,8cm PaK 44"
-
-AOG_anti_air_equipment_1:0 "2cm 플루크초이크아프베어카노네 30"
-AOG_anti_air_equipment_1_short:0 "2cm FlaK 30"
-AOG_anti_air_equipment_2:0 "2cm 플루크초이크아프베어카노네 38"
-AOG_anti_air_equipment_3:0 "8.8cm Flak 41"
-
-AOG_rocket_artillery_equipment_1:0 "28/32 cm 네벨베르퍼 41"
-AOG_rocket_artillery_equipment_1_short:0 "네벨베르퍼 41"
-AOG_rocket_artillery_equipment_2:0 "21 cm 네벨베르퍼 42"
-
-#Tanks
-
-AOG_gw_tank_equipment:0 "슈투름판처바겐 A7V"
-AOG_gw_tank_equipment_short:0 "A7V"
-AOG_gw_tank_equipment_desc:0 "슈투름판처바겐 A7V는 세계대전 시절 널리 사용되었던 독일의 전차로써, 협상국을 상대로 한 독일의 승리를 축하하는 예술 작품에서 자주 묘사됩니다. 그러나 이후 이 디자인은 쓸모없게 되었고 독일은 더 새롭고 더 복잡한 전차 디자인을 사용하게 되었습니다."
-AOG_light_tank_equipment_1:0 "슈투름판처바겐 M.I '케츠헨'"
-AOG_light_tank_equipment_1_short:0 "케츠헨"
-AOG_light_tank_equipment_1_desc:0 "1호 전차는 경기관총 두 정만으로 무장한 경전차입니다. 1호 전차의 설계는 1932년, 원래는 표준 훈련 전차를 만들 목적으로 시작되었으나, 1934년 대량 생산이 시작되기 직전, 역할과 디자인이 수정되고 그 후 육군에게 전투용으로 채택되었습니다."
-AOG_light_tank_equipment_2:0 "슈투름판처바겐 M.II '오첼로트'"
-AOG_light_tank_equipment_2_short:0 "오첼로트"
-AOG_light_tank_equipment_2_desc:0 "2호 전차는 1호 전차의 차체를 기반으로 하는 반면, 이전과는 확연히 다릅니다. 훨씬 강력한 무장, 장갑, 엔진 그리고 완전히 개조된 변속기의 2호 전차는 필적할만한 전차와 정면으로 맞설 수 있음에도, 원래는 더 크고 진보된 전차를 개발하는 동안의 임시방편으로 설계되었으나, 성능이 우수했던 이 전차는 독일 전쟁 기계의 하나로써 자리 매김했습니다."
-AOG_light_tank_equipment_3:0 "VK1602 '레오파르트'"
-AOG_light_tank_equipment_3_short:0 "레오파르트"
-AOG_light_tank_equipment_3_desc:0 "레오파르트는 독특한 50mm 고속포로 무장한 전방 정찰 차량입니다. 이전의 독일식 디자인과는 달리, 정면의 경사 장갑과 폭넓은 전륜 트랙을 특징으로 하였습니다. 이제 레오파르트는 유능한 지원 차량과 정찰용 차량으로써의 역할을 하고 있습니다."
-AOG_light_tank_artillery_equipment_1:0 "슈투름판처 I 비존"
-AOG_light_tank_artillery_equipment_1_short:0 "비존"
-AOG_light_tank_artillery_equipment_1_desc:0 "차량화 보병 연대의 보병포 중대에 배속된 포들은 전투 중인 전차를 따라잡는 데 어려움을 겪었습니다. 가장 쉬운 해결책은 예비 전차의 차체를 개조하여 전투에 투입하는 것이었습니다. 비존의 경우 1호 전차의 차체를 사용합니다."
-AOG_light_tank_artillery_equipment_2:0 "Sd. Kfz. 124 베스페"
-AOG_light_tank_artillery_equipment_2_short:0 "베스페"
-AOG_light_tank_artillery_equipment_2_desc:0 "Sd.Kfz. 124 '베스페'는 변형된 2호 전차의 차체를 기반으로 한 독일의 자주포 차량입니다."
-AOG_light_tank_artillery_equipment_3:0 "바펜트레거 레오파르트"
-AOG_light_tank_artillery_equipment_3_short:0 "WT 레오파르트"
-AOG_light_tank_artillery_equipment_3_desc:0 "바펜트레거 레오파르트는 VK1602 레오파르트의 차체를 기반으로 하는 자주포 차량입니다."
-AOG_light_tank_destroyer_equipment_1:0 "판처예거 I"
-AOG_light_tank_destroyer_equipment_1_short:0 "판처예거 I"
-AOG_light_tank_destroyer_equipment_1_desc:0 "판처예거 I은 외국 회사와 협력하여 개발한 독일 최초의 장갑 차량입니다. 합스부르크의 스코다 47mm PaK 대전차포를 변환된 1호 전차의 차체에 장착하였습니다."
-AOG_light_tank_destroyer_equipment_2:0 "7.5cm PaK 40 아우프 파르게스텔 마르더 II"
-AOG_light_tank_destroyer_equipment_2_short:0 "마르더 II"
-AOG_light_tank_destroyer_equipment_2_desc:0 "마르더 II는 2호 전차의 차체를 기반으로 한 독일의 구축전차입니다."
-AOG_light_tank_destroyer_equipment_3:0 "슈투름게쉬츠 아우프 레오파르트"
-AOG_light_tank_destroyer_equipment_3_short:0 "야크트레오파르트"
-AOG_light_tank_destroyer_equipment_3_desc:0 "야크트레오파르트는 88mm 고관통포를 장착한 VK1602 레오파르트 경전차의 개조형입니다."
-AOG_light_tank_aa_equipment_1:0 "플라크판처 I"
-AOG_light_tank_aa_equipment_1_short:0 "플라크판처 I"
-AOG_light_tank_aa_equipment_1_desc:0 "1호 전차의 차체에 장착된 대공포입니다."
-AOG_light_tank_aa_equipment_2:0 "플라크판처 룩스"
-AOG_light_tank_aa_equipment_2_short:0 "플라크판처 룩스"
-AOG_light_tank_aa_equipment_2_desc:0 "2호 전차의 차체에 장착된 대공포입니다."
-AOG_light_tank_aa_equipment_3:0 "플라크판처 1602"
-AOG_light_tank_aa_equipment_3_short:0 "플라크판처 1602"
-AOG_light_tank_aa_equipment_3_desc:0 "VK1602 레오파르트의 차체에 장착된 대공포입니다."
-
-AOG_medium_tank_equipment_1:0 "카팔레리판처바겐 P.II '도네르슐라크'"
-AOG_medium_tank_equipment_1_short:0 "도네르슐라크"
-AOG_medium_tank_equipment_1_desc:0 "'도네르슐라크'는 처음부터 독일의 새로운 기갑부대의 중추로써 설계되었습니다. 이러한 점을 염두에 두고, 비슷한 디자인들과 비교해 차량이 훨씬 단순하고 효율적입니다. 탱크에는 5cm KwK 38 L/42 주포와 기관총 두 정이 장착되었습니다. 하인츠 구데리안 장군이 차량 설계와 초기 생산에 직접 관여했다는 소문이 무성합니다."
-AOG_medium_tank_equipment_2:0 "카팔레리판처바겐 P.IId '도네르슐라크-4'"
-AOG_medium_tank_equipment_2_short:0 "도네르슐라크-4"
-AOG_medium_tank_equipment_2_desc:0 "보병 지원 전차로써 설계된 도네르슐라크-4는 원래 적의 전차와 교전하기 위한 것이 아니었습니다. 적 전차와의 교전은 도네르슐라크가 수행하였습니다. 그러나, 이 교리의 결함은 빠르게 드러났고, 외국의 전차에 직면하여 도네르슐라크-4는 머지 않아 점점 더 쓸모없어져가던 도네르슐라크의 대전차 역할을 대신 수행하였습니다."
-AOG_medium_tank_equipment_3:0 "카팔레리판처바겐 P.IIIf '크리크젱켈'"
-AOG_medium_tank_equipment_3_short:0 "크리크젱켈"
-AOG_medium_tank_equipment_3_desc:0 "'크리크젱켈'은 새로운 코뮌의 설계에 대한 대응책 및 도네르슐라크 설계의 대체물로 설계된 중형 전차의 일반적인 이름입니다. 크리크젱켈은 뛰어난 화력, 기동성 및 보호 기능을 갖추고 있어 확실히 다른 국가들의 벤치마킹 역할을 하게 될 것입니다."
-AOG_medium_tank_artillery_equipment_1:0 "Sd.Kfz. 138/1 '그릴레'"
-AOG_medium_tank_artillery_equipment_1_short:0 "그릴레"
-AOG_medium_tank_artillery_equipment_1_desc:0 "Sd.Kfz. 138/1 '그릴레'는 자주포 차량입니다. 많은 사람들이 합스부르크의 초기 디자인처럼 꾸몄다고 디자이너들을 비난함에 따라 이 차량은 공개됨과 함께 많은 논란을 불러일으켰습니다."
-AOG_medium_tank_artillery_equipment_2:0 "후멜"
-AOG_medium_tank_artillery_equipment_2_short:0 "후멜"
-AOG_medium_tank_artillery_equipment_2_desc:0 "'후멜'은 도네르슐라크의 차체를 기반으로 한 자주포이며, 15cm 곡사포로 무장했습니다."
-AOG_medium_tank_artillery_equipment_3:0 "그릴레 12"
-AOG_medium_tank_artillery_equipment_3_short:0 "그릴레 12"
-AOG_medium_tank_artillery_equipment_3_desc:0 "그릴레 12는 12.8cm 곡사포를 장착한 크리크젱켈의 부품을 기반으로 크루프가 처음 제안한 자주포입니다. 이 전차는 초기에 독일 육군 디자인 공모전이 계획을 다시 활성화시키기 전까지는 계획을 세우는 데 어려움이 있었습니다."
-AOG_medium_tank_destroyer_equipment_1:0 "슈투름게쉬츠 III"
-AOG_medium_tank_destroyer_equipment_1_short:0 "슈투름게쉬츠 III"
-AOG_medium_tank_destroyer_equipment_1_desc:0 "3호 돌격포는 입증된 도네르슐라크의 차체 위에서 만들어졌습니다. 처음에는 보병 지원을 위하여 보병포를 장착한 이동식 장갑 차량으로써 계획된 돌격포는 개발 중에 지속적으로 개조되었으며 이제는 구축전차가 될 예정입니다."
-AOG_medium_tank_destroyer_equipment_2:0 "야크트판처 IV"
-AOG_medium_tank_destroyer_equipment_2_short:0 "야크트판처 IV"
-AOG_medium_tank_destroyer_equipment_2_desc:0 "4호 구축전차는 도네르슐라크의-4의 차체를 기반으로 한 돌격포 및 구축전차입니다."
-AOG_medium_tank_destroyer_equipment_3:0 "야크트젱겔"
-AOG_medium_tank_destroyer_equipment_3_short:0 "야크트젱겔"
-AOG_medium_tank_destroyer_equipment_3_desc:0 "야크트젱겔은 크리크젱켈의 차체를 기반으로 한 돌격포 및 구축전차입니다."
-AOG_medium_tank_aa_equipment_1:0 "플라크판처 III '뫼벨바겐'"
-AOG_medium_tank_aa_equipment_1_short:0 "뫼벨바겐"
-AOG_medium_tank_aa_equipment_1_desc:0 "도네르슐라크의 차체 위에서 만들어졌으며 20mm 고사포로 무장한 이 자주대공포는, 닫으면 상자처럼 생겼다고 하여 '뫼벨바겐'이라는 별명이 붙었습니다."
-AOG_medium_tank_aa_equipment_2:0 "플라크판처 IV '오스트빈트'"
-AOG_medium_tank_aa_equipment_2_short:0 "오스트빈트"
-AOG_medium_tank_aa_equipment_2_desc:0 "플라크판처 IV '오스트빈트'는 도네르슐라크-4를 기반으로 한 자주대공포입니다. 이는 1944년에 플라크판처 IV 초기형의 후속으로써 개발되었습니다. 도네르슐라크-4의 포탑을 제거하고 3.7cm FlaK 43을 장착한 개방형 육각형 포탑으로 교체했습니다. 폐쇄형 포탑이 더 바람직하였겠지만, 포에 의해 발생한 짙은 연기 때문에 불가능했습니다."
-AOG_medium_tank_aa_equipment_3:0 "플라크판처 쾰리안"
-AOG_medium_tank_aa_equipment_3_short:0 "쾰리안"
-AOG_medium_tank_aa_equipment_3_desc:0 "플라크판처 쾰리안은 라인메탈이 개발한 자주대공포입니다. 크리크젱켈 중형 전차의 차체 위에 3.7cm FlaK 43 대공포 두 정으로 무장된 완전히 밀폐된 회전식 포탑이 달렸습니다."
-
-AOG_heavy_tank_equipment_1:0 "페르죽스콘스트룩티온 31"
-AOG_heavy_tank_equipment_1_short:0 "VK 31"
-AOG_heavy_tank_equipment_1_desc:0 "페르죽스콘스트룩티온 31은 독일에서 더 무거운 전차를 개발하기 위한 초기의 많은 시도들 중 하나입니다. 이 모델은 크루프와 라인메탈-보르지히 간의 협력으로 개발되었으며, 결국 소량만이 독일군에 의해 채택되었습니다."
-AOG_heavy_tank_equipment_2:0 "판처캄프바겐 VI 티거"
-AOG_heavy_tank_equipment_2_short:0 "티거"
-AOG_heavy_tank_equipment_2_desc:0 "티거는 엄청난 양의 무장을 가지고 개발된 독일의 중전차이며, 점점 더 강력해지는 코뮌군의 전차 주포에 대응하여 설계되었습니다."
-AOG_heavy_tank_equipment_3:0 "판처캄프바겐 티거 아우스프.B"
-AOG_heavy_tank_equipment_3_short:0 "쾨니히스티거"
-AOG_heavy_tank_equipment_3_desc:0 "쾨니히스티거라는 비공식 명칭으로 더 잘 알려진 이 디자인은 티거 I과 같은 개념을 따랐지만, 훨씬 더 어마어마한 목적으로 제작되었습니다. 티거 II는 티거 I의 두꺼운 장갑과 크리크젱켈 중형 전차에 사용된 경사 장갑을 결합하였습니다. 이 전차의 무게는 거의 70톤에 달하며, 전방은 100~180mm의 장갑으로 보호되며, 장포신의 8.8cm 캄프바겐카노네 43 L/71 주포로 무장하였습니다."
-AOG_heavy_tank_artillery_equipment_2:0 "슈투름티거"
-AOG_heavy_tank_artillery_equipment_2_short:0 "슈투름티거"
-AOG_heavy_tank_artillery_equipment_3:0 "게쉬츠바겐 티거"
-AOG_heavy_tank_artillery_equipment_3_short:0 "GW 티거"
-AOG_heavy_tank_artillery_equipment_3_desc:0 "쾨니히스티거 차체에 기반하여, 170mm K 72 L/50 주포를 장착할 수 있었습니다."
-AOG_heavy_tank_destroyer_equipment_1:0 "젤프스트파를라페테 아우프 VK3001(H) 슈투러 에밀"
-AOG_heavy_tank_destroyer_equipment_1_short:0 "슈투러 에밀"
-AOG_heavy_tank_destroyer_equipment_1_desc:0 "젤프스트파를라페테 아우프 VK3001(H) 슈투러 에밀은 헨셸 VK3001의 차체를 기반으로 한 독일의 자주포입니다."
-AOG_heavy_tank_destroyer_equipment_2:0 "판처예거 티거 (P)"
-AOG_heavy_tank_destroyer_equipment_2_short:0 "엘레판트"
-AOG_heavy_tank_destroyer_equipment_2_desc:0 "엘레판트는 취소된 포르셰 티거 계획의 차체를 기반으로 한 중구축전차로써 88mm 판처아프베어카노네 43/2 주포를 장착하였습니다."
-AOG_heavy_tank_destroyer_equipment_3:0 "판처예거 티거 아우스프.B"
-AOG_heavy_tank_destroyer_equipment_3_short:0 "야크트티거"
-AOG_heavy_tank_destroyer_equipment_3_desc:0 "야크트티거는 128mm PaK 44 L/55 주포 및 단단한 전면 장갑을 갖추고 있습니다."
-
-AOG_super_heavy_tank_equipment_1:0 "판저캄프바겐 VIII 마우스"
-AOG_super_heavy_tank_equipment_1_short:0 "마우스"
-AOG_super_heavy_tank_equipment_1_desc:0 "8호 전차 마우스는 지금까지 설계된 모든 폐쇄형 전투실 전차 중에서도 가장 크고 무거운 전차입니다. 마우스에는 128mm KwK 44 L/55 주포와 75mm 동축부포가 탑재되었습니다."
-AOG_super_heavy_tank_artillery_equipment_1:0 "게쉬츠바겐 E-100"
-AOG_super_heavy_tank_artillery_equipment_1_short:0 "GW E-100"
-AOG_super_heavy_tank_artillery_equipment_1_desc:0 "210mm 야포가 초중전차의 차체에 탑재된 이 자주포는 화력으로써는 열차포와도 맞먹습니다."
-AOG_super_heavy_tank_destroyer_equipment_1:0 "슈투름게쉬츠 아우프 파르게스텔 마우스"
-AOG_super_heavy_tank_destroyer_equipment_1_short:0 "야크트마우스"
-AOG_super_heavy_tank_destroyer_equipment_1_desc:0 "마우스의 차체에 고정 상부 구조와 150mm 주포가 장착되었습니다."
-AOG_super_heavy_tank_aa_equipment_1:0 "플라크판처 VIII 마우스"
-AOG_super_heavy_tank_aa_equipment_1_short:0 "플라크마우스"
-AOG_super_heavy_tank_aa_equipment_1_desc:0 "마우스의 차체에 두 정의 88mm 대공포가 장착되었습니다."
-
-AOG_modern_tank_equipment_1:0 "E-50 슈탄다르트판처"
-AOG_modern_tank_equipment_1_short:0 "E-50"
-AOG_modern_tank_equipment_1_desc:0 "엔트빅룽 '슈탄다르트판처' 시리즈는 처음부터 전차들의 전면 모듈화를 목적으로 설계되었습니다. 이는 생산 비용을 최소화하고 효율성을 극대화하기 위함이었습니다."
-AOG_modern_tank_destroyer_equipment_1:0 "E-25 슈탄다르트판처"
-AOG_modern_tank_destroyer_equipment_1_short:0 "E-25"
-AOG_modern_tank_destroyer_equipment_1_desc:0 "4호 구축전차의 최신 버전인 E-25는 더 빠르고 더 나은 장갑을 가지고 있습니다."
-
-###
 ### Argentina ###
 ###
 
@@ -802,6 +593,27 @@ ARG_infantry_equipment_3_short:0 "Halcón M-43"
 
 ARG_medium_tank_equipment_2:0 "Nahuel D.L. 43"
 ARG_medium_tank_equipment_2_short:0 "Nahuel"
+
+###
+### Anqing Clique ###
+###
+
+### Land ###
+ANQ_infantry_equipment_0:0 "한양 88식"
+ANQ_infantry_equipment_0_short:0 "한양 88식"
+ANQ_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Hanyang Arsenal, the model's place of design, though equipment shortages often see it used alongside non-standard weapons."
+ANQ_infantry_equipment_1:0 "한양 27식"
+ANQ_infantry_equipment_1_short:0 "한양 27식"
+ANQ_infantry_equipment_1_desc:0 "Officially called the 'Xuantong Type 27', this rifle was put into service in 1935 thanks to German assistance after the Qing Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nThis variety is mainly produced at the Hanyang Arsenal with German tools, though it may not fully replace its predecessors for some time."
+ANQ_infantry_equipment_2:0 "칭타오 MP18"
+ANQ_infantry_equipment_2_short:0 "칭타오 MP18"
+ANQ_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government and warlords in coastal areas."
+ANQ_infantry_equipment_3:0 "한양 선통제 35식"
+ANQ_infantry_equipment_3_short:0 "한양 35식"
+ANQ_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
+ANQ_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
+ANQ_support_weapons2:0 "Shanghai 30 festival 7.9mm machine gun 'Old yellow ox' & Jingling Xuantong Type 23 82mm mortar"
+ANQ_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Jingling Xuantong Type 34 60mm mortar"
 
 ###
 ### Armenia ###
@@ -1111,10 +923,10 @@ BAT_gw_tank_equipment_desc:0 "슈투름판처바겐 A7V는 세계대전 시절 �
 
 BAT_light_tank_equipment_1:0 "슈투름판처바겐 M.I '케츠헨'"
 BAT_light_tank_equipment_1_short:0 "케츠헨"
-BAT_light_tank_equipment_1_desc:0 "1호 전차는 경기관총 두 정만으로 무장한 경전차입니다. 1호 전차의 설계는 1932년, 원래는 표준 훈련 전차를 만들 목적으로 시작되었으나, 1934년 대량 생산이 시작되기 직전, 역할과 디자인이 수정되고 그 후 육군에게 전투용으로 채택되었습니다."
+BAT_light_tank_equipment_1_desc:0 "케츠헨는 경기관총 두 정만으로 무장한 경전차입니다. 1호 전차의 설계는 1932년, 원래는 표준 훈련 전차를 만들 목적으로 시작되었으나, 1934년 대량 생산이 시작되기 직전, 역할과 디자인이 수정되고 그 후 육군에게 전투용으로 채택되었습니다."
 BAT_light_tank_equipment_2:0 "슈투름판처바겐 M.II '오첼로트'"
 BAT_light_tank_equipment_2_short:0 "오첼로트"
-BAT_light_tank_equipment_2_desc:0 "2호 전차는 1호 전차의 차체를 기반으로 하는 반면, 이전과는 확연히 다릅니다. 훨씬 강력한 무장, 장갑, 엔진 그리고 완전히 개조된 변속기의 2호 전차는 필적할만한 전차와 정면으로 맞설 수 있음에도, 원래는 더 크고 진보된 전차를 개발하는 동안의 임시방편으로 설계되었으나, 성능이 우수했던 이 전차는 독일 전쟁 기계의 하나로써 자리 매김했습니다."
+BAT_light_tank_equipment_2_desc:0 "오첼로트는 1호 전차의 차체를 기반으로 하는 반면, 이전과는 확연히 다릅니다. 훨씬 강력한 무장, 장갑, 엔진 그리고 완전히 개조된 변속기의 2호 전차는 필적할만한 전차와 정면으로 맞설 수 있음에도, 원래는 더 크고 진보된 전차를 개발하는 동안의 임시방편으로 설계되었으나, 성능이 우수했던 이 전차는 독일 전쟁 기계의 하나로써 자리 매김했습니다."
 BAT_light_tank_equipment_3:0 "VK1602 '레오파르트'"
 BAT_light_tank_equipment_3_short:0 "레오파르트"
 BAT_light_tank_equipment_3_desc:0 "레오파르트는 독특한 50mm 고속포로 무장한 전방 정찰 차량입니다. 이전의 독일식 디자인과는 달리, 정면의 경사 장갑과 폭넓은 전륜 트랙을 특징으로 하였습니다. 이제 레오파르트는 유능한 지원 차량과 정찰용 차량으로써의 역할을 하고 있습니다."
@@ -1274,6 +1086,7 @@ BHC_infantry_equipment_0_short:0 "No.1 Mk.III"
 ### Land ###
 BHU_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 BHU_infantry_equipment_0_short:0 "No.1 Mk.III"
+TIB_infantry_equipment_0_desc:0 "With the collapse of the British Raj, the steady trickle of British rifles and ammunition into the country became a deluge and in the span of a year, Bhutan small arms advanced perhaps over fifty years. The equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dpa'dam."
 
 ###
 ### Bornu ###
@@ -1655,18 +1468,16 @@ CAL_EQUIPMENT_VERSION_13:0 "A9A4"
 CAL_infantry_equipment_0:0 "스프링필드 모델 1903"
 CAL_infantry_equipment_0_short:0 "M1903 스프링필드"
 CAL_infantry_equipment_0_desc:0 "모델 1903은 미국-스페인 전쟁 이후 미합중국이 크라그-요르겐센 소총이 성능이 좋지 않다고 판단하였던 시기에 스프링필드 조병창에서 개발되었습니다. 1903의 핵심부는, 크라그와 노획한 스페인군의 마우저의 모두의 좋은 특징들을 결합하려는 시도였습니다. 소총은 전 세계의 타국들이 세계대전에서 싸우는 동안 .30-06 탄약과 함께 점진적으로 채택되었습니다."
-CAL_infantry_equipment_1:0 "M1 개런드"
-CAL_infantry_equipment_1_short:0 "M1 개런드"
-CAL_infantry_equipment_2:0 "M1 톰슨"
-CAL_infantry_equipment_2_short:0 "M1 톰슨"
-CAL_infantry_equipment_3:0 "M1 카빈"
-CAL_infantry_equipment_3_short:0 "M1 카빈"
-CAL_infantry_at:0 "M1 '바주카'"
-CAL_infantry_at2:0 "M20 '슈퍼 바주카'"
+CAL_infantry_equipment_1:0 "스프링필드 모델 1903A1"
+CAL_infantry_equipment_1_short:0 "M1903A1 스프링필드"
+CAL_infantry_equipment_2:0 "개런드 모델 1"
+CAL_infantry_equipment_2_short:0 "M1 개런드"
+CAL_infantry_equipment_2_desc:0 "The United States Army was readying John Garand's semi-automatic rifle for adoption when the Second American Civil war broke out. Garand himself fled at the war's onset, ultimately becoming chief of the Sacremento Army Arsenal, where his rifle would be perfected, simplified, and ultimately put into service."
+CAL_infantry_equipment_3:0 "개런드 모델 2"
+CAL_infantry_equipment_3_short:0 "M2 개런드"
 CAL_support_weapons:0 "M1917 브라우닝 기관총 & 스토크스 박격포"
 CAL_support_weapons2:0 "M1919 브라우닝 기관총 & SBML 2인치 박격포"
 CAL_support_weapons3:0 "M1919A6 브라우닝 기관총 & M1 박격포"
-CAL_support_weapons4:0 "윈체스터 자동소총 & M2 4.2인치 박격포"
 CAL_night_vision:0 "T-120 스나이퍼 스코프"
 CAL_night_vision2:0 "M2 스나이퍼 스코프"
 
@@ -1940,18 +1751,22 @@ CHI_EQUIPMENT_VERSION_15:0 "O"
 CHI_EQUIPMENT_VERSION_16:0 "P"
 
 ### Land ###
-CHI_infantry_equipment_0:0 "Guangdong Type 88"
-CHI_infantry_equipment_0_short:0 "Type 88"
-CHI_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unwieldy.\n\nThis variety is mainly produced at the Guangdong Arsenal, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Daodao."
-CHI_infantry_equipment_1:0 "Guangdong Type 27"
-CHI_infantry_equipment_1_short:0 "Type 27"
+CHI_infantry_equipment_0:0 "광둥 88식"
+CHI_infantry_equipment_0_short:0 "광둥 88식"
+CHI_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unwieldy.\n\nThis variety is mainly produced at the Guangdong Arsenal, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
+CHI_infantry_equipment_1:0 "광둥 27식"
+CHI_infantry_equipment_1_short:0 "광둥 27식"
 CHI_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Guangdong, though it may not fully replace its predecessors for some time."
-CHI_infantry_equipment_2:0 "Tsingtao MP18"
-CHI_infantry_equipment_2_short:0 "MP18"
+CHI_infantry_equipment_2:0 "칭타오 MP18"
+CHI_infantry_equipment_2_short:0 "칭타오 MP18"
 CHI_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government."
-CHI_infantry_equipment_3:0 "Liu Type 2"
-CHI_infantry_equipment_3_short:0 "Type 2"
-CHI_infantry_equipment_3_desc:0 "The General Liu Rifle, originally produced in small quantities in 1916, represented China's first independent foray into modern arms design, but unfortunately never made its way into full-scale production due to the death of its designer.\n\nThe weapon itself was by most accounts impressive for its time, and the superintendant at the Hanyang Arsenal has proposed that its design might be updated and issued as the 'Liu Type 2'."
+CHI_infantry_equipment_3:0 "Guangdong Xinhai Type 33"
+CHI_infantry_equipment_3_short:0 "Guangdong Type 33"
+CHI_infantry_equipment_3_desc:0 "The Type 33 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 33 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
+
+CHI_support_weapons:0 "Guangdong 8cm light machine gun & Jingling Xuantong Type 23 82mm mortar"
+CHI_support_weapons2:0 "Guangxi 30 festival 7.9mm machine gun 'Old yellow ox' & Pajiang Xuantong Type 32 150mm mortar"
+CHI_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Pajiang Xuantong Type 34 60mm mortar"
 
 CHI_anti_tank_equipment_1:0 "37 mm Type 14"
 CHI_anti_tank_equipment_1_short:0 "37mm Type 14"
@@ -2230,18 +2045,17 @@ CSA_EQUIPMENT_VERSION_13:0 "A9A4"
 CSA_infantry_equipment_0:0 "스프링필드 모델 1903"
 CSA_infantry_equipment_0_short:0 "M1903 스프링필드"
 CSA_infantry_equipment_0_desc:0 "모델 1903은 미국-스페인 전쟁 이후 미합중국이 크라그-요르겐센 소총이 성능이 좋지 않다고 판단하였던 시기에 스프링필드 조병창에서 개발되었습니다. 1903의 핵심부는, 크라그와 노획한 스페인군의 마우저의 모두의 좋은 특징들을 결합하려는 시도였습니다. 소총은 전 세계의 타국들이 세계대전에서 싸우는 동안 .30-06 탄약과 함께 점진적으로 채택되었습니다."
-CSA_infantry_equipment_1:0 "M1 개런드"
-CSA_infantry_equipment_1_short:0 "M1 개런드"
-CSA_infantry_equipment_2:0 "M1 톰슨"
-CSA_infantry_equipment_2_short:0 "M1 톰슨"
-CSA_infantry_equipment_3:0 "M1 카빈"
-CSA_infantry_equipment_3_short:0 "M1 카빈"
+CSA_infantry_equipment_1:0 "스프링필드 모델 1903A1"
+CSA_infantry_equipment_1_short:0 "M1903A1 스프링필드"
+CSA_infantry_equipment_2:0 "Auto-Ordnance Model 1"
+CSA_infantry_equipment_2_short:0 "M1 Auto-Ordnance"
+CSA_infantry_equipment_2_desc:0 "The Auto-Ordnance company had designed and submitted its own semi-automatic rifle to the pre-civil war trials which would eventually be won by John Garand. Though this design was an abject failure, following the outbreak of the civil war, the reorganised Auto-Ordnance Cooperative would drastically simplify the design for use by Syndicalist forces."
 CSA_infantry_at:0 "M1 '바주카'"
 CSA_infantry_at2:0 "M20 '슈퍼 바주카'"
 CSA_support_weapons:0 "M1917 브라우닝 기관총 & 스토크스 박격포"
 CSA_support_weapons2:0 "M1919 브라우닝 기관총 & SBML 2인치 박격포"
 CSA_support_weapons3:0 "M1919A6 브라우닝 기관총 & M1 박격포"
-CSA_support_weapons4:0 "윈체스터 자동소총 & M2 4.2인치 박격포
+CSA_support_weapons4:0 "M24 기관총 & M2 4.2인치 박격포
 CSA_night_vision:0 "T-120 스나이퍼 스코프"
 CSA_night_vision2:0 "M2 스나이퍼 스코프"
 
@@ -3089,6 +2903,23 @@ ETH_support_weapons:0 "Vickers MG & Stokes mortar"
 ETH_support_weapons2:0 "KE-7 & 5 cm Granatwerfer 36"
 
 ###
+### ETS - Eastern Turkestan Republic ###
+###
+
+### Land ###
+ETS_infantry_equipment_0:0 "한양 88식"
+ETS_infantry_equipment_0_short:0 "한양 88식"
+ETS_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Xining Arsenal in Qinghai, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
+ETS_infantry_equipment_1:0 "Türk M1887 Mauser Tüfek"
+ETS_infantry_equipment_1_short:0 "Tüfek M1887"
+ETS_infantry_equipment_1_desc:0 "The Turkish M1887 Mauser is a further refinement of the M1871/84 German Mauser. The action was strengthened by the addition of a single locking lug and calibre was further reduced. This rfle fired the smallest caliber black poweder lead bullet military catridge adopted by any nation, and was the last black powder catridge rifle manufactured by Mauser."
+ETS_infantry_equipment_2:0 "PPSh-41"
+ETS_infantry_equipment_2_short:0 "PPSh-41"
+ETS_infantry_equipment_3:0 "한양 선통제 35식"
+ETS_infantry_equipment_3_short:0 "한양 선통제 35식"
+ETS_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
+
+###
 ### Kingdom of Finland ###
 ###
 
@@ -3171,8 +3002,9 @@ FLN_infantry_equipment_3_short:0 "FN-43"
 FNG_infantry_equipment_0:0 "Shenyang Type 38"
 FNG_infantry_equipment_0_short:0 "Type 38"
 FNG_infantry_equipment_0_desc:0 "With designs and machinery provided by Japan in the early 1920s, the Shenyang Arsenal has produced a steady stream of slightly modified copies of the Arisaka Type 38 Rifle.\n\nBy 1936 over 150,000 have been produced though many units, especially those on the frontier, retain a more eclectic variety of service weapons."
-FNG_infantry_equipment_1:0 "Arisaka Type 99"
-FNG_infantry_equipment_1_short:0 "Type 99"
+FNG_infantry_equipment_1:0 "Dashuai Type 24 Rifle"
+FNG_infantry_equipment_1_short:0 "Type 24"
+FNG_infantry_equipment_1_desc:0 "The Dashuai Type 24, named for the 'Old Marshal' Zhang Zuolin and numbered according to the Republican calendar, is functionally a copy of the Japanese Arisaka Type 99. Minor modifications have been made to accommodate the cheaper and more common Mauser S84/98 III bayonet, and the weapon has been appreciated by the troops for its increased stopping power and superior build quality."
 FNG_infantry_equipment_2:0 "Kawamura Type 14"
 FNG_infantry_equipment_2_short:0 "Type 14"
 FNG_infantry_equipment_2_desc:0 "In 1931, the Japanese Army approached Kijiro Nambu to design a new semi-automatic rifle. His design, based on the Pedersen Rifle, which had been unsuccessfully presented to Japan years earlier, ultimately led nowhere due both to difficulties with the Pedersen delayed-blowback toggle-lock system and the unrealistic goals of the Army. However, two refined rifles based upon the Pedersen system would resurface several years later. The design of Masaya Kawamura, of the Nippon Special Steel Company, would ultimately be chosen and adopted by Japan as the Type 14 due to its reliability and ability to function without the need for wax-lubricated cartridges."
@@ -3926,19 +3758,19 @@ GEA_gw_tank_equipment_short:0 "A7V"
 GEA_gw_tank_equipment_desc:0 "The Sturmpanzerwagen A7V is a German tank which was used extensively during the Weltkrieg, and is often seen depicted in works of art celebrating the German victory over the Entente. However, its design has since become obsolete and Germany has come to use newer, more complicated tank designs."
 GEA_light_tank_equipment_1:0 "Sturmpanzerwagen M.I 'Kätzchen'"
 GEA_light_tank_equipment_1_short:0 "Kätzchen"
-GEA_light_tank_equipment_1_desc:0 "The Panzer I is a light tank armed only with two light machine guns. Design of the Panzer I began in 1932, originally with the purpose of creating a standard training tank, but short before mass production began in 1934, its role and design was revised and then tank was adopted by the Army for combat."
+GEA_light_tank_equipment_1_desc:0 "The Kätzchen is a light tank armed only with two light machine guns. Design of the Kätzchen began in 1932, originally with the purpose of creating a standard training tank, but short before mass production began in 1934, its role and design was revised and then tank was adopted by the Army for combat."
 GEA_light_tank_equipment_2:0 "Sturmpanzerwagen M.II 'Ozelot'"
 GEA_light_tank_equipment_2_short:0 "Ozelot"
-GEA_light_tank_equipment_2_desc:0 "The Panzer II, while based upon the chassis of the Panzer I, is drastically different from its predecessor. Feature much heavier armaments, armor, engine, and an entirely revamped transmission system, the Panzer II, while it can certainly go toe to toe with comparable vehicles, was originally designed as a stopgap while larger, more advanced tanks were to be developed, but the vehicles capable performance secured it a place in the German war machine."
+GEA_light_tank_equipment_2_desc:0 "The Ozelot, while based upon the chassis of the Kätzchen, is drastically different from its predecessor. Feature much heavier armaments, armor, engine, and an entirely revamped transmission system, the Ozelot, while it can certainly go toe to toe with comparable vehicles, was originally designed as a stopgap while larger, more advanced tanks were to be developed, but the vehicles capable performance secured it a place in the German war machine."
 GEA_light_tank_equipment_3:0 "VK1602 'Leopard'"
 GEA_light_tank_equipment_3_short:0 "Leopard"
 GEA_light_tank_equipment_3_desc:0 "The Leopard was a forward reconnaissance vehicle armed with a unique high-velocity 50mm cannon. Unlike older German designs, it featured sloped frontal armour and extra-wide all-terrain tracks. The Leopard now fills a unique combat roll, both as a capable support and reconnaissance vehicle."
 GEA_light_tank_artillery_equipment_1:0 "Sturmpanzer I Bison"
 GEA_light_tank_artillery_equipment_1_short:0 "Bison"
-GEA_light_tank_artillery_equipment_1_desc:0 "Towed guns which were assigned to the infantry gun companies of motorised infantry regiments had difficulties keeping up with tanks in combat. The easiest solution was to modify a spare tank chassis to carry it into battle. In the case of the Bison, it uses the chassis of the Panzer I."
+GEA_light_tank_artillery_equipment_1_desc:0 "Towed guns which were assigned to the infantry gun companies of motorised infantry regiments had difficulties keeping up with tanks in combat. The easiest solution was to modify a spare tank chassis to carry it into battle. In the case of the Bison, it uses the chassis of the Kätzchen."
 GEA_light_tank_artillery_equipment_2:0 "Sd. Kfz. 124 Wespe"
 GEA_light_tank_artillery_equipment_2_short:0 "Wespe"
-GEA_light_tank_artillery_equipment_2_desc:0 "The Sd.Kfz. 124 'Wespe', is a German self-propelled artillery vehicle based on a modified Panzer II chassis."
+GEA_light_tank_artillery_equipment_2_desc:0 "The Sd.Kfz. 124 'Wespe', is a German self-propelled artillery vehicle based on a modified Ozelot chassis."
 GEA_light_tank_artillery_equipment_3:0 "Waffenträger Leopard"
 GEA_light_tank_artillery_equipment_3_short:0 "WT Leopard"
 GEA_light_tank_artillery_equipment_3_desc:0 "The Waffenträger Leopard is a self-propelled artillery vehicle based on the VK1602 Leopard chassis."
@@ -3953,10 +3785,10 @@ GEA_light_tank_destroyer_equipment_3_short:0 "JagdLeopard"
 GEA_light_tank_destroyer_equipment_3_desc:0 "The JagdLeopard is a modification of the VK1602 Leopard light tank feautring a new 88mm high-penetration cannon."
 GEA_light_tank_aa_equipment_1:0 "Flakpanzer I"
 GEA_light_tank_aa_equipment_1_short:0 "FlakPz I"
-GEA_light_tank_aa_equipment_1_desc:0 "An anti-air cannon mounted on the chassis of a Panzer I."
+GEA_light_tank_aa_equipment_1_desc:0 "An anti-air cannon mounted on the chassis of a Kätzchen."
 GEA_light_tank_aa_equipment_2:0 "Flakpanzer Luchs"
 GEA_light_tank_aa_equipment_2_short:0 "FlakPz Luchs"
-GEA_light_tank_aa_equipment_2_desc:0 "An anti-air cannon mounted on the chassis of a Panzer II."
+GEA_light_tank_aa_equipment_2_desc:0 "An anti-air cannon mounted on the chassis of a Ozelot."
 GEA_light_tank_aa_equipment_3:0 "Flakpanzer 1602"
 GEA_light_tank_aa_equipment_3_short:0 "FlakPz 1602"
 GEA_light_tank_aa_equipment_3_desc:0 "An anti-air cannon mounted on the chassis of a VK1602 Leopard."
@@ -4143,19 +3975,19 @@ GER_gw_tank_equipment_short:0 "A7V"
 GER_gw_tank_equipment_desc:0 "슈투름판처바겐 A7V는 세계대전 시절 널리 사용되었던 독일의 전차로써, 협상국을 상대로 한 독일의 승리를 축하하는 예술 작품에서 자주 묘사됩니다. 그러나 이후 이 디자인은 쓸모없게 되었고 독일은 더 새롭고 더 복잡한 전차 디자인을 사용하게 되었습니다."
 GER_light_tank_equipment_1:0 "슈투름판처바겐 M.I '케츠헨'"
 GER_light_tank_equipment_1_short:0 "케츠헨"
-GER_light_tank_equipment_1_desc:0 "1호 전차는 경기관총 두 정만으로 무장한 경전차입니다. 1호 전차의 설계는 1932년, 원래는 표준 훈련 전차를 만들 목적으로 시작되었으나, 1934년 대량 생산이 시작되기 직전, 역할과 디자인이 수정되고 그 후 육군에게 전투용으로 채택되었습니다."
+GER_light_tank_equipment_1_desc:0 "케츠헨은 경기관총 두 정만으로 무장한 경전차입니다. 1호 전차의 설계는 1932년, 원래는 표준 훈련 전차를 만들 목적으로 시작되었으나, 1934년 대량 생산이 시작되기 직전, 역할과 디자인이 수정되고 그 후 육군에게 전투용으로 채택되었습니다."
 GER_light_tank_equipment_2:0 "슈투름판처바겐 M.II '오첼로트'"
-GER_light_tank_equipment_2_short:0 "오첼로트"
-GER_light_tank_equipment_2_desc:0 "2호 전차는 1호 전차의 차체를 기반으로 하는 반면, 이전과는 확연히 다릅니다. 훨씬 강력한 무장, 장갑, 엔진 그리고 완전히 개조된 변속기의 2호 전차는 필적할만한 전차와 정면으로 맞설 수 있음에도, 원래는 더 크고 진보된 전차를 개발하는 동안의 임시방편으로 설계되었으나, 성능이 우수했던 이 전차는 독일 전쟁 기계의 하나로써 자리 매김했습니다."
+GER_light_tank_equipment_2_short:0 "슈투름판처바겐"
+GER_light_tank_equipment_2_desc:0 "슈투름판처바겐는 1호 전차의 차체를 기반으로 하는 반면, 이전과는 확연히 다릅니다. 훨씬 강력한 무장, 장갑, 엔진 그리고 완전히 개조된 변속기의 2호 전차는 필적할만한 전차와 정면으로 맞설 수 있음에도, 원래는 더 크고 진보된 전차를 개발하는 동안의 임시방편으로 설계되었으나, 성능이 우수했던 이 전차는 독일 전쟁 기계의 하나로써 자리 매김했습니다."
 GER_light_tank_equipment_3:0 "VK1602 '레오파르트'"
 GER_light_tank_equipment_3_short:0 "레오파르트"
 GER_light_tank_equipment_3_desc:0 "레오파르트는 독특한 50mm 고속포로 무장한 전방 정찰 차량입니다. 이전의 독일식 디자인과는 달리, 정면의 경사 장갑과 폭넓은 전륜 트랙을 특징으로 하였습니다. 이제 레오파르트는 유능한 지원 차량과 정찰용 차량으로써의 역할을 하고 있습니다."
 GER_light_tank_artillery_equipment_1:0 "슈투름판처 I 비존"
 GER_light_tank_artillery_equipment_1_short:0 "비존"
-GER_light_tank_artillery_equipment_1_desc:0 "차량화 보병 연대의 보병포 중대에 배속된 포들은 전투 중인 전차를 따라잡는 데 어려움을 겪었습니다. 가장 쉬운 해결책은 예비 전차의 차체를 개조하여 전투에 투입하는 것이었습니다. 비존의 경우 1호 전차의 차체를 사용합니다."
+GER_light_tank_artillery_equipment_1_desc:0 "차량화 보병 연대의 보병포 중대에 배속된 포들은 전투 중인 전차를 따라잡는 데 어려움을 겪었습니다. 가장 쉬운 해결책은 예비 전차의 차체를 개조하여 전투에 투입하는 것이었습니다. 비존의 경우 케츠헨의 차체를 사용합니다."
 GER_light_tank_artillery_equipment_2:0 "Sd. Kfz. 124 베스페"
 GER_light_tank_artillery_equipment_2_short:0 "베스페"
-GER_light_tank_artillery_equipment_2_desc:0 "Sd.Kfz. 124 '베스페'는 변형된 2호 전차의 차체를 기반으로 한 독일의 자주포 차량입니다."
+GER_light_tank_artillery_equipment_2_desc:0 "Sd.Kfz. 124 '베스페'는 변형된 오첼로트의 차체를 기반으로 한 독일의 자주포 차량입니다."
 GER_light_tank_artillery_equipment_3:0 "바펜트레거 레오파르트"
 GER_light_tank_artillery_equipment_3_short:0 "WT 레오파르트"
 GER_light_tank_artillery_equipment_3_desc:0 "바펜트레거 레오파르트는 VK1602 레오파르트의 차체를 기반으로 하는 자주포 차량입니다."
@@ -4170,10 +4002,10 @@ GER_light_tank_destroyer_equipment_3_short:0 "야크트레오파르트"
 GER_light_tank_destroyer_equipment_3_desc:0 "야크트레오파르트는 88mm 고관통포를 장착한 VK1602 레오파르트 경전차의 개조형입니다."
 GER_light_tank_aa_equipment_1:0 "플라크판처 I"
 GER_light_tank_aa_equipment_1_short:0 "플라크판처 I"
-GER_light_tank_aa_equipment_1_desc:0 "1호 전차의 차체에 장착된 대공포입니다."
+GER_light_tank_aa_equipment_1_desc:0 "케츠헨의 차체에 장착된 대공포입니다."
 GER_light_tank_aa_equipment_2:0 "플라크판처 룩스"
 GER_light_tank_aa_equipment_2_short:0 "플라크판처 룩스"
-GER_light_tank_aa_equipment_2_desc:0 "2호 전차의 차체에 장착된 대공포입니다."
+GER_light_tank_aa_equipment_2_desc:0 "오첼로트의 차체에 장착된 대공포입니다."
 GER_light_tank_aa_equipment_3:0 "플라크판처 1602"
 GER_light_tank_aa_equipment_3_short:0 "플라크판처 1602"
 GER_light_tank_aa_equipment_3_desc:0 "VK1602 레오파르트의 차체에 장착된 대공포입니다."
@@ -4352,19 +4184,19 @@ GEX_gw_tank_equipment_short:0 "A7V"
 GEX_gw_tank_equipment_desc:0 "The Sturmpanzerwagen A7V is a German tank which was used extensively during the Weltkrieg, and is often seen depicted in works of art celebrating the German victory over the Entente. However, its design has since become obsolete and Germany has come to use newer, more complicated tank designs."
 GEX_light_tank_equipment_1:0 "Sturmpanzerwagen M.I 'Kätzchen'"
 GEX_light_tank_equipment_1_short:0 "Kätzchen"
-GEX_light_tank_equipment_1_desc:0 "The Panzer I is a light tank armed only with two light machine guns. Design of the Panzer I began in 1932, originally with the purpose of creating a standard training tank, but short before mass production began in 1934, its role and design was revised and then tank was adopted by the Army for combat."
+GEX_light_tank_equipment_1_desc:0 "The Kätzchen is a light tank armed only with two light machine guns. Design of the Kätzchen began in 1932, originally with the purpose of creating a standard training tank, but short before mass production began in 1934, its role and design was revised and then tank was adopted by the Army for combat."
 GEX_light_tank_equipment_2:0 "Sturmpanzerwagen M.II 'Ozelot'"
 GEX_light_tank_equipment_2_short:0 "Ozelot"
-GEX_light_tank_equipment_2_desc:0 "The Panzer II, while based upon the chassis of the Panzer I, is drastically different from its predecessor. Feature much heavier armaments, armor, engine, and an entirely revamped transmission system, the Panzer II, while it can certainly go toe to toe with comparable vehicles, was originally designed as a stopgap while larger, more advanced tanks were to be developed, but the vehicles capable performance secured it a place in the German war machine."
+GEX_light_tank_equipment_2_desc:0 "The Ozelot, while based upon the chassis of the Kätzchen, is drastically different from its predecessor. Feature much heavier armaments, armor, engine, and an entirely revamped transmission system, the Ozelot, while it can certainly go toe to toe with comparable vehicles, was originally designed as a stopgap while larger, more advanced tanks were to be developed, but the vehicles capable performance secured it a place in the German war machine."
 GEX_light_tank_equipment_3:0 "VK1602 'Leopard'"
 GEX_light_tank_equipment_3_short:0 "Leopard"
 GEX_light_tank_equipment_3_desc:0 "The Leopard was a forward reconnaissance vehicle armed with a unique high-velocity 50mm cannon. Unlike older German designs, it featured sloped frontal armour and extra-wide all-terrain tracks. The Leopard now fills a unique combat roll, both as a capable support and reconnaissance vehicle."
 GEX_light_tank_artillery_equipment_1:0 "Sturmpanzer I Bison"
 GEX_light_tank_artillery_equipment_1_short:0 "Bison"
-GEX_light_tank_artillery_equipment_1_desc:0 "Towed guns which were assigned to the infantry gun companies of motorised infantry regiments had difficulties keeping up with tanks in combat. The easiest solution was to modify a spare tank chassis to carry it into battle. In the case of the Bison, it uses the chassis of the Panzer I."
+GEX_light_tank_artillery_equipment_1_desc:0 "Towed guns which were assigned to the infantry gun companies of motorised infantry regiments had difficulties keeping up with tanks in combat. The easiest solution was to modify a spare tank chassis to carry it into battle. In the case of the Bison, it uses the chassis of the Kätzchen."
 GEX_light_tank_artillery_equipment_2:0 "Sd. Kfz. 124 Wespe"
 GEX_light_tank_artillery_equipment_2_short:0 "Wespe"
-GEX_light_tank_artillery_equipment_2_desc:0 "The Sd.Kfz. 124 'Wespe', is a German self-propelled artillery vehicle based on a modified Panzer II chassis."
+GEX_light_tank_artillery_equipment_2_desc:0 "The Sd.Kfz. 124 'Wespe', is a German self-propelled artillery vehicle based on a modified Ozelot chassis."
 GEX_light_tank_artillery_equipment_3:0 "Waffenträger Leopard"
 GEX_light_tank_artillery_equipment_3_short:0 "WT Leopard"
 GEX_light_tank_artillery_equipment_3_desc:0 "The Waffenträger Leopard is a self-propelled artillery vehicle based on the VK1602 Leopard chassis."
@@ -4379,10 +4211,10 @@ GEX_light_tank_destroyer_equipment_3_short:0 "JagdLeopard"
 GEX_light_tank_destroyer_equipment_3_desc:0 "The JagdLeopard is a modification of the VK1602 Leopard light tank feautring a new 88mm high-penetration cannon."
 GEX_light_tank_aa_equipment_1:0 "Flakpanzer I"
 GEX_light_tank_aa_equipment_1_short:0 "FlakPz I"
-GEX_light_tank_aa_equipment_1_desc:0 "An anti-air cannon mounted on the chassis of a Panzer I."
+GEX_light_tank_aa_equipment_1_desc:0 "An anti-air cannon mounted on the chassis of a Kätzchen."
 GEX_light_tank_aa_equipment_2:0 "Flakpanzer Luchs"
 GEX_light_tank_aa_equipment_2_short:0 "FlakPz Luchs"
-GEX_light_tank_aa_equipment_2_desc:0 "An anti-air cannon mounted on the chassis of a Panzer II."
+GEX_light_tank_aa_equipment_2_desc:0 "An anti-air cannon mounted on the chassis of a Ozelot."
 GEX_light_tank_aa_equipment_3:0 "Flakpanzer 1602"
 GEX_light_tank_aa_equipment_3_short:0 "FlakPz 1602"
 GEX_light_tank_aa_equipment_3_desc:0 "An anti-air cannon mounted on the chassis of a VK1602 Leopard."
@@ -4630,19 +4462,19 @@ GRU_gw_tank_equipment_short:0 "A7V"
 GRU_gw_tank_equipment_desc:0 "The Sturmpanzerwagen A7V is a German tank which was used extensively during the Weltkrieg, and is often seen depicted in works of art celebrating the German victory over the Entente. However, its design has since become obsolete and Germany has come to use newer, more complicated tank designs."
 GRU_light_tank_equipment_1:0 "Sturmpanzerwagen M.I 'Kätzchen'"
 GRU_light_tank_equipment_1_short:0 "Kätzchen"
-GRU_light_tank_equipment_1_desc:0 "The Panzer I is a light tank armed only with two light machine guns. Design of the Panzer I began in 1932, originally with the purpose of creating a standard training tank, but short before mass production began in 1934, its role and design was revised and then tank was adopted by the Army for combat."
+GRU_light_tank_equipment_1_desc:0 "The Kätzchen is a light tank armed only with two light machine guns. Design of the Kätzchen began in 1932, originally with the purpose of creating a standard training tank, but short before mass production began in 1934, its role and design was revised and then tank was adopted by the Army for combat."
 GRU_light_tank_equipment_2:0 "Sturmpanzerwagen M.II 'Ozelot'"
 GRU_light_tank_equipment_2_short:0 "Ozelot"
-GRU_light_tank_equipment_2_desc:0 "The Panzer II, while based upon the chassis of the Panzer I, is drastically different from its predecessor. Feature much heavier armaments, armor, engine, and an entirely revamped transmission system, the Panzer II, while it can certainly go toe to toe with comparable vehicles, was originally designed as a stopgap while larger, more advanced tanks were to be developed, but the vehicles capable performance secured it a place in the German war machine."
+GRU_light_tank_equipment_2_desc:0 "The Ozelot, while based upon the chassis of the Kätzchen, is drastically different from its predecessor. Feature much heavier armaments, armor, engine, and an entirely revamped transmission system, the Ozelot, while it can certainly go toe to toe with comparable vehicles, was originally designed as a stopgap while larger, more advanced tanks were to be developed, but the vehicles capable performance secured it a place in the German war machine."
 GRU_light_tank_equipment_3:0 "VK1602 'Leopard'"
 GRU_light_tank_equipment_3_short:0 "Leopard"
 GRU_light_tank_equipment_3_desc:0 "The Leopard was a forward reconnaissance vehicle armed with a unique high-velocity 50mm cannon. Unlike older German designs, it featured sloped frontal armour and extra-wide all-terrain tracks. The Leopard now fills a unique combat roll, both as a capable support and reconnaissance vehicle."
 GRU_light_tank_artillery_equipment_1:0 "Sturmpanzer I Bison"
 GRU_light_tank_artillery_equipment_1_short:0 "Bison"
-GRU_light_tank_artillery_equipment_1_desc:0 "Towed guns which were assigned to the infantry gun companies of motorised infantry regiments had difficulties keeping up with tanks in combat. The easiest solution was to modify a spare tank chassis to carry it into battle. In the case of the Bison, it uses the chassis of the Panzer I."
+GRU_light_tank_artillery_equipment_1_desc:0 "Towed guns which were assigned to the infantry gun companies of motorised infantry regiments had difficulties keeping up with tanks in combat. The easiest solution was to modify a spare tank chassis to carry it into battle. In the case of the Bison, it uses the chassis of the Kätzchen."
 GRU_light_tank_artillery_equipment_2:0 "Sd. Kfz. 124 Wespe"
 GRU_light_tank_artillery_equipment_2_short:0 "Wespe"
-GRU_light_tank_artillery_equipment_2_desc:0 "The Sd.Kfz. 124 'Wespe', is a German self-propelled artillery vehicle based on a modified Panzer II chassis."
+GRU_light_tank_artillery_equipment_2_desc:0 "The Sd.Kfz. 124 'Wespe', is a German self-propelled artillery vehicle based on a modified Ozelot chassis."
 GRU_light_tank_artillery_equipment_3:0 "Waffenträger Leopard"
 GRU_light_tank_artillery_equipment_3_short:0 "WT Leopard"
 GRU_light_tank_artillery_equipment_3_desc:0 "The Waffenträger Leopard is a self-propelled artillery vehicle based on the VK1602 Leopard chassis."
@@ -4657,10 +4489,10 @@ GRU_light_tank_destroyer_equipment_3_short:0 "JagdLeopard"
 GRU_light_tank_destroyer_equipment_3_desc:0 "The JagdLeopard is a modification of the VK1602 Leopard light tank feautring a new 88mm high-penetration cannon."
 GRU_light_tank_aa_equipment_1:0 "Flakpanzer I"
 GRU_light_tank_aa_equipment_1_short:0 "FlakPz I"
-GRU_light_tank_aa_equipment_1_desc:0 "An anti-air cannon mounted on the chassis of a Panzer I."
+GRU_light_tank_aa_equipment_1_desc:0 "An anti-air cannon mounted on the chassis of a Kätzchen."
 GRU_light_tank_aa_equipment_2:0 "Flakpanzer Luchs"
 GRU_light_tank_aa_equipment_2_short:0 "FlakPz Luchs"
-GRU_light_tank_aa_equipment_2_desc:0 "An anti-air cannon mounted on the chassis of a Panzer II."
+GRU_light_tank_aa_equipment_2_desc:0 "An anti-air cannon mounted on the chassis of a Ozelot."
 GRU_light_tank_aa_equipment_3:0 "Flakpanzer 1602"
 GRU_light_tank_aa_equipment_3_short:0 "FlakPz 1602"
 GRU_light_tank_aa_equipment_3_desc:0 "An anti-air cannon mounted on the chassis of a VK1602 Leopard."
@@ -4858,6 +4690,42 @@ GUY_modern_tank_equipment_1:0 "Leyland A44 'Brock'"
 GUY_modern_tank_equipment_1_short:0 "A44 'Brock'"
 
 ###
+### Liangguang Clique ###
+###
+
+### Land ###
+GXC_infantry_equipment_0:0 "Guangdong Type 88"
+GXC_infantry_equipment_0_short:0 "Guangdong Type 88"
+GXC_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unwieldy.\n\nThis variety is mainly produced at the Guangdong Arsenal, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
+GXC_infantry_equipment_1:0 "Guangdong Type 27"
+GXC_infantry_equipment_1_short:0 "Guangdong Type 27"
+GXC_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Guangdong, though it may not fully replace its predecessors for some time."
+GXC_infantry_equipment_2:0 "Tsingtao MP18"
+GXC_infantry_equipment_2_short:0 "Tsingtao MP18"
+GXC_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government."
+GXC_infantry_equipment_3:0 "Guangdong Xinhai Type 33"
+GXC_infantry_equipment_3_short:0 "Guangdong Type 33"
+GXC_infantry_equipment_3_desc:0 "The Type 33 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 33 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
+GXC_support_weapons:0 "Guangdong 8cm light machine gun & Jingling Xuantong Type 23 82mm mortar"
+GXC_support_weapons2:0 "Guangxi 30 festival 7.9mm machine gun 'Old yellow ox' & Pajiang Xuantong Type 32 150mm mortar"
+GXC_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Pajiang Xuantong Type 34 60mm mortar"
+
+GXC_anti_tank_equipment_1:0 "37mm Hanyang Xuantong Type 21 Flat Trajectory Gun"
+GXC_anti_tank_equipment_1_short:0 "37mm Hanyang Type 21"
+GXC_anti_tank_equipment_2:0 "37mm Pajiang Xuantong Type 33 Anti-tank Gun"
+GXC_anti_tank_equipment_2_short:0 "37mm Pajiang Type 33"
+GXC_anti_tank_equipment_3:0 "57mm Pajiang Xuantong Type 39 Recoilless Cannon"
+GXC_anti_tank_equipment_3_short:0 "57mm Pajiang Type 39"
+GXC_anti_air_equipment_1:0 "20mm Pajiang M1939 Gun"
+GXC_anti_air_equipment_1_short:0 "20mm Pajiang M1939 Gun"
+GXC_artillery_equipment_1:0 "75mm Hanyang Type 10 Field Gun"
+GXC_artillery_equipment_1_short:0 "75mm Hanyang Type 10"
+GXC_artillery_equipment_2:0 "75mm Pajiang Xuangtong Type 28 Howitzer"
+GXC_artillery_equipment_2_short:0 "75mm Pajiang Type 28"
+GXC_artillery_equipment_3:0 "105mm Pajiang Xuantong Type 29 Howitzer"
+GXC_artillery_equipment_3_short:0 "105mm Pajiang Type 29"
+
+###
 ### Haiti ###
 ###
 
@@ -4910,8 +4778,8 @@ HAW_EQUIPMENT_VERSION_13:0 "A9A4"
 HAW_infantry_equipment_0:0 "Springfield Model 1903"
 HAW_infantry_equipment_0_short:0 "M1903 Springfield"
 HAW_infantry_equipment_0_desc:0 "The Model 1903 was developed at Springfield Arsenal when, following the Spanish-American war, the United States deemed the Krag–Jørgensen rifle inadequate on account of its weak action; at its core, the 1903 was an attempt to combine beneficial features of both the Krag and captureds Spanish Mausers. The rifle was gradually adopted along with the .30-06 cartridge both before and while the rest of the world waged the Weltkrieg."
-HAW_infantry_equipment_1:0 "M1 Garand"
-HAW_infantry_equipment_1_short:0 "M1 Garand"
+HAW_infantry_equipment_1:0 "Springfield Model 1903A1"
+HAW_infantry_equipment_1_short:0 "M1903A1 Springfield"
 HAW_support_weapons:0 "M1917 Browning MG & Stokes mortar"
 HAW_support_weapons2:0 "M1919 Browning MG & SBML two-inch mortar"
 
@@ -4938,6 +4806,27 @@ HAW_light_tank_equipment_1_desc:0 "Alarmed by the rapid evolution of tanks durin
 
 HAW_heavy_tank_equipment_1:0 "M1" #delete eventually when we get a new icon
 HAW_heavy_tank_equipment_1_short:0 "M1"
+
+###
+### Hunan Clique ###
+###
+
+### Land ###
+HNN_infantry_equipment_0:0 "Guangdong Type 88"
+HNN_infantry_equipment_0_short:0 "Guangdong Type 88"
+HNN_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unwieldy.\n\nThis variety is mainly produced at the Guangdong Arsenal, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Miaodao."
+HNN_infantry_equipment_1:0 "Guangdong Type 27"
+HNN_infantry_equipment_1_short:0 "Guangdong Type 27"
+HNN_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Guangdong, though it may not fully replace its predecessors for some time."
+HNN_infantry_equipment_2:0 "Tsingtao MP18"
+HNN_infantry_equipment_2_short:0 "Tsingtao MP18"
+HNN_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government."
+HNN_infantry_equipment_3:0 "Guangdong Xinhai Type 33"
+HNN_infantry_equipment_3_short:0 "Guangdong Type 33"
+HNN_infantry_equipment_3_desc:0 "The Type 33 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 33 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
+HNN_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
+HNN_support_weapons2:0 "Hanyang 30 festival 7.9mm machine gun 'Old yellow ox' & Jingling Xuantong Type 23 82mm mortar"
+HNN_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Zhuzhou Xuantong Type 34 60mm mortar"
 
 ###
 ### Netherlands ###
@@ -5803,8 +5692,8 @@ KTG_infantry_equipment_1_short:0 "Karabiner 98k"
 ###
 
 ### Land ###
-KUR_infantry_equipment_0:0 "Mauser G98 M1903"
-KUR_infantry_equipment_0_short:0 "Mauser G98"
+KUR_infantry_equipment_0:0 "마우저 G98 M1903"
+KUR_infantry_equipment_0_short:0 "마우저 G98"
 KUR_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ottoman Army during the Weltkrieg. The Ottoman M1903, chambered in 7.65mm, was the most common variant of Mauser in use. Pronounced 'Mavzer' by the Ottomans, this iconic rifle achieved great fame and became deeply ingrained in the Turkish subconscious.\n'One side of me withered from sorrows / the other from a Mavzer wound'. Freed from Ottoman control, the Kurdish army possess a large number of these rifles."
 
 ###
@@ -5812,10 +5701,11 @@ KUR_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ot
 ###
 
 ### Land ###
-LAO_infantry_equipment_0:0 "Gewehr 98"
-LAO_infantry_equipment_0_short:0 "Gewehr 98"
-LAO_infantry_equipment_1:0 "Karabiner 98k"
-LAO_infantry_equipment_1_short:0 "Karabiner 98k"
+LAO_infantry_equipment_0:0 "Le fusil Mle 1902 Indochinois"
+LAO_infantry_equipment_0_short:0 "Mle 1902 Indochinois"
+LAO_infantry_equipment_0_desc:0 "Lighter and easier to handle and load than the Mle 1886/M93 Lebel rifle, the Berthier fusil Mle 1902 'Indochinois' rifles proved more suitable for offhand shooting and easier to maintain in tropical environments, and saw its use in Indochina."
+LAO_infantry_equipment_1:0 "카라비너 98k"
+LAO_infantry_equipment_1_short:0 "카라비너 98k"
 
 ###
 ### Latvia ###
@@ -6055,19 +5945,19 @@ MAF_gw_tank_equipment_short:0 "A7V"
 MAF_gw_tank_equipment_desc:0 "The Sturmpanzerwagen A7V is a German tank which was used extensively during the Weltkrieg, and is often seen depicted in works of art celebrating the German victory over the Entente. However, its design has since become obsolete and Germany has come to use newer, more complicated tank designs."
 MAF_light_tank_equipment_1:0 "Sturmpanzerwagen M.I 'Kätzchen'"
 MAF_light_tank_equipment_1_short:0 "Kätzchen"
-MAF_light_tank_equipment_1_desc:0 "The Panzer I is a light tank armed only with two light machine guns. Design of the Panzer I began in 1932, originally with the purpose of creating a standard training tank, but short before mass production began in 1934, its role and design was revised and then tank was adopted by the Army for combat."
+MAF_light_tank_equipment_1_desc:0 "The Kätzchen is a light tank armed only with two light machine guns. Design of the Kätzchen began in 1932, originally with the purpose of creating a standard training tank, but short before mass production began in 1934, its role and design was revised and then tank was adopted by the Army for combat."
 MAF_light_tank_equipment_2:0 "Sturmpanzerwagen M.II 'Ozelot'"
 MAF_light_tank_equipment_2_short:0 "Ozelot"
-MAF_light_tank_equipment_2_desc:0 "The Panzer II, while based upon the chassis of the Panzer I, is drastically different from its predecessor. Feature much heavier armaments, armor, engine, and an entirely revamped transmission system, the Panzer II, while it can certainly go toe to toe with comparable vehicles, was originally designed as a stopgap while larger, more advanced tanks were to be developed, but the vehicles capable performance secured it a place in the German war machine."
+MAF_light_tank_equipment_2_desc:0 "The Ozelot, while based upon the chassis of the Kätzchen, is drastically different from its predecessor. Feature much heavier armaments, armor, engine, and an entirely revamped transmission system, the Ozelot, while it can certainly go toe to toe with comparable vehicles, was originally designed as a stopgap while larger, more advanced tanks were to be developed, but the vehicles capable performance secured it a place in the German war machine."
 MAF_light_tank_equipment_3:0 "VK1602 'Leopard'"
 MAF_light_tank_equipment_3_short:0 "Leopard"
 MAF_light_tank_equipment_3_desc:0 "The Leopard was a forward reconnaissance vehicle armed with a unique high-velocity 50mm cannon. Unlike older German designs, it featured sloped frontal armour and extra-wide all-terrain tracks. The Leopard now fills a unique combat roll, both as a capable support and reconnaissance vehicle."
 MAF_light_tank_artillery_equipment_1:0 "Sturmpanzer I Bison"
 MAF_light_tank_artillery_equipment_1_short:0 "Bison"
-MAF_light_tank_artillery_equipment_1_desc:0 "Towed guns which were assigned to the infantry gun companies of motorised infantry regiments had difficulties keeping up with tanks in combat. The easiest solution was to modify a spare tank chassis to carry it into battle. In the case of the Bison, it uses the chassis of the Panzer I."
+MAF_light_tank_artillery_equipment_1_desc:0 "Towed guns which were assigned to the infantry gun companies of motorised infantry regiments had difficulties keeping up with tanks in combat. The easiest solution was to modify a spare tank chassis to carry it into battle. In the case of the Bison, it uses the chassis of the Kätzchen."
 MAF_light_tank_artillery_equipment_2:0 "Sd. Kfz. 124 Wespe"
 MAF_light_tank_artillery_equipment_2_short:0 "Wespe"
-MAF_light_tank_artillery_equipment_2_desc:0 "The Sd.Kfz. 124 'Wespe', is a German self-propelled artillery vehicle based on a modified Panzer II chassis."
+MAF_light_tank_artillery_equipment_2_desc:0 "The Sd.Kfz. 124 'Wespe', is a German self-propelled artillery vehicle based on a modified Ozelot chassis."
 MAF_light_tank_artillery_equipment_3:0 "Waffenträger Leopard"
 MAF_light_tank_artillery_equipment_3_short:0 "WT Leopard"
 MAF_light_tank_artillery_equipment_3_desc:0 "The Waffenträger Leopard is a self-propelled artillery vehicle based on the VK1602 Leopard chassis."
@@ -6082,10 +5972,10 @@ MAF_light_tank_destroyer_equipment_3_short:0 "JagdLeopard"
 MAF_light_tank_destroyer_equipment_3_desc:0 "The JagdLeopard is a modification of the VK1602 Leopard light tank feautring a new 88mm high-penetration cannon."
 MAF_light_tank_aa_equipment_1:0 "Flakpanzer I"
 MAF_light_tank_aa_equipment_1_short:0 "FlakPz I"
-MAF_light_tank_aa_equipment_1_desc:0 "An anti-air cannon mounted on the chassis of a Panzer I."
+MAF_light_tank_aa_equipment_1_desc:0 "An anti-air cannon mounted on the chassis of a Kätzchen."
 MAF_light_tank_aa_equipment_2:0 "Flakpanzer Luchs"
 MAF_light_tank_aa_equipment_2_short:0 "FlakPz Luchs"
-MAF_light_tank_aa_equipment_2_desc:0 "An anti-air cannon mounted on the chassis of a Panzer II."
+MAF_light_tank_aa_equipment_2_desc:0 "An anti-air cannon mounted on the chassis of a Ozelot."
 MAF_light_tank_aa_equipment_3:0 "Flakpanzer 1602"
 MAF_light_tank_aa_equipment_3_short:0 "FlakPz 1602"
 MAF_light_tank_aa_equipment_3_desc:0 "An anti-air cannon mounted on the chassis of a VK1602 Leopard."
@@ -6230,6 +6120,19 @@ MLW_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 MLW_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
 
 ###
+### Malaya ###
+###
+
+### Land ###
+MLY_infantry_equipment_0:0 "Short Model Lee–Enfield MK. III"
+MLY_infantry_equipment_0_short:0 "SMLE MK.3"
+MLY_infantry_equipment_1:0 "Karabiner 98k"
+MLY_infantry_equipment_1_short:0 "Karabiner 98k"
+
+MLY_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
+MLY_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
+
+###
 ### Kikuyuland ###
 ###
 
@@ -6238,9 +6141,29 @@ KIK_infantry_equipment_0:0 "Short Model Lee–Enfield MK. I"
 KIK_infantry_equipment_0_short:0 "SMLE MK. 1"
 KIK_infantry_equipment_1:0 "Karabiner 98k"
 KIK_infantry_equipment_1_short:0 "Karabiner 98k"
-
 KIK_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
 KIK_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
+
+###
+### League of Eight Province/Nanjing Clique ###
+###
+
+### Land ###
+LEP_infantry_equipment_0:0 "한양 88식"
+LEP_infantry_equipment_0_short:0 "한양 88식"
+LEP_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Hanyang Arsenal, the model's place of design, though equipment shortages often see it used alongside non-standard weapons."
+LEP_infantry_equipment_1:0 "한양 27식"
+LEP_infantry_equipment_1_short:0 "한양 27식"
+LEP_infantry_equipment_1_desc:0 "Officially called the 'Xuantong Type 27', this rifle was put into service in 1935 thanks to German assistance after the Qing Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nThis variety is mainly produced at the Hanyang Arsenal with German tools, though it may not fully replace its predecessors for some time."
+LEP_infantry_equipment_2:0 "칭타오 MP18"
+LEP_infantry_equipment_2_short:0 "칭타오 MP18"
+LEP_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government and warlords in coastal areas."
+LEP_infantry_equipment_3:0 "한양 선통제 35식"
+LEP_infantry_equipment_3_short:0 "한양 선통제 35식"
+LEP_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
+LEP_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
+LEP_support_weapons2:0 "Shanghai 30 festival 7.9mm machine gun 'Old yellow ox' & Jingling Xuantong Type 23 82mm mortar"
+LEP_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Jingling Xuantong Type 34 60mm mortar"
 
 ###
 ### Mongolia ###
@@ -6348,13 +6271,13 @@ NEE_EQUIPMENT_VERSION_13:0 "A9A4"
 NEE_infantry_equipment_0:0 "Springfield Model 1903"
 NEE_infantry_equipment_0_short:0 "M1903 Springfield"
 NEE_infantry_equipment_0_desc:0 "The Model 1903 was developed at Springfield Arsenal when, following the Spanish-American war, the United States deemed the Krag–Jørgensen rifle inadequate on account of its weak action; at its core, the 1903 was an attempt to combine beneficial features of both the Krag and captureds Spanish Mausers. The rifle was gradually adopted along with the .30-06 cartridge both before and while the rest of the world waged the Weltkrieg."
-NEE_infantry_equipment_1:0 "M1 Garand"
-NEE_infantry_equipment_1_short:0 "M1 Garand"
-NEE_infantry_equipment_2:0 "M1 Thompson"
-NEE_infantry_equipment_2_short:0 "M1 Thompson"
+NEE_infantry_equipment_1:0 "Springfield Model 1903A1"
+NEE_infantry_equipment_1_short:0 "M1903A1 Springfield"
+NEE_infantry_equipment_2:0 "CA Auto-Carbine Model.1"
+NEE_infantry_equipment_2_short:0 "AC Model.1"
 NEE_infantry_equipment_3:0 "CA Auto-Rifle Model.5"
 NEE_infantry_equipment_3_short:0 "AR Model.5"
-NEE_infantry_at:0 "M1 'Bazooka'"
+NEE_infantry_at:0 "Bombard Mortar"
 NEE_infantry_at2:0 "PIAT"
 NEE_support_weapons:0 "M1917 Browning MG & Stokes mortar"
 NEE_support_weapons2:0 "M1919 Browning MG & SBML two-inch mortar"
@@ -6615,41 +6538,6 @@ NOR_super_heavy_tank_equipment_1_short:0 "Dovregubben"
 
 NOR_modern_tank_equipment_1:0 "Stridsvogn 74"
 NOR_modern_tank_equipment_1_short:0 "Strv 74"
-
-###
-### Britanny ###
-###
-
-### Land ###
-
-NRM_EQUIPMENT_VERSION_1:0 "série A"
-NRM_EQUIPMENT_VERSION_2:0 "série B"
-NRM_EQUIPMENT_VERSION_3:0 "série C"
-NRM_EQUIPMENT_VERSION_4:0 "série D"
-NRM_EQUIPMENT_VERSION_5:0 "série E"
-NRM_EQUIPMENT_VERSION_6:0 "série F"
-NRM_EQUIPMENT_VERSION_7:0 "série G"
-NRM_EQUIPMENT_VERSION_8:0 "série H"
-NRM_EQUIPMENT_VERSION_9:0 "série I"
-NRM_EQUIPMENT_VERSION_10:0 "série J"
-NRM_EQUIPMENT_VERSION_11:0 "série K"
-NRM_EQUIPMENT_VERSION_12:0 "série L"
-NRM_EQUIPMENT_VERSION_13:0 "série M"
-
-#Infantry Equip
-
-NRM_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
-NRM_infantry_equipment_0_short:0 "Lebel Mle M93"
-NRM_infantry_equipment_1:0 "MAS Modèle 1936"
-NRM_infantry_equipment_1_short:0 "MAS-36"
-NRM_infantry_equipment_2:0 "MAS Modèle 1938"
-NRM_infantry_equipment_2_short:0 "MAS-38"
-
-NRM_support_weapons:0 "FM Chauchat & Stokes mortar"
-NRM_support_weapons2:0 "Hotchkiss M1926 & Brandt Mle 27/31"
-NRM_support_weapons3:0 "Hotchkiss 26/37 & Brandt Mle 35/38"
-
-NRM_infantry_at:0 "Boys Anti-Tank Rifle"
 
 ###
 ### New Zealand ###
@@ -7062,12 +6950,8 @@ PER_infantry_equipment_1_desc:0 "The Zbrojovka Brno vz.24 is a carbine based on 
 PHI_infantry_equipment_0:0 "Springfield Model 1903"
 PHI_infantry_equipment_0_short:0 "M1903 Springfield"
 PHI_infantry_equipment_0_desc:0 "The Model 1903 was developed at Springfield Arsenal when, following the Spanish-American war, the United States deemed the Krag–Jørgensen rifle inadequate on account of its weak action; at its core, the 1903 was an attempt to combine beneficial features of both the Krag and captureds Spanish Mausers. The rifle was gradually adopted along with the .30-06 cartridge both before and while the rest of the world waged the Weltkrieg."
-PHI_infantry_equipment_1:0 "M1 Garand"
-PHI_infantry_equipment_1_short:0 "M1 Garand"
-PHI_infantry_equipment_2:0 "M1 Thompson"
-PHI_infantry_equipment_2_short:0 "M1 Thompson"
-PHI_infantry_equipment_3:0 "M1 Carbine"
-PHI_infantry_equipment_3_short:0 "M1 Carbine"
+PHI_infantry_equipment_1:0 "Springfield Model 1903A1"
+PHI_infantry_equipment_1_short:0 "M1903A1 Springfield"
 
 ###
 ### Piratini ###
@@ -7239,18 +7123,21 @@ PRU_infantry_equipment_1_desc:0 "The Fabrique Nationale Model 1935 is a slightly
 
 ### Land ###
 
-QIE_infantry_equipment_0:0 "Hanyang Type 88"
-QIE_infantry_equipment_0_short:0 "Hanyang Type 88"
+QIE_infantry_equipment_0:0 "한양 88식"
+QIE_infantry_equipment_0_short:0 "한양 88식"
 QIE_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Hanyang Arsenal, the model's place of design, though equipment shortages often see it used alongside non-standard weapons."
-QIE_infantry_equipment_1:0 "Hanyang Type 27"
-QIE_infantry_equipment_1_short:0 "Hanyang Type 27"
+QIE_infantry_equipment_1:0 "한양 27식"
+QIE_infantry_equipment_1_short:0 "한양 27식"
 QIE_infantry_equipment_1_desc:0 "Officially called the 'Xuantong Type 27', this rifle was put into service in 1935 thanks to German assistance after the Qing Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nThis variety is mainly produced at the Hanyang Arsenal with German tools, though it may not fully replace its predecessors for some time."
-QIE_infantry_equipment_2:0 "Tsingtao MP18"
-QIE_infantry_equipment_2_short:0 "Tsingtao MP18"
+QIE_infantry_equipment_2:0 "칭타오 MP18"
+QIE_infantry_equipment_2_short:0 "칭타오 MP18"
 QIE_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government and warlords in coastal areas."
-QIE_infantry_equipment_3:0 "Liu Type 2"
-QIE_infantry_equipment_3_short:0 "Liu Type 2"
-QIE_infantry_equipment_3_desc:0 "The General Liu Rifle, originally produced in small quantities in 1916, represented China's first independent foray into modern arms design, but unfortunately never made its way into full-scale production due to the death of its designer.\n\nThe weapon itself was by most accounts impressive for its time, and the superintendant at the Hanyang Arsenal has proposed that its design might be updated and issued as the 'Liu Type 2'."
+QIE_infantry_equipment_3:0 "한양 선통제 35식"
+QIE_infantry_equipment_3_short:0 "한양 35식"
+QIE_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
+QIE_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
+QIE_support_weapons2:0 "Hanyang 30 festival 7.9mm machine gun & Jingling Xuantong Type 23 82mm mortar"
+QIE_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Jingling Xuantong Type 34 60mm mortar"
 
 ###
 ### Quebec ###
@@ -7577,6 +7464,20 @@ SAF_gw_tank_equipment:0 "Mark V"
 SAF_gw_tank_equipment_short:0 "Mark V"
 
 ###
+### Sarawak ###
+###
+
+### Land ###
+SAR_infantry_equipment_0:0 "Short Model Lee–Enfield MK. III"
+SAR_infantry_equipment_0_short:0 "SMLE MK.3"
+SAR_infantry_equipment_1:0 "Karabiner 98k"
+SAR_infantry_equipment_1_short:0 "Karabiner 98k"
+
+SAR_support_weapons:0 "MG-08/15 & leichter Minenwerfer"
+SAR_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
+
+
+###
 ### Saudi Arabia ###
 ###
 
@@ -7769,6 +7670,27 @@ SHA_infantry_equipment_1:0 "Karabiner 98k"
 SHA_infantry_equipment_1_short:0 "Karabiner 98k"
 
 ###
+### Shanxi ###
+###
+
+### Land ###
+SHX_infantry_equipment_0:0 "Taiyuan Type 6-5"
+SHX_infantry_equipment_0_short:0 "Taiyuan Type 6-5"
+SHX_infantry_equipment_0_desc:0 "The Type 6-5, named for its use of 6.5mm rounds, is a slightly modified copy of the Japanese Type 38 Arisaka originally produced by Yan Xishan's Taiyuan Arsenal.\n\nShanqing forces have since put the weapon to widespread use, though they lack Yan's more cordial relations with the Japanese and Fengtian Governments, and thus ammo is harder to come by. This factor, and personal preference, have seen it used alongside a variety of other weapons such as the Dadao."
+SHX_infantry_equipment_1:0 "Taiyuan Type 26"
+SHX_infantry_equipment_1_short:0 "Taiyuan Type 26"
+SHX_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Taiyuan, though it may not fully replace its predecessors for some time."
+SHX_infantry_equipment_2:0 "칭타오 MP18"
+SHX_infantry_equipment_2_short:0 "칭타오 MP18"
+SHX_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been sold throughout Northern and Southern China, though primarily to the Qing Government."
+SHX_infantry_equipment_3:0 "Taiyuan Xuantong Type 35"
+SHX_infantry_equipment_3_short:0 "Taiyuan Type 35"
+SHX_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
+SHX_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Taiyuan-made Stokes mortar"
+SHX_support_weapons2:0 "Taiyuan 30 festival 7.9mm machine gun 'Old yellow ox' & Taiyuan Xuantong Type 23 82mm mortar"
+SHX_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Taiyuan Xuantong Type 34 60mm mortar"
+
+###
 ### Siam ###
 ###
 
@@ -7802,6 +7724,14 @@ SIA_infantry_equipment_2_desc:0 "Personal and crew served weapons for infantry a
 SIA_infantry_equipment_3:0 "Rungpaisarn Industries RPS-001 Assault Rifles"
 SIA_infantry_equipment_3_short:0 "RPS-001"
 SIA_infantry_equipment_3_desc:0 "Personal and crew served weapons for infantry as well as the various other bits of kit a soldier needs. Further modernised to include personal Assault Rifles and anti-tank rockets. RPS-001 assault rifle were officially adopted as the main service rifle."
+SIA_infantry_at:0 "Type 84 Anti-Tank Rifle" #JAP Type 97
+SIA_infantry_at2:0 "Type 86 Rocket Launcher"
+SIA_support_weapons:0 "Type 66 LMG & 25cm Minenwerfer" #Madsen
+SIA_support_weapons2:0 "M1919A3 Browning MG & 8cm Granatwerfer 34"
+SIA_support_weapons3:0 "Type 82 HMG & 8cm Pk83 Mortar"
+SIA_support_weapons4:0 "Type 82B2 HMG & 120mm Pk85 Mortar"
+SIA_night_vision:0 "SL100 Sniperscope"
+SIA_night_vision2:0 "SL200 Sniperscope"
 
 # Motorised
 
@@ -7976,23 +7906,20 @@ SIE_gw_tank_equipment:0 "Renault FT"
 SIE_gw_tank_equipment_short:0 "FT"
 
 ###
-### SIK - Uyghurstan ###
+### SIK - Sinkiang Clique ###
 ###
 
 ### Land ###
-SIK_infantry_equipment_0:0 "Kunming Type 88"
-SIK_infantry_equipment_0_short:0 "Kunming Type 88"
-SIK_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Xining Arsenal in Qinghai, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Daodao."
-SIK_infantry_equipment_1:0 "Kunming Type 27"
-SIK_infantry_equipment_1_short:0 "Kunming Type 27"
-SIK_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Xining, though it may not fully replace its predecessors for some time."
-SIK_infantry_equipment_2:0 "Tsingtao MP18"
-SIK_infantry_equipment_2_short:0 "Tsingtao MP18"
-SIK_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government."
-SIK_infantry_equipment_3:0 "Liu Type 2"
-SIK_infantry_equipment_3_short:0 "Liu Type 2"
-SIK_infantry_equipment_3_desc:0 "The General Liu Rifle, originally produced in small quantities in 1916, represented China's first independent foray into modern arms design, but unfortunately never made its way into full-scale production due to the death of its designer.\n\nThe weapon itself was by most accounts impressive for its time, and the superintendant at the Xining Arsenal has proposed that its design might be updated and issued as the 'Liu Type 2'."
-
+SIK_infantry_equipment_0:0 "Hanyang Type 88"
+SIK_infantry_equipment_0_short:0 "Hanyang Type 88"
+SIK_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Xining Arsenal in Qinghai, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
+SIK_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
+SIK_infantry_equipment_1_short:0 "Mosina 1891/1930"
+SIK_infantry_equipment_2:0 "PPSh-41"
+SIK_infantry_equipment_2_short:0 "PPSh-41"
+SIK_infantry_equipment_3:0 "Hanyang Xuantong Type 35"
+SIK_infantry_equipment_3_short:0 "Hanyang Type 35"
+SIK_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
 
 ###
 ### Slovenia ###
@@ -8282,22 +8209,25 @@ SPR_light_tank_equipment_3_short:0 "T-41 'Verdeja'"
 SPR_light_tank_equipment_3_desc:0 "The Type 1941 was the most successful design by young Major Félix Verdeja Bardales. The vehicle was designed with special consideration for the protection of its engine bay, and featured a domestically designed 45mm main cannon."
 
 ###
-### ShangQing Tianguo ###
+### Shandong Clique/Shangqing Tianguo ###
 ###
 
 ### Land ###
-SQI_infantry_equipment_0:0 "Taiyuan Type 6-5"
-SQI_infantry_equipment_0_short:0 "Taiyuan Type 6-5"
-SQI_infantry_equipment_0_desc:0 "The Type 6-5, named for its use of 6.5mm rounds, is a slightly modified copy of the Japanese Type 38 Arisaka originally produced by Yan Xishan's Taiyuan Arsenal.\n\nShanqing forces have since put the weapon to widespread use, though they lack Yan's more cordial relations with the Japanese and Fengtian Governments, and thus ammo is harder to come by. This factor, and personal preference, have seen it used alongside a variety of other weapons such as the Daodao."
-SQI_infantry_equipment_1:0 "Taiyuan Type 27"
-SQI_infantry_equipment_1_short:0 "Taiyuan Type 27"
-SQI_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Taiyuan, though it may not fully replace its predecessors for some time."
-SQI_infantry_equipment_2:0 "Tsingtao MP18"
-SQI_infantry_equipment_2_short:0 "Tsingtao MP18"
-SQI_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been sold throughout Northern and Southern China, though primarily to the Qing Government."
-SQI_infantry_equipment_3:0 "Liu Type 2"
-SQI_infantry_equipment_3_short:0 "Liu Type 2"
-SQI_infantry_equipment_3_desc:0 "The General Liu Rifle, originally produced in small quantities in 1916, represented China's first independent foray into modern arms design, but unfortunately never made its way into full-scale production due to the death of its designer.\n\nThe weapon itself was by most accounts impressive for its time, and the superintendant at the Taiyuan Arsenal has proposed that its design might be updated and issued as the 'Liu Type 2'."
+SQI_infantry_equipment_0:0 "Mauser C96 'Boke Qiang'"
+SQI_infantry_equipment_0_short:0 "Boke Qiang"
+SQI_infantry_equipment_0_desc:0 "The Mauser C96 (Construktion 96) is a semi-automatic pistol that was originally produced by German arms manufacturer Mauser from 1896 to 1937. Unlicensed copies of the gun were also manufactured in Spain and China in the first half of the 20th century. The gun itself was known as 'Boke Qiang'(scorpion gun) as it saw widespread usage during the warlord era, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
+SQI_infantry_equipment_1:0 "Jinan Type 26"
+SQI_infantry_equipment_1_short:0 "Jinan Type 26"
+SQI_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Jinan, though it may not fully replace its predecessors for some time."
+SQI_infantry_equipment_2:0 "Taiyuan Arsenal Xuantong Type 20 “Zilaide”" #OTL Chinese copy of Astra Model 900
+SQI_infantry_equipment_2_short:0 "Zilaide"
+SQI_infantry_equipment_2_desc:2 "An improvement to the original Mauser C96 Design, the M1932 Schnellfeuer (Rapid Fire), or as known as 'Zilaide' in Chinese was a very successful design with detachable magazine-fed and select-fire capability.\n\nFurther improvement in the later versions included a detachable barrel, improved front and rear sights, more durable parts to prevent breakage under sustained fire and lowered position of the shoulder stock to avoid 'hammer bite'."
+SQI_infantry_equipment_3:0 "Hanyang Xuantong Type 35"
+SQI_infantry_equipment_3_short:0 "Hanyang Type 35"
+SQI_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
+SQI_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
+SQI_support_weapons2:0 "Hanyang 30 festival 7.9mm machine gun 'Old yellow ox' & Jinan Xuantong Type 23 82mm mortar"
+SQI_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Jinan Xuantong Type 34 60mm mortar"
 
 ###
 ### Sardinia ###
@@ -8732,18 +8662,41 @@ SYR_infantry_equipment_0_short:0 "Mauser G98"
 SYR_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ottoman Army during the Weltkrieg. The Ottoman M1903, chambered in 7.65mm, was the most common variant of Mauser in use. Pronounced 'Mavzer' by the Ottomans, this iconic rifle achieved great fame and became deeply ingrained in the Turkish subconscious.\n'One side of me withered from sorrows / the other from a Mavzer wound'. Freed from Ottoman control, the Mashriqi army possess a large number of these rifles."
 
 ###
-### Tuva ###
+### Sichuan Clique ###
 ###
 
 ### Land ###
-TAN_infantry_equipment_0:0 "Vintovka Mosina 1891 obr.1891"
-TAN_infantry_equipment_0_short:0 "Mosina 1891"
+SZC_infantry_equipment_0:0 "SMB M1907 Chinese Mauser" # Essentially the Gewehr98 with Dadao lol, OTL produced by Gongxian arsernal in Sichuan until 1935
+SZC_infantry_equipment_0_short:0 "SMB M1907"
+SZC_infantry_equipment_0_desc:0 "Originally produced as the Guangxu Type 33 during the Imperial rule as a close copy of the German Mauser Model 1904 with a special 6.8×57mm cartridge, but were later rechambered to the standard 7.92×57mm Mauser by 1915. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Sichuan Machine Bureau, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
+SZC_infantry_equipment_1:0 "Sichuan Type 27"
+SZC_infantry_equipment_1_short:0 "Sichuan Type 27"
+SZC_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Chengdu, though it may not fully replace its predecessors for some time."
+SZC_infantry_equipment_2:0 "'Thampson' Model 1921 “Gezaolonglong”" #Intentionally misspelt Thompson
+SZC_infantry_equipment_2_short:0 "'Thampson' M1921"
+SZC_infantry_equipment_2_desc:0 "Many Model 1921 Thompsons were imported into China during the 1920s, despite the USA being a leading adherent to an international embargo on the export of military weapons to that country. Copies were subsequently produced at at least three provincial arsenals. The Sichuan-made copies were stamped with the word 'Thampson' in misspelt recognition of the original designer."
+SZC_infantry_equipment_3:0 "Sichuan Xinhai Type 33"
+SZC_infantry_equipment_3_short:0 "Sichuan Type 33"
+SZC_infantry_equipment_3_desc:0 "The Type 33 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 33 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
+SZC_support_weapons:0 "Sichuan Schwartzlose Type68 6.8mm MG & Daxian Arsenal made 82.5mm mortar"
+SZC_support_weapons2:0 "Sichuan Neuhausen KE7 & Sichuan Xuantong Type 23 82mm mortar"
+SZC_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Sichuan Xuantong Type 34 60mm mortar"
+
+###
+### Kumul Khanate ###
+###
+
+### Land ###
+TAN_infantry_equipment_0:0 "Hanyang Type 88"
+TAN_infantry_equipment_0_short:0 "Hanyang Type 88"
+TAN_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Xining Arsenal in Qinghai, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
 TAN_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 TAN_infantry_equipment_1_short:0 "Mosina 1891/1930"
 TAN_infantry_equipment_2:0 "PPSh-41"
 TAN_infantry_equipment_2_short:0 "PPSh-41"
-TAN_infantry_equipment_3:0 "Sudarev obr.1942"
-TAN_infantry_equipment_3_short:0 "AS-42"
+TAN_infantry_equipment_3:0 "Hanyang Xuantong Type 35"
+TAN_infantry_equipment_3_short:0 "Hanyang Type 35"
+TAN_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
 
 ###
 ### Union State ###
@@ -8770,18 +8723,18 @@ TEX_EQUIPMENT_VERSION_13:0 "A9A4"
 TEX_infantry_equipment_0:0 "스프링필드 모델 1903"
 TEX_infantry_equipment_0_short:0 "M1903 스프링필드"
 TEX_infantry_equipment_0_desc:0 "모델 1903은 미국-스페인 전쟁 이후 미합중국이 크라그-요르겐센 소총이 성능이 좋지 않다고 판단하였던 시기에 스프링필드 조병창에서 개발되었습니다. 1903의 핵심부는, 크라그와 노획한 스페인군의 마우저의 모두의 좋은 특징들을 결합하려는 시도였습니다. 소총은 전 세계의 타국들이 세계대전에서 싸우는 동안 .30-06 탄약과 함께 점진적으로 채택되었습니다."
-TEX_infantry_equipment_1:0 "M1 개런드"
-TEX_infantry_equipment_1_short:0 "M1 개런드"
-TEX_infantry_equipment_2:0 "M1 톰슨"
-TEX_infantry_equipment_2_short:0 "M1 톰슨"
-TEX_infantry_equipment_3:0 "M1 카빈"
-TEX_infantry_equipment_3_short:0 "M1 카빈"
-TEX_infantry_at:0 "M1 '바주카'"
-TEX_infantry_at2:0 "M20 '슈퍼 바주카'"
+TEX_infantry_equipment_1:0 "스프링필드 모델 1903A1"
+TEX_infantry_equipment_1_short:0 "M1903A1 스프링필드"
+TEX_infantry_equipment_2:0 "콜트 모델 1937"
+TEX_infantry_equipment_2_short:0 "M1937 콜트"
+TEX_infantry_equipment_3:0 "Williams Model 1942"
+TEX_infantry_equipment_3_short:0 "M1942 Williams"
+TEX_infantry_at:0 "Williams Anti-Tank Rifle"
+TEX_infantry_at2:0 "M18 Recoilless Rifle"
 TEX_support_weapons:0 "M1917 브라우닝 기관총 & 스토크스 박격포"
 TEX_support_weapons2:0 "M1919 브라우닝 기관총 & SBML 2인치 박격포"
-TEX_support_weapons3:0 "M1919A6 브라우닝 기관총 & M1 박격포"
-TEX_support_weapons4:0 "윈체스터 자동소총 & M2 4.2인치 박격포"
+TEX_support_weapons3:0 "콜트 M10 & M1 박격포"
+TEX_support_weapons4:0 "콜트 자동소총 & M2 4.2인치 박격포"
 TEX_night_vision:0 "T-120 스나이퍼 스코프"
 TEX_night_vision2:0 "M2 스나이퍼 스코프"
 
@@ -8877,7 +8830,7 @@ TEX_modern_tank_equipment_1_desc:0 "철도 터널에도 들어갈 수 있는 작
 ### Land ###
 TIB_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 TIB_infantry_equipment_0_short:0 "No.1 Mk.III"
-TIB_infantry_equipment_0_desc:0 "With the collapse of the British Raj, the steady trickle of British rifles and ammunition into the country became a deluge and in the span of a year, Tibetan small arms advanced perhaps over fifty years. Further, the influx of German ammunition into Tibet following the German intervention in China led to Tibet converting its SMLE rifles to 7.65×53mm Mauser."
+TIB_infantry_equipment_0_desc:0 "With the collapse of the British Raj, the steady trickle of British rifles and ammunition into the country became a deluge and in the span of a year, Tibetan small arms advanced perhaps over fifty years. Further, the influx of German ammunition into Tibet following the German intervention in China led to Tibet converting its SMLE rifles to 7.65×53mm Mauser. The equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dpa'dam."
 TIB_infantry_equipment_1:0 "Mauser Model 1898"
 TIB_infantry_equipment_1_short:0 "Mauser 1898"
 TIB_infantry_equipment_1_desc:0 "In response to several commercially successful short rifles produced on the basis of the Mauser 1898 by competing arms manufacturers, the Mauser company developed its owned moderately shortened 1898 rifle. Two related patterns of this design were given the designation 'standard modell' by Mauser. Many small nations, including Tibet purchased these new guns in large quantities; the Tibetan variant is the older of the two and is chambered in 7.65×53mm Mauser.\nSoon after receiving the rifles, the Tibetan government converted several rifles to carbines, cannibalizing older British rifles for material."
@@ -9330,18 +9283,18 @@ USA_EQUIPMENT_VERSION_13:0 "A9A4"
 USA_infantry_equipment_0:0 "스프링필드 모델 1903"
 USA_infantry_equipment_0_short:0 "M1903 스프링필드"
 USA_infantry_equipment_0_desc:0 "모델 1903은 미국-스페인 전쟁 이후 미합중국이 크라그-요르겐센 소총이 성능이 좋지 않다고 판단하였던 시기에 스프링필드 조병창에서 개발되었습니다. 1903의 핵심부는, 크라그와 노획한 스페인군의 마우저의 모두의 좋은 특징들을 결합하려는 시도였습니다. 소총은 전 세계의 타국들이 세계대전에서 싸우는 동안 .30-06 탄약과 함께 점진적으로 채택되었습니다."
-USA_infantry_equipment_1:0 "M1 개런드"
-USA_infantry_equipment_1_short:0 "M1 개런드"
-USA_infantry_equipment_2:0 "M1 톰슨"
-USA_infantry_equipment_2_short:0 "M1 톰슨"
-USA_infantry_equipment_3:0 "M1 카빈"
-USA_infantry_equipment_3_short:0 "M1 카빈"
-USA_infantry_at:0 "M1 '바주카'"
-USA_infantry_at2:0 "M20 '슈퍼 바주카'"
+USA_infantry_equipment_1:0 "스프링필드 모델 1903A1"
+USA_infantry_equipment_1_short:0 "M1903A1 스프링필드"
+USA_infantry_equipment_2:0 "존슨 모델 1"
+USA_infantry_equipment_2_short:0 "M1 존슨"
+USA_infantry_equipment_3:0 "존슨 모델 3"
+USA_infantry_equipment_3_short:0 "M3 존슨"
+USA_infantry_at:0 "M2 반기계화 무기"
+USA_infantry_at2:0 "M18 무반동 소총"
 USA_support_weapons:0 "M1917 브라우닝 기관총 & 스토크스 박격포"
 USA_support_weapons2:0 "M1919 브라우닝 기관총 & SBML 2인치 박격포"
-USA_support_weapons3:0 "M1919A6 브라우닝 기관총 & M1 박격포"
-USA_support_weapons4:0 "윈체스터 자동소총 & M2 4.2인치 박격포"
+USA_support_weapons3:0 "M1941 존슨 기관총 & M1 박격포"
+USA_support_weapons4:0 "M1944 존슨 기관총 & M2 4.2인치 박격포"
 USA_night_vision:0 "T-120 스나이퍼 스코프"
 USA_night_vision2:0 "M2 스나이퍼 스코프"
 
@@ -9433,7 +9386,9 @@ USA_modern_tank_equipment_1_desc:0 "M26 '퍼싱' 전차의 소형 파생형인 M
 ###
 
 ### Land ###
-VIE_infantry_equipment_0:0 "Gewehr 98"
+VIE_infantry_equipment_0:0 "Le fusil Mle 1902 Indochinois"
+VIE_infantry_equipment_0_short:0 "Mle 1902 Indochinois"
+VIE_infantry_equipment_0_desc:0 "Lighter and easier to handle and load than the Mle 1886/M93 Lebel rifle, the Berthier fusil Mle 1902 'Indochinois' rifles proved more suitable for offhand shooting and easier to maintain in tropical environments, and saw its use in Indochina."
 VIE_infantry_equipment_0_short:0 "Gewehr 98"
 VIE_infantry_equipment_1:0 "Karabiner 98k"
 VIE_infantry_equipment_1_short:0 "Karabiner 98k"
@@ -9663,16 +9618,19 @@ WLL_infantry_equipment_3_short:0 "FN-43"
 ### Land ###
 XSM_infantry_equipment_0:0 "Kunming Type 88"
 XSM_infantry_equipment_0_short:0 "Kunming Type 88"
-XSM_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Xining Arsenal in Qinghai, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Daodao."
+XSM_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Xining Arsenal in Qinghai, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
 XSM_infantry_equipment_1:0 "Kunming Type 27"
 XSM_infantry_equipment_1_short:0 "Kunming Type 27"
 XSM_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Xining, though it may not fully replace its predecessors for some time."
 XSM_infantry_equipment_2:0 "Tsingtao MP18"
 XSM_infantry_equipment_2_short:0 "Tsingtao MP18"
 XSM_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government."
-XSM_infantry_equipment_3:0 "Liu Type 2"
-XSM_infantry_equipment_3_short:0 "Liu Type 2"
-XSM_infantry_equipment_3_desc:0 "The General Liu Rifle, originally produced in small quantities in 1916, represented China's first independent foray into modern arms design, but unfortunately never made its way into full-scale production due to the death of its designer.\n\nThe weapon itself was by most accounts impressive for its time, and the superintendant at the Xining Arsenal has proposed that its design might be updated and issued as the 'Liu Type 2'."
+XSM_infantry_equipment_3:0 "Hanyang Xuantong Type 35"
+XSM_infantry_equipment_3_short:0 "Hanyang Type 35"
+XSM_infantry_equipment_3_desc:0 "The Type 35 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 35 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
+XSM_support_weapons:0 "'Huaning' 7.92mm heavy machine gun & Hanyang-made Stokes mortar"
+XSM_support_weapons2:0 "Hanyang 30 festival 7.9mm machine gun 'Old yellow ox' & Jingling Xuantong Type 23 82mm mortar"
+XSM_support_weapons3:0 "Xuantong Type 27 heavy machine gun & Jingling Xuantong Type 34 60mm mortar"
 
 ###
 ### Yemen ###
@@ -9704,16 +9662,16 @@ YUC_infantry_equipment_1_desc:0 "The revolutionary Mondragón Model 1908 was amo
 ### Land ###
 YUN_infantry_equipment_0:0 "Kunming Type 88"
 YUN_infantry_equipment_0_short:0 "Kunming Type 88"
-YUN_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Kunming Arsenal in Yunnan, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Daodao."
+YUN_infantry_equipment_0_desc:0 "Originally a product of late Guangxu era 'Self Strengthening' efforts, the Type 88 was designed as a close copy of the German Gewehr 88 with export modifications. While collectively inferior to newer rifles despite improvements, and often poorly maintained, the weapon is known to be rugged and reliable if unweildy.\n\nThis variety is mainly produced at the Kunming Arsenal in Yunnan, though equipment shortages and personal preference often see it used alongside non-standard weapons such as the Dadao."
 YUN_infantry_equipment_1:0 "Kunming Type 27"
 YUN_infantry_equipment_1_short:0 "Kunming Type 27"
 YUN_infantry_equipment_1_desc:0 "Originally called the 'Xuantong Type 27', this rifle was put into Qing service in 1935 through German assistance after the Restoration. The weapon is functionally a near copy of the German Mauser M1924, and a considerable improvement over the much older Type 88 in terms of weight and recoil.\n\nFirst produced at the Hanyang arsenal with German tools, manufacturing methods have already spread to Kunming, though it may not fully replace its predecessors for some time."
 YUN_infantry_equipment_2:0 "Tsingtao MP18"
 YUN_infantry_equipment_2_short:0 "Tsingtao MP18"
 YUN_infantry_equipment_2_desc:0 "Thanks to the flood of Weltkrieg surplus into the world market in the early 1920s, the MP18 saw action in China some time before a modified version began production in Tsingtao.\n\nWith changes to the magazine and stock, this particular product of Sino-German cooperation has been copied and sold throughout Northern and Southern China, though primarily to the Qing Government."
-YUN_infantry_equipment_3:0 "Liu Type 2"
-YUN_infantry_equipment_3_short:0 "Liu Type 2"
-YUN_infantry_equipment_3_desc:0 "The General Liu Rifle, originally produced in small quantities in 1916, represented China's first independent foray into modern arms design, but unfortunately never made its way into full-scale production due to the death of its designer.\n\nThe weapon itself was by most accounts impressive for its time, and the superintendant at the Kunming Arsenal has proposed that its design might be updated and issued as the 'Liu Type 2'."
+YUN_infantry_equipment_3:0 "Kunming Xinhai Type 33"
+YUN_infantry_equipment_3_short:0 "Kunming Type 33"
+YUN_infantry_equipment_3_desc:0 "The Type 33 is a semi-automatic rifle based on the General Liu rifle from 1914. While appearing similar, the Type 33 is shorter, has the rear of the receiver covered, and the gas-trap system replaced by a simply gas port. The new rifle is also no longer able to switch to manual action and uses magazines from the Bohemian ZH-29 rifle and ZB-26 light machine gun."
 
 ###
 ### Zambia ###
