@@ -1,5 +1,7 @@
 l_english:
 
+CA_DEM_focus:0 "중앙아메리카 민주주의 중점계릉도"
+
 ### FLAGS ###
 CEN_market_liberal_country_flag:0 "§YThe Democratic Unification Party is in power after elections.§!"
 CEN_social_liberal_country_flag:0 "§YThe Liberal Party is in power after elections.§!"
