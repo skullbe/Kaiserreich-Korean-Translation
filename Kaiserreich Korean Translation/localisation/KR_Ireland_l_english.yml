@@ -1,5 +1,7 @@
 l_english:
 
+ireland_focus:0 "아일랜드 중점계릉도"
+
 ### Parties ###
 IRE_social_democrat_party:0 "신 페인"
 IRE_social_democrat_party_long:0 "신 페인"
@@ -852,7 +854,9 @@ ire.193.b:0 "The enemy of my enemy is not my friend!"
 ire.194.t:0 "캐나다가 우리 요청을 수용!"
 ire.194.d:0 "Canada accepted our request, we will now join the Entente, standing together against the Syndicalists."
 ire.194.a:0 "훌륭하군!"
-#ire.195 removed
+ire.195.t:0 "Canada Refuses Ours Request"
+ire.195.d:0 "Canada has refused our request to join the Entente."
+ire.195.a:0 "Damn!"
 ire.196.t:0 "아일랜드와의 무역관계?"
 ire.196.d:0 "The Irish government has suggested the possibility of opening trade between our two countries, whose relations have been lukewarm due to our Great Depression and Ireland's pro-German alignment."
 ire.196.a:0 "It can't hurt, right?"
@@ -1649,5 +1653,37 @@ IRE_black_monday_5_desc:0 "검은 월요일 위기는 아일랜드에 좋지 않
 
 # Aodh II death
 ire.241.t:0 "이 2세의 붕어"
-ire.241.d:0 "Aodh II, our new high king, has died today. His son Jorge Maria O'Neill shall be coronated under the regnal name of Seorise I."
+ire.241.d:0 "Aodh II, our new high king, has died today. His son Jorge Maria O'Neill shall be crowned under the regal name of Seorise I."
 ire.241.a:0 "언 아르드리 터 머르, 고 마러 언 아르드리(An ard rí ta marbh, go maire an ard rí)!"
+
+#Cosmetic Tags
+GBR_irish_home_rule_totalist:0 "아일랜드 사회주의 공화국"
+GBR_irish_home_rule_totalist_ADJ:0 "아일랜드"
+GBR_irish_home_rule_totalist_DEF:0 "아일랜드 사회주의 공화국"
+GBR_irish_home_rule_syndicalist:0 "아일랜드 사회주의 공화국"
+GBR_irish_home_rule_syndicalist_ADJ:0 "아일랜드"
+GBR_irish_home_rule_syndicalist_DEF:0 "아일랜드 사회주의 공화국"
+GBR_irish_home_rule_radical_socialist:0 "아일랜드 사회주의 공화국"
+GBR_irish_home_rule_radical_socialist_ADJ:0 "아일랜드"
+GBR_irish_home_rule_radical_socialist_DEF:0 "아일랜드 사회주의 공화국"
+GBR_irish_home_rule_social_democrat:0 "아일랜드 자치령"
+GBR_irish_home_rule_social_democrat_ADJ:0 "아일랜드"
+GBR_irish_home_rule_social_democrat_DEF:0 "아일랜드"
+GBR_irish_home_rule_social_liberal:0 "아일랜드 자치령"
+GBR_irish_home_rule_social_liberal_ADJ:0 "아일랜드"
+GBR_irish_home_rule_social_liberal_DEF:0 "아일랜드"
+GBR_irish_home_rule_market_liberal:0 "아일랜드 자치령"
+GBR_irish_home_rule_market_liberal_ADJ:0 "아일랜드"
+GBR_irish_home_rule_market_liberal_DEF:0 "아일랜드"
+GBR_irish_home_rule_social_conservative:0 "아일랜드 자치령"
+GBR_irish_home_rule_social_conservative_ADJ:0 "아일랜드"
+GBR_irish_home_rule_social_conservative_DEF:0 "아일랜드"
+GBR_irish_home_rule_authoritarian_democrat:0 "아일랜드 자치령"
+GBR_irish_home_rule_authoritarian_democrat_ADJ:0 "아일랜드"
+GBR_irish_home_rule_authoritarian_democrat_DEF:0 "아일랜드"
+GBR_irish_home_rule_paternal_autocrat:0 "아일랜드 자치령"
+GBR_irish_home_rule_paternal_autocrat_ADJ:0 "아일랜드"
+GBR_irish_home_rule_paternal_autocrat_DEF:0 "아일랜드"
+GBR_irish_home_rule_national_populist:0 "아일랜드 자치령"
+GBR_irish_home_rule_national_populist_ADJ:0 "아일랜드"
+GBR_irish_home_rule_national_populist_DEF:0 "아일랜드"
