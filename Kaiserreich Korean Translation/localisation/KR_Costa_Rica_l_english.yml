@@ -76,7 +76,7 @@ UFC_Profit_2:0 "§Y과일 회사§!의 이익이 §G2§!만큼 증가합니다\n
 COS_EXPANDING_OPERATIONS:0 "§Y과일 회사§!가 영업을 확장하고 있습니다"
 
 COS_German_Support_tt:0 "§Y커피 회사§!의 영향력이 £coffee_texticon §R8%§! 증가합니다\n"
-COS_ZKG_minus_3:0 "§Y커피 회사§!의 영향력이 £coffee_texticon §R3%§! 감소합니다\n"
+COS_ZKG_minus_3:0 "§Y커피 회사§!의 영향력이 £coffee_texticon §G3%§! 감소합니다\n"
 COS_ZKG_minus_100:0 "§Y커피 회사§!의 영향력이 §G뿌리뽑혔습니다§!\n"
 COS_ZKG_plus_3:0 "§Y커피 회사§!의 영향력이 £coffee_texticon §R3%§! 증가합니다\n"
 COS_ZKG_plus_8:0 "§Y커피 회사§!의 영향력이 £coffee_texticon §R8%§! 증가합니다\n"
