@@ -1,6 +1,6 @@
 l_english:
 
-BAT_focus: "발트 공국 중점계릉도"
+BAT_focus: "발트 공국 중점계통도"
 
 ### Opinions ###
 
@@ -567,7 +567,7 @@ BAT_COL_EST:0 "쿠를란트의 독일인 과반수"
 BAT_autonomy:0 "더 많은 자치를 원함"
 BAT_ghm_flag:0 "독일 장교단"
 BAT_bhm_flag:0 "Ducal Officers"
-BAT_gc_flag:0 "German Conscripts"
+BAT_gc_flag:0 "독일인 징병"
 BAT_bc_flag:0 "Ducal Conscripts"
 
 ### Tooltips ###
