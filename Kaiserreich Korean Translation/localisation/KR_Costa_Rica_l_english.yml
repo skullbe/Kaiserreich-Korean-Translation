@@ -68,8 +68,8 @@ COS_American_Support_tt:0 "§Y과일 회사§!의 영향력이 £banana_texticon
 COS_UFC_plus_1:0 "§Y과일 회사§!의 영향력이 £banana_texticon §R1%§! 증가합니다\n"
 COS_UFC_plus_3:0 "§Y과일 회사§!의 영향력이 £banana_texticon §R3%§! 증가합니다\n"
 COS_UFC_plus_8:0 "§Y과일 회사§!의 영향력이 £banana_texticon §R8%§! 증가합니다\n"
-COS_UFC_minus_3:0 "§Y과일 회사§!의 영향력이 £banana_texticon §R3%§! 감소합니다\n"
-COS_UFC_minus_8:0 "§Y과일 회사§!의 영향력이 £banana_texticon §R8%§! 감소합니다\n"
+COS_UFC_minus_3:0 "§Y과일 회사§!의 영향력이 £banana_texticon §G3%§! 감소합니다\n"
+COS_UFC_minus_8:0 "§Y과일 회사§!의 영향력이 £banana_texticon §G8%§! 감소합니다\n"
 UFC_Profit_1:0 "§Y과일 회사§!의 이익이 §G1§!만큼 증가합니다\n\n§Y과일 회사 이윤§! 변동치 \n소비재 공장: §Y-1%§!로 변화"
 UFC_Profit_2:0 "§Y과일 회사§!의 이익이 §G2§!만큼 증가합니다\n\n§Y과일 회사 이윤§! 변동치 \n소비재 공장: §Y-2%§!로 변화"
 
