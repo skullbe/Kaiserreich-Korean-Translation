@@ -1,5 +1,7 @@
 l_english:
 
+saudi_focus:0 "네지드 중점계통도"
+
 ### Parties ###
 SAU_totalist_party:0 "Alhizb Alshuyueiu Alearab"
 SAU_totalist_party_long:0 "Alhizb Alshuyueiu Alearab"
@@ -32,8 +34,9 @@ SAU_saudi_victory:0 "자발 샴마르가 패배했습니다"
 IKH_revolt:0 "이크완 봉기가 발생합니다"
 IKH_revolt_2:0 "이크완 봉기가 제압되었습니다"
 SAU_ikhwan_provoking:0 "§R이 중점은 이크완 봉기 발생에 원인제공을 할 것입니다.§!"
+SAU_sole_caliphate_is_a_bad_idea:0 "§RClaiming the title of Caliph will likely anger and outrage many of our neighbours, we should be careful about such an act...§!\n"
 
-sau_al_hasa_cut_off:0 "\n§g이것은 §M라쉬드 가문§!이 §Y트루셜 스테이트§!, §Y카타르§! 그리고 §Y바레인§!에서 영향력을 확대하지 못하게 할 것입니다.§!"
+sau_al_hasa_cut_off:0 "\n§g이것은 §M라쉬드 가문§!이 §Y휴전 오만§!, §Y카타르§! 그리고 §Y바레인§!에서 영향력을 확대하지 못하게 할 것입니다.§!"
 sau_already_boosting_support:0 "이미 다른 에미르에게 영향력 행사중"
 UAE_stopped:0 "라쉬드 가문이 트루셜 스테이트에서 우리의 진군을 막다"
 Qatar_stopped:0 "라쉬드 가문이 카타르에서 우리의 진군을 막다"
@@ -279,19 +282,19 @@ SAU_desert_logstics_desc:0 "만약 당신이 길을 모른다면, 사막으로 �
 SAU_war_of_resistance:0 "저항전쟁"
 SAU_war_of_resistance_desc:0 "우리는 제한된 충돌마저도 모든 것을 위험에 빠트리는 총력전의 시대에 살고 있습니다. 당신의 신생 민족은 떠오른 것 만큼이나 빠르게 무너질 수 있으며, 역사의 발 아래 짓밟힐 수 있습니다. 우리는 저항해야 합니다! 아라비아는 영원히 자유로울것입니다!"
 
-
+### Events ###
 
 saud.1.t:0 "네지드 에미르국"
 saud.1.d:0 "벨트크리그는 사우드 가문이 이 땅을 지배할 운명이라는 사실을 보여주는 수많은 징조들 중 하나였습니다. 하심 가문이 최고로 자만에 빠져 있는 동안 그들은 자신을 조종하는 이교도 조종자에게 버림받았고, 투르크인과 그 조종자에게 죽도록 내버려졌습니다. 전쟁에 개입하지 않았던 것은 오스만의 보복을 피하기 위한 신의 한 수였던 것으로 밝혀졌고 지금 퇴폐적인 투르크인들은 우리에게 실질적인 지배력을 행사하지 못하고 있습니다. 이제 우리는 호기를 기다리면서 하심 가문 전사들과 오스만 정부 양쪽 모두에 입에 발린 말을 던지는 라쉬드 가문을 분쇄하기 위한 전사와 자금, 그리고 전문 지식을 모으고 있습니다. 결국은 우리 깃발 아래 아라비아를 하나로 통일할 것입니다!"
 saud.1.a:0 "사우드 왕가 만세!"
 
-saud.3.t:0 "사우디 아라비아"
-saud.3.d:0 "오늘 우리는 라쉬드 가문에 승리를 거두었고, 사우디 가문은 유일한 권력으로 올라섰습니다. 이 승리와 함께 온 아라비아를 지배할 것입니다!"
-saud.3.a:0 "사우드 왕가 만세!"
+saud.2.t:0 "사우디 아라비아"
+saud.2.d:0 "오늘 우리는 라쉬드 가문에 승리를 거두었고, 사우디 가문은 유일한 권력으로 올라섰습니다. 이 승리와 함께 온 아라비아를 지배할 것입니다!"
+saud.2.a:0 "사우드 왕가 만세!"
 
-saud.2.t:0 "술탄께서는 칼리프국과 성지에 대한 통치권을 주장하셨습니다!"
-saud.2.d:0 "엄숙하고 신성한 의식 속에서 아리비아의 사우디 가문 술탄은 그가 이슬람의 새로운 칼리프라고 선언했습니다. 새로 개창된 경건한 왕조가 다시 한번 참된 신자들을 인도할 것입니다."
-saud.2.a:0 "칼리프 만세!"
+saud.3.t:0 "술탄께서는 칼리프국과 성지에 대한 통치권을 주장하셨습니다!"
+saud.3.d:0 "엄숙하고 신성한 의식 속에서 아리비아의 사우디 가문 술탄은 그가 이슬람의 새로운 칼리프라고 선언했습니다. 새로 개창된 경건한 왕조가 다시 한번 참된 신자들을 인도할 것입니다."
+saud.3.a:0 "칼리프 만세!"
 
 ### Reactions to the Caliph Event ###
 
@@ -353,7 +356,7 @@ saud.44.a:0 "잊지 않을 것이다"
 
 saud.45.t:0 "아라비아 술탄이 칼리프를 칭하다"
 saud.45.d:0 "The Sultan of Arabia has declared himself the Caliph of Islam. This is an obvious ploy at power. We should reject his claim, we do not need to recognise the claims."
-saud.45.b:0 "그는 칼리프가 아니다"
+saud.45.a:0 "그는 칼리프가 아니다"
 
 saud.46.t:0 "알바니아가 우리의 주장을 거부하다"
 saud.46.d:0 "We have received news from Albania that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
@@ -364,7 +367,7 @@ saud.47.d:0 "The Sultan of Arabia has declared himself the Caliph of Islam. This
 saud.47.a:0 "그는 칼리프가 아니다"
 
 saud.48.t:0 "러시아 무슬림들이 우리의 주장을 거부하다"
-saud.48.d:0 "We have received news from Yemen that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
+saud.48.d:0 "We have received news from Russia that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
 saud.48.a:0 "잊지 않을 것이다"
 
 saud.49.t:0 "아라비아 술탄이 칼리프를 칭하다"
@@ -425,4 +428,36 @@ saud.151.a:0 "Sufficient is Allah as our ally"
 
 saud.152.t:0 "이크완 반란이 진압되다"
 saud.152.d:0 "이크완은 완전히 패퇴했고, 마지막 패잔병은 포위되었습니다."
-said.152.a:0 "좋아, 귀찮은 일에서 벗어났군!"
+saud.152.a:0 "좋아, 귀찮은 일에서 벗어났군!"
+
+#Cosmetic Tags
+SAU_ARA_national_populist:0 "사우디아라비아"
+SAU_ARA_national_populist_ADJ:0 "사우디"
+SAU_ARA_national_populist_DEF:0 "사우디아라비아"
+SAU_ARA_paternal_autocrat:0 "사우디아라비아"
+SAU_ARA_paternal_autocrat_ADJ:0 "사우디"
+SAU_ARA_paternal_autocrat_DEF:0 "사우디아라비아"
+SAU_ARA_authoritarian_democrat:0 "사우디아라비아"
+SAU_ARA_authoritarian_democrat_ADJ:0 "사우디"
+SAU_ARA_authoritarian_democrat_DEF:0 "사우디아라비아"
+SAU_ARA_social_conservative:0 "사우디아라비아"
+SAU_ARA_social_conservative_ADJ:0 "사우디"
+SAU_ARA_social_conservative_DEF:0 "사우디아라비아"
+SAU_ARA_market_liberal:0 "사우디아라비아"
+SAU_ARA_market_liberal_ADJ:0 "사우디"
+SAU_ARA_market_liberal_DEF:0 "사우디아라비아"
+SAU_ARA_social_liberal:0 "사우디아라비아"
+SAU_ARA_social_liberal_ADJ:0 "사우디"
+SAU_ARA_social_liberal_DEF:0 "사우디아라비아"
+SAU_ARA_social_democrat:0 "사우디아라비아"
+SAU_ARA_social_democrat_ADJ:0 "사우디"
+SAU_ARA_social_democrat_DEF:0 "사우디아라비아"
+SAU_ARA_radical_socialist:0 "아랍 인민 공화국"
+SAU_ARA_radical_socialist_ADJ:0 "붉은 아라비아"
+SAU_ARA_radical_socialist_DEF:0 "아랍 인민 공화국"
+SAU_ARA_syndicalist:0 "아랍 인민 공화국"
+SAU_ARA_syndicalist_ADJ:0 "붉은 아라비아"
+SAU_ARA_syndicalist_DEF:0 "아랍 인민 공화국"
+SAU_ARA_totalist:0 "아랍 인민 공화국"
+SAU_ARA_totalist_ADJ:0 "붉은 아라비아"
+SAU_ARA_totalist_DEF:0 "아랍 인민 공화국"
