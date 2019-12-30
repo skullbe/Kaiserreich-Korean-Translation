@@ -1,11 +1,11 @@
 l_english: 
 
-Brazil_Focus_Democratic:0 "브라질 민주주의 중점계릉도"
-Brazil_Focus_Imperial:0 "브라질 제국 중점계릉도"
-Brazil_Focus_Vargas:0 "브라질 바르가스 중점계릉도"
-Brazil_Focus_Anarchist:0 "브라질 아나키즘 중점계릉도"
-Brazil_Focus_Syndicalist:0 "브라질 생디칼리슴 중점계릉도"
-Brazil_Focus_Totalist:0 "브라질 전체주의 중점계릉도"
+Brazil_Focus_Democratic:0 "브라질 민주주의 중점계통도"
+Brazil_Focus_Imperial:0 "브라질 제국 중점계통도"
+Brazil_Focus_Vargas:0 "브라질 바르가스 중점계통도"
+Brazil_Focus_Anarchist:0 "브라질 아나키즘 중점계통도"
+Brazil_Focus_Syndicalist:0 "브라질 생디칼리슴 중점계통도"
+Brazil_Focus_Totalist:0 "브라질 전체주의 중점계통도"
 
 ### Parties ###
 BRA_social_democrat_party:0 "좌익민주당"
