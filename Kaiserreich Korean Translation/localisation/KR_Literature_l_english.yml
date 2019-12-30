@@ -6,7 +6,7 @@ literature.1.a:0 "Great!"
 
 literature.2.t:0 "어느 시골 사제의 일기 - 조르주 베르나노스의 신작"
 literature.2.d:0 "The history of French literature is unique. It is comprised of centuries of great masterpieces, which deliver to the reader ultimate feelings. The newest book, promoted very hard by the Arts' Highest Bureau, is about a Catholic priest who, after new acts on religion are passed after Second Revolution, comes to a village and tries to spread the word of God. Unfortunately, the government has sent a young syndicalist activist to teach the village about the blessings of Marxism, as well. Soon, a love triangle forms between the priest, the agitator and the daugther of a wealthy Kulak. The story ends on a happy note, as the priest loses his faith and becomes a mechanic, and the agitator and the girl start new happy life together with Marx. Critics from non-syndicalist countries say that this is an utter piece of propaganda and that the story it tells is rubbish, however, the common folk of Syndie France are taking quite a liking to it."
-literature.2.a:0 "I want more!"
+literature.2.a:0 "후속작이 기대되는군!"
 
 literature.3.t:0 "클로드 레비스트로스 - 그를 어떻게 하면 좋을까??"
 literature.3.d:0 "클로드 레비스트로스는 세계적으로 유명한 철학자이자 인류학자, 민족학자입니다. 그는 베두인족에 대 탁월하고 통찰력이 있는 연구를 내놓았습니다. 그 작품은 프랑스 공화국에서 금지되었지만 이탈리아와 오스만 제국으로 밀수되어 번역되었습니다. 젊은 과학자로 엄청난 명성을 얻었지만, 프랑스 공화국 정부는 그를 좋지 않게 보고 있습니다. 친사회주의적 시각이 원인이 되어 그는 반정부적인 문학 작품을 제작한 죄로 1933년부터 1935년까지 2년간 수감되었습니다. 이제 그는 다른 곳으로 이민을 가고 싶어 합니다. 우리 첩보 기관은 그가 프랑스 코뮌으로 뜨고 싶어한다는 의심을 품고 있습니다. 그를 어떻게 대할까요?"
@@ -14,29 +14,21 @@ literature.3.a:0 "종신형에 처하게 한다!"
 literature.3.b:0 "놓아준다. 그는 우리에게 아무것도 하지 않을 것이다!"
 
 literature.4.t:0 "레비스트로스가 풀려나다!"
-literature.4.d:0 "유명한 사회주의 민족학자 레비스트로스가 프랑스 군국주의의 폭정에서 벗어났습니다. 그가 우리 위대한 사회주의 정부에 찬사를 보낼 수 있도록 그를 초대해야만 합니다!"
+literature.4.d:0 "The famous socialist antrophologist Lévi-Strauss is free from militaristic French tyranny. We should invite him so he can live the Communard dream, free from the French reactionaries."
 literature.4.a:0 "초대하라!"
-literature.4.b:0 "We don't need individuals, we are a collective!"
+literature.4.b:0 "우리는 개개인은 필요없다, 우리는 집단주의다!"
 
-literature.5.t:0 "레비스트로스가 프랑스로 돌아가다."
-literature.5.d:0 "금세기 최고의 사상가 중 한 사람이 프랑스 코뮌에서 살기로 결정했습니다. 그를 환영합니다!"
-literature.5.a:0 "Great."
+literature.5.t:0 "레비스트로스가 본국으롣 돌아오다!"
+literature.5.d:0 "One of the greatest minds of this century decided to live in the Commune of France. He stated that the Commune holds legacy of the french fevolutionary ideals and the French state in North Africa is the bastardized version of those ideals. Algiers has lost another great writer."
+literature.5.a:0 "고향에 돌아온 것을 환영하네 동지여!"
 
 literature.6.t:0 "레비스트로스가 프랑스 코뮌으로 가다."
 literature.6.d:0 "The foul rat, Lévi-Strauss, has decided to flee to the Commune of France! We could've imprisoned him, the world would've been better off with one less Marxist."
-literature.6.a:0 "No!"
+literature.6.a:0 "He should've been hanged!"
 
 literature.7.t:0 "레비스트로스가 프랑스 코뮌에서 살기를 거부하다"
 literature.7.d:0 "Lévi-Strauss has refused our invitation, stating that the Commune represents a corrupted version of Marxism mixed with the worst forms of authoritarian government."
-literature.7.a:0 "We will show him who is truly Marxist!"
-
-literature.8.t:0 "레비스트로스가 러시아에서 살기로 하다"
-literature.8.d:0 "Lévi-Strauss has decided to come to Russia. He said in an interview that he enjoys the Russian democracy established by Kerensky and defended by the Great White Generals, and he wishes to stay forever, not returning to France unless she will democratise."
-literature.8.a:0 "Great!"
-
-literature.9.t:0 "레비스트로스가 미국에서 살기로 하다"
-literature.9.d:0 "Lévi-Strauss has decided to come to the USA. He said in an interview that he enjoys the long tradition of American democracy and wishes to stay forever, not returning to France unless she will democratise."
-literature.9.a:0 "Great!"
+literature.7.a:0 "He knows nothing about authoritarianism."
 
 literature.10.t:0 "사르트르가 그의 신작에서 철학적 견해를 드러내다"
 literature.10.d:0 "그의 신작인 '실존주의와 인본주의'에서 사르트르는 실존주의의 원리를 설명합니다. 그에게 중요한 점 중 하나는 사람의 존재가 본질에 앞선다는 것입니다. 이는 간단히 말해 어느 한 사람이 존재한다고 해도 그 사람의 성격이나 인생의 목표 등을 정하는 것이 없다는 것을 의미합니다. 오직 그 사람 자신만이 자신의 본질을 정의할 수 있습니다."
@@ -60,6 +52,14 @@ literature.14.a:0 "This one I will buy."
 
 literature.15.t:0 "푸른 연꽃"
 literature.15.d:0 "The newest comic of Georges Rémi, or Hergé, takes place in the Qing Empire where the reporter Tintin is sent to dismantle drug trafficking. It is known that Hergé was helped in his work by a young student from the legation city of Shanghai named Zhang Chongren who came in Flanders-Wallonia to study fine arts. The expertise of Zhang led to a striking and realistic representation of Chinese society and contributed greatly to the enormous success of the book in the Reichspakt and China. The book criticises the weakness and the corruption of the Qing government as well as the Japanese presence in Manchuria and is as such, banned in both of these countries. Fortunately the Kaiserreich allows free speech, it would have been a shame to miss this work of art!"
-literature.15.a:0 "So exciting!"
+literature.15.a:0 "정말 기대되는군!"
 
 literature.16.d:0 "The newest comic of Georges Rémi, or Hergé, takes place in the Qing Empire where the reporter Tintin is sent to dismantle drug trafficking. It is known that Hergé was helped in his work by a young student from the legation city of Shanghai named Zhang Chongren who came in Flanders-Wallonia to study fine arts. The expertise of Zhang led to a striking and realistic representation of Chinese society and contributed greatly to the enormous success of the book in the Reichspakt and China. The book criticises the weakness and the corruption of the Qing government as well as the Japanese presence in Manchuria and is as such, banned in both of these countries. Fortunately the Kingdom allows free speech, it would have been a shame to miss this work of art!"
+
+literature.17.t:0 "White Sun over China"
+literature.17.d:0 "It has been more than two months since the League of Eight Provinces ceased to exist and war broke out on the shores of the Yangtze River. With chaos reigning in Eastern China, reliable news have been harder to obtain than ever before. Despite the censorship implemented by the warlords and the Qing government, a young journalist made his way with cleverness and courage through the war-torn lands of the former League to the south, to the mountains of the Fujian Base Area of the Koumintang. Edgar Snow, who came to Shanghai in 1928 from the US, works for an English newspaper in the city. His bravery to cross the frontlines and open sympathy to the cause of the KMT has opened his way to interview the leadership of the uprising. Today his hastily printed book, "White Sun over China", hit the stores and found great interest with Western readership. Besides the talks with his interview partners, he paints a vivid  picture of life in the KMT-controlled parts of China, different from warlord rule, but not without strife. His stories, while clearly picking a side, still invoke sympathy for the KMT struggle all over the world, especially in leftist circles. "
+literature.17.a:0 "Quite an adventure."
+
+literature.18.t:0 "White Sun over China" #KMT Version
+literature.18.d:0 "The people in Longyan were suprised when a young American man appeared and walked around the capital of our revolution, asking the locals questions about life here and our struggle.\n\nWhile his inquisitive behavior seemed completely spontaneous and drew a lot of equally curious stares and wild gossip, it was actually the result of the hard work of our publicity department. The foreigner in question is Edgar Snow, an American journalist based in Shanghai, who came to Longyan to be the first Western writer to see our principles in practice first hand. With the help from our experienced scouts, he got safely across the frontlines. He spent his time here doing interviews with leadership figures, including Madame Sun and Wang Jingwei, but also with ordinary soldiers and common people on the streets. He was already quite sympathetic to our cause, and we made sure for him to see that our fight is just.\n\nToday his book hit the stores in the West and is already lauded by some as the scoop of the century. It will surely have a positive effect on our image in the eyes of the people of the world, despite whatever mean-spirited naysayers or apologists of imperialism may crow about bias."
+literature.18.a:0 "We got the message out there."
