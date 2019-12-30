@@ -1,5 +1,7 @@
 l_english:
 
+new_england_focus:0 "뉴잉글랜드 중점계릉도"
+
 ### Parties ###
 NEE_totalist_party:0 "미국 사회당"
 NEE_totalist_party_long:0 "미국 사회당"
@@ -41,9 +43,10 @@ NEE_prop_production_idea:0 "뉴잉글랜드 전복"
 NEE_marine_corps:0 "뉴잉글랜드 해군"
 
 ### Opinion Modifiers ###
-occupied_new_england:0 "외세의 치하에 놓인 뉴잉글랜드"
+occupied_new_england:0 "뉴잉글랜드 합병됨"
 NEE_left_driving:0 "좌파적 성향"
 NEE_right_driving:0 "우파적 성향"
+CAN_royal_visit:0 "왕실 방문"
 
 ### Tooltips ###
 NEE_freedom_fliers_tt:0 "Unlocks £decision_icon_small §HDecisions§! to §YDrop Propaganda§! behind enemy lines\n"
@@ -275,8 +278,8 @@ NEE_Synthetic_Oil_desc:0 "협상국의 끔찍한 연료 비축 상황으로 인�
 NEE_Maine_Steel:0 "메인 주 제철소"
 NEE_Maine_Steel_desc:0 "메인 주에는 귀중한 광물이 잔뜩 매장되어 있습니다. 우리는 새로운 자원 추출 기술을 통해 그것들을 채굴할 수 있게 해야 합니다."
 
-NEE_Minutetank:0 "미너테 전차"
-NEE_Minutetank_desc:0 "전차와 다른 장갑차들은 그들 스스로 전쟁의 미래를 보여주었고 우리의 경쟁력을 유지하기 위해 그들의 발전에 헌신해야 합니다. 미국 혁명의 민병대를 기리기 위해 이 프로젝트는 '미네트뱅크' 라고 명명되었으며, 금속 장비를 능가할 무기를 개발하는 것을 바라고 있습니다."
+NEE_Minutetank:0 "미닛 전차"
+NEE_Minutetank_desc:0 "전차와 다른 장갑차들은 그들 스스로 전쟁의 미래를 보여주었고 우리의 경쟁력을 유지하기 위해 그들의 발전에 헌신해야 합니다. 미국 혁명의 민병대를 기리기 위해 이 프로젝트는 '미닛 전차' 라고 명명되었습니다."
 
 NEE_Settlement_Movement:0 "정착 운동"
 NEE_Settlement_Movement_desc:0 "1920년대 인기였던 정착 운동은 사회의 부자와 거지를 물리적 근접성과 사회적 상호연결로 함께 모으기 위해 노력하는 것 이었습니다. 그것의 주 목적은 가난한 도시 지역에 '정착 노동자들'이 그들의 저소득 이웃들과 지식과 문화를 공유하고 빈곤을 완화하며 살아가기를 바라며 살 수 있는 '정착 주택'을 짓는 것 이었습니다. 이 운동을 다시 시작해야 합니다!"
