@@ -659,11 +659,11 @@ LEP_modern_officer_corps_desc:0 "We have improved the way of thinking of our off
 
 ### Events ###
 lep.1.t:0 "황실의 초석"
-lep.1.d:0 "지난 10년간의 전쟁 속에서 형성된, 북방 원정대의 패배로 현재의 규모까지 확대된 쑨촨팡의 연합은 난징에 있는 그의 거점을 중심으로 한 지방 정부들의 느슨한 연합체입니다. 비록 중앙 정부의 통제에 대한 회원들의 두려움으로 하나로 뭉쳐졌지만, 연합은 그럼에도 불구하고 제국의 초석으로써, 공유된 유산 덕분에 외부로부터의 위협과 내부로부터의 위협으로부터 중국을 지지하고 있습니다.\n\n 이 보잘 것 없는 협정은 수년간의 평화와 비교적인 번영을 가져왔습니다. 외국의 산업 방식은 변혁을 입증했으며, Sun의 군대는 이제 핵심에 독일 훈련을 받고 장비를 갖춘 여러 부서를 포함합니다. 연맹-마샬은 거대한 관료 피라미드 꼭대기에 앉게 되었습니다. 그는 그 바탕에 나타나기 시작한 균열에도 불구하고 그 자리를 지키기에 더없이 기쁩니다. 베이징과 리그의 골칫거리인 남부 멤버들의 압력을 상쇄하기 위해 필요한 독일의 물질 지원은 단독으로 힘의 원천 역할을 하지 못했습니다. 독일 화폐는 연맹의 모든 계층으로 흘러들어와 부패에 대한 이미 뿌리박고 몸에 좋지 않은 취향을 불러일으키고 있으며, 관리들은 횡령에서부터 도난당한 고물 거래에 이르기까지 모든 것을 복잡하게 하고 있습니다.\n\n이것은 점차적으로 국민들의 불만의 불을 지폈고, 점점 더 민족주의적 선동가들에 의해 이용되었고, Komintang의 이해하기 어려운 잔재들에 의해 힘을 얻었습니다. 분열된 리그를 함께 이끌어내기 위한 선 감독의 모든 노력에도 불구하고, 그것은 더 멀리 표류하고 있을지도 모릅니다. 여전히, 이 가정에서의 말다툼은 동쪽에서 크게 비치는 떠오르는 태양에 의해 사라졌습니다. 내부 갈등 외에도, 리그는 이 도전에 직면해야 합니다. 그렇지 않으면 전멸의 위험을 감수해야 합니다.\n\nBriefing은 리그의 특수 역학, 독일과의 관계 및 내부 정치에서 사용할 수 있습니다.
-lep.1.a:0 "Brief me on the Central Government"
-lep.1.b:0 "Brief me on the Germans"
-lep.1.c:0 "Brief me on our internal concerns"
-lep.1.e:0 "The League will endure!"
+lep.1.d:0 "지난 10년간의 전쟁 속에서 형성된, 북방 원정대의 패배로 현재의 규모까지 확대된 쑨촨팡의 연합은 난징에 있는 그의 거점을 중심으로 한 지방 정부들의 느슨한 연합체입니다. 비록 중앙 정부의 통제에 대한 회원들의 두려움으로 하나로 뭉쳐졌지만, 연합은 그럼에도 불구하고 제국의 초석으로써, 공유된 유산 덕분에 외부로부터의 위협과 내부로부터의 위협으로부터 베이징을 지원하고 있습니다.\n\n 이 보잘 것 없는 협정은 수년간의 평화와 비교적인 번영을 가져왔습니다. 외국의 산업 방식은 변혁을 입증했으며, 쑨의 군대는 이제 독일에게 훈련과 장비를 받은 여러 사단을 포함하고 있습니다. 연합의 지도자는 기반에 나타나기 시작한 균열에도 불구하고 그가 유지하기에는 벅찬 관료 피라미드의 위에 앉았고, 그 자리를 지키는 것에 행복해 하고 있습니다. 베이징과 연합의 골칫거리인 남부 회원국들의 압력을 상쇄하기 위해 필요한 독일의 물질적 지원은 단독으로는 힘의 원천적 역할을 하지는 못하였습니다. 독일의 화폐는 연합의 모든 계층으로 흘러들어와 횡령에서부터 도난품 거래에 이르기까지 공무원들과 함께 부패에 뿌리를 내리고 건강을 해치고 있습니다.\n\n이는 점차적으로 국민들의 불만의 불을 지폈고, 점점 많은 민족주의적 선동가들에 의해 이용되어 갔으며, 국민당의 잔당들에 의하여 힘을 얻었습니다. 분열된 연합을 한데 모으려는 쑨 원수의 모든 노력에도 불구하고, 더 멀리 표류해가고만 있을지도 모릅니다. 그럼에도 불구하고, 이 국내에서의 말다툼은 동쪽에서 크게 비치는 떠오르는 태양에 의하여 사라졌습니다. 내부 갈등 외에도, 연합은 이 도전에 직면해야 합니다. 그렇지 않는다면 전멸의 위험을 감수해야만 합니다.\n\n연합의 메커니즘, 독일과의 관계, 내부 정치에 대한 브리핑이 제공될 것입니다."
+lep.1.a:0 "중앙 정부에 대해서 설명해주세요"
+lep.1.b:0 "독일에 대해서 설명해주세요"
+lep.1.c:0 "내부 문제에 대해서 설명해주세요"
+lep.1.e:0 "연합은 견뎌낼 것이다!"
 
 lep.2.t:0 "The Central Government"
 lep.2.d:0 "Together with his old mentor Wu Peifu, Sun Chuanfang stopped the Kuomintang’s Northern Expedition in its tracks, and reversed the Fengtian advance onto the Northern Plain. Together they came to control all of China proper, but the peace that followed soon brought a new dilemma. Would Sun continue to bow to his old master in the North, and could Wu permit his old protege to disregard his authority?\n\nThe years since have seen both Wu's Beijing Government and Sun's League hold to an awkward status-quo, guaranteed by their shared enemies to the north and east; the Fengtian Government and Japan. Sun is free to do as he likes within the League, so long as he holds to ceremony and maintains the appearance of a unified country. Whether this can last remains to be seen."
