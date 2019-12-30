@@ -1,5 +1,7 @@
 l_english:
 
+scandinavia_focus:0 "스칸디나비아 중점계통도"
+
 ### Opinion Modifiers ###
 SCA_nordic_friendship:0 "노르딕 친선"
 SCA_nordic_irredentism:0 "노르딕 실지회복운동"
@@ -408,4 +410,4 @@ SCA_tt_judicial_autonomy:0 "§GThe constituent countries will enjoy full judicia
 SCA_tt_judicial_nordic_powah:0 "§GThe constituent countries' courts of law will be annexed into a joint Nordic court of law and judicial autonomy will be full revoked.§!\n§RThe constituent countries will not be amused.§!"
 SCA_tt_Council_Inaugurated:0 "§GThe federal council is now the de-jure head of state.§!"
 available_designer:0 "다음 설계사를 이용할 수 있습니다: "
-SCA_tt_tech_sharing_increased:0 "§GThe boni of the Scandinavian research group will be further increased.§!"
+SCA_tt_tech_sharing_increased:0 "§GThe bonus of the Scandinavian research group will be further increased.§!"
