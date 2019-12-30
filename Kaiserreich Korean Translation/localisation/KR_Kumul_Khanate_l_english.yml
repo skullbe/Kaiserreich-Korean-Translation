@@ -30,12 +30,12 @@ TAN_bashir_pataut_party:0 "Bashir Clique"
 TAN_bashir_pataut_party_long:0 "Bashir Clique"
 
 ### Ideas ###
-TAN_legacy_masqud:0 "Legacy of Masqud"
-TAN_legacy_masqud2:0 "Legacy of Masqud"
-TAN_legacy_masqud3:0 "Legacy of Masqud"
-TAN_legacy_masqud_desc:0 "Masqud Shah, the previous ruler of the Kumul Khanate, was one of the most autocratic leaders so far in our history. Known for being a constant drunk, raising of the tax and corvée, and complete hate for technology made him highly controversial. This led to the 07' and 12' Uprisings, trying to overthrow him and the khanate itself. Nasīr Shah is now trying to right his father's wrongs in order to get his subjects to approve of his rule, but it will require significant work into the future."
-TAN_legacy_masqud2_desc:0 "Masqud Shah, the previous ruler of the Kumul Khanate, was one of the most autocratic leaders so far in our history. Known for being a constant drunk, raising of the tax and corvée, and complete hate for technology made him highly controversial. This led to the 07' and 12' Uprisings, trying to overthrow him and the khanate itself. Nasīr Shah is now trying to right his father's wrongs in order to get his subjects to approve of his rule, but it will require significant work into the future."
-TAN_legacy_masqud3_desc:0 "Masqud Shah, the previous ruler of the Kumul Khanate, was one of the most autocratic leaders so far in our history. Known for being a constant drunk, raising of the tax and corvée, and complete hate for technology made him highly controversial. This led to the 07' and 12' Uprisings, trying to overthrow him and the khanate itself. Nasīr Shah is now trying to right his father's wrongs in order to get his subjects to approve of his rule, but it will require significant work into the future."
+TAN_legacy_masqud:0 "마스쿠드의 유산"
+TAN_legacy_masqud2:0 "마스쿠드의 유산"
+TAN_legacy_masqud3:0 "마스쿠드의 유산"
+TAN_legacy_masqud_desc:0 "쿠물칸국의 이전 지도자였던 마스쿠드 샤는 우리역사에 있어서 가장 독재적인 지도자중 하나였습니다. 끊임없는 음주, 세금인상과 무거운 부역, 그리고 현대기술에 대한 강한혐오로 널리 알려진 그는 많은 논란을 일으켰습니다. 그러한 전횡은 07'과 12'봉기로 이어졌고, 이들은 마스크드샤와 칸국자체를 전복시켜려 했습니다. 현재 지도자인 나스르 샤는 그의 통치력를 공고히 하기위해 아버지의 잘못들을 바로잡으려고 노력하고 있지만, 앞으로 중대한 과제들을 해결해야만 할 것 입니다. "
+TAN_legacy_masqud2_desc:0 "쿠물칸국의 이전 지도자였던 마스쿠드 샤는 우리역사에 있어서 가장 독재적인 지도자중 하나였습니다. 끊임없는 음주, 세금인상과 무거운 부역, 그리고 현대기술에 대한 강한혐오로 널리 알려진 그는 많은 논란을 일으켰습니다. 그러한 전횡은 07'과 12'봉기로 이어졌고, 이들은 마스크드샤와 칸국자체를 전복시켜려 했습니다. 현재 지도자인 나스르 샤는 그의 통치력를 공고히 하기위해 아버지의 잘못들을 바로잡으려고 노력하고 있지만, 앞으로 중대한 과제들을 해결해야만 할 것 입니다."
+TAN_legacy_masqud3_desc:0 "쿠물칸국의 이전 지도자였던 마스쿠드 샤는 우리역사에 있어서 가장 독재적인 지도자중 하나였습니다. 끊임없는 음주, 세금인상과 무거운 부역, 그리고 현대기술에 대한 강한혐오로 널리 알려진 그는 많은 논란을 일으켰습니다. 그러한 전횡은 07'과 12'봉기로 이어졌고, 이들은 마스크드샤와 칸국자체를 전복시켜려 했습니다. 현재 지도자인 나스르 샤는 그의 통치력를 공고히 하기위해 아버지의 잘못들을 바로잡으려고 노력하고 있지만, 앞으로 중대한 과제들을 해결해야만 할 것 입니다."
 #TAN_yulbars_doctrine:0 "Yulbar's Doctrine"
 TAN_yulbars_doctrine2:0 "Yulbar's Doctrine"
 TAN_reordered_tax:0 "Reordered Tax Code"
@@ -61,8 +61,8 @@ TAN_small_but_strong_idea2:0 "Small but Strong"
 TAN_small_but_strong_idea3:0 "Small but Strong"
 TAN_small_but_strong_idea:0 "Small but Strong"
 
-TAN_keeping_peace:0 "Peace-Keeper of Xinjiang"
-TAN_keeping_peace_desc:0 "The presence of the Kumul Khanate is key to the current stability in Xinjiang that blessed us for over twenty years. Our people see us as a figure of self rule and hope for the future, despite our little political relevance in the grand scheme of the Xinjiang governate."
+TAN_keeping_peace:0 "신장의 평화유지자"
+TAN_keeping_peace_desc:0 "쿠물 칸국의 존재는 현재 20년간 지속된 신장 지역 안정의 열쇠입니다. 우리 국민은 신장의 지배라는 거창한 계획에서 우리의 작은 정치적 영향력에도 불구하고, 스스로 신장 민족 자주국가의 미래라는 희망을 품고있습니다. "
 
 ### Tooltips/Flags ###
 TAN_annexation_flag:0 "The Kumul Khanate has been annexed.\n"
@@ -93,10 +93,10 @@ Kumul_non_khanate:0 "Khanate No More Tree"
 TAN_gifted_melon:0 "Gifted Melon"
 
 ###Decisions###
-TAN_influence_category:0 "Powers in the Khanate"
-TAN_influence_category_desc:0 "There are many groups hungry for power in our land, managing them will be key to ensuring our continued rule.\n\n§YCurrent Han Influence is:§! [?TAN_chinese_influence|B0]§B%§!\n\n§YCurrent Uyghur Influence is:§! [?TAN_turkic_influence|M0]§M%§!\n\n§YCurrent influence of Ma Zhongying is: [?TAN_military_influence|R0]§R%§!"
-TAN_a_gathering_in_kumul_mission:0 "A Gathering in Kumul..."
-TAN_a_gathering_in_kumul_mission_desc:0 "A gathering of influential people in the city of Kumul could spell disaster for our regime..."
+TAN_influence_category:0 "칸국에서의 권력"
+TAN_influence_category_desc:0 "우리 땅에서는 많은 집단들이 권력에 굶주려 있습니다, 그들을 관리하는 것이 우리의 지속적인 통치를 보장하는 열쇠가 될것입니다. \n\n§YCurrent Han Influence is:§! [?TAN_chinese_influence|B0]§B%§!\n\n§YCurrent Uyghur Influence is:§! [?TAN_turkic_influence|M0]§M%§!\n\n§YCurrent influence of Ma Zhongying is: [?TAN_military_influence|R0]§R%§!"
+TAN_a_gathering_in_kumul_mission:0 "쿠물안에서의 집단들..."
+TAN_a_gathering_in_kumul_mission_desc:0 "쿠물 시에서 영향력을 가진 인물들의 모임은 우리의 통치에 재앙이 될 것 입니다..."
 TAN_grant_han_concessions:0 "Grant Han Concessions"
 TAN_continue_secularization:0 "Continue Secularisation"
 TAN_anti_han_rhetoric:0 "Anti-Han Rhetoric"
@@ -112,8 +112,8 @@ TAN_assassinate_sabit_damulla_decision:0 "Assassinate Sabit Damulla"
 TAN_assassinate_sabit_damulla_decision_desc:0 "Sabit Damulla currently leads a coalition of rebel Uygher leaders from south-western Xinjiang. With our enemies in Dihua defeated, we must now look to Kashgar and Hotan."
 
 ### Events ###
-kumul.0.t:0 "The Kumul Khanate"
-kumul.0.d:0 "The Kumul Khanate, directly descended from the Chagatai Khanate, has managed to live throughout the course of the Qing Dynasty, into the Republican Era, and once again back into the Qing's fold. Officially a protectorate of the Qing Empire, Kumul controls the main roadway between Xinjiang and the rest of China. The series of loyal Uyghur Khans pays tribute to both the emperor in Beijing along with the Xinjiang government itself.\n\nThe previous Khan of Kumul, Masqud Shah was known for the most authoritarian rule in the humble Khanate's history yet, leading to two uprisings against him in 1907 and 1912. This hate for the khan carried onto our new ruler, Nasīr Shah, who wishes to have at least minor reforms in the khanate to the insane amounts of tax and the corvée to earn his people's appreciation once again. Whether or not this will work is yet to be seen, as he is still deciding to rely on either the Uyghur nobles known as Begs or his advisory of Kumul loyalist Yulbars Khan and former anti-Kumul revolutionary Hoja-Niyaz.\n\nKumul is seen as the last thing keeping the peace and prosperity within Xinjiang, as even with the various opponents of Nasīr, shows the dream of possible self-rule into the future for the many other Uyghur inhabitants of Xinjiang. Even with our minor size, the effects of our existence ring widely within the rest of Xinjiang as the in-direct peace keepers who prevent mass revolt."
+kumul.0.t:0 "쿠물 칸국"
+kumul.0.d:0 "urse of the Qing Dynasty, into the Republican Era, and once again back into the Qing's fold. Officially a protectorate of the Qing Empire, Kumul controls the main roadway between Xinjiang and the rest of China. The series of loyal Uyghur Khans pays tribute to both the emperor in Beijing along with the Xinjiang government itself.\n\nThe previous Khan of Kumul, Masqud Shah was known for the most authoritarian rule in the humble Khanate's history yet, leading to two uprisings against him in 1907 and 1912. This hate for the khan carried onto our new ruler, Nasīr Shah, who wishes to have at least minor reforms in the khanate to the insane amounts of tax and the corvée to earn his people's appreciation once again. Whether or not this will work is yet to be seen, as he is still deciding to rely on either the Uyghur nobles known as Begs or his advisory of Kumul loyalist Yulbars Khan and former anti-Kumul revolutionary Hoja-Niyaz.\n\nKumul is seen as the last thing keeping the peace and prosperity within Xinjiang, as even with the various opponents of Nasīr, shows the dream of possible self-rule into the future for the many other Uyghur inhabitants of Xinjiang. Even with our minor size, the effects of our existence ring widely within the rest of Xinjiang as the in-direct peace keepers who prevent mass revolt."
 kumul.0.a:0 "Maybe we are important..."
 
 kumul.1.t:0 "Growing Unrest Against Nasīr"
@@ -356,7 +356,7 @@ kumul.112.a:0 "Perfect."
 
 
 ### Focuses ###
-TAN_nasir_reign:0 "Nasīr's Reforms"
+TAN_nasir_reign:0 "나지르의개혁"
 TAN_nasir_reign_desc:0 "The policies of Masqud Shah, that of exorbently high taxes and corvée labor, are so reviled by the people of Kumul that any progress towards ending them will be massively popular."
 
 TAN_working_begs:0 "The 21 Begs"
