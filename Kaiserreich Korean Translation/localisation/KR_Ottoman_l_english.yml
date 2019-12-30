@@ -1,5 +1,7 @@
 l_english:
 
+ottoman_focus:0 "오스만 중점계통도"
+
 ### Opinion Modifiers ###
 ott_jews:0 "유대인 자치권 부여"
 ott_kurd_volunteers:0 "쿠르디스탄 지원"
@@ -56,7 +58,6 @@ OTT_admin_opda_tt:0 "§R우리는 우리 경제를 완전히 장악하기 위해
 OTT_opda_focus_tt:0 "§R만약 우리가 우리 경제를 완전히 장악하려면 우리는 OPDA를 끝내야 합니다.§!\n"
 OTT_creditors_tt:0 "§R우리 채권자들은 동의해야 한다§!\n"
 OTT_turkestan_tt:0 "§R투르케스탄은 우리를 잠재적인 경쟁 상대로 여기며, 우리와의 외교적 관계 진전을 거부할지도 모릅니다.§!\n"
-OTT_NOT_IMPLEMENTED_YET:0 "§Y---이 경로는 아직 구현되지 않았습니다---§!\n"
 OTT_gendarmerie_tt:0 "§G헌병대 개혁§! 반란이 시작되기 전에 반란을 진압하는 데 도움이 될 것입니다.\n"
 camel_corpse:0 "제국 낙타 군단"
 OTT_camel_corpse_effect:0 "활성화 §H제국 낙타 군단§!\n§H기병\n    사막§!\n      공격: §G+15%§!\n      방어: §G+5%§!\n      이동: §G+3%§!\n\n"
@@ -67,8 +68,6 @@ ott_opda_flag_tt:0 " §R우리는 OPDA를 없애고 투자를하기 전에 행�
 ott_politicians_arrested_tt:0 "삭제 §Y정치가§!:\n"
 ott_new_reformers:0 " 새로운 개혁자\n"
 ott_investigation:0 " 수사"
-ott_arbitrary_rulings:0 " 임의의 판결\n"
-OTT_theorists_unlocked_tt:0 "\n§G이론가들 열림§!\n"
 OTT_uzel_unlocked_tt:0 "§G우젤 열림§!\n"
 OTT_sarsilmaz_unlocked_tt:0 "§G살실마즈 열림§!\n"
 OTT_kardemir_unlocked_tt:0 "§G카라뷔크 철강 열림§!\n"
@@ -1413,6 +1412,10 @@ ottaxis.206.t:0 "[From.GetNameDefCap]이(가) 조약을 탈퇴하다"
 ottaxis.206.d:0 "오스만과의 전쟁 결과에 실망을 금할 수 없으며, [From.GetAdjective] 정부는 우리와 동맹을 유지할 더 이상의 목적이 없다고 결정했습니다."
 ottaxis.206.a:0 "알겠다"
 
-ottaxis.300.t:0 "헤디브의 복원"
+ottaxis.300.t:0 "헤디브 복원"
 ottaxis.300.d:0 "영국이 이집트에 간섭하기 시작한 이후로, 이 지역에 대한 우리의 지배력은 약화되기 시작했습니다. 1914년 헤디브의 폐지와 우리 헤디브 압바스 2세의 강제 퇴위는 우리 술탄의 뺨을 때린 것에 불과했고, 세계대전 당시 우리와 영국 그리고 우리를 돕기 위해 아무것도 하지 않은 이집트인들 사이의 큰 불신을 봉합하는 것에 지나지 않았습니다.\n\n그러나 지금은 상황이 바뀌었으며, 푸아드 1세는 압바스 2세를 복위시키고 오스만-이집트 협력의 새로운 시대를 여는 길을 열어주었습니다."
 ottaxis.300.a:0 "이건 술탄 반대자들에게 교훈이 될 것이다" 
+
+#Cosmetic Tags
+OTT_lost_war:0 "터키 임시정부"
+OTT_lost_war_DEF:0 "터키 임시정부"
