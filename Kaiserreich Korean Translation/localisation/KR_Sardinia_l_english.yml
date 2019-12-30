@@ -1,10 +1,12 @@
 l_english:
 
+SRD_focus:0 "샤르데냐 중점계통도"
+
 ### Parties ###
 SRD_totalist_party:0 "전체주의 연맹"
 SRD_totalist_party_long:0 "전체주의 연맹"
-SRD_syndicalist_party:0 "사르데냐 생디칼리즘 조합"
-SRD_syndicalist_party_long:0 "사르데냐 생디칼리즘 조합"
+SRD_syndicalist_party:0 "사르데냐 생디칼리즘 연합"
+SRD_syndicalist_party_long:0 "사르데냐 생디칼리즘 연합"
 SRD_radical_socialist_party:0 "사르데냐 사회당"
 SRD_radical_socialist_party_long:0 "사르데냐 사회당"
 SRD_social_democrat_party:0 "사르데냐 개혁파"
@@ -21,6 +23,7 @@ SRD_paternal_autocrat_party:0 "사보이아-아오스타 가문"
 SRD_paternal_autocrat_party_long:0 "사보이아-아오스타 가문"
 SRD_national_populist_party:0 "포풀루 사르두"
 SRD_national_populist_party_long:0 "포풀루 사르두"
+
 SRD_social_dem_party_long:0 "이탈리아 사회민주당"
 SRD_social_dem_party:0 "이탈리아 사회민주당"
 SRD_social_lib_party_long:0 "입헌민주당"
@@ -29,6 +32,12 @@ SRD_market_lib_party_long:0 "자유연합"
 SRD_market_lib_party:0 "자유연합"
 SRD_social_cons_party_long:0 "기독교 민주주의"
 SRD_social_cons_party:0 "기독교 민주주의"
+SRD_natpop_party:0 "이탈리아 국민주의 협회"
+SRD_natpop_party_long:0 "이탈리아 국민주의 협회"
+SRD_syndic_party:0 "이탈리아 생디칼리스트 연합"
+SRD_syndic_party_long:0 "이탈리아 생디칼리스트 연합"
+SRD_rad_socialist_party:0 "이탈리아 사회주의당"
+SRD_rad_socialist_party_long:0 "이탈리아 사회주의당"
 
 ### Tooltips ###
 SRD_build_after_liberation:0 "피에몬테를 해방시킨후 지을 것입니다.\n\n"
@@ -39,6 +48,7 @@ SRD_loyal_ministers:0 "우리는 국왕 폐하께 유능하고 충성스러운 �
 SRD_italian_free_trade_tooltip:0 "이탈리아 국가간의 무역을 촉진시킵니다"
 SRD_joint_military_tooltip:0 "우리는 이탈리아 연맹 가맹국들과의 군사훈련을 유치할 것입니다."
 SRD_sicgarunit_tt:0 "우리 휘하의 새로운 교황 사단이 사르데냐령 로마에서 소집될 것입니다."
+SRD_control_any_two:0 "Any two of §Y[159.GetName]§!, §Y[160.GetName]§!, §Y[1004.GetName]§!, or §Y[162.GetName]§! are controlled by §Y[Root.GetNameDef]§! or a subject"
 
 ### Flags ###
 SRD_black_monday_hit_sardinia:0 "검은 월요일이 사르데냐를 강타하다"
@@ -49,9 +59,15 @@ SRD_political_decisions:0 "정치적 결정"
 SRD_political_decisions_desc:0 "옛 왕국을 되찾기 위해 우리가 행할 수 있는 많은 정치적 결정들이 있습니다."
 SRD_unite_italy:0 "이탈리아 통일"
 SRD_unite_italy_desc:0 "이탈리아는 이탈리아 내전 중에 분열되었습니다. 그러나 마침내 사보이 가문이 승리를 거듭하면서 다시 이탈리아를 통일하게 되었습니다."
-SRD_reclaim_piedmont:0 "피에몬테 회복"
+SRD_reclaim_piedmont:0 "Restore Order in Piedmont"
 SRD_reclaim_piedmont_desc:0 "오늘날 우리는 피에몬테를 되찾았고 옛 이탈리아 사회주의 공화국의 망할 생디칼리스트들을 제거했습니다. 생디칼리즘 체제를 완전히 붕괴시키는 데는 시간이 걸리겠지만 마침내 우리는 이탈리아 본토로 돌아왔습니다. 국왕 만세!"
 SRD_has_piedmont:0 "§Y사르데냐§!가 피에몬테를 회복하였습니다"
+SRD_attack_sri:0 "Destroy the Socialist Republic"
+SRD_attack_sri_desc:0 "It's time. We need to return to the mainland, destroy the socialists who forced us into exile, and liberate the lands of Piedmont. With the restoration of our lands, we will have a firm base of operations to free the rest of Italy from the unjust rule of the petty warlords that split our great nation!"
+SRD_attack_italy:0 "Attack [From.GetNameDef]"
+SRD_attack_italy_desc:0 "Now that the Kingdom of Italy has been proclaimed, it is time to reunite the country under a single banner - ours."
+SRD_invite_into_kingdom:0 "Invite [From.GetNameDef] into the Kingdom"
+SRD_invite_into_kingdom_desc:0 "It is quite clear by now that we hold the strongest position on the Italian peninsula. With the socialist republic now dealt with, perhaps a peaceful route towards reuniting [Root.GetNameDef] and [From.GetNameDef] is possible."
 
 ### Ideas ###
 SRD_canadian_officers:0 "캐나다 고문단"
@@ -99,7 +115,7 @@ SRD_judicial_reform_desc:0 ""
 SRD_governmental_reform:0 "정부개혁"
 SRD_governmental_reform_desc:0 "Corruption has run rampant in our government ever since we left the continent in shameful exile. If we are ever to return to the mainland and resume our rightful leadership over Italy, in any sort of form, we have to root out problem bureaucrats, nepotistic laws, and antiquated systems."
 SRD_new_constitution:0 "신헌법"
-SRD_new_constitution_desc:0 "Our Rule over Sardinia has been undemocratic and backed with unspoken pledges and hidden loyalties. Amadeo has demanded the formation of a new, free and fair constitution and wishes to rule as a Constitutional Monarch. We shall being preparations straight away."
+SRD_new_constitution_desc:0 "Our Rule over Sardinia has been undemocratic and backed with unspoken pledges and hidden loyalties. Amedeo has demanded the formation of a new, free and fair constitution and wishes to rule as a Constitutional Monarch. We shall being preparations straight away."
 SRD_free_and_fair_elections:0 "자유롭고 공정한 선거"
 SRD_free_and_fair_elections_desc:0 "Anyone and everyone can run for public office in our new Sardinia! We need to make sure that votes are tallied fairly, that voters have access to polling places, and that every citizen feels safe enough to vote, and knows that the ballot will be secret. It will be a lot of work, but for our new democracy to prevail we have to get it done!"
 SRD_strengthen_democracy:0 "민주주의 강화"
@@ -121,8 +137,6 @@ SRD_french_naval_officers:0 "프랑스 해군 장교단 초청"
 SRD_french_naval_officers_desc:0 "우리 해군이 소규모이고 풋사과 수준일지라도 우리는 여전히 해군을 통해 성취해야할 분명한 목표가 있습니다. 프랑스는 상륙작전에 투입시킬 우리 군대에 양질의 훈련을 제공코자 해군 장교단을 기꺼이 파견해주고자 하고 있습니다."
 SRD_military_training:0 "캐나다 장교단"
 SRD_military_training_desc:0 "잠시 동안 캐나다에 머무르는 영국의 진정한 통치자. 우리는 군사훈련을 위해서라면 거리가 멀더라도 대서양 건너의 오랜 우방국인 그들을 찾아가야 합니다. 우리가 수행할 전투환경에 적합하다고는 할 수 없겠지만은 최소한 캐나다는 우리 동맹국 중 최고의 전투력을 가지고 있으며, 우리 섬의 생존을 보장하면서 본토로 돌아갈 채비를 하기 위해 이들과 접촉해야 합니다."
-SRD_destroy_sri:0 "사회주의 공화국 궤멸"
-SRD_destroy_sri_desc:0 "그날이 왔습니다. 우리는 본토로 돌아갈 것입니다. 우리는 우리를 섬으로 쫓아낸 사회주의자들을 무찌를 것입니다. 우리는 피에몬테를 해방할 것입니다. 그렇게만 된다면 우리는 부당한 명분에 입각하여 위대한 이탈리아 왕국을 갈갈이 찢어낸 옹졸한 군벌들로부터 나머지 이탈리아 영토들을 해방할 전초기지를 세울 수 있을 것입니다."
 SRD_kingdom_of_italy:0 "이탈리아 왕국 천명"
 SRD_kingdom_of_italy_desc:0 "이탈리아 반도의 북쪽이 우리의 통제하에 있음에 따라 이제는 모든 이탈리아인이 인정하는 사실을 만천하에 당당히 알릴 때가 왔습니다. 사르데냐야말로 이탈리아 왕국의 계승자이며 영광스러운 왕국의 옛 영토를 회복해야 된다는 사실 말입니다."
 SRD_destroy_roi:0 "공화국 공격"
@@ -269,7 +283,7 @@ SRD_rule_the_skies_desc:0 "We have all the evidence we need to show us how trans
 ### Events ###
 
 srd.0.t:0 "사르데냐 왕국"
-srd.0.d:0 "사르데냐 왕국은 세계대전의 폐허 속에서 태동했습니다. 명목상으로는 이탈리아 연방의 일원인 사르데냐 왕국은 서류상으로는 옛 사르데냐-피에몬테 시절의 영토를 가지고 있지만 본토에서의 내전이 이 모든 것을 바꿔놓았습니다. 현제 피에몬테 및 아오스타 지방을 비롯하여 사보이 가문의 영지에 속한 본토 지역은 이탈리아 사회주의 공화국이 10년 넘게 점거하고 있는 상태입니다.\n\n안그래도 침울한 상태인 국가는 내부 분열 때문에 더 침울해지고 있습니다. 아오스타의 아이모네 공작이었던 아마데오 왕은 고작 5년 전에 선왕이자 부친인 에마누엘레 필레베르토의 왕좌를 물려받게 되었습니다. 절대군주제에 입각하여 그가 휘두른 권력은 많은 입헌군주제 지지자들에게 실망감을 안겨주었습니다. 이런 배경 하에서 절대군주제냐 입헌군주제냐 하는 국가체제에 대한 근본적인 질문이 세계대전 이후로 지금까지 쭉 이 조그만 섬의 국론을 분열시켜 왔으며 현 상태를 계속 유지할 수는 없다는 공감대가 형성되었습니다. 행정부와 사법부는 이미 썩을 대로 썩었기에 모두 개혁이 필요한 상태이며 이를 위해서는 무능한 정치환경의 개선과 사르데냐인의 권리 회복을 필요로 합니다."
+srd.0.d:0 "사르데냐 왕국은 세계대전의 폐허 속에서 태동했습니다. 명목상으로는 이탈리아 연방의 일원인 사르데냐 왕국은 서류상으로는 옛 사르데냐-피에몬테 시절의 영토를 가지고 있지만 본토에서의 내전이 이 모든 것을 바꿔놓았습니다. 현제 피에몬테 및 아오스타 지방을 비롯하여 사보이 가문의 영지에 속한 본토 지역은 이탈리아 사회주의 공화국이 10년 넘게 점거하고 있는 상태입니다. 우리는 1927년에 대영제국이 무너지고 오스트리아가 내부사정으로 인해 이탈리아에서 철수하여 명목상으로는 프랑스 공화국의 괴뢰국이지만 실질적으로는 독립국가가 된 상황입니다.\n\n안그래도 침울한 상태인 국가는 내부 분열 때문에 더 침울해지고 있습니다. 아오스타의 아이모네 공작이었던 아마데오 왕은 고작 5년 전에 선왕이자 부친인 에마누엘레 필레베르토의 왕좌를 물려받게 되었습니다. 절대군주제에 입각하여 그가 휘두른 권력은 많은 입헌군주제 지지자들에게 실망감을 안겨주었습니다. 이런 배경 하에서 절대군주제냐 입헌군주제냐 하는 국가체제에 대한 근본적인 질문이 세계대전 이후로 지금까지 쭉 이 조그만 섬의 국론을 분열시켜 왔으며 현 상태를 계속 유지할 수는 없다는 공감대가 형성되었습니다. 행정부와 사법부는 이미 썩을 대로 썩었기에 모두 개혁이 필요한 상태이며 이를 위해서는 무능한 정치환경의 개선과 사르데냐인의 권리 회복을 필요로 합니다."
 srd.0.a:0 "국왕폐하 만세!"
 
 ### Political Events 1 - 10 ###
@@ -328,50 +342,67 @@ srd.39.t:0 "새로운 땅"
 srd.39.d:0 "It has been some time but we have finally liberated our rightful land. Now that the Kingdom has reclaimed them, we we can feel secure in knowing that they now support us."
 srd.39.a:0 "이탈리아 만세!"
 
-srd.40.t:0 "플로렌스 협약?"
-srd.40.d:0 "The Kingdom of Italy has suggested that we attend a meeting in Florence. It is clear that they wish to seize the Papal States however, as the Pope has recently given up temporal power, and they are seeking a way to resolve differences peacefully. Shall we attend?"
-srd.40.a:0 "플로렌스로 향하자."
-srd.40.b:0 "초대를 거절하자."
-
-srd.41.t:0 "교황이 플로렌스에 도착하다"
-srd.41.d:0 "The pope arrived today in Florence. After attending to mass within San Marco's basilica, the meeting has begun within the old Doge's palace. Let us hope that the Pope is reasonable to our proposal. "
-srd.41.a:0 "거룩함을 맞이하겠습니다"
-
-srd.42.t:0 "교황이 오는 것을 거부하다"
-srd.42.d:0 "교황이 플로렌스에 오는 것을 거부했습니다. 로마로 가는 방법은 이제 전쟁뿐입니다."
-srd.42.a:0 "그렇다면 전쟁이다"
-
-srd.43.t:0 "The Leonine Proposal"
-srd.43.d:0 "A proposal from the Kingdom of Italy has been presented to us, under which the Papal states would be annexed excluding the Leonine City, which would remain completely independent and ruled by the Pope. It also suggests that a number of buildings be granted tax exemption, principally papal estates and monasteries. Moreover, the Kingdom of Italy will pay the Leonine city for the loss in 1870 of territories and property, plus the losses they will incur now."
-srd.43.a:0 "Sign the treaty(game over)"
-srd.43.b:0 "Refuse the treaty"
-
-srd.44.t:0 "교황이 조약에 서명하다"
-srd.44.d:0 "Our entirely reasonable proposal has been accepted by the Pope, under which the Papal states will be annexed excluding the Leonine City, which will remain completely independent and ruled by the Pope. A number of buildings will be granted tax exemption, principally papal estates and monasteries, and we will pay the Leonine city for the loss in 1870 of territories and property, plus the losses incurred by this new agreement."
-srd.44.a:0 "이탈리아의 위대한 날이도다"
-
-srd.45.t:0 "교황이 우리 조약을 거부하다"
-srd.45.d:0 "교황이 우리의 관대한 제안을 거절했습니다. 이제 로마와는 전쟁뿐입니다."
-srd.45.a:0 "그렇다면 전쟁이다"
-
-srd.46.t:0 "교황령이 합병되었습니다"
-srd.46.d:0 "The papal states have recently been annexed by the Kingdom of Italy. This will not stand. The Pope and thus the Papal States were under our protection and influence. There is quite a considerable number of voices within the government demanding that we go to war over this, while others argue that we should bid our time."
-srd.46.a:0 "전쟁이다!"
-srd.46.b:0 "Let us bid our time"
-
-srd.47.t:0 "양시칠리아가 우리를 공격하다"
-srd.47.d:0 "The Kingdom has been attacked by the Kingdom of Two Sicilies. We have apparently tried to destroy His Holiness and steal his home, as well as the core of the Catholic Church. This of course flies in violation of the treaty that we have signed. The Pope to his credit has come out and denounced this attack arguing that Christianity should unite the two Italian countries."
-srd.47.a:0 "망할 시칠리아 놈들"
-
-
-
 ### Kingdom of Sardinia-Piedmont 46 - 55 ###
 
+#Cosmetic Tags
+SRD_ITA_totalist:0 "이탈리아 코뮌"
+SRD_ITA_totalist_ADJ:0 "이탈리아"
+SRD_ITA_totalist_DEF:0 "이탈리아 코뮌"
+SRD_ITA_syndicalist:0 "이탈리아 코뮌"
+SRD_ITA_syndicalist_ADJ:0 "이탈리아"
+SRD_ITA_syndicalist_DEF:0 "이탈리아 코뮌"
+SRD_ITA_radical_socialist:0 "이탈리아 코뮌"
+SRD_ITA_radical_socialist_ADJ:0 "이탈리아"
+SRD_ITA_radical_socialist_DEF:0 "이탈리아 코뮌"
+SRD_ITA_social_democrat:0 "이탈리아 왕국"
+SRD_ITA_social_democrat_ADJ:0 "이탈리아"
+SRD_ITA_social_democrat_DEF:0 "이탈리아 왕국"
+SRD_ITA_social_liberal:0 "이탈리아 왕국"
+SRD_ITA_social_liberal_ADJ:0 "이탈리아"
+SRD_ITA_social_liberal_DEF:0 "이탈리아 왕국"
+SRD_ITA_market_liberal:0 "이탈리아 왕국"
+SRD_ITA_market_liberal_ADJ:0 "이탈리아"
+SRD_ITA_market_liberal_DEF:0 "이탈리아 왕국"
+SRD_ITA_social_conservative:0 "이탈리아 왕국"
+SRD_ITA_social_conservative_ADJ:0 "이탈리아"
+SRD_ITA_social_conservative_DEF:0 "이탈리아 왕국"
+SRD_ITA_authoritarian_democrat:0 "이탈리아 왕국"
+SRD_ITA_authoritarian_democrat_ADJ:0 "이탈리아"
+SRD_ITA_authoritarian_democrat_DEF:0 "이탈리아 왕국"
+SRD_ITA_paternal_autocrat:0 "이탈리아 왕국"
+SRD_ITA_paternal_autocrat_ADJ:0 "이탈리아"
+SRD_ITA_paternal_autocrat_DEF:0 "이탈리아 왕국"
+SRD_ITA_national_populist:0 "이탈리아 왕국"
+SRD_ITA_national_populist_ADJ:0 "이탈리아"
+SRD_ITA_national_populist_DEF:0 "이탈리아 왕국"
 
-
-
-
-
-
-
-
+SRD_piedmont_totalist:0 "샤르데냐 코뮌"
+SRD_piedmont_totalist_ADJ:0 "샤르데냐"
+SRD_piedmont_totalist_DEF:0 "샤르데냐 코뮌"
+SRD_piedmont_syndicalist:0 "이탈리아 코뮌"
+SRD_piedmont_syndicalist_ADJ:0 "샤르데냐"
+SRD_piedmont_syndicalist_DEF:0 "샤르데냐 코뮌"
+SRD_piedmont_radical_socialist:0 "이탈리아 코뮌"
+SRD_piedmont_radical_socialist_ADJ:0 "샤르데냐"
+SRD_piedmont_radical_socialist_DEF:0 "샤르데냐 코뮌"
+SRD_piedmont_social_democrat:0 "샤르데냐-피에몬테"
+SRD_piedmont_social_democrat_ADJ:0 "샤르데냐"
+SRD_piedmont_social_democrat_DEF:0 "샤르데냐-피에몬테"
+SRD_piedmont_social_liberal:0 "샤르데냐-피에몬테"
+SRD_piedmont_social_liberal_ADJ:0 "샤르데냐"
+SRD_piedmont_social_liberal_DEF:0 "샤르데냐-피에몬테"
+SRD_piedmont_market_liberal:0 "샤르데냐-피에몬테"
+SRD_piedmont_market_liberal_ADJ:0 "샤르데냐"
+SRD_piedmont_market_liberal_DEF:0 "샤르데냐-피에몬테"
+SRD_piedmont_social_conservative:0 "샤르데냐-피에몬테"
+SRD_piedmont_social_conservative_ADJ:0 "샤르데냐"
+SRD_piedmont_social_conservative_DEF:0 "샤르데냐-피에몬테"
+SRD_piedmont_authoritarian_democrat:0 "샤르데냐-피에몬테"
+SRD_piedmont_authoritarian_democrat_ADJ:0 "샤르데냐"
+SRD_piedmont_authoritarian_democrat_DEF:0 "샤르데냐-피에몬테"
+SRD_piedmont_paternal_autocrat:0 "샤르데냐-피에몬테"
+SRD_piedmont_paternal_autocrat_ADJ:0 "샤르데냐"
+SRD_piedmont_paternal_autocrat_DEF:0 "샤르데냐-피에몬테"
+SRD_piedmont_national_populist:0 "샤르데냐-피에몬테"
+SRD_piedmont_national_populist_ADJ:0 "샤르데냐"
+SRD_piedmont_national_populist_DEF:0 "샤르데냐-피에몬테"
