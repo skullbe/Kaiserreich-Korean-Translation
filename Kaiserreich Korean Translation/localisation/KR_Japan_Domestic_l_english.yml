@@ -289,15 +289,15 @@ JAP_BUR_TRAN_desc:0 "효율적이고 생산적인 사회로의 추진은 중앙 
 
 ### Focuses - Economic - Colonisation ###
 JAP_INT_KOREA:0 "조선 현대화"
-JAP_INT_KOREA_desc:0 "It may be best not to outright own Chosen but rather rule it as a puppet nation. Through modernising their economy they will become a more useful ally and our economy would surly benefit."
+JAP_INT_KOREA_desc:0 "조선을 직접 지배하는것보다 괴뢰국으로 통치하는것이 더 나을 수 있습니다. 조선의 경제를 현대화한다면 그들은 더 유용한 동맹국이 될 것이고, 우리의 경제에도 이득이 될 것입니다."
 JAP_COL_START:0 "식민지 장려책"
 JAP_COL_START_desc:0 "우리의 러져가는 농산업을 구제하고 경제력을 증강시키기 위해서, 우리는 식민지 건설에 대한 투자가 절실히 필요합니다. 식민지들이 곧 일본의 미래입니다."
 JAP_COL_KOREA:0 "조선 통합"
-JAP_COL_KOREA_desc:0 "The closest colony to the Home Islands, Chosen has long been the aim of economic and cultural assimilation efforts. This are not complete however, and with additional funding and expanded Japanese settlement it will be possible to fully integrate Chosen."
+JAP_COL_KOREA_desc:0 "본토에서 가장 가까운 식민지인 조선의 경제적, 문화적 동화는 오랫동안 우리의 목표였습니다. 이것은 아직도 완료되지 않았지만, 추가 자금 지원과 이주를 통해 조선을 완전히 통합시킬 수 있습니다."
 JAP_COL_TAIWAN:0 "타이완 통합"
-JAP_COL_TAIWAN_desc:0 "Taiwan, the richest and most prosperous colony in the Empire, promises limitless bounty to those that settle there. Long our model colony, it is time to put the final funding in to fully integrate Taiwan into our Empire."
+JAP_COL_TAIWAN_desc:0 "제국에서 가장 부유하고 번영하는 식민지인 타이완 섬은 정착민들에게 무한한 부를 약속합니다. 이제 타이완 섬을 제국에 완전히 통합시키기 위한 최종 투자를 진행할 때가 되었습니다."
 JAP_COL_PORT:0 "관동 통합"
-JAP_COL_PORT_desc:0 "Although the Kwantung Leased Territory was only officially granted to Japan for a period of 99 years, the city of Dairen and its surroundings make an excellent destination for Japanese settlers. The Government has every reason to provide further incentives, increasing emigration."
+JAP_COL_PORT_desc:0 "관동 임차 지역은 공식적으로 99년간 일본에 할양되었지만, 다롄시와 주변지역은 일본인에게 완벽한 정착지입니다. 정부는 지원금을 늘리고 이주를 장려할만한 근거가 있습니다."
 
 ### Focuses - Military - Base ###
 JAP_MIL_start_1:0 "육군의 방향"
@@ -713,7 +713,7 @@ japdom.75.c:0 "반자이!"
 japdom.75.d:0 "반자이 반자이 반자이!"
 
 japdom.235.t:0 "원자력 연구분야의 추가적인 노력"
-japdom.235.d:0 "With our nation's leading scientists toiling away in Tokyo and now Fukushima, and the heavy water trickling in from our facilities in Konan, we are well underway of creating an infrastructure capable of harnessing the power of the atom. The next step would be the construction of an experimental reactor.\n\nHousing this operation at the main RIKEN facilities in Tokyo might seem like the obvious choice, but some voices have argued that our new facility in Fukushima would do better in hiding this operation from our enemies abroad. In either case, utmost secrecy is vital."
+japdom.235.d:0 "우리의 최고 과학자들이 코난 시의 시설에서 생산되는 중수를 활용해 원자의 힘을 활용할 수 있는 기반시설을 도쿄와 후쿠시마에서 작업하고 있습니다. 다음 단계는 실험용 원자로 건설이 될 것입니다. \n\n 도쿄의 주 이화학연구소 시설에 건설하는게 당연한 선택으로 보일 수 있지만, 몇몇 사람들은 후쿠시마의 새 시설을 사용하는게 해외의 적들로부터 숨기는데 더 낫다고 주장합니다. 어느 쪽으로 선택하든 기밀유지는 중요사항이 될 겁니다. "
 japdom.235.a:0 "후쿠시마 시설이 낫겠군."
 japdom.235.b:0 "도쿄가 괜찮을 것이다."
 japdom.235.c:0 "두 번째 의견은 지금 당장엔 가설 수준으로 유지해라."
