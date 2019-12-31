@@ -114,11 +114,11 @@ FNG_mantetsu_profits_modifier:0 "£pol_idea 만철로부터의 이익"
 FNG_mantetsu_profits:0 "만철로부터의 이익"
 FNG_mantetsu_profits_desc:0 "남만주철도주식회사, 흔히 '만철'이라 불리는 이 회사는 러일전쟁 말기에 설립되었습니다. 현재 만철은 만주 전역에 걸쳐 운영되고 있으며, 성장하는 일본 산업과 경제의 핵심부입니다. 만철은 제국의 나머지 식민지에서 산출되는 수익을 전부 합친 것보다 더 많은 총 수익을 일본 정부에 제공하고 있습니다.\n§W--------------\n자원 생산 효율성: [?FNG.JAP_mantetsu_resource_gain|=%+]\n공장 생산량: [?FNG.JAP_mantetsu_factory_output|=%+]§!"
 
-FNG_mantetsu_level_very_high_tooltip:0 "More than §H50%§! support for the §HConcordia Association§!"
-FNG_mantetsu_level_high_tooltip:0 "Between §H30%§! and §H50%§! support for the §HConcordia Association§!"
-FNG_mantetsu_level_medium_tooltip:0 "§H협화회§!의 영향력이 §H20%§! 에서 §H30%§! 사이입니다!"
-FNG_mantetsu_level_low_tooltip:0 "§H협화회§!의 영향력이 §H0%§! 에서 §H20%§! 사이입니다!"
-FNG_mantetsu_level_none_tooltip:0 "§H협화회§!는 붕괴했습니다!"
+FNG_mantetsu_level_very_high_tooltip:0 "§H협화회§!의 영향력이 §H50%§! 이상입니다"
+FNG_mantetsu_level_high_tooltip:0 "§H협화회§!의 영향력이 §H30%§! 에서 §H50%§! 사이입니다"
+FNG_mantetsu_level_medium_tooltip:0 "§H협화회§!의 영향력이 §H20%§! 에서 §H30%§! 사이입니다"
+FNG_mantetsu_level_low_tooltip:0 "§H협화회§!의 영향력이 §H0%§! 에서 §H20%§! 사이입니다"
+FNG_mantetsu_level_none_tooltip:0 "§H협화회§!는 붕괴했습니다"
 
 FNG_disgruntled_soldiers_idea:0 "군 내부의 불만"
 FNG_disgruntled_soldiers_idea_desc:0 "중국에서"
@@ -277,7 +277,7 @@ FNG_cut_aid_to_japan_desc:0 "일본과 한국에서 가뭄이 끝날때까지, �
 
 ### Flags ###
 FNG_incentivized_zaibatsu_arms_manufacture:0 "장려받은 재벌의 무기 생산"
-FNG_occupation_state_modifier:0 "불만있는 병사들Unhappy Soldiers"
+FNG_occupation_state_modifier:0 "불만있는 병사들"
 FNG_QIE_WAR:0 "§H봉천-직예 전쟁§! 이 시작 됐습니다"
 
 japan_equipment_request_active:0 "§Y이미 일본에 장비들을 요청했습니다§!\n"
