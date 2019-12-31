@@ -814,14 +814,14 @@ cos.58.a:0 "팔로 화이트 판결을 수용하자"
 cos.58.b:0 "카이저는 두렵지 않다!" 
  
 ### Other Events ###
-cos.59.t:0 "National Strike"
-cos.59.d:0 "Whilst [COS.GetLeader]'s austerity policy has started to improve economic disaster of last year and new trade agreements with foreign powers have brought in shipments of food for the malnourished population, the continued pressure from the cash crop companies to produce more and more has brought the Costa Rican people once more to the breaking point. Demanding new and better laws have ultimately culminated in the creation of the so-called Collective agreement between the workers and the companies responsible. No response has been granted yet by spokesmen of the companies but many fear that they will once again send in hit squads to pressure the workers into submission."
-cos.59.a:0 "Troubling news"
+cos.59.t:0 "전국적 파업"
+cos.59.d:0 "[COS.GetLeader]의 긴축정책은 작년에 닥쳤던 경제적 재앙을 해결해 나가기 시작했고 해외 강대국들과의 새로운 무역 협정을 통해 영양실조에 처한 사람들을 위해 식량을 운송받았습니다. 하지만 현금작물 기업에게 코스타리카 사람들을 위한 작물을 더 많이 생산하라고 압력을 넣었던 것이 문제가 되어 코스타리카를 다시 한번 한계점에 이르게 했습니다. 새롭고 더 나은 법률을 만들어달라는 요구는 노동자 사용자 간의 소위 집단교섭권을 인정받음으로써 절정에 달했습니다. 회사측 대변인은 아직 아무런 대응을 하고 있지 않지만, 사람들은 사측에서 노동자들을 굴복시키기 위해 용역을 보낼지도 모른다고 우려하고 있습니다."
+cos.59.a:0 "걱정스러운 소식이군"
 
-cos.60.t:0 "Foundation of "Trabaio""
-cos.60.d:0 "Feeling under threat by what they call the "bourgeois press", the Syndicalist party has announced the creation of a new newspaper to distribute their world-views and spread propaganda with. Hoping that through sales and advertising the newspaper will also become a source of income for the struggling party, they have ironically turned their paper in a cacophony of both ads praising the virtues of capitalism and articles harshly criticizing this same practice. How hilarious the situation however may be, [COS.GetLeader] is all but pleased that somebody dares threaten his image and has already announced countermeasures against the newspaper should they continue to protest his regime." 
-cos.60.a:0 "Officially slander the paper and demand they cease printing"
-cos.60.b:0 "Let the hypocrites enjoy their moment of fame!"
+cos.60.t:0 ""Trabaio"지 창간"
+cos.60.d:0 ""부르주아지 언론"에 위협을 느낀 생디칼리즘 정당은 자신들의 관점을 알리는 한편으로 선전물을 배포하기 위한 수단으로 새로운 신문사 창설을 발표했습니다. 그들은 판매고와 광고를 통해 이익을 버는 이 신문사가 경제적 어려움을 겪고 있는 당의 수입원이 되기를 원했습니다. 결국 자본주의적인 미덕을 찬양하는 광고와 자본주의를 신랄하게 비판하는 기사가 내는 불협화음 속에서 신문이 간행되었습니다. 이런 상황이 얼마나 우스꽝스러운지 [COS.GetLeader]는 저들이 감히 자신의 이미지를 훼손하든지 말던지 신경쓰지 않고 이미 발표해둔 언론 대응책을 유지하기로 했습니다. 저들이 통치 기간 내내 항의를 계속할 게 확실한데도 말이죠." 
+cos.60.a:0 "공식적으로 신문을 비난하고 인쇄 중단을 요구해라"
+cos.60.b:0 "위선자놈들이 이 순간을 즐기도록 내비 두자!"
 
 cos.61.t:0 "Signature of the Collective Agreement between Workers"
 cos.61.d:0 "Years have passed since the Great Banana Strike of 1934 but the Costa Rican people have pushed on against the UFC. As the situation in the USA went from bad to catastrophe, the UFC saw that would they not cooperate with the local population their time in the nation may be coming to an end. Finally agreeing on many of the labour concerns pressed by the syndicalist Manuel Mora, the company was backed into a corner whilst the government refused to assist them in the matter.\n\nAchieving minimum wages that would not be given in company coupons, six hour shifts, recognition of injury law and many other concessions, this is a great success for the Costa Rican left and has also led to the creation of the first actual trade unions, expanding where the Atlantic Workers Congress had laid the foundations.\n\nSeeing the writing on the wall, the ZKG has also ratified the new Labour Accord and has expressed their full desire to work with the workers to create a better and safer work environment"
