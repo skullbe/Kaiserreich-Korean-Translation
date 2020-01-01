@@ -1,5 +1,7 @@
 l_english:
 
+TRM_focus:0 "트란스아무르 중점계통도"
+
 ### Events ###
 tram.intro.t:0 "트란스아무르 - 블라디보스토크의 임시 러시아 정부"
 tram.intro.d:0 "민주주의가 오래가지 못하는곳에 위치한 시베리아와 러시아 극동지역은 '체코 군단' 의 부상, 일본의 개입 등으로 러시아 내전 당시 분쟁의 주요 지역이었습니다. 독일군의 압력(그리고 코삭으로부터의 강력한 저항)으로 군대를 철수시키는 동안, 일본인들은 그들의 영향력 확대에 열심이었고, 1922년에 트란스아무르 지역에 독립국가의 설립을 추진하였습니다. 일본에 의한 독립국가의 설립이 경제적인 의존을 형성한다는 사실에도 불구하고도, 이러한 움직임은 블라디보스토크 경제 공동체의 지지를 얻었습니다. 그들의 대다수는 러시아를 괴롭히는 혼란에 더 깊이 빠져들 수 있는 다른 대안과 비교할 때, 동양의 부상하는 세력과의 경제 및 외교 관계구축을 중요한 이점으로 보았습니다. 이 신생 국가는 1925년, 통치권 장악에 실패한 후 러시아를 탈출할 수 밖에 없었던 내전의 백군들 중 하나이자 한때, 자칭 '전 러시아의 최고 지도자'인 콜차크 제독이라는 두드러진 인물을 얻었습니다. \n\n 1936년 트란스아무르 공화국은 기업주의와 군국주의 국가가 되었으며, 정치적, 경제적, 군사적으로 일본 제국의 손아귀에 있었습니다. 그럼에도 불구하고 콜차크는 자신의 야망을 가지고 있습니다. 그는 일본의 위세를 이용해 자신의 지배력을 확립하고, 시베리아를 넘어 러시아 전체를 아우르는 아주 위험한 게임을 할 수 있을까요?"
@@ -403,6 +405,97 @@ tram.132.t:0 "페트로그라드로 수도이전"
 tram.132.d:0 "페트로그라드는 1712년 표트르 1세가 러시아를 세웠을 때부터 러시아의 수도였습니다. 우리 정부가 페트로그라드를 수도로 사용하는 것은 우리 정부가 합법적이라는 의미를 나타내며, 대중이 우리를 합법적인 러시아로 볼 수 있도록 만들 것입니다."
 tram.132.a:0 "러시아여 영원하라, 하나이며 나눠지지 않으리라!"
 
+tram.133.t:0 "What to do with the Don Kuban Union"
+tram.133.d:0 "The Don Kuban Union has been allowed to play at politics for long enough, it is time we demand their integration"
+tram.133.a:0 "Invade!"
+tram.133.b:0 "Demand they surrender!"
+
+tram.134.t:0 "The Russians Come Knocking"
+tram.134.d:0 "The Russian Republic has demanded our immediate surrender. Whilst we could strike them first the Don Kuban Union isn't the most powerful in the word so perhaps it is best we join the republic rather than face the flames war."
+tram.134.a:0 "Who do they think we are, strike now!"
+tram.134.b:0 "We will give up our lands"
+
+tram.135.t:0 "돈쿠반이 투항하다"
+tram.135.d:0 "The Don Kuban Union realised the situation they are in and gave up their lands to the Republic."
+tram.135.a:0 "Glory to Russia"
+
+tram.136.t:0 "Moving into Central Asia"
+tram.136.d:0 "The Alash Order is a vital part of Russia as it allows to project power into the Iranian region and Indian subcontient. Before we can deal with the uses of the land we must first decide our move."
+tram.136.a:0 "Send men in now!"
+tram.136.b:0 "Alash order will see reason?"
+
+tram.137.t:0 "Russia Makes her Move"
+tram.137.d:0 "Russia has sent an ultimatum demanding our surrender. Most officals have come to the conclusion that are countries exsistence is all but over and have fled the region. We must now decide whether to make a stand and prove the officals wrong or give into the Republic."
+tram.137.a:0 "There is one thing we can do..."
+tram.137.b:0 "This is the end of libery in the region, give in"
+
+tram.138.t:0 "알라시가 투항하다"
+tram.138.d:0 "The vital lands of Alash are at last ours, we will now work on securing the other half of the region that the turks unlawfully occupy."
+tram.138.a:0 "Glory to Russia"
+
+tram.139.t:0 "백러시아 침공"
+tram.139.d:0 "The lands of White Russia are our rightful lands which were stolen from us by the Germans in the Weltkrieg. Well no longer shall they be in the Kaiser's grasp, we will take it through diplomacy or force. "
+tram.139.a:0 "Send in the men!"
+tram.139.b:0 "Demand the land outright"
+
+tram.140.t:0 "Russia Demands our submission"
+tram.140.d:0 "The newly created Republic has come demanding we join the Republic, what do we say to this ultimatum"
+tram.140.a:0 "We are German..."
+tram.140.b:0 "Of course we are Russian!"
+
+tram.141.t:0 "White Russia is ours"
+tram.141.d:0 "Another region is a last ours, our Republic will soon have all the former lands of the state"
+tram.141.a:0 "Glory to Russia"
+
+tram.142.t:0 "Resolving the Ukrainian Problem"
+tram.142.d:0 "The lands of Ukraine are our rightful lands which were taken from us after the October Revoloution. Well no longer shall they be in the Kaiser's grasp, we will take it through diplomacy or force."
+tram.142.a:0 "Send in the men!"
+tram.142.b:0 "Demand the lamd outright"
+
+tram.143.t:0 "Russia Demands our submission"
+tram.143.d:0 "The newly created Republic has come demanding we join the Republic, what do we say to this ultimatum"
+tram.143.a:0 "The Kaiser would not be happy if we accepted"
+tram.143.b:0 "We truly belong with Russia"
+
+tram.144.t:0 "Ukraine is Ours"
+tram.144.d:0 "Another region is a last ours, our Republic will soon have all the former lands of the state"
+tram.144.a:0 "Glory to Russia"
+
+tram.145.t:0 "A Changing Attitude"
+tram.145.d:0 "Most people in Russia are tired of the constant wars and wish to and end of the figthing. With the recent victory of our regime we can deliver peace and prosperity to the poeple who have suffered for so long."
+tram.145.a:0 "Russia must never fight herself again"
+
+tram.146.t:0 "Sevastapol is Russian"
+tram.146.d:0 "We now hold Crimea and it is up to us to decide what to do with the Ukrainian Navy docked in Sevastapol"
+tram.146.a:0 "We shall seize and convert all of the ships in the harbour!"
+tram.146.b:0 "We shall upgrade the Ukrainian ships."
+tram.146.c:0 "Sell off Ukraine's navy and convert the harbour for civilian purposes."
+tram.146.e:0 "Sell off Ukraine's navy and keep the money."
+
+tram.1000.t:0 "An Offer from an Old Ally?"
+tram.1000.d:0 "The rump state of Vladivostok actually won and now a government has been established to rule over Russia. Since we provided some aid in their bleak situation they have offered their assistance in the Entente."
+tram.1000.a:0 "Their aid is vital, let them in!"
+tram.1000.b:0 "Didn't they lose last time?"
+
+tram.1001.t:0 "We Are Now a Member of the Entente"
+tram.1001.d:0 "The British have decided to let us back into the Entente"
+tram.1001.a:0 "We will avenge the fallen men from the first Weltkrieg"
+
+tram.1002.t:0 "An Offer from an Old Ally?"
+tram.1002.d:0 "The rump state of Vladivostok actually won and now a government has been established to rule over Russia. Since we provided some aid in their bleak situation they have offered their assistance in the Entente."
+tram.1002.a:0 "Their aid is vital, let them in!"
+tram.1002.b:0 "Didn't they lose last time?"
+
+tram.1003.t:0 "We Are Now a Member of the Entente"
+tram.1003.d:0 "The British have decided to let us back into the Entente"
+tram.1003.a:0 "We will avenge the fallen men from the first Weltkrieg"
+
+tram.1004.t:0 "The Russian Republic has Taken one of our Client States"
+tram.1004.d:0 "Russia has recently come out of a huge civil war where Transamur of all nations came out on top. This regime thinks that since it took all of Russia it can take our puppets, what should we do towards these traitors."
+tram.1004.a:0 "We can't do anything about it"
+tram.1004.b:0 "We will at least embargo them!"
+tram.1004.c:0 "We can beat them again"
+
 ### Parties ###
 TRM_totalist_party:0 "극동 전체주의당"
 TRM_totalist_party_long:0 "극동 전체주의당"
@@ -422,12 +515,14 @@ TRM_authoritarian_democrat_party:0 "대표단"
 TRM_authoritarian_democrat_party_long:0 "대표단"
 TRM_paternal_autocrat_party:0 "군정"
 TRM_paternal_autocrat_party_long:0 "군정"
-TRM_national_populist_party:0 "왕정복고 리그"
-TRM_national_populist_party_long:0 "왕정복고 리그"
+TRM_national_populist_party:0 "왕정복고 위원회"
+TRM_national_populist_party_long:0 "왕정복고 위원회"
 
 ### Ideas ###
 TRM_dream:0 "더 커진 트란스아무르의 야망"
 TRM_dream_desc:0 "1925년 이래로 케렌스키 내각의 추잡한 반역자들에 의해 축출된 트란스아무르 정부는 러시아의 정당한 정부라고 주장하고 있습니다. 비록 이 나라의 상태가 좋진 않지만, 이 나라의 지도층은 언젠가 트란스아무르가 주요 강대국이 될 것이라는 희망을 가지고 있습니다."
+TRM_dream_fulfilled:0 "러시아 재통일"
+TRM_dream_fulfilled_desc:0 "At last none can dispute our claim to be the legitimate Russian state, with the destruction of both the Soviet and Petrograd regimes our ambitions have finally been met. Now that we are in a position of power we can work on improving the country internally."
 TRM_kolchak:0 "제독과 독재자"
 TRM_kolchak_desc:0 "콜차크는 러시아 제국의 전 해군 제독으로서, 특히 전 세계의 해군력과 기술의 발전에 주목했습니다. 군함에 대한 그의 개인적인 지식은 해군 연구에 있어서 유리하게 작용할 것입니다."
 TRM_JAP_MIL_MIS:0 "일본 육군 고문단"
@@ -530,7 +625,7 @@ TRM_Ind_Okh_desc:0 "오호츠크 항구는 예전 주인들의 이용이 적어�
 TRM_Ind_Bai:0 "바이칼호 산업시설 확장"
 TRM_Ind_Bai_desc:0 "우리는 매우 발전된 산업 지역인 이르쿠츠크를 손에 넣었습니다. 이미 산업적 잠재력이 충부하지만, 일부 설비를 새로 열면 더욱 발전시킬 수 있습니다."
 
-TRM_Ind_Mon:0 "전 몽골영토 개발"
+TRM_Ind_Mon:0 "치타 개발"
 TRM_Ind_Mon_desc:0 "이 땅들은 수십 년 동안 야만적인 몽골에 의해 약탈당한 후 매우 열악한 상태가 되었습니다. 이 지역을 재건하는 데는 오랜 시간이 걸리겠지만, 어쨌거나 이제 재건을 시작할 수 있습니다."
 
 TRM_Ind_Transsib_exp:0 "공급망 개선"
@@ -541,6 +636,33 @@ TRM_Ind_West_Sib_desc:0 "서부 시베리아는 페트로그라드의 배신자�
 
 TRM_Ind_Research:0 "시베리아의 과학자들"
 TRM_Ind_Research_desc:0 " 최근 우리의 정복 활동으로 많은 지식인들을 우리의 과학시설로 데려올 수 있었습니다. 우리는 그들을 과학적 노력의 실질적인 능력향상을 위해 사용할 수 있습니다."
+
+TRM_Reclaim_Industry:0 "산업력 재확보"
+TRM_Reclaim_Industry_desc:0 "We are finally expanding into our rightful land, to take advantage of our expansion we must build up the areas that come into our control."
+
+TRM_Ind_Russia:0 "러시아 산업화"
+TRM_Ind_Russia_desc:0 "With all of Russia under our rule we can work on recovering from the terrible civil war. This will include territories we may have to go to war to acquire!"
+
+TRM_Ind_WHR:0 "백러시아 개발"
+TRM_Ind_WHR_desc:0 "The region of White Russia is one that hasn't seen too much development in recent years and so we must work on improving the area."
+
+TRM_Ind_Ukraine:0 "우크라이나 해군과의 거래"
+TRM_Ind_Ukraine_desc:0 "Sevastapol has a large fleet and so we can decide what to do with it whether that be repurposing it or selling it off for income."
+
+TRM_Ind_CA:0 "중앙 아시아 산업화"
+TRM_Ind_CA_desc:0 "Central Asia is an excellent place to build up some industry as it lacks compared to other areas of the state, let us build up the region."
+
+TRM_Ind_Caucasus:0 "코카서스 개발"
+TRM_Ind_Caucasus_desc:0 "The lands of the caucasus are rich with oil which is why Germany wanted to have a tight grip on the area. With the region under our control we can improve the industry for the people who have long suffered."
+
+TRM_Ind_POL:0 "폴란드인 유화책"
+TRM_Ind_POL_desc:0 "The Poles are a rebellious people and therefore must be tamed rather thank crushed. We can extend our industrial project to the region to give them the aid they desire."
+
+TRM_Ind_BLT:0 "발트 확장"
+TRM_Ind_BLT_desc:0 "The baltic states are back our control, should we continue Russification but instead develop the industry in the region so they are satisfied with our rule."
+
+TRM_Ind_Research_2:0 "신무기"
+TRM_Ind_Research_2_desc:0 "With the Capital retaken scientists are contributing to our research therefore giving us an edge over our rivals. Also with the industrialisation campaign over more scientists in the newly conquered regions are also contributing. This combination has helped us consider new possibilities of weapons to use in war."
 
 TRM_Trade_Jap:0 "일본과의 무역 관계를 개선"
 TRM_Trade_Jap_desc:0 "우리는 일본을 멀리할 수도 있지만 장님들조차도 우리가 그들의 경제에 의존하고 있다는 것을 압니다. 일본 제국과의 무역 관계를 개선하는 것이 현명한 일일 것입니다."
@@ -716,17 +838,50 @@ TRM_Leave_Japan_desc:0 "우리가 우리의 야망을 성취했으므로, 우리
 TRM_Become_Russia:0 "새로운 러시아"
 TRM_Become_Russia_desc:0 "전쟁은 끝났습니다. 이제는 새롭고 더 강력한 러시아가 생겨날 때입니다. 더 이상 반역자도, 볼셰비키도, 일본 제국주의자도 없습니다. 우리는 러시아입니다!"
 
+TRM_Reclaim_Lands:0 "우리의 영토 재주장"
+TRM_Reclaim_Lands_desc:0 "Now that we are Russia we must collect our former land from the tyrants that rule in central Europe"
+
 TRM_Attack_CA:0 "중앙 아시아 영유권 재주장"
 TRM_Attack_CA_desc:0 "러시아 전체가 지금 우리의 통제하에 있습니다. 이제는 다른 국가들로부터 중앙아시아에 있는 우리의 땅을 되찾을 때입니다."
+TRM_Demand_ALO:0 "카자흐스탄 확보"
+TRM_Demand_ALO_desc:0 "Kazakhstan is vast and wealthy. Once brought into the fold we can look even further south, to Turkestan."
+TRM_Invade_Turkestan:0 "투르케스탄 확보"
+TRM_Invade_Turkestan_desc:0 "Turkestan is not particularly wealthy or even populous. But soon enough, it will be ours, and it will serve excellently as a bridgehead to the wealthy Persian and Indian provinces, should we need it."
 
 TRM_Attack_Caucasus:0 "코카서스 영유권 재주장"
 TRM_Attack_Caucasus_desc:0 "러시아 전체가 지금 우리의 통제하에 있습니다. 이제는 다른 국가들로부터 코카서스에 있는 우리의 땅을 되찾을 때입니다."
+TRM_Demand_DKB:0 "돈-쿠반 연합 문제"
+TRM_Demand_DKB_desc:0 "The Don-Kuban region is as Russian as Russia, or so our military staff claims. They also claim that while the Cossacks who reside there are hard men, they aren't hard enough to fight from horse-back against our modern, unstoppable armies."
+TRM_Invade_Azerbaijan:0 "바쿠 유전"
+TRM_Invade_Azerbaijan_desc:0 "For a long time, we have been reliant on expensive oil imports to keep our war-machine running. All in between us and a self-sufficient economy is a small, weak, state of Azerbaijan."
+TRM_Invade_Georgia:0 "조지아 문제"
+TRM_Invade_Georgia_desc:0 "While Georgia is not large, wealthy nor pose any threat to our state... It is a matter of principle. This is land stolen from us during the Weltkrieg. Soon it will be back in the fold, with the rest of them."
+TRM_Invade_Armenia:0 "아르메니아의 지위"
+TRM_Invade_Armenia_desc:0 "The Armenian people share our faith and will only be happy to return to us. No?"
 
 TRM_Attack_Europe:0 "동유럽 영유권 재주장"
 TRM_Attack_Europe_desc:0 "러시아 전체가 지금 우리의 통제하에 있습니다. 이제는 다른 국가들로부터 동유럽에 있는 우리의 땅을 되찾을 때입니다."
+TRM_Invade_Finland:0 "핀란드를 굴복시켜라"
+TRM_Invade_Finland_desc:0 "Finland and their false King has mocked Russia for long enough. It's time we send Russian troops to Helsinki once again."
+TRM_Invade_WHR:0 "백러시아 침공"
+TRM_Invade_WHR_desc:0 "The breakway state commonly called White Russia was claimed during the partitions of old, only to be taken by the Kaiser. We will not lose our lands this time!"
+TRM_Invade_Ukraine:0 "우크라이나 문제 해결"
+TRM_Invade_Ukraine_desc:0 "Powerful German armies had been protecting Ukraine from annexation since the October revolution however now that we are back in power our chance to reunite Ukraine with Russia is now."
+TRM_End_Germany:0 "제국을 끝장낼 시간이다"
+TRM_End_Germany_desc:0 "The losses at the peace treaty of Brest-Litovsk are too great to count. It's time we return Russia to the glory we held prior to the Weltkrieg!"
+TRM_join_entente:0 "협상국 가입"
+TRM_join_entente_desc:0 "During the Weltkrieg we stood beside Great Britain and France against the Germanic Huns and their allies. Now that we are back in power they will surely be willing to help us, after all Kolchak was a good friend of George V"
+TRM_on_our_own:0 "자생"
+TRM_on_our_own_desc:0 "Russia should not be a lapdog to any other nation. It's time we form our own alliance and no longer dance to the pipe of others!"
 
-TRM_sov:0 "붉은 군대가 러시아 극동 지역을 통제하기에 그들은 약합니다. 우리가 합병해야 합니다.\n"
-TRM_change:0 "트란스아무르는 1925년부터 러시아 정권을 공식적으로 대체하기 위해 노력해온 궁극적인 목표를 달성할 것입니다.\n"
+### Tooltips ###
+TRM_sov:0 "§RThe Reds haven't had time to consolidate their rule and are too weak to control the Russian Far East, we shall annex it.§!\n"
+TRM_rus:0 "§RThe Petrograd regime has been to weak too assert direct control past lake Baikal for a while now but with the political chaos in Russia we can make our move.§!\n"
+TRM_reclaim_industry:0 "§MThis will unlock if we decide to take a stand against the Petrograd regime.§!\n"
+TRM_ind_russia:0 "§MNow that Russia is under our control we can now invest in improving the underdeveloped areas of our country.§!\n"
+TRM_change:0 "§M트란스아무르는 1925년부터 러시아 정권을 공식적으로 대체하기 위해 노력해온 궁극적인 목표를 달성할 것입니다.§!\n"
+TRM_expansion:0 "§MNow that our government has been established we will look for new targets.\n"
+TRM_demand_warning:0 "§RIf they refuse we will be forced to declare war!§!"
 TRM_Kolchak_hog_tooltip:0 "알렉산드르 콜차크는 그레고리 세묘노프를 대신하여 정부 수반이 될 것입니다.\n"
 TRM_agitation_tooltip:0 "노력의 결과는 다양하게 나타나며, 반드시 성공을 보장 하지는 않습니다.\n"
 
@@ -742,7 +897,11 @@ TRM_capital_nov:0 "노보시비르스크가 현재 수도"
 TRM_capital_mos:0 "모스크바가 현재 수도"
 TRM_capital_stp:0 "페트로그라드가 현재 수도"
 TRM_move_capital:0 "블라디보스토크에서 수도를 이전함"
-TRM_militia_raised:0 "군대가 육성됨"
+TRM_militia_raised:0 "군대가 증원됨"
+TRM_entente_full_support:0 "The Entente has given their full support."
+TRM_entente_partial_support:0 "The Entente has only given partial support."
+TRM_become_russia:0 "A New Russia"
+TRM_Coring_State:0 "Already working on coring an area/region"
 
 ### Opinion Modifiers ###
 FNG_TRM_CUR1:0 "트란스아무르와 통화 거래"
@@ -782,3 +941,102 @@ TRM_relocate_capital_3_desc:0 "모스크바는 이제 우리나라의 영구적�
 
 TRM_relocate_capital_4:0 "페트로그라드를 수도로 결정"
 TRM_relocate_capital_4_desc:0 "페트로그라드는 이제 우리나라의 영구적인 수도가 될 것입니다"
+
+TRM_russian_integaration:0 "러시아 재통합"
+TRM_russian_integaration_desc:0 "With our expansion into our former lands we will need to remember to reintegrate the territories so we can administrate them more efficently. It will cost a substantial amount of§Y Time §!and§Y Political Power §!to carry out this process however."
+
+TRM_integrate_baikal:0 "바이칼 지역 통합"
+TRM_integrate_baikal_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+TRM_integrate_railway:0 "시베이아 횡단 철도 통합"
+TRM_integrate_railway_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+TRM_integrate_siberia:0 "시베리아 지역 통합"
+TRM_integrate_siberia_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+TRM_integrate_alash:0 "카자흐스탄 지역 통합"
+TRM_integrate_alash_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+TRM_integrate_turkestan:0 "투르케스탄 지역 통합"
+TRM_integrate_turkestan_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+TRM_integrate_don_kuban:0 "돈쿠반 지역 통합"
+TRM_integrate_don_kuban_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+TRM_integrate_caucasus:0 "코카서스 지역 통합"
+TRM_integrate_caucasus_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+TRM_integrate_finland:0 "구 핀란드 영토 통합"
+TRM_integrate_finland_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+TRM_integrate_ubd:0 "에스토니아와 라트비아 통합"
+TRM_iintegrate_ubd_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+TRM_integrate_white_russia:0 "백러시아 지역 통합"
+TRM_integrate_white_russia_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+TRM_integrate_ukraine:0 "우크라이나 지역 통합"
+TRM_integrate_ukraine_desc:0 "다음 지역을 핵심 주로 갖습니다:"
+
+#Cosmetic Tags
+TRM_FE_totalist:0 "극동 연방"
+TRM_FE_totalist_ADJ:0 "극동"
+TRM_FE_totalist_DEF:0 "극동 연방"
+TRM_FE_radical_socialist:0 "극동 연방"
+TRM_FE_radical_socialist_ADJ:0 "극동"
+TRM_FE_radical_socialist_DEF:0 "극동 연방"
+TRM_FE_syndicalist:0 "극동 연방"
+TRM_FE_syndicalist_ADJ:0 "극동"
+TRM_FE_syndicalist_DEF:0 "극동 연방"
+TRM_FE_social_democrat:0 "극동 공화국"
+TRM_FE_social_democrat_ADJ:0 "극동"
+TRM_FE_social_democrat_DEF:0 "극동 공화국"
+TRM_FE_social_liberal:0 "극동 공화국"
+TRM_FE_social_liberal_ADJ:0 "극동"
+TRM_FE_social_liberal_DEF:0 "극동 공화국"
+TRM_FE_market_liberal:0 "극동 공화국"
+TRM_FE_market_liberal_ADJ:0 "극동"
+TRM_FE_market_liberal_DEF:0 "극동 공화국"
+TRM_FE_social_conservative:0 "극동 공화국"
+TRM_FE_social_conservative_ADJ:0 "극동"
+TRM_FE_social_conservative_DEF:0 "극동 공화국"
+TRM_FE_authoritarian_democrat:0 "러시아 극동 공화국"
+TRM_FE_authoritarian_democrat_ADJ:0 "극동"
+TRM_FE_authoritarian_democrat_DEF:0 "러시아 극동 공화국"
+TRM_FE_paternal_autocrat:0 "러시아 극동 공화국"
+TRM_FE_paternal_autocrat_ADJ:0 "극동"
+TRM_FE_paternal_autocrat_DEF:0 "러시아 극동 공화국"
+TRM_FE_national_populist:0 "러시아 극동 공화국"
+TRM_FE_national_populist_ADJ:0 "극동"
+TRM_FE_national_populist_DEF:0 "러시아 극동 공화국"
+
+TRM_RUS_totalist:0 "러시아 공화국"
+TRM_RUS_totalist_ADJ:0 "러시아"
+TRM_RUS_totalist_DEF:0 "러시아 공화국"
+TRM_RUS_syndicalist:0 "러시아 공화국"
+TRM_RUS_syndicalist_ADJ:0 "러시아"
+TRM_RUS_syndicalist_DEF:0 "러시아 공화국"
+TRM_RUS_radical_socialist:0 "러시아 공화국"
+TRM_RUS_radical_socialist_ADJ:0 "러시아"
+TRM_RUS_radical_socialist_DEF:0 "러시아 공화국"
+TRM_RUS_social_democrat:0 "러시아 공화국"
+TRM_RUS_social_democrat_ADJ:0 "러시아"
+TRM_RUS_social_democrat_DEF:0 "러시아 공화국"
+TRM_RUS_social_liberal:0 "러시아 공화국"
+TRM_RUS_social_liberal_ADJ:0 "러시아"
+TRM_RUS_social_liberal_DEF:0 "러시아 공화국"
+TRM_RUS_market_liberal:0 "러시아 공화국"
+TRM_RUS_market_liberal_ADJ:0 "러시아"
+TRM_RUS_market_liberal_DEF:0 "러시아 공화국"
+TRM_RUS_social_conservative:0 "러시아 공화국"
+TRM_RUS_social_conservative_ADJ:0 "러시아"
+TRM_RUS_social_conservative_DEF:0 "러시아 공화국"
+TRM_RUS_authoritarian_democrat:0 "러시아 공화국"
+TRM_RUS_authoritarian_democrat_ADJ:0 "러시아"
+TRM_RUS_authoritarian_democrat_DEF:0 "러시아 공화국"
+TRM_RUS_paternal_autocrat:0 "러시아 공화국"
+TRM_RUS_paternal_autocrat_ADJ:0 "러시아"
+TRM_RUS_paternal_autocrat_DEF:0 "러시아 공화국"
+TRM_RUS_national_populist:0 "러시아 공화국"
+TRM_RUS_national_populist_ADJ:0 "러시아"
+TRM_RUS_national_populist_DEF:0 "러시아 공화국"
