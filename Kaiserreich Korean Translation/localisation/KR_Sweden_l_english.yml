@@ -1,5 +1,7 @@
 l_english:
 
+sweden_focus:0 "스웨덴 중점계통도"
+
 ### Flags ###
 SWE_flag_black_monday:0 "검은 월요일"
 SWE_flag_navy_victory:0 "스웨덴 해군 중점"
@@ -893,37 +895,37 @@ swe.102.a:0 "킬봄이 총비서로 선출되었다."
 swe.102.b:0 "세버린이 총비서로 선출되었다."
 swe.102.c:0 "의회가 총비서 직책을 폐지했다."
 
-swe.103.t:0 "한 시대의 끝" #Linderot rebuffed or recall vote failed#
+swe.103.t:0 "한 시대의 끝" #Linderot rebuffed or recall vote failed
 swe.103.d:0 "오늘 스웨덴 초대 총서기에게 두번째 심장마비가 닥쳤습니다. 41년 1월과 달리 오늘은 그다지 운이 좋지 않았고, 총서기는 서거했습니다. 아내는 가능한한 빠르게 호텔방으로 달려갔지만 그녀가 도착했을때는 이미 너무 늦은 후였습니다. 총서기는 홀로 세상을 떠났습니다. 그녀가 남편을 잃었을 때 스웨덴은 지도자를 잃었고 그 결과 권력에 공백이 생겼습니다. 의회는 혼돈에 빠졌지만, 오래 지나지 않아 권력 공백이 메꿔졌습니다. 린데로트와 킬봄이 모두 정계에서 영향력을 잃은 지금, 재결합한 좌파 전체주의자 정당의 의장이 누가 될 것인지는 분명해 보입니다."
 swe.103.a:0 "올슨 총비서 동지 만세!"
 
-swe.104.t:0 "한 시대의 끝" #Linderot seized control#
+swe.104.t:0 "한 시대의 끝" #Linderot seized control
 swe.104.d:0 "오늘 스웨덴 초대 총서기에게 두번째 심장마비가 닥쳤습니다. 41년 1월과 달리 오늘은 그다지 운이 좋지 않았고, 총서기는 서거했습니다. 플리그는 '정치국' 국장 스벤 린데로트가 원래 플리그에게 주어져야만 했던 정치적 실권을 휘두르는 것을 막을 수 없었습니다. 결국 그는 '휴식'이라는 명목 하에 자신을 반강제로 자택에 보내졌고 이 사건에 대해 분노를 터트리고 불만을 토로하면서 최후의 한 달을 소비했습니다. 좋든 나쁘든 간에 그는 톰테보의 자택에서 있을 수 밖에 없었고, 가족과 측근들의 가운데 죽음을 맞이했습니다. 만약 그가 처음에 배정받은 호텔 방에 남아있었다면 그는 홀로 쓸쓸히 죽었을 것입니다.\n\n한편 의회에서는 플리그가 권력을 잃어가는 동안 착실히 권력을 다져온 2대 의장 스벤 린데로트가 플리그의 자리를 차지할 통치자라고 선언했습니다. 지금, 스톡홀름 거리에는 새로운 바람이 불고 있습니다."
 swe.104.a:0 "린데로트 총비서 동지 만세!"
 
-swe.105.t:0 "한 시대의 끝" #Recall vote succeeded#
+swe.105.t:0 "한 시대의 끝" #Recall vote succeeded
 swe.105.d:0 "오늘 스웨덴 초대 총서기에게 두번째 심장마비가 닥쳤습니다. 41년 1월과 달리 오늘은 그다지 운이 좋지 않았고, 총서기는 서거했습니다. 플리그는 한때 동지였던 칼 킬봄에게 분노를 터트리고 불만을 토로하면서 최후의 한 달을 소비했습니다. '정치국' 국장 칼 킬봄이 혁명 직후에 세워진 바 있었던 전체주의 헌장에 위배되는 사회주의적 민주주의를 다시 세워서 이를 정치적 무기로 사용해 플리그를 몰아냈기 때문이었습니다. 좋든 나쁘든 간에 그는 톰테보의 자택에서 있을 수 밖에 없었고, 가족과 측근들의 가운데 죽음을 맞이했습니다. 만약 그가 처음에 배정받은 호텔 방에 남아있었다면 그는 홀로 쓸쓸히 죽었을 것입니다."
 swe.105.a:0 "일부 결점이 있었더라도 위대한 혁명가였다!"
 
-swe.106.t:0 "한 시대의 끝" #Kilbom elected after Linderot rebuffed#
+swe.106.t:0 "한 시대의 끝" #Kilbom elected after Linderot rebuffed
 swe.106.d:0 "오늘 스웨덴 초대 총서기에게 두번째 심장마비가 닥쳤습니다. 41년 1월과 달리 오늘은 그다지 운이 좋지 않았고, 총서기는 서거했습니다. 플리그는 1936년 제정된 전체주의 헌장의 원칙에 위배되는 사회주의적 민주주의를 재설립한 2대 총서기 칼 킬봄과 플리그에게서 권력을 빼앗는 계략을 세운 스벤 린데로트에게 분노를 터트리고 불만을 토로하면서 최후의 한 달을 소비했습니다. 좋든 나쁘든 간에 그는 톰테보의 자택에서 있을 수 밖에 없었고, 가족과 측근들의 가운데 죽음을 맞이했습니다. 만약 그가 처음에 배정받은 호텔 방에 남아있었다면 그는 홀로 쓸쓸히 죽었을 것입니다."
 swe.106.a:0 "일부 결점이 있었더라도 위대한 혁명가였다!"
 
-swe.107.t:0 "닐스 플리그의 죽음" #Sweden was a different kind of socialist or democratic#
+swe.107.t:0 "닐스 플리그의 죽음" #Sweden was a different kind of socialist or democratic
 swe.107.d:0 "좌파 전체주의자의 상징적인 지도자 닐스 스반트 플리그가 오늘 두 번째 심장마비를 맞았습니다. 41년 1월 그에게 첫번째 심장마비가 닥친 이래로 그는 건강이 나쁜 것으로 알려졌으며, 직후 정당에서 플리그가 정치적 활동을 할 수 있도록 호텔 방을 확보한 바 있었습니다. 그러나 플리그는 오늘 두 번째 심장마비에 마침내 굴복하고 말았습니다. 좌파 전체주의자 정당의 당수직은 아르비드 올슨에게로 넘어갔습니다."
 swe.107.a:0 "평화 속에 잠들길!"
 
-swe.108.t:0 "닐스 플리그의 죽음" #Sweden was authdem, pataut or natpop#
+swe.108.t:0 "닐스 플리그의 죽음" #Sweden was authdem, pataut or natpop
 swe.108.d:0 "가장 악명높은 스웨덴 생디칼리스트 인사 닐스 스반트 플리그와 관련된 보고가 들어왔습니다. [getFlygsRefuge]에서 망명생활을 하던 중 두 번째 심장마비가 닥쳐와 결국 굴복했다는 모양입니다. 그의 동료였던 아르비드 올슨이 스웨덴 전체주의 지도부를 장악했습니다."
 swe.108.a:0 "속이 시원하군!"
 
-swe.109.t:0 "한 시대의 끝" #Nils Flyg can't be evacuated and Stockholm under attack#
+swe.109.t:0 "한 시대의 끝" #Nils Flyg can't be evacuated and Stockholm under attack
 swe.109.d:0 "적이 스톡홀름 근방에 접근했으므로 건강이 나쁜 총서기를 대피시킬 수 없다는 결론에 도달했습니다. 전체주의 지도자는 적군을 기다리던 도중 적에게 붙잡히는 사태를 막기 위해 청산가리를 투여받았습니다. 이 중대한 시기에 스웨덴에 지도자가 없는 상황입니다. 즉시 새로운 총서기를 선출해야 합니다!"
 swe.109.a:0 "올슨이 새 총비서다"
 swe.109.b:0 "린데로트가 새 총비서다"
 swe.109.c:0 "킬봄이 새 총비서다"
 
-swe.110.t:0 "한 시대의 끝" #First heart attack happens while Stockholm is occupied#
+swe.110.t:0 "한 시대의 끝" #First heart attack happens while Stockholm is occupied
 swe.110.d:0 "오늘 닐스 플리그에게 심장마비가 닥쳐왔습니다. 적절한 조치가 있었더라면 살아남았을지도 모르지만, 스톡홀름이 함락된 지금 이미 부상병으로 가득 차 있으며 물자 부족에 시달리는 군 막사에서 그에게 적절한 치료를 제공할 방법은 없었습니다. 그는 평화롭게 세상을 떠났습니다."
 swe.110.a:0 "올슨을 새 총비서로 만들어라"
 
@@ -959,6 +961,7 @@ swe.116.b:0 "어, 그럼 상관 없겠지..."
 swe.117.t:0 "독일은 우리를 도울 수 없다"
 swe.117.d:0 "독일은 올란드 섬을 되찾기 위한 지원을 할 수 없다고 통보했습니다. 그들이 우리를 제물로 삼아 스웨덴의 반감을 피하려는게 분명합니다."
 swe.117.a:0 "사악한 스웨덴놈들이 이 상황을 이용하는군!"
+swe.117.b:0 "우리 스스로 해낼 것이다!"
 
 swe.118.t:0 "핀란드가 철수를 요구하다!"
 swe.118.d:0 "핀란드는 아군에게 48시간 내에 모든 영토에서 철수하라는 최후 통첩을 보냈습니다. 그렇지 않다면 전쟁 상태에 돌입한 것으로 간주하겠다고 합니다."
@@ -1084,31 +1087,31 @@ swe_syncon.4.a:0 "옌슨에게 권한을 부여해라."
 swe_syncon.4.b:0 "운덴이 승리했다."
 swe_syncon.4.c:0 "하그베르가 토론을 지배했다."
 
-swe_syncon.5.t:0 "초대 스웨덴 노동자 의회 총서기" #Totalist#
+swe_syncon.5.t:0 "초대 스웨덴 노동자 의회 총서기" #Totalist
 swe_syncon.5.d:0 "전체주의자들이 혁명 위원회에서 완승을 거두었습니다. 최근에 제시한 제안들 대다수가 승인되었다는 사실을 보면, 토론에서 큰 목소리로 소리치는 전략이 성공적이었다는 것을 알 수 있습니다. 스웨덴에서 철권통치를 휘두를 전체주의 정권이 준비된 가운데 누가 제1차 스웨덴 노동자 의회의 총서기가 될 지는 명백합니다. 전체주의 운동의 부동의 지도자인 닐스 스반테 플리그가 권좌에 올라 스웨덴을 새 시대로 이끌어야만 합니다!"
 swe_syncon.5.a:0 "닐스 플리그가 스웨덴을 천상으로 끌어올릴것이다."
 
-swe_syncon.6.t:0 "초대 스웨덴 노동자 의회 총서기" #RadicalSocialist#
+swe_syncon.6.t:0 "초대 스웨덴 노동자 의회 총서기" #RadicalSocialist
 swe_syncon.6.d:0 "급진사회주의자들이 혁명 위원회에서 승리했습니다. 최근에 제시한 제안들 대다수가 승인되었다는 사실을 보면, 토론에서 큰 목소리로 소리치는 전략이 성공적이었다는 것을 알 수 있습니다. 스웨덴 최초의 노동자 의회 총서기로서 최고의 권력이 급진사회주의 앞에 있고, 우리에게는 마지막 선택만이 남아있습니다. 누가 그 자리를 차지해야 하겠습니까? 많은 사람들은 전직 선원이자 기자였던 킬봄을 후보자로 생각하고 있지만, 최근 당 서열에서 급증한 시인이자 작가 카린 보예 또한 유명하고 믿을 수 없을 정도로 인기를 끌고 있습니다."
 swe_syncon.6.a:0 "칼 킬봄이 스웨덴이 원하던 인재상이다."
 swe_syncon.6.b:0 "오늘은 당신의 것이오, 카린 보예."
  
-swe_syncon.7.t:0 "초대 스웨덴 노동자 의회 총서기" #Syndicalist#
+swe_syncon.7.t:0 "초대 스웨덴 노동자 의회 총서기" #Syndicalist
 swe_syncon.7.d:0 "생디칼리스트들이 혁명 위원회에서 승리했습니다. 최근에 제시한 제안들 대다수가 승인되었다는 사실을 보면, 토론에서 큰 목소리로 소리치는 전략이 성공적이었다는 것을 알 수 있습니다. 스웨덴 최초의 노동자 의회 총서기로서 최고의 권력이 생디칼리즘 앞에 있고, 우리에게는 마지막 선택만이 남아있습니다. 누가 그 자리를 차지해야 하겠습니까? 생디칼리즘 운동의 상징적인 인물인 알베르트 옌센의 아내이자 전직 성교육자 출신 선동과 엘리스 오데센 옌슨과 노동자중앙위원회에 큰 영향력을 가진 옌슨의 라이벌 프란스 세베린 사이에 마지막 승부가 가려졌습니다."
 swe_syncon.7.a:0 "엘리스 오테셴 젠슨을 선택하겠다."
 swe_syncon.7.b:0 "프란스 세버린을 가장 먼저 택하겠다."
  
-swe_syncon.8.t:0 "초대 스웨덴 노동자 의회 총서기" #Socialists/Totalists#
+swe_syncon.8.t:0 "초대 스웨덴 노동자 의회 총서기" #Socialists/Totalists
 swe_syncon.8.d:0 "혁명 위원회에서 힘들고 전투적인 토론이 오갔습니다. 결국 전체주의와 급진사회주의가 두각을 보였습니다. 스웨덴 최초의 노동자 의회 총서기로서 최고의 권력이 모두의 앞에 있고, 우리에게는 마지막 선택만이 남아있습니다. 누가 그 자리를 차지해야 하겠습니까? \n\n전체주의를 선택하여 전직 편집장 출신의 전체주의 운동의 확고한 지도자 닐스 플리그가 책임을 지게 하시겠습니까? 전직 항해사와 저널리스트인 킬봄이 더 나은 선택이지 않을까요? 어느 쪽을 택하든, 한쪽은 소외감을 느낄 수 밖에 없는데, 이렇게 촉발된 정치적 분열로 스웨덴 전체가 고통받을 수도 있습니다."
 swe_syncon.8.a:0 "닐스 플리그가 우리의 사람이다."
 swe_syncon.8.b:0 "칼 킬봄이 스웨덴이 원하던 인재상이다."
  
-swe_syncon.9.t:0 "초대 스웨덴 노동자 의회 총서기" #Socialists/Syndicalists#
+swe_syncon.9.t:0 "초대 스웨덴 노동자 의회 총서기" #Socialists/Syndicalists
 swe_syncon.9.d:0 "혁명 위원회에서 힘들고 전투적인 토론이 오갔습니다. 결국 생디칼리즘과 급진사회주의가 두각을 보였습니다. 스웨덴 최초의 노동자 의회 총서기로서 최고의 권력이 모두의 앞에 있고, 우리에게는 마지막 선택만이 남아있습니다. 누가 그 자리를 차지해야 하겠습니까? \n\n생디칼리즘을 선택하여 생디칼리즘 운동의 중진 프란스 세베린이 책임을 지게 하시겠습니까? 전직 항해사와 저널리스트인 킬봄이 더 나은 선택이지 않을까요? 어느 쪽을 택하든, 한쪽은 소외감을 느낄 수 밖에 없는데, 이렇게 촉발된 정치적 분열로 스웨덴 전체가 고통받을 수도 있습니다."
 swe_syncon.9.a:0 "프란스 세버린을 가장 먼저 택하겠다."
 swe_syncon.9.b:0 "칼 킬봄이 스웨덴이 원하던 인재상이다."
  
-swe_syncon.10.t:0 "초대 스웨덴 노동자 의회 총서기" #Totalists/Syndicalists#
+swe_syncon.10.t:0 "초대 스웨덴 노동자 의회 총서기" #Totalists/Syndicalists
 swe_syncon.10.d:0 "혁명 위원회에서 힘들고 전투적인 토론이 오갔습니다. 결국 생디칼리즘과 급진사회주의가 두각을 보였습니다. 스웨덴 최초의 노동자 의회 총서기로서 최고의 권력이 모두의 앞에 있고, 우리에게는 마지막 선택만이 남아있습니다. 누가 그 자리를 차지해야 하겠습니까? \n\n생디칼리즘을 선택하여 생디칼리즘 운동의 중진 프란스 세베린이 책임을 지게 하시겠습니까? 전직 편집장 출신의 전체주의 운동의 확고한 지도자 닐스 플리그가 더 나은 선택이지 않을까요? 어느 쪽을 택하든, 한쪽은 소외감을 느낄 수 밖에 없는데, 이렇게 촉발된 정치적 분열로 스웨덴 전체가 고통받을 수도 있습니다."
 swe_syncon.10.a:0 "프란스 세버린을 가장 먼저 택하겠다."
 swe_syncon.10.b:0 "닐스 플리그가 우리의 사람이다."
@@ -1331,10 +1334,10 @@ swedishBudgetAmount_positive:0 "§G[?swe_var_budget|1]백만§!"
 swedishDebtAmount_positive:0 "§R[?swe_var_debt|1]백만§!"
 SWE_tt_more_than_two_percent_inflation:0 "인플레이션이 §G5%§!를 넘어섰습니다."
 SWE_tt_lower_inflation:0 "인플레이션이 §G5%§!만큼 낮아졌습니다."
-SWE_bugfixed_swap_tooltip:0 "§Y보수적 군 수뇌부§!를 §Y더글러스의 군대§!로 대체합니다\n효과 변화:\n기갑 속도: §G+0.50%§!\n지휘관 경험치 획득: §G+20%§!\n사단 훈련 속도: §Y+20%§!\n육군 교리 연구 속도: §R-20%§!\n"
+SWE_bugfixed_swap_tooltip:0 "§Y보수적 군 수뇌부§!를 §Y더글러스의 군대§!로 대체합니다\n효과 변화:\n기갑 속도: §G+5%§!\n지휘관 경험치 획득: §G+20%§!\n사단 훈련 속도: §Y+20%§!\n육군 교리 연구 속도: §G+20%§!\n"
 SWE_bugfixed_swap_tooltip_two:0 "§Y더글러스의 군대§! 변동치 \n징병 가능 인구: §Y+0.50%§!\n"
-SWE_bugfixed_swap_tooltip_three:0 "§Y보수적 군 수뇌부§!를 §Y홀름퀴스트의 군대§!로 대체합니다.\n효과 변화:\n지휘관 경험치 획득: §G+10%§!\n징병 가능 인구: §Y+1.00%§!\n육군 교리 연구 속도: §R-20%§!\n"
-SWE_bugfixed_swap_tooltip_four:0 "§Y홀름퀴스트의 군대§!변동치 \n보병 사단 공격: §G+0.50%§!\n특수 부대 공격: §G+0.50%§!\n"
+SWE_bugfixed_swap_tooltip_three:0 "§Y보수적 군 수뇌부§!를 §Y홀름퀴스트의 군대§!로 대체합니다.\n효과 변화:\n지휘관 경험치 획득: §G+10%§!\n징병 가능 인구: §Y+1.00%§!\n육군 교리 연구 속도: §G+20%§!\n"
+SWE_bugfixed_swap_tooltip_four:0 "§Y홀름퀴스트의 군대§!변동치 \n보병 사단 공격: §G+5%§!\n특수 부대 공격: §G+5%§!\n"
 SWE_bugfixed_swap_tooltip_five:0 "§Y홀름퀴스트의 군대§! 변동치 \n징병 가능 인구: §Y+1.00%\n핵심 영토에서 사단 공격: §G+10%§!\n핵심 영토에서 사단 방어: §G+10%§!\n"
 SWE_bugfixed_swap_tooltip_six:0 "§Y홀름퀴스트의 군대§! 변동치 \n징병 가능 인구: §Y+0.50%\n공격: §G+10.00%§!\n"
 SWE_bugfixed_swap_tooltip_seven:0 "§Y더글러스의 군대§! 변동치\n징병 가능 인구: §Y+1.00%\n핵심 영토에서 사단 공격: §G+10%§!\n핵심 영토에서 사단 방어: §G+10%§!\n"
@@ -1408,3 +1411,97 @@ getFlygsRefuge_Britain:0 "영국에 있는 습기있는 농장"
 getFlygsRefuge_Mexico:0 "멕시코에 있는 평범한 집"
 getFlygsRefuge_Colombia:0 "콜롬비아에 있는 오두막집"
 getFlygsRefuge_Somewhere_Else:0 "아프리카의 무정부지대에 있는 은신처"
+
+#Cosmetic Tags
+SWENOR_totalist:0 "스웨덴-노르웨이"
+SWENOR_totalist_ADJ:0 "스웨덴 -노르웨이"
+SWENOR_totalist_DEF:0 "스웨덴-노르웨이"
+SWENOR_syndicalist:0 "스웨덴-노르웨이"
+SWENOR_syndicalist_ADJ:0 "스웨덴 -노르웨이"
+SWENOR_syndicalist_DEF:0 "스웨덴-노르웨이"
+SWENOR_radical_socialist:0 "스웨덴-노르웨이"
+SWENOR_radical_socialist_ADJ:0 "스웨덴 -노르웨이"
+SWENOR_radical_socialist_DEF:0 "스웨덴-노르웨이"
+SWENOR_social_democrat:0 "스웨덴-노르웨이"
+SWENOR_social_democrat_ADJ:0 "스웨덴 -노르웨이"
+SWENOR_social_democrat_DEF:0 "스웨덴-노르웨이"
+SWENOR_social_liberal:0 "스웨덴-노르웨이"
+SWENOR_social_liberal_ADJ:0 "스웨덴 -노르웨이"
+SWENOR_social_liberal_DEF:0 "스웨덴-노르웨이"
+SWENOR_market_liberal:0 "스웨덴-노르웨이"
+SWENOR_market_liberal_ADJ:0 "스웨덴 -노르웨이"
+SWENOR_market_liberal_DEF:0 "스웨덴-노르웨이"
+SWENOR_social_conservative:0 "스웨덴-노르웨이"
+SWENOR_social_conservative_ADJ:0 "스웨덴 -노르웨이"
+SWENOR_social_conservative_DEF:0 "스웨덴-노르웨이"
+SWENOR_authoritarian_democrat:0 "스웨덴-노르웨이"
+SWENOR_authoritarian_democrat_ADJ:0 "스웨덴 -노르웨이"
+SWENOR_authoritarian_democrat_DEF:0 "스웨덴-노르웨이"
+SWENOR_paternal_autocrat:0 "스웨덴-노르웨이"
+SWENOR_paternal_autocrat_ADJ:0 "스웨덴 -노르웨이"
+SWENOR_paternal_autocrat_DEF:0 "스웨덴-노르웨이"
+SWENOR_national_populist:0 "스웨덴-노르웨이"
+SWENOR_national_populist_ADJ:0 "스웨덴 -노르웨이"
+SWENOR_national_populist_DEF:0 "스웨덴-노르웨이"
+
+SWEREP_totalist:0 "스웨덴 코뮌"
+SWEREP_totalist_ADJ:0 "스웨덴"
+SWEREP_totalist_DEF:0 "스웨덴 코뮌"
+SWEREP_syndicalist:0 "스웨덴 코뮌"
+SWEREP_syndicalist_ADJ:0 "스웨덴"
+SWEREP_syndicalist_DEF:0 "스웨덴 코뮌"
+SWEREP_radical_socialist:0 "스웨덴 코뮌"
+SWEREP_radical_socialist_ADJ:0 "스웨덴"
+SWEREP_radical_socialist_DEF:0 "스웨덴 코뮌"
+SWEREP_social_democrat:0 "스웨덴 공화국"
+SWEREP_social_democrat_ADJ:0 "스웨덴"
+SWEREP_social_democrat_DEF:0 "스웨덴 공화국"
+SWEREP_social_liberal:0 "스웨덴 공화국"
+SWEREP_social_liberal_ADJ:0 "스웨덴"
+SWEREP_social_liberal_DEF:0 "스웨덴 공화국"
+SWEREP_market_liberal:0 "스웨덴 공화국"
+SWEREP_market_liberal_ADJ:0 "스웨덴"
+SWEREP_market_liberal_DEF:0 "스웨덴 공화국"
+SWEREP_social_conservative:0 "스웨덴 공화국"
+SWEREP_social_conservative_ADJ:0 "스웨덴"
+SWEREP_social_conservative_DEF:0 "스웨덴 공화국"
+SWEREP_authoritarian_democrat:0 "스웨덴 공화국"
+SWEREP_authoritarian_democrat_ADJ:0 "스웨덴"
+SWEREP_authoritarian_democrat_DEF:0 "스웨덴 공화국"
+SWEREP_paternal_autocrat:0 "스웨덴 공화국"
+SWEREP_paternal_autocrat_ADJ:0 "스웨덴"
+SWEREP_paternal_autocrat_DEF:0 "스웨덴 공화국"
+SWEREP_national_populist:0 "스웨덴국"
+SWEREP_national_populist_ADJ:0 "스웨덴"
+SWEREP_national_populist_DEF:0 "스웨덴국"
+
+SWU_national_populist:0 "스웨덴-노르웨이"
+SWU_national_populist_ADJ:0 "스웨덴"
+SWU_national_populist_DEF:0 "스웨덴-노르웨이"
+SWU_paternal_autocrat:0 "스웨덴-노르웨이"
+SWU_paternal_autocrat_ADJ:0 "스웨덴"
+SWU_paternal_autocrat_DEF:0 "스웨덴-노르웨이"
+SWU_authoritarian_democrat:0 "스웨덴-노르웨이"
+SWU_authoritarian_democrat_ADJ:0 "스웨덴"
+SWU_authoritarian_democrat_DEF:0 "스웨덴-노르웨이"
+SWU_social_conservative:0 "스웨덴-노르웨이"
+SWU_social_conservative_ADJ:0 "스웨덴"
+SWU_social_conservative_DEF:0 "스웨덴-노르웨이"
+SWU_market_liberal:0 "스웨덴-노르웨이"
+SWU_market_liberal_ADJ:0 "스웨덴"
+SWU_market_liberal_DEF:0 "스웨덴-노르웨이"
+SWU_social_liberal:0 "스웨덴-노르웨이"
+SWU_social_liberal_ADJ:0 "스웨덴"
+SWU_social_liberal_DEF:0 "스웨덴-노르웨이"
+SWU_social_democrat:0 "스웨덴-노르웨이"
+SWU_social_democrat_ADJ:0 "스웨덴"
+SWU_social_democrat_DEF:0 "스웨덴-노르웨이"
+SWU_radical_socialist:0 "스웨덴-노르웨이"
+SWU_radical_socialist_ADJ:0 "스웨덴"
+SWU_radical_socialist_DEF:0 "스웨덴-노르웨이"
+SWU_syndicalist:0 "스웨덴-노르웨이"
+SWU_syndicalist_ADJ:0 "스웨덴"
+SWU_syndicalist_DEF:0 "스웨덴-노르웨이"
+SWU_totalist:0 "스웨덴-노르웨이"
+SWU_totalist_ADJ:0 "스웨덴"
+SWU_totalist_DEF:0 "스웨덴-노르웨이"
