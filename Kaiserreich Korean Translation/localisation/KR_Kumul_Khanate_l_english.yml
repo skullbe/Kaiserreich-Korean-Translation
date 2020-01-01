@@ -1,21 +1,21 @@
-﻿l_english:
+l_english:
 
-Kumul_start:0 "Kumul Focus Tree"
+Kumul_start:0 "쿠물 중점계통도"
 
 ### Parties ###
-TAN_totalist_party:0 "Kumul Abolitionists"
-TAN_syndicalist_party:0 "Kumul Abolitionists"
-TAN_radical_socialist_party:0 "Kumul Abolitionists"
-TAN_social_democrat_party:0 "Kumul Abolitionists"
-TAN_social_liberal_party:0 "Kumul Abolitionists"
-TAN_market_liberal_party:0 "Kumul Abolitionists"
-TAN_social_conservative_party:0 "Begs"
-TAN_authoritarian_democrat_party:0 "Advisory"
-TAN_paternal_autocrat_party:0 "Nasīr Clique"
-TAN_national_populist_party:0 "Uyghur Nationalists"
+TAN_totalist_party:0 "쿠물 전폐론자"
+TAN_syndicalist_party:0 "쿠물 전폐론자"
+TAN_radical_socialist_party:0 "쿠물 전폐론자"
+TAN_social_democrat_party:0 "쿠물 전폐론자"
+TAN_social_liberal_party:0 "쿠물 전폐론자"
+TAN_market_liberal_party:0 "쿠물 전폐론자"
+TAN_social_conservative_party:0 "거지"
+TAN_authoritarian_democrat_party:0 "자문"
+TAN_paternal_autocrat_party:0 "나시르 군벌"
+TAN_national_populist_party:0 "위구르 국민주의자"
 
-TAN_xinjiang_party_long:0 "Xinjiang Administration"
-TAN_xinjiang_party:0 "Xinjiang Administration"
+TAN_xinjiang_party_long:0 "신장 행정부"
+TAN_xinjiang_party:0 "신장 행정부"
 
 TAN_hoja_party_long:0 "Hoja-Niyaz Clique"
 TAN_hoja_party:0 "Hoja-Niyaz Clique"
@@ -23,11 +23,11 @@ TAN_hoja_party:0 "Hoja-Niyaz Clique"
 TAN_fan_party_long:0 "Fan Clique"
 TAN_fan_party:0 "Fan Clique"
 
-TAN_ma_party_long:0 "Zhongying Clique"
-TAN_ma_party:0 "Zhongying Clique"
+TAN_ma_party_long:0 "총영 군벌"
+TAN_ma_party:0 "총영 군벌"
 
-TAN_bashir_pataut_party:0 "Bashir Clique"
-TAN_bashir_pataut_party_long:0 "Bashir Clique"
+TAN_bashir_pataut_party:0 "바시르 군벌"
+TAN_bashir_pataut_party_long:0 "바시르 군벌"
 
 ### Ideas ###
 TAN_legacy_masqud:0 "마스쿠드의 유산"
