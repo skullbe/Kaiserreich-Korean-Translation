@@ -1,5 +1,7 @@
 l_english:
 
+somalia_focus:0 "소말리아 중점계통도"
+
 #This file is a shit show, need to check later - Zankoas
 # no u - TBW
 # I think I fixed it? - VirtualHummingbird
@@ -154,7 +156,7 @@ SOM_bombers:0 "Win the Ground from the Air"
 SOM_bombers2:0 "Foreign Bomber Expertise"
 SOM_airdoc:0 "Waging War in the Sky"
 
-SOM_strenght_desc:0 "소말리아의 개발과 발전은 정말로 믿기 어려운 것이었지만 알리 시레는 정치적인 방면에서 '긁어부스럼 만들지 않기' 정책을 따름으로서 이를 이루어냈습니다. 한편, 소말리인들은 크게 기뻐하며 그들의 자유를 누렸고 그 으뜸은 의심할 여지없이 라스코레이였습니다. 하지만 아비시니아와 이집트에서 들려온 행정 개혁의 소식은 보코르에게 실제로는 개혁이 필요함을 납득시켰습니다."
+SOM_strenght_desc:0 "소말리아의 개발과 발전은 정말로 믿기 어려운 것이었지만 알리 시레는 정치적인 방면에서 '긁어부스럼 만들지 않기' 정책을 따름으로서 이를 이루어냈습니다. 한편, 소말리인들은 크게 기뻐하며 그들의 자유를 누렸고 그 으뜸은 의심할 여지없이 라스코레이였습니다. 하지만 에티오피아와 이집트에서 들려온 행정 개혁의 소식은 보코르에게 실제로는 개혁이 필요함을 납득시켰습니다."
 SOM_gendarmerie_desc:0 "질서를 유지하는 일에는 전통적으로 지역 민병대를 신뢰해왔습니다. 각 민병대의 수장들은 사람들을 잘 살펴보도록 신뢰받았습니다. 하지만 제국의 평화와 번영을 더욱 잘 보장하기 위해서는 폭동, 시위, 반란, 범죄에 대처할 부대을 무장시켜야만 합니다. 이 새로운 부대는 서양의 동일한 부대를 본따 소말리아 국가헌병대로 알려질 것입니다."
 SOM_negotiate_desc:0 "독일 제국의 행정적인 모델은 계몽적인 것이며 우리의 셰이크, 술단, 그 외의 지도자들 중 많은 이들을 만족시켰습니다. 보코르는 동등한 가운데 첫째가는 이로 통치할 것이며 다른 부족들은 얼마나 작은지에 관계없이 연방의 각 구성원으로 소말리아를 구성할 것입니다."
 SOM_unitedinwill_desc:0 "소말리인의 국가와 그 국민들이 그 정신과 그 투지와 그 시야에서 단결되어 있는 한 우리가 정복하기에 무리인 목표는 없습니다. 하지만 그 이상을 성취하기 위해서는 제일 먼저 제국 내부의 문제를 해결하는 것에 집중해야 합니다..."
@@ -234,7 +236,7 @@ SOM_airdoc_desc:0 "Perhaps the most important facet of any airborne mission, pla
 #events
 
 som.1.t:0 "United We Stand!"
-som.1.d:0 "The multiple states of Somalia were preyed upon by colonists and, in the eyes of the international community, we were seen as weak. We had fallen, divided, with brother against brother. However, after Abdullah Hassan's astounding victories over the Italians during the Weltkrieg, Italy had completely withdrawn from Somalia and the Sultan of Warsangali had, in all but name, slipped from British control as they were preoccupied with fighting the Germans. The Peace with Honour, officially concluding the Weltkrieg, paradoxically made Somalia free while remaining a protectorate of Britain due to Ali Shire's treaties. This status-quo, which had benefitted both parties, did not last for long, however, as the British Empire had collapsed. In a moment of what some may call opportunism, Warsangali's forces seized what was left of British Somaliland and the lords allied to him proclaimed him Bogor, or emperor, of Somalia. However, he sought to style himself as King of Somalia in the West as a way to court the monarchs of the Central Powers while recognising the ultimate authority of the Caliph. Prosperity followed for Somalia, with our fields growing rich and our cities larger. In addition, we'd managed to secure control over Ogaden in spite of the opposition from Abyssinia. Our roads, books, and universities are all symptoms of this event which has been dubbed the Somalian Renaissance, but great danger may lie ahead for the wise understand that good times cannot be maintained indefinitely. Halie Selassie eyes our great nation enviously and Mittelafrika's new Statthalter remains diplomatically unapproachable. Whatever the future may hold, we can sit content with the fact that we have seized every possible opportunity presented to us and, together as one, leading Somalia to a better and brighter future."
+som.1.d:0 "The multiple states of Somalia were preyed upon by colonists and, in the eyes of the international community, we were seen as weak. We had fallen, divided, with brother against brother. However, after Abdullah Hassan's astounding victories over the Italians during the Weltkrieg, Italy had completely withdrawn from Somalia and the Sultan of Warsangali had, in all but name, slipped from British control as they were preoccupied with fighting the Germans. The Peace with Honour, officially concluding the Weltkrieg, paradoxically made Somalia free while remaining a protectorate of Britain due to Ali Shire's treaties. This status-quo, which had benefitted both parties, did not last for long, however, as the British Empire had collapsed. In a moment of what some may call opportunism, Warsangali's forces seized what was left of British Somaliland and the lords allied to him proclaimed him Bogor, or emperor, of Somalia. However, he sought to style himself as King of Somalia in the West as a way to court the monarchs of the Central Powers while recognising the ultimate authority of the Caliph. Prosperity followed for Somalia, with our fields growing rich and our cities larger. In addition, we'd managed to secure control over Ogaden in spite of the opposition from Ethiopia. Our roads, books, and universities are all symptoms of this event which has been dubbed the Somali Renaissance, but great danger may lie ahead for the wise understand that good times cannot be maintained indefinitely. Halie Selassie eyes our great nation enviously and Mittelafrika's new Statthalter remains diplomatically unapproachable. Whatever the future may hold, we can sit content with the fact that we have seized every possible opportunity presented to us and, together as one, leading Somalia to a better and brighter future."
 som.1.a:0 "We stand on the shoulder of giants!"
 som.2.t:0 "Black Monday has reached Somalia!"
 som.2.d:0 "Even though Black Monday has done minimal damage to Somalia, especially when compared to the nations in Europe, we've still been hit by this economic crisis. Our valued trading partners are no longer willing to trade and our people are growing discontent, worried about what the future may hold. If we do not act quick to remedy the situation, this new attitude that has developed may make an economic downturn all but certain!"
@@ -265,7 +267,7 @@ som.9.t:0 "Hasnah Doreh Brigade"
 som.9.d:0 "To the shock of conservatives, a group of young, educated women and their husbands have organised themselves into a brigade to fight for Somalia against the German puppets in Addis Ababa. They call themselves the Hasnah Doreh Brigdade and are named after the wife of Abdullah Hassan who'd allegedly fought alongside him."
 som.9.a:0 "Everyone is doing their part!"
 som.10.t:0 "All men to their stations!"
-som.10.d:0 "Volunteer and reserve forces have gathered today to help assist in the war against the Abyssinian menace! With the help of our loyal subjects, we shall ensure that none may stand in the path of the Somali people!"
+som.10.d:0 "Volunteer and reserve forces have gathered today to help assist in the war against the Ethiopian menace! With the help of our loyal subjects, we shall ensure that none may stand in the path of the Somali people!"
 som.10.a:0 "To arms!"
 som.11.t:0 "Barre springs his trap!"
 som.11.d:0 "Damnation! As the Bogor was heading towards his palace, he was captured by by disgruntled officers who abolished the monarchy. The Provisional Revolutionary Council has forcibly taken power and seeks to usher in a 'better, Totalist future' for Somalia."
