@@ -19,8 +19,8 @@ ANQ_social_conservative_party:0 "강남협회"
 ANQ_social_conservative_party_long:0 "강남협회"
 ANQ_authoritarian_democrat_party:0 "안칭 군벌"
 ANQ_authoritarian_democrat_party_long:0 "안칭 군벌"
-ANQ_paternal_autocrat_party:0 "안칭 군벌"
-ANQ_paternal_autocrat_party_long:0 "안칭 군벌"
+ANQ_paternal_autocrat_party:0 "안청 군벌"
+ANQ_paternal_autocrat_party_long:0 "안청 군벌"
 ANQ_national_populist_party:0 "일관도"
 ANQ_national_populist_party_long:0 "일관도"
 
@@ -50,7 +50,7 @@ anq_ally_name:0 "동맹"
 ANQ_credibility_dynamic_modifier:0 "£anq_credibility Credibility of §MChen Tiaoyuan§!\n§W--------------\n§!§gWith the old League of Eight Provinces in ruin and anti-concessionist rhetoric running rampant, Chen Tiaoyuan has successfully pushed himself forward as a beacon for the movement in China. Those that enabled his rise however could just as easily let him fall should he betray their interests. Nonetheless, Chen Tiaoyuan knows very well that following their every wish will lead to an Anqing without the resources necessary to bring about this liberation of China.§!"
 
 ## Companies ##
-longhai_railway:0 "Longhai Railway"
+longhai_railway:0 "롱하이 철도"
 
 ## Flags ##
 ANQ_peace:0 "Brought peace to the Five Provinces"
