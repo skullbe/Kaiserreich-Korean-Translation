@@ -1,7 +1,7 @@
 l_english:
 
 totalist_topbar_tooltip:0 "현재 집권정당은 §H전체주의§!입니다."
-syndicalist_topbar_tooltip:0 "현재 집권정당은 §H생디칼리즘§!입니다."
+syndicalist_topbar_tooltip:0 "현재 집권정당은 §H생디칼리슴§!입니다."
 radical_socialist_topbar_tooltip:0 "현재 집권정당은 §H급진사회주의§!입니다."
 social_democrat_topbar_tooltip:0 "현재 집권정당은 §H사회민주주의§!입니다."
 social_liberal_topbar_tooltip:0 "현재 집권정당은 §H사회자유주의§!입니다."
@@ -23,3 +23,6 @@ party_pop_0_20_loc_key:0 "§H정당 인기도\n\n우리의 정당 인기도는 �
 party_pop_0_10_loc_key:0 "§H정당 인기도\n\nE우리의 정당 인기도는 다음 효과를 가짐:§!\n일일 정치력 점수 획득: §G+0.15§!\n"
 party_pop_0_00_loc_key:0 "§H정당 인기도\n\n우리의 정당 인기도는 다음 효과를 가짐:§!\n일일 정치력 점수 획득: §G+0.05§!\n"
 KR_PARTY_POP_EFFECT:0 "[GetPopLevel]"
+
+FNG_party_popularity_idea:0 "£pol_idea 정당 인기도"
+party_pop_FNG_loc_key:0 "§H정당 인기도\n\n현재 정당 인기도 효과:§!\n일일 정치력 획득: [?ROOT.party_popularity@paternal_autocrat|2=+]\n"
