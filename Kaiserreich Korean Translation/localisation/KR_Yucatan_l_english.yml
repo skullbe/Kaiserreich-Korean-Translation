@@ -1,29 +1,31 @@
 l_english:
 
+Yucatan:0 "유카탄 중점계통도"
+
 #### Parties ###
-YUC_totalist_party:0 "Partido Nacional Revolucionario"
-YUC_totalist_party_long:0 "National Revolutionary Party"
-YUC_syndicalist_party:0 "Partido del Trabajo"
-YUC_syndicalist_party_long:0 "Labor Party"
-YUC_radical_socialist_party:0 "Partido Socialista de Yucatán"
-YUC_radical_socialist_party_long:0 "Socialist Part of Yucatán"
-YUC_social_democrat_party:0 "Partido de la Revolución Democrática"
-YUC_social_democrat_party_long:0 "Party of the Democratic Revolution"
-YUC_social_liberal_party:0 "Partido Alianza por Yucatán"
-YUC_social_liberal_party_long:0 "Alliance for Yucatán Party"
-YUC_market_liberal_party:0 "Partido Liberal"
-YUC_market_liberal_party_long:0 "Liberal Party"
-YUC_social_conservative_party:0 "Partido Acción Nacional"
-YUC_social_conservative_party_long:0 "National Action Party"
-YUC_authoritarian_democrat_party:0 "Partido Nacionalista Yucatán"
-YUC_authoritarian_democrat_party_long:0 "Nationalist Yucatán Party"
-YUC_paternal_autocrat_party:0 "Military Junta"
-YUC_paternal_autocrat_party_long:0 "Military Junta"
-YUC_national_populist_party:0 "Partido Fuerza Popular"
-YUC_national_populist_party_long:0 "Popular Force Party"
+YUC_totalist_party:0 "국민혁명당"
+YUC_totalist_party_long:0 "국민혁명당"
+YUC_syndicalist_party:0 "노동당"
+YUC_syndicalist_party_long:0 "노동당"
+YUC_radical_socialist_party:0 "유카탄 사회주의당"
+YUC_radical_socialist_party_long:0 "유카탄의 사회주의파"
+YUC_social_democrat_party:0 "민주혁명당"
+YUC_social_democrat_party_long:0 "민주혁명당"
+YUC_social_liberal_party:0 "유카탄 동맹당"
+YUC_social_liberal_party_long:0 "유카탄 동맹당"
+YUC_market_liberal_party:0 "자유당"
+YUC_market_liberal_party_long:0 "자유당"
+YUC_social_conservative_party:0 "국민행동당"
+YUC_social_conservative_party_long:0 "국민행동당"
+YUC_authoritarian_democrat_party:0 "국민주의 유카탄당"
+YUC_authoritarian_democrat_party_long:0 "국민주의 유카탄당"
+YUC_paternal_autocrat_party:0 "군부"
+YUC_paternal_autocrat_party_long:0 "군부"
+YUC_national_populist_party:0 "대중세력당"
+YUC_national_populist_party_long:0 "대중세력당"
 
 ### Flags ###
-YUC_indepedence_war_over:0 "The Yucatan War of Independence is over"
+YUC_indepedence_war_over:0 "유카탄 독립전쟁이 끝남"
 
 ### Tooltips ###
 YUC_call_to_arms_tooltip:0 "§MMayan Militia shall arrive in Mérida§!\n"
@@ -32,7 +34,7 @@ YUC_central_american_overtures_tooltip:0 "§MWe shall seek closer relations with
 
 
 ### Ideas ###
-YUC_defense_of_yucatan:0 "Yucatan Rebellion"
+YUC_defense_of_yucatan:0 "유카탄 반란군"
 YUC_national_joint_command_idea:0 "National Joint Command"
 YUC_reformed_high_command_idea:0 "Reformed High Command"
 YUC_mayan_rangers:0 "Mayan Rangers"
