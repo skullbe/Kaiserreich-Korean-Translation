@@ -5,6 +5,19 @@ undistinguished_suit:0 "특별한 것 없는 중역"
 grand_protector:0 "위대한 수호자"
 paranoid_francophobe:0 "편집증적인 프랑스 혐오자"
 
+TAN_first_reformer:0 "초대 개혁가\n§gNasīr is seen as the first real political reformer in the Kumul Khanate following the rule of the autocratic Masqud Shah. While he is not willing to give up his power completely, he is interested in increasing the duties of both his advisors and the Begs to reduce the reliance on himself.§!"
+TAN_first_reformer2:0 "초대 개혁가\n§gNasīr is seen as the first real political reformer in the Kumul Khanate following the rule of the autocratic Masqud Shah. While he is not willing to give up his power completely, he is interested in increasing the duties of both his advisors and the Begs to reduce the reliance on himself.§!"
+TAN_first_reformer3:0 "초대 개혁가\n§gNasīr is seen as the first real political reformer in the Kumul Khanate following the rule of the autocratic Masqud Shah. While he is not willing to give up his power completely, he is interested in increasing the duties of both his advisors and the Begs to reduce the reliance on himself.§!"
+TAN_first_reformer4:0 "초대 개혁가\n§gNasīr is seen as the first real political reformer in the Kumul Khanate following the rule of the autocratic Masqud Shah. While he is not willing to give up his power completely, he is interested in increasing the duties of both his advisors and the Begs to reduce the reliance on himself.§!"
+XSM_hero_northwest:0 "북서부의 영웅"
+XSM_fundementalist:0 "원리주의자"
+XSM_modernist:0 "근대주의자"
+SIK_panicked_isolationism:0 "Panicked Isolationism\n§gEver since the Northern Expedition and proceeding German intervention, Yang Zengxin has been highly panicked and sickly with his old age. Spending most of his time hidden inside his home, he is hardly ever heading out due to fear of assassination or catching his last fateful disease. On top of remaining completely politically isolated within China, people don't know how much longer he will last in his current state, but he is certainly not in stable condition.§!"
+MON_the_mad_baron:0 "미친 남작"
+MON_princes_puppet:0 "군주의 허수아비"
+MON_buddhist_figurehead:0 "불교 얼굴마담"
+MON_the_popular_prince_trait:0 "인기있는 군주"
+
 ### Head of Government ###
 hog_ambitious_union_boss:0 "야심찬 노조지도자"
 hog_backroom_backstabber:0 "막후 중상가"
@@ -106,7 +119,14 @@ int_naval_intelligence_specialist:0 "해군 정보 전문가"
 int_o:0 "\"O\""
 int_fortune_teller:0 "점쟁이"
 
-### mhc Minister
+### Leader of the British Exiles ###
+lobe_disgraced_statesman:0 "실각한 정치인"
+lobe_nationalist_firebrand:0 "국민주의 선동가"
+lobe_persuasive_mediator:0 "설득력있는 중재가"
+lobe_poet_and_a_gentleman:0 "시인이자 신사"
+lobe_mover_and_shaker:0 "거물"
+
+### Chief of Staff Minister ###
 cos_school_of_manoeuvre:0 "기동전 교련"
 cos_school_of_fire_support:0 "화력지원 교련"
 cos_school_of_mass_combat:0 "대규모 전투 교련"
@@ -114,7 +134,7 @@ cos_school_of_psychology:0 "심리전 교련"
 cos_school_of_defence:0 "방어전 교련"
 cos_school_of_commando_operations:0 "특공작전 교련"
 
-### carm Minister
+### Chief of Army Minister ###
 carm_elastic_defence_doctrine:0 "탄력 방어 교리"
 carm_static_defence_doctrine:0 "고정 방어 교리"
 carm_decisive_battle_doctrine:0 "대전투 교리"
@@ -122,15 +142,18 @@ carm_armoured_spearhead_doctrine:0 "기갑 돌파 교리"
 carm_guns_and_butter_doctrine:0 "군사 민생 양립 교리"
 carm_commando_doctrine:0 "특공대 교리"
 carm_doctrine_of_autonomy:0 "자율성 교리"
+carm_jade_marshal:0 "Jade Marshal"
+carm_jade_marshal_desc:0 "Widely recognized as China’s foremost tactician, and among its most daring strategists, Wu Peifu’s fearsome reputation precedes him. Unlike many of his fellow generals whose achievements might end at military matters, Wu is also renowned as a Confucian man of principles; an esteemed philosopher-general bridging the traditional divide between soldier and scholar. It is this gravitas that binds the empire together, and grants him far-reaching influence outside the official political system."
 
-### cnav Minister
+
+### Chief of Navy Minister ###
 cnav_open_seas_doctrine:0 "대해 교리"
 cnav_decisive_battle_doctrine:0 "대전투 교리"
 cnav_power_projection_doctrine:0 "세력 투사 교리"
 cnav_indirect_approach_doctrine:0 "간접 접근 교리"
 cnav_base_control_doctrine:0 "기지 타격 교리"
 
-### cair Minister
+### Chief of Air Force Minister ###
 cair_air_superiority_doctrine:0 "제공권 교리"
 cair_naval_aviation_doctrine:0 "해군항공대 교리"
 cair_battlefield_support_doctrine:0 "전장 지원 교리"
@@ -392,5 +415,9 @@ artillery_specialist_desc:1 "포병을 지시하는 즉시 기술을 익혔습�
 artillery_expert:0 "포병 숙련가"
 artillery_expert_desc:1 "포병을 지시하는 진정한 전문가입니다."
 artillery_ratio_over_30:1 "포병 비율 > §H30%§!"
+GXC_guangdong_clique_officer:0 "광도 군벌 장교"
+GXC_guangdong_clique_officer_desc:0 "This officer is either native to Guangdong Province or aligned with its leader."
+GXC_guangxi_clique_officer:0 "광서 군벌 장교"
+GXC_guangxi_clique_officer_desc:0 "This officer is either native to Guangxi Province or aligned with its leader."
 four_musketeers:0 "사총사"
 four_musketeers_desc:0 "현대 시암 참모장의 '백골'로 간주됩니다."
