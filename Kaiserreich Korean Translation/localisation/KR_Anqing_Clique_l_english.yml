@@ -17,8 +17,8 @@ ANQ_market_liberal_party_long:0 "베이징 협의회"
 anq_influencepartyname_projapan:0 "신해회"
 ANQ_social_conservative_party:0 "강남협회"
 ANQ_social_conservative_party_long:0 "강남협회"
-ANQ_authoritarian_democrat_party:0 "안칭 군벌"
-ANQ_authoritarian_democrat_party_long:0 "안칭 군벌"
+ANQ_authoritarian_democrat_party:0 "안청 군벌"
+ANQ_authoritarian_democrat_party_long:0 "안청 군벌"
 ANQ_paternal_autocrat_party:0 "안청 군벌"
 ANQ_paternal_autocrat_party_long:0 "안청 군벌"
 ANQ_national_populist_party:0 "일관도"
@@ -76,7 +76,7 @@ ANQ_no_reconstruction_aid:0 "Fengtian has denied us aid"
 anq_50_army_xp_tt:0 "§Y50§! £army_experience"
 anq_50_army_xp_tt_blocked:0 "§R50§! £army_experience"
 
-anq_gains_national_spirit:0 "Gains National Spirit "
+anq_gains_national_spirit:0 "국민정신 획득 "
 
 cred_check:0 "Has more than §Y80 £anq_credibility Credibility§!"
 
@@ -133,7 +133,7 @@ anq_decrease_reclamation_willingness_1_sqianq:0 "Due to Fengtian's failure to pr
 anq_decrease_reclamation_willingness_2:0 "Decrease §YWillingness§! to join the Reclamation War against Beijing by §M2§!.\n"
 anq_decrease_reclamation_willingness_3:0 "Decrease §YWillingness§! to join the Reclamation War against Beijing by §M3§!.\n"
 
-anq_has_governors_focus_tt:0 "Has installed governors.\n"
+anq_has_governors_focus_tt:0 "성장을 임명함.\n"
 
 anq_increase_jap_shipments_war_tt:0 "§GIncreases the regular shipments you receive from Japan by sea!§!\n"
 anq_increase_qing_shipments_war_tt:0 "§GIncreases the regular shipments you receive from Qing by river and rail!§!\n"
@@ -248,7 +248,7 @@ ANQ_hastened_doctrine_adoption_desc:0 "We have no time to properly investigate t
 ANQ_chens_propaganda:0 "Propaganda for Chen"
 
 # Cities
-ANQ_Xuzhou_City:0 "Fall of Xuzhou"
+ANQ_Xuzhou_City:0 ""
 ANQ_Xuzhou_City_desc:0 "North of the Huai river, the city of Xuzhou is not only a key railway hub but also a sizeable area for recruitement and an important balwark in any operations aimed at the conquest of Xuhai."
 ANQ_Nanchang_City:0 "Fall of Nanchang"
 ANQ_Nanchang_City_desc:0 "Recently connected by a railway built by many of our Chinese brethren, this city has formed an important center in the growth of the anti-concessionist movement and is a key asset for any would be conquerors of the decaying League."
