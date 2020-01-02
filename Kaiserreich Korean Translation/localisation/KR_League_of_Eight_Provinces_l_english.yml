@@ -1378,34 +1378,34 @@ LEP_temp_suppress_yiguandao_desc:0 "The Yiguandao cultists are rampaging in the 
 LEP_decision_lower_yiguandao_unrest:0 "Anti-Yiguandao Crackdowns"
 LEP_decision_lower_yiguandao_unrest_desc:0 "Now that we have begun improving the situation in Yiguandao and gotten rid of most of the instigators, the time has come for full-force crackdowns. We must find and track the gatherings of Yiguandao adherents and forcefully end them in order to safeguard our country's morality."
 
-lep_level_0:0 "Very High"
-lep_level_1:0 "High"
-lep_level_2:0 "Medium"
-lep_level_3:0 "Low"
-lep_level_4:0 "Very Low"
+lep_level_0:0 "매우 높음"
+lep_level_1:0 "높음"
+lep_level_2:0 "보통"
+lep_level_3:0 "낮음"
+lep_level_4:0 "매우 낮음"
 
-LEP_foreign_policy_decisions:0 "Looking Out From Nanjing"
-LEP_send_guns_to_XSM_decision:0 "Send Guns to the Ma Clique"
-LEP_send_guns_to_SIK_decision:0 "Send Guns to the Xinjiang Clique"
-LEP_war_with_hunan_decision:0 "Bring Hunan Back Into the League"
-LEP_war_with_linguuang_decision:0 "Bring Liangguang Back Into the League"
-LEP_league_of_5_decision:0 "The League of Five Provinces"
-LEP_league_of_6_decision:0 "The League of Six Provinces"
-LEP_league_back_to_normal_decision:0 "The League of Eight Provinces"
-LEP_league_of_9_decision:0 "The League of Nine Provinces"
+LEP_foreign_policy_decisions:0 "난징에서 내다보기"
+LEP_send_guns_to_XSM_decision:0 "마가 군벌에게 총기 지원"
+LEP_send_guns_to_SIK_decision:0 "신장 군벌에게 총기 지원"
+LEP_war_with_hunan_decision:0 "후난의 연합으로의 귀환"
+LEP_war_with_linguuang_decision:0 "량광의 연합으로의 귀환"
+LEP_league_of_5_decision:0 "오성연합"
+LEP_league_of_6_decision:0 "육성연합"
+LEP_league_back_to_normal_decision:0 "팔성연합"
+LEP_league_of_9_decision:0 "구성연합"
 
 
 #aog decisions
-LEP_AOG_decisions:0 "A.O.G. Collaboration"
-LEP_AOG_factories_civ:0 "Civilian Industry Support"
-LEP_AOG_factories_mil:0 "Military Industry Support"
-LEP_AOG_training:0 "German Military Support"
-LEP_AOG_decrease_influence:0 "Combat German Influence"
+LEP_AOG_decisions:0 "A.O.G.와의 협업"
+LEP_AOG_factories_civ:0 "민간 산업 지원"
+LEP_AOG_factories_mil:0 "군수 산업 지원"
+LEP_AOG_training:0 "독일 군사 지원"
+LEP_AOG_decrease_influence:0 "독일의 영향력 퇴치"
 #LEP_AOG_takeover
 #LEP_AOG_
 
 #opinion
-lep_aog_gea_relations:0 "A.O.G. Relations"
+lep_aog_gea_relations:0 "A.O.G.와의 관계"
 
 #Cosmetic Tags
 LEP_LFP_totalist:0 "오성코뮌연합"
