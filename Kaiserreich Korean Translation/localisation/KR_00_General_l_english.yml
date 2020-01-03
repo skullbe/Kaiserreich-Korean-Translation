@@ -222,10 +222,10 @@ XSM_KR_GATHERING_STORM_DESC:0 "마씨 세 가문은 지난 30년 동안 서북�
 SQI_KR_GATHERING_STORM_DESC:0 "산동의 통치자 장종창은 무장한 군대와 잔악무도한 명성을 앞세우고 있습니다. '개고기 장군'은 폭력과 범죄, 부조리등으로 유명하며, 그의 손아귀에 있는 지난의 수도는 착실히 주인을 따르고 있습니다.\n\n그러나 타이 산의 정상에서 찾기 힘든 장톈란 원로는 상기한 부패를 피해 지내고 있습니다. 대신 그는 중국을 1세기 이전으로 되돌리고, 중국을 그의 이관도 신앙으로 품을 수 있게 되기를 소망하고 있습니다. 이 상반되는 세력들 사이의 충돌이 중국을 영원히 바꿔버릴지도 모릅니다..."
 
 ### Shanxi Clique ###
-SHX_KR_GATHERING_STORM_DESC:0 "Unlike most other warlord factions, Yan Xishan's Shanxi clique has retained a policy of guarded neutrality for nearly three decades, broken only in times of great threat or great opportunity. Both presented themselves in 1928, and Yan joined Zhang Zuolin against the newly reformed Qing Government.\n\nUnfortunately the subsequent defeat deprived Yan of the eastern portion of his province, and forced him to induct Guominjun remnants to bolster his wavering forces. The consequences of 1928 are far from forgotten, and next time Yan must choose a side he must do so wisely... "
+SHX_KR_GATHERING_STORM_DESC:0 "다른 군벌들과는 달리 옌시산의 산서 군벌은 거대한 위협이나 큰 기회가 있을 때에만 깨졌던 신중한 중립정책을 거의 30년 동안 고수해왔습니다. 상기한 위협과 기회는 1928년에 있었는데, 새로이 재건국된 청나라 정부에 맞서 옌시산은 봉천-직예 전쟁에서 장쭤린편에 섰었습니다.\n\n불행히도 당시의 전쟁에서 패배하였고 옌시산은 동부 지방을 빼앗겼으며, 자신의 흔들리는 입지를 바로잡고자 국민군 잔당을 포섭했습니다. 1928년에 치뤘던 전쟁의 결과는 잊혀지지 않았고, 옌시산은 다음번에는 승산이 있는 쪽을 선택해야할 것입니다..."
 
 ### Sichuan Clique ###
-SZC_KR_GATHERING_STORM_DESC:0 "Sichuan has long been a microcosm of China's many woes, divided and constantly switching controllers since 1911. Yang Sen managed to emerge from the chaos as ruler with help from Wu Peifu's Zhili Clique, but even his control is far from absolute.\n\nFollowing a destructive Tibetan invasion, Yang has come to rely upon internal factions for support, most notably Liu Xiang's Industrial Corps and Deng Xihou's Baoding Department. Meanwhile, the exiled Officer Department has returned to the south with support from Yunnan. The Sichuanese powderkeg may explode once again..."
+SZC_KR_GATHERING_STORM_DESC:0 "사천은 1911년부터 오랫동안 중국내 많은 문제들의 축소판이었으며, 수없이 분단되고 지속적으로 통치자가 바뀌어왔습니다. 양센은 우페이푸의 직예 군벌의 도움을 받아 간신히 통치자의 입지가 흔들리는 혼란에서 벗어났지만, 권좌는 아직 온전하지 못 한 상태입니다.\n\n학살에 가까운 티베트 침공 후, 양센은 내부 파벌에 의존하게 되었는데, 그중 가장 유명한 파벌은 류샹의 산업 군단과 덩샤오핑의 바오딩 행정부입니다. 다른한편, 망명했던 장교부는 운남의 지원을 받아 남쪽으로 돌아왔습니다. 사천의 화약고가 다시 한번 폭발할지도 모릅니다..."
 
 ### History ###
 OTHER_KR_GATHERING_STORM_DESC:0 "세계의 크고 작은 국가들은 세계에서 주요한 역할로 등장할 기회를 기다리고 있습니다. 자신의 제국을 유지하려는 주요 국가들부터 세계대전에서 잃은 자신의 것들을 되찾으려는 많은 국가들까지, 모든 국가들은 어려운 결정들을 내려야만 할 것이고 현실과 이상 사이의 균형을 잘 맞춰 세계의 미래에 영향을 미쳐야 할 것 입니다..."
