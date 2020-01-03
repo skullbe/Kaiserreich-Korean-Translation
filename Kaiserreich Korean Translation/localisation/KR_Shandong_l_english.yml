@@ -10,8 +10,8 @@ SQI_honored_master_desc:0 "악명높은 장종창을 태산 정상에서 전향�
 SQI_flight_north:0 "북쪽으로의 탈출"
 SQI_flight_north_desc:0 "Thousands flee to Shandong to escape the disarray to the south. Pushed by warlords’ levies and pulled by Yiguandao salvationist promises, Zongchang's relaxed rule offers at least temporary asylum. Whomever rules will decide the fate of these refugees."
 SQI_Rampant_drug_trade:0 "만연한 마약 거래"
-SQI_Rampant_drug_trade_desc:0 "장종창의 약점인 아편은 산동 시민들에게 퍼져있고, 이로인해 많은 사람들이 실망하고 있습니다. 마약 가격이 오르면서 폭력 사건과 강탈 사건들이 늘어나고 있습니다. 이관도와 렌치는 마약 거래와의 전쟁을 기도하고 있습니다."
-SQI_Yiguandao_revolt:0 "이관도 봉기"
+SQI_Rampant_drug_trade_desc:0 "장종창의 약점인 아편은 산동 시민들에게 퍼져있고, 이로인해 많은 사람들이 실망하고 있습니다. 마약 가격이 오르면서 폭력 사건과 강탈 사건들이 늘어나고 있습니다. 일관도와 렌치는 마약 거래와의 전쟁을 기도하고 있습니다."
+SQI_Yiguandao_revolt:0 "일관도 봉기"
 SQI_Yiguandao_revolt_desc:0 "The protocols given to the Yiguandao should Tianran fall in his sacred mission have been deployed by the remaining minor Emperors and second-level Managers. The Yiguandao are currently asking followers to burn their posessions and reclocate to grotto-heavens in perperation for the delusional Maha-Kalpa, the apocalyse. We cannot recruit or tax people in this frenzied state."
 SQI_Peasant_revolt:0 "농민 봉기"
 SQI_Peasant_revolt_desc:0 "The outrage at the dealings in Jinan and Taishan has destabilized the province. Tax collectors are demanding immediate payment, toll roads are being erected by townships, and the hoarding of weapons against the government is at an all time high. We must deploy men to the countryside if the people of Shandong are to ever trust us again."
@@ -155,7 +155,7 @@ jinan_arsenal:0 "지난 병기창"
 ### Flags
 
 SQI_Zheyuan_beat_Zongchang:0 "Zheyuan Managed to take Power"
-SQI_Tianran_beat_Zongchang:0 "이관도가 권력을 장악함"
+SQI_Tianran_beat_Zongchang:0 "일관도가 권력을 장악함"
 SQI_Zongchang_beat_Tianran:0 "종창이 권력을 유지함"
 SQI_puppet:0 "산동은 괴뢰국임"
 SQI_is_recruiting:0 "우리는 군대 징집 중"
@@ -175,7 +175,7 @@ SQI_two_zhangs_tooltip:0 "§MThis focus will decide the fate of Shandong and its
 ### Decisions ###
 SQI_riot_policy_decisions:0 "Shandong Civil Disturbances"
 SQI_riot_policy_decisions_desc:0 "We must deal with the numerous opportunities political instability has wrought. They hide in the mountains, raiding towns and insisting our governance is ilegitimate."
-SQI_end_Yiguandao_riot:0 "이관도 폭동 종식"
+SQI_end_Yiguandao_riot:0 "일관도 폭동 종식"
 SQI_end_peasant_riot:0 "농민 폭동 종식"
 SQI_end_Zongchang_riot:0 "종창 폭동 종식"
 SQI_end_Loyal_citizens:0 "합법적인 정권"
@@ -312,8 +312,8 @@ SQI_authoritarian_democrat_party_long:0 "Society of Restoring Benevolence (Guire
 sqi_auth_dem_liu_heding_puppet:0 "리우 파벌"
 SQI_paternal_autocrat_party:0 "종창 파벌"
 SQI_paternal_autocrat_party_long:0 "종창 파벌 (종창 파이)                     §gThe Zongchang Clique rule over a majority of Shandong from the inland commercial hub of Jinan. This extends along the Shandong railway up until Weifang, and along the main road to Yantai. The clique is run by Zongchang along with his associates loyal to him including Zhang Jingyao and Zhang Zizhong. Zongchang’s true power is in the well armed remnants of the Shandong Revolutionary Army that patrol the province. Although they still technically adhere to a ban on opium, in practice Zongchang uses the railway to get his supply from Qingdao.§!"
-SQI_national_populist_party:0 "이관도회"
-SQI_national_populist_party_long:0 "이관도회 (이구안다오 후이)                     §gThe Yiguandao is a cult originally part of the White Lotus Society that was practiced throughout China in the 19th Century. Their syncretic beliefs combine the structure of heaven of Confucianism, the variety of gods of Buddhism, and the life extending practices of Daoism. The Yiguandao doctrine was confided by Teacher Lu Zhongjie to his small group during the Weltkrieg, and most subsequent converts learn in stages. This ensures that the core leadership has enough chips to adjust the cult to fit their personal goals. First among this group is Teacher Zhang Tianran, the successor to Lu Zhongyi. Through Tianran’s political maneuvering, the cult has grown to about 7 million adherents across China, with only 500,000 members located within the Shangqing itself.                                       Peasant Armies throughout Northern China, particularly the Big Swords Society and Red Spears Society, see the Yiguandao as the most morally upright government in China.§!"
+SQI_national_populist_party:0 "일관도회"
+SQI_national_populist_party_long:0 "일관도회 (이구안다오 후이)                     §gThe Yiguandao is a cult originally part of the White Lotus Society that was practiced throughout China in the 19th Century. Their syncretic beliefs combine the structure of heaven of Confucianism, the variety of gods of Buddhism, and the life extending practices of Daoism. The Yiguandao doctrine was confided by Teacher Lu Zhongjie to his small group during the Weltkrieg, and most subsequent converts learn in stages. This ensures that the core leadership has enough chips to adjust the cult to fit their personal goals. First among this group is Teacher Zhang Tianran, the successor to Lu Zhongyi. Through Tianran’s political maneuvering, the cult has grown to about 7 million adherents across China, with only 500,000 members located within the Shangqing itself.                                       Peasant Armies throughout Northern China, particularly the Big Swords Society and Red Spears Society, see the Yiguandao as the most morally upright government in China.§!"
 sqi_pat_aut_liu_heding_puppet:0 "안청 군벌"
 
 ### Opinion Modifiers ###
