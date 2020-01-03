@@ -66,68 +66,68 @@ SIK_mongol_killing_time:0 "Mongolian raiders are located and our soldiers are re
 SIK_yang_yunnan:0 "Yang Zengxin has been spotted in Yunnan"
 
 ### Ideas ###
-SIK_opium_addiction:0 "The Army and Opium"
-SIK_opium_addiction_desc:0 "The army of Xinjiang, especially in the south has a hard addiction for opium, and needs it to function. We'll need to supply them with opium or try to get rid of the addiction altogether if we want to not have problems with this."
+SIK_opium_addiction:0 "아편에 중독된 군대"
+SIK_opium_addiction_desc:0 "신장의 군대 특히 남부군은 아편 중독이 심하여 제 기능을 발휘하려면 아편이 필요합니다. 이로인해 문제가 발생하지 않으려면 우리는 그들에게 아편을 상시 공급하거나  그것을 끊도록 노력해야 할것입니다."
 
-SIK_opium_searching:0 "Searching for Opium Source"
-SIK_opium_searching_desc:0 "The army of Xinjiang, especially in the south has a hard addiction for opium, and needs it to function. While we have eliminated the drug pushers within our general infantry ranks, the effects of widthdrawl will keep our soldiers weak until a more controllable substance is found."
+SIK_opium_searching:0 "군대가 아편을 찾아다님"
+SIK_opium_searching_desc:0 "신장의 군대 특히 남부군은 아편 중독이 심하여 제 기능을 발휘하려면 아편이 필요합니다. 우리는 일반 보병대 내에서 마약 밀매자를 제거했지만, 악영향은 우리 병사들을 더욱 통제할수 있는 물질이 발견될때까지 계속될 것입니다."
 
-SIK_opium_solution:0 "Gansu Suppliers"
-SIK_opium_solution_desc:0 "The army of Xinjiang, especially in the south has a hard addiction for opium, and needs it to function. Fortunately, we have given amnesty to a group of knowledgable farmers from Gansu who have been driven out of their homes by the Yihewanai muslims. They have agreed to grow crop for the army."
+SIK_opium_solution:0 "간쑤의 공급업체"
+SIK_opium_solution_desc:0 "신장의 군대 특히 남부군은 아편 중독이 심하여 제 기능을 발휘하려면 아편이 필요합니다. 다행히도 우리는 이허와나이 이슬람교도 들에 의해 쫒겨난 간쑤 출신의 지식있는 농부들을 사면해 주었습니다. 그들은 군대의 작물을 공급하기로 약속했습니다."
 
-SIK_pushing_edge:0 "Pushing the Edge"
-SIK_pushing_edge_desc:0 "Yang Zengxin has experience with the Uyghur population and knows the point to which Uyghurs are able to take high amounts of oppression. Yang's regime pushes this edge to the limit, and anything more would cause tensions to explode immediately."
+SIK_pushing_edge:0 "구석으로 밀어넣기"
+SIK_pushing_edge_desc:0 "양젠신은 위구루족에대한 경험이 풍부하며 위구르를 가장 고도화된 수준으로 밀어내는 법을 잘알고 있습니다. 양씨 정권은 이들을 최대한 극한의 사지로 몰아넣을 것이고, 그 이상으로 밀어 넣거나 무슨 일이 일어난다면 당장 폭발할 것입니다."
 
-SIK_over_edge:0 "Over the Edge"
-SIK_over_edge_desc:0 "Yang Zengxin's careful policy of pushing the Uyghur population has been completely thrown out the window by Jin Shuren. He has proceeded to double the tax of Uyghur land owners, deeply upsetting the population with the opinion of Jin Shuren on a far decline."
+SIK_over_edge:0 "선을 넘어서다"
+SIK_over_edge_desc:0 "양쩡신이 조심조심하며 위구루 인구들을 밀어내던 수법은 진슈렌에 의해 완전히 내동댕이쳐져 버렸습니다. 진슈렌의 위구르인 토지 소유자의 세금을 두배로 인상하는 의견으로 사람들은 크게 동요하고 있습니다."
 
-SIK_enemies_all_sides:0 "Enemies on All Sides"
-SIK_enemies_all_sides_desc:0 "Surrounded by Tungans to the East and Uyghurs to the south, the Xinjiang governorship is in danger, and won't be making it out alive if they lose here. Xinjiang will only fall is both §YAksu§! and §YDihua§! fall, our last stations of resistance."
+SIK_enemies_all_sides:0 "다방면의 적"
+SIK_enemies_all_sides_desc:0 "동쪽으로는 퉁간인들이 남쪽으로는 위구르족에게 둘러쌓여, 신장군벌은 위험에 빠져있으며, 여기서 지면 누구도 살아남지 못할 것입니다. 우리의 최후의 저항거점인 §YAksu§!와 §YDihua§!가 함락된다면 신장은 끝장입니다."
 
-SIK_rumors_discontent:0 "Rumours of Discontent"
-SIK_rumors_discontent_desc:0 "While for now the Xinjiang governorship is united against the threat sof the Uyghurs and Kumuliks, we are still as factionalized as ever. Sheng Shicai has been using this as his chance to build up strength in Aksu while others are beginning to consider defecting to the Kumuliks. If we do not keep the threat contained, Jin's status as governor could be shorter lived then expected."
+SIK_rumors_discontent:0 "불만에대한 소문"
+SIK_rumors_discontent_desc:0 "현재에는 위구르족과 쿠물족에 맞서 신장이 단결하고는 있지만, 우리는 이전과 다음없이 파벌화되어 있습니다. 어떤 사람들은 쿠물 칸국에 망명하는 것을 고려하고 있는 한편, 셍시차이는 이것은 악수에서 힘을 기르기위한 기회로 삼아 왔습니다. 이러한 위협을 잘 억제하지 못한다면, 이곳의 지배자로서 진씨의 지위는 기대한 것보다 짧아 질수 있습니다."
 
-SIK_rumors_discontent_2:0 "Rumours of Discontent"
-SIK_rumors_discontent_2_desc:0 "While for now the Xinjiang governorship is united against the threat sof the Uyghurs and Kumuliks, we are still as factionalized as ever. Sheng Shicai has been using this as his chance to build up strength in Aksu while others are beginning to consider defecting to the Kumuliks. If we do not keep the threat contained, Jin's status as governor could be shorter lived then expected."
+SIK_rumors_discontent_2:0 "불만에대한 소문"
+SIK_rumors_discontent_2_desc:0 "현재에는 위구르족과 쿠물족에 맞서 신장이 단결하고는 있지만, 우리는 이전과 다음없이 파벌화되어 있습니다. 어떤 사람들은 쿠물 칸국에 망명하는 것을 고려하고 있는 한편, 셍시차이는 이것은 악수에서 힘을 기르기위한 기회로 삼아 왔습니다. 이러한 위협을 잘 억제하지 못한다면, 이곳의 지배자로서 진씨의 지위는 기대한 것보다 짧아 질수 있습니다."
 
-SIK_rumors_discontent_3:0 "Rumours of Discontent"
-SIK_rumors_discontent_3_desc:0 "While for now the Xinjiang governorship is united against the threat sof the Uyghurs and Kumuliks, we are still as factionalized as ever. Sheng Shicai has been using this as his chance to build up strength in Aksu while others are beginning to consider defecting to the Kumuliks. If we do not keep the threat contained, Jin's status as governor could be shorter lived then expected."
+SIK_rumors_discontent_3:0 "불만에대한 소문"
+SIK_rumors_discontent_3_desc:0 "현재에는 위구르족과 쿠물족에 맞서 신장이 단결하고는 있지만, 우리는 이전과 다음없이 파벌화되어 있습니다. 어떤 사람들은 쿠물 칸국에 망명하는 것을 고려하고 있는 한편, 셍시차이는 이것은 악수에서 힘을 기르기위한 기회로 삼아 왔습니다. 이러한 위협을 잘 억제하지 못한다면, 이곳의 지배자로서 진씨의 지위는 기대한 것보다 짧아 질수 있습니다."
 
-SIK_more_workers_employed:0 "Rush of Employment"
-SIK_more_workers_employed_desc:0 "Sheng Shicai has opened his own civil service examination, with slots for men of all races in Xinjiang to apply for employment. This strategy Sheng learned from his studies of tutelage back east."
+SIK_more_workers_employed:0 "고용 창출"
+SIK_more_workers_employed_desc:0 "셍시차이는 신장에 있는 모든 인종의 사람들이 채용신청을 할 수 있는 자리를 마련하여 공무에 대한 시험을 보게했습니다. 이러한 정략은 동쪽의 교육제도를 보고 배운 것입니다."
 
-SIK_armed_neutrality:0 "Seven Point Manifesto"
-SIK_armed_neutrality_desc:0 "For centuries a pawn of the Russians, the uyghurs and the Emirs, Sheng Shicai has proclaimed the ideological tenants of his regime, and simultaneously has opened the door to better relations with the southern Chinese nation-builders he so admires."
+SIK_armed_neutrality:0 "일곱가지 성명서"
+SIK_armed_neutrality_desc:0 "수 세기 동안 러시아와 위구르족, 에미르들의 졸에 불과했던 그 땅의 소작인들에게 셍시차이 정권의 이데올로기를 선언했고, 그와 동시에 그가 존경하는 남쪽의 근대중국의 건설자들과 더나은 관계를 맺을 수 있도록 문을 개방하였습니다."
 
-SIK_armed_neutrality2:0 "Seven Point Manifesto"
-SIK_armed_neutrality2_desc:0 "For centuries a pawn of the Russians, the uyghurs and the Emirs, Sheng Shicai has proclaimed the ideological tenants of his regime, and simultaneously has opened the door to better relations with the southern Chinese nation-builders he so admires."
+SIK_armed_neutrality2:0 "일곱가지 성명서"
+SIK_armed_neutrality2_desc:0 "수 세기 동안 러시아와 위구르족, 에미르들의 졸에 불과했던 그 땅의 소작인들에게 셍시차이 정권의 이데올로기를 선언했고, 그와 동시에 그가 존경하는 남쪽의 근대중국의 건설자들과 더나은 관계를 맺을 수 있도록 문을 개방하였습니다."
 
-SIK_armed_neutrality3:0 "Seven Point Manifesto"
-SIK_armed_neutrality3_desc:0 "For centuries a pawn of the Russians, the uyghurs and the Emirs, Sheng Shicai has proclaimed the ideological tenants of his regime, and simultaneously has opened the door to better relations with the southern Chinese nation-builders he so admires."
+SIK_armed_neutrality3:0 "일곱가지 성명서"
+SIK_armed_neutrality3_desc:0 "수 세기 동안 러시아와 위구르족, 에미르들의 졸에 불과했던 그 땅의 소작인들에게 셍시차이 정권의 이데올로기를 선언했고, 그와 동시에 그가 존경하는 남쪽의 근대중국의 건설자들과 더나은 관계를 맺을 수 있도록 문을 개방하였습니다."
 
-SIK_armed_neutrality4:0 "Proclaimed Three Principles"
-SIK_armed_neutrality4_desc:0 "Since the Seven Points was not a complete decleration, Shen Shicai has proclaimed his open admiration of the Three Principles of the People of Dr. Sun Yat Sen. This has brought cautious KMT supporters in Xinjiang out to the open as supporters of Sheng."
+SIK_armed_neutrality4:0 "세가지의 원칙 선언"
+SIK_armed_neutrality4_desc:0 "일곱가지 성명서가 완전한 선언문은 아니였기때문에, 셍시차이는 쑨원의 3대 원칙에 공개적으로 존경을 표시했습니다. 이러한 행동은 조심스러운 KMT지지자들을 셍의 지지자로서 나서개 하는 원동력이 되었습니다."
 
-SIK_neutrality_idea:0 "Indifference to Beijing"
-SIK_neutrality_idea_desc:0 "For too long Beijing has levied the people of Xinjiang, and given false promises of repaying our sacrifice for their unsustainable system. No more shall we respect the Amban of Beijing, for we are strictly neutral to their wars."
+SIK_neutrality_idea:0 "베이징을 무시하다"
+SIK_neutrality_idea_desc:0 "너무 오랜세월동안 베이징은 신장의 주민들에게 많은 세금을 부과했고, 그러한 지속불가능한 우리의 희생에대한 보답을 하겠다는 잘못된 약속을 했습니다. 그러한 베이징의 암반(만주 최고위 회의)를 존중하지 않을 것입니다. 우리는 그들의 전쟁에 관여하지 않을 것입니다."
 
-SIK_immigration:0 "Immigration Push"
-SIK_immigration_desc:0 "The governor has initiated a land grant program to encorage settlement of pastures following the destructive civil war in Xinjiang. The Governor hopes that this will help increase their foothold in Xinjiang."
+SIK_immigration:0 "이민 추진"
+SIK_immigration_desc:0 "정부수반은 파괴당한 신장의 목초지 위에 정착을 위한 토지 보조금 프로그램을 실행했다. 지도자는 이것이 신장에 그들의 거점을 늘리는데 도움을 줄것으로 기대하고 있다."
 
-SIK_jahriyya:0 "Restarting the Jahriyya"
-SIK_jahriyya_desc:0 "Thanks to Ma Shoawu's connection to the Sufi Jahriyya Order, he is able to begin exciting the formerly beleagured muslim population of Xinjiang with the hope that they will turn away from Hanafi extremism or the encroaching Salafism and towards both a chinese and Islamic interpretation of the Quran."
+SIK_jahriyya:0 "자흐리야를 복원"
+SIK_jahriyya_desc:0 "마쇼아우가 수피 자흐리야의 권위와 연계를 함으로서, 그는 하나피 극단주의나 잠식해오는 살라피즘에서 벗어나 쿠란에대한 중국인과 이슬람의 해석으로 향하게 될것이라는 희망으로, 이전의 황폐했던 신장의 이슬람 교도들은 매우 흥분하고 있습니다."
 
-SIK_jahriyya2:0 "Exciting the Jahriyya"
-SIK_jahriyya2_desc:0 "It appears that the Jahriyya have been able to rebuild their network in Xinjiang, and have caught the attention of the Ma Clique. Save for the Sufi Yihewanai, the Jahriyya are being roundly denounced as infidels by the other Xinjiao across western China. This has galvanized the Jahriyya to dedicate themselves to Ma Shaowu."
+SIK_jahriyya2:0 "자흐리야로인한 흥분"
+SIK_jahriyya2_desc:0 "자흐리야은 신장지역에서 재건된 것으로 보이며, 마가군벌의 관심을 끈 것 같습니다. 수피 위허하나이를 위해 모인 자흐리야는 중국 서부를 가로질러 다른 신장의 불신자들에 의해 강하게 비판받고 있습니다. 이러한 충격 요법으로서 자흐리야는 진정으로 마쇼오우에게 몸을 바칠 준비가 되었습니다."
 
-SIK_menhuan_education:0 "Menhuan Education"
-SIK_menhuan_education_desc:0 "Through Sufi tradition, the Menhuan orders throughout Xinjiang have collected a large stable of educational material. Through the compassion and patronage of the Governor, Menhuan orders are now free to practice their islamic education freely."
+SIK_menhuan_education:0 "먼후안 교육"
+SIK_menhuan_education_desc:0 "수피의 전통을 통해 신장 전역에 먼후안의 권위는 기초 교육에 큰 안정을 가져왔습니다. 지배자의 연민과 후원을 통해 먼후안은 이제 자유롭게 그들의 이슬람 교육을 펼칠 수 있게 되었다."
 
-SIK_closer:0 "Loyalty Tests"
-SIK_closer_desc:0 "After the series of betrayals that threatened to ruin Xinjiang, the Governor has drafted a series of loyalty oaths to be taken, based on the Imperial Examination Board's assessment of competency. Having a legal basis for future advancment will help us project a legitimate government."
+SIK_closer:0 "충성심 시험"
+SIK_closer_desc:0 "신장을 망치겠다고 위협한 일련의 배신행위 이후, 지도자는 제국검사위원회의 역량평가를 바탕으로 취할 일련의 충성맹세서의 초안을 작성했습니다. 향후 승진을 위한 법적 근거를 마련하는 것은 합법적인 정부구성을 하는 데에도 두움이 될 것입니다."
 
-SIK_tradeing_allies:0 "Western Gate Opened"
-SIK_tradeing_allies_desc:0 "In order to avoid becoming the pawm of multiple imperial powers, we have dedicated police forces to ensuring the trade routes in Xinjiang and open and free of banditry."
+SIK_tradeing_allies:0 "서쪽 관문의 개방"
+SIK_tradeing_allies_desc:0 "다양한 제국들의 졸개가 되는 것을 피하기 위해 경찰력을 투입하여 신장지역의 교역로를 확보하고 도적때를 근절하는데 중점을 두고 있습니다."
 
 ### Decisions ###
 SIK_killing_mongol_decision_category:0 "Mongol Banditry"
@@ -184,11 +184,11 @@ SIK_assassinate_damulla_category_desc:0 "Sabit Damulla currently leads a coaliti
 SIK_assassinate_sabit_damulla_decision:0 "The Plan"
 
 ### Events ###
-xin.0.t:0 "Introduction to the Xinjiang Clique"
-xin.0.desc:0 "The Xinjiang province of China has had a disruptive history like much of the northwest, as the region has been constantly plagued with whispers of unrest to this day. The Xinhai Revolution spawned yet more of the already used to chaos caused by the local Uyghur population, being more Central Asian then Chinese. The present governor Yuan Du-Hua failed to keep the situation under control, fleeing the province and leaving it in the hands of his trusted advisor Yang Zengxin.\n\nYang through shrewd dealings and violent repression has kept Xinjiang 'stable' for his 20 years of governorship. Yang himself is a very paranoid man, taking all possible precautions to prevent uprisings while still repressing the Uyghurs located within Xinjiang to no end. By 36, he is a secluded soul staying within his house and rarely coming outside due to fear of political assassination by one of his few retainers left. Most duties are handled between his three most powerful advisors Jin Shuren, the Dao-yin of Hotan Ma Shaowu, and the Dao-yin of Aksu and foreign minister Fan Yaonan. Together these three handle most of the everyday administration of Xinjiang while taking orders from Yang himself on occasions. For now, the status quo within Xinjiang is kept but with Yang's seclusion getting worse and worse, anything could happen."
-xin.0.a:0 "May Yang Zengxin live long and prosper"
-xin.0.b:0 "What is the Kumul Khanate?"
-xin.0.c:0 "Uyghurs?"
+xin.0.t:0 "신장 군벌 소개"
+xin.0.desc:0 "중국의 신장성은 오늘날까지 끊임없이 불안의 속삭임에 고통받고 있기때문에 서북부의 많은 지역들과 마찬가지로 파괴적인 역사를 가지고 있습니다. 신해혁명의 여파는 위구르 인들에 의해 반생하고 있던 혼란보다 중앙아시아에 거주하고 있던 중국인들에 의해 발생한 것이 더 많습니다. 최근의 도지사인 완두화는 이 사태를 전혀 수습하지 못했고, 그의 지역을 떠나 그의 신임 고문인 양쩡신에게 위임한뒤 떠났습니다.\n\n 신장은 약싹바른 거래와 폭압적인 정책을 통해 20년간 통지를 유지해 왔습니다. 양씨 자신은 매우 편집증적인 사람으로 신장에 거주하는 위구르 인들은 한계까지 억압하여 봉기를 예방하기 위한 모든 조치들을 취하고 있습니다. 1936년까지, 그는 그의 저택에만 머무르며 그의 몇명의 신하중 한명이 시도 했던 암살에대한 두려움 때문에 좀처럼 나오지 않는 외딴 영혼입니다. 대부분의 임무는 그의 강력한 조언가인 진슈렌, 마샤오우, 판 야오난의 사이에서 처리됩니다. 세사람의 의견이 합치하여 일상 업무를 처리하면서 가끔 양지사의 지시를 받습니다. 현재로선 신장내의 현상유지는 되지만 양씨의 운둔이 갈수록 심해지면서 무슨일이 일어날 수도 있습니다."
+xin.0.a:0 "양쩡신이시여 장수하고 번창하시길"
+xin.0.b:0 "쿠물칸국이 뭔데?"
+xin.0.c:0 "위구르인들?"
 
 xin.1.t:0 "Xinjiang and the Kumul Khanate"
 xin.1.desc:0 "The Kumul Khanate is officially a protectorate of the Qing within Xinjiang, and is a largely stabilizing factor for Xinjiang itself. Currently ruled by Nasīr Shah, the khanate does very little in the day to day rule of Xinjiang, besides having to pay tribute to the Xinjiang governorship yearly. Why does it matter? Many see the Kumul Khanate's current autonomy as the only thing keeping tensions within Xinjiang from exploding, as it shows a degree of Uyghur rule within the province even if people don't like the current ruler Nasīr. Its existence is key to our peace in the northwest, and only an absolute fool would even dare to try and mess with its presence."
