@@ -127,26 +127,26 @@ NIC_education_economic_reform_desc:0 "대통령으로서 모레노가 시행한 
 NIC_remaining_UFC_influence:0 "미국의 오랜 영향력"
 NIC_remaining_UFC_influence_desc:0 "산디노가 미국의 영향력을 뿌리치기 위해 수행한 수많은 시도에도 불구하고 경제가 여전히 매처럼 우리 주변을 돌고 있는 유나이티드 프루트 컴퍼니의 힘에 의존하고 있기 때문에, 미국의 영향력은 전혀 줄어들지 않습니다. 하지만 미국이 지켜보고 있는 한, 우리는 영원히 이 족쇄를 풀 수 없습니다."
 
-NIC_remaining_UFC_influence_oof:0 "Lingering American Influence"
-NIC_remaining_UFC_influence_oof_desc:0 "Despite Sandino's many attempts to throw away the United States influence, it still lingers about as the economy is heavily reliant on the United Fruit Company that continues to loom over us like a hawk. As long as the United States is watching however, we cannot remove this shackle off our back for good."
+NIC_remaining_UFC_influence_oof:0 "미국의 오랜 영향력"
+NIC_remaining_UFC_influence_oof_desc:0 "산디노가 미국의 영향력을 뿌리치기 위해 수행한 수많은 시도에도 불구하고 경제가 여전히 매처럼 우리 주변을 돌고 있는 유나이티드 프루트 컴퍼니의 힘에 의존하고 있기 때문에, 미국의 영향력은 전혀 줄어들지 않습니다. 하지만 미국이 지켜보고 있는 한, 우리는 영원히 이 족쇄를 풀 수 없습니다."
 
-NIC_remaining_UFC_influence_oof_2:0 "Lingering American Influence"
-NIC_remaining_UFC_influence_oof_2_desc:0 "Despite Sandino's many attempts to throw away the United States influence, it still lingers about as the economy is heavily reliant on the United Fruit Company that continues to loom over us like a hawk. As long as the United States is watching however, we cannot remove this shackle off our back for good."
+NIC_remaining_UFC_influence_oof_2:0 "미국의 오랜 영향력"
+NIC_remaining_UFC_influence_oof_2_desc:0 "산디노가 미국의 영향력을 뿌리치기 위해 수행한 수많은 시도에도 불구하고 경제가 여전히 매처럼 우리 주변을 돌고 있는 유나이티드 프루트 컴퍼니의 힘에 의존하고 있기 때문에, 미국의 영향력은 전혀 줄어들지 않습니다. 하지만 미국이 지켜보고 있는 한, 우리는 영원히 이 족쇄를 풀 수 없습니다."
 
-NIC_move_autarky:0 "Moves Towards Autarky"
-NIC_move_autarky_desc:0 "While complete economic independence for Nicaragua is impossible without a true miracle, Sacasa has made minor moves to reduce our economic reliance on the United States and improve both our internal economy as well as our trade with other powers."
+NIC_move_autarky:0 "경제 자립을 위한 움직임"
+NIC_move_autarky_desc:0 "니카라과의 완전한 경제적 독립은 기적이 함께하지 않는다면 전혀 불가능하지만, 사카사는 미국에 대한 경제적 의존도를 줄이고 내수시장과 강대국들간의 무역을 동시에 개선하기 위한 작은 시도를 했습니다."
 
-NIC_mercenaries_rampant:0 "Mercenaries Rampant"
-NIC_mercenaries_rampant_desc:0 "With the United Fruit Company hiring a group of thugs in Eastern Nicaragua due to our nationalization of their assets, this new mercenary army has begun to become rampant and causing chaos in the region. The people grow tired of this, and our army is constantly getting distracted by them."
+NIC_mercenaries_rampant:0 "만연한 용병단 문제"
+NIC_mercenaries_rampant_desc:0 "유나이티드 프루트 컴퍼니 자산 국유화 사건으로 인해 회사측에서 고용한 폭력배 한 무리를 동부 니카라과에 풀어놓았습니다. 이 용병들은 동부 지역에서 횡포를 부리며 혼란을 일으키기 시작했습니다. 인민들은 이에 분통을 터트리고 있으며, 군대 또한 이들에게 정신이 팔려 있습니다."
 
-NIC_economic_backfire:0 "Economic Backfire"
-NIC_economic_backfire_desc:0 "The removal of the United Fruit Company from our country has left a very noticeable hole that will need to be filled if we wish to function properly as a country."
+NIC_economic_backfire:0 "경제적 역효과"
+NIC_economic_backfire_desc:0 "유나이티드 프루트 컴퍼니를 몰아내었지만 그들은 우리 경제에 눈에 띄도록 커다란 구멍을 남겨놓고 사라졌습니다. 국가가 제대로 기능하려면 이 구멍을 어떻게든 채워야 합니다."
 
-NIC_agriculture_reliance:0 "Agricultural Reliance"
-NIC_agriculture_reliance_desc:0 "Our economy remains extremely reliant on our exports of agriculture, and will remain that way for the greater good of our nation."
+NIC_agriculture_reliance:0 "농업에 의존"
+NIC_agriculture_reliance_desc:0 "우리 경제는 여전히 농업 수출량에 의존하고 있으며 우리나라의 더 큰 이익을 위해 이를 유지할 겁니다."
 
-NIC_agriculture_reliance_2:0 "Agricultural Reliance"
-NIC_agriculture_reliance_2_desc:0 "Our economy remains extremely reliant on our exports of agriculture, and will remain that way for the greater good of our nation."
+NIC_agriculture_reliance_2:0 "농업에 의존"
+NIC_agriculture_reliance_2_desc:0 "우리 경제는 여전히 농업 수출량에 의존하고 있으며 우리나라의 더 큰 이익을 위해 이를 유지할 겁니다."
 
 NIC_agriculture_reliance_3:0 "Export Economy"
 NIC_agriculture_reliance_3_desc:0 "Our economy has completely transitioned to an export based one, with a reliance on foreign powers buying our tropical cash crops that are hard for them to get otherwise. While this rakes in great profits, it could come back to haunt us if those countries should stop buying our products."
