@@ -124,7 +124,7 @@ XSM_reinforce_biao_garrison:0 "마바오에게 지원군을 보낸다"
 XSM_reinforce_biao_garrison_desc:0 "While Ma Biao is constantly fighting the Tibetan raids in the south, he needs monthly reinforcement to keep the garrison up. If we fail to him supplied, this might expose an opportunity to the Tibetans to make major gains in the region."
 XSM_yushu_government_police:0 "유수에 경비조직을 조직"
 XSM_yushu_government_police_desc:0 "While one of Ma Qi's policies in the Yushu Eight Point Plan was to setup police in Yushu, this was never met before his untimely death. With rising tensions in the town once again, maybe it's time to live up to that promise?"
-XSM_yushu_government_police2:0 "게구 수도원에 도돕들을 보내다"
+XSM_yushu_government_police2:0 "게구 수도원에 도도들을 보내다"
 XSM_yushu_government_police2_desc:0 "While one of the 13th Dalai Lama policies was to defend the Gyêgu Monastary, this was never met before his untimely death. With rising tensions in the town once again, maybe it's time to live up to that promise?"
 XSM_dongxiang_mongol_raid:0 "둥샹에서의 몽골의 습격"
 XSM_dongxiang_mongol_raid_desc:0 "The small Mongolian population in Qinghai is known for being guns for hire, serving in the Tibetan War on our side. We could employ their help to scout out Tibetan camps to raid."
@@ -446,7 +446,7 @@ XSM_farming_assistance_desc:0 "The three provinces are home to rich, fertile soi
 XSM_roads:0 "칭하이 연결"
 XSM_roads_desc:0 "The Qinghai-Lanzhou railway has been a dream of a number of ambitious engineers in our provinces, but as of yet no money has been dedicated to it. This administration is ready to make that dream a reality, and bring a modern necessity to communities in need."
 
-XSM_gansu_reconstruction_plan:0 "The Reconstruction of Gansu"
+XSM_gansu_reconstruction_plan:0 "간쑤 재개발"
 XSM_gansu_reconstruction_plan_desc:0 "The devastation wrought by the Guominjin and the reconquest has left Gansu in tatters. As the region's economy and political institutions have recovered at a mere snail's pace, state intervention is needed to get the province back on its feet."
 
 XSM_clearing_space:0 "정리사업"
