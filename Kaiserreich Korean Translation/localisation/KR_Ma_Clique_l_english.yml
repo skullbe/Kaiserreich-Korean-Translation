@@ -96,7 +96,7 @@ XSM_horse:0 "엘리트 기병대"
 XSM_horse_desc:0 "땅 건너편에 있는 습격자들과 부족민들은 마씨 군벌의 적들에게 엄청난 피해를 강요하고 있습니다."
 
 XSM_opium_production:0 "간쑤의 아편문제"
-XSM_opium_production_desc:0 "마 가문은 중국의 어려운 경제상황에 대해 직시해야만 합니다. 아편시작이 혁파되고 중국 전체가 이슬람에 의해 개몽되는 그날까지 우리는 악덕한족으로 부터 우리의 이익을 보호해야합니다."
+XSM_opium_production_desc:0 "마 가문은 중국의 어려운 경제상황에 대해 직시해야만 합니다. 아편시장이 혁파되고 중국 전체가 이슬람에 의해 개몽되는 그날까지 우리는 악덕한족으로 부터 우리의 이익을 보호해야합니다."
 
 XSM_intervention_idea:0 "열성적인 자원병"
 XSM_intervention_idea_desc:0 ""
@@ -160,7 +160,7 @@ mac.6.t:0 "마중잉이 상부 간수에서 세를불리다"
 mac.6.d:0 "Ma Zhongying is the "trouble child" of the Ma family, all things considered. At the young age of 26 currently, he and other youths lead a band of bandits that raid and pillage villages. Some of their greatest achievements come from the Guominjun occupation, with Zhongying and his gang being some of the first to defect against the Guominjun. While the destruction they wrought upon Lower Gansu was great, their efforts were very effective in disrupting Guominjun operations in the region. However, after his destruction of the Huasi Mosque in Gansu, he was expelled from military efforts by his uncle Ma Bufang, now lying in a location where he can do a minimal amount of damage.\n\nHowever with the fall of the Zhili from grace, Zhongying has begun to pillage yet again in his new position. Many suspect the reasons are deeper this time around compared to the last, with rumours of his plan to make way outside the Ma sphere in the hopes of establishing his own domain."
 mac.6.a:0 "그를 진정시킬수는 없나?"
 
-mac.7.t:0 "유수에서 29명의 죽음u"
+mac.7.t:0 "유수에서 29명의 죽음"
 mac.7.d:0 "Yushu located in southern Qinghai has been combated over since the Xinhai Revolution, with Sichuan, Tibet, and the Qinghai region all claiming their legal possession of the town. The reasoning for this is that this important city contains one of the only roads leading to these three provinces, making it the key to the northwest. The Xining Government remained in control largely, and with the Tibetan invasion of Sichuan in 1930, the Xining Government intervened in favor of the Sichuanese, with the following treaty making the town officially part of Xining's sphere. This doesn't mean their rule is uncontested.\n\nTibetan raiders have been frequenting the town as of late, with the newest raid killing 29 citizens. While the Tibetan government denies any involvement in these raids, it has created an air of tension in the region between the Mas and Tibetans."
 mac.7.a:0 "그들이 관여하지 않았을리가!"
 
@@ -250,7 +250,7 @@ mac.114.a:0 "끔찍한 조카놈아"
 
 mac.115.t:0 "마부팡이 마린이 회의장을 나가도록 굴욕을 주다"
 mac.115.d:0 "After some days waiting for the next meeting, Ma Lin was greeted by Ma Bufang and several of his now-loyal Xining Councilmen, along with two guards. Before Ma Lin could respond, the two guards siezed him and carried him out of the hall. Ma Lin was shoved into the servants quarters, where he could hear the Xining Council meeting start from a distance."
-mac.115.a:0 "우리집의 종양같으니"
+mac.115.a:0 "우리 가문의 수치같으니"
 
 mac.116.t:0 "마린이 마부팡을 상대로 음모를 꾸미다"
 mac.116.d:0 "The time has come for Ma Lin to confront Ma Bufang's egregious abuse of office. This comes after weeks and months of back and forth in the meeting hall over which of Ma Fuxiang's Eight Points are more needed now. Ma Lin's plan is to invite Ma Wanfu, a radical Hanafi Imam, to the meeting hall. Ma Wanfu owes Ma Lin a favor through Ma Qi, Ma Bufang's father. Ma Wanfu is held at high regard by Ma Bufang, and it would embarass Ma Bufang greatly if his hero were to denounce him for failing to live up to his fathers' expectations.  "
@@ -428,7 +428,7 @@ XSM_military_administration_desc:0 "Ma Fuxiang held the Ma Clique together throu
 XSM_industrialization_project:0 "산업화 계획"
 XSM_industrialization_project_desc:0 "To sustain our growing armed forces, we will need guns and the ability to produce them en masse. While the arsenals will retain responsibility for finish armaments, new state facilities for the production of intermediaries should be established with state-of-the-art equipment shipped in from abroad no matter the cost."
 
-XSM_staying_put:0 "Staying Put"
+XSM_staying_put:0 "진지를 고수"
 XSM_staying_put_desc:0 "The deeply principled elder Ma Lin has held onto power. A bright new day dawns on the Northwest and its people, one of true equality between the Han, the Hui, and others."
 
 XSM_islamic_identity:0 "회족의 이슬람적 정체성"
