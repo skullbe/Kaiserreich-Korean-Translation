@@ -6,8 +6,7 @@ l_english:
 
 ### Parties ###
 SZC_totalist_party:0 "국민당"
-SZC_totalist_party_long:0 "국민당                                                          §L쓰촨성에서 국민당의 영향력은 주로 장교파의 게릴라 세력, 도심의 정치단체, 그리고 시골의 농촌 공동체를 통해 느껴집니다.이 중에서 가장 직접적인 정치력을 행사할 수 있고 가능성은 희박하지만 여전히 그럴듯하게 쓰촨에 삼민주의를 실현할 기회가 남아 있는 것이 장교단입니다. 그렇지만 그들은 또한 온건하고 조심스러운 반면에 급진적인 선동가와 농민 지도자들은 보다 불경하고 무모한 이념적 광신주의를 신봉합니다. 생디칼리슴이나 왕징웨이 사상과 같은 극단적인 신념을 설파하는 지방 내의 소수의 조직들은 행정부에게 도움이 되는 자산으로 남아 있지만, 그들 스스로는 거의 무력합니다.
-§!"
+SZC_totalist_party_long:0 "국민당                                                          §L쓰촨성에서 국민당의 영향력은 주로 장교파의 게릴라 세력, 도심의 정치단체, 그리고 시골의 농촌 공동체를 통해 느껴집니다.이 중에서 가장 직접적인 정치력을 행사할 수 있고 가능성은 희박하지만 여전히 그럴듯하게 쓰촨에 삼민주의를 실현할 기회가 남아 있는 것이 장교단입니다. 그렇지만 그들은 또한 온건하고 조심스러운 반면에 급진적인 선동가와 농민 지도자들은 보다 불경하고 무모한 이념적 광신주의를 신봉합니다. 생디칼리슴이나 왕징웨이 사상과 같은 극단적인 신념을 설파하는 지방 내의 소수의 조직들은 행정부에게 도움이 되는 자산으로 남아 있지만, 그들 스스로는 거의 무력합니다.§!"
 SZC_syndicalist_party:0 "국민당"
 SZC_syndicalist_party_long:0 "국민당                                                          §LThe Kuomintang’s influence in Sichuan is primarily felt through the presence Officer Department’s guerilla forces, secretive political clubs in the urban city centers and in rural communes throughout the countryside. Among these, it is the Officer Department which can wield the most direct political power and stands a slim but still plausible chance of bringing the three principles to Sichuan. Yet they are also moderate and cautious, whilst the radical propagandist and peasant leaders adhere to more irreverent, reckless displays of ideological fanaticism. Those few organizations within the province who preach such extreme beliefs as Syndicalism or Wang Jingwei Thought remain a helpful asset to the Officer Department, but largely powerless on their own.§!"
 SZC_radical_socialist_party:0 "국민당"
