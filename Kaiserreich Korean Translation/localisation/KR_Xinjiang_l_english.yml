@@ -191,13 +191,13 @@ xin.0.b:0 "쿠물칸국이 뭔데?"
 xin.0.c:0 "위구르인들?"
 
 xin.1.t:0 "신장과 쿠물 칸국"
-xin.1.desc:0 "The Kumul Khanate is officially a protectorate of the Qing within Xinjiang, and is a largely stabilizing factor for Xinjiang itself. Currently ruled by Nasīr Shah, the khanate does very little in the day to day rule of Xinjiang, besides having to pay tribute to the Xinjiang governorship yearly. Why does it matter? Many see the Kumul Khanate's current autonomy as the only thing keeping tensions within Xinjiang from exploding, as it shows a degree of Uyghur rule within the province even if people don't like the current ruler Nasīr. Its existence is key to our peace in the northwest, and only an absolute fool would even dare to try and mess with its presence."
+xin.1.desc:0 "쿠물칸국은 공식적으로 신장 내에 있는 청의 보호국으로서 신장 안정의 큰 요인입니다. 현재 나스르 샤에의해 통치되고 있는 칸국은 신장 지자체에 매년 공물을 보내야 하는 것 외에 신장 군벌에는 아무런 도움을 주지 않습니다. 그럼에도 중요한 이유는, 현재 사람들은 쿠물칸국이 자치권을 가지고 있는 것은 신장내에서의 긴장이 폭발하는 것을 막는 유일한 것으로 보고 있는데, 이는 사람들이 현재 칸국의 지배자 나스르 샤를 좋아하지 않지만 지방내에서의 위구르인들의 자치를 어느정도 보여주고는 있기 때문입니다. 그 존재는 중국의 북서쪽의 안정의 열쇠이고, 오직 바보멍청이만이 그 존재를 가지고 장난을 치려 할것입니다."
 xin.1.a:0 "이 작은놈은 확실히 뭔가..."
 xin.1.b:0 "신장의 일반적인 상황은 뭔가?"
 xin.1.c:0 "위구르인들?"
 
 xin.2.t:0 "신장의 사람들"
-xin.2.desc:0 "The people of Xinjiang are by far the most unique in China, as many would argue that the majority are hardly Chinese at all. One of the largest ethnic groups is the Uyghur population, which is by far the most nationalist and well known ethnic group within Xinjiang. Two other notable groups are first the Kazakh population in the north with a population of about 400,000 and the Tungans in the south, the Xinjiang version of the Chinese Hui with a population around 450,000. The Tungans and Uyghurs are known for shaky relations, as the minority Tungans have long held control over the majority of Xinjiang, as seen now by the Dao-yin of Hotan being Ma Shaowu. Due to their overall separation from the Chinese people, the Uyghur and Kazakh population have long spelt the most trouble for our administration, rising up numerous times in the past in order to establish their independence from the rest of China."
+ xin.2.desc:0 "많은 사람들의 대다수가 중국인이냐고 물어본다면 자신은 전혀 중국인이 아니라고 불쾌해 할것이기 때문에 신장은 중국에서도 단연 독특한 지역입니다. 가장 큰 인종집단중 하나는 위구르족으로, 신장내에서 지금까지 가장 민족주의 적이고 잘알려진 민족집단입니다. 다른 주목할만한 두개의 집단은, 먼저 40만명의 인구를 가지고 있는 북쪽의 카자흐족과 남쪽의 퉁간족으로서, 45만명의 인구를 지닌 중국의 회족의 신장버전이라 볼 수 있습니다. 퉁간족과 위구르인들은 현재 호탄의 도인이 마샤오우인이라는 것에서 말해 주듯 소수의 퉁간족이 오랫동안 요직을 장악해 왔기때문에 사이가 나쁘다고 알려져 있습니다. 위구르족과 카자흐인들은 한족과의 오랜 분리로 인해 정부내에서 큰 골칫거리로 남겨져 있으며, 과거 중국으로 부터 독립하기위해 여러번 반란을 일으킨 전적이 있습니다."
 xin.2.a:0 "그걸로 충분해, 이제 일을 시작할 시간이군."
 xin.2.b:0 "신장의 일반적인 상황은 뭔가?"
 xin.2.c:0 "쿠물칸국이 뭔데?"
@@ -464,183 +464,183 @@ xin.111.b:0 "Yang Zengxin's final failure"
 xin.111.c:0 "Yang Zengxin's final failure"
 
 ### Focuses ###
-SIK_three_reigns:0 "Recognize Three Reigns"
+SIK_three_reigns:0 "세개 지역에대한 공인"
 SIK_three_reigns_desc:0 "Xinjiang, despite what the official documents may claim, has a decentralized power structure centered around three citites. These cities, Dihua, Aksu, and Khotan, control three vital forts and administer the richest land for cultivation outside of Kumul. The Dao-yin, which replaced the Amban, decide the fate of Xinjiang."
 
-SIK_dihua_governorship:0 "Dihua Governorship"
+SIK_dihua_governorship:0 "디화 정부"
 SIK_dihua_governorship_desc:0 "Jin Shuren's fortress in Dihua has perceived against the rebels that sorround it. Jin Shuren attributes the might of the Han system of governance, as built by Yang Zengxin and refined by hiself, as the ideal government for Xinjiang. To ensure this, Jin will purge those who questioned their loyalty to him."
 
-SIK_make_them_pay:0 "Make Them Pay"
+SIK_make_them_pay:0 "그들은 대가를 치룰것이다"
 SIK_make_them_pay_desc:0 "The rebels in Kashgar and Kumul are more than just pawns of foreign imperial powers, they themselves are capable of self governance. Jin Shuren has promised his loyal men the land and wealth of those that betrayed him, and now they are ready to collect."
 
-SIK_new_taxes:0 "New Taxes"
+SIK_new_taxes:0 "새로운 세금"
 SIK_new_taxes_desc:0 "The taxes that incited such anger in Kumul are to be re-imposed, in spite of their reluctance. There is no other way to ply obedience from these provincials without setting the law and applying it justly to everyone. If they can't afford to pay, they should just leave Xinjiang for good."
 
-SIK_shurens_new_groove:0 "Vanity Projects"
+SIK_shurens_new_groove:0 "헛된 계획"
 SIK_shurens_new_groove_desc:0 "Jin Shuren has dedicated state funds to a set of statues to him and his brave Han warriors to be erected throughout Xinjiang. Future generations of Han and provincials will look to heroes like Burhan Shahidi and Ma Shaowu and see the pinnacle or morality. "
 
-SIK_a_closer_clique:0 "A Closer Clique"
+SIK_a_closer_clique:0 "군벌 중앙집권화"
 SIK_a_closer_clique_desc:0 "The distribution of power between Dihua, Aksu and Khotan has proven to be unsustainable. Jin Shuren has made the generous decision to hire all capable bureaucrats currently serving in these cities to Dihua to centralize his rule. Even more graciously, Jin will pay the same to bureaucrats regardless of their ethnicity."
 
-SIK_never_seen_suppression:0 "A New Suppression Campaign"
+SIK_never_seen_suppression:0 "새로운 억압정책"
 SIK_never_seen_suppression_desc:0 "In Xinjiang, conflicts are a family affair. Jin Shuren knew this, and is glad he left his family behind in Gansu. For those who were unlucky enough to oppose Jin, their families will be imprisoned as collateral to ensure they will not commit to any more protracted rebellions."
 
-SIK_gansu_road:0 "The Gansu Road"
+SIK_gansu_road:0 "간쑤 국도"
 SIK_gansu_road_desc:0 "The road to Gansu bends around the salt lake of Lop Nur, and passes through Hami. This route gave disproportionate influence to the ungrateful Khanate that used to live there. To avoid giving Hami any more influence, Jin has decided that a new trade route will be built that crosses the desert through Loulan and Dunhuang."
 
-SIK_colonize_kumul:0 "Colonize Hami"
+SIK_colonize_kumul:0 "하미 식민지화"
 SIK_colonize_kumul_desc:0 "The people of Hami suffered under the ill rule of the ancient Chagatai khans, prisoners of the ancient barbarian regimes. No more! Hami will have their open lands resold at affordable prices to the grateful people of Xinjiang, who will help modernize Xinjiang."
 
-SIK_sharing_the_love:0 "Sharing the Love"
+SIK_sharing_the_love:0 "보상 나눔"
 SIK_sharing_the_love_desc:0 "There was a great bounty of gold confiscated from the Uyghurs in the Tarim Basin, which has finally arrived in Dihua. After Governor Jin sufficiently compensated himself for his thankless work, he has magnanimously given the reamining gold to the families who fought alongside him, and landlords who gave their grain to feed the army."
 
-SIK_statewide_projects:0 "Statewide Projects"
+SIK_statewide_projects:0 "전지역에대한 계획"
 SIK_statewide_projects_desc:0 "Jin Shuren has authorized a series of needed repairs to cover the significant vulnerabilities in our military. These projects will hopefully enable us to better utilize our hard-to-reach natural resources."
 
-SIK_trade_dealing:0 "Trade Deals"
+SIK_trade_dealing:0 "무역 거래"
 SIK_trade_dealing_desc:0 "As Jin took power so soon before the rebels came out in force, he has not had the time to reaffirm the trade deals Yang Zengxin made. A stable trade flow will restore the peoples' confidence in Jin."
 
-SIK_dao_yin_khotan:0 "The Dao-yin of Hotan"
+SIK_dao_yin_khotan:0 "호탄의 도인"
 SIK_dao_yin_khotan_desc:0 "After having to live under a succession of cruel Chinese petty-dictators, Ma Shaowu has triumphed in Khotan. As de-facto Governor, Ma Shaowu is the first leader of Xinjiang in decades to openly practice Islam. Ma vows to correct the decades of hollow promises with his Jahriyya oath to never hide his intentions from the people."
 
-SIK_secret_police_brigades:0 "Secret Police"
+SIK_secret_police_brigades:0 "비밀 경찰"
 SIK_secret_police_brigades_desc:0 "The Jahriyya order opposes all forms of secrecy... except for the Secret Police. Ma Shaowu needs his men to monitor the radical Jadidists and ultranationalist Han. Without the Secret Police, future insurrection from these groups is a foregone conclusion. "
 
-SIK_cutting_central_asia:0 "Cutting off Central Asia"
+SIK_cutting_central_asia:0 "중아시아 쳐내기"
 SIK_cutting_central_asia_desc:0 "The Jadidists that threaten Ma Shaowu's religious and political position are the byproduct of Central Asian agitation. If we are to ensure the end of Jadidist influence, we must set down the law to the Turkomans and Kazaks. They are not permitted to fortify their borders with us, and immigrants to Xinjiang must surrender their weapons."
 
-SIK_inspiration_jahriyya:0 "Inspiration from Jahriyya"
+SIK_inspiration_jahriyya:0 "자흐리야로부터 영감"
 SIK_inspiration_jahriyya_desc:0 "The Jahriyya has survived centuries of persecution through their adherence to Sufism over Hanafi Islam. Now we have the freedom to show Xinjiang the centuries of commenary that have laid in secret and supressed."
 
-SIK_tungan_domination:0 "Tungan Abstinence"
+SIK_tungan_domination:0 "투간식 금욕"
 SIK_tungan_domination_desc:0 "It is outrageous to the Governor that his garrisons are still plagued by drug addicted soldiers. The Turpan garrison showed a much greater restraint, and should be the model for all of Xinjiang's armed forces. We shall summarily replace the drug addicts in our military with sober muslims, who will not let the situation degrade as it did under other leaders."
 
-SIK_opening_immigration:0 "Opening Immigration"
+SIK_opening_immigration:0 "이민 개방"
 SIK_opening_immigration_desc:0 "The open land we confiscated during the Kumul and Turkestan rebellions are now laying untilled. In order to secure the loyalty of future residents and to make back some money, we have opened up the land to immigration. "
 
-SIK_outside_kashgar:0 "Menhuan Education"
+SIK_outside_kashgar:0 "먼후안 교육"
 SIK_outside_kashgar_desc:0 "The Governor has invited the Sufi orders that are scattered around Western China to practice openly in Xinjiang. Menhuan will help replace the closed madrasa that were being used to radicalize the Uyghurs."
 
-SIK_new_army:0 "The New Army"
+SIK_new_army:0 "새로운 군대"
 SIK_new_army_desc:0 "The massive losses sustained through attrition and mismanagement of the army must end. The Governor has taken his Generals to taks for their shortcomings, and vows to review the army and finance reforms using state funds."
 
-SIK_removing_mongol_threat:0 "Removing the Mongol Threat"
+SIK_removing_mongol_threat:0 "몽골족의 위협 제거"
 SIK_removing_mongol_threat_desc:0 "The Mongols threatened Dzungaria in our darkest hour, and we must never forget that. The Governor, with the backing of the muslims in Xinjiang, is ready to make the Mongols answer for their wanton aggression on the Ummah."
 
-SIK_extend_network:0 "Extending the Network"
+SIK_extend_network:0 "네트워크 확장"
 SIK_extend_network_desc:0 "The isolation of Xinjiang was due to Yang Zengxin's own paranoid leadership and kleptocracy. If Xinjiang is ever to recover and compete with both Central Asia and China, we must expand our trade network. "
 
-SIK_purging_suspicion:0 "Purging Suspicion"
+SIK_purging_suspicion:0 "의심 제거"
 SIK_purging_suspicion_desc:0 "The civil servants of Xinjiang must be jaded at this point by the cycle of coups in their offices. Suspicion is not something the Governor can erase easily, but a good step towards creating a permanent government in Xinjiang is a mass promotion of those civil servants that did not steal from their office or engage in graft."
 
-SIK_dao_yin_aksu:0 "The Dao-yin of Aksu"
+SIK_dao_yin_aksu:0 "악수의 도인"
 SIK_dao_yin_aksu_desc:0 "Sheng's brief time as Dao-yin of Aksu has seen the city rise to great influence while the rest of Xinjiang crumbled. Governor Sheng is now ready to use Aksu as a launching ground politically for a radical set of reforms that are compatible with Marxism, Federalism, and even western democracy as seen in India."
 
-SIK_establish_neutrality:0 "Establish Neutrality"
+SIK_establish_neutrality:0 "중립성 확인"
 SIK_establish_neutrality_desc:0 "Governor Sheng is extremely wary of committing to a national conflict. Sending Xinjiang's soldiers abroad could invite dissidents at home to revolt once again. So, as a pragmatic adoption of the southern Chinese democratic thought, Sheng has proclaimed neutrality in Western China. "
 
-SIK_seven_point_manifesto:0 "The Seven Point Manifesto"
+SIK_seven_point_manifesto:0 "일곱가지 성명서"
 SIK_seven_point_manifesto_desc:0 "After compiling a set of programmes from Southern China, including Sun-Yat Sen's Principles, Karl Marx's Capital, and Chen's Federalist decleration, Sheng has formulated a Seven Point Manifesto to reform Xinjiang towards true democracy with regards to the limitations of war time."
 
-SIK_equality_of_races:0 "Equality of Races"
+SIK_equality_of_races:0 "출발선 공정"
 SIK_equality_of_races_desc:0 "One of Sheng's Seven Points is to end racial segregation in Xinjiang. As the Five Races Banner illustrates, China must recognize racial diversity, and incorporate Han with Hui, Mongol, and Tibetan. These four races have underlying mutual self interest in Chinese unity, something East Turkestan did not want. "
 
-SIK_kazakh_exodus:0 "Kazakh Exodus"
+SIK_kazakh_exodus:0 "카자크 대탈출"
 SIK_kazakh_exodus_desc:0 "The Kazakh people living on the border of Xinjiang are a source for future discontent. From sneaking Ottoman agitators into Kashgar, to distributing Jadidist literature, there is no value gained by tolerating them in Xinjiang. "
 
-SIK_filling_government:0 "Filling the Government"
+SIK_filling_government:0 "정부 재구성"
 SIK_filling_government_desc:0 "When the cities of Xinjiang crumbled, the civil servants of Xinjiang were scattered. It is important that, when refilling the government service, we imprint the Seven Points into the fabric of our bureaucracy. This includes hiring Hui, Mongol, and Tibetans, should they have the proper qualifications."
 
-SIK_positions_for_uyghurs:0 "Positions for Uyghurs"
+SIK_positions_for_uyghurs:0 "위구르인들의 위치"
 SIK_positions_for_uyghurs_desc:0 "Although seperate, Uyghurs in Xinjiang did play a valuable role in defending Dihua. Governor Sheng feels that the tide of public opinion is slowly turning against Jadidists, and a reward to loyal officers like Burhan Shahidi is in order."
 
-SIK_the_purge:0 "The Purge"
+SIK_the_purge:0 "제거"
 SIK_the_purge_desc:0 "It has come to the Governor's attention that there are inconsolable issues between the Uyghur and Hui people in Xinjiang. This is manifested in not only the rivalry between Jahriyya and Jadidist, but in a reinforcment of Chinese language as a shibboleth. Another, more organized purge may be necessary to solve this."
 
-SIK_kuomintangs_xinjiang:0 "The Kuomintang's Xinjiang"
+SIK_kuomintangs_xinjiang:0 "신장의 국민당"
 SIK_kuomintangs_xinjiang_desc:0 "The Kuomintang has interested Sheng Shicai for decades, going back to his early days in Manchuria. Having taken a position against direct intervention if unnecessary, Governor Sheng has chosen to aid the KMT through donations from the state treasury."
 
-SIK_education_reform:0 "Education Reform"
+SIK_education_reform:0 "교육 개혁"
 SIK_education_reform_desc:0 "The madrasa in Kashgar, when Sheng shut it down, created a gap in education for the city. Like so many other towns in Xinjiang, formal education has been replaced with religious education by obvious Ottoman infiltrators. True education for Xinjiang must be secular, focused on science, and be open to both girls and boys."
 
-SIK_modernist_schools:0 "Modernist Schools"
+SIK_modernist_schools:0 "현대적인 학교"
 SIK_modernist_schools_desc:0 "Where the madras and menhuan failed Xinjiang, the Modernist school will succeed. Governor Sheng has assembled several university-trained educators in his office to hammer out a modern, westernized education curriculum."
 
-SIK_local_teachers:0 "Local Teachers"
+SIK_local_teachers:0 "지역의 선생들"
 SIK_local_teachers_desc:0 "The folly of the Yang and Jin government was their mistrust of their own people to educate each other. Just as our Governor educated himself, so will the people utilize and adapt the revolutionary literature of our time to improve their lives."
 
-SIK_cultural_promotion_socities:0 "Cultural Promotion Societies"
+SIK_cultural_promotion_socities:0 "사회문화진흥"
 SIK_cultural_promotion_socities_desc:0 "The people of Xinjiang suffer from the Imperialist mindset. Instead of working towards cooperation, it is evident to Governor Sheng that the Uyghur and Hui people will need to be supported within the Han system of the Kuomintang. This can be achieved through Cultural Promotion Societies."
 
 
-SIK_curbing_addiction:0 "Curbing the Addiction"
+SIK_curbing_addiction:0 "중독 발생"
 SIK_curbing_addiction_desc:0 "The garrisons of Xinjiang suffered under Yang Zengxin's leadership, especially with regards to discipline. Soldiers have been known to visit Gansu and load up on opium during holidays. It is time for the Governor to take responsiblity for the army and ban drugs from army bases."
 
-SIK_expand_tungan_recruitment:0 "Expand Tungan Recruitment"
+SIK_expand_tungan_recruitment:0 "투간 징집을 확대"
 SIK_expand_tungan_recruitment_desc:0 "The Tungan people are neglected by the Western Gate, and are suffering more than most in Western China. This makes the Tungan people ideal recruits for the Xinjiang military, which can elevate and allow young men to escape poverty in their home town."
 
-SIK_uyghur_militia:0 "Uyghur Militia"
+SIK_uyghur_militia:0 "위구르 민병대"
 SIK_uyghur_militia_desc:0 "The Uyghur people suffer greatly during this time of disunity, and their young men wander aimlessly for a purpose. In order to ensure they do not fall under into the clutches of the Jadidists, we must make the effort to recruit them into a militia. The milita will be a safeguard against anti Han agitation, even if it is never strong enough to be used."
 
-SIK_proper_training:0 "Proper Training"
+SIK_proper_training:0 "적절한 훈련"
 SIK_proper_training_desc:0 "The Governor has ordered new training manuals from Baoding to be shipped to his office, convinced that new developments in military schools outmode current training. Should these manuals win over the general staff, our garrisons are to be trained in the new drills immediately."
 
-SIK_expand_arms_industry:0 "Expand the Arms Industry"
+SIK_expand_arms_industry:0 "무기 산업 확장"
 SIK_expand_arms_industry_desc:0 "The arms industry in Xinjiang has long depended on outdated weapons from the east being sold to us at inflated prices. The Governor wishes to ensure that future conflict will not be derailed by defective weaponry, thus he is authorizing the hiring of more machinists."
 
-SIK_expand_military_academy:0 "Expand Kashgar Chinese Schooling"
+SIK_expand_military_academy:0 "카슈가르의 중국인 학교 확장"
 SIK_expand_military_academy_desc:0 "Kashgar, in the wake of the madrasa's closing, lacks any form of reliable education. Education is seen by the Governor not only as a tool for economic growth, but for increasing his influence on the young men of Xinjiang. A Chinese school in Kashgar will achieve both goals."
 
-SIK_raid_nationalist_camps:0 "Raid Nationalist Camps"
+SIK_raid_nationalist_camps:0 "민족주의자 은신처 급습"
 SIK_raid_nationalist_camps_desc:0 "Nationalist camps on the border of Xinjiang have taken advantage of the fertile land in recent years to set up farms. It is our belief that some of the opium that our soldiers are addicted to is coming from these nationalist camps. If we were to exercise our right to disperse these camps, their opium farms would be ours."
 
-SIK_russian_technology:0 "Russian Technology"
+SIK_russian_technology:0 "러시아식 전술"
 SIK_russian_technology_desc:0 "The Russian delegation in Xinjiang has wittled down to a single unpaid diplomat, whom is seriously considering retirement. If we can encourage the delegate to send letters to Russia claiming the province is under control, we may be able to attract some Russian engineers to help us survive."
 
-SIK_foreign_assistance:0 "Foreign Assistance"
+SIK_foreign_assistance:0 "외국 원조"
 SIK_foreign_assistance_desc:0 "The current state of the Xinjiang foriegn office is lamentable. Where just two decades ago Russian diplomats, Ambans, and British explorers gladly filed in to inform the Governor, now most avoid it for fear of being extorted by the few remaining bureaucrats. The Governor has authorized the hiring of more bureaucrats to reform the office."
 
-SIK_russian_sector:0 "The Russian Connection"
+SIK_russian_sector:0 "러시아와 접촉"
 SIK_russian_sector_desc:0 "Diplomatic relations with Russia were not kept up under Governor Yang Zengxin, and our remaining influence on Russia comes in the form of land grants to speculators. The Governor has compiled a list of land grants to entice Russians to immigrate to Xinjiang, and indirectly make our safety a greater concern for Russia as a whole."
 
-SIK_russian_investment:0 "Russian Economic Investment"
+SIK_russian_investment:0 "러시아의 투자"
 SIK_russian_investment_desc:0 "It is reported that in Kazan there are fraudulent claims in Xinjiang for sale. It is the opinion of the Governor that, in order to bring legitimacy to his office and entice Russian investment, some of these land grants should be honored. So long as they are for land we haven't already sold."
 
-SIK_industrial_expansion:0 "Industrial Expansion"
+SIK_industrial_expansion:0 "산업확장"
 SIK_industrial_expansion_desc:0 "The vast flow of unemployed workers into Xinjiang is an opportunity for us to expand the provincial armory. The Governor has authorized the construction of inner city roads to facilitate heavy industry, which will hopefully be the tipping point for enterprising citizens to build factories for themselves."
 
-SIK_north:0 "Expanding the North"
+SIK_north:0 "북부 안전지대확장"
 SIK_north_desc:0 "Dzungaria has been at risk of invasion from the Mongols for decades, and we having to expend significant energy patroling the land. Fixing the main road through Dzungaria will go a long way towards keeping it secure and the people happy."
 
-SIK_mineral_expedition:0 "Mineral Expedition"
+SIK_mineral_expedition:0 "광산 확장"
 SIK_mineral_expedition_desc:0 "There are rumors that a massive oil deposit exists in Dunshanzi. It is well worth the cost for the Governor to send engineers out to Dunshanzi and assess the value of the land. We can hopefully recoup the cost by producing valuable land grants."
 
-SIK_south:0 "Connecting the South"
+SIK_south:0 "남쪽 연결"
 SIK_south_desc:0 "Tunganistan has suffered under the decades of neglect under Yang Zengxin's regime. Now the multitudes of requests to fix the road from Kashgar to Khotan can be granted, and the people there to benefit from our administration."
 
-SIK_expanding_dihua:0 "Increasing Dihua's Capacity"
+SIK_expanding_dihua:0 "다화의 역량강화
 SIK_expanding_dihua_desc:0 "The battlements around Dihua have left a lot of land cleared of vegitation. This fallow land cannot be used for farming yet, but with the proper direction the land can be flattened for modern machine factories."
 
-SIK_dihua_fortification:0 "Dihua Fortifications"
+SIK_dihua_fortification:0 "디화 요새화"
 SIK_dihua_fortification_desc:0 "The walls of Dihua are covered in torn propaganda. These words cannot defend against determined rebels any more. The Governor has authorized additional fortifications to be built around Dihua to add power to our new propaganda we write on the walls."
 
-SIK_settling_dzungaria_tribes:0 "Settling Dzungarian Tribes"
+SIK_settling_dzungaria_tribes:0 "준가리아 부족민 정착"
 SIK_settling_dzungaria_tribes_desc:0 "The tribes of Dzungaria have been unable to reap the benefits from the good harvests of 1936. Their town leaders have requested permission to resettle south, something the Governor does not want, but lacks the force to deny."
 
-SIK_northern_gold:0 "Northern Gold"
+SIK_northern_gold:0 "북쪽의 확금"
 SIK_northern_gold_desc:0 "The rumors of gold in western Xinjiang have made their way into fraudulent land grants you can find throughout western China. It is obvious to the Governor that an official expedition to the reported sources of gold must be made. The potential wealth, if proven true, will more than pay for the trip."
 
-SIK_khotan_carpet_factory:0 "Expand the Hotan Carpet Factory"
+SIK_khotan_carpet_factory:0 "호탄의 카펫산업 확장"
 SIK_khotan_carpet_factory_desc:0 "Khotan is famed for their hardy wool carpets, to the point where you can find markets in Afghanistan and India passing them off as ours. It may behoove the Governor to invest in a large scale carpet factory in Khotan, if only for the ability to manipulate the market and increase their value."
 
-SIK_kashgar_investment:0 "Investing in Kashgar"
+SIK_kashgar_investment:0 "카슈가르 투자"
 SIK_kashgar_investment_desc:0 "The destruction wrought in Kashgar must be answered with concern. The Governor has authorized funding to go into repairing and building small scale industry in Kahsgar."
 
-SIK_navigating_desert:0 "Navigating the Taklamakan"
+SIK_navigating_desert:0 "타클라마칸 개척"
 SIK_navigating_desert_desc:0 "The Taklamakan basin is a death trap for travelers, and for decades has been circumvented by the road to Kumul. With the latest insurgency seeing armies cross the basin to ambush us, it is worth it to consider setting up small outposts in the basin to allow us to navigate it in an emergency."
 
-SIK_open_mineral_mining:0 "Open the Mines"
+SIK_open_mineral_mining:0 "광산 개업"
 SIK_open_mineral_mining_desc:0 "The mines of Khotan that were closed during the strike are finally reopened. Miners are easily found to replace the rebels in the numerous immigrants to Xinjiang."
 
-SIK_xinjiang_railways:0 "Connecting Xinjiang"
+SIK_xinjiang_railways:0 "신장에 닿다"
 SIK_xinjiang_railways_desc:0 "The greatest goal of any modern Xinjiang governor is to have a railway. Thought impossible due to the extreme temperature, benditry, and costs, it may be time to revive the dream."
