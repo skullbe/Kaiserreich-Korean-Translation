@@ -1,6 +1,6 @@
 l_english:
 
-Xinjiang_Clique:0 "신장 군벌 중점계통도"
+Xinjiang_Clique:0 "신강 군벌 중점계통도"
 
 #### Parties ###
 SIK_totalist_party:0 "청년 투르케스탄당"
@@ -21,8 +21,8 @@ SIK_authoritarian_democrat_party:0 "Dao-yin of Hotan"
 SIK_authoritarian_democrat_party_long:0 "Dao-yin of Hotan"
 SIK_paternal_autocrat_party:0 "Dihua Governorship"
 SIK_paternal_autocrat_party_long:0 "Dihua Governorship"
-SIK_national_populist_party:0 "신장 국민주의자"
-SIK_national_populist_party_long:0 "신장 국민주의자"
+SIK_national_populist_party:0 "신강 국민주의자"
+SIK_national_populist_party_long:0 "신강 국민주의자"
 
 ### Opinion Modifiers ###
 
@@ -67,13 +67,13 @@ SIK_yang_yunnan:0 "Yang Zengxin has been spotted in Yunnan"
 
 ### Ideas ###
 SIK_opium_addiction:0 "아편에 중독된 군대"
-SIK_opium_addiction_desc:0 "신장의 군대 특히 남부군은 아편 중독이 심하여 제 기능을 발휘하려면 아편이 필요합니다. 이로인해 문제가 발생하지 않으려면 우리는 그들에게 아편을 상시 공급하거나  그것을 끊도록 노력해야 할것입니다."
+SIK_opium_addiction_desc:0 "신강의 군대 특히 남부군은 아편 중독이 심하여 제 기능을 발휘하려면 아편이 필요합니다. 이로인해 문제가 발생하지 않으려면 우리는 그들에게 아편을 상시 공급하거나  그것을 끊도록 노력해야 할것입니다."
 
 SIK_opium_searching:0 "군대가 아편을 찾아다님"
-SIK_opium_searching_desc:0 "신장의 군대 특히 남부군은 아편 중독이 심하여 제 기능을 발휘하려면 아편이 필요합니다. 우리는 일반 보병대 내에서 마약 밀매자를 제거했지만, 악영향은 우리 병사들을 더욱 통제할수 있는 물질이 발견될때까지 계속될 것입니다."
+SIK_opium_searching_desc:0 "신강의 군대 특히 남부군은 아편 중독이 심하여 제 기능을 발휘하려면 아편이 필요합니다. 우리는 일반 보병대 내에서 마약 밀매자를 제거했지만, 악영향은 우리 병사들을 더욱 통제할수 있는 물질이 발견될때까지 계속될 것입니다."
 
 SIK_opium_solution:0 "간쑤의 공급업체"
-SIK_opium_solution_desc:0 "신장의 군대 특히 남부군은 아편 중독이 심하여 제 기능을 발휘하려면 아편이 필요합니다. 다행히도 우리는 이허와나이 이슬람교도 들에 의해 쫒겨난 간쑤 출신의 지식있는 농부들을 사면해 주었습니다. 그들은 군대의 작물을 공급하기로 약속했습니다."
+SIK_opium_solution_desc:0 "신강의 군대 특히 남부군은 아편 중독이 심하여 제 기능을 발휘하려면 아편이 필요합니다. 다행히도 우리는 이허와나이 이슬람교도 들에 의해 쫒겨난 간쑤 출신의 지식있는 농부들을 사면해 주었습니다. 그들은 군대의 작물을 공급하기로 약속했습니다."
 
 SIK_pushing_edge:0 "구석으로 밀어넣기"
 SIK_pushing_edge_desc:0 "양젠신은 위구루족에대한 경험이 풍부하며 위구르를 가장 고도화된 수준으로 밀어내는 법을 잘알고 있습니다. 양씨 정권은 이들을 최대한 극한의 사지로 몰아넣을 것이고, 그 이상으로 밀어 넣거나 무슨 일이 일어난다면 당장 폭발할 것입니다."
@@ -82,19 +82,19 @@ SIK_over_edge:0 "선을 넘어서다"
 SIK_over_edge_desc:0 "양쩡신이 조심조심하며 위구루 인구들을 밀어내던 수법은 진슈렌에 의해 완전히 내동댕이쳐져 버렸습니다. 진슈렌의 위구르인 토지 소유자의 세금을 두배로 인상하는 의견으로 사람들은 크게 동요하고 있습니다."
 
 SIK_enemies_all_sides:0 "다방면의 적"
-SIK_enemies_all_sides_desc:0 "동쪽으로는 퉁간인들이 남쪽으로는 위구르족에게 둘러쌓여, 신장군벌은 위험에 빠져있으며, 여기서 지면 누구도 살아남지 못할 것입니다. 우리의 최후의 저항거점인 §YAksu§!와 §YDihua§!가 함락된다면 신장은 끝장입니다."
+SIK_enemies_all_sides_desc:0 "동쪽으로는 퉁간인들이 남쪽으로는 위구르족에게 둘러쌓여, 신강군벌은 위험에 빠져있으며, 여기서 지면 누구도 살아남지 못할 것입니다. 우리의 최후의 저항거점인 §YAksu§!와 §YDihua§!가 함락된다면 신강은 끝장입니다."
 
 SIK_rumors_discontent:0 "불만에대한 소문"
-SIK_rumors_discontent_desc:0 "현재에는 위구르족과 쿠물족에 맞서 신장이 단결하고는 있지만, 우리는 이전과 다음없이 파벌화되어 있습니다. 어떤 사람들은 쿠물 칸국에 망명하는 것을 고려하고 있는 한편, 셍시차이는 이것은 악수에서 힘을 기르기위한 기회로 삼아 왔습니다. 이러한 위협을 잘 억제하지 못한다면, 이곳의 지배자로서 진씨의 지위는 기대한 것보다 짧아 질수 있습니다."
+SIK_rumors_discontent_desc:0 "현재에는 위구르족과 쿠물족에 맞서 신강이 단결하고는 있지만, 우리는 이전과 다음없이 파벌화되어 있습니다. 어떤 사람들은 쿠물 칸국에 망명하는 것을 고려하고 있는 한편, 셍시차이는 이것은 악수에서 힘을 기르기위한 기회로 삼아 왔습니다. 이러한 위협을 잘 억제하지 못한다면, 이곳의 지배자로서 진씨의 지위는 기대한 것보다 짧아 질수 있습니다."
 
 SIK_rumors_discontent_2:0 "불만에대한 소문"
-SIK_rumors_discontent_2_desc:0 "현재에는 위구르족과 쿠물족에 맞서 신장이 단결하고는 있지만, 우리는 이전과 다음없이 파벌화되어 있습니다. 어떤 사람들은 쿠물 칸국에 망명하는 것을 고려하고 있는 한편, 셍시차이는 이것은 악수에서 힘을 기르기위한 기회로 삼아 왔습니다. 이러한 위협을 잘 억제하지 못한다면, 이곳의 지배자로서 진씨의 지위는 기대한 것보다 짧아 질수 있습니다."
+SIK_rumors_discontent_2_desc:0 "현재에는 위구르족과 쿠물족에 맞서 신강이 단결하고는 있지만, 우리는 이전과 다음없이 파벌화되어 있습니다. 어떤 사람들은 쿠물 칸국에 망명하는 것을 고려하고 있는 한편, 셍시차이는 이것은 악수에서 힘을 기르기위한 기회로 삼아 왔습니다. 이러한 위협을 잘 억제하지 못한다면, 이곳의 지배자로서 진씨의 지위는 기대한 것보다 짧아 질수 있습니다."
 
 SIK_rumors_discontent_3:0 "불만에대한 소문"
-SIK_rumors_discontent_3_desc:0 "현재에는 위구르족과 쿠물족에 맞서 신장이 단결하고는 있지만, 우리는 이전과 다음없이 파벌화되어 있습니다. 어떤 사람들은 쿠물 칸국에 망명하는 것을 고려하고 있는 한편, 셍시차이는 이것은 악수에서 힘을 기르기위한 기회로 삼아 왔습니다. 이러한 위협을 잘 억제하지 못한다면, 이곳의 지배자로서 진씨의 지위는 기대한 것보다 짧아 질수 있습니다."
+SIK_rumors_discontent_3_desc:0 "현재에는 위구르족과 쿠물족에 맞서 신강이 단결하고는 있지만, 우리는 이전과 다음없이 파벌화되어 있습니다. 어떤 사람들은 쿠물 칸국에 망명하는 것을 고려하고 있는 한편, 셍시차이는 이것은 악수에서 힘을 기르기위한 기회로 삼아 왔습니다. 이러한 위협을 잘 억제하지 못한다면, 이곳의 지배자로서 진씨의 지위는 기대한 것보다 짧아 질수 있습니다."
 
 SIK_more_workers_employed:0 "고용 창출"
-SIK_more_workers_employed_desc:0 "셍시차이는 신장에 있는 모든 인종의 사람들이 채용신청을 할 수 있는 자리를 마련하여 공무에 대한 시험을 보게했습니다. 이러한 정략은 동쪽의 교육제도를 보고 배운 것입니다."
+SIK_more_workers_employed_desc:0 "셍시차이는 신강에 있는 모든 인종의 사람들이 채용신청을 할 수 있는 자리를 마련하여 공무에 대한 시험을 보게했습니다. 이러한 정략은 동쪽의 교육제도를 보고 배운 것입니다."
 
 SIK_armed_neutrality:0 "일곱가지 성명서"
 SIK_armed_neutrality_desc:0 "수 세기 동안 러시아와 위구르족, 에미르들의 졸에 불과했던 그 땅의 소작인들에게 셍시차이 정권의 이데올로기를 선언했고, 그와 동시에 그가 존경하는 남쪽의 근대중국의 건설자들과 더나은 관계를 맺을 수 있도록 문을 개방하였습니다."
@@ -109,29 +109,29 @@ SIK_armed_neutrality4:0 "세가지의 원칙 선언"
 SIK_armed_neutrality4_desc:0 "일곱가지 성명서가 완전한 선언문은 아니였기때문에, 셍시차이는 쑨원의 3대 원칙에 공개적으로 존경을 표시했습니다. 이러한 행동은 조심스러운 KMT지지자들을 셍의 지지자로서 나서개 하는 원동력이 되었습니다."
 
 SIK_neutrality_idea:0 "베이징을 무시하다"
-SIK_neutrality_idea_desc:0 "너무 오랜세월동안 베이징은 신장의 주민들에게 많은 세금을 부과했고, 그러한 지속불가능한 우리의 희생에대한 보답을 하겠다는 잘못된 약속을 했습니다. 그러한 베이징의 암반(만주 최고위 회의)를 존중하지 않을 것입니다. 우리는 그들의 전쟁에 관여하지 않을 것입니다."
+SIK_neutrality_idea_desc:0 "너무 오랜세월동안 베이징은 신강의 주민들에게 많은 세금을 부과했고, 그러한 지속불가능한 우리의 희생에대한 보답을 하겠다는 잘못된 약속을 했습니다. 그러한 베이징의 암반(만주 최고위 회의)를 존중하지 않을 것입니다. 우리는 그들의 전쟁에 관여하지 않을 것입니다."
 
 SIK_immigration:0 "이민 추진"
-SIK_immigration_desc:0 "정부수반은 파괴당한 신장의 목초지 위에 정착을 위한 토지 보조금 프로그램을 실행했다. 지도자는 이것이 신장에 그들의 거점을 늘리는데 도움을 줄것으로 기대하고 있다."
+SIK_immigration_desc:0 "정부수반은 파괴당한 신강의 목초지 위에 정착을 위한 토지 보조금 프로그램을 실행했다. 지도자는 이것이 신강에 그들의 거점을 늘리는데 도움을 줄것으로 기대하고 있다."
 
 SIK_jahriyya:0 "자흐리야를 복원"
-SIK_jahriyya_desc:0 "마쇼아우가 수피 자흐리야의 권위와 연계를 함으로서, 그는 하나피 극단주의나 잠식해오는 살라피즘에서 벗어나 쿠란에대한 중국인과 이슬람의 해석으로 향하게 될것이라는 희망으로, 이전의 황폐했던 신장의 이슬람 교도들은 매우 흥분하고 있습니다."
+SIK_jahriyya_desc:0 "마쇼아우가 수피 자흐리야의 권위와 연계를 함으로서, 그는 하나피 극단주의나 잠식해오는 살라피즘에서 벗어나 쿠란에대한 중국인과 이슬람의 해석으로 향하게 될것이라는 희망으로, 이전의 황폐했던 신강의 이슬람 교도들은 매우 흥분하고 있습니다."
 
 SIK_jahriyya2:0 "자흐리야로인한 흥분"
-SIK_jahriyya2_desc:0 "자흐리야은 신장지역에서 재건된 것으로 보이며, 마가군벌의 관심을 끈 것 같습니다. 수피 위허하나이를 위해 모인 자흐리야는 중국 서부를 가로질러 다른 신장의 불신자들에 의해 강하게 비판받고 있습니다. 이러한 충격 요법으로서 자흐리야는 진정으로 마쇼오우에게 몸을 바칠 준비가 되었습니다."
+SIK_jahriyya2_desc:0 "자흐리야은 신강지역에서 재건된 것으로 보이며, 마가군벌의 관심을 끈 것 같습니다. 수피 위허하나이를 위해 모인 자흐리야는 중국 서부를 가로질러 다른 신강의 불신자들에 의해 강하게 비판받고 있습니다. 이러한 충격 요법으로서 자흐리야는 진정으로 마쇼오우에게 몸을 바칠 준비가 되었습니다."
 
 SIK_menhuan_education:0 "먼후안 교육"
-SIK_menhuan_education_desc:0 "수피의 전통을 통해 신장 전역에 먼후안의 권위는 기초 교육에 큰 안정을 가져왔습니다. 지배자의 연민과 후원을 통해 먼후안은 이제 자유롭게 그들의 이슬람 교육을 펼칠 수 있게 되었다."
+SIK_menhuan_education_desc:0 "수피의 전통을 통해 신강 전역에 먼후안의 권위는 기초 교육에 큰 안정을 가져왔습니다. 지배자의 연민과 후원을 통해 먼후안은 이제 자유롭게 그들의 이슬람 교육을 펼칠 수 있게 되었다."
 
 SIK_closer:0 "충성심 시험"
-SIK_closer_desc:0 "신장을 망치겠다고 위협한 일련의 배신행위 이후, 지도자는 제국검사위원회의 역량평가를 바탕으로 취할 일련의 충성맹세서의 초안을 작성했습니다. 향후 승진을 위한 법적 근거를 마련하는 것은 합법적인 정부구성을 하는 데에도 두움이 될 것입니다."
+SIK_closer_desc:0 "신강을 망치겠다고 위협한 일련의 배신행위 이후, 지도자는 제국검사위원회의 역량평가를 바탕으로 취할 일련의 충성맹세서의 초안을 작성했습니다. 향후 승진을 위한 법적 근거를 마련하는 것은 합법적인 정부구성을 하는 데에도 두움이 될 것입니다."
 
 SIK_tradeing_allies:0 "서쪽 관문의 개방"
-SIK_tradeing_allies_desc:0 "다양한 제국들의 졸개가 되는 것을 피하기 위해 경찰력을 투입하여 신장지역의 교역로를 확보하고 도적때를 근절하는데 중점을 두고 있습니다."
+SIK_tradeing_allies_desc:0 "다양한 제국들의 졸개가 되는 것을 피하기 위해 경찰력을 투입하여 신강지역의 교역로를 확보하고 도적때를 근절하는데 중점을 두고 있습니다."
 
 ### Decisions ###
 SIK_killing_mongol_decision_category:0 "몽골의 노략질"
-SIK_killing_mongol_decision_category_desc:0 "북쪽의 몽골 정부가 서부의 도적들과 마찰이 생기면서 이 문제는 우리 신장지역까지 확산되고 있다. 이지역이 신장의 핵심은 아니지만, 이 상황이 오래 지속되면 우리의 통치력을 의심 받을 것이다."
+SIK_killing_mongol_decision_category_desc:0 "북쪽의 몽골 정부가 서부의 도적들과 마찰이 생기면서 이 문제는 우리 신강지역까지 확산되고 있다. 이지역이 신강의 핵심은 아니지만, 이 상황이 오래 지속되면 우리의 통치력을 의심 받을 것이다."
 
 SIK_mobilize_shuren_division:0 "진슈렌의 부대를 증원"
 SIK_mobilize_shuren_division_desc:0 "진 슈렌이 꾸린 부대는 더 많은 병력과 무기 같은 사소한 필요 외에 우리의 땅이 무방비가 되기전에 북쪽 몽골도적을 쉽게 처리할 수 있도록 능 준비하던 것이였다.
@@ -148,7 +148,7 @@ SIK_remove_mongol_mission_desc:0 "몽골 문제가 확대되기 시작함에 따
 TIB_intervene_mongolia:0 "몽골과의 국경선 분쟁"
 
 
-SIK_xinjiang_war_category:0 "신장에서의 전쟁"
+SIK_xinjiang_war_category:0 "신강에서의 전쟁"
 SIK_xinjiang_war_category_desc:0 "Xinjiang due to Jin's policies has entered a state of crisis, with the Uyghur rebels to the south and the Kumulik traitors to the east. While a unified force for now, Sheng Shicai, Ma Shaowu, and Jin Shuren are all making their own moves to deal with the problem that fuel their own interests. Without careful manuevering, the Xinjiang governorate could fall even quicker then imagined."
 
 SIK_internal_decisions:0 "전시긴급대책"
@@ -161,7 +161,7 @@ SIK_pull_strings_with_industrialists:0 "Entice foreign industry to Xinjiang"
 SIK_defend_dihua_mission:0 "디화를 방어"
 SIK_defend_dihua_mission_desc:0 "Dihua is the capital of northern Xinjiang and the base of Jin Shuren's operations. Should it fall, the only place left to retreat would be the minor city of Aksu under Sheng Shicai's control, and whether Sheng would even comply with Jin retreating there is completely unknown. We must take all measures to prevent this from even happening in the first place, lest we wish for our inevitable fall."
 
-SIK_unify_xinjiang:0 "신장 통합"
+SIK_unify_xinjiang:0 "신강 통합"
 SIK_unify_xinjiang_desc:0 "Xinjiang is split, and all it leads back to Jin Shuren and his policies that lead to this awful situation. If he wishes to redeem himself, he'll need to be quick in ending this conflict before it gets further out of control. After all, certain political elements might not be able to stand his reign for much longer after this blunder..."
 
 SIK_mobilize_aksu_forces:0 "셍의 악수 군단을 동원"
@@ -184,22 +184,22 @@ SIK_assassinate_damulla_category_desc:0 "Sabit Damulla currently leads a coaliti
 SIK_assassinate_sabit_damulla_decision:0 "계획"
 
 ### Events ###
-xin.0.t:0 "신장 군벌 소개"
-xin.0.desc:0 "중국의 신장성은 오늘날까지 끊임없이 불안의 속삭임에 고통받고 있기때문에 서북부의 많은 지역들과 마찬가지로 파괴적인 역사를 가지고 있습니다. 신해혁명의 여파는 위구르 인들에 의해 반생하고 있던 혼란보다 중앙아시아에 거주하고 있던 중국인들에 의해 발생한 것이 더 많습니다. 최근의 도지사인 완두화는 이 사태를 전혀 수습하지 못했고, 그의 지역을 떠나 그의 신임 고문인 양쩡신에게 위임한뒤 떠났습니다.\n\n 신장은 약싹바른 거래와 폭압적인 정책을 통해 20년간 통지를 유지해 왔습니다. 양씨 자신은 매우 편집증적인 사람으로 신장에 거주하는 위구르 인들은 한계까지 억압하여 봉기를 예방하기 위한 모든 조치들을 취하고 있습니다. 1936년까지, 그는 그의 저택에만 머무르며 그의 몇명의 신하중 한명이 시도 했던 암살에대한 두려움 때문에 좀처럼 나오지 않는 외딴 영혼입니다. 대부분의 임무는 그의 강력한 조언가인 진슈렌, 마샤오우, 판 야오난의 사이에서 처리됩니다. 세사람의 의견이 합치하여 일상 업무를 처리하면서 가끔 양지사의 지시를 받습니다. 현재로선 신장내의 현상유지는 되지만 양씨의 운둔이 갈수록 심해지면서 무슨일이 일어날 수도 있습니다."
+xin.0.t:0 "신강 군벌 소개"
+xin.0.desc:0 "중국의 신강성은 오늘날까지 끊임없이 불안의 속삭임에 고통받고 있기때문에 서북부의 많은 지역들과 마찬가지로 파괴적인 역사를 가지고 있습니다. 신해혁명의 여파는 위구르 인들에 의해 반생하고 있던 혼란보다 중앙아시아에 거주하고 있던 중국인들에 의해 발생한 것이 더 많습니다. 최근의 도지사인 완두화는 이 사태를 전혀 수습하지 못했고, 그의 지역을 떠나 그의 신임 고문인 양쩡신에게 위임한뒤 떠났습니다.\n\n 신강은 약싹바른 거래와 폭압적인 정책을 통해 20년간 통지를 유지해 왔습니다. 양씨 자신은 매우 편집증적인 사람으로 신강에 거주하는 위구르 인들은 한계까지 억압하여 봉기를 예방하기 위한 모든 조치들을 취하고 있습니다. 1936년까지, 그는 그의 저택에만 머무르며 그의 몇명의 신하중 한명이 시도 했던 암살에대한 두려움 때문에 좀처럼 나오지 않는 외딴 영혼입니다. 대부분의 임무는 그의 강력한 조언가인 진슈렌, 마샤오우, 판 야오난의 사이에서 처리됩니다. 세사람의 의견이 합치하여 일상 업무를 처리하면서 가끔 양지사의 지시를 받습니다. 현재로선 신강내의 현상유지는 되지만 양씨의 운둔이 갈수록 심해지면서 무슨일이 일어날 수도 있습니다."
 xin.0.a:0 "양쩡신이시여 장수하고 번창하시길"
 xin.0.b:0 "쿠물칸국이 뭔데?"
 xin.0.c:0 "위구르인들?"
 
-xin.1.t:0 "신장과 쿠물 칸국"
-xin.1.desc:0 "쿠물칸국은 공식적으로 신장 내에 있는 청의 보호국으로서 신장 안정의 큰 요인입니다. 현재 나스르 샤에의해 통치되고 있는 칸국은 신장 지자체에 매년 공물을 보내야 하는 것 외에 신장 군벌에는 아무런 도움을 주지 않습니다. 그럼에도 중요한 이유는, 현재 사람들은 쿠물칸국이 자치권을 가지고 있는 것은 신장내에서의 긴장이 폭발하는 것을 막는 유일한 것으로 보고 있는데, 이는 사람들이 현재 칸국의 지배자 나스르 샤를 좋아하지 않지만 지방내에서의 위구르인들의 자치를 어느정도 보여주고는 있기 때문입니다. 그 존재는 중국의 북서쪽의 안정의 열쇠이고, 오직 바보멍청이만이 그 존재를 가지고 장난을 치려 할것입니다."
+xin.1.t:0 "신강과 쿠물 칸국"
+xin.1.desc:0 "쿠물칸국은 공식적으로 신강 내에 있는 청의 보호국으로서 신강 안정의 큰 요인입니다. 현재 나스르 샤에의해 통치되고 있는 칸국은 신강 지자체에 매년 공물을 보내야 하는 것 외에 신강 군벌에는 아무런 도움을 주지 않습니다. 그럼에도 중요한 이유는, 현재 사람들은 쿠물칸국이 자치권을 가지고 있는 것은 신강내에서의 긴장이 폭발하는 것을 막는 유일한 것으로 보고 있는데, 이는 사람들이 현재 칸국의 지배자 나스르 샤를 좋아하지 않지만 지방내에서의 위구르인들의 자치를 어느정도 보여주고는 있기 때문입니다. 그 존재는 중국의 북서쪽의 안정의 열쇠이고, 오직 바보멍청이만이 그 존재를 가지고 장난을 치려 할것입니다."
 xin.1.a:0 "이 작은놈은 확실히 뭔가..."
-xin.1.b:0 "신장의 일반적인 상황은 뭔가?"
+xin.1.b:0 "신강의 일반적인 상황은 뭔가?"
 xin.1.c:0 "위구르인들?"
 
-xin.2.t:0 "신장의 사람들"
- xin.2.desc:0 "많은 사람들의 대다수가 중국인이냐고 물어본다면 자신은 전혀 중국인이 아니라고 불쾌해 할것이기 때문에 신장은 중국에서도 단연 독특한 지역입니다. 가장 큰 인종집단중 하나는 위구르족으로, 신장내에서 지금까지 가장 민족주의 적이고 잘알려진 민족집단입니다. 다른 주목할만한 두개의 집단은, 먼저 40만명의 인구를 가지고 있는 북쪽의 카자흐족과 남쪽의 퉁간족으로서, 45만명의 인구를 지닌 중국의 회족의 신장버전이라 볼 수 있습니다. 퉁간족과 위구르인들은 현재 호탄의 도인이 마샤오우인이라는 것에서 말해 주듯 소수의 퉁간족이 오랫동안 요직을 장악해 왔기때문에 사이가 나쁘다고 알려져 있습니다. 위구르족과 카자흐인들은 한족과의 오랜 분리로 인해 정부내에서 큰 골칫거리로 남겨져 있으며, 과거 중국으로 부터 독립하기위해 여러번 반란을 일으킨 전적이 있습니다."
+xin.2.t:0 "신강의 사람들"
+ xin.2.desc:0 "많은 사람들의 대다수가 중국인이냐고 물어본다면 자신은 전혀 중국인이 아니라고 불쾌해 할것이기 때문에 신강은 중국에서도 단연 독특한 지역입니다. 가장 큰 인종집단중 하나는 위구르족으로, 신강내에서 지금까지 가장 민족주의 적이고 잘알려진 민족집단입니다. 다른 주목할만한 두개의 집단은, 먼저 40만명의 인구를 가지고 있는 북쪽의 카자흐족과 남쪽의 퉁간족으로서, 45만명의 인구를 지닌 중국의 회족의 신강버전이라 볼 수 있습니다. 퉁간족과 위구르인들은 현재 호탄의 도인이 마샤오우인이라는 것에서 말해 주듯 소수의 퉁간족이 오랫동안 요직을 장악해 왔기때문에 사이가 나쁘다고 알려져 있습니다. 위구르족과 카자흐인들은 한족과의 오랜 분리로 인해 정부내에서 큰 골칫거리로 남겨져 있으며, 과거 중국으로 부터 독립하기위해 여러번 반란을 일으킨 전적이 있습니다."
 xin.2.a:0 "그걸로 충분해, 이제 일을 시작할 시간이군."
-xin.2.b:0 "신장의 일반적인 상황은 뭔가?"
+xin.2.b:0 "신강의 일반적인 상황은 뭔가?"
 xin.2.c:0 "쿠물칸국이 뭔데?"
 
 xin.3.t:0 "북쪽에서의 마찰"
@@ -257,7 +257,7 @@ xin.15.a:0 "우리는 그의 손에 놀아났군..."
 
 xin.16.t:0 "진씨가 악수로 진격하다"
 xin.16.desc:0 "As many predicted, Jin quickly moved from Dihua to remove Fan Yao-nan's position in power before he could even act. Many noticed what looks like the beginning of a build-up of defenses, but Fan's accomplices were killed before any meaningful resistance could be put up, though Fan himself could not be found. Some believe him to have escaped into the mountains to avoid capture. Ma Shaowu, the Dao-yin of Hotan has declared his loyalty to the new governor Jin Shuren, aiming to secure his rule in the south. Jin Shuren has agreed to this, finally achieving his rule over all of Xinjiang, at least for now."
-xin.16.a:0 "지금 이러한 것들은 우리 신장이 필요로 했던 것들이다!"
+xin.16.a:0 "지금 이러한 것들은 우리 신강이 필요로 했던 것들이다!"
 
 xin.17.t:0 "진 슈렌의 권력 규합"
 xin.17.desc:0 "With Ma Shaowu's southern government declaring loyalty to the new governor Jin Shuren, Jin has managed to secure all aspects of power. Fan Yao-nan is missing, and with the cabinet slowly being replaced one by one, Jin is surely the ruler who has proven himself to be on top during this time of stress. No one knows what he has planned but based off his close proximity with Yang Zengxin, it most likely will be similar in policy. One piece still missing to the puzzle is the empty seat of the Dao-yin of Aksu, but surely someone will be appointed soon."
@@ -281,7 +281,7 @@ xin.22.a:0 "우리 둘이 엮이는 것은 항상 좋은일이오, 그렇지않�
 
 xin.23.t:0 "쿠물이 합병되다"
 xin.23.desc:0 "Nasīr walked into Dihua, greeted with a lavish ceremony along with many festivities to celebrate his arrival. Following a personal greeting from Jin Shuren and multiple cabinet members, Nasīr walked further into the city in a tour. Greeted by many, Nasīr felt welcome and realized just how important of a figure he seems to be. However, his pride and satisfaction didn't last for long.\n\nNasīr was soon invited to Jin's personal residence, where they went into the dining room and began to feast. As they became overcome with gluttony, the unexpected happened. Nasīr has two guns aimed at the back of his head. "Nasīr, your time is up. Come with us." Having no choice but to comply, Nasīr was taken to a prison deep within Urumqi, probably to be held there for the rest of his life.\n\nJin wasted no time in declaring the annexation of Kumul and the arrest of numerous officials, declaring the region 'Hami', the well-known Chinese name. Hami, now fully incorporated into the Xinjiang administration, has finally united Xinjiang once and for all."
-xin.23.a:0 "하미, 신장이 된걸 축하한다."
+xin.23.a:0 "하미, 신강이 된걸 축하한다."
 
 xin.24.t:0 "나스르에대한 음모"
 xin.24.desc:0 "Nasīr walked into Dihua, greeted with a lavish ceremony along with many festivities to celebrate his arrival. Following a personal greeting from Jin Shuren and multiple cabinet members, Nasīr walked further into the city in a tour. Greeted by many, Nasīr felt welcome and realized just how important of a figure he seems to be. However, his pride and satisfaction didn't last for long.\n\nNasīr was soon invited to Jin's personal residence, where they went into the dining room and began to feast. As they became overcome with gluttony, the unexpected happened. Nasīr has two guns aimed at the back of his head. "Nasīr, your time is up. Come with us." Having no choice but to comply, Nasīr was taken to a prison deep within Urumqi, probably to be held there for the rest of his life.\n\nJin wasted no time in declaring the annexation of Kumul and the arrest of numerous officials, declaring the region 'Hami', the well-known Chinese name. Hami, now fully incorporated into the Xinjiang administration, has finally united Xinjiang once and for all."
@@ -337,7 +337,7 @@ xin.36.t:0 "마후밍이 우리를 저버리다"
 xin.36.desc:0 "Ma fuming due to our lack of action towards his declaration of neutrality has officially betrayed us in favor of the Kumuliks. His garrison has been deployed and is currently skirmishing with our other forces. Already outnumbered, this is only more of a dash to Jin's reputation as we continue to be on the back foot of this conflict and more desert us. We'll need to be more careful in the future."
 xin.36.a:0 "이건 더많은 문제를 일으킬 것이다..."
 
-xin.37.t:0 "신장의 탈영병이 도착하다"
+xin.37.t:0 "신강의 탈영병이 도착하다"
 xin.37.desc:0 "The Turfan garrison under Ma Fuming has defected to our ranks, mobilizing for the sake of a more equal Xinjiang. Rumors of discontent are stemming from the Xinjiang administration, something we can probably be gaining more from in the future if things continue to head in this direction. Nonetheless, more manpower for our noble cause is always a welcome change as we continue on our Jihad against the Han dictators."
 xin.37.a:0 "이건 우리에게 도움이 될것이다."
 
@@ -557,7 +557,7 @@ SIK_positions_for_uyghurs_desc:0 "Although seperate, Uyghurs in Xinjiang did pla
 SIK_the_purge:0 "제거"
 SIK_the_purge_desc:0 "It has come to the Governor's attention that there are inconsolable issues between the Uyghur and Hui people in Xinjiang. This is manifested in not only the rivalry between Jahriyya and Jadidist, but in a reinforcment of Chinese language as a shibboleth. Another, more organized purge may be necessary to solve this."
 
-SIK_kuomintangs_xinjiang:0 "신장의 국민당"
+SIK_kuomintangs_xinjiang:0 "신강의 국민당"
 SIK_kuomintangs_xinjiang_desc:0 "The Kuomintang has interested Sheng Shicai for decades, going back to his early days in Manchuria. Having taken a position against direct intervention if unnecessary, Governor Sheng has chosen to aid the KMT through donations from the state treasury."
 
 SIK_education_reform:0 "교육 개혁"
@@ -642,5 +642,5 @@ SIK_navigating_desert_desc:0 "The Taklamakan basin is a death trap for travelers
 SIK_open_mineral_mining:0 "광산 개업"
 SIK_open_mineral_mining_desc:0 "The mines of Khotan that were closed during the strike are finally reopened. Miners are easily found to replace the rebels in the numerous immigrants to Xinjiang."
 
-SIK_xinjiang_railways:0 "신장에 닿다"
+SIK_xinjiang_railways:0 "신강에 닿다"
 SIK_xinjiang_railways_desc:0 "The greatest goal of any modern Xinjiang governor is to have a railway. Thought impossible due to the extreme temperature, benditry, and costs, it may be time to revive the dream."

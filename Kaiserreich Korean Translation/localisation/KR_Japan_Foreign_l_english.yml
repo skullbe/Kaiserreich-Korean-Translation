@@ -66,9 +66,9 @@ KOR_uprising3_tt:0 "새로운 보병 사단이 생성될 것입니다."
 JAP_offered_peace_and_I_want:0 "§G협상이 마무리되려면 2주정도 소요되겠지만, 우리는 일본의 평화협정을 받아들일 것입니다. 일본과 전쟁을 하고 있는 모든 사람들은 협상을 수락해야합니다...§!"
 JAP_offered_peace_and_I_hate_peace:0 "§R우리는 일본과의 평화를 거부할 것입니다. 이것은 우리뿐만 아니라 일본과의 전쟁 중인 모든 사람들의 평화를 가로막는 것입니다...§!"
 
-JAP_agree_reconstruction_anqing_tt:0 "우리는 안청 군벌을 돕는데 동의합니다. 안청 군벌을 재건하기 위해 상당한 정치적, 경제적 자원이 투입될 것이고, 이로써 봉천 정부와 안청 군벌은 베이징으로 더 빨리 진출할 수 있을 것입니다.\n"
+JAP_agree_reconstruction_anqing_tt:0 "우리는 안경 군벌을 돕는데 동의합니다. 안경 군벌을 재건하기 위해 상당한 정치적, 경제적 자원이 투입될 것이고, 이로써 봉천 정부와 안경 군벌은 베이징으로 더 빨리 진출할 수 있을 것입니다.\n"
 JAP_disagree_anqing_strategy_tt:0 "우리는 여기엔 동의할 수 없습니다. 봉천 정부는 이제 다른 전략적 활로를 찾아봐야 할 것입니다.\n"
-JAP_fng_fast_strike_strategy_anqing_tt:0 "우리의 동의가 있다면, 봉천 정부는 안청에게 베이징에 대한 빠른 공격을 원하는지 물을 것입니다.\n"
+JAP_fng_fast_strike_strategy_anqing_tt:0 "우리의 동의가 있다면, 봉천 정부는 안경에게 베이징에 대한 빠른 공격을 원하는지 물을 것입니다.\n"
 
 wont_work_with_JAP:0 "이 국가는 일본과 협력하지 않을 것입니다"
 will_work_with_JAP:0 "이 국가는 일본과 협력할 수 있습니다"
@@ -167,8 +167,8 @@ JAP_fengtian_bailout_desc:0 "우리는 그들의 국고를 채우기에 충분�
 JAP_MANTETSU_COLLAPSE:0 "만철 붕괴"
 JAP_MANTETSU_COLLAPSE_desc:0 "만철로부터 나오는 이윤은 일본 경제의 주요 동력원이며, 이는 정부 연간 수입의 4분의 1에 육박합니다. 하지만 최근 중국 내 자본의 대규모 압류와 탈취가 일본 경제에 위기를 불러오고 있습니다."
 
-JAP_ANQ_Traing_Aid:0 "안청 군사 훈련 지원"
-JAP_ANQ_Traing_Aid_desc:0 "우리는 팔성연합과의 충돌에서 도움이 되도록 안청에 다양한 훈련 병력들을 제공했습니다. 성공한다면 우린 중국 본토에 강력한 동맹을 획득할 것입니다."
+JAP_ANQ_Traing_Aid:0 "안경 군사 훈련 지원"
+JAP_ANQ_Traing_Aid_desc:0 "우리는 팔성연합과의 충돌에서 도움이 되도록 안경에 다양한 훈련 병력들을 제공했습니다. 성공한다면 우린 중국 본토에 강력한 동맹을 획득할 것입니다."
 JAP_ANQ_Reconstruction_Plan:0 "안칭 재건 계획"
 JAP_ANQ_Reconstruction_Plan_desc:0 "안칭을 빠르게 복구하여 봉천 정부에 도움이 될 수 있도록, 우리는 그들에게 상당한 구호물자를 보내고 있습니다."
 

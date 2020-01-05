@@ -125,8 +125,8 @@ FNG_disgruntled_soldiers_idea_desc:0 "중국에서"
 FNG_north_china_famine_idea:0 "화북 기근"
 FNG_north_china_famine_idea_desc:0 "인구 밀도가 대단히 높은 화북평야는 기근에 취약하기로 악명이 자자하며, 기본적인 생필품조차 중국 내 다른 지역에서 수입하고 있습니다. 전쟁의 혼돈과 파괴에 더해 식량이 풍부한 지역이 남과 서로 분리되면서, 해당 지역의 새로운 점령자들은 질서를 유지하고 자신의 군대를 계속 보급하기 위해 애쓰고 있습니다."
 
-FNG_ANQ_Reconstruction_Plan:0 "안청 재건 계획"
-FNG_ANQ_Reconstruction_Plan_desc:0 "안청이 재건되면 재수복 전쟁에서 우리를 도울 수 있으므로, 우리는 그들에게 원조를 보내고 있습니다."
+FNG_ANQ_Reconstruction_Plan:0 "안경 재건 계획"
+FNG_ANQ_Reconstruction_Plan_desc:0 "안경이 재건되면 재수복 전쟁에서 우리를 도울 수 있으므로, 우리는 그들에게 원조를 보내고 있습니다."
 
 ###Decision Costs###
 
@@ -270,7 +270,7 @@ FNG_Ask_Japan_for_Aid_desc:0 "우리는 [QIE.GetNameDef] 에게 패배할 수도
 FNG_attack_chinese_tag:0 "[FROM.GetNameDef] 공격"
 
 FNG_Annex_Shandong_Anqing_Puppet:0 "산둥 통제권 확보"
-FNG_Annex_Shandong_Anqing_Puppet_desc:0 "안청과의 합의 끝에, 우리는 청과의 전쟁에 돌입했고, 그들은 산둥 지역의 통제권을 넘겨주었습니다."
+FNG_Annex_Shandong_Anqing_Puppet_desc:0 "안경과의 합의 끝에, 우리는 청과의 전쟁에 돌입했고, 그들은 산둥 지역의 통제권을 넘겨주었습니다."
 
 FNG_cut_aid_to_japan:0 "일본을 향한 식량 수송 중단"
 FNG_cut_aid_to_japan_desc:0 "일본과 한국에서 가뭄이 끝날때까지, 우리는 대량의 식량을 수송해줄 것입니다. 물론 마음이 바뀌지 않는다는 가정하에서요...\n\n§R주의§!: 수송을 중단하고 싶을때만 결정을 누르세요. 누르지 않으면 식량 수송은 정상적으로 계속됩니다."
