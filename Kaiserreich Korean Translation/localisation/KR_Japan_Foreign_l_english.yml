@@ -366,7 +366,7 @@ japfor.2.d:0 "끔직한 소식입니다! 봉천 정부에 대한 통제력 상�
 japfor.2.a:0 "젠장!"
 
 japfor.3.t:0 "일본의 군사 훈련 제안"
-japfor.3.d:0 "[From.GetNameDef] 의 대표단이 오늘 우리 병력을 '필요한 수준'으로 만들기 위한 군사 훈련을 제공하겠다고 했습니다. 거부하기 어려운 제안이군요..."
+japfor.3.d:0 "[From.GetNameDef] 대표단이 오늘 우리 병력을 '필요한 수준'으로 만들기 위한 군사 훈련을 제공하겠다고 했습니다. 거부하기 어려운 제안이군요..."
 japfor.3.a:0 "좋다마다!!"
 japfor.3.b:0 "거절하라."
 
@@ -407,11 +407,11 @@ japfor.21.d:0 "일본이 도쿄에서 개최되는 '범아시아 회담'의 초�
 japfor.21.a:0 "가장 좋은 정장을 가져와라."
 japfor.21.b:0 "올해는 집에서 머물자고."
 
-japfor.22.t:0 "[From.GetNameDefCap]가 도쿄 회담에 참여하다"
+japfor.22.t:0 "[From.GetNameDefCap]이(가) 도쿄 회담에 참여하다"
 japfor.22.d:0 "[From.GetNameDef]의 대표가 도쿄에 도착했으며 회담이 진행 중입니다!"
-japfor.22.a:0 "환영합니다!"
+japfor.22.a:0 "환영하네!"
 
-japfor.23.t:0 "[From.GetNameDefCap]가 회담을 거절하다"
+japfor.23.t:0 "[From.GetNameDefCap]이(가) 회담을 거절하다"
 japfor.23.d:0 "[From.GetNameDefCap]는 우리가 큰 비용을 들여 개최한 도쿄 회담 참여를 거절했으며, 그 이유에 대한 질문을 회피하며 변변찮은 자기변호만 늘어놓았습니다."
 japfor.23.a:0 "한 사람이 줄었군."
 
@@ -425,7 +425,7 @@ japfor.25.a:0 "당연하지!"
 japfor.25.b:0 "좋지 않은 생각이야.(회담을 떠난다)"
 
 japfor.26.t:0 "[From.GetNameDefCap] 하차"
-japfor.26.d:0 "[From.GetAdjective]의 대표들이 도쿄 회담에서 우리의 발의에 불편함을 느끼고 더 이상의 대회를 중단하기로 결정한 것 같습니다."
+japfor.26.d:0 "[From.GetAdjective] 대표들이 도쿄 회담에서 우리의 발의에 불편함을 느끼고 더 이상 대화를 하지않기로 결정한 것 같습니다."
 japfor.26.a:0 "부끄러운 줄 알아야지!"
 
 japfor.27.t:0 "도쿄 회담: 무역에 관한 결의안"
@@ -455,7 +455,7 @@ japfor.32.d:0 "오늘의 도쿄 회담에서 일본은 구설수에 오를 진�
 japfor.32.a:0 "모든 아시아인을 위해 함께하자!"
 japfor.32.b:0 "완전히 정신이 나갔구만!"
 
-japfor.33.t:0 "[From.GetNameDefCap]가 일본과 함께하다!"
+japfor.33.t:0 "[From.GetNameDefCap]이(가) 일본과 함께하다!"
 japfor.33.d:0 "[From.GetNameDef]의 정치가들은 그들의 번영과 힘을 위해서는 아시아의 강국인 [JAP.GetNameDef]과 협력해야 한다는 데 동의한 것 같습니다. 우리는 그들과 함께 대동아공영권을 뒷받침하는 공식적인 군사 동맹을 맺을 것입니다."
 japfor.33.a:0 "훌륭해!"
 
@@ -464,11 +464,11 @@ japfor.34.d:0 "일본에서 오늘, 명목상의 중국 영토 내에서 비 한
 japfor.34.a:0 "물론이지!"
 japfor.34.b:0 "당연하지!"
 
-japfor.340.t:0 "[From.GetNameDefCap]가 수락하다"
+japfor.340.t:0 "[From.GetNameDefCap]이(가) 수락하다"
 japfor.340.d:0 "[From.GetAdjective] 정부는 우리 제안의 현명함을 이해했고 동맹 제안을 수락했습니다."
 japfor.340.a:0 "완벽해."
 
-japfor.341.t:0 "[From.GetNameDefCap]가 거절하다"
+japfor.341.t:0 "[From.GetNameDefCap]이(가) 거절하다"
 japfor.341.d:0 "[From.GetAdjective] 정부는 우리의 동맹 제안을 거부했습니다."
 japfor.341.a:0 "어리석은 선택을 했군."
 
