@@ -22,8 +22,8 @@ JF_GENERIC_FLAVOUR_OTHER_VICTORY:0 "구세계의 질서가 폐허가 되면서, 
 ### Add Custom Localisation Here ###
 
 #North America
-JF_CAN_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지만, 미국은 [CAN.GetNameDef]와(과) 함께 그들의 조국과 유럽을 생디칼리즘으로부터 해방시키기로 결정했습니다."
-JF_GER_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지만, 미국은 생디칼리즘에 대한 공통된 적개심을 가진 [GER.GetNameDef]와(과) 함께 하고자 제국 조약에 가입하기로 결정했습니다. "
+JF_CAN_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지만, 미국은 [CAN.GetNameDef]와(과) 함께 그들의 조국과 유럽을 생디칼리슴으로부터 해방시키기로 결정했습니다."
+JF_GER_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지만, 미국은 생디칼리슴에 대한 공통된 적개심을 가진 [GER.GetNameDef]와(과) 함께 하고자 제국 조약에 가입하기로 결정했습니다. "
 JF_FRA_CSA_FLAVOUR:0 "노조연합이 미국 내전에서 승리한 이후, 노조연합은 프랑스 쪽으로 방향을 틀었고, 공식적으로 생디칼리스트 동맹에 합류하였습니다. 미국의 산업력이 혁명을 위해 쓰이기 시작하면서 혁명가들은 전율하고 있습니다."
 
 #Central America
@@ -45,8 +45,8 @@ JF_GER_IRE_FLAVOUR:0 "Due to British provocation, [IRE.GetName] has joined the [
 JF_GER_SWE_FLAVOUR:0 "베를린과의 오랜 경제적인 유대를 가지고 있고, 스칸디나비아에서 급진주의가 대두되면서 [SWE.GetName]은(는) 공식적으로 제국 조약에 가입했습니다."
 JF_FRA_SWE_FLAVOUR:0 "[SWE.GetLeader]이(가) 스웨덴 정부를 무너뜨리고서, [SWE.GetNameDef]와(과) 파리와의 관계를 공고히하며, 제3인터내셔널에 가입하였습니다."
 JF_GER_FIN_FLAVOUR:0 "러시아는 자국내 급진주의의 위협을 무너뜨리고서 유럽영토를 되찾으려고 하고 있습니다. [FIN.GetLeader]은(는) 소국에게는 부족한 안보를 제국 조약이 지켜줄 수 있도록 제국 조약과의 관계를 공고히 다졌습니다."
-JF_FRA_FIN_FLAVOUR:0 "[FIN.GetLeader]이(가) 군주주의를 무너뜨리고서 자발적으로 국제적인 생디칼리즘 운동에 동참하기 위해 제3인터내셔널에 가입하였습니다."
-JF_FRA_NOR_FLAVOUR:0 "군주제의 전복 이후, 새로운 노르웨이의 생디칼리즘 정부는 제3인터내셔널에 가입했습니다."
+JF_FRA_FIN_FLAVOUR:0 "[FIN.GetLeader]이(가) 군주주의를 무너뜨리고서 자발적으로 국제적인 생디칼리슴 운동에 동참하기 위해 제3인터내셔널에 가입하였습니다."
+JF_FRA_NOR_FLAVOUR:0 "군주제의 전복 이후, 새로운 노르웨이의 생디칼리슴 정부는 제3인터내셔널에 가입했습니다."
 JF_CAN_NOR_FLAVOUR:0 "국내의 급진주의를 즉각적으로 제압하고서, [NOR.GetName]은(는) 협상국과 관계를 공고히 하고 있습니다."
 JF_AUS_SWI_FLAVOUR_peace:0 "While the French threat may be subdued for the moment, Switzerland has formally aligned themselves with Austria's alliace to ensure future peace and stability."
 JF_AUS_SWI_FLAVOUR_war:0 "With the French conflict progressing, Switzerland has decided to officially join Austria's alliance, just in case anyone thought they were still neutral."

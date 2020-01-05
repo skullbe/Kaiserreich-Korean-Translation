@@ -88,8 +88,8 @@ RRM_available_siguranta:0 "§YThis option is available because the Siguranta has
 ### Parties ###
 RRM_totalist_party:0 "사회주의-전체주의당"
 RRM_totalist_party_long:0 "사회주의-전체주의당"
-RRM_syndicalist_party:0 "사회주의-생디칼리즘당"
-RRM_syndicalist_party_long:0 "사회주의-생디칼리즘당"
+RRM_syndicalist_party:0 "사회주의-생디칼리슴당"
+RRM_syndicalist_party_long:0 "사회주의-생디칼리슴당"
 RRM_radical_socialist_party:0 "루마니아 사회주의당"
 RRM_radical_socialist_party_long:0 "루마니아 사회주의당"
 RRM_social_democrat_party:0 "사회민주당"

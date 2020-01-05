@@ -716,7 +716,7 @@ rus_northern_japan_tooltip:0 "§Y넌장§!, §Y랴오베이§!와 §Y안둥§!�
 RUS_mon_accepted_demand_normongolia_focus:0 "몽골이 우리 요구를 받아들임"
 RUS_railroad_event:0 "트란스시베리아 철도가 이미 러시아 통제 하에 있음"
 rus_crush_mitteleuropa_tooltip:0 "Doesn't have a non-aggression pact with Germany if it controls one of the claimed lands in the west \nDoesn't have a non-aggression pact with France if it controls one of the claimed lands in the west"
-rus_ukraine_tooltip:0 "우크라이나가 생디칼리즘이며 홀로 있음"
+rus_ukraine_tooltip:0 "우크라이나가 생디칼리슴이며 홀로 있음"
 rus_galicia_tooltip:0 "§Y카우나스§!, §Y리가§!, §Y민스크§!, §Y키예프§!, §Y크림반도§!와 §Y하리코프§!를 소유하거나 괴뢰국이 가지고 있음"
 rus_poland_tooltip:0 "§Y리가§!, §Y민스크§!, §Y키예프§!, §Y크림반도§!와 §Y하리코프§!를 소유하거나 괴뢰국이 가지고 있음"
 rus_poland_kaunas_tooltip:0 "§Y빌뉴스§!를 소유하거나 괴뢰국이 가지고 있거나 폴란드가 소유하고 있음"
@@ -867,7 +867,7 @@ pres_elections_dem_rep:0 "The Senate will stay the head of state until the elect
 pres_elections_dem_rep_popular_front:0 "As Bukharin was elected president in 1936 the next presidential elections will be held in 1940."
 
 russia.18.t:0 "영도자의 탄생"
-russia.18.d:0 "라브르 코르닐로프가 서거하면서, 보리스 사빈코프와 그의 급진적인 NRPR 지지자들이 전 국토를 장악했습니다. 세계에서 가장 큰 나라의 가장 큰 권력자가 된 사빈코프는 논란의 여지가 없는 러시아의 영도자로서 칭송받고 있으며, 생디칼리즘 그리고 구 러시아 공화국의 전통 모두를 부정하는 자신만의 이데올로기를 국가에 이식할 준비가 되어 있습니다. '국가재건'이라고 불리는 이 이데올로기의 목적은, 러시아를 러시아의 이익과 전 세계의 시민들을 보호할 수 있는 실속 있는 국가로 재구성하는 것입니다. 사빈코프는 제국조약에도, 패배자 협상국에도 의존하지 않을 것입니다. 그의 새로운 러시아는 세계의 그 어떤 동맹보다도 강대해질 테니까요."
+russia.18.d:0 "라브르 코르닐로프가 서거하면서, 보리스 사빈코프와 그의 급진적인 NRPR 지지자들이 전 국토를 장악했습니다. 세계에서 가장 큰 나라의 가장 큰 권력자가 된 사빈코프는 논란의 여지가 없는 러시아의 영도자로서 칭송받고 있으며, 생디칼리슴 그리고 구 러시아 공화국의 전통 모두를 부정하는 자신만의 이데올로기를 국가에 이식할 준비가 되어 있습니다. '국가재건'이라고 불리는 이 이데올로기의 목적은, 러시아를 러시아의 이익과 전 세계의 시민들을 보호할 수 있는 실속 있는 국가로 재구성하는 것입니다. 사빈코프는 제국조약에도, 패배자 협상국에도 의존하지 않을 것입니다. 그의 새로운 러시아는 세계의 그 어떤 동맹보다도 강대해질 테니까요."
 russia.18.a:0 "강인한 사람들에게는 강인한 국가가 필요하다!"
 
 russia.182.t:0 "마지막 단계?"

@@ -111,7 +111,7 @@ DEH_ISACnuke_desc:0 "The ISAC have started developing a nuclear research program
 DEH_ISACrocket:0 "ISAC 로켓 프로그램"
 DEH_ISACrocket_desc:0 "The ISAC have started developing a rocketry program. We should join as well, as this weapon has huge military benefits."
 DEH_armyreform1:0 "군제 개혁 착수"
-DEH_armyreform1_desc:0 "우리 군대는 상태가 영 좋지 않습니다. 백인 장교와 인도 장교로, 그리고 토후들의 사병으로 분열되어 있고, 방향성은 부족합니다. 우리는 생디칼리즘과, 반역자인 남부 토후들과 싸우기 위해 군대의 통합에 노력을 쏟아야 합니다."
+DEH_armyreform1_desc:0 "우리 군대는 상태가 영 좋지 않습니다. 백인 장교와 인도 장교로, 그리고 토후들의 사병으로 분열되어 있고, 방향성은 부족합니다. 우리는 생디칼리슴과, 반역자인 남부 토후들과 싸우기 위해 군대의 통합에 노력을 쏟아야 합니다."
 DEH_princearmyreform:0 "토후들의 사병 문제"
 DEH_princearmyreform_desc:0 "델리의 군대는 정규군과 토후들의 사병으로 나뉘어져 있습니다. 이것은 전투에서의 의사소통과 효율성을 저해하며, 우리는 너무 늦기 전에 해결책을 찾아야만 합니다."
 DEH_diarchy:0 "Address the Diarchy"
@@ -292,7 +292,7 @@ delhi.12.d.liberal:0 "In the wake of the our decision to restructure the landsca
 delhi.12.d.swaraj:0 "Following our decision to restructure the landscape of Indian economy, calls have arisen from labour activists throughout the Dominion that our government solidify the rights of both the industrial and agrarian workers. Although the factories spanning from Khyber Pass down to Gujarat are relatively scarce, legislation in favour of the workers might serve to stem the tide of Syndicalist influence seeping into the trade unions. Yet the Swaraj Party is facing a thoroughly hard choice. On one hand, a great deal of electoral support for the party stems from the emancipated middle class who regard worker's rights positively, but another wing garners considerable financial aid and support from the industrialists and bankers of Delhi and Lahore. With the party thus divided, it seems that only the premier himself will have the power to force through a decision."
 delhi.12.d.jinnah:0 "Following our decision to restructure the landscape of Indian economy, calls have arisen from labour activists throughout the Dominion that our government solidify the rights of both the industrial and agrarian workers. Although the factories spanning from Khyber Pass down to Gujarat are relatively scarce, legislation in favour of the workers might serve to stem the tide of Syndicalist influence seeping into the trade unions. For Jinnah the course looks clear. Swept into office on the winds of popular affection founded in the lowest levels of society, a refusal to improve the livelihood of the industrial worker will appear as all but traitorous."
 delhi.12.d.union:0 "Since the Unionist Party swept into office in the last election a reform of the stagnate Indian economy has been passed and the status of the princely states been determined. However, demands have been presented by leaders of the nascent trade union movement of the north-west - demanding the government legislate in favour of greater worker's rights. Traditional and slightly reactionary in its origin, this is a very controversial demand for the incumbent Unionist cabinet. However, the movement for the betterment of worker's rights is an increasingly powerful organisation within the Dominion. As such a contradictory stance by the government and its landed supporters might risk driving the up and coming trade unionists into the arms of radical Syndicalism."
-delhi.12.a:0 "노동조합주의는 생디칼리즘이나 다를 바 없다, 규제하라!"
+delhi.12.a:0 "노동조합주의는 생디칼리슴이나 다를 바 없다, 규제하라!"
 delhi.12.b:0 "노동자들의 권리를 적당히, 다만 점진적으로 보장하라!"
 delhi.12.c:0 "프롤레타리아들은 더 이상 고통받지 않을 것이다, 노동조합을 지지하라!"
 

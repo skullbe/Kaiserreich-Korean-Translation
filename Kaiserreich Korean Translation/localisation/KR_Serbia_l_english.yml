@@ -223,8 +223,8 @@ SER_invest_in_light_cruisers_desc:0 "현대적인 잠수함과 구축함에 더�
 ### Parties ###
 SER_totalist_party:0 "사회주의 노동당 (전체주의)"
 SER_totalist_party_long:0 "사회주의 노동당 (전체주의)"
-SER_syndicalist_party:0 "사회주의 노동당 (생디칼리즘)"
-SER_syndicalist_party_long:0 "사회주의 노동당 (생디칼리즘)"
+SER_syndicalist_party:0 "사회주의 노동당 (생디칼리슴)"
+SER_syndicalist_party_long:0 "사회주의 노동당 (생디칼리슴)"
 SER_radical_socialist_party:0 "사회주의 노동당"
 SER_radical_socialist_party_long:0 "사회주의 노동당"
 SER_social_democrat_party:0 "인민-사회주의당"
