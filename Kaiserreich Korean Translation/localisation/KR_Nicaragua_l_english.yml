@@ -91,7 +91,7 @@ NIC_declare_monroe_dead:0 "먼로 독트린은 의미없다!"
 NIC_declare_monroe_dead_desc:0 "먼로 독트린이 우리나라를 오랫동안 불구로 만들어 우리 군대로 하여금 진정한 힘을 깨닫지 못하게 하고 혁명이 동포들에게 확산되지 않도록 막았습니다. 하지만 더 이상은 그러지 못할 겁니다! 우리는 이 시대에 뒤떨어진 독트린에게 사망을 선고하고 우리나라를 우리 국민을 위한 국가로 다시 재창조할 겁니다."
 NIC_second_sandinistas_recruitment:0 "산디니스타 모병"
 NIC_second_sandinistas_recruitment_desc:0 "산디니스타를 길들여서 안정적인 전투력으로 이용하려던 산디노의 개인적 계획은 지금까지 효과가 좋았고, 현재 갈등을 해결하기 위해 모집을 확대해야 한다는 의견까지 제기되었습니다."
-NIC_open_eastern_recruitment:0 "Open Eastern Recruitment"
+NIC_open_eastern_recruitment:0 "동부 징집 개시"
 NIC_open_eastern_recruitment_desc:0 "미국이 비공식적으로 동부 지역을 비무장화했기 때문에 해당 지역에서 징집활동이 사실상 금지되었지만, 이제 우리는 미국의 도움이 없이도 징집을 실시할 수 있습니다. 물론 지역 내 사람들은 이를 탐탁치 않아 할 수도 있겠지요..."
 NIC_test_honduras:0 "온두라스를 시험해보다"
 NIC_test_honduras_desc:0 "온두라스는 망명한 국가수비대를 데리고 우리 혁명공화국에게 비우호적인 태도를 보이는 등 여러 행동 때문에 오랫 동안 우리나라에서 멸시와 경멸의 대상이었습니다. 전쟁을 하기 전에 온두라스의 힘을 시험해 봐야 합니다. 국경 지역에서 갈등을 고의적으로 유발함으로써요."
@@ -148,120 +148,120 @@ NIC_agriculture_reliance_desc:0 "우리 경제는 여전히 농업 수출량에 
 NIC_agriculture_reliance_2:0 "농업에 의존"
 NIC_agriculture_reliance_2_desc:0 "우리 경제는 여전히 농업 수출량에 의존하고 있으며 우리나라의 더 큰 이익을 위해 이를 유지할 겁니다."
 
-NIC_agriculture_reliance_3:0 "Export Economy"
-NIC_agriculture_reliance_3_desc:0 "Our economy has completely transitioned to an export based one, with a reliance on foreign powers buying our tropical cash crops that are hard for them to get otherwise. While this rakes in great profits, it could come back to haunt us if those countries should stop buying our products."
+NIC_agriculture_reliance_3:0 "수출경제"
+NIC_agriculture_reliance_3_desc:0 "다른 강대국들이 다른 방식으로 얻기 힘든 열대지방에서만 나는 현금작물을 사들이기 시작하면서 우리 경제 또한 수출주도경제로 완전히 전환했습니다. 이로 인해 엄청난 수익을 올리고 있지만, 저들이 제품 구매를 중단한다면 경제가 힘들어질지도 모릅니다."
 
-NIC_foreign_profit_pullin:0 "Export Profits"
-NIC_foreign_profit_pullin_desc:0 "Our various exports are beginning to give us many profits, but if countries we rely on were to fall, we could see a sharp turn for our economy."
+NIC_foreign_profit_pullin:0 "수출 이익"
+NIC_foreign_profit_pullin_desc:0 "각종 수출품을 팔아넘긴 이래로 엄청난 이익을 보았지만, 우리가 의존하고 있는 국가들에 문제가 생긴다면 경제에 엄청난 변동이 생길겁니다."
 
-NIC_strike:0 "Strikes"
-NIC_strike_desc:0 "Strikes have begun across the nation in response to the occupation of Nicaragua, resulting in a loss of reputation of the ruling government."
+NIC_strike:0 "파업"
+NIC_strike_desc:0 "니카라과 점령에 대한 저항으로 전국적인 파업이 시작되어 집권 정권이 평판을 잃게 되었습니다."
 
-NIC_revolutionary_economy_beginning:0 "Beginning of the Revolutionary Economy"
-NIC_revolutionary_economy_beginning_desc:0 "The government has officially begun the 'Revolutionary Economy Project', where the main goal is to reform the industry, acquire new investors without allowing any to become too powerful, and generally increase the industry within Nicaragua itself. Naturally, the complete separation from the United States has begun to hurt the economy, but we could see an improvement in the long run."
+NIC_revolutionary_economy_beginning:0 "혁명적 경제의 시작"
+NIC_revolutionary_economy_beginning_desc:0 "정부가 '혁명적 경제계획'을 공식적으로 시작했습니다. 이 계획은 산업 분야 개혁과 너무 많은 권력을 허용하지 않는 선에서 신규 투자를 유치하고 니카라과 산업을 전반적으로 확대시키는데 목적을 둡니다. 미국 정부와 완전히 결별한 이후로 자연스럽게 경제가 타격을 입게 되었지만, 장기적으로 개선되는 중입니다."
 
-NIC_revolutionary_economy_2:0 "Transition to the Revolutionary Economy"
-NIC_revolutionary_economy_2_desc:0 "The government has officially begun the 'Revolutionary Economy Project', where the main goal is to reform the industry, acquire new investors without allowing any to become too powerful, and generally increase the industry within Nicaragua itself. Naturally, the complete separation from the United States has begun to hurt the economy, but we could see an improvement in the long run, but the transition itself has begun to go smoothly."
+NIC_revolutionary_economy_2:0 "혁명적 경제로 전환"
+NIC_revolutionary_economy_2_desc:0 "정부가 '혁명적 경제계획'을 공식적으로 시작했습니다. 이 계획은 산업 분야 개혁과 너무 많은 권력을 허용하지 않는 선에서 신규 투자를 유치하고 니카라과 산업을 전반적으로 확대시키는데 목적을 둡니다. 미국 정부와 완전히 결별한 이후로 자연스럽게 경제가 타격을 입게 되었지만, 장기적으로 개선되는 중입니다. 그리고 계획은 순조롭게 진행되고 있습니다."
 
-NIC_revolutionary_economy_3:0 "Transition to the Revolutionary Economy"
-NIC_revolutionary_economy_3_desc:0 "The government has officially begun the 'Revolutionary Economy Project', where the main goal is to reform the industry, acquire new investors without allowing any to become too powerful, and generally increase the industry within Nicaragua itself. Naturally, the complete separation from the United States has begun to hurt the economy, but we could see an improvement in the long run, but the transition itself has begun to go smoothly."
+NIC_revolutionary_economy_3:0 "혁명적 경제로 전환"
+NIC_revolutionary_economy_3_desc:0 "정부가 '혁명적 경제계획'을 공식적으로 시작했습니다. 이 계획은 산업 분야 개혁과 너무 많은 권력을 허용하지 않는 선에서 신규 투자를 유치하고 니카라과 산업을 전반적으로 확대시키는데 목적을 둡니다. 미국 정부와 완전히 결별한 이후로 자연스럽게 경제가 타격을 입게 되었지만, 장기적으로 개선되는 중입니다. 그리고 계획은 순조롭게 진행되고 있습니다."
 
-NIC_revolutionary_economy_4:0 "The Revolutionary Economy"
-NIC_revolutionary_economy_4_desc:0 "The government has finished the 'Revolutionary Economy Project', with it ending rather well. Dependence on one country has been ended and replaced with reliance on several new trade partners. Domestic industry is growing, and the people are happy. The only thing that could harm us is another global economy crash, but that could never happen, right?"
+NIC_revolutionary_economy_4:0 "혁명적 경제"
+NIC_revolutionary_economy_4_desc:0 "정부가 '혁명적 경제계획'을 완성했고, 계획은 괜찮게 끝났습니다. 한 국가에 대한 의존이 해소되었고 그 자리는 몇가지 새로운 무역 상대국들로 채워졌습니다. 국내 산업이 성장하고 있으며 인민은 행복을 누립니다. 우리에게 또 다른 피해를 입힐 만한 사태는 세계 경제 붕괴 뿐이겠지만, 설마 일어나겠어요??"
 
-NIC_agrarian_reform:0 "Agrarian Reform"
-NIC_agrarian_reform_desc:0 "We've begun to work on reforming our farming industry, with it making up most of our exports. This should help us and our economy in the long run, along with the people."
+NIC_agrarian_reform:0 "농업 개혁"
+NIC_agrarian_reform_desc:0 "수출 대부분을 차지하는 농업 분야를 개혁하기 시작했습니다. 이로서 장기적으로 인민과 함께하는 경제에 도움이 될겁니다."
 
-NIC_economy_assistance:0 "Economic Assistance"
-NIC_economy_assistance_desc:0 "[OVERLORD.GetNameDefCap] has sent us economic assistance to help us recover from the occupation of our country."
+NIC_economy_assistance:0 "경제 원조"
+NIC_economy_assistance_desc:0 "[OVERLORD.GetNameDefCap]이(가) 점령으로부터 복구하는데 도움이 될 경제 원조를 보내왔습니다."
 
-NIC_overlord_economy_assistance:0 "Assisting Nicaragua"
-NIC_overlord_economy_assistance_desc:0 "Due to our occupation of Nicaragua, we have sent them some economic aid to help them recover from the war."
+NIC_overlord_economy_assistance:0 "니카라과 원조"
+NIC_overlord_economy_assistance_desc:0 "니카라과가 전쟁과 점령으로부터 회복하는 일을 돕기 위해 약간 경제적 원조를 보냈습니다."
 
-NIC_beef_profit:0 "Beef Profit"
+NIC_beef_profit:0 "소고기 이익"
 
-NIC_coffee_profit:0 "Coffee Profit"
+NIC_coffee_profit:0 "커피 이익"
 
-NIC_sugar_profit:0 "Sugar Profit"
+NIC_sugar_profit:0 "설탕 이익"
 
-NIC_banana_profit:0 "Banana Profit"
+NIC_banana_profit:0 "바나나 이익"
 
-NIC_never_surrender:0 "Fight for the Revolution"
-NIC_never_surrender_desc:0 "Our government and people are dedicated to the cause and will not go down without a fight; this war is for the revolution after all.\n§RThe enemy will surrender if we capture key points within their country or occupy enough of it.§!"
+NIC_never_surrender:0 "혁명을 위해 싸우자"
+NIC_never_surrender_desc:0 "대의에 헌신하는 정부와 인민들은 싸우지 않고 무너지지는 않을 것이며, 이 전쟁은 결국 혁명을 위한 겁니다.\n§R우리가 적국의 요충지를 점령하거나 영토를 충분히 많이 점령한다면 저들은 항복할겁니다.§!"
 
-NIC_HON_never_surrender:0 "Fight for our Survival"
-NIC_HON_never_surrender_desc:0 "The Nicaraguans are here! Long being foreboded, the Nicaraguans have declared war on our country to spread the revolution. This is a fight for our country's survival, and we must be ready to sacrifice everything!.\n§RThe enemy will surrender if we capture key points within their country or occupy enough of it, or hold out until the Nicaraguans wear themselves out.§!"
+NIC_HON_never_surrender:0 "생존을 위해 싸우자"
+NIC_HON_never_surrender_desc:0 "니카라과 놈들이 드디어 왔습니다! 오래 전부터 니카라과가 언젠가는 혁명을 전파하기 위한 전쟁을 선포하려 한다는 의혹이 있기는 했지만, 드디어 감행해 버렸습니다. 이는 조국을 수호하기 위한 싸움이며, 우리는 모든걸 희생할 준비가 되어 있어야만 합니다!\n§R적들이 항복할 만큼 적국의 요충지를 점령하거나 영토를 충분히 많이 점령하거나 니카라과인들이 지쳐 쓰러질 때까지 버텨내야 합니다.§!"
 
-NIC_sandino_resistance_super_high:0 "Sandino's Resistance"
-NIC_sandino_resistance_super_high_desc:0 "With the fall of the previous revolutionary government, Sandino has retreated to the south for a second time and begun to resist the ruling government. He's attracted many to his cause and it is causing large problems for our government.\n§RWe will suffer periodic attacks from the Sandinistas.§!"
+NIC_sandino_resistance_super_high:0 "산디노의 저항"
+NIC_sandino_resistance_super_high_desc:0 "전 혁명 정부가 몰락함과 동시에 산디노가 두 번째로 남쪽으로 후퇴를 감행했고 집권 정부에 저항하기 시작했습니다. 그가 주창한 대의에 많은 사람들이 모여들었고, 현 정부에 많은 문제를 일으키고 있습니다.\n§산디니스타에게 주기적으로 공격받을 겁니다.§!"
 
-NIC_sandino_resistance_really_high:0 "Sandino's Resistance"
-NIC_sandino_resistance_really_high_desc:0 "With the fall of the previous revolutionary government, Sandino has retreated to the south for a second time and begun to resist the ruling government. He's attracted many to his cause and it is causing large problems for our government.\n§RWe will suffer periodic attacks from the Sandinistas.§!"
+NIC_sandino_resistance_really_high:0 "산디노의 저항"
+NIC_sandino_resistance_really_high_desc:0 "전 혁명 정부가 몰락함과 동시에 산디노가 두 번째로 남쪽으로 후퇴를 감행했고 집권 정부에 저항하기 시작했습니다. 그가 주창한 대의에 많은 사람들이 모여들었고, 현 정부에 많은 문제를 일으키고 있습니다.\n§산디니스타에게 주기적으로 공격받을 겁니다.§!"
 
-NIC_sandino_resistance_high:0 "Sandino's Resistance"
-NIC_sandino_resistance_high_desc:0 "With the fall of the previous revolutionary government, Sandino has retreated to the south for a second time and begun to resist the ruling government. He's attracted many to his cause and it is causing large problems for our government.\n§RWe will suffer periodic attacks from the Sandinistas.§!"
+NIC_sandino_resistance_high:0 "산디노의 저항"
+NIC_sandino_resistance_high_desc:0 "전 혁명 정부가 몰락함과 동시에 산디노가 두 번째로 남쪽으로 후퇴를 감행했고 집권 정부에 저항하기 시작했습니다. 그가 주창한 대의에 많은 사람들이 모여들었고, 현 정부에 많은 문제를 일으키고 있습니다.\n§산디니스타에게 주기적으로 공격받을 겁니다.§!"
 
-NIC_sandino_resistance_base:0 "Sandino's Resistance"
-NIC_sandino_resistance_base_desc:0 "With the fall of the previous revolutionary government, Sandino has retreated to the south for a second time and begun to resist the ruling government. He's attracted many to his cause and it is causing large problems for our government.\n§RWe will suffer periodic attacks from the Sandinistas.§!"
+NIC_sandino_resistance_base:0 "산디노의 저항"
+NIC_sandino_resistance_base_desc:0 "전 혁명 정부가 몰락함과 동시에 산디노가 두 번째로 남쪽으로 후퇴를 감행했고 집권 정부에 저항하기 시작했습니다. 그가 주창한 대의에 많은 사람들이 모여들었고, 현 정부에 많은 문제를 일으키고 있습니다.\n§산디니스타에게 주기적으로 공격받을 겁니다.§!"
 
-NIC_sandino_resistance_low:0 "Sandino's Resistance"
-NIC_sandino_resistance_low_desc:0 "With the fall of the previous revolutionary government, Sandino has retreated to the south for a second time and begun to resist the ruling government. He's attracted many to his cause and it is causing large problems for our government.\n§RWe will suffer periodic attacks from the Sandinistas.§!"
+NIC_sandino_resistance_low:0 "산디노의 저항"
+NIC_sandino_resistance_low_desc:0 "전 혁명 정부가 몰락함과 동시에 산디노가 두 번째로 남쪽으로 후퇴를 감행했고 집권 정부에 저항하기 시작했습니다. 그가 주창한 대의에 많은 사람들이 모여들었고, 현 정부에 많은 문제를 일으키고 있습니다.\n§산디니스타에게 주기적으로 공격받을 겁니다.§!"
 
-NIC_sandino_resistance_really_low:0 "Sandino's Resistance"
-NIC_sandino_resistance_really_low_desc:0 "With the fall of the previous revolutionary government, Sandino has retreated to the south for a second time and begun to resist the ruling government. He's attracted many to his cause and it is large problems for our government.\n§RWe will suffer periodic attacks from the Sandinistas.§!"
+NIC_sandino_resistance_really_low:0 "산디노의 저항"
+NIC_sandino_resistance_really_low_desc:0 "전 혁명 정부가 몰락함과 동시에 산디노가 두 번째로 남쪽으로 후퇴를 감행했고 집권 정부에 저항하기 시작했습니다. 그가 주창한 대의에 많은 사람들이 모여들었고, 현 정부에 많은 문제를 일으키고 있습니다.\n§산디니스타에게 주기적으로 공격받을 겁니다.§!"
 
-NIC_sandino_resistance_super_low:0 "Sandino's Resistance"
-NIC_sandino_resistance_super_low_desc:0 "With the fall of the previous revolutionary government, Sandino has retreated to the south for a second time and begun to resist the ruling government. He's attracted many to his cause and it is causing large problems for our government.\n§RWe will suffer periodic attacks from the Sandinistas.§!"
+NIC_sandino_resistance_super_low:0 "산디노의 저항"
+NIC_sandino_resistance_super_low_desc:0 "전 혁명 정부가 몰락함과 동시에 산디노가 두 번째로 남쪽으로 후퇴를 감행했고 집권 정부에 저항하기 시작했습니다. 그가 주창한 대의에 많은 사람들이 모여들었고, 현 정부에 많은 문제를 일으키고 있습니다.\n§산디니스타에게 주기적으로 공격받을 겁니다.§!"
 
-NIC_reopened_trade:0 "Reopened Trade"
-NIC_reopened_trade_desc:0 "We have begun to revert the previous regimes efforts to close off trade with non-socialist countries, instead opting to refocus on a world-wide trade economy. It might take some time for countries to trust investing into us, however."
+NIC_reopened_trade:0 "무역 재개방"
+NIC_reopened_trade_desc:0 "비 사회주의국가들과 무역관계를 단절하려는 이전 정권들의 방침을 바꾸어 전 세계적인 국제 무역에 초점을 맞추는 방향으로 정책을 변화시키기 시작했습니다. 다만 우리나라의 신뢰성을 회복하여 투자를 유치하기까지 시간이 꽤 걸릴지도 모릅니다."
 
-NIC_reopened_trade_2:0 "Reopened Trade"
-NIC_reopened_trade_2_desc:0 "We have begun to revert the previous regimes efforts to close off trade with non-socialist countries, instead opting to refocus on a world-wide trade economy."
+NIC_reopened_trade_2:0 "무역 재개방"
+NIC_reopened_trade_2_desc:0 "비 사회주의국가들과 무역관계를 단절하려는 이전 정권들의 방침을 바꾸어 전 세계적인 국제 무역에 초점을 맞추는 방향으로 정책을 변화시키기 시작했습니다. 다만 우리나라의 신뢰성을 회복하여 투자를 유치하기까지 시간이 꽤 걸릴지도 모릅니다."
 
-NIC_foreign_companies:0 "Foreign Companies"
-NIC_foreign_companies_desc:0 "Foreign companies have begun to flood back into Honduras, wishing to recreate the monopolies they once held. This brings small benefits to us as well, especially in the infrastructure sector."
+NIC_foreign_companies:0 "외국 기업들"
+NIC_foreign_companies_desc:0 "외국 기업들이 한때 보유했던 무역 독점을 재현하기를 바라며 다시 온두라스로 밀려 들어오기 시작했습니다. 이로 인해 특히 인프라 분야에서 우리도 작은 이익을 보고 있습니다."
 
-NIC_big_guard:0 "Expanding the Guardia Nacional"
-NIC_big_guard_desc:0 "To ensure our country never falls to revolution again, we have begun to expand the Guardia Nacional to defend the nation from itself."
+NIC_big_guard:0 "국가방위군 확장"
+NIC_big_guard_desc:0 "다시는 우리가 혁명의 소용돌이 속으로 들어가지 않도록 막고 스스로 조국을 지키기 위해 국가방위군을 확대하기 시작했습니다."
 
-NIC_political_repression:0 "Political Repression"
-NIC_political_repression_desc:0 "We've begun to put effort into suppressing other political parties, especially those outright dangerous to our government."
+NIC_political_repression:0 "정치적 탄압"
+NIC_political_repression_desc:0 "다른 정당들, 특히 우리 정부에 노골적으로 위험한 정당들을 탄압하기 위해 노력을 기울이기 시작했습니다."
 
-NIC_free_press_idea:0 "Free Press"
-NIC_free_press_idea_desC:0 "The government is moving to establishing freedom of press within the country, allowing information to spread more freely compared to the Sandino presidency."
+NIC_free_press_idea:0 "자유로운 언론"
+NIC_free_press_idea_desC:0 "정부는 산디노 대통령 시대보다 더 자유롭고 넓은 정보 유통을 위해 국내에서 언론의 자유를 확립하는 방향으로 움직이고 있습니다.."
 
-NIC_new_national_guard_idea:0 "The New Guardia Nacional"
-NIC_new_national_guard_idea_desc:0 "A new Guardia Nacional has been formed under Cuadra in an attempt to professionalize the military. It is currently small in size but steps can be taken to improve it."
+NIC_new_national_guard_idea:0 "신 국가방위군"
+NIC_new_national_guard_idea_desc:0 "군 전문화를 위해 콰드라 산하에 새로운 국가방위군이 창설되었습니다. 현재 규모는 작지만 개선하기 위한 조치를 취할 수 있습니다."
 
-NIC_new_national_guard_idea_cuadra_1:0 "The New Guardia Nacional"
-NIC_new_national_guard_idea_cuadra_1_desc:0 "A new Guardia Nacional has been formed under Cuadra in an attempt to professionalize the military. It has been expanded slightly towards a doctrine of offense and conscription, with minor room for improvement."
+NIC_new_national_guard_idea_cuadra_1:0 "신 국가방위군"
+NIC_new_national_guard_idea_cuadra_1_desc:0 "군 전문화를 위해 콰드라 산하에 새로운 국가방위군이 창설되었습니다. 소규모 개선을 실시해 공세와 징병 교리를 약간 확대했습니다."
 
-NIC_new_national_guard_idea_vargas_1:0 "The New Guardia Nacional"
-NIC_new_national_guard_idea_vargas_1_desc:0 "A new Guardia Nacional has been formed under Cuadra in an attempt to professionalize the military. Due to Vargas, it has moved towards a position of defense of the Nicaraguan people, with minor room for improvement."
+NIC_new_national_guard_idea_vargas_1:0 "신 국가방위군"
+NIC_new_national_guard_idea_vargas_1_desc:0 "군 전문화를 위해 콰드라 산하에 새로운 국가방위군이 창설되었습니다. 바르가스로 인해 소규모 개선을 실시해 니카라과 인민을 방위하는 역할을 부여받았습니다."
 
-NIC_new_national_guard_idea_cuadra_2:0 "The New Guardia Nacional"
-NIC_new_national_guard_idea_cuadra_2_desc:0 "A new Guardia Nacional has been formed under Cuadra in an attempt to professionalize the military. It has been expanded slightly towards a doctrine of offense and conscription, along with the responsibility of suppressing resistance if we come to occupy other countries to spread democracy."
+NIC_new_national_guard_idea_cuadra_2:0 "신 국가방위군"
+NIC_new_national_guard_idea_cuadra_2_desc:0 "군 전문화를 위해 콰드라 산하에 새로운 국가방위군이 창설되었습니다. 민주주의를 확산시키기 위해 다른 국가를 점령할 경우에 저항을 억제하는 역할을 부여하면서, 공세와 징병 교리를 약간 확대했습니다."
 
-NIC_new_national_guard_idea_vargas_2:0 "The New Guardia Nacional"
-NIC_new_national_guard_idea_vargas_2_desc:0 "A new Guardia Nacional has been formed under Cuadra in an attempt to professionalize the military. Due to Vargas, it has moved towards a defensive doctrine to better protect the Nicaraguan people, along with the responsibility of suppressing resistance if we come to occupy other countries to spread democracy."
+NIC_new_national_guard_idea_vargas_2:0 "신 국가방위군"
+NIC_new_national_guard_idea_vargas_2_desc:0 "군 전문화를 위해 콰드라 산하에 새로운 국가방위군이 창설되었습니다. 바르가스로 인해 민주주의를 확산시키기 위해 다른 국가를 점령할 경우에 저항을 억제하는 역할을 부여하면서 니카라과 인민을 방위하는 역할을 부여받았습니다."
 
-NIC_economic_ties:0 "Economic Ties"
-NIC_economic_ties_desc:0 "We have begun to establish economic ties with both neighbouring countries and foreign countries."
+NIC_economic_ties:0 "경제적 연결"
+NIC_economic_ties_desc:0 "주변국이나 해외의 여러 국가들과 경제적 유대관계를 맺기 시작했습니다."
 
-NIC_economic_ties_foreign:0 "Foreign Economic Ties"
+NIC_economic_ties_foreign:0 "외국과 경제적 연결"
 
-NIC_religous_zeal_idea:0 "Religious Zeal"
-NIC_religous_zeal_idea_desc:0 "Our troops have begun to be indoctrinated to fight in the name of God, inspiring them to try their hardest to free central America to spread the message to others."
+NIC_religous_zeal_idea:0 "종교적 열정"
+NIC_religous_zeal_idea_desc:0 "우리 군대에게 신의 이름으로 싸운다는 사상을 교육했으며, 중앙아메리카를 해방시키고 다른 이들에게 이런 사상을 전파하기 위해 최선을 다해 고무시켰습니다."
 
-NIC_inspired_youth:0 "Inspired Youth"
-NIC_inspired_youth_desc:0 "The fate of the future lies in the next generation, as they say. We have been trying harder to indoctrinate the youth to love their country and government, which in turn makes them want to serve us."
+NIC_inspired_youth:0 "젊은이들의 감정 고취"
+NIC_inspired_youth_desc:0 "저들이 말한 바대로 미래의 운명은 다음 세대의 손에 달려 있습니다. 젊은이들에게 조국과 정부를 사랑하도록 가르치려고 열심히 노력해 왔으며, 결국 저들 스스로가 우리를 섬기고자 하게 만들었습니다."
 
-NIC_yank_promise_1:0 "Yank's Promise"
-NIC_yank_promise_1_desc:0 "Yank has been with our country ever since the revolution, training our army in the way of guerrilla warfare. However, he had always played more of an observational role up until now. He's been trying to ensure the entire army is ready for the final conflict full time, dedicating himself fully to our revolution."
+NIC_yank_promise_1:0 "양키의 약속"
+NIC_yank_promise_1_desc:0 "양키는 혁명 이후로 줄곧 게릴라전 방식으로 우리 군을 훈련시켜왔습니다. 하지만 그 미국인이 여태까지 단지 관찰자로서 역할만 수행한건 아니었습니다. 그는 최후 결전의 날이 왔을때 전군이 혁명에 온 힘을 쏟을 수 있도록 준비하는데 노력을 아끼지 않았습니다."
 
-NIC_yank_promise_2:0 "Yank's Promise"
-NIC_yank_promise_2_desc:0 "Yank has been with our country ever since the revolution, training our army in the way of guerrilla warfare. However, he had always played more of an observational role up until now. He's been trying to ensure the entire army is ready for the final conflict full time, dedicating himself fully to our revolution."
+NIC_yank_promise_2:0 "양키의 약속"
+NIC_yank_promise_2_desc:0 "양키는 혁명 이후로 줄곧 게릴라전 방식으로 우리 군을 훈련시켜왔습니다. 하지만 그 미국인이 여태까지 단지 관찰자로서 역할만 수행한건 아니었습니다. 그는 최후 결전의 날이 왔을때 전군이 혁명에 온 힘을 쏟을 수 있도록 준비하는데 노력을 아끼지 않았습니다."
 
 ### Events ###
 nic.1.t:0 "니카라과의 새로운 공화국"
@@ -269,15 +269,15 @@ nic.1.d:0 "미국의 니카라과 점령과 아돌포 디아즈의 복권은 니
 nic.1.a:0 "혁명을 위하여!"
 
 nic.2.t:0 "해방의 날"
-nic.2.d:0 "Today is the anniversary of the revolution which liberated our nation from the Americans and their lapdogs. While Sacasa and Moreno were both involved in the revolution, Sandino is more widely credited for the revolution's success. Sandino's popularity has increased because of the celebrations, but to supporters of opposition parties, the day has only further their disdain for the man. They claim that this celebration with all its cult-like pomp and circumstance is 'Sandino trying to brainwash the population'"
-nic.2.a:0 "중앙 아메리카가 다음이다 "
+nic.2.d:0 "오늘이 바로 미국과 그 개로부터 우리나라를 해방시킨 혁명 기념일입니다. 사카사와 모레노 모두 혁명에 참여했지만, 산디노가 혁명 성공에 가장 큰 기여를 했다고 널리 알려져 있습니다. 축하 행사로 인해 산디노의 인기가 더욱 높아졌지만, 야당 지도자들은 이로 인해 더더욱 그를 미워하게 되었습니다. 저들은 거의 숭배에 가까운 이 화려한 축제의 분위기가 '산디노가 인민을 세뇌시키기 위한 것'이라고 주장합니다'"
+nic.2.a:0 "중앙 아메리카가 다음이다"
 
 nic.3.t:0 "사카사가 전국을 순회하다."
-nic.3.d:0 "With the recent celebrations of Liberation Day, Sandino and his supporters have a slight edge in popularity over the other parties. To counter this, Sacasa has begun a countrywide tour to meet with constituents in hopes of securing their vote come April. While so far, the campaign seems to have been a success, Sandino's supporters, known as 'Sandinistas', now claim that Sacasa is disrespecting the Liberation Day holiday and Sandino himself with this move. Some prominent Sandinistas have even called for violence against Sacasa himself."
-nic.3.a:0 "These elections will be intense, it seems"
+nic.3.d:0 "최근 독립기념일 경축 행사와 함께 산디노와 지지자들이 다른 정당에 비해 지지율이 약간 떨어졌습니다. 이런 현상에 대응하기 위해 사카사가 4월에 있을 선거를 위해 유권자들을 만나는 전국 순회를 시작했습니다. 하여튼 지금까지 선거유세는 성공적이어 보입니다. 때문에 '산디니스타'로 알려져 있던 산디노 지지자들은 이제 사카사가 독립기념일 휴일과 산디노 본인을 모독하는 행위를 한다고 주장하고 있습니다. 몇몇 산디니스트 유력 인사들은 사카사에게 폭력을 행사해야 한다고 주장하기도 했습니다."
+nic.3.a:0 "이번 선거는 치열할 것 같군"
 
 nic.4.t:0 "사카사가 거리낌없이 말하다."
-nic.4.d:0 "While abroad I had the pleasure of the company of many good natured men of influence, and the fortune to learn the fundamentals of good governance and political practice. I now realize that to attribute our present state of isolation to some global conspiracy would be foolish. The nations of the world, on the whole anyway, are good. We would be better served to stand together with those who would have us against the imperialist tendencies of the great powers of the world. The dream of the liberation of all Central America, and perhaps even the independence of Nicaragua itself, rests on our own willingness to employ greater moderation in our foreign policy. The present perversion of liberal thought in our nation is sad indeed, and I say here today, we must no longer turn our backs on destiny. Thank you!'\n\nFierce applause followed."
+nic.4.d:0 ""외국에 있는 동안 저는 수많은 영향력 있는 인사와 그에 못지 않게 선량한 사람들과 함께하는 즐거움을 누렸고, 좋은 통치와 정치 문화란 무엇인지 기초부터 배울 수 있는 행운을 누렸습니다. 저는 현재 우리나라가 당면한 고립 상태가 어떤 전 세계적인 음모 탓이라고 생각하는 행태는 어리석은 짓이라는 사실을 깨달았습니다. 전 세계 각국이 어떻게 되어가는지는 아무래도 상관 없습니다. 강대국들의 제국주의적 행보에 반대하는 자들과 함께 서는 편이 더 나을 겁니다. 모든 중앙아메리카의 해방과 어쩌면 니카라과가 독립을 지키는 일 까지도 우리의 외교 정책에 더 큰 절제를 가할 수 있는 의지에 달려 있습니다. 현재 우리나라에 횡행하는 자유주의 사상의 왜곡은 진실로 애석한 일이며, 저는 오늘 여기서 우리가 더 이상 운명에 등을 돌리지 말아야 한다고 말하고 싶습니다. 감사합니다!"\n\n그리고 박수갈채가 쏟아졌습니다."
 nic.4.a:0 "자유혁명당을 완전히 이해했구만!"
 
 nic.5.t:0 "'산디니스타' 봉기"
