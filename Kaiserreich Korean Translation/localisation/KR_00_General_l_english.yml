@@ -60,36 +60,36 @@ may_become_free:0 "§Y[Root.GetNameDefCap]§! (은)는 독립을 향해가고 �
 
 ### Autonomy Events ###
 kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구되다"
-kr.political.100.d:0 "[Root.GetNameDef]이(가) 여전히 [overlord_name.GetAdjective]의 통제 하에 노동하고 있는 동안, [Root.GetAdjective] 군대는 자국의 국경을 충분히 제어 할 수 있다고 주장하며 이제 더 큰 자율성을 발휘할 수 있게 되었습니다. 이것은 독립 국가와는 거리가 멀지만 국경을 확보하기 위해 더 이상 [overlord_name.GetAdjective] 군대에 의존 할 필요가 없다는 것을 의미합니다."
+kr.political.100.d:0 "[Root.GetNameDef]은(는) 여전히 [overlord_name.GetAdjective]의 통제 하에 분투하고 있지만, [Root.GetAdjective] 군대는 이제 더 큰 자율성을 발휘하도록 자국의 국경에 대한 통제권을 주장하게 되었습니다. 이것은 독립과는 거리가 멀지만 국경을 통제하기 위해 더 이상 [overlord_name.GetAdjective] 군대에 의존 할 필요가 없다는 것을 의미합니다."
 kr.political.100.a:0 "훌륭하군."
 
 kr.political.101.t:0 "대 [Root.GetAdjective] 자치령?"
-kr.political.101.d:0 "[Root.GetNameDefCap]은(는) [overlord_name.GetAdjective] 정부의 통제하에 있지만, 우리의 힘을 스스로 재확보함에 따라 그 통제권은 확실히 줄어들기 시작하고 있습니다. [Root.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 우리의 지도자들은 우리 자신의 문제에 대한 더 많은 통제권을 요구하고 있습니다. 물론 우리 [overlord_name.GetAdjective]은(는) 오랫동안 저항할 수 없을 것입니다."
+kr.political.101.d:0 "[Root.GetNameDefCap]은(는) [overlord_name.GetAdjective] 정부의 통제 하에 있지만, 우리의 힘이 다시 강해지며 그 통제권은 확실히 줄어들기 시작하고 있습니다. [Root.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 우리의 지도자들은 우리 자신의 문제에 대한 더 많은 통제권을 요구하고 있습니다. 물론 [overlord_name.GetAdjective]에서도 오래 반대할 수는 없을 것입니다."
 kr.political.101.a:0 "[Root.GetNameDef] 만세!"
 
 ### Government in Exile Events ###
-mtg_exile_government.1.t:0 "[exile_nation.GetAdjective]의 망명정부 지도자가 군복무를 원합니다"
-mtg_exile_government.1.desc:0 "적국이 점령한 영토와 여러 중립국들을 통해 길고 위험한 여정을 보낸 후, 항복한 아군 중 한 명의 고위 군 장교가 드디어 수도에 도착했습니다. 짧은 회복 시간을 보낸 후, 그는 우리와의 공동의 투쟁에서 군복무를 원하고 있습니다."
+mtg_exile_government.1.t:0 "[exile_nation.GetAdjective]의 망명 지도자가 군복무를 원한다"
+mtg_exile_government.1.desc:0 "적에게 점령당한 영토와 여러 중립국들을 통한 길고 위험한 여정 끝에, 항복한 동맹의 고위 군 장교 중 한 명이 드디어 수도에 도착했습니다. 짧은 회복 시간 후, 그는 우리의 공동투쟁에서의 군복무를 원합니다."
 mtg_exile_government.1.a:0 "당신의 싸움은 아직 끝나지 않았습니다."
 mtg_exile_government.2.title:0 "[From.GetAdjective] 망명정부"
-mtg_exile_government.2.desc:0 "[From.GetLeader] has formally requested permission from the [Root.GetAdjective] government to return to [From.GetNameDef] and re-establish a provisional [From.GetRulingPartyLong] cabinet in preparation for the post-war peace."
-mtg_exile_government.2.a:0 "It is time for them to return to their own territory."
-mtg_exile_government.2.b:0 "The time is not yet ripe."
-mtg_exile_government.3.title:0 "[From.GetName]이(가) 해군 합병를 요청하다"
+mtg_exile_government.2.desc:0 "[From.GetLeader]은(는) [From.GetNameDef]의 영토를 반환하고 전후의 평화에 대비하여 [From.GetRulingPartyLong]의 임시 내각을 재성립할 것을 [Root.GetAdjective] 정부에 공식적으로 요청했습니다. "
+mtg_exile_government.2.a:0 "그들의 영토를 돌려줄 때가 되었다."
+mtg_exile_government.2.b:0 "아직 때가 되지 않았다."
+mtg_exile_government.3.title:0 "[From.GetName]이(가) 해군 합병을 요청하다"
 mtg_exile_government.3.desc:0 "The [From.GetAdjective] naval leadership has presented us with a plan for the integration of our navy into theirs. They argue that, by allowing [From.GetAdjective] naval planners to have full control over our ships, their effectiveness would be drastically increased in comparison to their current independent actions."
 mtg_exile_government.3.a:0 "동의한다."
-mtg_exile_government.3.b:0 "저들의 시중을 듣는 일은 없을 것이다."
-mtg_exile_government.4.title:0 "[From.GetName]이(가) 해군 합병을 수락하였습니다"
+mtg_exile_government.3.b:0 "저들의 시중을 드는 일은 없을 것이다."
+mtg_exile_government.4.title:0 "[From.GetName]이(가) 해군 합병을 수락하다"
 mtg_exile_government.4.desc:0 "The [From.GetAdjective] government has informed us that they agree to our proposal, and that henceforth their ships will operate under our command."
 mtg_exile_government.4.a:0 "훌륭하군."
-mtg_exile_government.5.title:0 "[From.GetName]이(가) 해군 합병을 거절하였습니다"
+mtg_exile_government.5.title:0 "[From.GetName]이(가) 해군 합병을 거절하다"
 mtg_exile_government.5.desc:0 "The [From.GetAdjective] government has informed us that their navy will never serve under the command of a foreign power. They mean to aid us, but they shall do so independently."
-mtg_exile_government.5.a:0 "They place their pride above the interests of the alliance."
-mtg_generic.1.title:0 "[From.GetName] Enforces Government Change"
+mtg_exile_government.5.a:0 "그들은 동맹의 이익보다 스스로의 자존심을 더 우선시하는군."
+mtg_generic.1.title:0 "[From.GetName] 에서 정부 변화를 강요하다"
 mtg_generic.1.desc:0 "Citing the clear lack of electoral support for our current government, [From.GetNameDef] has demanded a change in politics."
-mtg_generic.1.a:0 "We have no choice but to accept."
-mtg_exile_leader_added.1.t:1 "[exile_nation.GetAdjective] Exile Leader Offers Service"
-mtg_exile_leader_added.1.desc:1 "After a long and hazardous journey through enemy-held territory and several neutral states, [From.GetName] has finally arrived in the capital. Following a short period of recovery, [From.GetSheHe] has offered [From.GetHerHis] services in our common struggle.\n\nReportedly, [From.GetSheHe] is quite eager to "get back in the business of killing people and breaking things"."
+mtg_generic.1.a:0 "받아들일 수 밖에 없다"
+mtg_exile_leader_added.1.t:1 "[exile_nation.GetAdjective]의 망명 지도자가 복무를 원한다"
+mtg_exile_leader_added.1.desc:1 "적에게 점령당한 영토와 여러 중립국들을 통한 길고 위험한 여정 끝에, [From.GetName]의 고위 군 장교 중 한 명이 드디어 수도에 도착했습니다. 짧은 회복 시간 후, [From.GetSheHe]는 우리의 공동투쟁에서의 [From.GetHerHis]의 군복무를 원합니다.\n\n소문에 의하면 [From.GetSheHe]는 "사람을 죽이고 물품을 파괴하는 업무로 복귀하는" 데에 꽤나 열정적이라고 합니다."
 mtg_exile_leader_added.1.a:1 "당신의 싸움은 아직 끝나지 않았습니다."
 
 ### Land Units ###
@@ -165,7 +165,7 @@ csa_wins_acw_threat:0 "미노조연합이 제2차 미국 내전에서 승리함"
 belgrade_pact_threat:0 "베오그라드 조약이 창설됨"
 
 ### Other ###
-tooltip_add_idea_closed_economy:0 "'§Y폐쇠경제§!'로 무역법을 변경합니다.\n"
+tooltip_add_idea_closed_economy:0 "'§Y폐쇄경제§!'로 무역법을 변경합니다.\n"
 tooltip_add_idea_command_economy:0 "'§Y계획경제§!'로 무역법을 변경합니다.\n"
 unlock_focuses:0 "§G이 중점은 자동으로 통과될 것이며 다른 중점을 해금할 것입니다§!\n"
 command_economy:0 "명령경제"
@@ -204,28 +204,28 @@ JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일�
 ### Featured Nations ###
 
 ###Qing Empire###
-QIE_KR_GATHERING_STORM_DESC:0 "대청제국은 벼랑 끝에서 1936년을 맞이하고 있습니다. 1927년 직예-봉천 전쟁 때 독일의 지원을 받아서 복고한 선통제는 여전히 인기가 없으며 많은 사람들은 적법하지 않은 지도자로 생각하고 있습니다.\n\n봉천 군벌과 국민당 모두를 이긴 직예 군벌은 1911년 이후의 혼란한 중국을 휩쓴 혼돈의 승자가 되었지만, 이들의 중국 통치는 완전하지 않습니다. 대내외의 적들이 이들의 패권을 위협하고 있으며, 이들이 얼마나 오랫동안 권력을 유지할 수 있을 지는 두고 봐야합니다..."
+QIE_KR_GATHERING_STORM_DESC:0 "대청제국은 벼랑 끝에서 1936년을 맞이하고 있습니다. 1927년 4차 직봉전쟁 중 독일의 지원을 받아 복벽된 선통제는 여전히 인기가 없으며 많은 사람들은 적법하지 않은 지도자로 생각하고 있습니다.\n\n봉천 군벌과 국민당 모두를 이긴 직예 군벌은 1911년 이후의 혼란한 중국을 휩쓴 혼돈의 승자가 되었지만, 이들의 중국 통치는 완전하지 않습니다. 대내외의 적들이 이들의 패권을 위협하고 있으며, 이들이 얼마나 오랫동안 권력을 유지할 수 있을 지는 두고 봐야합니다..."
 
 ###League of Eight Provinces###
-LEP_KR_GATHERING_STORM_DESC:0 "쑨촨팡의 연합은 근 10년 동안 중국을 지배해온 축 중 남부의 절반을 차지하고 있습니다. 수년 간 평화상태를 유지해온 비옥한 지역인 만큼 노리는 자들도 많습니다. 남경과 북양은 아직 외부의 적에 맞서 연합하고 있지만, 서로 동맹인만큼 치열한 경쟁관계가 되었습니다. 어떤 사람들은 이 경쟁의 결과로 인해 양쪽이 각각 희생을 치르기 시작했다고 말합니다.\n\n중국의 다른 많은 나라들처럼 연합은 세심히 균형을 맞추어 탄생한 결과물이며, 쑨의 거대한 관료 피라미드는 이미 금이 가고 무너지기 시작했을지도 모릅니다..."
+LEP_KR_GATHERING_STORM_DESC:0 "쑨촨팡의 연합은 근 10년 동안 중국을 지배해온 축 중 남부의 절반을 차지하고 있습니다. 수년 간 평화상태를 유지해온 비옥한 지역인 만큼 노리는 자들도 많습니다. 남경과 북양은 아직 외부의 적에 맞서 연합하고 있지만, 서로 동맹인만큼 치열한 경쟁관계가 되었습니다. 어떤 사람들은 이 경쟁의 결과로 인해 양쪽이 각각 희생을 치르기 시작했다고 말합니다.\n\n중국의 다른 많은 나라들처럼 연합은 세심히 균형을 맞추어 탄생한 결과물이며, 쑨촨팡의 거대한 관료제의 피라미드는 이미 금이 가고 무너지기 시작했을지도 모릅니다..."
 
 ### Fengtian Government ###
-FNG_KR_GATHERING_STORM_DESC:0 "1928년 상화이 회담으로 봉천은 북양정부의 유일한 계승국으로 남게 되었습니다. 과거와 마찬가지로 민주주의는 겉치레식으로 운영되고 있으며, 실질적인 권력은 가지각색으로 부도덕한 독재자들이 나누어 갖고 있습니다.\n\n청나라와 일본 힘의 냉엄한 현실로 인해 야망이 한계에 부딪힌 장쭤린은 분열된 정부의 책략 위에서 정치적 줄타기를 강요받았습니다. 정부의 전망은 암울하지만 일부는 아직 희망을 갖고 있습니다. 오색기는 다시 베이징과 중국 전역에서 높이 휘날릴 것입니다..."
+FNG_KR_GATHERING_STORM_DESC:0 "1928년 상화이 회담으로 봉천은 옛 북양정부의 유일한 계승국으로 남게 되었습니다. 과거와 마찬가지로 민주주의는 겉치레식으로 운영되고 있으며, 실질적인 권력은 가지각색으로 부도덕한 독재자들이 나누어 갖고 있습니다.\n\n청나라의 힘과 일본의 권력이라는 냉엄한 현실로 야망이 한계에 부딪힌 장쭤린은 분열된 정부의 책략 위에서 정치적 줄타기를 강요받았습니다. 정부의 전망은 암울하지만 일부는 아직 희망을 갖고 있습니다. 오색기는 다시 베이징과 중국 전역에서 높이 휘날릴 것입니다..."
 
 ### Yunnan Clique ###
-YUN_KR_GATHERING_STORM_DESC:0 "독일이 청나라를 다시 세우면서 산악 국경지방에 있는 운남은 전략을 바꿀 수 밖에 없었습니다. 탕 성장은 대청제국에 아첨하며, 공화국 잔당들을 운남에 받아들이는 동시에 자신의 권력 굳히고 그의 악명높은 깡패스러운 자치정부에 대항하는 행동들이 일어나지 않게 만들기로 결정했습니다.\n\n중국의 사정이 탕의 계략에 유리하게 돌아가기 시작했지만, 많은 내부 파벌들이 탕이 내려올 때가 됬다거나 그 자리에 있기에는 제정신이 아니라고 생각하고 있는 등, 탕의 지방 통합이라는 환상을 깨기 시작하고 있습니다..."
+YUN_KR_GATHERING_STORM_DESC:0 "독일이 청나라를 다시 세우면서 산악 국경지방에 있는 운남은 전략을 바꿀 수 밖에 없었습니다. 탕지야오 성장은 대청제국에 아첨하며, 공화국 잔당들을 운남에 받아들이는 동시에 자신의 권력을 굳히고 그의 오만불손하기로 악명높은 자치 정부에 반항하는 행동들이 일어나지 않게 만들기로 했습니다.\n\n중국의 사정이 탕지야오의 계략에 유리하게 돌아가기 시작했지만, 많은 내부 파벌들이 탕지야오가 내려올 때가 됐다거나 그 자리에 있기에는 제정신이 아니라고 생각하고 있는 등, 탕지야오의 지방 통합이라는 환상을 깨기 시작하고 있습니다..."
 
 ### Ma Clique ###
-XSM_KR_GATHERING_STORM_DESC:0 "마씨 세 가문은 지난 30년 동안 서북부 지방을 통치해왔습니다. 중국의 거의 모든 세력들의 편을 한번씩 들었었고, 일부 마씨들은 모두가 좋은 편에 남으려고 서로 다투기도 하며, 마가 군벌은 이제 새로운 직예 군벌 주도 청나라의 가장 최우방국 중 하나로 보여지고 있습니다.\n\n물론 모든 일이 다 잘풀리는 것은 아닙니다. 3년전 마푸샹의 심장마비 증세로 군벌이 뒤흔들렸었고, 불안감과 사회적인 불안이 서서히 퍼져나가고 있습니다. 현재 서북 지방은 평화롭지만, 미래는 사람들의 소망과는 거리가 멀어져만 갈 것입니다..."
+XSM_KR_GATHERING_STORM_DESC:0 "마씨 가문은 지난 30년 동안 서북부 지방을 통치해왔습니다. 중국의 거의 모든 세력들의 편을 한번씩 들었었고 일부 마씨들은 모두가 좋아하는 쪽에 남으려고 서로 다투기도 했지만, 현재의 마가 군벌은 새로운 직예 군벌 주도 청나라의 최우방국 중 하나로 보입니다.\n\n물론 모든 일이 다 잘풀리는 것은 아닙니다. 3년전 마부샹의 심장마비 증세로 군벌이 뒤흔들렸었고, 불안감과 사회적인 불안이 서서히 퍼져나가고 있습니다. 현재 서북 지방은 평화롭지만, 미래는 사람들의 소망과는 거리가 멀어져만 갈 것입니다..."
 
 ### Shandong ###
-SQI_KR_GATHERING_STORM_DESC:0 "산동의 통치자 장종창은 무장한 군대와 잔악무도한 명성을 앞세우고 있습니다. '개고기 장군'은 폭력과 범죄, 부조리등으로 유명하며, 그의 손아귀에 있는 지난의 수도는 착실히 주인을 따르고 있습니다.\n\n그러나 타이 산의 정상에서 찾기 힘든 장톈란 원로는 상기한 부패를 피해 지내고 있습니다. 대신 그는 중국을 1세기 이전으로 되돌리고, 중국을 그의 이관도 신앙으로 품을 수 있게 되기를 소망하고 있습니다. 이 상반되는 세력들 사이의 충돌이 중국을 영원히 바꿔버릴지도 모릅니다..."
+SQI_KR_GATHERING_STORM_DESC:0 "산동의 통치자 장쭝창은 무장한 군대와 잔악무도한 명성을 앞세우고 있습니다. '개고기 장군'은 폭력과 범죄, 부조리등으로 유명하며, 그의 손아귀에 있는 지난의 수도는 착실히 주인을 따르고 있습니다.\n\n그러나 태산의 정상에서 궁장조사 장톈란은 상기한 부패를 피해 지내고 있습니다. 대신 그는 중국을 1세기 이전으로 되돌리고, 중국을 그의 일관도 신앙으로 품을 수 있게 되기를 소망하고 있습니다. 이 상반되는 세력들 사이의 충돌이 중국을 영원히 바꿔버릴지도 모릅니다..."
 
 ### Shanxi Clique ###
 SHX_KR_GATHERING_STORM_DESC:0 "다른 군벌들과는 달리 옌시산의 산서 군벌은 거대한 위협이나 큰 기회가 있을 때에만 깨졌던 신중한 중립정책을 거의 30년 동안 고수해왔습니다. 상기한 위협과 기회는 1928년에 있었는데, 새로이 재건국된 청나라 정부에 맞서 옌시산은 봉천-직예 전쟁에서 장쭤린편에 섰었습니다.\n\n불행히도 당시의 전쟁에서 패배하였고 옌시산은 동부 지방을 빼앗겼으며, 자신의 흔들리는 입지를 바로잡고자 국민군 잔당을 포섭했습니다. 1928년에 치뤘던 전쟁의 결과는 잊혀지지 않았고, 옌시산은 다음번에는 승산이 있는 쪽을 선택해야할 것입니다..."
 
 ### Sichuan Clique ###
-SZC_KR_GATHERING_STORM_DESC:0 "사천은 1911년부터 오랫동안 중국내 많은 문제들의 축소판이었으며, 수없이 분단되고 지속적으로 통치자가 바뀌어왔습니다. 양센은 우페이푸의 직예 군벌의 도움을 받아 간신히 통치자의 입지가 흔들리는 혼란에서 벗어났지만, 권좌는 아직 온전하지 못 한 상태입니다.\n\n학살에 가까운 티베트 침공 후, 양센은 내부 파벌에 의존하게 되었는데, 그중 가장 유명한 파벌은 류샹의 산업 군단과 덩샤오핑의 바오딩 행정부입니다. 다른한편, 망명했던 장교부는 운남의 지원을 받아 남쪽으로 돌아왔습니다. 사천의 화약고가 다시 한번 폭발할지도 모릅니다..."
+SZC_KR_GATHERING_STORM_DESC:0 "사천은 1911년부터 오랫동안 중국 내 많은 문제들의 축소판이었으며, 수없이 분단되고 지속적으로 통치자가 바뀌어왔습니다. 양썬은 우페이푸의 직예 군벌의 도움을 받아 간신히 통치자의 입지가 흔들리는 혼란에서 벗어났지만, 권좌는 아직 온전하지 못 한 상태입니다.\n\n학살에 가까웠던 티베트 침공 후, 양썬은 내부 파벌에 의존하게 되었는데, 그중 가장 유명한 파벌은 류샹의 산업단과 덩시허우의 바오딩파입니다. 다른 한편, 망명했던 장교파는 운남의 지원을 받아 남쪽으로 돌아왔습니다. 사천의 화약고가 다시 한번 폭발할지도 모릅니다..."
 
 ### History ###
 OTHER_KR_GATHERING_STORM_DESC:0 "세계의 크고 작은 국가들은 세계에서 주요한 역할로 등장할 기회를 기다리고 있습니다. 자신의 제국을 유지하려는 주요 국가들부터 세계대전에서 잃은 자신의 것들을 되찾으려는 많은 국가들까지, 모든 국가들은 어려운 결정들을 내려야만 할 것이고 현실과 이상 사이의 균형을 잘 맞춰 세계의 미래에 영향을 미쳐야 할 것 입니다..."
