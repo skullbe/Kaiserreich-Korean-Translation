@@ -200,8 +200,8 @@ JAP_member_integration_2_desc:0 "우리에 대한 일본의 투자는 상당한 
 JAP_member_integration_3:0 "경제적 침투 수준: 높음"
 JAP_member_integration_3_desc:0 "우리에 대한 일본의 투자는 상당한 수준으로, 우리 경제의 성장에 박차를 가하고 있습니다... 하지만 일본의 영향력이 커질수록 우리는 점차 그들에게 종속될 것입니다."
 
-JAP_india_support:0 "Japanese Advisors"
-JAP_trade_embargoed:0 "Japanese Embargo"
+JAP_india_support:0 "일본의 자문단"
+JAP_trade_embargoed:0 "일본의 금수조치"
 
 ### Focuses - Foreign - Base ###
 JAP_SUN_RISE:0 "욱일"
@@ -904,9 +904,9 @@ japfor.234.t:0 "평화와 저무는 해의 제국"
 japfor.234.d:0 "포트 아서에서의 2주간의 회의결과, 일본과의 합의는 무산됐습니다. 이 전쟁은 완전한 전면전이 될 것입니다. 우리는 일본인들을 만주와 한국에서 몰아냈으니, 본토에서까지 그들을 몰아낼 수 있을 것입니다."
 japfor.234.a:0 "이번에도 마찬가지일 것이다."
 
-japfor.235.t:0 "Japan has Surrendered!"
-japfor.235.d:0 "Under assault from all sides, [JAP.GetNameDef] has signed a peace treaty after a two-week conference in Port Arthur, preserving the Home Islands from enduring invasion... but also casting [Root.GetNameDef] to the winds. The Japanese alliance has crumbled, and now we must fight on ourselves."
-japfor.235.a:0 "I thought they were stronger than that..."
+japfor.235.t:0 "일본이 항복하다!"
+japfor.235.d:0 "사면초가에 빠지자, [JAP.GetNameDef](은)는 포트아서(다롄)에서 열린 2주간의 협상끝에 평화조약에 서명했습니다. 본토는 침략에서 벗어날수 있겠습니다만, [Root.GetNameDef](은)는 바람에 날아가듯 될 것입니다. 일본의 동맹들은 모두 쓰러졌고, 우리는 스스로 싸울 수 밖에 없습니다."
+japfor.235.a:0 "난 이것보다 더 강할거라고 생각했는데..."
 
 # Involving Anqing #
 
