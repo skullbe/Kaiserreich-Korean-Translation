@@ -6,7 +6,8 @@ l_english:
 
 ### Parties ###
 SZC_totalist_party:0 "KMT"
-SZC_totalist_party_long:0 "Kuomintang                                                          §LThe Kuomintang’s influence in Sichuan is primarily felt through the presence Officer Department’s guerilla forces, secretive political clubs in the urban city centers and in rural communes throughout the countryside. Among these, it is the Officer Department which can wield the most direct political power and stands a slim but still plausible chance of bringing the three principles to Sichuan. Yet they are also moderate and cautious, whilst the radical propagandist and peasant leaders adhere to more irreverent, reckless displays of ideological fanaticism. Those few organizations within the province who preach such extreme beliefs as Syndicalism or Wang Jingwei Thought remain a helpful asset to the Officer Department, but largely powerless on their own.§!"
+SZC_totalist_party_long:0 "Kuomintang                                                          §L쓰촨성에서 국민당의 영향력은 주로 장교파의 게릴라 세력, 도심의 정치단체, 그리고 시골의 농촌 공동체를 통해 느껴집니다.이 중에서 가장 직접적인 정치력을 행사할 수 있고 가능성은 희박하지만 여전히 그럴듯하게 쓰촨에 삼민주의를 실현할 기회가 남아 있는 것이 장교단입니다. 그렇지만 그들은 또한 온건하고 조심스러운 반면에 급진적인 선동가와 농민 지도자들은 보다 불경하고 무모한 이념적 광신주의를 신봉합니다. 생디칼리즘이나 왕징웨이 사상과 같은 극단적인 신념을 설파하는 지방 내의 소수의 조직들은 행정부에게 도움이 되는 자산으로 남아 있지만, 그들 스스로는 거의 무력합니다.
+§!"
 SZC_syndicalist_party:0 "KMT"
 SZC_syndicalist_party_long:0 "Kuomintang                                                          §LThe Kuomintang’s influence in Sichuan is primarily felt through the presence Officer Department’s guerilla forces, secretive political clubs in the urban city centers and in rural communes throughout the countryside. Among these, it is the Officer Department which can wield the most direct political power and stands a slim but still plausible chance of bringing the three principles to Sichuan. Yet they are also moderate and cautious, whilst the radical propagandist and peasant leaders adhere to more irreverent, reckless displays of ideological fanaticism. Those few organizations within the province who preach such extreme beliefs as Syndicalism or Wang Jingwei Thought remain a helpful asset to the Officer Department, but largely powerless on their own.§!"
 SZC_radical_socialist_party:0 "KMT"
@@ -48,14 +49,14 @@ SZC_Three_Principles_Party:0 "Three Principles' Party"
 SZC_Three_Principles_Party_long:0 "Three Principles' Party (Sanmin Dang)"
 
 ### Ideas ###
-SZC_baoding_influence:0 "Baoding Influence"
-SZC_baoding_influence_desc:0 "The Baoding Department handles a significant amount of work within the government and the influence it holds lowers our legitimacy significantly. Despite this, their added efforts to our ranks help us ensure the Sichuanese powderkeg doesn’t explode."
+SZC_baoding_influence:0 "보정의 영향력"
+SZC_baoding_influence_desc:0 "보정파는 정부 내에서 상당한 양의 업무를 처리하며, 그 영향력은 우리의 정통성을 현저히 떨어뜨립니다. 그럼에도 불구하고, 그들의 부단한 노력은 우리가 일촉즉발의 쓰촨성이 폭발하지 않도록 하는 데 도움이 됩니다..."
 
-SZC_internal_divisions:0 "Internal Divisions"
-SZC_internal_divisions_desc:0 "The past decade saw a small decrease in internal divisions of the Sichuan Clique, but the problem still lingers on. The influential Baoding Department, the strong Industrial Corps and the southern Officer Department have all set the stage for the province’s collapse being imminent at the slight upset of power."
+SZC_internal_divisions:0 "내분"
+SZC_internal_divisions_desc:0 "지난 10년간 사천군벌 내의 분열은 소폭 감소했지만 문제는 여전히 남아 있습니다. 영향력 있는 보정파, 강력한 산업단, 남부 장교단 모두 약간의 권력 혼란이 쓰촨을 붕괴에 임박하게 하는 발판을 마련했습니다."
 
-SZC_famine_danger:0 "Severe Risk of Famine"
-SZC_famine_danger_desc:0 "The production of opium has become extremely pervasive within Sichuan, being one of the few profitable crops due to the province's economic isolation. As a consequence, the production of grain and rice within the province has been reduced to a critical level, a situation made worse by the instability and incompetent governance of the last three decades. Sichuan teeters on the brink of a large-scale famine, were a natural disaster to happen."
+SZC_famine_danger:0 "심각한 기근의 위험"
+SZC_famine_danger_desc:0 "쓰촨성 내에서는 아편 생산이 극도로 만연해 있는데, 이 지방의 경제적 고립으로 인한 몇 안 되는 수익성 있는 작물 중 하나 입니다. 그 결과, 성내의 곡물과 쌀의 생산은 심각한 수준으로 줄어들었고, 이는 지난 30년간의 불안정과 무능한 통치로 인해 더 악화되었습니다. 쓰촨은 현재 대규모의 기근이라는 천재지변의 벼랑끝에 서있습니다."
 
 SZC_civil_war_idea:0 "Civil War!"
 SZC_aftermath_of_the_civil_war:0 "Aftermath of the Civil War"
