@@ -511,17 +511,16 @@ japfor.43.d:0 "독일은 우리의 조건을 받아들였습니다. 그리 놀�
 japfor.43.a:0 "훌륭하다!"
 
 japfor.45.t:0 "일본의 특사"
-japfor.45.d:0 "A Japanese diplomat arrived today, seeking a meeting with [Root.GetLeader] to discuss their offer: [From.GetNameDef] will send military aid and advisors to [PRF.GetNameDef], and in exchange we will join the Asian Co-Prosperity Sphere. Not the military alliance part of it, at least not yet, but rather the group of nations which have pooled their economic strengths under the aegis of Japanese protection. It would benefit the [Root.GetAdjective] economy, to be certain, but there are those who worry the Japanese are merely looking for influence to eventually turn us into a colony."
+japfor.45.d:0 "오늘 일본 외교관이 [Root.GetLeader](와)과 논의를 하기위해 방문했습니다. [From.GetNameDef](은)는 [PRF.GetNameDef]에게 군사 자문단을 파견할 것입니다. 대신 그들은 공영권에 참여하기를 요구하고 있습니다. 공영원은 군사적 동맹이라기 보다는 일본의 아래에 결집한 경제 공동체입니다. 이러한 공동체는 [Root.GetAdjective]의 경제에 확실히 이득이 되겠지만, 몇몇의 사람들은 일본인들이 우리를 식민지로 만들기 위해 영향력을 행사하는 것이라고 걱정하고 있습니다."
 japfor.45.a:0 "제안을 받아들이자."
 japfor.45.b:0 "정중히 거절해야만 한다."
 
 japfor.46.t:0 "인도인들이 제안을 수락하다!"
-japfor.46.d:0 "Our generous offer to the Indians was met with warm praise and acceptance. Envoys from [From.GetNameDef] applauded Japanese magnanimity and astute work in bringing our great nations closer together. We have invited them to set up a permanent embassy in Tokyo."
+japfor.46.d:0 "우리의 관대한 제안은 인도인들의 열렬한 환호와 함께 받아들여졌습니다. [From.GetNameDef]의 사절단은 양국이 서로 가까워지기 위한 일본의 노력과 아량에 박수갈채를 보냈습니다. 우리는 그들이 도쿄에 대사관을 설치할 수 있도록 초대했습니다."
 japfor.46.a:0 "아주 좋아!"
 
 japfor.47.t:0 "인도인들이 제안을 거절하다!"
-japfor.47.d:0 "In a display of poor judgement, the diplomats in [From.GetNameDef] have declined our magnanimous offer of friendship and alliance. Japanese newspapers reacted with caricatures of scared lapdogs, mocking them for not being willing to take the steps necessary to rid the subcontinent from colonialism."
-japfor.47.a:0 "어리석기는!"
+japfor.47.d:0 "판단능력이 떨어진다는 것을 반증하기라도 하듯이, 인도인들은 양국간의 우정과 동맹을 위한 우리의 관대한 제안을 거절했습니다. 일본의 언론사들은 주인에게 혼이날까 겁먹은 애완견의 캐리커처를 그리며 아대륙(인도)에서 식민주의를 없애기 위해 필요한 조치를 취하지 않은 그들을 조롱했습니다.
 
 japfor.54.t:0 "칭타우 점령!"
 japfor.54.d:0 "The German military harbour in East Asia has fallen to our armies. Instead of their naval ensign, now the Japanese flag flies proudly in the city. German shopkeepers watch our regiments parade through the streets with stony expression."
@@ -537,17 +536,17 @@ japfor.56.d:0 "일본은 필리핀의 문 앞까지 왔으며 필리핀은 우�
 japfor.56.a:0 "보호를 제공해야 한다."
 japfor.56.b:0 "그렇게까지 일을 벌릴 순 없다."
 
-japfor.57.t:0 "The Philippines Has [event_target:philippines_backer.GetAdjective] Backing"
-japfor.57.d:0 "The Filipinos are resisting our demands, and [event_target:philippines_backer.GetNameDef] is backing their claim to independence."
+japfor.57.t:0 "필리핀이 [event_target:philippines_backer.GetAdjective]의 지지를 얻다"
+japfor.57.d:0 "필리핀은 우리의 요구에 저항하고 있으며, [event_target:philippines_backer.GetNameDef]는 그들의 주장을 공식적으로 지지했습니다."
 japfor.57.a:0 "상관없다. 우리는 그들을 파괴할 것이다."
 japfor.57.b:0 "물러서고 나중에 되갚기로 하자."
 
-japfor.5701.t:0 "The Japanese Back Down"
-japfor.5701.d:0 "Apparently the Japanese were unwilling to test out mettle. They have backed down from their threats, at least for now."
-japfor.5701.a:0 "That's a relief."
+japfor.5701.t:0 "일본이 물러나다"
+japfor.5701.d:0 "일본인들이 우리의 패기를 더 이상 시험하려하지 않는 것 같습니다. 그들은 강경하게 요구하던 입장에서 물러났습니다. 지금은 말이죠."
+japfor.5701.a:0 "그것 참 다행이군."
 
-japfor.58.t:0 "The Philippines Resist!"
-japfor.58.d:0 "The Philippines are resisting our demands, without any foreign backers to come to their rescue. We should make them pay for this in blood."
+japfor.58.t:0 "필리핀이 저항하다!"
+japfor.58.d:0 "필리핀은 우리의 요구에 저항하고 있지만, 외세로부터 어떠한 지지도 받지 못 했습니다. 우리는 그들이 이런 행동을 한 대가를 피로 갚도록 해야 합니다."
 japfor.58.a:0 "우리는 그들을 부숴버릴 것이다."
 
 japfor.59.t:0 "필리핀이 항복하다!"
@@ -571,12 +570,12 @@ japfor.64.a:0 "보호를 제공하도록 하자."
 japfor.64.b:0 "저놈들이 먼저 우리 곁을 떠나지 않았던가?"
 
 japfor.65.t:0 "하와이가 미국의 지지와 함께 저항하다"
-japfor.65.d:0 "하와이는 우리의 요구에 저항하고 있으며 [From.GetNameDef]은(는) 화와이의 독립을 지지하고 있습니다."
+japfor.65.d:0 "하와이는 우리의 요구에 저항하고 있으며 [From.GetNameDef]은(는) 하와이의 독립을 지지하고 있습니다."
 japfor.65.a:0 "어떻게든 그들을 파괴하고야 말겠다!"
 japfor.65.b:0 "물러나라, 언젠가 돌아올 수 있을 것이다."
 
-japfor.66.t:0 "Hawaii Resists!"
-japfor.66.d:0 "Hawaii is resisting our demands, and without any interest from the American mainland in defending them. We should make them pay for this in blood."
+japfor.66.t:0 "하와이가 저항하다!"
+japfor.66.d:0 "하와이는 우리의 요구에 저항하고 있지만, 미국으로부터 어떠한 지지도 받지 못 했습니다. 우리는 그들이 이런 행동을 한 대가를 피로 갚도록 해야 합니다."
 
 japfor.68.t:0 "한국 망명정부가 해외의 지지를 찾고 있다"
 japfor.68.d:0 "한국의 망명 정부는 오랜 기간 동안 도움없이 사소한 성과를 쌓아 왔습니다. 그러나 한국의 왕자는 그런 불안정한 상황에서도 한국으로 돌아갈 기회가 자라나는 것을 보았습니다. 이제 그는 일본에 대항하는 강력한 동맹국에 대한 생각을 표출하기 시작했습니다.."
@@ -662,11 +661,11 @@ japfor.88.d:0 "한국군은 여러 주요 전략적 거점을 차지했고 우�
 japfor.88.a:0 "우리는 우리 섬으로 철수해야만 한다."
 japfor.88.b:0 "우리는 한국을 우리 손 안에 두어야만 한다!"
 
-japfor.89.t:0 "Korea is beating Japan"
-japfor.89.d:0 "Against all odds, Korean forces have taken many key strategic positions from the Japanese and are forcing them off the mainland. This may be a great opportunity for us..."
-japfor.89.a:0 "No, we must remain loyal."
-japfor.89.b:0 "Yes, seize the moment and attack the Japanese"
-japfor.89.c:0 "Yes, seize the moment and attack...Korea!"
+japfor.89.t:0 "한국이 일본에 타격을 주다!"
+japfor.89.d:0 "여러 역경에도 불구하고, 한국군은 여러 주요 전략적 거점을 차지했고 일본을 본토로 밀어내고 있습니다. 이것은 우리에게 좋은 기회일지도 모릅니다..."
+japfor.89.a:0 "아니, 일본에 계속 충성해라."
+japfor.89.b:0 "그래, 지금이 기회다. 전진해라, 일본으로!"
+japfor.89.c:0 "그래, 지금이 기회다. 전진해라... 한국으로!"
 
 japfor.104.t:0 "한반도 해상 봉쇄"
 japfor.104.d:0 "한반도가 혁명의 불길에 휩싸여 있는 상황에서, 우리의 적성국들은 이 저주받을 혁명가들을 지원해서 태평양에서의 우리 영향력을 약화시키기 위한 기회로 사용하고 있습니다. 우리는 한반도 연안 전체를 봉쇄해 버려야만 이것을 해결할 수 있습니다."
