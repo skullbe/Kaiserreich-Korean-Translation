@@ -204,7 +204,7 @@ SRI_rural_communes_idea:0 "지방의 코뮌 선호"
 SRI_rural_communes_idea_desc:0 ""
 SRI_urban_communes_idea:0 "도시의 코뮌 선호"
 SRI_urban_communes_idea_desc:0 ""
-SRI_defense_of_state:0 "주 방위"
+SRI_defense_of_state:0 " 방위"
 SRI_army_resistance:0 "군대 저항"
 
 ### Tooltips ###
