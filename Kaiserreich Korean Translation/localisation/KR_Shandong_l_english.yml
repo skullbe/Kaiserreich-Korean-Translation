@@ -5,7 +5,7 @@ Shandong:0 "산동 중점계통도"
 ### Ideas ###
 SQI_dogmeat_general:0 "개고기 장군"
 SQI_dogmeat_general_desc:0 "그의 악명높은 행실으로 이런 별명이 붙여진 장쭝창은 같은 편의 군벌들 사이에서조차 관습과 도덕에 대한 완전한 무시로 비난 받고 있습니다. 하지만 이런 특징들은 특정 종류의 추종자들이 따르는 무시무시한 명성이 있게 하였습니다. 장쭝창은 공개적으로 그의 부인이 몇 명인지, 재산이 얼마인지, 또 가장 중요한 점으로 부하가 얼마인지 모른다 하여 붙여진 '삼불장군'이라는 별명을 인정합니다. 그의 행실과 함께 이런 점들은 장쭝창을 예측할 수 없게 만들고 그의 진정한 목표와 잠재성을 알기 어렵게 합니다."
-SQI_honored_master:0 "명예로운 스승님"
+SQI_honored_master:0 "존경받는 스승님"
 SQI_honored_master_desc:0 "악명높은 장쭝창을 태산 정상에서 전향시킨 것에 세계의 이목을 끈 장톈란은 아래 지난의 만연한 부패와는 거리를 두고 있습니다. 자애로운 것으로 유명하지만 동시에 베일에 싸인 장톈란의 영향력은 점점 커지고 있으며, 그의 수도원 요새를 넘어 멀리까지 퍼져나가고 있습니다."
 SQI_flight_north:0 "북쪽으로의 피난"
 SQI_flight_north_desc:0 "수천 명의 사람들이 남쪽의 혼돈을 피해 샨둥으로 피난합니다. 군벌들의 높은 세금에 떠밀리고 일관도의 구원의 약속에 이끌려, 장쭝창의 완화된 통치는 최소한 일시적인 피난처를 제공해줍니다. 이 난민들의 운명은 누가 됐든지 지도하게 될 사람에 달려 있습니다."
@@ -449,7 +449,7 @@ shandong.1.a:0 "관심 없는데, 열차가 늦었군."
 ### Political Events###
 shandong.2.t:0 "루중지에가 지난에 도착하다"
 shandong.2.d:0 "이 날은 장쭝창에게 태산 정상의 노인 장톈란에게 굴욕을 줄 또 하나의 기회를 가져다주었습니다. 장톈란은 그에 대한 숭배를 확립하기 위해서 그의 전 스승인 루중이의 여동생을 내쫓아야 했습니다. 그 여동생인 루중지에는 최근 몇 달 동안 장쭝창이 처리해야 했던 수많은 일관도 추종자들을 비판하는 사람이 되었습니다. 이것이 농담으로라도 그녀가 샨둥으로 돌아와야 하는 이유입니다. 이 충격의 가치를 높이기 위해 장쭝창은 그의 노모를 이 환영식에 데려왔는데, 이 환영행사는 처음에는 사람이 별로 없었지만 후에 상당한 인파로 불어났습니다. 장쭝창은 장톈란이 느낄 굴욕을 높이기 위해 노인 루중지에에게 꽃다발을 선물했고 그녀의 도착을 환영하기 위해 근처 아파트에 전통적인 21발의 예포를 쏘았습니다."
-shandong.2.a:0 "총알은 어디로든 가야지"
+shandong.2.a:0 "포탄은 어디로든 가야지"
 
 shandong.970.t:0 "Zongchang's festivities escelate through Jinan"
 shandong.970.d:0 "After that rouse of fun and violence, Zongchang dropped his mother off with Lu Zhongjie and has decided to celebrate a night on the town. Zongchang stops ocassionally to distribute 'Minsheng' to refugees from Jiangsu. Another encounter that day were Yiguandao protesters at Zongchang's business office. Their daily empty promises have been replaced by outrage over Lu Zhongjie's return to Shandong. Before Zongchang attempted to hit them with his car, they claimed that Tianran would arrive to judge Zongchang's very soul. The only thing that soured the evening was finding out that Zongchang's opium dealer is still in hiding. This no doubt is caused by interloping Ren Ci who have foiled otherwise fun evenings in Jinan with their morality in the past. The adventure ended with a visit to Zongchang's favotie brothel, where several women joined his entourage on the way home that evening to do drugs. As the day comes to an end, one of these ladies has gone missing with some opium, Zongchang asks his officers not to go after her, for there is still plenty more ladies and capsules of opium for the night."
