@@ -336,7 +336,7 @@ SQI_Preparing_Integration_With_The_Qing:0 "근원지로 회귀"
 SQI_Preparing_Integration_With_The_Qing_desc:0 "Now that the two Zhangs have been eliminated, Shandong can now return to the source of legitimacy in China, Beiping. Our mutual interest in seeing China freed of foreign influence will be fulfilled, and the cultural institutions of Shandong will be preserved. "
 SQI_Zhang_Zongchang:0 "개자식 이야기"
 SQI_Zhang_Zongchang_desc:0 "The crowds that laughed at Zongchang when he rode into Jinan in a coffin are now in wooden boxes themselves. Governor Zhang Zongchang announced to his soldiers that they are all bastards like he is. They are also the biggest and most virile bastards in China. Shandong's destiny is to outplay the big dogs and keep Zongchang alive at all costs."
-SQI_Appointing_Lu_Zhongyi_Leader_Of_The_Yiguandao:0 "루종지에 스승 임명"
+SQI_Appointing_Lu_Zhongyi_Leader_Of_The_Yiguandao:0 "루중지에 스승 임명"
 SQI_Appointing_Lu_Zhongyi_Leader_Of_The_Yiguandao_desc:0 "The most important lesson Zhang Zongchang took from Taishan is that the people of Shandong have flocked to religion as their disillusionment with him increases. In order to cut them off at the pass, Zongchang has invited the grateful Lu Zhongjie to resume her position as Honored Teacher of the Yiguandao, and to stay out of politics."
 SQI_Clearing_Out_Mount_Tai_Of_The_Yiguandao:0 "태산 순방"
 SQI_Clearing_Out_Mount_Tai_Of_The_Yiguandao_desc:0 "After the Boxer Temple at Dezhou, Sun Dianying got a taste for the golden decor of temples. The Yiguandao still persist up on Taishan, and Song Dianying has devised a more careful plan of starving them out then ransoming all their valuables to let them live."
@@ -447,8 +447,8 @@ shandong.1.d:0 "샨둥성은 독일과 공사관 도시에게 가장 중요한 �
 shandong.1.a:0 "관심 없는데, 열차가 늦었군."
 
 ### Political Events###
-shandong.2.t:0 "루종지에가 지난에 도착하다"
-shandong.2.d:0 "This day brings to Zongchang another opportunity to humiliate the old man on the mountain, Zhang Tianran. In order to establish his little cult on the hill, Tianran had to expel the sister of his former master, Lu Zhongyi. The sister, Lu Zhongjie, has become a rather concise rebuttal to the numerous Yiguandao well-wishers Zongchang has had to deal with in recent months. This is why she must return to Shandong, if only as a joke. To enhance the shock value, Zongchang has brought his old mother to this welcoming ceremony, which has swelled from the intended group into a sizable crowd. Zongchang, in an attempt to enhance the humiliation Tianran should feel, has given the elderly Lu Zhongjie a bouquet and a traditional twenty-one gun salute was fired into a nearby apartment building in celebration of Lu Zhongjie's arrival."
+shandong.2.t:0 "루중지에가 지난에 도착하다"
+shandong.2.d:0 "이 날은 장쭝창에게 태산 정상의 노인 장톈란에게 굴욕을 줄 또 하나의 기회를 가져다주었습니다. 장톈란은 그에 대한 숭배를 확립하기 위해서 그의 전 스승인 루중이의 여동생을 내쫓아야 했습니다. 그 여동생인 루중지에는 최근 몇 달 동안 장쭝창이 처리해야 했던 수많은 일관도 추종자들을 비판하는 사람이 되었습니다. 이것이 농담으로라도 그녀가 샨둥으로 돌아와야 하는 이유입니다. 이 충격의 가치를 높이기 위해 장쭝창은 그의 노모를 이 환영식에 데려왔는데, 이 환영행사는 처음에는 사람이 별로 없었지만 후에 상당한 인파로 불어났습니다. 장쭝창은 장톈란이 느낄 굴욕을 높이기 위해 노인 루중지에에게 꽃다발을 선물했고 그녀의 도착을 환영하기 위해 근처 아파트에 전통적인 21발의 예포를 쏘았습니다."
 shandong.2.a:0 "총알은 어디로든 가야지"
 
 shandong.970.t:0 "Zongchang's festivities escelate through Jinan"
