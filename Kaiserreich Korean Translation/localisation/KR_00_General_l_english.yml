@@ -230,12 +230,6 @@ SZC_KR_GATHERING_STORM_DESC:0 "사천은 1911년부터 오랫동안 중국 내 �
 ### History ###
 OTHER_KR_GATHERING_STORM_DESC:0 "세계의 크고 작은 국가들은 세계에서 주요한 역할로 등장할 기회를 기다리고 있습니다. 자신의 제국을 유지하려는 주요 국가들부터 세계대전에서 잃은 자신의 것들을 되찾으려는 많은 국가들까지, 모든 국가들은 어려운 결정들을 내려야만 할 것이고 현실과 이상 사이의 균형을 잘 맞춰 세계의 미래에 영향을 미쳐야 할 것 입니다..."
 
-### Skill Level ###
-unskilled:0 "" #(unskilled)
-regular:0 "" #(regular)
-expert:0 "" #(expert)
-blank:0 "" #\n
-
 ### Ministers ###
 head_of_government:0 "정부수반"
 foreign_minister:0 "외무장관"
