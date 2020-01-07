@@ -731,7 +731,7 @@ RUS_reinfounit_tt:0 "3개의 보병 사단이 형성될 것입니다."
 RUS_sovcivunit_tt:0 "17개의 보병과 민병대 사단이 육성될 것입니다."
 RUS_sovnavunit_tt:0 "새로운 함대가 페트로그라드에 형성될 것입니다."
 RUS_sovvolunit_tt:0 "새로운 외국 보병 의용군이 형성될 것입니다."
-RUS_alovolunit_tt:0 "알라쉬에서 온 의용군들이 형성될 것입니다."
+RUS_alovolunit_tt:0 "알라시에서 온 의용군들이 형성될 것입니다."
 
 ### Events ###
 russia.1.t:0 "러시아의 역사"
