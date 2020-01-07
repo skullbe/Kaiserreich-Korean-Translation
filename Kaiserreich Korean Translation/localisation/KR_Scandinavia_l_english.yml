@@ -236,7 +236,7 @@ SCA_radical_socialist_established_party_long:0 "북유럽 국가기구          
  SCA_Federal_Exchange_Programs_desc:0 "By enabling exchanges from students throughout the federation, we will support cross-memberstate border friendships and cooperation, ensuring the growth of a solidarity between the youths of the Nordic nations."
  SCA_Nationalism_fades_away:0 "국민주의는 사라진다!"
  SCA_Nationalism_fades_away_desc:0 "Our efforts at expanding the interactions of the Nordic people in cultural and economic sense is paying off; while some will of course always remain stalwart nationalists, at least the amount of people identifying as Nordic citizen rather than say a Swedish citizen is lower than ever."
- 
+
 ### Events ###
 
 nordic_formation.1.t:0 "북유럽 이사회 창설"
@@ -310,7 +310,7 @@ nordic_formation.15.d:0 "[From.GetNameDefCap] has waved off our proposal to unit
 nordic_formation.15.a:0 "실망스럽지만, 전혀 예상치 못 한건 아니다..."
 
 nordic_formation.16.t:0 "노르딕 연방의 탄생"
-nordic_formation.16.d:0 "The other Scandinavian countries have agreed to our proposal regarding federation. According to its constitution, the Nordic Federation will, for now until it can be adressed by a proper federal government of course, be a democratic, federal monarchy. The executive will consists of a federal government, which holds power on behalf of a council consisting of the Swedish, Norwegian and Danish monarchs. The federal parliament will be based in Goteborg, but all the constituent kingdoms retains their individual institutions and autonomy."
+scandinavia.16.d:0 "The Federal Constitution has been formalized. In a festive ambiance, it has been symbolically accepted by the federal parliament and then been signed by the each of the monarchs of the member states in the new federal capital of Gothenburg. With this, the Federation has finally been made official and the constitution has been empowered. A truly glorious day for the boreal nations of Scandinavia!"
 nordic_formation.16.a:0 "좋았어!"
 
 nordic_formation.17.t:0 "스톡홀름 조약"
@@ -330,7 +330,7 @@ scandinavia.1.d:0 "After the signing of the Scandinavian Treaty, a transitionary
 scandinavia.1.a:0 "헌법 제정 회의를 준비하라!"
 
 scandinavia.2.t:0 "초대 연방 선거"
-scandinavia.2.d:0 "We are ready to conduct our first federal election. This parliament is provisional and will only last until we can elect a more permanent assembly at a later date. While there are several smaller parties on the ballot, there are three that can realistically win the election. The Nordic Social Democratic Worker's Party is campaigning on the issue of public welfare and would like to keep the status quo in regards to federal and international affairs. The Conservative Party is promising to cut taxes and increase military spending. They are also in favour of maintaining the current status of the federation. Lastly, the Scandinavian Peoples Party is a mixture of politicians and ideas, only united by their common dedication to Scandinavism. They wish to increase the power of the federation and conduct an active foreign policy to unite all Scandinavians in a single state. Who will win?"
+scandinavia.2.d:0 "We are ready to conduct our first federal election. This parliament is provisional and will only last until we can elect a more permanent assembly at a later date. While there are several smaller parties on the ballot, there are three that can realistically win the election. The Nordic Social Democratic Worker's Party is campaigning on the issue of public welfare and would like to keep the status quo in regards to federal and international affairs. The Liberal Party is promising to cut taxes and make itself strong for the civil liberties of the citizens. They are also in favour of maintaining the current status of the federation. Lastly, the Farmer's League is an agrarian party coming up for the interests of Scandinavia's farmers. Who will win?"
 scandinavia.2.a:0 "북유럽사회민주노동당 - 사민주의"
 scandinavia.2.b:0 "자유당 - 자유주의"
 scandinavia.2.c:0 "농부 연합 - 사회보수주의"
