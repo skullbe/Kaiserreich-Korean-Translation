@@ -401,10 +401,6 @@ JAP_MIL_ROCKET_desc:0 "로켓 개발은 로켓 무기만 만들 수 있게 하�
 
 ### Events ###
 
-japdom.0.t:0 "Zank loves you!"
-japdom.0.d:0 "But he hates Japan, so has kicked them of the mainland!"
-japdom.0.a:0 "Or at least, he is trying to..."
-
 japdom.1.t:0 "잃어버린 10년에서의 회복"
 japdom.1.d:0 "'잃어버린 10년'으로 불리는 1920년대는 일본의 경기 침체와 정치적 불안정으로 얼룩졌습니다. 이는 특히 농업 부문에서 심각했습니다. 농민들이 침체된 시골을 떠나 도시와 노동 시장에 몰려들면서 대규모 인구통계학적 변화가 일어났고, 이로 인해 임금은 떨어졌습니다. \n\n헌정회가 '입헌주의 연정'을 이끌고 정부에 변화를 일으킨 후, 이누카이와 그의 내각은 일본의 영향권을 만주와 극동 시베리아로 성공적으로 넓히며 일본 경제의 주요 수출 시장을 얻었지만, 만주에서 수입된 값싼 농산물이 시골로 흘러들어가면서 농업 사정은 계속 악화되었습니다. 1936년이 밝아오고 있습니다. 계속되는 재무장과 국가의 투자로 산업 경제는 완전히 재건되었지만, 농촌의 빈곤 문제는 여전히 고질적이며 해결되지 않고 있습니다."
 japdom.1.a:0 "이겨내는 수밖에."
@@ -726,6 +722,8 @@ japdom.237.t:0 "해군 지도부가 육군 편향에 항의하였습니다"
 japdom.237.d:0 "최근에 육군에게 혜택을 주는 정책을 발의하는 우리의 태도에 해군 지도부는 항의했습니다. 더 권위있는 제독들 중 일부는 오늘 오전 비공개 회의에서 난색을 표했습니다."
 japdom.237.a:0 "그들에게 기다리고 지켜보라고 해라."
 
+### Mifil's new collection of events ###
+
 japdom.238.t:0 "의회 해산"
 japdom.238.d:0 "제국 정부의 항복에 이어 우리의 지도자가 지시한 신정부가 구성되고 있습니다. 의회는 폐지되었고 총리의 직책 또한 완전히 폐지되었습니다. 신정부는 프랑스 코뮌의 기반을 둔 새로운 정부 형태로 변하는 것에 지지를 받고 있습니다. 이러한 급진적인 변화로 천황의 지위는 이제 교체의 대상이 되었습니다."
 japdom.238.a:0 "반동 정부의 종말..."
@@ -743,6 +741,10 @@ japdom.241.d:0 "새 정부 시스템의 마지막 부분이 완성되면서 제�
 japdom.241.a:0 "처형대로 보내라"
 japdom.241.b:0 "내버려두어라, 단 힘을 뺏어라. 그들은 이제 일반 시민이다."
 japdom.241.c:0 "그들을 추방해라."
+
+japdom.242.t:0 "Black Monday reaches the Shores"
+japdom.242.d:0 "Eventually, as expected, the domino effect of the economical failure in the German Empire has reached our Empire. While we are not as affected as our neighbours in the region, due to our quite grand economical isolation from the german markets, we still were touched by it. The Zaibatsu and our banks will have a hard time for those few months."
+japdom.242.a:0 "That was to be expected."
 
 #Cosmetic Tags
 JAP_RED_totalist:0 "일본 연방"
