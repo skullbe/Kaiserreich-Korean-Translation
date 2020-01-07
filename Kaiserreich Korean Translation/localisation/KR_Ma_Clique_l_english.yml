@@ -340,8 +340,8 @@ mac.213.d:0 "The Xining Council cannot reach a conclusion as to whether Ma Hongk
 mac.213.a:0 "우리는 위원회의 결정을 받아드려야한다"
 
 mac.214.t:0 "마가가 홍귀의 무능력함을 발견하여, 홍빈을 위해 결집하다"
-mac.214.d:0 "The Ma family enters Gansu, seeing a moderate amount of repair to the Huasi Mosque, and have given an ultimatum to Ma Hongkui. To turn over the Governor's position in Gansu to Ma Hongbin, and to focus his efforts on stirring the military to action. Ma Hongkui agrees and the Northern Provinces will consolidate rule around Yinchuan and the clique is again unified under the family of Ma Qianling"
-mac.214.a:0 "Zhenzhu A"
+mac.221.d:0 "With Ma Bufang's close ally Ma Liang being favored in the arguments, the political pressure on Ma Hongbin has never been higher. With this, he has decided to resign leaving the position to Ma Liang after being "persuaded" by his greatest enemies. Ma Hongbin will most likely return to his estate in Ningxia, where he can focus on military affairs over political affairs. With this, Hongkui has once again managed to consolidate political power to the northern clique, leaving them in a position of dominant influence."
+mac.221.a:0 "Zhenzhu A"
 
 mac.220.t:0 "마홍귀의 저항이 가문내 입씨름으로 번지다"
 mac.220.d:0 "Ma Hongbin protests the instatment of Ma Liang as General in Ningxia, claims this is an affront on Ma Hongbin's experience and age. Liang has countered saying that Ma Zhongying would be able easily overthrow him should the affair in Kumul result in his victory. The conflict has erupted to a point where we need to decide who to favor, as insults are being slung left and right, leaving the province unmanageable."
@@ -353,11 +353,11 @@ mac.221.d:0 "With Ma Bufang's close ally Ma Liang being favored in the arguments
 mac.221.a:0 "Zhenzhu A"
 
 mac.222.t:0 "마홍귀가 가문의 관심을 간쑤로 돌리다"
-mac.222.d:0 "The Xining Council is at an uproar over Ma Bufang's clear sectarian policies, and is ready to declare him unfit to rule Qinghai, unti Ma Hongbin returns the favor and stands for Ma Bufang. The Xining Council does not pass any resolution to retire Ma Bufang, but leaves in protest before the next meeting could be set. Ma Hongkui, seeing power diffuse in Qinghai, has invited members of the three Ma families to Gansu to see his work."
+mac.222.d:0 "The Xining Council is at an uproar over Ma Bufang's clear sectarian policies, and is ready to declare him unfit to rule Qinghai, unti Ma Hongbin returns the favor and stands for Ma Bufang. The Xining Council does not pass any resolution to retire Ma Bufang, but leaves in protest before the next meeting could be set.  Ma Hongkui, seeing power diffuse in Qinghai, has invited members of the three Ma families to Gansu to see his work. The majority of the Xining council has taken him up on his offer, and political resolution has been stalled in favor of day tripping."
 mac.222.a:0 "간쑤성에는 아이스크림 가게가 있다고 하던데"
 
 mac.223.t:0 "마홍귀가 가족을 흔들고, 닝샤의 수반으로 임명되다"
-mac.223.d:0 "The Ma families is swayed by Ma Hongkui's display of planned constructions in Gansu and arrive at the Tianshui Military Headquarters. There Ma Hongkui promises future modernization of Qinghai under Bufang, Yinchuan under Ma Liang, and that Han will never lead Hui into battle for China's survival. The Ma families are swayed and endorses Ma Hongkui's plan"
+mac.223.d:0 "The Ma families is swayed by Ma Hongkui's display of planned constructions in Gansu and arrive at the Tianshui Military Headquarters. There Ma Hongkui promises future modernization of Qinghai under Bufang, Yinchuan under Ma Liang, and that Han will never lead Hui into battle for China's survival. As a final note, Ma Hongkui adds that Gansu is the only province in the Ma Clique that is recognized as a full province by most chinese intellectuals, and therefore it is where most chinese will base their judgements of the clique on. The Ma families are swayed and endorses Ma Hongkui's plan"
 mac.223.a:0 "북쪽 가문이 승리했다!"
 
 mac.224.t:0 "회족과 불교도간의 전쟁"
@@ -392,8 +392,8 @@ XSM_troop_training_desc:0 "To better govern, and perhaps fight in, Yushu, we sho
 XSM_national_borders:0 "우리의 국경"
 XSM_national_borders_desc:0 "No part of our nation can be apart from the rest. We must wrest full control over Yushu once and for all, the Tibetans be damned!"
 
-XSM_promotion_buddhism:0 "불교를 장려"
-XSM_promotion_buddhism_desc:0 "The most controversial point in the Yushu Plan is the promotion of sympathetic Buddhist teachers in Yushu. It is believed this will help turn the tide of public sympathy in our favor."
+XSM_promotion_buddhism:0 "불교 장려"
+XSM_promotion_buddhism_desc:0 "The most controversial point in the Yushu Plan is the promotion of sympathetic Buddhist teachers in Yushu. This promotion takes the form of It is believed this will help turn the tide of public sympathy in our favor."
 
 XSM_reconstructing_civillian_government:0 "유수의 행정을 재구성"
 XSM_reconstructing_civillian_government_desc:0 "Yushu's civil government has not convened since the death of the 13th Dalai Lama. It is time to enforce our right to audit the Yushu administrative office, and recommend restructuring."
@@ -401,7 +401,7 @@ XSM_reconstructing_civillian_government_desc:0 "Yushu's civil government has not
 XSM_transportation_improvement:0 "유수에 닿다"
 XSM_transportation_improvement_desc:0 "Yushu's infrastructure is almost entirely unconnected to the rest of the nation. We should fix this glaring problem."
 
-XSM_opening_wasteland:0 "황무지를 개간"
+XSM_opening_wasteland:0 "황무지 개간"
 XSM_opening_wasteland_desc:0 "To encourage development in the vast lands beyond the city of Yushu itself, we should clear natural features which prevent access to several unexploited known resource deposits and reduce the prohibitive cost of exploitation."
 
 XSM_factory_and_mills:0 "제분소 건설"
@@ -428,7 +428,7 @@ XSM_military_administration_desc:0 "Ma Fuxiang held the Ma Clique together throu
 XSM_industrialization_project:0 "산업화 계획"
 XSM_industrialization_project_desc:0 "To sustain our growing armed forces, we will need guns and the ability to produce them en masse. While the arsenals will retain responsibility for finish armaments, new state facilities for the production of intermediaries should be established with state-of-the-art equipment shipped in from abroad no matter the cost."
 
-XSM_staying_put:0 "진지를 고수"
+XSM_staying_put:0 "진지 고수"
 XSM_staying_put_desc:0 "The deeply principled elder Ma Lin has held onto power. A bright new day dawns on the Northwest and its people, one of true equality between the Han, the Hui, and others."
 
 XSM_islamic_identity:0 "회족의 이슬람적 정체성"
@@ -437,7 +437,7 @@ XSM_islamic_identity_desc:0 "While we must take care not to antagonize the Han o
 XSM_qi_successor:0 "마치의 적합한 계승자"
 XSM_qi_successor_desc:0 "Ma Qi's administration taught Ma Lin everything there is to know about governing Qinghai. Now with him in office, the civil government can return to prominence and stabilize the province through delegation."
 
-XSM_peoples_governor:0 "인민들의 지도자"
+XSM_peoples_governor:0 "인민의 지도자"
 XSM_peoples_governor_desc:0 "Ma Lin's compassion for the people of Qinghai manifests as something resembling a secular governorship, treating the various peoples of Qinghai with respect as citizens rather than subjects."
 
 XSM_farming_assistance:0 "농업 지원"
