@@ -88,6 +88,7 @@ LEP_Conspicuous_Kleptocracy_desc:0 "지난 10년 이후, 쑨촨팡은 독점적�
 
 LEP_Provincial_Armies:0 "지방군"
 LEP_Provincial_Armies_desc:0 "연합은 규모가 크지만, 군대의 대부분은 사실상 지도자들의 쑨 원수에 대한 개인적 충성심으로 연합된 반독립적인 지방군의 집합체입니다. 이는 모병을 쉽게 만들어주지만, 보급 및 조직력에서 심각한 핸디캡이 존재합니다."
+
 LEP_Nanking_Kommission:0 "난징위원회"
 LEP_Nanking_Kommission_desc:0 "베를린을 대표해 연합의 지도에 대해 조언하는 난징위원회에는 독일군을 따라 중국군 사단을 개편시키기 위한 장교단도 포함되어 있습니다. 지금까지 그들은 원수의 개인 사단을 무장시키고 훈련시키는 데 성공했으며, 세계대전의 교훈을 장교들에게 전달했습니다."
 LEP_Nanking_Kommission1:0 "난징위원회"
@@ -167,9 +168,9 @@ LEP_Widespread_Destruction3_desc:0 "[getlepideawidespreaddestruction]"
 LEP_Widespread_Destruction4:0 "Widespread Destruction"
 LEP_Widespread_Destruction4_desc:0 "[getlepideawidespreaddestruction]"
 
-LEP_yiguandao:0 "[getlepunreststrengthtextyiguandao] 일관도 불안"
+LEP_yiguandao:0 "일관도 불안"
 LEP_yiguandao_desc:0 "북부의 전반적인 불안은 내전과 결합해 일관도의 신도들이 급증하는 불안을 일으켰습니다. 그들은 집단으로 모여들어 북부 지방에 큰 혼란을 일으키고 있습니다. 우리가 그들을 빨리 억압하기 위해 움직이지 않는다면, 상황은 더 악화될 뿐입니다."
-LEP_kuomintang:0 "[getlepunreststrengthtextkmt] 국민당 불안"
+LEP_kuomintang:0 "국민당 불안"
 LEP_kuomintang_desc:0 "좌파 국민당 정부가 마침내 그들의 남은 모든 자원을 폭동에 쏟아 부으면서 붕괴된 반면, 한때 그들의 대열에 끼었던 많은 탈영병들과 산적들이 계속해서 말썽을 일으키고 있습니다. 만약 우리가 그들의 마지막 남은 은신처를 소탕하지 않는다면, 좌파 국민당 지지자들은 계속해서 남부에서 문제를 일으킬 것입니다."
 
 lep_idea_chaoticorder:0 "치셰위안은 이제 의심의 여지 없이 연합의 지도자가 되었지만, 그가 지배하는 땅은 여전히 혼란과 불안정으로 무르익어 있습니다. 이 지역들을 다시 하나로 묶기 위해서는 많은 노력이 필요할 것입니다. 많은 지역 지도자들은 여전히 치셰위안의 난징 정부의 명령을 극구 거역하고 있으며 도로는 여전히 안전하지 못하고 도적들에게 시달리고 있습니다."
@@ -1387,7 +1388,7 @@ lep_level_4:0 "매우 낮음"
 LEP_foreign_policy_decisions:0 "난징에서 내다보기"
 LEP_send_guns_to_XSM_decision:0 "마가 군벌에게 총기 지원"
 LEP_send_guns_to_SIK_decision:0 "신강 군벌에게 총기 지원"
-LEP_war_with_hunan_decision:0 "후난의 연합으로의 귀환"
+LEP_war_with_hunan_decision:0 "[From.GetCliqueShortName]의 연합으로의 귀환"
 LEP_war_with_linguuang_decision:0 "량광의 연합으로의 귀환"
 LEP_league_of_5_decision:0 "오성연합"
 LEP_league_of_6_decision:0 "육성연합"
