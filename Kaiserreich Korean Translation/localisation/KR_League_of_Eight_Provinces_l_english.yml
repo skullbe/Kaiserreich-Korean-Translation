@@ -1395,6 +1395,8 @@ LEP_league_of_6_decision:0 "육성연합"
 LEP_league_back_to_normal_decision:0 "팔성연합"
 LEP_league_of_9_decision:0 "구성연합"
 
+LEP_INF_250_PP_25:0 "£rifle_texticon §H250§! £pol_power §H25§!"
+LEP_INF_250_PP_25_blocked:0 "£rifle_texticon §R250§! £pol_power §R25§!"
 
 #aog decisions
 LEP_AOG_decisions:0 "A.O.G.와의 협업"
