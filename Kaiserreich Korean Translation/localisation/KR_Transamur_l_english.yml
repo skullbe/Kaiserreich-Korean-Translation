@@ -406,13 +406,12 @@ tram.132.d:0 "페트로그라드는 1712년 표트르 1세가 러시아를 세�
 tram.132.a:0 "러시아여 영원하라, 하나이며 나눠지지 않으리라!"
 
 tram.133.t:0 "돈 쿠반 연합의 운명"
-tram.133.d:0 "돈-쿠반 연합은 오랫동안 우리 손을 벗어나 있었고, 이제 그들을 우리 국가로 통합할 때입니다."
-tram.133.a:0 "침공하자!"
-tram.133.b:0 "항복을 요구하자!"
+tram.133.d:0 "The Don Kuban Union has been allowed to play at politics for long enough, with our postion as the legitimate Russian Government undeniable it is time we demand their reintegration"
+tram.133.a:0 "항복을 요구하자!"
 
 tram.134.t:0 "러시아의 압박"
-tram.134.d:0 "러시아 공화국은 우리의 즉각적인 항복을 요구해 왔습니다. 우리가 그들을 선제공격할 수도 있지만 그들은 우리보다 강력하기 때문에 가망없는 전쟁을 하는 것보다 그냥 러시아에 가입하는 것이 나을 것입니다."
-tram.134.a:0 "그들이 우릴 어떻게 생각하던, 항전하자!"
+tram.134.d:0 "The Russian Republic has demanded our immediate surrender. Whilst we could refuse their demand, perhaps it is best we join the republic rather than face the flames of war."
+tram.134.a:0 "Who do they think we are!"
 tram.134.b:0 "항복하고 영토를 내주자."
 
 tram.135.t:0 "돈쿠반이 투항하다"
@@ -421,8 +420,7 @@ tram.135.a:0 "러시아에 영광을!"
 
 tram.136.t:0 "중앙아시아에의 관심"
 tram.136.d:0 "알라쉬-오르다는 인도 아대륙과 이란 지역에 힘을 투사할 수 있는 러시아의 중요한 요충지입니다. 그 땅의 쓰임새를 정하기 전에 먼저 그 땅을 차지해야 할 것입니다."
-tram.136.a:0 "군대를 당장 보내라!"
-tram.136.b:0 "알라쉬-오르다가 가치가 있나?"
+tram.136.a:0 "알라쉬-오르다가 가치가 있나?"
 
 tram.137.t:0 "러시아의 움직임"
 tram.137.d:0 "러시아는 우리의 항복을 요구하는 최후통첩을 보냈습니다. 많은 관리들이 가망없는 전쟁을 피해 조국으로부터 도망치고 있고 우리는 그들이 틀렸음을 증명하던가 아니면 그냥 러시아에 항복하던가 둘중 하나를 선택해야 합니다."
