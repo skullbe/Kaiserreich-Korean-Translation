@@ -497,17 +497,17 @@ shandong.9.d:0 "지난에서의 전투 중 장톈란이 살해되었다는 소�
 shandong.9.a:0 "대머리 두 놈을 죽이니 모두가 미쳐 돌아가는군!"
 
 
-shandong.10.t:0 "Sending Young Officers into School"
-shandong.10.d:0 "Shandong lacks the proper facilities to train officers in modern warfare. This issue speaks directly to the commanders in Shandong, as they were trained in schools in the north and south. It is well known that the prestige of the school you attend is as important as the training at the school. Therefore we must attempt to send young officers-in-training abroad. Whichever school they will attend will also leave an indelible effect on their loyalty, of course."
-shandong.10.a:0 "Apply to Japanese Military Academies"
-shandong.10.b:0 "Apply to German Military Academies"
-shandong.10.c:0 "Apply to Western Military Academies"
+shandong.10.t:0 "젊은 장교들의 사관학교 입학"
+shandong.10.d:0 "샨둥에는 현대전에 적합한 장교를 키워낼 시설이 없습니다. 이 문제는 북쪽과 남쪽의 사관학교를 나온 지휘관들이 잘 알고 있고, 젊은 장교들을 적당한 사관학교에 보내기로 결정이 났습니다. 다니는 학교의 위신이 학교에서의 훈련만큼 중요하다는 것은 잘 알려져 있습으므로, 우리는 해외의 사관학교에 장교들을 보내는 것이 좋을 것입니다. 물론 어떤 학교를 다니던 간에 그들의 충성심에는 지울 수 없는 영향을 끼칠 것입니다."
+shandong.10.a:0 "일본의 사관학교로 가자"
+shandong.10.b:0 "독일의 사관학교로 가자"
+shandong.10.c:0 "서방의 사관학교로 가자"
 
-shandong.11.t:0 "Secret military projects in Shandong"
-shandong.11.d:0 "It is already becoming apparent that Shandong's army is behind the times. While we have spent our efforts trying to raise the standard of our military equipment, we have not dared to venture outside what we can purchase. The Army Command has convinced [SQI.GetLeader] to put some resources into projects recently made by a Czech resident of Shandong, Hanchtedelay. Hanchtedelay has ambitions to transform several Studebaker cars that he owns into crude tanks. A second plan is to purchase Flying Pigeon bicycles from Tianjin and train a divison to use them. A third plan proposed by a professor at Jinan University is to purchase climbing equiptment and focus culinary efforts towards enabling soldiers to survive China's numerous mountain ranges."
-shandong.11.a:0 "Secretly construct a tank"
-shandong.11.b:0 "Secretly develop bicycle units"
-shandong.11.c:0 "Train Grotto-heaven soldiers"
+shandong.11.t:0 "산동의 비밀 군사 계획"
+shandong.11.d:0 "우리의 군대가 시대에 뒤떨어져 있다는 것은 이미 명백해지고 있습니다. 우리는 지금까지 장비의 수준을 높이기 위해 노력했지만, 우리의 자금 사정에 맞지 않는 무기들은 건드리지도 못했습니다. 육군 사령부는 [SQI.GetLeader]를 설득하여 샨둥에 거주하는 체코인인 한흐테델라이가 새로 시작한 프로젝트에 약간의 지원을 투자하게 하였습니다. 그는 그가 소유한 몇몇 스튜드베이커 자동차를 전차와 비슷하게 개조할 계획이 있습니다. 두 번째 계획은 톈진의 페이거자전거(비합자전거)에서 자전거를 구매해 자전거 부대를 창설하는 것입니다. 지난 대학교의 교수가 제안한 세 번째 계획은 등산 장비를 구입하고 군대의 식사를 개선해 중국의 많은 험한 산지에서 살아남을 수 있도록 하는 것입니다."
+shandong.11.a:0 "몰래 전차를 만들자."
+shandong.11.b:0 "몰래 자전거 부대를 창설하자."
+shandong.11.c:0 "산동굴에 최적화된 병사를 훈련하자."
 
 shandong.12.t:0 "Investigate missing shipments"
 shandong.12.d:0 "For the past few months, vital commerce is being disrupted along the the Qingdao-Jinan railway. An ongoing police investigation has only determined that it is not the trainline employees, no other possibilites have been ruled out yet. [SQI.GetLeader] has been called in to suprvise the investigation before it becomes a major scandal in Jinan. The police, ever cautious of the chinese border guards outside of Qingdao, have suggested we investigate the railway relay stations first. [SQI.GetLeader], on the other hand, is of the suspition that the items are being stolen along the deserted stretches of countryside between Qingdao and Jinan. Which should we investigate first?"
