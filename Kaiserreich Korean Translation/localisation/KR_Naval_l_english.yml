@@ -137,7 +137,7 @@ aerial_demining_desc:0 "항공기에 공중에서 해군 기뢰를 탐지하고 
 transport:0 "수송선"
 transport_desc:0 "방어 장치가 달려있지 않은 군대 수송용 함선입니다."
 landing_craft:0 "상륙주정"
-landing_craft_desc:0 " 침투 전용 상륙주정은 적대적인 지역에 상륙할때의 어려움을 약간 줄여 줄 것입다."
+landing_craft_desc:0 " 침투 전용 상륙주정은 적대적인 지역에 상륙할때의 어려움을 약간 줄여 줄 것입니다."
 tank_landing_craft:0 "진보된 상륙주정"
 tank_landing_craft_desc:0 "진보된 상륙주정은 우리 군인들이 침입할때 더 빠르고 효과적으로 해변에 갈 수 있게 해 줄 것입니다."
 
