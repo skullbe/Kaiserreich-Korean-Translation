@@ -430,7 +430,7 @@ SRI_expand_shipbuilding_1_desc:0 "우리의 조선 시설을 확장하기 위한
 SRI_merchant_marine:0 "수송함대 확장"
 SRI_merchant_marine_desc:0 "이제 우리의 구축함대가 확장될 준비가 되었으니, 수송함대도 확장시킬 수 있습니다. 상선들로부터 배를 징발해야 합니다."
 SRI_expand_shipbuilding_2:0 "라스페치아 조선소 확장"
-SRI_expand_shipbuilding_2_desc:0 "우리의 조선 시설을 확장하기 위한 첫 번째 목적지는 라스페치아 조선소 입니다. 라스페치아의 조선소는 제노바 조선소 다음으로 뛰어납니다."
+SRI_expand_shipbuilding_2_desc:0 "우리의 조선 시설을 확장하기 위한 두 번째 목적지는 라스페치아 조선소 입니다. 라스페치아의 조선소는 제노바 조선소 다음으로 뛰어난 시설 입니다."
 SRI_battle_ships:0 "드레드노트 선호"
 SRI_battle_ships_desc:0 "드레드노트를 우리함대의 주력으로 하는것이 좋을 것입니다."
 SRI_battle_cruisers:0 "순양전투함"
