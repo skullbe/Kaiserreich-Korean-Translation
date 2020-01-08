@@ -125,29 +125,29 @@ pressure_mine_desc:0 "복잡한 압력 센서로 뒤덮혀 있으며, 접근하�
 degausing:0 "선체 소자화"
 degausing_desc:0 "강력한 전자석 코일 사우나에 함선을 집어넣으면 함선의 자기 신호가 크게 줄어들게 됩니다. 자기 신호가 줄어들면 자기 감응 기뢰에 접근해도 기뢰가 폭발하지 않습니다."
 submarine_mine_laying:0 "기뢰부설 잠수함"
-submarine_mine_laying_desc:0 "By installing special equipment to hold and release mines, a specially-designed submarine can deploy mines while submerged and, hopefully, undetected."
+submarine_mine_laying_desc:0 "지뢰를 고정하고 배치하기 위한 특수 장비를 설치한 특수 설계된 잠수함은 물속에 잠수했을 때 탐지되지 않은 채 지뢰를 배치할 수 있습니다."
 torpedo_tube_magazines:0 "어뢰관 발사 기뢰"
-torpedo_tube_magazines_desc:0 "Redesigning mines to fit into torpedo tubes allows any submarine to become a minelayer, albeit at the expense of torpedoes carried."
+torpedo_tube_magazines_desc:0 "어뢰관에 장착할 수 있는 기뢰를 설계하는 것은 잠수함이 어뢰를 사용하는 것을 희생하게 되지만 잠수함이 기뢰부설함이 될 수 있게 할 것입니다."
 aerial_mining:0 "항공 기뢰부설"
-aerial_mining_desc:0 "By fitting the mines with a small parachute, they can be safely dropped from airplanes, allowing quick and efficient creation of minefields."
+aerial_mining_desc:0 "기뢰를 작은 낙하산과 함께 투하해 설치함으로써, 공중에서 안전하게 기뢰밭을 빠르고 효율적으로 만들 수 있습니다."
 aerial_demining:0 "항공 기뢰소해"
-aerial_demining_desc:0 "Airplanes can be fitted with special equipment to detect and safely detonate naval mines from the air."
+aerial_demining_desc:0 "항공기에 공중에서 해군 기뢰를 탐지하고 안전하게 폭파할 수 있는 특수 장비를 장착할 수 있습니다."
 
 ###non mtg transports
 transport:0 "수송선"
 transport_desc:0 "방어 장치가 달려있지 않은 군대 수송용 함선입니다."
 landing_craft:0 "상륙주정"
-landing_craft_desc:0 "Dedicated invasion craft make landing in hostile territory slightly less of a headache."
+landing_craft_desc:0 " 침투 전용 상륙주정은 적대적인 지역에 상륙할때의 어려움을 약간 줄여 줄 것입다."
 tank_landing_craft:0 "진보된 상륙주정"
-tank_landing_craft_desc:0 "Advanced Landing craft means that our boys can get on the beach quicker and more effectively during an invasion."
+tank_landing_craft_desc:0 "진보된 상륙주정은 우리 군인들이 침입할때 더 빠르고 효과적으로 해변에 갈 수 있게 해 줄 것입니다."
 
 ###equipment connected technologies
 ####MTG hull####
 #Light Hulls
 ship_hull_light_1:0 "세계대전기 경함체"
-ship_hull_light_1_desc:0 "The Weltkrieg brought a new demand for destroyers- not only were they required to protect their fleets, but they were also stretched thin to protect the Entente shipping lines as well. To meet this need, destroyer designs were streamlined, entering mass production to keep up with demand. Ships of this era were typically 1000 tons, and travelled at a top speed of 34 knots, while carrying a larger pair of torpedoes than their forebears."
+ship_hull_light_1_desc:0 "세계대전은 구축함에게 새로운 역할을 요구했습니다. 기존의 역할인 함대보호 뿐만 아니라, 동맹의 함선도 보호해야 했었는데 그러기에는 함선의 수가 많이 부족했습니다. 이러한 요구를 충족시키고 수요를 따라잡기 위해 구축함의 설계가 간소화되었고, 대량 생산에 들어갔습니다. 이 시대의 배들은 전체적으로 1000톤정도의 배수량을 가졌고, 평균 34노트의 속력으로 이동하면서 그들의 이전 모델들보다 더 큰 어뢰 한 쌍을 운반했습니다."
 ship_hull_light_2:0 "개선된 경함체" #Late Interwar
-ship_hull_light_2_desc:0 "By 1935, with increasingly potent new aircraft designs entering service, as well as several navies deploying fleet carriers, while there was still some doubt about just how useful the carriers would be in open warfare, concern over the potential threat that aircraft might pose to warships was growing. German carrier operations during the Chinese intervention and continued British exercises had shown the world that the carrier had a purpose in the navy. As a result, this era of destroyer saw the introduction of the dual purpose primary armament, granting a vastly improved anti-aircraft role to the destroyer, again increasing their usefulness. Theses ships would displace up to 2,500 tons, often carrying increased payloads of torpedoes to offset the reduced torpedo loadout on more modern cruisers."
+ship_hull_light_2_desc:0 "1935년, 점점 더 강력해진 새로운 항공기 설계와 함께, 몇몇 해군이 함대에 항모를 배치해 나갔습니다. 항모들이 전쟁에 얼마나 유용할지에 대한 약간의 의심은 여전히 있었지만, 함재기가 군함에 가할 잠재적 위협이 점점 커지고 있다는 사실은 분명했습니다. 중국 개입과 계속되는 영국의 훈련 동안 독일의 항공모함 작전은 전세계에 항공모함이 해군에서 어떠한 용도를 가지고 있는지 보여주었습니다. 그 결과, 이 시대의 구축함은 양용포 무장의 도입으로, 구축함에게 대폭 개선된 방공함으로서의 역할을 부여함으로써, 구축함의 유용성은 다시 증가했습니다. 이 함선들은 더 현대적인 순양함에서 제거한 어뢰를 장착했기때문에 많은 하중을 견디기 위해 배수량은 2,500톤까지 늘어날 것입니다."
 ship_hull_light_3:0 "진보된 경함체"
 ship_hull_light_3_desc:0 "With the start of the Second Weltkrieg the world's navies needed cheap anti-aircraft platforms. The British success with carrier combat had shown the world that they were suited for more than just recon and anti-carrier duties, they were required for modern anti-capital ship warfare. Advanced anti-submarine technologies like the new hedgehog depth charges were playing an essential role in combating the major threat to convoy operations, they and the anti-aircraft platforms intensified demands for more destroyers. Were previously destroyer investments were being lowered in favour of cruisers and the new armoured cruisers, destroyers began to return to the fore as an essential part of both the fleet, and the convoy system. While often not larger than their predecessors they were far more technologically advanced, mostly adopting flush decks and far larger torpedo armaments."
 ship_hull_light_4:0 "현대 경함체"
