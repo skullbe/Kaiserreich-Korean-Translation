@@ -64,28 +64,28 @@ CHS_empowered_legislative_centralist_xinhai_desc:0 ""
 
 ### Focus ###
 
-CHS_provisional_government:0 "The Provisional Government"
+CHS_provisional_government:0 "임시 정부"
 CHS_provisional_government_desc:0 "With the core of China under our control, we have set up a new Provisional Government that will work on a new, hopefully permanent, constitution and create a united Republic that will stand the test of time."
 
-CHS_strenghten_parliament:0 "Strenghten Parliament"
+CHS_strenghten_parliament:0 "의회 강화"
 CHS_strenghten_parliament_desc:0 "Democrats all over China agree that Parliament must be strenghtened to secure democracy in the country and ensure that authoritarians are unable to usurp power in the young Republic once again."
 
-CHS_strenghten_presidency:0 "Empower the Presidency"
+CHS_strenghten_presidency:0 "대통령 권한 강화"
 CHS_strenghten_presidency_desc:0 "The failure of the previous republican government shows that the government's powers must be clearly defined and the importance of the presidency to ensure stability and proper governance."
 
-CHS_xinhai_legacy:0 "Legacy of Xinhai"
+CHS_xinhai_legacy:0 "신해혁명의 유산"
 CHS_xinhai_legacy_desc:0 "The Xinhai Revolution marks the birth of modern China and the Republic. It and its revolutionaries must be honoured and commemorated, as their legacy will live on as long as our Republic lives."
 
 CHS_national_protection_legacy:0 "National Protection Legacy"
 CHS_national_protection_legacy_desc:0 "The National Protection movements have become a symbol of our leaders' and armies' commitment to republicanism and constitutionalism, and they should be honoured along with the Xinhai Revolution that birthed our Republic, as they made sure that the Republic survived."
 
-CHS_federalist_model:0 "Federalist Model"
+CHS_federalist_model:0 "연방주의 모델"
 CHS_federalist_model_desc:0 "The Federalist movement in China has risen and fallen several times since the Xinhai Revolution, but they remain an important movement in our provisional government. A federal system will ensure that powers are properly separated and that local affairs remain in the hands of the locals who understand their own problems better than any central government."
 
 CHS_weaken_provincialism:0 "Attack Provincialism"
 CHS_weaken_provincialism_desc:0 "Provincialism is a tool to divide our nation into fiefdoms and federalism is an attempt to institutionalize this. The supremacy of the central government must be ensured, for it is the only way China will be properly reunited as a single nation and not a collection of local tyrants."
 
-CHS_new_republic:0 "The New Republic"
+CHS_new_republic:0 "신 공화국"
 CHS_new_republic_desc:0 "With the lessons from the old Republic, we can build a new Republic can be built. A new order in China, one that truly respects the legacy of its founders, republicanism, constitutionalism, and democracy, will be born and, this time, endure."
 
 CHS_personality_cult:0 "Personality Cult"
@@ -94,7 +94,7 @@ CHS_personality_cult_desc:0 "[GetLeader] is the sole reason that the National Pr
 CHS_new_bureaucracy:0 "The New Bureaucracy"
 CHS_new_bureaucracy_desc:0 "From ruling a province or two to ruling the core of China, our bureaucracy has been struggling to say the least. Whether we adopted a federalist or centralist model, new civil servants need to be hired and the entire service must be reorganized from scratch."
 
-CHS_election:0 "New National Assembly Election"
+CHS_election:0 "새로운 국회 선거"
 CHS_election_desc:0 "The new government cannot hope to act legitimately as a Republic without assembling a new Parliament. New election to the National Assembly are to be held for the first time in decades (discounting illegitimate ones by the Manchu tyrants of course), helping bring legitimacy to our Provisional Government."
 
 CHS_national_reunification:0 "National Reunification"
@@ -121,7 +121,7 @@ CHS_artillery_modernisation_desc:0 "Artillery is the king of the battlefield and
 CHS_support_companies:0 "Army Support and Logistics"
 CHS_support_companies_desc:0 "Amateurs study tactics, masters study logistics. With a country as large and varied as China, this proverb must be taken seriously as many warlords learned the hard way. Improving our logistics will improve our armies' fighting capabilities far more than any modern firearm."
 
-CHS_tank_arsenal:0 "A Tank Arsenal"
+CHS_tank_arsenal:0 "기갑 병기창"
 CHS_tank_arsenal_desc:0 "The development of armoured warfare has certainly been noticed in China, but to to develop and use them here was but a pipe dream. Now that we are united and stronger than ever, now is the time to dwelve into these advanced technologies. An arsenal dedicated to armoured vehicles should be founded as an important stepping stone in China's modernization."
 
 CHS_aviation_school:0 "Formalize Aviation Schools"
@@ -236,12 +236,12 @@ npa.17.t:0 "The [GetYear] National Assembly Election"
 npa.17.d:0 "The time has come to finally elect representatives for the new legislature. Because of the political and constitutional situation, pro-government candidates run virtually unopposed due to the relatively narrow electorate and the election's boycotting by radicals. While this may not foster political pluralism, it will ensure that the legislature will support our policies, thus making sure that the Republic remains stable in its first years."
 npa.17.a:0 "Long live the Republic!"
 
-npa.18.t:0 "Choosing the Capital"
+npa.18.t:0 "수도 선정"
 npa.18.d:0 "It is time to set the seat of the new central government. Nanjing and Beijing are both obvious choices, although the latter is relatively contentuous considering the first Republic's troubled history. Wuhan is also a good compromise, being the centre of the Xinhai Revolution that overthrew the Qing for the first time. Guangzhou, meanwhile, is the economic centre of Southern China and is well within our core lands."
-npa.18.a:0 "Nanjing"
-npa.18.b:0 "Beijing"
-npa.18.c:0 "Wuhan"
-npa.18.e:0 "Guangzhou"
+npa.18.a:0 "난징"
+npa.18.b:0 "베이징"
+npa.18.c:0 "우한"
+npa.18.e:0 "광저우"
 
 npa.19.t:0 "Ultimatum from the Central Government"
 npa.19.d:0 "The new Central Government has demanded that we recognize them as the legitimate government of China. This would mean integration into the new Republic and a significant loss of autonomy."
