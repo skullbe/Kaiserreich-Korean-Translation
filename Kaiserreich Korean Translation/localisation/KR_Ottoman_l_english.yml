@@ -88,7 +88,7 @@ ott_cp_war_decisions_tt:0 "Certain £decision_icon_small §Y결정§! 사용이 
 
 ### Decisions ###
 OTT_demand_western_thrace:0 "서부 트라키아 요구"
-OTT_demand_western_thrace_desc:0 "With §Y[BUL.GetNameDef]§! at war against the Belgrade Pact, they are in the perfect position for us to demand the return of our territory in Western Thrace. We should take the next couple of weeks to move our troops into position, and then decide whether we will make the demand and risk our entanglement in the war."
+OTT_demand_western_thrace_desc:0 "§Y[BUL.GetNameDef]§!은 베오그라드 조약과 전쟁중이고, 우리는 이 기회를이용하여 서부 트라키아를 되찾을 수 있습니다. 우리는 다음 몇주 동안 군대를 위치로 움직일 것이고 영토할양 요구를 보내 전쟁을 할지 말지 결정할 것입니다."
 
 OTT_OPDA_decisions:0 "오스만 공공 부채 관리국"
 OTT_OPDA_decisions_desc:0 "§Y오스만 공공 부채 관리국§! (Düyun-u Umumiye)은 1881년 유럽 기업에 빚진 오스만 부채를 회수한다는 목적으로 설립된 유럽 통제 기관입니다. 불행하게도, OPDA는 권력과 영향력 모두에서 크게 성장했으며, 우리의 재정 문제에 핵심적인 역할을 하고 있습니다. 이러한 이유로, 그 기관은 우리에게 경제적인 족쇄를 채웠고, 따라서 우리가 독립적인 경제 정책을 추구하는 것을 막았습니다.\n\n§R우리 경제를 완전히 통제하려면 OPDA를 끝내야 합니다.§!\n"
@@ -1300,14 +1300,14 @@ ottaxis.102.b:0 "우리는 우리의 몫에 만족한다"
 ottaxis.103.t:0 "[From.GetNameDefCap]이(가) 이라크를 요구하다"
 ottaxis.103.nohejazhasegypt:0 "우리가 바그다드와 바스라를 합병한 것에 격분하여, [From.GetNameDefCap]은(는) 자신들에게 즉시 이 영토들을 양도할것을 요구했습니다. 이 상황에서 우리가 스스로를 방어할 수 있는 유일한 방법은 이집트의 도움을 요청하는 것입니다."
 ottaxis.103.d.hashejazhasegypt:0 "우리가 바그다드와 바스라를 합병한 것에 격분하여, [From.GetNameDef]은(는) 자신들에게 즉시 이 영토들을 양도하거나 결과를 직면해야 한다고 요구했습니다. 이 상황에서 우리가 스스로를 방어할 수 있는 유일한 방법은 이집트와 그 동맹국에 도움을 요청하는 것입니다."
-ottaxis.103.d.nohejaznoegypt:0 "Outraged by our annexation of Baghdad and Basra, [From.GetNameDef] has demanded we transfer these territories at once or face the consequences. It seems we are betrayed by our former allies on all sides."
-ottaxis.103.d.hashejaznoegypt:0 "Outraged by our annexation of Baghdad and Basra, [From.GetNameDef] has demanded we transfer these territories at once or face the consequences. Sadly, calling on our former Egyptian allies for aid is no longer an option."
+ottaxis.103.d.nohejaznoegypt:0 "우리가 바그다드와 바스라를 합병한 것에 격분하여, [From.GetNameDefCap]은(는) 자신들에게 즉시 이 영토들을 양도할것을 요구했습니다. 우리는 모든 동맹들한테서 배신당했습니다."
+ottaxis.103.d.hashejaznoegypt:0 "우리가 바그다드와 바스라를 합병한 것에 격분하여, [From.GetNameDefCap]은(는) 자신들에게 즉시 이 영토들을 양도할것을 요구했습니다. 슬프게도, 이집트는 우리를 돕지 않을 것입니다."
 ottaxis.103.a:0 "이집트의 지원을 요청하자"
 ottaxis.103.b:0 "우리는 [PER.GetNameDef]을(를) 화나게 해선 안된다"
 
 ottaxis.104.t:0 "바그다드 문제"
-ottaxis.104.d.haskurd:0 "이라크의 땅들은 항상 중동에서 뜨거운 논쟁이 되어왔고 이란과 아라비아 동맹국들 간의 적대감이 바그다드시에서 고조되고 있다는 사실이 이제 다시 한번 분명해 졌습니다. 양국은 그 지역에 대한 그들의 주장을 표명해왔고 물러서지 않을 것입니다. 위기를 해결하고 단계적 확대를 막기 위해, 아라비아는 [PER.GetNameDef]이(가) 후퇴하도록 강요하기 위해 우리를 중재자로 불렀습니다. 그러나 우리 국민들은 다시 전쟁에 나서는데 관심이 없기 때문에 정부는 가능한 해결책을 내놓았습니다. 이란이 이라크에 대한 그들의 주장을 철회하는 대가로, 그들은 중립 쿠르드 완충 지대에 대한 완전한 통제권을 부여 받을 것입니다. 그러나 다른 사람들은 이란에게 더 많은 땅을 수여하는것이 수년 내에 더 많은 문제를 야기 할뿐 아니라 이란이 팽창주의에 접근하게 될 것을 두려워 하고 있습니다."
-ottaxis.104.d.nokurd:0 "이라크의 땅들은 항상 중동에서 뜨거운 논쟁이 되어왔고, 이것은 [PER.GetNameDef]와(과) 아라비아 동맹국들 간의 적대감이 바그다드시에서 고조되고 있다는 사실이 이제 다시 한번 분명해 졌습니다. 양국은 그 지역에 대한 그들의 주장을 표명해왔고 물러서지 않을 것입니다. 위기를 해결하고 단계적 확대를 막기 위해, 아라비아는 우리를 중재자로 불렀습니다. 우리 국민들은 다시 전쟁에 나서는데 관심이 없지만 [PER.GetNameDef]에 더 많은 토지를 양도하면 앞으로 수년 내에 더 많은 문제가 발생할 것이라는 두려움이 있습니다."
+ottaxis.104.d.haskurd:0 "이라크의 땅들은 항상 중동에서 뜨거운 논쟁이 되어왔고 이란과 아라비아 동맹국들 간의 적대감이 바그다드시에서 고조되고 있다는 사실이 이제 다시 한번 분명해졌습니다. 양국은 그 지역에 대한 그들의 주장을 표명해왔고 물러서지 않을 것입니다. 위기를 해결하고 단계적 확대를 막기 위해, 아라비아는 [PER.GetNameDef]이(가) 후퇴하도록 강요하기 위해 우리를 중재자로 불렀습니다. 그러나 우리 국민들은 다시 전쟁에 나서는데 관심이 없기 때문에 정부는 가능한 해결책을 내놓았습니다. 이란이 이라크에 대한 그들의 주장을 철회하는 대가로, 그들은 중립 쿠르드 완충 지대에 대한 완전한 통제권을 부여 받을 것입니다. 그러나 다른 사람들은 이란에게 더 많은 땅을 수여하는것이 수년 내에 더 많은 문제를 야기 할뿐 아니라 이란이 팽창주의에 접근하게 될 것을 두려워 하고 있습니다."
+ottaxis.104.d.nokurd:0 "이라크의 땅들은 항상 중동에서 뜨거운 논쟁이 되어왔고, 이것은 [PER.GetNameDef]와(과) 아라비아 동맹국들 간의 적대감이 바그다드시에서 고조되고 있다는 사실이 이제 다시 한번 분명해졌습니다. 양국은 그 지역에 대한 그들의 주장을 표명해왔고 물러서지 않을 것입니다. 위기를 해결하고 단계적 확대를 막기 위해, 아라비아는 우리를 중재자로 불렀습니다. 우리 국민들은 다시 전쟁에 나서는데 관심이 없지만 [PER.GetNameDef]에 더 많은 토지를 양도하면 앞으로 수년 내에 더 많은 문제가 발생할 것이라는 두려움이 있습니다."
 ottaxis.104.a:0 "[PER.GetNameDef]에게 물러나던가 말라던가 해라"
 ottaxis.104.b:0 "쿠르드 해결책 제안"
 ottaxis.104.c:0 "아라비아는 독자적으로 해결해야한다"
