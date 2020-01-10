@@ -1,6 +1,6 @@
 l_english:
 
-BEL_focus: "독일계 벨기에 중점계통도"
+BEL_focus: "독일령 벨기에 중점계통도"
 
 ### Ideas ###
 BEL_Antwerp_Harbor:0 "네덜란드의 베스터셸데 통제"
@@ -476,7 +476,7 @@ BEL_Mobilise_the_Reserves_desc:0 "The moment we have feared for many years has f
 BEL_Push_Forwards:0 "방어적인 계획"
 BEL_Push_Forwards_desc:0 "The counter-offensive has finally arrived. All troops, advance at once!"
 
-BEL_Meuse_Line:0 "마스 선 요새화"
+BEL_Meuse_Line:0 "뫼즈 방어선 증강"
 BEL_Meuse_Line_desc:0 "The Meuse is our last line of defence and should be heavily fortified to stop any invasion be it a German one into Belgium or a French one into Germany."
 BEL_KW_Line:0 "KW 선 건설"
 BEL_KW_Line_desc:0 "An extra defensive fortification belt consisting of mainly tank traps and small bunkers will provide us even more time to stop a foreign invasion."
@@ -771,7 +771,7 @@ bel.5.t:0 "계속되는 폭동"
 bel.5.d:0 "Trapped in the palace but safe from the rioters outside, the king decided not to resort to the use of heavy weaponry and has instead sought to deal with the protesters solely by using local police battalions. However, the riot has proven not to be so easily suppressed and has started to spread throughout the entire city. Student organisations in the cities of Leuven, Ghent and even Brussels itself had been preparing their own protest march and quickly organised themselves. Chanting the Brabançonne and the Vlaamse Leeuw, waving banners and protesting through the streets, the protests have quickly become nearly insurmountable for the Police."
 bel.5.a:0 "나빠지기만 하는군!"
 
-bel.6.t:0 "샤를루아와 몬스의 왈로니아인들이 들고일어나다"
+bel.6.t:0 "샤를루아와 몬스의 왈로니아인 봉기"
 bel.6.d:0 "Massive strikes and protest are also plaguing Wallonia, where the large industrial cities of Charleroi and Mons have started organising themselves into a full scale rebellion. Supported by the syndicalist resistance and raids of the Police headquarters in Mons, the revolters have reorganised themselves outside of the city biding their time."
 bel.6.a:0 "여기에 끝은 없는 건가?"
 
