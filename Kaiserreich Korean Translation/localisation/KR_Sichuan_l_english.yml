@@ -949,13 +949,13 @@ minsheng_shipping:0 "Minsheng Shipping"
 chongqing_tank_plant:0 "Chongqing Tank Plant"
 
 ### Events ###
-sichuan.1.t:0 "The Sichuan Clique in 1936"
-sichuan.1.d:0 "As 1936 dawns, Sichuan remains in a very fragile balance between its multiple factions. Yang Sen holds for now, buoyed by Zhili support from his personal backer, the Jade Marshal Wu Peifu and aided by his close associate and former governor of Sichuan, Liu Cunhou, whose status and connections, as well as considerable forces, give Yang sorely needed stability and legitimacy. However, the military disasters of the past decade led Yang Sen to rely on the cliques led by Deng Xihou and Liu Xiang, who now hold considerable influence in the government and in Sichuan itself. The remnants of the KMT-aligned Officer Department still control parts of southern Sichuan, though the years since have seen their area of control steadily diminish.\n\nSichuan stands at the edge of a knife, internally divided, with multiple factions vying for ultimate power in the province. It may take only the slightest sign of weakness in the Zhili for this powderkeg to blow up..."
-sichuan.1.a:0 "Tell me about Sichuan."
-sichuan.1.b:0 "Tell me about the factions vying for power."
-sichuan.1.c:0 "Surely Wu wouldn't let such a thing happen."
+sichuan.1.t:0 "1936년, 사천군벌"
+sichuan.1.d:0 "1936년이 밝았지만, 아직 쓰촨은 여러 파벌들 사이에서 매우 취약한 균형을 유지하고 있습니다. 현재 양썬은 자신의 후원자인 옥수(玉帥) 우페이푸의 지지에 힘입어 그의 측근이자 전 쓰촨성장 류쿤후의 도움을 받아 상당한 세력뿐만 아니라 지위와 인맥을 얻었고, 그에게 필요한 안정과 정당성을 부여하고 있습니다. 그러나 지난 10년간의 군사적 재앙으로 양센은 덩샤오와 류샹이 이끄는 파벌에 의존하게 되었는데, 지금은 정부와 쓰촨성 자체에 상당한 영향력을 행사하고 있습니다. 국민당에 동조하던 장교단의 잔당들은 그들의 통제 영역이 꾸준히 줄어드는 것에도 불구하고 여전히 쓰촨성 남부 일부 지역을 통제하고 있습니다.\n\n쓰촨은 내분의 벼랑 끝에 서 있으며, 여러 파벌들이 성에서 권력을 위해 투쟁하고 있습니다. 직예군벌의 아주 사소한 약화의 조짐도 화약고에 불을 붙이기에는 충분해 보입니다..."
+sichuan.1.a:0 "쓰촨에 대하여 말해주오."
+sichuan.1.b:0 "권력을 위해 다투는 파벌들에 대해 알려줘."
+sichuan.1.c:0 "확실히 우페이푸가 그냥 놔두지는 않겠군."
 
-sichuan.2.t:0 "The Sichuan Clique"
+sichuan.2.t:0 "사천군벌"
 sichuan.2.d:0 "The modern history of Sichuan begins in 1912. When the Xinhai Revolution reached Sichuan, the region entered a period of prolonged instability, with regional warlords vying for the governorship by diplomacy and force. Between 1912 and 1926, the region was alternatively controlled by Xinhai revolutionaries, Kuomintang loyalists and local warlords.\n\nThis state of affairs would last until the failure of the Northern Expedition in 1926. With the personal support of the victorious Zhili leader, Wu Peifu, Yang Sen was able to establish himself as the firm ruler of Sichuan, finally restoring some semblance of stability to the region. However, the profound divisions within Sichuan would not disappear, with Yang rapidly becoming beheld to the interests for various internal cliques that formed and unable to remove their influence. Liu Xiang, one of these warlords, established himself in Chongqing by allying himself with the local administration, quickly becoming Yang's main rival for control over Sichuan.\n\n1928 saw Sichuan face an invasion from the neighboring clique of Yunnan. While at first a success, the invasion was soon defeated by Sichuanese forces, causing considerable losses among Yang's personal forces. A Tibetan invasion in 1930 deteriorated the situation even further, with Tibetan troops reaching the Yangtze River and directly threatening the capital of Chengdu. While the involvement of the Ma Clique to the north eventually turned the tide against the Tibetans, Sichuan was forced to cede half of the Xikang region to Tibet and Yang's military was left in tatters."
 sichuan.2.a:0 "Interesting."
 
