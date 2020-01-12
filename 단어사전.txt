@@ -4,7 +4,7 @@ American Union State : 미연합국
 
 Combined Syndicates of America : 미노조연합
 
-Weltkrieg : 세계대전
+Weltkrieg, WK : 세계대전
 
 Reichspakt : 제국 조약
 
