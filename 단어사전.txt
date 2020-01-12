@@ -1,42 +1,33 @@
-Pacific States of America : 태평양 미합중국(약칭 태평양 미국)
+#미국 관련
+Pacific States of America (PSA): 태평양 미합중국(약칭 태평양 미국)
+American Union State (AUS): 미연합국
+Combined Syndicates of America (CSA): 미노조연합
+AFP: 미국 제일당
+SPA: 미국 사회당
+IWW: 세계산업노동자연맹
+AFL: 미국노동총연맹
 
-American Union State : 미연합국
+#독일 관련
+A.O.G.: 동아시아 총괄행정 감사이사회
+Mittelafrika : 미텔아프리카
+GEA: 독일령 동아시아
 
-Combined Syndicates of America : 미노조연합
-
+#그 외
 Weltkrieg, WK : 세계대전
-
 Reichspakt : 제국 조약
 
-Wrangel : 브란겔
-ㄴ(브랑겔은 독일식 브란겔은 러시아식)
-
-Third Internationale : 제3인터내셔널
-ㄴ(제4인터내셔널도 띄어쓰기 없이 표기, 애초에"제1~","제2~"등의 단어는 띄어쓰기 없는 표현이 올바른 표현, "인터네셔널"은 틀린 번역)
-
-CNT-FAI : 전국노동연맹
-(CNT나 FAI도 동일)
-
+CNT-FAI(CNT 또는 FAI) : 전국노동연맹
 Flanders-Wallonia :  플랜더스-왈로니아
-
-Mittelafrika : 미텔아프리카
-
-AFP: 미국 제일당
-
-SPA: 미국 사회당
-
-IWW: 세계산업노동자연맹
-
 Belgrade Pact: 베오그라드 조약
+Reclamation war: 수복전쟁
 
-A.O.G.: 동아시아 총괄행정 감사이사회
-
-AFL:미국노동총연맹
-
+#표기 관련
 중국 지역 : 국명은 한자독음으로, 그 외에는 전부 원어독음으로 합니다.
 Yunnan Clique의 경우, 운남 군벌로 번역하지만, Yunnan 지역명을 가르킬 때는 윈난으로요.
 인물명 역시 원어독음으로 표기합니다.
 
-Reclamation war: 수복전쟁
+Third Internationale : 제3인터내셔널
+ㄴ(제4인터내셔널도 띄어쓰기 없이 표기, 애초에"제1~","제2~"등의 단어는 띄어쓰기 없는 표현이 올바른 표현, "인터네셔널"은 틀린 번역)
 
-GEA: 독일령 동아시아
+Wrangel : 브란겔
+ㄴ(브랑겔은 독일식 브란겔은 러시아식)
