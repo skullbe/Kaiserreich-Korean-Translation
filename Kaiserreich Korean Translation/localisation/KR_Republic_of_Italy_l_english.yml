@@ -972,9 +972,9 @@ ita.160.d:0 "이탈리아 국민연합의 지도자인 이탈로 발보는 오�
 ita.160.a:0 "발보의 쿠데타는 성공했다"
 ita.160.b:0 "발보의 쿠데타는 실패했다"
 
-ita.161.t:0 "ANI Ringleaders Finally Caught"
-ita.161.d:0 "While the leader of the Associazione Nazionalista Italiana, Italo Balbo, remains at large, today it was announced that most of his co-conspirators in the nationwide terror campign have finally been captured. Most are now awaiting trial, while the country breathes a sigh of relief. Many consider this to be a sign that the worst of [ITA.GetNameDef]'s political struggles are over."
-ita.161.a:0 "It's about time!"
+ita.161.t:0 "국인연합의 우두머리가 체포되다"
+ita.161.d:0 "이탈리아 국민연합의 지도자인 이탈로 발보는 여전히 잡히지 않았지만, 오늘 전국적인 테러단체의 공모자 대부분이 붙잡혔다고 발표되었습니다. 나라 안도의 한숨을 쉬고있고, 사람들은 지금 재판을 기다리고 있습니다. 많은 사람들은 [ITA.GetNameDef] 최악의 정치적 위기는 끝났다고 생각합니다."
+ita.161.a:0 "그럴 시기가 됐다!"
 
 ita.170.t:0 "[From.GetNameDefCap] Claims [claimed_state.GetName]"
 ita.170.d:0 "With a resurgence in irredentism since reuniting the country, [From.GetNameDef] has laid claim to the state of [claimed_state.GetName], currently held by [Root.GetNameDef]. [Root.GetAdjective] citizens in the region are understandably alarmed, although native Italians have already started protesting in the streets and demanding that they be reunited with the motherland."
