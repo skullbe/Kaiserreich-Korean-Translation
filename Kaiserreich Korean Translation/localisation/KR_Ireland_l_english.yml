@@ -1367,68 +1367,68 @@ ire.46.t:0 "안트림의 음악당 공격받다"
 ire.46.d:0 "In the latest shocking incident from Ulster, a concert hall in County Antrim was subjected to a violent attack. Believed to have been carried out by the Protestant dissident group, the Ulster Volunteer Force, the attack saw several members of a Dublin band shot dead, as well as several concert goers. The motivation for the attack is believed to be another act of terrorism against the Irish state, acts that will continue as long as Ulster remains a part of Ireland, according to the movements occasional cryptic communications with the police and the public."
 ire.46.a:0 "Awful."
 
-ire.47.t:0 "Reprisal Shootings"
+ire.47.t:0 "보복 총격"
 ire.47.d:0 "Seemingly in response to the recent violence carried out by the Ulster Volunteer Force, five men with known ties to the group were found dead in a field near a farm twenty miles outside of Belfast. The victims appear to have been executed. It is believed that the men were rounded up during the night and taken together to be killed, although it is unknown at this time who might have orchestrated such an action. The tensions in Ulster are growing as the situation grows more violent, and the Irish government are facing increasing outcry at their apparent inability to address the instability of their nation."
-ire.47.a:0 "The cycle of violence continues."
+ire.47.a:0 "폭력의 악순환이 계속되는군."
 
-ire.48.t:0 "Craig Speaks Out"
+ire.48.t:0 "크레이그의 연설"
 ire.48.d:0 "After several years of inactivity and silence, the leader of the Ulster Unionist Party has spoken out regarding the status of Ulster in the Republic of Ireland. James Craig, reported by some to have grown senile in his elder years, appeared lively and in a good mood as he viciously attacked the Irish government in his first major address of such a kind since the ceasefire of 1925. He particularly chastised the current regime and the economic neglect paid towards Ulster during the past decade, and demanded that every son and daughter of Ulster be prepared to fight for the prosperity and, if needs be, freedom of the region."
-ire.48.a:0 "He should have kept his mouth shut."
+ire.48.a:0 "누가 그 입 좀 막아라!"
 
 ire.49.t:0 "벨파스트 시청에 폭탄 투척"
 ire.49.d:0 "Terror awaited Belfast as the Belfast City Hall was subjected to a massive bombing that left over fifty people dead and many more injured. The shocking attack appears to be the latest in a long line of escalating UVF attacks, and was carried out during a meeting of local political representatives. Among those killed was Thomas Carlin, local party chief for the National Centre Party. This attack has frightened the nation, and the tension in Ulster has once again reared it's ugly head but this time with devastating consequences."
-ire.49.a:0 "The times we live in."
+ire.49.a:0 "이게 현실이다.."
 
 ire.50.t:0 "오페라하우스에 방화"
 ire.50.d:0 "Horror at the Grand Opera House in Belfast. Several hundred people had to be evacuated in the midst of the evening's entertainment when a massive fire broke out, consuming much of the historic hall. Thirty-five people are believed to have died in the disaster and the toll could soon rise, with many still reported missing as search efforts comb through the debris hoping to find any signs of life. It is unknown what caused the fire to break out but the government is already being criticised yet again by Ulster Unionists, who claim the incident could have been avoided had the Opera House been refurbished, as a previous request to the government had suggested."
-ire.50.a:0 "What a disaster."
+ire.50.a:0 "재앙이다."
 
 ire.51.t:0 "아일랜드은행 강도사건"
 ire.51.d:0 "Today in Belfast, the Bank of Ireland was robbed by masked gunmen, believed to be unionist dissidents. The Gardaí are searching for them as we speak, but they are most likely taking refuge and being shielded within the Unionist community."
-ire.51.a:0 "Let no man rest until these men are found!"
+ire.51.a:0 "범인을 찾기 전에는 아무도 빠져나갈 수 없다!"
 
 ire.52.t:0 "더블린에 폭탄테러"
 ire.52.d:0 "At 10:30am this morning, a massive explosion went off near the Four Courts in Dublin. Five hundred people are believed dead and many more could follow when an official death count is taken. Two men believed to have been responsible for the bombing were shot dead by the Gardaí as they attempted to flee the scene and put up resistance when asked to stand down. At least one of the men has been identified as a Belfast native with known Unionist ties. This terrifying escalation of the on-going conflict in Ulster is tantamount to a declaration of war upon Ireland and her people, and the public outcry has been enormous. The Irish people are baying for blood, and it is Ulster that may have to pay the price."
-ire.52.a:0 "This can't go on."
+ire.52.a:0 "용납될 수 없다..."
 
 ire.58.t:0 "연합주의자들의 봉기 계획?"
 ire.58.d:0 "Now that we find ourselves in an unfortunate state of war, there has been an unusual amount of dissent pouring in from the north of Ireland. Ulster Unionists are said to be considering their options whilst the Irish Republican Army is preoccupied with the on-going conflict, and they very well may use this opportunity to try and break free from the Republic. The consequences of such an action could be grave for the nation, as they might very well attempt to align themselves with our enemies and would provide a perfect base for an invasion of Ireland."
-ire.58.a:0 "As if we don't have enough problems as it is!"
+ire.58.a:0 "지금의 난장판으로는 충분하지 않다는 건가?"
 
 ######################
 # Unionist Civil War #
 ######################
 
 ire.133.t:0 "연합주의자들의 독립 선언"
-ire.133.d:0 "After months of mounting tension, the inevitable has happened. The Ulster Unionists have risen in mass numbers led by the Protestant demagogue James Craig, demanding separation from the Republic of Ireland. They have stated that they will defend their newly proclaimed freedom to the death, no matter how much blood might have to be spilled in the process. Barricades have been erected in Belfast and many Protestant militia have flocked to the cause of the Unionists. Civil war is upon Ireland, and this time there will be no ceasefire as there once was in 1925. The fate of Ulster will forever be decided, one way or the other."
+ire.133.d:0 "몇 달 동안 긴장이 고조된 후 불가피한 상황이 발생했습니다. 얼스터의 독립을 주장하는 개신교 선동가 제임스 크레이그가 이끄는 얼스터 연합주의자들의 수가 크게 증가했고, 그는 얼마나 많은 피를 흘릴지라도 자유를 지킬 것이라고 선언했습니다. 벨파스트에 바리케이트가 세워졌고 많은 개신교 민병대가 연합주의의 대의를 위해 몰려들었습니다. 아일랜드에 내전이 일어났고, 1925년과 같은 휴전은 없을 것입니다. 얼스터의 운명은 어떻게 될까요?"
 ire.133.a:0 "놈들은 국가의 적이다. 우리는 놈들을 파괴할 것이다."
 ire.133.b:0 "자유 얼스터 만세!"
 
 ire.134.t:0 "연합주의자들과의 전쟁"
-ire.134.d:0 "The message from the Dáil this morning was loud and clear: there will be no independence for Ulster. The Irish public were relieved to see the mobilisation of the Irish Republican Army as the troops prepared to march on Ulster and restore order. It is hoped that the conflict will be resolved quickly and decisively."
+ire.134.d:0 "의회의 메시지는 분명합니다: 얼스터의 독립은 없을 것입니다. 아일랜드 국민들은 얼스터의 질서를 회복하기 위해 행진하는 아일랜드 공화국군을 보고 마음을 놓았습니다. 분쟁이 신속하고 단호하게 해결되기를 바랍니다."
 ire.134.a:0 "퍼우 어 발러(Faugh a Ballagh)!"
-ULS_NO_SURRENDER:0 "No Surrender!"
+ULS_NO_SURRENDER:0 "항복은 없다!"
 ULS_NO_SURRENDER_desc:0 "Inspired by their Unionist cause, the Protestants of Ulster have sworn to fight and die for their freedom, no matter the cost."
 ULS_WEAKENED1:0 "Weakened by Irish Repression"
 ULS_WEAKENED1_desc:0 "A campaign of ruthless Irish repression has weakened the Ulster movement from within even before the civil war began, damaging the leadership of the Ulster Volunteers and infiltrating our armed forces to spread disinformation and disrupt our tactics."
 ULS_WEAKENED2:0 "Severely Weakened by Irish Repression"
 ULS_WEAKENED2_desc:0 "A campaign of ruthless Irish repression has severely weakened the Ulster movement from within even before the civil war began, damaging the leadership of the Ulster Volunteers and infiltrating our armed forces to spread disinformation and disrupt our tactics."
-ULS_WEAKENED3:0 "Crippled by Irish Repression"
+ULS_WEAKENED3:0 "아일랜드에 의해 탄압받다"
 ULS_WEAKENED3_desc:0 "A campaign of ruthless Irish repression has crippled the Ulster movement from within even before the civil war began, damaging the leadership of the Ulster Volunteers and infiltrating our armed forces to spread disinformation and disrupt our tactics."
-ULS_WEAKENED4:0 "Severely Crippled by Irish Repression"
+ULS_WEAKENED4:0 "아일랜드에 의해 심각하게 탄압받다"
 ULS_WEAKENED4_desc:0 "A campaign of ruthless Irish repression has severely crippled the Ulster movement from within even before the civil war began, damaging the leadership of the Ulster Volunteers and infiltrating our armed forces to spread disinformation and disrupt our tactics."
 ULS_CATHOLICS:0 "얼스터의 천주교도들"
-ULS_CATHOLICS_desc:0 "The Catholics of Ulster, compromising a large minority of the population, are loyal to the Irish Republic and want nothing to do with the Ulster state which they see as sectarian, explicitly founded as a Protestant state for a Protestant people."
+ULS_CATHOLICS_desc:0 "얼스터의 가톨릭 신자들은 인구의 상당부분을 차지하고 있으며, 아일랜드 공화국에 충성하고, 개신교 국가인 얼스터를 싫어합니다."
 
 # UoB sending volunteers
 ire.135.t:0 "아일랜드 내전"
-ire.135.d:0 "It seems that our noisy neighbours across the Irish Sea have collapsed into a civil war. The long-standing problem of the Ulster Unionists has reached a boiling point and now Ulster has declared itself a free nation and raised troops. If we'd like to reclaim the north of Ireland for ourselves, then now would be a good time to support Ulster, allowing us to deal a crippling blow to the Irish Republic without being seen to be directly at war ourselves. Of course, there is a chance that other nations in Europe might not take kindly to our interference, but the capitalists will never understand the higher calling that we here in the Union believe in."
+ire.135.d:0 "아일랜드 해 건너편의 시끄러운 이웃들이 내전으로 무너진 것 같습니다. 오랜 동안 지속되어 온 얼스터 연합주의자들의 문제는 한계에 이르렀고 이제 얼스터는 독립을 선언하고 군대를 소집했습니다. 지금이 바로 북아일랜드 탈환의 기회이며, 전쟁에 직접 참전하지 않고도 아일랜드의 몰락을 지켜볼 수 있을 것입니다. 물론, 유럽의 다른 나라들이 우리의 간섭을 불쾌하게 받아들일 가능성도 있지만, 자본주의자들은 우리의 대의를 이해하지 못할 것입니다."
 ire.135.a:0 "그들을 도울 것이다."
 ire.135.b:0 "원조하되 너무 많이는 하지 마라."
 ire.135.c:0 "자기들 알아서 할 일이다."
 
 ire.136.t:0 "브리튼 연방이 의용군을 보내다"
-ire.136.d:0 "The Union of Britain have elected to send an army detachment to Ulster in order to aid our efforts to defeat the tyrannical Irish regime. Although we are certain that this assistance is not provided free of charge, we will be able to put these experienced and well equipped troops to good use in the civil war with the Republic."
+ire.136.d:0 "브리튼 연방이 아일랜드 압제자들과 싸우고 있는 우리를 돕기 위해 군대를 파견하겠다고 결정했습니다. 비록 이러한 도움은 공짜가 아니겠지만, 브리튼의 정예군은 내전 승리에 큰 도움이 될 것입니다."
 ire.136.a:0 "이런 도움에 감읍할 따름이다."
 ire.136.b:0 "잘 쓰겠다."
 uls.uob.volunteers.large:0 "Receive §Y6§! divisions in Belfast."
@@ -1436,33 +1436,33 @@ uls.uob.volunteers.small:0 "Receive §Y3§! divisions in Belfast."
 
 # Irish notification
 
-ire.137.t:0 "잉글랜드 의용군 벨파스트에 상륙하다"
-ire.137.d:0 "Irish spies in Belfast reported the troubling news today that thousands of English volunteers, army troops in everything but name, arrived in Belfast recently. It is clear that the Union of Britain are making an effort to support the Unionist cause in Ulster, and our struggle has therefore suddenly got much more difficult."
-ire.137.a:0 "잉글랜드여 지옥에나 떨어져라. 우리가 이길 것이다."
+ire.137.t:0 "브리튼 의용군 벨파스트에 상륙하다"
+ire.137.d:0 "벨파스트의 아일랜드 스파이들이 오늘 수천명의 브리튼 자원병들이 최근 벨파스트에 도착했다고 보고했습니다. 브리튼이 얼스터의 연합주의자들을 지원하고 있기 때문에 우리의 투쟁은 더 힘들어질 것입니다."
+ire.137.a:0 "브리튼이여 지옥에나 떨어져라. 우리가 이길 것이다."
 
 # German response
 ire.138.t:0 "생디칼리스트들의 아일랜드 개입"
-ire.138.d:0 "Intelligence officials present in Ireland have reported today that the syndicalist regime in the Union of Britain has sent a sizeable 'volunteer' force to help the rebelling Ulstermen in the north of Ireland. This is clearly a clandestine military operation intended to overcome the Irish government. Many anti-Syndicalist hardliners in the German army are calling for a reinforcement of Ireland in reply to the boldness of the English, although there are some who feel that this is not our fight, and that our troops could be better used elsewhere."
-ire.138.a:0 "This can't be allowed. Reinforce the Irish."
+ire.138.d:0 "아일랜드 내의 우리 첩보원들이 브리튼의 생디칼리스트 정권이 아일랜드 북부의 얼스터 봉기를 돕기 위해 큰 규모의 자원병 부대를 파견했다고 보고해왔습니다. 이는 아일랜드 정부 몰래 진행되는 비밀작전입니다. 독일군 내부의 많은 반공주의자들은 브리튼에 대항하여 아일랜드를 도와야 한다고 주장하고 있지만, 다른 몇몇은 이는 우리가 개입할 분쟁이 아니고 우리 군대는 필요한 곳이 많다고 주장하고 있습니다."
+ire.138.a:0 "아일랜드를 돕자!"
 ire.138.b:0 "약간의 군대를 보낼 수 있다."
 ire.138.c:0 "이건 우리 문제가 아니다."
 
 # Canadian response
 ire.139.t:0 "생디칼리스트들의 아일랜드 개입"
-ire.139.d:0 "Intelligence officials present in Ireland have reported today that the syndicalist regime in the Union of Britain has sent a sizeable 'volunteer' force to help the rebelling Ulstermen in the north of Ireland. This is clearly a clandestine military operation intended to overcome the Irish government. Many anti-Syndicalist hardliners in the Canadian army are calling for a reinforcement of Ireland in reply to the boldness of the English, although there are many who are sympathetic to the Ulster cause and would not be happy if we were to side with Ireland."
+ire.139.d:0 "아일랜드 내의 우리 첩보원들이 브리튼의 생디칼리스트 정권이 아일랜드 북부의 얼스터 봉기를 돕기 위해 큰 규모의 자원병 부대를 파견했다고 보고해왔습니다. 이는 아일랜드 정부 몰래 진행되는 비밀작전입니다. 캐나다군 내부의 많은 반공주의자들은 브리튼에 대항하여 아일랜드를 도와야 한다고 주장하고 있지만, 다른 몇몇은 얼스터에 연민을 느끼고 있으며 아일랜드와 손잡는 것을 달갑지 않게 보고 있습니다."
 ire.139.a:0 "아일랜드를 생디칼리스트의 손에서 구출해야 한다! 원조를 보내자!"
 ire.139.b:0 "약간의 자원병을 보내자."
 ire.139.c:0 "얼스터인들은 우리 친구다!"
 
 # Irish receive volunteers
 ire.140.t:0 "독일이 원군을 보내다"
-ire.140.d:0 "Germany has reached out to Ireland in the aftermath of Britain's interference in war with Ulster. In an effort to counter-balance the impact made by the Syndicalist troops, they have sent their own volunteers to Ireland, joining us in our struggle against the rebellious Northerners and the ever-treacherous British."
+ire.140.d:0 "브리튼이 얼스터 분쟁에 개입하자 독일 또한 아일랜드에 손을 내밀었습니다. 생디칼리스트 군대에 대항하기 위해, 그들은 아일랜드에 자원병을 보내 위험한 영국인들과 북쪽 반란군에 대항하는 우리의 투쟁에 동참했습니다."
 ire.140.a:0 "고마워라."
 ire.ger.volunteers.large:0 "Receive §Y6§! divisions in Dublin."
 ire.ger.volunteers.small:0 "Receive §Y3§! divisions in Dublin."
 
 ire.141.t:0 "캐나다가 원군을 보내다"
-ire.141.d:0 "The former British government exiled in Canada has, in a surprising move, pledged to support Ireland in her struggle against the Ulster Unionists and their backers from across the Irish Sea. Several divisions of Canadian troops arrived in Dublin this evening and they will soon join the front against the Ulstermen."
+ire.141.d:0 "놀랍게도 캐나다로 추방된 영국 망명정부가 얼스터 연합주의자들과의 분쟁에서 우리를 돕기로 결정했습니다. 캐나다의 몇몇 사단이 오늘 밤 더블린에 도착했고 가까운 시일 내 전선에 도착할 것입니다."
 ire.141.a:0 "적의 적은 친구라더니."
 ire.can.volunteers.large:0 "Receive §Y6§! divisions in Dublin."
 ire.can.volunteers.small:0 "Receive §Y3§! divisions in Dublin."
@@ -1475,7 +1475,7 @@ ire.142.a:0 "좋지 않군."
 
 ire.143.t:0 "캐나다가 아일랜드에 원군을 보냈다"
 ire.143.d:0 "Treachery where it cuts deepest. The British Empire, or what is left of it, to whom we swore our loyalty for so many years.. has decided to back the Republic of Ireland in their war to reclaim our precious Ulster. Canadian troops have arrived in Dublin and will soon be at the front. This day will never be forgotten by the Unionist community."
-ire.143.a:0 "As if things weren't bad enough."
+ire.143.a:0 "아직 상황이 그렇게 나쁘진 않다..."
 
 # UoB warnings
 
@@ -1485,7 +1485,7 @@ ire.144.a:0 "젠장."
 
 ire.145.t:0 "캐나다가 아일랜드에 원군을 보냈다"
 ire.145.d:0 "Another blow. Despite the complicated nature of their relationship with the Irish, the exiled former government of Britain has decided also support Ireland against Ulster and our volunteers. Only a few dare whisper it, but our decision to send volunteers to the north of Ireland is beginning to look like it may have roused the hornets nest."
-ire.145.a:0 "A minor setback.."
+ire.145.a:0 "약간의 차질이 생겼군..."
 
 # Irish Victory
 
@@ -1496,89 +1496,89 @@ ire.146.a:0 "아일랜드 만세!"
 # GER/CAN/ENG Notifications about Irish Victory (if volunteers sent)
 
 ire.147.t:0 "아일랜드의 승리"
-ire.147.d:0 "Our volunteer detachment in Ireland has today reported back to high command that their mission to Ireland has been successful. The Irish Republican Army, backed by German arms and tanks, were able to decisively crush the Ulster uprising despite the attempts by the Union of Britain to interfere in the civil war. This is sure to bring stability to a troubled region and has seen our decision to send volunteers vindicated."
+ire.147.d:0 "아일랜드에 있는 우리 자원병 부대는 작전이 성공적으로 끝났다고 보고해왔습니다. 독일군의 지원을 받는 아일랜드 공화국군은 브리튼의 훼방에도 불구하고 성공적으로 얼스터 봉기를 진압했습니다. 이는 지역에 안정을 가져올 것이고 우리의 자원병 파견 결정이 옳았던 것으로 판명날 것입니다."
 ire.147.a:0 "아일랜드에 만세 삼창, 그리고 독일에 만세 삼창!"
 
 ire.148.t:0 "아일랜드의 승리"
-ire.148.d:0 "The commander-in-chief of our military delegation to Ireland reported in this morning that the Irish Republican Army has retaken Ulster and completely crushed the rebel uprising. Despite the treacherous interference of the Syndicalist menace inhabiting the former centrepiece of the British Empire, the Irish military prevailed with our assistance. The Ulster question seems to have been thoroughly resolved for the time being, and Ireland stands united once more."
-ire.148.a:0 "They call them the fighting Irish for a reason."
+ire.148.d:0 "아일랜드 주재 우리 군 대표단의 총사령관은 오늘 아침 아일랜드 공화국군이 얼스터를 탈환해 반군 봉기를 완전히 진압했다고 보고했습니다. 브리튼 생디칼리스트들의 위협에도 불구하고, 아일랜드 군대는 승리했습니다. 얼스터 문제는 어느 정도 해결된 듯하며, 아일랜드는 다시 한 번 통합되었습니다."
+ire.148.a:0 "그들은 전투종족이다..."
 
 ire.149.t:0 "얼스터의 패배"
-ire.149.d:0 "Despite our best efforts, the Ulster uprising has been decisively quelled by the Republic of Ireland. We received reports this morning that the Irish Republican Army had fully occupied the key cities of Derry and Belfast. We do not know what happened to the leaders of the Unionist cause, but no doubt the tyrannical Irish government had them executed. Our attempts to meddle in Irish affairs has resulted in an embarrassment for our nation, and some within our government feel as if we should have left the Ulstermen to fight their own battles."
-ire.149.a:0 "The Union of Britain will still prevail in the end."
+ire.149.d:0 "우리의 최선의 노력에도 불구하고, 얼스터 봉기는 아일랜드 공화국에 의해 결정적으로 진압되었습니다. 우리는 오늘 아침 아일랜드 공화국군이 데리와 벨파스트의 주요 도시를 완전히 점령했다는 보고를 받았습니다. 연합주의 지도자들에게 무슨 일이 일어났는지 모르지만, 폭압적인 아일랜드 정부가 그들을 처형했다는 것은 의심의 여지가 없습니다. 아일랜드 문제에 개입하려는 우리의 시도는 우리나라에 혼란을 가져왔고, 몇몇은 우리가 일찍이 여기서 발을 뺐어야 했다고 주장했습니다."
+ire.149.a:0 "결국엔 우리가 이길 것이다."
 
 IRE_unionists_pacified:0 "The Unionists have been pacified through civil war or negotiation."
 
 # Unionist option to offer Ireland peace if they've held out for long enough
 ire.151.t:0 "얼스터에 평화를 가져올 때?"
-ire.151.d:0 "It has been a long and bloody struggle, but Ulster has held strong against the aggression from the Republic of Ireland for a year, and many men, both Catholic and Protestant have died. We could push for a peace with the Republic if they were to acknowledge our right to independence. This would surely be the best course of action if we wish to avoid an even more prolonged conflict."
+ire.151.d:0 "얼스터는 1년 동안 아일랜드 공화국의 침략에 길고 피비린내나는 저항을 해왔고, 가톨릭과 개신교 양측 모두 많은 목숨을 잃었습니다. 그들이 우리의 독립을 인정한다면 우리는 공화국과 평화를 이룰 수 있습니다. 만약 우리가 훨씬 더 장기적인 충돌을 피하고 싶다면, 이것은 분명히 최선의 행동 방침일 것입니다."
 ire.151.a:0 "더블린에 제안을 보내자."
 ire.151.b:0 "끝까지 싸우자! 항복은 없다."
 
 # Ireland receives peace terms
 ire.152.t:0 "연합주의자들의 평화제안"
-ire.152.d:0 "The leader of the rebellious Ulstermen, James Craig, has sent his peace terms to Dublin. In exchange for an end to hostilities, he demands that the Republic recognise the freedom and independence of Ulster. Whilst it is true that the civil war with the rebellious northerners hasn't ended quite as quickly as many thought it would, to accept a free Ulster would be tantamount to political suicide for the Irish government. Nonetheless, some might advocate it as the only solution for a peaceful end to this conflict."
+ire.152.d:0 "얼스터의 지도자 제임스 크레이그가 더블린에 평화제안을 보냈습니다. 적대행위를 중단하는 대가로, 그는 얼스터의 독립과 자유를 인정해 달라고 제안했습니다. 이 내전이 쉽게 끝나지 않을 것이라는 것은 분명하지만, 이를 받아들이는 것은 아일랜드 정부의 정치적 자살과 마찬가지일 것입니다. 그럼에도 불구하고, 몇몇은 이 제안이야말로 분쟁을 평화적으로 끝낼  수 있는 유일한 방법이라 생각합니다."
 ire.152.a:0 "농담이겠지? 평화는 없다."
 ire.152.b:0 "그들이 원하는 평화를 주자."
 
 # Ireland says no
 ire.153.t:0 "더블린이 거부하다"
-ire.153.d:0 "The answer received from the Dáil was short and to the point. There will be no peace until they have received our unconditional surrender. The fighting will continue until we have either won our freedom through the spilling of Irish blood, or been beaten to the last man."
+ire.153.d:0 "아일랜드 의회의 답장은 짧고 명확했습니다. 우리가 그들에게 항복할 때까지 싸움은 계속될 것입니다. 우리가 아일랜드를 꺾고 자유를 쟁취하거나, 우리의 마지막 한명이 죽을 때까지 싸움이 계속되거나 둘 중 하나입니다."
 ire.153.a:0 "그러라지."
 
 # Ireland says yes
 ire.154.t:0 "마침내 평화가"
-ire.154.d:0 "Our offer of peace was surprisingly well received by the Irish government and they have agreed to an end to hostilities, recognising the independence of Ulster. This is a glorious day for the people of Northern Ireland, who can now truly consider themselves free from the tyrannical rule of the Irish and their disregard for Protestant traditions and culture. There will be no more fighting, and the island of Ireland can return to peace once more. Fledgling free Ulster now has a future to look forward to, guaranteed by the brave men and women who gave their lives to the Unionist cause!"
+ire.154.d:0 "우리의 평화제안이 아일랜드 정부로부터 받아들여졌고 그들은 얼스터의 독립을 인정하고 적대행위를 중단하겠다고 통보해왔습니다. 오늘은 북아일랜드 사람들의 위대한 날이며, 우리는 드디어 아일랜드인의 폭정과 개신교 탄압에서 해방되었습니다. 이제 더이상의 전투는 없으며, 아일랜드 섬이 평화를 되찾았습니다. 신생 얼스터의 미래는 연합주의의 대의 아래 목숨을 바친 용감한 남녀들이 이끌어갈 것입니다!"
 ire.154.a:0 "이것은 위대한 승리다!"
 
 # UoB - ask the French for help?
-ire.155.t:0 "Time to ask for aid?"
-ire.155.d:0 "Our involvement in the Irish Civil War appears to have angered the capitalist hive, invoking nations friendly to the Irish nation to send volunteers to aid them against the Unionist's attempt at rebellion. Our volunteers have been a great asset to the Unionist cause and a step towards securing Ireland, albeit through indirect means. However, now that hostile volunteer forces have joined the Republican forces, it would be fair to say that the civil war in Ireland is not necessarily developing to our advantage. If we were to invest anymore of our own military even as 'volunteers' then it could be seen as a direct act of war by our hostile neighbours in Europe and across the Atlantic. However, if we were to ask the French if they might aid the Ulster cause we might be able to swing the conflict back in our interest..."
-ire.155.a:0 "We need to ask for French support."
-ire.155.b:0 "We've made our bed alone, we will sleep in it alone."
+ire.155.t:0 "원조를 요청할 때?"
+ire.155.d:0 "아일랜드 내전에의 우리 개입이 자본주의자의 벌집을 건드린 것으로 보이며, 연합주의자들의 반란에 맞서 아일랜드 정부를 지원하려는 국가들이 의용군을 보내고 있습니다. 따라서 우리의 연합주의 의용군은 그들에게 아주 중요한 의미를 가집니다. 하지만, 적대적인 의용군 부대가 공화국 편에 서면서 아일랜드 내전의 판세가 우리에게 불리해지고 있습니다. 만약 우리가 아일랜드에 자원병을 더 보낸다면 이는 다른 적대적인 대서양과 유럽 국가들에게 크나큰 도발로 비춰질 것입니다. 하지만 우리가 프랑스에 도움을 요청해 그들이 얼스터를 돕기로 결정한다면 우리는 내전의 판세를 다시 우리 쪽으로 돌릴 수 있을 것입니다..."
+ire.155.a:0 "프랑스의 도움을 요청하자."
+ire.155.b:0 "우리는 혼자 눕고 혼자 잘 것이다."
 
 # France receives request
 ire.156.t:0 "브리튼 연방이 원조를 요청하다"
-ire.156.d:0 "The Union of Britain has sent an official request to the foreign office of the French Commune. They have drawn our attention to the ongoing civil war in Ireland, and have requested we send our own volunteers to help the Ulster separatists, although many might question whether or not this cause really deserves French support, given the radically anti-socialist and Protestant fundamentalist nature of the Ulster rebels. Agreeing to the request would see Commune forces depart for Belfast and, unofficially of course, aid the Ulstermen in their fight for independence."
-ire.156.a:0 "A true cause célèbre. We shall send aid if it means that the fires of revolution grow stronger."
-ire.156.b:0 "Who cares about their pet reactionaries?"
+ire.156.d:0 "브리튼 연방은 프랑스 코뮌에 공식 요청서를 보내, 아일랜드 내전에서 싸우는 얼스터 분리주의자들을 돕기 위한 의용군을 보내달라고 요청했습니다. 하지만 그들의 급진적 반사회주의적,개신교 근본주의적 성향은 우리가 진정 그들을 도와야 하는지 의문을 만들고 있습니다. 이 요청을 수락하면 코뮌군이 벨파스트에 상륙할 것이고, 얼스터 독립을 돕게 될 것입니다."
+ire.156.a:0 "이는 유명한 쟁점이다. 우리가 원조를 보내면 혁명의 불길은 강해질 것이다."
+ire.156.b:0 "누가 그들의 반동주의자 애완견들을 신경쓰겠어?"
 
 # France says yes
 ire.157.t:0 "프랑스가 승낙했다"
-ire.157.d:0 "It would appear that the French Commune is acquiescent to our request for assistance in Ulster. A detachment of French 'volunteers' is on their way to Belfast and will very soon arrive on the front lines to help resist the Republican forces. Surely, this will be a turning point in the Irish-Ulster Civil War!"
+ire.157.d:0 "프랑스 코뮌이 우리의 얼스터 지원 요청을 긍정적으로 검토하고 있습니다. 프랑스 의용군이 벨파스트로 향하고 있으며 곧 전선에 도착해 얼스터인들을 도울 것입니다. 확실히, 이것은 아일랜드-얼스터 내전의 전환점이 될 것입니다!"
 ire.157.a:0 "훌륭하다."
 
 # France says no
 ire.159.t:0 "프랑스가 거절했다"
-ire.159.d:0 "Unfortunately, the French Commune does not consider the ongoing conflict in Ireland to be of any great significance or importance to the Internationale, and have expressed unease about the reactionary nature of the Ulstermen. It appears that, apart from our own volunteer forces, the Ulstermen are truly on their own against the superior numbers of the Irish army. Barring a full-on declaration of war, we have done as much as we can at this time."
+ire.159.d:0 "불행하게도, 프랑스 코뮌은 아일랜드에서 진행중인 분쟁이 인터내셔널에 도움이 안된다고 생각하고, 얼스터인들의 반동적인 성향에 대해 우려를 표명했습니다. 우리가 보낸 의용군과는 별개로, 얼스터인들은 수적으로 우세한 아일랜드인들과 힘겹게 싸우고 있습니다. 우리는 선전포고를 하지 않는 선에서 우리가 도울 수 있는 모든 걸 해주었습니다."
 ire.159.a:0 "매우 프랑스스러운 일이군."
 
 # Ulster receives troops
 
 ire.158.t:0 "프랑스 코뮌의 원조가 도착하다!"
-ire.158.d:0 "Apparently, we have more allies than we thought. At the coaxing of our English benefactors, the French Commune has agreed to send several divisions to our aid. The wind is at our backs now, we can surely overcome the Irish menace with the might of France behind us!"
+ire.158.d:0 "우리에게는 생각보다 많은 동맹이 있습니다. 우리 후원자인 브리튼인들의 도움으로, 프랑스 코뮌은 우리를 돕기 위해 몇 개의 사단을 파견하기로 했습니다. 등바람이 우릴 밀어주고 있습니다. 우리는 프랑스의 힘으로 아일랜드놈들을 몰아내야 합니다!"
 ire.158.a:0 "항복하지 마라!"
 
 # Irish warning about French troops
 
 ire.160.t:0 "벨파스트에 프랑스군이?"
-ire.160.d:0 "A report from military intelligence in Belfast has delivered the startling news that troops from the French Commune, volunteers in name only, have been seen disembarking from transport ships in the Belfast City harbour. They were greeted by a delegation of British and Unionist military officials, making it quite clear that the French have sent troops to aid the Ulster cause. This is another clear attempt by the Union of Britain to steal Ireland back through a Unionist puppet. The conflict has escalated yet again, but the Irish people will not give up until the matter is put to rest, no matter how much French, English, or Unionist blood needs to be spilled."
+ire.160.d:0 "벨파스트에 있는 군 정보기관의 보고에 의하면 프랑스 코뮌에서 온 군인들이 수송선으로부터 벨파스트 항구로 하선하는 것이 목격되었다고 합니다. 그들은 브리튼연방과 연합주의자 군관들의 환영을 받았고, 이들이 얼스터를 돕기 위해 군대를 보냈다는 사실은 분명합니다. 브리튼 연방은 연합주의자 꼭두각시를 이용하여 아일랜드를 다시 차지하려고 하고 있고, 프랑스인,브리튼인,연합주의자들의 피가 얼마나 많이 흐르더라도 아일랜드인은 포기하지 않을 것입니다."
 ire.160.a:0 "우리 땅이다. 절대로 저들에게 빼앗기지 않을 것이다."
 
 # Ulster Victory
 ire.161.t:0 "얼스터의 해방!"
-ire.161.d:0 "The brave men and women of Ulster heard the call of freedom, and they were ready to answer it with blood and power of arms. Through a hard fought struggle, we have beaten the Irish Republican Army and won the civil war. Our independence has been secured and the Republic of Ireland is soundly beaten. We can now set up our own provisional government and rule over Ulster in a fair and just manner, where Protestants will be put first always, and the cause of Unionism can be advanced in peace."
+ire.161.d:0 "얼스터의 용감한 남녀들은 자유의 부름을 듣고 피와 무력으로 대답할 준비가 되어 있었습니다. 우리는 힘겨운 투쟁으로 아일랜드 공화국군을 물리치고 내전에서 승리했습니다. 우리의 독립은 보장되었고 아일랜드는 철저히 패배했습니다. 이제 우리는 임시정부를 세워 공정하고 정의로운 방식으로 얼스터를 다스릴 것입니다. 그곳에서 개신교 신자들은 대우받을 것이고, 연합주의의 대의가 실현될 수 있을 것입니다."
 ire.161.a:0 "우리가 해냈다."
 
 # GER/CAN/ENG/ Notifications if Ulster won
 ire.162.t:0 "얼스터의 승리!"
-ire.162.d:0 "Unfortunately despite their brave efforts the Irish were defeated by the Ulstermen and their Syndicalist backers. This is bad news for Germany, and a victory for syndicalism over a key ally."
+ire.162.d:0 "불행히도 그들의 용감한 노력에도 불구하고 아일랜드인들은 빨갱이들의 비호를 받는 얼스터인들에게 패배했습니다. 이것은 독일에게 나쁜 소식이며, 생디칼리슴이 더 활개칠 것입니다."
 ire.162.a:0 "망할!"
 ire.163.t:0 "얼스터의 승리!"
-ire.163.d:0 "With the help of their syndicalist allies the Ulstermen managed to defeat the Irish government. Our support of the Irish has become a major embarrassment as many were sympathetic to the Unionist rebels."
+ire.163.d:0 "생디칼리스트들의 도움으로 얼스터인들은 아일랜드를 패배시켰습니다. 아일랜드에의 우리 도움은 무용지물이 되고 말았습니다."
 ire.163.a:0 "망할!"
 ire.164.t:0 "얼스터의 승리!"
-ire.164.d:0 "The Ulster rebels have been victorious, and we have successfully weakened Ireland! This will ease the task of liberating the island from Capitalist oppression."
+ire.164.d:0 "얼스터 반군이 승리했고, 우리는 성공적으로 아일랜드를 약화시켰습니다! 이로써 자본주의 압제자들로부터의 섬의 탈환이 더 가까워졌습니다."
 ire.164.a:0 "올 하일 브리타니아!"
 
 ##########################
@@ -1595,7 +1595,7 @@ ire.56.d:0 "1916년 4월 24일 월요일, 아일랜드의 자원자들, 아일�
 ire.56.a:0 "달아난 노예들을 위하여, 숭고한 죽음이여, 자네가 안개 이슬 속에 빠져 있을때."
 
 ire.57.t:0 "윌리엄 버틀러 예이츠의 부고"
-ire.57.d:0 "The famous poet and one of the founders of Dublin's Abbey Theatre, William Butler Yeats, has died today. He was a driving force behind the Irish Literary Revival and in 1923 he was awarded the Nobel Prize for Literature. He also served as a politician for two terms after the Irish War of Independence, but retired in 1928 due to poor health."
+ire.57.d:0 "유명한 시인이자 더블린 수도원 극장의 설립자 중 한 명인 윌리엄 버틀러 예이츠가 오늘 사망했습니다. 그는 아일랜드 문학 부흥을 이끌었고 1923년에 노벨 문학상을 받았습니다. 그는 또한 아일랜드 독립 전쟁 이후 정치인으로 활동하기도 했지만, 1928년 건강이 좋지 않아 은퇴했습니다."
 ire.57.a:0 "위대한 시인을 애도한다."
 
 # Black Monday
@@ -1652,8 +1652,8 @@ IRE_black_monday_5:0 "검은 월요일"
 IRE_black_monday_5_desc:0 "검은 월요일 위기는 아일랜드에 좋지 않은 시기였지만 영향은 거의 희미해졌고 터널 끝의 빛이 보였습니다."
 
 # Aodh II death
-ire.241.t:0 "이 2세의 붕어"
-ire.241.d:0 "Aodh II, our new high king, has died today. His son Jorge Maria O'Neill shall be crowned under the regal name of Seorise I."
+ire.241.t:0 "Aodh II의 붕어"
+ire.241.d:0 "우리 국왕 Aodh II가 오늘 서거했습니다. 그의 아들 Jorge Maria O'Neill이 Seorise I로 왕위를 이을 것입니다."
 ire.241.a:0 "언 아르드리 터 머르, 고 마러 언 아르드리(An ard rí ta marbh, go maire an ard rí)!"
 
 #Cosmetic Tags
