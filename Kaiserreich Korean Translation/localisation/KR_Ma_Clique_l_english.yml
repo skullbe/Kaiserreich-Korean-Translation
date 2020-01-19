@@ -32,7 +32,7 @@ XSM_hongkui_rules_gansu:0 "Ma Hongkui reigns in Gansu."
 XSM_hongkui_rules_ningxia:0 "Ma Hongkui reigns in Ningxia."
 XSM_hongbin_rules_gansu:0 "Ma Hongbin reigns in Gansu."
 XSM_hongbin_rules_ningxia:0 "Ma Hongbin reigns in Ningxia."
-xsm_ma_biao_in_yushu:0 "Ma Biao is in Yushu."
+xsm_ma_biao_in_yushu:0 "마 비아오가 위수에 있음."
 northwest_conflict_ended:0 "The Northwest Conflict has ended."
 
 ### Tooltips ###
