@@ -571,31 +571,31 @@ finland.52.a:0 "선전포고다!"
 finland.52.b:0 "외교적 압력이면 족하다."
 
 finland.53.t:0 "스웨덴이 아베난마를 요구해오다"
-finland.53.d:0 "The [SWE.GetAdjective] government have seen fit to lodge a diplomatic protest with regards to our remilitarisation of the Åland Islands, demanding we return the islands, which are populated by Swedes, and allow for its inhabitants to reunite with their [Root.GetAdjective] brethren."
+finland.53.d:0 "[SWE.GetAdjective] 정부에서 우리의 올란드 제도 재무장화에 반발하였고, 그 땅에 스웨덴계가 많다는 점을 근거로 들어 섬의 반환을 요구했습니다."
 finland.53.a:0 "웃기지도 않는군."
 
 finland.54.t:0 "국민연합당"
-finland.54.d:0 "Despite having been dominated by the ethnically [GER.GetAdjective] King Fredrik I and the more conservative wing of the National Coalition for most of [Root.GetName]’s history, the National Coalition has also had within it members who belong to a more moderately conservative ilk.\n\nLed by Pehr Evind Svinhufvud, who himself is not unwilling to take advantage of the republican atmosphere within [Root.GetName], despite having pleaded with the [GER.GetAdjective]s for aid during the [Root.GetAdjective] Civil War. Svinhufvud, who himself is an ardent supporter of the White Guard, yet also resists the radical Lapua Movement and [Root.GetAdjective] Delegation, has promised to restore peace and order within [Root.GetName], while also ensuring that sovereignty is maintained.\n\nUnder Svinhufvud’s directive, the National Coalition wishes to empower the office of presidency while also preserving the systems put in place."
+finland.54.d:0 "독일인 왕 프레드릭 1세와 강경 보수주의자들이 이끄는 국민연합당이 오랫동안 [Root.GetName]를 지배하고 있지만, 국민연합당 내부에는 더 온건한 보수주의자들도 있습니다. \n\n[Root.GetName]에 유행하고 있는 공화주의의 기류에 힘입어, Pehr Evind Svinhufvud가 이끄는 파벌이 당 내부에서 세를 얻기 시작했습니다. 열렬한 백위대의 지지자임에도 불구하고 급진적 라푸아 운동을 반대하는 그는 핀란드의 주권을 지키고 [Root.GetName]에 평화와 질서를 가져오겠다고 약속했습니다. \n\n 그의 지시로 국민연합당은 총리의 권한을 강화하는 절차에 착수했습니다."
 finland.54.a:0 "우리의 전통을 저버릴 수는 없지!"
 
 finland.55.t:0 "단일언어주의"
-finland.55.d:0 "One of the big questions on the minds of the [Root.GetAdjective] people and, indeed, the politicians of the National Coalition is the question of what [Root.GetName]’s official language and the issue of monolingualism. While the [SWE.GetAdjective] language is most popular throughout Åland, coastal communities within southern and eastern [Root.GetName] also contain many [SWE.GetAdjective] speakers.\n\nHaving made up their minds, the politicians within the National Coalition have decided to officially opt [Root.GetAdjective] as the official language of [Root.GetName]."
+finland.55.d:0 "[Root.GetAdjective] 시민들의 커다란 궁금증은 국민연합당 정치인들이 [Root.GetName]의 공용어로 무엇을 선택할지와, 단일언어주의에 관한 것입니다. 올란드 제도와 아베난마를 비롯한 남동부 해안가에서는 [SWE.GetAdjective]어가 널리 쓰이고 있지만, \n\n그들의 존재를 의식하지 못한 국민연합 정치인들은 공식적으로 [Root.GetAdjective]어를 [Root.GetName]의 공용어로 채택했습니다."
 finland.55.a:0 "이로써 우리는 더욱 위대한 단일성을 쟁취할 것이다."
 
 finland.56.t:0 "아베난마 시민들의 반응!"
-finland.56.d:0 "The citizens of Åland, having bore the brunt of our new changes, are clearly dissatisfied with the government choosing [Root.GetAdjective] as the sole language of [Root.GetName]. This has, unfortunately, had the side effect of already hurting our already strained relationship with Åland, whose citizens ultimately wish to join [SWE.GetNameDef]."
-finland.56.a:0 "They'll just have to suck it up."
+finland.56.d:0 "올란드 제도 주민들은 새로운 변화에 강하게 저항하고 있으며, [Root.GetAdjective]어를 [Root.GetName]의 유일한 공용어로 지정한 정부의 결정에 분노하고 있습니다. 불행하게도, 올란드 제도 주민들과 우리의 관계가 악화되었으며, 제도 주민들은 [SWE.GetNameDef]으로의 복귀를 주장하고 있습니다."
+finland.56.a:0 "그냥 참아라."
 
 finland.57.t:0 "국민연합당"
-finland.57.d:0 "Comprised of hardline anti-syndicalists, theocrats, monarchists, and extreme conservatives, the extreme wing of the National Coalition, led by King [Root.GetLeader], has been in power since the creation of [Root.GetNameDef] and its independence, largely backed by [GER.GetNameDef].\n\nDespite having lost the support of large amounts of the [Root.GetAdjective] populace due to the desire for true freedom, the National Coalition have, once again, managed to prove that they can hold on to power and are free to carry out their directives.\n\nAs it stands, the overarching goal of the National Coalition is to maintain historical and economic ties with [GER.GetName], rally the [Root.GetAdjective] people around the King, act as a conservative bulwark so as to prevent any more political instability within the nation, and work towards rewarding loyal supporters."
+finland.57.d:0 "강경 반생디칼리슴주의자, 신정주의자, 군주주의자, 극우주의자로 이루어진, 국왕 [Root.GetLeader]이 이끄는 국민연합당은 [Root.GetNameDef] 독립 때부터 정권을 유지해왔고, [GER.GetNameDef]의 비호를 받고 있습니다. \n\n 자유를 열망하는 [Root.GetAdjective] 대중들의 지지를 잃고 있음에도 불구하고, 국민연합은 여전히 권력을 놓지 않고 있습니다. \n\n 보수주의의 방벽인 국민연합당의 목표는 [GER.GetName]과의 경제적,역사적 유대를 계속 유지하고 [Root.GetAdjective] 국민들의 국왕에 대한 충성을 계속 유지시키는 것입니다."
 finland.57.a:0 "흥미롭군..."
 
 finland.58.t:0 "국왕 [Root.GetLeader]이(가) 단결을 호소하다"
-finland.58.d:0 "Holding an official speech in front of the Parliament House, King [Root.GetLeader], in this time of post-crisis and widespread uncertainty, has chosen to appeal to the [Root.GetAdjective] people, hoping to change their perception of him. Rather than being perceived as a [GER.GetAdjective] puppet, the King wishes to act as a unifier for all Finns, and has done so through an impassioned speech.\n\nTouching upon the recent events and political instability, the King has called for the support of the people and has laid out his plan to make [Root.GetNameDef] a more stable and prosperous place for the [Root.GetAdjective] citizenry, stating that he will do everything in his power to make such a world a reality. And while the speech was not met with roaring applause from the still-hesitant and uncertain [Root.GetAdjective] populace, it has won the King a few supporters and has brought him some time."
+finland.58.d:0 "이러한 혼란의 시기에 국민들이 자신을 바라보는 시각이 달라질 것을 기대하며, 국왕 [Root.GetLeader]이 의회 건물 앞에서 연설을 하였습니다. 왕은 [GER.GetAdjective]의 꼭두각시보다는 모든 핀란드인의 통치자가 되길 원한다고 열정적으로 연설했습니다. \n\n 최근의 사건들과 정치적 불안정에 대응하여, 왕은 [Root.GetNameDef]를 [Root.GetAdjective] 국민들이 더 안정되고 번영된 삶을 살수 있는 곳으로 만들겠다고 선언했고, 이를 위해서라면 그의 모든 힘을 쏟아붓겠다고 했습니다. 비록 이 연설은 대중들로부터 박수갈채를 받진 못했지만, 연설에 감명받은 지지자들이 늘어난 것으로 보입니다."
 finland.58.a:0 "이게 우리가 원했던 최선이다."
 
 finland.59.t:0 "국가경찰 확대"
-finland.59.d:0 "It is clear that we must take to expanding the role of the State Police, so as to allow the detection of activities deemed as stirring up dissent and, hopefully, end such activities before they can take hold on the nation and gain widespread influence amongst the people.\n\nAs such, King [Root.GetLeader] has seen fit to increase the budget and powers of the State Police while also delegating day to day matters to intelligence ministers within his cabinet. The increase in funding has allowed for the investigation office of the State Police to employ a greater amount of employees while also allowing them to test out new methods to deal with any sort of dissidents and protect [Root.GetNameDef]’s internal security. This has, of course, not been popular with large segments of the population, who view the measure as both excessive and totalitarian..."
+finland.59.d:0 "우리는 국가경찰의 역할을 확대하여, 불안을 조성하는 모든 활동을 탐지하고 그것이 국가와 국민들에게 영향을 주기 전에 효과적으로 차단해야 합니다. \n\n 그렇게 하기 위해, 국왕 [Root.GetLeader]은 국가경찰의 예산을 확충하여 힘을 키웠습니다. 예산이 확충되면서 국가경찰에 더 많은 인원을 고용할 수 있게 되었으며,  [Root.GetNameDef]의 내부 안정을 유지하고 불안요소를 탐지하는 일을 더 잘 할수 있게 되었습니다. 하지만 대다수의 국민들은 이러한 정책을 억압적이고 전체주의적인 것으로 보고 있으며, 국가경찰은 국민들에게 인기가 없습니다."
 finland.59.a:0 "이게 다 더욱 큰 선을 위한 것이다."
 
 finland.60.t:0 "[Root.GetName]의 안정화"
