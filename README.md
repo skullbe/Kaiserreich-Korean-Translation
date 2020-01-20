@@ -1,6 +1,10 @@
 # 단어사전에서 변경된 부분들이 있습니다. 기존의 것들을 수정하거나 새로 번역할때 주의해 주십시오. (ex: 태평양 미합중국 > 미 태평양 합중국)
 # 만일 의의 제기를 하고 싶으시다면 
-[Issues](https://github.com/skullbe/Kaiserreich-Korean-Translation/issues, "Issues")
+1. Issues 탭으로 이동합니다.
+
+2. New issue 클릭
+
+3. 작성
 # 0.10.1버전 호환작업이 완료되었습니다
 
 # 번역 방법
@@ -29,9 +33,3 @@
 자신이 번역할 부분이 이미 Pull request에서 번역안이 요청되있는 부분인지 확인하시고 해주세요!
 
 생각나지 않는 단어들은 단어사전을 참고하세요: https://github.com/skullbe/Kaiserreich-Korean-Translation/blob/Translator/%EB%8B%A8%EC%96%B4%EC%82%AC%EC%A0%84.txt
-
-
-
-# 번역 관련 토론
-
-번역 관련해서 의논하실 사항은 Issues혹은, 창작마당의 토론 탭에서 진행 해주시기 바랍니다.
