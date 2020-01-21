@@ -18,6 +18,7 @@ Reichspakt : 라이히스팍트
 
 CNT-FAI(CNT 또는 FAI) : 전국노동연맹
 Flanders-Wallonia :  플랑드르-왈로니
+ㄴ언어 분포에 따르자면 플란데런-왈로니가 맞겠으나, 프랑스식인 플랑드르가 더 보편적이라는 점을 들어 플랑드르로 표기
 Belgrade Pact: 베오그라드 협약
 Reclamation war: 수복전쟁
 
@@ -29,4 +30,5 @@ Yunnan Clique의 경우, 운남 군벌로 번역하지만, Yunnan 지역명을 �
 Third Internationale : 제3인터내셔널
 ㄴ(제4인터내셔널도 띄어쓰기 없이 표기, 애초에"제1~","제2~"등의 단어는 띄어쓰기 없는 표현이 올바른 표현, "인터네셔널"은 틀린 번역)
 
-Wrangel : 브랑겔
+Wrangel : 브란겔
+ㄴ독일계이긴 하지만 러시아어에선 -ng의 발음을 하지 않아 -ㄴ으로 쓰는 것이 맞음. Ungern 역시 독일어로는 웅게른이지만 러시아어로는 운게른임
