@@ -671,41 +671,41 @@ nic.114.d:0 "Due to our efforts, Sandino's resistance against the ruling governm
 nic.114.a:0 "Forward, to victory!"
 
 nic.115.t:0 "Crushing the Resistance"
-nic.115.d:0 "Sandino's fierce resistance in the south is something that must be dealt with immediately before it spreads across the entire nation, overwhelming our country. However, certain figures within the government have begun to debate over just how far we should go. Some believe that suppressing too far will just end up with more flocking over to Sandino's cause, while some believe that not pushing far enough will make people begin to see weakness in the government. This is a delicate issue that will need to be treaded carefully if we want to see the end to the unrest plaguing the country."
+nic.115.d:0 "산디노가 주도하는 남부 지역의 맹렬한 저항이 전국적으로 확산되어 우리나라를 압도하기 전에 무언가 조치를 취해야만 합니다. 하지만 정부 인사들은 어느 수준까지 조치를 취해야 하는가에 대해 논쟁을 시작했습니다. 일각에서는 너무 많이 억압을 할 경우 산디노의 대의에 힘을 실어줄 뿐이라고 주장하는 반면, 다른 진영에서는 충분할 정도로 진압하지 않는다면 정부의 약점만 보여줄 뿐이라고 믿습니다. 국가를 혼란에 빠트리는 반란분자를 없애기 위해서는 이 민감한 사안에서 신중하게 선택해야만 합니다."
 nic.115.a:0 "Light suppression should get the job done"
 nic.115.b:0 "A moderate amount will do the trick"
 nic.115.c:0 "Go big or go home, total Guardia watch"
 
 nic.116.t:0 "Nicaragua Requires Guns"
-nic.116.d:0 "The provisional government within Nicaragua has officially begun to make moves against the Sandinistas in the south of their country. However, the overall suppression of these movements has required more guns and equipment than expected, and they have petitioned us to give them supplies to secure their country from the threat of Socialism. Not sending the supplies could result in the worse for our and their country if we're not careful, so it would be wise to listen to their request."
+nic.116.d:0 "니카라과 임시정부가 공식적으로 남부 산디니스타에게 대항하는 움직임을 보이기 시작했습니다. 다만 산디니스타 운동을 완전히 진압하기 위해서는 예상했던 것 보다 훨씬 많은 총기와 장비가 필요합니다. 니카라과는 우리에게 사회주의의 위협으로부터 조국을 지키기 위한 물자를 제공해 달라고 요청했습니다. 물자를 보내지 않는다면 양국간 관계가 악화될 수 있으므로, 요구를 들어주는 쪽이 더 현명한 선택일 겁니다."
 nic.116.a:0 "Crushing the resistance is necessary"
 nic.116.b:0 "That is no affair of ours"
 
 nic.117.t:0 "[OVERLORD.GetNameDefCap] Delivered Supplies"
-nic.117.d:0 "Thankfully, [OVERLORD.GetNameDefCap] has sent supplies just like we asked. It's an overall amount of 500 guns, with should be more than enough to crush the rebellious scum plaguing our country and people. The news of the shipment arriving in the first place has made Sandino see a drop in support, as his troops become demoralized over our superior manpower and weaponry."
+nic.117.d:0 "감사하게도, [OVERLORD.GetNameDefCap]은(는) 요청했던 보급품을 보내주었습니다. 총 500정의 총기가 도착했습니다. 국가와 국민에게 피해를 입히는 저 쓰레기같은 반란군을 분쇄하기에 충분하기를 바랄 뿐입니다. 1차 수송대가 도착했다는 소식은 우리에 비해 인력과 장비가 부족한 산디노 군대의 사기 저하를 동시에 불러왔습니다."
 nic.117.a:0 "More to crush the revolutionaries"
 
 nic.118.t:0 "[OVERLORD.GetNameDefCap] has Refused"
-nic.118.d:0 "It seems [OVERLORD.GetNameDefCap] has refused our request for equipment to help suppress Sandino and his revolutionaries. Their official reasoning is that they think we are more than capable of fighting them off by our lonesome, and that further assistance won't be necessary. Of course, we'll see how correct their assumption is in the future depending on how the future plays out."
+nic.118.d:0 "[OVERLORD.GetNameDefCap]이(가) 우리가 산디노와 혁명주의자들을 진압하기 위해 요청했던 장비를 보내지 않기로 결정한 모양입니다. 공식적인 이유는 우리가 이미 저들과 싸울 수 있는 충분한 전투력을 보유하고 있기 때문에 더 이상 지원이 필요하지 않다고 판단했기 때문이라고 발표했습니다. 물론, 저들의 예측이 과연 옳았는지는 미래가 와서야 알게 될 겁니다."
 nic.118.a:0 "We'll continue the fight on our own"
 
 nic.guardia.t:0 "Positioning the Guardia"
-nic.guardia.d:0 "The Guardia Nacional created by Somoza himself has officially been recreated after it's destruction in 1932. Currently composed of 3000 Nicaraguans, they stand ready to serve the nation and defend it from the threat of Sandino and his traitors, the people who wish to destroy our great nation. However, where we will position them to deal with traitors is another question. The people in the east are known to be somewhat upset over our regime, while Sandino's rebels still rage on in the south. One of the more popular suggestions have been to position them in the capital to keep the recent protests and strikes down, which could lower Sandino's overall support."
+nic.guardia.d:0 "소모사가 직접 창설한 국가방위군은 1932년 파괴된 이래로 공식적으로 재탄생했습니다. 현재 3000명의 니카라과인으로 구성된 국가방위군은 국가를 위해 몸 바칠 준비가 되어 있으며, 산디노의 반역자들과 같은 국가를 파괴하려는 이들의 위협으로부터 조국을 방어하고 있습니다. 하지만 반역자들을 진압하기 위해 저들을 어디에 배치해야만 하는가에 대한 의문이 제기되었습니다. 동부 사람들이 현 정부에 대해 불만을 많이 품고 있는 것도 사실이지만, 산디노 반군이 가장 맹위를 떨치고 있는 지역은 남부입니다. 또 다른 인기 있는 제안은 시위와 파업을 막기 위해 저들을 수도에 배치해 산디노의 전반적인 지지율을 떨구자는 주장이었습니다."
 nic.guardia.a:0 "Send them straight to Sandino"
 nic.guardia.b:0 "Have them patrol the west"
 nic.guardia.c:0 "They should control resistance in the capital"
 
 nic.119.t:0 "The Guardia Fails"
-nic.119.d:0 "Our decision to deploy the Guardia and send them straight after Sandino has proven to be a terrible idea. Due to its relatively new nature, the experienced Guerilla fighters of Sandino has superiority in the forest and jungles against our force. 200 of our men were killed before we knew it, forcing them to retreat before further losses were taken. This failure on our part has caused support for Sandino to rise across the country, leading to further chaos."
+nic.119.d:0 "산디노가 암약하고 있는 지역에 방위군을 배치하자는 결정은 끔찍한 선택이었음이 드러났습니다. 지역 지형지물에 익숙한 산디노의 노련한 게릴라 전사는 숲과 정글에서 아군에 비해 우위에 서 있습니다. 우리측 병력 200명이 전사하자 결국에는 추가 사상자가 발생하지 않도록 퇴각하는 수 밖에 없었습니다. 이번 실패로 인해 전국적으로 산디노의 지지율이 높아졌고 혼란이 가중되고 있습니다."
 nic.119.a:0 "Curses!"
 
 nic.120.t:0 "The Capital Remains Silent"
-nic.120.d:0 "Everything is quiet for the capital and its people. While we faced initial resistance against the position of the Guardia there, it quickly died down as they learned what would happen if they resisted against us. The general atmosphere of the capital has made those outside of it fear what would happen if they resist, causing Sandino's support to die down."
+nic.120.d:0 "수도와 시민들이 모두 침묵을 지키고 있습니다. 처음 방위대를 수도에 배치시켰을 때는 저항이 일었지만, 우리에게 저항할 경우 어떻게 되는지 똑똑히 보여주자 반항의 분위기는 순식간에 사그라들었습니다. 저항을 택할 경우 벌어질 일에 대한 공포가 수도 전체에 퍼졌고, 이로 인해 산디노에 대한 지지도가 줄어들었습니다."
 nic.120.a:0 "A victory for us"
 
-nic.121.t:0 "Sandino Marches North!"
-nic.121.d:0 "Today Sandino has announced his official liberation of the capital, intending to finally put an end to the Guardia's rule over Nicaragua once and for all. Him and his band of initially 1000 soldiers have begun rapidly moving north, but the dodgy terrain and resistance by some has slowed down their advance. Some are predicting this is going to gain immediate traction among the people, with many flooding to his cause as a result, but we will have to wait and see. All that can be known is that Nicaragua's future is now on the line."
-nic.121.a:0 "We must win at all costs!"
+nic.121.t:0 "산디노가 북으로 진군하다!"
+nic.121.d:0 "오늘 산디노가 마침내 니카라과에서 국가방위대의 통치를 완전히 끝내고 수도를 해방하겠다는 선언을 발표했습니다. 1000명의 군세를 이끌고 진격한 산디노의 군대는 빠르게 북쪽으로 진군하기 시작했지만, 그들을 저지하려는 소규모 부대의 저항과 험한 지형으로 인해 진격이 점차 늦어지고 있습니다. 일각에서는 그가 주창한 대의명분이 국민들 사이에서 인기를 끌어 홍수가 되리라고 예측하고 있지만, 아직은 좀 더 지켜봐야만 합니다. 지금 확실하게 알 수 있는 단 하나의 사실은 니카라과의 미래가 위태롭다는 것 뿐입니다."
+nic.121.a:0 "무슨짓을 해서든지 승리해야만 한다!"
 
 nic.123.t:0 "Sandino's Liberation"
 nic.123.d:0 "Sandino's troops arrived at the capital today with more men then we could have ever imagined. Immediate blockades were setup on all the streets to defend the capital, with the Guardia positioned to defeat any that marched against us. However, the fierceness of Sandino's troops were severely underestimated.\n\nWhat started out as one minor insurrection turned quickly into outright revolt within the Guardia. Every minute, troops were turning against their generals and who they once considered friends to bring support to Sandino's cause and allow him a position to advance. By then we had already lost the hope of the people within the capital, who quickly joined the Guardia traitors in tearing down the barricade. Somoza quickly evacuated the capital with those few who were still loyal to him back into Honduras."
