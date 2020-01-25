@@ -284,7 +284,7 @@ POLITICS_CHARLES_KAM_DESC:0 ""
 POLITICS_DUALABELL_KAM_DESC:0 ""
 
 ## Canada ##
-POLITICS_GEORGE_DESC:0 "The King-Emperor, as he styles himself still, has reigned over the British Empire for 26 years. He ascended in 1910 to the throne at the height of his Empire’s glory, an Empire on which the sun never set, but his reign oversaw the rapid decline of Britain’s power. The loss of the Weltkrieg to his own cousin, the loss of his youngest son, John, and the final devastating loss of Britain itself have combined to break much of George V’s spirit. His health also has worsened since the flight to Canada, which George privately refers to as “a frozen prison.” He has lost any interest in participating in domestic affairs, delegating such ceremonial duties as he may to his son, Prince Edward. He now lives on only for the return to Britain, but this prospect grows dimmer by the day."
+POLITICS_GEORGE_DESC:0 "'국왕 겸 황제'는 그 호칭대로 26년간 대영제국을 다스렸습니다. 그는 '해가 지지 않는 제국'의 영광이 절정에 달하던 1910년 왕위에 올랐지만, 재위 내내 대영제국의 쇠퇴를 지켜보아야만 했습니다. 사촌에게 패배한 세계대전, 막내아들 존의 죽음, 결정적으로 영국 본토의 상실이 조지 5세의 정신을 무너뜨렸습니다. 조지가 '냉동 감옥'이라 부르는 캐나다로 망명한 이후로는 건강마저 나날이 악화되었습니다. 그는 그의 아들 에드워드 왕자에게 의례적인 업무 대부분을 위임하고 국내 정치에 관심을 끊었습니다. 그는 이제 영국으로 귀향하는 날만을 기다리며 버티고 있지만, 전망은 날이 갈수록 어두워지기만 합니다."
 POLITICS_GEORGE_DESC:0 "왕 겸 황제(The King-Emperor)는 자신의 칭호 아래에서, 1910년부터 '해가 지지 않는 제국'인 광대한 대영 제국을 26년 동안 지배해 왔습니다, 그러나 지난 26년 동안의 비극은 왕 겸 황제에게 그의 사촌과의 전쟁에서의 패배와 막내 아들 존의 죽음, 그리고 영국 왕실의 캐나다 망명을 겪게 했고, 영국 왕실이 피신한 캐나다 자치령을 왕 겸 황제는 '냉동 감옥'으로 불렀습니다. 마침내 대영 제국의 해는 진 것처럼 보였고, 조지 왕의 금욕적인 성격에는 절망감이 가득 찼습니다. 1925년 이래로 왕 겸 황제의 건강은 스트레스와 우울증의 혼합을 통해 꾸준히 악화되었고, 병든 왕을 대신해 에드워드 왕자가 더 많은 업무를 수행하게 되었습니다(원통하게도)."
 POLITICS_EDWARD_DESC:0 "에드워드 윈저는 그의 아버지, 조지 5세의 죽음과 함께 오타와에서 왕위를 계승했습니다. 엄숙히 즉위한 이 젊은 왕은 흔적만 남은 제국의 옛 영광과 생디칼리스트 혁명가들에게 점거당한 왕국을 물려받았습니다. 의심할 여지 없이 에드워드 왕은, 무엇보다도 유니온 잭이 다시 브리튼 제도 위를 당당하게 날아 오르기를 희망하고 있습니다."
 POLITICS_ALBERT_WINDSOR_DESC:0 "영국 왕 에드워드 8세의 동생인 앨버트 윈저 공이 캐나다의 총독으로 임명되었습니다. 어린 시절 그는 눈에 띄는 말더듬이 때문에 조롱을 받았지만, 알버트는 현명하고 또한 근면한 사람이 되었습니다. 캐나다인들은 앨버트 총독의 인품을 높이 평가하고 있지만, 캐나다 정부의 많은 사람들 사이에서는 총독 임명이 캐나다 의회의 재량에 위임될 것이라는 기대가 있었기에 실망한 사람도 많았습니다. 하지만 일부 사람들의 실망에도 불구하고 앨버트는 좋은 평판을 받고 있습니다. 에드워드가 최근에 수복한 영국의 재건에 몰두하는 가운데, 앨버트는 캐나다가 적절하게 통치되도록 하기 위해 부지런히 고민해왔습니다."
@@ -625,7 +625,7 @@ POLITICS_FELIX_VON_LUCKNER_DESC:0 ""
 POLITICS_HELLMUTH_VON_MUCKE_DESC:0 ""
 
 ## German Empire ##
-POLITICS_WILHELM_II_DESC:0 "빌헬름 2세 폰 호엔촐레른, '제국 조약의 아버지'는 독일 제국을 거의 50년 동안 통치했습니다. 그의 통치 아래에서 독일 제국은 세계 최고의 강대국으로 부상했으며, 이는 '독일의 황금기'로 불리고 있습니다. 세계대전 이후 독일은 경쟁국들 사이에서도 독보적이었고, 태양이 비치는 곳을 얻으려는 노력은 실현되었습니다. 지평선 너머로 먹구름이 몰려온다 해도, 빌헬름 황제는 국민과 군대, 그리고 이 둘을 지배하는 귀족들의 지지를 받고 있습니다."
+POLITICS_WILHELM_II_DESC:0 "빌헬름 2세 폰 호엔촐레른, '라이히스팍트의 아버지'는 독일 제국을 거의 50년 동안 통치했습니다. 그의 통치 아래에서 독일 제국은 세계 최고의 강대국으로 부상했으며, 이는 '독일의 황금기'로 불리고 있습니다. 세계대전 이후 독일은 경쟁국들 사이에서도 독보적이었고, 태양이 비치는 곳을 얻으려는 노력은 실현되었습니다. 지평선 너머로 먹구름이 몰려온다 해도, 빌헬름 황제는 국민과 군대, 그리고 이 둘을 지배하는 귀족들의 지지를 받고 있습니다."
 POLITICS_WILLY_3_DESC:0 "세계대전 동안 독일의 B집단군 지휘관으로서의 부진한 성과에도 불구하고, 황제 빌헬름 3세는 귀국하자마자 영웅으로 칭송받았습니다. 그의 아버지의 죽음과 함께, 전쟁 영웅 빌헬름이 독일의 새로운 카이저로서 제위에 올랐습니다. 빌헬름 황제는 쿠르트 폰 슐라이허의 친구이자 동지이며, 통치에 있어 귀족들이 중요하다고 주장하고 있습니다."
 POLITICS_ALFRED_HUGENBERG_DESC:0 "크루프 AG의 전 회장인 알프레드 후겐베르크는 '융커'로 알려진 독일 귀족 산업가 중 가장 많은 일을 벌이는 자입니다. 후겐베르크는 독일인들이 거주하는 모든 토지의 통일을 장려하는 목적으로 20세기가 시작되기 직전에 범국민주의적인 전독일연맹을 창설했으며, 심지어 가장 위험한 정치적 상황에서도 독일 의회의 민주화를 완전히 반대합니다. 사실상 독일의 국가원수인 후겐베르크는 독일과 반대자들 모두에게 융커의 철권과 같은 의지를 내세우려고 하고 있습니다."
 POLITICS_FELIX_HAPSBURG_DESC:0 ""
@@ -867,7 +867,7 @@ POLITICS_BUSTAMANTE_DESC:0 ""
 ## Japan ##
 POLITICS_HIROHITO_DESC:0 "다이쇼 천황의 사망 이후 2,500년 역사의 신성한 일본의 황좌에 앉게 된 히로히토 천황은, 국가원수로서의 지위 뿐 아니라 정신적으로 일본 바로 그 자체를 상징합니다. 군국주의자들 그리고 부활한 좌파들이 모두 급성장함에 따라 일본 내의 혼란이 심화되어가는 와중에도 천황은 계속 침묵만을 지켜왔으며 그의 역할은 불확실하고 불분명합니다. 하지만 언제라도 천황이 움직이기 시작한다면, 어느 쪽이든 그것은 의심할 여지 없이 결정적일 것입니다."
 POLITICS_YASHUHITO_DESC:0 ""
-POLITICS_KANSON_ARAHATA_DESC:0 "The first Chairman of the Japanese Union, Kanson Arahata, took office during the immediate change in the political landscape of the nation. Having been arrested in the Red Flag Incident, Kanson had to hide his pro-socialist tendencies, later creating a socialist underground for left-leaning activists. It is said Kanson might be responsible for all the radical left violence against the Imperial regime."
+POLITICS_KANSON_ARAHATA_DESC:0 "일본의 정치 체제는 격변했고, 아라하타 간손이 일본 연방의 초대 의장으로 취임했습니다. 적기 사건으로 체포당했던 간손은 본인이 사회주의자임을 숨긴 채로 좌파 운동가들을 위한 사회주의 지하결사를 이끌어왔습니다. 현재 그는 급진좌파들이 구 제국 인사들에게 자행하는 폭력의 배후로 의심받고 있습니다."
 
 ## Kachin ##
 POLITICS_SAMA_DUWA_SINWA_NAW_DESC:0 ""
@@ -1860,7 +1860,7 @@ POLITICS_SHUMYATSKY_DESC:0 "보리스 슈마츠키의 부모는 자신의 고향
 POLITICS_MERKULOV_DESC:0 "A former leader of the pro-Japanese Provisional Primorsk Government, Merkulov's cabinet had been incorporated into Semyonov's Transbaikal state. Now, as Kolchak no longer stands in his way and democracy has finally returned to Vladivostok, Merkulov, a son of a humble peasant, is eager to lead Transamur to prosperity. His vast and personal connections with the people have helped him gain a majority of the votes during the Presidential elections."
 POLITICS_WOJ_DESC:0 "A leader of Czechoslovakian Legion and hero of the Russian Civil War, Wojciechowski has refused to accept the Brest-Litovsk treaty as legitimate. Outraged, he ceased all the contact with the government of the Russian Republic, and left for Transamur where he found many supporters. Formerly the right-hand man of admiral Kolchak, Sergei betrayed and killed his 'friend'. Less aggressive and ambitious than the rogue admiral, and a hardened veteran, Wojciechowski is now ready to advance West."
 POLITICS_SEMYONOV_DESC:0 "바이칼 코사크의 수령인 세묘노프와 그의 자식들은 러시아 극동을 휘젓고 다니는 볼셰비키들과 싸우기 위해 현재 트란스아무르로 알려진 트란스바이칼국을 가까스로 설립했습니다. 그러나 이 신생국은 곧 일본에 예속되고 맙니다. 1925년에 쿠데타에 실패한 사기꾼 콜차크가 러시아를 떠나 트란스아무르로 향했을 때, 세묘노프는 어쩔 수 없이 지도직을 사임하고 군 통수권자로서의 역할을 이어나갔습니다. 그러나 소위 '국부'는 정치적 영향력을 행사하며 가까스로 지도직에 복귀하게 됩니다. 세모노프의 유일한 목표는 트란스아무르의 번영이며, 이 목표를 이루기 위해서 그는 불확실한 전쟁을 꺼립니다."
-POLITICS_YUI_DESC:0 "노쇠한 장군 미츠에는 러시아 내전 당시에 개입했던 일본군 특공대를 이끌었던 자입니다. 명예로운 전쟁 영웅인 그는 천황에게 수 년 전에 정복한 영토의 최고 통치자로서 말년을 보낼 수 있는 최고의 선물을 받았습니다. 고립주의자인 이 노인은 어떤 종류의 전쟁도 피하고자 합니다. 그가 트란스아무르의 통치자로 권력을 쥐게 된 순간, 대 트란스아무르의 꿈도 함께 사라진 것입니다."
+POLITICS_YUI_DESC:0 "노쇠한 장군 미쓰에는 러시아 내전 당시에 개입했던 일본군 특공대를 이끌었던 자입니다. 명예로운 전쟁 영웅인 그는 천황에게 수 년 전에 정복한 영토의 최고 통치자로서 말년을 보낼 수 있는 최고의 선물을 받았습니다. 고립주의자인 이 노인은 어떤 종류의 전쟁도 피하고자 합니다. 그가 트란스아무르의 통치자로 권력을 쥐게 된 순간, 대 트란스아무르의 꿈도 함께 사라진 것입니다."
 POLITICS_PEPELYAYEV_DESC:0 ""
 POLITICS_KRASNOSHCHYEKOV_DESC:0 ""
 
@@ -2005,7 +2005,7 @@ POLITICS_STYLES_BRIDGES_DESC:0 "Formerly a teacher, Styles Bridges became the yo
 POLITICS_HIRAM_JOHNSON_DESC:0 "정치인 가문의 일원인 하이럼 존슨은 캘리포니아주 새크라멘토 중부에서 태어났습니다. 하이럼의 아버지인 그로브 존슨은 정치적으로 실패한 주의회 의원이였고, 그의 어머니는 미국 애국 여성회와 상당히 밀접한 관계를 맺고 있었습니다. 하이럼의 초반 정치 이력은 이러한 배경에 힘입어 발전하게 되었으며 1902년에는 샌프란시스코에서 유능한 지방검사로 발돋움하게 되었습니다. 1910년에 주지사 경선을 치르게 된 하이럼은 공화당 내의 자유주의 성향 단체인 '링컨-루즈벨트 연맹'으로부터 자금 지원을 받게 되었습니다. 존슨의 주지사 선거 유세는 주로 남태평양 철도회사에 대한 비판으로 점철되었는데 그 이유는 바로 이 철도회사가 공화당원들로 하여금 하이럼을 지지하지 못하도록 로비를 했기 때문이였습니다. 주지사로서 당선된 하이럼은 반이민법안을 지지했고 이후 국회로 진출하기 위해 자신의 길을 닦아나갔습니다. 1932년에 하이럼은 대선후보인 허버트 후버에 대해 지지의사를 거두었고 이로 인해 캘리포니아 공화당은 일대 혼란이 일게 되었습니다. 이렇듯이 동부의 공화당에 대해 개인적인 혐오를 보인 하이럼은 1936년의 정치적 혼란에도 거리를 두게 됩니다."
 
 ## United Kingdom ##
-POLITICS_EDWARD_BRITAIN_DESC:0 "King-Emperor Edward VIII, though crowned in Ottawa, has finally returned to his homeland. Though the ultimate struggle against the Syndicalists has been won, Edward now faces the challenges of trying to hold both Britain and the Empire together. Undeterred, King Edward maintaints, above all else, the hope in the British Empire that will become a world power once again."
+POLITICS_EDWARD_BRITAIN_DESC:0 "오타와에서 대관한 '국왕 겸 황제' 에드워드 8세가 마침내 고국으로 귀환했습니다. 생디칼리스트와의 결투에서 승리했다는 기쁨도 잠시, 에드워드는 이제 영국을 포함한 대영제국의 유지라는 도전에 직면했습니다. 그러나 그는 이에 굴하지 않고 무엇보다도 다시 한번 세계의 정점에 설 대영제국을 꿈꾸고 있습니다."
 POLITICS_TE_LAWRENCE_UK_DESC:0 "세계대전 기간에 오스만 제국에 대항한 아랍 부족들의 반란을 지도했던 유명한 장교이자 고고학자인 토마스 에드워드 로렌스가 정부에 대한 쿠데타를 이끌었습니다. 브리튼 연방에서는 로렌스가 그동안 군주주의자로서의 본성을 숨겨왔다는 소문이 퍼졌습니다. 그리고 실제로 그러한 추측은 옳았습니다. 로렌스는 연합왕국의 재건을 선언하고 윈저 왕실의 복귀를 공식적으로 요청했습니다."
 
 ## UoB ##
