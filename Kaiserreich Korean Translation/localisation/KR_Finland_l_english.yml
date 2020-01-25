@@ -533,7 +533,7 @@ finland.43.d:0 "Paramilitary units of the [Root.GetAdjective] labour movement, t
 finland.43.a:0 "핀란드를 다시 위대하게!"
 
 finland.44.t:0 "제2차 적색테러"
-finland.44.d:0 "In order to crush all dissent from opposing figures, political parties, or newspapers, the Red Guard has taken to imprisoning, trying, and executing various counter-revolutionaries and ideological enemies of the state. While this will allow for us to better consolidate our power over the fearful people, who, for now, know not to oppose us, this will have painful ramifications on the functions of the state as many of our leading figures have been removed from power."
+finland.44.d:0 "반체제 인사나 정당, 또는 언론사를 숙청하기 위해 적위대 측에서는 국가의 이념적 반대파와 다양한 반동분자들을 재판에 회부하고, 투옥하고, 처형하기 시작했습니다. 이를 통해 사람들에게 우리에 반대하면 어떻게 되는지 공포심을 심어줄 수 있겠지만, 국가를 이끌어가는 위치에 있는 많은 인사들이 숙청됨에 따른 뼈아픈 결과가 나타날 수도 있을 것입니다."
 finland.44.a:0 "그리 되리라."
 
 finland.45.t:0 "관료제 확대"
@@ -541,28 +541,28 @@ finland.45.d:0 "So as to allow for the centralisation of power under the new reg
 finland.45.a:0 "얻는 것이 있으면 잃는 것도 있는 법."
 
 finland.46.t:0 "사유재산 문제"
-finland.46.d:0 "It is important that we turn our attention towards the bourgeoisie institutions within [Root.GetNameDef], such as the various banks within the nation, industrial conglomerates, and other profitable financial institutions.\n\nAllowing for the government to properly function while also ensuring that we have money on hand to help carry out our directives is key. Thus, we must take to seizing private assets from the wealthiest individuals."
-finland.46.a:0 "I'm sure they won't mind."
+finland.46.d:0 "우리는 [Root.GetNameDef] 내의 은행들이나 기업체, 이윤을 내는 금융기관들과 같은 부르주아적 기관들에 관심을 돌려야 합니다. \n\n 정부가 제대로 기능하기 위해서는 자금의 유연한 조달이 필수적이므로, 우리는 이런 부유한 기관들의 자산을 압류해야 합니다."
+finland.46.a:0 "그들은 신경쓰지 않을 것이다."
 
 finland.47.t:0 "반의회주의"
-finland.47.d:0 "It is already well established that within the doctrine of the Lapua Movement, the parliament itself is a self-serving and ineffective organ of the government that is only effective at fostering disunity and bickering amongst the [Root.GetAdjective] people. Such an branch within the government must be dealt with at a later date..."
+finland.47.d:0 "라푸아 운동의 교리에 따르면 의회는 자기 잇속만 차리고 [Root.GetAdjective] 내부의 분열과 분쟁을 조장하는 비효율적인 정부기관입니다. 우리는 곧 의회의 운명을 결정할 것입니다..."
 finland.47.a:0 "암 그래야지."
 
 finland.48.t:0 "군부 최고사령부 문제"
-finland.48.d:0 "The question of the military high command has been a very prevalent discussion between various members of the Lapua Movement. As the issue of the remnants of the [GER.GetAdjective] presence in [Root.GetName] and its eventual removal has always been a goal of the Lapua Movement, it is only natural, to many, that members of the military high command who had served in the Royal Prussian 27th Jäger Battalion should be removed from their positions within the military. However, Kurt Martti Wallenius, who himself had been a part of the battalion, is not a supporter of such a purge and argues that getting rid of the military’s best men would only weaken the state of the [Root.GetAdjective] Army.\n\nWith this in mind, the best course of action would be to..."
+finland.48.d:0 "군부 최고사령부의 문제는 라푸아 운동 구성원들 사이에 널리 퍼진 토론 주제입니다. [Root.GetName]의 [GER.GetAdjective] 잔재와 그것의 궁극적인 제거는 항상 라푸아 운동의 목적이었고, 따라서 군부 최고사령부 내의 왕립 프로이센 예거 27연대 출신 인사들의 숙청이 이루어져야 할 것입니다. 하지만, 그 자신이 연대에서 복무했던 쿠르트 마르티 발레니우스는 숙청의 지지자가 아니며 정예 장교들을 숙청하는 것은 [Root.GetAdjective] 군의 상태를 더 약화시킬 뿐이라고 주장하고 있습니다. \n\n 이를 고려할 때, 우리가 할 수 있는 최선의 선택은...?"
 finland.48.a:0 "엽병 놈들을 모조리 숙청해라!"
 finland.48.b:0 "그들의 군권을 보장하자."
 
 finland.49.t:0 "사회주의자 숙청"
-finland.49.d:0 "In order to solidify our control over [Root.GetName] and prevent any dissent against our rule, we must take to purging any and all socialists. We have even gone as far as purging anybody who is sympathetic towards the socialist platform. This has provided us with the stability needed to continue running the nation without further obstacles."
+finland.49.d:0 "[Root.GetName]의 우리 지배를 굳건히 하고 어떠한 불만도 생기지 않게 하려면 우리는 모든 사회주의자들을 숙청해야 합니다. 우리는 사회주의 체제에 동정적인 자들을 숙청하고 있으며, 이를 통해 우리는 더 안정적인 국가 운영을 할 수 있을 것입니다. "
 finland.49.a:0 "훌륭하군!"
 
 finland.50.t:0 "성직자의 역할"
-finland.50.d:0 "For the longest time, alongside much of [Root.GetName]’s rural population, the clergymen have been one of the biggest supporters of the Lapua Movement, having spoken out in favour of our cause, thus helping spread it. Many of the more prestigious clergymen have also been apart of a support group of sorts, who have helped fund and proliferate our cause to the masses. We must reward the clergy, and strengthen their role in the new [Root.GetAdjective] state."
+finland.50.d:0 "오랫동안 [Root.GetName] 농촌 주민들 사이에서 성직자는 라푸아 운동의 열성적 지지자였으며, 우리의 대의를 퍼뜨려 주민들의 지지를 불러모으는 역할을 하였습니다. 또한 많은 명망있는 성직자들이 우리의 대의를 대중들에게 전달하고 후원금을 모으는 역할을 하고 있습니다. 우리는 이들의 수고에 보상하여 새로운 [Root.GetAdjective] 국가 내에서의 그들의 역할을 강화해야 합니다."
 finland.50.a:0 "당연한 일일 뿐이다."
 
 finland.51.t:0 "의회 폐지"
-finland.51.d:0 "Rather than a parliament to lead the [Root.GetAdjective] nation to greatness, what is in fact needed is a strong executive who will work in the interests of both the nation and the people. Political parties and members of parliament are inherently self-serving and cannot save the [Root.GetAdjective] nation from destruction, as seen by the [Root.GetAdjective] Civil War. We must abolish the parliament at once and swiftly begin to carry out our directives."
+finland.51.d:0 "[Root.GetAdjective]를 위대하게 만들기 위해서는 의회보다도 국가와 국민들을 위해 일할 강력한 지도자가 필요합니다. 의회의 정당들과 의원들은 자기 잇속만 챙기고 있고, [Root.GetAdjective] 내전과 같은 절망적인 상황에서 [Root.GetAdjective]를 지켜낼 수 없습니다. 우리는 하루빨리 의회를 폐지하여야 합니다."
 finland.51.a:0 "뿌리까지 썩은 이런 제도 따위..."
 
 finland.52.t:0 "핀란드가 올란드를 재무장하다!"
