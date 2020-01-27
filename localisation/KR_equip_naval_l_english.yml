@@ -1,0 +1,299 @@
+﻿l_english:
+
+#Reorganised painfully by Sbadskins and PPsyrius
+
+###############################
+### General Naval Equipment ###
+###############################
+
+### Folders ###
+escort_ships_folder:0 "함선 설계"
+escort_ships_folder_desc:0 "해군은 어느 국가에나 중요합니다."
+escort_ships_nonmtg_folder:0 "함선 설계"
+escort_ships_nonmtg_desc:0 "해군은 어느 국가에나 중요합니다."
+
+### Technologies ###
+weltkrieg_destroyer_nonmtg:0 "세계대전기 구축함"
+weltkrieg_destroyer_nonmtg_desc:0 "세계대전기 구축함"
+
+convoy_1:0 "수송선"
+naval_equipment:0 "함선"
+acr_tech:0 "초기 장갑함, 대형 장갑함, 재설계된 장갑함"
+ex_cvh_tech:0 "실험적 중항공모함"
+el_cvh_tech:0 "초기 중항공모함"
+cvh_tech:0 "중항공모함"
+ebc_tech:0 "고속순양전함, 방호순양전함, 세계대전기 순양전함, 초기 고속전함"
+nav_infra_one:0 "해군 기반시설 결정"
+nav_infra_two:0 "개선된 해군 기반시설 결정"
+nav_infra_three:0 "진보된 해군 기반시설 결정"
+nav_av_one:0 "실험적인 해군 항공 결정"
+nav_av_two:0 "기초 해군 항공 결정"
+nav_av_three:0 "진보된 해군 항공 결정"
+
+## Shiphull locs for Non-MTG
+ship_hull_submarine:0 "잠수함"
+ship_hull_submarine_desc:0 "잠수함은 선박을 공격하기 위해 설계된 은밀한 함선입니다. 대형 잠수함은 더 강력하며 넓은 작전반경을 가지고 있으며, 갑판에 설치된 함포로 수상전과 해안 포격 지원을 미미하게나마 수행할 수 있습니다."
+ship_hull_cruiser:0 "순양함"
+ship_hull_cruiser_desc:0 "적절한 크기의 보조함으로 주력함을 적 소형함으로부터 보호하는 역할을 주로 맡습니다. 또한, 대형함에게 한방 먹일 수 있는 강력한 어뢰를 발사할 수 있습니다."
+ship_hull_panzerschiff:0 "장갑함"
+ship_hull_panzerschiff_desc:0 "장갑함은 중구경 함포를 장착한 중형 함선입니다. 소형함 킬러 역할에 최적이나, 값싼 유사 주력함 역할도 할 수 있습니다."
+ship_hull_light:0 "구축함"
+ship_hull_light_desc:0 "가장 가벼운 보조함으로 함대에서 주력함을 호위하고 잠수함을 격멸하는 역할을 맡습니다. 또한, 스크린이 엉성한 적 주력함을 어뢰로 위협할 수도 있습니다."
+ship_hull_carrier:0 "항공모함"
+ship_hull_carrier_desc:0 "비행대를 수송하고 해전에 전개시킬 수 있는 부유 활주로입니다. 해역 봉쇄 임무에 탁월합니다."
+ship_hull_heavy_carrier:0 "중항공모함"
+ship_hull_heavy_carrier_desc:0 "중항공모함은 일반적으로 전함이나 드레드노트의 설계에 기반을 두고 있습니다. 따라서 내부 공간이 넓으며 건조 비용도 비쌉니다."
+ship_hull_fast_battleship:0 "고속전함"
+ship_hull_fast_battleship_desc:0 "고속전함은 적절한 크기의 다재다능한 주력함입니다. 공,수,주 능력이 적절하게 분배되어 있지만, 반대로 말하면 어느 면에서도 우세를 점하지 못합니다."
+ship_hull_dreadnought:0 "드레드노트"
+ship_hull_dreadnought_desc:0 "예산이 허락하는 한 가장 큰 함포와 가장 두꺼운 장갑을 두른 거대한 주력함입니다. 엄청나게 비싸기 때문에 보조함의 호위를 받을 가치가 충분히 있습니다."
+
+
+#ship_hull_dreadnought_0:0 "초기 드레드노트 선체"
+#ship_hull_dreadnought_0_desc:0 "The Dreadnought (constructed 1905-6) revolutionized capitol warship design, instantly rendering obsolete all previous battleships and triggering a naval arms race between Britain and Germany. Her 'all big gun' main armament was significantly more powerful than the mixed batteries of pre-Dreadnoughts, and her steam turbine propulsion granted her superior speed. Navies around the world rushed to copy the British design, leading to an explosion in naval spending and a major increase in the firepower afloat. Most were armed with ten to twelve main guns, in twin turrets, of 11 to 12 inches or equivalent."
+ship_hull_dreadnought_1:0 "세계대전 이전 드레드노트 선체" #Improved
+ship_hull_dreadnought_1_desc:0 "A jump in size over preceding Dreadnoughts, these 'super-Dreadnoughts' were the escalation of the design innovations of the Dreadnought designs. Faster, with heavier armour, their major distinguishing feature was their superior armament: most carried five twin turrets, with guns of 12 to 13.5 inch or equivalent, arraigned so as to allow all to fire broadside and with fore and aft turrets in a superfiring configuration. This heavier, more concentrated, firepower made them considerably more deadly than the early Dreadnought classes, and these designs would enter the Weltkrieg as the leading warships of major navies. While eclipsed by the new classes devised during the war, they remained formidable warships, and many would remain in service, especially in secondary fleets, for many years after it ended."
+weltkrieg_dreadnought_hull_nonmtg:0 "세계대전기 드레드노트 선체"
+weltkrieg_dreadnought_hull_nonmtg_desc:0 "Designed shortly before the Weltkrieg began, and completed while it raged, these classes represented the highest level of naval development prior to the start of that conflict. They were the fleet-leading warships of the war, and would remain highly potent long after it ended. While they were notably faster than the Dreadnoughts before them their most notable differentiating feature was their escalated armament: they carried eight to ten main guns, of 14 to 15 inch or equivalent, most in twin turrets but a few in new triple turrets. Their devastating firepower and heavy armour guaranteed that they would be at the heart of their battle fleets, but those continued advances came at quickly escalating prices. Even more so than the warships before them these classes demanded huge investments, though they were only shadow of what was to come."
+weltkrieg_dreadnought_hull:0 "세계대전기 드레드노트 선체"
+weltkrieg_dreadnought_hull_desc:0 "Designed shortly before the Weltkrieg began, and completed while it raged, these classes represented the highest level of naval development prior to the start of that conflict. They were the fleet-leading warships of the war, and would remain highly potent long after it ended. While they were notably faster than the Dreadnoughts before them their most notable differentiating feature was their escalated armament: they carried eight to ten main guns, of 14 to 15 inch or equivalent, most in twin turrets but a few in new triple turrets. Their devastating firepower and heavy armour guaranteed that they would be at the heart of their battle fleets, but those continued advances came at quickly escalating prices. Even more so than the warships before them these classes demanded huge investments, though they were only shadow of what was to come."
+ship_hull_dreadnought_2:0 "세계대전기 드레드노트 선체" #Early Weltkrieg
+ship_hull_dreadnought_2_desc:0 "Designed shortly before the Weltkrieg began, and completed while it raged, these classes represented the highest level of naval development prior to the start of that conflict. They were the fleet-leading warships of the war, and would remain highly potent long after it ended. While they were notably faster than the Dreadnoughts before them their most notable differentiating feature was their escalated armament: they carried eight to ten main guns, of 14 to 15 inch or equivalent, most in twin turrets but a few in new triple turrets. Their devastating firepower and heavy armour guaranteed that they would be at the heart of their battle fleets, but those continued advances came at quickly escalating prices. Even more so than the warships before them these classes demanded huge investments, though they were only shadow of what was to come."
+#ship_hull_dreadnought_2_5:0 "후기 세계대전기 드레드노트 선체"
+#ship_hull_dreadnought_2_5_desc:0 "Incorporating the lessons of first real major naval battles of the Dreadnought Age, most notably the First Battle of Jutland, these designs were highly convergent: increased speed, ever heavier armour, and a main armament of four twin 16 to 16.5 inch or equivalent guns in a two fore, two aft superfiring turret configuration, though some later designs of the type added a fifth turret. Such powerful warships came at great price, and their construction exerted considerable strain on those nations that built them. While begun during the Weltkrieg none were completed in time to take part in it, and as a result their designs remained largely untested. Produced in far greater numbers than the mammoth ships that followed them, these classes would form the cores of most of the world's major navies long after the war, and all the way into the 1930s."
+ship_hull_dreadnought_3:0 "전간기 드레드노트 선체" #Heavy
+ship_hull_dreadnought_3_desc:0 "The rapid increase of resources devoted to naval construction after the end of major land conflict during the Weltkrieg initially produced these designs, which featured the beginnings of the trends towards sudden growth in size, firepower, armour, calibre and of course, cost. Such vessels set the world's leading naval powers apart from the mere pretenders to greatness, but they had their issues; their rapid development and rushed construction led to design flaws and persistent mechanical problems. These designs were armed with eight to ten 18 inch or equivalent main guns, and had the protection to go toe-to-toe with similarly armed ships."
+ship_hull_dreadnought_4:0 "개선된 드레드노트 선체" #Super Heavy
+ship_hull_dreadnought_4_desc:0 "As the Dreadnought Race reached its height, these true monsters were conceived. Far greater in size and firepower than anything that came before, their cost was staggering, and few nations could afford to even consider constructing them. Nonetheless, those that did found themselves in possession of truly mighty weapons of naval supremacy. Even more so than the generation before them, they suffered from the conditions of their conception. Rushed design work, last minute and improvised redesigns during construction, shortages of the huge amount of resources they required, immense pressure to rush construction, and the sheer size and complexity of their massive mechanisms, all led to design flaws and vulnerabilities beneath their vast armoured hides. These designs were armed with twelve to fifteen 18 inch or equivalent main guns."
+ship_hull_dreadnought_5:0 "진보된 드레드노트 선체"
+ship_hull_dreadnought_5_desc:0 "Once the afterglow of the great Dreadnought Race had faded away, naval designers took stock of the position of dreadnoughts in future planning. Discarding speed as a major goal, with the understanding that the new generation of so-called 'fast battleships' would assume that task, these designs instead focused on extreme, unprecedented, armour protection. Advanced 16 inch guns could equal the armour penetration of 18 inches, while being less expensive. .Drawing lessons from the navies possessing heavy ordinance most of these designs were armed with those types of advanced 16 inch guns, or equivalents, normally arranged in five triple turrets."
+ship_hull_dreadnought_6:0 "현대 드레드노트 선체"
+ship_hull_dreadnought_6_desc:0 "Even as most navies, with varying degrees of reluctance and dismay, were forced to concede the ascendancy of carriers over traditional gun warships, some naval designers still dreamed of creating the 'ultimate battleship'. Girded in nearly impenetrable armour, bristling with anti-aircraft batteries, and armed with six triple 16 inch turrets or equivalent extreme armament, these designs represented the very pinnacle of heavy warship design. Conceived in the twilight of the age of gun warships, these designs were seen as obsolete even before their drafting was completed, mainly by the advocates of ascendant airpower."
+
+dn_sh_gun_module_one:0 "세계대전 이후 초중함포 업그레이드"
+dn_sh_gun_module_one_desc:0 ""
+dn_sh_gun_module_two:0 "전간기 초중함포 업그레이드"
+dn_sh_gun_module_two_desc:0 ""
+dn_sh_gun_module_three:0 "개선된 초중함포 업그레이드"
+dn_sh_gun_module_three_desc:0 ""
+dn_sh_gun_module_four:0 "진보된 초중함포 업그레이드"
+dn_sh_gun_module_four_desc:0 ""
+
+dn_hull_module_one:0 "세계대전 이후 드레드노트 선체 부품"
+dn_hull_module_one_desc:0 ""
+dn_hull_module_two:0 "전간기 드레드노트 선체 부품"
+dn_hull_module_two_desc:0 ""
+dn_hull_module_three:0 "개선된 드레드노트 선체 부품"
+dn_hull_module_three_desc:0 ""
+dn_hull_module_four:0 "진보된 드레드노트 선체 부품"
+dn_hull_module_four_desc:0 ""
+
+interwar_heavy_carrier_hull_nonmtg:0 "개장된 중항공모함 선체"
+interwar_heavy_carrier_hull_nonmtg_desc:0 "The first large aircraft carriers, these ships were built on hulls that were originally intended for capital warships but, for various reasons, converted and completed as carriers. Only a handful of navies built such ships, and their designs varied greatly; their aircraft capacities ranged from the low sixties to over a hundred. There were constants though, such as retained heavily armoured belts and other gun-warship features. Semi-experimental and unreliable, they were still incredibly formidable weapons, and laid the foundations for following generations of fleet carriers."
+interwar_heavy_carrier_hull:0 "개장된 중항공모함 선체"
+interwar_heavy_carrier_hull_desc:0 "The first large aircraft carriers, these ships were built on hulls that were originally intended for capital warships but, for various reasons, converted and completed as carriers. Only a handful of navies built such ships, and their designs varied greatly; their aircraft capacities ranged from the low sixties to over a hundred. There were constants though, such as retained heavily armoured belts and other gun-warship features. Semi-experimental and unreliable, they were still incredibly formidable weapons, and laid the foundations for following generations of fleet carriers."
+
+ship_hull_heavy_carrier_1:0 "개장된 중항공모함 선체" #Experimental
+ship_hull_heavy_carrier_1_desc:0 "The first large aircraft carriers, these ships were built on hulls that were originally intended for capital warships but, for various reasons, converted and completed as carriers. Only a handful of navies built such ships, and their designs varied greatly; their aircraft capacities ranged from the low sixties to over a hundred. There were constants though, such as retained heavily armoured belts and other gun-warship features. Semi-experimental and unreliable, they were still incredibly formidable weapons, and laid the foundations for following generations of fleet carriers."
+ship_hull_heavy_carrier_2:0 "개선된 중항공모함 선체" #Early
+ship_hull_heavy_carrier_2_desc:0 "The first fleet carriers designed entirely to be such, most of these ships were significantly smaller than their predecessors, but, due to being intentionally centered on the requirements of naval aviation, were also far more reliable in that role. With better anti-aircraft defenses and properly designed runways, they generally carried around sixty aircraft."
+ship_hull_heavy_carrier_3:0 "진보된 중항공모함 선체" #Improved
+ship_hull_heavy_carrier_3_desc:0 "Continued development of fleet carrier design led to much larger models, with even higher capacities. Increased range and better design of internal systems allowed them to function more effectively as not only part of the fleet, but the centre of one. They retained the features of previous heavy carriers, large secondary batteries to engage enemy vessels at close range and a heavily armoured belt for protection. Most carried around seventy aircraft and with the new deck-edge elevators they were highly efficient at getting those craft into combat as quickly as possible."
+ship_hull_heavy_carrier_4:0 "현대 중항공모함 선체"
+ship_hull_heavy_carrier_4_desc:0 "The final pre-nuclear evolution of fleet carrier design, these ships approached the size of the first fleet carriers, while incorporating all of the design improvements made in the intervening years. Most had significant armour protection and withering AA firepower, while also being highly mechanically reliable. However, they had given up their large calibre secondary armament in exchange for dual purpose 100-127mm guns. Their general aircraft capacity was, on average, around eighty."
+
+heavy_secondaries:0 "중부포"
+heavy_secondaries_desc:0 ""
+heavy_carrier_armoured_deck:0 "장갑 갑판"
+heavy_carrier_armoured_deck_desc:0 ""
+heavy_carrier_side_lift:0 "현측 함재기 승강기"
+heavy_carrier_side_lift_desc:0 ""
+heavy_carrier_angled_deck:0 "경사 갑판"
+heavy_carrier_angled_deck_desc:0 ""
+heavy_carrier_catapult:0 "증기 캐터펄트"
+heavy_carrier_catapult_desc:0 ""
+
+### Equipment Module Categories ###
+EQ_MOD_CAT_ship_light_battery_TITLE:0 "속사포"
+EQ_MOD_CAT_ship_sub_snorkel_TITLE:0 "스노클"
+EQ_MOD_CAT_ship_torpedo_TITLE:0 "어뢰 발사관"
+EQ_MOD_CAT_ship_airplane_launcher_TITLE:0 "함재기 시설"
+EQ_MOD_CAT_ship_torpedo_sub_TITLE:0 "어뢰실"
+EQ_MOD_CAT_ship_secondaries_TITLE:0 "부포"
+EQ_MOD_CAT_ship_light_medium_battery_TITLE:0 "순양함포"
+EQ_MOD_CAT_ship_medium_battery_TITLE:0 "장갑함포"
+EQ_MOD_CAT_ship_heavy_battery_TITLE:0 "중함포"
+EQ_MOD_CAT_ship_super_heavy_battery_TITLE:0 "초중함포"
+EQ_MOD_CAT_light_ship_engine_TITLE:0 "경함선 엔진"
+EQ_MOD_CAT_cruiser_ship_engine_TITLE:0 "순양함 엔진"
+EQ_MOD_CAT_heavy_ship_engine_TITLE:0 "중함선 엔진"
+EQ_MOD_CAT_carrier_ship_engine_TITLE:0 "항공모함 엔진"
+EQ_MOD_CAT_sub_ship_engine_TITLE:0 "잠수함 엔진"
+EQ_MOD_CAT_ship_radar_TITLE:0 "레이다"
+EQ_MOD_CAT_ship_sonar_TITLE:0 "소나"
+EQ_MOD_CAT_ship_fire_control_system_TITLE:0 "사격 통제 장치"
+EQ_MOD_CAT_ship_depth_charge_TITLE:0 "대잠전"
+EQ_MOD_CAT_ship_mine_warfare_TITLE:0 "기뢰전"
+EQ_MOD_CAT_ship_mine_layer_sub_TITLE:0 "기뢰전"
+EQ_MOD_CAT_ship_anti_air_TITLE:0 "대공"
+fixed_ship_torpedo_slot:0 "어뢰"
+EQ_MOD_CAT_ship_heavy_armor_TITLE:0 "중장갑 설계"
+EQ_MOD_CAT_ship_super_heavy_armor_TITLE:0 "초중장갑 설계"
+EQ_MOD_CAT_ship_cruiser_armor_TITLE:0 "순양함 장갑 설계"
+EQ_MOD_CAT_ship_carrier_armor_TITLE:0 "갑판장갑 설계"
+EQ_MOD_CAT_ship_deck_space_TITLE:0 "격납고 공간"
+EQ_MOD_CAT_ship_extra_fuel_tank_TITLE:0 "연료 저장고"
+EQ_MOD_CAT_ship_mine_layer_TITLE:1 "기뢰부설 장비"
+EQ_MOD_CAT_ship_cruiser_specialization_TITLE:0 "순양함 특화"
+EQ_MOD_CAT_ship_deck_space_10_TITLE:0 "좁은 격납고 공간"
+EQ_MOD_CAT_ship_ps_armor_TITLE:0 "장갑함 장갑 설계"
+EQ_MOD_CAT_ship_heavy_secondaries_TITLE:0 "초중부포"
+EQ_MOD_CAT_ship_angled_deck_TITLE:0 "경사 갑판"
+EQ_MOD_CAT_ship_side_lift_TITLE:0 "현측 함재기 승강기"
+
+### Equipment Module Slots ###
+EQ_MOD_SLOT_fixed_ship_battery_slot_TITLE:0 "함포"
+EQ_MOD_SLOT_fixed_ship_secondaries_slot_TITLE:0 "부포"
+EQ_MOD_SLOT_fixed_ship_anti_air_slot_TITLE:0 "대공"
+EQ_MOD_SLOT_fixed_ship_torpedo_slot_TITLE:0 "어뢰"
+EQ_MOD_SLOT_fixed_ship_deck_slot_1_TITLE:0 "갑판 공간 1"
+EQ_MOD_SLOT_fixed_ship_deck_slot_2_TITLE:0 "갑판 공간 2"
+EQ_MOD_SLOT_fixed_ship_fire_control_system_slot_TITLE:0 "사격 통제 장치"
+EQ_MOD_SLOT_fixed_ship_radar_slot_TITLE:0 "레이다/소나"
+EQ_MOD_SLOT_fixed_ship_engine_slot_TITLE:0 "엔진"
+EQ_MOD_SLOT_fixed_ship_armor_slot_TITLE:0 "장갑"
+EQ_MOD_SLOT_front_1_custom_slot_TITLE:0 "선수 1 슬롯"
+EQ_MOD_SLOT_front_2_custom_slot_TITLE:0 "선수 2 슬롯"
+EQ_MOD_SLOT_mid_1_custom_slot_TITLE:0 "중간 1 슬롯"
+EQ_MOD_SLOT_mid_2_custom_slot_TITLE:0 "중간 2 슬롯"
+EQ_MOD_SLOT_mid_3_custom_slot_TITLE:0 "중간 3 슬롯"
+EQ_MOD_SLOT_rear_1_custom_slot_TITLE:0 "선미 1 슬롯"
+EQ_MOD_SLOT_rear_2_custom_slot_TITLE:0 "선미 2 슬롯"
+EQ_MOD_SLOT_hull_specialization_slot_TITLE:0 "선체 특화"
+EQ_MOD_SLOT_starboard_1_custom_slot_TITLE:0 "우현 1 슬롯"
+EQ_MOD_SLOT_starboard_2_custom_slot_TITLE:0 "우현 2 슬롯"
+EQ_MOD_SLOT_port_1_custom_slot_TITLE:0 "좌현 1 슬롯"
+EQ_MOD_SLOT_port_2_custom_slot_TITLE:0 "좌현 2 슬롯"
+
+
+########################################
+### Country Specific Naval Equipment ###
+########################################
+
+#ATTENTION! THIS FILE IS SORTED BY TAG, NOT BY NAME
+
+# Fleet Name
+FLEET_NAME_USA:0 "USS Navy Group $NUMBER$"
+FLEET_NAME_CSA:0 "CSS Navy Group $NUMBER$"
+FLEET_NAME_GER:0 "$COUNTRY$ Flotta $NUMBER$"
+FLEET_NAME_SOV:0 "$NUMBER$-ya Sovetskaya Flotiliya"
+FLEET_NAME_RUS:0 "$NUMBER$-ya Rossiyskiy Flotiliya"
+FLEET_NAME_HOL:0 "$NUMBER$. Vloot"
+FLEET_NAME_OTT:0 "$NUMBER$. Donanma Firkasi"
+FLEET_NAME_SIA:0 "Korng Ruea Thi $NUMBER$."
+FLEET_NAME_AUS:0 "$NUMBER$. Flotte"
+FLEET_NAME_NOR:0 "$NUMBER$. Sjøforsvarsdistrikt"
+
+### Commune of France (COF) ###
+# Tech
+FRA_dd_gun_module_two:0 "단장 138.6mm (Mle 1929)"
+FRA_dd_gun_module_three:0 "연장 130mm Mle 1935"
+FRA_dd_gun_module_four:0 "연장 130mm Rev 1942"
+FRA_cruiser_gun_module_two:0 "3연장 152mm/55 Mle 1930"
+FRA_cruiser_gun_module_three:0 "3연장 152mm/55 Mle 1930 RPC"
+FRA_cruiser_gun_module_four:0 "3연장 152mm/55 자동장전포"
+FRA_fbb_gun_module_two:0 "4연장 330mm (Mle 1931)"
+FRA_fbb_gun_module_three:0 "4연장 380mm (Mle 1935)"
+FRA_fbb_gun_module_four:0 "4연장 406mm (Mle 1941)"
+
+# Module
+FRA_ship_light_battery_1:0 "100mm/45 Mle 1891"
+FRA_ship_light_battery_2:0 "138mm/55 Mle 1910"
+FRA_ship_light_battery_3:0 "138.6mm/50 Mle 1929"
+FRA_ship_light_battery_4:0 "130mm/45 Mle 1935"
+FRA_dp_light_battery:0 "130mm/45 Rev 1942"
+FRA_ship_light_medium_battery_1:0 "138mm/40 Mle 1923"
+FRA_ship_light_medium_battery_2:0 "152mm/55 Mle 1930"
+FRA_ship_light_medium_battery_3:0 "152mm/55 Mle 1930 RPC"
+FRA_ship_light_medium_battery_4:0 "152mm/55 자동장전포"
+FRA_ship_medium_battery_0:0 "194mm/45 Mle 1902"
+FRA_ship_heavy_battery_0:0 "305mm/45 Mle 1906"
+FRA_ship_heavy_battery_1:0 "340mm/45 Mle 1912"
+FRA_ship_heavy_battery_2:0 "330mm/50 Mle 1931"
+FRA_ship_heavy_battery_3:0 "380mm/45 Mle 1935"
+FRA_ship_heavy_battery_4:0 "406mm/45 Mle 1941"
+
+### German Empire (GER) ###
+# Tech
+GER_dd_gun_module_one:0 "단장 10.5cm SK L/45"
+GER_dd_gun_module_two:0 "연장 105mm (SK C/32)"
+GER_dd_gun_module_three:0 "단장 127mm (SK C/34)"
+GER_dd_gun_module_four:0 "연장 128mm (SK C/41)"
+GER_cruiser_gun_module_one:0 "단장 15cm SK L/45"
+GER_cruiser_gun_module_two:0 "3연장 15cm/60 SK C/25"
+GER_cruiser_gun_module_three:0 "연장 15cm/55 TBts KC/36T"
+GER_cruiser_gun_module_four:0 "연장 15cm/55 자동장전포"
+GER_ps_gun_module_one:0 "연장 210cm/45 (SK L/45)"
+GER_ps_gun_module_two:0 "연장 203mm (SK C/32)"
+GER_ps_gun_module_three:0 "연장 203mm 자동장전포"
+GER_ps_gun_module_four:0 "3연장 203mm (SK C/34)"
+GER_fbb_gun_module_one:0 "3연장 280mm (SK L/40)"
+GER_fbb_gun_module_two:0 "3연장 283mm (SK C/28)"
+GER_fbb_gun_module_three:0 "연장 380mm (SK C/34)"
+GER_fbb_gun_module_four:0 "연장 406mm (SK C/34)"
+
+# Module
+GER_ship_light_battery_1:0 "10.5cm SK L/45"
+GER_ship_light_battery_2:0 "10.5cm/45 SK C/32"
+GER_ship_light_battery_3:0 "12.7cm/45 SK C/34"
+GER_ship_light_battery_4:0 "12.7cm/45 SK C/41"
+GER_dp_light_battery:0 "12.7cm/45 SK C/41"
+GER_ship_light_medium_battery_1:0 "15cm/45 SK L/45"
+GER_ship_light_medium_battery_2:0 "15cm/60 SK C/25"
+GER_ship_light_medium_battery_3:0 "15cm/55 TBts KC/36T"
+GER_ship_light_medium_battery_4:0 "15cm/55 자동장전포"
+GER_ship_medium_battery_0:0 "24 cm K L/35"
+GER_ship_medium_battery_1:0 "21cm/45 SK L/45"
+GER_ship_medium_battery_2:0 "20.3cm/60 SK C/33"
+GER_ship_medium_battery_3:0 "20.3cm/60 자동장전포"
+GER_ship_medium_battery_4:0 "20.3cm/60 SK C/34"
+GER_ship_heavy_battery_0:0 "30.5cm/40 SK L/50"
+GER_ship_heavy_battery_1:0 "28cm/40 SK L/40"
+GER_ship_heavy_battery_2:0 "28cm/54.5 SK C/34"
+GER_ship_heavy_battery_3:0 "38cm/52 SK C/34"
+GER_ship_heavy_battery_4:0 "40.6cm/52 SK C/34"
+
+### National France (NFA) ###
+# Tech
+NFA_dd_gun_module_two:0 "단장 130mm Mle 1924"
+NFA_dd_gun_module_three:0 "4연장 130mm Mle 1932"
+NFA_dd_gun_module_four:0 "4연장 130mm Rev. 1943"
+NFA_ps_gun_module_three:0 "3연장 203mm Mle 1934"
+NFA_ps_gun_module_four:0 "3연장 203mm 자동장전포"
+
+# Module
+NFA_ship_light_battery_1:0 "100mm/45 Mle 1891"
+NFA_ship_light_battery_2:0 "138mm/55 Mle 1910"
+NFA_ship_light_battery_3:0 "130mm/40 Mle 1924"
+NFA_ship_light_battery_4:0 "130mm/45 Mle 1932"
+NFA_dp_light_battery:0 "130mm/45 Rev 1943"
+NFA_ship_medium_battery_0:0 "194mm/45 Mle 1902"
+NFA_ship_medium_battery_1:0 "194mm/50 Mle 1920"
+NFA_ship_medium_battery_2:0 "203mm/50 Mle 1924"
+NFA_ship_medium_battery_3:0 "203mm/55 Mle 1934"
+NFA_ship_medium_battery_4:0 "203mm/55 자동장전포"
+NFA_ship_heavy_battery_0:0 "305mm/45 Mle 1906"
+NFA_ship_heavy_battery_1:0 "340mm/45 Mle 1912"
+
+### Kingdom of Sweden (SWE) ###
+# Tech
+SWE_cruiser_gun_module_one:0 "Bofors 15.2cm 연장포 M03"
+SWE_cruiser_gun_module_two:0 "Bofors 15.2cm 연장포 M30"
+SWE_cruiser_gun_module_three:0 "Bofors 15.2cm 연장포 M42"
+SWE_cruiser_gun_module_four:0 "Bofors 15.2cm 연장포 Auto"
+
+# Module
+SWE_ship_light_medium_battery_1:0 "15.2 cm/50 Bofors M03"
+SWE_ship_light_medium_battery_2:0 "15.2 cm/55 Bofors M30"
+SWE_ship_light_medium_battery_3:0 "15.2 cm/53 Bofors M42"
+SWE_ship_light_medium_battery_4:0 "15.5 cm/53 Bofors Auto"

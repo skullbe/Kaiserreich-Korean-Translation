@@ -1,0 +1,36 @@
+﻿l_english:
+
+### Parties ###
+MLY_totalist_party:0 "말레이 국민사회주의당"
+MLY_totalist_party_long:0 "말레이 국민사회주의당"
+MLY_radical_socialist_party:0 "말레이 생디칼리스트당"
+MLY_radical_socialist_party_long:0 "말레이 생디칼리스트당"
+MLY_syndicalist_party:0 "농민단체당"
+MLY_syndicalist_party_long:0 "농민단체당"
+MLY_social_democrat_party:0 "말레이 인민사회주의 전선"
+MLY_social_democrat_party_long:0 "말레이 인민사회주의 전선"
+MLY_social_liberal_party:0 "말레이 인민운동당"
+MLY_social_liberal_party_long:0 "말레이 인민운동당"
+MLY_market_liberal_party:0 "국가번영당"
+MLY_market_liberal_party_long:0 "국가번영당"
+MLY_social_conservative_party:0 "인민행동당"
+MLY_social_conservative_party_long:0 "인민행동당"
+MLY_authoritarian_democrat_party:0 "동맹당"
+MLY_authoritarian_democrat_party_long:0 "동맹당"
+MLY_paternal_autocrat_party:0 "술탄 회의"
+MLY_paternal_autocrat_party_long:0 "술탄 회의"
+MLY_national_populist_party:0 "말레이 무슬림 인민당"
+MLY_national_populist_party_long:0 "말레이 무슬림 인민당"
+
+#Cosmetic Tags
+MLY_GER_subject:0 "말레이 술탄국"
+MLY_GER_subject_DEF:0 "말레이 술탄국"
+MLY_GER_subject_ADJ:0 "말레이"
+
+SAR_GER_subject:0 "사라왁 왕국"
+SAR_GER_subject_DEF:0 "사라왁 왕국"
+SAR_GER_subject_ADJ:0 "사라왁"
+
+CEY_GER_subject:0 "실론 자유국"
+CEY_GER_subject_ADJ:0 "실론"
+CEY_GER_subject_DEF:0 "실론 자유국"

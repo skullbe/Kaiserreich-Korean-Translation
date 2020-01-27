@@ -1,0 +1,47 @@
+﻿l_english:
+
+### Ideas ###
+ins_exile:0 "네덜란드 망명정부"
+ins_exile_desc:0 "네덜란드 정부가 본토에서 성공적으로 탈출하여, 동인도제도에 망명정부를 구성하였습니다."
+
+### Flags ###
+holex_indys_delight:0 "빌헬미나 직속통치"
+holex_ww2_gov_in_exile:0 "ARP가 망명정부 주도"
+
+### Focus Trees ###
+dut_in_ex:0 "네덜란드 망명정부"
+
+### Events ###
+hol_in_ex.1.t:0 "네덜란드 망명정부"
+hol_in_ex.1.d:0 "생디칼리스트 민병대에 의한 생포 시도를 피하여 왕가는 다수의 고위 지도층과 함께 자바 섬에 도착하여 망명 네덜란드 왕국의 수립을 선포하면서, 언젠가 생디칼리슴으로부터 우리의 고향을 자유롭게 해방시킬 것임을 선언했습니다!"
+hol_in_ex.1.a:0 "새로운 시작!"
+hol_in_ex.2.t:0 "네덜란드 망명정부 외교 정책"
+hol_in_ex.2.d:0 "최근 생디칼리스트 쓰레기들에 의해 본토가 장악당한 초유의 사태는 한때 자랑스럽던 네덜란드 식민제국의 유산을 불안정한 위치에 남겨두었습니다. 우리의 조국을 생디칼리스트들로부터 해방시키기 위해서는 주요 세력 중 하나에 가입하는 것이 합리적으로 보입니다. 어떤 동맹에 가입하는 것이 좋을까요?"
+hol_in_ex.2.a:0 "우리는 협상국과 특별한 유대 관계가 있다"
+hol_in_ex.2.b:0 "우린 일본과 협력할 수 있다"
+hol_in_ex.2.c:0 "우린 독일과 협력할 수 있다"
+hol_in_ex.2.e:0 "우리는 동맹 따위는 필요 없다"
+hol_in_ex.3.t:0 "네덜란드 망명 정부가 협상국 가입을 원합니다"
+hol_in_ex.3.d:0 "네덜란드 망명 정부가 협상국 참여를 요청했습니다. 여당 내각과 군대를 포함한 많은 사회에서 친-협상국 정책이 인기 있기 때문에 이상한 일은 아닙니다. 추방된 왕족들이 우리의 동맹에 참여하는 것을 허락할까요?"
+hol_in_ex.3.a:0 "좋아!"
+hol_in_ex.3.b:0 "오히려 거부한다"
+hol_in_ex.4.t:0 "네덜란드 망명 정부가 우리의 동맹 가입을 원합니다"
+hol_in_ex.4.d:0 "네덜란드 망명 정부가 우리의 동맹 참여를 요청했습니다. 여당 내각과 군대를 포함한 많은 사회에서 친-일본 정책이 인기 있기 때문에 이상한 일은 아닙니다. 추방된 왕족들이 우리의 동맹에 참여하는 것을 허락할까요?"
+hol_in_ex.4.a:0 "좋아!"
+hol_in_ex.4.b:0 "오히려 거부한다"
+hol_in_ex.5.t:0 "네덜란드 망명 정부가 제국 조약 가입을 원합니다"
+hol_in_ex.5.d:0 "네덜란드 망명 정부가 제국 조약 참여를 요청했습니다. 여당 내각과 군대를 포함한 많은 사회에서 친-제국 조약 정책이 인기 있기 때문에 이상한 일은 아닙니다. 추방된 왕족들이 우리의 동맹에 참여하는 것을 허락할까요?"
+hol_in_ex.5.a:0 "좋아!"
+hol_in_ex.5.b:0 "오히려 거부한다"
+hol_in_ex.6.t:0 "우리의 요청이 거절당했습니다!"
+hol_in_ex.6.d:0 "캐나다인들은 우리와 동맹을 맺는 것을 원하지 않는 것 같습니다..."
+hol_in_ex.6.a:0 "비참한 실수로군"
+hol_in_ex.7.t:0 "우리의 요청이 거절당했습니다!"
+hol_in_ex.7.d:0 "일본인들은 우리와 동맹을 맺는 것을 원하지 않는 것 같습니다..."
+hol_in_ex.7.a:0 "비참한 실수로군"
+hol_in_ex.8.t:0 "우리의 요청이 거절당했습니다!"
+hol_in_ex.8.d:0 "독일인들은 우리와 동맹을 맺는 것을 원하지 않는 것 같습니다..."
+hol_in_ex.8.a:0 "비참한 실수로군"
+hol_in_ex.9.t:0 "독립을 얻은 인술린디아"
+hol_in_ex.9.d:0 "Following our formal indepedence from [HOL.GetNameDef], Nationalist leaders in our country rapidly put forwards a proposal to change our name and flag. Honouring the legacy of the Majapahit Empire and our Austronesion legacy, the colours of our national flag will be Red and White, the Red Mother Earth and White Father Sky.\n\nAs for the name of our country, it shall be as the English navigator George Windsor Earl once proposed, Indós Nèsos, the Indian Island.\n\nIndonesia."
+hol_in_ex.9.a:0 "우리는 더 이상 네덜란드가 아니다. 인술린디아가 일어선다!"

@@ -1,0 +1,93 @@
+﻿l_english:
+
+# This is the overwrite file for vanilla localisation, anything here will replace the vanilla localisation of the same string
+# It is broken up into two parts
+# Part one is significantly changed (like has a totally new meaning) from vanilla and needs translating
+# Part two just has spelling and grammar fixes, so doesn't need to get translated
+
+################
+### Part One ###
+################
+
+### core_l_english
+EFFECT_UNLOCK_DECISION:0 "결정 해금: £decision_icon_small $NAME|H$$EFFECT$"
+MENU_HOMEPAGE:0 "카이저라이히 디스코드"
+MENU_FORUM:0 "카이저라이히 포럼\n패러독스 포럼에 로그인 한 후 열람할 수 있습니다"
+MENU_FACEBOOK:0 "카이저라이히 스팀"
+MENU_TWITTER:0 "카이저라이히 트위터"
+
+LOADING_GUI:0 "명예로운 평화에 서명하는 중"
+LOADING_HISTORY:0 "트로츠키를 은둔시키는 중"
+LOADING_SAVEGAME:0 "역사를 다시 쓰는 중: $NAME$"
+LOADING_SAVEGAME_NO_NAME:0 "역사를 다시 쓰는 중"
+LOADING_DATABASES:0 "생디칼리스트들을 숙청하는 중"
+LOADING_MAP_SPRITES:0 "군주주의자들을 비난하는 중"
+LOAD_GFX_PDXMAP_SHADERS:0 "사슬을 끊는 중"
+LOAD_GFX_PDXMAP_TERRAIN:0 "해가 떠있는 곳을 찾는 중"
+LOAD_GFX_PDXMAP_BORDERS:0 "몽골 제국을 부활시키는 중"
+LOAD_GFX_PDXMAP_TEXTURES:0 "서방 제국주의자들을 추방하는 중"
+LOAD_GFX_PDXMAP_TREES:0 "케렌스키를 암살하는 중"
+LOAD_GFX_PDXMAP_RIVERS:0 "모든 사람을 왕으로 만드는 중"
+LOAD_GFX_PDXMAP_STATIC_OBJECTS:0 "부를 공유하는 중"
+LOAD_EVENTS:0 "이중제국을 중앙집중화 시키는 중"
+LOAD_GFX:0 "아시아에서 지상전을 치르는 중"
+LOADING_MAIN_MENU:0 "쓰러져가는 제국을 받치는 중"
+PRECALC_NAVAL_DIST:0 "상하이에서 밀수하는 중"
+EXITING_TO_FRONTEND:0 "나폴레옹을 복권시키는 중"
+LOAD_INIT:0 "카이저리헤 마리네를 배치시키는 중"
+LOAD_FLAGS:0 "미국의 민주주의를 구해내는 중"
+PROC_FLAGS:0 "중화제국을 재건하는 중"
+INIT_MAP_LOGIC:0 "아프리카로 탈출하는 중"
+INIT_GAMESTATE:0 "유럽의 환자를 치료하는 중"
+EXECUTE_HISTORY:0 "라인 강을 바라보는 중"
+CREATING_CHKSUM:0 "직속 통치를 실시하는 중"
+GENERATING_GRADIENT_BORDERS:0 "혁명을 배반하는 중"
+
+### deployment_l_english
+DIVISION_EQUIPMENT:0 "사단 장비"
+
+### ideas_l_english
+government:0 "법률"
+minister:0 "정부"
+military_staff:0 "군사 참모"
+mobilization_laws:0 "징병법"
+person_of_influence:0 "영향력 있는 인물"
+KR_trade_laws:0 "무역법"
+KR_economy:0 "경제법"
+EFFECT_CHANGE_LAW_KR_economy:0 "경제법을 '$NAME|Y$'으로 변경합니다. 변경시 효과 ($DESC$)."
+EFFECT_CHANGE_LAW_KR_trade_laws:0 "경제법을 '$NAME|Y$'으로 변경합니다. 변경시 효과 ($DESC$)."
+aircraft_manufacturer:0 "항공기 제조사"
+materiel_manufacturer:0 "군수품 제조사"
+industry_concern:0 "산업 업체"
+chief_of_staff:0 "참모총장"
+chief_of_army:0 "육군 참모"
+chief_of_navy:0 "해군 참모"
+chief_of_air_force:0 "공군 참모"
+
+### politics_l_english
+POLITICS_LEADER:0 "§T정부수반: $LEADER|H$§!"
+POLITICS_NEXT_ELECTION:0 "선거: $DATE|H$"
+RELEASE_NATION_TITLE:0 "경고"
+RELEASE_NATION_DESC:0 "정말로 $COUNTRY|H$을(를) 해방시키시겠습니까?\n\n§R국가를 임의로 해방시킬 경우 많은 버그가 일어날 수 있습니다!§!"
+REMOVE_IDEA:0 ""
+
+### state_l_english
+twelve:0 "초거대 도시 지역"
+eleven:0 "거대 도시 지역"
+nine:0 "인구밀도가 매우높은 도시 지역"
+eight:0 "인구밀도 높은 도시 지역"
+seven:0 "발전하고 있는 도시 지역"
+six:0 "도시 지역"
+five:0 "인구밀도 낮은 도시 지역"
+four:0 "개발된 시골 지역"
+three:0 "개발중인 시골 지역"
+two:0 "시골 지역"
+one:0 "목축 지역"
+zero:0 "소수 민족 거주지"
+wasteland:0 "불모지"
+one_island:0 "작은 섬"
+zero_island:0 "아주 작은 섬"
+
+################
+### core_l_english
+UNLOCK_COMPLETE_EFFECT:0 "$WHO|H$이(가) $LIST|H$ 중점을 완료함\n"

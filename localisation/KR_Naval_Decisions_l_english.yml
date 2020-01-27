@@ -1,0 +1,18 @@
+﻿l_english:
+
+naval_decisions:0 "해군 결정"
+naval_decisions_desc:0 "과거의 우리는 해군에 더 투자할 능력이 부족했거나 해양강국과 경쟁할 기반시설이 부족했기 때문에, 이 분야에 대한 우리의 기술 대부분이 시대에 뒤떨어져 있고 전 세계의 놀림거리가 되고 있습니다. 그러나 시대의 흐름을 따르기 위해 현재 우리의 £mapicon_port_strike_result_text §Y기반시설§! 및 £navy_experience §Y해군 연구§! 기술이 개발 중에 있습니다."
+
+gen_naval_hire_designer:0 "외국 선박 설계사 고용"
+gen_naval_hire_designer_desc:0 "우리나라는 드디어 선박 건조 역량을 갖추게 되었지만, 제대로 된 설계사가 부족한 상황입니다. 때문에, 최소한 현재로서는 외국 설계사를 고용하여 더 좋은 선박 설계를 해야합니다."
+
+gen_naval_navy_buildup:0 "해군에 더 많은 자원 배정"
+gen_naval_navy_buildup_desc:0 "우리는 선박을 건조할 자원은 있지만, 해군은 없는 상태입니다. 새로운 선박을 건조하는 데 더 많은 자원을 투입하여 해군력 증강을 가속화시킬 수 있습니다. \n§Y이 결정은 8척 이상의 선박이 있을 때 자동으로 취소되거나 임의로 취소 할 수 있으며, 30일 후에 결정이 다시 나타날 것입니다 (조건 충족시).§!"
+
+gen_naval_cancel_navy_buildup:0 "자원 집중 취소"
+gen_naval_cancel_navy_buildup_desc:0 "현재 상황에서 해군에 대한 추가적인 자원 지출에 대해 의구심이 들며, 추가적인 자원 투입을 취소하는 것을 고려해봐야합니다. \n§Y자금을 다시 배정 할 수 있을 때까지 30일이 걸릴 것입니다§!"
+
+cancel_resources_diversion:0 "자원 집중을 §H취소§!하였습니다."
+
+gen_naval_hire_advisor:0 "외국 해군 고문 고용"
+gen_naval_hire_advisor_desc:0 "우리는 현대 해군 전술에 대해서는 전무하지만, 어쩌면 우리에게 전술을 가르쳐줄 외국인을 고용할 수 있을 것입니다."
