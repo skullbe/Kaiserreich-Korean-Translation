@@ -468,7 +468,7 @@ finland.28.d.soclib:0 "지지자들에게 보답하기 위해, 농업연맹은 �
 finland.28.a:0 "해야 할 일을 했을 뿐이다."
 
 finland.29.t:0 "핀란드 사회민주당"
-finland.29.d:0 "[Root.GetAdjective] 내전 이전부터 극도로 좌경화된 시각을 갖고 있던 것으로 알려진 [Root.GetName] 사회민주당 잔존 당원들은 그들의 기존 목표를 유지하면서도 [Root.GetAdjective] 유권자들에게 더 친근하게 다가가고 더 애국적인 정당으로 보이기 위해 Väinö Tanner의 지도하에 들어왔습니다. \n\n 노동자 권리 확대, [Root.GetName]의 기업 규제, 지속적인 국가 개혁이라는 사회민주당의 목표는 그대로 유지될 것입니다."
+finland.29.d:0 "[Root.GetAdjective] 내전 이전부터 극도로 좌경화된 시각을 갖고 있던 것으로 알려진 [Root.GetName] 사회민주당 잔존 당원들은 그들의 기존 목표를 유지하면서도 [Root.GetAdjective] 유권자들에게 더 친근하게 다가가고 더 애국적인 정당으로 보이기 위해 Väinö Tanner의 지도하에 들어왔습니다. \n\n노동자 권리 확대, [Root.GetName]의 기업 규제, 지속적인 국가 개혁이라는 사회민주당의 목표는 그대로 유지될 것입니다."
 finland.29.a:0 "[Root.GetName]에 새로운 시대가 도래했다!"
 
 finland.30.t:0 "핀란드 노동조합연합 창설"
@@ -476,7 +476,7 @@ finland.30.d:0 "노동조합들이 더 효과적으로 활동할 수 있게 하�
 finland.30.a:0 "흥미롭군."
 
 finland.31.t:0 "농업동맹"
-finland.31.d:0 "1906년 [Root.GetName]의 농민들에 의해 창설된 농업동맹은 오랫동안 [Root.GetName]의 점진적 지방분권화를 지지해 왔습니다. 오늘날 농업동맹은 군주주의에 대항하는 큰 세력이 되었습니다. \n\n 지금까지 그랬던 것처럼, 농업동맹의 목표는 [Root.GetAdjective]의 독립과 정치권력 분권화, 농민 지원입니다."
+finland.31.d:0 "1906년 [Root.GetName]의 농민들에 의해 창설된 농업동맹은 오랫동안 [Root.GetName]의 점진적 지방분권화를 지지해 왔습니다. 오늘날 농업동맹은 군주주의에 대항하는 큰 세력이 되었습니다. \n\n지금까지 그랬던 것처럼, 농업동맹의 목표는 [Root.GetAdjective]의 독립과 정치권력 분권화, 농민 지원입니다."
 finland.31.a:0 "[Root.GetName]에 새로운 시대가 도래했다!"
 
 finland.32.t:0 "[Root.GetNameDef] 내의 [SWE.GetAdjective]계의 권리"
