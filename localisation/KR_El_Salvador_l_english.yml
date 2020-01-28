@@ -59,14 +59,14 @@ ELS_foreign_asset_status:0 "§GWe'll decide the status of foreign assets.§!"
 ELS_buy_planes_tt:0 "Unlocks £decision_icon_small §HDecisions§! to buy airplanes to foreign companies"
 
 ##Decisions##
-ELS_Buying_planes_decisions:0 "Requesting Production of Aircraft"
-ELS_buying_fighters:0 "Acquiring Foreign Fighters"
+ELS_Buying_planes_decisions:0 "항공기 생산 요청"
+ELS_buying_fighters:0 "외국산 전투기 획득"
 ELS_buying_fighters_desc:0 "With the shortcomings of our local aircraft industry, we will have to rely on foreign expertise to produce our licenced planes in order to protect us from those who may threaten our skies. The American company Curtiss-Wright Corporation has sent us a really good batch of biplane models back in 1933. While they were used to train our pilots, we now require them to have firepower, and it's because of this that our engineers have made a modified design that allows the usage of machine guns. We shall request their production capabilities to produce these new designs, all for the right price of course."
-ELS_buying_fighters1:0 "Acquiring Foreign Fighters"
+ELS_buying_fighters1:0 "외국산 전투기 획득"
 ELS_buying_fighters1_desc:0 "With the shortcomings of our local aircraft industry, we will have to rely on foreign expertise to produce our licenced planes in order to protect us from those who may threaten our skies. The American company Fairchild Aircraft has designed a new training aircraft model but with the current situation in the United States, they're unable to get any buyers to field these planes. We shall request a variant of that model that's prepared for air combat. This will help consolidate our air force even further."
-ELS_buying_CAS:0 "Acquiring Foreign Close Air Support"
+ELS_buying_CAS:0 "외국산 근접항공지원기 획득"
 ELS_buying_CAS_desc:0 "With the shortcomings of our local aircraft industry, we will have to rely on foreign expertise to produce our licenced planes in order to protect us from those who may threaten our lands. The Italian company Caproni has come up with an attacker plane design in the recent years that has impressed a lot of members in our air force's staff. We shall request a few of their aircraft in order to support our infantry in future wars."
-ELS_buying_nav_bombers:0 "Acquiring Foreign Naval Bombers"
+ELS_buying_nav_bombers:0 "외국산 해군 폭격기 획득"
 ELS_buying_nav_bombers_desc:0 "With the shortcomings of our local aircraft industry, we will have to rely on foreign expertise to produce our licenced planes in order to protect us from those who may threaten our waters. The American company North American Aviation has come up with a training aircraft model in 1935 that has left many in our staff quite impressed. While it's maneuvering capabilities don't surpass those of the Curtiss-Wright and the Fairchild airplanes, our engineers have come up with a version of the T-6 which can be used for coastal patrols and naval bombing. We shall request their production capabilities to produce these new designs, all for the right price of course."
 
 ### Ideas ###
@@ -134,7 +134,7 @@ ELS_military_union_2_desc:0 "The promotion of the FETRES has helped bring a focu
 ELS_bank_reform:0 "은행 개혁"
 ELS_bank_reform_desc:0 "The Pro-Patria party’s main goal was to help bring the economy up from the great slump, with many projects like the National Board helping to achieve this goal. These reforms must be continued in order to prepare for any future economic collapses and to ensure we can defend from them."
 
-ELS_industrial_idea:0 "Beginning Industrialization"
+ELS_industrial_idea:0 "산업화 개시"
 ELS_industrial_idea_desc:0 "With our economic doctrine firmly established, our country has put a major focus on its Industrialization and prosperity to ensure greatness for the future."
 
 ELS_coffee_exportation_to_our_friends:0 "커피 수입"
@@ -154,19 +154,19 @@ ELS_inspired_youth_desc:0 "Our efforts on guerilla warfare have made it easier f
 ELS_inspired_youth_dangerous:0 "Conscription Flood"
 ELS_inspired_youth_dangerous_desc:0 "With the recent threat against our nation, more have begun to flood into the army. While this will serve us well in the war, this could come back to harm us once we enter a time of peace once again."
 
-ELS_professional_army_knowledge:0 "A Professional Army"
+ELS_professional_army_knowledge:0 "전문 군대"
 ELS_professional_army_knowledge_desc:0 "To prepare ourselves for the future combat, we have decided to abandon chaotic combat methods in favour for a more organized army."
 
-ELS_professional_army_knowledge_2:0 "A Professional Army"
+ELS_professional_army_knowledge_2:0 "전문 군대"
 ELS_professional_army_knowledge_2_desc:0 "To prepare ourselves for the future combat, we have decided to abandon chaotic combat methods in favour for a more organized army."
 
-ELS_military_academy_idea:0 "Captain General Gerardo Barrios Military School"
+ELS_military_academy_idea:0 "헤라르도 바리오스 장군 제독 사관학교"
 ELS_military_academy_idea_desc:0 "More of our youth have been deciding to go to our most popular military school, and has increased our innovation in regards to the way our army operates."
 
-ELS_naval_production_idea:0 "Defending our Country"
+ELS_naval_production_idea:0 "조국 방위"
 ELS_naval_production_idea_desc:0 "The recent allowance of the creation of a navy has opened up spirit for many to begin joining the navy to test the waters, and helps to increase the effectiveness of our small navy."
 
-ELS_air_production_idea:0 "New Air Industry"
+ELS_air_production_idea:0 "신 항공산업"
 ELS_air_production_idea_desc:0 "With the limits America put on our air force, we're now more free to make an airforce to rule the skies of Central America over all of our opponents."
 
 ##Political tree ideas
@@ -270,17 +270,17 @@ ELS_a_military_reborn:0 "A Military Reborn"
 ELS_a_military_reborn_desc:0 ""
 
 ### Events ###
-els.1.t:0 "Introduction to El Salvador"
-els.1.d:0 "Maximiliano Hernández Martínez's coup as Vice-President against the Laborista Party and Arturo Araujo in December of 1931 brought immediate strife to the nation, with a true restoration of democracy being ended right as it began. The cause of this coup was an alarming salary cut for the military in favour for the police, which helped him get a small amount of support from the population. With his policy of suppressing all opposition, militarization of the state, and banning all other parties from elections besides his Pro-Patria Party, Martínez managed consolidate his grip on El Salvador. While this was effective at first, this all changed on May 16th, 1932.\n\nThe 1932 Peasant Massacre began due to Maximiliano enacting policies against the natives in the west inspired by Agustín Farabundo Martí and Feliciano Ama. While this wasn't a threat at first, the success of the Nicaraguan Revolution by Sandino flocked more to the rebel side. While still not being able to make gains against the military, Zapata's victory in the Mexican elections supplied guns for the rebels. The rebellion managed to last until January 22nd, 1933 with 70,000 dead and rebel leaders Feliciano Ama and Agustín Farabundo Martí retreating to Mexico.\n\nPartisans are no longer an uncommon sight within El Salvador, with Maximiliano's regime being hated by a significant portion of the people. Not only that but Maximiliano's way of handling the rebellion has caused disloyal elements of the military to emerge, and Maximiliano's regime being held on a tight string the American's are holding up."
-els.1.a:0 "Maximiliano will make up for the losses he caused."
+els.1.t:0 "엘살바도르 소개"
+els.1.d:0 "1931년 12월 부통령 막시밀리아노 에르난데스 마르티네스가 노동당과 아르투로 아라우호 정권에 쿠데타를 일으키자, 진정한 민주주의의 복원은 시작하자마자 끝나버렸고 국가를 두고 정치적 투쟁이 벌어졌습니다. 쿠데타의 원인은 경찰에게 유리하도록 군 봉급을 엄청나게 삭감한 조치 때문이었는데, 이로 인해 대중 지지도가 급격히 낮아졌습니다. 모든 반대파를 탄압하는 정책을 펼치면서 국가를 요새화하고 자신이 속한 프로파트리아당 외에 모든 정당을 금지한 마르티네즈는 엘살바도르 지배권을 손에 넣었습니다. 이런 조치들이 처음에는 효과가 있었습니다. 하지만 1932년 5월 16일, 상황은 완전히 바뀌어 버립니다.\n\n1932년 막시밀리아노가 아우구스틴 파라분도 마르티와 펠리시아노 아마에게 영향을 받은 서부 원주민들에 대항하는 정책을 입안하면서 소작농 학살이 시작되었습니다. 처음에는 그들이 그다지 위협으로 다가오지 않았지만, 산디노의 니카라과 혁명이 성공을 거두면서 더 많은 사람들이 반군에 가담했습니다. 여전히 군부에 대항한 저항이 성공할 가능성이 희박한 가운데, 멕시코 선거에서 승리를 거둔 사파타가 반군에게 총기를 지원하기 시작했습니다. 반란은 1933년 1월 22일까지 이어졌습니다. 7만명이 사망했고 반군 지도자 펠리시아노 아마와 아우구스틴 파라분도 마르티는 멕시코로 망명했습니다.\n\n파르티잔의 공격은 더 이상 엘살바도르에서 생소한 풍경이 아니며, 막시밀리아노 정권은 대부분 사람들에게 인기를 잃었습니다. 그뿐만 아니라 군 내에서도 막시밀리아노의 반란 대처 방식에 불만을 품은 인사들이 등장했습니다. 막시밀리아노 정권은 미국의 지원에만 매달려 있는 상황입니다."
+els.1.a:0 "막시밀리아노는 자신의 실수로 잃어버린 것들을 되찾을 것이다."
 
-els.2.t:0 "The Depression Worsens"
-els.2.d:0 "The recent German market crash has once again completely destroyed our economy due to its heavy reliance on foreign exports. With countries being unable to buy our coffee and the United States condition becoming less stable, the Martínez regime is being backed further and further into a corner politically as a result. We'll need to act carefully from now on if we wish for our country to survive the wave of socialism."
-els.2.a:0 "Sure is nice that Martínez is good with the economy."
+els.2.t:0 "공황 악화"
+els.2.d:0 "최근 벌어진 독일 증시 붕괴로 인해 수출 의존도가 높은 우리 경제가 다시 한번 완전히 박살났습니다. 다른 국가들이 우리의 커피를 살 수 없게 되고 미국 국가 안정성도 바닥에 떨어진 이 상황에 마르티네스 정권은 점점 더 정치적 궁지로 몰리고 있습니다. 우리나라가 사회주의의 파도에서 살아남기를 바란다면 신중하게 행동해야 합니다."
+els.2.a:0 "마르티네즈가 경제를 잘 다룬다는건 확실히 다행이로군."
 
-els.3.t:0 "Farabundo Martí Returns from Mexico"
-els.3.d:0 "Hero of the 32 Massacre Farabundo Martí has recently returned in response to the American Civil War and the chaos our country has entered as a result. People have begun to blame Martínez for this slip-up due to the lack of border control as a result of the ongoing conflict within the country itself. Regardless, his return has begun to rally more and more of the populace against us, and rumours within the military are beginning to spread of an eventual coup in order to restore order."
-els.3.a:0 "The country bleeds."
+els.3.t:0 "파라분도 마르티가 멕시코에서 돌아오다"
+els.3.d:0 "32개 학살의 영웅 파라분도 마르티가 최근 미국 내전과 그 결과로 우리나라를 뒤덮은 혼란에 대응하기 위해 귀국했습니다. 사람들은 국내에서 계속되는 추올의 결과로 인한 국경 방비 실수를 가지고 마르티네스를 비난하기 시작했습니다. 그럼에도 불구하고 마르티의 귀환으로 인해 점점 더 많은 사람들이 우리에게 저항하기 시작했고, 군 내부에서 질서를 회복하기 위한 쿠데타를 일으키려 한다는 소문이 돌고 있습니다."
+els.3.a:0 "전국에 유혈이 낭자하군."
 
 els.4.t:0 "The Military Rebels!"
 els.4.d:0 "Despite our victory against the reactionary forces, most of the Salvadorian military still hasn't recognized our rule as legitimate. While their scattered resistance poses no threat to the continuity of our government yet, we must tread carefully as they still pose a hindrance to our government, as they can still recruit reactionary volunteers from throughout the country. More importantly, they attack villages and government's convoys for supplies in the northwest, where retreat back to their hideouts in the jungles near Metapán, allowing them an easy escape route towards Honduras or Guatemala if they need to."
