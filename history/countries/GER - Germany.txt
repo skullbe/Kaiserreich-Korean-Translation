@@ -343,7 +343,7 @@ create_country_leader = {
 }
 
 create_field_marshal = {
-	name = "Gerd von Rundstedt"
+	name = "게르트 폰 룬트슈테트"
 	picture = "Portrait_Germany_Gerd_von_Rundstedt_kr.tga"
 	traits = { defensive_doctrine offensive_doctrine }
 	skill = 4
@@ -354,7 +354,7 @@ create_field_marshal = {
 }
 
 create_field_marshal = {
-	name = "Rupprecht von Bayern"
+	name = "루프레히트 폰 바이에른"
 	picture = "Portrait_Germany_Rupprecht_Bayern_kr.tga"
 	traits = { trait_cautious inflexible_strategist defensive_doctrine organizer thorough_planner }
 	skill = 4
@@ -365,7 +365,7 @@ create_field_marshal = {
 }
 
 create_field_marshal = {
-	name = "August von Mackensen"
+	name = "아우구스트 폰 마켄젠"
 	picture = "Portrait_Germany_August_Mackensen_kr.tga"
 	traits = { offensive_doctrine old_guard }
 	skill = 4
@@ -377,7 +377,7 @@ create_field_marshal = {
 }
 
 create_field_marshal = {
-	name = "Wilhelm von Preußen"
+	name = "빌헬름 폰 프로이센"
 	picture = "Portrait_Germany_Wilhelm_III_field_marshall.tga"
 	traits = { old_guard }
 	skill = 3
@@ -388,7 +388,7 @@ create_field_marshal = {
 }
 
 create_corps_commander = {
-	name = "Erich von Manstein"
+	name = "에리히 폰 만슈타인"
 	picture = "Portrait_Germany_Erich_von_Manstein_kr.tga"
 	traits = { trickster armor_officer brilliant_strategist trait_engineer }
 	skill = 4
@@ -399,7 +399,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Heinz Guderian"
+	name = "하인츠 구데리안"
 	picture = "Portrait_Germany_Heinz_Guderian_kr.tga"
 	traits = { trickster brilliant_strategist panzer_leader armor_officer career_officer }
 	skill = 4
@@ -410,7 +410,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Walter Model"
+	name = "발터 모델"
 	picture = "Portrait_Germany_Walter_Model_kr.tga"
 	traits = { politically_connected trait_cautious harsh_leader brilliant_strategist trickster }
 	skill = 4
@@ -421,7 +421,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Werner von Blomberg"
+	name = "베르너 폰 블롬베르크"
 	picture = "Portrait_Germany_Werner_von_Blomberg.tga"
 	traits = { trickster armor_officer career_officer }
 	skill = 3
@@ -432,7 +432,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Günther von Kluge"
+	name = "귄터 폰 클루게"
 	picture = "Portrait_Germany_Gunther_Kluge_kr.tga"
 	traits = { career_officer armor_officer }
 	skill = 4
@@ -443,7 +443,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Erwin von Witzleben"
+	name = "에르빈 폰 비츨레벤"
 	picture = "Portrait_Germany_Erwin_von_Witzleben_kr.tga"
 	traits = { skilled_staffer career_officer }
 	skill = 3
@@ -454,7 +454,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Wilhelm Ritter von Leeb"
+	name = "빌헬름 폰 레프"
 	picture = "Portrait_Germany_Wilhelm_Ritter_von_Leeb_kr.tga"
 	traits = { skilled_staffer infantry_officer }
 	skill = 3
@@ -465,7 +465,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Albert Kesselring"
+	name = "알베르트 케셀링"
 	picture = "Portrait_Germany_Albert_Kesselring_kr.tga"
 	traits = { inflexible_strategist infantry_officer }
 	skill = 3
@@ -476,7 +476,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Eberhard von Mackensen"
+	name = "에버하르트 폰 마켄젠"
 	picture = "Portrait_Germany_Eberhard_Mackensen_kr.tga"
 	traits = { cavalry_leader cavalry_officer }
 	skill = 3
@@ -487,7 +487,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Eduard Dietl"
+	name = "에두아르드 디틀"
 	picture = "Portrait_Germany_Eduard_Dietl_kr.tga"
 	traits = { winter_specialist commando }
 	skill = 3
@@ -498,7 +498,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Erich Hoepner"
+	name = "에리히 회프너"
 	picture = "Portrait_Germany_Erich_Hoepner_kr.tga"
 	traits = { armor_officer trait_reckless }
 	skill = 3
@@ -509,7 +509,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Ewald von Kleist"
+	name = "에발트 폰 클라이스트"
 	picture = "Portrait_Germany_Ewald_Kleist_kr.tga"
 	traits = { skilled_staffer }
 	skill = 3
@@ -520,7 +520,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Fedor von Bock"
+	name = "페도어 폰 보크"
 	picture = "Portrait_Germany_Fedor_Bock_kr.tga"
 	traits = { brilliant_strategist harsh_leader trait_cautious }
 	skill = 3
@@ -531,7 +531,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Friedrich Paulus"
+	name = "프리드리히 파울루스"
 	picture = "Portrait_Germany_Friedrich_Paulus_kr.tga"
 	traits = { infantry_officer }
 	skill = 3
@@ -542,7 +542,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Georg von Küchler"
+	name = "게오르크 폰 퀴힐러"
 	picture = "Portrait_Germany_Georg_Kuchler_kr.tga"
 	traits = { politically_connected career_officer }
 	skill = 3
@@ -553,7 +553,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Franz Halder"
+	name = "프란츠 할더"
 	picture = "Portrait_Germany_Franz_Halder_kr.tga"
 	traits = { organizer }
 	skill = 3
@@ -564,7 +564,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Gotthard Heinrici"
+	name = "고타르트 하인리치"
 	picture = "Portrait_Germany_Gotthard_Heinrici_kr.tga"
 	traits = { trait_engineer fortress_buster }
 	skill = 3
@@ -575,7 +575,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Hermann Hoth"
+	name = "헤르만 호트"
 	picture = "Portrait_Germany_Hermann_Hoth_kr.tga"
 	traits = { infantry_officer infantry_expert }
 	skill = 3
@@ -586,7 +586,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Franz von Bayern"
+	name = "프란츠 폰 바이에른"
 	picture = "Portrait_Germany_Franz_Bayern_kr.tga"
 	traits = { trait_engineer fortress_buster hill_fighter }
 	skill = 2
@@ -599,7 +599,7 @@ create_corps_commander = {
 
 
 create_navy_leader = {
-	name = "Karl Dönitz"
+	name = "카를 되니츠"
 	picture = "Portrait_Germany_Karl_Donitz_kr.tga"
 	traits = { seawolf silent_hunter }
 	skill = 4
@@ -610,7 +610,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Erich Raeder"
+	name = "에리히 레더"
 	picture = "Portrait_Germany_Erich_Raeder_kr.tga"
 	traits = { ironside }
 	skill = 5
@@ -621,7 +621,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Lothar von Arnauld de la Perière"
+	name = "로타어 폰 아르나울트 데 라 페리레"
 	picture = "Portrait_Germany_Lothar_Arnauld_Periere_kr.tga"
 	traits = { seawolf }
 	skill = 4
@@ -632,7 +632,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Alfred Saalwächter"
+	name = "알프레트 잘베히터"
 	picture = "Portrait_Germany_Alfred_Saalwachter_kr.tga"
 	skill = 3
 	attack_skill = 3
@@ -642,7 +642,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Hermann Boehm"
+	name = "헤르만 뵘"
 	picture = "Portrait_Germany_Hermann_Boehm_kr.tga"
 	traits = { superior_tactician }
 	skill = 4
@@ -653,7 +653,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Wilhelm Marschall"
+	name = "빌헬름 마르샬"
 	picture = "Portrait_Germany_Wilhelm_Marschall_kr.tga"
 	traits = { blockade_runner }
 	skill = 3
@@ -664,7 +664,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Ludwig von Reuter"
+	name = "루트비히 폰 로이터"
 	picture = "Portrait_Germany_Ludwig_Reuter_kr.tga"
 	traits = { ironside superior_tactician old_guard_navy }
 	skill = 5
@@ -676,7 +676,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Wilhelm Souchon"
+	name = "빌헬름 조우혼"
 	picture = "Portrait_Germany_Wilhelm_Souchon_kr.tga"
 	traits = { spotter old_guard_navy }
 	skill = 3
@@ -687,7 +687,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Max Valentiner"
+	name = "막스 팔렌티너"
 	picture = "Portrait_Germany_Max_Valentiner_kr.tga"
 	traits = { seawolf }
 	skill = 4
@@ -698,7 +698,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Rolf Carls"
+	name = "롤프 카를스"
 	picture = "Portrait_Germany_Rolf_Carls_kr.tga"
 	traits = { blockade_runner old_guard_navy }
 	skill = 4
@@ -709,7 +709,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Günther Lütjens"
+	name = "귄터 뤼톈스"
 	picture = "Portrait_Germany_Gunther_Lutjens_kr.tga"
 	skill = 3
 	attack_skill = 3
@@ -719,7 +719,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Otto Ciliax"
+	name = "오토 칠리악스"
 	picture = "Portrait_Germany_Otto_Ciliax_kr.tga"
 	traits = { blockade_runner }
 	skill = 3
@@ -730,7 +730,7 @@ create_navy_leader = {
 }
 
 create_navy_leader = {
-	name = "Bernhard Rogge"
+	name = "베른하르트 로게"
 	picture = "Portrait_Germany_Bernhard_Rogge_kr.tga"
 	traits = { seawolf }
 	skill = 1
