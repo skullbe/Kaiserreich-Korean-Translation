@@ -1,6 +1,6 @@
 ﻿l_english:
 
-german_focus:0 "독일 중점계"
+german_focus:0 "독일 중점계통도"
 
 # Crete stuff at the bottom
 
@@ -224,8 +224,8 @@ GER_angry_ukraine:0 "§R이는 우크라이나와의 관계를 해칠 것이며 
 GER_angry_socialists:0 "§G그들은 우리 군대의 일부가 될 것입니다.§!"
 GERfor.25_tooltip:0 "우리는 분쟁에 도움이 될 몇몇 사단을 양성할 것입니다."
 GER_reichstag_in_progress_tooltip:0 "우리는 정책이 실행되는 동안 다른 정책에 대한 토론을 시작할 수 없습니다."
-german_investments_flock_in_aze:0 "Investors will increasingly flock to Azerbaijan."
-GER_frapartwll_tt:0 "왈로니아 민병대 사단이 형성될 것입니다."
+german_investments_flock_in_aze:0 "투자자들은 점점 더 아제르바이잔으로 몰릴 것입니다."
+GER_frapartwll_tt:0 "왈로니 민병대 사단이 형성될 것입니다."
 GER_frapartals_tt:0 "두 개의 알자스 민병대 사단이 형성될 것입니다."
 GER_namaskaris_tt:0 "두 개의 새로운 남서아프리카 아스카리 사단이 형성될 것입니다."
 GER_tnzaskaris_tt:0 "여섯 개의 새로운 탕가니카 아스카리 사단이 형성될 것입니다."
@@ -259,7 +259,7 @@ GER_foreign_missions:0 "독일의 지원"
 DEN_position_plus:0 "전쟁 상태"
 DEN_position_minus:0 "전쟁 상태"
 DEN_thank:0 "감사함"
-return_wll:0 "왈로니아 반환"
+return_wll:0 "왈로니 반환"
 wll_int:0 "우리를 비난함"
 give_holl:0 "홀란트 상"
 occupy_mor:0 "모로코 점령"
@@ -418,7 +418,7 @@ GER_agricultural_help_desc:0 "카이저라이히와 동유럽의 곡창지대 �
 
 GER_foreign_policy_decisions:0 "독일의 바깥을 살펴보다"
 
-GER_reichspakt_bulgaria:0 "불가리아를 제국 조약으로 초대"
+GER_reichspakt_bulgaria:0 "불가리아를 라이히스팍트로 초대"
 GER_reichspakt_bulgaria_desc:0 "~mw~가 오싹한 곳에서 일을 하게 만듭니다. 도움의 손길을 보내세요!"
 
 #GER_black_monday_mitteleuropa_decisions:0 "" already defined above
