@@ -23,7 +23,7 @@ JF_GENERIC_FLAVOUR_OTHER_VICTORY:0 "구세계의 질서가 폐허가 되면서, 
 
 #North America
 JF_CAN_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지만, 미국은 [CAN.GetNameDef]와(과) 함께 그들의 조국과 유럽을 생디칼리슴으로부터 해방시키기로 결정했습니다."
-JF_GER_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지만, 미국은 생디칼리슴에 대한 공통된 적개심을 가진 [GER.GetNameDef]와(과) 함께 하고자 제국 조약에 가입하기로 결정했습니다. "
+JF_GER_USA_FLAVOUR:0 "내전의 피해로부터 아직 회복되지는 않았지만, 미국은 생디칼리슴에 대한 공통된 적개심을 가진 [GER.GetNameDef]와(과) 함께 하고자 라이히스팍트에 가입하기로 결정했습니다. "
 JF_FRA_CSA_FLAVOUR:0 "노조연합이 미국 내전에서 승리한 이후, 노조연합은 프랑스 쪽으로 방향을 틀었고, 공식적으로 생디칼리스트 동맹에 합류하였습니다. 미국의 산업력이 혁명을 위해 쓰이기 시작하면서 혁명가들은 전율하고 있습니다."
 
 #Central America
@@ -42,26 +42,26 @@ JF_CAN_POR_FLAVOUR:0 "Due to [POR.GetName]'s longstanding ties to the royal fami
 JF_GER_IRE_FLAVOUR:0 "Due to British provocation, [IRE.GetName] has joined the [GER.GetFactionName], hoping the Kaiser can protect them from syndicalist 'machinations'."
  
 #Northern Europe
-JF_GER_SWE_FLAVOUR:0 "베를린과의 오랜 경제적인 유대를 가지고 있고, 스칸디나비아에서 급진주의가 대두되면서 [SWE.GetName]은(는) 공식적으로 제국 조약에 가입했습니다."
+JF_GER_SWE_FLAVOUR:0 "베를린과의 오랜 경제적인 유대를 가지고 있고, 스칸디나비아에서 급진주의가 대두되면서 [SWE.GetName]은(는) 공식적으로 라이히스팍트에 가입했습니다."
 JF_FRA_SWE_FLAVOUR:0 "[SWE.GetLeader]이(가) 스웨덴 정부를 무너뜨리고서, [SWE.GetNameDef]와(과) 파리와의 관계를 공고히하며, 제3인터내셔널에 가입하였습니다."
-JF_GER_FIN_FLAVOUR:0 "러시아는 자국내 급진주의의 위협을 무너뜨리고서 유럽영토를 되찾으려고 하고 있습니다. [FIN.GetLeader]은(는) 소국에게는 부족한 안보를 제국 조약이 지켜줄 수 있도록 제국 조약과의 관계를 공고히 다졌습니다."
+JF_GER_FIN_FLAVOUR:0 "러시아는 자국내 급진주의의 위협을 무너뜨리고서 유럽영토를 되찾으려고 하고 있습니다. [FIN.GetLeader]은(는) 소국에게는 부족한 안보를 라이히스팍트가 지켜줄 수 있도록 라이히스팍트와의 관계를 공고히 다졌습니다."
 JF_FRA_FIN_FLAVOUR:0 "[FIN.GetLeader]이(가) 군주주의를 무너뜨리고서 자발적으로 국제적인 생디칼리슴 운동에 동참하기 위해 제3인터내셔널에 가입하였습니다."
 JF_FRA_NOR_FLAVOUR:0 "군주제의 전복 이후, 새로운 노르웨이의 생디칼리슴 정부는 제3인터내셔널에 가입했습니다."
 JF_CAN_NOR_FLAVOUR:0 "국내의 급진주의를 즉각적으로 제압하고서, [NOR.GetName]은(는) 협상국과 관계를 공고히 하고 있습니다."
-JF_AUS_SWI_FLAVOUR_peace:0 "While the French threat may be subdued for the moment, Switzerland has formally aligned themselves with Austria's alliace to ensure future peace and stability."
-JF_AUS_SWI_FLAVOUR_war:0 "With the French conflict progressing, Switzerland has decided to officially join Austria's alliance, just in case anyone thought they were still neutral."
-JF_GER_SWI_FLAVOUR_war:0 "With the war against the Syndicalists progressing, Switzerland has decided to officially join the Reichspakt, only further aligning them with the German Empire."
+JF_AUS_SWI_FLAVOUR_peace:0 "프랑스의 위협을 당장은 피했을지 모르지만, 스위스는 미래의 평화와 안정을 보장받기 위하여 오스트리아와 동맹을 맺기로 결정하였습니다."
+JF_AUS_SWI_FLAVOUR_war:0 "프랑스와의 충돌이 이어지며 스위스는 자신들이 여전히 중립이라는 생각에 대비하여 오스트리아와 동맹을 맺기로 결정했습니다."
+JF_GER_SWI_FLAVOUR_war:0 "생디칼리스트들과의 전쟁이 진행됨에 따라 스위스는 공식적으로 라이히스팍트에 가입하기로 결정하였고, 독일 제국과 더욱 가까운 사이가 되었습니다.."
 JF_GER_SWI_FLAVOUR_peace:0 "While the French threat is subdued temporarily, Switzerland has decided to align themselves with the Reichspakt, to ensure future peace and security."
 JF_FRA_SWI_FLAVOUR:0 "Following the Syndicalist revolution in Switzerland, the temporary government has decided to join the Third Internationale, formalizing the already close relations between the Commune of France and [SWI.GetNameDef]."
 
 #Southern Europe
-JF_AUS_ITA_FLAVOUR:0 "With Italo Balbo's radicalism contained at the ballot box, [ITA.GetNameDef] has formally joined Austria's defense pact."
+JF_AUS_ITA_FLAVOUR:0 "투표함에 이탈로 발보와 급진파들의 표들이 들어있지 않도록, [ITA.GetNameDef]은(는) 오스트리아와 동맹을 맺었습니다."
 
 #Eastern Europe
 
 #Balkans
-JF_SER_GRE_FLAVOUR:0 "불가리아의 성장세에 대한 공통된 증오 때문에, 그리스는 불가리아를 완전히 없애기 위해 세르비아와 베오그라드 조약에 가입하기로 결정했습니다. 이것은 발칸반도의 권력 균형을 아주 잘 흔들어 놓을 것입니다."
-JF_SER_ROM_FLAVOUR:0 "오스트리아와 불가리아의 세력이 커짐에 따라 루마니아는 그들의 힘을 억제하기 위해 베오그라드 조약으로의 초청을 수락했습니다. 오스트리아와 불가리아는 화약통이 다시 한번 폭발할 뻔하자 두려움에 떨며 지켜보고 있습니다."
+JF_SER_GRE_FLAVOUR:0 "불가리아의 성장세에 대한 공통된 증오 때문에, 그리스는 불가리아를 완전히 없애기 위해 세르비아와 베오그라드 협약에 가입하기로 결정했습니다. 이것은 발칸반도의 권력 균형을 아주 잘 흔들어 놓을 것입니다."
+JF_SER_ROM_FLAVOUR:0 "오스트리아와 불가리아의 세력이 커짐에 따라 루마니아는 그들의 힘을 억제하기 위해 베오그라드 협약으로의 초청을 수락했습니다. 오스트리아와 불가리아는 화약통이 다시 한번 폭발할 뻔하자 두려움에 떨며 지켜보고 있습니다."
 JF_CAN_GRE_FLAVOUR:0 "세계대전 때 연합국이였던 [GRE.GetNameDef]이(가) 공식적으로 캐나다에게 협상국 가입을 요청하여 협상국의 발칸반도 세력 기반을 제공하였습니다."
 #Middle East
 
