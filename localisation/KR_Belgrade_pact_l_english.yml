@@ -12,7 +12,7 @@ OTT_reparation_payments_from_greece_desc:0 "그리스가 오스만에게 전쟁 
 is_in_belgrade_pact:0 "베오그라드 조약에 속해있음"
 
 ### Decisions ###
-Belgrade_Pact_Balkan_War:0 "베오그라드 조약"
+Belgrade_Pact_Balkan_War:0 "베오그라드 협약"
 
 Belgrade_Pact_invite_member:0 "[From.GetNameDef]을(를) 베오그라드에 초청"
 Belgrade_Pact_invite_member_desc:0 "[From.GetAdjective] 군대는 우리의 목표를 달성하기 위해서 필요한 존재입니다. 이제 우리의 거대한 동맹에 저들을 초청할 때입니다."
