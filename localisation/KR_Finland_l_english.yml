@@ -463,37 +463,37 @@ finland.27.d:0 "Rather than pursuing their own agendas and effectively dissolvin
 finland.27.a:0 "사소한 차이 정도는 서로 양보할 수 있다."
 
 finland.28.t:0 "공약 이행"
-finland.28.d.socdem:0 "Looking to reward its supporters, the Social Democratic Party has sought to support the workers through government subsidies and improving working conditions within factories. While this has helped boost support for the party, many other parties, most notably the Agrarian League and the National Coalition Party, are complaining that the interests of their constituents are being compromised for the sake of selfishness on behalf of the Social Democratic Party."
-finland.28.d.soclib:0 "Looking to reward its supporters, the Agrarian League has sought to support the farmers through government subsidies and preferred access to direly needed crops. While this has helped boost support for the party, many other parties, most notably the Social Democratic Party and the National Coalition Party, are complaining that the interests of their constituents are being compromised for the sake of selfishness on behalf of the Agrarian League."
+finland.28.d.socdem:0 "사회민주당은 지지자들에게 보답하기 위해 정부 보조금과 공장 내 근로 조건 개선을 통해 노동자들을 지원하기로 결정했습니다. 이는 사회민주당의 지지율을 높이겠지만, 농업동맹과 국민연합당과 같은 타 정당들은 사회민주당이 자신들의 이익을 위하여 유권자들을 이용하고 있다고 비난하고 있습니다."
+finland.28.d.soclib:0 "지지자들에게 보답하기 위해, 농업연맹은 정부 보조금을 통해 농부들을 지원하기로 결정했습니다. 이는 농업동맹의 지지율을 높이겠지만, 사회민주당과 국민연합당과 같은 타 정당들은 농업동맹이 자신들의 이익을 위하여 유권자들을 이용하고 있다고 비난하고 있습니다."
 finland.28.a:0 "해야 할 일을 했을 뿐이다."
 
 finland.29.t:0 "핀란드 사회민주당"
-finland.29.d:0 "Historically known for its extremely left leaning views prior to the conclusion of the [Root.GetAdjective] Civil War, the remaining members of the Social Democratic Party of [Root.GetName], coalescing under the leadership of Väinö Tanner began to move further to the right, despite maintaining its original goals, in order to appear as a more patriotic party while also remaining palatable to the average [Root.GetAdjective] voter.\n\nAs it stands, the agenda of the SDP is to further the rights of workers, regulate [Root.GetName]’s capitalist economy, and push for the continued, yet gradual, reform of the nation."
+finland.29.d:0 "[Root.GetAdjective] 내전 이전부터 극도로 좌경화된 시각을 갖고 있던 것으로 알려진 [Root.GetName] 사회민주당 잔존 당원들은 그들의 기존 목표를 유지하면서도 [Root.GetAdjective] 유권자들에게 더 친근하게 다가가고 더 애국적인 정당으로 보이기 위해 Väinö Tanner의 지도하에 들어왔습니다. \n\n노동자 권리 확대, [Root.GetName]의 기업 규제, 지속적인 국가 개혁이라는 사회민주당의 목표는 그대로 유지될 것입니다."
 finland.29.a:0 "[Root.GetName]에 새로운 시대가 도래했다!"
 
 finland.30.t:0 "핀란드 노동조합연합 창설"
-finland.30.d:0 "In order to allow for labour and unions to more effectively organise in the face of opposition, the Social Democratic Party have seen fit to create the Confederation of [Root.GetAdjective] Trade Unions, containing many of [Root.GetName]’s most notable and powerful unions."
+finland.30.d:0 "노동조합들이 더 효과적으로 활동할 수 있게 하기 위해, 사회민주당은 [Root.GetAdjective] 노동조합 연합을 창설하기로 결정하였고, [Root.GetName]의 많은 유명한 노동조합들이 여기에 참여할 것입니다."
 finland.30.a:0 "흥미롭군."
 
 finland.31.t:0 "농업동맹"
-finland.31.d:0 "Founded in 1906 by [Root.GetAdjective] living in rural parts of [Root.GetName], the Agrarian League have long supported the decentralisation and progression of [Root.GetName]. Today, primarily composed of farmers, the Agrarian League has always been an opponent of monarchism.\n\nAs it stands, the agenda of the Agrarians are to foster [Root.GetAdjective] independence, decentralise the current political system, and provide support for the farmers."
+finland.31.d:0 "1906년 [Root.GetName]의 농민들에 의해 창설된 농업동맹은 오랫동안 [Root.GetName]의 점진적 지방분권화를 지지해 왔습니다. 오늘날 농업동맹은 군주주의에 대항하는 큰 세력이 되었습니다. \n\n지금까지 그랬던 것처럼, 농업동맹의 목표는 [Root.GetAdjective]의 독립과 정치권력 분권화, 농민 지원입니다."
 finland.31.a:0 "[Root.GetName]에 새로운 시대가 도래했다!"
 
 finland.32.t:0 "[Root.GetNameDef] 내의 [SWE.GetAdjective]계의 권리"
-finland.32.d:0 "One of the big questions on the minds of the [Root.GetAdjective] people and, indeed, the politicians of the Agrarian League is the extent at which [SWE.GetAdjective] rights within our nation must be maintained. While the [SWE.GetAdjective] language is most popular throughout Åland, coastal communities within southern and eastern [Root.GetName] also contain many [SWE.GetAdjective] speakers.\n\nThe question on the minds of the Agrarian League is whether or not the [SWE.GetAdjective] within [Root.GetName] should be limited as much as possible, or whether the current situation should remain as is."
+finland.32.d:0 "[Root.GetAdjective] 국민들과 농업동맹 정치인들의 주된 관심사 중 하나는 국가 내의 [SWE.GetAdjective]계 주민들의 권리가 어느 정도까지 허용되어야 할지에 대한 것입니다. [SWE.GetAdjective]어는 올란드 제도와 남동부 해안지역에서 주로 쓰이고 있습니다. \n\n농업동맹이 직면한 문제는 [Root.GetName] 내의 [SWE.GetAdjective]계의 권리를 제한할 것인가, 그대로 유지시킬 것인가의 문제입니다."
 finland.32.a:0 "스웨덴계놈들이 감히 핀인들을 위협하는군."
 finland.32.b:0 "우리 인구의 적지 않은 비율을 차지하는 집단이다. 권리를 존중하라."
 
 finland.33.t:0 "쿨레르보 만네르의 석방"
-finland.33.d:0 "Following the victory of the [Root.GetAdjective] People’s Delegation and their subsequent purge of reactionaries within [Root.GetName], Kullervo Manner, who had once led the governing body, has officially been freed after nearly two decades of imprisonment in Suomenlinna.\n\nFerried across the island to the capital, Helsinki, Manner, not missing a beat, gave an impassioned speech to an audience of thousands, who were elated to see their former leader freed once more. What this may hold for the future of [Root.GetName], only the [Root.GetAdjective] People’s Delegation and their allies, the Red Guard, know..."
+finland.33.d:0 "[Root.GetAdjective] 인민대표단의 승리와 뒤이은 반동주의자 숙청으로 쿨레르보 만네르가 수오멘린나 요새에서의 약 20년간의 감옥 생활에서 풀려났습니다. \n\n페리를 타고 헬싱키에 도착한 그는 그의 얼굴을 보러 온 수천 명의 청중 앞에서 열정적인 연설을 했습니다. 오직 [Root.GetAdjective] 인민대표단과 그들의 동맹 적위대만이 핀란드의 미래를 결정할 것입니다..."
 finland.33.a:0 "정말 좋은 소식이군!"
 
 finland.34.t:0 "군주제를 부정하다"
-finland.34.d:0 "The [Root.GetName] has been under the control of the [GER.GetAdjective]s and their lapdogs for years now, sowing the seeds of discontent and stifling the [Root.GetAdjective] people under the oppressive ideology of monarchism blended with a mix of reactionary thought.\n\nThe state has taken it upon itself to remove monarchist ideals from the nation, though this has displeased our more rural citizens, who are rather conservative in their thought and would prefer a monarch over a syndicalist government."
-finland.34.a:0 "They'll come around soon enough."
+finland.34.d:0 "[Root.GetName]은 오랫동안 [GER.GetAdjective] 지배하의 애완견이었고 군주주의라는 억압적인 이념이 [Root.GetAdjective] 국민들을 괴롭게 했습니다. \n\n우리는 다시금 우리 국가에서 군주주의의 잔재를 제거해야 할 것입니다. 비록 이것이 우리 농촌의 보수적이고 군주주의적인 시민들을 화나게 할지라도요."
+finland.34.a:0 "그들도 곧 생각을 바꿀 것이다."
 
 finland.35.t:0 "핀란드 복음루터교회"
-finland.35.d:0 "The Evangelical Lutheran Church of Finland, which had once taken a stand against us during the [Root.GetAdjective] Civil War, has been declared by the [Root.GetAdjective] People’s Delegation as an unnecessary institution.\n\nThe Red Guard, who have been given free reign (for the moment) in order to allow us to more easily initiate our directives, have begun purging members of the clergy. Of course, this has not endeared us to many of the more conservative people within [Root.GetName]."
+finland.35.d:0 "우리는 [Root.GetAdjective] 내전 중 우리를 적대했었던 핀란드 복음주의 루터교회를 불법화했습니다. \n\n 정부로부터 큰 권한을 부여받은 적위대 대원들이 성직자들을 숙청하기 시작했습니다. 물론 이러한 행동은 [Root.GetName] 내의 많은 보수적인 사람들에게 환영받지 못할 것입니다."
 finland.35.a:0 "신경쓰지 말자고."
 
 finland.36.t:0 "[Root.GetAdjective] 헌법"
@@ -511,21 +511,21 @@ finland.38.a:0 "천천히, 하지만 확실히, 우리는 적위대를 약화시
 finland.38.b:0 "The Red Guard has caught on!"
 
 finland.39.t:0 "적위대와의 마지막 결전"
-finland.39.d:0 "By now, all pretenses of any sort of covert operations against the Red Guard have been done away with, following the Red Guard’s discovery of our attempts to weaken them. A showdown between the Delegation and the Red Guard is underway, with the Red Guard quickly approaching in an attempt to storm parliament and declare the creation of a new [Root.GetAdjective] state. We must depend on the people to save us from the radicalism of the Red Guard, and allow for the continuation of a peaceful [Root.GetAdjective] state."
+finland.39.d:0 "적위대를 약화시키려는 우리의 모든 비밀 작전이 실패로 돌아갔고, 적위대는 빠르게 의회를 장악하였고 새로운 [Root.GetAdjective] 국가를 선포하려 하고 있습니다. 우리와 적위대와의 마지막 결전의 시간이 다가오고 있고 우리는 적위대의 급진주의로부터 국민들을 지키고 [Root.GetAdjective]의 평화를 사수해야 합니다."
 finland.39.a:0 "민중은 우리의 편이다. 적위대를 축출하라!"
 finland.39.b:0 "적위대가 정권을 장악했다!"
 
 finland.40.t:0 "적위대 해산"
-finland.40.d:0 "Due to our success at weakening the Red Guard, it seems as though completely disbanding the militia should be rather easy. However, we still run the risk of revolutionaries and more hardline members taking over parliament and declaring the creation of a new state. However, due to our propaganda efforts, we should have enough people on our side to resist and completely disband the destructive organisation once and for all."
+finland.40.d:0 "우리는 적위대를 약화시키는 데 성공했고, 이제 그들을 더 쉽게 해산시킬 수 있을 것입니다. 하지만, 반동주의자들과 다른 급진주의자들이 의회를 장악하고 새로운 국가를 선포할 위험성도 있습니다. 그러나, 우리의 선전 노력을 통해 우리는 적위대에 충분히 대항할 수 있을 것이고 그 파괴적인 단체를 해산시킬 수 있을 것입니다."
 finland.40.a:0 "적위대가 해산되었다!"
 finland.40.b:0 "적위대가 정권을 장악했다!"
 
 finland.41.t:0 "자본주의 언론 문제"
-finland.41.d:0 "In order to prevent and reverse the current indoctrination of the [Root.GetAdjective] people under the capitalist system, while also building support for the current regime, we must ban all capitalist and/or counter-revolutionary papers. Of course, this will not reflect well on us in the short term due to our willingness, in the eyes of the people, to erode the freedom of press, but it is necessary to ensure the stability of [Root.GetName]."
+finland.41.d:0 "[Root.GetAdjective] 국민들의 자본주의적 세뇌를 막고 현 정권에 대한 지지를 확보하기 위해 우리는 모든 자본주의적,반동주의적 신문들을 폐간해야 합니다. 물론 언론의 자유를 약화시키려는 우리의 시도는 처음에는 많은 어려움에 봉착하겠지만, 이는 [Root.GetName]의 안정을 유지하기 위해 꼭 필요한 조치입니다."
 finland.41.a:0 "지금 멈출 수는 없다."
 
 finland.42.t:0 "징세"
-finland.42.d:0 "One of the biggest issues on part of the [Root.GetAdjective] People’s Delegation, which had also been a prevalent issue throughout the [Root.GetAdjective] Civil War, was the lack of proper tax collection on behalf of our government. In order to allow for the various functions of the government to run properly and receive sufficient funding, we must enforce tax collection from our citizens. While this will not endear us any further to the [Root.GetAdjective] citizenry, it is something that must be done."
+finland.42.d:0 "[Root.GetAdjective] 인민대표단에서 가장 큰 쟁점이자 [Root.GetAdjective] 내전 중 가장 큰 쟁점이었던 것은 미비한 세금 징수 체계였습니다. 정부기능이 원활히 돌아가게 하려면 우리는 세금 징수 체계를 개편해야 합니다. 비록 이러한 조치는 [Root.GetAdjective] 국민들의 환영을 받지 못할 것이지만, 꼭 해야 하는 일입니다."
 finland.42.a:0 "매도 먼저 맞는 게 낫지."
 
 finland.43.t:0 "적위대"
@@ -566,7 +566,7 @@ finland.51.d:0 "[Root.GetAdjective]를 위대하게 만들기 위해서는 의�
 finland.51.a:0 "뿌리까지 썩은 이런 제도 따위..."
 
 finland.52.t:0 "핀란드가 올란드를 재무장하다!"
-finland.52.d:0 "It seems as though the nationalist [FIN.GetAdjective] has done what we’d feared: namely, the remilitarisation of the Åland Islands. The former government had, with the mediation of [GER.GetNameDef], agreed to respect the rights of the [Root.GetName] citizens in the area. Unfortunately, the Lapua Movement have reneged on that promise, remilitarising the island and silencing any dissent.\n\nWhile many of our more nationalist citizens are clamouring for us to declare war on [FIN.GetName] and take by the islands by military force, moderate politicians argue that we should use diplomacy to take back the islands. What should we do?"
+finland.52.d:0 "[FIN.GetAdjective] 민족주의자들이 우리가 우려했던 일을 저질렀습니다 : 그들이 올란드 제도를 재무장화했습니다. The former government had, with the mediation of [GER.GetNameDef], agreed to respect the rights of the [Root.GetName] citizens in the area. Unfortunately, the Lapua Movement have reneged on that promise, remilitarising the island and silencing any dissent.\n\nWhile many of our more nationalist citizens are clamouring for us to declare war on [FIN.GetName] and take by the islands by military force, moderate politicians argue that we should use diplomacy to take back the islands. What should we do?"
 finland.52.a:0 "선전포고다!"
 finland.52.b:0 "외교적 압력이면 족하다."
 
