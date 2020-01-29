@@ -530,35 +530,35 @@ royalist.300.t:0 "루마니아와의 왕실 혈연 관계"
 royalist.300.d:0 "최근 복원된 루마니아 왕실이 베를린에 신임 대사를 보냈습니다. 예전 철위대 정부와 우리와의 관계는 껄끄러웠지만, 이제 양국은 친구입니다. 그들은 루마니아의 첫번째 왕인 카롤 1세를 포함하여 양국의 왕실이 둘다 호헨촐레른 가문인 것을 들어 우리와 가까워지려 하고 있습니다. \n\n이를 받아들여서 루마니아와의 새로운 관계를 구축합시다."
 royalist.300.a:0 "우리는 더 가까워질 것이다."
 
-royalist.301.t:0 "[From.GetNameDefCap]이 더 깊은 관계를 원한다"
+royalist.301.t:0 "[From.GetNameDefCap]이(가) 더 깊은 관계를 원한다"
 royalist.301.d:0 "루마니아 대사는 정부의 우호적인 메시지를 가지고 우리에게 접근했습니다. 옛날 우리와 철위대 정부와의 관계는 껄끄러웠지만, 새로운 정권이 루마니아에 들어선 지금 그들은 우리 친구입니다. 이를 받아들여 양국의 우정을 더 깊게 만듭시다."
 royalist.301.a:0 "그들은 우리 친구다."
 
-royalist.302.t:0 "[From.GetNameDefCap]이 독일 과학자들을 환영하다"
+royalist.302.t:0 "[From.GetNameDefCap]이(가) 독일 과학자들을 환영하다"
 royalist.302.d:0 "루마니아 정부가 독일 과학자들을 그들의 나라로 초대했습니다. 그들은 이를 통해 연구개발 상황이 진전되기를 바라고 있으며, 그들은 우리의 지식으로부터 이익을 얻을 것이고, 양국의 관계가 향상될 것입니다."
 royalist.302.a:0 "승낙하자."
 royalist.302.b:0 "허락하지 말자."
 
-royalist.303.t:0 "[From.GetNameDefCap]이 우리 제안을 수락했다"
+royalist.303.t:0 "[From.GetNameDefCap]이(가) 우리 제안을 수락했다"
 royalist.303.d:0 "독일 정부는 우리의 제안을 받아들였고 몇몇 과학자들이 오늘 부쿠레슈티에 도착했고 앞으로 더 많은 과학자들이 올 것입니다. 우리 대학들은 이들을 두 팔을 벌려 환영하고 있으며, 이는 우리 연구에 큰 진전을 가져올 것입니다."
 royalist.303.a:0 "좋아!"
 
-royalist.304.t:0 "[From.GetNameDefCap]가 우리 제안을 거절했다"
+royalist.304.t:0 "[From.GetNameDefCap]이(가) 우리 제안을 거절했다"
 royalist.304.d:0 "독일 정부는 우리가 그들의 연구로부터 이익을 얻게 놔두지 않을 거라면서 우리의 제안을 거부했습니다."
 royalist.304.a:0 "충격적이군!"
 
-royalist.305.t:0 "[From.GetNameDefCap]가 투자를 받기 위해 경제를 개방했다"
+royalist.305.t:0 "[From.GetNameDefCap]이(가) 투자를 받기 위해 경제를 개방했다"
 royalist.305.d:0 "루마니아 정부가 오스트리아의 투자를 받기 위해 경제를 개방하였습니다. 이제 오스트리아 기업은 루마니아 지사를 좋은 조건으로 설립할 수 있습니다. 이를 통해 양국의 관계가 진전될 것입니다."
 royalist.305.a:0 "루마니아에 투자하는 회사들에 보조금을 지급하자."
 royalist.305.b:0 "지원 계획만 발표하자."
 royalist.305.c:0 "오스트리아인의 루마니아 투자를 금지하자."
 royalist.305.c_tt:0 "우리는 트란실바니아를 잊지 않았다.\n\n"
 
-royalist.306.t:0 "[From.GetNameDefCap]이 우리 제안을 받아들였다"
+royalist.306.t:0 "[From.GetNameDefCap]이(가) 우리 제안을 받아들였다"
 royalist.306.d:0 "오스트리아 정부는 루마니아에 투자하라는 우리 제안을 받아들였습니다. 몇몇 대기업들은 이미 루마니아 지사를 개설하는 것에 관심을 표명했습니다. 이를 통해 양국 관계가 향상될 것입니다."
 royalist.306.a:0 "좋아!"
 
-royalist.307.t:0 "[From.GetNameDefCap]가 우리 제안을 거절했다"
+royalist.307.t:0 "[From.GetNameDefCap]이(가) 우리 제안을 거절했다"
 royalist.307.d:0 "The Austrian government has explicitly prohibited any Austrian national to invest in Romania. This is a huge setback in our effort to open up our domestic market and get closer relations with Austria."
 royalist.307.a:0 "충격적이군!"
 
