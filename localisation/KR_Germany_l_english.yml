@@ -1,6 +1,6 @@
 ﻿l_english:
 
-german_focus:0 "독일 중점계"
+german_focus:0 "독일 중점계통도"
 
 # Crete stuff at the bottom
 
@@ -418,7 +418,7 @@ GER_agricultural_help_desc:0 "카이저라이히와 동유럽의 곡창지대 �
 
 GER_foreign_policy_decisions:0 "독일의 바깥을 살펴보다"
 
-GER_reichspakt_bulgaria:0 "불가리아를 라이히스팍트으로 초대"
+GER_reichspakt_bulgaria:0 "불가리아를 라이히스팍트로 초대"
 GER_reichspakt_bulgaria_desc:0 "~mw~가 오싹한 곳에서 일을 하게 만듭니다. 도움의 손길을 보내세요!"
 
 #GER_black_monday_mitteleuropa_decisions:0 "" already defined above

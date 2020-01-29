@@ -46,6 +46,11 @@ GENERATING_GRADIENT_BORDERS:0 "혁명을 배반하는 중"
 ### deployment_l_english
 DIVISION_EQUIPMENT:0 "사단 장비"
 
+### goals_l_english
+annex_everything:0 "합병"
+annex_everything_desc:0 "선택한 주를 합병합니다."
+annex_everything_short_desc:0 "This war goal will make annexation cheaper to pick at the peace conference."
+
 ### ideas_l_english
 government:0 "법률"
 minister:0 "정부"
