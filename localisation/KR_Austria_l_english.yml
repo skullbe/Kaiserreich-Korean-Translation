@@ -894,9 +894,9 @@ ausgleich.new.311.f:0 "크로아티아-슬라브니아로 만족한다면 기꺼
 
 ausgleich.new.312.t:0 "보헤미아가 슬로바키아 국가를 제안하다"
 ausgleich.new.312.d:0 "전날의 무의미한 토론에서, 보헤미아인 대표단은 헝가리 왕국의 영토 내에 거주하는 슬로바키아인들에 관한 문제를 제기했습니다. 특별한 권리나 자치가 없다면 슬로바키아 국민들은 마자르족주의에 대한 지속적인 정책의 희생자가 될것입니다. \n\n보헤미안 대표단은 '마자르족의 속박에서 형제를 해방시키는' 해결책으로 슬로바키아인으로 이루어진 자치 국가 건설을 제안합니다."
-ausgleich.new.312.a:0 "This is certainly a thing Hungary should consider."
-ausgleich.new.312.b:0 "It should be done. Still, this requires further planning."
-ausgleich.new.312.c:0 "It should be done, and furthermore it should include all Slovak territory."
+ausgleich.new.312.a:0 "헝가리는 당연히 이것을 고려해야 한다."
+ausgleich.new.312.b:0 "그리 될 것이다. 하지만, 아직 준비가 더 필요하다."
+ausgleich.new.312.c:0 "그리 될 것이며, 또한 이는 모든 슬로바키아 지역을 포함할 것이다."
 
 ausgleich.new.313.t:0 "갈리시아가 트란스카르파티아를 요구하다"
 ausgleich.new.313.d:0 "Joining in on the recent trend of demanding Hungarian lands, the Ruthenian delegation reminds us that their brothers across the Carpathians are not even recognised by the Hungarian government."
@@ -909,15 +909,15 @@ ausgleich.new.314.a:0 "대타협은 영토 할양을 요구하는 장소가 아�
 ausgleich.new.314.b:0 "일리있는 말이다. 그렇게 되도록 노력해보자."
 ausgleich.new.314.c:0 "일리리아는 바신 지방 전체를 통제해야한다."
 
-ausgleich.new.315.t:0 "The Polish Propose a Polish Protectorate"
-ausgleich.new.315.d:0 "Several prominent members of the Polish delegation have endorsed a more active stance in our diplomatic relationship with Poland. While Poland was left to be in the German sphere after the War, the Galicians still see Poland as their homeland, now suppressed by Prussian rule. They wish for us to liberate their copatriots.\n\nPoland is not yet lost."
-ausgleich.new.315.a:0 "We shall consider this."
+ausgleich.new.315.t:0 "폴란드인들이 폴란드 보호령을 제안하다"
+ausgleich.new.315.d:0 "폴란드인 대표단의 몇몇 저명한 구성원들이 폴란드와의 외교 관계에 있어 우리가 보다 적극적인 태세를 취하기를 지지했습니다. 전쟁 후에 폴란드 땅은 독일 영향권으로 포함되었지만, 갈리치아인들은 아직도 폴란드를 프로이센의 지배를 받고 있는, 그들의 고향으로 여기고 있습니다. 그들은 우리가 그들의 동포들을 해방시켜 주기를 바라고 있습니다.\n\n폴란드는 아직 끝나지 않았습니다."
+ausgleich.new.315.a:0 "우리는 이를 고려해 볼 것이다."
 
-ausgleich.new.316.t:0 "Romanians: an Autonomous Transylvania?"
+ausgleich.new.316.t:0 "루마니아인들 : 트란실바니아의 자치?"
 ausgleich.new.316.d:0 "While Transylvania hold some recognition by Hungary, it is by no means near the level Cisleithanian states enjoy. The Romanian delegation puts in a word for being put on the same level as the states of the Austrian half."
-ausgleich.new.316.a:0 "The Hungarian delegation should consider this."
-ausgleich.new.316.b:0 "Yes, it shall happen..."
-ausgleich.new.316.c:0 "...and it shall include all of Transylvania."
+ausgleich.new.316.a:0 "헝가리 대표단은 이를 고려해야 할 것이다."
+ausgleich.new.316.b:0 "그리 될 것이다."
+ausgleich.new.316.c:0 "이는 그리고 트란실바니아 전 지역을 포함할 것이다."
 
 ausgleich.new.317.t:0 "Hungary Abandons the Ausgleich"
 ausgleich.new.317.d:0 "Having had enough of the 'mockery of old traditions' that the Hungarian delegation calls this year's negotiations, they have left the discussions."
