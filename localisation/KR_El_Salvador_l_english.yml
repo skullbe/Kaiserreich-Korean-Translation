@@ -73,24 +73,24 @@ ELS_buying_nav_bombers_desc:0 "국내 항공기 산업에 결점이 있기 때�
 ## Starting ideas ##
 
 CEN_monroe_doctrine:0 "먼로 독트린"
-CEN_monroe_doctrine_desc:0 "The Monroe Doctrine enacted by the US has caused our nation to lack a significant military force or the ability to go to war with other American countries in general. While this ensures the safety of our country, it severely limits the idea of expansion."
+CEN_monroe_doctrine_desc:0 "미국이 주창한 먼로 독트린은 우리나라가 가진 군사력 대부분과 다른 아메리카 국가와 전쟁이 발발했을 때 대응할 수 있는 능력을 거세해 버렸습니다. 먼로 독트린이 국가 안보를 보장해 주는 것도 사실이지만, 확장 가능성을 완전히 봉쇄하기도 했습니다."
 
 ELS_memories_32:0 "'32년도의 기억"
-ELS_memories_32_desc:0 "The massacre of the socialists and indigenous people in Western El Salvador has left scars on our nation, with socialist guerrilla traitors lying around every corner. Should the United States prove unable to intervene, it could lead to an outright collapse of our regime."
+ELS_memories_32_desc:0 "엘살바도르 서부에서 벌어진 사회주의자와 원주민 학살로 인해 반역자 사회주의 게릴라들이 사방에서 암약하는 등 우리나라에 상처가 남았습니다. 미국이 개입할 능력이 없다고 밝혀진다면 정권이 완전히 무너져 버릴지도 모릅니다."
 
 ELS_depression_leftovers:0 "대공황의 잔재"
-ELS_depression_leftovers_desc:0 "The Great Depression in the United States largely devastated our coffee market, and instability consumed our nation throughout the 20s as a result. Through numerous banking reforms and natural dissipation overtime, the depression has largely left El Salvador but still affects our nation in some places."
+ELS_depression_leftovers_desc:0 "미국발 대공황이 우리의 커피 시장을 크게 황폐화했고 결과적으로 20년대 내내 불안정성이 국가를 집어삼켰습니다. 수없이 많이 시행했던 은행 개혁과 함께 시간이 흐르면서 점차 공황이 사그라들었고 현재 불황은 엘살바도르에서 거의 사라졌습니다. 하지만 일부 지역에서는 여전히 영향을 끼치고 있습니다."
 
 ## Industrial ideas ##
 
 ELS_coffee_exports:0 "커피 수출"
-ELS_coffee_exports_desc:0 "While the majority of other Central American countries are considered Banana Republics, we're unique in the fact that we lack large amounts of bananas and instead have large amounts of coffee. This makes us a desirable trade partner to others due to our monopoly on the item."
+ELS_coffee_exports_desc:0 "다른 중앙아메리카 국가들 중 대다수가 바나나 공화국이라는 별명으로 불리지만, 우리나라는 바나나가 상대적으로 부족하고 그 대신에 어마어마한 커피 생산량을 가진 특이한 국가입니다. 우리나라는 커피 품목을 사실상 독점하고 있기 때문에 다른 국가들에게 훌륭한 무역 상대국이 되어 줍니다."
 
 ELS_coffee_exports_2:0 "커피 수출"
-ELS_coffee_exports_2_desc:0 "While the majority of other Central American countries are considered Banana Republics, we're unique in the fact that we lack large amounts of bananas and instead have large amounts of coffee. This makes us a desirable trade partner to others due to our monopoly on the item."
+ELS_coffee_exports_2_desc:0 "다른 중앙아메리카 국가들 중 대다수가 바나나 공화국이라는 별명으로 불리지만, 우리나라는 바나나가 상대적으로 부족하고 그 대신에 어마어마한 커피 생산량을 가진 특이한 국가입니다. 우리나라는 커피 품목을 사실상 독점하고 있기 때문에 다른 국가들에게 훌륭한 무역 상대국이 되어 줍니다."
 
 ELS_coffee_exports_3:0 "커피 수출"
-ELS_coffee_exports_3_desc:0 "While the majority of other Central American countries are considered Banana Republics, we're unique in the fact that we lack large amounts of bananas and instead have large amounts of coffee. This makes us a desirable trade partner to others due to our monopoly on the item."
+ELS_coffee_exports_3_desc:0 "다른 중앙아메리카 국가들 중 대다수가 바나나 공화국이라는 별명으로 불리지만, 우리나라는 바나나가 상대적으로 부족하고 그 대신에 어마어마한 커피 생산량을 가진 특이한 국가입니다. 우리나라는 커피 품목을 사실상 독점하고 있기 때문에 다른 국가들에게 훌륭한 무역 상대국이 되어 줍니다."
 
 ELS_coffee_exports_4:0 "무역 경제"
 ELS_coffee_exports_4_desc:0 "The recent boom in foreign trade has made the majority of our economy based off of foreign trade. This has ensured economic prosperity for now, and surely for the future, right?"
