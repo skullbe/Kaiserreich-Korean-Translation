@@ -134,7 +134,7 @@ GEA_budget15:0 "대응 교육"
 GEA_budget15_desc:0 "미텔아프리카의 식민지 군대는 광범위한 경험을 가지고 있고, 어렵고 비참하게 승리하였으며, 지역 반란군과 저항 세력을 물리쳤습니다. 우리는 우리의 관할권 안에 그러한 사람들과 주요한 문제들을 가지고 있는 것을 볼 때 우리는 영구적인 군 지도자의 설립을 요청해야 합니다."
 GEA_budget16:0 "네이팜 폭격"
 GEA_budget16_desc:0 "우리의 미텔아프리카 친구들은 아프리카의 조밀한 반란분자들을 폭격하기 위해 새로운 무기로 불타는 네이팜탄을 도입했습니다. 의심할 여지가 없이 여기 정글에서도 쓸 수 있을 것입니다."
-GEA_budget17:0 "전장의 발퀴레"
+GEA_budget17:0 "전장의 발키리"
 GEA_budget17_desc:0 "열악한 기반시설과 거친 환경 때문에 아군이 작전을 수행할 때 우리는 부상자를 찾는데 자주 어려움을 겪고 있으며, 치료할 수 없는 상처로 인해 죽음에 이르게 됩니다. 포케볼프사는 해결가능한 해결책으로 우리에게 접근했습니다:그들의 최신 헬리콥터를 대량으로 구매하는 것, 이것은 부상자를 안전하게 지탱할 수 있는 크기를 가지고 있습니다."
 GEA_air1:0 "징가푸어 공군기지"
 GEA_air1_desc:0 "현재 우리의 항공 전력은 전부 해군 항공대입니다. 지상 공군기지에 배치될 조종사를 확보해야만 합니다."
@@ -257,12 +257,12 @@ GEA_pimp_the_concessions_desc:0 "With German influence in Nanjing at an acceptab
 # Introduction event
 Ostasien.0.t:0 "동방의 진주"
 Ostasien.0.d:0 "1926년 대영제국의 붕괴 이후, 황립해군은 반박의 여지가 없는 태평양의 주인, 그리고 동양의 지배자이자 서양의 수호자가 되었습니다. 본국의 혁명을 결정적으로 중국의 영국령 식민지 당국이 오스트랄라시아로 철수한 이후, 남은 이들은 오로지 독일의 보호를 받을 수밖에 없게 되면서, 수에즈부터 칭타오까지 이어지는 방대한 식민지 세력권이 비로소 형성되었습니다. 하지만 이 위대한 업적은 대가가 있었습니다.\n\n동양에서 우리는 본국에서 분리되어버린 타국 식민지를 흡수하는 방식으로 매우 갑작스럽고 크게 확장하게 되었기에; 우리의 지배권을 순순히 인정하도록 그들의 행정 체계를 복구하거나 완전히 재편성하기에는 너무나 혼란스러웠으며, 되려 우리의 행정 체계까지 위협받을 지경이었습니다. 때문에 독일령 동아시아는 식민지가 아니라, 해당 영토의 개발, 통치, 방어권을 한 명의 대리인에게 위임한 관할령으로 편성되었고 현재도 그렇습니다.\n\n우리의 지배에도 불구하고, 일본이 우리를 동양에서 밀어내고 본인들이 그 자리를 차지하기로 굳게 마음먹은 지금, 우리의 용감한 군인들은 공사관 도시를 내려다보고 있고, 우리의 영광스러운 전함들은 바다를 가로지르며 경계를 늦추지 않고 있습니다.\n\n내부적인 문제로 가득 찼던 과거는 아직 우리에게 예상치 못한 위험이 남았다는 것을 시사하고 있으며, 바로 그 때가 되면, 우리가 준비되었다는 것을 확실히 하는 것이 바로 우리 해군의 의무입니다."  
-Ostasien.0.a:0 "아주 좋아!"
+Ostasien.0.a:0 "멋지군!"
 Ostasien.0.b:0 "중국은?"
 
 Ostasien.1.t:0 "중국과 동아시아"
 Ostasien.1.d:0 "The Fatherland's Chinese possessions also lie under our jurisdiction, and as per the terms of the American-mediated Shanghai Conference of 1928, Germany's rights in China are equal to those of any other foreign power. The city of Tsingtau has long served as the nexus of our operations there, at once a modern city, a thriving port, and the center of an extensive commerical web woven throughout the East.\n\nNot everything passing through Kiaochow Bay is fully legitimate, however. The Aufsichtsrat der Ostasiatischen Generalverwaltung, or Supervisory Board of the East Asian General Administration, manages numerous ships, factories, and even informal concessions which violate the spirit, if not the letter, of the 1928 agreement.\n\nThe Nanjing Warlord Sun Chuanfang, in a bid to ensure his autonomy from China's central government, accepted a series of exploitative arms deals in return for extensive economic concessions within the League of Eight Provinces. Although unrecognized by Beijing, as well as the rest of the international community, the AOG spreads its influence throughout the League and ever deeper into the country's interior.\n\nUltimately Berlin would like us to use China as a buffer of sorts against Japan; every soldier spent there is one who cannot be deployed against us in Malaya and Indochina. To that end, China's government and the LEP must be supported, and Japanese encroachment in China must be considered only one step away from [GetNameGEASingapore]."
-Ostasien.1.a:0 "아주 좋아!"
+Ostasien.1.a:0 "멋지군!"
 
 # Black Monday
 Ostasien.2.t:0 "검은 월요일!"
@@ -389,12 +389,12 @@ Ostasien.32.b:0 "협상을 시도하라"
 
 Ostasien.31.t:0 "유럽인 특권"
 Ostasien.31.d:0 "With the shock of Black Monday, many European settlers have lost everything and become impoverished overnight. Now some have petitioned us to strengthen their social and commercial privileges so that, as settlers, they will not be reduced to living like mere colonial subjects. They argue that a strict racial caste system is the only way to ensure the peace in our colonies."
-Ostasien.31.a:0 "Reject Them"
-Ostasien.31.b:0 "유럽인 특권을 강화하라"
+Ostasien.31.a:0 "거부하라."
+Ostasien.31.b:0 "유럽인 특권을 강화하라."
 
 Ostasien.33.t:0 "빈 딘 코뮌 운동이 진정되다"
 Ostasien.33.d:0 "The peasant rebellion in Binh Dinh province has been pacified by our soldiers. Bombers and naval gunfire have proven especially effective in intimidating Vietnamese farmers. Binh Dinh, in Vietnamese, means pacification, and now it has really lived up to its name."
-Ostasien.33.a:0 "Excellent!"
+Ostasien.33.a:0 "훌륭해!"
 
 Ostasien.34.t:0 "사이공에서의 침략이 소멸되다"
 Ostasien.34.d:0 "The sound of rain falling on the deserted square is deafening. A tattered pamphlet, thrown in the gutter -- the ink running out across the paper in soft blueish blooms -- is the only thing that still serves as proof that Saigon was, up until just recently, a hotbed of radical socialist and syndicalist agitation. Depicted on the pamphlet is a Vietnamese worker holding a socialist red flag. The pamphlet reads: 'Workers of Indochina, unite!'. It is soon swept away by the rain and down into the sewers whence it came."
@@ -413,20 +413,20 @@ Ostasien.40.b:0 "반란 방지와 식민 행정!"
 Ostasien.41.t:0 "독일령 동아시아의 군사 대표단"
 Ostasien.41.d.a:0 "Ostasien is our sister project of sorts, we both defend the Kaiserreich from its outside enemies and insubordinate subjects. Now Admiral von Mücke has sent a delegation from [GetNameGEASingapore] to us. They have generously shared the latest naval technology and tactics with us."
 Ostasien.41.d.b:0 "Ostasien is our sister project of sorts, we both defend the Kaiserreich from its outside enemies and insubordinate subjects. Now Admiral von Mücke has sent a delegation from [GetNameGEASingapore] to us. They have generously shared the latest experience of suppressing colonial insurgency with us."
-Ostasien.41.a:0 "Courtesy demands reciprocity."
+Ostasien.41.a:0 "상호 존중이 중요하다."
 
-Ostasien.42.t:0 "독일령 중앙아프리카에서의 학습"
+Ostasien.42.t:0 "독일령 중앙아프리카에서의 연수"
 Ostasien.42.d:0 "Our military delegation has returned from Mittelafrika. Despite some flaws in local administration observed, our delegation reported that they were warmly hosted in Mittelafrika and learned a lot from them."
 Ostasien.42.a:0 "완벽하군!"
 
-Ostasien.51.t:0 "새로운 해군 대장"
+Ostasien.51.t:0 "신임 해군 대장"
 Ostasien.51.d.a:0 "After reassessing the status of the admiralty, we have decided that German East Asia must be changed into a fully functional colony. We will focus on building an administration to establish direct rule from Singapore!"
 Ostasien.51.d.b:0 "After reassessing the status of the admiralty, we have decided that German East Asia is, above all, a branch of the Kaiserliche Marine. We will focus on naval construction and leave the administration to the natives."
 Ostasien.51.a:0 "훌륭하군!"
 Ostasien.51.b:0 "훌륭하군!"
 
-Ostasien.52.t:0 "새로운 선박 도착"
-Ostasien.52.d:0 "1934년 해군 계획에 의해 건조된 새 함선이 영광스러운 우리 동아시아 함대가 [GetNameGEASingapore]에 합류했습니다."
+Ostasien.52.t:0 "신규 함선 배치"
+Ostasien.52.d:0 "1934년 해군 계획에 의해 건조된 새 함선이 영광스러운 우리 동아시아 함대의 모항 [GetNameGEASingapore]에 배치되었습니다."
 Ostasien.52.a:0 "멋지군!"
 
 # GEA Action in the Philippines
