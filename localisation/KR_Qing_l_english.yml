@@ -1059,7 +1059,7 @@ qielepcollapse.1.t:0 "The Sale of the Zhegan Railroad"
 qielepcollapse.1.d:0 "The past few weeks have seen a great deal of economic activity in the League of Eight Provinces, the southern conglomerate of provinces ruled by our nominal subordinate, Sun Chuanfang. Even more heavily influenced by German economic support than we are, the League just finished construction on a major railroad, the Zhegan line. Though funded by the Germans, it was largely built by Chinese labor, leading many to hope for a more equitable relationship between German and Chinese in the League, at least in economic affairs.\n\nA few days ago, in a surprising move, the AOG publicly announced its plans to purchase and consolidate a number of eastern railways on behalf of their subsidiary group, the Schantung-Eisenbahn-Gesellschaft - including this new Zhegan route.\n\nThis move angered many native Chinese residents of the League, who saw the Zhegan line as a potential building block in an equal relationship between Europeans and Asians. Widespread protests have broken out, inflamed by conspiracies of fraud and embezzlement on the part of Sun’s cronies."
 qielepcollapse.1.a:0 "We need to keep an eye on this"
 
-qielepcollapse.2.t:0 "Widespread Attacks on Foreigners"
+qielepcollapse.2.t:0 "외국인들에 대한 광범위한 공격"
 qielepcollapse.2.d:0 "Following the unrest surrounding the Zhegan railroad, a number of German investors and businessmen have been savagely attacked by rabid anti-foreign mobs. To make matters worse, widespread boycotts of German goods have began in the South, and this morning reports reached Beijing of bombings of railway stations in Hangzhou and other cities on the Central China Railway. Transportation has ground to a halt in many regions of the League, and KMT guerillas have used this opportunity to stage increasingly daring attacks on isolated League garrisons.\n\nThe German ambassador is demanding accountability, and while the League is largely autonomous from our control we still need to do something. Jiang Baili and other Zhili officials have long pushed to exert greater control over the League, and are urging Wu to use this crisis to leverage greater control over the south. Wu is personally uncertain of this, but is currently drafting a telegram to demand accountability from Sun and offer our help should he need it. (Unsaid, of course, is the demand for increased control over League affairs should he accept our help.)"
 qielepcollapse.2.a:0 "Let's see what Sun has to say..."
 
@@ -1076,7 +1076,7 @@ qielepcollapse.5.d:0 "지난 몇 주간, 우페이푸는 악몽을 꾸어 왔습
 qielepcollapse.5.a:0 "신이시여 우리를 도우소서"
 
 qielepcollapse.6.t:0 "제국 해군이 북부로 퇴각하다!"
-qielepcollapse.6.d:0 "Lacking any suitable ports in the north, the Imperial Fleet has been based out of Nantong since the end of the 1927 conflict. With rioting, civil unrest, and general chaos enveloping the city, admiral Wu Renli has ordered the fleet to leave the city, and head north for the small ports we control outside of Tianjin. The fall of the Nanjing docks also means we have lost what limited naval manufacturing capabilities we had."
+qielepcollapse.6.d:0 "제국 해군은 북부에 적합한 항구가 없어 1927년 이래로 남방의 난퉁에 주둔하고 있었습니다. 하지만 도시가 폭동과 총체적 혼란에 휩싸이자 어쩔 수 없이 우렌리 제독은 함대에게 도시를 떠나 중앙 정부 통제 하에 있는 톈진 외곽의 항구들로 퇴각하라는 명령을 내렸습니다. 난징 항구를 잃었다는 것은 또한 우리가 가지고 있던 몇 안되는 해군 조선소도 같이 잃었다는 뜻이기도 합니다."
 qielepcollapse.6.a:0 "제기랄!"
 
 qielepcollapse.7.t:0 "천댜오위안이 전보를 보내오다"
@@ -1265,7 +1265,7 @@ qiecoup.17.a:0 "Arrest these plotters and prepare to invade Shandong!"
 qiecoup.17.b:0 "Arrest these plotters and prepare to invade Shanxi!"
 
 qiecoup.18.t:0 "이상한 사건들"
-qiecoup.18.d:0 "걱정스러운 소식입니다! 최근 며칠동안 우리 군대 내부에서 반직예, 반독 선전물들이 돌고 있다는 것이 발견되었습니다! 그들에게 어디서 이러한 선전물들을 받았는지 물었지만, 아무도 제대로된 답을 하지 못하고, 그것들이 그냥 밤에 갑자기 나타났다고 말했습니다.\n\n더욱 걱정스럽게도, 리빙즈 같이 친 황제 태도를 보이던 몇몇 직예 장군들이 최근 몇시간 사이에 뤄양과의 연락을 끊었습니다. 설상가상으로 바오딩 육군 군관학교는 하룻밤 사이에 텅 비어버렸으며 대규모의 라디오와 전화 정전으로 제국 외곽 지역과의 통신이 차단되었습니다."
+qiecoup.18.d:0 "걱정스러운 소식입니다! 최근 며칠동안 우리 군대 내부에서 반직예, 반독 선전물들이 돌고 있다는 것이 발견되었습니다! 병사들에게 어디서 이러한 선전물들을 받았는지 물었지만, 아무도 제대로된 답을 하지 못하고, 그것들이 한밤중에 갑자기 나타났다고만 말했습니다.\n\n더욱 걱정스럽게도, 리빙즈 같이 친 황제 태도를 보이던 몇몇 직예 장군들이 최근 몇시간 사이에 뤄양과의 연락을 끊었습니다. 설상가상으로 바오딩 육군 군관학교는 하룻밤 사이에 텅 비어버렸으며 대규모의 라디오와 전화 정전으로 제국 외곽 지역과의 통신이 차단되었습니다."
 qiecoup.18.a:0 "도대체 무슨일이야?"
 
 qiecoup.19.t:0 "베이징으로의 부름"
@@ -1281,31 +1281,31 @@ qiecoup.21.d:0 "두 사람이 들어와 황제 앞에 무릎을 꿇으려는 순
 qiecoup.21.a:0 "우페이푸와 차오쿤이 죽었다! 쿠데타가 성공했다!"
 qiecoup.21.b:0 "만주족 근위대들이 모두 쓰러졌다."
 
-qiecoup.22.t:0 "The Emperor Asserts Himself"
-qiecoup.22.d:0 "Puyi nervously re-enters the room, gazing down at the bullet-riddled bodies of the former Jade Marshal and his mentor, President Cao Kun. Pujie and another small group of Manchu guardsmen enter as well, all carrying submachine guns. ‘Dearest brother - I believe it’s time for you to make a speech.’ Puyi turns from the corpses and looks at Pujie. ‘I-’ he begins, his voice uncertain. ‘I am not sure if I can do that.’ Pujie is about to say something when General Li Bingzhi, the leader of the Zhili deserters, bursts into the room.\n\n'My lord! The city is secure!’ He says, kowtowing almost to the ground facing Puyi. ‘But Jiang Baili and several other Zhili generals have retreated to Luoyang! They are planning to launch a campaign to destroy us and liberate Beijing!’ Pujie moves over to Puyi, and whispers in his ear. ‘You are the Emperor now - you must act like one!’ Puyi nervously attempts to gather himself. ‘I - the Xuantong Emperor, Son of Heaven, formally proclaim any members of the Zhili clique who do not swear fealty to me by tomorrow no-’ His voice cracks, and he is forced to steady himself. ‘Who do not do so by tomorrow noon to be traitors to the Great Qing!’"
-qiecoup.22.a:0 "Death to Traitors!"
+qiecoup.22.t:0 "황제의 선언"
+qiecoup.22.d:0 "푸이가 긴장된 표정으로 방에 들어와 벌집이 되어버린 우페이푸와 차오쿤의 시체를 바라보고 있는 동안, 푸제가 기관단총을 든 또다른 만주족 근위대원들을 데리고 방으로 들어와 말했습니다. '형님, 이제 연설을 하셔야 할것 같습니다.' 푸이는 고개를 돌려 푸제를 바라보았습니다. '나는-' 불안한 목소리로 그가 말했습니다. '나는 내가 그런걸 할 수 있을지 아직 잘 모르겠어.' 푸제가 무엇인가 말하려는 순간, 직예 쿠데타 가담자들의 지도자 리빙즈 장군이 방 안으로 들이닥쳤습니다.\n\n'폐하, 도시가 확보되었습니다!' 그는 푸이를 향해 엎드려 절을 올린 채로 말을 이어갔습니다. '하지만 장바이리와 몇몇 직예 장군들이 뤄양으로 도망쳐 베이징을 되찾고 우리를 쫒아낼 준비를 하고 있습니다!' 푸제가 푸이에게 다가와 속삭였습니다. '이제 황제시지 않습니까, 황제처럼 행동하셔야 합니다.' 푸이는 긴장을 추스르려 애쓰며 말했습니다. '나 선통제는 천자로서 선언하노라. 내일 정오까지 나에게 충성을 맹세하지 않는 직예 군-' 푸이의 목소리가 잠시 갈라졌지만, 그는 말을 이어갔습니다. '직예 군벌 인원들은 모두 대청국의 역적이 될것이다!'"
+qiecoup.22.a:0 "반역자들에게 죽음을!"
 
-qiecoup.23.t:0 "Honoring Our Obligation"
-qiecoup.23.d:0 "We have received word from Beijing that the coup plan has gone off without a hitch! Wu Peifu and Cao Kun were killed in a shootout in the Forbidden City, and Manchu generals and some Zhili who deserted are mobilizing their forces to destroy those loyal to the old regime. It’s time to honour our obligation to the Emperor and destroy these traitors!"
-qiecoup.23.a:0 "Destroy the traitors!"
+qiecoup.23.t:0 "명예로운 의무"
+qiecoup.23.d:0 "우리는 베이징에서의 쿠데타가 성공적으로 진행되었다는 소식을 받았습니다! 우페이푸와 차오쿤은 자금성에서의 총격전으로 사망했으며, 만주족 장군들과 몇몇 직예 장군들은 이제 구 정권에 충성하는 자들을 몰아낼 군대를 준비하고 있습니다. 바로 지금이 우리가 페하께 맹세한 명예로운 의무에 따라 저 반역자들을 몰아낼 때입니다!"
+qiecoup.23.a:0 "반역자들을 처단하라!"
 
-qiecoup.24.t:0 "The Countercoup"
+qiecoup.24.t:0 "반쿠데타"
 qiecoup.24.d:0 "Following Cao and Wu’s narrow escape from death in the Throne Room, Wu’s bodyguards dispersed throughout the palace, gunshots echoing throughout the halls as they encounter sporadic Manchu resistance. A few minutes later, they burst back into the throne room, dragging a terrified Puyi with them. Wu, standing above the prostrated Puyi, gestures to a bodyguard. Drawing a pistol, he grabs Puyi behind him and leads him to the door. Outside, a small group of courtiers and hangers on have gathered, along with the Emperor’s brother, Pujie, and several other Manchu nobles. Opening the door to the audience chamber, Wu steps forward, flanked by the Emperor and his captor.\n\n’Your plot has failed, traitors.’ He twists his mouth into a smirk, before gesturing the bodyguard to pull the emperor back into the room. ‘One step forward - and the Son of Heaven dies.’\n\nSecretly, Wu is terrified. But this will not be the first time he has cheated death. ‘You will all enter the throne room, where my guards will ensure you are watched over well. President Cao!’ he turns to the head of the Assembly, who at this point has retreated into the room himself. ‘Take some guards and get over to the Assembly chamber as fast as you can!’ He glances back at Puyi. ‘The time has come to end the Empire. China shall be a Republic once more.’\n\nA few hours later, once Zhili troops have raided the plotting rooms, documents are found implicating neighboring warlords. Wu is quick to immediatly declare them traitors, and mobilize his troops for war."
-qiecoup.24.a:0 "Death to Traitors!"
+qiecoup.24.a:0 "반역자들에게 죽음을!"
 
-qiecoup.25.t:0 "Victory!"
+qiecoup.25.t:0 "승리!"
 qiecoup.25.d:0 "Reports have returned to the Imperial Palace that our troops have reached the Yellow River. The scattered Zhili garrisons around Beijing proved to be little match for the Baoding-led armies, and General Zaitao's Manchu assisted in harrying retreating Zhili troops as they attempted to flee to Luoyang. Many troops simply deserted to our forces, as the thought of serving a leaderless army with little concentrated political backing does not really appeal.\n\nOur forces are now ready to began an assault on Luoyang, Wu Peifu's stronghold, currently being defended by forces under general Jiang Baili, Wu's second in command. Securing this fortress will be the beginning of the end for the Zhili clique."
-qiecoup.25.a:0 "Long live the Son of Heaven!"
+qiecoup.25.a:0 "천자 폐하 만세!"
 
-qiecoup.26.t:0 "Victory in Luoyang!"
+qiecoup.26.t:0 "뤄양에서의 승리!"
 qiecoup.26.d:0 "A telegram arrived this morning from Luoyang, confirming that our troops were victorious in storming the walls of the fortified city. Following hours of concentrated artillery bombardment, loyal troops crossed the river in impromptu barges, sustaining heavy fire. Once ashore, however, they quickly secured control over a beachhead, allowing more and more of our troops to land and begin attacking Zhili units garrisoned in the city. Fighting among the ancient grotto and temples that dot the city, our troops eventually stormed the Zhili headquarters, killing Jiang Baili. Other generals managed to escape, and Zhili troops have scattered throughout the surrounding countryside looting and pillaging even as they flee our forces."
-qiecoup.26.a:0 "Long live the Son of Heaven!"
+qiecoup.26.a:0 "천자 폐하 만세!"
 
-qiecoup.27.t:0 "Victory in the South!"
+qiecoup.27.t:0 "남부에서의 승리!"
 qiecoup.27.d:0 "The last few weeks have seen intense fighting across the southern reaches of our territory, as the die-hard supporters of Wu Peifu and the Zhili Clique were hunted down and destroyed. Especially viscous was the fighting on all routes leading in to Wuhan, as the last remnants of the Zhili Command prepare to organize a desperate last-stand in the ancient city. With the isolated garrisons destroyed, we can turn our eyes on securing this city and destroying the Zhili once and for all."
-qiecoup.27.a:0 "Long live the Son of Heaven!"
+qiecoup.27.a:0 "천자 폐하 만세!"
 
-qiecoup.28.t:0 "Victory in Wuchang!"
+qiecoup.28.t:0 "우창에서의 승리!"
 qiecoup.28.d:0 "In a final all-out assault our forces, bolstered by ranks of Zhili deserters, finally stormed Wuhan, destroying the remaining Zhili forces and capturing or killing many senior Zhili generals. With victory finally secured, we can now start to focus on rebuilding our country, and rearing it from both the ravages of the conflict we just endured and the decades of rampant corruption we were subjected to under the Zhili."
 qiecoup.28.a:0 "Long live the Son of Heaven!"
 
