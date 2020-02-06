@@ -25,11 +25,11 @@ GUA_national_populist_party_long:0 "대중당"
 GUA_national_populist_party:0 "대중당"
 
 ### Ideas ###
-GUA_socialist_compensation:0 "Socialist Compensation"
-GUA_socialist_compensation_desc:0 "The Socialists within Guatemala have been protesting with Mexican funding ever since the Dockyard and Railroad strikes, resulting in the government being forced to compensate the Socialists with empty reforms and changes often."
+GUA_socialist_compensation:0 "사회주의자에게 보상"
+GUA_socialist_compensation_desc:0 "과테말라 내 사회주의자들은 조선소와 철도 파업 이래로 계속해서 멕시코의 자금 지원을 받으면서 시위를 벌여왔습니다. 이로 인해 정부는 가끔 의미 없는 개혁과 변화를 통해 사회주의자들과 타협할 수 밖에 없었습니다."
 
-GUA_socialist_compensation_2:0 "Socialist Compensation"
-GUA_socialist_compensation_2_desc:0 "The Socialists within Guatemala have been protesting with Mexican funding ever since the Dockyard and Railroad strikes, resulting in the government being forced to compensate the Socialists with empty reforms and changes often."
+GUA_socialist_compensation_2:0 "사회주의자에게 보상"
+GUA_socialist_compensation_2_desc:0 "과테말라 내 사회주의자들은 조선소와 철도 파업 이래로 계속해서 멕시코의 자금 지원을 받으면서 시위를 벌여왔습니다. 이로 인해 정부는 가끔 의미 없는 개혁과 변화를 통해 사회주의자들과 타협할 수 밖에 없었습니다."
 
 GUA_united_fruit:0 "유나이티드 프루트 컴퍼니"
 GUA_united_fruit_desc:0 "1898년 카브레라 독재정권 이후, 유나이티드 프루트 컴퍼니는 과테말라의 정치와 경제를 꽉 잡고 있습니다. 이는 과테말라가 유의미한 경제 발전을 이루게 되었지만 유나이티드 프루트 컴퍼니가 과테말라의 운명을 좌지우지하는 결과를 가져왔습니다. 현재, 유나이티드 프루트 컴퍼니는 우리 토지의 §Y[?UFC_power]%§! 를 소유하고 있습니다.\n§W이는 우리에게 다음과 같은 결과를 줍니다:§!\n§W일일 정치력:§! §R-[?UFC_effect1]§!\n§W건설속도:§! §G+[?UFC_effect2]%§!\n§W소비재 공장:§! §Y-[?UFC_effect3]%§!\n§W전쟁 지지도:§! §R-[?UFC_effect4]%§!"
@@ -37,16 +37,16 @@ GUA_united_fruit_desc:0 "1898년 카브레라 독재정권 이후, 유나이티�
 CEN_united_fruit_land:0 "유나이티드 프루트 컴퍼니"
 
 GUA_united_fruit_start_clone:0 "유나이티드 프루트 컴퍼니"
-GUA_united_fruit_start_clone_desc:0 "The United Fruit Company has held a tight grip on Guatemalan politics and economy ever since Cabrera's dictatorship in 1898. While Guatemala has seen significant economic development as a result, it causes the United Fruit Company to hold Guatemala's fate in the balance. It currently controls §Y50%§! of our land.\n§WThis gives us the following effects:§!\n§WDaily Political Power Gain:§! §R-0.2§!\n§WConstruction Speed:§! §G+15%§!\n§WConsumer Goods Factories:§! §Y-5%§!\n§WWar Support:§! §R-30%§!"
+GUA_united_fruit_start_clone_desc:0 "1898년 카브레라 독재정권 이후, 유나이티드 프루트 컴퍼니는 과테말라의 정치와 경제를 꽉 잡고 있습니다. 이는 과테말라가 유의미한 경제 발전을 이루게 되었지만 유나이티드 프루트 컴퍼니가 과테말라의 운명을 좌지우지하는 결과를 가져왔습니다. 현재, 유나이티드 프루트 컴퍼니는 우리 토지의 §Y50%§! 를 소유하고 있습니다.\n§W이는 우리에게 다음과 같은 결과를 줍니다:§!\n§W일일 정치력:§! §R-0.2§!\n§W건설속도:§! §G+15%§!\n§W소비재 공장:§! §Y-5%§!\n§W전쟁 지지도:§! §R-30%§!"
 
 GUA_illiteracy:0 "문맹"
-GUA_illiteracy_desc:0 "Illiteracy has deeply affected Guatemala. While at the start of Orellana's regime the illiteracy rate was at 96%, the number has dropped down to 75%, mainly due to the reforms initiated in the country. However, this is still a problem, and it will likely haunt us until severe reforms are made."
+GUA_illiteracy_desc:0 "문맹이 과테말라에 깊은 영향을 끼쳤습니다. 오레야나 정권 초기 문맹률은 96%에 달했으나 개혁에 착수한 이후로는 75%까지 떨어졌습니다. 하지만 이정도도 충분히 문제가 되는 수준이며, 혹독한 개혁을 실시할 때 까지는 계속 우리를 괴롭힐 겁니다."
 
 GUA_illiteracy_2:0 "문맹"
-GUA_illiteracy_2_desc:0 "Illiteracy has deeply affected Guatemala. While at the start of Orellana's regime the illiteracy rate was at 96%, the number has dropped down to 75%, mainly due to the reforms initiated in the country. However, this is still a problem, and it will likely haunt us until severe reforms are made."
+GUA_illiteracy_2_desc:0 "문맹이 과테말라에 깊은 영향을 끼쳤습니다. 오레야나 정권 초기 문맹률은 96%에 달했으나 개혁에 착수한 이후로는 75%까지 떨어졌습니다. 하지만 이정도도 충분히 문제가 되는 수준이며, 혹독한 개혁을 실시할 때 까지는 계속 우리를 괴롭힐 겁니다."
 
 GUA_illiteracy_3:0 "문맹"
-GUA_illiteracy_3_desc:0 "Illiteracy has deeply affected Guatemala. While at the start of Orellana's regime the illiteracy rate was at 96%, the number has dropped down to 75%, mainly due to the reforms initiated in the country. However, this is still a problem, and it will likely haunt us until severe reforms are made."
+GUA_illiteracy_3_desc:0 "문맹이 과테말라에 깊은 영향을 끼쳤습니다. 오레야나 정권 초기 문맹률은 96%에 달했으나 개혁에 착수한 이후로는 75%까지 떨어졌습니다. 하지만 이정도도 충분히 문제가 되는 수준이며, 혹독한 개혁을 실시할 때 까지는 계속 우리를 괴롭힐 겁니다."
 
 GUA_compensated_illiteracy:0 "Compensated Illiteracy"
 GUA_compensated_illiteracy_desc:0 "After many educational reforms, heavy investments, and even resorting to inviting foreign intellectuals to work in Guatemala, Orellana managed to bring down our crippling illiteracy to manageable levels."
@@ -57,33 +57,33 @@ GUA_BM_desc:0 "While Black Monday did not affect us that badly, we still need to
 GUA_military_state:0 "Militarised State"
 GUA_military_state_desc:0 "More and more schools are having a military character, monthly parades are being displayed, and most political positions are held by military men. The army of Guatemala became de facto the single political party left, and the people are starting to accept living in such a society."
 
-GUA_migration_state:0 "Increased Immigration"
+GUA_migration_state:0 "이민자 증가"
 
-GUA_military_quality_production:0 "Specialised Production"
+GUA_military_quality_production:0 "생산 전문화"
 
-GUA_more_guns_idea:0 "Streamlined Gun Production"
+GUA_more_guns_idea:0 "간결한 총기 생산"
 
 GUA_more_men_idea:0 "희생 정신"
 
 GUA_build_more_ideas:0 "육군 노동자"
 
-GUA_more_fighters_idea:0 "Swarm the Skies"
+GUA_more_fighters_idea:0 "창공을 가득 채우다"
 
-GUA_university_investments:0 "University Investments"
+GUA_university_investments:0 "대학 투자"
 
-GUA_cash_crops_idea:0 "Cash Crop Profits"
+GUA_cash_crops_idea:0 "현금 작물 수익"
 
 GUA_eternal_president_idea:0 "El Presidente Eterno"
 
-GUA_orellana_loves_school:0 "Heavy Educational Investments"
+GUA_orellana_loves_school:0 "굉장한 교육 투자"
 
 GUA_faster_building:0 "진정한 과테말라 산업"
 
 GUA_ubico_dictator:0 "개성 추종"
 
-GUA_ubico_constitution:0 "The New Guatemalan Constitution"
+GUA_ubico_constitution:0 "신 과테말라 헌법"
 
-GUA_workers_economy:0 "The Workers Economy"
+GUA_workers_economy:0 "노동자 경제"
 
 GUA_kawaii_democracy:0 "Pushing for Plurality"
 
@@ -95,7 +95,7 @@ GUA_red_tech:0 "Socialist Teachings"
 
 GUA_blue_tech:0 "Meritocratic Teachings"
 
-GUA_ufc_land:0 "Tamed the UFC"
+GUA_ufc_land:0 "길들인 과일 회사"
 guatemala.1.t:0 "Intro to Guatemala"
 guatemala.1.d:0 "Guatemala's political chaos started in 1898, when Manuel Estrada Cabrera came into power. Cabrera's “Liberal” party had a deep control over the government, with all elections up until 1920 being rigged towards the Liberal party under Cabrera. This period also vastly increased the influence of the United Fruit Company, an American owned business focused on increasing the amount of exports towards America for cheaper prices.\n\nThis changed in 1920, when the Liberal party faced extreme opposition following earthquakes in 1918 that destroyed the industry Cabrera had setup. His lack of response resulted in the Conservatives within the country forming the Unionist Party, with the people running the party consisting of José Azmitia, Tácito Molina, Eduardo Camacho, Julio Bianchi and Emilio Escamilla, while also being supported by the Catholic church within Guatemala.\n\nThe Unionist Party prepared the “Three-Fold Act”, which was the founding policy of the party, and they distributed these in Guatemala City on the New Year of 1920. This led to an extreme rise of the popularity of the Unionists, with protests occurring outside the capital on March 11th, 1920, with the crowd being fired upon and the populace left more angered than before. The final straw was in 1920, when Adrián Vidaurre, President of the National Assembly, declared Cabrera unfit to rule and deposed him, though still facing fierce resistance from Cabrera's supporters. They thereby made Carlos Herrera President of Guatemala.\n\nHerrara balanced a very careful political tightrope due to him having Liberal aligned views while representing the Unionist Party. This tightrope snapped in 1921, when he critically upset the Liberal party by refusing to offer concessions the UFC, resulting in a military coup led by José María Orellana. He represented the needs and demands of the Liberal Party, offering concessions to the UFC the following year.\n\nThe political situation has completely stagnated since then, with Orellana ruling over his regime while balancing the needs of both the left and right. Guatemala now stands frozen..."
 guatemala.1.a:0 "오렐라나는 영원하리."
