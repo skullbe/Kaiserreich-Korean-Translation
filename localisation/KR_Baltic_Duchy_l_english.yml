@@ -521,39 +521,39 @@ BAT_militia:0 "발트 민병대"
 BAT_militia_desc:0 "With the mighty German army promising to defend our country against aggression, the organisation of our country's military from its very inception has been relaxed, to say the least. We need to remedy to this, wherever we are to still benefit of Germany's protection, or especially if we are to lose it."
 
 BAT_Black_Monday:0 "검은 월요일의 여파"
-BAT_Black_Monday_desc:0 "As a country deeply within the Kaiserreich's sphere of influence, the impact of the Black Monday has been brutal to our economy. However, we cannot wait for Germany to fix her own economy, there is work to be done at home. The unrest cannot be ignored, and might be costly if left to boil."
+BAT_Black_Monday_desc:0 "카이저라이히의 영향권 깊숙이 있는 국가로서, 검은 월요일의 영향은 우리 경제에 치명적이었습니다. 하지만, 우리는 독일의 경제 회복을 기다리기만 할 수 없고, 우리 스스로 해결해야 합니다. 우리 나라의 불안정을 방치한 대가는 클 것입니다."
 
 BAT_gov_goods:0 "사회 투자"
-BAT_gov_goods_desc:0 "State welfare is turning out to be one of the most important policies we have to help our people cope with this crisis. This also creates a situation where the poorest of our society can now prosper in our country, allowing us to slowly scale down the emergency programs."
+BAT_gov_goods_desc:0 "국가 복지는 우리 국민들이 이 위기에 대처하도록 돕는 가장 중요한 정책 중 하나입니다. 이것은 또한 우리 사회의 가장 가난한 사람들로 하여금 한숨 돌릴 수 있는 여유를 만들어 줄 것이고, 우리 비상 프로그램을 점진적으로 축소시킬 수 있을 것입니다."
 
 BAT_heavy_industry:0 "발트 노동자들"
-BAT_heavy_industry_desc:0 "With the effort of some of our people redirected to military factories, we have finally managed to improve our production of military hardware. This will create a skilled and dedicated military workforce on the long run. If some are to be believed, one that will come handy sooner than desired."
+BAT_heavy_industry_desc:0 "우리 군인들 중 일부가 군수공장으로 재배치되면서, 마침내 우리는 군사장비 생산량을 높일 수 있게 되었습니다. 이를 통해 숙련된 군수산업 노동자들이 양성될 것입니다."
 
 BAT_scientists:0 "새로운 과학자들"
-BAT_scientists_desc:0 "Scientific discoveries don't just magically appear out of thin air. By investing heavily in scientific pursuits even in times of trouble, we encourage our scientists and research teams to give the best for our country, and merely give them the means to do so."
+BAT_scientists_desc:0 "과학적 발견은 단지 마술처럼 허공에서 나오는 것이 아닙니다. 어려운 시기에도 불구하고 과학 연구에 크게 투자함으로써, 과학자들과 연구팀들이 우리나라를 위해 최선을 다하도록 장려할 수 있습니다."
 
 BAT_pol:0 "정치적 설립"
-BAT_pol_desc:0 "There might be those who decry the new influence of some capitalists on our economy, but this direct connection of the political and economic worlds allow us to strengthen our decision-making and help influence our nation's economy, for the better."
+BAT_pol_desc:0 "자본가들이 우리 경제에 미치는 새로운 영향력을 비난하는 사람들이 있을지도 모르지만, 정계와 재계의 직접적인 연결은 우리 의사결정을 돕고 경제에 대한 우리 영향력을 뒷받침해줄 것입니다."
 
 BAT_drill:0 "현대 훈련 시스템"
-BAT_drill_desc:0 "Training a soldier is more complex than teaching him how to shoot his rifle and throw his hand grenades. By perfecting our drill system; we can make boot camp faster, more efficient at turning the average citizen into a competent soldier, and thus capable of more rapidly mobilising new divisions, even those of a new concept to us."
+BAT_drill_desc:0 "군인을 훈련시키는 것은 단지 소총을 쏘고 수류탄을 던지는 방법을 가르치는 것이 아닙니다. 훈련 체계를 완성함으로써, 훈련시간을 단축시킬 수 있고, 평범한 시민을 효율적으로 정예군인으로 탈바꿈시킬 수 있고, 새로운 사단을 더 빠르게 무장시킬 수 있을 것입니다."
 
 BAT_fort:0 "동부방벽 요새화 연결망"
-BAT_fort_desc:0 "The Ostwall is more than a few isolated bunkers. A complex and carefully designed network of fortification works, integrating natural choke-points and artificial constructions alike, it will prove a challenge to any invading forces. Likewise, it will also help us design future expansions, and even brand new fortification lines."
+BAT_fort_desc:0 "동부 방벽은 몇개의 고립된 벙커가 아닙니다. 복잡하고 세심하게 설계된 요새 연결망과, 자연적 요충지를 통합하는 건설 작업을 통해 방벽은 외세의 어느 침공도 막아낼 것입니다. 마찬가지로 방벽은 미래의 우리 영토확장 계획의 주춧돌이 되어줄 것입니다."
 
 BAT_balts_rebellion:0 "발트인들의 반란"
 BAT_balts_rebellion_desc:0 "우리의 식민화 정책으로 인해 발트 3국 거주민들이 들고 일어났습니다. 우리는 정치적 상황에 따라 독일의 도움없이 우리 스스로 해결할 수 있습니다(독일을 전쟁에 개입시키고 싶지는 않습니다)."
 
 BAT_ger_army:0 "조국의 아들"
-BAT_ger_army_desc:0 "Native Balts, the majority of our country's population, are not currently allowed to serve in the army. And we would rather die than allow them to do so. We are proud sons of the Vaterland and our army must be a full German."
+BAT_ger_army_desc:0 "우리나라 인구의 대다수를 차지하는 발트인들은 현재 군 복무를 할 수 없습니다. 그리고 우리는 그들이 그렇게 하도록 허락할 바엔 차라리 죽음을 택할 것입니다. 우리는 아버지 조국의 자랑스러운 아들이고 우리 군대는 독일인들로 이루어져야 합니다."
 
 BAT_mixed_army:0 "전 발트 육군"
-BAT_mixed_army_desc:0 "Native Balts, the majority of our country's population, were not allowed to serve in the army. But now we need every man on the frontline, no matter who is he: German, Estonian, Latvian or Russian. The people of Baltic Duchy must defend their homes and there is no time for xenophobic bias."
+BAT_mixed_army_desc:0 "우리나라 인구의 대다수를 차지하는 발트인들은 군 복무를 할 수 없었습니다. 그러나 이제는 누가 되든 전선에 사람이 필요합니다.: 독일인,에스토니아인,라트비아인, 혹은 러시아인 상관없이요. 발트 공국 국민들은 그들의 고향을 지켜야 하고 인종차별적인 편견은 사라져야 합니다."
 
 BAT_balts_army:0 "발트인 복무"
-BAT_balts_army_desc:0 "Native Balts, the majority of our country's population, are not currently allowed to serve in the army. Too many times were Germans used to fight and too many of them have died on the battlefields. We should keep them away from service if we want a new generation of proud sons of the Vaterland."
+BAT_balts_army_desc:0 "우리나라 인구의 대다수를 차지하는 발트인들은 현재 군 복무를 할 수 없습니다. 하지만 독일인들은 전장에서 너무 많이 죽었습니다. 아버지 조국의 영광스러운 아들들이 다음 세대를 이어가기를 원한다면 우리는 그들이 전장을 멀리하게 해야 합니다."
 
-BAT_truckprod_idea:0 "Focused Truck Production"
+BAT_truckprod_idea:0 "트럭 생산 중점"
 BAT_truckprod_idea_desc:0 ""
 
 ### Flags ###
@@ -607,20 +607,20 @@ BAT_bat_conscripts_desc:0 "우리는 충분히 충성스럽고 군대에서 복�
 BAT_balts_resistance:0 "원주민 반란"
 BAT_balts_resistance_desc:0 "우리의 최근 식민지화를 향한 개혁은 발트인들의 분노에 부딪혔습니다. 그들은 자신들의 정체성을 지키기 위해 고군분투하고 있습니다; 만약 그들이 너무 심하게 차별받고 있다 느낀다면, 이것은 공개적인 반란으로 이어질 수 있습니다.\n\n§Y반란 진척도: [?balts_resistance_var]%§!"
 BAT_kurland_resistance:0 "쿠를란트의 불안정"
-BAT_kurland_resistance_desc:0 "Our recent reforms towards further colonisation were met with anger by Balts in the Kurland region. In order to save their national identity, they may resort to sabotage."
+BAT_kurland_resistance_desc:0 "쿠를란트의 식민화를 위한 우리의 개혁 노력은 지역 발트인들의 저항에 부딪혔습니다. 그들은 그들의 민족정체성을 지키기 위해 사보타주 행위를 저지를 것입니다."
 BAT_livland_resistance:0 "리블란트의 불안정"
-BAT_livland_resistance_desc:0 "Our recent reforms towards further colonisation were met with anger by Balts in the Livland region. In order to save their national identity, they may resort to sabotage."
+BAT_livland_resistance_desc:0 "리블란트의 식민화를 위한 우리의 개혁 노력은 지역 발트인들의 저항에 부딪혔습니다. 그들은 그들의 민족정체성을 지키기 위해 사보타주 행위를 저지를 것입니다."
 BAT_estland_resistance:0 "에스틀란트의 불안정"
-BAT_estland_resistance_desc:0 "Our recent reforms towards further colonisation were met with anger by Balts in the Estland region. In order to save their national identity, they may resort to sabotage."
+BAT_estland_resistance_desc:0 "에스틀란트의 식민화를 위한 우리의 개혁 노력은 지역 발트인들의 저항에 부딪혔습니다. 그들은 그들의 민족정체성을 지키기 위해 사보타주 행위를 저지를 것입니다."
 BAT_general:0 "국가적 문제"
 BAT_ostwall_start:0 "동부 방벽 요새화"
-BAT_ostwall_start_desc:0 "The Ostwall is a concept for a line of fortifications along the Russian border. It will take a long time to complete but the results will be impressive, and its tactical advantages obvious."
+BAT_ostwall_start_desc:0 "'동부 방벽'은 러시아 국경을 따라 배치된 요새의 개념입니다. 완공하는 데 오랜 시간이 걸릴 것이지만 결과는 인상적일 것이며, 전술적 이점을 얻을 것입니다."
 BAT_ostwall_kurland:0 "쿠를란트 요새화"
-BAT_ostwall_kurland_desc:0 "The construction of the Ostwall in Kurland is now under way. Many workers and soldiers work on it every day. Sooner or later, the work will be complete."
+BAT_ostwall_kurland_desc:0 "쿠를란트의 요새화가 진행되고 있습니다. 많은 일꾼들과 병사들이 매일 일하고 있고, 빠르든 느리든 공사는 완료될 것입니다."
 BAT_ostwall_livland:0 "리블란트 요새화"
-BAT_ostwall_livland_desc:0 "The construction of the Ostwall in Livland is now under way. Many workers and soldiers work on it every day. Sooner or later, the work will be complete."
+BAT_ostwall_livland_desc:0 "리블란트의 요새화가 진행되고 있습니다. 많은 일꾼들과 병사들이 매일 일하고 있고, 빠르든 느리든 공사는 완료될 것입니다."
 BAT_ostwall_estland:0 "에스틀란트 요새화"
-BAT_ostwall_estland_desc:0 "The construction of the Ostwall in Estland is now under way. Many workers and soldiers work on it every day. Sooner or later, the work will be complete."
+BAT_ostwall_estland_desc:0 "에스틀란트의 요새화가 진행되고 있습니다. 많은 일꾼들과 병사들이 매일 일하고 있고, 빠르든 느리든 공사는 완료될 것입니다."
 
 #Cosmetic Tags
 BAT_FED_national_populist:0 "발트 연방"
