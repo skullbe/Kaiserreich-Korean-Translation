@@ -266,16 +266,16 @@ balticduchy.208.b:0 "포기하고 러시아와의 무역을 금지한다."
 balticduchy.208.c:0 "저들은 또 다른 브레스트-리토브스크 조약을 원하는군!"
 
 balticduchy.209.t_LAT:0 "발트 전쟁 - 부분적인 성공"
-balticduchy.209.d_LAT:0 "We have managed to bring order into Latvia, but Estonia is now lost for us. We can restore Baltic Duchy or liberate a loyal Latvia."
+balticduchy.209.d_LAT:0 "우리는 라트비아에 질서를 가져왔지만, 에스토니아는 되찾지 못했습니다. 우리는 발트 공국을 복원하거나 충성스러운 라트비아를 해방시킬 수 있습니다."
 balticduchy.209.t_LAT_EST:0 "발트 전쟁 - 완전한 성공"
-balticduchy.209.d_LAT_EST:0 "We have managed to bring order into Latvia and Estonia. The region is now pacified. We can restore the Baltic Duchy into it's former borders, or liberate a loyal Latvia and Estonia."
-balticduchy.209.a:0 "Restore a loyal Latvia."
-balticduchy.209.b:0 "Tell the duke to stay in Germany."
-balticduchy.209.c:0 "Return the duke to Riga."
-balticduchy.209.e:0 "Total occupation!"
+balticduchy.209.d_LAT_EST:0 "우리는 라트비아와 에스토니아의 질서를 되찾았고 지역은 평화를 되찾았습니다. 우리는 충성스러운 라트비아와 에스토니아를 해방하거나, 아니면 이전의 발트 공국을 복원할 수 있습니다."
+balticduchy.209.a:0 "충성스러운 라트비아를 해방하자."
+balticduchy.209.b:0 "공작에게 독일에 남을 것을 요청하자."
+balticduchy.209.c:0 "공작을 리가로 돌려보내자."
+balticduchy.209.e:0 "완전히 점령하자!"
 
-annexation_BALTIC_GER_CONQ:0 "Fate of the Baltic Duchy"
-annexation_BALTIC_GER_CONQ_desc:0 "The rebels in the Baltic have been defeated, and our forces now control their territory. We must now decide whether to restore the Baltic Duchy or create puppet governments in these lands."
+annexation_BALTIC_GER_CONQ:0 "발트 연합 공국의 운명"
+annexation_BALTIC_GER_CONQ_desc:0 "발트 반군은 패배했고, 우리는 그들의 땅을 점령했습니다. 우리는 발트 공국을 복원할지 아니면 위성국을 세울지 결정해야 합니다."
 
 ### Parties ###
 
@@ -321,13 +321,13 @@ BAT_Ger_Estland1:0 "귀족 작위 판매"
 BAT_Ger_Estland1_desc:0 "구 러시아 제국령 발트처럼, 공국의 독일 귀족들은 현 공국 내의 특권 계급이었습니다. 이제, 세계대전 이후 많은 귀족들이 조국으로 떠났습니다. 검은 월요일이 우리 경제를 혼란스럽게 하고 있기 때문에, 우리는 약간의 여분의 자본을 얻기 위해 작위 일부를 팔 수 있습니다."
 
 BAT_Ger_Kurland2:0 "사관학교 설립"
-BAT_Ger_Kurland2_desc:0 "As an Imperial client state, we do not have a military academy of our own in which to educate officers. But with recent waves of Weltkrieg veterans settling in our Duchy, a lot of talented and skilled officers are waiting to teach a new generation. We can invest money into our own military academy as part of our reforms."
+BAT_Ger_Kurland2_desc:0 "독일의 위성국가로써 우리는 우리 장교들을 교육시킬 군사학교가 없습니다. 하지만 최근 대전쟁 퇴역군인들이 우리 공국에 정착하고 있고, 유능하고 노련한 장교들은 새로운 세대를 가르치기를 열망하고 있습니다. 우리는 개혁의 일환으로 군사학교에 투자해야 합니다."
 
 BAT_Ger_Livland2:0 "발트 농부들의 안전 보장"
-BAT_Ger_Livland2_desc:0 "We are running out of free land to distribute. Instead of taking Latvian and Estonian farmland, we shall build tenement buildings for workers in cities and force immigrants to live there and work in factories."
+BAT_Ger_Livland2_desc:0 "우리는 분배할 수 있는 자유 토지가 부족합니다. 라트비아인과 에스토니아인의 농지를 빼앗는 대신에, 우리는 도시에 노동자들을 위한 주택 건물을 짓고 이민자들이 그곳에 살면서 공장에서 일하도록 해야 합니다."
 
 BAT_Ger_Estland2:0 "발트 농부들의 토지 몰수"
-BAT_Ger_Estland2_desc:0 "We are out of free land to distribute. A lot of farms are ran by Native Balts and this fact makes us dependent on their crop output. We can, inch by inch, force them to leave these lands in favour of our German immigrants."
+BAT_Ger_Estland2_desc:0 "우리는 분배할 수 있는 자유 토지가 없습니다. 많은 농장들이 발트인들에 의해 운영되고 있고 우리는 그들의 농산물에 의존할 수밖에 없습니다. 우리는 독일 이민자들을 위해 그들을 이 땅에서 내쫓아야 합니다."
 
 BAT_Ger_Baltic:0 "독일령 발트"
 BAT_Ger_Baltic_desc:0 "독일화 과정이 거의 완료되어가고 있습니다. 발트에서 독일인들은 이제 인구상으로도 과반수를 차지하며 이는 정치적으로도 마찬가지입니다. 우리는 마침내 제국에 편입되기 위한 준비를 마쳤습니다. 물론 우리가 원하던 바입니다."
@@ -342,28 +342,28 @@ BAT_Ger_Indep:0 "독립"
 BAT_Ger_Indep_desc:0 "우리는 발트의 독일인들이며 본국의 독일인들과는 다릅니다. 절대, 절대로 제국이 우리를 마음대로 하도록 두지 않을 것입니다. 리블란트, 쿠를란트, 에스틀란트의 우리 독일인들은 본국과의 모든 거래를 중단하고 독립을 선언할 것입니다!"
 
 BAT_Ger_Autonomy1:0 "독일인 자치권"
-BAT_Ger_Autonomy1_desc:0 "It is time for us to reform. The conservatives within the Baltic Landtag want to turn the nation into a parliamentary monarchy and abandon the nigh-absolutist practices of Adolf Friedrich I. Should we listen?"
+BAT_Ger_Autonomy1_desc:0 "개혁이 필요합니다. 발트 의회의 보수주의자들은 아돌프 프리드리히 1세의 절대주의 관행을 버리고 입헌군주제 국가를 만들고 싶어 합니다. 우리가 그들의 말을 들어야 할까요?"
 
 BAT_Ger_Autonomy2:0 "카이저와 대면하다"
 BAT_Ger_Autonomy2_desc:0 "본국은 우리에게 실망했습니다. 그들에게 있어서 강력한 의회를 가진 발트 공국은 더 자주적이고 반항적인 발트 공국을 의미할 테니까요. 우리와 카이저의 관계는 손상되었습니다. 이제는 이 갈등의 해결을 운에 맡기는 대신, 정치적 자주성 증대에 대해 카이저와 직접 대면할 때가 왔습니다."
 
 BAT_Ger_Autonomy3:0 "정부 중앙 집권화"
-BAT_Ger_Autonomy3_desc:0 "The apparatus of the Ducal government is weak, rife with corruption and heavily decentralised, we must enact substantial governmental reforms before advancing forward, so that our country may prosper even without the help of the Kaiser."
+BAT_Ger_Autonomy3_desc:0 "공국 정부는 약하고 부패가 만연하며 지방 분권이 심하므로, 우리는 실질적인 정부 개혁을 시행해야 합니다. 그래야 카이저의 도움 없이도 우리나라가 번영할 수 있습니다."
 
 BAT_Ger_Autonomy4:0 "사슬을 끊어라"
-BAT_Ger_Autonomy4_desc:0 "The rift between Baltic Germans and the government of the Kaiserreich is growing deeper every day, and we can use this as an opportunity to finally increase our autonomy and maybe even finally obtain free elections for all."
+BAT_Ger_Autonomy4_desc:0 "발트 독일인들과 독일 제국 정부 사이의 갈등의 골이 깊어지고 있고, 우리는 이를 우리의 자치권을 증대시킬 기회와 최종적으로는 자유선거를 치룰 권리를 얻어낼 기회로 쓸 수 있습니다.  "
 
 BAT_Ger_Autonomy5:0 "민주주의 약속"
-BAT_Ger_Autonomy5_desc:0 "We have promised the people of the Duchy that the first free elections to the Baltic Landtag are coming soon. The people rejoice that they may finally choose the fate of their country, at least for once."
+BAT_Ger_Autonomy5_desc:0 "우리는 공국 국민들에게 발트 의회의 첫 자유선거를 약속했습니다. 사람들은 그들이 드디어 조국의 운명을 결정할 수 있다는 사실에 기뻐하고 있습니다."
 
 BAT_Fed1:0 "다문화 국가"
-BAT_Fed1_desc:0 "The Germans are not the only people living in the United Baltic Duchy. Latvians, Estonians and Russians all make up significant portions of the population, too, and they demand to be recognised and represented in the government. We shall consider it."
+BAT_Fed1_desc:0 "독일인들만이 발트 연합 공국에 살고 있는 것은 아닙니다. 라트비아인들,에스토니아인들,러시아인들 또한 인구의 상당 비율을 차지하고 있으며, 그들 또한 정부에의 참여를 주장하고 있습니다. 우리는 이를 고려해야 합니다."
 
 BAT_Fed2:0 "발트 연방"
-BAT_Fed2_desc:0 "Andrevs Niedra, a puppet head of government we placed to pacify the locals, has proposed a seemingly radical idea, reforming the Duchy into a democratic Baltic Federation, where not only Germans, but also the local Balts can have a say in how they are ruled. It seems like a good idea after all."
+BAT_Fed2_desc:0 "우리가 원주민들을 진정시키기 위해 임명한 꼭두각시 Andrevs Niedra는 공국을 민주적인 발트 연방으로 개혁한다는 급진적인 아이디어를 내놓았습니다. 이는 독일인뿐 아니라 지역 발트인들도 그들이 어떻게 통치받을지에 대해 말할 권리를 갖는다는 것을 의미합니다."
 
 BAT_Fed3:0 "첫번째 총선"
-BAT_Fed3_desc:0 "We have promised free elections as part of the future of our newly founded Federation, and it is high time for us to fulfil this promise. The Baltic peoples will now finally decide the fate of their country."
+BAT_Fed3_desc:0 "우리는 우리의 새로운 연방의 미래를 위해 자유선거를 약속했고, 이 약속을 지킬 절호의 때가 왔습니다. 마침내 발트인들은 그들의 운명을 결정할 수 있게 되었습니다."
 
 BAT_Fed4:0 "발트 무역"
 BAT_Fed4_desc:0 "The new democratic Baltic state is rife for trade dominance in the Baltic Sea. Our new political course will be beneficial to our trading centres and our port cities, so we must develop them to use this advantage to its fullest."
