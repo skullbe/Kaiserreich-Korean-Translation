@@ -1,0 +1,628 @@
+﻿capital = 739
+oob = "CAN"
+set_naval_oob= "CAN_naval"
+
+set_technology = {
+	### General ###
+	electronic_mechanical_engineering = 1
+	fuel_silos = 1
+	### Tanks ###
+	gwtank = 1
+	basic_light_tank = 1
+	basic_heavy_tank = 1
+	### INF ###
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_mountaineers = 1
+	motorised_infantry = 1
+	tech_engineers = 1
+	gw_artillery = 1
+	marines = 1
+	tech_military_police = 1
+	tech_recon = 1
+	interwar_antiair = 1
+	### AIR ###
+	early_fighter = 1
+	early_bomber = 1
+	naval_bomber1 = 1
+	cv_early_fighter = 1
+	cv_CAS1 = 1
+	cv_naval_bomber1 = 1
+	fighter1 = 1
+	tactical_bomber1 = 1
+	strategic_bomber1 = 1
+	CAS1 = 1
+}
+
+### Navy - MtG ###
+
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		weltkrieg_light_ship_hull = 1
+		contact_mine = 1
+		light_ship_hull_1936 = 1
+		weltkrieg_cruiser_hull = 1
+		cruiser_hull_1936 = 1
+		weltkrieg_submarine_hull = 1
+		submarine_hull_1936 = 1
+		cruiser_submarine = 1
+		carrier_conversion = 1
+		carrier_hull_1936 = 1
+		ship_hull_revived_ac = 1
+		weltkrieg_heavy_ship_hull = 1
+		heavy_ship_hull_1936 = 1
+		ship_hull_super_heavy = 1
+
+		## Modules##
+		early_torpedo = 1
+		weltkrieg_naval_gunnery = 1
+		naval_ammo_one = 1
+		light_battery_one = 1
+		sonar = 1
+		improved_ship_torpedo_launcher = 1
+		basic_cruiser_armor_scheme = 1
+		weltkrieg_naval_gunnery = 1
+		naval_ammo_one = 1
+		basic_heavy_armor_scheme = 1
+		capital_gunnery_one = 1
+		weltkrieg_naval_gunnery = 1
+		transport = 1
+	}
+}
+
+### Navy - Non MtG ###
+
+if = {
+	limit = {
+		not = {
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_technology = {
+		weltkrieg_destroyer_nonmtg = 1
+		interwar_destroyer_nonmtg = 1
+		weltkrieg_cruiser_nonmtg = 1
+		interwar_cruiser_nonmtg = 1
+		weltkrieg_submarine_nonmtg = 1
+		interwar_submarine_nonmtg = 1
+		weltkrieg_armored_cruiser_nonmtg = 1
+		interwar_armored_cruiser_nonmtg = 1
+		weltkrieg_fast_battleship_nonmtg = 1
+		interwar_fast_battleship_nonmtg = 1
+		weltkrieg_dreadnought_nonmtg = 1
+		super_heavy_dreadnought_nonmtg = 1
+		heavy_carrier_nonmtg = 1
+		transport = 1
+	}
+}
+
+set_research_slots = 4
+
+create_faction = Entente
+add_to_faction = CAN
+add_to_faction = CAF
+add_to_faction = NFA
+add_to_faction = DEH
+add_to_faction = AST
+add_to_faction = SRD
+
+add_opinion_modifier = { target = ENG modifier = embargo }
+add_opinion_modifier = { target = FRA modifier = embargo }
+add_opinion_modifier = { target = SRI modifier = embargo }
+add_opinion_modifier = { target = BHC modifier = embargo }
+add_opinion_modifier = { target = SOV modifier = embargo }
+add_opinion_modifier = { target = PRF modifier = embargo }
+add_opinion_modifier = { target = CSA modifier = embargo }
+add_opinion_modifier = { target = SAF modifier = embargo }
+add_opinion_modifier = { target = LEC modifier = LEC_member }
+LEC = { give_military_access = CAN }
+diplomatic_relation = { country = LEC relation = non_aggression_pact }
+set_country_flag = legation_council_member
+
+set_war_support = 0.4
+
+set_politics = {
+	ruling_party = market_liberal
+	last_election = "1935.3.26"
+	election_frequency = 60
+	elections_allowed = yes
+}
+
+set_popularities = {
+	totalist = 1
+	radical_socialist = 1
+	syndicalist = 1
+	social_democrat = 2
+	social_liberal = 10
+	market_liberal = 42
+	social_conservative = 30
+	authoritarian_democrat = 1
+	paternal_autocrat = 2
+	national_populist = 10
+}
+
+set_autonomy = {
+	target = CAF
+	autonomy_state = kr_initial_wif_puppet
+}
+
+# reloading CAF politics
+CAF = {
+	set_politics = {
+		ruling_party = market_liberal
+		last_election = "1933.8.9"
+		election_frequency = 48
+		elections_allowed = yes
+	}
+
+	set_popularities = {
+		totalist = 2
+		syndicalist = 12
+		radical_socialist = 8
+		social_democrat = 7
+		social_liberal = 10
+		market_liberal = 30
+		social_conservative = 21
+		authoritarian_democrat = 8
+		paternal_autocrat = 2
+		national_populist = 0
+	}
+
+}
+
+set_convoys = 250
+
+add_ideas = {
+	CAN_divided_nation
+	anglo_french_tensions
+	# Starting Cabinet
+	CAN_Mackenzie_King_hog_mli
+	CAN_Lester_B_Pearson_for_mli
+	CAN_CD_Howe_eco_mli
+	CAN_Ernest_Lapointe_sec_mli
+}
+
+country_event = { id = canada.1 days = 1 } #Intro event
+country_event = { id = canada.2 days = 19 } #Death of George V
+country_event = { id = canada.702 days = 41 } #Imperial Conference of 1936
+country_event = { id = canada.320 days = 99 } #1936 Stanley Cup
+country_event = { id = canada.226 days = 108 } #Stanley Baldwin Resigns
+country_event = { id = canada.227 days = 154 } #Royal Wedding
+country_event = { id = canada.51 days = 375 } #1937 Quebec Elections
+country_event = { id = canada.52 days = 375 } #1937 Quebec Elections
+country_event = { id = canada.227 days = 154 } #Royal Wedding
+country_event = { id = canada.228 days = 568 } #A New Heir
+country_event = { id = canada.42 days = 919 } #Old Guard Retires
+country_event = { id = canada.44 days = 2699 } #Death of William Aberhart
+country_event = { id = canada.232 days = 2929 } #Mackenzie King Retires
+country_event = { id = canada.233 days = 3290 } #R.B. Bennett Retires
+
+
+create_country_leader = {
+	name = "George V"
+	desc = "POLITICS_GEORGE_DESC"
+	picture = "Portrait_Canada_King_George.tga"
+	expire = "1965.1.1"
+	ideology = market_liberal_subtype
+}
+create_country_leader = {
+	name = "Tim Buck"
+	picture = "Portrait_Canada_Tim_Buck.tga"
+	expire = "1965.1.1"
+	ideology = totalist_subtype
+}
+create_country_leader = {
+	name = "Humphrey Mitchell"
+	picture = "Portrait_Canada_Humphrey_Mitchell.tga"
+	expire = "1965.1.1"
+	ideology = radical_socialist_subtype
+}
+
+### Field Marshal
+create_field_marshal = {# Bernard Montgomery
+	name = "Bernard Montgomery"
+	picture = "Portrait_England_Bernard_Montgomery.tga"
+	traits = {
+		logistics_wizard
+		offensive_doctrine
+		media_personality
+		trait_cautious
+		politically_connected
+		organizer
+	}
+	skill = 4
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 4
+	id = 910
+}
+create_field_marshal = {# Edmund Ironside
+	name = "Edmund Ironside"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Edmund_Ironside.tga"
+	traits = {
+		logistics_wizard
+		war_hero
+		career_officer
+		logistics_wizard
+		thorough_planner
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 2
+	id = 911
+}
+create_field_marshal = {# Kenneth Stuart
+	name = "Kenneth Stuart"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Kenneth_Stuart.tga"
+	traits = {
+		war_hero
+		inspirational_leader
+		trait_reckless
+		organizer
+		fast_planner
+	}
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 1
+	id = 912
+}
+### Corps Commander
+create_corps_commander = {# Claude Auchinleck
+	name = "Claude Auchinleck"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Claude_Auchinleck.tga"
+	traits = {
+		inflexible_strategist
+		career_officer
+	}
+	skill = 5
+	attack_skill = 4
+	defense_skill = 3
+	planning_skill = 4
+	logistics_skill = 5
+	id = 913
+}
+create_corps_commander = {# Bert Hoffmeister
+	name = "Bert Hoffmeister"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Bert_Hoffmeister_2.tga"
+	traits = { hill_fighter }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 3
+	id = 914
+}
+create_corps_commander = {# Guy Simonds
+	name = "Guy Simonds"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Guy_Simonds.tga"
+	traits = {
+		trait_reckless
+		career_officer
+		infantry_leader
+	}
+	skill = 4
+	attack_skill = 5
+	defense_skill = 4
+	planning_skill = 2
+	logistics_skill = 2
+	id = 915
+}
+create_corps_commander = {# Henry Maitland Wilson
+	name = "Henry Maitland Wilson"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Henry_Maitland_Wilson.tga"
+	traits = {
+		old_guard
+		politically_connected
+	}
+	skill = 4
+	attack_skill = 2
+	defense_skill = 4
+	planning_skill = 4
+	logistics_skill = 3
+	id = 916
+}
+create_corps_commander = {# Adrian Carton de Wiart
+	name = "Adrian Carton de Wiart"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Adrian_Wiart.tga"
+	traits = {
+		trickster
+		commando
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 4
+	planning_skill = 2
+	logistics_skill = 2
+	id = 917
+}
+create_corps_commander = {# Charles Foulkes
+	name = "Charles Foulkes"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Charles_Foulkes_2.tga"
+	gfx = "GFX_CAN_charles_foulkes"
+	skill = 4
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 3
+	id = 918
+}
+create_corps_commander = {# Andrew Mcnaughton
+	name = "Andrew McNaughton"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Andrew_McNaughton.tga"
+	traits = {
+		career_officer
+		trait_engineer
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 2
+	id = 919
+}
+create_corps_commander = {# Harry Crerar
+	name = "Harry Crerar"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Harry_Crerar.tga"
+	traits = {
+		politically_connected
+		trait_engineer
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 3
+	id = 920
+}
+create_corps_commander = {# Orde Wingate
+	name = "Orde Wingate"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Orde_Wingate.tga"
+	traits = {
+		trickster
+		jungle_rat
+	}
+	skill = 4
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 3
+	logistics_skill = 5
+	id = 921
+}
+create_corps_commander = {# Robert Brooke-Popham
+	name = "Robert Brooke-Popham"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Robert_Brooke_Popham.tga"
+	traits = {
+		war_hero
+		politically_connected
+		old_guard
+		infantry_leader
+	}
+	skill = 3
+	attack_skill = 1
+	defense_skill = 4
+	planning_skill = 3
+	logistics_skill = 2
+	id = 922
+}
+create_corps_commander = {# Georges Vanier
+	name = "Georges Vanier"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Georges_Vanier.tga"
+	traits = {
+		politically_connected
+		organizer
+	}
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+	id = 923
+}
+create_corps_commander = {# Duke of Gloucester
+	name = "Henry, Duke of Gloucester"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Duke_of_Gloucester.tga"
+	traits = { politically_connected}
+	skill = 2
+	attack_skill = 3
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 1
+	id = 924
+}
+create_corps_commander = {# Philip Neame
+	name = "Philip Neame"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Philip_Neame.tga"
+	skill = 2
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+	id = 925
+}
+
+create_corps_commander = {# Alan Brooke
+	name = "Alan Brooke"
+	picture = "Portrait_England_Alan_Brooke.tga"
+	traits = {
+		organizer
+		trait_cautious
+		career_officer
+	}
+	skill = 3
+	attack_skill = 1
+	defense_skill = 4
+	planning_skill = 3
+	logistics_skill = 2
+	id = 926
+}
+create_corps_commander = {# Richard O'Connor
+	name = "Richard O'Connor"
+	picture = "Portrait_England_Richard_O_Connor.tga"
+	skill = 4
+	attack_skill = 2
+	defense_skill = 4
+	planning_skill = 4
+	logistics_skill = 3
+	id = 927
+}
+create_corps_commander = {# John Dill
+	name = "John Dill"
+	picture = "Portrait_England_John_Dill.tga"
+	traits = { hill_fighter }
+	skill = 3
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+	id = 928
+}
+### Navy Leaders
+create_navy_leader = {# John Cunningham
+	name = "John Cunningham"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_John_Cunningham.tga"
+	traits = {
+		superior_tactician
+		spotter
+	}
+	skill = 4
+	attack_skill = 3
+	defense_skill = 3
+	maneuvering_skill = 3
+	coordination_skill = 4
+	id = 929
+}
+create_navy_leader = {# Percy Nelles
+	name = "Percy Nelles"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Percy_Nelles.tga"
+	traits = {
+		superior_tactician
+	}
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	maneuvering_skill = 3
+	coordination_skill = 3
+	id = 930
+}
+create_navy_leader = {# Louis Mountbatten
+	name = "Louis Mountbatten"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Louis_Mountbatten.tga"
+	traits = {
+		spotter
+	}
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	maneuvering_skill = 3
+	coordination_skill = 3
+	id = 931
+}
+create_navy_leader = {# Harry DeWolf
+	name = "Harry DeWolf"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Harry_DeWolf.tga"
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	maneuvering_skill = 2
+	coordination_skill = 3
+	id = 937
+}
+create_navy_leader = {# Roger Backhouse
+	name = "Roger Backhouse"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Roger_Backhouse.tga"
+	traits = {
+		old_guard_navy
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	maneuvering_skill = 2
+	coordination_skill = 3
+	id = 909
+}
+create_navy_leader = {# Tom Phillips
+	name = "Tom Phillips"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Tom_Phillips.tga"
+	traits = {
+		superior_tactician
+		seawolf
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 2
+	maneuvering_skill = 3
+	coordination_skill = 3
+	id = 908
+}
+create_navy_leader = {# Dudley Pound
+	name = "Dudley Pound"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Dudley_Pound.tga"
+	traits = {
+		old_guard_navy
+		ironside
+	}
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	maneuvering_skill = 2
+	coordination_skill = 2
+	id = 907
+}
+create_navy_leader = {# Leonard W. Murray
+	name = "Leonard W. Murray"
+	portrait_path = "gfx/leaders/CAN/Portrait_Canada_Leonard_Murray.tga"
+	traits = {
+		old_guard_navy
+		blockade_runner
+	}
+	skill = 2
+	attack_skill = 1
+	defense_skill = 2
+	maneuvering_skill = 2
+	coordination_skill = 2
+	id = 906
+}
+create_navy_leader = {# James Somerville
+	name = "James Somerville"
+	picture = "Portrait_England_James_Somerville.tga"
+	traits = { superior_tactician }
+	skill = 5
+	attack_skill = 4
+	defense_skill = 4
+	maneuvering_skill = 4
+	coordination_skill = 5
+	id = 903
+}
+create_navy_leader = {# Andrew Cunningham
+	name = "Andrew Cunningham"
+	picture = "Portrait_England_Andrew_Cunningham.tga"
+	traits = { blockade_runner superior_tactician }
+	skill = 5
+	attack_skill = 4
+	defense_skill = 4
+	maneuvering_skill = 4
+	coordination_skill = 5
+	id = 904
+}
+create_navy_leader = {# John Tovey
+	name = "John Tovey"
+	picture = "Portrait_England_John_Tovey.tga"
+	traits = { superior_tactician }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 4
+	maneuvering_skill = 3
+	coordination_skill = 4
+	id = 905
+}
+
+CAN_start_naval_variant = yes

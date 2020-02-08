@@ -1,0 +1,199 @@
+﻿capital = 558
+OOB = "empty"
+set_research_slots = 2
+set_technology = {
+	### MOD ###
+	### INF ###
+	infantry_weapons = 1
+}
+
+### Navy - MtG ###
+
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		weltkrieg_light_ship_hull = 1
+		contact_mine = 1
+		light_ship_hull_1936 = 1
+		weltkrieg_cruiser_hull = 1
+		cruiser_hull_1936 = 1
+
+		## Modules##
+		weltkrieg_naval_gunnery = 1
+		light_battery_one = 1
+		smoke_generator = 1
+	}
+}
+
+### Navy - Non MtG ###
+
+if = {
+	limit = {
+		not = {
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_technology = {
+		weltkrieg_destroyer_nonmtg = 1
+		interwar_destroyer_nonmtg = 1
+		weltkrieg_cruiser_nonmtg = 1
+		interwar_cruiser_nonmtg = 1
+	}
+}
+
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1888.6.15"
+	election_frequency = 48
+	elections_allowed = no
+}
+add_ideas = {
+	war_economy
+	limited_exports
+}
+
+set_popularities = {
+	totalist = 0
+	radical_socialist = 0
+	syndicalist = 0
+	social_democrat = 2
+	social_liberal = 6
+	market_liberal = 6
+	social_conservative = 12
+	authoritarian_democrat = 15
+	paternal_autocrat = 47
+	national_populist = 12
+}
+
+create_country_leader = {
+	name = "Benjamin Nnamdi Azikiwe"
+	desc = "POLITICS_NNAMDI_DESC"
+	picture = "Portrait_NGR_Benjamin_Azikiwe.tga"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+}
+
+create_country_leader = {
+	name = "Humphrey Chukwuka"
+	desc = "POLITICS_HUMPHREY_DESC"
+	picture = "gfx/leaders/Generic/Portrait_Europe_Generic_new_1.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democrat_subtype
+}
+
+create_country_leader = {
+	name = "Christopher Earle Welby-Everard"
+	desc = "POLITICS_CHRISTOPHER_WELBY_DESC"
+	picture = "gfx/leaders/Generic/Portrait_Europe_Generic_new_2.tga"
+	expire = "1965.1.1"
+	ideology = social_conservative_subtype
+}
+
+create_country_leader = {
+	name = "Obafemi Awolowo"
+	desc = "POLITICS_OBAFEMI_DESC"
+	picture = "gfx/leaders/Generic/Portrait_Africa_Generic_new_1.tga"
+	expire = "1965.1.1"
+	ideology = market_liberal_subtype
+}
+
+create_country_leader = {
+	name = "Funmilayo Ransome Kuti"
+	desc = "POLITICS_RANSOMEKUTI_DESC"
+	picture = "gfx/leaders/Generic/Portrait_Africa_Generic_new_2.tga"
+	expire = "1965.1.1"
+	ideology = social_liberal_subtype
+}
+
+create_country_leader = {
+	name = "Francis Akanu Ibiam"
+	desc = "POLITICS_FRANCIS_AKANU_DESC"
+	picture = "gfx/leaders/Generic/Portrait_Africa_Generic_new_1.tga"
+	expire = "1965.1.1"
+	ideology = social_democrat_subtype
+}
+
+create_country_leader = {
+	name = "Hezekiah Oladipo Davies"
+	desc = "POLITICS_OLDADIPO_DESC"
+	picture = "gfx/leaders/Generic/Portrait_Africa_Generic_new_2.tga"
+	expire = "1965.1.1"
+	ideology = radical_socialist_subtype
+}
+
+create_country_leader = {
+	name = "Michael Athokhamien Imoudu"
+	desc = "POLITICS_MICHAEL_ATHOKHAMIEN_DESC"
+	picture = "gfx/leaders/Generic/Portrait_Africa_Generic_new_1.tga"
+	expire = "1965.1.1"
+	ideology = syndicalist_subtype
+}
+
+create_country_leader = {
+	name = "Samuel Akisanya"
+	desc = "POLITICS_SAMUEL_AKISANYA_DESC"
+	picture = "gfx/leaders/Generic/Portrait_Africa_Generic_new_2.tga"
+	expire = "1965.1.1"
+	ideology = totalist_subtype
+}
+
+
+### Field Marshal
+### Corps Commander
+create_corps_commander = { #Auto-Generated
+	name = "Banks-MacDonald"
+	portrait_path = "gfx/leaders/NIG/Portrait_NIG_Banks_MacDonald.tga"
+	traits = {
+		fortress_buster
+		old_guard
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "de L'Isle"
+	portrait_path = "gfx/leaders/NIG/Portrait_NIG_de_Isle.tga"
+	traits = {
+		old_guard
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Dickinson"
+	portrait_path = "gfx/leaders/NIG/Portrait_NIG_Dickinson.tga"
+	traits = {
+		trait_engineer
+		old_guard
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Hilton-Green"
+	portrait_path = "gfx/leaders/NIG/Portrait_NIG_Hilton_Green.tga"
+	traits = {
+		skilled_staffer
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+### Navy Leader

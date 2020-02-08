@@ -1,0 +1,360 @@
+﻿capital = 408
+
+oob = "TRM"
+set_naval_oob= "TRM_naval"
+
+set_technology = {
+	#### Tanks ####
+	gwtank = 1
+	#### INF ####
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_recon = 1
+	tech_engineers = 1
+	marines = 1
+	gw_artillery = 1
+	#### AIR ####
+	early_fighter = 1
+	cv_early_fighter = 1
+	early_bomber = 1
+	naval_bomber1 = 1
+	fighter1 = 1
+}
+
+### Navy - MtG ###
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		weltkrieg_light_ship_hull = 1
+		contact_mine = 1
+		light_ship_hull_1936 = 1
+		weltkrieg_cruiser_hull = 1
+		cruiser_hull_1936 = 1
+		weltkrieg_submarine_hull = 1
+		submarine_hull_1936 = 1
+		cruiser_submarine = 1
+		ship_hull_revived_ac = 1
+
+		## Modules##
+		early_torpedo = 1
+		weltkrieg_naval_gunnery = 1
+		naval_ammo_one = 1
+		light_battery_one = 1
+		light_battery_two = 1
+		improved_ship_torpedo_launcher = 1
+		basic_cruiser_armor_scheme = 1
+		weltkrieg_naval_gunnery = 1
+		weltkrieg_naval_gunnery = 1
+	}
+}
+
+### Navy - Non MtG ###
+if = {
+	limit = {
+		not = {
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_technology = {
+		weltkrieg_destroyer_nonmtg = 1
+		interwar_destroyer_nonmtg = 1
+		weltkrieg_cruiser_nonmtg = 1
+		interwar_cruiser_nonmtg = 1
+		weltkrieg_submarine_nonmtg = 1
+		interwar_submarine_nonmtg = 1
+		weltkrieg_armored_cruiser_nonmtg = 1
+		interwar_armored_cruiser_nonmtg = 1
+		weltkrieg_dreadnought_nonmtg = 1
+	}
+}
+
+country_event = { id = tram.intro days = 1 }
+
+set_stability = 0.5
+set_war_support = 0.55
+set_research_slots = 3
+set_convoys = 30
+
+add_ideas = {
+	TRM_Grigoriy_M_Semyenov_hog_pau
+	TRM_Boris_Bakhmetev_for_ade
+	TRM_Dmitriy_Lebedev_eco_pau
+	TRM_Arkady_Udintsev_sec_pau
+	extensive_conscription
+	TRM_kolchak
+	TRM_anti_kolchak
+	TRM_dream
+	TRM_JAP_INF_START
+}
+
+diplomatic_relation = { country = FNG relation = non_aggression_pact }
+add_opinion_modifier = { target = FNG modifier = FNG_COMMON_ALIGNMENT }
+add_opinion_modifier = { target = RUS modifier = embargo }
+add_opinion_modifier = { target = LEC modifier = LEC_member }
+LEC = { give_military_access = TRM }
+diplomatic_relation = { country = LEC relation = non_aggression_pact }
+
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1930.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	totalist = 0
+	radical_socialist = 0
+	syndicalist = 0
+	social_democrat = 2
+	social_liberal = 6
+	market_liberal = 6
+	social_conservative = 17
+	authoritarian_democrat = 20
+	paternal_autocrat = 47
+	national_populist = 2
+}
+
+create_country_leader = {
+	name = "Aleksandr Kolchak"
+	desc = "POLITICS_ALEXANDR_KOLCHAK_DESC"
+	picture = "Portrait_Transamur_Alexandr_Kolchak.tga"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+}
+
+create_country_leader = {
+	name = "Yui Mitsue"
+	desc = "POLITICS_YUI_DESC"
+	picture = "Portrait_Transamur_Yui_Mitsue.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democrat_subtype
+}
+
+create_country_leader = {
+	name = "Viktor Pepelyayev"
+	desc = "POLITICS_PEPELYAYEV_DESC"
+	picture = "Portrait_Transamur_Victor_Pepelyaev.tga"
+	expire = "1965.1.1"
+	ideology = market_liberal_subtype
+}
+
+create_country_leader = {
+	name = "Boris Shumyatskiy"
+	desc = "POLITICS_SHUMYATSKY_DESC"
+	picture = "Portrait_Transamur_Boris_Shumyatsky.tga"
+	expire = "1965.1.1"
+	ideology = social_democrat_subtype
+}
+
+create_country_leader = {
+	name = "Spiridon Merkulov"
+	desc = "POLITICS_MERKULOV_DESC"
+	picture = "Portrait_Transamur_Spiridon_Merkulov.tga"
+	expire = "1965.1.1"
+	ideology = social_conservative_subtype
+}
+create_country_leader = {
+	name = "Aleksandr Krasnoshchyekov"
+	desc = "POLITICS_KRASNOSHCHYEKOV_DESC"
+	picture = "Portrait_Transamur_Alexander_Krasnoshchyokov.tga"
+	expire = "1965.1.1"
+	ideology = radical_socialist_subtype
+}
+create_country_leader = {
+	name = "Aleksandr Krasnoshchyekov"
+	desc = "POLITICS_KRASNOSHCHYEKOV_DESC"
+	picture = "Portrait_Transamur_Alexander_Krasnoshchyokov.tga"
+	expire = "1965.1.1"
+	ideology = syndicalist_subtype
+}
+create_country_leader = {
+	name = "Aleksandr Krasnoshchyekov"
+	desc = "POLITICS_KRASNOSHCHYEKOV_DESC"
+	picture = "Portrait_Transamur_Alexander_Krasnoshchyokov.tga"
+	expire = "1965.1.1"
+	ideology = totalist_subtype
+}
+
+### Field Marshal
+create_field_marshal = {
+	name = "Anatoliy Pepelyaev"
+	portrait_path = "gfx/leaders/TRM/Portrait_TRM_Pepelyaev.tga"
+	traits = {
+		offensive_doctrine
+		career_officer
+	}
+	skill = 3
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_field_marshal = {
+	name = "Grigoriy Semyenov"
+	portrait_path = "gfx/leaders/TRM/Portrait_Transamur_Grigory_Semyonov.tga"
+	traits = {
+		defensive_doctrine
+		cavalry_leader
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 3
+}
+
+### Corps Commander
+create_corps_commander = {
+	name = "Boris Annenkov"
+	picture = "Portrait_TRM_Boris_Annenkov.tga"
+	traits = {
+		career_officer
+		cavalry_officer
+		cavalry_leader
+		winter_specialist
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Sergey Baranovskiy"
+	portrait_path = "gfx/leaders/TRM/Portrait_TRM_Baranovsky.tga"
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Mikhail Khanzhin"
+	portrait_path = "gfx/leaders/TRM/Portrait_TRM_Khanzhin.tga"
+	traits = {
+		old_guard
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Dmitriy Semyenov"
+	portrait_path = "gfx/leaders/TRM/Portrait_TRM_Semenov.tga"
+	traits = {
+		organizer
+	}
+	skill = 2
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Vladimir Gulidov"
+	portrait_path = "gfx/leaders/TRM/Portrait_TRM_Gulidov.tga"
+	traits = {
+		commando
+	}
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Vladimir Tolstov"
+	portrait_path = "gfx/leaders/TRM/Portrait_TRM_Tolstov.tga"
+	skill = 2
+	attack_skill = 3
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Leonid Skipetrov"
+	portrait_path = "gfx/leaders/TRM/Portrait_TRM_Skipetrov.tga"
+	traits = {
+		commando
+	}
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Vasiliy Boldyrev"
+	portrait_path = "gfx/leaders/TRM/Portrait_TRM_Boldyrev.tga"
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Aleksandr Kolchak"
+	id = 50000
+	portrait_path = "gfx/leaders/TRM/Portrait_Transamur_Alexandr_Kolchak.tga"
+	traits = {
+		media_personality
+		politically_connected
+	}
+	skill = 4
+	attack_skill = 4
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 3
+}
+
+### Navy Leader
+create_navy_leader = {
+	name = "Georgiy Stark"
+	portrait_path = "gfx/leaders/TRM/Portrait_TRM_Stark.tga"
+	skill = 3
+	maneuvering_skill = 2
+	defense_skill = 3
+	attack_skill = 3
+	coordination_skill = 2
+}
+
+create_navy_leader = {
+	name = "Aleksandr Kolchak"
+	id = 50001
+	portrait_path = "gfx/leaders/TRM/Portrait_Transamur_Alexandr_Kolchak.tga"
+	traits = {
+		superior_tactician
+	}
+	skill = 4
+	maneuvering_skill = 3
+	defense_skill = 3
+	attack_skill = 4
+	coordination_skill = 3
+}
+
+create_navy_leader = {
+	name = "Aleksandr Gerasimov"
+	portrait_path = "gfx/leaders/TRM/Portrait_TRM_Gerasimov.tga"
+	skill = 1
+	maneuvering_skill = 1
+	defense_skill = 1
+	attack_skill = 1
+	coordination_skill = 1
+}
+
+TRM_start_naval_variant = yes
+

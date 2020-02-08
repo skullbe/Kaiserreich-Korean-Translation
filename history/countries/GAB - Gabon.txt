@@ -1,0 +1,94 @@
+﻿capital = 539
+OOB = "empty"
+set_research_slots = 2
+set_technology = {
+	### MOD ###
+	### INF ###
+	infantry_weapons = 1
+}
+
+set_politics = {
+	ruling_party = social_conservative
+	last_election = "1888.6.15"
+	election_frequency = 48
+	elections_allowed = no
+}
+add_ideas = {
+	war_economy
+	limited_exports
+}
+
+set_popularities = {
+	totalist = 0
+	radical_socialist = 0
+	syndicalist = 0
+	social_democrat = 2
+	social_liberal = 6
+	market_liberal = 6
+	social_conservative = 47
+	authoritarian_democrat = 15
+	paternal_autocrat = 12
+	national_populist = 12
+}
+
+create_country_leader = {
+	name = "Gabriel Léon M'ba"
+	desc = "POLITICS_GABRIEL_LEON_DESC"
+	picture = "Portrait_GAB_Leon.tga"
+	expire = "1965.1.1"
+	ideology = social_conservative_subtype
+}
+
+### Field Marshal
+### Corps Commander
+create_corps_commander = { #Auto-Generated
+	name = "Eboue"
+	portrait_path = "gfx/leaders/GAB/Portrait_GAB_Eboue.tga"
+	traits = {
+		career_officer
+		trait_cautious
+	}
+	skill = 2
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 3
+	logistics_skill = 1
+}
+
+### Navy Leader
+create_navy_leader = { #Auto-Generated
+	name = "Assier de Perpignan"
+	portrait_path = "gfx/leaders/GAB/Portrait_GAB_Assier_de_Perpignan.tga"
+	traits = {
+		old_guard_navy
+		spotter
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	maneuvering_skill = 1
+	coordination_skill = 1
+}
+
+create_navy_leader = { #Auto-Generated
+	name = "Reste"
+	portrait_path = "gfx/leaders/GAB/Portrait_GAB_Reste.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	maneuvering_skill = 1
+	coordination_skill = 1
+}
+
+create_navy_leader = { #Auto-Generated
+	name = "Sassault d'Avriers"
+	portrait_path = "gfx/leaders/GAB/Portrait_GAB_Sassault_d'Avriers.tga"
+	traits = {
+		blockade_runner
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	maneuvering_skill = 1
+	coordination_skill = 1
+}

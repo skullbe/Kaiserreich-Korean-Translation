@@ -1,0 +1,34 @@
+﻿capital = 502
+set_research_slots = 2
+set_technology = {
+	### Tanks ###
+	gwtank = 1
+	### INF ###
+	infantry_weapons = 1
+	tech_support = 1
+	tech_engineers = 1
+	gw_artillery = 1
+	### AIR ###
+	early_fighter = 1
+}
+
+set_politics = {
+	ruling_party = social_democrat
+	last_election = "1836.6.15"
+	election_frequency = 100
+	elections_allowed = no
+}
+
+set_popularities = {
+	totalist = 0
+	radical_socialist = 12
+	syndicalist = 5
+	social_democrat = 29
+	social_liberal = 10
+	market_liberal = 2
+	social_conservative = 17
+	authoritarian_democrat = 8
+	paternal_autocrat = 5
+	national_populist = 12
+}
+

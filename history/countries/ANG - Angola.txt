@@ -1,0 +1,90 @@
+﻿capital = 540
+
+OOB = "empty"
+
+set_research_slots = 2
+set_technology = {
+	### INF ###
+	infantry_weapons = 1
+}
+add_ideas = {
+	war_economy
+	limited_exports
+}
+
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1888.6.15"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	totalist = 0
+	radical_socialist = 0
+	syndicalist = 0
+	social_democrat = 2
+	social_liberal = 6
+	market_liberal = 6
+	social_conservative = 12
+	authoritarian_democrat = 15
+	paternal_autocrat = 47
+	national_populist = 12
+}
+
+### Corps Commander
+create_corps_commander = { #Auto-Generated
+	name = "Perreira de Eca"
+	portrait_path = "gfx/leaders/ANG/Portrait_ANG_Perreira_de_Eca.tga"
+	traits = {
+		old_guard
+		infantry_officer
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+### Naval Leaders
+create_navy_leader = { #Auto-Generated
+	name = "da Costa Andrade"
+	portrait_path = "gfx/leaders/ANG/Portrait_ANG_da_Costa_Andrade.tga"
+	traits = {
+		superior_tactician
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	maneuvering_skill = 1
+	coordination_skill = 1
+}
+
+create_navy_leader = { #Auto-Generated
+	name = "de Albuquerque"
+	portrait_path = "gfx/leaders/ANG/Portrait_ANG_de_Albuquerque.tga"
+	traits = {
+		old_guard_navy
+		seawolf
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	maneuvering_skill = 1
+	coordination_skill = 1
+}
+
+create_navy_leader = { #Auto-Generated
+	name = "Ribeiro"
+	portrait_path = "gfx/leaders/ANG/Portrait_ANG_Ribeiro.tga"
+	traits = {
+		old_guard_navy
+		blockade_runner
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	maneuvering_skill = 1
+	coordination_skill = 1
+}

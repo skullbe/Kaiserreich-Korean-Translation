@@ -1,0 +1,153 @@
+﻿capital = 541
+OOB = "empty"
+set_research_slots = 2
+set_technology = {
+	### MOD ###
+	### INF ###
+	infantry_weapons = 1
+}
+
+add_ideas = {
+	NAM_CJ_Langenhooven_hog_ade
+	NAM_Bettie_Conradie_for_ade
+	NAM_Christiaan_van_den_Heever_eco_ade
+	NAM_Nikolaus_J_de_Wet_sec_mli
+	extensive_conscription
+}
+
+set_stability = 0.55
+set_war_support = 0.67
+
+set_politics = {
+	ruling_party = authoritarian_democrat
+	last_election = "1888.6.15"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	totalist = 0
+	radical_socialist = 1
+	syndicalist = 1
+	social_democrat = 6
+	social_liberal = 4
+	market_liberal = 2
+	social_conservative = 26
+	authoritarian_democrat = 37
+	paternal_autocrat = 23
+	national_populist = 0
+}
+
+create_country_leader = {
+	name = "Otto Schimming"
+	desc = "POLITICS_OTTO_SCHIMMING_DESC"
+	picture = "Portrait_NAM_Otto_Schimming.tga"
+	expire = "1965.1.1"
+	ideology = radical_socialist_subtype
+}
+
+create_country_leader = {
+	name = "Leonard Auala"
+	desc = "POLITICS_LEORNARD_AUALA_DESC"
+	picture = "Portrait_NAM_Leonard_Auala.tga"
+	expire = "1965.1.1"
+	ideology = social_democrat_subtype
+}
+
+create_country_leader = {
+	name = "Hosea Kutako"
+	desc = "POLITICS_HOSEA_DESC"
+	picture = "Portrait_NAM_Hosea_Kutako.tga"
+	expire = "1965.1.1"
+	ideology = social_liberal_subtype
+}
+
+create_country_leader = {
+	name = "Gustav Adolf Schatz"
+	desc = "POLITICS_GUSTAV_DESC"
+	picture = "Portrait_NAM_Gutav_Adolf_Schatz.tga"
+	expire = "1965.1.1"
+	ideology = market_liberal_subtype
+}
+
+create_country_leader = {
+	name = "Friedrich Maharero"
+	desc = "POLITICS_MAHARERO_DESC"
+	picture = "Portrait_NAM_Friedrich_Maharero.tga"
+	expire = "1965.1.1"
+	ideology = social_conservative_subtype
+}
+
+create_country_leader = {
+	name = "Heinrich Kirchheim"
+	desc = "POLITICS_KIRSCHHEIM_DESC"
+	picture = "Portrait_NAM_Heinrich_Kircheim.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democrat_subtype
+}
+
+create_country_leader = {
+	name = "Samuel Maharero"
+	desc = "POLITICS_SAMUEL_MAHARERO_DESC"
+	picture = "Portrait_NAM_Samuel_Maharero.tga"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+}
+
+create_country_leader = {
+	name = "Samuel Maharero"
+	desc = "POLITICS_SAMUEL_MAHARERO_DESC"
+	picture = "Portrait_NAM_Samuel_Maharero.tga"
+	expire = "1965.1.1"
+	ideology = national_populist_subtype
+}
+
+
+
+
+
+### Field Marshal
+create_field_marshal = {
+	name = "Heinrich Kirchheim"
+	portrait_path = "gfx/leaders/NAM/Portrait_NAM_Heinrich_Kircheim.tga"
+	traits = {
+		old_guard
+		organizer
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 4
+}
+
+### Corps Commander
+
+create_corps_commander = {
+	name = "Hans Hollander"
+	portrait_path = "gfx/leaders/NAM/Portrait_NAM_Hans_Hollander.tga"
+	traits = {
+		trait_engineer
+		scavenger
+		old_guard
+	}
+	skill = 2
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Theodor von Hippel"
+	portrait_path = "gfx/leaders/NAM/Portrait_NAM_Theodor_von_Hippel.tga"
+	traits = {
+		infantry_leader
+		old_guard
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 4
+	planning_skill = 2
+	logistics_skill = 2
+}

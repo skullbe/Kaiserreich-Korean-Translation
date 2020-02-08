@@ -1,0 +1,338 @@
+﻿capital = 122
+OOB = "empty"
+set_research_slots = 3
+set_technology = {
+	### MOD ###
+	### General ###
+	electronic_mechanical_engineering = 1
+	fuel_silos = 1
+	synth_oil_experiments = 1
+	### Tanks ###
+	gwtank = 1
+	basic_light_tank = 1
+	### INF ###
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	### AIR ###
+	early_fighter = 1
+	naval_bomber1 = 1
+	early_bomber = 1
+	strategic_bomber1 = 1
+	cv_early_fighter = 1
+	cv_naval_bomber1 = 1
+}
+
+### Navy - MtG ###
+
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		weltkrieg_light_ship_hull = 1
+		contact_mine = 1
+		light_ship_hull_1936 = 1
+		weltkrieg_cruiser_hull = 1
+		cruiser_hull_1936 = 1
+		weltkrieg_submarine_hull = 1
+		submarine_hull_1936 = 1
+		cruiser_submarine = 1
+		carrier_conversion = 1
+		carrier_hull_1936 = 1
+		ship_hull_revived_ac = 1
+		weltkrieg_heavy_ship_hull = 1
+		heavy_ship_hull_1936 = 1
+
+		## Modules##
+		early_torpedo = 1
+		weltkrieg_naval_gunnery = 1
+		naval_ammo_one = 1
+		light_battery_one = 1
+		sonar = 1
+		improved_ship_torpedo_launcher = 1
+		basic_cruiser_armor_scheme = 1
+		weltkrieg_naval_gunnery = 1
+		naval_ammo_one = 1
+		basic_heavy_armor_scheme = 1
+		capital_gunnery_one = 1
+		weltkrieg_naval_gunnery = 1
+		naval_ammo_one = 1
+
+
+
+
+
+
+		transport = 1
+	}
+}
+
+### Navy - Non MtG ###
+
+if = {
+	limit = {
+		not = {
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_technology = {
+		weltkrieg_destroyer_nonmtg = 1
+		interwar_destroyer_nonmtg = 1
+		weltkrieg_cruiser_nonmtg = 1
+		interwar_cruiser_nonmtg = 1
+		weltkrieg_submarine_nonmtg = 1
+		interwar_submarine_nonmtg = 1
+		weltkrieg_armored_cruiser_nonmtg = 1
+		interwar_armored_cruiser_nonmtg = 1
+		weltkrieg_fast_battleship_nonmtg = 1
+		interwar_fast_battleship_nonmtg = 1
+		weltkrieg_dreadnought_nonmtg = 1
+		super_heavy_dreadnought_nonmtg = 1
+		heavy_carrier_nonmtg = 1
+
+
+
+
+
+
+		transport = 1
+	}
+}
+
+set_politics = {
+	ruling_party = social_liberal
+	last_election = "1888.6.15"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	totalist = 2
+	radical_socialist = 3
+	syndicalist = 5
+	social_democrat = 13
+	social_liberal = 41
+	market_liberal = 21
+	social_conservative = 10
+	authoritarian_democrat = 3
+	paternal_autocrat = 2
+	national_populist = 0
+}
+
+create_country_leader = {
+	name = "Niclas y Glais"
+	desc = "POLITICS_NICLAS_GLAIS_DESC"
+	picture = "gfx/leaders/ENG/Portrait_England_Niclas_y_Glais.tga"
+	expire = "1965.1.1"
+	ideology = radical_socialist_subtype
+}
+
+add_ideas = {
+	### Head of Government
+	WAL_Huw_T_Edwards_hog_rso
+	### Foreign Minister
+	WAL_Elizabeth_Andrews_for_rso
+	### Eco minister
+	WAL_Nye_Bevan_eco_rso
+	### Security Minister
+	WAL_Ernest_Jones_sec_rso
+}
+
+### Field Marshal
+### Corps Commander
+create_corps_commander = { #Auto-Generated
+	name = "Wilfred Bailey"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Wilfred_Bailey.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Morys Bruce"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Morys_Bruce.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Malcolm Douglas-Pennant"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Malcolm_Douglas_Pennant.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Tasker Watkins"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Tasker_Watkins.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Ivor Rees"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Ivor_Rees.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Hubert William Lewis"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Hubert_William_Lewis.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Edward Thomas Chapman"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Edward_Thomas_Chapman.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Robert James Bye"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Robert_James_Bye.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "John Oliver"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_John_Oliver.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Tom Evans"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Tom_Evans.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Emrys Jones"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Emrys_Jones.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Archie Cook"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Archie_Cook.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Goff Price"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Goff_Price.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Sid James"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Sid_James.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Edwin Greening"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Edwin_Greening.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Evan Lloyd"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Evan_Lloyd.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Billy Griffiths"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Billy_Griffiths.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Evan Jones"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Evan_Jones.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = { #Auto-Generated
+	name = "Morris Davies"
+	portrait_path = "gfx/leaders/WAL/Portrait_WAL_Morris_Davies.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+### Navy Leader

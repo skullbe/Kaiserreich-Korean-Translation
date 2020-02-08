@@ -1,0 +1,368 @@
+﻿capital = 1091
+
+oob = "BAT"
+set_naval_oob= "BAT_naval"
+
+set_technology = {
+	### Tanks ###
+	gwtank = 1
+	basic_light_tank = 1
+
+	### INF ###
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_recon = 1
+	tech_engineers = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	
+	### AIR ###
+	early_fighter = 1
+	early_bomber = 1
+}
+
+### Navy - MtG ###
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+        weltkrieg_light_ship_hull = 1        
+        contact_mine = 1        
+        light_ship_hull_1936 = 1        
+        weltkrieg_cruiser_hull = 1        
+        cruiser_hull_1936 = 1        
+        weltkrieg_submarine_hull = 1
+        submarine_hull_1936 = 1        
+        cruiser_submarine = 1        
+        ship_hull_revived_ac = 1        
+
+		## Modules##
+        early_torpedo = 1
+        weltkrieg_naval_gunnery = 1        
+        naval_ammo_one = 1        
+        light_battery_one = 1        
+        light_battery_two = 1  
+        improved_ship_torpedo_launcher = 1   
+        basic_cruiser_armor_scheme = 1        
+        weltkrieg_naval_gunnery = 1        
+        weltkrieg_naval_gunnery = 1        
+	}
+}
+
+### Navy - Non MtG ###
+if = {
+	limit = {
+		not = {
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_technology = {
+        weltkrieg_destroyer_nonmtg = 1        
+        interwar_destroyer_nonmtg = 1        
+        weltkrieg_cruiser_nonmtg = 1        
+        interwar_cruiser_nonmtg = 1        
+        weltkrieg_submarine_nonmtg = 1        
+        interwar_submarine_nonmtg = 1        
+        weltkrieg_armored_cruiser_nonmtg = 1        
+        interwar_armored_cruiser_nonmtg = 1        
+        weltkrieg_dreadnought_nonmtg = 1        
+	}
+}
+
+set_stability = 0.5
+set_war_support = 0.10
+set_research_slots = 3
+set_convoys = 30
+
+set_variable = {
+	var = germanisation_var
+	value = 0
+}
+set_variable = {
+	var = balts_resistance_var
+	value = 0
+}
+
+add_ideas = {
+	BAT_multi_ling
+	BAT_start_crisis
+	extensive_conscription
+	BAT_Andrievs_Niedra_hog_pau
+	BAT_Alfred_Rosenberg_for_npo
+	BAT_Heinrich_Freiherr_von_Stackelberg_eco_pau
+	BAT_Kurt_Georg_Andersen_sec_ade
+}
+
+country_event = {
+	id = balticduchy.1
+	days = 10
+	random = 100
+}
+
+add_opinion_modifier = { target = FRA modifier = embargo }
+add_opinion_modifier = { target = ENG modifier = embargo }
+add_opinion_modifier = { target = SRI modifier = embargo }
+
+GER = {
+	set_autonomy = {
+		target = BAT
+		autonomy_state = kr_default_puppet
+	}
+}
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1888.6.15"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+    totalist = 0
+    radical_socialist = 0
+    syndicalist = 0
+    social_democrat = 0
+    social_liberal = 6
+    market_liberal = 15
+    social_conservative = 23
+    authoritarian_democrat = 5
+    paternal_autocrat = 41
+    national_populist = 10
+}
+
+create_country_leader = {
+	name = "Adolf Friedrich"
+	desc = "POLITICS_ADOLF_FRIEDRICH_DESC"
+	picture = "Portrait_Baltic_Adolf_Friedrich.tga"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+}
+
+create_country_leader = {
+	name = "Alfred Fletcher"
+	desc = "POLITICS_ALFRED_FLETCHER_DESC"
+	picture = "Portrait_Baltic_Alfred_Fletcher.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democrat_subtype
+}
+
+create_country_leader = {
+	name = "Kārlis Ulmanis"
+	desc = "POLITICS_KARLIS_ULMANIS_DESC"
+	picture = "Portrait_Baltic_Karlis_Ulmanis.tga"
+	expire = "1965.1.1"
+	ideology = social_conservative_subtype
+}
+
+create_country_leader = {
+	name = "Jaan Tõnisson"
+	desc = "POLITICS_JAAN_TONISSON_DESC"
+	picture = "Portrait_Baltic_Jaan_Tonisson.tga"
+	expire = "1965.1.1"
+	ideology = market_liberal_subtype
+}
+
+create_country_leader = {
+	name = "August Rei"
+	desc = "POLITICS_AUGUST_REI_DESC"
+	picture = "Portrait_Baltic_August_Rei.tga"
+	expire = "1965.1.1"
+	ideology = social_liberal_subtype
+}
+
+create_country_leader = {
+	name = "Martynas Yčas"
+	desc = "POLITICS_MARTYNAS_YCAS_DESC"
+	picture = "Portrait_Baltic_Kirhensteins.tga"
+	expire = "1965.1.1"
+	ideology = social_democrat_subtype
+}
+
+create_country_leader = {
+	name = "Augusts Kirhenšteins"
+	desc = "POLITICS_AUGUSTUS_KIRHENSTEINS_DESC"
+	picture = "Portrait_Baltic_Kirhensteins.tga"
+	expire = "1965.1.1"
+	ideology = radical_socialist_subtype
+}
+
+create_country_leader = {
+	name = "Viktor Kingissepp"
+	desc = "POLITICS_VIKTOR_KINGISSEPP"
+	picture = "Portrait_Baltic_Kingiessepp.tga"
+	expire = "1965.1.1"
+	ideology = syndicalist_subtype
+}
+
+create_country_leader = {
+	name = "Viktor Kingissepp"
+	desc = "POLITICS_VIKTOR_KINGISSEPP"
+	picture = "Portrait_Baltic_Kingiessepp.tga"
+	expire = "1965.1.1"
+	ideology = totalist_subtype
+}
+
+create_field_marshal = {
+	name = "Rüdiger von der Goltz"
+	picture = "Portrait_Baltic_Rudiger_von_der_Goltz.tga"
+	traits = { old_guard offensive_doctrine }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 2
+
+}
+
+create_corps_commander = {
+	name = "Alfred von Randow"
+	picture = "Portrait_Baltic_Alfred_von_Randow.tga"
+	traits = { trickster panzer_leader }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 4
+	logistics_skill = 3
+
+}
+
+create_corps_commander = {
+	name = "Johan Laidoner"
+	picture = "Portrait_Baltic_Johan_Laidoner.tga"
+	traits = { winter_specialist }
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 2
+
+}
+
+create_corps_commander = {
+	name = "Josef Bischoff"
+	picture = "Portrait_Baltic_Josef_Bischoff.tga"
+	traits = { trickster }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 2
+
+}
+
+create_corps_commander = {
+	name = "Botho-Wendt Graf zu Eulenburg"
+	picture = "Portrait_Baltic_Botho_Wendt_Graf_zu_Eulenburg.tga"
+	traits = { trait_engineer }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 2
+
+}
+
+create_corps_commander = {
+	name = "Hermanis Buks"
+	picture = "Portrait_Baltic_Hermanis_Buks.tga"
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+
+}
+
+create_corps_commander = {
+	name = "Karlis Aperats"
+	picture = "Portrait_Baltic_Karlis_Aperats.tga"
+	traits = { commando }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 1
+
+}
+
+create_corps_commander = {
+	name = "Gustav Jonson"
+	picture = "Portrait_Baltic_Gustav_Jonson.tga"
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+
+}
+
+create_corps_commander = {
+	name = "Heinrich Graf zu Dohna-Schlobitten"
+	picture = "Portrait_Baltic_Heinrich_Graf_zu_Dohna_Schlobitten.tga"
+	traits = { hill_fighter }
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+
+}
+
+create_corps_commander = {
+	name = "Hans Joachim von Manteuffel"
+	picture = "Portrait_Baltic_Baron_Hans_Joachim_von_Manteuffel.tga"
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+
+}
+
+create_corps_commander = {
+	name = "Otto Zeltins-Goldfelds"
+	picture = "Portrait_Baltic_Otto_Zeltins-Goldfelds.tga"
+	traits = { commando }
+	skill = 2
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 3
+
+}
+
+create_navy_leader = {
+	name = "Alexander von Salza"
+	picture = "Portrait_Baltic_Alexander_von_Salza.tga"
+	traits = { superior_tactician }
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	maneuvering_skill = 3
+	coordination_skill = 3
+}
+
+create_navy_leader = {
+	name = "Archibald von Keyserling"
+	picture = "Portrait_Baltic_Archibald_von_Keyserling.tga"
+	traits = { spotter }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	maneuvering_skill = 1
+	coordination_skill = 2
+}
+
+create_navy_leader = {
+	name = "Johan Pitka"
+	picture = "Portrait_Baltic_Johan_Pitka.tga"
+	traits = { blockade_runner }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	maneuvering_skill = 2
+	coordination_skill = 2
+}
+
+BAT_start_naval_variant = yes

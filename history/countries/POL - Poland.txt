@@ -1,0 +1,404 @@
+﻿capital = 10
+
+oob = "POL"
+
+set_research_slots = 3
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_mountaineers = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	early_fighter = 1
+	early_bomber = 1
+	CAS1 = 1
+	trench_warfare = 1
+}
+
+set_convoys = 40
+
+set_war_support = 0.25
+
+set_politics = {
+	ruling_party = authoritarian_democrat
+	last_election = "1933.1.18"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	totalist = 10
+	radical_socialist = 0
+	syndicalist = 2
+	social_democrat = 0
+	social_liberal = 0
+	market_liberal = 2
+	social_conservative = 14
+	authoritarian_democrat = 33
+	paternal_autocrat = 22
+	national_populist = 17
+}
+
+add_ideas = {
+	limited_conscription
+	POL_eternal_regency
+	POL_german_industry
+	POL_Zdzislaw_Lubomirski_hog_ade
+	POL_Jan_hr_Szembek_for_ade
+	POL_Andrzej_Wierzbicki_eco_ade
+	POL_Stanislaw_Bukowiecki_sec_ade
+}
+
+create_country_leader = {
+	name = "Roman Dmowski"
+	desc = "POLITICS_ROMAN_DWOWSKI_DESC"
+	picture = "Portrait_Poland_Roman_Dmowski.tga"
+	expire = "1965.1.1"
+	ideology = national_populist_subtype
+}
+
+create_country_leader = {
+	name = "Władysław Sikorski"
+	desc = "POLITICS_WLADYSLAW_SIKORSKI_DESC"
+	picture = "Portrait_Poland_Sikorski.tga"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+}
+
+create_country_leader = {
+	name = "Regency Council"
+	desc = "POLITICS_POL_REGENCY_DESC"
+	picture = "Portrait_Poland_Regency_Council.tga"
+	expire = "1965.1.1"
+	ideology = authoritarian_democrat_subtype
+}
+
+create_country_leader = {
+	name = "The Sejm"
+	desc = "POLITICS_POL_SEJM_DESC"
+	picture = "Portrait_Poland_Sejm.tga"
+	expire = "1965.1.1"
+	ideology = social_conservative_subtype
+}
+
+create_country_leader = {
+	name = "The Sejm"
+	desc = "POLITICS_POL_SEJM_DESC"
+	picture = "Portrait_Poland_Sejm.tga"
+	expire = "1965.1.1"
+	ideology = market_liberal_subtype
+}
+
+create_country_leader = {
+	name = "The Sejm"
+	desc = "POLITICS_POL_SEJM_DESC"
+	picture = "Portrait_Poland_Sejm.tga"
+	expire = "1965.1.1"
+	ideology = social_liberal_subtype
+}
+
+create_country_leader = {
+	name = "The Sejm"
+	desc = "POLITICS_POL_SEJM_DESC"
+	picture = "Portrait_Poland_Sejm.tga"
+	expire = "1965.1.1"
+	ideology = social_democrat_subtype
+}
+
+create_country_leader = {
+	name = "Róża Luksemburg"
+	desc = "POLITICS_ROZA_LUKSEMBURG_DESC"
+	picture = "Portriat_Poland_Roza_Luksemburg.tga"
+	expire = "1965.1.1"
+	ideology = syndicalist_subtype
+}
+
+create_country_leader = {
+	name = "Jakub Hanecki"
+	desc = "POLITICS_JAKUB_HANECKI_DESC"
+	picture = "Portrait_Poland_Jakub_Hanceki.tga"
+	expire = "1965.1.1"
+	ideology = radical_socialist_subtype
+}
+
+create_country_leader = {
+	name = "Feliks Dzierzynski"
+	desc = "POLITICS_FELIKIS_DZIERZYNSKI_DESC"
+	picture = "Portrait_Poland_Feliks_Dzierzynski.tga"
+	expire = "1965.1.1"
+	ideology = totalist_subtype
+}
+
+### Field Marshal
+
+create_field_marshal = {
+	name = "Władysław Sikorski"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Sikorski.tga"
+	traits = {
+		politically_connected
+		career_officer
+		defensive_doctrine
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 2
+}
+
+create_field_marshal = {
+	name = "Józef Piłsudski"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Jozef_Pilsudski.tga"
+	id = 19859
+	traits = {
+		war_hero
+		media_personality
+		offensive_doctrine
+		inspirational_leader
+	}
+	skill = 3
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_field_marshal = {
+	name = "Tadeusz Rozwadowski"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Tadeusz_Rozwadowski.tga"
+	id = 19860
+	traits = {
+		infantry_officer
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_field_marshal = {
+	name = "Edward Rydz-Śmigły"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Edward_Smigy_Rydz.tga"
+	traits = {
+		trait_cautious
+		skilled_staffer
+	}
+	skill = 2
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 3
+	logistics_skill = 2
+}
+
+### Corps Commander
+
+create_corps_commander = {
+	name = "Zbigniew Antonowicz"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Zbigniew_Antonowicz.tga"
+	traits = {
+		urban_assault_specialist
+	}
+	skill = 3
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Stanislaw Sosabowski"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Stanislaw_Sosabowski.tga"
+	traits = {
+		commando
+		camouflage_expert
+	}
+	skill = 2
+	attack_skill = 1
+	defense_skill = 3
+	planning_skill = 1
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Witold Pilecki"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Witold_Pilecki.tga"
+	traits = {
+		trait_reckless
+		trickster
+		guerilla_fighter
+	}
+	skill = 2
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 3
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Władysław Anders"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Wladyslaw_Anders.tga"
+	traits = {
+		armor_officer
+	}
+	skill = 2
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Stanislaw Magnuszewski"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Stanislaw_Magnuszewski.tga"
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Artur Gorski"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Artur_Gorski.tga"
+	traits = {
+		artillery_officer
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Henryk Dobrzanski"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Henryk_Dobrzanski.tga"
+	traits = {
+		inflexible_strategist
+		ranger
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Kazimierz Sosnkowski"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Kazimierz_Sosnkowski.tga"
+	traits = {
+		old_guard
+	}
+	skill = 2
+	attack_skill = 3
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Juliusz Rómmel"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Juliusz_Rommel.tga"
+	traits = {
+		armor_officer
+		panzer_leader
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Tadeusz Piskor"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Tadeusz_Piskor.tga"
+	traits = {
+		old_guard
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Wacław Stachiewicz"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Waclaw_Stachiewicz.tga"
+	skill = 2
+	attack_skill = 3
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Antoni Szylling"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Antoni_Szylling.tga"
+	traits = {
+		old_guard
+		politically_connected
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Bolesaw Wieniawa Dugoszewski"
+	portrait_path = "gfx/leaders/POL/Portrait_Poland_Bolesaw_Wieniawa_Dugoszewski.tga"
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+### Navy Leader
+create_navy_leader = {
+	name = "Józef Unrug"
+	portrait_path = "gfx/leaders/POL/Portrait_POL_Jozef_Unrug.tga"
+	traits = {
+		blockade_runner
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	maneuvering_skill = 1
+	coordination_skill = 1
+}
+
+create_navy_leader = {
+	name = "Kazimierz Porębski"
+	portrait_path = "gfx/leaders/POL/Portrait_POL_Kazimierz_Porebski.tga"
+	traits = {
+		superior_tactician
+	}
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	maneuvering_skill = 1
+	coordination_skill = 1
+}
+
+create_navy_leader = {
+	name = "Jerzy Świrski"
+	portrait_path = "gfx/leaders/POL/Portrait_POL_Jerzy_Swirski.tga"
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	maneuvering_skill = 2
+	coordination_skill = 1
+}
+
