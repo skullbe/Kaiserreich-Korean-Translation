@@ -366,136 +366,136 @@ BAT_Fed3:0 "첫번째 총선"
 BAT_Fed3_desc:0 "우리는 우리의 새로운 연방의 미래를 위해 자유선거를 약속했고, 이 약속을 지킬 절호의 때가 왔습니다. 마침내 발트인들은 그들의 운명을 결정할 수 있게 되었습니다."
 
 BAT_Fed4:0 "발트 무역"
-BAT_Fed4_desc:0 "The new democratic Baltic state is rife for trade dominance in the Baltic Sea. Our new political course will be beneficial to our trading centres and our port cities, so we must develop them to use this advantage to its fullest."
+BAT_Fed4_desc:0 "새로운 민주주의 발트 국가는 발트해에서 무역의 우위를 점하고 있습니다. 우리의 새로운 정치체제는 무역과 항구의 발전에 도움을 줄 것이고, 따라서 우리는 이 이점을 최대한으로 활용해야 합니다."
 
 BAT_Fed5:0 "독립 투표"
-BAT_Fed5_desc:0 "We had never truly planned to break our ties with Germany, but more and more people are demanding the Baltic Federation to become an independent state. We have found a compromise, an independence referendum. Of course, even with a majority in favour of independence, there's no telling whether the Kaiser will approve."
+BAT_Fed5_desc:0 "우리는 진정으로 독일과의 관계를 끊을 의도는 없었지만, 점점 더 많은 사람들이 발트 연방의 독립을 요구하고 있습니다. 우리는 타협을 통해 독립 투표를 할 수 있지만, 국민 다수가 독립을 찬성한다 해도 카이저가 그것을 승낙할 지는 미지수입니다."
 
 BAT_Education:0 "교육 개혁"
-BAT_Education_desc:0 "The large Latvian and Estonian contingent in the Baltic Landtag is demanding a comprehensive education reform. Latvian and Estonian need to be accepted as secondary languages and the discrimination against the local Balts in schools must stop. This seems acceptable."
+BAT_Education_desc:0 "발트 의회의 라트비아인과 에스토니아인 대표단은 포괄적인 교육 개혁을 요구했습니다. 그들은 라트비아어와 에스토니아어는 부차적인 언어로 받아들여질 필요가 있고 학교에서 발트인 학생들에 대한 차별은 중단되어야 한다고 주장했습니다. 이는 일리가 있습니다."
 
 BAT_Press:0 "언론의 자유"
-BAT_Press_desc:0 "Ever since the foundation of our nation, there have been severe limitations to the freedom of our press. This has come to light in recent events, and our people want profound reforms. The conservatives oppose these changes, while the liberal faction in the Landtag are in favour of them."
+BAT_Press_desc:0 "우리 나라의 건국 이후 우리 언론의 자유에는 심각한 한계가 있었습니다. 최근의 사건들로 이는 분명하게 드러났고, 국민들은 개혁을 요구하고 있습니다. 보수주의자들은 이에 반대하고 있는 반면 발트 의회의 자유주의자들은 이를 지지하고 있습니다."
 
 BAT_Lib1:0 "자유 공국"
-BAT_Lib1_desc:0 "The Liberal faction has secured a stable majority coalition in the Landtag, and this faction demands for the Duchy to be liberalised and rid of the worst parts of Imperial and Ducal influence imposed to us by the Vaterland."
+BAT_Lib1_desc:0 "자유주의자들이 의회에서 다수를 차지했고, 이들은 공국의 자유화를 이룰 것과, 독일에서 우리나라에 보내는 안좋은 영향을 제거할 것을 요구하고 있습니다."
 
 BAT_Lib2:0 "공국의 선거"
-BAT_Lib2_desc:0 "The liberals demand a free election to be held for the Landtag! It may seem like a radical proposal, but times are clearly changing. The near absolutism we used to live in may no longer endure as democracy once again shines on the horizon of Europe."
+BAT_Lib2_desc:0 "자유주의자들이 자유선거를 요구하고 있습니다! 급진적인 제안처럼 보일지 모르지만, 시대는 분명히 변하고 있습니다. 우리가 살았던 절대주의의 시대는, 민주주의가 유럽의 지평선을 다시 한번 비추면서 차차 사라질 것입니다."
 
 BAT_Lib3:0 "문화적 평등"
-BAT_Lib3_desc:0 "Germans, Latvians, Estonians and Russians; we are all the same. We must follow the principles of equality and extend the rights of cultural autonomy to all nations within the state. Even if the Baltic Germans are to remain dominant, of course."
+BAT_Lib3_desc:0 "독일인, 라트비아인, 에스토니아인, 러시아인. 우리는 모두 같습니다. 우리는 평등의 원칙을 따르고, 전국에 문화적 자치권을 확대해야 합니다. 물론 발트 독일인이 지배하는 한 말이죠."
 
 BAT_Lib4:0 "경제 자유화"
-BAT_Lib4_desc:0 "The liberal faction believes that the state must interfere as little as possible in the affairs of the economy, and this outlook has attracted lots of private investment into our nation. The economy may grow freely, for we will reap the rewards quickly."
+BAT_Lib4_desc:0 "자유주의자들은 국가가 경제 문제에 가능한 한 간섭을 적게 해야 한다고 믿고 있으며, 이들의 경제 정책은 우리 나라에 많은 민간 투자를 끌어들였습니다. 경제는 자유롭게 성장할 것이고, 우리는 곧 보상을 받을 것입니다.."
 
 BAT_ERP:0 "경제 복구 계획"
-BAT_ERP_desc:0 "The crisis known as the Black Monday has caused many troubles for our economy. More than fifty thousand people had lost their jobs at the end of first day. We have got to do something, and our ministers are already preparing a plan to save our economy."
+BAT_ERP_desc:0 "검은 월요일이라고 알려진 위기는 우리 경제에 많은 문제를 야기시켰습니다. 첫 날 에만 5만 명 이상의 사람들이 일자리를 잃었습니다. 우리는 뭔가를 해야 합니다. 그리고 우리 장관들은 이미 우리 경제를 살릴 계획을 준비하고 있습니다."
 
 BAT_ERP_Gov1:0 "정부의 개입"
-BAT_ERP_Gov1_desc:0 "We cannot allow this stagnation to continue. The government should assume control of all the major facilities. It is a harsh policy that will surely stifle our private sector, but it will steer our economy out of trouble."
+BAT_ERP_Gov1_desc:0 "우리는 이러한 경제 침체가 계속되도록 놔둘 수 없습니다. 정부는 모든 주요 시설들을 통제해야 합니다. 이것은 분명 민간 산업을 억누를 가능성이 있는 가혹한 정책이지만, 우리 경제를 곤경에서 벗어나게 할 것입니다."
 
 BAT_ERP_Gov2:0 "도로 건설"
-BAT_ERP_Gov2_desc:0 "Many unemployed citizens are trying to find any kind of job. We can help them by involving them in infrastructure development. They will build up our roads and we will pay them. This way we can kill two birds with one stone."
+BAT_ERP_Gov2_desc:0 "많은 실업자들은 어떤 종류의 일자리라도 찾으려고 노력하고 있습니다. 우리는 그들을 기반시설 개발에 참여시킴으로써 그들을 도울 수 있습니다. 그들은 우리의 도로를 건설할 것이고 우리는 그들에게 돈을 지불할 것입니다. 이는 일석이조의 효과입니다."
 
 BAT_ERP_Gov3:0 "사회 투자"
-BAT_ERP_Gov3_desc:0 "To solve our economic problems, we need a stable society. Some benefits for the poorest in our Duchy should be established. Everybody deserves at least basic economic security, and this will help maintain order in our population."
+BAT_ERP_Gov3_desc:0 "우리의 경제 문제를 해결하기 위해서는 안정된 사회가 필요합니다. 우리 공국에서 가장 가난한 사람들을 위한 몇몇 혜택이 보장되어야 합니다. 모든 사람들은 기본적인 생계를 유지할 수 있어야 하고, 이는 우리 사회의 질서를 유지하는 데 도움을 줄 것입니다."
 
 BAT_ERP_Gov4:0 "발트의 병기창"
-BAT_ERP_Gov4_desc:0 "Our country has always had a problem with the military sector. Now, with many free hands available, we can send them to military factories to produce guns, tanks and aircrafts. This again should solve many problems at once."
+BAT_ERP_Gov4_desc:0 "우리나라는 항상 군사분야에 문제가 있었습니다. 이제 우리는 일손이 넘쳐나고, 이들을 군수공장으로 보내 소총,탱크,항공기를 생산할 수 있습니다. 이것은 많은 문제를 동시에 해결할 수 있을 것입니다."
 
 BAT_Eco_Naval1:0 "발트 조선소"
-BAT_Eco_Naval1_desc:0 "We are a coastal country, almost half of our land border the Baltic sea. Now, with many free hands available, we can send them to dockyards to build up our fleet. A large and prosperous Baltic navy, we shall raise."
+BAT_Eco_Naval1_desc:0 "우리나라는 영토의 거의 절반이 발트해와 접해 있는 해안 국가입니다. 이제 우리는 일손이 넘쳐나고, 이들을 항만으로 보내 선박을 건조하는 데 쓸 수 있습니다. 거대한 발트 해군과 함께 우리는 다시 한번 일어설 것입니다."
 
 BAT_Eco_Naval2:0 "발트 무역 연맹"
-BAT_Eco_Naval2_desc:0 "There are many countries around the Baltic sea. We desperately need new trade partners, and they can indeed be very good trade partners to us. We should we establish new trade routes in the Baltic sea."
+BAT_Eco_Naval2_desc:0 "발트해 주변에는 많은 나라들이 있습니다. 우리는 새로운 무역 파트너가 절실히 필요합니다. 그리고 그들은 우리에게 정말 좋은 무역 파트너가 될 수 있습니다. 우리는 발트해에 새로운 무역로를 설립해야 합니다."
 
-BAT_Eco_Naval3:0 "Found the SEF"
-BAT_Eco_Naval3_desc:0 "A recent breakthrough in communication technologies shows importance of electronics both in military communication and civil life. We must be as advanced as the world's most powerful hegemons. In order to produce high-tech electronics, a brand new faility named "Staatliche Elektrotechnische Fabrik" or SEF shall be built."
+BAT_Eco_Naval3:0 "SEF 설립"
+BAT_Eco_Naval3_desc:0 "최근 통신 기술의 획기적인 발전은 군사 통신과 민간 분야 모두에서 전자 제품의 중요성을 보여주었습니다. 우리는 세계 열강들처럼 발전해야 하고, 첨단 전자제품을 생산하기 위해서 "Staatliche Elektrotechnische Fabrik", SEF 공장을 건설해야 합니다."
 
 BAT_ERP_FM1:0 "현지 기업에 의존"
-BAT_ERP_FM1_desc:0 "We cannot allow this stagnation to continue. If we enact strong laissez-faire policies, it will open many opportunities for local businesses and the private sector. Our capitalists and the free market will save the economy."
+BAT_ERP_FM1_desc:0 "우리는 이러한 경기침체가 계속되도록 놔둘 수 없습니다. 만약 우리가 강력한 자유방임 정책을 제정한다면, 그것은 지역 기업과 민간 산업에 많은 기회를 열어줄 것입니다. 자본가와 자유시장이 경제를 살릴 것입니다."
 
 BAT_ERP_FM2:0 "과학자에 투자"
-BAT_ERP_FM2_desc:0 "Every prosperous country has to rely on its scientists. We have to invest in our future now for a brighter tomorrow. Knowledge will always be a powerful weapon, and a source of economic and social prosperity."
+BAT_ERP_FM2_desc:0 "국가의 번영을 위해선 과학자들이 필요합니다. 우리는 더 밝은 내일을 위해 우리의 미래에 투자해야 합니다. 지식은 언제나 강력한 무기가 될 것이며, 경제적, 사회적 번영의 원천이 될 것입니다."
 
 BAT_ERP_FM3:0 "사회 투자"
-BAT_ERP_FM3_desc:0 "To solve our economic problems we need a stable society. Some benefits for the poorest in our Duchy should be established; everybody deserves at least basic economic security; and this will help maintain order in our population."
+BAT_ERP_FM3_desc:0 "우리의 경제 문제를 해결하기 위해서는 안정된 사회가 필요합니다. 우리 공국에서 가장 가난한 사람들을 위한 몇몇 혜택이 보장되어야 합니다. 모든 사람들은 기본적인 생계를 유지할 수 있어야 하고, 이는 우리 사회의 질서를 유지하는 데 도움을 줄 것입니다."
 
 BAT_ERP_FM4:0 "정치적 기반"
-BAT_ERP_FM4_desc:0 "Our capitalists are becoming more and more powerful, even starting to influence our politics. If we let them capitalise on that political clout, they will become important and trustworthy allies."
+BAT_ERP_FM4_desc:0 "우리나라의 기업가들은 점점 더 강력해지고 있고, 심지어 정치에 영향을 미치기 시작했습니다. 만약 우리가 그들이 정치적 영향력을 가지도록 허락한다면 그들은 신뢰할 수 있는 동맹이 될 것입니다."
 
 BAT_ERP_End:0 "위기로부터 회복"
-BAT_ERP_End_desc:0 "Hurrah! Under our wise rule the Duchy has survived this crisis. It seems, at least for us, that the worst of Black Monday is over. Prosperity is once more the law of the land and it shall stay so!"
+BAT_ERP_End_desc:0 "만세! 우리의 현명한 통치 하에서 공국은 이 위기에서 살아남았습니다. 적어도 우리나라에서 검은 월요일은 끝났습니다. 공국이 다시 한번 번영하고 있습니다!"
 
 BAT_Army_Start:0 "발트 육군"
-BAT_Army_Start_desc:0 "Officially, we do have an army. But it actually consists of nothing more than a bunch of young boys with rifles. Military doctrine is the first thing we need to modernise. Decades have passed since the end of the Weltkrieg and our current doctrine is now clearly outdated."
+BAT_Army_Start_desc:0 "우리나라는 공식적으로 군대가 존재합니다. 하지만 우리 군대의 실상은 소총을 든 한 무리의 어린 소년들의 모임이라는 것이 현실입니다. 우리는 가장 먼저 군사교리를 현대화해야 합니다. 대전쟁 이후 수십 년이 흘렀고 현재 우리의 교리는 분명히 시대에 뒤떨어져 있습니다."
 
 BAT_Army_Cons:0 "조국의 자식들"
-BAT_Army_Cons_desc:0 "Native Balts, the majority of our country's population, are not currently allowed to serve in the army. And we will rather die than allow them to do it. We are proud sons of Vaterland and our army must be entirely German."
+BAT_Army_Cons_desc:0 "우리나라 인구의 대다수를 차지하는 발트인들은 현재 군 복무를 할 수 없습니다. 그리고 우리는 그들이 그렇게 하도록 허락할 바엔 차라리 죽음을 택할 것입니다. 우리는 아버지 조국의 자랑스러운 아들이고 우리 군대는 독일인들로 이루어져야 합니다."
 
 BAT_Army_Cons3:0 "전 발트 육군"
-BAT_Army_Cons3_desc:0 "Native Balts, the majority of our country's population, are not currently allowed to serve in the army. With the need for an ever-expanding standing force however, this must begin to change. While the core of the Army should remain German as there are some roles Balts simply cannot be trusted to fill, we need more men desperately and some reforms must be introduced."
+BAT_Army_Cons3_desc:0 "우리나라 인구의 대다수를 차지하는 발트인들은 현재 군 복무를 할 수 없습니다. 하지만, 상비군의 필요성이 증대되고 있고, 변화가 필요합니다. 발트인들이 맡을 수 없는 핵심 군부의 요직은 여전히 독일인의 자리일 것이지만, 우리는 더 많은 사람들이 필요합니다. 또한 이를 위해서는 몇몇 개혁들이 도입되어야 할 것입니다."
 
 BAT_Army_Cons2:0 "발트인 징집"
-BAT_Army_Cons2_desc:0 "Native Balts, the majority of our country's population, are not currently allowed to serve in the army. But now we need every man on the frontline, no matter who is he: German, Estonian, Latvian or Russian. The people of the Baltic Duchy must defend their homes and there is no time for xenophobic bias."
+BAT_Army_Cons2_desc:0 "우리나라 인구의 대다수를 차지하는 발트인들은 현재 군 복무를 할 수 없습니다. 하지만 이제는 누가 되든 전선에 사람이 필요합니다. : 독일인,에스토니아인,라트비아인, 혹은 러시아인 상관없이요. 발트 공국 국민들은 그들의 고향을 지켜야 하고 인종차별적인 편견은 사라져야 합니다."
 
 BAT_Army_Inf1:0 "현대 장비"
-BAT_Army_Inf1_desc:0 "Most of our troops use clearly obsolete equipment. The Weltkrieg is long over, we need to change our equipment so that our brave soldiers fight with the best money and technology has to offer. We are a militia no more!"
+BAT_Army_Inf1_desc:0 "우리 군대의 대부분은 낡은 장비를 사용하고 있습니다. 대전쟁은 이미 오래전에 끝났고, 우리의 용감한 군인들이 최고의 장비를 위해 싸우기 위해선 돈과 기술이 필요합니다. 우리는 더이상 민병대가 아닙니다!"
 
 BAT_Army_Inf2:0 "훈련 체계 개선"
-BAT_Army_Inf2_desc:0 "We should reorganise and modernise our training system. New drilling methods will shorten boot camp times and stronger emphasis on actual combat training will increase the combat readiness of our troops."
+BAT_Army_Inf2_desc:0 "우리는 훈련 체계를 재정비하고 현대화해야 합니다. 새로운 훈련 방식은 신병 훈련 시간을 단축하고 실전 대비에 초점을 맞출 것이고, 우리 군대가 전투를 더 잘 준비할 수 있도록 할 것입니다."
 
 BAT_Army_Doc1:0 "전쟁 모의"
-BAT_Army_Doc1_desc:0 "Our military staff still push for old tactics and doctrines. We desperately need to change their minds. If we start organising regular war games, we will slowly but surely force them to adapt to the realities of modern warfare."
+BAT_Army_Doc1_desc:0 "우리의 군사 참모들은 아직도 낡은 전술과 교리를 내세우고 있습니다. 우리는 그들의 마음을 바꿀 필요가 있습니다. 만약 우리가 정기적으로 전쟁 모의 훈련을 실시한다면 그들은 현대 전투의 실상을 알게 될 것입니다."
 
 BAT_Army_Doc2:0 "현대적 교리"
-BAT_Army_Doc2_desc:0 "Now our generals are prepared for the realities of today's warfare. But even better, they now seem to have finally adopted a more innovative and forward-thinking mindset. Let us warmly welcome any suggestions from them, and seek new tactics to implement."
+BAT_Army_Doc2_desc:0 "이제 우리 장군들은 현대 전쟁에 대비하고 있습니다. 또한 그들은 마침내 더 혁신적이고 미래 지향적인 사고방식을 채택했습니다. 우리는 새로운 전술을 모색하고 있는 그들의 제안을 환영할 것입니다."
 
 BAT_Army_Mot:0 "기동군"
-BAT_Army_Mot_desc:0 "We can significantly improve the speed of our troops by simply adopting motorised vehicles as an integral part of our division design. These new troops will be attached to their trucks as cavalry were with their horses, now we just need to figure out the tactical and organisational details."
+BAT_Army_Mot_desc:0 "우리는 차량화 장비를 부대 설계에 도입함으로써 부대의 이동속도를 크게 향상시킬 수 있습니다. 이 새로운 부대는 마치 기병대가 말을 타는 것처럼 트럭을 타고 다닐 것이고, 이제 우리는 전술적,조직적 세부사항만 점검하면 됩니다."
 
 BAT_Army_Arm:0 "전차 설계"
-BAT_Army_Arm_desc:0 "It seems that tanks become more and more powerful and practical every day, not that the Weltkrieg had not already showcased their potential by shattering the tactics of trench warfare. Every modern army will come to rely on them, and so should we. We will build our own."
+BAT_Army_Arm_desc:0 "전차는 더 강력하고 유용하게 바뀌고 있고, 그것의 잠재력은 이미 대전쟁 전장에서 참호전 전술을 무너뜨림으로써 드러났습니다. 모든 현대 군대는 그들에게 의지하게 될 것이고, 우리도 그래야 합니다. 우리는 우리만의 전차를 만들 것입니다."
 
 BAT_Army_Def1:0 "현대 야포"
-BAT_Army_Def1_desc:0 "The artillery cannon will always be useful. But as any kind of equipment, we should seek to modernise it. New artillery will be even more powerful than we can yet imagine, with bigger calibres, bigger guns, and bigger payloads."
+BAT_Army_Def1_desc:0 "대포는 항상 전장에서 유용합니다. 하지만 어떤 장비든 현대화를 추구해야 합니다. 새로운 대포는 우리가 상상하는 것보다 훨씬 강력할 것이고, 더 큰 구경, 더 큰 총, 더 큰 폭발력을 갖출 것입니다."
 
 BAT_Army_Mil_Navy1:0 "발트 함대"
-BAT_Army_Mil_Navy1_desc:0 "Since Peter the Great many naval battles have been fought in the Baltic Sea; we are proud of the prestige and legacy of our navy and we will focus on improving our ships even more."
+BAT_Army_Mil_Navy1_desc:0 "표트르 대제의 치세 이후 많은 해상 전투가 발트해에서 일어났습니다. 우리 해군의 명성과 유산은 자랑스러운 것이고, 우리는 우리 함선을 개량하는 데 집중해야 합니다."
 
 BAT_Army_Mil_Navy_Old:0 "해군 전통"
-BAT_Army_Mil_Navy_Old_desc:0 "The power of our navy lies in its traditions. Instead of investing endless funds into new hulls, we can always improve and refit our old ships. A battleship shall always be a battleship."
+BAT_Army_Mil_Navy_Old_desc:0 "우리 해군의 힘은 전통에 있습니다. 새로운 함선에 끝없는 자금을 투자하는 대신, 우리는 낡은 함선을 개량하고 수리할 수 있습니다. 전함은 언제나 전함입니다."
 
 BAT_Army_Mil_Navy_New:0 "새로운 해군 기술"
-BAT_Army_Mil_Navy_New_desc:0 "Traditions are good, but we can't afford to forget about new technologies. Instead of praising the old ways, we should invest our funds into some brand new naval technologies like submarines."
+BAT_Army_Mil_Navy_New_desc:0 "전통은 좋은 것이지만, 새로운 기술의 도입도 필요합니다. 낡은 방식을 고수하는 대신 우리는 잠수함 같은 해군 신기술에 우리의 자금을 투자해야 합니다."
 
 BAT_Army_Mil_Navy_Doc:0 "용맹한 해군 장교"
-BAT_Army_Mil_Navy_Doc_desc:0 "Our naval officers are some of the best officers of Europe. We should encourage them and create more favourable working conditions for them to encourage them to stay and improve our navy."
+BAT_Army_Mil_Navy_Doc_desc:0 "우리 해군 장교들은 유럽에서 가장 우수한 장교들 중 하나입니다. 우리는 그들을 격려하고 더 나은 근무 조건을 조성해 줌으로써 그들이 우리 해군을 위해 더 열심히 일하도록 만들어야 합니다."
 
 BAT_Army_Mil_Navy_Transport:0 "정예 발트 해병대"
-BAT_Army_Mil_Navy_Transport_desc:0 "With our long coastline, we will always be threatened by naval invasions. We should teach some of our troops to fight in such conditions and even perform autonomous naval landings."
+BAT_Army_Mil_Navy_Transport_desc:0 "우리의 긴 해안선 때문에, 우리는 항상 해상 침공의 위험성을 안고 있습니다. 이에 대비하기 위해서 우리는 부대의 몇몇 사병들에게 이러한 상황에서의 전투법을 가르치고, 그들이 자율적인 해상 상륙을 감행할 수 있도록 해야 합니다."
 
 BAT_Air1:0 "공군 기지 확장"
-BAT_Air1_desc:0 "Aviation never was our forte; ever since the introduction of aeroplanes during the Weltkrieg we have been struggling to catch up. We should build some airfields now and start training for the future of warfare."
+BAT_Air1_desc:0 "공군은 항상 우리의 약점이었습니다. 대전쟁기 항공기의 출현 이후 우리는 항공 기술을 발전시키기 위해 노력해 왔습니다. 비행장을 지어 미래의 전투를 대비하는 훈련을 시작해야 합니다."
 
 BAT_Air_CAS:0 "CAS 중점"
-BAT_Air_CAS_desc:0 "A modern army needs support from vehicles not only on the ground but also in the air; certainly a concept which will be easy for our officers to understand."
+BAT_Air_CAS_desc:0 "현대 군대는 지상에서뿐만 아니라 공중에서의 지원 또한 필요로 합니다. 우리 장교들은 이러한 필요성을 잘 이해하고 있습니다."
 
 BAT_Air_Fighter:0 "전투기 중점"
-BAT_Air_Fighter_desc:0 "We have not seen the last of the Weltkrieg's dogfights. Keeping ahead in the development of fighter planes will give us an edge in future air battles."
+BAT_Air_Fighter_desc:0 "우리는 아직 대전쟁 개싸움의 끝을 보지 못했습니다. 전투기의 개발을 계속하는 것은 미래의 공중전에서 우리에게 우위를 가져다 줄 것입니다."
 
 BAT_Air_Nav_Bomber:0 "뇌격기 중점"
-BAT_Air_Nav_Bomber_desc:0 "Ships have proven exceptionally vulnerable to aircrafts. We should keep improving on their technology to ensure we stay ahead of any countermeasures and get the edge in large naval confrontations."
+BAT_Air_Nav_Bomber_desc:0 "선박은 항공기의 공격에 매우 취약합니다. 우리는 해군 기술을 계속 발전시켜 우리의 적들보다 우위에 서야 합니다."
 
 BAT_Air_Doc:0 "공군 혁신"
-BAT_Air_Doc_desc:0 "Modern wars cannot be won without dominating the skies. We must do everything in our power to develop the air force until we are able to protect our skies as well as we protect our seas and lands!"
+BAT_Air_Doc_desc:0 "현대전은 하늘을 지배하지 않고는 이길 수 없습니다. 우리는 우리의 바다와 육지를 보호할 뿐만 아니라 우리의 하늘을 보호할 수 있을 정도의 공군력을 개발하기 위해 전력을 다해야 합니다!"
 
 BAT_Air_End:0 "발트 항공술"
-BAT_Air_End_desc:0 "Now, that is what we call aviation. Our recent efforts have shown very impressive results. Maybe we are not the kings of the sky but our pilots can fight well enough to give any enemy plane a run for his money."
+BAT_Air_End_desc:0 "자, 이것이 바로 우리의 항공술입니다. 우리의 최근 노력은 매우 인상적인 결과를 낳았습니다. 어쩌면 우리는 하늘의 왕이 아닐지도 모르지만 우리의 조종사들은 적기를 가볍게 농락할 정도로 실력이 뛰어납니다."
 
 BAT_Education_Ger:0 "교육 개혁"
-BAT_Education_Ger_desc:0 "With more power to the Duke, the time has come for us to rethink our system of education. We have made some great strides in educating the younger masses, but our universities are already full. If we invest some money and open more universities, more people will get a higher education."
+BAT_Education_Ger_desc:0 "공작의 권력이 공고해졌고, 이제 우리는 교육정책을 다시 생각해 봐야 합니다. 우리는 젊은 대중들을 교육하는데 있어서 상당한 진전을 이루었지만, 우리 대학들은 이미 만원 상태입니다. 우리는 더 많은 사람들이 고등교육을 받도록 하기 위해 자금을 투자하여 더 많은 대학을 열어야 합니다."
 
 ### Ideas ###
 
@@ -515,10 +515,10 @@ BAT_schools:0 "새로운 교육 시스템"
 BAT_schools_desc:0 "Reforming our education system is easier said than done. But with some improvements made to our curriculum, we expect that our country's literacy will increase, and higher education will eventually become a reality to a larger part of our youth, with benefits all across our society."
 
 BAT_factory:0 "경제 호황"
-BAT_factory_desc:0 "The liberalisation of our economy has had the effect that we hoped, with construction and production once again roaring through our lands. This allows us to contract our newly-recovered economy to peform major infrastructure works, faster and cheaper."
+BAT_factory_desc:0 "건설과 생산의 물결이 전국을 휩쓸고 있고, 경제 자유화의 성과가 나타나고 있습니다. 우리는 이를 통해 주요 기반시설 공사를 빠르고 저렴하게 수행할 수 있습니다."
 
 BAT_militia:0 "발트 민병대"
-BAT_militia_desc:0 "With the mighty German army promising to defend our country against aggression, the organisation of our country's military from its very inception has been relaxed, to say the least. We need to remedy to this, wherever we are to still benefit of Germany's protection, or especially if we are to lose it."
+BAT_militia_desc:0 "강력한 독일군이 우리나라를 외세의 침공에서 보호해줌에 따라, 공국의 군대는 최소한으로 축소되었습니다. 만에 하나 독일의 보호가 끊기거나, 독일의 보호를 계속 받기 위해서라도 우리는 군대를 다시 확장해야 합니다."
 
 BAT_Black_Monday:0 "검은 월요일의 여파"
 BAT_Black_Monday_desc:0 "카이저라이히의 영향권 깊숙이 있는 국가로서, 검은 월요일의 영향은 우리 경제에 치명적이었습니다. 하지만, 우리는 독일의 경제 회복을 기다리기만 할 수 없고, 우리 스스로 해결해야 합니다. 우리 나라의 불안정을 방치한 대가는 클 것입니다."
@@ -566,9 +566,9 @@ BAT_COL_LIV:0 "쿠를란트의 독일인 과반수"
 BAT_COL_EST:0 "쿠를란트의 독일인 과반수"
 BAT_autonomy:0 "더 많은 자치를 원함"
 BAT_ghm_flag:0 "독일 장교단"
-BAT_bhm_flag:0 "Ducal Officers"
+BAT_bhm_flag:0 "공국 장교단"
 BAT_gc_flag:0 "독일인 징병"
-BAT_bc_flag:0 "Ducal Conscripts"
+BAT_bc_flag:0 "공국 징병"
 
 ### Tooltips ###
 
