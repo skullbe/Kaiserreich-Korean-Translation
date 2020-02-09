@@ -569,16 +569,16 @@ QIE_sic_convoys:0 "수송선 의뢰"
 #zhili-Manchu civil war
 QIE_zhili_manchu_war_idea:0 "직예-만주 내전"
 QIE_zhili_manchu_war_idea_desc:0 "While we may have control over Beijing and the surrounding areas, Zhili loyalists have fled south and hunkered down in the countryside. We need to push south, and reunite our nation!"
-QIE_zhili_manchu_war_decisions_category:0 "The Southern Campaign"
-QIE_zhili_manchu_war_decisions_category_desc:0 "While we may have secured Beijing and our immediate frontiers with the Fengtian, traitorous Zhili generals still lurk in the south. We need to send our armies south to put down these traitors, and ensure that China is united under the Emperor!"
+QIE_zhili_manchu_war_decisions_category:0 "남부 작전"
+QIE_zhili_manchu_war_decisions_category_desc:0 "우리 군이 베이징, 그리고 봉천과의 국경 지대를 장악했지만, 반역자 직예 장군들은 아직 남쪽에서 저항 중입니다. 이제 우리가 군대를 남부로 보내 저 반역자들을 무릎꿇리고 중국은 황제 폐하 아래에서 하나라는것을 보여줘야 할 때입니다!"
 QIE_push_to_yellow_river:0 "황하 공세"
-QIE_push_to_yellow_river_desc:0 "The first step of our reconquest involves pushing to the Yellow River, and destroying all Zhili garrisons up to the banks. With this completed, we can focus on the heart of the campaign - Luoyang."
-QIE_assault_luoyang:0 "루양으로 돌격"
-QIE_assault_luoyang_desc:0 "Luoyang was Wu Peifu's headquarters before his defeat, and now many Zhili generals have retreated there, bringing many of their personal militias with them. Securing this fortress will be a monumental victory for our cause."
+QIE_push_to_yellow_river_desc:0 "우리 작전의 제1단계는 황하로 진격해 직예 병력을 강으로 몰아 섬멸하는 것입니다. 이 단계가 끝나야 우리는 작전의 최중요 목표인 뤄양을 공략할 수 있습니다."
+QIE_assault_luoyang:0 "뤄양으로 돌격"
+QIE_assault_luoyang_desc:0 "뤄양은 우페이푸가 패배하기 이전 그의 본부였으며, 현재는 많은 직예 장군들이 각자의 친위 부대를 모아 후퇴해 있는 곳입니다. 이곳을 확보하는것은 우리의 대의를 위한 기념비적인 승리가 될 것입니다."
 QIE_mop_up_south:0 "고립된 수비대 마무리"
-QIE_mop_up_south_desc:0 "With the fall of Luoyang, we can now focus on destroying isolated garrisons across former Zhili territory. This will be time-consuming, but securing Shaanxi, Hubei, and other provinces will be essential in consolidating our rule."
+QIE_mop_up_south_desc:0 "뤄양의 함락으로 우리는 구 직예 군벌 영토 곳곳에 고립된 주둔군들에집중할 수 있게 되었습니다. 시간이 꽤 걸리겠지만 산시와 후베이, 그리고 다른 성들을 확보하는 것은 우리의 국가 통제에 필수적입니다."
 QIE_final_push:0 "마지막 공세"
-QIE_final_push_desc:0 "The last remnants of the Zhili have retreated to Wuchang, where they defeated the KMT a decade ago. This time they will not be so lucky! We will destroy these traitors and ensure that China is ours!"
+QIE_final_push_desc:0 "마지막 직예 잔당들이 그들이 십년 전에 국민당을 물리쳤던 곳, 우창으로 후퇴했습니다. 하지만, 이번에는 그들이 이길 수 없을 겁니다! 우리는 그 역적들을 처단할 것이며, 중국이 우리의 것임을 천명할 것입니다!"
 
 ##buying German equipment
 QIE_buy_german_eqip_decisions:0 "Purchasing Surplus German Equipment"
@@ -1269,7 +1269,7 @@ qiecoup.18.d:0 "걱정스러운 소식입니다! 최근 며칠동안 우리 군�
 qiecoup.18.a:0 "도대체 무슨일이야?"
 
 qiecoup.19.t:0 "베이징으로의 부름"
-qiecoup.19.d:0 "우페이푸가 최근 며칠사이에 일어났던 걱정스러운 일들을 처리하려고 시도하는 중에, 차오쿤과 우페이푸를 황제와의 회의를 위해 베이징으로 소환하는 긴급 전보가 도착했습니다. 폭동이 여전히 매일같이 대규모로 일어나고, 황제에게 법률상으로 군벌 수장을 소환할 헌법 특권이 있다고는 해도 이런일은 거의 일어난적이 없었습니다. 우페이푸는 함정의 기운를 느꼈지만, 차오쿤이 이미 황제에게 자신과 우페이푸가 이번주 말에 찾아간다고 알려버린 뒤였습니다."
+qiecoup.19.d:0 "우페이푸가 최근 며칠사이에 일어났던 걱정스러운 일들을 처리하려고 시도하는 중에, 차오쿤과 우페이푸를 황제와의 회의를 위해 베이징으로 소환하는 긴급 전보가 도착했습니다. 폭동이 여전히 매일같이 대규모로 일어나고, 황제에게 법률상으로 군벌 수장을 소환할 헌법 특권이 있다고는 해도 이런일은 거의 일어난적이 없었습니다. 우페이푸는 함정의 기운을 느꼈지만, 차오쿤이 이미 황제에게 자신과 우페이푸가 이번주 말에 찾아간다고 알려버린 뒤였습니다."
 qiecoup.19.a:0 "망할놈의 차오쿤!"
 
 qiecoup.20.t:0 "우페이푸와 차오쿤이 푸이를 만나다"
@@ -1294,20 +1294,20 @@ qiecoup.24.d:0 "Following Cao and Wu’s narrow escape from death in the Throne 
 qiecoup.24.a:0 "반역자들에게 죽음을!"
 
 qiecoup.25.t:0 "승리!"
-qiecoup.25.d:0 "Reports have returned to the Imperial Palace that our troops have reached the Yellow River. The scattered Zhili garrisons around Beijing proved to be little match for the Baoding-led armies, and General Zaitao's Manchu assisted in harrying retreating Zhili troops as they attempted to flee to Luoyang. Many troops simply deserted to our forces, as the thought of serving a leaderless army with little concentrated political backing does not really appeal.\n\nOur forces are now ready to began an assault on Luoyang, Wu Peifu's stronghold, currently being defended by forces under general Jiang Baili, Wu's second in command. Securing this fortress will be the beginning of the end for the Zhili clique."
+qiecoup.25.d:0 "우리 군대가 황하에 도달했다는 보고가 황궁에 도착했습니다. 베이징 근교에 흩어진 직예 주둔군들은 바오딩 출신 군관들이 이끄는 우리 군대의 상대가 되지 못했습니다. 자이타오 장군이 이끄는 만주족 병사들 역시 뤄양으로 후퇴중인 직예 병사들을 습격했고, 많은 적 병사들이 구심점을 잃은 군대에 충성하기를 거부하고 우리에 투항했습니다. \n\n우리 병사들은 이제 과거 우페이푸의 본거지이자 지금은 장바이리 휘하의 병사들이 수비하고 있는 도시, 뤄양을 공격할 준비가 되었습니다. 이 요새화된 도시의 점령은 직예 군벌 몰락의 신호탄이 될 것입니다."
 qiecoup.25.a:0 "천자 폐하 만세!"
 
 qiecoup.26.t:0 "뤄양에서의 승리!"
-qiecoup.26.d:0 "A telegram arrived this morning from Luoyang, confirming that our troops were victorious in storming the walls of the fortified city. Following hours of concentrated artillery bombardment, loyal troops crossed the river in impromptu barges, sustaining heavy fire. Once ashore, however, they quickly secured control over a beachhead, allowing more and more of our troops to land and begin attacking Zhili units garrisoned in the city. Fighting among the ancient grotto and temples that dot the city, our troops eventually stormed the Zhili headquarters, killing Jiang Baili. Other generals managed to escape, and Zhili troops have scattered throughout the surrounding countryside looting and pillaging even as they flee our forces."
+qiecoup.26.d:0 "오늘 아침, 우리 병사들이 성벽을 넘어 요새화된 뤄양을 함락시켰다는 것을 알리는 전보가 도착했습니다. 수 시간 동안의 대규모 포격에 이어 병사들이 급조된 바지선에 타고 포화 속에서 도강을 시도하여 빠르게 강가를 장악하였으며, 뒤이어 수많은 아군 병력이 도강해 도시 내부의 직예 병력에 대한 공격을 개시했습니다. 도시 곳곳의 고대 석굴들과 사원들에서의 전투 끝에 우리 군은 마침내 직예 군벌 사령부를 함락시키고 장바이리를 사살했습니다. 한편 다른 몇몇 장군들은 탈출에 성공했으며, 직예 병사들은 주변의 시골 지역으로 도주해 약탈을 벌이고 있습니다."
 qiecoup.26.a:0 "천자 폐하 만세!"
 
 qiecoup.27.t:0 "남부에서의 승리!"
-qiecoup.27.d:0 "The last few weeks have seen intense fighting across the southern reaches of our territory, as the die-hard supporters of Wu Peifu and the Zhili Clique were hunted down and destroyed. Especially viscous was the fighting on all routes leading in to Wuhan, as the last remnants of the Zhili Command prepare to organize a desperate last-stand in the ancient city. With the isolated garrisons destroyed, we can turn our eyes on securing this city and destroying the Zhili once and for all."
+qiecoup.27.d:0 "지난 몇 주 동안 제국 남부 지역에서 우페이푸와 직예군벌에 충성한는 반역자들을 섬멸하기 위한 대규모 전투들이 이어졌으며, 그중에서도 직예 사령부가 마지막 항전을 준비하고 있는 우한으로 향하는 도로 전역에서 가장 치열한 전투들이 벌어졌습니다. 고립된 적 주둔군들을 소탕하는데 성공했으니 이제 우한으로 향해 직예 군벌을 최종적으로 파괴하고, 도시를 확보할 때입니다."
 qiecoup.27.a:0 "천자 폐하 만세!"
 
 qiecoup.28.t:0 "우창에서의 승리!"
-qiecoup.28.d:0 "In a final all-out assault our forces, bolstered by ranks of Zhili deserters, finally stormed Wuhan, destroying the remaining Zhili forces and capturing or killing many senior Zhili generals. With victory finally secured, we can now start to focus on rebuilding our country, and rearing it from both the ravages of the conflict we just endured and the decades of rampant corruption we were subjected to under the Zhili."
-qiecoup.28.a:0 "Long live the Son of Heaven!"
+qiecoup.28.d:0 "구 직예 출신 전향자들 덕분에 더욱 강화된 우리 군대가 마침내 우한에 총공격을 감행해 직예 잔당들을 섬멸하고 많은 직예 원로 장성들을 사로잡거나 죽였습니다. 마침내 우리는 승리했고, 드디어 수십년간 부패한 직예 군벌 정권 아래 놓여있었으며, 최근의 내전으로 황폐화된 우리 조국의 재건을 시작할 수 있게 되었습니다."
+qiecoup.28.a:0 "천자 폐하 만세!"
 
 qiecoup.29.t:0 "Prosperity League Dissolves!"
 qiecoup.29.d:0 "Following our recent upheavals, the Prosperity League has abruptly dissolved, citing a 'hostile atmosphere', with many of their prominent lobbyists leaving for Tianjin. While the German legation remains in Beijing, they have cut themselves off from any government contact, robbing us of German military and industrial support. The people, however are overwhelmingly in favor of this move, and are praising the new government for ridding itself of foreign influences."
