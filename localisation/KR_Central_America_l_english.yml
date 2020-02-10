@@ -41,7 +41,7 @@ owns_ca_trigger_tooltip:0 "중앙아메리카 전역을 소유하겠다"
 
 
 Forming_Central_America:0 "중앙아메리카 정치"
-Forming_Central_America_desc:0 "Central American politics can be complex at times. It deeply involves playing off of each other while staying on the good side of whoever has their eyes on the region, and will need to be navigated carefully."
+Forming_Central_America_desc:0 "중앙아메리카 정치는 가끔 복잡합니다. 정치판에서는 서로 속고 속이면서도 지역을 지켜보는 이들과 한 편에 서기도 해야 합니다. 그려먼서 주의 깊게 조심히 돌아다녀야 합니다."
 
 form_centroamerica:0 "센트로아메리카 수립"
 form_centroamerica_desc:0 "혁명이 성공했습니다! 군사정부와 반공주의의 족쇄를 정당한 우리의 영토에서 추방했고, 해방된 영토만 남았습니다. 지금이야말로 외국의 영향력을 영원히 물리치기 위해 하나로 통일된 중앙아메리카를 만들 시간입니다."
@@ -56,19 +56,19 @@ CEN_socialist_ties_guatemala:0 "과테말라와 관계 수립"
 CEN_socialist_ties_guatemala_desc:0 "과테말라 인민은 마침내 지난 30년간 계속되던 군사정권을 타도해냈고, 스스로 국가를 안전하게 지켜냈습니다. 통합당과의 연대에 여전히 갇혀 있더라도, 과테말라에게 오늘은 최고의 날입니다. 저들을 축하해 주어야 합니다."
 
 CEN_socialist_ties_el_salvador:0 "엘 살바도르와 관계 수립"
-CEN_socialist_ties_el_salvador_desc:0 "엘살바도르는 부패한 Pro-Patria당을 권력에서 끌어내림으로서 1932년 대학살의 원수를 갚았습니다. 엘살바도르 인민은 더 이상 돼지처럼 학살당하지 않을 것입니다. 대신에 우리가 함께할 더 밝은 미래를 보고 있습니다."
+CEN_socialist_ties_el_salvador_desc:0 "엘살바도르는 부패한 프로파트리아당을 권력에서 끌어내림으로서 1932년 대학살의 원수를 갚았습니다. 엘살바도르 인민은 더 이상 돼지처럼 학살당하지 않을 것입니다. 대신에 우리가 함께할 더 밝은 미래를 보고 있습니다."
 
 CEN_socialist_ties_honduras:0 "온두라스와 관계 수립"
-CEN_socialist_ties_honduras_desc:0 "While the 'revolution' in Honduras years ago lightened up slightly compared to the old dictator, the peasant's council proved to just be another dictatorship in disguise. Not for long however, as the Honduran people have liberated themselves, marching into a new light for Central America, one we shall walk with them."
+CEN_socialist_ties_honduras_desc:0 "몇년전 벌어진 온두라스 '혁명'으로 인해 예전 독재자보다 나은 정권이 들어선 줄 알았지만, 농민 의회가 모습만 바뀐 이전 독재정권의 재림에 불과하다는 사실이 드러났습니다. 얼마 지나지 않아 온두라스 사람들이 중앙아메리카를 비추는 새로운 빛으로 걸어들어와 스스로를 해방시켰으니 그들과 함께해야 합니다."
 
 CEN_socialist_ties_nicaragua:0 "니카라과와 관계 수립"
-CEN_socialist_ties_nicaragua_desc:0 "Nicaragua has served as the home of the ideals of Central American socialism since 1932, and they have not failed on us. Remaining ever loyal to the revolution, we shall now step into the light alongside them to liberate the rest of Central America."
+CEN_socialist_ties_nicaragua_desc:0 "니카라과는 1932년부터 중앙아메리카 사회주의 사상의 본거지였으며, 우리와 관계가 틀어진 적이 없습니다. 혁명에 충성을 바치는 우리는 중앙아메리카 나머지 지역을 해방시키기 위해 빛 속으로 그들과 함께 걸어들어갈 겁니다."
 
 CEN_support_guatemala_war_revolutionary:0 "과테말라 혁명 지원"
-CEN_support_guatemala_war_revolutionary_desc:0 "Guatemala, having succeeded in its revolution, has been invaded by the military dictatorship within El Salvador. Whoever comes out on top here decides the fate of the entirety of Northern Central America, essential for the success of the revolution against autocratic strongmen."
+CEN_support_guatemala_war_revolutionary_desc:0 "혁명에 성공한 과테말라가 엘살바도르 군사정권의 침입을 받았습니다. 여기서 누가 승리르 거두든 중앙아메리카 북부 전체의 운명이 달려있습니다. 독재자에 대항한 혁명이 성공하기 위해서는 여기서 이겨야만 합니다."
 
 CEN_support_el_salvador_war_revolutionary:0 "엘살바도르 혁명 지원"
-CEN_support_el_salvador_war_revolutionary_desc:0 "El Salvador has managed to throw off the clutches of the Pro-Patria Party, but their troubles are not over yet. Guatemala, still retaining its dictatorship, has invaded Guatemala in an attempt to stamp out revolutionary sympathy once and for all."
+CEN_support_el_salvador_war_revolutionary_desc:0 "엘살바도르가 프로파트리아당의 손아귀에서 가까스로 벗어났지만, 그들의 고민은 아직도 끝나지 않았습니다. 아직도 독재 정권을 유지하고 있는 과테말라가 혁명 사상을 뿌리뽑기 위해 침공했습니다."
 
 CEN_support_honduras_war_revolutionary:0 "온두라스 혁명 지원"
 CEN_support_honduras_war_revolutionary_desc:0 "Nicaragua, under the guise of spreading their 'liberalism' to recently liberated Honduras. We must ensure these traitors fail in their quest, for both Sandino and the people's sake."
@@ -191,9 +191,9 @@ CEN_revolutionary_front:0 "혁명 전선"
 CEN_anti_revolutionary_alliance:0 "인민 전위대"
 
 ## Trigger Tooltips ##
-CEN_socialist_aligned:0 "Owner must either be a subject of §Y[Root.GetNameDef]§! or an aligned, socialist Central American nation which isn't at war\n"
-CEN_democratic_aligned:0 "Owner must either be a subject of §Y[Root.GetNameDef]§! or an aligned, democratic Central American nation which isn't at war\n"
-CEN_military_aligned:0 "Owner must either be a subject of §Y[Root.GetNameDef]§! or an aligned, authoritarian Central American nation which isn't at war\n"
+CEN_socialist_aligned:0 "소유자가 반드시 §Y[Root.GetNameDef]§!의 종속국이거나 동맹이어야 하고, 사회주의 중앙아메리카 국가가 전쟁상태가 아니어야 합니다\n"
+CEN_democratic_aligned:0 "소유자가 반드시 §Y[Root.GetNameDef]§!의 종속국이거나 동맹이어야 하고, 민주주의 중앙아메리카 국가가 전쟁상태가 아니어야 합니다\n"
+CEN_military_aligned:0 "소유자가 반드시 §Y[Root.GetNameDef]§!의 종속국이거나 동맹이어야 하고, 권위주의 중앙아메리카 국가가 전쟁상태가 아니어야 합니다\n"
 
 ### Cosmetic Tags ###
 CEN_CON_totalist:0 "센트로아메리카"
