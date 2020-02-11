@@ -137,19 +137,19 @@ CEN_military_ties_nicaragua:0 "니카라과와 관계 수립"
 CEN_military_ties_nicaragua_desc:0 "니카라과는 온두라스와의 전쟁 끝에 간신히 되돌아왔습니다. 축하를 겸하면서 가입을 권유하는 사절을 보내는게 어떨까요?"
 
 CEN_military_liberal_pact:0 "인민 전위대 설립"
-CEN_military_liberal_pact_desc:0 "외세의 위협으로부터 중앙아메리카를 지키는 인민  어떤 대가를 치루더라도 혁명의 적들을 찾아낼 겁니다."
+CEN_military_liberal_pact_desc:0 "외세의 위협으로부터 중앙아메리카를 지키는 인민 전위대는 어떤 대가를 치루더라도 혁명의 적들을 찾아낼 겁니다."
 
 CEN_join_military_faction:0 "인민 전위대 가입"
-CEN_join_military_faction_desc:0 "The People's Vanguard has been founded in an attempt to defend the people from themselves, and is most definitely something we should consider joining."
+CEN_join_military_faction_desc:0 "인민 전위대는 자기 손으로 인민을 보위하기 위해 세워졌으며 여기 가입하는 사안을 확실히 고려해봐야 합니다."
 
 CEN_military_invite_nicaragua:0 "니카라과를 인민 전위대에 초대"
-CEN_military_invite_nicaragua_desc:0 "Nicaragua has seen itself manage to become independent after its occupation by Honduras, and sees itself as ready to help us in our cause."
+CEN_military_invite_nicaragua_desc:0 "니카라과는 온두라스에게 점령당한 이후 독립을 되찾았고, 자신이 우리의 대의를 도울 준비가 되어 있다고 생각합니다."
 
 CEN_military_invite_honduras:0 "온두라스를 인민 전위대에 초대"
-CEN_military_invite_honduras_desc:0 "Honduras managed to retain the status quo throughout the past year, proving itself ready to protect their people from themselves in the People's Vanguard."
+CEN_military_invite_honduras_desc:0 "온두라스는 지난 1년 동안 간신히 현상 유지에 성공하면서 인민 전위대에서 자기 손으로 인민을 지킬 준비가 되어 있음을 증명했습니다."
 
 CEN_military_invite_el_salvador:0 "엘살바도르를 인민 전위대에 초대"
-CEN_military_invite_el_salvador_desc:0 "El Salvador, after surviving its second revolution, sees itself as ready to stamp out socialism and liberalism as a means of preventing even more death among their people."
+CEN_military_invite_el_salvador_desc:0 "엘살바도르는 2차 혁명에서 살아남는데 성공했고, 사람들이 더이상 죽어나가지 않도록 막기 위해 사회주의와 자유주의를 쫓아낼 준비가 되어있습니다."
 
 CEN_military_invite_guatemala:0 "과테말라를 인민 전위대에 초대"
 CEN_military_invite_guatemala_desc:0 "Guatemala's decade long status quo presidency has managed to be retained through blood, sweat and tears, ready to ensure the status quo is retained once and for all."
