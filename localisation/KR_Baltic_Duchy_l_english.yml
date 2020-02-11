@@ -500,19 +500,19 @@ BAT_Education_Ger_desc:0 "공작의 권력이 공고해졌고, 이제 우리는 
 ### Ideas ###
 
 BAT_multi_ling:0 "정치적 불안정"
-BAT_multi_ling_desc:0 "Our country is an union of multiple cultures. The Native Balts, the Germanised Balts and the Russian minorities all vie for political influence, causing regular conflict and difficulty to set a common policy. This is only made much worse by the German dominance caused by the Kaiser's policies of Germanisation, crushing minority rights and forcing cultural conversion of the 'Native Balts'."
+BAT_multi_ling_desc:0 "우리나라는 다민족 연합체입니다. 원주민 발트인들, 독일화된 발트인들 그리고 러시아 소수민족 모두 정치적 영향력을 얻기 위해 경쟁하고 있으며, 국가정책을 설정하는데 어려움을 일으키고 있습니다. 이는 카이저의 독일화 정책으로 원주민 발트인들의 권리와 문화가 억압받으면서 더욱 악화되고 있습니다."
 
 BAT_start_crisis:0 "징병 사태"
-BAT_start_crisis_desc:0 "Only people of German descent or having sufficiently Germanised are allowed into the armed forces. Naturally, as the majority of the people in our country are Native Balts and resistance to Germanisation is still high, this poses massive conscription issues. However, due to significant unrest and the ever present risk of a revolt, this is currently seen as a necessary evil."
+BAT_start_crisis_desc:0 "현재 독일계이거나 충분히 독일화가 된 사람들만이 군대에 들어갈 수 있습니다. 당연히, 우리 나라의 대다수의 사람들이 발트인이고 독일화에 대한 저항이 여전히 높기 때문에, 이것은 엄청난 징병 문제를 야기하고 있습니다. 하지만, 국내의 심각한불안정과 반란 위험성 때문에, 이는 필요악으로 받아들여지고 있습니다."
 
 BAT_multi_ling_aut:0 "미약한 자치"
-BAT_multi_ling_aut_desc:0 "Following some diplomatic manoeuvring, we have successfully put an end to the Kaiser's plans of Germanisation. Our country is still shattered, but our people are grateful that we saved our minorities from cultural indoctrination. These wounds will take time to heal, but at least they will be able to heal."
+BAT_multi_ling_aut_desc:0 "약간의 외교적 수완으로, 우리는 카이저의 독일화 계획을 중단시켰습니다. 우리나라는 아직 혼란스러우나, 국민들은 독일의 문화적 동화정책에서 우리 소수민족들을 지켜낸 것에 대해 감사하고 있습니다. 그들의 상처가 치유되기까지는 시간이 걸리겠지만, 결국 치유될 수 있을 것입니다."
 
 BAT_german_majority:0 "독일의 문화적 지배"
-BAT_german_majority_desc:0 "Following a recent push for Germanisation, we have finally achieved a significant milestone. The majority of our political spectrum is now German and as such our position in the country as the majority culture is secure. This not only allows us to finally end the recent instability, but also to enforce the will of the German people on those Native and Russian rebels."
+BAT_german_majority_desc:0 "최근 독일화 추진 정책의 결과로, 우리는 마침내 중요한 첫걸음을 내딛었습니다. 우리나라의 정치 지도층 대다수가 독일인이고 국가에서 독일인의 지위는 확고해졌습니다. 이는 우리나라의 불안정을 끝낼 것이고, 또한 러시아인과 발트인 반란군들에게 독일인의 의지를 보여줄 수 있을 것입니다."
 
 BAT_schools:0 "새로운 교육 시스템"
-BAT_schools_desc:0 "Reforming our education system is easier said than done. But with some improvements made to our curriculum, we expect that our country's literacy will increase, and higher education will eventually become a reality to a larger part of our youth, with benefits all across our society."
+BAT_schools_desc:0 "우리의 교육제도를 개혁하는 것은 말하기는 쉽지만 실행하기는 어렵습니다. 그러나 우리는 교육과정을 개혁함으로써 문해율의 향상과, 높은 교육수준으로 인한 사회의 진보라는 성과를 얻을 것입니다."
 
 BAT_factory:0 "경제 호황"
 BAT_factory_desc:0 "건설과 생산의 물결이 전국을 휩쓸고 있고, 경제 자유화의 성과가 나타나고 있습니다. 우리는 이를 통해 주요 기반시설 공사를 빠르고 저렴하게 수행할 수 있습니다."
@@ -585,11 +585,11 @@ BAT_oob2_tt:0 "두 개의 새로운 보병 사단이 형성될 것입니다."
 BAT_colonisation:0 "동방으로의 전진"
 BAT_colonisation_desc:0 "데어 오스틀리셰 슈츠발 데스 카이저라이히(제국의 동부 방벽)는 발트 연합 공국을 일컫을 때 흔히 쓰이는 말입니다. 독일 제국의 위성국인 이 작은 나라에서, 정치 권력의 모든 스펙트럼은 리가, 레벨, 외셀 섬과 다고 섬에 거주하는 소수 독일인들에게 집중되어 있습니다. 이 나라의 나머지 인구는 주로 라트비아인과 에스토니아인입니다.\n\n§Y완전 독일화 진척도: [?germanisation_var]%§!"
 BAT_kurland:0 "쿠를란트 식민화"
-BAT_kurland_desc:0 "The Ducal Office of Immigration and Settlement has reported an important number of applications for the Colonist Subsidies. The area of settlement appears to be Kurland, close to the border with Memelland in the Empire proper. This can only come as good news to us and bad news for wannabe rebels and troublemakers playing the false card of national identity!"
+BAT_kurland_desc:0 "공국 이민정착 사무소는 상당한 수의 식민 보조금 신청 건수를 보고했습니다. 쿠를란트의 정착지는 제국 본토의 메멜란트와 맞닿아 있고, 이 지역에서 반란군이 활개칠 가능성이 있습니다."
 BAT_livland:0 "리블란트 식민화"
-BAT_livland_desc:0 "The Ducal Office of Immigration and Settlement has indicated that the number of subsidy applications for settlers aiming to establish themselves in Livland has been steadily growing. This can be explained by both an increased confidence that the Ducal government can efficiently defend the interests of colonists, as well as by the important number of colonists already in Livland."
+BAT_livland_desc:0 "공국 이민정착 사무소는 리블란트에 정착하려는 정착민들의 보조금 신청 건수가 증가하고 있다고 보고해 왔습니다. 공국 정부가 정착민들의 권리를 효과적으로 보호해줌과 동시에, 상당한 수의 리블란트 선 정착민들의 존재가 그 원인으로 보입니다."
 BAT_estland:0 "에스틀란트 식민화"
-BAT_estland_desc:0 "The Ducal Office of Immigration and Settlement has indicated that the number of subsidy applications for settlers aiming to establish themselves in Estland has been steadily growing. This can be explained by both an increased confidence that the Ducal government can efficiently defend the interests of colonists, as well as by the important number of colonists already in Estland."
+BAT_estland_desc:0 "공국 이민정착 사무소는 에스틀란트에 정착하려는 정착민들의 보조금 신청 건수가 증가하고 있다고 보고해 왔습니다. 공국 정부가 정착민들의 권리를 효과적으로 보호해줌과 동시에, 상당한 수의 에스틀란트 선 정착민들의 존재가 그 원인으로 보입니다."
 BAT_refugees:0 "이주민의 쇄도"
 BAT_refugees_desc:0 "더욱 가난해진 상당수의 본국 시민들은 아돌프 프리드리히 1세가 제안한 새로운 출발을 받아들였고, 그의 발트 지역으로 이주하기로 결정했습니다"
 BAT_native_supression:0 "독일화 개혁"
