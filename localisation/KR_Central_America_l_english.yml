@@ -71,85 +71,85 @@ CEN_support_el_salvador_war_revolutionary:0 "엘살바도르 혁명 지원"
 CEN_support_el_salvador_war_revolutionary_desc:0 "엘살바도르가 프로파트리아당의 손아귀에서 가까스로 벗어났지만, 그들의 고민은 아직도 끝나지 않았습니다. 아직도 독재 정권을 유지하고 있는 과테말라가 혁명 사상을 뿌리뽑기 위해 침공했습니다."
 
 CEN_support_honduras_war_revolutionary:0 "온두라스 혁명 지원"
-CEN_support_honduras_war_revolutionary_desc:0 "Nicaragua, under the guise of spreading their 'liberalism' to recently liberated Honduras. We must ensure these traitors fail in their quest, for both Sandino and the people's sake."
+CEN_support_honduras_war_revolutionary_desc:0 "니카라과가 최근 해방된 온두라스에 소위 '자유주의'를 확대한다는 명목으로 진입했씁니다. 산디노와 인민 양쪽 모두의 이름으로, 이 반역자들이 실패하도록 막아야 합니다."
 
 CEN_support_nicaragua_war_revolutionary:0 "니카라과 혁명 지원"
-CEN_support_nicaragua_war_revolutionary_desc:0 "Nicaragua has finally begun to liberate both Honduras and destroy the vestiges of its military government. Their success here is of the utmost importance!"
+CEN_support_nicaragua_war_revolutionary_desc:0 "니카라과가 마침내 온두라스를 해방시키고 군사정권의 잔재를 파괴하기 시작했습니다. 그들의 성공은 매우 중요합니다!"
 
 CEN_found_revolutionary_pact:0 "혁명전선 설립"
-CEN_found_revolutionary_pact_desc:0 "Discussed among many of our politicians, we have concluded that we need to found a pact among now and future socialist nations within Central America in order to oppose the liberals and dictators against us."
+CEN_found_revolutionary_pact_desc:0 "많은 정치인들이 논의한 끝에 자유주의자들과 독재자들에게 저항하기 위해 중앙아메리카 신생 사회주의 국가들과 이후 세워질 사회주의 국가들이 가입할 수 있는 협약을 맺을 필요가 있다는 결론을 내렸습니다."
 
 CEN_join_revolutionary_faction:0 "혁명전선 가담"
-CEN_join_revolutionary_faction_desc:0 "The Revolutionary Front founded by likeminded individuals hoping to band together to bring socialism to Central America. It is our job to join it, for the sake of our brethren abroad."
+CEN_join_revolutionary_faction_desc:0 "같은 사상을 공유하는 개인들이 연대하여 중앙아메리카에 사회주의 혁명을 가져오리라 희망하면서 혁명전선을 세웠습니다. 해외 동포들을 위해 여기에 동참해야 할 의무가 있습니다."
 
 CEN_socialist_invite_nicaragua:0 "니카라과를 혁명전선에 초대"
-CEN_socialist_invite_nicaragua_desc:0 "Nicaragua has served as the bastion of the Central American revolution ever since 1933, and will be an essential member of the front."
+CEN_socialist_invite_nicaragua_desc:0 "니카라과는 1933년부터 중앙아메리카에서 혁명의 보루 역할을 해왔으며, 혁명전선의 필수적인 일원이 될 겁니다."
 
 CEN_socialist_invite_honduras:0 "온두라스를 혁명전선에 초대"
-CEN_socialist_invite_honduras_desc:0 "Honduras, despite some questioning their ruling methods, has fallen to revolution and is a needed member of the front."
+CEN_socialist_invite_honduras_desc:0 "지배 방식에 의문이 들지만, 그래도 온두라스는 혁명에 무너졌고 전선의 중요한 일원입니다."
 
 CEN_socialist_invite_el_salvador:0 "엘살바도르를 혁명전선에 초대"
-CEN_socialist_invite_el_salvador_desc:0 "El Salvador, having one of the cruelest dictators of all of Central America, has managed to break free from their chains binding them. Their participation in the front is necessary."
+CEN_socialist_invite_el_salvador_desc:0 "중앙아메리카에서 가장 잔인한 독재자가 지배하던 엘살바도르는 간신히 쇠사슬을 부수고 자유를 얻었습니다. 전선은 저들을 필요로 합니다."
 
 CEN_socialist_invite_guatemala:0 "과테말라를 혁명전선에 초대"
-CEN_socialist_invite_guatemala_desc:0 "Guatemala has managed to end three decades of military stagnation, ready to propel themselves into the future. Together we shall liberate Central America."
+CEN_socialist_invite_guatemala_desc:0 "과테말라는 30년간 계속된 군사적 침체를 끝내고 미래를 향해 나아갈 준비를 끝마쳤습니다. 우리는 함께 중앙아메리카를 해방시킬 겁니다."
 
 CEN_liberal_ties_guatemala:0 "과테말라와 관계 수립"
-CEN_liberal_ties_guatemala_desc:0 "Guatemala has managed to escape their coalition with the socialists, with the Unity Party coming out on top. Guatemala shall now serve as a beacon of democratic Central American unity, one that we must ally."
+CEN_liberal_ties_guatemala_desc:0 "통일당이 정상을 차지하면서 과테말라는 간신히 사회주의자들과의 연정을 끝냈습니다. 이제 과테말라는 민주주의 중앙아메리카 통합의 신호탄 역할을 할 겁니다."
 
 CEN_liberal_ties_el_salvador:0 "엘살바도르와 관계 수립"
-CEN_liberal_ties_el_salvador_desc:0 "El Salvador has managed to restore the position of the presidency following the rule of the Pro-Patria party. We must ensure we remain on their good side in the case of future conflicts."
+CEN_liberal_ties_el_salvador_desc:0 "엘살바도르는 프로파트리아 당의 지배를 벗어나고 대통령제를 복원하는데 성공했습니다. 미래에 다가올 분쟁에 대비해 그과 좋은 관계를 유지해야 합니다."
 
 CEN_liberal_ties_honduras:0 "온두라스와 관계 수립"
-CEN_liberal_ties_honduras_desc:0 "Honduras has managed to hold its first truly open elections following the collapse of America, opening up the possibility of a new democratic bastion in Central America. We must ensure that they remain this way."
+CEN_liberal_ties_honduras_desc:0 "미국이 붕괴한 이후 온두라스는 진정한 의미의 첫 번째 선거를 치렀고, 중앙아메리카에 새로운 민주주의의 보루가 되었습니다. 이런 변화가 계속 유지되도록 해야 합니다."
 
 CEN_liberal_ties_nicaragua:0 "니카라과와 관계 수립"
-CEN_liberal_ties_nicaragua_desc:0 "Nicaragua in an unexpected turn of events has managed to dispose of Sandino from Nicaragua and establish a 'True revolutionary republic', based off the ideals of liberalism. We should join them in celebrating this transformation."
+CEN_liberal_ties_nicaragua_desc:0 "예기치 못하게 상황이 뒤바뀐 니카라과는 산디노를 몰아내고 자유주의적 이상을 기반으로 한 '진정한 혁명 공화국'을 수립했습니다. 그들과 함께 변화를 축하해야 합니다."
 
 CEN_found_liberal_pact:0 "자유 협정 설립"
-CEN_found_liberal_pact_desc:0 "The idea of a pact between liberal aligned countries within Central America is something we should consider to fight off military governments and socialist revolutionaries with others into the future."
+CEN_found_liberal_pact_desc:0 "언젠가 군사정권이나 사회주의 혁명가들과 싸우기 위해 함께 싸울 중앙아메리카 자유주의 국가들 사이에 협약이 있어야 한다는 주장을 고려해 볼 필요가 있습니다."
 
 CEN_join_liberal_faction:0 "자유 협정 가당"
-CEN_join_liberal_faction_desc:0 "The liberal pact has been founded by a fellow democratic country, ready to overthrow both the socialists and autocracies in the name of the people."
+CEN_join_liberal_faction_desc:0 "국민의 이름으로 사회주의와 독재주의 모두를 타도할 준비가 되어있는 동료 민주주의 국가가 자유 협정이 수립했습니다."
 
 CEN_liberal_invite_nicaragua:0 "니카라과를 자유 협정에 초대"
-CEN_liberal_invite_nicaragua_desc:0 "Nicaragua has managed to remove their personal chains of both socialism and the United States, ready to stand with us for a better Central America."
+CEN_liberal_invite_nicaragua_desc:0 "니카라과는 사회주의와 미국이라는 두 쇠사슬을 모두 벗어던지는데 성공했고, 더 나은 중앙아메리카를 위해 우리와 함께할 준비가 완료되었습니다."
 
 CEN_liberal_invite_honduras:0 "온두라스를 자유 협정에 초대"
-CEN_liberal_invite_honduras_desc:0 "Honduras has managed to peacefully transform to a period of democracy, and seems willing to join us in our struggle against those who oppose us."
+CEN_liberal_invite_honduras_desc:0 "온두라스는 평화적으로 민주주의의 시대로 돌입했으며, 적에게 저항하는 우리의 투쟁에 기꺼이 동참할 것 같습니다.."
 
 CEN_liberal_invite_el_salvador:0 "엘살바도르를 자유 협정에 초대"
-CEN_liberal_invite_el_salvador_desc:0 "El Salvador now stands as a rightful presidential republic, seeing the light of democracy and the ideals of liberalism."
+CEN_liberal_invite_el_salvador_desc:0 "엘살바도르는 이제 민주주의의 빛과 자유주의의 이상을 따르는 정당한 대통령제 공화국으로 우뚝 섰습니다."
 
 CEN_liberal_invite_guatemala:0 "과테말라를 자유 협정에 초대"
-CEN_liberal_invite_guatemala_desc:0 "Guatemala has managed to finish their struggle for liberty and Central American unification ideals, ready to join us in our fight for freedom."
+CEN_liberal_invite_guatemala_desc:0 "과테말라는 자유와 중앙아메리카의 통일이라는 이상을 위한 투쟁에서 가까스로 승리했고 우리와 함께 자유를 위한 투쟁에 참가할 준비가 끝났습니다."
 
 CEN_military_ties_guatemala:0 "과테말라와 관계 수립"
-CEN_military_ties_guatemala_desc:0 "Through general persistence and grit, Guatemala's Partido Liberal has retained power against their revolutionary threat. We must ensure they never come under threat again."
+CEN_military_ties_guatemala_desc:0 "일관적인 끈기와 인내를 통해 과테말라 자유당은 혁명의 위협에 직면했지만 권력을 유지했습니다. 그들이 다시는 위협을 받지 않도록 해야 합니다."
 
 CEN_military_ties_el_salvador:0 "엘살바도르와 관계 수립"
-CEN_military_ties_el_salvador_desc:0 "The dictatorship in El Salvador has managed to survive its second revolution in the past decade, proving their resilience. We need to ensure we cooperate with them further into the future."
+CEN_military_ties_el_salvador_desc:0 "엘살바도르 독재정권은 최근 10년간 2차 혁명을 견뎌내며 회복력을 입증했습니다. 앞으로 그들과 더욱 협력할 필요가 있습니다."
 
 CEN_military_ties_honduras:0 "온두라스와 관계 수립"
-CEN_military_ties_honduras_desc:0 "The new rule of Honduras in the 30s has managed to retain itself, weathering the heavy storm the American Civil War had to offer. In the name of preventing another crisis similar to this, we must ensure closer cooperation between our nations."
+CEN_military_ties_honduras_desc:0 "30년대 온두라스를 지배한 신정권은 미국 내전으로 인해 발생한 거센 폭풍우 속에서 간신히 살아남았습니다. 이와 비슷한 또 다른 위기를 예방하기 위해 두 나라 사이에 보다 긴밀한 협력이 필요합니다."
 
 CEN_military_ties_nicaragua:0 "니카라과와 관계 수립"
-CEN_military_ties_nicaragua_desc:0 "Nicaragua had managed to find itself on the back end in its war against Honduras, with the exiled Guardia being placed in power. As a type of congratulations, maybe we should send an envoy?"
+CEN_military_ties_nicaragua_desc:0 "니카라과는 온두라스와의 전쟁 끝에 간신히 되돌아왔습니다. 축하를 겸하면서 가입을 권유하는 사절을 보내는게 어떨까요?"
 
 CEN_military_liberal_pact:0 "인민 전위대 설립"
-CEN_military_liberal_pact_desc:0 "The People's Vanguard, meant to safeguard Central Americans from external threats, shall be found here in an attempt to resist the revolution at all costs."
+CEN_military_liberal_pact_desc:0 "외세의 위협으로부터 중앙아메리카를 지키는 인민 전위대는 어떤 대가를 치루더라도 혁명의 적들을 찾아낼 겁니다."
 
 CEN_join_military_faction:0 "인민 전위대 가입"
-CEN_join_military_faction_desc:0 "The People's Vanguard has been founded in an attempt to defend the people from themselves, and is most definitely something we should consider joining."
+CEN_join_military_faction_desc:0 "인민 전위대는 자기 손으로 인민을 보위하기 위해 세워졌으며 여기 가입하는 사안을 확실히 고려해봐야 합니다."
 
 CEN_military_invite_nicaragua:0 "니카라과를 인민 전위대에 초대"
-CEN_military_invite_nicaragua_desc:0 "Nicaragua has seen itself manage to become independent after its occupation by Honduras, and sees itself as ready to help us in our cause."
+CEN_military_invite_nicaragua_desc:0 "니카라과는 온두라스에게 점령당한 이후 독립을 되찾았고, 자신이 우리의 대의를 도울 준비가 되어 있다고 생각합니다."
 
 CEN_military_invite_honduras:0 "온두라스를 인민 전위대에 초대"
-CEN_military_invite_honduras_desc:0 "Honduras managed to retain the status quo throughout the past year, proving itself ready to protect their people from themselves in the People's Vanguard."
+CEN_military_invite_honduras_desc:0 "온두라스는 지난 1년 동안 간신히 현상 유지에 성공하면서 인민 전위대에서 자기 손으로 인민을 지킬 준비가 되어 있음을 증명했습니다."
 
 CEN_military_invite_el_salvador:0 "엘살바도르를 인민 전위대에 초대"
-CEN_military_invite_el_salvador_desc:0 "El Salvador, after surviving its second revolution, sees itself as ready to stamp out socialism and liberalism as a means of preventing even more death among their people."
+CEN_military_invite_el_salvador_desc:0 "엘살바도르는 2차 혁명에서 살아남는데 성공했고, 사람들이 더이상 죽어나가지 않도록 막기 위해 사회주의와 자유주의를 쫓아낼 준비가 되어있습니다."
 
 CEN_military_invite_guatemala:0 "과테말라를 인민 전위대에 초대"
 CEN_military_invite_guatemala_desc:0 "Guatemala's decade long status quo presidency has managed to be retained through blood, sweat and tears, ready to ensure the status quo is retained once and for all."
@@ -368,5 +368,5 @@ cend.34.desc:0 "[From.GetNameDefCap] threatens war! We need to make sure we are 
 cend.34.a:0 "우리는 승리하리라!"
 
 cend.conflict.t:0 "최후의 충돌"
-cend.conflict.desc:0 "What seemed once so plentiful, will soon be something of the past. Peace is something we will not know for a while as the entire region enters conflict. What is certain is that Central America will change forever and it is up to us to change it for the better. War has come."
+cend.conflict.desc:0 "한때 풍족해 보였던 모든 것들이 조만간 과거의 일이 될 겁니다. 지역 전체가 충돌속으로 빠져들면서 한동안 평화라는 존재 자체를 잊을지도 모릅니다. 한가지 확실한 것은 중앙아메리카가 영원히 변화할 거고, 그 변화가 지금보다는 좋으리라는 것 뿐입니다. 전쟁이 다가왔습니다."
 cend.conflict.a:0 "중앙아메리카의 운명이 균형을 이루었다..."
