@@ -3,18 +3,18 @@
 CA_military_focus:0 "중앙아메리카 군사 중점계통도"
 
 ### FLAGS ###
-cenmil_natpop_victory:0 "The Radicals have secured their position of power"
-cenmil_patauth_victory:0 "The Militarists have secured their position of power"
-cenmil_authdem_victory:0 "The Moderates have secured their position of power"
-cenmil_ubico_inaugurated:0 "President Ubico has been inaugurated"
+cenmil_natpop_victory:0 "급진주의자가 권력을 안정화했습니다"
+cenmil_patauth_victory:0 "군부가 권력을 안정화했습니다"
+cenmil_authdem_victory:0 "중도파가 권력을 안정화했습니다"
+cenmil_ubico_inaugurated:0 "우비코 대통령이 취임했습니다"
 
-CENmil_interventionism_flag:0 "The Congress has adapted an economic policy of Interventionism"
-CENmil_laissez_faire_flag:0 "The Congress has adapted an economic policy of Laissez-Faire"
+CENmil_interventionism_flag:0 "의회에서 간섭주의 경제 정책을 채택했습니다"
+CENmil_laissez_faire_flag:0 "의회에서 자유방임주의 경제 정책을 채택했습니다"
 
-CENmil_europoor_doctrine:0 "The Army has adapted a policy of Professionalisation"
-CENmil_mass_assault_doctrine:0 "The Army has adapted a policy of Expansion"
+CENmil_europoor_doctrine:0 "군대에서 전문화 방침을 채택했습니다"
+CENmil_mass_assault_doctrine:0 "군대에서 확장 방침을 채택했습니다"
 
-CENmil_grand_visit_done:0 "We have secured the support of a major power through a major visit"
+CENmil_grand_visit_done:0 "국빈 방문을 통해 강대국에게 지지를 얻었습니다"
 CENmil_foreign_policy_open:0 "The foreign policy decision category has been unlocked"
 CENmil_asked_for_stuff:0 "We can't make more diplomatic requests for a while"
 
