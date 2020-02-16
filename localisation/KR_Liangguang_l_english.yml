@@ -1,16 +1,16 @@
 ﻿l_english:
 
 china_upc_faction:0 "중화합중국"
-npa_faction:0 "National Protection Alliance"
-KR_Liangguang_Federalist:0 "Liangguang Federalist Tree"
-KR_federalist_china:0 "Federalist China Tree"
-KR_Guangxi_Clique:0 "Guangxi Clique Tree"
-KR_Guangxi_Clique_NPA:0 "Guangxi Clique NPA Tree"
-KR_Guangdong_Merchants:0 "Guangdong Merchants Focus Tree"
-KR_Guangdong_Merchants_NPA:0 "Guangdong Merchants NPA Focus Tree"
-KR_Guangdong_KMT:0 "Guangdong KMT Focus Tree"
-KR_Guangxi_KMT:0 "Guangxi KMT Focus Tree"
-KR_RKMT:0 "Right Kuomintang Focus Tree"
+npa_faction:0 "호국동맹"
+KR_Liangguang_Federalist:0 "연방주의 양광 중점계통도"
+KR_federalist_china:0 "중화합중국 중점계통도"
+KR_Guangxi_Clique:0 "광서성군벌 중점계통도"
+KR_Guangxi_Clique_NPA:0 "호국동맹 중점계통도"
+KR_Guangdong_Merchants:0 "광동 상단정부 중점계통도"
+KR_Guangdong_Merchants_NPA:0 "호국동맹 중점계통도"
+KR_Guangdong_KMT:0 "광동 국민당 중점계통도"
+KR_Guangxi_KMT:0 "광서 국민당 중점계통도"
+KR_RKMT:0 "국민당 우파 중점계통도"
 
 ### Tooltips ###
 
@@ -467,26 +467,26 @@ GXC_workers_strike_desc:0 "The workers of Guangzhou, one of the few industrializ
 
 ### Parties ###
 
-GXC_totalist_party:0 "Chinese Syndicalist Party"
-GXC_totalist_party_long:0 "Chinese Syndicalist Party                                      §gThe Chinese Syndicalist Party is a minor player in Chinese politics. They certainly do not have much in terms of military power, but their presence is notable in industrialized regions such as Guangzhou, where they flourished under Chen Jiongming's pro-union stance. They are unlikely to take power, however, considering China remains a rural, agrarian backwater.§g"
-GXC_syndicalist_party:0 "Chinese Syndicalist Party"
-GXC_syndicalist_party_long:0 "Chinese Syndicalist Party                                      §gThe Chinese Syndicalist Party is a minor player in Chinese politics. They certainly do not have much in terms of military power, but their presence is notable in industrialized regions such as Guangzhou, where they flourished under Chen Jiongming's pro-union stance. They are unlikely to take power, however, considering China remains a rural, agrarian backwater.§g"
-GXC_radical_socialist_party:0 "Kuomintang"
-GXC_radical_socialist_party_long:0 "Kuomintang                                                             §gThe Nationalist Party of China was once a revolutionary force about to guide China towards modernity and liberty- only to be stopped at the Yangtze. The Northern Expedition may have failed, but the KMT remains underground and a powerful force in Liangguang. Chen Mingshu's Productive People's Party serves as a front for the remnants of the National Revolutionary's Fourth Army and the region's social-democratic politicians of the Party. Wang Jingwei's faction of the Central Committee, however, is quite weak, most of the members in Liangguang favouring Song Qingling's Populists.§!"
-GXC_social_democrat_party:0 "Public Interest Party"
-GXC_social_democrat_party_long:0 "Public Interest Party                                                §gThe Zhongguo Zhigongdang, or China Zhi Gong Party (Public Interest Party of China) is the main political party of the Federalist movement in China. Founded in 1925, the party united disilusioned Kuomintang politicians and Overseas Chinese (especially Freemasons of the Hongmen), calling for the reform of the Republic of China into a proper federal state and multiparty democracy. While these hopes were quickly dashed by the Qing Restoration, they remain a significant force, albeit banned in Qing/Zhili-controlled lands for their explicit republicanism. Their platform, outside of federalism and republican democracy, expouses progressive social and political views from land and education reform to elected assemblies for all government levels.§!"
-GXC_social_liberal_party:0 "Grand Republican League"
-GXC_social_liberal_party_long:0 "Grand Republican League                                      §gThe Gonghe Datongmeng (Grand Republican League) was founded in 1928 as an alliance of Chen Jiongming, representing the federalist Zhigongdang, and Duan Qirui, representing the by-then defunct Republic of China and Anhui Clique, to create a coalition of republicans. While the League attracted fairly little attention, it became Chen's formal coalition in the Guangdong Provincial Assembly. The league is wide and unwieldy, containing federalists of all colours, Kuomintang remnants, business and gentry interests, and even syndicalists. With the collapse of the League, the coalition is on the verge of collapse as they barely share a common platform in maintaing stability in Guangdong, let alone republicanism.§!"
-GXC_market_liberal_party:0 "Merchant Corps"
-GXC_market_liberal_party_long:0 "Merchants' Public Safety Organization                     §gThe Guangzhou Yueshang Gongan Weichihui, or Merchant Corps for short, is the armed militia under the control of the Guangzhou Chamber of Commerce. Founded in 1912, the businessmen of the city organized and funded their own self-defence capabilities as the province descended into warlordism and banditry. The Merchant Corps rose up against the Kuomintang in 1924, convinced that they were spreading syndicalism, but were utterly crushed. Chen Lianbo, its leader from the beginning, fled to Hong Kong, only returning after the failed Northern Expedition. As part of Chen Jiongming's coalition, the Guangzhou Chamber of Commerce and its paramilitary represent business interests in the province, their anti-union stance forcing the coalition to water-down progressive legislation, creating great tension.§!"
-GXC_social_conservative_party:0 "Landowners' Association"
-GXC_social_conservative_party_long:0 "Landowners' Association                                      §gThe Landowners' Association, as its name implies, is a loose grouping of Guangdong's rural landowners. It is not a political party per se, being represented either by the Merchant Corps or as independents in the Provincial Assembly. As such, they have no real binding ideology, together only for the economic interests of their class and rural communities.§!"
-GXC_authoritarian_democrat_party:0 "New Guangxi Clique"
-GXC_authoritarian_democrat_party_long:0 "New Guangxi Clique                                                §gLi Zongren's New Guangxi Clique briefly ruled during the Northern Expedition, where the National Revolutionary Army's Seventh Army distinguished itself despite the campaign's failure. The New Guangxi Clique represents the Kuomintang's militarist right-wing, believing in the NRA's supremacy and the importance of Sun Yat-sen's First and Second Stages of Revolution: Overthrowing the old system by force and the army's interim rule of China.§!"
-GXC_paternal_autocrat_party:0 "Guangxi Clique"
-GXC_paternal_autocrat_party_long:0 "Guangxi Clique                                                    §gOften called the Old Guangxi Clique to differ it from Li Zongren's own Clique, the Guangxi Clique represents one of the most powerful warlords of the Republican era, Lu Rongting. They are little more than a militarist provincial government which is interdependent with the Guangdong government for protection and support. Its large army is at the centre of everything while the Clique's culture is surprisingly pluralistic, collecting many of Guangxi's ethnic minorities with little discrimination.§!"
-GXC_national_populist_party:0 "Yiguandao"
-GXC_national_populist_party_long:0 "Yiguandao                                                                §gZhang Tianran's cult has limited influence in Liangguang.§!"
+GXC_totalist_party:0 "중국 생디칼리스트당"
+GXC_totalist_party_long:0 "중국 생디칼리스트당 (중국 공동체당)                                      §gThe Chinese Syndicalist Party is a minor player in Chinese politics. They certainly do not have much in terms of military power, but their presence is notable in industrialized regions such as Guangzhou, where they flourished under Chen Jiongming's pro-union stance. They are unlikely to take power, however, considering China remains a rural, agrarian backwater.§g"
+GXC_syndicalist_party:0 "중국 생디칼리스트당"
+GXC_syndicalist_party_long:0 "중국 생디칼리스트당 (중국 공동체당)                                      §gThe Chinese Syndicalist Party is a minor player in Chinese politics. They certainly do not have much in terms of military power, but their presence is notable in industrialized regions such as Guangzhou, where they flourished under Chen Jiongming's pro-union stance. They are unlikely to take power, however, considering China remains a rural, agrarian backwater.§g"
+GXC_radical_socialist_party:0 "국민당"
+GXC_radical_socialist_party_long:0 "국민당                                                             §gThe Nationalist Party of China was once a revolutionary force about to guide China towards modernity and liberty- only to be stopped at the Yangtze. The Northern Expedition may have failed, but the KMT remains underground and a powerful force in Liangguang. Chen Mingshu's Productive People's Party serves as a front for the remnants of the National Revolutionary's Fourth Army and the region's social-democratic politicians of the Party. Wang Jingwei's faction of the Central Committee, however, is quite weak, most of the members in Liangguang favouring Song Qingling's Populists.§!"
+GXC_social_democrat_party:0 "중국치공당"
+GXC_social_democrat_party_long: "중국치공당                                                §gThe Zhongguo Zhigongdang, or China Zhi Gong Party (Public Interest Party of China) is the main political party of the Federalist movement in China. Founded in 1925, the party united disilusioned Kuomintang politicians and Overseas Chinese (especially Freemasons of the Hongmen), calling for the reform of the Republic of China into a proper federal state and multiparty democracy. While these hopes were quickly dashed by the Qing Restoration, they remain a significant force, albeit banned in Qing/Zhili-controlled lands for their explicit republicanism. Their platform, outside of federalism and republican democracy, expouses progressive social and political views from land and education reform to elected assemblies for all government levels.§!"
+GXC_social_liberal_party:0 "공화 대동맹"
+GXC_social_liberal_party_long:0 "공화 대동맹                                      §gThe Gonghe Datongmeng (Grand Republican League) was founded in 1928 as an alliance of Chen Jiongming, representing the federalist Zhigongdang, and Duan Qirui, representing the by-then defunct Republic of China and Anhui Clique, to create a coalition of republicans. While the League attracted fairly little attention, it became Chen's formal coalition in the Guangdong Provincial Assembly. The league is wide and unwieldy, containing federalists of all colours, Kuomintang remnants, business and gentry interests, and even syndicalists. With the collapse of the League, the coalition is on the verge of collapse as they barely share a common platform in maintaing stability in Guangdong, let alone republicanism.§!"
+GXC_market_liberal_party:0 "상인단"
+GXC_market_liberal_party_long:0 "광저우 월생 공안 위원회                     §gThe Guangzhou Yueshang Gongan Weichihui, or Merchant Corps for short, is the armed militia under the control of the Guangzhou Chamber of Commerce. Founded in 1912, the businessmen of the city organized and funded their own self-defence capabilities as the province descended into warlordism and banditry. The Merchant Corps rose up against the Kuomintang in 1924, convinced that they were spreading syndicalism, but were utterly crushed. Chen Lianbo, its leader from the beginning, fled to Hong Kong, only returning after the failed Northern Expedition. As part of Chen Jiongming's coalition, the Guangzhou Chamber of Commerce and its paramilitary represent business interests in the province, their anti-union stance forcing the coalition to water-down progressive legislation, creating great tension.§!"
+GXC_social_conservative_party:0 "지주 협회"
+GXC_social_conservative_party_long:0 "지주 협회                                      §gThe Landowners' Association, as its name implies, is a loose grouping of Guangdong's rural landowners. It is not a political party per se, being represented either by the Merchant Corps or as independents in the Provincial Assembly. As such, they have no real binding ideology, together only for the economic interests of their class and rural communities.§!"
+GXC_authoritarian_democrat_party:0 "신 광시 군벌"
+GXC_authoritarian_democrat_party_long:0 "신 광시 군벌                                                §gLi Zongren's New Guangxi Clique briefly ruled during the Northern Expedition, where the National Revolutionary Army's Seventh Army distinguished itself despite the campaign's failure. The New Guangxi Clique represents the Kuomintang's militarist right-wing, believing in the NRA's supremacy and the importance of Sun Yat-sen's First and Second Stages of Revolution: Overthrowing the old system by force and the army's interim rule of China.§!"
+GXC_paternal_autocrat_party:0 "광서성 군벌"
+GXC_paternal_autocrat_party_long:0 "광서성 군벌                                                    §gOften called the Old Guangxi Clique to differ it from Li Zongren's own Clique, the Guangxi Clique represents one of the most powerful warlords of the Republican era, Lu Rongting. They are little more than a militarist provincial government which is interdependent with the Guangdong government for protection and support. Its large army is at the centre of everything while the Clique's culture is surprisingly pluralistic, collecting many of Guangxi's ethnic minorities with little discrimination.§!"
+GXC_national_populist_party:0 "일관도"
+GXC_national_populist_party_long:0 "일관도                                                                §gZhang Tianran's cult has limited influence in Liangguang.§!"
 
 GXC_social_democrat_kmt_party_long:0 "Productive People's Party"
 GXC_social_democrat_kmt_party:0 "Productive People's Party"
@@ -842,116 +842,116 @@ GXC_Military_Nationalization_desc:0 "One of the biggest problems currently plagu
 
 ###NPA announces Northern Expedition 2
 
-GXC_National_Protection_Alliance:0 "National Protection Alliance"
+GXC_National_Protection_Alliance:0 "호국동맹"
 GXC_National_Protection_Alliance_desc:0 "In order to overthrow the corrupt and unconstitutional government in Beijing, the National Protection movement must be revived once more. Bringing together the leaders of the South will give us the power to finally reunify China once and for all."
 
-GXC_Northern_Expedition:0 "Northern Expedition"
+GXC_Northern_Expedition:0 "북벌"
 GXC_Northern_Expedition_desc:0 "Invading the North is a very difficult feat, as demonstrated by the Kuomintang's attempt that led to their demise. It will require thorough planning, secured logistics and, of course, an army united in purpose. We will succeed where the KMT has failed and reunite the nation!"
 
-GXC_Negotiate_For_Reunification:0 "Negotiate for Reunification"
+GXC_Negotiate_For_Reunification:0 "통일을 위한 협상"
 GXC_Negotiate_For_Reunification_desc:0 "Chen Jiongming believes that the only way to truly unite China is through compromise and negotiation with the north, creating a lasting union instead of a hollow victory through force. While the Qing and their allies cannot be reasoned with, there is a chance that the republicans in Fengtian will see reason, or that Wu Peifu will renounce the Qing through his patriotism."
 
-GXC_A_New_China:0 "A New China"
+GXC_A_New_China:0 "신중국"
 GXC_A_New_China_desc:0 "With Beijing in our hands, we have finally secured our claim as the Central Government of China. Now, we can begin rebuilding a new Republic of China, one that will stand the test of time!"
 
-GXC_National_Protection_Alliance2:0 "National Protection Alliance"
+GXC_National_Protection_Alliance2:0 "호국동맹"
 GXC_National_Protection_Alliance2_desc:0 "In order to overthrow the corrupt and unconstitutional government in Beijing, the National Protection movement must be revived once more. Bringing together the leaders of the South will give us the power to finally reunify China once and for all."
 
-GXC_Northern_Expedition2:0 "Northern Expedition"
+GXC_Northern_Expedition2:0 "북벌"
 GXC_Northern_Expedition2_desc:0 "Invading the North is a very difficult feat, as demonstrated by the Kuomintang's attempt that led to their demise. It will require thorough planning, secured logistics and, of course, an army united in purpose. We will succeed where the KMT has failed and reunite the nation!"
 
-GXC_A_New_China2:0 "A New China"
+GXC_A_New_China2:0 "신중국"
 GXC_A_New_China2_desc:0 "With Beijing in our hands, we have finally secured our claim as the Central Government of China. Now, we can begin rebuilding a new Republic of China, one that will stand the test of time!"
 
-GXC_A_New_China3:0 "A New China"
+GXC_A_New_China3:0 "신중국"
 GXC_A_New_China3_desc:0 "With Beijing in our hands, we have finally secured our claim as the Central Government of China. Now, we can begin rebuilding a new Republic of China, one that will stand the test of time!"
 
 ###Chen Minshu & Li Zongren
 
-GXC_Li_Zongren:0 "New Guangxi Takeover"
-GXC_Li_Zongren_desc:0 "Li Zongren and his New Guangxi Clique have secured control over the two provinces. For the first time since 1925, the right-wing of the Kuomintang has a significant base of operations. The true National Revolution can now begin under the Generalissimo's leadership."
+GXC_Li_Zongren:0 "신 광시군벌이 통치하게 되다."
+GXC_Li_Zongren_desc:0 "리쭝런과 그가 이끄는 신 광시 군절은 우리의 두개의 성에 대한 통치권을 얻었다. 1925년에 처음으로, 국민당 우파는 운영하는데에 중요한것을 얻었다. 진정한 국민혁명은 총통각하의 영도아래 가능해질것이다."
 
-GXC_three-stage_revolution:0 "Three-Stage Revolution"
+GXC_three-stage_revolution:0 "세 단계 혁명"
 GXC_three-stage_revolution_desc:0 "Sun Yat-sen, our Party's founder, envisioned that the National Revolution would happen in three stages after the failure of the first Republic. We are still merely at the first stage, where the National Revolutionary Army must destroy the vestiges of Manchu tyranny and corruption. To this end, martial law must be enforced while the Party keeps tight control over institutions."
 
-GXC_reform_7th_army:0 "Reform the 7th Army"
+GXC_reform_7th_army:0 "7군단 개혁"
 GXC_reform_7th_army_desc:0 "The 7th Army was the pride of the NRA. Under Li and with its recruits from Guangxi, it was the most successful army during the failed Northern Expedition, a beacon of hope despite the overall failure of the campaign. The Army must be reformed, its legacy enshrined as it once again carries the torch of National Revolution."
 
-GXC_dang_guo:0 "Dang Guo"
+GXC_dang_guo:0 "당국"
 GXC_dang_guo_desc:0 "\"Yi Dang Zhi Guo\", meaning \"using the party to run the state\", was the cornerstone of the first two stages of Sun Yat-sen's National Revolution where the Nationalist Party would rule as a dictatorship until the Revolution comes to a successful conclusion."
 
 GXC_kmt_militarism:0 "Republican Militarism"
 GXC_kmt_militarism_desc:0 "The National Revolutionary Army is one of the pillars of the Republic. Militarist sentiments must be cultivated and encouraged in order to create citizens loyal to the Republic of China and the Kuomintang."
 
-GXC_minzu_focus:0 "Focus on Minzu"
+GXC_minzu_focus:0 "민주주의에 중점을 주다"
 GXC_minzu_focus_desc:0 "Minzu, or Nationalism, is one of Sun Yat-sen's Three Principles of the People. National unity is paramount to our success, and shall be the Principle that we will focus on until we have reunited China. The other two will have to wait until China is liberated from monarchists and warlords."
 
-GXC_Chen_Mingshu:0 "Chen Mingshu's People's Government"
+GXC_Chen_Mingshu:0 "천밍수의 인민정부"
 GXC_Chen_Mingshu_desc:0 "Chen Mingshu and his Productive People's Party, an offshoot of the Kuomintang, have secured control of Liangguang and proclaimed the People's Government. While it does not oppose the Kuomintang's government in Fujian, it remains Wang Jingwei's more authoritarian leadership of the Party, wishing to focus on developing democracy in China."
 
 GXC_People_Production_Party_Plan:0 "Productive People’s Party Plan"
 GXC_People_Production_Party_Plan_desc:0 "The Productive People's Party's agenda does not differ significantly from the Kuomintang's, nor does it oppose Sun Yat-sen's vision. Chen Mingshu merely believes that the Party should focus on developing democratic institutions in China alongside pushing harder on land reform to create a truly free nation."
 
-GXC_local_democracy:0 "Promote Local Democracy"
+GXC_local_democracy:0 "지방자치를 홍보하다."
 GXC_local_democracy_desc:0 "Ensuring that local democracy can flourish will ensure that, when the time comes, the people will have ample experience and understanding of democratic institutions once they are created on a national level. Only through experience and education can China become a democratic republic as Sun Yat-sen wanted."
 
-GXC_kmt_land_reform:0 "Nationalist Land Reform"
+GXC_kmt_land_reform:0 "국민당의 토지개혁"
 GXC_kmt_land_reform_desc:0 "While the previous governor of Guangdong made significant headways towards a proper land reform program, it was not enough. Until the peasants of China own the land instead of leasing it from corrupt landlords, they will never be free."
 
 GXC_route_army:0 "Form the Route Armies"
 GXC_route_army_desc:0 "Route Armies are, in terms of size, similar to a Western field army. Reorganizing the NRA in Liangguang is paramount to the region's defence of the National Revolution and the Route Armies will form the basis of our large units as we move increasingly towards modernization."
 
-GXC_minquan_focus:0 "Focus on Minquan"
+GXC_minquan_focus:0 "민권에 중점을 두다."
 GXC_minquan_focus_desc:0 "Minquan, or Democracy, is one of Sun Yat-sen's Three Principles of the People. Creating democratic institutions and preparing the Chinese people for them is the most important objective of the National Revolution and will, in the long-run, prove that the Party is the best choice for China."
 
 GXC_consolidate:0 "Consolidating KMT Presence"
 GXC_consolidate_desc:0 "The Kuomintang and the Productive People's Party has a relatively weak presense in Liangguang, formerly secured under Chen Jiongming's treacherous Federalists. With the help of the National Revolutionary Army and Party institutions, we will consolidate our presence before we can prepare for the continuation of Sun Yat-sen's National Revolution."
 
-GXC_tridemism:0 "Sanmin Doctrine"
+GXC_tridemism:0 "삼민주의"
 GXC_tridemism_desc:0 "The Three Principles of the People, or Sanmin Doctrine, is the basis of Sun Yat-sen's political philosophy and the Kuomintang. The Principles guide our government in its policies and decisions, and their importance must be understood by the people in the coming fight."
 
 GXC_renovate_whampoa:0 "Rebuild Whampoa"
 GXC_renovate_whampoa_desc:0 "The Kuomintang Military Academy was first founded by Sun Yat-sen in 1924 in Whampoa (Huangpu) near Guangzhou. Officers trained there created a cadre of politically-conscious officers that would lead the NRA in the Revolution. With the Academy back in our hands, it is time to reinstitute it and resume training capable officers for the renewed Revolution."
 
-GXC_join_KMT:0 "Join the KMT Government"
+GXC_join_KMT:0 "국민당 중앙정부에 들어가다."
 GXC_join_KMT_desc:0 "We found ourselves agreeable with the Kuomintang Central Committee in Fujian once more. With out differences settled and goals united, it is time we rejoined them for the good of the National Revolution."
 
 GXC_contest_wang:0 "Contest Leftist Rule"
 GXC_contest_wang_desc:0 "The Leftists in Fujian have diverged further and further from Sun Yat-sen's teachings, poisoning it with imperialist ideals, such as Syndicalism, incompatible with China. They must be destroyed and purged for the good of the Party and, more importantly, the Chinese people."
 
-GXC_claim_leadership:0 "Claim Nationalist Leadership"
+GXC_claim_leadership:0 "국민당의 주도권을 주장하다."
 GXC_claim_leadership_desc:0 "The Central Committee in Fujian has been destroyed. It is our duty to pick up the torch of National Revolution and ensure that it continues burning bright until China is free- or die trying."
 
 ###RKMT tree
 
-GXC_first_stage:0 "First Stage: Military Rule"
+GXC_first_stage:0 "첫번째 단계: 군정"
 GXC_first_stage_desc:0 "Now that the National Revolution can resume in full force, it is time to enter its first stage: Military Rule. The Party will maintain order through the National Revolutionary Army until the country is reunited."
 
-GXC_ally_gentry:0 "Alliance with the Landowners"
+GXC_ally_gentry:0 "지주와의 동맹"
 GXC_ally_gentry_desc:0 "The landowners have become weary as the Kuomintang has a history with land reform and expropriation. As their support is necessary for rural stability and supplying the NRA with manpower, we need to compromise with them and reassure them that they will not be expropriated and any changes in land policy will have their consent."
 
-GXC_threaten_merchants:0 "Threaten the Merchants"
+GXC_threaten_merchants:0 "지주들에게 요구하다."
 GXC_threaten_merchants_desc:0 "How many times will they have to learn this lesson?! We crushed them back in 1924, and we will crush them again! If they will not support the National Revolution, they are traitors, pure and simple, and their possessions will be turned to the Party."
 
-GXC_appease_merchants:0 "Appease the Merchants"
+GXC_appease_merchants:0 "지주들을 달래다."
 GXC_appease_merchants_desc:0 "The Merchant Corps Uprising of 1924 caused instability in one of our most important city and delayed the Northern Expedition and likely contributed to its failure. We could use their support for the Revolution; surely we can find a compromise for the sake of China."
 
 GXC_rent_control:0 "Land Rent Caps"
 GXC_rent_control_desc:0 "It is time to pay lip-service to our revolutionary ideals, the Party's leftists and find a compromise between landowners and peasants. Caps on land rent will ease the burden of the peasants without angering the gentry or shaking the social order."
 
-GXC_western_expedition:0 "Secure the Southwest"
+GXC_western_expedition:0 "남서부 보호"
 GXC_western_expedition_desc:0 "Before we go north, we must secure the south. A Western Expedition is to be launched to secure Yunnan and Sichuan, bringing over their resources and republican supporters to our cause."
 
-GXC_eastern_expedition:0 "To Nanjing!"
+GXC_eastern_expedition:0 "난징으로!"
 GXC_eastern_expedition_desc:0 "Nanjing is a city of great importance to the Kuomintang. As the \"southern capital\", it would help give legitimacy back to the Kuomintang beofre striking north."
 
-GXC_northern_expedition:0 "Second Northern Expedition"
+GXC_northern_expedition:0 "2차 국민혁명"
 GXC_northern_expedition_desc:0 "We have gained significant momentum since assuming leadership of the National Revolution. We cannot lose it; we must press on! To Beijing! The Three Principles of the People will prevail!"
 
-GXC_second_stage:0 "Second Stage: Political Tutelage"
+GXC_second_stage:0 "두번째 단계: 훈정"
 GXC_second_stage_desc:0 "With the country reunited, we enter the second stage: Political Tutelage. Martial law will be repealed in secured areas and power will move from the NRA to the Party and its civilian institutions. Of course, Li Zongren and the NRA will maintain significant influence on policy as the architects of our victory."
 
-GXC_revive_china:0 "Revive China Program"
+GXC_revive_china:0 "중국 재건 프로그램"
 GXC_revive_china_desc:0 "Without the Nationalist Party, there will be no new China. A vast program of extensive state planning and initiatives is necessary to bring China back up to the same level as the West."
 
 GXC_national_reconstruction_commission:0 "National Reconstruction Commission"
@@ -969,13 +969,13 @@ GXC_bopomofo_desc:0 "The current methods for romanizing Mandarin Chinese and eve
 GXC_second_industrialization:0 "Second Industrialization Phase"
 GXC_second_industrialization_desc:0 "The second planned phase of industrialization for each base region involves the development of factories reliant on fine tooling, such as consumer goods and military munitions."
 
-GXC_first_congress:0 "First Unified Congress of the KMT"
+GXC_first_congress:0 "제1차 국민당 통일대회"
 GXC_first_congress_desc:0 "The Kuomintang is no longer a revolutionary party, but the government's party. With this new reality, a new Party Congress will be held to hammer out the road towards the Revolution's third and final stage, elect new members, and reorganize the party."
 
 GXC_military_affairs_commission:0 "Empower the Military Affairs Commission"
 GXC_military_affairs_commission_desc:0 "Li Zongren heads the Military Affairs Commission, the Party's organization that controls, well, military affairs. It had significant de facto powers during the Northern Expedition and the Party Chairman whishes to consolidate its influence over the civilian government and his position as Generalissimo."
 
-GXC_appoint_premier:0 "Appoint a Premier"
+GXC_appoint_premier:0 "장관을 임명하다."
 GXC_appoint_premier_desc:0 "The Generalissimo cannot rule alone. As a military man, Li Zongren has limited legitimacy and appeal despite his massive popularity. Thus, he wants to appoint a Premier to lead the civilian government with the objective of promoting stability and his loyalty to Sun Yat-sen's ideals."
 
 GXC_national_mausoleum:0 "Build the National Mausoleum"
@@ -984,7 +984,7 @@ GXC_national_mausoleum_desc:0 "It is long past due to honour those who have fall
 GXC_organic_law:0 "Organic Law of the Republic"
 GXC_organic_law_desc:0 "While Political Tutelage continues and the final Constitution is drafted, the Organic Law of the National Government has been promulgated. This act reorganized the National Government into five branches, or Yuan, and reinforced the Kuomintang's exercise of sovereign power for the duration of Political Tutelage."
 
-GXC_new_life:0 "New Life Movement"
+GXC_new_life:0 "신 생활 운동"
 GXC_new_life_desc:0 "The New Life Movement is a government-led civic movement created to stem the tide of ideological and political opposition to the National Government. This movement is heavily influenced by Confucianism and traditionalism and hopes to help promote social and national stability."
 
 GXC_promulgate_constitution:0 "Promulgate the Constitution"
@@ -1013,19 +1013,19 @@ lng.2.d:0 "As [GXC.GetLeader] secures Liangguang, it has become apparent that he
 lng.2.a:0 "Accept"
 lng.2.b:0 "Refuse"
 
-lng.3.t:0 "Yunnan Accepts"
+lng.3.t:0 "윈난이 허락하다"
 lng.3.d:0 "Good news! [YUN.GetLeader] has accepted our proposal. We shouldn't expect any trouble from Yunnan in the near future."
 lng.3.a:0 "Excellent!"
 
-lng.4.t:0 "Yunnan Refuses"
+lng.4.t:0 "윈난이 거부하다"
 lng.4.d:0 "Bad news. [YUN.GetLeader] has refused our proposal of rapprochement. It is clear that he has ulterior motives and we should expect no help from them in the near future."
 lng.4.a:0 "Bastard!"
 
-lng.5.t:0 "Non-Aggression Pact with Hunan"
+lng.5.t:0 "후난과의 불가침조약"
 lng.5.d:0 "With the collapse of the League of Eight Provinces, the united provinces of Liangguang and the province of Hunan have naturally drifted together in the face of potential retribution from Nanjing. Chen Jiongming and Zhao Hengti are both federalists, believing in provincial and national constitutionalism and the importance of rule of law in these chaotic time. As such, the two have been cooperating since the dawn of the League in the first place, working together to secure the region's autonomy from Nanjing and, consequently, Beijing.\n\nThe two governors have thus agreed to stay neutral in the conflict in the former League and focus inward instead."
 lng.5.a:0 "Excellent."
 
-lng.6.t:0 "Non-Aggression Pact with Liangguang"
+lng.6.t:0 "양광과의 불가침조약"
 lng.6.d:0 "With the collapse of the League of Eight Provinces, the united provinces of Liangguang and the province of Hunan have naturally drifted together in the face of potential retribution from Nanjing. Chen Jiongming and Zhao Hengti are both federalists, believing in provincial and national constitutionalism and the importance of rule of law in these chaotic time. As such, the two have been cooperating since the dawn of the League in the first place, working together to secure the region's autonomy from Nanjing and, consequently, Beijing.\n\nThe two governors have thus agreed to stay neutral in the conflict in the former League and focus inward instead."
 lng.6.a:0 "Excellent"
 
@@ -1104,7 +1104,7 @@ lng.22.t:0 "Squadron Returns from Guangzhou"
 lng.22.d:0 "After engaging in a bit of \"gunboat diplomacy\" in Guangzhou, the squadron has returned safely after a successful mission. The Chinese will certainly not forget this one until the Nanking-Kommission can sort their mess in China."
 lng.22.a:0 "Mission Accomplished."
 
-lng.23.t:0 "The Liangguang KMT and the Central Committee"
+lng.23.t:0 "양광 국민당과 국민당 중앙위원화"
 lng.23.d:0 "The Kuomintang in Liangguang has been isolated since the end of the Northern Expedition. In order to survive, they have been working in the Provincial Government under the name of the Productive People's Party while the KMT rightists have been hiding in Yunnan. Now that they have secured Guangdong and Guangxi for the Party, they have made an official request to rejoin the ranks of the Central Committee."
 lng.23.a:0 "Of course, welcome them back."
 lng.23.b:0 "They can't be trusted."
@@ -1128,26 +1128,26 @@ lng.27.a:0 "Negotiate with the strikers."
 lng.27.b:0 "Send in the troops."
 lng.27.c:0 "Wait it out."
 
-lngcivilwar.1.t:0 "Lu Rongting Dies"
+lngcivilwar.1.t:0 "루룽팅이 죽다."
 lngcivilwar.1.d:0 "Military governor of Guangxi and head of its Clique since the Xinhai Revolution in 1911, Lu Rongting peacefully passed away at the age of 77, leaving his adopted sons Lu Yuguang and Ma Ji as civilian and military governors of the province. Governor Lu had been a living symbol of the Revolution, the Republican movement, and the Warlords Era in general. Despite his early rivalry with Chen Jiongming over the control of Guangdong, the two began cooperating closely after the Qing Restoration, ensuring that Republican and anti-Qing ideals would survive. While his rule was disputed by Li Zongren, in exile in Yunnan, Lu kept Guangxi relatively stable and maintained its regional identity.\n\nWith Ma Ji securing control over the Guangxi Clique, cooperation between the two cliques of Liangguang now appears tenuous as the ambitious new warlord plots to increase his power in southern China."
 lngcivilwar.1.a:0 "Worrying."
 
-lnggxwar.1.t:0 "Li Zongren Invades!"
+lnggxwar.1.t:0 "리쭝런이 쳐들어오다!"
 lnggxwar.1.d:0 "Baise, a city which controls the mountain pass connecting Guangxi with Yunnan and Vietnam, was attacked by Li Zongren, a right-wing general of the KMT, quickly overwhelming local defences. Our scouts report that the warlord has split his forces, part of it preparing to go down the Pearl River to attack Nanning, and another heading to Wuzhou to cut off Guangxi forces. Li, taking advantage of Lu Rongting's recent passing, clearly hopes to dislodge the current Guangxi Clique and take the province for himself once and for all in the name of the Kuomintang.\n\nMa Ji wants to attack Li in Baise before he has a chance to consolidate and move to Nanning, while Lu Yuguang wants to head north and keep Nanning from getting encircled. However, Lin Hu, one of our officers, suggests we instead fortify Nanning, claiming that our Guangdong ally won't allow Wuzhou to fall and that Li should be forced to dislodge them."
 lnggxwar.1.a:0 "Take the fight to Li!"
 lnggxwar.1.b:0 "Defend Wuzhou, we cannot be encircled!"
 lnggxwar.1.c:0 "Let them come to us!"
 
-lnggxwar.2.t:0 "Wuzhou falls; Ma struggles in Baise"
+lnggxwar.2.t:0 "우저우 함락; Ma struggles in Baise"
 lnggxwar.2.d:0 "As expected, Wuzhou fell to Li's troops as they followed the opium trail down the Pearl River. While Li was not expecting Ma's aggressive counter-attack, his army is well-trained and they are putting a stiff fight and Ma requested reinforcements. On the other hand, Lu is worried that the enemy force in Wuzhou is exposing his flank and cutting him off from Guangdong, putting the entire province in danger if Guangdong doesn't react soon."
 lnggxwar.2.a:0 "Ma Ji needs help; send reinforcements!"
 lnggxwar.2.b:0 "We must secure our flank in Wuzhou first."
 
-lnggxwar.3.t:0 "Li Zongren Defeated!"
+lnggxwar.3.t:0 "리쭝런이 패배하다!"
 lnggxwar.3.d:0 "After a long and bloody fight, Lu Yuguang's timely arrival forced the invading warlord to retreat. Both cliques have suffered heavy losses, but Ma Ji stands victorious, his position in Guangxi now secured from his external rival."
 lnggxwar.3.a:0 "Victory at a cost."
 
-lnggxwar.4.t:0 "Li Zongren Victorious"
+lnggxwar.4.t:0 "리쭝런이 승리하다."
 lnggxwar.4.d:0 "Without help, Ma Ji was defeated in Baise, suffereing heavy losses before being mercilessly pursued. Meanwhile, Lu Yuguang was unable to dislodge Li's forces in Wuzhou and was forced to retreat back to Nanning, only to be destroyed on the way. With the Old Guangxi Clique destroy, Li Zongren is now undisputedly Governor of Guangxi, giving the right-wing of the KMT a base of operation."
 lnggxwar.4.a:0 "A New Guangxi Clique."
 
@@ -1165,7 +1165,7 @@ lnggxwar.7.t:0 "Disintegration of the Guangxi Clique"
 lnggxwar.7.d:0 "In the attempt to go up the Hongshui River, a tributary of the Pearl River, and cut off the invaders by retaking Baise, Lu Yuguang's force have desintegrated as they were quickly cut-off and destroyed near the city of Laibin. The Old Guangxi Clique is no more and its remnants have joined up with the new clique, securing Guangxi for Li Zongren's right-wing faction of the KMT."
 lnggxwar.7.a:0 "Li Zongren is victorious."
 
-lnggxwar.8.t:0 "Wuzhou Falls; Li Zongren Approaches"
+lnggxwar.8.t:0 "우저우 함락; Li Zongren Approaches"
 lnggxwar.8.d:0 "News has reached Nanning that Wuzhou fell to a small task force under one of Li Zongren's subordinates, while Li himself is marching down towards Nanning. While Lu Yuguang and others are critical of our inaction and are nervous about being cut-off from Guangdong, Ma Ji believes that their opportunity to attack is long gone and they must further fortify the city. He also believes that Li has no choice but to attack as soon as possible or else risk intervention from Guangdong, while Lu counters that Guangdong will not act unless the road to Nanning is open."
 lnggxwar.8.a:0 "Send a small force to Wuzhou."
 lnggxwar.8.b:0 "Dig in."
@@ -1174,12 +1174,12 @@ lnggxwar.9.t:0 "Attack on Wuzhou Repulsed; Nanning Falls"
 lnggxwar.9.d:0 "Not only has the small force to retake Nanning failed against an entrenched enemy, Nanning has fallen to Li Zongren's relentless assault on the city. The new clique's victory was costly, however, with significant damage to the city. Despite a low number of defections to his forces, Li Zongren has secured Guangxi for the rightist KMT."
 lnggxwar.9.a:0 "A costly victory for the New Guangxi Clique"
 
-lnggxwar.10.t:0 "Battle of Nanning"
+lnggxwar.10.t:0 "난닝 전투"
 lnggxwar.10.d:0 "Ma Ji was proven right as Li Zongren's assault on the capital of Guangxi commenced almost as soon as he arrived. Facing the full force of the Guangxi Clique, he was unable to dislodge them from their fortified positions and suffered heavy losses. When it was clear to Li that the clique had not fallen for his diversion and that he faced a disadvantageous situation, he retreated, and Ma Ji now has the chance to destroy Li's threat once and for all. However, with a portion of Li's force heading to Wuzhou as well, more cautious officers advise that they could regroup and cause trouble as bandits later, suggesting that we ask help from Guangdong to mop up Li's forces in and around Wuzhou."
 lnggxwar.10.a:0 "Request help from Guangdong."
 lnggxwar.10.b:0 "Pursue Li on our own."
 
-lnggxwar.11.t:0 "Li Zongren Defeated"
+lnggxwar.11.t:0 "리쭝런이 패배하다."
 lnggxwar.11.d:0 "With Guangxi forces pursuing him, Li Zongren's retreat has become more and more disorganised and turned into a rout. The invader's own whereabouts are currently unknown, but what is certain is that he is no longer a threat to Guangxi and the clique's rule is once again secure."
 lnggxwar.11.a:0 "A decisive victory!"
 
@@ -1188,7 +1188,7 @@ lnggxwar.12.d:0 "Up until now, the Productive People's Party, led by Chen Mingsh
 lnggxwar.12.a:0 "Li is but an untrustworthy bandit."
 lnggxwar.12.b:0 "Start the operation."
 
-lnggxwar.13.t:0 "KMT Seizes Guangzhou"
+lnggxwar.13.t:0 "국민당이 광저우를 차지하다"
 lnggxwar.13.d:0 "Early in the morning, under the cover of the general mobilization against Guangxi, armed members of the KMT began seizing key buildings around the city, including the Guangdong University and the Provincial Assembly Building. Soon, Chen Mingshu announced the formation of the Guangdong People's Government, the deposition of Chen Jiongming, and a call for peace with Guangxi province.\n\nAs expected, Chen Jiongming announced that, while he refused to recognize the new government, he refused to allow the city to suffer unnecessary bloodshed and destruction. He and his close supporters left for Hong Kong later that day, leaving the city in the hands of the Nationalist Party."
 lnggxwar.13.a:0 "Bloodshed avoided."
 
@@ -1201,7 +1201,7 @@ lngcivilwar.3.d:0 "As part of Chinese funeral traditions, Lu Rongting's body is 
 lngcivilwar.3.a:0 "The entourage is gunned down."
 lngcivilwar.3.b:0 "The assailants fail and lay dead."
 
-lngcivilwar.4.t:0 "Assassination of Chen Jiongming"
+lngcivilwar.4.t:0 "천중밍의 암살"
 lngcivilwar.4.d:0 "Unable to react in time, Governor-General Chen Jiongming and his associates were gunned down by assassins under orders from Governor Ma Ji of Guangxi. News reached Guangdong quickly as Guangxi rapidly mobilised against them, but a question remains in the minds of the eastern province's leadership: Who will succeed Chen Jiongming as governor of Guangdong?\n\nChen Mingshu is an estranged member of the Chinese Nationalist Party, or Kuomintang. While not opposed to the KMT in Fujian, he resents Wang Jingwei's authoritarian leadership of the party, being a more genuine believer in democracy than a number of party members.\n\nChen Lianbo is head of the Merchant Corps, the militia of the Chinese merchant class of Guangzhou. He has been an early opponent to the late Chen Jiongming's more socialistic and populist policies and wishes to protect the merchants' interests in the region first and foremost."
 lngcivilwar.4.a:0 "Chen Mingshu"
 lngcivilwar.4.b:0 "Chen Lianbo"
@@ -1210,7 +1210,7 @@ lngcivilwar.5.t:0 "Failed Attempt on Governor Chen"
 lngcivilwar.5.d:0 "Reacting in time to their assailants, Chen Jiongming and his associates managed to escape unscathed. It was quickly realised that they were under Guangxi Governor Ma Ji and they quickly made their way out of Nanning. By the time they reached Guangdong, the Guangxi clique had already mobilised their armies, ready to take leadership of Liangguang by force. Upon his return, Governor-General Chen made an impromptu speech to the Guangdong Provincial Assembly, rallying them against the tyranical warlord of Guangxi and to defend their hard-earned liberties."
 lngcivilwar.5.a:0 "The Dyarchy falls."
 
-lngcivilwar.6.t:0 "The Second Guangdong-Guangxi War"
+lngcivilwar.6.t:0 "2차 광둥-광시전쟁"
 lngcivilwar.6.d:0 "The Dyarchy has fallen as the two provinces have been unable to settle their differences diplomatically. The new warlord of Guangxi is unwilling to recognise Guangdong's supremacy over Liangguang and his ambitions cannot coexist with the ideals of his eastern counterpart. Both cliques have now taken up arms; Liangguang's future will thus be settled on the battlefield."
 lngcivilwar.6.a:0 "[GXC.GetLeader] will prevail!"
 lngcivilwar.6.b:0 "Guangxi will take over!"
@@ -1264,12 +1264,12 @@ lngcivilwar.18.d:0 "Ma Ji and Lu Yuguang, leaders of the clique that formerly ru
 lngcivilwar.18.a:0 "Of course, these old friends are welcome."
 lngcivilwar.18.b:0 "They will have to find a new home elsewhere."
 
-lngcivilwar.19.t:0 "Fate of Guangdong"
+lngcivilwar.19.t:0 "광둥의 처우"
 lngcivilwar.19.d:0 "Now that Guangdong is under our control, we must choose who will replace the previous provincial government. The top brass of the Clique is arguing for total exploitation of the developed province in order to fuel Guangxi's own development and, more important, fund an increasingly large and modern army. Of course, this is arguably rather short-sighted, and more politically-knowledgeable members of the Clique argue that we should hand over the provincial governments to the local elites so that the province isn't sucked dry."
 lngcivilwar.19.a:0 "Exploit them!"
 lngcivilwar.19.b:0 "We must be careful- let the locals handle it."
 
-lngcivilwar.20.t:0 "Li Zongren Secures Liangguang"
+lngcivilwar.20.t:0 "리쭝런이 양광을 차지하다."
 lngcivilwar.20.d:0 "Li Zongren, an estranged member of the Chinese Nationalist Party, managed to take over Liangguang by force. Unlike the KMT in Fujian, Li is a member of the party's right-wing, which was thought to have been purged by the left-wing along with Hu Hanmin's execution in 1925. The left-wing of the Kuomintang, until now uncontested leaders of the Nationalists, now have a very real threat to the Party's leadership."
 lngcivilwar.20.a:0 "The real KMT has returned."
 
@@ -1282,7 +1282,7 @@ lngcivilwar.22.t:0 "Bai Chongxi Departs for Guangxi"
 lngcivilwar.22.d:0 "Bai Chongxi left Yunnan earlier today with his men to join with his brother-in-arms, Li Zongren, in Guangxi. The latter recently became leader of the province after a power struggle with the previous clique in charge and is now in charge of the Kuomintang's right-wing in Nanning. Bai Chongxi has always been loyal to him first and foremost, and his departure was expected and unchallenged."
 lngcivilwar.22.a:0 "Best of luck, I suppose."
 
-lngcivilwar.24.t:0 "New Guangxi Clique Returns"
+lngcivilwar.24.t:0 "신 광시 군벌이 쳐들어오다."
 lngcivilwar.24.d:0 "Li Zongren's Clique was defeated in Guangxi and was forced into hiding. With Yunnan safely in the hands of the Kuomintang, they have returned, hoping to continue the fight with us and pledge their support and abilities to the National Revolutionary Army."
 lngcivilwar.24.a:0 "Their revolution continues here."
 
@@ -1382,9 +1382,9 @@ lngkmt.3.t:0 "[FROM.GetName] Submits!"
 lngkmt.3.d:0 "[FROM.GetName] submitted to our pressure. His armies will be integrated into the NRA and [FROM.GetNameDef] will be under the supervision of the Central Committee."
 lngkmt.3.a:0 "Unexpected, but welcome."
 
-lngkmt.4.t:0 "Li Zongren Proclaims a New Republic"
+lngkmt.4.t:0 "리쭝런이 새로운 공화국을 건설하다"
 lngkmt.4.d:0 "With the Leftists on the run and Li Zongren having taken control of the Kuomintang Central Committee, the expected proclamation arrived today: A new Republic of China is founded, with the National Revolutionary Army once more taking leadership of Sun Yat-sen's legacy and National Revolution. It will be an uphill battle, but it is the last hope for the Nationalists to claim victory from the jaws of defeat and free China."
-lngkmt.4.a:0 "Long Live China!"
+lngkmt.4.a:0 "중화민국 만세!"
 
 lngkmt.5.t:0 "Guangdong Elites Protest"
 lngkmt.5.d:0 "Immediately after the proclamation came dissenting voices. The local elites of Liangguang, mainly the Gentry of the countryside and the Merchants of Guangzhou, have voiced their misgivings in a new Northern Expedition. The first one was an abject failure, with Chiang Kai-shek failing to fulfill Sun Yat-sen's dreams and the Kuomintang sapping the South of all its wealth and prosperity. The failure is quite vivid in the people's memory; the Gentry is weary of the Kuomintang's history of expropriation of demands for land reform while the Merchants keenly remember their violent purging in the Merchants' Corps Incident in 1924. The commander-in-chief is confident that the Gentry can be reassured in a timely manner, but the Merchants are far more hostile and demanding; dealing with them will likely require some sacrifices."
