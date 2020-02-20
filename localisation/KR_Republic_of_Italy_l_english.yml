@@ -230,6 +230,9 @@ ITA_claim_malta:0 "몰타에 대한 실지회복운동"
 ITA_claim_malta_desc:0 "몰타 섬은 이탈리아의 필수적인 부분이며, 이 지역에 대한 보다 영구적인 권리를 확립하여 우리의 이익을 지켜야 합니다."
 ITA_claim_corsica:0 "코르시카에 대한 실지회복운동"
 ITA_claim_corsica_desc:0 "한때 제노바 영토의 일부였던 코르시카는 이탈리아 영토이며, 이 지역에 대한 보다 영구적인 권리를 확립하여 우리의 이익을 지켜야 합니다."
+ITA_occupation_decisions:0 "Italian Occupation"
+ITA_erode_italian_legitimacy:0 "Erode [From.GetAdjective] Legitimacy"
+ITA_erode_italian_legitimacy_desc:0 "The [From.GetAdjective] government has been defeated and is now hiding in exile. Considering their claim to legitimacy is far from absolute, we should be able to wear down the [From.Adjective] resistance, given enough time."
 
 ### Republic Path ###
 ITA_social_liberal_victory:0 "공화국은 살아남았다"
@@ -1031,6 +1034,10 @@ ita.183.t:0 "[From.GetNameDefCap]의 평화제안"
 ita.183.d:0 "[From.GetAdjective] 정부는 리비아에 대한 욕심의 대가가 너무 큰 것 같다고 판단한 것 같습니다. 그들은 트리폴리타니아에 대한 그들의 주장을 완전히 포기하고, 전쟁을 멈춘다면, 우리나 동맹국들이 주장하는 어떤 땅이라도 넘겨주겠다고 제안했습니다."
 ita.183.a:0 "그래, 이제 그만하자."
 ita.183.b:0 "그들이 시작했다. 우리는 끝장을 볼 것이다!"
+
+ita.184.t:0 "[Root.GetAdjective] Resistance Collapses"
+ita.184.d:0 "Since the [Root.GetAdjective] government went into exile, it has been difficult to maintain resistance in the face of our fellow Italians. They have worked hard to erode our legitimacy, and now it seems all our efforts have come to naught. They have proven themselves victorious."
+ita.184.a:0 "Porca miseria!"
 
 #Cosmetic Tags
 ITA_kingdom_national_populist:0 "이탈리아 왕국"
