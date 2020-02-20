@@ -637,18 +637,18 @@ argfor.100.d:0 "우리 대륙의 사회주의자들의 증가하는 힘은 아�
 argfor.100.a:0 "조약에 서명하다"
 argfor.100.b:0 "제안을 거절하다"
 
-argfor.200.t:0 "Treaty of Lima"
-argfor.200.d:0 "The Peruvian government has announced their support for our proposal and has ratified the Treaty of Lima. Any socialist invasions will immediately be halted by our combined might."
-argfor.200.a:0 "Very well."
+argfor.200.t:0 "리마 조약"
+argfor.200.d:0 "페루 정부는 우리의 제안에 대한 지지를 선언하고 리마 조약을 비준했습니다. 어떤 사회주의자의 침략도 우리의 연합에 의해 즉각 중단될 것입니다."
+argfor.200.a:0 "아주 좋아."
 
-argfor.300.t:0 "Peru refuses to help"
-argfor.300.d:0 "The Peruvian government has announced that they will not protect us against the Chilean threat and has refused to further discuss the matter."
-argfor.300.a:0 "We'll do it without them then!"
+argfor.300.t:0 "페루는 돕기를 거부했다."
+argfor.300.d:0 "페루 정부는 칠레의 위협으로부터 우리를 보호하지 않을 것이라고 발표했고 이 문제에 대한 더 이상의 논의를 거부했습니다."
+argfor.300.a:0 "그럼 너희들 빼고 할거야!"
 
-argfor.1.t:0 "Buenos Aires-Lima Pact"
-argfor.1.d:0 "As the Brazilian behemoth keeps building up and gearing itself for war, the small nations of South America should bond together and prevent being picked off one by one. Therefore Argentina has proposed an alliance between our two nations to stand together should war arrive."
-argfor.1.a:0 "Sign the Pact."
-argfor.1.b:0 "Refuse the offer."
+argfor.1.t:0 "부에노스아이레스-리마 조약"
+argfor.1.d:0 "베헤모스와 같은 브라질 놈들이 계속해서 전쟁을 대비하고 있기 때문에, 남아메리카의 작은 나라들은 서로 결속하여 하나씩 먹히는 것을 막아야 합니다. 따라서 아르헨티나는 전쟁이 발발할 경우 양국간의 동맹관계를 함께 하자고 제안했습니다."
+argfor.1.a:0 "조약에 서명하자고."
+argfor.1.b:0 "제안을 거절한다."
 
 argfor.2.t:0 "Offer Accepted"
 argfor.2.d:0 "The Peruvian government has announced their support for our proposal and has ratified the accords. We hope our alliance may prosper on the continent."
