@@ -1057,6 +1057,9 @@ FIN_favour_workers_tooltip:0 "§Y우리는 노동자들 편에 서기로 결정�
 FIN_favour_farmers_tooltip:0 "§Y우리는 농부들 편에 서기로 결정했습니다§!."
 FIN_tt_finish_democratic_tree:0 "§R'안정된 핀란드' 혹은 '온건한 핀란드' 중점을 완료하여 외교 정책을 해금할 수 있습니다§!."
 air_ace_generation_chance_factor_research:0 "에이스 등장 확률"
+FIN_gercl_tt:0 "Two cruisers will be created in Helsinki."
+FIN_civships_tt:0 "Three civil war era ships will be created in Helsinki."
+FIN_oldswe_tt:0 "Fifty outdated fighter planes will be received."
 
 ### Opinion Modifiers ###
 FIN_curtailed_swedish_rights:0 "스웨덴계 권리 축소"

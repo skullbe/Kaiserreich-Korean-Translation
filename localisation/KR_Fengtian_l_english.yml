@@ -187,6 +187,23 @@ FNG_Militarize_the_Minsheng_Truck_desc:0 "1930년대 초 장쉐량은 미국인 
 FNG_Fortress_Manchuria:0 "만주 요새 건설"
 FNG_Fortress_Manchuria_desc:0 "남쪽에는 옌산 산맥이, 서쪽에는 샤오싱안링 산맥이, 그리고 동쪽으론 보하이만이 만주 평야를 천혜의 요새로 만들어주는데, 출입구는 산해관 하나 뿐입니다. 자연적으로 이미 완전체인 이 지역에 우리가 할 일은 간단합니다."
 
+FNG_Rebuild_the_Second_Army:0 "Rebuild the Second Army"
+FNG_Rebuild_the_Second_Army_desc:0 "The Fengtian Second Army, often called the 'Zhili Army' due to its recruiting grounds in Zhili Province, was one of Zhang Zuolin's premier fighting forces during the Zhifeng Wars. The unit suffered a loss of leadership following the defection of Guo Songling in 1925, and in 1928 its beleagured soldiers found themselves stranded in Shandong. The subsequent peace saw this prestigious unit gradually disintegrate, as veterans enlisted with Zhang Zongchang, left for Manchuria, or returned to their families in Zhili. With North China again in our grasp, the time has come to raise the Second Army's old banner and return its name to glory!"
+
+FNG_Raise_Independent_Brigades_in_Cangzhou:0 "Raise Independent Brigades in Cangzhou"
+FNG_Raise_Independent_Brigades_in_Cangzhou_desc:0 "The collapse of [QIE.GetNameDef] has left broad swathes of the North China Plain open to marauding by bandits, both those native to the region and former [QIE.GetName] troops turned criminal. With our lax policies on looting, it shouldn't be hard to rally these men and reorganize them into 'independent brigades'."
+
+FNG_Raise_Independent_Brigades_in_Kaifeng:0 "Raise Independent Brigades in Kaifeng"
+FNG_Raise_Independent_Brigades_in_Kaifeng_desc:0 "The collapse of [QIE.GetNameDef] has left broad swathes of the North China Plain open to marauding by bandits, both those native to the region and former [QIE.GetName] troops turned criminal. With our lax policies on looting, it shouldn't be hard to rally these men and reorganize them into 'independent brigades'."
+
+FNG_Raise_Independent_Brigades_in_Ruyang:0 "Raise Independent Brigades in Ruyang"
+FNG_Raise_Independent_Brigades_in_Ruyang_desc:0 "The collapse of [QIE.GetNameDef] has left broad swathes of the North China Plain open to marauding by bandits, both those native to the region and former [QIE.GetName] troops turned criminal. With our lax policies on looting, it shouldn't be hard to rally these men and reorganize them into 'independent brigades'."
+
+FNG_Raise_Independent_Brigades_in_Guanzhong:0 "Raise Independent Brigades in Guanzhong"
+FNG_Raise_Independent_Brigades_in_Guangzhong_desc:0 "The collapse of [QIE.GetNameDef] has left broad swathes of the North China Plain open to marauding by bandits, both those native to the region and former [QIE.GetName] troops turned criminal. With our lax policies on looting, it shouldn't be hard to rally these men and reorganize them into 'independent brigades'."
+
+FNG_Raise_the_Baoding_Cadet_Corps:0 "Raise the Baoding Cadet Corps"
+FNG_Raise_the_Baoding_Cadet_Corps_desc:0 "The young Baoding Cadets were among the most vocal supporters of the Manchu monarchy in Beijing, and our victory in north china left all but a few imprisoned or sent home. Now the time has come for these men to fight on the right side of history. While some may question arming former enemies, their patriotism is unquestionable and in such dire times the country must come first."
 
 FNG_Centralise_the_Banks:0 "은행 중앙화"
 FNG_Centralise_the_Banks_desc:0 "봉천은 현재 4개의 지폐 발권 은행이 있는데 동부3성 은행, 지린 은행, 헤이룽장 은행과 프론티어 은행으로 이들은 모두 과거 은행 중앙화의 노력에 대한 결과물들입니다. 이제 계획을 완료하고 이 은행들을 모두 한개의 중앙은행으로 통합해야합니다."

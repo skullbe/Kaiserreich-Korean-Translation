@@ -200,7 +200,7 @@ fln.15.a:0 "Invest in Frans-Vlaanderen."
 fln.15.b:0 "A complete misuse of resources."
 
 fln.16.t:0 "Frans-Vlaanderen Restored to Flemish Rule!"
-fln.16.d:0 "We have successfully driven off the French and retaken control of the region. A large renaming programme is already underway with cities like Lille changed to Rijsel and Dunkerke to Duinkerke. Putting aside extra government funds for refugee care and the restoration of the area could help us gain sympathy at little cost, and it would assist greatly in the integration process."
+fln.16.d:0 "We have successfully driven off the French and retaken control of the region. A large renaming programme is already under way with cities like Lille changed to Rijsel and Dunkerke to Duinkerke. Putting aside extra government funds for refugee care and the restoration of the area could help us gain sympathy at little cost, and it would assist greatly in the integration process."
 fln.16.a:0 "Allocate funds for refugee camps and repairs."
 
 fln.17.t:0 "Francophone Protests"
@@ -288,7 +288,7 @@ flnrev.64.a:0 "Van Severen and the VNV unite against the Regency."
 flnrev.64.b:0 "The Regency continues."
 
 flnrev.641.t:0 "Frontbeweging Reforms into the Frontpartij"
-flnrev.641.d:0 "With the Flemish Council firmly in power and reinforced by the Vlaamse Wacht, the Frontbeweging has agreed to lay down its arms. Prominent members of the movement have been awarded seats in the Council and have created their own party: the Frontpartij. They are strong supporters of the independent Flemish nation and have petioned for a rewards program for succesful Resistance members."
+flnrev.641.d:0 "With the Flemish Council firmly in power and reinforced by the Vlaamse Wacht, the Frontbeweging has agreed to lay down its arms. Prominent members of the movement have been awarded seats in the Council and have created their own party: the Frontpartij. They are strong supporters of the independent Flemish nation and have petioned for a rewards program for successful Resistance members."
 flnrev.641.a:0 "A first step towards a peaceful democracy."
 
 flnrev.81.t:0 "The VNV and Van Severen Unite"
@@ -305,7 +305,7 @@ flnrev.83.a:0 "Van Severen and the VNV rule supreme."
 
 flnrev.84.t:0 "The Brussels question"
 flnrev.84.d:0 "Nearly all of Flanders solely speaks Flemish but in the former capital of Belgium, a large French minority remains with their own education system and facilities. While their impact so far has been fairly limited and their size is diminishing due to German and now Flemish policies, the VNV has urged the Council to take a more forceful approach. They have demanded the complete abolition of French education and the unification of the VUB and ULB. All streets refering to French speaking Brusselois are to be changed and a strict uniform Flemish language enforced on the population."
-flnrev.84.a:0 "Retain the slow approach"
+flnrev.84.a:0 "Retain the slow approach."
 flnrev.84.b:0 "Follow the VNV plan."
 
 flnrev.65.t:0 "The Aristocracy Increases Its Power"
@@ -364,7 +364,7 @@ flnrev.72.a:0 "Support the Groot-Nederlandisten."
 flnrev.72.b:0 "Withdraw all connections to the movement."
 
 flnrev.73.t:0 "The Dutch Refuse Support"
-flnrev.73.d:0 "Our request for aid has been denied by the Dutch and they have severed all connections with the resistance group. With no chance of success on their own, the movement will now inevitably have to pick a side in the conflict between the Secret Legion and the Frontbeweging in order to survive. While siding with the Secret Legion may guarantee a shot at winning the coming elections and free promotion of the movement, siding with the Frontbeweging has its own benefits. Van Severen has already shown strong tendencies towards a pro-Dutch unification stance and siding with him may fulfill our goals."
+flnrev.73.d:0 "Our request for aid has been denied by the Dutch and they have severed all connections with the resistance group. With no chance of success on their own, the movement will now inevitably have to pick a side in the conflict between the Secret Legion and the Frontbeweging in order to survive. While siding with the Secret Legion may guarantee a shot at winning the coming elections and free promotion of the movement, siding with the Frontbeweging has its own benefits. Van Severen has already shown strong tendencies towards a pro-Dutch unification stance and siding with him may fulfil our goals."
 flnrev.73.a:0 "Unite with the Secret Legion."
 flnrev.73.b:0 "The Frontbeweging have our support."
 
@@ -382,7 +382,7 @@ FLN_Kickstart_Flemish_Army:0 "플랜더스 육군 창설"
 FLN_Kickstart_Flemish_Army_desc:0 "A ragtag resistance no more, the Flemish Liberation Army must be fully integrated into the aparatus of state."
 
 FLN_establish_the_air_force:0 "공군 창설"
-FLN_establish_the_air_force_desc:0 "Most of Flanders-Wallonia's airforce was based in Wallonia throughout due to the more strategically important location of the region's main airfields. Thus, we must do now what we Flems have always done: adapt. With focus and increased funding, surely the effectiveness of our fledgling airforce will be the envy of the world."
+FLN_establish_the_air_force_desc:0 "Most of Flanders-Wallonia's air force was based in Wallonia throughout due to the more strategically important location of the region's main airfields. Thus, we must do now what we Flems have always done: adapt. With focus and increased funding, surely the effectiveness of our fledgling air force will be the envy of the world."
 FLN_heavy_fighter_effort:0 "중전투기에 집중"
 FLN_heavy_fighter_effort_desc:0 "Fighter aircraft must be versatile first and foremost and possess a range adequete to conduct operations in far flung theatres if need be. We should thus focus on the development of heavy fighters."
 FLN_light_fighter_effort:0 "경전투기에 집중"
