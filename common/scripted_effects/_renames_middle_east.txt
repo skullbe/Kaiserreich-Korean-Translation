@@ -178,6 +178,10 @@ do_georgian_renames_in_middle_east = {
 			id = 3653
 			name = endo_vp_3653
 		}
+		set_province_name = {
+			id = 3658
+			name = endo_vp_3658
+		}
 	}
 	else_if = {
 		limit = {
@@ -208,11 +212,15 @@ do_armenian_renames_in_middle_east = {
 	}
 	else_if = {
 		limit = {
-			state = 997
+			state = 998
 			has_state_flag = renamed_state_russian
 		}
-		set_state_name = endo_state_997
+		set_state_name = endo_state_998
 		clr_state_flag = renamed_state_russian
+		set_province_name = {
+			id = 4660
+			name = endo_vp_4660
+		}
 		set_province_name = {
 			id = 6997
 			name = endo_vp_6997
@@ -226,20 +234,8 @@ do_armenian_renames_in_middle_east = {
 		set_state_name = endo_state_998
 		clr_state_flag = renamed_state_russian
 		set_province_name = {
-			id = 6642
-			name = endo_vp_6642
-		}
-	}
-	else_if = {
-		limit = {
-			state = 998
-			has_state_flag = renamed_state_russian
-		}
-		set_state_name = endo_state_998
-		clr_state_flag = renamed_state_russian
-		set_province_name = {
-			id = 6642
-			name = endo_vp_6642
+			id = 4660
+			name = endo_vp_4660
 		}
 	}
 	else_if = {

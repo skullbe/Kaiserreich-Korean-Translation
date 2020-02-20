@@ -255,15 +255,15 @@ do_german_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_romanian
-		set_state_name = "노르트지벤뷔르겐"
+		set_state_name = "Nord-Siebenbürgen"
 		set_state_flag = renamed_state_german
 		set_province_name = {
 			id = 6711
-			name = "클라우젠부르크"
+			name = "Klausenburg"
 		}
 		set_province_name = {
 			id = 3696
-			name = "그로스바다인"
+			name = "Großwardein"
 		}
 	}
 	else_if = {
@@ -276,11 +276,11 @@ do_german_renames_in_europe = {
 		clr_state_flag = renamed_state_russian
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_ukrainian
-		set_state_name = "체르노비츠"
+		set_state_name = "Czernowitz"
 		set_state_flag = renamed_state_german
 		set_province_name = {
 			id = 9548
-			name = "체르노비츠"
+			name = "Czernowitz"
 		}
 	}
 	else_if = {
@@ -290,13 +290,13 @@ do_german_renames_in_europe = {
 				has_state_flag = renamed_state_german
 			}
 		}
-		set_state_name = "바나트"
+		set_state_name = "Banat"
 		set_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_romanian
 		clr_state_flag = renamed_state_serbian
 		set_province_name = {
 			id = 9606
-			name = "테메스바"
+			name = "Temeswar"
 		}
 	}
 	else_if = {
@@ -306,7 +306,7 @@ do_german_renames_in_europe = {
 				has_state_flag = renamed_state_german
 			}
 		}
-		set_state_name = "크라이슈게비에트"
+		set_state_name = "Kreischgebiet"
 		set_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_romanian
 	}
@@ -317,28 +317,16 @@ do_german_renames_in_europe = {
 				has_state_flag = renamed_state_german
 			}
 		}
-		set_state_name = "지벤뷔르겐"
+		set_state_name = "Siebenbürgen"
 		set_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_romanian
 		set_province_name = {
 			id = 690
-			name = "크론슈타트"
+			name = "Kronstadt"
 		}
 		set_province_name = {
 			id = 6679
-			name = "헤르만슈타트"
-		}
-	}
-	else_if = {
-		limit = {
-			state = 85
-			has_state_flag = renamed_state_polish
-		}
-		set_state_name = endo_state_85
-		clr_state_flag = renamed_state_polish
-		set_province_name = {
-			id = 362
-			name = endo_vp_362
+			name = "Hermannstadt"
 		}
 	}
 	else_if = {
@@ -362,15 +350,15 @@ do_german_renames_in_europe = {
 				has_state_flag = renamed_state_german
 			}
 		}
-		set_state_name = "칼리슈"
+		set_state_name = "Kalisch"
 		set_state_flag = renamed_state_german
 		set_province_name = {
 			id = 9508
-			name = "로트슈"
+			name = "Lodsch"
 		}
 		set_province_name = {
 			id = 9546
-			name = "칼리슈"
+			name = "Kalisch"
 		}
 	}
 	else_if = {
@@ -402,11 +390,11 @@ do_german_renames_in_europe = {
 			}
 		}
 		clr_state_flag = renamed_state_russian
-		set_state_name = "플로츠크"
+		set_state_name = "Plotzk"
 		set_state_flag = renamed_state_german
 		set_province_name = {
 			id = 3230
-			name = "플로츠크"
+			name = "Plotzk"
 		}
 	}
 	else_if = {
@@ -416,11 +404,11 @@ do_german_renames_in_europe = {
 				has_state_flag = renamed_state_german
 			}
 		}
-		set_state_name = "유틀란트"
+		set_state_name = "Jütland"
 		set_state_flag = renamed_state_german
 		set_province_name = {
 			id = 6364
-			name = "아렌후젠"
+			name = "Arenhusen"
 		}
 	}
 	else_if = {
@@ -452,7 +440,7 @@ do_german_renames_in_europe = {
 		set_state_flag = renamed_state_german
 		set_province_name = {
 			id = 11564
-			name = "피우메"
+			name = "Fiume"
 		}
 	}
 	else_if = {
@@ -473,16 +461,16 @@ do_german_renames_in_europe = {
 				has_state_flag = renamed_state_german
 			}
 		}
-		set_state_name = "운가리슈티페베네"
+		set_state_name = "Ungarische Tiefebene"
 		set_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_romanian
 		set_province_name = {
 			id = 6700
-			name = "세제딘"
+			name = "Segedin"
 		}
 		set_province_name = {
 			id = 11659
-			name = "데브레친"
+			name = "Debrezin"
 		}
 	}
 	else_if = {
@@ -492,19 +480,19 @@ do_german_renames_in_europe = {
 				has_state_flag = renamed_state_german
 			}
 		}
-		set_state_name = "트란스도나우비안"
+		set_state_name = "Transdanubien"
 		set_state_flag = renamed_state_german
 		set_province_name = {
 			id = 6703
-			name = "슈툴베이젠부르크"
+			name = "Stuhlweißenburg"
 		}
 		set_province_name = {
 			id = 6720
-			name = "라브"
+			name = "Raab"
 		}
 		set_province_name = {
 			id = 11610
-			name = "퓐커르첸"
+			name = "Fünfkirchen"
 		}
 	}
 	else_if = {
@@ -532,7 +520,7 @@ do_german_renames_in_europe = {
 		}
 		clr_state_flag = renamed_state_polish
 		clr_state_flag = renamed_state_russian
-		set_state_name = "자모지티엔"
+		set_state_name = "Samogitien"
 		set_state_flag = renamed_state_german
 		set_province_name = {
 			id = 6314
@@ -701,6 +689,10 @@ do_german_renames_in_europe = {
 		set_province_name = {
 			id = 3295
 			name = endo_vp_3295
+		}
+		set_province_name = {
+			id = 362
+			name = endo_vp_362
 		}
 	}
 	else_if = {
@@ -1101,14 +1093,6 @@ do_german_renames_in_asia = {
 	}
 	else_if = {
 		limit = {
-			state = 738
-			has_state_flag = renamed_state_indonesian
-		}
-		set_state_name = endo_state_738
-		clr_state_flag = renamed_state_indonesian
-	}
-	else_if = {
-		limit = {
 			state = 749
 			NOT = {
 				has_state_flag = renamed_state_english
@@ -1130,7 +1114,7 @@ do_german_renames_in_asia = {
 				has_state_flag = renamed_state_german
 			}
 		}
-		set_state_name = endo_state_751_german
+		set_state_name = STATE_751
 		clr_state_flag = renamed_state_thai
 		set_state_flag = renamed_state_german
 		clr_state_flag = renamed_state_chinese
@@ -1218,6 +1202,21 @@ do_german_renames_in_asia = {
 			id = 12133
 			name = endo_vp_12133
 		}
+	}
+	else_if = {
+		limit = {
+			state = 999
+			NOT = {
+				has_state_flag = renamed_state_german
+			}
+		}
+		set_state_name = STATE_999
+		clr_state_flag = renamed_state_thai
+		set_state_flag = renamed_state_german
+		clr_state_flag = renamed_state_chinese
+		clr_state_flag = renamed_state_japanese
+		clr_state_flag = renamed_state_indonesian
+		clr_state_flag = renamed_state_english
 	}
 	else_if = {
 		limit = {

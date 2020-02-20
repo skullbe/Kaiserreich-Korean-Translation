@@ -160,14 +160,6 @@ do_dutch_renames_in_asia = {
 	}
 	else_if = {
 		limit = {
-			state = 738
-			has_state_flag = renamed_state_indonesian
-		}
-		set_state_name = endo_state_738
-		clr_state_flag = renamed_state_indonesian
-	}
-	else_if = {
-		limit = {
 			state = 828
 			OR = {
 				has_state_flag = renamed_state_indonesian

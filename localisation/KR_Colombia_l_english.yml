@@ -1,7 +1,10 @@
 ﻿l_english:
 
+colombia_focus:0 "콜롬비아 중점계통도"
+
 ### Decisions ###
 colombia_research_name:0 "안데스 연구 조약"
+colombia_research_desc:0 ""
 
 COL_war_decisions:0 "우리의 유산을 되찾자"
 COL_war_decisions_desc:0 "콜롬비아는 정당한 영토를 가지지 못하고 있습니다. 에콰도르와 베네수엘라의 혼란은 그란콜롬비아의 평화와 번영을 위해서 우리의 지배가 필요하다는 사실을 증명합니다."
@@ -58,7 +61,9 @@ COL_invite_venezuela_desc:0 "베네수엘라를 안데스 조약기구에 초대
 COL_rescue_panama:0 "파나마를 구출해내자"
 COL_rescue_panama_desc:0 "파나마는 생디칼리슴의 수렁에 빠져드는 중입니다. 우리는 재빨리 행동하고 그들이 조국의 품에 돌아오도록 해야만 합니다!"
 COL_Reaffirm_Economic_Ties:0 "경제적 유대 재확인"
+COL_Reaffirm_Economic_Ties_desc:0 "The nations which once made up 그란 콜롬비아 have been closely economically intertwined since before even Cristobal Colon arrived. To truly capitalize on this reality, let us mutually reduce most, and eventually all, barriers to trade."
 COL_Research_Cooperation:0 "안데스 연구 협력체"
+COL_Research_Cooperation_desc:0 "Our new alliance is technologically backwards by the standards of the great powers of the world. To catch up, we much conduct state research and development as one."
 
 COL_AND_trade:0 "안데스 노동조합"
 COL_AND_trade_desc:0 "안데스 조약기구 회원국들간의 긴밀한 협력은 날이 갈수록 점점 더 유익해지고 있습니다. 우리들의 동맹 만세!"
@@ -403,3 +408,35 @@ col.22.t:0 "콜롬비아가 파나마를 합병하다"
 col.22.d:0 "충격적이게도 콜롬비아에게 선수를 빼앗겼습니다. 콜롬비아는 수많은 군대를 파나마 국경으로 군대를 이동시켜 파나마에게 합병을 요구했습니다. 우리의 군사적 보호 약속은 비겁한 파나마인이 콜롬비아의 요구에 굴복하지 않도록 설득하는데 부족했던 모양입니다.\n평상시였다면 이런 상황을 해결하는 대신에 적당히 무시하고 넘길 수도 있겠지만, 현재 세계가 혼란에 빠져 있다는 사실을 염두에 두고 어떻게 대응해야 할지 고민해야만 합니다."
 col.22.a:0 "전쟁이다!"
 col.22.b:0 "가지게 놔두어라"
+
+#Cosmetic Tags
+GCL_national_populist:0 "그란 콜롬비아"
+GCL_national_populist_ADJ:0 콜롬비아
+GCL_national_populist_DEF:0 "그란 콜롬비아"
+GCL_paternal_autocrat:0 "그란 콜롬비아"
+GCL_paternal_autocrat_ADJ:0 콜롬비아
+GCL_paternal_autocrat_DEF:0 "그란 콜롬비아"
+GCL_authoritarian_democrat:0 "그란 콜롬비아"
+GCL_authoritarian_democrat_ADJ:0 콜롬비아
+GCL_authoritarian_democrat_DEF:0 "그란 콜롬비아"
+GCL_social_conservative:0 "그란 콜롬비아"
+GCL_social_conservative_ADJ:0 콜롬비아
+GCL_social_conservative_DEF:0 "그란 콜롬비아"
+GCL_market_liberal:0 "그란 콜롬비아"
+GCL_market_liberal_ADJ:0 콜롬비아
+GCL_market_liberal_DEF:0 "그란 콜롬비아"
+GCL_social_liberal:0 "그란 콜롬비아"
+GCL_social_liberal_ADJ:0 콜롬비아
+GCL_social_liberal_DEF:0 "그란 콜롬비아"
+GCL_social_democrat:0 "그란 콜롬비아"
+GCL_social_democrat_ADJ:0 콜롬비아
+GCL_social_democrat_DEF:0 "그란 콜롬비아"
+GCL_radical_socialist:0 "그란 콜롬비아"
+GCL_radical_socialist_ADJ:0 콜롬비아
+GCL_radical_socialist_DEF:0 "그란 콜롬비아"
+GCL_syndicalist:0 "그란 콜롬비아"
+GCL_syndicalist_ADJ:0 콜롬비아
+GCL_syndicalist_DEF:0 "그란 콜롬비아"
+GCL_totalist:0 "그란 콜롬비아"
+GCL_totalist_ADJ:0 콜롬비아
+GCL_totalist_DEF:0 "그란 콜롬비아"

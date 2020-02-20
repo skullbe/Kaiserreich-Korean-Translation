@@ -28,7 +28,7 @@ defined_text = {
 			OR = {
 				AND = {
 					tag = QIE
-					QIE = { has_country_flag = QIE_coup_failed }
+					NOT = { has_country_flag = QIE_manchu_restoration }
 				}
 				AND = {
 					tag = SZC
@@ -72,7 +72,13 @@ defined_text = {
 				}
 			}
 		}
-		localization_key = "국민당 우파 지도자"
+		localization_key = "국민당 좌파 지도자"
+	}
+	text = {
+		trigger = {
+			tag = NPA
+		}
+		localization_key = "호국동맹 지도자"
 	}
 	text = {
 		trigger = {
@@ -100,47 +106,35 @@ defined_text = {
 				is_ruled_by_pro_manchu = yes
 			}
 		}
-		localization_key = "청나라 가맹"
+		localization_key = "Qing-aligned"
 	}
 	text = {
 		trigger = {
-			is_faction_leader = no
+			is_in_faction_with = NPA
+		}
+		localization_key = "호국동맹원"
+	}
+	text = {
+		trigger = {
 			is_ruled_by_pro_zhili = yes
 		}
 		localization_key = "직예 가맹"
 	}
 	text = {
 		trigger = {
-			OR = {
-				is_in_faction_with = FNG
-				is_ruled_by_pro_fengtian = yes
-			}
+			is_ruled_by_pro_fengtian = yes
 		}
 		localization_key = "안국군 가맹"
 	}
 	text = {
 		trigger = {
-			OR = {
-				is_ruled_by_kmt = yes
-				any_other_country = {
-					is_faction_leader = yes
-					is_in_faction_with = PREV
-					is_ruled_by_kmt = yes
-				}
-			}
+			is_ruled_by_kmt = yes
 		}
 		localization_key = "국민당 가맹"
 	}
 	text = {
 		trigger = {
-			OR = {
-				is_ruled_by_federalists = yes
-				any_other_country = {
-					is_faction_leader = yes
-					is_in_faction_with = PREV
-					is_ruled_by_federalists = yes
-				}
-			}
+			is_ruled_by_federalists = yes
 		}
 		localization_key = "연방 가맹"
 	}

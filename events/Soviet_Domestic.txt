@@ -1,152 +1,144 @@
-﻿###########################18번"레닌그라드"###################################
+﻿###########################
 # Soviet Domestic Events
 ###########################
 # By Levi, changed by Kornilov (still a temporary solution)
 ###########################
 
 add_namespace = sovd
+add_namespace = sovf
 
 #########################################################
 # Internal situation events
 #########################################################
 country_event = {
 	id = sovd.1
-	immediate = {
-		log = "[GetDateText]: [Root.GetName]: event sovd.1"
-		set_province_name = {
-			id = 3151
-			name = "레닌그라드"
-		}
-	}
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.1" }
 	title = sovd.1.t
 	desc = sovd.1.d
+
 	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+			set_politics = {
+				ruling_party = syndicalist
+			}
+			kill_country_leader = yes
+			create_country_leader = {
+				name = "Nikolay Bukharin"
+				desc = "POLITICS_NIKOLAI_BUKHARIN_DESC"
+				picture = "gfx/leaders/RUS/Portrait_RUS_Nikolai_Bukharin.tga"
+				expire = "1965.1.1"
+				ideology = syndicalist_subtype
+			}
+			set_politics = {
+				ruling_party = radical_socialist
+			}
+		}
+	}
 
 	option = { #autonomist ministers
 		name = sovd.1.a
-		create_country_leader = {
-			name = "Mikhail Frunze"
-			desc = "POLITICS_MIKHAIL_FRUNZE_DESC"
-			picture = "portait_soviet_mikhail_frunze.tga"
-			expire = "1965.1.1"
-			ideology = radical_socialist_subtype
+		hidden_effect = {
+			remove_all_ministers_but_hog = yes
 		}
-		set_politics = {
-			ruling_party = radical_socialist
-			elections_allowed = no
-		}
-		add_stability = 0.05
-		remove_ideas_with_trait = foreign_minister
-		remove_ideas_with_trait = economy_minister
-		remove_ideas_with_trait = security_minister
-		add_ideas = SOV_Andrey_Vyshinsky_for_tot
-		add_ideas = SOV_Valerian_V_Kuybyshev_eco_rso
-		add_ideas = SOV_Pavel_A_Sudoplatov_sec_rso
 		add_popularity = {
 			ideology = radical_socialist
 			popularity = 0.4
 		}
-	}
-
-	option = { #autonomist ministers, but with hats
-		name = sovd.1.b
-		create_country_leader = {
-			name = "Mikhail Frunze"
-			desc = "POLITICS_MIKHAIL_FRUNZE_DESC"
-			picture = "Portrait_Soviet_Hat_Frunze.tga"
-			expire = "1965.1.1"
-			ideology = radical_socialist_subtype
-		}
-		set_politics = {
-			ruling_party = radical_socialist
-			elections_allowed = no
-		}
 		add_stability = 0.05
-		remove_ideas_with_trait = foreign_minister
-		remove_ideas_with_trait = economy_minister
-		remove_ideas_with_trait = security_minister
-		add_ideas = SOV_Andrey_Vyshinsky_for_tot
-		add_ideas = SOV_Valerian_V_Kuybyshev_eco_rso
-		add_ideas = SOV_Pavel_A_Sudoplatov_sec_rso
-		add_popularity = {
-			ideology = radical_socialist
-			popularity = 0.4
+		add_ideas = {
+			SOV_Andrey_Vyshinsky_for_tot
+			SOV_Valerian_V_Kuybyshev_eco_rso
+			SOV_Pavel_A_Sudoplatov_sec_rso
 		}
 	}
 }
 country_event = {
 	id = sovd.2
-	immediate = {
-		log = "[GetDateText]: [Root.GetName]: event sovd.2"
-		set_province_name = {
-			id = 3151
-			name = "Leningrad"
-		}
-	}
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.2" }
 	title = sovd.2.t
 	desc = sovd.2.d
+
 	is_triggered_only = yes
 
 	option = { #syndicalist ministers
 		name = sovd.2.a
-		create_country_leader = {
-			name = "Nikolay Bukharin"
-			desc = "POLITICS_NIKOLAI_BUKHARIN_DESC"
-			picture = "Portrait_Soviet_Nikolai_Iwanowitsch_Bucharin.tga"
-			expire = "1965.1.1"
-			ideology = syndicalist_subtype
-		}
 		set_politics = {
 			ruling_party = syndicalist
 			elections_allowed = no
 		}
-		remove_ideas_with_trait = foreign_minister
-		remove_ideas_with_trait = security_minister
-		add_ideas = SOV_Vyacheslav_Molotov_for_tot
-		add_ideas = SOV_Anastas_I_Mikoyan_sec_syn
+		hidden_effect = {
+			kill_country_leader = yes
+			remove_ideas_with_trait = foreign_minister
+			remove_ideas_with_trait = security_minister
+		}
+		create_country_leader = {
+			name = "Nikolay Bukharin"
+			desc = "POLITICS_NIKOLAI_BUKHARIN_DESC"
+			picture = "gfx/leaders/RUS/Portrait_RUS_Nikolai_Bukharin.tga"
+			expire = "1965.1.1"
+			ideology = syndicalist_subtype
+		}
 		add_popularity = {
 			ideology = syndicalist
 			popularity = 0.4
 		}
 		add_stability = 0.05
+		add_ideas = {
+			SOV_Vyacheslav_Molotov_for_tot
+			SOV_Anastas_I_Mikoyan_sec_syn
+		}
 	}
 }
 
 country_event = {
 	id = sovd.3
-	immediate = {
-		log = "[GetDateText]: [Root.GetName]: event sovd.3"
-		set_province_name = {
-			id = 3151
-			name = "Leningrad"
-		}
-	}
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.3" }
 	title = sovd.3.t
 	desc = sovd.3.d
+
 	is_triggered_only = yes
+
+	immediate = {
+		hidden_effect = {
+			set_politics = {
+				ruling_party = syndicalist
+			}
+			kill_country_leader = yes
+			create_country_leader = {
+				name = "Nikolay Bukharin"
+				desc = "POLITICS_NIKOLAI_BUKHARIN_DESC"
+				picture = "gfx/leaders/RUS/Portrait_RUS_Nikolai_Bukharin.tga"
+				expire = "1965.1.1"
+				ideology = syndicalist_subtype
+			}
+			set_politics = {
+				ruling_party = radical_socialist
+			}
+		}
+	}
 
 	option = { #totalist ministers
 		name = sovd.3.a
-		create_country_leader = {
-			name = "Mikhail Tukhachevsky"
-			desc = "POLITICS_TUKACHEVSKY_DESC"
-			picture = "portrait_sov_tukha.tga"
-			expire = "1965.1.1"
-			ideology = totalist_subtype
+		hidden_effect = {
+			kill_country_leader = yes
+			remove_ideas_with_trait = foreign_minister
+			remove_ideas_with_trait = security_minister
 		}
 		set_politics = {
 			ruling_party = totalist
 			elections_allowed = no
 		}
-		remove_ideas_with_trait = foreign_minister
-		remove_ideas_with_trait = security_minister
-		add_ideas = SOV_Andrey_P_Panfilov_sec_tot
-		add_ideas = SOV_Ivan_M_Maisky_for_tot
 		add_popularity = {
 			ideology = totalist
 			popularity = 0.4
 		}
 		add_stability = 0.05
+		add_ideas = {
+			SOV_Andrey_P_Panfilov_sec_tot
+			SOV_Ivan_M_Maisky_for_tot
+		}
 	}
 }
 
@@ -155,9 +147,28 @@ country_event = {
 	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.4" }
 	title = sovd.4.t
 	desc = sovd.4.d
+
 	is_triggered_only = yes
+
 	option = {
 		name = sovd.4.a
+		random_owned_state = {
+			add_extra_state_shared_building_slots = 2
+			add_building_construction = {
+				type = industrial_complex
+				level = 2
+				instant_build = yes
+			}
+		}
+		random_owned_state = {
+			add_extra_state_shared_building_slots = 2
+			add_building_construction = {
+				type = industrial_complex
+				level = 2
+				instant_build = yes
+			}
+		}
+		add_stability = 0.05
 	}
 }
 
@@ -167,34 +178,13 @@ country_event = { #The Capital
 	title = sovd.5.t
 	desc = sovd.5.d
 
-	fire_only_once = yes
-
-	trigger = {
-		tag = SOV
-		219 = {
-			is_owned_by = SOV
-		}
-		195 = {
-			is_owned_by = SOV
-		}
-		219 = {
-			is_controlled_by = SOV
-		}
-		195 = {
-			is_controlled_by = SOV
-		}
-	}
-
-	mean_time_to_happen = {
-		days = 150
-	}
+	is_triggered_only = yes
 
 	option = {
 		name = sovd.5.a
 		ai_chance = {
 			factor = 30
 		}
-		set_country_flag = CAP_PET
 		set_capital = 195
 	}
 
@@ -203,740 +193,489 @@ country_event = { #The Capital
 		ai_chance = {
 			factor = 70
 		}
-		set_country_flag = CAP_MOS
 		set_capital = 219
 	}
 }
-
-country_event = { #Status of the Orthodox Church SOV
+news_event = { #Remembering Lenin
 	id = sovd.6
 	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.6" }
 	title = sovd.6.t
 	desc = sovd.6.d
-	fire_only_once = yes
-	trigger = {
-		tag = SOV
-		has_war = no
+	picture = GFX_SOV_deadlenin
+
+	is_triggered_only = yes
+	
+	immediate = {
+		hidden_effect = {
+			news_event = {
+				id = sovd.6
+				days = 365
+			}
+		}
 	}
-	mean_time_to_happen = {
-		days = 60
-	}
+
 	option = {
 		name = sovd.6.a
-		ai_chance = {
-			factor = 35
-		}
-		add_stability = -0.2
-		set_country_flag = sov_ath
-	}
-	option = {
-		name = sovd.6.b
-		ai_chance = {
-			factor = 50
-		}
-		add_stability = -0.03
-		set_country_flag = sov_sec
-	}
-	option = {
-		ai_chance = {
-			factor = 10
-		}
-		name = sovd.6.c
-		add_stability = -0.07
-		set_country_flag = orth_sov
+		add_political_power = 5
 	}
 }
-country_event = { #The clergy criticises the government
+country_event = { #The City of the Tsars
 	id = sovd.7
 	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.7" }
 	title = sovd.7.t
 	desc = sovd.7.d
-	trigger = {
-		tag = SOV
-		has_country_flag = sov_sec
-		NOT = {
-			has_country_flag = sov_ath
-		}
-	}
-	mean_time_to_happen = {
-		days = 150
-	}
+
+	is_triggered_only = yes
+
 	option = {
 		name = sovd.7.a
-		add_stability = -0.02
-	}
-}
-country_event = { #The patriarch criticises the government
-	id = sovd.8
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.8" }
-	title = sovd.8.t
-	desc = sovd.8.d
-	trigger = {
-		tag = SOV
-		has_country_flag = sov_sec
-		has_stability < 0.35
-	}
-	mean_time_to_happen = {
-		days = 200
-	}
-	option = {
-		name = sovd.8.a
-		ai_chance = {
-			factor = 55
+		195 = { set_state_flag = RUS_renamed_leningrad }
+		set_province_name = {
+			id = 6174
+			name = "레닌그라드"
 		}
-		add_stability = -0.02
-	}
-	option = {
-		name = sovd.8.b
-		ai_chance = {
-			factor = 35
-		}
-		add_stability = -0.25
-		clr_country_flag = sov_sec
-		set_country_flag = sov_ath
-	}
-	option = {
-		name = sovd.8.c
-		add_stability = -0.07
-		clr_country_flag = sov_sec
-		set_country_flag = orth_sov
 	}
 }
 
-country_event = { #Motherland mass secular
-	id = sovd.9
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.9" }
-	title = rusd.44.t
-	desc = rusd.44.d
-	trigger = {
-		tag = SOV
-		has_country_flag = sov_sec
-	}
-	mean_time_to_happen = {
-		days = 150
-	}
-	option = {
-		name = rusd.44.a
-
-		add_stability = 0.02
-	}
-}
-
-country_event = { #Motherland mass state religion
-	id = sovd.10
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.10" }
-	title = rusd.44.t
-	desc = rusd.45.d
-	trigger = {
-		tag = SOV
-		has_country_flag = orth_sov
-	}
-	mean_time_to_happen = {
-		days = 150
-	}
-	option = {
-		name = rusd.45.a
-
-		add_stability = 0.03
-	}
-}
-country_event = { #hardliners criticize the clergy
-	id = sovd.11
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.11" }
-	title = sovd.11.t
-	desc = sovd.11.d
-	trigger = {
-		tag = SOV
-		has_country_flag = orth_sov
-	}
-	mean_time_to_happen = {
-		days = 150
-	}
-	option = {
-		name = sovd.11.a
-		ai_chance = {
-			factor = 50
-		}
-		add_stability = -0.01
-	}
-	option = {
-		name = sovd.11.b
-		ai_chance = {
-			factor = 30
-		}
-		clr_country_flag = orth_sov
-		set_country_flag = sov_sec
-		add_stability = -0.03
-	}
-	option = {
-		name = sovd.11.c
-		ai_chance = {
-			factor = 10
-		}
-		clr_country_flag = orth_sov
-		set_country_flag = sov_ath
-		add_stability = -0.25
-	}
-}
-country_event = { #Atheist museaum
-	id = sovd.12
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.12" }
-	title = sovd.12.t
-	desc = sovd.12.d
-	trigger = {
-		tag = SOV
-		has_country_flag = sov_ath
-	}
-	mean_time_to_happen = {
-		days = 150
-	}
-	option = {
-		name = sovd.12.a
-
-		add_stability = 0.03
-	}
-}
-country_event = { #Peasant unrest
-	id = sovd.13
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.13" }
-	title = sovd.13.t
-	desc = sovd.13.d
-	trigger = {
-		tag = SOV
-		has_country_flag = sov_ath
-		date > 1945.1.1
-	}
-	mean_time_to_happen = {
-		days = 150
-	}
-	option = {
-		name = sovd.13.a
-
-		add_stability = -0.03
-	}
-}
-#####second soviet elections#######
-
-country_event = { #Bukharin is dead SYN
+### Second Soviet Elections
+country_event = { #Bukharin/Frunze/Tukhachevsky dies
 	id = sovd.14
 	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.14" }
-	title = sovd.14.t
-	desc = sovd.14.d
-	fire_only_once = yes
+	
+	title = {
+		text = sovd.14.t.tukhachevsky
+		trigger = {
+			has_government = totalist
+		}
+	}
+	title = {
+		text = sovd.14.t.bukharin
+		trigger = {
+			has_government = syndicalist
+		}
+	}
+	title = {
+		text = sovd.14.t.frunze
+		trigger = {
+			has_government = radical_socialist
+		}
+	}
+	
+	desc = {
+		text = sovd.14.d.tukhachevsky
+		trigger = {
+			has_government = totalist
+		}
+	}	
+	desc = {
+		text = sovd.14.d.bukharin
+		trigger = {
+			has_government = syndicalist
+		}
+	}	
+	desc = {
+		text = sovd.14.d.frunze
+		trigger = {
+			has_government = radical_socialist
+		}
+	}
+
+	is_triggered_only = yes
+
 	trigger = {
-		tag = SOV
 		has_government = syndicalist
-		date > 1945.03.15
+	}
+	
+	immediate = {
+		hidden_effect = {
+			kill_country_leader = yes
+			country_event = { id = sovd.15 days = 122 } #National syndicalist
+			country_event = { id = sovd.16 days = 184 } #Military faction
+			country_event = { id = sovd.17 days = 275 } #Yezhov finds friends
+			country_event = { id = sovd.18 days = 184 } #New-Leninism NIK
+			country_event = { id = sovd.19 days = 184 } #New-Leninism BRE
+			country_event = { id = sovd.20 days = 184 } #True Syndicalism
+			country_event = { id = sovd.21 days = 275 } #World Revolution
+		}
 	}
 
 	option = {
 		name = sovd.14.a
-		set_country_flag = Nikolay_Bukharin_dead
-		kill_country_leader = yes
-		create_country_leader = {
-			name = "SOVNARKOM"
-			desc = "POLITICS_SOVNARKOM_DESC"
-			picture = "portrait_soviet_sovnarkom.tga"
-			expire = "1965.1.1"
-			ideology = syndicalist_subtype
+		trigger = {
+			has_government = totalist
 		}
-		remove_ideas = SOV_Nikolay_Bukharin_hog_syn
-	}
-}
-country_event = { #Frunze is ill
-	id = sovd.15
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.15" }
-	title = sovd.15.t
-	desc = sovd.15.d
-	fire_only_once = yes
-	trigger = {
-		tag = SOV
-		has_government = radical_socialist
-		date > 1945.03.15
-	}
-
-	option = {
-		name = sovd.15.a
-		kill_country_leader = yes
 		create_country_leader = {
 			name = "SOVNARKOM"
 			desc = "POLITICS_SOVNARKOM_DESC"
-			picture = "portrait_soviet_sovnarkom.tga"
-			expire = "1965.1.1"
-			ideology = radical_socialist_subtype
-		}
-		remove_ideas = SOV_Mikhail_V_Frunze_carm_rso
-		set_country_flag = Mikhail_V_Frunze_dead
-	}
-}
-country_event = { #Tukhachevsky bombed
-	id = sovd.16
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.16" }
-	title = sovd.16.t
-	desc = sovd.16.d
-	fire_only_once = yes
-	trigger = {
-		tag = SOV
-		has_government = totalist
-		date > 1945.03.15
-	}
-
-	option = {
-		name = sovd.16.a
-		kill_country_leader = yes
-		set_country_flag = Mikhail_N_Tukhachevskiy_dead
-		create_country_leader = {
-			name = "SOVNARKOM"
-			desc = "POLITICS_SOVNARKOM_DESC"
-			picture = "portrait_soviet_sovnarkom.tga"
+			picture = "gfx/leaders/RUS/Portrait_RUS_sovnarkom.tga"
 			expire = "1965.1.1"
 			ideology = totalist_subtype
 		}
 		remove_ideas = SOV_Mikhail_N_Tukhachevskiy_cos_tot
 	}
+	option = {
+		name = sovd.14.b
+		trigger = {
+			has_government = syndicalist
+		}
+		create_country_leader = {
+			name = "SOVNARKOM"
+			desc = "POLITICS_SOVNARKOM_DESC"
+			picture = "gfx/leaders/RUS/Portrait_RUS_sovnarkom.tga"
+			expire = "1965.1.1"
+			ideology = syndicalist_subtype
+		}
+		remove_ideas = SOV_Nikolay_Bukharin_hog_syn
+	}
+	option = {
+		name = sovd.14.c
+		trigger = {
+			has_government = radical_socialist
+		}
+		create_country_leader = {
+			name = "SOVNARKOM"
+			desc = "POLITICS_SOVNARKOM_DESC"
+			picture = "gfx/leaders/RUS/Portrait_RUS_sovnarkom.tga"
+			expire = "1965.1.1"
+			ideology = radical_socialist_subtype
+		}
+		remove_ideas = SOV_Mikhail_V_Frunze_carm_rso
+	}
 }
+
 country_event = { #National syndicalist
-	id = sovd.17
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.17" }
-	title = sovd.17.t
-	desc = sovd.17.d
-	fire_only_once = yes
+	id = sovd.15
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.15" }
+	title = sovd.15.t
+	desc = sovd.15.d
+
+	is_triggered_only = yes
+
 	trigger = {
-		tag = SOV
-		has_country_flag = SOV_FRU
-		date > 1945.07.15
+		has_completed_focus = SOV_FRUNZE
 	}
 
 	option = {
-		name = sovd.17.a
+		name = sovd.15.a
 		set_country_flag = SOV_NAT_SYN
 		add_stability = -0.02
 	}
 }
 country_event = { #Military faction
-	id = sovd.18
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.18" }
-	title = sovd.18.t
-	desc = sovd.18.d
-	fire_only_once = yes
+	id = sovd.16
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.16" }
+	title = sovd.16.t
+	desc = sovd.16.d
+
+	is_triggered_only = yes
+
 	trigger = {
-		tag = SOV
-		has_country_flag = SOV_FRU
-		date > 1945.09.15
+		has_completed_focus = SOV_FRUNZE
 	}
 
 	option = {
-		name = sovd.18.a
-		set_country_flag = SOV_MIL_FAC
-		add_stability = -0.02
-	}
-}
-country_event = { #Beria finds friends
-	id = sovd.19
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.19" }
-	title = sovd.19.t
-	desc = sovd.19.d
-	fire_only_once = yes
-	trigger = {
-		tag = SOV
-		NOT = {
-			has_country_flag = SOV_REP
-		}
-		date > 1945.12.15
-		GEO = {
-			exists = no
-		}
-	}
-
-	option = {
-		name = sovd.19.a
-		set_country_flag = SOV_KGB_BER
+		name = sovd.16.a
 		add_stability = -0.02
 	}
 }
 country_event = { #Yezhov finds friends
-	id = sovd.20
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.20" }
-	title = sovd.20.t
-	desc = sovd.20.d
-	fire_only_once = yes
+	id = sovd.17
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.17" }
+	title = sovd.17.t
+	desc = sovd.17.d
+
+	is_triggered_only = yes
+
 	trigger = {
-		tag = SOV
-		NOT = {
-			has_country_flag = SOV_REP
-		}
-		date > 1945.12.15
+		NOT = { has_completed_focus = SOV_TUKH }
 		country_exists = GEO
 	}
 
 	option = {
-		name = sovd.20.a
-		set_country_flag = SOV_KGB_YEZH
+		name = sovd.17.a
 		add_stability = -0.02
 	}
 }
 country_event = { #New-Leninism NIK
-	id = sovd.21
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.21" }
-	title = sovd.21.t
-	desc = sovd.21.d
-	fire_only_once = yes
+	id = sovd.18
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.18" }
+	title = sovd.18.t
+	desc = sovd.18.d
+
+	is_triggered_only = yes
+
 	trigger = {
-		tag = SOV
-		has_country_flag = SOV_UNION
-		date > 1945.09.15
-		UKR = {
-			exists = no
-		}
+		has_completed_focus = SOV_SOVNARKOM
+		NOT = { country_exists = UKR }
 	}
 
 	option = {
-		name = sovd.21.a
-		set_country_flag = SOV_LEN_NIK
+		name = sovd.18.a
 		add_stability = -0.02
 	}
 }
 
 country_event = { #New-Leninism BRE
-	id = sovd.22
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.22" }
-	title = sovd.22.t
-	desc = sovd.22.d
-	fire_only_once = yes
+	id = sovd.19
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.19" }
+	title = sovd.19.t
+	desc = sovd.19.d
+
+	is_triggered_only = yes
+
 	trigger = {
-		tag = SOV
-		has_country_flag = SOV_UNION
-		date > 1945.09.15
+		has_completed_focus = SOV_SOVNARKOM
 		country_exists = UKR
 	}
 
 	option = {
-		name = sovd.22.a
-		set_country_flag = SOV_LEN_BRE
+		name = sovd.19.a
 	}
 }
 country_event = { #True Syndicalism
-	id = sovd.23
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.23" }
-	title = sovd.23.t
-	desc = sovd.23.d
-	fire_only_once = yes
+	id = sovd.20
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.20" }
+	title = sovd.20.t
+	desc = sovd.20.d
+
+	is_triggered_only = yes
+
 	trigger = {
-		tag = SOV
-		has_country_flag = SOV_REP
-		date > 1945.09.15
+		has_completed_focus = SOV_TUKH
 	}
 
 	option = {
-		name = sovd.23.a
-		set_country_flag = SOV_REP_TRU
+		name = sovd.20.a
 	}
 }
 country_event = { #World Revolution
-	id = sovd.24
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.24" }
-	title = sovd.24.t
-	desc = sovd.24.d
-	fire_only_once = yes
+	id = sovd.21
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.21" }
+	title = sovd.21.t
+	desc = sovd.21.d
+
+	is_triggered_only = yes
+
 	trigger = {
-		tag = SOV
-		has_country_flag = SOV_REP
-		date > 1945.12.15
+		has_completed_focus = SOV_TUKH
 	}
 
 	option = {
-		name = sovd.24.a
-		set_country_flag = SOV_REP_REV
+		name = sovd.21.a
 	}
 }
 
 country_event = { #Second Soviet Elections
-	id = sovd.25
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.25" }
-	title = sovd.25.t
-	desc = sovd.25.d
-	fire_only_once = yes
-	trigger = {
-		tag = SOV
-		date > 1946.02.15
-	}
-	mean_time_to_happen = {
-		days = 5
-	}
-	option = { #National syndicalists
-		name = sovd.25.a
+	id = sovd.22
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.22" }
+	title = sovd.22.t
+	desc = sovd.22.d
+
+	is_triggered_only = yes
+
+	option = { #National Syndicalists
+		name = sovd.22.a
 		ai_chance = {
 			factor = 34
 		}
 		trigger = {
-			has_country_flag = SOV_NAT_SYN
+			has_completed_focus = SOV_FRUNZE
 		}
-		kill_country_leader = yes
+		hidden_effect = {
+			kill_country_leader = yes
+			remove_ideas_with_trait = head_of_government
+		}
 		create_country_leader = {
 			name = "Alexander Kuznetsov"
 			desc = "POLITICS_ALEXANDER_KUZNETSOV_DESC"
-			picture = "Portrait_sov_alexey.tga"
+			picture = "gfx/leaders/RUS/Portrait_RUS_Alexander_Kuznetsov.tga"
 			expire = "1965.1.1"
 			ideology = radical_socialist_subtype
 		}
-		remove_ideas_with_trait = head_of_government
-		remove_ideas_with_trait = chief_of_army
-		add_ideas = SOV_Rodion_Malinovskiy_carm_tot
 		add_ideas = SOV_Andrey_Zhdanov_hog_rso
-
-		add_ideas = SOV_ELECT_NAT
 	}
 	option = { #Military faction
-		name = sovd.25.b
+		name = sovd.22.b
 		ai_chance = {
 			factor = 33
 		}
 		trigger = {
-			has_country_flag = SOV_MIL_FAC
+			has_completed_focus = SOV_FRUNZE
+		}
+		hidden_effect = {
+			kill_country_leader = yes
+			remove_ideas_with_trait = foreign_minister
+			remove_ideas_with_trait = security_minister
 		}
 		kill_country_leader = yes
 		create_country_leader = {
 			name = "Georgiy Zhukov"
 			desc = "POLITICS_ZHUKOV_DESC"
-			picture = "Portrait_Soviet_Gregory_Zhukov.tga"
+			picture = "gfx/leaders/RUS/Portrait_RUS_Gregory_Zhukov.tga"
 			expire = "1965.1.1"
 			ideology = radical_socialist_subtype
 		}
-		remove_ideas_with_trait = foreign_minister
-		add_ideas = SOV_Vyacheslav_Molotov_for_tot
-		remove_ideas_with_trait = security_minister
-		remove_ideas_with_trait = chief_of_army
-		add_ideas = SOV_Semen_K_Timoshenko_carm_tot
-		add_ideas = SOV_Anastas_I_Mikoyan_sec_syn
-
-		add_ideas = SOV_ELECT_MIL
-	}
-	option = { #Beria
-		name = sovd.25.c
-		ai_chance = {
-			factor = 33
-		}
-		trigger = {
-			has_country_flag = SOV_KGB_BER
-		}
-		kill_country_leader = yes
-		create_country_leader = {
-			name = "Lavrentiy Beria"
-			desc = "POLITICS_LAVRENTIY_BERIA_DESC"
-			picture = "portrait_soviet_beria.tga"
-			expire = "1965.1.1"
-			ideology = radical_socialist_subtype
-		}
-		remove_ideas_with_trait = chief_of_army
-		add_ideas = SOV_Rodion_Malinovskiy_carm_tot
-		add_ideas = SOV_ELECT_KGB
-		create_country_leader = {
-			name = "Lavrentiy Beria"
-			desc = "POLITICS_LAVRENTIY_BERIA_DESC"
-			picture = "portrait_soviet_beria.tga"
-			expire = "1965.1.1"
-			ideology = syndicalist_subtype
+		add_ideas = {
+			SOV_Vyacheslav_Molotov_for_tot
+			SOV_Anastas_I_Mikoyan_sec_syn
 		}
 	}
 	option = { #Yezhov
-		name = sovd.25.c
+		name = sovd.22.c
 		ai_chance = {
 			factor = 33
 		}
 		trigger = {
-			has_country_flag = SOV_KGB_YEZH
+			has_government = radical_socialist
+			NOT = { has_completed_focus = SOV_TUKH }
+			country_exists = GEO
 		}
-		kill_country_leader = yes
+		hidden_effect = {
+			kill_country_leader = yes
+		}
 		create_country_leader = {
 			name = "Nikolai Yezhov"
 			desc = "POLITICS_NIKOLAI_YEZHOV_DESC"
-			picture = "portrait_soviet_nikolai_yezhov.tga"
+			picture = "gfx/leaders/RUS/Portrait_RUS_Nikolai_Yezhov.tga"
 			expire = "1965.1.1"
 			ideology = radical_socialist_subtype
 		}
-		remove_ideas_with_trait = chief_of_army
-		add_ideas = SOV_Rodion_Malinovskiy_carm_tot
-		add_ideas = SOV_ELECT_KGB
+	}
+	option = { #Yezhov
+		name = sovd.22.c
+		ai_chance = {
+			factor = 33
+		}
+		trigger = {
+			has_government = syndicalist
+			NOT = { has_completed_focus = SOV_TUKH }
+			country_exists = GEO
+		}
+		hidden_effect = {
+			kill_country_leader = yes
+		}
 		create_country_leader = {
 			name = "Nikolai Yezhov"
 			desc = "POLITICS_NIKOLAI_YEZHOV_DESC"
-			picture = "portrait_soviet_nikolai_yezhov.tga"
+			picture = "gfx/leaders/RUS/Portrait_RUS_Nikolai_Yezhov.tga"
 			expire = "1965.1.1"
 			ideology = syndicalist_subtype
 		}
 	}
 	option = { #New-Leninism NIK
-		name = sovd.25.e
+		name = sovd.22.e
 		ai_chance = {
 			factor = 50
 		}
 		trigger = {
-			has_country_flag = SOV_LEN_NIK
+			has_completed_focus = SOV_SOVNARKOM
+			NOT = { country_exists = UKR }
 		}
-		kill_country_leader = yes
+		hidden_effect = {
+			kill_country_leader = yes
+		}
 		create_country_leader = {
 			name = "Nikita Khrushchev"
 			desc = "POLITICS_SOV_KHRUSHCHEV_DESC"
-			picture = "portrait_soviet_nikita.tga"
+			picture = "gfx/leaders/UKR/Portrait_UKR_Nikita_Kruschev.tga"
 			expire = "1965.1.1"
 			ideology = syndicalist_subtype
 		}
-		add_ideas = SOV_ELECT_LEN
 	}
 	option = { #New-Leninism LEONID
-		name = sovd.25.e
+		name = sovd.22.e
 		ai_chance = {
 			factor = 50
 		}
 		trigger = {
-			has_country_flag = SOV_LEN_BRE
+			has_completed_focus = SOV_SOVNARKOM
+			country_exists = UKR
 		}
-		kill_country_leader = yes
+		hidden_effect = {
+			kill_country_leader = yes
+		}
 		create_country_leader = {
 			name = "Leonid Brezhnev"
 			desc = "POLITICS_LEONID_BREZHNEV_DESC"
-			picture = "portrait_soviet_leonid.tga"
+			picture = "gfx/leaders/RUS/Portrait_RUS_Leonid_Brezhnev.tga"
 			expire = "1965.1.1"
 			ideology = syndicalist_subtype
 		}
-		add_ideas = SOV_ELECT_LEN
 	}
 	option = { #True syndicalism
-		name = sovd.25.f
+		name = sovd.22.f
 		ai_chance = {
 			factor = 50
 		}
 		trigger = {
-			has_country_flag = SOV_REP_TRU
+			has_completed_focus = SOV_TUKH
 		}
-		kill_country_leader = yes
+		hidden_effect = {
+			kill_country_leader = yes
+		}
 		create_country_leader = {
 			name = "Sergey Kirov"
 			desc = "POLITICS_SERGEY_KIROV_DESC"
-			picture = "portrait_soviet_kirov.tga"
+			picture = "gfx/leaders/RUS/Portrait_RUS_Sergey_Kirov.tga"
 			expire = "1965.1.1"
 			ideology = totalist_subtype
 		}
-		add_ideas = SOV_ELECT_TRU
 	}
 	option = { #World revolution
-		name = sovd.25.f
+		name = sovd.22.f
 		ai_chance = {
 			factor = 50
 		}
 		trigger = {
-			has_country_flag = SOV_REP_REV
+			has_completed_focus = SOV_TUKH
 		}
-		kill_country_leader = yes
+		hidden_effect = {
+			kill_country_leader = yes
+		}
 		create_country_leader = {
 			name = "Konstantin Rokossovskiy"
 			desc = "POLITICS_ROKOSSOVSKIY_DESC"
-			picture = "Portrait_Soviet_Konstantin_Rokossovsky.dds"
+			picture = "gfx/leaders/RUS/Portrait_RUS_Konstantin_Rokossovsky.tga"
 			expire = "1965.1.1"
 			ideology = totalist_subtype
 		}
-		add_ideas = SOV_ELECT_REV
 	}
 }
 
-news_event = { #Remembering Lenin
-	id = sovd.26
-	immediate = { log = "[GetDateText]: [Root.GetName]: event sovd.26" }
-	title = sovd.26.t
-	desc = sovd.26.d
-	picture = GFX_SOV_deadlenin
-	trigger = {
-		tag = SOV
-		OR = {
-			AND = {
-				date > 1936.10.04
-				date < 1936.10.10
-			}
-			AND = {
-				date > 1937.10.04
-				date < 1937.10.10
-			}
-			AND = {
-				date > 1938.10.04
-				date < 1938.10.10
-			}
-			AND = {
-				date > 1939.10.04
-				date < 1939.10.10
-			}
-			AND = {
-				date > 1940.10.04
-				date < 1940.10.10
-			}
-			AND = {
-				date > 1941.10.04
-				date < 1941.10.10
-			}
-			AND = {
-				date > 1942.10.04
-				date < 1942.10.10
-			}
-			AND = {
-				date > 1943.10.04
-				date < 1943.10.10
-			}
-			AND = {
-				date > 1944.10.04
-				date < 1944.10.10
-			}
-			AND = {
-				date > 1945.10.04
-				date < 1945.10.10
-			}
-			AND = {
-				date > 1946.10.04
-				date < 1946.10.10
-			}
-			AND = {
-				date > 1947.10.04
-				date < 1947.10.10
-			}
-			AND = {
-				date > 1948.10.04
-				date < 1948.10.10
-			}
+country_event = {
+	id = sovf.64
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovf.64" }
+	title = sovf.64.t
+	desc = sovf.64.d
+	is_triggered_only = yes
+	option = {
+		name = sovf.64.a
+		ai_chance = {
+			factor = 100
 		}
-	}
-	mean_time_to_happen = {
-		days = 2
+		add_to_faction = SOV
 	}
 	option = {
-		name = sovd.26.a
-		trigger = {
-			tag = SOV
+		name = sovf.64.b
+		ai_chance = {
+			factor = 0
 		}
-		add_stability = 0.02
-	}
-	option = {
-		name = sovd.26.b
-		trigger = {
-			OR = {
-				has_government = totalist
-				has_government = radical_socialist
-				has_government = syndicalist
-			}
-			NOT = {
-				tag = SOV
-			}
-		}
-	}
-	option = {
-		name = sovd.26.c
-		trigger = {
-			NOT = {
-				OR = {
-					has_government = totalist
-					has_government = radical_socialist
-					has_government = syndicalist
-					tag = SOV
-				}
+		SOV = {
+			country_event = {
+				id = sovf.65
+				days = 2
 			}
 		}
 	}
 }
 
+country_event = {
+	id = sovf.65
+	immediate = { log = "[GetDateText]: [Root.GetName]: event sovf.65" }
+	title = sovf.65.t
+	desc = sovf.65.d
+	is_triggered_only = yes
+	option = {
+		name = sovf.65.a
+	}
+}

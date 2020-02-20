@@ -22,21 +22,6 @@ india:0 "인도"
 KR_SPLASH_TITLE:0 "환영합니다!"
 KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAlpinia, Anbory, Arvidus, Augenis, Beelzebub, Blackfalcon501, DSFDarker, Delincious, Dr. Njitram, Drozdovite, Edouard Saladier, Eragaxshim, Fbruchmueller, Flamefang, Gideones, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Khalil, Kracc, Krco, Liegnitz, Maltesefalcon, MantisToboggan, Mifil, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rinbro, Roniius, Roparex, Rylock, Saladenicoise, Skip, Starguard, Telcontar101, The Alpha Dog, Thomahawk2k, Vidyaország, WordZero, Yard1, Zaddy-Chan, Zankoas 그리고 Zimbabwe Salt Co."
 
-### Difficulty ### 
-custom_diff_strong_ger:0 "독일 제국 강화"
-custom_diff_strong_frasri:0 "인터내셔널 강화"
-custom_diff_strong_entente:0 "협상국 강화"
-custom_diff_strong_eng:0 "브리튼 연방 강화"
-custom_diff_strong_can:0 "캐나다 강화"
-custom_diff_strong_rus:0 "러시아 강화"
-custom_diff_strong_sov:0 "소비에트 강화"
-custom_diff_strong_aus:0 "오스트리아 강화"
-custom_diff_strong_usa:0 "미국 강화"
-custom_diff_strong_nfa:0 "국민 프랑스 강화"
-custom_diff_strong_ita:0 "이탈리아 강화"
-custom_diff_strong_jap:0 "일본 강화"
-custom_diff_strong_qie:0 "청나라 강화"
-
 ### Autonomy Levels ###
 kr_integrated_puppet:0 "동화된 괴뢰국"
 kr_occupied_puppet:0 "점령된 괴뢰국"
@@ -57,6 +42,15 @@ puppet_can_become_free:0 "독립할 수 있습니다\n"
 puppet_can_be_annexed:0 "종주국에게 합병될 수 있습니다\n"
 may_raise_autonomy:0 "§Y[Root.GetNameDefCap]§!의 자치도를 낮출 수 있습니다\n"
 may_become_free:0 "§Y[Root.GetNameDefCap]§! (은)는 독립을 향해가고 있습니다\n"
+
+### Modifiers ###
+KR_trade_laws_cost_factor:0 "Trade Laws Cost"
+KR_economy_cost_factor:0 "Economy Laws Cost"
+chief_of_staff_cost_factor:0 "Chief of Staff Cost"
+chief_of_army_cost_factor:0 "Chief of Army Cost"
+chief_of_navy_cost_factor:0 "Chief of Navy Cost"
+chief_of_air_force_cost_factor:0 "Chief of Air Force Cost"
+weapons_manufacturer_cost_factor:0 "Weapons Manufacturer Cost"
 
 ### Autonomy Events ###
 kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구되다"
@@ -135,9 +129,7 @@ Mittelmacht:0 "라이히스팍트"
 Entente:0 "협상국"
 Belgrade_Pact:0 "베오그라드 협약"
 Third_International:0 "제3인터내셔널"
-Mongolian_Alliance:0 "대칸국"
 Scandinavian_Pact:0 "스칸디나비아 조약"
-Mediterranean_Bloc:0 "지중해 연합"
 
 ### Custom Triggers ###
 had_war:0 "전쟁에서 싸운적이 있음"
@@ -149,7 +141,6 @@ second_american_civil_war_threat:0 "제2차 미국 내전 발발"
 second_russian_civil_war_threat:0 "제2차 러시아 내전 발발"
 spanish_civil_war_threat:0 "스페인 내전 발발"
 second_weltkrieg_threat:0 "제2차 세계대전 발발"
-rise_mongol_empire_threat:0 "몽골 제국의 기상"
 fourth_balkan_war_threat:0 "제4차 발칸전쟁 발발"
 remilitarize_oltenia_threat:0 "카르파티아에서의 책동"
 savoyard_crisis_threat:0 "사보야드 사태 발생"
@@ -168,8 +159,14 @@ belgrade_pact_threat:0 "베오그라드 조약이 창설됨"
 tooltip_add_idea_closed_economy:0 "'§Y폐쇄경제§!'로 무역법을 변경합니다.\n"
 tooltip_add_idea_command_economy:0 "'§Y계획경제§!'로 무역법을 변경합니다.\n"
 unlock_focuses:0 "§G이 중점은 자동으로 통과될 것이며 다른 중점을 해금할 것입니다§!\n"
-command_economy:0 "명령경제"
+command_economy:0 "계획경제"
 asked_to_join:0 "타국이 개입을 요청했습니다."
+asked_to_join:0 "Involvement was requested by another nation."
+received_equipment_500:0 "You received §G500§! infantry equipment from that country\n"
+received_equipment_1000:0 "You received §G1000§! infantry equipment from that country\n"
+received_equipment_1500:0 "You received §G1500§! infantry equipment from that country\n"
+received_equipment_2000:0 "You received §G2000§! infantry equipment from that country\n"
+received_equipment_5000:0 "You received §G5000§! infantry equipment from that country\n"
 
 ### Bookmarks ###
 
@@ -201,34 +198,25 @@ USA_KR_GATHERING_STORM_DESC:0 "고립주의를 자처하던 미합중국은 세�
 ### Japan ###
 JAP_KR_GATHERING_STORM_DESC: "'명예로운 평화'는 식민지에 대한 일본의 권리를 보장해줬지만, 욱일제국에서 모든 것이 잘 풀린 것은 아닙니다. 경제적 동요 이후 1926년 생디칼리스트의 히로히토 섭정-왕자 암살 시도로 그 극에 이르렀고, 불안정한 정부는 또다른 위기의 해를 보냈습니다; 첫 문제는 다나카 장군이었고, 다음은 민주 연립 내각이었으며 그 다음은 북동부 중국에 대한 개입이었습니다. 1936년, 일본은 제국을 확장할 태세를 취했습니다. 독일의 지배가 쇠퇴하고 있는 것으로 보이는 가운데, 일본인들은 남은 청나라의 영토와 독일의 태평양 지역들을 탐내고 있습니다..."
 
+### Other Nations ###
+OTHER_KR_GATHERING_STORM_DESC:0 "The nations of the world, great and small, are waiting for their turn to rise as a major player of this world. From major powers trying to keep their empires to the many nations trying to regain what they lost in the Weltkrieg, all will have to make difficult decisions and balance ideals with pragmatism to have an impact on the future of the world..."
+
 ### Featured Nations ###
 
-###Qing Empire###
-QIE_KR_GATHERING_STORM_DESC:0 "대청제국은 벼랑 끝에서 1936년을 맞이하고 있습니다. 1927년 4차 직봉전쟁 중 독일의 지원을 받아 복벽된 선통제는 여전히 인기가 없으며 많은 사람들은 적법하지 않은 지도자로 생각하고 있습니다.\n\n봉천 군벌과 국민당 모두를 이긴 직예 군벌은 1911년 이후의 혼란한 중국을 휩쓴 혼돈의 승자가 되었지만, 이들의 중국 통치는 완전하지 않습니다. 대내외의 적들이 이들의 패권을 위협하고 있으며, 이들이 얼마나 오랫동안 권력을 유지할 수 있을 지는 두고 봐야합니다..."
+### Socialist Republic Italy ###
+SRI_KR_GATHERING_STORM_DESC:0 "Since the Italian civil war, the Socialist Republic of Italy has controlled the bulk of Italy. Its rulers know full well that it would have overrun the republicans and the whites, had it not been for the infernal interference of Austria and the pressure applied by Germany. Even today, it is the specter of interference by Germany and Austria which keeps syndicalism from finishing off the last remnants of Old Italy. The nation bides its time, building its strength, and is fully aware that - once the scale tips - it shall tip in the favor of revolution."
 
-###League of Eight Provinces###
-LEP_KR_GATHERING_STORM_DESC:0 "쑨촨팡의 연합은 근 10년 동안 중국을 지배해온 축 중 남부의 절반을 차지하고 있습니다. 수년 간 평화상태를 유지해온 비옥한 지역인 만큼 노리는 자들도 많습니다. 남경과 북양은 아직 외부의 적에 맞서 연합하고 있지만, 서로 동맹인만큼 치열한 경쟁관계가 되었습니다. 어떤 사람들은 이 경쟁의 결과로 인해 양쪽이 각각 희생을 치르기 시작했다고 말합니다.\n\n중국의 다른 많은 나라들처럼 연합은 세심히 균형을 맞추어 탄생한 결과물이며, 쑨촨팡의 거대한 관료제의 피라미드는 이미 금이 가고 무너지기 시작했을지도 모릅니다..."
+### Italian Republic ###
+ITA_KR_GATHERING_STORM_DESC:0 "After Italy's defeat in the Weltkrieg, the country was left to the mercy of the Austrians - and it would have been reorganized into the old Italian Federation had it not been for the outbreak of civil war. The socialists would have overrun the peninsula had the Austrians not swallowed a bitter pill and cooperated with the republicans... and, after the fighting stopped, was forced to maintain the relationship into the current day. Italy remains unstable, however, and its eventual reckoning with the socialists across the Po appears inevitable."
 
-### Fengtian Government ###
-FNG_KR_GATHERING_STORM_DESC:0 "1928년 상화이 회담으로 봉천은 옛 북양정부의 유일한 계승국으로 남게 되었습니다. 과거와 마찬가지로 민주주의는 겉치레식으로 운영되고 있으며, 실질적인 권력은 가지각색으로 부도덕한 독재자들이 나누어 갖고 있습니다.\n\n청나라의 힘과 일본의 권력이라는 냉엄한 현실로 야망이 한계에 부딪힌 장쭤린은 분열된 정부의 책략 위에서 정치적 줄타기를 강요받았습니다. 정부의 전망은 암울하지만 일부는 아직 희망을 갖고 있습니다. 오색기는 다시 베이징과 중국 전역에서 높이 휘날릴 것입니다..."
+### Two Sicilies ###
+SIC_KR_GATHERING_STORM_DESC:0 "The Kingdom of the Two Sicilies initially sided with Austria during the civil war, a necessary evil to halt the advance of the Socialist Republic. Later, however, when war with the syndicalists seemed inevitable, the Austrians showed their true colours and abandoned the south. The war never happened, but the Sicilains came into the modern era wiser. They will have a difficult time meeting the more industrialized north head on, but that war will someday came and they must be ready for it."
 
-### Yunnan Clique ###
-YUN_KR_GATHERING_STORM_DESC:0 "독일이 청나라를 다시 세우면서 산악 국경지방에 있는 운남은 전략을 바꿀 수 밖에 없었습니다. 탕지야오 성장은 대청제국에 아첨하며, 공화국 잔당들을 운남에 받아들이는 동시에 자신의 권력을 굳히고 그의 오만불손하기로 악명높은 자치 정부에 반항하는 행동들이 일어나지 않게 만들기로 했습니다.\n\n중국의 사정이 탕지야오의 계략에 유리하게 돌아가기 시작했지만, 많은 내부 파벌들이 탕지야오가 내려올 때가 됐다거나 그 자리에 있기에는 제정신이 아니라고 생각하고 있는 등, 탕지야오의 지방 통합이라는 환상을 깨기 시작하고 있습니다..."
+### Papal State ###
+PAP_KR_GATHERING_STORM_DESC:0 "With the formation of a united Italy, it had seemed the time for the Papal States to have secular power was a thing of the past. Then came the collapse of the kingdom, and the civil war which followed, and central Italians once again turned to the Papacy and its Sicilian allies to help maintain stability. Now Pope Pius XI is ill, and on his deathbed he laments an Italy that remains divided, with the syndicalists growing ever stronger in the north. Whoever his successor is, he will need God on his side in order to prevail."
 
-### Ma Clique ###
-XSM_KR_GATHERING_STORM_DESC:0 "마씨 가문은 지난 30년 동안 서북부 지방을 통치해왔습니다. 중국의 거의 모든 세력들의 편을 한번씩 들었었고 일부 마씨들은 모두가 좋아하는 쪽에 남으려고 서로 다투기도 했지만, 현재의 마가 군벌은 새로운 직예 군벌 주도 청나라의 최우방국 중 하나로 보입니다.\n\n물론 모든 일이 다 잘풀리는 것은 아닙니다. 3년전 마부샹의 심장마비 증세로 군벌이 뒤흔들렸었고, 불안감과 사회적인 불안이 서서히 퍼져나가고 있습니다. 현재 서북 지방은 평화롭지만, 미래는 사람들의 소망과는 거리가 멀어져만 갈 것입니다..."
-
-### Shandong ###
-SQI_KR_GATHERING_STORM_DESC:0 "산동의 지배자 장쭝창은 그의 특별한 장갑열차와 잔악무도한 명성으로 유명합니다. '개고기 장군'은 폭력과 범죄, 부패등으로 유명하며, 그의 손아귀에 있는 수도 지난은 착실히 그 주인과 비슷하게 되어가고 있습니다.\n\n그러나 태산의 정상에 기거하는 일관도의 원로 장톈란은 산 아래의 부패를 멀리하며 또 중국을 1세기 이전으로 되돌리고, 그의 일관도 신앙으로 중국을 품을 수 있게 되기를 원하고 있습니다. 이 매우 다른 세력들 사이의 충돌이 중국을 영원히 바꿔버릴지도 모릅니다..."
-
-### Shanxi Clique ###
-SHX_KR_GATHERING_STORM_DESC:0 "다른 군벌들과는 달리 옌시산의 산서 군벌은 거대한 위협이나 큰 기회가 있을 때에만 깨졌던 신중한 중립정책을 거의 30년 동안 고수해왔습니다. 상기한 위협과 기회는 1928년에 있었는데, 새로이 재건국된 청나라 정부에 맞서 옌시산은 봉천-직예 전쟁에서 장쭤린편에 섰었습니다.\n\n불행히도 당시의 전쟁에서 패배하였고 옌시산은 동부 지방을 빼앗겼으며, 자신의 흔들리는 입지를 바로잡고자 국민군 잔당을 포섭했습니다. 1928년에 치뤘던 전쟁의 결과는 잊혀지지 않았고, 옌시산은 다음번에는 승산이 있는 쪽을 선택해야할 것입니다..."
-
-### Sichuan Clique ###
-SZC_KR_GATHERING_STORM_DESC:0 "사천은 1911년부터 오랫동안 중국 내 많은 문제들의 축소판이었으며, 수없이 분단되고 지속적으로 통치자가 바뀌어왔습니다. 양썬은 우페이푸의 직예 군벌의 도움을 받아 간신히 통치자의 입지가 흔들리는 혼란에서 벗어났지만, 권좌는 아직 온전하지 못 한 상태입니다.\n\n학살에 가까웠던 티베트 침공 후, 양썬은 내부 파벌에 의존하게 되었는데, 그중 가장 유명한 파벌은 류샹의 산업단과 덩시허우의 바오딩파입니다. 다른 한편, 망명했던 장교파는 운남의 지원을 받아 남쪽으로 돌아왔습니다. 사천의 화약고가 다시 한번 폭발할지도 모릅니다..."
-
-### History ###
-OTHER_KR_GATHERING_STORM_DESC:0 "세계의 크고 작은 국가들은 세계에서 주요한 역할로 등장할 기회를 기다리고 있습니다. 자신의 제국을 유지하려는 주요 국가들부터 세계대전에서 잃은 자신의 것들을 되찾으려는 많은 국가들까지, 모든 국가들은 어려운 결정들을 내려야만 할 것이고 현실과 이상 사이의 균형을 잘 맞춰 세계의 미래에 영향을 미쳐야 할 것 입니다..."
+### Sardinia ###
+SRD_KR_GATHERING_STORM_DESC:0 "The House of Savoy was shattered by Italy's defeat in the Weltkrieg, and King Victor Emmanuel III held responsible. All is not completely lost for the monarchy, however. The Savoy-Aostas are powerful supporters, the rightful holders of Sardinia-Piedmont until their lands on the shores were swallowed up by the syndicalists. Now they and what monarchy supporters they can gather hold out on Sardinia, protected by the French Republic and ready to watch for the opportunity where they, too, can one day return home to claim their seat of power."
 
 ### Ministers ###
 head_of_government:0 "정부수반"
@@ -621,7 +609,7 @@ continuous_boost_freedom:0 "자치도 상승"
 continuous_boost_freedom_desc:0 "식민지의 관료주의를 재편하고 원주민 관리들을 채용함으로써, 때가 되면 우리 자신의 일을 담당시킬 수 있을 것입니다."
 continuous_restrict_freedom:0 "속국 탄압"
 continuous_restrict_freedom_desc:0 "우리의 식민지 주체는 "자기 결정"이나 "국가 독립"과 같은 것들에 대해 다소 바보 같은 생각을 갖게 되었습니다. 이제 그들을 이 관념에서 해방시킬 때입니다."
-unlocks_decision:0 "해금된 결정:"
+unlocks_decision:0 "해금된 결정: £decision_icon_small "
 
 ### Generic Focuses ###
 generic_army_effort:0 "제트 항공기 제조사"

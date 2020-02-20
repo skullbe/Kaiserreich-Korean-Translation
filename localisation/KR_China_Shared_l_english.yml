@@ -73,6 +73,8 @@ assume_chinese_leadership_tooltip_SZC: "Army strength higher than 100% of §H[SZ
 assume_chinese_leadership_tooltip_YUN: "Army strength higher than 100% of §H[YUN.GetNameDef]§!"
 
 form_chinese_united_front:0 "Form the Chinese United Front"
+form_chinese_united_front_tooltip:0 "Controlled by §H[HJAP.GetNameDef] or one of their allies"
+
 chinese_united_front_formed:0 "The Chinese United Front has formed"
 china_ceasefire_occupation_transfer:0 "Takes ownership of §Hall occupied states§!."
 china_war_with_united_front:0 "§RThe United Front will fight against us!§!"
@@ -115,19 +117,23 @@ china_shared.9.t:0 "Formation of the United Front"
 china_shared.9.d:0 "Ever since the Japanese invasion cries have gone up across the country for a united front against Japanese aggression, and now they have been heard. Today marks the formation of the United Front, dedicated to the expulsion of the Japanese and their influence from our Chinese soil. Now our fates are tied as one, and there can be only victory or anhiliation."
 china_shared.9.a:0 "The Japanese must be defeated."
 
-china_shared.10.t:0 "Collapse of the United Front"
-china_shared.10.d:0 "Even as the war with Japan began to move toward its close, many in China were already making covert moves toward one side or another in the post-war order. With Japan now defeated, those suppressed conflicts have again come to the fore, and what was one a united front has began a rapid slide into infighting. Now the final phase of China's unification wars has begun."
-china_shared.10.a:0 "One last obstacle towards unity."
+china_shared.10.t:0 "The United Front Fails"
+china_shared.10.d:0 "It seems that not even an existential threat will unite the squabbling Chinese factions. After a month of negotiations and calls for aid, no other factions proved willing to put their differences with our regime aside - not even to stop the Japanese invasion. Our fate, apparently, is to fall divided."
+china_shared.10.a:0 "This is a dark day..."
 
-china_shared.11.t:0 "The United Front Forms"
-china_shared.11.d.pro_JAP:0 "It seems some of our fellow Chinese, unwilling to acknowledge our latest string of victories, have deicded to band together against us and our Japanese allies. While Tokyo is already considering this last-ditch alliance insignificant, we know China better than they ever could, and that a long fight still awaits ahead." #Pro-Japan Chinese POV
-china_shared.11.d.anti_JAP:0 "After a string of secret meetings carried out over several weeks, several Chinese political factions including our own have agreed to stand together against the oncoming Japanese invasion. Unity has been elusive for decades, but now with the formation of the Chinese United Front the country finally stands a chance at repelling the Japanese invader, and crushing his traitorus allies." #Anti-Japan Chinese POV
-china_shared.11.d.JAP:0 "It seems that several Chinese factions, unwilling to acknowledge our latest string of victories and the overwhelming superiority of our armies, have deicded to band together against us. It is difficult to imagine the squabbling, cliquish Chinese truly working together toward a common cause, and our commanders have assured us that theirs is ultimately a futile measure. We will be sipping Sake amid the ruins of their headquarters by the end of the year." #Japanese POV
-china_shared.11.d.others:0 "It seems that the Chinese, in their desperation to slow the Japanese invasion of their country, have formed an alliance. Few expected the typically squabbling, cliquish Chinese factions to make such a move, and now many will watch their future with considerable interest." #Foreign POV
-china_shared.11.a:0 "Onward."
-china_shared.11.b:0 "Wansui!"
-china_shared.11.c:0 "Banzai!"
-china_shared.11.e:0 "Interesting."
+china_shared.11.t:0 "Collapse of the United Front"
+china_shared.11.d:0 "Even as the war with Japan began to move toward its close, many in China were already making covert moves toward one side or another in the post-war order. With Japan now defeated, those suppressed conflicts have again come to the fore, and what was one a united front has began a rapid slide into infighting. Now the final phase of China's unification wars has begun."
+china_shared.11.a:0 "One last obstacle towards unity."
+
+china_shared.12.t:0 "The United Front Forms"
+china_shared.12.d.pro_JAP:0 "It seems some of our fellow Chinese, unwilling to acknowledge our latest string of victories, have deicded to band together against us and our Japanese allies. While Tokyo is already considering this last-ditch alliance insignificant, we know China better than they ever could, and that a long fight still awaits ahead." #Pro-Japan Chinese POV
+china_shared.12.d.anti_JAP:0 "After a string of secret meetings carried out over several weeks, several Chinese political factions including our own have agreed to stand together against the oncoming Japanese invasion. Unity has been elusive for decades, but now with the formation of the Chinese United Front the country finally stands a chance at repelling the Japanese invader, and crushing his traitorus allies." #Anti-Japan Chinese POV
+china_shared.12.d.JAP:0 "It seems that several Chinese factions, unwilling to acknowledge our latest string of victories and the overwhelming superiority of our armies, have deicded to band together against us. It is difficult to imagine the squabbling, cliquish Chinese truly working together toward a common cause, and our commanders have assured us that theirs is ultimately a futile measure. We will be sipping Sake amid the ruins of their headquarters by the end of the year." #Japanese POV
+china_shared.12.d.others:0 "It seems that the Chinese, in their desperation to slow the Japanese invasion of their country, have formed an alliance. Few expected the typically squabbling, cliquish Chinese factions to make such a move, and now many will watch their future with considerable interest." #Foreign POV
+china_shared.12.a:0 "Onward."
+china_shared.12.b:0 "Wansui!"
+china_shared.12.c:0 "Banzai!"
+china_shared.12.e:0 "Interesting."
 
 ### Sino-Japanese War
 china_second_sino_japanese_war_UF_decisions:0 "The Second Sino-Japanese War"

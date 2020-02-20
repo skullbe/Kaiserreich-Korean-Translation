@@ -22,7 +22,7 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "tab_1_text_header_2"
-			position = { x=304 y=382 }
+			position = { x=224 y=382 }
 			font = "hoi_36header"
 			text = "KR_SPLASH_TITLE"
 			maxWidth = 700
@@ -33,7 +33,7 @@ guiTypes = {
 			position = { x=61 y=447 }
 			font = "hoi_18mbs"
 			text = "KR_SPLASH_CREDITS"
-			maxWidth = 690
+			maxWidth = 675
 		}
 
 		buttonType = {

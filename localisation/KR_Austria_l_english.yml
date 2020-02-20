@@ -13,6 +13,9 @@ GAL_ausgleich_transcarpathian_claims:0 "트란스카르파티아 할양을 약�
 
 AUS_new_administration:0 "행정 개편"
 
+### Opinion Modifiers ###
+liechtenstein_leaves:0 "Liechtenstein Left Us"
+
 ### Flags and Tooltips ###
 AUS_economy_ready_tooltip:0 "우리는 경제의 선진화를 준비해야 합니다. \n\n 이는 현재 우리에게 닥친 경제 위기를 극복해야 한다는 뜻입니다."
 AUS_potb_albania_tooltip:0 "알바니아가 우리 영향권에 인접해 있습니다."

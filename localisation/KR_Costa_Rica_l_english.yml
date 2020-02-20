@@ -836,16 +836,16 @@ cos.63.t:0 "유대인 난민이 정착지 제공을 요청하다"
 cos.63.d:0 "분리독립을 선언한 미연합국에서 반유대주의가 계속되고 있고 오스만 제국과 이집트 사이에서 벌어진 중동 긴장 상태가 고조됨에 따라 경제적 난민 관리협회라는 미국의 인도주의 단체는 우리나라 정부에 집에서 쫓겨난 1500명의 유대인 가족들에게 국경을 개방해 달라고 요청했습니다. [COS.GetLeader]은(는) 재정착 과정에서 국가 재산은 단 한푼도 쓰지 않겠다고 약속하면서 정부에 유대인 공동체를 건설할 만한 작은 규모의 토지를 마련해 달라고 촉구했습니다."
 cos.63.a:0 "유대인놈들은 사회주의를 전파한다고! 저리 꺼져!!"
 cos.63.b:0 "식민화할 땅으로 테노리오 농장을 제공하자" 
-  
-cos.64.t:0 "두번째 난민의 파도가 닥치다"
-cos.64.d:0 "미국 내전은 끝이 보이지 않아 보이고 수많은 사람이 미국 전역에서 전사하는 동안 그보다 더 많은 난민이 전쟁이 끝날 때까지 도망칠 안전한 곳을 찾기를 희망하며 조국을 탈출하려 하고 있습니다. 카리브 지역에서 가장 민주적이고 개방적인 국가로 유명한 우리나라는 매력적인 망명지가 되었고, 수천명의 미국인이 조그만 이 나라로 화물선을 타고 밀려들어왔습니다. 이들을 받아들인다면 국내 자본 증식에 도움이 되겠지만, 이미 코스타리카 원주민과 자메이카 흑인들 사이의 인종 갈등도 심각한 상황에서 더 많은 이민자들이 들어올 때 갈등이 더 커질 가능성도 생각해 봐야 합니다."
-cos.64.a:0 "두 팔을 활짝 펴고 모두를 받아들이자"
-cos.64.b:0 "여긴 이미 만석이니까 다른 데나 찾아봐라!" 
 
 cos.65.t:0 "1938년 지방선거"
 cos.65.d:0 "[COS.GetLeader] 정권의 고압적인 개입주의 정책에 동조하는 사람들이 있다고 해도, 모두가 거기에 만족하지는 않습니다. 그리고 지방선거가 점점 다가오고 있는 지금 여론조사 결과 국민공화당의 인기가 크게 떨어지고 있음이 드러났습니다. 특히 마누엘 모라 발베르데가 이끄는 생디칼리슴 정당 인민정의당이 상당한 진전을 보이고 있으며, 이번에야말로 카를로스 루이스 사엔스같은 의원을 배출할 수 있을 것으로 보입니다. 이렇게 힘든 시련의 시기에도 변함없이 단호한 결심을 품어야만 합니다. [COS.GetLeader] 대통령은 비밀리에 생디칼리스트들을 모조리 공직에서 해임하고, 그들이 선거에서 당선되는 순간 반역죄를 적용해 체포하려는 계획을 세우고 있습니다."
 cos.65.a:0 "선거는 항상 공정하고 모두에게 열려 있어야만 한다"
 cos.65.b:0 "카를로스 루이스 사엔스를 당장 해임해!"
+
+cos.65.t:0 "1938 Regional Elections"
+cos.65.d:0 "Whilst some have appreciated the heavy handed interventionism by [COS.GetLeader], not everyone is equally content and with the Regional Elections approaching, the popularity of the PRN is tanking heavily in the polls. Especially the syndicalist PVP under Manuel Mora Valverde is making decent headway and seems set to deliver congressmen like Carlos Luis Sáenz this time around. In these trying times it's key that our resolve remains unshaken and therefore president [COS.GetLeader] is secretly planning to lift the syndicalists from office the moment they are elected and arrest them on charges of treason."
+cos.65.a:0 "The Elections should be fair and open to all."
+cos.65.b:0 "Dismiss Carlos Luis Sáenz from office!"
 
 cos.66.t:0 "플랜더스-왈로니아 교환 프로그램"
 cos.66.d:0 ""
@@ -919,11 +919,11 @@ cos.81.d:0 "전 세계적으로 전쟁이 맹위를 떨치고 코스타리카 �
 cos.81.a:0 "토지를 몰수해라"
 cos.81.b:0 "저들의 권리를 박탈하고 토지를 몰수해라"
 cos.81.c:0 "그렇게까지 할 필요가 있을까..."
- 
-cos.82.t:0 "독일인 수용소"
-cos.82.d:0 "애국적인 열정이 코스타리카 사람들을 사로잡았기 때문에 [COS.GetLeader]대통령은 모든 독일 상품에 대한 압류 뿐만 아니라 모든 독일계 시민을 체포하여 수용소에 수감시키도록 명령했다. 심지어 여기서 멈추지도 않습니다. 독일의 동조자로 판명된 모든 사람들 또한 같은 취급을 받도록 했기 때문입니다."
-cos.82.a:0 "저들은 국가에 대한 심대한 위협이다!"
-cos.82.b:0 "이건 좀 너무 간거 같은데..."
+
+cos.82.t:0 "Internment camps for German citizens"
+cos.82.d:0 "As patriotic fervour takes the Costa Rican population in its grip, President [COS.GetLeader] has now not only ordained the seizure of all German goods but has also decreed that all citizens with German ancestry are to be arrested and put in internment camps until it can be decided what to do with them. It however doesn't stop there as all persons found to be German sympathizers are to receive the same treatment."
+cos.82.a:0 "They are a threat to the State!"
+cos.82.b:0 "This is going a bit too far..."
 
 cos.83.t:0 "유혹적인 제안..."
 cos.83.d:0 "칼데론이 비상지휘권을 활용해 헌법에서 보장한 개인의 권리를 정지한데 격분하여 민주당을 이끄는 코르테스(칼데론이 전권을 장악하자 새로운 당을 창당하고 국민공화당과 모든 관계를 끊었습니다)와 생디칼리슴 정당을 이끄는 마누엘 모라 발베르데 모두가 대통령이 선거권을 침해했다고 공개적으로 비난했습니다.\n\n그들의 목소리가 국민공화당이 완전히 장악해 귀가 멀어버린 의회에 닿았지만 칼데론 대통령은 비상지휘권을 포기할 생각이 없었기 때문에 독재정권에 대항하는 쿠데타가 있어야 한다는 주장이 서서히 피어나오고 있습니다. 코스타리카 은행의 관리자이자 보수주의를 지지하는 호르헤 하인이 모라와 대화하는 모습이 얼마 전에 포착되었는데, 아마도 이 때에 쿠데타에 대한 지지와 성공했을 때 수립될 통합정부에 한 자리를 내준다는 구두계약을 주고 받은 걸로 추정됩니다."

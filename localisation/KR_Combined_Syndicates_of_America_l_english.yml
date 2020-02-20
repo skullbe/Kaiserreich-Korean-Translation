@@ -1,6 +1,6 @@
 ﻿l_english:
 
-CSA:0 "미노조연합 중점계도"
+CSA:0 "미노조연합 중점계통도"
 
 ### Parties ###
 CSA_totalist_party:0 "중앙집권주의자 파벌"
@@ -252,8 +252,8 @@ CSA_deal_with_terrorists_decisions:0 "반동 테러리스트들을 박살내라"
 CSA_deal_with_terrorists_decisions_desc:0 "혁명이 승리했지만, 많은 수의 반동적 테러스트들이 그들의 무기를 버리는 것을 거부하고 있습니다. 우리는 반드시 그들 모두를 처리할 것입니다."
 CSA_destroy_federalist_decision:0 "충성스러운 테러리스트들을 박살내라"
 CSA_destroy_longist_decision:0 "롱주의자 테러리스트들을 박살내라"
-
-
+CSA_delay_canadian_intervention:0 "Delay Canadian Intervention"
+CSA_delay_canadian_intervention_desc:0 "We cannot prevent the Canadians from intervening in the civil war... but we can delay them. If we sponsor nation-wide strikes with a clear syndicalist connection, there is a feeling they'll be too paranoid to take action. We can only do this so many times before the Canadians figure out where the funds are coming from, however."
 
 ### Reconstruction Focuses ###
 CSA_rebuilding_the_country:0 "국가 재건"
