@@ -510,7 +510,7 @@ amcivwar.61.a:0 "징병제를 시행하라"
 amcivwar.61.b:0 "대신 선전 활동에 주력하라"
 
 amcivwar.62.t:0 "주중미해병대를 귀환시킬까요?"
-amcivwar.62.d:0 "With the outbreak of the civil war, our garrison in the Legation Cities has been left sitting on their hands in China. Though recalling the division would leave our Chinese concessions relatively unguarded, and our influence in the Cities smaller, many are advising us that it must be done to win the war. Should we recall the division?"
+amcivwar.62.d:0 "내전이 발발했음에도, 공사관 도시에 주둔 중인 우리 부대는 중국에서 수수방관한 채 사태를 관망하고 있습니다. 이 부대를 귀환시키면 중국에서의 이권이 보호받지 못하고, 공사관 도시들에 대한 우리의 영향력이 축소되겠지만, 많은 사람들은 전쟁에서 승리하기 위해서는 감수해야 한다고 말합니다. 그들을 귀환시켜야 할까요?"
 amcivwar.62.a:0 "고향으로 불러들이자!"
 amcivwar.62.b:0 "위험을 감수할 수 없다."
 
@@ -783,25 +783,25 @@ amcivwar.165.a:0 "그래, 그만하자"
 amcivwar.165.b:0 "그들은 교육이 더 필요해"
 
 amcivwar.166.t:0 "[From.GetNameDefCap]의 제안"
-amcivwar.166.d:0 "We are currently in a ceasefire with [CSA.GetNameDef], but none of us are under the illusion that this is anything more than a respite before the fighting resumes. The [From.GetAdjective] government has approached us with a proposal: if we join the Entente, they'll fight on our side when the battle resumes. It makes sense, considering that the Canadians fear [CSA.GetNameDef] as much as we do, but some in our government oppose the idea of leashing ourselves to the Entente cause. We will, after all, be locked into their wars in Europe even should we win the civil war now."
-amcivwar.166.a:0 "We need their help to win the war"
-amcivwar.166.b:0 "No, we will do this without their help"
+amcivwar.166.d:0 "우리는 지금 [CSA.GetNameDef]와 휴전 상태에 있습니다만, 이것이 폭풍 직전의 고요임을 모르는 사람은 없습니다. [From.GetAdjective] 정부는 우리에게 한 가지 제의를 해왔습니다: 만약 우리가 협상국에 가입한다면 전투가 시작될 때 그들은 우리의 편에 설 것입니다. 캐나다인들이 우리 만큼이나 [CSA.GetNameDef]을(를) 두려워하고 있다는 것을 고려하면 타당한 제안이지만, 일부 정부 요인들은 협상국에 구속되는 것을 우려하며 이를 반대하고 있습니다. 어쨌든, 우리가 지금 내전에서 이긴다 하더라도 유럽에서의 전쟁에 휘말릴 것은 분명해 보입니다."
+amcivwar.166.a:0 "전쟁에서 승리하기 위해서는 그들의 도움이 필요하다"
+amcivwar.166.b:0 "아니, 그들 도움 없이도 충분히 해낼 수 있다"
 
 amcivwar.167.t:0 "[From.GetNameDefCap]이(가) 협상국에 가입하다"
-amcivwar.167.d:0 "Grateful for our assistance, the [From.GetAdjective] government has chosen to accept our offer and has formally joined the Entente."
-amcivwar.167.a:0 "Three Cheers for America!"
+amcivwar.167.d:0 "우리의 원조 덕분에, [From.GetAdjective] 정부는 우리의 제안을 받아들이기로 했고, 공식적으로 협상국에 가입했습니다."
+amcivwar.167.a:0 "미국을 위한 만세 삼창을 하자!"
 
 amcivwar.168.t:0 "[From.GetNameDefCap]이(가) 우리의 제안을 거절하다"
-amcivwar.168.d:0 "The [From.GetAdjective] government has rejected our alliance offer, perhaps believing that they can win the civil war on their own."
-amcivwar.168.a:0 "How disappointing!"
+amcivwar.168.d:0 "[From.GetAdjective] 정부는 우리의 동맹 제의를 거절했습니다. 아마 그들이 자력으로 내전에서 이길 수 있을거라 믿는 듯 합니다."
+amcivwar.168.a:0 "이렇게 실망스러울 수가!"
 
 amcivwar.169.t:0 "[CAL.GetNameDefCap]이(가) 협상국에 가입하다"
-amcivwar.169.d:0 "Obviously fearing our ultimate victory, the [CAL.GetAdjective] government has cozied up to the Canadians and the British. We will need to fight them all, once the ceasefire is done."
-amcivwar.169.a:0 "So be it!"
+amcivwar.169.d:0 "우리의 승리를 두려워한 나머지, [CAL.GetAdjective] 정부는 캐나다인들과 영국인들에게 접근했습니다. 우리는 그들 전부와 싸워야 합니다. 전쟁이 끝날 때까지 말이죠."
+amcivwar.169.a:0 "알겠다!"
 
-amcivwar.199.t:0 "Last America Standing"
-amcivwar.199.d:0 "It is beginning to dawn upon our citizens that the American civil war is actually over. The scars from the fighting will last for a long time, but it seems as if the feeling has already started to sink in that any chance to change America's destiny further has passed. We are now and forever more [Root.GetNameDef], and the world should know that is so."
-amcivwar.199.a:0 "God bless America!"
+amcivwar.199.t:0 "최후의 미국"
+amcivwar.199.d:0 "우리의 시민들에게 미국 내전이 마침내 종식되었음을 알릴 때입니다. 비록 전투의 상흔은 오랫동안 남겠지만, 미국의 운명은 더 이상 변하지 않을 듯 합니다. 우리는 최후의 순간까지 [Root.GetNameDef]일 것이며, 전세계가 이 사실을 알게 될 것입니다."
+amcivwar.199.a:0 "신이여 미국을 보호하소서!"
 
 ### Rocky Mountain Ceasefire ###
 
