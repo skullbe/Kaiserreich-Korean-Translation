@@ -47,17 +47,17 @@ anq_qing_name:0 "청"
 anq_ally_name:0 "동맹"
 
 ## Credibility System ##
-ANQ_credibility_dynamic_modifier:0 "£pol_idea Credibility of §MChen Tiaoyuan§!"
-ANQ_credibility_idea:0 "£anq_credibility Credibility of §MChen Tiaoyuan§!"
-ANQ_credibility_idea_desc:0 "With the old League of Eight Provinces in ruin and anti-concessionist rhetoric running rampant, Chen Tiaoyuan has successfully pushed himself forward as a beacon for the movement in China. Those that enabled his rise however could just as easily let him fall should he betray their interests. Nonetheless, Chen Tiaoyuan knows very well that following their every wish will lead to an Anqing without the resources necessary to bring about this liberation of China.\n§W--------------\n[ANQ_credibility_political_power_gain][ANQ_credibility_organisation][ANQ_credibility_recruitable_pop][ANQ_credibility_stability]§!"
+ANQ_credibility_dynamic_modifier:0 "£pol_idea 신뢰받는 §MChen Tiaoyuan§!"
+ANQ_credibility_idea:0 "£anq_credibility 신뢰받는 §MChen Tiaoyuan§!"
+ANQ_credibility_idea_desc:0 "오래된 팔성연합에 금이 가고 반연성주의자들의 목소리가 높아져만 갈때, Chen Tiaoyuan은 중국 내 운동의 선봉장이 되는 데 성공했습니다. 여기까지 올라오는 데 많은 사람들의 도움이 있었습니다. 하지만 그들의 이익을 침해한다면 손쉽게 그를 무너뜨릴 것입니다. 그럼에도 불구하고, Chen Tiaoyuan은 그들의 바람을 들어준다면 특별한 자원 없이도 안경 군벌에 중국 통일을 가져올 수 있음을 잘 알고 있습니다.\n§W--------------\n[ANQ_credibility_political_power_gain][ANQ_credibility_organisation][ANQ_credibility_recruitable_pop][ANQ_credibility_stability]§!"
 
-ANQ_credibility_political_power_gain_text:0 "Political Power Gain: [?ANQ.credibility_factor_dynamic_modifier_pol_gain|=%+0]\n"
-ANQ_credibility_political_power_gain_text_last:0 "Political Power Gain: [?ANQ.credibility_factor_dynamic_modifier_pol_gain|=%+0]"
-ANQ_credibility_organisation_text:0 "Division Organisation: [?ANQ.credibility_factor_dynamic_modifier_org|=%+1]\n"
-ANQ_credibility_organisation_text_last:0 "Division Organisation: [?ANQ.credibility_factor_dynamic_modifier_org|=%+1]"
-ANQ_credibility_recruitable_pop_text:0 "Recruitable Population Factor: [?ANQ.credibility_factor_dynamic_modifier_recruitable_pop|%+0]\n"
-ANQ_credibility_recruitable_pop_text_last:0 "Recruitable Population Factor: [?ANQ.credibility_factor_dynamic_modifier_recruitable_pop|%+0]"
-ANQ_credibility_stability_text:0 "Stability: [?ANQ.credibility_factor_dynamic_modifier_stab|=%+2]"
+ANQ_credibility_political_power_gain_text:0 "정치력 증가: [?ANQ.credibility_factor_dynamic_modifier_pol_gain|=%+0]\n"
+ANQ_credibility_political_power_gain_text_last:0 "정치력 증가: [?ANQ.credibility_factor_dynamic_modifier_pol_gain|=%+0]"
+ANQ_credibility_organisation_text:0 "사단 조직력: [?ANQ.credibility_factor_dynamic_modifier_org|=%+1]\n"
+ANQ_credibility_organisation_text_last:0 "사단 조직력: [?ANQ.credibility_factor_dynamic_modifier_org|=%+1]"
+ANQ_credibility_recruitable_pop_text:0 "동원 가능 인구: [?ANQ.credibility_factor_dynamic_modifier_recruitable_pop|%+0]\n"
+ANQ_credibility_recruitable_pop_text_last:0 "동원 가능 인구: [?ANQ.credibility_factor_dynamic_modifier_recruitable_pop|%+0]"
+ANQ_credibility_stability_text:0 "안정도: [?ANQ.credibility_factor_dynamic_modifier_stab|=%+2]"
 
 ## Companies ##
 longhai_railway:0 "롱하이 철도"
