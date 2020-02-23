@@ -1081,18 +1081,18 @@ mon.182.a:0 "우리 힘으로 헤쳐나가자."
 
 #### 400 - 499 Flavor Events 
 #### 400 - 412 Natpop Flavor Events 
-mon.400.t:0 "Refuting the Ungern Legend"
-mon.400.d:0 "The Buddyn Zövlöl has forbid the utterance of Baron Ungern's name in Mongolia henceforth. Much like the infamous bandit Ja Lama, his power over the people is measured in has reverence and infamy. The grounds where Ja Lama and Baron Ungern fortified were briefly treated as hallow ground, but truly spirits such as these must be banished from our lands, not revered."
-mon.400.a:0 "His ghost cannot oppress us"
+mon.400.t:0 "운게른 전설 부인"
+mon.400.d:0 "불교 의회는 지금 이후로 운게른 남작의 이름을 언급하는 행위를 금지했습니다. 악명 높은 도적 자 라마와 함께 사람들 사이에서 남작의 권력은 악행으로 숭배받고 있었습니다. 자 라마와 운게른 남작이 요새화했던 땅은 잠시 성지로 대접받았지만, 이와 같이 진실한 영혼은 우리 영토에서 경외가 아닌 추방을 받아야만 합니다."
+mon.400.a:0 "그의 유령은 우리를 가로막을 수 없다"
 
-mon.401.t:0 "Agvan Dorzhiev Condemned for Russophilia"
-mon.401.d:0 "The Buryat thorn, Agvan Dorzhiev,has been banned from entering Mongolia. Agvan's manipulative use of the Kalachakra tantra in Tibet portraying the Russian Tsars as the reincarnations of the Ārya Tārā. This kind of heresy will only invite additional foreign mercenaries to attempt on our sovereignty. The Ārya Tārā is also obviously Tsendiin Dondogdulam, the Bogd Khan's wife."
-mon.401.a:0 "Banish this Tsarist relic!"
+mon.401.t:0 "아그반 도르지예프의 친러시아 사상 비난"
+mon.401.d:0 "부랴트인인 아그반 도르지예프의 몽골 입국이 금지되었습니다. 아그반은 티베트에서 칼라차크라 탄트라를 악용해 러시아 차르를 아르야 따라의 환생으로 묘사했습니다. 이런 종류의 이단행위는 우리의 주권을 노리는 외국 용병을 추가로 불러들일 뿐입니다. 의심의 여지 없이 아르야 따라는 복드 칸의 아내인 첸딘 돈독둘람이기도 합니다."
+mon.401.a:0 "이 차르주의자의 유물을 없애버리자!"
 
-mon.402.t:0 "Barchenko's Curious Expedition"
-mon.402.d:0 "Though we are extremely wary of further Russian exploration, Alexander Barchenko distinguishes himself from the usual transparent spies. Barchenko claims to be a true believer in Tantric Buddhism, and claims to be writing a scientific paper on the health benefits of a monatic lifestyle. [MON.GetLeader] was ready to approve of his study, only to be stopped by a minister with one of Barchenko's other papers. This paper, entitled 'On the Transfer of Thoughts To A Distance' is some kind of scientific paper on divination. Alarmed at what appears to be another Russian conman's ploy to exploit Mongolia's culture, a deeper consideration of his plan is in order."
-mon.402.a:0 "Barchenko is harmless, he may stay"
-mon.402.b:0 "Not another one, he must leave"
+mon.402.t:0 "바르첸코의 의심스러운 탐사"
+mon.402.d:0 "더 이상의 러시아인 탐사대를 극도로 경계하고는 있지만 알렉산드르 바르첸코는 속이 뻔히 들여다보이는 평소와 같은 스파이와 자신이 다르다고 주장했습니다. 바르첸코는 자신이 진정한 밀교 신자이며 수도승의 생활 상식이 건강에 어떤 이점을 주는지에 관한 과학적 논문을 쓰고 있다고 주장했습니다. [MON.GetLeader]은(는) 그의 연구를 승인할 준비가 되어 있지만 한 장관이 바르첸코의 한 저작물을 눈치채고 승인을 중단시켰습니다. '원거리까지 사고 전달에 관하여'라는 제목의 이 글은 점술을 과학적으로 분석한 글입니다. 몽골의 문화를 이용하려는 또 다른 러시아 사기꾼의 책락에 조심하면서 그의 계획에 대해 더 깊은 고려가 필요합니다."
+mon.402.a:0 "바르첸코가 해를 끼칠 리 없다. 하라고 해"
+mon.402.b:0 "하나도 안된다. 떠나도록 해라"
 
 mon.403.t:0 "Status of Traditional Mongolian Sacrifices"
 mon.403.d:0 "Spoken around campfires among Mongol soldiers, there are few forms of bravado so popular as to claim you have removed an enemies heart. This act, which was banned under the Qing amban for decades, has returned to prominence due to Mongolia's instability. Commanders have requested [MON.GetLeader] use his influence in politics to ban this practice, stating that it will hold back our military's reputation."
