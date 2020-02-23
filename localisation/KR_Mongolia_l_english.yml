@@ -1094,34 +1094,34 @@ mon.402.d:0 "더 이상의 러시아인 탐사대를 극도로 경계하고는 �
 mon.402.a:0 "바르첸코가 해를 끼칠 리 없다. 하라고 해"
 mon.402.b:0 "하나도 안된다. 떠나도록 해라"
 
-mon.403.t:0 "Status of Traditional Mongolian Sacrifices"
-mon.403.d:0 "Spoken around campfires among Mongol soldiers, there are few forms of bravado so popular as to claim you have removed an enemies heart. This act, which was banned under the Qing amban for decades, has returned to prominence due to Mongolia's instability. Commanders have requested [MON.GetLeader] use his influence in politics to ban this practice, stating that it will hold back our military's reputation."
-mon.403.a:0 "Ban it, we need modern soldiers"
-mon.403.b:0 "Embrace it, we need the morale"
+mon.403.t:0 "전통 몽골식 희생 의식 현황"
+mon.403.d:0 "몽골 군인들이 모닥불을 사이에 놓고 이야기를 나누고 있을때, 여러 허세가 섞인 말들중에 가장 유명한 것들은 적의 심장을 뽑았다는 겁니다. 수십년간 청에서 파견한 암반이 금지한 이런 행위는 몽골이 불안정해지면서 최근 들어 부활했습니다. 지휘관들은 [MON.GetLeader]에게 이런 관행을 금지하여 아군의 명성이 더 이상 떨어지지 않도록 해달라고 말했습니다."
+mon.403.a:0 "금지해라. 우리는 현대군이 필요하다"
+mon.403.b:0 "허용해라. 사기를 높이는데 도움이 된다"
 
-mon.404.t:0 "Ak Jang Practitioners Arrested"
-mon.404.d:0 "From the Oirat mountains, near the land of Chinggis Khaan's birth, comes a revival of his old ways. A shaman, Chet Chelpan, has reported wide seeing a rider in white, the White Burkhan. Chet has organized Buryat churches in order to revoke Buddhism in the land of our ancestors, and is oppressing our history with his claims that the Oirat will be liberated by some white savior. This is obvious Ungern mythmaking, and should be treated as another attempt to immortalize the bastard."
-mon.404.a:0 "Imprison Chet and his shamans."
+mon.404.t:0 "아크 장 창시자가 체포되다"
+mon.404.d:0 "칭기스칸 출생지 근처에 있는 오이라트 산맥에서 옛 관습이 부활하고 있습니다. 샤먼 쳬트 쳴판이 흰색 옷을 입은 기사, 아크 보르한을 발견했다고 널리 알렸습니다. 쳬트는 조상의 땅에서 불교 신앙을 없애기 위해 부랴트 종교를 조직했고 어떤 백인 구세주에 의해 오이라트가 해방되리라고 주장하면서 우리 역사를 거부합니다. 이는 분명히 운게른 전설 만들기 작업의 일환인게 분명하며, 운게른 그 개자식을 불멸의 존재로 추켜세우기 위한 시도로 칩해야 합니다."
+mon.404.a:0 "체트와 샤먼들을 투옥해라."
 
-mon.405.t:0 "Foreign-names for Toponomy Banned"
-mon.405.d:0 "The Buddyn Zövlöl bhas banned all references to the Marco Polo, Humboldt, Ritter, Alexander III, and Prajevalski mountains. These names are attempts to impose their history onto ours, and are tantamount to imperialism. We must remane them to honor the Mongol heroes of our history."
-mon.405.a:0 "We assert our identity"
+mon.405.t:0 "외국화된 이름 사용 금지"
+mon.405.d:0 "불교 의회는 마르코 폴로, 훔볼트, 리터, 알렉산더 3세, 프라제발스키 산맥에 대한 언급을 금지했습니다. 이 이름들은 그들의 역사를 우리에게 강요하려는 시도로 제국주의와 다를바 없습니다. 우리 역사의 몽골 영웅들에게 명예를 되찾아주기 위해 역사를 고쳐야 합니다."
+mon.405.a:0 "우리의 정체성을 확고히해야 한다"
 
-mon.406.t:0 "9th Jebtsundamba Health Scare"
-mon.406.d:0 "The young 9th Jebtsundamba Khutukhtu recently fell ill for a few days. Monks were called out to find the source of the illness. It is presumed that one of the lama-monks have broken their vows and cursed the child's health. After much searching and interrogation, it was discovered that a monk had eaten a fish on the day the young Jebtsundamba Khutukhtu became sick. After this monk was justly defrocked and beaten, the child recovered from his illness. To the lamas attending to the Jebtsundamba Khutukhtu, this validated their belief that moral health  of subjects confers health to their leaders."
-mon.406.a:0 "That was close"
+mon.406.t:0 "9대 젭춘담바 후툭투의 건강 문제"
+mon.406.d:0 "어린 9대 젭춘담바 후툭투가 며칠간 병마에 시달렸습니다. 수도승들이 병의 원인을 찾기 위해 호출되었습니다. 라마승 중 한명이 맹세를 어기고 아이의 건강에 저주를 걸었던 것으로 추정됩니다. 한참을 조사하고 심문한 끝에 한 승려가 어린 젭춘담바 후툭투에게 날 생선을 먹였다는 사실이 밝혀졌습니다. 그 수도승이 파면당하고 곤장을 맞은 후 아이는 병에서 회복되었습니다. 젭춘담바 후툭투를 섬기는 라마들에게 이 사건은 추종자들의 도덕적 순수가 통치자의 건강에도 영향을 끼친다는 믿음을 다시 한번 상기시켜 주는 사건이었습니다."
+mon.406.a:0 "위험했구만"
 
-mon.407.t:0 "The Secret History of the Mongols Rediscovered"
-mon.407.d:0 "Mongolian author Tsendiin Damdinsüren has managed to find and translate a copy of The Secret History of the Mongols from it's chinese text into Khalkha Mongolian. This has enabled the story of Temujin, Chinggis Khaan, to be authoritatively told. In the spirit of nationalism, Tsendiin Damdinsüren included a forward cautioning Mongolians from selling this book to foreigners. Damdinsüren's forward states that 'Mongol history must never be warped or stolen by foreigners ever again.'"
-mon.407.a:0 "It is ours alone!"
+mon.407.t:0 "몽골비사를 다시 발견하다"
+mon.407.d:0 "몽골인 작가 첸딩 담딘쉬렌이 몽골비사 중국어 번역본을 찾았고 할하 몽골어로 번역하는데 성공했습니다. 이로써 칭기스칸 테무친의 이야기가 권위있게 전해질 수 있게 되었습니다. 민족주의의 정신에 따라 첸딩 담딘쉬렌은 이 책을 외국인에게 팔아서는 안된다는 경고를 덧붙였습니다. 담딘쉬렌의 대변인에 따르면 '몽골의 역사가 다시는 외국인에게 왜곡되거나 빼앗겨서는 안된다'고 했다 합니다"
+mon.407.a:0 "이제 몽골비사는 전적으로 우리의 것이다!"
 
-mon.408.t:0 "Memorial to the Red Hat Rebellion"
-mon.408.d:0 "A memorial has been built in Inner Mongolia to memorialize the thousands that died from Chinese persecution and fled Inner Mongolia during the Red Hat Rebellion. This has been coyly referred to as the 'Jindandao incident' by chinese propaganda. Many still living remember the hundreds of thousands that were lost, and to which the western observers celebrated as a triumph against our faith. The Buddyn Zövlöl government promises to avenge their deaths."
-mon.408.a:0 "We shall recover"
+mon.408.t:0 "홍건적의 난 기념비"
+mon.408.d:0 "홍건적의 난(원말명초에 있던 사건이 아닙니다) 동안 중국의 박해로 인해 수천명이 죽거나 내몽골로 도망간 이들을 추모하는 기념비가 내몽골에 세워졌습니다. 중국 선전물은 이 사건을 축소 왜곡하면서 '금단도 사건'이라는 이름으로 부릅니다. 아직 살아있는 수많은 사람들은 이 당시에 죽은 수백 수천명을 여전히 기억하고 있으며, 서방 세계의 관찰자들은 우리의 신앙에 대한 승리라고 축하해주었습니다. 불교 의회 정부는 그들의 죽음에 대한 복수를 약속했습니다."
+mon.408.a:0 "우리는 회복하리라"
 
-mon.409.t:0 "Memorial to Golok Massacre"
-mon.409.d:0 "The Ninghai warlords in 1932 attempted to end the Golok people of Kham, as an assault on both our Tibetan brothers and Buddhism itself. This was the most trying time for our faith, when we saw our own Dongxiang brothers turn against us for Islam. A memorial in Urga has been built and a speech given to reassure the refugees of this tragedy."
-mon.409.a:0 "Buddhism unites us"
+mon.409.t:0 "골록족 대학살"
+mon.409.d:0 "1932년 영해 군벌이 우리와 티베트 형제들 뿐만 아니라 불교 자체까지 공격하면서 캄의 골록족을 끝내버리려 했습니다. 둥샹족 형제들마저 이슬람을 골라 우리에게 등을 돌리면서 이 시기가 신앙을 지키기 위한 가장 위험한 시기였습니다. 우르가에 사건을 기념하는 기념비를 세우고 비극적인 피난민을 안심시키기 위해 연설했습니다."
+mon.409.a:0 "불교가 우리를 하나로 뭉쳐주었다"
 
 ### 414 - 423 Democratic Flavor Events
 
@@ -1223,7 +1223,7 @@ mon.444.d:0 "Though we are extremely wary of further Russian exploration, Alexan
 mon.444.a:0 "Out! We are not a curiosity"
 
 mon.445.t:0 "몽골비사 발견"
-mon.445.d:0 "몽골인 작가 첸딩 담딘쉬렌이 몽골비사 중국어 번역본을 찾았고 할하 몽골어로 번역하는데 성공했습니다. 이로써 칭기스칸 테무친의 이야기가 권위있게 전해질 수 있게 되엇씁니다. 민족주의의 정신에 따라 첸딩 담딘쉬렌은 이 책을 외국인에게 팔아서는 안된다는 경고를 덧붙였습니다. 담딘쉬렌의 대변인에 따르면 '몽골의 역사가 다시는 외국인에게 왜곡되거나 빼앗겨서는 안된다'고 했다 합니다."
+mon.445.d:0 "몽골인 작가 첸딩 담딘쉬렌이 몽골비사 중국어 번역본을 찾았고 할하 몽골어로 번역하는데 성공했습니다. 이로써 칭기스칸 테무친의 이야기가 권위있게 전해질 수 있게 되었습니다. 민족주의의 정신에 따라 첸딩 담딘쉬렌은 이 책을 외국인에게 팔아서는 안된다는 경고를 덧붙였습니다. 담딘쉬렌의 대변인에 따르면 '몽골의 역사가 다시는 외국인에게 왜곡되거나 빼앗겨서는 안된다'고 했다 합니다."
 mon.445.a:0 "우리가 또 다른 황금기에 다다를 수 있을까?"
 
 ##########INTRO Events
