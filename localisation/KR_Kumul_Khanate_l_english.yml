@@ -107,9 +107,9 @@ TAN_pull_strings_with_industrialists:0 "기업가 영향력 강화"
 TAN_internal_category:0 "칸국의 원조"
 TAN_internal_category_desc:0 "이전의 칸들은 오늘날에도 베이징에 있는 권력자들과 거의 관계를 맺지 못했습니다. 베이징 정부가 우리의 충성심을 중시한다면 그들은 신강을 들끓게 한 반동 세력을 물리치기 위한 우리의 무기 요청을 받아들일 것입니다."
 TAN_war_decision_category:0 "신강에서의 전쟁"
-TAN_war_decision_category_desc:0 "신강에서 전쟁이 터졌고, 우리는 반군과 부패한 장군들을 모두 상대로 승리하기 위해 최선을 다해야 한다."
-TAN_assassinate_sabit_damulla_decision:0 "사빗 다물라 암살"
-TAN_assassinate_sabit_damulla_decision_desc:0 "사비트 다물라는 현재 신장 남서부에서 위구르족의 반군 연합을 이끌고 있다. 디화에서 신강 군벌이 패배한 상황에서, 우리는 이제 카슈가르와 호탄에 눈을 돌려야 한다."
+TAN_war_decision_category_desc:0 "신강에서 전쟁이 터졌고, 우리는 반군과 부패한 장군들을 모두 상대로 승리하기 위해 최선을 다해야 합니다."
+TAN_assassinate_sabit_damulla_decision:0 "사비트 다물라 암살"
+TAN_assassinate_sabit_damulla_decision_desc:0 "사비트 다물라는 현재 신장 남서부에서 위구르족의 반군 연합을 이끌고 있다. 디화에서 신강 군벌이 패배한 상황에서, 우리는 이제 카슈가르와 호탄에 눈을 돌려야 합니다."
 
 ### Events ###
 kumul.0.t:0 "쿠물 칸국"
@@ -286,7 +286,7 @@ kumul.58.b:0 "호자 야야즈는 원한다면 그들을 보호할 수 있다."
 
 kumul.59.t:0 "자금이 필요하다"
 kumul.59.d:0 "To keep order in Xinjiang, we really do need more funds. We have cashed out a lot of our reserves to expand our administration and trying to keep the peace across the province. The main people who have the funds we need are the three most influential people in the nation right now: Hoja-Niyaz, Fan Yaonan, and Ma Zhongying. We must ask one of them to give us some of their funds."
-kumul.59.a:0 "판의 펀드를 이용해라."
+kumul.59.a:0 "판의 자금을 이용해라."
 kumul.59.b:0 "호자니야즈의 자금을 이용해라."
 kumul.59.c:0 "마중잉의 자금을 이용해라."
 
@@ -302,17 +302,17 @@ kumul.72.t:0 "이슬람 율법을 적용하다"
 kumul.72.d:0 "The majority of the people in the Xinjiang region are of the islamic faith. Our dynasty is of the uyghur ethnicity, a muslim ethnicity closer to the turkic people of Central Asia than the Han of China. Therefore, it has been decided that the laws of the province will now more and more closely resemble those that are taught in islam. However, much of the Han population who have moved to the province have been putting up large resistance against this move, saying we should be more secular."
 kumul.72.a:0 "그들도 이에 적응해야 할것이다."
 
-kumul.80.t:0 "Meeting with the Uygher Rebels"
+kumul.80.t:0 "위구르 반군과 회담"
 kumul.80.d:0 "Hoja-Niyaz meets with the old East Turkestan rebels, a risky gamble based on their shared ethnicity. The select few Hoja-Niyaz were reccomended to him as their land was destroyed by the Xinjiang army. After several hours of communion at the Kumul madrassas, the uygher rebels have capitulated to Hoja-Niyaz. In return, Hoja-Niyaz will allow them into government for their help and stability."
 kumul.80.a:0 "Agabey!"
 
-kumul.81.t:0 "Trouble With Sharia Law"
+kumul.81.t:0 "샤리아법 문제"
 kumul.81.d:0 "Following the constitution of Kumul, the foundation is in place for implementing Sharia law throughout Kumul. Immediately problems have arisen, as the last Mufti of Xinjiang fled to Istanbul decades ago. The appointment of a new Mufti is causing trouble as a result, because there exists no national protocol for choosing a Mufti among the Imams. To those who wearily joined Kumul, the fact that the independent East Turkestan was formulated in the Kashgar Madrassa has already discredited the future Mufti as a political tool rather than an independent jurist as required in the Quran."
 kumul.81.a:0 "If only we could get Shakib Arslan"
 
-kumul.82.t:0 "Mongolian Rifle Deal"
+kumul.82.t:0 "몽골 소총 거래"
 kumul.82.d:0 "It has become apparent to the administration that an exclusive trade deal with the Ottomans benefits them more than us. As a result, an intrepid agent of [TAN.GetLeader] has sought out Mongol traders. The Mongols, who are better at raiding Russia and China for weapons, are willing to trade. In return for a shipment of rifles, [TAN.GetLeader] has promised their value in fine Khotan rugs. "
-kumul.82.a:0 "A Good Deal"
+kumul.82.a:0 "좋은 거래로군"
 
 kumul.90.t:0 "도시 개발"
 kumul.90.d:0 "The centuries of political turmoil in China has bred a self-reliant generation in Kumul, one which shuns modern political thought and is made a pawn by illiteracy. In order to combat this widespread educational and ideological ignorance, [TAN.GetLeader] has lowered the price of settling in cities to an all-time low. This will hopefully encourage nomads to plant down roots in centers that [TAN.GetLeader] can more easily control."
