@@ -1,56 +1,59 @@
 ﻿l_english:
 
-russia_focus:0 "Russia Focus Tree"
+russia_focus:0 "러시아 중점계통도"
 
 ### Ideas ###
-rus_austerity_measures:0 "Austerity Measures"
-ger_brest_litovsk:0 "Brest-Litovsk Reparations"
-rus_political_instability:0 "Political Instability"
-rus_divided_staff:0 "Divided Military Staff"
-rus_divided_staff_desc:0 "Our military strategy has seen much progress and theoretical innovations since the civil war but the chronic instability and lack of political will from the government prevented the country from adopting a single modern strategy which hampered our organisation."
-rus_divided_marine:0 "Divided Naval Staff"
-rus_divided_marine_desc:0 "Our marine since the civil war has stayed small and weakened, being the least of our priorities. Thus the higher naval staff has been prone to debates that haven't been answered officially by the government. Some of our officers want to stick to the classic fleet-in-being doctrine while others want to test the other innovative paths of using submarines or carriers primarily."
-rus_okhrana_focus:0 "Okhranka"
-rus_better_working_conditions:0 "Better Working Conditions"
-rus_more_MP_focus:0 "Mobilisation of the Masses"
-rus_better_infantry_production_focus:0 "Standardised Infantry Equipment"
-training_barracks:0 "Local Training Barracks"
-rus_military_infrastructure_focus:0 "Military Infrastructure Development"
-planning_school:0 "National Planning School"
-rus_army_experience_focus:0 "Initiative to the Commanders"
-general_school:0 "National High Command Formation School"
-tank_academy:0 "National Armoured School"
-rus_free_thought_focus:0 "Encouragement of Free Thought"
-rus_tolerant_republic_focus:0 "A Tolerant Republic"
-rus_defend_democracy_focus:0 "Defend Democracy"
-rus_great_library_focus:0 "The Great Library"
-rus_esprit_de_corps_focus:0 "Natsgvardiya"
-rus_yunarmiya_focus:0 "Yunarmiya"
-rus_radio_propaganda_focus:0 "The Voice of the Tsar"
-rus_neoslavism_focus:0 "Neo-Slavism"
+rus_austerity_measures:0 "긴축 조치"
+ger_brest_litovsk:0 "브레스트-리토프스크 조약" #Brest-Litovsk Reparations
+rus_political_instability:0 "정치적 불안정함"
+rus_divided_staff:0 "분열된 육군 참모진"
+rus_divided_staff_desc:0 "우리의 군사적 전략은 내전의 종식이후 많은 발전과 이론적 혁신을 보였지만, 정부의 만성적인 불안정함과 정치적 부족으로 인해 육군은 현대적인 단일 교리를 채택하지 못했고, 이는 우리 군대의 발전을 방해하고 있습니다."
+rus_divided_marine:0 "분열된 해군 참모진"
+rus_divided_marine_desc:0 "내전이 종식되고서, 해군의 영향력은 작고 약해졌고 국가의 우선순위 중 가장 낮은 위치에 있었습니다. 따라서 고위 해군 참모들은 정부로부터 공식적인 답변을 받지 못하는 논쟁에 빠지고는 합니다. 우리 장교들 중 일부는 고전적인 현존함대 교리를 고수하기를 원하는 반면, 다른 장교들은 잠수함이나 항공모함을 활용하는 다른 혁신적인 교리를 시험하고 싶어합니다."
+rus_better_working_conditions:0 "개선된 근무환경"
+rus_more_MP_focus:0 "대중 동원"
+rus_better_infantry_production_focus:0 "표준보병 장비"
+training_barracks:0 "지역 훈련소"
+rus_military_infrastructure_focus:0 "군사 기반 시설 개발"
+planning_school:0 "사관학교"
+rus_army_experience_focus:0 "지휘관 양성 계획"
+general_school:0 "고등지휘 사관학교"
+tank_academy:0 "기갑사관학교"
+rus_free_thought_focus:0 "자유주의사상 장려" #Encouragement of Free Thought
+rus_tolerant_republic_focus:0 "관대한 공화국"
+rus_defend_democracy_focus:0 "민주주의 수호"
+rus_great_library_focus:0 "대도서관"
+rus_esprit_de_corps_focus:0 "국가 방위군" #Natsgvardiya
+rus_yunarmiya_focus:0 "유나르미아" #Yunarmiya
+rus_radio_propaganda_focus:0 "차르의 목소리"
+rus_neoslavism_focus:0 "신슬라브주의"
+
 rus_devoted_subjects_focus:0 "Devoted Subjects"
-soviet_worker_soldier:0 "Soviet Threat"
-soviet_worker_soldier_desc:0 "The continuing instability and the strength of the red influence have forced us to compromise with the proletariat after the civil war. Bolshevik activity is still high in Russia and in the case of a further weakening of our power they might attempt to rise up again."
-rus_military_spirit_idea:0 "Military Spirit"
-RUS_Vroom:0 "Limousine 'Triumph'"
-RUS_Dmi_Tri:0 "Senatorial Domination"
-RUS_new_russia:0 "A New Russia"
-rus_state_revanchism:0 "State Revanchism"
 
-rus_negot_peasants:0 "Negotiated with the Peasants"
-rus_minor_strike:0 "Minor Workers' Strike"
-rus_fulfilled_strike:0 "Fulfilled Strikers' Demands"
-rus_general_strike:0 "General Strike"
-rus_fulfilled_strike_general_malus:0 "Expanded worker's rights"
-RUS_Faith_disc:0 "National debates on religious matters"
+soviet_worker_soldier:0 "소비에트의 위협"
+soviet_worker_soldier_desc:0 "계속되는 정치적 불안정함과 사회주의 세력의 성장으로 인해서, 우리는 내전이 종식된 후 '프롤레타리아'와 타협할 수밖에 없었습니다. 현재 러시아에서는 볼셰비키들의 활동이 여전히 활발하며, 우리의 영향력이 더욱 약해질수록 그들의 움직임은 점점 선명하게 보일 것입니다."
+rus_military_spirit_idea:0 "군인 정신"
+RUS_Vroom:0 "'트라이엄프' 리무진" #Limousine 'Triumph'
+RUS_Dmi_Tri:0 "상원 의원 통제"
+RUS_new_russia:0 "새로운 러시아"
+rus_state_revanchism:0 "국가재건주의" #State Revanchism
 
-RUS_economic_depression:0 "Economic Depression"
-RUS_supreme_economic_council:0 "Verkhovny Ekonomicheskiy Sovet"
+rus_negot_peasants:0 "농민과의 협상"
+rus_minor_strike:0 "소규모 파업"
+rus_fulfilled_strike:0 "파업자들의 요구 이행"
+rus_general_strike:0 "파업"
+rus_fulfilled_strike_general_malus:0 "넓어진 노동자의 권리" #Expanded worker's rights
+RUS_Faith_disc:0 "국가적 종교 문제 논쟁"
+
+RUS_economic_depression:0 "경제 대공황"
+RUS_supreme_economic_council:0 "최고 경제위원회" #Verkhovny Ekonomicheskiy Sovet"
+
 RUS_minprom:0 "MinProm"
-RUS_cooperative_capitalism:0 "Cooperative Capitalism"
-RUS_increased_production:0 "Increased Production"
-RUS_lost_production:0 "Lost Production"
-RUS_civil_war:0 "The Fight for Russia"
+
+RUS_cooperative_capitalism:0 "협동자본주의"
+RUS_increased_production:0 "생산량 증가"
+RUS_lost_production:0 "생산량 손실"
+RUS_civil_war:0 "러시아를 위한 싸움"
 
 ### Parties ###
 RUS_totalist_party:0 "NOP"
@@ -198,7 +201,7 @@ RUS_Invest_In_The_Ural_Zemstva:0 "Invest in the Ural Zemstva"
 RUS_Invest_In_The_Siberian_Zemstva:0 "Invest in the Siberian Zemstva"
 
 ### Focuses ###
-RUS_Political_Stabilisation:0 "Political Stabilisation"
+RUS_Political_Stabilisation:0 ""
 RUS_Political_Stabilisation_desc:0 "While the death of president Alexander Kerensky has caused the largest crisis in recent history, we have managed to weather the storm. With the situation stabilising, it's time we look to our future - in whatever form it may take."
 
 RUS_Restore_The_Monarchy:0 "Restore The Monarchy"
