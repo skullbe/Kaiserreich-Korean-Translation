@@ -1,22 +1,32 @@
 ﻿l_english:
 
-russia_focus:0 "Russia Focus Tree"
+russia_focus:0 "러시아 중점계통도"
 
 ### Ideas ###
-rus_austerity_measures:0 "Austerity Measures"
-ger_brest_litovsk:0 "Brest-Litovsk Reparations"
-rus_political_instability:0 "Political Instability"
-rus_divided_staff:0 "Divided Military Staff"
-rus_divided_staff_desc:0 "Our military strategy has seen much progress and theoretical innovations since the civil war but the chronic instability and lack of political will from the government prevented the country from adopting a single modern strategy which hampered our organisation."
-rus_divided_marine:0 "Divided Naval Staff"
-rus_divided_marine_desc:0 "Our marine since the civil war has stayed small and weakened, being the least of our priorities. Thus the higher naval staff has been prone to debates that haven't been answered officially by the government. Some of our officers want to stick to the classic fleet-in-being doctrine while others want to test the other innovative paths of using submarines or carriers primarily."
-rus_okhrana_focus:0 "Okhranka"
-rus_better_working_conditions:0 "Better Working Conditions"
+rus_austerity_measures:0 "긴축 조치"
+
+ger_brest_litovsk:0 "브레스트-리토프스크 조약" #Brest-Litovsk Reparations
+
+rus_political_instability:0 "정치적 불안정함"
+
+rus_divided_staff:0 "분열된 육군 참모진"
+rus_divided_staff_desc:0 "우리의 군사적 전략은 내전의 종식이후 많은 발전과 이론적 혁신을 보였지만, 정부의 만성적인 불안정함과 정치적 부족으로 인해 육군은 현대적인 단일 교리를 채택하지 못했고, 이는 우리 군대의 발전을 방해하고 있습니다."
+
+rus_divided_marine:0 "분열된 해군 참모진"
+rus_divided_marine_desc:0 "내전이 종식되고서, 해군의 영향력은 작고 약해졌고 국가의 우선순위 중 가장 낮은 위치에 있었습니다. 따라서 고위 해군 참모들은 정부로부터 공식적인 답변을 받지 못하는 논쟁에 빠지고는 합니다. 우리 장교들 중 일부는 고전적인 현존함대 교리를 고수하기를 원하는 반면, 다른 장교들은 잠수함이나 항공모함을 활용하는 다른 혁신적인 교리를 시험하고 싶어합니다."
+
+rus_better_working_conditions:0 "개선된 근무환경"
+
 rus_more_MP_focus:0 "Mobilisation of the Masses"
-rus_better_infantry_production_focus:0 "Standardised Infantry Equipment"
-training_barracks:0 "Local Training Barracks"
-rus_military_infrastructure_focus:0 "Military Infrastructure Development"
-planning_school:0 "National Planning School"
+
+rus_better_infantry_production_focus:0 "표준보병 장비"
+
+training_barracks:0 "지역 훈련소"
+
+rus_military_infrastructure_focus:0 "군사 기반 시설 개발"
+
+planning_school:0 "국립 사관 학교"
+
 rus_army_experience_focus:0 "Initiative to the Commanders"
 general_school:0 "National High Command Formation School"
 tank_academy:0 "National Armoured School"
