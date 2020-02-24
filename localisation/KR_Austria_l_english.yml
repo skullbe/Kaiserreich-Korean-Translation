@@ -146,8 +146,8 @@ AUS_SLOintegration_desc:0 "많은 슬로베니아인들은 독일 민족이고 �
 
 ### Decisions ###
 AUS_syndie_threat:0 "생디칼리스트의 위협"
-AUS_syndie_threat_desc:0 "Our neighbours and old allies are at war with France, a fact that one can hardly miss. What German military minds had expected to be over in a few weeks, has turned into a repeat of the Weltkrieg. Should the Communards be the victors of this war, not only will our interests in Italy be compromised, but the integrity of our Empire may be at stake. It might be best to put our differences aside and to fight side-by-side with the Germans once more."
-AUS_germany_on_the_ropes:0 "[FRA.GetNameDef] has penetrated too far into southern Germany"
+AUS_syndie_threat_desc:0 "잊어버리기 힘든 사실이 있다면, 우리의 이웃이자 과거의 동맹이 프랑스와 전쟁을 치루고 있습니다. 독일군은 몇 주 안에 전쟁이 끝날 거라 생각했지만, 전쟁은 다시 세계대전이 되었습니다. 만약 빨갱이들이 이 전쟁에서 승리한다면, 이탈리아에서 우리의 이권이 침해될 뿐 아니라, 우리 제국의 통합성이 흔들릴 수 있습니다. 독일과의 이견은 덮어놓고 다시 한번 그들과 함께 나란히 싸우는 것이 최선일지 모릅니다."
+AUS_germany_on_the_ropes:0 "[FRA.GetNameDef]이(가) 남독일 깊숙히 침투해 들어왔습니다"
 AUS_syndicalism_winning_Italy:0 "동맹국 프랑스가 이탈리아 대부분을 통제하에 두고 있습니다"
 AUS_elections_decisions:0 "선거 결정"
 AUS_endorse_CS:0 "기독사회당을 지지"
@@ -375,22 +375,22 @@ AUS_all_austrian_development_scheme:0 "전 오스트리아 개발 계획"
 AUS_all_austrian_development_scheme_desc:0 "명목상으로 제국은 한 중앙 정부에 의해 재결합되었지만, 현실은 이와 다릅니다. 옛 영토가 제국 정부와 통합되고 제국의 많은 사람들이 우리 규칙을 받아 들일 시간과 노력이 필요합니다."
 
 AUS_italy:0 "시칠리아와의 관계 재구축"
-AUS_italy_desc:0 "After the Weltkrieg, we reorganized Italy into a Federation of pre-unification states led by a Habsburg, but after the we withdrew from the south of Italy in 1925 most of the Federation abandoned our ambition and it collapsed. Should we rekindle our Neapolitan ties?"
+AUS_italy_desc:0 "세계대전이 끝나고, 이탈리아는 합스부르크 가문에 의해 통일 이전 지역들의 연방으로 재조직되었습니다. 하지만 1925년 우리는 이탈리아 남부에서 철수했고, 연방의 대부분은 우리의 야심을 저버렸으며 곧 붕괴했습니다. 나폴리와의 연결을 다시금 수립해야 할까요?"
 
 AUS_italy_republic_ultimatum:0 "공화국 정권 교체"
-AUS_italy_republic_ultimatum_desc:0 "The Italian Republic in Milan to our South will always be a danger and thorn in our side. If we wish to return Austrian dominance to Italy, we must demand the Republicans restore power to the Council of the Italian Federation, so that they can't betray us when they have taken the rest of northern Italy."
+AUS_italy_republic_ultimatum_desc:0 "밀라노의 이탈리아 공화국은 항상 남쪽의 위험이자 골칫거리였습니다. 만약 오스트리아의 이탈리아 지배를 회복하고 싶다면, 우리는 공화주의자들에게 이탈리아 연방 평의회에게 권력을 되돌리라 요구해야 합니다. 그럼으로써 그들이 우리를 배신하여 이탈리아 북부 나머지 지역을 가져가지 못하게 말이죠."
 
 AUS_ANI_tirol:0 "ANI를 종식시키다"
-AUS_ANI_tirol_desc:0 "The Italian Nationalist Association is, almost by definition, our mortal enemy. Their leaders are madmen, their nationalist rhetoric is dangerous, and their claims on our southern lands are unacceptable. We are not as vulnerable as they thought, and we will crush them like the insects they are."
+AUS_ANI_tirol_desc:0 "이탈리아 민족주의자 연합(Italian Nationalist Association)은 분명히 필사적으로 싸워야 하는 적입니다. 그 지도자들은 미쳤고, 그들의 민족주의적 사상은 위험하며, 우리의 남쪽 영토에 대한 그들의 요구는 수용될 수 없습니다. 우린 그들이 생각하는 만큼 약하지 않으며, 벌레같은 그들은 반드시 분쇄될 것입니다."
 
-AUS_italy_republic_friendship:0 "밀란과의 친선"
+AUS_italy_republic_friendship:0 "밀라노와의 친선"
 AUS_italy_republic_friendship_desc:0 "Since the southern Italian states seem unlikely to help us restore the Federation, we should put all our hopes in our ally in Milan. They have kept faith with us for a long time, and we shall return that friendship."
 
 AUS_unify_italy:0 "이탈리아 통일"
 AUS_unify_italy_desc:0 "The rising of the Italian syndicalists in Turin split the country in two, with the French backed Socialist Republic of Italy in the West, and the Italian Republic on our border. With Germany and France openly hostile to each other, helping out the Republic will not only endear us to them, but secure our flank for a war with France."
 
 AUS_transcarpathian_railway:0 "카르파티아 횡단 철도"
-AUS_transcarpathian_railway_desc:0 "제국의 먼 끝에 도달하는 것은 지난 20년간 어려운 일이었으며, 헝가리는 철도 네트워크를 현대화하는 것을 거부해왔습니다. 이제 우리가 다시 그들을 통제 할 수있게되었으므로,  카르파티아를 경유하는 고속철도를 건설하는 오래된 계획을 구현하십시오."
+AUS_transcarpathian_railway_desc:0 "제국의 먼 끝에 도달하는 것은 지난 20년간 어려운 일이었으며, 헝가리는 철도 네트워크를 현대화하는 것을 거부해왔습니다. 이제 우리가 다시 그들을 통제할 수 있게 되었으므로,  카르파티아를 경유하는 고속철도를 건설하는 오래된 계획을 구현하십시오."
 
 AUS_bohemian_lands:0 "보헤미아 기반시설 확장"
 AUS_bohemian_lands_desc:0 "우리와 독일 간의 주요 국경 지역으로서 도로와 철도 시스템은 잘 유지되어 있고 육군을 수송하기에 충분할 정도로 커야합니다. 전쟁 후 많은 기계화가 진행된 현재, 보헤미아의 도로 및 철도들은 몇개 정도를 제외하면 체코 반군들을 진압하는데 아무런 도움도 되지 못하고 있습니다."
