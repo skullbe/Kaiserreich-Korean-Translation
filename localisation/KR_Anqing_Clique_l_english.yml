@@ -137,22 +137,22 @@ anq_decrease_qie_anger_5:0 "§Y청의 분노§!가 §G5§!까지 감소합니다
 
 anq_nochange_reclamation_willingness:0 "베이징을 향한 수복 전쟁에 참여하려는 §Y의지§!는 변하지 않습니다.\n"
 anq_increase_reclamation_willingness_1:0 "베이징을 향한 수복 전쟁에 참여하려는 §Y의지§!를 §M1§!만큼 증가시킵니다.\n"
-anq_increase_reclamation_willingness_2:0 "Increase §YWillingness§! to join the Reclamation War against Beijing by §M2§!.\n"
-anq_increase_reclamation_willingness_2_feng:0 "Because we have achieved victory with Fengtian's help, increase §YWillingness§! to join their Reclamation War against Beijing by §M2§!.\n"
-anq_decrease_reclamation_willingness_1:0 "Decrease §YWillingness§! to join the Reclamation War against Beijing by §M1§!.\n"
-anq_decrease_reclamation_willingness_1_sqianq:0 "Due to Fengtian's failure to properly negotiate a deal between us and Shandong, decrease §YWillingness§! to later join their Reclamation War against Beijing by §M1§!.\n"
-anq_decrease_reclamation_willingness_2:0 "Decrease §YWillingness§! to join the Reclamation War against Beijing by §M2§!.\n"
-anq_decrease_reclamation_willingness_3:0 "Decrease §YWillingness§! to join the Reclamation War against Beijing by §M3§!.\n"
+anq_increase_reclamation_willingness_2:0 "베이징을 향한 수복 전쟁에 참여하려는 §Y의지§!를 §M2§!만큼 증가시킵니다.\n"
+anq_increase_reclamation_willingness_2_feng:0 "우리가 봉천 정부의 도움으로 승리를 얻어냈기 때문에, 베이징을 향한 수복 전쟁에 참여하려는 §Y의지§!를 §M2§!만큼 증가시킵니다.\n"
+anq_decrease_reclamation_willingness_1:0 "베이징을 향한 수복 전쟁에 참여하려는 §Y의지§!를 §M1§!만큼 감소시킵니다.\n"
+anq_decrease_reclamation_willingness_1_sqianq:0 "우리와 산둥 간의 협상 중재에 실패한 봉천 정부로 인해, 베이징을 향한 수복 전쟁에 참여하려는 §Y의지§!를 §M1§!만큼 감소시킵니다.\n"
+anq_decrease_reclamation_willingness_2:0 "베이징을 향한 수복 전쟁에 참여하려는 §Y의지§!를 §M2§!만큼 감소시킵니다.\n"
+anq_decrease_reclamation_willingness_3:0 "베이징을 향한 수복 전쟁에 참여하려는 §Y의지s§!를 §M3§!만큼 감소시킵니다.\n"
 
 anq_has_governors_focus_tt:0 "성장을 임명함.\n"
 
-anq_increase_jap_shipments_war_tt:0 "§GIncreases the regular shipments you receive from Japan by sea!§!\n"
-anq_increase_qing_shipments_war_tt:0 "§GIncreases the regular shipments you receive from Qing by river and rail!§!\n"
+anq_increase_jap_shipments_war_tt:0 "§G일본이 해상을 통해 전달하는 수송품이 증가합니다!§!\n"
+anq_increase_qing_shipments_war_tt:0 "§G청이 강과 철도를 통해 전달하는 수송품이 증가합니다!§!\n"
 
-ANQ_nanjing_defections_tt:0 "§GSeveral former Nanjing divisions defect to our forces, not wanting to fight for Shandong or the Left KMT!§!"
+ANQ_nanjing_defections_tt:0 "§G산둥이나 국민당 좌파와 싸우길 원치 않는 난징의 부대들이 우리 군에 전향했습니다!§!"
 
-anq_declare_war_decision_sqi_tt:0 "§RUnlocks £decision_icon_small §HDecision§! to attack §YShandong§!. Will declare automatically in 60 days.§!\n"
-anq_declare_war_decision_chi_tt:0 "§RUnlocks £decision_icon_small §HDecision§! to attack the §YKuomintang§!. Will declare automatically in 30 days.§!\n"
+anq_declare_war_decision_sqi_tt:0 "§Y산둥§! 공격 £decision_icon_small §H결정§!이 R해금되었습니다. 60일 내에 자동으로 선전포고가 이뤄집니다.§!\n"
+anq_declare_war_decision_chi_tt:0 "§Y국민당§! 공격 £decision_icon_small §H결정§!이 R해금되었습니다. 30일 내에 자동으로 선전포고가 이뤄집니다.§!\n"
 
 anq_fengtian_will_decide_strategy_tt:0 "The Fengtian government will be informed of our preference that they help us reconstruct. If they agree, they will ask Japan. If one of them does not want to commit, Fengtian will look at other possible strategies.\n"
 anq_fengtian_fast_strike_tt:0 "Fengtian has Japan's blessing to mount a fast strike against Beijing, but they will only do this if we agree. §RAgreeing means going to war within months, even though our country is still in shambles.§!\n"
