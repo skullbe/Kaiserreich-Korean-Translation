@@ -249,9 +249,9 @@ PER_black_monday_2:0 "약해진 경제"
 PER_black_monday_3:0 "회복중인 경제"
 PER_desolation_of_the_sun_throne_idea:0 "태양 왕좌의 황량함"
 PER_asntan_qods_razavi_deal:0 "Asntan Quds Razavi"
-PER_asntan_qods_razavi_seize:0 "Asntan Quds Razavi Wealth Seized"
+PER_asntan_qods_razavi_seize:0 "Asntan Quds Razavi의 부를 얻다"
 PER_sheikh_kazal_deal:0 "Sheikh Khaz'al의 부"
-PER_sheikh_kazal_seize:0 "Sheikh Khaz'al's Wealth Seized"
+PER_sheikh_kazal_seize:0 "Sheikh Khaz'al의 부를 얻다"
 PER_legacy_of_agha_khan:0 "아가 칸의 유산"
 PER_beacon_mideast_socialism:0 "사회주의의 신호탄"
 PER_shining_democracy:0 "빛나는 민주주의"
@@ -283,7 +283,7 @@ ott_are_weak_per:0 "오스만이 약해졌다!"
 
 ### Opinion Modifiers ###
 PER_fully_annexed_azb:0 "이란의 완전한 아제르바이잔 점령"
-PER_didnt_fully_annexed_azb:0 "Iran helped against Azerbaijan"
+PER_didnt_fully_annexed_azb:0 "아제르바이잔에 대항하는 이란의 도움"
 PER_oil_trade:0 "이란과의 석유무역"
 PER_armenian_friendship:0 "이란과 아제르바이잔간의 우정"
 PER_military_cooperation:0 "군사 협력"
@@ -292,7 +292,7 @@ PER_naval_cooperation:0 "해군 협력"
 ### Events ###
 
 pers.1.t:0 "[PER.GetNameDef] 소개"
-pers.1.d:0 "지난 수십 년간, [PER.GetNameDef]는 끊임없는 변화와 불안정한 상태에 있었습니다. Having gained full independence from Russia and the British Empire, we have struggled to find our own place in this world. All around [PER.GetNameDef], from the smallest hamlet in the furthest corners of the nation to the big cities like [266.GetName], we can see the difference in beliefs between the people. Just a few years ago, the Shah himself was shot by a socialist assassin. Although he survived, the Shah's health has been declining by the day. It is clear the nation cannot survive like it is, and with the Shah's death looming, there are fears ideological divide could turn into open revolt. Democrats trying to force a republic, royalists who would support a powerful monarchy lead by the Shah's brother, Hassan Mirza, and socialists, attempting to create the first socialist state in the Middle East. We can only hope the power transition is peaceful...\n\nOur nation's military is in shambles, and we are still recovering from a famine that killed millions of our people. Not only that, our political class is dominated by a corrupt aristocracy, ruining our political legitimacy. Our nation has many problems to sort out, but if we can do it successfully, we could become the greatest Empire the Middle East has ever seen."
+pers.1.d:0 "지난 수십 년간, [PER.GetNameDef]는 끊임없는 변화와 불안정한 상태에 있었습니다.우리는 러시아와 영국으로부터 완전한 독립을 쟁취했고, 국제사회에서 우리의 자리를 찾기 위해 고군분투하고 있습니다. 변방의 작은 시골에서 [266.GetName]와 같은 대도시까지 국가 전역의 민중들의 생각은 각기 다릅니다. 불과 몇 년 전, 한 사회주의자가 샤를 저격했습니다. 비록 샤는 목숨을 건졌지만, 그의 건강은 날로 악화되고 있습니다. 샤의 죽음이 가까워지고 있고 국가가 휘청거리고 있으며, 국가 내의 이념의 골이 분쟁으로 번지려 하고 있습니다. 민주주의자들은 공화국을 세우려 하고 있으며, 군주주의자들은 샤의 형제인 하산 미르자를 왕위에 올리려 하고 있으며, 사회주의자들은 중동 최초의 사회주의 국가를 건설하려 하고 있습니다. 어떻게 되든 평화롭게만 되길 기원합니다...\n\n우리 군대의 상태 또한 난장판이며, 우리나라는 수백만을 죽인 기근에서 아직 회복하는 중입니다. 그뿐 아니라, 부패한 귀족들이 정치계를 주름잡고 있으며, 정치계를 어지럽히고 있습니다. 우리나라는 많은 문제를 안고 있으나, 우리가 성공적으로 그 문제들을 해결하면 우리는 중동에서 가장 위대한 제국이 될 것입니다."
 pers.1.a:0 "[PER.GetNameDefCap]는 강해질 것이다!"
 
 pers.2.t:0 "샤가 승하하셨다!"
@@ -320,8 +320,8 @@ pers.6.a:0 "충성파들을 국회에 보내라."
 pers.6.b:0 "충성파들을 보내 [266.GetName]의 요충지를 점령해라."
 pers.6.c:0 "문제를 일으키지 말자."
 
-pers.7.t:0 "들이 도시의 요충지를 점령하다"
-pers.7.d:0 "샤에 충성하는 사람들은 [266.GetName]의 대부분을 성공적으로 점령했습니다. The police and the army have stopped any rebellion from taking place. However, there are still some politicians that refuse to accept stronger rule from the Shah. These politicians are loyal to the Majlis, not the Shah. Do we allow these politicians to remain free, giving them the opportunity to unify against the Shah? However, we could temporarily arrest these politicians to prevent an uprising."
+pers.7.t:0 "반란군이 도시의 요충지를 점령하다"
+pers.7.d:0 "샤에 충성하는 사람들은 [266.GetName]의 대부분을 성공적으로 점령했습니다. 경찰과 군대가 반란을 저지했으나, 아직 샤의 강력한 통치를 거부하는 몇몇 정치인들이 있습니다. 이들은 샤가 아닌 의회에 충성하고 있습니다. 이들을 냅둬 샤에 대항하는 세력을 만들게 놔둬야 할까요? 아니면 이들을 체포하여 봉기를 막아야 할까요?"
 pers.7.a:0 "그들을 일시적으로 체포하여 안전을 확보하라."
 pers.7.b:0 "그들이 원하는 것을 하도록 내버려 두어라."
 
@@ -342,11 +342,11 @@ pers.12.t:0 "하산 미르자가 평화를 유지하다"
 pers.12.d:0 "하산 미르자는 이 기회에 평화롭게 지내면서 모두를 놀라게 했습니다.많은 사람들은 그의 형제의 죽음으로 인해 미르자가 카자르족의 절대 왕권을 만들려고 할 것이라고 생각했습니다. 그러나 미르자는 평화적인 권력 이양을 원한다고 주장하며 자신의 군대에 아무 것도 명령하지 않았습니다. 이제 샤 아흐마드의 죽음 이후 모든 것이 해결된 것 같았고,사람들은 새로운 샤로 하산 미르자의 대관식을 준비하고 있습니다."
 pers.12.a:0 "얼마나 현명한 미르자인가."
 
-pers.14.t:0 "Mirza gives no commands and leaves"
+pers.14.t:0 "미르자가 명령을 내리지 않고 잠적했다"
 pers.14.d:0 "하산 미르자는 부하들에게 명령을 내리지 않고 잠적했습니다.그것은 이제 충성파 군대는 앞으로의 방향도 없고 중앙의 통제도 없다는 뜻입니다. 이것은 반란군들에게 그들의 군대를 모을 수 있는 기회를 줄 것 입니다."
 pers.14.a:0 "카자르가 힘을 잃을 수 있을까?"
 
-pers.15.t:0 "정치인들은 하산 미르자와 싸울 준비가되어있다."
+pers.15.t:0 "정치인들은 하산 미르자와 싸울 준비가 되어 있다."
 pers.15.d:0 "It is not a surprise to anyone that Hassan Mirza is trying to secure more power for the Qajars. The death of Ahmad was the perfect opportunity that Hassan Mirza was waiting for. However, politicians knew this was coming, and are prepared for it. Forces have been gathered, and they are ready to fight. It appears the cities are breaking out into civil war."
 pers.15.a:0 "[PER.GetNameDef]를 위해 싸우는것을 시작하자!"
 
@@ -373,7 +373,7 @@ pers.20.d:0 "Everyone knew that civil war was a possibility in our disunified na
 pers.20.a:0 "가장 나은 놈이 이기도록 빌자."
 
 pers.21.t:0 "The fight for 이스파한"
-pers.21.d:0 ", once the capital of Safavid empire, is considered one of [PER.GetNameDef]'s most beautiful cities and has many historical sites. It is so popular that some refer to it as "Isfahan, half of the world". In the past few days since Shah Ahmad Qajar's death, pro-Hassan Mirza forces have managed to seize important locations around the city, like the Chehel Sotun palace and Naghsh-e Jahan Square, in order to stop any sort of resistance from anti-monarchist groups. Meanwhile, a small group of rebels who were preparing to strike the city have managed to capture the bridges on Zayandeh Rud river and destroyed them, except the famous Safavid bridges of Si o Se Pol and Khaju, effectively cutting the royalists out of the southern part of the city."
+pers.21.d:0 "isfahan, once the capital of Safavid empire, is considered one of [PER.GetNameDef]'s most beautiful cities and has many historical sites. It is so popular that some refer to it as "Isfahan, half of the world". In the past few days since Shah Ahmad Qajar's death, pro-Hassan Mirza forces have managed to seize important locations around the city, like the Chehel Sotun palace and Naghsh-e Jahan Square, in order to stop any sort of resistance from anti-monarchist groups. Meanwhile, a small group of rebels who were preparing to strike the city have managed to capture the bridges on Zayandeh Rud river and destroyed them, except the famous Safavid bridges of Si o Se Pol and Khaju, effectively cutting the royalists out of the southern part of the city."
 pers.21.a:0 "Loyalist forces must push, even if it's dangerous."
 pers.21.b:0 "The loyalists will try to encircle the rebels by rowing to the other side."
 
