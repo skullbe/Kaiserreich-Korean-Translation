@@ -87,30 +87,33 @@ RUS_tsar_party:0 "RMS"
 RUS_tsar_party_long:0 "Russkyi Monarchicheskyi Soyuz"
 
 ### Decisions ###
-RUS_Foreign_Policy_decisions:0 "Foreign Policy"
-RUS_Foreign_Policy_decisions_desc:0 "For the past couple decades Russia has become a laughing stock amongst the powers of the world however, with the situation in Europe setting of a cascade of effects we must consider this as our opportunity to strike against the illegitimate states that seceded from us. At last the Russian Bear has awakened, only when we have reacquired the territories from the empire of old shall we truly be able to consider Russia great. Long live Russia, one and indivisible."
+RUS_Foreign_Policy_decisions:0 "대외 정책"
+RUS_Foreign_Policy_decisions_desc:0 "지난 몇 십 년 동안, 러시아는 세계에서 웃음거리였습니다. 그러나, 최근 유럽의 연쇄적인 사건들과 그 영향들은 우리에게서 분리된 (불법적인)국가들을 다시금 되찾을 수 있는 기회로 찾아왔습니다. \n\n 러시아라는 곰이 깨어났습니다. 다만, 우리가 옛 러시아 제국의 영토를 되찾아야만 우리는 진정으로 위대한 러시아가 될 수 있을 것입니다. 러시아여 영원하라! 러시아는 하나이리라!"
 
-RUS_Integrate_Alash_Autonomy:0 "Integrate [FROM.GetFlag] [FROM.GetNameDef]"
-RUS_Integrate_Alash_Autonomy_desc:0 "Kazakhstan is vast and wealthy and more than that they are loyal. Once brought into the fold again we can look even further south, to Turkestan and even Persia!"
+RUS_Integrate_Alash_Autonomy:0 "[FROM.GetFlag] [FROM.GetNameDef] 통합"
+RUS_Integrate_Alash_Autonomy_desc:0 "카자흐스탄은 광활하고 부유하며, 또한 충성스러운 사람들이 다수 존재합니다. 이 지역을 다시 수복한다면 우리는 훨씬 더 남쪽에있는 투르케스탄, 그리고 더 나아가 페르시아까지 나아갈 수 있습니다!"
 
-RUS_Attack_Central_Asia:0 "Attack [FROM.GetNameDef]"
+RUS_Attack_Central_Asia:0 "[FROM.GetNameDef] 공격"
 RUS_Attack_Central_Asia_desc:0 "[RUS_Attack_Central_Asia_desc_text]"
-RUS_Attack_Central_Asia_desc_ALO:0 "During the turmoil of Black Monday our nation was plunged in the Alash Autonomy broke free from our control. If we wish to establish Russia as a major power once more, bringing the Kazahk frontier back under our control should be our first priority."
-RUS_Attack_Central_Asia_desc_TRK:0 "The lands of Turkestan were under the rule of the Empire until its collapse in the Weltkrieg. With the Kazahk border lands firmly under our control once more we can now focus on retaking these territories."
+RUS_Attack_Central_Asia_desc_ALO:0 "우리 나라에 검은 월요일의 영향이 미치면서, 알라시 자치국은 우리의 통제에서 벗어났습니다. 러시아가 다시금 강대국이 되기 위해서는 카자흐 국경지역을 다시 우리의 지배하에 두어야 할 것입니다."
+RUS_Attack_Central_Asia_desc_TRK:0 "투르케스탄 지역은 세계대전에 패배할 때까지 제국의 지배하에 있었습니다. 카자흐 국경이 우리의 통제하에 확고히 자리잡은 지금, 우리는 이 영토들을 다시 되찾는 데 집중할 수 있습니다."
 
-RUS_Demand_Concessions_In_The_Caucasus:0 "Demand Concessions in the Caucasus"
-RUS_Demand_Concessions_In_The_Caucasus_desc:0 "Germany is currently occupied in yet another war with the Western Powers. This is an invaluable opportunity to re-acquire lost territories in the Caucasus region. We shall give the Kaiser an ultimatum - give us territorial concessions or find himself in yet another two front war. Surely they aren't foolish enough to refuse?"
+RUS_Demand_Concessions_In_The_Caucasus:0 "코카서스 양도 요청"
+RUS_Demand_Concessions_In_The_Caucasus_desc:0 "독일은 현재 서구의 열강들과의 전쟁에서 고전하고 있습니다. 이러한 상황은 잃어버린 코카서스 영토를 다시 되찾을 수 있는 귀중한 기회일지도 모릅니다. 카이저에게 최후통첩을 해야 합니다. 영토를 양도 하든지, 아니면 양면전쟁에 휘말리게 될 것인지를 말입니다. 그들은 이 제안을 거절할 만큼 어리석지는 않을 것입니다."
 
 RUS_Attack_Caucasus:0 "[RUS_Attack_Caucasus_text]"
 RUS_Attack_Caucasus_desc:0 "[RUS_Attack_Caucasus_desc_text]"
 
-RUS_Attack_Caucasus_DKB:0 "The Question of the Don-Kuban Union"
-RUS_Attack_Caucasus_AZE:0 "The Baku Oil Fields"
-RUS_Attack_Caucasus_GEO:0 "The Georgian Question"
-RUS_Attack_Caucasus_ARM:0 "Status of Armenia"
-RUS_Attack_Caucasus_desc_DKB:0 "The Don Kuban Union is nothing more than an artificial state, created by Germany to serve as buffer space between us and the Caucasus. We shall crush these Cossack pretenders and bring the Russians in this lands back under our rightful control!"
-RUS_Attack_Caucasus_desc_AZE:0 "The Crown Jewel of the Caucasus Region, Azerbaijan is rich in oil that is vitally needed for our armies and industry . We shall bring this lost piece of the Empire back under our control once more."
+RUS_Attack_Caucasus_DKB:0 "돈-쿠반 연합의 의중을 묻다"
+RUS_Attack_Caucasus_desc_DKB:0 "돈 쿠반 연합은 우리와 코카서스 지역 사이의 완충지대 역할을 하기 위해 독일이 만든 인공적인 지역에 지나지 않습니다. 우리는 이 코사크의 권리를 주장하는 자들을 뭉개버리고 이 땅에 있는 러시아인들을 우리의 정당한 명분하에 다시 데려올 것입니다!"
+
+RUS_Attack_Caucasus_AZE:0 "바쿠 유전 지대"
+RUS_Attack_Caucasus_desc_AZE:0 "코카서스 지역의 왕관, 아제르바이잔은 우리의 군대와 산업에 매우 필요한 기름들을 풍부하게 가지고 있습니다. 우리는 이 잃어버린 제국의 일부분을 다시 한번 우리의 통제 아래 되돌려 놓을 것입니다."
+
+RUS_Attack_Caucasus_GEO:0 "조지아의 의중을 묻다"
 RUS_Attack_Caucasus_desc_GEO:0 "One thing is certain, Georgia is a region of utmost importance to the Empire. On top of the Caucasus mountains being the perfect defensive terrain to put between us and our enemies, the territory encompasses several oil pipelines which Germany depends on. We should seek to reassert our control as soon as possible."
+
+RUS_Attack_Caucasus_ARM:0 "아르메니아의 지위"
 RUS_Attack_Caucasus_desc_ARM:0 "Now that we’ve consolidated our hold on the Caucasus, we should turn our attention to Armenia. Our Christian brethren have suffered for far too long after the Empire shattered, we shall take them under our protection once more."
 
 RUS_Claim_Greater_Armenia:0 "Claim Greater Armenia"
