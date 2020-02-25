@@ -384,10 +384,10 @@ AUS_ANI_tirol:0 "ANI를 종식시키다"
 AUS_ANI_tirol_desc:0 "이탈리아 민족주의자 연합(Italian Nationalist Association)은 분명히 필사적으로 싸워야 하는 적입니다. 그 지도자들은 미쳤고, 그들의 민족주의적 사상은 위험하며, 우리의 남쪽 영토에 대한 그들의 요구는 수용될 수 없습니다. 우린 그들이 생각하는 만큼 약하지 않으며, 벌레같은 그들은 반드시 분쇄될 것입니다."
 
 AUS_italy_republic_friendship:0 "밀라노와의 친선"
-AUS_italy_republic_friendship_desc:0 "Since the southern Italian states seem unlikely to help us restore the Federation, we should put all our hopes in our ally in Milan. They have kept faith with us for a long time, and we shall return that friendship."
+AUS_italy_republic_friendship_desc:0 "어느 시점부터 이탈리아 남부의 국가들이 우리의 연방 재건에 도움을 주지 않자, 우리는 밀라노의 동맹에게 모든 희망을 걸어야 했습니다. 그들은 오랫동안 우리와의 신뢰 관계를 다져왔으며, 이제는 그들과의 친선 관계가 복구되어야 합니다."
 
 AUS_unify_italy:0 "이탈리아 통일"
-AUS_unify_italy_desc:0 "The rising of the Italian syndicalists in Turin split the country in two, with the French backed Socialist Republic of Italy in the West, and the Italian Republic on our border. With Germany and France openly hostile to each other, helping out the Republic will not only endear us to them, but secure our flank for a war with France."
+AUS_unify_italy_desc:0 "이탈리아의 생디칼리스트들은 토리노에서 떠올랐고, 이는 이 지역을 둘로 갈라 놓았습니다. 프랑스의 지원을 받고 있는 서쪽의 이탈리아 사회주의 공화국과, 우리 국경과 접하고 있는 이탈리아 공화국이 그것입니다. 독일과 프랑스가 서로 적대적인 상황에서, 이탈리아 공화국을 돕는 것은 그들과의 친선을 다지기 위함도 있지만, 프랑스와의 전쟁 시 우리의 측면을 보호하기 위함도 있습니다."
 
 AUS_transcarpathian_railway:0 "카르파티아 횡단 철도"
 AUS_transcarpathian_railway_desc:0 "제국의 먼 끝에 도달하는 것은 지난 20년간 어려운 일이었으며, 헝가리는 철도 네트워크를 현대화하는 것을 거부해왔습니다. 이제 우리가 다시 그들을 통제할 수 있게 되었으므로,  카르파티아를 경유하는 고속철도를 건설하는 오래된 계획을 구현하십시오."
@@ -783,13 +783,13 @@ austria.60.d:0 "헝가리는 오스트리아의 통치에 강제로 복종하기
 austria.60.a:0 "마침내 통합이 이루어졌다."
 
 ### Italian Question ###
-austria.100.t:0 "Our Relations With Naples"
-austria.100.d:0 "Though our Italian Federation and plans for an Austrian-dominated Italy failed, we are far stronger now than we were in 1926. Should we send an envoy to the court of King Ferdinand III, asking him to mend our broken ties, and help restore order to Italy?"
-austria.100.a:0 "Renew our southern ties!"
-austria.100.b:0 "Milan is a safer bet."
+austria.100.t:0 "우리와 나폴리 간의 관계"
+austria.100.d:0 "비록 우리가 구상한 이탈리아 연방과 오스트리아 영향권 내에 이탈리아를 편입시키겠다는 계획은 실패했지만, 지금 우리는 1926년보다 훨씬 강력합니다. 국왕 페르디난트 3세(Ferdinand III)의 궁정에 우리와의 연결을 회복하고 이탈리아의 질서를 복원할 것을 돕겠다는 내용의 사절을 보내야 할까요?"
+austria.100.a:0 "우리와 남쪽 정부 간의 연결을 회복하라!"
+austria.100.b:0 "밀라노에 베팅하는 편이 더 안전하다."
 
-austria.101.t:0 "A Message of Friendship From Austria"
-austria.101.d:0 "Today, a distinguished Austrian ambassador arrived in the capital. He spoke of the great friendship our two nations have always enjoyed. He also said that the Imperial and Royal Government viewed with trepidation the threat to our west, and that Kaiser Karl encouraged swift reunification."
+austria.101.t:0 "오스트리아에서 온 친선 메시지"
+austria.101.d:0 "오늘, 오스트리아의 대사가 수도에 도착했습니다. 그는 오스트리아가 양국간 친선 관계를 수립할 준비가 언제나 되어있다고 말했습니다. 또 제국 정부는 서쪽에서의 위협에 굉장한 두려움을 느끼고 있으며, 카를 황제께서는 신속한 재통합에 동의하신다고 합니다."
 austria.101.a:0 "이것은 좋은 생각처럼 들린다."
 austria.101.b:0 "오스트리아는 우리의 천적이다."
 
@@ -808,7 +808,7 @@ austria.104.a:0 "우리는 그들을 쳐부술 것이다!"
 austria.104.b:0 "우리는 그렇게 할 수 없다."
 
 austria.105.t:0 "이탈리아 전쟁"
-austria.105.d:0 "In response to our suggestion, Italy declared war on the SRI. While they have undoubtedly prepared for this day, we could augment their weapon stores with some of our own equipment, and even set up some volunteer regiments from our Italian-speaking lands. Should we send them this aid?"
+austria.105.d:0 "우리 제안을 받아들여, 이탈리아는 SRI에 전쟁을 선포했습니다. 분명 그들은 이 날만을 기다렸을 것입니다. 우리는 그들에게 장비를 지원할 수 있으며, 우리의 이탈리아어권 영토에서 의용군을 징발하여 파견할 수 있습니다. 그들에게 원조를 보내야 할까요?"
 austria.105.a:0 "그들을 지원한다."
 austria.105.b:0 "그들 스스로 할 수 있을 것이다."
 
@@ -845,7 +845,7 @@ ausgleich.new.200.c:0 "더 크게 생각해야 한다. 이중 제국의 모든 �
 ausgleich.new.201.t_kingdoms:0 "대타협의 다른 국가들"
 ausgleich.new.201.d_kingdoms:0 "보도에 따르면 오스트리아는 1937년 대타협 재협상에 참여하기 위해 제국의 다른 지역 대표단을 파견했습니다. 유력한 정치인들은 대타협에 대한 반대 입장을 표명하면서 협상에서 오스트리아가 우위를 점할 수 있는 정치적 책략이라고 불렀습니다."
 ausgleich.new.201.t_peoples:0 "슬로바키아와 루마니아가 오스트리아에 초청되다"
-ausgleich.new.201.d_peoples:0 "As if it weren't enough that the Viennese government has called for Czechs, Poles, and all the other ethnicities of the other side of the Empire to the negotiation table, reportedly they have done the same even for nationalist groups within our borders!\n\nThe Slovaks and Romanians in the Carpathian Basin had been subdued successfully for centuries, but support from Vienna has awoken underground nationalist movements from their slumber."
+ausgleich.new.201.d_peoples:0 "빈 정부가 체코인, 폴란드인 등 제국의 다른 인종들을 협상 테이블에 초청한 것으로는 충분치 않았나 봅니다. 보도에 따르면, 그들은 제국 내에서 민족주의 단체들끼리의 회합을 이미 가졌다고 합니다!\n\n슬로박인들과 카르파티아 분지의 루마니아인들은 수백 년 동안 성공적으로 진압되었지만, 빈으로부터의 지원은 잠자던 민족주의 지하 운동의 콧털을 건드리고 말았습니다."
 ausgleich.new.201.a:0 "이건 미친 짓이다. 공식적으로 그들의 결정에 항의하라."
 ausgleich.new.201.b:0 "그냥 항의만으로는 충분하지 않다. 우리는 대타협에 불참한다."
 ausgleich.new.201.c:0 "우리는 시대의 흐름에 맞춰야 한다."
@@ -856,10 +856,10 @@ ausgleich.new.202.a:0 "영광스럽군."
 ausgleich.new.202.b:0 "정말 영광스럽도다. 우리는 명령대로 할 것이다."
 ausgleich.new.202.c:0 "[AUS_ausgleich_dominated_delegation]"
 
-AUS_ausgleich_delegation_kingdom:0 "[Root.GetAdjective] delegation]"
-AUS_ausgleich_delegation_CZE:0 "delegation of both Bohemian-Germans and Czechs"
-AUS_ausgleich_delegation_GAL:0 "delegation of both Poles and Ruthenians"
-AUS_ausgleich_delegation_CRO:0 "delegation of all Illyrian peoples"
+AUS_ausgleich_delegation_kingdom:0 "[Root.GetAdjective]의 대표단]"
+AUS_ausgleich_delegation_CZE:0 "독일계 보헤미아인들과 체코인들로 이루어진 대표단"
+AUS_ausgleich_delegation_GAL:0 "폴란드인들과 루테니아인들로 이루어진 대표단"
+AUS_ausgleich_delegation_CRO:0 "일리리아인들로 이루어진 대표단"
 
 AUS_ausgleich_dominated_delegation_CZE:0 "We can go a bit heavier on the Bohemian-Germans though, can't we?"
 AUS_ausgleich_dominated_delegation_GAL:0 "We are a Polish state. We will send our elite, not Ruthenian peasants."
