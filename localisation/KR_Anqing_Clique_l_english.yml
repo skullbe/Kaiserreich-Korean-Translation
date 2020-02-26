@@ -89,7 +89,7 @@ anq_50_army_xp_tt_blocked:0 "§R50§! £army_experience"
 
 anq_gains_national_spirit:0 "국민정신 획득"
 
-cred_check:0 "§Y80 £anq_credibility Credibility§!보다 높음"
+cred_check:0 "§Y80 £anq_credibility §!보다 높음"
 
 anq_decrease_cred_1:0 "§R-1§!에 £anq_credibility §Y신뢰성§!을 더합니다\n"
 anq_decrease_cred_5:0 "§R-5§!에 £anq_credibility §Y신뢰성§!을 더합니다\n"
@@ -151,13 +151,13 @@ anq_increase_qing_shipments_war_tt:0 "§G청이 강과 철도를 통해 전달�
 
 ANQ_nanjing_defections_tt:0 "§G산둥이나 국민당 좌파와 싸우길 원치 않는 난징의 부대들이 우리 군에 전향했습니다!§!"
 
-anq_declare_war_decision_sqi_tt:0 "§Y산둥§! 공격 £decision_icon_small §H결정§!이 R해금되었습니다. 60일 내에 자동으로 선전포고가 이뤄집니다.§!\n"
-anq_declare_war_decision_chi_tt:0 "§Y국민당§! 공격 £decision_icon_small §H결정§!이 R해금되었습니다. 30일 내에 자동으로 선전포고가 이뤄집니다.§!\n"
+anq_declare_war_decision_sqi_tt:0 "R§Y산둥§! 공격 £decision_icon_small §H결정§!이 해금되었습니다. 60일 내에 자동으로 선전포고가 이뤄집니다.§!\n"
+anq_declare_war_decision_chi_tt:0 "R§Y국민당§! 공격 £decision_icon_small §H결정§!이 해금되었습니다. 30일 내에 자동으로 선전포고가 이뤄집니다.§!\n"
 
 anq_fengtian_will_decide_strategy_tt:0 "우리는 봉천 정부에게 재건 프로젝트를 도와달라 제안했습니다. 만약 그들이 동의한다면 그들은 곧 일본에 참여 의사를 물을 것입니다. 만약 둘 중 하나라도 동의하지 않는다면, 봉천 정부는 다른 방안을 찾으려 할 것입니다.\n"
 anq_fengtian_fast_strike_tt:0 "봉천은 일본의 도움으로 당장 베이징을 공격할 수 있지만, 우리의 동의를 받기 전에는 실행하지 않을 것입니다. §R이에 동의한다면 우리는 내부가 난장판인 상황에서 몇 달 안에 전쟁에 돌입해야 합니다.§!\n"
 anq_fengtian_will_other_strategy_tt:0 "우리는 이에 동의하지 않는다. 봉천 정부는 다른 결정을 내려야 할 것이다.\n"
-anq_fngjap_back_reconstruction_tt:0 "봉천 정부와 일본은 가능한 빨리 대규모 종합 재건 계획을 실행하기로 했습니다. 이를 시작하기 위해 §Y공동 재건§! 포커스를 완료하십시오.\n"
+anq_fngjap_back_reconstruction_tt:0 "봉천 정부와 일본은 가능한 빨리 대규모 종합 재건 계획을 실행하기로 했습니다. 이를 시작하기 위해 §Y공동 재건§! 중점을 완료하십시오.\n"
 anq_reconstruction_plan_effects_tt:0 "£decision_icon_small §H재건 결정§!과 §H국민당과 일관도로 인한 불안§!을 위한 £pol_power 정치력 및 시간 비용이 크게 감소합니다.\n"
 ANQ_fng_waits_18_months_tt:0 "봉천 정부는 최소 18개월 정도 우리가 회복할 수 있는 시간을 줄 것입니다.\n"
 ANQ_fng_can_now_proclaim_tt:0 "봉천 정부는 베이징과의 전쟁을 위한 최종 준비를 시작합니다."
@@ -181,11 +181,11 @@ anq_two_divisions_qing_land:0 "§Y[QIE.GetNameWithFlag]§!과(와)의 전쟁으�
 
 anq_will_lead_war_tt:0 "§R청의 팩션에 가입하면 즉각 전쟁에 참여하게 됩니다!§!\n"
 
-anq_instructions_destruction_spirits_tt:0 "§£decision_icon_small §H결정§!과 §H포커스§!를 g통해서, 이 부정적인 스피릿들은 말소될 것입니다.§!\n"
+anq_instructions_destruction_spirits_tt:0 "§£decision_icon_small §H결정§!과 §H중점§!을 g통해서, 이 부정적인 국민 정신들은 말소될 것입니다.§!\n"
 anq_has_widespread_destruction:0 "§Y광범위한 파괴§! 아이디어를 가지고 있습니다.\n"
 anq_has_derelict_industry:0 "§Y버려진 산업§! 아이디어를 가지고 있습니다.\n!"
 
-anq_instructions_kuomintang_yiguandao_tt:0 "§g국민당과 위관도는 우리의 지배에 저항하고, 지속적으로 우리에게 공격을 가할 것입니다!  £decision_icon_small §H결정§!을 통하여, 그들은 일시적으로나마 어느 정도 억압될 것입니다. §H포커스§!를 완료하면 추가적인 £decision_icon_small §H결정§!이 해금되어, 적들을 영구히 없애버리고 일부 스피릿들을 제거할 것입니다.§!\n"
+anq_instructions_kuomintang_yiguandao_tt:0 "§g국민당과 일관도는 우리의 지배에 저항하고, 지속적으로 우리에게 공격을 가할 것입니다!  £decision_icon_small §H결정§!을 통하여, 그들은 일시적으로나마 어느 정도 억압될 것입니다. §H중점§!을 완료하면 추가적인 £decision_icon_small §H결정§!이 해금되어, 적들을 영구히 없애버리고 일부 국민 정신들을 제거할 것입니다.§!\n"
 
 anq_unlocks_xinhai_loyalists_tt:0 "신해혁명 지지 단체들을 육성할 £decision_icon_small §H결정§!이 해금되었습니다.\n"
 anq_commit_fengtian_tt:0 "§R이로써 안경 군벌은 봉천 정부의 수복 전쟁에 확실히 참여하기로 결정합니다. 전투가 일단 시작된 이상 참여를 거부할 수는 없습니다. 즉, 안경 군벌은 전쟁을 준비해야 합니다.§!\n"
@@ -193,51 +193,51 @@ anq_abandon_fengtian_tt:0 "§봉천 정부를 R버린다면 안경 군벌은 중
 
 anq_unlocks_war_beijing_tt:0 "[QIE.GetName]을(를) 공격하기 위한 £decision_icon_small §H결정§!이 해금되었습니다.\n"
 ANQ_can_attack_hnngxc_tt:0 "[GXC.GetName]과(와) [HNN.GetName]을(를) 공격하기 위한 £decision_icon_small §H결정§!이 해금되었습니다.\n"
-ANQ_can_attack_hnngxc_proqie_tt:0 "Unlocks £decision_icon_small §HDecisions§! to attack [GXC.GetName] and [HNN.GetName] when at peace.\n"
+ANQ_can_attack_hnngxc_proqie_tt:0 "평화시 [GXC.GetName]과(와) [HNN.GetName]을(를) 공격하기 위한 £decision_icon_small §H결정§!이 해금되었습니다.\n"
 
 #Integration and governor tooltips
-anq_integration_time_down_tt:0 "The decision to integrate the province as a core state of [ANQ.GetNameDef] completes §G20§! Days faster.\n"
-anq_integration_cost_down_tt:0 "The decision to integrate the province as a core state of [ANQ.GetNameDef] costs §G30§! £pol_power Political Power less.\n"
-anq_integration_cost_up_tt:0 "The decision to integrate the province as a core state of [ANQ.GetNameDef] costs §R30§! £pol_power Political Power more.\n"
-anq_integration_costspeed_down_chenyzhe_tt:0 "The decision to integrate the province as a core state of [ANQ.GetNameDef] costs §G50§! £pol_power Political Power less and takes §G70§! Days shorter to complete.\n"
-anq_integration_costspeed_down_shangyzhe_tt:0 "The decision to integrate the province as a core state of [ANQ.GetNameDef] costs §G35§! £pol_power Political Power less and takes §G50§! Days shorter to complete.\n"
-anq_integration_costspeed_down_tt:0 "The decision to integrate the province as a core state of [ANQ.GetNameDef] costs §G20§! £pol_power Political Power less and takes §G30§! Days shorter to complete.\n"
-anq_integration_costspeed_up_tt:0 "The decision to integrate the province as a core state of [ANQ.GetNameDef] costs §R30§! £pol_power Political Power more and takes §R20§! Days longer to complete.\n"
-anq_integration_costspeed_up_all_tt:0 "The decisions to integrate the Five Provinces as core states of [ANQ.GetNameDef] cost §R10§! £pol_power Political Power more and take §R5§! Days longer to complete.\n"
+anq_integration_time_down_tt:0 "한 지역을 [ANQ.GetNameDef]의 핵심 주로 통합시키는 작업이 §G20§!일 더 빨리 완료됩니다.\n"
+anq_integration_cost_down_tt:0 "한 지역을 [ANQ.GetNameDef]의 핵심 주로 통합시키는 작업에 소모되는 £pol_power 정치력이 §G30§!만큼 줄어듭니다.\n"
+anq_integration_cost_up_tt:0 "한 지역을 [ANQ.GetNameDef]의 핵심 주로 통합시키는 작업에 §R30§!만큼의 £pol_power 정치력이 추가로 소모됩니다.\n"
+anq_integration_costspeed_down_chenyzhe_tt:0 "[ANQ.GetNameDef]의 핵심 주로 통합시키는 작업에 §G50§!만큼의 £pol_power 정치력이 덜 소모되고, 소요 시간은 §G70§!일만큼 줄어들었습니다.\n"
+anq_integration_costspeed_down_shangyzhe_tt:0 "한 지역을 [ANQ.GetNameDef]의 핵심 주로 통합시키는 작업에 §G35§!만큼의 £pol_power 정치력이 덜 소모되고, 소요 시간은 §G50§!일만큼 줄어들었습니다.\n"
+anq_integration_costspeed_down_tt:0 "한 지역을 [ANQ.GetNameDef]의 핵심 주로 통합시키는 작업에 §G20§!만큼의 £pol_power 정치력이 덜 소모되고, 소요 시간은 §G30§!일만큼 줄어들었습니다.\n"
+anq_integration_costspeed_up_tt:0 "한 지역을 [ANQ.GetNameDef]의 핵심 주로 통합시키는 작업에 §R30§!만큼의 £pol_power 정치력이 더 소모되고, 소요 시간은 §R20§!일만큼 늘어났습니다.\n"
+anq_integration_costspeed_up_all_tt:0 "5개 성을 [ANQ.GetNameDef]의 핵심 주로 통합시키는 작업에 §R10§!만큼의 £pol_power 정치력이 더 소모되고, 소요 시간은 §R5§!일만큼 늘어났습니다.\n"
 
-anq_new_governor_jiangsu_tt:0 "We will have to wait until we can find a better candidate."
-anq_has_installed_all_governors_tt:0 "Has installed all provincial governors. §gIf a new candidate has to be found, this could take a month or two.§!"
-anq_can_integrate_tt:0 "Unlocks £decision_icon_small §YProvince Integration§! decisions.\n"
-anq_can_integrate_five_provinces_tt:0 "Complete the §YFate of the Governors§! focus, install the new governors and then begin the §YNew Provincial Governments§! focus in order to unlock this decision."
-anq_has_relocated_capital_tt:0 "The capital must have been relocated to Nanjing. Complete the §YNanjing Purges§! focus for events to significantly reduce the cost and time of this decision."
-anq_nanjing_purge_integration_tt:0 "§gThese purges will give options to significantly reduce the time it takes to§! §Yintegrate Nanjing!§!\n"
+anq_new_governor_jiangsu_tt:0 "우리는 더 좋은 후보를 찾을 수 있을 때까지 기다려야 할 것입니다."
+anq_has_installed_all_governors_tt:0 "이(가) 모든 성장을 임명했습니다. §g만약 새로운 후보를 찾아야 한다면, 그 작업은 한두달 정도 걸릴 수 있습니다.§!"
+anq_can_integrate_tt:0 "£decision_icon_small §Y지역 통합§! 결정이 해금되었습니다.\n"
+anq_can_integrate_five_provinces_tt:0 "이 결정을 해금하려면 §Y성장들의 운명s§! 중점을 완료하고, 새로운 성장을 임명한 뒤, §Y새로운 성 정부§! 중점을 시작하십시오."
+anq_has_relocated_capital_tt:0 "수도는 난징으로 다시 바뀌어야 합니다. 이 결정에 소모되는 비용과 시간을 크게 줄이려면 §Y난징 대학살§! 중점을 완료하십시오."
+anq_nanjing_purge_integration_tt:0 "§g이 학살을 통해 우리는 §Y난징을 통합하다!§! 완료에 드는 시간을 크게 줄여줄 선택지들을 얻게 되었습니다\n"
 
 #KMT/Yiguandao tooltips
-anq_can_suppress_tt:0 "Suppression can only reduce the Unrest Level to a minimum of 1!"
+anq_can_suppress_tt:0 "불만도가 최소 1 이상일 때에만 억압을 통해 불만도를 낮출 수 있습니다!"
 
-anq_increase_kmt_unrest_tt:0 "§RIf no suppression actions are taken against the KMT, they will be able to stage an attack!§! §YKMT Unrest Level§! [getanqkmtcanincrease]"
-anq_unrest_can_increase:0 "will increase by §R1§!."
-anq_unrest_cannot_increase:0 "will not increase, as it has already reached the maximum level."
-anq_increase_yiguandao_unrest_tt:0 "§RIf no suppression actions are taken against the Yiguandao, they will be able to cause chaos unhindered!§! §YYiguandao Unrest Level§! [getanqyiguandaocanincrease]"
+anq_increase_kmt_unrest_tt:0 "§R국민당에 대한 억압 정책이 취해지지 않는다면, 그들이 공격을 감행할지 모릅니다!§! §Y국민당 불만도§! [getanqkmtcanincrease]"
+anq_unrest_can_increase:0 "이(가) §R1§만큼 증가할 것입니다!."
+anq_unrest_cannot_increase:0 "은(는) 최고 수준에 이미 도달했기 때문에 더 이상 증가하지 않을 것입니다."
+anq_increase_yiguandao_unrest_tt:0 "§R일관도에 대한 억압 정책이 취해지지 않는다면, 그들은 아무 방해도 받지 않은채 혼돈을 야기할지도 모릅니다!§! §Y일관도 불만도§! [getanqyiguandaocanincrease]"
 
-anq_decrease_kmt_unrest_tt:0 "Taking this action will decrease §YKMT Unrest Level§! by §G1§!."
-anq_decrease_yiguandao_unrest_tt:0 "Taking this action will decrease §YYiguandao Unrest Level§! by §G1§!."
+anq_decrease_kmt_unrest_tt:0 "이 행동은 §Y국민당 불만도§!를 §G1§만큼 감소시킬 것입니다!."
+anq_decrease_yiguandao_unrest_tt:0 "이 행동은 §Y일관도 불만도§!를 §G1§만큼 감소시킬 것입니다!."
 
-anq_reduce_kmt_available_tt:0 "We will have suppressed KMT activities enough that we will be able to focus on fully eliminating them!"
-anq_reduce_yiguandao_available_tt:0 "We will have suppressed Yiguandao activities enough that we will be able to focus on fully eliminating them!"
+anq_reduce_kmt_available_tt:0 "우리는 국민당을 완전히 제거할 수 있을 정도로 충분히 국민당의 활동을 억압해나갈 것입니다!"
+anq_reduce_yiguandao_available_tt:0 "우리는 일관도를 완전히 제거할 수 있을 정도로 충분히 일관도의 활동을 억압해나갈 것입니다!"
 
-anq_remove_kmt_unrest_tt:0 "§GTaking this action will permanently end the KMT unrest.§!\n"
-anq_remove_yiguandao_unrest_tt:0 "§GTaking this action will permanently end the Yiguandao unrest.§!\n"
+anq_remove_kmt_unrest_tt:0 "§G이 행동은 영구적으로 국민당으로 인한 불만을 끝낼 것입니다.§!\n"
+anq_remove_yiguandao_unrest_tt:0 "§G이 행동은 영구적으로 일관도로 인한 불만을 끝낼 것입니다.§!\n"
 
-anq_fujian_encirclement_focus_tt:0 "§GCompleting this focus will, if the KMT Unrest Level is 1, unlock the §YAnti-KMT Campaigns§! decision to permanently remove KMT Unrest.§!"
-anq_jiangsu_yiguandao_focus_tt:0 "§GCompleting this focus will, if the Yiguandao Unrest Level is 1, unlock the §YAnti-Yiguandao Crackdowns§! decision to permanently remove Yiguandao Unrest.§!"
+anq_fujian_encirclement_focus_tt:0 "§G국민당 불만도가 1인 상태에서 이 중점이 완료된다면, 국민당으로 인한 불만을 영구적으로 제거할 §Y반국민당 작전§! 결정이 해금됩니다.§!"
+anq_jiangsu_yiguandao_focus_tt:0 "§G일관도 불만도가 1인 상태에서 이 중점이 완료된다면, 일관도로 인한 불만을 영구적으로 제거할 §Y일관도 탄압§! 결정이 해금됩니다.§!"
 
-anq_kmt_unrest_triggered_by_decision_tt:0 "§RThis negative event was triggered by the mission §YSuppress KMT Activities§! timing out. Activate the mission to temporarily suppress the KMT until you can permanently deal with them by completing the §YFujian Encirclement Campaigns§! focus.§!\n"
-anq_yiguandao_unrest_triggered_by_decision_tt:0 "§RThis negative event was triggered by the mission §YSuppress Yiguandao Activities§! timing out. Activate the mission to temporarily suppress the Yiguandao until you can permanently deal with them by completing the §YJiangsu Yiguandao Policies§! focus.§!\n"
+anq_kmt_unrest_triggered_by_decision_tt:0 "§R이 좋지 않은 사건은 §Y국민당 활동 억압§! 임무가 종료되며 발생했습니다. §Y푸젠 포위 작전§! 중점을 통해 국민당 세력을 영구적으로 처리할 수 있을 때까지 잠깐이나마 국민당 억압 임무를 활성화하십시오.§!\n"
+anq_yiguandao_unrest_triggered_by_decision_tt:0 "§R이 좋지 않은 사건은 §Y일관도 활동 억압§! 임무가 종료되며 발생했습니다. §Y장쑤 일관도 정책s§! 중점을 통해 일관도 세력을 영구적으로 처리할 수 있을 때까지 잠깐이나마 일관도 억압 임무를 활성화하십시오.§!\n"
 
 ## Decisions ##
-ANQ_anti_concessionists:0 "The Anti-Concessionist Movement"
-ANQ_anti_concessionists_desc:0 "With the old League of Eight Provinces in ruin and anti-concessionist rethoric running rampant, [ANQ.GetLeader] has successfully pushed himself forward as a beacon for the movement in China. Those that enabled his rise however could just as easily let him fall should he betray their interests. Nonetheless, [ANQ.GetLeader] knows very well that following their every wish will lead to an Anqing without the resources necessary to bring about this liberation of China.\n\n§YCredibility§! §grepresents the overall legitimacy [ANQ.GetLeader] has within the anti-concessionist movement and the credibility of his claims to further their cause.§!\n\n£anq_credibility  §YCredibility§!  :  [?ANQ.credibility_factor]\n"
+ANQ_anti_concessionists:0 "반연성주의 운동"
+ANQ_anti_concessionists_desc:0 "오래된 팔성연합에 금이 가고 반연성주의자들의 목소리가 높아져만 갈때, [ANQ.GetLeader]은(는) 중국 내 운동의 선봉장이 되는 데 성공했습니다. 여기까지 올라오는 데 많은 사람들의 도움이 있었습니다. 하지만 그들의 이익을 침해한다면 손쉽게 그를 무너뜨릴 것입니다. 그럼에도 불구하고, [ANQ.GetLeader]은(는) 그들의 바람을 들어준다면 특별한 자원 없이도 안경 군벌에 중국 통일을 가져올 수 있음을 잘 알고 있습니다.\n\n§Y신뢰성§! §g은 [ANQ.GetLeader]이(가) 가지고 있는 반연성주의 운동에서의 대표성과, 그가 그들의 대의명분에 얼마나 적합한지를 보여줍니다.§!\n\n£anq_credibility  §Y신뢰성§!  :  [?ANQ.credibility_factor]\n"
 
 ANQ_antiwestern_volunteers:0 "Recruit Anti-Western Volunteers"
 ANQ_antiwestern_volunteers_desc:0 "The hate against Westerners is strong. We must harness this hate and organize those who arrive here, fleeing from the foreign puppet in Nanjing, in new divisions of volunteers to support our forces. We are heavily outnumbered and we must make use of all who wish to help us."
