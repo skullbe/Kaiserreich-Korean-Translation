@@ -207,58 +207,58 @@ RUS_Invest_In_The_Ural_Zemstva:0 "우랄 젬스트보에 투자"
 RUS_Invest_In_The_Siberian_Zemstva:0 "시베리아 젬스트보에 투자"
 
 ### Focuses ###
-RUS_Political_Stabilisation:0 ""
-RUS_Political_Stabilisation_desc:0 "While the death of president Alexander Kerensky has caused the largest crisis in recent history, we have managed to weather the storm. With the situation stabilising, it's time we look to our future - in whatever form it may take."
+RUS_Political_Stabilisation:0 "정치 안정화"
+RUS_Political_Stabilisation_desc:0 "케렌스키 대통령의 죽음은 역사상 가장 큰 위기를 초래했지만, 우리는 가까스로 이 고난을 이겨냈습니다. 이제 점차 상황이 안정되면서, 어떤 형태로든 우리의 미래를 내다볼 때입니다."
 
-RUS_Restore_The_Monarchy:0 "Restore The Monarchy"
-RUS_Restore_The_Monarchy_desc:0 "The failure of the Republic and its ability to adapt to the crisis has finally brought it full circle.  Only through the guidance of the Tsar can Russia reclaim her place on the world stage. Like a phoenix rising from the ashes, we shall restore the Empire to its former glory."
+RUS_Restore_The_Monarchy:0 "왕정복고"
+RUS_Restore_The_Monarchy_desc:0 "공화국의 실패와 위기에 대응하는 능력의 부족때문에, 우리는 완전히 원점으로 돌아왔습니다. 차르의 지도를 받는 러시아만이 세계 무대에서의 지위를 되찾을 수 있습니다. 잿더미에서 솟아오르는 불사조처럼, 우리는 제국을 이전의 영광스러운 국가로 회복시켜야 합니다."
 
-RUS_A_Constitutional_Monarchy:0 "A Constitutional Monarchy"
-RUS_A_Constitutional_Monarchy_desc:0 "While the autocratic rule of a Tsar turned out to not offer stability in the long run, but rather bloody revolts and coups, perhaps Russia is ready for a new Romanov, supported by a strong constitution."
+RUS_A_Constitutional_Monarchy:0 "입헌군주제"
+RUS_A_Constitutional_Monarchy_desc:0 "차르의 독재정치가 장기적인 안정을 주는 것이 아니라, 오히려 피비린내 나는 반란과 쿠데타를 일으키는 것으로 판명되었기 때문에, 러시아는 강력한 헌법과 함께 새로운 '로마노프'를 맞이할 준비가 되어 있습니다."
 
-RUS_New_Constitution:0 "New Constitution"
-RUS_New_Constitution_desc:0 "With the monarch in place we would need a new constitution which clearly outlines the amount of influence the monarch should have in comparison to the senate and the Duma. This is a time of change and many voices wish to be heard."
+RUS_New_Constitution:0 "새로운 헌법"
+RUS_New_Constitution_desc:0 "군주제가 자리를 잡게 되면 상원과 의회에 비해 군주가 가질 권력의 양을 분명히 보여주는 새로운 헌법이 필요할 것입니다. 지금은 변화의 시기이고, 많은 의견들이 필요합니다."
 
-RUS_Devoted_Subjects:0 "Devoted Subjects"
-RUS_Devoted_Subjects_desc:0 "In every home of Russia, people hang a photo of the Tsar and his family upon the wall. Whenever the Tsar participates in a public event, he is cheered and beloved. He stands above party politics and is a symbol of our unity."
+RUS_Devoted_Subjects:0 "국가원수에 헌신" #Devoted Subjects
+RUS_Devoted_Subjects_desc:0 "러시아의 모든 가정에는 차르와 그의 가족들의 사진을 벽에 걸어 놓습니다. 차르가 공개 행사에 참여할 때마다 그는 사람들의 환호와 사랑을 받습니다. 그는 정당간의 정치활동을 초월하고, 국가 단결의 상징입니다."
 
-RUS_Imperial_Benevolence:0 "Imperial Benevolence"
-RUS_Imperial_Benevolence_desc:0 "The idea of the Tsar being a feared tyrant is a thing of the past. Our Tsar is beloved and benevolent, like a stern but loving father who looks after us all."
+RUS_Imperial_Benevolence:0 "황제의 박애"
+RUS_Imperial_Benevolence_desc:0 "차르가 모든 이들이 두려워하는 폭군이라는 인식은 과거의 일입니다. 차르는 우리 모두를 돌보는 엄격하지만 자애로운 아버지입니다."
 
-RUS_Imperial_Glory:0 "Imperial Glory"
+RUS_Imperial_Glory:0 "제국의 영광"
 RUS_Imperial_Glory_desc:0 "[RUS_Imperial_Glory_desc_text]"
-RUS_Imperial_Glory_desc_kirill:0 "The last thirty years of unrest has proved once and for all that the Russian people would be better off governed by an ironfisted Tsar than through muddled elections and public unrest. What better option than the former Naval Officer Kirill Vladimirovich?"
-RUS_Imperial_Glory_desc_dmitry:0 "The Romanovs ruled Russia for over three-hundred years. The chaos that followed must come to an end, the sooner the better. The Grand Duke Dmitriy, First cousin to the last Tsar, must now ascend the Imperial throne and restore Russian greatness and glory once and for all."
+RUS_Imperial_Glory_desc_kirill:0 "지난 30년간의 혼란은 러시아 국민들이 불안정한 선거와 대중의 불안을 거치는 것보다, 철권통치하는 차르의 지배를 받는 것이 더 낫다는 것을 증명했습니다. 전 해군 장교인 키릴 블라디미로비치보다 더 나은 선택은 없을 것입니다."
+RUS_Imperial_Glory_desc_dmitry:0 "로마노프 가문은 300년 넘게 러시아를 통치했습니다. 혼란의 후폭풍은 빨리 끝날수록 좋습니다. 드미트리 대공은 마지막 차르의 사촌으로, 이제 황제의 왕좌에 올라 러시아의 위대함과 영광을 영원히 되찾아야 합니다."
 
-RUS_The_Voice_Of_The_Tsar:0 "The Voice Of The Tsar"
-RUS_The_Voice_Of_The_Tsar_desc:0 "The new Tsar of Russia understands not only modern rhetoric, but also enjoys holding speeches to the masses. His booming voice reminds them that the real enemy is not in Russia, it is the ideas of foreigners trying to undermine Russian traditions out of envy."
+RUS_The_Voice_Of_The_Tsar:0 "차르의 목소리"
+RUS_The_Voice_Of_The_Tsar_desc:0 "러시아의 새로운 차르는 현대적인 미사여구를 이해할 뿐만 아니라 대중에게 연설하는 것을 즐깁니다. 그의 우렁찬 목소리는 국민들에게 진정한 적은 러시아에 있지 않다는 것을 상기시켜줍니다. 진정한 적은 질투로 인해 러시아 전통을 훼손하려하는 외국의 사상들입니다."
 
-RUS_Expansion_Of_The_Rumyantsev_Library:0 "Expansion of the Rumyantsev Library"
-RUS_Expansion_Of_The_Rumyantsev_Library_desc:0 "The Rumyantsev Museum was Moscow's first public museum founded in 1831. Its collection of manuscripts and incunabula is large and we definitely should build a new building for the library, where the new generations of the Russian students will be able to educate themselves for the benefit of our country."
+RUS_Expansion_Of_The_Rumyantsev_Library:0 "러시아 국립도서관 확장" #Expansion of the Rumyantsev Library
+RUS_Expansion_Of_The_Rumyantsev_Library_desc:0 "러시아 국립도서관은 1831년에 설립된 모스크바의 첫 번째 공공 도서관입니다. 이 도서관의 원고와 초기 간행본의 수집품은 방대하고, 우리는 반드시 이 도서관을 위한 새로운 건물을 지어야 합니다. 이 도서관으로 러시아의 신세대 학생들이 국가의 이익을 위해 스스로 공부할 수 있을 것입니다."
 
-RUS_Neo_Slavism:0 "Neo-Slavism"
-RUS_Neo_Slavism_desc:0 "Every Slav, no matter where he lives, is a brother to the people of Russia. If he is unjustly governed it is Russia's right, no, Duty, to liberate him and incorporate his nation into the Empire."
+RUS_Neo_Slavism:0 "신슬라브주의"
+RUS_Neo_Slavism_desc:0 "모든 슬라브인들은 어디에 살든지 간에 러시아 사람들에게 형제입니다. 만약 그들이 부당한 대우를 받는다면, 그들을 해방시키고 그 나라를 제국에 편입시키는 것은 러시아의 정당한 권리 입니다."
 
-RUS_Rationalise_The_Laws:0 "Rationalise the Laws"
-RUS_Rationalise_The_Laws_desc:0 "During the reign of Kerensky, Russian legislation constituted a bunch of the old imperial laws and some temporary laws, which were used after the Civil War. Using old groundwork of the imperial lawyers, the Tsar is going to restore his authority over all Russian territories and control local elites through the new laws, such as Criminal and Civil Codes."
+RUS_Rationalise_The_Laws:0 "법 정당화"
+RUS_Rationalise_The_Laws_desc:0 "케렌스키의 통치 기간 동안, 러시아 법률은 내전 이후에 사용된 오래된 제국법과 몇몇 임시법으로 구성되었습니다. 황실 변호사들의 오래된 토대를 이용하여, 차르는 모든 러시아 영토에 대한 그의 권위를 회복하고 형법과 민법 같은 새로운 법을 통해 지역 엘리트들을 통제할 것입니다."
 
-RUS_The_Republic_Survives:0 "The Republic Survives"
-RUS_The_Republic_Survives_desc:0 "In spite of the chaos that Russia was plunged into following Kerensky’s death and subsequently Black Monday, the Republic has survived in spite of it all. The people have made their voices clear, now they look to us to keep the flame of liberty going."
+RUS_The_Republic_Survives:0 "공화국이 살아남다"
+RUS_The_Republic_Survives_desc:0 "러시아는 케렌스키의 죽음과 그에 따른 검은 월요일의 혼란에 빠졌음에도 불구하고, 공화국은 살아남았습니다. 사람들은 그들의 의견을 분명히 표현했고, 이제 그들은 자유의 불꽃을 계속해서 이어가기 위해 정부를 바라보고 있습니다."
 
-RUS_Empower_The_Senate:0 "Empower the Senate"
-RUS_Empower_The_Senate_desc:0 "The power should be transferred from the Duma to the senate. Guided by a strong man, we can heed the wishes of the people while still preventing radical movements from seizing power. Who better a president than Grand Duke Dmitriy?"
+RUS_Empower_The_Senate:0 "상원 지지"
+RUS_Empower_The_Senate_desc:0 "권력은 의회에서 상원으로 옮겨가야 합니다. 강인한 사람의 지도 아래, 급진적인 사상이 권력을 잡는 것을 막으면서 국민들의 소망에 귀를 기울일 수 있습니다. 드미트리 대공보다 더 나은 대통령은 누가 있을까요?"
 
-RUS_Money_For_The_Motherland:0 "Money for the Motherland"
-RUS_Money_For_The_Motherland_desc:0 "With the loyalty of the wealthy, influential aristocracy of Russia secured, it's time we put some pressure on them. By securing taxes on the richest we can use this wealth to raise the living standards for all Russians, establishing a greater national unity."
+RUS_Money_For_The_Motherland:0 "모국을 위한 돈"
+RUS_Money_For_The_Motherland_desc:0 "러시아의 부유하고 영향력 있는 귀족들의 충성심이 확보되었으니, 우리는 이제 그들에게 약간의 압력을 가할 때입니다. 부유층에 대한 세금을 확보함으로써 우리는 이 부를 이용하여 모든 러시아인들의 생활수준을 높이고 더 큰 국민통합을 이끌어낼 수 있습니다."
 
-RUS_Industrial_Expansion:0 "Industrial Expansion"
-RUS_Industrial_Expansion_desc:0 "With many of our friends and associates securing important seats in the senate, it's easy to find the necessary connections to establish and expand the industry belonging to the oligarchs. In return for the opportunity, the aristocrats will be forever grateful."
+RUS_Industrial_Expansion:0 "산업 확장"
+RUS_Industrial_Expansion_desc:0 "우리의 많은 친구들과 동료들이 상원의 중요한 의석을 확보하고 있기 때문에, 상원 의원이 소유하고있는 산업을 설립하고 확장하기 위해 필요한 연결고리를 쉽게 찾을수 있습니다. 이러한 행동에 대한 보답으로 귀족들은 영원히 감사할 것입니다."
 
-RUS_Aristocratic_Army:0 "Aristocratic Army"
-RUS_Aristocratic_Army_desc:0 "Throughout all of history, the vast majority of the worlds greatest generals have all been drafted from the ruling classes of society. No wonder, people used to power know how to command, after all. We should rely on an officer corps of aristocrats to lead our army in the future, as they have in the past."
+RUS_Aristocratic_Army:0 "귀족의 군대"
+RUS_Aristocratic_Army_desc:0 "세계 역사에서, 대부분의 위대한 장군들은 모두 사회의 지배 계층이었습니다. 지배 계층은 사람들을 지휘하는 법을 알기 때문에 당연한 것입니다. 과거에 그랬던 것처럼, 앞으로 우리 군대를 이끌 귀족들의 장교단을 신뢰해야 합니다."
 
-RUS_Empower_The_Duma:0 "Empower the Duma"
-RUS_Empower_The_Duma_desc:0 "The greatest sin of the nation of Russia was that it never fully managed to democratise itself after the Russian civil war. We need to further liberalise our nation, our economy and our people if we are to save ourselves from tyrants, from both left and right."
+RUS_Empower_The_Duma:0 "의회 지지"
+RUS_Empower_The_Duma_desc:0 "러시아의 가장 큰 과오는 내전 이후 완전한 민주화를 이루지 못했다는 것입니다. 우리는 폭군으로부터, 좌우 정당의 싸움으로부터 우리 자신을 구하려면, 우리 나라와 경제, 그리고 우리 국민들을 더욱 자유롭게 할 필요가 있습니다."
 
 RUS_A_Tolerant_Republic:0 "A Tolerant Republic"
 RUS_A_Tolerant_Republic_desc:0 "The modern Russian republic does not trample the minorities of its own nation. It encourages their culture, history and languages, building unity in our love for freedom and democracy rather than from the fear of a God or a Tsar."
