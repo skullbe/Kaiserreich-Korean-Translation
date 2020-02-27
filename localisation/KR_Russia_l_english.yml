@@ -260,48 +260,48 @@ RUS_Aristocratic_Army_desc:0 "세계 역사에서, 대부분의 위대한 장군
 RUS_Empower_The_Duma:0 "의회 지지"
 RUS_Empower_The_Duma_desc:0 "러시아의 가장 큰 과오는 내전 이후 완전한 민주화를 이루지 못했다는 것입니다. 우리는 폭군으로부터, 좌우 정당의 싸움으로부터 우리 자신을 구하려면, 우리 나라와 경제, 그리고 우리 국민들을 더욱 자유롭게 할 필요가 있습니다."
 
-RUS_A_Tolerant_Republic:0 "A Tolerant Republic"
-RUS_A_Tolerant_Republic_desc:0 "The modern Russian republic does not trample the minorities of its own nation. It encourages their culture, history and languages, building unity in our love for freedom and democracy rather than from the fear of a God or a Tsar."
+RUS_A_Tolerant_Republic:0 "관용의 공화국"
+RUS_A_Tolerant_Republic_desc:0 "러시아 공화국은 자국의 소수민족을 짓밟아서는 안 됩니다. 그들의 문화, 역사, 언어를 인정하고 신이나 차르에 대한 두려움이 아닌, 자유와 민주주의를 향한 우리의 사랑만이 공화국을 단결시킬 수 있습니다."
 
-RUS_Reinforce_The_Government:0 "Reinforce the Government"
-RUS_Reinforce_The_Government_desc:0 "Freedom of thought, speech and organisation are all fine and well, but in a nation dominated by chaos these matter little. The government must resume control of the cities, the factories and the countryside."
+RUS_Reinforce_The_Government:0 "정부 강화"
+RUS_Reinforce_The_Government_desc:0 "사상, 언론, 조직의 자유는 보장되어야 하지만, 혼돈이 만연한 상태의 국가에서는 이러한 것들은 도움이 되지 않습니다. 정부는 도시, 공장, 농촌에 대한 통제를 재개해야 합니다."
 
-RUS_Encourage_Free_Thought:0 "Encourage Free Thought"
-RUS_Encourage_Free_Thought_desc:0 "With our nation slowly stabilising we should abandon the old tsarist ways of autocracy and closed mindedness. With former dissident researchers allowed to do their work without harassment, our science projects should speed up significantly."
+RUS_Encourage_Free_Thought:0 "자유주의사상 장려"
+RUS_Encourage_Free_Thought_desc:0 "우리 나라가 서서히 안정되고 있는 가운데, 우리는 기존의 독재 정치와 폐쇄적인 사고방식을 버려야만 합니다. 이전의 반체제 연구자들이 방해 없이 연구를 할 수 있게 되었으므로, 우리의 과학 프로젝트는 크게 속도를 낼 수 있을 것입니다."
 
-RUS_Defend_Democracy:0 "Defend Democracy!"
-RUS_Defend_Democracy_desc:0 "Russia is quickly becoming recognised as the bastion of Democracy, but things don't look so well elsewhere in the world. It is our duty to defend democratic movements in other nations, lest they all fall to autocrats until our nation is surrounded by enemies."
+RUS_Defend_Democracy:0 "민주주의를 수호하라"
+RUS_Defend_Democracy_desc:0 "러시아는 정차 민주주의의 보루로 여겨지고 있지만, 세계의 여러 나라들의 상황은 그리 좋아 보이지 않습니다. 다른 나라의 민주화 운동을 지지하는 것은 우리의 의무이며, 우리 나라가 적대적인 국가들에게 포위되기 전에 주변 국가들이 독재자나 사회주의자들에게 넘어가지 않도록 해야 합니다."
 
-RUS_The_Second_Revolution:0 "The Second Revolution"
-RUS_The_Second_Revolution_desc:0 "With men who are loyal to the workers, not the old elite, in charge, it's time to restore the damages caused by the failed government of Kerensky."
+RUS_The_Second_Revolution:0 "두번째 혁명"
+RUS_The_Second_Revolution_desc:0 "예전의 상류층들이 아닌 노동자들을 위하는 정부가 들어섰으므로, 케렌스키의 실패한 정부가 불러일으킨 피해를 회복할 때입니다."
 
-RUS_A_Firm_Hand:0 "A Firm Hand"
+RUS_A_Firm_Hand:0 "철권"
 RUS_A_Firm_Hand_desc:0 "[RUS_A_Firm_Hand_desc_text]"
-RUS_A_Firm_Hand_desc_savinkov:0 "After the death of our leader Lavr Kornilov, his influential prime minister and revolutionary Savinkov has assumed power in the Republic and declared himself the Vozhd of the Russian nation, surpassing the level of power even the old Tsars had. Boris Savinkov is now the Vozhd, the leader of our nation."
-RUS_A_Firm_Hand_desc_military:0 "The army has always been a stabilising force in Russia, even after it was stripped of its powers by the weak liberal republic they remained strong to protect Russia. It's only justice to give them the effective control of Russia now, only the army can put itself above all national disputes."
+RUS_A_Firm_Hand_desc_savinkov:0 "우리의 지도자 라브르 코르닐로프가 사망한 후, 그의 영향력 있는 장관이자 혁명가인 사빈코프는 공화국에서 권력을 장악하였고, 심지어 자신이 옛 차르가 가지고 있던 권력의 수준을 넘어선 러시아 국가의 보즈드(지도자)라고 선포했다. 보리스 사빈코프는 이제 우리 나라의 '보즈드'입니다." #Vozhd(вождь)
+RUS_A_Firm_Hand_desc_military:0 "러시아의 육군는 항상 안정적인 힘이었습니다. 심지어 나약한 자유 공화국이 의해 권력을 차지한 후에도, 육군은 러시아를 보호하기 위해 강하게 존재하고 있었습니다. 지금의 상황은 육군에게 러시아를 효과적으로 통제해야하는 것은 정의이며, 그러한 역할은 군대만이 할 수 있다는 생각을 심어주었습니다."
 
-RUS_Centralised_Apparatus_Of_State:0 "Centralised Apparatus of State"
-RUS_Centralised_Apparatus_Of_State_desc:0 "The state of affairs in the Russian state requires a full-scale reorganisation of public powers. The regional governments, the corrupt officials as well as the independent authorities that operated before shall now only obey the government, and only the government."
+RUS_Centralised_Apparatus_Of_State:0 "중앙 집권 국가"
+RUS_Centralised_Apparatus_Of_State_desc:0 "현재 러시아의 정세는 공권력의 전면적인 개편을 요구하고 있습니다. 이전의 지방정부, 부패한 공무원들, 그리고 독립된 정부 당국들은 이제 중앙 정부에게 복종해야 합니다."
 
-RUS_A_New_Russia:0 "A New Russia"
-RUS_A_New_Russia_desc:0 "Boris Savinkov announced his intention to build a new Russia, stronger than it was ever before and a force for the world to reckon. But a new country needs a new society : courage, health, and work shall be our words of principle and the authority of the Vozhd shall be respected everywhere for he is the only one that can lead our country through these difficult times."
+RUS_A_New_Russia:0 "새로운 러시아"
+RUS_A_New_Russia_desc:0 "보리스 사빈코프는 이전보다 더 강하고 힘을 가진 새로운 러시아를 건설할 것이라고 연설했습니다. 하지만 새로운 나라는 새로운 사회를 필요로 합니다. 용기, 건강, 그리고 노동은 우리의 원칙을 나타내는 단어가 될 것이며, 보즈드의 권위는 어디에서나 존중될 것입니다. 사빈코프, 그는 이 어려운 시기를 헤쳐나갈 수 있는 유일한 사람입니다."
 
-RUS_Natsguardiya:0 "Natsguardiya"
-RUS_Natsguardiya_desc:0 "The Combat Squads of the NRPR helped us to restore order in the country, but now it is the right time to expand the Squads into 'Natsgvardiya' ('National Guard'), which will defend Russia from the various external threats. We are sure, that the professional soldiers of the 'Natsgvardiya' will become an example for the whole Russian Army."
+RUS_Natsguardiya:0 "국가 방위군"
+RUS_Natsguardiya_desc:0 "NRPR의 부대는 우리가 이 나라의 질서를 회복하는 데 도움을 주었지만, 지금은 다양한 외부 위협으로부터 러시아를 방어할 '나츠바르디야'(국가 방위군)로 확장할 적절한 시기입니다. 국가 방위군의 정예 병사가 러시아 군인의 본보기가 될 것입니다."
 
-RUS_Yunarmiya:0 "Yunarmiya"
-RUS_Yunarmiya_desc:0 "Because of the civil war in Russia, millions of Russian children became orphans. President Kerensky did almost nothing to improve their lives, but Boris Savinkov has other plans. The organisation 'Yunaya Armiya' ('Young Army') has begun to militarise the asylums and school of the children. The coming generations of the Russian people will get a chance to improve their lives and become builders of a new society."
+RUS_Yunarmiya:0 "유나르미아"
+RUS_Yunarmiya_desc:0 "러시아 내전 때문에, 수백만 명의 러시아 어린이들이 고아가 되었습니다. 케렌스키는 그들의 삶을 향상시키기 위한 어떠한 노력도 하지 않았지만, 보리스 사빈코프는 하나의 계획을 가지고 있습니다. 유소년 조직인 '유나르미아'는 아이들의 병원과 학교를 군대화시키기 시작했습니다. 다음 세대의 러시아 국민들은 그들의 삶을 향상시키고 새로운 사회의 건설자가 될 기회를 얻게 될 것입니다."
 
-RUS_Legacy_Of_The_Whites:0 "Legacy of the Whites"
-RUS_Legacy_Of_The_Whites_desc:0 "The White generals defeated the Bolsheviks more than 15 years ago and brought peace and prosperity in the country. The White knights shall be honoured as the heroes of Russia."
+RUS_Legacy_Of_The_Whites:0 "백군의 유산"
+RUS_Legacy_Of_The_Whites_desc:0 "백군의 장군들은 15년 전에 볼셰비키를 물리쳤고, 나라에 평화와 번영을 가져다 주었습니다. 백군 기사들은 러시아의 영웅으로 추앙될 것입니다."
 
-RUS_Stratocratic_Government:0 "Stratocratic Government"
-RUS_Stratocratic_Government_desc:0 "The Kerensky governments chronic incapacity to rule proved itself dangerous for Russia. To secure our power proven officers will have to take up important offices of the administration. Only that way we'll enjoy a competent public service."
+RUS_Stratocratic_Government:0 "군정"
+RUS_Stratocratic_Government_desc:0 "케렌스키 정부의 통치능력은 러시아에 위험하다는 것을 증명했습니다. 우리가 권력을 확보하기 위해서는 검증된 장교들이 행정부의 중요한 직책을 맡게 해야할 것입니다. 그럼으로써 수준 높은 공익 사업을 사용할 수 있을 것입니다."
 
-RUS_Military_Spirit:0 "Military Spirit"
+RUS_Military_Spirit:0 "군인 정신"
 RUS_Military_Spirit_desc:0 "The post-war young generation is told to be "lost", lacking of any goal, any vision of future. The army is the only obstacle on the path leading to chaos and disintegration of Russia, they shall take up the education of our youth and soon the education of the whole country. A military spirit can only benefit the Motherland."
 
-RUS_State_Revanchism:0 "State Revanchism"
+RUS_State_Revanchism:0 "국가재건주의"
 RUS_State_Revanchism_desc:0 "Now that Russia has stabilised and grown stronger under the rule of her army she must now grow, we must reclaim the land that has been stolen to us and liberate their peoples that are chanting for our return!"
 
 RUS_Establish_The_VES:0 "Establish the VES"
