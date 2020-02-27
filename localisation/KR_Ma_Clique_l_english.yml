@@ -205,47 +205,47 @@ mac.101.d:0 "펑위샹은 린이 처한 상황을 이해하고 거래를 수용�
 mac.101.a:0 "마린에게로!"
 
 mac.102.t:0 "펑위샹이 우리의 거래를 거부하다"
-mac.102.d:0 "It seems that Feng Yuxiang does not trust us after our first betrayal, and has denied our request for men. This is seen as a disappointment to Lin who hoped to use this deal as an opening to reconcilliation between the two forces, but it seems that goal will need to wait for now. The rest of the Xining Council sems a bit relieved, however, as they remember the folly in Gansu when Feng Yuxiang betrayed the northern Ma family."
+mac.102.d:0 "펑위샹은 한번 배신한 자는 믿지 않겠다고 결심한 듯이 인력을 지원해 달라는 우리의 요구를 거부한 모양입니다. 이번 거래를 양 세력의 우호 관계를 부활시키기 위한 통로로 사용하고자 했던 마린은 실망감을 내비쳤지만 지금으로서는 다음 목표를 기다리는게 좋아 보입니다. 펑위샹이 북부에서 마씨 일가를 배신했을 때 간쑤 정부에서 보였던 멍청한 대응을 기억하고 있던 시닝 의회 의원들은 약간 안심한 듯 합니다."
 mac.102.a:0 "젠장"
 
 mac.104.t:0 "유수의 분쟁격화"
-mac.104.d:0 "After yet another raid, it is almost impossible for the Yushu and Xining Governments to deny Tibetan connection to the frequent raids to the town of Yushu. Officially denouncing the Tibetan government for its practices, Tibet has taken this insult to its pride deeply and has officially re-asserted its claim to the Yushu region. Many see this as a new beginning to a war with Tibet as both sides are now hoping to establish their control over the remote region for the railroad that leads to the rest of China."
+mac.104.d:0 "또 한번 습격을 당한 이후, 우슈와 시닝 정부가 우슈를 습격한 이들이 티베트 정부와 아무런 관계가 없다고 단언할 수 없는 상황이 되었습니다. 티베트 정부의 행동을 공개적으로 비난하면서, 이런 명예에 깊은 모욕을 주는 행패를 되돌려 줄 것이라고 우슈 지역의 영유권을 다시 한번 공식적으로 천명했습니다. 티베트와 마가군벌 양쪽 모두가 중국의 나머지 지역으로 연결되는 철도가 깔린 지역에서 통제권을 확립하고자 하기 때문에 이 갈등으로 인해 전쟁이 벌어지리라고 예상하는 사람이 많습니다."
 mac.104.a:0 "만약 그들이 전쟁을 원한다면, 그렇게 할것이다"
 
 mac.105.t:0 "유수 분쟁의 고조"
-mac.105.d:0 "It seems the Zhili collapse has caused the Qinghai governorship to grow inpatient with frequent raiding by Tibetan nomands in the region. Claiming that we are in fact funding the raiders in order to reclaim the Yushu township for ourselves, the Mas have denounced our government. Even though we do, in fact, have no connection with the recent raiding, they have the audacity to commit an action such as this? Obviously we cannot leave this matter alone. If we're already being blamed for the raiding, perhaps we could actually establish a connection with the raiders in order to increase their strength, and maybe even gain control of Yushu for ourselves?"
+mac.105.d:0 "직예 군벌이 붕괴한 이래로 티베트 유목민이 칭하이 지역을 자주 침략하기 시작했고, 이로 인해 칭하이 정부가 골머리를 앓고 있습니다. 마가군벌은 우리가 우슈를 되찾기 위해 습격자들을 경제적으로 지원한다고 주장하며 우리 정부를 비난했습니다. 사실 우리는 습격자 무리와 아무런 관계가 없습니다만, 도데체 무슨 근거로 자신감 있게 저런 말을 내뱉는 걸까요? 분명히 이런 문제를 좌시할 수는 없습니다. 저들이 우리가 습격자들과 연결지으니, 힘을 기르기 위해 진짜로 그들과 연대하고 우슈 지역을 되찾을 수 있을 겁니다?"
 mac.105.a:0 "칭하이 놈들..."
 
-mac.106.t:0 "마바오가 유수에 배치되다"
-mac.106.d:0 "Ma Biao, who is renowned for his role in beating our forces in the Sichuan-Tibetan War in 1930, has been repositioned in Qinghai by the Xining Government. We can only guess they want to establish fear in our forces by assigning the very man who beat them previously in front of them, but this will only bolden our resolve! We will however need to find ways to bypass the staunch defence of Biao if we want to continue the raiding on the town."
+mac.106.t:0 "마뱌오가 유수에 배치되다"
+mac.106.d:0 "시닝 정부가 1930년 쓰촨-티베트 전쟁중에 전투에서 아군을 격파한 일로 명성을 얻은 마뱌오를 칭하이로 재배치했습니다. 전에 우리를 박살낸 적장을 코앞에 배치하여 아군 내에서 공포를 유발하고자 하는 모양이지만, 이런 조치는 우리의 결의만 더욱 불태울 뿐입니다! 다만 마을을 계속 습격하고자 한다면, 마뱌오의 확고한 방어 태세를 우회할 경로를 찾아야만 합니다."
 mac.106.a:0 "우리는 결코 패배하지 않을것이다!"
 
 mac.107.t:0 "마바오가 유수에서 격퇴되다"
-mac.107.d:0 "Due to our raiding and lack of reinforcements from Qinghai, Ma Biao was put between a rock and a hard place with low equipment and men. With no other choice, Ma Biao has retreated from Yushu, putting the government and remaining forces in the region in a full on panic, increasing our control and the effectiveness of our raids."
-mac.107.a:0 "우리가 그를 잡았군"
+mac.107.d:0 "아군의 습격이 칭하이의 지원 부족이 맞물려 병력과 장비 부족에 빠진 마뱌오는 진퇴양난의 상황에 놓였습니다. 다른 선택의 여지가 없게 된 마뱌오는 지역 행정부와 남은 부대를 혼란에 빠트리면서까지 우슈에서 퇴각할 수 밖에 없었습니다. 이로 인해 우리의 통제권과 아군 유격대의 급습 효과가 더욱 강해졌습니다."
+mac.107.a:0 "제대로 한방 먹였군"
 
-mac.108.t:0 "유수에서의 정책"
-mac.108.d:0 "It seems the Yushu government has officialy put forth a small police force in Yushu to remove any possible rebels or traitors from the town that we may have set in the region. While the force is miniscule, it will icnrease the costs of our raids with more preparation needed before each raid, attack, and infiltration we commit."
-mac.108.a:0 "이건 상황을 더욱 어렵게만드는군..."
+mac.108.t:0 "유수 정책"
+mac.108.d:0 "우슈 정부가 혹시 우리가 배치했을지도 모르는 반란군이나 반역자를 잡아들이기 위해 공식적으로 소규모 경찰력을 우슈에 배치한 모양입니다. 병력이 굉장히 적기는 하지만, 그래도 습격과 공격, 그리고 침입을 실행할 때 더 많은 자원을 들여 자세한 작전을 짜야 하는 상황에 이르렀습니다."
+mac.108.a:0 "어려워졌군..."
 
 mac.109.t:0 "동샹에서의 몽골 습격"
-mac.109.d:0 "The Qinghai government has bribed a smal group of Donxiang Mongols who have attacked one of our encampments in Outer Qinghai, disrupting our efforts and increasing their control over Yushu. While the hired raiders are gone for now, it might not be long before they hire them again in the hopes of finding one of our encampments."
+mac.109.d:0 "칭하이 정부가 몽골계 둥샹족 집단에 뇌물을 주어 칭하이 바깥쪽에 세워둔 아군 야영지를 습격하게 만들고 우슈에서 영향력을 증대하는 활동을 방해하고 있습니다. 저들이 고용한 습격자들이 지금 당장은 없어졌지만, 언제 다시 이 지역을 되찾겠다고 마음먹고 둥샹족을 다시 고용할지는 모를 일입니다."
 mac.109.a:0 "그들이 우리의 전술을 배낀거 같군"
 
 mac.110.t:0 "중국이 국경의 방비를 강화하다"
-mac.110.d:0 "It seems that the Ma authority to the north has put pressure on the legal Qinghai border with small amounts of guards. While this is more a show of force then any actual action, the presence of these guards will make it significantly more difficult to send raiders to attack Yushu."
+mac.110.d:0 "북쪽의 마가군벌 당국이 소규모 방위군을 이끌고 정당한 칭하이 국경선에 압력을 행사하고 있습니다. 실제 뭔가 하겠다는 의도는 없고 단지 힘을 과시하려는 행동으로 보이지만, 방위대가 배치된 이래로 우슈를 공격하기 위해 습격자를 보내는 일이 더욱 어려워질 겁니다."
 mac.110.a:0 "빌어먹을 놈들!"
 
 mac.112.t:0 "마부팡이 불교도들을 대상으로 이슬람교도들을 규합하다"
-mac.112.d:0 "The Xining Council has been called to session with little notice by Ma Bufang. Appearing in military regalia, Ma Bufang takes the stand to deliver a dire warning to his family and the people of Qinghai. Ma Bufang describes the terror and oppression facing muslims in Tibet. Those living in Lhasa for centuries have been improvrished and neglected by the Ganden Phodrang that rules Tibet. Provincial Hui people like the Dongxiang are being threatened for reprisal by the vicious Golok bandits. Ma Bufang demands that the council levy more soldiers to patrol border cities like Yushu, and to plan for the eventual intifada against Buddhist tyranny."
-mac.112.a:0 "그것참 좋은 지적이군"
+mac.112.d:0 "마부팡이 갑작스럽게 예정에 없이 시닝 의회를 소집했습니다. 군복을 입은 채 나타난 마부팡은 마씨 가문과 칭하이 사람들에게 무서운 경고를 선언하기 위해 연단에 섰습니다. 마부팡은 티베트에서 무슬림들이 직면한 공포와 억압을 묘사했습니다. 수백년동안 라싸에서 생활해오던 이슬람교도는 티베트를 지배하는 간덴 포드랑에 의해 항상 무시당하고 박해당했습니다. 동샹족과 같이 이 지역에 사는 휘족 소수민족들은 사악한 골록족 도적떼에의 위협에 노출되어 있습니다. 마부팡은 우슈와 같은 국경 도시를 순찰하기 위해 더 많은 군인을 징집하고, 불교의 폭압적 통치에 대항하는 인티파다(무슬림 저항운동)을 실시해야 한다고 주장했습니다."
+mac.112.a:0 "그것 참 좋은 지적이군"
 
 mac.113.t:0 "마린이 평화 회의를 보장하다"
-mac.113.d:0 "The attendants to the Meeting were treated to a suprise feast, all on Ma Lin's dime. Ma Lin reassured the Council that, as representative of the Ma families, he ensures that Hui recieve the greatest enrichment of the land. At the same time, Ma Lin noted that this prosperity was in sharp contrast to the ill rule of warmongering governors in Sichuan, who only feast after they have siezed the homes of their neighbors. Ma Lin's ultimate message being that a restraint on militancy will result in greater yields when the Hui are victorious."
+mac.113.d:0 "마린이 자기가 개최한 깜짝 잔치에 회의 참석자들을 초대했습니다. 마린은 마씨 가문의 대표자로서 휘족에게 엄청난 영토를 주겠다고 약속하며 의회를 안심시켰습니다. 동시에 마린은 이런 번영은 쓰촨을 지배하는 전쟁광같은 정권 아래서는 있을 수 없는 일이라고 강조했습니다. 쓰찬 정권은 항상 이웃의 집을 빼앗을 때만 축제를 벌인다고 덧붙였습니다. 마린이 궁극적으로 말하고자 하는 바는 휘족이 호전성을 억제하고 조용히 살기만 한다면 승리가 찾아온 이후에 더 많은 수확을 얻으리라는 것입니다."
 mac.113.a:0 "그가 참좋은 지적을 했군"
 
 mac.114.t:0 "마부팡이 시닝회의장을 포위하다"
-mac.114.d:0 "Ma Lin was not entirily suprised when the Xining Council did not appear for their meeting yesterday. No doubt they are trying to avoid both him and Ma Bufang in order to stay neutral in their dispute. In spite of this confidence, Ma Lin did engender to check on Ma Bufang's estate that day. Approaching the door, Ma Lin spotted his nephew in talks with a member of the Xining Council. Approaching the window, several more members came into view. Being the man of reason, Ma Lin resolved that the only way to ensure the Xining Council can resume is if he takes up residence in the meeting hall. "
+mac.114.d:0 "어제 회의에 시닝 의회가 참석하지 않았는데도 마린은 그리 놀라지는 않았습니다. 의심의 여지 없이 시닝 의회는 중립을 선택했고 마린과 마부팡 양쪽 모두와 거리를 두기로 결정한게 분명합니다. 그런 믿음에도 불구하고 마린은 마부팡의 일당을 다시 한번 확인하러 자리를 떴습니다. 문으로 다가가던 마린은 조카가 시닝 의회 의원 한명과 대화를 하는 모습을 포착했습니다. 창으로 다가가자 의원 몇명이 더 시야에 들어왔습니다. 이성을 되찾은 마린은 시닝 의회를 재개하는 유일한 방법은 본인이 직접 회의장에서 살다시피 하는 것 뿐이라고 결심했습니다. "
 mac.114.a:0 "끔찍한 조카놈아"
 
 mac.115.t:0 "마부팡이 마린이 회의장을 나가도록 굴욕을 주다"
