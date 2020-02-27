@@ -192,19 +192,19 @@ mac.13.d:0 "오늘 마린과 부하들 사이에 순진한 대화가 오가는 �
 mac.13.a:0 "이게 네가 감사를 표하는 방식이냐?"
 
 mac.14.t:0 "마부팡이 공공사업을 시작하다"
-mac.14.d:0 "Ma Bufang has come forward with an ambitious proposal to increase the aquaducts that feed Xining from Qinghai Lake, citing the increasing amount of refugees pouring into the city from Sichuan. Ma Bufang plans to achieve this by comissioning officers to order corvee laborers to build additional aqueducts lines. Ma Bufang has also implied in this promise that the Buddhists of Kumbum will become so desperate for water, they will yield to the Council to avoid starvation."
+mac.14.d:0 "마부팡은 쓰촨에서 시닝에 엄청난 수의 피난민이 몰려오고 있다고 지적하며 칭하이 호수 물을 시닝으로 끌어오기 위해 송수로를 확장하자는 야심찬 제안을 제시했습니다. 마부팡은 장교들을 추가 송수로 건설에 강제로 동원하여 달성할 계획힙니다. 또한 마부팡의 계획 속에는 쿰붐사원의 불교도들이 물 부족 사태에 직면하여 굶주림 끝에 우리에게 항복하리라는 계산도 포함되어 있습니다."
 mac.14.a:0 "또다른 건방진 약속이군."
 
 mac.100.t:0 "마린으로부터온 진정서"
-mac.100.d:0 "Ma Lin who is currently the civilian governor of Qinghai has petitioned the Guominjun for manpower to help establish his army against his own nephew, Ma Bufang. Ma Lin was one of the last officials to betray the Guominjun during the Ma defection against us, and even then only did so to ensure he wasn't completely expelled from his own family. He has continued harboring sympathies for the cause and hopes that our acceptance of this deal can reignite Ma-Guomingjun relations and lead to further deals in the future."
+mac.100.d:0 "현재 칭하이 민간 부문 총독인 마린은 조카 마부팡에 대항할 군대를 창설하는데 도움을 달라고 국민군에게 인력 지원을 요청했습니다. 마린은 마씨 일가가 국민군을 배반할 때 마지막까지 국민군편을 들었던 마지막 관료였고, 마침내 배반한 이유도 가문에서 쫓겨나지 않기 위해 어쩔 수 없는 선택이었을 뿐입니다. 그는 이후에도 계속해서 국민군에 우호적이었습니다. 만약 우리가 마린이 제안한 거래를 받아들인다면 마가-국민군 관계가 다시 활성화되고 앞으로 더 많은 교류가 이루어질 겁니다."
 mac.100.a:0 "그가 원하는 것을 줘라"
 mac.100.b:0 "미안하지만, 우리만의 문제가 있다"
 
-mac.101.t:0 "유씨앙이 우리의 애원을 맏아드리다"
-mac.101.d:0 "Feng Yuxiang understands the position Lin is in and has accepted his deal. Ma Lin now has a personal guard and army similar to Bufang's which he can use to defend against any potential illegal actions against his government. This isn't the only advantage however, a this has opened an avenue for a renewed Ma-Guominjun alliance should Lin manage to keep his control of Qinghai and influcen over the clique in its entirety."
-mac.101.a:0 "린에게!"
+mac.101.t:0 "펑위샹이 우리의 애원을 받아들이다"
+mac.101.d:0 "펑위샹은 린이 처한 상황을 이해하고 거래를 수용했습니다. 마린은 이제 개인 경호원과 마부팡에게 필적할 만한 수준의 군대를 보유하게 되었고, 이 군대를 정부에 반항하는 불법 행위로부터 스스로를 방어하는데 사용할 수 있습니다. 하지만 단지 이것만 얻은건 아닙니다. 마가-국민군 동맹이 부활하면서 마린의 칭하이 통제력과 군벌 전체에 대한 영향력이 안정되기도 했습니다."
+mac.101.a:0 "마린에게로!"
 
-mac.102.t:0 "유씨앙이 우리의 거래를 거부하다"
+mac.102.t:0 "펑위샹이 우리의 거래를 거부하다"
 mac.102.d:0 "It seems that Feng Yuxiang does not trust us after our first betrayal, and has denied our request for men. This is seen as a disappointment to Lin who hoped to use this deal as an opening to reconcilliation between the two forces, but it seems that goal will need to wait for now. The rest of the Xining Council sems a bit relieved, however, as they remember the folly in Gansu when Feng Yuxiang betrayed the northern Ma family."
 mac.102.a:0 "젠장"
 
