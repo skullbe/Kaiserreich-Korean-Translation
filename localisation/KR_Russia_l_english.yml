@@ -45,9 +45,7 @@ RUS_Faith_disc:0 "국가적 종교 문제 논쟁"
 
 RUS_economic_depression:0 "경제 대공황"
 RUS_supreme_economic_council:0 "최고 경제위원회" #Verkhovny Ekonomicheskiy Sovet"
-
-RUS_minprom:0 "MinProm"
-
+RUS_minprom:0 "민프롬"
 RUS_cooperative_capitalism:0 "협동자본주의"
 RUS_increased_production:0 "생산량 증가"
 RUS_lost_production:0 "생산량 손실"
@@ -335,41 +333,41 @@ RUS_Zemstvo_Research_Initiatives_desc:0 "경제와 사업은 성장하고 확장
 RUS_War_Preparations_Programme:0 "전쟁 대비 계획"
 RUS_War_Preparations_Programme_desc:0 "러시아 경제가 다시 한번 성장한 가운데, 우리의 이웃들은 우리를 부러워하면서도 굶주려있습니다. 따라서, 우리는 실수해서는 안 됩니다. 전쟁이 발발한다면, 이제 막 성장하는 민간 경제는 떠오르는 별이 추락하듯이 몇 달 안에 붕괴될 것입니다."
 
-RUS_Funding_Frenzy:0 "Funding Frenzy"
-RUS_Funding_Frenzy_desc:0 "By offering more economic support and tax reductions to the Zemstvo, we can make sure they start funding local projects like never before. More over it will strengthen the connections between the people of Russia and these new established state authorities."
+RUS_Funding_Frenzy:0 "투자 열풍"
+RUS_Funding_Frenzy_desc:0 "젬스트보에 더 많은 경제적 지원과 세금 혜택을 제공함으로써, 우리는 그들이 지역 계획에 자금을 지원하도록 할 수 있습니다. 이에 더 나아가 러시아 국민과 새로운 국가 당국 간의 관계를 강화할 것입니다."
 
-RUS_Bureaucratic_Overhaul:0 "Bureaucratic Overhaul"
-RUS_Bureaucratic_Overhaul_desc:0 "Our economy should, no matter what our government may look like, be governed by faceless but loyal bureaucrats. We need to remove the old Guard of the Kerensky regime and set up something else. Something new."
+RUS_Bureaucratic_Overhaul:0 "관료제 정비"
+RUS_Bureaucratic_Overhaul_desc:0 "우리 정부의 형태에 관계없이 우리의 경제는 알려지진 않았지만 충성스러운 관료들의 통제를 받아야 합니다. 케렌스키 정권의 옛 관료들을 제거하고 뭔가 새로운 다른 것을 설립해야 합니다. "
 
-RUS_MinProm:0 "MinProm"
-RUS_MinProm_desc:0 "Ministry of Industry or 'MinProm' in Russian is a united ministry, which will reorganise the industry in our country. Its first task will be to delegate industrial investments to several urban centres in order to boost our industry logically."
+RUS_MinProm:0 "민프롬"
+RUS_MinProm_desc:0 "산업부 또는 '민프롬'은 우리 나라의 산업을 재편성하는 통합 부처입니다. 산업부의 첫 번째 임무는 우리 산업을 논리적으로 향상시키기 위해 여러 도시 기관에 산업 투자를 위임하는 것입니다."
 
-RUS_Agricultural_Modernisation:0 "Agricultural Modernisation"
-RUS_Agricultural_Modernisation_desc:0 "In the eyes of the rest of the world, Russia is considered a backwards, poor country. We will show them that they are wrong, harnessing the massive resources hidden in the countryside through new technologies."
+RUS_Agricultural_Modernisation:0 "농업 현대화"
+RUS_Agricultural_Modernisation_desc:0 "러시아의 생각과는 달리, 세계의 다른 나라들은 러시아를 가난한 나라로 여깁니다. 우리는 그들에게 그들이 틀렸다는 것을 보여줄 것입니다. 새로운 기술을 통해 시골에 숨겨진 거대한 자원을 활용하는 것으로 말이죠."
 
-RUS_Military_Production_Act:0 "Military Production Act"
-RUS_Military_Production_Act_desc:0 "Many of our military setbacks in the Weltkrieg were the result of shortages and shortcomings due to our outdated military industry. Proposed by our lawmakers, the MPA seeks to impose new standards and regulations on our military industry to bolster production quotas. While meeting these standards will be costly in the short term, it'll allow us to improve our production in the long term."
+RUS_Military_Production_Act:0 "군수품 법"
+RUS_Military_Production_Act_desc:0 "세계대전에서 우리의 군대는 많은 기술적 퇴보와 구식 군사 산업으로 인한 보급 부족과 단점들의 결과였습니다. 우리 의원들의 제안한 이 법률은 MPA의 생산량을 증강하기 위해 우리 군 산업에 새로운 기준과 규제를 부과하려고 합니다. 이러한 기준을 충족하려면 단기적으로는 비용이 많이 들겠지만 장기적으로 생산량을 향상시킬 수 있을 것입니다."
 
-RUS_Economic_Efficiency_Act:0 "Economic Efficiency Act"
-RUS_Economic_Efficiency_Act_desc:0 "Russia was the last great power in Europe to industrialize and as a result our industries have struggled to compete with its western rivals. The newly proposed ECA seeks to rectify this by creating a new legal framework for industrial production and safety standards. Though costly in the short term, it will be worth it once Russian factories can outproduce their western competitors in both quality and quantity!"
+RUS_Economic_Efficiency_Act:0 "경제효율 법"
+RUS_Economic_Efficiency_Act_desc:0 "러시아는 유럽에서 산업화를 이끈 마지막 열강이었고, 그 결과 우리 산업은 서방의 경쟁국들과 경쟁하기 위해 고군분투해 왔습니다. 새로 제안된 ECA는 산업 생산 및 안전 표준에 대한 새로운 법적 토대를 만들어 이를 시정하고자 합니다. 단기적으로는 비용이 많이 들지만, 러시아 공장들이 품질과 양 면에서 서방의 경쟁국들을 능가할 수 있다면 그것은 가치 있는 일이 될 것입니다!"
 
-RUS_National_Administration_School:0 "National Administration School"
-RUS_National_Administration_School_desc:0 "With the new bureaucracy steadily growing we should set up a National Administration School which prepares our future army of bureaucrats for the necessary work ahead of them."
+RUS_National_Administration_School:0 "국립 공직자 학교"
+RUS_National_Administration_School_desc:0 "새로운 관료주의가 꾸준히 성장함에 따라, 우리는 앞으로 필요한 일을 하기 위한 미래의 관료들을 양성하는 국립 공직자 학교를 설립해야 합니다."
 
-RUS_Cooperative_Capitalism:0 "Cooperative Capitalism"
-RUS_Cooperative_Capitalism_desc:0 "In the spirit of democracy, we should grant strong, local governance to the communes of our nation. Russia is a massive nation and to believe that it could all be governed from a single place is crazy!"
+RUS_Cooperative_Capitalism:0 "협동자본주의"
+RUS_Cooperative_Capitalism_desc:0 "민주주의의 정신에서, 우리는 나라의 공동체에 강력하고 지역 분권화 된 통치권을 부여해야 합니다. 러시아는 거대한 국가이고 모든 일을 한 곳에서 처리할 수 있다고 믿는 것은 어리석은 짓입니다."
 
-RUS_New_Industrial_Programme:0 "New Industrial Programme"
-RUS_New_Industrial_Programme_desc:0 "By industrialising the far reaches of our country side we do not only make sure our whole nation stays alive, but also that targeting our industries becomes much more difficult for our enemies. More over it will help us to reduce the unemployment rate in Russia."
+RUS_New_Industrial_Programme:0 "새로운 산업 계획"
+RUS_New_Industrial_Programme_desc:0 "우리 나라의 광범위한 영토를 산업화함으로써, 우리는 나라 전체를 활력있게 할 뿐만 아니라, 우리의 산업을 상대로 전쟁을 하는 것이 훨씬 더 어려워진다는 것을 적들에게 각인시킬 수 있습니다. 또한 더 많은 일자리는 러시아의 실업률을 줄이는 데 도움이 될 것입니다."
 
-RUS_Industry_In_The_Urals:0 "Industry in the Urals"
-RUS_Industry_In_The_Urals_desc:0 "When the industrial revolution came to Russia its riches rarely stretched beyond the major cities. Beyond the Ural mountains many localities rely on the same trades that they have since Ivan IV's eastward expansion. Instead of further industrializing the already wealthy cities, it's high time that we brought the riches of the Industrial revolution to the Urals and beyond."
+RUS_Industry_In_The_Urals:0 "우랄의 산업"
+RUS_Industry_In_The_Urals_desc:0 "러시아의 산업 혁명의 바람은 주요 도시들을 벗어나지 않았습니다. 이반 4세가 동쪽으로 영토를 뻗은 이후 우랄 산맥 너머의 많은 지역들이 가지고 있는 특산품을 거래하는 무역에 의존하고 있습니다. 이미 부유한 도시들을 더 산업화하기보다는 산업 혁명의 여파를 우랄과 그 너머까지 보내야 할 때입니다."
 
-RUS_The_Wealth_Of_Siberia:0 "The Wealth of Siberia"
-RUS_The_Wealth_Of_Siberia_desc:0 "Beneath the Siberian soil there's an immense untapped wealth of resources. Metals, minerals and fuels that surpass the output of entire empires is within our reach. By investing capital and expertise into the neglected regions of our east, we can turn Siberia into an economic powerhouse as the crown jewel of our resource industry."
+RUS_The_Wealth_Of_Siberia:0 "시베리아의 재산"
+RUS_The_Wealth_Of_Siberia_desc:0 "시베리아 땅 아래에는 아직 개발되지 않은 엄청난 양의 자원이 있습니다. 제국 전체의 생산량을 능가하는 금속, 광물, 연료가 우리의 손 안에 있습니다. 자본과 전문가들을 동방의 소외지역에 투자함으로써 시베리아를 자원산업의 보물로, 러시아를 경제대국으로 만들 수 있습니다."
 
-RUS_Education_Campaigns:0 "Education Campaigns"
-RUS_Education_Campaigns_desc:0 "The Russian nation, torn apart by social and political unrest, has been unable to initiate any massive education programs successfully. There's still a large rural population dominating the countryside. A school in every village will allow us to integrate even more people in our society and economy."
+RUS_Education_Campaigns:0 "교육 운동"
+RUS_Education_Campaigns_desc:0 "사회와 정치적 불안으로 분열된 러시아 정부는 어떠한 대규모 교육 프로그램도 시작할 수 없었습니다. 농촌에는 아직도 많은 인구가 존재하고 있습니다. 마을 마다 학교를 지어 교육시키면, 우리 사회와 경제에 더 많은 사람들을 통합할 수 있도록 해줄 것입니다."
 
 RUS_Decentralised_Logistics:0 "Decentralised Logistics"
 RUS_Decentralised_Logistics_desc:0 "Russia's size is both her greatest strength and her greatest weakness. As hard as it is for hostile armies to remain in supply, it is so too for our armies. By establishing local supply points in key areas, we can make sure our troops stay in good supply at all times."
@@ -547,15 +545,15 @@ RUS_Enemy_In_The_East_desc:0 "Ever since the Russo-Japanese war the true enemy o
 russian_alliance:0 "Russian Alliance"
 
 ### Tooltips ###
-RUS_Okhranka_tooltip:0 "The government has decided to recreate Okhranka"
-RUS_infantry_tech_tooltip:0 "The military exercises have ended"
-RUS_navy_tooltip:0 "The naval manoeuvres have ended"
-RUS_sovmilunit_tt:0 "Over thirty militia, infantry, and cavalry divisions will form."
-RUS_sovoffunit_tt:0 "Two dozen militia, infantry, and cavalry divisions will form."
-RUS_sovcamunit_tt:0 "Over fifty militia, infantry, and cavalry divisions will form."
-RUS_reinfounit_tt:0 "Three infantry divisions will form."
-RUS_sovcivunit_tt:0 "Seventeen infantry and militia divisions will be raised."
-RUS_sovnavunit_tt:0 "A new fleet will be created in Petrograd."
+RUS_Okhranka_tooltip:0 "정부가 오흐란카를 재도입하기로 결정했습니다."
+RUS_infantry_tech_tooltip:0 "육군 군사 훈련이 종료되었습니다."
+RUS_navy_tooltip:0 "해군 기동 훈련이 종료되었습니다"
+RUS_sovmilunit_tt:0 "30개 이상의 민병대, 보병사단, 기병사단이 생성될 것입니다."
+RUS_sovoffunit_tt:0 "24개 이상의 민병대, 보병사단, 기병사단이 생성될 것입니다."
+RUS_sovcamunit_tt:0 "15개 이상의 민병대, 보병사단, 기병사단이 생성될 것입니다."
+RUS_reinfounit_tt:0 "3개의 보병사단이 생성될 것입니다."
+RUS_sovcivunit_tt:0 "17개의 민병대, 보병사단이 생성될 것입니다."
+RUS_sovnavunit_tt:0 "페트로그라드에 새로운 함대가 생성될 것입니다."
 
 RUS_A_Constitutional_Monarchy_tooltip:0 "§MThis will invite the legitimate Tsar Kirill to be the head of a new constitutional monarchy.§!\n"
 RUS_Imperial_Glory_kirill_tooltip:0 "§MThis will invite the legitimate Tsar Kirill to be the head of a new autocracy.§!\n"
