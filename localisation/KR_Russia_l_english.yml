@@ -27,9 +27,7 @@ rus_esprit_de_corps_focus:0 "국가 방위군" #Natsgvardiya
 rus_yunarmiya_focus:0 "유나르미아" #Yunarmiya
 rus_radio_propaganda_focus:0 "차르의 목소리"
 rus_neoslavism_focus:0 "신슬라브주의"
-
-rus_devoted_subjects_focus:0 "Devoted Subjects"
-
+rus_devoted_subjects_focus:0 "국가원수에 헌신"
 soviet_worker_soldier:0 "소비에트의 위협"
 soviet_worker_soldier_desc:0 "계속되는 정치적 불안정함과 사회주의 세력의 성장으로 인해서, 우리는 내전이 종식된 후 '프롤레타리아'와 타협할 수밖에 없었습니다. 현재 러시아에서는 볼셰비키들의 활동이 여전히 활발하며, 우리의 영향력이 더욱 약해질수록 그들의 움직임은 점점 선명하게 보일 것입니다."
 rus_military_spirit_idea:0 "군인 정신"
@@ -299,43 +297,43 @@ RUS_Stratocratic_Government:0 "군정"
 RUS_Stratocratic_Government_desc:0 "케렌스키 정부의 통치능력은 러시아에 위험하다는 것을 증명했습니다. 우리가 권력을 확보하기 위해서는 검증된 장교들이 행정부의 중요한 직책을 맡게 해야할 것입니다. 그럼으로써 수준 높은 공익 사업을 사용할 수 있을 것입니다."
 
 RUS_Military_Spirit:0 "군인 정신"
-RUS_Military_Spirit_desc:0 "The post-war young generation is told to be "lost", lacking of any goal, any vision of future. The army is the only obstacle on the path leading to chaos and disintegration of Russia, they shall take up the education of our youth and soon the education of the whole country. A military spirit can only benefit the Motherland."
+RUS_Military_Spirit_desc:0 "전후의 젊은 세대는 어떤 목표도, 미래의 비전도 결여된 '잃어버린' 세대라고 불립니다. 군대는 러시아를 혼란과 붕괴에서 구할 마지막 장치입니다. 군대는 우리 젊은이들의 교육, 나아가 온 나라의 교육을 맡게 될 것입니다. 오직 군대의 정신만이 모국에게 필요한 것입니다."
 
 RUS_State_Revanchism:0 "국가재건주의"
-RUS_State_Revanchism_desc:0 "Now that Russia has stabilised and grown stronger under the rule of her army she must now grow, we must reclaim the land that has been stolen to us and liberate their peoples that are chanting for our return!"
+RUS_State_Revanchism_desc:0 "이제 러시아는 강대해질 운명이었던 군대의 지배하에 안정되었습니다. 우리는 빼앗긴 땅을 되찾고, 러시아로의 귀환을 외치는 그들의 민족을 해방시켜야 합니다!"
 
-RUS_Establish_The_VES:0 "Establish the VES"
-RUS_Establish_The_VES_desc:0 "Now that Savinkov has consolidated his hold on power, we can finally enact much needed economic reform to this countries neglected industrial base. We shall create a Supreme Economic Council. The VES (Verkhovny Ekonomicheskiy Sovet) shall take control of the industrial development of this nation and  bring it up to western standards."
+RUS_Establish_The_VES:0 "VES 설립"
+RUS_Establish_The_VES_desc:0 "사빈코프의 권력이 강화되었기 때문에, 우리는 마침내 산업기반을 등한시하는 이 나라에 훨씬 필요한 경제 개혁을 시행할 수 있게 되었습니다. 우리는 최고 경제위원회를 만들 것입니다. VES(최고 경제위원회)는 이 나라의 산업발전을 통제할 것이며, 산업력을 서구권 국가들의 평균수준으로 끌어올릴 것입니다."
 
-RUS_Ural_Tractor_Plants:0 "Ural Tractor Plants"
-RUS_Ural_Tractor_Plants_desc:0 "If there’s one thing that Russia does not lack, it is land. We shall set up state sponsored factories and steelworks deep within the heart of our nation to produce mechanised vehicles, far beyond the reach of Europe."
+RUS_Ural_Tractor_Plants:0 "우랄 트랙터 공장"
+RUS_Ural_Tractor_Plants_desc:0 "러시아가 유일하게 가진 풍부한 자원은 땅입니다. 우리는 국가의 심장부에 국영 공장과 철강 공장을 설립하여 유럽의 수준을 훨씬 넘는 기계화된 자동차를 생산할 것입니다."
 
-RUS_Machine_And_Tractor_Stations:0 "Machine and Tractor Stations"
-RUS_Machine_And_Tractor_Stations_desc:0 "The land redistribution promised by Savinkov allowed us to fund many farms in the Central Russia. The next step is to provide our peasants with agricultural machinery. That's why we should establish machine and tractor stations (MTS), to be rural agencies that will supply farms with agricultural machinery and people to run it. Such cooperation will revive the agricultural sector in Russia."
+RUS_Machine_And_Tractor_Stations:0 "기계와 트랙터 관리소"
+RUS_Machine_And_Tractor_Stations_desc:0 "사빈코프가 약속한 토지의 재분배는 우리가 중앙 러시아의 많은 농장에 자금을 투자할 수 있게 해주었습니다. 다음으로 우리는 농민들에게 농기계를 제공해야 합니다. 그것이 우리가 '기계와 트랙터 관리소(MTS)'를 설립해야 하는 이유이며, 농장에 농기계를 공급할 지방 기관과 그것을 운영할 사람을 고용해야합니다. 이러한 협력은 러시아의 농업 분야를 되살릴 것입니다."
 
-RUS_Railway_Nationalisation:0 "Railway Nationalisation"
-RUS_Railway_Nationalisation_desc:0 "Railways are the lifeblood of our vast nation, yet under the Tsar and later the Republic they have been sorely neglected. We shall nationalise all commercially owned railroads as well as enact government funded schemes to construct new lines to our cities and industrial complexes."
+RUS_Railway_Nationalisation:0 "철도 국영화"
+RUS_Railway_Nationalisation_desc:0 "우리의 철도는 광대한 국가의 핏줄입니다. 그러나 차르와 공화국은 철도의 역할을 무시했습니다. 우리는 민간에서 소유하는 모든 철도를 국유화하고, 도시와 산업 단지에 새로운 노선을 건설하기 위한 정부 지원 계획을 제정해야 합니다."
 
-RUS_Korporatsiya_Yusupova:0 "Korporatsiya Yusupova"
-RUS_Korporatsiya_Yusupova_desc:0 "'Korporatsiya Yusupova' (Yusupov's Corporation), a united civil and military engineering organisation, has launched several industrial projects, which will reduce our dependence on German goods, provide our army with new arms and help us bring down unemployment. It is however necessary to provide his corporation with the legal privileges to compete with foreign factories."
+RUS_Korporatsiya_Yusupova:0 "유수포바 주식회사"
+RUS_Korporatsiya_Yusupova_desc:0 "군관 연합 기관인 유수포바 주식회사는 독일 상품에 대한 의존도를 줄이기 위해 설립되었습니다. 유수포바는 우리 군대에 새로운 무기를 제공하고, 실업을 줄이는 데 도움을 줄 몇 가지 산업 프로젝트에 착수했습니다. 그러나 외국 공장과 경쟁하기 위해서는 그의 회사에 일종의 특권을 부여할 필요가 있습니다."
 
-RUS_Industrial_Draft_Scheme:0 "Industrial Draft Scheme"
-RUS_Industrial_Draft_Scheme_desc:0 "Although we have made great strides in improving the industrial capabilities of our nation, there is still a large labour pool of able bodied Russians we can put to work. We shall enact a scheme that will allow men to avoid the military draft in exchange for three years of mandatory service at state owned facilities, with social and financial incentives for each additional year they stay on."
+RUS_Industrial_Draft_Scheme:0 "산업의 초기 계획안"
+RUS_Industrial_Draft_Scheme_desc:0 "비록 우리가 우리 나라의 산업 능력을 향상시키는데 큰 진전을 이루었지만, 아직도 일할 수 있는 능력이 있지만 일자리가 없는 러시아인들이 많이 있습니다. 우리는 남성들이 징병대신 국가 소유의 시설에서 3년간의 의무적으로 복무하는 대가로 매년 사회적, 재정적 인센티브를 받을 수 있는 제도를 제정할 것입니다."
 
-RUS_Reinstitute_The_Zemstva:0 "Reinstitute the Zemstva"
-RUS_Reinstitute_The_Zemstva_desc:0 "The Zemstvo is a form of local governance and representation first introduced by Aleksandr II in 1864. It strongly weights favour to aristocrats but it still assures representation of the lower classes. It will, without a doubt, assure stability in our torn nation."
+RUS_Reinstitute_The_Zemstva:0 "젬스트보 재설립"
+RUS_Reinstitute_The_Zemstva_desc:0 "젬스트보는 1864년 알렉산드르 2세가 처음 도입한 지역 통치와 진정의 한 형태입니다. 젬스트보는 귀족들이 선호하면서도, 여전히 하층 계급의 대표성을 보장합니다. 의심의 여지 없이, 젬스트보는 분열된 나라의 안정을 보장해 줄 것입니다."
 
-RUS_National_Investment_Bank:0 "National Investment Bank"
-RUS_National_Investment_Bank_desc:0 "A national investment bank will safeguard not only the resources invested by the Zemstvo, but should also offer beneficial loans to local projects. This bank will also help us to control many transactions of our Zemstva and the local businessmen."
+RUS_National_Investment_Bank:0 "국립 투자 은행"
+RUS_National_Investment_Bank_desc:0 "국립 투자 은행은 젬스트보가 투자한 자원을 보호할 뿐만 아니라 지역 발전에 유익한 투자금을 제공합니다. 이 은행은 또한 젬스트보와 지역 사업가들의 많은 거래를 통제하는데 도움을 줄 것입니다."
 
-RUS_Local_Development:0 "Local Development"
-RUS_Local_Development_desc:0 "The large, bloated state apparatus of the past has often been a hindrance to local development as directives slowly trickled down through an inefficient chain of command. The best way to tackle this is to delegate more responsibilities to local structures of government led by the regional landowners. After all, who knows better how to improve local affairs than the people that own those land?"
+RUS_Local_Development:0 "지역 개발"
+RUS_Local_Development_desc:0 "과거의 크고 비대해진 국가 기구는 비효율적인 지휘체계 때문에 지시사항이 내려오는 속도가 늦어서 종종 지역 발전에 장애가 되어 왔습니다. 이를 해결하기 위한 가장 좋은 방법은 지방의 토지 소유주들이 주도하는 지방 정부에 더 많은 권한을 위임하는 것입니다. 그 땅을 소유한 사람들보다 지방의 문제를 더 잘 개선할 수는 없을 것입니다."
 
-RUS_Zemstvo_Research_Initiatives:0 "Zemstvo Research Initiatives"
-RUS_Zemstvo_Research_Initiatives_desc:0 "Economies, and businesses, need to be kept competitive in order to grow and expand. We should invest not only in these actual businesses but also the theories behind them. With sufficient science funding, it should benefit not only local companies, but Russia as a whole."
+RUS_Zemstvo_Research_Initiatives:0 "젬스트보 연구 계획"
+RUS_Zemstvo_Research_Initiatives_desc:0 "경제와 사업은 성장하고 확장하기 위해 경쟁력을 유지할 필요가 있습니다. 우리는 시행중인 사업뿐만 아니라 그 이후의 것에도 투자해야 합니다. 충분한 과학 자금을 지원한다면 국내 기업뿐만 아니라 러시아 전체에도 이익이 될 것입니다."
 
-RUS_War_Preparations_Programme:0 "War Preparations Programme"
-RUS_War_Preparations_Programme_desc:0 "With Russia's economy once again looking strong there's no doubt that our neighbours will look at us with envy hunger. We must make no mistake, a civilian economy in a time of war would end the rising star in a matter of months."
+RUS_War_Preparations_Programme:0 "전쟁 대비 계획"
+RUS_War_Preparations_Programme_desc:0 "러시아 경제가 다시 한번 성장한 가운데, 우리의 이웃들은 우리를 부러워하면서도 굶주려있습니다. 따라서, 우리는 실수해서는 안 됩니다. 전쟁이 발발한다면, 이제 막 성장하는 민간 경제는 떠오르는 별이 추락하듯이 몇 달 안에 붕괴될 것입니다."
 
 RUS_Funding_Frenzy:0 "Funding Frenzy"
 RUS_Funding_Frenzy_desc:0 "By offering more economic support and tax reductions to the Zemstvo, we can make sure they start funding local projects like never before. More over it will strengthen the connections between the people of Russia and these new established state authorities."
