@@ -455,54 +455,54 @@ XSM_clearing_space_desc:0 "파괴가 끝나고 남은 빈 공간은 새로운 �
 XSM_assisting_people:0 "가려 뽑다"
 XSM_assisting_people_desc:0 "산발적으로 많은 소비재를 수입했기 때문에 가격도 엄청나게 폭등했습니다. 이런 최고급 물품들을 가능한 한 국내에서 생산해야 합니다."
 
-XSM_employ_assistance:0 "우리의 경의를"
-XSM_employ_assistance_desc:0 "The glorious generation of the Gansu Braves started as simple farmers that took up arms to defend their homes. We must emulate our heroes and order reservists to volunteer at their farms to feed the people."
+XSM_employ_assistance:0 "무릎을 꿇고"
+XSM_employ_assistance_desc:0 "찬란한 감군의 세대는 소박한 농부들이 고향을 지키기 위해 무기를 들면서 시작했습니다. 우리의 영웅들을 본받고 예비군들에게 농장에 자원해 사람들을 먹이도록 명령해야 합니다."
 
 XSM_rooting_agents:0 "중개상을 뿌리뽑다"
-XSM_rooting_agents_desc:0 "Our rivals remain vigilant and will take any chance to advance their own political position. They and their agents must be found through a concerted effort of the bureaucracy and eliminated."
+XSM_rooting_agents_desc:0 "우리 경쟁자들은 경계를 늦추지 않으면서 정치적 우위를 점하기 위한 기회를 절대 놓치지 않을 겁니다. 경쟁자와 그들의 요원들을 관료들의 일치단결된 노력을 통해 발견하고 제거해야만 합니다."
 
 XSM_consolidating_administration:0 "행정통합"
-XSM_consolidating_administration_desc:0 "The administration of the western provinces is plagued with inefficiencies and conmen. Some provincials even report phony Ambans extorting them for food with their titles. We can collect this latent trust by consolidating our administration and ordering the arrest of phony administrators."
+XSM_consolidating_administration_desc:0 "서부 지방 행정은 비효율과 사기꾼에 시달리고 있습니다. 일부 지방에서는 암반을 사칭한 자들이 식량을 갈취한다는 보고까지 들어왔습니다. 행정부를 통합하고 관료 사칭자들을 체포하라는 명령을 내린다면 신뢰를 쌓을 수 있을 겁니다."
 
 XSM_soldier_farmers:0 "병농일치"
-XSM_soldier_farmers_desc:0 "The cycle of growing and reaping is emphasized in both Chinese literature and the Quran. Both our ideals converge in the soldier-farmer. Our administration has decided to honor exemplary farmers as we do soldiers."
+XSM_soldier_farmers_desc:0 "성장과 수확의 순환을 중국 문헌과 코란 양쪽에서 모두 강조합니다. 두 종교의 이상은 결국 농병일치로 귀결됩니다. 행정부는 모범적인 농부를 위대한 군인과 같이 기리기로 결정했습니다."
 
 XSM_development:0 "신 개발계획"
-XSM_development_desc:0 "The reconstruction of Gansu is not yet complete. With power consolidated, the entire state apparatus can be directed to its betterment, especially the redevelopment of still-heavily damaged urban areas."
+XSM_development_desc:0 "간쑤 재건은 아직 완전히 끝나지 않았습니다. 권력이 한데 모인다면 국가 전체가 간쑤 재건에 힘을 합쳐 심각한 피해를 입은 도시 지역의 재개발에 투입할 수 있습니다."
 
 XSM_opium_farming:0 "아편 농장"
-XSM_opium_farming_desc:0 "While many argue that opium brought China to its knees, it is undoubtedly valuable. Our regime has struggled to capture sufficient liquid assets through conquests or plunder; we cannot disregard such a robust potential revenue stream for morality alone's sake. Through partnerships with local farms, our regime shall henceforth involve itself with the cultivation of opium."
+XSM_opium_farming_desc:0 "아편이 중국을 무릎 꿇게 했다고 주장하는 사람들이 많지만, 한번쯤 의심해 볼 필요가 있습니다. 우리 정권은 정복과 약탈을 통해 충분한 유동자산을 확보하려 힘들게 노력해 왔습니다. 도덕성만 강조하면서 아편 재배가 가져다줄 수익을 무시할 수는 없습니다. 지역 농장과 제휴하는 방식을 통해 정부가 아편 재배에 관여할 겁니다."
 
-XSM_raking_in:0 "발본색원"
-XSM_raking_in_desc:0 "Our administration has collected the names of illegal opium farmers within our provinces. Instead of a lengthy hunt, desolation of farmland, and weeks wasted. We can instead send confidential soldiers to extort some money from these crooks."
+XSM_raking_in:0 "한 밑천 잡자"
+XSM_raking_in_desc:0 "정부가 영토 내의 불법 아편 농가 명단을 조사했습니다. 몇 주를 허비하면서까지 그들을 쫓아다니면서 얻어낸 것은 황폐해진 농지 뿐입니다. 대신에 비밀리에 병사들을 보내 이 사기꾼들에게서 돈을 빼앗을 수 있습니다."
 
-XSM_tianshui_arsenal:0 "텐슈이 공병창 확장"
-XSM_tianshui_arsenal_desc:0 "The Tianshui Arsenals' equipment is outdated and in need of modernization. By expanding the facilities and bringing in equipment from abroad, we'll be able to keep pace with our rivals in the region."
+XSM_tianshui_arsenal:0 "톈수이 공병창 확장"
+XSM_tianshui_arsenal_desc:0 "톈수이 병기창의 장비는 구식이며 현대화가 필요합니다. 설비를 확충하고 해외에서 장비를 들여온다면 지역 경쟁자들과 발 맞춰 걸을 수 있을 겁니다."
 
 XSM_artillery_pieces:0 "표준 포병"
-XSM_artillery_pieces_desc:0 "With the arsenal expanded, we should begin the development of more advanced artillery. Like the Weltkrieg, our enemies' lines shall be reduced to rubble."
+XSM_artillery_pieces_desc:0 "무기고를 확장했으니 더욱 발전된 포병 개발에 착수해야 합니다. 세계대전때와 같이, 포탄에 맞은 적들은 산산조각나 사라질 겁니다."
 
 XSM_unclogging_progress:0 "재건 재개"
-XSM_unclogging_progress_desc:0 "Now that the war is over and the reconstruction is well underway, it's time that we started to look towards our future. With renewed efforts, we'll lay its foundations."
+XSM_unclogging_progress_desc:0 "전쟁이 끝나고 재건이 순조롭게 진행되고 있으니 미래를 향해 눈을 돌려야 할 때입니다. 새로 노력을 투입해서 기초를 닦을 겁니다."
 
 XSM_rebirth:0 "재탄생"
-XSM_rebirth_desc:0 "While our administration cannot make whole what was lost, we can bring Gansu into the modern era. With ice cream shops, telegraph offices, and all other modern trappings. The people who survive the next few years of national struggle will live happily."
+XSM_rebirth_desc:0 "정부가 잃어버린 모든 것들을 다시 만들어 낼 수는 없다고 하더라도, 간쑤를 현대적인 도시로 끌어낼 수는 있습니다. 아이스크림 가게와 전신국, 그리고 다른 모든 현대적인 시설물을 들여오면서 말이죠. 앞으로 몇 년간 이어질 투쟁에서 살아남은 사람들은 행복하게 살아갈 수 있을 겁니다."
 
 XSM_fuxiang_legacy:0 "푸샹의 유산"
-XSM_fuxiang_legacy_desc:0 "Though his soul has passed on, the harmonious status quo that he built and the Han-Hui divide he began to mend after so long, make forever without parallel. As we have protected this legacy from hostile elements within and without, we must now build upon it."
+XSM_fuxiang_legacy_desc:0 "비록 마푸샹의 정신을 이어받기는 했지만, 그가 한족-회족 간 갈등을 봉합하고자 하며 조화로운 상태를 유지시키려던 시도는 여태까지도 평행선만 달리는 중입니다. 우리가 마푸샹의 유산을 적대적 사상으로부터 지켜왔듯이, 그의 유산을 기반한 정책을 세워야 합니다."
 
 XSM_kind_general:0 "친절한 장군들"
-XSM_kind_general_desc:0 "Ma Hongbin has ascended to the forefront of the Ma Clique. He seeks moderate reform including the devolution of power and forging new ties with the other states of China."
+XSM_kind_general_desc:0 "마홍빈이 마가 군벌의 지도자직에 올랐습니다. 그는 권력을 이양하고 다른 중국 세력들과 새로운 유대관계를 형성하는 등 온건한 개혁을 추구합니다."
 
 XSM_summoning_council:0 "주위원회를 소집"
-XSM_summoning_council_desc:0 "The Councils of Ningxia, Gansu, and Qinghai have operated autonomously for far too long. These inefficiencies come when the councils have the ability to nullify one another's orders. In order to ensure the Governor's orders are followed, the provisional councils must be drawn to the capital."
+XSM_summoning_council_desc:0 "닝샤, 간쑤, 그리고 칭하이 의회를 너무 오랫동안 자율적으로 운영하도록 내비 뒀습니다. 이런 상황이 이어진다면 각 의회가 서로의 정책과 명령을 무효화할 수 있는 비효율적인 상황이 벌어집니다. 총독의 명령을 확실히 따르도록 하기 위해서는 지역 의회를 수도로 끌어들여야 합니다."
 
 XSM_warlord_alliance:0 "군지도자들과의 동맹"
-XSM_warlord_alliance_desc:0 "The warlords of China share a mutual distrust, and are unwilling to assist each other against foreign invaders. The Governor believes that, despite this distrust, a petition to promise the Chinese people a unified china in their lifetimes can engender some compassion, at least towards us."
+XSM_warlord_alliance_desc:0 "중국 군벌들은 상호 불신을 공유하고 있으며 외세 침략자에 대항해 힘을 합치기를 꺼립니다. 이런 상황에도 불구하고 총독께서는 전 중국 사람들에게 죽기 전까지 통일된 중국을 보여주겠다는 약속을 한다면 적어도 우리 사이에서는 동질감을 불어일으킬 수 있다고 믿습니다."
 
 
 XSM_earning_respect:0 "존경을 얻어라"
-XSM_earning_respect_desc:0 "The Governor has prepared a selection of fine gifts to the warlords of China, each item chosen to remind the warlord of the Ma Clique's essential role in keeping China whole."
+XSM_earning_respect_desc:0 "총독께서 중국 군벌 지도자들에게 돌릴 좋은 선물을 준비했습니다. 각 선물들은 모두 군벌에게 중국 전체를 유지하기 위해서는 마가군벌이 꼭 필요하다는 사실을 상기시켜주기 위해 선택했습니다."
 
 XSM_making_friends:0 "새동맹을 만들다"
 XSM_making_friends_desc:0 "It is difficult for the Hui people to interact with the other provinces as equals. Stigma against Muslims pervades intellectual circles. It is time for our administration to publish warm advertisements for our provinces and entice those who are open minded to come."
