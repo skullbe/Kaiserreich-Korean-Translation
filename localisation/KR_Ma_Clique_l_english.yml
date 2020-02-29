@@ -504,47 +504,47 @@ XSM_warlord_alliance_desc:0 "중국 군벌들은 상호 불신을 공유하고 �
 XSM_earning_respect:0 "존경을 얻어라"
 XSM_earning_respect_desc:0 "총독께서 중국 군벌 지도자들에게 돌릴 좋은 선물을 준비했습니다. 각 선물들은 모두 군벌에게 중국 전체를 유지하기 위해서는 마가군벌이 꼭 필요하다는 사실을 상기시켜주기 위해 선택했습니다."
 
-XSM_making_friends:0 "새동맹을 만들다"
-XSM_making_friends_desc:0 "It is difficult for the Hui people to interact with the other provinces as equals. Stigma against Muslims pervades intellectual circles. It is time for our administration to publish warm advertisements for our provinces and entice those who are open minded to come."
+XSM_making_friends:0 "새 동맹을 만들다"
+XSM_making_friends_desc:0 "휘족이 다른 지역에서 대등한 위치에서 교역하기는 힘듭니다. 이슬람교도에 대한 차별의식이 지식인들 사이에서 만연해 있습니다. 행정부 차원에서 각 지방에 훈훈한 선전을 보내서 열린 마음을 가진 사람들을 끌어모아야 합니다."
 
 XSM_removing_enemies:0 "오래된 적과 합의"
-XSM_removing_enemies_desc:0 "The turmoil of the warlords has left our administration with many enemies. Even within the families there are those who would see us subservient again to Beijing or Guangdong. It is necessary for a master list of these agitators to be made and kept for our own reference. "
+XSM_removing_enemies_desc:0 "군벌 시대의 혼란으로 인해 행정부 내에 수많은 적들을 만들었습니다. 심지어 가문 내에서도 우리가 베이징이나 광둥에 충성하는 모습을 보고자 하는 사람들이 있을 정도입니다. 이런 선동가들을 조사해 명단을 만들고 언제든지 참고할 수 있도록 보관할 필요가 있습니다. "
 
 XSM_hard_general:0 "엄격한 장군들"
-XSM_hard_general_desc:0 "Ma Hongkui has triumphed in the struggle for political primacy. A hardliner, he folds fast to the ideas and style of rulership of Hongkui."
+XSM_hard_general_desc:0 "마홍쿠이가 정치적인 투쟁에서 승리를 거두었습니다. 강경파 마홍쿠이는 자기 방식의 통치 방식과 사상을 빠르게 적용했습니다."
 
 XSM_eliminating_socialists:0 "사회주의자 소탕"
-XSM_eliminating_socialists_desc:0 "Socialism flows into China from the southern ports, thanks to the decadent Europeans. We steel ourselves against the Soviets before, but new ways of reaching socialism bleed into Sun Yat-Sen thought. We must ensure that copies of these books are all banned in our provinces."
+XSM_eliminating_socialists_desc:0 "타락한 유럽인들이 창안한 사회주의가 남부 항구에서 출발해 중국에 침투해 들어왔습니다. 예전에 소비에트 연방의 위협에 대항해서 결심을 다졌던 적이 있지만, 사회주의 사상이 쑨원의 사상에까지 스며들어 있습니다. 쑨원이 저술한 서적의 복제를 우리가 점거한 지역 내에서는 확실하게 금지시켜야 합니다."
 
-XSM_dual_province_rule:0 "주통치 이원화"
-XSM_dual_province_rule_desc:0 "Being a family, we are able to organize organically and sort responsibility fairly. This has led the administration towards a Dual Provincial system, Like the Diarchy of the Southern provinces, final authority is shared between two governors that balance each other. "
+XSM_dual_province_rule:0 "지역 통치 이원화"
+XSM_dual_province_rule_desc:0 "가족으로서 우리는 유기적으로 조직하면서 책임을 분담할 수 있습니다. 이로 인해 행정 체계를 남부의 양두정치와 비슷한 쌍두 체제로 만들었습니다. 최고결정권은 균형있게 권력을 분담한 두 총독이 공유합니다. "
 
 XSM_no_more_threats:0 "더이상의 위협은 없다"
-XSM_no_more_threats_desc:0 "Tianshui lacks natural defenses which would shield it from invasion and the threat of invasion has limited our foreign policy options. We should build a network of heavy fortifications to mitigate the issue."
+XSM_no_more_threats_desc:0 "톈수이를 방어할 자연 방어망이 부족한 와중에 침략의 위협이 다가오고 있기 때문에 외교 정책에서 선택할 수 있는 사항이 굉장히 제한되어 있습니다. 이 문제를 조금이나마 해결하기 위해 강력한 요새망을 구축해야 합니다."
 
 XSM_ningxia_mobilization_start:0 "닝샤를 동원"
-XSM_ningxia_mobilization_start_desc:0 "Ningxia is the beating heart of the Hui people. While our control there is firm, there is more still that can be done to encourage militarization and public service."
+XSM_ningxia_mobilization_start_desc:0 "닝샤는 휘족의 심장과도 같은 땅입니다. 우리의 통제력이 확고하다고는 해도 국가 군사화와 공공 질서 향상을 위해 할 수 있는 일이 여전히 많습니다."
 
-XSM_baojia:0 "보갑 체계"
-XSM_baojia_desc:0 "The logical extension of familial governance is the Baojia system. This tradition has been revived by the administration in order to delegate law keeping. Ten Hui families will dedicate themselves to a goal within their community, and each family attempts to persuade ten families to subordinate to them. This will also help enfranchise immigrants."
+XSM_baojia:0 "보갑제"
+XSM_baojia_desc:0 "보갑제는 가족 통치 체제의 논리적 확장형입니다. 정부가 법을 지키도록 만들기 위해서 이 체제를 부활시켰습니다. 휘족 10개 가족이 한개 공동체를 이뤄 함께 목표를 이루기 위해 전념할 것이며 함께 죄를 질 겁니다. 이 체제를 도입한다면 이민자에게 선거권을 부여하는데도 도움이 될 겁니다."
 
 XSM_consolidating_finance:0 "재무 통합"
-XSM_consolidating_finance_desc:0 "The Governors' budgets are turning up short each year. The solution presented to the administration is to consolidate the treasuries and accounting offices of the provinces and allocate remaining budgets in the best interest of the Hui people. "
+XSM_consolidating_finance_desc:0 "총독들의 예산이 해가 갈수록 부족해지고 있습니다. 행정부에서 제시한 해법은 지방의 회계처와 회계사무소를 통합하고 휘족의 이익을 위해 남은 예산을 배분하는 겁니다. "
 
 XSM_ningxia_mobilization:0 "장정들을 동원"
-XSM_ningxia_mobilization_desc:0 "With open warfare upon us, previous considerations for the impact of general mobilization upon the economy no longer hold sway. We must implement as thorough a policy as can be sustained."
+XSM_ningxia_mobilization_desc:0 "전쟁이 닥치면서 총동원령이 경제에 미치는 영향에 대한 예전의 주장은 더 이상 지배력을 잃었습니다. 지속 가능한 한에서 철저한 정책을 실시해야 합니다."
 
 XSM_horsies_strong:0 "기병대 출격"
-XSM_horsies_strong_desc:0 "Hui cavalry men won great renown in the last century and our own men carried that tradition on when order broke down in China. With war upon us we should develop a new training regimen drawing on these experiences to press our advantage."
+XSM_horsies_strong_desc:0 "지난 백년간 휘족 기병대는 명성을 쌓아왔고 중국에서 질서가 무너진 이후에도 그 전통을 이어갔습니다. 전쟁을 앞두고 있는 지금 그들의 경험을 토대로 새로운 훈련 방식을 개발하여 전장에서 우위를 점해야 합니다."
 
-XSM_leading_charge:0 "돌격 지휘"
-XSM_leading_charge_desc:0 "The Gansu Braves of old led the charge against foreigners in China's darkest hour. It is in the interest of national unity that the Governors revive the banners of the braves."
+XSM_leading_charge:0 "돌진 지휘"
+XSM_leading_charge_desc:0 "중국의 가장 어두운 시대에도 감군은 망설임 없이 외세에 돌진했습니다. 국민 통합을 위해 감군의 깃발을 다시 들어올려야 합니다."
 
 XSM_ningxia_guard:0 "닝샤 근위대"
-XSM_ningxia_guard_desc:0 "Ma Hongbin is a staunch supporter of special forces like those used to such great effect during the Weltkrieg. To accomplish the development of such, a new divisional structure has been proposed. This structure designates special units as 'guards' responsible directly to individual political and military chiefs outside the stifling bureaucracy of the army as a whole."
+XSM_ningxia_guard_desc:0 "마홍빈은 세계대전 동안 그렇게 큰 효과를 거두었던 특수부대의 열렬한 지지자입니다. 특수부대에 관한 발전을 이루기 위해 새로운 군 편제가 제안되었습니다. 이 편제는 군 전체에 만연한 숨막히는 관료주의 밖에서 활동하는 개별적 정치군사 책임자들이 직접 책임지는 '근위대'라는 특수부대를 만들기 위한 체제입니다."
 
 XSM_saving_suffering:0 "고통을 구원"
-XSM_saving_suffering_desc:0 "While much of China is densely populated, the northwest is anything but. To conserve what manpower we can, individual divisions must have western style field hospitals with western-trained nurses and doctors conscripted for the training of those who will work in the field."
+XSM_saving_suffering_desc:0 "중국의 대부분 지역이 인구밀도가 높다고 해도 서북 지역은 전혀 아닙니다. 할 수 있는한 최대로 인력을 유지하고 보존하기 위해 각 사단에서 서구식 훈련을 받은 간호사와 의사가 근무하는 서구식 야전 병원을 보유해서 더 많은 야전 의사를 훈련시켜야 합니다."
 
 #Cosmetic Tags
 XSM_KMT_totalist:0 "휘장 자치령"
