@@ -369,56 +369,56 @@ RUS_The_Wealth_Of_Siberia_desc:0 "시베리아 땅 아래에는 아직 개발되
 RUS_Education_Campaigns:0 "교육 운동"
 RUS_Education_Campaigns_desc:0 "사회와 정치적 불안으로 분열된 러시아 정부는 어떠한 대규모 교육 프로그램도 시작할 수 없었습니다. 농촌에는 아직도 많은 인구가 존재하고 있습니다. 마을 마다 학교를 지어 교육시키면, 우리 사회와 경제에 더 많은 사람들을 통합할 수 있도록 해줄 것입니다."
 
-RUS_Decentralised_Logistics:0 "Decentralised Logistics"
-RUS_Decentralised_Logistics_desc:0 "Russia's size is both her greatest strength and her greatest weakness. As hard as it is for hostile armies to remain in supply, it is so too for our armies. By establishing local supply points in key areas, we can make sure our troops stay in good supply at all times."
+RUS_Decentralised_Logistics:0 "물자 분산"
+RUS_Decentralised_Logistics_desc:0 "러시아의 광활한 영토는 가장 큰 장점이면서 동시에 가장 큰 약점입니다. 이는 적의 보급을 어렵게 만들기는 하지만, 우리 군대도 마찬가지입니다. 따라서 핵심 지역에 현지 보급 지점을 구축함으로써 우리의 부대는 항상 좋은 보급 상태를 유지할 수 있도록 만들어야 합니다."
 
-RUS_Expand_The_Transsiberian:0 "Expand the Transsiberian"
-RUS_Expand_The_Transsiberian_desc:0 "The importance of the Transsiberian Railway to our military and economy cannot be overstated. With the infrastructure therein strained by growth, we must expand it, building new railways and junctions using newer technology."
+RUS_Expand_The_Transsiberian:0 "시베리아 횡단 철도 확장"
+RUS_Expand_The_Transsiberian_desc:0 "우리 군대와 경제에 있어 시베리아 횡단 철도의 중요성은 아무리 강조해도 지나치지 않습니다. 성장으로 인해 교통 인프라가 포화상태에 이르렀으므로, 우리는 신기술을 활용하여 철도의 새로운 연결망을 건설해 교통 인프라를 확장해야 합니다."
 
-RUS_Research_Investments:0 "Research Investments"
-RUS_Research_Investments_desc:0 "With our heavy investment in our industry and economy, we have managed to free up more resources to be put into research. In the end, it will pay us off very well."
+RUS_Research_Investments:0 "연구에 투자"
+RUS_Research_Investments_desc:0 "우리의 산업과 경제에 대한 막대한 투자를 통해 우리는 연구에 투입될 더 많은 자원을 확보할 수 있었습니다. 이러한 상태는 우리에게 아주 좋은 성과를 가져다 줄 것입니다."
 
-RUS_Project_Kremlin:0 "Project Kremlin"
-RUS_Project_Kremlin_desc:0 "We must avoid lagging behind our rivals in nuclear fission, the most advanced of modern sciences."
+RUS_Project_Kremlin:0 "크렘린 계획"
+RUS_Project_Kremlin_desc:0 "우리는 현대 과학의 가장 진보된 부문이라고 할 수 있는 핵분열에서 경쟁국에게 뒤처지는 것을 방지해야 합니다."
 
-RUS_Project_Kostikov:0 "Project Kostikov"
-RUS_Project_Kostikov_desc:0 "Investments into rocketry could gift us not only with long range ballistic weapons, but also with technology for flight and travel."
+RUS_Project_Kostikov:0 "코스티코프 계획"
+RUS_Project_Kostikov_desc:0 "로켓 개발에 대한 투자는 장거리 탄도 무기뿐만 아니라 비행과 여행에 필요한 기술에도 필수적입니다."
 
-RUS_Resource_Prospection:0 "Resources Prospection"
-RUS_Resource_Prospection_desc:0 "Minerals are numerous in Russia and can boost the economy rapidly. That's why we have to initiate an extraction of the various minerals in the whole country."
+RUS_Resource_Prospection:0 "자원에 대한 전망"
+RUS_Resource_Prospection_desc:0 "러시아에는 많은 광물이 매장되어 있고 이러한 자원을 활용하면 경제를 빠르게 성장시킬 수 있습니다. 우리는 전국의 다양한 광물의 채취를 시작해야 합니다."
 
-RUS_Army_Modernisation:0 "Army Modernisation"
-RUS_Army_Modernisation_desc:0 "No matter what plan we rely on, we have to modernise not only our tactics, but indeed our very rifles and general equipment."
+RUS_Army_Modernisation:0 "군 현대화"
+RUS_Army_Modernisation_desc:0 "우리가 어떤 교리에 따르든지 간에, 전술뿐만 아니라 실제로 우리의 군대가 사용하는 소총과 장비들을 현대화해야 합니다."
 
-RUS_Reintroduce_Okhranka:0 "Reintroduce Okhranka"
-RUS_Reintroduce_Okhranka_desc:0 "With revolutionary movements active throughout Russia, some members of the Duma are suggesting a complete reorganisation of the internal police on the basis of the old Tsarist secret police, 'Okhrannoye Otdeleniye' or simply 'Okhranka'. This organisation will hunt down any radical revolutionary elements and 're-educate' them to respect the Russian state!"
+RUS_Reintroduce_Okhranka:0 "오흐란카 재도입"
+RUS_Reintroduce_Okhranka_desc:0 "러시아 전역에서 혁명 운동이 활발히 전개되고 있는 가운데, 의회의 일부 의원들은 옛 차르 시절의 비밀경찰인 '오흐란카' 혹은 보안부를 통한 내부 경찰의 전면 개편을 주장하고 있습니다. 오흐란카는 급진적인 혁명적 요소와 사람들을 찾아내고, 이들이 러시아 국가에 충성을 다하도록 하기 위해 이들을 '재교육'할 것입니다."
 
-RUS_Electronic_Warfare:0 "Electronic Warfare"
-RUS_Electronic_Warfare_desc:0 "Modern wars are only partially won on the battlefield. Equally important are the men and women behind desks and radios, dealing with intelligence and transmissions. We need to make their work easier."
+RUS_Electronic_Warfare:0 "전자전"
+RUS_Electronic_Warfare_desc:0 "현대의 전쟁은 전쟁터에서의 부분적인 승리만을 의미하지 않습니다. 정보의 전송과 분석을 다루는 사람들도 전장에서 싸우문 병사만큼 중요합니다. 우리는 그들이 일을 더욱 수월하게 할 수 있도록 지원할 필요가 있습니다."
 
-RUS_Front_Line_Commissars:0 "Front Line Commissars"
-RUS_Front_Line_Commissars_desc:0 "The Okhranka was given posts in our military high command to prevent dangerous revolutionaries from agitating the troops, we won't let this happen again."
+RUS_Front_Line_Commissars:0 "전선의 정치 위원"
+RUS_Front_Line_Commissars_desc:0 "오흐란카는 위험한 혁명가들이 군대를 선동해서 쿠데타를 일으키는 것을 막기 위해, 군 최고 사령부의 직책을 맡았습니다. 우리는 앞서 얘기한 비극이 일어나지 않도록 할 것입니다."
 
-RUS_Equipment_Modernisation:0 "Equipment Modernisation"
-RUS_Equipment_Modernisation_desc:0 "We have come some part of the way, but there's still more that we can do. The core of any army is, in the end, the artillery and the rifle, just like in the Weltkrieg."
+RUS_Equipment_Modernisation:0 "장비 현대화"
+RUS_Equipment_Modernisation_desc:0 "우리는 어느 정도의 성과를 얻었지만, 여전히 우리가 해야 할 일이 더 남아있습니다. 어떤 군대든지 핵심은 결국, 세계대전에서와 마찬가지로 대포와 소총입니다."
 
-RUS_Special_Forces_Office:0 "Special Forces Office"
-RUS_Special_Forces_Office_desc:0 "Our chief of staff believes that while weight isn't bad, finesse is definitely the better option. With elite units trained for specific circumstances, we can cut enemy lines apart."
+RUS_Special_Forces_Office:0 "특수 부대"
+RUS_Special_Forces_Office_desc:0 "우리 장관들은 군대의 규모도 중요하지만 실력이 확실히 더 중요하다고 믿고 있습니다. 특정 상황에 맞게 훈련을 받은 정예부대가 적진을 분쇄할 수 있을 것입니다."
 
-RUS_Army_Motorisation:0 "Army Motorisation"
-RUS_Army_Motorisation_desc:0 "Mechanisation of our infantry is very expensive but would offer substantial protection, firepower and mobility to our leg infantry. It won't be cheap, but it will be worth it."
+RUS_Army_Motorisation:0 "군대 기계화"
+RUS_Army_Motorisation_desc:0 "우리 보병의 기계화는 매우 많은 비용이 들지만, 우리의 보병에게 실질적인 보호, 화력, 이동성을 제공할 것입니다. 과정은 힘들겠지만 그만한 가치가 있을 것입니다."
 
-RUS_VVSR:0 "VVSR"
-RUS_VVSR_desc:0 "The VVSR (Voyenno-Vozdushnye Sily Rossii, 'Russian Military Air Force') is badly outdated. We use the same planes and tactics today that we did twenty years ago. By expanding our air-bases and training new recruits we could change this."
+RUS_VVSR:0 "VVSR 개혁"
+RUS_VVSR_desc:0 "VVSR(러시아 공군)은 매우 구식인 항공기만 보유하고 있습니다. 우리는 20년 전에 사용했던 것과 같은 비행기와 전술을 사용합니다. 항공 기지를 확장하고 신병 파일럿을 훈련시킴으로써 우리는 VVSR의 개혁에 착수할 수 있습니다."
 
-RUS_The_ORT_System:0 "The ORT System"
-RUS_The_ORT_System_desc:0 "The Okhrana are ready to set up a so-called Radio Technology System, inspired by foreign technologies. They believe they could keep track of any hostile troop movements if only they are fed enough resources."
+RUS_The_ORT_System:0 "ORT 시스템"
+RUS_The_ORT_System_desc:0 "오흐란카는 외국의 기술에서 영감을 받은 소위 '라디오 기술 시스템'을 도입할 준비가 되어 있습니다. 그들은 충분한 지원을 받는다면 어떠한 적대적인 군대의 이동이라도 추적할 수 있을 것이라고 주장합니다."
 
-RUS_Disorganisation:0 "Disorganisation"
-RUS_Disorganisation_desc:0 "Enemy land forces can be defeated safely from the air, often even without directly engaging them. Our bombers could be used to disrupt supply lines and take out key industry far from the battle front."
+RUS_Disorganisation:0 "해체"
+RUS_Disorganisation_desc:0 "적의 지상병력에 직접 개입하지 않고 공중에서 안전하게 격퇴할 수도 있습니다. 우리의 폭격기는 적의 보급선을 교란시키고 전선에서 멀리 떨어진 주요 산업을 제거하는데 효과적일 수 있습니다."
 
-RUS_Air_Superiority:0 "Air Superiority"
-RUS_Air_Superiority_desc:0 "While bombers may damage our opposition, not a single one of them will reach their targets without sufficient protection from our fighters. These fighters can also provide cover for our own troops and industry."
+RUS_Air_Superiority:0 "공중 우세"
+RUS_Air_Superiority_desc:0 "폭격기가 우리의 적에게 피해를 줄 수는 있지만, 우리 전투기의 충분한 보호 없이는 한 대의 폭격기도 목표물에 도달하지 못할 것입니다. 게다가 호위 임무 외에도 전투기들은 우리 군대와 산업을 보호할 수 있습니다."
 
 RUS_Wing_Formations:0 "Wing Formations"
 RUS_Wing_Formations_desc:0 "Every single pilot needs to operate closer together with smaller formations of planes, divided into squadrons and wings."
