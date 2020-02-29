@@ -313,51 +313,51 @@ mac.207.tfwnobiao:0 "우슈에서 사는 부칭족 족장 차이쭤젠은 어려
 mac.207.a:0 "우리가 간다, 쓰레기자식들아"
 
 mac.208.t:0 "간쑤로 이목을 돌리다"
-mac.208.d:0 "Though the war proved a daunting challenge as opportunitsts from all sides tried to attack the Ma's domain, they proved victories in the end thanks to the strength of their leadership and soldiers. With the immediate threat of invasion dealt with for now, the Ma families turn their attention to the city of Gansu, once the home of the clique's patriarch and the namesake of their greatest triumph, the Gansu Braves. Now it lies in ruins following the conflicts of the 1920's and is swamped with Sichuanese refugees from the province's civil war and subsequent famine of 1936. It is imperative that the clique put their attention to the current governor of Gansu, Ma Hongkui, whose harsh rule over the province cannot hide that he's gained some of the more laccadasical traits that his father, Ma Fuxiang, only gained later in in life."
+mac.208.d:0 "사방에서 마가군벌을 옥죄어오면서 전쟁이 감당하기 벅찬 도전이 되어버렸지만, 마침내 지도력과 군사력을 통해 마침내 승리와 함께 종전을 맞았습니다. 지금 당장 당면한 침략의 위협을 처리한 마씨 일가는 '감군'이라는 이전 가문 군대와 그들의 위대한 승리의 이름을 딴 간쑤시로 시야를 돌렸습니다. 간쑤는 1920년 분쟁 이래로 폐허가 된 상태이고, 1936년 내전과 그에 따른 기근으로 인해 몰려들어온 쓰촨 난민으로 넘쳐나고 있습니다. 아버지 마푸샹을 닮아 부주의하며 지역에서 가혹한 통치를 휘두르는 간쑤 총독 마홍쿠이에게 반드시 주의를 기울여야 합니다."
 mac.208.a:0 "군벌에 가장 중요한 도시다"
 
-mac.209.t:0 "일가인 홍귀와 홍빈이 불안해지다"
-mac.209.d:0 "With the foreign threat removed from now, some of the members of the Ma family have started to turn their attention against each other, vying for dominance over the family's domain. This time, governor Ma Hongkui of Gansu has begun to agitate against his cousin, Governor Ma Hongbin of Ningxia. Each blames the other for the crisis in Suiyuan before the war with Mongolia began, with Hongkui blaming his cousin's alleged inaction and softness towards the northern bandits and their ilk. Hongbin on the other hand asserts that Hongkui's to blame for endangering Suiyuan, claiming that his cousin failed because he treated the Mongols as he'd treat the Tibetans, misjudging the nature of the situation. It now falls uxpon the leadership in Xining to weigh into this dispute between the cousins and settle it."
-mac.209.a:0 "마 홍귀는 시닝에서 지지를 받으면 안된다"
-mac.209.b:0 "마 홍귀는 시닝에서 지지를 받을만하다"
+mac.209.t:0 "일가인 마홍쿠이와 마홍빈이 불안의 씨앗을 낳다"
+mac.209.d:0 "외세의 위협을 이겨낸 이후로 마씨 일가 사람들 중 일부가 서로에게 화살을 돌리며 가문 영향력 내에서 영토 지배권을 놓고 다투고 있습니다. 이번에는 간쑤의 마홍쿠이가 사촌이자 닝샤의 총독인 마홍빈에게 시비를 걸기 시작했습니다. 몽골과 전쟁이 벌어지기도 전인 쑤이위안 위기 때 이미 둘은 서로를 비난하고 있었는데, 특히 마홍쿠이는 사촌 마홍빈이 북부 도적같은 놈들에게 충분한 대응을 하지 않으며 하더라도 너무 미온적이라고 비난한 바 있었습니다. 한편 마홍빈은 마홍쿠이가 쑤이위안을 위험에 빠트리는 주장을 하고 있으며, 상황이 전혀 다르다는 사실을 깨닫지 못한 채 티베트에서 했던 그대로 몽골에서도 똑같이 처리하려 한다고 대응했습니다. 이제 분쟁의 향방은 시닝을 지배하는 지도자의 손에 달려 있습니다."
+mac.209.a:0 "시닝은 마홍쿠이를 지지하지 않을 것이다"
+mac.209.b:0 "시닝은 마홍쿠이를 지지할 것이다"
 
-mac.210.t:0 "마홍귀가 마량에게 닝샤를 돕도록 권하다"
-mac.210.d:0 "Even though the Xining Council has refused to side with Governor Ma Hongkui of Gansu, he seems undaunted and has made a new appeal to the council. Ma Hongkui now suggests that Ma Liang, a close ally to Ma Bufang, should assist Ma Hongbin in governing Ningxia following the past issues with the Mongols in the north. While some seem to agree with Ma Hongkui's assessment, others think that this isn't just unnecessary, but an affront to his elder cousin."
-mac.210.a:0 "우리는 마량을 전력으로 도울것이다"
-mac.210.b:0 "부담을 지기원한다면 이것이 필요한 마홍귀가 보여줘야한다"
+mac.210.t:0 "마홍쿠이가 마량에게 닝샤를 돕도록 권하다"
+mac.210.d:0 "시닝 의회가 간쑤 총독 마홍쿠이의 편을 들지 않았음에도 불구하고 그는 여전히 의연한 태도로 의회측에 계속해서 지원을 요청했습니다. 마홍쿠이는 현재 마부팡의 가까운 동맹인 마량에게 접근하여 북부에서 다가올 몽골과의 문제를 처리하는데 있어서 닝샤 총독 마홍빈을 도와야만 한다고 주장하는 중입니다. 일부는 마홍쿠이의 평가가 일리 있다고 생각하지만, 다른 일각에서는 이런 조치가 불필요할 뿐 아니라 일가 친척에 대한 모욕에 불과하다고 주장합니다."
+mac.210.a:0 "전적으로 마량을 돕겠다"
+mac.210.b:0 "그래야만 하는 이유를 마홍쿠이에게 직접 증명해 보라고 해라"
 
-mac.211.t:0 "마홍빈이 마홍귀가 이단이라고 주장하다"
-mac.211.d:0 "Refusing to take the snub by the leadership in Xining lying down, Governor Ma Hongbin of Ningxia claims Governor Ma Hongkui of Gansu is serectly funding the Yihewani, an anti-Sufi sect that is promoting liberalization of the Hui to counter Han incursions. Claiming that the decision to side with Ma Hongkui would be tantamount to encourage heterodox islam in the Western provinces, he urges this decision to be reconsidered in light of these new revalations. Ma Hongkui himself strongly disputes these claims, claiming that Ma Hongbin's accusations are not only utterly baseless, but an outright deflection from his own shortcomings as governor of Ningxia."
-mac.211.a:0 "그리고 마홍귀의 방법은 마홍빈을 이길것이다"
-mac.211.b:0 "우리는 신중하게 접근해야만한다. 그렇지 않으면 우리 전부가 혼란에 빠질것이다"
+mac.211.t:0 "마홍빈이 마홍쿠이가 이단이라고 주장하다"
+mac.211.d:0 "시닝 통치권을 얻지 못하는 수모를 겪은 닝샤 총독 마홍빈은 비밀리에 반수피파 종교운동이자 한족의 침략에 대응하기 위한 휘족 해방 운동인 이허완이를 지원하면서 마홍쿠이의 간쑤 지배권을 빼앗으려 하는 중입니다. 그는 마홍쿠이의 편을 드는 행보는 서부의 이단적인 이슬람을 조장하는 것과 다를 바가 없다고 주장하며 자기 의견을 반영하여 결정 사항을 재고해 달라고 촉구하고 있습니다. 마홍쿠이는 마홍빈의 비난은 전적으로 아무런 근거가 없으며, 닝샤 정권의 약점을 전혀 지적하지 못하고 있다고 강력하게 반박했습니다."
+mac.211.a:0 "마홍쿠이의 새로운 운동이 마홍빈을 압도할 것이다"
+mac.211.b:0 "신중하게 해결하지 않는다면 군벌 전체가 혼란에 빠질 것이다"
 
-mac.212.t:0 "마홍빈이 마홍귀에게 어리석음을 선물하다"
-mac.212.d:0 "Taking a more conservative approach rather than rushing into actions, governor Ma Hongbin of Ningxia was allowed to gather evidence for his claims and present his case before the Xining counsel. When the day came for him to do so, he made a strong case for himself, outlining not only Ma Hongkui's failures in rebuilding Gansu after their ransacking by the Guominjun and their raids by Ma Zhongying, but also the need for greater religious and political unity following the buddhist attack. Ma Hongbin has requested that the governorship of Gansu be replaced with someone more proven and experienced to be the caretaker of Gansu's legacy. He is most likely expecting that he will be made the governor, or at least someone close to him to reunite the northern clique like it was under the Ma's golden days under Fuxiang."
+mac.212.t:0 "마홍빈이 마홍쿠이를 물먹이다"
+mac.212.d:0 "서둘러 행동에 나서기보다는 좀 더 신중한 접근법을 선택한 닝샤 총독 마홍빈은 자기 주장을 뒷받침하는 증거를 모아 시닝 의회 앞에 제시할 수 있게 되었습니다. 마침내 의회가 소집되자 그는 마홍쿠이가 국민군이 약탈하고 마중잉이 습격한 간쑤를 재구축하는데 실패했다고 말하며 불교의 압력에 대응해 종교적이고 정치적으로 하나로 똘똘 뭉쳐야 한다고 강하게 주장했습니다. 마홍빈은 현재 총독보다 더 간쑤의 상황을 많이 겪어보고 능력도 뛰어난 인물로 간쑤 총독을 교체해야 한다고 제안했습니다. 또한 자기 자신이 총독이 되거나, 아니라도 그와 비슷한 누군가가 마푸샹 아래에서 마가 군벌이 누리던 황금기 아래에서처럼 북부 군벌을 재결합시키기를 기대하고 있습니다."
 mac.212.a:0 "마홍빈의 수는 호기심을 자극하는군"
 
-mac.213.t:0 "홍빈 항소 결정 위원회"
-mac.213.d:0 "The Xining Council cannot reach a conclusion as to whether Ma Hongkui has betrayed his post enough to be removed from governorship. An emissary of Ma Hongkui has silently entered the council during a prayer break and spoken to several council members. This emissary delivers an excuse as to why Ma Hongkui cannot be present for the family at the time, and offers vain accusations of Ma Hongbin as a traitor. Ashamed that Ma Hongkui could not appear in person, the council throws their support behind Ma Hongbin"
-mac.213.a:0 "우리는 위원회의 결정을 받아드려야한다"
+mac.213.t:0 "마홍빈의 주장에 의회가 결단을 내리지 못하다"
+mac.213.d:0 "시닝 의회는 마홍쿠이가 총독직에서 쫓겨날 정도로 잘못했다는 결론에 다다르지 못했습니다. 마홍쿠이가 파견한 한 사절이 기도를 위한 휴식시간 도중에 조용히 의회에 들어가 의원 몇명과 조용히 대화를 나누었습니다. 사절은 마홍쿠이가 어째서 회의에 참석하지 못했는지 해명하면서 마홍빈이 배신을 저질렀다고 헛된 비난을 퍼부었습니다. 마홍쿠이가 직접 참석할 수 없다는데 아쉬움을 품은 채로 의회는 마홍빈에게 지원을 주기로 약속했습니다"
+mac.213.a:0 "위원회가 결정한 사항을 받아들여야한다"
 
-mac.214.t:0 "마가가 홍귀의 무능력함을 발견하여, 홍빈을 위해 결집하다"
-mac.221.d:0 "With Ma Bufang's close ally Ma Liang being favored in the arguments, the political pressure on Ma Hongbin has never been higher. With this, he has decided to resign leaving the position to Ma Liang after being "persuaded" by his greatest enemies. Ma Hongbin will most likely return to his estate in Ningxia, where he can focus on military affairs over political affairs. With this, Hongkui has once again managed to consolidate political power to the northern clique, leaving them in a position of dominant influence."
-mac.221.a:0 "Zhenzhu A"
+mac.214.t:0 "마씨 일가가 마홍쿠이의 무능력함을 발견하여, 마홍빈을 위해 결집하다"
+mac.214.d:0 "마부팡의 가까운 동맹 마량이 이번 논쟁에서도 각광받는 가운데 마홍빈에 대한 정치적 압력이 사상 최대로 강해졌습니다. 결국 마홍빈은 최대의 적에게 "설득" 당했다고 말하며 총독직을 마량에게 넘겨주었습니다. 마홍빈은 정치가 아닌 군사적 문제에 집중할 수 있는 닝샤의 영지로 돌아올 가능성이 큽니다. 이로써 마홍쿠이는 또 다시 한번 북부 군벌 내에서 권력을 공고히 하는데 성공하여 지배적 영향력을 행사하는 위치에 올라섰습니다."
+mac.214.a:0 "전주 아(알라시여)"
 
-mac.220.t:0 "마홍귀의 저항이 가문내 입씨름으로 번지다"
-mac.220.d:0 "Ma Hongbin protests the instatment of Ma Liang as General in Ningxia, claims this is an affront on Ma Hongbin's experience and age. Liang has countered saying that Ma Zhongying would be able easily overthrow him should the affair in Kumul result in his victory. The conflict has erupted to a point where we need to decide who to favor, as insults are being slung left and right, leaving the province unmanageable."
-mac.220.a:0 "우리는 빨리 시닝에 위원회를 열어야한다"
+mac.220.t:0 "마홍쿠이의 저항이 가문내 입씨름으로 번지다"
+mac.220.d:0 "마홍빈은 마량이 닝샤 장군으로 임명된 사안에 항의하며 이런 결정이 자신의 경험과 나이에 대한 모욕이라고 주장합니다. 마량은 마중잉이 쿠물에서 승리를 거둔다면 손쉽게 마홍빈을 축출할 지도 모른다고 말하며 반박했습니다. 통치는 내버려 둔 채 모욕적 언사가 오가면서 갈등이 폭발했고 어느 한 쪽을 지지해야 하는 상황이 되었습니다."
+mac.220.a:0 "하루 빨리 시닝 의회를 개회해야 한다"
 mac.220.b:0 "이제 떠날때가 되었다"
 
 mac.221.t:0 "마홍빈이 닝샤에서 쫒겨나다"
-mac.221.d:0 "With Ma Bufang's close ally Ma Liang being favored in the arguments, the political pressure on Ma Hongbin has never been higher. With this, he has decided to resign leaving the position to Ma Liang after being "persuaded" by his greatest enemies. With this, Hongkui has once again managed to consolidate political power to the northern clique, leaving them in a position of dominant influence."
-mac.221.a:0 "Zhenzhu A"
+mac.221.d:0 "마부팡의 가까운 동맹 마량이 이번 논쟁에서도 각광받는 가운데 마홍빈에 대한 정치적 압력이 사상 최대로 강해졌습니다. 결국 마홍빈은 최대의 적에게 "설득" 당했다고 말하며 총독직을 마량에게 넘겨주었습니다. 이로써 마홍쿠이는 또 다시 한번 북부 군벌 내에서 권력을 공고히 하는데 성공하여 지배적 영향력을 행사하는 위치에 올라섰습니다."
+mac.221.a:0 "전주 아(알라시여)"
 
-mac.222.t:0 "마홍귀가 가문의 관심을 간쑤로 돌리다"
-mac.222.d:0 "The Xining Council is at an uproar over Ma Bufang's clear sectarian policies, and is ready to declare him unfit to rule Qinghai, unti Ma Hongbin returns the favor and stands for Ma Bufang. The Xining Council does not pass any resolution to retire Ma Bufang, but leaves in protest before the next meeting could be set.  Ma Hongkui, seeing power diffuse in Qinghai, has invited members of the three Ma families to Gansu to see his work. The majority of the Xining council has taken him up on his offer, and political resolution has been stalled in favor of day tripping."
+mac.222.t:0 "마홍쿠이가 가문의 관심을 간쑤로 돌리다"
+mac.222.d:0 "시닝 의회는 마부팡의 분명한 종파 정책으로 인해 난리가 난 상태입니다. 때문에 마홍빈이 호의에 답해 마부팡의 편을 들지 않는다면, 마부팡이 칭하이를 지배하는데 적절치 못하다고 선언할 준비가 되어 있습니다. 시닝 의회는 마부팡 은최 결의안을 통과시키지 않았고 다음 회의 예정도 정하기 전에 항의의 표시로 회의장을 박차고 나갔습니다. 칭하이에서 권력이 분산되는 모습을 바라보던 마홍쿠이는 세 마씨 가문을 간쑤로 초대했습니다. 대다수 시닝 의회 의원들은 그의 제안을 수용했습니다. 정치적 결정을 하루 안에 내리는데 제동이 걸렸습니다."
 mac.222.a:0 "간쑤성에는 아이스크림 가게가 있다고 하던데"
 
 mac.223.t:0 "마홍귀가 가족을 흔들고, 닝샤의 수반으로 임명되다"
-mac.223.d:0 "The Ma families is swayed by Ma Hongkui's display of planned constructions in Gansu and arrive at the Tianshui Military Headquarters. There Ma Hongkui promises future modernization of Qinghai under Bufang, Yinchuan under Ma Liang, and that Han will never lead Hui into battle for China's survival. As a final note, Ma Hongkui adds that Gansu is the only province in the Ma Clique that is recognized as a full province by most chinese intellectuals, and therefore it is where most chinese will base their judgements of the clique on. The Ma families are swayed and endorses Ma Hongkui's plan"
+mac.223.d:0 "마씨 일가는 마홍쿠이의 간쑤 건설 계획 발표회를 보러 톈수이 군 사령부에 도착했습니다. 거기서 마홍쿠이는 마부팡 치하에서 칭하이를, 마량 휘하에서 인촨을 미래에 현대화하겠다고 약속하면서 한족은 휘족을 중국의 생존을 위한 전투에 절대로 끌어들이지 않을 것이라고 약속했습니다. 마지막으로 마홍쿠이는 마가군벌이 유일하게 완전한 통제력을 행사하는 지역이 간쑤라고 중국 지식인 대부분이 합의했다고 말하며, 그러므로 대부분의 중국인들이 우리 군벌을 판단할 때 가장 먼저 신경쓰는 지역이 이곳 간쑤라고 덧붙였습니다. 마씨 일가는 동요하면서 마홍쿠이의 계획에 지지를 표했습니다"
 mac.223.a:0 "북쪽 가문이 승리했다!"
 
 mac.224.t:0 "회족과 불교도간의 전쟁"
@@ -378,131 +378,131 @@ mac.224.c:0 "서쪽에서 벌어진 사건이 동쪽에도 영향을 끼치는�
 ### Focuses ###
 
 XSM_three_province_plan:0 "3주계획"
-XSM_three_province_plan_desc:0 "Political power in the Ma Clique is split among the provinces of Ningxia, Gansu, and Qinghai. As the trusted guardians of the Northwest, the careful balanced kept between the provinces is critical for the Northwest and all China."
+XSM_three_province_plan_desc:0 "마씨 군벌의 정치력은 닝샤, 간쑤, 그리고 칭하이에 분산되어 있습니다. 북서부 지역의 신뢰할 만한 수호자로써, 세 지방 사이에서 유지되는 세심한 균형은 북서부를 넘어 중화 전토에서 매우 중요합니다."
 
 XSM_qinghai_emergence_scheme:0 "칭하이의 부상 계획"
-XSM_qinghai_emergence_scheme_desc:0 "Newly brought under our control, the vast province of Qinghai stands to tip the balance of the power in the region. We must see to both its economic and political development to ensure that it's in our favor."
+XSM_qinghai_emergence_scheme_desc:0 "우리 통제 하에 새로 편입된 광대한 칭하이 지역은 주변 지역의 세력 균형을 바로잡기 위해 서 있습니다. 칭하이가 정부에 도움이 되도록 하기 위해 경제적이고 정치적인 발전을 모두 지향해야 합니다."
 
-XSM_yushu_eight_point_plan:0 "유수의 팔대중점 계획"
-XSM_yushu_eight_point_plan_desc:0 "The rural Yushu region of Qinghai remains almost completely undeveloped. While it will require great effort, and possibly anger Tibet due to the deep ethnic divide there, dragging the area into the modern age will yield great rewards for us."
+XSM_yushu_eight_point_plan:0 "우슈의 팔대중점 계획"
+XSM_yushu_eight_point_plan_desc:0 "칭하이의 시골 지역인 우슈는 거의 아무런 개발이 없는 상태로 남겨진 땅입니다. 우슈 개발은 대단한 노력이 들어가고 인종적 갈등으로 인해 티베트를 분노하게 만들겠지만, 그 지역을 현대화한다면 큰 보상이 돌아올 겁니다."
 
-XSM_troop_training:0 "유수연대 훈련"
-XSM_troop_training_desc:0 "To better govern, and perhaps fight in, Yushu, we should hold regular military exercises there. This will anger the Tibetans and some may even flee to Tibet proper, but this is a more than acceptable consequence."
+XSM_troop_training:0 "우슈연대 훈련"
+XSM_troop_training_desc:0 "우슈를 더 잘 통치하고, 만일을 위해 더 잘 싸우도록 정기적인 군사 훈련을 실시해야 합니다. 이로 인해 티베트가 분노할지도 모르고 일부는 심지어 티베트측으로 도망칠지도 모릅니다. 하지만 이 정도는 감내해야 합니다."
 
 XSM_national_borders:0 "우리의 국경"
-XSM_national_borders_desc:0 "No part of our nation can be apart from the rest. We must wrest full control over Yushu once and for all, the Tibetans be damned!"
+XSM_national_borders_desc:0 "우리나라의 어떤 부분도 다른 국가들과 떨어져 있을 수 없습니다. 우슈를 한번, 그리고 영원히 장악해야 합니다. 그리고 모든 티베트놈들은 저주받을 겁니다!"
 
 XSM_promotion_buddhism:0 "불교 장려"
-XSM_promotion_buddhism_desc:0 "The most controversial point in the Yushu Plan is the promotion of sympathetic Buddhist teachers in Yushu. This promotion takes the form of It is believed this will help turn the tide of public sympathy in our favor."
+XSM_promotion_buddhism_desc:0 "우슈 계획에서 가장 논란이 되는 부분은 우슈에서 불교에 동정적인 교사를 늘린다는 부분입니다. 이 부분이 대중의 공감을 사서 우리측이 유리해 지는 데 도움이 될 것으로 예상됩니다."
 
 XSM_reconstructing_civillian_government:0 "유수의 행정을 재구성"
-XSM_reconstructing_civillian_government_desc:0 "Yushu's civil government has not convened since the death of the 13th Dalai Lama. It is time to enforce our right to audit the Yushu administrative office, and recommend restructuring."
+XSM_reconstructing_civillian_government_desc:0 "13대 달라이 라마가 사망한 이후로 우슈에서 민간 정부가 수립된 적이 한번도 없습니다. 우슈 행정청 감사를 강제로 실시하고 구조조정을 권고해야 합니다."
 
 XSM_transportation_improvement:0 "유수에 닿다"
-XSM_transportation_improvement_desc:0 "Yushu's infrastructure is almost entirely unconnected to the rest of the nation. We should fix this glaring problem."
+XSM_transportation_improvement_desc:0 "우슈 기반시설은 국내 다른 지역과 거의 아무런 연결점이 없습니다. 이 단적으로 눈에 띄는 문제점을 해결해야 합니다.."
 
 XSM_opening_wasteland:0 "황무지 개간"
-XSM_opening_wasteland_desc:0 "To encourage development in the vast lands beyond the city of Yushu itself, we should clear natural features which prevent access to several unexploited known resource deposits and reduce the prohibitive cost of exploitation."
+XSM_opening_wasteland_desc:0 "우슈 시의 경계를 넘어 광활한 땅에서 개발을 장려하기 위해서는 여태까지 개척하지 못한 자원에 접근하지 못하도록 만들며 착출하는데 엄청난 비용이 들게 만드는 자연적 장애물을 제거해야 합니다."
 
 XSM_factory_and_mills:0 "제분소 건설"
-XSM_factory_and_mills_desc:0 "The water mill in Yushu is the focal point of complaints against our administration. As we have been taxing the landowners for several years, and their inability to complete is blamed on us. Ordering soldiers to complete the mill should be to everyone's benefit."
+XSM_factory_and_mills_desc:0 "우슈 물방앗간은 행정부에 대한 불만의 중심지입니다. 몇년간 토시 소유자들에게 세금을 부과했기 때문에 물방앗간이 여태까지 완성되지 못한 책임이 우리에게도 일부 있습니다. 모두에게 도움을 주기 위해 군을 동원해 방앗간을 완성하라고 명령해야 합니다."
 
 XSM_xining_government:0 "칭하이 정부"
-XSM_xining_government_desc:0 "The power struggle in Qinghai between the legalistic Ma Lin and his nephew, the militaristic and uncompromising Ma Bufang, has boiled over. With its conclusion, order in Qinghai must be re-established."
+XSM_xining_government_desc:0 "율법주의자 마린과 그의 조카인 비타협적인 군국주의자 마부팡 사이에서 칭하이의 권력투쟁이 폭발했습니다. 결론을 내서 칭하이에서 질서를 재구축해야 합니다."
 
 XSM_going_forward:0 "앞으로 전진"
-XSM_going_forward_desc:0 "For too long or nation has sought to be but one cog in the great Chinese machine. While we are undoubtedly Chinese, we must not forget the native inhabitants of our land, the Hui, and the ethos of service which won it."
+XSM_going_forward_desc:0 "너무 오랫동안 우리는 거대한 중국이라는 기계 안의 한 톱니바퀴가 되려고 노력했습니다. 우리가 의심할 여지 없이 중국인이기는 하지만, 지역 원주민인 후이족과 그들의 봉사 정신을 잊어서는 안됩니다."
 
 XSM_reforming_education:0 "교육 개혁"
-XSM_reforming_education_desc:0 "The Yihewani order emphasizes modern education that is separated from the old Menhuan system. Eastern teachers can be hired to teach in our cities."
+XSM_reforming_education_desc:0 "이허완이 결사단은 옛 먼환(수피) 체계와는 다른 현대적 교육 방식을 지지합니다. 동부에서 교사를 고용해 우리 도시에서 가르치도록 해야 합니다."
 
 XSM_kunlun_middle_school_tibetans:0 "티베트인 군사 교육"
-XSM_kunlun_middle_school_tibetans_desc:0 "The Tibetan fifth column cannot remain. We should send junior officers to their villages to take command of local schools, ensuring all are endowed with a proper military discipline."
+XSM_kunlun_middle_school_tibetans_desc:0 "티베트의 제5열을 남겨둬서는 안됩니다. 마을에 하급 장교들을 파견해 지역 학교를 지휘하게 하고, 모든 사람에게 적절한 군기를 교육시켜야 합니다."
 
-XSM_seven_expeditions_golog:0 "골록에대한 7번의 원정"
-XSM_seven_expeditions_golog_desc:0 "The persistent Golok people are one of the main reasons for the tensions with Tibet. A final punitive expedition through Qinghai will oust these Buddhists from the region once and for all."
+XSM_seven_expeditions_golog:0 "골록족에 7번의 원정"
+XSM_seven_expeditions_golog_desc:0 "끈질긴 골록족은 티베트와 긴장이 고조되는 주요 이유 중 하나입니다. 칭하이를 통과해 마지막 정벌을 나가 저 불교도 부족을 지역에서 완전히 몰아내야 합니다."
 
 XSM_military_administration:0 "군-민 집행기관"
-XSM_military_administration_desc:0 "Ma Fuxiang held the Ma Clique together through the syncopation of the Xining military and Civil government. It is obvious that, in this uncertain time, this union must be preserved for practical governance."
+XSM_military_administration_desc:0 "마푸샹은 시닝 군부와 민간정부 간의 합작을 통해 마가군벌에서 권력을 얻었습니다. 이 불확실한 시대에 실질적인 통치력을 행사하기 위해서는 양 세력 간의 연합을 유지해야 합니다."
 
 XSM_industrialization_project:0 "산업화 계획"
-XSM_industrialization_project_desc:0 "To sustain our growing armed forces, we will need guns and the ability to produce them en masse. While the arsenals will retain responsibility for finish armaments, new state facilities for the production of intermediaries should be established with state-of-the-art equipment shipped in from abroad no matter the cost."
+XSM_industrialization_project_desc:0 "성장하는 아군을 지탱하기 위해서는 총과 화기를 생산할 산업력이 필요합니다. 기존 병기창이 완제품을 생산하는 역할을 담당하겠지만, 중간 생산 과정에 필요한 시설은 비용에 상관 없이 해외에서 들여온 최첨단 장비를 활용해야 합니다."
 
-XSM_staying_put:0 "진지 고수"
-XSM_staying_put_desc:0 "The deeply principled elder Ma Lin has held onto power. A bright new day dawns on the Northwest and its people, one of true equality between the Han, the Hui, and others."
+XSM_staying_put:0 "원칙 고수"
+XSM_staying_put_desc:0 "굉장히 원리주의적인 원로 마린이 권력을 잡았습니다. 서북과 그 백성들에게 새로운 해가 떠올랐으며, 한족과 휘족을 넘어서 모든 민족이 진정한 평등을 이루게 될 날이 다가옵니다."
 
 XSM_islamic_identity:0 "회족의 이슬람적 정체성"
-XSM_islamic_identity_desc:0 "While we must take care not to antagonize the Han or the other loyal peoples, it is to the west, to Mecca and the house of Islam that the Hui people look to distinguish themselves. We should use this connection to the advantage of all and forge renewed connections with like-minded Islamic nations."
+XSM_islamic_identity_desc:0 "한족이나 다른 충성스러운 민족을 적대시하지 않도록 주의하는 선에서 휘족은 서쪽으로 이슬람의 집 메카를 바라보며 스스로를 구별합니다. 이런 관계를 우리에게 유리하게 활용해야 하며, 같은 사고를 공유하는 이슬람 국가들과 관계를 구축해야 합니다."
 
 XSM_qi_successor:0 "마치의 적합한 계승자"
-XSM_qi_successor_desc:0 "Ma Qi's administration taught Ma Lin everything there is to know about governing Qinghai. Now with him in office, the civil government can return to prominence and stabilize the province through delegation."
+XSM_qi_successor_desc:0 "마치의 행정력이 마린에게 칭하이 통치에 필요한 모든 것을 가르쳤습니다. 이제 그가 취임했으니 민간 정부가 인기를 얻고 대표단을 통해 지방을 안정시킬 수 있게 되었습니다."
 
 XSM_peoples_governor:0 "인민의 지도자"
-XSM_peoples_governor_desc:0 "Ma Lin's compassion for the people of Qinghai manifests as something resembling a secular governorship, treating the various peoples of Qinghai with respect as citizens rather than subjects."
+XSM_peoples_governor_desc:0 "마린은 칭하이에서 살아가는 사람들을 여러 민족의 총합체가 아니라 하나의 시민으로 존중하는 세속적 통치자와 같은 시각을 견지합니다."
 
 XSM_farming_assistance:0 "농업 지원"
-XSM_farming_assistance_desc:0 "The three provinces are home to rich, fertile soil, but very little running water. This has put a hard cap on what the people can produce in peacetime, and what we can tax from them. Building aqueducts to farming communities will assist in expanding the farmlands and employ refugees from the east."
+XSM_farming_assistance_desc:0 "세 지역의 토양은 모두 기름지고 비옥하지만, 문제는 흐르는 수량이 거의 없다는 점입니다. 이로 인해 평시 생산량과 세금 부과에 엄격한 제한이 가해져 있습니다. 농업 공동체에 수로를 건설한다며 농경지 확장에 도움이 될 뿐만 아니라 동부에서 몰려온 난민에게 일자리를 주는 효과도 나타날 겁니다."
 
 XSM_roads:0 "칭하이 연결"
-XSM_roads_desc:0 "The Qinghai-Lanzhou railway has been a dream of a number of ambitious engineers in our provinces, but as of yet no money has been dedicated to it. This administration is ready to make that dream a reality, and bring a modern necessity to communities in need."
+XSM_roads_desc:0 "칭하이-란저우 철도는 우리 지방의 수많은 야심찬 기술자들이 꿈꾸던 이상이었지만, 여태까지 이 작업에 투입된 자본은 아무것도 없습니다. 현 행정부는 그들의 꿈을 실현할 준비가 되어 있고, 어려움에 처한 지역사회에 현대의 도구를 가져다 줄 준비가 되어 있습니다."
 
 XSM_gansu_reconstruction_plan:0 "간쑤 재개발"
-XSM_gansu_reconstruction_plan_desc:0 "The devastation wrought by the Guominjin and the reconquest has left Gansu in tatters. As the region's economy and political institutions have recovered at a mere snail's pace, state intervention is needed to get the province back on its feet."
+XSM_gansu_reconstruction_plan_desc:0 "국민군이 벌인 참상과 재정복으로 인해 간쑤가 너덜너덜해졌습니다. 지역 경제와 통치 기관이 가까스로 회복된 만큼 간쑤의 부활을 위해 국가의 개입이 필요합니다."
 
 XSM_clearing_space:0 "정리사업"
-XSM_clearing_space_desc:0 "The empty space left from the destruction is now an opportunity for new growth. Good space and access to running water can be sold to fleeing Chinese as an opportunity to restart their businesses."
+XSM_clearing_space_desc:0 "파괴가 끝나고 남은 빈 공간은 새로운 성장을 위한 기회입니다. 훌륭한 공간과 흐르는 수자원 대한 용이한 접근으로 인해 사업을 재개할 기회를 찾는 중국인들에게 팔기 좋을 겁니다."
 
 XSM_assisting_people:0 "가려 뽑다"
-XSM_assisting_people_desc:0 "The importation of many consumer goods has been sporadic and prices have risen drastically. We should produce as many of these luxury items as is possible right here at home."
+XSM_assisting_people_desc:0 "산발적으로 많은 소비재를 수입했기 때문에 가격도 엄청나게 폭등했습니다. 이런 최고급 물품들을 가능한 한 국내에서 생산해야 합니다."
 
-XSM_employ_assistance:0 "우리의 경의를"
-XSM_employ_assistance_desc:0 "The glorious generation of the Gansu Braves started as simple farmers that took up arms to defend their homes. We must emulate our heroes and order reservists to volunteer at their farms to feed the people."
+XSM_employ_assistance:0 "무릎을 꿇고"
+XSM_employ_assistance_desc:0 "찬란한 감군의 세대는 소박한 농부들이 고향을 지키기 위해 무기를 들면서 시작했습니다. 우리의 영웅들을 본받고 예비군들에게 농장에 자원해 사람들을 먹이도록 명령해야 합니다."
 
 XSM_rooting_agents:0 "중개상을 뿌리뽑다"
-XSM_rooting_agents_desc:0 "Our rivals remain vigilant and will take any chance to advance their own political position. They and their agents must be found through a concerted effort of the bureaucracy and eliminated."
+XSM_rooting_agents_desc:0 "우리 경쟁자들은 경계를 늦추지 않으면서 정치적 우위를 점하기 위한 기회를 절대 놓치지 않을 겁니다. 경쟁자와 그들의 요원들을 관료들의 일치단결된 노력을 통해 발견하고 제거해야만 합니다."
 
 XSM_consolidating_administration:0 "행정통합"
-XSM_consolidating_administration_desc:0 "The administration of the western provinces is plagued with inefficiencies and conmen. Some provincials even report phony Ambans extorting them for food with their titles. We can collect this latent trust by consolidating our administration and ordering the arrest of phony administrators."
+XSM_consolidating_administration_desc:0 "서부 지방 행정은 비효율과 사기꾼에 시달리고 있습니다. 일부 지방에서는 암반을 사칭한 자들이 식량을 갈취한다는 보고까지 들어왔습니다. 행정부를 통합하고 관료 사칭자들을 체포하라는 명령을 내린다면 신뢰를 쌓을 수 있을 겁니다."
 
 XSM_soldier_farmers:0 "병농일치"
-XSM_soldier_farmers_desc:0 "The cycle of growing and reaping is emphasized in both Chinese literature and the Quran. Both our ideals converge in the soldier-farmer. Our administration has decided to honor exemplary farmers as we do soldiers."
+XSM_soldier_farmers_desc:0 "성장과 수확의 순환을 중국 문헌과 코란 양쪽에서 모두 강조합니다. 두 종교의 이상은 결국 농병일치로 귀결됩니다. 행정부는 모범적인 농부를 위대한 군인과 같이 기리기로 결정했습니다."
 
 XSM_development:0 "신 개발계획"
-XSM_development_desc:0 "The reconstruction of Gansu is not yet complete. With power consolidated, the entire state apparatus can be directed to its betterment, especially the redevelopment of still-heavily damaged urban areas."
+XSM_development_desc:0 "간쑤 재건은 아직 완전히 끝나지 않았습니다. 권력이 한데 모인다면 국가 전체가 간쑤 재건에 힘을 합쳐 심각한 피해를 입은 도시 지역의 재개발에 투입할 수 있습니다."
 
 XSM_opium_farming:0 "아편 농장"
-XSM_opium_farming_desc:0 "While many argue that opium brought China to its knees, it is undoubtedly valuable. Our regime has struggled to capture sufficient liquid assets through conquests or plunder; we cannot disregard such a robust potential revenue stream for morality alone's sake. Through partnerships with local farms, our regime shall henceforth involve itself with the cultivation of opium."
+XSM_opium_farming_desc:0 "아편이 중국을 무릎 꿇게 했다고 주장하는 사람들이 많지만, 한번쯤 의심해 볼 필요가 있습니다. 우리 정권은 정복과 약탈을 통해 충분한 유동자산을 확보하려 힘들게 노력해 왔습니다. 도덕성만 강조하면서 아편 재배가 가져다줄 수익을 무시할 수는 없습니다. 지역 농장과 제휴하는 방식을 통해 정부가 아편 재배에 관여할 겁니다."
 
-XSM_raking_in:0 "발본색원"
-XSM_raking_in_desc:0 "Our administration has collected the names of illegal opium farmers within our provinces. Instead of a lengthy hunt, desolation of farmland, and weeks wasted. We can instead send confidential soldiers to extort some money from these crooks."
+XSM_raking_in:0 "한 밑천 잡자"
+XSM_raking_in_desc:0 "정부가 영토 내의 불법 아편 농가 명단을 조사했습니다. 몇 주를 허비하면서까지 그들을 쫓아다니면서 얻어낸 것은 황폐해진 농지 뿐입니다. 대신에 비밀리에 병사들을 보내 이 사기꾼들에게서 돈을 빼앗을 수 있습니다."
 
-XSM_tianshui_arsenal:0 "텐슈이 공병창 확장"
-XSM_tianshui_arsenal_desc:0 "The Tianshui Arsenals' equipment is outdated and in need of modernization. By expanding the facilities and bringing in equipment from abroad, we'll be able to keep pace with our rivals in the region."
+XSM_tianshui_arsenal:0 "톈수이 공병창 확장"
+XSM_tianshui_arsenal_desc:0 "톈수이 병기창의 장비는 구식이며 현대화가 필요합니다. 설비를 확충하고 해외에서 장비를 들여온다면 지역 경쟁자들과 발 맞춰 걸을 수 있을 겁니다."
 
 XSM_artillery_pieces:0 "표준 포병"
-XSM_artillery_pieces_desc:0 "With the arsenal expanded, we should begin the development of more advanced artillery. Like the Weltkrieg, our enemies' lines shall be reduced to rubble."
+XSM_artillery_pieces_desc:0 "무기고를 확장했으니 더욱 발전된 포병 개발에 착수해야 합니다. 세계대전때와 같이, 포탄에 맞은 적들은 산산조각나 사라질 겁니다."
 
 XSM_unclogging_progress:0 "재건 재개"
-XSM_unclogging_progress_desc:0 "Now that the war is over and the reconstruction is well underway, it's time that we started to look towards our future. With renewed efforts, we'll lay its foundations."
+XSM_unclogging_progress_desc:0 "전쟁이 끝나고 재건이 순조롭게 진행되고 있으니 미래를 향해 눈을 돌려야 할 때입니다. 새로 노력을 투입해서 기초를 닦을 겁니다."
 
 XSM_rebirth:0 "재탄생"
-XSM_rebirth_desc:0 "While our administration cannot make whole what was lost, we can bring Gansu into the modern era. With ice cream shops, telegraph offices, and all other modern trappings. The people who survive the next few years of national struggle will live happily."
+XSM_rebirth_desc:0 "정부가 잃어버린 모든 것들을 다시 만들어 낼 수는 없다고 하더라도, 간쑤를 현대적인 도시로 끌어낼 수는 있습니다. 아이스크림 가게와 전신국, 그리고 다른 모든 현대적인 시설물을 들여오면서 말이죠. 앞으로 몇 년간 이어질 투쟁에서 살아남은 사람들은 행복하게 살아갈 수 있을 겁니다."
 
 XSM_fuxiang_legacy:0 "푸샹의 유산"
-XSM_fuxiang_legacy_desc:0 "Though his soul has passed on, the harmonious status quo that he built and the Han-Hui divide he began to mend after so long, make forever without parallel. As we have protected this legacy from hostile elements within and without, we must now build upon it."
+XSM_fuxiang_legacy_desc:0 "비록 마푸샹의 정신을 이어받기는 했지만, 그가 한족-회족 간 갈등을 봉합하고자 하며 조화로운 상태를 유지시키려던 시도는 여태까지도 평행선만 달리는 중입니다. 우리가 마푸샹의 유산을 적대적 사상으로부터 지켜왔듯이, 그의 유산을 기반한 정책을 세워야 합니다."
 
 XSM_kind_general:0 "친절한 장군들"
-XSM_kind_general_desc:0 "Ma Hongbin has ascended to the forefront of the Ma Clique. He seeks moderate reform including the devolution of power and forging new ties with the other states of China."
+XSM_kind_general_desc:0 "마홍빈이 마가 군벌의 지도자직에 올랐습니다. 그는 권력을 이양하고 다른 중국 세력들과 새로운 유대관계를 형성하는 등 온건한 개혁을 추구합니다."
 
 XSM_summoning_council:0 "주위원회를 소집"
-XSM_summoning_council_desc:0 "The Councils of Ningxia, Gansu, and Qinghai have operated autonomously for far too long. These inefficiencies come when the councils have the ability to nullify one another's orders. In order to ensure the Governor's orders are followed, the provisional councils must be drawn to the capital."
+XSM_summoning_council_desc:0 "닝샤, 간쑤, 그리고 칭하이 의회를 너무 오랫동안 자율적으로 운영하도록 내비 뒀습니다. 이런 상황이 이어진다면 각 의회가 서로의 정책과 명령을 무효화할 수 있는 비효율적인 상황이 벌어집니다. 총독의 명령을 확실히 따르도록 하기 위해서는 지역 의회를 수도로 끌어들여야 합니다."
 
 XSM_warlord_alliance:0 "군지도자들과의 동맹"
-XSM_warlord_alliance_desc:0 "The warlords of China share a mutual distrust, and are unwilling to assist each other against foreign invaders. The Governor believes that, despite this distrust, a petition to promise the Chinese people a unified china in their lifetimes can engender some compassion, at least towards us."
+XSM_warlord_alliance_desc:0 "중국 군벌들은 상호 불신을 공유하고 있으며 외세 침략자에 대항해 힘을 합치기를 꺼립니다. 이런 상황에도 불구하고 총독께서는 전 중국 사람들에게 죽기 전까지 통일된 중국을 보여주겠다는 약속을 한다면 적어도 우리 사이에서는 동질감을 불어일으킬 수 있다고 믿습니다."
 
 
 XSM_earning_respect:0 "존경을 얻어라"
-XSM_earning_respect_desc:0 "The Governor has prepared a selection of fine gifts to the warlords of China, each item chosen to remind the warlord of the Ma Clique's essential role in keeping China whole."
+XSM_earning_respect_desc:0 "총독께서 중국 군벌 지도자들에게 돌릴 좋은 선물을 준비했습니다. 각 선물들은 모두 군벌에게 중국 전체를 유지하기 위해서는 마가군벌이 꼭 필요하다는 사실을 상기시켜주기 위해 선택했습니다."
 
 XSM_making_friends:0 "새동맹을 만들다"
 XSM_making_friends_desc:0 "It is difficult for the Hui people to interact with the other provinces as equals. Stigma against Muslims pervades intellectual circles. It is time for our administration to publish warm advertisements for our provinces and entice those who are open minded to come."
