@@ -72,64 +72,64 @@ assume_chinese_leadership_tooltip_FNG: "§H[FNG.GetNameDef]§!보다 군사력�
 assume_chinese_leadership_tooltip_SZC: "§H[SZC.GetNameDef]§!보다 군사력이 100% 이상 강합니다"
 assume_chinese_leadership_tooltip_YUN: "§H[YUN.GetNameDef]§!보다 군사력이 100% 이상 강합니다"
 
-form_chinese_united_front:0 "중화합동전선 형성"
+form_chinese_united_front:0 "중화통일전선 형성"
 form_chinese_united_front_tooltip:0 "§H[HJAP.GetNameDef](이)나 동맹국 중 하나가 지휘합니다"
 
-chinese_united_front_formed:0 "중화합동전선이 형성되다"
+chinese_united_front_formed:0 "중화통일전선이 형성되다"
 china_ceasefire_occupation_transfer:0 "§H모든 점령한 지역§!의 소유권을 가져가다."
-china_war_with_united_front:0 "§R합동전선이 우리에 대항해 싸울겁니다!§!"
+china_war_with_united_front:0 "§R통일전선이 우리에 대항해 싸울겁니다!§!"
 
 china_shared.1.t:0 "사라지는 정통성"
-china_shared.1.d:0 "중화합동전선으로 인해 분열된 조국을 통일하기 위한 수단이 생겼을지도 모르지만, 중국 군벌들 사이의 갈등은 결코 진정으로 끝나지 않았습니다. 이제 일본의 침략에 직면한 우리 정부가 입은 손실은 한 가지 간단한 진실을 알려주었습니다. 우리는 더 이상 외세의 침략에 맞선 중국의 지도자가 될 수 없다는 사실입니다. 이미 여러 군벌과 지방 정부 아래 있는 세력들은 [current_china_leader.GetNameDef]의 지시사항을 일상적으로 무시하기 시작했습니다. 우리가 잃어버린 영토로 진격해 재탈환하지 않는다면 지도력을 영원히 잃게 될 겁니다."
+china_shared.1.d:0 "중화통일전선으로 인해 분열된 조국을 통일하기 위한 수단이 생겼을지도 모르지만, 중국 군벌들 사이의 갈등은 결코 진정으로 끝나지 않았습니다. 이제 일본의 침략에 직면한 우리 정부가 입은 손실은 한 가지 간단한 진실을 알려주었습니다. 우리는 더 이상 외세의 침략에 맞선 중국의 지도자가 될 수 없다는 사실입니다. 이미 여러 군벌과 지방 정부 아래 있는 세력들은 [current_china_leader.GetNameDef]의 지시사항을 일상적으로 무시하기 시작했습니다. 우리가 잃어버린 영토로 진격해 재탈환하지 않는다면 지도력을 영원히 잃게 될 겁니다."
 china_shared.1.a:0 "제기랄."
 
-china_shared.2.t:0 "합동전선"
-china_shared.2.d:0 "With Japan's invasion beginning to gather steam, [Root.GetLeader] has decided to make a call for national unity against the invader, even if it means fighting alongside our former enemies. Even as the country's communication infrastructure has come under threat, the message will go out at once - by courier if necessary!"
+china_shared.2.t:0 "통일전선"
+china_shared.2.d:0 "일본이 침략을 준비하기 시작하면서 [Root.GetLeader]은(는) 침략자에 대항한 전국적 단결체 창설을 제안하기로 결정했습니다. 이전에 싸웠던 상대와 함께 싸운다는 사실을 의미한다고 하더라도 이건 꼭 필요한 절차입니다. 중화 전토의 통신 시설이 위협을 받고 있기는 하지만, 필요하다면 전령을 운용하는 한이 있더라도 꼭 서신을 전달할 겁니다!"
 china_shared.2.a:0 "중국을 위해!"
 
 china_shared.3.t:0 "통일을 위한 부름"
-china_shared.3.d:0 "Scholars, intellectuals, and various idealogues have made calls for national unity against foreign aggression routinely over the years. It has been a nice rallying cry, if one that often fell on deaf ears. Now, with Japan's invasion rolling across a significant portion of the country,[From.GetNameDef] has made a call for a temporary alliance against Japan, and this time perhaps other leaders will listen. Even the most cynical must admit that China's fate seems to hang in the balance."
+china_shared.3.d:0 "학자와 지식인을 위시한 다양한 사상가들이 최근 몇년간 계속해서 외세의 침략에 대항하는 전국적 통합을 요구해 왔습니다. 그들의 외침은 대체로 무시당하기는 했지만 그래도 상당히 멋진 주장이기는 합니다. 그리고 일제의 침략 야욕이 국토 대부분을 뒤흔들고 있는 와중에 [From.GetNameDef]이(가) 일본에 저항하기 위한 일시적인 동맹체를 창설하자고 제안했으니, 지금이야말로 천하 각지의 군웅들이 귀를 기울여야만 하는 때일지도 모르겠습니다. 아무리 자기 이익에만 눈이 먼 자라고 할지라도 중화의 운명이 경각에 달했다는 사실을 인정해야만 합니다."
 china_shared.3.a:0 "그래, 우리는 하나로 뭉쳐야 한다."
 china_shared.3.b:0 "절대로 저들과 함께 싸울 수는 없다!"
 
-china_shared.4.t:0 "[From.GetNameDefCap]이(가) 합동전선에 참가하다"
-china_shared.4.d:0 "[From.GetNameDef] has joined the United Front, pledging all their resources and influence to the anti-Japanese cause. This will not bring an end to any historical rivalries, or claims to legitimate national leadership, but nontheless our troops will now be fighting side by side against the foreign aggressor."
+china_shared.4.t:0 "[From.GetNameDefCap]이(가) 통일전선에 참가하다"
+china_shared.4.d:0 "[From.GetNameDef]은(는) 중화통일전선에 참가하면서 모든 자원과 영향력을 쏟아내리라고 맹세했습니다. 이로 인해 역사적인 경쟁구도나 정당한 국가 지도권을 갖기 위한 움직임이 완전히 끝날 리는 없겠지만, 어찌되었든간에 아군과 함께 힘을 합쳐 외세 침략군에 맞서 싸울겁니다."
 china_shared.4.a:0 "완벽해."
 
 china_shared.5.t:0 "[From.GetNameDefCap]이(가) 배신하다"
-china_shared.5.d:0 "In an act of wanton betrayal, [From.GetNameDef] has refused to join the United Front. There can be no excuse for putting individual interests before the fate of all China!"
+china_shared.5.d:0 "[From.GetNameDef]은(는) 타당한 이유도 없이 통일전선에 가담을 거부하는 다분히 고의적인 배신행위를 자행했습니다. 전 중화의 운명보다 개인의 이익을 우선시하는 행위에는 변명의 여지가 없습니다!"
 china_shared.5.a:0 "반역이다!"
 
 china_shared.6.t:0 "[From.GetNameDefCap]이(가) 휴전을 요청하다"
-china_shared.6.d:0 "[From.GetNameDef] has offered to implement a ceasefire, solely in the national interest, and until such a time as the Japanese invasion is halted. The agreement is conditional on the transfer of all occupied territories on both of our sides, however."
+china_shared.6.d:0 "[From.GetNameDef]은(는) 오로지 국익을 우선시하면서 일제의 침략 행위가 끝날 때까지 일시적인 휴전을 실시하자고 제의해왔습니다. 하지만 이 협정은 양측간의 모든 점령지를 반환해야 한다는 조건을 달고 있습니다."
 china_shared.6.a:0 "그래. 지금 당장은."
 china_shared.6.b:0 "절대로 저들과 함께 싸울 수는 없다!"
 
 china_shared.7.t:0 "[From.GetNameDefCap]이(가) 휴전을 받아들이다"
-china_shared.7.d:0 "[From.GetNameDef] has accepted the proposed ceasefire and joined the United Front. All occupied states in both sides are to be transferred accordingly."
+china_shared.7.d:0 "[From.GetNameDef]은(는) 휴전 제안을 수용했고 통일전선에 합류했습니다. 휴전 조약에 따라 양측의 모든 점령지를 반환해야 합니다."
 china_shared.7.a:0 "타당한 대가지."
 
 china_shared.8.t:0 "[From.GetNameDefCap]이(가) 휴전을 거부하다"
 china_shared.8.d:0 "[From.GetNameDef]에게 보낸 휴전 제안이 거부당했습니다."
 china_shared.8.a:0 "반역이다!"
 
-china_shared.9.t:0 "Formation of the United Front"
-china_shared.9.d:0 "Ever since the Japanese invasion cries have gone up across the country for a united front against Japanese aggression, and now they have been heard. Today marks the formation of the United Front, dedicated to the expulsion of the Japanese and their influence from our Chinese soil. Now our fates are tied as one, and there can be only victory or anhiliation."
-china_shared.9.a:0 "The Japanese must be defeated."
+china_shared.9.t:0 "통일전선 형성"
+china_shared.9.d:0 "일제의 침략 이래로 일본의 확장 야욕에 맞서는 통일전선을 구성해야 한다는 외침이 전국 각지에서 터져나왔고, 이제는 그 소리를 모두가 듣게 되었습니다. 오늘은 일제와 일본의 영향력을 중화 전토에서 축출하기 위한 통일전선이 수립된 기념비적인 날입니다. 이제 우리의 운명은 하나로 묶였습니다. 오직 승리 혹은 전멸만이 있을 겁니다."
+china_shared.9.a:0 "일본을 격파해야만 한다."
 
-china_shared.10.t:0 "The United Front Fails"
-china_shared.10.d:0 "It seems that not even an existential threat will unite the squabbling Chinese factions. After a month of negotiations and calls for aid, no other factions proved willing to put their differences with our regime aside - not even to stop the Japanese invasion. Our fate, apparently, is to fall divided."
-china_shared.10.a:0 "This is a dark day..."
+china_shared.10.t:0 "통일전선 수립 실패"
+china_shared.10.d:0 "실존하는 위협조차도 중국 군벌들을 하나로 묶는데 실패한 것으로 보였습니다. 한달간 협상과 지원 요청이 이어졌지만, 어떤 군벌도 우리와의 의견 차이를 제쳐놓은 채 일본의 침략을 막겠다는 의지를 보이지 않았습니다. 우리 앞에 놓인 운명은 분열뿐입니다."
+china_shared.10.a:0 "어두운 날이로다..."
 
-china_shared.11.t:0 "Collapse of the United Front"
-china_shared.11.d:0 "Even as the war with Japan began to move toward its close, many in China were already making covert moves toward one side or another in the post-war order. With Japan now defeated, those suppressed conflicts have again come to the fore, and what was one a united front has began a rapid slide into infighting. Now the final phase of China's unification wars has begun."
-china_shared.11.a:0 "One last obstacle towards unity."
+china_shared.11.t:0 "통일전선 붕괴"
+china_shared.11.d:0 "일본과의 전쟁이 끝을 향해 나아가면서, 수많은 중국인들이 여기저기에서 전후 질서를 수립하기 위한 움직임을 보이기 시작했습니다. 일본이 패배하면서 억압되었던 갈등이 표면화되었고, 통일전선이 재빨리 내전 속으로 빠져들기 시작했습니다. 이제 천하통일의 마지막 순간이 다가왔습니다."
+china_shared.11.a:0 "통일로 가기 전 마지막 장애물이로군."
 
-china_shared.12.t:0 "The United Front Forms"
-china_shared.12.d.pro_JAP:0 "It seems some of our fellow Chinese, unwilling to acknowledge our latest string of victories, have deicded to band together against us and our Japanese allies. While Tokyo is already considering this last-ditch alliance insignificant, we know China better than they ever could, and that a long fight still awaits ahead." #Pro-Japan Chinese POV
-china_shared.12.d.anti_JAP:0 "After a string of secret meetings carried out over several weeks, several Chinese political factions including our own have agreed to stand together against the oncoming Japanese invasion. Unity has been elusive for decades, but now with the formation of the Chinese United Front the country finally stands a chance at repelling the Japanese invader, and crushing his traitorus allies." #Anti-Japan Chinese POV
-china_shared.12.d.JAP:0 "It seems that several Chinese factions, unwilling to acknowledge our latest string of victories and the overwhelming superiority of our armies, have deicded to band together against us. It is difficult to imagine the squabbling, cliquish Chinese truly working together toward a common cause, and our commanders have assured us that theirs is ultimately a futile measure. We will be sipping Sake amid the ruins of their headquarters by the end of the year." #Japanese POV
-china_shared.12.d.others:0 "It seems that the Chinese, in their desperation to slow the Japanese invasion of their country, have formed an alliance. Few expected the typically squabbling, cliquish Chinese factions to make such a move, and now many will watch their future with considerable interest." #Foreign POV
+china_shared.12.t:0 "중화통일전선 출범"
+china_shared.12.d.pro_JAP:0 "최근 우리가 거둔 승리를 인정하고 싶지 않아하는 일부 동포 중국 군벌이 우리나라와 우리의 동맹 일본을 상대하기 위해 뭉치기로 결정한 모양입니다. 도쿄 정권은 최후의 발악과도 같은 이번 동맹관계를 그다지 대수롭지 않게 여기지만, 일본에 비해 중국에 관해 더 많이 알고 있는 우리 정부는 기나긴 싸움이 목전에 놓여있다는 사실을 눈치챘습니다." #Pro-Japan Chinese POV
+china_shared.12.d.anti_JAP:0 "몇주간 일련의 비밀 회담이 오간 후, 우리 정부를 포함한 몇몇 중국 군벌들이 다가오는 일본의 침략에 맞서 함께 싸우기로 합의했습니다. 수십년간 단결이 불발되었었지만 이번에 중화통일전선이 형성되었으니, 지금에야말로 침략자 일본과 일본과 연대한 반역자들을 쳐부술 때가 왔습니다." #Anti-Japan Chinese POV
+china_shared.12.d.JAP:0 "최근 우리가 거둔 승리와 군사력에서의 압도적인 우위를 인정하고 싶지 않아하는 일부 중국 군벌이 우리나라를 상대하기 위해 뭉치기로 결정한 모양입니다. 항상 다툼을 일삼고 당파성이 강한 중국인들이 실제로 한 가지 대의를 위해 뭉치는 모습을 상상하기는 어려우며, 아군 지휘관들은 저들의 연합이 궁극적으로 헛된 조치에 불과하다고 장담했습니다. 이번 연말에는 저들의 본부가 무너진 폐허 속에서 사케를 홀짝거리며 보낼 겁니다." #Japanese POV
+china_shared.12.d.others:0 "중국인들이 필사적으로 일본의 침략을 막기 위해 동맹체를 구성한 모양입니다. 항상 다툼을 일삼고 당파성이 강하던 중국 군벌들이 이런 행보를 보이리라고 예상한 사람은 전혀 없었습니다. 이제 많은 이들이 상당한 관심을 품고 중국의 미래를 지켜볼 겁니다." #Foreign POV
 china_shared.12.a:0 "돌격."
 china_shared.12.b:0 "완쓰이(만세)!"
 china_shared.12.c:0 "반자이(만세)!"
@@ -161,25 +161,25 @@ JAP_Capture_592:0 "광저우를 통제한다!"
 JAP_Capture_597:0 "지난을 통제한다!"
 JAP_Capture_799:0 "시안을 통제한다!"
 
-JAP_Capture_Beijing_tooltip:0 "§H[608.GetName]§!: Controlled by us or our allies"
-JAP_Capture_Nanjing_tooltip:0 "§H[613.GetName]§!: Controlled by us or our allies"
-JAP_Capture_Wuhan_tooltip:0 "§H[1048.GetName]§!: Controlled by us or our allies"
-JAP_Capture_Chongqing_tooltip:0 "§H[650.GetName]§!: Controlled by us or our allies"
-JAP_Capture_Luoyang_tooltip:0 "§H[607.GetName]§!: Controlled by us or our allies"
-JAP_Capture_Kunming_tooltip:0 "§H[325.GetName]§!: Controlled by us or our allies"
-JAP_Capture_Changsha_tooltip:0 "§H[602.GetName]§!: Controlled by us or our allies"
-JAP_Capture_Guangzhou_tooltip:0 "§H[592.GetName]§!: Controlled by us or our allies"
-JAP_Capture_Jinan_tooltip:0 "§H[597.GetName]§!: Controlled by us or our allies"
-JAP_Capture_Xian_tooltip:0 "§H[799.GetName]§!: Controlled by us or our allies"
+JAP_Capture_Beijing_tooltip:0 "§H[608.GetName]§!: 우리 혹은 동맹국이 통제하는 중입니다"
+JAP_Capture_Nanjing_tooltip:0 "§H[613.GetName]§!: 우리 혹은 동맹국이 통제하는 중입니다"
+JAP_Capture_Wuhan_tooltip:0 "§H[1048.GetName]§!: 우리 혹은 동맹국이 통제하는 중입니다"
+JAP_Capture_Chongqing_tooltip:0 "§H[650.GetName]§!: 우리 혹은 동맹국이 통제하는 중입니다"
+JAP_Capture_Luoyang_tooltip:0 "§H[607.GetName]§!: 우리 혹은 동맹국이 통제하는 중입니다"
+JAP_Capture_Kunming_tooltip:0 "§H[325.GetName]§!: 우리 혹은 동맹국이 통제하는 중입니다"
+JAP_Capture_Changsha_tooltip:0 "§H[602.GetName]§!: 우리 혹은 동맹국이 통제하는 중입니다"
+JAP_Capture_Guangzhou_tooltip:0 "§H[592.GetName]§!: 우리 혹은 동맹국이 통제하는 중입니다"
+JAP_Capture_Jinan_tooltip:0 "§H[597.GetName]§!: 우리 혹은 동맹국이 통제하는 중입니다"
+JAP_Capture_Xian_tooltip:0 "§H[799.GetName]§!: 우리 혹은 동맹국이 통제하는 중입니다"
 
-JAP_Capture_tooltip:0 "§RLocal resistance will grow as we push deeper into China!§!"
+JAP_Capture_tooltip:0 "§R중국 내륙으로 깊숙히 밀고 들어갈수로 국지적 저항이 더욱 심해질 겁니다!§!"
 
 ### War of the Five Provinces / Xiinjiang War Missions
-china_victory_imminent:0 "Victory Imminent"
-china_lost_momentum:0 "Lost Momentum"
-LEP_move_quickly:0 "Move Quickly"
-LEP_victory_imminent_tooltip_FROM:0 "Gains §HVictory Imminent§! for §H90§! days:\n   Division Speed: §G+10.00%§!\n   Division Recovery Rate: §G+20.00%§!\n   War Support: §G+20.00%§!\n   Attack Bonus Against [From.GetFlag]§H[From.GetNameDefCap]§!: §G+25.0%§!\n   Defence Bonus Against [From.GetFlag]§H[From.GetNameDefCap]§!: §G+25.0%§!\n"
-LEP_victory_imminent_tooltip_ROOT:0 "Gains §HVictory Imminent§! for §H90§! days:\n   Division Speed: §G+10.00%§!\n   Division Recovery Rate: §G+20.00%§!\n   War Support: §G+20.00%§!\n   Attack Bonus Against [Root.GetFlag]§H[Root.GetNameDefCap]§!: §G+25.0%§!\n   Defence Bonus Against [Root.GetFlag]§H[Root.GetNameDefCap]§!: §G+25.0%§!\n"
+china_victory_imminent:0 "승리가 임박함"
+china_lost_momentum:0 "탄력을 잃어버리다"
+LEP_move_quickly:0 "빠르게 움직이다"
+LEP_victory_imminent_tooltip_FROM:0 "§H승리가 임박함§! 변동치를 §H90§! 일 동안 얻을 겁니다:\n   사단 속도: §G+10.00%§!\n   사단 회복률: §G+20.00%§!\n   전쟁 지지도: §G+20.00%§!\n   [From.GetFlag]§H[From.GetNameDefCap]§!에 대한 공격력 보너스: §G+25.0%§!\n   [From.GetFlag]§H[From.GetNameDefCap]§!에 대한 방어력 보너스: §G+25.0%§!\n"
+LEP_victory_imminent_tooltip_ROOT:0 "§H승리가 임박함§! 변동치를 §H90§! 일 동안 얻을 겁니다:\n   사단 속도: §G+10.00%§!\n   사단 회복률: §G+20.00%§!\n   전쟁 지지도: §G+20.00%§!\n   [From.GetFlag]§H[From.GetNameDefCap]§!에 대한 공격력 보너스: §G+25.0%§!\n   [From.GetFlag]§H[From.GetNameDefCap]§!에 대한 방어력 보너스: §G+25.0%§!\n"
 
 ### National Redoubt
 china_redoubt.1.t:0 "정부가 도망치다"
@@ -194,7 +194,7 @@ china_redoubt.2.a:0 "어서오시오!"
 china_redoubt.3.t:0 "정부가 고향에 돌아오다"
 china_redoubt.3.d:0 "After a long and hard-fought war, the Central Government has returned to the National Capital. But despite the return of life, many government halls once filled with activity remain silent and abandoned, their roofs reduced to ash, and their walls little more than hollowed-out rubble. It will take quite some time before the Capital, and indeed the nation, are the same again, if they ever will be."
 china_redoubt.3.a:0 "마침내 평화로군."
-china_redoubt.3.b:0 "(Play as the National Government)"
+china_redoubt.3.b:0 "(국민정부로 플레이한다)"
 
 china_redoubt.4.t:0 "도망쳐야만 한다"
 china_redoubt.4.d:0 "Despite the best efforts of the Central Government, and all those who have stood against the Japanese advance, the time has come for us to consider retreat. Already the roads and waterways are clogged with the dead and destitute as the whole of the country moves westward, as if fleeing a flood. Now we must join them, and continue our fight from the national redoubt in [china_national_redoubt.GetCliqueShortName]."
