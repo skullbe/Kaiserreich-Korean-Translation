@@ -165,6 +165,10 @@ balticduchy.1830.t:0 "전쟁이 시작되다"
 balticduchy.1830.d:0 "더 이상 좌시할 수 없습니다 - 전쟁을 통해 우리 영토를 되찾아야 합니다!"
 balticduchy.1830.a:0 "신께서 우리와 함께 하신다(Gott ist mit uns)!"
 
+balticduchy.1832.t:0 "The Duchy Falls"
+balticduchy.1832.d:0 "The Baltic Duchy, having lost their bases of support in Riga and Tallinn, has completely collapsed, and their armies have dissolved."
+balticduchy.1832.a:0 "Hurrah!"
+
 balticduchy.184.t:0 "우리 발트 동포"
 balticduchy.184.d:0 "독일 출신의 비도덕적인 제국주의자들이 발트해 국가들의 존재를 모두 없애기로 결단을 내렸습니다. 발트 연합 공국에 도착하는 독일 정착민들의 수가 매일마다 점점 더 늘어나면서, 현지 주민들은 집을 떠나야만 했습니다. 이 정책은 친독 공국 정부와 현지 발트인들간의 큰 불만을 맞닥뜨렸습니다. 저항 운동이 시작되었고 우리 형제들은 독일 제국주의에 대항하여 공공연한 반란을 일으켰습니다. 부르주아와의 전쟁에서 그들을 지원하는 것은 우리의 의무입니다!"
 balticduchy.184.a:0 "자원병을 보내라!"
@@ -306,6 +310,12 @@ BAT_national_populist_party_long:0 "발트 해방전선"
 
 BAT_FED_paternal_autocrat_party:0 "임시정부"
 BAT_FED_paternal_autocrat_party_long:0 "임시정부"
+
+LAT_paternal_autocrat_party:0 "LTS(p)A"
+LAT_paternal_autocrat_party_long:0 "Association of the Latvian Homeland Guard"
+
+EST_paternal_autocrat_party:0 "Vaps Movement"
+EST_paternal_autocrat_party_desc:0 "League of the Veterans of the Estonian War of Independence"
 
 ### Focuses ###
 
@@ -560,6 +570,13 @@ BAT_balts_army_desc:0 "우리나라 인구의 대다수를 차지하는 발트�
 BAT_truckprod_idea:0 "트럭 생산 중점"
 BAT_truckprod_idea_desc:0 ""
 
+BAT_war_of_independence:0 "The Second War of Independence"
+BAT_war_of_independence_desc:0 "Go forward! For our freedom and yours!"
+
+BAT_victory_imminent:0 "Victory Imminent"
+BAT_lost_momentum:0 "Lost Momentum"
+BATLAT_lost_momentum:0 "Lost Momentum"
+
 ### Flags ###
 
 BAT_politic:0 "정치 경로"
@@ -625,6 +642,13 @@ BAT_ostwall_livland:0 "리블란트 요새화"
 BAT_ostwall_livland_desc:0 "리블란트의 요새화가 진행되고 있습니다. 많은 일꾼들과 병사들이 매일 일하고 있고, 빠르든 느리든 공사는 완료될 것입니다."
 BAT_ostwall_estland:0 "에스틀란트 요새화"
 BAT_ostwall_estland_desc:0 "에스틀란트의 요새화가 진행되고 있습니다. 많은 일꾼들과 병사들이 매일 일하고 있고, 빠르든 느리든 공사는 완료될 것입니다."
+BAT_independence_war:0 "The Second War of Independence"
+BAT_dec_southlivland:0 "Raise Partisans in South Livland"
+BAT_dec_nordlivland:0 "Raise Partisans in North Livland"
+BAT_dec_riga:0 "Raise Partisans in Riga"
+BAT_dec_courland:0 "Raise Partisans in Courland"
+BAT_dec_estland:0 "Raise Partisans in Estland"
+BAT_move_quickly:0 "Move Quickly"
 
 #Cosmetic Tags
 BAT_FED_national_populist:0 "발트 연방"

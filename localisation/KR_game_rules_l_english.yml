@@ -2,13 +2,8 @@
  
 ### Major Nation Buffs ###
 
-custom_diff_strong_ger:0 "£KR_game_rule_flag_GER   Strengthen the German Empire"
-custom_diff_strong_fra:0 "£KR_game_rule_flag_FRA   Strengthen the Commune of France"
-custom_diff_strong_eng:0 "£KR_game_rule_flag_ENG   Strengthen the Union of Britain"
 custom_diff_strong_can:0 "£KR_game_rule_flag_CAN   Strengthen the Dominion of Canada"
-custom_diff_strong_usa:0 "£KR_game_rule_flag_USA   Strengthen the United States of America"
 custom_diff_strong_rus:0 "£KR_game_rule_flag_RUS   Strengthen the Russian Republic"
-custom_diff_strong_jap:0 "£KR_game_rule_flag_JAP   Strengthen the Empire of Japan"
 
 ### Experimental ###
 

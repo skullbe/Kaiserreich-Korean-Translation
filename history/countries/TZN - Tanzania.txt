@@ -1,4 +1,5 @@
-﻿capital = 295
+﻿capital = 965
+OOB = "empty"
 set_research_slots = 2
 set_technology = {
 	### Infantry ###
@@ -6,7 +7,7 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = paternal_autocrat
+	ruling_party = authoritarian_democrat
 	last_election = "1888.6.15"
 	election_frequency = 48
 	elections_allowed = no
@@ -20,14 +21,17 @@ set_popularities = {
 	social_liberal = 6
 	market_liberal = 6
 	social_conservative = 12
-	authoritarian_democrat = 15
-	paternal_autocrat = 47
+	authoritarian_democrat = 47
+	paternal_autocrat = 15
 	national_populist = 12
 }
 
 create_country_leader = {
-	name = "Justin Kokolo"
-	picture = "gfx/leaders/Generic/Portrait_German_Africa_Generic_land_4.tga"
+	name = "Muhamed Husan"
+	desc = "POLITICS_BASEDTELEGRAHMAN_DESC"
+	picture = "gfx/leaders/Generic/Portrait_German_Africa_Generic_land_2.tga"
 	expire = "1965.1.1"
-	ideology = paternal_autocrat_subtype
+	ideology = authoritarian_democrat_subtype
 }
+
+TAN_start_naval_variant = yes

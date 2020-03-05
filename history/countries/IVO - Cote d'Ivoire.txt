@@ -1,12 +1,14 @@
-﻿capital = 295
-set_research_slots = 2
+﻿capital = 963
+OOB = "empty"
+
 set_technology = {
 	### Infantry ###
 	infantry_weapons = 1
 }
 
+set_research_slots = 2
 set_politics = {
-	ruling_party = paternal_autocrat
+	ruling_party = social_liberal
 	last_election = "1888.6.15"
 	election_frequency = 48
 	elections_allowed = no
@@ -17,17 +19,18 @@ set_popularities = {
 	radical_socialist = 0
 	syndicalist = 0
 	social_democrat = 2
-	social_liberal = 6
+	social_liberal = 50
 	market_liberal = 6
 	social_conservative = 12
 	authoritarian_democrat = 15
-	paternal_autocrat = 47
+	paternal_autocrat = 3
 	national_populist = 12
 }
 
 create_country_leader = {
-	name = "Justin Kokolo"
-	picture = "gfx/leaders/Generic/Portrait_German_Africa_Generic_land_4.tga"
+	name = "Félix Houphouët-Boigny"
+	desc = "POLITICS_FELIX_CIV_BOIGNY_DESC"
+	picture = "gfx/leaders/Generic/Portrait_Africa_Generic_new_1.tga"
 	expire = "1965.1.1"
-	ideology = paternal_autocrat_subtype
+	ideology = social_liberal_subtype
 }
