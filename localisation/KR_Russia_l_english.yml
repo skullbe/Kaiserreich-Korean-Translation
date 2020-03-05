@@ -84,7 +84,7 @@ RUS_tsar_party_long:0 "러시아 제정연합"
 
 ### Decisions ###
 RUS_Foreign_Policy_decisions:0 "대외 정책"
-RUS_Foreign_Policy_decisions_desc:0 "지난 몇 십 년 동안, 러시아는 세계에서 웃음거리였습니다. 그러나, 최근 유럽의 연쇄적인 사건들과 그 영향들은 우리에게서 분리된 (불법적인)국가들을 다시금 되찾을 수 있는 기회로 찾아왔습니다. \n\n 러시아라는 곰이 깨어났습니다. 다만, 우리가 옛 러시아 제국의 영토를 되찾아야만 우리는 진정으로 위대한 러시아가 될 수 있을 것입니다. 러시아여 영원하라! 러시아는 하나이리라!"
+RUS_Foreign_Policy_decisions_desc:0 "지난 몇 십 년 동안, 러시아는 세계에서 웃음거리였습니다. 그러나, 최근 유럽의 연쇄적인 사건들과 그 영향들은 우리에게서 분리된 (불법적인)국가들을 다시금 되찾을 수 있는 기회로 찾아왔습니다. \n\n 이제, 러시아라는 곰이 깨어났습니다. 다만 우리가 옛 러시아 제국의 영토를 되찾아야만 우리는 진정으로 위대한 러시아가 될 수 있을 것입니다. 러시아여 영원하라! 러시아는 하나이리라!"
 
 RUS_Integrate_Alash_Autonomy:0 "[FROM.GetFlag] [FROM.GetNameDef] 통합"
 RUS_Integrate_Alash_Autonomy_desc:0 "카자흐스탄은 광활하고 부유하며, 또한 충성스러운 사람들이 다수 존재합니다. 이 지역을 다시 수복한다면 우리는 훨씬 더 남쪽에있는 투르케스탄, 그리고 더 나아가 페르시아까지 나아갈 수 있습니다!"
@@ -420,32 +420,32 @@ RUS_Disorganisation_desc:0 "적의 지상병력에 직접 개입하지 않고 �
 RUS_Air_Superiority:0 "공중 우세"
 RUS_Air_Superiority_desc:0 "폭격기가 우리의 적에게 피해를 줄 수는 있지만, 우리 전투기의 충분한 보호 없이는 한 대의 폭격기도 목표물에 도달하지 못할 것입니다. 게다가 호위 임무 외에도 전투기들은 우리 군대와 산업을 보호할 수 있습니다."
 
-RUS_Wing_Formations:0 "Wing Formations"
-RUS_Wing_Formations_desc:0 "Every single pilot needs to operate closer together with smaller formations of planes, divided into squadrons and wings."
+RUS_Wing_Formations:0 "비행 대형"
+RUS_Wing_Formations_desc:0 "조종사들은 다른 비행기들과 함께 비행할 때, 비행대와 대형의 날개로 이루어진 최대한 밀집한 형태로 비행해야 합니다."
 
-RUS_Naval_Bomber_Development:0 "Naval Bomber Development"
-RUS_Naval_Bomber_Development_desc:0 "At sea, a single wing of naval bombers can be just as efficient as any ship. We need to develop this type of bomber further."
+RUS_Naval_Bomber_Development:0 "해상 폭격기 개발"
+RUS_Naval_Bomber_Development_desc:0 "바다에서, 해상 단엽 폭격기는 군함만큼 효율적인 것으로 밝혀졌습니다. 이런 종류의 폭격기를 더 개발해야 합니다."
 
-RUS_Create_The_VDV:0 "Create the VDV"
-RUS_Create_The_VDV_desc:0 "Some of the more experimental members of our Chief of Staff suggests that the motorisation of our troops was only the first step. The next step would be to move infantry not by ships or by trucks, but by planes! By dropping so called paratroopers behind enemy lines we can cut off enemy units and hit supply points."
+RUS_Create_The_VDV:0 "VDV 창설"
+RUS_Create_The_VDV_desc:0 "우리 참모단들 중 조금 더 탐구적인 구성원들은 군대의 기동, 기계화가 단지 현대적인 군대의 첫 단계라고 생각합니다. 이들은 보병들을 배나 트럭으로 이동시키는 것이 아니라 비행기로 이동하는 방안을 주장했습니다! 소위 '낙하산 부대'를 적진의 후방으로 침투시키면 적 부대의 증원을 차단하고 보급 지점을 타격할 수 있습니다."
 
-RUS_High_Command_Reforms:0 "High Command Reforms"
-RUS_High_Command_Reforms_desc:0 "The Military High Command holds many fossils of old who have learned little from the Weltkrieg and the civil war. They need to be replaced with people who understand the type of warfare we hope to conduct."
+RUS_High_Command_Reforms:0 "군 고위 간부 개혁"
+RUS_High_Command_Reforms_desc:0 "군 사령부는 세계대전과 적백 내전을 거치고도 배운 것이 없는 늙은이들이 차지하고 있습니다. 그들은 우리가 하고자 하는 전쟁의 형태를 이해하고 수행할 수 있는 사람들로 대체될 필요가 있습니다."
 
-RUS_Extensive_Planning:0 "Extensive Planning"
-RUS_Extensive_Planning_desc:0 "Vrangel, while not as widely respected as Denikin, is still popular with some parts of the military. He believes in discipline and is respected far and wide for his administrative abilities. With extensive planning and a general motorisation, he believes he can make the Russian army the greatest in the world!"
+RUS_Extensive_Planning:0 "대전략 계획" #Extensive Planning
+RUS_Extensive_Planning_desc:0 "브란겔은 데니킨만큼 영향력있는 인물은 아니지만, 군부의 일부 인사들 사이에서 인기가 있습니다. 그는 규율을 철저하게 지키는 모습과 그의 행정 능력은 그를 지지하는 이유 중 하나입니다. 그가 주장하는 대전략 계획과 거침없는 추진력은, 그가 러시아 군대를 세계에서 가장 위대하게 만들 수 있다고 사람들이 믿게 했습니다!"
 
-RUS_Military_Infrastructure:0 "Military Infrastructure"
-RUS_Military_Infrastructure_desc:0 "Vrangels plans require large amounts of preparation, including setting up important supply points at key locations. Railroads and highways must stretch from end to end in Russia!"
+RUS_Military_Infrastructure:0 "군 기반 시설"
+RUS_Military_Infrastructure_desc:0 "브란겔의 계획에서는 주요 위치에 중요한 공급 지점을 설정하는 대량의 준비가 필요합니다. 러시아의 철도와 고속도로는 동쪽에서 서쪽까지 확장되어야 합니다!"
 
-RUS_Mechanised_Divisions:0 "Mechanised Divisions"
-RUS_Mechanised_Divisions_desc:0 "Much like with planes, tanks, ships and rifles our mechanised units need to be further developed, all to meet the requirements of modern war."
+RUS_Mechanised_Divisions:0 "기계화 사단"
+RUS_Mechanised_Divisions_desc:0 "비행기, 전차, 군함, 소총과 마찬가지로 기계화 사단은 현대전의 요구조건을 충족시키기 위해 더욱 발전해야 합니다."
 
-RUS_National_Planning_School:0 "National Planning School"
-RUS_National_Planning_School_desc:0 "Vrangel believes that Russia doesn't need to rely on 'wasting lives' at the front lines, if our officers receive proper training and stick to our closely monitored battle plans. New officer schools designed to train young officers on how to follow these plans should be set up."
+RUS_National_Planning_School:0 "국립 사관학교"
+RUS_National_Planning_School_desc:0 "브란겔은 우리의 장교들이 적절한 지휘 훈련을 받고 우리의 전투 계획을 면밀히 연구한다면, 러시아가 전선에서 목숨을 낭비할 필요가 없다고 생각합니다. 이 계획을 훌륭히 수행할 젊은 장교들을 훈련시키기 위해 새로운 사관학교들이 세워져야 합니다."
 
-RUS_Overwhelming_Firepower:0 "Overwhelming Firepower"
-RUS_Overwhelming_Firepower_desc:0 "Shatilov is a veteran from both the front lines and the staff quarters. While not the first choice of the Military command he does have a circle of close allies who all advocate theories of overwhelming firepower, hammering enemy positions with artillery before attacking. Additionally, more initiative and responsibility needs to be given to the officer at the front-line."
+RUS_Overwhelming_Firepower:0 "화력 우세"
+RUS_Overwhelming_Firepower_desc:0 "샤틸로프는 최전방과 참모단에서 온 베테랑입니다. 군 지휘부가 그를 처음으로 선택한 것은 아니지만, 그의 압도적인 화력 이론을 지지하는 세력을 가지고 있었습니다. 그의 교리는 본격적인 공격을 하기 전에 적의 진지를 포격으로 타격하는 것을 전제로 하고 있습니다. 또한 전선의 지휘관에게 더 많은 혜택과 권한을 부여할 필요가 있습니다."
 
 RUS_Commander_Initiative:0 "Commander Initiative"
 RUS_Commander_Initiative_desc:0 "Shatilov believes we should give our lower ranking officers clear goals and resources to fulfil those goals, but leave the planning in their hands. This will allow them to take local circumstances into consideration and help them respond accordingly to any changes in those circumstances, making our forces more flexible."
