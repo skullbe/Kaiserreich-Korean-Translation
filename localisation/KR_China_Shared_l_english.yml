@@ -183,31 +183,31 @@ LEP_victory_imminent_tooltip_ROOT:0 "§H승리가 임박함§! 변동치를 §H9
 
 ### National Redoubt
 china_redoubt.1.t:0 "정부가 도망치다"
-china_redoubt.1.d:0 "One by one our defences in the East have crumbled before the enemy's advance, our armies put to flight alongside the desperate refugees now packing the roads and railways leading westward. Even now further Japanese troops pour onto the North China Plain, and the time has come for the government to consider retreat. Fortunately China is vast, and the creation of a national redoubt may let us ride out the oncoming storm. The government has already begun preparations to flee to [china_national_redoubt.GetCliqueShortName], and its offices are filled with frantic activity. But, outside, the streets of the provisional capital are filled with a dead air and sombre air, roamed only by those poor souls too wretched to flee westward. Until the enemy is defeated, there can be no looking back."
+china_redoubt.1.d:0 "적이 진격하고 동부 방어선이 하나둘씩 무너지면서 아군은 절망에 빠진 채 도로와 철로를 가득 채운 피난민들과 함께 서쪽으로 도망치는 중입니다. 심지어 더 많은 일본군 부대가 북중국 평원으로 쏟아져 들어오면서 정부도 도망을 고려해야 하는 사태에 이르렀습니다. 불행 중 다행으로 중화 대륙은 가도가도 끝없는 넓은 땅이기 때문에 다가올 폭풍우 속에서 버티기 위한 보루를 짓기 위한 땅은 충분합니다. 정신없이 돌아다니는 정부는 이미 [china_national_redoubt.GetCliqueShortName](으)로 도망칠 준비를 끝마쳐 둔 상태입니다. 하지만 바깥 임시 수도의 거리는 답답하고 침울한 분위기로 가득 차 있으며, 더 서쪽으로 도망칠 돈이 없는 가련하고 불쌍한 영혼들만이 배회하는 상황입니다. 적을 굴복시키기 전까지는 뒤 돌아볼 여유가 없습니다."
 china_redoubt.1.a:0 "빠르게!"
-china_redoubt.1.b:0 "(요새로 플레이한다)"
+china_redoubt.1.b:0 "(보루로 플레이한다)"
 
-china_redoubt.2.t:0 "The Government Reaches [china_national_redoubt.GetCliqueShortName]"
-china_redoubt.2.d:0 "After a difficult journey across thousands of kilometers, over mountains and along narrow roads clogged with the dead and destitute, the remains of the Central Government have made their way to [china_national_redoubt.GetCliqueShortName]. For now they are safe, but it may only be a matter of time before the long arm of the Emperor reaches here, too. There is a long war ahead."
+china_redoubt.2.t:0 "정부가 [china_national_redoubt.GetCliqueShortName]에 도착하다"
+china_redoubt.2.d:0 "중앙 정부 생존자들은 시체와 거지들로 꽉 막힌 산길과 비좁은 도로를 따라 수천 킬로미터를 가로질러 힘겨운 여정을 마쳤고 마침내 [china_national_redoubt.GetCliqueShortName]에 도착했습니다. 지금 당장은 안전할지도 모르지만, 황제의 손이 여기까지 도달하는데 얼마나 걸릴지는 아무도 모릅니다. 길고 지리한 전쟁이 기다립니다."
 china_redoubt.2.a:0 "어서오시오!"
 
 china_redoubt.3.t:0 "정부가 고향에 돌아오다"
-china_redoubt.3.d:0 "After a long and hard-fought war, the Central Government has returned to the National Capital. But despite the return of life, many government halls once filled with activity remain silent and abandoned, their roofs reduced to ash, and their walls little more than hollowed-out rubble. It will take quite some time before the Capital, and indeed the nation, are the same again, if they ever will be."
+china_redoubt.3.d:0 "길고 힘든 전쟁 끝에 중앙 정부가 수도로 돌아왔습니다. 하지만 수복에도 불구하고 수많은 정부 청사들은 정적 속에 버려진 채로 지붕은 잿더미가 되었고 벽은 움푹 패인 파편으로 전락한 상태입니다. 수도가 옛 모습을 회복하고 국가도 예전과 같이 돌아오기 위해서는 오랜 시간이 걸릴 겁니다."
 china_redoubt.3.a:0 "마침내 평화로군."
 china_redoubt.3.b:0 "(국민정부로 플레이한다)"
 
 china_redoubt.4.t:0 "도망쳐야만 한다"
-china_redoubt.4.d:0 "Despite the best efforts of the Central Government, and all those who have stood against the Japanese advance, the time has come for us to consider retreat. Already the roads and waterways are clogged with the dead and destitute as the whole of the country moves westward, as if fleeing a flood. Now we must join them, and continue our fight from the national redoubt in [china_national_redoubt.GetCliqueShortName]."
+china_redoubt.4.d:0 "중앙 정부가 최선을 다했고 일본의 진격에 모든 이들이 저항했음에도 불구하고, 후퇴를 고려해야만 하는 상황이 왔습니다. 전국적으로 서부로 피난가기 시작하면서 피난민의 홍수가 들어닥친 모든 도로와 수로가 시체와 가난한 사람들로 가득찼습니다. 이제 정부도 그들과 함께 가서 [china_national_redoubt.GetCliqueShortName]의 보루에서 계속 투쟁해야 합니다."
 china_redoubt.4.a:0 "빠르게!"
 china_redoubt.4.b:0 "(요새로 플레이한다)"
 
-china_redoubt.5.t:0 "[From.GetCliqueShortName] Reaches [china_national_redoubt.GetCliqueShortName]"
-china_redoubt.5.d:0 "After a difficult journey across thousands of kilometers, over mountains, rivers, and through valleys, [From.GetCliqueShortName] have made their way to [china_national_redoubt.GetCliqueShortName]. For now they are safe, but it may only be a matter of time before the long arm of the Emperor reaches here, too. There will be a long war ahead."
+china_redoubt.5.t:0 "[From.GetCliqueShortName]이(가) [china_national_redoubt.GetCliqueShortName]에 도착하다"
+china_redoubt.5.d:0 "[From.GetCliqueShortName]는 시체와 거지들로 꽉 막힌 산길과 비좁은 도로를 따라 수천 킬로미터를 가로질러 힘겨운 여정을 마쳤고 마침내 [china_national_redoubt.GetCliqueShortName]에 도착했습니다. 지금 당장은 안전할지도 모르지만, 황제의 손이 여기까지 도달하는데 얼마나 걸릴지는 아무도 모릅니다. 길고 지리한 전쟁이 기다립니다."
 china_redoubt.5.a:0 "어서오시오!"
 
 china_redoubt.6.t:0 "[From.GetCliqueShortName]이(가) 고향으로 돌아오다"
-china_redoubt.6.d:0 "After a long and hard-fought war, [From.GetCliqueShortName] has returned to the capital. But despite the return of life, many government halls once filled with activity remain silent and abandoned, their roofs reduced to ash, and their walls little more than hollowed-out rubble. It will take quite some time before the Capital, and indeed the nation, are the same again, if they ever will be.."
-china_redoubt.6.a:0 "마침내."
+china_redoubt.6.d:0 "길고 힘든 전쟁 끝에 [From.GetCliqueShortName]이(가) 수도로 돌아왔습니다. 하지만 수복에도 불구하고 수많은 정부 청사들은 정적 속에 버려진 채로 지붕은 잿더미가 되었고 벽은 움푹 패인 파편으로 전락한 상태입니다. 수도가 옛 모습을 회복하고 국가도 예전과 같이 돌아오기 위해서는 오랜 시간이 걸릴 겁니다."
+china_redoubt.6.a:0 "마침내 해냈구나."
 
 QIE_redoubt_totalist:0 "대청 군사정부"
 QIE_redoubt_totalist_ADJ:0 "청나라"
