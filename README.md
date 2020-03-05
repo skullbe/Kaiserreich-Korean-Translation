@@ -1,4 +1,4 @@
-# [0.11.1 호환작업완료](https://www.reddit.com/r/Kaiserreich/comments/fdz4sx/hotfix_0111_is_out/)
+# [0.11.1 호환작업완료](https://www.reddit.com/r/Kaiserreich/comments/fdz4sx/hotfix_0111_is_out/) (패치노트)
 # [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=1972234971)은 공개 번역으로써 누구든지 참여하실 수 있습니다.
 # 이미 [Pull requests]를 하셨다면 아무리 여러개를 하셔도 가장 최근에 수락된 것만 적용됩니다. 부디 이미 request하신건 하지 말아 주시기 바랍니다. (수락 될때까지 다른 국가를 해주세요.)
 # [번역 방법](https://github.com/skullbe/Kaiserreich-Korean-Translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%95)
