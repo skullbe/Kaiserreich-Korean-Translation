@@ -24,8 +24,8 @@
 - 부분 기호(`§§!`) 사이의 첫 대문자 알파벳은 글자 색상을 지정하는 것으로 번역하지 않습니다.
 ```
 번역 예시:
-  §YTwilight Sparkle§! and the §YElements of Harmony§!
-  §Y트와일라잇 스파클§!과 §Y조화의 원소§!
+  §YKaiserreich§! and the §YFuhrerreich§!
+  §Y카이저라이히§!(와)과 §Y퓌러라이히§!
 ```
 - 개행 기호(`\n`)는 줄바꿈 기호로 번역하지 않습니다.
 
