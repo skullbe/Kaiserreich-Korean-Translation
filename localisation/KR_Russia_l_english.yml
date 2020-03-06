@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 russia_focus:0 "러시아 중점계통도"
 
@@ -7,32 +7,32 @@ rus_austerity_measures:0 "긴축 조치"
 ger_brest_litovsk:0 "브레스트-리토프스크 조약" #Brest-Litovsk Reparations
 rus_political_instability:0 "정치적 불안정함"
 rus_divided_staff:0 "분열된 육군 참모진"
-rus_divided_staff_desc:0 "우리의 군사적 전략은 내전의 종식이후 많은 발전과 이론적 혁신을 보였지만, 정부의 만성적인 불안정함과 정치적 부족으로 인해 육군은 현대적인 단일 교리를 채택하지 못했고, 이는 우리 군대의 발전을 방해하고 있습니다."
+rus_divided_staff_desc:0 "우리의 군사적 전략은 내전의 종식 이후 많은 발전과 이론적 혁신을 보였지만, 정부의 만성적인 불안정함과 정치적 부족으로 인해 육군은 현대적인 단일 교리를 채택하지 못했고, 이는 우리 군대의 발전을 방해하고 있습니다."
 rus_divided_marine:0 "분열된 해군 참모진"
 rus_divided_marine_desc:0 "내전이 종식되고서, 해군의 영향력은 작고 약해졌고 국가의 우선순위 중 가장 낮은 위치에 있었습니다. 따라서 고위 해군 참모들은 정부로부터 공식적인 답변을 받지 못하는 논쟁에 빠지고는 합니다. 우리 장교들 중 일부는 고전적인 현존함대 교리를 고수하기를 원하는 반면, 다른 장교들은 잠수함이나 항공모함을 활용하는 다른 혁신적인 교리를 시험하고 싶어합니다."
 rus_better_working_conditions:0 "개선된 근무환경"
 rus_more_MP_focus:0 "대중 동원"
-rus_better_infantry_production_focus:0 "표준보병 장비"
+rus_better_infantry_production_focus:0 "표준보병장비"
 training_barracks:0 "지역 훈련소"
 rus_military_infrastructure_focus:0 "군사 기반 시설 개발"
 planning_school:0 "사관학교"
 rus_army_experience_focus:0 "지휘관 양성 계획"
-general_school:0 "고등지휘 사관학교"
+general_school:0 "고등지휘사관학교"
 tank_academy:0 "기갑사관학교"
-rus_free_thought_focus:0 "자유주의사상 장려" #Encouragement of Free Thought
+rus_free_thought_focus:0 "자유주의 사상 장려" #Encouragement of Free Thought
 rus_tolerant_republic_focus:0 "관대한 공화국"
 rus_defend_democracy_focus:0 "민주주의 수호"
 rus_great_library_focus:0 "대도서관"
-rus_esprit_de_corps_focus:0 "국가 방위군" #Natsgvardiya
+rus_esprit_de_corps_focus:0 "국가방위군" #Natsgvardiya
 rus_yunarmiya_focus:0 "유나르미아" #Yunarmiya
 rus_radio_propaganda_focus:0 "차르의 목소리"
 rus_neoslavism_focus:0 "신슬라브주의"
-rus_devoted_subjects_focus:0 "국가원수에 헌신"
+rus_devoted_subjects_focus:0 "국가원수에게 헌신"
 soviet_worker_soldier:0 "소비에트의 위협"
 soviet_worker_soldier_desc:0 "계속되는 정치적 불안정함과 사회주의 세력의 성장으로 인해서, 우리는 내전이 종식된 후 '프롤레타리아'와 타협할 수밖에 없었습니다. 현재 러시아에서는 볼셰비키들의 활동이 여전히 활발하며, 우리의 영향력이 더욱 약해질수록 그들의 움직임은 점점 선명하게 보일 것입니다."
 rus_military_spirit_idea:0 "군인 정신"
 RUS_Vroom:0 "'트라이엄프' 리무진" #Limousine 'Triumph'
-RUS_Dmi_Tri:0 "상원 의원 통제"
+RUS_Dmi_Tri:0 "상원 통제"
 RUS_new_russia:0 "새로운 러시아"
 rus_state_revanchism:0 "국가재건주의" #State Revanchism
 
@@ -44,7 +44,7 @@ rus_fulfilled_strike_general_malus:0 "넓어진 노동자의 권리" #Expanded w
 RUS_Faith_disc:0 "국가적 종교 문제 논쟁"
 
 RUS_economic_depression:0 "경제 대공황"
-RUS_supreme_economic_council:0 "최고 경제위원회" #Verkhovny Ekonomicheskiy Sovet"
+RUS_supreme_economic_council:0 "최고경제위원회" #Verkhovny Ekonomicheskiy Sovet"
 RUS_minprom:0 "민프롬"
 RUS_cooperative_capitalism:0 "협동자본주의"
 RUS_increased_production:0 "생산량 증가"
@@ -91,26 +91,26 @@ RUS_Integrate_Alash_Autonomy_desc:0 "카자흐스탄은 광활하고 부유하�
 
 RUS_Attack_Central_Asia:0 "[FROM.GetNameDef] 공격"
 RUS_Attack_Central_Asia_desc:0 "[RUS_Attack_Central_Asia_desc_text]"
-RUS_Attack_Central_Asia_desc_ALO:0 "우리 나라에 검은 월요일의 영향이 미치면서, 알라시 자치국은 우리의 통제에서 벗어났습니다. 러시아가 다시금 강대국이 되기 위해서는 카자흐 국경지역을 다시 우리의 지배하에 두어야 할 것입니다."
+RUS_Attack_Central_Asia_desc_ALO:0 "우리나라에 검은 월요일의 영향이 미치면서, 알라시 자치국은 우리의 통제에서 벗어났습니다. 러시아가 다시금 강대국이 되기 위해서는 카자흐 국경지역을 다시 우리의 지배하에 두어야 할 것입니다."
 RUS_Attack_Central_Asia_desc_TRK:0 "투르케스탄 지역은 세계대전에 패배할 때까지 제국의 지배하에 있었습니다. 카자흐 국경이 우리의 통제하에 확고히 자리잡은 지금, 우리는 이 영토들을 다시 되찾는 데 집중할 수 있습니다."
 
-RUS_Demand_Concessions_In_The_Caucasus:0 "코카서스 양도 요청"
-RUS_Demand_Concessions_In_The_Caucasus_desc:0 "독일은 현재 서구의 열강들과의 전쟁에서 고전하고 있습니다. 이러한 상황은 잃어버린 코카서스 영토를 다시 되찾을 수 있는 귀중한 기회일지도 모릅니다. 카이저에게 최후통첩을 해야 합니다. 영토를 양도 하든지, 아니면 양면전쟁에 휘말리게 될 것인지를 말입니다. 그들은 이 제안을 거절할 만큼 어리석지는 않을 것입니다."
+RUS_Demand_Concessions_In_The_Caucasus:0 "캅카스 양도 요청"
+RUS_Demand_Concessions_In_The_Caucasus_desc:0 "독일은 현재 서구의 열강들과의 전쟁에서 고전하고 있습니다. 이러한 상황은 잃어버린 캅카스 영토를 다시 되찾을 수 있는 귀중한 기회일지도 모릅니다. 카이저에게 최후통첩을 해야 합니다. 영토를 양도 하든지, 아니면 양면전쟁에 휘말리게 될 것인지를 말입니다. 그들은 이 제안을 거절할 만큼 어리석지는 않을 것입니다."
 
 RUS_Attack_Caucasus:0 "[RUS_Attack_Caucasus_text]"
 RUS_Attack_Caucasus_desc:0 "[RUS_Attack_Caucasus_desc_text]"
 
 RUS_Attack_Caucasus_DKB:0 "돈-쿠반 연합의 의중을 묻다"
-RUS_Attack_Caucasus_desc_DKB:0 "돈 쿠반 연합은 우리와 코카서스 지역 사이의 완충지대 역할을 하기 위해 독일이 만든 인공적인 지역에 지나지 않습니다. 우리는 이 코사크의 권리를 주장하는 자들을 뭉개버리고 이 땅에 있는 러시아인들을 우리의 정당한 명분하에 다시 데려올 것입니다!"
+RUS_Attack_Caucasus_desc_DKB:0 "돈 쿠반 연합은 우리와 캅카스 지역 사이의 완충지대 역할을 하기 위해 독일이 만든 인공적인 지역에 지나지 않습니다. 우리는 이 코사크의 권리를 주장하는 자들을 뭉개버리고 이 땅에 있는 러시아인들을 우리의 정당한 명분하에 다시 데려올 것입니다!"
 
 RUS_Attack_Caucasus_AZE:0 "바쿠 유전 지대"
-RUS_Attack_Caucasus_desc_AZE:0 "코카서스 지역의 왕관, 아제르바이잔은 우리의 군대와 산업에 매우 필요한 기름들을 풍부하게 가지고 있습니다. 우리는 제국의 잃어버린 부분을 다시 우리의 통제 아래 되돌려 놓을 것입니다."
+RUS_Attack_Caucasus_desc_AZE:0 "캅카스 지역의 왕관, 아제르바이잔은 우리의 군대와 산업에 매우 필요한 기름들을 풍부하게 가지고 있습니다. 우리는 제국의 잃어버린 부분을 다시 우리의 통제 아래 되돌려 놓을 것입니다."
 
 RUS_Attack_Caucasus_GEO:0 "조지아의 의중을 묻다"
-RUS_Attack_Caucasus_desc_GEO:0 "조지아는 제국에게 가장 중요한 지역입니다. 코카서스 산맥은 우리와 적들 사이를 가로막는 완벽한 요새입니다. 또한 조지아에는 독일이 소유하고 있는 몇 개의 송유관도 존재합니다. 우리는 최대한 빨리 조지아에서 우리의 통제력을 재 확립할 수 있는 방안을 모색해야 합니다."
+RUS_Attack_Caucasus_desc_GEO:0 "조지아는 제국에게 가장 중요한 지역입니다. 캅카스 산맥은 우리와 적들 사이를 가로막는 완벽한 요새입니다. 또한 조지아에는 독일이 소유하고 있는 몇 개의 송유관도 존재합니다. 우리는 최대한 빨리 조지아에서 우리의 통제력을 재 확립할 수 있는 방안을 모색해야 합니다."
 
 RUS_Attack_Caucasus_ARM:0 "아르메니아의 지위"
-RUS_Attack_Caucasus_desc_ARM:0 "이제 코카서스에 대한 지배력을 공고히 했으니, 아르메니아를 주목해야 합니다. 우리 나라의 기독교 신도들은 제국이 붕괴된 후 오랜기간 고통 받아왔습니다. 우리는 그들을 다시 한번 우리의 보호 아래로 데려와야 합니다."
+RUS_Attack_Caucasus_desc_ARM:0 "이제 캅카스에 대한 지배력을 공고히 했으니, 아르메니아를 주목해야 합니다. 우리나라의 기독교 신도들은 제국이 붕괴된 후 오랜기간 고통 받아왔습니다. 우리는 그들을 다시 한번 우리의 보호 아래로 데려와야 합니다."
 
 RUS_Claim_Greater_Armenia:0 "대아르메니아 주장"
 RUS_Claim_Greater_Armenia_desc:0 "지금은 우리는 아르메니아를 지배하고 있지만, 국경 밖에서 살아가는 아르메니아인들이 많이 있습니다. 우리는 터키인들에게 이 땅을 우리에게 넘기라는 최후통첩을 보내야 할 것입니다. 게다가 그들은 군사행동이 일어나길 원하지 않을 것입니다."
@@ -121,11 +121,11 @@ RUS_Claim_The_Straits_desc:0 "러시아는 항상 세계에서 요충지인 도�
 RUS_Attack_Ottomans:0 "[FROM.GetFlag] [FROM.GetNameDef] 공격"
 RUS_Attack_Ottomans_desc:0 "우리의 오랜 숙적은 긴 시간동안 우리를 방해해 왔습니다. 이들을 고통에서 해방시키고, 동유럽의 거대한 질서로서의 우리의 지위를 다시 한 번 강조할 때가 되었습니다."
 
-RUS_Ultimatum_To_Persia:0 "[FROM.GetNameDef](을)를 향한 최우통첩"
+RUS_Ultimatum_To_Persia:0 "[FROM.GetNameDef](을)를 향한 최후통첩"
 RUS_Ultimatum_To_Persia_desc:0 "[FROM.GetNameDef](은)는 거대하고 강력한 국가입니다. 그들은 우리의 적대관계가 될 필요가 없습니다. 아마도 우리는 그들과 일종의 '합의'에 도달할 수 있을 것입니다."
 
 RUS_Attack_Persia:0 "[FROM.GetNameDef] 분쇄"
-RUS_Attack_Persia_desc:0 "[FROM.GetNameDef](은)는 우리의 확장 정책을 방해하고 있고, 우리의 부동항을 얻고자하는 계획을 막고 있습니다. [FROM.GetNameDef](이)나 우리중 하나가 승자가 될 것입니다!"
+RUS_Attack_Persia_desc:0 "[FROM.GetNameDef](은)는 우리의 확장 정책을 방해하고 있고, 우리의 부동항을 얻고자하는 계획을 막고 있습니다. [FROM.GetNameDef] 혹은 우리, 두 국가 중 하나가 승자가 될 것입니다!"
 
 RUS_Demand_Tuva:0 "투바 요구"
 RUS_Demand_Tuva_desc:0 "투바는 이전에 러시아 제국의 지배하에 있었습니다. 이제 우리는 서쪽에 있는 우리의 옛 영토를 다시 되찾았으므로, 시베리아 횡단 철도를 보호하기 위한 추가적인 완충지대를 확보하기 위해 이 국경 지역을 다시 점령해야 합니다."
@@ -192,7 +192,7 @@ RUS_Develop_Industry_In_Tsaritsyn:0 "차리친 산업 개발"
 RUS_Develop_Industry_In_Yekaterinburg:0 "예카테린부르크 산업 개발"
 RUS_Develop_Industry_In_Chelyabinsk:0 "첼랴빈스크 산업 개발"
 RUS_Develop_Industry_In_Omsk:0 "옴스크 산업 개발"
-RUS_Develop_Industry_In_Novo_Nikolayevsk:0 "노보 니콜라옙스크 산업 개발"
+RUS_Develop_Industry_In_Novo_Nikolayevsk:0 "노보니콜라옙스크 산업 개발"
 RUS_Develop_Industry_In_Krasnoyarsk:0 "크라스노야르스크 산업 개발"
 RUS_Develop_Industry_In_Irkutsk:0 "이루쿠츠크 산업 개발"
 
@@ -206,7 +206,7 @@ RUS_Invest_In_The_Siberian_Zemstva:0 "시베리아 젬스트보에 투자"
 RUS_Political_Stabilisation:0 "정치 안정화"
 RUS_Political_Stabilisation_desc:0 "케렌스키 대통령의 죽음은 역사상 가장 큰 위기를 초래했지만, 우리는 가까스로 이 고난을 이겨냈습니다. 이제 점차 상황이 안정되면서, 어떤 형태로든 우리의 미래를 내다볼 때입니다."
 
-RUS_Restore_The_Monarchy:0 "왕정복고"
+RUS_Restore_The_Monarchy:0 "제정복고"
 RUS_Restore_The_Monarchy_desc:0 "공화국의 실패와 위기에 대응하는 능력의 부족때문에, 우리는 완전히 원점으로 돌아왔습니다. 차르의 지도를 받는 러시아만이 세계 무대에서의 지위를 되찾을 수 있습니다. 잿더미에서 솟아오르는 불사조처럼, 우리는 제국을 이전의 영광스러운 국가로 회복시켜야 합니다."
 
 RUS_A_Constitutional_Monarchy:0 "입헌군주제"
@@ -215,8 +215,8 @@ RUS_A_Constitutional_Monarchy_desc:0 "차르의 독재정치가 장기적인 안
 RUS_New_Constitution:0 "새로운 헌법"
 RUS_New_Constitution_desc:0 "군주제가 자리를 잡게 되면 상원과 의회에 비해 군주가 가질 권력의 양을 분명히 보여주는 새로운 헌법이 필요할 것입니다. 지금은 변화의 시기이고, 많은 의견들이 필요합니다."
 
-RUS_Devoted_Subjects:0 "국가원수에 헌신" #Devoted Subjects
-RUS_Devoted_Subjects_desc:0 "러시아의 모든 가정에는 차르와 그의 가족들의 사진을 벽에 걸어 놓습니다. 차르가 공개 행사에 참여할 때마다 그는 사람들의 환호와 사랑을 받습니다. 그는 정당간의 정치활동을 초월하고, 국가 단결의 상징입니다."
+RUS_Devoted_Subjects:0 "국가원수에게 헌신" #Devoted Subjects
+RUS_Devoted_Subjects_desc:0 "러시아의 모든 가정에는 차르와 그의 가족들의 사진을 벽에 걸어 놓습니다. 차르가 공개 행사에 참여할 때마다 그는 사람들의 환호와 사랑을 받습니다. 그는 정당 간의 정치활동을 초월하고, 국가 단결의 상징입니다."
 
 RUS_Imperial_Benevolence:0 "황제의 박애"
 RUS_Imperial_Benevolence_desc:0 "차르가 모든 이들이 두려워하는 폭군이라는 인식은 과거의 일입니다. 차르는 우리 모두를 돌보는 엄격하지만 자애로운 아버지입니다."
@@ -224,13 +224,13 @@ RUS_Imperial_Benevolence_desc:0 "차르가 모든 이들이 두려워하는 폭�
 RUS_Imperial_Glory:0 "제국의 영광"
 RUS_Imperial_Glory_desc:0 "[RUS_Imperial_Glory_desc_text]"
 RUS_Imperial_Glory_desc_kirill:0 "지난 30년간의 혼란은 러시아 국민들이 불안정한 선거와 대중의 불안을 거치는 것보다, 철권통치하는 차르의 지배를 받는 것이 더 낫다는 것을 증명했습니다. 전 해군 장교인 키릴 블라디미로비치보다 더 나은 선택은 없을 것입니다."
-RUS_Imperial_Glory_desc_dmitry:0 "로마노프 가문은 300년 넘게 러시아를 통치했습니다. 혼란의 후폭풍은 빨리 끝날수록 좋습니다. 드미트리 대공은 마지막 차르의 사촌으로, 이제 황제의 왕좌에 올라 러시아의 위대함과 영광을 영원히 되찾아야 합니다."
+RUS_Imperial_Glory_desc_dmitry:0 "로마노프 가문은 300년 넘게 러시아를 통치했습니다. 혼란의 후폭풍은 빨리 끝날수록 좋습니다. 드미트리 대공은 마지막 차르의 사촌으로, 이제 황제의 옥좌에 올라 러시아의 위대함과 영광을 영원히 되찾아야 합니다."
 
 RUS_The_Voice_Of_The_Tsar:0 "차르의 목소리"
 RUS_The_Voice_Of_The_Tsar_desc:0 "러시아의 새로운 차르는 현대적인 미사여구를 이해할 뿐만 아니라 대중에게 연설하는 것을 즐깁니다. 그의 우렁찬 목소리는 국민들에게 진정한 적은 러시아에 있지 않다는 것을 상기시켜줍니다. 진정한 적은 질투로 인해 러시아 전통을 훼손하려하는 외국의 사상들입니다."
 
 RUS_Expansion_Of_The_Rumyantsev_Library:0 "러시아 국립도서관 확장" #Expansion of the Rumyantsev Library
-RUS_Expansion_Of_The_Rumyantsev_Library_desc:0 "러시아 국립도서관은 1831년에 설립된 모스크바의 첫 번째 공공 도서관입니다. 이 도서관의 원고와 초기 간행본의 수집품은 방대하고, 우리는 반드시 이 도서관을 위한 새로운 건물을 지어야 합니다. 이 도서관으로 러시아의 신세대 학생들이 국가의 이익을 위해 스스로 공부할 수 있을 것입니다."
+RUS_Expansion_Of_The_Rumyantsev_Library_desc:0 "러시아 국립도서관은 1831년에 설립된 모스크바의 첫 번째 공공도서관입니다. 이 도서관의 원고와 초기 간행본의 수집품은 방대하고, 우리는 반드시 이 도서관을 위한 새로운 건물을 지어야 합니다. 이 도서관으로 러시아의 신세대 학생들이 국가의 이익을 위해 스스로 공부할 수 있을 것입니다."
 
 RUS_Neo_Slavism:0 "신슬라브주의"
 RUS_Neo_Slavism_desc:0 "모든 슬라브인들은 어디에 살든지 간에 러시아 사람들에게 형제입니다. 만약 그들이 부당한 대우를 받는다면, 그들을 해방시키고 그 나라를 제국에 편입시키는 것은 러시아의 정당한 권리 입니다."
@@ -248,13 +248,13 @@ RUS_Money_For_The_Motherland:0 "모국을 위한 돈"
 RUS_Money_For_The_Motherland_desc:0 "러시아의 부유하고 영향력 있는 귀족들의 충성심이 확보되었으니, 우리는 이제 그들에게 약간의 압력을 가할 때입니다. 부유층에 대한 세금을 확보함으로써 우리는 이 부를 이용하여 모든 러시아인들의 생활수준을 높이고 더 큰 국민통합을 이끌어낼 수 있습니다."
 
 RUS_Industrial_Expansion:0 "산업 확장"
-RUS_Industrial_Expansion_desc:0 "우리의 많은 친구들과 동료들이 상원의 중요한 의석을 확보하고 있기 때문에, 상원 의원이 소유하고있는 산업을 설립하고 확장하기 위해 필요한 연결고리를 쉽게 찾을수 있습니다. 이러한 행동에 대한 보답으로 귀족들은 영원히 감사할 것입니다."
+RUS_Industrial_Expansion_desc:0 "우리의 많은 친구들과 동료들이 상원의 중요한 의석을 확보하고 있기 때문에, 상원 의원이 소유하고 있는 산업을 설립하고 확장하기 위해 필요한 연결고리를 쉽게 찾을 수 있습니다. 이러한 행동에 대한 보답으로 귀족들은 영원히 감사할 것입니다."
 
 RUS_Aristocratic_Army:0 "귀족의 군대"
 RUS_Aristocratic_Army_desc:0 "세계 역사에서, 대부분의 위대한 장군들은 모두 사회의 지배 계층이었습니다. 지배 계층은 사람들을 지휘하는 법을 알기 때문에 당연한 것입니다. 과거에 그랬던 것처럼, 앞으로 우리 군대를 이끌 귀족들의 장교단을 신뢰해야 합니다."
 
 RUS_Empower_The_Duma:0 "의회 지지"
-RUS_Empower_The_Duma_desc:0 "러시아의 가장 큰 과오는 내전 이후 완전한 민주화를 이루지 못했다는 것입니다. 우리는 폭군으로부터, 좌우 정당의 싸움으로부터 우리 자신을 구하려면, 우리 나라와 경제, 그리고 우리 국민들을 더욱 자유롭게 할 필요가 있습니다."
+RUS_Empower_The_Duma_desc:0 "러시아의 가장 큰 과오는 내전 이후 완전한 민주화를 이루지 못했다는 것입니다. 우리는 폭군으로부터, 좌우 정당의 싸움으로부터 우리 자신을 구하려면, 우리나라와 경제, 그리고 우리 국민들을 더욱 자유롭게 할 필요가 있습니다."
 
 RUS_A_Tolerant_Republic:0 "관용의 공화국"
 RUS_A_Tolerant_Republic_desc:0 "러시아 공화국은 자국의 소수민족을 짓밟아서는 안 됩니다. 그들의 문화, 역사, 언어를 인정하고 신이나 차르에 대한 두려움이 아닌, 자유와 민주주의를 향한 우리의 사랑만이 공화국을 단결시킬 수 있습니다."
@@ -262,28 +262,28 @@ RUS_A_Tolerant_Republic_desc:0 "러시아 공화국은 자국의 소수민족을
 RUS_Reinforce_The_Government:0 "정부 강화"
 RUS_Reinforce_The_Government_desc:0 "사상, 언론, 조직의 자유는 보장되어야 하지만, 혼돈이 만연한 상태의 국가에서는 이러한 것들은 도움이 되지 않습니다. 정부는 도시, 공장, 농촌에 대한 통제를 재개해야 합니다."
 
-RUS_Encourage_Free_Thought:0 "자유주의사상 장려"
-RUS_Encourage_Free_Thought_desc:0 "우리 나라가 서서히 안정되고 있는 가운데, 우리는 기존의 독재 정치와 폐쇄적인 사고방식을 버려야만 합니다. 이전의 반체제 연구자들이 방해 없이 연구를 할 수 있게 되었으므로, 우리의 과학 프로젝트는 크게 속도를 낼 수 있을 것입니다."
+RUS_Encourage_Free_Thought:0 "자유주의 사상 장려"
+RUS_Encourage_Free_Thought_desc:0 "우리나라가 서서히 안정되고 있는 가운데, 우리는 기존의 독재 정치와 폐쇄적인 사고방식을 버려야만 합니다. 이전의 반체제 연구자들이 방해 없이 연구를 할 수 있게 되었으므로, 우리의 과학 프로젝트는 크게 속도를 낼 수 있을 것입니다."
 
 RUS_Defend_Democracy:0 "민주주의를 수호하라"
-RUS_Defend_Democracy_desc:0 "러시아는 정차 민주주의의 보루로 여겨지고 있지만, 세계의 여러 나라들의 상황은 그리 좋아 보이지 않습니다. 다른 나라의 민주화 운동을 지지하는 것은 우리의 의무이며, 우리 나라가 적대적인 국가들에게 포위되기 전에 주변 국가들이 독재자나 사회주의자들에게 넘어가지 않도록 해야 합니다."
+RUS_Defend_Democracy_desc:0 "러시아는 정차 민주주의의 보루로 여겨지고 있지만, 세계의 여러 나라들의 상황은 그리 좋아 보이지 않습니다. 다른 나라의 민주화 운동을 지지하는 것은 우리의 의무이며, 우리나라가 적대적인 국가들에게 포위되기 전에 주변 국가들이 독재자나 사회주의자들에게 넘어가지 않도록 해야 합니다."
 
 RUS_The_Second_Revolution:0 "두번째 혁명"
 RUS_The_Second_Revolution_desc:0 "예전의 상류층들이 아닌 노동자들을 위하는 정부가 들어섰으므로, 케렌스키의 실패한 정부가 불러일으킨 피해를 회복할 때입니다."
 
 RUS_A_Firm_Hand:0 "철권"
 RUS_A_Firm_Hand_desc:0 "[RUS_A_Firm_Hand_desc_text]"
-RUS_A_Firm_Hand_desc_savinkov:0 "우리의 지도자 라브르 코르닐로프가 사망한 후, 그의 영향력 있는 장관이자 혁명가인 사빈코프는 공화국에서 권력을 장악하였고, 심지어 자신이 옛 차르가 가지고 있던 권력의 수준을 넘어선 러시아 국가의 보즈드(지도자)라고 선포했다. 보리스 사빈코프는 이제 우리 나라의 '보즈드'입니다." #Vozhd(вождь)
+RUS_A_Firm_Hand_desc_savinkov:0 "우리의 지도자 라브르 코르닐로프가 사망한 후, 그의 영향력 있는 장관이자 혁명가인 사빈코프는 공화국에서 권력을 장악하였고, 심지어 자신이 옛 차르가 가지고 있던 권력의 수준을 넘어선 러시아 국가의 보즈드(지도자)라고 선포했습니다. 보리스 사빈코프는 이제 우리나라의 '보즈드'입니다." #Vozhd(вождь)
 RUS_A_Firm_Hand_desc_military:0 "러시아의 육군는 항상 안정적인 힘이었습니다. 심지어 나약한 자유 공화국이 의해 권력을 차지한 후에도, 육군은 러시아를 보호하기 위해 강하게 존재하고 있었습니다. 지금의 상황은 육군에게 러시아를 효과적으로 통제해야하는 것은 정의이며, 그러한 역할은 군대만이 할 수 있다는 생각을 심어주었습니다."
 
-RUS_Centralised_Apparatus_Of_State:0 "중앙 집권 국가"
-RUS_Centralised_Apparatus_Of_State_desc:0 "현재 러시아의 정세는 공권력의 전면적인 개편을 요구하고 있습니다. 이전의 지방정부, 부패한 공무원들, 그리고 독립된 정부 당국들은 이제 중앙 정부에게 복종해야 합니다."
+RUS_Centralised_Apparatus_Of_State:0 "중앙집권국"
+RUS_Centralised_Apparatus_Of_State_desc:0 "현재 러시아의 정세는 공권력의 전면적인 개편을 요구하고 있습니다. 이전의 지방 정부, 부패한 공무원들, 그리고 독립된 정부 당국들은 이제 중앙 정부에게 복종해야 합니다."
 
 RUS_A_New_Russia:0 "새로운 러시아"
 RUS_A_New_Russia_desc:0 "보리스 사빈코프는 이전보다 더 강하고 힘을 가진 새로운 러시아를 건설할 것이라고 연설했습니다. 하지만 새로운 나라는 새로운 사회를 필요로 합니다. 용기, 건강, 그리고 노동은 우리의 원칙을 나타내는 단어가 될 것이며, 보즈드의 권위는 어디에서나 존중될 것입니다. 사빈코프, 그는 이 어려운 시기를 헤쳐나갈 수 있는 유일한 사람입니다."
 
-RUS_Natsguardiya:0 "국가 방위군"
-RUS_Natsguardiya_desc:0 "NRPR의 부대는 우리가 이 나라의 질서를 회복하는 데 도움을 주었지만, 지금은 다양한 외부 위협으로부터 러시아를 방어할 '나츠바르디야'(국가 방위군)로 확장할 적절한 시기입니다. 국가 방위군의 정예 병사가 러시아 군인의 본보기가 될 것입니다."
+RUS_Natsguardiya:0 "국가방위군"
+RUS_Natsguardiya_desc:0 "NRPR의 부대는 우리가 이 나라의 질서를 회복하는 데 도움을 주었지만, 지금은 다양한 외부 위협으로부터 러시아를 방어할 '나츠바르디야'(국가방위군)로 확장할 적절한 시기입니다. 국가방위군의 정예 병사가 러시아 군인의 본보기가 될 것입니다."
 
 RUS_Yunarmiya:0 "유나르미아"
 RUS_Yunarmiya_desc:0 "러시아 내전 때문에, 수백만 명의 러시아 어린이들이 고아가 되었습니다. 케렌스키는 그들의 삶을 향상시키기 위한 어떠한 노력도 하지 않았지만, 보리스 사빈코프는 하나의 계획을 가지고 있습니다. 유소년 조직인 '유나르미아'는 아이들의 병원과 학교를 군대화시키기 시작했습니다. 다음 세대의 러시아 국민들은 그들의 삶을 향상시키고 새로운 사회의 건설자가 될 기회를 얻게 될 것입니다."
@@ -301,7 +301,7 @@ RUS_State_Revanchism:0 "국가재건주의"
 RUS_State_Revanchism_desc:0 "이제 러시아는 강대해질 운명이었던 군대의 지배하에 안정되었습니다. 우리는 빼앗긴 땅을 되찾고, 러시아로의 귀환을 외치는 그들의 민족을 해방시켜야 합니다!"
 
 RUS_Establish_The_VES:0 "VES 설립"
-RUS_Establish_The_VES_desc:0 "사빈코프의 권력이 강화되었기 때문에, 우리는 마침내 산업기반을 등한시하는 이 나라에 훨씬 필요한 경제 개혁을 시행할 수 있게 되었습니다. 우리는 최고 경제위원회를 만들 것입니다. VES(최고 경제위원회)는 이 나라의 산업발전을 통제할 것이며, 산업력을 서구권 국가들의 평균수준으로 끌어올릴 것입니다."
+RUS_Establish_The_VES_desc:0 "사빈코프의 권력이 강화되었기 때문에, 우리는 마침내 산업기반을 등한시하는 이 나라에 훨씬 필요한 경제 개혁을 시행할 수 있게 되었습니다. 우리는 최고경제위원회를 만들 것입니다. VES(최고경제위원회)는 이 나라의 산업발전을 통제할 것이며, 산업력을 서구권 국가들의 평균수준으로 끌어올릴 것입니다."
 
 RUS_Ural_Tractor_Plants:0 "우랄 트랙터 공장"
 RUS_Ural_Tractor_Plants_desc:0 "러시아가 유일하게 가진 풍부한 자원은 땅입니다. 우리는 국가의 심장부에 국영 공장과 철강 공장을 설립하여 유럽의 수준을 훨씬 넘는 기계화된 자동차를 생산할 것입니다."
@@ -316,13 +316,13 @@ RUS_Korporatsiya_Yusupova:0 "유수포바 주식회사"
 RUS_Korporatsiya_Yusupova_desc:0 "군관 연합 기관인 유수포바 주식회사는 독일 상품에 대한 의존도를 줄이기 위해 설립되었습니다. 유수포바는 우리 군대에 새로운 무기를 제공하고, 실업을 줄이는 데 도움을 줄 몇 가지 산업 프로젝트에 착수했습니다. 그러나 외국 공장과 경쟁하기 위해서는 그의 회사에 일종의 특권을 부여할 필요가 있습니다."
 
 RUS_Industrial_Draft_Scheme:0 "산업의 초기 계획안"
-RUS_Industrial_Draft_Scheme_desc:0 "비록 우리가 우리 나라의 산업 능력을 향상시키는데 큰 진전을 이루었지만, 아직도 일할 수 있는 능력이 있지만 일자리가 없는 러시아인들이 많이 있습니다. 우리는 남성들이 징병대신 국가 소유의 시설에서 3년간의 의무적으로 복무하는 대가로 매년 사회적, 재정적 인센티브를 받을 수 있는 제도를 제정할 것입니다."
+RUS_Industrial_Draft_Scheme_desc:0 "비록 우리가 우리나라의 산업 능력을 향상시키는데 큰 진전을 이루었지만, 아직도 일할 수 있는 능력이 있지만 일자리가 없는 러시아인들이 많이 있습니다. 우리는 남성들이 징병대신 국가 소유의 시설에서 3년간의 의무적으로 복무하는 대가로 매년 사회적, 재정적 인센티브를 받을 수 있는 제도를 제정할 것입니다."
 
 RUS_Reinstitute_The_Zemstva:0 "젬스트보 재설립"
 RUS_Reinstitute_The_Zemstva_desc:0 "젬스트보는 1864년 알렉산드르 2세가 처음 도입한 지역 통치와 진정의 한 형태입니다. 젬스트보는 귀족들이 선호하면서도, 여전히 하층 계급의 대표성을 보장합니다. 의심의 여지 없이, 젬스트보는 분열된 나라의 안정을 보장해 줄 것입니다."
 
-RUS_National_Investment_Bank:0 "국립 투자 은행"
-RUS_National_Investment_Bank_desc:0 "국립 투자 은행은 젬스트보가 투자한 자원을 보호할 뿐만 아니라 지역 발전에 유익한 투자금을 제공합니다. 이 은행은 또한 젬스트보와 지역 사업가들의 많은 거래를 통제하는데 도움을 줄 것입니다."
+RUS_National_Investment_Bank:0 "국립투자은행"
+RUS_National_Investment_Bank_desc:0 "국립투자은행은 젬스트보가 투자한 자원을 보호할 뿐만 아니라 지역 발전에 유익한 투자금을 제공합니다. 이 은행은 또한 젬스트보와 지역 사업가들의 많은 거래를 통제하는데 도움을 줄 것입니다."
 
 RUS_Local_Development:0 "지역 개발"
 RUS_Local_Development_desc:0 "과거의 크고 비대해진 국가 기구는 비효율적인 지휘체계 때문에 지시사항이 내려오는 속도가 늦어서 종종 지역 발전에 장애가 되어 왔습니다. 이를 해결하기 위한 가장 좋은 방법은 지방의 토지 소유주들이 주도하는 지방 정부에 더 많은 권한을 위임하는 것입니다. 그 땅을 소유한 사람들보다 지방의 문제를 더 잘 개선할 수는 없을 것입니다."
@@ -340,7 +340,7 @@ RUS_Bureaucratic_Overhaul:0 "관료제 정비"
 RUS_Bureaucratic_Overhaul_desc:0 "우리 정부의 형태에 관계없이 우리의 경제는 알려지진 않았지만 충성스러운 관료들의 통제를 받아야 합니다. 케렌스키 정권의 옛 관료들을 제거하고 뭔가 새로운 다른 것을 설립해야 합니다. "
 
 RUS_MinProm:0 "민프롬"
-RUS_MinProm_desc:0 "산업부 또는 '민프롬'은 우리 나라의 산업을 재편성하는 통합 부처입니다. 산업부의 첫 번째 임무는 우리 산업을 논리적으로 향상시키기 위해 여러 도시 기관에 산업 투자를 위임하는 것입니다."
+RUS_MinProm_desc:0 "산업부 또는 '민프롬'은 우리나라의 산업을 재편성하는 통합 부처입니다. 산업부의 첫 번째 임무는 우리 산업을 논리적으로 향상시키기 위해 여러 도시 기관에 산업 투자를 위임하는 것입니다."
 
 RUS_Agricultural_Modernisation:0 "농업 현대화"
 RUS_Agricultural_Modernisation_desc:0 "러시아의 생각과는 달리, 세계의 다른 나라들은 러시아를 가난한 나라로 여깁니다. 우리는 그들에게 그들이 틀렸다는 것을 보여줄 것입니다. 새로운 기술을 통해 시골에 숨겨진 거대한 자원을 활용하는 것으로 말이죠."
@@ -351,14 +351,14 @@ RUS_Military_Production_Act_desc:0 "세계대전에서 우리의 군대는 많�
 RUS_Economic_Efficiency_Act:0 "경제효율 법"
 RUS_Economic_Efficiency_Act_desc:0 "러시아는 유럽에서 산업화를 이끈 마지막 열강이었고, 그 결과 우리 산업은 서방의 경쟁국들과 경쟁하기 위해 고군분투해 왔습니다. 새로 제안된 ECA는 산업 생산 및 안전 표준에 대한 새로운 법적 토대를 만들어 이를 시정하고자 합니다. 단기적으로는 비용이 많이 들지만, 러시아 공장들이 품질과 양 면에서 서방의 경쟁국들을 능가할 수 있다면 그것은 가치 있는 일이 될 것입니다!"
 
-RUS_National_Administration_School:0 "국립 공직자 학교"
-RUS_National_Administration_School_desc:0 "새로운 관료주의가 꾸준히 성장함에 따라, 우리는 앞으로 필요한 일을 하기 위한 미래의 관료들을 양성하는 국립 공직자 학교를 설립해야 합니다."
+RUS_National_Administration_School:0 "국립공직자학교"
+RUS_National_Administration_School_desc:0 "새로운 관료주의가 꾸준히 성장함에 따라, 우리는 앞으로 필요한 일을 하기 위한 미래의 관료들을 양성하는 국립공직자학교를 설립해야 합니다."
 
 RUS_Cooperative_Capitalism:0 "협동자본주의"
 RUS_Cooperative_Capitalism_desc:0 "민주주의의 정신에서, 우리는 나라의 공동체에 강력하고 지역 분권화 된 통치권을 부여해야 합니다. 러시아는 거대한 국가이고 모든 일을 한 곳에서 처리할 수 있다고 믿는 것은 어리석은 짓입니다."
 
 RUS_New_Industrial_Programme:0 "새로운 산업 계획"
-RUS_New_Industrial_Programme_desc:0 "우리 나라의 광범위한 영토를 산업화함으로써, 우리는 나라 전체를 활력있게 할 뿐만 아니라, 우리의 산업을 상대로 전쟁을 하는 것이 훨씬 더 어려워진다는 것을 적들에게 각인시킬 수 있습니다. 또한 더 많은 일자리는 러시아의 실업률을 줄이는 데 도움이 될 것입니다."
+RUS_New_Industrial_Programme_desc:0 "우리나라의 광범위한 영토를 산업화함으로써, 우리는 나라 전체를 활력있게 할 뿐만 아니라, 우리의 산업을 상대로 전쟁을 하는 것이 훨씬 더 어려워진다는 것을 적들에게 각인시킬 수 있습니다. 또한 더 많은 일자리는 러시아의 실업률을 줄이는 데 도움이 될 것입니다."
 
 RUS_Industry_In_The_Urals:0 "우랄의 산업"
 RUS_Industry_In_The_Urals_desc:0 "러시아의 산업 혁명의 바람은 주요 도시들을 벗어나지 않았습니다. 이반 4세가 동쪽으로 영토를 뻗은 이후 우랄 산맥 너머의 많은 지역들이 가지고 있는 특산품을 거래하는 무역에 의존하고 있습니다. 이미 부유한 도시들을 더 산업화하기보다는 산업 혁명의 여파를 우랄과 그 너머까지 보내야 할 때입니다."
@@ -450,8 +450,8 @@ RUS_Overwhelming_Firepower_desc:0 "샤틸로프는 최전방과 참모단에서 
 RUS_Commander_Initiative:0 "하급 지휘관 권한 승격"
 RUS_Commander_Initiative_desc:0 "샤틸로프는 하급 지휘관들이 목표를 달성하기 위해 명확한 목표와 자원을 제공해주어야 하지만, 구체적인 계획수립은 그들의 역할이라고 생각합니다. 이는 지역의 특수한 상황을 알고있는 지역 지휘관들이 상황의 변화에 따라 대응할 수 있도록하여 우리의 힘을보다 유연하게 발휘하도록 만들 수 있습니다.
 
-RUS_National_High_Command_Formation_School:0 "고등지휘 사관학교"
-RUS_National_High_Command_Formation_School_desc:0 "샤틸로프가 추진하는 계획의 마지막 단계는 우리 군대가 타의추종을 불허하기 위해서, 전선에서 지휘할 장교들을 많이 양성하는 것입니다. 고등지휘 사관학교는 우리에게 새로운 장교가 될 가장 적합한 신병을 찾는 것을 도와줄 것입니다."
+RUS_National_High_Command_Formation_School:0 "고등지휘사관학교"
+RUS_National_High_Command_Formation_School_desc:0 "샤틸로프가 추진하는 계획의 마지막 단계는 우리 군대가 타의추종을 불허하기 위해서, 전선에서 지휘할 장교들을 많이 양성하는 것입니다. 고등지휘사관학교는 우리에게 새로운 장교가 될 가장 적합한 신병을 찾는 것을 도와줄 것입니다."
 
 RUS_Spearhead_Doctrine:0 "기동전"
 RUS_Spearhead_Doctrine_desc:0 "러일 전쟁 이후부터 보여준 마르코프의 재능은 누구도 의심하지 않습니다. 세계대전 기간 동안 그는 데니킨의 가까운 부관이었는데, 그의 아이디어는 러시아의 많은 일반 장교들에게는 낯설었고, 그의 계획에 사람들을 참여시키려면 그들을 설득해야 할지도 모릅니다. 하지만 적진을 빠르게 돌파하는 러시아 전차군은 좋은 생각처럼 보입니다."
@@ -463,7 +463,7 @@ RUS_National_Armoured_School:0 "기갑사관학교"
 RUS_National_Armoured_School_desc:0 "마르코프는 기갑 훈련을 위한 기갑사관학교를 설립하는 것이 우리가 기동전을 숙달하는 데 도움이 될 것이라고 제안했습니다. 기갑사관학교는 우리의 기갑 기동전을 훌륭히 수행할 수 있는 유능한 인재를 찾는것을 도와줄 것입니다."
 
 RUS_Import_Foreign_Specialists:0 "해외 전문가 확보"
-RUS_Import_Foreign_Specialists_desc:0 "우리 나라는 마르코프의 개혁 이전엔 기갑 사단을 보유한적이 없었기 때문에 기갑 사단을 효과적으로 지휘할 유능한 지휘관과 이론가가 부족합니다. 다행히도 외국에는 이 분야의 전문가가 가득합니다. 우리가 해야 할 일은 우리 나라에 그들을 초대하는 것입니다.(아니면 강제로라도요...)"
+RUS_Import_Foreign_Specialists_desc:0 "우리나라는 마르코프의 개혁 이전엔 기갑 사단을 보유한적이 없었기 때문에 기갑 사단을 효과적으로 지휘할 유능한 지휘관과 이론가가 부족합니다. 다행히도 외국에는 이 분야의 전문가가 가득합니다. 우리가 해야 할 일은 우리나라에 그들을 초대하는 것입니다.(아니면 강제로라도요...)"
 
 RUS_War_Of_Numbers:0 "대규모 돌격"
 RUS_War_Of_Numbers_desc:0 "데니킨 원수는 정치인들과 대부분의 장교들의 지지를 받는 인물입니다. 그의 계획을 군부에 관철시키는 것은 쉬운 일이 될 것입니다. 그는 러시아가 미래의 전쟁에서 승리하기 위해서는 우리가 가진 엄청난 숫자의 병력에 의존해야 한다고 제안하면서도, 또한 아군의 기동화가 필요하다고 주장합니다."
@@ -542,7 +542,7 @@ RUS_Enemy_In_The_East:0 "Enemy in the East"
 RUS_Enemy_In_The_East_desc:0 "Ever since the Russo-Japanese war the true enemy of Russia has, and will always be, the Rising empire in the east. The extremely rich and populous regions of China would also serve us very well."
 
 ### Factions ###
-russian_alliance:0 "Russian Alliance"
+russian_alliance:0 "러시아 동맹"
 
 ### Tooltips ###
 RUS_Okhranka_tooltip:0 "정부가 오흐란카를 재도입하기로 결정했습니다."
@@ -572,15 +572,15 @@ RUS_Industrial_Draft_Scheme_tooltip:0 "Modify §HVerkhovny Ekonomicheskiy Sovet�
 RUS_Invest_In_The_Zemstva_tooltip:0 "§MWe shall offer economic support to the Zemstvos in the region, with potentially beneficial effects.§!"
 
 ### Events ###
-russia.1.t:0 "A Troubled History"
+russia.1.t:0 "골치 아픈 역사"
 russia.1.d:0 "After the October Revolution Anti-Bolshevik forces started to consolidate across the former Russian Empire, leading to a massive rebellion against the Soviet Republic in Siberia, and the Don and Kuban steppes during the middle of 1918. The White movement made considerable gains, but could not defeat the well placed Red Army, which still dominated the Russian industrial heartland and transportation networks. The war changed when the German Empire, fearing the success of a dangerous ideology, intervened on behalf of the Whites in exchange for recognition of the treaty of Brest-Litovsk. By January 1920, both Moscow and Petrograd had fallen to the White forces and a new Russian Republic was established in the former Imperial capital. For the past fifteen years the leading political parties, the Social Revolutionaries and Kadets, have governed in an uneasy coalition under Kerensky, maintaining their power through electoral manipulation and a lack of serious political opposition. Today Russia is becoming increasingly unstable, and other political forces are growing. They consider that it is now time for change, so that the country may once again assert its power in the world..."
-russia.1.a:0 "Long live Russia, one and indivisible!"
+russia.1.a:0 "나눠지지 않는 단일 러시아 만세!"
 
-russia.2.t:0 "The Russian Constitution of 1918"
+russia.2.t:0 "1918년 러시아 헌법"
 russia.2.d:0 "Signed in 1918, roughly a year after the fall of Nicholas II, the Russian constitution defines the country's political institutions. The legislative branch consists of the State Duma, elected every five years, and the Senate, consisting of senior nobles, statesmen, and scholars. The executive branch is divided into the office of President, elected every six years by the Senate, and the Council of Ministers."
 russia.2.a:0 "The constitution guarantees freedom and stability!"
 
-russia.2017.t:0 "The Russian Economy"
+russia.2017.t:0 "러시아 경제"
 russia.2017.d:0 "After the end of the Russian Civil War in early 1920, the Kerensky government attempted to recover the economy using a mix of socialist economic theories and the propositions of the Kadets and its supporters among the Russian capitalists. Kerensky recognised the de-facto redistribution of the land among the Russian peasants and restored private land ownership. Using the gold reserve of the Russian Empire, which during the Civil War was under Kolchak's control and later was transferred to Petrograd, Kerensky introduced a new currency and launched the 'New Economic Policy', NEP, which allowed him to recover the Tsarist industry, including the military plants, and involve American investments in the various branches of the Russian economy. However the slowing growth of the economy as well as the intensification of the confrontation between the right and left parts of the Russian establishment led to the recession in 1933. It is clear that the Russian industry still has great potential, which can strengthen the economy as well as the international position of the country."
 russia.2017.a:0 "We should strengthen the economy."
 
@@ -594,7 +594,7 @@ russia.4.t:0 "Payment of the Brest-Litovsk Reparations"
 russia.4.d:0 "With stagnation of our economy and worsening conditions of our citizens during 1935, our government has decided that in order to restart our economy we need additional cash, the only available option to amass sufficient capital to help our economy, was to force the Russian state to prematurely repay the remaining reparations from the Treaty of Brest-Litovsk. During the Berlin conference in November 1935 president Alexander Kerensky together with prime minister Pavel Milyukov were forced to accept the premature payment of Brest-Litovsk reparations. With drastic austerity measures the Russian government was able to prematurely repay the remaining parts of its reparations as they were agreed in the treaty of Brest-Litovsk."
 russia.4.a:0 "Excellent!"
 
-russia.5.t:0 "The Assassination of Kerensky"
+russia.5.t:0 "케렌스키 암살 사건"
 russia.5.d:0 "The sound of gunfire rings across the capital. Alexander Kerensky, the President of the Russian Republic was shot and killed by an assassin while he was climbing the steps to the Senate House. His killer was shot dead by the military police before he could make his escape. His motives will forever be unknown. Regardless, the fate of Russia has been irrevocably changed, for better or worse."
 russia.5.a:0 "A shot that will ring across the world."
 
@@ -1297,8 +1297,8 @@ rusfor.47.d.authoritarian_GER:0 "역사가 반복되었다 - 우리는 다시 �
 rusfor.47.a:0 "우리는 샹젤리제 대로까지 진격할 것이다!"
 rusfor.47.b:0 "우리는 브란덴부르크 문까지 진격할 것이다!"
 
-rusfor.51.t.1812:0 "A New 1812"
-rusfor.51.t.1328:0 "A New 1328"
+rusfor.51.t.1812:0 "새로운 1812년"
+rusfor.51.t.1328:0 "새로운 1328년"
 rusfor.51.d:0 "적군이 모스크바 근교에 도달했습니다! 국가 전역이 이를 막기 위해 완전무장해야 합니다!"
 rusfor.51.a:0 "모스크바가 우리 뒤에 있다. 후퇴할 곳은 없다!"
 
@@ -1307,8 +1307,8 @@ rusfor.52.d:0 "We've received a request today from [FROM.GetCapital] itself, the
 rusfor.52.a:0 "수락하자."
 rusfor.52.b:0 "러시아는 믿을 수 없다."
 
-rusfor.53.t.accept:0 "[FROM.GetNameDefCap]가 수락했다!"
-rusfor.53.t.refuse:0 "[FROM.GetNameDefCap]가 거절했다!"
+rusfor.53.t.accept:0 "[FROM.GetNameDefCap](이)가 수락했다!"
+rusfor.53.t.refuse:0 "[FROM.GetNameDefCap](이)가 거절했다!"
 rusfor.53.d.accept:0 "[FROM.GetNameDefCap] has rightfully agreed to join our alliance and has pledged to help us in our wars in exchange for protection. This should show the world that not all are unwilling too work with the Russian Bear!"
 rusfor.53.d.refuse:0 "[FROM.GetNameDefCap] has outrageously refused our request to form an alliance, if they will not come to the dicussion table then war seems like the only solution to this problem. For now we will wait but mark our words, Russia will return!"
 rusfor.53.a:0 "훌륭해!"
@@ -1316,10 +1316,10 @@ rusfor.53.b:0 "그들의 손해다."
 
 rusfor.54.t:0 "[FROM.GetNameDefCap] Aligns With Russia"
 rusfor.54.d:0 "Important news has reached us today - [FROM.GetNameDef] has officially dissolved the Belgrade Pact, having announced an alliance with [RUS.GetNameDef]. It seems that while the Belgrade Pact was useful for containing regional threats in the Balkans, it would ultimately be unable to stand against the major powers in Western Europe by itself, hence [FROM.GetNameDef]'s decision to join the [RUS.GetFactionName]. The question to be asked now is if we follow them or strike our own path instead."
-rusfor.54.a:0 "러시아 세력권 가입을 요청하자."
+rusfor.54.a:0 "러시아 영향권 가입을 요청하자."
 rusfor.54.b:0 "우리는 우리만의 길을 갈 것이다."
 
-rusfor.55.t:0 "[FROM.GetNameDefCap]가 우리 동맹에 가입하기를 원한다"
+rusfor.55.t:0 "[FROM.GetNameDefCap](이)가 우리 동맹에 가입하기를 원한다"
 rusfor.55.d.ROM:0 "Following the dissolution of the Belgrade Pact, [FROM.GetNameDef] has been left isolated , surrounded by many nations that have lukewarm relations with it at best. We have received a message from their embassy in [ROOT.GetCapital] today. Left with little alternative, the government of Bucharest has requested ‘cooperation’ between our two nations in military affairs. There is a condition attached to this however. In exchange for [FROM.GetAdjective] entry into the [ROOT.GetFactionName], we must officially renounce all claims to Bessarabia and the [FROM.GetAdjective] majority territories in Galicia. This is certainly a steep price for us to pay although the benefits are also significant - denying Germany one of its major oil suppliers as well as potentially gaining us a major ally in the Balkans. What should our reply be?"
 rusfor.55.d.other:0 "Following [SER.GetNameDef] entry into the Russian Sphere, we have received a request from [FROM.GetNameDef], a former Belgrade Pact member. It seems as though they have weighed up their options following its dissolution and have expressed their interest in entering a military alliance with us. Should we accept, or is their membership unneeded?"
 rusfor.55.a:0 "[RUS_accept_ally_text]"
@@ -1331,37 +1331,37 @@ RUS_refuse_ally_ROM:0 "베사라비아는 러시아의 것이다!"
 RUS_accept_ally_other:0 "환영한다!"
 RUS_refuse_ally_other:0 "아니, 우리는 그들을 믿을 수 없다."
 
-rusfor.56.t:0 "[FROM.GetNameDefCap]가 거절했다!"
-rusfor.56.d:0 "오늘 우리는 [From.GetCapital]로부터 우리의 군사동맹 요청에 대한 답장을 받았습니다. 심사숙고 끝에 그들은 우리의 러시아 세력권 가입을 거절했으며 우리 외교정책과 국가중점이 그들과 맞지 않는다고 밝혔습니다. 이제 우리는 다른 곳에서 협력의 손길을 찾아보아야 합니다."
+rusfor.56.t:0 "[FROM.GetNameDefCap](이)가 거절했다!"
+rusfor.56.d:0 "오늘 우리는 [From.GetCapital](으)로부터 우리의 군사동맹 요청에 대한 답장을 받았습니다. 심사숙고 끝에 그들은 우리의 러시아 영향권 가입을 거절했으며 우리 외교정책과 국가중점이 그들과 맞지 않는다고 밝혔습니다. 이제 우리는 다른 곳에서 협력의 손길을 찾아보아야 합니다."
 rusfor.56.a:0 "그들은 미쳤거나, 우리 땅을 원하거나 둘 중 하나인것 같다."
 
 rusfor.1000.t:0 "러시아의 동향"
 rusfor.1000.d:0 "러시아 정부가 캅카스 지역을 다시 한 번 확보할 계획을 짜고 있다고 보고가 들어왔습니다. 이러한 행위는 브레스트-리토프스크 조약에 의해 만들어진 동유럽의 안정에 직접적인 위협을 의미합니다. 어떻게 할까요?"
 rusfor.1000.a:0 "브레스트-리토프스크 조약의 준수를 요구하라!"
 rusfor.1000.b:0 "러시아에게 경고를 보내고 위협받는 국가들을 제국 조약에 초대하라!"
-rusfor.1000.c:0 "코카서스까지 신경쓸 여유는 없다."
+rusfor.1000.c:0 "캅카스까지 신경쓸 여유는 없다."
 
 rusfor.1001.t:0 "독일의 제안"
-rusfor.1001.d:0 "코카서스를 그들의 영향권에 넣으려는 러시아의 시도가 독일에게 발각되었습니다. 독일의 외교관들이 우리에게 접근하여 라이히스팍트 가입을 권유했습니다. 이는 우리를 러시아로부터 지켜줄 것입니다. 어떻게 대답해야 할까요?"
+rusfor.1001.d:0 "캅카스를 그들의 영향권에 넣으려는 러시아의 시도가 독일에게 발각되었습니다. 독일의 외교관들이 우리에게 접근하여 라이히스팍트 가입을 권유했습니다. 이는 우리를 러시아로부터 지켜줄 것입니다. 어떻게 대답해야 할까요?"
 rusfor.1001.a:0 "수락하자."
 rusfor.1001.b:0 "거절하자."
 
 rusfor.1002.t:0 "[FROM.GetNameDefCap]의 라이히스팍트 가입"
-rusfor.1002.d:0 "[FROM.GetNameDefCap]이 우리 제안을 받아들여 라이히스팍트에 가입했습니다."
+rusfor.1002.d:0 "[FROM.GetNameDefCap](이)가 우리 제안을 받아들여 라이히스팍트에 가입했습니다."
 rusfor.1002.a:0 "좋아!"
 
 rusfor.1005.t:0 "독일이 러시아를 위협하다!"
-rusfor.1005.d:0 "독일의 카이저가 타국의 간섭에 맞서 코카서스의 독립을 전적으로 지지할 것임을 분명히 했습니다. 그들이 서쪽에서 빨갱이들고 대치하고 있는데도 불구하고 그들을 과소평가하는 것은 현명하지 못한 일일 것입니다. 우리는 어떻게 해야 할까요?"
+rusfor.1005.d:0 "독일의 카이저가 타국의 간섭에 맞서 캅카스의 독립을 전적으로 지지할 것임을 분명히 했습니다. 그들이 서쪽에서 빨갱이들고 대치하고 있는데도 불구하고 그들을 과소평가하는 것은 현명하지 못한 일일 것입니다. 우리는 어떻게 해야 할까요?"
 rusfor.1005.a:0 "누가 신경쓰는데?"
 rusfor.1005.b:0 "대신 중앙아시아에 집중하자!"
 
 rusfor.1006.t:0 "러시아가 우리 요구를 무시했다"
-rusfor.1006.d:0 "러시아 정부는 어리석은 자신감으로, 코카서스의 자주권과 독립에 대한 우리의 합리적인 요구를 거절했습니다. 이 무례함을 어떻게 심판해야 할까요?"
+rusfor.1006.d:0 "러시아 정부는 어리석은 자신감으로, 캅카스의 자주권과 독립에 대한 우리의 합리적인 요구를 거절했습니다. 이 무례함을 어떻게 심판해야 할까요?"
 rusfor.1006.a:0 "라이히스팍트와 러시아 간의 모든 접촉을 끊자!"
 rusfor.1006.c:0 "물러서자. 우리는 러시아와 대립할 여력이 없다"
 
 rusfor.1007.t:0 "라이히스팍트가 우리와의 모든 접촉을 끊었다"
-rusfor.1007.d:0 "독일의 코카서스 '안정화' 계획 중단 요구를 우리가 거부하면서 독일 제국은 우리와 제국조약간의 모든 무역 및 외교적 접촉을 중단했습니다. 우리 산업계는 이미 이런 극단적인 행동의 결과를 느끼고 있습니다."
+rusfor.1007.d:0 "독일의 캅카스 '안정화' 계획 중단 요구를 우리가 거부하면서 독일 제국은 우리와 제국조약간의 모든 무역 및 외교적 접촉을 중단했습니다. 우리 산업계는 이미 이런 극단적인 행동의 결과를 느끼고 있습니다."
 rusfor.1007.a:0 "우리는 살아남을 것이다!"
 rus_ceased_contacts_germany:0 "독일의 봉쇄"
 
@@ -1400,7 +1400,7 @@ rusfor.1015.a:0 "반군이 수도를 점령했다!"
 rusfor.1015.b:0 "반군이 격퇴되었다!"
 
 rusfor.1016.t:0 "돈 쿠반 연합에서 러시아인 쿠데타가 성공했다"
-rusfor.1016.d:0 "러시아인과 코카서스 부족민의 연합이 코사크족을 무찔렀습니다. 돈 쿠반의 운명은 우리 손에 달려 있습니다!"
+rusfor.1016.d:0 "러시아인과 캅카스 부족민의 연합이 코사크족을 무찔렀습니다. 돈 쿠반의 운명은 우리 손에 달려 있습니다!"
 rusfor.1016.a:0 "돈-쿠반 연합은 조국의 품으로 돌아올 것이다!"
 
 rusfor.1017.t:0 "자본가들이 주민투표를 원하다"
@@ -1448,7 +1448,7 @@ rusfor.1025.a:0 "무력으로 위협을 가하라!"
 rusfor.1025.b:0 "비밀 공작을 시도해볼만 하다."
 
 rusfor.1026.t:0 "러시아의 요구"
-rusfor.1026.d:0 "점점 강력해지고 있는 러시아가 다시 한번 코카서스를 주시하고 있습니다. 러시아는 그들 국가로의 우리나라의 통합과 같은 몇몇 요구사항들을 우리나라에 전달했으며, 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
+rusfor.1026.d:0 "점점 강력해지고 있는 러시아가 다시 한번 캅카스를 주시하고 있습니다. 러시아는 그들 국가로의 우리나라의 통합과 같은 몇몇 요구사항들을 우리나라에 전달했으며, 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
 rusfor.1026.a:0 "수락하자."
 rusfor.1026.b:0 "절대 안된다!"
 
@@ -1482,7 +1482,7 @@ rusfor.1032.a:0 "그들의 러시아 편입을 요구하라!"
 rusfor.1032.b:0 "아르메니아 정부의 통제권 확보를 시도하라!"
 
 rusfor.1033.t:0 "러시아의 요구"
-rusfor.1033.d:0 "오스만 제국과 러시아국 간의 비밀 협상은 우리나라가 러시아 세력권의 일부가 되는 결과를 낳았습니다. 지금 러시아 정부는 우리를 향해 일련의 요구를 해왔습니다. 만약 받아들인다면, 우리가 러시아에 편입되는 결과를 가져올 것입니다. 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
+rusfor.1033.d:0 "오스만 제국과 러시아국 간의 비밀 협상은 우리나라가 러시아 영향권의 일부가 되는 결과를 낳았습니다. 지금 러시아 정부는 우리를 향해 일련의 요구를 해왔습니다. 만약 받아들인다면, 우리가 러시아에 편입되는 결과를 가져올 것입니다. 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
 rusfor.1033.a:0 "받아들여라."
 rusfor.1033.b:0 "절대 안된다!"
 
@@ -1495,7 +1495,7 @@ rusfor.1035.d:0 "미친 아 정부가 우리 요구를 거절했습니다. 이 �
 rusfor.1035.a:0 "전쟁이 답이다!"
 
 rusfor.1036.t:0 "러시아의 요구"
-rusfor.1036.d:0 "오스만 제국과 러시아국 간의 비밀 협상은 우리나라가 러시아 세력권의 일부가 되는 결과를 낳았습니다. 지금 러시아 정부는 우리를 향해 일련의 요구를 해왔습니다. 만약 받아들인다면, 우리가 러시아에 편입되는 결과를 가져올 것입니다. 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
+rusfor.1036.d:0 "오스만 제국과 러시아국 간의 비밀 협상은 우리나라가 러시아 영향권의 일부가 되는 결과를 낳았습니다. 지금 러시아 정부는 우리를 향해 일련의 요구를 해왔습니다. 만약 받아들인다면, 우리가 러시아에 편입되는 결과를 가져올 것입니다. 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
 rusfor.1036.a:0 "받아들여라."
 rusfor.1036.b:0 "절대 안된다!"
 
@@ -1504,14 +1504,14 @@ rusfor.1037.d:0 "다른 선택지가 없음을 깨달은 아르메니아 정부�
 rusfor.1037.a:0 "우라!"
 
 rusfor.1038.t:0 "아르메니아의 지위"
-rusfor.1038.d:0 "코카서스가 러시아의 지배하에 있고 우리는 아르메니아의 운명을 결정해야 합니다. 우리는 군사력을 이용하거나 기존의 친러시아 저항세력을 이용한 비밀작전을 통해 그들을 무너뜨릴 수 있습니다. 어떻게 할까요?"
+rusfor.1038.d:0 "캅카스가 러시아의 지배하에 있고 우리는 아르메니아의 운명을 결정해야 합니다. 우리는 군사력을 이용하거나 기존의 친러시아 저항세력을 이용한 비밀작전을 통해 그들을 무너뜨릴 수 있습니다. 어떻게 할까요?"
 rusfor.1038.a:0 "그들의 러시아 편입을 요구하라!"
 rusfor.1038.b:0 "아르메니아 정부의 통제권 확보를 시도하라!"
 rusfor.1038.c:0 "전쟁이 답이다!"
 rusfor.1038.e:0 "비밀 공작을 시도해볼 만 하다."
 
 rusfor.1039.t:0 "러시아의 요구"
-rusfor.1039.d:0 "점점 강력해지고 있는 러시아가 다시 한번 코카서스를 주시하고 있습니다. 그들은 우리나라에 일련의 요구를 해왔고, 만약 받아들여진다면, 우리는 러시아에 편입될 것입니다. 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
+rusfor.1039.d:0 "점점 강력해지고 있는 러시아가 다시 한번 캅카스를 주시하고 있습니다. 그들은 우리나라에 일련의 요구를 해왔고, 만약 받아들여진다면, 우리는 러시아에 편입될 것입니다. 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
 rusfor.1039.a:0 "수락하자."
 rusfor.1039.b:0 "절대 안된다!"
 
@@ -1539,7 +1539,7 @@ rusfor.1044.a:0 "그들을 짓밟을 것이다!"
 rusfor.1044.b:0 "보내주자..."
 
 rusfor.1045.t:0 "러시아의 요구"
-rusfor.1045.d:0 "점점 강력해지고 있는 러시아가 다시 한번 코카서스를 주시하고 있습니다. 그들은 우리나라의 헌법제도에 관한 일련의 요구를 해왔고, 만약 받아들여진다면, 우리는 독립을 잃을 것입니다. 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
+rusfor.1045.d:0 "점점 강력해지고 있는 러시아가 다시 한번 캅카스를 주시하고 있습니다. 그들은 우리나라의 헌법제도에 관한 일련의 요구를 해왔고, 만약 받아들여진다면, 우리는 독립을 잃을 것입니다. 국제사회의 지원 없이 강력한 러시아에 저항하려는 노력은 헛된 것으로 보입니다."
 rusfor.1045.a:0 "받아들여라."
 rusfor.1045.b:0 "절대 안된다!"
 
@@ -1548,51 +1548,51 @@ rusfor.1046.d:0 "다른 선택지가 없음을 깨달은 아르메니아 정부�
 rusfor.1046.a:0 "만세!"
 
 rusfor.1048.t:0 "러시아가 캅카스에서의 양보를 요구하다"
-rusfor.1048.d:0 "러시아국 정부는 최근 코카서스의 기존 세력권이 자신들에게 유리하게 재편되어야 한다고 주장했습니다. 그들은 코카서스 국가들에 대한 모든 보증을 중지하고 러시아 세력권의 일부로 그들을 편입시킬 것을 주장합니다. 그 대가로 그들은 유럽의 기존 질서를 존중하고 현재 진행 중인 전쟁에서 독일 제국을 경제적으로 지원하겠다고 약속했습니다. 어떻게 대응해야 할까요?"
+rusfor.1048.d:0 "러시아국 정부는 최근 캅카스의 기존 세력권이 자신들에게 유리하게 재편되어야 한다고 주장했습니다. 그들은 캅카스 국가들에 대한 모든 보증을 중지하고 러시아 영향권의 일부로 그들을 편입시킬 것을 주장합니다. 그 대가로 그들은 유럽의 기존 질서를 존중하고 현재 진행 중인 전쟁에서 독일 제국을 경제적으로 지원하겠다고 약속했습니다. 어떻게 대응해야 할까요?"
 rusfor.1048.a:0 "요구를 받아들여라!"
 rusfor.1048.b:0 "절대 안된다!"
 
 rusfor.1049.t:0 "독일 제국이 우리 요구를 거절했다!"
-rusfor.1049.d:0 "독일 제국의 어리석은 지도자들은 코카서스에 관한 우리의 합리적인 요구를 거절했습니다. 러시아와 독일 사이의 평화는 불가능해 보입니다! 이제 어떻게 할까요?"
+rusfor.1049.d:0 "독일 제국의 어리석은 지도자들은 캅카스에 관한 우리의 합리적인 요구를 거절했습니다. 러시아와 독일 사이의 평화는 불가능해 보입니다! 이제 어떻게 할까요?"
 rusfor.1049.a:0 "라이히스팍트에 전쟁을 선포하자!"
 rusfor.1049.b:0 "독일의 독립 보장을 무시하라!"
 
 rusfor.1050.t:0 "독일 제국의 배신!"
-rusfor.1050.d:0 "독일 제국은 코카서스에 관한 모든 러시아의 요구를 수용함으로써 우리를 배신했고, 우리를 러시아의 힘에 직면하게 내버려두었습니다."
+rusfor.1050.d:0 "독일 제국은 캅카스에 관한 모든 러시아의 요구를 수용함으로써 우리를 배신했고, 우리를 러시아의 힘에 직면하게 내버려두었습니다."
 rusfor.1050.a:0 "우리가 할 수 있는 게 없군..."
 
 rusfor.1052.t:0 "러시아가 제국 조약에 조건부 가입을 원하다"
-rusfor.1052.d:0 "러시아 정부는 최근 생디칼리스트로부터 유럽을 구하기 위해 제국 조약에 가입하고 싶다고 발표했습니다. 그 대가로 그들은 코카서스 국가들에 대한 모든 보증을 중지하고 러시아 세력권의 일부로서 이들 국가를 풀어줄 것을 요구하고 있습니다. 어떻게 대응해야 할까요?"
+rusfor.1052.d:0 "러시아 정부는 최근 생디칼리스트로부터 유럽을 구하기 위해 제국 조약에 가입하고 싶다고 발표했습니다. 그 대가로 그들은 캅카스 국가들에 대한 모든 보증을 중지하고 러시아 영향권의 일부로서 이들 국가를 풀어줄 것을 요구하고 있습니다. 어떻게 대응해야 할까요?"
 rusfor.1052.a:0 "요구를 수락하자!"
 rusfor.1052.b:0 "절대 안된다!"
 
 rusfor.1053.t:0 "돈-쿠반의 지위"
-rusfor.1053.d:0 "독일 제국 정부는 코카서스에 관한 우리의 합리적인 요구를 받아들였습니다. 독일 제국의 보호를 받던 돈-쿠반 연합의 운명이 이제 우리 손에 달렸습니다. 이 반항적인 국가를 어떻게 할까요?"
+rusfor.1053.d:0 "독일 제국 정부는 캅카스에 관한 우리의 합리적인 요구를 받아들였습니다. 독일 제국의 보호를 받던 돈-쿠반 연합의 운명이 이제 우리 손에 달렸습니다. 이 반항적인 국가를 어떻게 할까요?"
 rusfor.1053.a:0 "돈-쿠반 전역의 합병을 요구하자!"
 rusfor.1053.b:0 "정부개혁을 요구하자!"
 
 rusfor.1054.t:0 "아제르바이잔의 지위"
-rusfor.1054.d:0 "독일 제국 정부는 코카서스에 관한 우리의 합리적인 요구를 받아들였습니다. 독일 제국의 보호를 받던 아제르바이잔의 운명이 이제 우리 손에 달렸습니다. 이 반항적인 국가를 어떻게 할까요?"
+rusfor.1054.d:0 "독일 제국 정부는 캅카스에 관한 우리의 합리적인 요구를 받아들였습니다. 독일 제국의 보호를 받던 아제르바이잔의 운명이 이제 우리 손에 달렸습니다. 이 반항적인 국가를 어떻게 할까요?"
 rusfor.1054.a:0 "아제르바이잔 전역의 합병을 요구하자!"
 rusfor.1054.b:0 "그들 정부의 개혁을 요구하자!"
 
 rusfor.1055.t:0 "러시아가 재통합을 요구하다"
-rusfor.1055.d:0 "제 2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 코카서스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
+rusfor.1055.d:0 "제2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 캅카스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
 rusfor.1055.a:0 "다른 선택지는 없다..."
 rusfor.1055.b:0 "저항하자!"
 
 rusfor.1056.t:0 "러시아가 정부개혁을 요구하다"
-rusfor.1056.d:0 "제 2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 코카서스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
+rusfor.1056.d:0 "제2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 캅카스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
 rusfor.1056.a:0 "다른 선택지는 없다..."
 rusfor.1056.b:0 "저항하자!"
 
 rusfor.1057.t:0 "러시아가 재통합을 요구하다"
-rusfor.1057.d:0 "제 2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 코카서스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
+rusfor.1057.d:0 "제2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 캅카스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
 rusfor.1057.a:0 "다른 선택지는 없다..."
 rusfor.1057.b:0 "저항하자!"
 
 rusfor.1058.t:0 "러시아가 정부개혁을 요구하다"
-rusfor.1058.d:0 "제 2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 코카서스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
+rusfor.1058.d:0 "제2차 세계대전 개전과 함께 독일 제국의 관심은 서쪽으로 향했습니다. 독일 제국은 계속되는 전쟁에서 러시아국의 지지를 얻기 위해 캅카스에 관한 러시아의 요구를 받아들여 그들의 운명을 러시아에 넘겼습니다. 만약 우리나라에 대한 러시아의 요구가 받아들여진다면, 우리는 독립을 잃게 될 것입니다. 어떻게 해야 할까요?"
 rusfor.1058.a:0 "다른 선택지는 없다..."
 rusfor.1058.b:0 "저항하자!"
 
@@ -1622,7 +1622,7 @@ rusfor.1064.t:0 "아제르바이잔이 굴복하다"
 rusfor.1064.d:0 "아제르바이잔 정부는 다른 선택사항이 없음을 깨닫고 우리 요구에 굴복했습니다."
 rusfor.1064.a:0 "우라!"
 
-rusfor.1065.t:0 "페르시아에의 요구"
+rusfor.1065.t:0 "페르시아에게 요구"
 rusfor.1065.d:0 "투르케스탄과 아제르바이잔이 확보된 덕분에 중동과 페르시아에서 진격을 계속할 수 있게 되었습니다. 약간의 양보의 대가로 우리는 그들을 보호해주는 것을 선택했지만, 무엇을 양보하라고 요구할까요?"
 rusfor.1065.a:0 "동맹을 제의하자."
 rusfor.1065.b:0 "동맹을 제의하고 페르시아 북부를 요구하자!"
@@ -1643,18 +1643,18 @@ rusfor.1068.d:0 "미친 페르시아인들이 우리 요구를 거절했습니�
 rusfor.1068.a:0 "전쟁이다!"
 rusfor.1068.b:0 "아직 때가 아니다..."
 
-rusfor.1071.t:0 "러시아가 대 아르메니아 지역의 통제권을 요구하다"
+rusfor.1071.t:0 "러시아가 대아르메니아 지역의 통제권을 요구하다"
 rusfor.1071.d:0 "러시아가 우리의 아르메니아계 영토의 통제권을 요구해왔습니다. 어떻게 할까요?"
 rusfor.1071.a:0 ""어쩔 수 없다. 수락하자."
 rusfor.1071.b:0 "이 북쪽 야만인들에 대항하여 일어서자!"
 
-rusfor.1072.t:0 "[FROM.GetNameDef]이 대 아르메니아를 양보했다"
-rusfor.1072.d:0 "[FROM.GetNameDef]이 우리의 요구를 받아들였고, 이제 우리는 대 아르메니아의 지배자입니다."
+rusfor.1072.t:0 "[FROM.GetNameDef]의 대아르메니아 양보"
+rusfor.1072.d:0 "[FROM.GetNameDef](이)가 우리의 요구를 받아들였고, 이제 우리는 대아르메니아의 지배자입니다."
 rusfor.1072.a:0 "우라!"
-rusfor.1072.b:0 "우리의 코카서스 속국에게 주자!"
+rusfor.1072.b:0 "우리의 캅카스 속국에게 주자!"
 
-rusfor.1073.t:0 "[FROM.GetNameDef]가 우리 요구를 거절했다"
-rusfor.1073.d:0 "마침내 우리는 오스만 영사관으로부터 [Root.GetLeader]에게 직접 쓰인 편지를 받았습니다. 그들은 대 아르메니아 지역의 반환을 거부했습니다. 더 골치아픈 것은, 그 편지에는 그 땅이 온전히 투르크의 땅이라는 것과, 우리 정권에 대한 경멸적인 모욕으로 가득 차 있었으며, 무분별한 팽창주의와 역사적 수정주의의 국가라고 우리를 비난했다는 것이었습니다."
+rusfor.1073.t:0 "[FROM.GetNameDef]의 요구 거절"
+rusfor.1073.d:0 "마침내 우리는 오스만 영사관으로부터 [Root.GetLeader]에게 직접 쓰인 편지를 받았습니다. 그들은 대아르메니아 지역의 반환을 거부했습니다. 더 골치아픈 것은, 그 편지에는 그 땅이 온전히 투르크의 땅이라는 것과, 우리 정권에 대한 경멸적인 모욕으로 가득 차 있었으며, 무분별한 팽창주의와 역사적 수정주의의 국가라고 우리를 비난했다는 것이었습니다."
 rusfor.1073.a:0 "분명 후회할 것이다!"
 
 rusfor.1082.t:0 "트란스아무르 탈취"
@@ -1720,7 +1720,7 @@ rusfor.1133.d:0 "뜻밖의 소식입니다! 현재 진행되고 있는 인터내
 rusfor.1133.a:0 "세상을 흔들자!"
 rusfor.1133.b:0 "노동자의 적과는 타협하지 않는다!"
 
-rusfor.1134.t:0 "제 2차 세계대전"
+rusfor.1134.t:0 "제2차 세계대전"
 rusfor.1134.d:0 "독일에 대항하기 위해 저주받을 생디칼리스트들과 사악한 동맹을 만들려는 우리의 시도는 비참하게 실패했습니다. 어떻게 할까요?"
 
 rusfor.1135.t:0 "러시아의 재통합 요구"
@@ -1778,7 +1778,7 @@ rusfor.1146.d:0 "우리 정부가 러시아의 입맛에 맞게 재조직되었�
 rusfor.1146.a:0 "적어도 우린 살아있잖아!"
 
 rusfor.1155.t:0 "러시아가 동유럽의 지배권을 요구하다"
-rusfor.1155.d:0 "러시아국은 최근 동유럽에서 자신들을 위해 기존의 세력권을 재구성하고 싶다고 발표했습니다. 그들은 백루테니아와 우크라이나에 대한 모든 보증을 중단할 것과 이들 국가의 러시아 세력권으로의 편입을 인정할 것을 요구하고 있습니다. 그 대가로 그들은 유럽의 기존 질서를 존중하고 현재 진행 중인 전쟁에서 독일 제국을 경제적으로 지원하겠다고 약속했습니다. 어떻게 할까요?"
+rusfor.1155.d:0 "러시아국은 최근 동유럽에서 자신들을 위해 기존의 세력권을 재구성하고 싶다고 발표했습니다. 그들은 백루테니아와 우크라이나에 대한 모든 보증을 중단할 것과 이들 국가의 러시아 영향권으로의 편입을 인정할 것을 요구하고 있습니다. 그 대가로 그들은 유럽의 기존 질서를 존중하고 현재 진행 중인 전쟁에서 독일 제국을 경제적으로 지원하겠다고 약속했습니다. 어떻게 할까요?"
 rusfor.1155.a:0 "받아들이자!"
 rusfor.1155.b:0 "안돼!"
 
@@ -1799,7 +1799,7 @@ rusfor.1158.a:0 "사악한 생디칼리스트로부터 우크라이나를 해방
 rusfor.1158.b:0 "우크라이나의 모든 러시아인들에게 시민권과 여권을 주자!"
 rusfor.1158.c:0 "비밀작전만으로 충분하다."
 
-rusfor.1159.t:0 "러시아의 동맹제의!"
+rusfor.1159.t:0 "러시아의 동맹 제의!"
 rusfor.1159.d:0 "러시아인들은 우리 두 나라가 비슷하다고 생각하고 있습니다. 그리고 그들은 우리가 함께 일해야 한다고 생각하고 있습니다. 어떻게 할까요?"
 rusfor.1159.a:0 "좋아! 모든 프롤레타리아여 단합하자!"
 rusfor.1159.b:0 "우리는 러시아인들을 믿을 수 없다!"
@@ -1844,7 +1844,7 @@ rusfor.1167.a:0 "그럼 전쟁이다!"
 rusfor.1167.b:0 "기다리자."
 
 rusfor.1168.t:0 "우크라이나의 러시아인 쿠데타-러시아와의 관계"
-rusfor.1168.d:0 "흐루시초프는 친러 정치인들 사이에서 무시당했고, 우크라이나는 우리 수중에 있습니다. 어떻게 할까요?"
+rusfor.1168.d:0 "흐루쇼프는 친러 정치인들 사이에서 무시당했고, 우크라이나는 우리 수중에 있습니다. 어떻게 할까요?"
 rusfor.1168.a:0 "최종적인 통합을 강요하자!"
 rusfor.1168.b:0 "협력만 하자."
 
@@ -1874,8 +1874,8 @@ rusfor.1180.a:0 "받아들이자."
 rusfor.1180.b:0 "안돼!"
 rusfor.1180.c:0 "베사라비아를 대가로 동맹조약을 요구하자."
 
-rusfor.1181.t:0 "[FROM.GetNameDef]가 거절했다!"
-rusfor.1181.d:0 "[FROM.GetAdjective] 정부는 베사라비아가 당연히 루마니아 영토이며 러시아는 결코 그것을 되찾지 못할 것이라고 주장했습니다. 이 문제의 유일한 해결책은 [FROM.GetNameDef]와의 전쟁입니다."
+rusfor.1181.t:0 "[FROM.GetNameDef](이)가 거절했다!"
+rusfor.1181.d:0 "[FROM.GetAdjective] 정부는 베사라비아가 당연히 루마니아 영토이며 러시아는 결코 그것을 되찾지 못할 것이라고 주장했습니다. 이 문제의 유일한 해결책은 [FROM.GetNameDef](와)과의 전쟁입니다."
 rusfor.1181.a:0 "그럼 전쟁이다."
 
 rusfor.1210.t:0 "갈리치아 최후통첩"
@@ -1993,23 +1993,23 @@ rusfor.1275.d:0 "중앙아시아로부터의 좋은 소식입니다 - 새로운 
 rusfor.1275.a:0 "훌륭해!"
 
 rusfor.1276.t:0 "아제르바이잔 통제"
-rusfor.1276.d:0 "우리는 아제르바이잔을 보증해 왔고, 러시아 사업은 양국 협력의 이익을 이용하고 있습니다. 어쩌면 지금이 코카서스에 대한 통제를 강화하고 카스피 지역에서 우리의 입지를 굳히기에 가장 좋은 때일지 모릅니다."
+rusfor.1276.d:0 "우리는 아제르바이잔을 보증해 왔고, 러시아 사업은 양국 협력의 이익을 이용하고 있습니다. 어쩌면 지금이 캅카스에 대한 통제를 강화하고 카스피 지역에서 우리의 입지를 굳히기에 가장 좋은 때일지 모릅니다."
 rusfor.1276.a:0 "그렇게 하자!"
 rusfor.1276.b:0 "그 땅은 필요없다."
 
-rusfor.1277.t:0 "코카서스 북부 재통제"
-rusfor.1277.d:0 "러시아의 돈-쿠반 통합 이후 우리는 옛 코사크 영토 동부 산악지대의 통합 문제에 직면했습니다. 1920년대와 1930년대 초에 '아타만' 크라스노프는 러시아인,오세티아인,그리고 다른 기독교 부족들로 구성된 '테레크 코사크 부대'를 지원했고, 이는 코카서스에 대한 예카테리노다르의 통제를 강화시켜 주었습니다. 현재 우리는 이 지역에 러시아군을 배치시켰지만, 이는 일시적 조치에 불과합니다. 지역의 재건과 평화를 위한 많은 계획들이 제안되었고 우리는 이들 중 하나를 선택해야 합니다."
+rusfor.1277.t:0 "캅카스 북부 재통제"
+rusfor.1277.d:0 "러시아의 돈-쿠반 통합 이후 우리는 옛 코사크 영토 동부 산악지대의 통합 문제에 직면했습니다. 1920년대와 1930년대 초에 '아타만' 크라스노프는 러시아인,오세티아인,그리고 다른 기독교 부족들로 구성된 '테레크 코사크 부대'를 지원했고, 이는 캅카스에 대한 예카테리노다르의 통제를 강화시켜 주었습니다. 현재 우리는 이 지역에 러시아군을 배치시켰지만, 이는 일시적 조치에 불과합니다. 지역의 재건과 평화를 위한 많은 계획들이 제안되었고 우리는 이들 중 하나를 선택해야 합니다."
 rusfor.1277.a:0 "지역의 러시아인들이 지배하게 하자."
 rusfor.1277.b:0 "크라스노프의 정책을 이어가자- 테레크 코사크 부대를 지원하자."
 rusfor.1277.c:0 "군사점령을 계속하자!"
 
-rusfor.1278.t:0 "코카서스 북부의 질서가 부분적으로 확립되었다."
-rusfor.1278.d1:0 "블라디캅카스와 그로즈니와 같은 북부 코카서스의 도시들에 있는 군사기지를 복구하고 일부 부대를 남겨놓은 후, 우리는 이 땅에 대한 통제권을 테레크 코사크 부대에 넘겨주었습니다. 이 지역은 빠른 속도로 재건되기 시작했지만, 러시아가 개입하지 못한 지역들은 무정부 상태와 부족간 전쟁에 빠져들고 있습니다. 지금 북캅카스 지역의 많은 비러시아계 부족들의 지도자들은 우리에게 북캅카스 전역에 대한 통제를 회복시켜 주고 그들로 하여금 러시아 정부에 봉사할 수 있도록 요청하고 있습니다. 왜냐하면 러시아 정부야말로 이 지역에 안정을 가져올 수 있는 유일한 세력이기 때문입니다."
-rusfor.1278.d2:0 "우리가 테레크 코사크 부대를 지원하기로 한 후, 지역에 질서를 되찾았지만, 우리가 크라스노프 정부보다 더 많이 지원해주었기 때문에, 코사크 부대는 북코카서스 동부의 비기독교 지역으로 확장하였고, 러시아인과 오세티아인 대 체첸인과 잉구시인의 대결과 같은 복합적인 문제들을 불러왔습니다. 더구나, 러시아 정부가 다게스탄의 마을들과 부족들을 다루는 과정에서 문제가 발생했고, 지역 부족들은 서로를 지배하려고 하고 있습니다. 이 모든 갈등들은 우리 정부가 해결할 수 있으나, 시간이 좀 걸릴 것입니다."
-rusfor.1278.d3:0 "우리는 군대를 북부 코카서스의 동부 지역에 배치시켰고, 이 지역에 러시아의 지배를 확립했습니다. 이 지역의 주민들은 마침내 산악 부족의 습격과 약탈로부터 자유로워졌습니다. 그러나 비러시아계 지역에서는 몇몇 기독교 마을들만이 우리를 지원할 뿐이고, 몇몇 무슬림 마을에서는 러시아에 대항하기 시작했습니다. 틀림없이 우리는 그것을 멈추고 범죄자들을 처벌할 것입니다. 하지만 시간이 좀 걸릴 것입니다."
+rusfor.1278.t:0 "캅카스 북부의 질서가 부분적으로 확립되었다."
+rusfor.1278.d1:0 "블라디캅카스와 그로즈니와 같은 북부 캅카스의 도시들에 있는 군사기지를 복구하고 일부 부대를 남겨놓은 후, 우리는 이 땅에 대한 통제권을 테레크 코사크 부대에 넘겨주었습니다. 이 지역은 빠른 속도로 재건되기 시작했지만, 러시아가 개입하지 못한 지역들은 무정부 상태와 부족간 전쟁에 빠져들고 있습니다. 지금 북캅카스 지역의 많은 비러시아계 부족들의 지도자들은 우리에게 북캅카스 전역에 대한 통제를 회복시켜 주고 그들로 하여금 러시아 정부에 봉사할 수 있도록 요청하고 있습니다. 왜냐하면 러시아 정부야말로 이 지역에 안정을 가져올 수 있는 유일한 세력이기 때문입니다."
+rusfor.1278.d2:0 "우리가 테레크 코사크 부대를 지원하기로 한 후, 지역에 질서를 되찾았지만, 우리가 크라스노프 정부보다 더 많이 지원해주었기 때문에, 코사크 부대는 북캅카스 동부의 비기독교 지역으로 확장하였고, 러시아인과 오세티아인 대 체첸인과 잉구시인의 대결과 같은 복합적인 문제들을 불러왔습니다. 더구나, 러시아 정부가 다게스탄의 마을들과 부족들을 다루는 과정에서 문제가 발생했고, 지역 부족들은 서로를 지배하려고 하고 있습니다. 이 모든 갈등들은 우리 정부가 해결할 수 있으나, 시간이 좀 걸릴 것입니다."
+rusfor.1278.d3:0 "우리는 군대를 북부 캅카스의 동부 지역에 배치시켰고, 이 지역에 러시아의 지배를 확립했습니다. 이 지역의 주민들은 마침내 산악 부족의 습격과 약탈로부터 자유로워졌습니다. 그러나 비러시아계 지역에서는 몇몇 기독교 마을들만이 우리를 지원할 뿐이고, 몇몇 무슬림 마을에서는 러시아에 대항하기 시작했습니다. 틀림없이 우리는 그것을 멈추고 범죄자들을 처벌할 것입니다. 하지만 시간이 좀 걸릴 것입니다."
 rusfor.1278.a:0 "예상했던 대로다."
 
-rusfor.1279.t:0 "코카서스 북부의 질서가 확립되었다"
+rusfor.1279.t:0 "캅카스 북부의 질서가 확립되었다"
 rusfor.1279.d:0 "우리가 돈-쿠반 지역을 탈환한 지 6개월이 넘었고, 마침내 지역 전역에 대한 통제권을 확보할 수 있게 되었습니다. 지역 러시아인들과 기독교 국가들이 마침내 적대적인 부족의 약탈 위협에서 벗어났고 우리에 대항하여 싸웠던 범죄자들이 죽거나 도망쳤습니다. 러시아 남부에 새로운 번영의 시대가 열렸습니다!"
 rusfor.1279.a:0 "좋아!"
 
