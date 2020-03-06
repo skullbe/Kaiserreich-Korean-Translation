@@ -36,7 +36,7 @@ guiTypes = {
 			position = { x = 15 y = 8 }
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
-			text = " 관계 차트"
+			text = "관계 차트"
 			maxWidth = 300
 			maxHeight = 20
 			format = left	
