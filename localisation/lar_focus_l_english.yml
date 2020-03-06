@@ -1,6 +1,6 @@
 ﻿l_english:
- autonomous_state:0 "Autonomous State"
- semi_autonomous_state:0 "Semi-Autonomous State"
- unlocks_espionage_operation_tt:0 "Unlocks an §YEspionage Operation§!:\n"
- invite_to_faction_tt:0 "Is invited into our faction."
+ autonomous_state:0 "자치 주"
+ semi_autonomous_state:0 "반-자치 주"
+ unlocks_espionage_operation_tt:0 "§Y첩보활동 작전§!을 해금함:\n"
+ invite_to_faction_tt:0 "우리 세력에 초대되었습니다."
 
