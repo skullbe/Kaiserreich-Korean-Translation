@@ -3,7 +3,7 @@ name="Kaiserreich Korean"
 path="C:/Users/memor/Documents/Paradox Interactive/Hearts of Iron IV/mod/krkorean"
 dependencies={
 	"Kaiserreich"
-	"한국어 모드(Korean Translation)"
+	"Korean localization"
 }
 replace_path="localisation/replace"
 tags={
