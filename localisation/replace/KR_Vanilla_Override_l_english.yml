@@ -1,16 +1,15 @@
-﻿l_english:
+l_english:
 
-# This is the overwrite file for vanilla localisation, anything here will replace the vanilla localisation of the same string
-# It is broken up into two parts
-# Part one is significantly changed (like has a totally new meaning) from vanilla and needs translating
-# Part two just has spelling and grammar fixes, so doesn't need to get translated
+# 이 파일은 바닐라 localisation을 덮어쓰기 위한 파일이며, 여기 있는 모든 문자열이 바닐라 localisation의 동일한 문자열을 대체합니다.
+# 두 파트로 분류하자면,
+# Part one은 바닐라에서 크게 변화(아예 새로운 의미를 가지게 되는 듯이)되므로 번역이 필요합니다.
+# Part two는 철자법과 문법 수정만 있으니 번역할 필요가 없습니다.
 
 ################
 ### Part One ###
 ################
 
 ### core_l_english
-EFFECT_UNLOCK_DECISION:0 "결정 해금: £decision_icon_small $NAME|H$$EFFECT$"
 MENU_HOMEPAGE:0 "카이저라이히 디스코드"
 MENU_FORUM:0 "카이저라이히 포럼\n패러독스 포럼에 로그인 한 후 열람할 수 있습니다"
 MENU_FACEBOOK:0 "카이저라이히 스팀"
@@ -48,6 +47,8 @@ DIVISION_EQUIPMENT:0 "사단 장비"
 
 ### diplomacy_l_english
 claims_on_us:0 "그들은 우리 영토의 소유권을 주장합니다"
+same_ruling_party:0 "Base"
+different_party_types:0 "Base"
 
 ### game_rules_l_english
 RULE_GROUP_GAMEPLAY:0 "Gameplay"
@@ -83,11 +84,18 @@ topple_government:0 "정부 전복"
 topple_government_desc:0 "정부를 실각시키십시오."
 topple_government_short_desc:0 "이 전쟁목표는 평화협정에서 정부 전복을 더 저렴하도록 할 것 입니다."
 
+### frontend_l_english.yml ###
+custom_diff_strong_ger:0 "£KR_game_rule_flag_GER   Strengthen the German Empire"
+custom_diff_strong_fra:0 "£KR_game_rule_flag_FRA   Strengthen the Commune of France"
+custom_diff_strong_eng:0 "£KR_game_rule_flag_ENG   Strengthen the Union of Britain"
+custom_diff_strong_jap:0 "£KR_game_rule_flag_JAP   Strengthen the Empire of Japan"
+custom_diff_strong_usa:0 "£KR_game_rule_flag_USA   Strengthen the United States of America"
+
 ### ideas_l_english
 government:0 "법률"
 minister:0 "정부"
 military_staff:0 "군사 참모"
-mobilization_laws:0 "징병법"
+KR_mobilization_laws:0 "징병법"
 person_of_influence:0 "영향력 있는 인물"
 KR_trade_laws:0 "무역법"
 KR_economy:0 "경제법"
@@ -292,6 +300,7 @@ EFFECT_NOT_DEMILITARIZED_ZONE:0 "Will no longer be a demilitarised zone."
 EFFECT_CHANGE_LAW_mobilization_laws:0 "Change Mobilisation Law to '$NAME|Y$' which grants ($DESC$)."
 EFFECT_DISABLE_TEMPLATE_EDITTING:0 "Disable editing of $NAME|H$ template and training or disbanding units belongs to it"
 EFFECT_ENABLE_TEMPLATE_EDITTING:0 "Enable editing of $NAME|H$ template and training or disbanding units belongs to it"
+EFFECT_UNLOCK_DECISION:0 "결정 해금: £decision_icon_small $NAME|H$$EFFECT$"
 
 ### frontend_l_english
 FE_COOP_LABEL:0 "Co-operative"
