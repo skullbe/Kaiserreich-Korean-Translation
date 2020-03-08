@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 
 chile_focus:0 "칠레 중점계통도"
 
@@ -54,7 +54,7 @@ CHL_home_of_south_american_syndicalism_desc:0 "Ever since the original revolutio
 
 ### Country Flags ###
 CHLelectionshappened:0 "3대 의장 선거가 치뤄짐"
-CHLallende:0 "민족사회주의연합이 선거에서 이김"
+CHLallende:0 "국민사회주의연합이 선거에서 이김"
 CHLsynelevib:0 "정통 생디칼리스트가 선거에서 이김"
 CHL_Junta_Formed:0 "블란치의 군정이 형성됨"
 CHL_Valderrama:0 "발데라마가 국가를 장악함"
@@ -63,8 +63,8 @@ CHLDemocraticElection1:0 "첫번째 민주 선거가 치뤄짐"
 ### Parties ###
 CHL_social_democrat_party:0 "칼레 협약"
 CHL_social_democrat_party_long:0 "칼레 협약"
-CHL_social_conservative_party:0 "APL"
-CHL_social_conservative_party_long:0 "Alianza Popular Libertadora"
+CHL_social_conservative_party:0 "민중해방연합"
+CHL_social_conservative_party_long:0 "민중해방연합"
 CHL_authoritarian_democrat_party:0 "공화운동"
 CHL_authoritarian_democrat_party_long:0 "공화운동"
 CHL_paternal_autocrat_party:0 "급진공화당"
@@ -75,8 +75,8 @@ CHL_social_liberal_party:0 "자유당"
 CHL_social_liberal_party_long:0 "자유당"
 CHL_market_liberal_party:0 "급진당"
 CHL_market_liberal_party_long:0 "급진당"
-CHL_radical_socialist_party:0 "민족사회주의연합"
-CHL_radical_socialist_party_long:0 "민족사회주의연합"
+CHL_radical_socialist_party:0 "국민사회주의연합"
+CHL_radical_socialist_party_long:0 "국민사회주의연합"
 CHL_syndicalist_party:0 "칠레 생디칼리슴당"
 CHL_syndicalist_party_long:0 "칠레 생디칼리슴당"
 CHL_totalist_party:0 "영구혁명당"
@@ -324,13 +324,13 @@ CHL_land_of_santiago_desc:0 "To achieve true Hispanism we must take the mantle a
 
 ### Events ###
 chl.1.t:0 "칠레 지진"
-chl.1.d:0 "칠레에서 일어난 지진으로 3만여명이 사망했으며 수천명이 집을 잃었습니다. 이들을 돕기위해 무언가 해야 합니다."
+chl.1.d:0 "칠레에서 일어난 지진으로 3만여 명이 사망했으며 수천 명이 집을 잃었습니다. 이들을 돕기위해 무언가 해야 합니다."
 chl.1.a:0 "생존자들을 도와라!"
 chl.1.b:0 "다수의 요구가 이 불행한 소수의 요구보다 더 크다."
 chl.2.t:0 "3대 의장"
 chl.2.d:0 "우리 신생 공화국이 이제 2번째 중앙 선거를 치르게 되었습니다. 대대적인 축하가 이뤄졌으며, 세 주요 후보가 노동자들의 표를 휩쓸려고 하고 있습니다. 최악의 억압 기간동안 노동자들의 권리를 오랫동안 주장해온 블레스트 리포는 마르마두케와 대부분의 주류 생디칼리스트들, 그리고 대부분의 유권자들이 선호합니다. 살바도르 아옌데가 그에 대항하고 있습니다. 그의 광범위한 연합은 다소 비협조적이지만 칠레의 더 나은 미래를 약속합니다. 또한 모슬리나 비라와 같은 유럽 사회주의자들의 생각에 영향을 받은 전체주의자들은 라바르카를 주역으로 내세우고 있습니다. 사람들은 어떤 결정을 할까요?"
 chl.2.a:0 "클로타리오 블레스트 리포와 정통 생디칼리스트"
-chl.2.b:0 "살바도르 아옌데와 사회 연합"
+chl.2.b:0 "살바도르 아옌데와 국민사회주의연합"
 chl.2.c:0 "카를로스 라바르카와 모슬리주의자"
 chl.3.t:0 "1936년 칠레"
 chl.3.d:0 "1879년부터 1883년까지의 초석 전쟁으로 칠레는 페루에서 타라파카와 아리카 지역을 가져왔을 뿐만 아니라 볼리비아의 해안지역인 안토파가스타를 획득하였으며, 그 후 거대한 구리 광산을 지배하고 초석의 세계 무역을 독점했습니다. 경제 번영이 시작되었으며, 이는 세계 대전 초기에 초석의 수요가 높았기에 계속되었습니다. 하지만, 그 전쟁 동안 인공적으로 초석을 생산하기 위해 고안된 화학 공정으로 칠레의 퇴적물은 쓸모가 없어졌습니다. 인구 증가와 함께 경제 상황이 악화되면서 사회 위기가 증가했습니다. 노동자와 노동조합은 특히 1931년 칠레가 파산한 후 카를로스 이바녜스 델 캄포의 비참한 통치 하에서 정치적 영향력을 얻었습니다. 얼마 지나지 않아 이바녜스는 물러났고 해군과 대부분의 육군이 반란을 일으켰으며, 인민들의 지지와 오랜기간 동안 망명했던 마르마두케 그로베가 브리튼 연방에서 이끌어 온 증원의 도착과 함께, 칠레 생디칼리슴 공화국이 선언되었습니다. 최소한 명목상으로는 아르투로 푸가가 이끈 1대 의회 하에서의 5년간의 재건 후, 공화국 경제는 크게 회복되었고, 군사적인 축적이 시작되었습니다. 아르헨티나의 수사가 점점 공격적으로 바뀌면서, 대양을 가로지르면서 두 혁명을 경험한 베테랑 군인이자 존경받는 마르마두케 그로베가 공화국을 재건하는 데 앞장서고 있습니다. 그러나 모든 칠레 국민들이 생디칼리슴 지도자들만큼 미래에 대해 희망적이지는 않습니다..."
