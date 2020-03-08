@@ -149,7 +149,7 @@ SQI_Legation_Collaboration16_desc:0 ""
 ### Companies
 
 luda_mining_company:0 "루다 채광업체"
-lanzhou_arsenal:0 "란저우 병기창"
+seventy_two_cannon_artillery_foundry:0 "72-Cannon Artillery Foundry"
 jinan_arsenal:0 "지난 병기창"
 
 ### Flags
@@ -158,7 +158,6 @@ SQI_Zheyuan_beat_Zongchang:0 "쑹저위안이 권력을 장악함"
 SQI_Tianran_beat_Zongchang:0 "일관도가 권력을 장악함"
 SQI_Zongchang_beat_Tianran:0 "장쭝창이 권력을 유지함"
 SQI_puppet:0 "산동은 괴뢰국임"
-SQI_is_recruiting:0 "우리는 군대 징집 중"
 SQI_German_request:0 "독일의 보호를 요청할 기회를 놓침"
 SQI_Legation_request:0 "공사관 도시의 보호를 요청할 기회를 놓침"
 SQI_Japan_request:0 "일본의 보호를 요청할 기회를 놓침"

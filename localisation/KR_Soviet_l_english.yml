@@ -54,8 +54,11 @@ SOV_civil_war:0 "러시아 내전"
 
 ### Ideologies ###
 SOV_totalist_party:0 "국제주의자"
+SOV_totalist_party_long:0 "Vserossiyskaya Kommunisticheskaya Partiya"
 SOV_syndicalist_party:0 "연방주의자"
+SOV_syndicalist_party_long:0 "Vserossiyskaya Kommunisticheskaya Partiya"
 SOV_radical_socialist_party:0 "자치주의자"
+SOV_radical_socialist_party_long:0 "Vserossiyskaya Kommunisticheskaya Partiya"
 
 ### Focuses ###
 SOV_FRUNZE:0 "프룬제의 자치주의자를 선출한다!"
@@ -136,19 +139,19 @@ SOV_CEN_CAU:0 "캅카스로 진군"
 SOV_CEN_CAU_desc:0 "이제 우리는 중동으로의 관문을 개방하고 자원이 풍부한 코카서스의 소국들을 되찾을 수 있습니다. 문제는 우리가 이를 어떻게 해낼 것인가입니다."
 SOV_CEN_WAR:0 "중앙아시아 전쟁"
 SOV_CEN_WAR_desc:0 "우리의 군사적 지도는 전 세계에 생디칼리슴을 전해주기 위한 활동의 다음 방향을 고려하고 있습니다. 중앙아시아는 여전히 죽을 때 까지 싸우는 투르키스탄의 광신도와 알라시-오르다의 부르주아 배신자들에 의해 지배되고 있으며, 두 국가 모두 공멸하게 될 전쟁 속에 갇혔습니다. 이것은 레닌의 사상을 더욱 멀리 퍼뜨리고 중앙아시아에 안정을 되찾아 줄 기회를 우리에게 주었습니다."
-SOV_CEN_ALO:0 "알라시-오르다에서의 혁명?"
+SOV_CEN_ALO:0 "Attack the Alash Orda"
 SOV_CEN_ALO_desc:0 "우리는 현재 정부에 맞서는 생디칼리슴 쿠데타를 일으키기 위해 알라시-오르다에 있는 러시아인 사이의 접촉 및 지지자 네트워크를 사용하는데 최고의 위치를 가지고 있습니다."
 SOV_CEN_TRK:0 "투르케스탄과의 전쟁!"
 SOV_CEN_TRK_desc:0 "이제 알라시 정권이 처리됨에 따라 투르케스탄의 이슬람 정권의 심장부를 공격할 준비가 되었습니다. 그들의 오랜 죄악은 곧 마침표를 찍게 될 것입니다."
-SOV_FAR_TRA:0 "트란스아무르의 생디칼리스트들"
+SOV_FAR_TRA:0 "Crush Transamur"
 SOV_FAR_TRA_desc:0 "트란스아무르의 해군본부에 저항하는 다양한 반대세력들이 지원을 찾고 있습니다. 그들에게 우리의 지원을 제공함고 우리의 대의를 위해 그들에게 영향을 줄 수 있습니다!"
 SOV_EUR_INT:0 "인터내셔널에 가입하자!"
-SOV_EUR_sec_desc:0 "만약 우리가 유럽 고토를 되찾고 서방에 혁명을 퍼뜨리고 싶다면 우리는 인터내셔널의 사회주의 친구들과 함께해야 합니다."
+SOV_EUR_INT_desc:0 "만약 우리가 유럽 고토를 되찾고 서방에 혁명을 퍼뜨리고 싶다면 우리는 인터내셔널의 사회주의 친구들과 함께해야 합니다."
 SOV_FAR_JAP:0 "일본을 공격한다!"
 SOV_FAR_JAP_desc:0 "이제 우리는 일본의 제국주의 정책을 끝장내고 동양에 평화를 가져오는데 붉은 군대의 힘을 사용할 수 있습니다!"
 SOV_EUR_GER:0 "제국주의자들을 박멸하자"
 SOV_EUR_GER_desc:0 "우리는 이제 국제적 지원을 받았고 독일 제국에 맞서는 최후의 공세를 계획해 그들의 범죄에 종지부를 찍고 전 세계에 자유를 가져다 줄 수 있습니다."
-SOV_EUR_FIN:0 "카렐리아의 상태"
+SOV_EUR_FIN:0 "Crush Finland"
 SOV_EUR_FIN_desc:0 "러시아 내전 동안 반동 핀란드 왕국에게 카렐리아를 잃어버렸습니다. 소비에트 연방 의회의 많은 의원들이 핀란드의 노동자들을 그들의 왕으로부터 해방시켜야 함을 주장하고 있습니다."
 
 ### Domestic Events ###
@@ -180,55 +183,6 @@ sovd.6.a:0 "Lenin lived! Lenin lives! Lenin will live!"
 sovd.7.t:0 "The City of the Tsars"
 sovd.7.d:0 "Petrograd, the city of Tsar Peter the Great, is now in the hands of our revolutionary forces. It is a testament to the monarchist past of Russia, a stain from which we should distance ourselves. We should name it after  our long dead comrade Vladimir Lenin, who got rid of the Romanov reactionaries and their influence, only to be later assassinated with the help of the German imperial intelligence unit. As of today, Petrograd is no more."
 sovd.7.a:0 "Rise, Leningrad."
-
-sovd.14.t.tukhachevsky:0 "Chairman Kirov was Killed!"
-sovd.14.d.tukhachevsky:0 "Chairman Kirov was on his way to the Kremlin yesterday when an unknown terrorist threw a bomb at him, killing the chairman and himself in the process. General Meretskov has become the Provisional leader of the country for the time being but who will direct Soviet policy? The second Soviet general elections, which will take place in 1946, will decide the general direction of our country."
-sovd.14.a:0 "No!"
-
-sovd.14.t.bukharin:0 "Nikolay Bukharin Dies"
-sovd.14.d.bukharin:0 "The leader of the VKP(b), also known as the All-Union Communist Party or the Bolsheviks, Nikolay Bukharin has passed away in his house in Moscow. While not as popular as some other party leaders he was one of the symbols of the new Soviet state. The Soviet people will remember Bukharin and his great deeds forever. His duties will be carried out by the SOVNARKOM until the general elections next year. SOVNARKOM has decided to build a Mausoleum in his honour which will be situated in the Red Square, and consist of a big tower, crowned with a sculpture of Bukharin, to glorify their friend and comrade."
-sovd.14.b:0 "Goodbye, Nikolay. You can now rest."
-
-sovd.14.t.frunze:0 "Mikhail Frunze is Ill"
-sovd.14.d.frunze:0 "Mikhail Frunze was hospitalised in the Central Moscow Hospital yesterday after suffering from severe nausea. His diagnosis was found to be stomach cancer and the doctors are saying that Frunze will live no more than a year. Out of respect to the now bedridden leader, elections won't be held until after his death."
-sovd.14.c:0 "The whole country shares his pain."
-
-sovd.15.t:0 "National-Syndicalist Faction"
-sovd.15.d:0 "Members of the Leningrad section of the VKP(b) have met with supporters from all over Soviet Russia. They want to create a National-Syndicalist state as was described by Benito Mussolini and Oswald Mosley. The main leaders of this movement are Aleksandr Kuznetsov and Petr Popkov. Their political programs are deemed dangerous by the other factions of the VKP(b)."
-sovd.15.a:0 "Interesting."
-
-sovd.16.t:0 "The Military Faction"
-sovd.16.d:0 "Some generals of the Soviet army, among them Georgiy Zhukov and Ivan Konev, are ready to participate in the elections. Their aim is an overhaul of the military industrial sector and the continuation of the armed struggle against all enemies of Soviet Russia."
-sovd.16.a:0 "Is that so?"
-
-sovd.17.t:0 "Yezhov Finds Comrades."
-sovd.17.d:0 "The NKVD is trying to find information about internal plots aimed against the Soviet Union. The chief of the NKVD, Vladimir Dekanozov, is a good friend of Nikolay Yezhov. Nobody knows about what their plans are but there are some rumours that they want to dissolve the party and partially restore capitalism."
-sovd.17.a:0 "We expect a rise in demand for tinfoil."
-
-sovd.18.t:0 "The New-Leninist Faction"
-sovd.18.d:0 "Since the birth of the Soviet Union the VKP(b) hasn't changed its political programme. Nikita Khrushev wants to enact minor economic changes and transfer parts of federal power from the centre to the individual Soviet republics. Will he succeed?"
-sovd.18.a:0 "Who knows?"
-
-sovd.19.t:0 "The New-Leninist faction"
-sovd.19.d:0 "Since the birth of the Soviet Union the VKP(b) hasn't changed its political programme. Leonid Brezhnev wants to enact minor economic changes and transfer parts of federal power from the centre to the individual Soviet republics. Will he succeed?"
-sovd.19.a:0 "Who knows?"
-
-sovd.20.t:0 "The faction of True Syndicalism"
-sovd.20.d:0 "Since the birth of the Soviet Republic the VKP(b) hasn't changed its political programme. Sergey Kirov and Nikolay Shvernik want to put an end to the world revolution in order to build syndicalism in the Soviet Republic and to bring peace to the tired nation. Will they succeed?"
-sovd.20.a:0 "Who knows?"
-
-sovd.21.t:0 "World Revolution faction"
-sovd.21.d:0 "After the death of Kirov various Red generals, namely Konstantin Rokossovskiy and Kirill Meretskov, decided to continue in his work. The world revolution is still not finished and they want to lead the Soviet Republic in a struggle to bring syndicalism to the entire world."
-sovd.21.a:0 "But the Soviet nation is tired!"
-
-sovd.22.t:0 "The Second Soviet Elections"
-sovd.22.d:0 "Today the second Soviet general elections has finally begun. Different factions want to assume supreme power over the Soviet state in order to reform the existing political and economic systems in ways they deem appropriate. What will happen at the various congresses? Which faction will gain majority?"
-sovd.22.a:0 "The National-Syndicalist faction!"
-sovd.22.b:0 "The Military faction!"
-sovd.22.c:0 "The NKVD arrests them all!"
-sovd.22.e:0 "The New-Leninist faction!"
-sovd.22.g:0 "The World Revolution faction!"
-sovd.22.f:0 "The True Syndicalist faction!"
 
 ### Foreign Events ###
 sovf.64.t:0 "소비에트가 우리들과 합류하길 원한다!"

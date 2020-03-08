@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 
 worldnews.1.t:0 "제2차 미국 내전"
 worldnews.1.d.all:0 "사정을 알지 못하는 이에게는 미국의 위기가 갑자기 발생한 것처럼 보일 수도 있지만, 전문가들은 지난 수년간 내전 발발의 조짐이 보였다는 것에 동의합니다. 1925년 뉴욕 증권 거래소가 붕괴한 이래로 미국 경제는 꾸준히 침체기에 접어들었습니다. \n이제 미국은 연방 정부의 지지자들, 생디칼리슴을 내세운 미노조연합, 우파 미연합국, 그리고 민주정의 잔재인 태평양 미합중국의 다자간 내전으로 돌입했습니다. 전세계에서 의용군들이 몰려와 각자의 진영을 지원하고 있는데, 어떤 이들은 이 가슴 아픈 이념 갈등은 단순히 더 넓은 세계에서 일어날 전쟁 중의 일부라고 단정 짓고 있습니다."
@@ -105,22 +105,18 @@ worldnews.23.a:0 "예상치 못한 일이다."
 
 worldnews.24.t:0 "노동조합총회 의장으로 선출된 모즐리"
 worldnews.24.d:0 "1936년 브리튼 연방 노동조합총회가 결정을 내렸습니다. 오랫동안 의장으로 재임했던 필립 스노든이 사임을 선언함에 따라, 최대주의자, 자치주의자, 연방주의자 그리고 조합주의자의 연방의 4개 주요 파벌이 후임자에 대한 논쟁을 시작했습니다. \n\n그리고 논란이 가라앉으면서 최대주의자의 지도자이자 전체주의 사상가인 오스왈드 모즐리가 새로운 의장으로 임명되었습니다. 모즐리의 당은 강력한 중앙 정부와 경제에 대한 완전한 국가 통제를 지지하고 있으며, 다른 어느 당파보다도 더 적극적으로 군사적 행동과 브리튼 국민주의를 주창합니다."
-worldnews.24.d.voted_again:0 "1년도 채 못되어 [ENG.GetNameDef]의 1936년 노동조합총회는 오랫동안 의장으로 재임했던 필립 스노든의 사임을 계기로 정치적 침체로 인해 교착 상태에 빠졌습니다. 두 번째 선거가 실시 된 후, 논쟁은 스노든의 후임자로 최대주의자의 지도자이자 전체주의 사상가인 오스왈드 모즐리의 지명과 함께 가라앉았습니다. 모즐리의 당은 강력한 중앙 정부와 경제에 대한 완전한 국가 통제를 지지하고 있으며, 다른 어느 당파보다도 더 적극적으로 군사적 행동과 브리튼 국민주의를 주창합니다."
 worldnews.24.a:0 "흥미롭군."
 
 worldnews.25.t:0 "노동조합총회 의장으로 선출된 이 글라이시"
 worldnews.25.d:0 "1936년 브리튼 연방 노동조합총회가 결정을 내렸습니다. 오랫동안 의장으로 재임했던 필립 스노든이 사임을 선언함에 따라, 최대주의자, 자치주의자, 연방주의자 그리고 조합주의자의 연방의 4개 주요 파벌이 후임자에 대한 논쟁을 시작했습니다. \n\n그리고 논란이 가라앉으면서 웨일스의 시인이자 자치주의자의 지도자인 니콜라스가 새 의장으로 선출되었습니다. 자치주의자들은 브리튼 연방의 분권화를 지지하고 심지어 웨일스 및 스코틀랜드 국가에 대한 더 큰 자치권, 심지어 완전한 독립까지도 지지합니다."
-worldnews.25.d.voted_again:0 "1년도 채 못되어 [ENG.GetNameDef]의 1936년 노동조합총회는 오랫동안 의장으로 재임했던 필립 스노든의 사임을 계기로 정치적 침체로 인해 교착 상태에 빠졌습니다. 두 번째 선거가 실시 된 후, 논쟁은 스노든의 후임자로 웨일스의 시인이자 자치주의자의 지도자인 니콜라스의 지명과 함께 가라앉았습니다. 자치주의자들은 브리튼 연방의 분권화를 지지하고 심지어 웨일스 및 스코틀랜드 국가에 대한 더 큰 자치권, 심지어 완전한 독립까지도 지지합니다."
 worldnews.25.a:0 "흥미롭군."
 
 worldnews.26.t:0 "노동조합총회 의장으로 선출된 케니"
 worldnews.26.d:0 "1936년 브리튼 연방 노동조합총회가 결정을 내렸습니다. 오랫동안 의장으로 재임했던 필립 스노든이 사임을 선언함에 따라, 최대주의자, 자치주의자, 연방주의자 그리고 조합주의자의 연방의 4개 주요 파벌이 후임자에 대한 논쟁을 시작했습니다. \n\n그리고 논란이 가라앉으면서 조합주의자의 지도자인 애니 케니가 새로운 의장으로 선출되었습니다. 케니는 지구상의 소수의 여성 지도자 중 한 명이며 급진적인 페미니즘과 평등주의 대한 그녀의 사상은 현 상황에 적합합니다."
-worldnews.26.d.voted_again:0 "1년도 채 못되어 [ENG.GetNameDef]의 1936년 노동조합총회는 오랫동안 의장으로 재임했던 필립 스노든의 사임을 계기로 정치적 침체로 인해 교착 상태에 빠졌습니다. 두 번째 선거가 실시 된 후, 논쟁은 스노든의 후임자로 조합주의자의 지도자인 애니 케니의 지명과 함께 가라앉았습니다. 케니는 지구상의 소수의 여성 지도자 중 한 명이며 급진적인 페미니즘과 평등주의 대한 그녀의 사상은 현 상황에 적합합니다."
 worldnews.26.a:0 "흥미롭군."
 
 worldnews.27.t:0 "노동조합총회 의장으로 선출된 호너"
 worldnews.27.d:0 "1936년 브리튼 연방 노동조합총회가 결정을 내렸습니다. 오랫동안 의장으로 재임했던 필립 스노든이 사임을 선언함에 따라, 최대주의자, 자치주의자, 연방주의자 그리고 조합주의자의 연방의 4개 주요 파벌이 후임자에 대한 논쟁을 시작했습니다. \n\n그리고 논란이 가라앉으면서 현재 사무총장인 아서 호너가 스노든의 후계자로 지명되었습니다. 그와 연방주의자들은 변화하는 세상에서 원칙을 지키키 점점 더 어려워지고 있는, 현상 유지 정책에 찬성합니다."
-worldnews.27.d.voted_again:0 "1년도 채 못되어 [ENG.GetNameDef]의 1936년 노동조합총회는 오랫동안 의장으로 재임했던 필립 스노든의 사임을 계기로 정치적 침체로 인해 교착 상태에 빠졌습니다. 두 번째 선거가 실시 된 후, 논쟁은 스노든의 후임자로 조합주의자의 지도자인 아서 호너의 지명과 함께 가라앉았습니다. 그와 연방주의자들은 변화하는 세상에서 원칙을 지키기 점점 더 어려워지고 있는 현상 유지 정책에 찬성합니다."
 worldnews.27.a:0 "흥미롭군."
 
 worldnews.28.t:0 "에드워드 8세의 대관식"
@@ -367,8 +363,7 @@ worldnews.89.d:0 "스페인에서 있던 전국노동연맹-이베리아 아나�
 worldnews.89.a:0 "혁명이 퍼지기 시작했다, 무서운 속도로!"
 
 worldnews.90.t:0 "브리튼의 선거 교착"
-worldnews.90.d.fuck_it:0 "1936년 브리튼 연방 노동조합총회가 마무리되었습니다. 필립 스노든 노동조합총회 의장이 사의를 표명함에 따라, 최대주의자, 자치주의자, 연방주의자, 회중론자 등 네 가지 주요 파벌이 그 자리를 두고 경쟁했습니다. \n\n분란이 가라앉기는 했지만, 이 치열한 선거에서 선두를 차지한 정당은 없었습니다. 불안정이 고조되고 모든 파벌들이 표의 재검 또는 새로운 선거를 요구하자, TUC는 마침내 연방주의자 톰 만을 중재자로 선출하기로 결정했습니다. 많은 사람들에게 이것은 브리튼 연방에서의 정치적 타성의 출현으로 받아들여집니다."
-worldnews.90.d.vote_again:0 "1936년 브리튼 연방 노동조합총회가 마무리되었습니다. 필립 스노든 노동조합총회 의장이 사의를 표명함에 따라, 최대주의자, 자치주의자, 연방주의자, 회중론자 등 네 가지 주요 파벌이 그 자리를 두고 경쟁했습니다. \n\n분란이 가라앉기는 했지만, 이 치열한 선거에서 선두를 차지한 정당은 없었습니다. 불안정이 고조되고 모든 파벌들이 표의 재검 또는 새로운 선거를 요구하자, TUC는 마침내 내년에 선거를 다시 치르기로 결정했습니다. 많은 사람들에게 이것은 브리튼 연방에서의 정치적 타성의 출현으로 받아들여집니다."
+worldnews.90.d:0 "1936년 브리튼 연방 노동조합총회가 마무리되었습니다. 필립 스노든 노동조합총회 의장이 사의를 표명함에 따라, 최대주의자, 자치주의자, 연방주의자, 회중론자 등 네 가지 주요 파벌이 그 자리를 두고 경쟁했습니다. \n\n분란이 가라앉기는 했지만, 이 치열한 선거에서 선두를 차지한 정당은 없었습니다. 불안정이 고조되고 모든 파벌들이 표의 재검 또는 새로운 선거를 요구하자, TUC는 마침내 연방주의자 톰 만을 중재자로 선출하기로 결정했습니다. 많은 사람들에게 이것은 브리튼 연방에서의 정치적 타성의 출현으로 받아들여집니다."
 worldnews.90.a:0 "흥미롭군."
 
 worldnews.91.t:0 "인도차이나의 독립 선언"
@@ -619,11 +614,6 @@ worldnews.145.f:0 "브레스트-리토프스크의 굴욕을 되갚았다!" #Rus
 worldnews.145.g:0 "차르였다면 결코 이룰 수 없었겠지..." #Soviets
 worldnews.145.h:0 "이제 독일도 알았겠지, 모든 것을 잃는 기분이 어떤지." #Canada
 worldnews.145.i:0 "세계대전의 굴욕을 되갚았다" #Nat France
-
-worldnews.146.t:0 "캐나다에서 도망친 에드워드 국왕"
-worldnews.146.d:0 "겉보기엔 희망이 없어 보이는 [From.GetNameDef]의 상황으로, 에드워드 8세는 나머지 가족과 함께 이 나라를 떠나 비밀스러운 행선지로 망명했으며, 어쩌면 영국 왕정이 아직 살아남을 수 있다는 마지막 희망의 한 조각을 지키려고 했을지도 모릅니다. 국왕은 협상국의 동맹으로 떠났으며, 캐나다의 동맹국들은 이제 방황하며 그들 자신의 운명으로 떠났고 영국은 언젠가는 그 고향을 되찾을 수 있을 지도 모릅니다."
-worldnews.146.a:0 "불안한 소식이로군"
-worldnews.146.b:0 "그는 도망칠 순 있겠지만, 숨을 순 없을 것이다"
 
 worldnews.147.t:0 "메탁사스의 그리스 정부 전복"
 worldnews.147.d:0 "With Greece having been thrown into massive chaos following their loss in the Balkan War against Bulgaria, and the democratic government refusing to step down, former general Ioannis Metaxas stepped in today with a large group of army supporters and overthrew the government in a planned coup. Fighting in Athens is reported between Metaxas's soldiers and syndicalist groups loyal to Nikos Zachariadis, who Metaxas claims was close to overthrowing the government himself and 'steps were required to maintain order'. Syndicalists have vowed to fight back against the dictatorship, but for now it appears Metaxas is in full control."
@@ -1080,9 +1070,86 @@ worldnews.245.d.exile:0 "After the regime change in the former Empire of Japan, 
 worldnews.245.d.abolish:0 "After the regime change in the former Empire of Japan, the fate of the Yamato Imperial Family became uncertain - until yesterday. With the conclusion of the first Congress of the Japanese Union, it has been decided that the Imperial Family should have their titles and status abolished - as of today, the Yamato family holds citizen status, being no different than their former subjects. This move has sparked a strike in the centre of Tokyo, as well as smaller protests in Osaka and Nagasaki, but the situation is expected to normalise in a month's time."
 worldnews.245.a:0 "한 시대가 끝나고, 다른 시대가 열리는구나."
 
-### City Fall Events ###
+worldnews.246.t:0 "Busan Treaty"
+worldnews.246.d:0 "A treaty was signed in Busan today, re-establishing the Joseon Kingdom after it was annexed into Japan in 1910. Hundreds of thousands of Koreans flock to the streets to celebrate their independence. It is surely a historic moment for colonialism."
+worldnews.246.a:0 "Splendid."
 
-worldnews.250.t:0 "-"
+worldnews.247.t:0 "Republican Victory in Brazil"
+worldnews.247.d:0 "While certainly not an unexpected result, confirmation has reached us that the Republican Party will stay in power in Brazil, as it has since the start of the New Republic in 1927. The new president of the republic, Getulio Vargas, will be sworn in in January, but has already promised to deal with a firm hand against the economical issues plaguing the country, and also promises to do better for the common man of Brazil in his victory speech. However, the Republican victory will not mean such an instant end to Brazil's woes, and time will tell if this continued hegemony will have positive consequences"
+worldnews.247.a:0 "As expected"
+worldnews.247.b:0 "This bickering of capitalists does not concern us"
+
+worldnews.248.t:0 "Liberal Victory in Brazil"
+worldnews.248.d:0 "An alliance of the old guard, opposition members and many types of liberals, the Liberal Party was seen as the second horse in the presidential race, but now it stands at the top with the dust settled, having edged the Republicans all so narrowly. With a party programme based on the idealistic principles that were failed to be upheld by the first republic, and a will to diversify and modernize the economy and bring growth back to the nation, the PL leadership will begin in January, as preparations for the peaceful transfer of power occur. Time will tell if such an idealist and somewhat unstable goverment can keep the country on a good path in these troubling times."
+worldnews.248.a:0 "An upset for sure"
+worldnews.248.b:0 "This bickering of capitalists does not concern us"
+
+worldnews.249.t:0 "Democratic Left Victorious in Brazil"
+worldnews.249.d:0 "Democracy in Brazil was rocked by the results of the general election: the Democratic Left, an extremly large tent alliance of centre-left and leftist parties, united by a common plataform of sweeping worker's rights reform, has won general elections in Brazil. A surprising result to many observers, others claim that the wide appeal and clear goals of the coalition gave it a broader base than its opponents. Now, João Mangabeira, curiously the brother of current president Otavio Mangabeira, will take office in January, and he has perhaps the impossibe task of keeping a coalition that has everything from social liberals to maximalists from tearing itself apart, as he has to manage this marriage of convenience while making the reforms that got him elected a palpable reality."
+worldnews.249.a:0 "Dancing with Syndicalists is a dangerous move"
+worldnews.249.b:0 "In the end, capitalism cannot be changed. A fool's errand."
+
+worldnews.250.t:0 "Integralists Victorious in Brazil"
+worldnews.250.d:0 "In an unexpected turn of events, the elections in Brazil ended in an surprising upset win for the Brazilian Integralist Action. The sweeping movement took over Brazil by storm, and its anti political establishment message of faith, national pride, and monarchism found many sympathetic listeners from the poorest neighbourhood to the mightiest manor. Now the relatively politically inexperienced party has to deal with the burdens of power, and many fear that the fragile alliance between different factions inside the Action may weaken the party. Nonetheless, its influence has now increased quite considerably, and a restoration of the monarchy is considered by observers to be a near certainty at this point."
+worldnews.250.a:0 "Will the Empire return?"
+worldnews.250.b:0 "This bickering of capitalists does not concern us"
+
+worldnews.400.t:0 "Getulio Vargas Proclaims the New State"
+worldnews.400.d:0 "Getulio Vargas has, over the last few years, immensely grown his grip over the state apparatus, as the instability in Brazil has been subsiding and he claims all credit for it. Now, in a bold move to ensure peace and stability, he has assumed total control over lawmaking and granted himself numerous emergency powers, 'until this age of trumoil in the world ends'. While certainly wars have flared up across the world since Black Monday struck the berlin stock exchange, it makes this move no less of a brazen power grab. He has however great popular support in various states, and support of leadership in many states. Time will tell if this development will truly ensure a peaceful Brazil."
+worldnews.400.a:0 "Vargas has indeed assumed direct control"
+worldnews.400.b:0 "At least no more pretension of democracy, but a worrying development"
+
+worldnews.401.t:0 "Constitutionalist Revolt in Brazil"
+worldnews.401.d:0 "The state of São Paulo, perhaps the most powerful in Brazil, has taken up arms against Getulio Vargas and his New State, claming his rule to be an utterly unconstitutional dictatorship, after several attemps by the influential president to meddle in affairs of the state, including trying to impose a state president of his own trust rather than elected. Now, tensions have utterly boiled, and nothing but war can happen between São Paulo and other states, who were called by the earlier to join them in their struggle. Time till tell if this call will be heard, or if the revolt will be snuffed out."
+worldnews.401.a:0 "Centralization is never easy"
+worldnews.401.b:0 "A chance for the people?"
+
+worldnews.402.t:0 "Constitutionalist Revolt in Brazil Succeeds!"
+worldnews.402.d:0 "As Getulio is arrested, and put on await for trial, the constitutionalist revolutionaries who fought so hard for this moment celebrate across Rio and Brazil. Now, the republic's previous framework will be re-instated, and will closely follow the political ways of the Second Republic, but with extra safeguards against ambitious would be dictators, and even greater autonomy for member states of the Union."
+worldnews.402.a:0 "Brazil's democracy gets a second chance."
+worldnews.402.b:0 "Workers dead for no change at all, sadly."
+
+worldnews.403.t:0 "Constitutionalist Revolt in Brazil Fails!"
+worldnews.403.d:0 "São Paulo may have been powerful, but it could not stand against the might of Brazil. As their surrender was accepted, pro Getulio rallies broke throughout the nation, and few can doubt that the man's grip on power is in fact stronger than it ever was. With most of his relevant opponents in exile or arrested, Getulio can focus himself to other matters, for he certainly has won the dangerous game of Brazilian politics, and has a degree of control until now unprecedented in the hands of one man, even in the times of the monarchy in the nation."
+worldnews.403.a:0 "The New State made it's show of force"
+worldnews.403.b:0 "Workers dead for no change at all, sadly."
+
+worldnews.404.t:0 "Imperial Restoration in Brazil"
+worldnews.404.d:0 "When the Empire of Brazil fell in 1889, Pedro II resigned himself to that fate, and refused to fight back. Since then, the republican United States of Brazil have been plagued by ecomic woes, corruption and even civil wars. Following a victory by the Integralists in elections, and a public consulation on the matter, today at the Candelaria Catheral in Rio the Emperor Pedro III of Brazil was crowned in an unsually lavish cerimony even for monarchic standards. Now, the Integralists and the new Emperor will set their sights in restoring the former glory of Brazil, and will no doubt change the nation in a perhaps irreversibile fashion. While republican demonstrations were held at the time of the cerimony, they were swiftly dispersed by the Army, and the nation wonders if this Empire will finally bring peace to the troubled south american country."
+worldnews.404.a:0 "A new power is rising!"
+worldnews.404.b:0 "Workers dead for no change at all, sadly."
+
+worldnews.405.t:0 "Rondon's Revolt"
+worldnews.405.d:0 "Candido Rondon, a renowed and respected marshall of Brazil, has returned from one of his by now usual expeditions deep into the jungles of Northern Brazil. To his shock, the news of the Integralist efforts to restore the monarchy kept coming, and he openly voiced his discontent as a devout republican.  The worried govermnent in Rio de Janeiro ordered his arrest, however the man's loyal military men refused the order, and he rose in open revolt in the north of the country. While the revolt has a deep rooted republican origin, his support of local strongmen is also speculated to come from traditionally powerful politicians whom were losing power in the new Integralist order of things. It seems that Brazil is facing its second civil conflict in the century, and the nation holds its breath as open war is now inevitable"
+worldnews.405.a:0 "How can an old man be so stubborn?"
+worldnews.405.b:0 "A chance for the people?"
+
+worldnews.406.t:0 "Rondon's Revolt Crushed"
+worldnews.406.d:0 "Candido Rondon's revolt has been crushed, and his forces have been utterly defeated. While the leader of the revolt could not be found, for he fled into the forest with his most loyal servicemen, the back of the republican movement was crushed, for the uprisings inspired by the man revealed the true alliegances of many a would be traitor in the nation. Now, the Integralists can follow through with their plans completely unabated."
+worldnews.406.a:0 "The empire struck back!"
+worldnews.406.b:0 "Workers dead for no change at all, sadly."
+
+worldnews.407.t:0 "Rondon's Revolt Triumphant"
+worldnews.407.d:0 "The republic stands strong and victorious in Brazil, as Candido Rondon's daring revolt against the Integralist goverment resulted in a large scale conflict, and the defeat of that govemrent, as various states joined the republican uprising and divided the already overstreched military. Rondon, under cheers from his fellow republicans, is now is thursted into a provisory presidency, a role he certainly never wanted, but has vowed to hold elections as scheduled, and not to take any radical measures. Many speculate the old man will finally retire, the great Revolution fought across Brazil being his final adventure."
+worldnews.407.a:0 "Brazil's democracy gets a second chance."
+worldnews.407.b:0 "Workers dead for no change at all, sadly."
+
+worldnews.408.t:0 "The Union of Brazil is proclaimed!"
+worldnews.408.d:0 "Uproar over diplomatic overtures with Syndicalist Chile caused a deep constitutional crisis, and resulted in a coup by members of the military who thought the ED was sliding into socialism. However, the coup was short lived, and the army loyalists have arrested or exiled most of their leadership. Even further, these officers have proclaimed the Union of Brazil, a syndicalist goverment, for after seeing the sweeping progress Chile made in its military since the revolution, many more officers leaned towards the left. Now, the Union will hold its First Congress of Trade unions, and will convene to choose which path Brazilian Socialism will take. Upon the news arriving of the so called Union of Brazil being proclaimed, mulitple state governors have now openly rebelled, and will seek to restore the United States of Brazil to a democratic state."
+worldnews.408.a:0 "The syndicalist menace spreads!"
+worldnews.408.b:0 "A surprise, to be sure, but a welcome one."
+
+worldnews.409.t:0 "Reactionary Uprising Victorious in Brazil"
+worldnews.409.d:0 "The will of the people has been heard, proclaimed Rio Grande do Sul's strongman Getulio Vargas as he spoke after a victorious march on Rio after he symbolically tied his horse to the Obelisk in Rio Branco avenue. The revolting barracks have been taken, and the so called Congress of Trade Unions closed. The republic's former framework will be restablished in due time, and the men responsible for this chaos, especially the 'syndicalist enabling' Democratic Left's members, will be brought to courts. After the failure of this brief experiment, the people of the nation hope to finally find some peace, as the visible damage to many of the capital's main buildings stands as a grim reminder of the now called 'Commune of Rio and the fate of those whould revolt against the Republic"
+worldnews.409.a:0 "Disaster was averted"
+worldnews.409.b:0 "A regrettable step backwards."
+
+worldnews.410.t:0 "Reactionary Uprising Crushed in Brazil"
+worldnews.410.d:0 "With the end of the revolt and the surrender or exile of the inolved state presidents, the Union of Brazil cemented its position in power. However, the conflict has left its csars, and already the cries of both amnesty and treason trials echo across the nation, as the intense resentment towards the central goverment does not fade with the end of the armed conflict Truly, only the first step in what is sure to be an era of immense change in Brazil as a whole."
+worldnews.410.a:0 "Disaster was averted"
+worldnews.410.b:0 "You cannot march against history!"
+
+### City Fall Events ###
 
 worldnews.251.t:0 "런던 함락"
 worldnews.251.d:0 "런던에서의 보고에 따르면, 템즈 강을 가로 지르는 기나긴 전투 이후 [new_controller.GetAdjective]군의 진격에 [old_controller.GetAdjective]의 수도가 점령되었습니다. [old_controller.GetAdjective]군은 가능한 한 오랫동안 [new_controller.GetAdjective]군을 지연시키려고 노력했고 거센 저항을 했지만 결국 패배했습니다. \n\n1216년 이후 처음으로 런던은 외세의 손에 떨어졌습니다. 런던의 분위기는 무겁고, [old_controller.GetAdjective]군이 철수한 가운데 잔존한 저항군과 [new_controller.GetAdjective] 헌병대가 거리에서 교전을 벌이면서 여전히 거리에는 총소리가 들리고 있습니다."

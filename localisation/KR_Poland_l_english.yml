@@ -18,8 +18,8 @@ POL_black_monday1:0 "검은 월요일의 영향"
 POL_black_monday1_desc:0 "독일발 검은 월요일이 우리에게도 영향을 미치기 시작했습니다. 우리는 행동해야만 합니다."
 POL_eternal_regency:0 "영원한 섭정"
 POL_eternal_regency_desc:0 "폴란드의 새로운 왕을 결정하기 위해 처음으로 만들어졌던 폴란드 섭정 의회는 약 20년간 지나치게 비대해지고 비효율적이 되었습니다. 이것이 작은 나라인 폴란드에 가하는 부담은 한계에 이르렀습니다."
-POL_german_advisors:0 "독일 고문관들"
-POL_german_advisors_desc:0 "유럽 세계에서 계속 서있기 위해서는 군사적, 정치적 구조를 개혁하는 것이 가장 중요합니다. 독일과의 긴밀한 관계를 이용해서, 우리는 그들이 우리의 군사력을 현대화하는 것을 돕기 위해 고문단을 보내는 것을 허용할 수 있습니다."
+POL_german_advisors_idea:0 "독일 고문관들"
+POL_german_advisors_idea_desc:0 "유럽 세계에서 계속 서있기 위해서는 군사적, 정치적 구조를 개혁하는 것이 가장 중요합니다. 독일과의 긴밀한 관계를 이용해서, 우리는 그들이 우리의 군사력을 현대화하는 것을 돕기 위해 고문단을 보내는 것을 허용할 수 있습니다."
 POL_mathematics_schools:0 "수학 대학"
 POL_mathematics_schools_desc:0 "이과 계열 학교들에 대한 자금 지원은 우리의 연구 개발 분야에서 큰 혜택을 줄 것입니다."
 POL_winged_hussars_idea:0 "윙드 후사르의 후예"
@@ -647,9 +647,7 @@ poland.54.b:0 "제국조약을 자극하지 말자."
 poland.55.t:0 "폴란드와의 동맹?"
 poland.55.d:0 "폴란드의 우리 동지들이 우리에게 동맹을 제의해 왔습니다. 어떻게 할까요?"
 poland.55.a:0 "우리 형제들과 같이 가자!"
-poland.56.b:0 "Agree, but demand half of Eastern Galicia."
-poland.56.c:0 "Agree, but demand Eastern Galicia."
-poland.55.e:0 "이는 불필요하다."
+poland.55.b:0 "이는 불필요하다."
 
 poland.56.t:0 "폴란드와의 동맹?"
 poland.56.d:0 "폴란드의 우리 동지들이 우리에게 동맹을 제안했습니다. 그러나 동부 지역의 대다수가 우크라이나인인 갈리치아를 폴란드가 점유하고 있고 폴란드에게 반환을 요구하라는 압력이 존재합니다. 어떻게 답장할까요?"
@@ -721,124 +719,22 @@ poland.72.t:0 "우크라이나 민족주의자 단체 결성"
 poland.72.d:0 "우크라이나 정복 후 급진주의자들이 우리에게 저항하려는 목적으로 '우크라이나 민족주의 조직'을 결성했습니다!"
 poland.72.a:0 "안돼!"
 
+poland.73.t:0 "타데우시 로자도프스키의 죽음"
+poland.73.d:0 "우리나라 전역이 갈리치아 태생의 위대한 폴란드 장군인 타데우시 조단 로자도프스키의 죽음을 애도하고 있습니다. 그는 대전쟁기에 오스트리아 편에서 싸워 폴란드 독립에 기여했습니다."
+poland.73.a:0 "Spoczywaj w pokoju.(고인의 명복을 빕니다)"
+
+poland.74.t:0 "펠릭스 제르진스키의 사망"
+poland.74.d:0 "어젯밤 생디칼리슴 선동가 펠릭스 제르진스키가 자연사했습니다. 가장 유명한 생디칼리슴 인사 중 하나가 사망함으로 생디칼리슴 운동은 충격에 빠졌습니다. 그에게는 많은 생디칼리슴 동지가 있지만, 당장은 우리나라에서 생디칼리슴의 위세가 사그라들 것입니다."
+poland.74.syndie:0 "어젯밤 유명한 생디칼리슴 운동가이자 지도자인 펠릭스 제르진스키가 세상을 떠났습니다. 타살의 증거는 발견되지 않았고, 국가 전역이 폴란드 혁명가의 사망을 애도하고 있습니다. 국가 지도자의 사망으로, 많은 이들이 그의 혁명 유지를 이어받을 자가 누구인지 궁금해하고 있습니다."
+poland.74.a:0 "Spoczywaj w pokoju.(고인의 명복을 빕니다)"
 
 poland.75.t:0 "대주교 A. Kakowski의 사망"
 poland.75.d:0 "대주교 Aleksander Kakowski가 오늘 바르샤바에서 사망했습니다. August Hlond가 그의 후계자가 되었고, 폴란드의 새로운 대주교이자 총리가 되었습니다."
 poland.75.a:0 "Spoczywaj w pokoju."
 
-poland.76.t:0 "Stanislaw Patek의 사망"
-poland.76.d:0 "폴란드 국민들은 유명인 중 한 명이 사망했다는 소식에 충격을 받았습니다. 독립 이전 러시아령 폴란드의 대표적인 법조인 중 한 명으로 널리 여겨졌던 파텍은 오랫동안 폴란드 자유의 수호신이었고, 그의 죽음은 분명 많은 사람들에게 큰 충격을 줄 것입니다."
-poland.76.a:0 "Spoczywaj w pokoju."
-
-poland.77.t:0 "Stanislaw Thugutt의 사망"
-poland.77.d:0 "Stanislaw Thugutt가 오늘 사망했습니다. 고인은 대전쟁기 폴란드 군단의 지도자였고, 국민들에게 사랑받았고, 많은 폴란드인들의 기억에 남을 것입니다."
-poland.77.a:0 "Spoczywaj w pokoju."
-
-poland.78.t:0 "얀 젬벡의 사망"
-poland.78.d:0 "국가 전역이 현대 폴란드의 가장 훌륭한 정치외교학자 중 한 명인 얀 젬벡의 죽음을 애도하고 있습니다. 오스트리아령 폴란드의 크라쿠프 근교 슐라흐타 엘리트 집안에서 태어난 젬벡은 보스니아에서 제국의 외교관으로 일한 후 폴란드로 돌아왔습니다. 그의 죽음이 많은 이들을 비통하게 하고 있습니다."
-poland.78.a:0 "Spoczywaj w pokoju."
-
-poland.79.t:0 "스타니스와프 부코비에키의 사망"
-poland.79.d:0 "주요 정치인이자 법조인인 부코비에키가 오늘 그의 집에서 사망한 채로 발견되었습니다. 젊은 시절 얻은 시각 장애에도 불구하고 그는 신생 폴란드의 법조계에서 명성을 얻었으며 신생국의 변호사들을 전후 혼란에서 보호해 주었습니다. 그의 죽음은 많은 시민들에게 비극일 것입니다."
-poland.79.a:0 "Spoczywaj w pokoju."
-
-poland.80.t:0 "얀 파데레프스키의 사망"
-poland.80.d:0 "오늘 유명한 작곡가이자 피아니스트인 이그나치 얀 파데레프스키가 고령으로 오랜 삶을 끝냈습니다. 폴란드의 가장 위대한 피아니스트와 오케스트라 마스터 중 한 명이었던 파데레프스키는 그의 명성과 부를 이용해 폴란드 독립에 대한 외국의 관심을 불러일으켰으며 대전쟁 후에는 신생 폴란드의 유망한 정치인으로 떠올랐습니다."
-poland.80.a:0 "Spoczywaj w pokoju."
-
-poland.81.t:0 "Jedrzej Moraczewski의 사망"
-poland.81.d:0 "Moraczewski의 죽음은 많은 폴란드인들에 충격을 주었습니다. 좌익 성향의 이 인물은 대전쟁기 러시아에 대항하여 창설된 오스트리아령 갈리치아의 폴란드 군단의 지휘관이었습니다. 그의 사회주의적 이상주의와 폴란드 독립에 대한 헌신은 그를 유명하게 만들었습니다."
-poland.81.a:0 "Spoczywaj w pokoju."
-
-poland.82.t:0 "대주교 A. Hlond의 사망"
-poland.82.d:0 "대주교 A. Hlond가 오늘 바르샤바에서 사망했습니다. Stanislaw Cat Mackiewicz가 새로운 총리가 될 것이고 Stefan Wyszynski가 폴란드의 새로운 대주교가 될 것입니다."
-poland.82.a:0 "Spoczywaj w pokoju."
-
-poland.83.t:0 "Julian Nowak의 사망"
-poland.83.d:0 "최근 Julian Novak이 세상을 떠났다는 사실이 밝혀졌습니다. 그는 그의 지적 엄격함으로 많은 정치인들로부터 좋은 평가를 받았고, 훈련된 의사이자 수의사로서 의학과 과학에 대한 크나큰 공헌으로 유명했습니다."
-poland.83.a:0 "Spoczywaj w pokoju."
-
-poland.84.t:0 "빈첸티 비토스의 사망"
-poland.84.d:0 "많은 폴란드인들이 대전쟁기 폴란드 독립운동가인 빈첸티 비토스의 죽음으로 슬픔에 잠겼습니다. 다른 많은 폴란드 주요 정치인들과 같이, 그는 폴란드 독립을 위한 오스트리아와 갈리치아의 도움을 얻어내는데 중요한 역할을 했습니다."
-poland.84.a:0 "Spoczywaj w pokoju."
-
-poland.85.t:0 "히에로님 타르누프스키의 사망"
-poland.85.d:0 "히에로님 타르누프스키 총리가 오늘 바르샤바에서 정치적 후계자를 지명하지 않은 채 사망했으며, 레오폴드 스컬스키가 총리직을 승계했습니다."
-poland.85.a:0 "Spoczywaj w pokoju."
-
-poland.86.t:0 "콘스탄티 스커문트의 사망"
-poland.86.d:0 "오늘 유명한 외교관이자 정치가인 스커문트가 세상을 떠났습니다. 그는 대전쟁 동안 독립을 위해 싸웠고 러시아 통치하의 폴란드인들을 위해 싸웠습니다. 그는 폴란드인들의 가슴에 기억될 것입니다."
-poland.86.a:0 "Spoczywaj w pokoju."
-
-poland.87.t:0 "보이치에흐 코르판티의 사망"
-poland.87.d:0 "40년 동안 폴란드인의 권리와 자유를 위해 싸워온 코르판티의 죽음은 많은 사람들에게 충격을 주었습니다. 독일 통치하의 상부 실롱스크의 독일화에 대표적으로 저항한 코르판티는 어떤 대가를 치르더라도 폴란드의 이익을 보호하기 위해 노력했습니다."
-poland.87.a:0 "Spoczywaj w pokoju."
-
-poland.88.t:0 "우리 장관 중 한명이 사망했다"
-poland.88.d:0 "우리 장관 중 한명의 사망을 전국이 애도하고 있습니다. 하지만 우리는 앞으로 나아가야 하고 새로운 장관이 임명될 것입니다."
-poland.88.a:0 "Spoczywaj w pokoju."
-
-poland.89.t:0 "우리 장관 중 한명이 사망했다"
-poland.89.d:0 "우리 장관 중 한명의 사망을 전국이 애도하고 있습니다. 하지만 우리는 앞으로 나아가야 하고 새로운 장관이 임명될 것입니다."
-poland.89.a:0 "Spoczywaj w pokoju."
-
-poland.90.t:0 "우리 장관 중 한명이 사망했다"
-poland.90.d:0 "우리 장관 중 한명의 사망을 전국이 애도하고 있습니다. 하지만 우리는 앞으로 나아가야 하고 새로운 장관이 임명될 것입니다."
-poland.90.a:0 "Spoczywaj w pokoju."
-
 poland.91.t:0 "우리 장관 중 한명이 사망했다"
 poland.91.d:0 "우리 장관 중 한명의 사망을 전국이 애도하고 있습니다. 하지만 우리는 앞으로 나아가야 하고 새로운 장관이 임명될 것입니다."
 poland.91.a:0 "Spoczywaj w pokoju."
-
-poland.92.t:0 "헤움 반환"
-poland.92.d:0 "최근 우리의 정치 공작은 우리나라에 대한 독일의 지원을 불러왔습니다. 카이저가 더 이상 우크라이나를 지지하지 않기 때문에, 우리는 이 기회를 이용해 폴란드인이 대다수를 차지하는 헤움 지역을 우크라이나로부터 재탈환할 수 있을 것입니다."
-poland.92.a:0 "영유권을 주장하자!"
-poland.92.b:0 "나쁜 생각 같군..."
-
-poland.93.t:0 "폴란드의 영토 요구!"
-poland.93.d:0 "폴란드 정부는 헤움을 그들에게 양도할 것을 요구했습니다. 그렇게 하지 않으면 우리는 매우 비참한 결과에 직면할 것입니다. 카이저는 침묵을 지키고 있고, 어떻게 해야 할까요?"
-poland.93.a:0 "승산이 없다. 요구를 수락하자."
-poland.93.b:0 "독일의 간섭을 요청하자."
-
-poland.94.t:0 "폴란드의 요구"
-poland.94.d:0 "폴란드 정부는 우크라이나에 헤움의 할양을 요구했습니다. 우크라이나 정부는 그들을 대신해 우리에게 이 문제에 개입할 것을 요청했습니다. 이러한 갈등은 동맹의 분열로 이어질 수 있습니다. 어떻게 대응해야 할까요?"
-poland.94.a:0 "폴란드를 지원하자."
-poland.94.b:0 "우크라이나를 지원하자."
-
-poland.95.t:0 "독일의 지지가 끊겼다!"
-poland.95.d:0 "카이저가 폴란드가 우리보다 중요하다고 결정했습니다! 어떻게 할까요?"
-poland.95.a:0 "승산이 없다. 요구를 수락하자."
-poland.95.b:0 "전쟁을 준비하자!"
-
-poland.96.t:0 "우크라이나 분리주의"
-poland.96.d:0 "우크라이나 정부가 항전의지를 표명했습니다. 우크라이나 민족주의자들의 세력이 예상보다 강합니다."
-poland.96.a:0 "질서를 유지해야 한다."
-poland.96.b:0 "물러서자."
-
-poland.97.t:0 "독일의 간섭"
-poland.97.d:0 "카이저가 군대를 우크라이나 국경으로 이동시키기로 결정했습니다. 우리도 헤움을 되찾기 위해 똑같이 할 수 있습니다. 어떻게 할까요?"
-poland.97.a:0 "즉시 개입하자!"
-poland.97.b:0 "외교 접촉을 끊자."
-poland.97.c:0 "물러서자."
-
-poland.98.t:0 "독일의 지원이 끊겼다!"
-poland.98.d:0 "카이저가 우크라이나가 우리보다 중요하다고 결정을 내렸습니다. 독일로부터의 지원이 끊기고 있습니다!"
-poland.98.a:0 "우리가 이길 희망은 없다.."
-
-poland.99.t:0 "독일이 우리를 지원한다!"
-poland.99.d:0 "카이저가 우리를 지원하기로 결정했습니다! 폴란드는 물러설 수밖에 없을 것입니다."
-poland.99.a:0 "좋은 뉴스다!"
-
-poland.100.t:0 "폴란드의 영토 요구!"
-poland.100.d:0 "폴란드가 헤움의 할양을 요구했습니다. 하지만 우리는 매우 절망적인 상황에 있고, 독일의 지원이 없으면 우리는 승산이 없습니다."
-poland.100.a:0 "승리의 희망은 없다. 그들의 요구를 받아들이자."
-poland.100.b:0 "방어태세를 갖추자!"
-
-poland.101.t:0 "우크라이나가 거절했다!"
-poland.101.d:0 "우크라이나 정부가 우리 요구를 거절했습니다. 어떻게 할까요?"
-poland.101.a:0 "즉시 개입하자!"
-poland.101.b:0 "외교 접촉을 끊자."
-poland.101.c:0 "물러서자."
 
 poland.102.t:0 "우크라이나 빨갱이들"
 poland.102.d:0 "우크라이나를 지배하고 있는 생디칼리스트들은 우리에게 큰 골칫거리입니다. 그들이 우리를 공격하기 전에 예방전쟁을 하는 것은 좋은 생각이긴 하나 우리 단독으로는 역부족입니다. 돈-쿠반 연합에 반우크라이나 연합을 제안하는 건 어떨까요? 그것이 성사되면 드네프르 강이 새로운 국경이 될 것입니다."
@@ -1018,23 +914,9 @@ poland.140.a:0 "그럼 혼자 죽으라지."
 poland.141.t:0 "리투아니아가 굴복하다!"
 poland.141.d:0 "절박한 리투아니아인들은 우리의 제안에 동의했고, 우리나라에 굴복했습니다. 양국의 이러한 새로운 관계는 장기적으로 양국 모두에게 확실히 이익이 될 것입니다."
 poland.141.a:0 "그들을 잘 보살펴 주자."
-
 poland.142.t:0 "리투아니아가 반항하다!"
 poland.142.d:0 "리투아니아는 우리의 자비로운 제안을 거절하고 대신 우리의 제안이 그들 국가에 대한 심각한 모욕이라고 대답했습니다. 우리의 보호가 없다면, 그들은 반드시 파괴될 것입니다."
 poland.142.a:0 "그들이 어떻게?!"
-
-poland.143.t:0 "폴란드의 프워츠크 요구"
-poland.143.d:0 "After the election of [POL.GetLeader], Poland has been drifting ever closer into our sphere of influence. As a result of this close relationship, Poland is now seeking to acquire the territory of Plotzk from us, which has a large Polish majority. In exchange, Poland will renounce any and all claims they hold to other Polish-majority regions we control. If we were to agree, it would cement a strong relationship with Poland. However, for us to cede any territory would certainly be seen as a sign of weakness..."
-poland.143.a:0 "공평한 제안이다."
-poland.143.b:0 "영토 할양? 어림없다!"
-
-poland.144.t:0 "카이저가 동의했다"
-poland.144.d:0 "Germany has agreed to our proposal for the cession of Plotzk in exchange for us renouncing our claims on other Polish territory they hold. With this transfer of territory, we can now welcome back millions of our brethren back into Poland proper."
-poland.144.a:0 "저,정말?"
-
-poland.145.t:0 "수용할 수 없는 협상"
-poland.145.d:0 "The Kaiser has flatly denied our request for territory, stating that they only deal with "proper nations" and that we should learn our place in the European hierarchy. It seems like we shall not be seeing Plotzk under our care for some time."
-poland.145.a:0 "예상했던 바이다..."
 
 poland.146.t:0 "폴란드가 보호를 요청하다"
 poland.146.d:0 "유럽에서의 그들의 위태로운 위치를 알아차린 폴란드 공화국이 우리 동맹에 가입하고 싶어합니다. 폴란드는 유럽에서 외교적으로 고립되어 있지만, 유럽에 또 다른 동맹국을 두는 것은 가치 있는 일입니다."
@@ -1200,19 +1082,6 @@ poland.197.d:0 "군주주의 파벌을 계속해서 지원하고 있는 슐라�
 poland.197.a:0 "협상하자."
 poland.197.b:0 "그들은 무력하다!"
 
-poland.202.t:0 "폴란드의 제4인터내셔널 가입?"
-poland.202.d:0 "최근 폴란드의 생디칼리스트 혁명 이후, 폴란드는 세계적 생디칼리스트 국가의 반열에 오르기 위해 노력하고 있습니다. 그들을 받아들일까요?"
-poland.202.a:0 "형제여!"
-poland.202.b:0 "그들은 믿을 수 없다."
-
-poland.203.t:0 "인터내셔널의 성장!"
-poland.203.d:0 "소련이 우리의 제4인터내셔널 가입을 승인했습니다! 이제 소련 형제들과 같이 갑시다!"
-poland.203.a:0 "혁명의 바퀴가 굴러간다!"
-
-poland.204.t:0 "소련이 폴란드를 무시했다"
-poland.204.d:0 "소련은 폴란드의 새 생디칼리스트 정권을 불신하고 있고, 폴란드의 제4인터내셔널 가입을 거부했습니다. 제4인터내셔널의 도움 없이는 유럽에서의 우리 미래는 어두울 것입니다."
-poland.204.a:0 "불가능해!"
-
 poland.205.t:0 "군주주의자 쿠데타"
 poland.205.d:0 "어젯밤 늦게, 바르샤바 주변의 많은 정부 기관에서 총성이 터져 나왔습니다. 이 혼란 속에서, 폴란드의 왕정복고와 현 정권의 타도를 선언하는 성명서가 도시 중심부에서 방송되었습니다. 이후 조용한 침묵이 흘렀는데, 이는 군주제 파벌의 완전한 승리를 암시하고 있습니다. [POL.GetLeader]는 쿠데타가 시작된 이후 보이지도 않고 소식도 전해지지 않고 있으며, 군주주의자들은 이미 아우구스틴 차르토리스키를 왕위에 올려놓을 준비를 하고 있습니다."
 poland.205.a:0 "미리 알았어야 했다..."
@@ -1270,7 +1139,6 @@ poland.215.a:0 "20년 하고도 몇 년 더!"
 
 poland.216.t:0 "왕을 결정하다"
 poland.216.d:0 "20년 넘게 폴란드는 왕이 없었습니다. 하지만, 섭정 의회의 선거가 그 상태를 바꿀 것입니다. 불행히도, 독일의 속국으로의 우리의 지위는 이번 선거가 결코 공정하지 않다는 것을 확실히 보장해 주었습니다. 섭정의회 회의실은 독일의 "관찰자"들로 가득 차 있으며, 아무도 이 "선거"의 결과에 대해 의심하지 않습니다."
-
 poland.217.t:0 "왕을 결정하다"
 poland.217.d:0 "20년 넘게 폴란드는 왕이 없었습니다. 하지만, 섭정 의회의 선거가 그 상태를 바꿀 것입니다. 불행히도, 독일의 속국으로의 우리의 지위는 이번 선거가 결코 공정하지 않다는 것을 확실히 보장해 주었습니다. 섭정의회 회의실은 독일의 "관찰자"들로 가득 차 있으며, 아무도 이 "선거"의 결과에 대해 의심하지 않습니다."
 
@@ -1291,7 +1159,6 @@ poland.220.b:0 "다른 곳에 힘을 쓰자."
 poland.221.t:0 "폴란드의 비엔나 서클 가입"
 poland.221.d:0 "우리의 비엔나 서클 확장으로, 폴란드가 비엔나 서클에 가입하였고, 대표단을 비엔나에 보냈습니다."
 poland.221.a:0 "환영한다."
-
 poland.222.t:0 "폴스키 라디오 S.A. - Raszyn의 확장"
 poland.222.d:0 "오늘의 첫 라디오 방송은 라쉰의 폴스키 라디오 S.A에 의해 운영되는 최신 라디오 방송국이 맡았습니다. 유럽에서 가장 강한 이 라디오 방송국은 120킬로와트의 전력으로 수백 킬로미터 떨어진 곳까지 전파를 송신할 수 있습니다. 이 장거리 방송국은 전국의 모든 폴란드 시민들이 그들의 집에서 편안하게 이 소식과 다른 중요한 정보를 들을 수 있게 해줄 것입니다."
 poland.222.a:0 "환상적인 업적이군."
@@ -1366,32 +1233,18 @@ poland.238.d:0 "제 1차 폴란드 분할 때 합스부르크 오스트리아가
 poland.238.a:0 "갈리치아와 로도메리아가 우리 품에 돌아왔다!"
 
 ### Global Flags ###
-POL_REPUBLIC:0 "폴란드 공화국 선포"
-POL_SYNDIE:0 "생디칼리스트들이 폴란드를 장악했습니다"
-POL_NATIONALISTS:0 "국가주의자들이 폴란드를 장악했습니다"
-POL_SIKORSKI:0 "시코르스키가 폴란드를 장악했습니다"
-POL_WE:0 "프레데리크 크리스티안 사스키가 왕이 되었습니다"
-POL_HA:0 "카를 올브레히트 폰 합스부르크가 왕이 되었습니다"
-POL_MEN:0 "멘도그 3세가 왕이 되었습니다"
-POL_CZA:0 "아우구스틴 1세 차르토리스키가 왕이 되었습니다"
 POL_MON_COMPROMISE:0 "군주주의자들과의 타협"
 POL_SEJM_ABOLISHED:0 "셰임 폐지"
 POL_central_forts:0 "적당한 방어 요새를 얻습니다 \n"
 POL_modlin:0 "수도 근처에 §Y2§! 요새가 출현합니다 \n"
-POL_RAD:0 "카롤 라덱이 폴란드를 이끌 것입니다"
-POL_ROZA:0 "로자 룩셈부르크가 폴란드를 이끌 것입니다"
-POL_JAKUB:0 "야쿱 하네츠키가 폴란드를 이끌 것입니다"
 UKR_Alone:0 "우크라이나는 혼자입니다"
 pol_nationalists_overthrow_monarchy:0 "§R국가주의자들의 승리!§! \n"
 pol_syndicalists_overthrow_monarchy:0 "§R생디칼리스트들의 승리!§! \n"
 POL_gminy_tooltip:0 " §Y5§! 민병대 사단을 얻습니다 \n"
 POL_polish_state:0 "왕정을 폐지하고 새로운 폴란드 국가를 설립합니다"
-russ_gives_passports:0 "러시아-우크라이나 여권"
 POL_PRUSSIANPARTITION:0 "프로이센 분할에 개입하자"
 POL_must_own_coast:0 "이 중점이 효과를 발휘하기 위해선 항구가 필요합니다"
 POL_KILLED_BROTHER:0 "국왕의 형제를 제거하다"
-POL_UNDER_GER:0 "폴란드가 독일 지배하에 있습니다"
-POL_puppetoob_tt:0 "3개의 사단이 바르샤바에 증원될 것입니다"
 
 ### Political Parties ###
 POL_totalist_party:0 "자유노동자당"
@@ -1419,8 +1272,6 @@ POL_national_populist_party_long:0 "대중국민연합"
 ### Special Parties ###
 POL_paternal_autocrat_military_party:0 "정부협조 무당파 의원단"
 POL_paternal_autocrat_military_party_long:0 "정부협조 무당파 의원단"
-POL_totalist_roza_party:0 "폴란드왕국 사민파"
-POL_totalist_roza_party_long:0 "폴란드왕국 사민파"
 
 ### Research ###
 german_research_name:0 "카이저 빌헬름 학회"

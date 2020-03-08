@@ -6,12 +6,6 @@
 ### General Naval Equipment ###
 ###############################
 
-### Folders ###
-escort_ships_folder:0 "함선 설계"
-escort_ships_folder_desc:0 "해군은 어느 국가에나 중요합니다."
-escort_ships_nonmtg_folder:0 "함선 설계"
-escort_ships_nonmtg_desc:0 "해군은 어느 국가에나 중요합니다."
-
 ### Technologies ###
 weltkrieg_destroyer_nonmtg:0 "세계대전기 구축함"
 weltkrieg_destroyer_nonmtg_desc:0 "세계대전기 구축함"
@@ -21,7 +15,6 @@ naval_equipment:0 "함선"
 acr_tech:0 "초기 장갑함, 대형 장갑함, 재설계된 장갑함"
 ex_cvh_tech:0 "실험적 중항공모함"
 el_cvh_tech:0 "초기 중항공모함"
-cvh_tech:0 "중항공모함"
 ebc_tech:0 "고속순양전함, 방호순양전함, 세계대전기 순양전함, 초기 고속전함"
 nav_infra_one:0 "해군 기반시설 결정"
 nav_infra_two:0 "개선된 해군 기반시설 결정"
@@ -183,10 +176,10 @@ EQ_MOD_SLOT_port_2_custom_slot_TITLE:0 "좌현 2 슬롯"
 #ATTENTION! THIS FILE IS SORTED BY TAG, NOT BY NAME
 
 # Fleet Name
-FLEET_NAME_USA:0 "USS Navy Group $NUMBER$"
+#FLEET_NAME_USA:0 "USS Navy Group $NUMBER$" vanilla duplicate
 FLEET_NAME_CSA:0 "CSS Navy Group $NUMBER$"
-FLEET_NAME_GER:0 "$COUNTRY$ Flotta $NUMBER$"
-FLEET_NAME_SOV:0 "$NUMBER$-ya Sovetskaya Flotiliya"
+#FLEET_NAME_GER:0 "$COUNTRY$ Flotta $NUMBER$" vanilla duplicate
+#FLEET_NAME_SOV:0 "$NUMBER$-ya Sovetskaya Flotiliya" vanilla duplicate
 FLEET_NAME_RUS:0 "$NUMBER$-ya Rossiyskiy Flotiliya"
 FLEET_NAME_HOL:0 "$NUMBER$. Vloot"
 FLEET_NAME_OTT:0 "$NUMBER$. Donanma Firkasi"

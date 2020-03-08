@@ -853,10 +853,7 @@ chi_for.40.d3:0 "The Central Committee is furious that we have refused to join t
 chi_for.40.a:0 "At least we survived."
 chi_for.40.b:0 "This is frustrating."
 
-chi_for.41.t:0 "Hunan Wishes to Join"
-chi_for.41.d1:0 "Hunan has proposed that they should join our government to prevent the revolution from failing yet again, their support is vital in the situation we're in so we are grateful for their willingness to put country before government" #Can be initiated both by Tang Shengzhi AND Cheng Jian, so try not to mention any specific people here, unless you're grabbing the country leader.
-chi_for.41.d2:0 "Hunan has proposed that they should join our government to prevent the revolution from failing yet again, their support is much appreciated and we should respect their willingness to put country before government"
-chi_for.41.a:0 "We will achieve the revolution together!"
+#chi_for.41 removed
 
 chi_for.42.t:0 "The Kuomintang Sends A Diplomatic Mission"
 chi_for.42.d:0 "The Left Kuomintang of China has sent a diplomatic mission to our government, since they are also left leaning we should make an effort to support their government as it is the greatest chance of any form of syndicalism arising there."
@@ -879,7 +876,7 @@ chi_for.45.b:0 "We shall never surrender!"
 chi_for.46.t:0 "[FROM.GetNameDefCap] Seeks Peace"
 chi_for.46.d:0 "We have achieved our goals and now have the top diplomat of [FROM.GetNameDefCap] at our table, it is now up to us if we want to further push the war south in the hopes of more land."
 chi_for.46.a:0 "We are victorious."
-chi_for.46.a:0 "We demand an unconditional surrender!"
+chi_for.46.b:0 "We demand an unconditional surrender!"
 
 chi_for.47.t:0 "[FROM.GetNameDefCap] Refuses Peace"
 chi_for.47.d:0 "Peace has been refused so it is now our duty to enact revenge for this injustice, we will see the Red Raj burn before we renegotiate!"
@@ -1344,8 +1341,8 @@ CHI_mission_secure_gannan_desc:0 "Our proximity to southern Jiangxi and our prev
 KR_CHI_violated_AOG:0 "Nationalized German Businesses"
 CHI_KR_research:0 "Chinese Military Coordination Committee"
 CHI_KR_research_desc:0 "A product of the Left KMT's alliances with local pro-Nationalist forces, the CMCC is a formalized program designed to coordinate the production of materiel and the training of officers."
-CHI_KR_industry_tech_group_name:0 "Chinese Military Coordination Committee"
-CHI_KR_industry_tech_group_name_desc:0 "A product of the Left KMT's alliances with local pro-Nationalist forces, the CMCC is a formalized program designed to coordinate the production of materiel and the training of officers"
+CHI_KR_research_tech_group_name:0 "Chinese Military Coordination Committee"
+CHI_KR_research_tech_group_desc:0 "A product of the Left KMT's alliances with local pro-Nationalist forces, the CMCC is a formalized program designed to coordinate the production of materiel and the training of officers"
 CHI_two_gun_cohen:0 "Two-Gun Cohen"
 CHI_SYND:0 "Repaid The Syndicalists"
 CHI_SYND_MAD:0 "Betrayed The Syndicalists"

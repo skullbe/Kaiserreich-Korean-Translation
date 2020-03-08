@@ -227,12 +227,6 @@ GER_reichstag_in_progress_tooltip:0 "우리는 정책이 실행되는 동안 다
 german_investments_flock_in_aze:0 "Investors will increasingly flock to Azerbaijan."
 GER_frapartwll_tt:0 "왈로니아 민병대 사단이 형성될 것입니다."
 GER_frapartals_tt:0 "두 개의 알자스 민병대 사단이 형성될 것입니다."
-GER_namaskaris_tt:0 "두 개의 새로운 남서아프리카 아스카리 사단이 형성될 것입니다."
-GER_tnzaskaris_tt:0 "여섯 개의 새로운 탕가니카 아스카리 사단이 형성될 것입니다."
-GER_cnraskaris_tt:0 "네 개의 새로운 콩고 아스카리 사단이 형성될 것입니다."
-GER_ceaaskaris_tt:0 "세 개의 새로운 미텔아프리카 아스카리 사단이 형성될 것입니다."
-GER_ngraskaris_tt:0 "세 개의 새로운 나이지리아와 카메룬 아스카리 사단이 형성될 것입니다."
-GER_ghaaskaris_tt:0 "세 개의 새로운 아샨티 아스카리 사단이 형성될 것입니다."
 GER_ruswar_tt:0 "11개의 새로운 예비 사단이 추가될 것입니다."
 GER_cannot_join_ally_war:0 "이 전쟁에 참전할 수 없습니다"
 GER_colonial_resources_distribution_full_tt:0 "§R8§!개의 민간공장이 §R365§!일 동안 식민지들의 요구에 맞추기 위해 사용될 것입니다.\n"
@@ -1498,15 +1492,15 @@ gerdom.201.a:0 "인터내셔널은 인간의 권리를 위해 싸운다!"
 
 gerdom.202.t:0 "독일 자원병이 도착하다!"
 gerdom.202.d:0 "베르톨트 브레히트와 다른 독일 생디칼리스트들이 우리의 투쟁에 지원하기 위해 두 자원자 사단을 이끌고 왔습니다!"
-gerdom.201.a:0 "인터내셔널은 인간의 권리를 위해 싸운다!"
+gerdom.202.a:0 "인터내셔널은 인간의 권리를 위해 싸운다!"
 
 gerdom.203.t:0 "독일 자원병이 도착하다!"
 gerdom.203.d:0 "베르톨트 브레히트와 다른 독일 생디칼리스트들이 우리의 투쟁에 지원하기 위해 두 자원자 사단을 이끌고 왔습니다!"
-gerdom.201.a:0 "인터내셔널은 인간의 권리를 위해 싸운다!"
+gerdom.203.a:0 "인터내셔널은 인간의 권리를 위해 싸운다!"
 
 gerdom.204.t:0 "독일 자원병이 도착하다!"
 gerdom.204.d:0 "베르톨트 브레히트와 다른 독일 생디칼리스트들이 우리의 투쟁에 지원하기 위해 두 자원자 사단을 이끌고 왔습니다!"
-gerdom.201.a:0 "인터내셔널은 인간의 권리를 위해 싸운다!"
+gerdom.204.a:0 "인터내셔널은 인간의 권리를 위해 싸운다!"
 
 gerdom.205.t:0 "침묵하는 라인란트"
 gerdom.205.d:0 "수많은 저명한 생디칼리슴 동조자들이 나라 밖으로 나와 싸우고, 외국에서 죽기를 희망하며, 우리 땅의 긴장감이 악영향없이 크게 감소했습니다. 라인란트는 마침내 약간의 평화와 조용함을 맛보고 있습니다."
@@ -2330,14 +2324,15 @@ gerfor.187.t:0 "포위당한 제국"
 gerfor.187.d:0 "세계대전 이후, 러시아는 큰 모욕을 당하고 영토를 잃어버렸습니다. 늦게까지 팽창주의 의제에도 불구하고, 독일 내의 대부분의 정책 전문가들은 이반이 결코 우리의 힘에 도전하지 않을 것이라는 데 동의했습니다--이는 오늘 동방에서 들려온 공식적인 선전포고 때문에 끔찍하게 틀린 것으로 판명되었습니다. 러시아군이 국경을 넘어 전면적인 공세를 가하고 있다는 보고가 들어왔습니다. 우리가 코뮌주의자들과의 전쟁 준비가 되었는지 논쟁의 여지가 있습니다..."
 gerfor.187.a:0 "하지만 우리는 버텨낼 것이다."
 
-gerfor.188.t:0 "제국 조약 초대"
-gerfor.188.d:0 "~mw~ is making me work in gruesome conditions please send help!"
-gerfor.188.a:0 "기꺼이."
-gerfor.188.b:0 "No fuck off and die in ~mw~'s mines"
+gerfor.188.t:0 "An Invitation to the Reichspakt"
+gerfor.188.d:0 "Building upon their previous showings of goodwill and the signing of a pact of non-aggression between our two countries, Germany today has offered us an official invitation into the Reichspakt, Germany's economic and military alliance. Joining would bring great benefits to our nation, but put us under strong German influence and risks war with Russia. How should we respond to the invitation?"
+gerfor.188.a:0 "We graciously accept."
+gerfor.188.b:0 "We must decline."
 
-gerfor.189.t:0 "불가리아가 거부하다"
-gerfor.189.d:0 "~mw~ is making me work in gruesome conditions please send help!"
-gerfor.189.a:0 "너무 늦었어..."
+gerfor.189.t:0 "[From.GetNameDefCap] Refuses"
+gerfor.189.d:0 "While German diplomatic envous spent days in the [From.GetAdjective] capital, attempting to convince [From.GetAdjective] officials of our good intentions, they have rebuffed any intentions to warm the relations between [GER.GetNameDef] and [From.GetNameDef]."
+gerfor.189.a:0 "We will control [From.GetNameDefCap], one war or another."
+gerfor.189.b:0 "We can do nothing."
 
 ### Flavour Events ###
 
@@ -2469,59 +2464,6 @@ germit.13.d:0 "미텔오이로파의 회원 자격으로 우리는 무역 및 �
 germit.13.a:0 "어떻게 우리 중 절반이나 여기에 서명을 했었지?"
 
 ### Events ###
-gerdom.269.t:0 "크레타에 대한 의문"
-gerdom.269.d:0 "검은 월요일 이후 우리의 경제는 난관을 겪고 있습니다. 제국의 식민지로 남길 땅을 엄중히 검토해야 합니다. 중점적으로 조사 중인 땅은 크레타입니다. 크레타는 크고 방어하기에도 몰타보다 어렵습니다. 또한 유지 비용도 더 많이 듭니다. 적자를 만회해야 합니다. 우선 이 땅을 오스만이나 그리스에게 매각해야 합니다. 어떻게 할까요?"
-gerdom.269.a:0 "크레타를 계속 보유한다."
-gerdom.269.b:0 "오스만에 크레타를 매각한다."
-gerdom.269.c:0 "그리스에 크레타를 매각한다."
-
-gerdom.270.t:0 "크레타 매각"
-gerdom.270.d:0 "독일이 크레타 섬을 팔겠다는 제안을 보냈습니다. 우리에게는 분명히 큰 돈입니다만, 섬을 가진다면 지중해에서 우리의 위치를 다시 한번 확고히 할 수 있습니다. 어떻게 답신을 보낼까요?"
-gerdom.270.a:0 "잘 돌아왔다, 크레타여!"
-gerdom.270.b:0 "돌무더기는 필요없다."
-
-gerdom.271.t:0 "크레타 매각"
-gerdom.271.d:0 "오스만 대사가 전보를 보내왔습니다. 술탄이 크레타 구입을 수락했다고 합니다. 크레타 섬에 대한 통제권을 이양하기 위한 준비를 해야겠습니다."
-gerdom.271.a:0 "좋았어!"
-
-gerdom.272.t:0 "오스만은 크레타를 원치 않는다"
-gerdom.272.d:0 "오스만이 우리의 제안에 대해 답했습니다. 단호하게도 크레타를 원하지 않는다고 합니다. 어떻게 할까요?"
-gerdom.272.a:0 "그럼 크레타를 계속 가지고 있겠다."
-gerdom.272.b:0 "그리스와 이야기해보자."
-
-gerdom.273.t:0 "크레타 매각"
-gerdom.273.d:0 "독일이 크레타 섬을 팔겠다는 제안을 보냈습니다. 우리에게는 분명히 큰 돈입니다만, 섬을 가진다면 지중해에서 우리의 위치를 다시 한번 확고히 할 수 있습니다. 어떻게 답신을 보낼까요?"
-gerdom.273.a:0 "잘 돌아왔다, 크레타여!"
-gerdom.273.b:0 "돌무더기는 필요없다."
-
-gerdom.274.t:0 "크레타 매각"
-gerdom.274.d:0 "그리스 대사가 전보를 보내왔습니다. 국왕이 크레타 구입을 수락했다고 합니다. 크레타 섬에 대한 통제권을 이양하기 위한 준비를 해야겠습니다."
-gerdom.274.a:0 "좋았어!"
-
-gerdom.275.t:0 "그리스는 크레타를 원치 않는다"
-gerdom.275.d:0 "그리스가 우리의 제안에 대해 답했습니다. 단호하게도 크레타를 원하지 않는다고 합니다. 어떻게 할까요?"
-gerdom.275.a:0 "그럼 크레타를 계속 가지고 있겠다."
-gerdom.275.b:0 "오스만 제국과 이야기해보자."
-
-gerdom.276.t:0 "크레타 지역"
-gerdom.276.d:0 "독일과의 거래가 끝났습니다. 크레타의 상황은 우리나라에 맞서는 전쟁터나 다름없습니다. 이렇듯 고유적으로 형성된 크레타국의 정체성은 섬에 대한 통제가 약했기 때문입니다. 많은 장관들이 크레타 정부를 속여넘기자는 말을 합니다. 몇몇 매파 인물들은 직접적인 합병을 이야기합니다. 어떻게 할까요?"
-gerdom.276.a:0 "새 크레타 정부를 수립한다."
-gerdom.276.b:0 "자치권은 끝이다!"
-
-gerdom.277.t:0 "크레타 지역"
-gerdom.277.d:0 "독일과의 거래가 끝났습니다. 크레타의 상황은 우리나라에 맞서는 전쟁터나 다름없습니다.  세계대전 이전까지 크레타는 우리 땅이었습니다. 많은 장관들이 크레타국을 합병하자는 말을 합니다. 몇몇 인물들은 간접적으로 예속시키자는 이야기를 합니다. 어떻게 할까요?"
-gerdom.277.a:0 "새 크레타 정부를 수립한다."
-gerdom.277.b:0 "두 번째 에노시스를 찬미하라!"
-
-gerdom.278.t:0 "제2차 세계대전 발발!"
-gerdom.278.d:0 "독일과 프랑스가 다시 전쟁을 벌였습니다! 우리에겐 생디칼리스트들에 대항해 참전할 의무가 있습니다. ‘에노시스’ 형제들이 힘을 빌려줄 것입니다..."
-gerdom.278.a:0 "에노시스 형제들이 정부를 전복시켰다!"
-
-gerdom.284.t:0 "크레타의 지위"
-gerdom.284.d:0 "황제 연방 계획을 실행하기 위해, 우리는 그 계획을 독일 통제 하에 있는 여러 요충지에 얼마나 적용할 것인지 결정해야 합니다. 그 중 하나는 크레테 섬입니다. 이 섬은 혼란스러운 역사를 가졌고, 많은 외국 세력들이 이 섬을 눈독들이고 있습니다. 우리는 이 섬을 더 잘 방어할 수 있을 지도 모르며, 한편으로는 '가라앉지 않는 항공 모함' 은 일을 그르칠 일이 없을 입니다."
-gerdom.284.a:0 "제한적인 자치권을 부여한다"
-gerdom.284.b:0 "직할통치를 유지한다"
-
 ostraum.2000.t:0 "백루테니아가 더 많은 자치권에 대해 논의하다"
 ostraum.2000.d:0 "루테니아의 왕 발데마르 폰 호엔촐레른 1세 정부의 성명서에 따르면 경제적인 분야에서 더 많은 자치권을 요구해왔습니다. 그들은 아직도 회복 중에 있는 독일 경제의 경제 성장에 대한 부담을 덜어 줄 수 있고, 자신들의 모호한 정부를 보다 정당한 정부로 보이게 할 것이라는 두가지 사유로 자신들의 주장을 정당화하였습니다."
 ostraum.2000.a:0 "심각한 시기에는 희생을 감수해야 한다."

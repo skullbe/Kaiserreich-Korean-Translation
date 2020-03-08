@@ -102,10 +102,7 @@ GXC_AOG_secure_border_desc:0 "We know for sure that the bandits came from Guangx
 
 GXC_secure_south_decisions:0 "Securing Southern China"
 GXC_secure_south_decisions_desc:0 "Liangguang is now in a position to establish hegemony over Southern China. Where hostile Cliques are weak and vulnerable, we must strike, and bring them to our fold. Soon enough, we will have uncontested control of this part of China, making us highly influential in national politics."
-
-GXC_secure_YUN:0 "[YUN.GetFlag] Secure Yunnan"
-GXC_secure_HNN:0 "[HNN.GetFlag] Secure Hunan"
-GXC_secure_SZC:0 "[SZC.GetFlag] Secure Sichuan"
+GXC_secure_south:0 "[FROM.GetFlag] Secure [FROM.GetCliqueShortName]"
 
 GXC_finding_backers:0 "Finding Backers"
 GXC_finding_backers_desc:0 "Since the collapse of the League, that status of the Central Government has been confusing at best. In order to secure our own position as one of Southern China's promiment leaders, we should find backers among the factions trying to seize control of China's government or, potentially, Japan."
@@ -119,8 +116,11 @@ GXC_align_with_japan_desc:0 "With China ravaged by radicalism and warlordism, th
 GXC_UPC_reunification_decisions:0 "Federalist Reunification"
 GXC_UPC_reunification_decisions_desc:0 "The time has come. With the United Provinces consolidated, we can now expand our influence in the region by toppling the remaining unruly warlords of Southern China and handing power to the people. When the Republic secures this half of the nation, we will be able to negotiate with the northern militarists and republicans for the reunification of our beloved country."
 
-GXC_UPC_ultimatums:0 "[FROM.GetFlag] Contact [FROM.GetNameDef]"
+GXC_UPC_ultimatums:0 "[GXC_UPC_ultimatums_titles]"
 GXC_UPC_ultimatums_desc:0 "[GXC_UPC_ultimatums_descs]"
+
+GXC_UPC_ultimatums_titles_YUN:0 "[FROM.GetFlag] Invite Tang Jiyao"
+GXC_UPC_ultimatums_titles_default:0 "[FROM.GetFlag] Contact [FROM.GetNameDef]"
 
 GXC_UPC_ultimatums_descs_HNN:0 "Many in Hunan support Federalism, but their control of the provincial government is not guaranteed. Regardless, its leadership should be given an opportunity to make amends and return power to the Hunanese people."
 GXC_UPC_ultimatums_descs_SZC:0 "The province of Sichuan has seen terrible blights after terrible blights. Famine, warlords, bandits, and so on. Perhaps the United Provinces can bring stability to the troubled province and restore the people's faith?"
@@ -128,18 +128,10 @@ GXC_UPC_ultimatums_descs_LEP:0 "There is irony to be noted that we are able to p
 GXC_UPC_ultimatums_descs_ANQ:0 "Chen Tiaoyuan is definitely a man to be respected and his anti-concessionist stance is admirable. While we are unsure of his actual character, there is a chance he could be pulled over to our cause and limit bloodshed among countrymen."
 GXC_UPC_ultimatums_descs_SQI:0 "We expect nothing from the leadership of Shandong. These are merely formalities in the hopes that the poor people of the troubled province knows that we come as the liberators to topple their oppressors."
 GXC_UPC_ultimatums_descs_SHX:0 "Yan Xishan is a peculiar man to say the least. We certainly cannot say that he is a Federalist, but it is clear that the CZGP has influenced his leadership. Clearly, the pragmatic stateman can see that opposing us would go against what he claims to stand for? Otherwise, we can try to find a settlement with the Guominjun again, as we tried back in 1921."
+GXC_UPC_ultimatums_descs_YUN:0 "Yunnan is known as a republican stronghold, but its governor may not be wise enough to see our movement as allies. Warlords must be eliminated and power returned to the people."
+GXC_UPC_ultimatums_descs_YUN_tang:0 "Tang Jiyao was made vice-chairman of the Public Interest Party at its founding, but his allegiance to the movement is questionable. Once we are certain he is loyal, we can bring him into the United Provinces."
 
-GXC_ultimatum_YUN:0 "[YUN.GetFlag] Ultimatum to Yunnan"
-GXC_ultimatum_YUN_desc:0 "Yunnan is known as a republican stronghold, but its governor may not be wise enough to see our movement as allies. Warlords must be eliminated and power returned to the people."
-GXC_bring_in_tang:0 "[YUN.GetFlag]Invite Tang Jiyao"
-GXC_bring_in_tang_desc:0 "Tang Jiyao was made vice-chairman of the Public Interest Party at its founding, but his allegiance to the movement is questionable. Once we are certain he is loyal, we can bring him into the United Provinces."
-
-GXC_ultimatum_TIB:0 "[TIB.GetFlag] Ultimatum to Tibet"
-GXC_ultimatum_TIB_desc:0 ""
-GXC_ultimatum_XSM:0 "[XSM.GetFlag] Ultimatum to Ma Clique"
-GXC_ultimatum_XSM_desc:0 ""
-GXC_ultimatum_SIK:0 "[SIK.GetFlag] Ultimatum to Xinjiang"
-GXC_ultimatum_SIK_desc:0 ""
+GXC_ultimatum_northwest:0 "[FROM.GetFlag] Ultimatum to [FROM.GetCliqueShortName]"
 
 GXC_purge_KMT:0 "[CHI.GetFlag] Purge the Party-State"
 GXC_purge_KMT_desc:0 ""
@@ -445,7 +437,7 @@ GXC_federalist_support_-2:0 "매우 낮은 지지율"
 GXC_federalist_support_-2_desc:0 "The Federalist Government is currently unpopular. It has almost no legitimacy in the eyes of the Chinese people and the rival governments see us as mere upstarts. We will have to work very hard to win the people over to our cause."
 
 GXC_federalist_support_-1:0 "낮은 지지율"
-GXC_federalist_support_-1:0 "The Federalist Government is currently unpopular. It has almost no legitimacy in the eyes of the Chinese people and the rival governments see us as mere upstarts. We will have to work very hard to win the people over to our cause."
+GXC_federalist_support_-1_desc:0 "The Federalist Government is currently unpopular. It has almost no legitimacy in the eyes of the Chinese people and the rival governments see us as mere upstarts. We will have to work very hard to win the people over to our cause."
 
 GXC_federalist_support_0:0 "불충분한 지지율"
 GXC_federalist_support_0_desc:0 "The Federalist Government is currently insignificant outside of Southern China. It is not seen as a serious contender in the eyes of the Chinese people and the rival governments see us as mere upstarts. We are slowly winning the people over to our cause."

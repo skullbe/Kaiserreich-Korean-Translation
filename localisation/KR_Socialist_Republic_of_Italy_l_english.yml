@@ -86,6 +86,13 @@ SRI_fifth_congress_done:0 "제5차 평의회 종결"
 SRI_cultural_revolution_begins:0 "문화 혁명을 시작함"
 SRI_pisa_pile_1:0 "앤리코 페르미가 연구에 착수함"
 SRI_supporters_raised:0 "§Y3§! 롬바르디와 베네치아에서 저항군이 봉기함"
+SRI_cannot_call_italy:0 "Cannot call allies into a war for Italy unless the Second Weltkrieg has begun"
+SRI_cannot_join_italy:0 "Cannot join §Y[SRI.GetNameDef]§! in their war for Italy unless the Second Weltkrieg has begun"
+SRI_balance_not_broken:0 "§YNOTE: We will not be able to call our allies into this war, due to fear of outside intervention. We will be fighting on our own!§!\n\n"
+SRI_balance_broken:0 "The balance in Italy has been broken"
+SRI_balance_explanation:0 "§Y[SRI.GetNameDef]§! will not be able to call its allies into the war, provided the balance is not upset by another major power intervening\n\n"
+SRI_balance_will_be_broken:0 "Our aggressive action against §Y[SRI.GetNameDef]§! means that the balance in Italy will be considered broken - they will be able to call in their allies against us without fear of intervention!\n\n"
+AUS_balance_will_be_broken:0 "Our aggressive action against §Y[AUS.GetNameDef]§! means that the balance in Italy will be considered broken - other Italian states will be able to call in their allies against us without fear of intervention!\n\n"
 
 ### Ideas ###
 SRI_red_guards_idea:0 "적위대"

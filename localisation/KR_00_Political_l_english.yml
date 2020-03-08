@@ -1,24 +1,14 @@
 ﻿l_english:
 
 ### Popularity ###
-party_pop_0_00:0 "0-10% 정당 인기도"
-party_pop_0_10:0 "10-20% 정당 인기도"
-party_pop_0_20:0 "20-30% 정당 인기도"
-party_pop_0_30:0 "30-40% 정당 인기도"
-party_pop_0_40:0 "40-50% 정당 인기도"
-party_pop_0_50:0 "50-60% 정당 인기도"
-party_pop_0_60:0 "60-70% 정당 인기도"
-party_pop_0_70:0 "70-80% 정당 인기도"
-party_pop_0_80:0 "80-90% 정당 인기도"
-party_pop_0_90:0 "90-100% 정당 인기도"
 ruling_party_popularity_change:0 "[GetRulingIdeologyFullName]의 인기도 변화: [?ideology_change_var|+2%]\n"
 
 ### Syndie Soc Dem Notice ###
 SYNDIE_SOC_DEM_NOTICE:0 "(생디칼리스트 지지)"
 
 ### Opening Event ###
-kr.political.1.t:0 "카이저라이히 Beta 0.11 - 집으로 가는 머나먼 길"
-kr.political.1.d:0 "카이저라이히 개발진이 카이저라이히 베타버전 0.10.1를 하츠오브아이언4에 선사합니다!\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경 할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, 깃허브 이슈트래커에 제보해주셔서 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
+kr.political.1.t:0 "카이저라이히 Beta 0.11.1 - 집으로 가는 머나먼 길"
+kr.political.1.d:0 "카이저라이히 개발진이 카이저라이히 베타버전 0.11.1를 하츠오브아이언4에 선사합니다!\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경 할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, 깃허브 이슈트래커에 제보해주셔서 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
 kr.political.1.a:0 "물론이죠!"
 
 ### Returning Cores ###
@@ -50,8 +40,6 @@ kr.political.208.d:0 "If you're seeing this, it's an issue. Stop tag-switching."
 KR_different_ideology:0 "다른 이념"
 KR_similar_ideology:0 "비슷한 이념"
 KR_same_ideology:0 "같은 이념"
-same_ruling_party:0 "기본"
-different_party_types:0 "기본"
 KR_ideology_allowed:0 "장관이 해당국가의 이념을 허락함"
 KR_factional_rivalry:0 "당파 경쟁"
 head_of_gov_available:0 "§R정부수반은 직접 고용하거나 해고할 수 없습니다.§! 이벤트나 국가중점, 혹은 결정을 통해서 정해집니다.\n\n이 목록에는 국가수반으로 배정될 수 있는 모든 이들을 보여주기 때문에, 현재 정부수반과 관계가 좋지 않은 인물, 다른 국가에 있는 인물, 혹은 사망한 인물이 있을 수도 있습니다."
@@ -80,8 +68,7 @@ KR_party_pop_more_than_75:0 "정당 인기도가 §Y75%§! 보다 많음"
 DIPLOMACY_DOCKING_RIGHTS:0 "정박권"
 
 ### Decisions ###
-political_actions:0 "정치 행동"
-annexation_decisions:0 "합병 결단"
+#political_actions:0 "Political Actions" duplicate
 legislate_more_freedoms:0 "입법의 자유"
 legislate_more_freedoms_desc:0 "아마 우리나라의 안정도를 향상시킬 가장 간단한 방법은 바로, 국민들에게 원하는 것을 해주는 것일겁니다. 거북한 타협안도 거기에 포함 되겠지만, 이상적으로 이것은 질서가 복구될 때까지 대중들을 설득할 수 있는 일시적인 조치일뿐입니다."
 police_crackdown:0 "경찰의 탄압"

@@ -650,11 +650,11 @@ wifpol.17.d:0 "Walter Guiness and the rest of the commission have come up with a
 wifpol.17.a:0 "Increase our funding in the region"
 wifpol.17.b:0 "Surely this isn't our responsibility!"
 
-wifpol.19.t:0 "캐나다가 원조를 거절하다"
-wifpol.19.d:0 "It seems the Moyne Commissions attempt to obtain funding for the development of the West Indies from the imperial government has failed, with it being stamped out in parliament. We are now expected to fund the multitude of projects as a result from the commission using our own measly income. This has also slightly strained relations among our populace, with the socialists suing this as another case of the empires betrayals against our people."
-wifpol.19.a:0 "We can make it on our own, then"
+wifpol.18.t:0 "Funding from Canada"
+wifpol.18.d:0 "Thanks to the Moyne Commission, the imperial government has begun a slow overtime investment into the West Indies economy, granting a large sum over a period of two years. This has helped improve the face of the imperial family and Canada among our people, serving as a good way to calm down the socialist movements along with tensions with the empire. We can also expect to start construction projects to help increase the amount of jobs available within the West Indies overtime as a result. Hopefully this will pay off in the end."
+wifpol.18.a:0 "Hopefully this can assist us"
 
-wifpol.19.t:0 "On our Lonesome"
+wifpol.19.t:0 "Canada Refuses Aid"
 wifpol.19.d:0 "It seems the Moyne Commissions attempt to obtain funding for the development of the West Indies from the imperial government has failed, with it being stamped out in parliament. We are now expected to fund the multitude of projects as a result from the commission using our own measly income. This has also slightly strained relations among our populace, with the socialists suing this as another case of the empires betrayals against our people."
 wifpol.19.a:0 "We can make it on our own, then"
 
@@ -726,6 +726,11 @@ wifpol.30.e:0 "The Unity Party!"
 wifpol.31.t:0 "사회주의 혁명"
 wifpol.31.d:0 "The socialist movement in the West Indies has been angered greatly, and it has seen its culmination. A revolution has been declared across the West Indies, and a syndicalist transitionary government under Tubal Uriah Butler's British Citizens' and Workers' Home Rule Party has been instituted. The Governor-General has been ousted from his seat in Kingston, and the islands are experiencing rapid change."
 wifpol.31.a:0 "혁명을 위하여!"
+
+wifpol.3100.t:0 "Revolution in the West Indies"
+wifpol.3100.d:0 "It seems the mismanagement of the West Indies has finally become a flashpoint. The long-suppressed socialist movement in the Indies has been angered greatly by recent upheavals, triggering a revolution across the West Indies. A syndicalist transitional government under Tubal Uriah Butler's British Citizens' and Workers' Home Rule Party has been instituted. Our Governor-General has been ousted from his seat in Kingston, and now we face the possibility of an Internationale outpost right on our doorstep. We face a difficult choice - withdrawing will surely see the rebels align with our hated enemies in the Home Isles, yet a campaign in the Caribbean could take up vital resources needed for the reclamation of the Isles."
+wifpol.3100.a:0 "We must take them down!"
+wifpol.3100.b:0 "Withdraw. They are not worth the costs."
 
 wifpol.32.t:0 "총독의 쿠데타"
 wifpol.32.d:0 "As the socialist current encroached on the West Indies, the Governor-General kept receiving more and more complaints from his Majesty's most loyal subjects. More and more calls for equality and wealth distribution have muffled the cries for help of the people who helped the Crown most.\nAs the country has drifted further and further apart from the Crown, the Governor-General has made a hard choice today. He elected to listen to the demands of the few loyalists left in the federation and moved in with the army to replace the democratically elected government. Martial law has been declared, and steps have started to be taken to revert the most damaging reforms."

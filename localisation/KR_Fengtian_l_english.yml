@@ -109,6 +109,9 @@ FNG_mantetsu_construction_speed_text_last:0 "건설 속도: [?FNG.FNG_mantetsu_c
 FNG_mantetsu_max_efficiency_text:0 "£prod_eff_cap  생산 효율성 한도: [?FNG.FNG_mantetsu_max_efficiency|=%+]\n"
 FNG_mantetsu_max_efficiency_text_last:0 "£prod_eff_cap  생산 효율성 한도: [?FNG.FNG_mantetsu_max_efficiency|=%+]"
 FNG_mantetsu_factory_output_text:0 "공장 생산량: [?FNG.FNG_mantetsu_factory_output|=%+]"
+FNG_mantetsu_factory_output_text_last:0 "Factory Output: [?FNG.FNG_mantetsu_factory_output|=%+]"
+FNG_mantetsu_factories_sent_text:0 "£civ_factory  Civilian factories to Japan: [?FNG.FNG_mantetsu_factories|-0]"
+JAP_mantetsu_factories_received_text:0 "\n£civ_factory  Civilian factories from [FNG.GetCliqueShortName]: [?FNG.FNG_mantetsu_factories|+0]"
 
 FNG_mantetsu_profits_modifier:0 "£pol_idea 만철로부터의 이익"
 FNG_mantetsu_profits:0 "만철로부터의 이익"
@@ -129,8 +132,21 @@ FNG_ANQ_Reconstruction_Plan:0 "안경 재건 계획"
 FNG_ANQ_Reconstruction_Plan_desc:0 "안경이 재건되면 재수복 전쟁에서 우리를 도울 수 있으므로, 우리는 그들에게 원조를 보내고 있습니다."
 
 ###Decision Costs###
-FNG_200_inf_30_CP:0 " £rifle_texticon §H200§! £command_power §Y30§!"
-FNG_200_inf_30_CP_blocked:0 "£rifle_texticon §R200§! £command_power §R30§!"
+
+FNG_15_CP:0 "£command_power §Y15§!"
+FNG_15_CP_blocked:0 "£command_power §R15§!"
+
+FNG_80_CP:0 "£command_power §Y80§!"
+FNG_80_CP_blocked:0 "£command_power §R80§!"
+
+FNG_800_inf_30_CP:0 "£rifle_texticon §H800§! £command_power §Y30§!"
+FNG_800_inf_30_CP_blocked:0 "£rifle_texticon §R800§! £command_power §R30§!"
+
+FNG_600_inf_30_CP:0 "£rifle_texticon §H600§! £command_power §Y30§!"
+FNG_600_inf_30_CP_blocked:0 "£rifle_texticon §R600§! £command_power §R30§!"
+
+FNG_300_inf_30_CP:0 "£rifle_texticon §H300§! £command_power §Y30§!"
+FNG_300_inf_30_CP_blocked:0 "£rifle_texticon §R300§! £command_power §R30§!"
 
 ### Decisions ###
 FNG_Join_The_Zhifeng_War:0 "직봉전쟁 참전"
@@ -145,6 +161,8 @@ FNG_fixing_the_economy_category:0 "왕융장의 유산"
 FNG_Sell_Anshan_Iron_and_Steel:0 "안샨철강 매각"
 FNG_Sell_Anshan_Iron_and_Steel_desc:0 "안샨철강은 1916년 중-일 합작으로 세워진 기업으로, 양측이 경영, 수익, 그리고 생산품을 공동 관리했습니다. 지금 만철이 이 회사를 완전히 사들여 이름을 '쇼와 제강소'로 바꾸고자 하는데, 그들이 관리하면 더욱 효율적일 것이고 수익과 생산품에 대한 우리 지분도 여전히 남아 있을 겁니다."
 
+FNG_Revise_our_Position_on_Looting:0 "Revise our Position on Looting"
+FNG_Revise_our_Position_on_Looting_desc:0 "Our decision to permit looting of occupied areas may have been a mistake. Unfortunately rescinding popular orders after they've been given, not to mention restraining the men, will not be an easy undertaking."
 FNG_Looting_Beijing-Baoding:0 "즈리에서의 약탈 금지"
 FMG_Looting_Beijing-Baoding_desc:0 "민간인들은 군인들을 홍수나 사나운 짐승에 비유할만큼 무서워하므로 살기위해 이를 피해서 도망칩니다."
 FNG_Looting_Zhengzhou-Luoyang:0 "허난에서의 약탈 금지"
@@ -275,6 +293,10 @@ FNG_cut_aid_to_japan:0 "일본을 향한 식량 수송 중단"
 FNG_cut_aid_to_japan_desc:0 "일본과 한국에서 가뭄이 끝날때까지, 우리는 대량의 식량을 수송해줄 것입니다. 물론 마음이 바뀌지 않는다는 가정하에서요...\n\n§R주의§!: 수송을 중단하고 싶을때만 결정을 누르세요. 누르지 않으면 식량 수송은 정상적으로 계속됩니다."
 FNG_cut_aid_to_japan_tooltip:0 "§H협화회§! 영향력이 §H30%§! 이하입니다"
 
+FNG_Labor_Promises:0 "Concessions to the Unions"
+FNG_Labor_Promises_desc:0 "Union leaders are pushing for decreased shifts that would severely reduce our industrial output."
+FNG_Bribe_Union_Leaders:0 "Make Payments to Union Leaders"
+
 ### Flags ###
 FNG_incentivized_zaibatsu_arms_manufacture:0 "장려받은 재벌의 무기 생산"
 FNG_occupation_state_modifier:0 "불만있는 병사들"
@@ -302,6 +324,9 @@ FNG_already_supporting_faction:0 "이미 파벌을 지원하고 있습니다."
 
 FNG_regionalists_suppressed:0 "지역주의 운동을 진압했습니다."
 
+FNG_troops_allowed_to_raid_occupation:0 "Our troops have been allowed to loot occupied areas."
+FNG_troops_not_allowed_to_raid_occupation:0 "Our troops are forbidden from looting occupied areas."
+
 ### Tooltips ###
 FNG_expel_japanese_officers_tooltip:0 "§R이 결정을 완료하면 우리와 일본의 관계가 파탄날 것입니다.§!\n"
 FNG_japan_dislike:0 "§R일본이 이를 싫어할 것입니다.§!\n"
@@ -327,10 +352,14 @@ FNG_reclamation_war_path:0 "§G국가 재수복 전쟁§!의 준비를 시작합
 FNG_declare_reclamation_war:0 "§R[608.Owner.GetNameDef]을/를 상대로 전쟁을 선포할 것입니다§!\n"
 FNG_leads_to_reclamation_war:0 "§Y[608.Owner.GetNameDef]§!과의 §R전쟁§! 준비를 시작합니다.\n"
 
+FNG_move_capital_to_beijing:0 "Moves capital to §YBeijing§!.\n"
+
 FNG_silver_reserve_exclusive:0 "§R주의§!: 이 결정을 택하면 §Y봉천 달러 재도입§!결정을 선택할 수 없습니다!"
 FNG_fengtian_dollar_exclusive:0 "§R주의§!: 이 결정을 택하면 §Y은 비축량 최대화§! 결정을 선택할 수 없습니다!"
 
-FNG_stop_looting:0 "§Y도적을 소탕하고; 추수를 도와주자§! 중점을 완료하면 도적 이벤트들이 일어나지 않을 것입니다."
+FNG_looting_continues:0 "Looting will §Rcontinue§! in the area for §Rseveral weeks!§!\n"
+FNG_may_lose_legitimacy:0 "§RWe may lose national legitimacy!§!\n"
+FNG_looting_events_will_continue:0 "Similar events will §Rcontinue§! until the §YSuppress the Bandits; Collect the Harvest§! focus has been completed."
 
 FNG_troops_allowed_to_raid:0 "§R약탈 사건§!들이 일어날 것입니다."
 FNG_troops_not_allowed_to_raid:0 "§R약탈 사건§!들의 정도가 감소할 것입니다."
@@ -342,6 +371,13 @@ FNG_Wuhan_looting_stopped:0 "우한에서 §G질서§!가 회복될 것입니다
 FNG_unlock_showa_steel:0 "§Y쇼와제강소§! 를 해금합니다."
 
 FNG_unlock_southern_companies:0 "다음 회사들을 해금합니다:\n- §Y치수옌 기관차공장§!\n- §Y중국 국립항공산업사§!\n- §Y중앙연구원§!\n"
+
+FNG_second_army_spawn:0 "£manpower_texticon 3 §YSecond Army Division§! units spawn in Beijing.\n"
+FNG_cadet_corps_spawn:0 "£manpower_texticon 2 §YBaoding Cadet Corps§! units spawn in Baoding.\n"
+FNG_independent_brigades_spawn_cangzhou:0 "£manpower_texticon 2 §YIndependent Brigrade§! units spawn in Cangzhou.\n"
+FNG_independent_brigades_spawn_kaifeng:0 "£manpower_texticon 2 §YIndependent Brigrade§! units spawn in Kaifeng.\n"
+FNG_independent_brigades_spawn_ruyang:0 "£manpower_texticon 2 §YIndependent Brigrade§! units spawn in Ruyang.\n"
+FNG_independent_brigades_spawn_guanzhong:0 "£manpower_texticon 2 §YIndependent Brigrade§! units spawn in Guanzhong.\n"
 
 FNG_one_time_cost:0 "(일회성 비용입니다)\n"
 FNG_begin:0 "시작한다\n"
@@ -391,7 +427,7 @@ FNG_prevent_resistance_events:0 "§R적들의 저항§! 이벤트의 발생을 �
 FNG_unlock_attack_decisions:0 "이 중점을 완료하면 중국 §M통합§! §H결정들§!이 해금될 것입니다."
 FNG_sqi_won_league_tt:0 "Shandong emerged victorious in the League War"
 FNG_finish_irrendentism_anqing_tt:0 "In order to discuss how to proceed with the Reclamation War now that Anqing has won, the National Irredentism decision must have been completed.\n"
-FNG_irrendentism_allies_decide_tt:0 "Our allies on the mainland will decide how they wish to fit into our plans of the Reclamation War.\n"
+FNG_can_shenyang_conference_tt:0 "\nWe will seek to hold a §HConference§! in Shenyang as soon as possible with potential Chinese allies to discuss important matters and their involvement in the Reclamation War.\n"
 FNG_ask_reconstruction_jap_anqing_tt:0 "We agree to help Anqing and will relay the request to Japan. If they also accept, we will commit significant political and economic resources to reconstruct Anqing so we can attack Beijing earlier.\n"
 FNG_more_strategies_anqing_tt:0 "Do not agree to this and request other strategies.\n"
 FNG_wait_recover_anqing_tt:0 "We will delay our Reclamation War and wait until Anqing has completed its own reconstruction efforts. We will inform Japan and Anqing of this decision.\n"
@@ -1128,12 +1164,12 @@ fengtian.100.d1:0 "The Fengtian Government has long possessed an advantage again
 fengtian.100.d2:0 "The Fengtian Government has long possessed an advantage against its Chinese rivals thanks to our frequent material aid. In this particular case, we are being asked for light tanks.\n\nAlthough we currently have no modern tanks available, we could dispatch a shipment of very old weltkrieg-era tanks at no real cost to ourselves. Or we could always send nothing at all."
 fengtian.100.a:0 "남는 경전차들을 보내라"
 fengtian.100.b:0 "구식 경전차들을 보내라"
+fengtian.100.c:0 "Send nothing"
 
 fengtian.101.t:0 "대원수의 선언"
 fengtian.101.d:0 "Today the Grand Marshal delivered a rousing speech calling all of the Northeast to strive to their utmost in pursuit of victory in the upcoming National Reclamation War. Ten thousand years to the Republic!"
 fengtian.101.a:0 "연설문 읽기."
 fengtian.101.b:0 "만세!"
-fengtian.101.c:0 "만세!"
 
 fengtian.102.t:0 "국토 재수복 전쟁!"
 fengtian.102.d.no_shanhaiguan:0 "The appointed hour has finally arrived. In the coming days, the fruits of over a decade of extensive planning and preparation will finally be brought to bear against the enemy, and the first steps will be taken on the path to national reunification. All that remains is to stride forward and seize the moment. Ten thousand years to Grand Marshal Zhang! Ten thousand years to the Republic!"
@@ -1561,10 +1597,11 @@ fengtian.202.b:0 "Investigate strategies." #shandong
 fengtian.202.c:0 "We'll have to stick to our current strategy."
 fng_shandong_commits_reclamation:0 "Shandong has of course commited to participating in the Reclamation War."
 
-fengtian.202.t:0 "Anqing Suggests a Strategy"
-fengtian.202.d:0 "The Anqing Clique has suggested a strategy. They are willing to go participate in the war, but only if we and our Japanese backers provide very generous and extensive aid to help them recover from the disastrous League War. This strategy would indeed bring them back to full strength quickly, but would cost us significant capital. We also do not know if the Japanese will accept. We can also think of other options."
-fengtian.202.a:0 "Commit support, ask Japan"
-fengtian.202.b:0 "Investigate other options"
+# Duplicate loc keys are a nono
+#fengtian.202.t:0 "Anqing Suggests a Strategy"
+#fengtian.202.d:0 "The Anqing Clique has suggested a strategy. They are willing to go participate in the war, but only if we and our Japanese backers provide very generous and extensive aid to help them recover from the disastrous League War. This strategy would indeed bring them back to full strength quickly, but would cost us significant capital. We also do not know if the Japanese will accept. We can also think of other options."
+#fengtian.202.a:0 "Commit support, ask Japan"
+#fengtian.202.b:0 "Investigate other options"
 
 fengtian.203.t:0 "Other Strategies"
 fengtian.203.d1:0 "Japan has decided not to commit to the reconstruction, and we can't do it on our own. So now our generals have come up with two other strategies that do not involve us investing heavily in Anqing immediately. The first is simply delaying our plans for the Reclamation War for at least one and a half years, to give Anqing time to recover on their own. The reasoning behind this is that the advantage that Anqing gives us is so great that we must not waste it by going to war while they are weak. The risk is that the Beijing government is able to mount a proper defense before that time. The other option is to not wait for Anqing to recover, but attack as soon as we are able to. The risk is that the Anqing government might collapse, but [QIE.GetNameDef] is still reeling from the effects of the League War and are also weak. We have been mostly insulated from the conflict. However, we cannot risk to athe latter option they should agree as well."
@@ -1777,6 +1814,11 @@ fengtian.251.t:0 "Acceptance of Women Suffrage"
 fengtian.251.d:0 "The population has finally accepted the idea of Women being able to vote in local elections, which was quite controversial prior as it is a comparetively radical change considering China's very conservative society. Song Qingling has declared it a great victory for Women's rights in China, being the main reason [FNG.GetNameDef] implemented the policy in the first place."
 fengtian.251.a:0 "A victory for women, a victory for democracy"
 
+fengtian.252.t:0 "Workers Protest Against our Policies"
+fengtian.252.d:0 "Union leaders have begun demanding shorter shifts for their workers, stating they they cannot continue to work at this pace. Until their demands are met they have threatened to go on strike and freeze our transportation routes."
+fengtian.252.a:0 "Make promises for now."
+fengtian.252.b:0 "We will not yield!"
+
 fengtian.253.t:0 "Loyality of Workers Achieved"
 fengtian.253.d:0 "The [FNG.GetName] has finally achieved its goal of destroying the influence of unions, by using various means like union busting, anti-union propaganda, aswell as increasing national control of key industry. The propaganda has instilled the belief that unions are just a way to divide this society, weakening us agaisnt the West, which most workers now finally believe in."
 fengtian.253.a:0 "Unions divide the country in the face of foreign imperialism!"
@@ -1789,6 +1831,9 @@ fengtian.255.t:0 "[FNG.GetName]이/가 전쟁을 준비하다"
 fengtian.255.d:0 "The [FNG.GetName]가 한달 내로 전쟁을 선포하려고 합니다. [FNG.GetNameDef]의 막강한 공업력과 일본의 원조를 고려하면, 아마 우리의 모든 것을 걸어야 할듯 합니다."
 fengtian.255.a:0 "일본놈들의 애완견을 박살낼때다!"
 
+fengtian.256.t:0 "Workers Strike"
+fengtian.256.d:0 "The union leaders have incited their workers to stop taking their shifts on the railways and dockyards. Our international trade will be cut until we can do something about them."
+fengtian.256.a:0 "Syndicalist dogs!"
 
 
 fengtian.270.t:0 "The Matter of Occupation"
@@ -1946,6 +1991,14 @@ fengtian.299.a:0 "A new era."
 fengtian.300.t:0 "A Puppet in Manchuria"
 fengtian.300.d:0 "All our best efforts in Manchuria have come to fruition. With Zhang Zuolin dead and Zhang Xueliang out of the picture, Yang Yuting should prove a pliable puppet suited to our purposes. While we may no longer have an easy route to control of China as a whole, we have safeguarded our own security. Without Manchurian resources our economy would founder, and from there an enemy could easily take Korea, then plunge a dagger into the heart of Japan. This is how history is made."
 fengtian.300.a:0 "Excellent!"
+
+fengtian.301.t:0 "Feeder Event - Whispers from Tokyo"
+fengtian.301.d:0 "If you can see this you have encountered a bug. Please report it on GitHub!"
+fengtian.301.a:0 "I will make the report right away!"
+
+fengtian.302.t:0 "Whispers from Tokyo"
+fengtian.302.d:0 "Word has come from our spies in Tokyo - the Japanese may be preparing for war. Supposedly our Manchurian enemies have requested Japanese assistance in their war against us, which is now under consideration by the Imperial Cabinet and General Headquarters. On the one hand this news is a tacit acknowledgement by Fengtian that it has lost all claim to legitimacy, direct reliance on Japan is a political blow from which it may never recover, but on the other hand it is deeply troubling. Even now Japan's vast imperial war machine may be rumbling to life, to be stopped only by the most resolute defense."
+fengtian.302.a:0 "We shall learn of their decision soon."
 
 ### FNG Political Events ###
 
@@ -2120,6 +2173,7 @@ fngshen.2.a:0 "Send a delegation."
 
 fngshen.3.t:0 "[FROM.GetName] Agrees to the Conference"
 fngshen.3.d:0 "Good news! [FROM.GetNameDefCap] has replied to our invitation and they have agreed to attend the Conference. We can expect their delegation to arrive soon."
+fngshen.3.d1:0 "Good news! [FROM.GetNameDefCap] has replied to our invitation and they have agreed to attend the Conference. We can expect their delegation to arrive soon. However, we must note that their current loyalties lie with [ANQ.GetLeader] as Anqing took Shandong in the League War and puppeted them. They have promised the province to us once the war begins, however."
 fngshen.3.a:0 "Excellent."
 
 fngshen.4.t:0 "Negotiations with the Federalists?"
@@ -2190,8 +2244,10 @@ fngshen.16.d:0 "We've received official word from [ANQ.GetLeader] that we can re
 fngshen.16.a:0 "Thank you!"
 
 fngshen.17.t:0 "End of the Conference"
-fngshen.17.d:0 "Although there was no shortage of hurdles to overcome along the way, diplomacy has won the day. The Shenyang Conference has ended in a success for [Root.GetCliqueShortName], cementing their position in the region at the expense of the Beijing government. As the delegates left after a cordial closing ceremony after which the delegates left the city. Zhang Zuolin is now several steps closer to turning his ambitions into reality."
+fngshen.17.d:0 "Although there was no shortage of hurdles to overcome along the way, diplomacy has won the day. The Shenyang Conference has ended in a success for [Root.GetCliqueShortName], cementing their position in the region at the expense of the Beijing government. The delegates left the city after a cordial closing ceremony. Zhang Zuolin is now several steps closer to turning his ambitions into reality."
+fngshen.17.danq:0 "Although there was no shortage of hurdles to overcome along the way, diplomacy has won the day. The Shenyang Conference has ended in a success for [Root.GetCliqueShortName], cementing their position in the region at the expense of the Beijing government. The delegates left the city after a cordial closing ceremony. It is now up to us if we will indeed put our weight behind Zhang Zuolin and join his Reclamation War."
 fngshen.17.a:0 "Next stop: Beijing!"
+fngshen.17.b:0 "We'll make the right decision."
 
 fngshen.18.t:0 "The Federalists Storm Off"
 fngshen.18.d:0 "Finding a compromise on the Concessions proved to be an insurmountable task. It was simply politically impossible for the Federalists to make a complete U-turn on the matter, while Zhang's refusal to budge is being publicly mocked as a simple refusal to bite the hand that feeds it. After publicly denouncing the conference as a sham, the Federalist delegation led by [FNG_shenyang_federalist_leader.GetLeader] left the conference. Any chance for an alliance between them and [Root.GetCliqueShortName] is now likely an outright impossibility."
@@ -2202,12 +2258,15 @@ fngshen.19.d:0 "Evidently, Zuolin simply could not bite the hand that fed him. B
 fngshen.19.a:0 "What to expect from a Japanese puppet?"
 
 fngshen.20.t:0 "[From.GetCliqueShortName] Refuses to Denounce the Concessions"
-fngshen.20.d:0 "Despite our best efforts, our delegates could not convince Zuolin to stand against the concessions. This declaration of unconditional support for Tokyo and the other colonial bloodsuckers is nothing less than a grave insult to Tiaoyuan and a betrayal of his trust. Rest assured, we'll not let this go lightly."
-fngshen.20.a:0 "Denounce him!"
+fngshen.20.d:0 "Despite our best efforts, our delegates could not convince Zuolin to stand against the concessions. We'll not let this go lightly, but we must not commit any rash actions and immediately denounce Zuolin. Let us look at the factors and decide whether or not to join Zuolin in his Reclamation War against Beijing."
+fngshen.20.a:0 "Unfortunate."
 
-fngshen.21.t:0 "Tiaoyuan Breaks Off the Alliance"
-fngshen.21.d:0 "The [FNG.GetCliqueShortName] stance on the Concessionist question proved to be a bridge that couldn't be crossed. Unable to break against everything he's stood for, Chen Tiaoyuan sharply denounced Zhang Zuolin in the harshest possible terms for his cowardice and subservience to Tokyo. He angrily declared the alliance between [ANQ.GetCliqueShortName] and [FNG.GetCliqueShortName] to be dead and buried on the spot and that there was no way to reverse this unless Zhang decided to side with his countrymen over the Japanese. The [ANQ.GetCliqueShortName] delegation quickly left the conference afterwards. Needless to say, this has dealt a black eye to Zuolin's diplomatic efforts."
-fngshen.21.a:0 "Drat."
+fngshen.21.t:0 "Tiaoyuan Decides His Position"
+fngshen.21.d:0 "The [FNG.GetCliqueShortName] stance on the Concessionist question greatly angered [ANQ.GetCliqueShortName]'s Chen Tiaoyuan. However, [ANQ.GetCliqueShortName] delegates have informed us that the decision whether or not they will join our war against Beijing and enter into an alliance with us has yet to be made. We eagerly await their final answer."
+fngshen.21.a:0 "We must wait."
+
+#"The [FNG.GetCliqueShortName] stance on the Concessionist questionproved to be a bridge that couldn't be crossed. Unable to break against everything he's stood for, Chen Tiaoyuan sharply denounced Zhang Zuolin in the harshest possible terms for his cowardice and subservience to Tokyo. He angrily declared the alliance between [ANQ.GetCliqueShortName] and [FNG.GetCliqueShortName] to be dead and buried on the spot and that there was no way to reverse this unless Zhang decided to side with his countrymen over the Japanese. The [ANQ.GetCliqueShortName] delegation quickly left the conference afterwards. Needless to say, this has dealt a black eye to Zuolin's diplomatic efforts."
+#fngshen.21.a:0 "Drat."
 
 ### Unification Conference
 FNG_conference_success:0 "The Unification Conference was successful"
@@ -2636,7 +2695,7 @@ fngconf.67.a:0 "Excellent."
 fngconf.68.t:0 "Compromise Rejected"
 fngconf.68.d:0 "Despite our best efforts, Fengtian has refused the compromise that we offered them. Instead, we've been asked again to simply cede what they asked for."
 fngconf.68.a:0 "Convince Hunan to cede the region."
-fngconf.68.a:0 "We shall not cede our ally's territory."
+fngconf.68.b:0 "We shall not cede our ally's territory."
 
 fngconf.69.t:0 "Conflicting Claims"
 fngconf.69.d.normal:0 "Two participants have conflicting claims that must be resolved."
@@ -2780,4 +2839,3 @@ FNG_JAP_paternal_autocrat_DEF:0 "중국 개혁 정부"
 FNG_JAP_national_populist:0 "중국 개혁 정부"
 FNG_JAP_national_populist_ADJ:0 "중국"
 FNG_JAP_national_populist_DEF:0 "중국 개혁 정부"
-

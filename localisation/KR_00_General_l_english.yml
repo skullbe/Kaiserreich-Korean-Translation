@@ -18,6 +18,9 @@ toggle_renaming_button_tooltip_disable_desc:0 "지역 소유자가 바뀌어도 
 central_america:0 "중앙아메리카"
 india:0 "인도"
 
+### Intelligence Agency Blocker ###
+INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_enabled]"
+
 ### Splash Screen ###
 KR_SPLASH_TITLE:0 "환영합니다!"
 KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAlpinia, Anbory, Arvidus, Augenis, Beelzebub, Blackfalcon501, DSFDarker, Delincious, Dr. Njitram, Drozdovite, Edouard Saladier, Eragaxshim, Fbruchmueller, Flamefang, Gideones, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Khalil, Kracc, Krco, Liegnitz, Maltesefalcon, MantisToboggan, Mifil, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rinbro, Roniius, Roparex, Rylock, Saladenicoise, Skip, Starguard, Telcontar101, The Alpha Dog, Thomahawk2k, Vidyaország, WordZero, Yard1, Zaddy-Chan, Zankoas 그리고 Zimbabwe Salt Co."
@@ -32,8 +35,6 @@ kr_nominal_puppet:0 "명목상 괴뢰국"
 kr_special_autonomous_dependency:0 "자치 속국"
 kr_initial_wif_puppet:0 "연합된 식민지"
 kr_soclib_wif_puppet:0 "연합된 자치령"
-autonomy_colony:0 "식민지"
-autonomy_dominion:0 "자치령"
 
 ### Autonomy Tooltips ###
 can_lower_autonomy_level:0 "자치도를 낮출 수 있습니다\n"
@@ -51,6 +52,7 @@ chief_of_army_cost_factor:0 "Chief of Army Cost"
 chief_of_navy_cost_factor:0 "Chief of Navy Cost"
 chief_of_air_force_cost_factor:0 "Chief of Air Force Cost"
 weapons_manufacturer_cost_factor:0 "Weapons Manufacturer Cost"
+cannot_train_units_tt:2 "§RCannot train units, disband units, or edit unit templates.§!\n"
 
 ### Autonomy Events ###
 kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구되다"
@@ -90,15 +92,12 @@ mtg_exile_leader_added.1.a:1 "당신의 싸움은 아직 끝나지 않았습니�
 militia:0 "민병대"
 
 ### Tech ###
-cl_tech:0 "경순양함 기술"
-dd_tech:0 "구축함 기술"
 military_police_tech:0 "헌병"
 
 ### Research Bonus Names ###
 refinery_bonus:0 "정유공장 보너스"
 
 ### Interface ###
-research_production:1 "회사"
 weapons_manufacturer:0 "무기 제조사"
 air_naval_manufacturer:0 "항공/선박 제조사"
 can_replace_hog:0 "정부수반 재임명 가능"
@@ -160,7 +159,6 @@ tooltip_add_idea_closed_economy:0 "'§Y폐쇄경제§!'로 무역법을 변경�
 tooltip_add_idea_command_economy:0 "'§Y계획경제§!'로 무역법을 변경합니다.\n"
 unlock_focuses:0 "§G이 중점은 자동으로 통과될 것이며 다른 중점을 해금할 것입니다§!\n"
 command_economy:0 "계획경제"
-asked_to_join:0 "타국이 개입을 요청했습니다."
 asked_to_join:0 "타국이 개입을 요청했습니다."
 received_equipment_500:0 "그 나라에서 §G500§! 보병 장비를 받을 것입니다\n"
 received_equipment_1000:0 "그 나라에서 §G1000§! 보병 장비를 받을 것입니다\n"

@@ -79,6 +79,9 @@ chinese_united_front_formed:0 "중화통일전선이 형성되다"
 china_ceasefire_occupation_transfer:0 "§H모든 점령한 지역§!의 소유권을 가져가다."
 china_war_with_united_front:0 "§R통일전선이 우리에 대항해 싸울겁니다!§!"
 
+leave_chinese_united_front:0 "Leave the United Front"
+rejoin_chinese_faction:0 "Rejoin [FROM.GetNameDef]"
+
 china_shared.1.t:0 "사라지는 정통성"
 china_shared.1.d:0 "중화통일전선으로 인해 분열된 조국을 통일하기 위한 수단이 생겼을지도 모르지만, 중국 군벌들 사이의 갈등은 결코 진정으로 끝나지 않았습니다. 이제 일본의 침략에 직면한 우리 정부가 입은 손실은 한 가지 간단한 진실을 알려주었습니다. 우리는 더 이상 외세의 침략에 맞선 중국의 지도자가 될 수 없다는 사실입니다. 이미 여러 군벌과 지방 정부 아래 있는 세력들은 [current_china_leader.GetNameDef]의 지시사항을 일상적으로 무시하기 시작했습니다. 우리가 잃어버린 영토로 진격해 재탈환하지 않는다면 지도력을 영원히 잃게 될 겁니다."
 china_shared.1.a:0 "제기랄."
@@ -125,15 +128,27 @@ china_shared.11.t:0 "통일전선 붕괴"
 china_shared.11.d:0 "일본과의 전쟁이 끝을 향해 나아가면서, 수많은 중국인들이 여기저기에서 전후 질서를 수립하기 위한 움직임을 보이기 시작했습니다. 일본이 패배하면서 억압되었던 갈등이 표면화되었고, 통일전선이 재빨리 내전 속으로 빠져들기 시작했습니다. 이제 천하통일의 마지막 순간이 다가왔습니다."
 china_shared.11.a:0 "통일로 가기 전 마지막 장애물이로군."
 
-china_shared.12.t:0 "중화통일전선 출범"
-china_shared.12.d.pro_JAP:0 "최근 우리가 거둔 승리를 인정하고 싶지 않아하는 일부 동포 중국 군벌이 우리나라와 우리의 동맹 일본을 상대하기 위해 뭉치기로 결정한 모양입니다. 도쿄 정권은 최후의 발악과도 같은 이번 동맹관계를 그다지 대수롭지 않게 여기지만, 일본에 비해 중국에 관해 더 많이 알고 있는 우리 정부는 기나긴 싸움이 목전에 놓여있다는 사실을 눈치챘습니다." #Pro-Japan Chinese POV
-china_shared.12.d.anti_JAP:0 "몇주간 일련의 비밀 회담이 오간 후, 우리 정부를 포함한 몇몇 중국 군벌들이 다가오는 일본의 침략에 맞서 함께 싸우기로 합의했습니다. 수십년간 단결이 불발되었었지만 이번에 중화통일전선이 형성되었으니, 지금에야말로 침략자 일본과 일본과 연대한 반역자들을 쳐부술 때가 왔습니다." #Anti-Japan Chinese POV
-china_shared.12.d.JAP:0 "최근 우리가 거둔 승리와 군사력에서의 압도적인 우위를 인정하고 싶지 않아하는 일부 중국 군벌이 우리나라를 상대하기 위해 뭉치기로 결정한 모양입니다. 항상 다툼을 일삼고 당파성이 강한 중국인들이 실제로 한 가지 대의를 위해 뭉치는 모습을 상상하기는 어려우며, 아군 지휘관들은 저들의 연합이 궁극적으로 헛된 조치에 불과하다고 장담했습니다. 이번 연말에는 저들의 본부가 무너진 폐허 속에서 사케를 홀짝거리며 보낼 겁니다." #Japanese POV
-china_shared.12.d.others:0 "중국인들이 필사적으로 일본의 침략을 막기 위해 동맹체를 구성한 모양입니다. 항상 다툼을 일삼고 당파성이 강하던 중국 군벌들이 이런 행보를 보이리라고 예상한 사람은 전혀 없었습니다. 이제 많은 이들이 상당한 관심을 품고 중국의 미래를 지켜볼 겁니다." #Foreign POV
-china_shared.12.a:0 "돌격."
-china_shared.12.b:0 "완쓰이(만세)!"
-china_shared.12.c:0 "반자이(만세)!"
-china_shared.12.e:0 "흥미롭군."
+china_shared.12.t:0 "[FROM.GetNameDefCap] Leaves the United Front"
+china_shared.12.d:0 "WIP"
+china_shared.12.a:0 "So much for unity."
+
+china_shared.13.t:0 "중화통일전선 출범"
+china_shared.13.d.pro_JAP:0 "최근 우리가 거둔 승리를 인정하고 싶지 않아하는 일부 동포 중국 군벌이 우리나라와 우리의 동맹 일본을 상대하기 위해 뭉치기로 결정한 모양입니다. 도쿄 정권은 최후의 발악과도 같은 이번 동맹관계를 그다지 대수롭지 않게 여기지만, 일본에 비해 중국에 관해 더 많이 알고 있는 우리 정부는 기나긴 싸움이 목전에 놓여있다는 사실을 눈치챘습니다." #Pro-Japan Chinese POV
+china_shared.13.d.anti_JAP:0 "몇주간 일련의 비밀 회담이 오간 후, 우리 정부를 포함한 몇몇 중국 군벌들이 다가오는 일본의 침략에 맞서 함께 싸우기로 합의했습니다. 수십년간 단결이 불발되었었지만 이번에 중화통일전선이 형성되었으니, 지금에야말로 침략자 일본과 일본과 연대한 반역자들을 쳐부술 때가 왔습니다." #Anti-Japan Chinese POV
+china_shared.13.d.JAP:0 "최근 우리가 거둔 승리와 군사력에서의 압도적인 우위를 인정하고 싶지 않아하는 일부 중국 군벌이 우리나라를 상대하기 위해 뭉치기로 결정한 모양입니다. 항상 다툼을 일삼고 당파성이 강한 중국인들이 실제로 한 가지 대의를 위해 뭉치는 모습을 상상하기는 어려우며, 아군 지휘관들은 저들의 연합이 궁극적으로 헛된 조치에 불과하다고 장담했습니다. 이번 연말에는 저들의 본부가 무너진 폐허 속에서 사케를 홀짝거리며 보낼 겁니다." #Japanese POV
+china_shared.13.d.others:0 "중국인들이 필사적으로 일본의 침략을 막기 위해 동맹체를 구성한 모양입니다. 항상 다툼을 일삼고 당파성이 강하던 중국 군벌들이 이런 행보를 보이리라고 예상한 사람은 전혀 없었습니다. 이제 많은 이들이 상당한 관심을 품고 중국의 미래를 지켜볼 겁니다." #Foreign POV
+china_shared.13.a:0 "돌격."
+china_shared.13.b:0 "완쓰이(만세)!"
+china_shared.13.c:0 "반자이(만세)!"
+china_shared.13.e:0 "흥미롭군."
+
+china_shared.14.t:0 "Collapse of the United Front"
+china_shared.14.d.CHI:0 "WIP" #Chinese POV
+china_shared.14.d.JAP:0 "WIP" #Japanese POV
+china_shared.14.d.others:0 "WIP" #Foreign POV
+china_shared.14.a:0 "Interesting." #Chinese POV
+china_shared.14.b:0 "Interesting." #Japanese POV
+china_shared.14.c:0 "Interesting." #Foreign POV
 
 ### Sino-Japanese War
 china_second_sino_japanese_war_UF_decisions:0 "제2차 중일전쟁"

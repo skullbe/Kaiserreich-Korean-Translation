@@ -344,6 +344,14 @@ sic.1.t:0 "1936년의 양시칠리아 왕국"
 sic.1.d:0 "나폴레옹 전쟁 이후, 나폴리와 시칠리아의 두 오래된 왕국을 결합한 양시칠리아 왕국이 수립되었고, 1860년 가리발디의 도움을 받은 사르데냐-피에몬테가 이탈리아를 통일했습니다. 항상 농업에 종사하던 남부는 남부의 공업화에 별 관심이 없던 사보이인들의 손에 고통을 당했고, 가난은 흔한 일이 되었습니다.\n\n 대전쟁이 발발하고, 이탈리아는 협상국의 편에 섰고, 결국 파멸했습니다. 오스트리아인들은 사보이인들을 상대로 승리를 거두었고, 이탈리아 왕국을 통일 이전의 작은 국가들의 모임인 이탈리아 연방으로 만들었습니다. 곧이어 내전이 반도를 뒤흔들었고, 오스트리아,연방, 공화주의 반혁명군이 포 강과 아브루초에서 생디칼리스트들을 막아내는 데 간신히 성공했습니다. 전쟁의 공포가 만연했던 1927년 사르데냐가 처음으로 이탈리아 연방을 탈퇴했고, 양시칠리아가 그 뒤를 따랐고, 북이탈리아 대표단만이 연방 의회를 지키게 되었습니다. 연방 의회는 1929년에 휴회된 이래 지금까지 열리고 있지 않습니다. 북부를 재탈환하려는 의지를 보이지 않고 있는 시칠리아 정부에 대한 불만이 커져가면서, 2차 이탈리아 내전이 일어날 기미가 보이고 있습니다.\n\n 내전 종결 이후, 왕국은 내정에 집중하고 있으며, 1921년부터 집권하고 있는 기독민주당은 남부의 토지개혁이라는 오랜 꿈을 실현시키려 하고 있습니다. 하지만, 민주 연정이 정권을 잡은 이래 1927년 기독민주당이 의회의 과반 의석을 지키는 데 실패하면서, 캄파니아와 카푸아에 일부 토지 개혁이 이루어졌습니다. 정부와 대립하는 '시칠리아 통일당'의 등장으로 왕국의 정치 지형에 큰 변동이 예고되었으며, 그들이 그들의 반동주의적 목적을 달성할지, 아니면 민주주의가 승리할지는 시간만이 말해줄 것입니다."
 sic.1.a:0 "왕국이여 영원하라!"
 
+sic.200.t:0 "The Kingdom of the Two Sicilies"
+sic.200.d:0 "Since the end of hostilities, the Kingdom has been mostly focused internally. The Christian Democrats, in power since 1921, trying to pursue the age-old dream of land reform in the South. The lack of progress on this front, however, caused the Christian Democrat supermajority to fail in 1927, though a democratic coalition has kept power since, and made some small movements toward land reform in Campania and Capua. The rise of the opposing 'Integralisti 'e Doje Sicilie' could signal a radical change in the Kingdom's politics, and only time will tell if they get to achieve their reactionary aims or if democracy will prevail."
+sic.200.a:0 "Long live the kingdom!"
+
+sic.201.t:0 "The Second Risorgimento"
+sic.201.d:0 "As for the future of Italy, questions have slowly arisen regarding our place in the coming conflict. Peace on the peninsula is held by a delicate balance: if the syndicalists strike, they must do so without drawing the Third Internationale into battle with them. Should they do so, both Germany and Austria will feel compelled to intervene. They will not, however, feel so compelled if Two Sicilies strikes first. So it is on the Socialist Republic of Italy to make the first move towards a Second Risorgimento, and they must do so without French backing. We must keep a careful watch on the Abruzzo line, to see if they become so bold."
+sic.201.a:0 "Viva l'Italia!"
+
 sic.2.t:0 "검은 월요일이 왕국을 강타하다"
 sic.2.d:0 "독일에서 시작된 경제위기가 통제를 벗어나 결국 이탈리아에까지 퍼졌습니다. 양시칠리아 왕국의 번영은 검은 목요일에 의해 산산조각났습니다. 정부에 대한 신뢰가 흔들리고 있습니다."
 sic.2.a:0 "신께서는 우리를 보호하소서!"
@@ -541,10 +549,6 @@ sic.62.c:0 "2개 국어 상용을 공식화하라"
 sic.63.t:0 "왕실 결혼"
 sic.63.d:0 "Today Prince Eugenio, a relative of Amedeo I of Sardinia, has married Princess Lucia Maria Raniera, the Fourth daughter of King Ferdinand of the Two Sicilies in a lavish ceremony in Naples."
 sic.63.a:0 "누가 왕실 결혼을 싫어하겠어?"
-
-sic.64.t:0 "시칠리아의 상황"
-sic.64.d:0 "When the Kingdom of the Two Sicilies was re-made after the Weltkrieg, an act by the Parliament in Naples granted the Isle of Sicily considerable autonomy. This act granted the island its own regional parliament. This has granted the island quite a bit of power and influence within the Kingdom's politics."
-sic.64.a:0 "시칠리아 만세!"
 
 sic.100.t:0 "[From.GetNameDef]의 제안"
 sic.100.d:0 "A delegation from [From.GetNameDef] has arrived with an offer: in exchange for us returning to the mainland and assuming control over thier holdings in Piedmont, they ask for [Root.GetNameDef] to join them in confederation, as a step in restoring Italy. In practice, this means we would become an autonomous puppet to the [From.GetAdjective] government. It is a tempting offer, though it means abandoning any of our current alliances and wars."
