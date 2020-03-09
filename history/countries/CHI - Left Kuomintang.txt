@@ -155,35 +155,35 @@ country_event = { #White Sun Over China
 }
 
 create_country_leader = {
-	name = "Dai Chunfeng"
+	name = "다이춘펑"
 	desc = "POLITICS_CHI_DAI_CHUNFENG_DESC"
 	picture = "gfx/leaders/CHI/Portrait_CHI_Dai_Chunfeng.tga"
 	expire = "1965.1.1"
 	ideology = totalist_subtype
 }
 create_country_leader = {
-	name = "Chen Duxiu"
+	name = "첸두슈"
 	desc = "POLITICS_CHI_CHEN_DUXIU_DESC"
 	picture = "gfx/leaders/CHI/Portrait_CHI_Chen_Duxiu.tga"
 	expire = "1965.1.1"
 	ideology = syndicalist_subtype
 }
 create_country_leader = {
-	name = "Wang Jingwei"
+	name = "왕징웨이"
 	desc = "POLITICS_CHI_WANG_JINGWEI_DESC"
 	picture = "gfx/leaders/CHI/Portrait_CHI_Wang_Jingwei.tga"
 	expire = "1965.1.1"
 	ideology = radical_socialist_subtype
 }
 create_country_leader = {
-	name = "Song Qingling"
+	name = "쑹칭링"
 	desc = "POLITICS_CHI_SONG_QINGLING_DESC"
 	picture = "gfx/leaders/CHI/Portrait_CHI_Song_Qingling.tga"
 	expire = "1965.1.1"
 	ideology = social_democrat_subtype
 }
 create_country_leader = {
-	name = "Sun Fo"
+	name = "쑨커"
 	desc = "POLITICS_CHI_SUN_FO_DESC"
 	picture = "gfx/leaders/CHI/Portrait_CHI_Sun_Fo.tga"
 	expire = "1965.1.1"
@@ -192,7 +192,7 @@ create_country_leader = {
 
 ### Field Marshals ###
 create_field_marshal = {
-	name = "Li Jishen"
+	name = "리지선"
 	desc = "POLITICS_CHI_Li_JISHEN_ARMY_DESC"
 	portrait_path = "gfx/leaders/CHI/Portrait_CHI_Li_Jishen.tga"
 	traits = {
@@ -207,7 +207,7 @@ create_field_marshal = {
 	logistics_skill = 2
 }
 create_field_marshal = {
-	name = "Cheng Qian"
+	name = "청첸"
 	desc = "POLITICS_CHI_CHENG_QIAN_ARMY_DESC"
 	portrait_path = "gfx/leaders/CHI/Portrait_CHI_Cheng_Qian.tga"
 	traits = {
@@ -226,7 +226,7 @@ create_field_marshal = {
 }
 ### Corps Commanders ###
 create_corps_commander = {
-	name = "Deng Yanda"
+	name = "덩옌다"
 	desc = "POLITICS_CHI_DENG_YANDA_ARMY_DESC"
 	portrait_path = "gfx/leaders/CHI/Portrait_CHI_Deng_Yanda.tga"
 	traits = {
@@ -243,7 +243,7 @@ create_corps_commander = {
 	id = 2207
 }
 create_corps_commander = {
-	name = "Ye Ting"
+	name = "예팅"
 	desc = "POLITICS_CHI_YE_TING_ARMY_DESC"
 	portrait_path = "gfx/leaders/CHI/Portrait_CHI_Ye_Ting.tga"
 	traits = {
@@ -258,7 +258,7 @@ create_corps_commander = {
 	logistics_skill = 1
 }
 create_corps_commander = {
-	name = "Lin Biao"
+	name = "린뱌오"
 	desc = "POLITICS_CHI_LIN_BIAO_ARMY_DESC"
 	portrait_path = "gfx/leaders/CHI/Portrait_CHI_Lin_Biao.tga"
 	traits = {
@@ -273,7 +273,7 @@ create_corps_commander = {
 	logistics_skill = 3
 }
 create_corps_commander = {
-	name = "Wang Yaowu"
+	name = "왕야오우"
 	desc = "POLITICS_CHI_WANG_YAOWU_ARMY_DESC"
 	portrait_path = "gfx/leaders/CHI/Portrait_CHI_Wang_Yaowu.tga"
 	traits = {
@@ -289,7 +289,7 @@ create_corps_commander = {
 	logistics_skill = 2
 }
 create_corps_commander = {
-	name = "Xu Xiangqian"
+	name = "쉬샹첸"
 	desc = "POLITICS_CHI_XU_XIANGQIAN_ARMY_DESC"
 	portrait_path = "gfx/leaders/CHI/Portrait_CHI_Xu_Xiangqian.tga"
 	traits = {
@@ -304,7 +304,7 @@ create_corps_commander = {
 	logistics_skill = 3
 }
 create_corps_commander = {
-	name = "Zhang Yunyi"
+	name = "장윈이"
 	desc = "POLITICS_CHI_ZHANG_YUNYI_ARMY_DESC"
 	portrait_path = "gfx/leaders/CHI/Portrait_CHI_Zhang_Yunyi.tga"
 	traits = {
@@ -320,7 +320,7 @@ create_corps_commander = {
 	logistics_skill = 4
 }
 create_corps_commander = {
-	name = "Sun Liren"
+	name = "쑨리런"
 	desc = "POLITICS_CHI_SUN_LIREN_ARMY_DESC"
 	portrait_path = "gfx/leaders/CHI/Portrait_CHI_Sun_Liren.tga"
 	traits = {
@@ -337,7 +337,7 @@ create_corps_commander = {
 }
 ### Admirals ###
 create_navy_leader = {
-	name = "Li Zhilong"
+	name = "리즈룽"
 	desc = "POLITICS_CHI_LI_ZHILONG_NAVY_DESC"
 	portrait_path = "gfx/leaders/CHI/Portrait_CHI_Li_Zhilong.tga"
 	traits = {
@@ -350,7 +350,7 @@ create_navy_leader = {
 	coordination_skill = 1
 }
 create_navy_leader = {
-	name = "Chen Shaokuan"
+	name = "천샤오콴"
 	desc = "POLITICS_CHI_CHEN_SHAOKUAN_NAVY_DESC"
 	portrait_path = "gfx/leaders/CHI/Portrait_CHI_Chen_Shaokuan.tga"
 	traits = {
