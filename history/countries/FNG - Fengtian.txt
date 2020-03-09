@@ -207,26 +207,26 @@ add_dynamic_modifier = {
 FNG_recalculate_mantetsu_effects = yes
 
 create_country_leader = {
-	name = "Ruan Zhenduo"
+	name = "롼전둬"
 	picture = "gfx/leaders/Generic/Portrait_Asia_Generic_new_1.tga"
 	expire = "1965.1.1"
 	ideology = market_liberal_subtype
 }
 create_country_leader = {
-	name = "Liang Shiyi"
+	name = "량스이"
 	picture = "gfx/leaders/Generic/Portrait_Asia_Generic_new_1.tga"
 	expire = "1965.1.1"
 	ideology = social_conservative_subtype
 }
 create_country_leader = {
-	name = "Zhang Zuolin"
+	name = "장쭤린"
 	desc = "POLITICS_ZHANG_ZUOLIN_DESC"
 	picture = "Portrait_FNG_Zhang_Zuolin.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democrat_subtype
 }
 create_country_leader = {
-	name = "Zhang Xueliang"
+	name = "장쉐량"
 	desc = "POLITICS_ZHANG_XUELIANG_DESC"
 	picture = "Portrait_FNG_Zhang_Xueliang.tga"
 	expire = "1965.1.1"
@@ -255,7 +255,7 @@ set_convoys = 30
 
 ### Field Marshals ###
 create_field_marshal = {
-	name = "Zhang Zuolin"
+	name = "장쭤린"
 	desc = "POLITICS_ZHANG_ZUOLIN_ARMY_DESC"
 	picture = "Portrait_FNG_Zhang_Zuolin.tga"
 	traits = {
@@ -277,7 +277,7 @@ create_field_marshal = {
 ### Corps Commanders ###
 
 create_corps_commander = {
-	name = "Zhang Xueliang"
+	name = "장쉐량"
 	desc = "POLITICS_ZHANG_XUELIANG_ARMY_DESC"
 	picture = "Portrait_FNG_Zhang_Xueliang_Army.tga"
 	traits = {
@@ -295,7 +295,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Wu Junsheng"
+	name = "우쥔성"
 	desc = "POLITICS_WU_JUNSHENG_ARMY_DESC"
 	picture = "Portrait_FNG_Wu_Junsheng.tga"
 	traits = {
@@ -311,7 +311,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Zhang Zuoxiang"
+	name = "장쭤샹"
 	desc = "POLITICS_ZHANG_ZUOXIANG_ARMY_DESC"
 	picture = "Portrait_FNG_Zhang_Zuoxiang.tga"
 	traits = {
@@ -328,7 +328,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Yang Yuting"
+	name = "양위팅"
 	desc = "POLITICS_YANG_YUTING_ARMY_DESC"
 	picture = "Portrait_FNG_Yang_Yuting.tga"
 	traits = {
@@ -345,7 +345,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Wang Shuchang"
+	name = "왕수창"
 	desc = "POLITICS_WANG_SHUCHANG_ARMY_DESC"
 	picture = "Portrait_FNG_Wang_Shuchang.tga"
 	traits = {
@@ -361,7 +361,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Ma Zhanshan"
+	name = "마잔산"
 	desc = "POLITICS_MA_ZHANSHAN_ARMY_DESC"
 	picture = "Portrait_FNG_Ma_Zhanshan.tga"
 	traits = {
@@ -377,7 +377,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Wan Fulin"
+	name = "완푸린"
 	desc = "POLITICS_WAN_FULIN_ARMY_DESC"
 	picture = "Portrait_FNG_Wan_Fulin.tga"
 	traits = {
@@ -393,7 +393,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Zang Shiyi"
+	name = "짱스이"
 	desc = "POLITICS_ZANG_SHIYI_ARMY_DESC"
 	picture = "Portrait_FNG_Zang_Shiyi.tga"
 	traits = {
@@ -410,7 +410,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Zhang Haipeng"
+	name = "장하이펑"
 	desc = "POLITICS_ZHANG_HAIPENG_ARMY_DESC"
 	picture = "Portrait_FNG_Zhang_Haipeng.tga"
 	traits = {
@@ -427,7 +427,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Tang Yulin"
+	name = "탕위린"
 	desc = "POLITICS_TANG_YULIN_ARMY_DESC"
 	picture = "Portrait_FNG_Tang_Yulin.tga"
 	traits = {
@@ -443,7 +443,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Bao Wenyue"
+	name = "바오원웨"
 	desc = "POLITICS_BAO_WENYUE_ARMY_DESC"
 	picture = "Portrait_FNG_Bao_Wenyue.tga"
 	traits = {
@@ -457,7 +457,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Zhang Jinghui"
+	name = "장징후이"
 	desc = "POLITICS_ZHANG_JINGHUI_ARMY_DESC"
 	picture = "Portrait_FNG_Zhang_Jinghui.tga"
 	traits = {
@@ -473,7 +473,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Feng Zhanhai"
+	name = "펑잔하이"
 	desc = "POLITICS_FENG_ZHANHAI_ARMY_DESC"
 	picture = "Portrait_FNG_Feng_Zhanhai.tga"
 	traits = {
@@ -488,7 +488,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Su Bingwen"
+	name = "쑤빙원"
 	desc = "POLITICS_SU_BINGWEN_ARMY_DESC"
 	picture = "Portrait_FNG_Su_Bingwen.tga"
 	traits = {
@@ -505,7 +505,7 @@ create_corps_commander = {
 ### Admirals ###
 
 create_navy_leader = {
-	name = "Shen Honglie"
+	name = "선훙례"
 	desc = "POLITICS_SHEN_HONGLIE_NAVY_DESC"
 	picture = "Portrait_FNG_Shen_Honglie.tga"
 	traits = {
