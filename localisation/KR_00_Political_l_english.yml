@@ -8,7 +8,7 @@ SYNDIE_SOC_DEM_NOTICE:0 "(생디칼리스트 지지)"
 
 ### Opening Event ###
 kr.political.1.t:0 "카이저라이히 Beta 0.11.1 - 집으로 가는 머나먼 길"
-kr.political.1.d:0 "카이저라이히 개발진이 카이저라이히 베타버전 0.11.1를 하츠오브아이언4에 선사합니다!\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경 할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, 깃허브 이슈트래커에 제보해주셔서 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
+kr.political.1.d:0 "카이저라이히 개발진이 카이저라이히 베타버전 0.11.1를 하츠오브아이언4에 선사합니다!\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치 아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, 깃허브 이슈트래커에 제보해주셔서 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
 kr.political.1.a:0 "물론이죠!"
 
 ### Returning Cores ###
@@ -21,16 +21,16 @@ KR_returned_land:0 "우리 영토가 반환되었습니다"
 kr.political.75.t:0 "[From.From.GetAdjective] 영토"
 kr.political.75.d:0 "[Root.GetAdjective] 정부가 우리가 정당한 명분없이 소유 중인 [From.GetAdjective]의 영토에 대한 문제를 논의하였습니다. 우리의 동맹국인 [From.GetAdjective]에게 영토를 반환해주어야할까요?"
 kr.political.75.a:0 "그래, 모든 영토를 반환해주어라"
-KR_will_return_all:0 "[return_to.GetAdjective]의 핵심 주 혹은 영유권 주장을 한 지역에 인접한 영토가 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 [Root.GetAdjective]이(가) §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역을 포함하지 §R않을 것§!입니다."
+KR_will_return_all:0 "[return_to.GetAdjective]의 핵심 주 혹은 영유권 주장을 한 지역에 인접한 영토가 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 [Root.GetAdjective](이)가 §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역을 포함하지 §R않을 것§!입니다."
 kr.political.75.b:0 "그래, 영토를 반환해주어라... 하지만 요충지는 갖고 있을 것이다."
-KR_will_return_rest:0 "[return_to.GetAdjective]의 핵심 주 혹은 영유권 주장을 한 지역에 인접한 영토가 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 [Root.GetAdjective]이(가) §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역이나 운하 같은 §Y요충지§!는 포함하지 §R않을 것§!입니다."
+KR_will_return_rest:0 "[return_to.GetAdjective]의 핵심 주 혹은 영유권 주장을 한 지역에 인접한 영토가 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 [Root.GetAdjective](이)가 §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역이나 운하 같은 §Y요충지§!는 포함하지 §R않을 것§!입니다."
 kr.political.75.c:0 "핵심 지역만 반환해주어라"
-KR_will_return_cores:0 "[return_to.GetAdjective]의 핵심 주에 인접한 지역이 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 이것은 [Root.GetAdjective]이(가) §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역이나 운하 같은 §Y요충지§!는 포함하지 §R않을 것§!입니다. [return_to.GetAdjective]이(가) §Y영유권을 주장한§! 모든 지역도 그대로 가지고 있을 것입니다."
+KR_will_return_cores:0 "[return_to.GetAdjective]의 핵심 주에 인접한 지역이 §Y[return_to.GetNameDef]§!에게 반환될 것입니다.\n\n알림: 이것은 이것은 [Root.GetAdjective](이)가 §Y영유권을 주장§! 하거나 §Y핵심 주§!인 지역이나 운하 같은 §Y요충지§!는 포함하지 §R않을 것§!입니다. [return_to.GetAdjective](이)가 §Y영유권을 주장한§! 모든 지역도 그대로 가지고 있을 것입니다."
 kr.political.75.e:0 "모두 가지고 있을 것이다!"
 KR_will_not_return:0 "우리는 어떤 영토도 저들에게 반환하지 §R않을 것§!이고 다시 반환 요구를 받지도 않을 것입니다."
 
-kr.political.76.t:0 "[From.GetNameDefCap]이(가) [Root.GetAdjective] 영토를 반환하다"
-kr.political.76.d:0 "우리의 동맹인 [From.GetNameDefCap]이(가) 우리가 과거에 소유하던 영토 중 일부를 반환해주었습니다!"
+kr.political.76.t:0 "[From.GetNameDefCap](이)가 [Root.GetAdjective] 영토를 반환하다"
+kr.political.76.d:0 "우리의 동맹인 [From.GetNameDefCap](이)가 우리가 과거에 소유하던 영토 중 일부를 반환해주었습니다!"
 kr.political.76.a:0 "좋았어!"
 kr.political.200.t:0 "AI Move Units Check"
 kr.political.200.d:0 "If you're seeing this, it's an issue. Stop tag-switching."
@@ -68,7 +68,7 @@ KR_party_pop_more_than_75:0 "정당 인기도가 §Y75%§! 보다 많음"
 DIPLOMACY_DOCKING_RIGHTS:0 "정박권"
 
 ### Decisions ###
-#political_actions:0 "Political Actions" duplicate
+#political_actions:0 "정치적 행동" duplicate
 legislate_more_freedoms:0 "입법의 자유"
 legislate_more_freedoms_desc:0 "아마 우리나라의 안정도를 향상시킬 가장 간단한 방법은 바로, 국민들에게 원하는 것을 해주는 것일겁니다. 거북한 타협안도 거기에 포함 되겠지만, 이상적으로 이것은 질서가 복구될 때까지 대중들을 설득할 수 있는 일시적인 조치일뿐입니다."
 police_crackdown:0 "경찰의 탄압"
