@@ -130,27 +130,27 @@ country_event = { id = lepcollapse.1 days = 3 } # Sun Chuanfang meets with the g
 country_event = { id = lep.1 days = 1 }
 
 create_country_leader = {
-	name = "Board of Directors"
+	name = "총괄경영이사회"
 	picture = "Portrait_AOG_Board.tga"
 	expire = "1965.1.1"
 	ideology = market_liberal_subtype
 }
 create_country_leader = {
-	name = "Chen Tiaoyuan"
+	name = "천댜오위안"
 	desc = "POLITICS_ANQ_CHEN_TIAOYUAN_DESC"
 	picture = "Portrait_ANQ_Chen_Tiaoyuan.tga"
 	expire = "1965.1.1"
 	ideology = authoritarian_democrat_subtype
 }
 create_country_leader = {
-	name = "Sun Chuanfang"
+	name = "쑨촨팡"
 	desc = "POLITICS_LEP_SUN_CHUANFANG_DESC"
 	picture = "Portrait_LEP_Sun_Chuanfang.tga"
 	expire = "1965.1.1"
 	ideology = paternal_autocrat_subtype
 }
 create_country_leader = {
-	name = "Zhang Tianran"
+	name = "장톈란"
 	picture = "gfx/leaders/SQI/Portrait_Shandong_Zhang_Tianran.tga"
 	expire = "1965.1.1"
 	ideology = national_populist_subtype
@@ -159,7 +159,7 @@ create_country_leader = {
 ### Field Marshals ###
 
 create_field_marshal = {
-	name = "Sun Chuanfang"
+	name = "쑨촨팡"
 	desc = "POLITICS_LEP_SUN_CHUANFANG_ARMY_DESC"
 	picture = "Portrait_LEP_Sun_Chuanfang.tga"
 	traits = {
@@ -181,7 +181,7 @@ create_field_marshal = {
 ### Corps Commanders
 
 create_corps_commander = { # Anhui Province
-	name = "Chen Tiaoyuan"
+	name = "첸댜오위안"
 	desc = "POLITICS_ANQ_CHEN_TIAOYUAN_ARMY_DESC"
 	portrait_path = "gfx/leaders/ANQ/Portrait_ANQ_Chen_Tiaoyuan.tga"
 	traits = {
@@ -199,7 +199,7 @@ create_corps_commander = { # Anhui Province
 }
 
 create_corps_commander = { # Nanjing
-	name = "Qi Xieyuan"
+	name = "치셰위안"
 	desc = "POLITICS_LEP_QI_XIEYUAN_ARMY_DESC"
 	picture = "Portrait_LEP_Qi_Xieyuan.tga"
 	traits = {
@@ -219,7 +219,7 @@ create_corps_commander = { # Nanjing
 }
 
 create_corps_commander = { # Zhejiang Province
-	name = "Chen Yi"
+	name = "천이"
 	desc = "POLITICS_LEP_CHEN_YI_DESC"
 	picture = "Portrait_LEP_Chen_Yi.tga"
 	traits = {
@@ -239,7 +239,7 @@ create_corps_commander = { # Zhejiang Province
 }
 
 create_corps_commander = { # Jiangsu Province
-	name = "Zheng Junyan"
+	name = "정쭌얀"
 	desc = "POLITICS_LEP_ZHENG_JUNYAN_DESC"
 	picture = "Portrait_LEP_Zheng_Junyan.tga"
 	traits = {
@@ -255,7 +255,7 @@ create_corps_commander = { # Jiangsu Province
 }
 
 create_corps_commander = { # Jiangxi Province
-	name = "Deng Ruzuo"
+	name = "덩루쭤"
 	desc = "POLITICS_LEP_DENG_RUZUO_DESC"
 	picture = "Portrait_LEP_Deng_Ruzuo.tga"
 	traits = {
@@ -271,7 +271,7 @@ create_corps_commander = { # Jiangxi Province
 }
 
 create_corps_commander = { # Fujian Province
-	name = "Zhou Yinren"
+	name = "저우인런"
 	desc = "POLITICS_LEP_ZHOU_YINREN_DESC"
 	picture = "Portrait_LEP_Zhou_Yinren.tga"
 	traits = {
@@ -289,7 +289,7 @@ create_corps_commander = { # Fujian Province
 }
 
 create_corps_commander = {
-	name = "Shangguan Yunxiang"
+	name = "상관윈샹"
 	desc = "POLITICS_LEP_SHANGGUAN_YUNXIANG_DESC"
 	picture = "Portrait_LEP_Shangguan_Yunxiang.tga"
 	traits = {
@@ -307,7 +307,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Zhou Fengqi"
+	name = "저우펑치"
 	desc = "POLITICS_LEP_ZHOU_FENGQI_DESC"
 	picture = "Portrait_LEP_Zhou_Fengqi.tga"
 	traits = {
@@ -321,7 +321,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Tang Enbo"
+	name = "탕언보"
 	desc = "POLITICS_LEP_TANG_ENBO_DESC"
 	picture = "Portrait_LEP_Tang_Enbo.tga"
 	traits = {
@@ -336,7 +336,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Shi Yousan"
+	name = "스여우싼"
 	desc = "POLITICS_LEP_SHI_YOUSAN_DESC"
 	picture = "Portrait_LEP_Shi_Yousan.tga"
 	traits = {
@@ -351,7 +351,7 @@ create_corps_commander = {
 }
 
 create_navy_leader = {
-	name = "Yang Shuzhuang"
+	name = "량슈좡"
 	desc = "POLITICS_LEP_YANG_SHUZHUANG_DESC"
 	picture = "Portrait_LEP_Yang_Shuzhuang.tga"
 	traits = {
