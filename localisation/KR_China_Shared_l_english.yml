@@ -61,8 +61,8 @@ china_army_reform_effect:0 "§H육군 개혁§! 지속:\n사단 방어: [?0.15|G
 china_army_reform_effect_complete:0 "§H육군 개혁§!이 §G완료되었습니다!§!\n사단 방어: [?0.15|G1%=]\n"
 
 ### United Front
-china_united_front_decisions:0 "중국 통일 전선"
-assume_chinese_leadership:0 "국가 지도자 지위를 맡다"
+china_united_front_decisions:0 "중화통일전선"
+assume_chinese_leadership:0 "국가지도자 지위를 맡다"
 assume_chinese_leadership_desc:0 "외국의 지배에 대항할 수 있는 가장 강력한 파벌로서, 우리는 중국 전체에 대해 지도력을 행사할 수 있으며 외세 침략에 맞서 국가를 이끌 능력이 있습니다."
 assume_chinese_leadership_tooltip:0 "§H[current_china_leader.GetNameDef]§!보다 군사력이 120% 이상 강합니다"
 assume_chinese_leadership_tooltip_QIE: "§H[QIE.GetNameDef]§!보다 군사력이 100% 이상 강합니다"
@@ -87,32 +87,32 @@ china_shared.1.d:0 "중화통일전선으로 인해 분열된 조국을 통일�
 china_shared.1.a:0 "제기랄."
 
 china_shared.2.t:0 "통일전선"
-china_shared.2.d:0 "일본이 침략을 준비하기 시작하면서 [Root.GetLeader]은(는) 침략자에 대항한 전국적 단결체 창설을 제안하기로 결정했습니다. 이전에 싸웠던 상대와 함께 싸운다는 사실을 의미한다고 하더라도 이건 꼭 필요한 절차입니다. 중화 전토의 통신 시설이 위협을 받고 있기는 하지만, 필요하다면 전령을 운용하는 한이 있더라도 꼭 서신을 전달할 겁니다!"
+china_shared.2.d:0 "일본이 침략을 준비하기 시작하면서 [Root.GetLeader](은)는 침략자에 대항한 전국적 단결체 창설을 제안하기로 결정했습니다. 이전에 싸웠던 상대와 함께 싸운다는 사실을 의미한다고 하더라도 이건 꼭 필요한 절차입니다. 중화 전토의 통신 시설이 위협을 받고 있기는 하지만, 필요하다면 전령을 운용하는 한이 있더라도 꼭 서신을 전달할 겁니다!"
 china_shared.2.a:0 "중국을 위해!"
 
 china_shared.3.t:0 "통일을 위한 부름"
-china_shared.3.d:0 "학자와 지식인을 위시한 다양한 사상가들이 최근 몇년간 계속해서 외세의 침략에 대항하는 전국적 통합을 요구해 왔습니다. 그들의 외침은 대체로 무시당하기는 했지만 그래도 상당히 멋진 주장이기는 합니다. 그리고 일제의 침략 야욕이 국토 대부분을 뒤흔들고 있는 와중에 [From.GetNameDef]이(가) 일본에 저항하기 위한 일시적인 동맹체를 창설하자고 제안했으니, 지금이야말로 천하 각지의 군웅들이 귀를 기울여야만 하는 때일지도 모르겠습니다. 아무리 자기 이익에만 눈이 먼 자라고 할지라도 중화의 운명이 경각에 달했다는 사실을 인정해야만 합니다."
+china_shared.3.d:0 "학자와 지식인을 위시한 다양한 사상가들이 최근 몇년간 계속해서 외세의 침략에 대항하는 전국적 통합을 요구해 왔습니다. 그들의 외침은 대체로 무시당하기는 했지만 그래도 상당히 멋진 주장이기는 합니다. 그리고 일제의 침략 야욕이 국토 대부분을 뒤흔들고 있는 와중에 [From.GetNameDef](이)가 일본에 저항하기 위한 일시적인 동맹체를 창설하자고 제안했으니, 지금이야말로 천하 각지의 군웅들이 귀를 기울여야만 하는 때일지도 모르겠습니다. 아무리 자기 이익에만 눈이 먼 자라고 할지라도 중화의 운명이 경각에 달했다는 사실을 인정해야만 합니다."
 china_shared.3.a:0 "그래, 우리는 하나로 뭉쳐야 한다."
 china_shared.3.b:0 "절대로 저들과 함께 싸울 수는 없다!"
 
-china_shared.4.t:0 "[From.GetNameDefCap]이(가) 통일전선에 참가하다"
-china_shared.4.d:0 "[From.GetNameDef]은(는) 중화통일전선에 참가하면서 모든 자원과 영향력을 쏟아내리라고 맹세했습니다. 이로 인해 역사적인 경쟁구도나 정당한 국가 지도권을 갖기 위한 움직임이 완전히 끝날 리는 없겠지만, 어찌되었든간에 아군과 함께 힘을 합쳐 외세 침략군에 맞서 싸울겁니다."
+china_shared.4.t:0 "[From.GetNameDefCap](이)가 통일전선에 참가하다"
+china_shared.4.d:0 "[From.GetNameDef](은)는 중화통일전선에 참가하면서 모든 자원과 영향력을 쏟아내리라고 맹세했습니다. 이로 인해 역사적인 경쟁구도나 정당한 국가지도권을 갖기 위한 움직임이 완전히 끝날 리는 없겠지만, 어찌되었든간에 아군과 함께 힘을 합쳐 외세 침략군에 맞서 싸울겁니다."
 china_shared.4.a:0 "완벽해."
 
-china_shared.5.t:0 "[From.GetNameDefCap]이(가) 배신하다"
-china_shared.5.d:0 "[From.GetNameDef]은(는) 타당한 이유도 없이 통일전선에 가담을 거부하는 다분히 고의적인 배신행위를 자행했습니다. 전 중화의 운명보다 개인의 이익을 우선시하는 행위에는 변명의 여지가 없습니다!"
+china_shared.5.t:0 "[From.GetNameDefCap](이)가 배신하다"
+china_shared.5.d:0 "[From.GetNameDef](은)는 타당한 이유도 없이 통일전선에 가담을 거부하는 다분히 고의적인 배신행위를 자행했습니다. 전 중화의 운명보다 개인의 이익을 우선시하는 행위에는 변명의 여지가 없습니다!"
 china_shared.5.a:0 "반역이다!"
 
-china_shared.6.t:0 "[From.GetNameDefCap]이(가) 휴전을 요청하다"
-china_shared.6.d:0 "[From.GetNameDef]은(는) 오로지 국익을 우선시하면서 일제의 침략 행위가 끝날 때까지 일시적인 휴전을 실시하자고 제의해왔습니다. 하지만 이 협정은 양측간의 모든 점령지를 반환해야 한다는 조건을 달고 있습니다."
+china_shared.6.t:0 "[From.GetNameDefCap](이)가 휴전을 요청하다"
+china_shared.6.d:0 "[From.GetNameDef](은)는 오로지 국익을 우선시하면서 일제의 침략 행위가 끝날 때까지 일시적인 휴전을 실시하자고 제의해왔습니다. 하지만 이 협정은 양측간의 모든 점령지를 반환해야 한다는 조건을 달고 있습니다."
 china_shared.6.a:0 "그래. 지금 당장은."
 china_shared.6.b:0 "절대로 저들과 함께 싸울 수는 없다!"
 
-china_shared.7.t:0 "[From.GetNameDefCap]이(가) 휴전을 받아들이다"
-china_shared.7.d:0 "[From.GetNameDef]은(는) 휴전 제안을 수용했고 통일전선에 합류했습니다. 휴전 조약에 따라 양측의 모든 점령지를 반환해야 합니다."
+china_shared.7.t:0 "[From.GetNameDefCap](이)가 휴전을 받아들이다"
+china_shared.7.d:0 "[From.GetNameDef](은)는 휴전 제안을 수용했고 통일전선에 합류했습니다. 휴전 조약에 따라 양측의 모든 점령지를 반환해야 합니다."
 china_shared.7.a:0 "타당한 대가지."
 
-china_shared.8.t:0 "[From.GetNameDefCap]이(가) 휴전을 거부하다"
+china_shared.8.t:0 "[From.GetNameDefCap](이)가 휴전을 거부하다"
 china_shared.8.d:0 "[From.GetNameDef]에게 보낸 휴전 제안이 거부당했습니다."
 china_shared.8.a:0 "반역이다!"
 
@@ -216,12 +216,12 @@ china_redoubt.4.d:0 "중앙 정부가 최선을 다했고 일본의 진격에 �
 china_redoubt.4.a:0 "빠르게!"
 china_redoubt.4.b:0 "(요새로 플레이한다)"
 
-china_redoubt.5.t:0 "[From.GetCliqueShortName]이(가) [china_national_redoubt.GetCliqueShortName]에 도착하다"
-china_redoubt.5.d:0 "[From.GetCliqueShortName]는 시체와 거지들로 꽉 막힌 산길과 비좁은 도로를 따라 수천 킬로미터를 가로질러 힘겨운 여정을 마쳤고 마침내 [china_national_redoubt.GetCliqueShortName]에 도착했습니다. 지금 당장은 안전할지도 모르지만, 황제의 손이 여기까지 도달하는데 얼마나 걸릴지는 아무도 모릅니다. 길고 지리한 전쟁이 기다립니다."
+china_redoubt.5.t:0 "[From.GetCliqueShortName](이)가 [china_national_redoubt.GetCliqueShortName]에 도착하다"
+china_redoubt.5.d:0 "[From.GetCliqueShortName](은)는 시체와 거지들로 꽉 막힌 산길과 비좁은 도로를 따라 수천 킬로미터를 가로질러 힘겨운 여정을 마쳤고 마침내 [china_national_redoubt.GetCliqueShortName]에 도착했습니다. 지금 당장은 안전할지도 모르지만, 황제의 손이 여기까지 도달하는데 얼마나 걸릴지는 아무도 모릅니다. 길고 지리한 전쟁이 기다립니다."
 china_redoubt.5.a:0 "어서오시오!"
 
-china_redoubt.6.t:0 "[From.GetCliqueShortName]이(가) 고향으로 돌아오다"
-china_redoubt.6.d:0 "길고 힘든 전쟁 끝에 [From.GetCliqueShortName]이(가) 수도로 돌아왔습니다. 하지만 수복에도 불구하고 수많은 정부 청사들은 정적 속에 버려진 채로 지붕은 잿더미가 되었고 벽은 움푹 패인 파편으로 전락한 상태입니다. 수도가 옛 모습을 회복하고 국가도 예전과 같이 돌아오기 위해서는 오랜 시간이 걸릴 겁니다."
+china_redoubt.6.t:0 "[From.GetCliqueShortName](이)가 고향으로 돌아오다"
+china_redoubt.6.d:0 "길고 힘든 전쟁 끝에 [From.GetCliqueShortName](이)가 수도로 돌아왔습니다. 하지만 수복에도 불구하고 수많은 정부 청사들은 정적 속에 버려진 채로 지붕은 잿더미가 되었고 벽은 움푹 패인 파편으로 전락한 상태입니다. 수도가 옛 모습을 회복하고 국가도 예전과 같이 돌아오기 위해서는 오랜 시간이 걸릴 겁니다."
 china_redoubt.6.a:0 "마침내 해냈구나."
 
 QIE_redoubt_totalist:0 "대청 군사정부"
