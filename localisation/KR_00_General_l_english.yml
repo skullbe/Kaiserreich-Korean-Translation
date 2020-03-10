@@ -42,7 +42,7 @@ can_raise_autonomy_level:0 "자치도를 높일 수 있습니다\n"
 puppet_can_become_free:0 "독립할 수 있습니다\n"
 puppet_can_be_annexed:0 "종주국에게 합병될 수 있습니다\n"
 may_raise_autonomy:0 "§Y[Root.GetNameDefCap]§!의 자치도를 낮출 수 있습니다\n"
-may_become_free:0 "§Y[Root.GetNameDefCap]§! (은)는 독립을 향해가고 있습니다\n"
+may_become_free:0 "§Y[Root.GetNameDefCap]§!(은)는 독립을 향해가고 있습니다\n"
 
 ### Modifiers ###
 KR_trade_laws_cost_factor:0 "Trade Laws Cost"
@@ -56,36 +56,36 @@ cannot_train_units_tt:2 "§RCannot train units, disband units, or edit unit temp
 
 ### Autonomy Events ###
 kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구되다"
-kr.political.100.d:0 "[Root.GetNameDef]은(는) 여전히 [overlord_name.GetAdjective]의 통제 하에 분투하고 있지만, [Root.GetAdjective] 군대는 이제 더 큰 자율성을 발휘하도록 자국의 국경에 대한 통제권을 주장하게 되었습니다. 이것은 독립과는 거리가 멀지만 국경을 통제하기 위해 더 이상 [overlord_name.GetAdjective] 군대에 의존 할 필요가 없다는 것을 의미합니다."
+kr.political.100.d:0 "[Root.GetNameDef](은)는 여전히 [overlord_name.GetAdjective]의 통제 하에 분투하고 있지만, [Root.GetAdjective] 군대는 이제 더 큰 자율성을 발휘하도록 자국의 국경에 대한 통제권을 주장하게 되었습니다. 이것은 독립과는 거리가 멀지만 국경을 통제하기 위해 더 이상 [overlord_name.GetAdjective] 군대에 의존 할 필요가 없다는 것을 의미합니다."
 kr.political.100.a:0 "훌륭하군."
 
 kr.political.101.t:0 "대 [Root.GetAdjective] 자치령?"
-kr.political.101.d:0 "[Root.GetNameDefCap]은(는) [overlord_name.GetAdjective] 정부의 통제 하에 있지만, 우리의 힘이 다시 강해지며 그 통제권은 확실히 줄어들기 시작하고 있습니다. [Root.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 우리의 지도자들은 우리 자신의 문제에 대한 더 많은 통제권을 요구하고 있습니다. 물론 [overlord_name.GetAdjective]에서도 오래 반대할 수는 없을 것입니다."
+kr.political.101.d:0 "[Root.GetNameDefCap](은)는 [overlord_name.GetAdjective] 정부의 통제 하에 있지만, 우리의 힘이 다시 강해지며 그 통제권은 확실히 줄어들기 시작하고 있습니다. [Root.GetAdjective]의 힘은 쉽게 억제될 수 있는 것이 아니며, 이미 우리의 지도자들은 우리 자신의 문제에 대한 더 많은 통제권을 요구하고 있습니다. 물론 [overlord_name.GetAdjective]에서도 오래 반대할 수는 없을 것입니다."
 kr.political.101.a:0 "[Root.GetNameDef] 만세!"
 
 ### Government in Exile Events ###
-mtg_exile_government.1.t:0 "[exile_nation.GetAdjective]의 망명 지도자가 군복무를 원한다"
+mtg_exile_government.1.t:0 "[exile_nation.GetAdjective]의 망명 지도자가 군복무를 원하다"
 mtg_exile_government.1.desc:0 "적에게 점령당한 영토와 여러 중립국들을 통한 길고 위험한 여정 끝에, 항복한 동맹의 고위 군 장교 중 한 명이 드디어 수도에 도착했습니다. 짧은 회복 시간 후, 그는 우리의 공동투쟁에서의 군복무를 원합니다."
 mtg_exile_government.1.a:0 "당신의 싸움은 아직 끝나지 않았습니다."
 mtg_exile_government.2.title:0 "[From.GetAdjective] 망명정부"
-mtg_exile_government.2.desc:0 "[From.GetLeader]은(는) [From.GetNameDef]의 영토를 반환하고 전후의 평화에 대비하여 [From.GetRulingPartyLong]의 임시 내각을 재성립할 것을 [Root.GetAdjective] 정부에 공식적으로 요청했습니다. "
+mtg_exile_government.2.desc:0 "[From.GetLeader](은)는 [From.GetNameDef]의 영토를 반환하고 전후의 평화에 대비하여 [From.GetRulingPartyLong]의 임시 내각을 재성립할 것을 [Root.GetAdjective] 정부에 공식적으로 요청했습니다. "
 mtg_exile_government.2.a:0 "그들의 영토를 돌려줄 때가 되었다."
 mtg_exile_government.2.b:0 "아직 때가 되지 않았다."
-mtg_exile_government.3.title:0 "[From.GetName]이(가) 해군 합병을 요청하다"
+mtg_exile_government.3.title:0 "[From.GetName](이)가 해군 합병을 요청하다"
 mtg_exile_government.3.desc:0 "[From.GetAdjective] 해군 수뇌부는 우리 해군을 그들의 해군에 통합하기 위한 계획을 우리에게 제시하였습니다. 그들은 [From.GetAdjective] 해군이 우리 해군을 지휘하게 되면 현재에 비해 효율성이 드라마틱하게 상승할 것이라 주장하고 있습니다."
 mtg_exile_government.3.a:0 "동의한다."
 mtg_exile_government.3.b:0 "저들의 시중을 드는 일은 없을 것이다."
-mtg_exile_government.4.title:0 "[From.GetName]이(가) 해군 합병을 수락하다"
+mtg_exile_government.4.title:0 "[From.GetName](이)가 해군 합병을 수락하다"
 mtg_exile_government.4.desc:0 "[From.GetAdjective] 정부는 우리의 제안에 동의했으며, 그들의 배를 우리 지휘하로 배속시키는 데 동의했습니다."
 mtg_exile_government.4.a:0 "훌륭하군."
-mtg_exile_government.5.title:0 "[From.GetName]이(가) 해군 합병을 거절하다"
+mtg_exile_government.5.title:0 "[From.GetName](이)가 해군 합병을 거절하다"
 mtg_exile_government.5.desc:0 "[From.GetAdjective] 정부는 그들의 해군이 결코 외세의 지휘를 받지 않을 것이라고 선언했습니다. 그들은 우리를 기꺼이 도울 것이지만, 독립적으로 도울 것입니다."
 mtg_exile_government.5.a:0 "그들은 동맹의 이익보다 스스로의 자존심을 더 우선시하는군."
-mtg_generic.1.title:0 "[From.GetName] 에서 정부 변화를 강요하다"
-mtg_generic.1.desc:0 "[From.GetNameDef]는 우리 현 정부에 대한 낮은 지지율을 근거로 들며, 정부 개혁을 요구했습니다."
+mtg_generic.1.title:0 "[From.GetName]에서 정부 변화를 강요하다"
+mtg_generic.1.desc:0 "[From.GetNameDef](은)는 우리 현 정부에 대한 낮은 지지율을 근거로 들며, 정부 개혁을 요구했습니다."
 mtg_generic.1.a:0 "받아들일 수 밖에 없다"
-mtg_exile_leader_added.1.t:1 "[exile_nation.GetAdjective]의 망명 지도자가 복무를 원한다"
-mtg_exile_leader_added.1.desc:1 "적에게 점령당한 영토와 여러 중립국들을 통한 길고 위험한 여정 끝에, [From.GetName]의 고위 군 장교 중 한 명이 드디어 수도에 도착했습니다. 짧은 회복 시간 후, [From.GetSheHe]는 우리의 공동투쟁에서의 [From.GetHerHis]의 군복무를 원합니다.\n\n소문에 의하면 [From.GetSheHe]는 "사람을 죽이고 물품을 파괴하는 업무로 복귀하는" 데에 꽤나 열정적이라고 합니다."
+mtg_exile_leader_added.1.t:1 "[exile_nation.GetAdjective]의 망명 지도자가 복무를 원하다"
+mtg_exile_leader_added.1.desc:1 "적에게 점령당한 영토와 여러 중립국들을 통한 길고 위험한 여정 끝에, [From.GetName]의 고위 군 장교 중 한 명이 드디어 수도에 도착했습니다. 짧은 회복 시간 후, [From.GetSheHe](은)는 우리의 공동투쟁에서의 [From.GetHerHis]의 군복무를 원합니다.\n\n소문에 의하면 [From.GetSheHe](은)는 "사람을 죽이고 물품을 파괴하는 업무로 복귀"하는 데에 꽤나 열정적이라고 합니다."
 mtg_exile_leader_added.1.a:1 "당신의 싸움은 아직 끝나지 않았습니다."
 
 ### Land Units ###
@@ -128,7 +128,7 @@ Mittelmacht:0 "라이히스팍트"
 Entente:0 "협상국"
 Belgrade_Pact:0 "베오그라드 협약"
 Third_International:0 "제3인터내셔널"
-Scandinavian_Pact:0 "스칸디나비아 조약"
+Scandinavian_Pact:0 "스칸디나비아 협약"
 
 ### Custom Triggers ###
 had_war:0 "전쟁에서 싸운적이 있음"
@@ -147,12 +147,12 @@ russian_expansionism_threat:0 "러시아의 팽창주의 노선"
 kerensky_assassinated_threat:0 "케렌스키가 암살됨"
 macarthur_threat:0 "미국에서 민주주의가 축출됨"
 japanese_expansionism_threat:0 "일본의 팽창주의 노선"
-mittelafrika_collapse_threat:0 "미텔아프리카가 붕괴됨"
+mittelafrika_collapse_threat:0 "독일령 중앙아프리카가 붕괴됨"
 democratic_win_acw_threat:0 "제2차 미국 내전에서 민주주의가 살아남음"
 macarthur_wins_threat:0 "맥아더가 제2차 미국 내전에서 승리함"
 aus_wins_acw_threat:0 "미연합국이 제2차 미국 내전에서 승리함"
 csa_wins_acw_threat:0 "미노조연합이 제2차 미국 내전에서 승리함"
-belgrade_pact_threat:0 "베오그라드 조약이 창설됨"
+belgrade_pact_threat:0 "베오그라드 협약이 창설됨"
 
 ### Other ###
 tooltip_add_idea_closed_economy:0 "'§Y폐쇄경제§!'로 무역법을 변경합니다.\n"
@@ -171,7 +171,7 @@ received_equipment_5000:0 "그 나라에서 §G5000§! 보병 장비를 받을 �
 ### Name and Description ###
 BM_HISTORY_TITLE:0 "간략한 역사"
 KR_SCENARIO_NAME:0 "세계대전의 유산"
-KR_SCENARIO_DESC:0 "1936년은 세계사의 전환점이 될 것입니다. 거대한 기회인 동시에 위협이 다가오는 때입니다. 독일 제국과 프랑스 코뮌 사이의 긴장감이 거세지고 있습니다. 러시아와 미합중국은 내분의 조짐이 나타나고 있으며 쇠락한 제국 오스트리아와 오스만은 쇠퇴하고 있습니다. 한편 생디칼리슴, 전체주의 그리고 급진사회주의는 전 세계에 뿌리내리고 있습니다. 세계대전 종전 후 15년, 옛 적국들이 다시 고개를 들고 있습니다. 단 하나의 불씨만으로도 이 화약고는 폭발하게 될 것입니다..."
+KR_SCENARIO_DESC:0 "1936년은 세계사의 전환점이 될 것입니다. 거대한 기회인 동시에 위협이 다가오는 때입니다. 독일 제국과 프랑스 코뮌 사이의 긴장감이 거세지고 있습니다. 러시아와 미합중국은 내분의 조짐이 나타나고 있으며 쇠락한 제국 오스트리아와 오스만은 쇠퇴하고 있습니다. 한편 생디칼리슴, 전체주의 그리고 급진사회주의는 전세계에 뿌리내리고 있습니다. 세계대전 종전 후 15년, 옛 적국들이 다시 고개를 들고 있습니다. 단 하나의 불씨만으로도 이 화약고는 폭발하게 될 것입니다..."
 
 ### Major Nations ###
 
@@ -375,7 +375,7 @@ cat_anti_air:0 "고정 대공포"
 cat_light_armor_research:0 "경기갑 연구 속도"
 cat_light_spg:0 "경자주포"
 cat_medium_spg:0 "중자주포"
-efficiency_tech:0 "생산효율기술"
+efficiency_tech:0 "생산 효율 기술"
 excavation_tech_research:0 "굴착 기술 연구 속도"
 concentrated_industry_tech:0 "집중 산업 기술"
 dispersed_industry_tech:0 "분산 산업 기술"
