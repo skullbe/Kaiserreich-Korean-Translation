@@ -165,9 +165,9 @@ balticduchy.1830.t:0 "전쟁이 시작되다"
 balticduchy.1830.d:0 "더 이상 좌시할 수 없습니다 - 전쟁을 통해 우리 영토를 되찾아야 합니다!"
 balticduchy.1830.a:0 "신께서 우리와 함께 하신다(Gott ist mit uns)!"
 
-balticduchy.1832.t:0 "The Duchy Falls"
-balticduchy.1832.d:0 "The Baltic Duchy, having lost their bases of support in Riga and Tallinn, has completely collapsed, and their armies have dissolved."
-balticduchy.1832.a:0 "Hurrah!"
+balticduchy.1832.t:0 "공국의 몰락"
+balticduchy.1832.d:0 "리가와 탈린에서 지원 기지를 잃은 발트 공국은 완전히 무너졌고 군대는 해산되었습니다."
+balticduchy.1832.a:0 "만세!"
 
 balticduchy.184.t:0 "우리 발트 동포"
 balticduchy.184.d:0 "독일 출신의 비도덕적인 제국주의자들이 발트해 국가들의 존재를 모두 없애기로 결단을 내렸습니다. 발트 연합공국에 도착하는 독일 정착민들의 수가 매일마다 점점 더 늘어나면서, 현지 주민들은 집을 떠나야만 했습니다. 이 정책은 친독정책 공국 정부와 현지 발트인들간의 큰 불만을 맞닥뜨렸습니다. 저항 운동이 시작되었고 우리 형제들은 독일 제국주의에 대항하여 공공연한 반란을 일으켰습니다. 부르주아와의 전쟁에서 그들을 지원하는 것은 우리의 의무입니다!"
@@ -570,12 +570,12 @@ BAT_balts_army_desc:0 "우리나라 인구의 대다수를 차지하는 발트�
 BAT_truckprod_idea:0 "트럭 생산 중점"
 BAT_truckprod_idea_desc:0 ""
 
-BAT_war_of_independence:0 "The Second War of Independence"
-BAT_war_of_independence_desc:0 "Go forward! For our freedom and yours!"
+BAT_war_of_independence:0 "제2차 독립전쟁"
+BAT_war_of_independence_desc:0 "전진! 그대와 우리의 자유를 위해!"
 
-BAT_victory_imminent:0 "Victory Imminent"
-BAT_lost_momentum:0 "Lost Momentum"
-BATLAT_lost_momentum:0 "Lost Momentum"
+BAT_victory_imminent:0 "승리가 임박하다"
+BAT_lost_momentum:0 "잃어버린 기세"
+BATLAT_lost_momentum:0 "잃어버린 기세"
 
 ### Flags ###
 
