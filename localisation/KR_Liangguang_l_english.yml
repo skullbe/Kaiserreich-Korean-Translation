@@ -480,10 +480,10 @@ GXC_paternal_autocrat_party_long:0 "광서성 군벌                            
 GXC_national_populist_party:0 "일관도"
 GXC_national_populist_party_long:0 "일관도                                                                §gZhang Tianran's cult has limited influence in Liangguang.§!"
 
-GXC_social_democrat_kmt_party_long:0 "Productive People's Party"
-GXC_social_democrat_kmt_party:0 "Productive People's Party"
-GXC_social_liberal_party_federalist:0 "Public Interest Party"
-GXC_social_liberal_party_federalist_long:0 "Public Interest Party (Moderate)"
+GXC_social_democrat_kmt_party_long:0 "생산인민당"
+GXC_social_democrat_kmt_party:0 "생산인민당"
+GXC_social_liberal_party_federalist:0 "중국치공당"
+GXC_social_liberal_party_federalist_long:0 "중국치공당 (온건파)"
 
 PRC_totalist_party:0 "Chinese Syndicalist Party"
 PRC_totalist_party_long:0 "Chinese Syndicalist Party"
@@ -643,13 +643,13 @@ GXC_federal_army_desc:0 "The Guofangjun, or National Defense Army, was first for
 GXC_defense_force:0 "양광 방위군"
 GXC_defense_force_desc:0 "With great strides done to reform the provincial armies, we can start finalizing its restructuring into a proper defense force. This will make our army's purpose clear: The Defense of Liangguang from invaders, bandits, and rebels."
 
-GXC_seventh_army:0 "철군의 영광"
+GXC_seventh_army:0 "강철군의 영광"
 GXC_seventh_army_desc:0 "The Army of Steel is the nickname of the Kuomintang Republic of China's 7th Army, whose men hailed from Guangxi. The Steel Army was one of the few successful units of the Northern Expedition, when they earned their monicker, and their legacy lives on in the province as part of Guangxi's long list of military successes."
 
 GXC_fourth_army:0 "철군의 유산"
 GXC_fourth_army_desc:0 "The Iron Army is the nickname of the 4th Army of the Republic of China. These men from Guangdong formed the core of the KMT's forces during the Northern Expedition, quickly becoming known as one of its most capable units. As this army was essentially created from Chen Jiongming's Guangdong Army, their legacy is maintained to this day as a highly mobile and competent army despite the Expedition's failure."
 
-GXC_Officer_Vanguards:0 "장교 "
+GXC_Officer_Vanguards:0 "장교 전위부대"
 GXC_Officer_Vanguards_desc:0 "Officer Vanguards are units consisting purely of veteran NCOs and officers to serve as a vanguard to the army. Instead of spreading our officers thin to lead poorly-trained and inexperienced units, we can instead concentrate them in their own units, where their experience and skill will make them useful in daring assaults."
 
 GXC_Professional_Officer_Corps:0 "전문 장교단"
@@ -909,10 +909,10 @@ GXC_join_KMT:0 "국민당 중앙정부에 참여"
 GXC_join_KMT_desc:0 "We found ourselves agreeable with the Kuomintang Central Committee in Fujian once more. With out differences settled and goals united, it is time we rejoined them for the good of the National Revolution."
 
 GXC_contest_wang:0 "좌파 지배에 반대"
-GXC_contest_wang_desc:0 "The Leftists in Fujian have diverged further and further from Sun Yat-sen's teachings, poisoning it with imperialist ideals, such as Syndicalism, incompatible with China. They must be destroyed and purged for the good of the Party and, more importantly, the Chinese people."
+GXC_contest_wang_desc:0 "푸젠의 좌파들은 생디칼리슴 등 중국과 맞지않는 제국주의적 사상으로 쑨원의 가르침을 더럽히고있습니다. 그들은 반드시 소멸되고 숙청되어야합니다. 당을 위해서, 그리고 더 중요하게도, 중국의 민중들을 위해서."
 
 GXC_claim_leadership:0 "국민당 주도권 주장"
-GXC_claim_leadership_desc:0 "The Central Committee in Fujian has been destroyed. It is our duty to pick up the torch of National Revolution and ensure that it continues burning bright until China is free- or die trying."
+GXC_claim_leadership_desc:0 "푸젠의 중앙위원회는 섬멸되었습니다. 국민혁명의 횃불을 집어들고 -우리가 쓰러지지않는한- 중국이 자유로워질때까지 밝게 타오르도록 하는것이 우리의 의무입니다."
 
 ###RKMT tree
 
@@ -1153,7 +1153,7 @@ lnggxwar.6.t:0 "Lu Yuguang Repulsed"
 lnggxwar.6.d:0 "Lu Yuguang's attempt to retake Nanning from Li Zongren, who had time to fortify his position, has failed. Unsurprisingly, what is left of Guangxi's forces have defected to Li's new clique, further empowering his right-KMT movement."
 lnggxwar.6.a:0 "Li Zongren secures Guangxi."
 
-lnggxwar.7.t:0 "광서 군벌의 분열"
+lnggxwar.7.t:0 "광시 군벌의 분열"
 lnggxwar.7.d:0 "In the attempt to go up the Hongshui River, a tributary of the Pearl River, and cut off the invaders by retaking Baise, Lu Yuguang's force have desintegrated as they were quickly cut-off and destroyed near the city of Laibin. The Old Guangxi Clique is no more and its remnants have joined up with the new clique, securing Guangxi for Li Zongren's right-wing faction of the KMT."
 lnggxwar.7.a:0 "리쭝런이 승리했다."
 
@@ -1168,7 +1168,7 @@ lnggxwar.9.a:0 "신 광시 군벌의 대가를 치룬 승리로군"
 
 lnggxwar.10.t:0 "난닝 전투"
 lnggxwar.10.d:0 "Ma Ji was proven right as Li Zongren's assault on the capital of Guangxi commenced almost as soon as he arrived. Facing the full force of the Guangxi Clique, he was unable to dislodge them from their fortified positions and suffered heavy losses. When it was clear to Li that the clique had not fallen for his diversion and that he faced a disadvantageous situation, he retreated, and Ma Ji now has the chance to destroy Li's threat once and for all. However, with a portion of Li's force heading to Wuzhou as well, more cautious officers advise that they could regroup and cause trouble as bandits later, suggesting that we ask help from Guangdong to mop up Li's forces in and around Wuzhou."
-lnggxwar.10.a:0 "광동에 지원을 요청한다."
+lnggxwar.10.a:0 "광둥에 지원을 요청한다."
 lnggxwar.10.b:0 "우리끼리 리쭝런을 추적한다."
 
 lnggxwar.11.t:0 "리쭝런이 패배하다"
@@ -1247,7 +1247,7 @@ lngcivilwar.16.t:0 "천중밍이 양광을 장악하다"
 lngcivilwar.16.d:0 "Despite internal opposition and the revolt of the Guangxi Clique, Chen Jiongming has remained at the head of Liangguang. With his rule and popularity more secure than ever, he will have the ability to push further towards his ideals should the situation in the rest of the region allow it: A federal and truly democratic China."
 lngcivilwar.16.a:0 "천중밍이 중국을 자유롭게하리라!"
 
-lngcivilwar.17.t:0 "반란군의 재통합Reintegration of the Rebel Army"
+lngcivilwar.17.t:0 "반란군의 재통합"
 lngcivilwar.17.d:0 "For the most part, the soldiers and even generals of warlord or provincial armies tended to be more concerned about defending their homes from invaders and bandits rather than matters of national importance. As such, we can reintegrate the rebel army with relative ease once their treacherous leaders are deal with. After all, they are fellow Chinese, even if they previously served the wrong master, they can still redeem themselves or return to their homes."
 lngcivilwar.17.a:0 "그들은 이제 위대한 목적을 따른다."
 
