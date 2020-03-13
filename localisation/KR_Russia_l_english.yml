@@ -50,7 +50,7 @@ RUS_cooperative_capitalism:0 "협동자본주의"
 RUS_increased_production:0 "생산량 증가"
 RUS_lost_production:0 "생산량 손실"
 RUS_civil_war:0 "러시아를 위한 싸움"
-RUS_okhrannoye_otdeleniye:0 "오흐란카"
+RUS_okhrannoye_otdeleniye:0 "오흐라나"
 
 ### Parties ###
 RUS_totalist_party:0 "인민해방당"
@@ -424,14 +424,14 @@ RUS_Resource_Prospection_desc:0 "러시아에는 많은 광물이 매장되어 �
 RUS_Army_Modernisation:0 "군 현대화"
 RUS_Army_Modernisation_desc:0 "우리가 어떤 교리에 따르든지 간에, 전술뿐만 아니라 실제로 우리의 군대가 사용하는 소총과 장비들을 현대화해야 합니다."
 
-RUS_Reintroduce_Okhrannoye_Otdeleniye:0 "오흐란카 재도입"
-RUS_Reintroduce_Okhrannoye_Otdeleniye_desc:0 "러시아 전역에서 혁명운동이 활발히 전개되고 있는 가운데, 두마의 일부 당원들은 옛 제정시대의 비밀경찰인 '오흐란카'를 도입하여 내부경찰의 전면적인 재조직을 시작하자고 주장하고 있습니다. 이 조직은 불순한 혁명분자를 찾아내 이들이 러시아 국가를 존중하도록 '재교육'할 것입니다!"
+RUS_Reintroduce_Okhrannoye_Otdeleniye:0 "오흐라나 재도입"
+RUS_Reintroduce_Okhrannoye_Otdeleniye_desc:0 "러시아 전역에서 혁명운동이 활발히 전개되고 있는 가운데, 두마의 일부 당원들은 옛 제정시대의 비밀경찰인 '오흐라나'를 도입하여 내부경찰의 전면적인 재조직을 시작하자고 주장하고 있습니다. 이 조직은 불순한 혁명분자를 찾아내 이들이 러시아 국가를 존중하도록 '재교육'할 것입니다!"
 
 RUS_Electronic_Warfare:0 "전자전"
 RUS_Electronic_Warfare_desc:0 "현대의 전쟁은 전쟁터에서의 부분적인 승리만을 의미하지 않습니다. 정보의 전송과 분석을 다루는 사람들도 전장에서 싸우문 병사만큼 중요합니다. 우리는 그들이 일을 더욱 수월하게 할 수 있도록 지원할 필요가 있습니다."
 
 RUS_Front_Line_Commissars:0 "전선의 정치 위원"
-RUS_Front_Line_Commissars_desc:0 "오흐란카는 위험한 혁명가들이 군대를 선동해서 쿠데타를 일으키는 것을 막기 위해, 군 최고 사령부의 직책을 맡았습니다. 우리는 앞서 얘기한 비극이 일어나지 않도록 할 것입니다."
+RUS_Front_Line_Commissars_desc:0 "오흐라나는 위험한 혁명가들이 군대를 선동해서 쿠데타를 일으키는 것을 막기 위해, 군 최고 사령부의 직책을 맡았습니다. 우리는 앞서 얘기한 비극이 일어나지 않도록 할 것입니다."
 
 RUS_Equipment_Modernisation:0 "장비 현대화"
 RUS_Equipment_Modernisation_desc:0 "우리는 어느 정도의 성과를 얻었지만, 여전히 우리가 해야 할 일이 더 남아있습니다. 어떤 군대든지 핵심은 결국, 세계대전에서와 마찬가지로 대포와 소총입니다."
@@ -446,7 +446,7 @@ RUS_VVSR:0 "VVSR 개혁"
 RUS_VVSR_desc:0 "VVSR(러시아 공군)은 매우 구식인 항공기만 보유하고 있습니다. 우리는 20년 전에 사용했던 것과 같은 비행기와 전술을 사용합니다. 항공 기지를 확장하고 신병 파일럿을 훈련시킴으로써 우리는 VVSR의 개혁에 착수할 수 있습니다."
 
 RUS_The_ORT_System:0 "ORT 시스템"
-RUS_The_ORT_System_desc:0 "오흐란카는 외국의 기술에서 영감을 받은 소위 '라디오 기술 시스템'을 도입할 준비가 되어 있습니다. 그들은 충분한 지원을 받는다면 어떠한 적대적인 군대의 이동이라도 추적할 수 있을 것이라고 주장합니다."
+RUS_The_ORT_System_desc:0 "오흐라나는 외국의 기술에서 영감을 받은 소위 '라디오 기술 시스템'을 도입할 준비가 되어 있습니다. 그들은 충분한 지원을 받는다면 어떠한 적대적인 군대의 이동이라도 추적할 수 있을 것이라고 주장합니다."
 
 RUS_Disorganisation:0 "해체"
 RUS_Disorganisation_desc:0 "적의 지상병력에 직접 개입하지 않고 공중에서 안전하게 격퇴할 수도 있습니다. 우리의 폭격기는 적의 보급선을 교란시키고 전선에서 멀리 떨어진 주요 산업을 제거하는데 효과적일 수 있습니다."
@@ -582,7 +582,7 @@ RUS_Enemy_In_The_East_desc:0 "러일 전쟁 이후 러시아의 진정한 적은
 russian_alliance:0 "러시아 동맹"
 
 ### Tooltips ###
-RUS_Okhrannoye_Otdeleniye_tooltip:0 "정부가 오흐란카를 재도입하기로 결정했습니다"
+RUS_Okhrannoye_Otdeleniye_tooltip:0 "정부가 오흐라나를 재도입하기로 결정했습니다"
 RUS_infantry_tech_tooltip:0 "육군 군사 훈련이 종료되었습니다"
 RUS_navy_tooltip:0 "해군 기동 훈련이 종료되었습니다"
 
