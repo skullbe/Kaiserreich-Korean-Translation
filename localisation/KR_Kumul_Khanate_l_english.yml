@@ -357,67 +357,67 @@ kumul.112.a:0 "완벽해."
 
 ### Focuses ###
 TAN_nasir_reign:0 "나스르의 개혁"
-TAN_nasir_reign_desc:0 "The policies of Masqud Shah, that of exorbently high taxes and corvée labor, are so reviled by the people of Kumul that any progress towards ending them will be massively popular."
+TAN_nasir_reign_desc:0 "터무니 없이 높은 세금과 관세를 부과하던 마스쿠드샤의 정책은 쿠물사람들에 의해 매우 비난받는 정책이였기에 그것들을 끝내기 위한 어떠한 개혁도 대중으로부터 지지를 받을 것입니다."
 
 TAN_working_begs:0 "21인 위구르 귀족회"
-TAN_working_begs_desc:0 "The 21 Begs, an assembly of the wealthiest Uyghur landowners in Kumul, have been pressuring Nasīr to take greater charge of the treasury in Kumul. The Begs wish for an updated census to reduce their tax burden."
+TAN_working_begs_desc:0 "쿠물에서 가장 부유한 위구르 지주들의 모임인 21 위구르귀족회(베그스)는 나스르에게 쿠물의 국고에 엄청난 부담을 주기위해 압박을 시작했습니다. 베그스는 그들의 세금 부담을 줄이기 위해서 인구조사를 갱신하기를 원하고 있습니다."
 
 TAN_reordering_tax:0 "세금 개혁"
-TAN_reordering_tax_desc:0 "The first demand of the Begs, the census and tax reform, can be done. Once a census of all tenants, free men and livestock is done, several forms of income, such as halal meat production and machine working can be exempt from taxation."
+TAN_reordering_tax_desc:0 "베그스의 첫번째 요구인 인구조사와 세제개혁은 수용할 수 있는 것입니다. 일단 모든 소작인, 자유민 그리고 가축에 대한 조사가 이루어지면, 할랄 육류 생산과 기계공업 같은 몇몇 소득은 과세대상에서 제외 될 수 있습니다."
 
 TAN_opening_autonomy:0 "자치의 개막"
-TAN_opening_autonomy_desc:0 "Masqud Shah thought he could tighten his grip on power by closing the city to immigrants without Qing authorization. The Begs ask that additional  Uyghur citizens be admitted into the city, and they be treated as free men."
+TAN_opening_autonomy_desc:0 "마스쿠드샤는 청의 허가 없이 이민자들의 입국을 막음으로서 자신의 힘을 강화할 수 있다고 생각했습니다. 베그스들은 추가적으로 위구르 시민들은 도시의 들여보내줄 것을 요청하고 있고, 물론 그들은 자유민으로 인정될 것입니다."
 
 TAN_reform_administration:0 "군소 행정 개혁"
-TAN_reform_administration_desc:0 "The palace in Kumul is staffed by totally unqualified bureaucrats. Masqud Shah did not employ anybody with an Imperial Examination score. By simply asking our administrators to seek certification, we can weed out the worst hangers-on."
+TAN_reform_administration_desc:0 "현재 쿠물의 궁전은 자격이 없는 관료들로 채워져있습니다. 마스쿠드샤는 제국 시험 점수를 잘 받은 사람을 등용하지 않았습니다. 단순하게 관리자에게 인증을 받으라고 요구함으로서 우리는 최악의 옷걸이를 걸러낼 수 있을 것입니다."
 
 TAN_incorporate_advisory:0 "자문을 조정하다"
-TAN_incorporate_advisory_desc:0 "The power of the two Advisors has always been a risk to the Khanate. Especially with Hoya Niyaz. If we were to deploy the advisors to the city walls, we could possibly slip reforms past them."
+TAN_incorporate_advisory_desc:0 "두 명의 조언자의 권력은 언제나 칸국에게 있어서 양날의 검이였습니다. 특히 호야 니야즈는 더욱 그렇습니다. 만약 우리가 도시 성벽에 고문관들을 배치한다면 , 우리는 아마도 과거 개혁의 전례를 비껴나갈 수 있을 것입니다."
 
 TAN_increase_begs:0 "30인 위구르 귀족회"
-TAN_increase_begs_desc:0 "With the additional Uyghur people coming to Kumul, it is beneficial if we add nine more men to the graft. Thirty Begs may be unable to break a tie, but we can benefit from their advice."
+TAN_increase_begs_desc:0 "위구르 사람들이 추가로 쿠물에 모였으니, 위원회에 9명을 추가하면 큰 도움이 될 것입니다. 30베그스는 어느 문제의 결론을 좀처럼 못낼 수는 있지만, 우리는 그들의 조언으로 말미암아 이득을 얻을 것입니다."
 
 TAN_keys_kumul:0 "쿠물의 열쇠"
-TAN_keys_kumul_desc:0 "The power of the Garrison in Kumul has rested with the Advisors for decades now. The Begs promise their Uyghur levies can man the city walls without extorting the people so heavily. This would alleviate our worries."
+TAN_keys_kumul_desc:0 "쿠물에 있는 수비대의 통수권은 수십년동안 조언가들의 손에 있었습니다. 위구르 귀족들은 그들의 위구르 민병대가 사람들에게 부담을 그리 많이 주지 않으면서도 도시의 벽이 될만하다고 말하였습니다. 이것은 우리의 부담을 크게 줄여줄 것입니다."
 
 TAN_kind_hand:0 "부드러운 손길"
-TAN_kind_hand_desc:0 "Reforming the image of the Khan of Kumul requires constant support from the Begs. Through a more dignified appearance, adherence to muslim customs, and the Begs word of mouth, Nasīr Shah can be redeemed."
+TAN_kind_hand_desc:0 "쿠물의 칸의 이미지를 개혁하려면 위구르 귀족들의 지속적인 지원이 필요합니다. 보다 품위 있는 모습, 이슬람 풍습의 고수, 그리고 베그스의 입소문을 통해 나스르 샤는 죄값을 치를 수 있습니다."
 
 TAN_crush_corvee:0 "부역을 박살내다"
-TAN_crush_corvee_desc:0 "The use of corvée labor to keep land plots orderly and maintain the city was a Masqud idea. Under traditional islamic jurisprudence and chinese civil law, corvée labor should not be used when the crimes of the laborers do not justify it."
+TAN_crush_corvee_desc:0 "토지 귀혹을 정돈하고 도시를 유지하기 위한 코르베 노동력을 사용하는 것은 마스쿠드샤의 사상이였습니다. 전통적인 이슬람 법학 및 중국 민법에 따르면, 노동자가 범죄를 유무를 정당하게 인정 받지 않는한 코르베에 사용되서는 안됩니다."
 
 TAN_increased_constitutionalism:0 "입헌주의의 증가"
-TAN_increased_constitutionalism_desc:0 "The wide variety of political consitutions that float around southern and eastern China have made it to Kumul. At the very least, they can serve as a basis for writing our future laws in a modern way."
+TAN_increased_constitutionalism_desc:0 "중국 남부와 동부를 떠도는 광범위한 정치의 입헌주의가 쿠물까지 도달했습니다. 최소한, 그것들은 현대적인 방법으로 미래의 법을 쓰는 기초가 될 수 있습니다."
 
 TAN_working_advisory:0 "두명의 고문"
-TAN_working_advisory_desc:0 "The two Advisor-Generals, Yulbars Khan and Hoja-Niyaz, have been pressuring Nasīr to protect his demesne. To begin, radical leftists must be listed and checked upon within Kumul. Just to be sure. "
+TAN_working_advisory_desc:0 "두명의 고문인 율바스칸과 호자 니야즈는 나스르에게 그의 영지를 보호하라고 압박을 가해왔습니다. 우선 급진세력을 쿠물내에 명기하고 견제해야합니다. 혹시 모르는 일이니까요."
 
 TAN_opening_reform:0 "권력 조정"
-TAN_opening_reform_desc:0 "Masqud Shah left behind a provisional role for his military advisors, doling out their roles based on his whim. A more concrete role of the Advisors will allow Khan and Hoja-Niyaz to protect Kumul."
+TAN_opening_reform_desc:0 "마스쿠드 샤는 그의 변덕에 따라 그들의 역할을 수행하게하면서 그의 고문들에게 잠정적인 애매한 역할만을 남겼습니다. 고문관들의 보다 구체적인 역할은 칸과 호자 니야즈가 쿠물을 보호할 수 있게 해줄것입니다."
 
 TAN_niyaz_ideals:0 "니야즈의 아이디어"
-TAN_niyaz_ideals_desc:0 "Hoja-Niyaz, during his failed revolt against Nasīr's father, recalls his fighters fought better when they were supervised by an Imam and set aside time to pray each day. This policy, Hoja-Niyaz beleives, will make the defenders of Kumul fight with the spirit of Enver Pasha himself."
+TAN_niyaz_ideals_desc:0 "호자 니야즈는 나스르의 아버지에 대한 반란이 실패했을 때, 그의 전사들이 이맘의 감독을 받고 매일 기도를 할 시간을 남겨두었을 때 더 잘싸웠다고 회상합니다. 이 정책 입안자 호자 니야즈는 쿠물의 수비스들을 엔버 파샤의 정신으로 싸우게 만들 것입니다."
 
 TAN_sideline_begs:0 "위구르 귀족회 배제"
-TAN_sideline_begs_desc:0 "The 21 Begs of Kumul are a relic of Masqud Shah's lonliness and feeling of alienation from fellow muslims due to his drunkenness. It is best if the Advisors met with Nasīr without consulting the Begs first."
+TAN_sideline_begs_desc:0 "쿠물의 21 위구르귀족회는 마스쿠드샤의 고독한 모습과 술기운때문에 동료 이슬람 교도들로 부터받은 소외감정의 부산물에 불과합니다. 고문관들은 베그스와 먼저 상의하지 않고 나스르와 만나는 것이 최선입니다."
 
 TAN_yulbars_doctrine:0 "율바르스 독트린"
-TAN_yulbars_doctrine_desc:0 "Yulbars Khan, having served the Khanate since the days of Nasīr's grandfather, has enough experience to be tapped for reforms. Yulbars Khan believes that converting soldier pay from silver to goods will engender more dependant soldiers."
+TAN_yulbars_doctrine_desc:0 "나스르의 할아버지 시절부터 칸국을 섬긴 유바르스 칸은 개혁을 위해 나서기에 충분한 경험을 갖추고 있습니다. 율바스칸은 병사들의 임금을 은에서 현물로 바꾸는 것은 더 의존적인 군인들을 발생시킬 것이라고 믿습니다."
 
 TAN_lower_taxation:0 "세금 감면"
-TAN_lower_taxation_desc:0 "The Khanate still does not attract settlers even after the Xinhai Revolution, due to Masqud's draconian tax policies. Lowering taxes on houses will at least make settling easier."
+TAN_lower_taxation_desc:0 "칸국은 마스쿠드의 가혹한 조세정책 떄문에 신해혁명 이후에도 여전히 정착민들은 끌어들이지 못하고 있습니다. 주택에 대한 세금을 낮추면 적어도 정착이 쉬워질 것입니다."
 
 TAN_cavalry_horde:0 "쿠물 기병연대"
-TAN_cavalry_horde_desc:0 "The Advisors recommends the formation of a provisional Cavalry Regiment, based on the Hui Regiments. The advisors claim this will allow Nasīr to quickly end rent revolts that appear in Kumul from time to time."
+TAN_cavalry_horde_desc:0 "고문관들은 회족 연대를 중심으로 임시 기병연대의 편성을 권고하고 있습니다. 고문관들은 이것이 나스르에게 가끔 쿠물에서 일어나는 소작료 반란을 신속하게 끝낼 수 있게 해줄 것이라고 주장합니다."
 
 TAN_strengthining_nasir:0 "칸의 권력을 유지"
-TAN_strengthining_nasir_desc:0 "The Advisors project an image of Nasīr as a benevolent dicator who protects Kumul from the waves of uncertainty Chinese bring. At the same time depict Nasīr as a victorious Chagatai like those that beat Tibet."
+TAN_strengthining_nasir_desc:0 "고문관들은 나스르를 중국인들이 몰고오는 불확실성의 파도로부터 쿠물을 보호하는 자애로운 독재자라는 이미지를 투영합니다. 동시에 나스르를 티베트로부터 승리한 차가타이인같이 묘사합니다"
 
 TAN_maintaining_corvee:0 "부역제도 유지"
-TAN_maintaining_corvee_desc:0 "Though it cruel, the Advisors have justified the punishment of forced labor outside Islamic jurisprudence by claiming the criminals are on the verge of becoming fajir. Stating that this work will tire out their energy to commit crimes."
+TAN_maintaining_corvee_desc:0 "잔인하긴하지만, 고문관들은 범죄자들이 파지르가 되기 직전에 있다고 주장함으로서 이슬람법 밖에 있는 강제노동에 의한 처벌을 정당화했습니다. 이 일은 범죄를 저지르는데 사용될 그들의 정력을 소모시킬 것입니다."
 
 TAN_soft_fist:0 "부드러운 철권"
-TAN_soft_fist_desc:0 "The Advisors have begun to expand their military policies into the other classes in Kumul. Those citizens who encounter them recognize Nasīr as a pious and safe departure from Masqud, to the peoples splendor."
+TAN_soft_fist_desc:0 "조언자들은 쿠물에 있는 다른 부문으로 군사 정책을 확장하기 시작하였습니다. 그들과 마주치는 시민들은 나스르를 마스쿠드와 다른 경건하고 안정적인 민족의 자긍심으로 인식하고 있습니다."
 
 TAN_xinjiang_administration:0 "신강의 관리"
 TAN_xinjiang_administration_desc:0 "The day of subjugation is at hand thanks to the criminal Jin Shuren. Magistrates of the Khan must now contend with a chinese garrison giving orders. It will take time for us to learn what the garrison wants out of our province. "
