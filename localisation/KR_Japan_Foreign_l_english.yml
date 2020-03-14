@@ -93,7 +93,7 @@ japanese_economic_influence_decrease_tt:0 "우리에 대한 일본의 §Y경제�
 
 japanese_economic_influence_cost:0 "£pol_power [?From.japanese_economic_influence|H0]"
 japanese_economic_influence_cost_blocked:0 "£pol_power [?From.japanese_economic_influence|R0]"
-japanese_economic_influence_cost_tooltip:0 "This costs £pol_power Political Power equal to the existing influence"
+japanese_economic_influence_cost_tooltip:0 "이는 현존하는 영향력과 동일한 양의 £pol_power 정치력을 필요로 할 것입니다."
 
 JAP_chinese_minority_rights_tt:0 "이 중점은 동투르키스탄, 몽골, 티베트 그리고 다른 중국 분리주의자들이 우리 진영에 가담할 수 있도록 만들어줄 것입니다."
 integrate_asian_economies_tooltip:0 "경제적 영향력이 95% 이상인 모든 국가는 우리의 괴뢰국이 될 것입니다!"
@@ -114,10 +114,10 @@ JAP_can_attack_india:0 "§Y인도§!의 유효한 전쟁 목표를 공격하는 
 JAP_may_war_with_siam:0 "§Y[SIA.GetNameDef]§!에 전쟁을 선포하는 §Y결정§!을 얻을 것입니다\n"
 JAP_no_training_help:0 "일본의 도움을 거절하다"
 
-JAP_fading_sun:0 "The Fading Sun"
+JAP_fading_sun:0 "저무는 해"
 JAP_fading_sun_desc:0 "[JAP_fading_sun_desc_text]"
-JAP_fading_sun_desc.JAP:0 "We have lost control of much of our mainland holdings! While we can sustain war like this for some time, it can't be long. Political support for the war is already waning; if the Empire is to survive we must retake our land soon."
-JAP_fading_sun_desc.other:0 "We have succeed in pushing Japan out of much of the mainland! While they will no doubt try and counter attack, this is a major blow to then. If they don't retake their land soon, the mounting political pressure will force them to ask for terms."
+JAP_fading_sun_desc.JAP:0 "우리는 대다수 대륙 영토를 통제할 수 없게 되었습니다! 이 전쟁을 얼마간 지속할 수는 있지만, 그리 오래 가진 않을 것입니다. 전쟁에 대한 정치적 지지는 이미 줄어들고 있습니다. 제국이 살아남으려면 우리는 영토를 되찾아야 합니다."
+JAP_fading_sun_desc.other:0 "우리는 일본을 대다수 대륙 지역에서 밀어내는 데 성공했습니니다! 그들이 공격을 시도하고 대항할 것이라는 점은 의심의 여지가 없지만, 이 일은 일본에 큰 타격입니다. 그들이 자신의 땅을 되찾지 못 한다면, 고조되는 정치적 압력으로인해 그들은 협상에 나설 수 밖에 없게 될 것입니다."
 
 is_fully_controlled_by_JAP_or_war_ally_tooltip:0 "is fully controlled by §Y[JAP.GetNameDef]§! or an ally"
 
