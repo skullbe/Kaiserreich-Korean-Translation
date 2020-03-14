@@ -77,8 +77,8 @@ CHI_chinese_expeditionary_force_desc:""
 ### Parties ###
 CHI_totalist_party:0 "국민당-중특위"
 CHI_totalist_party_long:0 "국민당-중앙정보부 특별행동위 (국민당-종양칭바오유테비신동주)"
-CHI_syndicalist_party:0 "중국 생디칼리스트당"
-CHI_syndicalist_party_long:0 "중국 생디칼리스트당 (중국 공동체당)"
+CHI_syndicalist_party:0 "중국 생디칼리슴당"
+CHI_syndicalist_party_long:0 "중국 생디칼리슴당 (중국 공동체당)"
 CHI_radical_socialist_party:0 "국민당-민생"
 CHI_radical_socialist_party_long:0 "국민당-민생파 (국민당-민생파)"
 CHI_social_democrat_party:0 "국민당-민권 국민주의"
@@ -455,7 +455,7 @@ chi_dom.22.d:0 "기계화전 연구 위원회가 구성됨에 따라, 최근 뮌
 chi_dom.22.a:0 "그가 새로운 교리의 도입을 도와줄 것이다."
 
 chi_dom.24.t:0 "외국 강대국과의 협력"
-chi_dom.24.d:0 "사실, 중국은 산업화를 위해 외국의 원조가 필요하기 때문에 우리는 세계의 생디칼리스트 열강들이 우리의 재건을 도울 용의가 있는지 살펴봐야만 합니다."
+chi_dom.24.d:0 "사실, 중국은 산업화를 위해 외국의 원조가 필요하기 때문에 우리는 세계의 생디칼리슴 열강들이 우리의 재건을 도울 용의가 있는지 살펴봐야만 합니다."
 chi_dom.24.a:0 "브리튼 연방이 최선의 선택이다."
 chi_dom.24.b:0 "미 노조연합이 최선의 선택이다."
 chi_dom.24.c:0 "소비에트 러시아가 최선의 선택이다."
@@ -499,7 +499,7 @@ chi_dom.34.d:0 "당초 예상보다 상황이 훨씬 더 심각해졌습니다. 
 chi_dom.34.a:0 "예상치도 못했군."
 
 chi_dom.35.t:0 "첫 전국선거"
-chi_dom.35.d:0 "수년간 많은 선출되지 않은 국민당 지도자들이 있었습니다, 심지어 쑨원도 아니었죠. They realised that the unstable position of the Kuomintang meant no elected leader would have the will nor the power to come out on top. Since Wang Jingwei rose up as an insurgent state we have evolved to a fully functioning democracy so it is only right that we hold elections. There are a few parties running such as the major Minsheng and Minquan but even parties like the Chinese Syndicalist Party and the Minzu are attempting to gain some support. The votes are coming through and both the Minquan and Minsheng are tied, the winner is..."
+chi_dom.35.d:0 "수년간 많은 선출되지 않은 국민당 지도자들이 있었습니다, 심지어 쑨원도 아니었죠. 그들은 국민당의 불안정한 지위로 인해 선출된 지도자가 정상에 오를 의지도 힘도 없다는 것을 깨달았습니다. 왕징웨이가 반란을 일으킨 이후로 우리는 완전히 기능하는 민주주의로 발전했으며 따라서 선거를 하는 것이 옳습니다. 민생파, 민권파 같은 주요 정당이 몇 개 있지만 중국 생디칼리슴당이나 민족파 같은 정당들도 어느 정도 지지를 얻으려 하고 있습니다. 투표가 치뤄지고 민생파와 민권파가 박빙의 대결을 하고 있습니다. 승자는..."
 chi_dom.35.a:0 "민생파가 주도권을 지켜내다."
 chi_dom.35.b:0 "민권파가 정부 구성을 주도하다."
 
@@ -515,20 +515,20 @@ chi_dom.38.t:0 "왕징웨이의 도착"
 chi_dom.38.d:0 "국민당의 영웅 왕징웨이가 국민당이 나머지 중국에, 그리고 세계에 더 정당해 보이는 것을 확실하게 하기 위해 또한 도착했다. 중국 정치계에서의 그의 저명함을 통해 우리는 정말로 공화국을 위해 중국을 통일할 기회를 얻을지도 모른다."
 chi_dom.38.a:0 "왕 동지를 위하여!."
 
-chi_dom.39.t:0 "Soong and Chen Disagree"
-chi_dom.39.d:0 "Chen and Soong whilst technically belong to a similar ideological party have various differences which are seriously disrupting the re-establishment of the KMT. Chen believes that the revolution must include elements of Chen Jiongmings government if it is too truly survive whereas Soong insists that the KMT should stay with the policies of the last two versions of the KMT. Whatever comes out of these talks it is clear one of the two will have to garner support to keep their position."
-chi_dom.39.a:0 "We can only hope they can solve their differences."
+chi_dom.39.t:0 "쑹칭링과 천밍수 간의 이견"
+chi_dom.39.d:0 "천밍수과 쑹칭링은 엄밀히 따지면 비슷한 이념 정당에 속하지만 이 당들은 여러 차이가 있어 국민당의 재건을 심각하게 방해하고 있습니다. 천밍수는 쑹칭링이 국민당은 마지막 두 국민당의 정책을 고수해야 한다고 주장한 사실이 있으므로 혁명이 진정으로 살아남길 원한다면 천중밍 정부의 요소를 포함해야 한다고 믿고 있습니다. 이 회담에서 어떤 결과가 나오든 간에, 그들의 위치를 유지하기 위해서는 둘 중 하나가 지지를 얻어야 할 것임은 분명합니다."
+chi_dom.39.a:0 "그들이 이견을 해소할 수 있기를 바랄 뿐이다."
 
-chi_dom.40.t:0 "Unrest in Guangdong"
-chi_dom.40.d:0 "Whilst the political side of Chens removal is solidly behind Chen... on paper, the peasants are rioting at the new change in government. Before when the KMT used Guangdong as staging ground for the Northern Expedition at least Jiongming was around to placate them but without him the stability of the province is deteriorating."
+chi_dom.40.t:0 "광둥의 불안"
+chi_dom.40.d:0 "천중밍 제거의 정치적 측면은 천밍수를 확고히 지지합니다... 서류상으로는 말이죠. 농민들은 정부의 새로운 변화에 폭동을 일으키고 있습니다. 국민당이 광둥성을 북벌의 기반으로 삼았을 때 적어도 천중밍은 그들을 달래기 위해 주변에 있었지만 그가 없으니 광둥의 안정은 악화되고 있습니다."
 chi_dom.40.a:0 "We must fix this."
 
-chi_dom.41.t:0 "Soong and Chen Debate Further"
-chi_dom.41.d:0 "Chen and Soong have been subtly critical of each other since the beginning however the two are now openly discussing who should be in charge of the Kuomintang. It seems the facade of unity has been chucked out of the window and the race to become leader has begun. The comfort we can take out of this is that the other agreed to not be a threat should one of them come out on top."
+chi_dom.41.t:0 "쑹칭링과 천밍수 간 계속되는 토론"
+chi_dom.41.d:0 "천밍수와 쑹칭링은 처음부터 서로를 미묘하게 비판해 왔으나 지금은 두 사람이 누가 국민당을 책임져야 하는지에 대해 공개적으로 논의하고 있습니다. 통합의 허울은 창밖으로 내던져지고 지도자가 되기 위한 경쟁이 시작된 것 같습니다. 우리가 여기서 얻어낼 수 있는 위안은 둘 중 한 명이 정상에 오르면 다른 한 명은 위협이 되지 않기로 동의했다는 것입니다."
 chi_dom.41.a:0 "We will take what little good news we can get."
 
-chi_dom.42.t:0 "Unrest in Guangxi"
-chi_dom.42.d:0 "The warlords in Guangxi have finally been defeated however the remnants of their clique are causing trouble in the area. Whilst they are certainly without any meaningful leadership it is perhaps best to put them out of their misery."
+chi_dom.42.t:0 "광시의 불안"
+chi_dom.42.d:0 "광시의 군벌들은 마침내 패배했지만, 그 패거리 잔당들은 그 지역에서 문제를 일으키고 있습니다. 그들은 분명 어떤 의미 있는 지도력이 없지만, 그들을 고통에서 벗어나게 하는 것이 최선일 것입니다."
 chi_dom.42.a:0 "They will be dealt with."
 
 chi_dom.43.t:0 "Peasants Flee from the Fujian Base Area"
@@ -566,10 +566,10 @@ chi_dom.50.a:0 "Chen Mingshu!"
 chi_dom.50.b:0 "Soong Qingling"
 
 chi_cng.1.t:0 "전국 당대회를 소집하다."
-chi_cng.1.d:0 "당 내 저명 인사들을 국가의 모든 문제를 의논하고 국민당을 완전한 정부로 조직하기 위한 회의를 위해 소집했습니다. 이 회의는 당을 공식 정부로 조직한 1924년 당대회를 토대로 진핼 할 것입니다. 과거 사건에 대한 입장부터 생디칼리즘 요소에 대한 처우까지 이르는 다양한 주제를 가지고 길게 토론 할 것입니다."
+chi_cng.1.d:0 "당 내 저명 인사들을 국가의 모든 문제를 의논하고 국민당을 완전한 정부로 조직하기 위한 회의를 위해 소집했습니다. 이 회의는 당을 공식 정부로 조직한 1924년 당대회를 토대로 진핼 할 것입니다. 과거 사건에 대한 입장부터 생디칼리슴 요소에 대한 처우까지 이르는 다양한 주제를 가지고 길게 토론 할 것입니다."
 chi_cng.1.a:0 "좋군."
 
-chi_cng.2.t:0 "1차 북벌에 대한 국민당의 공식적인 역사노선 채택에 대한 투표."
+chi_cng.2.t:0 "1차 북벌에 대한 국민당의 공식적인 역사노선 채택에 대한 투표"
 chi_cng.2.d:0 "혁명군이 대규모로 증강된 이후, 국가를 통일하기 위해서 직예 군벌에 대한 북벌을 시도했지만... 실패했습니다. 국민당 내에서는 이 실패에 대한 원인으로 대중의 지지 부족이나 혹은 외국군의 개입을 원인으로 보았습니다. 이 주장들 중에서 어느 쪽이 통일 실패의 근본적인지에 대한 논쟁을 결정지을 때가 온 것 같습니다."
 chi_cng.2.a:0 "제국주의자와 반역자."
 chi_cng.2.b:0 "대중의 지지 부족."
@@ -579,8 +579,8 @@ chi_cng.3.d:0 "중국 밖의 18개의 성들은 사실상 독립했고, 많은 �
 chi_cng.3.a:0 "아니, 중국은 반드시 진정으로 통일되어야 한다."
 chi_cng.3.b:0 "그래, 그것이 국가를 재통일하는 가장 좋은 방법이다."
 
-chi_cng.4.t:0 "생디칼리스트 당에 대한 문제."
-chi_cng.4.d:0 "국민당의 계획에 따르면, 중국이 발전되기 전까지는 국민당만이 훈정 시기에 유일한 정치 정당으로 허용되어야만 합니다. 지금까지는 생디칼리스트들의 지원을 전제로, 중화 생디칼리즘 당이나 다른 소규모 도시 생디칼리슴 집단에 대해 이러한 원친에 예외를 두었죠. 지금 생디칼리스트 당이 도시 노동자들을 조직하는 부분에서 당원을 소집하는 것에 예외를 두어야 할까요?"
+chi_cng.4.t:0 "생디칼리슴 당에 대한 문제."
+chi_cng.4.d:0 "국민당의 계획에 따르면, 중국이 발전되기 전까지는 국민당만이 훈정 시기에 유일한 정치 정당으로 허용되어야만 합니다. 지금까지는 생디칼리스트들의 지원을 전제로, 중화 생디칼리슴 당이나 다른 소규모 도시 생디칼리슴 집단에 대해 이러한 원친에 예외를 두었죠. 지금 생디칼리슴 당이 도시 노동자들을 조직하는 부분에서 당원을 소집하는 것에 예외를 두어야 할까요?"
 chi_cng.4.a:0 "아니, 훈정은 노동 관계에서도 적용되어야 한다."
 chi_cng.4.b:0 "그래, 중국 노동자들은 생디칼리슴적 노동조합에 가입하는 것을 선택 할 수 있게 해야 한다."
 
