@@ -165,7 +165,7 @@ kumul.12.d:0 "율바르칸이 진영 막사들 중 의심의 여지없이 가장
 kumul.12.a:0 "위태로운 동맹이군…"
 
 kumul.13.t:0 "죽음의 전조"
-kumul.13.d:0 "소문이 사실임이 확인되었습니다. 율바스는 악명높은 마중잉과 함께 돌아왔습니다. 그의 존재만으로도 많은 사람들이 두려움에 떨었지만, 갑자기 수천명의 병력이 더 나타난 것은 구시가지에 있는 궁지에 몰린 수비대에게 더 큰 공포를 불어 넣었습니다.\n\n 밤이 깊어지자 마중잉은 걸음을 옮겼습니다. 수백명의 쿠물기병대가 요새를 향해 맹렬한 기세로 돌격했으나 기관총사격에 순식간에 전멸하였습니다. 그러나 이것은 그의 군대의 발목을 잡는 것은 아니였습니다. 어둑어둑한 밤 시간 내내 파도의 파도가 수비대를 공격하여 어떻게든 막아내고는 있었지만, 수비대에게는 막대한 희생을 강요했습니다. 탄약이 떨어지자 수비대는 소총을 버리고 칼과 파이크를 들기 시작했고, 적과 같은 방식의 원시적인 싸움이 벌어졌습니다.\n\n 그러나, 행운의 여신은은 대담한자를 사랑하는 법입니다. 이른아침, 마중잉의 기진맥진한 병사들은 마침내 수비대에 남아있는 병력에 결정적인 타격을 가했습니다. 그의 병사들에게 주는 상으로 , 구시가지에 있는 모든 가치가 있는 어떤것이든 그의 부하에 의해 닥치는 대로 휩쓸려 땅에 떨어질 것입니다. 그런 잔혹한 전투 이후에도 마중잉은 [?Root.GetLeader]에게 진슈렌의 마지막 사람이 그의 장화 밑에 찌그러쓰러질 때까지 그의 반란을 계속 도울 것을 약속하였습니다."
+kumul.13.d:0 "소문이 사실임이 확인되었습니다. 율바스는 악명높은 마중잉과 함께 돌아왔습니다. 그의 존재만으로도 많은 사람들이 두려움에 떨었지만, 갑자기 수천명의 병력이 더 나타난 것은 구시가지에 있는 궁지에 몰린 수비대에게 더 큰 공포를 불어 넣었습니다.\n\n 밤이 깊어지자 마중잉은 걸음을 옮겼습니다. 수백명의 쿠물기병대가 요새를 향해 맹렬한 기세로 돌격했으나 기관총사격에 순식간에 전멸하였습니다. 그러나 이것은 그의 군대의 발목을 잡는 것은 아니였습니다. 어둑어둑한 밤 시간 내내 파도의 파도가 수비대를 공격하여 어떻게든 막아내고는 있었지만, 수비대에게는 막대한 희생을 강요했습니다. 탄약이 떨어지자 수비대는 소총을 버리고 칼과 파이크를 들기 시작했고, 적과 같은 방식의 원시적인 싸움이 벌어졌습니다.\n\n 그러나, 행운의 여신은 대담한자를 사랑하는 법입니다. 이른아침, 마중잉의 기진맥진한 병사들은 마침내 수비대에 남아있는 병력에 결정적인 타격을 가했습니다. 그의 병사들에게 주는 상으로 , 구시가지에 있는 모든 가치가 있는 어떤것이든 그의 부하에 의해 닥치는 대로 휩쓸려 땅에 떨어질 것입니다. 그런 잔혹한 전투 이후에도 마중잉은 [?Root.GetLeader]에게 진슈렌의 마지막 사람이 그의 장화 밑에 찌그러쓰러질 때까지 그의 반란을 계속 도울 것을 약속하였습니다."
 kumul.13.a:0 "무시무시한 힘이군."
 
 kumul.15.t:0 "대탈출"
@@ -215,17 +215,17 @@ kumul.27.a:0 "입헌군주제; 위구르 귀족들에게 힘을!"
 kumul.27.b:0 "전제정치; [TAN.GetLeader]에게 힘을!"
 
 kumul.28.t:0 "신강의 행정조직이 행정관을 요청하다"
-kumul.28.d:0 "As the current owners of Beijing, Fan Yaonan in Xinjiang has recognised us as the rightful government of China. In a letter he has sent to us, he has stated that as the rightful government of China, we should surely be able to help his administration in Xinjiang. Far across the nation, Fan claims that he lacks proper Han Chinese administrators who are capable of running a government without being corrupt. Therefore, he has begged us to send him some proper bureaucrats who know what they are doing. However, we could also use this as an opportunity to send away some of our less capable, slightly corrupt, administrators."
+kumul.28.d:0 "베이징의 현 지배자로서 신강의 총독 판야오난은 우리를 중국의 정당한 정부로 인정했습니다. 그가 우리에게 보낸 편지에서, 그는 중국의 정당한 정부의 책임으로서 반드시 신장에 있는 행정부를 도와야 한다고 말했습니다. 판씨는 부패하지 않고 정부를 운영할 수 있는 적절한 한족 행정관이 많이 부족하다고 주장합니다. 그러므로, 우리에게 적어도 자신이 무엇을 하고 있는지 아는 적절한 관료들을 보내달라고 간청했습니다. 하지만, 우리는 이것을 우리의 골칫거리인 능력이 떨어지고 약간 부패한 떨거지들을 처리하는 기회로 사용할 수 있습니다."
 kumul.28.a:0 "공식 관료를 파견한다."
 kumul.28.b:0 "부패한 관료를 파견한다."
 kumul.28.c:0 "판을 위해 시간을 낭비할 수는 없다."
 
 kumul.29.t:0 "베이징에서 관료들을 파견하다"
-kumul.29.d:0 "We have recieved word back from Beijing about our request. They have chosen to send over multiple Han bureaucrats and administrators, who will help run Xinjiang efficiently and without corruption."
+kumul.29.d:0 "우리는 베이징으로부터 요청에 대한 답변을 받았습니다. 그들은 부패 없이 효율적으로 신강을 운영할 수 있도록 도와줄 다수의 한족관료와 행정관을 파견하기로 결정했습니다."
 kumul.29.a:0 "훌륭하군."
 
 kumul.30.t:0 "베이징에서 부패한 관료를 파견하다"
-kumul.30.d:0 "We have recieved word back from Beijing about our request. They have chosen to send over multiple Han administrators, who will help run Xinjiang. However, Fan recognises the names of multiple people being sent over as some of the most corrupt bureaucrats in Beijing. It seems they have used our request as an excuse to send away their crooked administrators and to make them our problem."
+kumul.30.d:0 "우리는 베이징으로부터 요청에 대한 답변을 받았습니다. 신장 행정을 도울 다수의 한 행정관을 파견하기로 결정했습니다. 그러나 판씨는 베이징의 가장 부패한 관료들 중 한 명으로 손꼽히는 여러명의 이름을 인지하고 있습니다. 그들은 우리의 요청을 핑계로 그들의 비뚤어진 관리들을 쫓아내고 그들을 우리의 문제로 삼은 것 같습니다."
 kumul.30.a:0 "일을 내버렸군."
 
 kumul.31.t:0 "암살 계획"
@@ -420,25 +420,25 @@ TAN_soft_fist:0 "부드러운 철권"
 TAN_soft_fist_desc:0 "조언자들은 쿠물에 있는 다른 부문으로 군사 정책을 확장하기 시작하였습니다. 그들과 마주치는 시민들은 나스르를 마스쿠드와 다른 경건하고 안정적인 민족의 자긍심으로 인식하고 있습니다."
 
 TAN_xinjiang_administration:0 "신강의 관리"
-TAN_xinjiang_administration_desc:0 "The day of subjugation is at hand thanks to the criminal Jin Shuren. Magistrates of the Khan must now contend with a chinese garrison giving orders. It will take time for us to learn what the garrison wants out of our province. "
+TAN_xinjiang_administration_desc:0 "역적 진수렌 덕분에 예속의 날이 다가왔습니다. 칸의 치안판사들은 이제 명령을 내리는 중국 주둔군과 싸워야 합니다. 주둔군이 우리 지방에서 무엇을 원하는지 알아내는 데는 시간이 걸릴 것입니다."
 
 TAN_greater_taxes:0 "새로운 세금"
-TAN_greater_taxes_desc:0 "The garrison's first request is to see the promised tribute to the Qing government. The tribute is obviously not there, and so the garrison has forced us to increase taxes on city people. This will infuriate the uyghur without a doubt. "
+TAN_greater_taxes_desc:0 "주둔군의 첫 번째 요청은 청 정부에 대한 약속된 공물을 보는 것입니다. 공물은 분명하게 집행되고 있지 않고있습니다. 그래서 주둔군은 우리에게 도시 사람들에 대한 세금을 증가시킬 것을 강요했습니다. 이것은 의심의 여지없이 위구르를 화나게 할 것입니다."
 
 TAN_hire_more_tax_collectors:0 "세금 징수원 추가고용"
-TAN_hire_more_tax_collectors_desc:0 "The garrison has chastised our tax collectors, who are still holding out for the hope that Nasīr will be released. We must now take in the garrison's suggested tax collectors, all of whom are chinese and will extort the uyghur mercilessly."
+TAN_hire_more_tax_collectors_desc:0 "주둔군은 나세르가 풀려날 것이라는 희망을 아직도 굽히지 않고 있는 우리 세자를 꾸짖었습니다. 우리는 이제 주둔군이 추천한 세금 징수자들을 받아들여야 하는데, 그들은 모두 중국인이며 위구르를 무자비하게 갈취할 것입니다."
 
 TAN_even_higher_taxes:0 "세금을 더 쥐어짜라!"
-TAN_even_higher_taxes_desc:0 "The city people are unable to provide enough food for the annual tribute to Beijing. Which the garrison insists we still hoard, despite Beijing not asking for any in years. New taxes are being being written that the garrison believes will please Jin Shuren."
+TAN_even_higher_taxes_desc:0 "도시 사람들은 베이징에 대한 연례 조공을 위한 충분한 식량을 바칠 능력이 없습니다. 중국 정부가 몇 년 동안 아무것도 요구하지 않았음에도 불구하고, 주둔군은 우리가 여전히 몰랴 꼼쳐두고 있다고 주장합니다. 수비대가 진 슈렌을 기쁘게 해줄 것으로 믿는 새로운 세금이 또 만들어지고 있습니다."
 
 TAN_seize_nobles_money:0 "위구르 귀족들의 자금줄을 장악"
-TAN_seize_nobles_money_desc:0 "The Begs of the Khanate are being sought out by the garrison for additional taxation, under the auspice of national security. The families of the Begs are now in hiding with their gold, as both are targets of the garrison's grabbing hand."
+TAN_seize_nobles_money_desc:0 "보호령인 칸국의 위구르귀족들인 베그스는 주둔군의 새로운 세금원으로 모색되고 있는 대상입니다. 베그스 가문들은 지금 필사적으로 자신의 금들을 숨기고 있고, 이것은 우리의 손쉬운 타겟이 될 것 입니다."
 
 TAN_punish_opposition:0 "소수민족 탄압"
-TAN_punish_opposition_desc:0 "The garrison has finally realized that the Magistrates are trying to resist them. Among the tax collectors and bureaucrats that refuse to renounce the symbols of Nasīr, that of the Quran and their courtsey name, have been removed."
+TAN_punish_opposition_desc:0 "주둔군은 마침내 치안판사들이 그들에게 저항하려 한다는 것을 깨달았습니다. 나스르의 상징인 코란의 상징과 자를 포기하기를 거부하는 세무서나 관료들은 이미 제거되었습니다."
 
 TAN_road_through_hami:0 "하미로 통하는 길"
-TAN_road_through_hami_desc:0 "The road from Hami to Dihua is treacherous, stretching parallel to the Tarim basin and surrounded by miles of desert on either sides. The garrison has ordered a new corvée to be assembled to fix the road in the heat. Return for the prisoners is unlikely."
+TAN_road_through_hami_desc:0 "하미에서 디화까지 이어지는 길은 타림 유역에 평행하게 뻗어 있고 양쪽으로 수마일의 사막으로 둘러싸여 있어 배타적입니다. 수비대는 더위 속에 도로를 고치기 위해 새로운 코르베를 조직하도록 명령했습니다. 그들은 죄수들을 위해 이곳으로 다시는 돌아올 것 같지 않습니다."
 
 TAN_consolidating_xinjiang:0 "신강 통합"
 TAN_consolidating_xinjiang_desc:0 "The gamble taken by Yulbars Khan and Hoja-Niyaz has reached it's summit. The cities of Xinjiang are now ours, and our next task is to seek out the deserving to become our allies in a new administration."
