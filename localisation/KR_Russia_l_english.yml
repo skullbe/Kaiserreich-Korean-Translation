@@ -23,8 +23,8 @@ rus_free_thought_focus:0 "자유주의 사상 장려" #Encouragement of Free Tho
 rus_tolerant_republic_focus:0 "관대한 공화국"
 rus_defend_democracy_focus:0 "민주주의 수호"
 rus_great_library_focus:0 "대도서관"
-rus_esprit_de_corps_focus:0 "국가방위군" #Natsgvardiya
-rus_yunarmiya_focus:0 "유나르미아" #Yunarmiya
+rus_esprit_de_corps_focus:0 "국위대" #Natsgvardiya
+rus_yunarmiya_focus:0 "유나르미야" #Yunarmiya
 rus_radio_propaganda_focus:0 "차르의 목소리"
 rus_neoslavism_focus:0 "신슬라브주의"
 rus_devoted_subjects_focus:0 "국가원수에게 헌신"
@@ -113,15 +113,15 @@ RUS_Foreign_Policy_decisions:0 "대외 정책"
 RUS_Foreign_Policy_decisions_desc:0 "지난 몇 십 년 동안, 러시아는 세계에서 웃음거리였습니다. 그러나, 최근 유럽의 연쇄적인 사건들과 그 영향들은 우리에게서 분리된 (불법적인)국가들을 다시금 되찾을 수 있는 기회로 찾아왔습니다. \n\n 이제, 러시아라는 곰이 깨어났습니다. 다만 우리가 옛 러시아 제국의 영토를 되찾아야만 우리는 진정으로 위대한 러시아가 될 수 있을 것입니다. 러시아여 영원하라! 러시아는 하나이리라!"
 
 RUS_Integrate_Alash_Autonomy:0 "[FROM.GetFlag] [FROM.GetNameDef] 통합"
-RUS_Integrate_Alash_Autonomy_desc:0 "카자흐스탄은 광활하고 부유하며, 또한 충성스러운 사람들이 다수 존재합니다. 이 지역을 다시 수복한다면 우리는 훨씬 더 남쪽에있는 투르케스탄, 그리고 더 나아가 페르시아까지 나아갈 수 있습니다!"
+RUS_Integrate_Alash_Autonomy_desc:0 "카자흐스탄은 광활하고, 부유한데다가 충성스럽기까지 합니다. 이 지역을 다시 수복한다면 우리는 그 남쪽의 투르케스탄, 나아가서는 페르시아에까지 영향력을 투사할 수 있습니다!"
 
 RUS_Attack_Central_Asia:0 "[FROM.GetNameDef] 공격"
 RUS_Attack_Central_Asia_desc:0 "[RUS_Attack_Central_Asia_desc_text]"
-RUS_Attack_Central_Asia_desc_ALO:0 "우리나라에 검은 월요일의 영향이 미치면서, 알라시 자치국은 우리의 통제에서 벗어났습니다. 러시아가 다시금 강대국이 되기 위해서는 카자흐 국경지역을 다시 우리의 지배하에 두어야 할 것입니다."
-RUS_Attack_Central_Asia_desc_TRK:0 "투르케스탄 지역은 세계대전에 패배할 때까지 제국의 지배하에 있었습니다. 카자흐 국경이 우리의 통제하에 확고히 자리잡은 지금, 우리는 이 영토들을 다시 되찾는 데 집중할 수 있습니다."
+RUS_Attack_Central_Asia_desc_ALO:0 "검은 월요일이 러시아를 강타하면서, 알라시 자치국은 우리의 통제에서 벗어났습니다. 카자흐 국경선을 되찾는 것은 러시아를 다시금 열강으로 올려놓기 위한 최우선 과제입니다."
+RUS_Attack_Central_Asia_desc_TRK:0 "투르케스탄 지역은 본래 러시아령으로, 세계대전 패전으로 인해 상실한 영토입니다. 카자흐 국경선이 우리의 통제하에 확고히 자리잡았으니, 이제 해당 지역을 수복하는 데 집중해야 합니다."
 
-RUS_Demand_Concessions_In_The_Caucasus:0 "캅카스 양도 요청"
-RUS_Demand_Concessions_In_The_Caucasus_desc:0 "독일은 현재 서구의 열강들과의 전쟁에서 고전하고 있습니다. 이러한 상황은 잃어버린 캅카스 영토를 다시 되찾을 수 있는 귀중한 기회일지도 모릅니다. 카이저에게 최후통첩을 해야 합니다. 영토를 양도 하든지, 아니면 양면전쟁에 휘말리게 될 것인지를 말입니다. 그들은 이 제안을 거절할 만큼 어리석지는 않을 것입니다."
+RUS_Demand_Concessions_In_The_Caucasus:0 "캅카스 권리 요구"
+RUS_Demand_Concessions_In_The_Caucasus_desc:0 "독일은 현재 이웃 국가들과의 전쟁에서 고전하고 있습니다. 이는 우리가 상실했던 캅카스 영토를 수복할 절호의 기회입니다. 카이저에게 최후통첩을 보내야 합니다. 캅카스에 대한 권리를 인정할 것인지, 아니면 양면전쟁에 휘말리게 될 것인지를 말입니다. 그들은 이 제안을 거절할 만큼 어리석지는 않을 것입니다."
 
 RUS_Attack_Caucasus:0 "[RUS_Attack_Caucasus_text]"
 RUS_Attack_Caucasus_desc:0 "[RUS_Attack_Caucasus_desc_text]"
@@ -130,16 +130,16 @@ RUS_Attack_Caucasus_DKB:0 "돈-쿠반 연합의 의중을 묻다"
 RUS_Attack_Caucasus_AZE:0 "바쿠 유전 지대"
 RUS_Attack_Caucasus_GEO:0 "조지아의 의중을 묻다"
 RUS_Attack_Caucasus_ARM:0 "아르메니아의 지위"
-RUS_Attack_Caucasus_desc_DKB:0 "돈 쿠반 연합은 우리와 캅카스 지역 사이의 완충지대 역할을 하기 위해 독일이 만든 인공적인 지역에 지나지 않습니다. 우리는 이 코사크의 권리를 주장하는 자들을 뭉개버리고 이 땅에 있는 러시아인들을 우리의 정당한 명분하에 다시 데려올 것입니다!"
-RUS_Attack_Caucasus_desc_AZE:0 "캅카스 지역의 왕관, 아제르바이잔은 우리의 군대와 산업에 매우 필요한 기름들을 풍부하게 가지고 있습니다. 우리는 제국의 잃어버린 부분을 다시 우리의 통제 아래 되돌려 놓을 것입니다."
-RUS_Attack_Caucasus_desc_GEO:0 "조지아는 제국에게 가장 중요한 지역입니다. 캅카스 산맥은 우리와 적들 사이를 가로막는 완벽한 요새입니다. 또한 조지아에는 독일이 소유하고 있는 몇 개의 송유관도 존재합니다. 우리는 최대한 빨리 조지아에서 우리의 통제력을 재 확립할 수 있는 방안을 모색해야 합니다."
-RUS_Attack_Caucasus_desc_ARM:0 "이제 캅카스에 대한 지배력을 공고히 했으니, 아르메니아를 주목해야 합니다. 우리나라의 기독교 신도들은 제국이 붕괴된 후 오랜기간 고통 받아왔습니다. 우리는 그들을 다시 한번 우리의 보호 아래로 데려와야 합니다."
+RUS_Attack_Caucasus_desc_DKB:0 "돈-쿠반 연합은 러시아와 캅카스 사이의 완충지를 만들기 위해 독일이 조성한 인공적인 정권에 불과합니다. 우리는 코사크인들을 뭉개버리고 이 땅에 사는 러시아인들을 정당한 조국으로 다시 데려올 것입니다!"
+RUS_Attack_Caucasus_desc_AZE:0 "캅카스에서 가장 가치있는 지역, 아제르바이잔에는 우리 군과 산업에 절실한 석유가 매우 풍부합니다. 우리는 잃어버렸던 러시아의 일부를 수복할 뿐이지만요."
+RUS_Attack_Caucasus_desc_GEO:0 "조지아는 구 러시아 제국의 가장 중요한 지역 중 하나였습니다. 천혜의 요새인 캅카스 산맥과 독일이 소유하고 있는 송유관 몇 줄은 덤입니다. 최대한 빨리, 조지아를 우리 통제 하에 돌려놓을 수 있는 방법을 모색해야만 합니다."
+RUS_Attack_Caucasus_desc_ARM:0 "이제 캅카스에 대한 지배력을 공고히 했으니, 아르메니아를 주목해야 합니다. 또한 러시아 제국의 붕괴 이후 핍박받아온 이곳의 정교회교도들을 주목해야 합니다. 우리는 그들을 다시 보호할 것입니다."
 
 RUS_Claim_Greater_Armenia:0 "대아르메니아 주장"
-RUS_Claim_Greater_Armenia_desc:0 "지금은 우리는 아르메니아를 지배하고 있지만, 국경 밖에서 살아가는 아르메니아인들이 많이 있습니다. 우리는 터키인들에게 이 땅을 우리에게 넘기라는 최후통첩을 보내야 할 것입니다. 게다가 그들은 군사행동이 일어나길 원하지 않을 것입니다."
+RUS_Claim_Greater_Armenia_desc:0 "현재 아르메니아는 우리의 통제 하에 있지만, 대아르메니아의 일부로 분류되는 영토들이 아직 남아있습니다. 우리는 투르크인들에게 해당 지역을 할양하라는 최후통첩을 보낼 것입니다. 이를 거부한다면 러시아군과 조우하게 될 뿐입니다."
 
 RUS_Claim_The_Straits:0 "해협 주장"
-RUS_Claim_The_Straits_desc:0 "러시아는 항상 세계에서 요충지인 도시를 통제하고자 했습니다. 하지만 운명은 잔인하게도 그러지 못 했습니다. 이제 우리는 보스포루스 해협을 우리의 통제하에 둘 수 있는 매우 귀중한 기회를 갖게 되었습니다."
+RUS_Claim_The_Straits_desc:0 "러시아는 항상 콘스탄티노플을 갈망해왔습니다. 그리고 운명이 항상 그런 러시아를 막아섰습니다. 지금, 우리는 보스포루스 해협을 손에 넣을 수 있는 절호의 기회를 마주했습니다."
 RUS_Attack_Ottomans:0 "[FROM.GetFlag] [FROM.GetNameDef] 공격"
 RUS_Attack_Ottomans_desc:0 "우리의 오랜 숙적은 긴 시간동안 우리를 방해해 왔습니다. 이들을 고통에서 해방시키고, 동유럽의 거대한 질서로서의 우리의 지위를 다시 한 번 강조할 때가 되었습니다."
 
