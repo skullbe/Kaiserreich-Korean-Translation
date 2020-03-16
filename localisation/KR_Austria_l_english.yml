@@ -854,23 +854,23 @@ AUS_ausgleich_delegation_CZE:0 "독일계 보헤미아인들과 체코인들로 
 AUS_ausgleich_delegation_GAL:0 "폴란드인들과 루테니아인들로 이루어진 대표단"
 AUS_ausgleich_delegation_CRO:0 "일리리아인들로 이루어진 대표단"
 
-AUS_ausgleich_dominated_delegation_CZE:0 "We can go a bit heavier on the Bohemian-Germans though, can't we?"
-AUS_ausgleich_dominated_delegation_GAL:0 "We are a Polish state. We will send our elite, not Ruthenian peasants."
-AUS_ausgleich_dominated_delegation_CRO:0 "There is only one Illyrian people."
+AUS_ausgleich_dominated_delegation_CZE:0 "그래도 보헤미아-독일인들에게 좀더 중점을 둘 수 있겠지. 그치?"
+AUS_ausgleich_dominated_delegation_GAL:0 "우리는 폴란드인의 국가다. 루테니아 촌놈이 아니라 우리의 엘리트를 보내야지."
+AUS_ausgleich_dominated_delegation_CRO:0 "일리리아인만이 있을 뿐이다."
 
-ausgleich.new.203.t_HUN:0 "Hungary Protests Against the Other Delegations"
-ausgleich.new.203.d_HUN:0 "Word has come from Hungary that they condemn the fact that we have invited other delegations than them to the negotiations. Whether this condemnation is backed with anything, we will have to see."
-ausgleich.new.203.t_other:0 "[From.GetName] Agrees to Attend"
-ausgleich.new.203.d_other:0 "Our courier has returned from [From.Capital.GetName], carrying a reply from the [From.GetAdjective] government. They are very happy to be able to attend the negotiations, and send their best wishes."
-ausgleich.new.203.a:0 "It's the way forward."
-ausgleich.new.203.b:0 "Excellent."
+ausgleich.new.203.t_HUN:0 "헝가리가 다른 대표단에 대해 항의하다"
+ausgleich.new.203.d_HUN:0 "우리가 헝가리 이외의 대표단을 협상에 초대했다는 사실에 헝가리가 항의하고 있다는 소식이 들려왔습니다. 무엇을 믿고 그들이 비난을 하고 있는지 알아봐야 할 것입니다."
+ausgleich.new.203.t_other:0 "[From.GetName]이(가) 참석에 동의하다"
+ausgleich.new.203.d_other:0 "우리의 사절단이 [From.Capital.GetName]로부터 [From.GetAdjective] 정부의 답을 들고 돌아왔습니다. 그들은 협상에 참석하게 된 것을 매우 기뻐하며, 이것이 최고의 바램이었음을 밝혔습니다."
+ausgleich.new.203.a:0 "이것이 전진하는 길이리라."
+ausgleich.new.203.b:0 "아주 좋아."
 
-ausgleich.new.300.t_hungary:0 "The Hungarian Delegation Arrives"
-ausgleich.new.300.d_hungary:0 "The Hungarian delegation has arrived in Vienna yesterday, eager to discuss the future of the Dual Monarchy. The festivities lasted long into the night."
-ausgleich.new.300.t_delegations_no_boycott:0 "The Delegations Arrive"
-ausgleich.new.300.d_delegations_no_boycott:0 "Despite the fear that Hungary would not take kindly to us having invited other delegations beside theirs to the negotiations, they have arrived in Vienna yesterday amongst the delegations from Bohemia, Galicia and Illyria.\n\nWhile this year's Ausgleich Renegotiations are attended by politicians and thinkers from all over the Empire, the Hungarians remain at the centre, since their problem is the most important to solve. The festivities lasted long into the night."
-ausgleich.new.300.t_delegations_boycott:0 "The Delegations Arrive - With Hungary Absent"
-ausgleich.new.300.d_delegations_boycott:0 "It was feared that Hungary would not take kindly to us having invited other delegations beside theirs to the negotiations, and critics of the move had already suspected that they would boycott the occasion for that reason.\n\nNonteheless, the other delegations have arrived, and are willing to discuss how to solve the issue of a defiant Hungary. The festivities lasted long into the night."
+ausgleich.new.300.t_hungary:0 "헝가리 측 사절단이 도착하다"
+ausgleich.new.300.d_hungary:0 "어제 헝가리 측 사절단이 빈에 도착했습니다. 그들은 이중왕국의 미래에 대해 열정적으로 토의하고자 합니다. 연회가 밤새 이어질 것입니다."
+ausgleich.new.300.t_delegations_no_boycott:0 "사절단들이 도착하다"
+ausgleich.new.300.d_delegations_no_boycott:0 "헝가리가 협상에 다른 사절단을 초청하는 것을 받아들이지 않을 거라 우려했던 것과 다르게, 그들은 어제 비엔나에 도착하였고, 보헤미아, 갈리치아, 일리리아의 사절단도 동시에 도착했습니다.\n\n올해 있는 대타협 재협상에는 제국 전역의 정치가와 사상가들이 모였습니다. 헝가리인들은 문제가 제기될 때부터 항상 논란의 중심에 있어왔습니다. 연회가 밤새 이어질 것입니다."
+ausgleich.new.300.t_delegations_boycott:0 "사절단들이 도착하다-헝가리는 참석하지 않다"
+ausgleich.new.300.d_delegations_boycott:0 "우리가 협상에 헝가리 이외에 다른 사절단을 초청하는 것에 헝가리가 동의하지 않을 거라 우려해왔습니다. 그리고 비평가들은 이미 헝가리가 그러한 이유로 협상을 보이콧할 거라 예상해왔습니다.\n\n그럼에도 불구하고, 다른 사절단들은 도착하여 헝가리의 반항 문제를 어떻게 해결할지 논의하는 중입니다. 연회가 밤새 이어질 것입니다."
 ausgleich.new.300.a:0 "멋진 밤이로군."
 ausgleich.new.300.b:0 "헝가리 없이 협상할 것이 있나?"
 
@@ -895,7 +895,7 @@ ausgleich.new.312.b:0 "그리 될 것이다. 하지만, 아직 준비가 더 필
 ausgleich.new.312.c:0 "그리 될 것이며, 또한 이는 모든 슬로바키아 지역을 포함할 것이다."
 
 ausgleich.new.313.t:0 "갈리시아가 트란스카르파티아를 요구하다"
-ausgleich.new.313.d:0 "Joining in on the recent trend of demanding Hungarian lands, the Ruthenian delegation reminds us that their brothers across the Carpathians are not even recognised by the Hungarian government."
+ausgleich.new.313.d:0 "헝가리의 영토를 요구하는 것이 유행이라도 된 모양입니다. 루테니아 측 사절단은 카르파티아 산맥 너머의 형제들이 아직도 헝가리 정부로부터 자치권을 인정받지 못했음을 우리에게 상기시키고 있습니다."
 ausgleich.new.313.a:0 "대타협은 영토 할양을 요구하는 장소가 아니다!"
 ausgleich.new.313.b:0 "일리있는 말이다. 그렇게 되도록 노력해보자."
 
@@ -910,30 +910,30 @@ ausgleich.new.315.d:0 "폴란드인 대표단의 몇몇 저명한 구성원들�
 ausgleich.new.315.a:0 "우리는 이를 고려해 볼 것이다."
 
 ausgleich.new.316.t:0 "루마니아인들 : 트란실바니아의 자치?"
-ausgleich.new.316.d:0 "While Transylvania hold some recognition by Hungary, it is by no means near the level Cisleithanian states enjoy. The Romanian delegation puts in a word for being put on the same level as the states of the Austrian half."
+ausgleich.new.316.d:0 "비록 트란실바니아인이 헝가리 정부로부터 자치권을 부여받았지만, 시슬레이테니아인들이 누리는 정도는 아닙니다. 루마니아 측 사절단은 그들에게도 오스트리아 국민의 절반이 가지고 있는 권리를 똑같이 부여해달라 요구했습니다."
 ausgleich.new.316.a:0 "헝가리 대표단은 이를 고려해야 할 것이다."
 ausgleich.new.316.b:0 "그리 될 것이다."
 ausgleich.new.316.c:0 "이는 그리고 트란실바니아 전 지역을 포함할 것이다."
 
-ausgleich.new.317.t:0 "Hungary Abandons the Ausgleich"
-ausgleich.new.317.d:0 "Having had enough of the 'mockery of old traditions' that the Hungarian delegation calls this year's negotiations, they have left the discussions."
-ausgleich.new.317.a:0 "This is bad, isn't it?"
+ausgleich.new.317.t:0 "헝가리가 대타협을 포기하다"
+ausgleich.new.317.d:0 "헝가리 측 사절단이 '오래된 전통의 엉터리 복사본'이라 부르는 올해의 협상은 헝가리인이 자리를 박차고 나감으로써 끝나버렸습니다."
+ausgleich.new.317.a:0 "나쁜 일이군."
 
 #WIP
-ausgleich.new.318.t:0 "The Delegation Returns Home Early"
-ausgleich.new.318.d:0 "Upset with the way the negotiations were going, our delegates returned home early. We will not be reimbursed for now."
-ausgleich.new.318.a:0 "Suboptimal."
+ausgleich.new.318.t:0 "사절단이 고향에 일찍 돌아오다"
+ausgleich.new.318.d:0 "협상이 돌아가고 있는 꼴에 분노한 나머지, 우리 측 사절단은 고향에 일찍 돌아왔습니다. 지금으로서 우리는 아무런 배상도 받지 못할 것입니다."
+ausgleich.new.318.a:0 "이게 최선이야."
 
-ausgleich.new.320.t:0 "The End of the Ausgleich"
-ausgleich.new.320.d_hungary_success:0 "Today at dawn, the Hungarian delegation left for Budapest, to inform their government of what has transpired the last days, of the open arms that welcomed them in Vienna, and of their promised gains. The Ausgleich renegotiations of 1937 were a success, and things are looking up for the Dual Monarchy."
-ausgleich.new.320.d_hungary_failure:0 "The Ausgleich came to an end yesterday - when Hungary decided to leave them prematurely."
-ausgleich.new.320.d_other_success:0 "The Ausgleich came to an end yesterday. All delegations went home today."
-ausgleich.new.320.d_other_failure:0 "Despite Hungary's earlier departure, the Ausgleich came to an end yesterday, and the rest of delegations went home today."
-ausgleich.new.320.a:0 "Let's hope this upholds peace within the Empire."
-ausgleich.new.320.b:0 "It could have gone better, but also worse."
+ausgleich.new.320.t:0 "대타협의 끝"
+ausgleich.new.320.d_hungary_success:0 "오늘 새벽, 헝가리 측 사절단이 부다페스트로 떠났습니다. 지난 며칠간에 일어났던 일과, 빈이 그들을 얼마나 환영했는지, 그리고 그들이 약속한 보상을 정부에 알리러 말입니다. 1937년 대타협 재협상은 성공했고, 이중 왕국에 무언가 일어나고 있습니다."
+ausgleich.new.320.d_hungary_failure:0 "대타협은 어제 끝났습니다. 협상이 끝나기도 전에 헝가리가 빈을 떠나기로 결정하면서요."
+ausgleich.new.320.d_other_success:0 "대타협은 어제 끝났습니다. 오늘 모든 사절단들이 집으로 돌아갔습니다."
+ausgleich.new.320.d_other_failure:0 "헝가리가 조금 일찍 떠났음에도, 대협상은 어제 끝났습니다. 나머지 사절단들은 오늘 집으로 돌아갔습니다."
+ausgleich.new.320.a:0 "이 일로 제국의 평화가 유지되길 바란다."
+ausgleich.new.320.b:0 "더 나아질 수도 있고, 악화될 수도 있다."
 
 #WIP
-ausgleich.new.321.t:0 "The Ausgleich Negotiations Are Over"
+ausgleich.new.321.t:0 "대타협 협상이 종료되다"
 ausgleich.new.321.d:0 "Our delegation was successful in negotiating a resolution to our differences with Vienna."
 ausgleich.new.321.a:0 "Good."
 
@@ -969,11 +969,11 @@ ausgleich.new.327.t:0 "Hungary Declares War On Us"
 ausgleich.new.327.d:0 "Hungary Declares War On Us"
 ausgleich.new.327.a:0 "This isn't good."
 
-ausgleich.new.328.t:0 "The Illyrian Crisis"
-ausgleich.new.328.d:0 "Following the refusal of the Illyrian government to pay what they've described as "an outrageous demand of reparations for rightful Illyrian lands", the Hungarian government has declared war on the Illyrian Crown. Already, the Honvédség has begun marching into Slavonia, and it seems almost too late to intervene in the conflict in any meaningful way."
-ausgleich.new.328.a:0 "This is outrageous."
-ausgleich.new.328.b:0 "Leave them to it."
-ausgleich.new.328.c:0 "It's happening."
+ausgleich.new.328.t:0 "일리리아 위기"
+ausgleich.new.328.d:0 "일리리아 정부가 "일리리아의 정당한 영토에 대한 터무니없는 배상 요구"를 거절한 이후, 헝가리 정부는 일리리아에 전쟁을 선포했습니다. 이미 헝가리 국방군(Honvédség)은 슬라보니아로 진격하고 있으며, 효과적으로 이 갈등에 개입하기는 이미 늦은 듯합니다."
+ausgleich.new.328.a:0 "터무니없군."
+ausgleich.new.328.b:0 "알아서 하라지."
+ausgleich.new.328.c:0 "해프닝에 불과하다."
 
 #WIP
 ausgleich.new.329.t:0 "Austria Declares War on Illyria"
@@ -988,8 +988,8 @@ ausgleich.new.330.b:0 "Give Croatia-Slavonia to Hungary and restore Illyria in t
 ausgleich.new.330.c:0 "Occupy the whole thing for now."
 
 
-annexation_CRO_AUS_CONQ:0 "Austro-Hungarian Split of Former Illyria"
-annexation_CRO_AUS_CONQ_desc:0 "We must choose what to do with the occupied Illyrian lands."
+annexation_CRO_AUS_CONQ:0 "오스트리아와 헝가리가 옛 일리리아를 분할하다"
+annexation_CRO_AUS_CONQ_desc:0 "점령한 일리리아 땅을 어찌 할지 결정해야만 합니다."
 
 #WIP
 ausgleich.new.331.t:0 "Austria Occupies All of Illyria"
@@ -1004,9 +1004,9 @@ ausgleich.new.332.d_claims:0 ""
 ausgleich.new.332.a:0 "Certainly a valuable lesson for them."
 ausgleich.new.332.b:0 "Good."
 
-ausgleich.new.340.t:0 "[AUS_ausgleich_demonstrations] Nationalism"
-ausgleich.new.340.d:0 "Without doubt inspired by the support the King and his government in Vienna have given them during the Ausgleich Renegotiations, [AUS_ausgleich_demonstrations] protesters are marching the streets, holding pro-Austrian, but anti-Hungarian protests."
-ausgleich.new.340.a:0 "Put them down."
+ausgleich.new.340.t:0 "[AUS_ausgleich_demonstrations] 민족주의"
+ausgleich.new.340.d:0 "대타협 재협상 동안 빈의 국왕 폐하와 내각의 지원에 고무되어, [AUS_ausgleich_demonstrations] 반대 시위 행렬은 거리를 행진하고 있습니다. 그들은 친오스트리아적이며, 동시에 반헝가리적인 시위대입니다."
+ausgleich.new.340.a:0 "그들을 진정시켜라."
 
 AUS_ausgleich_demonstrations_SVK_ROM:0 "Slovak and Romanian"
 AUS_ausgleich_demonstrations_SVK:0 "Slovak"
