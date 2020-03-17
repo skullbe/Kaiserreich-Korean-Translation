@@ -24,28 +24,28 @@ rus_fulfilled_strike:0 "파업자들의 요구 이행"
 rus_general_strike:0 "파업"
 rus_fulfilled_strike_general_malus:0 "넓어진 노동자의 권리" #Expanded worker's rights
 
-RUS_political_unrest:0 "Political Unrest"
-RUS_political_unrest_desc:0 "Continuing instability after the civil war and the lingering strength of socialist influence have forced us to compromise again and again. Socialist and nationalist activity is still high in Russia - should the status quo change, the forces arrayed against the state may throw Russia into chaos."
-RUS_political_instability:0 "Political Instability"
+RUS_political_unrest:0 "정치적 불안"
+RUS_political_unrest_desc:0 "내전 이후 계속되는 불안정과 사회주의의 여전한 강세로 우리는 거듭 타협하지 않을 수 없었습니다. 러시아에서는 사회주의와 민족주의 활동이 여전히 활발합니다. 만약 현상유지가 바뀌면, 국가에 대항하는 세력이 러시아를 혼란에 빠뜨릴 수도 있습니다."
+RUS_political_instability:0 "정치적 불안정"
 
 RUS_economic_depression:0 "경제 대공황"
 RUS_supreme_economic_council:0 "최고경제위원회" #Verkhovny Ekonomicheskiy Sovet"
-RUS_new_zemstva:0 "New Zemstva"
+RUS_new_zemstva:0 "새로운 젬스트보"
 RUS_minprom:0 "민프롬"
 RUS_cooperative_capitalism:0 "협동자본주의"
 
-RUS_constitutional_monarchy:0 "Constitutional Monarchy"
-RUS_imperial_glory:0 "Imperial Glory"
-RUS_new_senate:0 "New Senate"
-RUS_a_new_russia:0 "A New Russia"
-RUS_empowered_duma:0 "Empowered Duma"
-RUS_legacy_of_the_whites:0 "Legacy of the Whites"
+RUS_constitutional_monarchy:0 "입헌군주제"
+RUS_imperial_glory:0 "제국의 영광"
+RUS_new_senate:0 "새로운 상원"
+RUS_a_new_russia:0 "새로운 러시아"
+RUS_empowered_duma:0 "강력한 두마"
+RUS_legacy_of_the_whites:0 "백군의 유산"
 RUS_state_revanchism:0 "보복주의"
 
 RUS_okhrannoye_otdeleniye:0 "오흐라나"
 
-russian_research:0 "Russian Academy of Sciences"
-russian_research_name:0 "Russian Academy of Sciences"
+russian_research:0 "러시아 과학 아카데미"
+russian_research_name:0 "러시아 과학 아카데미"
 russian_research_desc:0 ""
 
 ### Parties ###
@@ -111,7 +111,7 @@ RUS_Foreign_Policy_decisions_desc:0 "지난 몇 십 년 동안, 러시아는 세
 RUS_Integrate_Alash_Autonomy:0 "[FROM.GetFlag] [FROM.GetNameDef] 통합"
 RUS_Integrate_Alash_Autonomy_desc:0 "카자흐스탄은 광활하고, 부유한데다가 충성스럽기까지 합니다. 이 지역을 다시 수복한다면 우리는 그 남쪽의 투르케스탄, 나아가서는 페르시아에까지 영향력을 투사할 수 있습니다!"
 
-RUS_Attack_Region:0 "Attack [FROM.GetNameDef]"
+RUS_Attack_Region:0 "[FROM.GetNameDef] 공격"
 
 RUS_Attack_Central_Asia_desc:0 "[RUS_Attack_Central_Asia_desc_text]"
 RUS_Attack_Central_Asia_desc_ALO:0 "검은 월요일이 러시아를 강타하면서, 알라시 자치국은 우리의 통제에서 벗어났습니다. 카자흐 국경선을 되찾는 것은 러시아를 다시금 열강으로 올려놓기 위한 최우선 과제입니다."
@@ -196,8 +196,8 @@ RUS_Invite_Mongolia_desc:0 "몽골인들은 우리의 영향력에 우호적인 
 RUS_Invite_Romania_desc:0 "루마니아는 오랜기간동안 우리의 영향권에 있었고, 유럽이 점점 더 불안정해지면서 그들은 우리의 보호를 다시금 원할 것입니다."
 RUS_Invite_Serbia_desc:0 "우리는 한때 세르비아와 함께 독일과 오스트리아와 싸웠습니다. 비록 세계대전이라는 큰 대가를 치루긴 했습니다만, 지금 러시아가 열강의 위치에 있기 때문에, 우리와 세르비아 모두 세계대전의 부당한 대우를 다시 바로잡는 것이 적절할 것입니다."
 
-RUS_Join_The_Academy_of_Sciences:0 "Join the Academy of Sciences"
-RUS_Join_The_Academy_of_Sciences_desc:0 "We should work more closely with our allies with regards to scientific progress."
+RUS_Join_The_Academy_of_Sciences:0 "과학 아카데미에 합류"
+RUS_Join_The_Academy_of_Sciences_desc:0 "우리는 과학적인 진보에 관해서 동맹국들과 더 밀접하게 협력해야 합니다."
 
 RUS_Industrial_Expansion_decisions:0 "산업 확장"
 RUS_Develop_Industry_In_Novgorod:0 "노브고로드 산업 개발"
@@ -233,26 +233,26 @@ RUS_Kachkanar_Exploitation:0 "카흐카나르 개발"
 
 ### Zemstva Mechanic ###
 
-RUS_Zemstvo_Funding_decisions:0 "Local Zemstvo Investments"
-RUS_Zemstvo_Funding_decisions_desc:0 "Right now, Zemstvo is limited by fact, that it is funded only from local taxes. If we want to improve effect of zemstvo on our country, we should support them by direct funds."
-RUS_funding_zemstva:0 "Already funding Zemstva of a different region."
+RUS_Zemstvo_Funding_decisions:0 "지역 젬스트보 투자"
+RUS_Zemstvo_Funding_decisions_desc:0 "현재 지방세만으로 자금을 조달한다는 사실에 의해 젬스트보는 제한되어 있습니다. 젬스트보의 효과를 개선하려면 직접적인 자금지원이 필요합니다."
+RUS_funding_zemstva:0 "이미 다른 지역의 젬스트보에 자금을 지원 중임."
 
-RUS_Invest_In_The_Northern_Zemstva:0 "Invest in the Northern Zemstva"
-RUS_Invest_In_The_Southern_Zemstva:0 "Invest in the Southern Zemstva"
-RUS_Invest_In_The_Eastern_Zemstva:0 "Invest in the Eastern Zemstva"
-RUS_Invest_In_The_Ural_Zemstva:0 "Invest in the Ural Zemstva"
-RUS_Invest_In_The_Siberian_Zemstva:0 "Invest in the Siberian Zemstva"
+RUS_Invest_In_The_Northern_Zemstva:0 "북부 젬스트보에 투자"
+RUS_Invest_In_The_Southern_Zemstva:0 "남부 젬스트보에 투자"
+RUS_Invest_In_The_Eastern_Zemstva:0 "동부 젬스트보에 투자"
+RUS_Invest_In_The_Ural_Zemstva:0 "우랄 젬스트보에 투자"
+RUS_Invest_In_The_Siberian_Zemstva:0 "시베리아 젬스트보에 투자"
 
-RUS_Invest_In_The_Zemstva_tooltip:0 "§CWe shall offer economic support to the Zemstvos in the region, with potentially beneficial effects.§!"
-RUS_Local_Development_tooltip:0 "§CUnlocks Zemstva investment in industry.§!"
-RUS_Zemstvo_Research_Initiatives_tooltip:0 "§CUnlocks Zemstva investment in research and development.§!"
-RUS_War_Preparations_Programme_tooltip:0 "§CUnlocks Zemstva investment in military industry.§!"
-RUS_National_Investment_Bank_tooltip:0 "§CUnlocks increased allocation of Zemstva funding.§!"
-RUS_zemstva_social_focus:0 "§OWe will focus on the social environment of our people, this can net us extra §Ystability, war support or political power.§!§!"
-RUs_zemstva_civilian_focus:0 "§OWe will focus on industry in our regions, this can net us §Ynew factories, infrastructure, resources or even synthetic refineries (if the investment is large enough).§!§!"
-RUs_zemstva_research_focus:0 "§OWe will focus on research and development facilities in our regions, this can net us §Ynew blueprints or improved research capabilites.§!§!"
+RUS_Invest_In_The_Zemstva_tooltip:0 "§C그 지역의 젬스트보에 잠재적으로 유익한 효과를 가져다 줄 수 있는 경제적 지원을 제공할 것입니다.§!"
+RUS_Local_Development_tooltip:0 "§C산업 부문에의 젬스트보 투자를 해금할 것입니다.§!"
+RUS_Zemstvo_Research_Initiatives_tooltip:0 "§C연구 개발 부문에의 젬스트보 투자를 해금할 것입니다.§!"
+RUS_War_Preparations_Programme_tooltip:0 "§C군사 사업 부문에의 젬스트보 투자를 해금할 것입니다.§!"
+RUS_National_Investment_Bank_tooltip:0 "§C젬스트보 지원금의 상한을 완화할 것입니다.§!"
+RUS_zemstva_social_focus:0 "§O우리는 국민의 사회적 환경에 초점을 맞출 것입니다. 이것은 우리에게 §Y추가적인 안정도, 전쟁 지지도 또는 정치력§!을 줄 수 있습니다.§!"
+RUs_zemstva_civilian_focus:0 "§O우리는 우리 지역의 산업에 초점을 맞출 것입니다. 이것은 우리에게 §Y새로운 공장, 기반 시설, 자원 또는 심지어 (투자가 충분하다면) 합성 정유 공장§!을 제공할 수 있습니다.§!"
+RUs_zemstva_research_focus:0 "§O우리는 우리 지역의 연구 개발 시설에 초점을 맞출 것입니다. 이것은 우리에게 §Y새로운 설계도나 개선된 연구 능력§!§을 줄 수 있습니다.§!"
 
-RUS_increased_zemstvo_investment:0 "Increased Zemstvo Investment"
+RUS_increased_zemstvo_investment:0 "젬스트보 투자의 증가"
 RUS_zemstva_bad_investment:0 "Lost Investments"
 RUS_zemstva_research_bonus:0 "Research Advances"
 RUS_zemstva_research_malus:0 "Research Delays"
@@ -549,14 +549,14 @@ RUS_Floating_Fortresses_desc:0 "니콜라이 콜로메이체프는 북극 모험
 RUS_War_Under_The_Sea:0 "수중 전투"
 RUS_War_Under_The_Sea_desc:0 "네스토르 모나스티레프는 베렌스와 콜로메이체프의 계획이 모두 거창하지만 현실적이지 않다고 주장합니다. 그는 대규모 해군의 건설에 드는 천문학적인 비용과 그만한 규모의 함대를 유지할 기반시설의 결여를 강조하며, 대신에 적들의 수송 효율을 저해하기 위해 저렴하지만 동시에 치명적인 잠수함들에게 초점을 둘 것을 제안했습니다."
 
-RUS_The_Invisible_Navy:0 "The Invisible Navy"
-RUS_The_Invisible_Navy_desc:0 "The Weltkrieg taught us that it isn't always the biggest naval gun that wins the war. Cheap, silent and deadly submarines can bring entire empires to their knees. With our shipbuilding capacity limited by Brest-Litovsk, focusing on these types of vessels will allow us to quickly regain an offensive capacity in the deep oceans."
+RUS_The_Invisible_Navy:0 "보이지 않는 해군"
+RUS_The_Invisible_Navy_desc:0 "세계 대전을 거치며 우리는 커다란 주포를 가진 쪽이 항상 전쟁에서 이기는 것은 아니라는 것을 알게 되었습니다. 값싸고 조용하며 치명적인 잠수함들은 제국 전체를 굴복시킬 수 있습니다. 브레스트-리토프스크 조약에 의해 우리의 조선능력이 제한되어 있기 때문에, 이러한 종류의 선박에 초점을 맞추면 우리는 심해에서의 공격능력을 신속하게 되찾을 수 있을 것입니다."
 
-RUS_Coastal_Defences:0 "Coastal Defences"
-RUS_Coastal_Defences_desc:0 "Because our naval capacity has historically been less than that of our natural rivals, many of our naval theoreticians are advocating for a defensive stance against the enemy. By focusing on mining the seas, we could limit their movement at sea and cause losses to their fleets while exposing ourselves to minimal risks."
+RUS_Coastal_Defences:0 "해안 방어"
+RUS_Coastal_Defences_desc:0 "우리의 해군은 역사적으로 우리의 경쟁국에 비해 약했기 때문에, 많은 해군 이론가들은 적에 대한 방어적인 입장을 옹호하고 있습니다. 기뢰를 매설하는 데 주력함으로써, 우리는 바다에서 그들의 움직임을 제한하고 함대에 손실을 입히면서 우리 자신의 위험을 최소화할 수 있습니다."
 
-RUS_A_Destroyer_Armada:0 "A Destroyer Armada"
-RUS_A_Destroyer_Armada_desc:0 "Destroyers are the backbone of every navy. Considering the fact that the Reichspakt's dominance in the Baltics, this will be doubly true for us. Fast, resourceful and fast to build, we'll need need a large force of these ships if we are to contest the straits and make it into the open seas."
+RUS_A_Destroyer_Armada:0 "구축함 함대"
+RUS_A_Destroyer_Armada_desc:0 "구축함은 모든 해군의 중추입니다. 라이히스팍트가 발트해에서 우세하다는 사실을 고려하면, 이것은 우리에게 더 중요한 사실일 것입니다. 빠르고 쓸모 있으며 빠르게 만들기 위해서는 이 배들에 많은 병력이 필요할 것입니다. 우리가 해협에서 다툼을 벌여 공해로 나아가기 위해서는 말이죠."
 
 RUS_Fleet_Protectors:0 "Fleet Protectors"
 RUS_Fleet_Protectors_desc:0 "Until we finish our naval expansion program every ship is valuable and difficult to replace. By having our cruisers act as defensive centerpieces able to protect our screens and capital ships alike, our admiralty believes that we'll be able to greatly improve the survivability of our naval assets."
@@ -606,23 +606,23 @@ RUS_Expansionism_desc:0 "팽창주의 이론은 러시아의 국경이 우리의
 RUS_Secure_Central_Asia:0 "Secure Central Asia"
 RUS_Secure_Central_Asia_desc:0 "Unlike the Caucasus region, there is no German interest in the central Asian provinces. We should be able to grab them without much opposition from the great powers."
 
-RUS_Seek_Allies:0 "Seek Allies"
-RUS_Seek_Allies_desc:0 "With our bloc established, it's time we sought out allies, for we cannot hope to take on Germany alone."
+RUS_Seek_Allies:0 "동맹을 찾자."
+RUS_Seek_Allies_desc:0 "세력을 창설했으니 동맹을 구할 차례입니다. 동맹을 구하지 않으면 독일에 맞설 수 없습니다."
 
-RUS_The_Academy_Of_Sciences:0 "The Academy of Sciences"
-RUS_The_Academy_Of_Sciences_desc:0 "We should foster deeper cooperation between our allies by creating a collective research initiative."
+RUS_The_Academy_Of_Sciences:0 "과학 아카데미"
+RUS_The_Academy_Of_Sciences_desc:0 "우리는 공동 연구 프로그램을 만들어 동맹국 간의 보다 깊은 협력을 키워야 합니다."
 
-RUS_Into_The_Caucasus:0 "Into the Caucasus"
-RUS_Into_The_Caucasus_desc:0 "The Caucasus is wealthy and, historically, part of Russia. The people who live there might not think so anymore, but with enough military muscles that shouldn't be a problem. Germany will however keep a close eye on us, and we should tread carefully in the region."
+RUS_Into_The_Caucasus:0 "캅카스를 향해"
+RUS_Into_The_Caucasus_desc:0 "부유한 지역인 캅카스는 역사적으로 러시아의 일부였습니다. 그곳 주민들은 더이상 그렇게 생각하지 않을지 모르지만, 강력한 군대가 있는 한 그것은 문제가 되지않습니다. 그러나 독일이 우리를 감시하고 있고, 우리는 신중하게 움직여야 합니다."
 
-RUS_Repudiate_Brest_Litovsk:0 "Repudiate Brest Litovsk"
-RUS_Repudiate_Brest_Litovsk_desc:0 "The greatest losses of the Weltkrieg was, in all honesty, not in the East or the South. It was losing our most industrialised regions of the west. It's time they are returned to their rightful owners."
+RUS_Repudiate_Brest_Litovsk:0 "브레스트 리토프스크 조약 파기"
+RUS_Repudiate_Brest_Litovsk_desc:0 "세계대전에서 우리의 가장 큰 손실은 동쪽이나 남쪽의 영토가 아니고, 바로 산업화된 서부 영토의 상실이었습니다. 이제 그 땅은 정당한 주인의 것이 되어야 합니다."
 
-RUS_Force_Open_The_Straits:0 "Force Open the Straits"
-RUS_Force_Open_The_Straits_desc:0 "With central Asia and the Caucasus region under our control, we can look to the wealthy and strategically important middle east. Our presence will tilt the scales of balance in the region and our armies need to be prepared for warfare in difficult, mountainous terrain."
+RUS_Force_Open_The_Straits:0 "해협을 열자"
+RUS_Force_Open_The_Straits_desc:0 "중앙아시아와 캅카스 지역이 우리의 지배하에 있기 때문에, 우리는 전략적 요충지이며 부유한 땅인 중동에 집중할 수 있게 되었습니다. 우리의 존재는 중동의 균형을 무너뜨릴 것이고 우리 군대는 거친 산악에서의 전투에 대비해야 할 것입니다."	
 
-RUS_Enemy_In_The_East:0 "Enemy in the East"
-RUS_Enemy_In_The_East_desc:0 "Ever since the Russo-Japanese war the true enemy of Russia has, and will always be, the Rising empire in the east. The extremely rich and populous regions of China would also serve us very well."
+RUS_Enemy_In_The_East:0 "동쪽의 적"
+RUS_Enemy_In_The_East_desc:0 "러일 전쟁 이후 러시아의 진정한 적은 해가 떠오르는 동쪽의 제국이었고, 앞으로도 그럴 것입니다. 중국의 부유하고 인구가 많은 지역을 차지하면 우리에게 도움이 될 것입니다."
 
 ### Factions ###
 russian_alliance:0 "러시아 동맹"
@@ -710,7 +710,7 @@ russia.8.d:0 "사회혁명당-멘셰비키 연합은 1월 위기 때 모든 경�
 russia.8.a:0 "멘셰비키의 이라클리 체레텔리."
 russia.8.b:0 "자유주의자 파벨 밀류코프."
 russia.8.c:0 "민중의 호민관 솔로몬 로조프스키!"
-russia.8.e:0 "A popular front of all socialist parties!"
+russia.8.e:0 "전 사회주의 정당의 인민전선!"
 
 russia.9.t:0 "수상 임명"
 russia.9.d:0 "두마는 해산되었고 계엄령이 선포되었습니다. 육군원수 표트르 브란겔이 명목상으로 국가를 통치하고 있습니다. 새 정권의 지지 기반을 다지기 위해서는 수상을 임명해야 합니다."
@@ -720,7 +720,7 @@ russia.9.c:0 "반동 지주들의 대표 블라디미르 푸리슈케비치."
 russia.9.e:0 "러시아는 하나의 지도자가 필요하다!"
 
 russia.10.t:0 "코르닐로프의 결정"
-russia.10.d:0 "The Supreme Commander-in-Chief of the Russian Army, Lavr Georgiyevich Kornilov, has finally seized power, using army troops placed in [ROOT.Capital.GetName]. However, he also understands that without an efficient political programme, his control over the country will be lost and the left Social-Revolutionaries will plunge Russia into terror and chaos. The temporary prime-minister, General Lukomskiy, a well-known supporter of Kornilov can maintain a similarity of order, but he has awful relations with almost all republican factions in the Senate and Duma. As a result, Kornilov has decided to invite Boris Savinkov, the leader of 'Narodno-Respublikanskaya Partiya Rossii' (People's Republican Party of Russia), into the government and offer him the post of Prime-Minister. Though Savinkov and Kornilov are not on the best of terms, Kornilov hopes that Savinkov will be able to reconstruct the glory of the Russian state."
+russia.10.d:0 "러시아 육군 총사령관인 라브르 게오르기예비치 코르닐로프는 [ROOT.Capital.GetName]에 주둔한 부대를 이용해 마침내 권력을 장악했습니다. 그러나, 그는 또한 효율적인 정치 계획이 없다면, 국가 통제력을 상실하고 좌익 사회 혁명 세력이 러시아를 테러와 혼란에 빠뜨릴 것이라는 것을 알고 있습니다. 코르닐로프의 유명한 지지자인 임시 총리 루콤스키 장군은 질서 비슷한 것을 유지할 수 있지만, 그는 원로원과 두마의 거의 모든 공화파와 관계가 좋지 않습니다. 이에 따라 코르닐로프는 'Narodno-Respublikanskaya Partiya Rossii'(러시아 인민공화당)의 보리스 사빈코프 대표를 정부에 초청해 총리직을 제의하기로 했습니다. 사빈코프와 코르닐로프는 그렇게 사이가 좋지는 않지만 사빈코프가 러시아 국가의 영광을 재건할 수 있기를 바라고 있습니다."
 russia.10.a:0 "농민들의 보즈드를 정부에 초대하자."
 russia.10.b:0 "데니킨 원수를 대신 불러오자!"
 
@@ -835,12 +835,12 @@ russia.36.d:0 "차르 드미트리가 죽고 12살 난 그의 아들 파벨이 �
 russia.36.c:0 "반동주의 군인 표트르 브란겔!"
 russia.36.e:0 "지도자들이 섭정의회를 함께 통치하기로 합의했다."
 
-russia.1917.t:0 "Revolution!"
-russia.1917.d.dmitriy:0 "After the 'Russian counter-revolution' happened no one expected things to calm down anytime soon. Only the most cynical pessimists could have imagined that in a matter of weeks, Russia would be set ablaze with the fires of revolution once more. Although Kornilov's decision to transfer power to a civilian administration was enough keep the centrists from breaking ranks with the rightists, the fact remained that the army's heavy-handed methods of mass arrests had caused the left in the country to overwhelmingly move towards more radical parties. With any hope for reform as dead as Kerensky, it was only a matter of time before many of them took to the streets.\n\nWhat started out as riots by radicals in Petrograd and Moscow quickly gained steam as the police was unable to quell them. When the army, allegedly acting by orders from Kornilov rather than Dmitry, stepped in it only made matters worse with its heavy-handed measures. As the days went on the riots grew in intensity with more and more people siding with the reds. Despite the best efforts of the civilian government to keep things under control, the fact of the matter is that it was a government in name only. It'd barely been inaugurated and had already lost any legitimacy it may once have had with a large portion of the country's population, particularly those victimized by Kornilov's draconian measures.\n\nMere days after the riots begam to sweep the western parts of the nation, the army was forced to evacuate Dmitry and his cabinat from the capital. A provisional capital was set up in the east, and already preparations were made to fight to reclaim the western parts of the country. In the old capital, the revolutionaries that seized the moment may have done so without broad popular support, but once they were in power many regions surrounding Moscow and Petrograd soon joined ranks with them as many peasants and intellectuals alike seized the chance to gain by revolution what they could never gain through reform. Though the new socialist government is in a precarious position, it's already taking measures to mobilize militias and and rally popular support as Russia seems to be spiraling towards yet another bloody civil war."
-russia.1917.d.kornilov:0 "After the 'Russian counter-revolution' happened no one expected things to calm down anytime soon. Only the most cynical pessimists could have imagined that in a matter of weeks, Russia would be set ablaze with the fires of revolution once more. The heavy-handed approach of mass-arrests and numerous summary executions had managed to push many leftists towards more radical movements. Many liberals and even some conservatives were alienated by the drastic measures taken by the army, quickly eroding the broad support that Kornilov had in the initial days after the coup. Before long there were widespread protests in several major cities in Russia's western regions with only the army to stand against them.\n\nWhat started out as a mixture of people of all stripes voicing their dislike of Kornilov's autocratic methods quickly became dominated by the radical left, something Kornilov was all too happy to use as a justification to crack down even harder against them. As things spiraled out of control, the situation began to resemble that of 1917 more and more by the minute. What started out as soldiers disobeying orders to attack their countrymen soon spiraled into clashes between troops and Bolshevik rioters as the most radical elements on both sides took action when calmer heads seemed paralyzed by confusion and hesitance.\n\nDays after the riots began to sweep the western parts of the nation, Kornilov ordered the bulk of his forces to withdraw eastwards in order to regroup and prepare to fight back against the reds. Meanwhile in the old capital, a loose coalition of moderate socialists and and various strands of Bolsheviks had seized power and formed a shaky government. As Kornilov's authority in the west evaporated, many peasants and city-dwellers alike, many victims of the recent repression, soon joined up with the revolutionaries. Though the socialist government's situation is currently precarious at best, it has already started to mobilize militias and army deserters to take arms against Kornilov's expected counter-attack aimed at retaking the capital from the reds. Russia is now on an inevitable course towards yet another bloody civil war."
-russia.1917.a:0 "We shall defeat these traitors and restore the republic! Westwards!"
-russia.1917.b:0 "This is Russia, One and Indivisible! We shall smash these traitors!"
-russia.1917.c:0 "§RPlay as [SOV.GetNameDef]§!"        
+russia.1917.t:0 "혁명!"
+russia.1917.d.dmitriy:0 "'러시아 반혁명'이 일어난 후 아무도 사태가 곧 진정될 것이라고 예상하지 못했습니다. 가장 냉소적인 비관론자들만이 몇 주 안에 러시아가 다시 한번 혁명의 불길에 휩싸일 것이라고 상상할 수 있었습니다. 비록 코르닐로프의 문민 정부로의 정권 이양 결정은 중도파가 우파와 갈라서는 것을 막아주기에는 충분했지만, 군대의 강압적인 집단 체포 방식이 이 나라의 좌파를 더 급진적인 정당으로 압도적으로 이동하게 했다는 점은 여전히 사실이었습니다. 개혁에 대한 어떤 희망도 케렌스키처럼 죽은 가운데, 많은 사람들이 거리로 나서는 것은 시간문제였습니다.\n\n페트로그라드와 모스크바에서 과격분자들에 의한 폭동으로 시작되었으며, 경찰이 그들을 진압할 수 없게 되면서 빠르게 힘을 얻었습니다. 드미트리보다 코르닐로프의 명령을 따르는 군대가 개입했을 때, 그 강압적인 조치는 사태를 악화시킬 뿐이었습니다. 날이 갈수록 더 많은 사람들이 적군의 편을 들면서 폭동이 격렬해졌습니다. 문민 정부는 최선을 다했음에도 불구하고 이름뿐인 정부였습니다. 정부는 이미 한때 이 나라 인구의 많은 부분, 특히 코르닐로프의 가혹한 조치에 의해 희생된 사람들과 함께 있었을지도 모르는 어떤 정통성을 상실하고 있었습니다.\n\n폭동이 서부를 휩쓸기 시작한 지 얼마 되지 않아, 군대는 드미트리와 그의 내각을 수도에서 철수시킬 수밖에 없었습니다. 동쪽에 임시 수도가 마련되었고, 이미 서부를 되찾기 위해 싸울 준비가 되어 있었습니다. 옛 수도에서는 그 순간을 노린 혁명가들이 광범위한 대중의 지지없이 일 수도 있지만 권력을 잡았으며 모스크바와 페트로그라드를 둘러싼 많은 지역들이 곧 그들 대열에 합류하게 되습니다. 많은 농민들과 지식인들 모두가 개혁을 통해 결코 얻을 수 없는 것을 혁명으로 얻을 기회를 잡았기 때문입니다. 비록 새로운 사회주의 정부가 위태로운 위치에 있지만, 러시아가 또 한번의 피비린내 나는 내전을 향해 질주하는 것처럼 보이자 이미 민병대를 동원하고 대중의 지지를 모으기 위한 조치를 취하고 있습니다."
+russia.1917.d.kornilov:0 "'러시아 반혁명'이 일어난 후 아무도 사태가 곧 진정될 것이라고 예상하지 못했습니다. 가장 냉소적인 비관론자들만이 몇 주 안에 러시아가 다시 한번 혁명의 불길에 휩싸일 것이라고 상상할 수 있었습니다. 집단 체포와 수많은 즉결 처형이라는 강압적인 접근은 많은 좌파들을 더욱 급진적인 운동으로 몰아붙일 수 있었습니다. 많은 진보주의자들과 심지어 일부 보수주의자들까지도 군대가 취한 과감한 조치들에 의해 소외감을 느껴, 쿠데타 이후 처음 며칠 동안 코르닐로프가 가졌던 광범위한 지지는 빠르게 사라졌습니다. 얼마 지나지 않아 러시아 서부 지역의 몇몇 주요 도시에서 군대만이 다룰 수 있는 시위가 광범위하게 벌어졌습니다.\n\n코르닐로프의 독재적인 방식에 대한 반감을 나타내는 모든 사람들이 뒤섞여 시작된 시위는 급진좌파가 순식간에 지배하게 되었습니다. 이는 코르닐로프가 그들을 더욱 강하게 단속하기 위한 명분으로 사용하기에는 너무나 기쁜 일이었습니다. 상황이 걷잡을 수 없이 소용돌이치면서 상황은 시시각각으로 1917년과 점점 닮아가기 시작했습니다. 양측의 침착한 두뇌들이 혼란과 망설임으로 인해 마비되고 급진분자들이 행동을 취하자, 군인들이 동포를 공격하라는 명령에 불복하면서 시작된 것은 곧 군대와 볼셰비키 폭도들 사이의 충돌로 이어졌습니다.\n\n폭동이 서부를 휩쓸기 시작한 지 얼마 지나지 않아, 코르닐로프는 자신의 병력 대부분을 재결집하고 적군에 대항할 준비를 하기 위해 동쪽으로 철수하라고 명령했습니다. 한편 옛 수도에서는 온건파 사회주의자들과 다양한 볼셰비키 계열의 느슨한 연합이 권력을 장악하고 흔들리는 정부를 형성하고 있었습니다. 서부에서 코르닐로프의 권위가 증발함에 따라, 많은 농민들과 도시민들, 최근의 억압에 회생된 자들은 곧 혁명가들과 결합했습니다. 사회주의 정부의 현 상황은 기껏해야 위태롭지만, 이미 민병대와 탈영병들을 동원하여 수도를 적들로부터 탈환하려는 코르닐로프의 예상된 반격에 대항하기 시작했습니다. 러시아는 지금 또 한번의 피비린내 나는 내전을 향해 피할 수 없는 진로를 걷고 있습니다."
+russia.1917.a:0 "우리는 이 반역자들을 물리치고 공화국을 회복할 것이다! 서쪽으로!"
+russia.1917.b:0 "여기는 러시아며 하나이고 분리될 수 없다! 반역자들을 쳐부술 것이다!"
+russia.1917.c:0 "§R[SOV.GetNameDef]으로 플레이§!"        
 
 russia.1918.t:0 "반소비에트 쿠데타"
 russia.1918.d:0 "When [ROOT.GetLeader] was made interim president of Russia he did so with a mandate that was limited at best. The vast military apparatus of Russia would find someone of his background, character and views to be unacceptable even under the best of circumstances. Failing to restore any semblance of order after the tragic death of Kerensky, it was only a matter of time before his makeshift government began to fall apart. [ROOT.GetLeader] had become despised by the right, was far too much of a socialist to be considered a compromise candidate by the liberals, and was even unable to rally Russia's left due to the utter paralysis of the state.\n\nFearing that [ROOT.GetLeader]'s failing government would crumble and give way to a Bolshevik takeover, several reactionary officers led by Lavr Kornilov made their move at the crack of dawn. Their preparations had been concealed by the chaos that had gripped the nation and thanks to treachery within the army and intelligence services they were able to seize multiple key government buildings and strategic infrastructure in the capital and across the country. In a radio address heard from Smolensk in the west all the way to Kamchatka in the east, Kornilov declared that the age of anarchy was over and that the army had once more come to liberate Russia from the reds.\n\nBy noon, the government swept in after Kerensky's death was no more. [ROOT.GetLeader] was placed under arrest and garrisons in several major cities were rounding up and detaining leftist politicians. While many Russian conservatives and reactionary nationalists alike were cheering on the developments, others watched in horror as Kornilov killed any hope of political reform, let alone a non-violent revolution. No matter how Kornilov acted from here on, there was little doubt to anyone in Russia or abroad that this was the end of the nation's troubles. For now, though, Kornilov and his closest aides had to decide how Russia would be governed after its brief stint with socialism."
@@ -1216,7 +1216,7 @@ rusd.132.t:0 "전러시아 통일 국가"
 rusd.132.d:0 "'크림, 신러시아, 소러시아, 백러시아. 모두가 우리의 땅이며 우리 민족이 살고 있는 곳입니다. 게르만족의 멍에 아래 신음하는 대 루스인들, 소러시아인과 백러시아인들이 우리가 오기를 기다리고 있습니다. 우리가 그들을 내버려 둘 것일까요? 절대 아닙니다. 우리는 반드시 그들을 구해 낼 것입니다. 우리는 우리의 형제 자매를 결코 잊지 않으며, 이제 배신의 시대는 끝났습니다. 러시아라는 불사조는 한때 독일 침략자들에게 무참히 짓밟혔었지만, 마침내 부활했습니다. 모든 러시아인들이여, 우리를 기다리십시오. 우리가 갈 것입니다. 러시아인들은 러시아인들을 도울것입니다. ' - 비록 사빈코프의 확장 계획이 지금 당장 실현될 수는 없겠지만, 농민과 군대의 강력한 지지를 받는 영도자의 전러시아 통합 선언은 이제 러시아가 더이상 독일 제국과의 전면전을 피하지 않을 것이라는 것을 보여주고 있습니다."
 rusd.132.a:0 "하나의 민족, 하나의 국가, 하나의 러시아."
 
-rusd.133.t:0 "우리의 러시아"ㄴ
+rusd.133.t:0 "우리의 러시아"
 rusd.133.d:0 "'대초원의 아들 여러분, 사막의 유목민 여러분, 그리고 모든 러시아 땅 곳곳에 사는 여러분. 여러분 중 많은 이가 러시아가 도움을 필요로할 때 우리를 배신했고, 동포들이 붉은 위협에 맞서 싸울 때 도움의 손길조차 주지 않았습니다. 우리가 그것들을 잊지는 못할 것입니다. 하지만 우리는 당신들을 용서해줄 수 있습니다. 새롭게 태어난 러시아가 힘을 되찾기 위해서는 당신들의 도움이 필요합니다. 당신들의 조국이 다시 위대해질 수 있도록 도우십시오. 여러분의 조국인 러시아와 러시아의 영웅들의 영광을 위해서.' - 러시아의 새 국가 정책은 러시아인의 우월성을 기반으로 하지만, 그와 동시에 국가와 민족간의 우애에 대한 개념 역시 여럿 포함하고 있습니다. 사빈코프는 이 두 개념들을 합쳐 소수 민족들은 이제 러시아인들에게 완벽히 충성해야 하지만, 그와 동시에 그들 모두에게 러시아 시민권을 부여하겠다고 발표했습니다. 구 제정 시대 국가 정책의 재탄생으로 마침내 모든 러시아 시민들에게 질서와 평화가 자리잡을 수 있게 되었습니다."
 rusd.133.a:0 "러시아인들과 충직한 소수 민족들을 위한 러시아!"
 
