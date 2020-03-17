@@ -45,8 +45,6 @@ CAL_business_grants_idea:0 "사업 보조금"
 CAL_chautauqua_idea:0 "하계 문화 교육 학교 운동"
 CAL_efficiency_movement_idea:0 "효율적인 운동"
 CAL_brain_trust_idea:0 "브레인 트러스트"
-CAL_dollar_diplomacy_idea1:0 "달러 외교"
-CAL_dollar_diplomacy_idea2:0 "달러 외교"
 CAL_deWitt_plan_idea_1:0 "드윗안"
 CAL_deWitt_plan_idea_1_desc:0 "With the approval of the new national congress and the appointment of John L. DeWitt as Chief of Staffof the Western Defense Command, we're now preparing for a long war with the objective of securing our holdings after each advance instead of trying to achieve a quick victory."
 CAL_deWitt_plan_idea_2:0 "드윗안"
@@ -84,18 +82,12 @@ CAL_military_industrial_production_3_desc:0 "With our resounding victory in the 
 CAL_military_industrial_production_4:0 "군수산업 생산"
 CAL_military_industrial_production_4_desc:0 "With our resounding victory in the civil war, we now count with a formidable military industrial complex. While normally in peace time, this would be time to start redirecting our funding back to civilian uses, storm clouds gather worldwide, and our mighty nation may yet again become embroiled in war. As such, an expansion of the contracts we signed and an increase of our funding to the military sector will help us be prepared for when the next conflict comes knocking."
 CAL_defense_logistics_agency_idea:0 "국방부 군수국"
-CAL_defense_logistics_agency_idea_desc:0 ""
 CAL_arsenal_of_democracy_idea:0 "민주주의의 병기창"
-CAL_chinese_profits_idea:0 "중국으로부터의 소득"
-CAL_american_trade:0 "미국으로부터의 소득"
 CAL_aviation_industry_ideas:0 "항공기 산업"
 CAL_failed_operation_liberty:0 "빙하 작전의 여파"
 CAL_failed_operation_liberty_desc:0 "With the failure of Operation Glacier, general defeatism has taken hold of most of our Army, and the civilian populace grows unsettled at the result of such a costly operation. While the morale is low, many lessons have been learned at the frontline, lessons which the High Command is sure to utilize to try and bring about a new plan that may yet save our nation from radicalism."
+
 ### tooltips ###
-CAL_technology_cooperation_tooltip:0 "§MWe shall share our scientific knowledge with our allies§M"
-CAL_joint_military_training_tooltip:0 "§MWe shall begin military training with our allies§M"
-CAL_united_together_tooltip:0 "§MWe shall improve relations with our allies§M"
-CAL_china_policy_tooltip:0 "§MWe shall decide on our Policy towards China§M"
 CAL_civil_war_victor:0 "Won the civil war, with no ceasefire in place"
 
 ##Techs (I didn't know where to put this)###
