@@ -693,6 +693,7 @@ QIE_manchu_attack_LEP:0 "@LEP [LEP.GetNameDef] 공격"
 QIE_manchu_attack_LEP_desc:0 "[LEP.GetLeader] and his German lackeys continue to rule over Nanjing and the surrounding territories, while European companies exploit the poor peasants and farmers, shipping their produce back to Europe. No more! We must liberate the area, and ensure that the peasants there know the benevolence and generosity of the Emperor!"
 QIE_manchu_attack_KMT:0 "@CHI 국민당 토벌"
 QIE_manchu_attack_KMT_desc:0 "The Kuomintang have proven to be a thorn in our side since they were founded. We must destroy them and eradicate the scourge of Syndicalism from China!"
+QIE_manchu_attack_fengtian:0 "Destroy @FNG [FNG.GetNameDef]"
 QIE_manchu_attack_TAN:0 "@TAN [TAN.GetName] 토벌"
 QIE_manchu_attack_TAN_desc:0 "The [TAN.GetName] is a rural backwater clamoring for our enlightened rule. Let us march out to Hami and ensure they follow our leadership!"
 QIE_rein_in_TAN_manchu:0 "@TAN [TAN.GetLeader]에 복종 요구"
@@ -1068,8 +1069,7 @@ qielepcollapse.3.d:0 "오늘 아침 뤄양과 베이징에 남부의 문제를 �
 qielepcollapse.3.a:0 "통제되기는 개뿔..."
 
 qielepcollapse.4.t:0 "안경이 독립을 선언하다" 
-qielepcollapse.4.d:0 "쑨촨팡의 통치 하에서 신음해오던 안경 지방이 이번주 연합에서 독립함을 선언했습니다. 곳곳에 퍼진 전단에 따르면, 성장 천댜오위안은 우후 사건이 쑨촨팡이 이 사태를 해결할 수 없음을 보여주며, 이에 따라 안경은 그의 통치에서 벗어나겠다고 주장했습니다.\n\n몇몇 직예 장군들은 
-'국민당 침략'에 대비한다며 위하 병력에 침공을 준비시키고 있었지만, 우페이푸는 이들의 진짜 목표는 남부로의 영토 확장이라고 여겼습니다. 이에 우페이푸는 오늘 아침 모든 직예군벌과 만주족 장군들에 다가올 군사적 충돌에 대비하기 위해 군사를 비시키는'국가 준비 상태'를 선포했으며, 혼란스러워하던 직예 병력들이 우페이푸의 말에 따름으로써 남부에 대한 선제 공격은 실행 직전에 중단될 수 있었습니다."
+qielepcollapse.4.d:0 "쑨촨팡의 통치 하에서 신음해오던 안경 지방이 이번주 연합에서 독립함을 선언했습니다. 곳곳에 퍼진 전단에 따르면, 성장 천댜오위안은 우후 사건이 쑨촨팡이 이 사태를 해결할 수 없음을 보여주며, 이에 따라 안경은 그의 통치에서 벗어나겠다고 주장했습니다.\n\n몇몇 직예 장군들은 '국민당 침략'에 대비한다며 위하 병력에 침공을 준비시키고 있었지만, 우페이푸는 이들의 진짜 목표는 남부로의 영토 확장이라고 여겼습니다. 이에 우페이푸는 오늘 아침 모든 직예군벌과 만주족 장군들에 다가올 군사적 충돌에 대비하기 위해 군사를 준비시키는 '국가 준비 상태'를 선포했으며, 혼란스러워하던 직예 병력들이 우페이푸의 말에 따름으로써 남부에 대한 선제 공격은 실행 직전에 중단될 수 있었습니다."
 qielepcollapse.4.a:0 "이것에 그들이 따르길 바라야겠군."
 
 qielepcollapse.5.t:0 "우페이푸의 악몽"
@@ -1515,7 +1515,7 @@ qiefor.14.d:0 "The Qing have refused our offer, leaving us with no choice but to
 qiefor.14.a:0 "They will regret this decision!"
 
 qiefor.16.t:0 "The Qing Reach Out"
-qiefor.16.d:0 "Following our victory in the League war, we have successfully consolidated our rule over the area around Nanjing. We have just recieved a request from the Qing goverment, which aided us in our wars, requesting we formally submit to their rule, giving us protection from Japan. We would still have a large degree of autonomy, but the expectation is that we would be directly integrated into the Qing goverment once the war with Japan has concluded. The Qing have made it clear we can still reach out to our German backers and ask for assistance, in order to sweeten the deal."
+qiefor.16.d:0 "Following our victory in the League war, we have successfully consolidated our rule over the area around Nanjing. We have just recieved a request from the Qing goverment, which aided us in our wars, requesting we formally submit to their rule, giving us protection from Japan. We would still have a large degree of autonomy, but the expectation is that we would be directly integrated into the Qing government once the war with Japan has concluded. The Qing have made it clear we can still reach out to our German backers and ask for assistance, in order to sweeten the deal."
 qiefor.16.a:0 "Great! Accept their offer"
 qiefor.16.b:0 "Refuse them!"
 
@@ -1528,18 +1528,27 @@ qiefor.18.d:0 "Over the last few days trains full of [QIE.GetNameDef] soldiers h
 qiefor.18.a:0 "Great!"
 
 qiefor.19.t:0 "The [QIE.GetName] Attack Shanxi!"
-qiefor.19.d.decision:0 "The traitorous rats in Beijing have launched a sneak attack on our former ally in Shanxi! Governor Yan Xishan has asked for our assistance in defeating the [QIE.GetNameDef], but we cannot simply pivot to attacking them. Many of our generals fear our forces are unready for such a large conflict, and our Japanese backers have not yet signed off on such a quick attack. We can either override these generals at the cost of some political power, or wait the three months they say they need to prep their troops, and inform Yan we will assist then."
-qiefor.19.d_postcoup:0 "While reports are unclear of how exactly this occured, it appears that Yan Xishan, governor of Shanxi and our former ally, was somehow involved in a coup attempt against the Zhili. We don't know the exact details, but the coup appears to have failed and now Zhili forces are mustering to attack Shanxi. While we want to defend our former ally, our forces have been caught off-guard. We can intervene immediately, though overruling our top generals will cost significant political power. Or, however, we can wait a few months to prepare our forces adequatly, and hope that Governor Yan can hold on for that long."
+qiefor.19.d.decision:0 "The traitorous rats in Beijing have launched a sneak attack on our former ally in Shanxi! Governor Yan Xishan has asked for our assistance in defeating the [QIE.GetNameDef], but we cannot simply pivot to attacking them. Many of our generals fear our forces are unready for such a large conflict, and our Japanese backers have not yet signed off on such a quick attack. We can either override these generals at the cost of some political power, or wait the three months they say they need to prep their troops, and inform Yan we will assist then.\n\nOf course, we could also refuse to get involved at all."
+qiefor.19.d_postcoup:0 "While reports are unclear of how exactly this occured, it appears that Yan Xishan, governor of Shanxi and our former ally, was somehow involved in a coup attempt against the Zhili. We don't know the exact details, but the coup appears to have failed and now Zhili forces are mustering to attack Shanxi. While we want to defend our former ally, our forces have been caught off-guard. We can intervene immediately, though overruling our top generals will cost significant political power. Or, however, we can wait a few months to prepare our forces adequatly, and hope that Governor Yan can hold on for that long.\n\nOf course, we could also refuse to get involved at all."
 qiefor.19.a:0 "Begin to prepare the troops!"
 qiefor.19.b:0 "Launch an attack!"
+qiefor.19.c:0 "What do we owe Shanxi?"
 
 qiefor.20.t:0 "The [QIE.GetName] Launch a Sneak Attack!"
-qiefor.20.d:0 "In the early morning hours [QIE.GetName] forces loyal to the treacharous Jade Marshal launched an unprovoked sneak attack on our border garrisons! While there is no doubt we can defeat these rats on our own, we have also reached out to [FNG.GetLeader], our former ally during the last ZhiFeng war, where we fought on his side against the Zhili traitors. Hopefully he can come to our aid!"
+qiefor.20.d:0 "In the early morning hours [QIE.GetName] forces loyal to the treacherous Jade Marshal launched an unprovoked sneak attack on our border garrisons! While there is no doubt we can defeat these rats on our own, we have also reached out to [FNG.GetLeader], our former ally during the last ZhiFeng war, where we fought on his side against the Zhili traitors. Hopefully he can come to our aid!"
 qiefor.20.a:0 "Prepare the Troops!"
 
 qiefor.21.t:0 "[FNG.GetLeader] Promises to Help!"
 qiefor.21.d:0 "[FNG.GetLeader] has confessed that his forces were also caught off-guard by this sneak attack, but if we can hold on for three months, his troops will launch an attack on the Zhili positions. We will do what we can to resist!"
 qiefor.21.a:0 "Prepare our defenses!"
+
+qiefor.211.t:0 "Fengtian Refuses our Call for Aid"
+qiefor.211.d:0 "In an act of utter cowardice, Zhang Zuolin has chosen to refuse our call for aid, and now cowers beyond the Great Wall."
+qiefor.211.a:0 "Then we are on our own."
+
+qiefor.2111.t:0 "Fengtian Begins to Mobilize"
+qiefor.2111.d:0 "Our agents in Shenyang have reported growing signs that Fengtian is mobilizing, and preparing to march its armies south against our defenses at Shanhaiguan. Fortunately, our attack on Shanxi seems to have caught Zhang Zuolin by surprise, and it could take several months for his forces to move decisively."
+qiefor.2111:0 "At least we know he's coming."
 
 qiefor.22.t:0 "Qi Accepts our Request!"
 qiefor.22.d:0 "Governor Qi has accepted our request for aid, and promises to send his troops north to destroy [FNG.GetNameDef]"
@@ -1642,7 +1651,7 @@ qiefor.43.d:0 "The Qing have refused our request, claiming Tibet is an integral 
 qiefor.43.a:0 "Damn!"
 
 qiefor.44.t:0 "How to Approach Tibet?"
-qiefor.44.d:0 "With our victory over Japan and our new centralization efforts, we must now decide how to approach Tibet. Do we demand they join our country fully, or leave them independant and autonomous, albeit under our 'supervision'?"
+qiefor.44.d:0 "With our victory over Japan and our new centralization efforts, we must now decide how to approach Tibet. Do we demand they join our country fully, or leave them independent and autonomous, albeit under our 'supervision'?"
 qiefor.44.a:0 "Keep them autonomous"
 qiefor.44.b:0 "Direct rule!"
 
