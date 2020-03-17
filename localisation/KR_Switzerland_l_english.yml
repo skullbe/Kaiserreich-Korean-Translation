@@ -362,8 +362,6 @@ SWI_syndie_army_desc:0 "With the departure of the 'Old Guard' from the ranks of 
 SWI_syndie_army1_desc:0 "With thousands welcomed into our ranks, it is now time to promote new officers to lead our army into the future."
 SWI_disorganised_army_desc:0 "Without strong leadership or a strong mandate from the people, the Swiss military is having trouble establishing authority."
 
-
-
 ### Events ###
 swiss.1.t:0 "기장의 연설"
 swiss.1.d:0 "It was a wonderful sunny day when Henri Guisan made his speech not only to all of the soldiers and officers in attendance, but to the whole of Switzerland. In his speech he praised the strength and unity of the Swiss people, and promised that victory was not only attainable, but assured. \nAs Guisan finished giving his lengthy and beautifully worded speech, he was greeted with thunderous applause from all in attendance. This will surely go down in Swiss history as a historic event."
@@ -982,6 +980,13 @@ swiss.201.a:0 "They are traitors."
 swiss.201.b:0 "Accept their support."
 swiss.201.c:0 "They shall lead our armies."
 
+### Liechtenstein Stuff ###
+
+swiss.202.t:0 "Liechtenstein Asks for Protection"
+swiss.202.d:0 "We have just received a diplomatic envoy from Principality of Liechtenstein. With the fall of the Austrian empire they are asking us for protection.\n\nThe Principality of Liechtenstein is the final remnant of the Holy Roman Empire and due to its unique geographic location has survived until now. Since 1818 they have been under the protection of Austria, first through the German Confederation and later through bi-lateral treaties.\n\nBut given Austria is defeated Liechtenstein now asks for out protection; what is our reply?"
+swiss.202.a:0 "We would be happy to help."
+swiss.202.b:0 "It is best to not get involved."
+
 ### Parties ###
 SWI_national_populist_party:0 "조국당"
 SWI_national_populist_party_long:0 "스위스 조국당"
@@ -1152,6 +1157,8 @@ SWI_integration_choice:0 "Our government will proceed with integrating Bircher's
 SWI_aggressive_integration:0 "You will gain §Y2§! Militia Divisions."
 SWI_bircher_gov:0 "Eugene Bircher is in control of the government"
 SWI_guard_tooltip:0 "You will gain §Y3§! Infantry Divisions."
+SWI_forts_tooltip:0 "gains moderate defensive infrastructure.\n"
+SWI_coast_tooltip:0 "You must own a port for this focus to have an effect"
 
 #Cosmetic Tags
 SWIS_totalist:0 "헬베틱 코뮌"
