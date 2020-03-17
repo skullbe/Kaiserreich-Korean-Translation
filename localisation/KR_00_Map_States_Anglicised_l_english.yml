@@ -1,5 +1,12 @@
 ﻿l_english:
 
+###################################################################################################################################
+### NOTE - FOR THE LOVE OF GOD PLEASE READ BEFORE MAKING CHANGES                                                                ###
+### Just because the name shows up in the map, doesn't mean the localisation will display in the UI (e.g. peace deal windows)   ###
+### Characters confirmed NOT to display right: ă č ı ő ō ş ū ż                                                                  ###
+### This applied to bother lower and upper case versions of these characters                                                    ###
+###################################################################################################################################
+
 STATE_1:0 "코르시카"
 STATE_2:0 "라치오"
 STATE_3:0 "스위스 고원"
