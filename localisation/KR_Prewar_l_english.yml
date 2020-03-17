@@ -25,8 +25,6 @@ join_international:0 "인터내셔널 가입"
 loth_1:0 "로트링엔의 무력충돌"
 loth_2:0 "난치히의 무력충돌"
 loth_3:0 "공개적 비난"
-WK2_plus:0 "대전쟁에서의 위치"
-WK2_minus:0 "대전쟁에서의 위치"
 
 ### Tooltips ###
 can_demand_romandy:0 "오트사부아 내의 불안"
