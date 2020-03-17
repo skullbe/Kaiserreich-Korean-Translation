@@ -147,6 +147,7 @@ GER_ZEN22:0 "산업 통폐합"
 GER_ZEN22_desc:0 "독일의 산업이 최소한의 개입만으로 자리를 잡을 수 있도록 한 브뢰닝의 계획에 따라, 효율성과 생산성이 증가한 것 같아 보입니다."
 
 ### Research Groups ###
+german_research_name:0 "카이저 빌헬름 학회"
 german_research_desc:0 "카이저 빌헬름 학회는 라이히스팍트의 공동 연구 기관입니다."
 
 ### Tooltips ###
@@ -486,8 +487,6 @@ GER_doctrine_superior_firepower_2_desc:0 "크루프에서 나온 신선한 포�
 
 #GER_doctrine_mobile_2:0 "포위의 중요성"
 #GER_doctrine_mobile_2_desc:0 "그들의 이론에 동의하지 않는 사람들이라 할지라도 구데리안과 만슈타인이 흥미로운 생각을 가지고 있다고 말할 것입니다. 예를 들어, 그들은 적이 기동력을 상실한 후에 일단 보급이 중단되고 나면 쉽게 파괴될 수 있다고 제안하고 있습니다. 우리는 이 혁신적인 사고를 장려할 필요가 있습니다. 그것이 차이를 만들 수 있기 때문입니다."
-
-GER_doctrine_mobile_2_prerequisite:0 "§Y하인츠 구데리안§! 또는 §Y에리히 폰 만슈타인§!이 참모총장으로 있어야 합니다."
 
 GER_doctrine_mobile_3:0 "기갑 생산공장에 투자"
 GER_doctrine_mobile_3_desc:0 "적지만 직접적인 투자를 통해 기갑 생산공장의 생산량을 향상할 수 있습니다. 다만 보수적인 장군의 일부는 이 투자에 동의하지 않을 것입니다."
