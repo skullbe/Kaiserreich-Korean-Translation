@@ -47,6 +47,54 @@ SZC_Self_Government_Party_long:0 "자치당 (자치정부당)"
 SZC_Three_Principles_Party:0 "삼민당"
 SZC_Three_Principles_Party_long:0 "삼민당 (삼민당)"
 
+### Leaders ###
+POLITICS_SZC_YANG_SEN_DESC:0 "After joined the army in 1904, Yang Sen had his first brushes with politics when he joined the Tongmenghui Society while attending the Sichuan Education Hall in 1906. After graduating in 1908 he went on to serve in the Newly Created Army of the Qing Empire until 1911. His background and connections allowed him to gain prominence when the Xinhai Revolution occurred. While serving under Cai E, he was eventually promoted to the rank of general in 1921 and posted in Chongqing. This pattern of rising in the ranks through political ties and maneuvering more than military accomplishments went on when Yang Sen became an ally of Wu Peifu in 1925. When the Zhili became the dominant clique in the fully restored Qing Empire, Yang Sen was elevated to governorship of Sichuan.\n\nAs governor of Sichuan, Yang Sen stands out from other warlords with his platform of rapid modernization both in the social and economic spheres, spearheaded with various infrastructure and educational projects that have improved the lives for many in Sichuan. While he is a competent enough military leader, the fact that Yang Sen owes much of his success to dealmaking and supporting the right people at the right time has put him and the Armament Department in a precarious position. His position is further undermined by his own lifestyle contradicting what he claims to be best for Sichuan, which has limited his public support. For instance, he would earn the ire of more conservative elements of Sichuan by speaking out against traditional roles for women and practices such as foot binding, and would then squander any goodwill he might have gotten from reformists by having eight concubines of his own and as many as thirty children between them.\n\nDespite his many imperfections, he's managed to hold on to power thus far with enough support both from the army and common folk to be a force to be reckoned with. And as long as he's in charge, the Zhili will have a reliable ally in Chengdu."
+
+POLITICS_SZC_LIU_CUNHOU_DESC:0 "The son of wealthy salt merchants, Liu Cunhou is more of a brutish bandit than a strategist, let alone a governor. He attended Sichuan's military academy in 1903, went on to study in Japan in 1907, and returned to Sichuan after Graduating in 1908. He made a name for himself during the Xinhai Revolution where he initially led smaller anti-bandit forces and went on to lead larger forces as his loyalty earned him the trust of his superiors. During the conflicts he participated in, however, his forces were often more concerned with extorting wealth from the locals than functioning as a proper military force. While his soldiers often behaved like bandits, he's managed to strong-arm himself into a position of relative power in Sichuan in the process, though he's hardly endeared himself to the people.\n\nDuring the Sichuanese civil war, Liu Cunhou hardly contributed to the Armament Department's breakthroughs, though his forces were plentiful enough to exploit the ones that were created during the conflict. As he was mostly experienced in anti-banditry operations, his forces spent most of the war flushing out Kuomintang loyalists and mopping up routed remnants of the Industrial Corps. Thanks to this, his forces were left in a relatively unscathed state compared to the rest of the Armament Department, eventually allowing him to outmaneuver his supposed ally Yang Sen once the dust of the war had settled.\n\nHis reign as a governor of Sichuan would end up being little more than his de-facto banditry on a larger scale. Imposing countless of taxes upon the people and using his army to extort the rich and poor of Sichuan alike, he quickly grew to become a hated tyrant that chiefly managed to maintain power through violent repression and shameless bribery."
+
+POLITICS_SZC_LIU_XIANG_DESC:0 "Liu Xiang initially rose to prominence in 1920 when he helped lead Sichuan's forces to a victory over Yunnan. He rose through the ranks and would eventually lead a large contingent of Sichuanese forces against the Kuomintang during the Northern Expedition. During this conflict he managed to gain a reputation as a skilled, albeit reckless, commander with numerous victories to his name. Once the Northern Expedition had been soundly defeated, he returned to Sichuan and was assigned to Chongqing as the head of the city's garrison.\n\nWhile his performance during this conflict allowed him to establish his own clique and remain a force to be reckoned with within Sichuan, he was never granted the governorship of the province that he felt that he deserved. Instead, he was made a subordinate to Yang Sen, a loyal stooge of Wu Peifu and the Zhili. Liu Xiang saw this as an insult and petty cronyism. As a result, he began to harbor a deep deep resentment towards both the Zhili and their puppets in the Armament Department.\n\nThis resentment eventually led to him seizing the moment after the collapse of the Qing hegemony in the early days of 1936. After successfully rallying his subordinates in the Industrial Corps against Yang Sen, Liu Xiang managed to claim Chengdu for himself and defeat both the Armament and Baoding departments through a series of daring military gambles during the Sichuanese Civil War. After making himself the governor of Sichuan and moving the province's capital from Chengdu to the industrial powerhouse of Chongqing, he set out to rapidly modernize the region, hoping to eventually settle his scores with the Zhili."
+
+POLITICS_SZC_DENG_XIHOU_DESC:0 "Deng joined the army in 1906 and went on to enroll in the Baoding Academy, though he would later discontinue his studies to return to Sichuan when the Xinhai Revolution occurred. Deng went on to rise through the ranks over the years until he was promoted to general in 1923. Having been more active behind a desk than on the various battlefields during this turbulent time in China earned him a reputation as a trustworthy and competent careerist, though he hardly earned much fame and fortune in the process. While he was respected among his colleagues from the Baoding Department, he would eventually go on to be subordinated to Yang Sen as the Zhili Clique favoured the Armament Department over the Baoding Department.\n\nDespite not having the favour of the Zhili, the Baoding Department managed to cooperate with the Armament Department, putting them in a position where they were able to fill the vacuum in Sichuan left by the eventual collapse of Yang Sen's clique in the Sichuanese Civil War of 1936. As the most prominent figure in the more traditionalist side of the Baoding Clique, his reforms focus on rural development and improving the lot of the farmers of Sichuan. His widespread support in the countryside and the army combined with the broader support earned by his diarchy partner Liu Wenhui has put the Baoding Department in a position of political flexibility rarely seen among China's warlord cliques. He aims to turn Sichuan into a model province for the rest of China, generally putting the well-being of Sichuan's people ahead of ideology or lofty expansionist ambitions."
+
+POLITICS_SZC_LIU_WENHUI_DESC:0 "A lifelong military man, Liu Wenhui has been in the army since he was thirteen. He graduated from the Sichuanese Military Academy in 1911, enrolled into the Baoding department in 1914, and went on to graduate from it in 1916. While he owes a lot of his success and influence through nepotism and convenient connections, he's nonetheless managed to become a respected and influential figure within the clique. After the end of the Northern Expedition, Wenhui went on to side fully with Deng Xihou and would go on to become one of the clique's more notorious members.\n\nAfter the defeat of his nephew Liu Xiang in the Sichuanese Civil War, the Baoding department ascended to power. His friendship with Deng Xihou earned him a position of leadership with what has become the country's diarchy where he - in stark contrast to his nephew - represents a more reformist branch within the diarchy. Popular within the military and the more urban administrative class, he's allowed the department to broaden its support far beyond the conservative constituents that Xihou appeals to. While he's unlikely to make it into the history books as one of China's greatest military leaders, as long as the cooperation between the two friends in the diarchies continues he's sure to be remembered for his stalwart efforts to rapidly modernize Sichuan and improve the lot of the province's citizens."
+
+POLITICS_SZC_XIONG_KEWU_DESC:0 "Xiong Kewu was born into a family of doctors, and initially attended Sichuan Literacy School in 1903. Here Xiong met early KMT member Dai Jitao. Xiong graduated and attended Tokyo High School, there he met Yu Wen and joined the Tongmenghui in 1905. Xiong met future revolutionary Huang Xing through the Tongmenghui, and plotted his advancement after the revolution they all aimed for. Xiong was promoted by Huang Qi as a Commander-In-Chief of the 1912 Republican Government, and returned to Sichuan to work with the military government in Chengdu. The machinations of Beijing caused Xiong to condemn Wu Peifu, thereby severing his nominal authority. Yang Sen's Governorship saw an attempt to suppress Xiong Kewu, in retribution for his opposition to Wu Peifu."
+
+POLITICS_SZC_LU_CHAO_DESC:0 "Lu Chao's early years into the Sichuan Army Primary School in 1909 graduated. After that, Lu Chao entered the Fourth High School of the Army in Nanjing. At that time, Lu poured his ideas for the revolutionary sand and joined the Chinese League. In 1910, moved into the Baoding Army Officer School. In October 1911 the Wuchang uprising broke out, Lu Chao went to Shanghai. After that, Lu returned to the north on Chen Qimei's instructions and co-founded the Beijing-Tianjin Alliance Branch in Beijing with Li Shizen, Wang Jingwei and others. In February 1912 at the behest of Yuan Shikai, the 3rd town of the Beiyang Army cleared the Beijing-Tianjin Union Branch. Lu Chao fled back to Sichuan. In December 1915, the war of the Protectors broke out. Lu Chao, since his post as commander of the Chinese Revolutionary Army, Lu joined the 1st Army of the Guard, led by Cai Wei, who marched into Sichuan Province. Lu Chao fought Yuan Shikai's army in southern Sichuan, and made a contribution to the victory of the National Guard. In June 1916, Lu Chao was appointed head of the 58th Division. In May 1923, Lu Chao was appointed by Sun Wen as the chief of the army of the Grand Marshal's Office. In June, Sun Wen appointed Xiong Kewu as Lu Chao's superior, and was responsible for attacking Yang Sen and Liu Xiang sent by the Beijing government."
+
+POLITICS_SZC_TIAN_SONGYAO_DESC:0 "Tian Songyao was born on 1888 in Jianyang, Sichuan. Tian joined the Sichuan Army and rose to command a Cavalry Regiment, of the 2nd Division, of its 1st Army. Tian also was the garrison commander of Chengdu from 1916 to 1918. In 1918, Tian was promoted to command the Beijing Government's 41st Brigade of the 21st Division. Later the same year Tian became the 21st Division commander, a post which he held until 1925. From 1928 to 1933 Tian was the head of the Civil Administration Department and a committee Member of the Sichuan Provincial Government. This position allowed Tian to maintain his neutrality and strengthen his position while other civil and military leaders in Sichuan expended their forces fighting each other throughout the 1920s and early 1930s."
+
+POLITICS_SZC_ZHANG_LAN_DESC:0 ""
+POLITICS_SZC_HE_GUOGUANG_DESC:0 ""
+
+POLITICS_SZC_YANG_SEN_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\nFebruary 20th, 1884\nGuang'an, Sichuan, Qing Empire\n§YMilitary Career:§L\nYang Sen joined the army in 1904 and attended Sichuan's military academy which he graduated from in 1908. Afterwards, he served in the Qing New Army until 1911. His background and education allowed him to rise to prominence in Sichuan's military clique when the Xinhai Revolution began the same year. During this period Yang served under general Cai E, who also promoted him to become one of Sichuan's generals in 1921. After being posted to command the forces of Chongqing, Yang Sen would go on feud with the province's other warlords, most notably Xiong Kewu and Liu Xiang. Despite his attempts to undermine his opposition, he was never fully successful.\n\nHis position as military governor of Sichuan has far more to do with his ties to Wu Peifu and the Zhili clique than any military accomplishments. That being said, he's hardly an inept military leader either by any stretch of the imagination, having performed adequately in prior wars and maintained the Armament Department's prominence in Sichuan throughout his time as governor."
+
+POLITICS_SZC_LIU_CUNHOU_ARMY_DESC:0 ""§YGeneral Description\n§YBorn:§L\n 1884\nSichuan, Qing Empire\n§YMilitary Career:§L\nLiu Cunhou was enrolled into the Sichuanese Military Academy in 1903. He went on to study at the Japanese Imperial Army Academy in 1907 and had graduated by 1908, after which he returned to China. His military career began in proper during the Xinhai Revolution when he was first promoted to Lieutenant-General by the Beiyang commanders. He went on to lead a series of anti-bandit raids and would earn the trust of his superiors, enough so that he'd eventually go on to lead provisional armies. It is, however, speculated that this had less to do with his abilities as a commander and was rather a question of him seeming loyal in a time of conflict and chaos.\n\nWhile he was able to successfully pacify bandits and earn the trust of his superiors, he earned nothing but disdain from the locals as his armies would behave no better than the bandits they were supposed to fight. Wherever his forces went, they would effectively run a protection racket against the locals. Greedy and less concern with discipline than military doctrine, he's held in poor regard by most of his peers and was seen as a man largely devoid of military acumen through most of his career. Be that as it may, he was still the epitome of a ruthless warlord and managed to amass wealth and a powerbase to be reckoned with.\n\nHe was eventually subordinated to Yang Sen and tasked with maintaining order in the north of the country. His previous loyalty to the Zhili has earned him a high position within the Armament Department despite his spotty military record."
+
+POLITICS_SZC_LIU_XIANG_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\n July 1st, 1888\nSichuan, Qing Empire\n§YMilitary Career:§L\nAfter graduating from the Sichuanese Military College in 1909, Liu Xiang went on to rise in the ranks of the army until he became Sichuan's army chief in 1919. When the war between Sichuan and Yunnan broke out in 1920 Xiang earned his first military successes by pushing back the invading warlord forces. When the war ended in 1921, he was assigned to lead the Chongqing garrison. During this time, he established himself as a force to be reckoned with and built up considerable influence in Sichuan's industrial heartland.\n\nWhen the Kuomintang launched the Northern Expedition Liu Xiang led his forces against them. During this war he earned a reputation as a bold commander through a string of defensive battles and sometimes reckless counter-offensives. When the Kuomintang were defeated he returned returned to Sichuan where he was subordinated under Yang Sen, now the governor of Sichuan. Although he saw this as an insult, he still retained a sizeable force that remained loyal to him. Thanks in no small part to his successes in putting down the Northern Expedition, he's a respected military commander and a powerful warlord in his own right."
+
+POLITICS_SZC_DENG_XIHOU_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\n1889\nSichuan, Qing Empire\n§YMilitary Career:§L\nAfter joining the army in 1906 Deng was admitted to the Sichuanese Military academy. After graduating in 1909 he enrolled into the Baoding Academy. After the Xinhai Revolution, Deng discontinued his studies and returned to Sichuan to continue his military service there instead. After the Republic of China was established Deng joined the Sichuan Fourth Division under Liu Cunhou. Deng successively held the post of adjutant and went on to rise through the ranks to become a battalion commander by 1916, the commander of the Fifth Brigade in 1917 and an independent brigade commander by February 1918. From 1920 to 1923 Deng participated in various battles in Yunnan, Guizhou and Sichuan and performed well enough to become the commander of the Third Division. In December of the same year, the Beijing government established by the Zhili clique had him promoted to the rank of general. He would maintain this rank after being subordinated to Yang Sen when he was made the military governor of Sichuan.\n\nDeng is a careerist through-and-through, with a service record that had more stationings, transfers and promotions than actual battles by the time he became the most prominent figure among Sichuan's Baoding graduates. While no one disputes that he's competent at what he does, his experience in the past has been far more theoretical than practical compared to his more battle-hardened peers."
+
+POLITICS_SZC_LIU_WENHUI_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\n1895\nDayi County, Sichuan, Qing Empire\n§YMilitary Career:§L\nLiu Wenhui has been in the army his whole life thanks to his brother enrolling him into the Sichuanese Army Academy in 1911. It's fitting in a sense as most of his subsequent advancements in life were either thanks to nepotism through his brother Liu Wencai or his nephew Liu Xiang, or the result of connections to a clique such in the case of his ties to the Baoding Military Academy where he enrolled in 1914. Although he's admittedly been a devoted and dedicated military man since his graduation from the Baoding Military Academy in 1916, his track record leaves a lot to be desired. Most notably, it was under his watch, parts of western Xikang were lost to Tibet. Despite the fact that his early military record leaves much to be desired, his connections within the Baoding Department and relative popularity in the cities has made him a force to be reckoned with."
+
+POLITICS_SZC_XIONG_KEWU_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\n1885\nJingyan, Sichuan, Qing Empire\n§YMilitary Career:§L\nXiong Kewu was born into a family of doctors, and initially attended Sichuan Literacy School in 1903. Here Xiong met early KMT member Dai Jitao. Xiong graduated and attended Tokyo High School, there he met Yu Wen and joined the Tongmenghui in 1905. Xiong met future revolutionary Huang Xing through the Tongmenghui, and plotted his advancement after the revolution they all aimed for. Xiong was promoted by Huang Qi as a Commander-In-Chief of the 1912 Republican Government, and returned to Sichuan to work with the military government in Chengdu. The machinations of Beijing caused Xiong to condemn Wu Peifu, thereby severing his nominal authority. Yang Sen's Governorship saw an attempt to suppress Xiong Kewu, in retribution for his opposition to Wu Peifu."
+
+POLITICS_SZC_LU_CHAO_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\nMarch 9th, 1890\nYibin, Sichuan, Qing Empire\n§YMilitary Career:§L\nLu Chao's early years into the Sichuan Army Primary School, the first issue, in 1909 graduated. After that, Lu Chao entered the Fourth High School of the Army in Nanjing. At that time, Lu poured his ideas for the revolutionary sand and joined the Chinese League. In 1910, moved into the Baoding Army Officer School. In October 1911 the Wuchang uprising broke out, and Lu Chao went to Shanghai. After that, Lu returned to the north on Chen Qimei's instructions and co-founded the Beijing-Tianjin Alliance Branch in Beijing with Li Shizen, Wang Jingwei and others. In February 1912 at the behest of Yuan Shikai, the 3rd town of the Beiyang Army cleared the Beijing-Tianjin Union Branch. Lu Chao fled back to Sichuan. In December 1915, the war of the Protectors broke out. Lu Chao, since his post as commander of the Chinese Revolutionary Army, joined the 1st Army of the Guard, led by Cai Wei, who marched into Sichuan Province. Lu Chao fought yuan Shikai's army in southern Sichuan, and made a contribution to the victory of the National Guard. In June 1916, Lu Chao was appointed head of the 58th Division. In May 1923, Lu Chao was appointed by Sun Wen as the chief of the army of the Grand Marshal's Office. In June, Sun Wen appointed Xiong Kewu as Lu Chao's superior, and was responsible for attacking Yang Sen and Liu Xiang sent by the Beijing government."
+
+POLITICS_SZC_WANG_ZUANXU_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\n1886\nXichong, Sichuan, Qing Empire\n§YMilitary Career:§L\nWang Zuanxu knew Yang Sen since their time in Shungqingfu Middle School, although their careers separated. Wang transfered to the Artillery Department of the Sichuan Army School in 1906, which included many future Sichuan commanders. In 1911 Wang was appointed to command the 1st Battalion of the 2nd Division 2nd Regiment of the Sichuan Army. Wang traveled with Liu Xiang to Beijing in 1915 to serve in the Beiyang Government, but was transfered to serve under Yang Sen in 1920. Wang briefly served as a teacher in the Popular Education Office, and published a treatise on political science written by Yu Diaying. Wang was recognized by Wu Peifu as one of the 'fast-track generation' officers that became so influential in his cabinet. Under Liu Xiang, Wang feuded with Xiong Kewu, and was promoted by Beijing for his loyalty. A major family dispute between Liu Xiang and Wang's wife in 1925 caused him to defect to the Baoding Department, and begin taking orders from Deng Xihou. Further division came in 1928 when Wang gave his support to defectors against Wu Peifu, further alienating him from the Armament Department."
+
+POLITICS_SZC_WANG_LINGJI_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\nSeptember 10th, 1883\nJiading, Sichuan, Qing Empire\n§YMilitary Career:§L\nWang Lingji was born into a satin businessman family. In July 1903, Wang Lingji entered the Sichuan Wuxuan School for 1 year. Later, to study in Japan, has entered the school, Chengcheng school. After the founding of the Republic of China, Wang Lingji continued to stay in Sichuan and was promoted to lead the regiment. In May 1916, Wang agreed with the Declaration of Independence of Sichuan, Wang Lingji turned to support Yuan Shikai’s Sichuan Zhou Ministry, attacking the city. After hiding in Bubei for a number of years, Wang returned to Sichuan in 1921. Still loyal to Beijing, Wang subordinated to Yang Sen's Armament Department."
+
+POLITICS_SZC_PAN_WENHUA_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\n1886\nRenshou, Sichuan, Qing Empire\n§YMilitary Career:§L\nIn his early years, Pan attended the Sichuan Army Officer's School, and Liu Xiang and others were his classmates. During his school years, he joined the Tongmenghui. In 1909, Pan joined the army as a deputy platoon leader in Tibet, fighting in the Batang County area, and was later promoted to platoon leader and captain. In December 1919, he returned to Sichuan from Shaanxi and south, where he was appointed to the Yan Deji Department of Da County and served as the commander of the 7th Division of the Sichuan Army. n 1920, he leaned on his classmate Liu Xiang, who later served as the head of the 4th Division of the 2nd Army of the Sichuan Army, and in 1923 he became commander of the East Sichuan. In January 1935, Pan also served as the commander-in-chief of the Southern Road of the Sichuan Bandit Army, directed by Liu Xiang."
+
+POLITICS_SZC_TIAN_SONGYAO_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\n1888\nJianyang, Sichuan, Qing Empire\n§YMilitary Career:§L\nTian Songyao was born on 1888 in Jianyang, Sichuan. Tian joined the Sichuan Army and rose to command a Cavalry Regiment, of the 2nd Division, of its 1st Army. He also was the garrison commander of Chengdu from 1916 to 1918. In 1918, Tian was promoted to command the Beijing Government's 41st Brigade of the 21st Division. Later the same year Tian became the 21st Division commander, a post which he held until 1925. From 1928 to 1933 Tian was the head of the Civil Administration Department and a committee Member of the Sichuan Provincial Government. This position allowed Tian to maintain his neutrality and strengthen his position while other civil and military leaders in Sichuan expended their forces fighting each other throughout the 1920s and early 1930s."
+
+POLITICS_SZC_FAN_SHAOZENG_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\n1894\nDazhu, Sichuan, Qing Empire\n§YMilitary Career:§L\nIn 1894, Fan Shaozeng was born in Qinghe Town, Dazhu County, Sichuan Province. In 1916, Da Xian, Quanxian area uprising to Yu Yuan, Fan Shaozeng to participate in the uprising, was integrated into the Yan Ministry had brigade five regiments as battalion commander, opened in the province. In 1923, Yang Sen returned to Sichuan. Fan Shaozeng was appointed by Yang, and served as the 8th Brigade Commander of the 4th Division. The following year, Yang served as the Sichuan Military Inspector, commissioned Fan as the ninth mixed brigade commander. This brought Fan closer to the Armament Department."
+
+POLITICS_SZC_LIU_BOCHENG_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\nDecember 4th, 1892\nKaizhou, Sichuan, Qing Empire\n§YMilitary Career:§L\nLiu was born to a peasant family in Kaixian, Sichuan. Although he grew up in poverty, Liu made a determined effort in his studies and gained good grades at school. In 1911, Liu joined the Boy Scouts in support of the Xinhai Revolution. In the following year, he enrolled in the Chongqing Military Academy and later joined the army against Yuan Shikai, who was planning to undermine the Xinhai Revolution and proclaim himself Emperor. In 1914, Liu joined Sun Yat-sen's party and gained extensive military experience. During one battle during this period he captured 10,000 enemy soldiers, for which he was promoted to brigade commander. In 1916, he lost his right eye in a battle for Fengdu county, Sichuan. After he lost the eye he gained the nickname "One-Eyed Dragon". Alternative accounts of how Liu lost his eye have included the speculation that he lost it either earlier, in the 1911 Xinhai Revolution. Liu fell in with Liu Xiang, and formed an important morale element to rally their power base in Chongqing."
+
+POLITICS_SZC_HE_GUOGUANG_ARMY_DESC:0 ""
+
 ### Ideas ###
 SZC_baoding_influence:0 "보정의 영향력"
 SZC_baoding_influence_desc:0 "보정파는 정부 내에서 상당한 양의 업무를 처리하며, 그 영향력은 우리의 정통성을 현저히 떨어뜨립니다. 그럼에도 불구하고, 그들의 부단한 노력은 우리가 일촉즉발의 쓰촨성이 폭발하지 않도록 하는 데 도움이 됩니다..."
@@ -96,6 +144,7 @@ SZC_opium_addiction:0 "중독 문제"
 SZC_opium_monopoly:0 "아편 독점"
 SZC_merchant_resistance:0 "상인 저항"
 
+SZC_increased_research_efforts:0 "Increased Research Efforts"
 SZC_agricultural_heartland:0 "농업 중심지"
 SZC_industrial_planning_committee:0 "산업 계획 위원회"
 SZC_commercial_expansion:0 "상업 확대"
@@ -161,7 +210,29 @@ SZC_legation_aid_tooltip:0 "더 많은 곳에서 식량을 수입해 올 수 있
 SZC_Ask_Legations_For_Help_tooltip:0 "상하이의 공사관 의회에 지원을 요청할 겁니다."
 SZC_Service_For_Food_tooltip:0 "§H대규모 기아§! 변동치\n징병 가능한 인구: §G+30%§!\n공장 생산량: §G+10.00%§!\n"
 SZC_Labour_Relief_tooltip:0 "§H대규모 기아§! 변동치\n징병 가능한 인구: §G+20.00%§!\n공장 생산량: §G+20.00%§!\n"
+
 SZC_famine_relief_direction_chosen_tooltip:0 "구호 전략을 채택했습니다."
+SZC_importing_grain_tooltip:0 "No grain imports are currently under way"
+
+SZC_famine_PP_30_tooltip:0 "£convoy_texticon [?30|H0]"
+SZC_famine_PP_30_tooltip_blocked:0 "£convoy_texticon [?30|R0]"
+SZC_famine_PP_50_tooltip:0 "£convoy_texticon [?50|H0]"
+SZC_famine_PP_50_tooltip_blocked:0 "£convoy_texticon [?50|R0]"
+SZC_famine_PP_60_tooltip:0 "£convoy_texticon [?60|H0]"
+SZC_famine_PP_60_tooltip_blocked:0 "£convoy_texticon [?60|R0]"
+SZC_famine_PP_80_tooltip:0 "£convoy_texticon [?80|H0]"
+SZC_famine_PP_80_tooltip_blocked:0 "£convoy_texticon [?80|R0]"
+SZC_famine_PP_plus_5:0 "Relief Resources: [?5|0=+].\n"
+SZC_famine_PP_plus_10:0 "Relief Resources: [?10|0=+].\n"
+SZC_famine_PP_plus_20:0 "Relief Resources: [?20|0=+].\n"
+SZC_famine_PP_plus_30:0 "Relief Resources: [?30|0=+].\n"
+SZC_famine_PP_plus_50:0 "Relief Resources: [?50|0=+].\n"
+SZC_famine_PP_plus_100:0 "Relief Resources: [?100|0=+].\n"
+SZC_famine_PP_plus_120:0 "Relief Resources: [?120|0=+].\n"
+SZC_famine_PP_minus_30:0 "Relief Resources: [?-30|0=+].\n"
+SZC_famine_PP_minus_50:0 "Relief Resources: [?-50|0=+].\n"
+SZC_famine_PP_minus_60:0 "Relief Resources: [?-60|0=+].\n"
+SZC_famine_PP_minus_80:0 "Relief Resources: [?-80|0=+].\n"
 
 SZC_reduce_famine_minor_tooltip:0 "§G기근 구호 노력에 작은 진전이 이루어질 겁니다!§!\n"
 SZC_increase_famine_minor_tooltip:0 "§R기근 구호 노력에 작은 차질이 빚어질 겁니다!§!\n"
@@ -170,6 +241,49 @@ SZC_increase_famine_moderate_tooltip:0 "§R기근 구호 노력에 적당한 차
 SZC_reduce_famine_major_tooltip:0 "§G기근 구호 노력에 대규모 진전이 이루어질 겁니다!§!\n"
 SZC_increase_famine_major_tooltip:0 "§R기근 구호 노력에 대규모 차질이 빚어질 겁니다!§!\n"
 SZC_reduce_famine_rains_tooltip:0 "§G기근 구호 노력에 엄청난 진전이 이루어질 겁니다!§!\n"
+
+SZC_200_inf_50_CP:0 " £rifle_texticon §H200§! £command_power §Y50§!"
+SZC_200_inf_50_CP_blocked:0 "£rifle_texticon §R200§! £command_power §R50§!"
+SZC_30_CP:0 "£command_power §Y30§!"
+SZC_30_CP_blocked:0 "£command_power §R30§!"
+SZC_15_CP:0 "£command_power §Y15§!"
+SZC_15_CP_blocked:0 "£command_power §R15§!"
+SZC_PP_50_CP_50:0 "£pol_power §H50§! £command_power §H50§!"
+SZC_PP_50_CP_50_blocked:0 "£pol_power §R50§! £command_power §R50§!"
+SZC_control_95:" £opium_texticon §H95%§!"
+SZC_control_95_blocked:" £opium_texticon  §R95%§!"
+SZC_spread_3:" £opium_texticon §H3%§!"
+SZC_spread_3_blocked:" £opium_texticon  §R3%§!"
+
+SZC_increase_opium_control_tooltip:0 "£opium_texticon  아편 통제력: [?SZC_opium_control_change|+=%1]\n"
+SZC_reduce_opium_spread_tooltip:0 "£opium_texticon  아편 확산도: [?SZC_opium_spread_change|+=%1]\n"
+SZC_opium_crisis_over_tooltip:0 "§G아편 문제가 끝났습니다!§!\n"
+
+SZC_opium_corruption_tooltip:0 "§H부패§! 문제가 처리되었습니다"
+SZC_opium_smuggling_tooltip:0 "§H밀무역§! 문제가 처리되었습니다"
+SZC_opium_addiction_tooltip:0 "§H약물중독§! 문제가 처리되었습니다"
+
+SZC_opium_monopoly_tier_1:0 "£opium_texticon  §H20%§!이상의 §H아편 통제력§!"
+SZC_opium_monopoly_tier_2:0 "£opium_texticon  §H40%§!이상의 §H아편 통제력§!"
+SZC_opium_monopoly_tier_3:0 "£opium_texticon  §H60%§!이상의 §H아편 통제력§!"
+SZC_opium_monopoly_tier_4:0 "£opium_texticon  §H80%§!이상의 §H아편 통제력§!"
+SZC_opium_monopoly_tier_5:0 "£opium_texticon  §H95%§!이상의 §H아편 통제력§!"
+
+SZC_opium_removal_tier_1:0 "£opium_texticon  §H48%§!이하의 §H아편 유행§!"
+SZC_opium_removal_tier_2:0 "£opium_texticon  §H36%§!이하의 §H아편 유행§!"
+SZC_opium_removal_tier_3:0 "£opium_texticon  §H24%§!이하의 §H아편 유행§!"
+SZC_opium_removal_tier_4:0 "£opium_texticon  §H12%§!이하의 §H아편 유행§!"
+SZC_opium_removal_tier_5:0 "£opium_texticon  §H3%§!이하의 §H아편 유행§!"
+
+SZC_opium_tier_5:0 "[SZC_opium_tier_5_tooltip]"
+SZC_opium_crisis_solved_tooltip:0 "아편 문제를 해결했습니다"
+
+SZC_CP_15:0 "£command_power §R15§!"
+SZC_CP_15_blocked:0 "£command_power §R15§!"
+SZC_CP_60:0 "£command_power §H60§!"
+SZC_CP_60_blocked:0 "£command_power §R60§!"
+
+SZC_increased_research_efforts_tooltip:0 "§HIncreased Research Efforts§! for §H365§! days\n   Research Speed: [?0.05|=%+]\n"
 
 SZC_war_aftermath_active_tooltip:0 "§Y내전의 여파§! 국민정신을 가짐"
 SZC_war_aftermath_not_active_tooltip:0 "§Y내전의 여파§! 국민정신을 가지지 않음"
@@ -193,6 +307,7 @@ SZC_diarchy_increase_wenhui_tooltip_green:0 "§G정부 내에서 류원후이의
 SZC_diarchy_increase_wenhui_tooltip_yellow:0 "§H정부 내에서 류원후이의 영향력이 늘어날 겁니다!§!\n"
 SZC_diarchy_increase_xihou_tooltip_green:0 "§G정부 내에서 덩시허우의 영향력이 늘어날 겁니다!§!\n"
 SZC_diarchy_increase_xihou_tooltip_yellow:0 "§H정부 내에서 덩시허우의 영향력이 늘어날 겁니다!§!\n"
+SZC_diarchy_influence_tooltip:0 "No influence effort in the last 60 days"
 
 SZC_Industrial_Victory_tooltip:0 "§Y산업 군단이 내전에서 승리했습니다.§!"
 SZC_The_Lord_Of_Sichuan_tooltip:0 "£decision_icon_small §H세력 가입§! 해금\n"
@@ -236,26 +351,6 @@ Sichuan_Famine_decisions:0 "기아 구제 노력"
 Sichuan_Famine_decisions_desc:0 "1925년 쓰촨에 엄청난 혼란을 가져왔던 기근은 사람들 마음 속에 큰 상처를 남겼습니다. 또 다른 기근을 막기 위해 할 수 있는 것은 다 했지만, 팔성연합의 붕괴에 겹쳐 끊임없이 계속되는 가뭄과 걷잡을 수 없는 불안은 최악의 공포를 현실로 바꿨습니다. 기근과 싸우기 위해 할 수 있는 모든 조치를 취해야만 합니다.\n\n현재 구호에 사용할 수 있는 자원량: £convoy_texticon [?SZC_famine_PP|H0]"
 SZC_International_Famine_Relief:0 "국제적 기아 구호"
 SZC_International_Famine_Relief_desc:0 "최근들어 중국은 많은 사건들을 견뎌냈고 우리 자신을 위해 할 수 있는 일은 그 정도밖에 없습니다. 전쟁이나 기근의 피해를 입지 않은 해외에는 곡식이 유출되도 괜찮을 정도로 충분히 많습니다. 그들에게 어려운 우리를 도와달라고 호소해야 합니다."
-
-SZC_famine_PP_30_tooltip:0 "£convoy_texticon [?30|H0]"
-SZC_famine_PP_30_tooltip_blocked:0 "£convoy_texticon [?30|R0]"
-SZC_famine_PP_50_tooltip:0 "£convoy_texticon [?50|H0]"
-SZC_famine_PP_50_tooltip_blocked:0 "£convoy_texticon [?50|R0]"
-SZC_famine_PP_60_tooltip:0 "£convoy_texticon [?60|H0]"
-SZC_famine_PP_60_tooltip_blocked:0 "£convoy_texticon [?60|R0]"
-SZC_famine_PP_80_tooltip:0 "£convoy_texticon [?80|H0]"
-SZC_famine_PP_80_tooltip_blocked:0 "£convoy_texticon [?80|R0]"
-SZC_famine_PP_plus_5:0 "Relief Resources: [?5|0=+].\n"
-SZC_famine_PP_plus_10:0 "Relief Resources: [?10|0=+].\n"
-SZC_famine_PP_plus_20:0 "Relief Resources: [?20|0=+].\n"
-SZC_famine_PP_plus_30:0 "Relief Resources: [?30|0=+].\n"
-SZC_famine_PP_plus_50:0 "Relief Resources: [?50|0=+].\n"
-SZC_famine_PP_plus_100:0 "Relief Resources: [?100|0=+].\n"
-SZC_famine_PP_plus_120:0 "Relief Resources: [?120|0=+].\n"
-SZC_famine_PP_minus_30:0 "Relief Resources: [?-30|0=+].\n"
-SZC_famine_PP_minus_50:0 "Relief Resources: [?-50|0=+].\n"
-SZC_famine_PP_minus_60:0 "Relief Resources: [?-60|0=+].\n"
-SZC_famine_PP_minus_80:0 "Relief Resources: [?-80|0=+].\n"
 
 SZC_Service_For_Food:0 "식량 배급"
 SZC_Service_For_Food_desc:0 "사지 멀쩡한 모든 사람이 재난을 극복하기 위해 제 몫을 다해야 합니다! 시민들에게 군 복무를 시키는 대가로 배급량을 늘려 주고, 이렇게 모집한 군인들을 통해 대중에 식량을 배급하도록 할 겁니다."
@@ -335,41 +430,12 @@ SZC_Set_Up_Treatment_Clinics:0 "치료센터 설립"
 SZC_Set_Up_Treatment_Clinics_desc:0 "중독자 재활을 위해 새로운 치료센터를 만들고 기존 센터를 확장한다면 사태의 영향력을 완화하고 밀수업자 사업의 수익성을 떨어트리는데도 도움이 될 겁니다."
 SZC_Set_Up_Treatment_Clinics_tooltip:0 "§G일단 사태가 종료된 이후에도 이 센터들은 좀 더 평범한 사람들을 돕기 위해 여전히 존재할 겁니다.§!"
 
-SZC_200_inf_50_CP:0 " £rifle_texticon §H200§! £command_power §Y50§!"
-SZC_200_inf_50_CP_blocked:0 "£rifle_texticon §R200§! £command_power §R50§!"
-SZC_30_CP:0 "£command_power §Y30§!"
-SZC_30_CP_blocked:0 "£command_power §R30§!"
-SZC_15_CP:0 "£command_power §Y15§!"
-SZC_15_CP_blocked:0 "£command_power §R15§!"
-SZC_PP_50_CP_50:0 "£pol_power §H50§! £command_power §H50§!"
-SZC_PP_50_CP_50_blocked:0 "£pol_power §R50§! £command_power §R50§!"
-SZC_control_95:" £opium_texticon §H95%§!"
-SZC_control_95_blocked:" £opium_texticon  §R95%§!"
-SZC_spread_3:" £opium_texticon §H3%§!"
-SZC_spread_3_blocked:" £opium_texticon  §R3%§!"
-
-SZC_increase_opium_control_tooltip:0 "£opium_texticon  아편 통제력: [?SZC_opium_control_change|+=%1]\n"
-SZC_reduce_opium_spread_tooltip:0 "£opium_texticon  아편 확산도: [?SZC_opium_spread_change|+=%1]\n"
-SZC_opium_crisis_over_tooltip:0 "§G아편 문제가 끝났습니다!§!\n"
-
-SZC_opium_corruption_tooltip:0 "§H부패§! 문제가 처리되었습니다"
-SZC_opium_smuggling_tooltip:0 "§H밀무역§! 문제가 처리되었습니다"
-SZC_opium_addiction_tooltip:0 "§H약물중독§! 문제가 처리되었습니다"
-
-SZC_opium_monopoly_tier_1:0 "£opium_texticon  §H20%§!이상의 §H아편 통제력§!"
-SZC_opium_monopoly_tier_2:0 "£opium_texticon  §H40%§!이상의 §H아편 통제력§!"
-SZC_opium_monopoly_tier_3:0 "£opium_texticon  §H60%§!이상의 §H아편 통제력§!"
-SZC_opium_monopoly_tier_4:0 "£opium_texticon  §H80%§!이상의 §H아편 통제력§!"
-SZC_opium_monopoly_tier_5:0 "£opium_texticon  §H95%§!이상의 §H아편 통제력§!"
-
-SZC_opium_removal_tier_1:0 "£opium_texticon  §H48%§!이하의 §H아편 유행§!"
-SZC_opium_removal_tier_2:0 "£opium_texticon  §H36%§!이하의 §H아편 유행§!"
-SZC_opium_removal_tier_3:0 "£opium_texticon  §H24%§!이하의 §H아편 유행§!"
-SZC_opium_removal_tier_4:0 "£opium_texticon  §H12%§!이하의 §H아편 유행§!"
-SZC_opium_removal_tier_5:0 "£opium_texticon  §H3%§!이하의 §H아편 유행§!"
-
-SZC_opium_tier_5:0 "[SZC_opium_tier_5_tooltip]"
-SZC_opium_crisis_solved_tooltip:0 "아편 문제를 해결했습니다"
+Sichuan_Diarchy_decisions:0 "The Diarchy"
+Sichuan_Diarchy_decisions_desc:0 "Unlike many warlord cliques in China, Baoding is noted for being more prone to cooperation than competition. If the balance is maintained it'll bring powerful benefits to Sichuan. Both sides need to give and take for the cooperation to work, for if one side becomes too dominant the diarchy may start to resemble the autocracies that surround it."
+SZC_Favour_The_Militarists:0 "Favour the Militarists"
+SZC_Favour_The_Militarists_desc:0 "By supporting the more conservative military wing through funding and favors, our army will reap the benefits while giving their faction a boost in the public eye. If the army is neglected, it'll degrade their performance in the field. Letting them grow too strong, however, risks crippling Sichuan's civilian branches of government. While it's certainly tempting to favour the army in times of war in particular, we should be careful not to provoke a hostile response by letting our administrative duties crumble."
+SZC_Favour_The_Bureaucrats:0 "Favour the Bureaucrats"
+SZC_Favour_The_Bureaucrats_desc:0 "By providing more resources and public support for the civilian branches of government, we'll see an well-oiled bureaucracy, more able to tackle the challenges that the province faces. Should we favor them too heavily, however, our army will suffer the results of spending cuts and perform worse in the field. If this goes on for too long, we can't rule out the army taking measures into their own hands to adjust this imbalance."
 
 Sichuan_Foreign_Policy_decisions: "외교 정책"
 SZC_Intervene_In_Northwestern_War:0 "서북 전쟁에 개입"
@@ -399,11 +465,6 @@ SZC_Attack_North:0 "[FROM.GetFlag] [SZC_attack_north_title]"
 SZC_attack_north_qing:0 "제2차 신해혁명"
 SZC_attack_north_other:0 "제2차 북벌"
 
-SZC_CP_15:0 "£command_power §R15§!"
-SZC_CP_15_blocked:0 "£command_power §R15§!"
-SZC_CP_60:0 "£command_power §H60§!"
-SZC_CP_60_blocked:0 "£command_power §R60§!"
-
 Sichuan_Zhili_decisions:0 "직예 잔당"
 SZC_Set_Up_Border_Defenses:0 "국경방어 구성"
 SZC_Mobilise_Troop_Remnants:0 "직예 잔당 집결"
@@ -427,7 +488,6 @@ SZC_Hire_RCW_Veterans:0 "러시아 내전 참전용사 고용"
 ### Flags ###
 sichuan_civil_war:0 "쓰촨이 내전중입니다"
 SZC_siege_broken:0 "포위군이 패퇴했습니다"
-SZC_importing_grain_tooltip:0 "현재 수입하는 식량이 전혀 없습니다"
 SZC_extra_import_unlocked:0 "두 번째 수입로를 감당할 수 있을 정도로 충분한 자금이 남아있습니다"
 SZC_famine_ongoing:0 "쓰촨이 기근으로 고통받는 중입니다"
 
@@ -813,8 +873,8 @@ SZC_Industrial_Planning_Committee_2:0 "Industrial Planning Committee"
 SZC_Industrial_Planning_Committee_2_desc:0 "Industrial development requires careful planning. Industry is obviously the future that will drive China towards prosperity and a proper committee should be formed in order to plan this complex development. This is the best course for long-term economic development for both the people and the nation as a whole."
 SZC_Financial_Reform:0 "Financial Reform"
 SZC_Financial_Reform_desc:0 "Corruption in the province's finances is highly problematic. Making government finances open to the public will help reduce this corruption while further reforms will ensure that efficiency can be improved, generally improving the provincial government's ability to sustain itself and make better economic decisions."
-SZC_From_A_Blank_Slate:0 "From a Blank Slate"
-SZC_From_A_Blank_Slate_desc: "Guangdong has had a decade to develop and improve. The Federalists in Sichuan are, however, working from an essentially blank slate: The previous government is in shambles, finances non-existent, popular support low. From this new slate, however, something better can be built for the good of the people."
+SZC_A_True_Civilian_Government:0 "A True Civilian Government"
+SZC_A_True_Civilian_Government_desc: "Guangdong has had a decade to develop and improve. The Federalists in Sichuan are, however, working from an essentially blank slate: The previous government is in shambles, finances non-existent, popular support low. From this new slate, however, something better can be built for the good of the people."
 SZC_Crack_Down_On_Corruption:0 "Crack Down on Corruption"
 SZC_Crack_Down_On_Corruption_desc:0 "Corruption is rampant. After decades of misgovernance, it was inevitable and the cleanup will be substantial. Now under new management, the Federalists has to crack down on this corruption to improve its image to the people and, of course, improve the government's overall situation."
 SZC_Land_To_The_Tiller:0 "Land to the Tiller"
@@ -2032,7 +2092,7 @@ sichuan_officer.10.b:0 "연방주의가 의회를 장악했다."
 sichuan_officer.11.t:0 "[GetYear]년 지방선거"
 sichuan_officer.11.d:0 "The people of Sichuan are about to exercise their civic duty once more as new provincial elections have been called. The Federalists and Nationalists remain the two major parties with a chance of winning.\n\nThe Federalists are running as the Self-Government Party and are aligned with Chen Jiongming's Public Interest Party (Zhigongdang, CZGP). They wish to implement Chen's Reconstruction Plan and join in his effort to turn China into a federal republic.\n\nThe Nationalists of the Kuomintang are under the Three-Principles Party and wish to implement a program based on Sun Yat-sen's political theories. They are aligned with Song Qingling's faction within the Nationalist Party and want to support their efforts in unifying the country."
 sichuan_officer.11.a:0 "연방주의가 의회를 장악했다."
-sichuan_officer.11.a:0 "국민당이 의회를 장악했다."
+sichuan_officer.11.b:0 "국민당이 의회를 장악했다."
 
 sichuan_officer.12.t:0 "천중밍이 사천에 도착하다"
 sichuan_officer.12.d:0 "A few months ago, Chen Jiongming was ousted from Liangguang by [GXC.GetLeader] and fled with his trusted officers and closest supporters. Instead of going into exile to Hong Kong like in 1924, however, he instead made the trek from Guangzhou to Chongqing and arrived today, cheered by local Federalists.\n\nAfter briefly addressing the crowd to reaffirm that he had no intentions of abandoning the Federalist cause, he privately met with [SZC.GetLeader] to discuss the future.\n\nChen made it clear that he wanted to make Sichuan the new centre for the Federalist movement, being one of the few provinces left that had significant support, both with its government and people, for it. He promised that implementing the Guangdong model in Sichuan would help it not only recover, but prosper despite over a decade of misfortunes and the recent famine.\n\nWhile the promises seem lofty, Chen has extensive experience in provincial administration and a very good reputation, having turned Guangdong into one of the wealthiest provinces in China and, before that, governed Fujian with similar success. Among his entourage are experienced military officers and civil administrators, which Sichuan is in dire need of, making the deal quite convincing."
