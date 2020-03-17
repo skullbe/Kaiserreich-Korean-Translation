@@ -111,7 +111,7 @@ RUS_Foreign_Policy_decisions_desc:0 "지난 몇 십 년 동안, 러시아는 세
 RUS_Integrate_Alash_Autonomy:0 "[FROM.GetFlag] [FROM.GetNameDef] 통합"
 RUS_Integrate_Alash_Autonomy_desc:0 "카자흐스탄은 광활하고, 부유한데다가 충성스럽기까지 합니다. 이 지역을 다시 수복한다면 우리는 그 남쪽의 투르케스탄, 나아가서는 페르시아에까지 영향력을 투사할 수 있습니다!"
 
-RUS_Attack_Central_Asia:0 "[FROM.GetNameDef] 공격"
+RUS_Attack_Region:0 "Attack [FROM.GetNameDef]"
 
 RUS_Attack_Central_Asia_desc:0 "[RUS_Attack_Central_Asia_desc_text]"
 RUS_Attack_Central_Asia_desc_ALO:0 "검은 월요일이 러시아를 강타하면서, 알라시 자치국은 우리의 통제에서 벗어났습니다. 카자흐 국경선을 되찾는 것은 러시아를 다시금 열강으로 올려놓기 위한 최우선 과제입니다."
@@ -603,23 +603,23 @@ RUS_Realpolitik_desc:0 "현실정치란 노골적인 이념적 관념이나 도�
 RUS_Expansionism:0 "팽창주의"
 RUS_Expansionism_desc:0 "팽창주의 이론은 러시아의 국경이 우리의 심장부에서 멀리 떨어질수록 우리는 더 안전하다고 여깁니다. 우리 속국을 제외한 러시아의 모든 주변국은 그들의 경제적,군사적 힘에 따라 우리에 대한 위협이나 우리의 표적이 될 것입니다. 당연하게도 이러한 정책들은 다른 나라의 호감을 얻지 못할 것입니다."
 
-RUS_Into_The_Caucasus:0 "캅카스를 향해"
-RUS_Into_The_Caucasus_desc:0 "부유한 지역인 캅카스는 역사적으로 러시아의 일부였습니다. 그곳 주민들은 더이상 그렇게 생각하지 않을지 모르지만, 강력한 군대가 있는 한 그것은 문제가 되지않습니다. 그러나 독일이 우리를 감시하고 있고, 우리는 신중하게 움직여야 합니다."
+RUS_Secure_Central_Asia:0 "Secure Central Asia"
+RUS_Secure_Central_Asia_desc:0 "Unlike the Caucasus region, there is no German interest in the central Asian provinces. We should be able to grab them without much opposition from the great powers."
 
-RUS_Seek_Allies:0 "동맹을 찾자"
-RUS_Seek_Allies_desc:0 "우리는 세력을 창설했고, 동맹을 구하지 않으면 독일에 맞설 수 없습니다."
+RUS_Seek_Allies:0 "Seek Allies"
+RUS_Seek_Allies_desc:0 "With our bloc established, it's time we sought out allies, for we cannot hope to take on Germany alone."
 
-RUS_Secure_Central_Asia:0 "중앙아시아 통제"
-RUS_Secure_Central_Asia_desc:0 "독일은 캅카스 지방과는 달리 중앙아시아 지방에는 관심이 없습니다. 우리는 이 기회를 이용해 이 지역을 장악해야 합니다."
+RUS_The_Academy_Of_Sciences:0 "The Academy of Sciences"
+RUS_The_Academy_Of_Sciences_desc:0 "We should foster deeper cooperation between our allies by creating a collective research initiative."
 
-RUS_Repudiate_Brest_Litovsk:0 "브레스트 리토프스크 조약 파기"
-RUS_Repudiate_Brest_Litovsk_desc:0 "세계대전에서 우리의 가장 큰 손실은 동쪽이나 남쪽의 영토가 아니고, 바로 산업화된 서부 영토의 상실이었습니다. 이제 그 땅은 정당한 주인의 것이 되어야 합니다."
+RUS_Into_The_Caucasus:0 "Into the Caucasus"
+RUS_Into_The_Caucasus_desc:0 "The Caucasus is wealthy and, historically, part of Russia. The people who live there might not think so anymore, but with enough military muscles that shouldn't be a problem. Germany will however keep a close eye on us, and we should tread carefully in the region."
 
-RUS_Force_Open_The_Straits:0 "해협을 열자"
-RUS_Force_Open_The_Straits_desc:0 "중앙아시아와 코카서스 지역이 우리의 지배하에 있기 때문에, 우리는 전략적 요충지이며 부유한 땅인 중동에 집중할 수 있게 되었습니다. 우리의 존재는 중동의 균형을 무너뜨릴 것이고 우리 군대는 거친 산악에서의 전투에 대비해야 할 것입니다."
+RUS_Repudiate_Brest_Litovsk:0 "Repudiate Brest Litovsk"
+RUS_Repudiate_Brest_Litovsk_desc:0 "The greatest losses of the Weltkrieg was, in all honesty, not in the East or the South. It was losing our most industrialised regions of the west. It's time they are returned to their rightful owners."
 
-RUS_Enemy_In_The_East:0 "동쪽의 적"
-RUS_Enemy_In_The_East_desc:0 "러일 전쟁 이후 러시아의 진정한 적은 해가 떠오르는 동쪽의 제국이었고, 앞으로도 그럴 것입니다. 중국의 부유하고 인구가 많은 지역을 차지하면 우리에게 도움이 될 것입니다."
+RUS_Force_Open_The_Straits:0 "Force Open the Straits"
+RUS_Force_Open_The_Straits_desc:0 "With central Asia and the Caucasus region under our control, we can look to the wealthy and strategically important middle east. Our presence will tilt the scales of balance in the region and our armies need to be prepared for warfare in difficult, mountainous terrain."
 
 RUS_Enemy_In_The_East:0 "Enemy in the East"
 RUS_Enemy_In_The_East_desc:0 "Ever since the Russo-Japanese war the true enemy of Russia has, and will always be, the Rising empire in the east. The extremely rich and populous regions of China would also serve us very well."
@@ -710,6 +710,7 @@ russia.8.d:0 "사회혁명당-멘셰비키 연합은 1월 위기 때 모든 경�
 russia.8.a:0 "멘셰비키의 이라클리 체레텔리."
 russia.8.b:0 "자유주의자 파벨 밀류코프."
 russia.8.c:0 "민중의 호민관 솔로몬 로조프스키!"
+russia.8.e:0 "A popular front of all socialist parties!"
 
 russia.9.t:0 "수상 임명"
 russia.9.d:0 "두마는 해산되었고 계엄령이 선포되었습니다. 육군원수 표트르 브란겔이 명목상으로 국가를 통치하고 있습니다. 새 정권의 지지 기반을 다지기 위해서는 수상을 임명해야 합니다."
