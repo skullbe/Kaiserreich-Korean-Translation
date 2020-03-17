@@ -44,9 +44,6 @@ NEE_marine_corps:0 "뉴잉글랜드 해군"
 
 ### Opinion Modifiers ###
 occupied_new_england:0 "뉴잉글랜드 합병됨"
-NEE_left_driving:0 "좌파적 성향"
-NEE_right_driving:0 "우파적 성향"
-NEE_royal_visit:0 "왕실 방문"
 
 ### Tooltips ###
 NEE_freedom_fliers_tt:0 "Unlocks £decision_icon_small §HDecisions§! to §YDrop Propaganda§! behind enemy lines\n"
