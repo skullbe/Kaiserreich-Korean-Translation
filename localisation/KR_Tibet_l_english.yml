@@ -52,9 +52,9 @@ TIB_decisions_unlocked:0 "결정 해금"
 TIB_foreign_aid_unlocked:0 "우호적인 국가에 원조를 요청하는 결정이 해금되었습니다."
 TIB_clash:0 "히말라야에서 전쟁"
 TIB_intervene_himalayas:0 "[From.GetName]에 개입"
-TIB_intervene_bharatiya:0 "[From.GetName]에 개입"
 TIB_intervene_himalayas_desc:0 "남쪽 왕국령이 혼란에 빠졌습니다. 이 광활한 땅을 해방시키기 위해서 지금 당장 공격해야 합니다."
 TIB_intervene_himalayas_tt_1:0 "더 많은 티베트인 형제들을 해방시키기 위해 전통주의자들을 타도해야 합니다."
+TIB_intervene_bharatiya:0 "[From.GetName]에 개입"
 
 ### Ideas ###
 TIB_struggle_tibet:0 "The Struggle for Tibet"
@@ -126,6 +126,9 @@ TIB_pressure_regency:0 "§YThe Young Tibet Party Pressures the Regency§!"
 TIB_debate_regent:0 "§YThe Young Tibet Party Debates the Tse Laptra§!" 
 TIB_take_tawang:0 "§YWe can now initiate war over Tawang§!\n" 
 TIB_kalmyk_plan:0 "§YEnable Decision to Spread the Revolution to Nepal and Bhutan§!\n" 
+
+TIB_theosophy:0 "Theosophical Society"
+TIB_theosophy_desc:0 "Nicholas Roerich's contribution to the Tibetan political scene is the introduction of the well-connected Theosophical Society from India. Their members arrive to Lhasa to proselytize their belief in the Ascended Masters that originated in Tibet. To the Theosophical Society, Tibetan independence and the progress of Leninism is the herald to the Sacred Union of the East, their long awaited theocratic socialist state promised by Nicholas Roerich."
 
 #Focuses
 TIB_convene_national_assembly:0 "Convene the Kashag"
