@@ -101,6 +101,10 @@ XSM_opium_production_desc:0 "마 가문은 중국의 어려운 경제상황에 �
 XSM_intervention_idea:0 "열성적인 자원병"
 XSM_intervention_idea_desc:0 ""
 
+### Companies ###
+
+lanzhou_arsenal:0 "Lanzhou Arsenal"
+
 ### Decisions ###
 XSM_qinghai_struggle:0 "칭하이의 권력투쟁"
 XSM_qinghai_struggle_desc:0 "현재 칭하이 위에 군림하고 있는 남부 마씨 군벌은 마린과 마부팡의 심한 가문 내 갈등속에 놓여있다. 아직 두 파벌의 노골적인 적대는 시작되지 않았지만, 양측은 칭하이 사람들의 신뢰를 얻는 것과 다른 가족구성원에대한 살해기도를 실행하는 등 삼촌과 조카의 싸움은 영향력 싸움으로 교착되어 있습니다. \n\n§G마린§!이 시닝 의회에서 §Y[?XSM.XSM_lin_qinghai_control]%§! 만큼 실질적인 영향력을 행사합니다\n§R마부팡§!이 시닝 의회에서 §Y[?XSM.XSM_bufang_qinghai_control]%§! 만큼 실질적인 영향력을 행사합니다.""
