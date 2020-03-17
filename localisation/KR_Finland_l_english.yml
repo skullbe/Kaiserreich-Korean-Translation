@@ -1039,9 +1039,6 @@ FIN_red_guard_weakening_success:0 "약화된 적위대"
 FIN_red_guard_weakening_fail:0 "강력한 적위대"
 FIN_black_monday_flag:0 "핀란드를 덮쳐온 검은 월요일"
 FIN_ukrainian_grain_shipments_again:0 "우크라이나산 곡물 수입량이 검은 월요일 이전 수준으로 회복"
-FIN_gercl_tt:0 "순양함 2척이 헬싱키에 나타날 것입니다."
-FIN_civships_tt:0 "내전기 선박 3척이 헬싱키에서 건조될 것입니다."
-FIN_oldswe_tt:0 "구식 비행기 50대를 받을 것입니다."
 
 ### Tooltips ###
 FIN_democracy_triumphant_tooltip:0 "§G사민당, 농민당, 혹은 연립정부가 정권을 잡아야 이 중점을 사용할 수 있습니다§!."
