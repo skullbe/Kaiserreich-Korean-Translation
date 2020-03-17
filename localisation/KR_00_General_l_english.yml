@@ -23,7 +23,7 @@ INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_
 
 ### Splash Screen ###
 KR_SPLASH_TITLE:0 "환영합니다!"
-KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAlpinia, Anbory, Arvidus, Augenis, Beelzebub, Blackfalcon501, DSFDarker, Delincious, Dr. Njitram, Drozdovite, Edouard Saladier, Eragaxshim, Fbruchmueller, Flamefang, Gideones, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Khalil, Kracc, Krco, Liegnitz, Maltesefalcon, MantisToboggan, Mifil, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rinbro, Roniius, Roparex, Rylock, Saladenicoise, Skip, Starguard, Telcontar101, The Alpha Dog, Thomahawk2k, Vidyaország, WordZero, Yard1, Zaddy-Chan, Zankoas 그리고 Zimbabwe Salt Co."
+KR_SPLASH_CREDITS:0 "§Y카라 개발팀 일동:§!\nAlpinia, Anbory, Arvidus, Augenis, Beelzebub, Blackfalcon501, DSFDarker, Delincious, Dr. Njitram, Drozdovite, Edouard Saladier, Eragaxshim, Fbruchmueller, Flamefang, Gideones, JazzyHugh, Jeankedezeehond, Jonjon428, Jonny BL, Khalil, Kracc, Krco, Liegnitz, Maltesefalcon, MantisToboggan, Mifil, OperationsManagementDecisions, PPsyrius, Pietrus, Rei VL, Rinbro, Roniius, Rylock, Saladenicoise, Skip, Starguard, Telcontar101, The Alpha Dog, Thomahawk2k, Vidyaország, WordZero, Yard1, Zankoas 그리고 Zimbabwe Salt Co."
 
 ### Autonomy Levels ###
 kr_integrated_puppet:0 "동화된 괴뢰국"
@@ -53,6 +53,26 @@ chief_of_navy_cost_factor:0 "Chief of Navy Cost"
 chief_of_air_force_cost_factor:0 "Chief of Air Force Cost"
 weapons_manufacturer_cost_factor:0 "Weapons Manufacturer Cost"
 cannot_train_units_tt:2 "§RCannot train units, disband units, or edit unit templates.§!\n"
+
+### Opinion Modifiers ###
+KR_close_allies:0 "Close Allies"
+KR_deal_with_devil:0 "Deal with the Devil"
+KR_returned_land:0 "Returned Our Land"
+KR_liberated_us:0 "Liberated us"
+KR_approves_of_govt:0 "Approves of Government"
+KR_pleased:0 "Pleased by us"
+KR_disapproves_of_govt:0 "Disapproves of Government"
+KR_hates_govt:0 "Hates Government"
+KR_outraged:0 "Outraged"
+KR_hostile:0 "Hostile"
+KR_trade_agreement:0 "Trade Agreement"
+KR_trade_sanctions:0 "Trade Sanctions"
+
+### Focus Filters ###
+FOCUS_FILTER_ARMY_BONUS:0 "Army"
+FOCUS_FILTER_NAVY_BONUS:0 "Navy"
+FOCUS_FILTER_AIRFORCE_BONUS:0 "Air Force"
+FOCUS_FILTER_RESISTANCE:0 "Resistance"
 
 ### Autonomy Events ###
 kr.political.100.t:0 "[Root.GetNameDef]의 질서가 복구되다"
@@ -379,6 +399,11 @@ efficiency_tech:0 "생산 효율 기술"
 excavation_tech_research:0 "굴착 기술 연구 속도"
 concentrated_industry_tech:0 "집중 산업 기술"
 dispersed_industry_tech:0 "분산 산업 기술"
+cat_gunnery:0 "Naval Gunnery"
+cr_tech:0 "Cruiser Models"
+acr_tech:0 "Armored Cruiser Models"
+cat_targeting:0 "Fire Control Cumputers"
+cat_torpedo:0 "Torpedo Technology"
 
 ### Army Command Traits ###
 
