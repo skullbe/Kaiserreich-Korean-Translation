@@ -60,8 +60,6 @@ FNG_Ma_Gold_Transfer_Negative_desc:0 "마잔산은 망명의 대가로 300만 �
 FNG_Ma_Gold_Transfer_Positive:0 "부정 이득"
 FNG_Ma_Gold_Transfer_Positive_desc:0 "마잔산이 우리의 적을 다시 배신하면서 300만 달러 가치인, 약 600파운드의 금을 가지고 왔습니다."
 FNG_Imperial_Han_Suppression:0 "한황실 계열 탄압"
-FNG_Intel_Leak:0 "정보 누출"
-FNG_Intel_Leak_desc:0 "실수로, 혹은 의도적인 이유로 장관이 우리의 적에게 1급 기밀을 누설하고 말았습니다."
 FNG_Legations_Deal:0 "공사관 거래"
 FNG_Legations_Deal_desc:0 "교묘한 외교술과 뒤에서의 '협상'을 통해 경제부 장관은 공사관 도시와 중요한 거래를 해냈습니다."
 FNG_Denouncing_German_Influence_idea:0 "도덕적 우월성"
@@ -330,6 +328,7 @@ FNG_troops_allowed_to_raid_occupation:0 "Our troops have been allowed to loot oc
 FNG_troops_not_allowed_to_raid_occupation:0 "Our troops are forbidden from looting occupied areas."
 
 ### Tooltips ###
+FNG_anti_japan_choice:0 "§RThis choice could have dire consequences for Fengtian's relationship with Japan.§!\n"
 FNG_expel_japanese_officers_tooltip:0 "§R이 결정을 완료하면 우리와 일본의 관계가 파탄날 것입니다.§!\n"
 FNG_japan_dislike:0 "§R일본이 이를 싫어할 것입니다.§!\n"
 FNG_proclamation_tooltip:0 "§R1년 내로 재수복 전쟁의 준비를 끝낼 수 있을때만 이 중점을 완료하세요.§!\n"
@@ -2190,11 +2189,13 @@ fngpolitic.32.d:0 "The Communications Clique, with its widespread influence in C
 fngpolitic.32.a:0 "Troubling."
 
 fngshen.1.t:0 "The Shenyang Conference"
-fngshen.1.d:0 "As it stands, [QIE.GetNameDef] presents the most powerful obstacle against our ambitions for China and Asia as a whole. Although we have the means to defeat them alone it would certainly be a daunting and costly task. Worse yet, we run a significant risk of being seen as Japan's crony if we go at it alone, allowing [QIE.GetLeader] to rally the other warlords against us. We must not allow this to happen.\n\nIn order to show to our friends in Asia that we're a legitimate power when we stand up to [QIE.GetNameDef], we have organized a conference to be held in Shenyang where we'll form a coalition against them. Not only will this strengthen our position, but it will also prove our legitimacy to the world."
+fngshen.1.d1:0 "As it stands, [QIE.GetNameDef] presents the most powerful obstacle against our ambitions for China and Asia as a whole. Although we have the means to defeat them alone it would certainly be a daunting and costly task. Worse yet, we run a significant risk of being seen as Japan's crony if we go at it alone, allowing [QIE.GetLeader] to rally the other warlords against us. We must not allow this to happen.\n\nIn order to show to our friends in Asia that we're a legitimate power when we stand up to [QIE.GetNameDef], we have organized a conference to be held in Shenyang where we'll form a coalition against them. Not only will this strengthen our position, but it will also prove our legitimacy to the world."
+fngshen.1.d2:0 "We have been forced to already commence our Reclamation War against [QIE.GetNameDef], even though not all of our allies may have been ready. However, some may yet be swayed to our side during this conflict. We must reach out to the Anqing Clique to the south, which has just come out victorious against the League and hope to immediately get them to join our side. We cannot afford the resources now to aid them in reconstruction, as we are already occupied with the war."
 fngshen.1.a:0 "Send the invitations."
 
 fngshen.2.t:0 "Invited to the Shenyang Conference"
-fngshen.2.d:0 "Today we formally received an invitation to the Shenyang Conference hosted by [From.GetNameDef]. Its goal is to allow us to improve our coordination in future conflicts and create a broader cooperation between [From.GetCliqueShortName] and the other powers across China. As we have nothing to lose by accepting their friendly invitation and participating in the conference, we will accept and attend."
+fngshen.2.ddef:0 "Today we formally received an invitation to the Shenyang Conference hosted by [From.GetNameDef]. Its goal is to allow us to improve our coordination in future conflicts and create a broader cooperation between [From.GetCliqueShortName] and the other powers across China. As we have nothing to lose by accepting their friendly invitation and participating in the conference, we will accept and attend."
+fngshen.2.danq:0 "We have received an invitation to the Shenyang Conference hosted by [From.GetNameDef]. They hope to discuss important issues related to us joining their Reclamation War against [QIE.GetNameDef], which has already begun. As they aided us in our conflict to reunite the Five Provinces, we should hear them out. They have also let us know they currently cannot spare any resources to aid us in our reconstruction, as they are fully occupied with the war."
 fngshen.2.a:0 "Send a delegation."
 
 fngshen.3.t:0 "[FROM.GetName] Agrees to the Conference"
@@ -2223,7 +2224,7 @@ fngshen.6.d.refused:0 "Perhaps unsurprisingly, [From.GetLeader] has refused our 
 fngshen.6.b:0 "Their loss."
 
 fngshen.7.t:0 "Start of the Shenyang Conference"
-fngshen.7.d:0 "The big day has finally arrived. Delegates have arrived from every corner of China to discuss [From.GetCliqueShortName]'s initiative against the regime in Beijing. A brief opening ceremony was held, culminating in an introductory speech by Zhang Zuolin. Everyone's in good spirit, though no one doubts the diplomatic challenges that lie ahead."
+fngshen.7.d:0 "The big day has finally arrived. Delegates have arrived to discuss [From.GetCliqueShortName]'s initiative against the regime in Beijing. A brief opening ceremony was held, culminating in an introductory speech by Zhang Zuolin. Everyone's in good spirit, though no one doubts the diplomatic challenges that lie ahead."
 fngshen.7.a:0 "Let's begin."
 
 fngshen.8.t:0 "Heated Discussions"
@@ -2248,13 +2249,13 @@ fngshen.12.d:0 "After drinking Sake by what we can only assume to be the barrel-
 fngshen.12.a:0 "Stop embarassing us!"
 
 fngshen.13.t:0 "Yang Yuting Urges Caution"
-fngshen.13.d:0 "With Anti-Concessionist sentiments rising, Yang Yuting has come forward to urge Zuolin to be cautious with regards to the stance on the Concessions. Because of Japan's strong interests in them, particularly through its China Agency in the Legation Cities, they stand to lose greatly if we went ahead and declared ourselves to be against the Concessions. Because of our healthy and mutually beneficial cooperation, alienating them would be seen by Tokyo as not merely an insult, but naked aggression against them.\n\nWhile hardly unexpected, Yuting's actions prove that Japan is worried about our eventual decision. If nothing else, it's a reminder that they will not sit idly by if we join the anti-Concessionist movement."
+fngshen.13.d:0 "With Anti-Concessionist sentiments rising, Yang Yuting has come forward to urge Zuolin to be cautious with regards to the stance on the Concessions. Because of Japan's strong interests in them, particularly through its China Agency in the Legation Cities, they stand to lose greatly if we went ahead and declared ourselves to be against the Concessions. Because of our healthy and mutually beneficial cooperation, alienating them would be seen by Tokyo as not merely an insult, but naked aggression against them.\n\nWhile hardly unexpected, Yuting's actions prove that Japan is worried about our eventual decision. If nothing else, it's a reminder that they will not sit idly by if we join the Anti-Concessionist movement."
 fngshen.13.a:0 "A fair warning."
 
 fngshen.14.t:0 "The Point of Decision"
-fngshen.14.d:0 "Facing insurmountable pressure from his potential partners, Zuolin must decide whether he agrees to the anti-Concessionist stance that has overtaken the conference or tries to argue against them. Siding against the anti-Concessionists would be devastating for any chance of forming a strong alliance. Doing so, however, would be tantamount to breaking off from Tokyo."
+fngshen.14.d:0 "Facing insurmountable pressure from his potential partners, Zuolin must decide whether he agrees to the Anti-Concessionist stance that has overtaken the conference or tries to argue against them. Siding against the Anti-Concessionists would severely hinder our chances of forming a strong alliance. Adopting an Anti-Concessionist stance, however, would severely anger Tokyo."
 fngshen.14.a:0 "Very well, we accept."
-fngshen.14.b:0 "We cannot turn our back on Japan."
+fngshen.14.b:0 "We cannot afford angering Japan."
 
 FNG_federalist_allies:0 "§GThe Federalists will join our efforts against [QIE.GetNameDef]!§!"
 FNG_anticoncessionists_angered:0 "§R[ANQ.GetCliqueShortName] and [FNG_shenyang_federalist_leader.GetCliqueShortName] will be greatly angered by this decision!§!"
@@ -2265,9 +2266,9 @@ fngshen.15.t:0 "The Federalist-[FNG.GetCliqueShortName] Alliance"
 fngshen.15.d:0 "It wasn't easy to overcome the numerous differences between us. In the end though, pragmatism won out and enough common ground was found to make this unlikely friendship a reality. [FNG.GetCliqueShortName] and the Federalists of [FNG_shenyang_federalist_leader.GetCliqueShortName] are now on the same side following a long series of secretive negotiations. Let us hope that this alliance stands the test of time."
 fngshen.15.a:0 "Excellent."
 
-fngshen.16.t:0 "[ANQ.GetCliqueShortName] Reaffirms Its Support"
-fngshen.16.d:0 "We've received official word from [ANQ.GetLeader] that we can rely on [ANQ.GetCliqueShortName]'s support in the future. Pleased with our pledges made throughout the conference, our friendship still stands. We can count on their support in the conflicts with Beijing that lie ahead."
-fngshen.16.a:0 "Thank you!"
+fngshen.16.t:0 "[ANQ.GetCliqueShortName] Thanks Us"
+fngshen.16.d:0 "We've received official word from [ANQ.GetLeader] that they are happy we took an Anti-Concessionist stance. However, they have not yet weighed all the matters concerning their decision to join us in our Reclamation War. We await their final decision."
+fngshen.16.a:0 "We'll have to wait."
 
 fngshen.17.t:0 "End of the Conference"
 fngshen.17.d:0 "Although there was no shortage of hurdles to overcome along the way, diplomacy has won the day. The Shenyang Conference has ended in a success for [Root.GetCliqueShortName], cementing their position in the region at the expense of the Beijing government. The delegates left the city after a cordial closing ceremony. Zhang Zuolin is now several steps closer to turning his ambitions into reality."
@@ -2289,10 +2290,7 @@ fngshen.20.a:0 "Unfortunate."
 
 fngshen.21.t:0 "Tiaoyuan Decides His Position"
 fngshen.21.d:0 "The [FNG.GetCliqueShortName] stance on the Concessionist question greatly angered [ANQ.GetCliqueShortName]'s Chen Tiaoyuan. However, [ANQ.GetCliqueShortName] delegates have informed us that the decision whether or not they will join our war against Beijing and enter into an alliance with us has yet to be made. We eagerly await their final answer."
-fngshen.21.a:0 "We must wait."
-
-#"The [FNG.GetCliqueShortName] stance on the Concessionist questionproved to be a bridge that couldn't be crossed. Unable to break against everything he's stood for, Chen Tiaoyuan sharply denounced Zhang Zuolin in the harshest possible terms for his cowardice and subservience to Tokyo. He angrily declared the alliance between [ANQ.GetCliqueShortName] and [FNG.GetCliqueShortName] to be dead and buried on the spot and that there was no way to reverse this unless Zhang decided to side with his countrymen over the Japanese. The [ANQ.GetCliqueShortName] delegation quickly left the conference afterwards. Needless to say, this has dealt a black eye to Zuolin's diplomatic efforts."
-#fngshen.21.a:0 "Drat."
+fngshen.21.a:0 "We must be patient."
 
 ### Unification Conference
 FNG_conference_success:0 "The Unification Conference was successful"
