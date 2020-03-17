@@ -109,7 +109,7 @@ LEC_paternal_autocrat_party_long:0 "동중국 이사회                         
 LEC_authoritarian_democrat_party:0 "공부국"
 LEC_authoritarian_democrat_party_long:0 "공부국                                          §gThe Shanghai Municipal Council is the governing body of the most important city in the cities, while it can't wield political power independently it remains an important player on a local level.§!"
 LEC_national_populist_party:0 "지나 특별 본부"
-LEC_national_populist_party_long:0 "지나 특별 본부                                          §gJapan's '지나 특별 본부' is ostensibly a political security force under the control of the Japanese Consulate as part of the Ministry of Foreign Affairs, but in reality represents not just them but influence from the War Ministry. This makes it a highly fractional organisation that can be difficult to pin down, the full extent of its operations may never be known.§!"
+LEC_national_populist_party_long:0 "지나 특별 본부                                          §g일본의 '지나 특별 본부'는 표면적으로는 외무성 소속으로서 일본 총영사관의 통제하에 있는 정치 안보 집단이지만, 실제로는 외무성뿐만 아니라 육군성의 영향력을 대변하기도 합니다. This makes it a highly fractional organisation that can be difficult to pin down, the full extent of its operations may never be known.§!"
 
 ### Leaders ###
 
@@ -237,6 +237,7 @@ LEC_wheelock_and_marden_desc:0 "윌락과 마든은 영국 상인들이 다수 �
 "LEC_green_island_cement:0 "Support Green Island Cement"
 LEC_green_island_cement_desc:0 "Green Island Cement is a firm with origins on Hong Kong's Green Island, an a major manufacturer for the booming construction industry that has been faltering since Black Monday. Supporting them through this crisis is vital to ensure that we continue to profit."
 LEC_china_light_and_power:0 "중화전력 인수"
+LEC_china_light_and_power_desc:0 "Running much of the electrical infrastructure around Shanghai, CL&P is a firm struggling to make ends meet right now and ripe for a buyer to swoop in and add them to the assets of the Legation Cities."
 LEC_improving_shipping_lanes_desc:0 "Shipping is more vital than even to ensure we recover from Black Monday's shockwaves. By reaffirming our commitment to free trade we can reassure the market and get people investing again."
 LEC_improving_port_facilities:0 "Expanding Port Facilities"
 LEC_improving_port_facilities_desc:0 "With increased volume of trade comes a need for more docking and portage, by dredging and expanding the estuary dockyards in Shanghai we can keep the city thriving."
