@@ -74,25 +74,6 @@ tram.26.d:0 "불법적인 러시아 정권은 시베리아에 대한 통제권�
 tram.26.a:0 "전쟁이 이 갈등을 처리할 것이다!"
 tram.26.b:0 "우리는 아직 준비가 되지 않았다."
 
-tram.33.t:0 "치타 공세!"
-tram.33.d:0 "몽골에 의해 지배되는 시베리아 횡단철도 구간은 이 지역의 요충지입니다. 몽골의 군대는 약하므로, 우리는 도시를 점령하기 위해 '치타'지역에 예상치 못한 공격을 가할 수 있습니다."
-tram.33.a:0 "전진!"
-tram.33.b:0 "우리는 한 달정도 더 준비가 필요하다."
-
-tram.34.t:0 "치타 함락!"
-tram.34.d:0 "몽골에 대한 최근의 공격은 성공적이었습니다. 시베리아 횡단철도의 중요 부분은 우리의 것입니다!"
-tram.34.a:0 "우라!
-
-tram.35.t:0 "치타 철수"
-tram.35.d:0 "몽골에 대한 최근의 공격은 성공적이지 못했습니고 우리 군대는 몽골 군대에 의해 쫓겨났습니다. 하지만 우리는 언제나 몽골과의 전쟁을 확장 할 수 있습니다."
-tram.35.a:0 "전투 준비!"
-tram.35.b:0 "그건 너무 위험해."
-
-tram.36.t:0 "우리는 치타를 잃었다!"
-tram.36.d:0 "이 비겁한 트란스아무르는 우리를 속이고 치타를 점거해 시베리아 횡단철도를 점령했습니다. 지금은 정말 급박한 시기입니다. 그들에게 선전포고를 해야 할까요, 아니면 그냥 이 모욕을 감수해야 할까요?"
-tram.36.a:0 "그들은 대가를 치러야 할 것이다!"
-tram.36.b:0 "그건 너무 위험해."
-
 tram.42.t:0 "트란스아무르가 시베리아로 확장하다"
 tram.42.d:0 "우리의 괴뢰국 트란스아무르는 시베리아의 여러 지역에 대한 지배력을 확립했습니다. 이것은 공영권의 훌륭한 성과이지만 트란스아무르는 너무 강력해졌고 따라서 제지되어야 할 수 도있습니다."
 tram.42.a:0 "캄차카반도와 오호츠크를 요구해라!"
@@ -194,13 +175,6 @@ tram.84.d:0 "트란스아무르의 오랜 지도자 콜차크 제독은 자신�
 tram.84.a:0 "군사정권 복원을 요구해라!"
 tram.84.b:0 "신 정부의 탄생을 축하한다!"
 
-#tram.85.t:0 "Japan Demands an End to Democracy!" #이부분은 번역하지 않으셔도 됩니다
-#tram.85.d:0 "The Japanese feel threatened by the sudden restoration of democracy in Transamur and they have issued an ultimatum to us in which they demand the restoration of a military cabinet."
-#tram.85.a:0 "Submit before Japan."
-#tram.85.b:0 "Submit before Japan."
-#tram.85.c:0 "Submit before Japan."
-#tram.85.e:0 "Never!"
-
 tram.86.t:0 "두마 선거"
 tram.86.d:0 "몇 달간의 준비끝에 임시정부는 1920년 이후 처음으로 트란스아무르의 선거를 위한 준비를 마쳤습니다. 국회 의석수는 90석이며 각 정당들은 선거운동을 시작했습니다. 현재 아래 3개의 정당만이 과반 득표를 할 가능성이 있어보이며, 이 중 한 당이 새 정부를 구성할 것입니다. 어느 쪽이 우세할까요?"
 tram.86.a:0 "인민극동당!"
@@ -285,13 +259,6 @@ tram.106.a:0 "전투준비!"
 tram.106.b:0 "침공을 준비하기 위해서는 한 달정도 더 필요하다."
 tram.106.c:0 "침공을 준비하기 위해서는 반 년정도 더 필요하다."
 tram.106.e:0 "침공을 준비하기 위해서는 일 년정도 더 필요하다."
-
-tram.107.t:0 "몽골의 문제"
-tram.107.d:0 "우리는 오랫동안 몽골을 주시하고 있었습니다. 이제 우리나라는 상황이 더 안정적이기 때문에 결정을 내릴 수 있습니다. 지금 몽골의 위협을 제거할 것인지 아니면 더 나은 공격 시기를 기다리고 준비할 것인지요."
-tram.107.a:0 "지금 같은 때는 없다!"
-tram.107.b:0 "한 달정도 더 기다리자."
-tram.107.c:0 "반 년정도 더 기다리자."
-tram.107.e:0 "일 년정도 더 기다리자."
 
 tram.108.t:0 "대트란스아무르 차질"
 tram.108.d:0 "우리가 블라디보스토크의 적을 과소평가한 것 같습니다. 그들의 부대는 동부 시베리아를 활보하며 우리 군대를 패배시키고 도시를 점령하고 있습니다. 그들이 평화를 대가로 주장했던 영토를 양도하는것을 고려하는게 현명한 것 일수도 있습니다."
@@ -951,30 +918,6 @@ TRM_integrate_railway_desc:0 "다음 지역을 핵심 주로 갖습니다:"
 
 TRM_integrate_siberia:0 "시베리아 지역 통합"
 TRM_integrate_siberia_desc:0 "다음 지역을 핵심 주로 갖습니다:"
-
-TRM_integrate_alash:0 "카자흐스탄 지역 통합"
-TRM_integrate_alash_desc:0 "다음 지역을 핵심 주로 갖습니다:"
-
-TRM_integrate_turkestan:0 "투르케스탄 지역 통합"
-TRM_integrate_turkestan_desc:0 "다음 지역을 핵심 주로 갖습니다:"
-
-TRM_integrate_don_kuban:0 "돈쿠반 지역 통합"
-TRM_integrate_don_kuban_desc:0 "다음 지역을 핵심 주로 갖습니다:"
-
-TRM_integrate_caucasus:0 "코카서스 지역 통합"
-TRM_integrate_caucasus_desc:0 "다음 지역을 핵심 주로 갖습니다:"
-
-TRM_integrate_finland:0 "구 핀란드 영토 통합"
-TRM_integrate_finland_desc:0 "다음 지역을 핵심 주로 갖습니다:"
-
-TRM_integrate_ubd:0 "에스토니아와 라트비아 통합"
-TRM_iintegrate_ubd_desc:0 "다음 지역을 핵심 주로 갖습니다:"
-
-TRM_integrate_white_russia:0 "백러시아 지역 통합"
-TRM_integrate_white_russia_desc:0 "다음 지역을 핵심 주로 갖습니다:"
-
-TRM_integrate_ukraine:0 "우크라이나 지역 통합"
-TRM_integrate_ukraine_desc:0 "다음 지역을 핵심 주로 갖습니다:"
 
 #Cosmetic Tags
 TRM_FE_totalist:0 "극동 연방"
