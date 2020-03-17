@@ -1,18 +1,10 @@
 ﻿l_english:
-###ALL new naval stuff here, old file is rly crumbled
-
-### Other ###
-modifier_experience_gain_SH_battleship_training_factor:0 "0"
-modifier_experience_gain_SH_battleship_combat_factor:0 "0"
-####################
-##  Technologies  ##
-####################
 
 ### Ship Namelist ###
 NAME_THEME_ISLANDS:0 "섬"
 NAME_THEME_ROYAL_BARGE:0 "왕실 요트"
 NAME_THEME_ROYAL_HOUSES:0 "왕가 & 귀족"
-NAME_THEME_TEX:0 "American Union State-specific List"
+NAME_THEME_TEX:0 "미연합국-특정 목록"
 
 ### Folders ###
 escort_ships_folder:0 "함선 설계"
@@ -60,7 +52,7 @@ heavy_hull_desc:0 "장갑순양함 - 장갑함은 중구경 함포를 장착한 
 
 ship_hull_heavy:0 "주력함"
 ship_hull_heavy_desc:0 "장갑순양함, 전함 혹은 드레도노트와 같은 큰 함선에 사용되는 선체 범주입니다."
-###non equipment tied technologies
+
 ###modules 
 SHIP_DESIGNER_MODULE_SELECTION:0 "Module Selection"
 weltkrieg_naval_gunnery:0 "세계대전기 함포"
@@ -132,9 +124,17 @@ aerial_mining_desc:0 "기뢰를 작은 낙하산에 매달아 투하할 수 있�
 aerial_demining:0 "항공 기뢰소해"
 aerial_demining_desc:0 "항공기에 공중에서 해군 기뢰를 탐지하고 안전하게 폭파할 수 있는 특수 장비를 장착할 수 있습니다."
 
-###equipment connected technologies
-####MTG hull####
-#Light Hulls
+### Transports ###
+transport_n:0 "수송선"
+transport_n_desc:0 "방어 장치가 달려있지 않은 군대 수송용 함선입니다."
+landing_craft_n:0 "상륙주정"
+landing_craft_n_desc:0 " 침투 전용 상륙주정은 적대적인 지역에 상륙할때의 어려움을 약간 줄여 줄 것입니다."
+tank_landing_craft_n:0 "진보된 상륙주정"
+tank_landing_craft_n_desc:0 "진보된 상륙주정은 우리 군인들이 침입할때 더 빠르고 효과적으로 해변에 갈 수 있게 해 줄 것입니다."
+
+### MTG Hulls ###
+
+### Light Hulls ###
 ship_hull_light_1:0 "세계대전기 경함체"
 ship_hull_light_1_desc:0 "세계대전은 구축함에게 새로운 역할을 요구했습니다. 기존의 역할인 함대보호 뿐만 아니라, 동맹의 함선도 보호해야 했었는데 그러기에는 함선의 수가 많이 부족했습니다. 이러한 요구를 충족시키고 수요를 따라잡기 위해 구축함의 설계가 간소화되었고, 대량 생산에 들어갔습니다. 이 시대의 배들은 전체적으로 1,000톤정도의 배수량을 가졌고, 평균 34노트의 속력으로 이동하면서 그들의 이전 모델들보다 더 큰 어뢰 한 쌍을 운반했습니다."
 ship_hull_light_2:0 "개선된 경함체" #Late Interwar
@@ -143,7 +143,8 @@ ship_hull_light_3:0 "진보된 경함체"
 ship_hull_light_3_desc:0 "제2차 세계대전의 시작과 함께 해군은 저렴한 대공 플랫폼을 요구 했습니다. 영국의 항공모함 운용의 성공은 전세계에 항모가 단순한 정찰임무나 항모를 공격하는임무를 수행하는 것 보다, 적들의 주력함을 사냥하는데에 더욱 적합하다는 것을 보여주었기 때문에 대공능력의 요구치가 더 상승했습니다. 또한 새로이 등장한 대잠 박격포 '헷지호그'는 호위 작전에 대한 주요 위협(주로 잠수함)과 싸우는 데 필수적인 역할을 하고 있습니다. 이전에는 구축함 보다는 순양함과 새로운 장갑 순양함에 투자해왔지만, 구축함은 '함대 호위'와 '수송선단 호송' 양쪽에서 필수적이기 때문에 점차 전선으로 돌아오기 시작했습니다. 이전의 것들보다 크지는 않지만, 기술적으로 훨씬 더 진보했고, 대부분 평갑판 구조와 훨씬 더 큰 어뢰 무기를 채택했습니다."
 ship_hull_light_4:0 "현대 경함체"
 ship_hull_light_4_desc:0 "제2차 세계대전이 끝날 무렵, 세계의 해군은 잠수함의 잠수시간을 거의 무한정으로 늘려놨고, 항공모함은 주력함을 파괴할 수 있는 양보다 더 많은 비행기를 보유하고 있게 되었습니다, 중무장한 순양함은 항공모함과 잠수함 앞에서 빠르게 무력해지고 있었습니다. 대부분의 해군 이론가들의 마음속에서는 미래에 주요 함대를 호위하는 역할은 구축함들이 거의 차지했고, 급속장전 양용포는 구축함을 공격하기 위해 접근하는 비행기를 쉽게 파괴할 수 있습니다. 자연스레 이 함체들의 배수량도 증가했는데, 설계자들이 더 많은 대공 무기와 주포탑을 장착하면서 3,000톤에 육박하기도 했습니다."
-#Cruiser hulls
+
+### Cruiser Hulls ###
 ship_hull_cruiser_1:0 "세계대전기 순양함 선체" #Light Armoured
 ship_hull_cruiser_1_desc:0 "더 나은 품질의 장갑과 증기 터빈 엔진의 개발로 가벼운 장갑을 가진 순양함이 등장했습니다. 19세기에 개발한 방호순양함보다 더 빠르고 안전한 이 순양함 디자인은 1910년대에 방호순양함을 대체했습니다."
 ship_hull_cruiser_2:0 "개선된 순양함 선체" #Interwar
@@ -167,11 +168,13 @@ ship_hull_heavy_3:0 "개선된 중함체"
 ship_hull_heavy_3_desc:0 "제2차 세계대전이 점차 가까워지고 있고 국제적인 긴장이 그 어느 때보다도 높아짐에 따라, 군함 설계자들은 다가오는 전쟁에서 싸우기 위한 새로운 세대의 군함들을 건조하고자 했습니다. 어떤 나라들은 해군에 대한 미래가 항모들에게 있다고 주장했지만, 그 외의 나라들은 여전히 항공모함의 주요 역할이 주력함을  대신하는 대신 보조적인 역할만 제공할 수 있다고 주장했습니다. 이러한 국가들(독일과 같은)은 새로운 디자인을 재설계하여 개선된 무기 배치와 더 효과적인 포와 포탑, 그리고 향상된 항속에 초점을 맞췄습니다."
 ship_hull_heavy_4:0 "현대 중함체"
 ship_hull_heavy_4_desc:0 "제2차 세계대전이 끝날 무렵, 강대국들은 함재기들은 모든 군함들에게 위협적인 존재라는 한 가지 사실에 마주하게 되었습니다. 하지만, 몇몇 국가들은 해안 폭격, 명성 높은 프로젝트, 그리고 함대 내의 함공모함이 주는 지원 등으로 전함의 개발을 지속했습니다. 군함설계자들은 대공 로켓 기술뿐만 아니라 대공용 함포를 전함에 탑재하기도 했습니다. 하지만, 이러한 설계는 몇 년 동안 성공적이지 못한 것으로 판명되었는데. 이 많은 전함들은 70년대까지 그럭저럭 잘 운용 되었지만, 그것들은 대체로 쓸모없는 것으로 여겨졌고, 남은 전함들중 대부분은 국가 원수들이 이동 할 때나, 때때로 해안 포격 지원을 제공하는 기능을 할 뿐이었습니다."
-ship_hull_super_heavy_1:0 "초드레드노트 선체"
+ship_hull_super_heavy_1:0 "Dreadnought Hull"
 ship_hull_super_heavy_1_desc:0 "세계대전 기간 동안 주요 육상전이 끝난 후 해군이 사용할 수있는 자원의 급속한 증가는 이러한 설계를 만들어냈습니다. 이 설계는 크기, 화력, 장갑, 구경 및 비용의 급격한 증가를 불러왔습니다. 이 함체들은 세계의 주요 해군력을 단순한 수준에서부터 위대한 수준으로 구분짓지만, 이 함체들은 그것만의 문제를 가지고 있었습니다. 이 함체의 빠른 개발속도와 신속한 건조는 설계 결함과 지속적인 기계적인 문제를 유발했습니다. 이 디자인들은 8-10개의  18인치 또는 이와 동등한 구경의 주포로 무장되었고, 유사한 군함들과 정면으로 충돌했을때도 버틸 수 있는 방어력이 있었습니다. 드레드노트 건조 경쟁이 절정에 달했을 때, 이 진정한 괴물들이 착안되었습니다. 이전보다 훨씬 더 큰 크기와 화력을 제공했지만, 그 대가로 건조 비용과 운용 비용은 엄청났고, 따라서 몇몇 국가들만이 이 군함의 건조을 고려할 수 있었습니다. 그럼에도 불구하고, 이 함체들은 정말로 강력한 해군에서의 패권을 가지고 있었습니다. 그들 이전 세대의 것보다 훨씬 더, 그 것들의 건조 조건에 구속되었습니다. 설계 작업이 급격하게 진행되었고, 시공 중에 즉각적으로 재설계되었으며, 필요한 막대한 자원의 부족, 신속한 건설에 대한 엄청난 압박, 그리고 거대한 메커니즘과 엄청난 크기와 복잡성 등등, 이 모든 것들이 거대한 장갑 속에서 설계 결함과 취약성을 야기했습니다."
-ship_hull_pre_dreadnought:0 "전드레드노트급 선체"
-ship_hull_pre_dreadnought_desc:0 "전드레드노트급 선체"
-#Carrier Hulls
+ship_hull_pre_dreadnought:0 "Pre-Dreadnought"
+ship_hull_pre_dreadnought_desc:0 "Followed the design of the British Majestic-class of the late 1890s, Pre-Dreadnought battleships replaced the ironclad battleships of the 1870s and 1880s. Built from steel, and protected by hardened steel armour, pre-dreadnought battleships carried a main battery of very heavy guns in barbettes supported by one or more secondary batteries of lighter weapons.\n\nSince the 'Dreadnought' design made them obsoleted since before the Weltkrieg, coupled with the gigantic rise of Dreadnought-based designs in the previous three decades, only a few of them are still in service."
+
+### Carrier Hulls ###
+
 ship_hull_carrier_conversion_ca:0 "실험적 항공모함 선체"
 ship_hull_carrier_conversion_ca_desc:0 "수상비행기 보조함을 사용한 경험을 통해 해군은 바다에서 항공기를 운반할 수 있는 차세대 선박에 대한 개발 작업에 착수했습니다. 이전의 단순한 수송선들과는 달리, 이 항공모함은 항공기가 항모로부터 날아가고 그리고 다시 돌아와 착륙할 수 있는 비행 갑판으로 설계되었습니다. 민간 선박과 수상기 보조함에서 개조된 이 배들은 비교적 비좁은 비행 갑판과 격납고를 가지고 있어서 다소 제한적이긴 하지만, 항모들이 바다에서 공중의 요소들을 효과적으로 이용할 수 있다는 것을 증명했습니다."
 ship_hull_carrier_conversion_bb:0 "개장 전함 항공모함 선체" #실험적
@@ -184,7 +187,8 @@ ship_hull_carrier_2:0 "진보된 항공모함 선체"
 ship_hull_carrier_2_desc:0 "바다에서 펼쳐지는 주요 작전들이 해상 전투에 큰 영향을 미치는 항공기의 힘을 보여주면서, 많은 강대국들은 자신들이 항공모함 전력의 개발에서 뒤쳐져 있다는 것을 알게 되었습니다. 배수량이 큰 함공모함이 가장 강력한 것으로 보여졌지만, 그것들은 건설하는데 오랜 시간과 많은 양의 자원을 필요로 하는 거대한 배였습니다. 공군력을 바다에 투사하는 능력을 증가시키기 위해, 몇몇 강대국들은 이런 거대한 디자인보다 더 가벼운 항공모함을 증강해서 해군의 항공 능력을 빠르게 강화하기 위해 노력했습니다."
 ship_hull_carrier_3:0 "현대 항공모함 선체"
 ship_hull_carrier_3_desc:0 "대형 항모들의 우월함이 논쟁의 여지가 없게 된 한 때조차도, 그러한 큰 배들을 감당할 수 없는 많은 강대국들이나 상대적으로 중요도가 낮은 지역을 담당하기 위한 보조 항모가 필요한 주요 해군 강국들이 있었습니다. 이 함체들은 이러한 수요를 충족시키기 위해 만들어진 디자인입니다. 대형 항모보다 훨씬 작은 규모의 디자인 혁신 기술을 적용하여 상당한 항공기 수용량, 빠른 항속 및 합리적인 대공 방어 함포들을 갖춘 효율적인 소형 항공모함를 생산했습니다."
-#Submarine Hulls
+
+### Submarine Hulls ###
 ship_hull_submarine_1:0 "세계대전기 잠수함 선체"
 ship_hull_submarine_1_desc:0 "최초의 실용적인 잠수함은 실제 해전에서 써먹을 만 했던 신무기였습니다. 극초기의 휘발유-전동 기관을 대체한 디젤-전동 기관은 획기적인 작전반경과 수상 속도의 개선을 이뤘습니다. 적 군함과의 실전에서 이들은 주로 잠수하는 소형 어뢰정으로 행동했으나, 여전히 낮은 수중 속도나 비교적으로 짧은 잠항 시간을 가졌습니다. 이 잠수함들이 세계대전에서 해군 강국에 의해 사용되었습니다."
 ship_hull_cruiser_submarine:0 "순양잠수함 선체" #전간기 순양
@@ -195,9 +199,10 @@ ship_hull_submarine_3:0 "진보된 잠수함 선체"
 ship_hull_submarine_3_desc:0 "잠항 능력에 중점을 둔 몇몇 잠수함 설계안에서 얻은 교훈은 잠수함의 설계 기조를 기존의 순양 잠수함에서 잠항 특화 잠수함으로 변화시켰습니다. 잠수함에 실리는 어뢰 수가 이전 세대의 잠수함보다 크게 증가함에 따라, 거의 모든 수상함들은 언제 갑툭튀할지 모를 어뢰에 대한 공포에 떨게 되었습니다. 그러나 아직도 잠수함의 잠항 능력은 제한되어 있으며 잠수함이 부상했을 때 수상함, 특히 항공기에게 동네북이 되는 취약점은 남아 있습니다."
 ship_hull_submarine_4:0 "현대 잠수함 선체"
 ship_hull_submarine_4_desc:0 "배터리 기술의 진보로 잠수함의 함내 공기를 잠항한 상태에서도 정화할 수 있게 되었고, 잠수함의 전반적인 설계가 효율적으로 개량되면서 거의 대부분의 시간을 잠항한 채로 보내는 것이 가능해졌습니다. 이 잠수함들은 해전의 진행 방향에 거대한 변화를 주었으며 수상함들에게 진정한 공포로 떠올랐습니다. 이 무시무시한 잠수함을 배치한 국가에게 해상을 장악할 능력을 주게 될 것입니다."
-####MTG Modules####
 
-### Vanilla ###
+### MTG Modules ###
+
+### Vanilla Modules ###
 ship_light_battery_1:0 "85 mm 속사포"
 ship_light_battery_1_short:0 "경함포 I"
 ship_light_battery_1_desc:0 "구축함과 소형 함선에서 사용되는 작은 함포입니다."
@@ -456,7 +461,9 @@ ship_armor_cruiser_4_desc:0 "이 장갑대 설계는 배가 너무 무거워 가
 ship_armor_carrier_deck:0 "90 mm 갑판장갑"
 ship_armor_carrier_deck_short:0 "비행갑판 장갑"
 ship_armor_carrier_deck_desc:0 "약간의 작업 공간을 희생해서 두꺼운 장갑판을 설치해 적 급강하폭격기의 공격으로부터 격납고를 보호합니다."
-### KR modules ###
+
+### Custom modules ###
+
 dp_light_battery_2:0 "자동장전 127 mm 공지양용 속사포"
 dp_light_battery_2_short:0 "공지양용 경함포 II"
 dp_light_battery_2_desc:0 "장전과 포각을 조정하는 모든 장치가 자동화돼 더 이상 조작원이 팔 빠지도록 포각 조정기를 돌려댈 필요가 없습니다. 매우 빠르게 움직이는 적기를 계속 추적할 수 있으며, 탄막도 빠르게 흩뿌릴 수 있습니다."
@@ -476,8 +483,10 @@ ship_armor_shbb_2:0 "534 mm 수선장갑/254 mm 갑판장갑"
 ship_armor_shbb_2_short:0 "초드레드노트 장갑 II"
 ship_armor_shbb_2_desc:0 "무적의 전함을 바라던 거함거포주의자들에게 안타까운 소식이 전해졌습니다. 우리 초드레드노트의 떡장갑을 뚫어버릴 수 있는 20인치 함포가 새로 도입되었다는 소식입니다. 이제 우리는 더 두꺼운 장갑판을 초드레드노트에 달아야 합니다..." 
 
-####NON-MTG hulls#### 
-#destroyers
+### Non-MTG Hulls ### 
+
+### Destroyers ###
+
 destroyer_1:0 "세계대전기 구축함"
 destroyer_1_desc:0 "The Weltkrieg brought a new demand for destroyers- not only were they required to protect their fleets, but they were also stretched thin to protect the Entente shipping lines as well. To meet this need, destroyer designs were streamlined, entering mass production to keep up with demand. Ships of this era were typically 1000 tons, and travelled at a top speed of 34 knots, while carrying a larger pair of torpedoes than their forebears."
 destroyer_2:0 "개선된 구축함"
@@ -486,7 +495,9 @@ destroyer_3:0 "진보된 구축함"
 destroyer_3_desc:0 "With the start of the Second Weltkrieg the world's navies needed cheap anti-aircraft platforms. The British success with carrier combat had shown the world that they were suited for more than just recon and anti-carrier duties, they were required for modern anti-capital ship warfare. Advanced anti-submarine technologies like the new hedgehog depth charges were playing an essential role in combating the major threat to convoy operations, they and the anti-aircraft platforms intensified demands for more destroyers. Were previously destroyer investments were being lowered in favour of cruisers and the new armoured cruisers, destroyers began to return to the fore as an essential part of both the fleet, and the convoy system. While often not larger than their predecessors they were far more technologically advanced, mostly adopting flush decks and far larger torpedo armaments."
 destroyer_4:0 "현대 구축함"
 destroyer_4_desc:0 "Near the end of the Second Weltkrieg, the navies of the world were forced to adapt to new submarines that could stay submerged for almost indefinite periods of time, carriers were loaded full of planes more than capable of destroying capital ships, and big gun cruisers were quickly becoming irrelevant in the face of carriers and submarines. The future role of the escort for the main fleet was being taken over almost solely by destroyers in the minds of most naval theorists, with dual purpose rapid firing turrets destroying any planes that dare cross her path in an attempt to dive bomb her. The displacement of these vessels rose as well, often coming up to 3,000 tons as designers loaded them with more and more anti-aircraft weapons, as well as more primary guns."
-#cruisers
+
+### Cruisers ###
+
 weltkrieg_cruiser_nonmtg:0 "세계대전기 순양함"
 weltkrieg_cruiser_nonmtg_desc:0 "Better quality armour and the development of steam turbine engines led to the rise of light armoured cruisers. Faster and better protected than protected cruisers, these designs came to supplant them in the 1910s."
 interwar_cruiser_nonmtg:0 "개선된 순양함"
@@ -495,7 +506,9 @@ advanced_cruiser_nonmtg:0 "진보된 순양함"
 advanced_cruiser_nonmtg_desc:0 "Thanks to increased available funding, the new cruisers built at the end of the interwar period and the beginning of the Second Weltkrieg saw another slight growth in their size. Once more, while the the primary armament's calibre remained, with few exceptions, in the 7-8 inch range, their firepower was increased further by adding an extra turret or raising the number of guns in each turret if that had not been done in the previous generation. Secondary armaments were further upgraded with further twin dual-purpose guns and even more dedicated anti-aircraft armament, often linked with improved fire controls. This generation also saw the growing adoption of radar systems on cruisers."
 modern_cruiser_nonmtg:0 "현대 순양함"
 modern_cruiser_nonmtg_desc:0 "The cruisers of the late-war and early post-war period remained similar to the ones of the early war, while incorporating the numerous lessons learned throughout. With air power confirmed to be one of the greatest threats to ships, designers focused on improving AA capabilities even further through better fire-control, improving coordination between batteries and radar. Some navies also experimented with autoloading mechanisms for the main armament, dramatically improving their rates of fire. The rapid pace of rocket and missile development would eventually prove to be the demise of all-gun ships, including cruisers, making this the last generation of 'old type' cruisers for numerous navies."
-#armored cruisers
+
+### Armoured Cruisers ###
+
 armored_cruiser_1:0 "세계대전기 장갑순양함"
 armored_cruiser_1_desc:0 "In the wake of the Revolution in France, the republican government was left deeply concerned about the shipbuilding capabilities of the Commune. Lacking any real ship production facilities and possessing a limited budget, they were forced to place orders internationally, with the now empty naval yards of the Two Sicilies. Their design was intended as an intermediate class, with the guns and range to fight older battleships on their own terms as well as the speed to chase down lighter cruisers and escape the more modern battleships they had no chance of beating themselves. Quickly nations such as Ukraine, Austria, and the Two Sicilies received several orders for more ships of this variety, saving the shipbuilding facilities and experience these nations could no longer afford to sustain, and seeing a burst in construction at the birth of this new design type."
 armored_cruiser_2:0 "개선된 장갑순양함"
@@ -504,7 +517,9 @@ armored_cruiser_3:0 "진보된 장갑순양함"
 armored_cruiser_3_desc:0 "Progress in Armoured Cruiser design came with a revaluation of the role of these ships, and with adjustments in the trajectory of previous developments. While they retained the mediocre armour of their predecessors, these ships changed course on the path of their guns, generally moving to reduce barrel diameter in favour of gun designs with increased velocity. Most were armed with six main guns, in double or triple turrets, and most of those guns were 11-12 inches or equivalent."
 armored_cruiser_4:0 "현대 장갑순양함"
 armored_cruiser_4_desc:0 "The evolution of the armoured cruiser, by the mid-1940s, had reached its apex: ships with the speed to hunt cruisers but the firepower to threaten true capital warships enough to keep them on their toes. While the firepower of the ships was less useful with the rise of the Carrier, they found great use in shore bombardment and carrier escort duties. Functionally greatly enlarged cruisers with much heavier armour and guns, most of these ships were armed with six to nine main guns of 11-12 inch or equivalent size; these were extremely high velocity gun designs, allowing for the armour penetration and range to engage battleships respectably while also functioning as an effective lone convoy raider more than capable of dealing with escorting destroyers and lighter cruisers."
-#battleships
+
+### Fast Battleships ###
+
 battleship_1:0 "세계대전기 전함"
 battleship_1_desc:0 "Designed shortly before the Weltkrieg began, and completed while it raged, these classes represented the highest level of naval development prior to the start of that conflict. They were the fleet-leading warships of the war, and would remain highly potent long after it ended. While they were notably faster than the Dreadnoughts before them their most notable differentiating feature was their escalated armament- they carried eight to ten main guns, of 14 to 15 inch or equivalent, most in twin turrets but a few in new triple turrets. Their devastating firepower and heavy armour guaranteed that they would be at the heart of their battle fleets, but those continued advances came at quickly escalating prices. Even more so than the warships before them these classes demanded huge investments, though they were only shadow of what was to come."
 battleship_2:0 "개선된 전함"
@@ -513,27 +528,33 @@ battleship_3:0 "진보된 전함"
 battleship_3_desc:0 "With the Second Weltkrieg on the horizon and international tensions higher than ever, designers were looking to construct a new generation of ships to fight in the upcoming war. While some nations had transitioned their naval hopes to carriers, others still insisted that the carrier could only provide a supplementary role, rather than replacing the primary anti-capital ship role of the battleship. These nations, typified by Germany, instead retooled their newer designs, focusing on improved armour layouts and more effective guns and turrets, as well as improved speeds."
 battleship_4:0 "현대 전함"
 battleship_4_desc:0 "At the close of the Second Weltkrieg, the Great Powers were faced with an indisputable fact: naval air power had proved victorious over all gun capital ships. However, several nations persisted with the development of Battleships, as shore bombardment platforms, prestige projects and support for carriers within the fleet. Designers loaded their battleships with anti-aircraft batteries, as well as the latest anti-aircraft rocket technology. These designs would prove less than successful over the years; while many of these battleships would continue to be operated well into the 70s, they were widely viewed as obsolete, and mostly functioned to ferry Heads of State on national voyages and to occasionally provide shore bombardment support during regional conflicts."
-#dng
-dreadnought_1:0 "Super Dreadnought"
+
+### Dreadnoughts ###
+
+dreadnought_1:0 "Dreadnought"
 dreadnought_1_desc:0 "As the Dreadnought Race reached its height, these true monsters were conceived. Far greater in size and firepower than anything that came before, their cost was staggering, and few nations could afford to even consider constructing them. Nonetheless, those that did found themselves in possession of truly mighty weapons of naval supremacy. Even more so than the generation before them, they suffered from the conditions of their conception. Rushed design work, last minute and improvised redesigns during construction, shortages of the huge amount of resources they required, immense pressure to rush construction, and the sheer size and complexity of their massive mechanisms, all led to design flaws and vulnerabilities beneath their vast armoured hides. These designs were armed with twelve to fifteen 18 inch or equivalent main guns."
-dreadnought_2:0 "Improved Super Dreadnought"
-dreadnought_2_desc:0 "Once the afterglow of the great Dreadnought Race had faded away, naval designers took stock of the position of dreadnoughts in future planning. Discarding speed as a major goal, with the understanding that the new generation of so-called 'fast battleships' would assume that task, these designs instead focused on extreme, unprecedented, armour protection. Advanced 16 inch guns could equal the armour penetration of 18 inches, while being less expensive. .Drawing lessons from the navies possessing heavy ordinance most of these designs were armed with those types of advanced 16 inch guns, or equivalents, normally arranged in five triple turrets.""
-dreadnought_3:0 "Advanced Super Dreadnought"
+dreadnought_2:0 "Improved Dreadnought"
+dreadnought_2_desc:0 "Once the afterglow of the great Dreadnought Race had faded away, naval designers took stock of the position of dreadnoughts in future planning. Discarding speed as a major goal, with the understanding that the new generation of so-called 'fast battleships' would assume that task, these designs instead focused on extreme, unprecedented, armour protection. Advanced 16 inch guns could equal the armour penetration of 18 inches, while being less expensive. .Drawing lessons from the navies possessing heavy ordinance most of these designs were armed with those types of advanced 16 inch guns, or equivalents, normally arranged in five triple turrets."
+dreadnought_3:0 "Advanced Dreadnought"
 dreadnought_3_desc:0 "Even as most navies, with varying degrees of reluctance and dismay, were forced to concede the ascendancy of carriers over traditional gun warships, some naval designers still dreamed of creating the 'ultimate battleship'. Girded in nearly impenetrable armour, bristling with anti-aircraft batteries, and armed with six triple 16 inch turrets or equivalent extreme armament, these designs represented the very pinnacle of heavy warship design. Conceived in the twilight of the age of gun warships, these designs were seen as obsolete even before their drafting was completed, mainly by the advocates of ascendant airpower."
-#Carriers
+
+### Carriers ###
+
 carrier_1:0 "Experimental Carrier"
-carrier_1_desc:0 "Having learned from the experience of using seaplane tenders, those navies with the resources to do so began work on the next generation of ships that could carry aircraft at sea. Unlike their predecessors, these carriers were designed with flight decks to allow for aircraft to both fly off of them and to then return and land on them. Converted from civilian ships and seaplane tenders, most of these ships were limited by having relatively cramped flight decks and hangars, but they definitely demonstrated that ships were capable of effectively operating air complements at sea.""
+carrier_1_desc:0 "Having learned from the experience of using seaplane tenders, those navies with the resources to do so began work on the next generation of ships that could carry aircraft at sea. Unlike their predecessors, these carriers were designed with flight decks to allow for aircraft to both fly off of them and to then return and land on them. Converted from civilian ships and seaplane tenders, most of these ships were limited by having relatively cramped flight decks and hangars, but they definitely demonstrated that ships were capable of effectively operating air complements at sea."
 carrier_2:0 "Improved Carrier"
-carrier_2_desc:0 "Developed in the late 30s, these ships were designed to provide aerial reconnaissance and light fighter coverage for fleets primarily focused on more 'conventional' warship forces. Their range was significantly increased, and efforts were made to make them fast enough to keep up with fleets operating at full speed in open oceans.""
+carrier_2_desc:0 "Developed in the late 30s, these ships were designed to provide aerial reconnaissance and light fighter coverage for fleets primarily focused on more 'conventional' warship forces. Their range was significantly increased, and efforts were made to make them fast enough to keep up with fleets operating at full speed in open oceans."
 carrier_3:0 "Advanced Carrier"
-carrier_3_desc:0 "As major naval combat operations in the naval aviation age demonstrated the power of aircraft to seriously affect battles at sea, many powers found themselves having fallen behind in the development of their carrier forces. While fleet carriers were quickly shown to be the most potent of their kin, they were also massive ships that required a long time and large amount of resources to construct. In the rush to increase their ability to project air power into the oceans, several powers turned to designs like these, enlarged versions of the existing lighter carriers, to try to quickly bolster their naval aviation capacity.""
+carrier_3_desc:0 "As major naval combat operations in the naval aviation age demonstrated the power of aircraft to seriously affect battles at sea, many powers found themselves having fallen behind in the development of their carrier forces. While fleet carriers were quickly shown to be the most potent of their kin, they were also massive ships that required a long time and large amount of resources to construct. In the rush to increase their ability to project air power into the oceans, several powers turned to designs like these, enlarged versions of the existing lighter carriers, to try to quickly bolster their naval aviation capacity."
 carrier_4:0 "Modern Light Carrier"
-carrier_4_desc:0 "Even once the dominance of fleet carriers had become indisputable, there were many powers that could not afford such ships, and even major naval powers that needed secondary carriers to cover less important naval regions. These ships were the designs that were created to fill those needs. Much smaller than the fleet carriers, they nonetheless incorporated design innovations developed from them, to produce effective smaller carriers that had respectable aircraft capacity, fast speeds, and reasonable anti-aircraft defence batteries.""
+carrier_4_desc:0 "Even once the dominance of fleet carriers had become indisputable, there were many powers that could not afford such ships, and even major naval powers that needed secondary carriers to cover less important naval regions. These ships were the designs that were created to fill those needs. Much smaller than the fleet carriers, they nonetheless incorporated design innovations developed from them, to produce effective smaller carriers that had respectable aircraft capacity, fast speeds, and reasonable anti-aircraft defence batteries."
 heavy_carrier_1:0 "Experimental Fleet Carrier"
 heavy_carrier_1_desc:0 "The first fleet carriers designed entirely to be such, most of these ships were significantly smaller than their converted dreadnought predecessors, but, due to being intentionally centred on the requirements of naval aviation, were also far more reliable in that role. With better anti-aircraft defenses and properly designed runways, they generally carried around sixty aircraft."
 heavy_carrier_2:0 "Modern Fleet Carrier"
 heavy_carrier_2_desc:0 "Continued development of fleet carrier design led to much larger models, these ships approached the size of the first fleet carriers, while incorporating all of the design improvements made in the intervening years. Most had significant armour protection and withering AA firepower, while also being highly mechanically reliable. However, they had given up their large calibre secondary armament in exchange for dual purpose 100-127mm guns. Their general aircraft capacity was, on average, around eighty."
-#Submarines
+
+### Submarines ###
+
 submarine_1:0 "세계대전기 잠수함"
 submarine_1_desc:0 "최초의 실용적인 잠수함은 실제 해전에서 써먹을 만 했던 신무기였습니다. 극초기의 휘발유-전동 기관을 대체한 디젤-전동 기관은 획기적인 작전반경과 수상 속도의 개선을 이뤘습니다. 적 군함과의 실전에서 이들은 주로 잠수하는 소형 어뢰정으로 행동했으나, 여전히 낮은 수중 속도나 비교적으로 짧은 잠항 시간을 가졌습니다. 이 잠수함들이 세계대전에서 해군 강국에 의해 사용되었습니다."
 submarine_2:0 "개선된 잠수함"
@@ -545,14 +566,9 @@ submarine_4_desc:0 "배터리 기술의 진보로 잠수함의 함내 공기를 
 cruiser_submarine_1:0 "순양 잠수함"
 cruiser_submarine_1_desc:0 "기지에서 멀리 떨어진 원양에서도 자유롭게 활동할 수 있는 매우 큰 잠수함입니다."
 
-###???###
+### Other ###
 ship_hull_superdreadnought:0 "Dreadnought"
-ship_hull_superdreadnought_desc:0 The rapid increase of resources devoted to naval construction after the end of major land conflict during the Weltkrieg initially produced these designs, which featured the beginnings of the trends towards sudden growth in size, firepower, armour, calibre and of course, cost. Such vessels set the world's leading naval powers apart from the mere pretenders to greatness, but they had their issues; their rapid development and rushed construction led to design flaws and persistent mechanical problems. These designs were armed with eight to ten 18 inch or equivalent main guns, and had the protection to go toe-to-toe with similarly armed ships. As the Dreadnought Race reached its height, these true monsters were conceived. Far greater in size and firepower than anything that came before, their cost was staggering, and few nations could afford to even consider constructing them. Nonetheless, those that did found themselves in possession of truly mighty weapons of naval supremacy. Even more so than the generation before them, they suffered from the conditions of their conception. Rushed design work, last minute and improvised redesigns during construction, shortages of the huge amount of resources they required, immense pressure to rush construction, and the sheer size and complexity of their massive mechanisms, all led to design flaws and vulnerabilities beneath their vast armoured hides. These designs were armed with twelve to fifteen 18 inch or equivalent main guns."
+ship_hull_superdreadnought_desc:0 "The rapid increase of resources devoted to naval construction after the end of major land conflict during the Weltkrieg initially produced these designs, which featured the beginnings of the trends towards sudden growth in size, firepower, armour, calibre and of course, cost. Such vessels set the world's leading naval powers apart from the mere pretenders to greatness, but they had their issues; their rapid development and rushed construction led to design flaws and persistent mechanical problems. These designs were armed with eight to ten 18 inch or equivalent main guns, and had the protection to go toe-to-toe with similarly armed ships. As the Dreadnought Race reached its height, these true monsters were conceived. Far greater in size and firepower than anything that came before, their cost was staggering, and few nations could afford to even consider constructing them. Nonetheless, those that did found themselves in possession of truly mighty weapons of naval supremacy. Even more so than the generation before them, they suffered from the conditions of their conception. Rushed design work, last minute and improvised redesigns during construction, shortages of the huge amount of resources they required, immense pressure to rush construction, and the sheer size and complexity of their massive mechanisms, all led to design flaws and vulnerabilities beneath their vast armoured hides. These designs were armed with twelve to fifteen 18 inch or equivalent main guns."
+modifier_experience_gain_SH_battleship_training_factor:0 "0"
+modifier_experience_gain_SH_battleship_combat_factor:0 "0"
 
-### Transports ###
-transport_n:0 "수송선"
-transport_n_desc:0 "방어 장치가 달려있지 않은 군대 수송용 함선입니다."
-landing_craft_n:0 "상륙주정"
-landing_craft_n_desc:0 " 침투 전용 상륙주정은 적대적인 지역에 상륙할때의 어려움을 약간 줄여 줄 것입니다."
-tank_landing_craft_n:0 "진보된 상륙주정"
-tank_landing_craft_n_desc:0 "진보된 상륙주정은 우리 군인들이 침입할때 더 빠르고 효과적으로 해변에 갈 수 있게 해 줄 것입니다."
