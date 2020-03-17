@@ -76,11 +76,8 @@ HUN_transylvanian_demonstrations:0 "트란실바니아 독립 운동"
 
 AUS_paid_reparations:0 "헝가리의 전쟁 배상금"
 
-AUS_vienna_circle:0 "빈 학파"
-AUS_vienna_circle_desc:0 "빈 학파는 1924년 이래 빈 대학교에서 정기적으로 만난 자연 및 사회 과학, 논리 및 수학에서 파생 된 철학자 및 과학자 그룹입니다. \n\n 그들의 활동 뒤에 숨겨진 핵심 원칙은 "종말의 끝에 대한 정확한 사고("Exact Thinking on the Edge of Doom")"입니다."
-
-AUS_vienna_circle-1:0 "빈 학파"
-AUS_vienna_circle-1_desc:0 "빈 학파는 1924년 이래 빈 대학교에서 정기적으로 만난 자연 및 사회 과학, 논리 및 수학에서 파생 된 철학자 및 과학자 그룹입니다. \n\n 그들의 활동 뒤에 숨겨진 핵심 원칙은 "종말의 끝에 대한 정확한 사고("Exact Thinking on the Edge of Doom")"입니다."
+AUS_vienna_circle:0 "The Vienna Circle"
+AUS_vienna_circle_desc:0 "The Vienna Circle is a group of philosophers and scientists, drawn from the natural and social sciences, logic and mathematics, who have met regularly at the University of Vienna since 1924.\n\nThe central thought behind their activities was "Exact Thinking on the Edge of Doom"."
 
 austrian_research_name:0 "빈 학파"
 austrian_research_desc:0 "빈 학파는 1924년 이래 빈 대학교에서 정기적으로 만난 자연 및 사회 과학, 논리 및 수학에서 파생 된 철학자 및 과학자 그룹입니다. \n\n 그들의 활동 뒤에 숨겨진 핵심 원칙은 "종말의 끝에 대한 정확한 사고(Exact Thinking on the Edge of Doom)"입니다."
@@ -89,9 +86,6 @@ AUS_socialist_promises:0 "사회주의자들의 약속"
 
 AUS_divided_society:0 "분열된 사회"
 AUS_divided_society_desc:0 "인구의 거의 절반이 선거 결과에 만족하지 않고 있습니다."
-
-AUS_ausgleich_success:0 "7차 대타협의 성공"
-AUS_ausgleich_failure:0 "7차 대타협의 실패"
 
 AUS_black_monday:0 "검은 월요일의 여파"
 AUS_black_monday_cs-1:0 "검은 월요일의 여파"
@@ -105,12 +99,6 @@ AUS_black_monday_sdap-3:0 "검은 월요일의 여파"
 AUS_workers_spirit:0 "노동자의 영혼"
 
 AUS_imperial_development_scheme:0 "제국 개발 계획"
-
-AUS_eco_strong:0 "산업 발전"
-AUS_eco_strong_desc:0 "이제 우리는 마침내 검은 월요일의 여파를 벗어던졌고 우리의 경제는 점점 더 빠르게 성장하고 있습니다."
-
-AUS_invest_in_eco:0 "제국 경제장관"
-AUS_invest_in_eco_desc:0 "검은 월요일로 인한 최근의 사건들로 인해 오스트리아-헝가리는 우리의 왕국을 위한 일련의 개혁을 단행하였습니다.이 개혁은 제국 경제 장관에 의해 수행되었습니다."
 
 AUS_kaiser_faith:0 "황제에 대한 믿음"
 AUS_kaiser_faith_desc:0 "사람들은 새로운 제국을 신뢰하게 되었습니다. 신께서는 황제 폐하를 수호하소서!"
@@ -128,15 +116,6 @@ AUS_DNF_political_instability-2:0 "정치적 불안정"
 AUS_DNF_political_instability-2_desc:0 "국가 개인 자치 원칙이 자리를 잡고 있습니다. 오스트리아의 많은 민족들은 현재의 정치적 혼란을 배경으로 민족 정당을 재조직화하고 있습니다. 그런 급진적인 변화는 많은 불안정을 가져왔지만 회의론자들조차도 그렇게 나쁘지는 않을 것이라고 예상했습니다."
 
 AUS_modern_army:0 "현대화된 군대"
-Pola_Naval_Mutiny:0 "폴라의 해군 반란"
-
-Industrial_Reorganisation_AHE:0 "산업 재구성"
-Industrial_Reorganisation_DNF:0 "산업 재구성"
-
-AUS_racial_tensions:0 "민족간 갈등"
-AUS_racial_tensions_desc:0 "새로 태어난 오스트리아 제국에서 민족간 갈등이 고조되고 있습니다. 이러한 긴장을 통제하지 않으면 심각한 문제가 될 수 있습니다."
-AUS_racial_revolts:0 "민족간 반란"
-AUS_racial_revolts_desc:0 "민족간 갈등이 확대되고 공개 반란을 모의했습니다. 오스트리아의 암울한 시기입니다.."
 
 AUS_SLOintegration:0 "슬로베니아 통합"
 AUS_SLOintegration_desc:0 "많은 슬로베니아인들은 독일 민족이고 합스부르크의 오랜 유산이 슬로베니아 영토에 대한 오스트리아 정부의 신속한 통제를 가능하게 했지만, 많은 슬로베니아 인이 느끼는 것은 새로운 통치자 그 이상입니다."
