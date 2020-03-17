@@ -74,8 +74,12 @@ SIA_Centralized_Police_idea:0 "중앙화된 경찰 지휘부"
 SIA_Centralized_Police_idea_desc:0 "With the Royal Siamese Police command now under the direct control of the Prime Minister more funding has been diverted towards the organisation to increase its effectiveness."
 SIA_SDSI_idea:0 "시암 비밀 정보국(SDSI)"
 SIA_SDSI_idea_desc:0 "SDSI stands for the \"Siam Department of Secret Intelligence\", an organisation that is in charge of protecting our domestic and international interests."
+SIA_SDSI_lar_idea:0 "SDSI"
+SIA_SDSI_lar_idea_desc:0 "SDSI stands for the \"Siam Department of Secret Intelligence\", is in charge of protecting our interests both domestic and abroad."
 SIA_IndNat_Income:0 "시암의 배상금"
 SIA_IndNat_Income_desc:0 "Premier Plaek Phibunsongkhram has offered monetary compensation for the seizure of our industrial assets in Siam."
+SIA_faltering_political_movement_idea:0 "Faltering Political Movement"
+SIA_faltering_political_movement_idea_desc:0 "With each passing day, our political movement becomes more and more unpopular with our people. We are on the losing side of the civil war."
 SIA_SocDem_1:0 "사민주의 개혁"
 SIA_SocDem_2:0 "사민주의 개혁"
 SIA_SocDem_3:0 "사민주의 개혁"
@@ -153,7 +157,7 @@ SIA_yes_civil_war:0 "An open rebellion has taken place in our nation."
 SIA_CONSTITUTION_GIVEN_SYNDIE:0 "Hardline socialists now take control of the country"
 SIA_post_war_reconstruction:0 "Post-Civil War Reconstruction"
 SIA_began_factory_seizure:0 "Nationalionalization of Foreign Industries"
-SIA_began_factory_seizure:0 "We will begin the "National Industrialisation" on a case-by-case basis in order to avoid an international crisis. However failing to seize any factories at all could hurt our reputation at home and be seen as cowardice."
+SIA_began_factory_seizure_tt:0 "We will begin the "National Industrialisation" on a case-by-case basis in order to avoid an international crisis. However failing to seize any factories at all could hurt our reputation at home and be seen as cowardice."
 SIA_PHAO_RULES:0 "Phao Sriyanond has won the power struggle over Pak Seri Managkhasila's leadership"
 SIA_SARIT_RULES:0 "Sarit Thanarat has won the power struggle over Pak Seri Managkhasila's leadership"
 SIA_purge_tt:0 "This will thoroughly purge those officers who held rebel sympathies and will result in the loss of talented commanders.\n\n"
@@ -578,7 +582,7 @@ siamn.63.d:0 "Being cut off from the mainland and left to their own devices, bot
 siamn.63.a:0 "Send our 'compliments' to the Germans."
 siamn.63.b:0 "Who cares about them anyway?"
 
-s0amn.64.t:0 "차오 프라야의 일몰"
+siamn.64.t:0 "차오 프라야의 일몰"
 siamn.64.d:0 "Another bestseller written by 'Thomayanti'. Khu-gaam is a tragic love story story between a Thai girl Angsumalin, a Pak Sahachip member under the Pseudonym of Pichit Na Sukothai, and a German captain by the name of Karl von Staffener, a lowly German aristocrat in the service of the Kaiserliche Marine, German East Asia Singapurflotte Kommand.\n\nThe story escalates during both the Thamrongnawasawat Rebellion and the Indochinese Rebellion, where their fateful meeting and departure happens, with the climax set during an unexpected coup d'etat by Phin Choonhavan in 1942."
 siamn.64.a:0 "So that's where the 'Adalheida' craze came from..."
 
@@ -962,6 +966,10 @@ SIA_Electrification_2_desc:0 "Due to the rapid growth of electricity demand from
 
 # Diplomatic Matters
 SIA_diplomatic_matters_category:0 "Diplomatic Matters"
+
+# Siamese Civil War
+SIA_civil_war_category:0 "Siamese Civil War"
+SIA_secure_bangkok:0 "Secure Bangkok"
 
 #Cosmetic Tags
 THI_national_populist:0 "타이 왕국"
