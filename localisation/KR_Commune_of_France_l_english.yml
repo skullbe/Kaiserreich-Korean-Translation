@@ -235,11 +235,10 @@ FRA2_FOR_TRAV:0 "1941년 선거에서의 생디칼리스트 외교 정책"
 FRA2_FOR_ANAR:0 "1941년 선거에서의 아나키스트 외교 정책"
 FRA2_FOR_JACO:0 "1941년 선거에서의 자코뱅 외교 정책"
 FRA2_FOR_SORE:0 "1941년 선거에서의 소렐리안 외교 정책"
-damocles_refused:0 "영구히 다모클레스 프로젝트를 거부하다."
-FRA_damocles_tooltip:0 "§Y2x§! §G50%§! 기술 보너스: §Y핵 기술§! (영국이 받아들일시)\n"
+damocles_refused:0 "브리튼이 다모클레스 프로젝트를 거부하다."
+FRA_damocles_tooltip:0 "§Y2x§! §G50%§! 기술 보너스: §Y핵 기술§! (브리튼이 받아들일시)\n"
 FRA_War_with_austria_tooltip:0 "§Y베네토§!, §Y오버바이에른§!또는 §Y도이치쥐트메렌§!을 직접 통제하거나 괴뢰국화 시키거나 동맹이 통제하게함"
 FRA_revolution_paths_tooltip:0 "§Y빈§!, §Y로마§!, §Y마드리드§! 그리고 §Y부다페스트§!를  직접 통제하거나 괴뢰국화 시키거나 동맹이 통제하게함\n"
-FRA_will_get_bypassed_tooltip:0 "§Y이 중점은 해당 이벤트가 발생할 때 통과될 것입니다.§!\n"
 FRA_end_first_congress_flag:0 "1차 인터내셔널 회의가 끝나다.\n"
 inauguration_second_congress:0 "2차 인터내셔널 회의가 열리다.\n"
 FRA_mission_bharitya_flag:0 "바라티야 코뮌에서의 군사 임무 수행에 동의하다.\n"
@@ -588,7 +587,7 @@ comfrance.23.a:0 "무기를 들어라, 시민들이여!"
 
 comfrance.24.a:0 "무기를 들어라, 시민들이여!"
 
-comfrance.25.t:0 "다모클레스 프로젝트"
+comfrance.25.t:0 "다모클레스 프로젝트?"
 comfrance.25.d:0 "1937년 5월 2차 인터내셔널 회의 도중 열렸던 케임브리지 회의에서 영감을 얻어, 케임브리지 대학에서 지난 몇 주간 또 하나의 비밀 재결합이 있었습니다. \n\n노만 페더, 프레데리크 졸리오퀴리 및 프랑시스 페랭이 이끄는 영국과 프랑스의 이론 물리학자 그룹은 전기 발전 및 의료 응용에서 강력한 전략 무기에 이르는 방사능 및 핵분열의 용도에 대해 논의하고 있습니다. 참가자들은 핵 연구를위한 영국 - 프랑스 합동위원회 인 '다모클레스 프로젝트' 설립을 위한 자금을 요청하고 있습니다."
 comfrance.25.a:0 "다모클레스 프로젝트를 창설하자!"
 comfrance.25.b:0 "이딴 것에 돈낭비할 수 없다!"
@@ -822,7 +821,7 @@ comfrance.86.t:0 "제2차 인터내셔널 회의 개막"
 comfrance.86.d:0 "모든 대표단이 런던에 모였고, 제2차 인터내셔널 회의가 에릭 블레어 동지의 연설로 막을 열었습니다. 그는 이른바 '칼과 방패의 연설'에서, 전 세계의 반동분자들을 완전히 파괴할 수 있는 무기인 '다모클레스'를 만들기 위한 노력을 배가해야 할 필요성을 역설했습니다."
 comfrance.86.a:0 "브라보, 블레어 동지!"
 
-comfrance.87.t:0 "둘째 날- 아메리카 문제"
+comfrance.87.t:0 "둘째 날 - 아메리카 문제"
 comfrance.87.d:0 "둘째 날, 대표단은 가장 시급한 문제인 미국 내전 문제에 대해 논의했습니다. 롱과 연방정부가 미노조연합을 수세로 몰아붙이는 가운데, 대표단은 리드와 그의 추종자들을 위해 추가 지원을 보내기로 결정했습니다."
 comfrance.87.a:0 "자원과 무기, 산업 기계를 보내자."
 comfrance.87.b:0 "정예 전투기 대대를 보내자."
@@ -998,7 +997,7 @@ comfrance.130.b:0 "우리 스스로가 개혁할 수 있다."
 
 comfrance.131.t:0 "Restructuring of the BGT and CSP"
 comfrance.131.d:0 "The Syndicalist structures of post-revolution France are being transformed so as to better comply with true Marxism as laid out by the Parti Communiste Français. The Bourse Générale du Travail has been reformed as the Congrès des Députés du Peuple while the Comité de Salut Public has been replaced by the Conseil des Commissaires du Peuple."
-comfrance.131.a:0 "큰 발전이다."
+comfrance.131.a:0 "An improvement, no doubt."
 
 comfrance.132.t:0 "노동 총동맹(CGT) 해체"
 comfrance.132.d:0 "우리는 마침내 코뮌 권력을 오랫동안 장악해 왔던 프랑스 생디칼리슴의 마지막 기둥인 노동총동맹(CGT)에 눈을 돌릴 수 있게 되었습니다. 우리는 그들의 권력을 빼앗을 것이며 그들이 우리에게 다시는 저항하지 못하게 할 것입니다."
@@ -1169,10 +1168,15 @@ comfrance.167.d:0 "저 망할 놈들이 우리의 중립을 침해했습니다! 
 comfrance.167.a:0 "어서 베를린을 연결해라!"
 comfrance.167.b:0 "우리는 혼자 싸울 것이다!"
 
-comfrance.168.t:0 "이탈리아에 대한 프랑스의 개입"
-comfrance.168.d:0 "[FRA.GetNameDef]는 이탈리아 내전 종식 후 반도에 유지되어 오던 불안정한 균형을 무시하고 이탈리아에 개입하려 준비하고 있습니다. 이는 우리 또한 그곳에 개입해야 할지도 모른다는 것을 의미합니다. 생디칼리스트들이 이탈리아를 장악하게 놔둬야 할까요, 아니면 개입해야 할까요?"
-comfrance.168.a:0 "저놈들이 먼저 시작한 전쟁이다!"
-comfrance.168.b:0 "그들의 운명에 맡기자."
+comfrance.168.t:0 "An Invitation"
+comfrance.168.d:0 "Now that all bets are off regarding the so-called 'balance' in Italy, [From.GetNameDef] has extended a formal invitation for [SRI.GetNameDef] to join the ranks of the Third Internationale."
+comfrance.168.a:0 "At last!"
+comfrance.168.b:0 "On second thought, no..."
+
+comfrance.169.t:0 "The [From.GetAdjective] Request"
+comfrance.169.d:0 "Now that all bets are off regarding the so-called 'balance' in Italy, [From.GetNameDef] has made a formal request to join the ranks of the Third Internationale."
+comfrance.169.a:0 "At last!"
+comfrance.169.b:0 "On second thought, no..."
 
 ###  Decisions  ###
 
@@ -1229,15 +1233,14 @@ FRA_Develop_South_America_desc:0 "우리의 [FROM.GetAdjective] 동지들이 팔
 FRA_help_CNT:0 "CNT-FAI 지원"
 FRA_help_CNT_desc:0 "CNT가 벼랑 끝에 서 있습니다. 우리의 남부 국경의 안전을 위해 스페인을 확보해야 합니다."
 
-FRA_help_SOV:0 "소비에트 지원"
-FRA_help_SOV_desc:0 "러시아의 첫 위대한 사회주의 혁명은 실패로 끝났지만 다시금 새로운 혁명이 일어났습니다. 우리는 거대한 곰 러시아를 충실한 우리의 동맹으로 만들 기회를 날려버려선 안됩니다. 소비에트에 지원을 보냅시다."
+FRA_help_SOV:0 "Support the Russians"
+FRA_help_SOV_desc:0 "The first great socialist revolution in Russia ended in failure but a new revolt has broken out. We must not squander this opportunity to transform the great Russian Bear of reaction into a staunch ally. Let us lend the Russians our support."
 
 FRA_help_south_america:0 "우리의 [FROM.GetAdjective] 형제를 돕자"
 FRA_help_south_america_desc:0 "제2차 인터내셔널 회의 기간 동안 우리는 남아메리카의 동지들이 그들의 국가를 발전시키고 아르헨티나 반동주의자들을 물리칠 수 있도록 돕겠다고 약속했습니다. 우리는 그들의 승리와 아메리카 전역의 자유를 위해 어떠한 비용도 아끼지 않을 것입니다. 우리 동지들을 위해 아낌없이 지원해 줍시다!"
 
-FRA_intervene_in_SRI:0 "이탈리아 개입"
-FRA_intervene_in_SRI_desc:0 "아직 우리는 [SRI.GetNameDef]의 전쟁에 개입할 수 없습니다. 만일 우리가 개입하면, 독일이나 오스트리아가 개입할 것이고, 또다른 세계대전이 시작될 것입니다. 그런데, 이게 과연 문제가 될까요?"
-FRA_can_intervene_SRI:0 "§Y우리는 이제 [SRI.GetNameDef]의 전쟁에 개입할 수 있습니다.§!\n"
+FRA_invite_SRI_to_intl:0 "Invite [From.GetNameDef] into the Third Internationale"
+FRA_invite_SRI_to_intl_desc:0 "Both Germany and Austria are leery of a formal alliance being created between the Third Internationale and [From.GetNameDef], whereby our forces would be called in to help [From.GetNameDef] reunite Italy under syndicalist rule. Should any major power become involved in the region, however, or should we find ourselves at war with [GER.GetNameDef] once again, then all bets are off."
 
 FRA_Sabotage:0 "Initiate Sabotage in [From.GetNameDef]"
 FRA_Sabotage_desc:0 "[FRA_sabotage_decision_desc]"
