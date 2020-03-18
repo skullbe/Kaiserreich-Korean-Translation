@@ -369,12 +369,12 @@ sic.5.d:0 "나폴리 대주교인 Alessio Ascalesi는 정부의 사회보수주�
 sic.5.a:0 "신이시여 왕국을 보우하소서"
 
 sic.6.t:0 "자유 연정"
-sic.6.d:0 "Since the founding of the Kingdom of the Two Sicilies, parliamentary power has been contested primarily by the Social Conservatives and the Social Liberals. However, with the rise of the Far Right and the creation of the Integralist Paramilitary force, the Partito Liberale and the Partito Popolare Democratico have agreed to form a coalition. This liberal pact is dedicated to preserving and strengthening liberal values within the Kingdom.\n\nThe creation of this alliance, however, weakens the Social Conservative party, for in the past the Partito Librale tended to support the Partito Democratico Cristiano. For the liberals though there is hope that this new coalition will keep the torch of liberalism strong within the Kingdom of the Two Sicilies."
+sic.6.d:0 "양시칠리아 왕국이 건국된 이래로 주로 사회보수주의와 사회자유주의가 의회 권력을 두고 경쟁해 왔습니다. 그러나 극우파가 부상하고 통일주의 세력이 준군사세력을 창설하면서 자유당과 인민민주당이 연정을 구성하기로 합의했습니다. 이 자유주의 연정은 왕국 내에서 자유주의적 가치를 보존하고 강화하는데 중점을 둡니다.\n\n하지만 과거에 자유당이 기독민주당을 지원했었기 때문에, 연정이 결성되면서 사회보수주의 정당이 약화하는 결과를 가져오기도 했습니다. 자유주의자들은 이번에 결성된 새로운 정치적 연합이 양시칠리아 왕국 내에서 자유주의의 강력한 횃불을 강인하게 지켜내리라는 희망을 품고 있습니다."
 sic.6.a:0 "자유주의의 불꽃은 꺼지지 않는다"
 sic.6.b:0 "새로운 연정이 반대파를 부활시킬 것이다"
 
 sic.7.t:0 "좌파와 우파의 대립"
-sic.7.d:0 "A rally by the Confederazione Generale Siciliana del Lavoro or the 'Sicilian General Confederation of Labor' for the ruling Partito Democratico Cristiano was disrupted when members of the Camicie Nere disrupted their rally. This disruption quickly turned into a bloody battle that left quite a few injured, and even worse a few fatalities on both sides. While the CGSL has forsworn syndicalism, the Camicie Nere have been lately decrying their members as agents to the Socialist Republic in the North.\n\nNow the outcome of this particular case must be decided. Are these members innocent, or do the words of the Camicie Nere hold merit and truth? Many conservatives are siding with the Camicie Nere, declaring that they are traitors to the Kingdom, while some of the Liberals claim that they are innocent."
+sic.7.d:0 "콘페데라치오네 제네랄레 시칠리아나 델 라보로, 그러니까 시칠리아노동총연맹이 집권 여당 기독민주당을 위해 집회를 열었습니다. 하지만 도중에 검은 셔츠단의 방해로 인해 전면 중단되었습니다. 양측 사이의 혼란은 순식간에 피비린내나는 전투로 비화하여 많은 부상자와 심지어 일부 사망자까지 나오는 상황에 이르렀습니다. 시칠리아노동총연맹이 최근 생디칼리즘 사상을 포기했음에도 불구하고 검은 셔츠단은 여전히 그들이 북쪽 사회주의 공화국의 간첩이라고 비난하고 있습니다.\n\n이제 이 사태의 결과를 결정해야만 합니다. 시칠리아노동총연맹 참가자들이 결백한 피해자인걸까요, 아니면 검은 셔츠단의 주장이 일말의 진실을 품고 있는 것일까요? 수많은 보수주의자들이 시칠리아노동총연맹이 왕국의 반역자라고 선언하면서 검은 셔츠단의 편에 서는 반면에, 자유주의 진영 일각에서는 그들이 결백하다고 주장하는 중입니다."
 sic.7.a:0 "연합 당사자들은 순결하다"
 sic.7.b:0 "그들은 불충한 반역자들이다."
 
@@ -406,13 +406,13 @@ sic.21.d:0 "통일주의자들이 처음으로 통과시킨 법안은 귀족을 
 sic.21.a:0 "귀족들의 시대가 돌아왔다"
 
 sic.22.t:0 "[GetYear]년 노조법"
-sic.22.d:0 "The issue of Trade Unions must be dealt with and two proposals have been discussed lately. The first would outlaw and criminalise the Unions altogether. The second would force the trade unions into a single union that would be controlled by the government and be strictly non-socialist."
-sic.22.a:0 "Outlaw Unions all together"
-sic.22.b:0 "Force them into a controlled state Union"
+sic.22.d:0 "노동조합 문제를 반드시 처리해야만 합니다. 최근 두 가지 안건을 두고 논의하는 중입니다. 첫번째 안건은 노동조합을 완전히 불법화하고 범죄집단화하는 겁니다. 두번째 안건은 정부가 엄격이 통제하는 비사회주의성향 노동조합만을 강요하는 겁니다."
+sic.22.a:0 "모든 노동조합을 불법화해라"
+sic.22.b:0 "국가의 통제를 받는 노동조합을 강제해라"
 
 sic.23.t:0 "가톨릭 레크리에이션"
-sic.23.d:0 "As part of our new political plan, a program of Catholic-oriented recreation has been created. The program has the local churches sponsoring recreational activities, intertwining support for the Integralist ideology. Such a policy has become rather popular and increases support for our other policies, with the welcome side-benefit of higher church attendance."
-sic.23.a:0 "The beauty of God's work"
+sic.23.d:0 "새로운 정치 계획의 일환으로 가톨릭 중심의 레크리에이션 프로그램이 입안되었습니다. 지역 교회들이 후원하는 해당 레크리에이션 프로그램은 통합주의 사상과 밀접한 연관이 있습니다. 이런 정책으로 인해 인기가 커졌고, 교회 출석률 상승이라는 환영할 만한 부수적인 효과를 가져오면서 다른 정부 정책에 대한 지지율도 덩달아 증가했습니다."
+sic.23.a:0 "하나님이 하시는 일은 아름답도다"
 
 sic.24.t:0 "의회 해산에 반대하는 시위자들"
 sic.24.d:0 "많은 수의 시위자들이 의회 해산에 반대하는 시위를 벌이고 있습니다. 이들 중 많은 이들이 시위를 이끄는 기독민주당 사람입니다. 이 문제를 해결하기 위해 세가지 방법이 제시되었습니다.\n\n첫번째 방법은 지칠때까지 소리치게 하는 것입니다. 두번째 방법은 억류한 다음 입을 다물게 하는 것입니다. 세번째는 검은 셔츠단이 알아서 처리하게 하는 것입니다."
@@ -421,7 +421,7 @@ sic.24.b:0 "모두 체포해라"
 sic.24.c:0 "검은 셔츠단이 저들과 협상하게 만들자"
 
 sic.25.t:0 "검은 셔츠단 통합?"
-sic.25.d:0 "With our control of the country secure, the question is how the Black Shirts should be dealt with. Some want to see them integrated into the secret police, while others think that keeping them as a separate organisation will be best."
+sic.25.d:0 "우리가 국가 통제권을 손에 넣었으니, 이제 검은 셔츠단을 어떻게 다루어야 하냐는 문제가 제기되었습니다. 일각에서는 검은 셔츠단을 비밀 경찰에 통합시키기를 원하지만, 다른 이들은 두 집단을 별도의 조직으로 유지하는 방향이 최선이라고 주장합니다."
 sic.25.a:0 "통합하자"
 sic.25.b:0 "준군사조직으로 계속 유지하라"
 
