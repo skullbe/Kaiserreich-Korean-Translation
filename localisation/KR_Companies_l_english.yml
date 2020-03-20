@@ -189,13 +189,13 @@ UMSA:0 "산 안드레스 대학교"
 FCAB:0 "안토파가스타 철도"
 
 ### Bosnia ###
-aluminij:0 "Aluminij"
-univerzitet_u_sarajevu:0 "Univerzitet u Sarajevu"
-energopetrol:0 "Energopetrol"
-bnt_tvornica:0 "BNT Tvornica"
+aluminij:0 "알루미니"
+univerzitet_u_sarajevu:0 "사라예보 대학교"
+energopetrol:0 "에네르고페트롤"
+bnt_tvornica:0 "BNT 트보르니카"
 igman:0 "IGMAN"
-bosanske_drzave_zeljeznice:0 "Bosanske Drzave Zeljeznice"
-aviatik_bosnia:0 "Aviatik Bosnia"
+bosanske_drzave_zeljeznice:0 "보스니아 철도공사"
+aviatik_bosnia:0 "보스니아 항공"
 ganz_danubius_bosnia:0 "간츠 다누비우스"
 
 ### Brazil ###
@@ -211,11 +211,11 @@ estrada_ferro_central_brasil:0 "중앙 브라질 철도"
 
 ### Bulgaria ###
 bdz:0 "BDZ"
-su_kliment_ohridski:0 "SU Kliment Ohridski"
+su_kliment_ohridski:0 "성 클리멘드 오흐리드스키의 소피아 대학교"
 petrol_ad:0 "페트롤 AD"
 vmz_sopot:0 "VMZ Sopot"
-darzhavna_voenna_fabrika:0 "Darzhavna Voenna Fabrika"
-darzhavna_aeroplanna_rabotilnitsa:0 "Darzhavna Aeroplanna Rabotilnitsa"
+darzhavna_voenna_fabrika:0 "국영 조병창"
+darzhavna_aeroplanna_rabotilnitsa:0 "국영 항공창"
 kaproni_bulgarski:0 "카프로니 불가스키"
 
 ### Canada ###
@@ -371,13 +371,13 @@ fcm:0 "FCM"
 
 ### Croatia ###
 ganz_kroatien_slawonien:0 "간츠 크로아티엔-슬라보니엔"
-koncar_elektroindustrija:0 "Končar Elektroindustrija"
+koncar_elektroindustrija:0 "콘차전기산업"
 ina:0 "INA"
-prva_hrvatska_tvornica_rublja:0 "Prva Hrvatska Tvornica Rublja"
+prva_hrvatska_tvornica_rublja:0 "제일크로아티아석유공장"
 taz:0 "TAZ"
-tzv_gredelj:0 "TŽV Gredelj"
-aviatik_kroatien_slawonien:0 "Aviatik Kroatien-Slawonien"
-brodosplit:0 "Brodosplit"
+tzv_gredelj:0 "TŽV 그레델리"
+aviatik_kroatien_slawonien:0 "크로아티아-슬라보니아 항공"
+brodosplit:0 "브로도스플리트"
 
 ### Cuba ###
 havanashipyard:0 "아바나 조선소"
@@ -385,9 +385,9 @@ Waco_Aircraft_Company:0 "WACO 항공사"
 Waco_Aircraft_Company_desc:0 "쿠바 조종사들 사이에서 극찬을 받은 복엽기의 제조사인, 오하이오에 본사가 있는 WACO 항공사가 파산하자, 국내에 규모있는 항공기 제조사가 없는 쿠바 정부는 1931년에 WACO를 인수했고 모든 설계부서를 쿠바로 옮기게 했습니다."
 
 ### Denmark ###
-atlas_maskinfabrik:0 "Atlas Maskinfabrik AS"
-bang_olufsen:0 "Bang & Olufsen"
-novo_lab:0 "Novo Terapeutisk Laboratorium"
+atlas_maskinfabrik:0 "아틀라스 공작기계 AS"
+bang_olufsen:0 "방 & 올루프센"
+novo_lab:0 "노보 의료 연구소"
 disa:0 "Dansk Industri Syndikat"
 forenede_automobilfabriker:0 "De Forenede Automobilfabriker"
 frichs_maskinfabrik:0 "Frichs Maskinfabrik"
