@@ -1,4 +1,4 @@
-version="1.8"
+version="1.9"
 name="Kaiserreich Korean"
 path="C:/Users/memor/Documents/Paradox Interactive/Hearts of Iron IV/mod/krkorean"
 dependencies={
@@ -10,5 +10,5 @@ tags={
 	"Translation"
 }
 picture="kreich.png"
-supported_version="1.8.*"
+supported_version="1.9.*"
 remote_file_id="1972234971"
