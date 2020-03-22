@@ -1,6 +1,6 @@
 ﻿l_english:
 
-Xinjiang_Clique:0 "신강 군벌 중점계통도"
+Xinjiang_Clique:0 "신강군벌 중점계통도"
 
 #### Parties ###
 SIK_totalist_party:0 "청년 투르케스탄당"
@@ -184,14 +184,14 @@ SIK_assassinate_damulla_category_desc:0 "Sabit Damulla currently leads a coaliti
 SIK_assassinate_sabit_damulla_decision:0 "계획"
 
 ### Events ###
-xin.0.t:0 "신강 군벌 소개"
+xin.0.t:0 "신강군벌 소개"
 xin.0.desc:0 "중국의 신강성은 오늘날까지 끊임없이 불안의 속삭임에 고통받고 있기때문에 서북부의 많은 지역들과 마찬가지로 파괴적인 역사를 가지고 있습니다. 신해혁명의 여파는 위구르 인들에 의해 반생하고 있던 혼란보다 중앙아시아에 거주하고 있던 중국인들에 의해 발생한 것이 더 많습니다. 최근의 도지사인 완두화는 이 사태를 전혀 수습하지 못했고, 그의 지역을 떠나 그의 신임 고문인 양쩡신에게 위임한뒤 떠났습니다.\n\n 신강은 약싹바른 거래와 폭압적인 정책을 통해 20년간 통지를 유지해 왔습니다. 양씨 자신은 매우 편집증적인 사람으로 신강에 거주하는 위구르 인들은 한계까지 억압하여 봉기를 예방하기 위한 모든 조치들을 취하고 있습니다. 1936년까지, 그는 그의 저택에만 머무르며 그의 몇명의 신하중 한명이 시도 했던 암살에대한 두려움 때문에 좀처럼 나오지 않는 외딴 영혼입니다. 대부분의 임무는 그의 강력한 조언가인 진슈렌, 마샤오우, 판 야오난의 사이에서 처리됩니다. 세사람의 의견이 합치하여 일상 업무를 처리하면서 가끔 양지사의 지시를 받습니다. 현재로선 신강내의 현상유지는 되지만 양씨의 운둔이 갈수록 심해지면서 무슨일이 일어날 수도 있습니다."
 xin.0.a:0 "양쩡신이시여 장수하고 번창하시길"
-xin.0.b:0 "쿠물칸국이 뭔데?"
+xin.0.b:0 "쿠물 칸국이 뭔데?"
 xin.0.c:0 "위구르인들?"
 
 xin.1.t:0 "신강과 쿠물 칸국"
-xin.1.desc:0 "쿠물칸국은 공식적으로 신강 내에 있는 청의 보호국으로서 신강 안정의 큰 요인입니다. 현재 나스르 샤에의해 통치되고 있는 칸국은 신강 지자체에 매년 공물을 보내야 하는 것 외에 신강 군벌에는 아무런 도움을 주지 않습니다. 그럼에도 중요한 이유는, 현재 사람들은 쿠물칸국이 자치권을 가지고 있는 것은 신강내에서의 긴장이 폭발하는 것을 막는 유일한 것으로 보고 있는데, 이는 사람들이 현재 칸국의 지배자 나스르 샤를 좋아하지 않지만 지방내에서의 위구르인들의 자치를 어느정도 보여주고는 있기 때문입니다. 그 존재는 중국의 북서쪽의 안정의 열쇠이고, 오직 바보멍청이만이 그 존재를 가지고 장난을 치려 할것입니다."
+xin.1.desc:0 "쿠물 칸국은 공식적으로 신강 내에 있는 청의 보호국으로서 신강 안정의 큰 요인입니다. 현재 나스르 샤에의해 통치되고 있는 칸국은 신강 지자체에 매년 공물을 보내야 하는 것 외에 신강군벌에는 아무런 도움을 주지 않습니다. 그럼에도 중요한 이유는, 현재 사람들은 쿠물 칸국이 자치권을 가지고 있는 것은 신강내에서의 긴장이 폭발하는 것을 막는 유일한 것으로 보고 있는데, 이는 사람들이 현재 칸국의 지배자 나스르 샤를 좋아하지 않지만 지방내에서의 위구르인들의 자치를 어느정도 보여주고는 있기 때문입니다. 그 존재는 중국의 북서쪽의 안정의 열쇠이고, 오직 바보멍청이만이 그 존재를 가지고 장난을 치려 할것입니다."
 xin.1.a:0 "이 작은놈은 확실히 뭔가..."
 xin.1.b:0 "신강의 일반적인 상황은 뭔가?"
 xin.1.c:0 "위구르인들?"
@@ -200,7 +200,7 @@ xin.2.t:0 "신강의 사람들"
 xin.2.desc:0 "많은 사람들의 대다수가 중국인이냐고 물어본다면 자신은 전혀 중국인이 아니라고 불쾌해 할것이기 때문에 신강은 중국에서도 단연 독특한 지역입니다. 가장 큰 인종집단중 하나는 위구르족으로, 신강내에서 지금까지 가장 민족주의 적이고 잘알려진 민족집단입니다. 다른 주목할만한 두개의 집단은, 먼저 40만명의 인구를 가지고 있는 북쪽의 카자흐족과 남쪽의 퉁간족으로서, 45만명의 인구를 지닌 중국의 회족의 신강버전이라 볼 수 있습니다. 퉁간족과 위구르인들은 현재 호탄의 도인이 마샤오우인이라는 것에서 말해 주듯 소수의 퉁간족이 오랫동안 요직을 장악해 왔기때문에 사이가 나쁘다고 알려져 있습니다. 위구르족과 카자흐인들은 한족과의 오랜 분리로 인해 정부내에서 큰 골칫거리로 남겨져 있으며, 과거 중국으로 부터 독립하기위해 여러번 반란을 일으킨 전적이 있습니다."
 xin.2.a:0 "그걸로 충분해, 이제 일을 시작할 시간이군."
 xin.2.b:0 "신강의 일반적인 상황은 뭔가?"
-xin.2.c:0 "쿠물칸국이 뭔데?"
+xin.2.c:0 "쿠물 칸국이 뭔데?"
 
 xin.3.t:0 "북쪽에서의 마찰"
 xin.3.desc:0 "Dzungaria, mostly occupied by both Kazakhs and Mongols has been a trouble spot for Yang's administration since its emergence, serving as a hot spot of mainly Mongolian bandits to launch raids against our people. Despite being silent for the past year, troubles within Western Mongolia under Ungern's regime has spread to Xinjiang, as these bandits have reemerged once again. We'll need to wait for Yang's response on the issue to deal with the problem, but until then they will be troublesome."
@@ -450,7 +450,7 @@ xin.110.t:0 "양 쩡신에대한 윈난에서의 보고"
 xin.110.desc:0 "Following the disappearance of Xinjiang's sage governor Yang Zengxin, reporters have flocked to Mengzi in Yunnan to get the scoop from his hometown. The townspeople of Mengzi remarked that Yang's family is still well off, and are refusing to give hints as to where Yang would have gone. Most reporters came to the conclusion that Yang had returned to his military post in Gansu, and ended their investigation there. The intrepid few with connections in Gansu, however, have reported that Yang has not been seen in Gansu, but traces of his gold bullion have shown up in the hands of trade merchants in Yunnan. Although there is no solid proof as of yet, it appears that Yang could either have been robbed or is living incognito."
 xin.110.a:0 "좋은 미스터리구만"
 
-xin.111.t:0 "신강 군벌이 전쟁에 휩싸이다"
+xin.111.t:0 "신강군벌이 전쟁에 휩싸이다"
 xin.111.d:0 "It seems like the Western Gate between China and Central Asia has broken down into violence once again. Governor [SIK.GetLeader] 's recent dispute with Kumul has resulted in a large contigent of volunteer soldiers rising up against the army garrison. Rumors say that the Turks to the far west are also preparing to defy the Governor once again. The Governor of Xinjiang, should he remain chinese, represents a potential ally to the southern Democratic cliques. The Kumiliks, however, seem to vary greatly in between respect for Beijing to restless xenophobia. The Eastern Turks doubtlessly would seperate from China entirily should they win."
 xin.111.d_anq:0 "It seems like the Western Gate between China and Central Asia has broken down into violence once again. Governor [SIK.GetLeader] 's recent dispute with Kumul has resulted in a large contigent of volunteer soldiers rising up against the army garrison. Rumors say that the Turks to the far west are also preparing to defy the Governor once again. The Governor of Xinjiang, should he remain chinese, represents a potential ally to the southern Democratic cliques. The Kumiliks, however, seem to vary greatly in between respect for Beijing to restless xenophobia. The Eastern Turks doubtlessly would seperate from China entirily should they win."
 xin.111.d_fng:0 "It seems like the Western Gate between China and Central Asia has broken down into violence once again. Governor [SIK.GetLeader] 's recent dispute with Kumul has resulted in a large contigent of volunteer soldiers rising up against the army garrison. Rumors say that the Turks to the far west are also preparing to defy the Governor once again. The Governor of Xinjiang, should he remain chinese, represents a potential ally to the southern Democratic cliques. The Kumiliks, however, seem to vary greatly in between respect for Beijing to restless xenophobia. The Eastern Turks doubtlessly would seperate from China entirily should they win."
