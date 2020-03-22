@@ -34,20 +34,20 @@ SOV_national_populist_DEF:0 "러시아 사회주의 공화국"
 
 ### Ideas ###
 SOV_proletarian_humanism:0 "프롤레타리아 휴머니즘"
-SOV_revolutionary_vanguard:0 "혁명 전위대"
-SOV_industrial_democracy:0 "산업 민주주의"
+SOV_revolutionary_vanguard:0 "혁명전위대"
+SOV_industrial_democracy:0 "산업민주주의"
 SOV_aftermath_of_the_civil_war:0 "내전의 여파"
 SOV_gosplan:0 "소비에트 국가재건계획"
 SOV_chaotic_revolution:0 "혼돈속의 혁명"
 SOV_new_red_army:0 "새로운 붉은군대"
-SOV_war_communism:0 "전시 공산주의"
+SOV_war_communism:0 "전시공산주의"
 SOV_krasnaya_gvardiya:0 "러시아 근위대"
 SOV_armament_production:0 "무기 생산"
 SOV_frunzes_reform_plan:0 "프룬제의 개혁"
 SOV_tukhachevskiys_reform_plan:0 "투하쳅스키의 개혁"
 
 ### Decisions ###
-SOV_The_First_Five_Year_Plan:0 "신5개년 개발계획"
+SOV_The_First_Five_Year_Plan:0 "새로운 5개년개발계획"
 
 SOV_Spreading_The_Revolution_decisions:0 "혁명 전파"
 SOV_Join_The_Internationale:0 "인터네셔널 가입"
@@ -86,7 +86,7 @@ SOV_national_populist_party:0 "러시아 인민공화당"
 SOV_national_populist_party_long:0 "러시아 인민공화당"
 
 ### Focuses ###
-Russia_Socialist:0 "러시아중점계통도"
+Russia_Socialist:0 "러시아 중점계통도"
 
 SOV_Proletarian_Humanism:0 "프롤레타리아 휴머니즘"
 SOV_Proletarian_Humanism_desc:0 "Through his rhetorical skills and clever maneuvering, Bukharin's vision Russia and beyond has seen him retain his dominant role in the All-Union Communist Party. He supports a course of socialism at a snail's pace, to avoid the creation of a massive state bureaucracy and preserve the victories of the proletariat in the recent revolution."
@@ -106,7 +106,7 @@ SOV_Control_The_Unions_desc:0 "We currently have a parallelism of unions and the
 SOV_Fight_Bureaucratisation:0 "관료주의 혁파"
 SOV_Fight_Bureaucratisation_desc:0 "The fight against the bureaucracy is a constant fight, something Lenin already understood. We will have to fight the bureaucracy, before it can establish itself already, something we have to avoid at all costs. We will also have to train truly proletarian bureaucrats to slowly replace the reactionary bureaucrats we still have plenty of."
 
-SOV_Revolutionary_Vanguard:0 "혁명 전위대"
+SOV_Revolutionary_Vanguard:0 "혁명전위대"
 SOV_Revolutionary_Vanguard_desc:0 "After a long struggle, Karl Radek's vision for a revolutionary future has won out against all others. A radical among radicals, he is a firebrand, insisting that primitive socialist accumulation and five-year plans will allow the production of the productive forces necessary to begin the transition towards socialism."
 
 SOV_Mass_Collectivisation:0 "대중 집산화"
@@ -118,10 +118,10 @@ SOV_Militarisation_of_Labour_desc:0 "Man at its basis wants to avoid work, thus 
 SOV_Proletarian_Revolution:0 "프롤레타리아 혁명"
 SOV_Proletarian_Revolution_desc:0 "The revolution must be complete and all-encompassing. For socialism to be achieved we must put all our efforts towards its accomplishment and radically change society from top to bottom. Only by removing the rotten core left behind by the previous regime can the workers truly be free from its oppression."
 
-SOV_First_Five_Year_Plan:0 "신 5개년개발계획"
+SOV_First_Five_Year_Plan:0 "새로운 5개년개발계획"
 SOV_First_Five_Year_Plan_desc:0 "The taxation of the peasantry and thus taking the surplus value of the peasants will allow for the productive forces to transition to socialism to be created, which is best done through a central planning agency creating plans which allow for rapid industrialization."
 
-SOV_Industrial_Democracy:0 "산업 민주주의"
+SOV_Industrial_Democracy:0 "산업민주주의"
 SOV_Industrial_Democracy_desc:0 "Kollontai's vision for union control over the economy has succeeded in winning over a majority of comrades. Despite her noble ancestry, she has always been a fighter for more control of unions and thus workers over the economy, as unions are the best representation of the will of the proletariat."
 
 SOV_Break_The_Smychka:0 "스미치카 혁파"
@@ -145,7 +145,7 @@ SOV_Rebuild_The_Bureaucracy_desc:0 "Kerensky's reign and its aftermath hardly im
 SOV_Allow_Small_Traders:0 "소규모 무역 허용"
 SOV_Allow_Small_Traders_desc:0 "In order to allow for a smoother transition to a socialist economy, a limited amount of commerce will be permitted within non-essential sectors of the economy. After all, the common man operating a small store is not that far removed from the worker on a factory floor and equating him with an industrial baron would create needless harm to the masses."
 
-SOV_The_GOELRO_Plan:0 "러시아 국가전기화 위원회"
+SOV_The_GOELRO_Plan:0 "러시아 국가전기화위원회"
 SOV_The_GOELRO_Plan_desc:0 "Electrification is a central part for communism. Lenin went so far as to state that 'Communism is Soviet government plus the electrification of the whole country.' To fulfil this plan we have entrusted a 'State Commission for Electrification of Russia' to electrify the entire nation."
 
 SOV_Form_Gosplan:0 "소비에트 국가재건계획위원회"
@@ -190,16 +190,16 @@ SOV_Rally_The_Defectors_desc:0 "Many in the Russian army are dissatisfied with t
 SOV_The_War_Effort:0 "조직화된 전쟁"
 SOV_The_War_Effort_desc:0 "We will need to organize the revolutionary war effort, as it has been a pure disaster beforehand. We will re-establish much of the bureaucracy and state apparatus which was destroyed in the wake of the failure of the First Civil War. "
 
-SOV_Rebuild_The_Red_Army:0 "새로운 붉은군대"
+SOV_Rebuild_The_Red_Army:0 "새로운 붉은 군대"
 SOV_Rebuild_The_Red_Army_desc:0 "The Red Army will have to be rebuild, if we want to win this revolution. A centralized army proved itself to be a capable fighting force the first time around, it will be a capable one the second time around too, though we should avoid the failures of and mistakes of the first incarnation."
 
 SOV_Centralised_Command:0 "명령 중앙화"
 SOV_Centralised_Command_desc:0 "A centralised command is necessary in a military combat, any other alternative would just result in total disaster, something we need to avoid at all costs. Thus we will aim to create a cohesive military chain of command, to allow for a more effective fighting force."
 
-SOV_Reinstate_The_Cheka:0 "국가 반혁명 대처 특수위원회"
+SOV_Reinstate_The_Cheka:0 "국가반혁명대처특수위원회"
 SOV_Reinstate_The_Cheka_desc:0 "The All-Russian Extraordinary Commission carried out its duties with diligence. Now that socialist rule has been established, however, we face the threat of subversion from counter-revolutionaries from across the world. In order to fend off the threats both from within and from abroad we must expand the institution and modernize its methods."
 
-SOV_War_Communism:0 "전시 공산주의"
+SOV_War_Communism:0 "전시공산주의"
 SOV_War_Communism_desc:0 "We will need to take multiple measures to win this war and to spread the revolution to Russia, however many of these many prove unpopular and brutal, however they are necessary regardless to win the war and improve the life of the general population in the long-term."
 
 SOV_The_Second_Red_Army:0 "두번째 붉은군대"
@@ -275,13 +275,13 @@ SOV_Take_To_The_Seas:0 "대양으로"
 SOV_Take_To_The_Seas_desc:0 "If we are to stand proud among the great nations of Europe again, we must build a new, modern navy that can challenge the great powers of Europe and the world."
 
 ### Events ###
-russoc.100.t:0 "[From.GetNameDefCap]이(가) 인터내셔널 가입을 원하다"
-russoc.100.d:0 "최근 사회주의 정부을 가지는 것의 이익을 깨달은 [From.GetNameDefCap]은 우리에게 다가와 부탁을 했습니다. 그들은 정식으로 인터내셔널에 참가하기를 원합니다. 이렇게 멀리 떨어진 우방국이 가치가 있을까요?"
+russoc.100.t:0 "인터내셔널 가입을 원하는 [From.GetNameDefCap]"
+russoc.100.d:0 "최근 사회주의 정부을 가지는 것의 이익을 깨달은 [From.GetNameDefCap](은)는 우리에게 다가와 부탁을 했습니다. 그들은 정식으로 인터내셔널에 참가하기를 원합니다. 이렇게 멀리 떨어진 우방국이 가치가 있을까요?"
 russoc.100.a:0 "물론! 환영한다."
 russoc.100.b:0 "필요없다."
 
 russoc.101.t:0 "[From.GetNameDefCap]의 거절"
-russoc.101.d:0 "[From.GetAdjective]이(가) 동맹을 원하는 우리의 요청을 거절했습니다. 아마도 그들이 판단하기에는 우리는 충분히 생디칼리슴적이지 않거나, 동맹국으로서 가치가 없었을 것입니다. 어느 쪽이든 대답은 분명히 '아니오'였습니다."
+russoc.101.d:0 "[From.GetAdjective](이)가 동맹을 원하는 우리의 요청을 거절했습니다. 아마도 그들이 판단하기에는 우리는 충분히 생디칼리슴적이지 않거나, 동맹국으로서 가치가 없었을 것입니다. 어느 쪽이든 대답은 분명히 '아니오'였습니다."
 russoc.101.a:0 "형편없는 결정이군."
 
 russoc.102.t:0 "당 내 갈등"
