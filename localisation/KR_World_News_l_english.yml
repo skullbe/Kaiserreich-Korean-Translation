@@ -986,18 +986,18 @@ worldnews.228.d:0 "Pope [PAP.GetLeader] arrived in [refuge.GetNameDef] today, ha
 worldnews.228.a:0 "최소한 그는 안전하다."
 worldnews.228.b:0 "속이 시원하구만."
 
-worldnews.229.t:0 "안경 군벌을 지지하는 우페이푸 원수"
+worldnews.229.t:0 "안경군벌을 지지하는 우페이푸 원수"
 worldnews.229.d:0 "Following the death of Marshal Sun Chuanfang earlier this year and the subsequent collapse of Qing authority, few expected Imperial Minister of the Army Wu Peifu, the real power behind the throne in Beijing, to take overt military action. Yet this morning he and Assembly President Cao Kun announced their formal support of the provincial government of Anhui, lead by [ANQ.GetLeader]. Wu and Cao have long chafed under the German oversight placed on their government in 1927, and their support of Governor Chen telegraphed to the world that they were casting off German influence. While a full deployment of the Qing army is unlikely given the ever-present threat of Fengtian attack from the north, limited numbers of Qing troops are already mobilizing to destroy the enemies of Governor Chen and Beijing's new national order."
 worldnews.229.a:0 "황제 폐하를 위하여!"
 worldnews.229.b:0 "The chips start to fall..."
 
-worldnews.230.t:0 "남경 군벌을 지지하는 우페이푸 원수"
+worldnews.230.t:0 "남경군벌을 지지하는 우페이푸 원수"
 worldnews.230.d:0 "Following the death of Marshal Sun Chuanfang earlier this year and the subsequent collapse of Qing authority over much of China few expected Imperial Minister of the Army Wu Peifu, the real power behind the throne in Beijing, to take overt military action. Yet this morning he and Assembly President Cao Kun announced their formal support of the provincial government of Nanjing - the remnants of the old League of Eight Provinces. German diplomats and strategists are no doubt breathing a sigh of relief, as Wu Peifu's military support for the new League-Marshal, [LEP.GetLeader], may be the deciding factor in his war against both the resurgent KMT and Anhui province - aligned with Fengtian, and by extension, Japan."
 worldnews.230.a:0 "황제 폐하를 위하여!"
 worldnews.230.b:0 "아시아에서의 독일 질서는 여전히 유지될지도 모른다."
 
 worldnews.231.t:0 "황제의 쿠데타"
-worldnews.231.d:0 "자세한 내용은 불분명하지만, 오늘 아침 자금성에서 쿠데타로 추정되는 사건 이후, 푸이 황제는 유명한 군주주의자들인 그의 동생 푸제와 전 직예 장군 Li Bingzhi를 옆에 대동하고 나타났습니다.\n\n\"황제 폐하는 방금 직예 쥐새끼들의 암살 시도를 회피하셨다!\" 푸이가 침착하게 서있을 때 - 혹은 공포로 마비된 채 서있을 때 친왕이 한 무리의 기자들에게 큰소리로 선언하였습니다. \"우페이푸와 그의 독일 하수인들이 지난 30년 동안 우리나라를 오염시켜 왔다! 직예 군벌에 죽음을!\" 몇 분 후, 우페이푸와 차오쿤의 생기 없는 시체가 거리로 내동댕이쳐졌고, 카이저에게 분노한 군중들에 의해 갈기갈기 찢겼습니다."
+worldnews.231.d:0 "자세한 내용은 불분명하지만, 오늘 아침 자금성에서 쿠데타로 추정되는 사건 이후, 푸이 황제는 유명한 군주주의자들인 그의 동생 푸제와 전 직예 장군 Li Bingzhi를 옆에 대동하고 나타났습니다.\n\n\"황제 폐하는 방금 직예 쥐새끼들의 암살 시도를 회피하셨다!\" 푸이가 침착하게 서있을 때 - 혹은 공포로 마비된 채 서있을 때 친왕이 한 무리의 기자들에게 큰소리로 선언하였습니다. \"우페이푸와 그의 독일 하수인들이 지난 30년 동안 우리나라를 오염시켜 왔다! 직예군벌에 죽음을!\" 몇 분 후, 우페이푸와 차오쿤의 생기 없는 시체가 거리로 내동댕이쳐졌고, 카이저에게 분노한 군중들에 의해 갈기갈기 찢겼습니다."
 worldnews.231.a:0 "황제 폐하 만세!"
 worldnews.231.b:0 "중국에서 또 쿠데타라고?"
 
