@@ -493,7 +493,7 @@ comfrance.5.d:0 "5월의 생디칼리스트 회의의 성공적인 준비에도 
 comfrance.5.a:0 "수고했소, 피베르 동지"
 
 comfrance.6.t:0 "첫 번째 선거일: 코뮌군 정화"
-comfrance.6.d:0 "군 내부의 노동조합 때문에 코뮌군은 너무 정치화되었고, 그 때문에 국가통합보증회와 생디칼리스트 혁명의 군대 사이에서 갈등이 빚어지고 있습니다! 격화되는 상황 속에서 참모장이자 내전의 영웅, 모리스 가믈랭이 사직서를 제출하였습니다. 프랑스 생디칼리스트 군 사령관들은 대부분이 소렐리안들이며, 그들은 군대 노동조합을 해산시키기 전에 병사들에게 누가 프랑스군을 이끌기를 원하는지 묻기로 결정하였습니다."
+comfrance.6.d:0 "군 내부의 노동조합 때문에 코뮌군은 너무 정치화되었고, 그 때문에 국가통합보증회와 생디칼리스트 혁명의 군대 사이에서 갈등이 빚어지고 있습니다! 격화되는 상황 속에서 참모장이자 내전의 영웅, 모리스 가믈랭이 사직서를 제출하였습니다. 프랑스 생디칼리스트 군 사령관들은 대부분이 소렐리안들이며, 그들은 군대 해산시키기 전에 병사들에게 누가 프랑스군을 이끌기를 원하는지 묻기로 결정하였습니다."
 comfrance.6.a:0 "폴 르 장티옴므(생디칼리스트)―전차 지지자"
 comfrance.6.b:0 "자크 뒤클로(자코뱅)―중앙화된 최고사령부"
 comfrance.6.c:0 "자크 도리오(소렐리안)―야전지휘관 주력"
@@ -920,7 +920,7 @@ comfrance.112.d:0 "센트로아메리카 대표단은 파나마 운하를 향한
 comfrance.112.a:0 "행운을 비네, 제군들!"
 
 comfrance.113.t:0 "브라질-볼리비아 동맹?"
-comfrance.113.d:0 "With the Second International Congress in London under way, our delegation has been in preliminary talks with the Bolivians about the potential for an alliance to help entrench Socialism in South America. The question now is whether we should propose a formal alliance between our nations to help fight Argentina."
+comfrance.113.d:0 "런던에서 제2차 인터네셔널 회의가 진행되던 중, 우리 대사는 볼리비아 측과 남아메리카에서 사회주의를 전파하는 동맹에 관한 예비회담을 하였습니다. 이제 남은 것은 반아르헨티나 동맹을 공식적으로 체결하냐 마냐의 문제입니다. "
 comfrance.113.a:0 "동맹을 제안하자!"
 comfrance.113.b:0 "불필요하다."
 
@@ -991,13 +991,13 @@ comfrance.129.d:0 "팔랑스테르 인터내셔널 프로그램의 일환으로,
 comfrance.129.a:0 "훌륭해!"
 
 comfrance.130.t:0 "자코뱅 개혁?"
-comfrance.130.d:0 "Having at long last taken control of the Commune, the Jacobin led Comité de Salut Public is now divided. Hardliners are demanding that the Syndicalist structures be abolished, all replaced by the Parti Communiste Français in a Bolshevik-Leninist state. However, this is likely to viciously divide France and as such many members of the party are suggesting that the Jacobins continue to operate within the established Syndicalist structures of the BGT and CSP while gradually reforming the state along 'true' Marxist lines."
+comfrance.130.d:0 "자코뱅파의 공안위원회는 코뮌을 장기간 통치한 끝에 둘로 분리되었습니다. 강경파는 생디칼리스트 조직을 폐지하고 볼셰비키-레닌주의식의 프랑스 공산당으로 대체하자고 주장했습니다. 그러나 이 주장은 프랑스의 갈등을 잔인하게 부추길 것이며, 정당 내 많은 당원은 ‘진정한’ 마르크스주의에 따라 나라를 점진적으로 개혁하면서 기존의 BGT와 CSP의 생디칼리슴 조직을 바탕으로 나라를 운영하자고 주장합니다."
 comfrance.130.a:0 "구체제는 쓸어버려야 한다!"
 comfrance.130.b:0 "우리 스스로가 개혁할 수 있다."
 
-comfrance.131.t:0 "Restructuring of the BGT and CSP"
-comfrance.131.d:0 "The Syndicalist structures of post-revolution France are being transformed so as to better comply with true Marxism as laid out by the Parti Communiste Français. The Bourse Générale du Travail has been reformed as the Congrès des Députés du Peuple while the Comité de Salut Public has been replaced by the Conseil des Commissaires du Peuple."
-comfrance.131.a:0 "An improvement, no doubt."
+comfrance.131.t:0 "BGT와 CSP의 개혁"
+comfrance.131.d:0 "혁명 후 프랑스의 생디칼리슴 구조는 프랑스 공산당이 제시한 진정한 마르크스주의에 합당하도록 바뀌었습니다. 노동조합회의(BGT)는 인민평의회로 바뀌었고, 공안위원회(CSP)는 인민위원회로 대체되었습니다. "
+comfrance.131.a:0 "의심할 여지도 없는 혁신이다."
 
 comfrance.132.t:0 "노동 총동맹(CGT) 해체"
 comfrance.132.d:0 "우리는 마침내 코뮌 권력을 오랫동안 장악해 왔던 프랑스 생디칼리슴의 마지막 기둥인 노동총동맹(CGT)에 눈을 돌릴 수 있게 되었습니다. 우리는 그들의 권력을 빼앗을 것이며 그들이 우리에게 다시는 저항하지 못하게 할 것입니다."
@@ -1008,12 +1008,12 @@ comfrance.133.d:0 "최근 우리의 개혁은 프랑스를 진정한 사회주�
 comfrance.133.a:0 "이를 주시하자..."
 
 comfrance.134.t:0 "레옹 블룸과 인민전선"
-comfrance.134.d:0 "Now the leading Travailleur figure, Léon Blum has begun to call openly for the disparate political factions of France to unite in opposition to the Jacobin government which many view as having corrupted and betrayed the Revolution. This Popular Front, despite being resisted by the many state mechanisms of the Jacobins, has already conducted several major industrial actions and political rallies in the larger cities.\n\nFearful that this open challenge to the party's rule might lead to a direct contest for the leadership of the Commune, the Renseignements Généraux is recommending that the Conseil des Commissaires arrest Blum and the other leaders linked to the Front - most prominently, other than Blum himself, the still-respected general Maurice Gamelin."
+comfrance.134.d:0 "떠오르는 노동 지도자인 레옹 블룸은 프랑스의 여러 정치 조직에 부패하고 혁명을 배신한 자코뱅 정권에 맞서 힘을 합치자고 공개적으로 주장했습니다. 인민전선은 자코뱅의 국영 메커니즘에 맞서 주요 사내 활동과 도심 정치 시위를 몇 차례 진행했습니다. \n\n 이런 움직임에 맞춰 정당에 공개적으로 이의제기하는 것이 이어진다면, 코뮌의 지도력에 대놓고 불만하는 것으로 이어질 수 있습니다. 공안과는 인민위원회가 블룸, 그리고 인민전선과 연결된 다른 정치인, 그리고 무엇보다도 여전히 사람들에게 지지를 받는 모리스 가믈랭 장군을 체포할 것을 권장했습니다."
 comfrance.134.a:0 "그들을 재판에 세워라!"
 comfrance.134.b:0 "레닌의 정신은 끄떡없을 것이다!"
 
 comfrance.135.t:0 "파리 재판"
-comfrance.135.d:0 "The various leading figures of the Front Populaire, as well as other prominent potential allies of theirs, such as Maurice Gamelin, have been arrested and are being tried for treason. The Paris Trial aims to prove that Blum and his associates have undermined the Revolution and 'weakened France's defences against the German foe'. Blum, being both a lawyer and excellent public speaker, has used the courtroom to make a brilliant indictment of the Jacobin regime. Gamelin has remained silent throughout; refusing to recognise the court's right to try him.\n\nThe trial has not gone according to plan and the defendants have, despite heavy manipulation of the proceedings, proven largely successful in rebutting the charges, and won sympathetic coverage in both the unofficial domestic and international press. It has become such an embarrassment to our Communist regime that some of the leadership is considering ordering it called off. Others wish to push forward and execute the defendants regardless, as they have become far too great a threat to be allowed to go free."
+comfrance.135.d:0 "인민전선의 여러 정치인, 그리고 모리스 가믈랭처럼 그들을 지원해 줄 수 있는 여러 인물이 체포되어 판결만을 기다리고 있습니다. 파리 재판에서 블룸과 그의 지지자들은 혁명을 방해하고 ‘프랑스의 대독일 방어력을 약화한’ 혐의를 받고 있습니다. 변호사이자 뛰어난 연사인 블룸은 법정에서 자코뱅 정권을 신랄하게 비판했습니다. 가믈랭은 법정이 자신을 심판할 수 없다면서 재판 내내 침묵을 지켰습니다. \n\n 재판은 계획대로 흘러가지 않았으며, 재판 절차를 크게 왜곡했음에도 피고인들은 검찰의 주장을 성공적으로 반박했습니다. 대중과 국제 언론은 그들에게 우호적인 시각을 내비치고 있습니다. 공산당 정권은 이에 당혹하며 지도부 일각에서는 재판을 취하하자고 주장했습니다. 그러나 몇몇은 이들을 자유롭게 풀다가는 정권을 크게 위협할 것이라면서 사형 판결을 내려야 한다고 보고 있습니다."
 comfrance.135.a:0 "반역자들을 처형해라!"
 comfrance.135.b:0 "재판을 취소해라."
 
@@ -1022,24 +1022,24 @@ comfrance.136.d:0 "파리 재판 피고인들의 사형 집행 이후, 도시에
 comfrance.136.a:0 "분쇄하라!"
 
 comfrance.137.t:0 "가믈랭의 파리 행진"
-comfrance.137.d:0 "Reports are reaching the Renseignements Généraux that units loyal to the civil war general Maurice Gamelin have mutinied and declared for the Popular Front. Gamelin is marching on Paris!"
+comfrance.137.d:0 "공안과에 모리스 가믈랭 장군이 인민 전선의 편에 서서 봉기를 일으켰다는 소식이 도착했습니다. 가믈랭이 파리로 진격하고 있습니다!"
 comfrance.137.a:0 "우리는 저항할 것이다!"
 comfrance.137.b:0 "반란군이 수도를 점령했다!"
 
 comfrance.138.t:0 "인민전선의 생디칼리슴 복원"
-comfrance.138.d:0 "The Front Populaire has seized Paris and is purging the Jacobins from the city. Communes throughout France have taken this opportunity to liquidate their own branches of the Communist Party. Gamelin and Blum have restored the formerly abolished Syndicalist institutions, the CGT and BGT, and in emergency elections Gamelin has been elected as Chairman of the Bourse Générale du Travail with Blum appointed Chairman of the Comité de Salut Public."
-comfrance.138.a:0 "C'est la lutte finale..."
+comfrance.138.d:0 "인민전선은 파리를 점령하고 자코뱅파를 모조리 죽였습니다. 프랑스 전역에 있는 코뮌은 이를 기화로 공산당 조직을 모조리 청산했습니다. 가믈랭과 블룸은 옛 생디칼리슴 조직인 CGT와 BGT를 복원했습니다. 이후 임시선거에서 가믈랭은 노동조합회의 서기장으로 선출되었고, 블룸은 공안위원회 위원장으로 임명되었습니다."
+comfrance.138.a:0 "이걸로 모든 것이 끝나기를...(C'est la lutte finale...)"
 
 comfrance.139.t:0 "가믈랭의 쿠데타가 실패했다"
-comfrance.139.d:0 "We successfully resisted the forces of the traitor Gamelin who has now turned tail and fled south with the Arm of the Communist Revolution in hot pursuit! However, the partisans of the Front Populaire have gone ahead with their revolt in the north despite this set back, although they are sure to be crushed by our loyal units."
+comfrance.139.d:0 "우리는 변절자 가믈랭의 공격을 막아냈습니다! 가믈랭은 이제 남쪽으로 꼬리를 돌려 혁명수비대와 함께 도망치고 있습니다. 우리 군의 소탕작전에도 불구하고, 인민전선 빨치산들은 여전히 북부 지역에서 봉기하고 있습니다."
 comfrance.139.a:0 "분쇄하라!"
 
 comfrance.140.t:0 "툴루즈 전투"
-comfrance.140.d:0 "The last remains of Gamelin's rebels have occupied the city of Toulouse. Now that we have them cornered we shall dispatch our loyal forces to destroy them!"
+comfrance.140.d:0 "가믈랭 반군의 마지막 잔당이 툴루스를 점령했습니다. 한 곳으로 몰린 반란군을 소탕하기만 하면 됩니다!"
 comfrance.140.a:0 "반역자들에게 죽음을!"
 
 comfrance.141.t:0 "프랑스의 빨갱이들이 혼란에 빠졌다"
-comfrance.141.d:0 "The extremist Jacobin faction has driven the illegitimate Commune to the precipice. The socialists fight among themselves as France burns. The traitor general Maurice Gamelin failed to overthrow the Communists with his first attempt at a march on Paris and was forced to retreat south. Now we have received word via secret channels that Gamelin is willing to recognise a Republican restoration in return for aid in defeating the Jacobins.\n\nAlthough considered one of the worst traitors France has ever seen for leading the reds in the first civil war which saw us reduced to our exile in Algiers, this could be our best chance to return home and drive out the craven Communards that stole it from us."
+comfrance.141.d:0 "극단주의 자코뱅파가 불법 점거 세력을 벼랑 끝으로 몰았습니다. 사회주의자들끼리 내분이 일어났고, 본토는 내전에 휘말렸습니다. 변절자 모리스 가믈랭 장군은 첫 파리 진격 때 공산주의자를 몰아내는 데 실패했습니다. 현재 가믈랭은 우리에게 자코뱅파를 몰아내는 것을 도와준다면 공화국을 복원할 의향이 있다고 극비 채널을 통해 말을 건넸습니다. \n\n 빨갱이들끼리 싸우는 지금, 공산당이 강점한 우리의 본토를 되찾을 최적의 기회가 온 셈입니다. 빨갱이들의 선두에 서서 우리를 알제리로 쫓아낸 프랑스 제일의 배신자를 돕는 것은 전혀 내키는 일이 아니긴 하지만 말입니다."
 comfrance.141.a:0 "절호의 기회다! 프랑스로 진격하자!"
 comfrance.141.b:0 "그는 반역자다. 그는 반역자로서 죽을 것이다."
 
