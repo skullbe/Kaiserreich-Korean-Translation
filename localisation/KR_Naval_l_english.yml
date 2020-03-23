@@ -531,26 +531,26 @@ battleship_4_desc:0 "At the close of the Second Weltkrieg, the Great Powers were
 
 ### Dreadnoughts ###
 
-dreadnought_1:0 "Dreadnought"
-dreadnought_1_desc:0 "As the Dreadnought Race reached its height, these true monsters were conceived. Far greater in size and firepower than anything that came before, their cost was staggering, and few nations could afford to even consider constructing them. Nonetheless, those that did found themselves in possession of truly mighty weapons of naval supremacy. Even more so than the generation before them, they suffered from the conditions of their conception. Rushed design work, last minute and improvised redesigns during construction, shortages of the huge amount of resources they required, immense pressure to rush construction, and the sheer size and complexity of their massive mechanisms, all led to design flaws and vulnerabilities beneath their vast armoured hides. These designs were armed with twelve to fifteen 18 inch or equivalent main guns."
-dreadnought_2:0 "Improved Dreadnought"
-dreadnought_2_desc:0 "Once the afterglow of the great Dreadnought Race had faded away, naval designers took stock of the position of dreadnoughts in future planning. Discarding speed as a major goal, with the understanding that the new generation of so-called 'fast battleships' would assume that task, these designs instead focused on extreme, unprecedented, armour protection. Advanced 16 inch guns could equal the armour penetration of 18 inches, while being less expensive. .Drawing lessons from the navies possessing heavy ordinance most of these designs were armed with those types of advanced 16 inch guns, or equivalents, normally arranged in five triple turrets."
-dreadnought_3:0 "Advanced Dreadnought"
-dreadnought_3_desc:0 "Even as most navies, with varying degrees of reluctance and dismay, were forced to concede the ascendancy of carriers over traditional gun warships, some naval designers still dreamed of creating the 'ultimate battleship'. Girded in nearly impenetrable armour, bristling with anti-aircraft batteries, and armed with six triple 16 inch turrets or equivalent extreme armament, these designs represented the very pinnacle of heavy warship design. Conceived in the twilight of the age of gun warships, these designs were seen as obsolete even before their drafting was completed, mainly by the advocates of ascendant airpower."
+dreadnought_1:0 "드레드노트"
+dreadnought_1_desc:0 "드레드노트 경쟁이 절정에 달했을 때, 이 진정한 괴물들이 만들어졌습니다. 이전보다 훨씬 더 큰 규모와 화력으로 생산 비용은 엄청났으며, 심지어 조선을 고려할 수 있는 나라가 거의 없었습니다. 그럼에도 불구하고, 그들은 자신들이 해군 패권을 위한 정말로 강력한 무기를 가지고 있다고 생각했습니다. 그들은 앞세대보다 훨씬 더 신념에 따른 조건에 시달렸습니다. 성급한 설계 작업, 조선 중 막바지에 즉석 재설계, 필요한 막대한 자원의 부족, 조선을 서둘러야 한다는 엄청난 압력, 그리고 그 거대한 기계장치의 크기와 복잡함, 이 모든 것이 거대한 장갑 밑에 설계 결함과 취약성을 초래했습니다. 이 설계는 18인치 또는 그에 상응하는 주포 12~15개로 무장되었습니다."
+dreadnought_2:0 "개선된 드레드노트"
+dreadnought_2_desc:0 "위대한 드레드노트 경쟁의 여운이 사라지자 해군 설계자들은 미래의 계획에서 드레드노트의 지위에 주목했습니다. 신세대의 소위 '고속전함'이 그 임무를 맡게 될 것이라는 이해와 함께 속도를 주요 목표에서 포기하는 대신에 극단적이고 전례 없는 보호 장갑에 초점을 맞추었습니다. 진보된 16인치 포는 18인치 포와 장갑 관통 능력이 비슷할 수 있지만 가격은 더 낮습니다. 엄중한 명령을 골자로 하는 해군에서의 교훈으로 이러한 설계의 대부분은 보통 진보된 16인치 또는 그에 상응하는 포로 배열된 3연장포으로 배열된 5개로 무장되었습니다."
+dreadnought_3:0 "진보된 드레드노트"
+dreadnought_3_desc:0 "각기 다른 대부분의 해군들이 전통적인 군함보다 항공모함의 우위를 인정할 수밖에 없었음에도 불구하고, 일부 해군 설계자들은 여전히 '최대의 전함'을 창설하는 것을 꿈꿨습니다. 거의 뚫을 수 없는 장갑에 대공포로 무장하고, 16인치 3연장포 6개 또는 그에 상응하는 극한 무장으로 무장된 이 설계는 중함 설계의 정점을 상징했습니다. 떠오르는 공군력 지지자들은 함포 군함 시대의 황혼기에 고안된 이러한 설계를 초안이 완성되기도 전에 구식으로 여겼습니다."
 
 ### Carriers ###
 
-carrier_1:0 "Experimental Carrier"
+carrier_1:0 "실험적인 항공모함"
 carrier_1_desc:0 "Having learned from the experience of using seaplane tenders, those navies with the resources to do so began work on the next generation of ships that could carry aircraft at sea. Unlike their predecessors, these carriers were designed with flight decks to allow for aircraft to both fly off of them and to then return and land on them. Converted from civilian ships and seaplane tenders, most of these ships were limited by having relatively cramped flight decks and hangars, but they definitely demonstrated that ships were capable of effectively operating air complements at sea."
-carrier_2:0 "Improved Carrier"
+carrier_2:0 "개선된 항공모함"
 carrier_2_desc:0 "Developed in the late 30s, these ships were designed to provide aerial reconnaissance and light fighter coverage for fleets primarily focused on more 'conventional' warship forces. Their range was significantly increased, and efforts were made to make them fast enough to keep up with fleets operating at full speed in open oceans."
-carrier_3:0 "Advanced Carrier"
+carrier_3:0 "진보된 항공모함"
 carrier_3_desc:0 "As major naval combat operations in the naval aviation age demonstrated the power of aircraft to seriously affect battles at sea, many powers found themselves having fallen behind in the development of their carrier forces. While fleet carriers were quickly shown to be the most potent of their kin, they were also massive ships that required a long time and large amount of resources to construct. In the rush to increase their ability to project air power into the oceans, several powers turned to designs like these, enlarged versions of the existing lighter carriers, to try to quickly bolster their naval aviation capacity."
-carrier_4:0 "Modern Light Carrier"
+carrier_4:0 "현대 경항공모함"
 carrier_4_desc:0 "Even once the dominance of fleet carriers had become indisputable, there were many powers that could not afford such ships, and even major naval powers that needed secondary carriers to cover less important naval regions. These ships were the designs that were created to fill those needs. Much smaller than the fleet carriers, they nonetheless incorporated design innovations developed from them, to produce effective smaller carriers that had respectable aircraft capacity, fast speeds, and reasonable anti-aircraft defence batteries."
-heavy_carrier_1:0 "Experimental Fleet Carrier"
+heavy_carrier_1:0 "실험적인 중형 항공모함"
 heavy_carrier_1_desc:0 "The first fleet carriers designed entirely to be such, most of these ships were significantly smaller than their converted dreadnought predecessors, but, due to being intentionally centred on the requirements of naval aviation, were also far more reliable in that role. With better anti-aircraft defenses and properly designed runways, they generally carried around sixty aircraft."
-heavy_carrier_2:0 "Modern Fleet Carrier"
+heavy_carrier_2:0 "현대 중형 항공모함"
 heavy_carrier_2_desc:0 "Continued development of fleet carrier design led to much larger models, these ships approached the size of the first fleet carriers, while incorporating all of the design improvements made in the intervening years. Most had significant armour protection and withering AA firepower, while also being highly mechanically reliable. However, they had given up their large calibre secondary armament in exchange for dual purpose 100-127mm guns. Their general aircraft capacity was, on average, around eighty."
 
 ### Submarines ###
@@ -567,8 +567,8 @@ cruiser_submarine_1:0 "순양 잠수함"
 cruiser_submarine_1_desc:0 "기지에서 멀리 떨어진 원양에서도 자유롭게 활동할 수 있는 매우 큰 잠수함입니다."
 
 ### Other ###
-ship_hull_superdreadnought:0 "Dreadnought"
-ship_hull_superdreadnought_desc:0 "The rapid increase of resources devoted to naval construction after the end of major land conflict during the Weltkrieg initially produced these designs, which featured the beginnings of the trends towards sudden growth in size, firepower, armour, calibre and of course, cost. Such vessels set the world's leading naval powers apart from the mere pretenders to greatness, but they had their issues; their rapid development and rushed construction led to design flaws and persistent mechanical problems. These designs were armed with eight to ten 18 inch or equivalent main guns, and had the protection to go toe-to-toe with similarly armed ships. As the Dreadnought Race reached its height, these true monsters were conceived. Far greater in size and firepower than anything that came before, their cost was staggering, and few nations could afford to even consider constructing them. Nonetheless, those that did found themselves in possession of truly mighty weapons of naval supremacy. Even more so than the generation before them, they suffered from the conditions of their conception. Rushed design work, last minute and improvised redesigns during construction, shortages of the huge amount of resources they required, immense pressure to rush construction, and the sheer size and complexity of their massive mechanisms, all led to design flaws and vulnerabilities beneath their vast armoured hides. These designs were armed with twelve to fifteen 18 inch or equivalent main guns."
+ship_hull_superdreadnought:0 "드레드노트"
+ship_hull_superdreadnought_desc:0 "세계대전 기간 동안 주요 육전이 끝난 후 해군 건설에 투입된 자원의 급속한 증가는 규모, 화력, 장갑, 교량, 그리고 비용의 급격한 성장 추세의 시작으로 특징되는 이러한 설계를 만들어 냈습니다. 이러한 함정은 세계 유수의 해군력을 가진 자와 가진 척하는 자를 구분짓지만, 문제를 가지고 있었습니다. 빠른 발전과 신속한 건설은 설계상의 결함과 지속적인 기계적인 문제로 이어졌습니다. 이러한 설계는 18인치 또는 그에 상응하는 주포 8~10개로 무장되었으며, 유사하게 무장한 배와 정면으로 맞설 수 있는 장갑을 가지고 있었습니다. 드레드노트 경쟁이 절정에 달했을 때, 이 진정한 괴물들이 만들어졌습니다. 이전보다 훨씬 더 큰 규모와 화력으로 생산 비용은 엄청났으며, 심지어 조선을 고려할 수 있는 나라가 거의 없었습니다. 그럼에도 불구하고, 그들은 자신들이 해군 패권을 위한 정말로 강력한 무기를 가지고 있다고 생각했습니다. 그들은 앞세대보다 훨씬 더 신념에 따른 조건에 시달렸습니다. 성급한 설계 작업, 조선 중 막바지에 즉석 재설계, 필요한 막대한 자원의 부족, 조선을 서둘러야 한다는 엄청난 압력, 그리고 그 거대한 기계장치의 크기와 복잡함, 이 모든 것이 거대한 장갑 밑에 설계 결함과 취약성을 초래했습니다. 이 설계는 18인치 또는 그에 상응하는 주포 12~15개로 무장되었습니다."
 modifier_experience_gain_SH_battleship_training_factor:0 "0"
 modifier_experience_gain_SH_battleship_combat_factor:0 "0"
 
