@@ -14,20 +14,20 @@ CAF_radical_socialist_party:0 "자유연맹"
 CAF_social_democrat_party_long:0 "자치당(사회주의자)"
 CAF_social_democrat_party:0 "자치당(사회주의자)"
 CAF_social_democrat_party_after_split_long:0 "자치당-인민국가당"
-CAF_social_democrat_party_after_split:0 "자치-인민"
+CAF_social_democrat_party_after_split:0 "자치당-인민국가당"
 
 CAF_social_liberal_party_long:0 "자치당(연방주의자)"
 CAF_social_liberal_party:0 "자치당(연방주의자)"
 CAF_social_liberal_party_after_split_long:0 "자치당-노동당"
-CAF_social_liberal_party_after_split:0 "자치-노동"
+CAF_social_liberal_party_after_split:0 "자치당-노동당"
 CAF_market_liberal_party_long:0 "단일당"
 CAF_market_liberal_party:0 "단일당"
 CAF_social_conservative_party_long:0 "국민통합당"
 CAF_social_conservative_party:0 "국민통합당"
 CAF_authoritarian_democrat_party_long:0 "애국연합"
 CAF_authoritarian_democrat_party:0 "애국연합"
-CAF_paternal_autocrat_party_long:0 "군사 정부"
-CAF_paternal_autocrat_party:0 "군사 정부"
+CAF_paternal_autocrat_party_long:0 "군사정부"
+CAF_paternal_autocrat_party:0 "군사정부"
 CAF_national_populist_party_long:0 "통일당"
 CAF_national_populist_party:0 "통일당"
 
@@ -38,8 +38,8 @@ CAF_social_democrat_party_after_revolt_long:0 "자치당"
 CAF_social_democrat_party_after_revolt:0 "자치당"
 CAF_radical_socialist_party_after_revolt_long:0 "인민당"
 CAF_radical_socialist_party_after_revolt:0 "인민당"
-CAF_syndicalist_party_after_revolt_long:0 "영국 시민 & 노동자 자치당 (버틀러당)"
-CAF_syndicalist_party_after_revolt:0 "영국시민-노동자자치"
+CAF_syndicalist_party_after_revolt_long:0 "영국 시민과 노동자의 자치당 (버틀러당)"
+CAF_syndicalist_party_after_revolt:0 "영국 시민과 노동자의 자치당"
 
 ### Ideas ###
 CAF_cayenne_agreement:0 "카옌 협약"
@@ -69,7 +69,7 @@ CAF_new_command_desc:0 "With Clifford's plan being chosen for the official West 
 CAF_centralized_command:0 "중앙화된 사령부"
 CAF_centralized_command_desc:0 "Clifford has been pushing his reforms forward more as of late with his most revent reform consolidating the generals to plan more effectively."
 
-CAF_command_navy_cooperation:0 "육해군 통합사령부"
+CAF_command_navy_cooperation:0 "육해군통합사령부"
 CAF_command_navy_cooperation_desc:0 "Clifford's final reform has embraced the navy into the joint planning system, allowing for much more effective communication between the army and navy."
 
 CAF_military_increased_funding:0 "국방비 증액"
@@ -81,13 +81,13 @@ CAF_west_indies_airforce_desc:0 "No longer a meager force mixed of volunteers, l
 CAF_west_indies_airforce_2:0 "서인도 공군"
 CAF_west_indies_airforce_2_desc:0 "No longer a meager force mixed of volunteers, locally made planes, and natives, the West Indies Air Force has been created. Men have begun to be trained to defend our waters from the skies, for the sake of the federation. Surprisingly enough, the government has decided to prioritize the funding of the Air Force compared to the navy and army, attracting more people to join."
 
-CAF_caribbean_trade:0 "카리브 해 무역"
+CAF_caribbean_trade:0 "카리브해 무역"
 CAF_caribbean_trade_desc:0 "Trade within the Caribbean and even Central America is a very important part of our country, and it's only natural that our navy helps to promote this."
 
-CAF_wif_academy:0 "서인도 해군 사관학교"
+CAF_wif_academy:0 "서인도 해군사관학교"
 CAF_wif_academy_desc:0 "For a focus on self dependence, we have made our own naval academy to train our people on the basics of our navy."
 
-CAF_canadian_academy:0 "캐나다 해군 사관학교"
+CAF_canadian_academy:0 "캐나다 해군사관학교"
 CAF_canadian_academy_desc:0 "Due to a worry of a lack of experience on our part, we have begun to rely on Canada for assistance in naval training."
 
 CAF_increased_naval_budget:0 "해군 예산 증액"
@@ -213,7 +213,7 @@ CAF_conscription_pa1_desc:0 "Conscription to the army should not be forced. To c
 CAF_conscription_pa2:0 "평화주의"
 CAF_conscription_pa2_desc:0 "There is no reason to increase the conscription to the army. That is why we can delegate part of the population back to the economy. We are peaceful and pacifist nation."
 
-CAF_grand_social_coalition:0 "위대한사회연대"
+CAF_grand_social_coalition:0 "위대한 사회연대"
 CAF_grand_social_coalition_desc:0 "By convincing all the various radical groups in our country to law down their arms and cooperate with us to bring the country to prosperous socialism, we have managed to create a powerful block in the parliament and in the populace."
 
 CAF_legalised_trade_unions:0 "합법화된 노동조합"
@@ -248,7 +248,7 @@ CAF_event_islands_kept:0 "§YWe will offer a peace which assures our continued c
 
 ## Party Victories ##
 CAF_unity_party_victory_flag:0 "단일당이 1937년 선거에서 승리하였습니다."
-CAF_ncp_party_victory_flag:0 "The National Consolidation Party has won the 1937 election."
+CAF_ncp_party_victory_flag:0 "국민통합당이 1937년 선거에서 승리하였습니다."
 CAF_pa_party_victory_flag:0 "The Parti pour I'Autonomie has won the 1937 election."
 CAF_pa_pnp_coalition_flag:0 "The Parti pour I'Autonomie and People's National Party have formed a coalition."
 CAF_pa_lp_coalition_flag:0 "The Parti pour I'Autonomie and Labour Party have formed a coalition."
@@ -552,10 +552,10 @@ CAF_2nd_cayenne_meeting1:0 "Organize Meeting"
 CAF_2nd_cayenne_meeting2:0 "Voting"
 CAF_2nd_cayenne_meeting1_desc:0 "Organize Meeting"
 CAF_2nd_cayenne_meeting2_desc:0 "Voting"
-CAF_2nd_cayenne_meeting3:0 "국민통합당으로 부터 표를 얻습니다"
-CAF_2nd_cayenne_meeting3_desc:0 "국민통합당으로 부터 표를 얻습니다"
-CAF_2nd_cayenne_meeting4:0 "단일당으로 부터 표를 얻습니다"
-CAF_2nd_cayenne_meeting4_desc:0 "단일당으로 부터 표를 얻습니다"
+CAF_2nd_cayenne_meeting3:0 "국민통합당으로부터 표를 얻습니다"
+CAF_2nd_cayenne_meeting3_desc:0 "국민통합당으로부터 표를 얻습니다"
+CAF_2nd_cayenne_meeting4:0 "단일당으로부터 표를 얻습니다"
+CAF_2nd_cayenne_meeting4_desc:0 "단일당으로부터 표를 얻습니다"
 CAF_2nd_cayenne_meeting5:0 "Gain votes from Social Democrats"
 CAF_2nd_cayenne_meeting5_desc:0 "Gain votes from Social Democrats"
 
