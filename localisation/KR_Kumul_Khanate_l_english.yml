@@ -315,15 +315,15 @@ kumul.82.d:0 "가져다 준다는 사실을 명백히 알아챈 모양입니다.
 kumul.82.a:0 "좋은 거래로군"
 
 kumul.90.t:0 "도시 개발"
-kumul.90.d:0 "The centuries of political turmoil in China has bred a self-reliant generation in Kumul, one which shuns modern political thought and is made a pawn by illiteracy. In order to combat this widespread educational and ideological ignorance, [TAN.GetLeader] has lowered the price of settling in cities to an all-time low. This will hopefully encourage nomads to plant down roots in centers that [TAN.GetLeader] can more easily control."
+kumul.90.d:0 "수백년간 이어져온 중국의 정치적 혼란으로 인해 쿠물에서 현대적 정치 사상을 기피하고 문맹에 사로잡힌채 홀로 서는데만 골몰하는 세대가 등장했습니다. 이런 광범위한 교육적, 이념적 무지와 싸우기 위해 [TAN.GetLeader](은)는 도시에 정착할 때 드는 비용을 사상 최저 수준으로 낮추었습니다. 이 정책으로 [TAN.GetLeader](이)가 통제하기 더욱 쉽도록 유목민들이 중부 지역에 정착하도록 장려할 것입니다."
 kumul.90.a:0 "감히 서양화라고 하지마라!"
 
 kumul.91.t:0 "모든 길은 디화로 통한다"
-kumul.91.d:0 "Fan Yaonan begins his plan, 'All Roads Lead to Dihua' a plan to construct roads across the nation leading to the capital of Dihua. This resolution is graciously recieved by the people of Kumul, who recall having to trek across the Taklamakan Desert to avoid the greedy marching armies. New roads to Dihua will also take advantage of the new oases that off the path of the roads."
+kumul.91.d:0 "판야오난은 '모든 길은 디화로 통한다' 계획에 따라 전국에서 수도 디화를 통과하는 도로를 건설하는 계획을 시작했습니다. 탐욕에 가득 차 행진하는 군대를 피하기 위해 타클라마칸 사막을 걸어서 횡단해야 했던 기억을 여전히 가지고 있는 쿠물 사람들은 이 계획에 박수를 보냈습니다. 또한 디화로 가는 새로운 도로로 인해 평소 다니던 도로에서 벗어난 새로운 오아시스에도 기회가 주어질 겁니다."
 kumul.91.a:0 "훌륭하군"
 
 kumul.92.t:0 "또 다른 중국으로 향하는 길"
-kumul.92.d:0 "The road between Kumul and Hexi was one of the most treacherous to travelers. From banditry to conmen, many traps litter this terminis of the Western Gate. To [TAN.GetLeader], the decrepit road is a major barrier to ever recieving aid from China. Therefore, [TAN.GetLeader] has called for the road to be repaved, and better security to clear out the bandits. "
+kumul.92.d:0 "쿠물과 하서 사이의 길은 여행자에게 가장 위험한 길 중 하나였습니다. 도적떼부터 사기꾼에 이르기까지 수많은 함정이 이 서쪽 관문의 종착역을 어지럽힙니다. [TAN.GetLeader]에게 있어서 이 노후한 도로는 중국으로부터 오는 원조가 도착하는 것을 막는 주요한 장애물입니다. 따라서 [TAN.GetLeader](은)는 도적떼를 소탕하기 위해 도로를 복구하고 더 나은 보안 체계를 갖추라고 지시했습니다. "
 kumul.92.a:0 "좋은일이군."
 
 kumul.100.t:0 "쿠물시에서의 축제"
@@ -343,15 +343,15 @@ kumul.103.d:0 "For many months, ministers, bureaucrats and government officials 
 kumul.103.a:0 "마중잉이 쿠물을 지배한다."
 
 kumul.110.t:0 "아편밀수 파동"
-kumul.110.d:0 "The industrious farmers of Kumul have managed to preserve their illegal opium crops during the war. Now, with the national emergency pulling police away from their posts to combat political violence, opium smugglers have quickly appeared in the villages. Fueled by the demobbed soldiers of Yang Zengxin, who have little to live for in the new regime, opium dens spread. The Imams of Kumul who preached for years against what they saw as an imperialist conspiracy to destroy china and islam are in despair."
+kumul.110.d:0 "근면한 쿠물의 농부들은 전쟁이 벌어지는 와중에도 불법적인 아편 재배를 지켜내는데 성공했습니다. 이제 국가 비상사태로 인해 정치적 폭력에 대처하기 위해 경찰 병력이 빠지는 사이에 아편 밀수업자들이 마을에 빠르게 창궐했습니다. 새 정권에서 자리를 잃은 양쩡신 휘하에 있던 전역한 병사들이 아편을 많이 찾으면서 아편굴이 사방에 퍼졌습니다. 아편이 중국과 이슬람을 멸망시키려는 제국주의적 음모라고 수년간 설교한 쿠물의 이맘들이 절망에 빠졌습니다."
 kumul.110.a:0 "우리는 아무것도 하지 않는 놈들을 위해 멋진 검은색 경찰복을 구입하지!"
 
 kumul.111.t:0 "쿠물국경에서의 도적때 침입"
-kumul.111.d:0 "Common banditry, which was held at bay by a common cause against lawlessness, has returned to Kumul. Previously nonviolent criminals like conmen, human traffickers and counterfeiters have bended together in a form of syndicate. The worst part being that some of these criminals are former state bureaucrats, whose authority still holds sway in the rural reaches of Kumul."
+kumul.111.d:0 "무법에 대항한 단합된 행동으로 인해 궁지에 몰렸던 수많은 도적떼가 쿠물로 돌아왔습니다. 이전에 사기, 인신매매, 위조와 같은 비폭력 범죄를 일삼던 이들은 일종의 연합체를 구성해 함께 행동하기 시작했습니다. 최악의 부분은 이들 범죄자들 중 일부가 쿠물 농촌 지역에서 여전히 권력을 쥐고 있는 전직 국가 관료층이라는 점입니다."
 kumul.111.a:0 "좋아 적어도 그들에게 자비를 보여줄 필요는 없다."
 
 kumul.112.t:0 "천하제일의 아편"
-kumul.112.d:0 "Independent observers and recently convicted criminals attest to the new crime wave in Kumul. In their testimonies, they claim the opium in Kumul is the best in china. A brave reporter in Kumul has even apparently included a review of the drug scene in Kumul, explaining that he smoked opium to monitor its strength, 'which is how law enforcement does it.' The reporter then added that he tested it because he believes it is now too strong — a development he blamed on [QIE.GetLeader] , whom he claimed in his article has 'brain damaged a lot of people.'"
+kumul.112.d:0 "개별 관찰자들과 최근 유죄 판결을 받은 범죄자들은 쿠물에서 새로운 범죄의 파도가 몰려오고 있다고 입을 모아 증언했습니다. 그들의 말에 따르면, 쿠물산 아편이 중화 전토에서 최고라고 합니다. 한 용감한 기자는 쿠물의 마약계에 대한 평론에서 사람들 사이에서 '법이 얼마나 할 수 있는지 보자'며 힘을 증명하기 위해 아편을 피운적이 있다고 말했습니다. 그 기자는 '수많은 사람들의 두뇌가 손상되다'라는 칼럼에서 자신이 이런 시험을 했던 이유가 법이 너무 강력하리라고 예상했기 때문에 [QIE.GetLeader](을)를 비난하기 위해서였다고 덧붙였습니다."
 kumul.112.a:0 "완벽해."
 
 
