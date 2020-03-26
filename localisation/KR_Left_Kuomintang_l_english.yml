@@ -566,7 +566,7 @@ chi_dom.50.a:0 "천밍수!"
 chi_dom.50.b:0 "쑹칭링"
 
 chi_cng.1.t:0 "전국 당대회를 소집하다."
-chi_cng.1.d:0 "당 내 저명 인사들을 국가의 모든 문제를 의논하고 국민당을 완전한 정부로 조직하기 위한 회의를 위해 소집했습니다. 이 회의는 당을 공식 정부로 조직한 1924년 당대회를 토대로 진핼 할 것입니다. 과거 사건에 대한 입장부터 생디칼리슴 요소에 대한 처우까지 이르는 다양한 주제를 가지고 길게 토론 할 것입니다."
+chi_cng.1.d:0 "당 내 저명 인사들을 국가의 모든 문제를 의논하고 국민당을 완전한 정부로 조직하기 위한 회의를 위해 소집했습니다. 이 회의는 당을 공식 정부로 조직한 1924년 당대회를 토대로 진행할 것입니다. 과거 사건에 대한 입장부터 생디칼리슴 요소에 대한 처우까지 이르는 다양한 주제를 가지고 길게 토론 할 것입니다."
 chi_cng.1.a:0 "좋군."
 
 chi_cng.2.t:0 "1차 북벌에 대한 국민당의 공식적인 역사노선 채택에 대한 투표"
@@ -575,7 +575,7 @@ chi_cng.2.a:0 "제국주의자와 반역자."
 chi_cng.2.b:0 "대중의 지지 부족."
 
 chi_cng.3.t:0 "민족 자치의 문제."
-chi_cng.3.d:0 "중국 밖의 18개의 성들은 사실상 독립했고, 많은 민족 분리주의 운동도 많습니다. 우리의 목적은 옛청의 모든 영토를 하나의 중국으로 통합하는 것입니다. - 이를 위해 중국 아래의 연방회된 민족 지구를 패택하는 것이 비-한족들의 안전과 충성을 보장 할 수 있을까요?"
+chi_cng.3.d:0 "중국 밖의 18개의 성들은 사실상 독립했고, 많은 민족 분리주의 운동도 많습니다. 우리의 목적은 옛청의 모든 영토를 하나의 중국으로 통합하는 것입니다. - 이를 위해 중국 아래의 연방화된 민족 지구를 패택하는 것이 비-한족들의 안전과 충성을 보장 할 수 있을까요?"
 chi_cng.3.a:0 "아니, 중국은 반드시 진정으로 통일되어야 한다."
 chi_cng.3.b:0 "그래, 그것이 국가를 재통일하는 가장 좋은 방법이다."
 
@@ -616,25 +616,25 @@ chi_cng.10.d2:0 "당 대회 기간 토론 이후, 민권파는 국민당에 대�
 chi_cng.10.a:0 "왕징웨이 주석의 정책은 항상 옳다."
 chi_cng.10.b:0 "민권파는 위원회에 새로운 에너지를 불어 넣을 것이다."
 
-chi_cng.11.t:0 "Call to Convene The Second National Congress"
-chi_cng.11.d:0 "With key cities such as Beijing and Nanjing under our control it is now time to convene a second congress and discuss new important issues. Many prominent members of the party have convened to discuss all matters of the state and organise the Kuomintang into the true power in China. Subjects such as our position in China and the fate of our wartime policies will be discussed in length."
+chi_cng.11.t:0 "2차 당 대회 소집"
+chi_cng.11.d:0 "베이징과 난징과 같은 주요 도시들이 우리의 통제를 받고 있는 지금, 이제 제2차 당 대회를 소집하고 새로운 중요한 문제들을 논의할 시간이 왔습니다. 수많은 당 저명 인사들이 소집되어 국가의 모든 문제를 논의하고 국민당을 중국의 진정한 세력으로 조직할 것입니다. 중국에서의 우리의 입장과 전시 정책의 운명과 같은 주제들이 길게 논의될 것입니다."
 chi_cng.11.a:0 "완벽해."
 
 chi_cng.12.t:0 "세금 문제"
-chi_cng.12.d:0 "The KMT has imposed some fairly high taxes since the first congress despite promising not to. This was hidden by the fact the KMT wasn't in a good position at the time, now with our capture of both Nanjing and Beijing the people have seen that they are not necessary any more. We can either ease the taxes a little or keep them in place for the time being..."
+chi_cng.12.d:0 "국민당은 그러지 않겠다고 약속했음에도 불구하고 1차 당 대회 이후 꽤 높은 세금을 부과했습니다. 이것은 당시 국민당이 좋은 위치에 있지 않았다는 사실로 가렸었는데, 이제 우리가 난징과 베이징을 모두 차지하면서 사람들은 그 세금이 더 이상 필요하지 않다는 것을 알게 되었습니다. 우리는 세금을 조금 완화하거나 당분간 그대로 둘 수 있습니다..."
 chi_cng.12.a:0 "We are still in a dangerous position?"
 chi_cng.12.b:0 "We must ease their burden."
 
-chi_cng.13.t:0 "Formation of a Permanent Capital"
-chi_cng.13.d:0 "With many key cities secured we plan a future event to discuss where the permanent capital of China should be. Many people brought this up as it is an issue of great contention with arguments to move the capital to the newly captured city of Beijing to even Wuhan, the birth of the revolution."
+chi_cng.13.t:0 "영구 수도 지정"
+chi_cng.13.d:0 "많은 주요 도시들을 확보했으므로 중국의 항구적인 수도가 어디에 있어야 하는지를 논의하기 위한 미래 행사들이 계획 중에 있습니다. 많은 사람들이 수도를 새로 점령한 베이징으로 옮기거나 혁명의 발상지인 우한으로 옮기자는 주장을 해 이 문제를 제기했습니다."
 chi_cng.13.a:0 "We will certainly put some thought into this."
 
-chi_cng.14.t:0 "The Reintegration of the North"
-chi_cng.14.d:0 "The KMT's influence in the North of China has always been minimal so we must make an effort to bring the various warlords here under our control and perhaps give them a show of force. Some ministers brought up the possibility of securing parts of east Asia and even Russian territories, whilst they were laughed at the idea of securing foreign territories to make sure imperialist influence doesn't spread to any other of our neighbours is something to consider.   "
+chi_cng.14.t:0 "북부 재통합"
+chi_cng.14.d:0 "국민당의 중국 북부 지역에 대한 영향력은 항상 미미하기 때문에 우리는 다양한 군벌들을 우리의 통제 하에 데려오고 그들에게 힘을 과시하기 위해 노력해야 합니다. 일부 장관들은 동아시아의 일부와 심지어 러시아 영토를 확보할 가능성을 제기했고, 그들은 제국주의적 영향력이 이웃국에 퍼지지 않도록 하기 위해 외국 영토를 확보한다는 생각을 비웃었습니다."
 chi_cng.14.a:0 "The North must be pacified."
 
-chi_cng.15.t:0 "End of the Congress"
-chi_cng.15.d:0 "With the key cities of Beijing and Nanjing under our control we can now prove to the rest of the world that we are the legitimate government and that they should support us. Now with the Northern Expedition over it is at last our turn to play the role of Beijing Government."
+chi_cng.15.t:0 "당 대회 폐회"
+chi_cng.15.d:0 "베이징과 난징의 주요 도시들이 우리의 통제 하에 있기 때문에 우리는 이제 우리가 합법적인 정부라는 것과 전세계가 우리를 지원해야 한다는 것을 전세계에 증명할 수 있습니다. 이제 북벌이 끝났으니 우리가 마침내 베이징 정부의 역할을 맡을 차례입니다."
 chi_cng.15.a:0 "The Northern Expedition has been avenged."
 
 chi_for.1.t:0 "Support from KMT Centre"
@@ -963,33 +963,33 @@ chi_for.65.a:0 "Twice the pride, double the fall"
 ### Start of localisation done by Omanisch ###
 ##############################################
 
-chi_fng.1.t:0 "Negotiations Begin"
-chi_fng.1.d:0 "The Fengtian delegates have arrived in Nanjing and have been greeted cheerfully by our delegates. After treating the Fengtian delegations to lunch, talks are now ready to commence."
+chi_fng.1.t:0 "협상의 시작"
+chi_fng.1.d:0 "봉천 대표단은 난징에 도착해 우리 대표단의 환호를 받았습니다. 봉천 대표단에 점심에 대접한 후, 이제 회담이 시작될 준비가 되었습니다."
 chi_fng.1.a:0 "Let's hope Marshal Zhang will put China before himself"
 
-chi_fng.2.t:0 "[CHI.GetNameDefCap] Invites us to Negotiate"
+chi_fng.2.t:0 "[CHI.GetNameDefCap]이(가) 우리를 협상에 초대하다"
 chi_fng.2.d:0 "While we have most certainly had our differences with the Kuomintang, we must remember that we were both founded on the same basic ideals of republicanism. While this might be true, we must also keep in mind that their form of republicanism has been corrupted by syndicalist elements. However, they could prove to be a useful ally against [QIE.GetNameDefCap]. How should we reply?"
 chi_fng.2.a:0 "We will hear them out"
 chi_fng.2.b:0 "No cooperation with the syndicalists!"
 
-chi_fng.3.t:0 "Negotiations Break Down"
-chi_fng.3.d:0 "While we have tried our best to bring fair and reasonable options to the table, the Fengtian delegates have proven themselves to be unreasonable. Fengtian delegates today have walked out and negotiations have been stalled."
+chi_fng.3.t:0 "협상 결렬"
+chi_fng.3.d:0 "우리는 협상테이블로 공정하고 합리적인 선택지를 가져오려고 최선을 다했지만, 봉천 대표들은 스스로 불합리함을 입증했습니다. 봉천 대표단은 오늘 빠져나갔고 협상은 멈췄습니다."
 chi_fng.3.a:0 "They aren't real republicans!"
 
-chi_fng.4.t:0 "Fengtian Agrees to Attend Negotiations"
-chi_fng.4.d:0 "The Fengtian government has agreed to our request for negotiations. They are set to take place in Nanjing shortly."
+chi_fng.4.t:0 "봉천이 협상 참석에 동의"
+chi_fng.4.d:0 "봉천 정부는 우리의 협상 요청에 동의했습니다. 협상은 곧 난징에서 열릴 것입니다."
 chi_fng.4.a:0 "Marshal Zhang has seen reason, let us begin."
 
-chi_fng.5.t:0 "Negotiations Continue"
-chi_fng.5.d:0 "The negotiations are continuing, so far, with little progress. However, there is still hope that an agreement can be reached."
+chi_fng.5.t:0 "계속되는 협상"
+chi_fng.5.d:0 "협상은 지금까지 거의 진척되지 않고 계속되고 있습니다. 그러나 합의가 이뤄질 수 있다는 희망은 여전히 남아 있습니다."
 chi_fng.5.a:0 "These things take time"
 
-chi_fng.6.t:0 "Fate of the [QIE.GetNameDefCap]"
-chi_fng.6.d:0 "The pressing issue of these negotiations have been on what to do with [QIE.GetNameDefCap]. We have two options. We could propose that we along with Fengtian invade [QIE.GetNameDefCap] together, or we could propose that Fengtian not Intervene in an invasion into [QIE.GetNameDefCap]."
+chi_fng.6.t:0 "[QIE.GetNameDefCap]의 운명"
+chi_fng.6.d:0 "이 협상에서 시급한 문제는 [QIE.GetNameDefCap]을(를) 어떻게 할 것인가 하는 문제였습니다. 우리에게는 두 가지 선택지가 있습니다. 첫 번째로, [QIE.GetNameDefCap]을(를) 협공하자고 제안할 수 있습니다. 두 번째로는, [QIE.GetNameDefCap] 침공에 봉천이 간섭하지 말 것을 제안할 수도 있습니다."
 chi_fng.6.a:0 "Propose the Kuomintang and Fengtian organise a joint invasion of [QIE.GetNameDefCap]"
 chi_fng.6.b:0 "Propose a Non-Intervention pact with Fengtian and have them stay out of the war"
 
-chi_fng.7.t:0 "The Kuomintang Offers an Alliance Against [QIE.GetNameDefCap]"
+chi_fng.7.t:0 "국민당이 대[QIE.GetNameDefCap] 동맹을 제안하다"
 chi_fng.7.d:0 "The delegates in Nanjing have proposed to us an alliance against [QIE.GetNameDefCap]. While this would almost certainly insure the destruction of [QIE.GetNameDefCap], we may be forced to share the spoils of war with the Kuomintang."
 chi_fng.7.a:0 "The [QIE.GetNameDefCap] must fall. We will work with the Kuomintang."
 chi_fng.7.b:0 "We can take out the [QIE.GetNameDefCap] by ourselves"
