@@ -1644,27 +1644,27 @@ anq.173.d4:0 "협상을 통해 중국을 성공적으로 통일하고, 우리와
 anq.173.a:0 "알겠다."
 
 anq.165.t:0 "반연성주의자들과 [QIE.GetNameDef]"
-anq.165.d1:0 "Our republican stance has led to increased support from the Republican faction of the Anti-Concessions League. To the north, the Qing still rule, even though Puyi is little more than Wu Peifu's puppet. We must continue emphasising our republican ideals in order to the keep the Anti-Concessions League as our ally."
-anq.165.d2:0 "The Qing are no longer ruled by Wu Peifu's Zhili Clique. Instead, Puyi was restored to greater power in a coup known as the Manchu Restoration. This has greatly increased anti-monarchist sentiment among Anti-Concessionists within our country and cemented our pro-republican reputation. The Monarchist faction of the Anti-Concessions League, which used to emphasize the fact that the Qing government was a harmonious balance between the Zhili Clique and the Manchu Qing dynasty, have seen their arguments weaken with the destruction of the Zhili Clique. Of course, at the same time some staunchly pro-Manchu Monarchists have gained support, but they are a minority. With the Manchus holding greater power and remaining unpopular, our popularity has increased. Increased calls have been made for us to join the Reclamation War with Fengtian against the Qing government."
-anq.165.d3:0 "Much of our argument in siding with the Fengtian government was based on republican ideals. The 1911 Xinhai Revolution, which was wildly popular, was inherently republican and anti-monarchist and our reiteration of its ideals has increased the legitimacy of our denial of Qing being the true government of China. However, following an attempted coup, Wu Peifu has consolidated control over the government and ousted Puyi from the throne, declaring a republic in the process. This is bad news for us, as this undermines much of the fundamental premise of our support for Fengtian. The Republican faction of the Anti-Concessions League, always the most popular, has now seen members change their support from Fengtian for Wu Peifu's Zhili Clique. They have called on us to do the same, but unfortunately considering Fengtian's support for us in the League War, we are unable to do this. This will hurt our credibility."
-anq.165.a:0 "Alright."
-anq.165.b:0 "Great."
-anq.165.c:0 "That's not good."
+anq.165.d1:0 "우리가 공화주의적 태도를 견지하자, 반연성주의 연맹 중에서도 공화주의파의 지지를 한껏 받게 되었습니다. 푸이는 여전히 우페이푸의 꼭두각시에 지나지 않지만, 여전히 청은 북부를 통치하고 있습니다. 우리는 반연성주의 연맹을 우리의 동맹으로 유지하기 위해 공화주의적 이상을 지켜나가야 합니다."
+anq.165.d2:0 "청은 더 이상 우페이푸의 직예 군벌의 지배를 받지 않습니다. 푸이는 만주 복고라 불리는 친위 쿠데타로 더 큰 권력을 손에 쥐게 되었습니다. 이는 우리나라 내 반연성주의자들이 독재에 반대하는 정서를 확고히 하게 만들었고, 우리는 공화주의를 견지하고 있다는 명성을 얻게 되었습니다. 청 정부가 직예 군벌과 청 황조 사이의 균형을 잘 맞추었다고 주장하던, 반연성주의 연맹의 군주론파는 직예 군벌의 몰락과 동시에 설득력을 잃었습니다. 동시에 친만주 군주론자들은 지지를 얻었지만, 그들은 소수에 불과합니다. 만주족은 더 큰 권력을 쥐게 되었으나 대중적인 인기를 얻지 못하고 있지만, 우리의 인기는 가면 갈수록 높아지고 있습니다. 청에 대항하여 봉천 정부와 함께 수복 전쟁에 참가하라는 요구가 거세지고 있습니다."
+anq.165.d3:0 "봉천 정부를 옹호하는 우리의 의견은 공화주의적 이상에 근거한 것입니다. 1911년 전국적으로 벌어졌던 신해혁명은 본래 공화주의자들과 반군주론자들을 기반으로 하고 있었고, 그들의 이상을 되풀이하는 것은 청이 중국의 진정한 정부임을 부정하는 우리 주장의 설득력을 높여주었습니다. 하지만 푸이의 쿠데타 시도가 실패로 끝나고, 우페이푸는 정부에 대한 지배권을 확립하고 푸이를 황좌에서 몰아냈으며, 공화국을 선포했습니다. 이는 우리에게 나쁜 소식입니다. 우리가 봉천을 지원하는 근본적인 명분을 약화시키기 때문이죠. 대중적으로 인기가 많은, 반연성주의 연맹의 공화주의파는 이제 봉천 정부가 아니라 우페이푸의 직예 군벌을 지지하고 있습니다. 그들은 우리에게도 지지 세력을 바꾸라 요구했지만, 연맹 전쟁에서 봉천 정부가 우리에게 지원한 것을 생각하면 불가능한 일입니다. 이는 우리의 대외적인 신뢰도를 떨어뜨릴 것입니다."
+anq.165.a:0 "알겠다."
+anq.165.b:0 "아주 좋아."
+anq.165.c:0 "좋지 않아."
 
 anq.166.t:0 "반연성주의 연맹이 영토 수복을 요구하다"
-anq.166.d1:0 "The Anti-Concessions League, the largest Anti-Concessionist organization in China, was originally divided on whether it would support our intention to join our ally Fengtian in the Reclamation War. However, the recent Manchu Restoration in Qing has marginalized the Monarchists and emboldened the Republicans, who see it as an example of why even a 'constitutional monarchy' would not work. Even though they do not like Fengtian much,"
-anq.166.d2:0 "The Anti-Concessions League, the largest Anti-Concessionist organization in China, was originally divided on whether it would support our intention to join our ally Fengtian in the Reclamation War. However, the break in relations between Fengtian and Japan have caused the Republicans who supported Fengtian to gain significant support, as the Japanese issue was the main reason why the League hadn't fully embraced our partnership with Fengtian. The Republican faction is much emboldened now and have called for our government to join Fengtian and end the Qing regime."
-anq.166.d3:0 "The Anti-Concessions League, the largest Anti-Concessionist organization in China, was originally divided on whether it would support our intention to join our ally Fengtian in the Reclamation War. However, our government has shown that it is not just any warlord government but has truly made effort to achieve proper legitimacy and credibility. As a result, because of our partnership with Fengtian, Republican Anti-Concessionists have now been swayed to our side and have come out in support of us participating in the Reclamation War, believing that we will make sure Fengtian behaves."
-anq.166.a:0 "Good."
+anq.166.d1:0 "중국의 가장 큰 반연성주의 단체인 반연성주의 연맹은, 본래부터 우리의 동맹이었던 봉천 정부와 함께 수복 전쟁에 동참하는 것에 지지를 보낼지에 대해 의견이 갈렸습니다. 하지만 최근 청의 만주 복고 사건으로 군주정파는 약화되고 공화주의파는 크게 성장했습니다. 그들은 '입헌군주제'도 제대로 굴러가지 않을 거라는 주장의 근거로 이 사례를 제시하고 있습니다. 비록 그들은 청뿐만 아니라 봉천 정부도 싫어하지만요."
+anq.166.d2:0 "중국의 가장 큰 반연성주의 단체인 반연성주의 연맹은, 본래부터 우리의 동맹이었던 봉천 정부와 함께 수복 전쟁에 동참하는 것에 지지를 보낼지에 대해 의견이 갈렸습니다. 하지만 봉천 정부와 일본이 관계를 단절하면서, 봉천 정부를 지지했던 공화주의파들이 수복 전쟁 참여에 대해 상당한 지지를 보냈습니다. 이는 그들이 여태까지 일본이라는 존재 때문에 봉천 정부와 우리 간의 관계를 꺼림칙해 했기 때문입니다. 공화주의파는 훨씬 대담해지고 있으며, 우리 정부가 봉천 정부와 함께 청 정부를 종식시킬 것을 촉구했습니다."
+anq.166.d3:0 "중국의 가장 큰 반연성주의 단체인 반연성주의 연맹은, 본래부터 우리의 동맹이었던 봉천 정부와 함께 수복 전쟁에 동참하는 것에 지지를 보낼지에 대해 의견이 갈렸습니다. 하지만 우리 정부는 여러 군벌 정부들의 하나가 아니라, 진정한 정당성과 신뢰성을 가진 정부임을 보여주고자 노력해왔습니다. 그 결과 반연성주의 연맹 내의 공화주의파는 봉천 정부와의 관계를 맺는 것에 대해 지지를 보내왔습니다. 우리가 봉천 정부의 행동을 통제할 수 있는 조건 하에, 수복 전쟁에 참여하는 것에 지지할 것입니다."
+anq.166.a:0 "좋아."
 
 anq.167.t:0 "반연성주의 연맹이 영토 수복에 반대하는 시위를 전개하다"
-anq.167.d1:0 "Recent events, particularly the Republican takeover of Beijing led by Wu Peifu, have caused great turmoil among Anti-Concessionists. Many believe that even though Wu Peifu cooperates with the Germans, he is still a principled man, much more so than Zhang Zuolin, who sells out to the Japanese instead. As a result, they have actively called for us to forgo participation in the Reclamation War. While we cannot afford to break ties with the Fengtian government due to their support of us, we can try to take a less active role in the conflict."
-anq.167.d2:0 "Recent events that have led to a thorough increase in Japanese influence over Fengtian, have led to outrage within the Anti-Concessions League. Even some of the most ardent republicans have withdrawn their support for the Fengtian government, saying that we must instead seek a neutral position in Fengtian's desired Reclamation War against the [QIE.GetNameDef]. While we cannot afford to break ties with the Fengtian government due to their support of us, we can indeed try to take a less active role in the conflict."
-anq.167.a:0 "We don't want to make them angry."
+anq.167.d1:0 "최근의 사건들, 특히 우페이푸가 이끄는 공화주의자들이 베이징을 장악한 사건은 반연성주의자들 사이에서 큰 혼란을 야기했습니다. 많은 이들은 우페이푸가 독일인과 협력하고 있음에도 불구하고, 여전히 그는 원칙을 준수하는 사람이며, 일본인에게 우리를 팔아버릴 장쭤린보다 훨씬 낫다고 믿습니다. 그들은 우리가 수복 전쟁에 참여하는 것을 포기하도록 적극적으로 요구하고 있습니다. 오직 그들의 지지 때문만으로 봉천 정부와의 관계를 단절할 수는 없지만, 전쟁이 터졌을 때 덜 적극적으로 나설 수는 있습니다."
+anq.167.d2:0 "봉천 정부에 대한 일본의 영향력이 심히 증가하게 만든 최근의 사건들은, 반연성주의 연맹 내부의 분노를 야기했습니다. 심지어 가장 열렬한 공화주의파 중 일부는 봉천 정부와 [QIE.GetNameDef] 간 수복 전쟁에 참여하지 않고 중립적인 위치를 고수하자며 봉천 정부를 지지하지 않아야 한다 주장합니다. 오직 그들의 지지 때문만으로 봉천 정부와의 관계를 단절할 수는 없지만, 전쟁이 터졌을 때 덜 적극적으로 나설 수는 있습니다."
+anq.167.a:0 "그들을 화나게 만들고 싶지는 않다."
 
 anq.168.t:0 "반연성주의 연맹이 영토 수복에 대해 둘로 갈라지다"
-anq.168.d:0 "The various factions within the Anti-Concessions League remain divided on the question of whether we should participate in the Reclamation War. Our partnership with Fengtian basically requires it, but we could also choose for a less active role."
-anq.168.a:0 "We can make our own decision."
+anq.168.d:0 "우리가 수복 전쟁에 참여해야 하는지에 대한 문제에 대해 반연성주의 연맹 내의 여러 파벌들은 갈등을 벌이고 있습니다. 봉천 정부와의 관계는 필요하지만, 우리가 덜 적극적으로 활동할 수도 있습니다."
+anq.168.a:0 "우리가 직접 결정을 내릴 것이다."
 
 anq.169.t:0 "일본이 봉천 정부에 영향력을 행사하다"
 anq.169.d1:0 "We have not only the Anti-Concessions League to worry about when it comes to Japanese influence. It also concerns our own interests. High Japanese influence would also mean our autonomy would be under question more quickly, as the Japanese would most likely prefer us to be eliminated, in part due to our Anti-Concessionist stance. And right now, Japan has an extremely dominant position in the Fengtian economy and political sphere. This makes us very uncomfortable to join their Reclamation War."
@@ -1708,24 +1708,24 @@ anq.177.d1:0 "Due to our decision to not participate in Fengtian's Reclamation W
 anq.177.d2:0 ""Due to our decision to not participate in Fengtian's Reclamation War to capture Beijing, they have cut ties with us and labeled us as just another warlord government. They have also canceled all remaining reconstruction aid. This is unfortunate but expected. We must now rely upon ourself to see China's future secured and we will have to watch what happens in both the north and south very closely."
 anq.177.a:0 "It is how it is."
 
-anq.178.t:0 "Fengtian Tolerates Non-Participation"
+anq.178.t:0 "봉천이 우리의 불참을 용서하다"
 anq.178.d1:0 "Fengtian is, as expected, very unhappy with our decision not to participate in their Reclamation War to capture Beijing. However, as they are in dire need of allies and all possible help, Fengtian has decided to not cut ties with us and to continue to tolerate our presence among their group of allies. This allows us to still reap some of the benefits of cooperation with them and the Japanese. However, as the Reclamation War progresses, they will most likely cut us out anyway if we do not participate. We can decide to not agree to this and cut ties ourselves, fully distancing from the Fengtian government. The latter will give us some increased standing as we had already announced we would not be supporting Fengtian. [getanqcanannexshandong]"
 anq.178.d2:0 "Fengtian is, as expected, very unhappy with our decision not to participate in their Reclamation War to capture Beijing. However, as they are in dire need of allies and all possible help, Fengtian has decided to not cut ties with us and to continue to tolerate our presence among their group of allies. This allows us to still reap some of the benefits of cooperation with them and the Japanese. Unfortunately, they have decided to cancel their remaining reconstruction aid. Furthermore, as the Reclamation War progresses, they will most likely cut us out anyway if we do not participate. We can decide to not agree to this and cut ties ourselves, fully distancing from the Fengtian government. The latter will give us some increased standing as we had already announced we would not be supporting Fengtian. [getanqcanannexshandong]"
 anq.178.a:0 "Alright."
 anq.178.b:0 "Cut ties anyway."
 anq_can_annex_shandong: "If we cut ties, we can also take full control of our Shandong puppet."
 
-anq.179.t:0 "Keeping Shandong"
+anq.179.t:0 "산둥성을 장악하다"
 anq.179.d:0 "Since we have decided to no longer fight together with Fengtian and no longer recognize them as the national government of China, there is no reason to keep Shandong as an autonomous province and hand it over to Fengtian later on. We should recall Liu Heding and assume full control over the province."
 anq.179.a:0 "Great."
 
 
-anq.180.t:0 "End of Destruction"
+anq.180.t:0 "파괴의 끝"
 anq.180.d:0 "Through many months of hard work and targeted programs, we have repaired the majority of our industry and fixed the worst destruction in the cities and countryside. While there is still a deeper damage that has yet to heal, at least most of the material value has been restored and our country can again function properly."
 anq.180.a:0 "Great."
 
 
-anq.181.t:0 "Full Civilian Government"
+anq.181.t:0 "완전한 민간 정부의 수립"
 anq.181.d:0 "We have transfered the last of the Five Provinces from direct military occupation to more civilian governments. All the governors have been installed and the bureaucracy has returned to normal. All of these governments are loyal to our leader, Chen Tiaoyuan. Nanjing is also firmly under our control. We now truly control all of the Five Provinces."
 anq.181.a:0 "Fantastic."
 
