@@ -471,37 +471,37 @@ TAN_restart_immigration:0 "이민 재개"
 TAN_restart_immigration_desc:0 "서부 관문의 분쟁으로 인해 이민자들이 너무 오랫동안 겁에 질려 있었습니다. [TAN.GetLeader]의 선언이 이민을 장려하고 추가적인 전쟁에 대한 두려움을 잠재울 수 있기를 희망합니다."
 
 TAN_reach_out_to_china:0 "중국에게 손을 뻗치다"
-TAN_reach_out_to_china_desc:0 "The tribute we gave to Beijing every seven years has allowed some experience with the Northern warlords. We should leverage this memory and reach out to China for military protection."
+TAN_reach_out_to_china_desc:0 "7년마다 베이징에 바친 조공으로 인해 북부 군벌들으로부터 보호를 받을 수 있었습니다. 그 당시의 기억을 대살려 중국에 손을 내밀어 보호를 요청해야 합니다."
 
 TAN_autonomy_in_vogue:0 "자치가 퍼저나가다"
-TAN_autonomy_in_vogue_desc:0 "In order to administer the vastness of Xinjiang, we must defer to the same automonus principle Governor Yang Zengxin afforded us."
+TAN_autonomy_in_vogue_desc:0 "광활한 신장을 다스리기 위해서는 양쩡신 총독이 우리에게 제공했던 것과 같은 자치권을 베풀어야 합니다."
 
 TAN_promote_local_businesses:0 "지역 사업을 장려하다"
-TAN_promote_local_businesses_desc:0 "The market in Xinjiang reflects the decades of tensions and segregation the Governors imposed on us. Now, a more harmonious economy can be promoted if we patronize local businesses in all the major cities of Xinjiang. "
+TAN_promote_local_businesses_desc:0 "신장 시장은 수십견간 이어져온 긴장과 총독의 분리 정책을 대표했습니다. 이제, 신장 영내의 모든 대도시에서 지역 기업을 후원한다면 보다 조화로운 경제를 이끌어낼 수 있습니다. "
 
 TAN_pardon_rebellious_uyghurs:0 "위구르 반란군 사면"
-TAN_pardon_rebellious_uyghurs_desc:0 "It is the opinion of the ministry that the uyghur people can easily be made to accept our rule. A select few pious uyghurs should be pardoned so long as they turn over their arms."
+TAN_pardon_rebellious_uyghurs_desc:0 "정부 부처에서 위구르족이 더 쉽게 우리의 통치력을 수용하도록 만들어야 한다는 의견을 제시했습니다. 소수의 경건한 위구르족이 무기를 내려놓는다면 용서해주어야 합니다."
 
 TAN_seek_legitimacy:0 "합법성 추구"
-TAN_seek_legitimacy_desc:0 "A majority of China considers us no more than a rebellious servant. A selection of gifts could convince their own masters that we are worthy of succeeding Xinjiang."
+TAN_seek_legitimacy_desc:0 "중국인 대다수가 더 이상 우리를 반항적인 하수인으로 여기지 않습니다. 선물을 몇개 선정해 저들의 통치자들이 우리가 신장을 계승할 정당성이 있다고 확신을 주어야 합니다."
 
 TAN_internal_stability:0 "내부 안정성"
-TAN_internal_stability_desc:0 "A long list of unanswered claims are awaiting our answer. If we are able to satisfy at least half of these claimants, we can pick apart the tangle of instability in our administration."
+TAN_internal_stability_desc:0 "중국인 대다수가 더 이상 우리를 반항적인 하수인으로 여기지 않습니다. 선물을 몇개 선정해 저들의 통치자들이 우리가 신장을 계승할 정당성이 있다고 확신을 주어야 합니다."
 
 TAN_responsible_government:0 "책임성 있는 정부"
-TAN_responsible_government_desc:0 "Trust in our administration comes from promoting responsible people. Althought many of us began as rebels and insurgents, it does not prevent us from hiring competent executors of our judgement."
+TAN_responsible_government_desc:0 "책임감 있는 인물을 높은 직위에 배치한다면 정부 신뢰도가 자연히 높아질 겁니다. 우리 정부 인사 대부분이 반란군이나 반역자에서 시작하기는 했지만, 그렇다고 해서 훌륭한 판단력을 가진 실무자를 고용하지 못한다는 뜻은 아닙니다."
 
 TAN_defensive_neutrality:0 "중립성 고수"
-TAN_defensive_neutrality_desc:0 "The western gate is now an attractive target for the insurgents of Manchuria and Southern China. We must call upon the General Staff to devise a general defense strategy to prevent another war so destructive as the last."
+TAN_defensive_neutrality_desc:0 "서부 관문은 이제 만주와 중국 남부에서 온 반란군들에게 매력적인 표적이 되어 버렸습니다. 총참모부에게 지난 번에 벌어졌던 것과 같은 파괴적인 전쟁을 막기 위한 기본적인 방어 전략을 수립하라고 지시해야 합니다."
 
 TAN_crossroads_of_empires:0 "제국의 교차로"
-TAN_crossroads_of_empires_desc:0 "The Russians, the Turks, and even the Japanese ae eyes us as a new borderland. We can no longer deny the presence of their agents in our land, and we must make formal diplomatic contact with these potential enemies and see if any are in favor of our autonomy."
+TAN_crossroads_of_empires_desc:0 "러시아인, 터키인, 그리고 심지어는 일본인들까지 우리나라를 새로운 국경지대로 바라봅니다. 더 이상 저들의 요원들이 우리 영토에서 암약한다는 사실을 부정 할 수는 없으며, 저 잠재적 적들과 정식으로 외교 관계를 수립해 우리의 자치권에 참성하는 자가 있는지 살펴봐야 합니다."
 
 TAN_safety_and_prosperity:0 "안정과 번영"
-TAN_safety_and_prosperity_desc:0 "If the Han and Hui people are not split, safety and prosperity will be ensured. This is our great goal of cooperation between the races in Xinjiang."
+TAN_safety_and_prosperity_desc:0 "한족과 회족이 갈라지지만 않는다면 안전과 번영이 보장됩니다. 신장 내 인종들 사이의 협력은 우리의 가장 큰 목표입니다."
 
 TAN_khanate_continuation:0 "칸국 유지"
-TAN_khanate_continuation_desc:0 " Upon [TAN.GetLeader]'s ascension, his promise of reforming the Khanate was not taken seriuously. Now, backed by force, the Khan intends to carry out his reforms and prove himself to his people."
+TAN_khanate_continuation_desc:0 " [TAN.GetLeader](이)가 칸에 등극하면서 약속했던 칸국에 대한 개혁을 진지하게 받아들였던 이는 아무도 없었습니다. 하지만 이제 칸은 무력에 의지해 개혁을 단행하여 백성들에게 자신의 존재를 증명할 작정입니다."
 
 TAN_constitutionalism_prevails:0 "입헌주의의 승리"
 TAN_constitutionalism_prevails_desc:0 "The scraps of idealism imported from the south has triumphed in Kumulik politics. A provincial constitution, with elements of the Kanun-u Esasi of the Ottomans and single party tutelage as promoted by Sun Yat-Sen."
