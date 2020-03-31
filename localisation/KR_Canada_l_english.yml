@@ -479,7 +479,7 @@ CAN_meet_with_germany:0 "[From.GetFactionName](와)과의 만남"
 CAN_meet_with_germany_desc:0 "Both the Entente and the [From.GetFactionName] are at war with the Third Internationale. There have been murmurings within the Entente leadership that co-operation between our sides might be beneficial... although others say it will likely come at too high a price. Still, it would be worth meeting with the [From.GetAdjective] government to see if co-operation is even possible."
 
 CAN_returning_home_decisions:0 "본토"
-CAN_returning_home_decisions_desc:0 "우리의 최우선 목표는 영국 본토를 생디칼리스트들에게서 되찾고 연합왕국의 재건을 목도하는 것입니다. 이는 [CAN_king_full_name]를 국왕으로 모시는 이들로서, 100만 명이 넘는 영국 망명자들의 제2의 고향으로서, 그리고 협상국의 지도자로서 우리의 의무입니다. 쉽지 않은 일이겠지만, 우리는 어떻게든 방법을 찾아낼 것입니다."
+CAN_returning_home_decisions_desc:0 "우리의 최우선 목표는 영국 본토를 생디칼리스트들에게서 되찾고 연합왕국의 재건을 목도하는 것입니다. 이는 [CAN_king_full_name]을 국왕으로 모시는 이들로서, 100만 명이 넘는 영국 망명자들의 제2의 고향으로서, 그리고 협상국의 지도자로서 우리의 의무입니다. 쉽지 않은 일이겠지만, 우리는 어떻게든 방법을 찾아낼 것입니다."
 CAN_erode_uob_legitimacy:0 "Erode Syndicalist Legitimacy"
 CAN_erode_uob_legitimacy_desc:0 "Our efforts must be to convince the British people that the [ENG.GetNameDef] government is and always was an illegitimate construction, as well as their true oppressor. If their will to fight on behalf of the syndicalists collapses, the reconstruction of the United Kingdom can truly begin."
 CAN_attack_uob:0 "본토 수복"
