@@ -1073,30 +1073,30 @@ ausgleich.new.702.a:0 "우리 영토의 통합은 반드시 수호되어야 한�
 ausgleich.new.702.b:0 "우리는 아무것도 할 수 없다..."
 
 ausgleich.new.800.t:0 "오스트리아의 몰락"
-ausgleich.new.800.d:0 "It has become increasingly clear, with both the Armee-Oberkommando (Army High Command) and the Foreign Ministry in panic, that the war with our upstart neighbours has taken a turn for the worst. With the core of the Monarchy threatened, even the once-confident AOK is fearing for the worst and that not only is the territorial integrity of the Empire no longer salvageable, but that it may already be at the doorstep of complete collapse. To save face and prevent this potential collapse, it has been suggested to the Emperor-King that we must sue for peace or face the dismantlement of the Habsburg Monarchy altogether."
-ausgleich.new.800.a:0 "We are beaten. Sue for peace."
-ausgleich.new.800.b:0 "We will not surrender!"
+ausgleich.new.800.d:0 "육군 최고사령부와 외교부가 공황상태에 빠져있는 가운데, 우리의 신흥 이웃 국가들과의 전쟁이 최악의 국면을 맞이했다는 사실이 분명해지고 있습니다. 왕권이 위협받고 있는 가운데, 한때 자신만만했던 육군 최고사령부조차도 최악의 사태를 두려워하고 있습니다. 제국의 영토는 더 이상 구제될 수 없을 뿐더러, 이미 완전한 붕괴의 문턱에 와있습니다. 제국의 체면을 세우고, 완전한 붕괴를 막기 위해, 평화를 호소하거나 합스부르크 왕정을 해체해야 합니다."
+ausgleich.new.800.a:0 "우리는 패배했다. 평화를 애원하라."
+ausgleich.new.800.b:0 "우리는 항복하지 않는다!"
 
-ausgleich.new.801.t:0 "Austria Sues For Peace"
-ausgleich.new.801.d:0 "The tyranical Habsburg Monarchy's troops have been beaten on the field by our glorious liberating armies. Even the decrepid head of the rotten Empire is seeing his inevitable demise and has sued for terms. They are willing to cede all of our claims as they are desperate to salvage what is left. With our aims achieved, there is little reason to refuse this generous offer even if the prospect of marching through Vienna's Heldenplatz and finishing off the dying corpse of an Empire is indeed tempting."
-ausgleich.new.801.a:0 "We are triumphant."
-ausgleich.new.801.b:0 "No, we shall end the Habsburgs once and for all!"
+ausgleich.new.801.t:0 "오스트리아가 항복을 애원하다"
+ausgleich.new.801.d:0 "우리의 영광스러운 해방군은 합스부르크 왕정의 압제적인 군대를 꺾었습니다. 썩은 제국의 늙은 우두머리조차 더이상 죽음을 피할 수 없다는 사실을 알았고, 몇 가지 조건을 단 채 평화를 애원했습니다. 그들은 남은 것이라도 건지기 위해 우리가 요구하는 것들을 모두 넘겨줄 용의가 있습니다. 우리의 목표가 일단 달성되었으니, 빈의 영웅광장을 행진하지 않게 되더라도 이 제안을 거절할 이유는 없습니다."
+ausgleich.new.801.a:0 "우리는 승리했다."
+ausgleich.new.801.b:0 "아니, 우리는 합스부르크를 완전히 끝낼 것이다!"
 
 ausgleich.new.802.t:0 "부다페스트 조약" #AUS POV
-ausgleich.new.802.d:0 "Delegates of the Habsburg Monarchy met with their counterparts of the Belgrade Pact in Budapest to hammer out the peace terms. We have agreed to cede all claims they have on Imperial and Royal lands in exchange for peace. This humiliating defeat marks a new chapter in Habsburg history as we can no longer consider ourselves to be a Great Power. However, we may be able to salvage what is left and avoid the complete dismantling of the Monarchy."
-ausgleich.new.802.a:0 "Peace at last."
+ausgleich.new.802.d:0 "합스부르크 왕가의 대표들은 부다페스트에서 베오그라드 협약 회원국들과 만나 평화협정을 체결했습니다. 우리는 평화를 대가로 그들에게 황실 및 왕실 영토의 모든 권리를 양도하는데 동의했습니다. 이 굴욕적 패배는 합스부르크 역사에 치욕으로 남을 것입니다. 더이상 우리는 강대국이 아닙니다. 하지만 그나마 남은 것은 건질 수 있고, 왕국의 완전한 해체는 피할 수 있을지 모릅니다."
+ausgleich.new.802.a:0 "마침내 평화가 도래했군."
 
-ausgleich.new.803.t:0 "The Treaty of Budapest" #SER/ROM/POL/ITA POV
-ausgleich.new.803.d:0 "Delegates of the Belgrade Pact met with their Habsburg counterparts in Budapest to hammer out the peace terms. In the ensueing treaty, the Austrians have ceded all our claims in exchange for peace. This is a glorious day indeed, for the Balkans are finally free from foreign interference and our ethnic brothers are finally reunited with the homeland."
-ausgleich.new.803.a:0 "A magnificent victory!"
+ausgleich.new.803.t:0 "부다페스트 조약" #SER/ROM/POL/ITA POV
+ausgleich.new.803.d:0 "베오그라드 협약의 대표들은 부다페스트에서 합스부르크 왕가의 대표들과 만나 평화협정을 체결했습니다. 오스트리아인들은 평화를 대가로 우리에게 모든 권리를 넘겨주었습니다. 발칸 반도는 마침내 외국의 간섭으로부터 자유로워졌고, 우리의 동포들은 고국의 품에 들어오게 되었습니다. 참으로 영광스러운 날입니다."
+ausgleich.new.803.a:0 "위대한 승리다!"
 
-ausgleich.new.804.t:0 "[FROM.GetNameDef] Refuses Peace"
-ausgleich.new.804.d:0 "Our peace offer to [FROM.GetNameDef] has been unceremoniously rejected. The war will go on until one side agrees to unconditional surrender. More blood will have to be shed in order to end this merciless war."
-ausgleich.new.804.a:0 "A fight to the bitter end, then."
+ausgleich.new.804.t:0 "[FROM.GetNameDef]이(가) 평화를 거절하다"
+ausgleich.new.804.d:0 "우리가 [FROM.GetNameDef]에게 한 평화 제안이 거부되었습니다. 전쟁은 한쪽이 무조건 항복할 때까지 계속될 것입니다. 이 무자비한 전쟁을 끝내려면 더 많은 피가 흘러야 할 것입니다."
+ausgleich.new.804.a:0 "그럼 끝까지 싸우도록 하지."
 
-ausgleich.new.805.t:0 "The Treaty of Budapest" #global news event
-ausgleich.new.805.d:0 "A new chapter opens for the Habsburg Monarchy as their forces have been defeated by the Belgrade Pact and her allies. Once one of the dominant forces in the Balkans, Austria has seen continuous decline for decades and while their hollow victory in the Weltkrieg had brought a brief respite, the Belgrade Pact may have finally brought down the once-proud Empire. The map of the Balkans and Central Europe have been redrawn once more; Austria can no longer consider herself a Great Power while her neighbours have reunited with their national brethrens once firmly under Habsburg control."
-ausgleich.new.805.a:0 "Austria has fallen far..."
+ausgleich.new.805.t:0 "부다페스트 조약" #global news event
+ausgleich.new.805.d:0 "합스부르크 왕국의 군대가 베오그라드 협약 회원국들에 의해 패배하면서 그들에게 새로운 장이 펼쳐졌습니다. 한때 발칸 반도에서 지배적인 힘을 누렸던 세력인 오스트리아는 수십 년 동안 쇠퇴해 왔고, 세계대전에서의 승리는 그들에게 잠시나마 휴식을 가져다 주었지만, 베오그라드 협약은 한때 자랑스러웠던 이 제국을 무너뜨렸습니다. 발칸 반도와 중부 유럽의 지도는 다시금 새롭게 그려지고 있습니다. 오스트리아는 더 이상 위대한 강국이 아닙니다. 합스부르크 치하에 있던 여러 민족들은 자신의 고향 국가의 품으로 돌아갔습니다."
+ausgleich.new.805.a:0 "오스트리아가 나락으로 떨어졌군..."
 
 #########################################################################################################################
 ### TREE EVENTS
