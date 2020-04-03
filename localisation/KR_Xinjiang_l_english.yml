@@ -9,20 +9,20 @@ SIK_syndicalist_party:0 "청년 투르케스탄당"
 SIK_syndicalist_party_long:0 "청년 투르케스탄당"
 SIK_radical_socialist_party:0 "국민당"
 SIK_radical_socialist_party_long:0 "국민당"
-SIK_social_democrat_party:0 "Dao-yin of Aksu"
-SIK_social_democrat_party_long:0 "Dao-yin of Aksu"
+SIK_social_democrat_party:0 "아커쑤 도윤"
+SIK_social_democrat_party_long:0 "아커쑤 행정책임부"
 SIK_social_liberal_party:0 "Aqtaghlik"
 SIK_social_liberal_party_long:0 "Aqtaghlik"
 SIK_market_liberal_party:0 "민주연맹"
 SIK_market_liberal_party_long:0 "민주연맹"
 SIK_social_conservative_party:0 "Qarataghlik"
 SIK_social_conservative_party_long:0 "Qarataghlik"
-SIK_authoritarian_democrat_party:0 "Dao-yin of Hotan"
-SIK_authoritarian_democrat_party_long:0 "Dao-yin of Hotan"
-SIK_paternal_autocrat_party:0 "Dihua Governorship"
-SIK_paternal_autocrat_party_long:0 "Dihua Governorship"
-SIK_national_populist_party:0 "신강 국민주의자"
-SIK_national_populist_party_long:0 "신강 국민주의자"
+SIK_authoritarian_democrat_party:0 "호탄 도윤"
+SIK_authoritarian_democrat_party_long:0 "호탄 행정책임부"
+SIK_paternal_autocrat_party:0 "디화 성장"
+SIK_paternal_autocrat_party_long:0 "디화 성정부"
+SIK_national_populist_party:0 "신강 민족주의자"
+SIK_national_populist_party_long:0 "신강 민족주의자"
 
 ### Opinion Modifiers ###
 
@@ -206,7 +206,7 @@ xin.3.t:0 "북쪽에서의 마찰"
 xin.3.desc:0 "Dzungaria, mostly occupied by both Kazakhs and Mongols has been a trouble spot for Yang's administration since its emergence, serving as a hot spot of mainly Mongolian bandits to launch raids against our people. Despite being silent for the past year, troubles within Western Mongolia under Ungern's regime has spread to Xinjiang, as these bandits have reemerged once again. We'll need to wait for Yang's response on the issue to deal with the problem, but until then they will be troublesome."
 xin.3.a:0 "이런 문제는 결코 끝나지 않지?"
 
-xin.4.t:0 "양씨의 침묵"
+xin.4.t:0 "양쩡신의 침묵"
 xin.4.desc:0 "In a surprise to everyone but his closest advisors, Yang's response to this appearance has been limited at best. His paranoia of assassination has made him just stay inside his home, telling his officials "Bah, these Mongols were hardly trouble before, I doubt they'll be of much trouble now! The problem will take care of itself!" Despite this response, Jin Shuren, Yang Zengxin's top advisor, has begun to mobilize a force to the north in order to deal with the disturbance."
 xin.4.a:0 "터무니 없군..."
 
@@ -228,7 +228,7 @@ xin.8.a:0 "..."
 
 xin.9.t:0 "쿠데타"
 xin.9.desc:0 "As the situation began to hit Jin Shuren during the investigation, he's realized the position he is in. There will be no new governor for months at least along with no Yang Zengxin, and he is the most prominent government official left within Dihua currently. He needed to make his move before anyone else arrived, using his recently made army that was supposed to crush the Mongol bandits.\n\nAnd as expected, he did. Jin Shuren with his 3,000 troops have stormed the capital and secured it completely, declaring himself governor of Xinjiang before a proper response from the Qing could even be formulated. Not all are pleased by these events, especially the Dao-yin of Aksu, Fan Yaonan, leading many to believe that crisis could be on its way to Xinjiang for the first time in 20 long years. Not only that, but it's not even known what the Qing will think about this turn of events, leaving Jin with absolute power over the entirety of Xinjiang until news is heard."
-xin.9.a:0 "우리는 진슈렌을 믿어야해."
+xin.9.a:0 "우리는 진수런을 믿어야해."
 
 xin.10.t:0 "초대"
 xin.10.desc:0 "With the everyday proceedings of Xinjiang continuing as normal, Jin Shuren has finally left for his expedition to crush the recently emerged Mongol bandits. All is well within Xinjiang, while the rest of China has erupted into chaos as a result of the League of Eight Provinces' collapse. In almost a celebration of the circumstances, the Dao-yin of Aksu and foreign minister of Xinjiang, Fan Yaonan, has announced a party, inviting many government officials, including Yang Zengxin. Yang's isolation has led most to expect him to decline this, but perhaps Yang could make use of a day of luxury with the recent stresses of governing?"
@@ -239,7 +239,7 @@ xin.11.t:0 "연회"
 xin.11.desc:0 "The night was lively as Yang Zengxin entered Aksu today, seeing mass amounts of food and drink for the night, ready to spend this night to the fullest as if it will be his last. He sits down an hour later, ready to finally begin. He digs into his food as Fan Yaonan and a multitude of other governmental officials join him in the luxuries of life. Fan excuses himself from the table with Yang barely noticing, still indulging his gluttony. Fan Yaonan returned ten minutes later, with two guards with guns and red arm bands in tow behind him as he sits down again.\n\n"A toast, to Yang's continued health!"\n\nYang raised his glass as well, a smile on his face until he realized what was happening. The guards now pointed their guns as Yang, and shots immediately rang out in the banquet, and soon there was a dead, soiled, and decrepit Yang Zengxin lying on the ground with bullet holes in his head and chest."
 xin.11.a:0 "우리의 새지도자 판야오난을 위해 건배!"
 
-xin.12.t:0 "진슈렌의 진격"
+xin.12.t:0 "진수런의 진격"
 xin.12.desc:0 "Jin Shuren wasted no time in heading back to Aksu after hearing of his former superior's death, with his recently raised force in tow. Fan Yaonan is seemingly completely unprepared for this, with his efforts to raise his own force to defend Aksu completely failing as the city descends into anarchy. He, his officials, and his small force of 200 hole up in Aksu, waiting for when Jin Shuren's horde arrives."
 xin.12.a:0 "그의 전망은 불투명해 보이는군."
 
@@ -251,15 +251,15 @@ xin.14.t:0 "양쩡신의 죽음"
 xin.14.desc:0 "As Yang Zengxin's various officials went to visit him today before the expedition to crush the Mongol threat to the north, they were shocked at what they found. Yang Zengxin seemed to have died in his sleep at an unknown time, leaving open many questions as to what is going to happen next. Many predict Jin Shuren's ascendance to the governor position by force before the Qing can react to the situation using his new army, but as of yet nothing has occurred. All that can be done is wait and see how the situation unfolds."
 xin.14.a:0 "어떻게 우리에게 이런일이 일어나는 건가?"
 
-xin.15.t:0 "진슈렌이 디화를 제압하다"
+xin.15.t:0 "진수런이 디화를 제압하다"
 xin.15.desc:0 "As many predicted, Jin Shuren has decided to make his move on Dihua and secure it using his newly armed force. The streets are filled with soldiers as any possible political dissidents are being removed one by one. Among these is the Dao-yin of Aksu, Fan Yaonan who has a somewhat petty rivalry with Jin. Little is known about what Jin's next moves will be, but many predict that Fan Yao-nan's position of power will not be lasting for much longer."
 xin.15.a:0 "우리는 그의 손에 놀아났군..."
 
-xin.16.t:0 "진씨가 악수로 진격하다"
+xin.16.t:0 "진수런가 아커수로 진격하다"
 xin.16.desc:0 "As many predicted, Jin quickly moved from Dihua to remove Fan Yao-nan's position in power before he could even act. Many noticed what looks like the beginning of a build-up of defenses, but Fan's accomplices were killed before any meaningful resistance could be put up, though Fan himself could not be found. Some believe him to have escaped into the mountains to avoid capture. Ma Shaowu, the Dao-yin of Hotan has declared his loyalty to the new governor Jin Shuren, aiming to secure his rule in the south. Jin Shuren has agreed to this, finally achieving his rule over all of Xinjiang, at least for now."
 xin.16.a:0 "지금 이러한 것들은 우리 신강이 필요로 했던 것들이다!"
 
-xin.17.t:0 "진 슈렌의 권력 규합"
+xin.17.t:0 "진수런의 권력 규합"
 xin.17.desc:0 "With Ma Shaowu's southern government declaring loyalty to the new governor Jin Shuren, Jin has managed to secure all aspects of power. Fan Yao-nan is missing, and with the cabinet slowly being replaced one by one, Jin is surely the ruler who has proven himself to be on top during this time of stress. No one knows what he has planned but based off his close proximity with Yang Zengxin, it most likely will be similar in policy. One piece still missing to the puzzle is the empty seat of the Dao-yin of Aksu, but surely someone will be appointed soon."
 xin.17.a:0 "새로운 미래를 향하여."
 
@@ -275,7 +275,7 @@ xin.21.t:0 "나스르와의 미팅"
 xin.21.desc:0 "With the majority of government positions filled and Jin ready to embark on what he sees as the 'unification of Xinjiang', he has sent a messenger to Nasīr of the Kumul Khanate for a meeting to associate themselves in Dihua. Hopefully this will make the Kumul people feel assured of their position in the new Xinjiang, bringing new stability to this previously unruly province."
 xin.21.a:0 "이것은 즐거운 일이다."
 
-xin.22.t:0 "진슈렌과의 미팅"
+xin.22.t:0 "진수런과의 회담"
 xin.22.desc:0 "Jin Shuren, the new governor of Xinjiang, has invited Nasīr himself to a meeting in Dihua in order to establish relations with our great khanate. He sees us as necessary to preserving and "wishes to see closer cooperation between the two governments into the future." Obviously saying no isn't much of a choice, our fate lies in their hands, so we'll be forced to hand Nasīr over whether we like it or not. Hopefully he speaks the truth, and this can ensure our rule into the future..."
 xin.22.a:0 "우리 둘이 엮이는 것은 항상 좋은일이오, 그렇지않소?"
 
@@ -283,7 +283,7 @@ xin.23.t:0 "쿠물이 합병되다"
 xin.23.desc:0 "Nasīr walked into Dihua, greeted with a lavish ceremony along with many festivities to celebrate his arrival. Following a personal greeting from Jin Shuren and multiple cabinet members, Nasīr walked further into the city in a tour. Greeted by many, Nasīr felt welcome and realized just how important of a figure he seems to be. However, his pride and satisfaction didn't last for long.\n\nNasīr was soon invited to Jin's personal residence, where they went into the dining room and began to feast. As they became overcome with gluttony, the unexpected happened. Nasīr has two guns aimed at the back of his head. "Nasīr, your time is up. Come with us." Having no choice but to comply, Nasīr was taken to a prison deep within Urumqi, probably to be held there for the rest of his life.\n\nJin wasted no time in declaring the annexation of Kumul and the arrest of numerous officials, declaring the region 'Hami', the well-known Chinese name. Hami, now fully incorporated into the Xinjiang administration, has finally united Xinjiang once and for all."
 xin.23.a:0 "하미, 신강이 된걸 축하한다."
 
-xin.24.t:0 "나스르에대한 음모"
+xin.24.t:0 "나스르에 대한 음모"
 xin.24.desc:0 "Nasīr walked into Dihua, greeted with a lavish ceremony along with many festivities to celebrate his arrival. Following a personal greeting from Jin Shuren and multiple cabinet members, Nasīr walked further into the city in a tour. Greeted by many, Nasīr felt welcome and realized just how important of a figure he seems to be. However, his pride and satisfaction didn't last for long.\n\nNasīr was soon invited to Jin's personal residence, where they went into the dining room and began to feast. As they became overcome with gluttony, the unexpected happened. Nasīr has two guns aimed at the back of his head. "Nasīr, your time is up. Come with us." Having no choice but to comply, Nasīr was taken to a prison deep within Urumqi, probably to be held there for the rest of his life.\n\nJin wasted no time in declaring the annexation of Kumul and the arrest of numerous officials, declaring the region 'Hami', the well-known Chinese name. Hami, now fully incorporated into the Xinjiang administration, has finally united Xinjiang once and for all."
 xin.24.a:0 "새로운 지배자에게 온걸 환영한다!"
 
@@ -295,13 +295,13 @@ xin.26.t:0 "남쪽의 정부"
 xin.26.desc:0 "Ma Shaowu's reaction to the Kumul annexation has been less than positive to put it lightly, although for reasons other then political. Kumul, the peacekeeper of Xinjiang, did have a notable effect in supressing northern Uyghur nationalism but the south is what truly benefited from this arrangment. The more conservative southern people have long been the hotbed for unorganized uprisings and rebellions which Shaowu has done well to contain so far through the use of police and overall suppression of information. However, such a major move as this might be too much to contain, despite Shaowu's assurance otherwise."
 xin.26.a:0 "저기서의 일이 잘진행되길 바라자."
 
-xin.27.t:0 "셍의 세력 창립"
+xin.27.t:0 "성스차이의 세력 창립"
 xin.27.desc:0 "With Sheng now occupying the position of Dao-yin of Aksu, he has begun to establish his own government within the area similar to Ma Shaowu's deeper within the south of Xinjiang. Already filling the cabinet with his own clique of trusted individuals, he plans on rooting out the unrest plauging the region before organized uprising can occur, already beginning to form his own division to quell the sparks of conflict. While this could mean the further division of the deeply divided Xinjiang, it is preferable to the bastard Fen Yaonan or the possibility of falling to the Turks. Of course, a wary eye must still be kept to ensure Sheng does not get ideas above his station."
 xin.27.a:0 "유리한 고지를 점했군."
 
-xin.28.t:0 "악수의 군대"
+xin.28.t:0 "아커수의 군대"
 xin.28.desc:0 "Sheng's army has been complete, ready to be mobilized under the central government. While Sheng will be controlling the army directly, he promises that supervision will be under Jin Shuren at all times. His loyalty has been true so far, perhaps suspicously so, but as long as he continues his declaration of loyalty, no problems should stand. However, problems aren't completely absent. Jin Shuren's brother and Provincial Commissioner for Military Affairs Jin Shuxin has protested Sheng's growing influence within the government, stating that Sheng is not what he seems and needs to be removed from power at once. Of course we can't just remove such a skilled official, but maybe we can keep a closer eye on him?"
-xin.28.a:0 "셍은 믿을만하다, 무시해"
+xin.28.a:0 "성스차이는 믿을만하다, 무시해"
 xin.28.b:0 "가까이서 지켜볼수있는 사람을 매수해라"
 
 xin.29.t:0 "쿠물의 합병소식이 남쪽에 퍼지다"
@@ -318,7 +318,7 @@ xin.31.a:0 "바보 멍청이아니야, 이거"
 
 xin.32.t:0 "케리야에서 일어난 작은 봉기"
 xin.32.desc:0 "As expected, the worst has begun. The south has begun to explode, with the uprising being in neither Kashgar nor Hotan but in the minor mining town of Keriya. Miners fed up with the lack of pay and ludicrous taxation have overthrown the administrators of the region, with many citing the wealthy Bughra Family being the ones funding their efforts. Now with a small amount of rifles, they have begun to march to Aksu in the name of Uyghur independence."
-xin.32.a:0 "빌어먹을 부그라스..."
+xin.32.a:0 "빌어먹을 부그라..."
 
 xin.33.t:0 "호탄 아미르"
 xin.33.desc:0 "With the uprising in Keriya in full swing, the tensions have finally risen within Hotan as the Bughra Family have declared their own Hotan Emirate, declaring independence from the Chinese government, aiming to take all of Xinjiang. With Muhammad Amin Bughra, Abdullah Bughra, and Nur Ahmad Jan Bughra all becoming officially "Amirs of Hotan", they have fully taken the city while also meeting up with the Keriya rebels. This threat while still minor cannot be underestimated, as this move serves as a call to all Uyghurs to reclaim their own rule against our rightful government."
@@ -329,7 +329,7 @@ xin.34.desc:0 "As Shaowu continues to march to Aksu, Kashgar was left completely
 xin.34.a:0 "이건 있을 수 없는 일이야!"
 xin.34.b:0 "독립을 위하여!"
 
-xin.35.t:0 "투판 수비대의 침묵"
+xin.35.t:0 "투루판 수비대의 침묵"
 xin.35.desc:0 "Ma Fuming, who has led the garrison in Turfan for years now has refused to move his garrison due to "a lack of confidence in the governorship of Jin Shuren". While this insult to our name is already worthy of death, we need as much assistance as we can get so we need to tread carefully. The last thing we need is him defecting to the Kumuliks who already outnumber us alongside the Uyghurs to the south. During these times of pressure is when unity is neededn, and it seems not all the fools within government are willing to realize that."
 xin.35.a:0 "만약 그가 우리를 배신한다면..."
 
@@ -346,15 +346,15 @@ xin.38.desc:0 "We've made contact with the Turfan garrison under Ma Fuming in th
 xin.38.a:0 "지금 어서 죽여라."
 xin.38.b:0 "인내는 미덕이다"
 
-xin.39.t:0 "투판 수비대가 고용되다"
+xin.39.t:0 "투루판 수비대가 고용되다"
 xin.39.desc:0 "It seems Jin's idea was the a good choice after all. Sending a small regiment to kill Fuming in his sleep, proper leadership has been re-established over the garrison despite some initial chaos. The new command has deployed the garrison and is ready to be commanded. Many are impressed by Jin's handling of the situation here, allowing us to keep possible rebellion within our ranks silent for now."
 xin.39.a:0 "진슈렌은 진실로 위대하다."
 
-xin.40.t:0 "투판 수비대가 동원된건가?"
+xin.40.t:0 "투루판 수비대가 동원된건가?"
 xin.40.desc:0 "After many more hours of what many would consider infuriating negotiations with the insufferable Ma Fuming, Jin finally reached a boiling point, completely cutting off all messages to the garrison. The latest news we've heard is of the garrison being deployed, but considering the lack of message towards us about mobilization, we are better off believing that it is not deployed in our favor. Many are call Jin Shuren a fool for such blunder, as the Kumuliks only grow stronger from our own incompetence."
 xin.40.a:0 "신강은 야만인들이 도사리고 있다."
 
-xin.41.t:0 "투판 수비대를 동원하다"
+xin.41.t:0 "투루판 수비대를 동원하다"
 xin.41.desc:0 "Ma Fuming, the warlord controlling over Turfan, had previously refused to mobilize his forces due to fear of being overrun by our uprising. While many within our ranks predicted he would soon be defecting to our side and ignored him, Jin shockingly killed Fuming in his sleep in order to end the bickering once and for all. The garrison has now mobilized in the name of the Xinjiang governorship, leaving them stronger and more unified then ever. Of course with Zhongying and the mighty Yulbars on our side, they still shouldn't stand a chance against us."
 xin.41.a:0 "어찌되었건 승리는 우리의 것이다"
 
@@ -382,7 +382,7 @@ xin.47.t:0 "군내 분열에 대한 루머"
 xin.47.desc:0 "Sheng Shicai, a man of mystery that many more are becoming attracted to as Jin Shuren continues to show his incapability of managing the mess he has caused within Xinjiang. Many have begun to flock to his Aksu based clique including the former southern warlord himself Ma Shaowu. Many see his significant military experience and competency in managing the city of Aksu as a healthy alternative to both Jin Shuren and Shaowu who has both proven their inability to manage a true crisis.\n\nSheng is calm, Sheng is responsible, Sheng is the man we need. Those are the words slipping out of the poisonous breath of those in our administration as Jin time and time again shows his complete foolishness. Sheng too has joined the voices speaking against Jin, and Jin is worried that his reign may soon be brought to an abrupt end."
 xin.47.a:0 "확실히 아닐거야..."
 
-xin.48.t:0 "셍시차이 군대의 쿠데타"
+xin.48.t:0 "성스차이 군대의 쿠데타"
 xin.48.desc:0 "Jin Shuren marched out of his quarters, confident in his new plan to end the Kumuliks and Uyghur nationalists and bring order back to his rule. However, his march was closed off sooner then he expected, quickly stopped by his own guards, being forced to the pavement and dragged away from his home. He woke in the place he expected to be, the government capital, still being restrained by his guards. In front of him, Sheng Shicai, wielding a rifle. Without a word, Sheng points his rifle at Jin, as Jin begs for mercy among who he assumed was his most loyal subject. This fell upon deaf ears much to Jin's dismay, as the muzzle lit up and shot him, with Sheng's face being the last thing Jin saw in his lifetime.\n\nSheng Shicai has been installed as the new governor of Xinjiang, having overwhelming support from his fellow administrators including Ma Shaowu. Ready to bring Xinjiang into a new future, Sheng is ready to march unto the scene and end this pointless chaos once and for all."
 xin.48.a:0 "자 새로운 시작이다!"
 
@@ -403,9 +403,9 @@ xin.51.a:0 "이제 신강은 정리되었다."
 xin.52.t:0 "위구르 병사들 숙청"
 xin.52.desc:0 "As another meeting began in the Kashgar government between Ma Shaowu, Mahmut Muhti, and Burhan Shahidi on the composition of the government, something... unexpected occurred. The entire building they were in began to catch fire, with them barely being able to escape due to forewarning from lower members of government. They already knew the reason behind this, as this was no accident, but the workings of Sheng to remove his remaining political rivals once and for all. The three men under Ma Shaowu rode north with a small regiment in the hopes of being able to overthrow Sheng swiftly before he has time to react. This is their last resort as the fate of Xinjiang lies on the table, but whether such a desperate gambit can even succeed is another question."
 xin.52.a:0 "사오우의 도박이 엄청난 실패를 낳다"
-xin.52.b:0 "셍시차이는 악수로 타도되었다"
+xin.52.b:0 "성스차이는 아커수에 타도되었다"
 
-xin.53.t:0 "셍의 숙청 실패"
+xin.53.t:0 "성스차이의 숙청 실패"
 xin.53.desc:0 "What Sheng heard was going to be a meeting between Ma Shaowu, Mahmut Muhti, and Burhan Shahidi was currently underway in Kashgar, but something... unexpected occurred. While Sheng's plan was to set fire to the building and end his three greatest threats once and for all, none of them were in the building. In fact, the entire building was empty, without a trace of any soul. All of this was in the report given to Sheng, as panic began to set in over the whereabouts of his three rivals. He would meet them sooner then expected however, as them and their army soon surrounded Aksu before Sheng could react. Sheng had been betrayed, as hsi own northern government was infiltrated by agents of the three men allowing this plot to occur. Sheng has no choice but to surrender, leaving him to be imprisoned with his fate decided at a later point, as Shaowu now rules over Xinjiang in his Triumvirate alongside Mahmut Muhti and Burhan Shahidi."
 xin.53.a:0 "아마 우리는 그들에게 많은 자원들을 주지 말았어야 했을 것이다..."
 
@@ -446,7 +446,7 @@ xinfd.17.t:0 "사빗 다물라에대한 암살이 실패하다"
 xinfd.17.d:0 "Burhan Shahidi has returned, having failed his mission. He recounts a story of how his men charged down a hill towards Sabit Damulla's house, killing multiple guards on their way down. He talks of how he himself kicked down the front door and shot multiple guards with his pistol. However, by the time he got to Sabit's bedroom, he had escaped.\n\nThough Shahidi failed in his mission, this is not a total loss. Our spies in Hotan and Kashgar have told us that Sabit Damulla has gone into hiding, completely isolating himself from most other people. This has led to complete disorganisation in the East Turkestan forces."
 xinfd.17.a:0 "전적인 실패는 아니군."
 
-xin.110.t:0 "양 쩡신에대한 윈난에서의 보고"
+xin.110.t:0 "양쩡신에대한 윈난에서의 보고"
 xin.110.desc:0 "Following the disappearance of Xinjiang's sage governor Yang Zengxin, reporters have flocked to Mengzi in Yunnan to get the scoop from his hometown. The townspeople of Mengzi remarked that Yang's family is still well off, and are refusing to give hints as to where Yang would have gone. Most reporters came to the conclusion that Yang had returned to his military post in Gansu, and ended their investigation there. The intrepid few with connections in Gansu, however, have reported that Yang has not been seen in Gansu, but traces of his gold bullion have shown up in the hands of trade merchants in Yunnan. Although there is no solid proof as of yet, it appears that Yang could either have been robbed or is living incognito."
 xin.110.a:0 "좋은 미스터리구만"
 
@@ -459,15 +459,15 @@ xin.111.d_sik:0 "It seems like the Western Gate between China and Central Asia h
 xin.111.d_mon:0 "It seems like the Western Gate between China and Central Asia has broken down into violence once again. Governor [SIK.GetLeader] 's recent dispute with Kumul has resulted in a large contigent of volunteer soldiers rising up against the army garrison. Rumors say that the Turks to the far west are also preparing to defy the Governor once again. The Governor of Xinjiang, should he remain chinese, represents a potential ally to the southern Democratic cliques. The Kumiliks, however, seem to vary greatly in between respect for Beijing to restless xenophobia. The Eastern Turks doubtlessly would seperate from China entirily should they win."
 xin.111.d_szc:0 "It seems like the Western Gate between China and Central Asia has broken down into violence once again. Governor [SIK.GetLeader] 's recent dispute with Kumul has resulted in a large contigent of volunteer soldiers rising up against the army garrison. Rumors say that the Turks to the far west are also preparing to defy the Governor once again. The Governor of Xinjiang, should he remain chinese, represents a potential ally to the southern Democratic cliques. The Kumiliks, however, seem to vary greatly in between respect for Beijing to restless xenophobia. The Eastern Turks doubtlessly would seperate from China entirily should they win."
 xin.111.d_qie:0 "It seems like the Western Gate between China and Central Asia has broken down into violence once again. Governor [SIK.GetLeader] 's recent dispute with Kumul has resulted in a large contigent of volunteer soldiers rising up against the army garrison. Rumors say that the Turks to the far west are also preparing to defy the Governor once again. The Governor of Xinjiang, should he remain chinese, represents a potential ally to the southern Democratic cliques. The Kumiliks, however, seem to vary greatly in between respect for Beijing to restless xenophobia. The Eastern Turks doubtlessly would seperate from China entirily should they win."
-xin.111.a:0 "양 쩡신이 드디어 실패했군"
-xin.111.b:0 "양 쩡신이 드디어 실패했군"
-xin.111.c:0 "양 쩡신이 드디어 실패했군"
+xin.111.a:0 "양쩡신이 드디어 실패했군"
+xin.111.b:0 "양쩡신이 드디어 실패했군"
+xin.111.c:0 "양쩡신이 드디어 실패했군"
 
 ### Focuses ###
 SIK_three_reigns:0 "세개 지역에대한 공인"
 SIK_three_reigns_desc:0 "Xinjiang, despite what the official documents may claim, has a decentralized power structure centered around three citites. These cities, Dihua, Aksu, and Khotan, control three vital forts and administer the richest land for cultivation outside of Kumul. The Dao-yin, which replaced the Amban, decide the fate of Xinjiang."
 
-SIK_dihua_governorship:0 "디화 정부"
+SIK_dihua_governorship:0 "디화 성정부"
 SIK_dihua_governorship_desc:0 "Jin Shuren's fortress in Dihua has perceived against the rebels that sorround it. Jin Shuren attributes the might of the Han system of governance, as built by Yang Zengxin and refined by hiself, as the ideal government for Xinjiang. To ensure this, Jin will purge those who questioned their loyalty to him."
 
 SIK_make_them_pay:0 "그들은 대가를 치룰것이다"
@@ -506,7 +506,7 @@ SIK_dao_yin_khotan_desc:0 "After having to live under a succession of cruel Chin
 SIK_secret_police_brigades:0 "비밀 경찰"
 SIK_secret_police_brigades_desc:0 "The Jahriyya order opposes all forms of secrecy... except for the Secret Police. Ma Shaowu needs his men to monitor the radical Jadidists and ultranationalist Han. Without the Secret Police, future insurrection from these groups is a foregone conclusion. "
 
-SIK_cutting_central_asia:0 "중아시아 쳐내기"
+SIK_cutting_central_asia:0 "중앙아시아 쳐내기"
 SIK_cutting_central_asia_desc:0 "The Jadidists that threaten Ma Shaowu's religious and political position are the byproduct of Central Asian agitation. If we are to ensure the end of Jadidist influence, we must set down the law to the Turkomans and Kazaks. They are not permitted to fortify their borders with us, and immigrants to Xinjiang must surrender their weapons."
 
 SIK_inspiration_jahriyya:0 "자흐리야로부터 영감"
@@ -545,16 +545,16 @@ SIK_seven_point_manifesto_desc:0 "After compiling a set of programmes from South
 SIK_equality_of_races:0 "출발선 공정"
 SIK_equality_of_races_desc:0 "One of Sheng's Seven Points is to end racial segregation in Xinjiang. As the Five Races Banner illustrates, China must recognize racial diversity, and incorporate Han with Hui, Mongol, and Tibetan. These four races have underlying mutual self interest in Chinese unity, something East Turkestan did not want. "
 
-SIK_kazakh_exodus:0 "카자크 대탈출"
+SIK_kazakh_exodus:0 "카자흐 대탈출"
 SIK_kazakh_exodus_desc:0 "The Kazakh people living on the border of Xinjiang are a source for future discontent. From sneaking Ottoman agitators into Kashgar, to distributing Jadidist literature, there is no value gained by tolerating them in Xinjiang. "
 
 SIK_filling_government:0 "정부 재구성"
 SIK_filling_government_desc:0 "When the cities of Xinjiang crumbled, the civil servants of Xinjiang were scattered. It is important that, when refilling the government service, we imprint the Seven Points into the fabric of our bureaucracy. This includes hiring Hui, Mongol, and Tibetans, should they have the proper qualifications."
 
-SIK_positions_for_uyghurs:0 "위구르인들의 위치"
+SIK_positions_for_uyghurs:0 "위구르인들의 지위"
 SIK_positions_for_uyghurs_desc:0 "Although seperate, Uyghurs in Xinjiang did play a valuable role in defending Dihua. Governor Sheng feels that the tide of public opinion is slowly turning against Jadidists, and a reward to loyal officers like Burhan Shahidi is in order."
 
-SIK_the_purge:0 "제거"
+SIK_the_purge:0 "숙청"
 SIK_the_purge_desc:0 "It has come to the Governor's attention that there are inconsolable issues between the Uyghur and Hui people in Xinjiang. This is manifested in not only the rivalry between Jahriyya and Jadidist, but in a reinforcment of Chinese language as a shibboleth. Another, more organized purge may be necessary to solve this."
 
 SIK_kuomintangs_xinjiang:0 "신강의 국민당"
@@ -576,7 +576,7 @@ SIK_cultural_promotion_socities_desc:0 "The people of Xinjiang suffer from the I
 SIK_curbing_addiction:0 "중독 발생"
 SIK_curbing_addiction_desc:0 "The garrisons of Xinjiang suffered under Yang Zengxin's leadership, especially with regards to discipline. Soldiers have been known to visit Gansu and load up on opium during holidays. It is time for the Governor to take responsiblity for the army and ban drugs from army bases."
 
-SIK_expand_tungan_recruitment:0 "투간 징집을 확대"
+SIK_expand_tungan_recruitment:0 "동간족 징집을 확대"
 SIK_expand_tungan_recruitment_desc:0 "The Tungan people are neglected by the Western Gate, and are suffering more than most in Western China. This makes the Tungan people ideal recruits for the Xinjiang military, which can elevate and allow young men to escape poverty in their home town."
 
 SIK_uyghur_militia:0 "위구르 민병대"
