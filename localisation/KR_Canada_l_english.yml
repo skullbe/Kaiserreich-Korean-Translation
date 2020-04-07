@@ -430,38 +430,52 @@ minister_of_everything:0 "만사의 장관"
 CAN_political_decisions:0 "캐나다 정치 결정"
 CAN_bring_king_home:0 "[CAN_king_first_name]의 귀환"
 CAN_bring_king_home_desc:0 "[CAN_king_first_name] 국왕께서 계실 곳은 [Root.GetNameDef]입니다. 이제 본토를 되찾았으니, 그곳으로 보내드려야 합니다."
+
 CAN_enact_full_conscription:0 "최대 징병제 제정"
-CAN_enact_full_conscription_desc:0 "We cannot abide by the restrictions placed upon our conscription laws any longer - no matter the consequence, we need the manpower in the Canadian army now!"
+CAN_enact_full_conscription_desc:0 "우리는 더 이상 징병법에 대한 제한을 준수할 수 없을것 같습니다. 이후의 결과가 어떠하든 간에, 캐나다의 군대에는 인력이 필요합니다!"
 CAN_suppress_quebec:0 "[466.GetName]에서 퀘벡인 억압"
-CAN_suppress_quebec_desc:0 "We cannot allow the Québecois dissidents to disrupt Canada further. The time has come to send in the army and restore peace!"
+CAN_suppress_quebec_desc:0 "퀘벡의 반체제 인사들이 캐나다를 혼란에 빠트리는 것을 용납해서는 안 됩니다. 군대를 보내 질서를 되찾을 때가 왔습니다!"
 CAN_suppress_stlawrence:0 "[468.GetName]에서 퀘벡인 억압"
-CAN_suppress_stlawrence_desc:0 "We cannot allow the Québecois dissidents to disrupt Canada further. The time has come to send in the army and restore peace!"
+CAN_suppress_stlawrence_desc:0 "퀘벡의 반체제 인사들이 캐나다를 혼란에 빠트리는 것을 용납해서는 안 됩니다. 군대를 보내 질서를 되찾을 때가 왔습니다!"
 CAN_suppress_montreal:0 "[832.GetName]에서 퀘벡인 억압"
-CAN_suppress_montreal_desc:0 "We cannot allow the Québecois dissidents to disrupt Canada further. The time has come to send in the army and restore peace!"
-CAN_emergency_draft:0 "Enact Emergency Draft"
-CAN_emergency_draft_desc:0 "There are a number of British Exiles present in Canada who either are too old to serve in the military or unwilling. The old guard can serve as mentors to the new, and the unwilling should serve to fight for their homeland whether they wish to or not. The time has come to call them to service."
+CAN_suppress_montreal_desc:0 "퀘벡의 반체제 인사들이 캐나다를 혼란에 빠트리는 것을 용납해서는 안 됩니다. 군대를 보내 질서를 되찾을 때가 왔습니다!"
+
+CAN_emergency_draft:0 "긴급 초안 작성"
+CAN_emergency_draft_desc:0 "캐나다에는 나이가 많거나 군 복무를 원하지 않는 영국 망명자들이 많이 있습니다. 노인들은 신입을 위한 조언자 역할을 할 수 있고, 군복무를 원치 않는 사람들은 이제 고집을 그만 부리고 조국을 위해 싸워야 합니다. 그들에게 '의무'의 수행을 요청해야 할 때가 왔습니다."
+
 CAN_expand_conscription_policies:0 "징집 정책의 확대"
-CAN_expand_conscription_policies_desc:0 "We needn't worry about arguments from the opposition, now - it's time to loosen up our policies on conscription, so we get more able bodies out in the field and we do so faster. Let's cut through the red tape and simply get it done!"
+CAN_expand_conscription_policies_desc:0 "우리는 이제 야당의 지적에 걱정할 필요가 없습니다. 이전에 시행했던 징병에 대한 우리의 정책은 시작일 뿐입니다. 우리는 더 많은 능력 있는 사람들을 전장에 더 빨리 배치해야 합니다. 형식적인 절차는 끊어서 간단하게 끝냅시다!"
+
 CAN_expand_secret_police:0 "비밀경찰 확장"
-CAN_expand_secret_police_desc:0 "Keeping watch over law and order at home is the first line of our defense. Let's provide the RCMP the tools they need, even if Canadians find such a move unpopular."
+CAN_expand_secret_police_desc:0 "국가 내에서 법과 질서를 지키는 것이 방어의 첫 번째 단계입니다. RCMP에 필요한 도움 제공해야 합니다. 다만, 캐나다의 국민들은 그러한 움직임을 좋아하지 않을 수도 있습니다."
+
 CAN_consolidate_power:0 "권력 집중"
-CAN_consolidate_power_desc:0 "With Parliament overridden, we can take power in the country wherever it's deemed necessary."
+CAN_consolidate_power_desc:0 "의회가 해산되면, 국가에게 필요한 권력을 얻을 수 있습니다."
+
 CAN_expand_labour_camps:0 "노동 캠프 확장"
-CAN_expand_labour_camps_desc:0 "The 'Economic Relief Camps' provide a handy labour pool to be used for construction and mining. If those camps were bigger, and populated by a wider assortment of people, we would get far more accomplished far more quickly."
+CAN_expand_labour_camps_desc:0 "'경제 구조 캠프'는 건설이나 채굴에 동원할 수 있는 노동자들을 제공합니다. 만약 이 캠프의 규모가 더 크고, 더 많은 사람들을 수용할 수 있다면, 우리는 훨씬 더 빨리 의미있는 성과에 도달할 수 있을 것입니다."
+
 CAN_increase_factory_prod:0 "공장 생산량 증대"
-CAN_increase_factory_prod_desc:0 "Cutting through the red tape that prevents factories from working hard - such as worrying about what they pay their factory workers, or where they get them in the first place - will let us get the jump on the syndicalists."
+CAN_increase_factory_prod_desc:0 "공장 근로자들이 급여문제를 걱정하는(애초에 어디서 급여를 받는지도 모르는) 문제를 해결하기 위해 형식적인 행위를 끊는다면, 생디칼리스트들을 능가할 수 있게 해줄 것입니다."
+
 CAN_fund_the_military:0 "군자금 조달"
-CAN_fund_the_military_desc:0 "There is a lot of places where budgets can be cut - because the military needs the attention, desperately."
-CAN_call_emergency_reserves:0 "Call Emergency Reserves"
-CAN_call_emergency_reserves_desc:0 "We are nearing the point of no return - it is time to call on our last reserves of strength."
+CAN_fund_the_military_desc:0 "군대의 예산이 절실히 필요하기 때문에 다른 부문에서 예산을 삭감해야 할 수도 있습니다."
+
+CAN_call_emergency_reserves:0 "긴급 총동원령"
+CAN_call_emergency_reserves_desc:0 "우리는 아주 위험한 상황까지 몰렸습니다. 이제 마지막 남은 모든 힘을 내야 할 때입니다."
+
 CAN_withdraw_from_entente:0 "협상국에서의 철수"
-CAN_withdraw_from_entente_desc:0 "We served the Empire fully and well, and now it is time for our participation in it to end. Let it deal with its European wars, and we will see to our own nation's causes."
+CAN_withdraw_from_entente_desc:0 "우리는 지금까지 제국의 일원으로 잘 지냈지만, 이제는 제국으로부터 떠날 때입니다. 유럽에서의 전쟁이 끝나면, 우리는 우리 나라의 운명을 지켜볼 것입니다."
+
 CAN_claim_alaska:0 "헤이-허버트 조약 파기"
-CAN_claim_alaska_desc:0 "The border between Canada and Alaska was made in the favor of Americans, thanks to an interest by the British government of the time in improving relations with the United States. Canadian interests were considered of secondary importance. Since the treaty was approved by a government we are no longer subservient to, we reject the arbitration and the border. Canada has a natural claim to Alaska, and it should have been ours to begin with."
+CAN_claim_alaska_desc:0 "캐나다와 알래스카의 국경은 당시 영국 정부가 미국과의 관계 개선에만 초점을 두었고 캐나다의 관심사는 부차적인 것으로 여겨졌었습니다. 결국 미국인들에게 유리하게 만들어진 그 조약은 더 이상 이전의 정부에 의해 승인되었기 때문에, 우리는 현재의 국경선을 거부할 권리가 있습니다. 캐나다는 알래스카에 대한 당연한 권리를 가지고 있고, 처음부터 우리의 것이었어야 했습니다."
+
 CAN_core_alaska:0 "알래스카 캐나다화"
 CAN_core_alaska_desc:0 "알래스카를 우리 영토로 편입한 이상, 해당 지역에 온전한 통제권을 확립하는 것은 어렵지 않을 것입니다 - 알래스카를 서서히 캐나다화하는 것도 포함해서요."
+
 CAN_claim_washington:0 "오리건 조약 파기"
 CAN_claim_washington_desc:0 "오리건 조약은 미국과 캐나다의 국경을 확립한 조약이었으며, 영국은 전쟁을 피하기 위해 컬럼비아 주의 남쪽 부분을 미국에게 넘겨주었습니다. 이는 캐나다가 아직 식민지일 때 체결되었으며, 따라서 우리가 계승할 의무는 없습니다."
+
 CAN_claim_maine:0 "웹스터-애슈버턴 조약 파기"
 CAN_claim_maine_desc:0 "웹스터-애슈버턴 조약은 메인 주와 뉴브런즈윅 주 사이의 경계를 확립한 조약이었지만, 이는 어디까지나 영국이 체결한 조약이며 우리가 계승할 의무는 없습니다."
 
