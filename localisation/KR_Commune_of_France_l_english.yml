@@ -56,7 +56,7 @@ FRA_tt_hydroelectricity_decisions:0 "§Y수력 발전§! 결정이 해금될 것
 FRA_help_SA_tt:0 "§Y우리는 회의에서 합의한 대로 남미의 형제들을 도울 것입니다.§!\n"
 FRA_european_revolution_tt:0 "§Y해방 결정이 해금될 것입니다.§!\n "
 FRA_help_phalanstere_tt:0 "§Y개발 결정이 해금될 것입니다.§!\n"
-helped_phalanstere:0 "§Y다른 나라 개발을 돕는 중임.§!"
+helped_phalanstere:0 "§Y다른 나라 개발을 돕는 중입니다.§!"
 FRA_sxtnreserve_tt:0 "16개 예비 사단이 증원될 것입니다."
 CAF_redeagles_tt:0 "새로운 자원 조종사와 항공기가 도착할 것입니다."
 FRA_csamex_tt:0 "멕시코 자원병 사단이 도착할 것입니다."
@@ -162,7 +162,7 @@ FRA_secret_police:0 "비밀경찰"
 FRA_secret_police_desc:0 "코뮌에는 여전히 내부의 적이 존재하고, 군부 내에도 마찬가지입니다. 우리는 비밀경찰을 조직하여 내부의 적으로부터 프랑스 시민들을 지켜야 합니다."
 
 FRA_demo_surete:0 "대중 민주주의"
-FRA_demo_surete_desc:0 "We cannot allow paranoia to lead to the destruction of the fine balance we achieved with the Sûreté Populaire. By democratising the organisation, we will ensure that the French respect the Police not by fear but by an understanding of their actions and goals, and by knowing that they serve them first and foremost."
+FRA_demo_surete_desc:0 "우리는 공안경찰 조직에 편집증이 퍼져 우리가 지금까지 이룬 균형을 무너뜨리게 둘 순 없습니다. 조직에 민주적 요소를 도입함으로써, 우리는 프랑스인들이 경찰을 단지 두려움의 대상이 아닌 그들을 위해 봉사하는 목적의식 있는 단체라는 것을 깨닫게 해야 합니다."
 
 FRA_hawkish_renseignements:0 "중앙첩보국"
 FRA_hawkish_renseignements_desc:0 "중앙첩보국은 적들로부터 우리의 안전을 지킬 의무가 있습니다. 또한 우리는 적국에 스파이를 보내 생디칼리스트 운동을 세계에 전파해야 합니다. 최선의 공격이 곧 최선의 방어입니다."
@@ -1168,15 +1168,15 @@ comfrance.167.d:0 "저 망할 놈들이 우리의 중립을 침해했습니다! 
 comfrance.167.a:0 "어서 베를린을 연결해라!"
 comfrance.167.b:0 "우리는 혼자 싸울 것이다!"
 
-comfrance.168.t:0 "An Invitation"
-comfrance.168.d:0 "Now that all bets are off regarding the so-called 'balance' in Italy, [From.GetNameDef] has extended a formal invitation for [SRI.GetNameDef] to join the ranks of the Third Internationale."
-comfrance.168.a:0 "At last!"
-comfrance.168.b:0 "On second thought, no..."
+comfrance.168.t:0 "초대"
+comfrance.168.d:0 "이제 이탈리아의 '균형'에 대한 모든 논의가 끝났고, [From.GetNameDef]는 [SRI.GetNameDef]를 제3인터내셔널에 초대하기로 했습니다."
+comfrance.168.a:0 "드디어!"
+comfrance.168.b:0 "1초만 더 생각해보자..."
 
-comfrance.169.t:0 "The [From.GetAdjective] Request"
-comfrance.169.d:0 "Now that all bets are off regarding the so-called 'balance' in Italy, [From.GetNameDef] has made a formal request to join the ranks of the Third Internationale."
-comfrance.169.a:0 "At last!"
-comfrance.169.b:0 "On second thought, no..."
+comfrance.169.t:0 "[From.GetAdjective] 의 요청"
+comfrance.169.d:0 "이제 이탈리아의 '균형'에 대한 모든 논의가 끝났고, [From.GetNameDef]가 제3인터내셔널에 우리를 초대했습니다."
+comfrance.169.a:0 "드디어!"
+comfrance.169.b:0 "1초만 더 생각해보자..."
 
 ###  Decisions  ###
 
@@ -1233,16 +1233,16 @@ FRA_Develop_South_America_desc:0 "우리의 [FROM.GetAdjective] 동지들이 팔
 FRA_help_CNT:0 "CNT-FAI 지원"
 FRA_help_CNT_desc:0 "CNT가 벼랑 끝에 서 있습니다. 우리의 남부 국경의 안전을 위해 스페인을 확보해야 합니다."
 
-FRA_help_SOV:0 "Support the Russians"
-FRA_help_SOV_desc:0 "The first great socialist revolution in Russia ended in failure but a new revolt has broken out. We must not squander this opportunity to transform the great Russian Bear of reaction into a staunch ally. Let us lend the Russians our support."
+FRA_help_SOV:0 "러시아 지원"
+FRA_help_SOV_desc:0 "러시아 최초의 위대한 사회주의 혁명은 실패로 끝났지만 새로운 반란이 일어났습니다. 우리는 이 기회를 놓치지 말고 거대한 러시아 곰을 우리의 든든한 우방으로 만들어야 합니다. 러시아인들에게 지원을 보냅시다."
 
 FRA_help_south_america:0 "우리의 [FROM.GetAdjective] 형제를 돕자"
 FRA_help_south_america_desc:0 "제2차 인터내셔널 회의 기간 동안 우리는 남아메리카의 동지들이 그들의 국가를 발전시키고 아르헨티나 반동주의자들을 물리칠 수 있도록 돕겠다고 약속했습니다. 우리는 그들의 승리와 아메리카 전역의 자유를 위해 어떠한 비용도 아끼지 않을 것입니다. 우리 동지들을 위해 아낌없이 지원해 줍시다!"
 
-FRA_invite_SRI_to_intl:0 "Invite [From.GetNameDef] into the Third Internationale"
-FRA_invite_SRI_to_intl_desc:0 "Both Germany and Austria are leery of a formal alliance being created between the Third Internationale and [From.GetNameDef], whereby our forces would be called in to help [From.GetNameDef] reunite Italy under syndicalist rule. Should any major power become involved in the region, however, or should we find ourselves at war with [GER.GetNameDef] once again, then all bets are off."
+FRA_invite_SRI_to_intl:0 "[From.GetNameDef]를 제3인터내셔널에 초대하자"
+FRA_invite_SRI_to_intl_desc:0 "우리 군대가 [From.GetNameDef]의 이탈리아 재통일을 도우면서, 독일과 오스트리아는 제3인터내셔널과 [From.GetNameDef] 사이에서 맺어진 동맹에 대해 미심쩍어하고 있습니다. 그러나, 이탈리아에 열강이 개입할 경우 우리는 또다시 [GER.GetNameDef]과의 전쟁에 돌입하게 될 것입니다."
 
-FRA_Sabotage:0 "Initiate Sabotage in [From.GetNameDef]"
+FRA_Sabotage:0 "[From.GetNameDef]에 사보타주 실행"
 FRA_Sabotage_desc:0 "[FRA_sabotage_decision_desc]"
 
 FRA_sabotage_decision_NFA:0 "아프리카의 반역자이자 제국주의자들은 오랜 기간 동안 원주민들을 자신들의 안녕과 물질적인 이익을 위해 착취해 왔습니다. 우리는 이를 가만 두지 않을 것입니다."
