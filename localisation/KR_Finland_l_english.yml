@@ -450,16 +450,16 @@ finland.24.d:0 "[Root.GetAdjective] 주권을 지키는 것은 중요한 일입�
 finland.24.a:0 "핀란드 만세!"
 
 finland.25.t:0 "사회 분열을 막다"
-finland.25.d:0 "Avoiding the fiasco which occurred and had nearly torn apart [Root.GetName] is one of the biggest priorities for the Red-Earth government, with said event still fresh in the minds of the [Root.GetAdjective] people. In order to circumvent this and prevent the mistakes of the past, prominent leaders from within the Red-Earth government have taken to meeting with moderates from both the left and the right and working to bring the [Root.GetAdjective] people together, uniting the nation as one. Whether or not the actions taken by the coalition will work, only time will tell..."
+finland.25.d:0 "아직도 [Root.GetAdjective] 국민들의 뇌리에 생생한, [Root.GetName]를 분열시킬 뻔했던 낭패를 방지하는 것은 석간주 연정의 최우선순위중 하나입니다. 과거의 실수를 되풀이하지 않기 위해, 석간주 연정의 저명인사들은 좌파와 우파의 온건파들과 만나 [Root.GetAdjective] 국민들을 단합시키고, 국가를 하나로 묶기 위해 뭉쳤습니다. 이러한 시도가 효과가 있을 지는 시간만이 말해줄 것입니다..."
 finland.25.a:0 "통합이 중요하다."
 
 finland.26.t:0 "석간주 연정의 붕괴!"
-finland.26.d.socdem:0 "The Social Democrats, having made the decision to effectively dissolve the Red-Earth government and favour the workers, completely ignoring the agenda of the Agrarian League. Of the course, the agrarians have lodged formal complaints, with enough representatives pushing for the withdrawal of the party from the Red-Earth government to formally end its existence.\n\nWhile the social democrats can now say that they are working to fulfil the needs of their constituents, this does not bode well for the overarching message of co-operation between political parties, and could lead to the polarisation of [Root.GetName]’s politics in the near future..."
-finland.26.d.soclib:0 "The Agrarians, having made the decision to effectively dissolve the Red-Earth government and favour the farmers, completely ignoring the agenda of the Social Democratic Party. Of the course, the social democrats have lodged formal complaints, with enough representatives pushing for the withdrawal of the party from the Red-Earth government to formally end its existence.\n\nWhile the agrarians can now say that they are working to fulfil the needs of their constituents, this does not bode well for the overarching message of co-operation between political parties, and could lead to the polarisation of [Root.GetName]’s politics in the near future..."
+finland.26.d.socdem:0 "사회민주당은 농업연맹의 주장을 완전히 무시하고, 석간주 연정을 해산하고 노동자들을 우대하는 정책을 추진하기로 결정을 내렸습니다. 농업연맹은 이에 반발하여 그들 또한 석간주 연정에서 발을 빼겠다고 선언하였습니다.\n\n 사회민주당은 이제 그들의 유권자들의 요구를 수용하기 위해 노력하고 있다고 말할 수 있겠지만, 이는 각 정당 간의 협력을 해치는 것이며, 가까운 미래 [Root.GetName] 정치의 극단화로 이어질 것입니다."
+finland.26.d.soclib:0 "농업동맹은 사회민주당의 주장을 완전히 무시하고, 석간주 연정을 해산하고 농민들을 우대하는 정책을 추진하기로 결정을 내렸습니다. 사회민주당은 이에 반발하여 그들 또한 석간주 연정에서 발을 빼겠다고 선언하였습니다.\n\n 농업동맹은 이제 그들의 유권자들의 요구를 수용하기 위해 노력하고 있다고 말할 수 있겠지만, 이는 각 정당 간의 협력을 해치는 것이며, 가까운 미래 [Root.GetName] 정치의 극단화로 이어질 것입니다."
 finland.26.a:0 "해야 할 일을 했을 뿐이다."
 
 finland.27.t:0 "연정의 유지"
-finland.27.d:0 "Rather than pursuing their own agendas and effectively dissolving the coalition government, which was the expected fate of the Red-Earth government by multiple representatives (even from those within the party as well), the Social Democratic Party and Agrarian League have put aside their differences, willing to put into practice and further the policy of co-operation between [Root.GetName]’s political parties. It seems as though the Red-Earth government is here to remain."
+finland.27.d:0 "그들 각자의 주장을 고집하여 결국엔 연정이 붕괴될 것이라 예상되었지만, 석간주 연정의 구성원인 사회민주당과 농업동맹은 그들의 차이를 뒤로 제쳐놓고, [Root.GetName] 정당 간의 협력 정책을 추진하기로 했습니다. 석간주 연정은 당분간 안정적으로 지속될 것 같습니다."
 finland.27.a:0 "사소한 차이 정도는 서로 양보할 수 있다."
 
 finland.28.t:0 "공약 이행"
@@ -506,7 +506,7 @@ finland.37.d:0 "A governmental body comprised of a certain portion of the electo
 finland.37.a:0 "적대세력에 맞서 굳건히 위치를 사수해야 한다."
 
 finland.38.t:0 "적위대 약화"
-finland.38.d:0 "Even before we can attempt to disband the unruly and destructive Red Guard, we must take to weakening them in any way we can. This includes slowly reducing gun shipments, blocking there agenda through legislative means, and setting up prominent leaders within the movement to take the fall. Most importantly, however, we must target their members and, though the use of subtle propaganda, convince them to leave the organisation.\n\nHowever Otto Wille Kuusinen is a smart man, having been able to avoid capture and execution, unlike Kullervo Manner. We must tread lightly, and hope that the Red Guard does not notice our attempts at weakening them..."
+finland.38.d:0 "파괴적이고 통제불능의 적위대를 해산시키려면, 먼저 우리는 그들을 약화시켜야 합니다. 이를 위해서는 그들에게 가는 총기 수송을 막아야 하며, 법적 제재가 수반되어야 할 것입니다. 그러나 무엇보다도 우리는 약간의 선동을 통해 적위대 단원들이 조직을 떠나도록 설득해야 합니다.\n\n그러나 쿨레르보 만네르와 다르게 오토 빌레 쿠시넨은 똑똑한 남자이며, 우리 손을 피해 달아날 가능성이 높습니다. 우리는 조심스럽게 움직여야 하며, 적위대가 우리의 시도를 알아채지 못하도록 기도합시다..."
 finland.38.a:0 "천천히, 하지만 확실히, 우리는 적위대를 약화시키고 있다."
 finland.38.b:0 "적위대가 다시 맹위를 떨치고 있다!"
 
@@ -529,7 +529,7 @@ finland.42.d:0 "[Root.GetAdjective] 인민대표단에서 가장 큰 쟁점이�
 finland.42.a:0 "매도 먼저 맞는 게 낫지."
 
 finland.43.t:0 "적위대"
-finland.43.d:0 "Paramilitary units of the [Root.GetAdjective] labour movement, the Red Guard were initially founded in 1905, and re-established in 1917 following the October Revolution in Russia.\n\nServing as the army of Red Finland, the Red Guards were known to many within Finland to be an aggressive revolutionary army, willing to do anything to push their ideology. This had put them at odds with the [Root.GetAdjective] People’s Delegation, who wished to control the increasingly radicalised paramilitary units.\n\nHowever, neither of the sides within the [Root.GetAdjective] Civil War were able to make a move as, in 1918, the combined White Guard and [GER.GetAdjective] forces were able to defeat the socialists and assume control of the nation.\n\nForced with no other option, those who belonged to the [Root.GetAdjective] People’s Delegation and the Red Guard, and who were not arrested, were forced to flee to the then-Bolshevik led Soviet Union.\n\nAfter the formal surrender by the Bolsheviks in 1920, the Red Guard and the [Root.GetAdjective] People’s Delegation were forced to relocate to Finland, hiding underground. Now led by Otto Wille Kuusinen, the Red Guard forged yet another alliance with the Delegation, promising to take power and bring socialism to Finland."
+finland.43.d:0 "[Root.GetAdjective] 노동운동의 준군사조직인 적위대는 1905년 처음 만들어졌고, 1917년 러시아 10월 혁명으로 재설립되었습니다.\n\n붉은 핀란드의 군대로서 적위대는 공격적인 혁명 군대로 알려져 있으며, 그들의 이념을 전파하기 위해 무슨 일이든 할 것입니다. 이러한 성향으로 인해 적위대와 그들을 통제[Root.GetAdjective] 인민대표단 사이의 갈등이 생겼습니다.\n\n그러나, [Root.GetAdjective] 내전 중 양측은 모두 행동을 하지 못했고, 백위대와 [GER.GetAdjective] 연합군은 사회주의자들을 물리치고 국가의 통제권을 장악하는 데 성공했습니다.\n\n다른 선택지가 없음을 깨달은 [Root.GetAdjective] 인민대표단과 적위대 단원들은 볼셰비키의 소비에트 러시아로 망명했습니다.\n\n1920년 볼셰비키의 패배 이후, 적위대와 [Root.GetAdjective] 인민대표단은 핀란드로 쫓겨났으며, 지하에 숨어들었습니다. 이제 오토 빌레 쿠시넨이 이끄는 적위대는 인민대표단과 다시 한번 손을 잡았으며, 핀란드에 사회주의를 뿌리내리게 할 것입니다."
 finland.43.a:0 "핀란드를 다시 위대하게!"
 
 finland.44.t:0 "제2차 적색테러"
@@ -537,7 +537,7 @@ finland.44.d:0 "반체제 인사나 정당, 또는 언론사를 숙청하기 위
 finland.44.a:0 "그리 되리라."
 
 finland.45.t:0 "관료제 확대"
-finland.45.d:0 "So as to allow for the centralisation of power under the new regime alongside a greater hold on power by the Red Guard, Otto Wille Kuusinen has seen fit to expand the [Root.GetAdjective] bureaucracy and staff it with civil servants who are willing to carry out the directives of the new government.\n\nWhile this has harmed our standing with the farmers, who would rather see greater representation for rural Finland, this has increased our standing with the urban [Root.GetAdjective] population, who are content with the fact that the government will be receptive to their needs."
+finland.45.d:0 "적위대에로의 권력 집중을 위하여 오토 빌레 쿠시넨은 [Root.GetAdjective]의 관료체계를 확장하기로 결정했고 정부의 지침을 수행할 공무원들을 뽑기로 결정했습니다.\n\n이러한 조치로 인해 농민들의 지지도가 하락하고 있고, 반대로 정부가 그들의 요구를 잘 받아준다는 인상을 받은 도시민들의 지지도는 상승하고 있습니다."
 finland.45.a:0 "얻는 것이 있으면 잃는 것도 있는 법."
 
 finland.46.t:0 "사유재산 문제"
@@ -1054,9 +1054,9 @@ FIN_favour_workers_tooltip:0 "§Y우리는 노동자들 편에 서기로 결정�
 FIN_favour_farmers_tooltip:0 "§Y우리는 농부들 편에 서기로 결정했습니다§!."
 FIN_tt_finish_democratic_tree:0 "§R'안정된 핀란드' 혹은 '온건한 핀란드' 중점을 완료하여 외교 정책을 해금할 수 있습니다§!."
 air_ace_generation_chance_factor_research:0 "에이스 등장 확률"
-FIN_gercl_tt:0 "Two cruisers will be created in Helsinki."
-FIN_civships_tt:0 "Three civil war era ships will be created in Helsinki."
-FIN_oldswe_tt:0 "Fifty outdated fighter planes will be received."
+FIN_gercl_tt:0 "순양함 두척이 헬싱키에 나타날 것입니다."
+FIN_civships_tt:0 "내전기 선박 세척이 헬싱키에 나타날 것입니다."
+FIN_oldswe_tt:0 "50대의 구형 전투기를 받을 것입니다."
 
 ### Opinion Modifiers ###
 FIN_curtailed_swedish_rights:0 "스웨덴계 권리 축소"
