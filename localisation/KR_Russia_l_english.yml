@@ -1027,8 +1027,8 @@ rusd.56.f:0 "아니, 차르의 시대는 지났다."
  
 rusd.57.t:0 "투자 논쟁"
 rusd.57.d:0 "The ability to help fund the Zemstva institutions is a double-edged sword. As it stands, the Zemstva only invest money they gain from local taxes, and if something happens, the government in [RUS.GetCapital] can always pin the blame on the local governor and have him replaced, without mentioning the advantages inherent in such a localized form of management. On the other hand, this does limit the scope of what they can achieve. The moment we step in, however, the government in [RUS.GetCapital] will be held responsible for anything that fails.\n\nFor this reason, some are recommending cautious - if any - investments on our part. While some cite the need to not get involved in every minor issue in every Siberian hamlet, more market-oriented ministers cite that the Zemstva have largely been doing just fine without our direct intervention and that the state should allow the local governance to function as intended. Other ministers, however, prefer a more direct approach by the government and insist that we can't let a handful of irresponsible career politicians blind us to the potential benefits we could reap by providing state funding to the Zemstva."
-rusd.57.a:0 "Keep it small."
-rusd.57.b:0 "Give them increased funding."
+rusd.57.a:0 "소규모로 유지하자."
+rusd.57.b:0 "투자를 증가시키자."
 rusd.57.c:0 "대규모 투자를 하자."
 
 rusd.58.t:0 "투자의 방향"
@@ -1050,7 +1050,7 @@ rusd.59.t.civilian_industry_1:0 "산업 확장"
 rusd.59.d.civilian_industry_1:0 "부유한 사업가들로 구성된 [RUS_zemstvo_state.GetName]의 젬스트바는 지역 공장 신설에 상당한 투자를 했습니다. 이 신설 공장들은 지역 경제를 활성화시키고 있으며, 지역의 산업 확장은 또한 이 주의 산업을 활성화시키고 있습니다."
 
 rusd.59.t.civilian_industry_2:0 "경제 개발"
-rusd.59.d.civilian_industry_2:0 "The Zemstva in [RUS_zemstvo_state.GetName] have pooled their resources and expertise together and embarked on a major economic stimulus plan for the region. Millions of rubles have poured into local companies and the large uptick in economic activity has acted like a magnet for outside investments as well. Stores and factories have opened in several cities and new railroads are bringing goods from one end of the region to store shelves across Russia. Naturally, these riches will inevitably trickle their way upstream to [RUS.Capital.GetName] as well."
+rusd.59.d.civilian_industry_2:0 "[RUS_zemstvo_state.GetName]의 젬스트바는 자원과 전문가들을 활용해 지역 경제 활성화 계획을 시작했습니다. 수백만 루블이 지역 기업에 쏟아져 들어왔고 경제 활동의 증가는 외부 투자 유치에도 자석처럼 작용했습니다. 상점과 공장들이 여러 도시에 문을 열었고 새로운 철도는 러시아 전역의 선반에 상품을 채우기 위해 지역의 끝에서 끝으로 깔리고 있습니다. 당연히, 이러한 부들은 필연적으로 상류로 흘러가 [RUS.Capital.GetName]에도 도달할 것입니다."
 
 rusd.59.t.military_industry:0 "무기 생산 증대"
 rusd.59.d.military_industry:0 "[RUS_zemstvo_state.GetName]에 현대적인 생산 설비를 도입한 지역 상인의 투자는 최근 큰 성과를 거두었습니다. 물건들이 상점의 선반에 기록적인 속도로 쌓이고 있고, 이 투자로 인해 우리 국영 기업들도 혜택을 보고 있습니다. 소비재가 많이 생산되는 건 좋은 일이나, 또한 우리는 국방 문제에도 신경을 써야 합니다."
@@ -1059,22 +1059,22 @@ rusd.59.t.civilian_industry_3:0 "[RUS_zemstvo_state.GetName]의 대규모 산업
 rusd.59.d.civilian_industry_3:0 "[RUS_zemstvo_state.GetName]는 지역 산업 혁명의 중심입니다. 좋은 산업 환경과 풍부한 전문인력 그리고 통찰력 있는 지도층의 존재는 지역의 꾸준한 산업 발전을 이끌어 왔습니다. 수천명의 사람들이 지역 공장에서 일하고 있으며 상품들이 어마무시한 속도로 생산되고 있습니다. 이는 우리 경제 정책이 성공했다는 본보기입니다!"
 
 rusd.59.t.infrastructure:0 "인프라 향상"
-rusd.59.d.infrastructure:0 "A local governor in [RUS_zemstvo_state.GetName], appalled by the poor state of the roads in the region, has paid for the construction of new ones out of his own pocket. Over the past several weeks, laborers have put their shovels into the ground and helped to improve our infrastructure. The local papers may be praising his efforts, but it's ultimately the government in [ROOT.Capital.GetName] that reap the benefits of this act of generosity."
+rusd.59.d.infrastructure:0 "[RUS_zemstvo_state.GetName]의 지방 총독에게 지역 도로의 관리 상태가 충격을 주었고, 그는 그의 사비를 털어 새 도로를 깔도록 지시했습니다. 지난 몇 주 동안, 노동자들은 삽을 들어 땅을 파기 시작했습니다. 지역 신문은 그의 노력을 추켜세웠으나, 이러한 노력의 이득을 보는 것은 [ROOT.Capital.GetName] 지역 정부일 것입니다."
 
-rusd.59.t.agriculture:0 "Increased Crop Yields"
-rusd.59.d.agriculture:0 "New agricultural initiatives in [RUS_zemstvo_state.GetName] have recently led to a large bumper crop this yeear! Store shelves are full and so are the bank accounts of the farmers! Of course, one way or another, a lot of the benefits of this abundant yield will trickle back to us in due time."
+rusd.59.t.agriculture:0 "농작물 생산량 증가"
+rusd.59.d.agriculture:0 "[RUS_zemstvo_state.GetName]의 농업 계획으로 올해 농작물 생산량이 예년에 비해 엄청나게 증가했습니다! 상점 선반과 농민들의 은행 잔고가 가득 찼고, 이러한 성과의 결실은 우리에게도 올 것입니다."
 
-rusd.59.t.synthetics:0 "Breakthrough in Synthetic Oil"
-rusd.59.d.synthetics:0 "It'd seem that the recent spending increases towards the Zemstvo has yielded a tremendous breakthrough! [RUS_zemstvo_state.GetName] report that they've established a synthetic plant, adding a healthy production to its fuel and rubber production. This will help keep the region's population more self-sufficient, and is already yielding large export profits. Naturally, this development is quite pleasing to our military industrial complex as well..."
+rusd.59.t.synthetics:0 "합성 정유 분야의 혁신"
+rusd.59.d.synthetics:0 "최근 젬스트보의 예산 증액이 어마어마한 성과를 만든 것 같습니다! [RUS_zemstvo_state.GetName]는 그들이 합성 공장을 설립하였고, 연료와 고무가 원활히 생산되고 있다고 보고했습니다. 이는 지역 주민들에게 도움이 될 것이고, 많은 수출 이윤을 보장할 것입니다. 또한 이 발전은 우리 군수 산업에도 도움이 될 것입니다."
 
 rusd.59.t.failure_1:0 "젬스트보의 경영 실패"
-rusd.59.d.failure_1:0 "While more decentralized rule has its benefits, the lack of government oversight can sometimes have a negative side as well. We've recently been informed that many factories and companies in [RUS_zemstvo_state.GetName] are poorly run due to gross mismanagement, a situation that unfortunately has flown under the radar for longer than it ought to have. While the governor of the region has stepped in to remedy matters, we're nonetheless left paying the price for not being able to stop this widespread neglect sooner."
+rusd.59.d.failure_1:0 "분산 통치는 많은 이점을 가지고 있지만, 정부의 감독 부족은 때때로 부정적인 문제를 야기하고 있습니다. 우리는 최근 [RUS_zemstvo_state.GetName]에 있는 많은 공장들과 회사들에 대해 알게 되었는데, 이들은 총체적인 관리 실패로 인해 꽤 오랜 시간 동안 제대로 운영되지 못하고 있었습니다. 지역 총독이 문제를 해결하기 위해 개입했지만, 그럼에도 불구하고 우리는 이러한 광범위한 방치를 끝내지 못한 대가를 치루게 되었습니다."
 
 rusd.59.t.failure_2:0 "횡령 스캔들에 휘말린 젬스트보"
-rusd.59.d.failure_2:0 "Though our laissez-faire approach to economic matters has been a great boon to the economy, the lack of oversight means that sometimes the wealth being generated ends up in the pockets of crooks. [RUS_zemstvo_state.GetName] recently experienced this first-hand when a group of wealthy merchants used their wealth to buy their way into attaining considerable influence over the local Zemstva. With little oversight, they were able to embezzle a good deal of money meant to go to the state's coffers before law enforcement managed to shut their operation down. As their findings seem to indicate that this is merely the tip of the iceberg, however, it seems like we'll be battling this kind of corruption for the foreseeable future..."
+rusd.59.d.failure_2:0 "경제 문제에 대한 우리의 자유방임적 접근은 경제를 크게 발전시켜 왔지만, 느슨한 규제 때문에 생산된 부의 대부분이 사기꾼의 주머니에 넘어가고 있습니다. 최근[RUS_zemstvo_state.GetName]에서는 몇몇의 부유한 상인들이 그들의 부를 지역 젬스트바를 매수하기 위해 사용했습니다. 그들은 법이 그들을 멈추게 할 때까지 지역 재원으로부터 엄청난 양의 자금을 횡령하는 데 성공했습니다. 하지만 이러한 예시는 빙산의 일각에 불과합니다. 우리는 이러한 부패와 맞서 싸워야 합니다."
 
 rusd.59.t.failure_3:0 "젬스트보가 긴급 지원을 요청하다!"
-rusd.59.d.failure_3:0 "A string of failed investments and poor planning has led to several key companies involved in a Zemstvo project going so far down into the red that we have no choice but to provide them with a government bailout to keep their projects from utterly falling apart. We'll just have to bite the bullet on this one, tighten our belts, pay up, and tighten our belts in the coming months ahead. Needless to say, the governor that greenlit this will have some explaining to do..."
+rusd.59.d.failure_3:0 "일련의 투자 실패와 형편없는 계획으로 인해 젬스트보 프로젝트에 관련된 몇몇 주요 회사들이 적자에 내몰리게 되었고, 우리는 그들의 프로젝트가 완전히 실패하는 것을 막기 위해 정부의 구제금융을 그들에게 제공할 수 밖에 없었습니다. 앞으로 몇 달 간은 우리의 허리를 졸라매고 이를 악물면서 버틸 수 밖에 없을 것입니다. 물론 일이 이렇게 되기까지 방치한 총독도 책임을 져야 할 것입니다..."
 
 rusd.59.t.industrial_research:0 "기술 혁신"
 rusd.59.d.industrial_research:0 "[RUS_zemstvo_state.GetName]의 우리 연구진들은 토목공학 부문에서 그들이 상당한 진전을 거두었다고 보고했습니다. 그들의 노력의 결실은 우리나라 전역의 연구진들에게 큰 도움이 될 것입니다."
@@ -1082,17 +1082,17 @@ rusd.59.d.industrial_research:0 "[RUS_zemstvo_state.GetName]의 우리 연구진
 rusd.59.t.industrial_research_bonus:0 "산업 혁신!"
 rusd.59.d.industrial_research_bonus:0 "좋은 소식입니다! [RUS_zemstvo_state.GetName]의 천재들이 오늘 산업과 토목 공학 분야에서 큰 발전을 이루었다고 발표했습니다! 그들의 연구 성과 덕분에 연구개발 분야에 들어가는 노력을 덜 수 있게 되었습니다. 테스트 준비가 끝났습니다!"
 
-rusd.59.t.industrial_research_failure:0 "Industrial Research Set Back!"
-rusd.59.d.industrial_research_failure:0 "Our researchers in [RUS_zemstvo_state.GetName] are reporting a major setback. The professors in the employ of the Zemstvo made a dire miscalcuation in their assessments and it turns out (unfortunately only after extensive testing) that a lot of their hard work were based on a faulty premise. Unfortunately, some of our state-run research teams had used their work as a basis for their own projects as well, meaning that we're likely to see an overall slowdown of our research efforts in the months ahead."
+rusd.59.t.industrial_research_failure:0 "산업 연구에 차질이 생기다!"
+rusd.59.d.industrial_research_failure:0 "[RUS_zemstvo_state.GetName]의 우리 연구진들이 연구에 중대한 차질이 생겼다고 보고했습니다. 젬스트보의 교수들은 그들의 연구에서 끔찍한 실수를 저질렀고 (불행히도 수많은 테스트를 거친 후에야) 지금까지의 그들의 연구들이 잘못된 전제에 바탕을 둔 것으로 밝혀졌습니다. 불행히도, 몇몇 국책 연구팀들은 그들의 연구를 그들의 프로젝트의 기반으로 사용했습니다. 이는 앞으로 몇 달 동안 전반적인 연구 속도가 둔화될 것이라는 것을 의미합니다."
 
-rusd.59.t.military_research:0 "Military Innovations"
-rusd.59.d.military_research:0 "Our bright minds in the research staff in [RUS_zemstvo_state.GetName] are reporting that they've made significant advances in their military engineering research. Leading the way with new patented inventions, their efforts will make work easier for our research teams across the country."
+rusd.59.t.military_research:0 "군사 혁신"
+rusd.59.d.military_research:0 "[RUS_zemstvo_state.GetName]의 우리 연구진들은 군사 공학 분야에서 그들이 진전을 이루었다고 보고했습니다. 새로운 발명을 이루어 낸 그들의 노력은 국가 전역의 우리 연구진들에게 도움이 될 것입니다."
 
-rusd.59.t.military_research_bonus:0 "Military Breakthrough!"
-rusd.59.d.military_research_bonus:0 "Splendid news! The geniuses in [RUS_zemstvo_state.GetName] announced today that they've made a great advancement in the fields of military engineering! Their military research breakthrough has likely spared us months of additional hard work researching and developing. We're ready to start testing right away!"
+rusd.59.t.military_research_bonus:0 "군사 혁신!"
+rusd.59.d.military_research_bonus:0 "좋은 소식입니다! [RUS_zemstvo_state.GetName]의 천재들이 오늘 군사 공학 분야에서 큰 발전을 이루었다고 발표했습니다! 그들의 연구 성과 덕분에 연구개발 분야에 들어가는 노력을 덜 수 있게 되었습니다. 테스트 준비가 끝났습니다!"
 
-rusd.59.t.military_research_failure:0 "Military Research Set Back!"
-rusd.59.d.military_research_failure:0 "Terrible news! Smoke billowed out of the main research center in [RUS_zemstvo_state.GetName] today as their tests... Well, quite literally blew up in their faces. Although no one's injured, we've learned the hard way that there are no shortcuts when it comes to putting out even bigger guns for our military to use. As it stands, research will be slowed down while we work on renovating and rebuilding their damaged facilities."
+rusd.59.t.military_research_failure:0 "군사 연구에 차질이 생기다!"
+rusd.59.d.military_research_failure:0 "끔찍한 소식입니다! [RUS_zemstvo_state.GetName]의 주요 연구시설에서 실험 도중 연기가 뿜어져 나왔습니다... 바로 그들의 얼굴로요. 비록 다친 사람은 없지만, 우리는 우리 군대가 사용할 최고의 소총을 만들어내는 데는 지름길이 없다는 것을 배웠습니다. 망가진 시설을 보수하고 개조하는 동안 연구는 지연될 것입니다."
 rusd.59.a:0 "훌륭하군."
 rusd.59.b:0 "무능한 멍청이들!"
 
