@@ -136,7 +136,7 @@ wll.32.d:0 "근로조건 개선 약속과 노동법 발표로, 많은 소규모 
 wll.32.a:0 "우리는 자유당의 지지를 얻어야 한다!"
 
 wll.33.t:0 "자유당이 지원을 거부하다"
-wll.33.d:0 "Smelling their chance, the Liberals have decided to throw their own hat into the ring and have joined the POB in their demands for resignation. They state that the only way to solve this crisis now is by listening to the people and holding emergency elections."
+wll.33.d:0 "기회를 엿본 자유당은 자신들의 입장을 고수하기로 결정했고 사퇴 요구에 힘을 실어주기 위해 POB에 동참했습니다. 그들은 지금의 이 위기를 해결할 수 있는 유일한 방법은 국민의 소리에 귀를 기울이고 긴급 선거를 치르는 것이라고 주장하고 있습니다."
 wll.33.a:0 "이제부터는 어디서 지원을 받아야 하지?"
 
 wll.34.t:0 "라 루비에르의 항의"
@@ -344,84 +344,84 @@ wll.84.a:0 "The military has been dismantled."
 
 #Recreate Flanders-Wallonia
 
-wll.9.t:0 "Recreation of Flanders-Wallonia?"
-wll.9.d:0 "Finally the Flemish lands are back under our control and popular opinion has requested us to redeclare the nation of Flanders-Wallonia. We could however also leave the Flemish their own state, under our guidance of course..."
-wll.9.a:0 "Re-form Flanders-Wallonia!"
-wll.9.b:0 "I prefer the Coq Wallon."
+wll.9.t:0 "플랜더스-왈로니아 재건?"
+wll.9.d:0 "마침내 플랜더스 땅이 우리의 통제하에 돌아왔습니다. 그리고 여론은 우리에게 플랜더스-왈로니아를 재건할 것을 요구하고 있습니다. 하지만 또한 우리는 우리의 감시 하에 플랜더스인들이 그들의 나라를 만들게 할 수도 있습니다..."
+wll.9.a:0 "플랜더스-왈로니아를 재건하자!"
+wll.9.b:0 "플랜더스를 독립시키자."
 
 #Territorial Demands
 
-wll.10.t:0 "Walloon Ultimatum"
-wll.10.d:0 "The Walloon government has presented us with an ultimatum demanding our immediate reunification with them and the recreation of Flanders-Wallonia. Troops have been seen performing military exercises along our southern border and even the remnants of the former Flemish-Walloon navy have acted particularly brashly off our coast. We do technically outnumber them though so should be able to defend ourselves."
-wll.10.a:0 "Well, I suppose it is in both of our interests..."
-wll.10.b:0 "Flanders is an independent nation!"
+wll.10.t:0 "왈로니아 최후통첩"
+wll.10.d:0 "왈로니아 정부는 우리 측에 즉각적인 통일과 플랜더스-왈로니아의 재건을 요구하는 최후통첩을 보내왔습니다. 군인들이 우리 남쪽 국경을 따라 군사 훈련을 하는 것이 목격되었고 심지어 전 플랜더스-왈로니아 해군의 잔당들까지도 우리 해안에서 날뛰고 있습니다. 우리는 기술적으로 그들에 앞서 있지만, 우리는 우리 자신을 방어할 수 있어야 합니다."
+wll.10.a:0 "양국 모두에 이득을 가져다 줄 것이다."
+wll.10.b:0 "플랜더스는 독립국이다!"
 
-wll.101.t:0 "Ultimatum Refused!"
-wll.101.d:0 "The ultimatum was denied and our neighbours now fortify their border in preparation for war."
-wll.101.a:0 "Launch the invasion."
+wll.101.t:0 "최후통첩이 무시당했다!"
+wll.101.d:0 "최후통첩이 무시당했고 우리 이웃은 전쟁을 준비하기 위해 무장하고 있습니다."
+wll.101.a:0 "침공을 개시하라."
 
-wll.102.t:0 "Wallonia Requests Deutsch-Wallonia"
-wll.102.d:0 "The Walloon government has approached us over the Walloon province we annexed after the Weltkrieg. They state that returning it to them would solve unrest in the region and strengthen our borders. We can easily deny them this land however and remind them of their defeat at our hands."
-wll.102.a:0 "Return German Wallonia."
-wll.102.b:0 "To the victor, the spoils."
+wll.102.t:0 "왈로니아가 도이치발로니엔을 요구하다"
+wll.102.d:0 "왈로니아 정부가 세계대전 이후 우리가 합병한 왈롱 지역을 반환받기 위해 우리에게 접근해 왔습니다. 그들은 그 땅의 반환으로 지역의 불안을 잠재우고 국경의 안전을 보장할 수 있을 것이라고 주장하고 있습니다. 하지만 우리는 이 땅을 쉽게 포기할 수 없고, 그들에게 그들이 세계대전의 패배자라는 것을 상기시켜줄 필요가 있습니다."
+wll.102.a:0 "도이치발로니엔을 돌려줘라."
+wll.102.b:0 "그 땅은 승자의 전리품이다."
 
-wll.103.t:0 "Wallonia Requests Flanders"
-wll.103.d:0 "Wallonia, claiming all those lands once held by Belgium, has demanded that our nation transfer control over Flanders to them."
-wll.103.a:0 "Return Flanders."
-wll.103.b:0 "To the victor, the spoils."
+wll.103.t:0 "왈로니아가 플랜더스를 요구하다"
+wll.103.d:0 "왈로니아는 옛 벨기에의 모든 고토의 영유권을 주장하고 있고, 플랜더스의 소유권을 돌려받기 위해 우리에게 접근해왔습니다."
+wll.103.a:0 "그 땅을 돌려줘라."
+wll.103.b:0 "그 땅은 승자의 전리품이다."
 
-wll.104.t:0 "Request Refused!"
-wll.104.d:0 "The request was denied and our neighbours now fortify their border in preparation for potential conflict."
-wll.104.a:0 "Damn."
+wll.104.t:0 "요청이 거절당했다!"
+wll.104.d:0 "우리 요청이 거절당했고 우리 이웃은 다가올 충돌에 대비하여 국경을 강화하고 있습니다."
+wll.104.a:0 "젠장."
 
 #Internationale
 
-wll.11.t:0 "Wallonia Requests Entry into the Internationale"
-wll.11.d:0 "Our Northern neighbour has successfully broken the chains and wants to join our alliance. German repression against their revolution may be approaching though so we should consider whether we want to take this risk."
-wll.11.a:0 "Let them in."
-wll.11.b:0 "Refuse them"
+wll.11.t:0 "왈로니아가 인터내셔널 가입을 요청하다"
+wll.11.d:0 "우리의 북쪽 이웃은 성공적으로 쇠사슬을 끊었고 우리의 동맹에 가입하기를 원합니다. 그러나 독일이 그들의 혁명에 간섭할 수 있고 우리는 우리가 이 위험을 감수해야 하는지 고려해 보아야 할 것입니다."
+wll.11.a:0 "들어오라 해라."
+wll.11.b:0 "거절하자."
 
-wll.111.t:0 "The Internationale Denies Membership"
-wll.111.d:0 "We have been betrayed by our socialist brothers and have to face German might all alone now."
-wll.111.a:0 "Is the revolution lost?"
+wll.111.t:0 "인터내셔널이 제휴를 거절했다"
+wll.111.d:0 "우리는 우리의 사회주의 형제들로부터 버림받았고 독일의 위협에 홀로 맞서게 되었습니다."
+wll.111.a:0 "혁명이 실패하는 건가?"
 
-wll.112.t:0 "Syndicalism in Wallonia"
-wll.112.d:0 "It appears that syndicalism has spread to our puppet state of Wallonia and that Adelbert has once again been deposed. Our armies are already preparing for an invasion but may still be called off and prevent retaliation from the Commune of France."
-wll.112.a:0 "Prepare the attack!"
-wll.112.b:0 "Wallona is no longer pressing."
+wll.112.t:0 "왈로니아 생디칼리슴"
+wll.112.d:0 "생디칼리슴이 우리 위성국 왈로니아로 퍼져 아델베르트가 퇴위된 것으로 보입니다. 우리 군대는 이미 공격을 준비하고 있지만, 프랑스 코뮌과의 충돌을 막기 위해 공격을 철회할 수도 있습니다."
+wll.112.a:0 "공격을 준비하라!"
+wll.112.b:0 "신경쓸 거리가 아니다."
 
 #Flavour
 
 #Propaganda
 
-wll.12.t:0 "POB Spreads Propaganda"
+wll.12.t:0 "POB의 프로파간다"
 wll.12.d:0 "In the days leading up to the contentious election, all parties are scrambling their best propaganda teams to advocate their strengths and denounce the others. Their main focus seems to be to portray the PL-DC coalition as the enemy and to try and instill fear in the working class."
 wll.12.a:0 "The election is approaching!"
 
-wll.121.t:0 "PL Spreads Propaganda"
+wll.121.t:0 "PL의 프로파간다"
 wll.121.d:0 "The PL has focused on countering the fear instilled into the middle class by the Catholics against the Socialists. 'Carnaval... after Easter, the Citizen has become wise enough to see through these lies!'"
 
-wll.122.t:0 "REX Spreads Propaganda"
+wll.122.t:0 "REX의 프로파간다"
 wll.122.d:0 "Led by their mildly popular leader Degrelle, REX is seeking to sway voters by promising the complete cleanup, or 'groote kuisch' of career politicians and to restore Wallonia to its true Belgian borders."
 
-wll.123.t:0 "DC Spreads Propaganda"
+wll.123.t:0 "DC의 프로파간다"
 wll.123.d:0 "Afraid of Catholics voting against them and for REX, DC has launched a smear campaign against Degrelle calling him alternately confused 'dwaashoofd' and mad with power, 'macht'."
 
-wll.124.t:0 "POB Spreads Propaganda"
+wll.124.t:0 "POB의 프로파간다"
 wll.124.d:0 "To remember the workers of the pre-Weltkrieg situation, POB has sought to present the image of the failed PL-DC and their cronies drowning in failures. 'After their failure to hold Belgium, do you still trust them?'"
 
-wll.125.t:0 "POB Spreads Propaganda"
+wll.125.t:0 "POB의 프로파간다"
 wll.125.d:0 "'The time for socialism is now. The PL-DC are stuck in the past where the POB looks to the future! So the reign of money can end and the reign of the worker may commence!'"
 
-wll.126.t:0 "Anti-German Propaganda"
+wll.126.t:0 "반독 선전"
 wll.126.d:0 "Hung up in the middle of the night with no witnesses, large amount of anti-German propaganda has turned up showing the invaders as swine ravaging the corpse of Belgium. Police searches were unsuccessfull in finding the perpetrators but many German citizens are fearful, and outrage is spreading."
 
 #Industrial
 
-wll.131.t:0 "Foundation of the IBA"
+wll.131.t:0 "IBA 설립"
 wll.131.d:0 "Created by scientists from all Walloon Universities and even the Flemish, Ion Beam Applications has been launched aimed at boosting the high tech industry of Wallonia. With a large focus on prosthetics and cyclotron, they hope to revolutionise the niche and take the world by storm."
-wll.131.a:0 "Fund their projects."
-wll.131.b:0 "Observe their progress"
+wll.131.a:0 "그들의 프로젝트를 후원하자."
+wll.131.b:0 "그냥 지켜보자."
 
 wll.1311.t:0 "Return on Investment!"
 wll.1311.d:0 "IBA was able to expand with our subsidies into the American market and has received attention from their government as well. A contract has been signed between them and IBA, allowing easier expansion and the takeover of a biotechnology firm in the States."
@@ -433,7 +433,7 @@ wll.1312.a:0 "Truly a shame!"
 
 
 wll.132.t:0 "Extraction of New Resources"
-wll.132.d:0 "To combat the reliance on coal and heavy industry, the government has launched a large scale program to overhaul part of the Hainaut industry seeking to turn it into the glass centre of Europe. Heavily based out of Charleroi new and existing companies have been funded and expanded."
+wll.132.d:0 "석탄과 중공업에 대한 의존을 줄이기 위해 정부는 에노를 유럽 유리 산업의 중심지로 만들기 위한 계획에 착수했습니다. 우리는 샤를루아의 기업들을 지원하고 확장할 것입니다."
 wll.132.a:0 "We'll need more than that though."
 
 wll.1321.t:0 "Request From the Union Minière"
@@ -480,8 +480,8 @@ WLL_Give_Up_Our_Belgian_Claims:0 "Give Up Our Belgian Claims"
 WLL_Give_Up_Our_Belgian_Claims_desc:0 "We should no longer strive for the conquest of Flanders. We are stronger on our own and can better focus on the needs of the Walloon people without them."
 WLL_Liberals_Strenghten_Control:0 "Liberals Strengthen Control"
 WLL_Liberals_Strenghten_Control_desc:0 "After their victory in the election and the use of their coalition to maneuvre them into an ideal position, they can finally focus on strengthening their own control over the total picture."
-WLL_Le_Chant_Des_Wallons:0 "Le Chant des Wallons"
-WLL_Le_Chant_Des_Wallons_desc:0 "Nationalism has been reinforced, the nation strengthened and new opportunities appear at every corner. Guided by our national anthem and the will of our people will we march towards the horizon!"
+WLL_Le_Chant_Des_Wallons:0 "왈롱의 노래"
+WLL_Le_Chant_Des_Wallons_desc:0 "민족주의가 고조되고 있으며, 국력이 신장되고 있고 새로운 기회가 떠오르고 있습니다. 우리는 국가를 부르며 수평선을 향해 행진할 것입니다!"
 WLL_Reaffirm_Belgian_Claims:0 "벨기에 영유권 재확인"
 WLL_Reaffirm_Belgian_Claims_desc:0 "The Flemish may have gotten the best of us during their revolution but the lion has been licking its wounds under the guise of a rooster. Soon we shall strike and take back our rightful land."
 WLL_War_Games_On_The_Flemish_Border:0 "플랜더스 국경 기동 훈련"
@@ -489,7 +489,7 @@ WLL_War_Games_On_The_Flemish_Border_desc:0 "The Flemish invasion is imminent and
 WLL_Lobby_Abroad:0 "해외 로비"
 WLL_Lobby_Abroad_desc:0 "After their independence they were able to escape our wrath under the wing of Germany. We need to prove to Wilhelm that we are capable of holding the region and that splitting it up is detrimental to his greater vision."
 WLL_Send_The_Ultimatum:0 "최후 통첩 발송"
-WLL_Send_The_Ultimatum_desc:0 "The time for war has come. Flanders will bow beneath the rooster and will rejoin our union."
+WLL_Send_The_Ultimatum_desc:0 "전쟁의 때가 왔습니다. 플랜더스는 수탉에게 무릎을 꿇을 것이고 다시금 연합의 일원이 될 것입니다."
 
 WLL_Reform_Into_A_Republic:0 "공화국 개편"
 WLL_Reform_Into_A_Republic_desc:0 "The monarchy has proven to be a failure and has been replaced by the Walloon Republic"
