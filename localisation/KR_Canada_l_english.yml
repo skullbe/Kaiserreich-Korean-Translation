@@ -430,38 +430,52 @@ minister_of_everything:0 "만사의 장관"
 CAN_political_decisions:0 "캐나다 정치 결정"
 CAN_bring_king_home:0 "[CAN_king_first_name]의 귀환"
 CAN_bring_king_home_desc:0 "[CAN_king_first_name] 국왕께서 계실 곳은 [Root.GetNameDef]입니다. 이제 본토를 되찾았으니, 그곳으로 보내드려야 합니다."
+
 CAN_enact_full_conscription:0 "최대 징병제 제정"
-CAN_enact_full_conscription_desc:0 "We cannot abide by the restrictions placed upon our conscription laws any longer - no matter the consequence, we need the manpower in the Canadian army now!"
+CAN_enact_full_conscription_desc:0 "우리는 더 이상 징병법에 대한 제한을 준수할 수 없을것 같습니다. 이후의 결과가 어떠하든 간에, 캐나다의 군대에는 인력이 필요합니다!"
 CAN_suppress_quebec:0 "[466.GetName]에서 퀘벡인 억압"
-CAN_suppress_quebec_desc:0 "We cannot allow the Québecois dissidents to disrupt Canada further. The time has come to send in the army and restore peace!"
+CAN_suppress_quebec_desc:0 "퀘벡의 반체제 인사들이 캐나다를 혼란에 빠트리는 것을 용납해서는 안 됩니다. 군대를 보내 질서를 되찾을 때가 왔습니다!"
 CAN_suppress_stlawrence:0 "[468.GetName]에서 퀘벡인 억압"
-CAN_suppress_stlawrence_desc:0 "We cannot allow the Québecois dissidents to disrupt Canada further. The time has come to send in the army and restore peace!"
+CAN_suppress_stlawrence_desc:0 "퀘벡의 반체제 인사들이 캐나다를 혼란에 빠트리는 것을 용납해서는 안 됩니다. 군대를 보내 질서를 되찾을 때가 왔습니다!"
 CAN_suppress_montreal:0 "[832.GetName]에서 퀘벡인 억압"
-CAN_suppress_montreal_desc:0 "We cannot allow the Québecois dissidents to disrupt Canada further. The time has come to send in the army and restore peace!"
-CAN_emergency_draft:0 "Enact Emergency Draft"
-CAN_emergency_draft_desc:0 "There are a number of British Exiles present in Canada who either are too old to serve in the military or unwilling. The old guard can serve as mentors to the new, and the unwilling should serve to fight for their homeland whether they wish to or not. The time has come to call them to service."
+CAN_suppress_montreal_desc:0 "퀘벡의 반체제 인사들이 캐나다를 혼란에 빠트리는 것을 용납해서는 안 됩니다. 군대를 보내 질서를 되찾을 때가 왔습니다!"
+
+CAN_emergency_draft:0 "긴급 초안 작성"
+CAN_emergency_draft_desc:0 "캐나다에는 나이가 많거나 군 복무를 원하지 않는 영국 망명자들이 많이 있습니다. 노인들은 신입을 위한 조언자 역할을 할 수 있고, 군복무를 원치 않는 사람들은 이제 고집을 그만 부리고 조국을 위해 싸워야 합니다. 그들에게 '의무'의 수행을 요청해야 할 때가 왔습니다."
+
 CAN_expand_conscription_policies:0 "징집 정책의 확대"
-CAN_expand_conscription_policies_desc:0 "We needn't worry about arguments from the opposition, now - it's time to loosen up our policies on conscription, so we get more able bodies out in the field and we do so faster. Let's cut through the red tape and simply get it done!"
+CAN_expand_conscription_policies_desc:0 "우리는 이제 야당의 지적에 걱정할 필요가 없습니다. 이전에 시행했던 징병에 대한 우리의 정책은 시작일 뿐입니다. 우리는 더 많은 능력 있는 사람들을 전장에 더 빨리 배치해야 합니다. 형식적인 절차는 끊어서 간단하게 끝냅시다!"
+
 CAN_expand_secret_police:0 "비밀경찰 확장"
-CAN_expand_secret_police_desc:0 "Keeping watch over law and order at home is the first line of our defense. Let's provide the RCMP the tools they need, even if Canadians find such a move unpopular."
+CAN_expand_secret_police_desc:0 "국가 내에서 법과 질서를 지키는 것이 방어의 첫 번째 단계입니다. RCMP에 필요한 도움 제공해야 합니다. 다만, 캐나다의 국민들은 그러한 움직임을 좋아하지 않을 수도 있습니다."
+
 CAN_consolidate_power:0 "권력 집중"
-CAN_consolidate_power_desc:0 "With Parliament overridden, we can take power in the country wherever it's deemed necessary."
+CAN_consolidate_power_desc:0 "의회가 해산되면, 국가에게 필요한 권력을 얻을 수 있습니다."
+
 CAN_expand_labour_camps:0 "노동 캠프 확장"
-CAN_expand_labour_camps_desc:0 "The 'Economic Relief Camps' provide a handy labour pool to be used for construction and mining. If those camps were bigger, and populated by a wider assortment of people, we would get far more accomplished far more quickly."
+CAN_expand_labour_camps_desc:0 "'경제 구조 캠프'는 건설이나 채굴에 동원할 수 있는 노동자들을 제공합니다. 만약 이 캠프의 규모가 더 크고, 더 많은 사람들을 수용할 수 있다면, 우리는 훨씬 더 빨리 의미있는 성과에 도달할 수 있을 것입니다."
+
 CAN_increase_factory_prod:0 "공장 생산량 증대"
-CAN_increase_factory_prod_desc:0 "Cutting through the red tape that prevents factories from working hard - such as worrying about what they pay their factory workers, or where they get them in the first place - will let us get the jump on the syndicalists."
+CAN_increase_factory_prod_desc:0 "공장 근로자들이 급여문제를 걱정하는(애초에 어디서 급여를 받는지도 모르는) 문제를 해결하기 위해 형식적인 행위를 끊는다면, 생디칼리스트들을 능가할 수 있게 해줄 것입니다."
+
 CAN_fund_the_military:0 "군자금 조달"
-CAN_fund_the_military_desc:0 "There is a lot of places where budgets can be cut - because the military needs the attention, desperately."
-CAN_call_emergency_reserves:0 "Call Emergency Reserves"
-CAN_call_emergency_reserves_desc:0 "We are nearing the point of no return - it is time to call on our last reserves of strength."
+CAN_fund_the_military_desc:0 "군대의 예산이 절실히 필요하기 때문에 다른 부문에서 예산을 삭감해야 할 수도 있습니다."
+
+CAN_call_emergency_reserves:0 "긴급 총동원령"
+CAN_call_emergency_reserves_desc:0 "우리는 아주 위험한 상황까지 몰렸습니다. 이제 마지막 남은 모든 힘을 내야 할 때입니다."
+
 CAN_withdraw_from_entente:0 "협상국에서의 철수"
-CAN_withdraw_from_entente_desc:0 "We served the Empire fully and well, and now it is time for our participation in it to end. Let it deal with its European wars, and we will see to our own nation's causes."
+CAN_withdraw_from_entente_desc:0 "우리는 지금까지 제국의 일원으로 잘 지냈지만, 이제는 제국으로부터 떠날 때입니다. 유럽에서의 전쟁이 끝나면, 우리는 우리 나라의 운명을 지켜볼 것입니다."
+
 CAN_claim_alaska:0 "헤이-허버트 조약 파기"
-CAN_claim_alaska_desc:0 "The border between Canada and Alaska was made in the favor of Americans, thanks to an interest by the British government of the time in improving relations with the United States. Canadian interests were considered of secondary importance. Since the treaty was approved by a government we are no longer subservient to, we reject the arbitration and the border. Canada has a natural claim to Alaska, and it should have been ours to begin with."
+CAN_claim_alaska_desc:0 "캐나다와 알래스카의 국경은 당시 영국 정부가 미국과의 관계 개선에만 초점을 두었고 캐나다의 관심사는 부차적인 것으로 여겨졌었습니다. 결국 미국인들에게 유리하게 만들어진 그 조약은 더 이상 이전의 정부에 의해 승인되었기 때문에, 우리는 현재의 국경선을 거부할 권리가 있습니다. 캐나다는 알래스카에 대한 당연한 권리를 가지고 있고, 처음부터 우리의 것이었어야 했습니다."
+
 CAN_core_alaska:0 "알래스카 캐나다화"
 CAN_core_alaska_desc:0 "알래스카를 우리 영토로 편입한 이상, 해당 지역에 온전한 통제권을 확립하는 것은 어렵지 않을 것입니다 - 알래스카를 서서히 캐나다화하는 것도 포함해서요."
+
 CAN_claim_washington:0 "오리건 조약 파기"
 CAN_claim_washington_desc:0 "오리건 조약은 미국과 캐나다의 국경을 확립한 조약이었으며, 영국은 전쟁을 피하기 위해 컬럼비아 주의 남쪽 부분을 미국에게 넘겨주었습니다. 이는 캐나다가 아직 식민지일 때 체결되었으며, 따라서 우리가 계승할 의무는 없습니다."
+
 CAN_claim_maine:0 "웹스터-애슈버턴 조약 파기"
 CAN_claim_maine_desc:0 "웹스터-애슈버턴 조약은 메인 주와 뉴브런즈윅 주 사이의 경계를 확립한 조약이었지만, 이는 어디까지나 영국이 체결한 조약이며 우리가 계승할 의무는 없습니다."
 
@@ -501,30 +515,41 @@ CAN_nav_in_vancouver:0 "벤쿠버 조선소 확장"
 CAN_nav_in_vancouver_desc:0 ""
 
 CAN_meet_with_germany:0 "[From.GetFactionName](와)과의 만남"
-CAN_meet_with_germany_desc:0 "Both the Entente and the [From.GetFactionName] are at war with the Third Internationale. There have been murmurings within the Entente leadership that co-operation between our sides might be beneficial... although others say it will likely come at too high a price. Still, it would be worth meeting with the [From.GetAdjective] government to see if co-operation is even possible."
+CAN_meet_with_germany_desc:0 "협상국과 [From.GetFactionName]은 모두 제3인터내셔널과 전쟁을 벌이고 있습니다. 양측간의 협력이 도움이 될 수 있다는 말이 협상국 지도부 내에서 떠돌고 있습니다. 한편으로는 비용이 너무 많이 들 것이라고 말하기도 합니다. 그럼에도 불구하고, 상호간의 협력이 가능한지 알아보기 위해 [From.GetAdjective] 정부와 만날 가치가 있을 것입니다."
 
 CAN_returning_home_decisions:0 "본토"
 CAN_returning_home_decisions_desc:0 "우리의 최우선 목표는 영국 본토를 생디칼리스트들에게서 되찾고 연합왕국의 재건을 목도하는 것입니다. 이는 [CAN_king_full_name]을 국왕으로 모시는 이들로서, 100만 명이 넘는 영국 망명자들의 제2의 고향으로서, 그리고 협상국의 지도자로서 우리의 의무입니다. 쉽지 않은 일이겠지만, 우리는 어떻게든 방법을 찾아낼 것입니다."
-CAN_erode_uob_legitimacy:0 "Erode Syndicalist Legitimacy"
-CAN_erode_uob_legitimacy_desc:0 "Our efforts must be to convince the British people that the [ENG.GetNameDef] government is and always was an illegitimate construction, as well as their true oppressor. If their will to fight on behalf of the syndicalists collapses, the reconstruction of the United Kingdom can truly begin."
+
+CAN_erode_uob_legitimacy:0 "생디칼리스트의 정당성 침식"
+CAN_erode_uob_legitimacy_desc:0 "우리는 영국 본토의 국민들에게 [ENG.GetNameDef] 정부가 그들의 진정한 압제자일 뿐만 아니라 항상 불법적인 단체였다는 것을 알리기 위해 노력해야 합니다. 생디칼리스트를 위해 싸우려는 그들의 의지를 없애는 것부터가 영국 재건의 첫 걸음입니다."
+
 CAN_attack_uob:0 "본토 수복"
-CAN_attack_uob_desc:0 "We must be careful to time our attack carefully, as [From.GetNameDef] and its allies are far more powerful than us on an individual level. We cannot, however, sit on our hands forever. At some point, caution must be thrown to the wind, as fate favors the bold!"
+CAN_attack_uob_desc:0 "[From.GetNameDef](와)과 그 동맹국들은 우리보다 훨씬 강력하기 때문에 우리는 공격할 시점을 신중히 재야 합니다. 하지만 영원히 우리의 손가락만 빨고 앉아 있을 수는 없습니다. 운명은 적극적인 자에게 유리하다는 것은 누구나 아는 사실입니다. 때문에 어느 순간에는 대담하게 나서야 합니다!"
+
 CAN_all_hands_on_deck:0 "모두 손을 모아라!"
 CAN_all_hands_on_deck_desc:0 "The fight against the syndicalists will take everything we got - and that means casting our net for conscription wider than ever before."
+
 CAN_contact_british_loyalists:0 "영국 충성파와 접촉"
 CAN_contact_british_loyalists_desc:0 "Once we have gained a foothold on the British mainland, the loyalists we have been in contact with will be prepared to rise up and fight on our behalf."
+
 CAN_contact_irish_unionists:0 "아일랜드 연합주의자와 접촉"
 CAN_contact_irish_unionists_desc:0 "The Orange Order stands ready to fight for us against the syndicalists in Northern Ireland - all that we need to do is make contact and supply them with the resources they need."
+
 CAN_rally_the_country:0 "총동원"
 CAN_rally_the_country_desc:0 "The country is being invaded, and now we must fight like never before lest we be overrun!"
+
 CAN_approach_ireland:0 "[From.GetNameDef]에 접근"
 CAN_approach_ireland_desc:0 "Seeing as we've already made promises to the Irish government, they may be amenable to further overtures allowing us to use Ireland as a stopping point for an invasion of the Britain - provided they can trust the British government-in-exile enough to co-operate, of course."
+
 CAN_bailout_iceland:0 "[From.GetNameDef] 긴급 구제"
 CAN_bailout_iceland_desc:0 "Black Monday has devastated the Icelandic economy, leaving them scrambling to recover. It's a small country, however, and a bailout on our part would be easily handled - and might be enough to convince them to join the Entente and provide us a potential launching point for an invasion of Britain."
+
 CAN_fund_icelandic_resistance:0 "아이슬란드 저항군 후원"
 CAN_fund_icelandic_resistance_desc:0 "[From.GetNameDefCap] is currently under the [ENG.GetAdjective] thumb, but with some quiet funding that could rapidly change."
+
 CAN_seize_greenland:0 "그린란드 장악"
 CAN_seize_greenland_desc:0 "[From.GetNameDef](이)가 위기에 빠졌으므로, 우리는 신속히 행동해 요충지를 확보해야만 합니다. 그린란드 섬은 적에게 내주기에는 캐나다와 너무 가깝습니다."
+
 CAN_build_base_greenland:0 "고트호프 해군기지 확장"
 CAN_build_base_greenland_desc:0 "그린란드는 대서양을 통제하기에 가장 이상적인 장소는 아니지만, 이를 돕기에는 충분합니다."
 
@@ -532,18 +557,25 @@ CAN_kings_influence_decisions:0 "국왕의 영향력"
 CAN_kings_influence_decisions_desc:0 "[CAN_kings_influence]"
 kings_influence_home:0 "§Y[Root.GetNameDef]§!의 국왕인 §Y[CAN_king_full_name]§!(은)는 전통의 상징이자 '적법한' 유럽의 상징입니다. 본토가 탈환된 현재, 그의 영향력은 이례적인 수준으로 강해졌습니다.\n\n[CAN_king_full_name]의 §M지지도§!: [CAN_king_popularity]"
 kings_influence_exile:0 "비록 본토를 상실했지만, §Y[CAN_king_full_name]§!(은)는 제국과 협상국에서 가장 주요한 인물입니다. 전통의 상징이자 '적법한' 유럽의 상징인 그를 따르는 망명자들은 §Y[Root.GetNameDef]§! 정치계의 핵심 축 중 하나로 여겨집니다.\n\n영국 망명자들의 §B영향력§!: [CAN_king_influence]\n[CAN_king_full_name]의 §M지지도§!: [CAN_king_popularity]"
+
 CAN_royal_visit:0 "국왕의 [From.GetNameDef] 순방"
 CAN_royal_visit_desc:0 "We can send [CAN_king_full_name] on a tour through [From.GetNameDef], ideally propping up their support for the Entente's war efforts and engineering some goodwill from the [From.GetAdjective] government. Considering all the king's other duties, this can only be done once a year."
+
 CAN_royal_speech:0 "협상국에 대한 국왕의 연설"
 CAN_royal_speech_desc:0 "Allow [CAN_king_full_name] to make a radio address to the entire Entente, something which will take a month to prepare and get the alliance members all working more closely together."
+
 CAN_tour_home_country:0 "국왕의 [Root.GetAdjective] 순방 지속"
 CAN_tour_home_country_desc:0 "We can send [CAN_king_full_name] on a tour through [Root.GetNameDef], ideally engineering some goodwill and support for the war effort from the [From.GetAdjective] people. Considering all the king's other duties, this can only be done once a year."
+
 CAN_direct_exiles:0 "망명자들을 이끌다"
 CAN_direct_exiles_desc:0 "The British Exiles are prominently placed within [Root.GetNameDef]. Once a year, [CAN_king_full_name] has the ability to give them direction regarding where they should commit their efforts in supporting him."
+
 CAN_suppress_exiles:0 "망명자들을 억누르다"
 CAN_suppress_exiles_desc:0 "Having the British Exiles wield so much influence in [Root.GetNameDef] is not in our best interests. We need to begin exerting some influence of our own to stop their efforts at controlling the [Root.GetAdjective] government."
+
 CAN_support_government:0 "[Root.GetAdjective] 수상을 지지"
 CAN_support_government_desc:0 "[CAN_king_full_name] is popular enough that he can weigh in on the public discourse and encourage the [Root.GetAdjective] people to provide more support to the current government."
+
 CAN_adds_ws_based_on_pop:0 "Will add §BWar Support§! in [Root.GetNameDef] and all allied countries, based on §Y[CAN_king_full_name]'s§! current popularity.\n"
 CAN_direct_exiles_tt:0 "Will direct the British Exiles to either increase their own influence, increase the king's popularity, increase the country's political power and stability, or build an offsite factory. Each either lasts for a year or requires a year to take effect. In all cases but the British Exiles increasing their own influence, a level of their influence is 'expended'.\n"
 CAN_tour_effect_ROOT_tt:0 "Will increase §Y[Root.GetNameDef]'s§! stability, war support, mobilization speed, and army morale for up to a full year. Other events may also occur during §Y[CAN_king_full_name]'s§! tour.\n"
@@ -551,37 +583,50 @@ CAN_tour_effect_FROM_tt:0 "Will increase §Y[From.GetNameDef]'s§! stability, wa
 
 CAN_iedc_decisions:0 "The IEDC"
 CAN_iedc_decisions_desc:0 "The Imperial Economic Development Council allows members to pool together economic resources, at the direction of the [iedc_leader.GetAdjective] government. All political power costs for IEDC decisions are drawn from the IEDC pool.\n\nIEDC members: [CAN_iedc1][CAN_iedc2][CAN_iedc3][CAN_iedc4][CAN_iedc5][CAN_iedc6][CAN_iedc7][CAN_iedc8][CAN_iedc9][CAN_iedc10][CAN_iedc11][CAN_iedc12][CAN_iedc13][CAN_iedc14][CAN_iedc15]\n\nCurrent IEDC Political Power: £pol_power §Y[?global.iedc_pp]§!"
+
 CAN_invite_into_iedc:0 "IEDC에 [From.GetNameDef] 초청"
 CAN_invite_into_iedc_desc:0 "We should extend an invitation to the [From.GetAdjective] government to join the IEDC."
+
 CAN_leave_iedc:0 "IEDC 탈퇴"
 CAN_leave_iedc_desc:0 "The time has come to leave the IEDC. It is pointless for us to remain in an organization which does nothing for us."
+
 CAN_iedc_economic_investment:0 "IEDC Investment in [From.GetNameDef]"
 CAN_iedc_economic_investment_desc:0 "Pooling our resources can allow member countries to access industrial resources beyond their normal means, but only while they remain within the Entente. This may be used more than once for countries which have a larger industrial base to begin with.\n\nLast contribution to the IEDC: £pol_power §Y[?From.iedc_contribution]§!"
+
 CAN_iedc_economic_investment_home:0 "IEDC Investment in [Root.GetNameDef]"
 CAN_iedc_economic_investment_home_desc:0 "Pooling the Entente's industrial resources can help expand [Root.GetNameDef] industrial base, though we must beware - other IEDC members might become jealous if we focus too much on our own economy without sharing."
 
 CAN_entente_decisions:0 "협상국 동맹"
+
 CAN_join_ISAC_decision:0 "ISAC 가입"
 CAN_join_ISAC_decision_desc:0 "The Imperial Scientific and Academic Council is a leading institution in the Entente. By joining it we will be able to benefit from its world-renowned research capabilities."
 
 CAN_american_civil_war_decisions:0 "미국 내전"
 CAN_american_civil_war_decisions_desc:0 "The unthinkable has happened, and our southern neighbours have fallen into chaos. Worse, the threat of a major syndicalist power right on our border threatens any chance of us turning our attention across the Atlantic. We must do something, and quickly."
+
 CAN_reinforce_ottawa:0 "오타와 방비 강화"
 CAN_reinforce_ottawa_desc:0 "생디칼리스트들이 우리의 남쪽 현관에 있음에 따라 , 캐나다로 다가오는 전쟁에 대한 전망이 우리 모두에게 어렴풋이 보입니다. 우리는 지상으로 공격이 오는 만약의 사태에 대비해 오타와의 방어를 강화하는 것에 집중해야만 합니다."
+
 CAN_reinforce_montreal:0 "몬트리올 방비 강화"
 CAN_reinforce_montreal_desc:0 "생디칼리스트들이 우리의 남쪽 현관에 있음에 따라 , 캐나다로 다가오는 전쟁에 대한 전망이 우리 모두에게 어렴풋이 보입니다. 우리는 지상으로 공격이 오는 만약의 사태에 대비해 몬트리올이 있는 섬의 방어를 강화하는 것에 집중해야만 합니다."
+
 CAN_reinforce_vancouver:0 "밴쿠버 방비 강화"
 CAN_reinforce_vancouver_desc:0 "생디칼리스트들이 우리의 남쪽 현관에 있음에 따라 , 캐나다로 다가오는 전쟁에 대한 전망이 우리 모두에게 어렴풋이 보입니다. 우리는 지상으로 공격이 오는 만약의 사태에 대비해 우리의 태평양 해안 의 가장 핵심적인 도시인 밴쿠버의 방어를 강화하는 것에 집중해야만 합니다."
+
 CAN_reinforce_halifax:0 "핼리팩스 방비 강화"
 CAN_reinforce_halifax_desc:0 "생디칼리스트들이 우리의 남쪽 현관에 있음에 따라 , 캐나다로 다가오는 전쟁에 대한 전망이 우리 모두에게 어렴풋이 보입니다. 우리는 지상으로 공격이 오는 만약의 사태에 대비해, 최고의 항구이지 대서양해안의 제일 핵심적인 도시인 헬리팩스의 방어를 강화하는 것에 집중해야만 합니다."
+
 CAN_intervene_in_ACW_USA:0 "내전 개입"
 CAN_intervene_in_ACW_USA_desc:0 "Our allies in the American Civil War are losing ground. If we do not act soon, we could be facing a unified and hostile American state on our border. Now is the time to intervene - let us immediately contact our American allies and announce our entry in the conflict."
+
 CAN_intervene_in_ACW_AUS:0 "내전 개입"
 CAN_intervene_in_ACW_AUS_desc:0 "Our allies in the American Civil War are losing ground. If we do not act soon, we could be facing a unified and hostile American state on our border. Now is the time to intervene - let us immediately contact our American allies and announce our entry in the conflict."
 CAN_intervene_in_ACW_PSA:0 "내전 개입"
 CAN_intervene_in_ACW_PSA_desc:0 "Our allies in the American Civil War are losing ground. If we do not act soon, we could be facing a unified and hostile American state on our border. Now is the time to intervene - let us immediately contact our American allies and announce our entry in the conflict."
+
 CAN_declare_war_on_CSA:0 "남쪽의 생디칼리스트 저지"
 CAN_declare_war_on_CSA_desc:0 "It appears [CSA.GetNameDef] is on the verge of winning the civil war in the south. While they are strong, we must face them now... or risk facing them later, once they have recovered and gathered their full strength. We cannot afford to let the Internationale have a world power on our southern border. May God forgive us for what we must do, but the time has come to invade the south."
+
 CAN_invite_PSA_ceasefire:0 "[CAL.GetNameDef](을)를 협상국에 초청"
 CAN_invite_PSA_ceasefire_desc:0 "The [ACW_ceasefire_name] leaves [CAL.GetNameDef] in a precarious situation: they control the west, but [CSA.GetNameDef] controls the industrial heartland and the East Coast. They will be hard-pressed to win the war once the ceasefire ends, so perhaps this is a good time to approach them about Entente membership. It will mean committing ourselves to war with the CSA, but - quite frankly - that was going to happen eventually anyhow."
 
@@ -589,6 +634,7 @@ CAN_new_england_decisions:0 "뉴잉글랜드"
 CAN_new_england_decisions_desc:0 "[CAN_new_england_dec_categ]"
 CAN_new_england_category_norebel:0 "미국 내전에 대한 우리의 개입은 우리의 대응에 따라 이익이 될 수도, 재앙이 될 수도 있는 뉴잉글랜드의 점령으로 귀결되었습니다."
 CAN_new_england_category_rebel:0 "미국 내전에 대한 우리의 개입은 뉴잉글랜드 점령을 모든 미국인에 대한 적대적 전쟁 행위라 주장하는 소위 '양키 반란군'의 등장으로 인해 상당히 골치아픈 일이었음이 증명되었습니다.\n\n§R양키 반란군§!이 현재 활동하는 지역: §Y[?CAN.CAN_yankee_rebellion]§! 주"
+
 CAN_put_down_maine_rebellion:0 "메인의 양키 반란군 처리"
 CAN_put_down_maine_rebellion_desc:0 "소위 '양키 반란'이 우리에게 막대한 피해를 가하고 있습니다. 상황이 손쓸 수 없는 지경까지 이르기 전에 병력을 투입해 수습해야만 합니다."
 CAN_put_down_newhamp_rebellion:0 "뉴햄프셔의 양키 반란군 처리"
@@ -603,12 +649,14 @@ CAN_put_down_conn_rebellion:0 "코네티컷의 양키 반란군 처리"
 CAN_put_down_conn_rebellion_desc:0 "소위 '양키 반란'이 우리에게 막대한 피해를 가하고 있습니다. 상황이 손쓸 수 없는 지경까지 이르기 전에 병력을 투입해 수습해야만 합니다."
 CAN_put_down_nyork_rebellion:0 "뉴욕의 양키 반란군 처리"
 CAN_put_down_nyork_rebellion_desc:0 "소위 '양키 반란'이 우리에게 막대한 피해를 가하고 있습니다. 상황이 손쓸 수 없는 지경까지 이르기 전에 병력을 투입해 수습해야만 합니다."
+
 CAN_nee_recruitment1:0 "뉴잉글랜드 징집"
 CAN_nee_recruitment1_desc:0 "With New England firmly under out control, the time has come to begin a campaign of recruitment among American citizens - there are enough who support us, and with military experience, that we could assemble a large force of the locals within the span of a few months."
 CAN_nee_recruitment2:0 "뉴잉글랜드 징집을 지속"
 CAN_nee_recruitment2_desc:0 "With New England firmly under out control, the time has come to begin a campaign of recruitment among American citizens - there are enough who support us, and with military experience, that we could assemble a large force of the locals within the span of a few months."
 CAN_nee_recruitment3:0 "뉴잉글랜드 징집을 지속"
 CAN_nee_recruitment3_desc:0 "With New England firmly under out control, the time has come to begin a campaign of recruitment among American citizens - there are enough who support us, and with military experience, that we could assemble a large force of the locals within the span of a few months."
+
 CAN_develop_maine_steel:0 "메인 주 철광산 개발"
 CAN_develop_boston_synth:0 "보스턴 정유공장 개발"
 
