@@ -1176,32 +1176,32 @@ fengtian.101.b:0 "만세!"
 
 fengtian.102.t:0 "국토재수복 전쟁!"
 fengtian.102.d.no_shanhaiguan:0 "약속했던 시간이 마침내 다가왔습니다. 조만간 십년이 넘는 기간동안 세웠던 광대한 계획과 준비의 결실로 적에 대항할 것이며, 조국 통일로 향하는 첫 걸음을 내딛기 시작할 겁니다. 이제 남은 건 앞으로 나아가 그 순간을 휘어 잡는 것 뿐입니다. 장쭤린 대원수 만세! 공화국 만세!"
-fengtian.102.d.shanhaiguan:0 "The appointed hour has finally arrived. In the coming days, the fruits of over a decade of extensive planning and preparation will finally be brought to bear against the enemy, and the first steps will be taken on the path to national reunification. All that remains is to stride forward and seize the moment. Ten thousand years to Grand Marshal Zhang! Ten thousand years to the Republic!\n\nEmerging from small villages and towns along the northern banks of the Chaobai River, our soldiers have lead a successful uprising, isolating and eliminating local garrisons, and holding key river-crossings. We must push South as quickly as possible, before they are overwhelmed by the [QIE.GetAdjective] response and greater numbers."
+fengtian.102.d.shanhaiguan:0 "약속했던 시간이 마침내 다가왔습니다. 조만간 십년이 넘는 기간동안 세웠던 광대한 계획과 준비의 결실로 적에 대항할 것이며, 조국 통일로 향하는 첫 걸음을 내딛기 시작할 겁니다. 이제 남은 건 앞으로 나아가 그 순간을 휘어 잡는 것 뿐입니다. 장쭤린 대원수 만세! 공화국 만세!\n\n차오바이 강 북쪽 둑을 따라 있는 여러 마을과 소도시에서 뛰쳐나온 우리 군인들은 성공적인 봉기를 이끌었고 지역 주둔군을 고립시키고 소탕해냈으며 주요 하천을 도하했습니다. [QIE.GetAdjective]의 반응과 수적 우세를 앞세워 저들이 우세를 점하기 전에 가능한 한 빨리 남부로 밀어붙여야 합니다."
 fengtian.102.a:0 "역사는 오늘을 기억할 것이다!"
 
 fengtian.103.t:0 "산해관 잠입"
-fengtian.103.d:0 "The time has come for our soldiers to put into action our carefully laid plans and begin to infiltrate through Shanhaiguan and into the province beyond. Their mission will not be easy, as any number of things could go wrong, but if they are successful we will have an uprising behind [QIE.GetAdjective] lines to keep them busy and cut their supply."
+fengtian.103.d:0 "신중하게 세운 계획을 우리 병사들이 실행에 옮기고 산해관을 거쳐 그 너머의 지역으로 침투하기 시작해야 할 때가 왔습니다. 잘못될 수 있는 경우가 상당히 많기 때문에 이번 임무는 쉽지 않은 일이 되겠지만, 성공하기만 한다면 [QIE.GetAdjective] 전선 후방에서 봉기를 일으켜 적을 우왕좌왕하게 만들고 보급선을 차단할 수 있을 것입니다."
 fengtian.103.a:0 "용맹한 병사들에게 행운을 빈다!"
 fengtian.103.b:0 "그냥 잊어버리자."
 
 fengtian.104.t:0 "산해관에서 준비가 끝나다"
-fengtian.104.d:0 "Word has reached our intelligence operatives that most of our infiltrated soldiers are now in position south of Shanhaiguan. Now they must lie low and await the beginning of the War of National Reclamation."
+fengtian.104.d:0 "우리측 첩보 요원들은 침투한 군인들 대부분이 현재 산해관 남쪽에 위치해 있다는 보고를 받았습니다. 이제 저들은 몸을 숨기고 국가 수복전쟁이 시작하는 날만 기다리면 됩니다."
 fengtian.104.a:0 "좋은 소식이군."
 
 fengtian.105.t:0 "산해관에서 실패하다"
-fengtian.105.d:0 "Word has reached our intelligence operatives that, in the process of infiltration through Shanhaiguan, our soldiers were discovered and picked off by [QIE.GetAdjective] operatives and groups of military police. If anyone is left, they will undoubtedly be too scattered and disorganised to be of any use once we begin the war, and so unfortunately this plan must be considered failed."
+fengtian.105.d:0 "우리측 첩보 요원들은 산해관 침투 과정에서 [QIE.GetAdjective] 정보원과 한 무리의 헌병대가 아군 병사들을 발각해 체포했다는 전갈을 받았습니다. 만약 누군가 살아 남았다고 해도 너무도 산개되어 있기 때문에 전쟁이 시작했을 때 아무런 소용이 없을게 분명합니다. 그러므로 불행하겠지만 이번 계획은 실패한 것으로 간주해야 합니다."
 fengtian.105.a:0 "용맹한 희생이로다."
 
 fengtian.106.t:0 "잠입자가 실종되다"
-fengtian.106.d:0 "Although our intelligence services received reports of progress through the beginning stages of the Shanhaiguan Infiltration, contact has been abruptly cut off, and our forces have disappeared South of the Great Wall. It's possible that some were discovered and are merely avoiding detection, or that the entire force was destroyed. The fate of these brave soldiers could never be known."
+fengtian.106.d:0 "우리측 첩보 요원들은 산해관 침투 초기 단계까지 진척 상황을 보고받았지만, 어느 순간 갑자기 연락이 두절되었고 만리장성 이남의 아군은 사라져 버렸습니다. 몇몇 인원이 발각되어 생존자들이 탐지를 피하기 위해 잠적했을 가능성도 있고, 아니라면 전체 병력이 한꺼번에 격파당했을 가능성도 있습니다. 이 용맹한 군인들의 운명은 결코 알 길이 없게 되었습니다."
 fengtian.106.a:0 "아직 희망은 있다."
 
 fengtian.107.t:0 "상상도 못했던 이득"
-fengtian.107.d:0 "Despite the cessation of all contact with the Shanhaiguan infiltration force, reports have made their way north of gunfire and chaos on the northern banks of the Chaobai River. It seems that these heroes have avoided all detection, only to strike now at the opportune moment. Truly, this is an unexpected advantage, and we must push south before they are overwhelmed by the [QIE.GetAdjective] response and greater numbers!"
+fengtian.107.d:0 "산해관에 침투한 군대와 모든 연락에 중단되었음에도 불구하고, 차오바이강 북쪽 둑에서 총성과 혼란이 퍼졌다는 보고가 들어왔습니다. 저 영웅들은 모든 탐지를 피한 듯 했고, 지금 이 적절한 순간에 타격을 가하는데 성공했습니다. 이는 진실로 상상도 하지 못했던 이득이며, [QIE.GetAdjective](이)가 반응해 수적 우세를 앞세워 저들을 압도하기 전에 남쪽으로 빨리 밀고 내려가야 합니다!"
 fengtian.107.a:0 "명예롭구나!"
 
 fengtian.108.t:0 "산해관 봉기가 실패하다"
-fengtian.108.d:0 "Before it could ever truly begin, our uprising south of Shanhaiguan was detected and quickly overwhelmed by the local [QIE.GetAdjective] garrison in a short but violent confrontation. While we may encounter some survivors as we push South, we will have no organised assistance from the other side of the Great Wall."
+fengtian.108.d:0 "산해관 남쪽에서 벌인 봉기는 시작도 하기 전에 들켜버렸고 [QIE.GetAdjective]군 지역 방위대와 짧고 격렬한 전투 끝에 순식간에 진압당했습니다. 남쪽으로 진군하면서 몇몇 생존자를 만날 지도 모르겠지만, 만리장성 반대편에서 조직적인 지원을 받을 수는 없게 되었습니다."
 fengtian.108.a:0 "젠장."
 
 fengtian.110.t:0 "삼인방"
@@ -1213,8 +1213,8 @@ fengtian.111.d:0 "최근 두명의 협화회 의원들이 광복회 정치인들
 fengtian.111.a:0 "제적해."
 fengtian.111.b:0 "가만히 있자."
 
-fengtian.112.t:0 "안샨 사건"
-fengtian.112.d:0 "The iron ore deposits at Anshan have been worked by a Japanese-owned subsidiary of Mantetsu since 1918, known as "Anshan Iron and Steel", serving as one of Japan's most valuable sources of steel outside the Home Islands. When the facilities were first constructed most of the ore required little digging, as the deposits lie close to the surface, but as of the current date more extensive excavation is required to continue operations. The company has begun this expansion work without acquiring a lease for the extra land from the local authorities, destroying several farm properties in the process, and despite promises neither compensation nor the lease have been forthcoming.\n\nProtests quickly broke out among local farmers over the issue, and quickly escalated into a riot that severely damaged expensive mining equipment, which our police refused to prevent, citing the technically illegal nature of the operations. On its own initiative, a nearby Japanese garrison from Anshan stepped in, and used lethal force to disperse the riot. This slaughter of our citizens has not gone unnoticed, and existing anti-Japanese sentiment has only been inflamed. The people will hold us accountable in our response, but the deposits and the company working them are essential to Japan's strategic goals, and our relationship with the Japanese permits little room to manoeuvre."
+fengtian.112.t:0 "안산 사건"
+fengtian.112.d:0 "일본인이 소유한 만철 자회사인 "안산 철과 강철"사는 일본 본토 밖에서 가장 귀중한 매장지로 평가받는 안샨 철광석 매장지에서 1918년 이래로 작업을 해왔습니다. 철광 시설을 처음 건설했던 시절에는 대부분 매장지가 지표면에 노출되어 있었기 때문에 광석을 채굴하기 위해 땅을 거의 팔 필요가 없었습니다. 하지만 현재에 와서 운영을 계속하기 위해서는 더 광범위한 굴착 작업이 필요한 상황에 이르렀습니다. 기업측은 지역 당국으로부터 여분 토지를 불하받지 않은 채로 확장 작업을 진행했습니다. 이 과정에서 수많은 농토와 소유물이 파괴되었으며, 이전에 했던 약속은 헌신짝처럼 벗어던진채 아무런 보상도 임대 계약도 없었습니다.\n\n지역 농민들은 이 문제를 두고 시위를 빠르게 일으켰습니다. 얼마 지나지 않아 시위는 고가의 광산 장비에 심각한 피해를 입히는 폭동으로 커져버렸습니다. 우리측 경찰은 기술적으로 진압 작전이 불법적이라고 주장하며 개입을 거부했습니다. 안샨 인근에 주둔하던 일본 주둔군이 직접 나서서 폭력을 사용해 폭동을 진압했습니다. 이후 우리 시민들에 대한 학살을 숨기는데 실패했고, 이미 커져가는 중이던 반일의식에 불이 붙었습니다. 국민은 우리가 취한 대응에 해명을 요구하고 있습니다. 하지만 착수금과 이를 운용하는 회사는 일본의 전략적 목표에 필수적이며, 일본과 우리 사이의 관계로 인해 묘책을 세울 회의가 열렸습니다."
 fengtian.112.a:0 "일본을 비난해라."
 fengtian.112.b:0 "가만히 있자."
 
