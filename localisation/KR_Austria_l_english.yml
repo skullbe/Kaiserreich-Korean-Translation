@@ -913,40 +913,40 @@ ausgleich.new.320.b:0 "더 나아질 수도 있고, 악화될 수도 있다."
 
 #WIP
 ausgleich.new.321.t:0 "대타협 협상의 종료"
-ausgleich.new.321.d:0 "Our delegation was successful in negotiating a resolution to our differences with Vienna."
-ausgleich.new.321.a:0 "Good."
+ausgleich.new.321.d:0 "우리 대표단은 비엔나와 우리의 간격을 좁히는 데 성공했습니다."
+ausgleich.new.321.a:0 "좋아."
 
 #WIP
-ausgleich.new.322.t:0 "Austria Agrees to Pay Reparations"
-ausgleich.new.322.d:0 "We have successfully negotiated for the payment of reparations for the loss of Illyria."
-ausgleich.new.322.a:0 "Send the demand."
+ausgleich.new.322.t:0 "오스트리아가 보상에 동의하다"
+ausgleich.new.322.d:0 "우리는 우리의 일리리아 상실에 대한 배상 지급 협상을 성공적으로 마쳤습니다."
+ausgleich.new.322.a:0 "요구를 보내자."
 
 #WIP
-ausgleich.new.323.t:0 "Hungary Sends Her Demands"
-ausgleich.new.323.d:0 "Hungary takes us up on our offer for reparations."
-ausgleich.new.323.a:0 "If that is what it takes."
+ausgleich.new.323.t:0 "헝가리의 요구"
+ausgleich.new.323.d:0 "헝가리가 우리의 배상 제안을 받아들였습니다."
+ausgleich.new.323.a:0 "그것이 필요한 거라면."
 
 #WIP
-ausgleich.new.324.t:0 "[From.GetName] Agrees to Pay"
-ausgleich.new.324.d:0 "[From.GetName] Agrees to Pay"
-ausgleich.new.324.a:0 "Good to know."
+ausgleich.new.324.t:0 "[From.GetName]가 배상 지불에 동의했다"
+ausgleich.new.324.d:0 "[From.GetName]가 배상 지불에 동의했다"
+ausgleich.new.324.a:0 "좋군."
 
 #WIP
-ausgleich.new.325.t:0 "Hungary Demands Reparations"
-ausgleich.new.325.d:0 "Hungary Demands Reparations"
-ausgleich.new.325.a:0 "Wait, what?"
-ausgleich.new.325.b:0 "If that has been decided..."
+ausgleich.new.325.t:0 "헝가리가 보상을 요구하다"
+ausgleich.new.325.d:0 "헝가리가 보상을 요구하다"
+ausgleich.new.325.a:0 "잠깐, 뭐라고?"
+ausgleich.new.325.b:0 "그렇게 결정되었다면..."
 
 #WIP
-ausgleich.new.326.t:0 "Illyria Refuses to Pay"
-ausgleich.new.326.d:0 "Illyria Refuses to Pay"
-ausgleich.new.326.a:0 "Well, let's start a war in the Balkans. What could go wrong?"
-ausgleich.new.326.b:0 "Not much we can do then."
+ausgleich.new.326.t:0 "일리리아가 보상을 거절하다"
+ausgleich.new.326.d:0 "일리리아가 보상을 거절하다"
+ausgleich.new.326.a:0 "좋아, 발칸에서 전쟁을 시작해 보자고. 뭐 잘못되겠어?"
+ausgleich.new.326.b:0 "아직 시기상조다."
 
 #WIP
-ausgleich.new.327.t:0 "Hungary Declares War On Us"
-ausgleich.new.327.d:0 "Hungary Declares War On Us"
-ausgleich.new.327.a:0 "This isn't good."
+ausgleich.new.327.t:0 "헝가리의 전쟁 선포"
+ausgleich.new.327.d:0 "헝가리의 전쟁 선포"
+ausgleich.new.327.a:0 "좋지 않군."
 
 ausgleich.new.328.t:0 "일리리아 위기"
 ausgleich.new.328.d:0 "일리리아 정부가 "일리리아의 정당한 영토에 대한 터무니없는 배상 요구"를 거절한 이후, 헝가리 정부는 일리리아에 전쟁을 선포했습니다. 이미 헝가리 국방군(Honvédség)은 슬라보니아로 진격하고 있으며, 효과적으로 이 갈등에 개입하기는 이미 늦은 듯합니다."
@@ -955,40 +955,40 @@ ausgleich.new.328.b:0 "알아서 하라지."
 ausgleich.new.328.c:0 "해프닝에 불과하다."
 
 #WIP
-ausgleich.new.329.t:0 "Austria Declares War on Illyria"
-ausgleich.new.329.d:0 "The treacherous Kaiser has chosen not to respect minority rights."
-ausgleich.new.329.a:0 "How dare they!"
+ausgleich.new.329.t:0 "오스트리아가 일리리아에 전쟁을 선포하다"
+ausgleich.new.329.d:0 "망할 황제가 소수민족의 권리를 짓밟으려 하고 있습니다."
+ausgleich.new.329.a:0 "그들이 어떻게!"
 
 #WIP
-ausgleich.new.330.t:0 "Austro-Hungarian Split of Former Illyria"
-ausgleich.new.330.d:0 "We must choose what to do with the occupied Illyrian lands."
-ausgleich.new.330.a:0 "Restore the 1921 borders."
-ausgleich.new.330.b:0 "Give Croatia-Slavonia to Hungary and restore Illyria in the rest of the land."
-ausgleich.new.330.c:0 "Occupy the whole thing for now."
+ausgleich.new.330.t:0 "오스트리아와 헝가리의 일리리아 분할"
+ausgleich.new.330.d:0 "우리는 점령한 일리리아 땅을 어떻게 할지 선택해야 합니다."
+ausgleich.new.330.a:0 "1921년의 국경을 복원하라."
+ausgleich.new.330.b:0 "크로아티아와 슬라보니아를 헝가리에 주고 나머지 땅에 일리리아를 복원하자."
+ausgleich.new.330.c:0 "점령 상태를 유지하자."
 
 
 annexation_CRO_AUS_CONQ:0 "오스트리아와 헝가리가 옛 일리리아를 분할하다"
 annexation_CRO_AUS_CONQ_desc:0 "점령한 일리리아 땅을 어찌 할지 결정해야만 합니다."
 
 #WIP
-ausgleich.new.331.t:0 "Austria Occupies All of Illyria"
-ausgleich.new.331.d:0 "Austria has chosen not respect their promise. How should we respond?"
-ausgleich.new.331.a:0 "They'll pay for this."
-ausgleich.new.331.b:0 "There is nothing we can do."
+ausgleich.new.331.t:0 "오스트리아가 일리리아 전역을 점령하다"
+ausgleich.new.331.d:0 "오스트리아가 그들의 약속을 깨뜨렸습니다. 어떻게 해야 할까요?"
+ausgleich.new.331.a:0 "그들은 대가를 치를 것이다."
+ausgleich.new.331.b:0 "우리가 할수 있는건 없다."
 
 #WIP
-ausgleich.new.332.t:0 "Delegation Returns From the Ausgleich"
-ausgleich.new.332.d_no_claims:0 "Our delegation to the Ausgleich Renegotiations has arrived home in Prague today. While no major diplomatic breakthroughs were made from our side, at least we were able to establish closer ties to Vienna."
+ausgleich.new.332.t:0 "대타협 대표단이 돌아오다"
+ausgleich.new.332.d_no_claims:0 "대타협 재협상의 우리 대표단이 오늘 프라하로 돌아왔습니다. 큰 외교적 진전은 이뤄지지 않았지만, 적어도 우리는 비엔나와 한발 가까워졌습니다."
 ausgleich.new.332.d_claims:0 ""
-ausgleich.new.332.a:0 "Certainly a valuable lesson for them."
-ausgleich.new.332.b:0 "Good."
+ausgleich.new.332.a:0 "그들에게 귀중한 교훈을 주었을 것이다."
+ausgleich.new.332.b:0 "좋아."
 
 ausgleich.new.340.t:0 "[AUS_ausgleich_demonstrations] 민족주의"
 ausgleich.new.340.d:0 "대타협 재협상 동안 빈의 황제 폐하와 내각의 지원에 고무되어, [AUS_ausgleich_demonstrations] 반대 시위 행렬은 거리를 행진하고 있습니다. 그들은 친오스트리아적이며, 동시에 반헝가리적인 시위대입니다."
 ausgleich.new.340.a:0 "그들을 진정시켜라."
 
-AUS_ausgleich_demonstrations_SVK_ROM:0 "슬로바크인과 루마니아인"
-AUS_ausgleich_demonstrations_SVK:0 "슬로바크인"
+AUS_ausgleich_demonstrations_SVK_ROM:0 "슬로바키아인과 루마니아인"
+AUS_ausgleich_demonstrations_SVK:0 "슬로바키아인"
 AUS_ausgleich_demonstrations_ROM:0 "루마니아인"
 
 AUS_ausgleich_demonstrations_cities_SVK_ROM:0 "슬로바키아와 트란실바니아"
@@ -1000,10 +1000,10 @@ ausgleich.new.341.a:0 "동의한다. 헝가리는 분쟁 지역에서 군을 철
 ausgleich.new.341.b:0 "헝가리 문제에 개입할 수는 없다."
 
 #WIP
-ausgleich.new.342.t:0 "Austria Demands Our Authorities Evacuate [AUS_ausgleich_demonstrations_cities]"
-ausgleich.new.342.d:0 "Austria has demanded our administration and armed forces leave [AUS_ausgleich_demonstrations_cities]."
-ausgleich.new.342.a:0 "We must do as they say."
-ausgleich.new.342.b:0 "Never!"
+ausgleich.new.342.t:0 "오스트리아가 [AUS_ausgleich_demonstrations_cities]에서의 철수를 요구하다"
+ausgleich.new.342.d:0 "오스트리아는 우리 행정기관과 무장병력이 [AUS_ausgleich_demonstrations_cities]를 철수할 것을 요구했습니다."
+ausgleich.new.342.a:0 "시키는 대로 하자."
+ausgleich.new.342.b:0 "안돼!"
 
 ausgleich.new.343.t:0 "우리의 최후통첩을 수용한 헝가리"
 ausgleich.new.343.d:0 "헝가리는 분쟁 지역을 남겨두고 철수했으며, 우리 군이 자유로이 진군하고 질서를 재수립할 수 있도록 했습니다. 물론 여기서 질서란, 우리가 원하는 대로 만들어져야죠."
