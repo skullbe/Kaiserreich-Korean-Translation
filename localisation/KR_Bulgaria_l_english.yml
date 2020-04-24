@@ -754,11 +754,11 @@ bulgariaflavour.21.a:0 "우리가 자금 지원을 계속해 주겠다."
 bulgariaflavour.21.b:0 "우리는 자금 지원을 계속해줄 수 없다."
 
 bulgariaflavour.22.t:0 "[TUR.GetAdjective] 집단에서의 교육"
-bulgariaflavour.22.d:0 "It is important that we clearly lay out the stance of the [Root.GetAdjective] state with regards to the status of [TUR.GetAdjective] schools which is that of officially allowing, with state backing, [TUR.GetAdjective] schools to operate and for [TUR.GetAdjective] officials to run their own schools with a minimal degree of government oversight, of course."
+bulgariaflavour.22.d:0 "I우리는 현재 공식적으로 허용되고 국가에서 지원받는 무슬림 공동체의 [TUR.GetAdjective]인 학교들을 계속 운영하게 할 것인지에 대한 입장을 정해야 합니다."
 bulgariaflavour.22.a:0 "합리적인 협상이군."
 
 bulgariaflavour.23.t:0 "소수집단에서의 교육"
-bulgariaflavour.23.d:0 "It is important that we clearly lay out the stance of the [Root.GetAdjective] state with regards to the status of schooling by the Muslim minority which is that of officially allowing, with state backing, [TUR.GetAdjective] and Pomak schools to operate and for officials within those communities to run their own schools with a minimal degree of government oversight, of course."
+bulgariaflavour.23.d:0 "우리는 현재 공식적으로 허용되고 국가에서 지원받는 무슬림 공동체의 [TUR.GetAdjective]인과 포마크인 학교들을 계속 운영하게 할 것인지에 대한 입장을 정해야 합니다."
 bulgariaflavour.23.a:0 "합리적인 협상이군."
 
 bulgariaflavour.24.t:0 "[TUR.GetAdjective]인 지역의 재정착"
@@ -770,7 +770,7 @@ bulgariaflavour.25.d:0 "로도페 산맥 동부와 알바니아 북부 산악지
 bulgariaflavour.25.a:0 "그러길 바라자."
 
 bulgariaflavour.26.t:0 "높아진 긴장"
-bulgariaflavour.26.d:0 "With the recent economic downturn, the far right group Zveno (with former [BUL.GetAdjective] general Kimon Georgiev Stoyanov at its head) and its members have taken to attacking, both physically and verbally, the Muslim communities that reside within the borders of [BUL.GetName]. Stating that the [BUL.GetAdjective] government, for far too long, has been rather lenient towards Muslim minorities alongside blaming them for job losses, members of Zveno have begun to protest the policies of the government and have demanded change in the way that [BUL.GetName] treat its Muslim minority.\n\nIn response to these protests and attacks, counter-protests and attacks against Zveno by [BUL.GetAdjective] Turks and even some Pomaks have also begun, with the groups agitating for the [BUL.GetAdjective] government to not only grant their respective communities further autonomy, but to also make clear its stance on many issues that have been put on hold by the government."
+bulgariaflavour.26.d:0 "최근의 경기 침체로, 극우 단체 즈베노(전 [BUL.GetAdjective]의 장군 키몬 게오르기예프 스토야노프가 이끄는)는 [BUL.GetName] 내의 무슬림 공동체들을 물리적, 언어적으로 비방하고 공격하고 있습니다. 그들은 무슬림들이 일자리를 다 뺏어 가고 있다고 주장하면서, [BUL.GetAdjective] 정부가 무슬림에 너무 관대한 정책을 펴고 있다고, 정책을 바꿀 것을 주장하고 있습니다.\n\n이에 대한 저항으로, [BUL.GetAdjective]의 투르크인들과 일부 포마크인들 또한  [BUL.GetAdjective] 정부에 단지 자치권을 부여해주는 것뿐 아니라 이러한 이슈들에 대한 입장을 분명히 하라고 요구하고 있습니다."
 bulgariaflavour.26.a:0 "이런."
 
 ### Focuses ###
