@@ -1444,40 +1444,40 @@ fengtian.160.a:0 "전쟁을 감수할 가치는 없다."
 fengtian.160.b:0 "저들의 잘못된 칸이 모든 것을 망쳐버렸다!"
 
 fengtian.161.t:0 "차하르 국경 습격대"
-fengtian.161.d:0 "Scattered reports suggest that Fengtian troops have carried out a surprise attack on the trading centre of Duolun in Chahar province, eliciting a fierce response from the local Xilingol League. Skirmishes have erupted all along the Jehol-Chahar border, and neither side seems willing to give ground, but strangely Fengtian reinforcements haven't arrived and the fighting is so far contained to the two provinces. Whether this is merely a rogue general or the start of something larger is unclear, but in either case it might be worth striking while they are disorganised."
+fengtian.161.d:0 "산발적인 보고에 따르면 봉천군이 차하르 지역의 둬룬 무역 기지에 기습 공격을 감행하여 연지 시린골 연맹의 격렬한 반응을 이끌어 냈다고 합니다. 저홀-차하르 국경 전체에 걸쳐 교전이 벌어졌습니다. 양측 중 어느 한 쪽도 땅을 내어줄 의향이 없어 보입니다만 이상하게도 봉천측 지원군이 나타나지 않아 전투는 양 지역에 국한된 상태입니다. 이 사건이 단순히 한 장군이 중앙 명령이 없이 독단적으로 벌인 일일지 아니면 더 큰 무언가를 위한 준비작업일지는 분명하지 않지만, 어찌되었든 간에 혼란스럽고 조직화되지 않은 현 상황에 먼저 타격을 감행할 필요가 있습니다."
 fengtian.161.a:0 "전쟁을 감수할 가치는 없다."
 fengtian.161.b:0 "저들의 잘못된 칸이 모든 것을 망쳐버렸다!"
 
 fengtian.162.t:0 "봉천 습격대와 몽골"
-fengtian.162.d:0 "A developing crisis has emerged on the Fengtian-Mongolian border, with localised fighting now ongoing for two days between forces of the Provincial Governor of Jehol and the Mongolian Xilingol League. For unclear reasons the central government in Shenyang has yet to react to the Crisis, possibly hoping to squeeze out a victory without a larger costly war.\n\nOfficials at home and at the Kwantung Army headquarters in [GetDalianName] have reacted with alarm, worried that this could set a precedent for further irresponsible actions that might draw us into a wider conflict, while the foreign ministry suggests silent support; unwilling to risk harming the reputation of the pro-Japanese Concordia Association in the Fengtian Government."
+fengtian.162.d:0 "봉천-몽골 국경에서 위기가 고조되었고, 현재 저홀 총독과 몽골 시린골 연맹 사이에 이틀간 국지적인 전투가 진행되는 중입니다. 선양의 중앙 정부는 아직 명확하지 않은 이유로 사태에 반응하지 않고 있는데, 많은 비용이 드는 전쟁을 치르지 않고 승리를 거두기를 바라는 상황일지도 모릅니다.\n\n정부 관료들과 [GetDalianName]에 주둔한 관동군 사령부는 이번 사태가 우리를 더 거대한 충돌 속으로 끌어들일 지도 모르는 무책임한 행동의 선례가 될 지도 모른다고 우려를 표하며 경고했습니다. 반면 봉천 정부 내에서 친일적인 협화회의 평판을 잃고 싶지 않았던 외무부는 비밀리에 지원을 보내자는 제안을 했습니다."
 fengtian.162.a:0 "지원을 제공해야 한다."
 fengtian.162.b:0 "우리가 시켰을때만 싸우도록 해라!"
 
 fengtian.165.t:0 "일본이 지원을 제공하다"
-fengtian.165.d:0 "In light of the ongoing situation on the Mongolian Border, Japan has decided to render political and material aid."
+fengtian.165.d:0 "몽골 국경에서 진행되고 있는 상황에 비추어, 일본은 정치적이고 물질적인 원조를 보내기로 결정했습니다."
 fengtian.165.a:0 "완벽해!"
 
 fengtian.166.t:0 "일본이 비난하다!"
-fengtian.166.d:0 "Condemning what they call 'dangerous and disrepsectful irresponsibility damaging to our partnership', the Japanese consulate in Mukden has forwarded word that they will be temporarily ending various aid programs."
+fengtian.166.d:0 "묵던 주재 일본 총영사관측은 '양국간 동반 관계를 해치는 위험하고 무례할 뿐더러 무책임하기까지 한 행보'를 비난하며 다양한 원조 계획을 일시적으로 중단하겠다는 통보를 보냈습니다."
 fengtian.166.a:0 "재수도 없군."
 
 fengtian.167.t:0 "마잔산이 투항을 제안하다!"
-fengtian.167.d:0 "Communicating by mounted messenger, General Ma Zhanshan of [From.GetNameDef] has offered to defect, citing his once close relationship with Zhang Zuolin, but his growing dissatisfaction with the Grand Marshal's political overreach. Zhanshan is known to be an effective, if eccentric general, spending much of his time practicing his superb marksmanship; likely a product of the early life he spent roaming the Northeastern plain.\n\nAll the former bandit asks for in return is the latest equipment to outfit his men and three million dollars worth of gold."
+fengtian.167.d:0 "[From.GetNameDef]측의 마잔산 장군은 한때 자신과 장쭤린이 가까운 관계였지만, 대원수의 정치적 실책에 불만을 느낀다고 말하며 기병 전령을 통해 투항을 제안했습니다. 잔산은 뛰어난 장군이라는 평판을 가지고 있지만, 최고의 사격술을 습득하기 위해 훈련하며 대부분의 시간을 보내는 괴짜라고 알려져 있기도 합니다. 이건 아마도 그가 북동부 평원을 배회하면서 보낸 과거에 든 버릇일 것입니다.\n\n예전에 도적단이었던 저들이 요구하는 바는 모든 부하들을 무장시킬 만한 최신 장비와 300만달러에 해당하는 금괴입니다."
 fengtian.167.a:0 "능력있는 장수를 영입하기 위한 대가라면 싼 편이지."
 fengtian.167.b:0 "투항자라고? 그런 쓰레기는 필요 없다!"
 
-FNG_ma_zhanshan_equipment_tooltip:0 "§H1.00K§! units of [Root.GetAdjective] §HInfantry Equipment§! will be removed from the national stockpile."
+FNG_ma_zhanshan_equipment_tooltip:0 "[Root.GetAdjective] §H보병 장비§! §H1.00K§!개가 국가 비축분에서 빠져나갈 것입니다."
 
 fengtian.168.t:0 "마잔신이 [From.GetNameDef]로 투항하다!"
-fengtian.168.d:0 "For reasons unknown, Ma Zhanshan suddenly defected to [From.GetNameDef], bringing with him ten thousand men, and receiving in return three million dollars' worth of gold. Ma has long had a close relationship with the Grand Marshal, so this move comes as a stunning surprise, though already some of his former rivals are attributing the action to his early life as a bandit."
+fengtian.168.d:0 "알 수 없는 이유로 마잔산이 갑자기 삼백만 달러 상당의 금을 받는 대가로 [From.GetNameDef]측에 일만명의 병사들을 이끌고 투항했습니다. 마잔산은 예로부터 대원수와 오랜 친분 관계를 다져왔기 때문에 이번 행보는 상당히 경악을 불러일으켰습니다. 벌써 마잔산의 이전 라이벌들은 이번 사건이 그가 과거에 도적떼였기 때문이었다고 주장하고 있습니다."
 fengtian.168.a:0 "뭐라 할 말도 없군..."
 
 fengtian.169.t:0 "마잔산이 우리를 배반하다!"
-fengtian.169.d:0 "General Ma Zhanshan, who only recently defected to our ranks after accepting an enormous bribe, has double-crossed us and returned to fight for [FNG.GetNameDef]; taking the weapons and gold he gave us with him!"
+fengtian.169.d:0 "최근 엄청난 뇌물을 받은 대가로 적에게 투항했던 마잔산 장군이 대가로 받았던 금과 무기를 그대로 가지고 [FNG.GetNameDef]와 함께 싸우기 위해 돌아갔습니다!"
 fengtian.169.a:0 "도적떼를 절대로 믿지 마라!"
 
 fengtian.170.t:0 "마잔산이 반역자가 되다!"
-fengtian.170.d:0 "General Ma Zhanshan, who only recently defected to our ranks after accepting an enormous bribe, has double-crossed us and attempted to return to fight for [FNG.GetNameDef]; taking the weapons and gold he gave us with him!\n\nFortunately, before they could escape, Ma and his men were cut off and eliminated. General Ma perished in the fighting."
+fengtian.170.d:0 "최근 엄청난 뇌물을 받은 대가로 적에게 투항했던 마잔산 장군이 대가로 받았던 금과 무기를 그대로 가지고 [FNG.GetNameDef]와 함께 싸우기 위해 돌아가려 시도했습니다!\n\n안타깝게도 탈출에 성공하기 직전 마잔산과 병사들의 행보가 발각되었고 즉각 진압되었습니다. 마잔산은 전투 도중에 전사했습니다."
 fengtian.170.a:0 "도적떼를 절대로 믿지 마라!"
 
 fengtian.171.t:0 "마잔산이 영웅이 되다!"
@@ -1508,17 +1508,17 @@ fengtian.176.a:0 "누구 믿을 만한 사람이 없나?"
 
 fengtian.177.t:0 "The Li Shaogeng Development Scandal"
 fengtian.177.d:0 "Despite the immeasurable faith put in Li Shaogeng by awarding him and his party with the right to direct Fengtian's financial and monetary development in accordance with Wang Yongjiang's original policies, his efforts seem to have fallen short. Evidence has come to the Grand Marshal's attention suggesting that vast sums of development money were funnelled into desperate measures to compete with Mantetsu across the country, a vast majority in the form of bribes. On top of this, Li has abused his position to ensure favourable rights for construction efforts lead by his allies in government. No doubt other members of his party are complicit, and while some measure of corruption is of little surprise to the public, a scandal on this scale will upset even the highest ranks of government."
-fengtian.177.a:0 "Who can be trusted anymore?"
+fengtian.177.a:0 "여기 믿을 만한 자는 없는 건가?"
 
 fengtian.178.t:0 "The Sun Qichang Development Scandal"
 fengtian.178.d:0 "Despite the immeasurable faith put in Sun Qichang by awarding him and his party with the right to direct Fengtian's financial and monetary development in accordance with Wang Yongjiang's original policies, his efforts seem to have fallen short. Evidence has come to the Grand Marshal's attention suggesting that vast sums of development money were funnelled into arms purchases to equip provincial divisions and bodyguards, as well as into the pockets of prominent generals. No doubt other members of his party are complicit, and while some measure of corruption is of little surprise to the public, a scandal on this scale will upset even the highest ranks of government."
-fengtian.178.a:0 "Who can be trusted anymore?"
+fengtian.178.a:0 "여기 믿을 만한 자는 없는 건가?"
 
 fengtian.179.t:0 "The Ruan Zhenduo Development Scandal"
 fengtian.179.d:0 "Despite the immeasurable faith put in Ruan Zhenduo by awarding him and his party with the right to direct Fengtian's financial and monetary development in accordance with Wang Yongjiang's original policies, his efforts seem to have fallen short. Evidence has come to the Grand Marshal's attention suggesting that vast sums of development money were funnelled into Mantetsu sponsored schools and hospitals, each of which used the sudden boost in funding to further its efforts in promoting Sino-Japanese friendship. No doubt other members of his party are complicit, and while some measure of corruption is of little surprise to the public, a scandal on this scale will upset even the highest ranks of government."
-fengtian.179.a:0 "Who can be trusted anymore?"
+fengtian.179.a:0 "여기 믿을 만한 자는 없는 건가?"
 
-fengtian.180.t:0 "Tang Yulin Rides a Tiger!"
+fengtian.180.t:0 "탕위린이 호랑이 등에 올라타다!"
 fengtian.180.d:0 "Minister Tang Yulin has been spotted audaciously seated atop a ravenous tiger somewhere in Jehol Province! Or has he?\n\nAn image depicting Tang has circulated widely, appearing in newspapers across the Northeast, though its origin is unclear. Some claim that the image is doctored, while others believe the tiger is only stuffed, but the aspect garnering the most attention is the context. Grand Marshal Zhang Zuolin is often referred to as 'The Mukden Tiger', and so the fact that Tang is shown riding one paints a very questionable picture.\n\nOn his part, Tang Yulin claims that the image is the creation of a [QIE.GetAdjective] saboteur, but his extravegant parties in Chaoyang suggests that the image, if not the tiger, may well be genuine."
 fengtian.180.a:0 "This is an outrage!"
 fengtian.180.b:0 "Surely it's fake..."
@@ -1548,9 +1548,9 @@ fengtian.191.d.long:0 "In spite of all the aid we have provided over the years t
 fengtian.191.a:0 "Japan honours its commitments."
 fengtian.191.b:0 "Zhang is on his own."
 
-fengtian.192.t:0 "Japan Joins the War!"
+fengtian.192.t:0 "일본에 전쟁에 참전하다!"
 fengtian.192.d:0 "Honouring its general commitment to our defence, Japan has joined the war."
-fengtian.192.a:0 "Wansui!"
+fengtian.192.a:0 "완쓰이!"
 
 fengtian.193.t.jinhan:0 "Reclaiming the Jinhan Railway"
 fengtian.193.t.jinpu:0 "Reclaiming the Jinpu Railway"
