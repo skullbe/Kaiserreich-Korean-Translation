@@ -1,14 +1,17 @@
 ﻿l_english:
 
 ### Popularity ###
-ruling_party_popularity_change:0 "[GetRulingIdeologyFullName]의 인기도 변화: [?ideology_change_var|+2%]\n"
+ruling_party_popularity_change:0 "[This.GetRulingIdeologyFullName]의 인기도 변화: [?ideology_change_var|+2%]\n"
 
 ### Syndie Soc Dem Notice ###
 SYNDIE_SOC_DEM_NOTICE:0 "(생디칼리스트 지지)"
 
+### Decisions ###
+war_propaganda_against_warmonger_desc:0 "The nation calls for every man, woman and child to contribute to the fight against [From.GetNameDef]!"
+
 ### Opening Event ###
-kr.political.1.t:0 "카이저라이히 Beta 0.11.1 - 집으로 가는 머나먼 길"
-kr.political.1.d:0 "카이저라이히 개발진이 카이저라이히 베타버전 0.11.1를 하츠오브아이언4에 선사합니다!\n\n저희 개발진은 여러분에게 새로운 버전을 제공해드리기 위해 세계 각지에서 열심히 개발해왔으며, 여러분이 플레이하시는 것이 영광스러울뿐입니다.\n\n안내사항:\n본 모드는 플레이어가 평화회담에서 최대한 모든 지역을 합병하는 것을 전제로 하고 있으니 꼭 이행해주시길 바랍니다\n'결정' 창의 상단부에 있는 아이콘을 토글하여 뉴스 이벤트의 빈도를 변경할 수 있습니다\n지명표기방식은 기존의 우측상단에 있는 업적버튼 자리에 있는 아이콘을 누르셔서 변경하실 수 있습니다\n이 모드는 아직 베타버전이며, 따라서 많은 버그와 충돌 그리고 골치 아픈 문제가 생길 수 있습니다\n만약 버그를 발견하셨다면, 깃허브 이슈트래커에 제보해주셔서 저희가 신속히 수정할 수 있게 도움을 주실 수 있습니다\n\n저희가 열심히 개발한만큼 재밌게 즐기시길 바랍니다!"
+kr.political.1.t:0 "Kaiserreich Beta 0.12 - 'Stay at Home'"
+kr.political.1.d:0 "The Kaiserreich Team proudly present Kaiserreich beta version 0.12 - 'Stay at Home' for Hearts of Iron 4.\n\nOur team has been working hard from every corner of the world to bring this new version to you and we couldn't be more honoured that you are choosing to play it.\n\nPlease note the following:\nThe mod is designed with the assumption that the player will always annex all possible states in peace treaties, so make sure to do that\nYou can change the frequency of news events by toggling the icon at the top of the decisions tab\nYou can select what naming system states and victory points use by toggling the icon replacing the achievements menu in the top right\nRemember that this mod is still in Beta, so expect bugs, crashes and various headaches\nIf you encounter any of these, reporting them on our GitHub issue tracker is of great help and will get them fixed sooner\n\nWe hope you will enjoy playing Kaiserreich as much as we did making it!"
 kr.political.1.a:0 "물론이죠!"
 
 ### Returning Cores ###
@@ -31,10 +34,6 @@ KR_will_not_return:0 "우리는 어떤 영토도 저들에게 반환하지 §R�
 kr.political.76.t:0 "[From.GetNameDefCap](이)가 [Root.GetAdjective] 영토를 반환하다"
 kr.political.76.d:0 "우리의 동맹인 [From.GetNameDefCap](이)가 우리가 과거에 소유하던 영토 중 일부를 반환해주었습니다!"
 kr.political.76.a:0 "좋았어!"
-kr.political.200.t:0 "AI 부대 움직임 확인"
-kr.political.200.d:0 "이걸 보고 계시다면 문제가 있는 겁니다. tag로 국가변경 그만 하세요."
-kr.political.208.t:0 "AI 결정 비용 확인"
-kr.political.208.d:0 "이걸 보고 계시다면 문제가 있는 겁니다. tag로 국가변경 그만 하세요."
 
 KR_different_ideology:0 "다른 이념"
 KR_similar_ideology:0 "비슷한 이념"
@@ -45,23 +44,26 @@ head_of_gov_available:0 "§R정부수반은 직접 고용하거나 해고할 수
 minister_available:0 "§R장관진은 직접 고용하거나 해고할 수 없습니다.§! 이벤트나 국가중점, 혹은 결정을 통해서 정해집니다.\n\n이 목록에는 국가수반으로 배정될 수 있는 모든 이들을 보여주기 때문에, 현재 정부수반과 관계가 좋지 않은 인물, 다른 국가에 있는 인물, 혹은 사망한 인물이 있을 수도 있습니다."
 military_staff_available: "이 군사 참모는 살아있으며, 정부에 헌신할 준비가 되어있습니다."
 KR_is_socialist:0 "전체주의, 생디칼리슴 ,급진사회주의 혹은 생디칼리스트와 제휴한 사회민주주의 정부임"
+KR_is_socialist_NOT:0 "Does §Rnot§! have a Totalist, Syndicalist, Radical Socialist or Syndicalist aligned Social-Democratic government"
 KR_is_not_socialist:0 "전체주의, 생디칼리슴, 급진사회주의 혹은 생디칼리스트와 제휴한 사회민주주의 정부를 가지고 §R있지 않음§!"
 KR_is_elected:0 "민주주의와 선출된 정부를 가지고 있음"
+KR_is_elected_NOT:0 "Does §Rnot§! have a democratic and elected government"
 KR_is_not_elected:0 "민주주의와 선출된 정부를 가지고 §R있지 않음§!"
 KR_is_democratic:0 "민주주의 정부를 가지고 있음"
+KR_is_democratic_NOT:0 "Does §Rnot§! have a democratic government"
 KR_is_not_democratic:0 "민주주의 정부를 §R있지 않음§!"
-KR_is_authoritarian:0 "비 사회주의 권위주의 정부를 가지고 있음"
-KR_is_not_authoritarian:0 "비 사회주의 권위주의 정부를 가지고 §R있지 않음§!"
-KR_is_dictatorship:0 "비 사회주의 독재 정부를 가지고 있음"
-KR_is_not_dictatorship:0 "비 사회주의 독재 정부를 가지고 §R있지 않음§!"
+KR_is_authoritarian:0 "비-사회주의 권위주의 정부를 가지고 있음"
+KR_is_authoritarian_NOT:0 "Does §Rnot§! have a non-socialist authoritarian government"
+KR_is_not_authoritarian:0 "비-사회주의 권위주의 정부를 가지고 §R있지 않음§!"
+KR_is_dictatorship:0 "비-사회주의 독재 정부를 가지고 있음"
+KR_is_dictatorship_NOT:0 "Does §Rnot§! have a non-socialist dictatorship government"
+KR_is_not_dictatorship:0 "비-사회주의 독재 정부를 가지고 §R있지 않음§!"
 has_scripted_peace:0 "우리는 전쟁 중입니다"
 has_scripted_peace_desc:0 "국가가 전쟁 중이며, 승리를 목표로 하고 있습니다 - 기회가 있지만 우리의 저항력은 생각보다 조금 더 취약합니다. (안내: 이것은 평화 이벤트가 존재하는 전쟁을 위한 것이며, 항복율 한계가 거의 도달했을 때 발동됩니다. 이점을 알아두세요.)"
 
 ### Tooltips ###
 KR_improving_stability:0 "이미 안정도를 향상시키고 있습니다"
 KR_improving_popularity:0 "이미 정당 인기도를 향상시키고 있습니다"
-has_vg_stability:0 "§Y매우 좋은 안정도§!를 가지고 있음"
-KR_improving_popularity_tooltip:0 "우리는 우리의 정당 인기도를 §Y5%§! 만큼 향상킬 것입니다\n"
 KR_party_pop_less_than_50:0 "정당 인기도가 §Y50%§! 보다 낮음"
 KR_party_pop_more_than_75:0 "정당 인기도가 §Y75%§! 보다 많음"
 DIPLOMACY_DOCKING_RIGHTS:0 "정박권"
@@ -120,9 +122,9 @@ paternal_autocrat_desc:0 "세습전제주의자"
 national_populist_desc:0 "국민대중주의자"
 
 ### Subtype Descriptions ###
-totalist_subtype_desc:0 "전체주의는 단어 그대로의 이념, 또는 비슷한 특성을 가진 다양한 좌파 사상을 동시에 지칭하기도 합니다. 이념으로서 전체주의는 세계 속 사회주의의 새 지향점을 추구합니다. 강해진 노동자와 계급 철폐의 유토피아를 지향하면서도 마르스크주의적 이상을 약화시키거나 버리지 않으며, 이것을 기본 이념으로 삼는 것이 사회주의 국가의 역할임을 강조합니다. 전체주의자들은 정부의 목적이 사회주의 국가 건설이라 믿기에 힘을 확장하고 집권화하려 합니다. 이념적 토대를 다지는데 필수적이라 여기기 때문입니다. 간혹 국민주의자와 군국주의자들의 언어와 정책을 모방하기도 합니다. 이들의 권위주의적 성향 탓에, 다른 권위주의자나 전체주의적 사회주의자들은 뜻 밖에도 “전체주의자"라는 이름을 얻게 되었습니다."
-syndicalist_subtype_desc:0 "아나코-생디칼리슴은 마르크스주의적 혁명 이념입니다. 집산주의적인 노동 조합으로 구성된 민주적인 연방 국가를 기반으로, 사회주의 경제의 국가를 지향합니다. 노동 조합은 모든 노동자들이 공평하게 소유하게 하며 경제, 정치적 통제는 일터를 벗어나서도 연대하도록 합니다. 중앙 정부로부터 큰 자치권을 부여받길 원합니다. 규모가 큰 노동 조합의 일원 선출은, 강한 힘을 갖추고 중앙 정부의 역할을 하는, 지역적이고 국제적인 조합 회의에서 이루어집니다."
-radical_socialist_subtype_desc:0 "급진사회주의는 노동조합주의로도 연대하지 못한 사회주의자, 공산주의자와 무정부주의자들이 한데 모인 이념입니다. 이 이념을 따르는 나라들은 사회주의적 경제를 가동하고 있습니다. 민주주의적 형태를 취한 정부를 선호하며 최종적인 목표는 노동 계급의 낙원을 만드는 것입니다. 세부적인 협의는 각 운동권에 따라 다릅니다."
+totalist_subtype_desc:0 "The term "Totalism" comes from the Totalist Charter, an agreement of cooperation between Oswald Mosley, Georges Valois and Benito Mussolini which outlined the main tenets of the ideology. Totalists abandon the federative element of Syndicalist state organization, stating that until world revolution has been achieved, revolutionary states need to be centralized and militarized to fight the remaining capitalist states. The extent to which society is transformed by Totalist regimes is significantly greater as well, often veering to totalitarian control of society and the construction of personality cults. "Totalism" is also often used to describe left-wing states which are not affiliated with Charter Totalism, but nevertheless display traits such as militarization, centralization, and totalitarian transformation of society."
+syndicalist_subtype_desc:0 "Syndicalism is the leading left-wing revolutionary ideology whose rise to worldwide prominence began with the French revolution of 1919. Though Syndicalism is divided between various currents, some of them influenced by other ideologies such as Marxism and Anarchism, orthodox Syndicalism is based upon the works of the leaders of Confédération Générale du Travail (CGT), codified in the Charter of Amiens of 1906, and considers Mikhail Bakunin and Pierre-Joseph Proudhon to be its forerunners. Syndicalism is defined by the concepts of revolutionary spontaneity and direct action - the belief that the workers themselves, organized in labour unions, must combat capitalism, instead of relying upon an external agent such as a political party. The transformation of a capitalist society to a Syndicalist one must occur via a General Strike - a nationwide rejection of capitalism and a transfer of all means of production to labour unions. Syndicalist states are decentralized and federal, all industries are organized into syndicates, labour councils elected from these trade unions manage local governance, and central government is vested in a national congress of trade union representatives. The extent to which these tenets are implemented varies from country to country, however."
+radical_socialist_subtype_desc:0 "급진사회주의는 노동조합주의로도 연대하지 못한 사회주의자, 공산주의자와 무정부주의자들이 한데 모인 이념입니다. 이 이념을 따르는 나라들은 사회주의적 경제를 가동하고 있습니다. 선출된 형태를 취한 정부를 선호하며 최종적인 목표는 노동 계급의 낙원을 만드는 것입니다. 세부적인 협의는 각 운동권에 따라 다릅니다."
 social_democrat_subtype_desc:0 "사회민주주의는 자본주의를 인간적으로 개혁하는데 목표를 두는 이념입니다. 대안적인 사회주의적 경제 체제는 창안하기 보다, 자본가들의 생산이 계속되는 와중에도 사회 복지의 윤리적 이상으로 그것을 가능케 할 수 있다 믿습니다. 금권주의적 정부와 강한 규제가 작용하는 시장 경제를 선호합니다. 보다 급진적인 분파도 존재하곤 합니다."
 social_liberal_subtype_desc:0 "사회자유주의는 주류 시장자유주의에서 갈라져 나왔습니다. 가장 큰 차이점은 시민의 자유보다 기본적인 인권을 중시한다는 것입니다. 사회자유주의자들은 사회와 경제의 진보를 공언하며 사회 구성원들이 현재의 상황와는 무관하게 삶 속에서 완벽한 자유를 누릴 수 있도록 만들고자 합니다."
 market_liberal_subtype_desc:0 "시장자유주의자들은 자유주의 이념의 주류를 자처합니다. 시장자유주의의 기본 골조는 규제 없는 자유 시장과 민주주의와 금권주의로 대표되는 정치 체제입니다. 더 자유로운 시장은 더 자유로운 사람을 있게 한다 믿습니다. 사유 재산에 대한 정치적, 경제적 권리를 지키는 것에 온 힘을 다합니다."
