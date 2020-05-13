@@ -2,6 +2,9 @@
 
 dei_focus:0 "네덜란드령 동인도제도 중점계통도"
 
+### Leaders ###
+POLITICS_DE_JONGE_DESC:0 "A moderate conservative Jonkheer, De Jonge first rose to national prominence as chief legal minister during in 1910, and as interim minister of war during the Weltkrieg, his political standing was cemented. After a successful stint with the Batavian Oil Company, which was responsible for petroleum exraction and refinement in the East Indies, De Jonge was appointed governor-general of the East Indian colony. Something of a strongman, De Jonge has focused great effort on suppression of the emerging nationalist movement."
+
 ### Events ###
 dei.1.t:0 "1936년 동인도 제도"
 dei.1.d:0 "1925년 생디칼리슴 폭동이 없었다면 네덜란드 제국이 가진 '왕관의 보석'은 안정의 횃불이 되었을 것이고, 네덜란드가 새로운 시장에 상품 (설탕, 커피, 석유)를 판매하기 위해 미텔오이로파와 가까워진 덕에 이익을 보았을 것입니다. 현재 제대로 다시 강화된 독일의 경쟁력에도 불구하고, 이러한 경제 성장은 그럭저럭 이어졌으며 안정도 같이 찾아왔습니다. \n하지만 그뿐만은 아닙니다. 네덜란드 정부는 'de oost' 없이는 네덜란드가 살아남을 수 없다 믿으며 어떠한 독립에 관한 요구도 묵살했고, 사람들의 독립 열망은 점점 거세지고 있습니다. 식민지 정부의 많은 사람들은 경제가 침체된다면 1925년이 반복되거나 더 나빠질 것을 우려하고 있습니다..."
@@ -179,23 +182,9 @@ dei.53.d:0 "News has arrived from the Dutch East Indies, where the governor-gene
 dei.53.a:0 "If it's for the good of our rule, it's justified!"
 
 dei.54.t:0 "The Dutch issue greater taxes"
-dei.54.d:0 "With the black monday crisis haunting the Dutch homeland, the Dutch government decided to issue additional production-obligations from us, not considering the fact that the crisis had hit our industries right here too. Unsurprisingly, while this action will help the Netherlands, it will make our work harder, as independence activists get greater steam arguing that we are only here to exploit them."
+dei.54.d:0 "With the black Monday crisis haunting the Dutch homeland, the Dutch government decided to issue additional production-obligations from us, not considering the fact that the crisis had hit our industries right here too. Unsurprisingly, while this action will help the Netherlands, it will make our work harder, as independence activists get greater steam arguing that we are only here to exploit them."
 dei.54.a:0 "This is a mistake!"
 
-dei.55.t:0 "Japan seems to plan an attack"
-dei.55.d:0 "We have gathered intelligence suggesting Japan is seeking to take over our colony in the Dutch East Indies. Our military experts warn that we might not be able to fend off such an invasion, considering the state of the Japanese and government navies and the size of the Japanese military. They suggest that we go to the kaiser and beg him for help: their interest, maintaining the status-quo, aligns with ours and a Japanese takeover would threaten their possessions too. This might be our best shot at maintaining our colonial possession."
-dei.55.a:0 "Message Berlin!"
-dei.55.b:0 "Surely this isn't necessary?"
-dei.56.t:0 "The Dutch beg for help"
-dei.56.d:0 "The Dutch discovered evidence that the Japanese are planning to invade their colony; realising that they would never be able to defend their colony with their largely overextended colonial army and limited naval assets compared to Japan. They point out however, that a Japanese takeover of their colony would severely upset our own defensive situation, and there is no doubt at all that the Japanese seek to evict us from the region as well!"
-dei.56.a:0 "We shall help you!"
-dei.56.b:0 "Clog-wearers shouldn't have colonies anyhow..."
-dei.57.t:0 "Germany helps out"
-dei.57.d:0 "The Germans have agreed to help protect the Dutch East Indies from our joint Japanese menace that's seeking to take our colony away."
-dei.57.a:0 "A toast to our friends!"
-dei.58.t:0 "Germany refuses to protect us!"
-dei.58.d:0 "The Germans let us know that it would not be in their best interest to give their protection to our colonial possessions in the indies. It seems we stand alone!"
-dei.58.a:0 "We can defend the Indies ourselves, right?"
 dei.59.t:0 "Anarchy in the Dutch West Indies"
 dei.59.d:0 "A disturbing turn of events has happened: the native population in Insulindia, the basis of the Dutch exiles has ousted their former colonial master. With its head cut off the snake once more, the Dutch empire is no more: upon the news reaching the west indies, anarchy has struck these colonies. Now we have no choice but to occupy them."
 dei.59.a:0 "It is our humanitarian duty"
@@ -587,9 +576,6 @@ DEI_eradicate_inlander_cultures:0 "동인도 문화 근절"
 DEI_eradicate_inlander_cultures_desc:0 "Especially in the east of the colonies, many small cultures exist. We should eradicate all traces of these, as they can't compete with Dutch culture on even a basic level."
 DEI_dissolve_the_volksraad:0 "국민회의 해산"
 DEI_dissolve_the_volksraad_desc:0 "The volksraad is a group of poor old sods who think they have the right to criticize the governor-general on everything he does. It is time we abolish this abomination once and for all and center all power in the governor-general."
-
-DEI_army_of_all_east_indians_tooltip_loc:0 "Modify §YColonial Government§! by \nRecruitable Population Factor: §G10%§!\nDaily Political Power Gain: §R-0.10§!"
-DEI_small_but_trained_tooltip_loc:0 "Modify §YColonial Government§! by \nRecruitable Population Factor: §G20%§!\nTraining time: §G-10.00%§!"
 
 #Netherlands in Exile Tree
 HOLEX_exiles_arrive:0 "망명정부의 도착!"
