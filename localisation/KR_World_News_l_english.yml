@@ -16,9 +16,9 @@ worldnews.2.germany:0 "프랑스 코뮌이 즉각적으로 오트사부아를 �
 worldnews.2.a:0 "생디칼리슴이 퍼졌군."
 worldnews.2.b:0 "스위스의 중립은 지켜졌다!"
 
-worldnews.3.t:0 "The Second Russian Civil War"
-worldnews.3.d:0 "Just twenty years ago, in the last years of the Weltkrieg, the Russian Empire collapsed, ripped apart by nationalist movements and divided between the Whites and the Reds. After a German intervention, the republican government defeated the Bolsheviks, but it appears that the Russian revolutionary spirit was not extinguished.\n\nAfter ineffective land reform by the Kerensky government and austerity measures to pay off the Brest-Litovsk reparations, as well as a crisis in the government after the President's assassination, the cities in the western part of the nation have been engulfed with the Red tide once more. Will the Russian Socialist Republic prevail, or will the loyalists of the White government defeat the dissenters a second time?"
-worldnews.3.a:0 "When will they learn?"
+worldnews.3.t:0 "제2차 러시아 내전"
+worldnews.3.d:0 "대전쟁의 마지막 해였던 불과 20년 전, 러시아 제국은 붕괴하여 민족주의 운동에 의해 분열되고 백군과 적군에 의해 분단되었습니다. 독일의 개입 끝에 공화정 정부가 볼셰비키를 격퇴했지만 러시아 혁명정신의 불씨는 아직 꺼지지 않은 것으로 보입니다.\n\n케렌스키 정부의 비효율적인 토지 개혁과 브레스트-리토프스크 배상금을 갚기 위한 긴축 조치, 그리고 대통령 암살 후의 정부 위기 이후, 서부 지역의 도시들은 다시 한번 붉은 물결에 휩싸였습니다. 과연 러시아 사회주의 공화국이 승리할 것일까요, 아니면 백군 정부가 반란군들을 다시 한번 무찌를 것일까요?"
+worldnews.3.a:0 "대체 러시아인들은 언제쯤 깨닫게 될까?"
 
 worldnews.4.t:0 "스페인 내전"
 worldnews.4.d:0 "스페인은 나폴레옹에게 패배한 이래 쭉 폭력과 분열 그리고 혼란에 시달려 왔지만, 최근 이러한 긴장감이 절정에 이르렀습니다. 마드리드 정부의 지지자들, 하비에르의 지지자들, 그리고 전국노동연맹으로 알려진 아나코-생디칼리스트 연합 사이의 삼자 내전으로 스페인 왕국이 찢어졌습니다. 이미 한 세력을 지원하기 위해 전세계에서 스페인으로 오는 지원병 및 장비에 대한 수많은 보고가 있습니다. \n\n스페인의 평야와 산맥이 좌파와 우파 사이의 훨씬 더 넓은 갈등의 첫 번째 전장이 되리라 말할 수 있겠습니다..."
@@ -1070,16 +1070,16 @@ worldnews.245.d.exile:0 "After the regime change in the former Empire of Japan, 
 worldnews.245.d.abolish:0 "After the regime change in the former Empire of Japan, the fate of the Yamato Imperial Family became uncertain - until yesterday. With the conclusion of the first Congress of the Japanese Union, it has been decided that the Imperial Family should have their titles and status abolished - as of today, the Yamato family holds citizen status, being no different than their former subjects. This move has sparked a strike in the centre of Tokyo, as well as smaller protests in Osaka and Nagasaki, but the situation is expected to normalise in a month's time."
 worldnews.245.a:0 "한 시대가 끝나고, 다른 시대가 열리는구나."
 
-worldnews.246.t:0 "Busan Treaty"
-worldnews.246.d:0 "A treaty was signed in Busan today, re-establishing the Joseon Kingdom after it was annexed into Japan in 1910. Hundreds of thousands of Koreans flock to the streets to celebrate their independence. It is surely a historic moment for colonialism."
-worldnews.246.a:0 "Splendid."
+worldnews.246.t:0 "부산 조약"
+worldnews.246.d:0 "오늘 부산에서 조약이 체결되어 1910년 일본에 병합되었던 조선 왕국이 다시 수립되었습니다. 수십만 명의 한국인들이 그들의 독립을 축하하기 위해 거리로 몰려들었습니다. 이것은 확실히 식민주의 시대의 역사적인 순간입니다."
+worldnews.246.a:0 "인상적이군."
 
-worldnews.247.t:0 "Republican Victory in Brazil"
+worldnews.247.t:0 "브라질에서의 공화주의자 승리"
 worldnews.247.d:0 "While certainly not an unexpected result, confirmation has reached us that the Republican Party will stay in power in Brazil, as it has since the start of the New Republic in 1927. The new president of the republic, Getulio Vargas, will be sworn in in January, but has already promised to deal with a firm hand against the economical issues plaguing the country, and also promises to do better for the common man of Brazil in his victory speech. However, the Republican victory will not mean such an instant end to Brazil's woes, and time will tell if this continued hegemony will have positive consequences"
 worldnews.247.a:0 "As expected"
 worldnews.247.b:0 "This bickering of capitalists does not concern us"
 
-worldnews.248.t:0 "Liberal Victory in Brazil"
+worldnews.248.t:0 "브라질에서의 연방주의자 승리"
 worldnews.248.d:0 "An alliance of the old guard, opposition members and many types of liberals, the Liberal Party was seen as the second horse in the presidential race, but now it stands at the top with the dust settled, having edged the Republicans all so narrowly. With a party programme based on the idealistic principles that were failed to be upheld by the first republic, and a will to diversify and modernize the economy and bring growth back to the nation, the PL leadership will begin in January, as preparations for the peaceful transfer of power occur. Time will tell if such an idealist and somewhat unstable goverment can keep the country on a good path in these troubling times."
 worldnews.248.a:0 "An upset for sure"
 worldnews.248.b:0 "This bickering of capitalists does not concern us"
