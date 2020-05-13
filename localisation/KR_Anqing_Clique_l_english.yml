@@ -20,9 +20,17 @@ ANQ_social_conservative_party_long:0 "강남협회"
 ANQ_authoritarian_democrat_party:0 "안경군벌"
 ANQ_authoritarian_democrat_party_long:0 "안경군벌"
 ANQ_paternal_autocrat_party:0 "안경군벌"
-ANQ_paternal_autocrat_party_long:0 "안 군벌"
+ANQ_paternal_autocrat_party_long:0 "안경 군벌"
 ANQ_national_populist_party:0 "일관도"
 ANQ_national_populist_party_long:0 "일관도"
+
+## Anqing Clique ##
+POLITICS_ANQ_CHEN_TIAOYUAN_DESC:0 "1916년 서른 살의 천댜오위안은 장쑤 지역 헌병대 지휘관이었습니다. 이런 보잘것없는 경력은 단명한 위안스카이 정권의 적극적인 방해로 이루어졌습니다. 하지만 위안스카이는 군사적 모험을 감행했고 천댜오위안과 같은 여러 젋은 장교들이 들어가고자 노리는 권력 공백을 남겼습니다. 이런 초기 시대 천댜오위안은 장쭝창의 부하로 복무했는데, 둘 사이의 우정은 장쭝창의 규율 부족이 명백해지자 갈라졌습니다. 비슷한 방식으로 천댜오위안의 충성심은 봉천군벌에서 쑨촨팡으로 이동해갔는데, 쑨촨팡은 천댜오위안에게 안후이군 지휘권을 맡기는 방식으로 나름의 감사를 표시했습니다.\n천댜오위안 지배 하의 안후이는 알고스트아지엔 회사로부터 나오는 독일 투자를 거부하는 정책을 추진했습니다. 장쑤나 푸젠의 동지들과는 달리 안후이 지역은 가난에 허덕이면서 산업 혁신을 따라가는데 실패했습니다. 천댜오위안은 쑨촨팡의 친독일 정책에 적극적인 반감을 드러냈기 때문에 존경과 명예를 얻었습니다. 최근 독일과 쑨촨팡의 이해관계가 밀접하게 연결되면서 천댜오위안은 팔성연합과 쑨촨팡에 대한 신뢰를 완전히 잃어버렸습니다.\n천댜오위안의 군대는 독일에 대한 의존으로부터 벗어나 팔성연합을 개혁하고 내부 혁신과 반제국주의 군대와 연합을 맺기 위해 독립해 나갔습니다."
+
+POLITICS_ANQ_CHEN_TIAOYUAN_ARMY_DESC:0 "§Y장군 약력\n§Y출생:§L\n1886년 11월 12일\n청나라, 즈리, 안신\n§Y군 경력:§L\n1916년 서른 살의 천댜오위안은 장쑤 지역 헌병대 지휘관이었습니다. 이런 보잘것없는 경력은 단명한 위안스카이 정권의 적극적인 방해로 이루어졌습니다. 하지만 위안스카이는 군사적 모험을 감행했고 천댜오위안과 같은 여러 젋은 장교들이 들어가고자 노리는 권력 공백을 남겼습니다. 이런 초기 시대 천댜오위안은 장쭝창의 부하로 복무했는데, 둘 사이의 우정은 장쭝창의 규율 부족이 명백해지자 갈라졌습니다. 비슷한 방식으로 천댜오위안의 충성심은 봉천군벌에서 쑨촨팡으로 이동해갔는데, 쑨촨팡은 천댜오위안에게 안후이군 지휘권을 맡기는 방식으로 나름의 감사를 표시했습니다.\n천댜오위안 지배 하의 안후이는 알고스트아지엔 회사로부터 나오는 독일 투자를 거부하는 정책을 추진했습니다. 장쑤나 푸젠의 동지들과는 달리 안후이 지역은 가난에 허덕이면서 산업 혁신을 따라가는데 실패했습니다. 천댜오위안은 쑨촨팡의 친독일 정책에 적극적인 반감을 드러냈기 때문에 존경과 명예를 얻었습니다. 최근 독일과 쑨촨팡의 이해관계가 밀접하게 연결되면서 천댜오위안은 팔성연합과 쑨촨팡에 대한 신뢰를 완전히 잃어버렸습니다.\n천댜오위안의 군대는 독일에 대한 의존으로부터 벗어나 팔성연합을 개혁하고 내부 혁신과 반제국주의 군대와 연합을 맺기 위해 독립해 나갔습니다."
+POLITICS_ANQ_ZHANG_ZHONGLI_ARMY_DESC:0 "§Y장군 약력\n§Y출생:§L\n1883년\n청나라, 장쑤, 샤오셴\n§Y군 경력:§L\n장중리는 북양 공화국 시절에 군에 입대했고, 한때 쑨촨팡의 군대에서 여단장과 사단장으로 복무했습니다. 북절 이후 그는 금융업에 뛰어들어 장쑤 지역 민간 정부 관료가 되었고 팔성연합에서 소금세 경찰 지휘관이 되어 꽤나 상당히 성과를 거두었습니다. 누군가 장중리가 국민당 편에 선다고 비난했기 때문에 쑨촨팡은 그를 장쑤에서 안후이로 재배치했고, 이로 인해 장중리는 천댜오위안과 만나 안경 군벌의 주요 인사가 되었습니다."
+POLITICS_ANQ_PENG_XUEFENG_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\nSeptember 9th, 1907\nQili, Pingren, Qing Empire\n§YMilitary Career:§L\nYang Jingyu was born into a poor peasant family. His father died while he was a child so he grew up with his mother. He enrolled in the Henan Textile College in 1923. However, due to the chaos caused by warlordism, he was unable to finish the school. Although he failed to contact with socialism, the tragic fates of numerous peasants families which similar to his family under the oppression of imperialists and warlords turn him to a peasant activist and a patriot. After the outbreak of the Forth Zhili–Fengtian War, he was disappointed with Fengtian's collaboration with Japanese and extremely discontented towards Sun Chuanfang's collusion with foreign power. He led a failed peasant insurrection in 1927 and list as wanted by Sun. He escaped from the search and Chen Tiaoyuan who also detest with foreign intervention provide shelter for him. He became an excellent officer in Chen's army."
+POLITICS_ANQ_LIU_HEDING_ARMY_DESC:0 "§YGeneral Description\n§YBorn:§L\nDecember 13th, 1894\nHefei, Anhui, Qing Empire\n§YMilitary Career:§L\nLiu Heding is a descendant of Huai Army and also the chief of staff of Chen Tiaoyuan's Army. He was the classmate of Bai Chongxi in Baoding Military Academy. After graduating from the Academy, he was trained in Ni Sichong's Army and then sent to Hunan and Sichuan. In 1925, he became an officer in the remaining Anhui Clique Army which was commanded by Ma Xiangbin and participated in the war against Zhang Zongchang and the suppression action against Daohui in Luan. Several years passed since the end of the Northern Expedition and by orders of Sun Chuanfang, he was once sent to support the siege to Jiangfu Base Area which was lead by Zhou Yinren. But his army suffered great casualties because of bad weather. Considering the failure of siege, Sun Chuanfang demoted him, making him an officer in Chen Tiaoyuan's army."
 
 ## Multi-use scripted localization ##
 anq_empty_loc:0 ""
@@ -47,9 +55,9 @@ anq_qing_name:0 "청"
 anq_ally_name:0 "동맹"
 
 ## Credibility System ##
-ANQ_credibility_dynamic_modifier:0 "£pol_idea 신뢰받는 §M천탸오위안§!"
-ANQ_credibility_idea:0 "£anq_credibility 신뢰받는 §M천탸오위안§!"
-ANQ_credibility_idea_desc:0 "오래된 팔성연합에 금이 가고 반타협주의자들의 목소리가 높아져만 갈때, 천탸오위안은 중국 내 운동의 선봉장이 되는 데 성공했습니다. 여기까지 올라오는 데 많은 사람들의 도움이 있었습니다. 하지만 그들의 이익을 침해한다면 손쉽게 그를 무너뜨릴 것입니다. 그럼에도 불구하고, 천탸오위안은 그들의 바람을 들어준다면 특별한 자원 없이도 안경군벌에 중국 통일을 가져올 수 있음을 잘 알고 있습니다.\n§W--------------\n[ANQ_credibility_political_power_gain][ANQ_credibility_organisation][ANQ_credibility_recruitable_pop][ANQ_credibility_stability]§!"
+ANQ_credibility_dynamic_modifier:0 "£pol_idea 신뢰받는 §M천댜오위안§!"
+ANQ_credibility_idea:0 "£anq_credibility 신뢰받는 §M천댜오위안§!"
+ANQ_credibility_idea_desc:0 "오래된 팔성연합에 금이 가고 반타협주의자들의 목소리가 높아져만 갈때, 천댜오위안은 중국 내 운동의 선봉장이 되는 데 성공했습니다. 여기까지 올라오는 데 많은 사람들의 도움이 있었습니다. 하지만 그들의 이익을 침해한다면 손쉽게 그를 무너뜨릴 것입니다. 그럼에도 불구하고, 천오위안은 그들의 바람을 들어준다면 특별한 자원 없이도 안경군벌에 중국 통일을 가져올 수 있음을 잘 알고 있습니다.\n§W--------------\n[ANQ_credibility_political_power_gain][ANQ_credibility_organisation][ANQ_credibility_recruitable_pop][ANQ_credibility_stability]§!"
 
 ANQ_credibility_political_power_gain_text:0 "정치력 증가: [?ANQ.credibility_factor_dynamic_modifier_pol_gain|=%+0]\n"
 ANQ_credibility_political_power_gain_text_last:0 "정치력 증가: [?ANQ.credibility_factor_dynamic_modifier_pol_gain|=%+0]"
@@ -68,27 +76,23 @@ longhai_railway:0 "롱하이 철도"
 ## Flags ##
 ANQ_peace:0 "5개 성에 평화를 가져오다"
 ANQ_chen_alone:0 "안경군벌이 독립하다"
-ANQ_is_proqing:0 "청이 연합전쟁에서 안경군벌을 지원하다"
-ANQ_is_projapan:0 "봉천정부가 연합전쟁에서 안경군벌을 지원하다"
-ANQ_hostile_japan:0 "일본과 적대 관계에 있음"
-FNG_hostile:0 "봉천정부와 적대 관계에 있음"
-ANQ_hostile_qing:0 "청과 적대 관계에 있음"
+ANQ_is_proqing:0 "안경군벌이 [QIE.GetName]을(를) 인정하다"
+ANQ_is_profengtian:0 "안경군벌이 [FNG.GetName]을(를) 인정하다"
+ANQ_friendly_japan:0 "일본과 우호 관계에 있음"
 ANQ_is_reconstructing:0 "재건 프로젝트를 이미 완료함"
 ANQ_abandons_reclamation:0 "안경군벌이 수복전쟁 참여를 포기하다."
 ANQ_commits_reclamation:0 "안경군벌이 수복전쟁에 참여하기로 결정하다."
 ANQ_reclamation_decided:0 "안경군벌이 수복전쟁에 참여 여부를 결정했다."
 ANQ_with_zhili:0 "안경군벌이 직예 공화국을 지지하다"
-ANQ_with_feds:0 "안경군벌이 타협주의자들을 지지하다"
+ANQ_with_feds:0 "안경군벌이 연성주의자들을 지지하다"
 
-ANQ_fngjap_reconstruction_plan:0 "봉천정부와 일본은 종합적인 재건 프로젝트를 실시했다"
-ANQ_fengjapan_aids_reconstruction:0 "봉천정부는 우리의 재건 노력을 지원하기로 결정했다"
-ANQ_fng_undecided_strategy:0 "봉천정부는 아직 전략을 결정하지 못했다"
+ANQ_feng_aids_reconstruction:0 "봉천정부는 우리의 재건 노력을 지원하기로 결정했다"
+ANQ_fengjapan_aids_reconstruction:0 "봉천정부와 일본은 우리의 재건 노력을 지원하기로 결정했다"
 ANQ_feng_aid_undecided:0 "봉천정부의 재건 원조는 결정되지 않았다"
 ANQ_no_reconstruction_aid:0 "봉천정부는 우리를 원조하지 않기로 하였다"
 
 ## Tooltips ##
-anq_50_army_xp_tt:0 "§Y50§! £army_experience"
-anq_50_army_xp_tt_blocked:0 "§R50§! £army_experience"
+anq_25_army_xp_tt:0 "§Y25§! £army_experience"
 
 anq_gains_national_spirit:0 "국민정신 획득"
 
@@ -201,6 +205,10 @@ ANQ_can_attack_hnngxc_proqie_tt:0 "평화시 [GXC.GetName](와)과 [HNN.GetName]
 anq_fengtian_guarantee_tt:0 "§H봉천정부§!는 우리의 독립을 보장해줄 것입니다!\n"
 anq_qing_guarantee_tt:0 "§H청§!은 우리의 독립을 보장해줄 것입니다!\n"
 
+anq_denounce_fengtian_tt:0 "§RIf we denounce them in this way, we will be abandoning Fengtian. This means Anqing standing alone in China, making it very vulnerable. It also leads to any current aid and support disappearing, possibly causing some chaos.§!\n"
+anq_abandon_conference_tolerated_tt:0 "§RIf we do not attend the conference, that will be tantamount to abandoning Fengtian. They tolerated us not supporting their war before, but this time they will not. This means Anqing standing alone in China, making it very vulnerable. It also leads to any current aid and support disappearing, possibly causing some chaos.§!\n"
+anq_join_front_profengtian_tt:0 "§RIf we join the United Front, we will be forced to abandon Fengtian's cause fully. While we will have other Chinese allies in this war, once it is over we will most likely stand alone.§!\n"
+
 #Integration and governor tooltips
 anq_integration_time_down_tt:0 "한 지역을 [ANQ.GetNameDef]의 핵심 주로 통합시키는 작업이 §G20§!일 더 빨리 완료됩니다.\n"
 anq_integration_cost_down_tt:0 "한 지역을 [ANQ.GetNameDef]의 핵심 주로 통합시키는 작업에 소모되는 £pol_power 정치력이 §G30§!만큼 줄어듭니다.\n"
@@ -262,7 +270,7 @@ ANQ_internal_decisions_desc:0 "우리의 비좁은 영토에서 무언가를 해
 ANQ_hastened_doctrine_adoption:0 "정책 적용을 서두르다"
 ANQ_hastened_doctrine_adoption_desc:0 "우리에게는 최고의 정책을 찾을 시간이 없습니다. 일의 속도를 최대한으로 빠르게 하고, 최고의 행동 방침을 정하기 위해 주변을 살피고, 우리 군의 효율성을 높이는 데 집중해야 합니다."
 
-ANQ_chens_propaganda:0 "천탸오위안을 위한 선전"
+ANQ_chens_propaganda:0 "천댜오위안을 위한 선전"
 
 # Cities
 ANQ_Xuzhou_City:0 "쑤저우 함락"
@@ -424,6 +432,8 @@ ANQ_purged_military:0 "군대 숙청"
 ANQ_purged_military_desc:0 "난징에 탄탄한 정부를 수립하기 위해 치셰위안과 쑨촨팡 아래 소속되어 있던 군 조직의 상당수를 숙청하기로 결정했습니다."
 ANQ_purged_bureaucracy:0 "관료 숙청"
 ANQ_purged_bureaucracy_desc:0 "쑨촨팡에 의해 뭉친 난징의 관료들은 계속 우리에게 저항하여 난징에 통치를 확립하기 힘들게 하고 있습니다. 그들은 이제 숙청되어야 합니다."
+ANQ_purged_both:0 "Purged Nanjing"
+ANQ_purged_both_desc:0 "In order to establish firmer control over Nanjing and to show the population we truly want to get rid of the corrupt leaders of the past, we have both §YPurged the Military§! and §YPurged the Bureacracy§! of agents who had deep ties to the late Qi Xieyuan and Sun Chuanfang."
 
 ANQ_japanese_troop_training:0 "일본인 주도의 군대 훈련"
 ANQ_japanese_troop_training_desc:0 "많은 수의 봉천 및 일본 훈련 교관이 소속된 군사 임무는 연합과의 전쟁을 더욱 빨리 치를 수 있도록 돕고 있습니다."
@@ -604,7 +614,7 @@ ANQ_flourishing_country2_desc:0 "[getanqideaflourishingcountry]"
 ANQ_flourishing_country3:0 "번창하는 우리나라"
 ANQ_flourishing_country3_desc:0 "[getanqideaflourishingcountry]"
 
-anq_idea_patrioticnation:0 "5개 성은 인민들의 애국주의적 정서에 사로잡혀 있습니다. 그들의 애국심은 천탸오위안의 정부를 더 강력하게 만들고, 재정과 군사 양면에서 지원할 것입니다."
+anq_idea_patrioticnation:0 "5개 성은 인민들의 애국주의적 정서에 사로잡혀 있습니다. 그들의 애국심은 천댜오위안의 정부를 더 강력하게 만들고, 재정과 군사 양면에서 지원할 것입니다."
 ANQ_patriotic_nation:0 "애국심"
 ANQ_patriotic_nation_desc:0 "[getanqideapatrioticnation]"
 ANQ_patriotic_nation1:0 "애국심"
@@ -614,7 +624,7 @@ ANQ_patriotic_nation2_desc:0 "[getanqideapatrioticnation]"
 ANQ_patriotic_nation3:0 "애국심"
 ANQ_patriotic_nation3_desc:0 "[getanqideapatrioticnation]"
 
-anq_idea_managedmovement:0 "반타협주의 운동은 천탸오위안 정권의 부상에 중요한 역할을 했지만, 급진파들은 오히려 그 권위를 위협하고 있습니다. 적극적으로 우리가 개입한다면, 운동이 관리하기 원만해질 것이고 문제 세력들은 제거될 것입니다. 천탸오위안 정권의 정치적 목표를 위해 행동해야만 합니다."
+anq_idea_managedmovement:0 "반타협주의 운동은 천댜오위안 정권의 부상에 중요한 역할을 했지만, 급진파들은 오히려 그 권위를 위협하고 있습니다. 적극적으로 우리가 개입한다면, 운동이 관리하기 원만해질 것이고 문제 세력들은 제거될 것입니다. 천탸오위안 정권의 정치적 목표를 위해 행동해야만 합니다."
 ANQ_managed_movementa:0 "운동 관리"
 ANQ_managed_movementa_desc:0 "[getanqideamanagedmovement]"
 ANQ_managed_movementb:0 "운동 관리"
@@ -624,7 +634,7 @@ ANQ_managed_movement1_desc:0 "[getanqideamanagedmovement]"
 ANQ_managed_movement2:0 "운동 관리"
 ANQ_managed_movement2_desc:0 "[getanqideamanagedmovement]"
 
-anq_idea_nationaldevelopment:0 "우리는 전쟁에서 승리했고 5개 성이 천탸오위안의 수중에 들어왔습니다. 이제 대규모 산업화와 개발을 추진할 차례입니다. 중요한 점은, 서구의 도움에 의지하지 않고 중국 혼자서 해내야 한다는 것입니다."
+anq_idea_nationaldevelopment:0 "우리는 전쟁에서 승리했고 5개 성이 천댜오위안의 수중에 들어왔습니다. 이제 대규모 산업화와 개발을 추진할 차례입니다. 중요한 점은, 서구의 도움에 의지하지 않고 중국 혼자서 해내야 한다는 것입니다."
 ANQ_national_developmenta:0 "국가적 발전"
 ANQ_national_developmenta_desc:0 "[getanqideanationaldevelopment]"
 ANQ_national_developmentb:0 "국가적 발전"
@@ -640,7 +650,7 @@ ANQ_national_development1c_desc:0 "[getanqideanationaldevelopment]"
 ANQ_national_development2:0 "국가적 발전"
 ANQ_national_development2_desc:0 "[getanqideanationaldevelopment]"
 
-anq_idea_cliquecontrol:0 "천탸오위안이 인민들의 지지를 통해 권력을 얻게 되었지만, 5개 성을 통제하는 이는 인민들이 아닙니다. 천탸오위안의 사적인 친구들과 정치적 동맹들이 이 지역을 다스립니다. 민족주의의 발흥으로 초래된 대규모 숙청 이후로, 천탸오위안이 진정 신뢰하는 자들만이 권력을 얻게 됐습니다."
+anq_idea_cliquecontrol:0 "천댜오위안이 인민들의 지지를 통해 권력을 얻게 되었지만, 5개 성을 통제하는 이는 인민들이 아닙니다. 천댜오위안의 사적인 친구들과 정치적 동맹들이 이 지역을 다스립니다. 민족주의의 발흥으로 초래된 대규모 숙청 이후로, 천댜오위안이 진정 신뢰하는 자들만이 권력을 얻게 됐습니다."
 ANQ_clique_control:0 "정권을 통제하는 자"
 ANQ_clique_control_desc:0 "[getanqideacliquecontrol]"
 ANQ_clique_control1:0 "정권을 통제하는 자"
@@ -648,7 +658,7 @@ ANQ_clique_control1_desc:0 "[getanqideacliquecontrol]"
 ANQ_clique_control2:0 "정권을 통제하는 자"
 ANQ_clique_control2_desc:0 "[getanqideacliquecontrol]"
 
-anq_idea_industrialbacking:0 "천탸오위안의 통치는 많은 중국 산업가들의 지원이 뒷받침하고 있습니다. 그중 상당수는 독일이라는 경쟁 세력이 제거되어 매우 기뻐하고 있습니다. 이들 회사들이 성들을 발전시키는데 도움이 될 것입니다."
+anq_idea_industrialbacking:0 "천댜오위안의 통치는 많은 중국 산업가들의 지원이 뒷받침하고 있습니다. 그중 상당수는 독일이라는 경쟁 세력이 제거되어 매우 기뻐하고 있습니다. 이들 회사들이 성들을 발전시키는데 도움이 될 것입니다."
 ANQ_industrial_backing:0 "산업계의 후원"
 ANQ_industrial_backing_desc:0 "[getanqideaindustrialbacking]"
 ANQ_industrial_backing1:0 "산업계의 후원"
@@ -874,7 +884,9 @@ ANQ_undermine_nationalist_intellectuals_desc:0 "Nationalist intellectuals contin
 ANQ_undermine_anticoncessionist_movement:0 "반타협주의자 약화"
 ANQ_undermine_anticoncessionist_movement_desc:0 "반타협주의자들은 귀중한 동맹이자 남경군벌에 대한 우리의 승리를 결정적으로 도운 바 있지만, 그 구성원들은 계속해서 급진화되어 우리 이익에 반하는 방향으로 움직이고 있습니다. 우리는 미묘하게 운동을 약화시키고, 요원을 파견하여 더 큰 사태를 방지해야 합니다..."
 ANQ_republican_focus:0 "공화주의의 신뢰성"
+ANQ_republican_focus_desc:0 "[getanqrepublicanfocus]"
 ANQ_republican_focus_desc:0 "일본인들과의 관계를 유지하는 대신, 봉천정부를 중국의 합법 공화국으로 인정함으로써 신뢰를 쌓을 것입니다. 신해혁명은 대중들의 마음 속 깊이 남았고, 동시에 봉천정부가 주장하는 정통성의 근거이기도 합니다. 우리 또한 정부의 정통성을 높이기 위해 노력해야 합니다."
+anq_republican_focus_alone:0 "We stand alone in China, meaning that we must show that we have truly moved away from the destructive Qing hegemony. The Xinhai Revolution remains incredibly popular and we must cling to its Republican ideals to create credibility for our government."
 ANQ_beiyang_ideals:0 "북양 정부의 이상"
 ANQ_beiyang_ideals_desc:0 "북양 정부가 혼란스러웠던 시절은 중국에 공화주의가 탄생했던 때이기도 합니다. 우리는 공화주의의 선구자들이 중국에 공화국을 수립하기 위해 만주의 청 왕조를 타도하기로 결심했던 것처럼, 이러한 오래된 이상으로 돌아가야 합니다."
 ANQ_national_development_project:0 "국가 개발 프로젝트"
@@ -914,32 +926,32 @@ ANQ_promote_nationalist_thought_desc:0 "더 이상 민족주의자들을 두려�
 ### Events ###
 
 anq.1.t:0 "양쯔강에서의 긴장"
-anq.1.d:0 "안후이 거리에서 분노의 목소리가 메아리칩니다. '우후에 정의를, 외국인들을 추방하라!' 천탸오위안 성장은 도전을 시작했고, 이미 남경 정부의 요인들을 성에서 추방하고 있습니다. 사실상 천탸오위안은 하루아침에 인민의 수호자로 여겨졌지만, 현재 그의 군은 양쯔강 하류에 걸친 저지선에 막혔습니다. 이제는 무엇을 해야 할까요? 몇몇은 남경 정권을 완전히 없애라 요구하지만, 좀더 신중한 자들은 전략적인 기회를 잘 잡으라 요청합니다.\n\n천탸오위안은 위험을 감수하는 것으로 잘 알려져 왔고, 이 순간에도 그 성향과 차이가 없을 것입니다."
+anq.1.d:0 "안후이 거리에서 분노의 목소리가 메아리칩니다. '우후에 정의를, 외국인들을 추방하라!' 천댜오위안 성장은 도전을 시작했고, 이미 남경 정부의 요인들을 성에서 추방하고 있습니다. 사실상 천댜오위안은 하루아침에 인민의 수호자로 여겨졌지만, 현재 그의 군은 양쯔강 하류에 걸친 저지선에 막혔습니다. 이제는 무엇을 해야 할까요? 몇몇은 남경 정권을 완전히 없애라 요구하지만, 좀더 신중한 자들은 전략적인 기회를 잘 잡으라 요청합니다.\n\n천댜오위안은 위험을 감수하는 것으로 잘 알려져 왔고, 이 순간에도 그 성향과 차이가 없을 것입니다."
 anq.1.a:0 "성장이여, 영원하라!"
 
 anq.2.t:0 "우페이푸에의 제안?"
-anq.2.d:0 "8개 성에 걸친 혼돈으로, 천탸오위안은 자신의 지위도 곧 위협받을지 모른다는 것을 인식하게 되었습니다. 적들에 의한 즉각적인 붕괴나 결정적인 군사적 패배를 피하기 위해서는 동맹이 필요합니다. 청을 통치하고 있으며 동중국에서 가장 거대한 군을 가지고 있는 '옥의 원수'는 알려진 바와 같이 훌륭한 자산이 되어줄지 모릅니다."
+anq.2.d:0 "8개 성에 걸친 혼돈으로, 천댜오위안은 자신의 지위도 곧 위협받을지 모른다는 것을 인식하게 되었습니다. 적들에 의한 즉각적인 붕괴나 결정적인 군사적 패배를 피하기 위해서는 동맹이 필요합니다. 청을 통치하고 있으며 동중국에서 가장 거대한 군을 가지고 있는 '옥의 원수'는 알려진 바와 같이 훌륭한 자산이 되어줄지 모릅니다."
 anq.2.a:0 "전보를 보내 보아라."
 
 anq.3.t:0 "우페이푸가 제안을 수락하다"
-anq.3.d:0 "우페이푸 원수는 최근 안후이 주민들에 대한 그들의 깊은 공감과, 중국 예외주의에 대한 그들의 헌신에 감사하는 내용의 전보에 답했습니다. 하지만 이 거창한 서한에서도, 우페이푸 원수는 결코 베이징이 안칭을 도울지 권위적으로 밝히지 않았습니다. 천탸오위안 성장은 궁지에 몰려 있고, 결정할 시간도 얼마 남지 않았습니다. 우페이푸 원수와 관계를 맺는 것이 가치 있는 일일까요, 아니면 외교적 생존을 위한 다른 계획을 앞으로 며칠간 찾아보는 것이 좋을까요?"
+anq.3.d:0 "우페이푸 원수는 최근 안후이 주민들에 대한 그들의 깊은 공감과, 중국 예외주의에 대한 그들의 헌신에 감사하는 내용의 전보에 답했습니다. 하지만 이 거창한 서한에서도, 우페이푸 원수는 결코 베이징이 안칭을 도울지 권위적으로 밝히지 않았습니다. 천댜오위안 성장은 궁지에 몰려 있고, 결정할 시간도 얼마 남지 않았습니다. 우페이푸 원수와 관계를 맺는 것이 가치 있는 일일까요, 아니면 외교적 생존을 위한 다른 계획을 앞으로 며칠간 찾아보는 것이 좋을까요?"
 anq.3.a:0 "봤지? 내가 뭐랬어!"
 anq.3.b:0 "소용없다. 그는 독일의 개에 불과하다."
 
 anq.4.t:0 "우페이푸가 천탸오위안의 제안을 거절하다"
-anq.4.d:0 "우페이푸 원수가 보낸 또다른 서한에 따르면, 그와 천탸오위안 성장 간에 어떤 공통점도 없는 듯 합니다. 우페이푸 원수는 서한을 통해 천탸오위안이 안후이 주민들을 두고 위험한 도박을 하고 있다며 비난했고, 남경을 지원해 천탸오위안을 죽일 수 있다며 경고하고 있습니다. 이 문제는 베이징에서의 지지를 얻으려는 우리의 노력을 무위로 만들었고, 시간은 점점 부족해지고 있습니다.\n\n다른 기회는 천이 장군에게 열려있을지 모릅니다. 비록 그는 논란이 많은 장군이지만, 흑룡회와 긴밀한 연결을 가지고 있기 때문에 톈진 주재 일본 대사와 연을 쌓을 수 있습니다. [ANQ.GetLeader](은)는 반타협주의 운동의 목표에 해를 끼칠 수 있음을 인지하고 있지만, 우페이푸는 완강히 우리의 제안을 거절하고 있기에, 별다른 선택지가 없습니다."
+anq.4.d:0 "우페이푸 원수가 보낸 또다른 서한에 따르면, 그와 천댜오위안 성장 간에 어떤 공통점도 없는 듯 합니다. 우페이푸 원수는 서한을 통해 천댜오위안이 안후이 주민들을 두고 위험한 도박을 하고 있다며 비난했고, 남경을 지원해 천댜오위안을 죽일 수 있다며 경고하고 있습니다. 이 문제는 베이징에서의 지지를 얻으려는 우리의 노력을 무위로 만들었고, 시간은 점점 부족해지고 있습니다.\n\n다른 기회는 천이 장군에게 열려있을지 모릅니다. 비록 그는 논란이 많은 장군이지만, 흑룡회와 긴밀한 연결을 가지고 있기 때문에 톈진 주재 일본 대사와 연을 쌓을 수 있습니다. [ANQ.GetLeader](은)는 반타협주의 운동의 목표에 해를 끼칠 수 있음을 인지하고 있지만, 우페이푸는 완강히 우리의 제안을 거절하고 있기에, 별다른 선택지가 없습니다."
 anq.4.a:0 "일본을 방문할 때이군."
 
-anq.5.t:0 "천탸오위안과 천이가 서로 접근하다"
-anq.5.d:0 "아직 연합 내에 위치한, 강력한 저장성의 성장인 천이는 천탸오위안과의 협력을 논하기 위해 접근했습니다. 그는 중국의 진정한 미래는 청이 아니라 봉천정부에 있다 주장합니다. 우리가 장쭤린에 충성을 맹세한다면 그들은 앞으로 닥칠 전쟁에서 우리를 전폭적으로 지원할 것입니다.\n\n천이는 이러한 약속을 뒷받침할 수 있는 상당한 자본과 힘을 제공할 수 있는 정도의 지위를 저장성 내에서 가지고 있습니다. 우페이푸는 계속해서 난징을 지지하고 있기 때문에, 우리에게는 별 선택지가 없고, 최고의 기회를 잡아야 할 듯 합니다."
+anq.5.t:0 "천댜오위안과 천이가 서로 접근하다"
+anq.5.d:0 "아직 연합 내에 위치한, 강력한 저장성의 성장인 천이는 천댜오위안과의 협력을 논하기 위해 접근했습니다. 그는 중국의 진정한 미래는 청이 아니라 봉천정부에 있다 주장합니다. 우리가 봉천의 지도자, 장쭤린에 충성을 맹세한다면 천이는 앞으로 닥칠 전쟁에서 우리를 전폭적으로 지원할 것입니다.\n\n천이는 이러한 약속을 뒷받침할 수 있는 상당한 자본과 힘을 제공할 수 있는 정도의 지위를 저장성 내에서 가지고 있습니다. 우페이푸는 계속해서 난징을 지지하고 있기 때문에, 우리에게는 별 선택지가 없고, 최고의 기회를 잡아야 할 듯 합니다."
 anq.5.a:0 "우리가 선택권이나 가지고 있나?"
 
 anq.6.t:0 "안경군벌이 우리의 지원을 요청하다"
-anq.6.d:0 "팔성연합 내 안후이성의 성장 천탸오위안은 다가오는 청과 연합과의 결전에서 우리의 지원을 요청했습니다. 천탸오위안은 강한 반타협주의적 관점을 견지하고 있고, 반타협주의 운동에서 상당한 지지를 얻고 있지만, 그는 스스로 함정에 빠져 있고, 스스로도 그 사실을 잘 알고 있습니다. 그가 자신의 이상을 고집하여 땅과 군대, 생명을 잃게 될까 두려운 그는 동아시아에서 가장 강력한 국가의 문을 두드렸습니다. 그는 봉천정부와 그 동맹들과 관계를 수립하자는 저장성장 천이에게 설득당한 듯합니다.\n\n이는 난징에 대한 독일의 영향력을 제거하고, 청의 남쪽 측면에 피해를 입힐 수 있는 완벽한 기회를 제공해주고 있고, 우리는 이를 가능한 많이 이용해야 합니다. 하지만 천탸오위안을 너무 밀어붙이는 것은 그가 결정을 스스로 재고하게 하거나 더 나쁜 상황을 초래할 수 있기 때문에 자제해야 할 것입니다."
+anq.6.d:0 "팔성연합 내 안후이성의 성장 천댜오위안은 다가오는 청과 연합과의 결전에서 우리의 지원을 요청했습니다. 천댜오위안은 강한 반타협주의적 관점을 견지하고 있고, 반타협주의 운동에서 상당한 지지를 얻고 있지만, 그는 스스로 함정에 빠져 있고, 스스로도 그 사실을 잘 알고 있습니다. 그가 자신의 이상을 고집하여 땅과 군대, 생명을 잃게 될까 두려운 그는 동아시아에서 가장 강력한 국가의 문을 두드렸습니다. 그는 봉천정부와 그 동맹들과 관계를 수립하자는 저장성장 천이에게 설득당한 듯합니다.\n\n이는 난징에 대한 독일의 영향력을 제거하고, 청의 남쪽 측면에 피해를 입힐 수 있는 완벽한 기회를 제공해주고 있고, 우리는 이를 가능한 많이 이용해야 합니다. 하지만 천댜오위안을 너무 밀어붙이는 것은 그가 결정을 스스로 재고하게 하거나 더 나쁜 상황을 초래할 수 있기 때문에 자제해야 할 것입니다."
 anq.6.a:0 "또다른 자가 한 배에 탔구만"
 
 anq.7.t:0 "일본과 만나다"
-anq.7.d:0 "[ANQ.GetLeader](은)는 흑룡회의 네트워크를 통해 어두운 뒷방에서 일하며 [JAP.GetName]에 접촉을 시도해왔습니다. 비록 그들의 의도는 의심스러워 보이고, 중국인에 대한 그들의 소망은 명백한 거짓말이지만, 천탸오위안은 이 문제에 대해 선택권이 없음을 인식하고, 우리를 지원해 주는 대신 봉천정부를 유일한 중국 정부임을 인정하라는 그들의 요구가 합리적이라 생각하고 있습니다.\n\n금과 소화기가 안칭에 도착하여 일본이 약속을 지킬 준비가 되어 있습니다. 난징은 군사를 동원해 우리의 영역을 침공하려 시도하는 가운데, 이제는 우리도 움직일 때입니다. 우리는 먼저 세게 공격하여 해안에 있는 독일의 개들이 중국을 억압하지 못하도록 할 것입니다!"
+anq.7.d:0 "[ANQ.GetLeader](은)는 흑룡회의 네트워크를 통해 어두운 뒷방에서 일하며 [JAP.GetName]에 접촉을 시도해왔습니다. 비록 그들의 의도는 의심스러워 보이고, 중국인에 대한 그들의 소망은 명백한 거짓말이지만, 천댜오위안은 이 문제에 대해 선택권이 없음을 인식하고, 우리를 지원해 주는 대신 봉천정부를 유일한 중국 정부임을 인정하라는 그들의 요구가 합리적이라 생각하고 있습니다.\n\n금과 소화기가 안칭에 도착하여 일본이 약속을 지킬 준비가 되어 있습니다. 난징은 군사를 동원해 우리의 영역을 침공하려 시도하는 가운데, 이제는 우리도 움직일 때입니다. 우리는 먼저 세게 공격하여 해안에 있는 독일의 개들이 중국을 억압하지 못하도록 할 것입니다!"
 anq.7.a:0 "연합에 전쟁을 선포하라"
 
 anq.8.t:0 "우페이푸가 그의 위치를 재고하다"
@@ -947,12 +959,12 @@ anq.8.d:0 "우리가 도쿄와 접촉했다는 소식을 우페이푸도 들었�
 anq.8.a:0 "그가 우리를 또 배신하지 않을 거라 어떻게 믿지?"
 anq.8.b:0 "그의 지원에 감사를 표한다"
 
-anq.9.t:0 "천탸오위안이 우리의 제안을 비난하다"
+anq.9.t:0 "천댜오위안이 우리의 제안을 비난하다"
 anq.9.d:0 "이전에 우리가 배신한 것에 대해 열이라도 받은 듯, 안칭의 성장은 요구를 거절하고 봉천정부의 이권을 침해하지 말라 지적했습니다. 자신의 말에 힘을 싣기 위해, 그는 우리가 보냈던 뇌물을 다시 돌려주어 빚을 모두 청산하도록 했습니다."
 anq.9.a:0 "운도 없지"
 
 anq.10.t:0 "청이 지원을 약속하다"
-anq.10.d:0 "연합은 그들의 군대가 해체되고 그들끼리 싸우고 있는 와중에도 독일의 돼지들과 난징의 관료가 식사를 하고 았는, 약하고 곰팡이가 슬어있느 폐허에 불과합니다. 우리 부대는 목표를 성공적으로 달성할 용기와 헌신을 가지고 있을 뿐 아니라, 위대한 우페이푸와 제국군의 지원을 받고 있습니다. 행동해야할 때입니다. 연합을 비극에서 건져올려, 재에서 뛰어오르는 봉황처럼, 천탸오위안을 통해 중국은 다시금 태어날 것입니다!"
+anq.10.d:0 "연합은 그들의 군대가 해체되고 그들끼리 싸우고 있는 와중에도 독일의 돼지들과 난징의 관료가 식사를 하고 았는, 약하고 곰팡이가 슬어있느 폐허에 불과합니다. 우리 부대는 목표를 성공적으로 달성할 용기와 헌신을 가지고 있을 뿐 아니라, 위대한 우페이푸와 제국군의 지원을 받고 있습니다. 행동해야할 때입니다. 연합을 비극에서 건져올려, 재에서 뛰어오르는 봉황처럼, 천댜오위안을 통해 중국은 다시금 태어날 것입니다!"
 anq.10.a:0 "군대를 동원하라!" 
 
 anq.11.t_1:0 "저장성에서 샹관이 반란을 일으키다"
@@ -1029,7 +1041,7 @@ anq.24.b:0 "범죄자들과 협상따위 하지 않는다!"
 # Replacing the Governors
 anq.25.t:0 "저장성 문제"
 anq.25.d1:0 "우리가 누군가의 도움을 가장 필요로 했을 때, 그리고 난징에 사는 독일의 애완견들이 연합군을 이뤄 우리 코앞까지 왔을 때, 저장성은 우리 편에 서준 유일한 곳입니다. 비록 그들이 봉천정부의 대의에 동참하고 일본 천황의 품 안에 달려가는 꼴을 봤을 때, 그렇게 믿음직한 사람들은 아니지만, 천이는 전쟁 중 자신의 가치를 증명했고 그에 맞게 보상을 받아야 합니다. 전쟁 중 그가 큰 공을 세웠기 때문에, 천이는 이 지역을 그대로 통치할 뿐 아니라 더 많은 것을 얻어야 합니다. 그는 누구보다 명성도 행정 능력도 높기 때문에, 앞으로 다가올 전쟁에서도 계속해서 우리를 도와야 합니다."
-anq.25.d2:0 "우리가 누군가의 도움을 가장 필요로 했을 때, 그리고 난징에 사는 독일의 애완견들이 연합군을 이뤄 우리 코앞까지 왔을 때, 저장성은 우리 편에 서준 유일한 곳입니다. 우리를 배신한 천이를 끌어내린 뒤, 우리는 천이의 부하인 샹관 윈샹이라는 헌신적인 동맹을 찾아냈습니다. 전쟁 중 그가 세운 공과, 그가 보여준 용맹함에 보답하기 위해서라도, 천탸오위안은 천이가 가졌던 자리를 주는 동시에 공식적으로 그를 저장성장으로 임명했습니다."
+anq.25.d2:0 "우리가 누군가의 도움을 가장 필요로 했을 때, 그리고 난징에 사는 독일의 애완견들이 연합군을 이뤄 우리 코앞까지 왔을 때, 저장성은 우리 편에 서준 유일한 곳입니다. 우리를 배신한 천이를 끌어내린 뒤, 우리는 천이의 부하인 샹관윈샹이라는 헌신적인 동맹을 찾아냈습니다. 전쟁 중 그가 세운 공과, 그가 보여준 용맹함에 보답하기 위해서라도, 천댜오위안은 천이가 가졌던 자리를 주는 동시에 공식적으로 그를 저장성장으로 임명했습니다."
 anq.25.a:0 "일리가 있군"
 
 anq.26.t:0 "장쑤성 문제"
@@ -1042,12 +1054,12 @@ anq.27.d:0 "전임 장쑤성장이 해임된 이후, 적절한 후보를 찾을 
 anq.27.a:0 "행운을 비네!"
 
 anq.28.t:0 "안후이성 문제"
-anq.28.d:0 "우리 반란의 시작점이자 천탸오위안을 가장 열렬히 지지하는 곳인, 안후이성은 최근 난징으로 정부를 원활히 이전하는데 몰두하고 있는 천탸오위안에 의해 방치되고 있습니다. 이를 해결하기 위해, 수행원들 중 몇몇은 천탸오위안에게 자리에서 내려와 다른 누군가에게 이 지방의 행정 업무를 맡겨야 한다 제안했습니다. 이는 천탸오위안에게 가장 가까운 지방을 포기하게 만드는 슬픈 결정이지만, 관료들에게 부담을 경감해주는 결정이 될 것입니다."
+anq.28.d:0 "우리 반란의 시작점이자 천탸오위안을 가장 열렬히 지지하는 곳인, 안후이성은 최근 난징으로 정부를 원활히 이전하는데 몰두하고 있는 천댜오위안에 의해 방치되고 있습니다. 이를 해결하기 위해, 수행원들 중 몇몇은 천탸오위안에게 자리에서 내려와 다른 누군가에게 이 지방의 행정 업무를 맡겨야 한다 제안했습니다. 이는 천탸오위안에게 가장 가까운 지방을 포기하게 만드는 슬픈 결정이지만, 관료들에게 부담을 경감해주는 결정이 될 것입니다."
 anq.28.a:0 "천탸오위안이 계속 자리를 맡을 것이다"
 anq.28.b:0 "괴뢰 성장을 임명하라"
 
 anq.29.t:0 "덩루저우가 알현을 요청하다"
-anq.29.d:0 "전임 정부에서 장시성장이었던 덩루저우는 천탸오위안에게 난징에서 그의 미래 직위에 대해 논하자고 면담을 요쳥했습니다. 그가 이전의 권력을 되찾겠다는 것은 공공연한 사실이며, 이를 위해 치셰위안이 몰락한 이후부터 천탸오위안과 그 친구들에게 아부해왔습니다. 올해 초 우리가 난창을 함락시켰지만, 그는 여전히 이 지역에 질서를 회복하는데 필요한 거대한 네트워크와 조직들을 가지고 있습니다. 하지만 그는 치셰위안을 버렸을 때처럼 빠르게 우리 정부를 버릴지도 모르는 일입니다."
+anq.29.d:0 "전임 정부에서 장시성장이었던 덩루저우는 천댜오위안에게 난징에서 그의 미래 직위에 대해 논하자고 면담을 요쳥했습니다. 그가 이전의 권력을 되찾겠다는 것은 공공연한 사실이며, 이를 위해 치셰위안이 몰락한 이후부터 천탸오위안과 그 친구들에게 아부해왔습니다. 올해 초 우리가 난창을 함락시켰지만, 그는 여전히 이 지역에 질서를 회복하는데 필요한 거대한 네트워크와 조직들을 가지고 있습니다. 하지만 그는 치셰위안을 버렸을 때처럼 빠르게 우리 정부를 버릴지도 모르는 일입니다."
 anq.29.a:0 "덩루저우를 재임명하라"
 anq.29.b:0 "그 자는 배신자다. 그 지역은 우리가 다음에 처리할 것이다"
 
@@ -1738,7 +1750,11 @@ anq.183.t:0 "대원수의 선언"
 anq.183.d:0 "봉천정부의 지도자 장쭤린은 봉천정부의 [QIE.GetName] 침공이 임박했다는 대담한 선언을 발표했습니다. 우리는 당장 전쟁에 대비해야 합니다."
 anq.183.a:0 "좋은 소식이야."
 
-#Cosmetic Tags
+anq.213.t:0 "Recognising the Fengtian Government"
+anq.213.d:0 "Now that the League War has concluded in our favor, we have no other choice but to make up our end of the bargain with Fengtian. We shalll have to move forward and officially announce to the world that we recognize Fengtian as the official national government of China. This will prove to be a major shift within China and almost certainly upsets the careful balance further that kept the peace between the various states up until the League Collapse."
+anq.213.a:0 "Make the declaration."
+
+###Cosmetic Tags###
 ANQ_totalist:0 "안경군벌"
 ANQ_totalist_ADJ:0 "안경"
 ANQ_totalist_DEF:0 "안경"
