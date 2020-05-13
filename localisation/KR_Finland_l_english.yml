@@ -24,6 +24,9 @@ FIN_paternal_autocrat_party_long:0 "국민연합당"
 FIN_national_populist_party:0 "라푸아 운동"
 FIN_national_populist_party_long:0 "라푸아 운동"
 
+### Leaders ###
+POLITICS_FREDRIK_KAARLE_DESC:0 "Friedrich Karl Landgraf von Hessen-Kassel was elected king of Finland by the Finnish parliament on 9 October 1918 and arrived with his son prince Wolfgang as future crown prince in 1919, presiding over Finland as it was recovering from the civil war that ravaged the country in conjunction with the national coalition that has been ruling Finland.\n\nIn more recent years however, the Finnish king of German heritage has increasingly developed into a symbol of German influence in Finland and despite his best attempts, his popularity that had been growing in the wake of reconstructing the country has waned beyond loyalists of the National Coalition."
+
 ### Focuses ###
 FIN_democracy_triumphant:0 "민주주의의 승리"
 FIN_democracy_triumphant_desc:0 "핀란드에서는 대통령실이 국가원수의 역할을 하는 반면, 총리실은 정부를 이끄는 역할을 담당하는 등 적절하고 공화주의적인 민주주의 방식이 마침내 현실화 된 것 같습니다. 핀란드에 새로운 정치 시대가 열리고 있는 것 같습니다."
@@ -693,7 +696,7 @@ finland.81.d:0 "[GER.GetAdjective]에서의 끔찍한 소식입니다!: 그들�
 finland.81.a:0 "망할."
 
 finland.82.t:0 "러시아산 곡물 조달"
-finland.82.d:0 "제국 조약 탈퇴 이후 우리가 더이상 [GER.GetAdjective]의 비호를 받지 않게 되면서, 기아 문제를 피하기 위해 다른 곡물 수입처를 찾아야 한다는 사실이 분명해졌습니다. [RUS.GetNameDef]는 우리의 이웃이고 곡물이 풍부합니다. 우리는 이들에게 접근해야 합니다."
+finland.82.d:0 "Mitteleuropa market 탈퇴 이후 우리가 더이상 [GER.GetAdjective]의 비호를 받지 않게 되면서, 기아 문제를 피하기 위해 다른 곡물 수입처를 찾아야 한다는 사실이 분명해졌습니다. [RUS.GetNameDef]는 우리의 이웃이고 곡물이 풍부합니다. 우리는 이들에게 접근해야 합니다."
 finland.82.a:0 "최선의 결과를 위하여."
 
 finland.83.t:0 "[FIN.GetName]에서 곡물을 요청해오다"
@@ -834,7 +837,7 @@ finland.113.d:0 "멍청하게도, [From.GetAdjective] 는 끝까지 싸우겠다
 finland.113.a:0 "그러라지."
 
 finland.114.t:0 "그만 싸울까?"
-finland.114.d:0 "우리는 러시아에서 모든 전략적 목표를 달성하였고 [Root.GetAdjective] 내의 우리 핵심 영토를 장악했습니다. 이제 평화를 제안할 때일까요?"
+finland.114.d:0 "We've taken control of all core [Root.GetAdjective] lands in Russia, but the fight rages on. Perhaps we should offer the battered Russians peace in exchange for recognition of Finnish sovreignty over these newly acquired lands."
 finland.114.a:0 "그래. 이제 그만 싸울 때가 되었다."
 finland.114.b:0 "아니, 완전한 승리를 선언할 때까지 밀어붙여야 한다!"
 
@@ -1076,7 +1079,7 @@ fin_join_nordic_federation_desc:0 "우리의 덴마크, 노르웨이, 스웨덴 
 fin_join_internationale:0 "인터내셔널 가맹 신청"
 fin_join_internationale_desc:0 "핀란드 노동자들은 스스로를 해방시켰지만, 적국에 있는 수십억명의 노동자들은 반동적인 자본주의의 탄압을 받고 땀을 흘리고 있습니다. 우리는 그들을 위해 인터내셜에 가입하여 함께 투쟁해야합니다!"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 GFI_authoritarian_democrat:0 "대핀란드"
 GFI_authoritarian_democrat_ADJ:0 "핀란드"
 GFI_authoritarian_democrat_DEF:0 "대핀란드"
