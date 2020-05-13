@@ -24,10 +24,19 @@ ETH_syndicalist_party_long:0 "전에티오피아 생디칼리슴 운동"
 ETH_totalist_party:0 "에티오피아 인민위원회의"
 ETH_totalist_party_long:0 "에티오피아 인민위원회의"
 
-###flags###
+### Leaders ###
+POLITICS_HAILE_SELASSIE_DESC:0 "Following the death of Zauditu on 2 April 1930, Ras Tafari Makonnen was crowned Emperor of Ethiopia on 2 November 1930 at Addis Ababa's Cathedral of St. George. Upon climbing the throne the new Emperor, eager to wield the power he had finally obtained, started a series of sweeping political reforms to bring Abyssinia 'into the west'. In 1923 he toured Europe, inspecting schools, hospitals, factories, and churches, and the contact with the European way of life had greatly impressed him, for he intended to modernise Abyssinia to the European standard. These reforms, however, were fiercely opposed by the powerful conservative elements of the nation and have been delayed by the economic problems affecting the Empire, especially the debt he inherited from Zewditu's reign, and the pervasive and invasive German economic influence"
+
+### Tooltips ###
 ETH_People_cons:0 "국민의 헌법이 승인되었습니다"
 ETH_Sellasie_cons:0 "황제의 헌법이 승인되었습니다"
 ETH_Noble_cons:0 "귀족의 헌법이 승인되었습니다"
+ETH_public_rail:0 "The DKAEB is owned by the Ethiopian state"
+ETH_private_rail:0 "The DKAEB is owned by German companies"
+ETH_Haile_Reforms:0 "Haile Sellasie has started his reforms"
+ETH_Constitucion_tt:0 "Ethiopia will have a new constitution depending on the reforms passed"
+ETH_Eritrea_tt:0 "§RIf Eritrea is not properly integrated by the time we enter conflict, we shouldn't expect them to remain loyal!§!\n"
+ETH_flag_change_ETE_tt:0 "§GA new flag shall celebrate this momentous occasion!§!\n"
 
 ### Ideas ###
 ETH_Debt_idea_1:0 "주체 불가능한 채무"
@@ -80,7 +89,6 @@ ETH_Anti_Imp_desc:0 "우리를 정복하고자하는 이들은 지속적으로 �
 ETH_Ethiopian_Guns_idea_desc:0 "외국의 기술을 이용하고 외형적 설계도는 우리의 디자인을 기초로 해서, 우리는 에티오피아인이 만든 에티오피아 인을 위한 에티오피아 산 총기가 값싸지만 높은 역량을 가지도록 했습니다."
 ETH_Levy_Army_desc:0 "에티오피아는 근대의 강대국들과는 달리 통일되고 조직화된 군대를 가지고 있지 않습니다. 실제로는 에티오피아의 '군대'는 귀족들 개개인의 소유이며 사람들은 귀족들에게 충성하며 오직 그들에게만 충성합니다."
 
-
 ### Focuses ###
 ETH_Nationalised_Railroad:0 "국유화된 철도"
 ETH_Privatised_Railroad:0 "민영화된 철도"
@@ -90,7 +98,7 @@ ETH_Expand_Into_Eritrea:0 "에리트레아행 철도 확장"
 ETH_Impose_Amharic:0 "에리트레아에 암하라어 강요"
 ETH_Tribe_Intergration:0 "부족 통합"
 ETH_Officer_Intergration:0 "장교 통합"
-ETH_Construct_Naval_Base:0 "아사마라 해군 기지"
+ETH_Construct_Naval_Base:0 "아스마라 해군 기지"
 ETH_Intergration_Of_Eritrea:0 "에리트레아 통합"
 ETH_Develop_Eritrea:0 "에리트레아 개발 "
 ETH_Invest_In_Industry:0 "산업 투자"
@@ -264,16 +272,9 @@ ETH_Heavy_Industry_desc:0 "정부의 프로젝트를 효율적으로 처리하�
 ETH_Coffee_desc:0 "브라질의 혼란 사태로 최근 커피의 수요가 대폭 증가했습니다. 우리는 우리의 수확기술을 근대화하고 더많은 커피를 키워 더 많은 원두를 생산하는 것으로 여기서 이점을 가져갈 수 있습니다. 그렇게 하면 우리의 국가 수입을 크게 증진시킬 수 있을 것입니다. 무엇보다 커피를 좋아하지 않는 사람이 어디있을까요?"
 ETH_Finish_Modernisation_desc:0 "우리의 산업화에 대한 노력은 결국 결실을 맺었습니다. 미래는 이제 우리 손아귀에 달렸습니다. 단지 움켜쥐기만 하면 됩니다!"
 
-### Tooltips ###
-ETH_public_rail:0 "독일 범아프리카 철도는 에티오피아 주 소유입니다."
-ETH_private_rail:0 "독일 범아프리카 철도는 독일 회사 소유입니다."
-ETH_Haile_Reforms:0 "하일레 셀라시에는 그의 개혁을 시작할 것 입니다."
-ETH_Constitucion_tt:0 "에티오피아는 통과된 개혁에 따라 새로운 헌법을 가질 것입니다."
-ETH_Eritrea_tt:0 "§전쟁에 들어갈 때까지 에리트레아가 제대로 통합되지 않으면, 그들의 충성을  수 없습니다!§!\n"
-
 ### Events ###
 ethiopia.1.t:0 "교차로에 선 제국, 에티오피아"
-ethiopia.1.d:0 "아비시니아(Abyssinia)라고도 알려진 에티오피아는 19세기 아프리카 쟁탈전 가운데서 유일하게 독립을 유지한 아프리카 국가이며 1896년에 이탈리아 침공을 성공적으로 막아냈습니다. 이 승리는 경제·군사·행정 면에서 유럽에 발맞추어 나라를 현대화시키고자 하던 에티오피아 제국 내의 현대화 절차에 박차를 가했습니다. 1918년, 자우디투(Zauditu) 여제 치하의 에티오피아 제국은 독일의 편으로 세계대전에 참여했고, 소말리아와 에리트레아의 이탈리아 식민지를 성공적으로 점령했습니다. 에티오피아 현대화의 긍정적인 신호로서, 에티오피아를 연결하고 나라 곳곳에 상품과 병사들을 운송하는데 필수적인 독일 범아프리카 철도(Deutsche Pan-Afrikanisches EisenBahn)의 확장이 있었습니다.  1930년 자우디투(Zauditu) 여제는 후계를 남기지 못하고 승하하였고, 이로 인해 그의 사촌인 라스 타파리 마콘넨(Ras Tafari Makonnen)이 하일레 셀라시에(Haile Selassie)로서 황위를 물려 받았습니다. 새로운 군주는 에티오피아를 서구화시키기 위한 일련의 새로운 계획에 착수할 의사를 밝혔습니다. 하지만 이러한 계획들은 이탈리아 식민지의 합병과 뒤이은 군대 확장 과정에서 강성해진, 귀족 세력의 맹렬한 반대에 부딪혔습니다. 또 에레트레아의 이탈리아 사업가들도 하일레 셀라시에를 반대했는데, 현상황에서 무슨 소란이 일어나든 자신들의 특권이 침해당하리라 여겼기 때문입니다. 그동안 제국 정부는 또다른 충격을 맞게 되는데, 1935년에 독일 통상부가 독일 범아프리카 철도의 취약한 재정 상황을 밝힘에 따라, 독일의 경제권에 의존하는 에티오피아의 비효율성을 확실히 증명했고, 에티오피아 전역의 경제가 위기에 처했기 때문입니다. 다가오는 경제 위기 아래, 현재 독일과의 관계를 유지할지, 새 무역 상대를 찾을지, 독자적인 외교 정책을 혼자 해쳐나갈지, 에티오피아는 결정해야 할지도 모릅니다.
+ethiopia.1.d:0 "Abyssinia, also known by the endonym of Ethiopia, was the only African state which managed to remain independent during the nineteenth century, having successfully defeated an Italian invasion in 1896. This victory was symbolic of the process of modernisation within the Abyssinian Empire which had sought to bring the country up to date with European standards in terms of its economy, military and administration. In 1918, under empress Zewditu, Abyssinia entered the Weltkrieg on the side of the Germans, successfully annexing the Italian colony Eritrea and dealing with the pretender emperor Iyasu. However the army performed rather poorly against Italy's garrisons and the few Entente raids into the Empire. Control over the disputed area of Harar was not enforced as the Somali forces which held much of the area could not be dislodged and have not been even to this day. When the old Empress Zewditu died with no surviving children, her cousin, regent and often times rival Ras Tafari Makonnen ascended to the throne as Emperor Haile Selassie. The new monarch announced his intention to undertake a new series of reforms in order to westernise Abyssinia as the main leader of the reactionary faction, his predecessor, was out of the picture.\n\nThese initiatives, however, were fiercely opposed by the conservative nobility of the nation, minor kings and dukes who saw in Zewditu someone much more amenable to their vision for the Empire. Ties with Germany, the new owners of nearby Djbouti, were strengthened as a railroad connecting the outpost, Adis Ababa and Kenya was built (mostly with German capital). Relations have since been positive, despite reports of eccentric behaviour by the new Mittelafrikan governor. However relations with Somalia and their Ottoman backers continue to be tense at best and a confrontation seems inevitable. The Emperor knows that such a war would require a united empire, under one banner and cause, as the ambitious dukes may well side with an enemy if they remain with their power unchecked and thus matters at home must be dealt with first."
 ethiopia.1.a:0 "우리는 강하게 서 있다!"
 ethiopia.2.t:0 "DKAEB와 파산 위기"
 ethiopia.2.d:0 "독일 황립 에티오피아 철도(DKAEB)는 20세기 초반에 세워졌으며 아디스아바바와 지부티를 연결합니다. 독일이 후원한 일련의 확장 이후 철도는 이제 주로 미텔아프리카의 콩고 분지에서 나온 광석을 지부티로 이송하는데 사용됩니다. 세계적으로 전반적인 경기 침체로 광석이 예전만 못하게 팔리면서 독일 범 아프리카 철도의 수송량이 더 적어지게 만들었습니다. 이제 철도의 상황은 파산 직전에 이르렀습니다."
