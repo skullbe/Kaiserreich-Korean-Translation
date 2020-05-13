@@ -6,13 +6,13 @@ asiapeace.1.d:0 "동아시아의 영토에 관련된 오랜 투쟁 끝에, 결�
 asiapeace.1.a:0 "휴전을 위해 함께 와라!"
 asiapeace.1.b:0 "이때 우리의 식민지들을 해방시켜야 한다!"
 
-asiapeace.2.t:0 "[From.GetNameDef]의 항복!"
-asiapeace.2.d:0 "이 지역에서 [From.GetNameDef]의 거점을 성공적으로 제거함으로써, 그들은 우리끼리 라이히스팍트의 전리품을 나누도록 내버려두고 동아시아에서 손을 떼는 협상을 체결하고 싶어합니다."
+asiapeace.2.t:0 "[From.GetNameDefCap]의 항복!"
+asiapeace.2.d:0 "이 지역에서 [From.GetNameDefCap]의 거점을 성공적으로 제거함으로써, 그들은 우리끼리 라이히스팍트의 전리품을 나누도록 내버려두고 동아시아에서 손을 떼는 협상을 체결하고 싶어합니다."
 asiapeace.2.a:0 "좋은 조건이군!"
 asiapeace.2.b:0 "아니, 우리가 베를린에 입성하기 전까지 멈추지 않을 것이다!"
 
-asiapeace.3.t:0 "[From.GetNameDef]이(가) 수락하지 않았습니다!"
-asiapeace.3.d:0 "해당 지역에서 떠날 선의의 의지를 보여주었음에도 불구하고 [From.GetNameDef]은 그들이 우리의 수도에서 행진할때까지 멈추지 않을 것임을 통보했습니다.\n동방의 전쟁은 끝나지 않을 것으로 보입니다."
+asiapeace.3.t:0 "[From.GetNameDefCap]이(가) 수락하지 않았습니다!"
+asiapeace.3.d:0 "해당 지역에서 떠날 선의의 의지를 보여주었음에도 불구하고 [From.GetNameDefCap]은 그들이 우리의 수도에서 행진할때까지 멈추지 않을 것임을 통보했습니다.\n동방의 전쟁은 끝나지 않을 것으로 보입니다."
 asiapeace.3.a:0 "[From.GetCapital]의 직접 지배는 구미가 당기지 않는다!"
 
 asiapeace.4.t:0 "동아시아에서의 패배"
@@ -20,14 +20,14 @@ asiapeace.4.d:0 "동아시아의 영토에 관련된 오랜 투쟁 끝에, 결�
 asiapeace.4.a:0 "평화를 위해 함께 와라!"
 asiapeace.4.b:0 "이때 우리의 식민지들을 해방시켜야 한다!"
 
-asiapeace.5.t:0 "[From.GetNameDef]의 항복!"
-asiapeace.5.d:0 "이 지역에서 [From.GetNameDef]의 거점을 성공적으로 제거함으로써 그들은 우리끼리 전리품을 나누도록 내버려두고 동아시아에서 손을 떼는 협상을 체결하고 싶어합니다."
+asiapeace.5.t:0 "[From.GetNameDefCap]의 항복!"
+asiapeace.5.d:0 "이 지역에서 [From.GetNameDefCap]의 거점을 성공적으로 제거함으로써 그들은 우리끼리 전리품을 나누도록 내버려두고 동아시아에서 손을 떼는 협상을 체결하고 싶어합니다."
 asiapeace.5.a:0 "좋은 조건이군!"
 asiapeace.5.b:0 "아니, 우리가 암스테르담에 입성하기 전까지 멈추지 않을 것이다!!"
 
-asiapeace.6.t:0 "[From.GetNameDef]이(가) 수락하지 않았습니다!"
-asiapeace.6.d:0 "해당 지역에서 떠날 선의의 의지를 보여주었음에도 불구하고 [From.GetNameDef]은 그들이 우리의 수도에서 행진할때까지 멈추지 않을 것임을 통보했습니다.\n동방의 전쟁은 끝나지 않을 것으로 보입니다."
-asiapeace.6.a:0 "[From.GetCapital]의 직접 지배는 구미가 당기지 않는다!"
+asiapeace.6.t:0 "[From.GetNameDefCap]이(가) 수락하지 않았습니다!"
+asiapeace.6.d:0 "해당 지역에서 떠날 선의의 의지를 보여주었음에도 불구하고 [From.GetNameDefCap]은 그들이 우리의 수도에서 행진할때까지 멈추지 않을 것임을 통보했습니다.\n동방의 전쟁은 끝나지 않을 것으로 보입니다."
+asiapeace.6.a:0 "[From.Capital.GetName]의 직접 지배는 구미가 당기지 않는다!"
 
 asian_hol_will_proceed_to_peacedeal_we_white_peace:0 "네덜란드령 동아시아와 동맹들은 평화협상을 진행할 것이며, 다른 네덜란드 지역은 무조건 평화를 맺고 분쟁에서 이탈할 것입니다."
 asian_reichspakt_will_proceed_to_peacedeal_we_white_peace:0 "독일령 동아시아와 동맹들은 평화협상을 진행할 것이며, 다른 라이히스팍트는 무조건 평화를 맺고 분쟁에서 이탈할 것입니다."
