@@ -1154,7 +1154,7 @@ NOR_market_liberal_govt:0 "보수주의자들이 정권을 잡고 있음"
 NOR_hird_supremacy:0 "Hird 패권주의"
 NOR_nationalist_nation:0 "국민주의자들이 노르웨이를 이끌고 있음"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 GNO_national_populist:0 "대노르웨이"
 GNO_national_populist_ADJ:0 "노르웨이"
 GNO_national_populist_DEF:0 "대노르웨이"
