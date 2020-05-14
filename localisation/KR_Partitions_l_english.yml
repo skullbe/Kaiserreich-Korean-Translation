@@ -4,9 +4,6 @@
 occupy_ger:0 "독일 점령"
 occupy_rhine:0 "라인란트 점령"
 
-### Factions ###
-russian_dominance:0 "러시아 영향권"
-
 ### Opinion Modifiers ###
 GER_accept_deal_rus:0 "러시아가 거래를 받아들임"
 GER_refuse_deal_rus1:0 "러시아가 거래를 거부함"
