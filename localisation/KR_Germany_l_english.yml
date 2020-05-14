@@ -2,6 +2,11 @@
 
 german_focus:0 "독일 중점계통도"
 
+### Leaders ###
+POLITICS_WILHELM_II_DESC:0 "빌헬름 2세 폰 호엔촐레른, '라이히스팍트의 아버지'는 독일 제국을 거의 50년 동안 통치했습니다. 그의 통치 아래에서 독일 제국은 세계 최고의 강대국으로 부상했으며, 이는 '독일의 황금기'로 불리고 있습니다. 세계대전 이후 독일은 경쟁국들 사이에서도 독보적이었고, 태양이 비치는 곳을 얻으려는 노력은 실현되었습니다. 지평선 너머로 먹구름이 몰려온다 해도, 빌헬름 황제는 국민과 군대, 그리고 이 둘을 지배하는 귀족들의 지지를 받고 있습니다."
+POLITICS_WILLY_3_DESC:0 "세계대전 동안 독일의 B집단군 지휘관으로서의 부진한 성과에도 불구하고, 황제 빌헬름 3세는 귀국하자마자 영웅으로 칭송받았습니다. 그의 아버지의 죽음과 함께, 전쟁 영웅 빌헬름이 독일의 새로운 카이저로서 제위에 올랐습니다. 빌헬름 황제는 쿠르트 폰 슐라이허의 친구이자 동지이며, 통치에 있어 귀족들이 중요하다고 주장하고 있습니다."
+POLITICS_ALFRED_HUGENBERG_DESC:0 "크루프 AG의 전 회장인 알프레드 후겐베르크는 '융커'로 알려진 독일 귀족 산업가 중 가장 많은 일을 벌이는 자입니다. 후겐베르크는 독일인들이 거주하는 모든 토지의 통일을 장려하는 목적으로 20세기가 시작되기 직전에 범국민주의적인 전독일연맹을 창설했으며, 심지어 가장 위험한 정치적 상황에서도 독일 의회의 민주화를 완전히 반대합니다. 사실상 독일의 국가원수인 후겐베르크는 독일과 반대자들 모두에게 융커의 철권과 같은 의지를 내세우려고 하고 있습니다."
+
 # Crete stuff at the bottom
 
 ### Temporary ###
@@ -236,6 +241,7 @@ GER_agricultural_mitteleuropa_help_tt:0 "§R나라가 결딴나고 있습니다.
 GER_csavol_tt:0 "Two volunteer divisions will arrive in Detroit."
 GER_received_equipment_10000:0 "We will receive 10000 units of infantry equipment."
 GER_OTT_victory:0 "The Axis has capitulated."
+GER_cannot_join_until_WK:0 "§R[From.GetName] cannot join the [ROOT.GetFactionName] before the Weltkrieg.§!"
 
 ### Opinion Modifiers ###
 sri_lanka:0 "제국주의 괴짜"
@@ -934,34 +940,12 @@ GER_mitteleuropa_brigades_desc:0 "유럽위원회는 통화와 산업을 다룰 
 GER_ostwall:0 "동부 방벽 확장"
 GER_ostwall_desc:0 "우리 동부 동맹국은 러시아 곰들의 침략에 극히 취약합니다. 우리는 우리 군대가 도착하기 전에 동맹들에게 전투의 기회를 주기 위해 동부 방벽을 확장해야 합니다."
 
-GER_kaisergipfel:0 "황제 정상회담"
-GER_kaisergipfel_desc:0 "오스트리아 황제와의 차이점을 제쳐 놓을 때입니다. 소위 '황제 정상회담'을 개최함으로써 우리는 마침내 최근 있었던 양국간 긴장을 없애고 새로운 협력 관계를 시작할 것입니다."
-
-GER_paneuropa:0 "범유럽의 꿈"
-GER_paneuropa_desc:0 "우리는 너무 오랫동안 작게 생각해왔습니다. 유럽의 많은 주요 기관들의 저명한 학자들과 주요 인물들이 범유럽이라 불리는 새로운 질서를 요구하고 있습니다. 아마 이는 고려해 볼 만한 가치가 있는 아이디어입니다."
-
-GER_russia_treaty:0 "또 다른 재보장 조약"
-GER_russia_treaty_desc:0 "우리는 러시아 질문을 너무 오랫동안 무시했습니다. 더 이상 그들은 단지 자신들의 옛 자아의 그림자를 부끄럽게 여기지 않았습니다. 우리는 인정할만큼 혐오스럽고 세계 권력입니다. 우리는 1887 년과 마찬가지로 우리와의 조약 협상을 고려해야하며,이를 통해 우리는 침략을 우리와 적을 멀리 할 수 있습니다."
-
-GER_waitasec:0 "오스트리아의 문제거리를 돕다"
-GER_waitasec_desc:0 "우리는 현 상황에서 벗어날 수 있도록 오스트리아를 도와야 합니다. 그들과 의견이 다를 수도 있지만, 오스트리아는 여전히 황제의 친구이기 때문입니다."
-
-GER_stahp:0 "보헤미아의 독일인"
-GER_stahp_desc:0 "수세기 동안 독일인들은 보헤미아의 주데텐란트에서 평화롭게 살았습니다. 우리는 그들의 운명을 고려해야 합니다."
-
-GER_yemen_deal:0 "예멘과의 거래?"
-GER_yemen_deal_desc:0 "우리는 현재 예멘 영토를 홍해 무단 침입을 막는 수호자로써 지키고 있습니다. 우리는 황제의 손에 인도되는 대가로 이 땅의 반환을 제안할 수 있습니다."
-
 GER_poland_war:0 "송환 명령"
 GER_poland_war_desc:0 "폴란드는 유럽에서 외교적으로 너무 오랫동안 이상했습니다. 세계대전이 끝난 이래로 폴란드는 독일과 오스트리아 세력 사이 정치적 공백에 갇힌 상태였습니다. 이제는 적절한 독일의 체제가 폴란드에 돌아 올 때가 되었습니다. 강력한 외교적 노력이나 무력으로 폴란드는 원래 속해있던 독일의 영토로 돌아 올 것입니다."
 
-GER_poland_not_allied_tooltip:0 "§Y[10.Owner.GetName]§!(이)가 우리의 동맹이 아니거나 §Y[AUS.GetNameDef]§!의 동맹임"
-GER_poland_owns_plock_tooltip:0"§Y[10.Owner.GetName]§!(이)가 §Y[98.GetName]§! 소유 중"
-GER_at_war_with_poland_tooltip:0 "§Y[10.Owner.GetName]§!(와)과 전쟁 중"
-GER_poland_friendly_tooltip:0 "§Y[10.Owner.GetName]§!(이)가 친선적인 정부를 가지고 있고 동맹에 속해있지 않음"
-GER_poland_ally_tooltip:0 "§Y[10.Owner.GetName]§!(이)가 우리의 동맹이거나 종속국임"
-GER_poland_refused_strip_tooltip:0 "§Y[10.Owner.GetName]§!(이)가 국경회랑 이양을 거부함"
-GER_poland_hostile_tooltip:0 "§Y[10.Owner.GetName]§!(이)가 적대적인 정부를 가짐"
+poland_refused_demands:0 "The border strip was not ceded"
+GER_poland_hostile_tooltip:0 "§Y[POL.GetName]§! has a hostile government"
+GER_poland_hostile_tooltip_NOT:0 "§Y[POL.GetName]§! does §Rnot§! have a hostile government"
 
 GER_poland_alliance:0 "폴란드와 유대 강화"
 GER_poland_alliance_desc:0 "폴란드와의 외교 관계를 개선하려는 초기의 노력은 어느 정도 성공을 거두었습니다. 폴란드도 과거의 분쟁을 해결하고 지난 20년간의 정치적 교착 상태를 깨기를 바라고 있는 듯 합니다. 폴란드에 적절한 외교 사절을 보내면 상호 관계를 고취되고 폴란드가 결국에는 우리 영향권으로 들어올 수 있는 토대가 마련될 것입니다."
@@ -971,9 +955,6 @@ GER_poland_strip_for_me_baby_desc:0 "세계대전 중에, 에리히 루덴도르
 
 GER_poland_strip_core:0 "접경 지역 통합"
 GER_poland_strip_core_desc:0 "폴란드 접경 지역은 확고하게 통제되고 있습니다. 루덴도르프의 오래된 계획 중 나머지 절반을 시행하여 이 지역에 정착하려는 독일인들을 독려할 때가 왔습니다. 의심의 여지없이 현지 폴란드인들의 저항이 있겠지만, 이 지역에 독일 보병 부대의 강력한 존재는 최악의 범죄자들을 단속할 것입니다."
-
-GER_intervene_balkans:0 "발칸 개입"
-GER_intervene_balkans_desc:0 "남은 지원만으로는 더 이상 충분하지 않습니다. 카이저께서는 불가리아가 거인으로 남기를 원하십니다!"
 
 GER_oil:0 "석유는 흘러야 한다"
 GER_oil_desc:0 "우리의 식민제국은 몸이고 석유는 제국을 돌아가게 하는 피입니다. 재난을 피하려면 우리는 공급을 확보하고 유지해야 합니다."
