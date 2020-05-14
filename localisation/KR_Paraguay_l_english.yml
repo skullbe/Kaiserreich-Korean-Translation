@@ -2,6 +2,10 @@
 
 paraguay_focus:0 "파라과이 중점계통도"
 
+### Leaders ###
+POLITICS_ESTIGARRIBIA_DESC:0 "José Félix Estigarribia, the Hero of the Chaco War, was internationally educated in both military and agricultural affairs. Estigarribia overthrew the dictator Rafael Franco and ended the societal chaos which marked Liberal rule before his ascendence. However, a romantic nationalist, Estigarribia has only encouraged extreme movements which seek to ultimately depose him. Whether he survives politically is an open-ended question that time alone shall answer."
+POLITICS_ESTIGARRIBIA_RETURNED_DESC:0 "José Félix Estigarribia, the Hero of the Chaco War, was internationally educated in both military and agricultural affairs. Estigarribia overthrew the dictator Rafael Franco and ended the societal chaos which marked Liberal rule before his ascendence.\nWith the return of democracy, Estigarribia's political career at first seemed to have come to an end. Estigarribia, however, has defied expectations and again risen through the ranks of the liberal party. Democratically elected, his hold on the state now is no where near as great as it once was, and though some fear he shall again seize dictatorial power, the masses cheer on the ever adaptable Hero of the Chaco War."
+
 PAR_pensions:0 "군인 연금"
 PAR_prussia:0 "군부 영향력"
 PAR_bm:0 "검은 월요일"
@@ -125,9 +129,9 @@ PAR_export_focus_economy_desc:0 "The Paraguayan market is quite small, but the G
 PAR_increase_yields:0 "광산 확충"
 PAR_increase_yields_desc:0 "The mining sector is relatively small, but even then the Chaco still has quite important resource deposits. We need to increase the productivity of the mining sector so that we can export more primary resources."
 PAR_cut_veterans_pensions:0 "참전용사연금 삭감"
-PAR_cut_veterans_pensions_desc:0 "The pensions paid to the veterans of Paraguay are simply too high for the state to support. We need to cut their pensions, even if this will severly anger all those effected."
+PAR_cut_veterans_pensions_desc:0 "The pensions paid to the veterans of Paraguay are simply too high for the state to support. We need to cut their pensions, even if this will severly anger all those affected."
 PAR_cut_military_incentives:0 "군사보조금 삭감"
-PAR_cut_military_incentives_desc:0 "Our military is quite enormous in comparison to the state. Our military spending is far too high, and it will not seize to rise. We need to cut military incentives before our state collapses under the burden of the military budget."
+PAR_cut_military_incentives_desc:0 "Our military is quite enormous in comparison to the state. Our military spending is far too high, and it has not stopped rising. We need to cut military incentives before our state collapses under the burden of the military budget."
 PAR_commonsense_pensions:0 "상식적인 연금제도"
 PAR_commonsense_pensions_desc:0 "No one would dare to cut all pensions, but at the same time our pension system is underfunded and we can't afford to spend more money. In these times of needs, we need some commonsense policies regarding our pension system."
 PAR_fiscal_responsability:0 "재정적 책무"
@@ -405,12 +409,12 @@ par.16.d:0 "It's election day in Paraguay, and the Colorado opposition mobilizes
 par.16.a:0 "The Liberals stay in power."
 par.16.b:0 "The Colorado's new candidate wins!"
 
-par.17.t:0 "1951 elections"
+par.17.t:0 "1951 Elections"
 par.17.d:0 "It's election day in Paraguay, and the Colorado opposition mobilizes against Estigarribia's so called 'Liberal' coalition. Very few foreign observers predict a loss of mandate by the incumbent, as his political power grew steadily in the past years. As the dust settles and ballots are counted, the winner is.."
 par.17.a:0 "The Liberals stay in power."
 par.17.b:0 "The Colorado's new candidate wins!"
 
-par.18.t:0 "1956 elections"
+par.18.t:0 "1956 Elections"
 par.18.d:0 "It's election day in Paraguay, and the Colorado opposition mobilizes against Estigarribia's so called 'Liberal' coalition. Very few foreign observers predict a loss of mandate by the incumbent, as his political power grew steadily in the past years. As the dust settles and ballots are counted, the winner is.."
 par.18.a:0 "The Liberals stay in power."
 par.18.b:0 "The Colorado's new candidate wins!"
