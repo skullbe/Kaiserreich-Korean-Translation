@@ -2,6 +2,10 @@
 
 saudi_focus:0 "네지드 중점계통도"
 
+### Leaders ###
+POLITICS_SAUDI_DESC:0 "Abdulaziz Ibn Saud, the mortal rival of many dead men, now turns his sights towards Saud bin Abdulaziz. This rivalry began when the young Ibn Saud was ejected from his tent in Riyadh by the Rashids. Never a pawn of Emirs, ibn Saud's father rallied the destitute men of the coastal Emirates to the great goal of his dynasty, Wahhabism. The Rashids were then ejected at the cost of many men, including their only western ally. Ibn Saud himself started many a feud the Saudis inherited, as he expressed hatred towards any Arab who turned their nose up towards Bedouins. This seed of anger had passed onto his men, who inherited his ferocity and may turn this youthful fury against him yet."
+POLITICS_SULTAN_OTAIBI_DESC:0 "An illiterate member of the Otaibah Bedouin tribe, Sultan came to head the so-called Ikhwan which formed a considerable portion of the forces of the house of Saud. Believing in a divine duty to spread Sunni fundamentalism, Sultan was none to pleased when the house of Saud attempted to limit his ability to raid neighbouring countries. Sultan now takes up arms against both his old allies in the house of Saud and the wider heathenous world."
+
 ### Parties ###
 SAU_totalist_party:0 "Alhizb Alshuyueiu Alearab"
 SAU_totalist_party_long:0 "Alhizb Alshuyueiu Alearab"
@@ -81,9 +85,9 @@ SAU_Ikwhan_Medina:0 "메디나 습격"
 
 ### Ideas ###
 SAU_ikh_aftermatch:0 "살라프파의 불만"
-SAU_ikh_aftermatch_desc:0 "이크완이 패전한 이후에도 여전히 많은 이들이 공개적으로 이크완에 지지를 표명하고 있으며, 일부는 또 다른 반란을 계획하고 있습니다. 무언가 조치를 취해야만 합니다"
+SAU_ikh_aftermatch_desc:0 "이크완이 패전한 이후에도 여전히 많은 이들이 공개적으로 이크완에 지지를 표명하고 있으며, 일부는 또 다른 반란을 계획하고 있습니다. 무언가 조치를 취해야만 합니다."
 SAU_heavy_jizya:0 "무거운 지즈야 세금"
-SAU_heavy_jizya_desc:0 "아라비아에 사는 모든 기독교도와 유대인은 자유와 평화를 보장받는 대가로 정당한 세금을 지불합니다"
+SAU_heavy_jizya_desc:0 "아라비아에 사는 모든 기독교도와 유대인은 자유와 평화를 보장받는 대가로 정당한 세금을 지불합니다."
 SAU_warriors_of_faith:0 "신앙의 전사"
 SAU_warriors_of_faith_desc:0 "아랍인 동지들을 해방해야 합니다! 거대한 투르크인과 우리의 앞을 가로막는 모든 이를 물리쳐야 합니다! 알라후 아크바르!"
 SAU_madrasahs:0 "살라프파 마드라사"
@@ -93,23 +97,25 @@ SAU_trading_expertise_idea_desc:0 "전문 무역 지식을 보유한 우리와 �
 SAU_food_imports_idea:0 "식량 수입"
 SAU_food_imports_idea_desc:0 "우리는 식량을 대량으로 수입하면서 미래를 위한 토대를 쌓고 있습니다."
 SAU_illiterate_populace:0 "문맹 인구"
-SAU_illiterate_populace_desc:0 "국민 대부분은 아닐 지라도, 많은 국민이 교육 수준이 심히 낮기 때문에 정부를 적절히 도울 수 없습니다"
+SAU_illiterate_populace_desc:0 "국민 대부분은 아닐 지라도, 많은 국민이 교육 수준이 심히 낮기 때문에 정부를 적절히 도울 수 없습니다."
 SAU_islamic_welfare:0 "이슬람식 복지"
 SAU_islamic_welfare_desc:0 "궁핍한 이들에게 기부를 전하는 일은 이슬람의 다섯 기둥 중 하나입니다. 수많은 가난하고 궁핍한 이들과 전쟁 고아들, 그리고 전쟁 미망인들은 우리의 지배 하에서 가난의 구렁텅이로 굴러떨어지지 않을 것입니다."
 SAU_backwards_economy:0 "구시대적 경제"
-SAU_backwards_economy_desc:0 "우리 경제는 여전히 소규모 농업과 목축업, 그리고 원유 무역에 기반하고 있습니다"
+SAU_backwards_economy_desc:0 "우리 경제는 여전히 소규모 농업과 목축업, 그리고 원유 무역에 기반하고 있습니다."
 SAU_religious_fervor_idea:0 "사기가 높은 부대"
 SAU_religious_fervor_idea_desc:0 "좋은 장비를 지급받은 의욕있는 우리 군대는 단순히 조국을 위해서 싸우는 것 뿐만이 아니라 성지와 신앙, 그리고 군주를 위해서 싸웁니다."
 SAU_new_arabian_army:0 "새로운 아라비아 군대"
-SAU_new_arabian_army_desc:0 "개혁된 군대는 정계로부터 독립적이면서 열의가 넘치고, 또 알라께서는 전장에서 우리에게 승리를 가져다주길 염원하고 계십니다"
+SAU_new_arabian_army_desc:0 "개혁된 군대는 정계로부터 독립적이면서 열의가 넘치고, 또 알라께서는 전장에서 우리에게 승리를 가져다주길 염원하고 계십니다."
 SAU_arabian_horsemanship_idea:0 "아라비아의 기마술"
-SAU_arabian_horsemanship_idea_desc:0 "최고의 마필로 무장하고 오랫동안 이어져 온 습격에 단련된 기병대는 국가의 부름에 답하여 세계를 덮치고 있는 전쟁에서 우리를 위해 싸울 것입니다"
+SAU_arabian_horsemanship_idea_desc:0 "최고의 마필로 무장하고 오랫동안 이어져 온 습격에 단련된 기병대는 국가의 부름에 답하여 세계를 덮치고 있는 전쟁에서 우리를 위해 싸울 것입니다."
 SAU_desert_logstics_idea:0 "사막에서의 보급"
-SAU_desert_logstics_idea_desc:0 "우리 군대는 우리나라의 지형을 최대로 이용하고 외지인들이 알지 못하는 가도를 이용하도록 훈련받았습니다"
+SAU_desert_logstics_idea_desc:0 "우리 군대는 우리나라의 지형을 최대로 이용하고 외지인들이 알지 못하는 가도를 이용하도록 훈련받았습니다."
 SAU_uniting_the_peninsula:0 "아라비아 통일"
 SAU_uniting_the_peninsula_desc:0 "라쉬드 가문의 개들은 죽었으며 아라비아 통일로 가는 길은 활짝 열려 있습니다. 앞으로 나아가 승리를 선언하십시오!"
 SAU_moral_police:0 "도덕 경찰"
+SAU_moral_police_desc:0 "Religious observance and public morality shall be enforced in order to keep our land pure."
 SAU_muslim_universities:0 "무슬림 대학"
+SAU_muslim_universities_desc:0 "Using public funds, we have expanded our higher learning institutions."
 
 ### Focuses ###
 
@@ -430,7 +436,7 @@ saud.152.t:0 "이크완 반란이 진압되다"
 saud.152.d:0 "이크완은 완전히 패퇴했고, 마지막 패잔병은 포위되었습니다."
 saud.152.a:0 "좋아, 귀찮은 일에서 벗어났군!"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 SAU_ARA_national_populist:0 "사우디아라비아"
 SAU_ARA_national_populist_ADJ:0 "사우디"
 SAU_ARA_national_populist_DEF:0 "사우디아라비아"
