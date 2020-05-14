@@ -764,7 +764,7 @@ PER_country_namechange_decision:0 "국명을 이란으로 변경"
 PER_country_namechange_decision_desc:0 "현대화에 대한 국내에서의 압력이 국제사회에서 우리나라를 칭할 때 구식 용어인 '페르시아' 대신, 우리가 우리나라를 부를 때의 명칭인 '이란'을 쓰자고 요구하고 있습니다. 왜 이게 논쟁의 주제가 되었는지 잘 모르겠습니다."
 PER_IRAN:0 "새로운 국명은 이란이다"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 PER_REP_totalist:0 "이란 사회주의 공화국"
 PER_REP_totalist_ADJ:0 "이란"
 PER_REP_totalist_DEF:0 "이란 사회주의 공화국"
