@@ -7,8 +7,7 @@ TRM_no_crackdown:0 "한국인 문제"
 JAP_threat:0 "일본이 우리를 배신함"
 JAP_FNG_exploit:0 "경제적 착취"
 
-### Factions ###
-co_prosperity_sphere:0 "공영권"
+### Research Groups ###
 japan_research_name:0 "이화학 연구소"
 japan_research_desc:0 "이화학 연구소는 공영권 내의 식민지와 동맹국의 질적 향상을 꾀하는 과학기관입니다."
 
@@ -75,6 +74,13 @@ JAP_may_war_with_indochina:0 "§Y인도차이나§!의 유효한 전쟁 목표�
 JAP_can_attack_india:0 "§Y인도§!의 유효한 전쟁 목표를 공격하는 §Y결정§!을 얻을 것입니다\n"
 JAP_may_war_with_siam:0 "§Y[SIA.GetNameDef]§!에 전쟁을 선포하는 §Y결정§!을 얻을 것입니다\n"
 JAP_no_training_help:0 "일본의 도움을 거절하다"
+JAP_returns_land:0 "§GJapan will any land that we have a claim or core of and they do not.§!\n"
+
+FNGJapanOutrageLevel:0 "격분한 봉천"
+
+JAP_FNG_support_tt:0 "§GThis will increase our influence in [FNG.GetNameDef], making it harder for them to oppose us in the future.§!\n"
+JAP_FNG_outrage_tt:0 "§RThis will reduce our influence in [FNG.GetNameDef], making it easier for them to oppose us in the future.§!\n"
+JAP_sow_chaos_tt:0 "파종 정책은 융통성을 유지함으로서 모든 중국 진영을 약하게 만드는데 중점을 둡니다.\n우리는 여러 다른 진영을 분류하고 지원해, 그들을 서로 싸우게 만들 것입니다.\n"
 
 JAP_fading_sun:0 "낙일"
 JAP_fading_sun_desc:0 "[JAP_fading_sun_desc_text]"
@@ -83,7 +89,7 @@ JAP_fading_sun_desc.other:0 "우리는 일본을 대다수 대륙 지역에서 �
 
 is_fully_controlled_by_JAP_or_war_ally_tooltip:0 "is fully controlled by §Y[JAP.GetNameDef]§! or an ally"
 
-## Scripted loc ##
+### Scripted ###
 JAP_ally1_name:0 "§Y[?global.asian_economic_sphere^0.GetFlag][?global.asian_economic_sphere^0.GetName]§!, "
 JAP_ally2_name:0 "§Y[?global.asian_economic_sphere^1.GetFlag][?global.asian_economic_sphere^1.GetName]§!, "
 JAP_ally3_name:0 "§Y[?global.asian_economic_sphere^2.GetFlag][?global.asian_economic_sphere^2.GetName]§!, "
@@ -119,8 +125,8 @@ JAP_ally_no_sphere:0 "None"
 JAP_not_invest_within_last_year:0 "지난 1년간 투자 대상이 되지 않음"
 
 ### Ideas ###
-JAP_rising_sun:0 "욱일"
-JAP_rising_sun_desc:0 "마침내 세계 제국들 사이에 일본이 자리잡을 때가 왔습니다. 우리는 서구 제국주의로부터 아시아를 해방시키고 경쟁자들에게서 전리품을 얻어낼 것입니다. 태양이 떠오른 것입니다!"
+JAP_rising_sun_idea:0 "욱일"
+JAP_rising_sun_idea_desc:0 "마침내 세계 제국들 사이에 일본이 자리잡을 때가 왔습니다. 우리는 서구 제국주의로부터 아시아를 해방시키고 경쟁자들에게서 전리품을 얻어낼 것입니다. 태양이 떠오른 것입니다!"
 fengtian_exploitation:0 "만철 배당금"
 fengtian_exploitation_desc:0 "봉천 경제에서 가지는 사실상의 독점적인 지위를 통해 만철은 엄청난 수익을 산출해내고 있으며, 정부 소유의 주식 배당금과 직접 얻는 수익금을 각각 할당하는 방식으로 일본에 이윤을 제공합니다."
 GER_KOR_support:0 "독일 군사고문단"
@@ -173,8 +179,8 @@ JAP_india_support:0 "일본의 자문단"
 JAP_trade_embargoed:0 "일본의 금수조치"
 
 ### Focuses - Foreign - Base ###
-JAP_SUN_RISE:0 "욱일"
-JAP_SUN_RISE_desc:0 "국내 정치가 어쨌던간에, 대일본 제국은 세계 무대에 당당히 서 있습니다. 일본군은 천황의 부름에 응할 준비가 되었으며, 우리 국민들은 일본의 영광을 위해서라면 기꺼이 모든 것을 희생할 것입니다. 유일한 문제는 그게 언제일지, 어디서일지 뿐입니다."
+JAP_rising_sun:0 "욱일"
+JAP_rising_sun_desc:0 "국내 정치가 어쨌던간에, 대일본 제국은 세계 무대에 당당히 서 있습니다. 일본군은 천황의 부름에 응할 준비가 되었으며, 우리 국민들은 일본의 영광을 위해서라면 기꺼이 모든 것을 희생할 것입니다. With the world focused on the American civil war, the only question is where."
 JAP_fight_giants:0 "팔굉일우"
 JAP_fight_giants_desc:0 "'세계 무대에서 일본의 적절한 지위'란 오랫동안 군사학자들과 사상가들의 논쟁거리였지만, 모두가 동의하는 바 역시 있습니다. 천하는 한 지붕 아래 있어야 하지 않겠습니까?"
 
@@ -221,9 +227,6 @@ JAP_plant_cherry_blossoms:0 "벚나무 식목"
 JAP_plant_cherry_blossoms_desc:0 "우리는 중국에서 많은 피를 흘렸고, 결코 쉽지 않은 과정을 거쳐 마침내 이권을 쟁취해냈습니다. 우리는 절대로 이 전리품을 장쭤린이나 민족주의에 우쭐한 군벌들이 훔쳐가도록 두지 않을 것입니다. 우리는 현재 영유 중인 지역을 계속해서 통제할 것이며, 벚나무를 심는 것으로 상징되는 일본인들의 정착에 개방될 것입니다."
 JAP_destroy_legations:0 "공사관 도시 해체"
 JAP_destroy_legations_desc:0 "[LEC.GetNameDef]의 독선적인 서양인들은 그들의 의회와 권력 기관에서 일본인을 배제하기로 결정했습니다. 우리는 그들에게 뻔뻔함의 대가를 보여줄 것입니다."
-FNGJapanOutrageLevel:0 "격분한 봉천"
-JAP_outrage_tt:0 "이것은 [FNG.GetNameDef](을)를 분노케 할 것입니다."
-JAP_sow_chaos_tt:0 "파종 정책은 융통성을 유지함으로서 모든 중국 진영을 약하게 만드는데 중점을 둡니다.\n우리는 여러 다른 진영을 분류하고 지원해, 그들을 서로 싸우게 만들 것입니다.\n§R장쭤린은 이에 격노할 것입니다!§!"
 
 ### Focuses - Foreign - Factions ###
 JAP_own_faction:0 "공영권 수립"
@@ -319,16 +322,12 @@ changchun_industry_investment:0 "지린 공업 단지"
 
 ### Military ###
 JAP_ichigo_mission:0 "이치고 작전"
-JAP_ichigo_mission_desc:0 "반자이!"
+JAP_ichigo_mission_desc:0 "The time has come for a campaign that will make or break the war effort; a decisive series of battles backed by the full might of the Imperial Japanese Army. There can no longer be any half-measures. Tennou Heika Banzai!"
 
 ### Events ###
 japfor.1.t:0 "만철이 역대 최고 수입을 기록하다"
 japfor.1.d:0 "1928년 중국 내전이 종결되었고, 독일의 식민지로부터 우리의 세력권을 보호하기 위해 우리가 개입한 이후 장쭤린의 봉천군벌은 자신들만이 중국 전 국토의 유일한 합법적인 공화국 정부라고 선언했습니다. 이후 정부는 '일본 제국과의 불가분한 관계'의 발전을 명령하는 칙령을 공포했고, 효과적인 대리자로서의 역할을 하며 봉천 정부에 대한 우리의 영향력을 강화시키는 여러 프로그램을 지원해왔습니다. 그 결과 우리는 군대를 주둔시켜 봉천에 대한 많은 영향력을 유지하고 있습니다. \n\n 우리의 노력의 핵심은 1906년부터 만주에서 운영되었던 '남만주철도주식회사', 줄여서 '만철'입니다. 만철은 양국의 대리자라는 역할에 앞서, 우리 이익에 대한 강력한 상징이기는 하지만, 그 이후 중국의 동북부를 일본의 주요 석탄과 철강 공급원이 되도록 유도하고, 만주지역이 전세계 대두 생산량의 반 이상을 차지하게 만드는 등, 사실상 만주 경제의 모든 측면을 발전시키고 또한 착취하는 역할을 맡게 되었습니다. 그리고 만철이 오늘 사상 최고 수익을 발표했습니다."
 japfor.1.a:0 "좋아!"
-
-japfor.2.t:0 "Economic Exploitation of Fengtian is no longer possible"
-japfor.2.d:0 "Terrible news! Due to our loss of control over the Fengtian Government, we can no longer exploit its resources and industry to support our own."
-japfor.2.a:0 "Drat!"
 
 japfor.3.t:0 "일본의 군사 훈련 제안"
 japfor.3.d:0 "[From.GetNameDef] 대표단이 오늘 우리 병력을 '필요한 수준'으로 만들기 위한 군사 훈련을 제공하겠다고 했습니다. 거부하기 어려운 제안이군요..."
@@ -407,7 +406,7 @@ japfor.29.d:0 "아시아는 번영할 것입니다! 우리는 우리와 도쿄 �
 japfor.29.a:0 "회의에 발의하라."
 
 japfor.30.t:0 "도쿄 회담: 일본의 더 심층적인 경제적 연계 요구"
-japfor.30.d:0 "아니면 '도쿄가 경제 통합을 요구하다'라고 해야 할까요? 어느 쪽이든, 우리가 합의한 단순한 무역 정책을 넘어서는 더 깊은 경제 유대에 대한 일본의 열망을 설명하는 설명회가 회담 전에 개최되었습니다. 이것은 큰 진전이기도 하지만, 장기적으로 볼 때는 우리보다 [Root.GetAdjective] 경제에 더 큰 이익이 될 수도 있습니다."
+japfor.30.d:0 "아니면 '도쿄가 경제 통합을 요구하다'라고 해야 할까요? 어느 쪽이든, 우리가 합의한 단순한 무역 정책을 넘어서는 더 깊은 경제 유대에 대한 일본의 열망을 설명하는 설명회가 회담 전에 개최되었습니다. 이것은 큰 진전이기도 하지만, 장기적으로 볼 때는 우리보다 [From.GetAdjective] 경제에 더 큰 이익이 될 수도 있습니다."
 japfor.30.a:0 "동의한다!"
 japfor.30.b:0 "안 된다! (회담을 떠난다)"
 
@@ -1028,8 +1027,51 @@ japfor.453.d:0 "비겁한 [From.GetAdjective] 정부는 우리의 금수 조치�
 japfor.453.a:0 "그렇게 나왔나!"
 
 japfor.454.t:0 "공격을 준비하는 일본"
-japfor.454.d:0 "계획 수립, 탄약 비축을 비롯한 개전 징후 보고가 쏟아져 들어오고 있습니다. 몇 주 안으로 완편된 일본군 공세에 맞서게 될 것으로 보입니다."
+japfor.454.d:0 "Increasingly frequent reports from Tokyo, Yokohama, and Nagasaki have begun to build a worrying picture; one of plans being laid, ships outfitted, and ammunition stocked. These are preparations for war. In a matter of weeks we may face the full force of the imperial Japanese military."
 japfor.454.a:0 "준비할 시간이 얼마 없으니 천금같이 활용해야 한다."
+
+japfor.455.t:0 "Japan seems to plan an attack"
+japfor.455.d:0 "We have gathered intelligence suggesting Japan is seeking to take over our colony in the Dutch East Indies. Our military experts warn that we might not be able to fend off such an invasion, considering the state of the Japanese and government navies and the size of the Japanese military. They suggest that we go to the kaiser and beg him for help: their interest, maintaining the status-quo, aligns with ours and a Japanese takeover would threaten their possessions too. This might be our best shot at maintaining our colonial possession."
+japfor.455.a:0 "Message Berlin!"
+japfor.455.b:0 "Surely this isn't necessary..."
+
+japfor.456.t:0 "The Dutch beg for help"
+japfor.456.d:0 "The Dutch discovered evidence that the Japanese are planning to invade their colony; realising that they would never be able to defend their colony with their largely overextended colonial army and limited naval assets compared to Japan. They point out however, that a Japanese takeover of their colony would severely upset our own defensive situation, and there is no doubt at all that the Japanese seek to evict us from the region as well!"
+japfor.456.a:0 "We shall help you!"
+japfor.456.b:0 "Clog-wearers shouldn't have colonies anyhow..."
+
+japfor.457.t:0 "Germany helps out"
+japfor.457.d:0 "The Germans have agreed to help protect the Dutch East Indies from our joint Japanese menace that's seeking to take our colony away."
+japfor.457.a:0 "A toast to our friends!"
+
+japfor.458.t:0 "Germany refuses to protect us!"
+japfor.458.d:0 "The Germans let us know that it would not be in their best interest to give their protection to our colonial possessions in the indies. It seems we stand alone!"
+japfor.458.a:0 "We can defend the Indies ourselves, right?"
+
+japfor.459.t:0 "Indonesia stands alone"
+japfor.459.d:0 "Unable or unwilling to get help, Indonesia now sits alone. Their military is a fraction of the size of ours and their leaders weak; nothing shall stop us."
+japfor.459.a:0 "Banzai!"
+
+japfor.460.t:0 "Indonesia resists with German backing"
+japfor.460.d:0 "The Germans have agreed to help protect the Dutch East Indies from us! While we still can attack, we should think carefully about if we are willing to start such a war."
+japfor.460.a:0 "We will not be swayed."
+japfor.460.b:0 "Perhaps now is not the time."
+
+japfor.461.t:0 "Japan Pursues Divide and Conquer Strategy"
+japfor.461.d:0 "It seems that Japan's long-standing claims to the legitimacy of our government, not to mention 'fraternal asian brotherhood', were nothing more than lip service. They are now moving towards a divide and conquer strategy for all of China. Our China. While this does signal that war with them might come sooner than we think, it has also damaged the standing of the Concordia Association, giving us more room to manouvre."
+japfor.461.a:0 "They will regret this."
+
+japfor.462.t:0 "Japan Pursues the Burn to Ash Strategy"
+japfor.462.d:0 "Word of abuses by Japanese troops against Chinese civilians have made their way to our ears for some time now. The Japanese Consulate in Mukden always assured us that these were exagerrated, and that where such crimes did occur they were the fault of indisciplined troops; an exception rather than the norm. However, Japan has now done the unthinkable.  It has has not only signalled open support for these horrific atrocities, but it has codified them as part of an official strategy. Such unparalleled barbarism cannot be tolerated, and we cannot afford to be painted guilty by association. Fortunately the pro-Japanese Concordia Association will have a hard time explaining this one away, will lose influence in our government."
+japfor.462.a:0 "We must seriously consider a new direction."
+
+japfor.463.t:0 "Japan Revals its Ambitions"
+japfor.463.d:0 "Referencing unspecified 'recent events on the continent' as justification, the Japanese Government has announced its intent to begin a comprehensive colonial programme centered on the Northeast, and including all areas newly under Japanese administration. Soon, Sakura trees may line the Zhaode Dajie in Shenyang and Tiannanmen in Beijing. Our exact position in this new order is unclear, but we will not suffer the same fate as Korea; the Japanese must go, Concordia Association and all."
+japfor.463.a:0 "Japan has made its choice."
+
+japfor.464.t:0 "Japan Rewards Our Loyalty"
+japfor.464.d:0 "In their wisdom, the Japanese government has decided to reward our loyalty, returning back to us land that is rightfully ours. While we are of course pleased at such a gesture, we must be careful; the Concordia Association has gained much support as a result, which will make it more difficult for us to oppose Japan in the future, should we wish to."
+japfor.464.a:0 "That land should have been ours in the first place."
 
 ### Fengtian Events ###
 japfeng.1.t:0 "만주의 우리 영향력"
