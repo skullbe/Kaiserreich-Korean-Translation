@@ -6,6 +6,11 @@ KR_Indochina: "인도차이나 중점계통도"
 #Indochina Localization By VietcongTrap and Pietrus
 ####################################################
 
+POLITICS_PHAM_VAN_DONG_DESC:0 "1924년에 팜반동은 중국 남부로 여행을 갔습니다. 그곳에서 그는 호치민을 만났고, 곧 호치민이 신뢰하는 측근이자 다른 측근들의 지도자격이 되었습니다. 그는 베트남 생디칼 운동의 비극적인 종말을 목격하고는 프랑스로 도망갔습니다. 망명 중에 그는 프랑스 자코뱅의 이념인 전위주의에 관심을 갖게 되었고, 곧장 이 전위대 집단이 혁명을 주도하고 있는 규율있는 지식인 집단이라는 생각이 그를 사로잡았습니다. 1931년 연맹 해산 후, 그는 탄비엣당을 창당하고는 식민지에 침투하기 시작했다. 대부분의 동료들은 그가 항상 부지런하고 활동적이고, 믿음직스럽고, 사랑스런 사람일 뿐만 아니라 이상적인 조직자이자 관리자라는 것을 알게 됩니다. 반면에, 그의 적들은 당과 국가 기관을 잘 운영해내는 그의 능력을 두려워합니다."
+POLITICS_TA_THU_THAO_DESC:0 "This young radical almost shouldn't have been the chairman of the prestigious Indochinese Revolutionary League, but he is and he is well respected by his colleagues. Ta Thu Thau became a prominent activist in Saigon in the mid-1920s and joined the League in its darkest days. After the split in 1931 gave another heavy blow to the League, Ta Thu Thau rose to power. This sharp intellectual has intentionally modelled Ho Chi Minh's leading style since his assuming of the title of Chairman, trying to calm factional tensions and strengthen solidarity. The recovery of the League from the collapse largely credited to his efforts. Now, he is determined to achieve the unfulfilled dream of the martyrs——build syndicalism in Indochina."
+POLITICS_NGUYEN_AN_NINH_DESC:0 "응우옌안닌은 인도차이나의 진정한 민주주의의 정신적 지주로 인도차이나 지식인들에게 존경받습니다. 그는 소르본에서 공부했고 1919년의 프랑스 혁명에도 참여했습니다. 1922년, 응우옌안닌과 응우옌터투옌 그리고 응우옌아이콕(호치민)이 마르세유에서 만나서 그들의 모국의 해방을 계획하기로 결정했습니다. 응우옌안닌는 1924년에 인도차이나로 돌아왔고 급진적인 선동으로 독일 경찰에 의해 체포되었습니다. 인도차이나 생디칼리슴의 탄압을 목격한 후, 응우옌안닌은 인도차이나 혁명은 농민들의 자발적인 봉기에 기초해야 한다는 결론을 내렸습니다. 후에 그는 전통적인 비밀결사를 모델로 하는 열망당 활동을 시작했습니다. 그는 종종 스님이나 약초꾼으로 변장하여 스스로 만든 연고를 팔고, 몰래 회원을 모집해 혁명의 씨앗을 뿌려나갔습니다. 이런 활동으로 그는 메콩델타 농민들 사이에서 큰 인기를 얻었습니다. 인도차이나 사람들의 성격을 완전히 바꾸려는 그의 꿈은 가까운 미래에 결판이 나지 않을 수도 있지만, 그의 문화적 깨달음, 자율성, 자발성에 대한 강조는 인도차이나 사회를 탈바꿈시킬 것입니다."
+POLITICS_NGUYEN_TAI_HOC_DESC:0 "Nguyen Tai Hoc is the founding leader of the Viet Nam Quo Dan Dang, the Vietnamese Nationalist Party. He was a supporter of colonial reformism, but later disappointed at the empty promises of the colonial regime and became the leader of revolutionary nationalism. Although the Yen-Bai mutiny failed, his successful escape from German police after that tragedy adds another chapter in his heroic deeds. Influenced by Chinese revolutionary Sun Yat-sen, he envisages a democratic republic truly for people's welfare."
+
 ### Ideas ###
 INC_vietminh:0 "베트남 독립동맹회(Viet Minh)"
 INC_vietminh_desc:0 "'비엣민', 또는 '베트남 독립동맹회'이라고 불린 이 단체는 베트남의 즉각적인 독립을 외치는 집단들의 연맹입니다.이들은 공통적으로 모든 민중의 통합을 지지하지만 세세한 사상들은 저마다 다르기 때문에 결정을 내리기까지는 매우 까다롭습니다. 또한 크메르인과 라오스인들은 이 단체에 대해서 의심을 품고 있습니다..."
@@ -1110,7 +1115,7 @@ INC_Caravelle_Manifesto_desc:0 "Following the liberation of Indochina, a delegat
 INC_Heavy_Industry_Cult:0 "Heavy Industry Cult"
 INC_Heavy_Industry_Cult_desc:0 "Why Indochina was so poor and colonised by European? It's because we don't have heavy industry. To protect our independence, we need more factories, more!"
 INC_Police_State:0 "Police State"
-INC_Police_State_desc:0 "Secret police is the shield and sword of the worker's state. We have invited Georgian comrades to teach their experience of how to build an advanced police state. Counter-revolutionaries can never escape our surveillance."
+INC_Police_State_desc:0 "Secret police is the shield and sword of the worker's state. We have invited Sorelian comrades to teach their experience of how to build an advanced police state. Counter-revolutionaries can never escape our surveillance."
 INC_Militarist_Ethos:0 "Militarist Ethos"
 INC_Militarist_Ethos_desc:0 "While protest and demonstration accomplished nothing, the freedom of Indochina was ultimately won through armed struggle. So too must the future of our nation must be secured by the military. If Indochina is to remain free, the people must always be vigilant and instilled with the spirit of martial prowess and unyielding gallantry."
 INC_Commando_Assault:0 "Commando Assault"
@@ -1289,7 +1294,7 @@ INC_Special_Relationship_With_France_desc:0 "The Commune of France, the beacon o
 INC_Strengthen_Our_Tie_with_Calcutta:0 "Strengthen Ties With Calcutta"
 INC_Strengthen_Our_Tie_with_Calcutta_desc:0 "Calcutta is the centre of Asian revolution, we should consolidate our friendship with Bharatiya Commune."
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 INC_DAI_national_populist:0 "다이비엣 공화국"
 INC_DAI_national_populist_ADJ:0 "비엣"
 INC_DAI_national_populist_DEF:0 "다이비엣 공화국"
