@@ -2,6 +2,17 @@
 
 BEL_focus: "독일령 벨기에 중점계통도"
 
+### Leaders ###
+POLITICS_ADALBERT_I_DESC:0 "아델베르트 폰 호엔촐레른의 플랜더스-왈로니아 국왕 재임기간은 꽤 특이했습니다. 대관식이 아니라 헌법에 대한 맹세를 통해 즉위하였고, 또한 대중의 성향에 맞춰 가톨릭으로 개종한 아델베르트는 오랫동안 국민들의 존경을 받고 싶어했습니다. 그러나 독일 정권 하에서 수년간 지속되어 온 탄압과 기존 벨기에 왕정보다도 더 절대적 형태의 군주제에 집착하는 경향을 보이는 아델베르트는 국민들 사이에서 큰 반독 정서를 야기했고 곧장 멸시받게 되었습니다."
+POLITICS_ALBERT_I_DESC:0 "대전 당시 예셀에서 독일 침략군을 몰아낸 국왕인 알베르트 폰 작센코부르크고타가 캐나다 망명 생활을 끝내고 드디어 벨기에로 귀환했습니다. 대전 후 처음으로 알베르트의 자동차 행렬이 브뤼셀에 도착했을 때, 전국의 교회 종은 우렁차게 울렸고, 많은 벨기에인들은 기쁨에 겨워 눈물을 흘렸습니다. 그러나 벨기에 내의 친독파들과 생디칼리스트들은 국왕의 귀환을 한탄하고 새로운 벨기에 정부를 약화시킬 음모를 꾸미고 있습니다. 알베르트는 이제 벨기에를 더럽혀왔던 깊은 상처를 치료하고 국민들에게 새로운 희망을 선사해야만 합니다."
+POLITICS_JORIS_SEVEREN_DESC:0 "Joris Van Severen, Flemish leader who begrudgingly cooperated with the occupying Germans, has assumed control of the country. His Verdinaso has a radical vision for the direction of Belgium, including territorial expansion and the promotion of Catholicism in all aspects of society. Under van Severen, a new Belgium will certainly arise; though that new nation may be incredibly different from the one that came before it."
+POLITICS_PAUL_ZEELAND_DESC:0 "Paul van Zeeland and the Catholic Party led Flemish resistance to German control. With electoral victory in the now restored Belgium, van Zeeland endeavours to establish Christian Democracy in Belgium, and reconcile that which divides Belgium's people, Flems and Walloons alike. Principle among his policy goals is the betterment of working conditions for both farmers and industrial laborers."
+POLITICS_BELGIAN_PARLIMENT_DESC:0 "The Belgian Parliament, successor to the Flemish Council which advised the German controlled government of Flanders-Wallonia, has assumed power in the recently restored Belgium. While the Government is restructured and elections prepared, Parliament acts not just as a legislature, but collectively as interim head of state."
+POLITICS_HENRIK_MAN_DESC:0 "Henrik de Man, a moderate social democrat, has consolidated his leadership of the Belgian Workers' Party, and now achieved victory in Belgium's latest national elections. De Man advocates limited economic nationalisation and the empowerment of union leaders to a governmental advisory role. Belgium, De Man believes, must actively serve its people and promote fair competition; his reforms, though controversial, may yet decrease economic hardship and political radicalisation in Belgium."
+POLITICS_JOSEPH_JACQUEMOTTE_DESC:0 "Joseph Jacquemotte, creator and editor of the leftist pre-Weltkrieg newspaper 'L'Exploité', and his Syndicalist faction of the Belgian Workers' Party have achieved victory both within the party, and now, Belgium itself. Jacquemotte advocates rural industrialisation and the collectivisation of industry and agriculture alike. A Belgium led by Jacquemotte is certain to see drastic societal and economic upheaval."
+POLITICS_PAUL_HENRI_SPAAK_DESC:0 "Paul Henri Spaak, once a prominent lawyer, believes that, above all else, to truly serve the people, government bureaucracy must be efficient. Spaak is now in control of the Belgian Workers' Party, and the party's subsequent victory in the most recent Belgian national elections has elevated him to head of state. Spaak has already begun to greatly decrease the bloated Belgian civil service and introduced new incentives to prospective entrepreneurs; as a result, optimism seems to be steadily increasing in Belgium."
+POLITICS_PAUL_EMILE_JANSON_DESC:0 "Paul-Émile Janson and his Liberal Party has achieved victory in Belgium's latest national elections. Janson is an advocate of laissez faire economics and free trade; all aspects of society, to Janson, have been far too regulated by past administrations. Belgium, under Janson, is quickly becoming one of the most economically free nations in Europe and the world."
+
 ### Ideas ###
 BEL_Antwerp_Harbor:0 "네덜란드의 베스터셸데 통제"
 BEL_Antwerp_Harbor_desc:0 "벨기에 혁명군이 지우스-플랜더스을 확보하는데 실패하고서부터 우리는 안트베르펀 항구의 확장을 위해 네덜란드와 협상할 수밖에 없었습니다. 우리 두 국가 사이에 긴장이 고조된다면, 우리의 주요 무역 중심지는 필히 심각한 타격을 입을 것입니다."
@@ -595,7 +606,6 @@ BEL_Treaty_of_Geel:0 "헤일 조약 제안"
 BEL_Internationale_decisions:0 "대 인터내셔널 정책"
 BEL_Internationale_decisions_desc:0 "The Internationale is our first line of defence in the struggle of the Working Class to break the chains of oppression and be the vanguard of a new era. Through assistance of its different structures and a close association between our military and that of its strongest partner, the Commune of France, we hope to achieve an end to Imperialism."
 BEL_Ally_Internationale:0 "인터내셔널에 가입"
-BEL_Join_Phalanstere:0 "팔랑스테르 인터내셔널을 지원"
 BEL_Industrial_Program:0 "Allocate PLW funds"
 BEL_Joint_Internationale_Drills:0 "인터내셔널 합동 군사훈련"
 BEL_Assist_Damocles_Project:0 "다모클레스 계획에 가담하다"
@@ -1079,12 +1089,12 @@ bel.461.a:0 "그들의 제안을 받아들이고 아렐 회의를 조직하라."
 bel.461.b:0 "독일은 굴복하지 않는다. 즉시 공격하라!"
 
 bel.462.t:0 "벨기에가 더 많은 것을 요구하다"
-bel.462.d:0 "우리가 그들의 거의 모든 요구에 동의했고 합의점을 찾기 위해 최대한 배려해주었음에도 불구하고, 벨기에 수상이 갑자기 자리에서 일어나 우리가 룩셈부르크를 넘겨주지 않는 한 어떠한 조약도 체결되지 않을 것이라고 선언했습니다. 격분한 우리 대표단은 이 터무니없는 요구를 즉시 거절하고 항의했습니다. 그러나 일부에서는 그들의 이런 갑작스러운 비협조적 태도를 제국 조약에서 벗어나 다른 동맹국들을 찾는 구실로 보고 있습니다."
+bel.462.d:0 "우리가 그들의 거의 모든 요구에 동의했고 합의점을 찾기 위해 최대한 배려해주었음에도 불구하고, 벨기에 수상이 갑자기 자리에서 일어나 우리가 왈롱 뤽상부르를 넘겨주지 않는 한 어떠한 조약도 체결되지 않을 것이라고 선언했습니다. 격분한 우리 대표단은 이 터무니없는 요구를 즉시 거절하고 항의했습니다. 그러나 일부에서는 그들의 이런 갑작스러운 비협조적 태도를 제국 조약에서 벗어나 다른 동맹국들을 찾는 구실로 보고 있습니다."
 bel.462.a:0 "회의를 떠나라."
 bel.462.b:0 "그들의 추가적인 요구를 들어줘라."
 
 bel.463.t:0 "독일 제국이 동의하다"
-bel.463.d:0 "놀랍게도 독일 대표단은 룩셈부르크에 대한 우리의 요구를 받아들였습니다. 합의는 끝났으며 조약이 체결되었습니다. 이제 형식적인 저녁 만찬만이 남았습니다."
+bel.463.d:0 "놀랍게도 독일 대표단은 왈롱 뤽상부르에 대한 우리의 요구를 받아들였습니다. 합의는 끝났으며 조약이 체결되었습니다. 이제 형식적인 저녁 만찬만이 남았습니다."
 bel.463.a:0 "이거 환상적이군!"
 
 bel.464.t:0 "아렐 조약"
@@ -1814,7 +1824,7 @@ Feldgendarmerie:0 "The Feldgendarmerie have been given the right to operate in F
 Belgium_Guaranteed_Germ:0 "The Treaty of Arel has been signed"
 BEL_SYN_REV:0 "The Wallonian Syndicalist Uprising Has Occured"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 BELS_totalist:0 "벨기에 협동조합"
 BELS_totalist_ADJ:0 "벨기에"
 BELS_totalist_DEF:0 "벨기에 협동조합"
