@@ -146,22 +146,10 @@ ACW_break_ceasefire_desc:0 "이쯤이면 충분히 오래 기다렸습니다. �
 ACW_ceasefire_six_months:0 "휴전이 체결되고 6개월 이상 지나야 합니다\n"
 ACW_ceasefire_one_month:0 "휴전이 체결되고 1개월 이상 지나야 합니다\n"
 
-ACW_csa_decisions:0 "제2차 미국 혁명 결정"
-ACW_csa_decisions_desc:0 "제2차 미국 혁명이 시작됐고 우리는 노동자 계급을 위해 승리를 이끌어내야 합니다."
-
-ACW_tex_decisions:0 "제2차 미국 내전"
-ACW_tex_decisions_desc:0 "제2차 미국 내전이 발발했고 우리는 미국을 위해 승리를 이끌어내야 합니다."
-
-ACW_psa_decisions:0 "제2차 미국 내전"
-ACW_psa_decisions_desc:0 "제2차 미국 내전이 발발했고 우리는 미국을 위해 승리를 이끌어내야 합니다."
-
-ACW_usa_decisions:0 "제2차 미국 내전"
-ACW_usa_decisions_desc:0 "제2차 미국 내전이 발발했고 우리는 미국을 위해 승리를 이끌어내야 합니다."
-
 CAL_deal_with_devil:0 "악마와의 거래"
-CAL_deal_with_devil_desc:0 "우린 내전에서 패배하고 있습니다. 우리의 유일한 희망은 [From.GetNameDef](와)과 일시적으로 휴전하는 것이며, 이로써 우리의 진정한 적에 대항하여 힘을 합칠 수 있습니다. 우리는 휴전이 90일 동안 지속되길 바라지만 양측이 원한다면 더 오래 지속될 수도 있습니다."
+CAL_deal_with_devil_desc:0 "우린 내전에서 지고 있습니다. 우리의 유일한 희망은 [From.GetNameDef](와)과 일시적으로 휴전하는 것이며, 이로써 우리의 진정한 적에 대항하여 힘을 합칠 수 있습니다. 우리는 휴전이 90일 동안 지속되길 바라지만 양측이 원한다면 더 오래 지속될 수도 있습니다."
 TEX_deal_with_devil:0 "악마와의 거래"
-TEX_deal_with_devil_desc:0 "우린 내전에서 패배하고 있습니다. 우리의 유일한 희망은 [From.GetNameDef](와)과 일시적으로 휴전하는 것이며, 이로써 우리의 진정한 적에 대항하여 힘을 합칠 수 있습니다. 우리는 휴전이 90일 동안 지속되길 바라지만 양측이 원한다면 더 오래 지속될 수도 있습니다."
+TEX_deal_with_devil_desc:0 "우린 내전에서 지고 있습니다. 우리의 유일한 희망은 [From.GetNameDef](와)과 일시적으로 휴전하는 것이며, 이로써 우리의 진정한 적에 대항하여 힘을 합칠 수 있습니다. 우리는 휴전이 90일 동안 지속되길 바라지만 양측이 원한다면 더 오래 지속될 수도 있습니다."
 ACW_break_deal_with_devil:0 "거래 파기"
 ACW_break_deal_with_devil_desc:0 "[From.GetNameDef](와)과의 일시적인 휴전을 파기할 때가 왔습니다."
 
@@ -234,6 +222,8 @@ ACW_recruit_washington:0 "워싱턴에서 [washington_num] 민병대 모집"
 ACW_recruit_west_virginia:0 "웨스트버지니아에서 [westvirginia_num] 민병대 모집"
 ACW_recruit_wisconsin:0 "위스콘신에서 [wisconsin_num] 민병대 모집"
 
+CAL_influx_of_refugees:0 "Influx of Refugees"
+CAL_influx_of_refugees_desc:0 "With the East fallen to tyranny, the Pacific States have become the last beacon for democracy, and people are continuously fleeing the war-torn East in search of a better hope in the West. This does come with its issues, however, as the sheer number of refugees strains our public services."
 
 ### Set Up Events - Reed ###
 amcivwar.1.t:0 "리드 대통령이 시카고로 피신하다"
@@ -381,9 +371,9 @@ amcivwar.31.t:0 "부르주아들이 캐나다로 도망가다"
 amcivwar.31.d:0 "부르주아들은 미노조연합으로부터 도망가기로 결정했습니다. 수천 명의 사람들이 적진, 특히 불법적인 캐나다 정부 영역으로 도망갔습니다. 도둑놈들은 혁명을 피해 가지고 갈 수 있는 재산을 몽땅 가져갔습니다."
 amcivwar.31.a:0 "때가 되면 혁명이 그들에게 닥칠 것이다."
 
-amcivwar.32.t:0 "전쟁 중의 삶"
+amcivwar.32.t:0 "The Life of William Crawley Released in Theatres"
 amcivwar.32.d:0 "혁명은 우리가 통제하는 지역 전체에 많은 변화를 가져왔습니다. 여러 도시에서 부르주아 문화는 대부분 사라진 것으로 보입니다. 이제는 여성들과 외국인들도 대거 조합원 가입을 신청하고 있습니다. 모든 공장이 이제는 사실상 문을 닫았기 때문에 조합원 가입은 반드시 필요한 조치입니다. '동지', '형제', '인민'이라는 단어가 의사소통에서의 경어체를 대신하고 있습니다. 적어도 현재 공공 장소에서는 대부분의 사람들이 기능성 점프슈트(30년대 여성복 일종)나 군복 형상의 옷과 같은 지난 10년 동안의 전형적인 미국식 관능적 패션을 피하고 있습니다."
-amcivwar.32.a:0 "이제 이럴시간이 없어."
+amcivwar.32.a:0 "Spendid."
 
 amcivwar.33.t:0 "지시 #213: 전시 생디칼리슴"
 amcivwar.33.d:0 "전쟁이 교착상태에 빠졌고 어쩌면 전황이 우리에게 불리하게 변할 지도 모르기 때문에, 중앙 위원회는 '전쟁 생디칼리슴'으로 알려진 포괄적인 경제 개혁안을 논의하고 있습니다. 이 제안들 중 모든 대외 무역에 대한 국가 통제, 모든 공장의 국유화, 엄격한 노동 규율과 같은 일부는 특별히 논쟁거리가 되지 않습니다. 하지만 이 개혁안은 살쾡이 파업의 불법화, 일하지 않거나 군대에 있지 않은 사람들에 대한 의무 노동, 엄격한 식량 배급, 그리고 철도에 대한 군사 통제와 같은 잠재적으로 문제가 되는 조치들을 포함하고 있습니다. 사회당 내의 여러 사람들은 일부 후자의 조치, 특히 살쾡이 파업의 불법화는 혁명의 가치를 배반하고 현 정부를 자본주의 적들과 다를 바 없게 만든다고 말하며 이를 폭정이라 보고 있습니다. IWW와 선봉대에서 이 제안을 지지하는 사람들은 혁명에서 승리를 거두기 위해서는 이 개혁안이 필요하며, 종전 후에 통과된 최초의 법률이 전쟁 생디칼리슴을 되돌릴 것이라고 반박합니다."
@@ -565,13 +555,13 @@ amcivwar.73.t:0 "해군 참모총장"
 amcivwar.73.d:0 "내전이 가까워지고 있지만 여전히 공석인 해군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 [USA.GETLeader]을(를) 접견하여 전쟁의 승리를 위해 해군 수장을 임명할 것을 요청했습니다."
 amcivwar.73.a:0 "윌리엄 해리슨 스탠들리"
 amcivwar.73.b:0 "어니스트 조셉 킹"
-amcivwar.73.c:0 "토마스 하트"
+amcivwar.73.c:0 "찰스 에디슨"
 
 amcivwar.74.t:0 "공군 참모총장"
 amcivwar.74.d:0 "내전이 가까워지고 있지만 여전히 공석인 공군의 수장 자리는 다양한 정치, 군사 지도자들 사이에서 우려를 불러일으켰습니다. 그래서 이들은 [USA.GETLeader]을(를) 접견하여 전쟁의 승리를 위해 공군 수장을 임명할 것을 요청했습니다."
 amcivwar.74.a:0 "칼 앤드류 스파츠"
 amcivwar.74.b:0 "에드워드 버논 리켄배커"
-amcivwar.74.c:0 "아이라 클래런스 이커"
+amcivwar.74.c:0 "제임스 해롤드 둘리틀"
 
 amcivwar.76.t:0 "워싱턴의 함락"
 amcivwar.76.d:0 "워싱턴은 반역자들과 반란군들에게 넘어갔고, 우리는 도시를 벗어나야 합니다. 군 지도자들은 우리가 이전할 수 있는 몇 개의 도시들을 제안했습니다. 문제는 어느 곳으로 옮길 것인가 하는 것입니다."
@@ -1064,6 +1054,15 @@ amcivwar.524.d:0 "[enemy_country.GetNameDef]의 강한 압박으로 인해, [ene
 amcivwar.524.a:0 "흥미롭군"
 amcivwar.524.b:0 "아무것도 바뀌지 않았다. 둘 다 패배할 테니까."
 
+amcivwar.525.t:0 "Deal with the Devil"
+amcivwar.525.d:0 "With their forces hard-pressed by [enemy_country.GetNameDef], both [truce_support.GetNameDef] and [truce_enemy.GetNameDef] have agreed to a temporary truce. Seeing as we have declared our support for the [truce_support.GetAdjective] faction, it falls on us to go along with their deal... at least for now."
+amcivwar.525.a:0 "So be it"
+
+amcivwar.526.t:0 "The Ceasefire has Ended"
+amcivwar.526.d:0 "The temporary ceasefire between [can_ally.GetNameDef] and [can_enemy.GetNameDef] has evidently ended, and now the [can_ally.GetAdjective] is calling upon the Entente to rejoin the war as before."
+amcivwar.526.a:0 "We're on the way!"
+amcivwar.526.b:0 "I'm afraid they're on their own"
+
 ### Sanity Checks ###
 
 amcivwar.600.t:0 "[Root.GetAdjective]의 붕괴"
@@ -1071,32 +1070,28 @@ amcivwar.600.d:0 "우리 군은 더 이상 적에 대항할 수 없습니다. �
 amcivwar.600.a:0 "여기서 끝나는구만..."
 
 amcivwar.607.t:0 "연방정부의 붕괴"
-amcivwar.607.d.lives:0 "미국 내전에서 연방정부가 막다른 골목에 서 있는 것 같습니다. 이미 영토 대부분은 [annex_to.GetNameDef](와)과 다른 미국 파벌들이 차지했고 이제는 사기가 떨어지고 집단 탈영으로 고통 받고 있는 군대의 마지막 잔재 밖에 남지 않았지만, 기적이 그들을 구할 것이라는 데 모든 희망을 걸고 있습니다. 일부 연방 지도자들은 이미 [annex_to.GetAdjective] 장군들과 만나 피할 수 없는 완전한 항복 조건을 협상했습니다."
-amcivwar.607.d.falls:0 "오늘, 미국 내전에서 연방정부가 붕괴되었다는 소식이 빠르게 전해졌습니다. 연방정부의 지배하에 있던 영토는 미국의 다른 세력들에 의해 흡수되었고, 마지막 남은 연방정부의 지도부들은 완전한 항복 조건을 협상하기 위해 [annex_to.GetNameDef]의 장군들과 만난 것으로 알려졌습니다. [USA.GetLeader]의 소재는 알려지지 않았지만 그는 이미 체포된 것으로 추정됩니다. 미국의 미래는 그 나라를 무너뜨린 세력의 손에 달려 있는 것으로 보입니다."
+amcivwar.607.d:0 "미국 내전에서 연방정부가 막다른 골목에 서 있는 것 같습니다. 이미 영토 대부분은 다른 미국 파벌들이 차지했고 이제는 사기가 떨어지고 집단 탈영으로 고통 받고 있는 군대의 마지막 잔재 밖에 남지 않았지만, 기적이 그들을 구할 것이라는 데 모든 희망을 걸고 있습니다. 일부 연방 지도자들은 이미 적 세력의 장군들과 만나 피할 수 없는 완전한 항복 조건을 협상했습니다."
 amcivwar.607.a:0 "혁명을 위한 중대한 발걸음이군"
-amcivwar.607.b:0 "폭군은 죽었다!"
+amcivwar.607.b:0 "폭군은 항상 이와 같은 최후를 맞으리라!"
 amcivwar.607.c:0 "뿌린만큼 거두는군"
 amcivwar.607.e:0 "놀랍군!"
 
 amcivwar.608.t:0 "미노조연합의 붕괴"
-amcivwar.608.d.lives:0 "미국 내전에서 미노조연합 정부가 막다른 골목에 서 있는 것 같습니다. 이미 영토 대부분은 [annex_to.GetNameDef](와)과 다른 미국 파벌들이 차지했고 이제는 사기가 떨어지고 집단 탈영으로 고통 받고 있는 군대의 마지막 잔재 밖에 남지 않았지만, 기적이 그들을 구할 것이라는 데 모든 희망을 걸고 있습니다. 일부 미노조연합 지도자들은 이미 [annex_to.GetAdjective] 장군들과 만나 피할 수 없는 완전한 항복 조건을 협상했습니다."
-amcivwar.608.d.falls:0 "오늘, 미국 내전에서 미노조연합 정부가 붕괴되었다는 소식이 빠르게 전해졌습니다. 미노조연합의 지배하에 있던 영토는 미국의 다른 세력들에 의해 흡수되었고, 마지막 남은 미노조연합의 지도부들은 완전한 항복 조건을 협상하기 위해 [annex_to.GetNameDef]의 장군들과 만난 것으로 알려졌습니다. [CSA.GetLeader]의 소재는 알려지지 않았지만 그는 이미 체포된 것으로 추정됩니다. 미국이 생디칼리슴에 빠질 것이라는 위협은 이제 끝났습니다."
+amcivwar.608.d:0 "미국 내전에서 미노조연합 정부가 막다른 골목에 서 있는 것 같습니다. 이미 영토 대부분은 다른 미국 파벌들이 차지했고 이제는 사기가 떨어지고 집단 탈영으로 고통 받고 있는 군대의 마지막 잔재 밖에 남지 않았지만, 기적이 그들을 구할 것이라는 데 모든 희망을 걸고 있습니다. 일부 미노조연합 지도자들은 이미 적 세력의 장군들과 만나 피할 수 없는 완전한 항복 조건을 협상했습니다."
 amcivwar.608.a:0 "빌어먹을이라 말할 시간이군"
 amcivwar.608.b:0 "적어도 좋은 소식이군"
 amcivwar.608.c:0 "혁명은 무슨, 지옥에나 떨어져라"
 amcivwar.608.e:0 "흥미롭군"
 
 amcivwar.609.t:0 "미연합국의 붕괴"
-amcivwar.609.d.lives:0 "미국 내전에서 미연합국 정부가 막다른 골목에 서 있는 것 같습니다. 이미 영토 대부분은 [annex_to.GetNameDef](와)과 다른 미국 파벌들이 차지했고 이제는 사기가 떨어지고 집단 탈영으로 고통 받고 있는 군대의 마지막 잔재 밖에 남지 않았지만, 기적이 그들을 구할 것이라는 데 모든 희망을 걸고 있습니다. 일부 미연합국 지도자들은 이미 [annex_to.GetAdjective] 장군들과 만나 피할 수 없는 완전한 항복 조건을 협상했습니다."
-amcivwar.609.d.falls:0 "오늘, 미국 내전에서 미연합국 정부가 붕괴되었다는 소식이 빠르게 전해졌습니다. 미연합국의 지배하에 있던 영토는 미국의 다른 세력들에 의해 흡수되었고, 마지막 남은 미연합국의 지도부들은 완전한 항복 조건을 협상하기 위해 [annex_to.GetNameDef]의 장군들과 만난 것으로 알려졌습니다. [TEX.GetLeader]의 소재는 알려지지 않았지만 그는 이미 체포된 것으로 추정됩니다. [TEX.GetNameDef]의 급진적인 사상에 의해 미국이 무너질 것이라는 위협은 이제 끝났습니다."
+amcivwar.609.d:0 "미국 내전에서 미연합국 정부가 막다른 골목에 서 있는 것 같습니다. 이미 영토 대부분은 다른 미국 파벌들이 차지했고 이제는 사기가 떨어지고 집단 탈영으로 고통 받고 있는 군대의 마지막 잔재 밖에 남지 않았지만, 기적이 그들을 구할 것이라는 데 모든 희망을 걸고 있습니다. 일부 미연합국 지도자들은 이미 적 세력의 장군들과 만나 피할 수 없는 완전한 항복 조건을 협상했습니다."
 amcivwar.609.a:0 "당연히 그래야지"
 amcivwar.609.b:0 "적어도 좋은 소식이구만"
 amcivwar.609.c:0 "뿌린만큼 거두는군"
 amcivwar.609.e:0 "흥미롭군"
 
 amcivwar.610.t:0 "태평양국의 붕괴"
-amcivwar.610.d.lives:0 "미국 내전에서 태평양국 정부가 막다른 골목에 서 있는 것 같습니다. 이미 영토 대부분은 [annex_to.GetNameDef](와)과 다른 미국 파벌들이 차지했고 이제는 사기가 떨어지고 집단 탈영으로 고통 받고 있는 군대의 마지막 잔재 밖에 남지 않았지만, 기적이 그들을 구할 것이라는 데 모든 희망을 걸고 있습니다. 일부 태평양국 지도자들은 이미 [annex_to.GetAdjective] 장군들과 만나 피할 수 없는 완전한 항복 조건을 협상했습니다."
-amcivwar.610.d.falls:0 "오늘, 미국 내전에서 태평양국 정부가 붕괴되었다는 소식이 빠르게 전해졌습니다. 태평양국의 지배하에 있던 영토는 미국의 다른 세력들에 의해 흡수되었고, 마지막 남은 태평양국의 지도부들은 완전한 항복 조건을 협상하기 위해 [annex_to.GetNameDef]의 장군들과 만난 것으로 알려졌습니다. [CAL.GetLeader]의 소재는 알려지지 않았지만 그는 이미 체포된 것으로 추정됩니다. 미국의 미래는 그 나라를 무너뜨린 세력의 손에 달려 있는 것으로 보입니다."
+amcivwar.610.d.lives:0 "미국 내전에서 태평양국 정부가 막다른 골목에 서 있는 것 같습니다. 이미 영토 대부분은 다른 미국 파벌들이 차지했고 이제는 사기가 떨어지고 집단 탈영으로 고통 받고 있는 군대의 마지막 잔재 밖에 남지 않았지만, 기적이 그들을 구할 것이라는 데 모든 희망을 걸고 있습니다. 일부 태평양국 지도자들은 이미 적 세력의 장군들과 만나 피할 수 없는 완전한 항복 조건을 협상했습니다."
 amcivwar.610.a:0 "당연히 그래야지"
 amcivwar.610.b:0 "적어도 좋은 소식이군"
 amcivwar.610.c:0 "뿌린만큼 거두는군"
