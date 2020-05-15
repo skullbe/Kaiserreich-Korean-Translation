@@ -2,6 +2,11 @@
 
 serbia_focus: "세르비아 중점 계통도"
 
+### Leaders ###
+POLITICS_SLOBODAN_JOVANOVIC_DESC:0 "Slobodan Jovanovic is one of Serbia's most prolific jurist, historian, sociologist, journalist and literary critic. He distinguishes himself with a characteristically clear and sharp writing style. His only interest is to protect the Serbian people and the constitution from authoritarianism."
+POLITICS_PETAR_BOJOVIC_DESC:0 "A military commander during the Serbian-Ottoman Wars, the Serbo-Bulgarian war, the Balkan Wars and the Weltkrieg, Bojovic has been Voivoda and Regent of Serbia since its independence from Austria after the Weltkrieg."
+POLITICS_ALEXANDER_II_DESC:0 "A military commander during the Balkan Wars and the Weltkrieg, the former Crown Prince of Serbia is now the King. He is a member of the Serbian Karađorđević dynasty, and is the second King from this family, after his father."
+
 ### Ideas ###
 SER_jingoism:0 "대외 강경적인 영토 주장"
 SER_jingoism_desc:0 "세르비아는 세계대전에서 패했으며 작은 변방국으로 전락했습니다. 그러나 정부는 상실한 모든 영토를 다시 되찾고 세르비아 외곽의 모든 세르비아인들이 거주하는 지역들을 통일하는 것에 대해 목소리를 높이고 있습니다. 세르비아는 상당히 군국화되었고, 극단적으로 보북주의적입니다."
@@ -41,9 +46,8 @@ joined_belgradepact:0 "베오그라드 조약 가입"
 absolute_monarchy:0 "전제군주제를 세움"
 constitutional_monarchy:0 "입헌군주제를 세움"
 SER_heavy_fighter_bonus:0 "중전투기 모델"
-SER_greater_serbia_tooltip:0 "§G우리는 세르비아를 강화하는 방향으로 나아갈 것입니다.§!\n\n"
-SER_slavic_federation_tooltip:0 "§G우리는 세르비아인의 지도하에 슬라브인들을 모아 연방을 형성할 것입니다.§!\n\n"
-SER_form_yugoslavia_tooltip:0 "§G남슬라브 연방국가를 형성합니다.\n\n§!"
+SER_greater_serbia_tooltip:0 "§G우리는 세르비아를 강화하는 방향으로 나아갈 것입니다.§!"
+SER_slavic_federation_tooltip:0 "§G우리는 세르비아인의 지도하에 슬라브인들을 모아 연방을 형성할 것입니다.§!"
 balkan_war_started:0 "제4차 발칸전쟁 발발"
 
 ### Focus Tree ###
@@ -390,7 +394,7 @@ serbia.30.d:0 "우리의 알바니아 통합 절차는 성공적이지 못했습
 serbia.30.a:0 "저들을 공격하라!"
 serbia.30.b:0 "그냥 내버려 둬라."
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 SER_republic_totalist:0 "세르비아 사회주의 공화국"
 SER_republic_totalist_ADJ:0 "세르비아"
 SER_republic_totalist_DEF:0 "세르비아 사회주의 공화국"
