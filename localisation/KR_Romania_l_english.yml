@@ -2,6 +2,9 @@
 
 romania_focus:0 "루마니아 중점계통도"
 
+### Leaders ###
+POLITICS_CORNELIU_ZELEA_CODREANU_DESC:0 "'영도자', 코르넬리우 젤레아 코드레아누는 국가대중주의 철위대 대장이자 루마니아의 지도자입니다. 광적인 국민주의자인 그는 트란실바니아에서 도브루자까지 루마니아인들이 사는 모든 땅을 하나로 통합하고 독일의 멍에를 완전히 벗어던지고자 합니다."
+
 ### Opinion modifiers ###
 ROM_supported_us_in_civil_war:0 "내전 동안 우리를 지원함"
 ROM_supported_the_other_side_in_civil_war:0 "내전 동안 적군을 지원함"
@@ -39,6 +42,8 @@ ROM_invested_in_iar:0 "항공기 공장"
 ROM_invested_in_iar_desc:0 "제 각기 다른 루마니아의 항공기 공장들은 각각의 전문 분야에 중점을 두어 더욱 혁신적인 전투기와 폭격기를 설계하게 합니다."
 ROM_the_nai:0 "국립 항공 산업"
 ROM_the_nai_desc:0 "SET와 IAR 산업이 합병되어 설립된 국립 항공 산업이 항공기 생산을 주도합니다."
+
+ROM_civil_war:0 "Romanian Civil War"
 
 ### Focuses ###
 ROM_manoeuvres_in_the_carpathians:0 "카르파티아에서의 군사 훈련"
@@ -219,10 +224,6 @@ romania.7.t:0 "음모다!"
 romania.7.d:0 "부쿠레슈티 서클의 회원들이 반 철위대 혁명의 씨앗을 뿌렸습니다. 북부의 국민들이 우리 정부에 대항하여 총기를 집어들었습니다!"
 romania.7.a:0 "반역자들이다!"
 romania.7.b:0 "우린 군주정을 복건할 것이다!"
-
-romania.8.t:0 "군주주의자들이 반란을 일으키다"
-romania.8.d:0 "부쿠레슈티 서클의 영향으로 철위대의 탄압으로부터 자유로운 군주정 루마니아를 북부에 설립하려는 시도가 있었습니다."
-romania.8.a:0 "반역자들에게 죽음을!"
 
 romania.10.t:0 "루마니아 내전에 개입하시겠습니까?"
 romania.10.d:0 "루마니아 내전이 철위대 정부와 이전 왕의 지지자들로 나뉘어 발발하였습니다. 세르비아는 어느쪽을 지원해야할까요?"
