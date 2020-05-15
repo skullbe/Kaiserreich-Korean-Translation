@@ -2,6 +2,9 @@
 
 chile_focus:0 "칠레 중점계통도"
 
+### Leaders ###
+POLITICS_MARMADUKE_GROVE_DESC:0 "그로베는 1878년 7월 6일 코피아노 북쪽의 도심지에서 변호사인 아버지 호세 마르만두케 그로베 아바로스와 어머니인 아나 발레요 부르고아 사이에서 태어났습니다. 1891년에 그로베의 아버지는 호세 마누엘 발미레사 대통령을 비판했다는 이유로 국외로 추방되었습니다. 이런 배경 하에서 정부에 대해 반감을 가지게 된 그로베는 1892년에 칠레 해군사관학교에 입학하게 됩니다. 그로베의 사회주의적 성향을 눈여겨본 당국은 그가 칠레에서 무슨 일을 꾸밀지 염려하여 영국에 연락책 역할로 파견을 시켰습니다만, 그 직후 영국에서는 혁명이 일어나게 되었고 그로베 역시 혁명에 적극적으로 참여하게 되었습니다. 그러는 동안에 칠레에서는 이바뇨즈 델 캄포 대통령이 집권하였고 그의 집권기 동안 경제상황이 악화되더니 결국 1931년에는 국가적 부도 상황에 처하게 되었습니다. 얼마 지나지 않아 이바뇨즈는 육해군의 반란에 의해 강제로 하야하게 되었으며 칠레에는 사회주의 공화국이 수립되어 그로베가 귀국할 수 있게 되었습니다. 그가 최근 의장직에 오른 배경에는 수년간 파타고니아의 반란군을 지원한 덕택에 아르헨티나와의 물리적 충돌이 불가피해졌다는 인식이 군과 정부에 만연해진 결과라고 볼 수 있겠습니다."
+
 ### Ideas ###
 CHL_airmanufactury:0 "항공기 생산"
 CHL_airmanufactury_desc:0 "우리는 숙련된 외국인들의 도움을 받아 우리의 공군력을 현대적 기준에 맞게 현대화할 것입니다."
@@ -135,8 +138,8 @@ CHL_tanque:0 "전차에 집중"
 CHL_tanque_desc:0 "우리 군에는 현대적이고 자율적이며 조국의 험난한 지형에 대처할 수 있는 탱크가 필요합니다. 첨단 장비는 승패의 차이를 의미할 수 있습니다."
 CHL_tanque2:0 "전차 생산에 집중"
 CHL_tanque2_desc:0 "우리는 수입만으로는 우리의 군대를 제대로 기계화할 수 없습니다. 우리는 그런 중요한 문제에 다른 나라에 의존할수는 없으므로 우리는 우리의 공장에서 군의 기계화를 책임지어야 합니다."
-CHL_infantry:0 "군대 재무장"
-CHL_infantry_desc:0 "군대는 혁명이 일어나기 전처럼 적은 봉급을 받거나 적게 먹지는 않지만, 여전히 장비를 제대로 갖추지 못하고 있습니다. 우리 장교들의 요구에 부응하고 우리 군이 어떠한 위협도 물리칠 수 있도록 보장해 주십시오."
+CHL_army_rearmament:0 "군대 재무장"
+CHL_army_rearmament_desc:0 "군대는 혁명이 일어나기 전처럼 적은 봉급을 받거나 적게 먹지는 않지만, 여전히 장비를 제대로 갖추지 못하고 있습니다. 우리 장교들의 요구에 부응하고 우리 군이 어떠한 위협도 물리칠 수 있도록 보장해 주십시오."
 CHL_art:0 "포병 현대화"
 CHL_art_desc:0 "우리의 포병들은 개혁이 절실히 필요합니다. 세계대전의 전장이 증인으로 서 있습니다. 새로운 모델을 통해서만 제국주의자로부터의 공격에 대항할 수 있습니다"
 CHL_infeq2:0 "현대 군사장비"
@@ -526,5 +529,3 @@ CHL_heroes:0 "무장한 형재자매"
 ### Decisions ###
 CHL_join_internationale:0 "인터내셔널 가입"
 CHL_join_internationale_desc:0 "Many of our men, including Marmaduke Grove himself, were part of the Revolution both there and in Britain. Now, with socialism having triumphed decisively in Argentina, we should take our place amidst our brothers and sisters of the international syndicalist community."
-CHL_join_phalanstere:0 "팔랑스테르 가입"
-CHL_join_phalanstere_desc:0 "In order to bolster the search for knowledge in Chile, we should formally join the Phalanstère International."
