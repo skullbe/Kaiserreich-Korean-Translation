@@ -142,7 +142,7 @@ BUL_muslim_minority_protests_idea3:0 "무슬림 소수집단의 폭동"
 BUL_muslim_minority_protests_idea3_desc:0 ""
 BUL_ended_state_mosque_funding_idea:0 "모스크 건립의 국가 지원 중단"
 BUL_ended_state_mosque_funding_idea_desc:0 ""
-BUL_pomak_conscription_idea:0 "포맥 징병"
+BUL_pomak_conscription_idea:0 "포막인 징병"
 BUL_pomak_conscription_idea_desc:0 ""
 
 ### Opinion Modifiers ###
@@ -411,8 +411,8 @@ bulgaria.45.d:0 "우리는 우리 통치의 장수를 보장하기 위해 군대
 bulgaria.45.a:0 "우리는 견뎌내야 한다."
 
 bulgaria.46.t:0 "정치적 질문"
-bulgaria.46.d:0 "발칸 전쟁에서의 우리의 손실에 이어 황금기에 우리가 얻은 이익을 모두 잃어버린 통치자였던 차르 페르디난드 1세의 지도력은 더 이상 실현 가능성이 없다고 확신합니다. 그는 보리스 3세로 알려질 그의 아들에게 차르의 왕위를 자발적으로 포기하게 될 것입니다. 그러나 문제는 여전히 남아있습니다. 불가리아를 침몰시킨 혼돈에서, 어느 당이 권력을 잡을 것인가요? 현 상태로는, 승리할 정당들은 불가리아 농민연합, 급진민주당, 그리고 포괄사회주의자들입니다. 누가 이기던지 앞에 험난한 길이 있을 것입니다. 그 정도는 확실합니다. 어쨌든 승리한 당은..."
-bulgaria.46.d.nowar:0 "Following the outrageous surrender of all our land gains made during the golden age, without even a fight, Bulgaria has been engulfed by fury and protests. It is certain that leadership under Tsar Ferdinand I is no longer a feasible option. He will be made to voluntarily abdicate the throne of Tsar to the his son, who shall be known as Boris III. The question remains, however: which party shall take power? As it stands, the parties that are slated to win are the Bulgarian Agrarian Nation Union, the Radical Democrats, and the Broad Socialists. Whoever wins shall have a rocky road ahead of them, that much is certain. In any case, the party that has come out on top is..."
+bulgaria.46.d:0 "발칸 전쟁에서의 우리의 손실에 이어 황금기에 우리가 얻은 이익을 모두 잃어버린 통치자였던 차르 페르디난드 1세의 지도력은 형편없다는 것이 증명되었습니다. 그는 보리스 3세로 알려질 그의 아들에게 차르의 왕위를 자발적으로 물려주게 될 것입니다. 그러나 문제는 여전히 남아있습니다. 불가리아를 침몰시킨 혼돈에서, 어느 당이 권력을 잡게 될까요? 현 상태로는, 승리할 정당들은 불가리아 농민연합, 급진민주당, 그리고 포괄사회주의자들입니다. 누가 이기던지 앞에 험난한 길이 있을 것입니다. 그 정도는 확실합니다. 어쨌든 승리한 당은..."
+bulgaria.46.d.nowar:0 "황금기에 얻은 모든 영토를 전쟁도 하지 않고 잃어버린 불가리아는 분노와 폭동에 휩싸였습니다. 차르 페르디난드 1세의 지도력은 형편없다는 것이 증명되었고, 그는 보리스 3세로 알려질 그의 아들에게 차르의 왕위를 자발적으로 물려주게 될 것입니다. 그러나 문제는 여전히 남아있습니다 : 불가리아를 침몰시킨 혼돈에서, 어느 당이 권력을 잡게 될까요? 현 상태로는, 승리할 정당들은 불가리아 농민연합, 급진민주당, 그리고 포괄사회주의자들입니다. 누가 이기던지 앞에 험난한 길이 있을 것입니다. 그 정도는 확실합니다. 어쨌든 승리한 당은..."
 bulgaria.46.a:0 "불가리아 농민연합!"
 bulgaria.46.b:0 "포괄사회주의!"
 bulgaria.46.c:0 "급진민주당!"
