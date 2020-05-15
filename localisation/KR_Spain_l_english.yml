@@ -24,6 +24,14 @@ SPR_paternal_autocrat_party_long:0 "에스파냐 팔랑헤"
 SPR_national_populist_party:0 "국민생디칼리슴 공세평의회"
 SPR_national_populist_party_long:0 "국민생디칼리슴 공세평의회"
 
+### Leaders ###
+POLITICS_ALPHONSO_BOURBON_DESC:0 "Alphonso XIII of Bourbon, king from the moment of his birth in 1886, was, to popular contempt, restored to the throne of Spain in 1932. His second reign has been even more tumultuous than his first; republican, Carlist, and socialist dissidents all undermine his authority, and economic growth has stagnated. Spain, under Alphonso, has become a powder keg liable to explode."
+POLITICS_JUAN_BOURBON_DESC:0 "Juan of Bourbon inherited a Spain divided, a Spain on the brink of the abyss. As the son and successor to the widely despised Alphonso, his reign will forever be marred by the specter of his father, but it is Juan, not Alphonso, who must lead Spain into a better future."
+POLITICS_FRANSISCO_FRANCO_DESC:0 "General Fransisco Franco Bahamonde's widely noted charisma and uniquely Spanish machismo facilitated his quick ascension to leadership of the Acción Popular. Now Franco, as Spain's head of state, has the unenviable task of forging a broken nation anew. For such burden, none can deny that he is uniquely qualified."
+POLITICS_MIGUEL_FERRER_DESC:0 "Miguel Cabanelles Ferrer, who commanded Spain's African colonial conscripts in the Rif war has risen to the forefront of Spanish politics through strict discipline and focus. He and his Falange Española, organised more like a paramilitary than a traditional political party, may be the only force capable of bringing some semblance of order to Spain."
+POLITICS_GIL_ROBLES_QUINONES_DESC:0 "José María Gil-Robles y Quiñones, a committed monarchist and militant Catholic, has risen to prominence in Spain. His firebrand speeches denouncing the Kingdom's enemies while extolling religious virtues might even appear radical to a Carlist; nonetheless, Quiñones stands defiantly at the helm of the troubled Spanish nation."
+POLITICS_JAIME_BOURBON_DESC:0 "Jaime of Bourbon, second son of King Alphonso XIII, deaf and once considered likely to renounce any claim to the throne, has been crowned King of Spain. While not lacking in mental faculties, his reputation as an invalid precedes him. This unlikely King, however, must lead Spain into its uncertain future."
+
 ### Ideas ###
 SPR_memories_of_the_republic:0 "공화국의 기억"
 SPR_memories_of_the_republic_desc:0 "1932년 8월 11일, 스페인 제2공화국은 종식되었지만, 공화국은 많은 스페인 사람들의 가슴속에 살아 있습니다. 많은 불평분자들이 카를로스파나 사회주의적 감정을 품고 있는 반면, 많은 정치적 온건파들, 특히 군 장교들 사이에서는 현재의 스페인 왕정이 종식되기를 바라고 있습니다."
@@ -544,36 +552,14 @@ sprc.221.d:0 "이제 우리는 내전에서 이겼고, 우리의 생디칼리슴
 sprc.221.a:0 "마드리드, 통합 스페인을 위해!"
 sprc.221.b:0 "바르셀로나는 지금도 그리고 영원히 인민의 집이다"
 
-sprc.246.t:0 "아프리카에서의 불안"
-sprc.246.d:0 "포르투갈의 합병 소식이 그들의 아프리카 식민지에 도달하자, 식민지 관리들과 국경 수비대들은 이제 사회주의적 연합군과 민병대들이 그들을 무장해제 시키기 전에 지방정부의 통제권을 장악하고 망명 정부를 세우려고 시도하고 있습니다."
-sprc.246.a:0 "그런 것 같네..."
+sprc.255.t:0 "안도라의 운명"
+sprc.255.d:0 "An interesting matter has come to our attention; that of the Principality of Andorra.\n\nThe Principality of Andorra was founded in 1278, but since 1607 has been linked to France, first through the royal family and later through various treaties. When the government fell to the Germans Andorra appealed to the Spanish for protection which was granted, officially signed into law in 1921.\n\nThey now lie within our control and it may be wroth integrating them into our nation; we surely can't leave them alone given their links to the old French and Spanish governments? Then again, is it really worth the trouble for such a small 'nation'?"
+sprc.255.a:0 "They shall be part of Spain!"
+sprc.255.b:0 "Leave them be."
 
-sprc.247.t:0 "포르투갈은 약해졌다"
-sprc.247.d:0 "[POR.GetNameDefCap](은)는 [CNT.GetNameDef]에게 공격을 받았습니다. 여기 아프리카에 있는 그들의 식민지는 약하고 보호받지 못합니다 - 앙골라가 [CNT.GetAdjective]의 손에 떨어지기 전에 차지하시겠습니까?"
-sprc.247.a:0 "우리는 그것을 얻어야 한다!"
-sprc.247.b:0 "아니, 그냥 내버려 둬"
-sprc.248.t:0 "[From.GetNameDefCap]의 앙골라 장악!"
-sprc.248.d:0 "[From.GetNameDefCap](이)가 혼란을 틈 타 앙골라에 군대를 투입했습니다!"
-sprc.248.a:0 "그들을 부숴 버려라!"
-
-sprc.249.t:0 "포르투갈은 약해졌다"
-sprc.249.d:0 "[POR.GetNameDefCap](은)는 [CNT.GetNameDef]에게 공격을 받았습니다. 여기 아프리카에 있는 그들의 식민지는 약하고 보호받지 못합니다 - 모잠비크가 [CNT.GetAdjective]의 손에 떨어지기 전에 차지하시겠습니까?"
-sprc.250.t:0 "[From.GetNameDefCap](이)가 모잠비크를 장악하다!"
-sprc.250.d:0 "[From.GetNameDefCap](이)가 혼란을 틈 타 모잠비크에 군대를 투입했습니다!"
-
-sprc.251.t:0 "마카오의 운명"
-sprc.251.d:0 "포르투갈의 붕괴는 마카오가 점령될 수 있도록 했습니다!"
-sprc.251.a:0 "환영이지"
-sprc.251.b:0 "아니, 이런 마찰은 원치 않아"
-sprc.252.t:0 "마카오의 운명"
-sprc.252.d:0 "[POR.GetNameDef]의 붕괴로 인한 혼란 때문에 마카오는 [From.GetNameDef](이)가 점령하였습니다!"
-sprc.252.a:0 "우리가 할 수 있는 것은 아무것도 없다"
-
-sprc.253.t:0 "동티모르의 운명"
-sprc.253.d:0 "포르투갈의 붕괴는 동티모르가 점령될 수 있도록 했습니다!"
-sprc.254.t:0 "동티모르의 운명"
-sprc.254.d:0 "[POR.GetNameDef]의 붕괴로 인한 혼란 때문에 동티모르는 [From.GetNameDef](이)가 점령하였습니다!"
-sprc.254.a:0 "우리가 할 수 있는 것은 아무것도 없다"
+sprc.256.t:0 "안도라와의 평화"
+sprc.256.d:0 "The Principality of Andorra joined the war against us in support of France, but after their defeat Andorra had no ties with the new Commune and aligned itself with Spain, officially signing a protection treaty in 1921.\n\nHowever, that treaty didn't annul their declaration of war against us, and in fact, nor has any treaty since. Several diplomats have been working to resolve this strange circumstance and now we have a peace deal ready to be signed, it is but a formality of course."
+sprc.256.a:0 "Of course."
 
 ### Carlists ###
 
@@ -645,7 +631,7 @@ sprc.327.d:0 "아나코-생디칼리스트들이 우리 식민지인 적도기�
 sprc.327.a:0 "즉시 체포해라!"
 sprc.327.b:0 "그냥 놔둬라"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 SPR_republic_national_populist:0 "스페인 공화국"
 SPR_republic_national_populist_ADJ:0 "스페인"
 SPR_republic_national_populist_DEF:0 "스페인 공화국"
