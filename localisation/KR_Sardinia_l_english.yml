@@ -39,6 +39,9 @@ SRD_syndic_party_long:0 "이탈리아 생디칼리스트 연합"
 SRD_rad_socialist_party:0 "이탈리아 사회주의당"
 SRD_rad_socialist_party_long:0 "이탈리아 사회주의당"
 
+### Leaders ###
+POLITICS_AMADEO_SAVOY_DESC:0 "Amedeo of Savoy-Aosta, cousin of the former King of Italy, Victor Emmanuel the Disgraced, is King of Sardinia-Piedmont. However, his title to Piedmont is little more than an empty claim, for he, and the remnants of the Royal Army who support him and fled the peninsula to join him, have lost Piedmont to the hated Socialist Republic of Italy. Closely aligned with National France, to the point claiming him to be a puppet would not be out of place, he sees not only Piedmont but all of Italy as under foreign occupation and seeks to liberate it, but he has also to deal with the ever contentious relationship between Exiles and Sardinians, both of whom question the uneasy balance that has established itself in Sardinia."
+
 ### Tooltips ###
 SRD_build_after_liberation:0 "피에몬테를 해방시킨 후 발전시킬 것입니다.\n\n"
 SRD_proclaim_kingdom_of_italy:0 "이탈리아 왕국을 선포합니다\n\n§Y사르데냐§!는 이제 §Y이탈리아 왕국§!으로 불릴 것입니다"
@@ -341,7 +344,7 @@ srd.39.a:0 "이탈리아 만세!"
 
 ### Kingdom of Sardinia-Piedmont 46 - 55 ###
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 SRD_ITA_totalist:0 "이탈리아 코뮌"
 SRD_ITA_totalist_ADJ:0 "이탈리아"
 SRD_ITA_totalist_DEF:0 "이탈리아 코뮌"

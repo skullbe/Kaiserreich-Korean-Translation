@@ -22,6 +22,10 @@ LOM_paternal_autocrat_party_long:0 "비스콘티 가문"
 LOM_national_populist_party:0 "롱고바르다 연맹"
 LOM_national_populist_party_long:0 "롱고바르다 연맹"
 
+### Leaders ###
+POLITICS_DUKE_ADRIANO_DESC:0 "갈레아초 비스코티의 아들인 아드리아노는 세계대전기 이탈리아령 리비아에서 태어났고, 이탈리아로 돌아왔을 때는 갓난아기에 지나지 않았습니다. 이탈리아 반도에 긴장이 고조되는 가운데 1936년 공군에 입대한 그는 전투기 조종사로서 뛰어난 재능을 보였습니다. 롬바르디아의 안정화를 위해 공작의 자리에 앉은, 자신만만하고 성급한 이 젊은 남자는 외교 분야에서는 아직 미성숙한 모습을 보이고 있지만, 그 자신이 생디칼리슴과 전쟁의 결과를 두 눈으로 보았기에, 그의 의무를 다하기 위해 최선을 다하고 있습니다."
+POLITICS_KING_ADRIANO_DESC:0 "갈레아초 비스코티의 아들인 아드리아노는 세계대전기 이탈리아령 리비아에서 태어났고, 이탈리아로 돌아왔을 때는 갓난아기에 지나지 않았습니다. 이탈리아 반도에 긴장이 고조되는 가운데 1936년 공군에 입대한 그는 전투기 조종사로서 뛰어난 재능을 보였습니다. 롬바르디아의 안정화를 위해 공작의 자리에 앉은, 자신만만하고 성급한 이 젊은 남자는 외교 분야에서는 아직 미성숙한 모습을 보이고 있지만, 그 자신이 생디칼리슴과 전쟁의 결과를 두 눈으로 보았기에, 그의 의무를 다하기 위해 최선을 다하고 있습니다.젊은 왕은 최근 롬바르디아를 시민들의 권리가 강조되던 옛 왕국 시절로 되돌려놓는 데 성공했습니다. 이제 그는 그의 왕비가 될 여자를 찾는 데 집중하고 있으며, 밀라노 신문들은 그가 그 일에 꽤 열심이라고 주장합니다."
+
 ### National Focuses ###
 LOM_rule_of_law:0 "법치주의 재정립"
 LOM_rule_of_law_desc:0 "Now that Lombardy is independent from a larger Italian entity, we must try and calm our unruly people. In large part, they fear an uncertain future, so we must decide our new nation's destiny."
@@ -250,7 +254,7 @@ lombardy.22.d:0 "Lombardia is in a state of turmoil, and the people currently ha
 lombardy.22.a:0 "We must turn to the Count for help"
 lombardy.22.b:0 "No, we cannot turn back to the monarchy"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 LOM_duchy_totalist:0 "롬바르디아 코뮌"
 LOM_duchy_totalist_ADJ:0 "롬바르디아"
 LOM_duchy_totalist_DEF:0 "롬바르디아 코뮌"

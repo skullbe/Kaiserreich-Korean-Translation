@@ -4,7 +4,8 @@
 NAME_THEME_ISLANDS:0 "섬"
 NAME_THEME_ROYAL_BARGE:0 "왕실 요트"
 NAME_THEME_ROYAL_HOUSES:0 "왕가 & 귀족"
-NAME_THEME_TEX:0 "미연합국-특정 목록"
+NAME_THEME_MOUNTAINS:0 "산"
+NAME_THEME_INSPIRATIONAL:0 "영감적"
 
 ### Folders ###
 escort_ships_folder:0 "함선 설계"

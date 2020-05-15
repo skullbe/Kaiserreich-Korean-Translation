@@ -2,6 +2,9 @@
 
 danish_focus:0 "덴마크 중점계통도"
 
+### Leaders ###
+CHRISTIAN_X_DESC:0 "Christian von Glücksburg rose to the Danish throne in 1912 after his father, king Frederick VIII, passed away in Hamburg. The king has thus far guided Denmark through the Weltkrieg, in which the nation remained neutral, and into the interwar, presiding over the political shift that was the rise of the social democrats of Thorvald Stauning in 1924. It is said that the king is sceptical about the prime minister and his party, but that he accepts their position in government in the knowledge that he can use his reserve power should excesses occur.\n\nMany have considered that the fact that this has still not happened after 12 years means that the king has eventually accepted the democratic parliamentarism that has been in place since the ascension of the Deuntzer cabinet in 1901."
+
 ### Tooltips ###
 DEN_reforms:0 "경제 개혁을 실행합니다."
 DEN_SLS_op:0 "일반 항공사를 설립합니다."
@@ -706,8 +709,6 @@ DEN_referendum_raise_awareness:0 "개헌국민투표에 대한 의식을 높여�
 DEN_referendum_raise_awareness_desc:0 "덴마크 헌법은 개헌을 하려면 최소 45%의 유권자들이 개헌을 적극적으로 찬성해야한다고 규정되어 있습니다. 그렇게나 많은 사람들에게 투표를 하도록 동기를 부여하는 것은 어려울지도 모릅니다. 따라서 우리는 개정안이 통과 될 수 있도록 부수적인 노력을 기울여야 할 것입니다."
 den_invade_denmark:0 "덴마크 침공"
 den_invade_denmark_desc:0 "우리 북쪽에 있는 자그마한 이웃은 무엇이 자신들에게 좋은 것인지 모르는 것 같습니다. 우리는 저들과 함께 발트해를 외세의 침입으로부터 보호할 수 있지만, 저들의 편협한 중립 정책은 이것을 실현할 수 없게 만듭니다. 우리는 이 작은 북해 국가의 중립적인 전통보다 훨씬 더 중요한 이해관계가 걸려 있기 때문에 이곳으로 가야할 것입니다."
-den_invade_denmark_ai:0 "덴마크 침공 (AI)"
-den_invade_denmark_ai_desc:0 "AI 전용 결정입니다. 만약 이것을 보신다면 깃허브 버그트래커와 Thomahawk2k에게 알려주세요"
 
 ### Scripted Loc ###
 getDanishPrimeMinister_Stauning:0 "스타우닝"
@@ -719,7 +720,7 @@ DEN_trade_agreement:0 "무역 협정"
 DEN_diplomatic_row:0 "외교 뱃길"
 DEN_rejected_trade_deal:0 "무역 거래 거부"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 DENHYB_totalist:0 "덴마크 연방"
 DENHYB_totalist_ADJ:0 "덴마크"
 DENHYB_totalist_DEF:0 "덴마크 연방"

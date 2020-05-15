@@ -24,6 +24,10 @@ CEN_paternal_autocrat_party:0 "통일당"
 CEN_national_populist_party_long:0 "국민당"
 CEN_national_populist_party:0 "국민당"
 
+### Leaders ###
+POLITICS_MILITARY_COUNCIL_DESC:0 "중앙아메리카가 마침내 재통일되었지만 국가 정치구조가 여전히 확정되지 않았습니다. 당분간 임시 과도정부가 수립되었습니다만, 군부 권력 대부분이 각자 출신 지역에 기반한 진영별로 분열되어있기 때문에 대표성은 거의 없습니다."
+POLITICS_CENTRAL_AMERICAN_COUNCIL_DESC:0 "중앙아메리카가 마침내 재통일되었지만 국가 정치구조가 여전히 확정되지 않았습니다. 당분간 임시 과도정부가 수립되었습니다만, 민주주의 권력 대부분이 각자 출신 지역에 기반한 진영별로 분열되어있기 때문에 대표성은 거의 없습니다."
+POLITICS_REVOLUTIONARY_COUNCIL_DESC:0 "중앙아메리카가 마침내 재통일되었지만 국가 정치구조가 여전히 확정되지 않았습니다. 당분간 임시 과도정부가 수립되었습니다만, 사회주의 권력 대부분이 각자 출신 지역에 기반한 진영별로 분열되어있기 때문에 대표성은 거의 없습니다."
 
 ### Decisions ###
 annexation_CEN_CONQ:0 "중앙 아메리카의 운명"
@@ -177,6 +181,8 @@ CEN_found_military_pact_desc:0 ""
 
 ### Opinion Modifiers ###
 CEN_established_ties:0 "공식적으로 양국간 국교가 수립되었습니다."
+CEN_accepted_friendship:0 "Accepted the Frienship Treaty"
+CEN_refused_friendship:0 "Refused the Frienship Treaty"
 
 ### Tooltips ###
 
@@ -184,11 +190,6 @@ soc_dem_revolutionary:0 "당신은 사회민주주의 혁명가입니다."
 soc_dem_democratic:0 "당신은 사회민주주의와 연대한 자유주의입니다."
 CEN_prepare_your_ass:0 "§R조만간 아대륙에서 충돌이 터져나올 것이므로 준비해야만 합니다.§!"
 CEN_sparks_flying:0 "§R이로서 중앙아메리카의 운명을 결정할 갈등의 수레바퀴가 돌기 시작합니다.§!"
-
-### Factions ###
-CEN_liberal_pact:0 "자유 협정"
-CEN_revolutionary_front:0 "혁명 전선"
-CEN_anti_revolutionary_alliance:0 "인민 전위대"
 
 ## Trigger Tooltips ##
 CEN_socialist_aligned:0 "Owner must either be a subject of §Y[Root.GetNameDef]§! or an aligned, socialist Central American nation which isn't at war\n"

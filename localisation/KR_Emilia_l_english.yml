@@ -24,6 +24,10 @@ EMI_syndicalist_party_long:0 "에밀리아 생디칼리슴 동맹"
 EMI_totalist_party:0 "통일당"
 EMI_totalist_party_long:0 "이탈리아 통일당"
 
+### Leaders ###
+POLITICS_DUKE_ROBERTO_DESC:0 "Roberto D'Asburgo-Este, Archduke of Austria, was promised while he was still an infant the position of Duke of Modena. He never even set foot in his duchy, as it was one of the first places where Federal forces were forced to withdraw from during the chaotic Civil War in Italy. The second son of Karl I, Roberto grew up in Austria alongside the royal family, and despite having learned Italian, seldom thought about his duties as head of the house of Austria-Este for most of his life. But now, he is Duke, and few can argue that his position isn't exactly enviable, as recovering the land ravaged by Syndicalism while having to deal with a brand new political landscape, having essentially no political experience, is quite the daunting task."
+POLITICS_DUKE_ELIAS_DESC:0 "Born in 1880, Elias of Bourbon-Parma has never sat on a throne, for like most monarchs of the Federation, he never was in a position to return during the turmoil of the war on the wake of the Treaty of Rome. Having lived in exile in family estates for most of his life, he was forced to leave his birthplace in France following the Revolution, but even before that the French state harried his family for their ties to Austria-Hungary during the Weltkrieg. While he technically acted as a regent for his demented brothers, Elias has been long the de-facto head of the house, and his ascension to the throne of the now restored throne is little more than a fait-accompli of dynastic politics. However, there is no shortage of criticism for what some see as brazen ambition being put ahead of his own brother's well being."
+
 ### Focuses ###
 EMI_ducal_army:0 "국군"
 EMI_ducal_army_desc:0 "몇 년간의 혼란과 사회주의자들의 잘못된 통치가 있은 후, 에밀리아 지역은 경제적으로 몰락했습니다. 외국 동맹국들의 힘이 이 지역에 약간의 안정을 실어주었지만, 질서를 유지하고 국가를 방위하기 위해서는 우리의 군대를 창설해야만 합니다."
@@ -161,7 +165,7 @@ emi.12.t:0 "파르마 공국"
 emi.12.d:0 "파르마 공작, 즉 이탈리아의 부르봉 가문이 에밀리아 지역의 최고 권력자로서 다시 옹립되었습니다. 이제 엘리아스 공작이 우리 나라를 미래의 번영으로 이끄는 책임을 지게 될 것입니다."
 emi.12.a:0 "영원하라!"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 EMI_PAR_national_populist:0 "파르마"
 EMI_PAR_national_populist_ADJ:0 "파르마"
 EMI_PAR_national_populist_DEF:0 "파르마"

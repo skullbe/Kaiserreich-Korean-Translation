@@ -2,6 +2,9 @@
 
 kleinevenedig_focus:0 "베네수엘라 중점계통도"
 
+### Leaders ###
+POLITICS_ROMULO_BETANCOURT_DESC:0 "A young bombastic, but moderate, member of the broad coalition which brought down the dictator Juan Vicente Gómez, Betancourt's election led to a schism in that coalition. Betancourt moves to consolidate the restoration of democracy in Venezuela and move away from dependence on oil for economic growth."
+
 ### Ideas ###
 VENblackmonday:0 "검은 월요일의 유전 지대 강타"
 VENblackmonday_desc:0 "우리 경제는 석유에 기반을 두고 있고, 수년 동안 우리는 높은 원유 가격을 즐겼습니다. 하지만 베를린 증시 폭락으로 석유 수요는 급감했고, 우리 경제는 하향곡선 속에 갇혀 있습니다!"

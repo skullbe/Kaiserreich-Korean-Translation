@@ -58,10 +58,6 @@ alsac_annex:0 "알자스-로렌 합병"
 ### Ideas ###
 SWI_cave_in:0 "스위스 항복"
 
-### Factions ###
-anti_FRA_block:0 "반프랑스 동맹"
-Syndicalist_Internationale:0 "생디칼리스트 인터내셔널"
-
 ### Events ###
 prewar.1.t:0 "1932년 제네바 파업 5주년"
 prewar.1.d:0 "5년 전 오늘, 제네바의 노동자들은 이 쟁의가 (로망디로 알려진) 스위스 서부의 프랑스어권 지역으로 퍼져나갈 것이라고 위협하며 경제적 사회적 개혁을 요구하는 주요 노동 쟁의를 시작했습니다. 프랑스 코뮌이 잠재적으로 혁명에 영향을 끼칠 것을 두려워한 베른의 중앙 정부는 파업을 멈추기 위해 연방 군대를 파견하여 신속하게 대응했습니다. 뒤이은 폭력 사태로 제네바에서 13명이 숨졌고 100명이 넘는 사람이 다쳤습니다. 이 사건으로 베른과 로만디 간에 쓰디쓴 불화가 남았고, 이는 이후 몇년 동안 치유되지 못했습니다. 최근 프랑스의 발전에 고무된 급진 좌파 세력은 다시 한번 요구하기 시작했고 다가오는 지방 선거에 사회당 후보들을 출마시킬 예정입니다. 하지만 전통적으로 로만디를 텃밭으로 가지고 있는 사회민주당은 노동 조합과 함께 임금 인상, 근로 시간 등 많은 정책을 포함하는 "노동의 평화" 개혁안을 만들어냈습니다. 이 계혁의 핵심 중 하나는 최근 일어난 시계 제조사들의 대규모 공장폐쇄를 끝내는 것입니다. 사회민주당 후보는 이 개혁으로 재선될 것이라고 기대하고 있으며, 이 개혁이 베른 연방 정부의 보수파와 급진 좌파 사이의 대치 상황을 완화해주기를 희망합니다."
@@ -148,7 +144,7 @@ prewar.25.t:0 "스위스에서의 백색 테러"
 prewar.25.d:0 "The Swiss Federal Army and its repugnant reactionary volunteer auxiliaries have defeated the heroic defenders of Socialist revolution in the Romandie and Haute-Savoie. As thousands stream across the border to seek asylum in France, French-speaking militiamen are executed after mock trials, while right-wing activists and bourgeois hunt down Socialists, Anarchists and Syndicalists, loot their homes and take gruesome revenge on their families. Such atrocities, reported by our state broadcasters, are causing an uproar in France and every true Syndicalist is now ready to free not only Savoie but even the Romands from the clutches of Switzerland's bloodthirsty rulers. As our aircraft are ready to take off and strike against Swiss territory and our troops are concentrating near the border, the Comité de Salut Public has informed Bern that should Haute-Savoie not be evacuated by the Swiss Federal Army and its control transferred to Communal authorities, and Romand political leaders reinstated to their positions, war would be inevitable."
 prewar.25.a:0 "군대를 준비시켜라!"
 prewar.26.t:0 "알베르트 뒤푸르-페롱스 대사 암살"
-prewar.26.d:0 "알베르트 뒤푸르-페롱스 주오스트리아 대사가 오늘 뮌헨의 자택에서 숨진 채 발견되었습니다. 귀스타브 부베라는 프랑스인 아나코생디칼리스트가 범인이라는 증거는 명백합니다. 부베는 흑해를 건너 조지아를 향할 계획으로 탑승한 베를린발 부쿠레슈티착 급행열차에서 발견되었습니다. 프랑스가 이를 계획했다는 증거는 없지만, 아무튼 이는 잔학 행위입니다."
+prewar.26.d:0 "Our Ambassador to Austria, Albert Dufour-Feronce, was found dead in his home in Munich today. The evidence has clearly shown that he was murdered by a French Anarcho-Syndicalist named Gustave Bouvet. Bouvet was found boarding the Fast Train from Berlin to Trieste where he planned on crossing the Adriatic Sea into the Socialist Republic of Italy. There is no evidence this was planned by the French but it is an outrage just the same!"
 prewar.26.a:0 "암살자의 처형으로 대중은 만족할 것이다."
 prewar.26.b:0 "이 무정부주의자들에 맞설 때다! 전쟁이다!"
 prewar.28.t:0 "전쟁 중인 브리튼 연방"

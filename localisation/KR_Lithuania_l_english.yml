@@ -2,6 +2,12 @@
 
 lithuanian_focus:0 "리투아니아 중점계통도"
 
+### Leaders ###
+POLITICS_SKIRPA_DESC:0 "카지스 슈키르파의 삶은 꽤 다채롭습니다. 그는 1918년 리투아니아 군대의 첫 자원병 중 한 명이었고, 곧 소장으로 진급했지만, 독일의 손아귀 아래에선 자유롭고 독립적인 리투아니아는 없을 것이라는 것을 깨닫게 되었습니다. 슈키르파와 사소한 불만을 품은 다수의 장교들은 독일의 통치와 왕국 내의 슬라브 소수민족에 대항하여 싸우는 국가대중주의 준군사조직인 '강철 늑대'를 결성했습니다. 그리고 현재 그는 루마니아의 콘두커토르(영도자), 또는 러시아의 보즈드와 비슷한 지위인 '타우토스 바다스' 가 되었습니다."
+POLITICS_MINDAUGAS_III_DESC:0 "빌헬름 카를의 아들 카를 게로 폰 우라흐로 태어난 민다우가스 3세는 1929년 아버지의 사망으로 리투아니아의 왕위에 올랐으며, 지금까지 이 발트 국가를 통치하고 있습니다. 비록 그는 리투아니아를 통합한 민족 영웅이자 첫번째 왕과 이름이 똑같지만, 그는 국민들에게 전혀 관심을 가지지 않습니다. 국민들은 그에게 외국인입니다. 또한 국민들에게도 그는 외국인입니다. 카이저가 그를 배후에서 지지하지 않는다면 민다우가스 3세가 왕좌를 계속 지키기는 어려울 것입니다."
+POLITICS_KAZIMIERAS_II_DESC:0 "크레팅가 출신의 폴란드계 리투아니아계 귀족 가문에서 태어난 카지미에라스 빅토라스 티슈케비추스, 카지미에라스 2세는 국민들에게 외국의 꼭두각시로 여겨집니다. 그는 그에게 가해진 비판을 무시하고, 왕으로서의 권위를 이용하여 많은 혜택을 누리고 있습니다. 또한 그의 개인 정원을 건설하는 데에는 서유럽 기준으로도 어마어마한 비용이 들었고, 보통의 리투아니아 사람이 상상하기도 어려운 금액입니다."
+POLITICS_VOLDEMARAS_DESC:0 "아우구스티나스 볼데마라스는 러시아 제국에서 정치 경력을 쌓기 시작했습니다. 헌신적인 민족주의자였던 그는 상트페테르부르크에서 리투아니아 국가자결주의를 주장했습니다. 브레스트-리토프스크 조약에 따라 독일 휘하의 괴뢰 리투아니아 정부가 수립되면서 그는 리투아니아의 독립을 위해 싸우기 위해 고국으로 돌아왔습니다. 볼데마라스는 국가원수로서 리투아니아 민족의 우월성을 부각하고 국가에 대한 헌신을 촉구하는 초국가주의적 정책을 펼칠 가능성이 높습니다."
+
 ### Ideas ###
 LIT_black_monday:0 "검은 월요일"
 LIT_black_monday_desc:0 "베를린 주식시장의 붕괴는 여전히 우리 경제에 심각한 영향을 미치고 있습니다."
@@ -27,26 +33,26 @@ LIT_national_pride:0 "발트해 국가의 자존심"
 LIT_national_pride_desc:0 "우리, 리투아니아 사람들은 지구상에서 가장 위대한 사람들이었습니다! 바다부터 바다끝까지, 우리는 그 성가신 슬라브인들과 게르만인들을 지배했었습니다! 우리 국민은 이런 선전을 믿고있고, 필요하다면 지옥 끝까지 행진하기 위해 우리의 깃발 아래 단결할 것입니다!"
 
 ### Parties ###
-LIT_totalist_party:0 "리투아니아 생디칼리스트 민주당"
-LIT_totalist_party_long:0 "리투아니아 생디칼리스트 민주당"
-LIT_syndicalist_party:0 "생디칼리스트"
-LIT_syndicalist_party_long:0 "생디칼리스트"
-LIT_radical_socialist_party:0 "아나키스트"
-LIT_radical_socialist_party_long:0 "아나키스트 연합"
+LIT_totalist_party:0 "아우슈리네"
+LIT_totalist_party_long:0 "리투아니아 학생 사회주의 연합 '아우슈리네'"
+LIT_syndicalist_party:0 "아우슈리네"
+LIT_syndicalist_party_long:0 "리투아니아 학생 사회주의 연합 '아우슈리네'"
+LIT_radical_socialist_party:0 "공산당"
+LIT_radical_socialist_party_long:0 "리투아니아 공산당"
 LIT_social_democrat_party:0 "리투아니아 사회민주당"
 LIT_social_democrat_party_long:0 "리투아니아 사회민주당"
 LIT_social_liberal_party:0 "농민들"
 LIT_social_liberal_party_long:0 "농민조합"
 LIT_market_liberal_party:0 "농민민중조합"
 LIT_market_liberal_party_long:0 "농민민중조합"
-LIT_social_conservative_party:0 "기독교-독일 연합"
-LIT_social_conservative_party_long:0 "기독교 가정과 독일 이익 단체"
+LIT_social_conservative_party:0 "리투아니아 기독민주당"
+LIT_social_conservative_party_long:0 "리투아니아 기독민주당"
 LIT_authoritarian_democrat_party:0 "리투아니아 기독민주당"
 LIT_authoritarian_democrat_party_long:0 "리투아니아 기독민주당"
-LIT_paternal_autocrat_party:0 "K. V. 파슈케비치우스의 지지자들"
-LIT_paternal_autocrat_party_long:0 "카지미에라스 빅토라스 파슈케비치우스의 지지자들"
+LIT_paternal_autocrat_party:0 "군사정권"
 LIT_national_populist_party:0 "리투아니아 국가이익당 (발언하는 리투아니아인)"
 LIT_national_populist_party_long:0 "리투아니아 국가이익당"
+
 LIT_alliance_for_liberation:0 "해방을 위한 동맹"
 LIT_alliance_for_liberation_long:0 "해방을 위한 동맹"
 
@@ -180,8 +186,8 @@ LIT_fortress_lithuania:0 "리투아니아 요새"
 LIT_fortress_lithuania_desc:0 "충분한 요새화와 준비로, 그 어떤 외국 세력도 리투아니아를 다시 침략할 수 없을 것입니다."
 
 ### Opinion Modifiers, Flags and Tooltips ###
-LIT_conservative_choice:0 "검은 월요일에 대한 차르네키스의 대응을 선택하다"
-LIT_liberal_choice:0 "검은 월요일에 대한 플레키티스의 대응을 선택하다"
+LIT_conservative_choice:0 "검은 월요일에 대한 젬칼니스의 대응을 선택하다"
+LIT_liberal_choice:0 "검은 월요일에 대한 비엘리니스의 대응을 선택하다"
 LIT_1938_elc:0 "1938년 세이마스 선거를 치루다"
 LIT_goes_loyalty_path:0 "충성심을 잃지않다"
 LIT_goes_republic_path:0 "그들이 우리를 배신하다!"
@@ -194,7 +200,7 @@ LIT_under_german_heel:0 "독일인들의 발꿈치 밑에서."
 
 ### Events ###
 lithuania.1.t:0 "1936년의 리투아니아 왕국"
-lithuania.1.d:0 "오 리투아니아, 용감한 사람들의 땅, 오크들이 강하게 자라나고 사람들이 강해지는 곳입니다. 당신의 땅을 약탈하고 황폐화시킨 같은 독일인의 자손에게 구원을 받고 '해방'당했다는 것은 정말 아이러니한 운명의 반전입니다. 민다우가스 1세가 죽은 지 700년이 지난 지금, 당신은 다시 한번 왕국입니다. 그러나 제국 조약의 한가운데에 있는 단순한 괴뢰국일 뿐 입니다. 북부의 발트 연합 공국만큼 독일이 지배하지는 않지만, 당신의 위치는 여전히 견딜 수 없습니다."
+lithuania.1.d:0 "오 리투아니아, 용감한 사람들의 땅, 떡갈나무들이 강하게 자라나고 사람들이 강해지는 곳입니다. 당신의 땅을 약탈하고 황폐화시킨 같은 독일인의 자손에게 구원을 받고 '해방'당했다는 것은 정말 아이러니한 운명의 반전입니다. 민다우가스 1세가 죽은 지 700년이 지난 지금, 당신은 다시 한번 왕국입니다. 그러나 제국 조약의 한가운데에 있는 단순한 괴뢰국일 뿐 입니다. 북부의 발트 연합 공국만큼 독일이 지배하지는 않지만, 당신의 위치는 여전히 견딜 수 없습니다."
 lithuania.1.a:0 "흥미롭네요, 더 말해주세요!"
 lithuania.1.b:0 "야다, 야다, 그냥 플레이하게 해주세요!"
 
@@ -216,8 +222,8 @@ lithuania.5.a:0 "이제 누가 우리의 버터와 거위를 살까?"
 
 lithuania.6.t:0 "검은 월요일에 대한 대응"
 lithuania.6.d:0 "오늘 리투아니아의 경제 문제를 논의하기 위해 세이마스 긴급회의가 소집됐습니다. 리투아니아 경제는 갈수록 악화되고 있습니다. 점점 더 많은 공장이 문을 닫고 있습니다. 농작물을 팔 수 없는 농민들은 소들을 팔고 인도에 우유를 엎질렀습니다. 실업자들은 살아남기 위해 무료 식당으로 모이고 있습니다. 세이마스는 두개의 주요 당파로 나뉘어 있는데, 둘 다 이 상황을 해결하고 검은 월요일에 의해 야기된 대공황을 벗어날 방법에 대한 그들만의 생각을 가지고 있습니다."
-lithuania.6.a:0 "V.V. 차르네키스 - 국가는 수익성 있는 산업을 건설하고 산업화해야 한다."
-lithuania.6.b:0 "J. 플레키티스 - 보통 사람들을 돕기 위해 체계를 재구성해야 한다."
+lithuania.6.a:0 "비타우타스 젬칼니스 - 국가는 수익성 있는 산업을 건설하고 산업화해야 한다."
+lithuania.6.b:0 "키프라스 비엘리니스 - 보통 사람들을 돕기 위해 체계를 재구성해야 한다."
 
 lithuania.7.t:0 "우리 경제가 회복되다"
 lithuania.7.d:0 "검은 월요일의 경제 위기였던 역병과 오랜 기간의 회복을 거쳐 싸우고 난 후, 리투아니아의 경제는 외관상 회복되기 시작했습니다. 실업률이 떨어지고 있고 리투아니아 지역의 가치는 마침내 1936년 이전 수준으로 돌아오고 있습니다. 좀 더 병적인 소식으로, 이전에 유럽 전체를 지배하던 자살률은 마침내 낮아졌습니다..."
@@ -257,9 +263,9 @@ lithuania.14.b:0 "우리에게는 더 중요한 문제가 있다. 지금 당장�
 
 lithuania.15.t:0 "바다스의 대리인?"
 lithuania.15.d:0 "이제 우리가 리투아니아를 완전히 장악하고 있으므로, 우리는 새로운 공화국 정부를 우리의 애국적 목표를 위해 가장 바람직한 것으로 만들어야 합니다. 바다스, 카쟈스 스키르파는 이미 당에서 많은 후보들을 확보했고, 그는 그 당과 장관 사이의 유대를 유지할 두 번째 지도자가 필요합니다. 어떤 옵션을 선택할까요?"
-lithuania.15.a:0 "로마 카톨릭 신부인 블라다스 미로나스는 사람들에게 사랑을 받았지."
-lithuania.15.b:0 "준군사조직 철위대의 수장, 페트라스 쿠빌리우나스."
-lithuania.15.c:0 "스키르파의 가장 충성스러운 추종자인 조셉 에렛이 부사령관으로 남을 것이다."
+lithuania.15.a:0 "프라나스 디엘리닝카이티스."
+lithuania.15.b:0 "도마스 체세비추스."
+lithuania.15.c:0 "브루뉴스를 유지하라."
 
 lithuania.16.t:0 "리투아니아와의 평화?"
 lithuania.16.d:0 "리투아니아인들이 다루기 쉽지 않다는 것은 명백해졌습니다. 비록 제국 조약의 국가들이 그들을 사방에서 포위하고 있지만, 그들의 군대는 우리의 진격을 저지할 수 있었고 심지어 동프로이센의 수도인 쾨니히스베르크도 점령할 수 있었습니다. 어쩌면 우리는 리투아니아인들을 내버려두고 대신 다른 방면에 집중해야 할지도 모릅니다."
@@ -362,7 +368,7 @@ lithuania.42.t:0 "프랑스 문화 학습을 위한 모임"
 lithuania.42.d:0 "Lietuviu draugija prancuzu kulturai pazinti (프랑스 문화 학습을 위한 모임)은 프랑스의 문화가 1919년 혁명으로 인해 어떻게 영향을 받았는지 배우려는 목적을 가진 좌파 리투아니아 시인과 작가들의 단체입니다. 주목할 만한 회원은 Salomeja Neris, Vincas Kreve, Petras Cvirka입니다. 그 단체는 리투아니아 문학계에 대한 인터내셔널의 영향력의 기수로 여겨지고 있습니다."
 lithuania.42.a:0 "상관없어"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 LIT_republican_national_populist:0 "리투아니아 국민 공화국"
 LIT_republican_national_populist_ADJ:0 "리투아니아"
 LIT_republican_national_populist_DEF:0 "리투아니아 국민 공화국"

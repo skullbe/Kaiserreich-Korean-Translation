@@ -93,7 +93,7 @@ COL_militarist_programmes_desc:0 "권력을 우리에게로 집중시키는 와�
 COL_one_nation:0 "하나된 국가"
 COL_one_nation_desc:0 "주변에 적이 많습니다. 그리고 최근 선거 이래로 콜롬비아를 고통스러운 시대에서 구해내려는 많은 조치를 계획하고 있습니다."
 COL_mobilize:0 "그란콜롬비아 동원령"
-COL_mobilize_desc:0 "이 위대한 국가를 위해 동원하지 않을 것입니다!"
+COL_mobilize_desc:0 "우리는 현재 이 위대한 국가의 통일 전쟁을 위해 군대를 동원하고 있습니다!"
 COL_arms_willy:0 "독일과의 군수무역"
 COL_arms_willy_desc:0 "카이저라이히 여행을 마치고 최근 귀국한 호르헤 엘리세르 가이탄 장군의 요구를 수용한 콜롬비아 정부가 독일에서 엄청난 양의 소화기를 수입하고 있습니다"
 COL_break_the_chains:0 "끊어진 사슬"
@@ -104,7 +104,6 @@ COL_collectivization:0 "농업 집산화"
 COL_collectivization_desc:0 "콜롬비아 전역의 토지와 농장이 소작농들에게 분배되고 있습니다."
 COL_assuming_direct_control:0 "국가기구 장악"
 COL_assuming_direct_control_desc:0 "표범당 군정이 우리나라를 지배하면서 합법성의 허울마저도 사라져버렸습니다."
-colombia_gran_alliance:0 "안데스 협약기구"
 COL_emergency:0 "비상사태"
 COL_leopardos:0 "표범당 정권"
 COL_liberal:0 "자유 정부"
@@ -409,7 +408,7 @@ col.22.d:0 "충격적이게도 콜롬비아에게 선수를 빼앗겼습니다. 
 col.22.a:0 "전쟁이다!"
 col.22.b:0 "가지게 놔두어라."
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 GCL_national_populist:0 "그란콜롬비아"
 GCL_national_populist_ADJ:0 "콜롬비아"
 GCL_national_populist_DEF:0 "그란콜롬비아"
