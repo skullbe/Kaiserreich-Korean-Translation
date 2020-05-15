@@ -218,7 +218,7 @@ CAR_colonial_air_ports_desc:0 "우리는 식민지들 내에서 공항을 확장
 CAR_rule_the_skies:0 "하늘을 지배한다"
 CAR_rule_the_skies_desc:0 "공군은 더 이상 자원병들이 아니라 우리 군대의 완전한 기능을 하는 기관입니다. 이탈리아와 그 너머의 하늘을 지배합시다!"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 CAR_kingdom_totalist:0 "이베리아 연방"
 CAR_kingdom_totalist_ADJ:0 "이베리아"
 CAR_kingdom_totalist_DEF:0 "이베리아 연방"

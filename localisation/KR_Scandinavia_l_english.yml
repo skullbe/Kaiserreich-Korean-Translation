@@ -2,6 +2,9 @@
 
 scandinavia_focus:0 "스칸디나비아 중점계통도"
 
+### Leaders ###
+SCA_FEDERAL_COUNCIL_DESC:0 "The Federal Council of the Nordic Federation is the federal head of state. The council, which consists of the monarchs of the constituent states, is mostly a symbolic institution as it is bound to follow the advice of the federal government."
+
 ### Opinion Modifiers ###
 SCA_nordic_friendship:0 "노르딕 친선"
 SCA_nordic_irredentism:0 "노르딕 실지회복운동"
@@ -10,9 +13,6 @@ SCA_claims_on_schleswig:0 "북부 슐레스비히 분쟁"
 ### Research Group ###
 scandinavian_research_name:0 "스칸디나비아 과학자 회의"
 scandinavian_research_desc:0 "스칸디나비아 과학자 회의는 스칸디나비아 국가들 사이의 과학적 협력을 전문으로 하는 기관입니다."
-
-### Faction ###
-SCA_faction_scandinavian_defense_union:0 "스칸디나비아 방위동맹"
 
 ### Flags ###
 SCA_treaty_of_stockholm:0 "스톡홀름 조약"
