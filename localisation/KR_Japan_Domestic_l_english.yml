@@ -5,6 +5,17 @@ japan_focus:0 "일본 내정 중점계통도"
 ### Opinion Modifiers ###
 JAP_motor_1:0 "자동차 산업의 일본화"
 
+### Cosmetic Tags ###
+JAP_RED_totalist:0 "일본 연방"
+JAP_RED_totalist_ADJ:0 "일본"
+JAP_RED_totalist_DEF:0 "일본 연방"
+JAP_RED_radical_socialist:0 "일본 연방"
+JAP_RED_radical_socialist_ADJ:0 "일본"
+JAP_RED_radical_socialist_DEF:0 "일본 연방"
+JAP_RED_syndicalist:0 "일본 연방"
+JAP_RED_syndicalist_ADJ:0 "일본"
+JAP_RED_syndicalist_DEF:0 "일본 연방"
+
 ### Parties ###
 JAP_totalist_party:0 "일본 노동총동맹"
 JAP_syndicalist_party:0 "일본 노동총동맹"
@@ -29,6 +40,10 @@ JAP_authoritarian_democrat_party_long:0 "쇼와회"
 JAP_authoritarian_democrat_party_long2:0 "대정익찬회"
 JAP_paternal_autocrat_party_long:0 "국민동맹"
 JAP_national_populist_party_long:0 "동방회"
+
+### Leaders ###
+POLITICS_HIROHITO_DESC:0 "다이쇼 천황의 사망 이후 2,500년 역사의 신성한 일본의 옥좌에 앉게 된 히로히토 천황은, 국가원수로서의 지위뿐 아니라 정신적으로 일본 바로 그 자체를 상징합니다. 군국주의자들 그리고 부활한 좌파들이 모두 급성장함에 따라 일본 내의 혼란이 심화되어가는 와중에도 천황은 계속 침묵만을 지켜왔으며 그의 역할은 불확실하고 불분명합니다. 하지만 언제라도 천황이 움직이기 시작한다면, 어느 쪽이든 그것은 의심할 여지없이 결정적일 것입니다."
+POLITICS_KANSON_ARAHATA_DESC:0 "일본의 정치 체제는 격변했고, 아라하타 간손이 일본 연방의 초대 의장으로 취임했습니다. 적기 사건으로 체포당했던 간손은 본인이 사회주의자임을 숨긴 채로 좌파 운동가들을 위한 사회주의 지하결사를 이끌어왔습니다. 현재 그는 급진좌파들이 구 제국 인사들에게 자행하는 폭력의 배후로 의심받고 있습니다."
 
 ### Ideas ###
 JAP_narrow_rail:0 "협궤철도"
@@ -121,7 +136,7 @@ niigata_focus:0 "다음 결정이 일본 역사의 흐름을 가를 것입니다
 JAP_NSA:0 "국가보안법 가결"
 JAP_NO_NSA:0 "국가보안법 부결"
 longest_winter_tool:0 "당신은 이제 일본이 어떤 길을 걸을 지 선택할 수 있습니다."
-JAP_longest_winter:0 "기나긴 겨울"
+JAP_longest_winter:0 "정부의 실패와 약점을 드러낸 기나긴 겨울이 시작되었습니다."
 JAP_STRONG_SEIYUKAI:0 "정부가 과반수를 유지했습니다"
 emperor_support_agree:0 "천황이 정부를 지지했습니다"
 emperor_no_support_disagree:0 "천황이 정부를 지지하지는 않았지만, 이를 위해 정치적인 힘이 사용되었습니다."
@@ -129,6 +144,8 @@ emperor_support_disagree:0 "천황이 정부를 지지하지 않았습니다"
 emperor_no_support_agree:0 "천황이 정부를 지지했지만, 이를 위해 정치력이 사용되었습니다."
 possible_coup_thanks_emperor:0 "§R정부가 제 기능을 못하는데다가 천황폐하의 도움도 얻지 못했습니다. 아무래도 민주주의 최후의 날이 가까운 것 같습니다... §!"
 possible_coup:0 "§Y민주주의는 무너졌지만, 과연 어느 진영이 이 잿더미 속에서 떠오를지는 아무도 모릅니다. §!"
+JAP_May_Trial:0 "We have had the trial of the May 15th incident"
+JAP_security_debate:0 "The security debate following the May 15th incident has started"
 mil_choose_both:0 "\n§G두 장군을 모두 지지하고 함께 일하도록 만들 것입니다.§!\n"
 mil_choose_both_warning:0 "\n\n§G하지만 두 장군이 잘 협력하도록 관리할 정치력이 부족하다면, 그 역풍은 매우 위험할 것입니다...§!\n\n"
 mil_choose_neither:0 "\n§G두 장군 모두 필요 없습니다. 우리는 그들 없이 전진할 것입니다.§!\n"
@@ -180,7 +197,7 @@ finish_land_reform_desc:0 "토지개혁을 종료하고 그 결과를 확인합�
 JAP_NSA_focus:0 "국가보안법"
 JAP_NSA_focus_desc:0 "지난 몇 주 동안 국회에서 국가보안법에 관한 논쟁이 격렬히 벌어졌고, 이제는 우리가 어떤 선택을 할지를 결정할 때입니다. 일부 보수파 의원들은 이 법안이 통과되지 못하면 사회의 과격파들이 권력을 장악하려고 할 것이라고 우려하고 있습니다. 일본의 미래는 우리 손에 달려 있습니다."
 JAP_democratic_path:0 "민주주의를 사수하라!"
-JAP_democratic_path_desc:0 "특정 육군 장교들의 제안을 받은 하야시 센주로 장군은 현 정권에 대한 자신의 의무를 이유로 쿠데타 시도를 거부했습니다. 본격적으로 적대하는 것은 아닙니다만 중앙 지휘부의 지원 없이는 이길 가능성은 희박합니다."
+JAP_democratic_path_desc:0 "특정 육군 장교들의 제안을 받은 하야시 센주로 장군은 현 정권에 대한 자신의 의무를 이유로 쿠데타 시도를 거부했습니다. With the trial of the May 15th incident behind us, it is now time to secure democracy in the eyes of the people."
 JAP_imperialist_path:0 "가장 긴 하루"
 JAP_imperialist_path_desc:0 "하야시 센주로 장군은 쿠데타 시도에 대한 육군 장교들의 계획을 지원하기로 동의했습니다. 육군 수장의 지원이 생겼으니, 이들의 시도가 성공할 가능성이 상당히 높아졌습니다..."
 
@@ -298,6 +315,8 @@ JAP_COL_TAIWAN:0 "대만 통합"
 JAP_COL_TAIWAN_desc:0 "제국에서 가장 부유하고 번영한 식민지인 대만 섬은 정착민들에게 무한한 부를 약속합니다. 이제 대만 섬을 제국에 완전히 통합시키기 위한 최종 투자를 진행할 때가 되었습니다."
 JAP_COL_PORT:0 "관동 통합"
 JAP_COL_PORT_desc:0 "관동 조차지는 공식적으로 99년간 일본에 할양되었고, 다롄시와 주변 지역은 일본인에게 완벽한 정착지입니다. 정부 지원금을 늘리고 이주를 장려할 만한 가치가 충분한 지역입니다."
+JAP_colonise_hawaii:0 "Hawaiian Integration"
+JAP_colonise_hawaii_desc:0 "Japanese-Hawaiians make up a large portion of the population of that island chain, and as a result Japanese is already a common language in schools and homes. It should be a relatively smooth transition to ensure that the upper classes are Japanese too and thereby turn the place into proper prefectures."
 
 ### Focuses - Military - Base ###
 JAP_MIL_start_1:0 "육군의 방향"
@@ -430,9 +449,9 @@ japdom.7.t:0 "복고주의와 중앙집권주의"
 japdom.7.d:0 "'유신파'는 급진적인 하급 장교들이 주창한 정치적 이념으로 반자본주의, 반과두주의, 반의회주의가 특징입니다. 보통 혜택을 받지 못하거나 보잘 것 없는 환경에서 자란 이들 대부분은 어린 시절부터 가난을 경험해왔고, 그들이 편향의 사악한 영향이라고 부르는 것을 관찰하며 지배층이 천황에게서 권력을 빼앗아 이 나라를 심연으로 몰고 가고 있다고 믿게 되었습니다. 복고주의자의 해결책을 지배층을 쓸어버리고 모든 권력을 천황에게 돌려주는 것이었으며, 거기에서부터 완전한 국가 개혁이 시작되는 것이었습니다. 그들에게 맞서는 '통제파'는 군 수뇌부와 긴밀하며, 지배층과의 협력과 정치의 군대화를 지지합니다."
 japdom.7.a:0 "이거 문제가 되겠군..."
 
-japdom.8.t:0 "군 수뇌부 내 분열"
-japdom.8.d:0 "현재 제국 군대 장교들의 파벌 간 경쟁이 새로운 국면을 맞고 있습니다. 두 신성, 통제파의 나가타 데츠잔 육군 소장과 유신파의 오바타 도시로 육군 소장은 군사적 전략에 대해 논쟁하고 있습니다.\n\n나가타 장군은 일본 경제가 어떤 종류의 총력전이라도 지속하기에는 어려우므로, 우선 총력전을 수행할 수 있는 군대를 만들어야 한다고 믿습니다. 그는 우리 군의 기동 능령을 확장하고, 장비를 현대화하고, 지휘 체계를 중앙 집중화 할 것을 요구합니다.\n\n오바타 장군의 분석도 거의 똑같지만, 그는 다른 결론을 내렸습니다. 불안정한 국제적 사정 때문에, 일본이 내부 발달을 통해 그런 능력을 갖추게 되기 전에 전쟁은 일어날 것입니다. 따라서, 그는 향후 전쟁에서는 장기전을 피하기 위해 짧고 신속하고 결단력 있는 작전을 통해 신속하게 적군을 파괴해야 한다는 결론에 도달했습니다.\n\n중앙 집중된 지휘 체계가 좋은 생각이고, 원시적인 인해전술이 형편없는 전략이라는 데에는 두 사람 모두 동의합니다;우리는 결코 러시아나 중국의 인력과 경쟁할 수 없습니다. 이제 우리는 어떻게 나아가야 할 지 선택해야 합니다."
-japdom.8.a:0 "현명히 선택할 것이다."
+japdom.8.t:0 "The Security Debate"
+japdom.8.d:0 "The debate in the Imperial Diet has steadily increased the last few months, and is now reaching a terrifying level. Many members fear for their lives, and so progress isn't just a matter of political power or personal pride, but of survival. There is a growing consensus that the current security laws aren't enough to protect democracy and that more is needed. The May 15th Incident must not be allowed to happen again."
+japdom.8.a:0 "A comprehensive law, an act, must be made!"
 
 japdom.9.t:0 "국가보안법"
 japdom.9.d:0 "악명 높은 치안유지법은 1923년 9월 간토 무권위주의자 봉기와 같은 해 12월 생디칼리스트의 히로히토 황태자 암살 시도 이후 공산주의의 공포 속에서 다나카 정권에 의해 1926년 초에 도입되었습니다. 이 법은 민권을 크게 제한했으며 다나카 장군의 엄격한 통치를 상징했습니다. 1926년 헌법 개정으로 이 법은 폐지되었으나, 현재 스즈키 기사부로 총리는 심하게 완화되고 '국가보안법'으로 이름이 바뀔 지라도 그 법의 재도입은 원하고 있습니다. 그는 심지어 그의 내각 내에서도 강한 반대를 만났고 여론은 역대 최저 수준으로 떨어졌지만, 스즈키는 그것의 재도입이 생디칼리슴의 밀물에 맞서기 위한 필요한 단계라고 믿습니다. 그리고 그의 의견은 혼자가 아닙니다. 입헌정우회의 나카지마 치쿠헤이와 민정당의 아다치 겐조가 이끄는 다당 교섭단체는 이 법을 '헌정의 마지막 보루'라고 선언하며 통과를 지지했습니다. 상원과 하원도 이 법에 찬성하고 있습니다."
@@ -662,8 +681,6 @@ japdom.64.t:0 "봉천정부가 식량을 보내주기로 하다"
 japdom.64.d:0 "봉천정부가 식량제공을 동의했으며, 가뭄의 큰 피해들이 곧 해결될 것입니다."
 japdom.64.a:0 "좋은 소식이다!"
 
-### Zankoas's new events japdom.65 onwards ###
-
 japdom.65.t:0 "천황과 민주주의"
 japdom.65.d:0 "정부의 힘은 아직 약했기 때문에, 천황 폐하의 지원이 절실히 필요한 상황이었습니다. 폐하께서는 의회에 자주 참석하시지는 않으시지만, 다행히도 우리 정부를 지지해 주셨습니다. 폐하의 말은 큰 힘이 있고, 우리 정부가 지속되는 데 도움이 될 것입니다. 폐하의 지원을 받아들여야 할까요?"
 japdom.65.a:0 "천황이 동의해 주어서 다행이군."
@@ -722,8 +739,6 @@ japdom.237.t:0 "해군 지도부가 육군 편향에 항의하였습니다"
 japdom.237.d:0 "최근에 육군에게 혜택을 주는 정책을 발의하는 우리의 태도에 해군 지도부는 항의했습니다. 더 권위있는 제독들 중 일부는 오늘 오전 비공개 회의에서 난색을 표했습니다."
 japdom.237.a:0 "그들에게 기다리고 지켜보라고 해라."
 
-### Mifil's new collection of events ###
-
 japdom.238.t:0 "의회 해산"
 japdom.238.d:0 "제국 정부의 항복에 이어 우리의 지도자가 지시한 신정부가 구성되고 있습니다. 의회는 폐지되었고 총리의 직책 또한 완전히 폐지되었습니다. 신정부는 프랑스 코뮌의 기반을 둔 새로운 정부 형태로 변하는 것에 지지를 받고 있습니다. 이러한 급진적인 변화로 천황의 지위는 이제 교체의 대상이 되었습니다."
 japdom.238.a:0 "반동 정부의 종말..."
@@ -746,13 +761,6 @@ japdom.242.t:0 "검은 월요일의 여파"
 japdom.242.d:0 "결국 예상대로, 독일 제국의 경제적 실패에 의한 도미노 효과가 우리에게 도달했습니다. 독일 시장과의 거리때문에 경제적으로 유리된 우리는 유럽의 국가들만큼 큰 영향을 받지는 않았지만, 그럼에도 우리에게 타격이 온 것은 무시할 수 없는 사실입니다. 재벌과 은행은 몇 달동안 힘든 시기를 보내야 할 겁니다."
 japdom.242.a:0 "예견된 일이었다."
 
-#Cosmetic Tags
-JAP_RED_totalist:0 "일본 연방"
-JAP_RED_totalist_ADJ:0 "일본"
-JAP_RED_totalist_DEF:0 "일본 연방"
-JAP_RED_radical_socialist:0 "일본 연방"
-JAP_RED_radical_socialist_ADJ:0 "일본"
-JAP_RED_radical_socialist_DEF:0 "일본 연방"
-JAP_RED_syndicalist:0 "일본 연방"
-JAP_RED_syndicalist_ADJ:0 "일본"
-JAP_RED_syndicalist_DEF:0 "일본 연방"
+japdom.243.t:0 "군 수뇌부 내 분열"
+japdom.243.d:0 "현재 제국 군대 장교들의 파벌 간 경쟁이 새로운 국면을 맞고 있습니다. 두 신성, 통제파의 나가타 데츠잔 육군 소장과 유신파의 오바타 도시로 육군 소장은 군사적 전략에 대해 논쟁하고 있습니다.\n\n나가타 장군은 일본 경제가 어떤 종류의 총력전이라도 지속하기에는 어려우므로, 우선 총력전을 수행할 수 있는 군대를 만들어야 한다고 믿습니다. 그는 우리 군의 기동 능령을 확장하고, 장비를 현대화하고, 지휘 체계를 중앙 집중화 할 것을 요구합니다.\n\n오바타 장군의 분석도 거의 똑같지만, 그는 다른 결론을 내렸습니다. 불안정한 국제적 사정 때문에, 일본이 내부 발달을 통해 그런 능력을 갖추게 되기 전에 전쟁은 일어날 것입니다. 따라서, 그는 향후 전쟁에서는 장기전을 피하기 위해 짧고 신속하고 결단력 있는 작전을 통해 신속하게 적군을 파괴해야 한다는 결론에 도달했습니다.\n\n중앙 집중된 지휘 체계가 좋은 생각이고, 원시적인 인해전술이 형편없는 전략이라는 데에는 두 사람 모두 동의합니다;우리는 결코 러시아나 중국의 인력과 경쟁할 수 없습니다. 이제 우리는 어떻게 나아가야 할 지 선택해야 합니다."
+japdom.243.a:0 "현명히 선택할 것이다."
