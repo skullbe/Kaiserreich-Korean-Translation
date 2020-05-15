@@ -539,9 +539,11 @@ CAN_iedc_economic_investment:0 "IEDC의 [From.GetNameDef] 투자"
 CAN_iedc_economic_investment_desc:0 "우리 자원을 투입하면 다른 회원국들이 일반적 수단을 거치지 않고 산업 자원에 접근할 수 있게 될 것이나, 그들이 협상국에 남아 있어야만 그것이 가능할 것입니다. 더 큰 산업 기반을 보유한 국가들에서 이를 시작하는 것이 좋을 것입니다.\n\nIEDC에의 마지막 투자 : £pol_power §Y[?From.iedc_contribution]§!"
 CAN_iedc_economic_investment_home:0 "IEDC의 [Root.GetNameDef] 투자"
 CAN_iedc_economic_investment_home_desc:0 "협상국의 공업력을 투입하면 [Root.GetNameDef]의 산업 기반을 확장시킬 수 있으나, 우리 경제에만 너무 집중하면 다른 IEDC 구성원들이 불만을 가질 것이라는 사실을 알고 있어야 합니다."
+
 CAN_entente_decisions:0 "협상국 동맹"
 CAN_join_ISAC_decision:0 "ISAC 가입"
 CAN_join_ISAC_decision_desc:0 "제국 과학 학술 위원회는 협상국의 연구기관으로, 여기에 참여함으로써 우리는 ISAC의 연구 지원을 받을 수 있을 것입니다."
+
 CAN_american_civil_war_decisions:0 "미국 내전"
 CAN_american_civil_war_decisions_desc:0 "상상할 수 없는 일이 일어났고, 우리의 남쪽 이웃들은 혼란에 빠졌습니다. 설상가상으로, 국경에 있는 주요 생디칼리스트 세력의 위협은 대서양 건너편에 있는 우리의 관심을 돌리게 만들고 있습니다. 우리는 무엇이든, 서둘러 해야만 합니다."
 CAN_reinforce_ottawa:0 "오타와 방비 강화"
