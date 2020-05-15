@@ -952,8 +952,8 @@ FRA_internationale_category_desc:0 "우리 세계의 모든 사회주의자들�
 FRA_phalanstere_category:0 "팔랑스테르 인터내셔널"
 FRA_phalanstere_category_desc:0 "제2차 인터내셔널 회의 기간 동안, 우리는 지원을 받길 희망하는 모든 저개발된 사회주의 국가들을 위한 산업 및 경제 투자라는 야심찬 계획에 착수하기로 결정했습니다. 우리는 우리 모두에게 더 나은 세상을 만들기 위해 함께 노력할 것입니다."
 
-FRA_join_phalanstere:0 "Join the Phalanstère"
-FRA_join_phalanstere_desc:0 "The scientific Phalanstère has been created to pool together scientist from all member states of the Internationale. We should join and contribute our knowledge to the program."
+FRA_join_phalanstere:0 "팔랑스테르 가입"
+FRA_join_phalanstere_desc:0 "팔랑스테르는 인터내셔널 회원국의 모든 과학자들을 모으기 위해 만들어졌습니다. 우리는 여기에 참여해서 우리의 지식을 기여해야 합니다."
 
 #WIP
 FRA_Develop_ENG:0 "[ENG.GetNameDef] 개발"
