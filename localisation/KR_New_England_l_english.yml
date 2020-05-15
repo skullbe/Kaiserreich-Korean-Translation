@@ -142,7 +142,7 @@ NEE_Choosing_our_Propaganda_desc:0 "Even though there is an agreement that the F
 NEE_prop_choice_made:0 "§Y메시지§!를 선택함"
 
 NEE_For_Home_and_Fatherland:0 "§Y[USA.GetNameWithFlag]§! 위를 날아라!"
-NEE_Figthing_the_Reds:0 "§Y[CSA.GetNameWithFlag]§! 위를 날아라!"
+NEE_Fighting_the_Reds:0 "§Y[CSA.GetNameWithFlag]§! 위를 날아라!"
 NEE_Down_with_the_Traitors:0 "§Y[TEX.GetNameWithFlag]§! 위를 날아라!"
 NEE_Not_My_President:0 "§Y[CAL.GetNameWithFlag]§! 위를 날아라!"
 

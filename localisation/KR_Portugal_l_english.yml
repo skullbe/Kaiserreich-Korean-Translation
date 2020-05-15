@@ -24,6 +24,18 @@ POR_paternal_autocrat_party_long:0 "포르투갈 현실주의 행동당"
 POR_national_populist_party:0 "루시탄 통일주의"
 POR_national_populist_party_long:0 "루시탄 통일주의"
 
+### Leaders ###
+POLITICS_DUARTE_BRAGANCA_DESC:0 "As agreed in the Pact of Dover signed by royalists in exile before the Restoration, Duarte II inherited the throne from the heirless Manuel II. Since he was crowned in 1932, King Duarte has looked to strengthen ties with the Brazilian Imperial Family and with the British in exile in Canada, while at home keeping an amenable relationship with the Integralists, who fully control his government; a situation he will seek to change if possible."
+POLITICS_MARIA_ADLEAIDE_BRAGANCA_DESC:0 "Having taken up the crown after the second Regicide in 30 years, Maria III has dauting tasks ahead of her. The young Queen has always been popular when she was a princess, always looking to help people in need whenever possible. Her gentle and good demeanour may make her aggressive anti Integralist position seem surprising, but since taking the throne she has denounced excesses from that party, and her fearless attitude only helps her popularity"
+POLITICS_MARIA_PUPPET_DESC:0 "As the recently installed Queen of Portugal and the Algarves, Maria Ana I seems content in her role of doing little actual ruling. Her priority is ensuring the preservation of the Monarchy and in restoring ties with the deposed royal family. Her husband's German nationality, once a liability that essentially locked her out of inheritance, may very well help in this endeavour"
+POLITICS_ALEXANDRE_VIEIRA_DESC:0 "Alexandre Vieira is perhaps Portugal's most prestigious and respected leftist leader, which a marked and distinguished career dating back to the early years of the Republic. After being forced into exile in France after the Integralist takeover in 1926, said respect and former contacts, especially among anarchists and syndicalists, may be key to forming a stable coalition as the dust settles from the fall of the monarchy"
+POLITICS_JOSE_CARLOS_RATES_DESC:0 "A veteran in the harsh struggle for Portugal's workers, Jose Carlos Rates entered the political scene in the first years of the republic as a syndicalist leader; however one that strayed far from the anarchist mainstream of Portuguese Syndicalists. Founder of the Portuguese Maximalist Federation, Rates believes in cooperating against imperalism in a wide front, but will likely have issues implementing Totalism in Portugal"
+POLITICS_BENTO_ANTONIO_GONCALVES_DESC:0 "Bento is a long-time syndical leader, entering the political arena in the waning years of the Weltkrieg as the conditions for Portuguese workers worsened. As syndicalist repression grew, in 1925 he was forced to flee Portugal after a failed strike, which sought to emulate the English Revolution in Portuguese soil. Now returned after decades of exile, Bento has the daunting task of recovering Portugal ahead of him"
+POLITICS_ANTONIO_RESENDE_DESC:0 "A staunch republican, Antonio was aggressive in its attacks against the restoration in 1922, which forced him into exile after he allegedly advocated for regicide, an accusation he to this day claims to be false. Exile has not been kind to public memory of the Porto politician, but no leadership arose in the PRED that can claim his ideological intensity or credibility, even as he is thankful for those who kept the flame of Republicanism alive in these dark years"
+POLITICS_AFONSO_COSTA_DESC:0 "A leading figure in the First Republic, Afonso Costa has been long been deeply involved with the republican cause in Portugal, and he was one of the architects of that first revolution. The last leader of the former Republic, his prestige was kept intact even after decades of exile in multiple countries, and there is hope that this republic learns from the mistakes of the past. However, the man's advanced age and failling health may very well put said plans in jeopardy"
+POLITICS_ANTONIO_GRANJO_DESC:0 "Antonio's current leadership of Portuguese Liberal Republicans very well stems for his actions, for he was one of the few who actively attempted to stop the Restoration by taking up arms and urging others to do the same. The years in exile have not been kind to the politician, whose sexagenarian appearance may very well be unfamiliar to those used to the image of the man who attempted to defend the Republic."
+POLITICS_JOAO_CANTO_CASTRO_DESC:0 "The aging admiral's beliefs may seem paradoxical to foreigners, as he has far more in common with monarchists than republicans in Portugal's political arena. However, as he is once again deemed the only man fit to leader, he will try his utmost to be a competent captain of Portugal for one last time, and endeavour to crush those who wish to end Portugal as a nation from within such as Iberists and Integralists"
+
 ### Tooltips ###
 POR_cww:0 "해외 방어를 충분히 증강하고, 보병 사단을 확충합니다"
 POR_regulos:0 "아프리카의 우리 신하인 레굴로스의 도움으로 무장 민병대 사단들을 해산시킵니다."
@@ -116,14 +128,6 @@ MAF_Portugal_btfo:0 "국경선 문제 해결"
 MAF_NoAttack_Portugal:0 "미텔아프리카 침략 저지"
 PORreached38:0 "1938년에 도달"
 POR_Jackals:0 "포르투갈이 올리벤사를 점거하다"
-
-### Decisions ###
-POR_collapse_decisions:0 "울트라마린의 붕괴"
-POR_collapse_decisions_desc:0 "포르투갈 본토의 몰락과 함께 남은 것은 우리의 해외 식민지 뿐이고 많은 강대국들이 이제 시체에서 살을 뜯으려는 독수리처럼 원을 그리며 서 있습니다. 기지를 발휘해 이 위기에서 벗어나지 못하면 우리 미래는 어두울 것입니다..."
-POR_reclaim_homeland_mission:0 "종말이 다가왔다"
-POR_reclaim_homeland_mission_desc:0 "§R우리는 빨리 고향으로 돌아가야 합니다!§!\n\n만약 우리가 집으로 돌아가지 않는다면, 우리의 아프리카 고향조차도 충성심을 유지하지 못할지도 모릅니다."
-POR_those_damn_crooks:0 "독수리가 여기 있다"
-POR_those_damn_crooks_desc:0 "§R우리는 빨리 고향으로 돌아가야 합니다!§!\n\n세계의 도둑들과 사기꾼들은 굶주린 시선으로 우리의 식민지를 바라보고 있습니다. 우리가 집으로 돌아가지 않는다면 그들은 당연히 우리의 것을 훔칠 것입니다."
 
 ### Focuses ###
 POR_matters_of_the_realm:0 "왕국의 골칫거리"
@@ -419,15 +423,6 @@ por.309.t:0 "포르투갈의 갈리시아 점령!"
 por.309.d:0 "우리가 CNT-FAI에 맞서 싸우는 틈을 타 포르투갈 뱀들이 갈리시아를 점령했습니다. 그들은 이를 갈리시아의 '형제들'을 생디칼리슴의 멍에로부터 보호하기 위한 것이라 주장하고 있지만, 이는 핑계에 불과할 뿐입니다!"
 por.309.a:0 "다음에 이를 되갚아주지..."
 
-por.310.t:0 "올리벤사 점령?"
-por.310.d:0 "전략적 요충지인 올리벤사는 1801년 바다호스 조약에서의 작은 사고 이후 스페인의 불법적인 통치를 받아왔습니다. 하지만 오늘날 스페인은 내전 중이고, 우리는 이 기회를 놓치지 않고 올리벤사를 점령해야 합니다."
-por.310.a:0 "스페인의 멍에에서 지역을 해방시키자!"
-por.310.b:0 "그들은 무신론자, 반역자와 싸우는 중이다."
-
-por.311.t:0 "포르투갈의 올리벤사 점령!"
-por.311.d:0 "포르투갈이 그들의 고토라고 주장하는 우리의 영토인 올리벤사를 무단 점령했습니다. 우리는 현재 그 땅을 탈환할 여력이 못되고, 나중을 기약해야 합니다!"
-por.311.a:0 "자칼들!독수리들!"
-
 por.312.t:0 "왕국의 문제"
 por.312.d:0 "이 참담한 세기 동안 많은 혼란이 우리 왕국에 닥쳤습니다. 하지만, 우리 나라는 그 어느 때보다도 더 강합니다. 더 나은 미래를 위해 정부를 개혁하고 부패한 공화국의 마지막 잔재를 씻어내야 합니다."
 por.312.a:0 "미래가 손짓한다!"
@@ -449,25 +444,6 @@ por.316.t:0 "포르투갈이 협상국 재가입을 요청하다"
 por.316.d:0 "'명예로운 평화'와 대전쟁 종결, 그리고 이어진 25년 혁명으로 포르투갈과 영국의 사이는 소원해졌습니다. 하지만, 유럽에 전쟁의 먹구름이 다가오고 있고 포르투갈이 우리의 도움을 바라고 있습니다. 물론 우리는 그들을 도울 것입니다."
 por.316.a:0 "그들을 받아줘서 같이 생디칼리스트를 물리치자!"
 
-por.317.t:0 "티모르 접수?"
-por.317.d:0 "포르투갈 식민제국의 붕괴와 함께 티모르는 무방비 상태가 되었고 우리는 이 땅을 차지할 수 있을 것입니다."
-por.317.a:0 "그렇게 하자!"
-por.317.b:0 "그냥 가만히 놔두자."
-
-por.318.t:0 "마카오 접수?"
-por.318.d:0 "포르투갈 식민제국의 붕괴로 마카오의 항구와 해군기지는 무방비 상태가 되었고 우리는 쉽게 이곳을 차지할 수 있을 것입니다."
-por.318.a:0 "그렇게 하자!"
-por.318.b:0 "그냥 가만히 놔두자."
-
-por.319.t:0 "고아 접수?"
-por.319.d:0 "포르투갈 식민제국의 붕괴와 함께 고아는 무방비 상태가 되었고 우리는 이 땅을 차지할 수 있을 것입니다."
-por.319.a:0 "그렇게 하자!"
-por.319.b:0 "그냥 가만히 놔두자."
-
-por.320.t:0 "마라비족 봉기!"
-por.320.d:0 "모잠비크는 오랫동안 포르투갈에 저항해온 마라비족의 고향입니다. 현재 포르투갈 식민제국의 붕괴를 틈타 그들은 압제자들을 몰아내기 위해 봉기하고 있습니다."
-por.320.a:0 "건방지군!"
-
 por.321.t:0 "독일령 중앙아프리카에서의 소식: 경찰관이 총격을 당하다"
 por.321.d:0 "오늘 우리는 한 마콘드 부족민이 루사카에서 독일령 중앙아프리카 경찰을 사살했다는 소식을 들었습니다. 도시는 여전히 충격에 빠져 있고 범인은 현지 경찰의 조사를 받기 위해 구금되어 있습니다. 우리는 그들을 혼란에 빠뜨리고 있고, 범인이 사용한 무기가 우리 것임은 분명하지만, 의심을 받지 않으려면 우리는 뻔뻔해질 필요가 있습니다."
 por.321.a:0 "물론 그래야지."
@@ -476,7 +452,7 @@ por.322.t:0 "독일령 중앙아프리카에서의 소식: 군수창고가 약�
 por.322.d:0 "또다른 소식입니다. 오늘 오전 몇몇 '도둑들'이 독일령 중앙아프리카의 한 군수 창고에서 보급품을 훔쳐 모잠비크로 달아났습니다. 그 '도둑들'은 물론 우리에 의해 지원받고 훈련되었습니다. 그들은 점점 대담해지고 있고 더 이상 중앙아프리카 아스카리를 두려워하지도 않습니다! 우리는 중앙아프리카 정부가 회의를 갖고 이 '도둑들'과 이들이 초래한 영향을 어떻게 해결할지 고심하고 있다는 소문을 들었습니다."
 por.322.a:0 "그들은 어려움을 겪겠군..."
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 RPO_totalist:0 "포르투갈 사회주의 공화국"
 RPO_totalist_ADJ:0 "사회주의 포르투갈"
 RPO_totalist_DEF:0 "포르투갈 사회주의 공화국"

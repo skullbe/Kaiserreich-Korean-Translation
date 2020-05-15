@@ -2,6 +2,9 @@
 
 HOL_focus:0 "네덜란드 기본 중점계통도"
 
+### Leaders ###
+POLITICS_WILHELMINA_DESC:0 "Inaugurated as the Netherlands' first queen after her father's death, Wilhelmina van Oranje-Nassau has ruled the Netherlands as constitutional monarchy since 1890. Her rule saw the Netherlands remaining neutral in Weltkrieg, which some view as the product of the queen's relationship with the German Kaiser, an abortive attempt at a socialist revolution in 1918, the failure of which is attributed to the queen's personal popularity, and the establishment of the Netherlands' first catholic prime minister - much against her majesty's will.\n\nTime will tell however, whether the queen can maintain her position of a symbol of unity to the Dutch people as dark clouds start to gather at the horizon."
+
 ### Flags ###
 HOL_crisis:0 "검은 월요일이 네덜란드를 강타하다"
 hol_putsch:0 "레인데어스가 정부를 전복시키다"
@@ -97,6 +100,8 @@ HOL_idea_negotiate_with_extremists:0 "극단주의자와 협상"
 HOL_idea_negotiate_with_extremists_desc:0 "분별 있는 정치가들은 국익을 위해서 타협하기로 했습니다... 다소 믿을 수 없는 자들과요."
 HOL_idea_neutrality:0 "바타비아의 중립"
 HOL_idea_neutrality_desc:0 "벨기에가 패배한 후, 옛 네덜란드는 한때 중립을 선포함으로써 유럽의 잔혹한 분쟁에 최대한 휩싸이지 않으려 애썼습니다. 새로운 바타비아 코뮌도 그래야 합니다."
+HOL_idea_secret_police:0 "Secret Police"
+HOL_idea_secret_police_desc:0 ""
 
 ### Special ###
 HOL_idea_batavian_courage:0 "바타비아의 저항"
@@ -603,7 +608,9 @@ HOL_requisition_trucks_desc:0 "Trucks are a vital part of an economy based on ex
 HOL_study_mobile_tactics:0 "기동 교리 연구"
 HOL_study_mobile_tactics_desc:0 "We are now starting to get all this new and expensive machinery, but we have no experience actually using them! We should study the usage of mobile truck divisions and tanks otherwise it is all for nothing."
 HOL_mech_infantry:0 "Braat Overvalwagen"
-HOL_mech_infantry_desc:0 ""
+HOL_mech_infantry_desc:0 "Developed in the Dutch East Indies, the Braat Overvalwagen is a cheap to make armoured personel carrier. We can consider adopting this design for the mainland army as well."
+HOL_prepare_the_inundation_lines:0 "Prepare the Inundation Lines"
+HOL_prepare_the_inundation_lines_desc:0 "Ever since our independence war against the Spanish in the 16th century, inundation, or intentional flooding of the land, has been an integral part of our defenses. Properly prepared, it will surely save us again: we have yet to see a tank that can cross water."
 
 ## Navy
 HOL_dutch_navy:0 "네덜란드 해군"
@@ -741,8 +748,6 @@ HOL_third_convention_of_hague:0 "제 3차 헤이그 회담"
 HOL_third_convention_of_hague_desc:0 "The Netherlands are internationally famed as a neutral arbiter between nations. In a time of great global transition, we must play our part as a member of the international community by providing a safe place for negotiations."
 HOL_leave_indonesia:0 "왕국 헌장"
 HOL_leave_indonesia_desc:0 "우리 식민지에 어느 정도의 자치권을 줄 때가 왔습니다. 우리는 그들에게서 얻을 수 있는 모든 도움이 필요할 것입니다."
-HOL_join_phalanstere:0 "팔랑스테르에 합류"
-HOL_join_phalanstere_desc:0 "We are a part of the revolution now, and that means playing our part where it counts. By assisting the other Internationale members in their scientific research we stand to gain too."
 HOL_south_african_policy:0 "남아프리카 정책"
 HOL_south_african_policy_desc:0 "South Africa is populated by a number of Dutch-descent Boers, making its political fate in these troubled times particularly concerning to our own domestic political scene. There have been a number of calls from all sides of the left-right spectrum to consider our approach"
 HOL_help_the_boers:0 "보어인들을 돕다"
@@ -1860,19 +1865,6 @@ holfocus.11.t:0 "Third National Assembly Elected"
 holfocus.11.d:0 "Following an election, every municipal commune has sent their representatives to the third National Assembly. This assembly will decide over the future of the new Dutch order."
 holfocus.11.a:0 "Good."
 
-holfocus.12.t:0 "네덜란드가 팔랑스테르에 합류하기를 원하다"
-holfocus.12.d:0 "The Dutch have expressed their hope to join the phalanstère research program. It could provide a boon to our joint technological progress... Or result in the reactionaries overrunning them and ending up with our technology."
-holfocus.12.a:0 "Welcome them."
-holfocus.12.b:0 "Thanks but no thanks."
-
-holfocus.13.t:0 "코뮌이 네덜란드의 팔랑스테르 합류를 허락하다!"
-holfocus.13.d:0 "The French have accepted our request for admission in the phalanstère research program. This will be a great boon for our research and development."
-holfocus.13.a:0 "Good."
-
-holfocus.14.t:0 "코뮌이 네덜란드의 팔랑스테르 합류를 거부하다"
-holfocus.14.d:0 "The French have waived our request for admission into the Phalanstère research program, saying that we are too weak and that they are afraid reactionaries will overrun us and thus get their technology."
-holfocus.14.a:0 "That's one dystopian prediction..."
-
 holfocus.15.t:0 "Battle for Gouda"
 holfocus.15.d:0 "The Red Front and Landwacht were planning to turn the city of Gouda into one huge riot, but we were prepared this time; in a grand operation where the police, military and intelligence government groups worked together, we made sure we had a sizeable police force ready. Using that force, we took down local leadership of both sides, dispersing the crowds. Even if there had been some deaths, it is clear that every would-be fight between them will be met with the same force, until they run out of fighting power."
 holfocus.15.a:0 "That's good."
@@ -2629,6 +2621,7 @@ HOL_dnupgrade_tt:0 "The following ships will be taken out of service for half a 
 HOL_cvupgrade_tt:0 "The HrMs Gouden Leeuw will be upgraded to both carry more planes as well as slightly increase her speed."
 HOL_usavol_tt:0 "A Dutch infantry division will be created."
 HOL_destroyer_escort_tt:0 "The production of the requested Destroyer Escorts will be delayed."
+HOL_prepare_the_inundation_lines_tt:0 "These allow for the §YFlooding§! and §YDraining§! of certain provinces surrounding Fortress Holland, giving defensive bonuses.\n"
 
 ### Relations ###
 HOL_german_trade_tolerated:0 "Tolerates German Trade"
@@ -2671,7 +2664,7 @@ totalist_acceptance:0 "§Y전체주의§! 수용"
 paternal_autocrat_acceptance:0 "§Y세습전제주의§! 수용"
 national_populist_acceptance:0 "§Y국민대중주의§! 수용"
 
-#Cosmetic Tags
+### Cosmetic Tags ###
 BATCOM_totalist:0 "바타비아 코뮌"
 BATCOM_totalist_ADJ:0 "바타비아"
 BATCOM_totalist_DEF:0 "바타비아 코뮌"
