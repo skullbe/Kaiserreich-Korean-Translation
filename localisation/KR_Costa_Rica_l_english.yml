@@ -24,6 +24,10 @@ COS_paternal_autocrat_party:0 "군사정부"
 COS_national_populist_party_long:0 "카리브 군단"
 COS_national_populist_party:0 "카리브 군단"
 
+### Leaders ###
+POLITICS_RICARDO_JIMENEZ_OREAMUNO_DESC:0 "The son of two-time president Jesús Jiménez Zamora, Ricardo Jiménez Oreamuno rose to prominence before the Weltkrieg. In his first term as president between 1910 and 1914, he oversaw the repayment of the country's crippling national debt. By his third stint as president, the country's national debt had again skyrocketed, and again President Jiménez attempted, less successfully than before, to bring Costa Rica back from the brink of default.\nLooking forward, Jiménez fears that without a principled hand to guide it, Costa Rican democracy could be hijacked by foreign economic interests. Perhaps though he wishes to retire from politics, such fears will ensure his continued presence."
+POLITICS_COUNCIL_COS_DESC:0 "정치적 혼란이 큰 상황에서, 보수적인 각료 회의가 국정 과제를 정리하는 와중에 국가원수와 정부수반에 임명되었습니다."
+
 ### Tooltips ###
 USA_DENIED:0 "§Y미국§!이 우리의 요청을 거절했습니다"
 GER_DENIED:0 "§Y독일§!이 우리의 요청을 거절했습니다"
@@ -943,14 +947,14 @@ cos.86.t:0 "히메네스가 당선되다"
 cos.86.d:0 "통합 정부에 참여한 정당들 사이의 의견 차이로 인해 긴급 선거가 개최되었고 히메네스 전 대통령이 당선되었습니다. 1932년부터 1936년까지 재임 기간 중에 보여줬던 착실한 성격과 균형잡힌 예산을 유지하는 능력을 인정받은 그는 압도적인 득표율을 기록하면서 선거에서 승리했습니다."
 cos.86.a:0 "행운을 빈다"
 
-cos.87.t:0 "니카라과군이 국경을 넘다"
+cos.87.t:0 "[FROM.GetNameDef]에서 국경을 넘다"
 cos.87.d:0 "생디칼리스트 마누엘 모라 발베르데의 지지를 얻은 니카라과 정부가 대통령직 승계 문제에 개입하기로 결정했습니다. 공식적으로는 아무런 개입도 하지 않고 있다고 부인하고 있지만, 니카라과 민병대 소규모 분견대가 국경을 넘어 생디칼리스트 요새로 집결하는 모습이 포착되었습니다. 우리 군대가 분열되어 있고 보수층이 사분오열되어있는 현재 노동공화국이 사실상 이루어질 듯 합니다."
 cos.87.a:0 "세계혁명은 더욱 강력해지고 있다!"
 
-cos.88.t:0 "니카라과가 중앙아메리카 연방 통합을 요청하다"
+cos.88.t:0 "[FROM.GetNameDef]에서 중앙아메리카 연방 통합을 요청하다"
 cos.88.d:0 "노동 공화국이 떠오를 수 있도록 한 것도 니카라과고, 우리나라에 마지막 비수를 꽃을 만한 나라도 니카라과라는 사실은 누구나 알고 있습니다. 모라에게 자신들의 중앙아메리카 미래상을 받아들이라고 촉구하고 있습니다. 코스타리카 대통령은 국가주권을 잃고 싶어하지 않는 반면에 니카라과는 필사적으로 추구하는 연합을 강제할 만한 무기와 수단을 가지고 있기 때문에 양국간 긴장이 높아져 가고 있습니다."
 cos.88.a:0 "코스타리카가 중앙아메리카에 가입했다"
-cos.88.b:0 "저들의 "제안"에 거부해라"
+cos.88.b:0 "저들의 "제안"을 거부해라"
 
 cos.881.t:0 "코스타리카를 차지할 기회"
 cos.881.d:0 "과르디아 대통령이 보수주의자와 생디칼리스트의 연합에 의해 코스타리카에서 강제로 쫓겨나면서, 저 나라를 통일된 중앙아메리카라는 꿈 속에 완전히 통합시킬 수 있는 기회가 왔습니다. 코스타리카 국민들 사이에서는 우리에 대한 감정이 강렬하지만, [NIC.GetLeader]는 비밀 공작원과 게릴라 전사를 파견해 발베르데가 코스타리카를 장악하는 것을 "지원"함으로써 우리의 영유권을 주장하고 코스타리카를 점령할 수도 있다고 생각합니다."
