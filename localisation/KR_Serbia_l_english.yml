@@ -3,9 +3,9 @@
 serbia_focus: "세르비아 중점 계통도"
 
 ### Leaders ###
-POLITICS_SLOBODAN_JOVANOVIC_DESC:0 "Slobodan Jovanovic is one of Serbia's most prolific jurist, historian, sociologist, journalist and literary critic. He distinguishes himself with a characteristically clear and sharp writing style. His only interest is to protect the Serbian people and the constitution from authoritarianism."
-POLITICS_PETAR_BOJOVIC_DESC:0 "A military commander during the Serbian-Ottoman Wars, the Serbo-Bulgarian war, the Balkan Wars and the Weltkrieg, Bojovic has been Voivoda and Regent of Serbia since its independence from Austria after the Weltkrieg."
-POLITICS_ALEXANDER_II_DESC:0 "A military commander during the Balkan Wars and the Weltkrieg, the former Crown Prince of Serbia is now the King. He is a member of the Serbian Karađorđević dynasty, and is the second King from this family, after his father."
+POLITICS_SLOBODAN_JOVANOVIC_DESC:0 "세르비아의 법학자, 역사학자, 사회학자, 언론인이자 문학 평론가인 슬로보단 요바노비치는 유난히 분명하고 날카롭게 세상을 바라봅니다. 그의 유일한 관심은 세르비아 국민들과 헌법을 권위주의로부터 보호하는 것입니다."
+POLITICS_PETAR_BOJOVIC_DESC:0 "세르비아-오스만 전쟁, 세르비아-불가리아 전쟁, 발칸 전쟁, 그리고 세계대전까지 군 사령관을 맡았던 보요비치은 세계대전 이후 오스트리아로부터 독립한 세르비아의 보이보다이자 통치자입니다."
+POLITICS_ALEXANDER_II_DESC:0 "발칸 전쟁과 세계대전에서 군 사령관을 맡았던 예전의 세르비아 왕세자는 이제 국왕이 되었습니다. 그는 세르비아 카라조르제비치 왕조의 일원으로 그의 아버지에 이은 두 번째 왕입니다."
 
 ### Ideas ###
 SER_jingoism:0 "대외 강경적인 영토 주장"
@@ -422,9 +422,9 @@ SER_republic_authoritarian_democrat_DEF:0 "세르비아 공화국"
 SER_republic_paternal_autocrat:0 "세르비아 공화국"
 SER_republic_paternal_autocrat_ADJ:0 "세르비아"
 SER_republic_paternal_autocrat_DEF:0 "세르비아 공화국"
-SER_republic_national_populist:0 "세르비아 State"
+SER_republic_national_populist:0 "세르비아국"
 SER_republic_national_populist_ADJ:0 "세르비아"
-SER_republic_national_populist_DEF:0 "the 세르비아 State"
+SER_republic_national_populist_DEF:0 "세르비아국"
 
 SER_kingdom_totalist:0 "세르비아 사회주의 공화국"
 SER_kingdom_totalist_ADJ:0 "세르비아"
