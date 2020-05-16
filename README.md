@@ -1,3 +1,6 @@
+
+# [카이저라이히 한글패치 깃헙 주소가 변경되었습니다.](https://github.com/FriedrichvonEbert/KaiserreichKoreanTranslation) 0.12 버전부터 그쪽에서 작업이 진행됩니다.
+
 # 단어사전 보고 수정 부탁드립니다.
 # [0.11.2 호환작업 ](https://www.reddit.com/r/Kaiserreich/comments/fjrfso/hotfix_0112_is_out/) (패치노트)
 # [Kaiserreich 한국어 번역](https://steamcommunity.com/sharedfiles/filedetails/?id=1972234971)은 공개 번역으로써 누구든지 참여하실 수 있습니다.
